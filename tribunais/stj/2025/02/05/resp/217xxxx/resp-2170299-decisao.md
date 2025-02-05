@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de recurso especial interposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS, com fundamento no artigo 105, inciso III, alíneas "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou demanda relativa à legitimidade passiva dos herdeiros para figurar em ação de consignação em pagamento proposta pela seguradora.
+O julgado deu provimento ao recurso de apelação do recorrido nos termos da seguinte ementa (fl. 530):
+APELAÇÃO. SEGURO RESIDENCIAL. CONSIGNAÇÃO EM PAGAMENTO. Sentença de procedência. Inconformismo dos requeridos. Ilegitimidade passiva. Falta de interesse de agir. Acolhimento. Contrato de seguro firmado pela "de cujus". Espólio que é parte legítima para receber os valores apurados, não os herdeiros. Ausência de dúvida legítima a quem pagar. Valores que devem ser depositados nos autos da ação de inventário, que está em andamento. Extinção sem resolução do mérito. Artigo 485, VI do CPC. Condenação da autora as verbas de sucumbência. Recurso provido.
+Rejeitados os embargos de declaração opostos (fl. 570).
+No presente recurso especial, o recorrente alega, preliminarmente, ofensa aos arts. 489, IV, e 1.022, I e II do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz que (fl. 588):
+Como mencionado, o V. Acórdão de fls. 529/534 claramente violou, negou vigência aos incisos IV e V do 335 do Código Civil, posto que existiam claras e comprovadas dúvidas, pela Recorrente, a quem pagar o valor apurado, correspondente aos bens particulares da "de cujus" Liliane Chieppe e em qual proporção. Além disso, a Recorrente tentou inúmeras vezes depositar o valor da indenização nos autos do inventário, o que não foi possível ante a ausência de autorização judicial.
+Aduz, no mérito, que o acórdão estadual contrariou o art. 335, IV e V, do CC e arts. 539 a 548 do CPC. Alega que (fl. 594):
+Ao efetuar o pagamento da indenização, se deparou a Recorrente com claras e objetivas dúvidas a quem pagar o valor apurado, correspondente aos bens particulares da "de cujus" Liliane Chieppe e em qual proporção.
+Os filhos da "de cujus", ora Recorridos, refutavam a hipótese do viúvo ser herdeiro - de tal modo que seriam eles os únicos beneficiários da indenização securitária decorrente da existência do contrato de seguro e do sinistro noticiado -, seja com relação ao regime do casamento/pacto nupcial, seja em razão dos fatos que são objeto de apuração do processo criminal.
+Apresentadas as contrarrazões (fls. 605 - 616), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 617 - 619), o que ensejou a interposição de agravo (fls. 621 - 636).
+Apresentada contraminuta do agravo (fls. 640 - 652).
+Este Relator houve por bem dar provimento ao agravo para determinar a conversão dos autos em recurso especial (fls. 665 - 665).
+É, no essencial, o relatório.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem deixou claro que não há dúvida quanto a quem deveria receber o valor da indenização, visto que o contrato de seguro foi firmado pela de cujos e, portanto, o espólio é o legitimado a receber em favor dos interesses da parte contratante.
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Quanto à alegação de afronta aos "arts. de 539 a 548 do CPC", o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo dos dispositivos deixou de ser aplicado, o que atrai os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF. (AgInt no AREsp n. 2.044.724/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/9/2022.)
+2. A mera citação genérica de dispositivo de lei tido como violado desarticulada de fundamentação vinculada à norma não enseja o cabimento de recurso especial. Nos termos da jurisprudência, o recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+ ..  (AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/6/2022.)
+Quanto à alegada violação do art. 335, IV e V, do CC, o Tribunal de origem consignou que (fl. 532):
+No caso em tela, a seguradora requerente argumenta que o procedimento seria cabível uma vez que haveria dúvida a quem pagar o valor apurado (fls. 09), tendo em vista que os herdeiros da "de cujus" Liliane negam que o viúvo Cláudio Pitanga tenha a condição de herdeiro.
+Ocorre que, ao contrário do alegado, não vislumbro alegada dúvida.
+Ainda que, de fato, haja discussão sobre a condição de herdeiro do ex-esposo da falecida, é incontroverso que o contrato de seguro foi celebrado pela "de cujus" Liliane (fls. 02; 27/30).
+Neste sentido, é evidente que o valor relativo ao seguro deve ser creditado em favor do espólio, não havendo legitimidade dos requeridos Carolina, Gabriel, Cláudio Mário e Cláudio Pitanga, para figurar no polo passivo deste demanda.
+E ainda que (fls. 533-534):
+No mais, considerando que já está em andamento a ação de inventário nº 0002809-96.2017.8.08.0024 perante o Juízo da 1ª Vara de Órfãos e Sucessões de Vitória/ES, caberia a requerente efetuar o depósito do valor apurado naqueles autos, tendo em vista que é aquele o juízo competente para decidir sobre a legitimidade dos herdeiros, bem como sobre a forma sobre se deve partilhar o valor apurado.
+(..)
+Assim, diante da falta de interesse de agir da requerente, que deveria ter efetuado o depósito dos valores na ação de inventário e da ilegitimidade passiva dos requeridos, de rigor a extinção do feito, sem resolução do mérito, nos termos do artigo 485, inciso VI do Código de Processo Civil.
+Verifica-se que o Tribunal de origem extinguiu o feito considerando a falta de interesse de agir da recorrente, que deveria ter depositado os valores na ação de inventário, e considerando ainda a ilegitimidade passiva dos requeridos, pois a parte legítima seria o espólio da contratante.
+Com efeito, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar o interesse de agir e cabimento da ação de consignação em pagamento, em razão de ausência de autorização judicial para depositar o valor no inventário e em razão da dúvida a respeito de quem seriam os herdeiros.
+Entretanto, deixa de impugnar o fundamento do acordão recorrido no sentido de que os herdeiros não são partes legítimas para figurar na ação de consignação em pagamento, mas apenas o espólio , o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZADA. CONTRATO DE FRANQUIA. EXIBIÇÃO DE DOCUMENTOS. REQUERIMENTO ADMINISTRATIVO PRÉVIO E IDÔNEO. NECESSIDADE. EXCEÇÃO. DOCUMENTO COMUM ÀS PARTES. SÚMULA Nº 83/STJ. DISTINGUISHING REALIZADO. NECESSIDADE DO DOCUMENTO. SÚMULA Nº 7/STJ. FUNDAMENTOS. NÃO IMPUGNADOS. SUFICIÊNCIA. SÚMULA Nº 283/STF.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Embora seja necessário o prévio pedido administrativo para a exibição de documentos, conforme entendimento firmado no Recurso Especial nº 1.349.453/MS, é admissível a dispensa desse requisito quando o documento em questão for de natureza comum às partes.
+3. Na hipótese, rever o entendimento do acórdão recorrido quanto à existência de documentos comuns entre as partes, bem como de sua necessidade ao deslinde da controvérsia, demanda o revolvimento do acervo fático-probatório dos autos, providência vedada em recurso especial pela Súmula nº 7/STJ.
+4. A ausência de impugnação de fundamento suficiente para manter o acórdão recorrido incólume atrai o óbice da Súmula nº 283/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.976.621/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12%sobre o valor atualizado causa.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. SEGURO RESIDENCIAL. CONSIGNAÇÃO EM PAGAMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 539 A 548 DO CPC. SÚMULA N. 284/STF. CONTRATO FIRMADO PELA "DE CUJOS". LEGITIMIDADE DO ESPÓLIO PARA RECEBIMENTO DA INDENIZAÇÃO. ILEGITIMIDADE DOS HERDEIROS PARA FIGURAR NA AÇÃO DE CONSIGNAÇÃO. FUNDAMENTO INATACADO. SÚMULA N. 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
