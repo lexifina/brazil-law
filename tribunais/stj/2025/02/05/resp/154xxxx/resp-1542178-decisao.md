@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, recurso especial interposto por ALVA COMERCIAL IMPORTADORA E EXPORTADORA LTDA - ME, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, publicado na vigência do CPC/1973 e que se encontra assim ementado:
+TRIBUTÁRIO. ADUANEIRO. LIBERAÇÃO DE MERCADORIAS. INTERPOSIÇÃO FRAUDULENTA DE TERCEIROS. PERDIMENTO. ARTIGO 33 DA LEI 11.488/2007. INOVAÇÃO DA LIDE. PRINCÍPIO DA EVENTUALIDADE.
+1. O excesso de prazo na conclusão do PECA apenas enseja o reconhecimento do direito à conclusão do procedimento, e não a liberação das mercadorias.
+2. Mesmo com o advento do art. 33, da Lei 11.488/2007, permanece legítima a imposição da pena de perdimento nos casos de interposição fraudulenta de terceiros
+3. É defeso ao autor trazer nas suas razões recursais pedido que não fora articulado na inicial.
+Opostos embargos de declaração, foram parcialmente acolhidos, sem efeitos infringentes, tão somente para fins de prequestionamento.
+No recurso especial, a recorrente apontou violação ao art. 33 da Lei 11.488/2007, bem como divergência jurisprudencial, sustentando que estaria ela sujeita apenas à penalidade de multa prevista no referido dispositivo legal, sendo inaplicáveis as penas de perdimento e de declaração de inaptidão do CNPJ da empresa.
+Assim, pediu o provimento do recurso especial, decretando-se a nulidade do procedimento especial de controle aduaneiro, em razão do alegado flagrante excesso de prazo, e declarando-se a impossibilidade de aplicação da pena de perdimento à suposta infração. Pediu, ainda, seja declarado o não cabimento da pena de inaptidão do CNPJ, determinando-se o restabelecimento do CNPJ da recorrente.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+A irresignação não merece acolhida.
+Consoante assentado pela Segunda Turma deste STJ, o art. 23, V, do Decreto-lei 1.455/76, com a redação determinada pela Lei 10.637/2002, estabelece a aplicação da pena de perdimento, no caso de ocultação do sujeito passivo, do real vendedor, comprador ou de responsável pela operação de importação ou exportação, mediante fraude ou simulação, inclusive a interposição fraudulenta de terceiros. O art. 33 da Lei 11.488/2007, por sua vez, cuida de situação diversa, ao preconizar o pagamento de multa de 10% (dez por cento) sobre o valor acobertado, quando a pessoa jurí dica ceder seu nome, inclusive mediante a disponibilização de documentos próprios, para a realização de operações de comércio exterior de terceiros, com vistas ao acobertamento de seus reais intervenientes ou beneficiários (AgInt no AREsp 236.506/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 20/6/2017, DJe de 28/6/2017).
+Com efeito, segundo a jurisprudência desta Corte, "importação mediante interposição fraudulenta de terceiro - irrelevante seja ela efetiva ou presumida - admite a aplicação primeira da pena de perdimento de bens e, na sua impossibilidade, consequente aplicação da multa correspondente ao valor da operação ao importador oculto (§ 3º do Decreto-Lei 1.455/1976), bem como a aplicação da multa de 10% do valor da operação ao importador ostensivo (art. 33 da Lei 11.488/2007)" (REsp 1.632.509/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/6/2018, DJe de 26/6/2018).
+Com relação à alegada inaplicabilidade da pena de declaração de inaptidão do CNPJ da empresa, o recurso especial é inadmissível, em razão da incidência da Súmula 283/STF, por analogia, uma vez que a recorrente deixou de impugnar, especificamente, os fundamentos do seguinte capítulo do acórdão recorrido (fls. 786-787):
+2.3. Multa, inaptidão e reativação do CNPJ
+Por fim, no que tange aos pedidos de substituição da pena de multa pela de inaptidão de CNPJ, bem ainda ao pedido de reativação do CNPJ, assiste razão à União.
+Observo que tais pedidos não foram postulados perante o Juízo de primeiro grau.
+É cediço que, por força do princípio da eventualidade, as partes devem propor, em um mesmo momento processual, todos os meios de ataque e defesa, ainda que contraditórios entre si, sob pena de preclusão. Nesta esteira:
+ ..
+Assim, nesse ponto, não conheço do apelo, porquanto é defeso à apelante trazer nas suas razões recursais pedido que não fora articulado na inicial.
+Por fim, nos termos dos arts. 541, parágrafo único, do CPC/1973; e 255, §§, do RISTJ, a divergência jurisprudencial, com fundamento na alínea c do permissivo constitucional, exige comprovação e demonstração, em qualquer caso, por meio de transcrição dos trechos dos acórdãos que configurem o dissídio. Devem ser mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, providência não realizada, no caso, em que a recorrente limitou-se a transcrever ementas.
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial foi interposto contra acórdão publicado na vigência do CPC/1973, como dispõe o Enunciado administrativo 7/STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Intimem-se.
+EMENTA
