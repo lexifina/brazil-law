@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS EDUARDO REIS DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, no julgamento da apelação criminal n. 1.0000.23.068957-2/001.
+Consta dos autos que o paciente foi condenado às penas de 04 (quatro) anos e 08 (oito) meses de reclusão, em regime inicial fechado, e 23 (vinte e três) dias-multa pela prática do crime previsto no art. 155, § 4º, incisos I e IV, do Código Penal.
+O Recurso de Apelação interposto pelo paciente foi desprovido.
+Na presente impetração, a Defesa argumenta que todos os depoimentos prestados em juízo são nulos, uma vez que, na audiência de instrução e julgamento, foi realizada a leitura dos depoimentos das testemunhas colhidos na fase inquisitiva, violando-se, assim, do disposto no art. 204 do Código de Processo Penal. Aduz que a mera confirmação em juízo dos depoimentos prestados em fase de Inquérito Policial não pode ser utilizada como prova "judicializada" e, por consequente, autorizar a imposição de um decreto condenatório. Requer, ao final, a absolvição do paciente.
+Não houve pedido de medida liminar.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do habeas corpus (fls. 453-455).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível nulidade do processo em razão da não observância da norma do art. 204 do Código de Processo Penal por ocasião dos depoimentos prestados em Juízo.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ile gal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque, nos termos do acórdão recorrido, a autoria do fato delituoso foi comprovada por meio do depoimento da vítima, dos policiais militares (que ratificaram os depoimentos prestados na fase inquisitorial) e de uma testemunha, todos sob o crivo do contraditório e da ampla defesa.
+Além disso, esta Turma já teve oportunidade de decidir que a leitura para ratificação de depoimento prestado em solo policial não configura nulidade, mormente quando utilizada para confirmar seu inteiro teor e pressupondo a falibilidade da memória humana pelo decurso do tempo, a fim de evitar prejuízo à instrução processual (AgRg no HC n. 858.214/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Neste contexto, entendo que não há como ser reconhecida nulidade pelo fato de a testemunha ter feito breve consulta às suas declarações anteriormente prestadas na fase inquisitorial, uma vez que tal conduta está autorizada pelo parágrafo único do art. 204 do Código de Processo Penal, o qual dispõe que não será vedada à testemunha, entretanto, breve consulta a apontamentos.
+Destaco, por fim, que o habeas corpus não é via adequada para apreciar alegações que buscam a absolvição do paciente, pois é vedado o revolvimento do conjunto fático-probatórios dos autos.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
