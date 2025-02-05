@@ -1,0 +1,43 @@
+DECISÃO
+Em análise, recurso especial interposto por ADILSON ADORNO DE PAULA, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. COMPETÊNCIA FEDERAL DELEGADA. NÃO OCORRÊNCIA. ARTIGO 109, § 3º, DA CF/88. EC 103/2019. LEI 13.876/19. RESOLUÇÕES PRES 322/2019 E 334/2020. PERPETUATIO JURISDICTIONIS. NÃO OCORRÊNCIA. DECISÃO AGRAVADA MANTIDA. AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. Recurso conhecido, com interpretação extensiva ao artigo 1.015, III, do CPC.
+2. O artigo 109, § 3º., da CF/88, com a redação dada pela Emenda Constitucional 103/2019, prevê que lei poderá autorizar que as causas de competência da Justiça Federal em que forem parte instituição de previdência social e segurado possam ser processadas e julgadas na justiça estadual quando a comarca do domicílio do segurado não for sede de vara federal.
+3. A Lei nº 13.876, de 20/09/2019, em seu artigo 3º, com vigência a partir de 01/01/2020, ao dar nova redação ao artigo 15, inciso III, da Lei nº 5.010/66, disciplina que as causas em que forem parte instituição de previdência social e segurado e que se referirem a benefícios de natureza pecuniária, quando a Comarca de domicílio do segurado estiver localizada a mais de 70 km (setenta quilômetros) de Município sede de Vara Federal.
+4. A Resolução PRES n.º 322/2019 dispôs sobre o exercício da competência delegada no âmbito da Justiça Federal da 3.ª Região, nos termos do disposto no art. 3.º da Lei n.º 13.876/2019, elencando o Município de Monte Alto, como Município com competência federal delegada, porém, em 27/02/2020, a Resolução 334, alterou os Anexos I e II da Resolução PRES n.º 322/2019, suprimindo o referido município. É dizer, o Município de Monte Alto/SP não integra mais o rol de Municípios com competência federal delegada, motivo pelo qual, agiu com acerto o R. Juízo a quo ao declinar a competência com a remessa dos autos à Vara Federal de Catanduva.
+5. Incide na hipótese, o art. 43 do CPC, 2ª parte, vez que, com a alteração da competência absoluta da Justiça Estadual, excepciona-se a perpetuatio jurisdictionis.
+6. Agravo de instrumento improvido (fl. 197).
+Opostos embargos de declaração, foram rejeitados pelo acórdão de fls. 227-233.
+No recurso especial, o recorrente aponta negativa de vigência ao art. 1.022, II, do CPC/2015, ao fundamento de que "o Venerado Acórdão conheceu, mas negou os Embargos de Declaração, sob fundamento que não são necessários decidir sobre todos os temas recursais, deixando de se manifestar sobre a negativa de vigência do artigo 3, parágrafo 3, da Lei Federal n. 10.259 de 12/07/2001, a contrário senso, além dos artigos 54, 63 e 65 do Novo Código de Processo Civil e Súmula 33 do Colendo Superior Tribunal de Justiça" (fl. 248).
+Alega, ainda, violação aos arts. 15 da Lei 5.010/66 e 54, 63 e 65 do CPC, pois "a competência territorial é relativa e, assim, não pode ser decretada "ex ofício", consoante Jurisprudência Consolidada na Súmula 33 do Colendo Superior Tribunal de Justiça" (fl. 254).
+Requer, ao final, o provimento do recurso.
+O recurso especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 1.022, I e II, do CPC/2015, o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+No que diz respeito ao mérito, o Tribunal de origem negou provimento ao agravo de instrumento, com base nos seguintes fundamentos:
+Analisando os autos, verifico que a ação principal foi distribuída, em 06/04/2020, perante a Comarca de Monte Alto/SP, local do domicilio do agravante.
+Com efeito, o artigo 109, § 3º., da CF/88, com a redação dada pela Emenda Constitucional 103/2019, assim dispõe:
+"Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+§ 3º Lei poderá autorizar que as causas de competência da Justiça Federal em que forem parte instituição de previdência social e segurado possam ser processadas e julgadas na justiça estadual quando a comarca do domicílio do segurado não for sede de vara federal."
+Por sua vez, a Lei nº 13.876, de 20/09/2019, em seu artigo 3º, com vigência a partir de 01/01/2020, ao dar nova redação ao artigo 15, inciso III, da Lei nº 5.010/66 (organiza a Justiça Federal de 1ª. Instância e dá outras providências), assim prevê:
+ ..
+De acordo com a nova redação do art. 15, III, da Lei 5.010/66, pela Lei 13.876/2019 (com vigência em 01/01/2020), quando a Comarca não for sede de Vara Federal, poderão ser processadas e julgadas na Justiça Estadual as causas em que forem parte instituição de previdência social e segurado e que se referirem a benefícios de natureza pecuniária, quando a Comarca de domicílio do segurado estiver localizada a mais de 70 km (setenta quilômetros) de município sede de vara Federal.
+Observa-se que restou mantida a existência da competência material delegada, da Justiça Federal para a Estadual, em ações para obtenção de benefício de natureza pecuniária contra o INSS, porém, apenas se a Comarca da Justiça Estadual do domicílio do segurado estiver localizada a mais de 70 (setenta) quilômetros de município sede de Vara Federal.
+A definição de quais Comarcas da Justiça Estadual se enquadram no critério de distância retro referido compete ao respectivo TRF, através de normativa própria e, neste passo, esta E. Corte, por meio da Resolução PRES n.º 322/2019 dispôs sobre o exercício da competência delegada no âmbito da Justiça Federal da 3.ª Região, nos termos do disposto no art. 3.º da Lei n.º 13.876/2019, acima transcrito, elencando o Município de Monte Alto, como Município com competência federal delegada, porém, esta E. Corte, por meio da Resolução 334, em vigor a partir de 03/03/2020, alterou os Anexos I e II da Resolução PRES n.º 322/2019, suprimindo o referido Município.
+É dizer, o Município de Monte Alto/SP, na data da distribuição da ação (06/04/2020), não integrava mais o rol de Municípios com competência federal delegada, conforme Resolução 334, em vigor a partir de 03/03/2020, motivo pelo qual, agiu com acerto o R. Juízo a quo ao declinar a competência com a remessa dos autos à Vara Federal de Catanduva.
+Acresce relevar, ainda, que incide na hipótese, o art. 43 do CPC, 2ª parte, vez que, com a alteração da competência absoluta da Justiça Estadual, excepciona-se a perpetuatio jurisdictionis:
+Art. 43 do CPC: "Determina-se a competência no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta." g. n.
+Diante do exposto, NEGO PROVIMENTO AO AGRAVO DE INSTRUMENTO, nos termos da fundamentação supra.
+Entretanto, a parte recorrente argumentou, tão somente, que "o Venerando Acórdão negou vigência ao artigo 3, parágrafo 3, da Lei Federal n. 10.259 de 12/07/2001, que dispõe onde não estiver instalada Vara do Juizado Especial, a competência territorial é relativa", deixando de refutar os principais motivos trazidos pelo acórdão impugnado para indeferir seu pleito, quais sejam: o Município de Monte Alto/SP, na data da distribuição da ação (06/04/2020), não integrava mais o rol de Municípios com competência federal delegada, conforme Resolução 334, em vigor a partir de 03/03/2020; e a incidência do art. 43 do CPC.
+Desse modo, a subsistência de fundamentos inatacados, aptos a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento das Súmulas 283 e 284 do STF.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO. INOCORRÊNCIA. AÇÃO CIVIL PÚBLICA. EXECUÇÃO INDIVIDUAL DE SENTENÇA. INTERRUPÇÃO DA PRESCRIÇÃO QUINQUENAL. TERMO INICIAL DO PRAZO PRESCRICIONAL. RECEBIMENTO. PARCELAS EM ATRASO. AJUIZAMENTO DA AÇÃO COLETIVA.
+1. Conforme entendimento sedimentado nas Súmulas 283 e 284 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+ ..
+4. Agravo interno desprovido (AgInt no AREsp n. 2.368.855/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+Isso posto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
