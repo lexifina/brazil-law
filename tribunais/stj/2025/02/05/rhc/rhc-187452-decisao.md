@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por MICHELLY FERREIRA GABRIEL contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferido no HC n. 0049612-80.2023.8.16.0000.
+Consta que a recorrente foi presa em flagrante pela prática, em tese, do crime de receptação qualificada, pelo qual foi denunciada. Na audiência de custódia, foi concedida a liberdade provisória.
+Nesta insurgência, a Defesa sustenta a ilegalidade da busca domiciliar, já que não foi visualizado qualquer indício de flagrante anterior ao ingresso dos policiais na residência (fl. 60).
+Alega que
+apenas os depoimentos dos policiais militares afirmando que adentraram a residência de forma lícita e com a suposta autorização (..), não é suficiente, tendo em vista que eles são os responsáveis pelo notável constrangimento (fl. 68).
+Requer, liminarmente e no mérito, o trancamento da ação penal.
+O pedido liminar foi indeferido (fls. 79-81).
+As informações foram prestadas (fls. 89-102 e 104-107).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 110-116).
+É o relatório.
+DECIDO.
+Em consulta ao andamento processual disponível no site da Corte local, observa-se que, após a interposição do presente recurso, foi proferida sentença nos autos da ação penal originária, na qual a recorrente foi condenada pela prática do crime previsto no art. 180, § 1º, do Código Penal, às penas de 03 (três) anos e 08 (oito) meses de reclusão, em regime inicial semiaberto, e 11 (onze) dias-multa.
+Com a superveniente análise exauriente da tese de violação de domicílio no édito condenatório, o novo título deverá ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva quanto à nulidade da prova.
+Mutatis mutandis:
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  LATROCÍNIO.  CORRUPÇÃO  DE  MENOR.  ALEGAÇÃO  DE  NULIDADES  NO  CURSO  DA  INSTRUÇÃO  CRIMINAL.  SUPERVENIÊNCIA  DE  SENTENÇA  CONDENATÓRIA.  NOVO  TÍTULO.  INTERPOSIÇÃO  DE  APELAÇÃO  DEFENSIVA.  INSTRUMENTO  ADEQUADO  PARA  O  REEXAME  DAS  QUESTÕES.  PRETENSÃO  QUE  NÃO  SE  REFERE  À  TUTELA  IMEDIATA  DA  LIBERDADE  AMBULATORIAL  DO  ACUSADO.  SUBVERSÃO  DO  SISTEMA  RECURSAL.  AGRAVO  DESPROVIDO.
+1.  Consoante  se  verifica  dos  autos,  o  processo  já  se  findou,  com  a  prolação  de  sentença  condenatória  em  desfavor  do  réu,  tendo  a  defesa  interposto  a  Apelação  n.  0008691-47.2023.8.26.0050,  perante  o  Tribunal  de  origem,  ainda  pendente  de  apreciação  por  aquele  sodalício,  o  que  prejudica  a  análise  do  presente  writ.
+2.  Com  a  condenação  do  agravante,  as  nulidades  suscitadas  passam  a  ter  suporte  decisório  na  sentença,  que  deverá  ser  examinada  não  na  via  estreita  mandamental,  mas  no  bojo  da  apelação  já  manejada  pela  defesa  perante  o  tribunal  de  origem,  instrumento  processual  adequado  para  o  reexame  da  questão,  sob  pena  de  se  incidir  em  indevida  supressão  de  instância.
+3.  A  Terceira  Seção  do  Superior  Tribunal  de  Justiça  firmou  entendimento  de  que  "a  interposição  do  recurso  cabível  contra  o  ato  impugnado  e  a  contemporânea  impetração  de  habeas  corpus  para  igual  pretensão  somente  permitirá  o  exame  do  writ  se  for  este  destinado  à  tutela  direta  da  liberdade  de  locomoção  ou  se  traduzir  pedido  diverso  em  relação  ao  que  é  objeto  do  recurso  próprio  e  que  reflita  mediatamente  na  liberdade  do  paciente.  Nas  demais  hipóteses,  o  habeas  corpus  não  deve  ser  admitido  e  o  exame  das  questões  idênticas  deve  ser  reservado  ao  recurso  previsto  para  a  hipótese,  ainda  que  a  matéria  discutida  resvale,  por  via  transversa,  na  liberdade  individual  ..  é  indevida  a  subversão  do  sistema  recursal  e  a  avaliação,  enquanto  não  exaurida  a  prestação  jurisdicional  pela  instância  de  origem,  de  tese  defensiva  na  via  estreita  do  habeas  corpus"  (HC  n.  482.549/SP,  relator  Ministro  Rogerio  Schietti  Cruz,  Terceira  Seção,  julgado  em  11/3/2020,  DJe  3/4/2020).
+4.  Agravo  regimental  desprovido  (AgRg  no  HC  n.  846.290/SP,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  16/10/2023,  DJe  de  19/10/2023;  grifamos).
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  ALEGAÇÃO  DE  VÍCIOS  E  NULIDADES  NO  CURSO  DO  PROCESSO.  ATUAÇÃO  DE  GUARDA  MUNICIPAL.  SUPERVENIÊNCIA  DE  SENTENÇA  CONDENATORIA.  PREJUDICIALIDADE.  AGRAVO  REGIMENTAL  A  QUE  SE  NEGA  PROVIMENTO.
+1.  "Com  a  superveniência  da  prolação  de  sentença  condenatória  fica  prejudicada  a  análise  da  nulidade  arguida,  porquanto  a  via  eleita  é  substancialmente  mais  estreita"  (AgRg  no  RHC  71.840/PE,  relator  Ministro  Sebastião  Reis  Júnior,  Sexta  Turma,  julgado  em  5/6/2018,  DJe  12/6/2018).
+2.  Agravo  regimental  desprovido  (AgRg  no  HC  n.  829.293/SP,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  25/09/2023,  DJe  de  28/09/2023).
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
