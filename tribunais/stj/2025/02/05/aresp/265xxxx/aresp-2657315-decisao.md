@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por ENERGISA MATO GROSSO DO SUL - DISTRIBUIDORA DE ENERGIA S.A. contra decisão que não admitiu seu recurso especial, este por sua vez manejado com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado (e-STJ, fl. 853):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - FALECIMENTO DO GENITOR DOS AUTORES EM DECORRÊNCIA DE ACIDENTE COM CABO DE ALTA TENSÃO SOLTO NA FRENTE DE SUA RESIDÊNCIA - RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA - NÃO DEMONSTRA CULPA EXCLUSIVA DA VÍTIMA NEM DE TERCEIROS - RESPONSABILIDADE MANTIDA - VALOR DA INDENIZAÇÃO POR DANOS MORAIS REDUZIDO PARA R$ 75.000,00 - IMPOSSIBILIDADE DE DENUNCIAÇÃO DA SEGURADORA À LIDE - EXPRESSA VEDAÇÃO DO ARTIGO 88 DO CDC - JUROS DE MORA A PARTIR DA CITAÇÃO - RELAÇÃO CONTRATUAL - ARTIGO 405 DO CC - CORREÇÃO MONETÁRIA DA DATA DO ARBITRAMENTO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 881-885).
+Nas razões do recurso especial (e-STJ, fls. 887-896), a insurgente alegou violação aos arts. 186, 884, 927 e 944 do Código Civil; e 14, § 3º, II, do CDC.
+Sustentou, em síntese: a) o afastamento do dever de indenizar em virtude de o evento danoso ter ocorrido por culpa exclusiva da vítima ou terceiros; e b) a exorbitância do valor fixado a título de indenização por danos morais, de modo que é cabível sua redução.
+Contrarrazões às fls. 911-931 (e-STJ).
+O Tribunal de origem não admitiu o recurso especial, o que levou a insurgente o interposição de agravo.
+Contraminutas às fls. 952-974 (e-STJ).
+Brevemente relatado, decido.
+No caso em estudo, a Corte de origem consignou expressamente que não ficou demonstrada a alegada culpa exclusiva da vítima ou de terceiros, reconhecendo a presença dos elementos para a responsabilização da recorrente pelo evento danoso em questão, bem como entendeu pela redução do valor da indenização a título de danos morais anteriormente fixado na sentença, com base nas seguintes justificativas (e-STJ, fls. 493-494 - sem grifo no original):
+Pois bem, segundo o que consta dos autos, no dia 25 de maio de 2016 Sr. Dário Menezes, genitor dos autores/apelados, foi vítima fatal de um acidente ocorrido com um fio de energia que caiu na frente de sua casa.
+Pois bem, como bem observado pelo julgador de 1º Grau, em se tratando de responsabilidade civil do Estado (Poder Público), o art. 37, § 6º, da CF adota a Teoria do Risco Administrativo, segundo a qual, o ente público, incluindo concessionárias de serviço público, respondem objetivamente por danos causados a terceiros.
+(..)
+Dessa maneira, em sendo objetiva a responsabilidade da apelante, restringe-se o "onus probandi" do autor, por se tratar de fato constitutivo do seu direito, segundo o disposto no art. 333, I, CPC, em provar, tão somente, a existência do dano e do nexo de causalidade, essenciais para a configuração do dever indenizatório, mediante produção de provas robustas e concludentes, capazes de relacionar como causa dos danos que sofreu a existência de conduta indevida do réu.
+No caso em tela, os documentos e provas juntadas aos autos não deixam dúvidas de que houve o rompimento do cabo da rede de energia da apelante, na calçada da casa da vítima, tendo lhe causado a morte.
+No que diz respeito ao nexo de causalidade, igualmente demonstrado, em decorrência do serviço prestado pela apelante e o dano apontado pelos recorridos.
+Assim, a presença de tais requisitos é incontroversa.
+Ainda, a empresa apelante afirma que haviam na rede de energia objetos jogados por terceiros (pipa) e que se a vítima não tivesse se aproximado, não teria ocorrido o acidente, não havendo que se falar em falta de manutenção da rede elétrica. Contudo, em que pesem tais argumentos, não existem provas neste sentido e, inclusive, a testemunha Fábio Irala de Oliveira que a rede elétrica existente no local era antiga e não passava por manutenção, havendo inclusive outra morte na mesma rua, bem como estava escuro no momento do ocorrido e não era possível ver o cabo de energia, destaco:
+(..)
+Assim, é possível notar que a vítima não agiu de forma intencional, não havendo que se falar em sua culpa exclusiva, considerando que não tinha condições de ver o fio, pois estava escuro, e este grudou em seu pé.
+Ainda, como bem indicou o juízo singular, o laudo pericial deixa evidente que ocorreu erro na manutenção da rede, veja:
+(..)
+Desta feita, não há como afastar a responsabilidade da companhia de energia elétrica quanto aos fatos que levaram o Sr. Dário Menezes, genitor do autor/apelado, à óbito.
+No caso vertente, são evidentes e inegáveis os danos morais experimentados pelos autores, pois foram privadas do convívio com um ente querido (pai), cuja vida foi ceifada de forma trágica e abrupta.
+Contudo, tenho que o valor de R$ 150.000,00 (cento e cinquenta mil reais) a título de danos morais a cada um dos autores mostra-se excessivo com os fatos que permeiam a demanda, bem como acima do quantum usualmente fixado por esta 4º Câmara Cível.
+(..)
+Nesse sentido, de fato, o quantum fixado deve ser reduzido e, observando recentes julgados desta Câmara, sem ignorar o sofrimento experimentado pelos autores, observada a capacidade financeira da requerida, mostra-se plausível a redução dos danos morais para R$ 75.000,00 para cada autor.
+Diante desse contexto, o acolhimento das teses veiculadas nas razões do recurso especial, centralizadas na alegação de culpa exclusiva da vítima ou de terceiros, com vistas ao afastamento da responsabilidade civil da insurgente, em confronto com as conclusões obtidas pela Corte estadual, não prescindiria do reexame de circunstâncias fático-probatórias da causa, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ.
+Quanto ao montante indenizatório, a jurisprudência desta Corte Superior é firme no sentido de que o valor estabelecido pelas instâncias ordinárias a título de dano moral somente deve ser revisto nas situações em que a condenação se revelar irrisória ou excessiva, em desacordo com os princípios da razoabilidade e da proporcionalidade.
+Na hipótese em exame, levando-se em consideração as particularidades do caso concreto consignadas pelo acórdão recorrido, verifica-se que a quantia indenizatória fixada pelo Tribunal estadual em R$ 75.000,00 (setenta e cinco mil reais) para cada autor, ao reduzir significativamente o valor anteriormente estabelecido na sentença, não se mostra exorbitante, tendo sido observados os princípios da proporcionalidade e da razoabilidade, motivo pelo qual sua revisão é obstada pela Súmula n. 7/STJ.
+Ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ROMPIMENTO DE CABO DE ENERGIA ELÉTRICA. MORTE DE MENOR POR ELETROCUSSÃO. DEVER DE INDENIZAR DA CONCESSIONÁRIA. VALOR INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. A modificação do entendimento firmado no sentido de que a concessionária é responsável pelo evento danoso, na estreita via do recurso especial, encontra óbice na Súmula 7 desta Corte
+2. Em regra, não é cabível na via especial a revisão do montante que foi estipulado pelas instâncias ordinárias, ante a impossibilidade de reanálise de fatos e provas por este Sodalício, conforme o óbice previsto na Súmula 7/STJ. A parte agravante não demonstrou que o valor arbitrado no caso seria excessivo, de forma que o acórdão recorrido deve ser mantido.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.900.659/PI, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE DO ESTADO. MORTE DE MENOR DE IDADE. ATO ILÍCITO DO ESTADO. DANO MORAL. REVISÃO. HIPÓTESE QUE NÃO CONFIGURA IRRISORIEDADE OU EXORBITÂNCIA DO PATAMAR ADOTADO. SÚMULA 7/STJ. AGRAVO INTERNO DOS PARTICULARES DESPROVIDO.
+1. Conforme entendimento desta Corte Superior de Justiça, a indenização por danos morais demanda, em regra, o exame das circunstâncias fático-probatórias dos autos para a sua fixação, medida vedada em razão do enunciado da Súmula 7/STJ. Excetuam-se à tendência de não conhecimento do pleito as situações que revelem a exorbitância ou a irrisoriedade do valor definido.
+2. Hipótese em que a fixação da indenização no julgado agravado considerou o patamar comumente adotado nesta Corte para a reparação por danos morais de evento morte, não se revelando o estabelecimento da verba em 400 salários mínimos exorbitante ou irrisória a justificar a alteração da sua base nesta seara do Recurso Especial.
+3. Agravo Interno dos particulares desprovido.
+(AgInt no AREsp n. 1.481.414/RJ, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf-5ª Região), Primeira Turma, julgado em 17/5/2021, DJe de 20/5/2021.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 1% (um por cento) sobre o valor atualizado da condenação
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVEL. CULPA EXCLUSIVA DA VÍTIMA NÃO CONFIGURADA. DEVER DE INDENIZAR. CONSTATAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. REDUÇÃO DA QUANTIA INDENIZATÓRIA. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
