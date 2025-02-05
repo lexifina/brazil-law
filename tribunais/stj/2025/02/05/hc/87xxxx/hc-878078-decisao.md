@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ELTON BRAGA DE AQUINO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+O paciente foi sentenciado à pena de seis anos e dez meses de reclusão, em regime inicial fechado, como incurso no crime de tráfico de drogas, sendo negado o direito de recorrer em liberdade e mantida a prisão preventiva. A prisão preventiva foi decretada visando garantir a ordem pública em razão da gravidade da conduta imputada ao paciente e pela quantidade de droga apreendida - 120 quilos de maconha.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar ponderando as condições pessoais favoráveis do paciente. Requer a revogação da prisão preventiva.
+A liminar foi indeferida (fls. 127/128).
+As informações foram prestadas (fls.134/141,142/149, 150/158).
+Pedido de reconsideração (fls. 162/178). Mantida a decisão (fls.181/182 ).
+O Ministério Público Federal opinou pela denegação da ordem (fls.187/191 ).
+É o relatório. DECIDO.
+Verifico que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça, em substituição a recurso próprio, não podendo ser conhecido.
+A Terceira Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Insurge-se o impetrante contra decisão que negou o direito do paciente em recorrer de sentença penal condenatória em liberdade. Impetrado habeas corpus perante o Tribunal de Justiça, a ordem foi denegada, conforme ementa do acórdão abaixo transcrita:
+HABEAS CORPUS - TRÁFICO INTERESTADUAL DE DROGAS E RECEPTAÇÃO - INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE - PACIENTE QUE RESPONDEU PRESO O TRÂMITE PROCESSUAL E NESTA CONDIÇÃO ESTAVA POR OCASIÃO DA SENTENÇA - PRESENÇA DOS REQUISITOS DA PRISÃO PREVENTIVA - INVIABILIDADE - NÃO CONCESSÃO, COM O PARECER. Não há constrangimento ilegal no indeferimento do direito de recorrer em liberdade na hipótese em que o paciente, condenado em regime inicial fechado, pela prática dos crimes de tráfico de drogas e receptação, respondeu preso a ação penal e estava nesta condição por ocasião da sentença condenatória, em especial porque ainda persistem os requisitos da custódia cautelar. Nos termos da jurisprudência da Corte Superior: "A existência de édito condenatório enfraquece a presunção de não culpabilidade, de modo que seria incoerente, não havendo alterações do quadro fático, conceder, nesse momento, a liberdade". (STJ, RHC 69.064/SP).
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a periculosidade social do agente, revelada pelas circunstâncias do crime, bem como pela possibilidade de reiteração delitiva, legitima a decretação da prisão provisória como garantia da ordem pública. É o caso dos autos. Não verifico ilegalidade do decreto de prisão preventiva do paciente.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
