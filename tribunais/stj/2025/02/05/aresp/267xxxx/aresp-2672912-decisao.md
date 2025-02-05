@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por NOTRE DAME INTERMEDICA SAUDE S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 139):
+Apelação. Plano de saúde. Obrigação de fazer. Cumprimento provisório de sentença. Extinção com base no art. 924, III do CPC. Descabimento. Executada que não demonstrou que a clínica credenciada indicada para tratamento do autor estava apta a atendê-lo, conforme laudo médico prescrito. Descumprimento da obrigação imposta em sede liminar caracterizado. Prosseguimento do cumprimento de sentença. Sentença reformada. Recurso provido.
+Rejeitados os embargos de declaração opostos (fls. 166-171).
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas nos arts. 373, I, e 924, III, do CPC, dado que "resta inequívoco que a recorrente, em fiel cumprimento à tutela de urgência, autorizou a realização dos tratamentos em clínicas credenciadas, os quais não tiveram início anterior por recusa do recorrido, que sempre se mostrou resistente às indicações da recorrente a fim de conseguir tratamento em local de sua escolha, bem como auferir vantagem ilícita alegando inveridicamente descumprimento por parte da recorrente" (fl. 157).
+Afirma ainda que, "quanto às alegações de que as clínicas indicadas não eram aptas ao atendimento do recorrido não tem o condão de alterar a sentença de extinção, como equivocadamente ocorreu no acórdão recorrido, posto que o recorrido (autor) não comprovou suas alegações" (fl. 157).
+Subsidiariamente, requer, com base no art. 537, § 1º, I, do CPC, a minoração do valor das astreintes por reputá-lo exorbitante.
+Foram oferecidas contrarrazões ao recurso especial (fls. 178-191).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 199-200), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 216-224).
+O MPF opina pelo desprovimento do recurso (fls. 247-252).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Extrai-se dos autos que a Corte de origem não entendeu como executada a ordem, pois a operadora não comprovou que a clínica disponibilizada atendia as especificidades prescritas no tratamento médico (fl. 141):
+ ..  vale destacar o parecer ministerial de fls. 128/132, segundo o qual, "o plano de saúde, conquanto tenha liberado as autorizações em clínica credenciada, não comprovou que ela é integrada por profissionais detentores de expertise para o tratamento prescrito, não se desincumbindo do ônus de demonstrar, de forma efetiva, a veracidade de tal alegação, nos termos do artigo 373, inciso II, do CPC".
+Assim, inexistente comprovação por parte da executada de que disponibilizou o tratamento ao menor em clínica capacitada, conforme pedido médico, a reforma da r. sentença de extinção é imperiosa, como consequente prosseguimento do cumprimento de sentença.
+Assim, rever a conclusão a que chegou a Corte local para entender, como quer a parte recorrente, que a operadora autorizou tratamento em clínica adequada dentro do prazo estipulado pela sentença demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Ressalta-se que, como bem exarado pelo MPF, "Em recente julgado, esta Corte Superior destacou a superveniência de normas regulamentares de regência e de determinações da ANS que tornaram expressamente obrigatória a cobertura de qualquer método ou técnica indicado pelo médico assistente, inclusive medicação, em número ilimitado de sessões com fonoaudiólogos, psicólogos, terapeutas ocupacionais e fisioterapeutas para pacientes diagnosticados com necessidade de terapias multidisciplinares" (fl. 249).
+A questão referente ao valor das astreintes não foi analisada pelo Tribunal, nem sequer foi objeto dos embargos de declaração. Nos termos da jurisprudência consolidada no Superior Tribunal de Justiça, a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas n. 282 e 356 do Supremo Tribunal Federal, bem como o enunciado da Súmula n. 211/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista a ausência de fixação da referida verba em desfavor da parte ora recorrente, não havendo, portanto, base oponível para sua incidência.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. FIXAÇÃO DE ASTREINTES POR DESCUMPRIMENTO. REVER A CONCLUSÃO A QUE CHEGOU A CORTE LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. REVISÃO DO VALOR DA MULTA DIÁRIA. MATÉRIA NÃO PREQUESTIONADA. SÚMULA N. 282/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
