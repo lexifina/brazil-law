@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, embargos de declaração opostos por FAMA - TRANSPORTES E COMÉRCIO ARARAQUARA LTDA contra decisão que negou provimento ao recurso especial.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, uma vez que:
+Contudo, o que podemos extrair da referida decisão proferida é que apenas se limitou a trazer trechos do acórdão recorrido para justificar a adequada prestação jurisdicional, deixando mais uma vez de avaliar os importantes pontos trazidos pela embargante em sede de Agravo em recurso Especial. Ora, em nenhum momento podemos observar a manifestação tanto, da decisão embargada, quanto do acórdão recorrido, a respeito da possibilidade de discussão dos juros acima da taxa SELIC em sede de exceção de pré-executividade.
+ ..
+É evidente, portanto, a omissão aqui abordada, visto que se deixa de mencionar a respeito dos pontos levantados no Agravo em Recurso Especial que abordam a respeito da ausência de posicionamento do acórdão a respeito da jurisprudência trazida aos autos e consequentemente da possibilidade de discussão dos juros municipais acima da taxa SELIC em sede de exceção de pré-executividade.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes, realizado na minuta e contraminuta recursais . A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou que:
+Quanto à apontada violação aos arts. 489, § 1º, III, IV, e 1.022, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 42-43):
+No tocante à alegada inconstitucionalidade da aplicação de juros superiores à SELIC, não se assiste de razão a ora agravante. A exceção de pré-executividade é cabível somente quando às matérias tratadas são conhecíveis de ofício e, concorrentemente, não demandem dilação probatória, nos moldes da Súmula nº 393 do Superior Tribunal de Justiça. No presente caso, as alegações arroladas pela excipiente e os elementos constantes destes autos, não permitem o deslinde, no plano fático, da controvérsia. A discussão aqui levantada, desta forma, deverá ocorrer por meio de ação própria, até mesmo para que se possa viabilizar às partes o exercício do contraditório e da ampla defesa.
+E ainda, em sede de julgamento de embargos de declaração, assim se manifestou a Corte recorrida (fls. 73-74):
+A Turma Julgadora enfrentou todos os pontos controvertidos apontados pelas partes e expôs com clareza os motivos pelos quais entendeu pela necessidade de dilação probatória a questão acerca da inconstitucionalidade da cobrança de juros acima da Selic, com fundamento na Súmula 393 do STJ, conforme trecho a seguir transcrito:  ..
+Como se vê, a negativa de prestação jurisdicional não restou configurada. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional. Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada. Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
