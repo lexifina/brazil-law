@@ -1,0 +1,47 @@
+DECISÃO
+Em análise, agravo de decisão que deixou de admitir recurso especial interposto por INTERPOWER LOCAÇÃO E SERVIÇOS LTDA em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DESBLOQUEIO DE ATIVOS. SISBAJUD. IMPOSSIBILIDADE. NÃO APRESENTAÇÃO DE OUTROS BENS. RECURSO IMPROVIDO.
+A mera alegação de que o bloqueio de valores, via Sisbajud, é prejudicial ao andamento das atividades realizadas pela empresa, não se reveste de causa suficiente para determinar a liberação dos valores bloqueados.
+Para inviabilizar o bloqueio de valores, a executada deve comprovar que a constrição oferece risco à própria subsistência da empresa e, concomitantemente, apresentar garantias que assegurem a execução fiscal. O que não ocorreu in casu.
+Agravo de Instrumento improvido. (fls. 224/225)
+Os embargos de declaração foram rejeitados (fls. 262/278).
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a parte recorrente aponta, além de divergência jurisprudencial, violação aos arts. 805 e 1.022 do CPC; e 185-A do CTN.
+Contrarrazões às fls. 338/352.
+O Recurso Especial foi negado seguimento e inadmitido pelo Tribunal de origem (fls. 354/357), daí a interposição do presente agravo (fls. 359/385).
+Sem impugnação.
+É o relatório.
+Passo a decidir.
+Preliminarmente, observo que tendo havido a negativa de seguimento do recurso pelo art. 1.030, I, b, em relação ao Tema 425/STJ, a devolutividade do recurso especial fica limitada aos demais pontos cuja recorribilidade não se dá exclusivamente perante o tribunal de origem.
+Quanto à apontada violação aos arts. 489 e 1.022, II, e parágrafo único, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta, nos seguintes termos:
+Nos termos do que restou consignado no r. acórdão, a mera alegação de que a ordem de bloqueio de valores, via Sisbajud, é prejudicial ao andamento das atividades realizadas pela empresa, não se reveste de causa suficiente para determinar a liberação dos valores penhorados. Com efeito, conforme consta, a executada não comprovou o risco à subsistência da empresa por meio da constrição efetivada, assim como não apresentou garantias que assegurem a execução fiscal.
+Noutro ponto, há que ser anotado que o Superior Tribunal de Justiça já consolidou entendimento, em julgamento submetido ao rito do artigo 543-C do CPC - Código de Processo Civil de 1973, Tema nº 425, no sentido de que é possível o deferimento da penhora online mesmo antes do esgotamento de outras diligências. Confira-se:
+ ..
+Este Colegiado possui diversos precedentes nesse sentido, dentre outros, por exemplo: AI 5029243-15.2019.4.03.0000, AI 5029998-39.2019.4.03.0000, AI 5007721-29.2019.4.03.0000, AI 5019179-43.2019.4.03.0000.
+Assim, não há que se exigir o esgotamento da busca de patrimônio penhorável para somente após cogitar-se na adoção do bloqueio de ativos financeiros.
+No caso concreto, o que se verifica é o inconformismo da parte embargante com o resultado do julgado, pretendendo exclusivamente a reapreciação da matéria resistida, que deverá ser feita por recurso próprio, uma vez que não configuram quaisquer das hipóteses do artigo 1.022 do Código de Processo Civil. (fls. 275/277)
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, motivo pelo qual não há como considerar a existência de omissão quanto aos pontos suscitados nos embargos de declaração pela ora agravante.
+Como se vê, a negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC/2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, e § único, do CPC/2015.
+Já no tocante à aplicação da menor onerosidade, observo que o Tribunal de origem manifestou que a parte ora recorrente não produziu qualquer prova que pudesse corroborar suas alegações:
+Por ocasião da análise do pedido de antecipação da tutela recursal, foi proferida a seguinte decisão, in verbis:
+ ..
+Com efeito, conforme consignado, a mera alegação de que a ordem de bloqueio de valores, via Sisbajud, é prejudicial ao andamento das atividades realizadas pela empresa, não se reveste de causa suficiente para determinar a liberação dos valores bloqueados. A agravante não apresentou qualquer prova das suas alegações. Assim, verifico que não foi trazido argumento ou fato novo a ensejar a reforma da r. decisão que indeferiu o pedido de efeito suspensivo, sendo mister a sua manutenção. (fls. 229/231)
+Ora, eventual alteração deste entendimento somente seria possível mediante regresso ao acervo fático-probatório, o que é vedado nesta instância por incidência da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA DE FATURAMENTO DA EMPRESA. RISCO DE INVIABILIDADE DO EXERCÍCIO DA ATIVIDADE EMPRESARIAL. EXISTÊNCIA DE OUTROS BENS PASSÍVEIS DE PENHORA. PRINCÍPIO DA MENOR ONEROSIDADE AO DEVEDOR. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM À LUZ DAS PECULIARIDADES DO CASO CONCRETO. NÃO CABIMENTO. SÚMULA 7/STJ.
+1. Cuida-se de Agravo Interno interposto da decisão monocrática (fls. 462-465) que conheceu do Agravo para não conhecer do Recurso Especial.
+2. Consoante a orientação jurisprudencial do STJ, "é legítima a recusa ou a substituição, pela Fazenda Pública, de bem nomeado à penhora em desacordo com a gradação legal prevista nos arts. 11 da Lei n. 6.830/80 e 655 do CPC, devendo a parte executada apresentar elementos concretos que justifiquem a incidência do princípio da menor onerosidade para afastar a ordem legal" (AgInt no REsp 2.096.069/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22.3.2024).
+3. In casu, o órgão julgador, com base nas peculiaridades do caso concreto, sobretudo no risco de inviabilidade do exercício da atividade empresarial, entendeu que deve prevalecer o princípio da menor onerosidade ao devedor. Nesse panorama, rever as conclusões adotadas pela decisão impugnada demanda reexame de fatos e provas, inadmissível na via especial ante o óbice da Súmula 7 do STJ.
+4. Agravo Interno não provido (AgInt no AREsp n. 2.546.511/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/6/2024, DJe de 17/6/2024 - Grifo nosso).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. OFERTA DE PRECATÓRIO À PENHORA. RECUSA. BLOQUEIO DE ATIVOS FINANCEIROS. LEGALIDADE. CONFORMIDADE COM PACÍFICO ENTENDIMENTO JURISPRUDENCIAL DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. ACÓRDÃO RECORRIDO CUJA CONCLUSÃO DERIVA DO EXAME DE PROVAS. REVISÃO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A só comparação entre as ementas dos julgados confrontados não é suficiente para revelar a similitude fático-jurídica necessária à comprovação da divergência jurisprudencial, a qual, de outro lado, deve-se efetivar com a indicação de precedentes contemporâneos ou supervenientes em sentido contrário aos precedentes indicados no acórdão recorrido. Precedentes.
+3. Conforme definido pela Primeira Seção no REsp n. 1.337.790/PR, repetitivo, a Fazenda Pública pode recusar o oferecimento de precatório à penhora e, não sendo admitida a invocação genérica do princípio da menor onerosidade ao devedor, compete à parte executada comprovar a excessiva onerosidade da constrição de outro bem ou direito, caso observada a ordem legal de preferência. Precedentes.
+4. No caso dos autos, o recurso especial não pode ser conhecido porque, além de não comprovada a divergência jurisprudencial, o acórdão recorrido está em conformidade com a jurisprudência deste Tribunal Superior e eventual conclusão pela onerosidade excessiva depende do exame de provas, providência inadequada na via do especial, consoante enuncia a Súmula 7 do STJ.
+5. Agravo interno não provido (AgInt no AREsp n. 2.350.352/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Por fim, "assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a , servem de justificativa quanto à alínea c do permissivo constitucional" (AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
