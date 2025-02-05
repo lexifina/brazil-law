@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por FUNDAÇÃO ANITA MANTUANO DE ARTES DO ESTADO DO RIO DE J ANEIRO - FUNARJ, com fundamento na incidência, por analogia, da Súmula 282 do STF.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois a matéria foi devidamente prequestionada na origem.
+Assevera, ainda, que:
+Em verdade, o recurso especial estatal enfrenta diretamente esta questão, uma vez que o prosseguimento da execução fiscal em face do Espólio está incorrendo presentemente no desrespeito aos art. 100 do CC/02 e ao art. 910, CPC. Assim, não há que se falar em ausência de impugnação de questão ventilada como fundamento principal, vez que a FUNARJ fundamentou seu recurso nas consequências da continuidade da execução frente a sua propriedade. Ainda assim, conforme relatado no recurso, ainda que o acórdão recorrido tenha entendido desnecessária a extinção da execução em razão de a mudança de propriedade do imóvel no registro ter ocorrido após o ajuizamento da execução, deveria ter determinado, ao menos, a inclusão do ente público no polo passivo e a consequente adoção do rito processual do art. 910 do CPC, que disciplina a execução por título extrajudicial contra a Fazenda. Conforme relatado no recurso, o que se tem hoje é, indiscutivelmente, uma propriedade pública, regularmente registrada em cartório, mas com anotação de penhora ordenada em sede de execução fiscal - que nem sequer foi proposta contra o ente público atualmente proprietário, e sim contra o particular anterior, muito menos redirecionada ao atual proprietário por qualquer espécie de responsabilidade tributária. (fl. 274 ).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Impugnados os fundamentos da decisão de inadmissibilidade, de rigor o exame do recurso especial.
+De acordo com a jurisprudência deste STJ, para a configuração do prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 7/12/2023).
+No caso, os arts. 100 e 910 do CPC não foram objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 282 do STF, por analogia.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSTITUCIONAL, PROCESSUAL CIVIL E TRIBUTÁRIO. SUPOSTA OFENSA AO ART. 1º DA LEI N.
+12.016/2009, ARTS. 109, 110, 142, 166 E 170-A do CTN, ART. 10 DA LEI N. 7.883/89 E ARTS. 330, 374, I, 489, § 1º, IV, E 1022, DO CPC. ACÓRDÃO FUNDAMENTADO NA INADEQUAÇÃO DA VIA DO MANDADO DE SEGURANÇA PARA IMPUGNAR LEI EM TESE E PARA REALIZAÇÃO DE CONTROLE ABSTRATO DE CONSTITUCIONALIDADE. INVERSÃO DO ENTENDIMENTO DECLINADO NO ACÓRDÃO. IMPOSSIBILIDADE. INDICAÇÃO GENÉRICA DE ARTIGO DE LEI. SÚMULA N. 284. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ E SÚMULAS N. 282 E N. 356 DO STF. FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. SÚMULA N. 280 DO STF. FUNDAMENTAÇÃO CONCRETA E SUFICIENTE. AGRAVO INTERNO DESPROVIDO.
+1. Como bem ressaltado pela decisão impugnada, a alegação de violação do art. 1.022 do CPC se mostrou genérica, uma vez que não houve a particularização de inciso e/ou parágrafo que daria suporte à tese recursal, restando acertada a aplicação da Súmula n. 284 do STF.
+2. Sendo assim, restou inviabilizada a eventual configuração do prequestionamento ficto de matéria estritamente jurídica, nos termos do art. 1.025 do Estatuto Processual. Com efeito, correta aplicação da Súmula n. 211 do STJ.
+3. Outrossim, ao contrário do que é alegado pela parte, o Tribunal a quo não apreciou as teses correlatas à suposta violação aos arts.
+166 e 170-A do CTN e a parte ora agravante não suscitou a questão em seus embargos de declaração, devendo ser mantidos, igualmente, os óbices das Súmulas n. 356 e n. 282 do STF.
+4. Por fim, uma vez que o acórdão proferido na origem decidiu a questão relativa à inadequação da via eleita com lastro em fundamento exclusivamente constitucional, a sua revisão é inviável em recurso especial, nos termos da jurisprudência consolidada do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.542.607/RN, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. ICMS-DIFAL. REPETIÇÃO DE INDÉBITO. OBSERVÂNCIA DO ART. 166 DO CTN. NECESSIDADE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Hipótese em que a Agravante não impugnou, de forma concreta, os óbices de admissibilidade previstos na Súmula n. 7/STJ e nas Súmulas n. 282 e 356, ambas do STF, o que conduz, nesse caso, ao não conhecimento parcial do agravo.
+2. Na extensão cognoscível, o recurso não comporta provimento, pois a jurisprudência deste Sodalício sedimentou-se no sentido de que, no caso de repetição de indébito de tributos indiretos, como o discutido neste feito (ICMS-DIFAL), há que observar as condições previstas no art. 166 do Código Tributário Nacional.
+3. Agravo interno parcialmente conhecido e desprovido.
+(AgInt no REsp n. 2.031.863/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego-lhe provimento, mantendo a decisão que inadmitiu o recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
