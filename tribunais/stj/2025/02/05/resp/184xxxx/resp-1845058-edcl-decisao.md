@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, embargos de declaração opostos por DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT contra decisão que não conheceu do recurso especial haja vista a incidência do óbice da Súmula 7/STJ e da Súmula 283/STF.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, acerca da análise do art. 70 da Lei 8.666/1993, porquanto, o regime de responsabilidade seria subsidiária na hipótese em que é licitada e contratada empresa para a manutenção/conservação de trecho de rodovia federal no qual ocorre acidente automobilístico.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou o acórdão recorrido asseverou a presença dos pressupostos para a responsabilização solidária - consubstanciada na verificação de que "omissão do DNIT se deu ao não ser diligente com a fiscalização de sinalização noturna, e, da ré TRIUNFO, pela omissão no cuidado em evitar perigos que advêm de uma obra numa rodovia federal, sobretudo à noite" (fl. 914).
+Ademais, ficou consignado que:
+No caso, o DNIT firmou com a Construtora Triunfo S/A, em 2-12- 2004, o contrato TT-195/2004-00, tendo como objeto a execução, em regime de empreitada e no prazo de 30 dias, de obras de restauração e duplicação na rodovia BR-101/SC, entre os quilômetros 329,90 e 358,50 (evento 1, CONTR3). O contrato foi firmado em observância à Lei 8.666/93 e prescrevia expressamente que ao DNIT cabia fiscalizar a execução dos trabalhos diretamente ou por empresa contratada (fl. 915 - grifo nosso).
+Desse modo, a alteração da conclusão do acórdão recorrido ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ. A propósito, o seguinte precedente:
+PROCESSUAL CIVIL. CIVIL. LEGITIMIDADE PASSIVA. NEXO CAUSAL. CONDUTA OMISSIVA. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. ANIMAIS EM RODOVIAS. MANUTENÇÃO DAS RODOVIAS. RETIRADA DE SEMOVENTES. RESPONSABILIDADE SOLIDÁRIA DO DNIT E DA POLÍCIA RODOVIÁRIA FEDERAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada, manifestando-se de forma clara sobre as razões pelas quais entende haver responsabilidade solidária entre o DNIT e a Polícia Rodoviária Federal.
+2. O Tribunal de origem reconheceu que há provas que determinam a existência do nexo de causalidade entre o evento danoso e a responsabilidade das partes recorrentes, justificando a solidariedade no polo passivo e o valor da indenização (fls. 396-402/e-STJ e 612-621/e-STJ).
+4. Dessarte, o acolhimento da pretensão recursal demanda, in casu, o reexame do contexto fáti co-probatório, mormente das provas relativas às condições da rodovia, à presença de animal na pista, e do quantum devido a título de reparação do dano, o que atrai o óbice da Súmula 7/STJ.
+5. Recursos Especiais não conhecidos (REsp n. 1.648.561/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/4/2017).
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
