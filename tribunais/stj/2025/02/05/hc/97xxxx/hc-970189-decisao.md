@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VAGNER DA SILVA COSTA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, nos autos do Agravo em Execução Penal nº 0011366-88.2024.8.26.0521.
+Depreende-se dos autos que o Juízo das Execuções indeferiu o pleito defensivo de retificação do cálculo de penas do paciente (fl. 46).
+Irresignada, a Defesa interpôs agravo em execução perante o Tribunal de origem, que deu parcial provimento ao recurso para considerar como data-base para progressão de regime àquela em que o exame criminológico foi favorável à progressão do reeducando ao regime semiaberto. Eis a ementa (fl. 10):
+Agravo em execução - Indeferimento do pedido de retificação do cálculo de penas para fins de progressão do reeducando ao regime aberto - Recurso defensivo - Pretendida a modificação do "decisum" para - constar como data-base aquela em que o agravante cumpriu o requisito objetivo para sua progressão ao regime semiaberto - Impossibilidade - Os requisitos legais para a progressão de regime (objetivo e subjetivo) são cumulativos (art. 112, Lei 7.210/84) - Tese fixada em IRDR por este Egrégio Tribunal no sentido de que a data-base para nova progressão "deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo" - Precedentes desta C. Câmara - Necessária, todavia, a correção da data-base para aquela em que realizado o exame criminológico que atestou o preenchimento do requisito subjetivo para a progressão do sentenciado ao regime intermediário - Recurso parcialmente provido.
+No presente writ, a impetrante alega que, ao fixar a data-base como sendo o momento da realização do exame criminológico, a decisão impugnada viola o artigo 112 da Lei de Execução Penal, que não condiciona a progressão de regime à realização do ato administrativo, mas sim à verificação dos requisitos exigidos.
+Sustenta que "a data de 18/06/2021 foi o marco em que o paciente cumpriu o requisito objetivo para a progressão ao regime semiaberto. Não é razoável que a realização tardia do exame criminológico, por fatores alheios à vontade do reeducando, retarde a contagem de novo marco temporal para a progressão ao regime aberto, gerando prejuízo indevido ao paciente" (fls. 5-6).
+Requer, assim, inclusive liminarmente, a concessão da ordem para que seja reformado o acórdão combatido que fixou a data-base como 12/4/2022, determinando-se que seja considerada a data de 18/6/2021 como marco inicial para a progressão ao regime aberto.
+Pedido de liminar indeferido (fls. 62-64).
+As informações foram prestadas às fls. 71-93 e fls. 94-103.
+O Ministério Público Federal manifestou-se, às fls. 107-109, em parecer assim ementado:
+EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. NECESSIDADE DE PREENCHIMENTO DOS REQUISITOS OBJETIVO E SUBJETIVO. DETERMINAÇÃO DE EXAME CRIMINOLÓGICO. TEMA REPETITIVO 1.165. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Proc esso Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
