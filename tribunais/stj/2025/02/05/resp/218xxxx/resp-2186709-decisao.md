@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARISA DE SOUSA E SILVA, com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a parte autora ajuizou ação ordinária com valor da causa atribuído em R$ 5.000,00 (cinco mil reais), objetivando o restabelecimento da condição de beneficiária do Sistema de Saúde do Exército (FUSEx).
+Após sentença que julgou improcedente o pedido, o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO negou provimento à apelação da parte autora, ficando consignado não se enquadrar na condição de dependente prevista na norma.
+O referido acórdão foi assim ementado, in verbis:
+ADMINISTRATIVO. MILITAR. FUSEX. FILHA MAIOR CAPAZ. BENEFICIÁRIA DE PENSÃO POR MORTE. CONDIÇÃO DE DEPENDENTE, SEGUNDO O ESTATUTO DOS MILITARES. NÃO COMPROVAÇÃO. RECOLOCAÇÃO NO CADASTRO DE BENEFICIÁRIOS DA ASSISTÊNCIA MÉDICO-HOSPITALAR INDEVIDA.
+1. Deseja a parte autora sua reinclusão no Sistema de Saúde do Exército - FUSEX, ao argumento de ser dependente de seu falecido pai, segundo o Estatuto dos Militares.
+2. A autora é beneficiária de pensão por morte de militar, seu genitor, falecido em 2016.
+3. A FUSEX é o fundo de atendimento médico-hospitalar dos militares (ativos e inativos) e de seus beneficiários, destinado a complementar o custeio da assistência médico-hospitalar.
+4. O art. 50, § 2º, III, da Lei nº 6.880/80 considera, como dependente do militar, a filha solteira, desde que não receba remuneração. O § 3º, I, do mesmo dispositivo traz a previsão da filha viúva, também desde que não receba remuneração.
+5. Os documentos carreados aos autos revelam o estado civil da impetrante, viúva, bem como a percepção de proventos de aposentadoria, motivo pelo qual não se enquadra na condição de dependente prevista nos §§ 2º e 3º acima mencionados.
+6. Ressalte-se que não é a qualidade de pensionista que autoriza a prestação de assistência médico-hospitalar gratuita, mas sim, a comprovação da sua condição de dependente, segundo o Estatuto dos Militares. Os direitos derivam de diplomas legais distintos, a dependência está prevista na Lei nº 6.880/80 (Estatuto dos Militares) e a pensão militar, na Lei nº 3.765/60.
+7. Apelação improvida.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 16, XI, da Lei 4.506/64; do art. 50, IV, e, §§ 2º, 3º, 4º, 5º e 6º, da Lei 6.880/80; e do art. 1º do Decreto 92.512/86.
+Apresentadas contrarrazões.
+É o relatório. Decido.
+Verifico que a matéria versada no apelo foi submetida a julgamento dos REsp 1.880.238/RJ, 1.871.942/PE, 1.880.246/RJ e 1.880.241/RJ, pelo rito dos recursos repetitivos (Tema 1.080/STJ).
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei n. 11.672/2008), isto é, a criação de mecanismo que possibilite às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC/73 e 1.040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+ ..
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido.
+(AgRg no AREsp 153.829/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/5/2012.)
+Pelo exposto, julgo prejudicado o recurso interposto e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC/1973 e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
