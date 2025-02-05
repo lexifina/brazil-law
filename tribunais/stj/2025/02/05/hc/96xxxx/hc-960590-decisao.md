@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de EVANDRO ALVES PINHO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo em Execução n. 0017438-51.2024.8.26.0114.
+Consta dos autos que o paciente foi condenado pela prática dos crimes de receptação, tráfico de drogas e roubo majorado pelo emprego de arma de fogo, concurso de pessoas e restrição da liberdade da vítima, e cumpre pena remanescente inferior a 6 (seis) anos e usufrui do regime aberto.
+A Defensoria Pública requereu a concessão de indulto para os delitos previstos no artigo 180, caput, artigo 157, §2º, incisos I, II e V c/c artigo 69, caput, e artigo 288, todos, do Código Penal, que foi deferido pelo juízo de primeiro grau.
+Interposto Agravo em Execução pelo Ministério Público, o Tribunal de origem deu provimento ao recurso para cassar a decisão recorrida que deferiu indulto pleno ao sentenciado, considerando a natureza hedionda do crime de roubo majorado pelo emprego de arma de fogo e restrição da liberdade da vítima.
+Neste writ, a parte impetrante sustenta que a decisão viola o princípio da irretroatividade da lei penal mais gravosa, previsto no artigo 5º, XL, da Constituição Federal.
+Alega, ainda, que o crime de roubo qualificado praticado em 30 de setembro de 2011 não possuía natureza hedionda à época dos fatos, e que o acórdão impugnado afronta a segurança jurídica e o princípio tempus regit actum.
+Requer, liminarmente e no mérito, a cassação do acórdão recorrido para que seja restabelecida a decisão de primeiro grau que concedeu o indulto ao paciente.
+Liminar indeferida e requisitada informações (e-STJ fls. 66/67).
+Manifestação Ministerial pela denegação do habeas corpus (e-STJ fls. 120/121).
+É o relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020, e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O juízo de primeiro grau indeferiu o pedido de comutação de penas por considerar que o paciente não resgatou 2/3 do crime impeditivo (tráfico de drogas), não preenchendo, portanto, o requisito objetivo previsto no Decreto (e-STJ fl. 21).
+Sobre o tema tratado no remédio heroico, o Tribunal de origem cassou a decisão de primeiro grau com os fundamentos que seguem (e-STJ fls. 55/56):
+O agravo comporta provimento.
+O agravado desconta pena corporal de 14 anos, 4 meses e 17 dias de reclusão, com o término de cumprimento previsto para 04/07/2029, pela prática dos crimes de receptação, tráfico de drogas e roubo majorado pelo emprego de arma de fogo, concurso de pessoas e restrição da liberdade da vítima, os dois últimos considerados hediondo ou equiparado, que, como se sabe, não são suscetíveis de anistia, graça ou indulto (fls. 08/11). Com pena remanescente inferior a 6 anos e usufruindo do regime aberto, constatado o cumprimento de 2/3 da pena do crime de tráfico e drogas e 1/3 das penas dos crimes "comuns", foi concedido o indulto das penas dos crimes de receptação e roubo majorado.
+Atento aos limites da controvérsia instalada, importante observar, desde logo, que, respeitado entendimento em sentido contrário, a aferição da natureza do crime, para concessão do indulto, há de se fazer na data da edição do decreto presidencial respectivo, não na do cometimento do delito.
+Assim, na hipótese dos autos, pouco importa se o agravado praticou o crime de roubo antes da edição da lei que passou a considerá-lo hediondo (Lei 13.964/2019).
+O argumento de que referido entendimento constitui ofensa ao primado da irretroatividade da lei penal mais gravosa não prevalece, eis que é de competência privativa da Presidência da República "conceder indulto e comutar penas", exatamente como previsto no artigo 84, inciso XII da CF, podendo, nos estritos limites constitucionais, dentre eles a vedação de graça, anistia ou indulto ao autor de crime hediondo, estabelecer, mediante a edição de decretos, os requisitos para determinados sentenciados que estejam em condições de obter o benefício almejado.
+Trata-se, em verdade, de prerrogativa do chefe do Poder Executivo, no exercício de seu poder discricionário, a quem cabe privativamente definir os moldes para a concessão do indulto, como os requisitos, a abrangência e os limites, pressupostos que, bem por isso, passam a vigorar a partir da publicação do Decreto promulgado com essa finalidade.
+Da  análise  dos  excertos  acima  transcritos,  não  vislumbro  o  constrangimento  ilegal  sustentado.
+Com efeito, o entendimento adotado pela instâncias ordinária está em consonância com a jurisprudência desta Corte Superior, no sentido de que, para fins de aplicação do referido benefício, a natureza da infração penal deve ser aferida na data da edição do decreto presidencial respectivo e não da data de cometimento do delito.
+Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PEDIDO DE COMUTAÇÃO DE PENAS COM BASE NO DECRETO PRESIDENCIAL 7.046/09. IMPOSSIBILIDADE. PACIENTE CONDENADO POR CRIMES HEDIONDOS COMETIDOS ANTES DA LEI 8.072/90. IRRELEVÂNCIA. PRECEDENTES DO STJ. PARECER DO MPF PELO DESPROVIMENTO DO RECURSO. RECURSO ORDINÁRIO DESPROVIDO.
+1. Na esteira de firme jurisprudência desta Corte Superior, são insuscetíveis de indulto e comutação de penas os crimes hediondos e demais equiparados, ainda que cometidos antes da vigência da Lei 8.072/90, que impede sua concessão, tendo em vista que a natureza do crime deve ser aferida ao tempo da entrada em vigor da norma instituidora do benefício.
+2. Ademais, o art. 8º, I do Decreto 7.046/09 contém vedação expressa à concessão dos referidos benefícios, sendo tal restrição fruto de atribuição discricionária e exclusiva conferida ao Presidente da República, nos termos do art. 84, XII da CF/88, no uso de função política que parte da doutrina considera prerrogativa remanescente da época da concentração unipessoal do poder estatal.
+3. Parecer do MPF pelo desprovimento do recurso.
+4. Recurso Ordinário desprovido.
+(RHC n. 29.660/PR, relator Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 12/4/2011, DJe de 20/5/2011.)
+HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS. CRIMES COMETIDOS ANTES DA EDIÇÃO DA LEI 8.930/94. DECRETO 4.495/02. INDULTO. IMPOSSIBILIDADE. NATUREZA DO DELITO AFERIDA NO MOMENTO DA ENTRADA EM VIGOR DO DIPLOMA PRESIDENCIAL. ORDEM DENEGADA.
+1. A concessão do indulto é vedada ao condenado pela prática de crime considerado hediondo, mesmo que perpetrado em data anterior a sua adjetivação mais gravosa, porquanto se trata de ato discricionário do Presidente da República, a quem compete a definição e a extensão do benefício, sem que a providência adotada configure violação do princípio constitucional da irretroatividade da lei penal mais gravosa.
+2. É assente na jurisprudência deste Tribunal o entendimento no sentido de que a natureza do ilícito é aferida no momento da entrada em vigor do Diploma Presidencial.
+3. A vedação expressa contida no art. 7º, I, do Decreto n. 4.495/02, no sentido de não ser possível a concessão do indulto aos condenados por crimes hediondos, mostra-se perfeitamente aplicável à espécie.
+4. Ordem denegada.
+(HC n. 100.665/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 16/6/2009, DJe de 22/6/2009.)
+EXECUÇÃO PENAL. HABEAS CORPUS. CRIME HEDIONDO. PROGRESSÃO AO REGIME SEMIABERTO. REQUISITO SUBJETIVO NÃO-CUMPRIDO. COMETIMENTO DE FALTA GRAVE. REINÍCIO DA CONTAGEM DO PRAZO PARA A PROGRESSÃO DE REGIME PRISIONAL. INDULTO PARCIAL. COMUTAÇÃO DE PENA. CRIME COMETIDO ANTES DA EDIÇÃO DA LEI 8.072/90. IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. Não há ilegalidade a ser sanada nas hipóteses em que o Juízo da Vara de Execuções Penais, atendendo ao disposto no art. 93, inciso IX, da Constituição Federal, amparado em dados concretos, como o cometimento de falta grave, indefere a progressão de regime pelo não-preenchimento do requisito objetivo.
+2. A falta grave determina ainda o reinício da contagem do prazo para o preenchimento do requisito objetivo que, à época da prolação do decisum, ainda não se havia implementado.
+3. São insuscetíveis de indulto e comutação os crimes hediondos, ainda que tenham sido cometidos antes da edição da Lei 8.072/90, tendo em vista que a natureza do crime deve ser aferida ao tempo da entrada em vigor da norma instituidora do benefício. Precedentes do STJ e do STF.
+4. Ordem denegada.
+(HC n. 128.112/SP, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 1/9/2009, DJe de 13/10/2009.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
