@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLÓVIS AIRTON DE QUADROS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+O agravante foi condenado como incurso no delito do art. 313-A do Código Penal, por 86 vezes, na forma do art. 71, à pena de 3 (três) anos e 4 (quatro) meses de reclusão e 16 (dezesseis) dias-multa.
+Em petição incidental, o agravante requer a aplicação do entendimento fixado pelo Supremo Tribunal Federal no julgamento do HC 185.913/DF, com remessa dos autos à primeira instância para que o Ministério Público Estadual avalie a possibilidade de oferecimento de acordo de não persecução penal.
+É o relatório. DECIDO.
+O agravante foi condenado nas instâncias ordinárias à pena de 3 (três) anos e 4 (quatro) meses de reclusão em regime inicial semiaberto pela prática do crime do art. 313-A do Código Penal, e pleiteia a aplicação do art. 28-A, do Código de Processo Penal, ao caso.
+Prevê o art. 28-A que "Não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime", mediante o cumprimento de condições a serem ajustadas entre as partes.
+O Supremo Tribunal Federal, ao julgar o leading case, no HC n.185.913/DF, fixou tese vinculante segundo a qual "É cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado".
+Verifico, desse modo, que o recorrente atende aos pressupostos legais do benefício, porque (i) o crime pelo qual o embargante foi condenado não envolveu violência ou grave ameaça; (ii) a pena mínima cominada ao tipo penal é inferior a 4 (quatro) anos; (iii) o embargante não é reincidente em crime doloso (fl. 5164) e (iv) é possível a confissão formal do acusado.
+Pelo exposto, acolho o pleito do agravante para, nos termos da decisão do Supremo Tribunal Federal no HC n. 185913, determinar a suspensão do feito nessa instância, com a solicitação ao juízo de origem que oficie o promotor natural da causa para que analise, fundamentadamente, a viabilidade do oferecimento do acordo de não persecução penal na espécie.
+Publique-se. Intimem-se.
+EMENTA
