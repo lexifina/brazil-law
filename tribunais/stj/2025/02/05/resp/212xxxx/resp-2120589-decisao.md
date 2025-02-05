@@ -1,0 +1,75 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por SANDRA MARA PIRAMA PIANOWSKI contra acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, nos seguintes termos (fl. 33e):
+AGRAVO DE INSTRUMENTO. TEMA 709/STF. PAGAMENTO DE PARCELAS ATRASADAS. AFASTAMENTO DA ATIVIDADE. IMPRESCINDIBILIDADE.
+1. Na espécie, apesar de o autor afirmar que não pretende receber o benefício previdenciário concedido na presente ação, porque não se afastará de suas atividades especiais junto a sua empregadora, pretende executar valor que entende devido, com a expedição de precatório. Ora, há flagrante descompasso entre o pedido do autor e a situação fática que deseja assegurar: não executar a sentença mas ainda assim receber valores em virtude desse título judicial, como bem pontuou a decisão objurgada.
+2. Cabível, portanto, apenas mera averbação do tempo reconhecido para ser usado futuramente.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 489, 502, 503 e 927 do Código de Processo Civil, 6º do Decreto Lei n. 4.657/1942, e 1 e 57 da Lei n. 8.213/1991, alegando-se, em síntese, "a possibilidade do recebimento de valores atrasados, mesmo com a a continuidade da atividade especial" (fl. 57e).
+Sem contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 238e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Consoante depreende-se do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do Tema n. 709/STF.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014, destaque meu).
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo def eso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014, destaques meus).
+Observo, ainda, que a insurgência, no que toca à alegada violação aos arts. 489, 502, 503 e 927 do Código de Processo Civil, 6º do Decreto Lei n. 4.657/1942, e 1 e 57 da Lei n. 8.213/1991, carece de prequestionamento, uma vez que os dispositivos não foram analisados pelo Tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no Tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca da tese recursal e dos dispositivos legais apontados como violados.
+No caso, o Tribunal local não analisou, ainda que implicitamente, a aplicação dos suscitados dispositivos.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OFENSA. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. EXPEDIÇÃO DE RPV/PRECATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. Não enfrentada no julgado impugnado tese referente ao artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.144.926/DF, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23.09.2024, DJe de 27.09.2024 - destaque meu).
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. IRPJ. CSLL. APURAÇÃO DE 8% E 12% SOBRE A RECEITA BRUTA. SOCIEDADE MÉDICA. SERVIÇOS HOSPITALARES. SERVIÇOS PRESTADOS EM AMBIENTE DE TERCEIROS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. TEMA N. 217/STJ. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO.
+ ..
+IV - De início, com relação à alegada violação dos arts. 942 e 1.000 do CPC, entendo que a matéria não foi suficientemente debatida no Tribunal de origem, não sendo observado o requisito de prequestionamento na interposição do recurso especial, deficiência recursal que atrai a aplicação das Súmulas n. 211 do STJ e ns. 282 e 356 do STF.
+ ..
+X - Agravo interno improvido.
+(AgInt no REsp n. 2.072.662/SC, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 30.09.2024, DJe de 02.10.2024 - destaque meu).
+O atual Estatuto Processual admite o denominado prequestionamento ficto, é dizer, aquele que se consuma " ..  com a mera oposição de aclaratórios, sem que o Tribunal a quo tenha efetivamente emitido juízo de valor sobre as teses debatidas" (AgRg no REsp 1.514.611/PR, Rel. Min. Sérgio Kukina, 1ª T., DJe 21.06.2016), nos seguintes termos:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+No entanto, na linha da orientação adotada por este Superior Tribunal, somente poder-se-ia considerar prequestionada a matéria especificamente alegada - de forma clara, objetiva e fundamentada - e reconhecida a violação ao art. 1.022 do CPC/15, como o demonstram os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. DEMORA NO RESTABELECIMENTO DO SERVIÇO. RESPONSABILIDADE CIVIL. DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 1.025 DO CPC/2015. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 14/12/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação de Indenização, ajuizada pela parte agravante contra AES SUL Distribuidora Gaúcha de Energia S/A, em decorrência da interrupção do serviço de energia elétrica pelo período de 9 (nove) dias, após a ocorrência de um temporal no Município de São Sepé/RS. O acórdão do Tribunal de origem reformou a sentença que julgara improcedente a ação, condenando a ré ao pagamento de indenização por danos morais, no valor de R$ 5.000,00 (cinco mil reais).
+III. Não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre os arts. 2º da Lei 9.427/96 e 29, I, da Lei 8.987/95, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. Na forma da jurisprudência, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+ ..
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.017.912/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 16/08/2017 - destaquei).
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS. HERDEIROS SÓCIOS EM CONDOMÍNIO. CABIMENTO. PRESCRIÇÃO DO DIREITO. NÃO OCORRÊNCIA.
+ ..
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+ ..
+06. Recurso especial não provido.
+(REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017 - destaquei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 284/STF. CONCESSÃO DE PROVIMENTO DE URGÊNCIA. RECURSO ESPECIAL. DESCABIMENTO. SÚMULA 735/STF ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não se pode conhecer a apontada violação ao art. 1.022, do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+ ..
+V - Agravo Interno improvido.
+(AgInt no REsp 1.664.063/RS, de minha relatoria, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 27/09/2017 - destaquei).
+No mais, o Tribunal local, soberano na análise dos elementos fáticos e probatórios constantes dos autos, consignou que (fls. 40/41e):
+Conclui-se, portanto, ser indevida a cessação do benefício de aposentadoria especial, no caso de continuidade da atividade especial, sendo possível, apenas, a cessação dos respectivos pagamentos. Na hipótese, não há sequer pagamentos a serem suspensos, pois, ao que tudo indica, o benefício foi implantado e não houve saque de valores por parte da exequente (evento 236, EXTR4).
+Assim, o segurado que retornar voluntariamente ao desempenho de atividade nociva está sujeito à cessação da aposentadoria especial e a ausência de valores a executar porque permance na atividade especial. Isto porque, o Tema 709 ressalva a irrepetibilidade dos valores recebidos por antecipação de tutela, porém isso não permite a execução de valores de benefício que sequer foi implantado (em tutela provisória) ou será implantado, porque o segurado optou por não se afastar da atividade especial.
+No caso dos autos, o próprio autor (evento 41 dos Autos de Apelação) ao informar que não se afastaria da atividade nociva, pugnou, após o trânsito em julgado, pela execução da obrigação de pagar (evento 182, CUMPR_SENT1), observando que pretendia "permanecer laborando como médica e, portanto, exposta a agentes nocivos à saúde. Assim, desde já requereu fosse suspenso o benefício previdenciário de aposentadoria especial.
+Além disso, consoante se extrai do referido julgado, a aposentadoria especial tem nítido caráter protetivo, uma vez que é benefício previdenciário concedido com vistas a preservar a saúde, o bem-estar e a integridade do trabalhador submetido rotineiramente a condições de trabalho insalubres, perigosas e/ou penosas.
+Ademais, como bem ressai do julgado objurgado, foi proferida nova decisão pelo juízo de origem, a fim de aclarar a situação dos autos, porquanto não estava evidente o prejuízo na emissão da declaração de que iria se afastar das atividades nocivas. Logo, concedeu-se novo prazo às partes, tanto à autora como à Autarquia. E, nisso, não houve qualquer prejuízo à agravante.
+Consigne-se que a decisão agravada já consignava que, acaso prosseguisse laborando com exposição a agentes nocivos, a aposentadoria já implantada deveria ser cessada, sem pagamento de parcelas atrasadas. Ou seja, evidente o cancelamento do precatório, o que foi requerido pelo INSS.
+Na espécie, apesar de o autor afirmar que não pretende receber o benefício previdenciário concedido na presente ação, porque não se afastará de suas atividades especiais junto a sua empregadora, pretende executar valor que entende devido, com a expedição de precatório. Ora, há flagrante descompasso entre o pedido do autor e a situação fática que deseja assegurar: não executar a sentença mas ainda assim receber valores em virtude desse título judicial, como bem pontuou a decisão objurgada.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, do Regimento Interno desta Corte, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
