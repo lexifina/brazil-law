@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WELLINGTON DIAS PEREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 6 anos, 9 meses e 20 dias de reclusão no regime inicial fechado e de pagamento de 680 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+As partes apelaram, tendo sido negado provimento ao recurso da defesa. O recurso da acusação foi provido para readequar a pena do paciente para 7 anos de reclusão no regime fechado, além de 699 dias-multa.
+A impetrante sustenta, em suma, a ocorrência de constrangimento ilegal ante a desproporcionalidade na exasperação da basilar no patamar de 1/5 em virtude da reincidência específica do paciente.
+Aduz não haver razoabilidade na fração de acréscimo operado, tendo em vista que o apenado ostenta apenas uma condenação anterior.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja cassado o acórdão impugnado, a fim de redimensionar a pena-base e reduzir a fração em razão da reincidência para 1/6.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pela concessão da ordem.
+É o relatório.
+Dos autos e das informações do sítio do Tribunal de origem, extrai-se que, após o julgamento do recurso de apelação, a defesa opôs embargos de declaração, que estão pendentes de julgamento .
+Dessa forma, mostra-se inviável a análise prematura da matéria enquanto ainda não houve o exaurimento da instância precedente, com indevido manejo concomitante de habeas corpus no STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO DESTE WRIT ENQUANTO PENDENTE DE JULGAMENTO OS EMBARGOS INFRINGENTES OPOSTOS NA ORIGEM. AUSÊNCIA DE EXAURIMENTO DA JURISDIÇÃO ORDINÁRIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O presente writ foi manejado contra acórdão impugnado em sede de embargos infringentes, ainda pendentes de julgamento.
+2. Assim, mostra-se incabível a análise do writ, pois " n ão deve ser conhecido o habeas corpus impetrado quando ainda há recurso pendente de apreciação perante o 2º grau de jurisdição (embargos infringentes), interposto contra a mesma decisão impugnada, por faltar o necessário exaurimento das instâncias ordinárias" (HC n. 504.462/RO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021; sem grifos no original).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 872.944/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. PRAZO PARA A INTERPOSIÇÃO DO RECURSO CABÍVEL NA CAUSA PRINCIPAL QUE AINDA NÃO FLUIU. INADEQUAÇÃO DA PRESENTE VIA IMPUGNATIVA. PRECEDENTE DA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA: HC 733.563/RS, REL. MINISTRO ROGERIO SCHIETTI CRUZ. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM APÓS A IMPETRAÇÃO DO MANDAMUS. IMPOSSIBILIDADE DE ESTA CORTE EXAMINAR A CONTROVÉRSIA NA VIA ELEITA, ANTE TEMPUS. SUPRESSÃO DE INSTÂNCIA. INCABÍVEL A CONCESSÃO DE ORDEM DE HABEAS CORPUS DE OFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo da interposição do recurso cabível. Nesse sentido, "verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus" (AgRg no HC 733.563/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/05/2022, DJe 16/05/2022).
+2. Além disso, após a impetração do writ, a Defesa opôs embargos de declaração contra o acórdão impugnado, e, como se sabe, " n ão cabe a análise das pretensões voltadas à alteração do mérito da demanda, em habeas corpus, quando pendente de julgamento os embargos de declaração opostos pelo paciente na origem, dada a natureza integrativa conferida ao recurso" (AgRg no HC 484.200/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 28/03/2019, DJe 05/04/2019).
+3. Registre-se que a tese suscitada neste habeas corpus (possibilidade de aplicação da minorante do tráfico privilegiado na dosimetria da pena do Agravante) não foi examinada no acórdão impugnado, já que, ao que parece, nem mesmo foi aventada nas razões de apelação. Desse modo, sob pena de indevida supressão de instância, não pode esta Corte se manifestar originariamente sobre a alegação.
+4. Não se olvide que, consoante pacífica jurisprudência do Superior Tribunal de Justiça, "até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte" (AgRg no HC 643.018/ES, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/06/2022, DJe 21/06/2022).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 777.406/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
