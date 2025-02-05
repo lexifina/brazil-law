@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por VALDIR AMERICO, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA NO ROSTO DOS AUTOS. PRECATÓRIO QUE CONTEMPLA PROVENTOS DE APOSENTADORIA RECEBIDOS ACUMULADAMENTE. MANUTENÇÃO DA CONSTRIÇÃO SOBRE O VALOR QUE EXCEDE O LIMITE DE CINQUENTA SALÁRIO MÍNIMOS. AMPARO LEGAL NO §2º DO ART. 833 DO CÓDIGO DE PROCESSO CIVIL
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, a parte agravante alegou divergência jurisprudencial relativa à aplicação do art. 833, IV, do CPC. Esse inconformismo não foi admitido por aplicação da Súmula 7/STJ.
+Sustenta o preenchimento dos requisitos de admissibilidade do recurso especial. Pede que seja reconhecida a violação dos arts. 489 e 1.022 do CPC. Diz que o dissídio de jurisprudência está adequadamente demonstrado e não comporta reexame da prova.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Antes de tudo, afasto o conhecimento de suposta ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que, ao contrário do que afirma o agravante, a referida alegação não consta veiculada no recurso especial.
+Quanto ao mais, anoto que o acórdão vergastado preserva a jurisprudência desta Corte Superior, no sentido de que "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1.582.475/MG, relator Ministro Benedito Gonçalves, Corte Especial, DJe 16/10/ 2018).
+Nesse cenário, a alteração da conclusão do Tribunal a quo, acerca da preservação dos "valores indispensáveis à garantia da subsistência do executado e de sua família" (fl. 42), ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+É firme o entendimento deste Tribunal Superior sobre ser "inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO POR IMPROBIDADE ADMINISTRATIVA. FASE DE CUMPRIMENTO DE SENTENÇA. PENHORA DE 15% DE VERBA ALIMENTAR PERCEBIDA PELO EXECUTADO. MITIGAÇÃO DA REGRA DA IMPENHORABILIDADE. PRECEDENTE DA CORTE ESPECIAL. ALEGAÇÕES DE NATUREZA FÁTICA DEDUZIDAS EM RECURSO ESPECIAL INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Mantendo decisão do Juízo de primeiro grau em cumprimento de sentença condenatória, proferida em Ação por Improbidade Administrativa, o Tribunal de origem manteve a penhora de 15% (quinze por cento) sobre o benefício do executado junto ao INSS, até a satisfação do débito de R$ 33.392,52 (trinta e três mil, trezentos e noventa e dois reais e cinquenta e dois centavos).
+2. Em sua mais recente decisão sobre o tema, a Corte Especial do STJ entendeu: "A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1.582.475/MG, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe 16.10.2018).
+3. A alegação feita nas razões recursais, de que "o provento de aposentadoria percebido pelo agravante é para sustento próprio e de sua família" (fl. 271, e-STJ), não pode ser examinada na via do Recurso Especial em decorrência do óbice da Súmula 7/STJ. Nesse sentido: AgInt no AREsp 1.566.623/RJ, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 7.5.2020; REsp 1705872/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 29.5.2019.
+4. Agravo conhecido para não conhecer do Recurso Especial (AREsp n. 1.747.007/SP, relator Ministro HERMAN BENJAMIN, DJe de 3/8/2021).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO PARA DECLARAR A IMPENHORABILIDADE DA APOSENTADORIA - INSURGÊNCIA DAS AGRAVADAS.
+1. De acordo com o entendimento mais recente do STJ, é possível relativizar a regra da impenhorabilidade dos vencimentos, subsídios, salários e proventos de aposentadoria (art. 833, IV, do CPC/15), desde que assegurado ao devedor e a sua família a subsistência digna. Precedentes.
+2. Agravo interno provido para, de plano, conhecer do recurso especial e negar-lhe provimento, mantendo o acórdão recorrido que autorizou a penhora parcial dos proventos de aposentadoria (AgInt nos EDcl no REsp n. 1.808.430/SP, relator Ministro MARCO BUZZI, DJe de 17/6/2021).
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego-lhe provimento, mantendo a decisão que inadmitiu o recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
