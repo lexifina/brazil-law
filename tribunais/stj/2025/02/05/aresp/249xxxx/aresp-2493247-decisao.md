@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de agravo interposto por DMJG EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 180):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - BEM DE FAMÍLIA CONVENCIONAL - IMPENHORABILIDADE. Nos termos do art. 1.711, do CC, "podem os cônjuges, ou a entidade familiar, mediante escritura pública ou testamento, destinar parte de seu patrimônio para instituir bem de família, desde que não ultrapasse um terço do patrimônio líquido existente ao tempo da instituição, mantidas as regras sobre a impenhorabilidade do imóvel residencial estabelecida em lei especial". Tendo os executados instituído o imóvel em questão como bem de família, mediante registro em cartório, deve ser reconhecida a sua impenhorabilidade, com base nos artigos 1.711 e seguintes, do CC.
+Rejeitados os embargos de declaração opostos (fls. 196-203).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 70, 71, 1.712 e 1.717 do Código Civil; art. 5º, caput e parágrafo único, da Lei Federal n. 8.009/1990; e art. 373, I e II, do CPC.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Defende que o Tribunal de origem não poderia ter declarado a impenhorabilidade do bem, pois os agravados não mais residem neste imóvel, tendo se mudado para outro município, o que descaracterizaria a sua impenhorabilidade.
+Argumenta, ainda, que o bem de família deve, obrigatoriamente, destinar-se ao domicílio familiar, não podendo ser dada destinação diversa.
+Nesse sentido, aduz que: "o acórdão recorrido violou a lei federal, prejudicando o direito da Recorrente à penhora do imóvel para satisfação de seu crédito".
+Sem contrarrazões ao recurso especial (fl. 235).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 236-241), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 256).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se, na origem, de ação de execução movida pela agravante DMJG EMPREENDIMENTOS E PARTICIPACOES LTDA. em desfavor da agravada CONSTRUTORA GOUVEA LTDA. e outros.
+O Tribunal de origem indeferiu o pedido de penhora do bem imóvel da agravada sob o argumento de tratar-se de bem de família, conforme se extrai do trecho (fl. 183):
+No caso em comento, analisando detidamente os autos, verifica- se que o imóvel situado na Av. Arthur Bernardes, 1300, Bairro Santa Lúcia foi voluntariamente instituído como bem de família, o que foi devidamente registrado em sua matrícula (documento nº 7). Portanto, é acertada a decisão que reconheceu a impenhorabilidade do imóvel.
+Em que pesem as alegações do agravante de que os recorridos não residem no imóvel, mas sim no município de Nova Lima, pois não foram encontrados naquele endereço para citação, entendo que tal fato não desnatura a qualidade do bem; sendo certo que é lícito às pessoas naturais possuírem mais de um domicílio, com base no art. 71, do CC. Por outro lado, é igualmente permitido que o referido bem seja utilizado como fonte de sustento da família.
+Ademais, tendo os executados voluntariamente instituído a proteção para tal bem, o fato de eventualmente possuírem outro imóvel não afasta a proteção legal. Nesse ponto, cumpre ponderar que o próprio exequente afirma que os recorridos não são proprietários de outro imóvel.
+Assim, da leitura do trecho acima destacado, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento ao agravo de instrumento, deixou claro que (fl. 183):
+ ..  tendo os executados voluntariamente instituído a proteção para tal bem, o fato de eventualmente possuírem outro imóvel não afasta a proteção legal. Nesse ponto, cumpre ponderar que o próprio exequente afirma que os recorridos não são proprietários de outro imóvel.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022; grifo meu.)
+Nesse sentido, vê-se que o Tribunal a quo decidiu nos termos da jurisprudência desta Corte Superior, a qual informa que "o bem de família legal (Lei n. 8.009/1990) e o convencional (Código Civil) coexistem no ordenamento jurídico, harmoniosamente. A disciplina legal tem como instituidor o próprio Estado e volta-se para o sujeito de direito - entidade familiar -, pretendendo resguardar-lhe a dignidade por meio da proteção do imóvel que lhe sirva de residência. O bem de família convencional, decorrente da vontade do instituidor, objetiva, primordialmente, a proteção do patrimônio contra eventual execução forçada de dívidas do proprietário do bem" (AgInt no AREsp n. 2.010.681/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/4/2022, DJe de 27/4/2022).
+No presente caso, o acórdão impugnado deixou claro que o agravado voluntariamente registrou o bem aqui discutido como bem de família, sendo, portanto, impenhorável (art. 1.712, CC).
+Ademais, mesmo que assim não fosse, também consignou a origem que o executado não possui outro bem (fl. 183). Sendo assim, mesmo que não houvesse o registro convencional de que se trata de bem de família, persistiria a referida proteção dada pela Lei n. 8.009/1990, por ser o único bem de família, conforme consta nos autos.
+Indo mais além, o tribunal também decidiu conforme jurisprudência quando afirmou que é lícito aos agravados possuírem mais de um domicílio, com base no art. 71 do Código Civil, pois o fato de residirem em outro local não impede que o imóvel seja protegido pela impenhorabilidade.
+Portanto, por qualquer vértice que se analise o recurso, a tese defendida pelo recorrente encontra óbice na Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+A propósito, cito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. IMPENHORABILIDADE. IMÓVEL LOCADO. BEM DE FAMÍLIA. CARACTERIZAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA STJ/7. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Esta Corte possui entendimento firmado no sentido de que o fato de a entidade familiar não utilizar o único imóvel como residência não o descaracteriza automaticamente como bem de família, sendo suficiente à proteção legal que seja utilizado em proveito da família, como a locação para garantir a subsistência da entidade familiar. Precedentes.
+2.- No que tange à caracterização do imóvel em questão como bem de família, os argumentos utilizados para fundamentar a pretensa violação legal somente poderiam ter sua procedência verificada mediante o reexame de provas, não cabendo a esta Corte, a fim de alcançar conclusão diversa da estampada no Acórdão recorrido, reavaliar o conjunto probatório. Súmula 7 desta Corte.
+3.- O agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido.
+(AgRg no AREsp n. 314.026/SC, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 13/8/2013, DJe de 4/9/2013.)
+CIVIL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REVOGAÇÃO TÁCITA DA LEI 8.009/1990 PELO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. BEM DE FAMÍLIA LEGAL E VOLUNTÁRIO. COEXISTÊNCIA. RECURSO PROVIDO.
+1. O Código de Processo Civil declara não sujeitos à execução os bens arrolados em seu art. 833 e, na forma do art. 832, aqueles que a lei considera impenhoráveis ou inalienáveis. Assim como ocorreu sob a legislação processual passada, as hipóteses de impenhorabilidade previstas no atual Código de Processo Civil coexistem com a regulamentação do bem de família, que, segundo a tradição brasileira, é dada por outros diplomas legais, como o Código Civil de 1916, o Código Civil de 2002 e a Lei 8.009/1990.
+2. O fato do Código de Processo Civil afirmar em seu art. 833, I, que são impenhoráveis os bens "declarados, por ato voluntário, não sujeitos à execução" não implica a revogação tácita da Lei 8.009/1990, assim como não o fez o art. 1.711 do Código Civil, ao tratar do bem de família voluntário. Como já se decidiu no STJ, "O bem de família legal (Lei n. 8.009/1990) e o convencional (Código Civil) coexistem no ordenamento jurídico, harmoniosamente" (REsp n. 1.792.265/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 14/3/2022).
+3. Conforme a jurisprudência do STJ, para o reconhecimento da proteção da Lei 8.009/1990 não é necessária a prova de que o imóvel onde reside seja o único de sua propriedade.
+4. Recurso especial provido.
+(REsp n. 2.133.984/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/10/2024, DJe de 28/10/2024.)
+Por fim, o recorrente pleiteia que se analise a divergência jurisprudencial apontada. Isso, contudo, não se mostra possível, pois os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Nesse sentido é o que os seguintes julgados demonstram:
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/8/2024, DJEN de 23/12/2024.)
+5. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+(AgInt no AREsp n. 2.683.103/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, o não conhecimento do recurso especial é medida que se impõe.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. BEM DE FAMÍLIA. IMPENHORABILIDADE LEGAL E CONVENCIONAL. OMISSÃO. NÃO VERIFICADA. TRIBUNAL DE ORIGEM QUE DECIDIU NOS TERMOS DA JURISPRUDÊNCIA. SÚMULA N. 83/STJ. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
