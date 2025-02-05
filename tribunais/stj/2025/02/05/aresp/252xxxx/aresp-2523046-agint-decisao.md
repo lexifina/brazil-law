@@ -1,0 +1,61 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EDCL NO ARESP. AGRAVO DE INSTRUMENTO. HONORÁRIOS DE ADVOGADO. REVOGAÇÃO DE MANDATO. LITIGIOSIDADE ENTRE ESCRITÓRIOS. AÇÃO AUTÔNOMA. NECESSIDADE. PRECEDENTES. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RESP.
+Trata-se de Agravo Interno interposto por TEPEDINO, BEREZOWSKI E POPPA SOCIEDADE DE ADVOGADOS, contra a decisão de fls. 409 - 411, do então relator, Ministro Herman Benjamin, que conheceu do Agravo para conhecer do Recurso Especial e dar-lhe parcial provimento, a fim de anular o aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal de origem, para que profira novo julgamento e aborde a matéria omitida.
+O acórdão impugnado na origem tem a seguinte ementa:
+AGRAVO DE INSTRUMENTO Nº 2227460-75.2022.8.26.0000
+Voto nº 27387
+O PRESENTE RECURSO FOI JULGADO EM CONJUNTO COM O AGRAVO DE INSTRUMENTO Nº 2227142-92.2022.8.26.0000 (VOTO Nº 27.388).
+AGRAVO DE INSTRUMENTO CUMPRIMENTO PROVISÓRIO DE SENTENÇA Honorários advocatícios sucumbenciais - Revogação de mandato no curso do processo Litigiosidade existente entre os patronos atuantes na demanda - Controvérsia sobre a verba honorária que deve ser discutida no bojo de ação própria Precedentes do STJ e do TJSP Agravo de Instrumento desprovido.
+Breve relato.
+A causa tem à base cumprimento de sentença movido por Anunciação Advogados em face da Elektro Eletricidade e Serviços S/A, para cobrança de honorários sucumbenciais, fixados no âmbito de demanda, na qual litigaram a Elektro e a Concessionária Rota das Bandeiras S/A.
+Inicialmente, a Concessionária foi representada pelo escritório Anunciação Advogados, e, antes ainda da apelação, o patrocínio da causa foi assumido por Tepedino Advogados.
+Ambos os escritórios pretendem discutir seus honorários.
+Anunciação Advogados ajuizou Cumprimento de Sentença, ao que se seguiu pedido de ingresso de Tepedino Advogados, como terceiro interessado.
+O juízo de 1º grau assentou que ambos os escritórios teriam o direito de pleitear o pagamento dos seus honorários, porquanto trabalharam para o mesmo cliente em momentos diferentes, reconheceu litigiosidade entre eles, os quais ainda não tinham proporcionalizado seus haveres, e entendeu, em princípio, que tal questão poderia ser resolvida nos próprios autos do Cumprimento de S entença.
+Ambas as partes agravaram dessa decisão e tiveram seus Agravos de Instrumento julgados conjuntamente pelo TJSP. O Agravo de Anunciação Advogados não foi provido e o de Tepedino Advogados foi provido. Do acórdão do TJ se origina o ARESP em análise, que tem como agravante Anunciação Advogados e como agravados Tepedino Advogados e Elektro Eletricidade e Serviços S/A.
+Nesta oportunidade, contra a decisão do então relator, Herman Benjamin, os dois agravados recorreram, com o mesmo intuito de afastar a alegação de omissão no acórdão do TJSP, e requerer o desprovimento do AREsp, em síntese, sob o fundamento de que o quanto decidido pelo Tribunal paulista está em conformidade com a jurisprudência deste STJ.
+Não houve impugnação aos Agravos Internos.
+Os argumentos de Anunciação Advogados, nas razões do REsp, inadmitido, se põem, em resumo, no sentido da ocorrência de omissão no acórdão impugnado (art. 1022 do CPC), de ter sido exarada decisão diversa do que pleiteado no Agravo (art. 492), e de que teria havido usurpação de competência por parte do TJSP, já que o juiz ainda não teria decidido sobre a discussão da verba, nos próprios autos do cumprimento de sentença.
+É o relatório para ambos os Agravos Internos, que decidirei conjuntamente, encartando em cada incidente esta mesma decisão.
+Decido.
+Com razão os agravantes.
+Não encontro no acórdão omissões.
+Houve nele resumo preciso da lide a ser decidida e foram bem postos os seus fundamentos: (a) ambos os escritórios atuaram na defesa de seu constituído; (b) pelo que deduzido nos agravos de instrumento dos dois escritórios, há clara litigiosidade entre ambos; (c) não há, em razão da revogação de mandato anterior, possibilidade de se levar a efeito reserva de honorários nos próprios autos de cumprimento de sentença; (d) a jurisprudência do STJ, para tais casos, é pacífica quanto a necessária instauração de ação autônoma, para a discussão de honorários advocatícios, por advogado que teve seu mandato revogado. Confiram-se estes excertos:
+(..) Impende observar que a CONCESSIONÁRIA ROTA DAS BANDEIRAS constituiu novos procuradores (TEPEDINO, BEREZOWSKI E POPPA SOCIEDADEDE ADVOGADOS) antes do julgamento do recurso de Apelação protocolado pela ANUNCIAÇÃO ADVOGADOS, de modo que ambos os patronos atuaram na causa e fazem jus aos honorários advocatícios sucumbenciais em suas respectivas proporções.
+Agravante se insurge ontra a decisão que reconheceu que ambos os escritórios atuaram na defesa dos interesses de seu constituído, podendo demandar pelos honorários; que os atuais procuradores (Tepedino, Berezowski e Poppa Sociedade de Advogados) ocupam a posição de terceiro interessado; e que, de acordo com o contrato juntado aos autos, os honorários sucumbenciais devem ser partilhados entre "Advogados Originais" e "Novos Advogados".
+(..) No caso dos autos, a revogação do mandato no curso da ação e a existência de controvérsia sobre a remuneração devida impedem a reserva nos próprios autos dos honorários advocatícios contratuais e sucumbenciais (..)
+Registre-se, ainda, que os novos patronos constituídos manifestaram óbice à pretensão deduzida, conforme petição de fls. 170/186, apontando a necessidade de cobrança da verba honorária em ação autônoma. A própria Agravante, em suas razões (fls. 01/13), menciona a existência do Termo CRB nº 1/2018 (fls. 672/691 autos de origem), salientando que qualquer controvérsia relativa a tal termo deve ser resolvida por meio de arbitragem, o que ratifica a litigiosidade existente entre os patronos atuantes na demanda.
+Sobre a questão, o Colendo Superior Tribunal de Justiça tem orientação pacífica no sentido de que é necessária a instauração de ação autônoma para discussão de honorários advocatícios por advogado que teve seu mandato revogado. (..)
+Dessa forma, a discussão sobre os honorários advocatícios deve se dar em ação autônoma, sob pena de se instaurar litígio paralelo entre os advogados nos autos deste cumprimento de sentença, que não convém à celeridade e efetividade desta demanda. Por consequência, resta prejudicada a apreciação dos demais temas recursais.
+Da leitura desses trechos, não me fica dúvida, de que não há omissão a ser reparada.
+Também não me convenço de que teria havido usurpação de competência, no caso, menos ainda que o quanto decidido não está adstrito ao que deduzido nos Agravos de Instrumento. Isso porque os Agravos foram julgados conjuntamente, e houve menção no voto do acórdão impugnado de que Tepedino Advogados visava, em suas razões, ao reconhecimento de que a controvérsia se amoldava à hipótese de discussão em ação própria. Ainda anoto que o juiz singular decidiu, sim, naquele momento, manter a discussão no próprio cumprimento de sentença, na medida em que, embora reconhecendo, expressamente, que a jurisprudência se inclina para a necessidade de transferir a discussão dos honorários, para ação própria, não o fez.
+Por fim, e de importância especial, aduzo que a decisão impugnada está em perfeita consonância com a jurisprudência deste STJ. Com a mesma compreensão do acórdão impugnado, trago estes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. MANDATO JUDICIAL. REVOGAÇÃO. COBRANÇA DE HONORÁRIOS. INVIABILIDADE. AÇÃO AUTÔNOMA. NECESSIDADE. ACÓRDÃO ESTADUAL EM CONSONÂNCIA AO ENTENDIMENTO DO STJ. HONORÁRIOS RECURSAIS. DESCABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Casa, nos casos em que houve a revogação, pelo cliente, do mandato outorgado ao advogado, este não está autorizado a demandar honorários de sucumbência da parte adversa nos próprios autos da execução relativa ao objeto principal do processo, devendo pleitear seus direitos em ação autônoma.
+2. A majoração dos honorários de sucumbência pressupõe a prévia fixação da verba na origem, situação não verificada na espécie.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.114.156/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESERVA DE HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. MANDATO REVOGADO. AÇÃO AUTÔNOMA.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, não se podendo confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+2. Os honorários advocatícios buscados pelo patrono desconstituído somente poderão ser cobrados nestes autos de execução caso haja consenso entre este e os novos advogados que atuarem por último em defesa da parte exequente. Caso contrário, a partilha deverá ser realizada em ação própria de cobrança.
+3. O acórdão recorrido está em consonância com a jurisprudência do STJ, que firmou o entendimento de que "muito embora possível a reserva dos honorários nos próprios autos - art. 22, § 4º, da Lei nº 8.906/94, tal medida é incabível na hipótese de o advogado não mais representar a parte" (AgInt nos EDcl no REsp 1.744.530/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 25.6.2019).
+4. Agravo improvido.
+(AgInt no AREsp n. 2.130.303/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RESERVA DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. MANDATO REVOGADO. AÇÃO AUTÔNOMA.
+1. "Nos casos em que houve a revogação, pelo cliente, do mandato outorgado ao advogado, este não está autorizado a demandar honorários de sucumbência da parte adversa nos próprios autos da execução relativa ao objeto principal do processo. Nessas hipóteses, o antigo patrono deve pleitear seus direitos (por exemplo, honorários contratuais e indenização pelos honorários sucumbenciais de que foi privado) em ação autônoma proposta contra o ex-cliente" (AgRg no AREsp n. 757.537/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 16.11.2015).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.915.701/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. (..) omissis
+2. A jurisprudência desta Corte de Justiça consagra orientação de que é indevida a execução de honorários advocatícios sucumbenciais nos próprios autos da ação principal em relação a advogado que teve seu mandato revogado, devendo este, se assim desejar, promover ação autônoma.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.207.201/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. RENEGOCIAÇÃO DE DÍVIDA. ART. 12 DA LEI 13.340/2016. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. NÃO CABIMENTO. REVOGAÇÃO DO MANDATO DO ADVOGADO. HONORÁRIOS SUCUMBENCIAIS. AJUIZAMENTO DE AÇÃO AUTÔNOMA. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1.e 2. (..) omissis
+3. A jurisprudência desta Corte de Justiça consagra orientação de que é indevida a execução de honorários advocatícios sucumbenciais nos próprios autos da ação principal em relação a advogado que teve seu mandato revogado, devendo este, se assim desejar, promover ação autônoma.
+4. Agravo interno desprovido."
+(AgInt no REsp n. 1.874.077/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/11/2021, DJe de 3/12/2021.)
+Do exposto, em juízo de retratação, conheço dos Agravos de Tepedino Advogados e Elektro Eletricidade e Serviços S/A, e os provejo, além de tornar sem efeito a decisão de fls. 409-411, e conheçer do Agravo, para negar provimento ao Recurso Especial.
+Deixo de majorar os honorários por se tratar, na origem, de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
