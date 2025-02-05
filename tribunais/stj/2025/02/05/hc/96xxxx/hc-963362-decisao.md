@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de REGIS ESPERIDIAO DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL na Apelação Criminal n. 5027141-42.2023.8.21.0033.
+Consta dos autos que o paciente foi condenado, em primeiro grau, pela prática dos crimes previstos no art. 33, § 4º, da Lei n. 11.343/2006, e no art. 14 da Lei n. 10.826/2003, à pena de 07 (sete) anos e 06 (seis) meses de reclusão, em regime fechado.
+Em segunda instância, o Tribunal de origem deu parcial provimento ao apelo defensivo, a fim de absolver o acusado da conduta prevista no art. 14 da Lei n. 10.826/2003 e redimensionar a pena para 4 (quatro) anos e 10 (dez) meses e 10 (dez) dias de reclusão, em regime inicial fechado.
+Neste writ, a Defesa sustenta que a redução da pena pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 em apenas 1/6 (um sexto) é inadequada e desproporcional, uma vez que a quantidade de droga apreendida (7 kg de maconha) não é suficiente para justificar a fração mínima.
+Alega que o paciente é primário e não integra organização criminosa, preenchendo todos os requisitos para a aplicação da fração máxima da redutora, consoante entendimento jurisprudencial do Superior Tribunal de Justiça.
+Requer, liminarmente e no mérito, o reconhecimento da incidência da causa de diminuição de pena no patamar maior (1/2 ou 2/3) e a consequente adequação do regime prisional.
+Liminar indeferida às fls. 258-259.
+Foram  prestadas  informações  às  fls.  265-285.
+O  Ministério  Público  Federal  manifestou-se  à s fls.  287-290,  opinando  pelo  não  conhecimento  do  habeas  corpus .
+É  o  relatório. DECIDO.
+De acordo com as informações prestadas (fl. 272), constato  que  o  presente  habeas  corpus  foi  impetrado  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  do Rio Grande do Sul já  transitado  em  julgado.  Diante  dessa  situação,  não  deve  ser  conhecido  o  presente  writ,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados (AgRg no HC n. 573.735/SP, rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021, DJe de 30/04/2021, e AgRg no HC n. 610.106/PR, rel. Ministro Felix Fischer, Quinta Turma, julgado em 23/02/2021, DJe de 1º/03/2021; decisões monocráticas: HC n. 512.674/CE, rel. Ministro Sebastião Reis Júnior, DJe de 30/05/2019; HC n. 482.877/SP, rel. Ministro Jorge Mussi, DJe de 29/03/2019; HC n. 675.658/PR, rel. Ministro Ribeiro Dantas, DJe de 04/08/2021; HC n. 677.684/SP, rel. Ministro Antonio Saldanha Palheiro, DJe de 02/08/2021).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  visto  que,  conforme a orientação do Superior Tribunal de Justiça, a quantidade de droga apreendida justifica a aplicação § 4º do art. 33 da Lei de Drogas em fração inferior a 2/3 (AgRg no HC n. 827.956/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+Ademais, desde que haja fundamentação idônea, aduzida à luz das circunstâncias fáticas do caso concreto, é cabível a eleição de fração de redução menos benéfica ao réu, sobretudo em respeito à discricionariedade do magistrado (AgRg no REsp n. 1.991.861/SC, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 20/03/2023, DJe de 24/03/2023).
+No caso, o Tribunal de origem justificou a aplicação da minorante em fração diversa da máxima com fundamento na quantidade de entorpecente apreendido, o que encontra amparo na jurisprudência desta Corte Superior.
+Nesse sentido:
+DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. REDUÇÃO NA FRAÇÃO DE 1/6. QUANTIDADE E NATUREZA DAS DROGAS. REGIME INICIAL FECHADO. GRAVIDADE CONCRETA DA CONDUTA. RECURSO DESPROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão que aplicou a minorante do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) na fração de 1/6, em razão da quantidade (4.622,89g de maconha e 29,04g de crack) e natureza das drogas apreendidas, e fixou o regime inicial fechado para o cumprimento da pena, considerando a gravidade concreta da conduta. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar a adequação da fração de 1/6 aplicada à minorante do tráfico privilegiado, com base na quantidade e natureza das drogas; e (ii) examinar a compatibilidade do regime inicial fechado com as circunstâncias do caso. III. RAZÕES DE DECIDIR
+ ..
+4. No caso concreto, a aplicação da fração de 1/6 da minorante se justifica em razão da expressiva quantidade de drogas apreendidas (aproximadamente 5 kg entre maconha e crack, sendo esta última especialmente lesiva), o que está em consonância com os precedentes desta Corte.
+5. Quanto ao regime inicial, a fixação do regime fechado é justificada pela quantidade e pela nocividade das drogas, evidenciando a gravidade concreta da conduta, conforme autoriza o art. 33, §§ 2º e 3º, do Código Penal, além de estar em conformidade com o entendimento consolidado do STJ e do STF sobre o tema.
+IV. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 2.069.014/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJe de 23/12/2024, grifamos)
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
