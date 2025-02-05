@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo manejado por Ulisses Canhedo Azevedo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 94):
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO DE GRUPO ECONÔMICO VASP.
+1 - De acordo com o art. 4º, §2º, da Lei n. 6.830/80, aplicam-se aos débitos fiscais de qualquer natureza as normas sobre responsabilidade previstas na legislação civil, comercial e tributária.
+2 - Amparado em amplo conjunto probatório, o fundamento para a inclusão do ora agravante no polo passivo da execução fiscal foi o reconhecimento da formação de grupo econômico de fato constituído para fraudar o Fisco.
+3 - Há, pois, evidente confusão patrimonial entre as empresas, dificultando a satisfação do crédito fiscal, o que autoriza a desconsideração da personalidade jurídica para responsabilizar patrimonialmente a excipiente, com fundamento no art. 4, §2º da Lei 6.830/80 c/c art. 50 do Código Civil.
+4 - Consoante a jurisprudência, é possível o reconhecimento da existência de grupo econômico quando diversas pessoas jurídicas exerçam suas atividades sob unidade gerencial, laboral e patrimonial.
+5 - Considerando que não foi interposto recurso contra a decisão que reconheceu a legitimidade passiva do agravante, não deve prosperar a tentativa de rediscutir o tema, restando ausentes os elementos que autorizem o provimento do recurso sob tal fundamento.
+6 - A habilitação do crédito em cobrança perante o Juízo Falimentar não acarreta na renúncia ao rito da Lei nº 6.830/1980.
+7 - Agravo de instrumento desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 219/224).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1.022 do CPC. Sustenta que, apesar dos aclaratórios, o Tribunal de origem manteve omissão referente ao reconhecimento da ilegitimidade passiva do ora agravante (cf. fl. 248). Alega, ainda, que a habilitação do crédito no juízo falimentar não implica renúncia ao rito da Lei nº 6.830/1980 e divergência jurisprudencial em relação a essa questão (cf. fl. 257).
+Contrarrazões às fls. 318/341.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+Com efeito, em relação à controvérsia dos autos, reconheceu o Tribunal de origem às fls. 91/93 (g.n.):
+Embora se admita a alegação de ilegitimidade passiva ad causam em exceção de pré-executividade, para o seu reconhecimento exige-se prova documental plena, sem espaço para controvérsia ou dilação probatória.
+Antes da decretação da falência da VASP, foi constatada a inexistência de bens da executada aptos a garantir as execuções fiscais.
+Nesse cenário, os auditores fiscais e a Procuradoria do INSS fizeram um grande levantamento, apontando a existência de um grupo econômico familiar, envolvendo a VASP, composto por, pelo menos, 15 (quinze) empresas:
+ ..
+Também foi identificada a participação de, pelo menos, 5 (cinco) integrantes de uma mesma família:
+ ..
+Verificou-se que referido grupo era constituído por diversas empresas que atuavam, essencialmente, no ramo de transportes, além de desenvolverem atividades complementares entre si.
+Há coincidência de controle acionário e de endereços, além de transações comerciais comuns e indícios de confusão patrimonial entre os bens, que serviam de garantia hipotecária de uma para outras empresas.
+Nesse cenário, o grupo econômico foi reconhecido nas Medidas Cautelares Fiscais nº 2005.61.82.000806-0, em trâmite perante a 2ª Vara de Execuções Fiscais de São Paulo e nº 2005.61.82.900003-2, em trâmite perante a 8ª Vara das Execuções Fiscais de São Paulo.
+Em decisão de fls. 474/476, proferida em 14/01/2010, nos autos da Execução Fiscal nº 0044162-95.2007.4.03.6182, foi reconhecido o grupo econômico, nos seguintes termos:
+ ..
+De acordo com o art. 4º, §2º, da Lei n. 6.830/80, aplicam-se aos débitos fiscais de qualquer natureza as normas sobre responsabilidade previstas na legislação civil, comercial e tributária.
+Amparado em amplo conjunto probatório, o fundamento para a inclusão do ora agravante no polo passivo da execução fiscal foi o reconhecimento da formação de grupo econômico de fato constituído para fraudar o Fisco.
+Note-se que a Voe Canhedo S/A tem como acionistas outras empresas do grupo dirigido por Wagner Canhedo, a saber: Expresso Brasília Ltda., Transportadora Wadel Ltda., Viplan Viação Planalto Ltda. e Agropecuária Vale do Araguaia Ltda. Além disso, era acionista controladora da VASP, conforme decisão que anulou a incorporação de ações do Hotel Nacional e Brata - Brasília T. Man. Aeronáutica S/A pela VASP.
+Consta também a anulação da incorporação de ativos do Hotel Nacional S/A e da Brata - Brasília T. Man. Aeronáutica S/A pela Voe Canhedo S/A, por decisão proferida pelo Tribunal de Justiça de São Paulo, nos autos do processo nº 994.08.045592-7, que reconheceu que as referidas empresas pertenciam a um mesmo grupo econômico, liderado por Wagner Canhedo Azevedo.
+Há, pois, evidente confusão patrimonial entre as empresas, dificultando a satisfação do crédito fiscal, o que autoriza a desconsideração da personalidade jurídica para responsabilizar patrimonialmente a excipiente, com fundamento no art. 4, §2º da Lei 6.830/80 c/c art. 50 do Código Civil.
+Observa-se que o juízo da execução fiscal reconheceu a existência de formação de grupo econômico, bem como a legitimidade das empresas que o compõe e dos respectivos sócios.
+Consoante a jurisprudência, é possível o reconhecimento da existência de grupo econômico quando diversas pessoas jurídicas exerçam suas atividades sob unidade gerencial, laboral e patrimonial.
+Considerando que não foi interposto recurso contra a decisão que reconheceu a legitimidade passiva do agravante, não deve prosperar a tentativa de rediscutir o tema, restando ausentes os elementos que autorizem o provimento do recurso sob tal fundamento.
+A habilitação do crédito em cobrança perante o Juízo Falimentar não acarreta na renúncia ao rito da Lei nº 6.830/1980.
+Ademais, diante do contorno fático-probatório envolvendo a questão, tenho que, no caso dos autos, a via da exceção de pré-executividade apresenta-se imprópria, reclamando a oposição de embargos/ação própria, nos termos da Súmula 393 do C. STJ.
+A comprovação da alegação de inexistência de grupo econômico apenas pode se dar em sede de Embargos à Execução, sendo incabível demais discussões pela via eleita.
+Assim, em juízo de cognição sumária, próprio do agravo de instrumento, não se afigura adequada a desconstituição dos indícios atestados.
+Ainda, no acórdão integrativo (fl. 222):
+A jurisprudência do C. Superior Tribunal de Justiça julgada sob o rito dos recursos repetitivos firmou-se no sentido da viabilidade da habilitação do crédito tributário no juízo falimentar em concomitância com a execução fiscal, sem que isto importe em perda superveniente do interesse de agir (R Esp n. 1.872.759/SP, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 18/11/2021, D Je de 25/11/2021.).
+A apreciação de fatos e argumentos novos, não apresentados na exceção de pré-executividade e no agravo de instrumento, destoa da finalidade a que se destinam os embargos declaratórios.
+Com efeito, é vedada a inovação recursal em sede de embargos declaratórios.
+Portanto, não se conhece dos argumentos relativos ao IRDR e quanto a alegação da existência de ativos da VASP, que, inclusive, demanda dilação probatória e exercício pleno do contraditório para ser dirimida, o que não se admite na via estreita da exceção de pré-executividade.
+Dessa forma, não se descortina negativa de prestação jurisdicional ao tão só argumento de ter o acórdão recorrido solucionado a contenda em sentido desfavorável ao interesse da parte.
+Ademais, da leitura dos trechos grifados constantes do excerto acima transcrito, observa-se que eventual alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Além disso, o recurso especial não impugnou fundamentos basilares que amparam o acórdão recorrido, a saber, de que "A jurisprudência do C. Superior Tribunal de Justiça julgada sob o rito dos recursos repetitivos firmou-se no sentido da viabilidade da habilitação do crédito tributário no juízo falimentar em concomitância com a execução fiscal, sem que isto importe em perda superveniente do interesse de agir (REsp n. 1.872.759/SP,  .. )" (fl. 222), e que "é vedada a inovação recursal em sede de embargos declaratórios. Portanto, não se conhece dos argumentos relativos ao IRDR e quanto a alegação da existência de ativos da VASP, que, inclusive, demanda dilação probatória e exercício pleno do contraditório para ser dirimida, o que não se admite na via estreita da exceção de pré-executividade" (fl. 222), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Com relação à questão da não observância do IRDR, cumpre observar, ainda, que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
