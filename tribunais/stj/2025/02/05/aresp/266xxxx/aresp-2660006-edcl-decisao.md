@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HABITACIONAL COMERCIAL E ADMINISTRADORA LTDA (HABITACIONAL), com fundamento no artigo 1.022 do Código de Processo Civil, em face de decisão monocrática de minha relatoria e assim indexada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MONITÓRIA. CITAÇÃO POR HORA CERTA SETE ANOS APÓS PROPOSITURA DA DEMANDA. PRAZO QUINQUENAL. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC POR NEGATIVA DE PRESTAÇÃO. INOCORRÊNCIA. ACÓRDÃO QUE, CONQUANTO CONTRÁRIO AOS INTERESSES DA PARTE, RESPONDE INTEGRALMENTE AS QUESTÕES POR ELA PONTUADAS. (2) DEMORA INERENTE A MECANISMOS DA JUSTIÇA COM SUCESSIVAS DILIGÊNCIAS DEFERIDAS PELO JUDICIÁRIO (BUSCA PARA ENDEREÇOS EM DEZEMBRO DE 2004; CARTA PRECATÓRIA EM 2005; PEDIDO E OFÍCIOS A BANCOS EM 2006; ANDAMENTO E PRECATÓRIA, EM 2007; EXPEDIÇÃO DE CARTA PRECATÓRIA EM 2008; BUSCA DE ENDEREÇOS EM DEZ/2008, ATÉ A CITAÇÃO DO RECORRIDO POR HORA CERTA EM JUNHO DE 2009). VIOLAÇÃO DO ART. 240, §§ 1º E 2º, DO NCPC. (3) TERMO INICIAL DOS JUROS DE MORA EM CASO DE COBRANÇA DE CHEQUES. TEMA 942/STJ. APRESENTAÇÃO DA CÁRTULA NA CASA BANCÁRIA. RECURSO ESPECIAL PROVIDO. (e-STJ, fls. 2376).
+A Embargante sustenta que, ao dar provimento ao recurso, caberia ao juízo monocrático inverter os honorários advocatícios em seu favor, conforme disposto no artigo 85 do CPC e com observância dos princípios da causalidade e da sucumbência. Ressalta ainda que o longo período de tramitação e o trabalho adicional desempenhado justificariam a majoração dos honorários.
+Não houve apresentação de resposta pelo executado JOSÉ RENATO CASTRO.
+É o relatório.
+DECIDO.
+O recurso reiterativo merece acolhida.
+O caso decorre de execução fundada em cheque prescrito, no qual HABITACIONAL, ora credora, teve decisão desfavorável na instância ordinária, com o acórdão reformado por esta Corte Superior em virtude da violação de dispositivos processuais relevantes.
+Embora a decisão monocrática tivesse reformado o acórdão local, reconhecendo o direito da Embargante, esta alega que a questão da verba sucumbencial não foi enfrentada, o que teria gerado omissão a ser suprida nos embargos.
+Da violação do art. 1.022 do CPC.
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum ponto ou questão sobre a qual devia se pronunciar o juiz ou o tribunal de ofício ou a requerimento da parte e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+No caso, HABITACIONAL apontou ofensa ao art. 1.022, II, do CPC, por omissão do julgado no que tange à necessidade de fixação dos honorários de advogado decorrente da inversão de julgamento com o provimento de seu recurso especial.
+Com razão.
+Pela decisão monocrática embargada, o terceiro recurso especial de HABITACIONAL foi provido para, afastada a prescrição intercorrente, (i) reconhecer o termo inicial para a contagem dos juros de mora a partir da data de apresentação das cártulas cobradas na instituição bancária. Porém, olvidou-se de fixar os honorários de advogado, pela inversão de julgado verificada.
+A despeito do valor histórico cobrado ser de R$ 2.272,12 (agosto/2002), não se pode esquecer que a ele serão acrescidos correção monetária e juros de mora por tempo superior a mais de duas décadas, afastando a ideia de mero valor irrisório do proveito econômico a justificar o arbitramento da paga do causídico por equidade (NCPC, art. 85, § 8º).
+Diante diss o, é devida a fixação da verba honorária.
+Nessas condições, ACOLHO os embargos de declaração para sanar a omissão apontada nos termos da fundamentação supra, fixando em 15% o percentual da verba honorária sobre o valor da condenação, nos termos do art. 85, § 2º, I, II, III e IV do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MONITÓRIA PARA COBRANÇA DE CHEQUE PRESCRITO. AFASTAMENTO DA PRESCRIÇÃO INTERCORRENTE E RESTABELECIMENTO DA CONDENAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC CONFIGURADA. HONORÁRIOS RECURSAIS. NECESSIDADE DE FIXAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
