@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de DANILO NOGUEIRA SERAINE, alegando constrangimento ilegal por parte do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no HC n. 0056841-73.2024.8.19.0000.
+Consta dos autos que o paciente está preso preventivamente pela suposta prática do delito tipificado no art. 157, § 2º, II, duas vezes, c/c o art. 61, II, alínea "h" (um deles), na forma do art. 70, todos do Código Penal.
+Neste writ, a Defesa sustenta ausência de fundamentação idônea para decretação da prisão preventiva e violação ao princípio da homogeneidade por parte da autoridade coatora.
+Alega que o paciente é jovem de apenas 20 anos, trabalhador, primário, detentor de bons antecedentes, com residência fixa (fl. 23).
+Aduz que os requisitos da prisão preventiva não estão presentes, alegando serem mais adequadas ao caso concreto as medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva, fixando, caso necessárias, cautelares alternativas previstas no art. 319 do CPP, expedindo-se alvará de soltura.
+A liminar foi indeferida às fls. 162/164.
+Informações prestadas às fls. 174/178.
+O Ministério Público Federal, às fls. 180/185, opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+No caso, o Tribunal de origem assim manteve a segregação cautelar do paciente (fl. 159):
+A decisão de decretação da custódia preventiva do Paciente e aquela que a manteve são detalhadas e fundamentadas no risco à ordem pública, ressaltando-se a gravidade concreta dos delitos. De fato, segundo a Denúncia, dois roubos teriam sido cometidos em concurso de pessoas e mediante violência real, uma vez que a vítima idosa teria sido empurrada pelo Paciente e, por isso, teria caído no chão. Ressaltam, ainda, que a custódia é necessária com vistas à garantia da instrução criminal, uma vez que as vítimas ainda não foram ouvidas em juízo. Realmente, diante das peculiaridades do caso, penso que a soltura pode comprometer a instrução criminal, no mínimo causando temor nas vítimas, uma delas, repita-se, idosa e contra quem teria sido praticada a violência real. Assim, pelo menos por ora, mostra-se necessária a custódia cautelar. Análise mais aprofundada sobre os fatos não é possível nesta sede, mas, apenas, nos autos da ação penal e quando da análise do mérito e em momento próprio.
+Diga-se, ainda, que a pena mínima cominada a cada um dos delitos qualificados pelo concurso de agentes é superior a cinco anos, cumprindo lembrar que, quanto a um deles, teria havido violência real e em tese se encontra presente agravante. Outrossim, trata-se de hipótese, em princípio, de concurso de crimes, não se podendo esquecer, também, dos termos do art. 33, §3º do CP. Assim, não há falar-se em violação do princípio da homogeneidade.
+Por fim, condições pessoais favoráveis não autorizam a revogação da custódia cautelar quando presentes seus requisitos, como in casu.
+Do excerto transcrito, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada a partir das circunstâncias da prática delitiva, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. FURTO QUALIFICADO. PRINCÍPIO DA COLEGIALIDADE. OFENSA NÃO CONFIGURADA. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+1. A decisão monocrática que indefere liminarmente o habeas corpus não viola o princípio da colegialidade, por haver previsão legal e regimental para tanto.
+2. O habeas corpus foi indeferido liminarmente por estar o acórdão combatido em consonância com a jurisprudência desta Corte Superior, quanto à idoneidade dos motivos exarados para justificar a prisão preventiva do réu.
+3. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+4. As circunstâncias mencionadas pelo Juízo singular indicam a gravidade da conduta em tese perpetrada, diante da subtração do celular da vítima mediante emprego de uma faca e em concurso de agentes, elementos idôneos, conforme a jurisprudência desta Corte Superior, para justificar a prisão cautelar e negar a substituição por medidas menos gravosas.
+5. Agravo não provido. (AgRg no HC n. 946.299/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/10/2024, DJe de 6/11/2024.)
+DIREITO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO. CORRUPÇÃO DE MENORES. USO DE SIMULACRO DE ARMA DE FOGO. ORDEM DENEGADA.
+I. Caso em exame 1. Habeas corpus impetrado contra decisão do Tribunal de Justiça do Estado de São Paulo que manteve a prisão preventiva do paciente, acusado de roubo majorado (concurso de agentes) e corrupção de menores, com uso de simulacro de arma de fogo, visando à subtração de bens de vítimas em sua residência.
+II. Questão em discussão 2. A questão em discussão consiste na verificação da presença dos requisitos para a manutenção da prisão preventiva, conforme o art. 312 do CPP.
+III. Razões de decidir 3. A prisão preventiva é compatível com a presunção de não culpabilidade, desde que não assuma natureza de antecipação de pena.
+4. A decisão de origem está fundamentada na presença do "fumus comissi delicti" e "periculum libertatis", com base na gravidade concreta dos crimes praticados.
+5. A jurisprudência do STJ corrobora a manutenção da prisão preventiva em casos de gravidade concreta que desbordam o tipo penal.
+IV. Dispositivo 6. Ordem de habeas corpus denegada. (HC n. 859.382/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+Quanto à alegação de que a prisão cautelar seria desproporcional, pontuo que
+ ..  não cabe a esta Corte Superior, em um exercício de futurologia, prever de antemão qual seria o possível quantum de aplicação da pena, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados (AgRg no HC 556.576/SP, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 10/03/2020, DJe de 16/03/2020).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
