@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTERIO PUBLICO DO ESTADO DA PARAIBA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 0000476-32.2019.8.15.0211, assim ementado (fl. 533):
+APELAÇÃO CRIMINAL. CRIMES CONTRA A VIDA. HOMICÍDIO. ART. 121, CAPUT, DO CÓDIGO PENAL. ACUSADO SUBMETIDO A JULGAMENTO PELO JÚRI POPULAR. CONDENAÇÃO. IRRESIGNAÇÃO MINISTERIAL. PLEITO PARA NOVO JULGAMENTO POPULAR E MAJORAÇÃO DA PENA APLICADA. NÃO ACOLHIMENTO. CORRETA FUNDAMENTAÇÃO E APLICAÇÃO DA REPRIMENDA. DESPROVIMENTO DO APELO.
+Consta dos autos que a parte agravante foi condenada, em primeiro grau, à pena de 06 (seis) anos de reclusão, em regime semiaberto, pela prática do crime previsto no art. 121, caput, do CP.
+Nas razões do recurso especial, a acusação alega violação do art. 59 do CP, ao argumento de que a fixação da pena-base não guardou consonância com o apurado e carreado aos autos quando da valoração do vetor da "culpabilidade" (fl. 554).
+Requer, ao final, o provimento do recurso a fim de que seja avaliada de forma desfavorável a circunstância judicial da culpabilidade, com a consequente majoração da pena-base.
+Não foram apresentadas contrarrazões (fls. 559).
+O Tribunal a quo inadmitiu o apelo especial com base em fundamento devidamente impugnado pela parte agravante (fls. 563-567).
+Parecer do Ministério Público Federal pelo não provimento do recurso especial (fls. 588-590).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Inicialmente, cumpre registrar que, excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via eleita, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático probatória.
+Como é sabido, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime.
+Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente, as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+No que importa ao julgamento do caso, o Tribunal local, ao ratificar os fundamentos da decisão de piso, consignou o seguinte (fl. 537):
+Neste contexto, observa-se que o julgador de primeiro grau, ao analisar a dosimetria, fixou a pena base em 06 (seis) anos de reclusão. Cumpridas as análises da 2ª e 3ª fases da dosimetria, por não haver agravantes e causas de aumento ou diminuição, a pena base foi mantida, fixando o regime semiaberto para cumprimento, com referência no fixado e no quantum tempo de prisão cautelar do réu.
+Analisando detidamente o caderno processual, na primeira fase dosimétrica, verifica-se que a elevação da pena base só poderia ocorrer se o juiz togado, de forma fundamentada, reconhecesse ao menos uma circunstância judicial desfavorável, porém, se todas as moduladoras restaram neutras ou favoráveis, a sanção basilar permanecerá no respectivo marco inicial.
+Na hipótese, o juízo a quo atendeu, literalmente, aos comandos da Lei Penal e do princípio constitucional da individualização da pena, frente a prática do crime em tela, eis que dimensionou a punição do réu de acordo com o seu quadro sócio delitivo disposto nos autos e em atenção ao sistema trifásico operado à luz dos princípios da proporcionalidade e razoabilidade.
+Assim, ao perlustrar a dosimetria aferida, percebe-se que a sentença não merece ser reformada quanto ao pedido de aumento da pena-base, pois o juízo sentenciante justificou, a contento, cada item das circunstâncias judiciais, tendo extraído, dentre elas, as moduladoras que entendeu serem neutras e favoráveis ao acusado, razão de ter, acertadamente, mantido a pena em seu mínimo legal, não havendo qualquer modificação a ser feita, já que agiu com a discricionariedade que lhe é outorgada e dentro dos padrões legislativos.
+Para fins do art. 59 do CP, a culpabilidade deve ser compreendida como juízo de reprovabilidade sobre a conduta, apontando maior ou menor censurabilidade do comportamento do réu.
+Na hipótese, as instâncias ordinárias, soberanas no exame da matéria fático-probatória entenderam que a culpabilidade do recorrido, no caso concreto, não extrapolou a normal ao tipo, razão pela qual não a considerou desfavorável.
+Assim, alterar o entendimento originário para concluir de forma contrária, como pretende a acusação, demandaria o reexame da acervo probatório dos autos, providência obstada pela Súmula n. 7 do STJ.
+Nesse sentido, mutatis mutandis:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO DE ENTORPECENTES. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. DOSIMETRIA. PENA-BASE. GERENTE DO PONTO DE VENDA DE ENTORPECENTES. CULPABILIDADE ACENTUADA. REEXAME PROBATÓRIO, IMPOSSIBILIDADE. ILEGALIDADES NÃO CONFIGURADAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus, ação constitucional de rito célere e de cognição sumária, não é meio processual adequado para analisar a tese de insuficiência probatória para a condenação. Precedentes. No caso, as instâncias ordinárias, com base no acervo probatório e expressa menção a circunstâncias concretas firmaram compreensão no sentido da efetiva prática do crime de tráfico ilícito de entorpecentes pelo paciente. E, como cediço, o habeas corpus, ação constitucional de rito célere e de cognição sumária, não é meio processual adequado para analisar a tese de insuficiência probatória para a condenação.
+Precedentes.
+2. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade. No caso, a Corte local negativou a vetorial culpabilidade pelo fato de o paciente ser o gerente do ponto de venda de entorpecentes, o que não comporta reparo. Entendimento em sentido contrário demandaria, necessariamente, o revolvimento do conjunto fático-probatório, providência inviável na via estreita do habeas corpus. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no HC n. 916.107/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024, grifamos )
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. ROUBO MAJORADO. DOSIMETRIA DA PENA. PENA-BASE. CULPABILIDADE DO AGENTE. ELEMENTOS CONCRETOS. FUNDAMENTAÇÃO IDONÊA. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A fixação da pena está inserida dentro do critério de discricionariedade do juiz, vinculado às circunstâncias específicas do caso concreto e às características subjetivas do agente, podendo ser revista por este Tribunal Superior apenas nos casos de desrespeito aos limites legais ou evidente desproporcionalidade.
+2. Na hipótese, a circunstância judicial da culpabilidade do agente foi desfavoravelmente avaliada com justificativa idônea, baseada em elementos concretos, a saber: a premeditação do delito e a divisão de tarefas entre os acusados. Precedentes.
+3. Modificar o entendimento adotado pela Corte de origem demandaria nova análise do conjunto probatório dos autos, situação vedada pela Súmula n. 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.595.617/CE, minha relatoria, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024, grifamos)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
