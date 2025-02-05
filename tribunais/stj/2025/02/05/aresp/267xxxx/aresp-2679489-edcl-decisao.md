@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS FERREIRA CAMARGO contra decisão monocrática de minha relatoria que inferiu o pleito de chamamento do feito à ordem (fls. 2.702-2.711).
+Nas razões dos aclaratórios, a embargante aduz a existência de omissão na decisão embargada por não ter analisado questões de ordem pública relacionadas à coisa julgada e à prescrição. Sustenta que essas matérias, de natureza pública, transcendem as questões processuais e devem ser enfrentadas de ofício. Argumenta que o reconhecimento da coisa julgada e da prescrição são essenciais para a validade do processo, além de enfatizar que o chamamento do feito à ordem não buscou substituir recursos inadmitidos, mas apontar erros materiais e processuais que comprometem a segurança jurídica e a eficiência processual (fls. 2.717-2.722).
+Pugna, por fim, pelo provimento dos aclaratórios com o reconhecimento das matérias de ordem pública.
+Sem contraminuta (fl. 2.730).
+É, no essencial, o relatório.
+Nada a acolher.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso dos autos, a decisão embargada foi clara ao consignar que o chamamento do feito à ordem não é meio adequado de impugnação de decisão judicial, tendo sido utilizado, de forma indevida, para rediscutir questões já enfrentadas nos recursos apresentados, os quais sequer ultrapassaram o juízo de admissibilidade devido à aplicação da Súmula n. 182/STJ. Além disso, foi expressamente reconhecido que a análise da coisa julgada e da prescrição demandaria exame de mérito recursal, inviável na via escolhida. Vejamos (fls. 2.713-2.714):
+Inicialmente, ressalte-se que a questão de ordem é faculdade do relator, para o bom andamento dos processos, nos termos do art. 34, IV, do RISTJ, e não meio de impugnação de decisão judicial, como pretende o peticionante, na hipótese, trazendo, em petição avulsa, questões já enfrentadas no âmbito dos recursos apresentados, que sequer ultrapassaram o juízo de admissibilidade devido à aplicação da Súmula n. 182/STJ, não cabendo, portanto, reexame por esta via.
+Para analisar a ocorrência da coisa julgada ou da prescrição seria necessário analisar o mérito recursal. Portanto, não há falar em omissão no julgado quanto ao mérito, se os recursos apresentados não ultrapassaram o juízo prévio de conhecimento.
+Ante o exposto, indefiro os pedidos formulados na petição de fls. 2.702- 2.711.
+ ..
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mesmo sentido, cito :
+2. Não podem ser acolhidos os embargos de declaração que, a pretexto de alegados vícios na decisão embargada, expressam o mero inconformismo da parte com o desfecho do julgado, buscando tão somente provocar a rediscussão da controvérsia. (EDcl no AgInt no AREsp n. 2.042.639/GO, relator Ministro Humberto Martins, Segunda Turma, DJe de 12/12/2022.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE CHAMAMENTO DO FEITO À ORDEM. ART. 34, IV, DO RISTJ. IMPOSSIBILIDADE DE UTILIZAÇÃO COMO MEIO DE IMPUGNAÇÃO DE DECISÃO JUDICIAL. INDEFERIMENTO. INCONFORMISMO. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
