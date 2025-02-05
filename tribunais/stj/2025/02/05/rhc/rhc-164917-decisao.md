@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus oposto em favor de TALES ALVARENGA AVELAR contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou a ordem no Habeas Corpus n. 2291424-76.2021.8.26.0000.
+Consta dos autos que o paciente foi condenado como incurso no art. 19, caput, da Lei de Contravenções Penais, à pena de 15 (quinze) dias de prisão simples, em regime inicial semiaberto; e que interpôs recurso extraordinário aduzindo a inconstitucionalidade do referido artigo; a Juíza Presidente do Colégio Recursal de Franca determinou o sobrestamento do recurso até o julgamento do Tema 857 no Supremo Tribunal Federal, suspendendo o prazo prescricional, nos termos do art. 116, inciso I, do Código Penal.
+A defesa interpôs agravo interno, que foi julgado improcedente pela Turma Recursal Criminal do Colégio Recursal de Franca/SP. A defesa impetrou mandado de segurança, cuja ordem foi denegada pelo Tribunal de Justiça do Estado de São Paulo (e-STJ fl. 1-154).
+No presente recurso, a defesa alega que o sobrestamento do processo em razão da afetação do recurso repetitivo do Tema 857 no Supremo Tribunal Federal não dá azo à suspensão do curso do prazo prescricional das ações penais em curso.
+O Ministério Público Federal ofertou parecer pelo desprovimento do recurso (fls. 161-168).
+É o relatório. DECIDO.
+Conheço do recurso, pois presentes os requisitos de admissibilidade recursal.
+A controvérsia dos autos consiste saber se a afetação do ARE n. 901.623 (Tema 857) pelo Supremo Tribunal Federal acarreta a suspensão do prazo prescricional das ações penais em curso sobre a referida matéria.
+Sobre o assunto, o próprio Supremo Tribunal Federal já se manifestou, em duas oportunidades e em decisões monocráticas específicas sobre o Tema 857, que o sobrestamento das ações penais em razão da afetação da matéria em repercussão geral acarreta automática suspensão da prescrição da pretensão punitiva:
+ ..  Em conclusão, a Corte decidiu que: "em sendo determinado o sobrestamento de processos de natureza penal, opera-se, automaticamente, a suspensão da prescrição da pretensão punitiva relativa aos crimes que forem objeto das ações penais sobrestadas, a partir de interpretação conforme a Constituição do art. 116, I, do CP" e que "em nenhuma hipótese, o sobrestamento de processos penais determinado com fundamento no art. 1.035, § 5º, do CPC abrangerá ações penais em que haja réu preso provisoriamente"  ..  (STF, Despacho no Ag.Reg. no RE 1.251.843, Relatora Ministra Rosa Weber, 18 de novembro de 2020).
+ ..  "encontrando-se a questão referente à tipicidade da conduta de portar arma branca, considerada a ausência da regulamentação exigida no tipo do art. 19 da Lei das Contravenções Penais, na dependência da análise do ARE 901.623-RG/SP e tendo sido determinada a devolução dos autos à origem para aguardar o respectivo julgamento, conclui- se que não corre a prescrição enquanto perdurar a suspensão do processo, conforme determina o art. 1.035, § 5º, do Código de Processo Civil" (STF, ED no Ag.Reg. no ARE 1.189.383, Relator Min. Ricardo Lewandowski, julgamento 26 de abril de 2019).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
