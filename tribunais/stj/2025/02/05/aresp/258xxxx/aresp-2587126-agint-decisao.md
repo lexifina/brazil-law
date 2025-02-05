@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, agravo interno interposto por SONIA REGINA CAVALCANTE BONFIM contra decisão que não conheceu do agravo em recurso especial pela incidência da Súmula 182/STJ.
+Argumenta a parte agravante que "foi explicitado no agravo em recurso especial que ocorreu efetiva omissão e, conforme jurisprudência do próprio Superior Tribunal de Justiça, o recurso especial com objeto na negativa de prestação jurisdicional não atrai reexame de fatos ou provas, mas tão somente análise de omissão sobre fatos e provas, o que foi devidamente disposto em tópico específico no agravo em recurso especial" (fl. 313).
+Ao final, requer a reconsideração da decisão agravada ou o provimento do recurso.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Considerando a relevância dos argumentos apresentados pela parte agravante, reconsidero a decisão agravada e passo a nova análise do recurso.
+Em análise, agravo de decisão que inadmitiu recurso especial interposto por SONIA REGINA CAVALCANTE BONFIM, contra acórdão proferido pelo TJMA, assim ementado (fl. 232):
+PROCESSO CIVIL. CONSTITUCIONAL. APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. NÃO COMPROVAÇÃO DA QUALIDADE DE BENEFICIÁRIO/SUBSTITUÍDO. SERVIDOR QUE PERTENCE A CATEGORIA ESPECÍFICA DE SINDICATO PRÓPRIO DEIXA DE SER REPRESENTADO PELO SINDICATO MAIS ABRANGENTE. NÃO PROVIMENTO.
+1. O Superior Tribunal de Justiça entende que o princípio da unicidade sindical não obsta o desmembramento de sindicato de categoria profissional diferenciada do sindicato-mãe, na mesma base territorial, o qual detém maior capacidade de representatividade dos novos associados, com o intuito de atender a seus interesses específicos, em atenção ao princípio da liberdade sindical (AgRg no AREsp 770.299/MG).
+2. Por outro lado, em situações envolvendo sindicato com amplo alcance, o sindicato "genérico" não possui legitimidade para atuar em nome das categorias específicas que tenham representação própria.
+3. Logo, em atenção aos princípios da unicidade e da liberdade sindicais, constatada a existência de sindicato específico (in casu, SIMPROESEMMA) para determinada categoria profissional, a este compete a representação dos interesses da classe que representa, inviabilizando que outros sindicatos (in casu, SINTSEP), de maior abrangência, na mesma base territorial, atuem na defesa desses mesmos interesses.
+4. Evidenciado que a Apelante pertence à categoria específica, o mesmo deixa de ser representado por quaisquer outros sindicatos, impondo-se o reconhecimento da sua ilegitimidade ativa para a propositura da demanda originária, porquanto não possui representatividade em relação ao SINTSEP.
+5. Apelo conhecido e não provido.
+Nas razões do recurso especial inadmitido, a recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, por considerar omisso o acórdão proferido pela Corte de origem. Aduz que "tal conclusão tomou como base premissa equivocada, declarando situação diversa dos autos e, quando instado a se manifestar, quedou-se omisso, pois não teceu qualquer comentário sobre a questão ou documentos suscitados, deixando a decisão em flagrante estado de vício de fundamentação e negando a devida prestação jurisdicional" (fl. 260).
+É o relatório.
+Contrarrazões a fls. 272-278.
+Passo a decidir.
+Quanto à suposta violação dos arts. 489 e 1.022 do CPC, por omissão do Tribunal a quo acerca dos documentos que comprovam a legitimidade da recorrente, consta do acórdão recorrido o seguinte (fls. 208-209):
+Compulsando os autos, vislumbro que a parte Apelante ostenta a condição de professor, sendo representado e filiado ao SINPROESEMMA, revelando não ser beneficiária/substituída da ação coletiva proposta pelo SINTSEP/MA, não detendo legitimidade ativa para, em sede de cumprimento de sentença, exigir a obrigação de fazer nela encartada.
+Com efeito, a existência de um sindicato representativo de determinada categoria não obsta a criação de outro com o intento de constituir um sindicato específico para determinada atividade, mediante a cisão do sindicato preexistente, seja por meio de desmembramento seja por meio de dissociação. Isso acontece porque o princípio da unicidade sindical não inviabiliza a formação de novos sindicatos, conquanto reste comprovado que a nova entidade possua base territorial não inferior à área de um município.
+ ..
+Por outro lado, a jurisprudência pátria firmou-se no sentido de que, em situações envolvendo sindicato com amplo alcance, como é o caso do SINTSEP, o sindicato "genérico" não possui legitimidade para atuar em nome das categorias específicas que tenham representação própria (SINPROESSEMA).
+ ..
+Logo, em atenção aos princípios da unicidade e da liberdade sindicais, constatada a existência de sindicato específico (in casu, SINPROSSEMA) para determinada categoria profissional, a este compete a representação dos interesses da classe que representa, inviabilizando que outros sindicatos (in casu, SINTSEP), de maior abrangência, na mesma base territorial, atuem na defesa desses mesmos interesses.
+Evidenciado que a Apelante pertence à categoria específica, que melhor represente e atenda aos seus interesses, deixa de ser representado por quaisquer outros sindicatos, impondo-se o reconhecimento da ilegitimidade ativa da Apelante, para a propositura da demanda originária, porquanto não possui representatividade em relação ao SINTSEP.
+Quanto a preclusão consumativa da alegada ilegitimidade ativa da ora agravante, o Tribunal consignou, no acórdão dos embargos de declaração, que:
+Outrossim, afasto a alegação de preclusão consumativa da alegação de ilegitimidade ativa da ora embargante, tendo em vista que esta constitui uma das condições da ação do cumprimento de sentença, cuja demonstração cabe ao exequente quando do ajuizamento do cumprimento.
+Sem maiores digressões jurídicas, os fundamentos ora expostos demonstram que o autor não tem legitimidade para promover a Ação de Cumprimento Individual da Sentença proferida nos autos da Ação Coletiva nº 6.542/2005, ao mesmo tempo em que não ferem nenhum dos dispositivos constitucionais e legais ou súmula mencionados diretamente nas razões recursais (fl. 247).
+No caso dos autos, não se constata a existência de vícios, pois a Corte a quo explicitou, fundamentadamente, as razões pelas quais reconheceu a ilegitimidade ativa da recorrente, revelando-se, em verdade, mero inconformismo da parte.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, reconsidero a decisão de fls. 305-306 e, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
