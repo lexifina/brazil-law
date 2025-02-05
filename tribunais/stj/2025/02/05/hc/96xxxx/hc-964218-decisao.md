@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de MATHEUS FERREIRA DE OLIVEIRA GONÇALVES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 1507493-95.2023.8.26.0050.
+Consta dos autos que o paciente foi condenado à pena de 18 (dezoito) anos e 08 (oito) meses de reclusão, em regime inicial fechado, e ao pagamento de 09 (nove) dias-multa, no valor unitário mínimo, como incurso no artigo 157, § 3º, inciso II, combinado com o artigo 14, inciso II, ambos do Código Penal (fl. 11).
+Em sede de apelação, deu-se parcial provimento ao recurso, afastada a circunstância negativa dos maus antecedentes criminais, condená-lo à pena de 15 (quinze) anos, 06 (seis) meses e 20 (vinte) dias de reclusão, no regime inicial fechado, e ao pagamento de 07 (sete) dias-multa, no valor unitário mínimo legal, como incurso no artigo 157, § 3º, inciso II, combinado com o artigo 14, inciso II, ambos do Código Penal (fl. 36).
+Neste writ, a impetrante alega que foi violado o art. 5º, XII, da Constituição Federal, argumentando que a única prova em desfavor do paciente foi obtida em acesso não autorizado no celular de um dos envolvidos no delito.
+Requer o reconhecimento da nulidade da prova produzida com a consequente absolvição do paciente.
+Informações prestadas (fls. 181/235 e 236/239).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (fls. 241/246).
+É o relatório.
+DECIDO.
+Insurge-se contra acórdão proferido pela 12ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, apontado como ato coator (fls. 9/37), o qual teve como resultado parcial provimento ao recurso.
+O Superior Tribunal de Justiça possui em sua reiterada jurisprudência o firme entendimento de ser incabível a impetração de habeas corpus substitutivo de recurso próprio sob pena subversão do sistema recursal e indevida supressão de instância.
+Confira-se (grifamos):
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS. APREENSÃO DE DROGAS E MATERIAL CARACTERÍSTICO DO TRÁFICO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGI MENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+ ..
+(AgRg no HC n. 946.588/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024.)
+Impugna-se indevidamente por meio de habeas corpus o acórdão da apelação, em detrimento do recurso próprio cabível, no caso, o Recurso Especial, nos termos do art. 105, III, "a", da Constituição Federal.
+O acórdão encontra-se em consonância com esta Corte Superior, que entende não haver ilegalidade na perícia do aparelho celular, não havendo sigilo de correspondência do de cujos a ser protegido, havendo autorização de familiar, não podend o tal consentimento ser examinado na via estreita do habeas corpus, pois demandaria revolvimento do acervo fático-probatório.
+Vejamos:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRONÚNCIA: HOMICÍDIO QUALIFICADO CONSUMADO. INDÍCIOS DE AUTORIA OBTIDOS A PARTIR DE EXAME DO APARELHO CELULAR DA VÍTIMA FALECIDA, MEDIANTE AUTORIZAÇÃO DE SUA FAMÍLIA, INTERESSADA NO ESCLARECIMENTO DO CRIME. AUSÊNCIA DE PRÉVIA AUTORIZAÇÃO JUDICIAL. LEGITIMIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO DA DEFESA NÃO PROVIDO.
+1. Como registrado na decisão ora impugnada, que nesta oportunidade se confirma, a tese de necessidade de autorização judicial para a perícia do aparelho celular da vítima de um homicídio consumado não tem repercussão na jurisprudência desta Corte.
+2. "Não há ilegalidade na perícia de aparelho de telefonia celular pela polícia na hipótese em que seu proprietário - a vítima - foi morto, tendo o referido telefone sido entregue à autoridade policial por sua esposa, interessada no esclarecimento dos fatos que o detinha, pois não havia mais sigilo algum a proteger do titular daquele direito" (RHC 86.076/MT, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/10/2017, DJe 12/12/2017).
+3. Evidentemente, a hipótese dos autos não se confunde com aquela que tem por objeto o aparelho ou a conta do próprio investigado como autor do delito.
+4. Também vale acrescentar que, no caso específico ora sob exame, o acórdão proferido pelo segundo grau de jurisdição consignou ter havido autorização da família da vítima falecida, narrativa que é consistente com a sentença de pronúncia, segundo a qual o aparelho foi localizado por seus parentes.
+5. Assim, a tese de que não teria havido autorização da família do ofendido não pode ser examinada nesta via, pois demandaria dilação probatória incompatível com o habeas corpus, ação constitucional destinada à controvérsia estritamente interpretativa.
+6. Assim, apesar dos argumentos apresentados pela defesa, não há elementos nos autos que evidenciem a existência de constrangimento ilegal.
+7. Agravo regimental não provido.
+(AgRg no HC n. 742.502/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+Ademais, o Superior Tribunal de Justiça entende não se tratar de indevida interceptação telefônica na ocasião do policial atender celular aprendido.
+É a jurisprudência:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO. TRÁFICO DE DROGAS. NULIDADE ABSOLUTA DA CONDENAÇÃO. VIOLAÇÃO DO SIGILO TELEFÔNICO. POLICIAL QUE ATENDEU AO CELULAR DO RÉU. PROVA LÍCITA. NÃO OCORRÊNCIA. NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. CRIME PERMANENTE. JUSTA CAUSA CONFIGURADA. INOCORRÊNCIA DE ILEGALIDADE.
+HABEAS CORPUS NÃO CONHECIDO. 1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A Constituição Federal de 1988 prevê como garantias ao cidadão a inviolabilidade da intimidade, do sigilo de correspondência, dados e comunicações telefônicas, salvo ordem judicial.
+3. A Lei n. 12.965/2014, conhecida como Marco Civil da Internet, em seu art. 7º, assegura aos usuários os direitos para o uso da internet no Brasil, entre eles, o da inviolabilidade da intimidade e da vida privada, do sigilo do fluxo de suas comunicações pela internet, bem como de suas comunicações privadas armazenadas.
+4. A quebra do sigilo do correio eletrônico somente pode ser decretada, elidindo a proteção ao direito, diante dos requisitos próprios de cautelaridade que a justifiquem idoneamente, desaguando em um quadro de imprescindibilidade da providência. (HC 315.220/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/09/2015, DJe 09/10/2015).
+5. Com o avanço tecnológico, o aparelho celular deixou de ser apenas um instrumento de comunicação interpessoal. Hoje, é possível ter acesso a diversas funções, entre elas, a verificação de mensagens escritas ou audível, de correspondência eletrônica, e de outros aplicativos que possibilitam a comunicação por meio de troca de dados de forma similar à telefonia convencional.
+6. No caso em questão, porém, conforme pontuado pelo Tribunal a quo, não houve devassa do conteúdo do celular do acusado preso em flagrante. Ocorreu, em suma, que "(..) na realidade, o telefone de Adriano tocou durante a sua imobilização pelos agentes públicos e, imediatamente, foi atendido por um dos policiais. A partir disso, surgiu a forte suspeita de participação da apelante na conduta criminosa, por ser a interlocutora e iniciar o diálogo antes mencionado". 7. Há jurisprudência desta Corte Superior reconhecendo a legalidade de tal conduta - atender ligação proveniente do celular do acusado durante o flagrante - a uma porque não se verifica quadro de interceptação, pois não estão presentes os requisitos da Lei n. 9.296/1996, a outra pois tem se entendido que em tal cenário há escorreito procedimento policial, a legitimar a ação. A propósito, conferir: HC 55.288/MG, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTA TURMA, julgado em 2/4/2013, DJe 10/05/2013; AREsp 1.244.804/DF. Ministro JORGE MUSSI, DJe 1/8/2018; e HC 378.775/SP. Ministro REYNALDO SOARES DA FONSECA, DJe 7/12/2017.
+ ..
+12. Habeas corpus não conhecido.
+(HC n. 446.102/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/6/2019, DJe de 11/6/2019.)
+Por se tratar de Habeas Corpus Substitutivo de Recurso Especial, e não havendo flagrante ilegalidade que autorize a concessão da ordem de ofício, o writ não é conhecido.
+Ante exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
