@@ -1,0 +1,61 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão assim ementado:
+APELAÇÃO. IMPROBIDADE. DANO AO ERÁRIO. DÚVIDA FORTE QUANTO À REALIZAÇÃO DO OBJETO DO CONVÊNIO. ABSOLVIÇÃO CRIMINAL. JULGAMENTO DAS CONTAS PELO TCU COMO ILIQUIDÁVEIS, COM O AFASTAMENTO DA RESPONSABILIDADE DA APELANTE E ARQUIVAMENTO DO PROCESSO QUANTO AOS GESTORES. PROVIMENTO.
+I. No caso concreto, a sentença, ao julgar procedente o pedido formulado pelo MPF, reconheceu a prática de atos de improbidade quanto à execução do objeto dos Convênios nºs 1661/2004, 4743/2004 e 2618/2005.
+II. A apelação, por sua vez, é interposta apenas pela Meridional Engenharia Civil Ltda. e, por isso, circunscreve-se ao cumprimento do Convênio nº 4743/2004 (reforma e ampliação de edifício), até porque os demais ajustes versam sobre objetos totalmente estranhos ao seu ramo de negócio e de cuja realização não participou. Por isso, o exame desta Turma limitar-se-á a tal ajuste, excluída qualquer apreciação quanto à responsabilização aferida quanto aos Convênios nºs 1661/2004, 3/2004 e 2618/2005.
+III. No caso dos autos, aponta-se que a requerente somente teria executado aproximadamente 46% da obra contratada, enquanto aquela sustenta que a realizara integralmente, mas que, em seguida, o imóvel foi objeto de invasão por integrantes do MST, os quais depredaram o imóvel, havendo a fiscalização sido realizada ao depois da reintegração de posse.
+IV. É de se notar que o Estado brasileiro, por duas oportunidades, pronunciou-se pela ausência de demonstração de comportamento ilícito na espécie, a saber: a) sentença proferida em ação penal (Processo 0008706-14.2012.4.05.8200), absolvendo os gestores da AASS e o representante leal da apelante, com fundamento no art. 386, II, do CPP (não haver prova da existência do fato); b) julgamento, pela Segunda Câmara do TCU (TC 014.708/2014-0), no sentido de considerar as contas dos gestores da AASS iliquidáveis, por motivo de força maior (arts. 20 e 21, Lei nº 8.443/92), determinando-se o arquivamento dos autos quanto a estes e excluindo do processo a empresa apelante. De notar que, no âmbito do TCU, o representante do Ministério Público opinou no sentido de reconhecer que as obras foram realizadas.
+V. A despeito da discussão sobre a comunicabilidade de tais decisões à órbita da improbidade administrativa, não se pode esquecer de que a esta são aplicáveis as diretrizes do direito administrativo sancionador (art. 1º, §4º, LIA), razão pela qual há forte dúvida sobre a ocorrência do ilícito, tornando injuntiva a improcedência do pedido.
+VI. Apelação provida, julgando-se improcedente o pedido quanto à apelante. Esta decisão, restrita aos fatos relativos relativos ao Convênio nº 4743/2004, é ser estendida a Maria Nilda Santiago Silva e a José Vieirafatos da Silva, os quais não recorreram, permanecendo, quanto a este s, a responsabilidade fixada na sentença no que concerne ao cumprimento do Convênio nº 1661/2004 e do Convênio nº 2618/2005.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação aos arts. 9º, XI, 10, caput, Lei 8.429/1992.
+É o relatório.
+Decido.
+De início, ao dirimir a controvérsia, o Tribunal de origem concluiu que:
+A sentença indicou como fundamento o art. 386, II, do Código de Processo Penal, que se reporta a "não haver prova da existência do fato" e, portanto, não se comunica automaticamente à ação de improbidade, pois não proferida por órgão colegiado.
+No entanto, não se pode deixar de reconhecer que a sua não submissão da absolvição a este colegiado se deu porque o próprio MPF, autor da rescisória, satisfez-se com tal conclusão (fl. 4.773).
+Contudo, o fundamento acima destacado não foi impugnado, apesar de ter sido transcrito à fl. 4.844, razão pela qual incide o óbice da Súmula 283/STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+No mais, constou do acórdão recorrido o seguinte:
+No que concerne à apelante, tem-se que esta somente interveio durante a execução do Convênio nº 4743/2004 (reforma e ampliação de edifício), até porque os demais versam sobre objetos totalmente estranhos ao seu ramo de negócio.
+Portanto, o exame desta Turma se restringirá a tal ponto, sendo de notar que a caracterização da suposta improbidade haver decorrido da execução de apenas 46% do objeto pactuado.
+Não é de se olvidar, máxime diante da eloquência legislativa, que o instituto da improbidade administrativa segue o regime aplicável ao direito administrativo sancionador (art. 1º, §4º, Lei nº 8.429/92 - LIA), não se faz possível olvidar dois aspectos afirmados pela recorrente.
+Num deles, mais precisamente a sentença proferida na Ação Penal (PJE 0008706-14), o juiz sentenciante, Dr. Manuel Maia de Vasconcelos Neto, exarou a seguinte motivação:
+ ..
+14. A Associação de Apoio à Saúde e ao Social (AASS) celebrou com o Ministério da Saúde o Convênio n.º 4743/2004, cuja finalidade era a ampliação de sua sede com recursos federais orçados em R$ 96.228,14 (noventa e seis mil duzentos e vinte o oito reais e quatorze centavos), por meio do qual se previa a criação de alojamentos masculino e feminino, infantil, dispensa, cozinha, refeitório, triagem, administração, enfermaria e o desenvolvimento de ações básicas de saúde (fl. 357, apenso I, Vol. I).
+15. Em 30/09/2005 (fl. 363, apenso I, Vol. I), após a aprovação do projeto feito pela Associação de Apoio à Saúde e ao Social (AASS), ocorreu a liberação dos valores c o n v e n i a d o s R $ 9 6 . 2 2 8 , 1 4 ( n o v e n t a e seis mil duzentos e vinte o oito reais e quatorze centavos), para cuja execução foi contratada a pessoa jurídica Meridional Engenharia Civil LTDA.
+ ..
+17. Entretanto, relatório do Tribunal de Contas do Estado da Paraíba elaborado em outubro de 2007, com base em vistoria do Ministério da Saúde, apontou diversas irregularidades na execução do Convênio n.º 4743/2004, o que subsidiou a propositura da presente ação penal.
+ ..
+19. ssim, a despeito da liberação dos recursos, a fiscalizaçãoA realizada entendeu que as verbas não foram utilizadas na ampliação do imóvel sede da Associação de Apoio à Saúde e ao Social (AASS), mas sim para a reforma de apenas parte do imóvel.
+20. Entretanto, as provas produzidas não foram suficientes à comprovação do cometimento de ilícito penal.
+ ..
+23. Ademais, o próprio relatório do TCE discorreu que a escritura foi obtida em dezembro de 2004 (fl. 262, apenso I, Vol. I), ou seja, apenas um mês após a apresentação do projeto, de modo que diante dessa verificação, tal questão não pode ser tida nem mesmo como um indício de materialidade delitiva.
+ ..
+28. Ademais, houve a aprovação do projeto pelo Ministério da Saúde, e, portanto, a apontada falta de disposição no estatuto não foi considerada como óbice à celebração do convênio.
+29. O Tribunal de Contas do Estado também entendeu que não houve qualquer ampliação da área do imóvel, pois a dimensão encontrada, 405,72m , já correspondia a da área original, o que indicaria terem sido os recursos destinados à reforma do prédio, em que pese tenha sido verificado que apenas  da área tenha sido abrangida pelas obras, sem contar que quando da vistoria se constatou que o imóvel estava depredado e abandonado.
+30. Em que pese as conclusões a que chegou o órgão de contas, não foi comprovado que os recursos recebidos pela AASS foram apropriados ou mesmo objeto de algum desvio.
+ ..
+32. Assim, o exame acerca da ocorrência ou não de desvio de recursos não pode se permear em meramente verificar se as verbas foram usadas na ampliação ou reforma do local, sobretudo quando tanto a realização de uma como a outra visavam em essência a melhorias na execução de atividade vinculada ao serviço de saúde básica e assistência social.
+ ..
+42. Desse modo, denota-se que não obstante não estivesse ocupado por terceiros quando da vistoria, o imóvel já havia sido alvo de vandalismo, e diante dessa menção no relatório do T C E , t e m - s e q u e n o período entre a conclusão dos trabalhos e a fiscalização houve alteração do quadro fático representativo da obra após o seu término, o que dificulta sobremaneira o exame acerca do correto emprego dos valores conveniados.
+43. Assim, embora a ação de reintegração de posse somente tenha sido proposta em 2008, à época da elaboração do relatório do TCE em outubro de 2007 já havia menção de que vândalos depredavam o local, o que demonstra que a alegação dos réus acerca da invasão do local, também ancorada em prova testemunhal, não foi destituída de fundamento.
+44. Nisso, e em conformidade às provas produzidas, quando foi feita a fiscalização, o imóvel já não se encontrava nas mesmas condições em que estava quando do encerramento da obra.
+ ..
+47. Embora não se possa desconsiderar ter havido falta de zelo em não se promover medidas que viabilizassem a ocupação mais rápida do imóvel, justamente para que se e v i t a s s e o r i s c o d e d e t e r i o r a ç ã o o u mesmo a ação de vândalos, as provas produzidas não demonstraram que houve desvio ou apropriação dos valores conveniados.
+A sentença indicou como fundamento o art. 386, II, do Código de Processo Penal, que se reporta a "não haver prova da existência do fato" e, portanto, não se comunica automaticamente à ação de improbidade, pois não proferida por órgão colegiado.
+No entanto, não se pode deixar de reconhecer que a sua não submissão da absolvição a este colegiado se deu porque o próprio MPF, autor da rescisória, satisfez-se com tal conclusão.
+Ademais, não se pode deixar de considerar que tal pronunciamento, se não aplicados automaticamente, é capaz de formar uma forte dúvida sobre a ocorrência dos fatos ilícitos.
+assim ocorre. Para tanto, é de se ver que o deliberado pela Segunda Câmara do Tribunal de Contas da União, o qual considerou as contas dos gestores iliquidáveis (arts. 20 e 21, Lei nº 8.443/92), tendo em vista a ocorrência de caso fortuito ou força maior, determinando o arquivamento do processo, bem assim a exclusão da apelante.
+ ..
+9. Em relação à empresa Meridional Engenharia Civil Ltda., a unidade instrutora propôs a irregularidade de suas contas, com imputação do débito decorrente da não comprovação da execução do serviço objeto do convênio.
+10. Conforme já me manifestei em diversos outros processos julgados por este Tribunal, em especial os Acórdãos 6.884/2016-1ª Câmara e 6.948/2017-2ª Câmara, imputar à empresa o débito referente ao recebimento de recursos públicos para prestar serviços que o convenente não conseguiu comprovar que foram efetivamente prestados é algo distinto de se imputar ao terceiro contratado um débito por serviços comprovadamente não adimplidos. Nesse sentido, não é possível, em relação à Meridional, presumir a inexecução do objeto do convênio para o qual foi contratada. Essa presunção é dirigida ao gestor, a quem compete demonstrar a boa e regular aplicação dos recursos. Ademais, por se aplicar precisamente ao caso em análise, cito trecho do voto condutor do Acórdão 6.948/2017-2ª Câmara:
+ ..
+11. Dessa forma, proponho a exclusão da Meridional Engenharia Civil Ltda. da presente relação contratual.
+ ..
+É de se notar que, no âmbito do julgamento da Tomada de Contas Especial, o representante do Ministério Público perante o Tribunal de Contas da União entendeu pela existência de elementos no sentido da realização das obras ajustadas.
+Assim, a alegação da defesa, reforçada nesses dois órgãos estatais, possui plausibilidade, no sentido de que tais obras terem sido realizadas, mas que, posteriormente, em face de invasão, o imóvel foi alvo de depredação, quadro fático com o qual se defrontou a fiscalização.
+Não há, portanto, sólido acervo probante no sentido da demonstração da prática do ato ímprobo, razão pela qual se impõe a improcedência do pedido (fls. 4.767-fl. 4.775).
+Nesse sentido, decidir de forma contrária, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 18 da Lei 7.347/1985.
+Intimem-se.
+EMENTA
