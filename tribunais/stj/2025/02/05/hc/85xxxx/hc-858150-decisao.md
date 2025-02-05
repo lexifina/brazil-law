@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de PAULO CESAR SANTANA DOS SANTOS, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, em virtude do julgamento da apelação criminal n. 202300338182.
+Consta dos autos que o paciente foi condenado pela prática do crime tipificado no artigo 33, caput, da Lei n. 11.343/2006, às penas de 1 (ano) e 8 (oito) meses de reclusão e ao pagamento de 166 dias-multa. A pena privativa de liberdade foi substituída por duas restritivas de direitos.
+Neste habeas corpus, a defesa busca o reconhecimento de ilegalidade da revista pessoal, do flagrante, da apreensão e de toda prova derivada dos atos ilegais, concedendo-se a ordem para absolver o paciente por ausência de prova com eficácia probante, com a devida expedição do competente alvará de soltura.
+Informações prestadas pela autoridade coatora (fls. 160-165).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus. (fl. 172).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da nulidade das provas derivadas da busca pessoal realizada sem fundadas suspeitas.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Com efeito, no que tange à aludida ilegalidade, verifico que o Tribunal local concluiu, a partir das circunstâncias fáticas bem delineadas no acórdão recorrido, que foi justificada a busca, amparada em fundada suspeita em consonância com o que dispõem os artigos 240, § 2º e 244 do Código de Processo Penal.
+Consoante se extrai do acórdão impugnado, a prisão em flagrante do paciente não se deu de maneira aleatória, pois, conforme consta dos autos, a abordagem policial decorreu de desconfiança devidamente motivada pelas circunstâncias do caso concreto. Destaca-se (fl. 30):
+ ..  analisando detidamente os autos, verifico que as autoridades policiais demonstraram efetivamente que existiam fundadas razões indicativas de que o agente, ora apelante, estava praticando um crime, de modo a viabilizar a abordagem pessoal sem prévia autorização legal.
+Deveras, infere-se do arcabouço probatório, especialmente dos depoimentos prestados pelos policiais militares responsáveis pela prisão, que referida abordagem policial se deu em razão não só da atitude suspeita do réu, como em razão de denúncias anônimas que ligava o réu ao tráfico, descrevendo inclusive características específicas do apelante, tornando possível sua identificação, aliada ao fato do de, no momento da abordagem, o réu ter tentado se desfazer de uma sacola, lançando-a embaixo de um veículo, a qual, verificada, constatou-se a presença de droga (33 pedras de substância análoga a crack) e a quantia de dinheiro (R$ 66,00) apreendida, conforme informação contida no auto de exibição e apreensão de fl. 08.
+Verifica-se, assim, a justa causa a ensejar na busca pessoal naquele momento, vez que explicitado o contexto fático a afastar a necessidade de investigações prévias, ou mandado judicial, inexistindo a alegada nulidade.  ..
+A esse respeito, destaco precedente desta Corte:
+ ..
+2. "O policiamento preventivo e ostensivo, próprio das Polícias Militares, a fim de salvaguardar a segurança pública, é dever constitucional. 4. Fugir ao avistar viatura, pulando muros, gesticular como quem segura algo na cintura e reagir de modo próprio e conhecido pela ciência aplicada à atividade policial, objetivamente, justifica a busca pessoal em via pública" (RHC 229514 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 2/10/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20/10/2023 PUBLIC 23/10/2023).
+3. A abordagem dos policiais somente ocorreu em razão de atitude suspeita do paciente, o qual, ao avistar a viatura, demonstrou muito nervosismo enquanto andava de bicicleta com um grande volume na cintura. Suspeita confirmada, uma vez que foram encontrados em poder do paciente 80 buchas de maconha e 8 pedras de crack.
+4. Nesse contexto, a partir da leitura dos autos, verifica-se que foi constatada a existência de indícios prévios da prática da traficância, a autorizar a atuação policial, não havendo falar em nulidade da busca pessoal.
+ ..
+(AgRg no HC n. 844.904/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Ante o exposto, não conheço do habeas corpus, nos termos do artigo 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
