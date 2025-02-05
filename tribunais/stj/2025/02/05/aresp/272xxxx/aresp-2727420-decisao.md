@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ CARLOS ROCHA FERREIRA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu recurso especial.
+O recorrente foi condenado como incurso nas sanções do art. 33, §4º, da Lei n. 11.343/06, à pena de 01 (um) ano e 08 (oito) meses de reclusão, a ser cumprida em regime aberto, com o pagamento de 166 (cento e sessenta e seis) dias-multa (fl. 294).
+O Tribunal negou provimento ao recurso defensivo e deu provimento ao recurso ministerial, para afastar o privilégio, estabelecendo à pena em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, em regime semiaberto (fls. 293-303).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a", da Constituição Federal, alegando violação ao art. 33, § 4º, da Lei nº 11.343/06, a fim de ser aplicada a causa de diminuição de pena no grau máximo (fls. 315-325).
+O recurso foi inadmitido na origem com fundamento na Súmula n. 7, do STJ (fls. 334-336).
+Nas razões do agravo em recurso especial, o agravante sustenta a não incidência da súmula supracitada (fls. 342-354).
+O Ministério Público Federal, por sua vez, opinou pelo provimento do recurso, a fim de se reconhecer a forma privilegiada (fls. 372-373).
+É o relatório. DECIDO.
+A controvérsia consiste em determinar se é cabível na espécie o reconhecimento da causa de diminuição de pena, prevista no art. 33, §4º, da Lei n. 11.343/06, de forma que não exige o revolvimento fático-probatório.
+Quanto à aplicação do privilégio, a defesa sustenta que o Tribunal de origem negou-o sob o argumento de que o réu se dedicava a atividades criminosas. Em contrapartida, alega que não há provas nos autos de sua dedicação criminosa, considerando que inquéritos e ações penais em curso não podem se prestar a comprovar a dedicação criminosa do recorrente.
+Assim aduziu o acórdão (fls. 301-302):
+"Isso porque, embora o acusado seja primário e não tenha sido apreendida uma elevada quantidade de drogas, resta devidamente comprovado pelo teor da CAC de ordem 29 que o agente responde a diversas outras ações penais de mesma natureza.
+Isto, inclusive, corrobora as disposições dos policiais militares que, sempre que ouvidos, assinalaram que o acusado já era amplamente conhecido no meio policial pelo seu envolvimento com o narcotráfico.
+Neste mesmo aspecto, embora possua o entendimento de que anotações na Certidão de Antecedentes do Menor por si só não constitua óbice à concessão do benefício do tráfico minorado, conforme entendimento do Supremo Tribunal Federal, RHC: 210056 , é notório que as anotações constantes na CAI de ordem 30, aliados aos fundamentos já externados acima, deixam evidente que o agente vem, há muito, perpetrando o ato delitivo disposto no art. 33 da Lei de Tóxicos.
+Com isto, configurada, a meu sentir, a habitualidade delitiva e, consequentemente, a dedicação do réu à atividades criminosas, entendo não estarem satisfeitos por completo os requisitos dispostos no art. 33, §4º, da Lei 11.343/06, razão pela qual afasto a benesse outrora concedida em primeira instância."
+Em se tratando de réu primário à época dos fatos, a existência de ações penais em curso ou mesmo de condenações posteriores não pode ser utilizada para afastar o privilégio, sob pena de violação ao princípio da presunção de inocência (AgRg no REsp n. 1.891.998/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 17/6/2022).
+Observo que o Tribunal de origem afastou a aplicação da minorante do privilégio fundamentado na dedicação do agravante a atividades criminosas, com base em ações penais em curso, por este responder a diversas outras ações penais de mesma natureza.
+Neste ponto, o posicionamento do Tribunal de origem está em dissonância com o entendimento desta Corte firmado no Tema Repetitivo n. 1139. A justificativa para se afastar o privilégio não é válida, posto que condenações não transitadas em julgado por outros crimes não são circunstâncias aptas a indicar a dedicação à atividades criminosas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, §4º, DA LEI 11.343/2006. AÇÕES PENAIS EM CURSO. DEDICAÇÃO NÃO EVIDENCIADA POR OUTROS ELEMENTOS. AGRAVO DESPROVIDO.
+1. As instâncias ordinárias afastaram o privilégio diante de dois processos em curso em desfavor do agravado, não tendo sido apontados outros elementos concretos que demonstrassem a habitualidade delitiva do agente.
+2. Como se sabe, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.977.027 / PR, submetido ao rito dos recursos repetitivos e de relatoria da Ministra Laurita Vaz (DJe 18/8/2022), estabeleceu a tese de que é inadmissível a utilização de ações penais em curso para afastar a causa de diminuição do art. 33, § 4º, da Lei de Drogas.
+3. Considerando a primariedade e os bons antecedentes do agente, somadas à não expressividade de drogas apreendidas - 13,08g de maconha e 17,44g de crack (e-STJ, fl. 6) -, de rigor é o reconhecimento do redutor do tráfico privilegiado em 2/3.
+4. Agravo regimental do Ministério Público Estadual a que se nega provimento.
+(AgRg no REsp n. 2.158.844/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.)
+Desse modo, o recorrente faz jus à causa de diminuição de pena do artigo 33, §4º, da Lei n. 11.343/2006.
+Ademais, ressalta-se que a quantidade expressiva de drogas, sua variedade e alta nocividade, baliza a fração redutora a ser aplicada, mas não afasta, por si, a aplicação do privilégio (AREsp n. 2.470.531/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJe de 26/12/2024; HC n. 459.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2018, DJe de 26/10/2018.).
+No caso concreto, tendo em vista a variedade apreendida, 36g (trinta e seis) gramas de maconha, 3,12g (três gramas e doze decigramas) de cocaína, 13,10g (treze gramas e dez decigramas) de crack, a redutora deve ser aplicada na fração de 1/3 (um terço).
+Passo ao redimensionamento da pena do recorrente, considerando as penas base e intermediária fixadas na origem.
+Assim, na terceira fase da dosimetria, aplico a redução da pena prevista pelo artigo 33, §4º, da Lei nº 11.343/2006, na fração de 1/3 (um terço), tendo em vista a variedade e nocividade da droga apreendida (maconha, cocaína e crack ), estabelecendo a pena definitiva em 03 (três) anos e 04 (quatro) meses de reclusão, em regime semiaberto e 360 (trezentos e sessenta) dias-multa.
+Presentes o requisitos do artigo 44 do Código Penal, substituo a pena privativa de liberdade por restritivas de direitos, aplicadas pelo Juiz da Execução, em adequação ao caso concreto.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inci so II, c, do Regimento Interno do STJ, conheço do agravo para dar provimento ao recurso especial, fixando a pena em 03 (três) anos e 04 (quatro) meses de reclusão, em regime semiaberto e 360 (trezentos e sessenta) dias-multa.
+Publique-se. Intime-se.
+EMENTA
