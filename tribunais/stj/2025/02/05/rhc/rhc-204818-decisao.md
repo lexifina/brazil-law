@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por LUCIANO DE LIMA, para impugnar acórdão lavrado pelo Tribunal de Justiça do Estado da Paraíba, que denegou a ordem vindicada nos autos do habeas corpus nº 0816865-37.2024.8.15.0000.
+Consta dos autos que o paciente foi preso em flagrante delito, com posterior conversão em custódia preventiva, ante a suposta prática do crime previsto no art. 16, da Lei 10.826/03 (Processo nº 0804009-36.2024.8.15.0131).
+No presente recurso, requer a defesa a revogação da prisão preventiva e, subsidiariamente, a substituição por medidas cautelares diversas do encarceramento.
+Parecer do Ministério Público Federal pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório. DECIDO.
+O recurso deve ser conhecido, porquanto presentes os requisitos de admissibilidade recursal.
+No mérito, contudo, tenho que inexiste fundamento jurídico hábil a amparar a pretensão recursal.
+De saída, diferentemente do sustentado pela defesa, "a jurisprudência deste Superior Tribunal de Justiça aponta que os crimes previstos nos arts. 12, art. 14 e art. 16 da Lei n. 10.826/2003 são de perigo abstrato, não se exigindo comprovação da potencialidade lesiva do armamento, prescindindo, portanto, de exame pericial, porquanto o objeto jurídico tutelado não é a incolumidade física e sim a segurança pública e a paz social, colocadas em risco com o porte ou posse de munição, ainda que desacompanhada de arma de fogo" (AgRg no HC n. 729.926/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/5/2022, DJe de 20/5/2022).
+Na espécie, reputo presentes o fumus comissi delicti e o periculum libertatis, de sorte que a custódia cautelar é essencial para a garantia da ordem pública, com fulcro no art. 312, do Código de Processo Penal, diante da prova da materialidade do crime e de indícios suficientes de autoria delitiva, bem como do risco concreto de reiteração delitiva, por se tratar de recorrente multirreincidente e que teria cometido o crime ora em apreço enquanto cumpria pena pela prática de delito diverso.
+Sendo assim, de rigor assentar que "é firme a jurisprudência desta Corte no sentido de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no AREsp 2451465 / PR, QUINTA TURMA, de minha relatoria, DJe 13/08/2024), como se tem no caso vertente.
+Com efeito, diante da necessidade de resguardo da ordem pública, não se afigura aconselhável, por ora, a substituição da custódia cautelar por nenhuma das medidas cautelares diversas da prisão enumeradas no art. 319, do Código de Processo Penal.
+Ante o exposto, com fundamento no art. 34, XVIII, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
