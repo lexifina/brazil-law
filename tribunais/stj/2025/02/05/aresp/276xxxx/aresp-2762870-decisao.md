@@ -1,0 +1,20 @@
+DECISÃO
+Na origem, trata-se de ação anulatória de ato administrativo, declaratória e de repetição de indébito. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi reformada.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS contra acórdão com o seguinte resumo de ementa:
+AÇÃO ANULATÓRIA DE LANÇAMENTO FISCAL - DIREITO TRIBUTÁRIO - IMPOSTO SOBRE TRANSMISSÃO CAUSA MORT1S - ITCD - BASE DE CÁLCULO. - É FACULTADO A FAZENDA PÚBLICA PROCEDER À REVISÃO DA BASE DE CÁLCULO PARA APURAÇÃO DO ITCD, COM BASE NO DISPOSTO NA LEI ESTADUAL Nº 14.941/03, QUANDO NÃO ENCONTRADO VALOR DE MERCADO. - É LEGÍTIMA A BASE DE CÁLCULO APURADA PELO FISCO, CONSIDERANDO O VALOR VENAL DOS BENS IMÓVEIS QUE INTEGRAM O ATIVO IMOBILIZADO DA SOCIEDADE E CUJOS VALORES NÃO FORAM ATUALIZADOS NOS BALANCETES APRESENTADOS PELA PARTE AUTORA À ÉPOCA DA ABERTURA DA SUCESSÃO. - O ARTIGO 38 DO CÓDIGO TRIBUTÁRIO NACIONAL ESTABELECE QUE A BASE DE CÁLCULO DO ITCD É O VALOR VENAL DOS BENS OU DIREITOS TRANSMITIDOS. - RECURSO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Conforme consta dos autos, embora os contribuintes tenham informado um determinado valor referente aos bens (imóveis rurais e quotas de sociedade limitada), o Fisco procedeu à revisão da base de cálculo para apuração do ITCD, que encontra respaldo na legislação de referência.
+(..)
+Nota-se também que o objeto social da empresa é exatamente a compra e venda de imóveis e loteamento. Portanto, não há dúvida quanto à possibilidade de levantamento dos valores patrimoniais pelo Fisco, por não ter sido contemplada a valorização imobiliária nos últimos dez anos.
+(..)
+Na hipótese, revela-se legítima a base de cálculo apurada pelo Fisco em procedimento de avaliação dos valores das quotas societárias transmitidas, considerando o valor venal dos bens imóveis à época da abertura da sucessão que integram o ativo imobilizado, cujos valores não foram atualizados no balancete apresentado pela parte autora.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 97, II, IV, § 1º, IV, V ,VI, do CTN), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
