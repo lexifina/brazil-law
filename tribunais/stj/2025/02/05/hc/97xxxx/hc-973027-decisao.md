@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WANDERSON MESSIAS ALVES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o Paciente foi preso em flagrante, em 2/1/2025, pela suposta prática do crime previsto no art. 180 do Código Penal, tendo-lhe sido concedido o benefício da liberdade provisória condicionado ao recolhimento de fiança no valor de R$ 27.000,00 (vinte e sete mil reais).
+O juízo de primeiro grau homologou o flagrante e, ato contínuo, entendeu ser "hipótese de arbitramento de fiança mas tenho por bem reduzir o valor estabelecido nos autos para a importância de R$ 2.000,00 e assim, realizado o pagamento, expeça-se o alvará de soltura." (fl. 11).
+Impetrado prévio writ na origem, a liminar foi parcialmente deferida, para reduzir o valor para R$ 1.900,00 (mil e novecentos reais), "o qual poderá ser dividido em até 2 (duas) parcelas de R$ 950,00 (novecentos e cinquenta reais) por mês." (fls. 8-9).
+No presente mandamus, o impetrante alega a ocorrência de constrangimento ilegal, ao argumento de que a manutenção do paciente encarcerado se deve exclusivamente ao não recolhimento da fiança arbitrada.
+Esclarece que o P aciente não possui condições financeiras de efetuar o pagamento da fiança, mesmo diante da redução operada pela Corte de origem.
+Requer a dispensa do pagamento da fiança arbitrada, com a expedição de alvará de soltura em favor do Paciente, mediante a imposição de outras medidas cautelares não prisionais.
+Liminar concedida, às fls. 43-46.
+Informações prestadas, às fls. 51-78 e 88-94. O Ministério Público Federal manifestou-se, às fls. 82-85 pela concessão da ordem. Confira-se a ementa do parecer:
+HABEAS CORPUS. DIREITO PROCESSUAL PE- NAL. RECEPTAÇÃO. ARBITRAMENTO DE FI- ANÇA NO VALOR DE R$ 1.900,00. INCAPACIDADE DE PAGAMENTO DEDUZIDA. CONSTRANGI- MENTO ILEGAL CONFIGURADO.
+1. Não é cabível habeas corpus substitutivo de recurso, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. 2. É possível o arbitramento de fiança, com fundamento na garantia do juízo, conforme dispõe o art. 319, VIII, do CPP.
+3. Todavia, o inadimplemento de fiança já denota a hipos- suficiência, ainda que circunstancial, autorizando a liberdade provisória sem fiança, nos termos do art. 350 do CPP.
+4. Parecer pela concessão da ordem, de ofício, ratificando-se a liminar deferida. " (fl. 82).
+É o relatório. DECIDO.
+Pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais, é descabido o instrumento heroico, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada:
+"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+No caso dos autos, no entanto, é de se afastar a incidência do enunciado sumular, ante a ocorrência de flagrante ilegalidade.
+Isso porque, de uma análise perfunctória dos autos, verifica-se que o Paciente se encontra com a liberdade de locomoção ameaçada única e exclusivamente por não possuir condições de adimplir o valor arbitrado a título de fiança, consistente em R$ 1.900,00 (mil e novecentos reais), "o qual poderá ser dividido em até 2 (duas) parcelas de R$ 950,00 (novecentos e cinquenta reais) por mês.
+Esta Corte, contudo, já se posicionou no sentido de não ser possível a manutenção da custódia cautelar tão somente em razão do não pagamento do valor arbitrado a título de fiança, máxime quando se tratar de réu pobre, ex vi do art. 350 do CPP.
+Nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. RECEPTAÇÃO. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU O PEDIDO LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM. SÚMULA N. 691 DA SUPREMA CORTE. ILEGALIDADE FLAGRANTE. PRISÃO PREVENTIVA. CONCESSÃO DE LIBERDADE PROVISÓRIA MEDIANTE O PAGAMENTO DE FIANÇA. IMPOSSIBILIDADE DE ADIMPLEMENTO. INCIDÊNCIA DO ART. 350 DO CÓDIGO DE PROCESSO PENAL. AFASTAMENTO DA FIANÇA. RECURSO DESPROVIDO.
+1. Esta Corte Superior possui o entendimento que " ..  não havendo demonstração da presença dos requisitos previstos no art. 312 do CPP, autorizadores da custódia preventiva, configura-se constrangimento ilegal a manutenção da prisão do paciente com base unicamente no não pagamento da fiança arbitrada." (HC n. 399.732/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 20/03/2018, DJe 26/03/2018).
+2. No caso, há ilegalidade apta a ensejar a superação do entendimento consolidado no enunciado da Súmula n. 691/STF.
+3. O Juízo de origem entendeu não estarem presentes os requisitos para a prisão preventiva, concedendo liberdade provisória mediante o pagamento de fiança. No entanto, o Agravado, inadimplente, permaneceu preso até a data do deferimento da liminar neste writ.
+4. Embora não haja nos autos prova plena acerca das condições financeiras do Agravante para arcar ou não com o valor da fiança arbitrada, o fato de o Acusado estar preso sem ter pago a importância arbitrada indica que a falta do recurso realmente é o fator que impede sua liberdade.
+5. Ademais, em julgamento proferido no dia 14/10/2020, a Terceira Seção do Superior Tribunal de Justiça concedeu, por unanimidade, a ordem no habeas corpus coletivo n. 568.693/ES, para determinar a soltura, independentemente do pagamento da fiança, em favor de todos aqueles a quem foi concedida liberdade provisória condicionada ao pagamento de fiança em todo o território nacional e ainda se encontram submetidos à privação cautelar de liberdade em razão do não pagamento do valor arbitrado.
+6. Agravo regimental desprovido. (AgRg no HC n. 816.299/ES, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/6/2023).
+AGRAVO REGIMENTAL MINISTERIAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. LIBERDADE PROVISÓRIA DEFERIDA NA ORIGEM COM ARBITRAMENTO DE FIANÇA. NÃO RECOLHIMENTO. HIPOSSUFICIÊNCIA ECONÔMICA. EXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É cediço nesta Casa que o inadimplemento da fiança imposta, por si só, não é capaz de fundamentar a manutenção da custódia cautelar, nos termos do art. 350 do Código de Processo Penal.
+2. No caso dos autos, pelo desembargador do Tribunal a quo, em plantão judicial de 9/3/2022, foi concedida a liberdade provisória mediante condições ao agravado, o qual permaneceu custodiado apenas por incapacidade econômica de arcar com a fiança arbitrada, que foi afastada em decisão de 16/3/2022.
+3. É de se notar que a concessão da ordem de ofício buscou cessar constrangimento ilegal aplicando jurisprudência consolidada por esta Corte. Dessa forma, não há se falar em inobservância aos princípios do devido processo legal, do contraditório e da ampla defesa, como sustenta o Parquet, haja vista o reconhecimento de manifesta ilegalidade na manutenção do cárcere pelo não recolhimento da fiança.
+4. Agravo regimental desprovido. (AgRg no HC n. 728.240/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 6/5/2022).
+Nesses termos, evidencia-se presente o constrangimento ilegal a autorizar a superação da súmula nº 691/STF.
+Ante o exposto, não conheço do habeas corpus. Todavia, concedo a ordem de ofício, para, confirmando a liminar, afastar o valor fixado a título de fiança, sem prejuízo da imposição de outras medidas cautelares previstas no art. 319, do Código de Processo Penal.
+Publique-se. Intimem-se.
+ EMENTA
