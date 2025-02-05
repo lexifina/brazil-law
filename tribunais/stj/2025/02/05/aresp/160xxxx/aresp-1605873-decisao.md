@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE, com fundamento na incidência, por analogia, das Súmulas 282 e 356 do STF e na ausência de interesse recursal quanto ao ônus da prova, na medida em que o julgado não teria atribuído a nenhuma das partes o ônus da prova técnica.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois não há necessidade de prequestionamento quanto à matéria de ordem pública, de modo que teria demonstrado ser indevida a sua inclusão ex officio no polo passivo da demanda. Acrescenta que teria ocorrido a ofensa ao art. 18 da Lei 7.347/1985, ressaltando que, "muito embora o acórdão não tenha atribuído o ônus do custeio da prova técnica, alguém terá de pagar os honorários periciais para que seja feita a análise dos 185 (cento e oitenta e cinco) contratos realizados entre a Construtora Delta e o Estado do Rio de Janeiro".
+Contraminuta não apresentada.
+O Ministério Público Federal, em parecer de fls. 3.389-3.396, opina pelo improvimento do agravo.
+É o relatório.
+Passo a decidir.
+De início, quanto à alegada impossibilidade de inclusão da CEDAE no polo passivo da demanda, verifica-se que o art. 115 do CPC não foi objeto de análise pelo Tribunal de origem, sequer de modo implícito.
+Na forma da jurisprudência desta Corte, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Além disso, a violação ao referido dispositivo legal não foi apontada por ocasião do julgamento da apelação nem dos embargos de declaração, tendo somente sido suscitada no recurso especial, em indevida inovação recursal.
+Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 211 do STJ.
+Nesse sentido, "a falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento (Súmula 211 do STJ), bem como é manifestamente inadmissível o recurso especial em relação às teses que configuram inovação recursal e, por isso, não foram apreciadas pelo acórdão recorrido" (AgRg no AREsp 15.180/PR, relatora Ministra Eliana Calmon, Segunda Turma, DJe de 10/5/2013).
+Por fim, quanto ao ônus da prova, o Tribunal a quo limitou-se a asseverar que, "no caso dos autos, o que se verifica é que não há propriamente a ausência de provas, mas, pelo contrário, robusto material probatório que deve ser minuciosamente apreciado, mormente quando se está diante de fatos graves e notoriamente relevantes envolvendo a dilapidação da coisa pública".
+Nesse contexto, há ausência de interesse recursal, na medida em que não houve a determinação de realização de prova pericial tampouco a condenação da parte recorrente a esse respeito.
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego-lhe provimento, mantendo a decisão que inadmitiu o recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários sucumbenciais, na origem, em favor da parte agravada.
+Intimem-se.
+ EMENTA
