@@ -1,0 +1,64 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL - UFRGS contra acórdão prolatado, por unanimidade, pela 3ª Turma do Tribunal Regional Federal da 4ª Região no julgamento de Apelação, assim ementado (fl. 3214e):
+PROCESSO CIVIL. ACÓRDÃO REFORMADO NO STJ. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO DA OBRIGAÇÃO DE PAGAR. SUCUMBÊNCIA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CPC/1973. APRECIAÇÃO EQUITATIVA.
+1. O Superior Tribunal de Justiça deu provimento do recurso especial da parte exequente para declarar prescrita a obrigação de pagar quantia certa e devolveu os autos a esta Corte para a fixação dos honorários advocatícios.
+2. No caso, considerando que a sentença foi publicada ainda na vigência do CPC de 1973, os honorários advocatícios devem ser arbitrados à luz da legislação então em vigor.
+3. Em embargos à execução, é possível a fixação dos honorários de sucumbência por apreciação equitativa, nos termos do § 4º do art. 20 do CPC então vigente.
+4. Em casos similares ao dos autos, em que foi declarada a prescrição da pretensão executória, com base no mesmo título executivo, o Superior Tribunal de Justiça tem se inclinado no sentido de arbitrar os honorários de sucumbência em R$ 1.000,00 para cada exequente. Precedentes do STJ.
+Opostos embargos de declaração, foram rejeitados (fls. 3251/3255e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Art. 1.022, II, do Código de Processo Civil - a turma julgadora teria negado o prequestionamento dos arts. 20, §§3º e 4º, do Código de Processo Civil de 1973; 85, § 2º, 3º, 8º e 8º-A, do Código de Processo Civil de 2015 e do Tema nº 1.076 do STJ; e
+(ii) Arts. 20, §§3º e 4º, do Código de Processo Civil de 1973; 85, § 2º, 3º, 8º e 8º-A, do Código de Processo Civil de 2015 - os honorários foram fixados, por equidade, em percentual irrisório, equivalente a 0,11% do valor da causa, contrariando os dispositivos legais e o Tema nº 1.076 do STJ.
+Com contrarrazões (fls. 3291/3310e), o recurso foi inadmitido (fls. 3313/3315e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 3378e).
+Feito breve relato, decido.
+Nos termos do art. 932, III e IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a e b, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, respectivamente, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como a negar provimento a recurso ou a pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+A Recorrente sustenta a existência de omissão no acórdão recorrido porquanto não teria havido pronunciamento a respeito dos arts. 20, §§3º e 4º, do Código de Processo Civil de 1973; 85, § 2º, 3º, 8º e 8º-A, do Código de Processo Civil de 2015 e do Tema nº 1.076 do STJ.
+Ao prolatar o acórdão recorrido, o tribunal de origem enfrentou a controvérsia a respeito da fixação de honorários, de acordo com os seguintes fundamentos (fls. 3211/3212e):
+Código de Processo Civil aplicável
+Consoante a norma inserta no art. 14 do CPC de 2015, "a norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada". Portanto, apesar da nova normatização processual ter aplicação imediata aos processos em curso, os atos processuais já praticados, perfeitos e acabados não podem mais ser atingidos pela mudança ocorrida a posteriori.
+Nesse sentido, são examinados segundo as normas do CPC de 2015 tão somente os recursos e remessas necessárias em face de provimentos judiciais proferidos a contar do dia 18/03/2016.
+No caso, considerando que a sentença foi publicada ainda na vigência do CPC de 1973, os honorários advocatícios serão fixados à luz da legislação então em vigor. A propósito, veja-se precedente da Corte Especial do STJ: "O marco temporal para a aplicação das regras fixadas pelo CPC/2015 em relação aos honorários advocatícios é a data da prolação da sentença. Precedentes." (SEC n. 14.385/EX, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 15/8/2018, D Je de 21/8/2018).
+Honorários Sucumbenciais
+No caso dos autos, o acórdão proferido por esta Turma (evento 34, ACOR3) foi reformado pelo Superior Tribunal de Justiça que deu provimento ao recurso especial da UFRGS para declarar a prescrição da pretensão executória relativamente à obrigação de pagar.
+Verificada a sucumbência dos embargados/exequentes, a Corte Superior incumbiu a este Tribunal fixar os honorários advocatícios (evento 77, DESPADEC50).
+De acordo com o Código de Processo Civil de 1973:
+Art. 20. A sentença condenará o vencido a pagar ao vencedor as despesas que antecipou e os honorários advocatícios. Esta verba honorária será devida, também, nos casos em que o advogado funcionar em causa própria. (Redação dada pela Lei nº 6.355, de 1976)
+ ..
+§ 4º Nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação eqüitativa do juiz, atendidas as normas das alíneas a, b e c do parágrafo anterior. (Redação dada pela Lei nº 8.952, de 13.12.1994)
+Assim, em embargos à execução, é possível a fixação de honorários por apreciação equitativa, nos termos do § 4º do art. 20 do CPC então vigente.
+Cabe observar que em outros casos em que foi declarada a prescrição da pretensão executória, com base no mesmo título executivo, o Superior Tribunal de Justiça tem se inclinado no sentido de arbitrar os honorários de sucumbência em R$ 1.000,00 para cada exequente.
+Nesse sentido, é o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. OBRIGAÇÃO DE PAGAR. PRESCRIÇÃO. PRÉVIA EXECUÇÃO DA OBRIGAÇÃO DE FAZER. NÃO INTERRUPÇÃO DO PRAZO. ORIENTAÇÃO FIRMADA PELA CORTE ESPECIAL NO JULGAMENTO DO RESP 1.340.444/RS E DOS ERESP 1.169.126/RS.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 1.340.444/RS e dos Embargos de Divergência no Recurso Especial n. 1.169.126/RS, consolidou a orientação de que, tratando-se de ajuizamento de execução de ação coletiva, os prazos prescricionais para o cumprimento da obrigação de fazer e da obrigação de pagar têm início com o trânsito em julgado da sentença proferida na ação coletiva, de forma independente, à exceção das hipóteses em que o título executivo condicione o início do prazo prescricional da obrigação de pagar ao implemento da obrigação de fazer.
+2. No que concerne à necessidade de modulação dos efeitos do acórdão proferido no REsp 1.340.444/RS e nos EREsp 1.169.126/RS, a Corte Especial do Superior Tribunal de Justiça afastou tal instituto, ao afirmar que "não se configura presente a necessidade de modulação dos efeitos do julgado, tendo em vista que tal instituto visa a assegurar a efetivação do princípio da segurança jurídica, impedindo que o jurisdicionado de boa-fé seja prejudicado por seguir entendimento dominante que terminou sendo superado em momento posterior, o que, como se vê claramente, não ocorreu no caso concreto" (E Dcl nos EREsp 1.169.126/RS, de minha relatoria, Corte Especial, D Je 26/11/2020).
+3. Honorários advocatícios reduzidos para R$ 1.000,00 (hum mil reais) por cada exequente.
+4. Agravo interno provido em parte, apenas para reduzir o valor dos honorários advocatícios.
+(AgInt no REsp n. 1.341.275/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/9/2021, D Je de 24/9/2021.)
+Na mesma linha de entendimento, as seguintes decisões monocráticas: REsp nº 1429203/RS, Rel. Regina Helena Costa, DJe 31/03/2022; REsp nº 1350646/RS, Rel. Sérgio Kukina, DJe 29/04/2022; REsp nº 1343311/RS, Rel. Benedito Gonçalves, D Je 29/04/2022.
+Dessa forma, fixo honorários advocatícios em favor da executada no valor de R$ 1.000,00 por cada exequente. (Destaques meus)
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Com efeito, haverá contrariedade ao art. 1.022 do Código de Processo Civil quando a omissão disser respeito à fundamentação exposta, e não quando os argumentos invocados não restarem estampados no julgado, como pretende a parte Recorrente.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a dispensa ao julgador de rebater, um a um, os argumentos trazidos pelas partes (v.g. Corte Especial, EDcl nos EDcl nos EREsp 1.284.814/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.06.2014; 1ª Turma, EDcl nos EDcl no AREsp 615.690/SP, Rel. Min. Sérgio Kukina, DJe de 20.02.2015; e 2ª Turma, EDcl no REsp 1.365.736/PE, Rel. Min. Humberto Martins, DJe de 21.11.2014).
+Depreende-se da leitura do acórdão recorrido que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa aplicável ao caso. O acórdão foi claro e preciso quanto à fixação dos honorários por equidade, nos termos do art. 20,§4º, do Código de Processo Civil de 1973.
+Sobre a alegação de ofensa aos arts. 20, §§3º e 4º, do Código de Processo Civil de 1973; 85, § 2º, 3º, 8º e 8º-A, do Código de Processo Civil de 2015 e do Tema nº 1.076 do STJ, a parte busca afastar a equidade como critério de fixação dos honorários advocatícios.
+Como se vê, tal alegação é inidônea a infirmar o fundamento adotado pela Corte de origem: em razão da sentença ter sido publicada sob a égide do CPC de 1973, a fixação de honorários deve observar as disposições do antigo estatuto processual.
+Desse modo, percebe-se a ausência de comando suficiente nos dispositivos apontados pela Recorrente para alterar a mencionada conclusão, razão pela qual o recurso não merece prosperar nesse ponto.
+Com efeito, incide, por analogia, a orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ILEGALIDADE NO DÉBITO TRIBUTÁRIO. NÃO OCORRÊNCIA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+4. O dispositivo apontado como violado (art. 142 do Código Tributário Nacional) não contém comando capaz de infirmar os fundamentos do acórdão recorrido e é incapaz de amparar as teses recursais. Aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.996.201/GO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PEDIDO DE OBSERVÂNCIA DA ORDEM CRONOLÓGICA DE PAGAMENTOS PELOS SERVIÇOS PRESTADOS À ADMINISTRAÇÃO PÚBLICA. VIOLAÇÃO AOS DISPOSITIVOS INDICADOS. TESE RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. COMANDOS NORMATIVOS QUE NÃO INFIRMAM AS RAZÕES DE DECIDIR DO ACÓRDÃO. SÚMULA 284 DO STF. RECONHECIMENTO DO DIREITO LÍQUIDO E CERTO. REVISÃO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Estando as razões do recurso dissociadas e cujos dispositivos contêm comando normativo incapaz de infirmar o que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.524.167/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Posto isso, com fundamento nos arts. 932, III e IV, do Código de Processo Civil de 2015 e 34, XVIII, a e b, e 255, I e II, do RISTJ, CONHEÇO PARCIALMENTE do Recurso Especial e, nessa extensão, NEGO-LHE PROVIMENTO .
+Publique-se e intimem-se.
+EMENTA
