@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, agravo contra decisão de inadmissão de recurso especial interposto pela FAZENDA NACIONAL em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+PROCESSO CIVIL. PEDIDO DE RESSARCIMENTO DE CRÉDITO RECONHECIDO POR DECISÃO ADMINISTRATIVA. DECURSO DE PRAZO. INOBSERVÂNCIA DO ART. 97-A DA IN 1717/2017.
+1. O IMPETRANTE POSTULA, LIMINARMENTE, OBJETIVANDO A CONCESSÃO DA SEGURANÇA PARA QUE SEJA DETERMINADO QUE A AUTORIDADE IMPETRADA APLIQUE OS JULGADOS ADMINISTRATIVOS E CONCLUA O PROCEDIMENTO DE RESSARCIMENTO, NO PRAZO DE 30 (TRINTA) DIAS, EM RELAÇÃO AOS PROCESSOS ADMINISTRATIVOS NS. 16682.901983/2015- 04, 16682.901984/2015-41, 16682.901986/2015-30 E 16682.901985/2015-95", ENCAMINHADOS À AUTORIDADE COATORA EM 28/01/2019, EM OBSERVÂNCIA AO PROCEDIMENTO PREVISTO NA IN RBF Nº 1.717/2017.
+2. A IN 1717/2017 É O ATO ADMINISTRATIVO QUE ESTABELECE NORMAS SOBRE RESTITUIÇÃO, COMPENSAÇÃO, RESSARCIMENTO E REEMBOLSO, NO ÂMBITO DA SECRETARIA DA RECEITA FEDERAL DO BRASIL.
+3. O PEDIDO DE RESSARCIMENTO DOS CRÉDITOS, FORMULADO PELA IMPETRANTE, NOS PROCESSOS ADMINISTRATIVOS NºS 16682.901983/2015-04, 16682.901984/2015-41, 16682.901986/2015-30 E 16682.901985/2015-95, FOI PROTOCOLADO EM 22/02/2015, E A DECISÃO ADMINISTRATIVA APONTANDO O DEFERIMENTO DO CRÉDITO FOI ENCAMINHADA PARA A AUTORIDADE COATORA EM 28/01/2019, CONFORME ATESTA O DOCUMENTO 10, EVENTO 01. OCORRE QUE, SEM QUALQUER JUSTIFICATIVA, NÃO HOUVE APRECIAÇÃO DO PLEITO ATÉ A INTERPOSIÇÃO DESTE MANDADO DE SEGURANÇA, ULTRAPASSANDO O PRAZO QUE PREVÊ O ARTIGO 97-A DA IN 1717/2017.
+4. RECONHECIDO QUE A APURAÇÃO DO CRÉDITO TRIBUTÁRIO FAZ PARTE DA ANÁLISE CONCLUSIVA DO PEDIDO DE HABILITAÇÃO DE CRÉDITO, PROVENIENTE DE DECISÃO ADMINISTRATIVA (PROCESSOS ADMINISTRATIVOS NºS 16682.901983/2015-04, 16682.901984/2015-41, 16682.901986/2015-30 E 16682.901985/2015-95), IMPÕE-SE A OBRIGATORIEDADE DE OBSERVAÇÃO DO PRAZO ESTABELECIDO NO ARTIGO 97-A DA IN 1717/2017.
+5. EM FACE AO ORDENAMENTO JURÍDICO, A ATIVIDADE DA ADMINISTRAÇÃO DEVE SER EXERCIDA DENTRO DE UM PRAZO RAZOÁVEL, QUE NÃO PODE SE PROLONGAR POR TEMPO INDETERMINADO, DEVENDO SER RESPEITADOS DIVERSOS PRINCÍPIOS CONSTITUCIONAIS ENTRE ELES A LEGALIDADE, EFICIÊNCIA, MORALIDADE ETC.
+6. A SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO DEVE SER REFORMADA.
+7. APELAÇÃO DO IMPETRANTE PROVIDA, PARA TANTO FIXADO O PRAZO DE 30 DIAS, SOB PENA DE INCORRER NOS EFEITOS DA MORA LEGAL. (fl. 314)
+Opostos embargos de declaração, foram rejeitados (fls. 343/348).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta violação aos arts. 1.022, I, do CPC; e 24 da Lei 11.457/2007.
+Contrarrazões às fls. 370/379.
+O Recurso Especial foi inadmitido pelo Tribunal de origem (fls. 430/432), daí a interposição do presente agravo (fls. 442/446).
+É o relatório.
+Passo a decidir.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do próprio recurso especial.
+Inicialmente, quanto à apontada violação ao art . 1.022, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, apreciando todos os temas necessários à devida motivação decisória do julgado ora recorrido.
+A negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC/2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+De outra parte, observo que o acórdão recorrido fundamentou a concessão do prazo de 30 dias para a conclusão do pedido de ressarcimento administrativo nos seguintes termos:
+ ..  o acórdão se fundamentou expressamente em Instrução Normativa da própria Receita Federal, que estabelece o prazo de 30 (trinta) dias úteis para a análise dos pedidos de ressarcimento decorrentes de processos administrativos já apreciados e aprovados pelo Fisco, para concluir haver a embargante extrapolado o prazo normativo e razoável para dar fim ao pleito do contribuinte, já que o protocolo dos pedidos de ressarcimento está datado de 28/01/2019.
+Não foi, portanto, aplicado pelo acórdão o art. 24 da Lei 11457, que prevê prazo de 360 dias para a análise dos processos administrativos, pois esta não era a situação dos autos, conforme bem destacado pela embargante, já que os processos já haviam sido deferidos, mas sim aplicada a IN 1717/2017 para fixar o prazo derradeiro de 30 (trinta) dias para a conclusão do ressarcimento pleiteado.
+Percebe-se, portanto, que o julgado embargado foi claro e preciso em sua fundamentação. Com efeito, o fato de a questão não ter sido decidida em conformidade com o entendimento que a União pretende traz, como conseqüência, a certeza de que pretende, com os embargos de declaração, inverter o fundamento jurídico da decisão, embora não se admita a renovação da decisão para declarar o que constituiria nova manifestação de mérito em sentido contrário. (fl. 345 - Grifo nosso)
+Desta feita, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Ademais, a alteração da conclusão do Tribunal a quo, acerca de a situação dos autos não se enquadrar no âmbito de aplicação do art. 24 da Lei 11.457/2001 ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
