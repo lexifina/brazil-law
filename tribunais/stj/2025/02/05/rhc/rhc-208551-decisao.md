@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por BERGSON SILVA DE SOUSA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Depreende-se dos autos que o recorrente está preso preventivamente pela suposta prática do crime de homicídio qualificado e organização criminosa.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 189-204.
+No presente recurso, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da segregação cautelar, bem como a ausência de comprovação da materialidade e autoria dos crimes.
+Requer, ao final, a revogação da prisão preventiva.
+O Ministério Público Federal, às fls. 267-270, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+Quanto à ausência de fundamentação do decreto prisional, a análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta da conduta atribuída, haja vista que o recorrente, praticou o crime de homicídio qualificado, tendo como objetivo disputas relativas ao tráfico de drogas - fls. 193-194.
+A propósito, trago o seguinte precedente desta Corte Superior de Justiça:
+"As instâncias originárias destacaram que a prisão preventiva do paciente está fundamentada no modus operandi e na gravidade concreta do delito: o recorrente, juntamente a outros 06 (seis) agentes, mediante diversos disparos de arma de fogo, teria ceifado a vida da primeira vítima e tentado matar a sua companheira, quando eles saíam de casa, tudo em virtude de disputas envolvendo o tráfico de drogas na região. A ação estaria vinculada ainda à facção criminosa "Trem Bala" e ao PCC" (AgRg no RHC n. 198.810/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/9/2024).
+No mesmo sentido: AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 28/8/2024; AgRg no HC n. 856.692/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/12/2023 e AgRg no RHC n. 184.703/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/10/2023.
+Destacou, ainda, o acórdão recorrido que o recorrente responde a outras ações penais - fl. 199, circunstância que demonstra a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa.
+Sobre o tema:
+"No caso em debate, ao contrário do sustentado pela Defesa, embora o paciente tenha respondido ao processo em liberdade, verifico que a prisão preventiva foi adequadamente decretada na sentença, tendo sido demonstrada pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta. Destacou-se a periculosidade do paciente e necessidade de se evitar a reiteração delitiva, uma vez que, após ter sua prisão preventiva relaxada nos autos em questão, cometeu duas vezes o crime de tráfico de drogas quando estava em liberdade, demonstrando o risco ao meio social"(AgRg no RHC n. 194.155/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/7/2024).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+De mais a mais, quanto à ausência de comprovação da materialidade e autoria dos crimes, ressalta-se ser incabível na via do habeas corpus a dilação probatória, que deverá ser realizada pelo juízo competente para a instrução e julgamento da causa.
+Nesse sentido:
+"quanto à afirmada inidoneidade da fundamentação atinente aos indícios de autoria e materialidade criminosas, convém esclarecer que a via do habeas corpus não admite dilação probatória e que a análise do fumus comissi delicti, nesta etapa processual, é eminentemente indiciária, não se confundindo com o juízo de certeza reservado à conclusão da fase de conhecimento" (AgRg no HC n. 915.504/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024).
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
