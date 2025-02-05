@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NAZARE MARLENE NASCIMENTO apontando como autoridade coatora Desembargador do Tribunal de Justiça do Estado do Amapá (autos n. 0010613-96.2015.8.03.0001).
+Consta dos autos que a paciente foi condenada como incurso no art. 157, § 3º, II, do CP, à pena de 26 anos e 10 meses de reclusão, em regime fechado. Irresignada, a defesa interpôs recurso de apelação, ao qual foi negado provimento (e-STJ fls. 97994). A defesa então interpôs recurso especial, não admitido por decisão do Vice-Presidente do Tribunal de origem (e-STJ fls. 12/15).
+No presente mandamus, a defesa aduz, em síntese, ofensa ao contraditório e à ampla defesa, diante do não fornecimento das notas taquigráficas da sessão de julgamento do recurso de apelação interposto pela defesa.
+Afirma que o pleito foi formulado em sede de recurso especial e agravo em recurso especial, quedando-se o Tribunal de origem silente quanto ao tema. Foram então opostos embargos de declaração, único meio processual adequado para buscar a integração do julgado e o acesso às notas taquigráficas.
+Aduz que o fornecimento das notas é essencial para demonstrar que a própria representante do Ministério Público, em sustentação oral, reconheceu que "a prova é sim circunstancial", aquando da defesa da tese acusatória, entretanto corroborando com a tese defensiva de que não havia elementos para a condenação por latrocínio (e-STJ fl. 6).
+Pugna, liminarmente, pela suspensão dos efeitos da decisão proferida no AResp n. 2829934/AP. No mérito, que seja anulado o processo desde o julgamento da apelação, determinando-se que o Tribunal de Justiça do Amapá forneça as notas taquigráficas do julgamento antes de apreciar os embargos de declaração.
+É o relatório. Decido.
+A defesa se insurge contra a decisão de inadmissibilidade do recurso especial, que não decidiu acerca do fornecimento das notas taquigráficas requeridas.
+A impetração não merece prosperar. C omo é de conhecimento, O habeas corpus não é o meio processual adequado para impugnar a decisão de não admissibilidade do recurso especial ou mesmo extraordinário. Com efeito, o único recurso cabível contra a decisão que nega seguimento ao recurso especial ou extraordinário é o agravo, previsto no art. 1.042 do Código de Processo Civil (AgRg no HC n. 868.277/AC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+De fato, O habeas corpus não é "meio hábil para discutir questões alheias à liberdade de locomoção, tais como tempestividade ou ausência dos pressupostos de admissibilidade recursal de outro tribunal" (STF, HC n. 201.196-AgR, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, julgado em 24/5/2021) (HC n. 799.067/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/10/2023, DJe de 18/10/2023).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
