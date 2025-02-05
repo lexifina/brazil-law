@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MATHEUS DE OLIVEIRA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O paciente teve a prisão cautelar decretada, pela suposta prática do delito de roubo - permaneceu do lado de fora do imóvel dando cobertura ao corréu.
+A defesa impetrou habeas corpus perante a Corte local. A ordem foi denegada pelo Tribunal de origem, entendendo que a prisão se encontrava justificada, diante da gravidade da conduta imputada ao paciente, conforme acórdão de fls. 227-250.
+No presente, o impetrante sustenta, em síntese, a ocorrência de constrangimento ilegal diante da decretação de prisão preventiva, sem fundamentação concreta. Argumenta que as condições pessoais do paciente são favoráveis, defendendo a possibilidade de aplicação de medidas cautelares diversas da prisão. Requer a revogação da prisão preventiva do Paciente ou a substituição da custódia preventiva por medidas cautelares diversas (art. 319 do CPP).
+A liminar foi concedida para substituir a prisão preventiva imposta ao paciente por medidas cautelares diversas previstas no art. 319 do CPP, a serem estabelecidas pelo Juízo a quo (fls. 253/256).
+Requerimento pedido de extensão dos efeitos do habeas corpus em favor de ALEXANDRE FERRARI SILVA (fls.258/268).
+Ciência do Ministério Público Federal ( fls.274).
+É o relatório. DECIDO.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Contudo, considerando as alegações expostas na inicial, o pedido de liminar foi conhecido e deferida a ordem ( fls.253/256).
+Como já explicitado na decisão que concedeu a ordem de habeas corpus( fls. 253/256), não foi demonstrada a necessidade de prisão preventiva para a garantia da ordem pública :
+Registre-se que, conquanto o Juízo de primeiro grau tenha feito apontamentos quanto à necessidade da prisão para garantir a ordem pública, não demonstrou, suficientemente, em elementos concretos a periculosidade do Paciente, gravidade da conduta, nem o risco de reiteração criminosa, pois o paciente é primário e possui bons antecedentes. Tais circunstâncias, embora não garantam eventual direito à soltura, devem ser valoradas, quando não demonstrada a indispensabilidade do decreto prisional.
+Com efeito, a prisão não se mostra necessária, em juízo de proporcionalidade, para embasar a segregação corpórea. Em hipóteses como a destes autos, esta Corte Superior tem entendido pela possibilidade de substituição da prisão preventiva por medidas diversas do encarceramento.
+Quanto ao pedido de extensão da decisão de habeas corpus em favor do corréu ALEXANDRE FERRARI SILVA, é importante ressaltar que o mesmo já foi apreciado nos autos do HC 913250, tendo sido indeferido, conforme decisão prolatada:
+Como é cediço, o deferimento do pedido de extensão exige que o corréu esteja na mesma situação fático-processual daquele já beneficiado, de forma que a motivação da decisão não seja de caráter exclusivamente pessoal, a teor do art. 580 do Código de Processo Penal. Verifica-se que a situação do paciente e do corréu é distinta da situação do paciente, pois a prisão foi decretada visando garantir a ordem pública em razão do fundado receio de reiteração delitiva posto que todos ao contrário do corréu é portador de maus antecedentes. Tal situação foi explicitamente considerada na decisão não deixa margem a dúvidas quanto à diferença de situações fático-jurídicas, o que, portanto, impede a incidência do art. 580 do CPP em favor do requerente.
+Incabível, dessa forma, a extensão dos efeitos almejada.
+Ante o exposto, não conheço do habeas corpus, mas mantenho a decisão que concedeu a ordem para substituir a prisão preventiva imposta ao paciente MATHEUS DE OLIVEIRA SILVA, por medidas cautelares diversas previstas no art. 319 do CPP, a serem estabelecidas pelo Juízo a quo. Indefiro o pedido de extensão dos efeitos da ordem em favor de corréu.
+Publique-se. Intimem-se.
+EMENTA
