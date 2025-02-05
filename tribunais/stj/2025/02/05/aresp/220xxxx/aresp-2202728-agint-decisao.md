@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interno interposto por JSL S.A. contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial em razão da aplicação da intempestividade (fls. 582-583).
+A referida decisão foi integrada pela de fls. 599-601, que rejeitou os embargos de declaração opostos pela parte ora agravante.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 455):
+AGRAVO DE INSTRUMENTO ACIDENTE DE TRÂNSITO AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E LUCROS CESSANTES PRETENSA DENUNCIAÇÃO DA LIDE DE EMPRESA QUE JÁ É CORRÉ E DO CONDUTOR DO VEÍCULO DAS RÉS DEFERIMENTO SOMENTE DESTE ÚLTIMO À LUZ DO ART. 125, II, DO CPC EXPEDIÇÃO DE OFÍCIO À SUSEP PARA FORNECIMENTO DE INFORMAÇÕES QUANTO À EXISTÊNCIA DE COBERTURA SECURITÁRIA IMPERTINÊNCIA RECURSO PARCIALMENTE PROVIDO. I- Considerando ser totalmente incabível a denunciação à lide de empresa que já figura como corré na ação indenizatória, de rigor era seu indeferimento; II- Pertinente a denunciação da lide do motorista do caminhão envolvido no acidente de trânsito que ensejou o ajuizamento do feito, posto que, apesar de objetiva a responsabilidade da empresa (art. 932, III, do CC), respondendo o preponente regularmente por ato de seu preposto, caracterizado o litisconsórcio passivo facultativo em que o motorista, legitimado, poderia ter figurado no polo passivo da ação quando do ajuizamento, não havendo como se vislumbrar a ocorrência de tumulto processual, pelo que admitida a denunciação da lide almejada com fundamento no art. 125, II, do CPC; III- A expedição de ofício à Superintendência de Seguros Privados (SUSEP), é descabia, eis que a finalidade de descobrir se os veículos das rés estavam ou não cobertos por um contrato de seguro é impertinente ao deslinde da causa, seja porque referido órgão não possui o registro de todos os veículos segurados, o que tornaria inócua a diligência, seja porque tal informação deve ser feita pela parte, e não pelo órgão responsável pelo controle e fiscalização dos mercados de seguro.
+Nas razões do agravo interno, alega a agravante que o recurso especial interposto é tempestivo, pois foi protocolizado no 14º dia útil do prazo, acompanhado da devida comprovação de feriado e suspensão de expediente no Tribunal de Justiça de São Paulo, conforme documentação oficial.
+Sustenta, ainda, que houve erro na decisão agravada ao desconsiderar a idoneidade do calendário judicial apresentado e a presunção de legitimidade do ato administrativo. Argumenta que deveria ter sido intimada para complementar a documentação, nos termos do art. 932, parágrafo único, do CPC.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno.
+A agravada, apresentou contrarrazões às fls. 617-625.
+É, no essencial, o relatório.
+Após atenta análise dos autos, verifica-se que assiste razão à agravante quanto à comprovação da tempestividade do recurso especial.
+No caso, a recorrente sustenta que comprovou, por meio dos documentos de fls. 500-502, a existência de suspensão do prazo, o que torna tempestivo o recurso interposto em 27/4/2022 contra acórdão publicado em 1º/4/2022. Com efeito, a Corte Especial deste Superior Tribunal decidiu que a cópia de calendário obtido na página eletrônica do Tribunal de origem pode ser considerada documento idôneo para comprovação de interrupção ou suspensão de prazo processual.
+Confira-se a ementa do acórdão:
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ATO JUDICIAL. EXCEPCIONALIDADE. AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. CÓPIA DE PÁGINA DA INTERNET. DOCUMENTO IDÔNEO.
+1. O mandado de segurança contra ato judicial é medida excepcional, admissível somente nas hipóteses em que se verifica de plano decisão teratológica ou ilegal. Precedentes.
+2. Nos termos da atual jurisprudência do STJ, a juntada de página extraída da internet ou de cópia de calendário do Tribunal de origem é hábil a comprovar a existência de feriado local. Precedente.
+3. Agravo interno provido.
+(AgInt no MS n. 28.538/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 19/4/2023, DJe de 27/4/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMPESTIVIDADE DO RECURSO. COMPROVAÇÃO. DOCUMENTO IDÔNEO. PROCURAÇÃO E CADEIA COMPLETA DE SUBSTABELECIMENTO. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO NO PRAZO ESTIPULADO. SÚMULA N. 115/STJ.
+1. A cópia de calendário obtido na página eletrônica do tribunal de origem pode ser considerada documento idôneo para fins de comprovação de interrupção ou suspensão de prazo processual. (cf.EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/4/2023, DJe de 15/5/2023).
+2. Na instância extraordinária é inexistente recurso interposto por advogado sem procuração nos autos (Súmula n. 115/STJ).
+3. Tendo sido oportunizada à parte a juntada da procuração, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil, e não tendo sido cumprida a exigência no prazo determinado, inviável o provimento do recurso.
+4. Agravo interno a que se dá parcial provimento. Agravo em recurso especial não conhecido.
+(AgInt no AREsp n. 2.202.522/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 582-583.
+Após, voltem os autos conclusos para análise do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. JUNTADA DE CALENDÁRIO JUDICIAL. DISPONIBILIZAÇÃO NO SITE DO TRIBUNAL DE ORIGEM. IDONEIDADE. CARÁTER OFICIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO INTERNO PROVIDO.
