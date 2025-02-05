@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se  de  recurso  especial  manejado  por  D.T.K.  Dress  To  Kill-  Comércio  de  Roupas  Ltda.  com  fundamento  no  art.  105,  III,  a  e  c,  da  CF,  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do  Rio  de  Janeiro  ,  assim  ementado  (fl.  356):
+APELAÇÃO  CÍVEL.  Execução  fiscal.  Exceção  de  pré-executividade  seguida  de  cancelamento  da  CDA,  pelo  exequente,  antes  de  qualquer  decisão.  Sentença  de  extinção,  sem  condenação  em  custas  e  honorários,  com  base  no  art.  26  da  Lei  das  Execuções  Fiscais.  Inexistência  de  embargos  de  devedor.  Súmula  153  do  STJ.  Aplicação  inequívoca  do  mencionado  art.  26.  Recurso  a  que  se  nega  provimento.
+Opostos  embargos  declaratórios,  foram  estes  rejeitados  (fls.  379/382).
+A  parte  recorrente  aponta,  além  do  dissídio  jurisprudencial,  violação  aos  arts.  85,  §  3º,  489,  §  4º,  IV,  1.022,  II,  do  CPC;  e  26  da  Lei  n .  6.830/1980.  Sustenta,  em  resumo,  que:  (I)  a  despeito  dos  embargos  de  declaração,  o  Tribunal  de  origem  remanesceu  omisso  acerca  das  questões  neles  suscitadas;  e  (II)  "a  aplicação  do  artigo  26  da  Lei  de  Execuções  Fiscais,  que  concede  uma  isenção  de  custas  e  honorários  às  partes,  só  pode  ser  aplicada  em  casos  em  que  não  houver  qualquer  apresentação  de  defesa  pelo  executado,  e  não  apenas  em  casos  de  oferecimento  de  embargos  à  execução,  como  equivocadamente  extraiu  o  TJRJ  da  Súmula  nº  153  deste  Superior  Tribunal  de  Justiça"  (fl.  400).
+Contrarrazões  ofertadas  às  fls.  413/426,  pugnando  pela  incidência  dos obstáculos da  Súmula  07/STJ  e  83/STJ,  e, no mérito, o desprovimento do apelo raro, ou subsidiariamente,  que  a  condenação  do  Estado  em  honorários  sucumbenciais  seja  reduzida  pela  metade,  na  forma  do  art.  90,  §4º,  CPC.
+  Remetidos  os  autos  à  Turma  julgadora  a  fim  de  que  fosse  cumprida  a  fase  prevista  nos  arts.  1.030  e  1.040  do  CPC,  o  Tribunal  de  origem  manteve  o  acórdão  recorrido  (fls.  444/447)  em  relação  ao  Tema  421  do  STJ.
+Admitido  o  apelo  raro,  subiram  os  autos  a  esta  Corte.
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+De início, não assiste razão à recorrida quanto às preliminares de não-conhecimento do recurso especial, o qual preenche os requisitos constitucionais e legais exigidos para a sua admissão, na medida em que a matéria controvertida não demanda reexame de fatos e nem está acobertada pela Súmula 83/STJ.
+No mais, a  irresignação  merece  prosperar.
+Trata-se  de  execução  fiscal  extinta  pelo cancelamento da CDA,  com  fundamento  no  art.  26  da  Lei  6.830/80, após a apresentação de exceção de pré-executividade,  sem  condenação  em  custas  e  honorários.
+Acerca  do  tema  trazido  a  julgamento,  o  entendimento  adotado  no  Superior  Tribunal  de  Justiça  é  no  sentido  de  que,  "  Não  obstante  a  literalidade  do  art.  26  da  LEF,  que  exonera  as  partes  de  quaisquer  ônus,  a  jurisprudência  desta  Corte  superior,  sopesando  a  necessidade  de  remunerar  a  defesa  técnica  apresentada  pelo  advogado  do  executado  em  momento  anterior  ao  cancelamento  administrativo  da  CDA,  passou  a  admitir  a  fixação  da  verba  honorária,  pelo  princípio  da  causalidade" (AgInt  no  REsp  n.  2.044.814/SC,  relator  Ministro  Gurgel  de  Faria,  Primeira  Turma,  DJe  de  25/4/2024.)  .
+  Nesse  mesmo  sentido,  confira-se:
+  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  EXECUÇÃO  FISCAL.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  DESISTÊNCIA  DA  COBRANÇA.  IMPOSIÇÃO  DOS  ÔNUS  DECORRENTES  DA  SUCUMBÊNCIA  À  PARTE  EXEQUENTE.  POSSIBILIDADE.  ACÓRDÃO  RECORRIDO  EM  SINTONIA  COM  O  ENTENDIMENTO  DO  STJ.
+1.  "A  desistência  da  execução  fiscal,  após  o  oferecimento  dos  embargos,  não  exime  o  exequente  dos  encargos  da  sucumbência"  (Súmula  153/STJ).
+2.  São  devidos  honorários  advocatícios  na  hipótese  em  que  o  ente  público  desiste  do  feito  executivo  após  a  citação  do  devedor  e  apresentação  de  defesa,  mesmo  corporificada  em  incidente  de  pré-executividade.  Precedentes  do  STJ.
+3.  Recurso  Especial  não  provido.
+(REsp  n.  1.702.475/SP,  relator  Ministro  Herman  Benjamin,  Segunda  Turma,  DJe  de  19/12/2017.)
+  PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EXECUÇÃO  FISCAL.  DESISTÊNCIA.  APRESENTAÇÃO  DE  PRÉ-EXECUTIVIDADE.  HONORÁRIOS  ADVOCATÍCIOS.  CABIMENTO.
+1.  "A  desistência  da  execução  fiscal,  após  o  oferecimento  dos  embargos  não  exime  o  exequente  dos  encargos  da  sucumbência"  (Súmula  153/STJ).
+2.  São  devidos  honorários  advocatícios  na  hipótese  em  que  o  ente  público  desiste  do  feito  executivo  após  a  citação  do  devedor  e  apresentação  de  defesa,  mesmo  corporificada  em  incidente  de  pré-executividade.  Precedentes.
+3.  Agravo  regimental  a  que  se  nega  provimento.
+(AgRg  no  AREsp  n.  691.503/RJ,  relator  Ministro  Og  Fernandes,  Segunda  Turma,  DJe  de  11/6/2015.)
+  PROCESSUAL  CIVIL.  EXECUÇÃO  FISCAL.  DESISTÊNCIA.  FAZENDA  PÚBLICA.  CONDENAÇÃO.  CUSTAS  PROCESSUAIS.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  EMBARGADO.  SÚMULA  N.º  153/STJ.
+I  -  Esta  Colenda  Corte  já  firmou  seu  entendimento,  por  meio  da  Súmula  n.º  153,  no  sentido  de  que  a  Fazenda  Pública  deve  ser  condenada  ao  pagamento  de  honorários  do  advogado  do  executado  nos  casos  em  que  desistiu  da  execução  fiscal,  após  a  apresentação  de  embargos  do  devedor.
+II  -  Na  hipótese  presente,  a  defesa  apresentada  pela  parte  executada  foi  a  exceção  de  pré-executividade,  meio,  portanto,  análogo  aos  embargos  e  bastante  para  configurar  a  hipótese  do  verbete  mencionado.
+III  -  Agravo  regimental  improvido.
+(AgRg  no  REsp  n.  388.034/RS,  relator  Ministro  Francisco  Falcão,  Primeira  Turma, DJ  de  17/5/2004,  p.  111.)
+No  caso,  o  Tribunal  de  origem  mencionou  que  "A  executada  apresentou  exceção  de  pré-executividade,  alegando  que  os  débitos  que  embasaram  a  emissão  da  Certidão  de  Dívida  Ativa  foram  inscritos  de  forma  ilegal,  já  que  não  teriam  ido  observados  os  procedimentos  devidos  no  processo  administrativo  E-04/022/1853/2013.  O  Estado  se  manifestou,  às  fls.  297/298,  requerendo  a  extinção  do  feito  ante  o  cancelamento  da  CDA."  (fl.  357-  g.n.).
+Desse modo, são  devidos  honorários  advocatícios  na  hipótese  em  que  o  ente  público  desiste  do  feito  executivo  após  a  apresentação  de  defesa pelo executado, no caso, a exceção de pré-executividade.
+  Assim,  por  estar  em  dissonância  com  a  jurisprudência  desta  Corte  Superior,  merece  reparos  o  aresto  impugnado,  nos  termos  da  fundamentação  supra.
+ANTE  O  EXPOSTO,  dou  provimento  ao  recurso  especial  e  determino  o  retorno  dos  autos  à  origem,  a  fim  de  que  seja  fixada  a verba sucumbencial com base na equidade.
+Publique-se.
+EMENTA
