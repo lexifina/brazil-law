@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial interposto pela CONCESSIONÁRIA DO SISTEMA ANHANGUERA BANDEIRANTES S/A contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - AÇÃO DE INDENIZAÇÃO - Perda do Fundo de Comércio em razão de desapropriação -Possibilidade - Empresa que fechou seu estabelecimento em razão da desapropriação - Valor fixado corretamente - Sentença de procedência mantida -Recurso desprovido (fl. 559).
+Opostos embargos de declaração, foram rejeitados, como imposição de multa de 1% sobre o valor da causa (fls. 576-581).
+A recorrente sustenta, além de divergência jurisprudencial, ofensa aos seguintes dispositivos de lei:
+a) Artigo 538, parágrafo único do Código de Processo Civil, porquanto o Egrégio Tribunal local condenou a Recorrente ao pagamento de multa de 1% do valor da causa em virtude de interposição de embargos de declaração, por considerá-los procrastinatórios (violando, também, o quanto disposto na Súmula 98 deste Colendo Superior Tribunal 8 de Justiça).
+b) Artigo 535, II do Código de Processo Civil:
+c) Artigos 330, 1 e 435 do Código de Processo Civil, acarretando nulidade e cerceamento defensório.
+d) Artigo 402 do Código Civil, referente a não comprovação da efetiva perda experimentada que pudesse ser passível de indenização (fl. 589).
+O recurso especial não foi admitido pelo Tribunal de origem (fls. 805-807), tendo a recorrente interposto o agravo de fls. 820-833.
+O MINISTÉRIO PÚBLICO FEDERAL opinou "pelo desprovimento do agravo ou não conhecimento do recurso especial" (fl. 867).
+Na decisão de fls. 869-870, o agravo foi conhecido "para determinar sua autuação como recurso especial, a fim de melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno" (fl. 870).
+É o relatório. Decido.
+A pretensão merece prosperar, em parte.
+De início, verifico que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, tendo apreciado os temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, no acórdão recorrido, de modo que deve ser rejeitada a alegada violação ao art. 535 do CPC/73.
+Com efeito, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Contudo, o entendimento deste Superior Tribunal de Justiça é o de que a mera oposição de embargos de declaração, sem intuito protelatório, não justifica a imposição da multa prevista no art. 538, parágrafo único, do CPC/1973 (que encontra ressonância no art. 1.026, § 2º, do atual Código de Processo Civil), conforme determina o Enunciado 98 da Súmula desta Corte, segundo o qual "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". A propósito: AgInt nos EDcl no REsp n. 1.987.563/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2023, DJe de 24/1/2024; AgInt no AREsp n. 1.966.139/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/2/2023, DJe de 25/4/2023.
+Dessa forma, ante a ausência de intuito manifestamente protelatório, deve ser afastada a multa imposta na origem.
+No tocante aos demais dispositivos de lei tidos como violados, o Tribunal de origem, com base no acervo probatório dos autos, concluiu que:
+a) "foi bem justificada a dispensa da produção de mais provas, até porque, de acordo com o art. 130, do Código de Processo Civil, a prova é destinada ao juiz, na formação do seu livre convencimento, e cabe a ele decidir sobre sua necessidade ou não, o que não ofende o contraditório e o devido processo legal" (fl. 560);
+b) "O montante do prejuizo causado pela perda do fundo de comércio foi quantificado pela prova técnica produzida nos autos, laudo de fls. 259/274 que concluiu pelo montante total de R$ 890.31 0,96, em julho de 2007" (fl. 562);
+c) "A ré em apelação, insistiu na inconsistência dos cálculos apresentados pelo perito judicial, no entanto sem apresentar argumento razoáveis a desconstituir o laudo pericial, devidamente fundamentado" (fl. 563);
+d) "o prejuízo no presente caso é evidente, já que a empresa teve que fechar seu estabelecimento, por culpa da administração, e talvez, quem sabe reabri-lo em outro local, não se tem prova desta segunda possibilidade" (fl. 563).
+Nesse contexto, nos termos em que posta a discussão, a análise da irresignação da recorrente, no tocante ao alegado cerceamento de defesa e de ausência de demonstração de prejuízo pela parte recorrida, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+Por fim, de acordo com a jurisprudência do STJ, "o conhecimento da divergência jurisprudencial reclama a existência de similitude fático-jurídica entre o acórdão recorrido e os paradigmas submetidos a confronto" (EDcl no REsp n. 1.254.636/ES, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 14/4/2015, DJe de 23/4/2015).
+No caso, os acórdãos confrontados não possuem similitude fático-jurídica a comprovar a suposta divergência jurisprudencial apontada, que, como visto, pressupõe, além da mesma controvérsia jurídica, a identidade entre as situações fáticas. Nesse sentido: AgInt no REsp n. 2.094.670/TO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; REsp n. 2.083.017/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/8/2023, DJe de 21/9/2023.
+Isso posto, com fundamento no art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe parcial provimento apenas para afastar a multa aplicada pelo Tribunal de origem com fundamento no art. 538, parágrafo único, do CPC/1973.
+Intimem-se.
+EMENTA
