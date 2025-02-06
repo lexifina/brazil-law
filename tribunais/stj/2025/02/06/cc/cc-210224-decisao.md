@@ -1,0 +1,15 @@
+DECISÃO
+O JUÍZO DA 176ª ZONA ELEITORAL DE GUARULHOS - SP suscita este conflito negativo de competência, em inquérito policial, diante do reconhecimento de incompetência efetivado pelo JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE GUARULHOS - SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o o juízo competente para a adoção de eventual medida judicial que se faça necessária em investigação deflagrada pela suposta prática de "rachadinha" pelo então vereador Jorge Mota de Oliveira Júnior, a partir de janeiro de 2021, após ter início seu mandato de vereador no município de Guarulhos.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 2ª Vara Criminal de Guarulhos - SP, ora suscitado (fls. 30-32).
+Decido.
+Extrai-se da decisão proferida pelo Juízo da 176ª Zona Eleitoral de Guarulhos - SP, a seguinte fundamentação, no que interessa (fl. 45, destaquei):
+ ..
+Os fatos narrados pelo denunciante ocorreram fora do período eleitoral, qual seja, a partir de janeiro de 2021, após a diplomação do pleito municipal de 2020. Além disso, os supostos atos praticados pelo investigado não objetivavam qualquer tipo de benefício eleitoral e sim pessoal, resumindo-se ao custeio de despesas das mais diversas formas, até mesmo porque já estava eleito.
+Como se observa, o suposto delito atribuído ao investigado teria sido praticado fora do período eleitoral, em momento posterior as eleições. Por mais que se possa justificar a apropriação indevida de valores em razão da sua eleição, tal circunstância fática, por si, não se traduz na prática de delitos previstos no Código Eleitoral.
+Conforme assinalou o Juízo suscitante, " c rimes eleitorais são aqueles definidos no Código Eleitoral para tutelar a lisura e a segurança dos pleitos eleitorais perante todos os seus atores, especialmente eleitores e candidatos, desde o alistamento eleitoral até a diplomação, ou seja, durante qualquer ato do processo eleitoral" (fl. 22). No particular, portanto, precisas as ponderações do Parquet Federal (fl. 31, destaquei):
+ ..  o suposto crime em apuração, popularmente conhecido como "rachadinha", teria sido praticado por vereador após o período de diplomação, já no exercício do mandato, de modo que não está relacionado a uma violação das regras do processo eleitoral, tratando-se de uma conduta que envolve apropriação indevida de valores util izando-se do cargo eletivo, o que pode, em tese, configurar crimes contra a Administração Pública, como peculato ou corrupção passiva, de competência, portanto, da Justiça Comum Estadual.
+Diante disso, dou razão ao suscitante, porquanto vislumbro ser a competência, para o processo e julgamento do feito, ao menos até o momento, da justiça comum do estado.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Criminal de Guarulhos - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízes suscitante e suscitado.
+EMENTA
