@@ -1,0 +1,47 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpôs recurso especial, com base no art. 105, III, "a", da CF, contra acórdão prolatado pelo Tribunal de Justiça daquele Estado no Agravo em Execução n. 1.0000.23.266443-3/001.
+Consta dos autos que o recorrido cumpre pena em processo de execução penal, no qual lhe foi deferida a remição de 100 dias de pena pela aprovação no Exame Nacional do Ensino Médio - ENEM. O Tribunal de origem negou provimento ao agravo em execução manejado pelo Ministério Público e manteve a decisão do Juízo singular.
+Nas razões recursais, o recorrente alega violação do disposto no art. 126, § 1º, I, e § 2º, da Lei de Execução Penal - LEP. Assevera o Órgão Ministerial que a mera aprovação no ENEM não configura o fato gerador da remição, pois seria necessária a demonstração de que tal êxito decorreu de estudo desenvolvido no cárcere.
+As contrarrazões foram apresentadas às fls. 113-120.
+O Ministério Público Federal manifestou-se pelo não conhecimento e, no mérito, pelo desprovimento do recurso especial (fls. 142-154).
+Decido.
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivo por que avanço na análise de mérito da controvérsia.
+Ao deferir a remição ao recorrente, o Juízo singular assim argumentou (fls. 3):
+ ..
+Veio aos autos a informação da participação do(a) reeducando(a) no Exame Nacional do Ensino Médio para Pessoas Privadas de Liberdade", no ano de 2022 - seq. 155.1.
+Em que pese o parecer do representante do Ministério Público contrário, em seq. 159.1, mas considerando o objetivo ressocializador da pena, a ser alcançado por meio do estudo, bem como o que consta da Portaria da VEP/RNS nº 11640319/2022, a inexistência falta grave homologada nos 12 (doze) meses anteriores à data de certificação no exame, e o aproveitamento superior a 450 pontos em cada disciplina e a nota da redação superior a 500 pontos, em razão do estudo, declaro remida a pena em 100 (cem) dias, tudo com amparo, ainda, na Recomendação n.º 391 de 10/05/2021 do CNJ, além dos arts. 126 a 129 da LEP.
+O Tribunal de origem, por sua vez, ao manter a decisão recorrida, empregou os seguintes fundamentos, no que interessa (fls. 76-84, destaquei):
+ ..
+Razão, contudo, não assiste ao agravante.
+Prefacialmente, destaco que o art. 126 da Lei de Execuções Penais dispõe sobre a remição de pena por estudo:
+ ..
+Ademais, o Conselho Nacional de Justiça emitiu a Recomendação nº 44/2013 que prevê expressamente em seu artigo 1º, IV, a possibilidade de o reeducando remir sua pena através de estudos por conta própria que resulte em aprovação no ENEM (Exame Nacional do Ensino Médio) ou no ENCCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos) e obtendo, assim, aprovação no ensino fundamental ou médio.
+Ressalta-se que a Resolução nº 391 do CNJ de 10 de maio de 2021, revogou a Recomendação nº 44/2013, mas apenas para clarificar a recomendação, dispondo-a em termos semelhantes. Confira-se:
+ ..
+Ademais, pontuo que os Exames Nacionais aplicados pelo Ministério da Educação tem se caracterizado como meio de aferição de conhecimento fidedigno e idôneo, que efetivamente comprovam o conhecimento adquirido pelo estudante. O Exame Nacional do Ensino Médio - ENEM, por exemplo, tornou-se a principal porta de entrada às Universidades do país.
+Por isso, entendo que a aprovação no ENCCEJA ou ENEM comprovam o estudo e o tempo despendido pelo reeducando em sua preparação para o exame, devendo o disposto na Resolução nº 391/2021, do CNJ, em seu artigo 3º, parágrafo único, ser aplicado em analogia in bonam partem ao artigo 126 da Lei de Execuções Penais.
+Esse entendimento está em consonância com o posicionamento adotado pelo c. Superior Tribunal de Justiça:
+ ..
+Desta forma, in casu, verifica-se que o apenado foi aprovado em todas as 05 (cinco) áreas de conhecimento (seq. 155.1), fazendo jus, assim, a remição de 100 (cem) dias.
+A referida aprovação, portanto, demonstra que o apenado, mesmo inserido no sistema prisional, se desincumbiu de desenvolver métodos de estudos e lograr êxito na aprovação no ENEM, conduta que deve ser valorizada e incentivada.
+Pontuo ainda que a remição pela aprovação no ENEM deve ter como fato gerador uma única aprovação, sob pena de remição em duplicidade pelo mesmo fato gerador e desde que demonstrado que foi o estudo desenvolvido pelo apenado, quando do cárcere, que levou à sua aprovação.
+O entendimento firmado pelo acórdão recorrido está em plena consonância com a jurisprudência deste Superior Tribunal de Justiça, conforme demonstrarei.
+A individualização da pena (art. 5º, XLVI, da CF) também se dá na fase de execução. De acordo com o princípio da legalidade (art. 5º, II, da CF) e o art. 126 da LEP, o estudo ou o trabalho realizados nos regimes semiaberto e fechado são passíveis de remição, com a consequente redução significativa da pena.
+Por isso, com o devido respeito às opiniões em sentido contrário, considero incabível a remição por aprovação em exames que atestam o aprendizado e a conclusão da educação básica para o reeducando que concluiu o ensino fundamental e/ou médio antes mesmo de ingressar no sistema prisional.
+Ressalte-se que a União detém competência privativa para legislar sobre normas penais (art. 22, I, da CF). O Conselho Nacional de Justiça não criou uma nova modalidade de remição, por aprovação em espécie de vestibular, mas apenas regulamentou e padronizou a interpretação extensiva do art. 126 da LEP. Dessa forma, deve ser realizada uma análise integrada das normas, e não uma leitura isolada da resolução.
+Também prevalece no Supremo Tribunal Federal a compreensão de que "A remição ficta ou virtual da pena por estudo, em virtude de aprovação no Exame Nacional do Ensino Médio (Enem), não se aplica em caso de conclusão do ensino médio em momento anterior ao início da execução penal" (HC 235935 AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 12/04/2024).
+Contudo, esse não é o entendimento predominante nesta Corte. No julgamento do EREsp 1.979.591/SP, a Terceira Seção estabeleceu a compreensão de que é possível a remição da pena por aprovação no ENEM, mesmo que o reeducando tenha concluído os ensinos médio e superior antes do início do cumprimento de suas penas. Confira-se a ementa do julgado:
+EXECUÇÃO PENAL. EMBARGOS DE DIVERGÊNCIA. PROCESSO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DE CONCESSÃO DA BENESSE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. O Exame Nacional de Certificação de Competências de Jovens e Adultos - ENCCEJA é a avaliação de âmbito nacional própria para a certificação do aproveitamento do c onteúdo programático do ensino médio e do ensino fundamental àqueles que atingiram a idade de quinze anos (para o nível fundamental) ou dezoito anos (para o nível médio). Diferentemente do ENEM, o ENCCEJA não se presta, por si só, ao ingresso no ensino superior.
+2. No caso dos autos, minha posição externada no julgamento do HC n. º 786.844, foi no sentido de que o paciente não faria jus à remição pelo estudo individual, uma vez que, conforme ressaltado pelo agravante, ao iniciar o cumprimento da pena, o agravado já havia concluído o ensino médio. Naquela oportunidade, o fundamento adotado era o de que a finalidade da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento da pessoa presa, mas, facilitar a sua reintegração social por meio do aprendizado de novos conhecimentos.
+3. Contudo, no julgamento do precitado HC n.º 786.844, realizado em agosto desta ano de 2023, restou consignado pela Quinta Turma deste STJ, por maioria de votos, a possibilidade de remição da pena na hipótese em exame, ou seja, mesmo após a conclusão do ensino médio e ainda que o sentenciado tenha obtido o diploma de curso superior antes do início do cumprimento da pena, como é o caso dos autos.
+4. Em sendo assim, submeto os presentes embargos de divergência a esta Terceira Seção, para que se defina a posição deste colegiado em relação ao tema e se estabilize a jurisprudência desta Corte, de forma a se atender ao dever cooperativo de coerência enunciado pelo art. 926 do CPC.
+Embargos de divergência providos.
+(EREsp n. 1.979.591/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 8/11/2023, DJe de 13/11/2023.)
+Assim, em respeito aos precedentes da Terceira Seção, deve ser observado o referido julgamento, com a minha ressalva pessoal de entendimento quanto ao tema.
+Ilustrativamente: "A aprovação no ENEM ou no ENCCEJA permite a remição de pena, mesmo para apenados que já concluíram o ensino médio, sem acréscimo de 1/3 pela conclusão do grau" (HC n. 929.733/SC, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 11/11/2024).
+Portanto, denota-se que é suficiente para o aperfeiçoamento do fato gerador necessário para a concessão da benesse legal a aprovação no exame, sem que seja exigível a aferição do tempo de estudo dedicado ao êxito.
+Ressalte-se que o mesmo fato gerador (aprovação no Enem), "não pode ocasionar sucessivas e cumuladas remições, a cada vez que  o preso  repetir provas de exames nacionais" (AgRg no HC n. 827.828/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30/8/2023).
+À vista do exposto, conheço do recurso especial para negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
