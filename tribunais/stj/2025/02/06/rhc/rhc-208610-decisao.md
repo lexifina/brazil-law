@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por KAUANE DANIEL DE ANDRADE SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (HC n. 0823802-63.2024.8.15.0000).
+Consta que a recorrente teve a prisão preventiva decretada pelo Juízo de primeiro grau em razão da suposta prática do crime previsto no art. 121, § 2º, incisos III e IV, do Código Penal.
+Nesta insurgência, a Defesa sustenta, em síntese, a ausência de fundamentação idônea e dos requisitos necessários para a prisão processual da recorrente.
+Argumenta que não há indícios suficientes de autoria.
+Salienta a suficiência das medidas cautelares diversas da prisão.
+Pleiteia, liminarmente e no mérito, a revogação da custódia preventiva da recorrente.
+O pedido liminar foi indeferido (fls. 321-323).
+As informações foram prestadas (fls. 328-273).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 377-381).
+É o relatório.
+DECIDO.
+A irresignação não prospera.
+No caso, o Juízo de primeiro grau decretou a prisão preventiva da ora recorrente, em decisão ratificada pelo Tribunal de origem, conforme a fundamentação a seguir (fls. 62-63; grifamos):
+Trata-se de Representação Criminal visando a decretação da prisão preventiva da investigada supracitada, investigada pela autoridade policial pela prática do crime de homicídio, ocorrido nesta cidade.
+Narra a autoridade policial que, no dia 17.04.2024, a vítima MARLON estava caminhando em via pública nesta cidade, quando por volta das 15h, foi surpreendida com vários disparos de arma de fogo efetuados por dois indivíduos armados. A vítima não resistiu aos ferimentos sofridos e veio a óbito ainda no local. A vítima foi atingida na região torácica e na cabeça, configurando CENA TÍPICA DE EXECUÇÃO.
+Consta ainda na presente cautelar que a autoria delitiva foi devidamente comprovada através das declarações contidas nos autos, vídeos, informações obtidas pela equipe de investigação e Disque Denúncia. Sendo assim, não restam dúvidas de que os autores do crime de homicídio doloso consumado em desfavor da vítima foram os indivíduos (K. H. F.) (ADOLESCENTE) e KAUANE DANIEL DE ANDRADE SILVA, posto que toda dinâmica do delito foi gravada pelas câmeras de segurança da localidade.
+Relata a autoridade policial que os investigados são indivíduos de alta periculosidade na região, pertencem à facção criminosa "EUA", bastante temidos na localidade e já conhecidos dos profissionais de segurança pública e que a possível motivação do crime originou-se em razão da vítima ter se relacionado com a namorada de "KAUANE" (KAUANE seria homossexual) e também porque a vítima fazia parte de uma FACÇÃO RIVAL a dos autores do crime.
+Assim, diante dos indícios de autoria e materialidade colacionados ao feito, a autoridade policial representa pela decretação da prisão preventiva dos investigados, argumentando estarem preenchidos os seus requisitos, sobretudo pela garantia de ordem púbica e periculum libertatis.
+(..)
+Quanto aos requisitos, vislumbro presente nestes autos os requisitos autorizadores do decreto preventivo. A investigada KAUANE DANIEL DE ANDRADE SILVA responde por outros processos, conforme folha de antecedentes criminais anexas, inclusive com pedido de internação pela prática de roubo juntamente com o mesmo menor (K.) denotando que possui personalidade voltada à criminalidade, restando presentes o "periculum libertatis" e o "fumus comissi delicti". Presentes dois dos requisitos do art. 312 do Código de Processo Penal, vez que põe em risco conveniência da instrução criminal mas, sobretudo, a ordem social, pelo risco de reiteração criminosa.
+Salienta-se que o crime investigado é punido com pena máxima cominada acima de 04 (quatro) anos, o que perfaz uma das hipóteses autorizadoras de prisão preventiva, nos termos do artigo 313, do Código de Processo Penal.
+Diante de todo o exposto, a decretação da prisão preventiva de KAUANE DANIEL DE ANDRADE SILVA é a medida que se impõe.
+Ressalto, no entanto, que a prisão cautelar se justificará enquanto estiverem presentes os pressupostos autorizadores, ou seja, pode ser revista a qualquer momento.
+Posto isto, considerando procedentes as razões invocadas pela autoridade policial e visando garantir a aplicação da lei penal, a garantia da ordem pública e a conveniência da instrução criminal, em consonância com o parecer ministerial DEFIRO a representação formulada para a prisão DECRETAR preventiva de KAUANE DANIEL DE ANDRADE SILVA tudo nos termos dos artigos 312 e 313, todos do Código de Processo Penal.
+Em primeiro lugar, pontuo que  a tese de negativa de autoria não comporta sequer conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via eleita. A propósito: AgRg no HC n. 880.124/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024; AgRg no HC n. 882.438/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+Ademais,
+" n ão cabe, em sede habeas corpus, proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória" (STF, Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) (RHC 161.173/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 03/05/2022, DJe de 06/05/2022; grifamos).
+De outra parte, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, em virtude da especial reprovabilidade dos fatos e do fundado receio de reiteração delitiva, o que justifica a prisão processual da acusada, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+No mesmo sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. AUSÊNCIA DE SUSTENTAÇÃO ORAL EM JULGAMENTO DE HABEAS CORPUS. AMPLA DEFESA. NÃO CARACTERIZADA A OFENSA. TENTATIVA DE HOMICÍDIO. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. INDICADO COMO INTEGRANTE/CHEFE DA FACÇÃO CRIMINOSA COMANDO VERMELHO. MODUS OPERANDI. PARTICIPAÇÃO DE ADOLESCENTES. REITERAÇÃO DELITIVA. FUGA DO DISTRITO DA CULPA. CONTEMPORANEIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+3. Constata-se que a decisão de custódia cautelar está devidamente fundamentada em dados concretos extraídos dos autos que evidenciam a necessidade de garantia da ordem pública, demonstrada a gravidade concreta da conduta do agravante, indicado como integrante/chefe da facção criminosa Comando Vermelho (CV) e ante o modus operandi do delito, cuja ação da organização envolve premeditação e divisão de funções. O agravante foi indicado como o mandante do crime em apuração, de tentativa de homicídio, em que adolescentes foram denunciados como os executores, bem como foi ressaltada a reiteração delitiva do agravante, cuja folha de antecedentes registra várias ocorrências.
+(..)
+5. Agravo regimental improvido.
+(AgRg no HC n. 882.136/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. CORRUPÇÃO DE MENOR. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO DELITO. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. PARECER DO MINISTÉRIO PÚBLICO. CARÁTER NÃO VINCULATIVO. PRISÃO DOMICILIAR. MATÉRIA NÃO ANALISADA NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+(..)
+2. A prisão preventiva foi adequadamente decretada, tendo sido demonstradas pela instância precedente, com base em elementos extraídos dos autos, a gravidade concreta da conduta, evidenciada pelas circunstâncias do delito, na medida em que o agravante, em tese, teria participação, juntamente com outros 2 agentes, nos crimes em tela, nos quais 2 indivíduos foram alvos de disparos de arma de fogo, o que ocasionou a morte de um deles, tudo, ao que parece, em razão de rixa entre facções criminais rivais. Tais circunstâncias, somadas à apreensão de uma arma de fogo quando da realização de buscas na residência do agravante, ainda que devidamente registrada, demonstram o risco ao meio social e a necessidade da custódia. Ademais, a prisão também se justifica para evitar a reiteração na prática delitiva, uma vez que embora tecnicamente primário, o agravante possui registros criminais anteriores.
+(..)
+7. Agravo regimental desprovido.
+(AgRg no HC n. 854.992/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, conheço em parte do recurso em habeas corpus e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
