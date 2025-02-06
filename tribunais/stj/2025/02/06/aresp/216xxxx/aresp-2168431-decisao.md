@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por LINDOMAR DA COSTA RIBEIRO contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS no julgamento da Apelação Criminal n. 0002646-17.2018.8.27.2720/TO.
+Consta dos autos que o agravante foi absolvido pelo Conselho de Sentença.
+O Tribunal de origem deu provimento ao recurso do Ministério Público para anular o julgamento, em acórdão assim ementado (e-STJ fls. 652/653):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO TENTADO. TESE DEFENSIVA DE AUSÊNCIA DE ANIMUS NECANDI. ABSOLVIÇÃO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. OCORRÊNCIA. JULGAMENTO ANULADO. RECURSO CONHECIDO E PROVIDO. 1. Em decorrência do princípio da soberania dos vereditos, a anulação do julgamento do Conselho de Sentença, sob a alegação de manifesta contrariedade à prova dos autos, somente é possível quando estiver completamente divorciado dos elementos de convicção constantes dos autos. 2. Na hipótese, o réu foi pronunciado por tentativa de homicídio qualificado e a defesa pugnou pela desclassificação para o delito de lesão corporal, ao passo que os jurados, não acolhendo nenhuma das teses apresentadas, absolveram o réu. 3. No caso em tela, a tese acolhida pelos jurados não encontra qualquer amparo em nenhum dos elementos de convicção, estando completamente dissociada do arcabouço probatório, ensejando a anulação do julgamento por manifesta contrariedade à prova dos autos. 4. Recurso conhecido e provido.
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, a defesa alegou violação aos arts. 482, 483, III e §2º e art. 593, III, d, todos do CPP e pugnando pela manutenção da absolvição do recorrente.
+O recurso especial foi inadmitido.
+Daí o presente agravo em recurso especial, no qual se alega não incidirem os óbices elencados (e-STJ fls. 708/716).
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+Contraminuta apresentada (e-STJ fls. 719/731).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ fls. 750/753).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+No presente caso, tem-se que a Corte de origem, ao julgar a apelação anulando o julgamento, entendeu que (e-STJ fl. 936/943)
+Analisando-se, acuradamente, os autos, constata-se que a versão acolhida pelos jurados realmente não encontra apoio no acervo probatório.
+A defesa pugnou, em Plenário, pela desclassificação do delito para lesão corporal, sendo incontroversas a autoria e a materialidade delitiva, cingindo-se a questão apenas à intenção do réu, ou seja, se agiu com animus necandi ou laedendi.
+Entretanto, os jurados, ao responderem os quesitos propostos, reconheceram a ocorrência de tentativa de homicídio e sua autoria, porém responderam afirmativamente ao quesito genérico de absolvição, afastando-se inclusive da tese da defesa.
+Ressalte-se que não se está diante de possível aplicação do princípio in dubio pro reo. Com efeito, aos jurados é conferida a possibilidade de aplicação de tal princípio, caso considerem o acervo probatório insuficiente para uma condenação. Tal ocorreria, entretanto, através de resposta negativa aos quesitos referentes à materialidade e/ou autoria delitiva.
+Na hipótese dos autos, porém, não foi isso que se verificou. Os jurados responderam afirmativamente tanto com relação à materialidade quanto à autoria, ou seja, consideraram suficientemente robustas as provas a determinar, com segurança, que o réu foi autor do crime de homicídio em tela, que somente não se consumou por circunstâncias alheias à vontade do réu. Em seguida, os jurados responderam afirmativamente ao quesito genérico de absolvição, acolhendo tese que sequer foi suscitada nos autos.
+A instituição do júri, com a organização que lhe dá o Código de Processo Penal, assegura a soberania dos veredictos. Desse modo, para que seja cabível a apelação com esteio no art. 593, inciso III, alínea d, do mencionado diploma legal, imperioso que a conclusão alcançada pelos jurados seja teratológica, completamente divorciada do conjunto probatório constante do processo.
+Esse é o caso dos autos.
+Verifica-se que o Tribunal considerou a decisão manifestamente contrária à prova dos autos, tendo em vista que a única tese de defesa a desclassificação do delito para lesão corporal, sendo incontroverso materialidade e autoria. No entanto, os jurados reconheceram a tentativa de homicídio e a autoria e votaram pela absolvição no quesito genérico da absolvição.
+O Tribunal de origem, ao analisar toda a prova produzida, em especial os depoimentos testemunhais, entendeu que a decisão proferida era manifestamente contrária à prova dos autos, em especial porque o Conselho de Sentença decidiu tese que sequer foi sustentada.
+Como mencionado no acórdão recorrido, os jurados não consideraram o acervo probatório frágil, uma vez que reconheceram a materialidade e autoria. Logo, consoante estampado no acórdão, é fácil perceber que o resultado do julgamento foi manifestamente contrário à prova dos autos.
+Além disso, se o Tribunal de origem afirmou expressamente, com base na análise do caderno probante do feito, a existência da hipótese prevista no artigo 593, III, d do Código de Processo Penal, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
