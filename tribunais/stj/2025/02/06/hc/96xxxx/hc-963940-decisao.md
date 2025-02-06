@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WESLEY SILVA DE ALMEIDA e LEANDRO DA SILVA ARANTE contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, na apelação criminal n. 0155882-15.2021.8.19.0001.
+Depreende-se dos autos que os pacientes foram condenados como incursos no art. 288-A do Código Penal, à pena de 5 anos de reclusão, no regime semiaberto.
+Em seu arrazoado, a parte impetrante aponta nulidade no julgamento do recurso de apelação, ante a ausência de intimação dos réus para constituírem novos defensores, diante da desídia de anterior patrono em apresentar as razões.
+Requer "a concessão da ordem para ANULAR o acordão, no que tange aos Pacientes, ante a violação do direito personalíssimo de escolha do defensor e ao evidente prejuízo sofrido na apresentação das razões de apelação" (e-STJ, fl. 8).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ, fls. 596-598).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O reconhecimento de nulidades no curso do processo penal reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief).
+É entendimento desta Corte superior que nos casos em que o réu apela da sentença condenatória, por termo nos autos, e a defesa técnica, instada a arrazoar o recurso, permanece inerte, o magistrado deve interpretar o art. 601 do CPP de acordo com os princípios fundamentais do processo penal e intimar o acusado para constituir novo patrono de sua livre escolha ou, se não for realizada a providência, nomear-lhe defensor dativo ou público, para conferir maior efetividade ao duplo grau de jurisdição e afastar eventual alegação de ausência de defesa.
+Não obstante a existência do vício no ato processual, as nulidades, tantos as absolutas quanto as relativas, devem ser alegadas no momento oportuno, sendo imprescindível a demonstração de prejuízo da parte, pois não se invalida ato processual que não tenha influído na qualidade da jurisdição prestada" (HC n. 302.586/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/5/2016, D Je de 19/5/2016; grifou-se).
+Verifica-se às fls. 403-404, e-STJ que o Tribunal de origem afirmou que os recursos de Wesley e Leandro seriam julgados na forma no art. 601, do CPP, com devolução de toda a matéria, independente de razões, visto que o patrono constituído a época dos fatos, devidamente intimado, deixou de arrazoar o recurso.
+Portanto, da leitura do acórdão recorrido (e-STJ, fls. 431-586), observa-se que o Tribunal de Justiça, ao julgar a apelação criminal, apreciou de forma detalhada os itens da sentença, pois entendeu que os réus se insurgiram contra todos os seus termos.
+No mesmo sentido, o parecer do Ministério Público:
+No caso em questão, o julgamento dos recursos dos pacientes ocorreu conforme o art. 601 do Código de Processo Penal, que trata da situação em que não são apresentadas as razões de apelação. Trata-se de medida prevista em lei, que não configura nulidade, pois a jurisprudência admite o julgamento dos recursos mesmo na ausência das razões de apelação.
+Ademais, a falta das razões recursais não gerou prejuízo aos pacientes, uma vez que o Tribunal tratou do mérito dos apelos de forma abrangente, sem prejuízo à defesa, devolvendo toda a matéria à apreciação. E, conforme preceitua o art. 563, do Código de Processo Penal, que consagra o princípio pas de nullité sans grief, "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+Portanto, a decisão foi tomada dentro dos parâmetros legais e com respeito ao devido processo legal. (e-STJ, fl. 597; grifou-se.)
+Assim, evidenciada a inexistência de prejuízo concreto para os réus, não há nulidade a ser reconhecida na espécie.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
