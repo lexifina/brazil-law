@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por FERNANDO FRANCISCO FAGUNDES ou FERNANDO FERREIRA FAGUNDES contra decisão do Tribunal de Justiça do Estado da Bahia que inadmitiu o recurso especial manejado com fundamento no artigo 105, III, "a", da Constituição da República.
+Nas razões recursais, a defesa sustenta violação dos artigos 240 e 244 do Código de Processo Penal, alegando que a busca pessoal e veicular realizada contra o recorrente foi ilegal, pois não havia fundada suspeita que justificasse a abordagem e posterior revista do veículo.
+Afirma que o recorrente foi parado em um posto de fiscalização da Polícia Rodoviária Federal (PRF) por ter realizado uma ultrapassagem em local proibido. Aduz que, durante a abordagem, os policiais teriam percebido um suposto nervosismo do condutor e, sem outros elementos objetivos, procederam a uma busca minuciosa no veículo. Na ocasião, teriam encontrado substâncias entorpecentes escondidas no estepe e no forro da porta traseira.
+Alega, ainda, que a decisão do Tribunal violou a jurisprudência do Superior Tribunal de Justiça, segundo a qual a busca pessoal e veicular só pode ser realizada mediante fundada suspeita, ou seja, com base em elementos objetivos e verificáveis, não sendo suficiente o simples estado emocional do abordado.
+Requer o provimento do recurso para que seja reconhecida a nulidade da prova obtida de forma ilícita, com a consequente absolvição do recorrente.
+Foram apresentadas contrarrazões (e-STJ, fls. 689-700).
+O recurso especial foi inadmitido (e-STJ, fls. 701-710). Daí a interposição deste agravo (e-STJ, fls. 714-720).
+O Ministério Público Federal opina pelo não conhecimento ou desprovimento do recurso (e-STJ, fls. 754-760).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Como se sabe, "nos termos do art. 244 do CPP, a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar." (AgRg no AREsp 1403409/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/03/2019, DJe 04/04/2019).
+No caso, o Tribunal de origem afastou a alegação de ilicitude da busca pessoal e veicular, consignando que a abordagem ocorreu após o recorrente realizar ultrapassagem perigosa em alta velocidade e em local proibido, circunstância que justificou a ordem de parada por parte da equipe da Polícia Rodoviária Federal. Destacou, ainda, que, durante a abordagem, foram apreendidas drogas e munições no interior do veículo, reforçando a regularidade da diligência.
+Nesse contexto, verifica-se que há circunstâncias suficientes para configurar a "fundada suspeita", apta a justificar a abordagem policial em via pública, estando devidamente demonstrada a justa causa para a busca pessoal diante do caso concreto em exame.
+Corroboram:
+"DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. BUSCA VEICULAR EM FISCALIZAÇÃO RODOVIÁRIA. FUNDAMENTAÇÃO CONCRETA. DECISÃO MANTIDA. RECURSO NÃO PROVIDO. I. CASO EM EXAME
+1. Recurso ordinário em habeas corpus interposto por Fabricio Alves Lima contra acórdão do Tribunal de Justiça do Estado do Pará, que denegou a ordem impetrada. O recorrente foi preso em flagrante, com posterior conversão da prisão em preventiva, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/06), após a apreensão de 8,242 kg de maconha em seu veículo durante fiscalização de trânsito realizada pela Polícia Rodoviária Federal. A defesa sustenta a ilegalidade da prisão preventiva, por falta de fundamentação concreta, e a nulidade da busca veicular que resultou na apreensão da droga. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se a busca veicular realizada durante a fiscalização de trânsito foi legal e fundamentada; e (ii) definir se a prisão preventiva do recorrente foi adequadamente justificada, ou se deveria ser substituída por medidas cautelares diversas. III. RAZÕES DE DECIDIR
+3. A abordagem e busca veicular realizadas pela Polícia Rodoviária Federal encontram-se justificadas pela situação do veículo, que apresentava problemas visíveis de conservação e segurança (tampa da carroceria ausente e para-brisa trincado), configurando fundadas suspeitas que autorizam a busca sem necessidade de mandado, conforme o art. 244 do CPP.
+4. A jurisprudência desta Corte Superior sustenta que a parada de veículos em fiscalização rotineira pela Polícia Rodoviária Federal, com posterior busca veicular, não viola direitos constitucionais e se enquadra nas situações de fiscalização legítima, especialmente quando há indícios concretos de irregularidades.
+ ..
+IV. RECURSO NÃO PROVIDO."
+(RHC n. 191.348/PA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA VEICULAR. FUNDADA SUSPEITA EXIGIDA PELO ART. 244 DO CPP. ILEGALIDADE NÃO CONSTATADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Com relação à busca veicular, sabe-se que esta Corte Superior a equipara à busca pessoal, e o art. 244 do CPP assevera que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito" (HC n. 691.441/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/4/2022, DJe de 26/4/2022.).
+2. Não há ilegalidade na busca veicular realizada, haja vista a parada do veículo em regular fiscalização realizada pela Polícia Rodoviária Federal, que transportava grande quantidade de dinheiro no banco de trás, justificando maior fiscalização, com descoberta de inscrições e referências ao tráfico de drogas, além da tentativa de suborno dos agentes, sem evidenciar flagrante ilegalidade na conduta dos agentes estatais.
+3. "Para se desconstituir as premissas fáticas assentadas pelas instâncias ordinárias, seria necessário o reexame de todo o conjunto fático-probatório, o que é incabível na via do habeas corpus" (AgRg no HC n. 834.393/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023.).
+4. Agravo regimental desprovido."
+(AgRg no HC n. 888.808/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
