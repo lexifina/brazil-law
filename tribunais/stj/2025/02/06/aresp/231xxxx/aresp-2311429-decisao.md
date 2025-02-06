@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que inadmitiu o seu recurso especial ajuizado contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO no julgamento dos Embargos de Declaração na Apelação n. 0002403-75.2008.4.01.3304.
+Consta dos autos que o agravado foi condenado, em primeiro grau, à pena de 3 anos de reclusão, pela prática do delito previsto no art. 289, § 1º, do Código Penal.
+O Tribunal de origem negou provimento ao recurso de apelação da defesa (e-STJ fls. 581/588).
+Opostos embargos de declaração, estes foram rejeitados, contudo, foi reconhecida a prescrição de pretensão punitiva na modalidade superveniente.
+O Parquet interpôs recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, alegando negativa de vigência ao art. 117, inciso IV, do Código Penal.
+Sustentou que "acórdão confirmatório da condenação criminal sempre interrompe o curso do prazo prescricional, mesmo nos casos em que a conduta criminosa foi praticada antes da entrada em vigor da Lei n. 11.596/2007, que alterou a redação do art. 117, IV, do Código Penal, para incluir o acórdão condenatório no rol das causas interruptivas da prescrição" (e-STJ fl. 643).
+O recurso especial foi inadmitido.
+Daí o presente agravo em recurso especial, no qual se alega não incidirem os óbices elencados.
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+O Ministério Público Federal, em seu parecer, manifestou-se pelo não conhecimento do agravo em recurso especial (e-STJ fls. 732/734).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+Sobre a questão posta em debate, digno de nota ressaltar que, em 24/11/2020, a Sexta Turma do Superior Tribunal de Justiça, no julgamento do HC n. 603.139/SP, da relatoria do Ministro Rogério Schietti Cruz, consignou que a Lei n. 11.596/2007, que alterou a redação do art. 117, IV, do CP, considerando o acórdão recorrido como marco interruptivo, por ser "lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição -, não pode retroagir para alcançar os acusados por crimes ocorridos em datas anteriores".
+Confiram-se os termos da ementa do referido julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OCORRÊNCIA. ALTERAÇÃO DO INCISO IV DO ARTIGO 117 DO CÓDIGO PENAL PELA LEI N. 11.596/2007. IRRETROATIVIDADE DA LEI PENAL MAIS GRAVOSA. INSTITUIÇÃO DE NOVO MARCO INTERRUPTIVO. INAPLICABILIDADE AOS DELITOS ANTERIORES. DECISÃO REFORMADA. AGRAVO REGIMENTAL PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme ao asseverar que, " d e acordo com a literalidade do artigo 112, inciso I, do Código Penal, o termo inicial da contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação. Precedentes do STJ" (AgRg no RCD na PET no HC n. 449.842/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 10/10/2018).
+2. É imperioso consignar também que " p acífico era o entendimento desta Corte Superior no sentido de que o acórdão que confirma a condenação, ainda que majore ou reduza a pena, não constitui marco interruptivo da prescrição. Precedentes.
+3. O Plenário do STF, no recente julgamento do AGRG no HC n. 176.473/RR, ocorrido em 27/4/2020, firmou a tese no sentido de que, nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentado a pena anteriormente imposta" (AgRg no REsp n. 1.863.639/BA, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/6/2020).
+3. Entretanto, a despeito de o trânsito em julgado do acórdão referente ao julgamento do apelo defensivo haver ocorrido apenas em 26/5/2016, deve-se manter como marco interruptivo para a aferição da prescrição da pretensão executória o trânsito em julgado para a acusação, pois trata-se de interpretação da atual redação do art. 117, IV, do CP, modificado pela Lei n. 11.596/2007, e a lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição - não pode retroagir para alcançar os acusados por crimes ocorridos em datas anteriores.
+4. No caso vertente, como os delitos ocorreram entre 1997 e 2002, é aplicável ao réu a antiga redação do dispositivo legal em apreço, que estabelecia como marco interruptivo da prescrição somente a "sentença condenatória recorrível". Assim, dado que a audiência admonitória ocorreu tão-somente em 23/3/2017, decorreu, desde o trânsito em julgado para a acusação, em 5/12/2008, o período de 8 anos, previsto no art. 109, IV, do Código Penal.
+5. Agravo regimental provido para declarar extinta a punibilidade do agravante ante a prescrição da pretensão executória, com lastro nos arts. 107, IV e 110, § 1º, c/c o 109, IV, e na antiga redação do art. 117, IV, todos do Código Penal.
+(AgRg no HC 603.139/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/11/2020, DJe 02/12/2020)
+Na espécie, a conduta do agravado foi praticada em junho de 2006 (conforme e-STJ fls. 6/8). Antes, portanto, da entrada em vigor da referida modificação, de modo que deve ser considerada, como último marco interruptivo, a data da publicação da sentença condenatória.
+Dessa forma, estando o acórdão prolatado pelo Tribunal de origem em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide no caso o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendime nto dominante acerca do tema."
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
