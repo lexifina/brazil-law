@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de FABIO HENRIQUE ROSADO, no qual se aponta como autoridade coatora o Desembargador relator do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Afirma a defesa que o paciente foi condenado à pena de oito anos de reclusão, em regime inicial semiaberto, pela prática dos crimes previstos nos arts. 33, caput, e 35, caput, da Lei 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem. O Desembargador relator deferiu parcialmente a liminar para determinar a imediata remoção do réu para vaga compatível com o regime semiaberto.
+No presente writ, alega que o paciente "é primário, portador de bons antecedentes criminais, possuindo residência fixa, e doença gravíssima, além de que o crime não foi cometido sobre violência ou grave ameaça" (fl. 5).
+Sustenta que tanto o STF quanto o STJ possuem o entendimento de que a fixação do regime semiaberto não seria compatível com a manutenção da prisão preventiva.
+Requer o direito de recorrer em liberdade, com a substituição da preventiva por medidas cautelares diversas da prisão.
+Solicitada informações às fls. 99-100. As informações foram prestadas às fls. 105-108.
+O Ministério Público Federal, às fls. 110-111, manifestou "pela inadmissibilidade da impetração".
+É o relatório. DECIDO.
+Faz-se necessário asseverar que o presente writ investe contra decisão proferida por em. Desembargador do Tribunal de Justiça do Estado de São Paulo que indeferiu o pedido liminar em habeas corpus impetrado na origem.
+Sobre o tema, insta consignar que a jurisprudência desta Corte, há muito já se firmou no sentido de que, ressalvadas hipóteses excepcionais, descabe o instrumento heróico em tais situações, sob pena de ensejar supressão de instância.
+Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado sumular n. 691/STF, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Em consulta ao sí tio do Tribunal de origem (www.tjsp.jus.br), HC 2391018-58.2024.8.26.0000, em 27/01/2025 foi julgado virtualmente e "Concederam parcialmente a ordem para que o paciente possa aguardar o julgamento da apelação em vaga compatível com o regime semiaberto, convalidando a liminar anteriormente deferida".
+Desse modo, forçoso reconhecer a prejudicialidade do presente mandamus pela perda superveniente de seu objeto, uma vez que os seus argumentos, expostos contra a decisão monocrática indeferitória da medida liminar, encontram-se superados, em vista do pronunciamento final acerca do mandamus na origem.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE NEGOU A MEDIDA DE URGÊNCIA NO WRIT ORIGINÁRIO. INDEFERIMENTO LIMINAR DA INICIAL. EXCEPCIONALIDADE NÃO EVIDENCIADA. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DE ACÓRDÃO DO TRIBUNAL DE JUSTIÇA. PREJUDICIALIDADE RECONHECIDA. 1. Esta Corte, nos termos da Súmula 691 do Supremo Tribunal Federal, orienta que "não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau" (AgRg no HC 755.03 8/SP, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 09/08/2022, DJe 18/08/2022). 2. Embora possível excepcionalmente, não há mais interesse em pleitear a superação da referida Súmula, uma vez que, conforme consignado na decisão de e-STJ fl. 974, o Tribunal local julgou o habeas corpus originário e, atualmente, a decisão liminar de Desembargador (e-STJ fls. 836-837) foi substituída por acórdão que desafia impugnação própria. 3. Agravo regimental desprovido". (AgRg no AgRg no HC n. 855.833/PA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024. )
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
