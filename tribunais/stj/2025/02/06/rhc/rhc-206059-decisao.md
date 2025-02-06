@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por LEANDRO DA CONCEICAO SANTOS FONSECA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (HC n. 8056589-21.2024.8.05.0000).
+Depreende-se dos autos que o recorrente encontra-se em custódia preventiva e foi denunciado pela prática, em tese, de tráfico de drogas e associação para o mesmo fim.
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 149/156).
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL . FEITO COMPLEXO . PLURALIDADE DE RÉUS. EXCESSO DE PRAZO JUSTIFICADO. PARECER MINISTERIAL PELA DENEGAÇÃO DO WRIT. ORDEM CONHECIDA E DENEGADA. - Ausência de constrangimento ilegal por excesso de prazo na formação da culpa, tendo em vista que se trata de feito complexo, em razão da pluralidade de réus, que justifica a extensão do lapso temporal para início da instrução processual. - Paciente que possui função de fornecer entorpecentes para a organização criminosa, bem como é membro da facção denominada de "Bonde do Maluco". HABEAS CORPUS DENEGADO.
+Daí o presente recurso ordinário, no qual sustenta a defesa estar configurado constrangimento ilegal pelo excesso de prazo para o encerramento da instrução criminal, estando o recorrente segregado desde novembro de 2023.
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+Indeferido o pedido de liminar (e-STJ fls. 187/189) e prestadas as informações (e-STJ fls. 195/205), o Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 215/220).
+É o relatório.
+Decido.
+No tocante aos fundamentos da prisão preventiva e à sua aventada desproporcionalidade, verifica-se que a questão não foi analisada pelo Tribunal de origem, o que inviabiliza o exame pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+A propósito, " a  matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+Quanto ao alegado excesso de prazo para o encerramento da instrução criminal, o Tribunal de origem assim dispôs (e-STJ fls. 153/156, grifei):
+O impetrante sustenta a ocorrência da ilegalidade da custódia por excesso de prazo, em razão de não ter sido iniciada a instrução processual, sendo que o paciente está segregado há 300 (trezentos) dias.
+É cediço que a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal.
+Tal constatação, porém, não se realiza, tão somente, de forma aritmética, exige um juízo de razoabilidade, onde, além do prazo de prisão cautelar, devem ser verificadas as peculiaridades do feito, se se trata de demanda dotada de complexidade e os fatores que podem influir no prolongamento da fase de instrução processual.
+Portanto, eventual delonga na instrução não implica, necessariamente, a liberdade do réu, notadamente quando ocasionado por circunstâncias alheias à vontade do Juízo.
+Em que pese a argumentação expendida pelo impetrante, nota-se que o feito é complexo, tendo em vista que se trata de condutas delituosas perpetradas por organização criminosa, contendo a ação penal 09 (nove) denunciados.
+Constata-se, por conseguinte, que o feito de origem é dotado de complexidade, por apurar crime de tráfico de drogas praticada por organização criminosa, sendo o paciente integrante da facção criminosa denominada de "Bonde do Maluco", que demanda lapso temporal mais extenso que o necessário para a conclusão da fase instrutória, não podendo ser imputada a mora ao juízo a quo.
+ ..
+Sob tal contexto, não há se falar, por ora, em manifesto constrangimento ilegal decorrente de excesso de prazo na formação da culpa, haja vista a complexidade da ação penal, em razão da pluralidade de acusados, bem como o feito segue seu andamento adequado, restando apenas a apresentação de resposta à acusação de um dos réus para a realização da instrução processual.
+Ante o exposto, com fulcro no entendimento jurisprudencial, voto pela denegação a ordem, por não se verificar constrangimento ilegal por excesso de prazo.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe: A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Consoante se extrai das informações prestadas, "o cumprimento da prisão preventiva de Leandro se deu em 01/11/2023, consoante ID 418010835 destes autos. Compulsando estes autos, vê-se também que o paciente apresentou defesa prévia em 13/09/2023, consoante ID 409870198. Ressalte-se que no dia 12/08/2024 (ID 457611644) procedeu-se à análise da necessidade da manutenção da custódia preventiva dos réus que se encontram presos neste feito, na forma determinada no art. 316, parágrafo único, do CPP, tendo este juízo mantido a prisão preventiva do paciente e dos demais réus. No dia 15/08/2024, foi expedido despacho determinando a citação da ré Eliane dos Anjos Leal, para apresentação de resposta a causação, com finalidade de andamento do feito. Esta é a situação atual do processo, tendo este juízo diligenciado os mandados citatórios dos demais denunciados deste feito, visando à obtenção das defesas preliminares" (e-STJ fl. 211).
+Como se vê, a sucessão de atos relatada nas informações rechaça a tese de desídia pelo Juízo de primeiro grau. Além disso, como bem aventado no acórdão impugnado, afere-se existência de complexidade apta a justificar o prolongamento do processo, evidenciada pela natureza dos crimes apurados - crime de tráfico de drogas praticado por organização criminosa - e pela pluralidade de denunciados, ou seja 9 agentes.
+Nesse contexto, a despeito de o recorrente estar preso preventivamente desde 1º/11/2023, não se pode falar em ilegalidade por excesso de prazo, mormente porque a sua aferição "demanda  ..  um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal" (HC n. 546.402/SP, de minha relatoria, Sexta Turma, julgado em 18/2/2020, DJe 27/2/2020).
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+ ..
+6. Não se verifica excesso de prazo, considerando a complexidade do caso, a pluralidade de réus e a necessidade de diligências, não havendo desídia do Poder Judiciário.
+ ..
+9. Agravo regimental desprovido.
+ ..  (AgRg no RHC n. 203.587/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
