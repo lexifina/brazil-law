@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de LUIS ALEXANDRE RAGASSI - condenado como incurso no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, não comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da Vara Criminal da comarca de São João da Boa Vista (Ação Penal n. 1500271-74.2021.8.26.0623), ao argumento de que as buscas pessoal e veicular que ensejaram a prisão em flagrante não foram precedidas de fundada suspeita da prática de crime.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois policiais militares realizavam patrulhamento de rotina pela Av. Dr. Otávio da Silva Bastos, próximo ao Campus da Unifeob, quando visualizaram o veículo Fiat/Uno, placa GOM-9875, com os vidros totalmente insufilmados, estacionado em atitude suspeita. Diante disso, os policiais se aproximaram e notaram que havia uma pessoa, no interior do aludido carro, tentando se esconder, sendo que diante da aproximação dos milicianos, o condutor ainda acionou o motor do veículo e tentou empreender fuga em marcha ré (fl. 98).
+No mesmo sentido: a fuga do paciente ao avistar a equipe policial constitui elemento suficiente para configurar fundada suspeita, justificando a abordagem e a realização de busca pessoal, conforme jurisprudência consolidada desta Corte Superior (RHC n. 158.580/BA e AgRg no HC n. 913.025/SP) - (HC n. 809.094/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Quanto à alegação de violação à integridade física do paciente, não houve discussão no acórdão hostilizado, sendo inviável a supressão de instância.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (96,38 G DE MACONHA E 24,1 G DE COCAÍNA). NULIDADE. BUSCAS PESSOAL E VEICULAR. FUNDADA SUSPEITA. EXISTÊNCIA (TENTATIVA DE FUGA AO AVISTAR OS POLICIAIS). CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
