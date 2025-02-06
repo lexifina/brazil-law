@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por RAONE FERREIRA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO no julgamento do RESE n. 0012109-55.2016.8.08.0012.
+Consta dos autos que o agravante foi pronunciado pela suposta prática do delito tipificado no art. 121, §2º, II e IV, na forma do art. 14, II, c/c o art. 61, II, "e", todos do Código Penal.
+Irresignada, a Defesa interpôs recurso em sentido estrito, ao qual fora desprovido nos termos do acórdão de e-STJ fls. 435/453.
+Interposto recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, a defesa alegou violação aos arts. 155, 413, 418 e 419 do Código de Processo Penal, sustentando, ainda, a inconstitucionalidade do princípio do in dubio pro societate, requerendo a desclassificação da conduta imputada ao agravante em razão da existência de dúvidas acerca do animus necandi.
+Aduziu, ainda, ser necessário o decote da qualificadora prevista no art. 121, §2º, IV, do Código Penal, sob a alegação de ser manifestamente improcedente.
+O recurso especial foi inadmitido.
+Daí o presente agravo em recurso especial, no qual se alega não incidirem os óbices elencados (e-STJ fls. 484/494).
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+Contraminuta apresentada (e-STJ fls. 496/500).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo desprovimento do agravo em recurso especial (e-STJ fls. 511/514).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+De fato, como aduzido pelo agravante, o princípio do in dubio pro societate não possui previsão constitucional, conforme reiterados julgados emanados da Suprema Corte. Assim, buscando se alinhar com o entendimento do Supremo Tribunal Federal, esta Sexta Turma firmou entendimento no sentido de que "o standard probatório para a decisão de pronúncia, quanto à autoria e a participação, situa-se entre o da simples preponderância de provas incriminatórias sobre as absolutórias (mera probabilidade ou hipótese acusatória mais provável que a defensiva) - típico do recebimento da denúncia - e o da certeza além de qualquer dúvida razoável (BARD ou outro standard que se tenha por equivalente) - necessário somente para a condenação. Exige-se para a pronúncia, portanto, elevada probabilidade de que o réu seja autor ou partícipe do delito a ele imputado" (REsp n. 2.091.647/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023, negritos aditados).
+No caso em tela, a partir da leitura do v. acórdão recorrido, verifica-se a existência de provas que indicam, em elevada probabilidade, a autoria que é imputada ao agravante, amoldando-se, pois, ao standard probatório exigido para a decisão de pronúncia, nos termos do entendimento desta Turma, existindo provas judicializadas que apontam para a conduta imputada ao recorrente.
+Destaca-se que, em havendo dúvidas acerca do animus do agente, tal deve ser resolvida pelos Juízes Constitucionais da causa, cabendo ao Conselho de Sentença a verificação do animus necandi, sob pena de indevida ingerência do Juiz Togado no mérito da causa.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. AUSÊNCIA DE ANIMUS NECANDI. INEXISTÊNCIA DE PROVA INEQUÍVOCA. DESCLASSIFICAÇÃO PARA CRIME DE COMPETÊNCIA DIVERSA DO JÚRI. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Em que pese a possibilidade de o juiz, convencendo-se da ocorrência de crime diverso, desclassificar a conduta para outro delito, caberá ao Tribunal do júri, juiz natural da causa, dirimir eventual dúvida acerca da presença de animus necandi. Precedentes.
+2. Hipótese em que, de acordo com a fundamentação do acórdão, não restou demonstrada, de forma inequívoca, a ausência do dolo de matar, sobretudo porque o acusado, golpeando a vítima pelas costas, "desferiu oito facadas na vítima, sendo que uma delas atingiu o pulmão, região letal, fatos que, no contexto narrado pela vítima e testemunhas, são suficientes para afastar a tese de desclassificação suscitada pela defesa", de forma que a inversão do acórdão demanda revolvimento probatório, o que encontra óbice na Súmula 7 desta Corte.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 2.059.287/DF, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 2/8/2022, DJe de 5/8/2022, negritos aditados)
+Nota-se, assim, que a pretensão do agravante vai de encontro ao entendimento jurisprudencial desta Corte, de modo a incidir o óbice previsto no enunciado de Súmula n. 83 deste Tribunal.
+De mais a mais, para que fosse possível a desclassificação da conduta imputada ao agravante, de forma a desconstituir a conclusão obtida pelas instâncias ordinárias acerca da presença de indícios do animus necandi, forçoso seria o revolvimento fático-probatório da matéria, providência que se revela inviável nesta via, ante o teor da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. DESCLASSIFICAÇÃO PARA LESÃO CORPORAL. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência desta Corte, "a desclassificação da infração penal de homicídio tentado qualificado para lesão corporal leve só seria admissível se nenhuma dúvida houvesse quanto à inexistência de dolo" (AgRg no AgRg no REsp n. 1.313.940/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 23/4/2013, DJe de 30/4/2013), sob pena de afronta à soberania do Júri.
+2. No caso, a pretendida revisão do julgado, com vistas à desclassificação do delito, por alegada ausência de animus necandi, demandaria revolvimento do acervo fático-probatório dos autos, vedado na via eleita, a teor da Súmula n. 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 2.233.211/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 16/5/2023, DJe de 19/5/2023, negritos aditados)
+Quanto ao pleito subsidiário deduzido pelo agravante, tem-se que a exclusão das qualificadoras na fase do sumário da culpa deve-se dar apenas de forma excepcional, quando forem elas manifestamente improcedentes, a fim de que o Julgador não incorra em indevida ingerência no mérito da causa, cuja análise cabe ao Conselho de Sentença (AgRg no AREsp n. 2.754.609/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/12/2024, DJEN de 9/12/2024).
+No caso em tela, a narrativa contida na decisão de pronúncia acerca do motivo fútil se revela suficiente para os fins da decisão de pronúncia, visto que há indícios de que o crime supostamente foi praticado "pelo fato de não ter gostado que a vítima interferiu na discussão ocorrida momentos antes entre o acusado e sua genitora" (e-STJ fl. 355), o que parece indicar a pequenez da razão que supostamente motivou a ação imputada ao recorrente, de modo que não se trata de qualificadora manifestamente improcedente.
+Ademais, o decote da qualificadora demanda o revolvimento fático-probatório da matéria, o que se revela incabível nesta via em razão da Súmula 7 deste Tribunal.
+Colhe-se o teor do seguinte julgado que corrobora o acima exposto:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO PELO MEIO CRUEL. DECISÃO DE PRONÚNCIA. DECOTE DA QUALIFICADORA. IMPOSSIBILIDADE. COMPETÊNCIA DO TRIBUNAL DO JÚRI.
+1. A jurisprudência desta Corte Superior é no sentido de que somente devem ser excluídas da sentença de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri. No presente caso, constata-se que a conduta descrita é suficiente para determinar que o Conselho de Sentença se manifeste a respeito da incidência ou não da qualificadora referente ao meio cruel, não havendo que falar em ausência de fundamentação.
+2. "A discussão acerca de fatos incontroversos constantes das decisões das instâncias ordinárias não configura o revolvimento fático-probatório, vedado pela Súmula n. 7 do Superior Tribunal de Justiça" (AgRg no REsp n. 1.935.486/SC, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/9/2021, DJe 20/9/2021).
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.948.352/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/11/2021, DJe de 12/11/2021, negritos aditados)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
