@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de CELIO GOMES DA SILVA, em que se aponta como autoridade coatora o, TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0004011-48.2011.8.26.0338).
+Consta dos autos que o paciente foi condenado à pena de 09 (nove) anos, 07 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, mais o pagamento de 23 (vinte e três) dias-multa, como incurso no art. 157, § 2º, incisos I e II, do Código Penal.
+O Tribunal de origem negou provimento ao apelo defensivo.
+O impetrante sustenta a ocorrência de constrangimento ilegal, porquanto indevida a aplicação da fração de 3/8 (três oitavos) na terceira fase da dosimetria da pena, única e exclusivamente em razão do número de causas de aumento de pena.
+Requer, liminarmente e no mérito, a concessão da ordem para que a pena do paciente seja redimensionada nos termos delineados na impetração.
+É o relatório.
+DECIDO.
+De  início,  destaco  que
+  a  s  disposições  previstas  nos  arts.  64,  III,  e  202  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  não  afastam  do  Relator  a  faculdade  de  decidir  liminarmente,  em  sede  de  habeas  corpus  e  de  recurso  em  habeas  corpus,  a  pretensão  que  se  conforma  com  súmula  ou  a  jurisprudência  consolidada  dos  Tribunais  Superiores,  ou  a  contraria  (AgRg  no  HC  n.  856.046/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  24/10/2023,  DJe  30/10/2023).
+Em consulta ao endereço eletrônico do Tribunal de origem, verifico que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, já transitado em julgado - 08/02/2017. Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados (AgRg no HC n. 573.735/SP, rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021, DJe de 30/04/2021; AgRg no HC n. 610.106/PR, rel. Ministro Felix Fischer, Quinta Turma, julgado em 23/02/2021, DJe de 1º/03/2021; HC n. 512.674/CE, rel. Ministro Sebastião Reis Júnior, decisão monocrática, DJe de 30/05/2019; HC n. 482.877/SP, rel. Ministro Jorge Mussi, decisão monocrática, DJe de 29/03/2019; HC n. 675.658/PR, rel. Ministro Ribeiro Dantas, decisão monocrática, DJe de 04/08/2021, e HC n. 677.684/SP, rel. Ministro Antonio Saldanha Palheiro, decisão monocrática, DJe de 02/08/2021).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, isso porque, de acordo com o entendimento consolidado do Superior Tribunal de Justiça admite-se a aplicação cumulativa de causas de aumento, desde que haja fundamentação concreta, nos termos do art. 68, parágrafo único, do Código Penal.
+No caso, o aumento da pena na terceira fase foi justificado de forma idônea, notadamente pela existência de quatro agentes envolvidos e no emprego de pelo menos três armas de fogo (fl. 33), circunstâncias reveladoras do elevado grau de reprovabilidade da ação a justificar o incremento da pena.
+Dessa forma, o acréscimo da pena em 3/8 (três oitavos) pelas majorantes foi devidamente justificado, não ocorrendo violação da Súmula n. 443 do Superior Tribunal de Justiça, que exige fundamentação concreta para elevação da pena acima do mínimo legal.
+Ante  o  exposto,  indefiro  liminarmente  o  habeas  corpus.
+Publique-se. Intimem-se.
+EMENTA
