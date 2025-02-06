@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ, qu e não admitiu o recurso especial interposto pelo agravante.
+Contra o acórdão de origem, interpôs-se recurso especial com base nas alíneas a e c do art. 105, inc. III, da CF alegando, em síntese: negativa de vigência ao art. 126, § 4º, da Lei de Execuções Penais nº 7.210/84, sustentando que devem ser remidas as horas efetivamente estudadas independente de aprovação ou não, e que seja reconhecida a remição ficta em razão da pandemia da COVID-19.
+O recurso especial não foi admitido pelo Tribunal a quo.
+Foi interposto, então, o presente agravo em recurso especial.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo.
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida pelo recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Por fim, a tese não exige o reexame de provas, pois parte de fatos incontroversos nos autos.
+Sendo assim, conheço do recurso especial. E, no mérito, entendo que a pretensão recursal não merece provimento.
+Confira-se trecho relevante do acórdão:
+"(..) Inicialmente cabe deixar consignado que EMERSON VIANA GUIMARÃES foi condenado a 33 (trinta e três) anos e 01 (um) mês de reclusão em regime fechado, pela prática dos crimes tipificados no art. 157, § 2º, e art. 121, ambos do Código Penal. Em relação à matéria em destaque, isto é, da necessidade ou não do pedido de concessão de remição por estudo, entendo que não merece maiores considerações, tendo em vista que a remição ficta não é admitida pelo Superior Tribunal de Justiça, porquanto a contagem do tempo de trabalho ou de estudo exige a comprovação de sua efetiva ocorrência. (..) Na hipótese, não consta banco de horas com certificação da presença do apenado/agravante, que está sendo identificado como retido. Nesse contexto, vê-se que não é viável conceder a remição ficta pretendida, uma vez que estaria sendo violado o princípio ressocializador (..)."
+O agravante cumpre pena de 33 anos e 1 mês de reclusão, pela prática dos crimes tipificados no art. 157, § 2º, e art. 121, ambos do Código Penal. Requereu ao Juízo das Execuções remição de sua pena por estudo, pleito indeferido na origem. O Tribunal de origem negou provimento ao agravo em execução interposto.
+Por primeiro, mister salientar que este Superior Tribunal fixou, no julgamento do Tema Repetitivo n. 1120, a seguinte tese jurídica: "Nada obstante a interpretação restritiva que deve ser conferida ao art. 126, §4º, da LEP, os princípios da individualização da pena, da dignidade da pessoa humana, da isonomia e da fraternidade, ao lado da teoria da derrotabilidade da norma e da situação excepcionalíssima da pandemia de covid-19, impõem o cômputo do período de restrições sanitárias como de efetivo estudo ou trabalho em favor dos presos que já estavam trabalhando ou estudando e se viram impossibilitados de continuar seus afazeres unicamente em razão do estado pandêmico".
+Com efeito, a remição ficta por estudo ou trabalho durante a pandemia da COVID-19 exige a demonstração de que o apenado já exercia regularmente a atividade antes das restrições sanitárias e que foi impossibilitado de continuar exclusivamente em razão do estado pandêmico.
+No caso concreto, o agravante não comprovou o exercício regular de atividade de estudo antes da pandemia, havendo apenas registro de "retenção". Tampouco demonstrou que a impossibilidade de continuidade dos estudos decorreu exclusivamente das restrições sanitárias.
+Assim, não há como reconhecer o direito à remição ficta quando ausentes os pressupostos fáticos que autorizam sua concessão excepcional.
+Como dito, o caso em análise apresenta particularidades que o distinguem da hipótese de incidência da referida tese. Assim, não estando presentes os requisitos que autorizariam excepcionalmente a remição ficta - comprovação do efetivo estudo anterior e demonstração de que a impossibilidade de continuidade decorreu exclusivamente da pandemia - não há como acolher a pretensão recursal.
+Rever a conclusão do Tribunal de origem quanto à adequação da medida demandaria necessário reexame do acervo fático-probatório, providência vedada em recurso especial pela Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, inc. II, b e c, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
