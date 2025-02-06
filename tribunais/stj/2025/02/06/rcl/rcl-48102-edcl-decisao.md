@@ -1,0 +1,16 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 489 (e-STJ).
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 448 (e-STJ).
+Trata-se de reclamação ajuizada contra decisão da Quinta Turma que não conheceu do "Habeas Corpus" impetrado pela parte reclamante na origem.
+A defesa alega, em síntese, "lesão irreparável à efetividade do devido processo legal, especialmente no alcance das garantias constitucionais da ampla defesa e do contraditório, objurgadas pela instância ordinária na falsa imputação da apropriação indébita, circunstância que demonstra a supressão da justa causa pela inexistência dos indícios de autoria e de materialidade, sequer do iter criminis, sem cogitação da conduta dolosa."
+Ao final, requer a concessão da ordem para "juridicamente, decretar a nulidade absoluta da fase inquisitorial - cerceamento de defesa pela atitude "a toque de caixa" (ocultação de provas), sem a participação da coagida no depoimento das testemunhas arroladas (acesso à informação) e a não produção da prova pericial (CPP, art. 158), tampouco a invocação da legislação tributária, na forma do art. 7º, inciso XXI e alínea a, do Estatuto da Advocacia e da OAB - para, processualmente, determinar a cassação e/ou a reforma da ínclita decisão monocrática (e-STJ, pp. 409/410) e das decisões anteriores proferidas pela Respeitada Quinta Turma do Egrégio STJ, a fim de autorizar o trancamento da ação penal".
+A Reclamação não foi conhecida. (e-STJ Fl. 448-450)
+O reclamante interpõe embargos de declaração afirmando que "direito de fundo não é enfrentado pela autoridade reclamada, em gesto de esquiva que perpetua a disparidade de tratamento, além da aversão aos valores do Estado Democrático de Direito." (e-STJ Fl.451-456)
+Os Embargos de Declaração não foram conhecidos. (e-STJ Fl. 489-490)
+A parte autora interpõe embargos de declaração afirmando que "a ínclita decisão monocrática desprestigiou o entendimento jurisprudencial legitima a propositura da reclamação na hipótese de ofensa ao enunciado de súmula vinculante, além de ignorar o pedido de reconsideração que demonstrou a atipicidade material da falsa imputação da apropriação indébita" (e-STJ Fl.644).
+É o relatório. DECIDO.
+O conhecimento dos Embargos de Declaração demanda a indicação de ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+A análise das razões recursais indica, contudo, que o Reclamante não apontou qualquer dos vícios que fundamentam o recurso aclaratório, limitando-se a reiterar questões relativas à ação penal de origem.
+Dessa forma, não conheço dos embargos de declaração .
+Considerando se tratar de segunda interposição de aclaratórios, determino a baixa imediata dos autos, independentemente de trânsito em julgado.
+EMENTA
