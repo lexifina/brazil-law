@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em benefício de MAICON VINICIUS ALVES - condenado como incurso no crime de associação para o tráfico de drogas (Ação Penal n. 1014055-77.2018.8.26.0625) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta ao paciente pelo Juízo de Direito da 1ª Vara Criminal do Foro de Taubaté/SP (Ação Penal n. 1014055-77.2018.8.26.0625), ao argumento de que a pena-base deve ser fixada no piso mínimo e substituída a pena privativa de liberdade por restritiva de direitos.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, no julgamento da apelação, a Corte local deu parcial provimento ao recurso para fixar o regime semiaberto, mantendo a pena-base fixada na sentença, mediante devida fundamentação. Confira-se (fl. 220 - grifo nosso):
+ ..
+Como já sustentado, há que levar-se em conta nesta primeira fase não só as circunstâncias judiciais do artigo 59 do Código Penal, como, precedentemente, as que se encontram contempladas no artigo 42 da Lei nº. 11.343, de 23 de agosto de 2006. Sendo assim, no caso dos autos, a base deve partir de patamar superior ao mínimo, haja vista a diversidade de drogas movimentada pela associação de que tomou parte o réu (maconha, cocaína e crack) e também em razão da expressiva quantidade de drogas movimentadas, conforme, inclusive, reconhecido nos autos nº 1014718-26.2018.8.26.0625, desta 1ª Vara Criminal.
+Destarte, fixo a pena 1/3 (um terço) acima do mínimo legal, em 04 (quatro) anos de reclusão e pagamento de 933 (novecentos e trinta e três) dias- multa.
+Inexistem agravantes ou atenuantes.
+ ..
+A pena final do paciente foi fixada em 4 anos de reclusão e 933 dias-multa, e vê-se que houve concreta fundamentação para o aumento da pena-base acima do mínimo, consubstanciada na quantidade de droga apreendida - 10 (dez) invólucros plásticos contendo cocaína na forma de comprimidos; 5 (cinco) invólucros plásticos contendo porções a granel (tijolos) de Cannabis sativa, L, substância conhecida como maconha, pesando aproximadamente 931 g (novecentos e trinta e um gramas); e 41 (quarenta e uma) cápsulas tipo eppendorf contendo cocaína (fl. 9) -, não se podendo falar em constrangimento ilegal ao paciente. Ademais, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do habeas corpus.
+Também não há ilegalidade pela não aplicação da substituição da pena para restritiva de direitos, já que constou da sentença que tal medida não se mostra socialmente recomendável (fl. 240).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. DOSIMETRIA. PENA-BASE DEVIDAMENTE FUNDAMENTADA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA DE DIREITOS. MEDIDA QUE NÃO SE MOSTRA SOCIALMENTE RECOMENDÁVEL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
