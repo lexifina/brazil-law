@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se d e recurso em habeas corpus, com pedido liminar, interposto por PRISCILA MANTOVANI VILAS BOAS contra o acórdão do TRIBUNAL DE JU STIÇA DO ESTADO DE GOIÁS proferido no HC n. 5992628-09.2024.8.09.0137.
+Consta dos autos a prisão temporária da recorrente, posteriormente convertida em custódia preventiva, em virtude da suposta prática dos delitos de tráfico de drogas e associação para o tráfico.
+Em suas razões, sustenta a recorrente que possui predicados pessoais favoráveis e que sua segregação processual se encontra despida de fundamentação idônea, por ter sido amparada na mera gravidade abstrata dos delitos que lhe foram imputados.
+Afirma que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal, e que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da sua prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas.
+Decisão indeferindo pedido liminar às fls. 144-145.
+Informações prestadas às fls. 147-152.
+Parecer do Ministério Público Federal, às fls. 157-161, pelo não provimento do recurso.
+É o relatório.
+DECIDO.
+O recurso não prospera.
+No caso, o Tribunal de origem manteve a segregação cautelar por meio dos seguintes fundamentos (fl. 87; grifamos):
+Do exame do excerto supratranscrito, observa-se que, ao contrário do suscitado pelos impetrantes, a magistrada de primeiro grau cuidou de registrar no bojo da decisão impugnada a presença dos requisitos elencados no artigo 312 do Código de Processo Penal, discorrendo acerca da materialidade dos crimes de tráfico e associação para o tráfico e dos indícios de autoria que recaem sobre a pessoa da paciente (fumus commissi delicti), bem como das circunstâncias fáticas autorizadoras da prisão preventiva (periculum libertatis).
+Com efeito, a autoridade tida por coatora ressaltou a gravidade da ação e modo de agir da paciente PRISCILA MANTOVANI VILAS BOAS, ressaltando, sobretudo, o papel desempenhado por ele na associação (revender as drogas na cidade de Maurilândia) que, ao que tudo indica, possui acesso a armas e uma ampla área de atuação que, conforme as investigações feitas até o momento, abrange os municípios de Maurilândia, Quirinópolis e Rio Verde.
+Nessa esteira de considerações, tem-se que a segregação da paciente, antes do trânsito em julgado de sentença condenatória, apresenta as condições certas e necessárias, pois estão delineadas as situações fáticas anormais que extrapolam a trivialidade dos elementos dos tipos incriminadores, concernentes no modus operandi.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta da recorrente, a qual, segundo consta, teria relevante papel no grupo criminoso, possuindo acesso a armas e uma ampla área de atuação.
+Tal circunstância demonstra a potencial periculosidade da agente e é apta a justificar a segregação cautelar para garantia da ordem pública. Assim, justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromper as atividades do grupo (AgRg no HC n. 728.450/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 18/08/2022).
+No mesmo sentido:
+AGRAVO INTERNO EM HABEAS CORPUS. IDONEIDADE DA PRISÃO PREVENTIVA FUNDADA NA NECESSIDADE DE SE INTERROMPER A ATUAÇÃO DE ORGANIZAÇÃO CRIMINOSA E NO RISCO DE REITERAÇÃO DELITIVA. HABEAS CORPUS INDEFERIDO. 1. Não há ilegalidade na prisão preventiva fundada na necessidade de se interromper a atuação de organização criminosa e no risco concreto de reiteração delitiva. 2. Agravo interno desprovido. (HC 213022 AgR, Relator(a): NUNES MARQUES, Segunda Turma, julgado em 23-05-2022, PROCESSO ELETRÔNICO D Je-107 DIVULG 01-06-2022 PUBLIC 02-06-2022).
+AGRAVO INTERNO EM HABEAS CORPUS. IDONEIDADE DA PRISÃO PREVENTIVA. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. HABEAS CORPUS INDEFERIDO. 1. Não há ilegalidade na prisão preventiva fundada na necessidade de se interromper a atuação de organização criminosa. 2. Agravo interno desprovido. (HC 216056 AgR, Relator(a): NUNES MARQUES, Segunda Turma, julgado em 22-08-2022, PROCESSO ELETRÔNICO D Je-174 DIVULG 31-08-2022 PUBLIC 01-09-2022).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
