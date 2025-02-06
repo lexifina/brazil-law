@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de LETICIA PANACHONI - condenada como incurso no crime de estelionato simples -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0006453-18.2014.8.26.0132), não comporta acolhimento.
+Busca a impetração a absolvição da paciente na ação penal que tramitou perante o Juízo de Direito da 1ª Vara Criminal da comarca de Catanduva/SP, ao argumento de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de outras provas suficientes para a comprovação da autoria delitiva.
+Ocorre que, além de se tratar de writ destinado a revisar condenação transitada em julgado, o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois se a vítima é capaz de individualizar o agente, não é necessário instaurar a metodologia legal (AgRg no HC n. 793.886/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe 28/4/2023; e AgRg no HC 921.601/RR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 5/9/2024).
+No caso, a vítima, em Juízo, reconheceu ambos os acusados, por fotografia, como sendo dois dos autores do crime (Fábio como sendo o que a abordou inicialmente, simulando que queria apenas uma informação, e Letícia como a mulher que a abordou num segundo momento, a acompanhou ao banco e recebeu o dinheiro), não havendo, portanto, dúvida quanto à autoria. Quanto ao reconhecimento fotográfico, a própria acusada, interrogada em Juízo, admitiu ser uma das pessoas das fotografias de fls. 17/18, de tal sorte que não há dúvida de que a mulher (loira) reconhecida pela vítima, nas mesmas fotografias, se trate realmente da imputada Letícia (fl. 50 - grifo nosso ).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ESTELIONATO SIMPLES. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. RECONHECIMENTO PESSOAL. ALEGAÇÃO DA EXISTÊNCIA DE VÍCIO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
