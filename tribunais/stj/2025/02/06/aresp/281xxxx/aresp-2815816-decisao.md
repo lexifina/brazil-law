@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por FERNANDO LUIZ BACELAR, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (fls. 293-296):
+"APELAÇÃO CRIME. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. SENTENÇA CONDENATÓRIA. PLEITO RECURSAL. MERA REPRODUÇÃO DO CONTIDO NAS ALEGAÇÕES FINAIS, ACRESCENTADO DE PEDIDO GENÉRICO DE AFASTAMENTO DA CAUSA DE AUMENTO DA OMISSÃO DE SOCORRO. INSURGÊNCIA DESVINCULADA DA ANÁLISE DAS PROVAS E FUNDAMENTOS CONSIGNADOS NA SENTENÇA CONDENATÓRIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA SENTENÇA. AFRONTA AO PRINCÍPIO DA DIALETICIDADE. PRECEDENTES. RECURSO NÃO CONHECIDO".
+Em suas razões recursais, a parte recorrente aponta violação do art. 1.010, do Código de Processo Civil. Aduz para tanto, em síntese, que a "reprodução dos argumentos já lançados em petição anterior, como, por exemplo, aqueles contidos nas alegações finais, não impede, por si só, o conhecimento do recurso de apelação, notadamente quando suas razões deixam claro o interesse pela reforma da sentença, tal qual ocorre no caso em concreto" (fl. 308).
+Com contrarrazões (fls. 313-315), o recurso especial foi inadmitido na origem (fls. 317-318), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso e, se conhecido, pelo não provimento (fls. 355-357).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No caso, o Tribunal de origem não conheceu do recurso de apelação por violação ao princípio da dialeticidade recursal, ao fundamento de que "as provas e fundamentos decisórios vastamente consignados na sentença condenatória não foram devidamente impugnados pelas razões recursais, mera reprodução das alegações finais, acrescentado de mero pedido genérico de afastamento da causa de aumento da omissão de socorro" (fl. 295).
+Tal entendimento não encontra amparo na jurisprudência desta Corte Superior, de que a repetição das razões das alegações finais em apelação não viola o princípio da dialeticidade, considerando o efeito devolutivo do recurso. A esse respeito, convém a transcrição dos seguintes precedentes:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AUSENTE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso por ausência de indicação de dispositivos legais federais violados, tendo o agravante apontado apenas dispositivos constitucionais.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo regimental.
+3. Em atenção ao parecer do MPF, surge outra questão, qual seja, saber se Corte a quo agiu conforme entendimento desta Corte ao não conhecer da apelação defensiva por constatação de mera reprodução das razões das alegações finais.
+III. Razões de decidir
+4. A ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula n. 182 do STJ, tornando inviável o conhecimento do agravo regimental.
+5. A jurisprudência do STJ entende que a repetição das razões das alegações finais em apelação, por si só, não viola o princípio da dialeticidade, dado o efeito devolutivo do recurso.
+IV. Dispositivo e tese
+6. Agravo regimental não conhecido. Ordem de habeas corpus concedida de ofício para que o Tribunal de origem, ressalvado outro óbice, analise o mérito do recurso de apelação.
+Tese de julgamento: "1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do agravo regimental. 2. A repetição das razões das alegações finais em apelação não viola o princípio da dialeticidade, considerando o efeito devolutivo do recurso".
+Dispositivos relevantes citados: CPC, arts. 932, III, e 1021, § 1º;
+CPP, arts. 647-A e 654, § 2º.Jurisprudência relevante citada: STJ, AgInt nos EREsp 1.544.786/RS, Rel. Min. Gurgel de Faria, Primeira Seção, DJe 16/6/2020; STJ, AgRg no REsp 1.550.399/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 21/9/2022".
+(AgRg no AREsp n. 2.516.460/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/10/2024, DJe de 25/10/2024.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INCÊNDIO E DANO QUALIFICADO. NULIDADE. RAZÕES DE APELAÇÃO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. INOCORRÊNCIA. REITERAÇÃO DAS RAZÕES EXPENDIDAS NAS ALEGAÇÕES FINAIS. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência das Cortes Superiores é de que, mutatis mutandis, "as razões do recurso de apelação que reproduzem os argumentos lançados nas alegações finais não incorrem em deficiência da defesa técnica a atrair declaração de nulidade, máxime nas hipóteses em que a peça infirmou todos os fundamentos da sentença condenatória  ..  É que "o efeito devolutivo, tomado em profundidade, permite ao tribunal examinar aspectos ou tópicos não apreciados pelo juiz inferior: a profundidade do conhecimento do tribunal é a maior possível: pode levar em consideração tudo que for relevante para a nova decisão" (Ada Pellegrini Grinover et alii, Recursos no Processo Penal, São Paulo, RT, 1996, p. 52, nº 25; p.
+156, nº 95)" (HC n. 105.897, relator Ministro MARCO AURÉLIO, relator para acórdão: Ministro LUIZ FUX, Primeira Turma, julgado em 13/9/2011, DJe-189 divulgado em 30/09/2011, publicado em 3/10/2011).
+Precedentes.
+2. Agravo regimental desprovido".
+(AgRg no REsp n. 1.550.399/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/9/2022, DJe de 21/9/2022.)
+"HABEAS CORPUS. NULIDADE. CONDENAÇÃO. APELAÇÃO INTERPOSTA NÃO CONHECIDA. MERA REPETIÇÃO DAS ALEGAÇÕES FINAIS. ACÓRDÃO FUNDADO NA INOBSERVÂNCIA AO PRINCÍPIO DA DIALETICIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. VIOLAÇÃO AO PRIMADO DA EXIGÊNCIA DE FUNDAMENTAÇÃO DO ATO JUDICIAL. ORDEM CONCEDIDA.
+1. A teor do art. 93, IX, da Constituição Federal, é imperioso que as decisões do Poder Judiciário sejam motivadas, a ponto de conter o substrato da causa e as particularidades defendidas pelas partes, de modo a viabilizar, de um lado, o exercício do duplo grau de jurisdição, e, de outro, o controle político do cumprimento da função judicante. 2. Na espécie, o Tribunal de origem não conheceu do apelo da defesa e, a pretexto de apreciar o recurso, apenas concluiu que a mera repetição das alegações finais nas razões do recurso de apelação viola o princípio da dialeaticidade. 3. Mutatis mutandis, "repetir, na apelação, os argumentos já lançados na petição inicial ou na contestação não representa, por si só, obstáculo ao conhecimento do recurso, nem ofensa ao princípio da dialeticidade. Precedentes." (AgInt no AREsp 980.599/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/12/2016, DJe 02/02/2017) 4. Ordem concedida para anular o julgamento da apelação e determinar novo exame daquele recurso, de forma fundamentada".
+(HC n. 392.479/SC, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 22/8/2017, DJe de 31/8/2017.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para que seja analisado o mérito do recurso de apelação interposto pela defesa, ressalvada a existência de outro óbice que impeça o conhecimento.
+Publique-se. Intimem-se.
+ EMENTA
