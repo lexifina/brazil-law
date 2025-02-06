@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Verifico que a presente controvérsia - termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS - envolve a discussão de matéria afetada ao rito dos recursos especiais repetitivos no Tema n. 1124, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. PREVIDENCIÁRIO. CONCESSÃO OU REVISÃO DE BENEFÍCIO. TERMO INICIAL DOS EFEITOS FINANCEIROS. REQUERIMENTO ADMINISTRATIVO. CITAÇÃO. MULTIPLICIDADE DE PROCESSOS. ABRANGÊNCIA DA SUSPENSÃO. ART. 1.037, II, DO CPC. PROPOSTA DE AFETAÇÃO ACOLHIDA.
+1. Delimitação da controvérsia: "Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária".
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I c/c art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28.9.2016).
+3. Determinada a suspensão do trâmite de todos os processos em grau recursal, tanto no âmbito dos Tribunais quanto nas Turmas Recursais dos Juizados Especiais Federais, cujos objetos coincidam com o da matéria afetada (art. 1.037, II, do CPC).
+4. Acolhida a proposta de afetação do Recurso Especial como representativo da controvérsia, para que seja julgado na Primeira Seção (afetação conjunta dos Recursos Especiais 1.905.830/SP, 1.913.152/SP e 1.912.784/SP).
+(ProAfR no REsp n. 1.905.830/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 21/9/2021, DJe de 17/12/2021.)
+Nesse contexto, e à vista de expressa determinação de suspensão dos recursos em trâmite nesta Corte, de rigor o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia, em observância ao princípio da economia processual e à própria finalidade da sistemática dos repetitivos, consoante espelha o seguinte julgado:
+PROCESSUAL CIVIL. QUESTÃO DE ORDEM. RECURSOS REPETITIVOS. JULGAMENTO SUPERVENIENTE DE AÇÃO DIRETA DE INCONSTITUCIONALIDADE - ADI. ADEQUAÇÃO. NECESSIDADE. ADMINISTRATIVO. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. JUROS COMPENSATÓRIOS. REVISÃO DAS TESES REPETITIVAS 126, 184, 280, 281, 282 E 283, BEM COMO DAS SÚMULAS 12, 70, 141 E 408 DO STJ. SUSPENSÃO NACIONAL. DETERMINAÇÃO.
+ ..
+3. Com fulcro nos arts. 927, § 4º, do CPC/2015 e 256-S, § 1º, do RISTJ, em atenção aos princípios da segurança jurídica, proteção da confiança e isonomia, formula-se a presente questão de ordem.
+4. Determina-se, com fundamento no art. 1.037, II, do CPC/2015 e por economia processual, inclusive para prevenção do ajuizamento de futuras ações rescisórias embasadas na coisa julgada inconstitucional, a suspensão de todos os processos em trâmite no território nacional a partir do momento em que a questão em tela - taxa de juros compensatórios aplicável às ações de desapropriação - se apresente, ressalvados incidentes, questões e tutelas interpostas a título geral de provimentos de urgência nos processos objeto do sobrestamento.
+5. Questão de ordem acolhida, para fins de revisão de entendimento das teses repetitivas firmadas nos REsps 1.114.407/SP, 1.111.829/SP e 1.116.364/PI.
+(QO no REsp n. 1.328.993/CE, Relator Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 08.08.2018, DJe de 04.09.2018 - destaque meu).
+Posto isso, com fundamento no art. 1.037, II, do estatuto processual, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão paradigma, e posterior juízo de conformidade.
+Publique-se e intimem-se.
+EMENTA
