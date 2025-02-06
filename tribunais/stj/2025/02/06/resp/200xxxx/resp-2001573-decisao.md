@@ -1,0 +1,77 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente sintetizada no parecer ministerial acostado às e-STJ fls. 1553/1555, cujo relatório ora transcrevo:
+Trata-se de recurso especial interposto pelo Ministério Público do Distrito Federal e Territórios, com fundamento no art. 105, III, alínea a, da CF/88, irresignado com o acórdão que, proferido pela 2ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, reconheceu a prescrição da pretensão executória das penas aplicadas ao recorrido em três processos distintos, nos termos da decisão de fls. 1502/1507 abaixo ementada:
+"AGRAVO NA EXECUÇÃO. PRETENSÃO DE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA EM TRÊS PROCESSOS. SOMATÓRIO DAS PENAS INFERIOR A 8 (OITO) ANOS. RÉU PRIMÁRIO À ÉPOCA DE CADA CONDENAÇÃO. REVOGAÇÃO DE LIVRAMENTO CONDICIONAL. INÍCIO DA CONTAGEM DO PRAZO. TRÂNSITO EM JULGADO DA SENTENÇA. REINCIDÊNCIA APLICADA PELO JUÍZO DA EXECUÇÃO. IRRADIAÇÃO DA AGRAVANTE POR SE TRATAR DE CONDIÇÃO PESSOAL DO APENADO. ENTENDIMENTO DO STJ E DESTE TRIBUNAL EM RELAÇÃO À CONCESSÃO DE BENEFÍCIOS. DECISÃO REFORMADA.
+1. O entendimento firmado pela Terceira Seção do STJ e reverberado por este tribunal, que considera a agravante da reincidência como condição pessoal que irradia efeitos sobre toda a pena unificada, deve ser aplicado somente nos casos de concessão de benefícios ao apenado (EREsp n. 1.738.968/MG), uma vez que no exame da prescrição deve ser levado em consideração os dados de cada execução isoladamente.
+2. Desse modo, o aumento de 1/3 no prazo da prescrição da pretensão executória, previsto no art. 110 do Código Penal, deve incidir somente nas execuções cuja sentença condenatória reconheceu a reincidência, hipótese que não se aplica no caso, em que o agravante foi considerado primário.
+3. Recurso provido." (fl. 1501)
+Em suas razões, insertas às fls. 1519/1524, o Parquet aponta negativa de vigência ao artigo 110, caput, do Código Penal, porque o Tribunal de origem, ao considerar que o acréscimo de 1/3 (um terço) só deve ser aplicado nos casos em que a reincidência restou reconhecida na sentença condenatória, retirou incremento aplicado ao cálculo prescricional pelo juízo da execução.
+Sustenta que o entendimento é contrário à jurisprudência dessa Corte Superior que, em acórdão proferido pela Terceira Seção (ERESP nº 1.738.968/MG), decidiu que a intangibilidade da sentença penal condenatória transitada em julgado não retira do juízo das execuções penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu.
+Afirma que a conclusão vem sendo adotada por essa Corte Superior para hipóteses de prescrição, e pugna pelo restabelecimento da decisão da Vara de Execuções Penais do Distrito Federal que indeferiu o reconhecimento da prescrição da pretensão executória.
+Apresentadas as contrarrazões às fls. 1532/1537, o Especial foi admitido na origem às fls. 1540/1541, os autos subiram a esse Superior Tribunal de Justiça e vieram, digitalizados, com vista ao Ministério Público Federal para manifestação.
+Ao final, manifestou-se o Parquet Federal pelo provimento do recurso especial.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Juízo da execução afastou a tese de prescrição da pretensão executória com base nos seguintes fundamentos (e-STJ fl. 1453):
+Em análise o pedido de prescrição da pretensão executória nas cartas de guia 00199869419988070015, 00298396419978070015 e 00282064220028070015, cujas penas individualmente consideradas (art. 119 do CP), apesar de serem superior a 2 anos, não excedem a 4 anos.
+Ainda, consoante o entendimento do STJ e do TJDFT, o apenado é reincidente, agravante entendida por aquelas cortes como condição pessoal que irradia efeitos sobre toda a pena unificada, como no caso, inclusive para fins de prescrição.
+Logo, aplicável o prazo prescricional de 10 anos e 8 meses (art. 109, IV c/c art. 110, caput, ambos do CP).
+Quanto ao dia de início do cômputo do prazo prescricional, vejo que a interrupção do cumprimento da pena decorreu da revogação do livramento condicional, levado a efeito na sentença de mov. 1.11, p. 161, e não em razão de fuga, de sorte que na forma do art. 112, I, do Código Penal, o prazo prescricional tem início na data do trânsito em julgado daquela sentença, ocorrido em 26/07/2013.
+Portanto, a prescrição da pretensão executória está prevista para ocorrer em 25/05/2024, quando haverá transcorrido o prazo prescricional de 10 anos e 8 meses, a contar do trânsito em julgado da sentença revocatória do livramento condicional, em 26/07/2013.
+Por sua vez, o Tribunal de origem assim consignou ao dar provimento ao agravo defensivo e reconhecer a prescrição (e-STJ fls. 1504/1507):
+A pretensão do agravante é ver reconhecida a prescrição da pretensão executória em relação aos delitos retratados nos seguintes processos:
+Processo n. 0019986-94.1998.8.07.0015 (30/10/1991; furto qualificado; pena de 3 anos);
+Processo n. 0029839-64.1997.8.07.0015 (08/07/1995; furto qualificado; pena de 2 anos e 9 meses); e
+Processo n. 0028206-42.2002.8.07.0015 (10/01/1994; furto qualificado; pena de 2 anos e 3 meses)
+Observa-se que nesses processos as penas foram superiores a 2 (dois) anos e inferiores a 4 (quatro) anos, sendo o réu/agravante considerado primário em cada um deles (ID 30433587, p. 219 e ss), o que atrai a regra do art. 109, IV, do Código Penal, que disciplina:
+"Art. 109. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1o do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se: (Redação dada pela Lei nº 12.234, de 2010).
+(..)
+IV - em oito anos, se o máximo da pena é superior a dois anos e não excede a quatro;"
+E "a prescrição depois de transitar em julgado a sentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no artigo anterior, os quais se aumentam de um terço, se o condenado é reincidente", conforme art. 110 do mesmo diploma que ainda traz em seu art. 112, I, a seguinte regra:
+"Art. 112. No caso do art. 110 deste Código, a prescrição começa a correr:
+I - do dia em que transita em julgado a sentença condenatória, para acusação, ou a que revoga a suspensão condicional da pena ou o livramento condicional;
+(..)"
+Como bem registra a defesa, o agravante teve o benefício do livramento condicional revogado em sentença datada de 12/6/2013 (ID 30433587, p. 107), a qual transitou em julgado em 26/7/2013 (ID 30433587, p. 110).
+Nesse cenário, a prescrição da pretensão executória teria ocorrido em 25/7/2021, tal como chegou a reconhecer a d. Promotoria de Justiça no ID 30433587, p. 214/215.
+Infere-se que a leitura feita pelo magistrado para definir o prazo prescricional de 10 (dez) anos e 8 (oito) meses, conforme art. 109, IV c/c art. 110, caput, ambos do CP, levou em consideração a reincidência do agravante operada posteriormente ao trânsito em julgado das sentenças condenatórias referentes aos processos que embasam o presente pedido - Processos n. 0019986-94.1998.8.07.0015. n. 0029839- 64.1997.8.07.0015 e n. 0028206-42.2002.8.07.0015.
+A decisão agravada baseou-se no entendimento do STJ e do TJDFT que considera a agravante da reincidência como condição pessoal que irradia efeitos sobre toda a pena unificada.
+ ..
+Com efeito, a Terceira Seção do Superior Tribunal de Justiça, unificando o entendimento de seus órgãos fracionários, pacificou a tese de que "a intangibilidade da sentença condenatória não retira do Juízo da VEC o dever de adequar o cumprimento da sanção penal às condições pessoais do réu (EREsp n. 1.738.968/MG, Ministra Laurita Vaz, Terceira Seção, DJe 17/12/2019)":
+ ..
+Notadamente, referido entendimento vem sendo adotado, e reverberado por este TJDFT, nas hipóteses de concessão de benefícios ao apenado, situação que não encontra similitude com a prescrição, que é a perda do direito de punir do Estado pelo decurso do tempo e, se aplica conforme a situação de cada execução, isoladamente.
+ ..
+Destarte, em sendo o agravante primário em cada uma das execuções ora mencionadas - Processos n. 0019986-94.1998.8.07.0015. n. 0029839-64.1997.8.07.0015 e n. 0028206-42.2002.8.07.0015, não há como se irradiar a agravante da reincidência na fase da execução da pena para fins de apuração do prazo prescricional da pretensão executória.
+Ante o exposto, DOU PROVIMENTO ao recurso para declarar a prescrição da pretensão executória das penas veiculadas nas execuções n. 0019986-94.1998.8.07.0015. n. 0029839-64.1997.8.07.0015 e n. 0028206-42.2002.8.07.0015.
+O Superior Tribunal de Justiça possui o entendimento de que o Juízo da execução penal não está vinculado ao emprego dado pelo Juízo de conhecimento aos registros criminais do apenado, estando adstrito tão somente ao quantum de pena estabelecido, ao regime inicial fixado ou à eventual substituição da pena privativa de liberdade por restritivas de direitos, ressalvadas as hipóteses, nesse último caso, de conversão por descumprimento injustificado ou de incompatibilidade em virtude de nova condenação.
+Em outras palavras, as condições pessoais do apenado, tal como a reincidência, ainda que não sejam reconhecidas na condenação, devem ser observadas pelo Juízo das execuções, já que tal proceder encontra-se na sua esfera de competências, definida no art. 66 da Lei de Execução Penal (LEP), descabendo falar-se em reformatio in pejus ou em violação à coisa julgada material, mas em individualização da pena relativa à apreciação de institutos próprios da execução penal.
+Nos termos do art. 111 da LEP, quando presente mais de uma condenação, seja o crime anterior ou posterior ao início da execução, deverá o julgador avaliar a natureza dos delitos pelos quais o apenado foi condenado, bem como suas circunstâncias pessoais, uma vez que tais aspectos têm ressonância na individualização da execução penal.
+Conforme a jurisprudência desta Corte Superior , "a condição de reincidente é de caráter pessoal do condenado, e não específico de cada condenação, de modo que, unificadas as sanções, a reincidência deve incidir sobre a totalidade das penas" (AgRg no HC n. 839.506/SC, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Portanto, não há ilegalidade na consideração da reincidência do apenado no cálculo da prescrição da pretensão executória realizado pelo Juízo da execução.
+No mesmo sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame1. Pedido de reconhecimento de prescrição da pretensão punitiva recebido como agravo regimental interposto contra decisão que conheceu do agravo em recurso especial para conhecer em parte o recurso especial e, na extensão, negar provimento.
+2. O recorrido foi condenado à pena de 8 meses de reclusão, com trânsito em julgado para a acusação em 10/01/2020. A defesa alega que o prazo prescricional de 3 anos, conforme art. 109, inciso VI, do Código Penal, já teria transcorrido.
+3. O Ministério Público Federal opinou pelo não acolhimento do pedido, argumentando que a prescrição da pretensão executória tem seus prazos aumentados em 1/3 pela reincidência.
+II. Questão em discussão4. A questão em discussão consiste em saber se o termo inicial para a contagem da prescrição da pretensão executória deve ser o trânsito em julgado para ambas as partes, conforme entendimento do Supremo Tribunal Federal.
+5. Outra questão é se a análise da prescrição da pretensão executória deve ser realizada pelo juízo da execução penal, considerando possíveis incidentes que possam alterar a contagem do prazo prescricional.
+III. Razões de decidir6. O Supremo Tribunal Federal fixou que o termo inicial para a contagem da prescrição da pretensão executória é o trânsito em julgado para ambas as partes, conforme interpretação do princípio da presunção de inocência.
+7. A análise da prescrição da pretensão executória demanda a verificação de diversas informações, incluindo possíveis incidentes que possam alterar a contagem do prazo, devendo ser realizada pelo juízo da execução penal.
+8. A modulação dos efeitos do entendimento do STF alcança apenas casos cujo trânsito em julgado para a acusação tenha ocorrido após 12/11/2020, não se aplicando ao caso em tela.
+IV. Dispositivo e tese9. Agravo regimental não provido.
+Tese de julgamento: "1. O termo inicial para a contagem da prescrição da pretensão executória, no caso em tela, é o trânsito em julgado para a acusação. 2. A análise da prescrição da pretensão executória deve ser realizada pelo juízo da execução penal, considerando possíveis incidentes que possam alterar a contagem do prazo prescricional".
+Dispositivos relevantes citados: Código Penal, art. 109, VI; art. 112, I; art. 116, parágrafo único; art. 117, V e VI. Jurisprudência relevante citada: STF, AI 794.971-AgR/RJ, Rel. Min. Marco Aurélio, DJe 28/06/2021; STF, ARE 848.107/DF, Rel. Min. Dias Toffoli, DJe 04/08/2023; STJ, AgRg no AREsp 1393147/RJ, Rel. Min. Rogério Schietti Cruz, DJe 17/03/2020.
+(AgRg no AREsp n. 2.036.674/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PLEITO OBSTADO COM BASE NA REINCIDÊNCIA RECONHECIDA PELO JUÍZO DAS EXECUÇÕES. POSSIBILIDADE. PRECEDENTE DA TERCEIRA SEÇÃO.
+Agravo regimental improvido.
+(AgRg no AREsp n. 2.027.550/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/8/2024, DJe de 27/8/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. REINCIDÊNCIA RECONHECIDA PELO JUÍZO DAS EXECUÇÕES. POSSIBILIDADE. AUSÊNCIA DO TRANSCURSO DO LAPSO NECESSÁRIO AO RECONHECIMENTO DA CAUSA EXTINTIVA DE PUNIBILIDADE.
+1. A Terceira Seção desta Corte, em 27/11/2019, pacificou o entendimento de que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu (EREsp n. 1.738.968/MG, Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 17/12/2019).
+2. Não havendo ilegalidade quanto à consideração da reincidência do recorrente pelo Juízo das execuções, não há que se falar em prescrição da pretensão executória pela ausência do transcurso do lapso necessário ao reconhecimento da causa extintiva de punibilidade.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 110.275/RJ, de minha relatoria , Sexta Turma, julgado em 23/3/2021, DJe de 30/3/2021.)
+No caso sob apreciação, portanto, o entendimento do Tribunal de origem não está em consonância com a orientação desta Corte Superior, revelando-se correta a aplicação do prazo prescricional de 10 anos e 8 meses promovida pelo Juízo de primeiro grau, em face da condição pessoal de reincidente ostentada pelo recorrido.
+Todavia, conforme os marcos temporais registrados pelas instâncias ordinárias, o prazo se iniciou em 26/7/2013 - data do trânsito em julgado da decisão de revogação do livramento condicional -, de forma que ocorreu a perda superveniente do objeto do presente recurso, uma vez que a prescrição da pretensão executória se consumou em 25/3/2024, e não em 25/7/2021, como consignado no acórdão recorrido.
+Ante o exposto, julgo prejudicado o recurso especial, em virtude da perda superveniente do objeto recursal.
+Publique-se. Intimem-se.
+EMENTA
