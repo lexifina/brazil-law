@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por PAULO RICARDO BASTOS DE SOUZA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (Habeas Corpus n. 8007191-42.2023.8.05.0000).
+Depreende-se dos autos que o Ministério Público estadual ofereceu denúncia contra o recorrente, imputando-lhe a prática do delito previsto no art. 121, §2º, II, do Código Penal.
+Recebida a denúncia, foi determinada a citação pessoal da recorrente. Frustrada a referida citação, foi determinada a citação por edital. Em vista disso, o julgador singular determinou a suspensão do processo e do prazo prescricional, bem como a produção antecipada de provas.
+Contra essa decisão insurgiu-se a defesa, ao argumento de ausência de fundamentação na parte em que deferiu a produção antecipada de prova.
+A defesa impetrou habeas corpus perante o Tribunal, o qual denegou a ordem, consoante acórdão que possui a seguinte ementa (e-STJ fls. 219/220):
+EMENTA: CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIME TIPIFICADO NO ART. 121, §2º, II, DO CÓDIGO PENAL BRASILEIRO. 1 - PRODUÇÃO ANTECIPADA DE PROVA TESTEMUNHAL (ART. 366 DO CPPB). DEMONSTRAÇÃO DA NECESSIDADE DA MEDIDA. ADMISSIBILIDADE. LEGALIDADE DO ATO IMPUGNADO. PACIENTE CITADO POR EDITAL. SUSPENSÃO DA MARCHA PROCESSUAL E DO PRAZO PRESCRICIONAL. INTIMAÇÃO DA DEFENSORIA PÚBLICA PARA ACOMPANHAR OS ATOS PROCESSUAIS. DECISÃO FUNDAMENTADA (ART. 225 DO CPPB). NÃO DEMONSTRADA VIOLAÇÃO À SÚMULA 455, DO STJ. ENUNCIADO NÃO POSSUI CARÁTER VINCULANTE. AUSÊNCIA DE PREJUÍZO À DEFESA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. 2 - CONCLUSÃO: DENEGAÇÃO DA ORDEM.
+No presente recurso, a defesa reitera a existência de constrangimento ilegal.
+Por tais razões, pede a concessão da ordem para que seja declarada nula a decisão que deferiu a produção antecipada de provas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 257/259).
+É o relatório.
+Decido.
+Preconiza o art. 366 do Código de Processo Penal que "se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312".
+Cumpre ressaltar que a decisão que determina a produção antecipada de provas, nos termos do art. 366 do Código de Processo Penal, deve ser fundamentada em elementos concretos que demonstrem a sua real necessidade. A propósito, o teor do enunciado sumular n. 455 do Superior Tribunal de Justiça, in verbis:
+A decisão que determina a produção antecipada de provas com base no artigo 366 do CPP deve ser concretamente fundamentada, não a justificando unicamente o mero decurso do tempo.
+A partir de consulta ao sítio eletrônico do Tribunal de origem, foi possível o acesso ao teor da decisão que, dentre outros comandos, determinou a produção antecipada de provas (ID 316785273, de 13/9/2022):
+"Vistos, etc. 1 - R. H. 2 - Considerando que o réu PAULO RICARDO BASTOS DE SOUZAnão foi localizado para ser citado pessoalmente, apesar de diversas tentativas para localizá-lo e foi citado por edital (fls. 81/82), bem assim não constituiu advogado e nem compareceu espontaneamente aos autos, decreto-lhe a revelia, ao tempo em que determino a suspensão do processo, bem assim o curso do prazo prescricional em face do aludido réu. 3 - Para produção antecipada de prova designo o dia 10 de março de 2023, às 10 horas e 30 minutos, no Fórum local. 4 - Notifique-se o Ministério Público e a Defensoria Pública. 5 - Considerando o decurso do tempo, abra-se vista ao Ministério Público para apresentar os atuais endereços das testemunhas (fls. 06), no prazo de 10 (dez) dias, sob pena de preclusão. 6 - Caso o Parquet se mantenha inerte, intime-se as testemunhas no endereço que já consta nos autos. 7 - Diligências necessárias."
+Como se vê, a decisão de primeiro grau não apresentou qualquer fundamentação, ainda que mínima, para a produção antecipada de provas.
+Nesse cenário, diante da inobservância ao entendimento consolidado na súmula n. 455 desta Corte Superior e, sobretudo, à garantia constitucional inserta no art. 93, IX, da Constituição Federal, o provimento do recurso é medida que se impõe.
+Ante o exposto, dou provimento ao recurso para, reformando o acórdão proferido pelo Tribunal de origem, conceder a ordem de habeas corpus, declarando-se a nulidade da decisão do Juízo de primeiro grau que determinou a produção antecipada de provas.
+Publique-se. Intimem-se.
+EMENTA
