@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de EVANDRO OLIVEIRA SEZENANDO - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 1510977-35.2024.8.26.0228) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, não comporta acolhimento.
+Com efeito, bus ca a impetração a revisão da dosimetria da pena imposta ao paciente pelo Juízo de Direito da 16ª Vara Criminal da comarca da Capital/SP, ao argumento de que houve excesso na pena-base fixada e que os antecedentes se referem à condenação pelo crime de furto, no ano de 2008. Requer, assim, a redução ao patamar mínimo ou, pelo menos, que seja reduzida a fração de aumento (fls. 3/9).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois os maus antecedentes decorrentes de condenação transitada em julgado pela prática do delito de furto (autos dos processos ns. 0065874-98.2008.8.26.0050 - 18ª VC) e o desenvolvimento do tráfico de entorpecentes em bunker instalado em comunidade, como bem explicitado pelos policiais militares, a demonstrar o entrosamento do réu na criminalidade e a falta de freios morais, levam ao aumento a pena-base em 1/3 (um terço), ensejando 6 (seis) anos e 8 (oito) meses de reclusão e pagamento de 666 (seiscentos e sessenta e seis) dias-multa (fl. 24).
+Na segunda fase, a pena foi acrescida da fração de 1/6, pela reincidência, por condenação diversa daquela considerada pelos antecedentes. Na terceira fase, não houve o reconhecimento de causas de aumento ou de diminuição da pena, o que se mostrou acertado, por ser o paciente reincidente e apresentar maus antecedentes.
+Também o regime de cumprimento da pena fechado está adequado, já que a pena-base foi fixada acima do piso mínimo e se trata de acusado reincidente.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. REPRIMENDA-BASE. INDICAÇÃO DE ELEMENTOS CONCRETOS (MAUS ANTECEDENTES E BUNKER INSTALADO NA COMUNIDADE E ENTROSAMENTO NO CRIME). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
