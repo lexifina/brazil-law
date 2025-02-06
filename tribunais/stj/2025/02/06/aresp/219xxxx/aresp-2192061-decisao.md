@@ -1,0 +1,20 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ agrava de decisão que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado no HC n. 0622450-74.2022.8.06.0000.
+Consta dos autos que o ora recorrido - Daniel Alisson da Silva - foi preso preventivamente, em 9/9/2021, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa, então, ingressou com remédio constitucional no Tribunal de origem e a ordem foi parcialmente concedida, para substituir a custódia preventiva do réu por medidas cautelares alternativas à prisão.
+O Ministério Público aponta violação dos arts. 282, 312 e 313, I, todos do CPP e requer, em síntese, seja restabelecida a segregação preventiva.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Informações foram prestadas às fls. 153-155, 162-165 e 166-169.
+Decido.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, há motivos concretos e idôneos para embasar a ordem de prisão do acusado, porquanto, de acordo com o decreto preventivo, no caso, "constata-se uma série de crimes e atividades envolvendo os crimes de organização criminosa, tráfico de entorpecentes e associação ao tráfico de drogas, evidenciando uma estrutura organizacional criminosa, conforme demonstram os diálogos anexados na presente representação" (fl. 66), a evidenciar a gravidade concreta das condutas e a necessidade da custódia a fim de garantir a ordem pública.
+Com efeito, o Supremo Tribunal Federal entende que "a custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa" (RHC n. 122.182/SP, Rel. Ministro Luiz Fux, 1ª T., DJe 15/9/2014).
+No mesmo sentido:
+ ..  A custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa.  ..  (RHC n. 122.182/SP, Rel. Ministro Luiz Fux, 1ª T., DJe 15/9/2014).
+ ..  A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva.  ..  (HC n. 95.024, Rel. Ministra Cármen Lúcia, 1ª T., DJe 20/2/2009).
+Além disso, ressalto " ser  inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade do recorrente indica que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC n. 798.835/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023), ainda mais se considerado que, conforme informações prestadas pelo Juiz de primeiro grau, o réu, "por ocasião do descumprimento das medidas cautelares impostas (fl. 1435/1439), fora intimado para apresentar justificativa, em fevereiro deste ano porém, apesar de ter informado à Defensoria que possuía advogado constituído, este não compareceu aos autos para prestar os esclarecimentos necessários" (fl. 167).
+À vista do exposto, conheço do agravo e dou provimento ao recurso especial, para reconhecer a apontada violação do art. 312 do CPP e, por conseguinte, restabelecer a custódia preventiva do acusado, decretada nos autos do Processo n. 0025415-71.2022.8.06.0001.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
