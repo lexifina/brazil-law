@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de ALEXSANDER BELLON - condenado como incurso no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Revisão Criminal n. 2175277-59.2024.8.26.0000), não comporta acolhimento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da Vara Criminal da comarca de Araras/SP, ao argumento da ausência de materialidade, pois os policiais ingressaram na residência sem autorização e sem possuir mandado de busca e apreensão, sendo tal ato ilícito, bem assim todas as provas obtidas de referido feito (fl. 7).
+Ocorre que, além de se tratar de writ utilizado como espécie de segunda revisão criminal, o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois a Corte estadual, em conformidade com a jurisprudência do STJ, destacou que se extrai dos autos justa causa para ingresso dos policiais no domicílio do peticionário, tendo em vista que, os policiais afirmaram que após receberem informações dando conta de que Douglinha, Alemão e um terceiro indivíduo estariam fracionando drogas em uma residência o local dos fatos foi recebido pela tia de Alesander, que informou que o sobrinho estava com dois amigos em seu quarto, e autorizou o seu ingresso na moradia (fl. 33 - grifo nosso).
+Ademais, desconstituir as conclusões obtidas pelas instâncias ordinárias demandaria indesejável revolvimento de fatos e provas, providência incompatível com a via estreita do habeas corpus.
+Por fim, cabe à defesa, em observância ao princípio da cooperação, aplicável não só na seara cível, mas, no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pen a de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Ante o exposto, denego a ordem de habeas corpus.
+Publi que-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT UTILIZADO COMO SEGUNDA REVISÃO CRIMINAL. INADMISSIBILIDADE. BUSCA DOMICILIAR. ENTRADA AUTORIZADA PELA TIA. ENTENDIMENTO DIVERSO. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
