@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado em favor de VINICÍUS TREVISAN contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.424556-9/000).
+Consta dos autos que o recorrente foi preso em flagrante, convertida em preventiva, pela suposta prática do delito previsto no art. 180 do Código Penal.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nesta insurgência, sustenta o recorrente, em síntese, a ilegalidade da prisão em flagrante, que a prisão preventiva teria sido mantida sem fundamentação idônea e que não estariam presentes os requisitos do art. 312 do CPP, autorizadores da medida extrema.
+Alega ainda que "a revogação da fiança inicialmente arbitrada pela autoridade policial carece de fundamentação adequada. Quando da prisão, foi arbitrada fiança no valor de R$ 5.000,00 para Vinicius Trevisan, que possibilitava sua liberdade provisória, com base nos elementos então disponíveis e nas circunstâncias judiciais favoráveis. A decisão posterior que cassou a fiança e decretou a prisão preventiva, contudo, foi proferida sem justificativas concretas, violando o direito de os pacientes responderem ao processo em liberdade". (fl. 466).
+Requer, liminarmente e no mérito, o provimento do presente recurso, para que seja revogada a prisão preventiva do recorrente, com o restabelecimento da fiança anteriormente arbitrada.
+O pedido liminar foi indeferido às fls. 475/478.
+Informações prestadas às fls. 481/483.
+O Ministério Público Federal manifestou-se às fls. 742/744, opinando pelo improvimento do recurso.
+É o relatório.
+DECIDO.
+O recurso não deve ser provido.
+O Tribunal de origem assim manteve a segregação cautelar do recorrente (fls. 440/450; grifamos):
+Inicialmente, no que se refere à alegação de ilegalidade da prisão em flagrante do autuado, posto que, em tese, não houve o cumprimento das formalidades legais, entendo que tal tese não deve prosperar. Isso porque, houve a conversão da prisão preventiva, sendo dominante na jurisprudência o entendimento de que, uma vez convertida a custódia preventiva, eventual vício no flagrante resta superado, porquanto o paciente encontra-se, agora, segregado por força de outro título judicial, o qual possui requisitos diversos.
+(..)
+No que se refere à tese de que deveria ser mantido o arbitramento de fiança feito pela autoridade policial, entendo que razão não assiste à Defesa. Isso porque, em que pese o delito supostamente praticado pelo paciente não se enquadre nas impossibilidades de arbitramento de fiança, previstas no artigo 323 do Código de Processo Penal, verifico que a fiança não deve ser concedida quando presentes os motivos que autorizam a prisão preventiva, conforme previsão no artigo 324, inciso IV, do Código de Processo Penal.
+(..)
+Como se vê, o delito em tese praticado se revela de especial e concreta gravidade, considerando, especialmente, em tese, o fato de que os policiais militares obtiveram informações, por meio de denúncias anônimas, dando conta de que o paciente, que é conhecido no meio policial, estaria em posse de um bem oriundo de um furto, motivo pelo qual abordaram o increpado e fizeram buscas em sua residência, conforme consta no Auto de Prisão em Flagrante Delito (fls. 230/232 - - doc. único). Além disso, infere-se da CAC (fls. 376/377 - doc. único) que o paciente possui 02 (duas) condenações criminais transitadas em julgado pela prática do crime de receptação e 01 (uma) condenação transitada em julgado por receptação, o que demonstra a real periculosidade do inculpado e reforça a necessidade de sua segregação cautelar. Isto posto, observo que os fatos ora apurados comprometem o meio social e autorizam a custódia cautelar do autuado, a fim de se evitar a repetição do ato nocivo censurável e, com isso, garantir a ordem pública.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, em virtude do fundado receio de reiteração delitiva, tendo em vista que o acusado possui sentenças condenatórias transitadas em seu desfavor, inclusive pela prática do mesmo delito, o que justifica a prisão processual, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. RECEPTAÇÃO E FUGA DO LOCAL DE UM ACIDENTE DE TRÂNSITO. PRISÃO PREVENTIVA. REQUISITOS. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA NA HIPÓTESE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltado o risco de reiteração delitiva. Tal circunstância demonstra a potencial periculosidade do agente e é apta a justificar a segregação cautelar para garantia da ordem pública.
+2. Tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+3. Agravo regimental não provido.
+(AgRg no HC n. 924.498/SP, Relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), julgado em 25/10/2024; DJe de 28/10/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. USO DE DOCUMENTO FALSO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. No caso, a periculosidade dos acusados, evidenciada pelas suas reiterações delitivas, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 888.639/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 9/4/2024, DJe de 18/4/2024).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Por fim, a tese da ilegalidade da prisão em flagrante não merece guarida, tendo em vista que, atualmente, a custódia do recorrente decorre de novo título judicial, diante da prisão preventiva convolada, nos termos da jurisprudência dominante nesta Corte Superior.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
