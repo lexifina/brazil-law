@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NELSON WILIANS FRATONI RODRIGUES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/07/2024.
+Concluso ao gabinete em: 22/10/2024.
+Ação: indenizatória, ajuizada por 4R EMPREENDIMENTOS E INCORPORAÇÕES LTDA., em face de NELSON WILIANS FRATONI RODRIGUES.
+Sentença: julgou improcedente o pedido e condenou a parte agravada ao pagamento das custas e dos honorários, que foram arbitrados em 10% do valor da causa atualizado. (e-STJ fl. 1184/1189)
+Acórdão: rejeitando as preliminares arguidas, deu parcial provimento à Apelação interposta pela parte agravada, nos termos da seguinte ementa:
+"Contrarrazões - Alegação de ilegitimidade passiva - Inadmissibilidade - Discussão que gira em torno de ato processual praticado pelo réu, na qualidade de advogado - Responsabilidade subjetiva - Alegação de impossibilidade jurídica do pedido - Inocorrência - Equívoco na qualificação da parte em ação judicial que é fato incontroverso e não se confunde com eventual perda do prazo para a impugnação da constrição - Preliminares rejeitadas.
+Ação ordinária - Pretensão de indenização por danos materiais e morais - Improcedência do pedido - Inconformismo - Acolhimento parcial - Réu que incidiu em equívoco ao fazer menção equivocada ao CNPJ e endereço da autora em outra demanda judicial (processo n. 0092337-59.2018.8.19.0038) - Fato que é incontroverso Culpa do réu - Incidência do art. 32, caput, da Lei n. 8.906/1994 (Estatuto da Advocacia) e art. 927, caput, do Código Civil - Ausência de retificação do equívoco pelo réu - Erro que levou à penhora de saldo bancário em desfavor da autora - Prejuízo inegável de R$ 39.669,69 - Necessidade de condenação - Penhoras posteriores realizadas a partir de pedido indevido da exequente e de equívocos do Poder Judiciário - Ausência de culpa do réu - Dano moral configurado - Fixação da indenização em R$ 10.000,00 - Observância dos princípios da proporcionalidade e da razoabilidade - Sucumbência recíproca - Sentença reformada para julgar parcialmente procedentes os pedidos.
+Preliminares rejeitadas e recurso provido em parte." (e-STJ fl. 1236/1237)
+Embargos de Declaração: opostos, pela parte agravante, foram rejeitados. (e-STJ fl. 1261/1263)
+Recurso especial: alega violação dos arts. 403, 884, 927, CC, sustentando que: i) a Corte local reconhece que o erro cometido pela parte recorrente foi corrigido ao longo do feito originário, e não pela parte recorrente, só que isso é absolutamente desimportante para fins de nexo causal; e, ii) a própria terminologia verbal utilizada pela Corte local leva ao raciocínio de que houve rompimento da cadeia causal, pois houve a insistência da credora que ensejou a posterior reconsideração judicial, a qual já havia excluído a parte recorrida da lide; e, iii) não há que se falar em correção do erro pela parte recorrente porque ele simplesmente já estava corrigido, inclusive com decisão judicial de exclusão da parte recorrida da lide, por isso qualquer indenização, que não seja arcada pela própria credora, seria enriquecimento sem causa. (e-STJ fl. 1245/1253)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 403, 884, CC, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a responsabilidade da parte agravante está limitada ao primeiro bloqueio realizado (v. fls. 279), no valor de R$ 39.669,69, independentemente do substabelecimento sem reservas de poderes em data anterior, considerando que em nenhum momento a parte agravante pediu a retificação do equívoco cometido na qualificação da parte agravada na carta de preposição e na procuração (v. fls. 138 e 161)", bem como de que "a parte agravante agiu com culpa e deve responder pelos danos sofridos pela parte agravada, nos termos do art. 32, caput, Lei 8.906/1994 (Estatuto da Advocacia) e art. 927, caput, CC", assim também de que "os danos morais são incontestes, uma vez que o bloqueio do saldo bancário da parte agravada, por equívoco cometido pela parte agravante em peças processuais, não pode ser tido como mero aborrecimento cotidiano", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fl. 1242) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação indenizatória.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
