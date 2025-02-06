@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por JEFERSON PERES DUARTE contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do Recurso em Sentido Estrito n. 5000487-63.2023.8.21.0115/RS.
+A controvérsia foi bem delineada no parecer ministerial, in verbis (e-STJ fl. 82):
+Trata-se de agravo interposto por JEFERSON PERES DUARTE, contra a decisão da Segunda Vice-Presidência do TJRS que inadmitiu o recurso especial por ele manejado, com arrimo no artigo 105, III, "a", da Constituição Federal, sob o fundamento da incidência dos óbices das Súmulas 7 e 83 desse STJ.
+Tal como se observa dos autos, o réu, ora agravante, foi pronunciado como incurso nas sanções do artigo 121, § 2º, IV, do Código Penal (homicídio qualificado).
+Inconformado, ele interpôs recurso em sentido estrito, ao qual o Tribunal a quo negou provimento, por meio do acórdão assim ementado:
+"RECURSO EM SENTIDO ESTRITO. CRIMES CONTRA A VIDA. HOMICÍDIO QUALIFICADO. PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. PRONÚNCIA MANTIDA. De acordo com o Art. 413 do Código de Processo Penal constituem pressupostos da pronúncia a existência de prova da materialidade do crime e indícios suficientes de autoria ou de participação do réu. No caso dos autos a existência do fato ficou demonstrada nas provas que foram produzidas, havendo suficientes indícios de autoria em relação ao réu. QUALIFICADORA DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA MANUTENÇÃO. AFASTAMENTO. Hipótese em que não há como afirmar que o ofendido foi surpreendido quando foi alvejado, não se podendo extrair da prova a hipótese de que os disparos de arma de fogo tenham sido efetuados de inopino, sem que ele pudesse esperá-los, razão pela qual vai afastada a qualificadora do inciso IV do § 2º do Art. 121 do Código Penal. RECURSO PARCIALMENTE PROVIDO." (fls. 82 e-STJ).
+Ainda irresignado, JEFERSON PERES DUARTE interpôs recurso especial, com arrimo na alínea "a" do artigo 105, III da Constituição Federal, alegando que o acórdão negou vigência aos artigos 155 e 156 do Código de Processo Penal, ao argumento de que não existem indícios suficientes de autoria para a manutenção da decisão de pronúncia, eis que ela estaria baseada apenas em elementos colhidos na fase do inquérito, e em testemunhos de "ouvir dizer".
+O recurso especial foi inadmitido na origem pela Segunda Vice-Presidência do TJRS, em virtude dos óbices das Súmulas 7 e 83 desse STJ.
+Contra essa decisão, JEFERSON PERES DUARTE interpôs o agravo ora examinado, no qual buscou refutar a incidência no caso do óbice da Súmula 7/STJ, alegando ser prescindível o revolvimento do conjunto fático- probatório dos autos para se examinarem as questões ventiladas no recurso, bastando a sua revaloração, e refutando também a incidência do óbice da Súmula 83/STJ, alegando que a jurisprudência desta Corte Superior é uníssona no sentido de ser inviável a pronúncia fundamentada unicamente em testemunhos de "ouvir dizer".
+Contraminuta apresentada (e-STJ fls. 138/141).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo não conhecimento ou desprovimento do agravo em recurso especial (e-STJ fls. 151/159).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+Como relatado, impugna o recorrente a decisão de pronúncia, sob o fundamento de inexistência de provas de autoria.
+O Tribunal de origem sobre a controvérsia assim consignou (e-STJ fls. 80/81)
+Narra a denúncia, em síntese, que os réus, em comunhão de esforços entre si, ingressaram no estabelecimento comercial do ofendido e dirigiram-se ao segundo pavimento, onde com dois disparos de arma de fogo atingiram o ofendido na região torácica, provocando as lesões somáticas descritas no auto de necropsia e ceifando a vida do ofendido.
+No caso penal em atenção, o depoimento de Mari Ângela, companheira do ofendido à época, que narrou o fato em detalhes e reconheceu os dois acusados como sendo os autores do crime, indica indícios suficientes para justificar a remessa do processo ao Conselho de Sentença.
+Embora Mari Ângela não tenha descartado a hipótese de ocorrência de crime de latrocínio, ela foi enfática ao dizer que não foi pedido dinheiro ao ofendido e que os atiradores se identificaram como policiais.
+Ademais, o policial civil Diovane disse em juízo que a vítima, Antônio, já desconfiava que seria executada e esclareceu acreditar que nada foi levado da casa da vítima.
+Verifica-se que o Tribunal de origem, ao analisar a prova produzida, entendeu estarem presentes indícios suficientes de autoria - em especial o depoimento da companheira do ofendido, que reconheceu os dois acusados como autores do crime - mantendo a pronúncia do réu.
+Desse modo, se o Tribunal de origem afirmou expressamente, com base na análise do caderno probante do feito, a existência de indícios suficientes de autoria, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
