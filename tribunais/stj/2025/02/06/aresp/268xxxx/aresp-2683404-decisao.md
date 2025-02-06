@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por GIOVANE VITOR MARQUES SALES E JOHNY PRATES GOMES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu recurso especial.
+Os recorrentes foram condenados como incursos nas sanções do art. 33, caput, da Lei n. 11.343/06, à pena de 01 (um) ano e 08 (oito) meses de reclusão, para GIOVANE e à pena de 04 (quatro) anos e 08 (oito) meses de reclusão para Johny (fl. 627).
+O Tribunal concedeu provimento ao recurso ministerial, para afastar o privilégio de Giovane, estabelecendo a pena, para o crime de tráfico, aos corréus, em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa (fls. 625-638).
+Foram opostos embargos de declaração (fls.649-653), que não foram acolhidos (fls. 657-659).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a", da Constituição Federal, alegando violação aos artigos 33, §4º, e 42, ambos da Lei n.º 11.343/2006, a fim de ser aplicada a causa de diminuição de pena no grau máximo (fls. 668-678).
+O recurso foi inadmitido na origem com fundamento na Súmula n. 7, do STJ (fls. 689-692).
+Nas razões do agravo em recurso especial, o recorrente sustenta a não incidência da súmula supracitada (fls. 701-711).
+O Ministério Público Federal, por sua vez, opinou pelo provimento do recurso, a fim de se reconhecer a forma privilegiada (fls. 739-744).
+É o relatório. DECIDO.
+A controvérsia dos autos consiste na possibilidade do reconhecimento da causa de diminuição de pena do art. 33, §4º, da Lei n. 11.343/06.
+Os recorrentes foram condenados pelas instâncias ordinárias pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06), em conjunto com outros agentes, por estarem com 82 pinos de cocaína, pesando aproximadamente 150,00 g, e 100 buchas de maconha, pesando aproximadamente 96,00 g, além de trazerem consigo 01 revólver do calibre .38, número de série parcialmente ilegível e 06 cartuchos do calibre .38, sendo um deles percutido e não deflagrado.
+O Tribunal de origem alterou decisão de sentença primeva, para acolhendo o pedido do Ministério Público, afastar a aplicação da forma privilegiada do tráfico de drogas, ao argumento de que estaria evidenciado que os réus se dedicavam a atividades criminosas, tendo em vista não só a quantidade e a natureza das drogas apreendidas, mas também associada às informações dos militares, de que os réus integravam uma quadrilha de alta periculosidade, ou seja, não se tratava de meros traficantes eventuais (fl. 636).
+O entendimento do acórdão recorrido se alinha à jurisprudência desta Corte Superior, que admite o afastamento da forma privilegiada do tráfico ilícito de drogas amparado em elementos concretos dos autos, que associem a quantidade e a natureza da droga apreendida a outras circunstâncias fáticas específicas que comprovem a prática habitual do ilícito.
+Precedentes: AgRg no AREsp n. 2.337.750/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024. AgRg no HC n. 886.853/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024. AgRg no HC n. 801.806/SP, de minha Relatoria, Quinta Turma, julgado em 17/10/2023, DJe de 20/10/2023.
+Nessa linha:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. REITERAÇÃO DO MÉRITO. APREENSÃO DE PETRECHOS. NATUREZA E VARIEDADE DE DROGAS. INCABÍVEL A APLICAÇÃO DA MINORANTE DO ART. 33, §4º, DA LEI N. 11.343/06. SÚMULA N. 7, STJ. PRECEDENTES.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - A jurisprudência desta Corte orienta-se no sentido de que a apreensão de petrechos para o tráfico e entorpecentes em circunstâncias que indiquem a dedicação a atividades criminosas é apta a afastar a minorante do tráfico privilegiado. Precedentes.
+III - Não tendo apresentado argumentos aptos a alterar a compreensão anteriormente firmada, a manutenção da decisão agravada é medida que se impõe.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.337.688/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/9/2024, DJe de 17/9/2024.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. MINORANTE DO
+TRÁFICO PRIVILEGIADO. AFASTAMENTO. QUANTIDADE DE DROGA E PRESENÇA DE ELEMENTOS CONCRETOS ADICIONAIS. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO IMPROVIDO.
+1. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, "elementos tais quais petrechos e anotações típicos de tráfico, balança de precisão, ponto habitual de venda, forma de acondicionamento da droga, entre outros, somados à quantidade e à variedade de entorpecentes, são idôneos para afastar a benesse do tráfico privilegiado, pois indicam a dedicação do acusado a atividades ilícitas" (AgRg no AREsp n. 2.181.966/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/3/2023, DJe de 10/3/2023).
+2. Tendo as instâncias ordinárias afastado a minorante fundamentadamente, com base em elementos concretos extraídos dos autos, como a expressiva quantidade de droga apreendida na residência do réu, local utilizado como "ponto de armazenamento, venda e distribuição de drogas  ..  inclusive com relativa estabilidade geográfica e temporal, de forma sucessiva e constante", a pretendida revisão do julgado, com vistas à concessão da minorante, não se coaduna com a estreita via do writ.
+3. Agravo regimental improvido.
+(AgRg no AgRg no HC n. 810.786/PI, relator Ministro Og Fernandes, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+Dessa forma, para superar as conclusões alcançadas pelo Tribunal de origem, soberano na análise de fatos e provas, a fim de concluir que o recorrente não se dedica a atividades criminosas, seria necessário o revolvimento do caderno fático-probatório, o que não se admite na via do recurso especial. Aplico, assim, a Súmula n. 7, STJ, segundo a qual "a pretensão de simples reexame de prova não enseja o recurso especial".
+Nesse sentido: AgRg no AREsp n. 2.644.438/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/9/2024, DJe de 24/9/2024; AgRg no HC n. 936.858/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/9/2024, DJe de 19/9/2024; AgRg no HC n. 933.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; AgRg no AREsp n. 2.181.966/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/3/2023, DJe de 10/3/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
