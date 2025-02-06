@@ -1,0 +1,36 @@
+DECISÃO
+ANDREA CARREIRO KUBITSCHEK LOPES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 3ª Região que denegou a ordem no HC n. 5029913-53.2019.4.03.0000.
+Consta nos autos que a recorrente foi denunciada pela suposta prática do delito tipificado no art. 312 do Código Penal. O Juízo de primeiro grau rejeitou a alegação de incompetência da Justiça Federal para processar e julgar o feito.
+O Tribunal de origem, por sua vez, entendendo que a suposta apropriação recaiu sobre recursos públicos da União, provenientes de convênio firmado entre a OSCIP gerida pela acusada e o Ministério da Cultura, denegou a ordem no habeas corpus originário (fls. 102-113).
+Em suas razões, a defesa reitera o pedido de reconhecimento da incompetência absoluta do Juízo da 8ª Vara Federal Criminal da Seção Judiciária de São Paulo - SP para processar e julgar o feito.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 147-153).
+Decido.
+O cerne da controvérsia está em definir a competência para processar e julgar a recorrente, denunciada pela suposta prática do delito tipificado no art. 312 do Código Penal, porque haveria se apropriado, no período de dezembro de 2009 a junho de 2012, de recursos que detinha em razão de exercer o cargo de coordenadora administrativa da Organização da Sociedade Civil de Interesse Público, denominada Sociedade dos Amigos da Cinemateca, gerando prejuízo estimado em R$ 224.798,00.
+A Corte de origem, ao denegar a ordem, afirmou o seguinte (fls. 105-106):
+Em juízo de cognição sumária, o pedido de suspensão do andamento da ação penal foi indeferido, por inexistir flagrante ilegalidade ou abuso do poder na decisão impugnada, na medida em que a suposta apropriação constante da denúncia recaiu sobre recursos públicos da União, originários de convênio firmado entre a SAC e o Ministério da Cultura, sendo, por isso, inequívoca a competência da Justiça Federal para processar e julgar a ação penal, nos termos do art. 109, IV, da Constituição Federal.
+Ademais, consignou-se que a alegação de que "o prejuízo foi integralmente suportado pelo patrimônio líquido da SAC e não por recursos público " (ID 107264225),s não teria o condão de deslocar a competência para a Justiça Estadual, vez que tal fato não altera a origem de referidos recursos. A propósito:
+ ..
+Do parecer subscrito pela Procuradora Regional da República Elizabeth Mitiko Kobayashi (ID 108225688), destaco o seguinte trecho:
+Primeiramente, é importante destacar que a SAC é uma Organização da Sociedade Civil de Interesse Público (OSCIP), regida pela Lei nº 9.790/99 e pelos princípios da Administração Pública, como assim também determina seu estatuto social anexado pelos próprios impetrantes (id. 107265184, p. 1 e 2).
+Outrossim, as Organizações da Sociedade Civil de Interesse Público não integram a Administração Pública direta ou indireta, porém utilizam recursos públicos para suas atividades, mediante vínculos de cooperação com a máquina pública, tornando sua atividade típica e com o fim de realizar atividades de interesse coletivo. (..)
+Ademais, a existência de lesão aos cofres públicos da União é reforçada pelo envolvimento de valores originários dos projetos da Lei Rouanet, os chamados "Planos Anuais", devidamente comprovada nos autos, como bem salientou o M. M. Juízo na decisão ora questionada (cópia - Id. 107584877, p. 2) (..)
+De mais a mais, o fato de o prejuízo ter sido integralmente suportado pelo patrimônio da SAC não afeta a origem pública dos recursos aqui discutidos, que continuam sendo oriundos de parceria com a União, reforçando as próprias características de uma OSCIP, a sua razão de ser, como já explanado anteriormente. (..)
+Portanto, diante de todo o exposto, não há dúvidas sobre a competência da justiça federal para processar e julgar a Ação Penal nº 0001122-46.2019.4.03.6181, de modo que o presente Habeas Corpus não deve ser concedido.
+Posto isso, DENEGO A ORDEM de habeas corpus.
+Como se vê, o Tribunal de origem entendeu que há indícios de autoria e materialidade acerca da prática de crimes que envolvem verbas repassadas pela União, por meio do Ministério da Cultura, diretamente à OSCIP Sociedade dos Amigos da Cinemateca e concluiu pela competência da Justiça Federal.
+O entendimento externado pelo Tribunal a quo está em consonância com a jurisprudência desta Corte Superior, uma vez que os valores são oriundos de convênio entre o Ministério da Cultura e a referida OSCIP, inclusive com repasse de recursos oriundos da Lei Rouanet, a evidenciar o interesse da União no feito.
+Além disso, conforme ressaltou o ilustre representante do Ministério Público em seu parecer, "as verbas foram alvo de fiscalização inclusive de órgão de controle interno da União, a Controladoria-Geral da União" (fl. 152).
+Ilustrativamente:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CORRUPÇÃO PASSIVA. VERBAS ORIUNDAS DE CONVÊNIO ENTRE O MINISTÉRIO DAS CIDADES E O MUNICÍPIO DE BARRETOS/SP. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Incumbe à Justiça Federal processar e julgar as infrações penais praticadas em detrimento de bens, serviços ou interesse da União (art. 109, IV - CF), hipótese que em principio se faz presente, já que os recursos repassados se deram por convênio entre o Ministério das Cidades e o Município da Barretos/SP.
+2. O Tribunal de origem concluiu pela existência de indícios suficientes de autoria e materialidade acerca da prática de crimes envolvendo repasse de verbas federais sujeitas a fiscalização pelo Tribunal de Contas da União, devendo eventuais dúvidas ser dirimidas durante a instrução processual.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 141.991/SP, relator Ministro Olindo Menezes -Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 17/8/2021, DJe de 20/8/2021)
+CONFLITO DE COMPETÊNCIA. APURAÇÃO DE IRREGULARIDADES OCORRIDAS NO ÂMBITO DA ADMINISTRAÇÃO DO SENAI E DO INSTITUTO IEL. REPASSE INDEVIDO DE VERBAS PÚBLICAS PARA EMPRESAS TERCEIRIZADAS. NECESSIDADE DE PRESTAÇÃO DE CONTAS PERANTE ÓRGÃO FEDERAL (TCU). PROCEDIMENTO CONCOMITANTE INSTAURADO NO TCU PARA APURAÇÃO DOS FATOS. SÚMULA 208/STJ. INEXISTÊNCIA DE CONFLITO COM A SÚMULA 516/STF. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A Súmula 516/STF tem incidência em causas cíveis e, excepcionalmente, penais, desde que não envolva recursos públicos repassados pela União, suas autarquias ou empresas públicas, nem sujeitos ao controle do Tribunal de Contas da União, hipótese que atrai a aplicação da Súmula 208/STJ.
+2. Se os elementos fáticos apresentados nos autos atestam que os delitos em apuração envolvem a sujeição de verbas - mais de R$ 13.000.000,00 - desviadas ao controle e fiscalização do TCU- circunstância corroborada pela instauração de procedimento administrativo no âmbito daquele próprio órgão -, não é possível excluir o interesse da União no feito neste momento.
+3. Conflito conhecido para declarar a competência do Juízo Federal da 15ª Vara Criminal da Seção Judiciária do Distrito Federal, o suscitado.
+(CC n. 174.672/DF, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 10/2/2021, DJe de 12/2/2021)
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
+EMENTA
