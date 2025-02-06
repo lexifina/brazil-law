@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, embargos de declaração opostos por FERNANDO CESAR NEVES e OUTROS contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, haja vista a ausência de omissão no acórdão recorrido, bem como a incidência do óbice da Súmula 7/STJ (fls. 969-974).
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, quanto à coisa julgada, uma vez que "assinalou genericamente que a alteração da conclusão do Tribunal de origem ensejaria o reexame da matéria fático-probatória dos autos, prática vedada pela Súmula n.º 7/STJ" (fls. 980-981).
+Nesse sentido, argumenta que "não se pretende a reanálise de provas, mas tão somente o reenquadramento jurídico dos fatos devidamente consignados no acórdão recorrido, emprestando-lhe a correta consequência jurídica, tratando o caso, portanto, de quaestio juris e não de quaestio facti" (fl. 981).
+Impugnação da parte embargada pela rejeição rejeição dos embargos (fls. 996-998).
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada transcreveu trechos do acórdão recorrido no sentido de que "os agravados, à época da propositura da ação, não eram representados pelo autor da ação coletiva, vale dizer, pelo SINDIRETA" (fl. 971), e consignou que "a alteração da conclusão do Tribunal ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ" (fl. 972), colacionando precedentes desta Corte.
+A própria parte embargante aduz ter sido "afastada a legitimidade ativa dos Embargantes, policiais civis do DF e, portanto, servidores públicos do Distrito Federal, de executarem título judicial obtido pelo SINDIRETA/DF, que atuou representando, de forma geral, os direitos e interesses de todos os servidores públicos civis da Administrac ão Direta do Distrito Federal" (fl. 981) e argumenta serem legitimados para executar o título formado.
+Patente que para verificação da (i)legitimidade para a propositura do cumprimento de sentença, como consta da decisão embargada, incidiria o óbice da Súmula 7 deste STJ, porque imprescindível a análise da categoria a que pertencem e do sindicato a que estejam vinculados os embargantes.
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
