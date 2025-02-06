@@ -1,0 +1,18 @@
+DECISÃO
+O presente writ, impetrado em benefício de LUCAS HENRIQUE CAMPANA - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 1500525-73.2022.8.26.0603) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500525-73.2022.8.26.0603), comporta parcial acolhimento.
+Com efeito, busca a impetração a absolvição do paciente, ao argumento de nulidade da prisão em flagrante, em razão da busca domiciliar efetivada sem fundada suspeita. Subsidiariamente, pede a revisão da dosimetria.
+Inicialmente, tem-se que, além de se tratar de writ utilizado como espécie de segunda revisão criminal, o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, tendo a Corte estadual decidido em conformidade com a jurisprudência deste STJ.
+A Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial (HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+No caso dos autos, o Tribunal a quo, ao afastar a alegação de violação de domicílio, considerou que os PMs Paulo e Alexsander receberam informação de que na residência do apelante ocorria discussão e alguém portava arma de fogo. A fim de se evitar consequências mais graves, encetaram diligências. No local, cujo ingresso foi franqueado pelo genitor do apelante, localizaram o artefato, municiado, escondido no beiral da casa (fl. 32 - grifo nosso ).
+Assim, evidenciado que a entrada no imóvel foi franqueada pelo genitor do paciente, não há falar em violação ao domicílio.
+Por outro lado, em que pese a dosimetria da pena não se vincular a um critério puramente matemático, devendo ser respeitada a discricionariedade regrada do julgador, mostra-se pertinente o ajuste na reprimenda. No caso, a fundamentação utilizada pelo sentenciante para exasperar a pena-base base não foi adequada, vez que o fato de estar a arma de fogo municiada com seis cartuchos (fl. 222) sequer extrapola o tipo penal, deixando de constituir fundamento idôneo para o acréscimo.
+Redimensionando-se a reprimenda imposta, temos: afastado o fundamento que exasperou a pena-base, parte-se de 1 ano de detenção e 10 dias-multa. Na segunda fase, realizada a compensação da agravante da reincidência com a atenuante da confissão, a pena se mantém incólume. Por fim, ausentes causas de aumento ou de diminuição da pena, fixo a reprimenda final em 1 ano de detenção e o pagamento de 10 dias-multa.
+O regime inicial semiaberto fica mantido devido à reincidência.
+Em face do exposto, concedo parcialmente a ordem para redimensionar a pena imposta em 1 ano de detenção, em regime semiaberto, e o pagamento de 10 dias-multa.
+Comunique-se com urgência.
+Encaminhe-se ofício ao Supremo Tribunal Federal, dando notícia desta decisão e com a chave de acesso ao processo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. INGRESSO FRANQUEADO PELO GENITOR. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. ARMA MUNICIADA. FUNDAMENTAÇÃO INIDÔNEA. NECESSIDADE DE REAJUSTAR A REPRIMENDA. CONSTRANGIMENTO ILEGAL PARCIALMENTE VERIFICADO.
+Ordem parcialmente concedida, nos termos do dispositivo.
