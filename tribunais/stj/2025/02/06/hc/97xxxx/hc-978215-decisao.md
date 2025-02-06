@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Renato Bomfim Neves Junior contra o ato coator proferido pela Décima Segunda Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos do HC n. 2002529-84.2025.8.26.0000, denegou a ordem, mantendo a determinação de realização de exame criminológico (Execução n. 0007180-84.2021.8.26.0502, DEECRIM 4ª RAJ - Campinas/SP).
+A defesa alega, em síntese, que ao analisar pedido de progressão ao regime aberto, determinou a realização de exame criminológico, fundamentando-se na gravidade abstrata do crime e na quantidade da pena. Alega que tal decisão contraria o disposto no art. 93, IX, da Constituição Federal e a jurisprudência consolidada do Superior Tribunal de Justiça, que exige fundamentação concreta para a realização do exame criminológico, não bastando a gravidade abstrata do delito ou a longevidade da pena.
+Sustenta que a decisão impugnada representa flagrante ilegalidade, uma vez que não foram apontados elementos concretos ocorridos durante a execução da pena que justifiquem a necessidade do exame criminológico. Argumenta que a jurisprudência do STJ e do STF não admite a realização do exame com base apenas na gravidade abstrata dos delitos ou na longa pena a cumprir, conforme precedentes citados.
+Requer, liminarmente e no mérito, a concessão da ordem para deferir ao paciente a progressão ao regime aberto e/ou, ao menos, afastar a realização do exame criminológico (fls. 2/8).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+O Tribunal local denegou a ordem aos seguintes fundamentos (fl. 15):
+No caso, a gravidade dos crimes praticados pelo paciente, consistente em um homicídio qualificado consumado e duas tentativas de homicídio qualificado crimes contra a vida , evidencia a necessidade de uma avaliação aprofundada de sua personalidade antes da concessão do benefício almejado, justificando a necessidade do exame criminológico.
+Assim, com desejável prudência, o d. magistrado a quo reputou pela conveniência de ser o sentenciado submetido à realização de exame criminológico, objetivando assim, melhor instruir o pedido de promoção a regime prisional mais brando, garantindo a preservação da segurança jurídica.
+Com efeito, tal perícia fornece elementos importantes, não só para a formação da convicção do Juízo da Execução em sua decisão, como também para uma meticulosa análise subjetiva e cautelosa na avaliação de concessão de benefícios executórios daqueles que cumprem pena.
+A Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, DJe de 23/8/2024, decidiu que a exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+Ademais, esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+No entanto, nem a gravidade abstrata dos crimes cometidos, nem a longa pena a cumprir, ou ainda a reincidência, são fatores que indicam a necessidade da perícia, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021; e HC n. 436.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2018.
+É nítida a existência de ilegalidade na espécie, a ponto de justificar a concessão da ordem imediatamente.
+Ante o exposto, concedo liminarmente a ordem, a fim de cassar a decisão do Juízo da execução no ponto concernente à exigência de exame criminológico e determinar a análise do pedido de progressão de regime do paciente (PEC n. 0007180-84.2021.8.26.0502, DEECRIM 4ª RAJ - Campinas/SP).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS CRIMES PELOS QUAIS O APENADO CUMPRE PENA E LONGA PENA A ADIMPLIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
