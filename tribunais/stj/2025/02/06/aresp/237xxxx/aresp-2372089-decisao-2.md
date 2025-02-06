@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por EVANUEL MORENO DA SILVA contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRAN DE DO NORTE.
+Consta nos autos que o Agravante foi condenado a 11 (onze) anos, 10 (dez) meses e 10 (dez) dias de reclusão e 1185 (mil, cento e oitenta e cinco) dias-multa, pela imputação do delito do art. 33, caput, c.c. o art. 40, inciso III, ambos da Lei n. 11.343/2006, em continuidade delitiva (fls. 1232-1233); e a 4 (quatro) anos, 2 (dois) meses e 22 (vinte e dois) dias de reclusão e 61 (sessenta e um) dias-multa, pelo crime do art. 2º da Lei n. 12.850/2013 (fls. 1233-1234). Reconhecido o concurso material de crimes, as punições finais ficaram sedimentadas em 16 (dezesseis) anos, 1 (um) mês e 2 (dois) dois dias de reclusão, em regime fechado, e 1246 (mil duzentos e quarenta e seis) dias-multa (fls. 1234-1235).
+O Tribunal de justiça de origem deu parcial provimento à apelação defensiva para decotar a negativação das vetoriais culpabilidade e conduta social, redimensionando as penas do crime de tráfico de drogas aos montantes de 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e 800 (oitocentos) dias-multa; e mantido o reconhecimento do concurso material de crimes, as reprimendas finais ficaram sedimentadas em 12 (doze) anos, 4 (quatro) meses e 20 (vinte) dias de reclusão, em regime fechado, e 813 (oitocentos e treze) dias-multa (fls. 3283-3284).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, a defesa aponta violação ao art. 71 do Código Penal (fls. 3390).
+Aduz, em suma, insegurança jurídica em razão de a Corte de justiça de origem não ter aplicado a este feito o mesmo entendimento declinado nos autos do processo n. 0101628-88.2015.8.20.0126 (originado do desmembramento do processo relativo à mesma operação que deu ensejo a este feito), relativo à impossibilidade de aplicação da continuidade delitiva ao delito de tráfico de drogas em razão da sua natureza de crime permanente (fls. 3392-3394).
+Assevera, ainda em relação à continuidade delitiva, que as instâncias ordinárias não lograram demonstrar a pluralidade de condutas e não justificaram a aplicação da fração máxima (fls. 3394).
+Apresentadas as contrarrazões (fls. 3554-3570), sobreveio juízo negativo de admissibilidade (fls. 3602-3604).
+A Defesa interpôs agravo (fls. 3644-3658).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 3703-3705).
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar o fundamento da decisão de inadmissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+As controvérsias trazidas ao conhecimento e análise desta Corte dizem respeito à insegurança jurídica em razão de a Corte de justiça de origem não ter aplicado a este feito o mesmo entendimento declinado nos autos do processo n. 0101628-88.2015.8.20.0126 (originado do desmembramento do processo relativo à mesma operação que deu ensejo a este feito), relativo à impossibilidade de aplicação da continuidade delitiva ao delito de tráfico de drogas em razão da sua natureza de crime permanente (fls. 3392-3394); e à ausência de demonstração da pluralidade de condutas pelas instâncias ordinárias e a falta de justificativa para aplicação da fração máxima na continuidade delitiva (fls. 3394).
+Essas teses defensivas não foram objeto de apreciação explícita e precisa pela Corte de justiça de origem e não foram opostos os indispensáveis embargos de declaração no intuito de levá-la a fazê-lo.
+Dessa forma, à míngua do pronunciamento do Tribunal de justiça de origem a respeito delas, o óbice encerrado nas Súmulas n. 282 e 356, STF apresenta-se insuperável ao conhecimento do apelo nobre nesse ponto.
+No sentido dessa orientação:
+" ..
+1. As teses de ausência de elemento subjetivo do tipo, condenação baseada apenas em elementos colhidos no inquérito policial, em testemunhos indiretos e na palavra da vítima, não foram analisadas pelo Tribunal de origem, pois referidas matérias foram levantadas de forma inovadora no recurso especial e sequer foram opostos embargos de declaração. Incidência das Súmulas n. 282 e 356/STF.
+ ..
+6. Agravo regimental não provido." (AgRg no AREsp n. 2.745.433/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 10/12/2024, DJe de 16/12/2024.).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do 253, parágrafo único, inciso II, alínea a, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
