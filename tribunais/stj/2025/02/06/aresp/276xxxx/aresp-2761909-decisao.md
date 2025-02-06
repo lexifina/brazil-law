@@ -1,0 +1,18 @@
+DECISÃO
+A  controvérsia  se  encontra  bem  delimitada  pelo  parecer  ministerial,  in  verbis:
+Trata-se  de  agravo  contra  a  decisão  do  Vice-Presidente  do  Tribunal  de  Justiça  de  Alagoas,  que  não  admitiu  o  recurso  especial  interposto  em  face  de  julgado  do  Tribunal  Pleno,  no  Agravo  Interno  Criminal  nº  0807217-30.2023.8.02.0000.
+Consta  dos  autos  que,  em  07/04/2021,  Jorge  Henrique  Guimarães  e  José  Benedito  Belo  Neto  subtraíram,  mediante  grave  ameaça  exercida  com  o  emprego  de  arma  de  fogo,  uma  motocicleta  Honda  CG  150  FAN  ESI,  placa  NMK3D54,  ano/modelo  2011/2011,  de  propriedade  de  Gabriel  Farias  Lopes  da  Silva.
+Jorge  Henrique  Guimarães  foi  condenado  pela  prática  do  crime  previsto  no  artigo  157,  §2º,  II,  e  §  2º-A,  I,  do  Código  Penal  às  penas  de  13  (treze)  anos,  09  (nove)  meses  e  16  (dezesseis)  dias  de  reclusão,  em  regime  inicial  fechado,  e  de  pagamento  de  360  (trezentos  e  sessenta)  dias-multa.
+A  condenação  transitou  em  julgado  (fls.  08/39).  A  defesa  interpôs  revisão  criminal  perante  o  TJAL  que,  por  decisão  monocrática  do  Desembargador  relator,  foi  extinta  sem  resolução  do  mérito  diante  da  ausência  das  condições  da  ação  (fls.  57/63).  Interposto  agravo  regimental,  o  TJAL  negou  provimento,  nos  termos  da  seguinte  ementa  (fl.  155):
+AGRAVO  INTERNO  EM  REVISÃO  CRIMINAL.  PENAL  E  PROCESSO  PENAL.  ALEGAÇÃO  DE  PREMISSA  EQUIVOCADA.  NÃO  OCORRÊNCIA.  REVISÃO  CRIMINAL  QUE  ABORDA  AS  MESMAS  TESES  ANTERIORMENTE  APRESENTADAS  EM  SEDE  DE  APELAÇÃO.  REMÉDIO  CONSTITUCIONAL  UTILIZADO  COMO  SEGUNDA  APELAÇÃO.  IMPOSSIBILIDADE.  EXTINÇÃO  DO  FEITO  SEM  RESOLUÇÃO  DO  MÉRITO  QUE  SE  IMPÕE.  DECISÃO  MANTIDA.  RECURSO  CONHECIDO  E  NÃO  PROVIDO.
+No  recurso  especial,  interposto  com  fundamento  no  artigo  105,  III,  "a",  da  CF,  a  defesa  alega  violação  ao  artigo  621,  I,  §3º,  do  CPP  e  ao  artigo  65,  III,  "d",  do  CP  (fls.  172/179).
+O  recurso  especial  foi  inadmitido  por  aplicação  da  Súmula  7/STJ  (fls.  194/196).
+Adveio  então  o  presente  agravo  (fls.  201/207).
+
+Opinou  o  Parquet  Federal,  então,  pelo  conhecimento  do  agravo  para  prover  o  recurso  especial.
+É  o  relatório.  Decido.
+Em  que  pese  a defesa,  no  presente  recurso,  apresentar  insurgência  contra  acórdão  proferido  em  agravo  interno  na  revisão  criminal,  depreende-se  dos  autos  que  o  presente  recurso  é  mera  reiteração  do  pedido  apresentado  no  HC  n.  767.583/AL,  de  relatoria  da  Ministra  Laurita  Vaz,  no  qual  proferiu  decisão  concedendo  a  ordem,  de  ofício,  para  reconhecer  a  atenuante  da  confissão  , que  ora  é  novamente  pleiteada.
+No  mencionado  writ,  em  decisão  datada  de  21/6/2023  e  transitada  em  julgado,  afirmou  a  Ministra  : "NÃO  CONHEÇO  do  pedido,  porém  CONCEDO  a  ordem  de  habeas  corpus,  de  ofício,  para  reconhecer  a  incidência  da  atenuante  da  confissão,  compensá-la  com  a  reincidência  e  redimensionar  as  penas  aplicadas  ao  Paciente  na  Ação  Penal  n.  0700978-96.2021.8.02.0056,  nos  termos  acima  explicitados,  mantidos  os  demais  termos  da  condenação."  (Grifei.)
+Ante  o  exposto,  diante  da  constatação  de  que  o  presente  recurso  é  mera  reiteração  de  pedido  já  analisado  (e  deferido)  por  este  Sodalício,  indefiro  liminarmente  a  petição  inicial,  com  fulcro  no  art.  210  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+Publique-se.  Intimem-se.
+EMENTA
