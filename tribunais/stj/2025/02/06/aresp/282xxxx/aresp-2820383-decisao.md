@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por ITAU UNIBANCO S.A. e BANCO ITAUCARD S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 764):
+APELAÇÃO. AÇÃO DE REGRESSO. PARTE AUTORA ANTERIORMENTE CONDENADA A RESSARCIR VALORES GASTOS COM CARTÃO DE CRÉDITO DE CLIENTE, VÍTIMA DO "GOLPE DA TROCA DE CARTÃO". IMPROCEDÊNCIA.
+1. OBJETO RECURSAL: Alegação de falha na prestação de serviços da PAGSEGURO, que teria se beneficiado com as transações outrora questionadas.
+2. NULIDADE DE SENTENÇA: Não configurada. Inocorrência de afronta ao §1º, do art. 489, do CPC/15. Fundamentação adequada. Caso em que o julgamento antecipado não afronta a ampla defesa, porquanto desnecessárias a produção de outras provas.
+3. CASO CONCRETO: Elementos fáticos e probatórios que não demonstram ter a ré contribuído para a propalada fraude, inexistindo nexo causal entre o ilícito praticado por fraudador e eventual conduta da ré, que somente intermediou a operação fornecendo o serviço de máquina de cartão de crédito.
+4. RECURSO NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 830-837).
+No recurso especial, os recorrentes alegam, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduzem, no mérito, que o acórdão contrariou as disposições contidas nos arts. 14 e 18 do CDC; 927, parágrafo único, do CC; 10, incisos I e V, da Lei n. 9.613/98; 7º, caput, inciso V, da Lei n. 12.865/13; e 373, inciso II, e 374 do CPC.
+Sustentam, em síntese, que "O Tribunal Local, deixou de considerar que a Recorrida é integrante da cadeia de fornecimento dos serviços de pagamento via cartão de crédito. Entretanto, como buscou a parte Recorrente demonstrar, tal compreensão está equivocada. Diferente do que consignou o E. TJSP, é inequívoca a responsabilidade solidária e objetiva da credenciadora/adquirente (a Recorrida), enquanto integrante da cadeia de fornecimento dos serviços de pagamento via cartão de crédito, na forma dos arts. 14 e 18 do CDC" (fl. 848).
+Alegam, ainda, que, "diante da evidente falha no credenciamento do estabelecimento comercial (vendedores que adquirem as maquininhas de cartão) e consequentemente da inobservância por parte da Recorrida de todas as normas reguladoras sobre a prevenção de fraudes, ao deixar de conhecer melhor os seus credenciados, inequívoca sua responsabilidade pelo risco do negócio, diante da caracterização da falha na segurança de seu sistema. Isso porque, ao não se desincumbir de seu ônus, coloca em risco os demais entes envolvidos, devendo responder pelos prejuízos suportados por sua omissão no dever de vigilância" (fl. 850).
+Foram oferecidas contrarrazões ao recurso especial (fls. 864-885).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 888-890), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 909-925).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, afasto a alegação de negativa de prestação jurisdicional e de ausência de fundamentação.
+No mérito, o Tribunal de origem, ao analisar a controvérsia, concluiu que os elementos fáticos e probatórios dos autos não demonstram ter a recorrida/ré contribuído para a fraude, inexistindo nexo causal entre o ilícito praticado por fraudador e eventual conduta da ré, que somente intermediou a operação fornecendo o serviço de máquina de cartão de crédito. É o que se extrai do seguinte trecho do acórdão recorrido (fls. 768-769):
+No entanto, in casu, não há nexo causal entre o ilícito praticado por fraudador e a conduta da ré, que se limitou a intermediar a operação fornecendo o serviço de máquina de cartão de crédito.
+Aliás, diversamente do quanto afirmado pelas recorrentes, a causa de pedir da demanda acima indicada consistia no chamado "golpe da troca de cartão", do qual a cliente da parte autora fora vítima, tendo sido reconhecida a responsabilidade do banco em razão da concretização de operação claramente suspeita, já que realizada de madrugada, em valor elevado, fora do perfil habitual da vítima, tanto que, logo depois de tal transação, o banco bloqueou o cartão da consumidora (vide cópias de fls. 35, 285, 397).
+Veja-se que, além de o fato de a compra questionada estar descrita com a sigla "PAG" não se mostrar suficiente para concluir que o apelado se beneficiou com a operação, uma vez que tal valor é repassado ao seu cliente, é certo que não há como se entender que a parte requerida deveria ser responsabilizada por descumprir normas voltadas à prevenção de fraudes, seja porque inexistem evidências nesse sentido, seja por tal questão não autoriza o reconhecimento da sua responsabilidade perante a instituição financeira emissora do cartão.
+A respeito, reitere-se: a apresentação dos documentos apresentados pelos usuários das maquininhas, bem como de relatórios e extratos das respectivas contas não alterariam tal panorama, na medida em que não seriam aptos a demonstrar o conluio da PagSeguro com terceiros fraudadores ou eventual falha em seu serviço.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA DE RESSARCIMENTO. CONTRATO DE SEGURO. IMPUTAÇÃO DE RESPONSABILIDADE CIVIL AO AGRAVADO. LAUDO PERICIAL E CERTIDÃO DE OCORRÊNCIA CONCLUSIVOS PELA IMPOSSIBILIDADE DE CONSTATAÇÃO DA CAUSA DO INCÊNDIO. AUSÊNCIA DE NEXO DE CAUSALIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem, com fundamento no conjunto probatório dos autos, afastou o dever de indenizar, pois não ficou comprovada a responsabilidade da agravada pela ocorrência do sinistro. Na hipótese, o acolhimento da pretensão recursal atrai o óbice da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.021.818/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/3/2017, DJe de 20/3/2017.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para R$ 2.000,00.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. AÇÃO DE REGRESSO. GOLPE DA TROCA DE CARTÃO. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
