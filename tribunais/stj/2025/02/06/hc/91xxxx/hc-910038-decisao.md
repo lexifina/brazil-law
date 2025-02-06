@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de ESTEVAO EUFRASIO DA ROSA DE MOURA - condenado como incurso no crime de posse ilegal de arma de fogo de uso restrito -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal n. 5032531-69.2022.8.21.0019), não comporta acolhimento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 2ª Vara Criminal da comarca de Novo Hamburgo/RS, ao argumento da ausência de materialidade, pois não havia investigações preliminares oficiais obtidas por inteligência policial, mas somente uma denúncia anônima. Á vista disso, em havendo dúvidas acerca da fundada razão para abordagem domiciliar, esta deve militar em favor do paciente (fl. 6).
+Ocorre que, além de se tratar de writ utilizado como espécie de segunda revisão criminal, o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois o Magistrado singular, em conformidade com a jurisprudência do STJ, destacou que, em que pese o réu tenha relatado que ficou com medo de que os policiais quebrassem a casa de sua filha devido a um episódio anterior, não houve, no caso em análise, qualquer menção de ameaça ou tentativa de coação por parte dos brigadianos. Certo é que o réu, ao ser identificado e constatada sua condição de foragido, autorizou o ingresso dos policiais, inclusive apontando o local onde guardava a arma de fogo apreendida (fl. 97 - grifo nosso).
+Ademais, desconstituir as conclusões obtidas pelas instâncias ordinárias demandaria indesejável revolvimento de fatos e provas, providência incompatível com a via estreita do habeas corpus.
+Por fim, cabe à defesa, em observância ao princípio da cooperação, aplicável não só na seara cível, mas, no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pen a de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Ante o exposto, denego a ordem de habeas corpus.
+Publi que-se.
+EMENTA
+HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT UTILIZADO COMO SEGUNDA REVISÃO CRIMINAL. INADMISSIBILIDADE. NULIDADE. BUSCA DOMICILIAR. ENTRADA FRANQUEADA PELO PACIENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
