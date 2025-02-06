@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDGAR FERNANDES DE BARROS apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2145924-71.2024.8.26.0000).
+Infere-se dos autos que o paciente encontra-se preso preventivamente, desde o dia 14/9/2023, pela suposta prática do delito previsto no art. 155, § 4º, inciso III, do Código Penal.
+Impetrado habeas corpus na origem, o Tribunal a quo denegou a ordem (e-STJ fls. 17/21), sem ementa.
+Em suas razões, a defesa alega excesso de prazo para a formação da culpa, porquanto, na audiência de instrução, "a acusação ainda veio a requerer a expedição de ofício à autoridade policial, cobrando a vinda do laudo pericial referente aos danos no veículo da vítima, e, desde então, os autos encontram-se estáticos, inertes" (e-STJ fl. 4).
+Sustenta, ainda, ausência dos requisitos da prisão preventiva.
+Afirma que o acusado possui condições pessoais favoráveis, sendo possível a substituição do cárcere por medidas cautelares diversas.
+Requer, liminarmente e no mérito, a concessão da ordem e a expedição de alvará de soltura, fixando-se medidas cautelares diversas, previstas no art. 319 do CPP.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+De início, como já consignado na decisão liminar, a legalidade dos fundamentos que justificaram a prisão preventiva do paciente já foi afirmada por este relator no julgamento do HC n. 887.063/SP, em que foi denegada a ordem, em decisão monocrática, publicada no dia 5/8/2024.
+Desse modo, inviável nova análise da matéria, na medida em que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido  .. " (AgRg no HC n. 584.120/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/8/2020, DJe 13/8/2020).
+Acerca do alegado excesso de prazo para a formação da culpa, em consulta ao andamento eletrônico da Ação Penal n. 1504054-82.2023.8.26.0533, constata-se que foi proferida sentença, em 14/12/2024, julgando procedente a acusação nos moldes da parte dispositiva que passo a transcrever, in verbis:
+Ante o exposto e diante de tudo o mais que dos autos consta, JULGO PROCEDENTE a presente ação penal e CONDENO David César Fernandes Guimarães a pena de três anos e seis meses de reclusão e quinze dias-multa, regime inicial fechado, Edgar Fernandes de Barros, a pena de três anos de reclusão e dez dias-multa, regime inicial semiaberto, e Giovanne Favaro, a pena de quatro anos e um mês de reclusão e dezoito dias-multa, regime inicial fechado, sendo que todas as penas de multa em sua fração mínima legal, dando-os como incursos no art. 155, § 4º, incisos III e IV, do Código Penal. A respeito da detração da pena, para fixação do regime inicial de cumprimento da pena, são desconhecidos os demais critérios previstos no art. 111 da Lei de Execuções Penais para sua concessão, não havendo como considerá-la para fixação do regime inicial de cumprimento de pena dos réus. Recomendem-se os réus na prisão em que se encontram, pois, mantidos e confirmados os elementos cautelares de autoria e materialidade, bem como o risco à ordem pública.
+Superada, pois, a alegação de excesso de prazo para a formação da culpa.
+No mais, esta Corte Superior já consolidou entendimento de que a custódia cautelar é compatível com o regime semiaberto, bastando para tanto a adequação de ambos. Assim, expedida guia de recolhimento provisória com adequação da segregação cautelar ao regime fixado na sentença, não há ilegalidade a ser sanada. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. MANUTENÇÃO NA SENTENÇA. COMPATIBILIDADE COM O REGIME SEMIABERTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A fixação do regime inicial semiaberto não é suficiente, por si só, para ensejar a revogação da prisão preventiva, a qual pode ser compatibilizada com o modo intermediário de cumprimento de pena.
+2. "A insurgência acerca da incompatibilidade do regime imposto na condenação e o cumprimento da prisão preventiva deve ser sanada após a expedição de guia de execução provisória da pena, pelo Juízo das Execuções" (AgRg no RHC n. 167.060/SC, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 21/10/2022).
+3. O Juízo de primeira instância, ao condenar o réu a 4 anos, 4 meses e 15 dias de reclusão, em regime inicial semiaberto, indeferiu-lhe o direito de recorrer em liberdade. O Tribunal de origem, a seu turno, determinou a compatibilização da custódia cautelar do acusado com o modo de cumprimento de pena fixado na sentença, o que afasta o alegado constrangimento ilegal. A discussão sobre as condições concretas do estabelecimento prisional deve ser levada ao Juízo da Vara de Execuções Penais.
+4. Não há comprovação de que a defesa haja pleiteado benefícios executórios atinentes ao regime intermediário, tais como saída temporária e trabalho externo, tampouco que eles foram negados ao ora agravante.
+5. Agravo regimental não provido.
+(AgRg no HC n. 867.635/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+Ante o exposto, denego o habeas corpus, mas concedo a ordem de ofício, tão somente para determinar que a prisão preventiva do paciente seja compatibilizada com o regime semiaberto, caso ainda não tenha sido feita tal adequação.
+Publique-se. Intimem-se.
+EMENTA
