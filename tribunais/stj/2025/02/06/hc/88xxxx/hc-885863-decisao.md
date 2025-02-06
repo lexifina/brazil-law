@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS ALBERTO DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado:
+"PENAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. QUALIFICADORA DO RECURSO QUE DIFICULTOU A DEFESA DO OFENDIDO (ARTIGO 121, INCISO IV, DO CÓDIGO PENAL). PEDIDO PARA INCLUSÃO. ACOLHIMENTO.
+1. Como é cediço, para a decisão de pronúncia, suficientes a certeza a respeito da existência do crime e a presença de indícios da autoria imputada ao réu (artigo 413 do Código de Processo Penal). Destaque-se que a decisão de pronúncia constitui juízo fundado de suspeita, significando que a acusação é admissível, ao contrário do juízo de certeza, que se exige para a condenação. Para a pronúncia, prevalece a regra in dubio pro societate, não se aplicando o provérbio in dubio pro reo. Eventuais dúvidas quanto à prova são resolvidas em favor da sociedade, vale dizer, cabe ao Tribunal do Júri decidir a respeito.
+2. O afastamento das circunstâncias qualificadoras, na primeira fase do procedimento dos crimes afetos ao Tribunal do Júri, só se mostra viável quando manifestamente improcedentes, ou totalmente divorciadas do contexto fático-probatório.
+3. Recurso conhecido e provido."
+Requer a defesa a concessão da ordem "para excluir da pronúncia de CARLOS ALBERTO SILVA, a qualificadora prevista no artigo 121, § 2º, incisos IV, do Código Penal" (e-STJ fls. 3-19).
+A liminar foi indeferida (e-STJ fls. 332-333).
+As informações foram prestadas (e-STJ fls. 343-461).
+O Ministério Público Federal manifestou-se "pelo não conhecimento do writ" (e-STJ fls. 463-468).
+É o relatório.
+Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus.
+O entendimento adotado pelo Tribunal de origem não destoa da jurisprudência firmada no âmbito deste Superior Tribunal de Justiça, que entende que "em respeito ao princípio do juiz natural, somente é cabível a exclusão das qualificadoras na decisão de pronúncia quando manifestamente descabidas, porquanto a decisão acerca da sua caracterização ou não deve ficar a cargo do Conselho de Sentença" (REsp n. 1.742.172/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/12/2018, DJe de 1/2/2019).
+Nessa toada, "a decisão agravada, ao manter a pronúncia, está em conformidade com o entendimento consolidado desta Corte sobre a competência do Tribunal do Júri e a exclusão de qualificadoras, sendo desnecessária sua reconsideração" (AgRg no AREsp n. 2.458.578/MA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 30/9/2024, DJe de 2/10/2024).
+Ademais, esta Corte é firme no sentido de que "o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, exige, em razão de seu caráter urgente, prova pré-constituída das alegações, não comportando dilação probatória" (AgRg no HC n. 699.251/DF, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 22/2/2022, DJe de 24/2/2022, g.n. ). Dessa forma, "não sendo hipótese de ilegalidade ou de abuso de poder, é incabível habeas corpus de ofício" (AgInt no HC n. 736.186/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
