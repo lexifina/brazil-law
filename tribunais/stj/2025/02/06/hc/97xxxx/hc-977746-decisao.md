@@ -1,0 +1,10 @@
+DECISÃO
+ROGERIO RODRIGUES FRANCA alega sofrer coação ilegal em razão de acórdão proferido na Apelação n. 0038368-51.2015.8.19.0001, pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Narra o paciente que, "mesmo antes de ser denunciado, firmou, com o Ministério Público Estadual, o acordo de colaboração premiada" (fl. 3). Entretanto, ele não foi beneficiado com o "prêmio máximo" do perdão judicial. Aduz que a instância ordinária "ignorou o acordo firmado" (fl. 4) e busca a extinção de sua punibilidade, pois a colaboração foi efetiva.
+Decido.
+Quanto ao perdão judicial, está caracterizada a indevida reiteração do pedido. Conforme o registro feito no HC n. 501.165/RJ, a pretensão já foi analisada no AResp n. 1.817.637/RJ.
+Também no recurso especial, a defesa apontou ser direito subjetivo do colaborador premiado receber o perdão judicial. Essa pretensão foi enfrentada e afastada no âmbito desta Corte, porque a sentença condenatória, no que foi chancelada pelo acórdão do Tribunal de Justiça, salientou, em relação ao embargante, a impossibilidade de conceder o perdão judicial, porque "verificou-se, no interrogatório, que o Réu buscou atenuar sua culpabilidade, objetivando a absolvição em alguns delitos ou a desclassificação daqueles mais graves"" (AREsp n. 1817637/RJ), fl. 16.448). Assim, não foi reconhecida a eficácia plena do acordo e constou do julgado motivação judicial para indeferir o prêmio máximo. Para alterar essa conclusão e reconhecer a relevância total da colaboração do recorrente, seria necessário o reexame de fatos e provas, providência incompatível no recurso especial (Súmula n. 7 do STJ) e também no habeas corpus.
+A matéria já foi decidida neste âmbito superior e "a presente impetração constitui mera reiteração do pedido formulado no AREsp  .. , já apreciado por esse Sodalício  .. , o que constitui óbice ao seu conhecimento. Precedentes" (AgRg no HC n. 850.411/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/4/2024, DJe de 19/4/2024).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
