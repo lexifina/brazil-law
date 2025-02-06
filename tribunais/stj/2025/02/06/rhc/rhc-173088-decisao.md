@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JOSÉ DALVANI NUNES RODRIGUES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5167530-65.2022.8.21.7000/RS).
+No habeas corpus, os impetrantes alegam, em suma, que não existe justa causa para a ação penal oferecida contra o paciente pela prática dos crimes do artigo 121, §2º, incisos I (motivo torpe), III (meio cruel) e IV (emprego que dificultou a defesa da vítima), e §4º, inciso II (menor de 14 (catorze) anos), do artigo 211 (ocultação de cadáver), e artigo 148, §1º inciso IV e §2º (cárcere privado), todos do Código Penal, contra LAISA MANGANELI REMEDIOS, de apenas 12 anos de idade.
+Registram que toda a investigação está fundamentada unicamente na colaboração premiada firmada entre a Polícia Civil do Rio Grande do Sul e Douglas Gonçalves Romano.
+Aduzem que as declarações prestadas pelo colaborador na fase de investigação não foram corroboradas por qualquer outro elemento de prova, o que afasta a justa causa para a ação penal e exige o seu trancamento.
+A Corte estadual denegou o habeas corpus impetrado, nos termos de acórdão assim ementado (e-STJ fl. 2548-2554):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO E MAJORADO. TRANCAMENTO DA AÇÃO PENAL. NULIDADE DA PROVA.
+1. O trancamento da ação somente é possível quando o fato for atípico ou quando a inocência do increpado resultar inconteste nos autos. Isso não ocorre no presente caso, em que já confirmada a presença de justa causa não só quando do recebimento da denúncia, mas, também, quando se entendeu haver justa causa qualificada, desta feita pela pronúncia e, ainda, quando da ratificação dessa decisão nesta instância.
+2. Alegada nulidade da prova - porque resumida à colaboração premiada -, é questão que se confunde com o próprio mérito da ação penal, cuja discussão não encontra espaço na estreita via do habeas corpus. ORDEM DENEGADA.
+No presente recurso ordinário, a defesa repisa parcialmente os fundamentos da impetração, destacando que "a polícia civil seguiu tão somente a linha investigativa criada pelo colaborador, no próprio relatório final referente a colaboração premiada, em TODOS os processos oriundos da colaboração, a delegada LUCIANA PERES SMITH deixou claro que chegou à autoria e/ou participação do paciente JOSÉ DALVANI única a exclusivamente por meio do relato do colaborador. Ou seja, o fato do paciente ser réu neste processo se dá única e exclusivamente pela palavra do colaborador, o qual, repise-se, é réu em 50 processos onde ou fora autor de execuções ou fora partícipe" (e-STJ fl. 2568).
+Pede o provimento do recurso para que seja trancada a ação penal em relação ao recorrente.
+O Ministério Público Federal manifestou-se pelo des provimento do recurso (e-STJ fls. 2589-2595):
+EMENTA: RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO, OCULTAÇÃO DE CADÁVER E CÁRCERE PRIVADO. PLEITO DE TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA. MEDIDA EXCEPCIONAL. INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. ARTIGO 41 DO CPP. SUPORTE PROBATÓRIO MÍNIMO PARA JUSTIFICAR A DEFLAGRAÇÃO DA AÇÃO PENAL. DISCUSSÃO A SER ESMIUÇADA NO DECORRER DA FASE INSTRUTÓRIA. ANÁLISE DE ASPECTOS FÁTICO- PROBATÓRIOS. IMPOSSIBILIDADE. PELO NÃO PROVIMENTO DO RECURSO.
+É o relatório.
+Decido.
+Inicialmente registro que o presente recurso trata da ausência de justa causa para a ação penal movida contra o recorrente JOSÉ DALVANI pelo homicídio praticado contra LAISA MANGANELI REMEDIOS em 24-9-2016.
+Em consulta ao sistema processual do Tribunal de Justiça do Estado do Rio Grande do Sul, verifico que o recorrente foi absolvido das imputações objeto do presente recurso:
+Os acusados JOSE DALVANI NUNES RODRIGUES, DOUGLAS DE SÁ GOMES e GUSTAVO DA LUZ MARQUES, qualificados nos autos, foram pronunciados e submetido a julgamento pelo Tribunal do Júri, sob a imputação da prática dos delitos previstos no artigo 121, §2º, incisos I (motivo torpe), III (meio cruel) e IV (emprego de recurso que impossibilitou a defesa da vítima); e §4º, inciso II (menor de 14 (catorze) anos); artigo 211 (ocultação de cadáver); e artigo 148, §1º inciso IV e §2º (cárcere privado); todos do Código Penal.
+Reunido o Conselho de Sentença, em sessão com início em 07 de dezembro e término na madrugada de 08 de dezembro de 2022, os jurados decidiram, secreta e soberanamente, respondendo negativamente aos quesitos da autoria, pela absolvição do acusado José Dalvani Nunes Rodrigues e pela condenação dos réus Douglas de Sá Gomes e Gustavo da Luz Marques, nos exatos termos da pronúncia.
+Considerando que já houve pronunciamento de mérito sobre a imputação, resta inviabilizada a análise do pedido de ausência de justa causa para a ação penal.
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+EMENTA
