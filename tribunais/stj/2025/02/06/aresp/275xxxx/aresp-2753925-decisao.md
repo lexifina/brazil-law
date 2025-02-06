@@ -1,0 +1,19 @@
+DECISÃO
+LUCAS DE SOUSA DOS SANTOS MATOS agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500748-17.2023.8.26.0530.
+Consta dos autos que o agravante foi condenado a 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa postula a absolvição do réu em relação ou, de modo subsidiário, a desclassificação do crime de tráfico para aquele previsto no art. 28 da Lei de Drogas.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+Decido.
+I. Absolvição ou desclassificação - impossibilidade
+A Corte estadual manteve a conclusão de que ficou devidamente caracterizado o delito de tráfico de drogas com base nos seguintes argumentos (fl. 928):
+A quantidade de drogas apreendidas e a forma como estavam acondicionadas (3,48 Kg de maconha, distribuídos em 4 "tijolos" e 171 porções menores; além de 65,94 gramas de cocaína, distribuídos em 250 porções pesos líquidos, segundo laudo de fls. 66/67), aliada à prova oral e às circunstâncias em que se deram os fatos, não deixam margem a dúvidas acerca da sua destinação mercantil.
+Pelo trecho anteriormente transcrito e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão recorrido, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação dos acusados pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Isso porque, de acordo com o testemunho dos policiais que participaram da ocorrência, em patrulhamento de rotina, os militares visualizaram os três corréus, um deles fracionando a maconha e outros dois aguardando, cada um com uma mochila nas mãos. Ao avistarem a viatura o grupo se dispersou: "Lucas se evadiu pulando muros e telhados, mas caiu de um dos telhados, inclusive se ferindo. Com Lucas também foi encontrada uma mochila com drogas. A essa altura outra viatura já tinha chegado ao local" (fl. 927).
+Por essas razões, mostra-se inviável sua absolvição ou a desclassificação do delito, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos, em que a instância de origem justificou a condenação na quantidade de drogas apreendidas e no depoimento dos policiais militares que participaram da ocorrência.
+Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal/conjunto ou ao tráfico de drogas, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+Ademais, esclareço que, para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente - até porque o próprio tipo penal aduz "ainda que gratuitamente" -, bastando, portanto, que as circunstâncias em que se desenvolveu a ação criminosa denotem a traficância, tal como ocorreu no caso.
+Esclareço, ainda, que, para entender-se pela absolvição ou pela desclassificação da conduta do réu, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência inviável em recurso especial, conforme Súmula n. 7 do STJ.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
