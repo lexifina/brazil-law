@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por LEANDRO MOREIRA DIAS PAIVA contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido nos autos do HC n. 1.0000.24.511123-2/000.
+Consta dos autos que, em 7/11/2024, o recorrente foi preso em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Ao que se tem dos autos, foram apreendidos 172,32 g de maconha, 1,15 g de crack e 0,63 g de cocaína (fl. 309).
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 300/313).
+Neste recurso, a defesa alega que a autoria do fragrante não foi confirmada em relação ao recorrente.
+Sustenta ausência de pressupostos para manutenção da prisão preventiva.
+Pede, inclusive liminarmente, a substituição da prisão preventiva por medidas alternativas (fl. 333).
+É o relatório.
+Inicialmente, vale asseverar que não cabe, em sede de habeas corpus (e seu respectivo recurso ordinário), proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória (STF: Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) - (RHC n. 161.173/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/5/2022).
+Ademais, a insuficiência das provas de autoria e materialidade quanto ao tipo penal não encontra espaço de análise na estreita via do habeas corpus (e seu respectivo recurso ordinário), por demandar exame fático-probatório. Ilustrativamente: AgRg no HC n. 777.911/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/11/2022.
+No mais, o Juízo de primeiro grau, no que foi acompanhado pela Corte local, decretou a prisão preventiva do recorrente nos termos a seguir transcritos (fl. 228 - grifo nosso):
+Quanto ao periculum libertatis, a prisão se mostra imprescindível à garantia da ordem pública, mormente considerando a gravidade concreta da conduta narrada nos autos, que põe em risco a segurança e incolumidade pública. Com efeito, durante o cumprimento do mandado de busca e apreensão, foi apreendida grande quantidade de drogas e apetrechos: 2 (duas) pedras de substância semelhante a crack, 9 (nove) papelotes de substância análoga à maconha; um tablete grande de maconha e três tabletes menores da mesma substância; um papelote com substância semelhante à cocaína; duas máquinas de cartão; várias embalagens de refresco, papel-alumínio; balança de precisão, aparelhos celulares e dinheiro em espécie.
+Com efeito, para esta Corte Superior, a quantidade, a variedade e a natureza da droga apreendida, bem como o risco de reiteração delitiva, podem servir para o Magistrado reconhecer a gravidade concreta da ação e a dedicação do agente a atividades criminosas, elementos capazes de justificar a necessidade da custódia preventiva para a garantia da ordem pública (HC n. 466.654/PR, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018).
+Contudo, in casu, verifico ser desproporcional a imposição de prisão preventiva, mormente porque se trata de recorrente primário, bem como apreendida quantidade não relevante de droga - 172,32 g de maconha, 1,15 g de crack e 0,63 g de cocaína (fl. 309).
+O art. 312 do Código de Processo Penal deve ser lido à luz do princípio da proporcionalidade, de indubitável sede constitucional, que determina a necessidade, a adequação e a proporcionalidade nas restrições aos direitos fundamentais.
+Necessário haver uma gradação proporcional ao fato em questão, não apenas a imposição direta da cautelar mais grave.
+A corroborar: AgRg no HC n. 821.552/MS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 18/4/2024; e AgRg no RHC n. 186.743/MG, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 21/12/2023.
+Ante o exposto, conheço parcialmente do recurso ordinário em habeas corpus e, nessa extensão, dou-lhe provimento para substituir a prisão preventiva por medidas cautelares a serem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INSUFICIÊNCIA DAS PROVAS DE AUTORIA. REEXAME FÁTICO-PROBATÓRIO. GARANTIA DA ORDEM PÚBLICA. PRIMARIEDADE. PEQUENA QUANTIDADE DE DROGA APREENDIDA. SUBSTITUIÇÃO POR CAUTELARES. PROPORCIONALIDADE E LEGALIDADE.
+Recurso parcialmente conhecido e, nessa extensão, provido.
