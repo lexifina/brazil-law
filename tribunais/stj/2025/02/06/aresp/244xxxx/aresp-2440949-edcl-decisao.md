@@ -1,0 +1,22 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 804 (e-STJ).
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 771-772:
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 737-738):
+Trata-se de Agravo Regimental interposto por LUIZ CARLOS RAMOS (e-STJ fls. 692-704) contra decisão da Presidência (e-STJ fls. 685-687) , que, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheceu do agravo em recurso especial para não conhecer do recurso especial, ante os seguintes fundamentos:
+"Quanto à primeira controvérsia, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele apontado como paradigma, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado." (e-STJ fl. 686)
+ ..
+"E quanto à segunda e a terceira controvérsias, não foi comprovada a divergência jurisprudencial, pois não podem ser apontados como paradigmas acórdãos proferidos em sede de habeas corpus, por não apresentarem o mesmo grau de cognição do recurso especial." (e-STJ fl. 687)"
+A parte agravante alega que " ..  a decisão recorrida revela um exame equivocado e superficial do recurso especial interposto. Basta uma leitura para a conclusão. Afinal, este colegiado verá que a peça de interposição do apelo especial contém o enfretamento analítico, esmiuçado, dos acórdãos paradigmáticos em confronto com o acordão recorrido." (e-STJ fl. 695), reiterando os argumentos apresentados na interposição do agravo em recurso especial.
+Requer que seja conhecido o agravo regimental para conhecer do recurso especial, e, no mérito, dar-lhe provimento.
+Contraminuta ao Agravo Regimental pelo Ministério Público do Estado de Minas Gerais (e-STJ fls. 726-728).
+A parte embargante alega haver obscuridade no julgado e, ainda, omissão em relação à análise do pedido de concessão de habeas corpus de ofício. Aduz, por fim, que "resta claro que a decisão colegiada é lacônica e não enfrentou os termos do agravo regimental deduzido pela parte, o que, de resto, se flagra pela manutenção do nome de outro recorrente - LUIZ CARLOS RAMOS ( ) - em seu primeiro parágrafo,  .. " (e-STJ, fl. 752). Requer a supressão de vícios processuais, para que, assim, ocorra a reforma da decisão embargada.
+Impugnação apresentada (e-STJ fls. 761-763).
+O recurso foi considerado prejudicado. (e-STJ Fl. 804-805)
+O recorrente interpõe embargos de declaração suscitando omissão (e-STJ Fl. 814-816).
+É o relatório. DECIDO.
+O conhecimento dos Embargos de Declaração demanda a indicação de ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+Embora a parte embargante tenha afirmado omissão, certo é que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+De fato, embora afirme que houve descumprimento da decisão proferida pelo Supremo Tribunal Federal, certo é que a decisão proferida por aquela corte foi endereçada ao Tribunal de origem, a quem caberá, à luz do decidido pela suprema corte, reenfrentar a questão relativa ao ANPP e, após, proferir novo comando colegiado.
+Assim, "É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes." (AgInt no AREsp 2148572 / MG, RELATOR Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DATA DO JULGAMENTO 22/05/2023, DATA DA PUBLICAÇÃO/FONTE DJe 05/06/2023)
+Dessa forma, rejeito os embargos de declaração.
+EMENTA
