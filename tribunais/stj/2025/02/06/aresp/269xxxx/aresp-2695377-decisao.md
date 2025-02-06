@@ -1,0 +1,31 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte no Recurso em Sentido Estrito n. 0803620-52.2023.8.20.0000.
+Nas razões do especial, o Ministério Público requer seja decretada a prisão preventiva dos acusados João Paulo, Josivan e Alcivan, e o monitoramento eletrônico em desfavor de Paloma e Luciano.
+O recurso não foi admitido em decorrência do óbice da Súmula n. 83 do STJ.
+O Ministério Público Federal, em parecer de lavra da Subprocuradora-geral da República, Dra. Eliane de Albuquerque Oliveira Recena, manifestou-se pelo não conhecimento do especial.
+Decido.
+I. Pressupostos de admissibilidade do AREsp
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade, razões pela s quais comporta conhecimento.
+II. Pressupostos de admissibilidade do REsp - incidência da Súmula n. 83 do STJ
+O recurso especial, todavia, embora haja sido interposto no prazo legal, não preenche os demais requisitos de admissibilidade, conquanto a orientação desta Corte Superior se firmou em conformidade com a decisão recorrida.
+Nesse sentido, constou da decisão de inadmissibilidade do especial que, "dada a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, além de fatos novos e contemporâneos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP, razão pela qual não se vislumbra, a meu sentir, a existência que não se verifica na hipótese dos autos".
+Assim, a pretensão é inviável, haja vista que o acórdão recorrido está em consonância com a jurisprudência predominante nesta Corte Superior, o que atrai a incidência do óbice previsto na Súmula n. 83 do STJ. Exemplificativamente:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. CLAMOR SOCIAL. FUGA DO AGENTE SEGUIDA DA APRESENTAÇÃO ESPONTÂNEA. ELEMENTOS CONCRETOS USADOS PARA DEMONSTRAR O FUMUS COMISSI DELICTI. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. RECURSO EM HABEAS CORPUS PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O clamor social que o crime causou, dissociado de razões concretas que justifiquem a prisão preventiva, é fundamento insuficiente para justificar a medida extrema.
+3. A suposta fuga do acusado logo após o crime, por si só, não é fundamento bastante para decretar a custódia cautelar se, dias depois, ele se apresenta espontaneamente em delegacia.
+4. No caso em exame, a prisão preventiva do recorrente foi decretada pela suposta prática de homicídio qualificado. Todavia, a decisãonão apresentou fundamento idôneo que pudesse justificar a medida extrema. Foi apontado haver risco à ordem pública, em virtude da repercussão do crime na região. Além disso, o decreto menciona o fato de o recorrente haver fugido e, dias depois, se apresentado espontaneamente à autoridade policial, argumento também insuficiente para justificar a prisão preventiva, notadamente diante da primariedade do acusado.
+5. A despeito de haver, na decisão do Juízo de primeira instância, a menção a golpes de faca que o réu haveria desferido contra o padrasto, em suposta reação a agressão contra a genitora do recorrente, essa circunstância não foi indicada para justificar o periculum libertatis, mas tão somente para fundamentar o fumus comissi delicti. Com efeito, o decreto prisional nem sequer se refere à gravidade do delito como razão para segregar o agente.
+6. Portanto, embora a conduta imputada ao recorrente seja de alta gravidade, não foram indicadas, no decreto da prisão preventiva, circunstâncias concretas e idôneas que a justificassem, motivo pelo qual a revogação da cautelar imposta ao réu é medida que se impõe, sob pena de essa prisão perder sua natureza excepcional e se transformar em mera resposta punitiva.
+7. Recurso em habeas corpus provido.
+(RHC n. 180.686/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 20/9/2023)
+No mesmo sentido, manifestou-se o Ministério Público Federal, em parecer de lavra da Subprocuradora-geral da República, Dra. Eliane de Albuquerque Oliveira Recena:
+Além disso, tal como bem ressaltado pela Vice-Presidência do Tribunal a quo, o acórdão recorrido encontra-se em consonância com o entendimento pacífico dessa Corte Superior no sentido de que, ".. dada a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, além de fatos novos e contemporâneos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP", razão pela qual também incide, no caso, o óbice da Súmula 83 desse STJ.
+ ..
+Ressalte-se que o teor da Súmula 83 desse STJ se aplica também aos casos em que o recurso especial é interposto com arrimo apenas na hipótese de cabimento da alínea "a" do inciso III do artigo 105 da Constituição Federal, conforme entendimento consolidado nesse STJ e abaixo representado pelo seguinte precedente:
+ ..
+Sendo assim, deve ser mantida a decisão agravada que com acerto não admitiu o recurso especial, não apenas em razão do óbice da Súmula 83 desse STJ imposto na decisão de inadmissibilidade, mas também em razão do óbice da Súmula 7 desse STJ. Por essas razões, opina esta Representante do Ministério Público Federal no sentido do não provimento do agravo, com a manutenção da decisão do Tribunal a quo que não admitiu o recurso especial.
+III. Dispositivo
+À vista do exposto, conheço do a gravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
