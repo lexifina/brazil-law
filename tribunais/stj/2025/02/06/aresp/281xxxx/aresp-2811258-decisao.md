@@ -1,0 +1,25 @@
+DECISÃO
+JONATHAS LUIZ DA SILVA CERQUEIRA e MARCELO SANTANA DE SOUZA agravam de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia na Apelação n. 0502682-82.2016.8.05.0004.
+Depreende-se dos autos que Jonathas e Marcelo foram condenados pela prática de latrocínio e receptação, sendo este último condenado também por porte de arma de fogo.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de diminuir a pena de Jonathas para 13 anos e 4 meses de reclusão mais 6 dia-multa e a de Marcelo para 18 anos de reclusão mais 17 dias-multa, ambos em regime inicial fechado.
+Nas razões do especial, alegou a defesa a violação do art. 59 do CP, ao argumento de que as circunstâncias e as consequências do crime foram valoradas negativamente, mediante fundamentação inidônea.
+Requereu fosse diminuída a pena-base.
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não conhecimento e não provimento do recurso especial.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O acórdão recorrido asseriu o seguinte:
+"Na primeira fase, devem ser consideradas na fixação da pena base, de forma negativa, as circunstâncias e as consequências dos crimes já que os réus aterrorizaram as pessoas da localidade ingressando em estabelecimento comercial armado e colocando as pessoas que lá se encontravam e transeuntes em estado de choque e desespero. Também especialmente reprovável porque trocaram tiros com uma das vítimas e com isso provocou quase a levou a óbito. Ademais, a troca de tiros é reveladora da periculosidade do réu. Em decorrência dessas circunstâncias judiciais desfavoráveis, aumento as penas-base em 2/8 (dois oitavos), fixando-lhes em 25 (vinte e cinco) anos de reclusão e 12 (doze) dias-multa para cada um dos réus."
+A justificativa apresentada para a negativação das circunstâncias se mostra idônea, notadamente em se considerando a quantidade de vítimas no crime - 03 (três) -, o que, inclusive, deveria ser levado em conta para efeitos de concurso formal. Todavia, por não ter sido reconhecida a pluralidade de delitos na origem, e atento à vedação de reformatio in pejus, apenas mantenho o vetor como negativo.
+Da mesma forma, as consequências da infração foram corretamente valoradas, seja pela sequela permanente deixada na vítima atingida pelo disparo de arma de fogo, seja pela mudança da rotina de ao menos um dos outros ofendidos, que teve que alterar seu horário de trabalho, conforme relatado em seus respectivos depoimentos.
+Assim, conservando a valoração desfavorável das circunstâncias em comento, mas corrigindo, de ofício, erro material da sentença que, embora tenha exasperado a reprimenda básica em 2/8 (dois oitavos), fixou-a em 25 (vinte e cinco) anos de reclusão, estabeleço, para ambos os réus, o quantum de 22 (vinte e dois) anos e 06 (seis) meses de reclusão.
+(fl. 549, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+Na espécie, o delito foi praticado em desfavor de três vítimas numa barbearia à noite por dois agentes que portavam uma arma de fogo, que foi disparada durante a fuga em via pública, o que resultou na internação de um dos ofendidos por meses e o deixou com sequelas permanentes.
+No que se refere às circunstâncias do crime, entendo que o fato foi de elevada gravidade, porque a ação delitiva colocou em risco uma quantidade indefinida de pessoas, que transitavam em via pública e foram expostas aos disparos, muito superando o número inicial de vítimas dentro do estabelecimento.
+Relativamente às consequências do crime, o resultado morte não ocorreu por circunstâncias alheias à vontade do agente. Um dos ofendidos sobreviveu aos 22 dias que passou internado (fl. 543), mas sofre de sequelas permanentes na sua locomoção, apesar de haver passado por várias cirurgias.
+Ademais, outra vítima alterou o seu horário de trabalho em função da violência sofrida, tamanho foi o trauma sofrido durante a conduta delitiva (fl. 543).
+Essas vetoriais, devidamente valoradas na primeira fase da dosimetria, destoam do que normalmente se observa em crimes de latrocínio, tanto pelas agressões físicas, que geraram lesões permanentes, como pelas repercussões psicológicas nos ofendidos.
+Não há, por conseguinte, reparos a fazer na dosimetria da pena-base, que foi fixada 2 anos acima do mínimo legal previsto para o crime de roubo.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
