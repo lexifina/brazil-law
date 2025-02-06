@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANTONIO OLIVEIRA ANDRADE no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consta dos autos que o paciente foi denunciado pela suposta prática do crime tipificado no art. 121, § 2º, incisos I, III e IV, c/c o art. 29, caput, todos do Código Penal. Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça, que denegou a ordem nos termos do acórdão de e-STJ fls. 23/36.
+Na presente impetração a defesa requer (e-STJ fl. 21):
+a) seja concedida a medida liminar, a fim de suspender a marcha processual da ação penal nº 0000285-32.2019.8.05.0189 em face do Paciente até o julgamento de mérito do presente habeas corpus;
+b) sejam solicitadas as informações de estilo da Autoridade Coatora e ouvido o Ministério Público.
+c) no mérito, reconhecer a inépcia da denúncia ou, ainda, a ausência de justa causa, com a reconsideração do despacho recebedor e a consequente rejeição da exordial acusatória em face do Paciente;
+d) Por fim, requer seja realizada intimação prévia -exclusivamente em nome do impetrante Alexandre Magno Rodrigues de Oliveira, OAB/BA nº 34.173, para que esta Defesa tenha a possibilidade de realizar sustentação oral no feito.
+A liminar foi indeferida (e-STJ fls. 562/563).
+As informações foram prestadas (e-STJ fls. 566/569).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 597/608).
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+Conforme a denúncia, "no dia 14 de outubro de 2018, por volta das 22:00 horas, na BA-220, nas proximidades do Posto Santo Expedito, Povoado Lagoa Preta, zona rural de Paripiranga/BA, o denunciado, juntamente com NATHÁLIA RABELO DE JESUS, JOSÉ LAELSON DOS SANTOS, MILENA DA SILVA SANTOS, JOSÉ GLEYDISON MORAIS VIDAL, RENIVALDO DE JESUS e ALEX DIAS ANDRADE, consciente e voluntariamente, com manifesto dolo de matar, por motivo torpe, mediante tortura e recurso que dificultou a defesa do ofendido, desferiram diversos golpes com objetos contundentes e perfuro-contundentes contra a vítima MACIEL MARTINS DAS VIRGENS SOUZA, além de o atropelarem e o arrastarem por cerca de 10 (dez) metros, no asfalto, causando-lhe as lesões descritas e materializadas no laudo de exame de necropsia de ID nº 185344006 - p. 25/27, as quais foram causa suficiente para sua morte (certidão de óbito de ID nº 185344002 - p. 7)."
+A denúncia deve ser recebida desde que, atendido seu aspecto formal (art. 41, c/c o art. 395, I, do CPP) e identificada a presença tanto dos pressupostos de existência e validade da relação processual quanto das condições para o exercício da ação penal (art.
+395, II, do CPP), venha acompanhada de lastro probatório mínimo a amparar a acusação (art. 395, III, do CPP).
+Ao contrário do alegado pela defesa, verifica-se que a denúncia expôs o fato criminoso, especificando o local e tempo da prática delitiva. Há individualização das condutas, conforme se infere da leitura da peça acusatória.
+Ademais, nos termos da orientação do Superior Tribunal de Justiça, "em delito de autoria coletiva a necessidade de minuciosa individualização da conduta de cada acusado é mitigada diante da complexidade do caso, bastando que haja descrição fática suficiente a demonstrar a existência do crime e o vínculo entre o acusado e a empreitada criminosa, o que ocorreu no caso concreto" (RHC 42.294/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 5/5/2014).
+Assim, ao menos considerando os limites de cognição possíveis nesta via e o standard probatório exigido para a etapa de oferecimento da denúncia, está preenchida a justa causa necessária ao exercício da ação penal, de modo qu e se revela prematuro o seu trancamento.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
