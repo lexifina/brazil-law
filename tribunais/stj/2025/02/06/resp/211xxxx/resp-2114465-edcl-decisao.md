@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de embargos de declaração interpostos por MASSA FALIDA DE ENCOL S/A ENGENHARIA COMÉRCIO E INDÚSTRIA em face de decisão que deu provimento ao recurso especial intentado por ABDIAS JUSTINO BASTOS e OUTROS.
+Em suas razões, alega ser necessário esclarecer: (i) "qual o momento exato em que o crédito do Embargado deverá ser pago e/ou se caberá ao Juízo Falimentar, que tem profundo conhecimento do processo da falência da Encol e da disponibilidade do caixa da Universalidade, determiná-lo, diante das diversas situações em que se incluem os credores trabalhistas da Encol" (e-STJ fl. 572); e (ii) "se no presente caso, como o valor dos honorários alcança a cifra extraordinária de milhões de reais, se o pagamento também deverá observar o limite de 150 salários mínimos, conforme previsão do art. 83, inciso I da Lei 11.101/2005" (e-STJ fl. 573).
+É O RELATÓRIO. DECIDE-SE.
+A decisão embargada está adequadamente fundamentada, sem qualquer vício que a macule, tendo sido decidido que, tratando-se de condenação em honorários advocatícios por sentença transitada em julgado após o decreto da quebra da devedora, "os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas para efeito de habilitação em falência, seja pela regência do Decreto-Lei n. 7.661/1945, seja pela forma prevista na Lei n. 11.101/2005, observado o limite de valor previsto no artigo 83, inciso I, do referido Diploma legal" (Tema Repetitivo 637, DJe 9/10/2014).
+O momento exato em que os créditos dos embargados devem ser pagos não constituiu questão devolvida à apreciação do STJ na via do recurso especial, de modo que não se pode cogitar de omissão ou obscuridade quanto ao ponto.
+No que concerne ao limite previsto no art. 83, I, da Lei 11.101/05, a simples leitura da fundamentação da decisão embargada permite concluir inexistir omissão ou obscuridade a respeito do tema.
+Forte nestas razões, REJEITO os embargos de declaração.
+EMENTA
