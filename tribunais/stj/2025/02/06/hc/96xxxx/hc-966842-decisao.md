@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de DANILO CHURCH FERREIRA, impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no Agravo em Execução Penal n. 8000902-68.2024.8.24.0020, assim ementado (fl. 57):
+AGRAVO EM EXECUÇÃO PENAL. INSURGÊNCIA DO MINISTÉRIO PÚBLICO CONTRA DECISÃO QUE DEFERIU PEDIDO DE TRABALHO EXTERNO SEM VIGILÂNCIA AO REEDUCANDO. ALEGADO NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 122, §2º, DA LEI DE EXECUÇÃO PENAL, COM REDAÇÃO DADA PELA LEI N. 14.843/24. ACOLHIMENTO. APENADO QUE CUMPRE PENA PELA PRÁTICA DE CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES, POR DUAS VEZES. VEDAÇÃO AO TRABALHO EXTERNO SEM VIGILÂNCIA DIREITA QUE CONSTITUI LEGÍTIMA OPÇÃO DO CONGRESSO NACIONAL, NO EXERCÍCIO DE SUA FUNÇÃO CONSTITUCIONAL. ADEMAIS, INOVAÇÃO LEGISLATIVA QUE MANTÉM PRESERVADO O SISTEMA PROGRESSIVO DE CUMPRIMENTO DE PENA, DE MODO A POSSIBILITAR O REINGRESSO DO REEDUCANDO À VIDA EM SOCIEDADE DE FORMA SADIA E, AO MESMO TEMPO, GARANTINDO A SEGURANÇA PÚBLICA. APLICABILIDADE IMEDIATA DA NOVA LEI, VISTO QUE O APENADO NÃO ADQUIRE DIREITO SOBRE POSSÍVEIS BENEFÍCIOS DA EXECUÇÃO PENAL ASSIM QUE COMETE A INFRAÇÃO PENAL OU DÁ INÍCIO AO RESPECTIVO CUMPRIMENTO DA REPRIMENDA. DECISÃO REFORMADA.
+RECURSO CONHECIDO E PROVIDO.
+Consta dos autos que o Juízo de Execuções Penais da Comarca de Criciúma/SC deferiu o pedido de realização de trabalho externo ao ora paciente (fls. 14/16).
+O Ministério Público do Estado de Santa Catarina interpôs agravo em execução, e o Tribunal de origem deu provimento ao recurso para revogar o trabalho externo concedido, haja vista a alteração promovida pela Lei n. 14.843/2024 à Lei de Execução Penal (fls. 52/57).
+Sustenta a Defesa que a nova redação não é aplicável ao caso, pois a norma restringe o direito ao trabalho externo, suprimindo o direito em relação aos apenados por crimes hediondos ou com violência ou grave ameaça (fl. 07).
+Entende que sendo uma norma de direito penal material mais gravosa (novatio legis in pejus), está sujeita à garantia constitucional da irretroatividade da lei penal mais gravosa (fl. 07).
+Requer, liminarmente, a suspensão dos efeitos do acórdão combatido, de modo a restabelecer a decisão de primeiro grau que concedeu o direito ao trabalho externo ao paciente até julgamento definitivo deste writ e, no mérito, requer a concessão da ordem para que seja reconhecida a ilegalidade do acórdão impugnado para restabelecer a decisão que concedeu ao paciente o direito ao trabalho externo.
+O pedido liminar foi indeferido (fls. 67/68). As informações foram prestadas (fls. 76/77 e 79/99).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 103/105).
+É o relatório.
+DECIDO.
+A ordem deve ser concedida.
+O Juízo da Vara de Execuções Penais da Comarca de Criciúma/SC consignou (fls. 14/16):
+Trata-se do processo de execução penal de cujos DANILO CHUCH FERREIRA, trabalho externo formulado em favor do reeducando (seq. autos sobem conclusos para análise de pedido de 512), que atualmente cumpre pena no regime semiaberto.
+Instado, o Ministério Público opinou pelo indeferimento do pedido (seq. 516).
+É o relatório.
+DECIDO.
+A possibilidade de concessão de autorização para trabalho externo daqueles que cumprem pena no regime semiaberto vem prevista no art. 35, § 2º, do Código Penal ao estabelecer que: " O trabalho externo é admissível, bem como a frequência a cursos supletivos profissionalizantes, de instrução de segundo grau ou superior".
+No caso em tela, o (a) apenado (a) apresenta bom comportamento no ambiente carcerário, conforme currículo prisional (seq. 512), e a atividade laborativa contribuirá para a sua reinserção social e custeio das suas despesas pessoais, além de eventuais familiares, razão pela qual o deferimento do pleito é medida a ser adotada.
+No que pertine o requisito objetivo estampado no art. 37, caput, da Lei n. 7.201/84, que prevê a obrigação de cumprimento de 1/6 da pena para a obtenção da benesse, é assente o entendimento dos tribunais acerca de sua desnecessidade, notadamente diante da obrigação descrita no art. 31, caput, da citada Lei, e também diante da finalidade educativa e produtiva do labor (art. 28 da LEP).
+ ..  Ante o exposto:
+I - Defiro o pedido de realização de trabalho externo ao apenado DANILO CHUCH FERREIRA, na forma especificada no convênio respectivo.
+II - O (a) apenado (a) deverá ser advertido que a utilização ou posse de aparelho telefônico ou similar durante o período de trabalho externo representa falta grave (art. 50, VII, da Lei nº 7.210/84) e ensejará a revogação da autorização para trabalho externo, perda de parte dos dias remidos e demais medidas disciplinares aplicáveis.
+III - Ademais, a unidade prisional em que está custodiado (a) o (a) apenado (a) deverá manter rígido controle e contato frequente com o empregador para evitar que o a) reeducando (a) seja liberado (a) em dias ou horários em que não exercerá a atividade laborativa especificada no convênio.
+IV - Notifique-se o Ministério Público.
+V - Comunique-se ao estabelecimento prisional, que deverá comunicar de imediato qualquer alteração no comportamento carcerário do(a) reeducando(a), bem como, deverá informar quem irá ficar responsável pela fiscalização direta pela "empresa/ente público conveniado" no trabalho a ser realizado pelo (a) reeducando (a), em especial ao comando contido no § 2º, do art. 122, , o qual estabelece que: da LEP "" à saída temporária de que trata o deste artigo ou Não terá direito caput a trabalho externo sem vigilância direta o condenado que cumpre pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa. " (Redação dada pela Lei nº 14.843, de 2024)
+Advirto que o benefício será automaticamente revogado em caso de cometimento de crime doloso, falta grave ou se o (a) beneficiado (a) desatender às finalidades impostas na autorização.
+Consta do acórdão (fls. 52/56):
+ ..  O recurso merece ser conhecido, por próprio e tempestivo.
+Busca o Ministério Público a reforma da decisão que concedeu benefício de trabalho externo sem vigilância ao Reeducando Danilo Chuch Ferreira, diante da superveniência da Lei n. 14.843/2024, que passou a vedar o referido benefício aos condenados que cumprem pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa.
+O Agravado foi condenado à pena total de 10 (dez) anos e 10 (dez) meses de reclusão, pela prática de delito de tráfico de entorpecentes, por duas vezes (art. 33, caput , da Lei n. 11.343/2006), já resgatou o total de 09 (nove) anos, 05 (cinco) meses e 2 (dois) dias, restando 01 (um) ano, 04 (quatro) meses e 28 (vinte e oito) dias de reclusão (informações extraídas do SEEU em 19/11/2024).
+Atualmente em regime semiaberto, conforme progressão deferida em 31/07/2024 (informações extraídas do SEEU em 29/10/2024).
+De acordo com o §2º do artigo 122, com a nova redação conferida pela Lei 14.843/2024, "não terá direito à saída temporária de que trata o caput deste artigo ou a trabalho externo sem vigilância direta o condenado que cumpre pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa".
+Da análise dos autos, entendo que a decisão de origem deve ser reformada, uma vez que coaduno do entendimento de que a legislação mencionada, por não ter caráter penal, pode retroagir para incidir sobre as execuções penais em andamento.
+A Lei n. 14.843/2024, a meu juízo, possui aplicação imediata, tendo em vista que o apenado não adquire direito sobre possíveis benefícios da execução penal assim que dá início ao cumprimento da reprimenda (direito adquirido a regime jurídico), justamente porque a fruição de cada um depende do preenchimento de requisitos de ordem objetiva e subjetiva aferíveis judicialmente assim que satisfeitos.
+A propósito, sobre o ponto, há decisão monocrática no âmbito do Superior Tribunal de Justiça indeferindo liminarmente Habeas Corpus impetrado contra acórdão que revogou trabalho externo e saída temporária com fundamento na nova lei (Habeas Corpus n. 909393/MG, rel. Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT - 30/04/2024):
+ .. .
+Não desconheço a decisão do Ministro André Mendonça que concedeu ordem, de ofício, no caso mencionado.
+Referido decisum, porém, não foi proferido em precedente qualificado e, como destaquei, meu posicionamento é aquele adotado pelo Ministro Jesuíno Rissato.
+Tampouco ignoro a recente decisão da Corte Superior no HC n. 932.864/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024, acerca da irretroatividade da norma. Porém, o decisum, proferido em sede de Habeas Corpus individual, não é vinculante.
+Reforçando o entendimento acerca da aplicação imediata da Lei n. 14.843/24, o Tribunal do Rio Grande do Sul decidiu revogar a saída temporária com base na nova legislação, no Agravo de Execução Penal, Nº 50217182120248217000, Quinta Câmara Criminal, Relatora: Maria de Lourdes G. Braccini de Gonzalez, Julgado em: 21-06-2024:
+ ..  Por essas razões, deve ser reformada a decisão agravada, para indeferir o benefício do trabalho externo sem vigilância ao Apenado, uma vez que ostenta duas condenações pelo delito de tráfico ilícito de entorpecentes.
+Dispositivo Ante o exposto, voto por conhecer do recurso e dar-lhe provimento, para revogar o trabalho externo concedido ao Agravado.
+O Tribunal de origem reformou a decisão de primeira instância ao entendimento de que a Lei n. 14.843/2024
+possui aplicação imediata, tendo em vista que o apenado não adquire direito sobre possíveis benefícios da execução penal assim que dá início ao cumprimento da reprimenda (direito adquirido a regime jurídico), justamente porque a fruição de cada um depende do preenchimento de requisitos de ordem objetiva e subjetiva aferíveis judicialmente assim que satisfeitos (fl. 53).
+O Juízo das Execuções registrou que
+o(a) apenado(a) apresenta bom comportamento no ambiente carcerário, conforme currículo prisional (fl. 14), considerando que a atividade laborativa contribuirá para a sua reinserção social e custeio das suas despesas pessoais, além de eventuais familiares, razão pela qual o deferimento do pleito é medida a ser adotada (fl. 14).
+Ademais, (fl. 14), no tocante ao
+requisito objetivo estampado no art. 37, caput, da Lei n. 7.201/84, que prevê a obrigação de cumprimento de 1/6 da pena para a obtenção da benesse, é assente o entendimento dos tribunais acerca de sua desnecessidade, notadamente diante da obrigação descrita no art. 31, caput, da citada Lei, e também diante da finalidade educativa e produtiva do labor (art. 28 da LEP).
+Registre-se que,
+no âmbito do Supremo Tribunal Federal, ao analisar as modificações trazidas pela Lei n. 14.843/2024 no direito às saídas temporárias, o Ministro André Mendonça, relator do HC n. 240.770/MG, entendeu que se trata de novatio legis in pejus, incidente, portanto, aos crimes cometidos após o início de sua vigência (AgRg no HC n. 929.034/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024, DJe de 04/10/2024 - grifamos).
+Entende esta Corte que
+ A  Lei n. 14.843/2024, ao modificar o § 2º do art. 122 da Lei de Execução Penal, recrudesce a execução da pena ao vedar a concessão de saídas temporárias para condenados por crimes hediondos ou cometidos com violência ou grave ameaça contra pessoa.  ..  A aplicação retroativa dessa norma constitui novatio legis in pejus, vedada pela Constituição Federal (art. 5º, XL) e pelo Código Penal (art. 2º) (HC n. 932.864/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/09/2024, DJe de 13/09/2024).
+Assim,
+ A  jurisprudência do Superior Tribunal de Justiça (STJ) e do Supremo Tribunal Federal (STF) firmou entendimento de que normas mais gravosas não podem retroagir para prejudicar o executado, conforme a Súmula 471/STJ e precedentes correlatos (HC n. 932.864/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/09/2024, DJe de 13/09/2024).
+Ante o exposto, concedo o habeas corpus para restabelecer a decisão do Juízo da Vara de Execuções Penais da Comarca de Criciúma/SC, que deferiu o pedido de realização de trabalho externo ao paciente DANILO CHUCH FERREIRA.
+Comunique-se, com urgência, a o Tribunal de Justiça do Estado de Santa Catarina e ao Juízo das Execuções.
+Publique-se. Intimem-se.
+EMENTA
