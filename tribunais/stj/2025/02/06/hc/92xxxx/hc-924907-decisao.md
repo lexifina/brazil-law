@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RAFAEL MOREIRA DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5086731-64.2024.8.21.7000).
+Depreende-se dos autos que o paciente, preso preventivamente desde 21/11/2021, foi denunciado pela prática, em tese, dos crimes do art. 121, § 2º, incisos I (motivo torpe) e IV (recurso que dificultou a defesa da vítima), c/c o art. 29, caput, e art. 62, inciso I, do Código Penal; art. 211, caput, c/c o art. 29, caput, e art. 62, inciso I, do Código Penal, todos na forma do art. 69, caput do mesmo diploma legal (e-STJ fls. 25/30).
+Impetrado habeas corpus na origem, o Tribunal denegou a ordem, em acórdão assim ementado (e-STJ fl. 659):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. RÉU PRONUNCIADO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA, QUE NÃO SE SUSTENTA.
+INOCORRE O ALEGADO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA, CONSIDERANDO QUE HÁ DECISÃO DE PRONÚNCIA E QUE A CONSTATAÇÃO DO CONSTRANGIMENTO ILEGAL NÃO RESULTA DA ANÁLISE ISOLADA DO TEMPO TRANSCORRIDO DESDE A PRISÃO.
+REQUISITOS DA SEGREGAÇÃO CAUTELAR PRESENTES. OS FATOS SÃO DE EXTREMA GRAVIDADE. ADEMAIS, O PACIENTE É REINCIDENTE ESPECÍFICO, POR HOMICÍDIO QUALIFICADO, ALÉM DE TRÁFICO DE DROGAS E ROUBO MAJORADO, CIRCUNSTÂNCIAS QUE INDICAM A NECESSIDADEDE RESGUARDAR A ORDEM PÚBLICA E A INSTRUÇÃO CRIMINAL, DIANTE DA REITERAÇÃO NA PRÁTICA DE CRIMES COM VIOLÊNCIA OU GRAVE AMEAÇA. SEGREGAÇÃO MANTIDA.
+Daí o presente writ, no qual a defesa excesso de prazo para a formação da culpa, pois está preso há mais de 2 anos e 7 meses, sem que haja previsão para o seu julgamento perante o Tribunal do Júri.
+Afirma que "a pandemia e o Estado de Calamidade no Rio Grande do Sul em virtude das enchentes mantiveram as atividades forenses suspensas no Estado do Rio Grande do Sul por vários meses, oque retardou o aprazamento de solenidades (audiências e júris)" - e-STJ fl. 5.
+Aduz que foi pronunciado em 14/9/2022 e o RSE nem sequer foi julgado até o presente momento. Argumenta que " a  gravidade e/ou complexidade do fato noticiado não podem servir de justificativa para o crescente alongamento dos prazos de instrução e julgamento de processos de réus presos" (e-STJ fl. 6)  ..  e que "tendo encerrado a instrução, não há razão para a manutenção da prisão cautelar, posto que todas as provas já foram produzidas e testemunhas ouvidas" (e-STJ fl. 9).
+Indeferida a liminar (e-STJ fls. 673/675) e prestadas as informações (e-STJ fls. 685/688 e 691/728), manifestou-se o Ministério Público Federal, nesta instância, pelo não conhecimento da ordem.
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Isso porque, em consulta ao sítio do Tribunal de Justiça do Estado do Rio Grande do Sul, observo que, aos 27/6/2024, o recurso em sentido estrito interposto pela defesa foi provido para despronunciar o paciente. Na oportunidade, foi determinada a expedição de alvará de soltura.
+Veja a ementa do acórdão:
+RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. OCULTAÇÃO DE CADÁVER. SENTENÇA DE PRONÚNCIA. RECURSO DEFENSIVO.
+No caso narrado na inicial, de abominável violência, embora evidenciada a materialidade - existência do crime -, inexistem elementos judicializados a apontar suficientes indícios de autoria em relação ao réu. Friso, no ponto, que é de conhecimento desta magistrada que crimes dolosos contra a vida praticados no âmbito do tráfico de drogas são de difícil elucidação pela autoridade policial, em razão do temor provocado pela forma das execuções e agressões perpetradas, assim realizadas, por certo, para assegurar o silêncio de familiares e demais testemunhas. No entanto, não bastam, exclusivamente, para fundamentar a decisão de pronúncia, a menção a elementos informativos do inquérito policial. Artigo 155 do CPP. Relatos indiretos e por "ouvir dizer" (hearsay testimony) que não constituem elementos suficientes para a viabilidade da acusação nesse momento processual. Fragilidade do conjunto probatório que não permite a submissão do réu a julgamento pelo Tribunal do Júri. Artigo 414 do Código De Processo Penal. Despronúncia em relação à acusação do crime doloso contra a vida e revogação da prisão preventiva. Remessa dos autos ao Juízo competente para julgar o fato conexo.
+RECURSO DEFENSIVO PROVIDO.
+Diante do exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
