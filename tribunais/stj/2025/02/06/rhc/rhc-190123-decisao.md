@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por PAULO FERREIRA PEREIRA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ (HC n. 0759776-09.2023.8.18.0000).
+Depreende-se dos autos que o recorrente encontra-se em custódia preventiva e foi pronunciado pela prática, em tese, de homicídio qualificado.
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 385/396).
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da custódia preventiva ante a falta de fundamentação idônea da decisão que decretou a prisão cautelar.
+Destaca as circunstâncias pessoais favoráveis.
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Argumenta estar "em situação idêntica e homogênea dos pacientes que foram postos em liberdade", devendo ser aplicado o art. 580 do CPP.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva.
+A liminar foi indeferida, sendo solicitadas informações ao Juízo de primeiro grau e ao Tribunal de origem, requisitando senha para acesso aos andamentos processuais (e-STJ fls. 425-426), que foram prestadas (e-STJ fls. 446-450 e 452-457).
+O Ministério Público Federal opinou pelo desprovimento do recurso ordinário (e-STJ fls. 458-460).
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+No tocante a prisão do recorrente não verifico constrangimento ilegal, de modo que não subsistem os argumentos defensivos de liberdade provisória ou mesmo da restrição da liberdade por medidas cautelares diversas prevista no artigo 319 do Código de Processo Penal, sendo que nesse sentido é parecer do Ministério Público Federal (e-STJ fls. 458-460):
+"Como se vê, a prisão preventiva encontra fundamento na gravidade concreta do crime, revelada pelas circunstâncias em que foi praticado, especialmente o fato de ter sido a vítima alvejada na frente de suas filhas menores, por exigência do ora recorrente (segundo restou consignado no acórdão) e nas proximidades de uma escola."
+Ainda, verifico que no processo de origem já foi proferida sentença de pronúncia, sendo a necessidade da prisão reavaliada pelo Magistrado de origem, mais próximo dos fatos, entendeu que ainda estariam presentes os requisitos que a autorizam com base em fundamentação idônea. Assim, verifico que estão preenchidos dos artigos 312 e 313 do Código de Processo Penal, devendo ser mantida a segregação cautelar do paciente, não havendo constrangimento ilegal a ser reparado pela via estreita do habeas corpus.
+Friso que há posição dominante desta Corte de Justiça, no sentido de que as condições pessoais favoráveis à soltura, como a primariedade, residência fixa e trabalho lícito, não impedem, por si só, a manutenção da segregação cautelar devidamente fundamentada (AgRg no HC 746.279/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21.06.2022, DJe de 27.06.2022; AgRg no HC 749.071/MT, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 02.08.2022, DJe de 08.08.2022; AgRg no RHC 174.160/BA, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 27.03.2023, DJe de 31.03.2023).
+Destaco também que há entendimento desta Corte e da Corte Suprema, no sentido de que, embora o paciente seja réu primário, é possível existirem indícios de reiteração da conduta ilícita que demonstram periculosidade e consequente risco à ordem pública que autoriza a manutenção da prisão preventiva (HC 126.030, Rel. Min. Marco Aurélio, Rel. Min. do Acórdão Edson Fachin, Primeira Turma, julgado em 04.08.2015, DJe 25.08.2015; RHC 162.905/ES, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 07.06.2022, DJe de 13.06.2022).
+Em relação à pretensão do recorrente de que seja concedida extensão do benefício concedido a corréus da ação de origem, na forma do artigo 580 do Código de Processo Penal, verifico que melhor sorte não lhe assiste, devido a supressão de instância.
+Nesse sentido, a concessão do referido benefício em relação aos corréus na origem, faz com que o Magistrado daquela instância seja a autoridade competente para apreciar a pretensão. Ademais, o recorrente não demonstrou que tal matéria tenha sido apreciada pelo juízo de origem, o que faz com que a irresignação defensiva não prospere.
+Mesmo em análise de ofício, nos termos do artigo 647-A do Código de Processo Penal, não verifico que o conjunto de circunstâncias atinentes ao paciente seja similar ao dos corréus paradigmas, de forma a possibilitar que o mesmo seja agraciado com a extensão dos efeitos da decisão.
+Neste tocante o Ministério Público Superior apresenta entendimento que se coaduna com o nosso, vejamos (e-STJ fls. 458-460):
+"Por fim, necessário consignar, como o fez o TJPI, que cabe ao juízo processante, que proferiu a decisão favorável a corréu (revogação da preventiva), analisar o pedido de extensão com fundamento no art. 580 do CPP."
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
