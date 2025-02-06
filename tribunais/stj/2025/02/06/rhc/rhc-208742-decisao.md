@@ -1,0 +1,32 @@
+DECISÃO
+ANTONIO DOUGLAS OLIVEIRA BARROS alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2306283-92.2024.8.26.0000.
+Em suas razões, a defesa sustenta, em síntese, que a decisão que decretou a prisão preventiva do recorrente - acusado da prática do delito de homicídio qualificado tentado - seria carente de fundamentação idônea.
+Requer, assim, a revogação da segregação cautelar do acusado.
+Deferida a liminar (fls. 120-123) e prestadas as informações (fls. 126-129 e 131-132), foram os autos ao Ministério Público Federal, que se manifestou pelo desprovimento do recurso ordinário (fls. 134-136).
+Decido.
+O pleito defensivo comporta acolhimento.
+A prisão preventiva foi decretada pelo Juiz de primeiro grau com amparo na seguinte fundamentação (fls. 44-45):
+3) Acerca da prisão preventiva, trata-se de crime de homicídio qualificado e tentado, acerca do qual há provas de materialidade e indícios bastantes de autoria do fato gravíssimo, que autorizaram o presente recebimento da peça acusatória inclusive.
+Sem dúvida, casos como o presente demandam maior severidade, pois colocam à mostra a violência manifesta que assola nossa terra, desassossega e intranqüiliza a sociedade, já cansada e atormentada pela constante ausência de segurança nos dias atuais. Deveras, o fato em si revela a temibilidade do agente, que - ao que tudo indica - possui conduta violenta e perigosa, característica intrínseca de quem pratica ou tenta praticar crime dessa natureza, de quem tira ou tenta tirar o bem mais precioso que o ser humano possui - a vida.
+E o Poder Judiciário não pode ficar alheio ou ausente a esta preocupação, pois a ele, em última instância, é que cabe a palavra e a solução. Benesses inadequadas ou favores não merecidos só fazem aumentar ainda mais o devastador e desolador quadro de violência que enfrentamos diariamente, com total desrespeito e desconsideração ao maior bem que o ser humano possui, como já mencionado, que é a vida. Aquele que não se preocupa com isto e age como homicida, merece tratamento severo visando coibir novas situações desastrosas como estas.
+Veja-se que, além de haver provas de materialidade e indícios bastantes de autoria de fatos tão graves, há necessidade da prisão provisória para garantia da manutenção da ordem pública, em se versando sobre pessoa violenta, agressiva, pois de outra natureza jamais teria aptidão para prática de atos do jaez que se versa nesta ação penal.
+Ainda, neste momento processual, em liberdade poderia obstar que testemunhas/informantes pudessem depor seguras e sem constrangimentos, sendo, ademais, imperativa a cautela máxima para garantir-se a instrução criminal e a eventual futura aplicação da lei penal.
+Deveras, a prisão no caso destes autos, ao menos por ora, é mais que aconselhável, é imperiosa, sem haver que se falar em aplicação de meras medidas cautelares diversas da prisão, bem como fiança, inclusive por não haver adequação e suficiência das referidas medidas com a gravidade do crime e seu autor, o que demanda maior rigor, ao menos nessa fase procedimental.
+Consequentemente, mostra-se de rigor a presente DECRETAÇÃO DA PRISÃO PREVENTIVA de ANTONIO DOUGLAS OLIVEIRA BARROS, uma vez bem preenchidos os requisitos dos artigos 312 e 313 do CPP. Expeça-se mandado. Dentro de 90 dias, tornem os autos conclusos para reanálise dessa medida. .
+O Tribunal de origem ratificou a decisão de primeiro grau.
+Com efeito, o Juiz de primeira instância, muito embora tenha demonstrado plena compreensão quanto à necessidade de tornar mais fechada e concreta a abertura semântica das expressões "garantia da ordem pública" e "conveniência da instrução criminal", apontou de modo apenas genérico a presença dos vetores contidos no art. 312 do CPP, sem indicar motivação suficiente para decretar a prisão preventiva, uma vez que se limitou a afirmar que "há necessidade da prisão provisória para garantia da manutenção da ordem pública, em se versando sobre pessoa violenta, agressiva, pois de outra natureza jamais teria aptidão para prática de atos do jaez que se versa nesta ação penal" (fl. 45).
+Tais circunstâncias, na compreensão do Juiz de primeiro grau, evidenciariam a necessidade de manutenção da custódia cautelar para assegurar a aplicação da lei penal e garantir a ordem pública.
+O acórdão impugnado, em sentido similar, se limitou a narrar a conduta imputada ao acusado, sem nomear elementos específicos à hipótese em comento, capazes de justificar a segregação provisória.
+Em nenhum momento, as instâncias ordinárias fizeram menção a qualquer elemento concreto dos autos que, efetivamente, evidenciasse que o paciente, solto, pudesse colocar em risco a ordem pública ou reiterar na prática delitiva, ou mesmo se furtar à aplicação da lei penal, motivo pelo qual entendo que se justifica o provimento do recurso ordinário.
+Importante destacar, ainda, que se trata de réu primário e de bons antecedentes.
+Concluo, portanto, que os elementos apresentados, por si sós, não servem para denotar a periculosidade exacerbada do réu, a ponto de justificar o emprego da cautela máxima, o que impõe o provimento do recurso ordinário, sob pena de essa prisão perder sua natureza excepcional e se transformar em mera resposta punitiva antecipada.
+Nessa perspectiva:
+ ..
+1. Segundo a jurisprudência desta Corte Superior de Justiça, toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade. Nem a gravidade abstrata do delito nem meras conjecturas servem de motivação em casos que tais.
+2. A menção do magistrado, pura e simples, a conjecturas a respeito da gravidade abstrata do crime, sem a incidência de nenhum elemento concreto, não é suficiente para decretar a prisão preventiva do acusado. Se assim fosse, a prisão provisória passaria a ter caráter de prisão obrigatória.
+ ..
+(HC n. 362.072/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/2/2017, destaquei)
+À vista do exposto, confirmada a liminar, dou provimento ao recurso ordinário para revogar a prisão preventiva do recorrente.
+Não há prejuízo de nova decretação da segregação cautelar, se efetivamente demonstrada sua concreta necessidade, ou de imposição de medida cautelar alternativa, também suficientemente fundamentada, nos termos dos arts. 282 e 319 do CPP .
+Publique-se e intimem-se.
+EMENTA
