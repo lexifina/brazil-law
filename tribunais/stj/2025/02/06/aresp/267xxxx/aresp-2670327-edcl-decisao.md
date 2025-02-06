@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Nergio Fogaça de Almeida. contra decisum de fls. 730/735, que, conhece do agravo e deu provimento ao recurso especial do INSS, para afastar a equiparação da categoria profissional de agropecuária à atividade exercida pelo autor.
+Inconformada, a parte embargante, afirma que "A decisão ora embargada é obscura e omissa, pois não observou a possibilidade da aplicação do instituto da reafirmação da DER no presente caso" (fl. 739).
+Defende que, "no presente caso merece ser aplicado o instituto da reafirmação da DER, para fins de manutenção da concessão da aposentadoria por tempo de contribuição, seja pelo direito adquirido até a EC 103/2019, ou pela análise das suas regras de transição, trazidas pela Emenda Constitucional." (fl. 740).
+Ao fina, "requer seja esclarecida obscuridade e suprida omissão, em relação a observância e aplicação do Tema Repetitivo 995 do STJ no presente caso, para fins de manutenção ou de concessão de benefício previdenciário ao segurado, seja pelo direito adquirido até a EC 103/2019 ou pelas modalidades das regras de transição após a referida Emenda" (fl. 741)
+Devidamente intimada, a parte embargada não impugnou, conforme certidão de fl. 682.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Contudo, não se verifica a existência de qualquer das deficiências em questão, pois a decisão embargada decidiu, de forma clara e fundamentada, toda a controvérsia posta no recurso.
+Com efeito, a decisão embargada, solucionou a controvérsia, nos exatos termos da pretensão recursal do INSS, que pretendeu a análise de se considerar como insalubre os serviços e atividades profissionais desempenhados na agropecuária (lavoura e pecuária cumulativamente), e, assim, a emissão de juízo de valor por esta Corte Superior de Justiça, no sentido de que, o Tribunal de origem destoou da orientação firmada na Primeira Seção deste STJ que, ao enfrentar caso análogo ao dos presentes autos, acolheu o pleito de uniformização de jurisprudência para fazer prevalecer o entendimento jurisprudencial pacífico deste STJ no sentido de que "o trabalhador rural (seja empregado rural ou segurado especial) que não demonstre o exercício de seu labor na agropecuária, nos termos do enquadramento por categoria profissional vigente até a edição da Lei 9.032/1995, não possui o direito subjetivo à conversão ou contagem como tempo especial para fins de aposentadoria por tempo de serviço/contribuição ou aposentadoria especial".
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no decisum embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confira-se:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. TEMA 1.115/STJ. EMBARGOS DE DECLARAÇÃO MANEJADOS PELO IBDP (AMICUS CURIAE). INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE AMPLIAÇÃO DA TESE FIXADA. IMPOSSIBILIDADE. REJEIÇÃO DOS
+ACLARATÓRIOS.
+1. Consigna-se, de início, que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no Código de Processo Civil - CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+3. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+4. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissão e obscuridade no julgado combatido, traduzem, na verdade, a pretensão de ampliação da tese delimitada ao ensejo da afetação da controvérsia ao rito dos recursos repetitivos. Portanto, não há falar em omissão ou obscuridade.
+5. Embargos de declaração do Instituto Brasileiro de Direito Previdenciário - IBDP rejeitados.
+(EDcl no REsp n. 1.947.404/RS, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 6/2/2024 )
+Repito, inexistente, pois, qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Ademais, "Não configura omissão o simples fato de o julgador não se manifestar sobre todos os argumentos levantados pela parte, uma vez que está obrigado apenas a resolver a questão que lhe foi submetida com base no seu livre convencimento (art. 131, CPC)." ( EDcl nos EDcl no Resp 637.836/DF, Rel. Ministro Felix Fischer, Quinta Turma, DJ 22/5/2006).
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
