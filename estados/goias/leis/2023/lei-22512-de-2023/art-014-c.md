@@ -1,0 +1,2 @@
+Art. 14-C. Ficam transferidos para esta Lei 5 (cinco) cargos e os atuais ocupantes de Advogado, do nível do Ensino Superior, da Lei nº 15.190, de 2005, que se consideram extintos na medida em que vagarem, mantidas as atribuições estabelecidas.
+Parágrafo único. A estrutura e os valores de subsídios são os definidos no art. 3º da Lei nº 21.223, de 29 de dezembro de 2021, e suas alterações posteriores.

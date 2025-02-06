@@ -1,0 +1,2 @@
+Art. 14-D. Ficam transferidos para esta Lei 2 (dois) cargos e os atuais ocupantes de Técnico de Nível Superior - 8,5 SM - DETRAN, do nível do Ensino Superior, do Quadro Provisório de que trata a Lei nº 15.190, de 2005, que se consideram extintos na medida em que vagarem, mantidas as atribuições estabelecidas.
+Parágrafo único. O valor do vencimento do cargo de que trata este artigo é de R$ 7.426,18 (sete mil, quatrocentos e vinte e seis reais e dezoito centavos).
