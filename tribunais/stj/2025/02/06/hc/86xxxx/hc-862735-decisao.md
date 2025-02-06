@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de HELENO GILBERTO BOENO DE MOURA apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul na Correição Parcial n. 5283551- 90.2023.8.21.7000.
+Os autos dão conta de que o paciente encontra-se preso preventivamente, tendo sido ainda pronunciado, por suposta prática de homicídio qualificado tentado e lesões corporais no âmbito doméstico.
+Consta, ainda, que o MINISTÉRIO PÚBLICO apresentou correição parcial perante o Tribunal a quo contra decisão que proibiu a utilização, tanto para a acusação como para a defesa, como argumento nos debates orais, ou documentalmente, dos elementos informativos produzidos na fase de policial.
+A correição foi julgada procedente, nos termos da seguinte ementa (e-STJ fl. 102):
+CORREIÇÃO PARCIAL. POSSIBILIDADE DE UTILIZAÇÃO EM PLENÁRIO DOS ELEMENTOS INFORMATIVOS PRODUZIDOS NA FASE DE INVESTIGAÇÃO. AUSÊNCIA DE PREJUÍZO. DECISÃO REFORMADA. Com efeito, conforme normatiza o artigo 478, do Código de Processo Penal, as partes não poderão, durante os debates, fazer menção à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação, à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado ou, ainda, ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo. Nada referiu o dispositivo, contudo, sobre a impossibilidade de poderem as partes utilizar os elementos informativos produzidos na fase de investigação. A disponibilização de todas as provas constantes do processo, sejam produzidas na fase de investigação ou judicial, interessa à persecução penal, podendo ambas as partes utilizarem dos informes contidos na fase inquisitorial para convencimento dos Senhores Jurados.
+CORREIÇÃO PARCIAL JULGADA PROCEDENTE.
+No presente writ, a defesa aduz, em suma, que "devem tais elementos serem excluídos da apreciação do Conselho de Sentença, que certamente, por ser formado por pessoas leigas, não saberão identificar a diferença entre as provas produzidas na fase inquisitorial e aquelas produzidas na fase judicial, com observância dos princípios constitucionais do contraditório e da ampla defesa." (e-STJ fl. 9).
+Requer, assim (e-STJ fls. 9/10):
+ ..  a concessão de liminar a fim de que seja imediatamente suspenso o feito até o julgamento do mérito do presente writ. em função de que se fazem presentes e preenchidos os requisitos da tutela cautelar. quais sejam, o fumus boni iuris e a periculum in mora: haja vista o perigo de dano irreparável ou de difícil reparação aos pacientes, que possivelmente ocorrerá em razão da (de) mora na prestação jurisdicional.
+ ..
+ ..  seja concedido o HA- BEAS CORPUS, para cassar o acórdão proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, conforme acima delineado, mantendo-se a decisão do magistrado singular.
+A liminar foi indeferida (e-STJ fls. 112/114).
+As informações foram prestadas (e-STJ fls. 182/184).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 186/191).
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+O art. 478, I e II, do Código de Processo Penal estabelece que as partes não poderão, sob pena de nulidade, fazer referências à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado, bem como ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo.
+Não há vedação à utilização em plenário de elementos informativos do inquérito. Até mesmo porque cabe ao Conselho de Sentença julgar o delito, de modo que pode ter acesso amplo aos autos.
+Sendo assim, não se verifica qualquer ilegalidade.
+Além disso, destaca-se que não há notícia nos autos da realização da sessão plenária.
+Cumpre consignar, que, nos moldes do art. 563 do Código de Processo Penal, nenhum ato será declarado nulo se da nulidade não resultar danos às partes. Nessa toada, é evidente que a tipicidade dos atos processuais funciona somente como instrumento para a correta aplicação do direito.
+Na mesma linha intelectiva, elucida o art. 566 do CPP que não será declarada a nulidade do ato processual quando não houver influído na verdade substancial ou na decisão da causa. Com efeito, demonstrada a inocuidade do ato processual viciado, inabilitado de influir no convencimento judicial, é inviável o reconhecimento da nulidade.
+Considerando que não houve realização da sessão plenária e sequer há conhecimento da utilização de tais documentos e a influência aos jurados, não há como se reconhecer qualquer nulidade.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
