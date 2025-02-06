@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por EUGENIO BATISTA ROSA NETO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE GOIÁS que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 148824-75.2019.8.09.0011 (fls. 327/336), com a seguinte ementa:
+EMENTA: APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELO EMPREGO DE CHAVE FALSA. ABSOLVIÇÃO PELAS TESES DO CRIME IMPOSSÍVEL E AUSÊNCIA DE PROVAS QUANTO À A U T O R I A N Ã O P R E V A L E C E M . A F A S T A M E N T O D A QUALIFICADORA. IMPOSSIBILIDADE. TENTATIVA. CONFIRMADA. DOSIMETRIA DA PENA REVISTA. 1. A instrução processual fez prova da autoria, do emprego de chave falsa e da interrupção da consumação do crime. 2. Da declaração do réu, evidenciam-se a autoria e o emprego de chave falsa, ao passo que do depoimento do policial, advém a informação de que a consumação do crime restou interrompida por voz de prisão. 3. Aferido que a conduta delitiva conformou-se em tentativa, reviu-se a dosimetria para aplicar a causa de diminuição da pena na fração máxima de 2/3 (dois terços). APELO CONHECIDO E PARCIALMENTE PROVIDO.
+No recurso especial (fls. 341/349), a defesa requereu, em síntese, o afastamento da qualificadora do art. 155, § 4º, III, do Código Penal, redimensionando-se a pena imposta.
+Inadmitido o recurso na origem (fls. 365/367), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 373/381).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 399/403), em parecer com a seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. EMPREGO DE CHAVE FALSA. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE FURTO SIMPLES. NECESSIDADE DE REEXAME DE ASPECTOS FÁTICO-PROBATÓRIOS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. PARECER PELO NÃO CONHECIMENTO DO RECURSO OU, CASO ASSIM NÃO SE ENTENDA, PELO NÃO PROVIMENTO.
+É o relatório.
+Conheço do agravo, porquanto presentes os pressupostos para sua admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Ao agravante foi imposta, pelo Tribunal de origem, a pena de 8 meses de reclusão e 10 dias-multa, pela prática de furto qualificado com emprego de chave falsa.
+Em suas razões do especial, afirma que as chaves encontradas em poder do acusado não eram falsas, razão pela qual requer a exclusão da qualificadora, com o redimensionamento da pena imposta.
+O agravante foi flagrado no curso da ação criminosa cujo objetivo era a subtração de uma motocicleta e, para isso, utilizou-se das chaves que trazia consigo, pertencentes a outros veículos. Por tal razão, argumenta com a não ocorrência da demonstração da qualificadora em questão, que exige que a chave seja "falsa".
+A qualificadora em questão foi devidamente demonstrada nos autos. Das chaves encontradas em poder do acusado, e que estavam sendo utilizadas para tentar subtrair a motocicleta, nenhuma era chave pertencente ao veículo, o que enseja concluir que se enquadram no conceito de "chave falsa" descrito no tipo penal. O conceito de chave falsa abrange todo o instrumento, com ou sem forma de chave, utilizado como dispositivo para abrir fechadura, incluindo mixas (HC n. 101.495/MG, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 25/8/2008).
+Pelo exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELO EMPREGO DE CHAVE FALSA. CHAVE APREENDIDA EM PODER DO ACUSADO, QUE NÃO ERA A CHAVE VERDADEIRA DO VEÍCULO, MAS PERTENCENTE A VEÍCULO DE SUA PROPRIEDADE, UTILIZADA COMO INSTRUMENTO PARA TENTAR SUBTRAIR O VEÍCULO. INSTRUMENTO QUE SE ENQUADRA NO CONCEITO DE "CHAVE FALSA" DESCRITO NO TIPO PENAL.
+Agravo conhecido para negar provimento ao recurso especial.
