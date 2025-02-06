@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inciso III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 197):
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS). CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). ICMS INCIDENTE SOBRE A OPERAÇÃO DE AQUISIÇÃO. CREDITAMENTO. IMPOSSIBILIDADE. MP 1.159/2023. LEI 14.592/2023. CONSTITUCIONALIDADE. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL OBSERVADO.
+1. O art. 195, §12, da CRFB outorga ao legislador ordinário a liberdade para estipular os critérios e os beneficiários da não cumulatividade das contribuições ao PIS/COFINS, desde que respeitados os demais preceitos constitucionais (Tema 756 do STF).
+2. É constitucional a vedação de apurar créditos das contribuições ao PIS e da COFINS sobre o valor do ICMS que tenha incidido sobre a operação de aquisição, na forma do art. 3º, §2º, inciso III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei nº 14.592/2023.
+3. Constitucional o procedimento adotado pelo Congresso Nacional, no exercício de seu poder legislativo, ao emendar o Projeto de Lei referente à MP nº 1.147/2022 de modo a nela incluir dispositivos inicialmente inseridos na MP nº 1.159/23, ambas vigentes à época. Violação ao art. 62, §10, da Constituição Federal não verificada.
+4. Princípio da anterioridade nonagesimal observado, uma vez que o art. 14, II, da Lei 14.592/2023 convalidou os art. 1º e 2º da Medida Provisória n. 1.159/2023, que tratou da impossibilidade de creditamento do ICMS incidente em operação de aquisição, e esta, por sua vez, em seu art. 3º, previu que a produção dos seus efeitos se daria somente a partir do primeiro dia do quarto mês subsequente ao de sua publicação quanto às alterações promovidas pelos art. 1º e 2º, na parte em que alteram o inciso III do § 2º do art. 3º das Leis nº 10.637/2002 e 10.833/2003.
+Embargos de declaração opostos e rejeitados, às fls. 227-229.
+A recorrente alega violação dos arts. 1.022 e 489, ambos do CPC/15, caso não se entenda pelo prequestionamento dos dispositivos apontados como violados no recurso.
+Aduz haver inexistência de relevância e urgência para a MP 1.159/23.
+Aponta, à fl. 250, contrariedade aos arts. 1º, caput, parágrafo único, 2º, caput, 5º, caput, e LIV, CRFB, nos moldes daquilo já decidido pelo STF, como referido, na ADI 5127.
+Afirma haver afronta ao art. 150, §6º, da CF, uma vez que há necessidade de instrumento legal específico para veicular desoneração tributária.
+Sustenta violação dos arts. 3º, § 1º, das Leis 10.637/02 e 10.833/03; 13 do DL 1.598/7; 8º, 489, 926, 927 do CPC; 2º da Lei 9.784/99; 10, 11 e 110 do CTN, defendendo, em suma, o direito líquido e certo da impetrante, ora Recorrente, de fazer incluir na base de créditos do PIS e da COFINS, o valor relativo ao ICMS incidente nas operações de aquisição.
+Subsidiariamente, argumenta a perda de eficácia da MP n. 1.159/2023 e a necessidade de aplicação da regra da anterioridade nonagesimal.
+Contrarrazões às fls. 308-317.
+Juízo positivo de admissibilidade à fl. 325.
+Parecer do MPF, às fls. 335-338, pelo não conhecimento do recurso.
+É o relatório. Passo a decidir.
+Consigna-se inicialme nte que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Não se conhece da suposta afronta aos artigos 489 e 1.022, ambos do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa aos referidos normativos sem, contudo, demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Ressalta-se que não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+No que tange à alegada violação do art. 3º, § 1º, das Leis 10.637/02 e 10.833/03, tem-se que não é possível conhecer do recurso especial que apresenta sua suposta violação, pois os dispositivos em exame também não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. DESTAQUE. LIMITAÇÃO DE PERCENTUAL. INCIDÊNCIA DAS SÚMULAS 284/STF E 5 e 7/STJ.
+ ..
+2. Não se conhece do recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida, ante o óbice contido na Súmula 284 do STF.
+ ..
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt no REsp n. 1.909.855/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 2/8/2021.)
+Além disso, verifica-se que a Corte de origem examinou a contenda destes autos sob o viés constitucional, à luz dos princípios da legalidade, da não cumulatividade (art. 195, § 12, da CFRB) e da anterioridade nonagesimal, bem como no que se refere ao exame dos Temas de Repercussão Geral n. 34 e 756/STF e da inconstitucionalidade da MP n. 1.159/2023. Assim, tenho que o apelo nobre não se presta para revisão de julgado, sob pena de usurpação da competência do Supremo Tribunal Federal. A propósito: AgInt no REsp n. 2.098.595/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 2/9/2024.
+Ante o exposto, não conheço do recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. ACÓRDÃO RECORRIDO COM FUNDAMENTO ESTRITAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. PRECEDENTE. RECURSO ESPECIAL NÃO CONHECIDO.
