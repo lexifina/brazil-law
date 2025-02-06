@@ -1,0 +1,12 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por VICTOR RAFAEL ALMEIDA DA MATA - denunciado como incurso no crime de posse ilegal de arma de fogo de uso restrito - contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO (Habeas Corpus n. 1011727-53.2023.8.11.0000), não comporta provimento.
+Com efeito, busca o recorrente o trancamento do Inquérito Policial que tramita perante o Juízo de Direito da do Núcleo de Inquéritos Policiais da comarca de Cuiabá/MT (Autos n. 1003918-85.2020.8.11.0042), ao argumento de que a busca pessoal e veicular que ensejou a prisão em flagrante não foi precedida de fundada suspeita da prática de crime.
+Conforme informações prestadas pelo Juízo singular (fls. 134/136), houve a superveniência de homologação de acordo de não persecução penal perante a origem.
+Ocorre que, na via eleita, o trancamento da ação penal somente se viabiliza quando, pelo simples exame dos fatos constantes na peça acusatória, constata-se a sua atipicidade ou a inexistência de qualquer indício de ser o acusado autor do delito, o que não se verifica na espécie.
+Consta do acórdão a quo que, na hipótese dos autos, ao menos em um juízo de cognição sumária, entendo que não se verifica ilegalidade da busca veicular realizada, na medida em que a ação policial, além de ter sido realizada em decorrência de informações prévias de que na rua 1, quadra 52, do bairro Centro América, nesta capital, tinha acabado de acontecer um disparo de arma de fogo, após diligências no local, a equipe policial abordou o veículo com dois indivíduos em atitude suspeita, revelando certa plausibilidade e fundadas suspeitas para realização da abordagem policial, ocasião que encontraram uma pistola .40, contendo 10 munições (fl. 99 - grifo nosso ).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias seria necessário o reexame de provas, o que se mostra inviável na via eleita.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. TRANCAMENTO DO INQUÉRITO POLICIAL. NULIDADE. BUSCA PESSOAL E VEICULAR. SUPERVENIÊNCIA DE HOMOLOGAÇÃO DO ACORDO DE NÃO PERSECUÇÃO PENAL. FUNDADA SUSPEITA. RECENTE DISPARO DE ARMA DE FOGO NA LOCALIDADE APONTADA NA DENÚNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
