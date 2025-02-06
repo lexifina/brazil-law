@@ -1,0 +1,41 @@
+DECISÃO
+LEANDRO ANTUNES TILLIVS agrava da decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da CF, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Rondônia no Agravo em Execução n. 0809998-67.2023.8.22.0000.
+Consta dos autos que o agravante responde a processo de execução penal e teve deferida pelo Juízo singular a remição de 88 dias de sua pena pela aprovação no Exame Nacional Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA, uma vez que concluiu durante o resgate da reprimenda o 7º e o 8º ano do Ensino Fundamental e já finalizara, antes do cárcere, os estudos do 5º e do 6º ano do mesmo grau de ensino. A respectiva decisão foi mantida pelo Tribunal de origem quando do julgamento do agravo.
+Apresentadas as contrarrazões, a Corte de origem não admitiu o recurso especial em razão do óbice previsto na Súmula n. 83 do STJ, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (fls. 113-118).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivo por que avanço na análise de mérito da controvérsia.
+Ao decidir sobre a remição ao recorrente, o Juízo singular assim argumentou (fls. 18, grifei):
+ ..
+Considerando que o reeducando concluiu o ano letivo referente ao Ensino Fundamental, conforme Certificado juntado na sequência 424.2, deverá a escrivania proceder o lançamento do cálculo da seguinte forma:
+a) 7 e 8º anos de Ensino Fundamental - 88 dias de remição.
+Tal cálculo se deu em razão de o reeducando ter somente concluído o 7 e 8º anos de Ensino Fundamental enquanto cumpria pena na Unidade Prisional, visto que se encontra cumprindo pena desde o dia 03/06/ 2012.
+O Tribunal de origem, por sua vez, ao manter a decisão recorrida, empregou os seguintes fundamentos, no que interessa (fls. 51-54, destaquei):
+ ..
+A irresignação do agravante, por outro lado, limita-se à quantidade correta dos dias remidos a serem remidos pelo juízo da execução em razão da referida aprovação. A seu ver, ele teria direito a 177 (cento e setenta e sete) dias - 1.600 horas divididas por 12 mais 1/3.
+As 1.600 (mil e seiscentas) horas previstas na Resolução n. 391/21 do CNJ, para fins de remição, pela aprovação no ENCCEJA - ensino fundamental, resultam em 133 dias de remição.
+Nestes autos, o agravante fez o ENCCEJA da 5ª à 8ª série.
+No entanto, verifica-se que este já havia feito a 5ª e a 6ª série em outras escolas nos anos 2000 e 2001, não podendo ser beneficiado pela remição das séries que já havia concluído antes do início da execução, pois estar-se-ia admitindo a remição sem o seu fundamento principal - adquirir novos conhecimentos durante a execução da pena.
+O entendimento do Juízo da execução penal e da Corte de origem não estão em sintonia com a jurisprudência deste Superior Tribunal de Justiça.
+A individualização da pena (art. 5º, XLVI, da CF) também se dá na fase de execução. De acordo com o princípio da legalidade (art. 5º, II, da CF) e o art. 126 da LEP, o estudo ou o trabalho realizados nos regimes semiaberto e fechado são passíveis de remição, com a consequente redução significativa da pena.
+Por isso, com o devido respeito às opiniões em sentido contrário, considero incabível a remição por aprovação em exames que atestam o aprendizado e a conclusão da educação básica para o reeducando que concluiu o ensino fundamental e/ou médio antes mesmo de ingressar no sistema prisional.
+Ressalte-se que a União detém competência privativa para legislar sobre normas penais (art. 22, I, da CF). O Conselho Nacional de Justiça não criou uma nova modalidade de remição, por aprovação em espécie de vestibular, mas apenas regulamentou e padronizou a interpretação extensiva do art. 126 da LEP. Dessa forma, deve ser realizada uma análise integrada das normas, e não uma leitura isolada da resolução.
+Também prevalece no Supremo Tribunal Federal a compreensão de que "A remição ficta ou virtual da pena por estudo, em virtude de aprovação no Exame Nacional do Ensino Médio (Enem), não se aplica em caso de conclusão do ensino médio em momento anterior ao início da execução penal" (HC 235935 AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 12/04/2024).
+Contudo, esse não é o entendimento predominante nesta Corte. No julgamento do EREsp 1.979.591/SP, a Terceira Seção estabeleceu a compreensão de que é possível a remição da pena por aprovação no ENEM, mesmo que o reeducando tenha concluído os ensinos médio e superior antes do início do cumprimento de suas penas. Confira-se a ementa do julgado:
+EXECUÇÃO PENAL. EMBARGOS DE DIVERGÊNCIA. PROCESSO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DE CONCESSÃO DA BENESSE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. O Exame Nacional de Certificação de Competências de Jovens e Adultos - ENCCEJA é a avaliação de âmbito nacional própria para a certificação do aproveitamento do conteúdo programático do ensino médio e do ensino fundamental àqueles que atingiram a idade de quinze anos (para o nível fundamental) ou dezoito anos (para o nível médio). Diferentemente do ENEM, o ENCCEJA não se presta, por si só, ao ingresso no ensino superior.
+2. No caso dos autos, minha posição externada no julgamento do HC n. º 786.844, foi no sentido de que o paciente não faria jus à remição pelo estudo individual, uma vez que, conforme ressaltado pelo agravante, ao iniciar o cumprimento da pena, o agravado já havia concluído o ensino médio. Naquela oportunidade, o fundamento adotado era o de que a finalidade da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento da pessoa presa, mas, facilitar a sua reintegração social por meio do aprendizado de novos conhecimentos.
+3. Contudo, no julgamento do precitado HC n.º 786.844, realizado em agosto desta ano de 2023, restou consignado pela Quinta Turma deste STJ, por maioria de votos, a possibilidade de remição da pena na hipótese em exame, ou seja, mesmo após a conclusão do ensino médio e ainda que o sentenciado tenha obtido o diploma de curso superior antes do início do cumprimento da pena, como é o caso dos autos.
+4. Em sendo assim, submeto os presentes embargos de divergência a esta Terceira Seção, para que se defina a posição deste colegiado em relação ao tema e se estabilize a jurisprudência desta Corte, de forma a se atender ao dever cooperativo de coerência enunciado pelo art. 926 do CPC.
+Embargos de divergência providos.
+(EREsp n. 1.979.591/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 8/11/2023, DJe de 13/11/2023.)
+Assim, em respeito aos precedentes da Terceira Seção, deve ser observado o referido julgamento, com a minha ressalva pessoal de entendimento quanto ao tema.
+Ilustrativamente: "A aprovação no ENEM ou no ENCCEJA permite a remição de pena, mesmo para apenados que já concluíram o ensino médio, sem acréscimo de 1/3 pela conclusão do grau" (HC n. 929.733/SC, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 11/11/2024).
+Ora, se nem mesmo a conclusão anterior do nível de ensino obsta a remição pela aprovação no ENCCEJA, com muito menor razão há óbice em razão da finalização pretérita de apenas algumas das séries que o compõem.
+Ainda, tendo em vista que a conclusão efetiva do ensino fundamental se deu no cárcere, deve incidir o aumento de 1/3 previsto no art. 126, § 5º, da LEP.
+Ressalte-se que o mesmo fato gerador (aprovação no ENEM ou ENCCEJA) "não pode ocasionar sucessivas e cumuladas remições, a cada vez que  o preso  repetir provas de exames nacionais" (AgRg no HC n. 827.828/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30/8/2023).
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reconhecer ao apenado o direito à remição de 177 dias de pena por aprovação no ENCCEJA.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
