@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial contra acórdão do Tribunal Regional Federal da 5ª Região, que, à unanimidade de votos, negou provimento à Apelação n. 13569, mantendo a sentença que condenou JOSÉ CLEBER DOS SANTOS às penas de 5 anos e 10 meses de detenção, em regime inicial semiaberto, além de 180 (cento e oitenta) dias-multa, pela prática dos crimes previstos nos arts. 89 e 90 da Lei n. 8.666/1993, em concurso material. É esta a ementa do julgado (e-STJ fl. 714):
+PENAL E PROCESSO PENAL. INÉPCIA DA INICIAL AUSÊNCIA. CRIMES CONTRA A LEI DE LICITAÇÕES. DISPENSA DE LICITAÇÃO EM CASOS EM QUE A LEI EXIGE (ART. 89 DA LEI 8.666/93) E FRAUDE NO PROCEDIMENTO LICITATÓRIO (ART. 90 DA LEI Nº 8.666/93). AUTORIA E MATERIALIDADE DELITIVA COMPROVAÇÃO. CIRCUNSTÂNCIAS DO ART. 59 DO CP. CULPABILIDADE, CIRCUNSTÂNCIAS DO CRIME E CONSEQUÊNCIAS. VALORAÇÃO. DOSIMETRIA DA PENA. MANUTENÇÃO.
+1. É apta a denúncia que descreve suficientemente as condutas criminosas imputadas, tanto com relação aos delitos de dispensa indevida de licitação, quanto aos delitos de fraude/frustração de, processo licitatório, permitindo o pleno exercício da ampla defesa e do contraditório, atendendo ao que preceitua o artigo 41 do Código de Processo Penal.
+2. O crime do artigo 89 da Lei nº 8.666/93 se consuma com a mera dispensa ou afirmação de que a licitação é inexigível, fora das hipóteses previstas em lei, tendo o agente a consciência dessa circunstância, não se exigindo resultado naturalístico para a sua consumação. No delito do artigo 90 da Lei nº 8.666/93, o elemento subjetivo é a fraude ao caráter competitivo do processo licitatório, independente da demonstração de prejuízo à administração.
+3. Havendo provas suficientes da existência do elemento subjetivo de dispensar a licitação ou de fraudar o caráter competitivo dos certames, impõe-se a manutenção da condenação dos réus, bem como a das respectivas penas consideradas a valoração negativas da culpabilidade, das circunstâncias e consequências do crime, aplicadas nas duas penas.
+4. Apelações improvidas.
+Embargos de declaração rejeitados (e-STJ fl. 746):
+PROCESSUAL PENAL. EMBARGO DE DECLARAÇÃO. CONTRADIÇÃO, OMISSÃO. INEXISTÊNCIA. REEXAME DA CAUSA. IMPOSSIBILIDADE.
+1. Os ernbargos de declaração, com efeito infringente, não são o meio próprio "para tentar reexaminar a causa, a pretexto de suposta ocorrência de omissão no julgado, concernente à possibilidade, de suspensão da pretensão punitiva de ação penal. acerca de crime contra a ordem tributária, em caso de parcelamento do débito antes do trânsito em julgado, quando há nos autos informação da Receita Federal do Brasil de que não há parcelamento vigente.
+2 Embargos declaratórios conhecidos e improvidos
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a defesa ofensa a o art. 619 do CPP; aos arts. 89 e 90 da Lei n. 8.666/1993; e aos arts. 29 e 59 do Código Penal.
+Aduz que o acórdão deixou de analisar pontos imprescindíveis apontados nas razões do apelo.
+Defende a absolvição nos termos do art. 386, III, do Código de Processo Penal pois, somente pode ser enquadrado no caput do art. 89 da Lei de Licitações, o servidor público, investido no cargo, capaz de dispensar ou não exigir, fora das hipóteses legais, o procedimento licitatório. Diz, ainda, que não foi demonstrado o dolo específico e o efetivo prejuízo ao erário, sendo, pois, atípica a conduta.
+Prossegue afirmando que "a adoção de procedimento licitatório diverso do determinado pela lei não caracteriza o crime de fraude à licitação, sendo, com a devida licença, um indiferente penal, já que não há demonstração dos elementos do tipo do art. 90 da lei 8.666/93, ou seja, não se aponta a fraude ou frustração, mediante ajuste (ou qualquer outro meio), do caráter competitivo da licitação, sem se apontar, igualmente, o dolo específico, no que concerne ao recorrente, consistente na vontade livre e consciente de obter uma vantagem decorrente da adjudicação do objeto da licitação" (e-STJ fl. 765).
+Diz, ainda, que houve bis in idem, pois a dispensa de n. 5/2011 foi utilizada para demonstração de ambos os delitos (arts. 89 e 90 da Lei de Licitações), e que deveria ter sido aplicado o princípio da absorção.
+Insurge-se, por fim, contra a pena imposta.
+Contra-arrazoado (e-STJ fls. 777/796) e admitido (e-STJ fls. 901/902), manifestou-se o Ministério Público Federal, nesta instância, pelo desprovimento do recurso (e-STJ fls. 1.401/1.405).
+É o relatório.
+Decido.
+Verifico, no caso, violação do art. 619 do CPP.
+Isto porque, da leitura dos embargos de declaração opostos pela defesa, observo que foram levantadas as seguintes teses: a) não especificação, no acórdão, da atuação do empresário na prática delituosa; b) ausência de correlação entre a sentença e a denúncia; c) aplicação do princípio da consunção; d) negligência do prefeito (ato culposo); e) ausência de análise dos argumentos defensivos relativos à dosimetria da pena (e-STJ fls. 716/729).
+O Tribunal a quo, contudo, assim apreciou os aclaratórios (e-STJ fl. 744):
+O acórdão recorrido não merece qualquer reparo, uma vez que, como bem observado pelo Ministério Público Federal em contrarrazões, foi claro ao definir que não é possível a suspensão da pretensão punitiva do Estado, uma vez que inexiste qualquer parcelamento comprovado nos presentes autos.
+Muito pelo contrário, consta nos presentes autos, informação da Receita Federal do Brasil à folha 460, de que não existe qualquer parcelamento vigente perante do órgão de fiscalização e arrecadação de tributos da União Federal.
+Com efeito, no caso dos autos o embargante busca unicamente rediscutir a matéria à luz de informações sequer comprovadas nos presentes autos.
+Por todo o exposto, voto no sentido de conhecer dos embargos declaratórios e negar-lhes provimento.
+Como se pode observar, a defesa provocou o Tribunal de origem, nos embargos de declaração, sob pontos relevantes, tendo o julgamento dos aclaratórios silenciado quanto às teses defensivas.
+Com efeito, "a omissão relevante não sanada em embargos de declaração, que deixa de apreciar documentos e argumentos cruciais para a solução da controvérsia, configura violação do art. 619 do CPP, ensejando a anulação do julgamento dos embargos e o retorno dos autos ao tribunal de origem para novo julgamento" (AgRg no AREsp n. 2.590.503/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024).
+Nesses termos, é patente a violação do disposto no art. 619 do Código de Processo Penal, devendo os autos retornar ao Tribunal de origem, para que supra as omissões apontadas na peça de embargos de declaração.
+A propósito do tema, vale destacar os seguintes precedentes:
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO RELEVANTE CONFIGURADA. RECURSO ESPECIAL PROVIDO.
+I. CASO EM EXAME
+1. Agravo interposto pelo MINISTÉRIO PÚBLICO DE GOIÁS contra decisão que inadmitiu recurso especial por ausência de prequestionamento, com base na Súmula 282 do STF. O agravante sustenta violação do art. 619 do CPP, e que a oposição de embargos de declaração gerou o prequestionamento ficto, conforme o art. 1.025 do CPC.
+II. QUESTÃO EM DISCUSSÃO
+2. Consiste em verificar se houve omissão relevante por parte do Tribunal de origem ao não apreciar a matéria arguida nos embargos de declaração, configurando negativa de prestação jurisdicional; e em definir se a oposição dos embargos de declaração configura prequestionamento ficto nos termos do art. 1.025 do Código de Processo Civil.
+III. RAZÕES DE DECIDIR
+3. A ausência de apreciação de matéria essencial arguida em embargos de declaração caracteriza negativa de prestação jurisdicional, violando o disposto no art. 619 do CPP, conforme jurisprudência consolidada do STJ.
+4. Embora o juiz não precise responder a todas as questões levantadas pelas partes de forma pormenorizada, há omissão relevante quando não se emite decisão sobre ponto essencial para a solução da controvérsia.
+5. O prequestionamento ficto é aplicável quando, apesar da oposição de embargos declaratórios, o Tribunal de origem permanece omisso, nos termos do art. 1.025 do CPC.
+6. Configurada a omissão, é necessário o retorno dos autos ao Tribunal de origem para que este se pronuncie expressamente sobre as teses suscitadas nos embargos de declaração, conforme determina a jurisprudência.
+IV. RECURSO ESPECIAL PROVIDO, DETERMINANDO-SE O RETORNO DOS AUTOS À ORIGEM.
+(AREsp n. 2.710.536/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO EM ACÓRDÃO RECORRIDO. VIOLAÇÃO DO ART. 619 DO CPP. RECONSIDERAÇÃO QUE SE IMPÕE. PONTO RELEVANTE NÃO APRECIADO PELA CORTE DE ORIGEM. JULGAMENTO ANULADO. RETORNO DOS AUTOS PARA NOVO JULGAMENTO QUE SE IMPÕE.
+I. CASO EM EXAME 1. Recurso especial interposto pela recorrente contra o acórdão que rejeitou embargos de declaração em processo que manteve a decisão de sequestro de valores e a pena de perdimento decretada em sentença penal condenatória. A recorrente alegou omissão no acórdão em relação à apreciação de documentos produzidos e analisados pela Polícia Federal, chancelados pelo Ministério Público e homologados judicialmente, que supostamente demonstrariam a licitude dos valores e sua condição de terceira de boa-fé.
+II. QUESTÃO EM DISCUSSÃO 2. Há uma questão em discussão: determinar se houve violação do art. 619 do Código de Processo Penal em razão da omissão do acórdão recorrido quanto à análise de documentos relevantes para a comprovação da licitude dos valores bloqueados e da condição de boa-fé da recorrente.
+III. RAZÕES DE DECIDIR 3. O acórdão recorrido deixa de apreciar o ponto omisso apontado pela recorrente, relacionado à falta de fundamentação sobre a documentação que comprovaria a licitude dos valores e a boa-fé da embargante, conforme análise da Polícia Federal e homologação judicial. 4. A omissão relevante à solução da controvérsia constitui negativa de prestação jurisdicional, configurando violação do art. 619 do CPP. 5. A jurisprudência do STJ estabelece que, em caso de omissão quanto a questões relevantes para o deslinde da controvérsia, a nulidade do julgado deve ser declarada, com retorno dos autos para que seja sanada a omissão.
+IV. DISPOSITIVO E TESE 6. Agravo regimental provido para reconsiderar a decisão agravada para dar provimento ao recurso especial no sentido de anular o julgamento dos embargos de declaração, bem como para determinar que outro seja proferido pelo Tribunal de origem.
+Tese de julgamento: 1. A omissão relevante não sanada em embargos de declaração, que deixa de apreciar documentos e argumentos cruciais para a solução da controvérsia, configura violação do art. 619 do CPP, ensejando a anulação do julgamento dos embargos e o retorno dos autos ao tribunal de origem para novo julgamento.
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: STJ, REsp n. 1.651.656/ES, rel. Min.
+Sebastião Reis Junior, DJe 26/4/2017; STJ, HC n. 353.158/MG, rel. Min.
+Ribeiro Dantas, DJe 16/3/2017.
+(AgRg no AREsp n. 2.590.503/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024.)
+Ficam prejudicadas as demais alegações.
+Ante o exposto, dou parcial provimento ao recurso especial, a fim de reconhecer a negativa de prestação jurisdicional, anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de que profira outro julgado, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
