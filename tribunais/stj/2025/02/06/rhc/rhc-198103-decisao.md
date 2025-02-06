@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se  de  recurso  ordinário  em  habeas  corpus,  sem  pedido  liminar,  interposto  por  WALLACE  LEITE  LOPES  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  DISTRITO  FEDERAL  E  DOS  TERRITÓRIOS  que  denegou  a  ordem  pleiteada  no  HC  n.  0704833-14.2024.8.07.0000.
+Consta  nos  autos  que  o  recorrente  foi  denunciado  pela  suposta  pratica  do  crime  previsto  no  art.  312,  c/c  o  art.  327,  §2º,  ambos  do  Código  Penal,  tendo  sido  imposta  a  cautelar  de  afastamento  do  cargo  quando  do  recebimento  da  denúncia.
+A  Defesa,  pretendendo  a  revogação  da  medida  cautelar  referenciada,  impetrou  habeas  corpus  na  Corte  de  origem,  que  denegou  a  ordem.
+Neste  recurso,  o  recorrente  sustenta,  em  síntese,  a  ocorrência  de  excesso  de  prazo  na  medida  cautelar  de  afastamento  do  cargo,  configurando  violação  à  garantia  constitucional  da  duração  razoável  do  processo.
+Requer  o  provimento  do  recurso,  a  fim  de  que  seja  revogada  a  medida  cautelar  imposta.
+O  Ministério  Público  Federal  manifestou-se  pelo  não  provimento  do  recurso  (fls.  152/156).
+É  o  relatório.
+DECIDO.
+O  recurso  não  deve  ser  provido.
+No  caso,  o  Tribunal  de  origem,  reproduzindo  fundamentação  do  Juízo  a  quo,  manteve  a  cautelar  de  afastamento  do  cargo,  consignando  o  seguinte  (fls.  110/112;  grifamos):
+Na  espécie,  a  alegação  de  excesso  de  prazo  e  prejuízo  ao  acusado  carece  de  embasamento.
+O  Juízo  de  origem  indeferiu  o  pedido  de  revogação  da  cautelar  de  afastamento  do  cargo  nos  seguintes  termos,  in  verbis  (ID  56166609):
+Trata-se  de  ação  penal  pública  incondicionada  ajuizada  pelo  Ministério  Público  em  desfavor  de  WALLACE  LEITE  LOPES,  em  que  lhe  imputa  as  condutas  descritas  nos  arts.  312  c/c  o  art.  327,  §  2º,  ambos  do  Código  Penal,  conforme  denúncia  (ID  131941413).
+Dispõe  o  artigo  282,  do  CPP  que  o  juiz  poderá  revogar  a  medida  cautelar  se,  no  correr  do  processo,  verificar  a  falta  de  motivo  para  que  subsista,  bem  como  de  novo  decretá-la,  se  sobrevierem  razões  que  a  justifiquem.
+Pois  bem.  Em  análise  ao  acervo  processual,  não  se  verifica  qualquer  circunstância  fática  e/ou  jurídica  superveniente  que  venha  infirmar  as  razões  de  convicção  externadas  na  decisão  (ID  132047326)  que  decretou  o  afastamento  cautelar  do  acusado  do  exercício  de  suas  funções,  com  remuneração,  pois,  seus  fundamentos  permanecem  intactos.
+Nesse  aspecto,  destaco  a  necessidade  para  a  instrução  processual,  uma  vez  que  o  acusado  ao  voltar  ao  trabalho  na  qualidade  de  agente  de  polícia,  poderá  ter  acesso  a  bancos  de  dados  oficiais,  às  informações  inerentes  à  atividade  investigativa,  contato  com  pessoas,  testemunhas,  prejudicando  a  colheita  de  provas  e  até  mesmo  a  aplicação  da  lei  penal,  haja  vista  o  risco  de  envolvimento  em  novas  práticas  delitivas.
+Em  que  pese  ter  passado  mais  de  01  ano  de  seu  afastamento,  a  audiência  de  instrução  está  designada  para  08/05/2024,  momento  que  as  provas  serão  colhidas  e  reapreciado  a  necessidade  da  manutenção  ou  não  da  medida  cautelar  questionada.
+De  fato,  a  gravidade  concreta  da  conduta  praticada  pelo  requerente,  consistente  no  fato  de  ter  supostamente  cometido  a  suposta  infração  penal  de  peculato,  no  pleno  exercício  da  função  pública,  quando  participava  de  um  operação  policial,  diligência  policial  essa,  determinadas  pelo  Poder  Judiciário,  quando  segundo  a  peça  acusatória,  teria  indevidamente  apropriado  cerca  de  R$  6.000,00  (seis  mil)  reais  encontrado  no  interior  de  uma  casa,  objeto  de  cumprimento  de  mandado  de  busca  e  apreensão.
+Assim  sendo,  a  medida  cautelar  continua  necessária  à  instrução  processual  e  a  aplicação  da  lei  penal,  existe  justa  causa  para  a  sua  manutenção,  tendo  em  vista  a  existência  com  suficiência  de  materialidade  e  autoria  delitiva,  tanto  que  a  denúncia,  foi  recebida  e  ratificada  em  sede  de  despacho  saneador,  mostrando-se  eficaz,  adequada  e  suficiente  para  o  caso  em  questão.
+Ante  o  exposto,  indefiro  o  pedido  de  reconsideração,  mantendo  incólume  a  decisão  que  decretou  a  cautelar  de  afastamento  do  cargo-  função  (agente  de  polícia  civil  do  DF),  com  remuneração,  do  acusado  WALLACE  LEITE  LOPES.
+Na  espécie,  a  medida  cautelar  se  mostra  plenamente  justificada  e  não  há  se  falar  em  excesso  de  prazo,  cuja  aferição  se  dá  por  critério  judicial,  consoante  as  circunstâncias  do  caso  concreto.
+Com  efeito,  a  ação  penal  ostenta  tramitação  regular,  tanto  que  já  havia  sido  designada  data  para  audiência  de  instrução,  a  ocorrer  em  08/05/2024.
+No  tocante  ao  art.  20,  §§  1º  e  2º,  da  Lei  8.429/92  (Lei  de  Improbidade  Administrativa),  alterados  pela  Lei  nº  14.230/21,  o  regramento  não  se  aplica  ao  caso,  uma  vez  que  a  LIA  não  se  sobrepõe  ao  Código  de  Processo  Penal,  lei  específica  que  regula  o  processamento  de  ações  penais  e  medidas  cautelares  a  ela  correlatas.
+Quanto  à  alegação  de  punição  antecipada  do  acusado,  novamente  sem  razão  o  impetrante.
+O  acusado  está  somente  afastado,  cautelarmente,  de  suas  funções,  e  sem  prejuízo  da  remuneração,  justamente  pelo  fato  de  pesar  sobre  ele  grave  acusação  de  crime  de  peculato  praticado  no  exercício  da  função  de  agente  de  polícia  civil.
+O  alegado  prejuízo  financeiro  por  ter  ficado  impossibilitado  de  progredir  na  carreira  não  decorreu  de  decisão  judicial,  sendo  consequência  de  estrita  previsão  legal,  a  ser  resolvida,  no  âmbito  administrativo,  no  caso  de  absolvição.
+Do  excerto  transcrito,  concluo  que,  ao  contrário  do  que  alega  a  Defesa,  não  procedem  as  alegações  quanto  ao  excesso  de  prazo,  pois,  em  consulta  ao  endereço  eletrônico  do  Tribunal  de  origem,  foi  possível  verificar  que  o Juízo de primeiro grau designou  audiência  de  instrução  e  julgamento para os dias 13/11/2024 e 4/2/2025,  demonstrando  que  não  não  há  desídia  na  condução  da  marcha  processual,  observando-se,  portanto,  sua  razoável  duração.
+Ademais,  consoante  destacado  pela  Corte  Estadual,
+ o  acusado  está  somente  afastado,  cautelarmente,  de  suas  funções,  e  sem  prejuízo  da  remuneração,  justamente  pelo  fato  de  pesar  sobre  ele  grave  acusação  de  crime  de  peculato  praticado  no  exercício  da  função  de  agente  de  polícia  civil.
+O  alegado  prejuízo  financeiro  por  ter  ficado  impossibilitado  de  progredir  na  carreira  não  decorreu  de  decisão  judicial,  sendo  consequência  d e  estrita  previsão  legal,  a  ser  resolvida,  no  âmbito  administrativo,  no  caso  de  absolvição.
+Desse  modo,  inexistindo  ilegalidade  manifesta  em  relação  ao  afastamento  cautelar  do  cargo,  mormente  porque  o  crime  apurado  contra  o  recorrente  está  relacionado  com  sua  atividade  profissional,  e  não  tendo  sido  comprovada  desídia  na  condução  da  marcha  processual,  não  há  falar  em  revogação  da  medida  cautelar  de afastamento do cargo  imposta ao recorrente em razão do alegado excesso de prazo.
+Nesse sentido, mutatis mutandis:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E PECULATO. DISCUSSÃO SOBRE AUTORIA INCABÍVEL PELA VIA DO WRIT. MEDIDA CAUTELAR RELATIVA A CARGO ELETIVO. FUNDAMENTAÇÃO IDÔNEA. AGRAVANTE TIDO COMO SUPOSTO LÍDER DO ESQUEMA CRIMINOSO. EXCESSO DE PRAZO NÃO CONFIGURADO. AÇÃO COMPLEXA. TRÂMITE REGULAR. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. Escorreita a manutenção da medida cautelar, tendo em vista a indicação de fundamentação concreta e a finalidade de evitar a continuidade dos delitos de organização criminosa e de peculato. Precedente.
+4. Com efeito, o excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional. Precedentes.
+5. Em que pese o agravante estar submetido a medidas cautelares diversas da prisão há mais de 1 ano, verifica-se a presença de fundamentos hígidos e atuais para a manutenção das referidas medidas, haja vista a complexidade e a gravidade do feito, que apura o cometimento dos delitos de organização criminosa e peculato, contando com oito envolvidos, sendo o agravante, em tese, o líder do esquema criminoso. Precedentes.
+6. Não se verificou desídia por parte do Estado, haja vista o trâmite regular do feito na origem, não havendo que se falar em ilegalidade por excesso de prazo. Precedentes.
+7. Agravo regimental desprovido.
+(AgRg no RHC n. 187.050/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+DIREITO PROCESSUAL PENAL. MEDIDA CAUTELAR DE AFASTAMENTO DE CARGO PÚBLICO. CONSELHEIRO DO TRIBUNAL DE CONTAS ESTADUAL. EXCESSO DE PRAZO NÃO CONFIGURADO. COMPLEXIDADE DA CAUSA. INFRAÇÕES ANTECEDENTES AO CRIME DE LAVAGEM DE DINHEIRO. PROXIMIDADE COM O CARGO. RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. As razões do agravo regimental não são suficientes para afastar a conclusão da decisão agravada.
+2. Não há excesso de prazo na presente medida cautelar de afastamento de cargo público, a qual foi deferida no recebimento da denúncia da APn 927/DF, configurando novo título judicial.
+3. A complexidade objetiva do caso justifica a tramitação do feito, que se mostra regular, apesar de diversos documentos, diligências e providências.
+4. O afastamento do cargo permanece necessário e suficiente, neste momento processual, para evitar eventual prática de novas infrações e para, dessa forma, salvaguardar a ordem pública.
+5. Agravo regimental a que se nega provimento.
+(AgRg na Pet n. 15.988/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 4/10/2023, DJe de 20/10/2023; grifamos).
+Ante  o  exposto,  nego  provimento  ao  recurso  em  habeas  corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
