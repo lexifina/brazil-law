@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDERSON CLAITON STOCCO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Recurso em Sentido Estrito n. 0010170-90.2010.8.26.0451).
+Consta dos autos que o paciente foi pronunciado como incurso nas sanções do art. 121, § 2.º, I e IV, c/c o art. 29, ambos do Código Penal. O impetrante relata que o ora paciente foi levado a julgamento e foi absolvido, tendo, no entanto, o Magistrado a quo declarado que os jurados não estavam aptos a proferir o julgamento da causa em virtude de supostas contradições aferidas nas quesitações, motivo pelo qual dissolveu o Conselho de Sentença e designou nova data para a realização de sessão de julgamento, qual seja, 4 de outubro de 2022.
+Irresignada, a defesa recorreu, tendo o Tribunal de Justiça negado provimento ao recurso, nos termos da seguinte ementa (e-STJ fl. 80):
+RECURSO EM SENTIDO ESTRITO  Tribunal do Júri  Conselho de Sentença  Respostas aos quesitos que apresentam nítida contradição  Dissolução do Conselho de Sentença pelo magistrado  Decisão que se mantém  Retorno dos autos para o regular processamento da ação penal  Recursos desprovidos.
+Na presente impetração, a defesa alega que a quesitação ocorreu regularmente, sem qualquer contradição a ser sanada, devendo ser respeitada a vontade soberana dos jurados. Diante disso requer, liminarmente, a suspensão do julgamento pelo júri e, no mérito, "seja determinado ao magistrado de primeiro grau que proclame a absolvição do paciente" (e-STJ fl. 7).
+A liminar foi indeferida (e-STJ fls. 107/109).
+As informações foram prestadas (e-STJ fls. 116/157).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 161/165).
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+Conforme relatado, busca a defesa, na presente impetração, a reforma da decisão que determinou a dissolução do Conselho de Sentença, aduzindo que não houve contradição no momento da quesitação.
+Quanto à alegação de ilegalidade da dissolução do Conselho de Sentença, verifico que o Tribunal de origem bem decidiu ao refutar a alegação, pois cabe ao Juiz Presidente preservar a imparcialidade do Conselho de Sentença, o que foi devidamente realizado (e-STJ fls. 82/83):
+Em uma primeira votação, em relação ao réu Alessandro, os jurados reconheceram a materialidade delitiva, mas não a sua autoria, prejudicando os demais quesitos para este réu.
+Na sequência, na votação dos quesitos referentes ao réu Anderson, os jurados reconheceram tanto a materialidade como a autoria. O juiz-presidente então alertou os jurados que estes deveriam ser coerentes na votação, já que existia contradição nos resultados, uma vez que "a tese era a mesma da negativa de autoria" do réu Alessandro.
+Na segunda votação, em relação ao réu Alessandro, os jurados reconheceram a materialidade delitiva, bem como sua autoria. Contudo, absolveram o réu no quesito genérico seguinte. Quanto a Anderson, os jurados reconheceram a materialidade delitiva, mas não a autoria, momento em que o juiz afirmou inequívoca a contradição, constatando que os jurados não estavam aptos a proferir decisão, dissolvendo o Conselho de Sentença, enfatizando que "todos os acusados estavam presentes no mesmo contexto fático e na mesma tese, ainda que advogados distintos".
+(..)
+Ocorre que, no presente contexto, houve evidente contrariedade quando das respostas aos quesitos. Como se verifica no tocante ao réu Alessandro, na primeira votação, os jurados reconheceram a materialidade, mas negaram sua autoria. Por outro lado, realizado nova votação, reconheceram tanto a materialidade, como a autoria. Os mesmos jurados, ante as mesmas perguntas, proferiram julgamentos distintos e contraditórios.
+Assim, acertado o posicionamento do juiz que afirmou inequívoca a contradição, constatando que os jurados não estavam aptos a proferir decisão, dissolvendo o Conselho de Sentença e designando nova data para realização de sessão de julgamento.
+Assim, a análise das alegações da defesa demandaria, necessariamente, incursão no acervo fático-probatório dos autos, o que é vedado na via estreita do habeas corpus.
+Não bastasse isso, como consta das informações, em 04/10/2022 foi realizada nova sessão plenária, na qual o paciente foi condenado à pena de 6 (seis) anos de reclusão, em regime inicial semiaberto, como incurso no art. 121, caput, c/c art. 29, ambos do Código Penal, facultado recorrer em liberdade.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
