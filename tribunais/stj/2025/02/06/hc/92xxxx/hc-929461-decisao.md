@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VICTOR HUGO TAVARES RAMOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente teve a prisão preventiva decretada em 4/2/2024, pela suposta prática dos crimes descritos nos arts. 33 e 35 da Lei n. 11.343/2006.
+Neste writ, o impetrante afirma que não há elementos que vinculem o paciente à suposta atividade criminosa, destacando que nem os usuários tampouco os policiais indicaram que ele estivesse exercendo a prática ilícita.
+Destaca a presença de condições pessoais favoráveis.
+Assinala que a quantidade de entorpecentes apreendidos e a diversidade deles não são indicativos de dedicação ao tráfico de drogas.
+Afirma que o decreto prisional não atende aos requisitos do art. 312 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferido.
+Prestadas as informações.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 47/48, grifei):
+Declararam os policiais militares, na Delegacia, que, no dia 02/02/2024, por volta das 16h30min, foram verificar informação da prática de tráfico de drogas, na comunidade do Rosário, apontando dois indivíduos já conhecidos pela guarnição.
+Diante da situação, procederam até o local apontado. Quando chegaram na Rua José Bandeira Viana, próximo ao local conhecido como ponto de venda de drogas "boca da farmácia", foi realizado um cerco, sendo possível visualizar a comercialização de entorpecentes.
+Os indivíduos tentaram fugir, ambos com sacolas nas mãos. Em diligências, um dos homens, custodiado CARLOS, foi encontrado em uma viela da comunidade, com a sacola nas mãos, contendo 28,62g de cocaína distribuída em 53 embalagens com inscrições "Pó de R$15 CPX PPR CV".
+De acordo com os policiais, durante a tentativa de fuga, CARLOS caiu nas escadas, restando lesionado. Em seguida, encontraram o custodiado VICTOR, em uma viela, próximo ao local onde Carlos foi encontrado. Dentro da sacola que VICTOR levava consigo foram encontrados: 27,72g de maconha e 47,52g de crack em 198 sacolés duplos com inscrições "CRACK R$ 25 PPR CV" , além de 204,6g de cocaína distribuída em 220 embalagens com inscrições "PÓ DE 15 CPX PPR CV".
+Ainda em buscas na localidade, foram encontrados mais 204,6g de cocaína acondicionada em 132 embalagens com inscrições "PÓ DE 15 PPR CV".
+A alta quantidade e a variedade das drogas, sua forma de acondicionamento, separadas em diversas embalagens prontas para comercialização, inclusive com preços e inscrições de facção criminosa, revelam a gravidade concreta do delito e configuram indícios de que os custodiados integrem a associação criminosa que consta das embalagens dos entorpecentes, fazendo do tráfico de drogas seu meio de vida. Portanto, resta caracterizado o risco concreto de reiteração delitiva e a necessidade da prisão cautelar como garantia da ordem pública.
+O Tribunal de origem denegou a ordem valendo-se dos seguintes fundamentos (e-STJ fl. 59):
+Os fundamentos lançados em ambas as decisões, proferidas em momentos distintos por magistrados diferentes, revelam a legalidade, regularidade e necessidade da prisão preventiva, restando atendidos os pressupostos estabelecidos pelo legislador no artigo 315, do Código de Processo Penal.
+Acrescenta-se que das suas leituras flui, estreme de dúvida, a presença de seus requisitos autorizativos, na forma disciplinada nos artigos 312 e 313 do referido Códex, assim como o perigo gerado pela liberdade do paciente, não se vislumbrando alguma eiva que recomende a sua revogação.
+As alegações de que "..o acusado não é traficante.." e que "..os policiais não  ..  puderam visualizar claramente que seria ele quem dispensou a sacola com o material estupefaciente.." demandam dilação probatória, hipótese inexequível nesta via. Assim, o momento adequado para a sua comprovação ou não é a instrução, realçando-se que a audiência já foi designada para o dia 05, do próximo mês de junho.
+Não socorre o paciente, também, a informação de que é primário, sem maus antecedentes e exerce atividade laborativa lícita, lembrando o remansoso entendimento de que eventuais condições pessoais favoráveis não configuram óbice à segregação cautelar, quando as especificidades do caso a recomendarem. E nos limites da possibilidade de exame nesta via, esta é a hipótese.
+Conforme visto acima, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a relevante quantidade e variedade de drogas apreendidas em local conhecido como ponto d e venda de entorpecentes - cerca de 438g (quatrocentos e trinta e oito gramas) de cocaína, 47g (quarenta e sete gramas) de crack e 28g (vinte e oito gramas) de maconha -, as quais estavam "separadas em diversas embalagens prontas para comercialização, inclusive com preços e inscrições de facção criminosa" denominada Comando Vermelho, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+ ..
+3. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes (aproximadamente 1,050kg - um quilograma e cinquenta gramas - de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..  (AgRg no RHC n. 125.192/SC, de minha relatoria, Sexta Turma, julgado em 12/5/2020, DJe 18/5/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE READEQUAÇÃO DA PRISÃO CAUTELAR COM O REGIME INTERMEDIÁRIO IMPOSTO NA SENTENÇA. AGRAVO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida - mais de 1 (um) quilograma e 200 (duzentas) gramas de maconha. Precedentes.
+ ..  (AgRg no HC n. 560.702/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/5/2020, DJe 28/5/2020.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública, especialmente porque, conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009).
+Ante todo o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
