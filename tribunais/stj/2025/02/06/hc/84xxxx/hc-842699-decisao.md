@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TIAGO LIMA GUIEIRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO assim ementado:
+"PENAL. PROCESSO PENAL. FEMINICÍDIO TENTADO. RECURSO EM SENTIDO ESTRITO. PRONÚNCIA. PROVA DA MATERIALIDADE. INDÍCIOS SUFICIENTES DE AUTORIA. AUSÊNCIA DE JUÍZO DE CERTEZA. INTELIGÊNCIA DO ART. 413, § 1º, DO CPP. EXCESSO DE LINGUAGEM INEXISTENTE. RECURSO DESPROVIDO.
+1. Prescreve o § 1º do art. 413, do Código de Processo Penal, que, ao fundamentar a pronúncia, o Magistrado deve se limitar a indicar a materialidade do fato, e a existência de indícios suficientes de autoria, declarando, ao final, o dispositivo legal em que incurso o réu.
+2. Ao proferir a decisão, a Magistrada reconheceu, acertadamente, os elementos que respaldam a tese acusatória, apontando as provas da materialidade do crime, e a existência de indícios de autoria.
+3. Não há excesso de linguagem na pronúncia quando o juízo se limita a destacar trechos do interrogatório e de depoimentos testemunhais, colhidos na instrução criminal, e no inquérito policial. Precedente do STJ.
+4. RECURSO DESPROVIDO."
+Requer a defesa a concessão da ordem "para anular a decisão de pronúncia, diante da patente ilegalidade, ante a violação dos artigos 413, §1º, 414 e 415 do Código de Processo Penal" (e-STJ fls. 3-13).
+A liminar foi indeferida (e-STJ fls. 30-31).
+As informações foram prestadas (e-STJ fls. 39-118).
+O Ministério Público Federal manifestou-se "pela denegação da ordem" (e-STJ fls. 119-120).
+É o relatório.
+Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus.
+A controvérsia foi analisada com maestria no bem lançado parecer do Ministério Público Federal, cujos fundamentos adoto integralmente como razões de decidir (e-STJ fls. 119-120):
+"Conforme iterativa jurisprudência dessa corte superior, não se configura o alegado excesso de linguagem quando, por ocasião da prolação da decisão de pronúncia, o magistrado se refere às provas constantes dos autos para verificar a ocorrência da materialidade e a presença de indícios suficientes de autoria, aptos a ensejar o julgamento do feito pelo Tribunal do Júri (AgRg no HC 763428/MG, rel. Min. Rogerio Schietti Cruz, j. em 19.6.2023).
+É esse o caso dos autos. Embora a Defesa afirme que o juízo pronunciante valeu-se de expressões peremptórias como "sem sombra de dúvidas", assim o fez não em relação a sua própria convicção, porquanto apenas declarou a impressão da vítima quanto ao autor do delito, identificando-o "sem sombras de dúvidas". Veja-se (fls. 21):
+Em sede inquisitorial, a vítima dos fatos.. narrou a dinâmica do crime e apontou, sem sombras de dúvidas, Tiago como autor da tentativa de homicídio (fls. 23/25).
+Demais, ao apontar para as contradições do paciente em seu interrogatório, não está o juízo pronunciante exercendo nenhum juízo definitivo de valor acerca da culpabilidade, mas tão só justificando a submissão do acusado ao Tribunal do Júri, uma vez que presentes indícios mínimos de autoria."
+O entendimento adotado pelo Tribunal de origem harmoniza-se com a jurisprudência do Supremo Tribunal Federal, que entende que "a necessidade de a submissão do acusado ao Tribunal do Júri fazer-se mediante decisão interlocutória flexibiliza o instituto do excesso de linguagem. Não existe este último quando a sentença de pronúncia revela premissas capazes de conduzir à submissão do acusado ao Tribunal do Júri, inclusive presente qualificadora" (HC 107935, Relator(a): MARCO AURÉLIO, Primeira Turma, julgado em 13-12-2011, PROCESSO ELETRÔNICO DJe-032 DIVULG 13-02-2012 PUBLIC 14-02-2012).
+Ademais, esta Corte é firme no sentido de que "o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, exige, em razão de seu caráter urgente, prova pré-constituída das alegações, não comportando dilação probatória" (AgRg no HC n. 699.251/DF, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 22/2/2022, DJe de 24/2/2022 ). Dessa forma, "não sendo hipótese de ilegalidade ou de abuso de poder, é incabível habeas corpus de ofício" (AgInt no HC n. 736.186/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
