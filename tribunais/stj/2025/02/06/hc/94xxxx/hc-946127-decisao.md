@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de FERNANDO HENRIQUE DOS SANTOS TAMAZI - denunciado como incurso no crime de tráfico de drogas (Ação Penal n. 1516780-96.2024.8.26.0228) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2250787-78.2024.8.26.0000), não comporta acolhimento.
+Com efeito, busca a anulação da ação penal que tramitou perante o Juízo de Direito da 18ª Vara Criminal da comarca de São Paulo/SP, ao argumento de nulidade, decorrente da realização de busca domiciliar sem autorização do morador ou fundada suspeita da prática de crime.
+Além de se tratar de writ impetrado com a finalidade de revisar condenação transitada em julgado, o que é inadmissível, inexiste, na espécie, flagrante ilegalidade a ser reparada por meio de habeas corpus de ofício.
+No caso , do atento exame dos autos, observo que a busca domiciliar foi precedida de diligências policiais que lograram apreender entorpecente com o paciente, as quais foram antecedidas de denúncia anônima que evidenciou o comércio das drogas pelo paciente no imóvel (fl. 26), razão pela qual não verifiquei o alegado constrangimento.
+As circunstâncias que antecederam o ingresso dos agentes de polícia evidenciaram de maneira objetiva a probabilidade de ocorrência de crime permanente, exigindo urgência da ação policial, de modo a excepcionar a garantia constitucional de inviolabilidade do domicílio (AgRg no RHC n. 192.495/PE, da minha lavra, Sexta Turma, DJe 16/8/2024), tanto que o cumprimento da diligência culminou com a apreensão de vasta quantidade de droga (19,419 kg de cocaína - fls. 25/ 26).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA. DILIGÊNCIA REALIZADA MEDIANTE PRÉVIA DENÚNCIA PORMENORIZADA A RESPEITO DE UM IMÓVEL UTILIZADO NA SUPOSTA DISTRIBUIÇÃO DE DROGA, NO QUAL FOI ENCONTRADO O PACIENTE E SUBSTÂNCIA ILÍCITA. APREENSÃO DE DROGA QUE JUSTIFICOU A BUSCA DOMICILIAR. EXORBITANTE QUANTIDADE DE ENTORPECEDENTE APREENDIDO (19,419 KG DE COCAÍNA). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
