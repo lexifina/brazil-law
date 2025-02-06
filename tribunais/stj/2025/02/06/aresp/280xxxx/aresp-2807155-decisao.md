@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por EDILSON CAMACHO, contra decisão que inadmitiu recurso especial fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/11/2024.
+Concluso ao gabinete em: 23/12/2024.
+Ação: de embargos à execução, ajuizada por EDILSON CAMACHO em face de ASSOCIACAO DE POUPANCA E EMPRESTIMO POUPEX, tendo sido objeto de agravo de instrumento na origem.
+Decisão interlocutória: deferiu o pedido liminar, "para assegurar a gratuidade de justiça ora perseguida, até decisão final do colegiado" (e-STJ fl. 28).
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa (e-STJ, fl. 50):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. GRATUIDADE JUSTIÇA. HIPOSSUFICIÊNCIA ECONÔMICA. DEMONSTRAÇÃO. NECESSIDADE. 1. A concessão da gratuidade da justiça prescinde da demonstração do estado de miséria absoluta; necessita, contudo, da demonstração de impossibilidade de arcar com as custas e despesas do processo sem prejuízo de sustento próprio ou da família. 2. A declaração de pobreza estabelece mera presunção relativa da hipossuficiência, que cede ante outros elementos que sirvam para indicar a capacidade financeira. 3. A insuficiente demonstração da hipossuficiência econômica alegada impõe o indeferimento do benefício. 4. Agravo de instrumento desprovido.
+Embargos de declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega ofensa aos arts. 98, 99, § 2º, § 3º, 489, § 1º, e 1.022, II, do CPC. Sustenta, além da negativa de prestação jurisdicional, ser indevido o indeferimento do benefício da assistência judiciária gratuita, aduzindo que o acórdão não trouxe elementos válidos para o indeferimento do pedido, sendo o recorrente pessoa idosa, aposentado e que, embora não apresente condição de miserabilidade, não possui capacidade de arcar com os custos processuais (e-STJ fl. 170).
+Juízo prévio de admissibilidade: o TJ/DF inadmitiu o recurso, ensejando a interposição do presente agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Conforme a jurisprudência desta Corte, "não há ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (REsp 1.995.565/SP, Terceira Turma, DJe 24/11/2022).
+No particular, o acórdão recorrido decidiu, fundamentada e expressamente, acerca da concessão da gratuidade judiciária, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, ausente omissão, contradição, obscuridade ou erro material e devidamente analisadas as questões de mérito, estando suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não se verifica violação aos arts. 489, § 1º, e 1.022 do CPC.
+- Do reexame de fatos e provas
+O TJ/DF ao analisar o recurso interposto pela parte agravante, considerando a documentação acostada aos autos, fundamentou (e-STJ fl. 52):
+O art. 5.º, inciso LXXIV, da CR/1988, prescreve que o Estado prestará assistência jurídica integral àqueles que comprovarem insuficiência de recursos. Por isso, a parte embargante foi regularmente intimada para comprovar que faz jus à obtenção da gratuidade de justiça; porém, no caso dos autos, verifico que não faz jus à obtenção do almejado benefício legal. Com efeito, a cópia da declaração de ajuste anual juntada no ID: 174870812 comprova que o embargante não possui cônjuge nem dependentes declarados, tendo auferido, em 2022, renda bruta anual de R$ 77.883,45, correspondente à média mensal aproximada de R$ 6.490,28. Além disso, a renda do embargante é complementada com os frutos advindos da prestação de serviços de treinamento em desenvolvimento profissional e gerencial ao governo do Distrito Federal, rendendo-lhe mais R$ 1.972,22 mensais, correspondentes à média do trimestre de junho, julho e agosto de 2023 (ID: 174870818, ID: 174870817 e ID: 174870814, respectivamente). Por outro lado, verifico que a parte embargante não demonstrou a existência de despesas extraordinárias que lhe minguassem a subsistência, de modo a amparar seu pedido. Desse modo, a parte autora não faz jus ao almejado benefício legal.
+Desse modo, alterar o decidido no acórdão impugnado, quanto a concessão de gratuidade de justiça, exige o reexame de fatos e provas. o que é vedado em recurso especial pela Súmula 7/STJ. Nesse sentido: AgInt no AREsp 2568602/SE, Terceira Turma, DJe de 04/11/2024 e AgInt no AREsp 2640339/SP, Terceira Turma, DJe de 06/12/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação de embargos à execução, que ensejou a interposição de agravo na origem.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
