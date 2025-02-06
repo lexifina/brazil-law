@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de MATHEUS RIBEIRO PEGO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO no julgamento da Apelação Criminal n.0000550-46.2023.8.08.0048.
+Extrai-se dos autos que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, no regime inicial aberto, substituído por restritivas de direito, além do pagamento de 167 dias-multa, pela prática do crime tipificado no art. 33, §4º, da Lei de Drogas.
+O Tribunal de origem negou provimento à apelação interposta pelo paciente. Confira-se a ementa do julgado (e-STJ fls. 10/19):
+"EMENTA: APELAÇÃO CRIMINAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. PROVA CONTUNDENTE DE AUTORIA E MATERIALIDADE - NÚCLEO DO TIPO - TRANSPORTAR - RECURSO CONHECIDO E IMPROVIDO.
+1. As provas nos autos conduzem ao reconhecimento da materialidade do crime de tráfico, inconteste e da autoria, corroborada pela apreensão da substância, laudos toxicológicos, bem como o depoimento dos policiais que participaram das diligências que resultaram na prisão do recorrente.
+2. Conforme pacífico entendimento desta corte: O depoimento dos policiais militares, especialmente no crime de tráfico de drogas, quando corroborados com os demais elementos probatórios, possuem elevada relevância, tendo em vista que muitas vezes são os únicos presentes na cena do crime - Precedente deste Tribunal de Justiça.
+3. Recurso conhecido e não provido"
+No presente writ, a defesa sustenta que o paciente foi condenado de forma equivocada, uma vez que sua conduta não se amoldaria ao tipo penal de tráfico de drogas.
+Requer a suspensão dos efeitos da condenação e pugna pela concessão da ordem para absolvição do paciente.
+O Ministério Público Federal opinou pelo não conhecimento e, no mérito, pela denegação da ordem (e-STJ fls. 38/40).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+A Corte estadual examinou a controvérsia e concluiu pela materialidade do tráfico de drogas e a autoria vinculada ao ora paciente, com ênfase no relato feito pelos policiais que participaram da abordagem aos então suspeitos, em local previamente conhecido como propício ao comércio de drogas e registrou (fls.18):
+" ..
+Assim, restou indene de dúvidas pelo interrogatório e pelas declarações das testemunhas ouvidas em juízo e na esfera policial, demonstrando o liame subjetivo do recorrente com as substâncias apreendidas, no que entendo cabalmente demonstrada a subsunção de sua conduta ao delito descrito no artigo 33 da Lei 11.343/06.
+ .. "
+Do excerto acima, observa-se que o Tribunal de origem reputou como suficientemente caracterizado o crime cometido pelo paciente e se louvou nas provas produzidas em primeiro grau, cujo trecho merece ser transcrito (sentença de fls.20/30):
+"Os acusados, ao serem interrogados, negaram os fatos através de versões que se mostram fantasiosas e nada críveis, mencionando, ainda, que os policiais os agrediram. Contudo, não trouxeram aos autos prova capaz de corroborar suas alegações, encontrando-se suas versões isoladas das demais provas carreadas aos autos. Denoto que os depoimentos dos policiais militares, tanto no curso do inquérito policial quanto em juízo, são harmônicos e atestam com a certeza necessária a prática de um dos verbos do art. 33 da Lei nº 11.343/06 pelos acusados, com vistas a traficar substâncias ilícitas e angariar lucros com o negócio criminoso. Ademais, todos os policiais declararam que foi dado voz de abordagem aos réus, contudo, os mesmos desobedeceram e empreenderam fuga. Assim, verifica-se que o depoimento das testemunhas arroladas pelo Ministério Público, colhido em audiência de instrução e julgamento é coerente e harmônico com os demais elementos que compõem o conjunto probatório judicial e extra-judicial, e goza de veracidade e idoneidade. Ademais, as defesas não trouxeram aos autos nenhum elemento de prova capaz de pôr em dúvida os depoimentos prestados pelos Policiais, ou, ainda, demonstrar que os policiais pudessem ter qualquer motivo ou intenção de prejudicar os réus atribuindo-lhes de forma inverídica os fatos que são descritos na denúncia." (fls.24, destaque não original).
+A intelecção alcançada encontra-se harmônica com o sistema da livre apreciação de provas vigente no ordenamento jurídico, orientado pelo princípio do livre convencimento motivado, não sujeito a uma verdade legal pré-estabelecida, tal como ocorria no antigo sistema da verdade legal e das provas tarifadas, que eram submetidas a critérios de hierarquia de valoração.
+Desconstituir as premissas das instâncias ordinárias, para se entender como legítima a pretensão do paciente, exigiria o revolvimento verticalizado do conjunto fático-probatório, proceder inviável na via eleita: " ..  3. Inviável, ainda, o reconhecimento de que a pretensão do réu era legítima, por demandar incursão em fatos e provas, o que é vedado pelo enunciado sumular n. 7 desta Corte Superior. 4. Agravo regimental desprovido" (AgRg no AREsp n. 2.013.186/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/12/2022, DJe de 14/12/2022.).
+E cumpre observar que, em sendo inviável o pleito de habeas corpus de ofício, salienta-se que, com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese.
+Com igual conclusão, citam-se precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, §4º DA LEI N. 11.343/2006. APLICAÇÃO NA FRAÇÃO MÍNIMA DE 1/6. QUANTIDADE DE ENTORPECENTE APREENDIDO. FUNDAMENTO IDÔNEO PARA MODULAÇÃO. PEDIDO DE PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Não é viável o pleito para concessão de habeas corpus de ofício. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante - o que não se vê no caso dos autos -, nos termos do art. 654, § 2º, do CPP.
+5. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.466.078/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁF ICO ILÍCITO DE DROGAS. PARECER MINISTERIAL. CARÁTER OPINATIVO. MANIFESTAÇÃO EXPRESSA. DESNECESSIDADE. HABEAS CORPUS DE OFÍCIO. NÃO CONCESSÃO. FUNDAMENTAÇÃO EXAURIENTE. DESNECESSIDADE. SUPOSTA VIOLAÇÃO AO ART. 33, § 4.º, DA LEI N. 11.343/06. TESE DEFENSIVA DE NÃO COMPROVAÇÃO DOS MAUS ANTECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF E 356/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Se não houve a concessão de habeas corpus de ofício é porque não se detectou, de plano, a existência de ilegalidade que autorizasse a atuação na forma do art. 654, § 2.º, do Código de Processo Penal. Não é necessário ao Julgador justificar os motivos pelos quais não concedeu ordem de ofício, tendo em vista que essa medida advém de sua atuação própria e não em resposta à postulação das partes.
+ ..
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.217.224/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 25/9/2023.)
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
