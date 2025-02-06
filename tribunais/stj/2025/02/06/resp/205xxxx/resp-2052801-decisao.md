@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por NELMO JOSE WEBER, com fundamento no art. 105, III, a e c, da Constituição Federal, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL assim ementado (fls. 158-163):
+AGRAVO INTERNO. DIREITO PRIVADO NÃO ESPECIFICADO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL DA EMPRESA DE TELEFONIA RÉ.
+I. O FATO GERADOR QUE DEU ENSEJO À PRETENSÃO JUDICIAL É ANTERIOR AO PLANO DE RECUPERAÇÃO JUDICIAL DA RÉ, O QUE QUALIFICA O CRÉDITO COMO CONCURSAL. PRECEDENTES DO STJ.
+II. A ATUALIZAÇÃO DO CRÉDITO, TRATANDO-SE DE CRÉDITO CONCURSAL, DEVE SE DAR ATÉ A DATA DO PEDIDO DE RECUPERAÇÃO JUDICIAL, QUAL SEJA, JUNHO DE 2016, A TEOR DO DISPOSTO NO ARTIGO 9º, II, DA LEI 11.101/2005 E DAS ORIENTAÇÕES EXPRESSAS EM OFÍCIOS EXPEDIDOS PELO JUÍZO DE RECUPERAÇÃO JUDICIAL.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Em suas razões recursais, além da divergência jurisprudencial, o recorrente alega violação dos arts. 49, 49 e 62 da Lei n. 11.101/2005, pois entende que não é obrigado a habilitar o seu crédito na recuperação judicial da parte recorrida.
+O Tribunal de Justiça Estadual admitiu o recurso especial (fls. 199-202).
+É o relatório. Decido.
+Na origem, trata-se de cumprimento de sentença, no qual o juiz de primeiro grau rejeitou a impugnação apresentada pela parte ré, homologou os cálculos elaborados pelo contador judicial e determinou a expedição de alvará para levantamento do valor em favor da parte autora, após o trânsito em julgado.
+Inconformada, a parte recorrida interpôs agravo de instrumento. O Tribunal de Justiça estadual deu provimento ao recurso para reconhecer o crédito como concursal, determinando que o juízo de origem emita a certidão de crédito e extinga o processo, a fim de que o credor possa habilitar-se nos autos da recuperação judicial e receber o crédito conforme as disposições do Plano de Recuperação Judicial.
+Sobreveio o recurso especial.
+Consoante entendimento da Segunda Seção do STJ, o credor não está obrigado a habilitar o seu crédito, podendo aguardar o fim do processo de recuperação judicial para continuar a execução ou cumprimento de sentença, porém seu crédito fica sujeito às mesmas condições impostas no plano de recuperação judicial aprovado, diante da novação prevista no art. 59 da Lei n. 11.101/2005. Veja-se:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. PEDIDO. FATO GERADOR ANTERIOR. SUBMISSÃO. EFEITOS. NOVAÇÃO. CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO. IMPOSSIBILIDADE. HONORÁRIOS. CAUSALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se o crédito se submete aos efeitos da recuperação judicial e, nessa hipótese, se o cumprimento de sentença deve ser extinto.
+3. Nos termos da iterativa jurisprudência desta Corte, consolidada no julgamento de recurso repetitivo, para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+4. Na hipótese, o fato gerador - descumprimento do contrato de prestação de serviços firmado entre as partes - é anterior ao pedido de recuperação judicial, motivo pelo qual deve ser reconhecida a natureza concursal do crédito.
+5. O credor não indicado na relação inicial de que trata o art. 51, III e IX, da Lei nº 11.101/2005 não está obrigado a se habilitar, pois o direito de crédito é disponível, mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, a recuperação judicial ainda não foi extinta por sentença transitada em julgado, podendo o credor habilitar seu crédito, se for de seu interesse, ou apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial, observadas as diretrizes estabelecidas no plano de recuperação aprovado, diante da novação ope legis (art. 59 da LREF).
+8. Nos casos de extinção do processo sem resolução de mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+9. Recurso especial conhecido e provido. (REsp n. 1.655.705/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 27/4/2022, DJe de 25/5/2022.)
+Ante o exposto, conheço do recurso especial e dou provimento para se determinar que, se a recuperação judicial ainda não foi extinta por sentença transitada em julgado, poderá o credor habilitar o seu crédito, com a consequente extinção do cumprimento de sentença, ou, se preferir, poderá prosseguir com o cumprimento de sentença após o encerramento da recuperação judicial, devendo, nesse caso, aditar o seu pedido para adequar o seu crédito às diretrizes que foram estabelecidas no plano de recuperação judicial aprovado.
+Publique-se. Intimem-se.
+EMENTA
