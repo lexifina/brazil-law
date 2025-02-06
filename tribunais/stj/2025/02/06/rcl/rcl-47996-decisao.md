@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de reclamação ajuizada por MARCIO SANTOS NEPOMUCENO apontando o descumprimento, pelo JUÍZO FEDERAL DA 5A VARA CRIMINAL DE CAMPO GRANDE - SJ/MS, de julgados desta Corte (HC 722.973 / PR e HC 839671 / PR) que reconheceram o direito do paciente à detração penal.
+O reclamante alega que "a defesa pleiteou atualização do cálculo de pena com a correta aplicação da detração (detraído do total da pena), tendo o Juízo de origem inovado, alegando que o sistema SEEU não possui ferramenta para contagem da pena em dobro, bem como modificando a forma utilizada pela justiça federal do Paraná por entender descabida, por fim proferiu nova decisão determinando a suspensão do tempo de pena efetivamente cumprido substituindo pelo mesmo período que teve a detração deferida, como uma modalidade de compensação" (e-STJ fls. 3-11).
+A liminar foi indeferida (e-STJ fls. 45-47).
+O Ministério Público Federal manifestou-se "pela procedência da presente reclamação" (e-STJ fls. 61-63).
+É o relatório.
+Decido.
+Conforme os artigos 105, I, f, da Constituição Federal e 187 do Regimento Interno do Superior Tribunal de Justiça, cabe reclamação, da parte interessada ou do Ministério Público, para preservar a competência deste Tribunal ou para garantir a autoridade de suas decisões.
+O Código de Processo Civil, em seu artigo 988, disciplinou o instituto de forma pormenorizada nos seguintes termos:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+§ 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+§ 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+§ 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+§ 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+§ 5º É inadmissível a reclamação:
+I - proposta após o trânsito em julgado da decisão reclamada;
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+§ 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
+A Terceira Seção desta Corte, ao interpretar o § 5º do art. 988, II, do CPC, entendia também ser admissível a reclamação quando a decisão contrariasse acórdão proferido em julgamento de recurso especial repetitivo, desde que esgotada a instância ordinária.
+Ocorre que a Corte Especial, nos autos da Reclamação n. 36.476/SP (relatora Ministra Nancy Andrighi, julgado em 5/2/2020), decidiu, por maioria, não ser cabível reclamação para discutir a observância de precedente proferido em julgamento de recurso especial repetitivo
+Diante disso, conclui-se que a reclamação é medida excepcional, cabível no âmbito desta Corte exclusivamente nas seguintes hipóteses: (a) preservação da competência constitucional do Superior Tribunal de Justiça; e (b) manutenção da autoridade de decisão proferida nesta Corte Superior na análise do caso concreto (envolvendo as mesmas partes da decisão reclamada).
+No caso, conforme narrado na inicial, o reclamante "encontra-se preso desde 19/11/1996". Sendo assim, para dar cumprimento aos julgados desta Corte que reconheceram o direito à detração penal referente ao período de 10/05/2011 a 23/10/2019, o juízo de origem argumentou que, "como o preso, neste mesmo período, estava cumprindo pena fiscalizada nestes autos, e o sistema no SEEU não possui ferramenta para contagem da pena em dobro, o lançamento da detração penal foi efetuado em período anterior (de 05/06/1988 a 18/11/1996) ao início do cumprimento da pena pelo reeducando em 11/10/1996" (e-STJ fl. 28). Isso gerou uma distorção bem explicada pelo juízo reclamado nos seguintes termos (e-STJ fl. 68):
+"Ocorre que tal medida é totalmente descabida, tendo em vista que na data de lançamento do início de cumprimento da pena (05/06/1988), , bem MARCIO SANTOS NEPOMUCENO tinha apenas 12 anos como porque o citado lançamento fictício puxou a data base para o livramento condicional para o dia 05/ .06/1988, quando na verdade o correto é dia 11/10/1996
+Ademais, eventual lançamento da detração penal, poderia criar uma benesse ao reeducando, inexistente em lei, ou seja a contagem de um mesmo período de cumprimento de pena por duas vezes (prisão definitiva e prisão cautelar).
+Assim sendo, determino a exclusão dos lançamentos dos 20324008 e 20693334, na aba Incidentes eventos, voltando o início de cumprimento da pena para o dia 11/10/1996."
+Prossegue o juízo reclamado consignando que, "com intuito de dar cumprimento a decisão exarada Habeas Corpus nº 722973 (2022/0038445-8) STJ, que determinou a detração penal do período de custódia cautelar de 10 de maio de 2011 a 23 de outubro de 2019, bem como para não criar direito inexistente no ordenamento jurídico (contagem de pena em dobro), determino a suspensão do cumprimento de pena nos autos pelo período de 10 de maio de 2011 a 23 de outubro de 2019, tempo em que deve ser lançado apenas como prisão provisória" (e-STJ fls. 28-29, grifo nosso).
+Não merece reparo a decisão do juízo reclamado. A solução anteriormente adotada - de lançar uma detração fictícia referente ao período de 05/06/1988 a 18/11/1996 - gerava uma série de distorções, a começar pelo fato de que em 05/06/1988 o reclamante tinha apenas 12 anos de idade, além do fato de que "o citado lançamento fictício puxou a data base para o livramento condicional para o dia 05/06/1988, quando na verdade o correto é dia 11/10/1996".
+De fato, o sistema SEEU não admite a possibilidade de contagem de pena em dobro, de modo que um mesmo período (no caso, 10/05/2011 a 23/10/2019) não pode ser computado como prisão preventiva e ao mesmo tempo como prisão pena.
+A solução adotada pelo juízo reclamado, que talvez não tenha sido bem compreendida pela defesa e pelo Ministério Público Federal - ou seja, suspender o cumprimento da pena no período de 10/05/2011 a 23/10/2019, lançando esse período apenas como prisão provisória -, não apenas atende ao interesse do reclamante, na medida em que permite a detração desse período no cômputo final da pena, mas também corrige a distorção anterior decorrente de lançamentos fictícios que impactariam na concessão de outros benefícios previstos na Lei de Execução Penal.
+Ante o exposto, não há descumprimento das decisões emanadas deste Tribunal, razão pela qual julgo improcedente o pedido formulado na presente reclamação.
+Publique-se. Intimem-se.
+EMENTA
