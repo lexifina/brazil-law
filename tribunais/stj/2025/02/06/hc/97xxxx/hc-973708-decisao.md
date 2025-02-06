@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de AMANDA GONCALVES DA CRUZ em que se aponta como autoridade o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que a paciente teve a prisão preventiva decretada pela suposta prática dos delitos tipificados no art. 2º, caput, da Lei n. 12.850/2013, assim como no art. 1º, § 1º, II, e § 4º, da Lei n. 9.613/1998, por diversas vezes, na forma do art. 71 do Código Penal.
+Neste writ, o impetrante sustenta, em síntese, que: a) os efeitos da decisão que concedeu prisão domiciliar à corré Marcilene nos autos do HC 969.502/SP devem ser aproveitados à ora paciente, consoante os termos do art. 580 do CPP, tendo em vista que ambas se encontram "no mesmo contexto" e "preenchendo os mesmos requisitos objetos e subjetivos" (e-STJ, fl. 4); b) a paciente - que é primária, sem registros criminais anteriores e não cometeu delito com violência ou grave ameaça - faz jus à prisão domiciliar prevista no art. 318, V, do CPP.
+Pleiteia a extensão dos efeitos da decisão proferida nos autos do HC 969.502/SP, para que, assim, ocorra a substituição da prisão preventiva por domiciliar.
+O Ministério Público Federal opinou pela concessão da ordem de ofício.
+É o relatório.
+A rigor, o pedido de extensão, previsto no art. 580 do CPP, deve ser formulado nos autos do processo em que fora proferida a decisão cujos efeitos se pretenda estender (no caso, no HC n. 969.502/SP).
+Todavia, como foram juntadas aos presentes autos cópias das peças processuais imprescindíveis para a análise dessa questão - em especial, a decisão objeto do pedido de extensão (e-STJ, fls. 22-27) -, em prol da celeridade e da economia processual, passo à análise do pedido.
+Dispõe o art. 580 do Código de Processo Penal que, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Com efeito, verifica-se que, nos autos do HC n. 969.502/SP, determinei a substituição da segregação preventiva imposta à corré Marcilene por prisão domiciliar, nos termos do art. 318, V, do CPP, tendo em vista, entre outros aspectos, o fato de que o caso não envolve a prática de crimes com violência ou grave ameaça e, ainda, que se trata de ré primária e que tem um filho de 9 (nove) anos.
+Do mesmo modo, à ora paciente (Amanda) também se imputa a prática de delitos supostamente cometidos sem violência ou grave ameaça. Inclusive, consoante ressaltou o Ministério Público Federal, verifica-se que a participação da paciente (Amanda) "nos crimes objeto da ação penal é em menor extensão do que a participação de Marcilene Moura, então líder da organização no Estado do Paraná, já beneficiada com a prisão domiciliar, dada a sua condição de mãe de menor" (e-STJ, fls. 39-40).
+Ademais, a ora paciente é, igualmente, primária, além de ser mãe de uma menina nascida em 21/11/2018, a qual, atualmente, tem 6 (seis) anos.
+Assim, constatada a similitude fático-processual existente entre as acusadas, tem-se como necessário o acolhimento, nos termos do art. 580 do CPP, do pedido extensão formulado neste writ.
+Ante o exposto, concedo a ordem para que a prisão preventiva imposta à ora paciente seja substituída pela custódia domiciliar, com a advertência de que eventual desobediência das condições impostas pelo Juízo de origem - inclusive a prática de novos delitos - importará no restabelecimento da prisão preventiva.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo da Vara Única da Comarca de Iepê/SP.
+Publique-se. Intime-se.
+EMENTA
