@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EVERTON PAULO SCHAFER contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado:
+"DESAFORAMENTO DE JULGAMENTO - TRIBUNAL DO JÚRI - FEMINICÍDIO - ART. 121, §2º, INCISOS I, III, IV, VI E VIII, E § 2º-A, INCISO I, DO CÓDIGO PENAL - ALEGAÇÃO DE DÚVIDA SOBRE A IMPARCIALIDADE DO CONSELHO DE SENTENÇA EM RAZÃO DA REPERCUSSÃO DA MÍDIA DO CASO NA COMUNIDADE LOCAL - DESACOLHIMENTO - INEXISTÊNCIA DE SITUAÇÃO EXTRAORDINÁRIA A RECOMENDAR O DESLOCAMENTO DO JULGAMENTO PARA OUTRA COMARCA - MANUTENÇÃO DO JUÍZO NATURAL - DESAFORAMENTO - NEGA PROVIMENTO"
+Requer a defesa "que seja concedido o desaforamento em virtude de existência de dúvida sobre a imparcialidade dos jurados" (e-STJ fls. 3-35).
+A liminar foi indeferida (e-STJ fls. 61-62).
+As informações foram prestadas (e-STJ fls. 72-88).
+O Ministério Público Federal manifestou-se "pelo não conhecimento do writ ou, caso assim não se entenda, pela denegação da ordem" (e-STJ fls. 90-93).
+É o relatório.
+Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus.
+O entendimento adotado pelo Tribunal de origem não destoa da jurisprudência firmada no âmbito deste Superior Tribunal de Justiça, que entende que "a eventual repercussão do crime na localidade, a costumeira movimentação dos parentes das vítimas e a divulgação dos fatos pela mídia são atitudes corriqueiras em hipóteses de delitos de maior gravidade, de modo que não justificam, per se, o desaforamento da sessão em Plenário" (AgRg no HC n. 627.631/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/8/2021, DJe de 12/8/2021).
+Ademais, conforme já decidiu a Sexta Turma desta Corte, "a natureza urgente do habeas corpus exige prova pré-constituída das alegações e não comporta dilação probatória. A ausência de instrução dos autos com elementos documentais capazes, concreta e especificamente, de demonstrar o efetivo perigo de imparcialidade do Conselho de Sentença ou o risco à integridade da acusada impede a concessão da ordem pugnada pelos impetrantes. Para rever a conclusão taxativa das instâncias ordinárias de inexistência dos requisitos para o desaforamento pretendido, seria necessário o exame aprofundado do contexto fático-probatório, providência que não se coaduna com a via eleita. Precedentes" (AgRg no HC n. 627.631/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/8/2021, DJe de 12/8/2021).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
