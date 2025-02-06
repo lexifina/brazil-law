@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de ADRIANO CRUZ DE OLIVEIRA - condenado como incurso no crime de associação para o tráfico de drogas às penas de 4 anos de reclusão, no regime inicial fechado, mais o pagamento de 850 dias-multa -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO (Revisão Criminal n. 0081862-51.2024.8.19.0000), não comporta acolhimento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 40ª Vara Criminal da comarca da capital/RJ, ao argumento de ausência de prova do vínculo associativo (fls. 2/14 ).
+Ocorre que, além de se tratar de writ utilizado como espécie de segunda revisão criminal , o que é inadmissível, as instâncias ordinárias, soberanas na análise do acervo probatório dos autos, concluíram, de forma fundamentada, pela presença dos elementos caracterizadores do crime de associação para o tráfico, de forma que, para se chegar à conclusão contrária, isto é, pela ausência da estabilidade e permanência necessárias para configurar o delito em questão, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência inviável na via estreita do habeas corpus, marcada por cognição célere e sumária.
+Nesse sentido: AgRg no HC n. 667.959/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/4/2022; AgRg no HC n. 929.583/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 17/9/2024; e AgRg no HC n. 882.375/PI, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 23/8/2024.
+Por fim, cabe à defesa, em observância ao princípio da cooperação, aplicável não só na seara cível, mas, no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pen a de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. WRIT UTILIZADO COMO SEGUNDA REVISÃO CRIMINAL. UTILIZAÇÃO INDEVIDA DA AÇÃO CONSTITUCIONAL. INADMISSIBILIDADE. PLEITO DE ABSOLVIÇÃO. AMPLO REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
