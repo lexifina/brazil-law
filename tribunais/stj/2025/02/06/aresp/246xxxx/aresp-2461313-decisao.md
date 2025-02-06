@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por RODRIGO FERREIRA DE SOUZA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo Interno Criminal n. 2001523-13.2023.8.26.0000/50000.
+Consta dos autos que o agravante foi condenado, em primeiro grau, à pena de 03 (três) de reclusão, em regime inicial aberto, e ao pagamento de 10 (dez) dias-multa no valor unitário mínimo, como incurso no art. 16, parágrafo único, IV, da Lei n. 10.826/2003, sendo absolvido da imputação da prática do crime de tráfico de drogas.
+O Tribunal de origem conferiu provimento ao recurso interposto pelo Ministério Público Estadual para condenar o agravante às penas do art. 33, caput, da Lei n. 11.343/2006, restando a reprimenda penal quanto a tal delito cominada em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Ajuizada revisão criminal, foi esta indeferida liminarmente pelo Relator nos termos da decisão monocrática de e-STJ fls. 102/118.
+Foi interposto agravo interno em face da decisão monocrática supramencionada, tendo Colegiado negado provimento ao recurso nos termos da decisão de e-STJ fls. 131/147.
+Interposto recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, a defesa alegou violação ao art. 33, §4º, da Lei n. 11.343/2006 e ao art. 33, §2º, "b", do Código Penal (e-STJ fl. 156).
+O recurso especial foi inadmitido.
+Daí o presente agravo em recurso especial, no qual se alega não incidirem os óbices descritos na decisão de e-STJ fls. 256/258.
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+Contraminuta apresentada (e-STJ fls. 272/275).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo desprovimento do agravo em recurso especial (e-STJ fls. 562/564).
+É o relatório.
+Decido.
+Nas razões de agravo, noto que o agravante deixou de impugnar especificamente os termos da decisão que inadmitiu o recurso especial exarada às e-STJ fls. 256/258, deixando, pois, de trazer à baila fundamentação recursal que pudesse agastar os fundamentos expendidos pela Corte Estadual no exame prévio de admissibilidade do recurso especial.
+Com efeito, o agravante se limitou a alegar que "Quanto à ausência de impugnação concreta aos fundamentos da decisão agravada, entendo que a jurisprudência do Superior Tribunal de Justiça, conforme citado no próprio acórdão, demanda que o Tribunal de origem emita juízo de valor sobre determinada questão, englobando aspectos presentes nas teses que embasam o pleito apresentado no recurso especial. No entanto, tal entendimento não pode ser aplicado de forma inflexível em todos os casos, especialmente quando há nulidades absolutas e condições da ação, como é o caso dos autos" (e-STJ fl. 266), deixando de destacar, todavia, as passagens das razões do especial que pudessem infirmar a fundamentação expendida pelo Tribunal a quo - ou seja, deixando de transcrever as razões do recurso que permitem inferir a impugnação específica, no recurso especial, dos termos do acórdão prolatado pela Corte a quo.
+Em relação ao óbice previsto na Súmula n. 7 deste Tribunal, o agravante se limitou a ressaltar que "tal interpretação não se aplica ao presente caso. O recurso especial em questão não busca a revisão dos fatos e provas, mas sim a análise e a correção de questões de direito federal suscitadas no acórdão do Tribunal de origem" (e-STJ fls. 266/267), não tendo, no entanto, demonstrado como seria possível, a partir dos fatos incontroversos constantes do acórdão impugnado, analisar as teses defensivas à míngua do revolvimento fático-probatório da matéria.
+Tenho que o recorrente, então, deixou de apontar de forma especificada os fundamentos que se valeram para enfrentar a decisão de admissibilidade prévia do recurso excepcional, o que caracteriza o óbice previsto no enunciado de Súmula n. 182 desta Corte Superior.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. RECURSO DESPROVIDO.
+1. Não havendo impugnação específica de fundamento da decisão que não conheceu do agravo em recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+3. Ademais, conforme destacado na decisão que inadmitiu o recurso especial, a jurisprudência desta Corte superior entende que "não configura bis in idem a incidência da agravante tipificada no art. 70, II, "L", do CPM sobre o crime de concussão, em razão de que a circunstância do militar se encontrar em serviço não é inerente ao tipo previsto no art. 305 do CPM, tendo em vista que a vantagem indevida pode ser exigida antes de assumir ou mesmo fora da função" (AgRg no REsp n. 1.950.905/RJ, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/2/2022, DJe de 2/3/2022).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.680.090/RJ, de minha relatoria, Sexta Turma, julgado em 14/9/2022, DJe de 21/9/2022, negritos aditados)
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+ EMENTA
