@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar impetrado em favor de ORNEM ALBERICE PEREIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, no julgamento da apelação criminal n. 1.0000.23.259325-1/001.
+Consta dos autos que o paciente foi condenado, em primeira instância, às penas de 19 (dezenove) anos e 07 (sete) meses de reclusão, em regime fechado, e 05 (cinco) meses e 18 (dezoito) dias de detenção, em regime aberto, além do pagamento de 51 (cinquenta e um) dias-multa, pela prática dos delitos do art. 157, §1º e §3º, na forma do art. 14, II, art. 180, caput, por duas vezes, art. 288, parágrafo único, todos do Código Penal, e art. 32, § 2º, da Lei nº 9.605/98 (fls. 68-105).
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que, por maioria, negou provimento ao recurso defensivo, conforme acórdão de fls. 106-209.
+Os embargos infringentes opostos pela defesa foram rejeitados às fls. 12-66.
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na negativa de desclassificação da conduta imputada para prevista no artigo 155, § 4º, inciso IV, e § 6º, do Código Penal.
+Requer, assim, a concessão da ordem para que seja promovida a desclassificação do delito imputado para o previsto no art. 155, §4º, inciso IV, e § 6º, do Código Penal.
+O pedido liminar foi indeferido às fls. 441-442.
+Informações prestadas às fls. 447-450 e 496.
+O Ministério Público Federal, às fls. 848-849, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+A controvérsia gira em torno da possível ilegalidade na negativa de desclassificação da conduta imputada para a prevista no artigo 155, § 4º, inciso IV, e § 6º, do Código Penal.
+Ocorre que o presente habeas corpus investe contra acórdão em substituição ao recurso próprio cabível, não podendo ser conhecido. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO. 1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido" (AgRg no HC n. 738.224/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/12/2023).
+" ..
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido" (AgRg no HC n. 857.913/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1/12/2023).
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, analiso a pretensão defensiva.
+O Tribunal de origem, acerca da controvérsia, assim consignou (e-STJ fls. 196-198):
+"Nesse contexto, confirmado pelo farto conjunto probatório que o apelante ORNEM ALBERICE PEREIRA praticou os delitos tipificados no art. 157, §§1º e 3º, inciso II, na forma do art. 14, inciso II, art. 180, por 02 (duas) vezes, e art. 288, parágrafo único, todos do Código Penal, e art. 32, §2º, da Lei n. 9.605/98, inviável o acolhimento do pleito absolutório, revelando-se, portanto, imperiosa a manutenção da condenação decretada em primeira instância por seus próprios fundamentos.
+Divirjo também quanto à desclassificação do delito de latrocínio tentado para as iras do art. 155, §6º, do CP, pois a prova colacionada aos autos evidencia que, a fim de assegurarem a impunidade dos crimes e detenção das cabeças de gado subtraídas, os réus tiveram o intuito deliberado de atingir a vítima Hernesto, assumindo o risco de causar a sua morte por atropelamento, que somente não se consumou por circunstâncias alheias à vontade dos agentes.
+Conforme é de notório conhecimento, o delito de latrocínio trata-se de crime complexo, ou seja, é resultante da fusão entre o roubo (crime-fim) e homicídio (crime-meio), e cujos bens jurídicos tutelados são, respectivamente, o patrimônio e a vida humana.
+Para sua caracterização, é necessário que, no contexto do roubo, a morte seja ocasionada - ou, ao menos tentada -, pelo emprego da violência contra a pessoa, a fim de possibilitar a subtração do bem ou, para após, garantir a posse da coisa subtraída, ou para assegurar a impunidade do roubo.
+ ..
+Ao que se verifica dos autos, sobretudo dos relatos da vítima Hernesto, inspetor da Polícia Civil de Manhuaçu/MG e integrante de uma das equipes responsáveis pelo cerco realizado com a finalidade de abordar os autores enquanto retornavam para Fervedouro/MG, os réus que estavam no interior do veículo Fiat/Strada, efetuando a função de batedores do caminhão-baú onde os bovinos foram colocados, assim que avistaram os policiais, e dada ordem de parada, efetuaram alguns disparos na direção dos agentes e aceleraram o carro na direção do ofendido.
+Conforme assinalado, "os acusados chegaram a parar, o viram e o atropelaram"; "pararam oito a dez metros e depois arrancaram o veículo em cima dele, lhe arremessando"; "o acusado diminuiu a velocidade, não chegando a parar e arrancou o veículo em cima dele, pois viu a possibilidade de passar""
+Da moldura fática do acórdão hostilizado, percebo que as instâncias originárias apreciaram, com profundidade, as provas produzidas sob o crivo do contraditório e da ampla defesa.
+Ademais, o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+A propósito do tema, trago à colação os seguintes julgados desta Quinta Turma:
+" ..
+3. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam pela presença de liame subjetivo no roubo praticado pelos agentes. Concluir de forma diversa implica exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+4. Agravo regimental a que se nega provimento.  (AgRg no AREsp 1364727/DF, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 22/11/2018);
+" ..
+1. O Tribunal a quo soberana na análise dos elementos fáticos e probatórios dos autos, concluiu que a autoria e a materialidade do crime consumado ficaram devidamente demonstradas nos autos pelas "palavras da vítima em consonância com os dizeres dos milicianos, e a contradição e inverossimilhança das alegações dos acusados." Ademais, não reconheceu a forma tentada tendo em vista que "os réus somente foram encontrados em virtude de diligências encetadas pelos policiais militares" em cooperação recíproca e carregando o portão furtado. No que toca a questão do concurso o aresto combatido frisou que o "ofendido narrou que foram dois indivíduos que, agindo em conjunto, desprenderam o portão de sua residência e, em seguida, evadiram-se com o bem. Não se esqueça, ademais, que ambos foram encontrados pela polícia enquanto, em cooperação recíproca, carregavam o objeto." Nesse contexto, a alteração do julgado, para o fim de absolver, diminuir a reprimenda pela tentativa ou excluir o concurso de agentes, implicaria necessariamente o reexame do material fático-probatório. Todavia, tal providência é inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+ ..
+5. Agravo regimental não provido.  (AgRg no AREsp 420.467/SP, Rel. Ministro Ribeiro Dantas, QUINTA TURMA, julgado em 2/10/2018, DJe 10/10/2018).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante do exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
