@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de SERGIO RODRIGO SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0203634-96.2015.8.26.0001).
+Depreende-se dos autos que o paciente foi condenado à pena de 12 anos de reclusão, em regime inicial fechado, como incurso no art. 121, § 2º, inciso IV, do Código Penal.
+Irresignada, a defesa recorreu. O Tribunal de origem negou provimento ao apelo por meio de acórdão assim ementado (e-STJ fl. 514):
+APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, IV, CP). Autoria e materialidade que encontram amparo nos laudos periciais e nos depoimentos prestados em juízo pelas testemunhas, inexistindo dissociação entre as conclusões do Conselho de Sentença e as provas dos autos. Dosimetria. Pena bem aplicada.
+Sentença mantida. Recurso não provido.
+Daí o presente writ, no qual alega a defesa que o processo não poderia ter sido suspenso, tendo em vista que os fatos imputados ao paciente são anteriores à Lei n. 9.271/1996, não se aplicando, portanto, o disposto no art. 366 do Código de Processo Penal. Sustenta que, "considerando que os fatos ocorreram no dia 28 de janeiro de 1996, ou seja, há mais de 25 (vinte e cinco) anos, é latente que se exauriu a pretensão punitiva" (e-STJ fl. 6).
+Afirma, ainda, que a condenação baseou-se em reconhecimento fotográfico ilegal, com violação ao art. 226 do CPP. Argumenta que o acusado "se encontra respondendo a processo que já está prescrita a pretensão punitiva, baseada apenas em reconhecimento fotográfico nulo, cuja única testemunha presencial dos fatos (Nilson César) afirmou que o verdadeiro autor do delito era um homem branco, contudo, o Paciente é NEGRO" (e-STJ fl. 8).
+Requer "seja declarada a extinção da punibilidade, nos termos do artigo 107, inciso IV do Código Penal, e CONCEDIDA a MEDIDA LIMINAR, com a expedição do respectivo alvará de soltura em favor do Paciente" (e-STJ fl. 9).
+No mérito, pede seja declarada a extinção da punibilidade.
+O Ministério Público Federal opinou pelo conhecimento parcial do writ e, na parte conhecida, pela não concessão do habeas corpus, em parecer assim ementado:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA E IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 366 DO CPP AO CASO DOS AUTOS. MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. CONHECIMENTO PARCIAL DO WRIT. RECONHECIMENTO FOTOGRÁFICO. CONDENAÇÃO BASEADA EM OUTRAS PROVAS. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO NA VIA ELEITA. - Parecer pelo conhecimento parcial do writ e, nessa extensão, pelo indeferimento.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+A impetração cuida, em resumo, de dois temas, quais sejam: prescrição da pretensão punitiva e nulidade do reconhecimento fotográfico.
+Em relação ao pedido de reconhecimento da prescrição, ainda que se considere válido o argumento defensivo de que a suspensão do prazo prescricional durante o período de 14/5/1997 a 21/8/2002, foi indevida - o que não é o caso -, o lapso temporal exigido pelo Código Penal para a configuração da prescricional não foi alcançado.
+O fato criminoso ocorreu em 28/1/1996.
+A partir dessa data, sobrevieram diversos fatos relevantes para o curso do prazo prescricional, nos termos dos arts. 117 do CP e 366 do CPP, tais como o recebimento da denúncia em 5/6/1996; a publicação da sentença de pronúncia em 26/10/2002; a suspensão do prazo prescricional entre 19/7/2011 e 8/9/2020, em razão da sua não localização; a publicação da sentença condenatória em 9/8/2021; e a publicação do acórdão que confirmou a sentença condenatória em 26/10/2021.
+Diante disso, fica evidente que não foi ultrapassado o prazo legal exigido para a configuração da pretensão punitiva, ainda que se considere a pena aplicada de 12 anos e o prazo prescricional de 16 anos, conforme o art. 109, II, do CP.
+No que toca à nulidade do reconhecimento fotográfico realizado, em que pese ter o paciente sido reconhecido por fotografia por uma das testemunhas, o acórdão impugnado aponta que:
+a condenação do réu está fundada em outras provas que não apenas o reconhecimento fotográfico, especialmente se considerando que as testemunhas conheciam o réu, sendo que as informações prestadas em sede policial permitiram a identificação de Sérgio antes mesmo do reconhecimento fotográfico (e-STJ fl. 519)
+A propósito, a jurisprudência deste Superior Tribunal de Justiça vem-se firmando no sentido de que, quando houver outros elementos de prova autônomos a demonstrar a autoria delitiva, é possível a condenação em sede criminal.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. RECONHECIMENTO PESSOAL. ART. 226 DO CPP. EXISTÊNCIA DE DISTINÇÃO. CONDENAÇÃO EMBASADA TAMBÉM EM PROVAS AUTÔNOMAS. PRECEDENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE DE INCIDÊNCIA. REINCIDÊNCIA E BENS SUBTRAÍDOS AVALIADOS EM VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há justificativa para se anular a sentença condenatória por eventual inobservância do procedimento de reconhecimento pessoal previsto no art. 226 do CPP quando há nos autos provas autônomas que comprovam a autoria.
+2. O afastamento das conclusões apresentadas pelo Tribunal demanda o revolvimento do conjunto fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+3. Não se aplica o princípio da insignificância no caso concreto, pois, além de um dos recorrentes ser reincidente, foram subtraídos bens avaliados em R$ 114,00, ou seja, em valor superior a 10% (dez por cento) do salário mínimo vigente à data dos fatos (R$ 1.045,00 - 2020) Assim, não houve a comprovação dos requisitos da inexpressividade da lesão jurídica causada e reduzidíssimo grau de reprovabilidade do comportamento, impossibilitando o reconhecimento da atipicidade material da conduta.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.585.787/MG, relator Ministro Ribeiro Dantas, QuintaTurma, julgado em 27/8/2024, DJe de 30/8/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
