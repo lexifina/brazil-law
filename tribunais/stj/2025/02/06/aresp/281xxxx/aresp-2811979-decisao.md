@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por GEO BRASIL SERVICOS AMBIENTAIS LTDA e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. PROCESSO CIVIL. EXECUÇÃO. EXCEÇÃO DE PRE-EXECUTIVIDADE. EMBARGOS DO DEVEDOR. EMENDA. ADITAMENTO. PRECLUSÃO CONSUMATIVA. 1. AS QUESTÕES DECIDIDAS DEFINITIVAMENTE EM SEDE DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE, AINDA QUE DE ORDEM PÚBLICA, NÃO PODEM SER RENOVADAS NA OPOSIÇÃO DE EMBARGOS DO DEVEDOR, EM FACE DA PRECLUSÃO CONSUMATIVA. 2. NEGOU-SE PROVIMENTO À APELAÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 329, I, do CPC, no que concerne à possibilidade de aditar ou alterar os pedidos, independente de consentimento, antes da citação do réu, trazendo a seguinte argumentação:
+5.3. No caso em tela, uma vez que o aditamento ocorreu antes da citação do Recorrido, conforme estabelece o art. 329, I, do CPC, não há fundamento para desconsiderar os pedidos formulados no aditamento. De acordo com a jurisprudência do STJ, apenas seria vedada a modificação dos pedidos da demanda após a citação do réu e sem sua anuência.
+5.4. Ora, evidente a afronta ao artigo supramencionado, visto que o Magistrado da decisão recorrida entendeu que a petição apresentada pela Recorrente estaria fundamentada no art. 321 do CPC e, por isso, estaria tão somente corrigindo defeitos e irregularidades verificadas pelo juiz.
+5.5. Nesse sentido, o Relator, precipitadamente, concluiu que as questões abordadas no aditamento à inicial apenas renovariam os pedidos formulados na petição inicial, o que não corresponde à realidade.
+5.6. Ademais, importante reiterar que houve a substituição dos procuradores da parte Recorrente, razão pela qual se observou a necessidade de alteração dos pedidos da demanda, por meio do aditamento à petição inicial.
+ ..
+5.13. Portanto, é imperativo o provimento do Recurso Especial, a teor do art. 105, III, alínea "a" da CF/88, uma vez que restou claramente configurada a violação ao disposto no art. 329, I, do CPC, porquanto não fora recebido o aditamento à inicial (fls. 297-300).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Nada obstante, na petição de emenda a embargante requer o afastamento da incidência do INPC, ante a ausência de previsão contratual do encargo; o afastamento da capitalização diária, ante a ausência de previsão expressa do encargo diário; a consequente descaracterização da mora, ante as práticas abusivas no período de normalidade contratual, em estrita conformidade com o entendimento jurisprudencial consolidado, e a intimação do embargado para que apresente as cédulas originárias e cálculos devidamente discriminados, com a apresentação da evolução da dívida e suas amortizações, sob pena de presunção das abusividades presentes no título aos moldes do art. 400 do CPC.
+Nessa toada, cabe destacar, conforme se infere dos autos do processo de execução (Proc n. 0718741-72), que as questões abordadas na aludida emenda não podem ser renovadas com a interposição de embargos à execução em razão da preclusão (CPC/2015 507) .
+Com efeito, os pedidos formulados no aditamento à inicial foram abordados por ocasião da apreciação da exceção de pré-executividade, liminarmente rejeitada  ..
+ ..
+À luz do artigo 507, do Código de Processo Civil, segundo o qual é vedada a retomada de matérias já decididas, estas questões não devem ser objeto de nova apreciação.
+Dessa forma, importante registrar que a sentença não criou óbice ao direito de aditamento à inicial, tal como alega a apelante, mas apenas reconheceu a preclusão consumativa, pois as questões decididas definitivamente em sede de Exceção de Pré-Executividade, ainda que de ordem pública, não podem ser renovadas na oposição de Embargos do Devedor (fls. 207-208).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
