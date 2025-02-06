@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDRÉ LUIZ SILVA COSTA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (HC n. 0632621-22.2024.8.06.0000).
+Narra a petição inicial que o paciente foi preso preventivamente, em 17/8/2023, pela suposta prática dos delitos previstos no arts. 121, § 2º, inciso IV, e 211, ambos do Código Penal.
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fl. 29):
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER (ART. 121, § 2º, INCISO IV C/C ART. 211, AMBOS DO CÓDIGO PENAL). PRISÃO PREVENTIVA.
+1. TESE DE EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. NÃO ACOLHIMENTO. ANÁLISE GLOBAL. TRÂMITE PROCESSUAL REGULAR. INEXISTÊNCIA DE DESÍDIA.
+APLICAÇÃO DA SÚMULA 15 DO TJCE. COMPLEXIDADE DO FEITO ORIGINÁRIO. PLURALIDADE DE RÉUS (QUATRO).
+PRECEDENTES DO STJ. ANDAMENTO PROCESSUAL COM CURSO REGULAR. AUDIÊNCIA DESIGNADA PARA DATA PRÓXIMA, EM 11/11/2024. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA RAZOABILIDADE.
+2. TESES DE AUSÊNCIA DE INDÍCIOS MÍNIMOS DE AUTORIA, AUSÊNCIA DE REQUISITOS AUTORIZADORES DA CUSTODIA CAUTELAR, EXISTÊNCIA DE CONDIÇÕES PESSOAIS FAVORÁVEIS AO PACIENTE E POSSIBILIDADE DE CONVERSÃO DA PRISÃO EM MEDIDA CAUTELAR DIVERSA DO ENCARCERAMENTO. NÃO CONHECIMENTO.
+REPETIÇÃO DE PEDIDOS. MATÉRIAS EXAUSTIVAMENTE ANALISADAS EM HABEAS CORPUS ANTERIOR (HC Nº 0629140-51.2024.8.06.0000). COISA JULGADA.
+3. ORDEM PARCIALMENTE CONHECIDA E, NA EXTENSÃO COGNOSCÍVEL, DENEGADA.
+Daí o presente writ, no qual a defesa sustenta a ausência de provas da autoria delitiva, afirmando que há nos autos laudo atestando que a vítima não morreu por lesão derivada de arma de fogo.
+Salienta a existência de excesso de prazo na formação da culpa, asseverando que, "em momento algum, o Paciente ensejou o retardamento do feito, quem efetivamente encontra-se retardando o processo é o Ministério Público" (e-STJ fl. 11).
+Alega a ausência dos requisitos previstos no art. 312 do Código de Processo Penal
+Aduz que o paciente é portador de condições pessoais favoráveis, sendo possível a substituição do cárcere por medidas cautelares menos gravosas elencadas no art. 319 do CPP.
+Diante dessas considerações, requer, liminar e definitivamente, a revogação da prisão preventiva e a expedição de alvará de soltura.
+Indeferido o pedido liminar (e-STJ fls. 45-47) e prestadas as informações (e-STJ fls. 53-63), o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 68-71).
+É o relatório.
+Decido.
+Primeiramente, não conheço das alegações relativas à autoria, pois, no procedimento do habeas corpus, não se permite a produção de provas, já que essa ação constitucional deve ter por objetivo sanar ilegalidade verificada de plano, não se fazendo possível aferir a materialidade e a autoria delitiva quando controversas.
+Segundo o entendimento do Superior Tribunal de Justiça, "reconhecer a ausência, ou não, de elementos de autoria e materialidade delitiva acarreta, inevitavelmente, aprofundado reexame do conjunto fático-probatório, sendo impróprio na via do habeas corpus" (RHC n. 119.441/CE, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/11/2019, DJe 3/12/2019).
+No que tange à tese de ausência dos requisitos legais para a decretação da prisão preventiva, verifica-se ter sido a questão objeto de análise do HC n. 876.550/CE, circunstância que torna inadmissível nova apreciação por esta Corte Superior, por evidenciar indevida reiteração de pedido.
+Nesse sentido (destaques acrescidos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA TRANSITADA EM JULGADO. EXCESSO DE LINGUAGUEM. PRECLUSÃO. REITERAÇÃO DE PEDIDOS. MATÉRIA JÁ ANALISADA EM HABEAS CORPUS ANTERIOR. AGRAVO DESPROVIDO.
+1. O presente habeas corpus, distribuído em 7/2/2024,constitui mera reiteração do pedido formulado no HC 815846, de minha relatoria, não conhecido em 13/7/2023, isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Agravo regimental no HC 5012307-33.2022.8.08.0000).
+ ..
+3. Assim, esta Corte já proferiu decisão acerca da irresignação da defesa, motivo pelo qual é incabível um novo pronunciamento.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 888.335/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024, grifei.)
+No mais, quanto ao aventado excesso de prazo para a formação da culpa, o Tribunal de origem assim dispôs (e-STJ fls. 33/40, grifei):
+Inicialmente, quanto à alegação de excesso de prazo na formação da culpa, é imperioso ressaltar que, consoante pacífico entendimento jurisprudencial desta Corte de Justiça, a tese vergastada não deve ser analisada apenas se considerando a soma aritmética dos prazos legalmente estabelecidos.
+Os prazos legais não são peremptórios, admitindo dilações quando assim exigirem as peculiaridades do caso concreto, como a complexidade da ação penal, a pluralidade de acusados, a necessidade de se deprecar a realização de atos de cientificação, diligências para oitiva de testemunhas em outras comarcas, dentre outras, que não advenham da própria defesa. Indispensável, entretanto, a observância aos limites da razoabilidade, em atenção ao art. 5.º, inc. LXXVIII, da Constituição Federal, bem assim aos princípios da necessidade e da dignidade do ser humano.
+O excesso de prazo alegado é tese bastante refletida tanto nesta Corte de Justiça quanto nas demais, sendo objeto de correção na revisão dos tribunais somente aquele excesso exagerado, cuja discussão comporta entendimento de atraso injustificado do trâmite processual pela desídia do magistrado ou por motivo banal.  ..
+ ..
+No mesmo sentido, a jurisprudência da Corte Interamericana de Direitos Humanos, no que é seguida pela do Supremo Tribunal Federal, entende que, pelo menos, três fatores devem ser considerados ao analisar possível excesso de prazo: (a) a complexidade da causa, (b) a atividade processual dos intervenientes e (c) a diligência do Juízo na condução do processo. (Caso Tibi v. Equador. Sentença de 7 de setembro de 2004. Série C, n. 144, parágrafo 175.).
+Ressalto que o efeito do eventual descumprimento dos prazos é, a princípio, a configuração de prisão ilegal, com o seu consequente relaxamento pela autoridade judiciária competente. Entretanto, este não é o caso dos autos. Explico.
+Em consulta, ao SAJPG, percebi que o trâmite processual da ação penal nº 0204054-53.2023.8.06.0300, deu-se da seguinte forma até o momento:
+Em 24/11/2022, ocorreu o fato imputado ao paciente (Relatório do Inquérito Policial nº 201-495/2023, às 87/92);
+Em 07/08/2023, foi oferecida a Denúncia, e requerida a prisão preventiva de: John Kennedy Pinheiro Almeida, André Luiz Silva Costa, Danilo Silva de Araújo e João Paulo da Silva Coelho (fls. 112/120);
+Em 17/08/2023, o Juízo da 1ª Vara Criminal da Comarca de Caucaia recebeu a denúncia oferecida contra o paciente e demais corréus, decretando, ainda, a sua prisão preventiva (fls. 122/123);
+Em 18/08/2023, foi expedido Mandado de Prisão em desfavor do paciente (fl. 129);
+Em 11/09/2023, foi certificado nos autos que o paciente não pode ser citado, pois "Em diligência, fui informada por sua mãe, a Sra. Dalva, de que o mesmo mudou-se para Sítios Novos, não tendo sido possível, no entanto, pormenorizar seu atual endereço. Diante do exposto, devolvo o mandado à Secretaria para os devidos fins de Direito." (fl. 189);
+Em 25/09/2023, a defesa do paciente apresentou a competente resposta à acusação (fls. 206/209);
+Em 01/11/2023, o representante da 1ª Promotoria de Justiça de Caucaia apresentou parecer, manifestando-se sobre as questões preliminares arguidas pela defesa do paciente e dos corréus, Danilo Silva de Araújo e João Paulo da Silva Coelho, opinando pelo "indeferimento das preliminares trazidas na Resposta à Acusação, prosseguindo-se o feito." (fls. 241/242);
+Em 06/11/2023, o Juízo a quo proferiu despacho determinando que fosse designada data para Audiência de Instrução (fls.243/244); Mandado de prisão em desfavor do paciente cumprido em 15/12/2023;
+Em 11/03/2024, a Audiência de Instrução designada para aquela data não pôde ser realizada, quando o Juízo a quo determinou que as partes se manifestassem quanto às testemunhas que não compareceram para o ato (fls. 326/327);
+Em 03/04/2024, o representante do Ministério Público, em cumprimento ao que fora determinado no Termo de Audiência de fls. 326/327, apresentou informação sobre a ausência das testemunhas na audiência do dia 11/03/2024 (fl. 340);
+Em 05/04/2024, foi proferido despacho determinando que fossem incluídos em pauta de audiências (fl. 341);
+Em 08/04/2024, nos autos de nº 0011185-58.2024.8.06.0064, o Juízo competente indeferiu o pedido de revogação da prisão preventiva formulado pela defesa do paciente, às fls. 30/31, dos referidos autos;
+Em 08/04/2024, foi proferido Ato Ordinatório, designando a Audiência de Instrução para 12/08/2024;
+Em 14/05/2024, nos autos de nº 0011668-88.2024.8.06.0064, o Juízo competente indeferiu o pedido de relaxamento da prisão preventiva formulado pela defesa do paciente, às fls. 13/14, dos referidos autos;
+Em 12/08/2024, foi realizada Audiência de Instrução, conforme Termo acostado às fls. 399/400, oportunidade em que foram ouvidas testemunhas de acusação e defesa;
+Em 28/08/2024, foi proferido Ato Ordinatório, designando a Audiência de Instrução para 11/11/2024.
+Compulsando os autos, observa-se que tal demora não pode ser atribuída ao Poder Judiciário, levando em consideração que a autoridade impetrada vem atuando de maneira célere no processo, sem incidir em nenhuma inércia expressamente prejudicial e desidiosa durante o transcurso da ação penal, pois devidamente segue performando todos os atos processuais necessários à satisfação do litígio, nas diversas fases do processo alcançadas, a fim de acelerar o seu trâmite.
+Em contrapartida, verifico que a dilação processual provém de demora alheia à atuação do paciente ou de sua defesa, haja vista não terem adotado nenhuma conduta que prejudicialmente ocasionou a relativa morosidade do andamento processual; de igual forma, o Ministério Público, enquanto titular da pretensão acusatória, prossegue conferindo o impulso oficial necessário para que a tramitação do processo se dê forma regular.
+Com efeito, o maior entrave da atual fase processual não repousa na atuação dos sujeitos principais do processo, nem das autoridades estatais como um todo (polícia, peritos, servidores públicos etc.), e sim na complexidade do feito, estando devidamente justificada a não conclusão na formação de culpa, mormente devido à ausência de testemunhas importantes para a instrução processual. Ademais, relevante ressaltar que, além do exposto, a morosidade processual também se dá às particularidades do caso concreto, assim como ao número de acusados (quatro) e múltiplos causídicos.
+Sendo complexo, é natural e inerente que o caso em apreço demande maiores esforços e tempo para que as suas diligências findem, motivo pelo qual se aplica a tese consagrada no enunciado da Súmula n.º 15 deste Tribunal de Justiça:
+ ..
+Noutra toada, destaco, ainda, que a Audiência de Instrução de Julgamento foi designada para data relativamente próxima, qual seja, 11/11/2024. Atualmente, o processo encontra-se em fase de intimação das testemunhas necessárias para que a referida audiência seja realizada com êxito.
+Forçoso concluir, portanto, o não reconhecimento de exacerbação de excesso de prazo, apto a balizar a concessão da ordem impetrada, eis que o feito tem curso regular, compatível com as peculiaridades do caso concreto, não havendo notícias de patente ilegalidade ou excessiva solução de continuidade na prática dos atos processuais.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe: "A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação."
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+No caso, o Tribunal de origem, em consonância com a jurisprudência desta Corte Superior, asseverou que "o maior entrave da atual fase processual não repousa na atuação dos sujeitos principais do processo, nem das autoridades estatais como um todo (polícia, peritos, servidores públicos etc.), e sim na complexidade do feito, estando devidamente justificada a não conclusão na formação de culpa, mormente devido à ausência de testemunhas importantes para a instrução processual. Ademais, relevante ressaltar que, além do exposto, a morosidade processual também se dá às particularidades do caso concreto, assim como ao número de acusados (quatro) e múltiplos causídicos".
+Portanto, verificadas particularidades do caso concreto, tais como a ausência de testemunhas necessárias para o deslinde da causa e o número de acusados e advogados, conclui-se a não ocorrência de excesso de prazo para a formação da culpa.
+Nesse sentido, destaca-se:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E PORTE ILEGAL DE ARMA DE FOGO. GRAVIDADE CONCRETA DOS FATOS. PERICULUM LIBERTATIS. EXCESSO DE PRAZO NÃO CONFIGURADO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. ORDEM DENEGADA. I. CASO EM EXAME
+1. Habeas corpus impetrado com o objetivo de revogar a prisão preventiva do paciente, acusado de tráfico de drogas, associação para o tráfico e porte ilegal de arma de fogo. A defesa alega ausência de fundamentação idônea para a prisão preventiva, existência de condições pessoais favoráveis e excesso de prazo na formação da culpa. II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar se a prisão preventiva foi devidamente fundamentada à luz do art. 312 do CPP;
+(ii) analisar a possibilidade de substituição da prisão preventiva por medidas cautelares diversas; (iii) avaliar se há excesso de prazo na formação da culpa que justifique a revogação da prisão preventiva. III. RAZÕES DE DECIDIR
+3. A prisão preventiva está fundamentada em fatos concretos que demonstram a periculosidade do paciente, evidenciada pela apreensão de considerável quantidade de drogas, armas de fogo e munições, além de acessórios utilizados no tráfico, o que justifica a custódia cautelar para a garantia da ordem pública.
+4. Embora o paciente possua condições pessoais favoráveis, como primariedade, tais elementos não são suficientes para afastar a prisão preventiva quando presentes o *fumus comissi delicti* e o *periculum libertatis*.
+5. Quanto ao alegado excesso de prazo, o princípio da razoabilidade permite variações nos prazos processuais, especialmente em casos de maior complexidade, como o presente, envolvendo múltiplos crimes e acusados. A instrução criminal está em fase avançada, com audiência já designada, não se configurando, portanto, mora injustificada ou constrangimento ilegal.
+6. A gravidade concreta dos fatos e a periculosidade do paciente tornam inviável a substituição da prisão preventiva por medidas cautelares menos gravosas, conforme jurisprudência desta Corte. IV. DISPOSITIVO
+7. Ordem de habeas corpus denegada.
+(HC 895.308/MG, Relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024, grifei).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
