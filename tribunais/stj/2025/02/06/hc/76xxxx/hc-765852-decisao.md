@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JEREMIAS GERVÁSIO DE CARVALHO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Recurso em Sentido Estrito 1.0145.21.009959-7/001).
+Depreende-se dos autos que o paciente foi pronunciado pela prática dos crimes previstos no art. 121, § 2º, I, c/c art. 14, II, do Código Penal (em relação às vítimas Joshua e Hugo) e no art. 121, caput, c/c art. 14, II, do Código Penal (em relação às vítimas Rubens e Renato).
+O Tribunal de origem negou provimento ao recurso em sentido estrito, nos termos do acórdão assim ementado (e-STJ fls. 798/817):
+EMENTA: RECURSO EM SENTIDO ESTRITO - HOMICÍDIOS SIMPLES TENTADOS E HOMICÍDIOS QUALIFICADOS TENTADOS - PRELIMINAR - NULIDADE POR INOBSERVÂNCIA DAS GARANTIAS FUNDAMENTAIS - OCORRÊNCIA - MÉRITO - PRONÚNCIA - MANUTENÇÃO - PROVA DA MATERIALIDADE EINDÍCIOS DE AUTORIA - DECOTE DA QUALIFICADORA DE MOTIVO TORPE - NECESSIDADE - DIREITO DE AGUARDAR AO JULGAMENTO DO PROCESSO EM LIBERDADE - INADEQUAÇÃO. Havendo demonstração do prejuízo gerado pela inobservância do dever de cientificar o pronunciado, no momento de sua prisão em flagrante, acerca do seu direito constitucional ao silêncio, bem como a ausência de testemunhas no momento da confissão informal, entendo que há violação o previsto no art. 5º, LXIII, da Constituição da República (CRFB/88) e no art. 6º, V, do Código de Processo Penal (CPP), ensejando a nulidade da prova e o consequente desentranhamento da mesma dos autos. A pronúncia, mero juízo de admissibilidade acusatório, deve se limitar a indicar a prova da materialidade e os indícios de autoria, sendo defeso o exame aprofundado dos elementos de convicção quanto ao mérito da ação penal. Devidamente demonstrada a manifesta improcedência da qualificadora de motivo torpe, seu decote é medida de rigor. A subsistência dos motivos declinados para sustentar a manutenção da custódia cautelar justifica o sacrifício da liberdade individual do agente para a garantia da ordem pública.
+No presente habeas corpus, sustenta a defesa a inexistência de indícios de autoria suficientes para embasar a pronúncia do réu, razão pela qual requer sua despronuncia com fundamento no art. 414 do CPP.
+Argumenta que "o paciente foi pronunciado com alicerce em testemunhos de "ouvir dizer", ou seja, com base em depoimentos prestados com fincas em boatos e comentários de pessoas não identificadas, no sentido de ter o mesmo participado da conduta delituosa".
+As informações foram prestadas (e-STJ fls. 854/902).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 904/911).
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+Em consulta ao Recurso Especial n. 2144785, verifica-se que o paciente foi absolvido pelo Conselho de Sentença de todas as imputações, ensejando a perda do objeto do presente remédio constitucional.
+Nesse sentido, o juízo de primeiro grau decidiu que:
+Tendo em vista o que foi decidido pelo Conselho de Sentença, hei por bem ABSOLVER JEREMIAS GERVÁSIO DE CARVALHO da imputação levantada contra ele nestes autos, JULGANDO IMPROCEDENTE A ACUSAÇÃO.
+Assim, patente que o presente writ está prejudicado haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
