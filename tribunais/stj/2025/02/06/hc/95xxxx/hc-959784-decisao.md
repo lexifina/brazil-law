@@ -1,0 +1,22 @@
+DECISÃO
+WANDERSON CARDOSO DE SOUSA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de Tocantins, proferido no Agravo em Execução n. 001330-16.2024.8.27.2700.
+A defesa busca o restabelecimento da decisão proferida pelo Juízo da execução, que deferiu ao paciente a progressão ao regime semiaberto, independentemente da realização de exame criminológico.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com fundamento na jurisprudência pacífica sobre o tema.
+Com a Lei n. 10.792/2023, o exame criminológico deixou de ser obrigatório para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+Somente após a Lei n. 14.843/2024, aplicável aos crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+No caso, o paciente praticou os crimes de tráfico ilícito de entorpecentes antes da inovação legislativa. A Lei de Execução Penal trata da individualização da pena na fase do cumprimento da sentença e leis penais mais gravosas não podem ser aplicadas retroativamente.
+O condenado iniciou o cumprimento da reprimenda em 13/3/2018 e, atualmente, está no regime semiaberto (deferida a prisão domiciliar por falta de vaga), por força de decisão proferida pelo Juízo da execução, cassada pelo Tribunal estadual, que determinou seu retorno ao modo mais gravoso, a fim de que seja submetido a exame criminológico para aferição da presença do requisito subjetivo. Para tanto, consignou o que segue:
+No caso em concreto, percebe-se que o Agravado fora condenado pelo crime de tráfico de drogas, de natureza hedionda, reincidindo na mesma prática delitiva por três vezes.
+As particularidades do processo em questão, assim como a natureza e o modo como os delitos foram perpetrados, são elementos suficientemente robustos para justificar a necessidade de condução de um exame criminológico, especialmente em razão da reincidência e a natureza hedionda dos crimes.
+Vale registrar que se trata de um pedido de progressão para o regime semiaberto, o qual, devido à inexistência de um estabelecimento prisional apropriado, resultou na concessão de regime aberto domiciliar.
+Nesse contexto, entende-se ser indispensável a realização do exame criminológico para uma análise adequada da personalidade do Agravado, que permitirá a avaliação da personalidade, da periculosidade do agente e da probabilidade de recidiva.
+ ..
+Ademais, a reincidência criminal, aliada à gravidade dos delitos praticados, evidencia a necessidade de condução do exame criminológico, com o propósito de verificar se o indivíduo em questão possui capacidade para reintegrar-se à sociedade sem representar riscos de recalcitrância delitiva.
+Desta forma, evidente que necessária a realização do exame criminológico, para se aferir o preenchimento do requisito subjetivo para o alcance de futuros benefícios (fls. 80-81, destaquei).
+Aplica-se ao caso a compreensão de que "a simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico, na linha da orientação jurisprudencial desta Corte. Precedentes do STJ" (AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+O Tribunal estadual determinou o exame criminológico sem a indicação de fundamento idôneo, relacionado à execução penal, na medida em que se limitou a tecer considerações a respeito da gravidade dos delitos, equiparados a hediondo. Esses dados são inerentes ao tipo penal e interessam à escolha da pena proporcional e adequada à gravidade do crime.
+A motivação não explica a dúvida sobre a falta de capacidade do apenado de ajustar-se, com autodisciplina e senso de responsabilidade, ao novo regime.
+À vista do exposto, confirmo a liminar deferida e concedo a ordem , a fim de restabelecer a decisão do Juízo de primeiro grau.
+Publique-se e intimem-se.
+EMENTA
