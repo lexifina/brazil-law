@@ -1,0 +1,11 @@
+DECISÃO
+GISLAINE NASCIMENTO DO PRADO alega sofrer coação ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2255299-07.2024.8.26.0000.
+Consta dos autos que foi decretada a prisão temporária da paciente para investigação criminal em inquérito policial relativo ao crime de tráfico de drogas (art. 1º, III, n, da Lei n. 7.960/1989).
+A defesa pretende a revogação da prisão temporária ou sua substituição por medidas cautelares ou por prisão domiciliar, sob os seguintes fundamentos: a) a paciente foi presa em decorrência de investigação sobre organização criminosa e lavagem de dinheiro iniciada com base em apreensões realizadas em investigação relacionada a terceiros; b) não há provas concretas da participação da paciente nos delitos investigados; c) houve quebra da cadeia de custódia em relação às provas digitais apreendidas; d) o juízo que decretou a prisão temporária é incompetente; e) a paciente é primária, possui bons antecedentes, residência fixa, trabalho lícito e é mãe de uma criança; f) não houve garantia de autenticidade e integridade na análise das provas digitais.
+Indeferida a liminar, foram apresentadas informações às fls. 373-394 e o Ministério Público Federal opinou pelo não conhecimento do habeas corpus, e, no mérito, pelo seu desprovimento.
+Decido.
+Da análise do sistema informatizado e dos processos conexos, verifico que, após a impetração deste habeas corpus, foi impetrado o HC n. 968.486/SP, no qual se noticia que a ora paciente teve a sua prisão preventiva decretada e a respectiva denúncia recebida. Percebe-se, portanto, que o presente feito perdeu seu objeto, pois se voltava contra a prisão temporária, a qual não mais subsiste em virtude da decretação da prisão preventiva.
+Nesse sentido: "a superveniente decretação da prisão preventiva torna superada a alegação de nulidade da prisão temporária" (RHC 54.876/SP, Rel. Ministro Gurgel de Faria, DJe 1º/9/2015; AgRg no HC n. 629.879/SP, Rel. Ministro Rogerio Schietti DJe de 28/6/2021.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
+EMENTA
