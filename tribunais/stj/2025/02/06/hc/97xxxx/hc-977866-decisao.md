@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de WELINTON DOS SANTOS, condenado pelo Juízo de Direito da Vara Criminal da comarca de Campina Grande do Sul/PR à pena de 7 anos e 11 meses de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 32 dias-multa, como incurso no art. 157, §§ 2º, II e 2º-A, I, do Código Penal, tendo-lhe sido negado o direito de recorrer em liberdade (Ação Penal n. 0002778-68.2024.8.16.0037 - fls. 28/45).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, ora apontado como órgão coator, concedeu a ordem do HC n. 0133616-16.2024.8.16.0000 (fls. 14/18), a fim de que seja compatibilizada a prisão cautelar imposta ao paciente ao regime prisional a ele imposto na sentença condenatória (fl. 17).
+O acórdão foi assim ementado (fl. 14):
+HABEAS CORPUS. ROUBO MAJORADO. ARTIGO 157, §2º, INCISO II E §2º- A, INCISO I, DO CÓDIGO PENAL. PROLAÇÃO DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA PRISÃO PREVENTIVA DO PACIENTE. FIXAÇÃO DE REGIME SEMIABERTO. POSSIBILIDADE DE COMPATIBILIZAÇÃO ENTRE O REGIME FIXADO E A CUSTÓDIA PREVENTIVA. ORDEM CONHECIDA E CONCEDIDA, CONFIRMANDO- SE A LIMINAR ANTERIORMENTE DEFERIDA NO SENTIDO DE QUE SEJA DETERMINADA A COMPATIBILIZAÇÃO DA PRISÃO PREVENTIVA COM O REGIME PRISIONAL IMPOSTO.
+1. A manutenção da prisão preventiva em regime mais gravoso do que o estipulado na sentença condenatória configura constrangimento ilegal.
+2. É pacífica a jurisprudência quanto à possibilidade de compatibilizar a prisão preventiva com o regime semiaberto, desde que demonstrada a necessidade excepcional da medida (STJ, Quinta Turma, AgRg no HC n. 891.213/SP, relator Ministro Joel Ilan Paciornik, julgado em 02.09.2024).
+3. Ordem conhecida e concedida.
+Nesta Casa, a defesa alega que o paciente está recluso de liberdade em estabelecimento prisional compatível ao regime semiaberto, mas, ao ver da defesa, há incompatibilidade entre os institutos (fl. 3 - grifo nosso).
+Sustenta que o entendimento desta corte, conforme jurisprudência acima colecionada, ficou estabelecido que há a incompatibilidade entre os regimes, no entanto, poderá ser mantida a prisão preventiva em casos excepcionais, devidamente justificados, o que não foi o caso. Como trazido, o juízo de primeira instância limitou-se a afirmar que os motivos permanecem presentes, sem justificar a excepcionalidade da manutenção da prisão preventiva após fixação do regime semiaberto, como é o entendimento desta corte (fl. 11).
+Afirma que se trata de réu primário, com bons antecedentes e residência fixa.
+Requer, assim, a concessão da liberdade provisória ao paciente, com ou sem a aplicação de medidas cautelares alternativas (art. 319 do CPP).
+Estes autos foram a mim distribuídos por prevenção do HC n. 931.526/PR.
+É o relatório.
+De pronto, verifico que não há constrangimento ilegal a ser sanado.
+Com efeito, o acórdão impugnado, ao conceder a ordem de habeas corpus, determinou que deverá o paciente aguardar o julgamento de eventual recurso de apelação em regime semiaberto, compatibilizando-se a prisão cautelar com o modo de execução determinado na sentença condenatória (fl. 17).
+Ora, de acordo com a jurisprudência desta Casa, não há incompatibilidade entre a prisão preventiva e a fixação do regime semiaberto, caso preenchidos os requisitos do art. 312 do Código de Processo Penal, porém é necessário compatibilizar a prisão cautelar com o regime inicial determinado na sentença condenatória.
+Com efeito, a jurisprudência é no sentido da possibilidade de compatibilização entre a segregação cautelar e o regime menos gravoso estabelecido na sentença, desde que adequadas as condições da prisão provisória às regras do regime imposto. Destarte, estabelecido na sentença condenatória o regime semiaberto para o início do cumprimento da pena, deve o paciente aguardar o trânsito em julgado de sua condenação em tal regime, compatibilizando-se a prisão cautelar com o modo de execução da pena (RCD no HC n. 905.527/SE, Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, DJe 26/6/2024 - grifo nosso).
+E, no caso, a própria defesa reconhece que o paciente está recluso de liberdade em estabelecimento prisional compatível ao regime semiaberto (fl. 3), exatamente como foi determinado pelo Tribunal de origem, motivo pelo qual não há falar em existência de constrangimento ilegal a ser sanado.
+Por fim, ressalto que o Juízo de primeiro grau, ao negar ao réu o direito de recorrer em liberdade, asseverou que permanecem os motivos ensejadores da decretação da custódia cautelar do réu (fl. 44).
+Todavia, verifico que não consta dos autos a decisão que originariamente decretou a prisão preventiva, documento essencial à compreensão das alegações e ao deslinde da controvérsia.
+Além disso, observo que referido decreto prisional já teve seus fundamentos analisados e tidos por idôneos nesta Corte, no julgamento do HC n. 931.526/PR, ocasião em que deneguei a ordem, em razão de ausência de flagrante constrangimento ilegal.
+Ante o exposto, indefiro liminarmente o writ.
+Publiq ue-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONDENAÇÃO. REGIME SEMIABERTO. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. COMPATIBILIZAÇÃO. POSSIBILIDADE. PRECEDENTES. SENTENÇA QUE MANTEVE OS FUNDAMENTOS DO DECRETO PRISIONAL PRIMITIVO. AUSÊNCIA N OS AUTOS. IMPOSSIBILIDADE DE VERIFICAÇÃO. FUNDAMENTOS JÁ ANALISADOS EM ANTERIOR HC. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
