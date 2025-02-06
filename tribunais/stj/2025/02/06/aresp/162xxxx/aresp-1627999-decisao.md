@@ -1,0 +1,22 @@
+DECISÃO
+O Ministério Público Federal, ao se manifestar nos autos, elaborou o relatório a seguir transcrito (e-STJ fls. 876/878):
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO, contra decisão do Desembargador Vice-Presidente do Tribunal de Justiça daquele Estado, que negou seguimento ao recurso especial ali interposto.
+Consoante se extrai dos autos, o Desembargador Relator da Segunda Câmara Criminal do TJ/MT entendeu pela prejudicialidade da exceção de suspeição suscitada pelo recorrido, nos termos de decisão monocrática assim ementada (fls. 679/685):
+EXCEÇÃO DE SUSPEIÇÃO PROCESSO CRIMINAL  JUIZA DE DIREITO  ALEGADA A AUSÊNCIA DE IMPARCIALIDADE EM VIRTUDE DE INIMIZADE CAPITAL COM O RÉU  PERDA SUPERVENIENTE DO OBJETO  APOSENTADORIA. DA EXCEPTA  CONDUÇÃO DO PROCESSO POR OUTRO MAGISTRADO  EXCEÇÃO PREJUDICADA.
+Exaurida a jurisdição da magistrada excepta, por força de sua aposentadoria voluntária, fica prejudicada a exceção de suspeição intentada em seu desfavor.
+Irresignada, a defesa do recorrido interpôs agravo regimental, oportunidade na qual o órgão colegiado, à unanimidade, julgou procedente a exceção, declarando suspeita a Magistrada excepta e nulos os atos decisórios por ela praticados na Ação Penal n. 0023383- 44.2013.8.11.0042, em relação ao excipiente FRANCISCO ANIS FAIAD, conforme o acórdão que espelha a seguinte ementa (fls. 773/795):
+EMENTA EXCEÇÃO DE SUSPEIÇÃO - "OPERAÇÃO SODOMA" - INIMIZADE CAPITAL ENTRE A MAGISTRADA E O RÉU, DECORRENTE DE IRREGULARIDADES NOTICIADAS POR ESTE AO CONSELHO NACIONAL DE JUSTIÇA - ARTIGO 254, INCISO I, DO CÓDIGO DE PROCESSO PENAL - EXCESSO DE LINGUAGEM NA DECRETAÇÃO DA PRISÃO PREVENTIVA - PREJULGAMENTO DA CAUSA - HIPÓTESE SUPRALEGAL DE SUSPEIÇÃO - ANULAÇÃO DOS ATOS DECISÓRIOS PRATICADOS PELA EXCEPTA EM RELAÇÃO AO RÉU - EXCEÇÃO PROCEDENTE.
+A manifesta animosidade do julgador em relação ao réu, motivada por reclamação disciplinar previamente apresentada por este ao Conselho Nacional de Justiça, pode caracterizar inimizade capital entre ambos, de modo a atrair a incidência do artigo 254, inciso I, do Código de Processo Penal.
+O excesso de linguagem em decisões interlocutórias que precedem a sentença de mérito permite entrever que o magistrado já se convenceu acerca da culpabilidade do acusado, mesmo antes do término da instrução processual. O prejulgamento da causa é hipótese supralegal de suspeição que faz tábula rasa dos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal.
+Uma vez reconhecida a suspeição do julgador, ficam nulos os atos decisórios por ele praticados desde o momento em que se configurou o vício da parcialidade. Inteligência dos artigos 101 e 564, inciso I, do Código de Processo Penal.
+Sobreveio, então, recurso especial interposto pelo Parquet estadual, com fundamento no artigo 105, inc. III, alínea "a" da Constituição Federal, no qual se alega violação aos arts. 254, inc. I, 102, e 564, todos do CPP tendo em vista a incorreta ponderação da inimizade capital ensejadora da suspeição, que deve ser pública, recíproca, e fundada em atritos ou agressões mútuas.
+O especial foi inadmitido na origem (fls. 835/837), por incidência do Verbete n o 7 da Súmulas do STJ.
+Daí o presente agravo, no qual o Ministério Público do Estado alega a inaplicabilidade do óbice supracitado, tendo em vista que se pretende a revaloração dos critérios utilizados para decretar a suspeição da Magistrada excepta, e não a valoração de provas.
+Contraminuta às fls. 852/856.
+Ao final, emitiu parecer pelo não provimento do recurso especial.
+É o relatório.
+No caso, conforme consignado no relatório, a Corte a quo concluiu que era o caso de suspeição, notadamente em razão de dois motivos: i) a anterior formulação de representação pelo agravante, na condição de Presidente da OAB local, ao CNJ, na qual apontou-se prática de nepotismo pela excepta, a qual foi julgada procedente e, ii) o excesso de linguagem das decisões por ela proferida no processo em que o excipiente é réu.
+A leitura do acórdão revela que os eventos passados, de fato, têm fundamentos suficientes para a configuração da suspeição, dada a repercussão do episódio do CNJ, e rever as conclusões da Corte de origem sobre o tema implicaria o minucioso revolvimento de material fático-probatório, o que esbarra no óbice imposto pela Súmula 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recur so especial.
+"Publique-se. Intimem-se.
+EMENTA
