@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP, suscitante, e o JUÍZO DA 4ª VARA DO TRABALHO DE UBERABA - MG, suscitado.
+Ação: execução trabalhista nº 0010458-87.2019.5.03.0168 ajuizada por VALERIA APARECIDA SANTANA JUVENCIO em face de MULT SERVICE VIGILÂNCIA LTDA. E OUTROS - em recuperação judicial - para fins de satisfação de crédito referente a honorários advocatícios sucumbenciais.
+Manifestação do Juízo Laboral: declarou a incompetência do juízo para a execução de créditos extraconcursais, determinando que as verbas a que faz jus o procurador da autora sejam processadas perante o juízo da recuperação judicial.
+Manifestação do Juízo da Recuperação Judicial: indeferiu a habilitação do crédito em razão da sua extraconcursalidade e suscitou o presente conflito de competência.
+Parecer do MPF: opinou pela declaração da competência do juízo da recuperação judicial.
+RELATADO O PROCESSO, DECIDE-SE.
+A jurisprudência desta Corte estabelecia que, uma vez afastada a possibilidade de o crédito compor o plano de recuperação judicial (crédito extraconcursal), a execução do respectivo valor deveria prosseguir no juízo onde ele foi apurado, mas a prática de atos constritivos deveria ser submetida ao controle do juízo universal. (AgInt no CC 178.571/MG, Segunda Seção, DJe 18/2/2022).
+A partir do julgamento do CC 196.846/RN, porém, a Segunda Seção do STJ vem assinalando ser permitido ao juízo da recuperação judicial sobrestar ato constritivo realizado nos autos de execução de créditos extraconcursais apenas e tão somente durante o período de blindagem e se incidir sobre bem de capital essencial a suas atividades.
+Isso porque, "uma vez exaurido o período de blindagem  ..  é absolutamente necessário que o credor extraconcursal tenha seu crédito devidamente equalizado no âmbito da execução individual, não sendo possível que o Juízo da recuperação continue, após tal interregno, a obstar a satisfação do crédito, com suporte no princípio da preservação da empresa, o qual não se tem por absoluto" (CC 191.533/MT, Segunda Seção, DJe 26/04/2024).
+Assim, tratando-se a hipótese de crédito extraconcursal, não poderia o juízo laboral se eximir quanto à sua execução. Com efeito, embora possa haver um controle dos atos constritivos sobre o patrimônio da recuperanda pelo juízo do soerguimento (naquela restrita situação citada: constrição de bem de capital durante o stay period), compete ao próprio Juízo Laboral, nos termos do aludido entendimento jurisprudencial, prosseguir com a satisfação de crédito extraconcursal em face da devedora- recuperanda. Logo, impõe-se o reconhecimento da competência do juízo suscitado .
+Forte nessas razões, CONHEÇO do conflito para estabelecer a competência do JUÍZO DA 4ª VARA DO TRABALHO DE UBERABA - MG.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO JUDICIAL E JUÍZO LABORAL. EXECUÇÃO. SENTENÇA TRABALHISTA. CRÉDITO EXTRACONCURSAL. PROCESSAMENTO E SATISFAÇÃO DO CRÉDITO. COMPETÊNCIA DA JUSTIÇA LABORAL.
+1. Consoante a jurisprudência do STJ, afastada a possibilidade de o crédito compor o plano de recup eração judicial da devedora (crédito extraconcursal), a execução do respectivo valor deve prosseguir no juízo onde ele foi apurado.
+2. Conflito conhecido para declarar competente o JUÍZO DA 4ª VARA DO TRABALHO DE UBERABA - MG.
