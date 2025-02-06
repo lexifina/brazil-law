@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança, com pedido liminar, interposto por MAILA ARIEL DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de Roraima, no Mandado de Segurança n. 002154-79.2024.8.23.0000, assim ementado:
+EMENTA: MANDADO DE SEGURANÇA CRIMINAL - TRÁFICO DE DROGAS - SENTENÇA CONDENATÓRIA QUE DECRETOU O PERDIMENTO DE VEÍCULO APREENDIDO E DETERMINOU A ALIENAÇÃO ANTECIPADA DO BEM - PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA, SUSCITADA PELA PROCURADORIA DE JUSTIÇA - ACOLHIMENTO - AUSÊNCIA DE ILEGALIDADE, TERATOLOGIA OU ABUSO DE PODER NA DECISÃO COMBATIDA, QUE APENAS BUSCOU DAR EFETIVIDADE ÀS REGRAS PROCEDIMENTAIS PREVISTAS NA LEI N.º 11.343/06 - SENTENÇA QUE DEVERIA TER SIDO IMPUGNADA POR MEIO DE APELAÇÃO (ART. 593, II, DO CPP), SEM PREJUÍZO DA POSSIBILIDADE DE AJUIZAMENTO DE EMBARGOS DE TERCEIRO - IMPOSSIBILIDADE DE UTILIZAÇÃO DO MANDADO DE SEGURANÇA COMO SUCEDÂNEO DO RECURSO LEGALMENTE PREVISTO (ART. 5.º, II, DA LEI N.º 12.016/09, E SÚMULA 267 DO STF) - INAPLICABILIDADE, NO CASO, DA SÚMULA 202 DO STJ - PROCESSO EXTINTO, SEM RESOLUÇÃO DO MÉRITO. (e-STJ, fl. 129)
+Em seu arrazoado, a recorrente alega que os documentos juntados aos autos comprovam que ela é proprietária de boa-fé da caminhonete apreendida, "não tendo nenhuma relação com os fatos ocorridos na cidade de Boa Vista Estado de Roraima, pois é residente e domiciliada em Londrina Estado do Paraná" (e-STJ, fl. 141), e não conhece a ré condenada no delito de tráfico de drogas.
+Sustenta que "não existe dúvida quanto ao direito da requerente, constituindo constrangimento ilegal mantê-lo destituído da posse direta de seu bem, até porque, conforme já mencionado acima, o mesmo é utilizado para trabalho diário" (e-STJ, fl. 141).
+Requer:
+Reforma do Acórdão que denegou a segurança do mandamus impetrado, conceder LIMINARMENTE reconhecimento da ilegalidade da autoridade coatora, para determinar a sustação da alienação antecipada do veículo até a apreciação das razões de apelação, nos autos de 0810293- 13.2024.8.23.0010. (e-STJ, fl. 149)
+A liminar foi indeferida (e-STJ, fls. 202-204).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 209-213).
+É o relatório.
+Decido.
+De início, cumpre frisar que, "nos termos da jurisprudência deste Superior Tribunal de Justiça, o cabimento do mandado de segurança está atrelado à existência de direito líquido e certo a ser tutelado, não podendo ser utilizado o remédio heroico para impugnar decisões judiciais das quais caibam recurso próprio, exceto quando evidenciada flagrante ilegalidade ou teratologia que se pretenda desconstituir." (RMS 50.246/AP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/12/2018, DJe 19/12/2018).
+No presente caso, conforme exposto pelo acórdão recorrido:
+Cumpre destacar, de início, que o mandado de segurança contra ato judicial (comissivo ou omissivo) é medida excepcional, cabível somente em situações nas quais se pode verificar, de plano, ilegalidade, teratologia ou abuso de poder, que importem ao impetrante lesão irreparável ou de difícil reparação ao seu direito líquido e certo.
+Ademais, conforme pacífica jurisprudência, o mandado de segurança é via imprópria para atacar ato judicial passível de recurso ou correição, nos termos do art. 5.º, II, da Lei n.º 12.016/09, e da Súmula 267 do STF.
+No caso, a impetrante se insurge contra ato do MM. Juiz de Direito da Vara de Entorpecentes e Organizações Criminosas, que, ao proferir a sentença condenatória, determinou a alienação antecipada do veículo TOYOTA HILUX CD4X2, placa NON7H16, ano de fabricação 2010, cor prata, RENAVAM 205664865, apreendido nos autos da Ação Penal n.º 0810293- 13.2024.8.23.0010.
+Com efeito, verifica-se que o Magistrado, com o objetivo de evitar a deterioração do automóvel, determinou a abertura de procedimento próprio para a realização da alienação antecipada do bem". (e-STJ, fl. 124).
+Nos termos da manifestação ministerial:
+Cremos que a instância ordinária agiu com o costumeiro acerto, pois é de clareza solar a incidência, in casu, da Súmula 267 do Supremo Tribunal Federal, que leciona descaber mandado de segurança contra ato judicial passível de recurso ou correição, exceto nas hipóteses, inocorrentes na espécie, em que o ato judicial impugnado se reveste de teratologia ou mesmo de flagrante e manifesta ilegalidade.
+Ora, da decisão monocrática do Juízo de primeiro grau, que determinou o perdimento do bem, cabe, por exemplo, recurso de apelação, conforme orienta o art. 593, II, do CPP ou, ainda, o manejo de embargos de terceiros por proprietário que não estejam envolvidos na persecução penal.
+Frise-se, ainda, a inexistência, no ato judicial impugnado, de teratologia ou de flagrante ilegalidade, eis que o Juízo singular bem fundamentou a instauração de incidente de alienação de bens" (e-STJ, fl. 212).
+Assim, consoante exposto no acórdão atacado, é clara a impetração de mandamus como sucedâneo de recurso não interposto, revelando a flagrante inadequação da via eleita, nos termos do óbice da Súmula n. 267 do STF.
+Ora, o mandado de segurança impugnava sentença condenatória, que determinou o perdimento do bem, o que, nos termos do art. 593, inciso II do Código de Processo Penal, ensejaria a interposição de apelação, recurso que, entretanto, não foi interposto pela parte.
+É esse o teor do Enunciado da Súmula n. 267 do STF, segundo o qual: " n ão cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+A propósito:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AUSÊNCIA DE ILEGALIDADE VERIFICÁVEL DE PLANO. PRETENSÃO MERAMENTE REVISIONAL. INADMISSIBILIDADE. DECISÃO ASSENTADA NA JURISPRUDÊNCIA DA CORTE. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo interno deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Consoante a jurisprudência desta eg. Corte, a via estreita do writ não se presta para avaliar o acerto ou desacerto de decisões judiciais.
+III - O mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais pode se verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo.
+IV - Na hipótese, não resta configurada a lesão ao direito do agravante, mas mero inconformismo, porquanto a decisão proferida no AREsp n. 1.187.793/SP se firmou sob premissa, já pacificada nesta Corte, de considerar inválido o protocolo de peça por meio físico, para fins de aferição da tempestividade do Recurso Especial, quando há regra impositiva expressa sobre a necessidade do uso do meio eletrônico.
+Agravo interno desprovido.
+(AgInt no MS n. 24.230/DF, relator Ministro Felix Fischer, Corte Especial, julgado em 5/9/2018, DJe de 13/9/2018; grifou-se.)
+Diante do exposto, não conheço do recurso em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
