@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VALE S.A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de reparação por dano material cumulada com compensação por dano moral, ajuizada pelos agravados, em face da agravante, na qual se insurge a agravante contra a decisão que deferiu parcialmente a tutela buscada pelos agravados na inicial.
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - TUTELA PROVISÓRIA - TRANSFERÊNCIA DA POSSE - ESVAZIAMENTO DE ÁREA - AGRAVAMENTO DOS NÍVEIS DE INSEGURANÇA - RELAÇÃO DE CAUSALIDADE COM AUMENTO DOS RISCOS DE ROMPIMENTO DE BARRAGEM - PROBABILIDADE DO DIREITO - PERIGO DE DANO.
+- O deferimento dos pedidos realizados em sede de tutela provisória de urgência, de natureza antecipada e em caráter incidental, condicionam-se à demonstração da probabilidade do direito e do perigo de dano ou risco ao resultado útil do processo, bem como à ausência de perigo de irreversibilidade do provimento jurisdicional (CPC, art. 300, §3º).
+- O nexo de causalidade entre o agravamento dos índices de insegurança e a conduta da agravante, ensejando, nesse primeiro momento, o dever de prevenir a concretização destes riscos que sua conduta acentuou.
+- O ordenamento processual prevê diversos mecanismos para garantir o ressarcimento dos gastos tidos com o cumprimento da tutela provisória caso ela seja revogada (art. 520, inc. I, do CPC). (e-STJ Fl. 780)
+AGRAVO INTERNO - TUTELA PROVISÓRIA RECURSAL - ANTECIPAÇÃO DA TUTELA RECURSAL - OBRIGAÇÃO DE CUSTEIO DE MORADIA - ÍNDICES DE CORREÇÃO MONETÁRIA - ABRANGÊNCIA - LIMITE JUDICIAL PRÉVIO - OBSERVÂNCIA. Diante da condenação para custeio das despesas com moradia, as atualizações do valor do aluguel, decorrentes da incidência de índice oficial de correção monetária, não violam o limite nominal estabelecido anteriormente. O limite judicial da condenação não fica imune aos efeitos da inflação e, para garantir que ele mantenha a força econômica existente ao tempo que ele foi fixado, seu valor nominal também deve ser revisto com base em índice oficial de correção monetária. (e-STJ Fl. 1.270)
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação do art. 1.022 do CPC e ii) incidência da Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que "em nenhum momento a ora Agravante pretende que sejam revolvidos os fatos e provas soberanamente fixados pela eg. Corte a quo, o que se pretende é a correta análise jurídica, sobre a violação da equivocada multa aplicada em sede de Embargos de Declaração." (e-STJ Fl. 1.389)
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) ausência de violação do art. 1.022 do CPC e ii) incidência da Súmula 7 do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
