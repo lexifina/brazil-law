@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NULIDADE DA DECISÃO NÃO EVIDENCIADA. QUANTIA FIXADA A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. REDISCUSSÃO DA MATÉRIA NÃO AUTORIZADA. VERBA FIXADA PELO STJ. CAUÇÃO VÁLIDA. PAGAMENTO DO DÉBITO NÃO REALIZADO. EXCESSO DE EXECUÇÃO NÃO EVIDENCIADO. IMPUGNAÇÃO NÃO ACOLHIDA. LITIGÂNCIA DE MÁ-FÉ INEXISTENTE. DECISÃO MANTIDA.1. A decisão que rejeitou os embargos de declaração não é nula, quando opostos visando rediscutir a matéria já apreciada na decisão originária. 2. Os honorários advocatícios buscados no cumprimento de sentença foram fixados pelo STJ, quando acolheu o recurso do agravado, o que levou a reforma do acórdão deste TJGO que havia os arbitrado em R$ 3.500,00, razão pela qual o depósito desta quantia pelo recorrente não tem o condão de quitar o débito vindicado. 3. Em relação à caução ofertada pelo recorrido, oportuno destacar que ela diz respeito a uma carta de fiança bancária no valor de R$ 25.098.739,00, emitida pelo Bank For You, a qual, como bem observado no ato judicial ora recorrido, possui autorização do Banco Central para prestação de garantias, além de possuir valor superior ao débito exequendo, qual seja, R$ 16.092.789,25, razão pela qual afigura-se documento idôneo e satisfatório para resguardar os interesses da instituição financeira agravante, não havendo se falar em insuficiência ou sua ineficácia. 4. Não evidenciado o excesso de execução noticiado, impõe-se a confirmação da decisão que acolheu os cálculos apresentados pelo agravado. 5. Como a decisão ora recorrida não é ilegal ou teratológica, sua confirmação se impõe. 6. Levando-se em consideração que o recorrente possui direito de apresentar recurso contra a decisão proferida em seu desfavor, mencionada situação não significa a litigância de má-fé prevista no artigo 80 do CPC. 7. RECURSO CONHECIDO E DESPROVIDO" (e-STJ fl. 391).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 441/457).
+No recurso especial, o recorrente alega a violação dos artigos 489, §1º, IV e VI, 502, 503, 525, § 1º, VI e IX, 835, § 2º, 848 e 1.022, I e II, do Código de Processo Civil; 818, 825 e 884 do Código Civil; 4º, VI e IX, 9º, 10, X, "a" e "f", 17 e 18 da Lei nº 4.595/1964 e 1º, § 3º, e 4º do Decreto nº 22.626/1933.
+De início, aduz que o acórdão combatido teria incorrido em negativa de prestação jurisdicional em relação aos seguintes pontos: a) o Banco suscitou excesso de execução na impugnação ao cumprimento de sentença; b) o demonstrativo atualizado e discriminado do valor do débito foi apresentado junto com a impugnação; c) a aplicação dos juros capitalizados na atualização da base de cálculo dos honorários ofende a coisa julgada e gera excesso de execução e d) inidoneidade e insuficiência da carta de fiança apresentada pelo recorrido.
+Além disso, afirma que, sob pena de excesso de execução, a base de cálculo da verba honorária deve ser o valor da execução extinta na data do seu ajuizamento, sobre a qual deve incidir somente a correção monetária atualizada e não outros encargos financeiros (juros remuneratórios e sua capitalização, juros de mora e multa contratual).
+Assevera que a penhora em dinheiro não pode ser substituída por fiança bancária inidônea.
+Alega que o acórdão recorrido não poderia ter admitido a carta de fiança ofertada sem antes exigir que o recorrido e a pretensa fiadora comprovassem a existência de lastro patrimonial concreto e suficiente para honrar o montante afiançado.
+Após as contrarrazões (e-STJ fls. 638/656), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+De início, torno sem efeito a decisão de fl. 764 (e-STJ) e passo ao julgamento do agravo em recurso especial.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante às omissões apontadas no acórdão estadual, o tribunal de origem ao decidir os embargos de declaração, entendeu ser incabível a discussão do excesso de execução, que não foi apresentado valor atualizado do débito e que a caução oferecida é documento idôneo.
+É o que se extrai das seguintes passagens:
+"(..)
+Por sua vez a discussão sobre o alegado excesso de execução não encontra motivos para aprofundamento, em razão de que a verba honorária discutida na demanda foi fixada pelo STJ, no percentual de 10% sobre o proveito econômico correspondente ao valor atualizado da execução que foi extinta.
+Em relação a quitação ao cumprimento provisório da sentença, a problemática surgiu pelo fato de que o Banco embargante depositou o valor de R$ 3.500,00 nos autos relativo aos honorários advocatícios, só que este quantum não foi aceito pelos motivos devidamente esclarecidos no sentido de que "o recurso que o ora recorrente interpôs, visando alterar os honorários advocatícios fixados no Recurso Especial foi julgado no dia 01/06/2023 por seu não conhecimento, conforme se vê na informação acostada no AI nº 5102145-15.2023.8.09.0132."
+Nesta parte, observou-se ainda que o ora embargante da decisão acima interpôs outro recurso, só que dele desistiu, "de modo que o cumprimento de sentença não é mais provisório e, sim definitivo, o que evidencia que o título executivo judicial restou consolidado, razão pela qual os honorários advocatícios são àqueles fixados pelo STJ (10% sobre o proveito econômico que corresponde ao valor atualizado da execução extinta), portanto não há mais falar-se em verba honorária no quantum de R$ 3.500,00."
+Em relação à caução ofertada pelo recorrido visando resguardar o cumprimento de sentença, a qual se deu por meio de uma carta de fiança bancária no valor de R$ 25.098.739,00, emitida pelo Bank For You, embora o embargante se negue a aceitá-la, mencionada situação foi afastada pelo juízo a quo e pelo relator, já que o Banco citado "possui autorização do Banco Central para prestação de garantias, além de ser em valor superior ao débito exequendo, qual seja, R$ 16.092.789,25, razão pela qual afigura- se documento idôneo e satisfatório para resguardar os interesses da instituição financeira recorrente, não havendo falar-se em insuficiência ou sua ineficácia."
+Por fim, o embargante insiste na correção do cálculo do débito que apresentou em juízo, pretensão afastada pelo juiz singular e pelo relator em razão de ".. nos cálculos juntados na movimentação nº 01 o exequente/recorrido utilizou as próprias tabelas de atualização do débito do executado para realizar os cálculos dos honorários advocatícios", além de que o agravante "não alegou excesso de execução" vindo a fazê-lo somente nesta instância recursal, além de que deixou de ".. apresentar demonstrativo atualizado e discriminado do débito conforme preconiza o artigo 525, § 4º, do Código de Processo Civil.
+(..)" (e-STJ fls. 454/455).
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC -, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido."
+(AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022. - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Em relação à incidência dos encargos financeiros sobre a atualização da verba honorária, o Tribunal de origem entendeu o seguinte:
+"(..)
+Pelo visto, o recorrente requereu a desistência do prazo recursal, em relação ao recurso que interpôs junto à Corte Superior, de modo que o cumprimento de sentença não é mais provisório e, sim definitivo, o que evidencia que o título executivo judicial restou consolidado, razão pela qual os honorários advocatícios são àqueles fixados pelo STJ (10% sobre o proveito econômico que corresponde ao valor atualizado da execução extinta), portanto não há mais falar-se em verba honorária no quantum de R$ 3.500,00.
+(..)" (e-STJ fl. 397).
+De fato, verifica-se que a tese recursal, acerca da não incidência de encargos financeiros na base de cálculo da verba honorária, não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ademais, encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado, é de se aplicar, por analogia, o óbice previsto na Súmula nº 284/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DINAMIZAÇÃO. ÔNUS DA PROVA. REGRA. INSTRUÇÃO. HIPÓTESE. FUNDAMENTO. ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. RAZÕES DISSOCIADAS. SÚMULAS NºS 283 E 284/STF.
+1. A inversão do ônus da prova não é regra estática de julgamento, mas regra dinâmica de procedimento/instrução. Precedente.
+2. Na hipótese, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. Encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado, aplica-se, por analogia, o óbice previsto na Súmula nº 284/STF.
+4. Agravo interno não provido."
+(AgInt no AREsp 2.130.305/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2023, DJe de 28/4/2023)
+Em relação à caução oferecida pelo recorrido, consta no acórdão atacado que a mesma "afigura-se documento idôneo e satisfatório para resguardar os interesses da instituição financeira agravante, não havendo se falar em insuficiência ou sua ineficácia" (e-STJ fl. 397).
+Nesse contexto, o acolhimento da tese recursal, de que a caução oferecida não é idônea, recai na aplicação da Súmula nº 7/STJ, pois para tanto esta Corte teria que reexaminar os aspectos fático-probatórios da causa, providência inviável no recurso especial.
+Por fim, a Corte local afastou o alegado excesso de execução, nos seguintes termos:
+"(..)
+Andou bem o magistrado singular quando não homologou a planilha que o recorrente apresentou, pois ".. nos cálculos juntados na movimentação nº 01, o exequente/recorrido utilizou as próprias tabelas de atualização do débito do executado, para realizar os cálculos dos honorários advocatícios", além de que o agravante "não alegou excesso de execução", vindo a fazê-lo somente nesta instância recursal, além de que deixou de ".. apresentar demonstrativo atualizado e discriminado do débito conforme preconiza o artigo 525, § 4º, do Código de Processo Civil."
+(..)
+Não evidenciado o excesso de execução, correta a decisão que rejeita alegação em sentido contrário.
+(..)" (e-STJ fls. 398/399).
+Com efeito, inviável rever tal entendimento, para reconhecer o alegado excesso de execução, sem a incursão nos fatos e nas provas dos autos, providência inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COBRANÇA EM DUPLICIDADE DOS HONORÁRIOS ADVOCATÍCIOS. NÃO OCORRÊNCIA. SÚMULA Nº 517 DO STJ. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA Nº 7 DO STJ. NECESSIDADE DA REALIZAÇÃO DE PERÍCIA CONTÁBIL. FALTA DE PREQUESTIONAMENTO. SÚMULAS NºS. 282 E 356 DO STF, POR ANALOGIA. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. (..)
+2. A revisão da conclusão do acórdão recorrido, com o consequente acolhimento da pretensão recursal, no sentido de reconhecer a existência de excesso de execução, não prescindiria do reexame das circunstâncias fáticas da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+(..)
+5. Agravo interno não provido."
+(AgInt no AREsp n. 2.503.610/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
