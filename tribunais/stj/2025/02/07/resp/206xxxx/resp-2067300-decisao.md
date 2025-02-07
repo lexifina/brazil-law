@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS com fundamento no art. 105, III, alínea "a", da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMBARGOS DE DECLARAÇÃO - V ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO. RECURSO DE APELAÇÃO DO RÉU E NEGOU PROVIMENTO AO RECURSO, DE OFÍCIO, INTERPOSTOS CONTRA A SENTENÇA QUE JULGOU PROCEDENTE A AÇÃO DE RESTABELECIMENTO DE BENEFÍCIO ACIDENTÁRIO - IRRESIGNAÇÃO DA AUTARQUIA - IMPERTINÊNCIA PRESSUPOSTOS RECURSAIS INOCORRENTES - AUSÊNCIA DE CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU ERRO MATERIAL NO "DECISUM" - INEQUÍVOCO CARÁTER INFRINGENTE - VIA ELEITA INADEQUADA PARA ALTERAÇÃO DO JULGADO."" (fl. 342)
+Nas razões do recurso especial, o recorrente alega violação aos arts. 1, 11, 12, 18, §2º; 86, §§ 1º e 2º e 102 da Lei n. 8.213/91 e 927, inciso IV do Código de Processo Civil de 2015, sustentando, em síntese, (a) que o auxílio-acidente é devido apenas aos segurados do RGPS, de modo que o servidor federal não se encontra no sistema de RGPS por possuir regime próprio; (b) que não há que se falar em direito adquirido a regime jurídico, considerando que a parte recorrida não adquiriu direito a receber os dois benefícios requeridos antes das alterações legais, havendo mera expectativa de direito antes da concessão da aposentadoria; (c) que a concessão da aposentadoria ocorreu sob a vigência da Lei n. 9.528/97, que deve ser observada e (d) que a Súmula 507/STJ, de observância obrigatória, não foi devidamente observada.
+Com contrarrazões às fls. 347-356.
+Recurso admitido na origem às fls. 372-374.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito aos artigos 1, 11, 12, 18, §2º; 86, §§ 1º e 2º e 102 da Lei n. 8.213/91 e 927, IV do CPC/15 e às teses a eles vinculadas, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula n. 282/STF.
+A propósito:
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF, POR ANALOGIA. ÔNUS PROBATÓRIO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO FUNDADA EM ATO DE NATUREZA INFRALEGAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. PROVIMENTO NEGADO.
+1. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. O Tribunal de origem reconheceu que a recorrente não se desincumbira do seu ônus probatório. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que atrai a incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. A Corte local baseou suas razões decisórias em ato de natureza infralegal, o que inviabiliza o conhecimento do recurso especial, conforme vem decidindo o Superior Tribunal de Justiça. Precedentes.
+4. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, não se aplica no julgamento do agravo interno, já que não há abertura de nova instância recursal.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.335.662/RO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+Ante o exposto, não conheço o recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF. RECURSO NÃO CONHECIDO.
