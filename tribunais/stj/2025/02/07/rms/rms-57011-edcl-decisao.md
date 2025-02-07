@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, embargos de declaração opostos por DRIELE BRITO DE SOUZA ALMEIDA contra decisão que negou provimento ao recurso em mandado de segurança.
+A parte embargante alega, em síntese, contradição da decisão embargada, ao argumento de que "o caso, inegavelmente, reveste-se de singularidade capaz de atrair, excepcionalmente, as benesses da teoria do fato consumado, tendo em vista o passar de 10 (dez) da efetiva posse (sic) por força da liminar proferida pelo Egrégio Tribunal de Justiça do Estado de Goiás" (fl. 592).
+Impugnação da parte embargada pela rejeição rejeição dos embargos.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou (fls. 582-583):
+Observa-se que o Tribunal de origem ao denegar a ordem, em sede de embargos de declaração com efeitos infringentes, destacou que a hipótese fática tratada nos autos guarda identidade com aquela enfrentada pela Suprema Corte no precedente obrigatório consolidado no RE 608482/RN, vale dizer: utilização da teoria do fato consumado para tornar definitiva a situação de candidato tão somente porque teve sua pretensão atendida por força de decisão liminar que autorizou a sua matrícula no Curso de Formação.
+Cumpre destacar o referido julgado:
+CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO REPROVADO QUE ASSUMIU O CARGO POR FORÇA DE LIMINAR. SUPERVENIENTE REVOGAÇÃO DA MEDIDA. RETORNO AO STATUS QUO ANTE. "TEORIA DO FATO CONSUMADO", DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA E DA SEGURANÇA JURÍDICA. INAPLICABILIDADE. RECURSO PROVIDO.
+1. Não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado.
+2. Igualmente incabível, em casos tais, invocar o princípio da segurança jurídica ou o da proteção da confiança legítima. É que, por imposição do sistema normativo, a execução provisória das decisões judiciais, fundadas que são em títulos de natureza precária e revogável, se dá, invariavelmente, sob a inteira responsabilidade de quem a requer, sendo certo que a sua revogação acarreta efeito ex tunc, circunstâncias que evidenciam sua inaptidão para conferir segurança ou estabilidade à situação jurídica a que se refere.
+3. Recurso extraordinário provido (STF, Tribunal Pleno, RE 608482, Rel. Min. TEORI ZAVASCKI, julgado em 07/08/2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO D Je 29-10-2014 PUBLIC 30-10-2014).
+Nesse contexto, observa-se que o entendimento do Tribunal de origem não destoa da jurisprudência do Superior Tribunal de Justiça, no sentido de que não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado.
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
