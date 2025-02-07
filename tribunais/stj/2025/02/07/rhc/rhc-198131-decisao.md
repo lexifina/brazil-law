@@ -1,0 +1,11 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por ALBERTO DARLEY FARIAS - denunciado como incurso nos crimes de receptação simples e adulteração de sinal identificador de veículo automotor (ambos por duas vezes) (Ação Penal n. 5514333-24.2023.8.09.0051) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Habeas Corpus n. 5287023-49.2024.8.09.0000), não comporta provimento.
+Com efeito, busca o recorrente o trancamento da ação penal em trâmite perante o Juízo de Direito da 11ª Vara Criminal da comarca de Goiânia/GO, ao argumento de nulidade da prisão em flagrante, em r azão da busca domiciliar efetivada sem fundada suspeita.
+Inicialmente, tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial (HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+No caso dos autos, a Corte local, ao afastar a alegação de violação de domicílio, considerou que, pelo que se tira dos autos, policiais militares foram até a casa do paciente após receber informação de que no local havia duas motos de origem ilícita, instante em que viram, por uma fresta no portão entreaberto, os dois veículos mencionados estacionados na garagem. Portanto, são elementos de suporte à persecução penal, ainda que mínimos (fls. 150/151).
+Evidenciada a existência da indicação de fundadas suspeitas do cometimento de crime no recinto, justificada pelo fato de os policiais, mediante prévia denúncia e campana, confirmarem que as duas motos estacionadas na garagem do imóvel são objeto de crime, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita.
+Em face do exposto, nego provimento ao recurso .
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. RECEPTAÇÃO SIMPLES (POR DUAS VEZES) E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR (POR DUAS VEZES). NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA. FLAGRANTE DELITO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
