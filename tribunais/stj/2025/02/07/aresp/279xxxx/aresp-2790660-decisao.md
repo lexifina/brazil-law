@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por VALTER DE OLIVEIRA COSTA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 0818405-53.2022.4.05.8100, assim ementado (fls. 297-299):
+TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA (IRPF). ISENÇÃO. LEI Nº 7.713/1988. CARDIOPATIA GRAVE. NÃO COMPROVADA. DESPROVIMENTO DA APELAÇÃO.
+1. Recurso de Apelação interposto por Valter de Oliveira Costa em face de sentença que julgou improcedente o pleito autoral que objetivava o reconhecimento do direito do autor de afastar a incidência do Imposto de Renda de Pessoa Física (IRPF) sobre os proventos de sua aposentadoria, em razão de ser portador de cardiopatia grave e/ou alienação mental.
+2. O cerne do apelo consiste em definir se o particular faz jus a isenção tributária prevista no art. art. 6º, XIV, da Lei nº 7.713/1988, tendo em vista que o apelante alega ser portador de cardiopatia grave e alienação mental.
+3. A isenção tributária invocada pela parte autora, ora apelante, deriva da previsão normativa constante do art. 6º, XIV, da Lei nº 7.713/1988, que assim dispõe: Art. 6º Ficam isentos do imposto de renda os seguintes rendimentos percebidos por pessoas físicas:  ..  XIV - os proventos de aposentadoria ou reforma motivada por acidente em serviço e os percebidos pelos portadores de moléstia profissional, tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, síndrome da imunodeficiência adquirida, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída depois da aposentadoria ou reforma;
+4. A constatação das doenças prescritas na norma isentiva deve ser feita com base em conclusão da medicina especializada.
+5. O STJ pacificou o entendimento de que o magistrado não está adstrito ao laudo médico oficial, podendo valer-se de outras provas produzidas no curso da ação cognitiva, a fim de reconhecer o direito à isenção prevista no art. 6º, XIV, da Lei nº 7.713/1988.
+6. O Juízo observado a legislação e a jurisprudência pátria, julgou improcedente o pleito autoral,a quo, sob fundamento de que, através de uma análise dos documentos acostados aos autos e de acordo com Laudo Pericial Judicial, restou comprovado que o autor não comprova ser portador de cardiopatia grave , nem de outra patologia capaz de isentar provento do IRPF.
+7. O processo diagnóstico da cardiopatia grave é complexo e envolve uma avaliação completa não baseada somente em dados que caracterizam uma entidade clínica, e sim, nos aspectos de gravidade das cardiopatias, segundo estudo realizado na II Diretriz brasileira de cardiopatia grave.
+8. A cardiopatia grave não coincide necessariamente com a existência de uma condição cardíaca, por si só, é fundamental avaliar, em perspectiva, o estado clínico do paciente, seu histórico, suas capacidades atuais, estilo de vida, a etiologia da enfermidade.
+9. O Laudo Pericial concluiu que o autor não comprova ser portador de cardiopatia grave.
+10. Os laudos médicos trazidos pelo apelante também não comprovam, de fato, que o autor é acometido por cardiopatia grave. As condições ali descritas são aquelas elencadas no tópico de "História da Doença Atual" pelo perito médico, que como exposto, não necessariamente se enquadram no conceito de patologia cardíaca grave.
+11. A perícia concluiu que não comprova o autor ser portador de espondiloartrose, nem se enquadra nas doenças abrangidas pelo conceito de alienação mental. Os laudos médicos particulares também não comprovam as condições alegadas pelo apelante.
+12. Impossibilidade da concessão da isenção, prevista no no art. 6º, XIV, da Lei nº 7.713/88.
+13. Apelação desprovida. Honorários advocatícios majorados em 1% (um por cento), art. 85, § 11,ex vi do CPC.
+No recurso especial interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, a parte ora agravante alega violação do art. 6º, inciso XIV, da Lei n. 7.713/88, sustentando, em síntese, que, para fazer jus à isenção de imposto de renda sobre os seus rendimentos, é necessário somente que o contribuinte pessoa física comprove o diagnóstico de alguma das doenças elencadas no referido dispositivo, sendo desnecessária a prova da presença de sintomas.
+Outrossim, alega que o laudo pericial acolhido pelo juízo não considerou as comorbidades sofridas pelo agravante, ou as medicações de uso controlado das quais faz uso. Para tanto, assevera que "é sabido que existem doenças que não se externalizam com facilidade como as da mente e da alma" (fl. 322).
+Por fim, defende que "é possível se valer de outras provas produzidas no curso da ação cognitiva, a fim de reconhecer o direito à isenção prevista no art. 6º, XIV, da Lei nº 7.713/1988" (fl. 322).
+A Corte a quo inadmitiu o apelo nobre em decisão de fl. 337.
+Houve interposição de agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, mas sim de mera revaloração jurídica. Sendo assim, não esclareceu, à luz das teses veiculadas no apelo nobre - quais sejam, de que é necessário somente o diagnóstico da doença para fazer jus à isenção do imposto de renda nos termos do art. 6º, inciso XIV, da Lei n. 7.713/88 e de que o laudo pericial acolhido pelo juízo desconsiderou comorbidades e medicamentos consumidos pelo ora agravante - de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 296), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. ISENÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 6º, INCISO XIV, DA LEI N. 7.713/1988. CARDIOPATIA GRAVE E ALIENAÇÃO MENTAL NÃO COMPROVADAS. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
