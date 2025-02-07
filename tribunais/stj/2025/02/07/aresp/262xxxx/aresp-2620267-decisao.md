@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ JONATHAN TAPAJÓS DO ROSÁRIO contra decisão do Tribunal de origem que, no exame prévio de admissibilidade, inadmitiu o recurso especial pelos seguintes fundamentos (fls. 703-707):
+A parte Recorrente, por sua vez, alega violação ao artigo 155 e 414 do Código de Processo Penal, amparada na assertiva de incidência do princípio in dubio pro reo.
+Contudo, para rever a conclusão adotada no acórdão recorrido sobre a presença de indícios suficientes a justificar a pronúncia do acusado, imprescindível o reexame do quadro fático-probatório dos autos.
+Dessa forma, o Recurso Especial não alcança admissão neste ponto, em razão da inviabilidade de revisão do entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido (fls. 715-720):
+O recurso em tela não se prende ao mero reexame de matéria fático probatória, de sorte que pudesse atrair o postulado na Súmula 07 do STJ, porquanto a discussão pautada tem como cerne questão estritamente de direito, acima declinada, qual seja, na impossibilidade de manutenção de decisão que proveu o pleito acusatório em pronunciar o recorrente, sob pena de violação expressa do dispositivo dos artigos 155 "caput" e 414 "caput", ambos do Código de Processo Penal.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada às fls. 725-729.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 744):
+HOMICÍDIO TENTADO (ART. 121, CAPUT, C/C ART. 14, II, AMBOS DO CP). AGRAVO EM RECURSO ESPECIAL. APELO NOBRE INTERPOSTO COM FUNDAMENTO NA ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. PLEITO DE DESPRONÚNCIA. DESCLASSIFICAÇÃO DA CONDUTA. INVIABILIDADE. ADMISSIBILIDADE DA ACUSAÇÃO. CONCLUSÃO DIVERSA QUE DEMANDARIA REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PARECER PELO DESPROVIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo a reforma do acórdão recorrido para impronunciar o recorrente, sob o argumento de que o Tribunal contrariou os arts. 155 e 414 do Código de Processo Penal, diante da insuficiência do arcabouço probatório, aduzindo que a dúvida deve ser interpretada em favor do réu.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de desconstituir as premissas consideradas pelo Tribunal de origem para pronunciar as do agravante, o qual indicou a existência de indícios mínimos da prática delitiva, destacando que, "ainda que a defesa alegue não ter sido a pessoa que desferiu as facadas, pois está demonstrado que o mesmo participou do ataque físico à vítima aderindo à conduta e o risco do delito".
+Constou do acórdão recorrido que (fls. 661-663 - destaquei):
+Compulsando os autos, observem-se inconsistências entre as evidências coletadas e a argumentação apresentada pela defesa. O réu afirma, em seu depoimento, que não atacou a vítima com uma faca. Contudo, o testemunho de Rozivarde, registrado durante a fase policial, contradiz essa alegação, estabelece que o réu e o seu cúmplice não ceifaram a vida da vítima por intervenção, vejamos, in verbis:
+ ..
+Denota-se dos autos que, em todos os meios de provas, ficou evidente que as partes se envolveram em uma discussão devido a uma atitude desrespeitosa em relação à companheira da vítima.
+Assim, assiste razão o pleito ministerial, pois verifica-se a materialidade e indícios de autoria da conduta delitiva tipificada no artigo 121, caput, CP , consoante se extrai do conjunto probatório, especialmente, no boletim de ocorrência nº 1020250.08.036680-6 (Id. 181699280- págs. 8/9), termos de declarações (Id. 181699282-págs45/46/50/51), Laudo pericial (181699282- págs 54/60).
+No caso, mostra-se descabida desclassificação para lesão corporal, em virtud e da falta de comprovação da desistência voluntária do apelante, já que há indícios nos autos que o delito não se consumou por circunstâncias alheias à vontade do agente.
+Ademais, importante ressaltar que os crimes dolosos contra a vida, sempre prevaleceram o interesse do bem público, por essa razão, primordial a submissão ao Tribunal do Júri. O Magistrado somente poderá proferir sentença de impronúncia se não existirem provas ou indícios da autoria, o que não é o caso dos autos.
+ ..
+Ademais, imperioso ressaltar que há provas suficientes da autoria delitiva, ainda que a defesa alegue não ter sido a pessoa que desferiu as facadas, pois está demonstrado que o mesmo participou do ataque físico à vítima aderindo à conduta e o risco do delito.
+No caso, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO (ART. 121, CAPUT, C/C O ART. 14, II, AMBOS DO CP). REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
