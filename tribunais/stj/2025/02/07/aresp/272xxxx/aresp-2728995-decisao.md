@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 45):
+"PREVIDENCIÁRIO. EXCESSO DE EXECUÇÃO. TETOS. CRITÉRIOS DE CÁLCULO. DISPOSIÇÕES DA SENTENÇA EM EXECUÇÃO. COISA JULGADA. Em sede de cumprimento/execução de sentença os cálculos de liquidação devem atentar fielmente às disposições do julgado em execução. Caso em que a incidência dos Tetos instituídos pelas E Cs nº 20/1998 e 41/2003 devem ser aplicados de acordo com os parâmetros fixados na sentença, ainda que o Tribunal tenha entendimento diferenciado com relação à matéria".
+Opostos embargos de declaração, os mesmos foram parcialmente providos (fls. 74-75).
+Nas razões do recurso especial, o agravante alega violação aos arts. 103 da Lei n. 8.213/91 e 40, inciso II do Decreto 83.080/79, sustentando, em síntese, (a) que deve ser reconhecida a prescrição e decadência no tocante ao direito à forma de cálculo da renda, ou regras de concessão, dos benefícios previdenciários anteriores a CF/88, considerando a parte dispositiva do acórdão; (b) que aplicar o coeficiente do benefício diretamente sobre a média dos salários de contribuição limitada ao teto em parcela única implica em eliminar a segunda parte do cálculo original do cálculo da renda do benefício e (c) que o benefício iniciou-se entre 1979 e 1984, sendo necessário aplicar o Decreto n. 83.080/79 e reconstituir o cálculo original com as regras vigentes na data da concessão na data da Emendas Constitucionais, de modo que apenas o menor valor-teto e o maior valor-teto sejam novos.
+Com contrarrazões às fls. 100-103.
+Juízo negativo de admissibilidade à fl. 152-153.
+Interposto agravo em recurso especial às fls. 164-172.
+É o relatório. Passo a decidir.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No que diz respeito aos artigos 103 da Lei n. 8.213/91 e 40, inciso II do Decreto 83.080/79 e à tese a eles vinculada, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula n. 282/STF.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+A propósito:
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF, POR ANALOGIA. ÔNUS PROBATÓRIO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO FUNDADA EM ATO DE NATUREZA INFRALEGAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. PROVIMENTO NEGADO.
+1. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. O Tribunal de origem reconheceu que a recorrente não se desincumbira do seu ônus probatório. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que atrai a incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. A Corte local baseou suas razões decisórias em ato de natureza infralegal, o que inviabiliza o conhecimento do recurso especial, conforme vem decidindo o Superior Tribunal de Justiça. Precedentes.
+4. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, não se aplica no julgamento do agravo interno, já que não há abertura de nova instância recursal.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.335.662/RO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+Ademais, o voto condutor do acórdão recorrido consignou o seguinte (fls. 46/47):
+"No que tange às revisões que envolvam benefícios concedidos em momento anterior ao texto constitucional, embora ainda haja controvérsia sobre a metodologia de cálculo, tenho que devem ser respeitadas as balizas previstas no próprio título executivo.
+(..)
+Cumpre ressaltar que, por ocasião da fase de conhecimento, já foi reconhecido o direito à revisão, de modo que eventual rediscussão sobre essa questão implicaria evidente afronta à coisa julgada. Além disso, a matéria não se enquadra naquelas passíveis de apreciação pela via da impugnação ao cumprimento da sentença (art. 535, CPC)".
+Ocorre que a parte agravante não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula n. 283/STF.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ARTS. 3º, V, 20, 30, I, i, II, e, E 37 DA LEI N. 13.445/2017, E 43 E 44 DA LEI N. 9.474/1997. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DO VERBETE SUMULAR N. 211/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DO ENUNCIADO SUMULARR N. 283/STF. ALEGADA OFENSA A PRINCÍPIOS JURÍDICOS. NÃO EQUIVALÊNCIA À LEI FEDERAL PARA EFEITO DE CABIMENTO DE RECURSO ESPECIAL. PRECEDENTES STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à espécie. Inexistência de omissão, contradição ou obscuridade.
+III - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+IV - O art. 1.025 do estatuto processual civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada, fundamentadamente, e reconhecida a violação ao art. 1.022 do referido codex, o que não ocorreu no caso em análise.
+V - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+VI - Os princípios jurídicos não se amoldam à definição de lei federal para efeito de cabimento de Recurso Especial. Precedentes.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno desprovido. (AgInt no REsp n. 2.088.262/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/5/2024, DJe de 23/5/2024.)
+Ante o exposto, conheço o agravo para não conhecer o recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL.
