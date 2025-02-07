@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se d e habeas corpus impetrado em favor de PAULA FERRO RAMOS GOMIDE contra decisão monocrática que indeferiu o pedido liminar em habeas corpus apresentado na origem.
+Imputa-se à paciente a prática do crime de tráfico de drogas, tipificado no artigo 33, caput, da Lei 11.343/2006.
+A defesa alega, em síntese, que a paciente, mãe de uma criança de três anos, está sofrendo constrangimento ilegal em razão da decretação de sua prisão preventiva. Argumenta que a custódia cautelar foi fundamentada de maneira genérica, desconsiderando sua primariedade, bons antecedentes e o fato de que a droga apreendida pertenceria exclusivamente ao seu companheiro.
+Alega, ainda, que a autoridade coatora ignorou a necessidade da presença materna na vida da criança, pois a avó materna não substituiria a mãe nos cuidados essenciais. Invoca a possibilidade de conversão da prisão preventiva em domiciliar, conforme os artigos 318, inciso V, e 318-A do Código de Processo Penal, sustentando a ausência de periculosidade da paciente. Além disso, sustenta a existência de nulidades processuais, notadamente a ausência de justa causa para a abordagem policial e a ilegalidade da invasão domiciliar sem autorização judicial, o que acarretaria a ilicitude das provas colhidas e o consequente trancamento da ação penal.
+Ao final, requer a concessão da ordem para a revogação da prisão preventiva, com a consequente concessão de liberdade provisória ou, subsidiariamente, a conversão da custódia em prisão domiciliar, nos termos dos artigos 318 e 318-A do Código de Processo Penal. No mérito, postula o reconhecimento das nulidades decorrentes da abordagem ilegal e da invasão de domicílio sem justa causa, com o consequente trancamento da ação penal.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, de forma suficiente a superar o óbice do referido enunciado sumular.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
