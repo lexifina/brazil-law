@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim ementado às e STJ fls. 17-19:
+Consta dos autos que o paciente foi condenado pelas instâncias ordinárias à pena de em 5 anos e 10 meses de reclusão, em regime inicial fechado, mais ao pagamento de 500 dias-multa, pela prática do crime de tráfico de drogas.
+A defesa alega, em síntese, ilicitude das provas colhidas a partir de revista domiciliar não autorizada, bem como ausência de provas para condenação do paciente.
+Ao final, requer a concessão da ordem para anulação da ação penal, com imediata expedição de alvará de soltura em favor do apenado.
+É o relatório.
+Decido.
+Inicialmente, no que pertine à nulidade apontada, assim consta do acórdão impugnado (e-STJ fl. 31):
+Verifica-se que a abordagem que resultou na revista pessoal e posterior ingresso nas residências dos acusados, na qual foram encontrados mais entorpecentes e outros objetos relacionados ao tráfico, decorreu da circunstância de os policiais terem presenciado a entrega de sacola, por um ocupante de veículo, que fugiu ao notar a aproximação da viatura policial a uma mulher que se encontrava em local onde havia notícia de prática recente de mercancia ilícita de drogas, atitudes objetivamente suspeitas e que justificaram a revista pessoal, sem mandado, nos termos do artigo 240, § 2º e 244, ambos do Código de Processo Penal.
+O entendimento da Corte local, no sentido de que a anterior busca pessoal legitimou o ingresso domiciliar, uma vez que os policiais presenciaram a movimentações condizentes com narcotráfico, seguida da fuga de um dos atores do contexto delitivo, em localidade conhecida pela traficância, encontra-se respaldada pela jurisprudência do Superior Tribunal de Justiça.
+Veja-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS. DESNECESSIDADE DE REVOLVIMENTO DE PROVAS. HIPÓTESE DE REVALORAÇÃO. EXISTÊNCIA DE JUSTA CAUSA PARA O RECEBIMENTO DA DENÚNCIA. DENÚNCIA ANÔNIMA. DILIGÊNCIAS PRÉVIAS E ATITUDE SUSPEITA, SOMADAS AO FLAGRANTE. RECURSO ESPECIAL PROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A análise do recurso especial do parquet não demandou o reexame de provas, fundou-se no contido no aresto hostilizado, que bem descreveu a hipótese fática, no entanto, dando solução jurídica desarrazoada.
+2. Embora a Corte Estadual tenha entendido pela ilegalidade da revista pessoal e, consequentemente da invasão domiciliar, e rejeição da denúncia, ressaltou que as diligências foram precedidas do recebimento de denúncia anônima de que no local dos fatos estava ocorrendo suposta atividade de tráfico de entorpecentes, ocasião em que, in loco, constataram a movimentação de pessoas e o forte odor de maconha, seguidos da atitude suspeita do ora agravante, que se encontrava na porta de casa, permitindo a busca pessoal e a localização de drogas e dinheiro trocado. Ato contínuo, adentraram no imóvel, tendo sido apreendida quantidade significativa de entorpecentes, além de apetrechos do tráfico.
+3. No caso dos autos, restou demonstrada a existência de justa causa tanto para a busca pessoal quanto para o ingresso no domicílio, ainda que sem autorização do morador, apurada a partir de denúncia anônima, diligências antecedentes e situação de flagrante criminal, caso em que deve ser recebida a denúncia em desfavor do ora agravante.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.390.397/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+No que se refere à suposta ausência de provas para condenação, foi assentado pelo Tribunal local o seguinte (e-STJ fls. 35-37 e 42-43):
+A autoria, do mesmo modo, encontra-se bem delineada, diante dos relatórios de investigação de fls. 303/304 e 358/361 e pela prova oral colhida, os depoimentos dos policiais militares Luiz Francisco e Bruno Couto (fls. 03/04 e mídia de fl. 762).
+Disseram os policiais Luiz Francisco e Bruno Couto que faziam patrulhamento de rotina e foram em direção à Rua Argentina, diante de recente prisão em flagrante por tráfico no local. Até então, a localidade não era priorizada no patrulhamento preventivo.
+No dia dos fatos, puderam observar que havia um veículo, modelo Vectra, parado em frente a uma residência, que posteriormente identificaram como sendo a casa de Nathália.
+Visualizaram o condutor do veículo esticar o braço e entregar uma sacola para Nathália, que estava acompanhada de outras duas pessoas: Fernanda e Vítor.
+Ao notar a aproximação da guarnição policial, o veículo acelerou e deixou o local, entretanto, lograram anotar parte do emplacamento do automóvel.
+Diante da fundada suspeita, abordaram Nathalia, Fernanda e Vítor e localizaram no interior da sacola 156 (cento e cinquenta e seis) porções de cocaína.
+Realizaram a revista pessoal de Fernanda e de Vítor sendo que com ela apreenderam 15 (quinze) porções de cocaína e com ele 40 (quarenta) pinos da mesma droga.
+Indagada, Nathália admitiu que havia mais entorpecentes no interior de sua residência, enquanto Fernanda disse que possuía uma garrucha em seu apartamento e Vítor afirmou que guardava outros entorpecentes em sua casa.
+No apartamento de Fernanda, os policiais encontraram a garrucha.
+Na residência de Vítor, os policiais tiveram contato com sua genitora e informaram a respeito de sua prisão. Em revista ao imóvel, no local apontado pelo corréu, apreenderam meio tijolo de maconha, 54 (cinquenta e quatro) porções de maconha e 12 (doze) porções de cocaína e material utilizado para embalagem da droga.
+Questionaram Nathália, e ela afirmou que era Valdir, seu irmão, que estava no veículo e indicou onde ele estava residindo.
+Foram até a residência indicada e perceberam que a casa não possuía muro, o que possibilitou o encontro do veículo Vectra, utilizado por Valdir, no dia dos fatos, para entrega de drogas à sua irmã.
+O automóvel estava escondido sob cobertores, no quintal e identificaram que era o mesmo veículo que haviam avistado, pois possuía o mesmo emplacamento parcial anotado.
+Os policiais avistaram Valdir, no local, que entregou dinheiro e um celular que estava no carro. Encontraram, ainda, uma balança no interior do automóvel, sendo que Valdir teria admitido, informalmente, para os policiais que havia feito a entrega de uma sacola com drogas para Nathália.
+ .. .
+As circunstâncias da prisão em flagrante delito dos acusados, a quantidade de drogas apreendidas em conjunto com apetrechos destinados ao seu fracionamento, embalagem e pesagem, e dinheiro, somadas ao fato de os policiais terem visualizado Valdir entregar uma sacola a Nathália, onde posteriormente encontraram, 156 porções de cocaína, e o posterior encontro de outras drogas com os demais corréus, não deixam dúvidas sobre a participação de Valdir, Fernanda e Vítor na empreitada criminosa, demonstrando que os entorpecentes pertenciam aos acusados e destinavam-se a entrega a consumo de terceiros.
+Tendo o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluído que " a s circunstâncias da prisão em flagrante delito dos acusados, a quantidade de drogas apreendidas em conjunto com apetrechos destinados ao seu fracionamento, embalagem e pesagem, e dinheiro, somadas ao fato de os policiais terem visualizado Valdir entregar uma sacola a Nathália, onde posteriormente encontraram, 156 porções de cocaína, e o posterior encontro de outras drogas com os demais corréus, não deixam dúvidas sobre a participação de Valdir, Fernanda e Vítor na empreitada criminosa", a superação das conclusões alcançadas demandaria necessária reanálise do acervo fático probatório, providência incompatível com a estreiteza procedimental do writ.
+Pelo exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
