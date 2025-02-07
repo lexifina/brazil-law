@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interno (fls. 1259-1264) interposto pelo MUNICÍPIO DE CAMAÇARI contra decisão proferida pela eminente Ministra Assusete Magalhães (fls. 1236-1238), que, com fundamento no art. 255, § 4º, inciso I, do RISTJ, declarou prejudicado o Agravo em Recurso Especial em virtude do provimento do recurso especial interposto pela parte adversa.
+Sustenta a parte agravante que (fls. 1262-1263):
+Em que pese a tentativa da parte agravada de demonstrar o cerceamento da complementação do preparo recursal em sede de apelação, tal teratologia não merece prosperar.
+Cumpre registrar que a parte se mantivera silente ao dever de recolhimento do porte de remessa e retorno dos autos em momento concomitante ao do preparo, ato de natureza distinta e efetivamente não realizado.
+Importa frisar que o diploma processual vigente ao tempo da interposição dispusera acerca da possibilidade de complemento do PREPARO única e exclusivamente:
+ ..
+Logo, não há que se falar na ocorrência de qualquer violação a legislação infraconstitucional, pelo contrário, o julgado de segundo grau seguira entendimento consolidado por esse Superior Tribunal de Justiça:
+ ..
+Isso posto, imperiosa se faz a reconsideração da decisão ora vergastada, ou caso não suceda a reconsideração por esta ilustre Relatora, que seja apresentado ao colegiado, conforme reza § 2º, do art. 1.021 do novo CPC, e, consequentemente, conhecido e provido o Recurso Especial interposto, para os fins postulados, o que logo se pede.
+Apresentadas contrarrazões ao agravo interno (fls. 1268-1272).
+É o relatório.
+Decido.
+Tendo em vista a relevância dos argumentos apresentados pela ARQPLAN - CONSULTORIA PLANEJAMENTO E ARQUITETURA LTDA, nas razões de seu agravo interno (fls. 1284-1292), houve a reconsideração da decisão proferida de fls. 1231-1235 para restringir a anulação do acórdão da apelação exclusivamente ao capítulo de não conhecimento em razão da deserção.
+Dessa forma, com fundamento na faculdade prevista no art. 259 do Regimento Interno do Superior Tribunal de Justiça (RISTJ), RECONSIDERO a decisão agravada (fls. 1236-1238) e, a seguir, passo a proceder a um novo exame do agravo em recurso especial.
+Cuida-se de agravo em recurso especial (1131-1139) interposto pelo MUNICÍPIO DE CAMAÇARI contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, que inadmitiu recurso especial dirigido em oposição o acórdão prolatado na Apelação Cível n. 0000933-07.2001.8.05.0039, assim ementado (fls. 969-970):
+APELAÇÕES SIMULTÂNEAS. DIREITO PROCESSUAL CIVIL. AÇÃO MONITÓRIA. COBRANÇA DE DÍVIDA CONTRA O ENTE MUNICIPAL. APELAÇÃO DA AUTORA. AUSÊNCIA DE REQUISITO DE ADMISSIBILIDADE DO RECURSO. PREPARO. FALTA DE PAGAMENTO DO PORTE DE REMESSA E RETORNO. IMPOSSIBILIDADE DE COMPLEMENTAÇÃO. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. DIREITO INTERTEMPORAL. RESPEITOAOS ATOS PROCESSUAIS PRATICADOS. SITUAÇÃO JURÍDICA CONSOLIDADA SOB A VIGÊNCIA DA NORMA REVOGADA. DICÇÃO DO ART. 14 DA LEI Nº 13.105/2015, CODIGO DE PROCESSO CIVIL VIGENTE. ENUNCIADO Nº 02 DO STJ. APELAÇÃO NÃO CONHECIDA.
+O porte de remessa e retomo dos autos deve ser recolhido concomitantemente com o preparo, no momento da interposição do recurso, não se admitindo o seu recolhimento posterior, segundo dominante jurisprudência do Superior Tribunal de Justiça e deste Tribunal de Justiça da Bahia.
+APELAÇÃO RÉU. PRESCRIÇÃO NÃO CARACTERIZADA. PRELIMINAR REJEITADA. NO MÉRITO, INEXISTÊNCIA DE DÍVIDA. NÃO COMPROVAÇÃO. AUSÊNCIA, NOS AUTOS, DE PROVAS DE EFETIVO PAGAMENTO DO VALOR PLEITEADO. ÔNUS DA PROVA DO MUNICÍPIO. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. PERTINÊNCIA DA COBRANÇA. DIREITO INTERTEMPORAL. RESPEITO AOS ATOS PROCESSUAIS PRATICADOS. SITUAÇÃO JURÍDICA CONSOLIDADA SOB A VIGÊNCIA DA NORMA REVOGADA. DICÇÃO DO ART. 14 DA LEI Nº 13.105/2015, CODIGO DE PROCESSO CIVIL VIGENTE. APELAÇÃO IMPROVIDA, SENTENÇA MANTIDA.
+Segundo sedimentado na jurisprudência do STJ, a prescrição quinquenal prevista no art. 1º. do Decreto 20.910/1932 deve ser aplicada a todo e qualquer direito ou ação contra a Fazenda Pública, seja ela federal, estadual ou municipal, independentemente da natureza da relação jurídica estabelecida entre a Administração Pública e o particular. In casu, a relação contratual foi encerrada em agosto de 1996 e a Ação Monitória foi ajuizada em maio de 2001, portanto, dentro do prazo prescricional. É ônus do Município provar que houve a quitação do valor cobrado, entretanto, como este não se desincumbiu de provar a existência de qualquer fato extintivo do direito pleiteado pela Autora, é devido o valor determinado na sentença.
+É o relatório.
+Decido.
+A Corte de origem não admitiu o apelo nobre (fls. 1177-1179), fundamentando sua decisão na necessidade de reexame do conjunto fático-probatório dos autos (Súmula n. 7 do STJ).
+Todavia, nas razões do agravo em recurso especial, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório. Senão, confira-se excerto das razões de agravo em recurso especial (fl. 1187-1189):
+Não merece guarida a aplicação da súmula nº 7 da Corte Superior de Justiça, tendo em vista que a interposição do recurso especial visa à análise das violações consumadas pela decisão colegiada, sobretudo a afronta aos artigos 373 do Código de Processo Civil e 189, I e 476 do diploma civil em vigor.
+Então, segue o trecho abaixo do fundamento insubsistente para a indevida negativa de seguimento ao Recurso Especial interposto:
+ ..
+As razões recursais encontram fundamento nas colisões da decisão judicial com os dispositivos da legislação infraconstitucional, posto que o óbice à imposição de condenação do Município sem a devida demonstração de fato constitutivo do direito guerreado, bem como da exigência de contraprestação sem que tenha ocorrido adimplemento da parte adversa viola as previsões legais e foge a sistemática do ordenamento jurídico, o que onera o Ente Público sem a devida segurança jurídica que se espera para imposição de obrigação pecuniária do Estado.
+O posicionamento da Corte Superior de Justiça revela a inaplicabilidade da Súmula 7 no caso sub judice:
+ ..
+Nesse diapasão, cumpre acentuar que houve o prequestionamento do descumprimento ao texto infraconstitucional, registra-se que a matéria da violação apontada vem sendo chamada a atenção desde a peça inicial desta municipalidade.
+Não se trata de reexame de prova, porém de constatação das violações havidas, pois o Recurso Especial interposto não fundamenta seu pedido sob o argumento de reexame de conjunto probatório, e sim, EM VIOLAÇÃO LITERAL DOS DISPOSITIVOS MENCIONADOS.
+O que ocorreu, in casu, a má valoração dos aspectos que cercam a demanda, devido sua simplicidade e, em parte, O FATO DO TRIBUNAL DE JUSTIÇA TER CHANCELADO UMA DECISÃO EM FLAGRANTE CONTRARIEDADE À LEI.
+Assim, apesar do notório conhecimento jurídico da insigne relatora, merece reforma a decisão ora vergastada, haja vista o equívoco quanto a aplicação da súmula nº 7 do STJ, restando demonstrada a violação da norma infraconstitucional, bem como a divergência jurisprudencial no caso em apreço.
+Isso posto, diante da flagrante dissonância entre a decisão judicial e a jurisprudência da Corte de Justiça, faz-se imperioso que este conflito seja dirimido e a posteriori, seja reconhecido o pleito feito pelo ente municipal.
+Dessa forma, o agravante não esclareceu, à luz das teses apresentadas no apelo nobre, e em cotejo com a fundamentação do acórdão recorrido, de que forma o exame das referidas teses prescindiria a análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+Para afastar o óbice do Enunciado 7 da Súmula do STJ, caberia à parte agravante desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a eles. (AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+ ..
+A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021). Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, RECONSIDERO a decisão agravada, porém NÃO CONHEÇO do agravo em recurso especial.
+Proferida a sentença de mérito na vigência do CPC/1973, fica afastada a fixação de honorários recursais nesta instância superior.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. AÇÃO MONITÓRIA. COBRANÇA DE DÍVIDA EM FACE DE ENTE MUNICIPAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCI A DE IMPUGNAÇÃO CONCRETA.SÚMULA N. 182 DO STJ. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
