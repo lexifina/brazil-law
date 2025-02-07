@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE ADEILSON GOMES DE LIMA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0001486-64.2018.8.26.0624).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 4 anos e 2 meses de reclusão, em regime inicial fechado, e 783 dias-multa, no valor unitário de 1/10 do salário mínimo, pela prática do crime previsto no art. 35, caput, da Lei n. 11.343/2006 (e-STJ fls. 84/120).
+Irresignado, o paciente interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 27/63), em acórdão assim ementado:
+APELAÇÃO - ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS - Preliminares de cerceamento de defesa pela realização de audiência de instrução antes da juntada do conteúdo das interceptações telefônicas; sem transcrição integral; ou por litispendência - Nulidades  Inocorrência _ Desnecessidade de transcrição integral da interceptação, cujo teor esteve disponível nos autos físicos e cuja transcrição não precisa ser feita por perito - Inexistência de litispendência por tratar, o outro processo, de associação com outras pessoas, em outro local  Mérito - Pleito ministerial para condenação de ré absolvida e dos defensores para absolvição por insuficiência de provas  Desprovimento  Autorias e materialidade delitivas, em relação aos condenados, nitidamente delineadas nos autos - Firmes e seguras palavras dos investigadores e demais agentes da Lei, apoiadas em conversas telefônicas interceptadas com autorização judicial e não maculadas pelas pueris e escoteiras negativas de autoria  Insuficiência, contudo, em relação à ré, corretamente absolvida - Dosimetria adequada  Rejeição das preliminares e desprovimento dos recursos.
+Em consulta ao Sistema Justiça, constato que o recurso especial interposto pela defesa não foi admitido na origem e o seu subsequente agravo em recurso especial foi conhecido para não conhecer do recurso especial (AREsp 2.600.155/SP).
+No presente mandamus (e-STJ fls. 2/26), o impetrante sustenta que o Tribunal a quo impôs constrangimento ilegal ao paciente, pois manteve o exame negativo dos antecedentes do paciente e o regime inicial fechado.
+Em relação aos antecedentes, aduz que o paciente NÃO possuía qualquer antecedente criminal (e-STJ fl. 13), pois, no curso da ação penal em exame, veio a responder um processo de ameaça, no âmbito doméstico, cuja a vitima é sua esposa, até hoje e genitora de seu filhos (e-STJ fl. 13).
+Afirma, ademais, que NÃO é a simples reincidência por um CRIME DE LESÃO CORPORAL suficiente para rigor de fixar um REGIME MAIS GRAVOSO (e-STJ fl. 16).
+Ao final, liminarmente e no mérito, pede a redução da pena-base e o abrandamentno do regime prisional.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não é possível dar seguimento ao presente writ.
+Afinal, as teses ora suscitadas - inaptidão da condenação definitiva utilizada para efeito de maus antecedentes e ilegalidade no estabelecimento do regime inicial fechado para resgate da pena imposta ao paciente - não foram objeto de debate pelo Tribunal a quo.
+Dessa forma, revela-se incabível o respectivo exame no âmbito do Superior Tribunal de Justiça, sob pena de supressão de instância.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SUPOSTA VIOLAÇÃO DE DOMICÍLIO. PRESENÇA DE JUSTA CAUSA PARA O INGRESSO FORÇADO DE POLICIAIS. DESCLASSIFICAÇÃO DA CONDUTA PARA MERO USUÁRIO. REEXAME DE FATOS. INCABÍVEL NA VIA ELEITA. MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR ALCANÇADA PELO PERÍODO DEPURADOR. AUMENTO VÁLIDO. BENEFÍCIO DO ART. 33, §4º, DA LEI N. 11.343/06. ATENUANTE DE CONFISSÃO. SUPRESSÃO. SUBSTITUIÇÃO DE PENA. INVIÁVEL. PENA SUPERIOR A 4 ANOS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. O acordão combatido não tratou das matérias de aplicação do redutor da pena previsto no § 4º do artigo 33 da Lei n. 11.343/2006 e atenuante da confissão, sendo assim, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+ ..
+6. Agravo regimental desprovido. (AgRg no HC n. 787.900/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO EM CONCURSO MATERIAL. PRETENDIDA ABSOLVIÇÃO PELO CRIME DE ASSOCIAÇÃO. INVIABILIDADE. CONTUNDENTE ACERVO PROBATÓRIO PARA LASTREAR A CONDENAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO MANDAMUS. PRECEDENTES. INCIDÊNCIA DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. CONDENAÇÃO PELO ART. 35 DA LAD OBSTA A APLICAÇÃO DO REDUTOR. INDICAÇÃO DE DEDICAÇÃO À ATIVIDADE CRIMINOSA. PRECEDENTES. ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA REPRIMENDA. INVIABILIDADE. EXPRESSA DETERMINAÇÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+- O pleito relativo ao reconhecimento da atenuante da confissão espontânea não foi submetida à apreciação e, tampouco analisada pela Corte estadual, tratando-se, portanto, de matéria nova somente aventada neste mandamus, o que impede seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+ ..
+- Agravo regimental não provido. (AgRg no HC n. 783.595/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022.)
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
