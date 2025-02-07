@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por CANGURU PLASTICOS LTDA contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial dirigido em oposição ao acórdão prolatado na Apelação Cível n. 5016528-25.2022.4.04.7204/SC, assim ementado (fls. 1131-1136):
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. PARCELAMENTO DO DÉBITO. QUESTIONAMENTO JUDICIAL QUANTO AOS ASPECTOS JURÍDICOS. CABIMENTO. ENCARGO LEGAL. LEGALIDADE. EMPRESA EM RECUPERAÇÃO JUDICIAL. MEDIDAS CONSTRITIVAS. POSSIBILIDADE.
+1. É firme o entendimento no sentido de que a confissão do débito para fins de parcelamento não obsta a discussão acerca de aspectos jurídicos da cobrança. Precedentes.
+2. A inclusão do encargo legal previsto no Decreto-Lei nº 1.025/69 na certidão de dívida ativa decorre de imposição legal e está em consonância com o entendimento jurisprudencial desta Corte.
+3. Nos termos da lei, compete ao juízo da execução fiscal determinar os atos de penhora do devedor em recuperação judicial. É ônus do devedor, se entender que a medida é lesiva ao plano de recuperação judicial, alegar e requerer no juízo da recuperação a substituição dos bens penhorados por outros que indicar, nos termos do art. 805, parágrafo único, do CPC.
+4. Embora a ordem de constrição possa, eventualmente, ser prejudicial ao cumprimento do respectivo plano, a medida pode ser efetivada e depois mantida, substituída por outros bens, ou tornada sem efeito, na forma a ser decidida pelo juízo da recuperação judicial.
+Foram opostos embargos de declaração, os quais foram desprovidos (fls. 1154-1156).
+No recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a parte ora agravante alegou violação aos arts. 1.022, inciso II, e 489, § 1º, inciso IV, do Código de Processo Civil, sustentando negativa de prestação jurisdicional, em razão de omissão pela não apreciação expressa de diversos dispositivos legais e constitucionais alegadamente violados.
+Ademais, sustentou o descabimento da cobrança de encargo legal de 20%, haja vista a ausência de previsão em lei complementar, em violação aos arts. 145, 148 e 149, 153, 154, inciso I, do Código Tributário Nacional, bem como a necessidade de adequação, quanto ao ponto, às disposições do Novo CPC, sob pena de violação ao art. 85, § 3º, do referido diploma legal.
+Por fim, asseverou a impossibilidade do prosseguimento dos atos de cobrança em face da executada, em razão de se encontrar em recuperação judicial, sustentando que "é pacificado o entendimento jurisprudencial no sentido de que embora a execução fiscal não se suspenda em razão do deferimento da recuperação judicial, são vedadas as práticas de atos judiciais que importem a redução do patrimônio da empresa, ou excluam parte dele do processo de recuperação, sob pena de comprometer, de forma significativa, o soerguimento desta" (fls. 1186-1187), além de usurpação da competência do juízo universal, em violação aos arts. 6º e 47 da Lei n. 11.101/05.
+O Tribunal de origem inadmitiu o apelo nobre em decisão de fls. 1211-1214.
+Houve interposição de agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte a quo não admitiu o apelo nobre, pois o aresto atacado estaria em harmonia com a jurisprudência desta Corte Superior (Súmula n. 83 do STJ), tanto em relação à tese de descabimento da cobrança de encargo legal de 20%, quanto com relação à tese de impossibilidade do prosseguimento dos atos de cobrança.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não cuidou de trazer qualquer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência deste Superior Tribunal de Justiça, nem comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos.
+Na espécie, cingiu-se a trazer julgados mais de dez anos mais antigos que aqueles trazidos na decisão de inadmissibilidade, quanto à tese de impossibilidade do prosseguimento dos atos de cobrança, e, quanto à tese de descabimento da cobrança de encargo legal de 20%, a alegar genericamente que "também há julgados deste E. STJ afirmando a sua ilegalidade", sem trazer qualquer jurisprudência nesse sentido.
+Nessas condições, não se desobrigou a agravante do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre.
+A propósito:
+ ..
+1. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+2. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/R S, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Agravo interno improvido. (AgInt no AREsp n. 2.147.724/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, este Superior Tribunal de Justiça possui entendimento no sentido de que: "A Súmula 83 do STJ é de possível aplicação tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional" (AgInt no AREsp n. 1.900.711/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ILEGALIDADE DO ENCARGO LEGAL PREVISTO NO DECRETO-LEI N. 1.025/69. IMPOSSIBILIDADE DE REALIZAÇÃO DE ATOS DE COBRANÇA EM FACE DE EMPRESA EM RECUPERAÇÃO JUDICIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
