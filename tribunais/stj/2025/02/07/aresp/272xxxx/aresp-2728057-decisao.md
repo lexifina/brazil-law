@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por ML GOMES ADVOGADOS ASSOCIADOS, JOÃO ANTÔNIO BELIZÁRIO LEME, ILTON SUALETE SARAIVA e MARIA LUIZA CORREIA DE VASCONCELOS contra a decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da Repúblic a, dirigido a acórdão prolatado no Agravo de Instrumento n. 5341417-56.2023.8.21.7000/RS.
+Os agravantes interpuseram agravo de instrumento contra decisão proferida pelo Tribunal de origem que indeferiu o pedido de limitação da abrangência da sanção de proibição de contratar com o Poder Público.
+A Corte de Justiça negou provimento ao recurso. O acórdão ficou assim ementado (fl. 80):
+AGRAVO DE INSTRUMENTO. DIREITO PÚBLICO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. IMPROBIDADE ADMINISTRATIVA. ABRANGÊNCIA DA PENALIDADE DE PROIBIÇÃO DE CONTRATAR COM O PODER PÚBLICO. ALTERAÇÕES PROMOVIDAS PELA LEI N. 14.230/21. COISA JULGADA.
+1. Como a penalidade de proibição de contratar com o Poder Público não delimitou expressamente o território de abrangência, aplica-se a qualquer ente, seja federal, estadual ou municipal.
+2. Inaplicáveis as alterações trazidas pela Lei nº 14.230/21 com o fito de reduzir a abrangência da penalidade aplicada no bojo do cumprimento de sentença, sob pena de ofensa à coisa julgada.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+No recurso especial, trouxe a parte agravante a alegação de violação ao art. 12, § 4º, da Lei n. 8.429/1992, incluído pela Lei n. 14.230/2021, defendendo a sua aplicação retroativa no caso e ainda que "a delimitação da abrangência territorial da sanção de proibição de contratar com o Poder Público para que recaia apenas sobre o ente público que foi lesado, considera a exata dimensão do ato de improbidade sancionado, de forma a observar a proporcionalidade e a razoabilidade da sanção" (fl. 102).
+Pede o provimento do recurso especial.
+Oferecidas contrarrazões (fls. 129-137), inadmitiu-se o recurso na origem (fls. 140-142), advindo o presente agravo (fls. 158-165), contraminutado às fls. 170-173.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso especial, nos termos da seguinte ementa (fls. 358-362):
+EMENTA: AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. APLICABILIDADE RETROATIVA DO ART. 12, § 4º, DA LIA, INCLUÍDO PELA LEI Nº 14.230/2021. MATÉRIA TRATADA SOB O ENFOQUE CONSTITUCIONAL (VIOLAÇÃO DA COISA JULGADA - ART. 5º, XXXVI, DA CF). NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ADI 7236. INCONSTITUCIONALIDADE DO ART. 12, § 4º, DA LIA, QUE ESTÁ SENDO QUESTIONADA NO STF. PARECER PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma pormenorizada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo diretamente ao exame do recurso especial.
+Extrai-se do acórdão recorrido a seguinte fundamentação (fls. 78-79; grifos diversos do original):
+A questão trazida a lume diz respeito a pleito de delimitação da abrangência de sanção de proibição de contratar com o Poder Público, imposta na presente demanda, para que seja limitada ao Estado.
+Quando da análise da antecipação de tutela recursal, assim me manifestei:
+No caso concreto, o título judicial transitado em julgado impôs "a proibição aos demandados de contratar com o Poder Público e de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual sejam sócios majoritários, pelo prazo de 10 (dez) anos" (evento 7, PROCJUDIC26, fl. 13, origem).
+Observa-se, portanto, que não houve delimitação para que a vedação se aplique tão somente ao território do Estado do Rio Grande do Sul. Na ausência de limitação expressa, deve-se respeitar o comando judicial, considerando-se Poder Público qualquer ente, seja federal, estadual ou municipal.
+E não se vislumbra probabilidade do direito na pretensão de aplicação do art. 12, § 4º, da Lei nº 8.429/92, incluído pela Lei nº 14.230/211. Considerando se tratar de norma superveniente ao trânsito em julgado do acórdão rescindendo, não há de se cogitar de sua incidência, dada a supremacia da coisa julgada (art. 5º, XXXVI, da Constituição Federal).
+Por fim, registro que a posição jurisprudencial do STJ acerca da delimitação territorial da sanção de proibição de contratar com o Poder Público, trazida nas razões de recurso, não tem o condão de modificar o título judicial transitado em julgado.
+Vale ressaltar que a possibilidade de delimitação de abrangência da pena de proibição de contratar com o Poder Público, com base na alteração legislativa apontada nas razões recursais, restringe-se à fase de conhecimento. Não há se falar em nova dosimetria da pena após o trânsito em julgado da decisão que impôs a penalidade, sob pena de ofensa à coisa julgada.
+Como se depreende da transcrição acima colacionada, o acórdão recorrido, quanto à tese de abrangência de sanção de proibição de contratar com o Poder Público, com inaplicabilidade da inovação legislativa superveniente ao trânsito em julgado do acórdão rescindendo, além da fundamentação infraconstitucional, está assentado em fundamento constitucional autônomo e suficiente, por si só, para dar suporte à conclusão do Tribunal de origem.
+A parte recorrente, no entanto, deixou de interpor recurso extraordinário. Nesse contexto, incide o comando da Súmula n. 126/ STJ.
+A propósito: AgInt no AREsp n. 1.675.745/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023; (AgInt no AREsp n. 2.298.562/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/12/2023, DJe de 11/12/2023.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. PENALIDADE DE PROIBIÇAO DE CONTRATAR COM O PODER PÚBLICO. ABRANGÊNCIA. VIOLAÇÃO À COISA JULGADA. FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA N. 126 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
