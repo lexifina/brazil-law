@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DIJAVAN GONCALO DA COSTA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de tentativa de homicídio qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão e denegou a ordem, em acórdão de fls. 42-53.
+Na hipótese, o recorrente aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da segregação cautelar.
+Sustenta, ainda, a ausência de contemporaneidade dos fatos.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+O Ministério Público Federal em parecer, às fls. 108-119, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+In casu, observa-se que a decisão que decretou a segregação cautelar, está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, haja vista, que o recorrente, "teria subtraído para si coisa alheia móvel da vítima (aparelho celular), bem como praticado uma tentativa de homicídio triplamente qualificado, praticado por motivo torpe (por estar irritado com a cobrança feita pela vítima ou simplesmente por não querer pagar ou devolver o aparelho celular), mediante recurso que dificultou a defesa da vítima (surpresa) e por meio cruel (desferiu vários golpes com um pedaço de madeira) - fl. 47.
+Sobre o tema:
+"A prisão preventiva encontra-se justificada pelos elementos concretos dos autos, que indicam a periculosidade do paciente, envolvido em tentativa de homicídio com características graves, como agressividade e frieza no modus operandi" (AgRg no HC n. 891.982/MG, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 6/11/2024).
+No mesmo sentido: AgRg no HC n. 920.057/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, DJe de 9/10/2024; AgRg no HC n. 903.669/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/9/2024, DJe de 13/9/2024 e AgRg no HC n. 891.091/RS, relator Ministro Ribeiro Dantas, Quinta Turma,DJe de 23/8/2024.
+Ressalta-se, ainda, que o recorrente já foi condenado pela prática dos crimes de tráfico de drogas e posse irregular de arma de fogo de uso permitido (fl. 48), circunstância que demonstra a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa.
+Sobre o tema:
+"No caso em debate, ao contrário do sustentado pela Defesa, embora o paciente tenha respondido ao processo em liberdade, verifico que a prisão preventiva foi adequadamente decretada na sentença, tendo sido demonstrada pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta. Destacou-se a periculosidade do paciente e necessidade de se evitar a reiteração delitiva, uma vez que, após ter sua prisão preventiva relaxada nos autos em questão, cometeu duas vezes o crime de tráfico de drogas quando estava em liberdade, demonstrando o risco ao meio social.
+3. Por oportuno, impende consignar que, conforme orientação jurisprudencial desta Corte, inquéritos e ações penais em curso constituem elementos capazes de demonstrar o risco concreto de reiteração delituosa, justificando a decretação da prisão preventiva para garantia da ordem pública" (AgRg no RHC n. 194.155/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 3/7/2024).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+De mais a mais, cumpre registrar que a contemporaneidade da prisão preventiva diz respeito aos motivos ensejadores da prisão e não decurso do tempo da prática do fato ilícito.
+A propósito:
+"Em relação à suscitada ausência de contemporaneidade, recordo que ela diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos do risco à ordem pública" (AgRg no RHC n. 204.161/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 29/11/2024).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
