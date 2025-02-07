@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ADMINISTRADORA JARDIM ACAPULCO LTDA..
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. Sentença de procedência. Inconformismo da ré, pugnando pela aplicação do seu regimento interno ou, subsidiariamente, pela restituição de 25% dos valores recebidos, com correção monetária pelo INCC a partir da data da sentença, excluindo-se os juros de mora ou, alternativamente, incidindo-se estes a partir do trânsito em julgado. Desacolhimento. Relação tipicamente consumerista, implicando na aplicação do Código de Defesa do Consumidor. Intelecção da Súmula 602 do E. STJ. Ausência de informação adequada e clara acerca do prazo para a entregado imóvel, que não foi disponibilizado em tempo razoável. Violação do princípio da transparência (art. 6 º, III, do CDC) . Omissão quanto ao prazo de entrega que é prática abusiva vedada pelo art. 39, XII, do CDC. Resolução contratual que se deu por culpa da cooperativa, impondo a esta a devolução com o determinado na r. sentença, com correção monetária pela Tabela Prática deste E. TJSP, a partir de cada desembolso, e juros de mora de 1% desde a citação (art. 405 do Código Civil). Precedentes deste E. TJSP. Sentença mantida. Recurso não provido" (fl. 394 e-STJ).
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 507 e 792, IV, do CPC e 24, 26, VII, e 29 da Lei nº 6.766/1979. Defende que devem ser reconhecidas a fraude contra credores e a natureza propter rem da obrigação e que há violação à coisa julgada.
+Com as contrarrazões (fls. 542/563 e-STJ) e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+No caso dos autos, o tribunal de origem consignou:
+"Irrepreensível o julgado porque, na espécie, incidiu o enunciado da velha Súmula 375 do Superior Tribunal de Justiça, diante da inexistência de óbice/gravame à margem da matrícula do bem na data da formalização do negócio jurídico translativo, art. 792, I a III, do Código de Processo Civil, assim como a ausência de demonstração de indícios de má-fé do adquirente, afastando a tese de eventual fraude à execução, donde a insubsistência da penhora, a validade e a eficácia da alienação em homenagem aos princípios da concentração e a da inoponibilidade a terceiros de situações, ou fatos jurígenos, não constantes do registro público, em conformidade com o art. 54, II e § 1º, da Lei 13.097/15.
+E a mera existência de ação anterior distribuída em face da empresa alienante Brazil Participação e Empreendimentos Ltda., no ano de 2009, não permite o reconhecimento da alegada fraude à execução, pois se tratava de ação de conhecimento, sem formação de título judicial contra a pessoa jurídica, não registrada na matrícula do bem, além de que ausentes indícios mínimos de que a alienação à época levou a executada à insolvência, independentemente da qualidade de ex-sócio do embargante.
+Enfim, o julgador não está obrigado a examinar de forma minuciosa todos os dispositivos e teses invocadas existência de obrigação propter rem no tocante às taxas, matéria sequer objeto dos autos - quando já encontrado motivo suficiente para a prolação da decisão." (fls. 505/506 e-STJ).
+Desse modo, a pretensão recursal esbarra no óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
