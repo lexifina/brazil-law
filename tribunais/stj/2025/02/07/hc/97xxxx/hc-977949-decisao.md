@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício de MARCOS WESLEY RODRIGUES DOS SANTOS - condenado como incurso no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006, ao cumprimento de 6 anos, 9 meses e 11 dias de reclusão, em regime inicial fechado, e ao pagamento de 680 dias-multa -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0471.18.001190-3/001).
+Busca-se, na presente impetração, a absolvição do paciente, nos termos do art. 386, III, do Código de Processo Penal - CPP, alegando-se, em síntese, que a conduta do réu é atípica, tendo sido condenado por meros atos preparatórios impuníveis, pois teria praticado o crime de tráfico de drogas em razão de ser sido apontado como o destinatário de droga interceptada pelos agentes penitenciários, a qual estava na posse de sua esposa (fl. 7); e que não houve a tradição da substância entorpecente, que foi apreendida antes de chegar ao poder do Paciente. Por óbvio, "tentar adquirir" não equivale a "adquirir". A tentativa de aquisição da droga, no caso, não passou de meros atos preparatórios, não puníveis por ausência de previsão legal (fl. 9).
+Por fim, afirma que, em virtude do princípio da intranscendência penal, não se pode condenar o acusado por conduta realizada por terceiro (fl. 10).
+É o relatório.
+Inicialmente, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a condenação transitou em julgado em 6/9/2019, de maneira que a presente impetração é substitutiva de pedido revisional e, portanto, incabível.
+Com efeito, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Sobre a questão, cito os seguintes precedentes: AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/2/2024; e AgRg no HC n. 847.051/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 5/10/2023.
+Contudo, do atento exame dos autos, observo a ocorrência do ilegal constrangimento.
+Confira-se o que constou do acórdão impugnado (fls. 32/34 - grifo nosso):
+ ..
+Ouvida na fase policial, Jéssica Valéria de Sousa Ramos, codenunciada e amásia do apelante Marcos, confirmou que trazia em sua vagina um tablete de maconha quando tentou entrar no presídio, afirmando que a droga seria destinada ao seu companheiro que a comercializaria naquele local, onde cumpre pena:
+" ..  a depoente afirma que na visita que fez a seu companheiro MARCOS WESLEY RODRIGUES DOS SANTOS na Penitenciária Dr. Pio Canedo, no final de semana passado, o mesmo lhe pediu para levar maconha para ele; QUE afirma que pegou do dinheiro que tinha para comprar a droga para seu companheiro, esclarecendo que adquiriu em "uma biqueira que fica pra baixo de lá de casa"  ..  QUE guardou a droga dentro de sua vagina para poder entrar na Penitenciária  ..  QUE seu companheiro está preso há cerca de três meses e está cumprindo pena por roubo praticado em Matozinhos/MG; Que MARCOS pretendia revender a maconha que a declarante estava levando para sua pessoa para os outros detentos  .. " (fls. 5/6)
+Sob o crivo do contraditório, a Jéssica alterou a versão dos fatos, asseverando levou o entorpecente a pedido de seu companheiro Marcos, sendo que este se destinava ao consumo pessoal deste, que é usuário de drogas. (Depoimento colhido através do sistema audiovisual acostado à fl.115)
+O apelante, por sua vez, ao ser ouvido em juízo, negou todos os fatos, afirmando que "não estava ciente da droga não". Além disso, negou ser usuário de maconha, além de desconhecer o fato de a sua companheira estar levando droga. Às perguntas, respondeu que não pediu à Jéssica para que lhe trouxesse a droga mencionada. (Depoimento colhido pelo sistema audiovisual acostado à fl. 115).
+Todavia, é possível observar que as versões sustentadas pelo réu e por sua companheira se encontram em dissonância das demais provas colhidas nos autos, não passando de uma vã tentativa de se esquivar da imputação contida na denúncia.
+Com efeito, constata-se que as agentes penitenciárias Gisele Oliveira de Faria e Eunice Geralda dos Santos foram uníssonas em relatar que, durante o procedimento de revista de visitantes, foi detectado pelo aparelho bodyscan, um objeto desconhecido nas partes íntimas da visitante Jessica Valeria de Sousa Ramos. Então, questionada sobre o possível material em suas partes íntimas, ela espontaneamente afirmou que estaria carregando materiais ilícitos. Diante disso, foi solicitado e Jéssica retirou o material de seu corpo, dizendo que se tratava de maconha.
+As agentes informaram, ainda, que diante desse fato o conselho tutelar de Pará De Minas foi acionado, já que Jéssica estava acompanhada de seu filho menor de idade C.W.S.S..
+Ao final, pontuaram que a autuada estava indo visitar seu marido Marcos (ora apelante); sendo-lhe dada voz de prisão em flagrante delito.
+ ..
+Destarte, considerando que as agentes penitenciárias foram coerentes e firmes em descrever os fatos em apuração, elucidando que procedimento de revista no scanner corporal (bodyscan) houve a suspeita na imagem da corré sendo, ato posterior, localizado um invólucro de maconha pesando nada menos que 77,09g (setenta e sete gramas e nove centigramas) introduzido em sua cavidade vaginal, que seria entregue ao acusado Marcos, seu cônjuge e detento da penitenciária de Pio Canedo, inequívoco o envolvimento do recorrente com o crime do art. 33 da Lei 11.343/06.
+Nesse contexto, sendo o delito imputado ao apelante de ação múltipla, tendo ele incorrido em uma das condutas do tipo, não há que se falar em absolvição por insuficiência de provas.
+ ..
+Por sua vez, a inicial acusatória foi elaborada nestes termos (fl. 18 - grifo nosso):
+ ..
+Consta dos autos que, no dia 28/1/2018, por volta de 14h15min, a denunciada tentou entrar no Complexo Penitenciário Dr. Pio Canedo, situado na Estrada dos Costas, b. Papa João II - Pará de Minas/MG, de pose de 1 tablete de maconha, totalizando 77,06 g (laudo de fls. 17/18).
+A denunciada foi até o estabelecimento prisional para visitar o detento Marcos Wesley Rodrigues dos Santos, sendo certo que, ao passar pelo Scanner corporal, foram identificados os objetos escondidos em sua genitália.
+Apurou-se que a denunciada é companheira do denunciado Marcos, que já estava preso, sendo que em uma de suas visitas, ele a propôs de ingressar com a droga naquele presídio.
+Para tanto, a denunciada Jessica, dias antes do fato, adquiriu a droga de terceira pessoa não identificada, quando então a transportou até a Penitenciário Pio Canedo, onde foi presa.
+A droga seria traficada no interior do presídio pelo denunciado Marcos.
+Diante de todo o exposto, denuncio o(s) autor(es) supracitado(s) como incurso(s) no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/06.
+ ..
+Como se vê, a ação imputada ao paciente consistiu, essencialmente, em ter solicitado à sua companheira que lhe levasse entorpecentes na unidade prisional onde se encontrava recolhido. Não há nenhuma comprovação acerca da propriedade do entorpecente, não sendo o depoimento da acusada apenas em sede inquisitorial, ao qual a sentença faz breve menção, elemento suficiente para tanto.
+Além disso, a entrega da droga não se concretizou, já que interceptada pelos agentes penitenciários durante o processo de revista.
+Ora, esta Corte tem decidido que a mera solicitação, sem a efetiva entrega do entorpecente ao destinatário no estabelecimento prisional, configura, no máximo, ato preparatório e, sendo assim, impunível (AgRg no RESp n. 1.999.604/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/3/2023).
+Em outras palavras, tão somente a ação do acusado de solicitar que fossem levadas drogas, cuja propriedade não se conseguiu comprovar, poderia configurar, no máximo, ato preparatório e, portanto, impunível, mas não ato executório do delito, seja na conduta de "adquirir", a qual se entendeu subsumir a ação, seja nas demais modalidades previstas no tipo. Evidencia-se, portanto, a atipicidade da conduta (AgRg no AREsp n. 2.189.239/MG, Ministra Laurita Vaz, Sexta Turma, DJe 23/2/2023).
+No mesmo sentido, o AgRg no REsp n. 1.922.955/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/5/2021; e AgRg no REsp n. 1.795.980/MG, Ministra Laurita Vaz, Sexta Turma, DJe 10/9/2019.
+Pelo exposto, com base nos precedentes deste Superior Tribunal, concedo liminarmente a ordem a fim de absolver o paciente com fundamento no art. 386, III, do Código de Processo Penal (Autos n. 0471.18.001190-3, da Vara Criminal da comarca de Pará de Minas/MG).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. ATIPICIDADE DA CONDUTA CONFIGURADA. MERA SOLICITAÇÃO. INEXISTÊNCIA DE ATO DE EXECUÇÃO. PRECEDENTES. EVIDENTE CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmente nos termos do dispositivo.
