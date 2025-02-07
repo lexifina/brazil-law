@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de JOSÉ MANOEL OTERO MACHADO, impetrado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no HC n. 5121941-79.2024.8.21.7000.
+Consta nos autos que o paciente teve a prisão preventiva decretada pela suposta prática dos crimes previstos nos arts. 121, § 2º, inciso VII, c/c o art. 14, inciso II, e 180, caput, todos do Código Penal e 311 da Lei n. 9.503/1997.
+Posteriormente, o Juízo processante desclassificou a imputação de tentativa de homicídio para a figura típica prevista no art. 329, caput, do Código, tendo declinado da competência para o julgamento dos crimes dos arts. 180, caput, ambos do Código Penal e 311 da Lei n. 9.503/1997. Na ocasião, foi mantida a prisão preventiva.
+Irresignado, o Ministério Público interpôs recurso em sentido estrito perante o Tribunal local, que negou provimento ao recurso, mantendo a decisão de primeiro grau.
+A Defesa, inconformada com a manutenção da custódia cautelar, impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, o impetrante sustenta a inexistência de fundamentação idônea e dos requisitos legais para a prisão processual.
+Requer, em liminar e no mérito, a revogação da prisão preventiva, ainda que condicionada ao cumprimento de medidas cautelares alternativas.
+O pedido liminar foi deferido às fls. 94-96.
+Informações prestadas às fls. 102-104.
+O Ministério Público Federal, às fls. 109-112, opinou pela concessão da ordem.
+É o relatório.
+DECIDO.
+A ordem comporta deferimento.
+Para a decretação da prisão preventiva, faz-se necessário demonstrar, além da existência de prova da materialidade delitiva e de indícios suficientes de autoria, o preenchimento dos requisitos que autorizam a medida extrema, previstos no art. 312 do Código de Processo Penal.
+Outrossim,
+a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual  ..  mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade (AgRg no RHC n. 182.523/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023).
+No caso, para a adequada solução da controvérsia, destaco os seguintes trechos da decisão que decretou a prisão preventiva do paciente (fls. 89-90):
+No caso, o delito investigado (homicídio tentado) enquadra-se hipótese o art. 313, inc. I, do Código de Processo Penal.
+A materialidade do crime pode ser extraída do registro de Ocorrência Policial; vídeos e depoimentos constantes do expediente Os indícios suficientes de autoria, por sua vez, derivam do reconhecimento pessoal do representado pelas vítimas (evento 12).
+O perigo de liberdade decorre da gravidade concreta do fato, a revelara periculosidade do agente, considerando as circunstâncias em que praticado, com destaque para as seguintes: a) o veículo foi abordado em razão de suspeita de estar praticando roubos na região de Alvorada; b) o delito foi praticado em concurso de agentes, ao menos três indivíduos; c) os agentes não obedeceram à ordem de parada policial, iniciando fuga veicular, causando risco aos populares que transitavam na via, tendo inclusive colidido em uma moto tripulada por dois indivíduos; d) foram efetuados cerca de 30 disparos de arma de fogo contra a guarnição, que embora não tenham atingido as vítimas, são reveladores do animus necandi.
+ISSO POSTO, presentes os requisitos legais, decreto a PRISÃO PREVENTIVA do representado JOSÉ MANOEL OTERO MACHADO, para a garantia da ordem pública, nos termos do art. 312, caput, ambos do Código de Processo Penal.
+A despeito da reprovabilidade das condutas apuradas nos autos, observa-se que a imputação relativa ao delito de homicídio tentado foi desclassificada para a conduta prevista no art. 329, caput, do Código Penal, sendo que remanesceram para julgamento, além do referido delito, os crimes previstos nos arts. 180, caput, do Código Penal e 311 da Lei n. 9.503/1997, a evidenciar a suficiência, no caso, da fixação de medidas cautelares diversas da prisão.
+Ademais, embora a Corte estadual tenha consignado que o paciente ostenta condenação provisória no processo nº 5022312-11.2023.8.21.0003, por delito de porte ilegal de arma de fogo de uso restrito (fl. 78), ressalto que a jurisprudência desta Corte Superior de Justiça não admite que o Tribunal, ao julgar o habeas corpus, acrescente fundamentos para legitimar a custódia, como realizado na hipótese em apreço.
+Ilustrativamente:
+RECURSO EM HABEAS CORPUS. LESÃO CORPORAL, DANO QUALIFICADO, DESOBEDIÊNCIA E RESISTÊNCIA. PRISÃO PREVENTIVA. MEDIDA DESPROPORCIONAL. SUFICIÊNCIA DE CAUTELARES ALTERNATIVAS. CONFIRMAÇÃO DE LIMINAR DEFERIDA. RECURSO EM HABEAS CORPUS PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na espécie, o Magistrado de primeira instância decretou a custódia cautelar do acusado em virtude da gravidade da conduta, extraída do fato de o agente, em tese, haver causado danos ao patrimônio público e agredido um policial. Todavia, esse fundamento não se mostra bastante, em juízo de proporcionalidade, para manter o recorrente sob o rigor da cautela pessoal mais extremada, sobretudo porque ele é primário, tem ocupação lícita e endereço certo. Além disso, o decreto prisional não evidenciou a ocorrência de agressões exacerbadas ou circunstâncias que demonstrassem a especial periculosidade do réu ou o concreto risco de reiteração delitiva.
+3. Os argumentos apresentados, por si sós, não poderiam ensejar a imposição da prisão preventiva, se outras medidas menos invasivas se mostram suficientes e idôneas para os fins cautelares, especialmente para o objetivo de evitar a prática de novas infrações penais (art. 282, I, CPP).
+4. Recurso provido para substituir a prisão preventiva do recorrente pelas medidas cautelares previstas no art. 319, I, III e IV, do CPP.
+(RHC n. 182.625/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/8/2023, DJe de 17/8/2023).
+Ante o exposto, concedo a ordem de habeas corpus para, confirmando a liminar deferida, determinar a soltura do paciente, se por outro motivo não estiver preso, com a advertência de que deverá permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo da fixação de medidas cautelares alternativas pelo Juiz da causa, desde que de forma fundamentada.
+Publique-se. Intimem-se.
+EMENTA
