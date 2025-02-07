@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DARIO LUIZ VITALI e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO INTERLOCUTÓRIA QUE JULGOU IMPROCEDENTE IMPUGNAÇÀO AOS HONORÁRIOS PERICIAIS. INSURGÊNCIA DOS EXECUTADOS. PLEITO DE REDUÇÃO. NÃO ACOLHIMENTO. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. EXCESSO NÃO DEMONSTRADO. MONTANTE RAZOÁVEL E PROPORCIONAL AO VALOR DA CAUSA E À COMPLEXIDADE DO TRABALHO A SER DESENVOLVIDO PELO PERITO. DEMANDA QUE ENVOLVE A DISCUSSÃO DE 48 (QUARENTA E OITO) OPERAÇÕES QUE, EM VALORES ATUALIZADOS, SUPERAM 6 MILHÕES DE REAIS. VALOR DA HORA UTILIZADA PELO PERITO, ADEMAIS, INFERIOR AO PROPOSTO NA TABELA DA FEDERAÇÃO DOS CONTABILISTAS DO ESTADO DE SANTA CATARINA (FECONTESC). PRECEDENTES. DECISÃO ESCORREITA. RECURSO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO, COM EXCEÇÃO DO PEDIDO DE AFASTAMENTO DA MULTA POR EMBARGOS PROTELATÓRIOS. MANUTENÇÃO DA PENALIDADE, TODAVIA. NÍTIDO CARÁTER PROTELATÓRIO DOS EMBARGOS. POSSIBILIDADE DE FIXAÇÃO DE MULTA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do arts. 1.026, § 2º, do CPC, no que concerne à necessidade de afastamento da multa por embargos protelatórios, tendo em vista que os embargos de declaração foram opostos a fim de que o acórdão recorrido se manifestasse sobre ponto em que se manteve silente, trazendo a seguinte argumentação:
+Ocorre Excelências, que a multa não pode permanecer, na medida em que inexistente qualquer caráter protelatório nos embargos apresentados.
+Vejam que na decisão embargada o Des. Relator não emitiu qualquer juízo de valor acerca da tese levantada pela Recorrente sobre a condição financeira da Recorrente, de modo que os embargos de declaração foram opostos justamente para suprir tal omissão.
+ ..
+Excelências, mostra-se patente constatar que os aclaratórios opostos pela Recorrente se prestaram a corrigir uma omissão evidente, bem como foram os primeiros e únicos intentados nos autos do agravo de instrumento manejado na origem, razão pela qual não subsiste a multa imposta em face desta Recorrente.
+Portanto, feitas tais considerações, mister se faz reconhecer a violação ao artigo 1.026, §2º, do CPC, pela e. 5ª Câmara de Direito Comercial do TJSC, para o fim de afastar a multa por embargos protelatórios (fls. 138/151).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Transposta a questão da completa inadmissibilidade dos presentes embargos, não se pode deixar de verificar o intuito manifestamente protelatório, porquanto não há qualquer elemento, como esclarecido acima, que justifique o recurso de integração; os aclaratórios, no atual momento vivenciado, tem a denotação de redarguição e intuito de reapreciação das matérias já discutidas e julgadas. Um recurso de tanta importância, se tornou algo banal, como se fosse um segundo estágio da pretensão recursal.
+ ..
+Dentro desta interpretação, aplico ao embargante a multa prevista no art. 1.026, § 2º do CPC, no percentual de 2% (dois por cento) sobre o valor da causa, corrigido, justificando-se esse patamar, no manifesto intuito protelatório.
+Justifica-se a adoção do percentual em razão das particularidades da lide e da capacidade econômica da parte (que poderá suportar a penalidade), sem implicar no enriquecimento sem causa do recorrido, prejudicado pelo dano processual (o manejo injustificável de recurso) (fls. 76/77).
+Desse modo, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada no acórdão recorrido, quanto ao caráter protelatório dos embargos de declaração, exigiria a incursão no acervo fático-probatório dos autos, o que não é possível no Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a análise do art. 1.026, § 2º, do CPC, que trata da multa por interposição de embargos de declaração protelatórios, demanda, na espécie, reexame do acervo fático-probatório dos autos. Assim, inviável a apreciação da tese, sob pena de violação da Súmula 7/STJ". (AgInt no REsp 1.835.027/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 11.2.2020.)
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.528.731/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt nos EDcl no AREsp n. 1.138.645/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23.3.2018; AgRg no REsp n. 1.192.745/PE, Rel. Ministro Og Fernandes, Sexta Turma, DJe de 21.3.2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
