@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de VINICIUS EDUARDO DE BRITTO SIQUEIRA - denunciado como incurso nos crimes de receptação simples, adulteração de sinal identificador de veículo e corrupção de menores (Ação Penal n. 1500110-19.2024.8.26.0604) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2011404-77.2024.8.26.0000), não comporta acolhimento.
+Com efeito, busca a impetração o trancamento da ação penal em trâmite perante o Juízo de Direito da 2ª Vara da comarca de Sumaré/SP, ao argumento de nulidade da busca domiciliar realizada sem fundada suspeita.
+No entanto, do atento exame dos autos, observo que a busca domiciliar foi precedida de diligências policiais que lograram apreender, no veículo em que se encontrava o ora paciente,  ..  uma chave que se constatou ser do veículo furtado, conforme depoimento prestado (fl. 135), razão pela qual não verifiquei o alegado constrangimento.
+Destacou a Corte estadual que, após a abordagem do ora paciente e a localização da chave referida alhures, "no local o adolescente Renan Dias Marques, o qual estava dirigindo o veículo furtado, Honda CRV, este informou que os três indivíduos do veículo Gol o levaram até o bairro Cruzeiro, para buscar o veículo CRV, e conduzir o veículo Honda seguindo o veículo Gol, sem saber o destino para onde seria levado o veículo furtado", de modo que, em tese, a busca estaria embasada não apenas na palavra do adolescente, mas também em outros indícios, como o aparente vínculo do paciente com o adolescente e a localização de chave compatível com o veículo furtado, o que, a princípio, evidencia a justa causa para a busca domiciliar em razão de prática de crime permanente (fl. 136 - grifo nosso).
+Assim, afastar-se da fundamentação na qual se ampara o acórdão a quo acerca da busca domiciliar ensejaria profundo revolvimento de fatos e provas, providência indesejável na via eleita.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. RECEPTAÇÃO SIMPLES, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO E CORRUPÇÃO DE MENORES. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA (APREENSÃO DE PRODUTO DE CRIME). REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
