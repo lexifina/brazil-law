@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por BAALBEK COOPERATIVA HABITACIONAL.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. Sentença de procedência. Inconformismo da ré, pugnando pela aplicação do seu regimento interno ou, subsidiariamente, pela restituição de 25% dos valores recebidos, com correção monetária pelo INCC a partir da data da sentença, excluindo-se os juros de mora ou, alternativamente, incidindo-se estes a partir do trânsito em julgado. Desacolhimento. Relação tipicamente consumerista, implicando na aplicação do Código de Defesa do Consumidor. Intelecção da Súmula 602 do E. STJ. Ausência de informação adequada e clara acerca do prazo para a entregado imóvel, que não foi disponibilizado em tempo razoável. Violação do princípio da transparência (art. 6 º, III, do CDC) . Omissão quanto ao prazo de entrega que é prática abusiva vedada pelo art. 39, XII, do CDC. Resolução contratual que se deu por culpa da cooperativa, impondo a esta a devolução com o determinado na r. sentença, com correção monetária pela Tabela Prática deste E. TJSP, a partir de cada desembolso, e juros de mora de 1% desde a citação (art. 405 do Código Civil). Precedentes deste E. TJSP. Sentença mantida. Recurso não provido" (fl. 394 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 457 e-STJ).
+Nas razões do recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 121 e 127 do CC. Defende que não há falar em aplicabilidade irrestrita do CDC.
+Com as contrarrazões (fls. 466/474 e-STJ) e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+No caso dos autos, o tribunal de origem consignou:
+"Consta dos autos que, aos 06 de novembro de 2017, as partes firmaram o "Termo de Inscrição" e "Compromisso de Participação" de fl. 177, pelo qual a ora apelada se tornou sócia cooperada, objetivando a aquisição de uma casa cujo custo estimado referente ao mês de março de 2017 era de R$ 261.537,85. Alegando ausência de prazo para a conclusão e entrega do imóvel, a ora recorrida ingressou com esta demanda.
+(..)
+No caso em testilha, a ré não demonstrou que informou, de forma clara e adequada, a apelada sobre a entrega do imóvel. Pelo contrário, a requerida se limitou a sustentar a sujeição da autora às regras específicas das Cooperativas e sua ciência acerca das normas estatutárias e regimentais, sendo que estas não tratam com a devida clareza a respeito do prazo de entrega da unidade.
+Ademais, considera-se notório que a apelante extrapolou o limite as razoabilidade para a entrega do empreendimento, uma vez que a requerente assinou o termo de inscrição aos 06 de novembro de 2017 e, até o momento da propositura desta ação, sequer recebeu data de previsão da entrega" (fls. 396 /397 e-STJ).
+Desse modo, a pretensão recursal esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+Ademais, verifica-se que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior no sentido de aplicar as regras do Código de Defesa do Consumidor ao presente caso.
+A propósito:
+"CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. APLICAÇÃO DO CDC PARA EMPREENDIMENTOS IMOBILIÁRIOS DE COOPERATIVAS HABITACIONAIS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. COBRANÇA DE SALDO RESIDUAL. AUSÊNCIA DE DELIBERAÇÃO. INEXIGIBILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULA 211/STJ. AGRAVO INTERNO PROVIDO, EM RECONSIDERAÇÃO, PARA CONHECER DO AGRAVO E CONHECER PARCIALMENTE DO RECURSO E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Nos termos da jurisprudência desta Corte, "as normas de proteção aos direitos do consumidor são aplicáveis aos empreendimentos habitacionais promovidos pelas sociedades cooperativas, consoante o disposto na Súmula nº 602/STJ, havendo, portanto, responsabilidade solidária de todos os integrantes da cadeia produtiva ou de fornecimento do serviço, nos termos dos arts. 7º, parágrafo único, 14 e 34 do Código de Defesa do Consumidor" (AgInt no AREsp 1.581.700/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 13/8/2020).
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, os óbices das Súmulas 283 e 284 do STF.
+4. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento" (AgInt nos EDcl no AREsp n. 1.695.980/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPROMISSO DE COMPRA E VENDA. COOPERATIVA HABITACIONAL. LEGITIMIDADE PASSIVA. CONTEXTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. As normas de proteção aos direitos do consumidor são aplicáveis aos empreendimentos habitacionais promovidos pelas sociedades cooperativas, consoante o disposto na Súmula nº 602/STJ, havendo, portanto, responsabilidade solidária de todos os integrantes da cadeia produtiva ou de fornecimento do serviço, nos termos dos arts. 7º, parágrafo único, 14 e 34 do Código de Defesa do Consumidor.
+3. Hipótese em que o tribunal de origem deixou assentado que a recorrente participou efetivamente da cadeia de fornecimento do bem, de modo que eventual conclusão em sentido contrário dependeria do reexame do contexto fático-probatório dos autos, procedimento vedado pela Súmula nº 7/STJ.
+4. Agravo interno não provido" (AgInt no AREsp n. 1.581.700/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/8/2020, DJe de 13/8/2020.)
+Incide , na espécie, a Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
