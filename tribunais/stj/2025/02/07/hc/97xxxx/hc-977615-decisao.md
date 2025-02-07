@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de GIOVANI BARBOSA TORCIANO - condenado como incurso no crime de furto qualificado -, atacando-se o acórdão da apelação criminal proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 872/925), comporta parcial acolhimento.
+Com efeito, busca a impetração o redimensionamento da pena fixada - na condenação proferida na Ação Penal n. 0001885-98.2021.8.26.0071 (fls. 50/66 - da 1ª Vara Criminal da comarca de Bauru/SP) -, com o afastamento da exasperação para pena-base - assentando que a ausência de recuperação da res furtiva trata-se de consequência inerente aos delitos de ordem patrimonial, não podendo, portanto, ser fundamento válido para exasperar a pena na 1ª fase da dosimetria da pena (fl. 12) -, além do abrandamento do regime inicial e substituição da reprimenda por alternativas.
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 6/8/2024 (fl. 1.064 do AREsp n. 2.665.157/SP), o que afasta a competência desta Corte Superior para análise do pleito.
+Entretanto, tem-se que há ilegalidade na primeira fase da dosimetria (quanto ao Fato 2 - fls. 920/921), porque a não devolução, à vítima, dos bens furtados é elemento intrínseco do tipo penal do crime de furto, de maneira que não pode ser utilizado para justificar a exasperação da pena-base a título de circunstância judicial negativa (consequências do crime).
+Necessário, então, redimensionar a pena imposta: na primeira fase quanto ao Fato 2, afastada a negativação das consequências do delito, tem-se a pena-base fixada no mínimo legal, em 2 anos de reclusão e 10 dias-multa. Sem alterações nas fases seguintes (fl. 921). Considerando o crime continuado, aplica-se a pena do delito mais grave (Fato 3 - 2 anos e 4 meses de reclusão, e 11 dias-multa - fls. 61/62), aumentada em 1/6 (fl. 63), tem-se a pena definitiva em 2 anos, 8 meses e 20 dias de reclusão, e 13 dias-multa.
+Finalmente, considerando a pena fixada e existência de circunstância judicial negativa, tem-se que não há ilegalidade na fixação do regime inicial semiaberto e indeferimento da substituição da pena.
+Em razão disso, concedo liminarmente a ordem impetrada, em parte, apenas para redimensionar a pena imposta ao paciente para 2 anos, 8 meses e 20 dias de reclusão, e 13 dias-multa, mantido o regime inicial semiaberto, referente à condenação proferida na Ação Penal n. 0001885-98.2021.8.26.0071, da 1ª Vara Criminal da comarca de Bauru/SP.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. CONSEQUÊNCIAS. NÃO DEVOLUÇÃO DO BEM. ELEMENTO INTRÍNSECO AO TIPO PENAL. IMPOSSIBILIDADE. REGIME INICIAL AGRAVADO E INDEFERIMENTO DE SUBSTITUIÇÃO DA PENA. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVADA. POSSIBILIDADE. CONSTRANGIMENTO PARCIAL EVIDENCIADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
