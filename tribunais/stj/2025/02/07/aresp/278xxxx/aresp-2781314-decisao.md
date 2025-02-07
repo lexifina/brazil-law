@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DANIEL SANTOS DA CONCEIÇÃO contra a decisão do Tribunal de origem que, no exame prévio de admissibilidade, inadmitiu o recurso especial pelos seguintes fundamentos (fls. 463-470):
+Assim, o pleito do recorrente de infirmar as conclusões do acórdão recorrido, com o fito de que seja reduzida a indenização a título de reparação de danos morais, demandaria, necessariamente, a indevida incursão no acervo fático-probatório delineado nos autos, providência que se revela inviável, nos termos da Súmula 7, do Superior Tribunal de Justiça, vazada nos seguintes termos: SÚMULA 7: A pretensão de simples reexame de prova não enseja recurso esp ecial.
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido (fls. 474-479):
+Equivocou-se na decisão agravada, a Corte de Justiça do Estado da Bahia ao aplicar o enunciado n. 7 da Súmula desta Corte Superior, visto que o pleito principal, com base no art. 386, VII do CPP , absolvição decorrente da inidoneidade dos meios de prova não afronta o preceito da súmula 7 do STJ. A discussão versa apenas sobre a valoração conferida aos fatos postos nos autos, e a consequência jurídica que deles se extrai, sem, contudo, controvertê-los. Em outros termos, o que se pretende mediante a interposição do Recurso Especial é conferir interpretação jurídica diversa daquela que fora utilizada para fundamentar, equivocadamente, a condenação. Não há, portanto, qualquer pretensão ao revolvimento fático-probatório.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada às fls. 456-461.
+Parecer do Ministério Público Federal opinando pelo não provimento do recurso especial, nos termos da seguinte ementa (fl. 515):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR. CONDENAÇÃO PARA REPARAÇÃO DO DANO. PEDIDO EXPRESSO NA DENÚNCIA. PROPORCIONAL. ANÁLISE DA HIPOSSUFICIÊNCIA INVIÁVEL EM RESP. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+A conclusão da instância de origem pela inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo a reforma do acórdão recorrido, visando à redução da indenização por danos morais, ao argumento de que o valor fixado é desproporcional.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de desconstituir os elementos probatórios considerados pelo Tribunal de origem para manter a condenação por danos morais, o qual destacou que (fl. 424, grifei):
+O juiz de piso fundamentou adequadamente a sua decisão considerando a extrema gravidade dos fatos e as consequências graves do delito, fixando a indenização mínima no valor de R$ 30.000,00 (trinta mil reais) a ser pago aos descendentes da vítima falecida e de R$ 10.000,00 (dez mil reais) à vítima sobrevivente, a título de danos morais, o que se mostra razoável.
+Constou da sentença que (fls. 292-293, grifei):
+O dano moral decorre de grave sofrimento psicológico, traumas ou desequilíbrio emocional causados aos filhos e familiares das vítimas, situação que vai além do mero aborrecimento ou dissabor inerentes à vida em sociedade.
+In casu, está configurada situação fática ensejadora de reparação a título de danos morais, em razão dos crimes de homicídio e lesão corporais perpetradas pelo acusado.
+ ..
+Por certo que a morte violenta de um indivíduo, matriarca de uma família, em boas condições de saúde, abala o seio familiar, trazendo sofrimento a todos aqueles que ainda podiam desfrutar de sua presença e companhia. Também as lesões corporais sofridas pela outra vítima foram graves e lhe trouxe grandes sacrifícios, com abalo psicológico evidente e a demora em sua recuperação, que segundo relatou, sofreu por cerca de quatro anos.
+ ..
+Diante da impossibilidade de uma indenização pecuniária que compense integralmente a ofensa ao bem ou interesse jurídico lesado, a solução é uma reparação com natureza satisfatória, que não guardará uma relação de equivalência precisa com o prejuízo extrapatrimonial, mas que deverá ser pautada pela equidade.
+Assim, para a concreção individualizadora, adoto a gravidade do fato em si, a intensidade do sofrimento das vítimas, a culpabilidade do agente responsável e a condição econômica, social das partes envolvidas.
+O acidente ocorreu de modo bastante violento, sem condições de fuga para as vítimas, tendo o réu agido de modo bastante indiferente ao seu dever objetivo de cuidado, apresentando um alto grau de culpa na produção do resultado. Por outro lado, as vítimas e o acusado são pessoas do mesmo extrato social, cujas condições econômicas demonstradas nos autos revelam tratar-se de pessoas de classe média, sem ostentação fazendária.
+ ..
+O réu trabalha como motorista de aplicativo e ao tempo do fato era menor de 21 (vinte e um) anos. Feitas essas considerações, ainda é importante assinalar que a fixação de indenização por danos morais e materiais disposta no art. 387, IV do CPP, apenas tem em mente um valor mínimo indenizatório, não correspondendo à integralidade do dano sofrido.
+ ..
+A par do exposto, considerando a extrema gravidade dos fatos, as consequências graves do delito, como registrado na primeira fase da dosimetria penal, entendo razoável para indenização mínima o valor de R$ 30.000,00 (trinta mil reais) a ser pago aos descendentes da vítima falecida e de 10 (dez mil reais) à vítima sobrevivente, a título de danos morais.
+No caso, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Co nstituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639/MG, relator Ministro Antõnio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO E LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
