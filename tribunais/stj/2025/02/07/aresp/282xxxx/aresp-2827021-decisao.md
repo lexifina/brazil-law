@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  Mercosul  Line  Navegação  e  Logística  Ltda.,  desafiando  decisão  da vice-Presidência  do  Tribunal  Regional  Federal  da  2ª  Região,  que  não  admitiu  recurso  especial  com  base  no  seguinte  fundamento:  aplicação  da  Súmula  07/STJ,  pois  "alterar  as  conclusões  em  que  se  assentou  o  acórdão,  para  se  rediscutir  o  critério  valorativo  da  prova  do  processo,  implicaria  em  reexaminar  o  seu  conjunto  fático-probatório,  o  que,  como  visto,  é  vedado,  ante  os  limites  processuais  estabelecidos  para  o  recurso  interposto"  (fl.  166).
+A  agravante,  em  síntese,  alega  que  " o  processamento  do  presente  recurso  especial  definitivamente  não  demanda  a  revisão  do  conjunto  fático-probatório,  o  que  afasta,  de  antemão,  qualquer  tentativa  da  Agravada  de  induzir  V.  Exa.  em  erro  no  que  se  refere  à  aplicação  da  Súmula  nº  07  do  E.  STJ"  (fl.  187).
+Contraminuta às fls. 204/208.
+É  o  relatório.
+Verifica-se  que  o  inconformismo  não  ultrapassa  a  barreira  do  conhecimento,  pois  a  parte  agravante  não  impugnou  os  motivos  adotados  pelo  Tribunal  de  origem  para  negar  trânsito  ao  apelo  especial.
+Com  efeito,  apesar  de  afirmar,  genericamente,  que  " o  processamento  do  presente  recurso  especial  definitivamente  não  demanda  a  revisão  do  conjunto  fático-probatório,  o  que  afasta,  de  antemão,  qualquer  tentativa  da  Agravada  de  induzir  V.  Exa.  em  erro  no  que  se  refere  à  aplicação  da  Súmula  nº  07  do  E.  STJ"  (fl.  187,  a  parte  agravante  não  declinou  os  motivos  pelos  quais,  no  seu  entender,  o  óbice  apontado  pela  Corte  de  origem  não  seria  aplicável  ao  caso  concreto,  limitando-se,  então,  a  repetir  a  argumentação  adotada  no  bojo  das  razões  do  apelo  especial.
+Em  outras  palavras,  o  agravo  deixou  de  rebater,  de  modo  específico,  o  fundamento  adotado  pela  decisão  agravada,  o  que  atrai  a  incidência,  por  analogia,  da  Súmula  182/STJ  ("É  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  recorrida.").
+ANTE  O  EXPOSTO,  nos  termos  do  art.  932,  III,  do  CPC,  não  conheço  do  agravo.
+Publique-se.
+EMENTA
