@@ -1,0 +1,180 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5024088-09.2024.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TELEFONICA BRASIL S.A.
+RECORRIDO: MICHELL RONCETE DE BORTOLI
+RELATOR(A):
+RAFAEL FRACALOSSI MENEZES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. TELEFONIA. FALHA NA PRESTAÇÃO DE SERVIÇO. AUSÊNCIA DE FUNCIONAMENTO LINHA TELEFÔNICA. INDENIZAÇÃO POR DANOS MORAIS. RECURSO CONHECIDO E NÃO PROVIDO.
+
+CASO EM EXAME
+
+1. Recurso que busca a improcedência dos pedidos autorais, sustentando ausência de falha na prestação de serviço de telefonia. Subsidiariamente, requer a redução da indenização por danos morais estabelecida pelo juízo sentenciante.
+
+QUESTÃO EM DISCUSSÃO
+
+2. Existência de falha na prestação de serviço pela empresa. Configuração de danos morais.
+
+RAZÕES DE DECIDIR
+
+3. Ausência de comprovação do devido fornecimento do serviço de telefonia móvel e internet.
+
+4. Responsabilidade da empresa pelos prejuízos sofridos pelo consumidor em decorrência da falha na prestação do serviço.
+
+5. Condenação da empresa ao pagamento de indenização por danos morais em favor do consumidor, com valores mantidos por serem adequados nos termos do Enunciado 32 do Sistema dos Juizados Especiais do Estado do Espírito Santo.
+
+DISPOSITIVO E TESE
+
+6. Recurso conhecido e não provido.
+
+Tese de julgamento: Cabe à empresa fornecedora comprovar a devida prestação do serviço contratado pelo consumidor. Condenação da recorrente ao pagamento de compensação por danos morais.
+
+Dispositivos relevantes citados:
+
+Código de Defesa do Consumidor; art. 6º, VIII.
+
+Jurisprudência relevante citada: TJ-SP - APL: 10041423720168260077 SP 1004142-37.2016.8.26.0077, Relator: Henrique Rodriguero Clavisio, Data de Julgamento: 04/07/2017, 18ª Câmara de Direito Privado, Data de Publicação: 04/07/2017.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+ESTADO DO ESPÍRITO SANTO
+
+PODER JUDICIÁRIO
+
+COLÉGIO RECURSAL DOS JUIZADOS ESPECIAIS
+
+TERCEIRA TURMA RECURSAL
+
+PJE - RECURSO INOMINADO Nº 5024088-09.2024.8.08.0024
+
+RECORRENTE: TELEFONICA BRASIL S.A.
+
+RECORRIDO: MICHELL RONCETE DE BORTOLI
+
+JUÍZA SENTENCIANTE: DRA. CHRISTINA ALMEIDA COSTA
+
+JUIZ RELATOR: DR. RAFAEL FRACALOSSI MENEZES
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. TELEFONIA. FALHA NA PRESTAÇÃO DE SERVIÇO. AUSÊNCIA DE FUNCIONAMENTO LINHA TELEFÔNICA. INDENIZAÇÃO POR DANOS MORAIS. RECURSO CONHECIDO E NÃO PROVIDO.
+
+CASO EM EXAME
+
+1. Recurso que busca a improcedência dos pedidos autorais, sustentando ausência de falha na prestação de serviço de telefonia. Subsidiariamente, requer a redução da indenização por danos morais estabelecida pelo juízo sentenciante.
+
+QUESTÃO EM DISCUSSÃO
+
+2. Existência de falha na prestação de serviço pela empresa. Configuração de danos morais.
+
+RAZÕES DE DECIDIR
+
+3. Ausência de comprovação do devido fornecimento do serviço de telefonia móvel e internet.
+
+4. Responsabilidade da empresa pelos prejuízos sofridos pelo consumidor em decorrência da falha na prestação do serviço.
+
+5. Condenação da empresa ao pagamento de indenização por danos morais em favor do consumidor, com valores mantidos por serem adequados nos termos do Enunciado 32 do Sistema dos Juizados Especiais do Estado do Espírito Santo.
+
+DISPOSITIVO E TESE
+
+6. Recurso conhecido e não provido.
+
+Tese de julgamento: Cabe à empresa fornecedora comprovar a devida prestação do serviço contratado pelo consumidor. Condenação da recorrente ao pagamento de compensação por danos morais.
+
+Dispositivos relevantes citados:
+
+Código de Defesa do Consumidor; art. 6º, VIII.
+
+Jurisprudência relevante citada: TJ-SP - APL: 10041423720168260077 SP 1004142-37.2016.8.26.0077, Relator: Henrique Rodriguero Clavisio, Data de Julgamento: 04/07/2017, 18ª Câmara de Direito Privado, Data de Publicação: 04/07/2017.
+
+RELATÓRIO
+
+Em síntese, o autor discorre que solicitou em 29/04/2024 a alteração de seu plano telefônico firmado junto à requerida referente ao número (27) 98839-5231. No entanto, no mesmo dia, após as 17h, a linha foi interrompida. Em contato com a requerida, foi informado, por e-mail, que a linha havia sido cancelada, sendo necessário comparecer a uma loja física para reativação. Tal exigência mostrou-se inviável, uma vez que o autor, médico, encontrava-se em plantão nos dias 29 e 30/04/2024.
+
+Discorre que no dia 30/04/2024 compareceu à loja da requerida e solicitou a reativação da linha, sem sucesso, permanecendo quatro dias sem o serviço. A linha foi reativada apenas em 02/05/2024, porém vinculada ao plano antigo, frustrando a solicitação inicial. Diante disso, requer compensação a título de dano moral.
+
+Ao fim, o juízo sentenciante assim decidiu:
+
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a demanda autoral, resolvendo o mérito na forma do artigo 487, inciso I do CPC/15, pelo que CONDENO a reclamada a pagar ao Autor o valor de R$ 3.000,00 (três mil reais) a título de indenização por dano moral, valor que deverá ser corrigido monetariamente com base no índice INPC-IBGE, utilizado pela CGJ-ES, a contar do arbitramento (Súmula 362, STJ) e acrescido de juros legais de 1% (um por cento) ao mês a partir da citação (29/07/2024).
+
+Nas razões recursais, a parte requerida sustenta ausência de falha na prestação dos serviços, com a conseguinte ausência de configuração de dano moral indenizável ou – subsidiariamente – a sua redução. Portanto, requer a improcedência dos pedidos exordias ou a redução da indenização fixada.
+
+PROJETO DE VOTO
+
+Conheço do recurso, somente em seu efeito devolutivo, uma vez que preenchidos os pressupostos de admissibilidade previstos no art. 42 e seu § 1º, da Lei n° 9.099/95.
+
+Analisando os autos processuais, entendo que as razões recursais não merecem prosperar.
+
+Considerando que a relação jurídica de direito material vertida nos autos é nitidamente de consumo, cabe à recorrente, conforme disposto no artigo 6º, inciso VIII, do Código de Defesa do Consumidor, a comprovação da ausência de falha na prestação do serviço e a legalidade da suspensão do serviço de telefonia do recorrido.
+
+Analisando os autos processuais e as provas produzidas pelas partes, restou evidenciada a falha na prestação de serviço pela recorrente, tendo em vista a comprovação de indevida suspensão da linha telefônica do consumidor e demora no reparo da celeuma.
+
+Tal situação torna evidente a existência de dano moral indenizável.
+
+Isso pois, considerando o defeito na prestação de serviço, o abalo financeiro e psicológico vivenciado pelo consumidor, entendo que os fatos narrados na exordial superam o mero aborrecimento cotidiano, configurando violação aos direitos da personalidade da parte recorrida, que faz jus a compensação por danos morais – principalmente considerando a importância do acesso à internet e telefonia na vida cotidiana.
+
+Nesse sentido dispõe a jurisprudência do e. Tribunal de Justiça de São Paulo:
+
+Indenização – Danos materiais e morais - Prestação de serviço – Telefonia e internet - IP Fixo (acesso à internet e telefonia fixa residencial) – Defeito – Falha de habilitação – Nexo evidenciado - Ressarcimento devido com restituição do valor mensalidade – Dano moral – Transtornos, dissabores e desconforto moral passível de compensação - Damnum in re ipsa – Indenização devida – Valor – Fixação em observância aos princípios da razoabilidade e proporcionalidade - Sentença mantida – RITJ/SP, artigo 252 - Assento Regimental nº 562/2017, art. 23. Recursos não providos. (TJ-SP - APL: 10041423720168260077 SP 1004142-37.2016.8.26.0077, Relator: Henrique Rodriguero Clavisio, Data de Julgamento: 04/07/2017, 18ª Câmara de Direito Privado, Data de Publicação: 04/07/2017).
+
+Assim sendo, coaduno com o entendimento proferido pelo juízo
+a quo
+, nos mesmos termos:
+
+No caso dos autos, a Requerida possui amplo acesso às provas e é detentora dos recursos técnicos necessários para comprovar o correto cumprimento de suas obrigações, tal como preceitua o art. 14, §3º, I, CDC. Ao tecer considerações genéricas pelos fatos alegados, sem carrear aos autos as provas capazes de excluir a responsabilidade pela falha apontada (como, por exemplo, as gravações e o conteúdo das solicitações realizadas no bojo dos protocolos informados), a Ré descumpre com o ônus probatório que lhe compete. Portanto, entendo evidenciada a falha da prestação de serviço (art. 14 do CDC), consubstanciada no cancelamento indevido da linha do Autor. Quanto a pretensão da fixação de indenização por danos morais, verifico que assiste razão a parte consumidora. A interrupção inesperada e injustificada de serviço essencial para o cotidiano comprometeu não apenas os interesses pessoais da parte Autora, que ficou impossibilitada de receber ligações da sua família, mas também gerou riscos à sua comunicação no âmbito profissional. Além disso, o consumidor amargou a perda de tempo útil para buscar a solução da problemática, sem qualquer sucesso.
+
+Evidenciado o dano moral suportado, passo ao arbitramento do seu quantum, atendendo aos seus critérios balizadores (gravidade da conduta, extensão do dano, porte econômico da Requerida e condição socioeconômica da Requerente) e observando, além disso, os princípios da razoabilidade e da proporcionalidade e as funções exercidas pelo arbitramento dos danos morais (punitivo-exemplar e compensatória).
+
+No tocante ao
+quantum
+indenizatório, apesar de o Código Civil não estabelecer critérios específicos para a fixação da indenização por danos morais, a doutrina e a jurisprudência brasileira têm utilizado 4 (quatro) critérios principais: 1) gravidade do dano; 2) grau de culpa do ofensor; 3) capacidade econômica da vítima; 4) capacidade econômica do ofensor.
+
+Destarte, o montante indenizatório deve ser estabelecido de acordo com a capacidade econômica das partes, bem como os princípios da razoabilidade e da proporcionalidade, considerando o caráter punitivo-pedagógico, no sentido de reparar o dano, inibir eventuais e futuros atos danosos, e, simultaneamente, não causar enriquecimento ilícito da parte indenizada.
+
+Assim, considerando que o montante indicado pelo juízo
+a quo
+não se mostra exorbitante ou irrisório, entendo por mantê-lo inalterado, na forma do Enunciado 32 do Sistema dos Juizados Especiais do Estado do Espírito Santo, que assim dispõe: “a revisão dos valores do dano moral em sede de recurso inominado estará autorizada quando constatado que o montante fixado em sentença é exorbitante ou irrisório”.
+
+Dessa forma, entendo que a sentença impugnada deve ser mantida pelos seus próprios fundamentos na forma do Enunciado número 11 das Turmas Recursais: “A sentença poderá ser mantida pelos seus próprios fundamentos, a teor do que dispõe o artigo 46 da Lei n° 9.099/95, sem a necessidade de nova fundamentação jurídica”.
+
+DISPOSITIVO
+
+Por todo exposto,
+CONHEÇO
+do recurso interposto e
+NEGO-LHE PROVIMENTO
+, pois a r. sentença não merece reparos, devendo ser mantida integralmente por seus próprios fundamentos, conforme dispõe o Enunciado nº 11 da jurisprudência do Colegiado Recursal e o art. 46 da Lei n° 9099/95.
+
+Na forma do art. 55 da Lei n° 9.099/95, condeno a parte recorrente ao pagamento das custas processuais e de honorários advocatícios sucumbenciais, que fixo em 20% (vinte por cento) sobre o valor da condenação e, caso inexistir, sobre o valor atualizado da causa.
+
+É como voto.
+
+Submeto o projeto de voto à apreciação para homologação, nos termos do art. 40 da Lei n° 9.099/95.
+
+MARIA ANGELA MARTINS PEIXOTO
+
+Juíza Leiga
+
+Homologo o projeto de voto apresentado pela Juíza Leiga, na forma do art. 40 da Lei n° 9.099/95.
+
+RAFAEL FRACALOSSI MENEZES
+
+Juiz de Direito Relator
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
