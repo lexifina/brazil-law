@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOSE QUEIROZ FACANHA JUNIOR contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ no julgamento do Habeas Corpus n. 0624850-90.2024.8.06.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante, em 7/9/2023, posteriormente convertido em prisão preventiva, e denunciado pela suposta prática dos crimes tipificados nos arts. 180, caput, do Código Penal - CP, 33 da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2003.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado (fls. 57/58):
+"HABEAS CORPUS. PENAL E PROCESSUAL PENAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS, PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO E RECEPTAÇÃO (ART. 33 DA LEI Nº 11.343/2006 C/C ART. 16 DA LEI N. 10.826/2003 E ART. 180, CAPUT, DO CÓDIGO PENAL BRASILEIRO). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. PLEITO DE SOLTURA. 1. TESE DE CARÊNCIA DE FUNDAMENTAÇÃO E AUSÊNCIA DOS REQUISITOS DO DECRETO PRISIONAL, ALÉM DE NULIDADE DA PRISÃO POR INVASÃO DE DOMICÍLIO. NÃO CONHECIMENTO. REPETIÇÃO DE ALEGAÇÕES E PEDIDOS. MATÉRIAS JÁ ANALISADAS EM HABEAS CORPUS ANTERIOR DE Nº 0635857-16.2023.8.06.0000. COISA JULGADA. AUSÊNCIA DE FATO NOVO IDÔNEO A JUSTIFICAR O REEXAME DAS MATÉRIAS. 2. TESE DE AFRONTA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. NÃO ACOLHIMENTO. PRISÃO FUNDAMENTADA NA NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA, ANTE A GRAVIDADE CONCRETA DO DELITO E RISCO DE REITERAÇÃO DELITIVA. PRISÃO PREVENTIVA COMPATÍVEL COM O PRINCÍPIO DA NÃO CULPABILIDADE E DA PRESUNÇÃO DE INOCÊNCIA. PRECEDENTES. INEXISTÊNCIA DE CONSTRAGIMENTO ILEGAL. 3. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INOCORRÊNCIA. AUSÊNCIA DE DESÍDIA DA AUTORIDADE IMPETRADA. INEXISTÊNCIA DE ILEGALIDADE IDÔNEA A JUSTIFICAR A CONCESSÃO DA ORDEM. MAGISTRADO QUE RATIFICOU O RECEBIMENTO DA DENÚNCIA E DETERMINOU A DESIGNAÇÃO DE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA RAZOABILIDADE. PRAZOS PARA ENCERRAMENTO DA INSTRUÇÃO CRIMINAL NÃO SÃO ABSOLUTOS. CONSTRANGIMENTO ILEGAL NÃOEVIDENCIADO. NO ENTANTO, DE BOM ALVITRE RECOMENDAR AO JUÍZO DE ORIGEM QUE ADOTE AS PROVIDÊNCIAS NECESSÁRIAS PARA DESIGNAÇÃO DA AUDÊNCIA DE INSTRUÇÃO E JULGAMENTO, COM A MAIOR BREVIDADE POSSÍVEL. ORDEM PARCIALMENTE CONHECIDA E, NA EXTENSÃO COGNOSCÍVEL, DENEGADA, COM RECOMENDAÇÃO."
+No presente recurso, a defesa alega que o recorrente encontra-se acautelado há mais de 250 dias, sem que tenha sido iniciada a instrução criminal, a ponto de restar configurado excesso de prazo na formação da culpa.
+Requer, assim, a concessão da ordem para que seja revogada a prisão preventiva.
+O pedido de liminar foi indeferido (fls. 101/102).
+Informações prestadas pelas instâncias de origem às fls. 108/110 e 117/120.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso ou, no mérito, pelo seu desprovimento (fls. 126/130).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, das informações informações prestadas, verifica-se que foi proferida sentença condenando o recorrente à pena de 8 anos, 4 meses e 15 dias de reclusão, no regime inicial fechado, e 553 dias-multa, pela prática dos crimes previstos nos arts. 33 da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2003.
+Assim, resta superada a alegação de excesso de prazo na formação da culpa, incidindo-se ao caso a Súmula n. 52 deste Superior Tribunal de Justiça, que prevê:
+"Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Com igual orientação:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. NULIDADE DAS QUALIFICADORAS. AUSÊNCIA DE MANIFESTAÇÃO DO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INDEFERIMENTO DE APRESENTAÇÃO DO ROL DE TESTEMUNHAS E EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. AGRAVO DESPROVIDO.
+1. Com relação à nulidade da pronúncia quanto ao reconhecimento das qualificadoras dos incisos III e IV do § 2º do art. 121 do CP, por ausência de correlação entre os fatos contidos na denúncia e a decisão de pronúncia, verifica-se da análise dos autos, que o acórdão atacado tão somente tratou da questão da qualificadora do motivo torpe, não tendo as matérias sido analisadas no julgamento pelo Tribunal de origem, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância.
+2. Quanto à alegação de nulidade da decisão que determinou a preclusão para a apresentação do rol de testemunhas, convém registar que, em consulta ao sítio eletrônico do Tribunal de Justiça, observa-se que o paciente foi condenado à pena de 9 anos de reclusão, em regime fechado, em 7/6/2023. Assim, esta Corte Superior de Justiça possui julgados no sentido de que a a superveniência de sentença penal condenatória pelo Tribunal do Júri prejudica o exame de eventual nulidade da sentença de pronúncia ou daquelas ocorridas antes dela.
+3. A superveniência da sentença condenatória prejudica qualquer alegação referente ao excesso prazo para a formação da culpa. Incidência da Súmula n. 52 desta Corte Superior.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 823.907/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Ante o exposto, com fundamento no art. 34, XX, c/c o art. 202, c/c o art. 246, todos do Regimento Interno do Superior Tribunal de Justiça - RISTJ, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
