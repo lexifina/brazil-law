@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Social - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 481):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DE SALDO COMPLEMENTAR. PRECLUSÃO AFASTADA. A execução teve início antes da definição dos índices pelo STF e pelo STJ, de modo que no momento em que apresentado o cálculo não havia ainda definição sobre o tema. Depois de expedidos os alvarás de levantamento dos valores, não foi prolatada sentença de extinção do feito pelo pagamento integral da dívida, razão pela qual, resta afastada a preclusão, sendo admissível o prosseguimento do feito com a correção do julgado. A correção monetária incidirá a contar do vencimento de cada prestação e será calculada pelo INPC a partir de 4/2006 (Lei 11.430/06, que acrescentou o artigo 41-A à Lei 8.213/91), conforme decisão do STF no RE 870.947 (Tema 810).
+Opostos embargos de declaração, foram rejeitados (fl. 500)
+Aponta o recorrente, nas razões do apelo especial, violação aos arts. 316, 502, 503, 505, 924, II, 925 e 927, III e 1.022, II, do CPC, sustentando, além de negativa de prestação jurisdicional, a "Impossibilidade de reconhecimento do direito do exequente a cobrar valores complementares/residuais que entende devidos, após o cumprimento de sentença ter sido extinto por sentença com trânsito em julgado, contrariando a norma processual e a jurisprudência desse E. STJ (Tema 289)" (fl. 508).
+Afirma que, "Ao julgar o recurso, o órgão fracionário do E. Tribunal local reconheceu a possibilidade de a parte autora executar valores complementares, mesmo após o feito ter sido extinto por sentença que reconheceu o cumprimento da obrigação (pagamento), a qual já transitou em julgado" (fl. 508).
+Aduz que, "O acórdão recorrido reconheceu a possibilidade de a parte autora cobrar as diferenças decorrentes da correção monetária sobre os valores pagos em atraso - Tema 810 do STF, muito embora já tenha sido satisfeita a obrigação e extinto o processo de execução. Ocorre que esse entendimento não se coaduna com o posicionamento consagrado pelo E. Superior Tribunal de Justiça que, em recurso afetado como repetitivo, definiu que não é legitima a reabertura da execução após sua extinção por sentença com trânsito em julgado" (fl. .509)
+Alega, que "a tese acima mencionada, firmada pelo STJ e confirmada recentemente, é clara e objetiva, não deixando margem para qualquer discussão acerca da impossibilidade de abertura superveniente da execução após o trânsito em julgado da sentença extintiva" (fl. 509).
+Ao final, "requer-se o provimento do presente recurso para reformar o acórdão vergastado a fim de julgar improcedente o pedido de execução de valores complementares, após a extinção da execução, aplicando-se assim o entendimento firmado no Tema 289 do STJ ( REsp 1.143.471/PR)" (fl. 511).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 516/534.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO .
+A irresignação não comporta acolhida
+De início, não se vislumbra na hipótese vertente que o v. acórdão recorrido padeça de qualquer dos vícios descritos no art. 1.022, II, do CPC. Com efeito, o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado.
+A propósito, observa-se que o Colegiado a quo se manifestou expressamente acerca dos temas necessários à integral solução da lide; não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte. O julgado abordou as questões apresentadas pelas partes de modo consistente a formar e demonstrar seu convencimento bem como elucidou as suas razões de decidir de maneira clara e transparente, não se vislumbrando a alegada violação legal.
+No caso, debate-se pedido complementar de cumprimento de sentença para o pagamento do saldo complementar referente à aplicação do Tema n. 810/STF, com cálculo que deverá levar em conta o Tema n. 96/STF.
+O Juízo de primeiro, em sede de execução de sentença, indeferiu o pedido de reativação do processo para prosseguimento da parcela relacionada ao índice de correção monetária após o julgamento do Tema n. 810/STF.
+Por oportuno, eis os fundamentos adotados no julgamento do agravo de instrumento (fls. 459/460::
+Trata-se de agravo de instrumento, com pedido liminar, interposto contra decisão que, em fase de cumprimento de sentença contra a Fazenda Pública indeferiu pedido de execução de saldo complementar relativo à correção monetária (evento 1, DOC4, p. 22-23).
+Sustenta o agravante, em suma, que a requisição de pagamento ocorreu em data anterior ao trânsito em julgado do Tema 810, em 03/03/2020 no RE 870947 pelo STF.
+Requer seja determinada a reabertura da execução complementar de sentença, em razão do Tema 810 do STF.
+É o relatório. Decido.
+Cuida-se de execução complementar em que requer a apuração das diferenças decorrentes do julgamento do Tema 810.
+Observo que, no caso, o acórdão transitado em julgado diferiu para a fase de cumprimento de sentença a forma de cálculo dos consectários legais, determinando que se adotasse inicialmente o índice da Lei 11.960/2009 (evento 1, DOC2 , p. 189-190).
+Transitado em julgado, o INSS apresentou os cálculos utilizando a TR em 11/04/2017 ( evento 1, DOC2  , p. 199) com o que concordou a parte autora ( evento 1, DOC2  , p. 226).
+O Plenário do Supremo Tribunal Federal concluiu o julgamento, em regime de repercussão geral, do Tema 810 (RE 870.947), cuja ata foi publicada no DJe n. 216, no dia 22/09/2017 e acórdão foi publicado em 20-11-2017.
+Posteriormente, em 22/02/2018, a Colenda 1ª Seção do STJ julgou o Tema 905 (REsp mº 1.495.146 - MG, Rel. Min. Mauro Campbell Marques, DE 02/03/2018), adotando o INPC em relação aos benefícios de natureza "previdenciária".
+O Pleno do Supremo Tribunal Federal concluiu o julgamento do RE 870.947 (Tema 810) em sessão de 03.10.2019 e, por maioria, rejeitou todos os embargos de declaração e não modulou os efeitos da decisão anteriormente proferida.
+Ocorre que no caso, da consulta aos autos na origem, vê-se que a execução teve início antes da definição dos índices pelo STF e pelo STJ, de modo que no momento em que apresentado o cálculo, de fato não havia ainda definição sobre o tema.
+Além disso, não foi prolatada sentença de extinção do feito pelo pagamento integral da dívida.
+Portanto, entendo que resta afastada a preclusão, sendo, portanto, admissível o prosseguimento do feito com a correção do julgado na seguinte forma:
+(..)
+Conforme constatado pela instância de origem, não houve anterior declaração, por sentença, de satisfação do crédito e extinção da execução, termos dos arts. 316, 924, II, e 925 do CPC. Na verdade, o Juiz de primeiro grau somente proferiu esse decisum no momento em que apreciou o pedido de complementação manejado pela parte autora.
+Nessa linha, o Tribunal de origem, com base no conjunto probatório dos autos, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fls. 479/480):
+Trata-se de agravo de instrumento, com pedido liminar, interposto contra decisão que, em fase de cumprimento de sentença contra a Fazenda Pública indeferiu pedido de execução de saldo complementar relativo à correção monetária (evento 1, DOC4, p. 22-23).
+Sustenta o agravante, em suma, que a requisição de pagamento ocorreu em data anterior ao trânsito em julgado do Tema 810, em 03/03/2020 no RE 870947 pelo STF. Requer seja determinada a reabertura da execução complementar de sentença, em razão do Tema 810 do STF.
+(..)
+Cuida-se de execução complementar em que requer a apuração das diferenças decorrentes do julgamento do Tema 810.
+Observo que, no caso, o acórdão transitado em julgado diferiu para a fase de cumprimento de sentença a forma de cálculo dos consectários legais, determinando que se adotasse inicialmente o índice da Lei 11.960/2009 (evento 1, DOC2 , p. 189-190).
+Transitado em julgado, o INSS apresentou os cálculos utilizando a TR em 11/04/2017 ( evento 1, DOC2  , p. 199) com o que concordou a parte autora ( evento 1, DOC2  , p. 226).
+O Plenário do Supremo Tribunal Federal concluiu o julgamento, em regime de repercussão geral, do Tema 810 (RE 870.947), cuja ata foi publicada no DJe n. 216, no dia 22/09/2017 e acórdão foi publicado em 20-11-2017.
+Posteriormente, em 22/02/2018, a Colenda 1ª Seção do STJ julgou o Tema 905 (REsp mº 1.495.146 - MG, Rel. Min. Mauro Campbell Marques, DE 02/03/2018), adotando o INPC em relação aos benefícios de natureza "previdenciária".
+O Pleno do Supremo Tribunal Federal concluiu o julgamento do RE 870.947 (Tema 810) em sessão de 03.10.2019 e, por maioria, rejeitou todos os embargos de declaração e não modulou os efeitos da decisão anteriormente proferida.
+Ocorre que no caso, da consulta aos autos na origem, vê-se que a execução teve início antes da definição dos índices pelo STF e pelo STJ, de modo que no momento em que apresentado o cálculo, de fato não havia ainda definição sobre o tema.
+Além disso, não foi prolatada sentença de extinção do feito pelo pagamento integral da dívida.
+Portanto, entendo que resta afastada a preclusão, sendo, portanto, admissível o prosseguimento do feito com a correção do julgado na seguinte forma:
+Como se observa, o aresto recorrido constatou que o cumprimento de sentença permaneceu suspenso, aguardando a definição do Tema n. 810 pelo Supremo Tribunal Federal, encontrando-se diferida a questão relativa aos consectários legais, inexistindo, nos autos, certificação quanto ao cumprimento definitivo da obrigação estabelecida no título executivo.
+Assim apresentado o debate, fica claro o distinguishing da tese debatida nos autos com o recurso especial repetitivo mencionado (REsp n. 1.143.471/PR), que trata da reabertura da execução após a prolação sentença extintiva.
+Esta Corte possui entendimento no sentido de distinguir o Tema 289 do STJ com a situação em que haja determinação de diferimento da controvérsia sobre os consectários legais da condenação para a fase executiva.
+Confira-se, o seguinte julgado, da minha relatoria:
+PREVID ENCIÁRIO E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. SUSPENSÃO DA MARCHA PROCESSUAL PARA AGUARDAR O JULGAMENTO DO TEMA 810/STF. QUESTÃO REFERENTE AOS CONSECTÁRIOS LEGAIS DIFERIDA. POSSIBILIDADE.
+1. Segundo tese firmada no R Esp n. 1.143.471/PR ( Tema n. 289/STJ ), "A renúncia ao crédito exequendo remanescente, com a consequente extinção do processo satisfativo, reclama prévia intimação, vedada a presunção de renúncia tácita".
+2. Hipótese em que o cumprimento de sentença permaneceu suspenso, aguardando a definição do Tema 810 pelo Supremo Tribunal Federal, e ficou diferida a questão relativa aos consectários legais, inexistindo, nos autos, certificação quanto ao cumprimento definitivo da obrigação estabelecida no título executivo.
+3. Caso concreto que apresenta claro o distinguishing da tese firmada no R Esp n. 1.143.471/PR, que trata da reabertura da execução após a prolação de sentença extintiva. 4. Agravo interno provido para conhecer e negar provimento ao recurso especial do INSS.
+(AgInt no REsp n. 2.029.411/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 1/3/2024.)
+Também se torna necessário ressaltar que a discussão sobre a presença de coisa julgada, trazida nas razões do recurso especial, exige a desconstituição da afirmativa de que ela é inexistente ante a suspensão ocorrida, providência essa que encontra obstáculo na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao presente agravo.
+Publique-se.
+EMENTA
