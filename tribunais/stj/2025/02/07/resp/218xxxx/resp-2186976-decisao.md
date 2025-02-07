@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJMT, assim ementado (fl. 513):
+AGRAVO INTERNO -- ISENÇÃO AO RECOLHIMENTO DE CUSTAS - HONORÁRIOS ADVOCATÍCIOS - POSSIBILIDADE - FIXAÇÃO DE ACORDO COM O CRITÉRIO EQUIDADE - IMPOSSIBILIDADE - FAZENDA PÚBLICA - ISENÇÃO DE CUSTAS - POSSIBILIDADE DE RESSARCIMENTO DOS VALORES DESPENDIDOS PELO VENCEDOR - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. O Superior Tribunal de Justiça colocou como requisito para arbitramento por equidade apenas nos casos que o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou o valor da causa for muito baixo.
+2. A Fazenda Pública é isenta do pagamento de custas processuais, salvo quanto aos valores despendidos pela parte vencedora da demanda, de acordo com o art. 3º, I, da Lei Estadual n.º 7.603/2001.
+3. Recurso conhecido e parcialmente provido.
+Embargos de declaração rejeitados às fls. 540-553.
+O recorrente alega violação do artigo 1.022 do CPC/15, ao argumento, à fl. 561, de que a Corte de origem não se manifestou a respeito da existência de distinção entre o caso dos autos com julgado do STJ exemplificando a questão.
+Aduz, além de divergência jurisprudencial, ofensa ao art. 85, §8º, do CPC/15, afirmando, à fl. 562, que:
+Excelências, analisando os autos, verifica-se que o presente caso deriva de reconhecimento administrativo do pleito da parte adversa e consecutivo cancelamento da CDA, ainda na via administrativa, o que, inclusive, foi manifestado pela Fazenda Pública nos autos. Ante tal cenário, o Estado de Mato Grosso foi condenado em honorários advocatícios, por aplicação do Tema 1076.
+No entanto, o entendimento aplicado ao caso concreto acabou por violar o art. 85, § 8º, NCPC, uma vez que o cancelamento administrativo do débito enseja a fixação de verba honorária mediante o juízo de equidade.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 570-574.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Ademais, no tocante ao art. 85, §8º, do CPC/15, verifica-se que o recorrente, para justificar tal violação, expõe a tese de que o cancelamento administrativo do débito enseja a fixação de verba honorária mediante o juízo de equidade.
+Por outro lado, o acórdão recorrido justifica o arbitramento por equidade, nos seguintes termos (fl. 509):
+ ..
+Ressalta-se que o Superior Tribunal de Justiça colocou como requisito para arbitramento por equidade apenas nos casos que: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo, como se vê:
+ ..
+Aliás, tanto não tem aplicação subsidiária que, na fixação da segunda tese, o STJ esclareceu que "havendo ou não condenação", quando o proveito econômico obtido pelo vencedor for irrisório é o caso de fixação por equidade, o que é o caso dos autos.
+Como se vê, o alegado pelo recorrente sobre eventual ofensa à lei federal não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida. Aplica-se à hipótese a Súmula 284/STF.
+Além disso, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem a respeito da tese suscitada, à fl. 562, de que o presente caso deriva de reconhecimento administrativo do pleito da parte adversa e consecutivo cancelamento da CDA, ainda na via administrativa, o que, inclusive, foi manifestado pela Fazenda Pública nos autos, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Sublinha-se que, de acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DE TESE. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
