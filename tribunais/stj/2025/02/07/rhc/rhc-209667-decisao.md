@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ISRAEL AMORIM DE CASTRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA proferido no HC n. 8048445-58.2024.8.05.0000.
+Consta dos autos a prisão preventiva do recorrente em virtude da suposta prática do crime de homicídio duplamente qualificado tentado, termos em que pronunciado.
+Em suas razões, sustenta o recorrente haver excesso de prazo, "pois se encontra preso provisoriamente há exatos 05 anos e 10 meses em razão de acusação de homicídio tentado, situação que foge à razoabilidade" (fl. 555). Enfatiza que a sentença de pronúncia não é óbice à correção de gritante irrazoabilidade.
+Aduz que o referido julgado só foi proferido após notificação do juiz para que prestasse informações, ou seja, após o excesso de prazo já estar configurado. Ressalta que, se for condenado, o regime de pena será menos gravoso.
+Requer, assim, liminarmente e no mérito, a concessão da ordem para relaxamento da prisão.
+O pedido liminar foi indeferido às fls. 567/568, por meio de decisão da lavra do Ministro Herman Benjamin.
+Informações prestadas às fls. 574/581.
+O Ministério Público Federal manifestou-se às fls. 1176/1177, opinando pelo improvimento do recurso com a recomendação de que se imprima celeridade ao julgamento do processo.
+É o relatório.
+DECIDO.
+No caso, o Juízo de primeiro grau, ao manter a prisão preventiva do recorrente quando da sentença de pronúncia, apresentou as seguintes razões (fls. 480/497; grifamos):
+Outrossim, considerando inalterados os motivos e a situação fático-processual que ensejaram a decretação de sua segregação cautelar, MANTENHO A PRISÃO PREVENTIVA DECRETADA em desfavor do acusado ISRAEL AMORIM DE CASTRO, nos termos dos arts. 312 e seguintes, e art. 413, § 3º, todos do CPP. Isso porque, denota-se que os indícios suficientes de autoria e a prova da materialidade encontram-se perfeitamente delineados nesta decisão de pronúncia e a ordem pública e a aplicação da lei penal precisam ser resguardadas. A manutenção da custódia cautelar encontra-se amparada na garantia da ordem pública, ante a gravidade em concreto do delito, por se tratar de tentativa de homicídio qualificado, praticado por suposta disputa no tráfico de drogas, e com a utilização de arma de fogo de grosso calibre. Aliado a isso, a medida também é necessária para refrear a atividade de grupo criminoso, já que o acusado supostamente lidera organização criminosa de tráfico de drogas nesta cidade e supostamente pratica atos de gestão de dentro do conjunto penal. Do exposto, mantenho a prisão preventiva decretada, devendo-se expedir mandado de prisão/recaptura do pronunciado para que aguarde o julgamento pelo Plenário do Júri custodiado, na forma do art. 413, § 3º, do CPP.
+O Tribunal de origem, por sua vez, não avaliou o excesso de prazo da segregação cautelar do acusado, consignando, in verbis (fls. 506/511; grifamos):
+Conforme relatado, busca o Impetrante a soltura do Paciente, arguindo existência de excesso prazal para a prolação da competente decisão na primeira fase do procedimento do Tribunal do Júri.
+Sucede que, de acordo com os informes judiciais, no dia 12.09.2024, o Paciente fora pronunciado como incurso no art. 121, §2º, I e IV, c/c o art. 14, II, do CP (ID 69253003-04). Nessas circunstâncias, entendo que resta prejudicada a análise do Habeas Corpus, notadamente em razão da superveniente prolação da decisão de pronúncia após a impetração do writ, de modo que incide na espécie a regra prevista no art. 659, do Código de Processo Penal.
+Ante o exposto, em razão da superveniente perda de objeto, julgo PREJUDICADO o remédio heroico, extinguindo-se o processo sem resolução do mérito, com fundamento no art. 659, do CPP.
+Diante da manifestação do Tribunal de origem acima transcrita que não chegou a avaliar o mérito da impetração original, tendo em vista que houve a prolação da sentença de pronúncia no curso no julgamento, incidindo o enunciado da Súmula 21 desta Corte Superior e tendo a ordem sido ajuizada apenas buscando o reconhecimento do excesso de prazo na primeira fase do rito do Júri, o andamento deste recurso resta esvaziado.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
