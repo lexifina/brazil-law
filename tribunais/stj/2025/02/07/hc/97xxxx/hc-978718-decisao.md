@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão que denegou a ordem no writ de origem.
+Imputa-se à paciente a prática do crime tipificado no art. 158, §1º, do Código Penal (extorsão qualificada).
+A defesa alega, em síntese, excesso de prazo na instrução criminal e ausência dos requisitos da prisão preventiva.
+Ao final, requer a concessão da ordem para a revogação da prisão preventiva da paciente.
+É o relatório.
+Decido.
+Do voto condutor do acórdão atacado extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ fls. 19/20):
+Presentes os pressupostos de admissibilidade, conheço o recurso.
+O delito imputado à paciente autoriza a decretação da prisão preventiva, porquanto punido com pena privativa de liberdade máxima superior a 04 (quatro) anos, nos termos do artigo 313, inciso I, do Código de Processo Penal.
+Ademais, os documentos encartados aos expedientes vinculados a este remédio constitucional, somados ao recebimento da inicial, demonstram a existência, em tese, do crime imputado, bem como que sua autoria, ao que tudo indica, recai sobre a paciente.
+Veja- se que Ivy foi flagrada por policiais militares enquanto ela e Júlio César, em tese, quebravam a casa do ofendido Michael, ameaçando-o de morte para que pagasse dívida de R$200,00.
+Para além da casa depredada e das lesões que se observaram em Michael, os policiais ainda teriam encontrado martelo e faca dentro do casaco de Ivy, instrumentos em tese utilizados na ação delitiva. No mesmo sentido, a vítima confirmou ter sido atingida na cabeça e ameaçada por Ivy e seu companheiro, havendo nos autos menção dos policiais de que Michael estaria ferido e, a casa, em pedaços. Presente, assim, o fumus comissi delicti.
+Em relação ao periculum libertatis, cabe sinalizar que, embora Ivy seja tecnicamente primária, não havendo registro de condenação transitada em julgado contra si, ela possui outras passagens policiais por envolvimento em práticas delitivas, a exemplo de tráfico de drogas ou tentativa de homicídio (3.1).
+No mesmo sentido, a violência a princípio empregada pela paciente, em concurso com Júlio, não deixa dúvida quanto à banalidade com que age com relação a terceiros e seus pertences, também com isso indicando os riscos que sua liberdade envolveria.
+No ponto, há registro de que, em que pese a dívida de Michael fosse de apenas R$200,00 - referente à débito do tráfico ou de rádioautomotivo, o que não está claro -, os supostos autores depredaram objetos como televisão, conversor digital, vidros, móveis, dentre outros, causando prejuízo, ao que tudo indica, muito superior ao débito exigido.
+Em adendo, há menção de que Ivy e Júlio teriam ameaçado Michael de morte em frente a sua esposa e filhos menores.
+Denotam, assim, o destemor e agressividade com que agem, o que mais uma vez confirma a adequação do cárcere provisório.
+Neste ínterim, é indiferente que Ivy possua residência fixa, profissão ou formação superior, fatores que por si só não servem a afastar a necessidade da cautelar.
+Tampouco vinga alegação de excesso de prazo no encarceramento.
+O feito vem tramitando regularmente, tendo havido oferecimento da denúncia em curto período de tempo e manifestação célere do juízo quanto aos pedidos de urgência da paciente, em que pese ainda não tenha sido aprazada audiência de instrução.
+Assim, fazendo necessário juízo de razoabilidade quanto aos prazos do corrente processo, tenho que não há excesso a ser reparado, recomendando ao juízo originário que a audiência para oitiva das partes seja agendada com a maior brevidade possível.
+No que diz com as alegações de que a paciente tem filho menor de idade, mãe enferma, e que ela própria sofre de distúrbios de ordem psiquiátrica, entendo que nenhuma das teses veio suficientemente esclarecida.
+O filho da paciente tem 23 (vinte e três) anos de idade e, ao que tudo aponta, não demanda maiores cuidados (1.1, pág 6).
+No mesmo sentido está a doença da genitora de Ivy, a qual, não obstante venha indicada no feito por laudos médicos, não há qualquer indício de que a paciente seja responsável pelos cuidados da mãe (1.2).
+Por fim, quanto à alegação de que Ivy sofre de distúrbios psiquiátricos, os impetrantes mesmo reconhecem não dispor de laudo técnico nesse sentido, sob argumento de que a paciente é atendida por médico em outro estado da federação, o que por certo não convence.
+Bem demonstrada a adequação da prisão preventiva, e não se enquadrando a paciente no disposto nos artigos 318 e 318-A do Código de Processo Penal, não há falar em subsituição do cárcere por outra medida menos gravosa.
+Assim, ao contrário do alegado pelo impetrante, não observo qualquer ilegalidade na decretação e manutenção da prisão preventiva de Ivy, porquanto presentes os seus requisitos autorizadores, não ensejando o aventado constrangimento ilegal.
+Por todo o exposto, voto por DENEGAR a ordem de habeas corpus, recomendando ao Juízo a quo o imediato aprazamento da audiência de instrução.
+Como se pode observar, a prisão preventiva da paciente se justifica pela necessidade de resguardar a ordem pública, considerando a gravidade dos crimes praticados com violência e grave ameaça. Conforme consignado na decisão de primeira instância, o delito teria ocorrido em razão de uma dívida de R$ 200,00 (duzentos reais) da vítima, tendo a paciente e o corréu depredado a residência desta, além de agredi-la e ameaçá-la na presença de sua esposa e filhos.
+Constou ainda que embora primária e sem condenação definitiva, ela registra passagens policiais por envolvimento em práticas delitivas, a exemplo de tráfico de drogas ou tentativa de homicídio.
+Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva (RHC n# 68550/RN, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 31/3/2016).
+Outrossim, a jurisprudência do STJ admite a prisão preventiva em casos de periculosidade evidenciada pela gravidade concreta dos fatos e risco à ordem pública. No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA DECRETADA DE OFÍCIO. NÃO OCORRÊNCIA. MANIFESTAÇÃO PRÉVIA DO MP PELA APLICAÇÃO DE CAUTELARES ALTERNATIVAS. AUSÊNCIA DE ILEGALIDADE. PRISÃO PREVENTIVA. GRAVIDADE DA CONDUTA. MODUS OPERANDI. CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL PROVIDO.
+1. No termo da audiência de custódia, o Ministério Público havia se posicionado pela concessão de liberdade provisória ao paciente, mediante a aplicação de cautelares alternativas. Todavia, entendeu o juízo pela conversão do flagrante em prisão preventiva.
+2. A Sexta Turma desta Corte Superior fixou entendimento no seguinte sentido: ainda que, na audiência de custódia, o Ministério Público tenha requerido a substituição da prisão por medidas cautelares diversas, não há falar em decretação da prisão de ofício, haja vista que "é possível ao magistrado decretar medida cautelar diversa daquela requerida pelo Ministério Público, no caso, a cautelar máxima de prisão preventiva, o que não representa atuação ex officio, inexistindo, portanto, constrangimento ilegal" (AgRg no HC n. 764.022/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+3. No caso, a leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois foi apontado que, em via pública, o agravado e um comparsa praticaram o crime de roubo em concurso de agentes e empregaram grave ameaça contra as vítimas, mediante o uso de facas.
+4. É pacífico o entendimento desta Corte Superior de que não se configura constrangimento ilegal quando a segregação preventiva é decretada em face da gravidade concreta da conduta e do modus operandi empregado na prática do delito.
+5. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+6. Agravo regimental provido para restabelecer a prisão preventiva do agravado.
+(AgRg no HC n. 891.141/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ROUBO MAJORADO. NEGATIVA DE APELAR EM LIBERDADE. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. COMPATIBILIDADE ENTRE A PRISÃO CAUTELAR E O REGIME PRISIONAL SEMIABERTO, DESDE QUE HAJA ADEQUAÇÃO ENTRE AMBOS.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. Segundo o disposto no art. 387, § 1º, do CPP "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+3. No caso, ao prolatar a sentença condenatória, o Magistrado singular manteve a prisão preventiva destacando o modus operandi empregado na conduta delitiva, revelador da periculosidade do recorrente, consistente na prática roubo em concurso de agentes, com emprego de arma de foto e restrição de liberdade da vítima, o que justifica a decretação e manutenção da prisão preventiva e a consequente negativa do direito de recorrer em liberdade.
+4. Os fundamentos adotados para a imposição da prisão preventiva indicam, no caso, que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+5. Nos termos da orientação desta Casa, não há incompatibilidade entre a condenação do réu a pena a ser cumprida em regime semiaberto e a manutenção da custódia cautelar, desde que esta esteja adequada ao regime fixado na sentença.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 929.811/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+Quanto ao alegado excesso de prazo para a conclusão da instrução criminal, colhe-se dos autos que a paciente está presa cautelarmente desde 14/9/2024, a denúncia foi oferecida em 30/9/2024 e recebida em 4/10/2024, aguardando-se a designação da audiência de instrução e julgamento .
+Assim, na hipótese, não resta caracterizada a existência de mora na tramitação do processo a justificar o relaxamento da prisão preventiva, porquanto este tem seguido seu trâmite regular.
+Pelo exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
