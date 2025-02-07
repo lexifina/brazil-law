@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto pela Defensoria Pública de São Paulo em favor de Robson Gomes Carvalho contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que, nos autos do Agravo em Execução n. 0012169-71.2024.8.26.0521, negou provimento ao rec urso, mantendo a decisão que indeferiu o pedido de progressão para o regime semiaberto (Execução Criminal n. 7001246-81.2000.8.26.0269, Unidade Sorocaba - Regional Sorocaba).
+Consta da inicial que o paciente teve seu pedido de progressão para o regime semiaberto indeferido, sob o fundamento de que não teria preenchido o requisito subjetivo, apesar de haver parecer técnico favorável. Inconformada, a defesa interpôs agravo em execução, que foi desprovido pelo Tribunal de Justiça do Estado de São Paulo.
+A defesa sustenta que o Tribunal não analisou adequadamente os laudos técnicos anexados, os quais indicam que a vivência em ambiente de trabalho é benéfica ao sentenciado, especialmente no regime semiaberto, e que o paciente apresenta bom comportamento carcerário. Argumenta que a prisão deforma a personalidade humana e que a cultura do cárcere dificulta a reintegração social do apenado. Alega que o magistrado não pode criar requisitos legais para a progressão de regime, e que a negativa do benefício constitui um óbice indevido.
+Requer, liminarmente, a concessão da medida para progressão ao regime semiaberto e, no mérito, a confirmação da ordem para assegurar ao paciente o direito à progressão de regime (fls. 2/8).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local indeferiu o pedido de progressão de regime aos seguintes fundamentos (fl. 12):
+Do relatório psicológico, constou que o agravante "não apresenta recursos psicológicos coerentes com a progressão de regime pleiteada. Assim, diante de todas as informações aqui expostas e visualizando a conservação do apenado aos padrões cognitivos comportamentais sustentáveis e funcionais com o que se espera em sociedade, recomenda-se que o mesmo se engaje com práticas reflexivas grupais ou individuais que favoreçam o autoconhecimento, habilidades sociais, empatia, respeito aos limites do outro e manutenção dos aprendizados construídos ao longo do tempo de reclusão, além de que mantenha uma postura reflexiva e de conhecimento acerca de suas ações e escolhas. Isto posto, o apenado não parece demonstrar início de desenvolvimento crítico significativo acerca de sua conduta delituosa" (fl. 33, g. n.).
+Com efeito, não se vislumbra preenchimento do requisito subjetivo a ensejar o deferimento do benefício pleiteado, consistente na progressão de regime prisional.
+Pois bem, as instâncias ordinárias entenderam pela ausência do requisito subjetivo para o deferimento da progressão de regime com base na indicação de fundamento idôneo, qual seja, a conclusão do parecer social do exame criminológico, não havendo, assim, nenhuma ilegalidade a ser sanada por esta Corte.
+Nesse contexto, para se infirmarem as conclusões a que chegaram as instâncias ordinárias, no sentido da ausência de mérito, demandar-se-ia ampla incursão em fatos e em provas, o que não é admissível nos autos de habeas corpus, de cognição sumária.
+A propósito: HC n. 701.126/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 15/2/2022; AgRg no HC n. 675.099/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/2/2022; e AgRg no HC n. 695.493/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/10/2021.
+Não há flagrante ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO CONCRETA. EXAME CRIMINOLÓGICO. INVIABILIDADE DE REEXAME APROFUNDADO DA FUNDAMENTAÇÃO ADOTADA NA ORIGEM.
+Petição inicial indeferida liminarmente.
