@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que negou provimento aos apelos defensivos, mantendo a sentença que condenou os recorrentes pela prática do crime do art. 180, caput, c/c o artigo 61, I, do CP.
+A defesa aponta a violação dos arts. 59 e 68 do CP, alegando que a natureza do objeto receptado (automóvel) não constitui fundamento idôneo para a exasperação da pena basilar. Aduz, também, que o aumento pela reincidência deve observar a fração de 1/6 sobre a pena-base.
+Contrarrazões às e-STJ fls. 326/335.
+O recurso foi admitido (e-STJ fls. 340/341), manifestando-se o Ministério Público Federal pelo provimento parcial do recurso (e-STJ fls. 356/360).
+É o relatório. Decido.
+O recurso merece parcial acolhida.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento aos apelos defensivos, mantendo a sentença que condenou o recorrente Ruan à pena de 1 ano e 10 meses de reclusão e Pablo à pena de 1 ano e 7 meses de reclusão, ambos pela prática do crime do art. 180, caput, c/c o art. 61, I, do CP.
+A defesa alega que a natureza do objeto receptado (automóvel) não constitui fundamento idôneo para a exasperação da pena basilar.
+Sem razão, porquanto, como bem entendeu o Tribunal de origem (e-STJ fl. 301), a natureza do objeto receptado autoriza a exasperação da pena-base, visto que revela maior gravidade da conduta e intensidade do dolo. Confira-se:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. CULPABILIDADE. PLURALIDADE DE CONDUTAS. PRÁTICA DE NÚCLEOS VARIADOS. MAIOR REPROVABILIDADE. NATUREZA E QUANTIDADE. MAJORAÇÃO. POSSIBILIDADE. APLICAÇÃO DE CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. AFASTAMENTO DEVIDAMENTE MOTIVADO. RECEPTAÇÃO VEÍCULO AUTOMOTOR. CULPABILIDADE. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+8. A receptação de veículo automotor mostra-se idônea para majoração da pena-base a título de culpabilidade, porquanto revela maior gravidade da conduta e intensidade do dolo, justificando o recrudescimento da pena-base. Precedentes.
+9. Agravo regimental não provido (AgRg no REsp n. 2.158.593/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 9/12/2024.)
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. RECEPTAÇÃO. DOSIMETRIA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS DO CRIME. GRAVIDADE DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão do Tribunal de origem que, em sede de apelação, redimensionou a pena para o crime de receptação, fixando-a em 2 anos e 6 meses de reclusão, em regime inicial aberto, com substituição por restritivas de direitos. A defesa alega ausência de fundamentação idônea na exasperação da pena-base, pleiteando sua fixação no mínimo legal. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se o aumento da pena-base, motivado pela gravidade das circunstâncias da receptação de veículo automotor proveniente de roubo recente, configura flagrante ilegalidade a justificar o cabimento do habeas corpus como medida de controle de legalidade. III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade. A jurisprudência da Terceira Seção do STJ acompanha entendimento do STF nesse sentido (HC n. 602.425/SC).
+4. No caso, as circunstâncias do crime foram consideradas desfavoráveis em razão da natureza do crime antecedente (roubo de veículo automotor), entendimento que se harmoniza com a jurisprudência desta Corte de Justiça, de forma que inexistente o constrangimento ilegal.
+IV. HABEAS CORPUS NÃO CONHECIDO. (HC n. 772.697/RS, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 11/11/2024.)
+Quanto ao aumento pela reincidência, anota-se que a jurisprudência desta Corte estabelece que o aumento da pena em razão de agravantes, como a reincidência, deve ser justificado de forma concreta, especialmente quando aplicada fração superior a 1/6.
+No caso, a pena-base do recorrente Ruan foi estabelecida em 1 ano e 6 meses de reclusão, aumentada para 1 ano e 10 meses na segunda fase em razão da reincidência. Já a pena-base do recorrente Pablo foi fixada em 1 ano e 3 meses de reclusão, aumentada em 4 meses na segunda fase, também pela reincidência.
+Pois bem, por conta da reincidência, a pena de ambos os recorrentes foi aumentada em 4 meses. Ocorre que Pablo, diferentemente de Ruan, possui apenas uma condenação com transito em julgado, de forma que o aumento na segunda fase deve observar a fração de 1/6.
+Dessa forma, a pena do recorrente Pablo deve ser redimensionada para 1 ano, 5 meses e 15 dias de reclusão. Mantida a pena do recorrente Ruan em razão da dupla reincidência. Nessa linha:
+DIREITO PENAL. HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. PENA-BASE. FUNDAMENTOS CONCRETOS PARA O AUMENTO DA PENA-BASE E PROPORCIONALIDADE DO AUMENTO. FRAÇÃO DA REINCIDÊNCIA. EXISTÊNCIA DE DIVERSAS CONDENAÇÕES CARACTERIZADAS DE MULTIRREINCIDÊNCIA, AS QUAIS LEGITIMAM O MAIOR AGRAVAMENTO NA FRAÇAO APLICADA. QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. JUSTIFICATIVA IDÔNEA DA AUSÊNCIA DO LAUDO PERICIAL. POSSIBILIDADE DE UTILIZAÇÃO DE OUTROS MEIOS DE PROVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I. Caso em exame 1. Habeas corpus impetrado em favor de condenado por furto qualificado, questionando a dosimetria da pena aplicada e a qualificadora.
+II. Questão em discussão 2. A questão em discussão consiste em saber se é cabível o habeas corpus como substitutivo de recurso próprio ou revisão criminal, e se há flagrante ilegalidade na dosimetria e na incidência da qualificadora.
+III. Razões de decidir 3. O habeas corpus não é admitido como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. O reconhecimento da qualificadora de rompimento de obstáculo foi devidamente demonstrado pelo Tribunal de origem, com base em declarações da vítima e testemunhas. A ausência do laudo pericial também foi bem justificada, uma vez que era necessário evitar a continuidade da vulnerabilidade do local danificado pelo delito.
+Precedentes.
+5. As condenações pretéritas podem ser utilizadas tanto para valorar os maus antecedentes na primeira fase, quanto para agravar a pena na segunda fase, a título de reincidência, desde que as condenações sejam de fatos diversos, como no presente caso, em que o paciente detém seis condenações transitadas em julgado, sendo cinco delas específicas.
+6. O agravamento da pena em fração superior a 1/6 está justificado pelo fato de o paciente diversas condenações definitivas anteriores.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que a multirreincidência constitui justificativa idônea para acréscimo superior a 1/6 na segunda fase da dosimetria da pena.
+7. O regime adequado à hipótese é o inicial fechado, nos termos do art. 33, §§ 2º e 3º, do CP, uma vez que o paciente detém circunstâncias judiciais desfavoráveis e é multirreincidente.
+IV. HABEAS CORPUS NÃO CONHECIDO. (HC n. 927.038/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 19/11/2024.)
+Ante o exposto, com fundamento no art. 932, inciso V, alínea a, do CPC e no art. 255, § 4º, inciso III, do RISTJ, dou parcial provimento ao recurso especial apenas para reduzir a pena do recorrente Pablo para 1 ano, 5 meses e 15 dias de reclusão.
+Intimem-se.
+EMENTA
