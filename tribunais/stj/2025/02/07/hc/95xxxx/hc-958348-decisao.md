@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo impetrado em favor de CLERISTA SANTOS DE SALES, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, que negou provimento à apelação defensiva e, assim, manteve a sua condenação pela prática do delito previsto no art. 155, § 4º, II e IV, c/c o art. 71, todos do Código Penal, ao cumprimento da pena, de 5 anos e 6 meses de reclusão, inicialmente no regime semiaberto, e ao pagamento de R$ 935.108,98 (novecentos e trinta e cinco mil, cento e oito reais e noventa e oito centavos) como reparação dos prejuízos sofridos pela vítima.
+Alega-se que ocorreu a prescrição da pretensão punitiva, ante o decurso de mais de 8 anos entre a data do recebimento da denúncia e a da publicação da sentença penal condenatória.
+Sustenta-se, ainda, que aconteceu nulidade no julgamento da apelação defensiva, pela ausência de intimação dos advogados constituídos para a respectiva sessão.
+Processado o feito sem pedido liminar, depois de prestadas informações (fls. 225/251 e 252/258), o Ministério Público Federal manifestou-se pela necessidade de novas informações específicas sobre o alegado na inicial (fls. 262/265).
+Depois de deferida a diligência (fl. 268), chegaram aos autos novos informes (fls. 274/285), inclusive posteriormente à nova manifestação ministerial (fls. 296/303). Eis o resumo do parecer escrito pelo Subprocurador-Geral da República Osnir Belice (fl. 290):
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. MANEJO DO WRIT COMO SUCEDÂNEO RECURSAL. HIPÓTESE DE CONSTRANGIMENTO ILEGAL FLAGRANTE. OCORRÊNCIA DA PRESCRIÇÃO. PERÍODO ACRESCIDO A TÍTULO DE CONTINUIDADE DELITIVA. SÚMULA 479/STF. NULIDADE DO JULGAMENTO. AUSÊNCIA DE INTIMAÇÃO DOS ADVOGADOS DA DEFESA. PARECER PELA CONCESSÃO DA ORDEM DE OFÍCIO.
+É o relatório.
+Existe, na espécie, constrangimento ilegal passível de ser reparado por meio da via eleita.
+Antes, porém, vale registrar que, pelo que consta das informações encaminhadas pelo Tribunal estadual, faltou a intimação do advogado da paciente para a sessão de julgamento do seu apelo defensivo e do acórdão exarado pelo Tribunal baiano. Tal questão foi objeto do recurso especial da ré, como se vê do AREsp n. 2.796.206/BA, em trâmite nesta Casa (fls. 763/796 daqueles autos), quer dizer, a nulidade chegou a ser suscitada na primeira oportunidade possível. A Corte a quo confirmou a mencionada ausência de intimação (fls. 274/275):
+ ..
+Em julgamento realizado na data de 30/07/2024, por unanimidade, julgou-se pelo improvimento dos recursos de apelação interpostos pelas rés.
+No tocante à intimação de advogados acerca da mencionada sessão de julgamento bem como a respeito da prolação do referido acórdão, a secretaria da primeira câmara criminal emitiu certidão nos seguintes termos:
+(..) CERTIFICO, para os devidos fins, que apenas o advogado Dr. Luiz Carlos Vieira de Souza, inscrito na OAB/BA 20706-A, foi devidamente intimado da Sessão de Julgamento da Apelação Criminal realizada no dia 30/07/2024. Informamos, ainda, que o Acórdão fornecido foi disponibilizado no Diário Oficial em 02/08/2024, sendo somente o referido advogado intimado acerca do aludido Acórdão. Destaco que o referido Advogado foi o único profissional cadastrado nos autos, conforme registro realizado pela Diretoria de Distribuição do 2º Grau, ID. 55279826, quando os autos foram remetidos a esta Instância Superior. (..) (certidão em anexo)
+O advogado Luiz Carlos Vieira de Souza figura como patrono do assistente de acusação (cópia da peça de contrarrazões em anexo).
+ ..
+Não obstante a nulidade dos atos, impõe-se, na verdade, o reconhecimento da prescrição da pretensão punitiva estatal na modalidade retroativa.
+Ora, fixada a pena privativa de liberdade em 5 anos e 6 meses de reclusão e desconsiderando-se o aumento decorrente da continuidade delitiva (afinal, quando se tratar de crime continuado, a prescrição regula-se pela pena imposta na sentença, não se computando o acréscimo decorrente da continuação (Súmula 497/STF), chega-se a 3 anos e 4 meses. Tal montante de pena corresponde ao lapso prescricional de 8 anos, a teor do disposto no art. 109, IV, do Código Penal. Assim, recebida a denúncia em 25/2/2010 (fl. 298), observa-se o transcurso do referido prazo até a data da sentença, proferida em 9/10/2018 (fl. 301).
+Não é outra a linha de raciocínio do Ministério Público Federal, que opina pela concessão da ordem (fl. 294).
+Assim, concedo a ordem para declarar a extinção da punibilidade de CLERISTA SANTOS DE SALES, nos autos da Ação Penal n. 0000322-41.2011.805.0027, da Vara Criminal de Bom Jesus da Lapa/BA.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. EVIDENTE CONSTRANGIMENTO ILEGAL. FURTOS QUALIFICADOS EM CONTINUIDADE DELITIVA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. RECONHECIMENTO. SÚMULA 479/STF. TRANSCURSO DO PRAZO PRESCRICIONAL ENTRE O RECEBIMENTO DA DENÚNCIA E A PROLAÇÃO DA SENTENÇA CONDENATÓRIA. PARECER ACOLHIDO.
+Ordem concedida para extinguir a punibilidade da paciente.
