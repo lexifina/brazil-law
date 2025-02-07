@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WILLIAM DE OLIVEIRA VALENCA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo Interno Criminal na Revisão Criminal n. 2280744-27.2024.8.26.0000/50000).
+Consta que o réu foi definitivamente condenado a 9 anos e 26 dias de reclusão, em regime inicial fechado, e ao pagamento de 21 dias-multa, por infração ao disposto no art. 157, § 2º, II e V, e § 2º-A, I (por duas vezes), na forma do art. 70, caput, ambos do Código Penal (Ação Penal n. 1522422-55.2021.8.26.0228, da 4ª Vara Criminal da comarca de São Paulo/SP).
+Ajuizada a revisão criminal, o Desembargador Relator, por decisão monocrática, indeferiu liminarmente a pretensão da defesa (fls. 10/13). E o Quinto Grupo de Direito Criminal do Tribunal a quo, em 19/12/2024, negou provimento agravo interno interposto contra essa decisão (fls. 6/9).
+Daí o presente writ, no qual a defesa sustenta, em síntese, a existência de um cenário de manifesta ilegalidade. A uma, porque o TJSP incorreu em clara negativa de prestação jurisdicional, sobretudo diante da existência de nova tese (nulidade do reconhecimento), cuja eventual declaração poderia importar na absolvição do paciente. A duas, porque não foi apresentada fundamentação judicial idônea para a manutenção da indigesta decisão monocrática (fl. 4).
+Requer, ao final, a concessão da ordem para determinar que a Corte estadual enfrente o mérito da Revisão Criminal n. 2280744-27.2024.8.26.0000.
+Estes autos foram a mim distribuídos por prevenção.
+É o relatório.
+O writ não merece ir adiante.
+No caso, ao manter os termos da decisão monocrática que indeferiu liminarmente a ação revisional, o Tribunal estadual concluiu ser inequívoca a pretensão do peticionário de deduzir uma segunda apelação, visando reapreciação de questões efetivamente analisadas em primeira e segunda instâncias, mesmo sem a demonstração de algum fato novo, de flagrante ilegalidade ou de omissão no julgado (fl. 12).
+Afirmou, ademais, que as provas colhidas nas duas fases da persecução penal bastaram a tornar apropriada a condenação do peticionário pelo Juízo de origem, mantida em segundo grau, inclusive quanto ao regime inicial de cumprimento da pena (fl. 12).
+Ora, a Corte local não incorreu em omissão nem em negativa de prestação jurisdicional, decidiu em consonância com o entendimento firmado pelo Superior Tribunal de Justiça.
+Isso porque a revisão criminal é admitida apenas em situações excepcionais, não podendo ser tratada como uma segunda apelação (AgRg no AREsp n. 1846669/SP, rel. Min. Felix Fischer, Quinta Turma, DJe 7/6/2021) - (HC n. 810.000/PA, Ministra Daniela Teixeira, Quinta Turma, DJe 11/11/2024).
+Dito de outra forma, visto que o pleito suscitado na revisão criminal não foi sequer objeto do recurso de apelação interposto pela Defesa após a condenação, há que se concluir não haver ilegalidade no v. acórdão, porquanto esta Corte Superior de Justiça tem entendido que a revisão criminal é medida excepcional, possível apenas quando presentes as condições dispostas pelo art. 621 do CPP, não servindo como sucedâneo recursal ou segunda apelação. Precedentes. (AgRg no HC n. 473.164/GO, Ministro Felix Fischer, Quinta Turma, DJe 14/12/2018).
+Enfim, o Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP (HC n. 206.847/SP, relator Ministro NEFI ORDEIRO, Sexta Turma, DJe 25/2/2016) - (AgRg no HC n. 947.485/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 9/12/2024).
+Diante disso, com base no art. 210 do RISTJ, indefiro liminarmente a impetração.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBOS MAJORADOS EM CONCURSO FORMAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. REVISÃO CRIMINAL NÃO CONHECIDA NA CORTE DE ORIGEM. UTILIZAÇÃO DA AÇÃO COMO SEGUNDA APELAÇÃO. DESCABIMENTO. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+Writ indeferido liminarmente.
