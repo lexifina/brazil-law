@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO C/C REPETIÇÃO DE INDÉBITO, DANOS MORAIS - AUTOR ALEGA DESCONHECER DO CONTRATO DE EMPRÉSTIMO OBJETO DO RECURSO - IMPROCEDÊNCIA - EMPRÉSTIMO PESSOAL REALIZADO PELA PARTE AUTORA - REFINANCIMENTO DE DÍVIDA COM LIBERAÇÃO DE SALDO EM CONTA - ALEGAÇÃO DE FRAUDE - NÃO COMPROVADA - SENTENÇA MANTIDA - RECURSO IMDESPROVIDO.
+Demonstrada a regularidade da contratação de empréstimo e refinanciamento, com disponibilização de saldo em sua conta, não subiste a alegação de fraude e as pretensões autorais devem ser julgadas improcedentes.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 373, § 1º, do Código de Processo Civil; 186, 187 e 927 do Código Civil; 6º do Código de Defesa do Consumidor; 5º, inciso X, da Constituição Federal/88, assim como divergência jurisprudencial.
+Argumenta que: "Ademais vejamos que no ID 170748209, foi mencionado que houve crédito de R$ 6.146,45, contudo não há comprovação de transferência deste valor, e o que vem sendo cobrado pela recorrida é valores decorrentes deste contrato, que jamais foi disponibilizado valores" (fl. 379).
+Pede a reforma do acórdão recorrido, "determinando o reconhecimento da ausência da comprovação de depó sito de valores, na conta da recorrente que claramente foi vítima de fraude, onde realizou um contrato, e vem pagando por outro sem que tenha ocorrido a disponibilização dos valores" (fl. 402).
+Assim delimitada a controvérsia, passo a decidir.
+Extrai-se que o Colegiado estadual decidiu a questão jurídica tratada nos autos, deixando registrado o seguinte (fl. 312):
+No caso em estudo, incidem as normas protetivas do Código de Defesa do Consumidor, conforme dispõe a Súmula nº 297, do Superior Tribunal de Justiça. Todavia, a despeito de o artigo 6º, do referido Códex, autorizar a inversão do ônus da prova em favor da parte hipossuficiente, como meio de facilitar sua defesa, isso não confere presunção absoluta de veracidade a suas afirmações, cabendo-lhe apresentar um mínimo de prova necessária à configuração do direito alegado.
+No caso, o Apelado juntou aos autos documento "Autorização para Pagamento de Empréstimo Consignado" (id.n.º 170748209-pág.3) assinado pela parte Apelante, comprovando refinanciamento para pagamento de contrato de empréstimo anterior e, referido documento não foi impugnado pela parta autora em nenhum momento.
+Nesse contexto, entendo que a parte ré se desincumbiu de seu ônus, demonstrando a contratação que a parte autora alega desconhecer. Por outro lado, não tendo sido comprovada a falsidade de assinatura, bem como do documento, tem-se com válido os documentos juntados pela Instituição Financeira.
+De mais a mais, não há sequer indícios de fraude e a autora ora apelante, não produziu provas capazes de desconstituir os documentos juntados com contestação.
+No caso concreto, o Colegiado local concluiu que: "Demonstrada a regularidade da contratação de empréstimo e refinanciamento, com disponibilização de saldo em sua conta, não subiste a alegação de fraude e as pretensões autorais devem ser julgadas improcedentes" (fl. 308).
+Assim, constato que a revisão do entendimento proferido pelo Tribunal de origem, de que não subiste a alegação de fraude no presente caso, demandaria nova investigação acerca dos fatos e provas contidos no processo, de modo que não cabe tal análise nesta Corte, diante do enunciado sumular n. 7 do STJ.
+Guardados os devidos contornos fáticos próprios de caso, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. FRAUDE BANCÁRIA. CONTRATAÇÃO DE EMPRÉSTIMOS. ALEGAÇÃO DE OFENSA À SÚMULA N. 479 DO STJ. SÚMULA N. 518 DO STJ. INCIDÊNCIA. DESCONTO INDEVIDO EM CONTA BANCÁRIA. NÃO OCORRÊNCIA. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO DO DANO SOFRIDO. PRESSUPOSTOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. (..).
+2. "A fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, Quarta Turma).
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. (..).
+5. (..). 6. Agravo interno desprovido. (AgInt no AREsp n. 2.409.085/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRAUDE BANCÁRIA. DANO MORAL. DEMONSTRAÇÃO. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. " A fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes " (AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022). 2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.371.787/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Em face do exposto, nego provimento ao agravo.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que já fixados no percentual máximo permitido legalmente (fl. 237), considerando-se suspensas as exigibilidades em caso de concessão de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
