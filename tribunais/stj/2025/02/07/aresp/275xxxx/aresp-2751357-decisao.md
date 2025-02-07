@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo manejado por Estado de Mato Grosso contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fl. 685):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA AMBIENTAL - PERÍCIA REQUERIDA PELO MINISTÉRIO PÚBLICO A SER REALIZADA POR PARTICULAR - CONDENAÇÃO DO ESTADO AO CUSTEIO DOS HONORÁRIOS PERICIAIS - RESPONSABILIDADE DA FAZENDA PÚBLICA À QUAL SE ENCONTRA VINCULADO O - ENTENDIMENTO MANTIDO PELOS TRIBUNAIS SUPERIORES MESMO COM O PARQUET ADVENTO DO NOVO CÓDIGO CIVIL - INAPLICABILIDADE DO ART. 91 DO CPC/2015 - PRINCÍPIO DA ESPECIALIDADE - PRECEDENTES DO STJ - HONORÁRIOS PERICIAIS - FIXADOS DENTRO DA RAZOABILIDADE E PROPORCIONALIDADE - RECURSO CONHECIDO E DESPROVIDO.
+1 . O STJ tem firmado a tese de que a Fazenda Pública, em Ação Civil Pública ajuizada pelo Ministério Público, é responsável pelos honorários periciais, não havendo falar-se em overruling promovido pelo CPC/2015.
+2. O dever do Estado, quando condicionado ao pagamento do valor de honorários periciais, cujo ônus é atribuído ao beneficiário de assistência judiciária, limita-se ao valor previsto na tabela da Resolução nº 232, de 13 de julho de 2016, do Conselho Nacional de Justiça, nos termos do artigo 95, § 3º, II, do Código de Processo Civil.
+3. O valor dos honorários periciais deve ser mantido se fixados dentro da razoabilidade e proporcionalidade.
+4. Recurso desprovido.
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial:
+a) violação aos arts. 9º, 10º e 91 do CPC, por ter o acórdão recorrido, em decisão surpresa, determinado o pagamento das custas processuais a parte que não foi parte na ação, mesmo tendo constado na sentença que o pagamento das custas ficaria a cargo do vencido. Afirma que a sentença condenatória não se confunde com o adiantamento de honorários previsto no art. 18 da Lei de Ação Civil Pública, sendo dever do Ministério Público suportar o ônus;
+b) ofensa ao art. 7º do CPC, pois teve aplicado contra si um ônus processual sem a existência do contraditório;
+c) violação ao art. 127, caput e §§ 1º, 2º e 3º, da CF sustentando que o Ministério Público é responsável pela elaboração de sua proposta orçamentária, detendo autonomia funcional e administrativa.
+Foram ofertadas contrarrazões às fls. 731/741.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do agravo em recurso especial (fls. 793/796).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Inicialmente, cumpre expor que, em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 127 da Constituição Federal.
+Quanto ao mais, esclareça-se que a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, no bojo de ação civil pública, cabe à Fazenda Pública ao qual se acha vinculado o Parquet arcar com as despesas das perícias requeridas pelo órgão ministerial, ainda que não seja parte no processo.
+Veja-se:
+PROCESSUAL CIVIL. HONORÁRIOS PERICIAIS. AÇÃO CIVIL PÚBLICA. REQUERIMENTO MINISTERIAL. FAZENDA PÚBLICA. RESPONSABILIDADE.
+1. A Primeira Seção do STJ, sob o rito do art. 543-C do CPC/1973, consolidou o entendimento de que, em se tratando de ação civil pública proposta pelo Ministério Público, caberá à Fazenda Pública ao qual se acha vinculado o Parquet arcar com as despesas das perícias requeridas pelo MP, ainda que não seja parte no processo.
+2. Entendimento aplicável mesmo após a entrada em vigor do CPC/2015, visto que as disposições contidas na Lei n. 7.347/1985 são especiais em relação às normas do ordenamento processual civil, subsistindo a orientação firmada no julgamento do REsp 1.253.844/SC.
+3. Agravo interno desprovido.
+(AgInt no RMS n. 66.296/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/8/2022, DJe de 23/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ADIANTAMENTO DOS HONORÁRIOS PERICIAIS. RESPONSABILIDADE DO ESTADO A QUE ESTIVER VINCULADO O MINISTÉRIO PÚBLICO, AUTOR DA AÇÃO. TESE FIRMADA EM RECURSO REPETITIVO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 232/STJ. INAPLICABILIDADE DO ART. 91 DO CPC/2015. PRINCÍPIO DA ESPECIALIDADE. PRECEDENTES DO STJ. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO NÃO CONFIGURADA.
+1. A Primeira Seção do STJ, sob o rito dos recursos dos recursos repetitivos, firmou a tese no sentido de que os valores dos honorários periciais devem ser suportados pela Fazenda Pública à qual se ache vinculada a parte autora da ação civil pública, em aplicação analógica da Súmula 232/STJ (REsp 1253844/SC, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 13/03/2013, DJe 17/10/2013).
+2. As Turmas de Direito Público do STJ entendem que, mesmo na vigência do CPC/2015, cabe à Fazenda Pública arcar com o adiantamento dos honorários de perícia requerida pelo Ministério Público em sede de ação civil pública (AgInt no RMS 55.757/SP, Rel. MIN. MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, DJe 29/04/2021; AgInt no AREsp 1768468/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01/07/2021; AgInt no RMS 59.106/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 21/03/2019; AgInt no RMS 56.423/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 12/09/2018).
+3. A existência de posicionamento monocrático e isolado do Supremo Tribunal Federal, em sentido contrário ao da jurisprudência desta Corte, não configura a superação dos precedentes elencados pela decisão agravada, tampouco caracteriza violação à cláusula de reserva de plenário.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.028.790/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/10/2022, DJe de 19/10/2022 - grifos nossos.)
+Ora, ao tratar do tema, o Tribunal de origem consignou (fls. 690/692 - grifos nossos ):
+Mesmo após a entrada em vigor do CPC/2015, manteve-se a aplicação das conclusões dispostas em sede de recursos repetitivos, sob o Tema 510/STJ. Ou seja, predomina-se o princípio da especialidade inserido na Lei 7.347/1985, que, em seu art. 18, determina que não haverá custeio dos honorários periciais pelo Ministério Público na Ação Civil Pública, concluindo-se que deve ficar a cargo da Fazenda Pública que está vinculado o Ministério Público, a responsabilidade pelo pagamento de honorários periciais.
+Dessa maneira, não merece acolhida o argumento de que se deve aplicar ao caso o disposto no artigo 91 do CPC, haja vista a especialidade da Lei nº 7.347/85, que não previu o regramento do novo CPC.
+A obrigação do Apelante não decorre da circunstância de ser parte, mas sim do fato de que cabe custear a perícia requerida pelo beneficiário da gratuidade da justiça.
+ ..
+Assim, nota-se que a jurisprudência do Superior Tribunal de Justiça é pacífica em relação a não se exigir do Ministério Público o adiantamento de honorários periciais em Ação Civil Pública, bem como a condenação ao pagamento de toda e qualquer despesa processual, aplicando-se, por analogia, a Súmula 232/STJ, imputando à Fazenda Pública à qual a Instituição Ministerial está vinculada, a responsabilidade das referidas despesas.
+Aplica-se o entendimento da Súmula nº 232 do STJ, ainda na vigência do CPC/15, de maneira que a Fazenda Pública correspondente assuma com o pagamento dos honorários periciais devidos pelo Ministério Público, veja-se:
+"A Fazenda Pública, quando parte no processo, fica sujeita à exigência do depósito prévio dos honorários do perito. "
+Para que haja compatibilização da Súmula nº 232 do STJ com os dispositivos legais previstos no CPC/2015, deve-se compreender que, independente do caso concreto em julgamento em que for necessária a perícia e, consequentemente, o pagamento dos honorários periciais ao profissional especialista, a Fazenda Pública, deverá, em todo orçamento anual, prever montante específico para tais custeios, a fim de quando for provocada a cumpri-lo nas ações civis públicas.
+Desse modo, escorreita a sentença que condenou o Estado de Mato Grosso ao custeio dos honorários periciais requeridos e anuídos pelo Ministério Público em sede de Ação Civil Pública.
+Desse modo, estando o acórdão recorrido em consonância com a jurisprudência desta Corte, incide o óbice da Súmula 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+ EMENTA
