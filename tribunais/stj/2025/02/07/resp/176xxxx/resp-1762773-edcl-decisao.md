@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCELO PERBONI contra decisão de fls. 812-816, que deu provimento ao recurso especial para restabelecer a sentença, condenando o embargante ao pagamento dos honorários advocatícios na ordem de 10% sobre o valor atualizado da causa.
+Em suas razões, a parte embargante sustenta a omissão da decisão embargada em relação à intempestividade do recurso especial e do distinguishing realizado na origem que afastou a tese repetitiva acerca da aplicação do art. 85, § 8º, do CPC.
+Requer, portanto, sejam acolhidos os embargos de declaração de modo a sanar as omissões apontadas e, por consequência, reconsiderada a decisão que deu provimento ao especial.
+Impugnação foi apresentada às fls. 832-835.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+Como se sabe, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não ocorreu no caso concreto.
+Isso porque não prospera a alegação de intempestividade do recurso especial, na medida em que cabe agravo interno contra a decisão unipessoal que não conheceu dos embargos declaratórios opostos na origem.
+No caso concreto, de se observar que, embora os embargos de declaração não tenham sido conhecidos, o agravo interno interposto pelo embargado foi conhecido e desprovido, interrompendo, portanto, o prazo para a interposição do recurso especial.
+É o que se retira, a contrario sensu, do seguinte julgado deste STJ:
+AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO. INTERPOSIÇÃO DE AGRAVO INTERNO NA ORIGEM CONTRA DECISÃO COLEGIADA. INADMISSIBILIDADE. INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DE OUTROS RECURSOS. NÃO OCORRÊNCIA. INTEMPESTIVIDADE DO RECURSO ESPECIAL.
+1. O prazo para interposição do recurso especial (art. 1.003, § 5º do CPC de 2015) é de 15 (quinze) dias úteis, conforme o art. 219 do CPC de 2015. Intempestividade constatada.
+2. O agravo interno manejado na origem contra o acórdão proferido no julgamento dos embargos de declaração não chegou a ser conhecido, consignando-se a impropriedade da via eleita. Isso porque não cabe agravo interno contra decisão colegiada, configurando-se erro grosseiro.
+3. A interposição de recurso manifestamente inadmissível não tem o efeito de interromper o prazo para outros recursos, sendo, por conseguinte, indiscutível a intempestividade do apelo especial.
+4. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 1.213.356/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2018, DJe de 21/8/2018.)
+Dessa forma, tendo sido disponibilizado o acórdão que julgou o agravo interno interposto na origem no dia 27/4/2018 (fl. 722), é tempestivo o recurso especial apresentado no dia 22/5/2018, o que foi devidamente analisado tanto na decisão de admissibilidade proferida pelo Tribunal de origem (fl. 759) como neste STJ.
+Da mesma maneira, não prospera a alegação de observância de distinguishing realizado na origem, haja vista que a decisão embargada enfrentou o tema relacionado à fixação dos honorários advocatícios em sua totalidade, concluindo pelo equívoco do Tribunal a quo em não aplicar o disposto no art. 85, § 2º, do CPC.
+Veja-se:
+Conforme disposto na sentença de primeiro grau de jurisdição, os elementos probatórios dos autos denotam que o negócio jurídico entabulado pelas partes não foi concretizado, motivo pelo qual não foi paga a quantia de R$ 1.600.000,00 pelo autor da ação de restituição de valor proposta em decorrência de instrumento particular de cessão de direitos do imóvel (fl. 549).
+Dessa maneira, entendeu o Juízo de piso que o autor deveria pagar as custas processuais e os honorários advocatícios na ordem de 10% sobre o valor atualizado da causa, conforme preconiza o disposto no art. 85, § 2º, do CPC.
+O Tribunal de origem, por sua vez, reformou a sentença por entender que "não houve condenação, não sendo possível mensurar o proveito econômico, já que o negócio não foi concretizado. A regra aplicável é a da apreciação equitativa descrita no §8º do artigo 85, na qual são previstas situações em que inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo" (fl. 641).
+Contudo, tal orientação diverge da jurisprudência do STJ acerca do tema, segundo a qual "o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa. O § 8º do art. 85, por sua vez, transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo" (AgInt no R Esp n. 1.818.154/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/2/2021, DJe de 3/3/2021.)
+Assim, concluindo-se que o valor da causa não é irrisório, é possível identificar que a "parte recorrente deixou de ter que pagar a quantia referente a R$ 1.600.000,00, entendo que a sentença de primeiro grau deve ser restabelecida em sua totalidade, autorizando-se a fixação dos honorários em 10% sobre o valor atualizado da causa, em respeito à tese repetitiva firmada pelo STJ" (fl. 815).
+Dito isso, a irresignação do embargante demonstra a mera insatisfação com o resultado do decisum, motivo pelo qual, os embargos merecem ser rejeitados.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
