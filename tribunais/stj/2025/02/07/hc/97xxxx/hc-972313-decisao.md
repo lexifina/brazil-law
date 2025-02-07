@@ -1,0 +1,26 @@
+DECISÃO
+O presente writ, com pedido de liminar, impetrado em benefício de ANDERSON DE PAULA SILVA - preso preventivamente pela prática do crime de roubo majorado tentado (fls. 75/78) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2195501-18.2024.8.26.0000), não comporta acolhimento.
+Com efeito, busca a impetração a revogação da prisão preventiva, imposta pelo Juízo de Direito da 1ª Vara Criminal da comarca de Bragança Paulista/SP (Ação Penal n. 1501574-41.2024.8.26.0099 ), com a expedição de alvará de soltura em favor do paciente, para que ele possa responder ao processo em liberdade, ao argumento de ausência de fundamentação idônea para a manutenção do decreto prisional, embasado na gravidade abstrata do delito, além da desnecessidade da constrição, já que suficientes as medidas cautelares alternativas, considerando-se os predicados favoráveis do acusado (fl. 22).
+Alega, ainda, fragilidade probatória e excesso de prazo para a formação da culpa, haja vista que o réu já se encontra preso desde dia 22 de Junho de 2024  .. , ou seja, aproximadamente 6 meses, sem que tenha sido proferida sentença em 1º Grau (fl. 22).
+Ocorre que, do atento exame dos autos, não visualizo o alegado constrangimento ilegal.
+Inicialmente, quanto à autoria delitiva e ao excesso de prazo para a formação da culpa, constato que tais temas não foram discutidos pelo ato apontado como coator, de modo que inviável a sua análise direta por esta Corte Superior, para não incorrer em indevida supressão de instância.
+Quanto à prisão cautelar, observo que a decisão se encontra devidamente fundamentada para a garantia da ordem pública, tendo a Juíza de primeiro grau consignado que (fls. 76/77 - grifo nosso):
+ ..
+Consta dos autos o envolvimento dos acusados no grave delito de roubo qualificado tentado. O crime teria ocorrido mediante emprego de arma de fogo e em concurso de agentes. conforme consta no boletim de ocorrência de fls. 05/07.
+Os indícios de autoria estão presentes. Os quatro acusados já vinham sendo investigados ante o envolvimento no delito em questão. Leandro, aliás, teria sido o responsável pela indicação da casa vítima, pois o imóvel é no seu condomínio.
+Há, ainda, a suposta confissão extrajudicial de Jonas de Melo, no tocante à participação no delito e em conluio aos demais.
+Da mesma forma, após expedição de mandado de busca na casa dos acusados, houve encontro de armas de fogo, além de objetos relacionados à outra vítima, encontrados na casa de Leandro.
+Mas não é só. Conforme relatório de investigação policial de fls. 05/13 dos autos de medida cautelar em apenso, as linhas telefônicas dos acusados se cruzam e apontam a presença de todos nas proximidades do local dos fatos. Há mensagem captada no celular de um dos autuados e no qual há menção, inclusive, ao susto tomado por uma das vítimas (fls.13).
+ ..
+O fato em discussão, por si só, revela gravidade concreta a ensejar imediata ação, pelo Poder Judiciário, com vistas a evitar que novas pessoas sejam aterrorizadas com tais condutas criminosas.
+Da mesma forma, uma vez detidos, não poderão intimidar as vítimas e testemunhas, tampouco se esquivar de eventual aplicação de pena. Mesmo porque, as vítimas residiriam no mesmo condomínio de um dos acusados, sendo ele, aliás, o responsável por receber os demais no condomínio. Tal situação indica, obviamente, que as vitimas ficarão temerosas e não apresentarão relato isento ao depor.
+Ademais, é bom salientar que eventuais circunstâncias pessoais do acusado, por si só, não são os únicos elementos para se obter o benefício da liberdade provisória, mormente quando os acusados foram denunciados por roubo.
+ ..
+Como visto, a prisão preventiva foi concretamente justificada para a garantia da ordem pública, vulnerada pela gravidade concreta do delito praticado pelo paciente, o qual, segundo consta dos autos, com outros três comparsas, encapuzados e armados, ingressou em um condomínio residencial e tentou assaltar a casa das vítimas. Assim, constatada a periculosidade do agente, são insuficientes as medidas diversas da prisão para acautelar o meio social, ainda que ele possua condições pessoais favoráveis. Nesse sentido: RHC n. 187.441/PR, Ministra Daniela Teixeira, Quinta Turma, DJEN 17/12/2024.
+O decreto prisional está em sintonia com a orientação consolidada no Superior Tribunal Justiça no sentido de que é idônea a fundamentação baseada no modus operandi do crime, a denotar a periculosidade concreta do agente, circunstância que justifica a necessidade da custódia para a garantia da ordem pública.
+A propósito: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+Em face do exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO TENTADO. NEGATIVA DE AUTORIA E EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. PRISÃO CAUTELAR. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GRAVIDADE DO DELITO. NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. INADEQUAÇÃO DAS MEDIDAS DIVERSAS DA PRISÃO. AUSÊNCIA DE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Writ parcialmente conhecido e, nessa extensão , ordem denegada .
