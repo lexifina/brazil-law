@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por GILMAR AUGUSTO DE AMORIM, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fls. 513-517):
+"Recurso em sentido estrito. HOMICÍDIO QUALIFICADO. Materialidade devidamente comprovada e indícios suficientes de autoria. Sentença de pronúncia bem fundamentada. Impossibilidade de afastar a qualificadora prevista no art. 121, IV, do Código Penal. RECURSO DESPROVIDO".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 121, § 2º, IV, do Código Penal; e 413, § 1º, e 414, do Código de Processo Penal. Aduz para tanto, em síntese, que não foram demonstrados indícios suficientes de autoria. Além disso, destaca a inexistência de provas de que o crime foi cometido por meio de recurso que tenha dificultado ou tornado impossível a defesa do ofendido.
+Com contrarrazões (fls. 605-615), o recurso especial foi inadmitido na origem (fls. 618-621), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (fls. 688-690).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Ao confirmar a decisão de pronúncia do réu, o Tribunal de origem o fez nos seguintes termos:
+"As provas produzidas, entretanto, são suficientes para a pronúncia.
+Sob o crivo do contraditório, Eloina dos Santos, genitora da vítima, afirmou que o recorrente foi procurar seu filho por três ou quatro vezes naquele dia, usando touca, mas ele não estava. Posteriormente, quando seu filho chegou de uma festa, ouviu um disparo e seu filho Paulo pedindo para ele parar. Ao sair, ouviu outros disparos contra seu filho, mas não o encontrou naquele momento, só o localizando, posteriormente, caído de bruços, pois ele correu para o fundo da casa de seu vizinho. Relatou que seu filho chegou a falar o nome de Gilmar quando pediu para que parasse de atirar e que havia outra pessoa com o recorrente.
+Em Juízo, no mesmo sentido, a testemunha João Carlos Vieira, padrasto do ofendido, relatou que ele e sua esposa estavam no interior da casa e ouviram a vítima gritar "Para, Gil" e, em seguida, dois disparos de arma de fogo. Logo após, saíram de casa e visualizaram Gilmar e outro rapaz Milton, já falecido - saindo correndo do local.
+O policial civil Jair Camargo relatou se lembrar vagamente dos fatos, diante do tempo decorrido, e o policial Celso Moura não se recordou do ocorrido.
+A testemunha Roniele, irmão do ofendido, disse que era pequeno na época e não se recordava dos fatos.
+Como é sabido, a decisão de pronúncia é mero juízo de admissibilidade da acusação, na qual o Magistrado encaminha o acusado para julgamento pelo Tribunal do Júri. E, para tanto, bastam indícios de autoria. E, existindo duas versões antagônicas sobre o ocorrido, com testemunhas indicando a participação do recorrente nos fatos, a decisão acerca da absolvição ou condenação do recorrente caberá ao Conselho de Sentença.
+Preenchidos, pois, os requisitos necessários à pronúncia, conforme o disposto no artigo 413 do Código de Processo Penal" (fls. 516-517).
+Como se vê, a Corte de origem confirmou a pronúncia por entender haver prova da materialidade e indícios de autoria do delito de homicídio, pontuando que dos elementos de prova colhidos aos autos, não se poderia acolher os pleitos de absolvição sumária ou de impronúncia. Nesse sentido, foi destacado o relato das testemunhas Eloina e João Carlos Vieira, mãe e padrasto da vítima, os quais afirmaram ter ouvido os disparados de arma de fogo, bem como a vítima mencionar a pessoa de Gilmar ou "Gil". Além disso, João Carlos Vieira afirmou ter visto o réu fugindo da cena do crime logo após os disparos na companhia de outro indivíduo.
+No que diz respeito à incidência da qualificadora que dificultou a defesa da vítima, a Corte de origem asseverou que os indícios até então colhidos revelam que a vítima foi "atingida de surpresa e pelas costas" (fl. 517), o que justifica a manutenção da qualificadora .
+No caso, vale lembrar que, ao se prolatar a decisão de pronúncia, as qualificadoras somente podem ser afastadas quando se revelarem manifestamente improcedentes, o que não é o caso dos autos. Com efeito, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pelo afastamento da qualificadora ou mesmo pela impronúncia do réu, conforme pleiteado pela defesa, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7/STJ. Nesse sentido:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. QUALIFICADORA DO MOTIVO FÚTIL. PRETENSÃO DE AFASTAMENTO. SÚMULA 7/STJ. PRECEDENTES.
+1. Nos delitos de competência do Tribunal do Júri, somente se excluem as qualificadoras manifestamente improcedentes, sob pena de invasão da competência do Conselho de Sentença. Precedentes.
+2. A exclusão de qualificadora demanda o revolvimento do conjunto fático probatório dos autos, procedimento inviável ante o enunciado da Súmula
+7/STJ.
+3. Agravo regimental improvido".
+(AgRg no AREsp 1808701/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/05/2021, DJe 07/05/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. VIOLAÇÃO DO ART. 155 DO CPP. NÃO OCORRÊNCIA. DECISÃO LASTREADA EM PROVAS COLHIDAS TANTO NA FASE DO INQUÉRITO QUANTO JUDICIALMENTE. INVERSÃO DO ACÓRDÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. "Alinhando-se ao entendimento firmado pelo Supremo Tribunal Federal (HC 180.144/GO, Rel. Ministro Celso de Mello, DJe 22/10/2020), este Superior Tribunal vem entendendo não ser possível que a pronúncia esteja lastreada tão somente em elementos colhidos durante a fase inquisitorial" (REsp n. 1.970.461/BA, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 15/2/2022, DJe de 21/2/2022.)
+2. O art. 413 do Código de Processo Penal exige, para a submissão do imputado a julgamento pelo Tribunal do Júri, a existência de comprovação da
+materialidade delitiva e de indícios suficientes de autoria ou participação, que se submetem aos ditames do art. 155 do Código de Processo Penal.
+3. Hipótese em que a pronúncia foi lastreada na prova oral, colhida inclusive judicialmente, bem como em mídia audiovisual constante nos autos, na qual a vítima, ainda com vida, prestou declarações aos policiais, tendo o magistrado destacado, ainda, que "a divergência entre os depoimentos prestados pela única testemunha ocular dos fatos em ambas as fases se justificaria pelas ameaças recebidas por referida testemunha". Inexistente, nesse contexto, a apontada violação do art. 155 do CPP.
+4. A inversão do acórdão, de modo a impronunciar os agravantes, demandaria amplo revolvimento fático-probatório, o que não se admite na via do recurso especial, conforme a Súmula 7/STJ.
+5. Agravo regimental improvido".
+(AgRg no AREsp n. 2.240.596/MT, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
