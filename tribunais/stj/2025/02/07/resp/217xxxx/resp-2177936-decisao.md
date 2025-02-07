@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS com fundamento no art. 105, III, alínea "a", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado:
+"PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. REVISÃO ADMINISTRATIVA. PERÍCIA MÉDICA. IMPOSSIBILIDADE. ARTIGO 101, § 1º, I, DA LEI N.º 8.213/91. REQUISITO PREENCHIDO.
+1. DISPÕE O ARTIGO 43, § 4º, DA LEI 8.213/91 QUE O SEGURADO APOSENTADO POR INVALIDEZ PODERÁ SER CONVOCADO A QUALQUER MOMENTO PARA AVALIAÇÃO DAS CONDIÇÕES QUE ENSEJARAM O AFASTAMENTO OU A APOSENTADORIA, CONCEDIDA JUDICIAL OU ADMINISTRATIVAMENTE, OBSERVADO O DISPOSTO NO ARTIGO 101.
+2. NOS TERMOS DO ARTIGO 101, § 1º, I, DA LEI 8.213/91, O APOSENTADO POR INVALIDEZ QUE NÃO TENHA RETORNADO À ATIVIDADE ESTARÁ ISENTO DO EXAME MÉDICO DE REVISÃO A CARGO DA PREVIDÊNCIA SOCIAL, APÓS COMPLETAR CINQUENTA E CINCO ANOS OU MAIS DE IDADE E QUANDO DECORRIDOS QUINZE ANOS DA DATA DA CONCESSÃO DA APOSENTADORIA POR INVALIDEZ OU DO AUXÍLIO-DOENÇA QUE A PRECEDEU.
+3. NO CASO, A PARTE AUTORA JÁ PERCEBIA A APOSENTADORIA POR INVALIDEZ POR MAIS DE 15 ANOS, BEM COMO CONTAVA COM MAIS DE 55 ANOS DE IDADE AO TEMPO DO EXAME MÉDICO QUE EMBASOU A CESSAÇÃO DOS PAGAMENTOS, DE MODO QUE INDEVIDA A REVISÃO E O CANCELAMENTO DO BENEFÍCIO, REALIZADOS PELO INSS.
+4. APELAÇÃO PROVIDA." (fl. 234)
+Nas razões do recurso especial, o recorrente alega violação do artigo 1.022, inciso II do CPC/15, ao argumento de que a Corte de origem não se manifestou a respeito da alegada inocorrência de decadência.
+Quanto a questão de fundo, sustenta o recorrente alega violação aos arts. 42, 43, §4º, 101, §1º e 103-A da Lei n. 8.213/91, sob os seguintes argumentos: (a) que a aposentadoria por incapacidade permanente pode ser revista em razão da cessação de suas condições geradoras, sendo obrigatória a submissão da recorrida a perícia médica bienal, (b) que não há que se falar em decadência, pois a autora não se enquadra nas hipóteses de exceção legais, pois completados 10 anos da concessão do benefício ao segurado, que conta com menos de 60 anos de idade e (c) que não pretende anular ato ilegal, mas sim reavaliar as modificações de estado clínico do segurado.
+Embargos de declaração desprovidos à fl. 327.
+Com contrarrazões às fls. 347-356.
+Recurso admitido na origem às fls. 362-363.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Afasta-se a alegada violação ao art. 1.022 do CPC/15, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, observa-se que a Corte de origem afirmou que restou comprovadas as condições para que o segurado não fosse submetido a reavaliação a qualquer tempo (fl. 232).
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Quanto à alegada violação aos arts. 42, 43, §4º, 101, §1º e 103-A da Lei n. 8.213/91, a Corte de origem afirmou, com base no contexto fático dos autos, que a parte segurada está isenta de se submeter a novo exame médico considerando que possuía 55 anos de idade à época da cessação do benefício, bem como já o recebia há mais de 15 anos, in verbis:
+"Ocorre que descabe perquirir, no caso, acerca de tal capacidade, diante da norma contida no artigo 101, § 1º, da Lei nº 8.213/1991, na medida em que esta norma isenta o segurado de se submeter a novo exame médico, a cargo do INSS, nas hipóteses que elenca.
+(..)
+No caso em análise (ev. 03, INF2), quando da cessação, em 09/10/2019, o autor, nascido em 19/02/1964, contava com mais de 55 anos, e já recebia benefício por incapacidade por mais de 15 anos, na medida em que o benefício de auxílio-doença (NB 127.066.530-5) se iniciou em 08/11/2002, sendo posteriormente convertido em aposentadoria por invalidez (NB 533.376.662-9). Portanto, indevida a revisão com cancelamento do benefício, por força da perícia realizada pelo INSS." (fls. 231-232)
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Nesse mesmo sentido:
+ADMINISTRATIVO E PREVIDENCIÁRIO. AGRAVO INTERNO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. REQUERIMENTO DE REVERSÃO. IMPOSSIBILIDADE. LAUDO MÉDICO. DESFAVORÁVEL. SOBERANIA DAS INSTÂNCIAS ORDINÁRIAS EM MATÉRIA PROBATÓRIA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO DO PARTICULAR DESPROVIDO.
+1. Afastada a possibilidade de retorno ao trabalho de servidor público aposentado por invalidez quando não demonstrado que o mesmo preenche os requisitos indispensáveis ao seu retorno, qual seja, a demonstração de que os motivos da aposentadoria não mais existem (art. 25, inciso I, da Lei 8.112/1990).
+2. No caso, entendeu a Corte de Origem que o servidor encontra-se aposentado por invalidez, em razão de doença crônica incurável e incapacitante para o exercício de suas atividades.
+3. Impossibilidade de afastar a conclusão acerca da incapacidade permanente do agravante, pois essa demandaria o efetivo reexame do contexto fático-probatório dos autos e não a mera valoração da prova, o que atrai a incidência da Súmula 7 do STJ.
+4. Agravo interno da particular a que se nega provimento.
+(AgInt no AREsp n. 1.906.336/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. APOSENTADORIA POR INVALIDEZ. REVISÃO ADMINISTRATIVA. REQUISITOS LEGAIS PREENCHIDOS PELO SEGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
