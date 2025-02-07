@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: revisional de contr ato de empréstimo pessoal, ajuizada por MARIA APARECIDA SIQUEIRA STEFANINI, em face da agravante, visando reduzir encargos que julga abusivos.
+Sentença: julgou parcialmente procedentes os pedidos para limitar os juros remuneratórios à taxa média de mercado e autorizar a restituição de valores na forma simples.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS - AÇÃO REVISIONAL DE CONTRATO - PRELIMINARES - NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO - CERCEAMENTO DE DEFESA - INÉPCIA DA INICIAL - PREJUDICIAL DE PRESCRIÇÃO - OFENSA AO PRINCÍPIO DA DIALETICIDADE - AFASTADAS - MÉRITO - POSSIBILIDADE DE REVISÃO - INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - JUROS REMUNERATÓRIOS - LIMITAÇÃO À TAXA MÉDIA DE MERCADO - JUROS ESTIPULADOS EM PERCENTUAL EXCESSIVO - AFASTAMENTO DOS EFEITOS DA MORA - HONORÁRIOS DE SUCUMBÊNCIA MANTIDOS - RECURSO INTERPOSTO PELA AUTORA PARCIALMENTE PROVIDO - RECURSO DA REQUERIDA DESPROVIDO.
+Estando a sentença suficientemente motivada e não havendo violação às garantias constitucionais, deve ser afastada a alegação de nulidade por ausência de fundamentação.
+Se as provas constantes dos autos são suficientes para formar o convencimento do magistrado, o julgamento do feito no estado em que se encontra não caracteriza cerceamento da defesa.
+Não há falar em inépcia da peça vestibular quando verificado que os pedidos formulados foram claros e objetivos, de forma a permitir ao demandado o exercício do contraditório e da ampla defesa.
+Em se tratando de ação revisional de contrato de contrato bancário aplica-se o prazo decenal para a prescrição previsto no artigo 205, do Código Civil.
+O princípio da dialeticidade impõe ao recorrente o dever de expor as razões de seu inconformismo, contrastando a decisão recorrida com outros argumentos suficientes para levar o Tribunal a adotar um outro entendimento. Se a peça recursal atacou os fundamentos da decisão, o recurso deve ser conhecido.
+Na esteira do entendimento do Superior Tribunal de Justiça, levando- se em consideração a situação jurídica específica do contrato, é de se admitir a revisão das cláusulas consideradas abusivas pelo Código de Defesa do Consumidor, não se revestindo o princípio do pacta sunt servanda de caráter absoluto.
+Se os juros remuneratórios contratados forem excessivamente superiores à taxa média de mercado fixada pelo Banco Central do Brasil, deve ser admitida a revisão contratual.
+O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual descaracteriza a mora e afasta seus efeitos, nos termos da orientação firmada pela Corte Superior no REsp n.º 1.061.530/RS.
+Mantém-se os honorários de sucumbência quando a fixação atende aos princípios da razoabilidade e proporcionalidade. (e-STJ, fls. 3.217/3.218)
+Decisão de admissibilidade do TJ/MS: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "a divergência jurisprudencial é patente, razão pela qual o Acórdão Recorrido deve ser reformado, a fim de que seja observado o caso de forma individual, analisando o tipo de contratos firmados pela Recorrente, já que os parâmetros utilizados pela Recorrida divergem das demais operações no mercado."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 15 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
