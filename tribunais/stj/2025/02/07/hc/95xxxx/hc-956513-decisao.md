@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JAQUES DOUGLAS CORREA DE BRITTO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento da Revisão Criminal n.5262311-11.2024.8.21.7000.
+Extrai-se dos autos que o paciente foi condenado à pena de 8 anos, 6 meses e 20 dias de reclusão, no regime inicial fechado, além do pagamento de 50 dias-multa, pela prática do crime tipificado no art. 157, §2º, incisos I e II, do Código Penal.
+O Tribunal de origem deixou de conhecer a revisão criminal interposta pelo paciente, nos termos do acórdão que foi assim ementado (e-STJ fl.15/17):
+"REVISÃO CRIMINAL. ROUBO MAJORADO. NULIDADE, RECONHECIMENTO DE PESSOAS. NÃO CONHECIMENTO. Não é possível a reforma de decisão transitada em julgado, em revisão criminal, com fun- damento em alteração do entendimento jurisprudencial. Precedente. A discussão sobre a autoria delitiva não ficou delimitada à questão do reconhecimento, tendo sido feito o exame de toda a prova colhida. REVISÃO CRIMINAL NÃO CONHECIDA."
+No presente writ, a defesa sustenta a nulidade do procedimento de reconhecimento pessoal, argumentando não terem sido seguidas as formalidades previstas no art. 226 do Código de Processo Penal e que a condenação estaria baseada exclusivamente no reconhecimento pessoal.
+Requer a concessão da ordem para que seja declarada a nulidade da prova obtida, com consequente absolvição do paciente; alternativamente, seja cassado o acórdão com a determinação de conhecimento da revisão pelo tribunal de origem.
+O Ministério Público Federal opinou pela concessão da ordem para cassar o acórdão impugnado, com a síntese (e-STJ fls.108):
+"HABEAS CORPUS. ROUBOS CIRCUNSTANCIADOS. REVISÃO CRIMINAL BASEADA EM ALTERAÇÃO JURISPRUDENCIAL. POSSIBILIDADE. PRECEDENTE DA E. TERCEIRA SEÇÃO DESSE SUPERIOR SODALÍCIO. ACÓRDÃO VERGASTADO EM DISSONÂNCIA COM A ORIENTAÇÃO DA E. TERCEIRA SEÇÃO. MÉRITO: ARTIGO 226 DO CÓDIGO DE PROCESSO PENAL. ALEGADA VIOLAÇÃO. QUESTÃO QUE DEVE SER DIRIMIDA PREVIAMENTE NA ORIGEM. PARECER PELA CONCESSÃO DA ORDEM PARA CASSAR O V. ARESTO IMPUGNADO, AFASTANDO-SE O ÓBICE PROCESSUAL ERIGIDO, DETERMINANDO-SE QUE OUTRA DECISÃO SEJA PROFERIDA, NO MÉRITO, CONFORME ENTENDER A DOUTA CORTE DE ORIGEM."
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+A tese aventada pela defesa foi rejeitada pela Corte Estadual, fls.16, sob argumento de "..o posicionamento jurisprudencial à época da instrução criminal apontava que a forma de proceder ao reconhecimento de pessoa se tratava de mera recomendação, é caso de não conhecimento da revisional. A jurisprudência é pacífica sobre a impossibilidade de fundamentar a revisão criminal em alteração jurisprudencial, sob pena de violar o princípio da segurança jurídica,..".
+Nesse contexto, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a alegada nulidade no reconhecimento fotográfico do paciente, razão pela qual resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+De outro lado, não se desconhece que houve revisão à orientação jurisprudencial anterior a respeito do tema reconhecimento de pessoas, prevalecendo o entendimento de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC n. 598.886/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020).
+Todavia, o acórdão impugnado encontra-se em harmonia com o entendimento jurisprudencial desta Corte Superior, segundo o qual, "é impossível a aplicação retroativa da jurisprudência relativa à observância às formalidades do art. 226 do CPP quanto ao reconhecimento fotográfico a condenações acobertadas pelo manto preclusivo da coisa julgada" (AgRg na RvCr n. 6.114/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/4/2024, DJe de 30/4/2024.).
+Ainda, no mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL NÃO CONHECIDA NA ORIGEM. IMPOSSIBILIDADE.
+1. O não conhecimento da revisão criminal pela instância de origem torna inviável o conhecimento do pedido em habeas corpus.
+2. A ausência de deliberação pela instância de origem das questões de mérito suscitadas impede a apreciação do Superior Tribunal de Justiça, pois exigiria o reexame dos fatos e provas do processo, o que é inviável mesmo quando se alega alteração jurisprudencial.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, sobretudo porque, consoante o entendimento da Terceira Seção desta Corte Superior, "é impossível a aplicação retroativa da jurisprudência relativa à observância às formalidades do art. 226 do CPP quanto ao reconhecimento fotográfico a condenações acobertadas pelo manto preclusivo da coisa julgada" (AgRg na RvCr n. 6.114/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/4/2024, DJe de 30/4/2024.).
+4. Agravo regimental improvido.
+(AgRg no HC n. 942.532/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+Por fim, importa destacar que, com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese.
+Com igual conclusão, citam-se precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, §4º DA LEI N. 11.343/2006. APLICAÇÃO NA FRAÇÃO MÍNIMA DE 1/6. QUANTIDADE DE ENTORPECENTE APREENDIDO. FUNDAMENTO IDÔNEO PARA MODULAÇÃO. PEDIDO DE PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Não é viável o pleito para concessão de habeas corpus de ofício. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante - o que não se vê no caso dos autos -, nos termos do art. 654, § 2º, do CPP.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.466.078/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+Nesse contexto, não verifico a existência de flagrante ilegalidade apta a justificar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
