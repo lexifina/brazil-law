@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LAURA RAYANE SOUZA DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ (Apelação n. 0005427-60.2018.8.14.0008).
+Consta dos autos ter sido a paciente condenada, pela prática dos crimes de tráfico de entorpecentes e associação para o tráfico, à pena "de 10 (dez) anos de reclusão, mais 1200 (um mil e duzentos) dias-multa, em regime inicial fechado" (e-STJ fl. 35), sendo-lhe concedido o direito de recorrer em liberdade. Posteriormente, em 12/8/2019, foi decretada a prisão preventiva da paciente.
+Narra o processo a apreensão de 160 invólucros contendo cocaína.
+Impetrado habeas corpus na origem (HC n. 0802161-85.2020.8.14.0000), o Tribunal a quo converteu a prisão preventiva em prisão domiciliar com o uso de tornozeleira eletrônica em 12/5/2020 (e-STJ fls. 11/15).
+Em apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo para reduzir a sanção para 5 anos de reclusão e 500 dias-multa, declarando, de ofício, "a prescrição na modalidade intercorrente da pretensão punitiva do Estado quanto ao crime de Associação ao Tráfico de Drogas aos recorrentes, nos termos do artigo 107, inciso IV, do Código Penal, c/c os do artigo 61, do Código de Processo Penal" (e-STJ fl. 57 ).
+Neste writ, afirma a defesa haver excesso de prazo na medida cautelar imposta à paciente, asseverando que ela "já está a quase 4 anos tendo que utilizar o monitoramento eletrônico e Prisão domiciliar, houve determinação pelo Juízo decretando a prisão da paciente no dia 12 de agosto de 2019, (em anexo decreto preventivo) foi substituída a prisão preventiva por medidas cautelares DOMICILIAR E MONITORAMENTO em 12 de maio de 2020.o que se encontra até o momento cumprindo (certidão do sistema penitenciário)" - e-STJ fl. 4.
+Afirma que "a pena no 2º grau foi REDIMENSIONADA ficando em 5 anos, Ocorre que, está em andamento o processo da Paciente sofrendo constrangimento ilegal com AGRAVO REGIMENTAL NO SUPERIOR TRIBUNAL DE JUSTIÇA (conforme certidão em anexo) não tendo Transitado em Julgado o Processo. Cumpre, ainda, informar que foi juntada a Certidão do Tribunal de Justiça do Estado do Pará que comprova que a paciente ainda está cumprindo a medida cautelar desde 12 de maio de 2020" (e-STJ fl. 4).
+Busca, inclusive liminarmente, seja revogada a medida cautelar de prisão domiciliar, com monitoramento eletrônico.
+É o relatório.
+Decido.
+O Tribunal de origem substituiu a custódia preventiva pela domiciliar nos seguintes termos (e-STJ fls. 12/15):
+Em análise aos documentos juntados com a impetração, constata-se a presença de documentos hábeis, certidões de nascimentos, que comprovam ser a paciente LAURA RAYLANE SOUZA DE OLIVEIRA, mãe de 02 (dois) filhos menores, IDs 2843338 e 2843339.
+No mesmo sentido, pela análise dos documentos juntados e informações prestadas pelo juízo, ID 2863610, não se revelam nos autos elementos que demonstre periculosidade da paciente, muito embora tenha sido presa em razão de suposta fuga do distrito da culpa, afastando-se, assim, a incidência do disposto no art. 318-A, I, do Código de Processo Penal, sendo perfeitamente cabível a substituição de sua prisão preventiva pela domiciliar.
+ ..
+Ante ao exposto, conheço do writ e concedo a ordem para substituir a prisão cautelar no cárcere da paciente LAURA RAYLANE SOUZA DE OLIVEIRA pela domiciliar, se por outro motivo não se encontrar presa, com uso de tornozeleira eletrônica e imposição de medida cautelar diversa prevista no art. 319, I, do CPP.
+É o voto.
+No caso, em que pese a presença de requisitos para decretação da medida extrema de prisão preventiva, o Tribunal de origem, em 12/5/2020, substituiu-a por prisão domiciliar com a imposição concomitante de monitoramento eletrônico, em decorrência de ser a paciente genitora de dois menores de 12 anos.
+Ainda que passados aproximadamente 4 anos desde a concessão da prisão domiciliar e aplicação do monitoramento eletrônico, verifica-se o adequado trâmite processual e inexistência de qualquer desídia do Poder Judiciário na condução do feito e dos recursos relacionados.
+Ademais, destaca-se que " ..  não há disposição legal que restrinja o prazo de duração das medidas cautelares diversas da prisão, as quais podem perdurar enquanto presentes os requisitos do art. 282 do Código de Processo Penal, devidamente observadas as peculiaridades do caso e do agente" (AgRg no HC n. 737.657/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/6/2022).
+No mais, quanto ao aventado excesso de prazo para o julgamento de agravo regimental nesta Corte interposto, verifica-se a ausência de competência do Superior Tribunal de Justiça para apreciação da questão nos termos do art. 102, I, i, da Constituição Federal.
+Antes o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
