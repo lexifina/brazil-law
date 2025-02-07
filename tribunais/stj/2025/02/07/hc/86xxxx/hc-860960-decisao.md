@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de EZEQUIEL ALVES DE OLIVEIRA - preso preventivamente pela prática, em tese, do crime de posse ilegal de arma de fogo de uso restrito (Ação Penal n. 0800981-02.2022.8.15.0561 - Operação Sicarius) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (Habeas Corpus n. 0817841-78.2023.8.15.0000), não comporta acolhimento.
+Com efeito, busca a impetração o trancamento da ação penal , ao argumento de nulidade da prisão em flagrante, em razão da busca domiciliar efetivada sem fundada suspeita.
+Inicialmente, tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial (HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+No caso dos autos, a Corte local, ao afastar a alegação de violação de domicílio, considerou que analisando o Mandado de Busca e Apreensão expedido no PBA Crim n. 0800966-33.2022.8.15.0561 (Id. 22994031), observa-se que foi deferido pelo Juízo de Direito da Vara Única da Comarca de Coremas a apreensão de drogas, utensílios para o tráfico, armas de fogo, munições e outros objetos do crime etc. no Sítio Campo da Aviação e no Sí tio Boa Vista, ambos localizados na Zona Rural de Coremas/PB. Apesar de o referido Mandado não ter sido expedido contra o Paciente, a sua residência (Sítio Boa Vista) estava inserida na operação e, na oportunidade do seu cumprimento, a polícia lá encontrou duas armas de fogo. Sendo assim, não há que se falar em nulidade do Mandado e, consequentemente, trancamento da ação penal de n. 0800015-05.2023.8.15.0561 e declaração de nulidade das provas obtidas (fl. 84 - grifo nosso).
+Evidenciada a existência de mandado judicial, não há falar no constrangimento ilegal aventado.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO (OPERAÇÃO SICARIUS). NULIDADE. BUSCA E APREENSÃO DOMICILIAR. EXISTÊNCIA DE MANDADO JUDICIAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
