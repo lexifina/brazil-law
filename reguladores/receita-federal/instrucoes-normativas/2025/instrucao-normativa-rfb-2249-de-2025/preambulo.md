@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2249, de 6 de fevereiro de 2025
+Altera a Instrução Normativa RFB nº 2.161, 28 de setembro de 2023, para prorrogar, excepcionalmente, o prazo de registro das transações controladas de exportação e importação de commodities nas hipóteses que especifica.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Lei nº 14.596, de 14 de junho de 2023, resolve:
