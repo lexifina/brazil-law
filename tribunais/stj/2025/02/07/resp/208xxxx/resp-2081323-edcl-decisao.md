@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DILCEU ANTONIO ZATT e ZATT ADVOGADOS ASSOCIADOS contra a decisão de fls. 740/746, que deu provimento ao seu recurso especial, para julgar improcedente o pedido formulado pela autora, ora embargada, invertendo os ônus da sucumbência.
+Alegam os embargantes, em síntese, que a decisão recorrida seria contraditória, pois, apesar de reconhecer a improcedência total dos pedidos da autora, não determinou que os ônus sucumbenciais fossem por ela exclusivamente suportados.
+Argumentam que, diante do decaimento total da parte adversa, não podeira teria havido a simples inversão dos ônus da sucumbência, considerando que, na origem, tais ônus foram distribuídos proporcionalmente entre as partes.
+Impugnação não apresentada.
+Assim posta a questão, passo a decidir.
+Da análise dos autos, verifico que merecem prosperar os embargos opostos, uma vez que há, de fato, contradição a ser sanada na decisão recorrida.
+Note-se que, neste caso, em primeira instância, o Juiz da 6ª Vara Cível de Porto Alegre julgou parcialmente procedente o pedido formulado pela autora/embargada, declarando a nulidade de cláusula de contrato de prestação de serviços advocatícios celebrado entre as partes e condenando os réus/embargantes à devolução de valores indevidamente retidos a título de honorários contratuais e ao pagamento de danos morais.
+Diante da sucumbência recíproca, o Juiz distribuiu os ônus da sucumbência entre as partes, atribuindo 50% das despesas processuais a cada uma delas.
+Posteriormente, contudo, ao julgar embargos de declaração opostos, o Juízo de origem os acolheu, em parte, para, "considerando o decaimento mínimo da parte autora", condenar os réus "ao pagamento das custas processuais e dos honorários advocatícios ao patrono da parte autora, arbitrados em R$ 2.000,00, diante da natureza da causa e do trabalho empregados, consoante o disposto no artigo 85, §§2º e 8º, do CPC".
+Em segunda instância, no julgamento da apelação, o Tribunal de Justiça do Rio Grande do Sul deu parcial provimento ao recurso dos réus/embargantes e, simultaneamente, revisou a distribuição da sucumbência, determinando que a parte autora/embargante arcasse com 30% das custas e honorários e os embargantes com 70%.
+Note-se que, como o TJRS restabeleceu a sucumbência recíproca, distribuindo as despesas proporcionalmente entre as partes, na decisão de fls. 740/746, não poderia esta Relatora, ao dar provimento ao recurso dos réus para julgar improcedente o pedido formulado pela autora, ter determinado, simplesmente, a inversão dos ônus sucumbenciais, sendo certo que, nesse contexto de decaimento total dos pedidos, a autora/embargada deve arcar, integralmente, com tais ônus.
+Em face do exposto, acolho os embargos opostos para, sanando a contradição apontada, alterar o dispositivo da decisão anterior, que passa a ter a seguinte redação:
+Em face do exposto, dou provimento ao recurso especial, para julgar improcedente o pedido, condenando a parte autora/recorrida ao pagamento das custas processuais e dos honorários advocatícios dos réus, arbitrados em R$ 2.000,00, diante da natureza da causa e do trabalho empregados, consoante o disposto no artigo 85, §§2º e 8º, do CPC.
+Intimem-se.
+EMENTA
