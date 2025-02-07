@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça, por meio da qual não foi conhecido o respectivo recurso especial, por força da incidência do óbice da Súmula n. 7 do STJ (fls. 1096-1097).
+Tendo em conta os fundamentos da parte agravante, bem como a faculdade prevista no art. 259 do RISTJ, RECONSIDERO a decisão agravada e passo, a seguir, a novo exame do Recurso Especial.
+Trata-se de agravo interposto por ESTADO DE RORAIMA em face da decisão que inadmitiu seu recurso especial, dirigido contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, na Apelação Cível n. 828438-25.2021.8.23.0010, assim ementado (fl. 943):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. RAZÕES DE APELAÇÃO. AUSÊNCIA DE DIALETICIDADE. FALTA DE IMPUGNAÇÃO PONTO A PONTO A SENTENÇA RECORRIDA. REPETIÇÃO FIEL DA TESE APRESENTADA EM CONTESTAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. RECURSO NÃO CONHECIDO.
+Nas razões do recurso, a agravante alega, em síntese, que (fl. 1106):
+Observa-se que, o Recurso Especial buscou demonstrar que a matéria em debate gira em torno da observância do princípio da dialeticidade recursal e na análise das razões da apelação, sendo dispensável o reexame de fatos e provas, afastando, assim, a incidência da súmula 07 do STJ.
+O recorrente fundamentou adequadamente o recurso e foi expresso quanto aos dispositivos de lei federal violados pelo acordão recorrido. O recurso foi devidamente fundamentado, a decisão recorrida violou os referidos dispositivos 932, III e 1021, §1º do CPC.
+Requer, ademais, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado (fl. 1110).
+É o relatório.
+Decido.
+Com efeito, o Tribunal de origem não conheceu do recurso de apelação, pois a recorrente, ao copiar as razões da contestação, teria deixado de impugnar especificamente os fundamentos da sentença, descumprindo, assim, o princípio da dialeticidade. Destacam-se trechos do acórdão recorrido a esse respeito (fl. 944):
+Analisando minuciosamente as razões do apelo e o teor da sentença recorrida, conclui-se que o recorrente não a refutou pontualmente, ônus que lhe incumbe pelo princípio da dialeticidade. Trouxe argumentações que não combatem diretamente os pontos fixados pelo magistrado em sua decisão, repetindo a tese argumentada em contestação, lançando mão de rebater precisamente ipsis litteris fundamentação da análise de mérito.
+É importante frisar que é de competência do recorrente contrapor as razões desprendidas na sentença objurgada, para que assim demonstre onde reside o e que em erro in procedendo ou in judicando decorrência desse erro, a decisão merece reforma. Com efeito, razões de recurso sem argumentos capazes de infirmar os fundamentos da sentença atacada, não preenche a exigência legal da dialeticidade, na medida em que a apelação é recurso contra a sentença.
+Se o julgado não se debruçou sobre o mérito da demanda, não pode a instância recursal fazê-lo, como pretende a apelante.
+O acórdão merece reforma.
+Observa-se nas razões da petição de apelação (fls. 906-916) que a parte recorrente devolveu ao Tribunal a quo a matéria objeto de julgamento na sentença, relativa à natureza jurídica dos plantões extraordinários, definidos na Lei Estadual n. 1.439/2020.
+Com efeito, esta Corte Superior entende que o simples fato de a parte copiar trechos de manifestação anterior (inicial ou contestação) não impede o conhecimento da apelação, quando demonstrado o interesse de reforma da sentença, como ocorre na hipótese. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do STF, aplicável por analogia.
+2. A eventual repetição de parte da argumentação disposta na contestação, só por si, não torna inepto o recurso de apelação, quando demonstrado interesse na reforma da sentença, como ocorre na espécie. Precedentes. Inafastável o óbice da Súmula 83 do STJ.
+3. Alterar o entendimento de inocorrência da preclusão consumativa exigiria o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. O entendimento do Tribunal de origem está alinhado com a jurisprudência desta Corte sobre a matéria, no sentido de que, o efeito devolutivo da apelação (art. 515 do CPC/73 e 1.013 do CPC/2015) devolve todas as questões relacionadas com os fundamentos do pedido e da defesa, podendo o julgador adotar o enquadramento jurídico que entender de direito à solução da lide, não se encontrando limitado nem pelos fundamentos jurídicos adotados na sentença nem pelos suscitados pelas partes.
+5. A subsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia. Precedentes.
+6. Relativamente ao erro in judicando, à necessidade de revaloração da prova e ao quantum indenizatório, a ausência de indicação dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+7. Agravo interno desprovido." (AgInt no REsp 1860288/RO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/11/2020, DJe 04/12/2020)
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. GARANTIA HIPOTECÁRIA DE DÍVIDA PESSOAL. INADIMPLEMENTO. PERDA DO IMÓVEL. FRAUDE CONTRA CREDORES. RECONHECIMENTO. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. AÇÃO PAULIANA. NATUREZA PESSOAL. OFENSA AO ART 514 DO CPC. SÚMULA N. 83/STJ. ANTERIORIDADE DO CRÉDITO. RELATIVIZAÇÃO. CREDORES FUTUROS. HONORÁRIOS ADVOCATÍCIOS. SÚMULA N. 7/STJ.
+1. Não há violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. A ação pauliana tem natureza pessoal, razão pela qual é desnecessário citar o cônjuge do devedor doador e do donatário.
+3. A mera repetição, nas razões de apelação, dos argumentos constantes da inicial ou da contestação, não é razão suficiente para inviabilizar o conhecimento do apelo quando nítido o desejo de reforma ou anulação da sentença impugnada. Incidência da Súmula n. 83/STJ.
+4. Existindo crédito anterior ao ato de transmissão fraudulento, configurada está a fraude contra credores.
+5. É possível a relativização da anterioridade do crédito, requisito para o reconhecimento da fraude contra credores, quando configurada a fraude predeterminada em detrimento de futuros credores.
+6. Aplica-se a Súmula n. 7 do STJ se o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+7. Recurso especial parcialmente conhecido e desprovido." (REsp 1324308/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/02/2016, DJe 26/02/2016)
+Ante o exposto, torno sem efeito a decisão de fls. 943-950 e, em novo julgamento, conheço do agravo para DAR PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem com o fim de proceder-se ao julgamento do mérito do recurso de apelação .
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO CIVIL PÚBLICA. APELAÇÃO. DIALETICIDADE. CÓPIA DE TRECHOS DA CONTESTAÇÃO. POSSIBILIDADE. AGRAVO CONHECIDO PARA, EM NOVO EXAME, DAR PROVIMENTO AO RECURSO ESPECIAL.
