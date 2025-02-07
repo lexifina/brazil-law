@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se recurso especial interposto pela FAZENDA NACIONAL em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. SENAI. CONTRIBUIÇÃO AO INCRA E SALÁRIO. EDUCAÇÃO. ILEGITIMIDADE PASSIVA AD CAUSAM DO SERVIÇO SOCIAL AUTÔNOMO. ISENÇÃO. IMUNIDADE TRIBUTÁRIA CONFIGURADA. ARTIGOS 12 E 13 DA LEI 2613/65. ENTIDADE PRIVADA DE EDUCAÇÃO E ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. PRECEDENTES.
+1. Trata-se de apelação e re messa oficial de sentença que, em sede de mandado de segurança, julgou procedente o pedido, concedendo o mandamus, para declarar a inexigibilidade do recolhimento das contribuições ao INCRA e ao Salário-Educação pelas impetrantes, ratificando a liminar anteriormente deferida. Sem condenação em honorários advocatícios (Lei n.º 12.016/09, art. 25).
+2. Em suas razões de recurso, defende a Fazenda Nacional a legitimidade passiva da entidade terceira, devendo , portanto, integrar a lide em litisconsórcio passivo necessário unitário com a União. Aduz que, carente a citação de todos os litisconsortes passivos necessários e unitários, o julgamento é (ou eventual julgamento será) nulo (CPC, art. 115, inc. I), cujo reconhecimento se requer, com a consequente extinção do feito, sem resolução do mérito (CPC, art. 485, inc. IV). No mérito, aduz que o art. 13 da Lei nº 2.613/55, que previu a ampla isenção fiscal aos serviços das entidades do Sistema S, não foi recepcionado pela CF88.
+3. A sentença não merece reforma.
+4. De início, sem razão a preliminar aventada, eis que as entidades SESI e SENAI são, no presente caso, impetrantes do writ, integrando o polo ativo da relação processual.
+5 . Os Serviços Sociais Autônomos, gênero do qual são espécie o SERVICO SOCIAL DA INDUSTRIA E O SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL, são entidades de educação e assistência social, sem fins lucrativos, não integrantes da Administração direta ou indireta, que se enquadram no conceito do art. 150, VI, c, e art. 195, § 7º, ambos da CF/88, bem como dos arts. 9º, IV, c e 14 do CTN, assecuratório de imunidade tributária.
+6. O Código Tributário Nacional, em seus arts. 9º e 14º, regulamentou o disposto no art. 150, da Constituição Federal, estabelecendo os seguintes requisitos para fazer incidir a imunidade tributária no que tange às instituições de educação e de assistência social sem fins lucrativos: "i) não distribuírem qualquer parcela de seu patrimônio ou de suas rendas a qualquer título; ii) aplicarem integralmente, no País, os seus recursos na manutenção de seus objetivos institucionais e iii)manterem escrituração de suas receitas e despesas em livros revestidos de formalidades capazes de assegurar sua exatidão".
+7. No caso, verifica-se que os impetrantes /apelados, SENAI E SESI, preenchem tais requisitos, sendo entidades de direito privado sem fins lucrativos, que possuem como finalidade a atividade de organizar e administrar escolas de aprendizagem para industriários no país, nos termos do art. 2º do Decreto-Lei 4048/42, e do art. 1º do decreto-lei 9.403/46. Portanto, não há como equipará-los a uma empresa.
+8. Daí porque, uma vez enquadrado o Serviço Social Autônomo , de forma incontroversa, nos requisitos aptos a obter a isenção tributária em relação às contribuições para o INCRA e para o salário - educação , a manutenção da sentença é medida que se impõe.
+9 . Este Tribunal possui entendimento no sentido de que o SESI e todas as entidades que compõem o "Sistema S", são entidades beneficentes de assistência social. Precedentes. 08121215020184058300, APELAÇÃO/ REMESSA NECESSÁRIA, DESEMBARGADOR FEDERAL PAULO ROBERTO DE OLIVEIRA LIMA, 2ª TURMA, JULGAMENTO: 17/09/2019;PROCESSO: 08131137920184050000, AGRAVO DE INSTRUMENTO, DESEMBARGADOR FEDERAL PAULO MACHADO CORDEIRO, 2ª TURMA, JULGAMENTO: 23/07/2019; PROCESSO: 08001360320174058500, REMESSA NECESSÁRIA CÍVEL, DESEMBARGADOR FEDERAL LEONARDO HENRIQUE DE CAVALCANTE CARVALHO, 2ª TURMA, JULGAMENTO: 13/11/2018.
+10. Remessa necessária e apelação improvidas. (fls. 464/466)
+Os embargos de declaração foram rejeitados (fls. 475/476).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta violação aos arts. 489 e 1.022 do CPC.
+Contrarrazões às fls. 520/526.
+O recurso especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489 e 1.022 do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, de modo a solucionar devidamente as questões levadas a julgamento pelas partes.
+A negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC/2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Inexistente, pois, a apontada violação aos arts. 489 e 1.022 do CPC.
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
