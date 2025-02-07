@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por OI S/A - EM RECUPERACAO JUDICIAL, com fundamento na incidência  da Súmula  7 deste STJ e ausência de violação aos dispositivos legais apontados.
+Em suas razões recursais, a parte agravante sustenta que pretende a revaloração das provas, e não seu reexame, reiterando que o aresto violou a legislação indicada no recurso especial.
+Assevera, ainda, que inexiste o óbice da Súmula 7 deste STJ e que "o depósito junto à Caixa Econômica Federal deveria ter sido atualizado pela taxa SELIC, através de depósito na conta com código de operação nº 635, mas que isso não ocorreu, tendo sido aberta conta para crédito em geral, com código de operação nº 005". (fl.1.930)
+A AGÊNCIA NACIONAL DE TELECOMUNICACOES - ANATEL, ora agravada, apresentou petição aduzindo que concorda com o pleito do agravante e deixou de apresentar contrarrazões ao agravo em recurso especial (fl. 1.952).
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos do agravo em recurso especial, passo à análise do recurso especial.
+Com relação à alegada violação aos arts. 489 e 1.022 do CPC, considero a matéria prequestionada, pelo que passo à análise do mérito.
+A recorrente alega que a atitude da Caixa Econômica Federal, nos autos do agravo de instrumento, ao deixar de atualizar monetariamente, pela taxa SELIC, os valores bloqueados judicialmente, violou os arts.1º, §3º, I, 2º-A, §2º da Lei 9.703/98, bem como, o art. 39, §4º, da Lei 9.250/95 e art. 7º, parágrafo único, do Decreto-Lei 1.737/79.
+Em síntese, no recurso especial, destaca que, o valor bloqueado judicialmente foi atualizado pela Taxa Referencial - TR, quando deveria ter sido corrigido pela SELIC, o que afrontou aos arts.1º, §3º, I, 2º-A, §2º da Lei 9.703/98, bem como, o art. 39, §4º, da Lei 9.250/95 e art. 7º, parágrafo único, do Decreto-Lei 1.737/79. Acrescenta que, a violação à lei federal dispensa a análise de provas, posto que está claro no aresto que o crédito foi atualizado pela TR.
+Se, por um lado, conforme enunciado da Súmula 179/STJ (o estabelecimento de crédito que recebe dinheiro, em depósito judicial, responde pelo pagamento da correção monetária relativa aos valores recolhidos), a Caixa Econômica Federal deve proceder a atualização dos valores bloqueados judicialmente para satisfação do crédito em face da agravada.
+Por outro lado, de acordo com o teor da Súmula 271/STJ ("a correção monetária dos depósitos judiciais independe de ação específica contra o banco depositário"), dispensa ajuizamento de ação própria em face da instituição financeira, mesmo que esta não componha a lide.
+No caso, o erro de fato no custódia do valor pela instituição bancária, com prejuízo para as partes, cerne do apelo especial, não demanda a análise de provas, já que o índice está consignado no acórd ão:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. CRÉDITO NÃO TRIBUTÁRIO. GARANTIA PROCESSUAL. DEPÓSITO JUDICIAL. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. CÓDIGO DE OPERAÇÃO DA CONTA JUDICIAL DE ACORDO COM A ORDEM DE TRANSFERÊNCIA DO BACENJUD.
+1. Agravo de instrumento interposto contra decisão que indefere o pedido de restituição pela Caixa Econômica Federal (CEF) da diferença da atualização monetária do valor do depósito judicial pela taxa SELIC, em conta aberta com código de operação para créditos de caráter geral.
+2. É de responsabilidade do banco depositário a atualização monetária do valor depositado em conta judicial, sendo que o índice varia de acordo com o tipo de crédito que é objeto da lide. Se geral, incide o índice aplicável à caderneta de poupança (código de operação nº 005), ao passo que, se se tratar de crédito não tributário de autarquia, incidirá a taxa SELIC (código de operação nº 635), em aplicação do art. 1º, § 3º, incisos I e II, da Lei nº 9.703/98; dos arts. 29, 30 e 37-A da Lei nº 10.522/2002, c/c o art. 5º,§3º, da Lei nº 9.430/96.
+3. Precedentes: STJ, 2ª Turma, AgRg no REsp 1.232.311, Rel. Min. OG FERNANDES, DJe 8.5.2017;TRF2, 5ª Turma Especializada, AC 0033186-49.2017.4.02.5101, Rel. Des. Fed. RICARDOPERLINGEIRO, DJe 24.1.2019; TRF2, 6ª Turma Especializada, AC 0015398-61.2013.4.02.5101, Rel.Des. Fed. GUILHERME CALMON NOGUEIRA DA GAMA, DJe 24.10.2016.
+4. Tendo o banco depositário atualizado o valor do depósito judicial pelo índice que corresponde ao código de operação do crédito definido no documento de transferência de valores do próprio sistema do BACENJUD (crédito em geral - código nº 005), não há valores a serem restituídos, visto que não houve aplicação de índice diverso do previsto para tal conta ou mesmo erro por parte da instituição financeira no cumprimento da determinação judicial.
+5. A responsabilidade por eventual erro na atribuição do caráter do crédito no comando de transferência ultrapassa, flagrantemente, os limites objetivos e subjetivos da lide. Ademais, tal discussão demandaria o exercício do contraditório e ampla defesa por parte do banco depositário, oque não cabe na execução fiscal na origem, uma vez que a CEF não é parte do processo.
+6. Precedente: TRF2, 8ª Turma Especializada, AG 5002003-78.2019.4.02.0000, Rel. Des. Fed.MARCELO PEREIRA DA SILVA, julgado em 10.12.2019.
+7. Agravo de instrumento não provido.
+A irresignação da recorrente OI S.A. - EM RECUPERACAO JUDICIAL, não encontra amparo legal, conquanto, no caso, a legislação aplicada ao caso é a Lei n. 9.703/1998, que disciplina os depósitos judiciais não tributários das ações que tramitam na Justiça Federal.
+Neste sentido, a jurisprudência desta Corte Superior:
+DIREITO CIVIL. CAUÇÃO EM PROCESSO CRIMINAL. DEPÓSITO JUDICIAL. FORMA DE REMUNERAÇÃO. CADERNETA DE POUPANÇA. ÍNDICES. OBSERVÂNCIA.
+1. Segundo a orientação do Superior Tribunal de Justiça, cristalizada na Súmula 179, "o estabelecimento de crédito que recebe dinheiro, em deposito judicial, responde pelo pagamento da correção monetária relativa aos valores recolhidos" até o efetivo levantamento do numerário.
+2. Não se tratando de discussão de natureza tributária, mas sim de caução decorrente de processo criminal, deve ser afastada a aplicação da Lei n. 9.703/1998, ante a existência de lei específica disciplinando os depósitos judiciais relacionados a processos que tramitam originariamente na Justiça Federal, qual seja, a Lei n. 9.289/1996.
+3. In casu, o referido diploma legal determina expressamente a incidência do índice aplicável às cadernetas de poupança sobre os valores depositados à ordem do juízo, não sendo devidos juros outros de qualquer natureza, uma vez que o art. 11 do aludido diploma legal refere-se tão somente à remuneração básica e ao prazo. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.452.233/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/2/2022, DJe de 16/2/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. SÚMULA 83/STJ. APLICAÇÃO. DEPÓSITOS JUDICIAIS PERANTE A JUSTIÇA FEDERAL. CORREÇÃO MONETÁRIA. RESPONSABILIDADE DA CEF. JUROS. NÃO INCIDÊNCIA. HONORÁRIOS. APLICAÇÃO DO CPC/2015. MARCO TEMPORAL. SENTENÇA.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial por estar o acórdão em consonância com a jurisprudência do Superior Tribunal de Justiça.
+2. Segundo a orientação do STJ, cristalizada na Súmula 179, "o estabelecimento de crédito que recebe dinheiro, em deposito judicial, responde pelo pagamento da correção monetária relativa aos valores recolhidos".
+3. Lei específica disciplina os depósitos judiciais relacionados a processos que tramitam originariamente na Justiça Federal, qual seja, a Lei 9.289/1996.
+4. A Sentença deve ser tida como o marco temporal para fins de definição da norma de regência, in casu o CPC/2015. Os honorários seguiram o tempo da prolação da sentença.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.794.741/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+Isso posto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
