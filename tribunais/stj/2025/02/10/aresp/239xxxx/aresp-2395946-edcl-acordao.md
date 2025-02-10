@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em face de acórdão de minha relatoria no qual a Quarta Turma negou provimento ao agravo interno, consoante a seguinte ementa (e-STJ fls 778-779):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. CRÉDITO DA ARREMATAÇÃO. DÍVIDA PROPTER REM. PREFERÊNCIA SOBRE A DO PROMITENTE VENDEDOR. CONSONÂNCIA DO ACÓRDÃO ESTADUAL COM O ENTENDIMENTO DO STJ. NÃO PROVIMENTO.
+1. "A natureza propter rem se vincula diretamente ao direito de propriedade sobre a coisa. Por isso, se sobreleva ao direito de qualquer proprietário, inclusive do credor fiduciário, pois este, na condição de proprietário sujeito à uma condição resolutiva, não pode ser detentor de maiores direitos que o proprietário pleno". (REsp n. 2.059.278/SC, Rel. MINISTRO MARCO BUZZI, Rel. para acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/5/2023, DJe de 12/9/2023).
+2."As despesas condominiais, inclusive as decorrentes de decisões judiciais, são obrigações propter rem e, por isso, será responsável pelo seu pagamento, na proporção de sua fração ideal, aquele que detém a qualidade de proprietário da unidade imobiliária ou seja titular de um dos aspectos da propriedade (posse, gozo, fruição), desde que tenha estabelecido relação jurídica direta com o condomínio, ainda que a dívida seja anterior à aquisição do imóvel" (REsp n. 1.473.484/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2018, DJe de 23/8/2018).
+3. Na presente hipótese, a Corte estadual consignou que, "No processo em que proferida a r. decisão agravada, objetiva o exequente a cobrança de débito decorrente de despesas condominiais, ou seja, de dívida propter rem, razão pela qual se mostra correto o entendimento da douta magistrada, pois o crédito do condomínio tem preferência em relação ao do promitente vendedor". Dessarte, a conclusão adotada pelo Tribunal de origem não destoa do entendimento desta Corte, pois afigura-se plausível a conclusão de que o crédito decorrente de despesas condominiais adere ao próprio imóvel, considerada a natureza propter rem. e, por tal motivo, possui preferência em relação ao crédito do promitente vendedorno âmbito do processo executivo.
+4. Agravo interno a que se nega provimento.
+Em suas razões (fls. 790-791), a parte embargante que a fundamentação exarada no acórdão embargado é omissa, "pois deixou de analisar que os promitentes vendedores não deram causa as despesas condominiais, e sim o promitente comprador que ficou inadimplente com o preço da compra. Isto é, se o imóvel for leiloado sem observar o crédito da venda do imóvel, os promitentes vendedores terão perdido o imóvel de sua propriedade sem ver satisfeito o preço da venda por aquele que em verdade é o causador do débito condominial".
+Aduz que, "o STJ ao julgar o recurso interposto não contemplou o questionamento principal da tese recursal, referente à privação do promitente vendedor ao recebimento de parte do preço pela alienação do seu direito real de propriedade em favor de dívida obrigacional causada pelo promitente comprador, e não somente a preferência do crédito condominial no âmbito do processo de execução. Destarte, não é encontrado na decisão ora recorrida fundamentação capaz de justificar a preferência das despesas condominiais não originadas do promitente vendedor ao seu direito real de propriedade, conforme disposto no artigo 1.225, I, do Código Civil".
+Impugnação apresentada às fls. 796-799.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Não se verifica a omissão apontada, mas mera pretensão de rejulgamento da causa.
+A parte embargante, nas razões do recurso especial, pleiteou a reforma do acórdão estadual "para reformar a decisão recorrida e reconhecer a preferência do crédito dos recorrentes em relação a quaisquer outros".
+Da análise do acórdão embargado, é possível verificar que houve manifestação clara e suficiente, acerca dos motivos pelos quais não houve o acolhimento do pleito recursal. Confira-se a seguinte passagem (fls. 784-785):
+Consoante anotado na decisão agravada, a orientação jurisprudencial desta Corte é no sentido de que, "A natureza propter rem se vincula diretamente ao direito de propriedade sobre a coisa. Por isso, se sobreleva ao direito de qualquer proprietário, inclusive do credor fiduciário, pois este, na condição de proprietário sujeito à uma condição resolutiva, não pode ser detentor de maiores direitos que o proprietário pleno". (REsp n. 2.059.278/SC, Rel. MINISTRO MARCO BUZZI, Rel. para acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/5/2023, DJe de 12/9/2023).
+Ressalte-se ainda o entendimento de que: "As despesas condominiais, inclusive as decorrentes de decisões judiciais, são obrigações propter rem e, por isso, será responsável pelo seu pagamento, na proporção de sua fração ideal, aquele que detém a qualidade de proprietário da unidade imobiliária ou seja titular de um dos aspectos da propriedade (posse, gozo, fruição), desde que tenha estabelecido relação jurídica direta com o condomínio, ainda que a dívida seja anterior à aquisição do imóvel" (REsp n. 1.473.484/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2018, DJe de 23/8/2018).
+No caso dos autos, o Tribunal de origem consignou que, "No processo em que proferida a r. decisão agravada, objetiva o exequente a cobrança de débito decorrente de despesas condominiais, ou seja, de dívida propter rem, razão pela qual se mostra correto o entendimento da douta magistrada, pois o crédito do condomínio tem preferência em relação ao do promitente vendedor" (fl. 648).
+Dessa forma, a conclusão adotada pelo Tribunal de origem não destoa do entendimento desta Corte, pois afigura-se plausível a conclusão de que o crédito decorrente de despesas condominiais adere ao próprio imóvel, considerada a natureza propter rem. e, por tal motivo, possui preferência em relação ao crédito do promitente vendedor no âmbito do processo executivo.
+O recurso, na realidade, não trouxe nenhum elemento ou argumento novo capaz de alterar a decisão agravada, que ora confirmo.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+No presente recurso, busca-se, expressamente, a alteração do julgado por via inadequada, na medida em que os embargos de declaração são recurso de fundamentação vinculada, adstrito à correção dos vícios acima elencados ou, ainda, de erro material.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. A contradição que autoriza o manejo dos embargos de declaração é a interna, ou seja, aquela verificada sempre que existirem no decisum embargado proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+3. No caso concreto, não se constatam o vício alegado pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1251891/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2021, Dje 15/12/2021)
+Destaca-se, ademais, que o recurso integrativo não é a sede própria para confronto de decisões divergentes, nem se presta a esse desiderato.
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
