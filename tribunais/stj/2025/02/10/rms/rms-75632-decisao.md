@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se recurso ordinário em mandado de segurança interposto por TRANSPORTES, TERRAPLENAGENS E PARTICIPAÇÕES RUBÃO LTDA, contra acórdão proferido pelo Órgão Especial do TJ/SP.
+Recurso ordinário interposto em: 28/10/2024.
+Concluso ao gabinete em: 5/2/2025.
+Ação: mandado de segurança, impetrado pela recorrente, contra ato praticado pelo Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo.
+Acórdão: denegou a segurança, nos termos da seguinte ementa:
+MANDADO DE SEGURANÇA. Ato Jurisdicional. Presidente da Seção de Direito Privado. Decisão que inadmitiu o recurso especial. Hipótese que envolve ato derivado de função que é delegada pela instância superior. Inteligência do artigo 13, inciso I, letra "b", do Regimento Interno. Ademais, a par de inexistir teratologia no ato apontado como coator, o ordenamento jurídico disponibiliza ao impetrante vias recursais adequadas à manifestação e seu inconformismo, o que atrai a incidência da Súmula nº 267 do Supremo Tribunal Federal. Exame da doutrina e da jurisprudência.
+SEGURANÇA DENEGADA.
+Recurso ordinário: alega, em síntese: i) a competência do TJ/SP para julgar originariamente os Mandados de Segurança contra atos do próprio Tribunal ou de algum de seus membros; ii) a ilegalidade e teratologia do ato coator, em razão dissonância com a jurisprudência desta Corte, além de apontar possível distinguishing, que afastaria a negativa de seguimento do seu Recurso Especial pelo Tema 243/STJ; iii) a inaplicabilidade da Súmula 267/STF à hipótese, pois a decisão que julga o agravo interno da decisão denegatória de recurso especial é irrecorrível, sendo possível a impetração de mando de segurança; e iv) que o tema relacionado à possibilidade de fixação da verba honorário com base na apreciação equitativa em se tratando de causa com valor elevado estaria pendente de julgamento, o que afastaria a negativa de seguimento do seu recurso especial.
+Parecer do MP: opina pelo desprovimento do recurso ordinário.
+É O RELATÓRIO DO NECESSÁRIO. DECIDE-SE.
+Colhe-se dos autos que o mandado de segurança foi impetrado contra acórdão da Seção de Direito Privado do TJ/SP, que negou provimento a agravo interno interposto contra decisão que inadmitiu o recurso especial interposto pela recorrente, em razão da conformidade do acórdão com a jurisprudência do STJ, firmada sob o rito dos recursos repetitivos, com fundamento no art. 1030, I, "b", do CPC.
+Segundo alega o recorrente, a ilegalidade e a teratologia residem no fato de que haveria distinguishing entre a decisão do TJ/SP com relação ao Tema 243/STJ, bem como porque haveria discussão com relação à possibilidade, ou não, de fixação da verba honorário com base na apreciação equitativa em se tratando de causa com valor elevado, o que afastaria a negativa de seguimento do recurso especial.
+Como é cediço, o mandado de segurança somente é cabível quando o direito líquido e certo reclamado for plenamente aferível no momento da impetração, devendo sua existência e delimitação serem comprovadas de plano, sem a necessidade de dilação probatória.
+Tal remédio processual, quando utilizado em face de decisão judicial, apenas se revela viável caso não haja previsão de recurso apto a desafiá-la e, ainda, se o impetrante comprovar a manifesta teratologia, a flagrante ilegalidade do provimento impugnado ou a ocorrência de abuso de poder da autoridade apontada como coatora. Nesse sentido, o REsp 703.364/PR, Terceira Turma, DJe 18/12/2009.
+A via estreita do mandado de segurança, outrossim, não comporta análise da fundamentação jurídica adotada pelo ato judicial impugnado, pois tal instrumento não pode ser utilizado como sucedâneo recursal. Nesse sentido, o MS 27.348/DF, Corte Especial, DJe 9/6/2023.
+No particular, contudo, não se verifica manifesta ilegalidade ou teratologia no ato apontado como coator, uma vez que a decisão impugnada, ao entender pela configuração da fraude à execução ante a demonstração de má fé do terceiro adquirente e pela impossibilidade de redução da verba honorária com base no juízo de equidade, considerando as orientações desta Corte Superior quantos aos referidos temas, apresenta fundamentação suficientemente apta a amparar a conclusão alcançada.
+A mera discordância da impetrante quanto ao resultado do julgamento não configura ilegalidade ou teratologia capaz de evidenciar violação a direito líquido e certo pela autoridade apontada como coatora.
+Diante disso, estando o acórdão recorrido em consonância com a jurisprudência do STJ, não há motivo para sua modificação.
+Forte nessas razões, CONHEÇO e NEGO PROVIMENTO ao recurso ordinário.
+Por consequência, fica prejudicado o exame do pedido liminar formulado pela recorrente.
+Previno às partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. ILEGALIDADE OU TERATOLOGIA NÃO CONSTATADAS.
+1. Tratando-se de ilegalidade derivada de ato judicial, o cabimento do mandado de segurança restringe-se a situações excepcionais em que não haja recurso hábil a impugnar o decisum, devendo o impetrante demonstrar, em todo caso, o caráter abusivo, a ilegalidade ou a teratologia na decisão combatida.
+2. Recurso ordinário conhecido e não provido.
