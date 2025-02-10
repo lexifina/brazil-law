@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CPC. FERIADO LOCAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. NÃO COMPROVAÇÃO. INTEMPESTIVIDADE.
+1. A petição de agravo interno somente foi protocolizada após o transcurso do prazo recursal, circunstância que impõe o não conhecimento do recurso ante a intempestividade.
+2. O artigo 1003, §6º, do CPC, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. Precedentes.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a sua intempestividade.
+4. O dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido. Precedentes.
+5. O juízo de admissibilidade dos recursos extremos é bifásico, de modo que a decisão proferida pelo Tribunal de origem em juízo prévio não vincula esta Corte Superior, destinatário do recurso especial, ao qual compete o juízo definitivo de sua admissibilidade. Precedentes.
+6. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por DENICE APARECIDA ALMEIDA ESTEVES FERNANDES contra decisão que não conheceu do agravo em recurso especial.
+Ação: reivindicatória cumulada com pedido de anulação de escritura de doação de bem imóvel, ajuizada por DENICE APARECIDA ALMEIDA ESTEVES FERNANDES contra LARICIA SANTANA FURTADO.
+Sentença: julgou improcedentes os pedido formulados na inicial (e-STJ fls. 90-91).
+Acórdão: negou provimento à apelação, nos termos da seguinte ementa (e-STJ fl. 127):
+AÇÃO REIVINDICATÓRIA CUMULADA COM PEDIDO DE ANULAÇÃO DE ESCRITURA DE DOAÇÃO DE BEM IMÓVEL - Sentença de improcedência - Recurso da autora - Não acolhimento - Alteração na causa de pedir após a estabilização da lide - Impossibilidade sem a anuência da parte ré - Vício de consentimento - Decurso do prazo de decadência para a pretensão de anulabilidade do negócio jurídico - Decadência verificada, seja com fundamento nos artigos 178 e 179 do Código Civil (erro ou coação no consentimento) - Sentença mantida - RECURSO NÃO PROVIDO.
+Embargos de declaração: opostos por DENICE APARECIDA ALMEIDA ESTEVES FERNANDES, foram rejeitados.
+Recurso especial: alega violação dos arts. 166, incisos VI e VII, 169, 1.647, inciso IV, do CC, bem como dissídio jurisprudencial. Sustenta que "negócios jurídicos realizados sem a devida outorga uxória são considerados inexistentes, não produzindo efeitos jurídicos e não estando sujeitos a prazos prescricionais ou decadenciais" (e-STJ fl. 147).
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso, ensejando a interposição do agravo em recurso especial.
+Decisão unipessoal: não conheceu do agravo em recurso especial, em razão da intempestividade.
+Agravo interno: a parte agravante alega que foi intimada da decisão agravada em 23/05/2024, iniciando-se a contagem do prazo no dia 24/05/2024. Que foram declarados pontos facultativos nos dias 30/05/2024 e 31/05/2024, conforme a Portaria STJ/GP nº 2/2024 e Portaria STJ/GP nº 262/2024 e sendo assim, "o prazo final para interposição do agravo interno foi em 17/06/2024, ao passo que o recurso foi protocolizado em 14/06/2024" (e-STJ fl. 231). Requer o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CPC. FERIADO LOCAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. NÃO COMPROVAÇÃO. INTEMPESTIVIDADE.
+1. A petição de agravo interno somente foi protocolizada após o transcurso do prazo recursal, circunstância que impõe o não conhecimento do recurso ante a intempestividade.
+2. O artigo 1003, §6º, do CPC, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. Precedentes.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a sua intempestividade.
+4. O dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido. Precedentes.
+5. O juízo de admissibilidade dos recursos extremos é bifásico, de modo que a decisão proferida pelo Tribunal de origem em juízo prévio não vincula esta Corte Superior, destinatário do recurso especial, ao qual compete o juízo definitivo de sua admissibilidade. Precedentes.
+6. Agravo interno no agravo em recurso especial não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do recurso interposto pela agravante em razão de sua intempestividade, conforme fundamentação abaixo (e-STJ, fls. 226):
+"Por meio da análise do recurso de DENICE APARECIDA ALMEIDA ESTEVES FERNANDES, verifica-se que a parte recorrente foi intimada da decisão agravada em 23/05/2024, sendo o Agravo somente interposto em 14/06/2024.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil."
+Em suas razões recursais, a agravante defende a tempestividade do recurso, sob o argumento que a decisão agravada, "ao não considerar os pontos facultativos indicados (determinados por meio de portaria do E. STJ), incorreu em erro na contagem do prazo, reconhecendo de forma equivocada a intempestividade do recurso" (e-STJ fl. 231). Verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão.
+Nestes autos, verifica-se que a parte agravante confirma sua intimação da decisão no dia 23/05/2024 (e-STJ, fl. 231) e o agravo em recurso especial foi interposto apenas em 14/06/2024 (e-STJ, fls. 170/231), portanto, fora do lapso temporal de 15 (quinze) dias úteis.
+Nos termos do artigo 1.003, §6º, do CPC, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Nesse sentido: AgInt no AREsp 957.821/MS, Corte Especial, DJe de 19/12/2017; e AgInt no AREsp 1481810/SP, Corte Especial, DJe de 20/08/2021.
+Assim, o agravo em recurso especial é inadmissível por ser intempestivo.
+Registre-se, por oportuno, entendimento desta Corte Superior quanto ao tema:
+"que o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido." (AgInt no AREsp n. 2.624.783/SP, Terceira Turma, DJe de 18/09/2024; e AgInt nos EDcl no AREsp n. 2.003.156/RJ, Terceira Turma, DJe de 18/4/2022.)
+Ainda nesse sentido: AgInt no AREsp n. 2.618.775/SP, Terceira Turma, DJe de 22/08/2024; AgInt no AREsp n. 2.519.726/PE, Quarta Turma, DJe de 22/05/2024; AgInt no AREsp n. 2.286.006/SP, Quarta Turma, DJe de 15/06/2023; AgInt no AREsp n. 2.254.253/SP, Terceira Turma, DJe de 14/06/2023; AgInt no AREsp n. 2.190.764/MG, Terceira Turma, DJe de 24/05/2023.
+A Corte Especial deste Tribunal, acompanhando a orientação firmada pelo Supremo Tribunal Federal, modificou seu entendimento, concluindo que a comprovação da tempestividade do recurso especial em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem pode ocorrer posteriormente, em agravo regimental. Nesse sentido: AgRg no AREsp n. 137.141/SE, Corte Especial, DJe de 15/10/2012; AgRg no RE n. 626.358/MG, Plenário, DJe de 23/08/2012.
+No entanto, tal entendimento é aplicável às hipóteses em que os recursos sejam interpostos contra julgados proferidos sob a égide do Código de Processo Civil de 1973, o que não é caso dos presentes autos, cujo recurso foi interposto quando já em vigor o novo Diploma Processual.
+Destaque-se ainda que o juízo de admissibilidade dos recursos extremos é bifásico, de modo que a decisão proferida pelo Tribunal de origem em juízo prévio não vincula esta Corte Superior, destinatário do recurso especial, ao qual compete o juízo definitivo de sua admissibilidade. Nesse sentido: AgInt nos EDcl no AREsp 1727407/MT, Terceira Turma, DJe de 13/05/2021; e AgInt no AREsp 1805220/SP, Quarta Turma, DJe de 08/10/2021.
+Assim, considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e deixando a agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a sua intempestividade.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
