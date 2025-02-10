@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA . APLICAÇÃO DE LEI SUPERVENIENTE MAIS BENÉFICA. NÃO CABIMENTO. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - Esta Corte adota o entendimento segundo o qual a penalidade administrativa deve se basear pelo princípio do tempus regit actum, salvo se houver previsão autorizativa de aplicação do normativo mais benéfico posterior às condutas pretéritas.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão, mediante a qual o recurso especial foi conhecido e não provido.
+Opostos embargos de declaração, foram rejeitados.
+Sustenta a Agravante, em síntese: " ..  A não aplicação da retroatividade benéfica em sanções administrativas de natureza não penal contraria a lógica do próprio sistema sancionador, em que a justiça e a proporcionalidade devem prevalecer, conforme o entendimento: "A retroatividade da norma sancionatória mais benéfica deve ser aplicada, ainda que não haja previsão expressa, quando a penalidade imposta se revele desproporcional e injusta diante da nova regra" (fl. 428e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 480/484e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA . APLICAÇÃO DE LEI SUPERVENIENTE MAIS BENÉFICA. NÃO CABIMENTO. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - Esta Corte adota o entendimento segundo o qual a penalidade administrativa deve se basear pelo princípio do tempus regit actum, salvo se houver previsão autorizativa de aplicação do normativo mais benéfico posterior às condutas pretéritas.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+VOTO
+A Decisão Agravada merece ser mantida por seus próprios fundamentos.
+Com efeito, esta Corte, a partir do julgamento do Tema 1.199/STF, que apontou a necessidade de interpretação conjunta dos incisos XL e XXXVI, do art. 5º da Constituição da República, devendo existir disposição expressa na legislação para se afastar o princípio do tempus regit actum, porque a norma constitucional que estabelece a retroatividade da lei penal mais benéfica está diretamente vinculada ao princípio do favor libertatis, peculiaridade inexistente no Direito Administrativo Sancionador, reviu posicionamento para, de rigor, reconhecer que a penalidade administrativa deve se basear pelo princípio do tempus regit actum, salvo se houver previsão autorizativa de aplicação do normativo mais benéfico posterior às condutas pretéritas.
+O julgado está assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. INFRAÇÃO ADMINISTRATIVA. LEI POSTERIOR MAIS BENÉFICA. RETROATIVIDADE. PREVISÃO EXPRESSA. NECESSIDADE.
+1. A jurisprudência da Primeira Turma vem entendendo pela de possibilidade de retroação de lei mais benéfica nos casos que envolve penalidades administrativas, por compreender que o art. 5º, LV da Constituição da República traria princípio geral de Direito Sancionatório. 2. Acontece que no julgamento do Tema 1.199, o STF apontou a necessidade de interpretação conjunta dos incisos XL e XXXVI, do art. 5º da Constituição da República, devendo existir disposição expressa na legislação para se afastar o princípio do tempus regit actum, porque a norma constitucional que estabelece a retroatividade da lei penal mais benéfica está diretamente vinculada ao princípio do favor libertatis, peculiaridade inexistente no Direito Administrativo Sancionador, a exigir nova reflexão deste Tribunal sobre a matéria.
+3. Não se mostra coerente (com o entendimento do STF) que se aplique o postulado da retroatividade de lei mais benéfica aos casos em que se discute a mera redução do valor de multa administrativa (portanto, muito mais brandos) e, por outro lado, deixe-se de aplicar o referido princípio às demandas de improbidade administrativa, cuja sanção é seguramente muito mais grave, com consequência que chegam a se equiparar às do Direito Penal.
+4. Considerando os critérios delineados pelo STF, a rigor, a penalidade administrativa deve se basear pelo princípio do tempus regit actum, salvo se houver previsão autorizativa de aplicação do normativo mais benéfico posterior às condutas pretéritas.
+5. No caso, é incontroverso que: a) após a prática da infração, houve a modificação do ato normativo que fixava a penalidade administrativa, pois, embora tenha sido preservada a sanção em si, o valor da multa foi reduzido; b) a aplicação retroativa da nova norma mais benéfica não se operou em razão da aplicação da própria norma, mas sim em decorrência de determinação judicial (acórdão recorrido), pelo que esta última decisão deve ser reformada. 6. Recurso especial provido.
+(REsp n. 2.103.140/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/6/2024, D Je de 18/6/2024.)
+Na mesma linha:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. SANÇÃO ADMINISTRATIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. EXAME DE FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE. PRINCÍPIO DA RETROATIVIDADE DA NORMA MAIS BENÉFICA. APLICAÇÃO ANALÓGICA DO ART. 106 DO CTN. IMPOSSIBILIDADE.
+1. Afasta-se a alegada ofensa aos arts. 489, § 1º, IV e 1.022, II, do CPC, porquanto a instância ordinária solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não havendo que se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Apresenta-se inviável a este Superior Tribunal realizar juízo de valor a respeito da adequação, ou não, do fundamento constitucional adotado no acórdão recorrido, por se tratar de matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+3. Depreende-se da leitura do acórdão recorrido que o Tribunal de origem adotou fundamento de natureza eminentemente constitucional para solucionar a controvérsia, de forma que a análise do tema extrapola a estreita via do recurso especial.
+4. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que as disposições do art. 106 do Código Tributário Nacional não são aplicáveis às hipóteses de multa administrativa, as quais possuem natureza jurídica não tributária.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.213.337/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
