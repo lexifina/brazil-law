@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. ALEGAÇÃO DE OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. INTERPRETAÇÃO DO TÍTULO. RAZOABILIDADE. POSSIBILIDADE. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Não há afronta à coisa julgada quando o juízo da execução confere ao título executivo judicial a interpretação que melhor viabilize o seu cumprimento. Precedentes.
+3. No caso dos autos, a Corte de origem interpretou que foi analisado com razoabilidade pelo perito o alcance do título judicial. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por DISTRIBUIDORA ANDRADE DE PUBLICAÇÕES LTDA contra decisão monocrática proferida por esta relatoria (fls. 1.922/1.923), que conheceu do agravo para negar provimento ao recurso especial, com base na incidência da Súmula 7/STJ.
+Nas razões do agravo interno (fls. 1.939/1.946), a agravante reitera a ofensa aos arts. 489, § 3º, 492, 494, I, e 509, § 4º, do Código de Processo Civil, aduzindo que houve negativa de prestação jurisdicional por parte da Corte de origem, acentuando, ainda, que "na produção de seu laudo pericial, o digno Expert Judicial, adotou critério próprio para definir o lapso temporal de duração da relação jurídica havida entre os litigantes" (fl. 1.942).
+Afirma que o óbice constante na Súmula 7/STJ deve ser afastado, pois não se trata de hipótese de reexame de fatos e provas, mas da impossibilidade de relativização da coisa julgada com base na interpretação valorativa subjetiva.
+Ao final, requer a reconsideração ou reforma da decisão agravada pela Turma Julgadora.
+Intimada, a parte agravada apresentou impugnação às fls. 1.960/1.966.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. ALEGAÇÃO DE OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. INTERPRETAÇÃO DO TÍTULO. RAZOABILIDADE. POSSIBILIDADE. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Não há afronta à coisa julgada quando o juízo da execução confere ao título executivo judicial a interpretação que melhor viabilize o seu cumprimento. Precedentes.
+3. No caso dos autos, a Corte de origem interpretou que foi analisado com razoabilidade pelo perito o alcance do título judicial. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+De início, não prospera a alegada ofensa ao art. 489 do CPC/2015, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia relativa ao critério de elaboração do cálculo na elaboração do laudo, como se demonstra com o trecho dos aclaratórios a seguir (fl. 1.785):
+Descabida a alegação de omissão quanto a análise da tese de cálculos por mera estimativa, visto que ela foi apreciada e afastada pelo colegiado, que destacou (fls. 1729):
+(ii) diferentemente do alegado pela parte ora Agravante, os cálculos não se deram por mera estimativa, mas sim com base em todos os documentos que instruíram a ação e a sua liquidação.
+Na realidade, a embargante apresenta os argumentos do seu inconformismo visando o reexame do conjunto fático e probatório, objetivo que extrapola os limites dos embargos de declaração.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Quanto ao mérito, reitera-se que não se trata de hipótese de relativização da coisa julgada, pois houve mera interpretação do alcance do título judicial, sem que houvesse alteração dos fatos. É o que se extrai do trecho do acórdão a seguir (fl. 1.729/1.730):
+(i) não se verificou violação à coisa julgada e (ii) diferentemente do alegado pela parte ora Agravante, os cálculos não se deram por mera estimativa, mas sim com base em todos os documentos que instruíram a ação e a sua liquidação.
+Pela simples leitura do seguinte excerto da r. decisão proferida, verifica-se que não foi fixado por ela o início do período devido para o cômputo da indenização:
+"A ação é parcialmente procedente. A requerida não nega que tenha firmado contrato, embora verbal, com a autora e que o rescindiu sem motivo justo e sem prévia notificação.
+Limita-se a ré a dizer que o contrato mantido era de venda em consignação e não de distribuição. Neste aspecto, pouco importa a denominação dada para a relação comercial, vez que restou incontroverso nos autos que a autora representava a ré comercialmente. A Lei nº 4886/65, com alterações da Lei nº 8420/92, que trata da relação de representantes comerciais, é clara quanto ao dever de indenização ao representante pela rescisão do contrato sem que tenha havido as hipóteses elencadas em seu artigo 35. O que, de fato, é o caso dos autos.
+Quanto aos lucros cessantes pleiteados na inicial, a autora nenhuma prova trouxe de que eles realmente ocorreram, conforme lhe competia (artigo 333, inciso I do Código de Processo Civil), não podendo, portanto, tal pedido ser acolhido.
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a presente ação para condenar a ré a pagar à autora, multa de 1/12 (um doze avos) do total corrigido da retribuição auferida durante o tempo em que exerceu a representação (a ser calculada por arbitramento), acrescida de juros de 0,5% ao mês, desde a data da citação, e corrigida monetariamente, EXTINGUINDO o feito nos termos do artigo 269, inciso I, do Código de Processo Civil."
+Ora, o referido título judicial é expresso ao relegar à apuração em liquidação de sentença a referida questão a qual restou apurada com razoabilidade pelo operoso perito judicial nomeado pelo juízo de primeiro grau, que considerou que em 02/05/1979 a empresa iniciou seus serviços, data que coincidiu com o início da referida relação contratual conclusão essa adotada pelo juízo a quo.
+Por conseguinte, não se verifica incongruência entre a r. decisão recorrida, tampouco inconsistência na apuração do laudo pericial, restando apenas evidenciada a irresignação de ambas as partes litigantes, todavia sem razão.
+Desse modo, posicionou-se corretamente o juiz a quo ao acolher os argumentos apresentados pelo perito, homologando em consequência suas conclusões, sem que houvesse configuração de mácula à coisa julgada.
+Sobre o tema, verifica-se que o acórdão recorrido decidiu em conformidade com a jurisprudência desta Corte de Justiça, a qual interpreta que "não viola a coisa julgada a simples interpretação do título executivo, conferindo-lhe o alcance devido acerca de questão não delimitada expressamente" (AgInt nos EDcl no REsp 1.940.806/SC, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/11/2022, DJe de 18/11/2022), como se deu no caso dos autos.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL CONEXA COM BUSCA E APREENSÃO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. LIMITES DO TÍTULO EXECUTIVO JUDICIAL. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. "Não viola a coisa julgada a simples interpretação do título executivo, conferindo-lhe o alcance devido acerca de questão não delimitada expressamente" (AgInt nos EDcl no REsp 1.940.806/SC, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/11/2022, DJe de 18/11/2022).
+3. No caso dos autos, a Corte de origem concluiu que a questão relativa aos valores controvertidos não se encontra amparada em título executivo, de modo que a execução deverá prosseguir tão somente em relação aos valores considerados incontroversos na impugnação do cumprimento de sentença, decisão já acobertada pela coisa julgada.
+4. A modificação do entendimento da Corte de origem, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+5. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.685.833/RS, de minha relatoria, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE DEMONSTRAÇÃO. FASE DE LIQUIDAÇÃO. TÍTULO JUDICIAL. INTERPRETAÇÃO E ALCANCE. NOVA DISCUSSÃO DA LIDE. INADMISSIBILIDADE. SÚMULA Nº 7/STJ. COISA JULGADA. OBSERVÂNCIA.
+1. Para que seja caracterizado o dissídio jurisprudencial, é essencial a observância da forma definida em normas legais e regimentais, a exemplo da similitude fática que deve existir entre o acórdão recorrido e os julgados apontados como paradigmas.
+2. Não há falar em negativa de prestação jurisdicional nos embargos declaratórios, a qual somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento a respeito de questão que deveria ser decidida, e não foi.
+3. Esta Corte Superior possui jurisprudência no sentido de ser vedada na liquidação nova discussão acerca da lide ou a modificação da decisão transitada em julgado (arts. 509, § 4º, do CPC/2015 e 475-G do CPC/1973).
+4. A decisão liquidanda deve ser interpretada conforme sua fundamentação e os pedidos formulados na petição inicial, sendo vedado o acréscimo de novos pedidos. Precedentes.
+5. Na hipótese, as instâncias ordinárias consignaram que a agravante pretendia a extrapolação do título judicial, aproveitando-se do argumento de ser ele genérico.
+6. Não há afronta à coisa julgada quando o juízo da execução confere ao título executivo judicial a interpretação que melhor viabilize o seu cumprimento.
+7. Modificar a conclusão a que chegou a Corte de origem a respeito do limite e o alcance da coisa julgada culmina no necessário reexame de provas, o que se mostra impossível na via do recurso especial ante o óbice da Súmula nº 7/STJ.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.602.394/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/5/2024, DJe de 15/5/2024.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
