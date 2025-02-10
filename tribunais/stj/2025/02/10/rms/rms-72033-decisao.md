@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+"EMENTA: MANDADO DE SEGURANÇA - INDEFERIMENTO DILIGÊNCIAS - DIREITO LÍQUIDO E CERTO NÃO COMPROVADO - SITUAÇÃO QUE DESAFIA CORREIÇÃO PARCIAL - CONSLHO DA MAGISTRATURA - SÚMULA 267 DO STF - SEGURANÇA DENEGADA.
+1. O instrumento processual adequado para contestar decisão interlocutória que indeferiu diligência requerida pelo Ministério Público é a correição parcial (art. 11, XIII, do Regimento Interno do Conselho da Magistratura e Súmula 267 do STF).
+2. Ausente a existência de ilegalidades ou abuso de poder praticados pela autoridade coatora, passíveis de reconhecimento pela via do mandamus, há que ser denegada a segurança."
+O recorrente alega que "o indeferimento pelo magistrado de requerimento de diligência formulado pelo Ministério Público, que interessa à verificação das condições pessoais do réu, configura ato manifestamente ilegal, vez que contraria as disposições do Código de Processo Penal, revelando violação a direito líquido e certo a ser reparado pela via do mandado de segurança e não por correição parcial, como entendido pelo acórdão ora recorrido" (e-STJ fls. 632-640).
+O Ministério Público Federal manifestou-se "pelo provimento do recurso em mandado de segurança" (e-STJ fls. 650-654).
+É o relatório.
+Decido.
+O cerne do presente recurso consiste em verificar se há ilegalidade no indeferimento judicial da juntada de certidões de antecedentes criminais do réu expedidas por outras comarcas, bem como da requisição à autoridade policial do relatório circunstanciado da investigação, diligências essas requeridas pelo Ministério Público em cota de oferecimento da denúncia.
+Conforme bem destacado pelo Ministério Público Federal em seu parecer, esta Corte possui precedentes no sentido de que "não obstante a vedação contida na Súmula 267 do eg. Supremo Tribunal Federal, a jurisprudência do Superior Tribunal de Justiça tem admitido a impetração de mandado de segurança quando o ato jurisdicional contiver manifesta ilegalidade ou teratologia, violando direito líquido e certo do impetrante" (RMS n. 46.682/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2015, DJe de 1/7/2015).
+Todavia, não vislumbro teratologia ou abuso de poder no conteúdo da decisão atacada.
+Como é cediço, o Ministério Público é titular do poder de requisição de diligências investigatórias necessárias ao cumprimento do seu papel institucional (art. 129, VIII, da Constituição Federal; art. 47 do Código de Processo Penal; e art. 7º, II, da Lei Complementar n. 75/1993).
+Esta Corte entende que "o requerimento de folhas de antecedentes criminais dos réus pelo Parquet ao Poder Judiciário só se justifica quando comprovada a real necessidade da intervenção judicial decorrente da inviabilidade de acesso do órgão ministerial por meios próprios. Precedentes" (AgRg no RMS n. 57.474/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/10/2018, DJe de 11/10/2018).
+No caso, as diligências requeridas pelo Parquet consistiam na requisição de certidões de antecedentes criminais do réu expedidas por outras comarcas, bem como do relatório circunstanciado da investigação elaborado pela autoridade policial. Essas diligências, de acordo com a lei, poderiam ser requisitadas pelo próprio Ministério Público, que não demonstrou a existência de efetivo obstáculo para a obtenção desses documentos, de modo que não restou evidenci ada qualquer ofensa a direito líquido e certo do recorrente.
+Ante o exposto, nego provimento a o recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
