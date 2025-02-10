@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por SISENANDA DE FATIMA FERNANDES FIRMINO contra decisão do Tribunal de Justiça do Estado de Goiás que inadmitiu recurso especial dirigido ao acórdão prolatado na Apelação n. 74981-20.2015.8.09.0051.
+Na origem, foi julgada procedente ação de reintegração de posse ajuizada pelo Município de Goiânia em desfavor do ora agravado (fls. 732-739).
+O Tribunal de origem negou provimento aos recurso de apelação, em acórdão assim ementado (fls. 798-799):
+APELAÇÃO - IMPROBIDADE ADMINISTRATIVA - Sentença que extinguiu o processo sem julgamento do mérito, em razão da ausência de interesse de agir - Município de Piraju - Legitimidade ativa - ADIs n. 7042/DF e 7043/DF - Legitimidade ativa concorrente e disjuntiva entre o Ministério Público e as pessoas jurídicas interessadas - Reintegração no polo ativo da demanda - Tema nº 1.119 de repercussão geral Retroatividade - "É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO" - Elemento subjetivo dolo ausente - Ato de improbidade administrativa não caracterizado - Ressarcimento ao erário - Irregularidades apontados no contrato administrativo que impõem o prosseguimento da demanda, como ação civil pública, para a apuração de eventual responsabilidade dos réus por dano ao patrimônio público, conforme §16º do art. 17 da Lei nº 8.429/92 - Sentença reformada - Recurso provido.
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a parte recorrente alegou divergência pretoriana e ofensa aos arts. 334, 556, 1219, 1238 e 1242 do CPC, diante da possibilidade de usucapião de imóvel público o qual o Município não indicou destinação específica e no qual o agravante exerceu posse mansa e pacífica por mais de 15 anos. Asseverou que conferiu função social ao bem e que promoveu benfeitorias de boa-fé, passíveis de indenização.
+Não admitido o recurso na origem (fls. 901-904), foi interposto o presente agravo em recurso especial (fls. 914-942). Contrarrazões às fls. 1001-1006.
+É o relatório. Decido.
+O agravo não comporta conhecimento.
+O recurso especial foi inadmitido pelo Tribunal de origem com espeque na Súmula n. 83 do STJ, seja quanto à ofensa à legislação federal, seja quanto ao aventado dissenso pretoriano (fls. 901-904).
+No agravo em recurso especial, a parte agravante não refutou a decisão de inadmissão, limitando-se a reiterar as razões do recurso especial. Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre em relação à Súmula n. 83 do STJ, seja pela alínea a, seja pela alínea c.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por ce nto) sobre o valor já arbitrado (fl. 798), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE DE BEM PÚBLICO. USUCAPIÃO. IMPOSSIBILIDADE. INDENIZAÇÃO. INCABÍVEL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
