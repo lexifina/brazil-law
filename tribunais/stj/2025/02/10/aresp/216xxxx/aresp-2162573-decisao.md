@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por MARCIO ANTONIO COSTA LAVRADOR contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO no julgamento da Apelação Criminal n. 0044168-46.2014.8.10.0001.
+Consta dos autos que o agravante foi pronunciado pela suposta prática do crime tipificado no art. 121, caput, do Código Penal. Submetido à Sessão Plenária, o Conselho de Sentença absolveu o recorrente.
+Irresignado, o Ministério Público interpôs recurso de apelação, que fora provido nos termos da seguinte ementa (e-STJ fl. 1076):
+PENAL. PROCESSO PENAL. APELAÇÃO MINISTERIAL. TRIBUNAL DO JÚRI. HOMICÍDIO SIMPLES. RECONHECIMENTO DA MATERIALIDADE DELITIVA E AUTORIA. ABSOLVIÇÃO. NULIDADE NA QUESITAÇÃO E JULGAMENTO MANIFESTAMENTE CONTRÁRIO ÀS PROVAS DOS AUTOS. CONSTATADO.
+1. No presente caso, existe contradição evidente, pois não poderia o Conselho de Sentença reconhecer a materialidade delitiva e autoria na pessoa do apelado no homicídio consumado e, logo após absolvê-lo, mormente quando a única tese utilizada foi simples negativa de autoria, nada mais. Contradição evidente.
+2. De outro lado, o julgamento é manifestamente contrário às provas dos autos, pois, o fato teria sido presenciado por terceiros que deram esses relatos nos autos, razão porque a absolvição é ilógica e fere o acervo probatório.
+3. Apelo ministerial conhecido e provido.
+Interposto recurso especial, com fulcro no art. 105, III, "a", da Constituição Federal, a Defesa alegou violação ao princípio da soberania dos veredictos, ante a inexistência de decisão manifestamente contrária à prova dos autos.
+Alegou, ainda, a impossibilidade de recurso ministerial em face de decisão absolutória prolatada com lastro no quesito genérico.
+Requereu, assim, a cassação do acórdão vergastado para restabelecer a sentença absolutória.
+O recurso especial foi inadmitido.
+Daí o presente agravo em recurso especial, no qual se alega não incidirem os óbices elencados (e-STJ fls. 1150/1155).
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+Contraminuta apresentada (e-STJ fls. 1158/1162).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo não conhecimento do agravo em recurso especial (e-STJ fls. 1188/1192).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+Em primeiro lugar, é de se afastar a tese defensiva quanto à impossibilidade de recurso ministerial na hipótese. Isso porque, nos termos do entendimento firmado pelo Supremo Tribunal Federal no bojo do Tema de Repercussão Geral n. 1087, "1. É cabível recurso de apelação com base no artigo 593, III, d, do Código de Processo Penal, nas hipóteses em que a decisão do Tribunal do Júri, amparada em quesito genérico, for considerada pela acusação como manifestamente contrária à prova dos autos. 2. O Tribunal de Apelação não determinará novo Júri quando tiver ocorrido a apresentação, constante em Ata, de tese conducente à clemência ao acusado, e esta for acolhida pelos jurados, desde que seja compatível com a Constituição, os precedentes vinculantes do Supremo Tribunal Federal e com as circunstâncias fáticas apresentadas nos autos". Desse modo, possível é a interposição do apelo pelo Ministério Público no caso em tela.
+Quanto ao mérito recursal, tem-se que a submissão do acusado a novo julgamento perante o Conselho de Sentença apenas deve ocorrer na hipótese de a decisão externada pelos Jurados ser manifestamente contrária à prova dos autos.
+Nos termos de Precedentes desta Corte, em tendo o Conselho de Sentença acolhido a versão narrada pelo acusado por ocasião da Sessão Plenária, não há se falar que a decisão é manifestamente contrária à prova dos autos - e, assim, descabe a anulação do julgamento -, ainda que tal versão reste desassociada dos demais elementos de prova, porquanto tal questão é afeta ao valor probatório que deve se dar ao teor do interrogatório do réu, restringindo-se tal valoração aos Juízes da causa. É dizer, não cabe ao Tribunal que julga o apelo analisar a valoração da prova em termos de consonância do depoimento do acusado com as demais provas produzidas, devendo a análise se restringir à verificação da existência de um mínimo lastro probatório que dê suporte à decisão dos Jurados.
+Na hipótese dos autos, verifico que a única tese defensiva sustentada em Plenária foi a de negativa de autoria, conforme se infere de e-STJ fl. 875, tendo os jurados respondido afirmativamente ao primeiro e ao segundo quesitos, bem como absolvido o agravante em razão de resposta afirmativa ao quesito absolutório genérico, evidenciando, então, contradição na resposta dos membros do Conselho de Sentença a evidenciar que a decisão dos Jurados se deu de forma contrária à prova dos autos.
+Nesse sentido, entendem ambas as Turmas Criminais desta Corte que "em situações nas quais a negativa de autoria é a única proposição defensiva, a absolvição do agente no terceiro quesito não deve subsistir quando houve votação positiva dos dois primeiros, ocasião em que os jurados rejeitaram a tese da defesa, porquanto afirmaram ser o acusado o autor do delito" (AgRg no R Esp n. 1.847.635/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/8/2022, D Je de 18/8/2022).
+Assim, o entendimento externado pela Corte Estadual é consentâneo com o entendimento deste Superior Tribunal, o que impede o conhecimento do especial na forma da Súmula n. 83/STJ.
+De mais a mais, a reversão do entendimento firmado no v. acórdão recorrido demandaria o revolvimento fático-probatório da matéria, de modo que a pretensão do agravante encontra óbice na Súmula n. 7 deste Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
