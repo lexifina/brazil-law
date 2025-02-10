@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de dois recursos especiais interpostos por AÇO NORONHA COMÉRCIO E SERVIÇO DE FERRO LTDA., em recuperação judicial, e OUTROS.
+O primeiro, às fls. 253-268, foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fls. 243-244):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. INÍCIO DE PROVA ESCRITA. REQUISITOS LEGAIS ATENDIDOS. RECUPERAÇÃO JUDICIAL. COBRANÇA DE QUANTIA ILÍQUIDA. TRÂMITE REGULAR. ABUSIVIDADE CONTRATUAL NÃO DEMONSTRADA. RECURSO IMPROVIDO.
+1. A ação monitória consiste em procedimento de cognição sumária, de rito especial, que objetiva alcançar de forma antecipada o título executivo, sem a demora do processo de conhecimento que necessita de sentença meritória transitada em julgado, para que então seja iniciada a fase executiva.
+2. Com efeito, o artigo 700 do Código de Processo Civil estabelece que A ação monitória pode ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor capaz: I - o pagamento de quantia em dinheiro; II - a entrega de coisa fungível ou infungível ou de bem móvel ou imóvel; III - o adimplemento de obrigação de fazer ou de não fazer.
+3. Dessa maneira, o pressuposto de admissibilidade do pedido monitório é a existência de prova escrita da obrigação, sem eficácia de título executivo, cabendo ao autor da demanda o ônus da prova da constituição do seu direito creditório.
+4. Analisando de forma acurada os documentos trazidos à baila, verifica-se que existe prova cabal da existência da negociação alegada pelo recorrido, a ensejar o contrato apresentado.
+5. Assim, a recorrida atendeu ao ônus probatório básico à propositura do rito monitório, o que viabiliza a constituição do mandado executório, como bem fundamentado pelo Juízo a quo.
+6. Ademais, enquanto não convertida o mandado inicial da ação monitória em executivo, está-se diante de uma ação de natureza de cobrança de quantia ilíquida, motivo pelo qual não devem ser acolhidas as razões recursais, sobretudo por que a decretação da recuperação judicial com a homologação do plano não obstam esse tipo de demanda, mas tão somente as executivas.
+7. Ademais, a decretação da recuperação judicial da empresa devedora principal não impede o prosseguimento das execuções ajuizadas também contra terceiro coobrigado. Isso implica dizer que o feito monitório também não deve ser suspenso.
+8. Quanto à abusividade levantada, a parte não conseguiu demonstrar a irregularidade contratual, inclusive por que não restou especificado qual encargo ou tarifa supostamente abusiva.
+9. Apelo conhecido e improvido.
+Opostos embargos declaratórios, foram parcialmente providos (fls. 341-346). Eis a ementa do julgado:
+EMBARGOS DE DECLARAÇÃO. OMISSÕES. MATÉRIAS VENTILADAS QUE NÃO ALTERAM O RESULTADO DO JULGADO. RECURSO PARCIALMENTE PROVIDO, SEM EFEITOS INFRINGENTES.
+1. Em análise do presente caderno processual, verifica-se que devem ser acolhidas, em parte, as razões trazidas à baila.
+2. Para o fim de submissão do crédito aos efeitos da recuperação judicial, a Corte Cidadã, no julgamento do Tema 1.051, sob o rito dos recursos repetitivos, firmou o entendimento de que a data do fato gerador do crédito determina sua vinculação ao juízo concursal, na forma prevista no art. 49, da Lei nº 11101/05.
+3. In casu, muito embora o negócio jurídico tenha sido celebrado em momento anterior ao pedido de recuperação judicial, a natureza concursal do crédito não implica na extinção da presente ação monitória, diante da necessidade de pronunciamento judicial para que o crédito se torne certo e exigível, com a decisão de constituição do título executivo judicial.
+4. Melhor sorte não guarda a recorrente em relação a suposta cobrança de taxas e índices jamais acordados entre as partes, sobretudo porque o contrato em exame prevê (fl. 28) para período de inadimplência, a incidência de comissão de permanência a taxa de mercado do dia do pagamento, em substituição aos encargos de normalidade pactuados, não havendo o que se falar, portanto, em abusividade.
+5. Recurso parcialmente provido, sem efeitos infringentes.
+Em suas razões recursais, além da divergência jurisprudencial, os recorrentes alegam violação dos arts. 35, I, a, e 59, § 1º, da Lei n. 11.101/2005, pois o Tribunal de Justiça estadual deixou de considerar que a empresa se encontra em recuperação judicial e que, com a aprovação do plano de recuperação judicial, houve a novação do crédito em discussão, com a consequente extinção da execução.
+O segundo recurso especial, às fls. 275-293, foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão proferido no julgamento dos embargos declaratórios de fls. 366-370, assim ementado:
+PROCESSUAL CIVIL. AÇÃO MONITÓRIA. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. OMISSÃO. EXISTÊNCIA. MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. INTELIGÊNCIA DO ART. 85, §1I, DO CPC. CABIMENTO. EMBARGOS CONHECIDOS E PROVIDOS.
+1. A insurgência devolvida no recurso limita-se à ausência de majoração da condenação da embargada ao pagamento de honorários advocatícios em prol da embargante, quando do julgamento pela improcedência do apelo daquela.
+2. Nesta toada, as razões invocadas pelo recorrente merecem acolhimento. De fato, a decisão recorrida foi omissa no ponto levantado constante dos presentes aclaratórios.
+3. É consabido que os ônus sucumbenciais, como regra, devem ficar a cargo da parte que restou vencida, conforme o disposto nos art. 85 e seguintes do Código de Processo Civil. Além disso, o princípio da causalidade determina a condenação ao pagamento dos ônus de sucumbência daquele que deu causa à propositura da ação.
+4. No presente caso, a parte embargada deve responder pelos ônus decorrentes da sua sucumbência, estes majorados, porque restou, outrossim, sucumbente com o julgamento de improcedência do recurso de apelação manejado por ela mesma.
+4. Embargos de declaração conhecidos e providos.
+Novos aclaratórios foram oferecidos pela parte ora recorrente, os quais foram rejeitados (fls. 392-398).
+No segundo recurso especial, os recorrentes apontam violação dos §§ 2º e 8º do art. 85 do CPC.
+Houve contrarrazões (fls. 408-419).
+O Tribunal de Justiça admitiu o primeiro recurso especial e inadmitiu o segundo.
+É o relatório. Decido.
+De início, fica prejudicada a análise do segundo recurso especial diante de sua inadmissão pelo Tribunal a quo e da ausência de recuso de agravo.
+Passo à análise do primeiro recurso especial.
+Em relação à suposta violação do 35, I, a, da Lei n. 11.101/2005, verifica-se que referido dispositivo legal nem sequer foi mencionado no acórdão ou nos embargos de declaração, faltando-lhe, portanto, o requisito do prequestionamento.
+Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+Incide, na espécie, a Súmula n. 211 do STJ: "Inadmissível recurso especial quanto a questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Também se aplica ao caso, por analogia, a Súmula n. 282 do STF, que versa sobre o óbice decorrente da ausência de prequestionamento: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Quanto à possibilidade de prosseguimento da execução contra os coobrigados, o Superior Tribunal de Justiça já consolidou o entendimento de que a recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções movidas contra terceiros devedores solidários ou coobrigados, conforme dispõe a Súmula n. 581: "A recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória".
+No que se refere à novação do crédito em razão da aprovação do plano de recuperação, o STJ também firmou o entendimento de que tal efeito somente se opera em relação aos coobrigados quando há cláusula expressa no plano estendendo essa condição a eles e desde que os respectivos credores aprovem o plano sem ressalva.
+Portanto, em relação aos credores que não anuíram a essa cláusula, a execução pode prosseguir normalmente contra os coobrigados.
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. NOVAÇÃO. EXTENSÃO. COOBRIGADOS. IMPOSSIBILIDADE. GARANTIAS. SUPRESSÃO OU SUBSTITUIÇÃO. CONSENTIMENTO. CREDOR TITULAR. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias pode atingir os credores que não manifestaram sua expressa concordância com a aprovação do plano.
+3. A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição.
+4. A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição.
+5. Recurso especial interposto Tonon Bionergia S.A., Tonon Holding S.A. e Tonon Luxemborg S.A. não provido. Agravo em recurso especial interposto por CCB BRASIL - China Construction Bank (Brasil) Banco Múltiplo não conhecido. (REsp n. 1.794.209/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 12/5/2021, DJe de 29/6/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. COOBRIGADOS. PROSSEGUIMENTO DA EXECUÇÃO. SÚMULAS N. 83 E 581 do STJ. DECISÃO MANTIDA.
+1. "A recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória" ( Súmula n. 581 do STJ).
+2. "A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição" ( REsp n. 1.794.209/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 12/5/2021, DJe 29/6/2021).
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.942.960/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/11/2021, DJe de 26/11/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. NOVAÇÃO. EXTENSÃO AOS COOBRIGADOS. CLÁUSULA QUE ESTABELECE SUPRESSÃO DAS GARANTIAS CAMBIAIS, REAIS OU FIDEJUSSÓRIAS. APLICAÇÃO SOMENTE AOS CREDORES QUE EXPRESSAMENTE DERAM ANUÊNCIA. QUESTÃO PACIFICADA PELA SEGUNDA SEÇÃO DESTA CORTE SUPERIOR. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção do Superior Tribunal de Justiça firmou entendimento no sentido de que a cláusula do plano de recuperação judicial que prevê a supressão de garantias somente é eficaz em relação aos credores que com ela anuíram.
+2. A recuperação judicial do devedor principal não impede o prosseguimento das execuções, nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei 11.101/2005. Precedentes.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.138.943/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/3/2023, DJe de 13/3/2023.)
+No presente caso, não há nos autos nenhuma menção a cláusula de supressão das garantias prevista no plano de recuperação judicial, com anuência expressa do credor, não havendo falar em suspensão ou extinção da execução em relação aos coobrigados.
+Assim, o entendimento do Tribunal de origem está nos termos do que já decidiu o Superior Tribunal de Justiça.
+É o caso, pois, de não conhecimento do recurso em razão da incidência da Súmula n. 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), aplicável também aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Nessa mesma linha: AgInt no AREsp n. 882.405/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/5/2018, DJe de 25/5/2018; AgInt no AREsp n. 746.784/RO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/3/2018, DJe de 23/3/2018; e AgRg no AREsp n. 230.500/AL, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/10/2013, DJe de 28/10/2013.
+No tocante à divergência jurisprudencial, nota-se que o recurso especial, apenas traz jurisprudência que a parte recorrente entende divergir do acórdão recorrido, sem, contudo, demonstrar a existência de similitude fática ou ainda realizar o necessário cotejo analítico
+Dessa forma, a falta da similitude fática e do cotejo analítico, requisitos indispensáveis à demonstração da divergência, inviabilizam a análise do dissídio, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do Regimento Interno do STJ.
+Ademais, a ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea c do inciso III do art. 105 da Constituição Federal.
+Nesse sentido: AgRg no REsp n. 909.113/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 26/4/2011, DJe de 2/5/2011; AgRg no Ag n. 781.322/RS, relator Ministro Carlos Fernando Mathias, Quarta Turma, julgado em 11/11/2008, DJe de 24/11/2008.
+É o caso ainda de aplicação da Súmula n. 83 do STJ.
+Ante o exposto, não conheço do recurso especial .
+Publique-se. Intimem-se.
+EMENTA
