@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por JOSÉ NILTON FERREIRA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 14/08 /2024.
+Concluso ao Gabinete em: 12/12/2024.
+Ação: monitória ajuizada pelo BANCO CRUZEIRO DO SUL S/A-EM LIQUIDACAO EXTRAJUDICIAL, em desfavor de JOSÉ NILTON FERREIRA.
+Sentença: julgou improcedentes os embargos monitórios.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+"DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITORIA. ALEGAÇÃO DE PRESCRIÇÃO. VENCIMENTO ANTECIPADO DO DÉBITO. IRRELEVÂNCIA PARA A FIXAÇÃO DO TERMO INICIAL DA PRESCRIÇÃO QUE SE INICIA NO VENCIMENTO DA ÚLTIMA PARCELA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE ESTADUAL. LAPSO PRESCRICIONAL QUE NÃO TRANSCORREU. PRESCRIÇÃO AFASTADA. ALEGAÇÃO DE AUSÊNCIA DE PROVA ESCRITA HÁBIL A EMBASAR O PEDIDO MONITÓRIO. INOCORRÊNCIA. DOCUMENTO QUE COMPROVA A EXISTÊNCIA DO DÉBITO E DO INADIMPLEMENTO. ATENDIMENTO AO ART. 700, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. ALEGAÇÃO DE VALOR COBRADO A MAIOR COM PEDIDO GENÉRICO DE REVISÃO CONTRATUAL. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DA CLÁUSULA A SER REVISADA E DO VALOR QUE ENTENDE DEVIDO. INOBSERVÂNCIA DOS §§ 2o E 3o DO ART. 702 DO CÓDIGO DE RITOS. IMPOSSIBILIDADE DE APRECIAÇÃO. APELO CONHECIDO E DESPROVIDO." (e-STJ, fl. 163)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alegou, além de dissídio jurisprudencial, ofensa aos arts. 26 da Lei 10.931/2004; 206, §5º, I, do Código Civil; 784, III e 700 do CPC, sustentando: i) a ocorrência da prescrição do direito alegado; ii) a ausência de liquidez e certeza do título; iii) alternativamente, requer a fixação de juros simples equivalente à taxa média de mercado, nesse percentual incluindo todos os encargos contratuais, multas, dentre outras coisas cobradas pelo agravante; iv) que sejam declaradas abusivas todas as cláusulas contratuais que estabeleçam aplicabilidade de juros compostos ao mês, que superem a taxa média de juros de mercado.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido com base na ausência de ofensa ao art. 1.022 do CPC, incidência das Súmulas 5 e 7 do STJ e falta de comprovação do dissídio jurisprudencial.
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Especificamente quanto às Súmulas 5 e 7/STJ, é de se ressaltar, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a sua revaloração ou a correta aplicação da legislação que entende violada.
+Deve também ser demonstrada a efetiva desnecessidade do reexame, na hipótese em que o Tribunal de origem declara que: acerca do apontado malferimento aos arts.26 da Lei nº 10.931/2004 e 206, § 5o, I, do CC e 784, III e 700 do CPC, quanto a prescrição de valores, ausência de prova escrita e sobre a não comprovação do saldo devedor e contrato de adesão" (e-STJ, fls. 219/220), o que não foi feito.
+Isso, porque trouxe apenas alegações genéricas, acerca da questão ser de direito e de que não pretende o reexame, repisando, no mais, os argumentos expendidos no recurso especial acerca das suas teses.
+E, consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ, fl. 169), para 13%, observada a concessão de gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
