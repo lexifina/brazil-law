@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo, apresentado por ALCÍDIA MARIA DA COSTA e outros, contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 1.521-1.522):
+APELAÇÕES CÍVEIS. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. ATROPELAMENTO DE PEDESTRE POR ÓNIBUS. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DA AUTORA E DA EMPRESA RÉ. APELO DA RÉ: FALTA DE INTERESSE DE AGIR. QUESTÃO ALEGADA E NÃO ENFRENTADA NA EM PRIMEIRO GRAU. MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE DE ANÁLISE. CARÊNCIA DE AÇÃO NÃO EVIDENCIADA. EXISTÊNCIA DE ACORDO EXTRAJUDICIAL ACERCA DOS PREJUÍZOS DECORRENTES DO ACIDENTE. FATO QUE NÃO CONFIGURA FALTA DE INTERESSE DE AGIR. DEMANDA QUE VISA INCLUSIVE A DECLARAÇÃO DE NULIDADE DO REFERIDO ACORDO. EXISTÊNCIA DE ACORDO QUE DIZ RESPEITO AO MÉRITO E PODE CONDUZIR À IMPROCEDÊNCIA DO PEDIDO. PRELIMINAR REJEITADA. ACIDENTE AUTOMOBILÍSTICO. TRANSAÇÃO EXTRAJUDICIAL. POSSIBILIDADE DE RELATIVIZAÇÃO. ARTIGO 843 DO CÓDIGO CIVIL DE 2002. INTERPRETAÇÃO RESTRITIVA DA RENUNCIA AO DIREITO DE PLEITEAR INDENIZAÇÃO COMPLEMENTAR. DANOS SUPERVENIENTES NÃO CONHECIDOS QUANDO DA CELEBRAÇÃO DO ACORDO. COMPOSIÇÃO EXTRAJUDICIAL FIRMADA ENTRE AS PARTES QUE NÃO OBSTA A PRETENSÃO DE COMPLEMENTAÇÃO DA VERBA EM JUÍZO SOB A ALEGAÇÃO DE DANO SUPERVENIENTE NÃO PREVISTO NA TRANSAÇÃO. APROVEITAMENTO DE UMA SITUAÇÃO DE NECESSIDADE DA AUTORA, QUE CONDUZIU A UMA COMPOSIÇÃO EVIDENTEMENTE DESVANTAJOSA, CUJAS CONSEQUÊNCIAS DO ACIDENTE SEQUER ERAM CONHECIDAS. VALOR DO ACORDO EXTREMAMENTE IRRISÓRIO. SITUAÇÃO DESVANTAJOSA. VÍTIMA QUE NÃO TINHA CONHECIMENTO DAS CONSEQUÊNCIAS SUPERVENIENTES DO ACIDENTE EM RELAÇÃO AOS DANOS MORAIS E ESTÉTICOS QUE SE REVELARAM POSTERIORMENTE. ACORDO RELATIVIZADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. RECURSO DA PARTE AUTORA: PRETENSÃO DE MAJORAÇÃO DO QUANTUM INDENIZATÓRIO POR DANOS MORAIS E ESTÉTICOS. NÃO ACOLHIMENTO. VALORES FIXADOS NA SENTENÇA QUE ATENDEM AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração por Empresa de Ônibus Campo Largo Ltda., foram rejeitados.
+Nas razões do recurso especial, a parte recorrente sustenta a elevação do valor da indenização por danos morais e estéticos, aduzindo, para tanto, a ocorrência de dissídio jurisprudencial entre o acórdão recorrido e julgados do Superior Tribunal de Justiça.
+Defende que, em casos de grave dano físico, como amputação de membros, são comuns decisões que estabelecem indenizações de R$ 100.000,00 para cada tipo de dano (estético e moral).
+Contrarrazões apresentadas.
+Juízo negativo de admissibilidade, ensejando a interposição do presente agravo.
+Assim delimitada a controvérsia, passo a decidir.
+No tocante ao alegado dissenso jurisprudencial, observa-se que a parte recorrente não indicou o dispositivo de lei federal a que se tenha dado interpretação divergente pelo acórdão recorrido. Essa situação configura deficiência na fundamentação e atrai o óbice da Súmula 284 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. SÚMULA 284 DO STF E FALTA DE COTEJO ANALÍTICO. MULTA DO ART. 1.021, §4º, DO CPC. NÃO INCIDÊNCIA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM AGRAVO INTERNO. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de indicação do dispositivo legal a que se tenha dado interpretação divergente atrai o óbice previsto na Súmula 284/STF, por deficiência de fundamentação do recurso especial a impedir a exata compreensão da controvérsia.
+(..)
+(AgInt no AREsp n. 1.837.099/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. LEI 9.514/97. DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 284 DO STF.
+1. "O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente, o que não ocorreu" (AgInt no REsp 1.771.817/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 3.10.2019).
+(..)
+(AgInt no AREsp n. 1.846.764/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
