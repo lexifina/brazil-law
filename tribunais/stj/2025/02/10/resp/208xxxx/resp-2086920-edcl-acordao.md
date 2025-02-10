@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 744-745):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUDITOR FISCAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ADICIONAL DE PERICULOSIDADE. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. Havendo o Tribunal de origem consignado, expressamente, que o servidor, ora recorrente, não faz jus à percepção do adicional de periculosidade, porquanto ausente a comprovação da exposição ou contato habitual ou permanente com substância perigosa, inviável se torna analisar a tese defendida no recurso especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido, o que é vedado pela Súmula 7/STJ.
+4. Agravo interno não provido.
+O embargante, aduzindo a ocorrência de omissão, reitera a nulidade do acórdão a quo em razão da violação dos artigos 489, § 1º, II, e 1.022, I e II, do CPC/2015, bem como destaca que o enfrentamento do mérito recursal não demanda o revolvimento fático-probatório dos autos, mas, tão somente, a análise do acórdão regional recorrido que, apesar de reconhecer o trabalho em condições periculosas, estabeleceu uma condição temporal não prevista na legislação para a concessão do adicional pleiteado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Não se prestam, pois, ao rejulgamento da lide, mediante o reexame de matéria já decidida.
+Na espécie, observa-se que o Colegiado da Primeira Turma, em sede de agravo interno, confirmou a decisão dessa relatoria que conheceu parcialmente do recurso especial e negou-lhe provimento, mediante os seguintes fundamentos: (i) não há falar em violação dos artigos 489, § 1º, II, e 1.022, I e II, do CPC/2015, uma vez que o Tribunal de origem manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia; e (ii) a revisão da conclusão a que chegou o Tribunal de origem, para o fim de assegurar-se ao recorrente a percepção do adicional de periculosidade, demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial, ante a incidência da Súmula 7/STJ.
+Confira-se, a propósito, o seguinte excerto do acórdão julgador do mencionado agravo interno (fls. 750-753):
+Como assinalado, afasta-se a alegada violação dos artigos 489, § 1º, II, e 1.022, I e II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, condizente com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido.
+Frise-se, pois, que a aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Nesse sentido, vale ressaltar que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, relator Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+No caso concreto, infere-se dos autos que o Tribunal de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o servidor, ora recorrente, não faz jus à percepção do adicional de periculosidade, porquanto ausente a comprovação da exposição ou contato habitual ou permanente com substância perigosa. A propósito, confira-se o seguinte excerto do acórdão a quo (fls. 536-538, com grifos nossos):
+ ..
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem, para o fim de assegurar-se ao recorrente a percepção do adicional de periculosidade, demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Nos presentes aclaratórios, a par da argumentação apresentada, constata-se que o embargante, à toda evidência, não conformado com o acórdão embargado a seu desfavor, pretende o novo exame do meritum causae.
+Como visto, contudo, a matéria objeto da controvérsia encontra-se devidamente fundamentada e motivada, de modo que a pretensão do embargante evidencia mero inconformismo, na medida em que, sob a pecha de omissão, objetiva o reexame dos seus argumentos, com o intuito claro de atribuir efeito infringente ao acórdão, hipótese, porém, a que não se destina o recurso integrativo.
+Assim, inexistentes as hipóteses do artigo 1.022 do Código de Processo Civil/2015, os embargos de declaração não merecem acolhimento.
+Diante do exposto, rejeito os embargos de declaração.
+É como voto.
