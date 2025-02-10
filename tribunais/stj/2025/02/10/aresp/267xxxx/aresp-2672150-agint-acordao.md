@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANÁLISE QUANTO À COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS PARA FINS DE CONCESSÃO DO BENEFÍCIO POR INCAPACIDADE LABORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido se fundou nas provas existentes nos autos para consignar o não preenchimento dos requisitos necessários à concessão do benefício requerido, por constatar a ausência de incapacidade laborativa de forma total e permanente.
+2. Nesse contexto, o inconformismo da parte recorrente somente poderia ter sua procedência aferida mediante reexame de matéria fática. Todavia, não cabe ao STJ alterar, em recurso especial, as premissas adotada pelo Tribunal de origem. Incidência do óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Haroldo Gonçalves de Mendonça contra decisão monocrática de minha lavra, às fls. 413/416, que negou provimento a seu agravo em recurso especial, diante da incidência da Súmula 7/STJ.
+A parte agravante, em suas razões, sustenta que, " n a própria decisão denegatória do ministro relator, constam elementos suficientes para julgamento do Recurso Especial, sem necessidade de realizar o reexame de fatos e provas" (fl. 427).
+Aduz, também, que, " d a leitura do Agravo em Recurso Especial de fls. 343/354, denota-se ter o Agravante impugnado a fundamentação da decisão denegatória, uma vez não ser necessário realizar o reexame de fatos e provas, para fins de julgamento do Recurso Especial, conforme exposto no Agravo em Recurso Especial" (fl. 431).
+Defende, ainda, que, "não paira dúvida acerca da incapacidade laboral do Agravante, faz jus ao benefício por invalidez. Assim, não há necessidade do reexame de fatos e provas, para ser julgado o Recurso Especial" (fl. 436).
+Devidamente intimada, a parte agravada não impugnou, conforme certidão de fl. 448.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANÁLISE QUANTO À COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS PARA FINS DE CONCESSÃO DO BENEFÍCIO POR INCAPACIDADE LABORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido se fundou nas provas existentes nos autos para consignar o não preenchimento dos requisitos necessários à concessão do benefício requerido, por constatar a ausência de incapacidade laborativa de forma total e permanente.
+2. Nesse contexto, o inconformismo da parte recorrente somente poderia ter sua procedência aferida mediante reexame de matéria fática. Todavia, não cabe ao STJ alterar, em recurso especial, as premissas adotada pelo Tribunal de origem. Incidência do óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Tal como afirmado no decisório agravado, o Tribunal a quo, com base no conjunto probatório dos autos, ao examinar os requisitos para a concessão do benefício por incapacidade laborativa, concluiu que a parte autora não preencheu os requisitos legalmente exigidos a justificar a concessão do benefício pleiteado.
+Confira-se, a propósito, o seguinte excerto do acórdão recorrido:
+DO CASO DOS AUTOS
+O laudo pericial de 08.03.16, às fls. 157/167 e complemento de fls.198/200, atestou que o autor, atualmente com 59 anos de idade, de atividade preponderante rural, é portador de osteoartrose degenerativa em ombros , joelhos e coluna lombar e hipertensão arterial sistêmica leve e apresenta inaptidão defínitiva para a função de cortador de cana, sem incapacidade para a função de hortelão do mercado informal, sem fixar a data do início da incapacidade. Assevera o expert que "há restrições para atividade de elevado e continuado esforço físico, não compatíveis com suas características pessoais". Em resposta ao quesito complementar de n. 13, o perito afirmou: "Há uma redução de capacidade funcional global em grau leve (da ordem de25%) pela somatória de moléstias crônicas degenerativas (osteoartorse em ombros, joelhos e coluna e Hipertensão arterial sistêmica) ".
+(..). Desta feita, para obter aposentadoria por invalidez ou auxílio-doença, é requisito indispensável a incapacidade laborativa da parte autora, a qual não restou comprovada nos autos, não fazendo jus aos benefícios postulados. Quanto ao benefício de auxílio-acidente, é requisito indispensável a ocorrência de qualquer acidente, a qual não restou comprovada nos autos, não fazendo jus o autor ao benefício postulado. Assim, não procedem as razões do apelo, sendo de rigor a manutenção da improcedência do pedido.
+No voto condutor do aresto proferido em embargos de declaração, consignou a Corte Regional Federal (fl. 294):
+O julgado embargado deixou claro que a parte autora não faz jus à concessão dos benefícios pleiteados, pelo que não apresenta qualquer obscuridade, contradição ou omissão, tendo a Turma Julgadora enfrentado regularmente a matéria de acordo com o entendimento então adotado. Relativamente à competência, em 03.02.09 (fl. 62), o autor requereu administrativamente o benefício de auxílio-doença previdenciário, espécie 31, cujo indeferimento é objeto da presente ação. Além disso, o perito, no laudo de fls. 157/167, em resposta ao quesito "E" do INSS afastou a existência de nexo causal entre as moléstias do autor e seu labor. Também da inicial não restou pedido específico de concessão de benefício acidentário, ao revés, em sua fundamentação indica o autor os artigos 86 e 43 da lei 8213/91, que tratam, respectivamente, do auxílio-acidente de qualquer natureza e da aposentadoria por invalidez, com fixação do termo inicial do benefício desde o requerimento administrativo de auxílio-doença previdenciário de 03.02.09.
+Nesse contexto, conforme acentuado no decisum impugnado, considerando a fundamentação do acórdão objeto do apelo especial e os argumentos utilizados, articulados estes no sentido da existência dos requisitos necessários à percepção do benefício por incapacidade laborativa, o inconformismo da parte recorrente somente poderia ter sua procedência aferida mediante o necessário reexame de matéria fática. Todavia, não cabe ao STJ, em sede de recurso especial, alterar as premissas adotadas pelo Tribunal de origem, por força do óbice previsto na Súmula 7/STJ.
+Em reforço, confira-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. QUALIDADE DE SEGURADO. PERDA. REINGRESSO NO SISTEMA. PREQUESTIONAMENTO. INCAPACIDADE. NÃO COMPROVAÇÃO. MATÉRIA FÁTICA. SÚMULA 7 DO STJ. MULTA. CABIMENTO.
+1. Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, nos termos da Súmula 282 do STF.
+2. A menção de que o INSS reconheceu o reingresso do autor no sistema previdenciário em 2006 apenas nas petições apresentadas pelas partes não supre o requisito do prévio debate, cabendo à parte, nas razões do seu especial, alegar violação ao art. 535 do CPC/73, o que não ocorreu.
+3. Caso em que o acórdão recorrido consignou que, ao tempo do início da incapacidade, em 2006, o autor não ostentava mais a condição de segurado, pois seu último vínculo datava de 1987.
+4. A reforma do aludido entendimento não é viável em recurso especial, visto que exigiria revisitar o acervo fático-probatório levado a efeito para firmar a convicção da instância ordinária, nos termos da Súmula 7 do STJ.
+5. O recurso manifestamente improcedente atrai a multa prevista no art. 1.021, §§ 4º e 5º, do CPC/2015, na razão de 1% a 5% do valor atualizado da causa.
+6. Agravo interno desprovido, com imposição de multa.
+(AgInt no AgRg no AREsp n. 613.674/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 3/2/2017.)
+Escorreita, portanto, a decisão agravada, que entendeu pela incidência do obstáculo contido na Súmula 7/STJ.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
