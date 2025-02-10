@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+PONCIANO PEIXOTO DE QUEIROZ (ESPÓLIO) e OUTRO opõem embargos de declaração ao acórdão assim ementado (fls. 772-773):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO. EXISTÊNCIA DE CONDIÇÃO SUSPENSIVA. REVISÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. MULTA PROCESSUAL APLICADA NA ORIGEM. ART. 1.026, § 2º, DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. SITUAÇÃO ANALISADA PELA CORTE DE ORIGEM. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ quando o acolhimento das teses defendidas no recurso especial implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático- probatórios.
+3. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+Em suas razões, a parte embargante aponta contradição, obscuridade, omissão e erro de fato.
+Alega que a conclusão do negócio dependia da medição da gleba e do pagamento complementar, o que não ocorreu, bem como que o negócio foi iniciado em 1956, mas a gleba ainda está em nome dos vendedores.
+Argumenta que a decisão judicial foi contraditória e omissa, não explicando a falta de medição e pagamento. Afirma que foi multada injustamente por questionar esses pontos.
+Aduz que nunca houve notificação judicial ou consignação em pagamento, e que a decisão contraria as provas dos autos, necessitando revisão pelo STJ.
+Requer o esclarecimento das questões apontadas para cassar o julgamento recorrido e devolver os autos à origem para novo julgamento, conforme as provas produzidas.
+Sem impugnação pela parte embargada (fl. 797).
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte não aponta omissão ou outro vício passível de ser sanado pelo STJ, em embargos de declaração. Apenas demonstra seu interesse na reanálise da questões de mérito do caso.
+Eis o que consta do acórdão embargado (fls. 777-781):
+O recurso não reúne condições de êxito.
+A decisão agravada afastou a alegação de violação dos arts. 489 e 1.022, "porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional" (fl. 731).
+Com efeito, não se verifica omissão, contradição ou obscuridade que caracterize vício no julgado, já que a prestação jurisdicional foi dada na medida da pretensão deduzida, com enfrentamento e solução da questão debatida na lide.
+Isso porque o Tribunal de origem manteve a declaração de prescrição proferida pelo juízo singular, consignando, de forma clara a fundamentada, que a apontada condição suspensiva é, na verdade, clausula acessória, uma vez que a "outorga definitiva da escritura não estava subordinada à medição da área nem à complementação do preço ajustado pelo negócio firmado na modalidade ad corpus " (fl. 430).
+No julgamento dos embargos de declaração, o Tribunal a quo esclareceu ainda que "não foi estabelecido prazo específico para o comprador efetivar a verificação exata da área da gleba em questão, mas apenas estabelecido que os vendedores deveriam lavrar a escritura pública, tão logo fossem avisados disso pelo escrivão do cartório extrajudicial", concluindo que "a precisa medição da propriedade não foi requisito indispensável à realização da avença" (fls. 496-497).
+Registre-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. CASO FORTUITO E FORÇA MAIOR. NÃO CONFIGURAÇÃO. ATRASO EXPRESSIVO. DANOS MORAIS. REVISÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489, § 1º, IV, 1.022, parágrafo único, II, do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.954.373/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.)
+Vejam-se ainda estes precedentes: AgInt no REsp n. 1.942.363/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no AREsp n. 1.957.754/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022; AgInt no REsp n. 2.000.968/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.
+No tocante à alegação de violação dos arts. 121 e 199, I, do CC/2002 (114, 118 e 170, I do CC/1916), assim como do 1.026, § 3º, do CPC/2015, a decisão agravada aplicou a Súmula n. 7 do STJ, visto que a análise das questões referentes à ocorrência da prescrição e à multa por embargos protelatórios exigir o reexame fático-probatório dos autos.
+Nada obstante o inconformismo da parte agravante, reitere-se que o Tribunal de origem, soberano na interpretação de cláusulas contratuais e na análise dos fatos e provas dos autos, concluiu que inexiste a condição arguida pela parte como suspensiva do prazo prescricional (fl. 3.259).
+Nesse contexto, a análise da existência, ou não, de condição contratual suspensiva, demandaria o revolvimento dos fatos e provas dos autos, assim como a interpretação de cláusulas contratuais, medidas vedadas em recurso especial, em razão da incidência dos óbices das Súmulas n. 5 e 7 do STJ.
+Nessa linha de entendimento:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. 1.1. A alteração das conclusões do acórdão recorrido, sobre a existência de condição contratual suspensiva (êxito) e seu implemento, demanda o revolvimento de fatos e provas, procedimento vedado por esta Corte Superior, a teor das Súmulas 5 e 7 do STJ. 1.2. O Superior Tribunal de Justiça firmou o entendimento no sentido de que, "o termo inicial do prazo de prescrição da pretensão ao recebimento de honorários advocatícios contratados sob a condição de êxito da demanda judicial, no caso em que o mandato foi revogado por ato unilateral do mandante antes do término do litígio judicial, à luz do princípio da actio nata, é a data do êxito da demanda, e não a da revogação do mandato" (AgInt no REsp n. 1.554.329/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 28/2/2023.)
+2. Rever as conclusões quanto à inexistência de má-fé, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.266.676/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023, destaquei.)
+O Tribunal a quo aplicou multa do art. 1.026, § 2º, do CPC no segundos embargos de declaração opostos pela parte, nestes termos (fl. 558):
+A oposição de novos embargos de declaração com intenção de rediscutir matérias já abordadas nos primeiros aclaratórios e com claro objetivo de ver sanados vícios na decisão primeiramente embargada, sem dúvida, caracteriza intuito protelatório do recurso e impõe a aplicação de multa de até 2% do valor atualizado da causa prevista no art. 1.026, § 2º, do CPC:
+ ..
+O entendimento jurisprudencial do STJ é firme no sentido de que pode o órgão julgador aplicar, em favor da parte embargada, a multa prevista no art. 1.026, § 2º, do CPC quando, após devidamente analisadas as matérias submetidas a julgamento - hipótese em que não há, no julgado, obscuridade, contradição, omissão ou erro material -, a parte apresentar embargos de declaração manifestamente protelatórios. Nesse sentido: AgInt no AREsp n. 1.929.387/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Verifica-se que o acórdão recorrido não incorreu em omissão, pois nele se analisou a matéria objeto dos embargos de declaração em sua inteireza e complexidade, ficando claras as razões que formaram o convencimento dos julgadores.
+Diante disso, não há como afastar o propósito da parte de, a pretexto de omissão, rediscutir matéria apreciada. Assim, correta a aplicação da multa em questão.
+Repise-se que, para desconstituir a conclusão da Corte de origem quanto ao intuito protelatório dos aclaratórios, seria necessário revolver matéria fático- probatória constante dos autos, procedimento vedado na via especial, em razão da Súmula n. 7 do STJ.
+A propósito, os seguintes precedentes: REsp n. 1.943.628/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2021, DJe de 3/11/2021; e AgInt no AREsp n. 1.113.020/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/5/2020, DJe de 28/5/2020.
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a revisão do decisum agravado, que deve ser mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
+Como visto, o acórdão embargado foi claro ao desprover o agravo interno, tendo em vista a ausência de negativa de prestação jurisdicional e da incidência das Súmulas n. 5 e 7 do STJ.
+Nas razões dos embargos de declaração, a parte recorrente , demonstrando inconformismo, não se desincumbiu de indicar qualquer omissão, contradição, obscuridade ou erro material no julgado; restringe-se a repisar as questões de mérito atinentes à não realização da medição da gleba e do pagamento, fatos dos quais dependia o negócio, bem como à multa processual aplicada.
+Ressalte-se que a mera irresignação da parte embargante com o entendimento adotado no julgamento do agravo interno não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021).
+A propósito, segundo orientação firmada pela a Corte Especial do STJ, "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Advirto a parte de que a reiteração de embargos de declaração sobre a mesma matéria poderá ser considerada manifestamente protelatória, com imposição da multa de 2% sobre o valor atualizado da causa (art. 1.026, § 2º, do CPC).
+É o voto.
