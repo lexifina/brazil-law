@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA À NORMA CONSTITUCIONAL. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a analisar tema eminentemente constitucional, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+I V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por JULIANA MIGUEL ZERBINI E FERNANDO PIRES ABRAO contra a decisão que não conheceu do seu recurso especial, assim fundamentada: inadequação da via eleita para análise de eventual ofensa à norma constitucional; incidência da Súmula 284/STF; e dissídio jurisprudencial prejudicado.
+Sustenta a parte agravante, em síntese, que estão presentes todos os requisitos para o conhecimento e provimento do Recurso Especial.
+Ao final, requer o provimento do recurso, a fim de que seja dado total provimento ao seu recurso especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA À NORMA CONSTITUCIONAL. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a analisar tema eminentemente constitucional, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+I V - Agravo Interno improvido.
+VOTO
+Não assiste razão à parte agravante.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Dessa forma, a presente insurgência não pode ser conhecida no que tange à alegada violação ao art. 100, § 13, da Constituição da República.
+A respeito do tema, o precedente:
+PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO - EMBARGOS DE DIVERGÊNCIA - AUSÊNCIA DE VÍCIOS DO ART. 535 DO CPC - PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS - IMPOSSIBILIDADE.
+1. Não compete ao STJ intervir em matéria de competência do STF, tampouco para prequestionar questão constitucional, sob pena de violar a rígida distribuição de competência recursal disposta na Lei Maior.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.054.064/PA, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 17/04/2013, DJe 02/05/2013).
+De outra parte, nas razões recursais, a parte recorrente sustenta a validade da cessão de crédito realizada por instrumento particular, sendo tal alegação inidônea a infirmar os fundamentos adotados pela Corte de origem, quais sejam, a indispensabilidade do procedimento processual de inventário e partilha, bem como a inclusão dos honorários advocatícios no patrimônio do de cujus, porquanto ausente comando suficiente nos dispositivos apontados para alterar a mencionada conclusão, razão pela qual o recurso não merece prosperar nesse ponto.
+Com efeito, incide, por analogia, a orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+(..)
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE. NÃO CONHECIMENTO DO ESPECIAL. SÚMULAS 282, 284, 356/STF E 7/STJ.
+(..)
+3. O fato de constar na Lei de Licitações a previsão de empreitada integral não infirma, de plano, os dizeres do acórdão no sentido de que não há empecilho à inclusão do fornecimento de imóvel. O conteúdo dos dispositivos mencionados no Especial não tem comando suficiente para alterar o acórdão. Incidência da Súmula 284/STF.
+4. Em relação ao índice de reajuste utilizado e à caracterização do ato ímprobo, o acórdão se amparou nas conclusões de laudo pericial e afastou o prejuízo ao Erário. Aplica-se a Súmula 7/STJ à espécie.
+Ressalto que o art. 11 da LIA nem sequer foi prequestionado, o que também sugere o óbice das Súmulas 282 e 356/STF.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 229.402/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/03/2013, DJe 08/05/2013 -destaques meus).
+Por fim, o recurso especial também não pode ser conhecido com fundamento em divergência jurisprudencial, porquanto prejudicado dada a impossibilidade de análise da mesma tese desenvolvida pela alínea a do permissivo constitucional pela incidência de óbices de admissibilidade.
+Sobre o tema, os seguintes precedentes das Turmas componentes da 1ª Seção:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 535 DO CPC. OMISSÃO. EXISTÊNCIA. EFEITOS INFRINGENTES. CARÁTER EXCEPCIONAL. RECURSO QUE NÃO ATACOU FUNDAMENTO BASILAR QUE AMPARA O ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 283/STF. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS MODIFICATIVOS. RECURSO ESPECIAL NÃO CONHECIDO.
+1. De acordo com a norma prevista no art. 535 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida. Ademais, os segundos embargos de declaração devem versar sobre vício existente no julgamento dos primeiros embargos de declaração e não no do acórdão principal (EDcl nos EDcl nos EREsp 636248/RS, Rel. Ministro Castro Meira, Primeira Seção, DJe 05/05/2008). Verificada a existência de omissão em ambos os julgados, dos primeiros embargos de declaração e do acórdão que julgou o recurso especial, relativamente ao fundamento basilar do acórdão do Tribunal de origem para afastar a prescrição intercorrente, devem ser acolhidos estes segundos embargos de declaração.
+2. A jurisprudência desta Corte Superior é firme no sentido de que, em caráter excepcional, pode-se atribuir efeitos infringentes aos embargos de declaração, para correção de premissa equivocada, sobre a qual tenha se fundado o julgado embargado, quando tal for decisivo para o resultado do julgamento (EDcl no AgRg no AREsp 151.216/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 20/09/2013; EDcl no AgRg no REsp 730.190/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 02/06/2010).
+3. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a circunstância de que não houve o transcurso do prazo prescricional quinquenal em virtude da suspensão da execução fiscal para apreciação dos embargos à execução, esbarrando, pois, no óbice da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel.
+Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+4. Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea a do permissivo constitucional.
+5. Embargos de declaração acolhidos com efeitos modificativos, com o consequente não conhecimento do recurso especial.
+(EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/06/2015, DJe 18/06/2015 - destaquei).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. LICITAÇÃO. CREDENCIAMENTO. SERVIÇOS ADVOCATÍCIOS. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.
+JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. PREVISÃO EDITALÍCIA. VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO. SUPOSTA VIOLAÇÃO A DISPOSITIVOS DA LEI Nº 8.666/1993 E DO CÓDIGO CIVIL. RAZÕES RECURSAIS INAPTAS DE INFIRMAR OS FUNDAMENTOS DO ACÓRDÃO. SÚMULAS 284 E 283/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O mero julgamento da causa em sentido contrário aos interesses e à pretensão das partes não caracteriza a ausência de prestação jurisdicional, tampouco viola o art. 1.022 do CPC/2015.
+Jurisprudência do Superior Tribunal de Justiça.
+3. Não se conhece do recurso especial por deficiência na sua fundamentação, estando as razões do recurso genéricas e dissociadas do que decidido no acórdão recorrido, bem como quando não impugnam fundamento autônomo, suficiente por si só à manutenção do julgado (Súmulas 284 e 283/STF). 4. O recurso especial não é, em razão das Súmulas 05 e 07/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa, tampouco de interpretação de cláusulas contratuais.
+5. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+6. Agravo interno não provido.
+(AgInt no AREsp 1.343.289/AP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/12/2018, DJe 14/12/2018 - destaques meus).
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Posto isso, NEGO PROVIMENTO ao agravo interno.
