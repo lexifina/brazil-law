@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado por JEOVANI AMERICO FELIZARDO, em causa própria, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1500171-18.2022.8.26.0613).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 11 anos, 5 meses e 6 dias de reclusão, em regime inicial fechado, e 18 dias-multa, pela prática do crime previsto no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal (e-STJ fls. 62/74).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi parcialmente provido para redimensionar as penas do paciente para 9 anos, 9 meses e 18 dias de reclusão e 24 dias-multa, mantidos os demais termos da condenação (e-STJ fls. 75/87).
+No presente mandamus (e-STJ fls. 1/10), o impetrante/paciente afirma estar sofrendo constrangimento ilegal em razão de ilegalidades na sua condenação, motivo pelo qual postula a própria absolvição ou a redução da pena.
+Inicialmente distribuída a petição inicial como habeas corpus no âmbito do Supremo Tribunal Federal, sobreveio decisão do eminente Ministro LUÍS ROBERTO BARROSO no sentido de negar seguimento ao writ e determinar a remessa dos autos a esta Corte (e-STJ fls. 14/16).
+Em virtude da deficiente instrução do habeas corpus, impetrado pelo próprio paciente, pessoa leiga, o pedido liminar foi indeferido, com solicitação de informações à origem e vista dos autos à Defensoria Pública para prestar assistência ao paciente (e-STJ fls. 25/26).
+As informações foram prestadas às e-STJ fls. 40/93 e 94/123.
+A Defensoria Pública, intimada a prestar assistência ao paciente, ponderou que a situação parece exigir revolvimento fático-probatório, difícil de ser realizada pela via do habeas corpus (e-STJ fl. 131). Não obstante, no sentido de preservar os interesses do paciente, solicitamos a concessão da ordem de ofício conforme requerida na inicial, caso assim entenda V. Exa ou, subsidiariamente, que a presente petição seja encaminhada ao E. TJ/SP para, se possível, formação de expediente de revisão criminal em favor do mesmo, com oportuna abertura de vista à Defensoria Pública local para análise (e-STJ fl. 132).
+O Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 137/140, opinou pelo não conhecimento do writ, cuja ementa segue transcrita:
+PENAL E PROCESSUAL PENAL. ROUBO MAJORADO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO HC. CONDENAÇÃO TRANSITADA EM JULGADO. AUSÊNCIA DE IMPUGNAÇÃO VIA REVISÃO CRIMINAL. IMPOSSIBILIDADE DE REVOLVIMENTO DE MATÉRIA PROBATÓRIA EM HABEAS CORPUS. SUPERVENIENTE PEDIDO DE REVISÃO CRIMINAL SOB ANÁLISE DA DEFENSORIA PÚBLICA NAS INSTÂNCIAS ORDINÁRIAS. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113. 890, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora o impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à sua defesa, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, em síntese, a absolvição do paciente ou a redução da sua pena.
+Em relação ao pleito absolutório, trata-se de pretensão que exigiria o reexame dos aspectos fático-probatórios da condenação, providência inviável na via estreita do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE LATROCÍNIO. ABSOLVIÇÃO. WRIT IMPETRADO MAIS DE SEIS ANOS APÓS O JULGAMENTO DA APELAÇÃO. INÉRCIA DA DEFESA. TESE NÃO SUSCITADA NO MOMENTO CORRETO. PRECLUSÃO. REVISÃO DA DOSIMETRIA DA PENA. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. A modificação das conclusões emitidas pela instância ordinária, relativa aos fundamentos adotados para a dosimetria da pena, depende do reexame aprofundado do conjunto fático-probatório, providência totalmente incompatível dentro dos estreitos limites da via eleita, que é caracterizada pelo seu rito célere e cognição sumária.
+4. Agravo regimental improvido. (AgRg no HC n. 828.893/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. LATROCÍNIO. VIOLAÇÃO AO ART. 155 DO CPP. NÃO OCORRÊNCIA. ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. RECURSO DESPROVIDO.
+ ..
+2. Ademais, infirmar o que ficou consignado pelas instâncias ordinárias acerca da condenação do recorrente é procedimento que demanda o reexame do acervo fático-probatório, o que é inadmissível na via estreita do habeas corpus. Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC n. 788.680/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+Quanto ao apenamento, o inconformismo foi deduzido de forma genérica, sem apontar nenhuma ilegalidade específica, o que revela deficiência de fundamentação, não suprida pela defesa técnica na presente impetração, conforme é possível extrair das manifestações da Defensoria Pública às e-STJ fls. 131/132, razão pela qual o presente writ, também nesse ponto, é inadmissível.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 157, § 2º-A, I, DO CP. PRETENDIDA ABSOLVIÇÃO. TESES DE ILICITUDE DAS PROVAS DECORRENTES DE RECONHECIMENTO PESSOAL E DE INSUFICIÊNCIA DE PROVAS DA AUTORIA. INEXISTÊNCIA DE RECONHECIMENTO DO RÉU PELA VÍTIMA. PACIENTE PRESO EM FLAGRANTE DELITO NA POSSE DO BEM SUBTRAÍDO. CONCLUSÃO DIVERSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. DOSIMETRIA. PLEITO GENÉRICO DE REDUÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. No tocante à pena, a defesa aduziu pedido genérico de sua redução, desacompanhado das razões especificadas da insurgência.
+Como os motivos que conduziram à impetração do writ, no ponto, não foram apresentados, a exata compreensão da matéria controvertida fica prejudicada e inviabilizado o conhecimento da ordem, por deficiência de fundamentação.
+4. Agravo regimental a que se nega provimento. (AgRg no HC n. 945.975/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. EXCESSO DE LINGUAGEM. INFLUÊNCIA NO ÂNIMO DOS JURADOS. NÃO OCORRÊNCIA. MÁCULA RECHAÇADA. ILEGALIDADE DA PRISÃO CAUTELAR DO ACUSADO. EXCESSO DE PRAZO DA CUSTÓDIA. MATÉRIAS NÃO SUSCITADAS NA INICIAL DO MANDAMUS. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. COAÇÃO ILEGAL INEXISTENTE. DESPROVIMENTO DO RECURSO.
+ ..
+2. Da leitura da inicial do mandamus depreende-se que a defesa não impugnou os motivos ou a duração da custódia cautelar do acusado, matérias que não podem ser agora analisadas, uma vez que não se admite a introdução de argumento novo em sede de agravo regimental. Precedentes.
+ ..
+4. Agravo regimental desprovido (AgRg no HC n, 504.221/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 14/5/2019).
+Por fim, a condenação do paciente está sendo examinada na origem em revisão criminal, conforme bem pontuou o Ministério Público Federal em seu parecer, o que prejudica o pleito subsidiário, formulado pela Defensoria Pública, no sentido do encaminhamento dos autos ao Tribunal de Justiça do Estado de São Paulo para a formação de expediente de revisão criminal.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
