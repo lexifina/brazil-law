@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se recurso especial interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MEDICO, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 07/11/2023.
+Concluso ao gabinete em: 10/05/2024.
+Ação: de obrigação de fazer, ajuizada por ANA LIVIA MARIA SOUZA em face de UNIMED CAMPINAS COOPERATIVA DE TRABALHO MEDICO, alegando indevida recusa de cobertura, pela operadora do plano de saúde, de tratamento prescrito para a beneficiária, diagnosticada com distrofia muscular de cintura tipo 2.
+Sentença: julgado procedente o pedido.
+Acórdão: o TJ/SP, por unanimidade, negou provimento à apelação interposta pela UNIMED.
+Recurso especial: a I. Relatora, Ministra Maria Isabel Gallotti, deu parcial provimento aos embargos de divergência em recurso especial opostos pela UNIMED, "para dar parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que esse profira nova decisão à luz das teses firmadas por ocasião do julgamento dos ER Esp nº 1.886.929/SP e das diretrizes estabelecidas na Lei nº 14.454/22, estas a partir de sua vigência" (fl. 567, e-STJ).
+Acórdão: em novo julgamento da apelação interposta pela UNIMED, o TJ/SP, por unanimidade, negou provimento ao recurso, nos termos da seguinte ementa:
+PLANO DE SAÚDE Obrigação de fazer Negativa de cobertura de hidroterapia e avaliação neuropsicológica para tratamento multidisciplinar de criança acometida de "distrofia muscular de cintura tipo 2" Taxatividade do rol da ANS que não é absoluta Hipótese em que não foi demonstrado pela ré haver atualização do rol, substituto terapêutico ou contraindicação do método, de notória eficácia Atribuição do profissional escolhido pela paciente estabelecer qual o método mais adequado para o tratamento da doença Abusividade da recusa de cobertura a procedimento, medicamento ou material necessário para assegurar o tratamento de doenças previstas no contrato, sob pretexto de não constar no rol de procedimentos da ANS - Súmula 102, TJSP Custeio integral de profissionais fora da rede credenciada na eventualidade de o tratamento não ser fornecido diretamente pelo plano de saúde, conforme art. 4º, da RN ANS n. 259/11- Sentença mantida Recurso desprovido.
+Recurso especial: alega violação dos arts. 10, § 4º, e 35-F, da Lei 9.656/1998, e dos arts. 51, IV e § 1º, II, e 54, § 4º, do CDC.
+Alega que o rol da ANS tem natureza taxativa; que, segundo o STJ, "não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol" (fls. 658-659, e-STJ); que, "à época dos fatos objeto da demanda não havia no rol da ANS qualquer menção à cobertura aos tratamentos nos métodos requeridos" (fl. 659, e-STJ); que "que não restou comprovação da eficácia dos métodos solicitados para o tratamento da menor nos autos" (fl. 659, e-STJ); e que "o tratamento em questão não possui cobertura contratual porque, além de não ter sido incluído nas cláusulas contratuais que dispõem acerca das obrigações de cobertura, não estava inserido no rol de procedimentos e eventos em saúde da ANS vigentes à época" (fl. 661, e-STJ).
+Afirma que, "se o contrato assistencial que beneficia a Recorrida dispõe expressamente que a cobertura obedecerá a Lei nº 9.656/98 e, consequentemente, o Rol de Procedimentos e Eventos em Saúde vigente, onde não estavam inseridas as terapias vindicadas nos autos presentes, não há que se falar em abusividade" (fl. 662, e-STJ); e que "o Código de Defesa do Consumidor possibilita a limitação dos direitos do consumidor nos contratos de adesão, desde que as cláusulas restritivas sejam destacadas, permitindo facilmente a compreensão pelo consumidor, o que efetivamente se verifica no contrato assistencial que beneficia a recorrida" (fl. 663, e-STJ).
+Parecer do MPF: da lavra do I. Subprocurador-Geral Renato Brill de Góes, opina pelo parcial provimento do recurso especial para determinar o retorno dos autos ao TJ/SP a fim de que promova novo exame acerca do preenchimento dos requisitos para o deferimento da cobertura.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 51, IV e § 1º, II, e 54, § 4º, do CDC, bem como do art. 35-F da Lei 9.656/1998, indicados como violados, não tendo a parte recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+A parte recorrente não impugnou o fundamento utilizado pelo TJ/SP, no sentido de que "não havendo atualização do rol de procedimentos da ANS, nem indicação de substituto terapêutico, e inexistindo contraindicação ao tratamento prescrito pelo médico de confiança da paciente, com eficácia notória, como no caso em exame, em que a necessidade restou expressamente demonstrada (fls. 19), não se há de restringir a cobertura" (fl. 647, e-STJ), razão pela qual deve ser mantido o acórdão recorrido.
+Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à comprovada necessidade e eficácia do tratamento prescrito e à ausência de indicação de substituto terapêutico, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.500,00 (dois mil e quinhentos reais - e-STJ, fl. 649) para R$ 2.750,00 (dois mil, setecentos e cinquenta reais).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de obrigação de fazer para cobertura de tratamento médico.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súmula 282/STF).
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial (súmula 283/STF).
+4. O reexame de fatos e provas em recurso especial é inadmissível (súmula 7/STJ).
+5. Recurso especial não conhecido.
