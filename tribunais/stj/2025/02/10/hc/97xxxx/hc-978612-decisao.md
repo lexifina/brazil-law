@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ISRAEL DIAS DE SOUZA, condenado pelo crime descrito no art. 155, caput, do Código Penal, à pena de 1 ano e 2 meses de reclusão em regime aberto, além de multa, no qual se ataca o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS na Apelação Criminal n. 5243859-98.2024.8.09.0011 (fls. 12/29).
+Alega-se, em síntese, que a abordagem policial foi infundada, baseada apenas em impressões subjetivas, sem elementos concretos que justificassem a busca pessoal, configurando uma fishing expedition (fls. 8/9).
+Requer-se a concessão de medida liminar, a fim de suspender os efeitos da condenação até o julgamento do mérito do writ. Ao final, busca-se o reconhecimento da nulidade das provas obtidas a partir da atuação da polícia e a absolvição do paciente por ausência de prova válida ou o desentranhamento das provas inválidas e novo julgamento sem valorar as provas nulas.
+É o relatório.
+Segundo o entendimento do Superior Tribunal de Justiça, é incognoscível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem, como na espécie.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Afora isso, cuida-se de hipótese em que ao paciente foi garantido o direito de recorrer em liberdade, de maneira que a eventual concessão da ordem nem sequer teria reflexo imediato no status libertatis deles.
+Seja como for, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+No que diz respeito à dita nulidade, a Corte estadual afirmou que (fl. 26):
+A busca pessoal realizada pelos policiais militares foi válida, haja vista que a abordagem se deu em virtude de informações de furtos na região e a visualização do acusado com ferimentos na cabeça, o que configurava fundada suspeita de participação no crime.
+Ainda, conforme a sentença (fl. 400),
+policiais militares em patrulhamento pelo Setor Garavelo avistaram um indivíduo usando tornozeleira e com características que coincidiam com as descritas pela vítima neste caso. Ao se aproximarem, observaram que ele apresentava ferimentos na cabeça, fato que despertou a atenção dos agentes, especialmente porque a vítima relatou ter entrado em luta corporal com o acusado após ter seu celular subtraído. Esse cenário, então, motivou a abordagem e subsequente busca pessoal, sendo parte do tirocínio policial, inexistindo, portanto, qualquer eiva que possa macular tal proceder, nem tampouco de causar nulidade.
+Diante desse contexto, não há falar em abordagem policial inválida, uma vez que os policiais agiram com base em informações concretas fornecidas pela própria vítima e por câmaras de segurança. No presente caso, o que se pretende é a indevida reapreciação do conjunto probatório, já amplamente analisado pelas instâncias antecedentes.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL AINDA EM CURSO NA ORIGEM. INADEQU AÇÃO DA VIA ELEITA. DESVIRTUAMENTO DO USO DO WRIT. GARANTIDA A LIBERDADE NA ORIGEM ATÉ O TRÂNSITO EM JULGADO DA CONDENAÇÃO. AUSÊNCIA DE REFLEXO IMEDIATO NA LIBERDADE DE IR E VIR. FURTO. NULIDADE DAS PROVAS. ABORDAGEM POLICIAL JUSTIFICADA. REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
