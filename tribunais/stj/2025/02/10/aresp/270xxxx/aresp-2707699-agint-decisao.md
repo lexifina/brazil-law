@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo interno interposto por BANCO DO BRASIL S.A. contra decisão monocrática de minha relatoria, por meio da qual conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento em razão da não violação dos art.. 1.022, I e II, e 1.025 do CPC e da incidência da Súmula n. 7/STJ (fls. 772-777).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO , assim ementado (fls. 352-535):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - EXECUÇÃO DEFINITIVA DE HONORÁRIOS ADVOCATÍCIOS - OFENSA A COISA JULGADA - INOCORRÊNCIA - ATUALIZAÇÃO DO CÁLCULO PELO CONTADOR - METODOLOGIA DETERMINADA POR ESTA CORTE DE JUSTIÇA - EQUÍVOCO NO CÁLCULO - INOCORRÊNCIA - IMPUGNAÇÃO DOS VALORES AFERIDOS - REDISCUSSÃO DA MATÉRIA PELO DEVEDOR - DECISÃO MANTIDA - RECURSO DESPROVIDO. Aferido que o utilizou da metodologia determinada por expert esta Corte de Justiça para atualização do cálculo do processo de execução, adequando os valores a nova situação retratada por julgamento de Corte Superiores, equivocado se torna a insurgência recursal. Decisão recorrida mantida.
+Rejeitados os embargos de declaração opostos (fls. 423-426; 436-437).
+Alega a agravante que "o Tribunal "a quo" recalcitrou em não suprir as relevantes omissões apontadas pelo Agravante, e apesar da oposição dos embargos declaratórios (e-STJ, fls. 378-381), o Tribunal se limitou a utilizar odioso modelo pré-formatado, cabível para quase todas as decisões judiciais, para rejeitar os embargos declaratórios (e-STJ, fls. 424-433), persistindo na omissão quanto à análise das relevantes questões postas pelo Embargante." (fl. 783)
+Aduz, ainda, que "Tais pontos eram (são!) fulcrais para o deslinde da controvérsia, de modo que essencial a supressão da omissão perpetrada pelo Tribunal "a quo"." (fl. 783)
+Sustenta, outrossim, que "o Tribunal de Origem ainda sim recusou-se a observar a coisa julgada, vez que rejeitou os embargos de declaração, sob o argumento de inovação recursal." (fl. 790).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 802-829).
+É, no essencial, o relatório.
+Da melhor análise dos autos, merece guarida a alegação de afronta ao art. 1.022 do CPC.
+Consoante se infere dos autos, cuida-se, na origem, agravo de instrumento tirado de cumprimento de sentença na qual se discute os parâmetros utilizados para fixação de honorários.
+Ao julgar o agravo de instrumento, o Tribunal de origem limitou-se a assentar que está "equivocada a alegação do Banco Agravante quanto a ofensa a coisa julgada, posto que os critérios e metodologias foram obedecidos pelo expert quando da elaboração da atualização dos cálculos aritméticos que trazem a atualização dos valores que o Recorrente se insurge" (fl. 366).
+Com efeito, observa-se que o Tribunal de origem, ao abordar a questão da base de cálculo do honorários sucumbenciais, deixou de analisar a alegação oportunamente suscitada pelo recorrente quando da interposição do agravo de instrumento, no sentido de que a contadoria, em vez de observar o valor da causa atualizado para calcular o quantum devido - conforme determinado no acórdão transitado em julgado (ID 175962188), erroneamente teria partido do valor executado nos autos execução de título extrajudicial n. 0000187-88.1989.8.11.0041 (R$ 88.800.043,88, em 17/07/2020), que violaria a coisa julgada.
+Ademais, ausente manifestação do Tribunal a quo quanto ao ponto, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, do CPC, e em face da questões suscitadas, tenho como necessário o debate acerca de tal ponto.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, reconsidero a decisão de fls. 772-777 para conhecer do agravo e dar provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. COISA JULGADA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022, I E II, DO CPC. OMISSÃO EXISTÊNCIA. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
