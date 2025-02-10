@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por AGÊNCIA DE PROMOÇÂO DE EXPORTAÇÕES DO BRASIL - APEX-BRASIL contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 1.117):
+ADMINISTRATIVO. APELAÇÃO CÍVEL. CONVÊNIO DE COOPERAÇÃO TÉCNICA E FINANCEIRA. ENTIDADE DO SISTEMA S. EXECUÇÃO. HONORÁRIOS. APRECIAÇÃO EQUITATIVA. VALOR EXORBITANTE. CAUSA SEM COMPLEXIDADE. AUSÊNCIA DE CONDENAÇÃO E DE PROVEITO ECONÔMICO. CABIMENTO.
+1. O favorecimento dos gestores da executora do contrato de convênio sem anuência da agência concedente não enseja a restituição dos valores repassados, se inexistente qualquer impugnação de superfaturamento, incompatibilidade ou inexecução dos serviços, sob pena de consubstanciar enriquecimento sem causa da concedente. (Texto do Relator original)
+2. O arbitramento de honorários por apreciação equitativa é cabível, também, quando o critério aritmético, ainda que fixado o percentual mínimo, resultar valor exorbitante, em causa sem complexidade, sem condenação e sem proveito econômico.
+3. Recursos conhecidos. Recurso da autora desprovido. Recurso da ré parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 421, 423 do Código Civil e aos arts. 9º, inciso III, e 14, ambos da Lei 10.668/2003.
+Afirma que deve ser respeitado o princípio da obrigatoriedade dos contratos (pacta sunt servanda), de forma que deve ser mantida a cláusula livremente pactuada entre as partes que previa a restituição dos valores glosados pela irregular aplicação dos recursos aportados ao convênio.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Na origem, cuida-se de ação de cobrança proposta por Agência de Promoção de Exportações do Brasil (APEX - Brasil) em desfavor da Associação Brasileira de Transportadores Internacionais, sob a alegação de descumprimento de Convênio de Cooperação Técnica e Financeira firmado entre as partes para execução de Projeto Setorial Integrado para Promoção de Exportações, no valor total de R$ 1.619.780,00 (um milhão, seiscentos e dezenove mil, setecentos e oitenta reais).
+Conforme pactuado, seriam inicialmente aportados R$ 800.000,00 (oitocentos mil reais) pela Apex e R$ 819.780,00 (oitocentos e dezenove mil, setecentos e oitenta reais) pelo executor. Alega a autora que, diante da violação ao disposto nas cláusulas do instrumento de convênio firmado entre as partes (contratação de outras empresas, com recursos repassados pela autora, sem a autorização dessa), deve a ré ser compelida a devolver os valores indevidamente repassados para terceiros.
+A sentença julgou improcedente a demanda, considerando que "os serviços foram prestados adequadamente, de modo que o convênio firmado entre as partes atingiu seu fim, sem qualquer prejuízo para a autora, haja vista que os valores despendidos com a contratação de outras pessoas jurídicas não destoaram do valor de mercado" (e-STJ, fl. 985). A parte autora foi condenada ao pagamento das despesas processuais e dos honorários advocatícios, nos termos do art. 20, § 4º, do CPC/1973, vigente à época da propositura da ação, fixados em R$ 3.000,00 (três mil reais).
+O Tribunal de origem, ao analisar as apelações interpostas pelas partes autora e ré, deu parcial provimento apenas ao recurso da ré para majorar os honorários de sucumbência, conforme fundamentação abaixo transcrita (e-STJ, fls. 1.127/1130):
+Rogo vênia ao eminente Relator para divergir, em parte, do seu douto voto. A divergência é restrita ao critério adotado para fixação de honorários.
+Quanto ao recurso da autora, acompanho o voto de S.Exa. para negar-lhe provimento. Não tratarei de refundamentar as razão de decidir nesta oportunidade. Entendo que, ao adotar o voto do Relator para negar provimento ao recurso da autora, sendo vencedor apenas no recurso da ré, não é cabível reescrever o voto na sua integralidade. Repito: fui relator para o acórdão porque minha posição sobre honorários, no recurso da ré, foi vencedora e S.Exa., o Relator originário, declinou da relatoria.
+Portanto, dou por transcrito, nesta oportunidade, o voto do Relator que negou provimento ao recurso da autora, acolhido por unanimidade antes de se votar o recurso da ré.
+Quanto ao recurso da ré, que tratou apenas de honorários, passo aos fundamentos do meu voto:
+Ao estabelecer os honorários, o Juiz deve considerar a proporção da sucumbência, o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, bem como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Além disso, o cálculo da verba terá como base o valor da condenação, o valor do proveito econômico obtido ou o valor atribuído à causa, de forma a remunerar de maneira eficaz e justa o trabalho desempenhado pelo causídico. Neste caso, vale observar, não houve nenhuma dessas consequências.
+Atenta às discrepâncias geradas pela literal aplicação do supracitado dispositivo legal, a jurisprudência deste Tribunal tem caminhado no sentido de relativizar os percentuais mínimos e máximos ali previstos para a fixação da verba honorária, arbitrando-a mediante apreciação equitativa, nos termos do § 8º do art. 85 do CPC/2015:
+(..)
+A ré busca a fixação dos honorários sobre o valor da causa, que foi R$ 828.119,75, em 17 de dezembro de 2015. Não houve condenação nem proveito econômico. Nesse contexto, se os honorários sucumbenciais forem fixados no percentual pleiteado pela apelante, ainda que no mínimo de 10% previsto no art. 85, §2º do CPC, a quantia corresponderia, sem correção, a R$ 82.811,90, o que seria exorbitante diante das particularidades da demanda.
+Diante disso, a fixação dos honorários deve ser feita por equidade, pois busca evitar desproporcionalidades e irrazoabilidades na sucumbência, o que poderia, em alguns casos, implicar verdadeira negativa de acesso à justiça. Nesse sentido, são os seguintes precedentes deste Tribunal:
+(..)
+Assim, a sentença merece reforma apenas no que tange ao valor e não quanto ao critério de cálculo adotado, que foi a apreciação equitativa.
+Dispositivo Posto isso, conheço as apelações. Nego provimento ao recurso da autora, nos termos do voto do Relator.
+Dou parcial provimento ao recurso da ré para majorar os honorários de sucumbência para R$10.000,00 (Dez mil reais), já incluída a sucumbência recursal da autora.
+É como voto.
+Verifico que os dispositivos supostamente violados não foram apreciados pelo Tribunal de origem, o que obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF e da Súmula 211 do STJ.
+Quanto à alegada necessidade de respeito ao princípio da obrigatoriedade dos contratos (pacta sunt servanda), observo que o Tribunal de origem não se manifestou acerca do tema, a despeito da oposição dos embargos de declaração, inviabilizando o conhecimento do recurso especial, diante da falta de prequestionamento (Súmula 211/STJ).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
