@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO DE INSTRUMENTO.  EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS CAUTELARES ATÍPICAS. DESPROPORCIONALIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO.  SÚMULA  N.  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  PREJUDICADA.
+1.  Cuida-se , na origem,  de  agravo de instrumento interposto contra decisão proferida nos autos de ação de execução de título extrajudicial, que deferiu o pedido de suspensão da Carteira Nacional de Habilitação, retenção do passaporte e bloqueio dos cartões de crédito do executado.
+2. É firme o entendimento d esta Corte no sentido de que a adoção de medidas cautelares atípicas deve ter caráter excepcional, sendo o seu deferimento condicionado à observância dos princípios da proporcionalidade, da razoabilidade e do contraditório.
+3. A  modificação  do  acórdão  recorrido,  que  reformou a decisão agravada e indeferiu o pedido de suspensão da CNH, retenção do passaporte e bloqueio dos cartões de crédito do executado, por entender que seriam medidas extremamente severas e desproporcionais,  dependeria  do  reexame  de  todo  o  contexto  fático-probatório  dos  autos,  o  que  é  defeso  a  esta  Corte,  conforme  a  Súmula  n.  7/STJ.
+4.  Fica  prejudicado  o  exame  da  divergência  jurisprudencial  quando  a  tese  recursal  já  foi  afastada  na  análise  do  recurso  especial  pela  alínea  "a"  em  razão  da  incidência  do  óbice  da  Súmula  n.  7/STJ.
+Agravo  interno  improvido.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se  de  agravo  interno  interposto  por  VILHENA PARTICIPAÇÕES E EMPREENDIMENTOS LTDA.  contra  decisão  monocrática  de  relatoria  do Ministro Herman Benjamin,  em  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  (fls.  295-299).
+Extrai-se  dos  autos  que  o  recurso  especial  foi  interposto,  com  fundamento  no  art.  105,  inciso  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS  assim  ementado  (fl.  142):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.
+1. Suspensão do Passaporte, Carteira Nacional de Habilitação e cartão de crédito. Medida ineficaz para a Satisfação do Crédito. O artigo 139, inciso IV, do Código de Processo Civil, consagra a possibilidade de o magistrado adotar, de ofício ou a requerimento, medidas executivas atípicas, as quais, todavia, não se justificam quando não forem comprovadamente eficazes na obtenção da tutela do direito. Em preservação da dignidade da pessoa humana e por não ter sido demonstrada a utilidade para execução, deve ser negado o pedido de suspensão dos cartões de crédito, da CNH e do passaporte do devedor. Precedentes deste egrégio Sodalício.
+2. Agravo Interno. Ausência de elementos novos. Constitui medida imperativa o desprovimento do agravo interno quando não evidenciada, em suas razões, nenhum novo argumento que justifique a modificação da decisão recorrida.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Rejeitados os  embargos  de  declaração opostos (fls. 165-171).
+Alega  a  parte  agravante  que  (fl.  304):
+8. Excelências, no tocante a argumentação de que a medida atípica, ora deferida pelo juízo de origem, seria desproporcional e extremamente severa, não merece prosperar, isso porque no próprio relatório da decisão monocrática que julgou o Agravo de Instrumento, constou os ensinamentos de Daniel Amorim Assumpção Neves, os quais são suficientes para deferir a referida medida, uma vez que assevera que somente não será cabível a adoção das medidas executórias atípicas, quando estas não sejam capazes de cumprir sua função, qual seja, a de pressionar psicologicamente o executado a cumprir sua obrigação.
+Sustenta que "É perfeitamente visível o cotejo analítico da questão, transparecendo a semelhança entre os casos confrontados, restando fielmente demonstradas as circunstâncias que clareiam a percepção entre o caso confrontado e o aresto paradigma, fato este que afasta o entendimento que busca-se rever com o provimento deste recurso" (fl. 308).
+Pugna,  por  fim,  caso  não  seja  reconsiderada  a  decisão  agravada,  pela  submissão  do  presente  agravo  à  apreciação  da  Turma.
+A  parte  agravada,  instada  a  manifestar-se,  silenciou  (fl.  316).
+É,  no  essencial,  o  relatório.
+EMENTA
+CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO DE INSTRUMENTO.  EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS CAUTELARES ATÍPICAS. DESPROPORCIONALIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO.  SÚMULA  N.  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  PREJUDICADA.
+1.  Cuida-se , na origem,  de  agravo de instrumento interposto contra decisão proferida nos autos de ação de execução de título extrajudicial, que deferiu o pedido de suspensão da Carteira Nacional de Habilitação, retenção do passaporte e bloqueio dos cartões de crédito do executado.
+2. É firme o entendimento d esta Corte no sentido de que a adoção de medidas cautelares atípicas deve ter caráter excepcional, sendo o seu deferimento condicionado à observância dos princípios da proporcionalidade, da razoabilidade e do contraditório.
+3. A  modificação  do  acórdão  recorrido,  que  reformou a decisão agravada e indeferiu o pedido de suspensão da CNH, retenção do passaporte e bloqueio dos cartões de crédito do executado, por entender que seriam medidas extremamente severas e desproporcionais,  dependeria  do  reexame  de  todo  o  contexto  fático-probatório  dos  autos,  o  que  é  defeso  a  esta  Corte,  conforme  a  Súmula  n.  7/STJ.
+4.  Fica  prejudicado  o  exame  da  divergência  jurisprudencial  quando  a  tese  recursal  já  foi  afastada  na  análise  do  recurso  especial  pela  alínea  "a"  em  razão  da  incidência  do  óbice  da  Súmula  n.  7/STJ.
+Agravo  interno  improvido.
+VOTO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se  de  agravo de instrumento interposto por MARCELO BERNARDES DE OLIVEIRA contra decisão proferida nos autos de ação de execução de título extrajudicial movida por VILHENA PARTICIPAÇÕES E EMPREENDIMENTOS LTDA., que deferiu o pedido de suspensão da Carteira Nacional de Habilitação (CNH), do passaporte e dos cartões de crédito do executado.
+Monocraticamente, o relator deu provimento ao agravo de instrumento e indeferiu o pleito de suspensão da CNH, do passaporte e dos cartões de crédito do executado  (fls.  86-93). Quando da apreciação do agravo interno, o Tribunal de origem negou-lhe provimento (fls. 140-147),  ensejando  a  interposição  de  recurso  especial.
+No  recurso  especial,  VILHENA PARTICIPAÇÕES E EMPREENDIMENTOS LTDA.  sustenta  violação  do art. 139, inciso IV, do Código de Processo Civil, por entender que a ausência de êxito de todas as tentativas de satisfazer a execução torna possível a adoção de medidas executórias atípicas, tais como a suspensão da Carteira Nacional de Habilitação (CNH), a retenção do passaporte e o bloqueio dos cartões de crédito do executado, até a satisfação do crédito.
+Aduz  divergência  jurisprudencial  com  arestos  de  outros  tribunais.
+O  Tribunal  de  origem  inadmitiu  o  recurso  especial  (fls.  263-265),  ensejando  a  apresentação  de  agravo  (fls.  269-283).
+A Presidência desta Corte  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  razão  da  Súmula  n.  7/STJ  e  da  deficiência  do  cotejo  analítico  (fls.  295-299),  o  que  ensejou  a  interposição  do  presente  agravo.
+Da  leitura  da  petição  de  agravo  interno  não  se  extrai  argumentação  relevante  apta  a  infirmar  os  fundamentos  da  decisão  ora  agravada .
+Quanto à possibilidade de deferimento das medidas executivas atípicas pleiteadas pela parte exequente,  o  Tribunal  de  origem  se manifestou nos seguintes termos  (fls.  144-145):
+Todos os argumentos trazidos no presente agravo interno já haviam sido apresentados nas contrarrazões ao agravo de instrumento, de modo que a recorrente não trouxe nenhum argumentou novo que pudesse alterar o entendimento já apresentado na decisão agravada.
+Permaneço com o posicionamento de que a suspensão do passaporte e CNH do executado constitui medida desproporcional e extremamente severa, tendo o potencial de comprometer os atos da vida civil do devedor, sem trazer, em contrapartida, qualquer benefício à parte exequente.
+A penhora de percentual dos rendimentos com os shows que o executado fizer se mostra mas adequada e eficiente para o caso, conforme já fundamentado na decisão agravada.
+Transcrevo trechos da decisão ora agravada:
+"(..)
+Não obstante o artigo 139, inciso IV, da Lei Adjetiva Civil faculte ao magistrado a adoção das medidas coercitivas necessárias ao pagamento do débito exequendo, há que se observar que a suspensão do passaporte, da carteira de habilitação e de cartões de crédito do devedor não é instrumento eficaz para a garantia do pleno adimplemento do crédito.
+(..)
+Ressalte-se que a execução não pode servir de instrumento para periclitar injustificadamente a situação do devedor, sem que as medidas judiciais possam trazer qualquer progresso à satisfação do crédito.
+Ora, malgrado o Supremo Tribunal de Justiça tenha julgado improcedente a ADI 5941, entendo que as medidas coercitivas consistentes na suspensão de dirigir, apreensão de passaporte ou bloqueio de cartão de crédito, são medidas extraordinárias, e só devem ser aplicadas em último caso.
+(..)
+Com efeito, pela exegese do referido precedente, nota-se que as referidas medidas coercitivas gravosas estão a disposição do magistrado para, diante de situações extremas, após esgotados todos os outros meios de recuperação do crédito executado, verificando que a medida representa, efetivamente, o melhor interesse do executado, poderá se valer deste mecanismo que, repito, é extremamente gravoso, pois, impõe ao executado a suspensão de direitos a nível constitucional, contudo, no caso, não se verifica a referida situação.
+Além disso, o executado ofereceu bens a penhora, em relação aos direitos autorias que percebe regularmente em razão de sua profissão (músico compositor).
+Como se não bastasse, a presente medida não coopera muito para a execução, pois, na condição de músico, a suspensão do direito de dirigir, de viajar e de usar cartão de crédito tende a piorar ainda mais sua situação financeira, tornando ainda mais difícil o adimplemento do valor devido.
+Na verdade, melhor que se prossigam as diligências em busca de bens do executado passíveis de satisfazer a obrigação."
+Inicialmente, cumpre destacar que, nos termos do art. 139, inciso IV, do CPC, o "juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe:  ..  determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária".
+Ademais, é firme o entendimento nesta Corte de que a adoção de medidas cautelares atípicas deve ter caráter excepcional, sendo o seu deferimento condicionado à observância dos princípios da proporcionalidade, da razoabilidade e do contraditório.
+Com efeito, o Tribunal de origem, após análise dos autos, concluiu que determinar a suspensão da CNH, a retenção do passaporte e o bloqueio dos cartões de crédito do executado seriam medidas desproporcionais e extremamente severas, que poderiam comprometer os atos da vida civil do executado sem trazer nenhum benefício ao exequente.
+Destacou, ainda, que o executado ofereceu bens a penhora e que a constrição de percentual dos rendimentos dos shows promovidos pelo executado, conforme determinado na decisão agravada, consistia em medida adequada e suficiente.
+Nesse  contexto,  verifica-se  que  a  Corte  a  quo  considerou  as  circunstâncias  do  caso  e  o  acervo  probatório  para  reconhecer a desproporcionalidade e severidade das medidas coercitivas atípicas requeridas pelo exequente e indeferir o pedido da parte ora agravante.
+Isso  posto,  percebe-se  que  modificar  o  aresto  impugnado,  como  pretende  a  parte  recorrente,  dependeria  do  reexame  de  todo  o  contexto  fático-probatório  dos  autos,  o  que  é  defeso  a  esta  Corte,  conforme  a  Súmula  n.  7/STJ.  A  propósito,  cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MEDIDAS CAUTELARES ATÍPICAS. ACÓRDÃO RECORRIDO QUE ADOTA FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. SÚMULA 126. ART. 1.032 DO CPC/2015. INAPLICABILIDADE. NECESSIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+3. O Tribunal de origem reconheceu que não estão presentes os requisitos para a adoção de medidas cautelares atípicas previstas no inciso IV do art. 139 do CPC, inclusive a ordem de restrição em carteira de habilitação do executado e permissão de consulta do estado civil do devedor, regime matrimonial e CPF do cônjuge e que sejam realizados acesso, pesquisa e decretação de indisponibilidade de bens eventualmente localizados por meio da Central Nacional de Indisponibilidade de Bens (CNIB).
+4. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.749.478/PB, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/10/2023, DJe de 5/10/2023, grifo meu.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. INDISPONIBILIDADE DE BENS VIA CNIB. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. MULTA POR EMBARGOS PROTELATÓRIOS. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTES. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. A jurisprudência desta Corte Superior firmou-se no sentido de que as medidas atípicas de satisfação do crédito não podem extrapolar os princípios da proporcionalidade e da razoabilidade, devendo-se observar, ainda, o princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual.
+Com efeito, a indisponibilidade de bens via CNIB é medida excepcional e contraproducente, pois não garante a satisfação do crédito, cabendo ao recorrente buscar outros meios de localização de bens ao seu dispor, mais eficazes à satisfação do seu crédito e menos gravosos ao devedor.
+5. Além disso, a revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.036.419/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1º /7/2022, grifo meu.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. EXECUÇÃO. MEDIDAS ATÍPICAS. CARÁTER SANCIONATÓRIO. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. APREENSÃO DE CNH E PASSAPORTE. BLOQUEIO DE CARTÃO DE CRÉDITO. INADMISSIBILIDADE. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DO RECURSO E ACÓRDÃO RECORRIDO. AUSÊNCIA DE COERÊNCIA. SÚMULA 284/STF. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.803.167/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021, grifo meu.)
+Ademais,  inviável  a  análise  da  divergência  jurisprudencial,  tendo  em  vista  que  a  tese  trazida  pela  parte  recorrente  foi  inteiramente  afastada  em  relação  à  alínea  "a"  do  permissivo  constitucional,  com  a  incidência  da  Súmula  n.  7/STJ.  Nesse  sentido,  cito:
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RESPONSABILIDADE  CIVIL.  INDENIZAÇÃO.  DANOS  MORAIS.  SERVIÇO  DE  TRANSPORTE  METROVIÁRIO.  CULPA  DE  TERCEIRO.  NEXO  DE  CAUSALIDADE.  PRETENSÃO  DE  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  DISSÍDIO  JURISPRUDENCIAL  NÃO  CONHECIDO.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  DESPROVIDO.
+ ..
+3.  A  aplicação  da  Súmula  n.  7  do  STJ  quanto  à  interposição  do  recurso  especial  pela  alínea  a  do  permissivo  constitucional  impede  o  conhecimento  do  recurso  especial  também  pela  divergência  jurisprudencial  sobre  a  mesma  questão.
+4.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  2.044.058/SP,  relator  Ministro  João  Otávio  de  Noronha,  Quarta  Turma,  julgado  em  12/12/2022,  DJe  de  15/12/2022,  grifo  meu.)
+
+Diante  da  ausência  de  argumentos  suficientes  para  a  reforma  do  julgado,  prevalece  o  entendimento  firmado  na  decisão  agravada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  como  penso.  É  como  voto.
