@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto por SERRALHERIA BALTIERI LTDA. contra a decisão que não admitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO - PRESTAÇÃO DE SERVIÇOS - DANOS MORAIS E MATERIAIS - Falha na prestação de serviços - Perícia - Configurado dano moral -SENTENÇA DE PROCEDÊNCIA, para declarar rescindido o negócio jurídico, para condenar a - Requerida à restituição do valor pago e ao pagamento de danos morais - RECURSO DA REQUERIDA IMPROVIDO" (e-STJ fl. 446).
+Os embargos de declaração opostos pela agravante foram rejeitados (e-STJ fls. 467/469).
+No recurso especial (e-STJ fls. 471/502), a recorrente aponta, além de divergência jurisprudencial, violação aos seguintes dispositivos legais com as respectivas teses:
+(i) artigos 18, §§ 1º e 2º, e 26 do Código de Defesa do Consumidor: deve ser reconhecida a decadência do direito da parte autora em buscar a indenização, visto que, concluído o serviço em 28/2/2013, procurou a recorrente apenas em janeiro/2017, ultrapassando, e muito, o lapso temporal de 30 (trinta) dias ou não superior a 180 (cento e oitenta) dias. Além disso, os vícios apresentados no produto são de fácil e aparente constatação, iniciando-se o prazo decadencial a partir da entrega efetiva do produto;
+(ii) artigos 141 e 492 do Código de Processo Civil: o aresto recorrido incorreu em julgamento extra petita ao condenar em danos materiais de forma diversa da que foi pleiteada na petição inicial, não podendo arbitrar dano sobre eventual gasto, mas, sim, sobre aquele já dispendido. Também não houve pedido de rescisão do negócio jurídico formalizado entre as partes.
+(iii) artigos 884 e 886 do Código Civil: a condenação no valor pretendido pela parte autora importará no enriquecimento sem causa desta, pois se refere ao valor total do serviço realizado e o defeito ocorreu apenas em parte do serviço. Não bastasse isso, o recorrido realizou de produto diverso do que foi contratado, tratando-se de material mais caro, divergindo bastante o valor de esquadrias de alumínio para o de pele de vidro;
+(iv) artigos 5º, V e X, da Constituição Federal e 944, parágrafo único, do Código de Processo Civil: o dano moral não foi comprovado. Alternativamente, deve ser reduzido o valor fixado, ante sua exorbitância.
+Invoca dissídio jurisprudencial sobre os temas apontados como violados no recurso especial.
+Apresentadas as contrarrazões (e-STJ fls. 554/559), o recurso foi inadmitido na origem, sobrevindo daí a interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Na origem, Sergio Fernandes Teixeira ajuizou ação de ressarcimento de danos materiais e morais em desfavor de Serralheria Baltieri Ltda. Me. objetivando reparação pela má prestação do serviço contratado, referente à fabricação de esquadrias de alumínio para a sua residência.
+O magistrado de primeiro grau de jurisdição julgou pela procedência dos pedidos para
+"(..) declarar rescindido o negócio jurídico entre as partes e para condenar a ré à devolução do valor pago pelo bem, R$ 47.177,00, e ao pagamento de R$ 10.000,00, a título de danos morais, tudo com correção monetária a partir desta data e juros de mora de 12% ao ano a partir da citação" (e-STJ fls. 378/380).
+O Tribunal de origem manteve referida sentença em todos os seus termos.
+Irresignada, busca a recorrente a reforma do julgado.
+De início, o acórdão recorrido afastou a decadência suscitada nos seguintes termos:
+"(..)
+Em sede preliminar, afasta-se a decadência aventada, até porque não se trata de vício de fácil e aparente constatação. Outrossim, diversos foram os encontros entre as partes na tentativa de resolução do produto/serviço contratado, que perduraram desde 03/2013 até 2017, sem êxito.
+Como se infere, o defeito do produto ou serviço extrapolou a esfera do bem e serviço prestado, e a segurança que dele legitimamente se espera, incidindo na hipótese o artigo 27 do CDC, segundo o qual o prazo prescricional da pretensão de natureza indenizatória por danos causados por fato do produto é de cinco anos" (e-STJ fl. 447).
+Nesse cenário, alterar a conclusão do Tribunal de origem de que não se trataria de vício de produto de fácil e aparente constatação e que incide ao caso a regra do artigo 27 do CDC e, assim, reconhecer a decadência, demandaria, necessariamente, o revolvimento do acervo fático probatório constante dos autos, procedimento vedado a esta Corte Superior por força da Súmula nº 7/STJ.
+No que tange aos artigos 141 e 492 do CPC, consoante a jurisprudência do Superior Tribunal de Justiça, não configura julgamento ultra ou extra petita o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente como um todo.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022, I, DO CPC. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. PRÉDIO CONSTRUÍDO EM SOLO CONTAMINADO. INDENIZAÇÃO. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO. DANOS MORAIS. DISTRIBUIÇÃO DA SUCUMBÊNCIA. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. RESPONSABILIDADE CONTRATUAL. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. CORREÇÃO MONETÁRIA. TERMO INICIAL. ARBITRAMENTO DA INDENIZAÇÃO POR DANOS MORAIS. TAXA SELIC. INCIDÊNCIA. SUBSTITUIÇÃO DO INDEXADOR E DOS JUROS DE MORA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+(..)
+2. Não configura julgamento ultra ou extra petita o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente como um todo.
+(..)
+5.Agravo interno parcialmente provido."
+(AgInt no AREsp n. 2.140.598/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+No caso específico dos autos, o acórdão recorrido consignou que o pedido de condenação da ré/recorrente ao pagamento de danos materiais "(..) restou expressamente previsto, não havendo que se falar em julgamento "extra petita"" (e-STJ fl. 451).
+Registra-se que a alegação referente à ausência de pedido de rescisão contratual, o que também importaria em julgamento além dos limites do que foi pedido, não foi apreciada pelo Tribunal de origem, sequer foi suscitada nos declaratórios, de modo que carece de prequestionamento, nos termos da Súmula nº 282/STF.
+Quanto aos artigos 884 e 886 do Código Civil, apontados para fundamentar a alegação de que a parte recorrida terá enriquecimento sem causa com a indenização referente a todo o serviço prestado, uma vez que apenas parte dele apresentou defeito, observa-se que tais preceitos legais, com a respectiva tese, não foram objeto de debate no acórdão recorrido e, apesar de opostos embargos declaratórios, não foi apontada violação do artigo 1.022 do CPC, restando desatendido, portanto, o requisito específico de admissibilidade do recurso especial.
+De fato, para que se configure o prequestionamento, é necessário que a Corte local se pronuncie especificamente a respeito da matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação, ou não, ao caso concreto. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211 desta Corte.
+Nesse sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. ADICIONAL DE TEMPO DE SERVIÇO (ATS). ALEGAÇÃO DE OFENSA GENÉRICA AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC. INAPLICABILIDADE NO CASO CONCRETO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. MATÉRIA LOCAL. SÚMULA 280/STF.
+(..)
+2. Na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+3. "O art. 1.025 do estatuto processual civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada, fundamentadamente, e reconhecida a violação ao art. 1.022 do referido codex" (AgInt no REsp n. 1.984.872/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/6/2023), o que não ocorreu na espécie. (..)
+5. Agravo interno desprovido."
+(AgInt no REsp n. 2.108.575/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024)
+Por fim, em relação ao dano moral, no tocante ao artigo 5º, V e X, da Constituição Federal, esclareça-se que compete ao Superior Tribunal de Justiça, na via do recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+Em relação ao montante fixado a tal título, o acolhimento da pretensão recursal de reduzir o valor é inviável na estreita via do recurso especial.
+O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização devida pela recorrente no valor de R$ 10.000,00 (dez mil reais).
+A propósito:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS C/C OBRIGAÇÃO DE FAZER. DEFEITO APRESENTADO EM VEÍCULO ZERO QUILÔMETRO. LEGITIMIDADE DA CONCESSIONÁRIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. PROVA PERICIAL E COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF. CULPA EXCLUSIVA DA VÍTIMA. DANOS MATERIAIS. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. DANO MORAL CONFIGURADO E INDENIZAÇÃO. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+6. A jurisprudência deste Tribunal Superior é firme no sentido de que a redução ou majoração do quantum indenizatório é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula nº 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do quantum indenizatório.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.726.173/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 7/6/2021 - indenização por dano moral fixada em R$10.000,00)
+Os óbices aplicados à alínea "a" do permissivo constitucional também incidem em relação ao recurso interposto por divergência jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 18% (dezoito por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PRESTAÇÃO DE SERVIÇOS. AÇÃO INDENIZATÓRIA. DECADÊNCIA. OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. ENRIQUECIMENTO SEM CAUSA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DANOS MORAIS. VALOR. REVISÃO. SÚMULA Nº 7/STJ.
+1. A reforma do julgado para reconhecer a ocorrência de decadência do direito da parte autora demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+2. Não há falar em julgamento extra petita quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco concede providência jurisdicional diversa da requerida, respeitando o princípio da congruência.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, admite o reexame do montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+5. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
