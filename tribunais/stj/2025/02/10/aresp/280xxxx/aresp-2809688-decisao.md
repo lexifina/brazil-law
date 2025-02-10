@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DO MARANHÃO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL. INVERSÃO DO ÔNUS DA PROVA. ENTENDIMENTO JURISPRUDENCIAL DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. 1. EU CONFIRMO A DECISÃO PELOS SEUS PRÓPRIOS FUNDAMENTOS, É QUE ELA ESTÁ AMPARADA NA SOLIDIFICADA JURISPRUDÊNCIA DO STJ, ENQUANTO O ESTADO DO MARANHÃO NÃO SE DIGNOU EM COLACIONAR NENHUM ARGUMENTO CAPAZ DE SUPERAR QUE JÁ NÃO TENHA SIDO APRECIADO E AFASTADO PELO TRIBUNAL SUPERIOR (fl. 49).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373 do CPC, no que concerne à impossibilidade de inversão automática do ônus da prova, com fundamento na ausência dos requisitos apontados no art. 373, §1º, do CPC, quais sejam, verossimilhança das alegações e hipossuficiência da parte recorrida, sustentando ser possível ao Parquet Estadual cumprir seu ônus probatório, por possuir os meios necessários para a produção de prova dos alegados danos ao meio ambiente. Traz a seguinte argumentação:
+Percebe-se, portanto, que a inversão do ônus da prova, como determinado no Decisum ora vergastado, deveria ocorrer, na verdade, em uma situação excepcional, qual seja, o impedimento do Autor em produzir provas. Nestes termos, a inversão do ônus da prova pressupõe não só a verossimilhança das alegações, como também a hipossuficiência, que depreende a dificuldade na produção de provas pelo autor, vez que não possui acesso a determinados elementos e informações necessários à demonstração dos fatos alegados.
+Logo, é de fácil compreensão que não se observa razão para que esta ocorra no presente caso, sobretudo porque não resta caracterizada a hipossuficiência por parte do Parquet Estadual..
+Do contrário: entende-se que o Ministério Público Estadual, não é hipossuficiente, pois, no caso desta Ação Civil Pública, a comprovação dos fatos alegados não requisita conhecimentos técnicos que sejam de difícil acesso à parte autora, desta maneira, apreende-se que este possui poder requisitório para tanto. Nesse sentido:
+ ..
+E mais: malgrado o entendimento lastreado pelo Superior Tribunal de Justiça, quando da possibilidade de inversão do ônus da prova em ações que veiculam pretensão de cunho reparatório em favor do Meio Ambiente, por meio da súmula 618, faz-se necessário observar que nas ações coletivas de direito ambiental, a inversão do ônus da prova não acontece de forma automática, sendo necessária a presença dos requisitos apontados no art. 373, §1º, do CPC.
+ ..
+Portanto, no presente caso, não se vislumbra a impossibilidade do Parquet Estadual de cumprir seu ônus probatório, eis que possui os meios necessários para a produção de prova dos alegados danos ao meio ambiente.
+À vista disso, diante dessas considerações, merece ser reformada a decisão prolatada pelo juízo a quo, que determinou a inversão do ônus da prova nos autos da Ação Civil Pública (fls. 70- 72).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agra vo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
