@@ -1,0 +1,31 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por SIDINHO HENRIQUE PERES, contra decisão que inadmitiu recurso especial sob os fundamentos de incidência  das Súmulas 7 e 83 deste STJ, não comprovação do dissenso pretoriano e ausência de violação do art. 1.022 do CPC.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+Nas razões do recurso especial a parte recorrente alega dissídio jurisprudencial e aponta violação aos arts. 106, 108, 109 da Lei 6.880/1980 e 1.022, II, do CPC, argumentando que:
+A sua incapacidade definitiva para o serviço militar foi reconhecida pela perícia médica judicial (ao qual deverá ser dada a correta valoração), com nexo de causalidade para o serviço militar (acidente em ato de serviço/moléstia profissional), fazendo jus, portanto, à reforma pelo inciso II do art. 106, da Lei nº 6.880/80 (com redação vigente antes da Lei nº 13.954/19) (fl. 802).
+Quanto à apontada violação ao art. 1.022, II do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+O Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fl. 716):
+7. O laudo pericial (fl. 335) atestou que o autor sofre de cisto no testículo direito, hérnia escrotal e dor no joelho, todos tratáveis cirurgicamente e por meio de fisioterapia - fl. 335, pelo que reputo que a incapacidade laboral militar é apenas temporária. Atestada a ausência de incapacidade civil.
+8. Assim, não restando comprovada a incapacidade total e permanente para o serviço militar, o autor não faz jus à reforma.
+9. Todavia, havendo comprovação nos autos de que o autor se encontrava incapacitado temporariamente na data do seu desligamento da organização militar, ele faz jus à sua reintegração como adido, para tratamento médico-hospitalar até a sua recuperação e com a percepção do soldo correspondente ao grau hierárquico que ocupava no momento do licenciamento indevido e demais vantagens remuneratórias daí decorrentes, a contar da data do seu afastamento.
+10. Inaplicáveis as alterações trazidas pela Lei n. 13.954, de 16. 12. 2019, na parte que tratam da figura do encostamento, porquanto tais alterações serão observadas nos casos de incapacidade temporária e parcial apenas para o serviço militar, independente do nexo causal; tanto mais, porque o licenciamento se deu em 05.03.2010, data anterior à edição das citadas alterações, à luz do que rege o princípio tempus regit actum.
+11. A pretensão indenizatória não encontra amparo na comprovação de que teria havido abusos ou arbitrariedades nos procedimentos administrativos que resultaram no ato de licenciamento do militar, pois a análise dos autos revela que o autor, desde a ocorrência do evento em serviço que resultou em sua incapacidade para as atividades castrenses, foi submetido a inúmeras inspeções de saúde e afastamentos para tratamento médico, tendo o seu ato de licenciamento sido precedido de inspeção por junta médica, que o considerou apto para o serviço do exército.
+12. O só fato de haver divergência entre as conclusões da perícia judicial e as avaliações médicas realizadas na organização militar (considerado apto A - fl. 80) não é suficiente para a configuração do dano moral indenizável. Para todos os efeitos legais, foram observados os procedimentos formais regulamentares previstos nas normas de regência por ocasião do licenciamento do autor e a reparação a ele devida se concretiza com o reconhecimento judicial do seu direito à reforma militar, como ocorreu na hipótese. Precedente desta Primeira Turma: AC n. 0049539-66.2011.4.01.3400, Relator Des. Federal Jamil Rosa de Jesus Oliveira, Primeira Turma, P Je 09/04/2021.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Ademais, a pretensão da parte recorrente, relativa à violação dos arts. 106, 108 e 109 da Lei 6.880/1980, na forma como colocada a questão nas razões recursais, encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador  no sentido de que, não restando comprovada a incapacidade total e permanente para o serviço militar, o autor não faz jus à reforma  seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Por fim, importante destacar que o mesmo óbice impede o conhecimento do apontado dissídio jurisprudencial.
+Nesse sentido, "o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial" (AgInt no AREsp 1.372.011/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/8/2019).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
