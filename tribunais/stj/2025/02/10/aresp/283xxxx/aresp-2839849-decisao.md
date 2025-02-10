@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por CLARA POLIANA DE SOUZA MARQUES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 290):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANO MORAL C/C INEXIGIBILIDADE DE TÍTULO - PROTESTO INDEVIDO - DUPLICATA - RESPONSABILIDADE DO BANCO MANDATÁRIO - NÃO VERIFICAÇÃO - RECEBIMENTO DA DUPLICATA POR MEIO DE ENDOSSO MANDATO - EXCESSO E NEGLIGÊNCIA NÃO COMPROVADOS - Nos termos da jurisprudência do STJ, "no endosso-mandato, só responde o endossatário pelo protesto indevido de duplicata sem aceite quando manteve ou procedeu ao apontamento depois de advertido de sua irregularidade, seja pela falta de higidez da cártula, seja pelo seu devido pagamento". - Não havendo comprovação de que o banco réu não foi cientificado acerca da irregularidade do protesto impugnado pela parte autora, não pode ser responsável pelos danos morais experimentados por ela em razão da irregularidade de tal ato, pois não foi negligente em relação ao respectivo procedimento, tampouco excedeu o mandato que lhe foi outorgado por endosso.
+V. V.:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPARAÇÃO POR DANOS MORAIS - DUPLICATA - APONTAMENTO INDEVIDO A PROTESTO - ENDOSSATÁRIO - RESPONSABILIDADE CIVIL SOLIDÁRIA - PREJUÍZO EXTRAPATRIMONIAL CONFIGURADO - CRITÉRIOS DE ARBITRAMENTO DA INDENIZAÇÃO. - A relação de preposição, decorrente do recebimento de título por endosso-mandato, autoriza que o Endossatário responda, solidariamente, por dano à pessoa protestada indevidamente, quando tenha se descurado das cautelas ordinariamente compreendidas no desempenho do seu encargo, em sintomáticas negligência e imprudência. - A emissão e o protesto de Duplicata sem lastro maculam o nome da pessoa indicada como sacada e ensejam a reparação por danos morais. - Segundo os critérios de proporcionalidade e razoabilidade, o valor da indenização não pode servir como fonte de enriquecimento da parte ofendida, nem consubstanciar incentivo à reincidência dos responsáveis pela prática dos atos lesivos.
+Rejeitados os embargos de declaração opostos com aplicação de multa (fls. 350-362).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 186, 665 e 927 do Código Civil, bem dos arts. 311, II, 332 e 927, III, do CPC.
+Sustenta, em síntese, que, "no caso dos autos, o protesto se deu por mera indicação, lastreado em endosso mandato de duplicata sem aceite, agindo sim a instituição com culpa porque sabia da falta de higidez do título, de modo que afastar a responsabilidade da Recorrida caracteriza verdadeira ofensa ao disposto na Súmula 476 do STJ" (fl. 381).
+Foram oferecidas contrarrazões ao recurso especial (fls. 465-471).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 476-479), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 655-659).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se, incialmente, que não há negativa de prestação jurisdicional e ausência de fundamentação e em relação à apontada ofensa aos arts. 186, 665 e 927 do Código Civil e 311, II, 332 e 927, III, do CPC, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ (Súmula n. 476 do STJ), e alterar o decidido no acórdão impugnado, no que se refere à demonstração da culpa da instituição financeira, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+A propósito, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM DANOS MORAIS. PROTESTO INDEVIDO. DUPLICATA RECEBIDA POR ENDOSSO-MANDATO. ENDOSSATÁRIO. NECESSIDADE DE CULPA. DEVER DE INDENIZAR NÃO RECONHECIDO. INCIDÊNCIA DAS SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento do Tribunal de origem encontra amparo na jurisprudência do STJ no sentido de que "o endossatário de título de crédito por endosso-mandato só responde por danos decorrentes de protesto indevido se extrapolar os poderes de mandatário" (Súmula n. 476/STJ). Incidência da espécie a Súmula n. 83/STJ.
+2. Rever a conclusão que chegou o Tribunal de origem acerca da conduta culposa da instituição financeira, demandaria o reexame de circunstâncias fáticos-probatórias, procedimento inviável em sede de recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.075.621/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROTESTO INDEVIDO. DUPLICATA RECEBIDA POR ENDOSSO-MANDATO. ENDOSSATÁRIO. NECESSIDADE DE CULPA. SÚMULA N. 476 DO STJ. SÚMULA N. 83/STJ. DEVER DE INDENIZAR NÃO RECONHECIDO. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO DE ADMISSIBILIDADE MANTIDA. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
