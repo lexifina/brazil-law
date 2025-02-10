@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por BONFA - SERVICOS DE APOIO DIAGNOSTICO LTDA, contra acórdão prolatado pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 1.371e):
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. UNIÃO, AUTARQUIAS E FUNDAÇÕES PÚBLICAS VENCEDORAS. TITULARIDADE DOS ADVOGADOS PÚBLICOS. INTELIGÊNCIA DO ART. 29, DA LEI Nº 13.327/2016 C.C. ART. 85, § 19, CPC. COMPENSAÇÃO COM CRÉDITOS DECORRENTES DE PAGAMENTOS INDEVIDOS. IMPOSSIBILIDADE. AGRAVO DE INSTRUMENTO DESPROVIDO.
+1. Embora a jurisprudência do C. Superior Tribunal de Justiça tenha albergado o entendimento apresentado pela agravante no que concerne à titularidade do direito aos honorários sucumbenciais, quando a vencedora é a Fazenda Pública, a mencionada inteligência é realizada de forma geral e inexistente norma regulamentadora do ente público, porém, quando da análise do artigo 29, da Lei nº 13.327/16 em cotejo com o artigo 85, § 19, do Código de Processo Civil, verifica-se que a lei delimitou a titularidade dos honorários sucumbenciais, quando a vencedora é a União, suas autarquias e fundações públicas. (REsp n. 1.636.124/AL, relator Ministro Herman Benjamin, Segunda ). Turma, julgado em 6/12/2016, DJe de 27/4/2017.
+2. Neste sentido, a melhor interpretação que se pode dar ao tema é o de que, inexistente norma reguladora do ente público, os honorários sucumbenciais pertencerão àquele, após a edição de referida norma, esta é que indicará a forma pela qual deve ser reconhecida a natureza da referida verba.
+3. Deveras, em razão da regulamentação por lei acerca da titularidade dos direitos decorrentes dos honorários advocatícios sucumbenciais, quando a vencedora é a União, suas autarquias e fundações públicas, atribuindo-a aos advogados públicos da União, não há como se operar a compensação pretendida, por não se colocarem na posição de credores e devedores de forma recíproca.
+4. Agravo de instrumento desprovido.
+Com amparo no art. 105, III, a e c, da Constituição da República, aponta-se, além de divergência jurisprudencial, ofensa a dispositivos legais, alegando-se, em síntese, que os honorários de sucumbência não constituem direito autônomo do advogado público, pois integram o patrimônio da entidade, sendo possível sua compensação.
+Com contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 1.451e).
+Feito breve relato, decido.
+Nos termos do art. 932, III e IV, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, a e b, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como a negar provimento a recurso ou a pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Quanto à controvérsia, esta Corte adotava a compreensão no sentido de que os honorários advocatícios de sucumbência, devidos quando vencedora a Fazenda Pública, não constituíam direito autônomo dos seus procuradores ou representantes judiciais, porquanto integravam o patrimônio da pessoa de direito público e, por conseguinte, seria legítima a compensação de tais valores com débito s da entidade, como espelham os precedentes assim ementados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO. TÍTULO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS NOS EMBARGOS À EXECUÇÃO JULGADOS PROCEDENTES EM FAVOR DE MUNICÍPIO. TITULARIDADE DA VERBA. ART. 23 DA LEI 8.906/94. FALTA DE PREQUESTIONAMENTO. SUPOSTA OFENSA AO ART. 1.009 DO CC/1916. NÃO-OCORRÊNCIA. COMPENSAÇÃO DOS HONORÁRIOS COM O CRÉDITO OBJETO DA EXECUÇÃO PROMOVIDA CONTRA A MUNICIPALIDADE. POSSIBILIDADE. DISSÍDIO PRETORIANO. INCIDÊNCIA DAS SÚMULAS 13 E 83 DO STJ. PRECEDENTES.
+ ..
+3. Os honorários advocatícios de sucumbência, quando vencedor o ente público, não constituem direito autônomo do procurador judicial, porque integram o patrimônio público da entidade. Logo, é legítima a compensação determinada pelo juízo de origem.
+ ..
+6. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
+(REsp 668.586/SP, Rel. Ministra DENISE ARRUDA, Primeira Turma, j. 03.10.2006, DJ 23.10.2006, p. 260).
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DEVIDOS À FAZENDA PÚBLICA. COMPENSAÇÃO COM PRECATÓRIO. POSSIBILIDADE.
+ ..
+2. A decisão impugnada encontra-se em conformidade com a jurisprudência desta Corte Superior de que os honorários advocatícios de sucumbência, quando vencedora a Fazenda Pública, não constituem direito autônomo do procurador judicial, porque integram o patrimônio público do ente público, de modo a permitir, nessa hipótese, a compensação da verba honorária devida ao ente público com o montante a que o credor tem direito de receber do Estado, via precatório. Precedentes.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 2.055.072/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/6/2023, DJe de 27/6/2023).
+Entretanto, o Supremo Tribunal Federal, no julgamento da ADI n. 6.053/DF, fixou as seguintes orientações, de efeito vinculante:
+"i) o pagamento de honorários sucumbenciais aos advogados públicos é constitucional;
+ii) os honorários de sucumbência fixados na sentença favorável a ente público pertencem a seus advogados ou procuradores, consistindo verba autônoma e destacada de eventual direito material do ente representado;
+iii) o recebimento da verba é compatível com o regime de subsídios, nos termos do art. 39, § 4º, da Constituição; e
+iv) os honorários sucumbenciais, somados às demais verbas remuneratórias, devem estar limitados ao teto constitucional disposto no art. 37, XI, da Constituição".
+E, no âmbito da Reclamação n. 65.774/DF, a Suprema Corte, consoante as diretrizes estabelecidas na referida ADI, consignou que:
+ ..  foi afirmado o direito dos advogados públicos receberem honorários de sucumbência, nos termos de lei própria que venha a regular a matéria, como o fora regulamentado não só pela Lei 8.906/1994, de forma genérica à toda a advocacia, bem como pela Lei 13.327/2016, no âmbito da União, suas autarquias e fundações públicas.
+Assim, regulamentado o direito ao recebimento de honorários de sucumbência por advogados públicos, na forma da parte final do § 19 do Art. 85, do Código de Processo Civil, não há mais que se falar em possibilidade de compensação dos honorários de sucumbência devidos aos advogados públicos com eventuais débitos havidos pelo ente representado com o devedor da sucumbência (destaques meus).
+Em outras palavras, havendo norma legal que regulamente o direito autônomo dos advogados ou procuradores públicos ao recebimento dos honorários sucumbenciais, resta impossibilitada a compensação de tais verbas com débitos do respectivo ente representado.
+No presente caso, o acórdão de origem asseverou a edição de lei própria atribuindo os honorários sucumbenciais, nos processos judiciais que envolvam a Fazenda Pública, aos seus advogados ou procuradores.
+Portanto, nos termos do que fora decidido pelo Supremo Tribunal Federal, não há que se falar em compensação dessas verbas com eventuais débitos do ente público.
+Posto isso, com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, II, do RISTJ, CONHEÇO do Recurso Especial e NEGO-LHE PROVIMENTO.
+Publique-se e intimem-se.
+EMENTA
