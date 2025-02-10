@@ -1,0 +1,40 @@
+DECISÃO
+LEANDRO FRANKLIN CARDOSO DE MOURA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 49716365620248130000.
+Consta dos autos que o recorrente teve a prisão preventiva decretada pela prática, em tese, do crime previsto no art. 155, § 4º, IV, do Código Penal.
+A defesa sustenta, em síntese, a ilegalidade do flagrante - ao argumento de que o recorrente haveria sido preso sem ter havido perseguição ininterrupta após a ocorrência dos fatos imputados - e a ausência dos requisitos ensejadores da prisão cautelar - por inexistir perigo decorrente de seu estado de liberdade.
+Argumenta ostentar predicados pessoais favoráveis. Aduz apresentar quadro grave de saúde (Diabetes tipo 2), o que exige aplicações de insulina por três vezes ao dia, além de dieta específica. Pleiteia, enfim, o relaxamento ou a revogação da prisão preventiva, e, subsidiariamente, a substituição da prisão preventiva por prisão domiciliar.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 311-319).
+Decido.
+I. Validade do flagrante
+Embora o recorrente discuta a validade do flagrante, verifico que o caso se amolda à figura do flagrante ficto ou presumido, com previsão no art. 302, IV, do Código de Processo Penal, que se configura quando o agente "é encontrado, logo depois, com instrumentos, armas, objetos ou papéis que façam presumir ser ele autor da infração".
+Veja-se que o dispositivo legal estabelece que a prisão deve acontecer em espaço de tempo razoável entre a prática do delito e a custódia do imputado, bem como que ele esteja na posse de instrumentos, armas, objetos ou papéis que façam presumir ser ele autor da infração penal, o que efetivamente aconteceu no caso dos autos.
+Consta que a Polícia Militar compareceu, em 11/11/2024, à residência da vítima José Mario Peçanha Gonçalves, em Muriaé-MG, em atendimento por crime de furto supostamente ocorrido naquela data. Depois de diligências realizadas pela autoridade policial, aportou informação, no dia 12/11/2024, de que o suposto segundo autor do fato estaria nas proximidades da rodoviária local, com descrição da vestimenta e da bagagem transportada. O recorrente, então, foi abordado, sua bagagem foi vistoriada e nela foram encontrados, em tese, diversos produtos do furto imputado.
+Assim, concluo pela idoneidade do flagrante, já que realizado em prazo razoável desde a ocorrência dos fatos, sem solução de continuidade nas buscas e tendo em vista que foram encontrados, na oportunidade, objetos que eram produto do crime ocorrido.
+II. Idoneidade da Prisão Preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O Juízo singular, ao converter a prisão em flagrante em prisão preventiva, destacou que (fls. 120-125, grifei):
+ ..  Superada essa questão, consta dos autos que foi verificado no sistema que o conduzido, Leandro Franklin Cardoso de Moura, ostenta diversos registros na cidade de São Paulo, sendo, dentre outros, por furto, receptação, roubo e uso de documento falso. Consta também que ele estava em liberdade condicional, com restrição de se ausentar da comarca de Juiz de Fora/MG  ..
+Nesse sentido, consta da CAC de ID 10344409070 que o conduzido, Leandro Franklin Cardoso de Moura ostenta execução de pena ativa perante a comarca de Juiz de Fora, referente a 20 ações penais oriundas das comarcas da capital paulista e de São José do Rio Preto/SP (autos nº 4400372-23.2023.8.13.0145).
+O Tribunal a quo, ao chancelar a fundamentação empregada pelo Juízo de primeiro grau e denegar a ordem de habeas corpus, assim consignou (fls. 234-239, grifei):
+ ..  Em tempo, constato que, consoantes às informações lançadas à CAC do paciente (doc. de ordem nº 22/23), o peticionário figura como acusado em outros processos, estando  ..  em cumprimento de pena pela prática de 20 (vinte) delitos anteriores (processo de execução 4400372-23.2023.8.13.0145, no SEEU), o que denota, até segunda ordem, que a imposição de medidas cautelares diversas da prisão - art. 319, do CPP - não se mostram adequadas e suficientes para efetividade da instrução processual e para a garantia da ordem pública.
+ ..
+Na hipótese, verifico que constou do decreto prisional originário a presença dos vetores contidos no art. 312 do Código de Processo Penal, com indicação de motivação suficiente e concreta para determinar a prisão preventiva do recorrente, ao destacar o fato de ser ele multirreincidente específico.
+Observo, a propósito, que condenações anteriores e processos em andamento podem ser usados para indicar o risco de reiteração delitiva. Ilustrativamente:
+  3. Segundo reiteradas manifestações deste Superior Tribunal, a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar. Precedentes do STJ.  ..
+7. Recurso ordinário desprovido.
+(RHC n. 106.326/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/4/2019, grifei)
+  3. Conforme pacífica jurisprudência desta Corte Superior, a preservação da ordem pública justifica a imposição da custódia cautelar quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. Precedentes.
+4. Nesse contexto, mostra-se indevida a aplicação de medidas cautelares alternativas ao cárcere, porque insuficientes para resguardar a ordem pública. Precedente.
+(AgRg no HC n. 591.246/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 22/9/2020).
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do recorrente.
+Por idênticos fundamentos (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais, máxime considerando-se que o recorrente conta com condenações anteriores com trânsito em julgado, conforme consignado.
+A propósito: "  tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/9/2022).
+Sem embargo disso, "as condições favoráveis do agente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada" (AgRg no HC n. 706.455/BA, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 15/2/2022).
+Por fim, quanto ao pedido de conversão da prisão preventiva em domiciliar, não verifico haver nos autos demonstração da imperiosa necessidade apontada, a inviabilizar a permanência do recorrente na casa prisional, já que não documentada a deficiência do atendimento médico lá existente.
+De acordo com o entendimento do STJ,
+A concessão da substituição da prisão preventiva pela domiciliar nos casos de enfermidade cinge-se aos casos em que o indivíduo esteja extremamente debilitado por motivo de doença grave, sendo imperativa a comprovação de que o tratamento necessário não pode ser devidamente realizado no ambiente prisional (AgRg no RHC n. 183.677/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 20/8/2024, DJe de 23/8/2024).
+Não constato, enfim , flagrante ilegalidade na espécie, a ensejar a soltura do recorrente.
+III. Dispositivo
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
+EMENTA
