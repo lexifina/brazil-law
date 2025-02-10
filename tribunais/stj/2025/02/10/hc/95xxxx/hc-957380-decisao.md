@@ -1,0 +1,12 @@
+DECISÃO
+JOÃO VITOR GRECCO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0000907-57.2024.8.26.0026, em que foi cassada a decisão "que deferiu o pedido de progressão ao regime aberto formulado por JOÃO VITOR GRECCO, nos autos da execução n.º 0010485-20.2019.8.26.0026" (fl. 20).
+Assere a defesa que "o fato de o agravado ter cometido crime grave já fora objeto de consideração pelo R. Juízo Condenatório (juízo de diagnose) de tal sorte que, as mesmas circunstâncias não devem repercutir na fase de execução da pena (juízo de prognose), pois a Constituição Federal veda o bis in idem" (fls. 12-13).
+Entretanto, em consulta ao sistema eletrônico do Superior Tribunal de Justiça, verifica-se a anterior interposição do Habeas Corpus n. 955.409/SP, oportunidade em que concedi a ordem, justamente, para afastar a exigência de realização de exame criminológico e, assim, restabelecer a decisão de primeiro grau.
+Dessa forma, urge consignar que " a  questão a ser discutida no recurso em habeas corpus trata de mera reiteração de pedido já submetido à apreciação deste Tribunal, quando do julgamento de anterior agravo em recurso especial interposto pela defesa, não sendo cabível a interposição de recurso em habeas corpus com vistas à rediscussão da matéria, nos termos em que dispõe o art. 210 do RISTJ" (AgRg no RHC n. 172.281/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 25/5/2023, grifei.)
+No mesmo sentido:
+ ..
+1. Constitui óbice ao conhecimento do habeas corpus a mera reiteração de pedido já formulado e examinado por esta Corte Superior. Isso porque há identidade de partes e de causa de pedir, impugnando ambos os feitos o mesmo acórdão  ..  (AgRg no HC n. 539.189/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 12/2/2020.)
+Ainda a esse respeito, não é pode olvidar que "" a  impetração sistemática de habeas corpus idênticos perante o Superior Tribunal de Justiça mesmo após a controvérsia já ter sido analisada viola os deveres de lealdade, decoro, ética e boa-fé impostos a todos os sujeitos processuais" (AgRg no HC n. 860.004/SP, relator Ministro TEODORO SILVA SANTOS, SEXTA TURMA, DJe de 12/12/2023) (AgRg no HC n. 934.220/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 22/10/2024, sublinhei.)
+À vista do exposto, casso a liminar anteriormente deferida e, com fundamento no art. 210 do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
