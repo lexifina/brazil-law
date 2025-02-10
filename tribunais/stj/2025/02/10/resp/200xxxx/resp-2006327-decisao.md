@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim mentado (fl. 87):
+PREVIDENCIÁRIO. PROCESSU AL CIVIL. AGRAVO DE INSTRUMENTO. PRELIMINAR DE COMPETÊNCIA RECONHECIDA. MANUTENÇÃO NO JUÍZO DA 1ª VARA FEDERAL DE LAGUNA. EXECUÇÃO COMPLEMENTAR. TEMA 289. TRANSITADA EM JULGADO A SENTENÇA DE EXTINÇÃO DA EXECUÇÃO PELO PAGAMENTO. REABERTURA. IMPOSSIBILIDADE.
+1. Reconhecida a preliminar de competência, entendendo ser da 4ª Vara Federal de Joinville, mantendo-se a decisão agravada que considerou que o Superior Tribunal de Justiça, no julgamento do Recurso Especial Representativo de Controvérsia nº 1.143.471/PR (Tema 289), posicionou-se no sentido de que, transitada em julgado a sentença de extinção da execução, pelo pagamento, não é possível sua reabertura.
+2. A fim de possibilitar o acesso às instâncias superiores, consideram-se prequestionadas as matérias constitucionais e legais suscitadas no recurso, nos termos dos fundamentos do voto, deixando de aplicar dispositivos constitucionais ou legais não expressamente mencionados e/ou havidos como aptos a fundamentar pronunciamento judicial em sentido diverso do que está declarado.
+A vice-presidência do Tribunal de origem, às fls. 156-157, determinou o retorno dos autos ao órgão julgador para exame de eventual juízo de retratação relativamente ao Tema 1.170/STF, sendo, no entanto, mantido o entendimento anteriormente externado, consoante acórdão de fls. 167-170, assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REEXAME DOS AUTOS. TEMA 1.170/STF. DISTINÇÃO. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO. ACÓRDÃO MANTIDO.
+1. A questão controvertida perpassa a (im)possibilidade de execução complementar das diferenças de correção monetária (Temas 810/STF e 905/STJ) após a extinção da execução na hipótese de o título executivo judicial ter postergado a definição para a etapa de cumprimento de sentença, situação fática distinta da discutida no âmbito do Tema 1.170/STF, que buscou estabelecer se a taxa de juros - ou o índice de correção - definida por lei posterior ao trânsito em julgado da sentença se aplica ex nunc à atualização da obrigação a partir de sua entrada em vigor sem que isso represente afronta à autoridade da coisa julgada.
+2. Em reexame dos autos, observa-se que o acórdão prolatado pela Turma, porque julga hipótese fática diversa, não contraria o entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema 1.170/STF.
+3. Acórdão mantido.
+Os Embargos de declaração foram parcialmente acolhidos tão somente para acréscimo de fundamentação, sem, no entanto, alterar-se o resultado do julgamento (fls. 188-191).
+No recurso especial, sustenta a parte recorrente ofensa ao artigo 189 do CC, aduzindo argumentação quanto ao reconhecimento de que deve ser afastada a preclusão temporal reconhecida pelo TRF4 e consequente "reforma da decisão, a fim de que seja permitido o processamento do pedido apresentado ao Juízo de Primeiro Grau (de desarquivamento do feito e apuração das diferenças existentes em decorrência da utilização do INPC como critério de correção monetária dos valores recebidos pelo autor, ora recorrente)" (fl.114), nos termos em que decidido pelo STF no RE 870.947 (Tema 810).
+Sem contrarrazões.
+Recurso admitido na origem à fl. 203.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+O recorrente se insurge contra acórdão que negou provimento ao agravo de instrumento sob o fundamento de "impossibilidade de reabertura da execução, sob qualquer pretexto" (fl. 93), após o trânsito em julgado da sentença que a extinguiu.
+Ocorre que, nas razões do recurso especial, a parte trata do tema com foco na redação do art. 189 do CC, aduzindo, para tanto, que "o direito da parte autora às diferenças que ora se busca receber só surgiu com o trânsito em julgado da decisão do RE 870.947, que ocorreu em 03/03/2020" ( fl. 112.)
+Todavia, não é possível conhecer do recurso especial que apresenta suposta violação do artigo 189 do CC, pois o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Dessa forma, a ausência de comando normativo do dispositivo atrai o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. PARADIGMAS. DECISÃO MONOCRÁTICA E JULGADO DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+3. Não é cabível dissídio jurisprudencial tendo como paradigma decisão monocrática ou julgado oriundo do Supremo Tribunal Federal.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1981818/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/04/2022, Dje de 19/04/2022) (grifei).
+Ademais, nota-se que as razões apresentadas no recurso especial estão dissociadas do acórdão do Tribunal de origem, inclusive no que pertine ao fundamento legal das alegações, bem como não foram impugnados os fundamentos do acórdão da Corte a quo.
+Em razão das circunstâncias acima mencionadas, incide também os óbices das Súmulas 284 e 283 do STF, que impedem o conhecimento do recurso especial.
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AGRAVO DE INSTRUMENTO. EXECUÇÃO/CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DO PROCESSO. DISPOSITIVO LEGAL APONTADO COMO VIOLADO. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RAZÕES DISSOCIADAS QUE NÃO ATACAM OS FUNDAMENTOS UTILIZADOS PELA CORTE DE ORIGEM. SÚMULAS 283 E 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
