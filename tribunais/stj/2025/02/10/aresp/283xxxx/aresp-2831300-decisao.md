@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+CIVIL. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA EM MANDADO DE SEGURANÇA. REVALIDA. TRAMITAÇÃO SIMPLIFICADA. PROCEDIMENTO ADMINISTRATIVO. CONCLUSÃO. PRAZO DE SESSENTA DIAS. 1. A DECISÃO LIMINAR CONCEDIDA NO MANDADO DE SEGURANÇA DETERMINOU O RECEBIMENTO E INSTAURAÇÃO DO PROCEDIMENTO PARA REVALIDAÇÃO DE DIPLOMAS DE GRADUAÇÃO OBTIDO NO EXTERIOR (ARCU- SUL), A SE CONCRETIZAR NO PRAZO DE 60 (SESSENTA) DIAS. 2. ASSIM, SE A PARTE RECORRIDA NÃO CUMPRIU NO PRAZO ASSINALADO O PROCESSO DE REVALIDAÇÃO EM ATÉ 60 (SESSENTA) DIAS, MOSTRA-SE EQUIVOCADA A SENTENÇA QUE INDEFERIU LIMINARMENTE O CUMPRIMENTO DE SENTENÇA. 3. APELO PARCIALMENTE PROVIDO PARA DETERMINAR A INTIMAÇÃO DA PARTE RECORRIDA PARA QUE, NO PRAZO DE 15 (QUINZE) DIAS, CONCLUA O PROCEDIMENTO ADMINISTRATIVO DE REVALIDAÇÃO DO DIPLOMA ESTRANGEIRO DA PARTE RECORRENTE, INDEPENDENTEMENTE DO RESULTADO, SOB PENA DE MULTA DIÁRIA ARBITRADA NO VALOR DE R$ 500,00 (QUINHENTOS) REAIS, LIMITADA A 30 (TRINTA) DIAS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 493 do CPC, no que concerne à impossibilidade de execução de título judicial favorável à revalidação, na forma simplificada, de diploma estrangeiro, tendo em vista a insubsistência do fundamento que amparava o direito da recorrida, pois a tese firmada no IAC n. 5, adotada pelo tribunal a quo, foi supervenientemente superada em face do entendimento de que a teoria do fato consumado não se aplica para resguardar concessões deferidas por força de tutela de urgência. Argumenta:
+A questão infraconstitucional tratada no presente Recurso Especial - possibilidade de execução de título judicial cujo fundamento contraria entendimento desse Superior Tribunal de Justiça, à luz da norma estabelecida 493 do Código de Processo Civil, traz consigo grande relevância, dado que o acórdão objurgado colide com o entendimento dessa Corte de Superposição.
+ ..
+O art. 493 permite que o juiz leve em conta fato superveniente à propositura da ação, desde que o evento novo tenha influência no julgamento da lide, e que se refira, obviamente, ao mesmo fato jurídico, que já constitui o objeto da demanda e possa ser tido, em frente a ele, como fato constitutivo, modificativo ou extintivo.
+ ..
+Todavia, o título discutido nestes autos, não goza de exequibilidade, posto que o fundamento que lhe amparou (liminar em decisão precária, em razão do fato consumado), não mais subsiste.
+Da análise do Voto prevalente, da lavra do Des. Helvécio de Brito Maia Neto, que fundamenta acórdão objurgado, ficou nítida a aplicação da teoria do fato consumado, conforme excerto da fundamentação abaixo transcrita:
+ ..
+Entretanto, ao contrário do que concluiu o Colegiado Tocantinense, a tese específica do IAC n. 5 não mais permanece hígida, uma vez que quando do julgamento de caso análogo à matéria debatida nestes autos, esse C. STJ conferiu interpretação contrária ao decidido.
+Nesse sentido, no julgamento do Recurso Especial n. 2.068.279/TO, o Ministro Francisco Falcão concluiu pela inaplicabilidade do fato consumado, fundamentando que:
+ ..
+Portanto, ao determinar o prosseguimento da execução de título exequendo, formado a partir da ocorrência do fato consumado, tese essa veementemente rechaçada por esse Tribunal da Cidadania, o Colegiado Tocantinense aplicou indevidamente a referida norma processual, uma vez que a situação em julgamento não autoriza a constituição de nenhum direito às requerentes/recorridas.
+Logo não há que se falar em direito a execução do julgado de título superveniente inexequível.
+ ..
+Colhe-se do julgado acima transcrito, que retirado o fundamento legal que deu origem ao título exequendo, este passa a ser inexigível, "ensejando a extinção da execução".
+Nessa perspectiva, ao reconhecer o direito à execução de título inexequível, porque formado a partir da teoria do fato consumado, destoando de precedente desse STJ, é nítido que o Tribunal Local violou o dispositivo retrocitado, circunstância que deve ser corrigida nessa via especial (fls. 177-181).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse se ntido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
