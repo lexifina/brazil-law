@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+2. Agravo interno não conhecido, com imposição de multa.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por INSTITUICAO EDUCACIONAL MATOGROSSENSE-IEMAT, contra decisão unipessoal, proferida pela Presidência do STJ, que não conheceu do agravo em recurso especial.
+Ação: reclamação, oferecida pelo agravante, em face de GABRIEL SEELENT ZILKI.
+Acórdão: negou provimento ao agravo interno interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO - RECLAMAÇÃO - ACÓRDÃO DA TURMA RECURSAL QUE DESPROVEU RECURSO INOMINADO - ALEGAÇÃO DE EXIGIBILIDADE INDEVIDA DE SEMESTRALIDADES ESCOLARES NÃO FINANCIADAS PELO FIES A PARTIR DE 2015 - DESCABIMENTO DE RECLAMAÇÃO - AUSÊNCIA DE VIOLAÇÃO À SÚMULA OU ACÓRDÃOS PROFERIDOS SOB A SISTEMÁTICA DE RECURSOS REPETITIVOS - UTILIZAÇÃO ANÔMALA DA RECLAMAÇÃO - DECISÃO MANTIDA - RECURSO DESPROVIDO. A reclamação instituída pela Resolução STJ nº 03, de 07.04.2016, diferentemente daquela prevista no art. 988, I a IV, do CPC, é meio de impugnação, à guisa recursal, de manejo limitado, só cabível quando o acórdão da Turma Recursal viola súmula ou recurso repetitivo, e não quando estabelece confronto pontual com este ou aquele julgado superior.
+Recurso especial: alega a violação de dispositivos legais, bem como dissídio jurisprudencial.
+Decisão de admissibilidade do TJ/MT: inadmitiu o recurso especial em razão do seguinte fundamento:
+i) incidência da Súmula 7/STJ.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pelo agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: o agravante alega, genericamente, que não é necessário o reexame de fatos e provas.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+2. Agravo interno não conhecido, com imposição de multa.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação do seguinte fundamento da decisão de inadmissibilidade proferida pelo TJ/MT:
+i) incidência da Súmula 7/STJ.
+Da análise do presente recurso, verifica-se que o agravante se limitou a trazer alegações genéricas, mas não rebateu, de maneira consistente e específica, a incidência do óbice da Súmula 182/STJ.
+De fato, o agravante não demonstrou que, nas razões do agravo em recurso especial, teria impugnado, pontualmente, a incidência da Súmula 7/STJ.
+Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto no art. 253, parágrafo único, I, do RISTJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC.
