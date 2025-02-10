@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por PEDRO RIBEIRO DA SILVA NETO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta dos autos que o recorrente, denunciado pela prática em tese dos crimes previstos no art. 121, § 2º, I, do Código Penal e no art. 2º, § 2º, da Lei n. 12.850/2013, teve decretada a prisão preventiva em 10/2/2023 para a garantia da ordem pública e por conveniência da instrução criminal.
+O mandado de prisão respectivo foi cumprido em 15/2/2023.
+O recorrente sustenta a ilegalidade da prisão preventiva por suposto excesso de prazo na formação de sua culpa.
+Alega que se encontra sob custódia cautelar há mais de 9 meses, mas que a instrução criminal ainda não teria sido iniciada.
+Requer, liminarmente e no mérito, a concessão da liberdade provisória, ainda que mediante a aplicação de medidas cautelares diversas da prisão, com a imediata expedição do alvará de soltura.
+É o relatório.
+Decido.
+A despeito dos argumentos apresentados pelo requerente, não vislumbro razão para alterar o entendimento firmado ao indeferir o pleito liminar.
+Da leitura do acórdão, observa-se que foram expressamente declinados os motivos para a solução adotada pelo Tribunal de origem. Confira- se:
+Ora, como já apreciado, não é possível detectar qualquer desídia por parte do Estado-Juiz na condução do processo, tendo este tomado as devidas providências e movido o processo da forma mais ágil possível, com a demora sendo causada por complexidades do próprio caso, como a pluralidade de réus, o envolvimento de organizações criminosas - facções - a necessidade de remarcar a audiência a pedido da advogada de defesa, e também sua ausência na nova data, todas razões estranhas ao julgador de origem. Logo, não é possível reconhecer o excesso de prazo. Ainda, deve-se ressaltar que o paciente representa elevado risco à sociedade, dadas as condições nas quais foi praticado o crime, a forma de execução e o comportamento após a prática do ilícito, tendo se evadido da cidade. Logo, entendo que não seria proveitoso nem saudável à sociedade conceder a liberdade ao paciente nesse ponto. Isso porque é válido realizar o sopesamento do direito à liberdade de um indivíduo e o direito de toda a sociedade, a qual seria vítima indireta das ações delituosas praticadas pelo paciente, necessitando de igual maneira ter os seus direitos fundamentais assegurados. Assim, deve-se aplicar o princípio da proporcionalidade, em sua vertente garantista positiva, que, aliado ao princípio da proibição da proteção deficiente por parte do Estado-Juiz, busca evitar que o Poder Judiciário adote medidas insuficientes na proteção de tais direitos.
+No caso em tela, eventual demora no término da instrução e ncontra-se justificada pela complexidade do feito, já que os autos contam com a presença de quatro réus e apuram a prática de mais de um delito. Ressalto, ainda, que a demora foi causada inclusive pela defesa do paciente, que requereu o adiamento da primeira audiência e na segunda audiência não compareceu, por estar presa. Os réus foram intimados para constituir novo advogado e mantiveram-se inertes, razão pela qual os autos foram remetidos para a Defensoria Pública (e-STJ fls. 268/272).
+Em consulta ao sítio eletrônico do Tribunal de Justiça, verifica-se que a Audiência de Instrução e Julgamento foi realizada em 22/01/2025.
+Logo, o processo segue o seu curso regular, não havendo que se falar em desídia estatal.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+EMENTA
