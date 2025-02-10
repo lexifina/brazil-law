@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTO NÃO ATACADO. DIVERGÊNCIA NÃO CARACTERIZADA. PREQUESTIONAMENTO. AUSÊNCIA.
+1. É deficiente o recurso especial cuja argumentação está dissociada da fundamentação empregada no acórdão recorrido. Inteligência da Súmula 284 do STF.
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Consoante o entendimento desta Corte, se o recorrente, nas razões do recurso especial, não impugna especificamente os fundamentos do julgado, considera-se deficiente a fundamentação da irresignação, incidindo a Súmula 284 do STF.
+4. O recurso também não pode ser conhecido no que tange ao alegado dissídio pretoriano, uma vez que aplicável a Súmula 13 desta Corte, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+5. Carecendo o recurso requisito indispensável do prequestionamento, incidem os óbices das Súmulas 282 e 356 do STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FUNDITEC FUNDIÇÃO E METALÚRGIA LTDA. para desafiar decisão do Presidente do STJ, proferida às e-STJ fls. 137/142, em que conheceu do agravo para não conhecer do recurso especial, por incidência das Súmulas 7, 182 desta Corte de Justiça e 284 e 356 do STF e, ainda, por entender que a divergência não estava corretamente caracterizada.
+No presente agravo interno, a parte agravante sustenta que não se trata de reexame de fatos e provas, bem como que não incidem as Súmulas indicadas.
+Afirma que "todos os argumentos foram devidamente discorridos no penúltimo tópico do recurso retro" (e-STJ fl. 152).
+Segue defendendo que "não há que se falar em incidência das Súmulas nº 284 e 356 do STF, tendo o apelo especial preenchido os requisitos necessários ao conhecimento do tema pela Corte" (e-STJ fl. 155).
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Sem impugnação (e-STJ fl. 197).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTO NÃO ATACADO. DIVERGÊNCIA NÃO CARACTERIZADA. PREQUESTIONAMENTO. AUSÊNCIA.
+1. É deficiente o recurso especial cuja argumentação está dissociada da fundamentação empregada no acórdão recorrido. Inteligência da Súmula 284 do STF.
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Consoante o entendimento desta Corte, se o recorrente, nas razões do recurso especial, não impugna especificamente os fundamentos do julgado, considera-se deficiente a fundamentação da irresignação, incidindo a Súmula 284 do STF.
+4. O recurso também não pode ser conhecido no que tange ao alegado dissídio pretoriano, uma vez que aplicável a Súmula 13 desta Corte, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+5. Carecendo o recurso requisito indispensável do prequestionamento, incidem os óbices das Súmulas 282 e 356 do STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+6. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, no tocante ao bloqueio dos ativos financeiros da empresa, assim se manifestou o Tribunal de origem (e-STJ fl. 38):
+Em que pesem as alegações da parte agravante, não caberia determinar a desconstituição do bloqueio realizado sobre os seus ativos financeiros com base na causa de impenhorabilidade prevista no inciso IV do art. 833 do Código de Processo Civil (CPC), a qual, com efeito, é exclusivamente dos "salários", o que não pode ser estendido a valores depositados em contra bancária da pessoa jurídica empregadora. Por conta disso, a jurisprudência deste Tribunal é no sentido de que, estando os valores depositados em conta bancária de titularidade de pessoa jurídica, e não em nome do trabalhador assalariado pessoa física, não detêm natureza alimentar e não são equiparados a salário, porque, em conjunto com as demais receitas, destina-se a cobrir suas despesas operacionais, tais como insumos, salário de funcionários e tributos -, sendo, portanto, penhoráveis.
+(cf. TRF4, AG 0005105-86.2012.404.0000, Primeira Turma, D.E. 25/07/2012; AG 5007810- 06.2011.404.0000, Segunda Turma, D.E. 03/08/2011).
+Contudo, a parte recorrente defende que, por se tratar de verba destinada ao pagamento de salários dos funcionários da recorrente, esta possui caráter alimentar e, portanto, está acobertada pelo manto da impenhorabilidade.
+Não procede essa alegação, que está dissociada dos fundamentos do aresto, o qual rechaçou tal argumentação, em razão de que a cláusula de impenhorabilidade se aplica, exclusivamente, aos salários, entendidos estes como depósitos em nome do trabalhador assalariado pessoa física, e não em conta bancária de titularidade de pessoa jurídica.
+Nesse cenário, a decisão combatida aplicou o enunciado sumular 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ademais, o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório dos autos e, por isso, incide in casu o óbice da Súmula 7 do STJ, visto que a Corte regional afirmou que (e-STJ fl. 38):
+Isso é especialmente relevante no caso porque os documentos anexados aos autos não são suficientes para demonstrar que os valores bloqueados no feito de origem já estariam comprometidos com o pagamento da folha de salários, assim entendida a situação em que os valores já se encontram efetivamente na esfera de disponibilidade dos funcionários. Com efeito, a folha de salários anexada aos autos nem sequer indica a data em que efetivamente é realizado o pagamento do valor aos funcionários (evento 97, COMP2, do processo originário), caso em que não se presta como prova de que a importância já estava de fato à disposição e/ou destinada para a finalidade apontada pela parte agravante.
+Tampouco o fato de a agravante contar com a quantia bloqueada para o bom desempenho das suas atividades autoriza o desbloqueio, já que todo dinheiro depositado é útil para o desempenho de qualquer atividade, e a acolhida dessa tese equivaleria a reconhecer a impenhorabilidade de quaisquer valores depositados, o que, por absurdo, é incabível.
+De outro lado, consoante decidido, o recurso também não pode ser conhecido no que tange ao alegado dissídio pretoriano, uma vez que aplicável a Súmula 13 desta Corte, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+A decisão ora combatida também aplicou o óbice da Súmula 284 do STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, o fundamento de que "a questão da nomeação de bens à penhora pela parte agravante não foi objeto da decisão agravada, caso em que não foi devolvida ao exame deste tribunal, a quem não compete substituir-se ao juízo da execução" (e-STJ fl. 39).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FUNDAMENTO INATACADO. SÚMULA 283/STF. PRINCÍPIO DA DIALETICIDADE. INDEPENDÊNCIA DAS INSTÂNCIAS
+ADMINISTRATIVA, CIVIL E PENAL. PRESCRIÇÃO. PRAZOS PREVISTOS NA LEI PENAL. PENA EM CONCRETO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+III - O acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual o processo administrativo é, em regra, autônomo em relação ao processo penal, somente experimentando seus reflexos nos casos de decisão absolutória por inexistência de fato (art. 386, I, CPP) ou negativa de autoria (art. 386, IV, CPP).
+IV - Caso o ilícito disciplinar praticado seja também capitulado como crime, a prescrição segue o disposto na legislação penal.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão
+recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero não provimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no RMS 55.110/MG, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 1º/03/2018).
+Não fosse isso, incidem os óbices das Súmulas 282 e 356 do STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim, o que resulta em ausência do indispensável requisito do prequestionamento, como decidido.
+Ilustrativamente, trago:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Os arts. 502, 503, 507 e 508 do Código de Processo Civil (CPC) não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. No presente caso, o Tribunal de origem afastou a pretensão autoral fundamentado na inconstitucionalidade do art. 156, § 2º, da Lei Complementar Estadual 92/2002, que estendia aos inativos a transposição feita aos ativos do cargo de Agente Fiscal para Auditor Fiscal. Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal, prevista no art. 102 da Constituição Federal.
+3. O acórdão recorrido reconheceu a ilegitimidade dos agravantes para executar o título executivo com base no acervo fático-probatório dos autos. Logo, não há como afastar a incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) quanto ao ponto questionado.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1.795.898/PR, relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 4/3/2024, DJe de 7/3/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATO INFRALEGAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL AUTÔNOMO. RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA. SÚMULA 126/STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. É inviável o conhecimento do recurso especial uma vez que, não obstante a alegação de ofensa a dispositivo de lei federal, o deslinde da controvérsia implica análise de ato normativo de natureza infralegal, qual seja, a Resolução 566/2012 do Conselho Federal de Farmácia.
+2. A não interposição do devido recurso extraordinário dirigido ao Supremo Tribunal Federal quando há fundamento constitucional autônomo no acórdão recorrido atrai a incidência da Súmula 126/STJ.
+3. As teses recursais em torno da violação ao art. 24 do Decreto-Lei 4.657/1942, incluído pela Lei 13.655/2018, e art. 282 do CPC, não foram objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356/STF, por analogia.
+4. Agravo interno não provido.
+(AgInt no REsp 1.936.928/RS, relator Ministro AFRÂNIO VILELA, SEGUNDA TURMA, julgado em 26/8/2024, DJe de 28/8/2024).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
