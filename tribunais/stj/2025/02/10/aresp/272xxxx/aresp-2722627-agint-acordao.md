@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER CUMULADA COM DANOS MORAIS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA E OFENSA AO PRINCÍPIO DA NÃO SURPRESA. SUFICIÊNCIA DAS PROVAS PARA O JULGAMENTO DA LIDE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar, nos autos, a existência de provas suficientes para o seu convencimento, indefere pedido de produção de outras provas.
+2. O julgamento antecipado da lide está inserido no âmbito do desdobramento causal, possível e natural da controvérsia, obtido a partir de um juízo de ponderação do magistrado à luz do ordenamento jurídico vigente, o que não caracteriza decisão-surpresa.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por VITÓRIA MARIA RODRIGUES DA SILVA contra decisão proferida pelo em. Ministro Presidente do Superior Tribunal de Justiça (e-STJ, fls. 427/428), que não conheceu do agravo em recurso especial, em razão da ausência de impugnação de todos os fundamentos da decisão de inadmissibilidade do apelo nobre, a atrair a incidência da Súmula 182/STJ.
+Nas razões do agravo interno (e-STJ, fls. 431/433), sustenta a parte agravante, em síntese, a inaplicabilidade da Súmula 182/STJ, diante da impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Requer, assim, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Devidamente intimada, a parte agravada apresentou impugnação (e-STJ, fls. 438/441).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER CUMULADA COM DANOS MORAIS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA E OFENSA AO PRINCÍPIO DA NÃO SURPRESA. SUFICIÊNCIA DAS PROVAS PARA O JULGAMENTO DA LIDE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar, nos autos, a existência de provas suficientes para o seu convencimento, indefere pedido de produção de outras provas.
+2. O julgamento antecipado da lide está inserido no âmbito do desdobramento causal, possível e natural da controvérsia, obtido a partir de um juízo de ponderação do magistrado à luz do ordenamento jurídico vigente, o que não caracteriza decisão-surpresa.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+Afiguram-se relevantes as alegações expendidas pela parte recorrente, de modo que, com base no art. 259 do RISTJ, reconsidera-se a decisão ora recorrida e passa-se ao exame do mérito recursal.
+Trata-se de agravo em recurso especial interposto por VITÓRIA MARIA RODRIGUES DA SILVA contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, apresentado em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Obrigação de não fazer cumulada com indenização por danos morais. Autora que exerce atividade econômica envolvendo confecção e comercialização de peças de vestuário e acessórios. Réus que por meio de "sites" utilizam a marca da autora "Fashion Closet" devidamente registrada no INPI. Corré apelante aduz que houve cerceamento de defesa, o que não pode sobressair. Devido processo legal observado. Cerceamento de defesa não caracterizado. Alegação genérica e superficial de decisão surpresa sem consistência. Documentação existente nos autos é suficiente para a entrega da prestação jurisdicional no mérito. Uso indevido da marca demonstrado.
+Indenização por danos morais em condições de prevalecer. Verba reparatória e multa imposta compatíveis com as peculiaridades da demanda. Sentença que se apresenta adequada. Apelo desprovido." (e-STJ, fl. 358)
+Em suas razões recursais, a parte recorrente apontou violação dos arts. 10, 369, 373, II, todos do Código de Processo Civil, alegando, em síntese, ter o acórdão recorrido cerceado seu direito de defesa, ao manter incólume a sentença que indeferiu a produção de prova testemunhal requerida e julgou antecipadamente o feito, sustentando tratar-se de ato indispensável ao deslinde processual.
+Asseverou que a decisão de indeferimento da prova viola o princípio da vedação à decisão-surpresa e que o acórdão em questão não possui fundamentação suficiente para manter a negativa, motivo pelo qual merece ser reformado.
+Decido.
+Cinge-se a controvérsia em definir se a decisão de primeiro grau que indeferiu o pedido de produção de prova da parte recorrente e julgou antecipadamente o feito, mantida pelo acórdão combatido, cerceia o direito de defesa da recorrente ou viola o princípio processual de vedação à decisão-surpresa.
+A Corte de origem concluiu que o cerceamento de defesa não ficou configurado, sob o fundamento de que a produção de outras provas seria dispensável para o caso em tela, in verbis (e-STJ, fls. 360/362):
+"Trata-se de ação de obrigação de não fazer cumulada com indenização por danos morais, aduzindo a autora que é titular da marca "Fashion Closet", devidamente registrada no INPI, no entanto, afirma que a parte requerida utiliza indevidamente a sua marca, requerendo, desta forma, a cessação, em definitivo, de uso pelos réus da marca de sua titularidade.
+Os pedidos foram julgados procedentes, pois restou demonstrada a conduta parasitária do polo passivo, consequentemente, a prática de concorrência desleal.
+Pois bem.
+Primeiramente, cumpre destacar que o devido processo legal se faz presente, não havendo que se falar em cerceamento de defesa, tampouco em decisão surpresa, visto que a prova carreada permitiu a apuração pormenorizada da pendência, com a livre formação da convicção do julgador principal destinatário da prova, o qual pode determinar as provas que entende necessárias.
+Não se pode olvidar que, dentre os princípios que norteiam o processo civil, encontra-se o da economia processual, por conseguinte, nada há que justifique despicienda realização de atos processuais que não acrescentariam elementos essenciais para a prolação do provimento jurisdicional.
+(..)
+Assim, não há que se falar em cerceamento de defesa, haja vista que, repita-se, a documentação existente é suficiente para a entrega da prestação jurisdicional no mérito.
+Ainda, em que pesem os argumentos da recorrente, consta expressamente do boletim de ocorrência, pág. 210, que a ora apelante fez referência sobre a perda dos seus documentos abrangendo título de eleitor e certidão de nascimento, no entanto, ao mencionar produção de provas, sequer especificara ou justificara o necessário em relação a referido tópico.
+Desta forma, o boletim de ocorrência em referência se apresenta insuficiente para obstar a pretensão do polo ativo, destacando-se, ainda, que se trata de uma declaração unilateral."
+Verifica-se que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, no sentido de que não se configura cerceamento de defesa quando o julgador, ao constatar, nos autos, a existência de provas suficientes para o seu convencimento, indefere ou dispensa a produção de provas. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A jurisprudência desta Corte orienta que, de acordo com o princípio do livre convencimento motivado, o magistrado fica habilitado a valorar livremente as provas produzidas da demanda, desde que motive a sua decisão. Logo, não implica cerceamento de defesa o indeferimento da dilação probatória, notadamente quando as provas já produzidas são suficientes para a resolução da lide.
+1.1. No ponto, rever o entendimento do Tribunal local acerca da suficiência das provas produzidas demandaria o reexame do contexto fático probatório dos autos, o que é vedado pela Súmula 7 do STJ. Precedentes.
+2. O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior que orienta que no caso de vício do produto, todos os envolvidos nos fatos, ou seja, na cadeia de consumo, são, em tese, parte legítima para figurar no polo passivo da demanda indenizatória. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.168.550/MG, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. NÃO VERIFICADO. ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. SÚMULA N. 7 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial. Incidência da Súmula n. 182 do STJ.
+2. Para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar, genericamente, que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas, devendo a parte expor a tese jurídica desenvolvida no recurso especial e a demonstrar a adoção dos fatos tais quais postos nas instâncias ordinárias.
+3. Não se verifica cerceamento de defesa, quando, no julgamento antecipado da lide, o Tribunal a quo entende o feito devidamente instruído e refuta a produção de provas adicionais, que considera desnecessárias, por se tratar de matérias de fato ou de direito já comprovadas documentalmente.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.173.404/MT, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Outrossim, esclarece-se que a possibilidade de julgamento antecipado da lide está prevista no ordenamento jurídico - art. 355 do CPC/2015 - e não pode ser considerado decisão-surpresa. Na mesma linha de intelecção:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. AÇÃO DECLARATÓRIA COMBINADA COM COBRANÇA. ARTS. 7º, 344, 348 E 349 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. PROVA PERICIAL. DESNECESSIDADE. INDEFERIMENTO. CERCEAMENTO DE DEFESA. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. ARTS. 186 E 927 DO CÓDIGO CIVIL. FUNDAMENTO AUTÔNOMO. AUSÊNCIA DE IMPUGNAÇÃO. PRECLUSÃO.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. A admissão de prequestionamento ficto (art. 1.025 do Código de Processo Civil de 2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do Código de Processo Civil de 2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+3. O julgamento antecipado da lide está inserto no âmbito do desdobramento causal, possível e natural da controvérsia, obtido a partir de um juízo de ponderação do magistrado à luz do ordenamento jurídico vigente, o que não caracteriza decisão surpresa.
+4. Nos termos da orientação firmada nesta Corte, o destinatário final da prova é o juiz, a quem cabe avaliar quanto a sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências
+inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC/2015.
+5. Na hipótese, rever as conclusões do tribunal quanto à desnecessidade da realização de prova pericial demandaria a análise de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7/STJ.
+6. A ausência de impugnação de fundamento autônomo não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema.
+7. Agravo interno não provido."
+(AgInt no AREsp n. 2.126.957/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023 - sem grifo no original).
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão ora agravada e, em novo julgamento, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
