@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DESPACHO. DETERMINAÇÃO DE BAIXA. PROCESSAMENTO SOB REGIME DOS RECURSOS REPETITIVOS. IRRECORRIBILIDADE.
+1. É pacífico o entendimento do Superior Tribunal de Justiça no sentido da irrecorribilidade dos despachos de afetação, bem como dos que determinam a devolução de recursos para processamento no regime das demandas repetitivas ou com repercussão geral reconhecida no STF, visto serem desprovidos de caráter decisório.
+2. Nos termos do art. 1.037, § § 9º e 10, do CPC/2015, a única hipótese de alteração da decisão seria a demonstração, por meio de requerimento e não por meio de agravo interno, de que a questão a ser decidida no processo e aquela a ser julgada no recurso especial repetitivo seriam distintas, situação inexistente no presente caso.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ÁLCOOL QUÍMICA CANABRAVA S.A. - EM RECUPERAÇÃO JUDICIAL contra despacho de minha lavra, constante das e-STJ fls. 697/699, em que determinei a baixa dos autos ao Tribunal de origem para processamento do recurso especial fazendário no regime dos recursos repetitivos (Tema 1.093 do STJ).
+Em suas razões, a parte agravante sustenta a inaplicabilidade, na hipótese, do Tema 1.093, pelo seguinte (e-STJ fl. 716):
+Ao analisar a decisão recorrida do Egrégio TRF/2, percebe-se que em nenhum momento é trazido aos autos argumentos relativos ao art. 17 da Lei nº 11.033/04, norma jurídica que era utilizada para fundamentar a utilização de créditos de PIS/COFINS em produtos adquiridos de forma monofásica, cujo tema foi julgado pelo Tema Repetitivo nº 1.093 do STJ.
+Na verdade, essa fundamentação, que não tem qualquer vinculação com a Peça Inicial da Autora e com o Acórdão Recorrido, foi utilizado em peça Recursal GENÉRICA da Fazenda Nacional que traz como matéria defensiva a inaplicabilidade do art. 17 da Lei nº 11.033/04, sendo que esse argumento nem sequer foi utilizado no pedido Autoral que foi totalmente fundamentado nos art. 2º, §1º-A das Leis nº 10.637/02 e 10.833/03 c/c art. 5º, caput, inciso I da Lei nº 9.718/98, razões que sequer foram rebatidas no Recurso Especial da Fazenda.
+Ou seja, na verdade, apesar de ser genérica, teve sua finalidade atingida, confundiu o Relator do caso no STJ que vinculou a um precedente repetitivo que não é aplicável ao caso concreto.
+Sem impugnação (certidão de e-STJ fl. 743).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DESPACHO. DETERMINAÇÃO DE BAIXA. PROCESSAMENTO SOB REGIME DOS RECURSOS REPETITIVOS. IRRECORRIBILIDADE.
+1. É pacífico o entendimento do Superior Tribunal de Justiça no sentido da irrecorribilidade dos despachos de afetação, bem como dos que determinam a devolução de recursos para processamento no regime das demandas repetitivas ou com repercussão geral reconhecida no STF, visto serem desprovidos de caráter decisório.
+2. Nos termos do art. 1.037, § § 9º e 10, do CPC/2015, a única hipótese de alteração da decisão seria a demonstração, por meio de requerimento e não por meio de agravo interno, de que a questão a ser decidida no processo e aquela a ser julgada no recurso especial repetitivo seriam distintas, situação inexistente no presente caso.
+3. Agravo interno não conhecido.
+VOTO
+A irresignação não pode ser conhecida.
+Como é cediço, a jurisprudência do Superior Tribunal de Justiça está pacificada no sentido de que são irrecorríveis os despachos de afetação, bem como dos que determinam o retorno de recursos para processamento na sistemática dos recursos repetitivos ou com repercussão geral reconhecida no STF, visto serem desprovidos de caráter decisório.
+Ilustrativamente, cito:
+PROCESSUAL CIVIL. REPERCUSSÃO GERAL. AFETAÇÃO. SOBRESTAMENTO DO FEITO. DEVOLUÇÃO DOS AUTOS. IRRECORRIBILIDADE.
+1. É inadmissível a interposição de recurso contra decisão que determina a baixa dos autos para sobrestamento do feito em virtude da pendência de julgamento de recurso extraordinário submetido à sistemática da repercussão geral.
+2. Nos termos do art. 1.037, §§ 9º e 10, do CPC/2015, a única hipótese de alteração da decisão de sobrestamento seria a demonstração, por meio de requerimento, de que a questão a ser decidida no processo e aquela a ser julgada no recurso extraordinário afetado seriam distintas, o que não ocorreu na hipótese dos autos.
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 1.704.831/SC, de minha relatoria, PRIMEIRA TURMA, julgado em 26/6/2018, DJe de 8/8/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO INTERPOSTO CONTRA DESPACHO QUE DETERMINOU O SOBRESTAMENTO DO FEITO OU O RETORNO À CORTE DE ORIGEM. IRRECORRIBILIDADE. PRECEDENTES.
+1. Conforme orientação desta Corte, tanto o despacho que determina o sobrestamento do feito no tribunal no aguardo de julgamento de caso líder quanto aquele que determina o retorno dos autos ao tribunal de origem para aguardo de julgamento de recurso repetitivo são irrecorríveis, porquanto não possuem carga decisória, sendo incapazes de gerar prejuízos às partes, consubstanciando-se em ato de mero expediente. Precedentes: AgInt no AgInt no REsp. n. 1.365.865/RS, Primeira Turma, Rel. Min. Napoleão Nunes Maia Filho, julgado em 01.04.2019; AgRg nos EDcl nos EDcl na PET no RE nos EDcl no AgRg no REsp. n. 1.145.084/PR, Corte Especial, Rel. Min. Laurita Vaz, julgado em 20.05.2015; AgInt nos EREsp. n. 1.533.927/MG, Corte Especial, Rel. Min. Napoleão Nunes Maia Filho, julgado em 07.11.2018.
+2. Em obiter dictum, registre-se que a discussão sobre a existência ou não de efeitos do art. 17 da Lei 11.034/2004 sobre os arts. 3º, §2º, inc. II, das Leis n. n. 10.637/2002 e 10.833/2003, além da compatibilidade do princípio da não cumulatividade com a tributação monofásica são temas essenciais ao deslinde da presente controvérsia e estão sob exame da Primeira Seção nos EREsp nº 1.768.224-RS e EAREsp nº 1.109.354-SP, cujos julgamentos estão em andamento, o que legitima o sobrestamento, em que pese haver sido julgada matéria semelhante no REsp. n. 1.215.773-RS (Primeira Seção, Rel. Min. Benedito Gonçalves, Rel. p/acórdão Min. César Asfor Rocha, julgado em 22.08.2012). À toda evidência, é impossível separar o destino do creditamento pelo custo do frete do creditamento pelo custo do bem (sujeito à tributação monofásica) que é objeto do transporte fretado. Decerto, consoante o precedente no AgInt no AgInt no REsp. n. 1.365.865/RS (Primeira Turma, Rel. Min. Napoleão Nunes Maia Filho, julgado em 01.04.2019), o sobrestamento se aplica ainda que partes das questões impugnadas no recurso sejam distintas daquelas objeto da afetação no caso líder a ser julgado. 3. Agravo interno não conhecido.
+(AgInt nos EREsp n. 1.584.765/SP, Rel. MINISTRO MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 9/9/2020, DJe de 15/9/2020).
+Nos termos do art. 1.037, § § 9º e 10, do CPC/2015, a única hipótese de alteração da decisão seria a demonstração, por meio de requerimento e não por meio de agravo interno, de que a questão a ser decidida no processo e aquela a ser julgada no recurso especial repetitivo seriam distintas, situação inexistente no presente caso.
+Quanto à alegação contida no presente agravo interno, de que a Fazenda Nacional teria induzido a erro o julgador, ao articular razões de recurso especial divorciadas do que fora então decidido no Tribunal de origem, é questão a ser analisada, em sede de juízo de conformação, na instância competente, não neste Superior Tribunal .
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
