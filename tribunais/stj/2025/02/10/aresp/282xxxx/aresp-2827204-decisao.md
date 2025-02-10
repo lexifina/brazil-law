@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS-FUNCEF contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Sergipe assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO COM RESTITUIÇÃO DOS VALORES C/C TUTELA ANTECIPADA DE URGÊNCIA - DECISÃO QUE INDEFERIU O PLEITO DE CONCESSÃO DE BENEFÍCIO DA GRATUIDADE JUDICIÁRIA. RECURSO DA PARTE AUTORA - INDICAÇÃO DE DEMONSTRAÇÃO DA SUA HIPOSSUFICIÊNCIA - AFERIÇÃO - NADA IMPEDE QUE O MAGISTRADO, COM BASE NOS ELEMENTOS DOS AUTOS, VERIFIQUE A COMPROVAÇÃO DA CONDIÇÃO DE HIPOSSUFICIENTE PARA CONCESSÃO DO BENEFÍCIO INDEFERIMENTO POR REGISTRO DE PROVENTOS PERCEBIDOS SUPERIOR A 3 SALÁRIOS - ANÁLISE DO CONTEXTO E DAS DESPESAS - COMPROVAÇÃO DE IMPOSSIBILIDADE DE PAGAR AS CUSTAS - AUTOR ENCARTOU PLANILHA DETALHADA DOS GASTOS - FATURA DE CARTÃO DE CREDITO COM GASTOS COM ALIMENTAÇÃO E FÁRMACOS - PESSOA COM IDADE SUPERIOR A 60 ANOS GRATUIDADE JUDICIÁRIA DEVIDA. RECURSO CONHECIDO E PROVIDO." (e-STJ fl. 519).
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 125/130).
+Nas razões do especial (e-STJ fls. 132/144), a recorrente aponta negativa de vigência dos arts. 98, 99, §§ 2º e 3º, e 1.022, II, do CPC.
+Sustenta, em síntese, a nulidade do acórdão por não suprir a omissão apontada nos embargos de declaração, mormente, quanto à ausência de comprovação dos requisitos para a concessão da gratuidade da justiça e o sobrestamento do feito, em razão do Tema nº 1178/STJ.
+Defende a "Impossibilidade de concessão dos benefícios da gratuidade de justiça quando ausentes os pressupostos legais", (e-STJ fl. 135).
+Ressalta que é devida a suspensão do feito, em virtude da pendência de julgamento do Tema nº 1178/STJ, que tratará dos critérios objetivos para aferição da hipossuficiência.
+Oferecidas as contrarrazões (e-STJ fl. 198/216), o recurso não foi admitido na origem, dando ensejo ao presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do especial.
+A irresignação não merece acolhida.
+Inicialmente, não há falar em sobrestamento do feito, em virtude da afetação do Tema nº 1178/STJ, tendo em vista que não se discute nos autos a legitimidade da adoção de adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil.
+Na hipótese, o tribunal de origem, apreciando as provas dos autos, entendeu presentes os requisitos para a concessão do benefício da assistência judiciária.
+Registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+No caso, o aresto atacado afastou o sobrestamento do feito e entendeu que restou comprovada a hipossuficiência da recorrida.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Além disso, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..) sopesando o arcabouço probatório, não apenas o alegado, mas, em especial, o teor do holerite e das despesas, aliado à toda sobrecarga decorrente da idade, atrelado aos gastos indicados, força convir que não possui o agravante condições econômicas para responder pelo pagamento das custas (custas iniciais na monta de R$ 1.127,45) e despesas do processo, sem que disso resulte prejuízo para sua manutenção, sempre ressalvando a possibilidade de aplicação da penalidade prevista no artigo 4º, parágrafo 1º, da Lei n. 1.060/50, em caso da afirmação quanto à hipossuficiência ser falsa".
+E, portanto, diante do contexto, "o fato de a parte perceber R$ 5 mil reais, consignando rol de despesas e haver constituído advogado também não é situação apta a afastar a obtenção do benefício postulado".
+Neste contexto, inexistem nos autos indícios hábeis a demonstrar a possibilidade de a agravante em arcar com as custas e despesas processuais, sem que isso lhe cause prejuízos na sua mantença, pelo que lhe deve ser concedido o benefício da assistência judiciária gratuita, tal como requerido"(e-STJ fls. 119/120- grifou-se).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SOBRESTAMENTO. TEMA Nº 1178/STJ. APLICAÇÃO. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. DEFERIMENTO DA GRATUIDADE DE JUSTIÇA. PRESSUPOSTOS ATENDIDOS. REEXAME DE FATOS E PROVAS. INIDÊNCIA DA SÚMULA Nº 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. O caso não se enquadra na hipótese de sobrestamento do feito, tendo em vista que não discute a matéria objeto da afetação.
+3. Rever a conclusão do acórdão recorrido, no sentido de que restou comprovada a hipossuficiência para o deferimento do benefício da a gratuidade da justiça demandaria o revolvimento das provas autos, procedimento incompatível com a via eleita. Incidência da Súmula nº 7/STJ.
+4. Agravo conhecido para conhecer em parte o recurso especial, e nessa extensão, negar-lhe provimento .
