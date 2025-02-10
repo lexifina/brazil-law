@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal n. 0263119-77.2019.8.21.7000).
+Consta dos autos que o recorrido foi condenado, em primeiro grau, à pena de 12 (doze) anos de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 121, §2º, IV, do Código Penal.
+Irresignada, a Defesa interpôs recurso de apelação, ao qual foi conferido provimento nos termos da seguinte ementa (e-STJ fl. 751):
+APELAÇÃO. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. NULIDADES POSTERIORES À DECISÃO DE PRONÚNCIA. RECONHECIMENTO.
+1. Na espécie, ainda que os documentos juntados pelo Ministério Público tenham aportado aos autos dentro do prazo legal previsto no artigo 479 do Código de Processo Penal, impositivo o acolhimento da alegação de nulidade, na medida em que evidente o prejuízo ao acusado. O questionamento reiterado a respeito de se já teria sido o acusado preso anteriormente em virtude de processo diverso, especialmente depois de tal indagação já ter sido procedida pela juíza presidente, bem como a argumentação, quando dos debates, no sentido de que o réu seria proprietário ou gerente de uma "boca de fumo" e que o crime teria, portanto, se dado em contexto de tráfico de drogas, quando nada disso foi mencionado na exordial acusatória, no caso, pode ser considerado como influência negativa sobre os jurados, pois se assim não o fosse não teriam tais questionamentos e argumentos sido avocados em sessão plenária. A postura adotada em plenário revela o nítido propósito de macular a imagem do acusado pelo suposto envolvimento com outros ilícitos criminais, o que configura o conhecido direito penal do autor. Disso exsurge manifesto prejuízo à defesa, diante da possibilidade concreta de que tais declarações possam, efetivamente, ter influenciado no julgamento proferido pelo Conselho de Sentença.
+NULIDADE ACOLHIDA.
+DECLARADO NULO O JULGAMENTO.
+Neste recurso especial, o recorrente alega violação ao art. 478, I, e ao art. 479, ambos do Código de Processo Penal, sob a alegação de que o rol do art. 478, I, do CPP é taxativo, " de modo que a situação aventada no acórdão não pode ser invocada para anular a conclusão dos jurados " (e-STJ fl. 774).
+Requer, assim, o provimento do recurso para afastar a nulidade reconhecida pela Corte Estadual e determinar o prosseguimento do julgamento do apelo defensivo.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ fls. 825/832).
+É o relatório.
+Decido.
+Na hipótese dos autos, razão assiste ao recorrente.
+Isso porque, nos termos do entendimento desta Corte, os documentos previstos no art. 478, I, do Código de Processo Penal são taxativos, inexistindo nulidade à menção, em Plenário, ainda como argumento de autoridade, de documentos não previstos no citado dispositivo legal, como os antecedentes do acusado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. MENÇÃO AOS ANTECEDENTES DO RÉU EM PLENÁRIO. POSSIBILIDADE. ART. 478, I, DO CÓDIGO DE PROCESSO PENAL. ROL TAXATIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A teor do art. 478, I, do Código de Processo Penal, é vedada a referência de certas peças que integram os autos da ação penal em plenário do Tribunal do Júri, a impingir aos jurados o argumento da autoridade. A jurisprudência desta Corte Superior é firme em assinalar que o rol previsto nesse dispositivo legal é taxativo."
+"A folha de antecedentes do acusado é peça que compõe a instrução processual de qualquer feito criminal e não há nenhum constrangimento em juntar tal documento aos autos. Ademais, o próprio Código de Processo Penal impõe que seja perguntado ao acusado, em plenário, sobre seus antecedentes criminais, nos termos da previsão do art. 474 do diploma processual penal, ao dispor sobre a aplicabilidade das disposições do art. 187 da lei adjetiva ao interrogatório no júri." (AgRg no REsp n. 1.815.618/RS, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/8/2020, DJe 26/8/2020).
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.738.292/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 1/6/2021, DJe de 7/6/2021.)
+Ademais, no REsp n. 1.889.056/RS, interposto pelo recorrente em face do recorrido, proferi decisão no sentido de cassar decisão proferida pelo E. TJRS no bojo de correição parcial que havia determinado o desentranhamento de documentos referentes aos antecedentes do recorrido, bem como a vedação de sua leitura em plenário, inexistindo motivos supervenientes que imponham a alteração de entendimento em relação à controvérsia.
+Ante o exposto, dou provimento ao recurso especial para cassar o acórdão recorrido na parte em que determinou a anulação do julgamento da Sessão Plenária, determinando ao Tribunal Estadual que prossiga na análise das demais questões devolvidas à Corte a quo pela Defesa no recurso de apelação.
+Publique-se. Intimem-se.
+ EMENTA
