@@ -1,0 +1,16 @@
+DECISÃO
+FABIANO CANDIDO DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Rio Grande do Norte no HC n. 0817277-27.2024.8.20.0000.
+O paciente, denunciado por latrocínio consumado e tentado, formulou pedido de realização de exame pericial comparativo do acusado com as fotos constantes dos autos, o que foi indeferido na primeira instância.
+Impetrado prévio habeas corpus, o Tribunal de origem não conheceu da impetração.
+A defesa requer a produção da prova indeferida pelo Juízo de prim eiro grau. Para tanto, afirma que a diligência requerida seria decorrente da instrução, pois "a dúvida gerada sobre a identificação nas fotos comparativas não é um fato superveniente ou alheio à instr ução, mas sim um ponto diretamente relacionado à apuração dos fatos, já que o reconhecimento das imagens é uma prova de fundamental importância para o esclarecimento da autoria do crime" (fl. 7).
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 1.058-1.061).
+Decido.
+O Tribunal de origem assim resolveu a controvérsia (fls. 504-505):
+Em argumento de reforço, ressalto que a autoridade coatora, ao prestar suas informações, assim afirmou: "Este Juízo indeferiu a diligência requerida visando o exame comparativo do paciente com as fotos acostadas aos autos à fl. 84 do ID 100468042, eis que, nessa fase não se admite diligência que não decorra da instrução, como no caso, sendo certo que as fotografias cuja comparação foi requerida, se encontravam nos autos quando ofertada a resposta a acusação, e, para oitiva da pessoa referida DILMA DA COSTA RIBEIRO, aprazou o dia 30 de janeiro de 2025, às 10h30 (ID 134951474).". 28553148 - Pág. 4), evidenciando que referido pleito poderia ter sido requerido em momento anterior ao fim da instrução, o que evidencia a ausência de ilegalidade.
+Entende esta Corte que, "No curso da ação penal há momento apropriado para o requerimento de diligências, se necessárias forem, que se dá ao final da instrução, na fase do art. 402 do Código de Processo Penal" (AgRg no RHC n. 175.865/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/5/2023, DJe de 2/6/2023).
+Ademais, "Diligências do art. 402 do CPP só são cabíveis quando a sua "necessidade se origine de circunstâncias ou fatos apurados na instrução" (art. 402, CPP). Não são um momento de reabertura da instrução probatória" (AgRg no AgRg na APn n. 927/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 13/8/2024, DJe de 19/8/2024).
+No caso, entendo que, no momento oportuno, qual seja, na fase do art. 402 do CPP, pendente ainda a realização de uma audiência para mais uma oitiva, a defesa requereu a realização de exame comparativo do acusado com as fotos acostadas aos autos, a fim de esclarecer a autoria do crime, fato apurado durante a instrução.
+Com efeito, o exame comparativo em questão constitui prova material relevante e pertinente, que contribuirá para validar ou não o material fotográfico a ser considerado pelo julgador e negar sua produção configura cerceamento de defesa.
+Ante o exposto, concedo a ordem para determinar a produção da prova requerida pela defesa.
+Publique-se e intimem-se.
+EMENTA
