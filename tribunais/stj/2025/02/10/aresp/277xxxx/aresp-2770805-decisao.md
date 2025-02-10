@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SANTANDER (BRASIL) S.A. contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu recurso especial dirigido em oposição ao acórdão prolatado no julgamento do Agravo de Instrumento n. 5003140-29.2023.4.03.0000, assim ementado (fls. 132-133):
+AGRAVO DE INSTRUMENTO. MEDIDA CAUTELAR PARA OBTENÇÃO DE CERTIDÃO POSITIVA DE DÉBITOS COM EFEITOS DE NEGATIVA. UTILIZAÇÃO DO DEPÓSITO EM CAUTELAR PARA GARANTIA DA EXECUÇÃO FISCAL PRAZO PARA EMBARGOS. PRECLUSÃO.
+I- Proposta execução fiscal, o deposito efetuado na anterior ação cautelar inominada com antecipação de garantia/depósito serviu de garantia à ação executiva por sugestão da própria agravante, mediante penhora no rosto dos autos da ação cautelar.
+II - Não há como considerar que a penhora no rosto dos autos tenha "natureza provisória" e somente se tornaria definitiva com a conversão em renda na ação executiva. A jurisprudência inclina-se no sentido de que o depósito efetivado na medida cautelar, além de possibilitar a suspensão da exigência do crédito, representa verdadeira antecipação de penhora (Precedente do STJ REsp. 1.123.669/RS, Rel. Min. Luiz Fux, j. 09/12/2009, v.u., in DJU 01/02/2010).
+III - Considerando que o prazo para o oferecimento dos embargos tenha como termo inicial a lavratura da penhora no rosto do autos, que o depósito oferecido na medida cautelar tenha natureza equivalente à penhora e que a ora agravante foi devidamente citada no processo executivo, o prazo de 30 dias para embargar restou precluso.
+IV - Agravo de instrumento não provido.
+Na origem, cuida-se de execução fiscal proposta pela União Federal (Fazenda Nacional) contra o Banco Santander (Brasil) S.A., no qual se postulou a cobrança do débito constituído na CDA n. 39.300.505-4, no valor histórico de R$ 316.487,22 (trezentos e dezesseis mil, quatrocentos e oitenta e sete reais e vinte e dois centavos) (fl. 146). Em primeiro grau, a sentença foi proferida para extinguir o feito sem resolução do mérito, determinando a conversão do depósito judicial efetuado (fls. 39-41).
+Nas razões do apelo nobre, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a recorrente apontou afronta aos arts. 272, § 2º e § 5º e 860 do CPC. Alega, para tanto, que, como a penhora no rosto dos autos não foi formalizada, não teve início o prazo para oposição de embargos à execução fiscal (fls. 145-147).
+Foram apresentadas contrarrazões (fl. 165).
+O recurso especial foi inadmitido (fls. 168-171), advindo o presente agravo em recurso especial (fls. 173-185).
+Em suas razões, a agravante sustenta, em síntese, que a matéria versada no apelo nobre está prequestionada e sua análise não importa em incursão no acervo fático-probatório dos autos, restringindo-se a controvérsia à adequada interpretação da legislação de regência.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte a quo não admitiu o apelo nobre por entender que: a) a reforma do acórdão recorrido esbarra no óbice da Súmula n. 7/STJ; b) as conclusões do julgado estão em consonância com a jurisprudência do STJ; e c) não houve o prequestionamento da legada nulidade da intimação.
+Todavia, a agravante, nas razões do agravo em recurso especial, olvidou-se de impugnar a fundamentação atinente à Súmula n. 83/STJ.
+Conforme consta, a recorrente não cuidou de colacionar, nas razões de agravo em recurso especial, qualquer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência deste Superior Tribunal de Justiça. Também não comprovou que o precedente apontado na decisão agravada seria inaplicável à hipótese dos autos, ou demonstrou a eventual distinção da controvérsia sub judice em relação ao precedente citado na decisão de inadmissão na origem, não se desobrigando, portanto, do ônus de comprovar a sua incorreção.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal exigida pelo art. 932, inciso III, do CPC/2015. Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182DO STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4.º, DO CÓDIGO DE PROCESSO CIVIL. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o apelo nobre na origem. Incidência da Súmula n. 182 do STJ.
+2. Não deve ser aplicada, na hipótese, a multa prevista no art. 1.021, § 4.º, do Código de Processo Civil, pois, consoante orientação desta Corte Superior, o mero inconformismo com a decisão impugnada não acarreta a necessária imposição da sanção, quando não caracterizada a manifesta inadmissibilidade ou improcedência do recurso.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.362.235/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de
+21/5/2024.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. DEPÓSITO EM CAUTELAR. INÍCIO DO PRAZO PARA OPOSIÇÃO DE EMBARGOS À EXECUÇÃO FISCAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA DO ÓBICE PREVISTO NA SÚMULA N. 83 DO STJ. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
