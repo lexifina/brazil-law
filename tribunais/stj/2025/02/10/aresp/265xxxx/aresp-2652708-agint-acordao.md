@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/02/2025 a 10/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de reparação por dano material e compensação por dano moral.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interposto por FIAMMA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA, contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: de reparação por dano material e compensação por dano moral, ajuizada pelo agravado, em face da agravante e da interessada, devido ao inadimplemento do contrato de representação comercial celebrado entre as partes. Pleiteia a condenação da agravante e da interessada ao pagamento de indenização pela rescisão antecipada do contrato, no patamar de 1/12 do total da retribuição auferida durante o período de representação, no importe de R$ 8.736,24 (oito, mil, setecentos e trinta e seis reais e vinte e quatro centavos), além de 1/3 das comissões auferidas dos três meses anteriores à rescisão, sem prejuízo do pagamento de compensação por danos morais no patamar de R$ 5.000,00 (cinco mil reais).
+Sentença: julgou parcialmente procedentes os pedidos em relação à agravante e improcedentes em relação à interessada.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CONTRATO DE REPRESENTAÇÃO COMERCIAL. AÇÃO AJUIZADA PELO REPRESENTANTE COMERCIAL EM QUE AFIRMA TER HAVIDO A DENÚNCIA IMOTIVADA DO CONTRATO, SENDO DEVIDO O PAGAMENTO DE INDENIZAÇÃO, NA FORMA DA LEI Nº 4.885/65. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO EM RELAÇÃO À PRIMEIRA RÉ PARA CONDENÁ-LA AO PAGAMENTO DE INDENIZAÇÃO PREVISTA NO ARTIGO 27, "J", DA LEI 4.886/65, OU SEJA, 1/12 (UM DOZE AVOS) DO TOTAL DA RETRIBUIÇÃO AUFERIDA DURANTE O TEMPO DE VIGÊNCIA DA REPRESENTAÇÃO COMERCIAL, E CONDENÁ-LA AO PAGAMENTO DA INDENIZAÇÃO PREVISTA NA PARTE FINAL DO ARTIGO 34 DA LEI 4.886/65, OU SEJA, 1/3 (UM TERÇO) DAS COMISSÕES AUFERIDAS PELO AUTOR NOS MESES DE AGOSTO, SETEMBRO E OUTUBRO DE 2016. JULGADO IMPROCEDENTE O PEDIDO EM RELAÇÃO À SEGUNDA RÉ. RECURSO INTERPOSTO PELA PRIMEIRA RÉ. ALEGAÇÃO DE QUE O AUTOR NÃO JUNTOU AOS AUTOS O CONTRATO DE REPRESENTAÇÃO COMERCIAL, O QUE SERIA ESSENCIAL PARA QUE HAJA O PAGAMENTO DE INDENIZAÇÃO, UMA VEZ QUE O 34 DA LEI 4.886/65 PREVÊ A INDENIZAÇÃO PARA CONTRATOS DE PRAZO INDETERMINADO. TAMBÉM SERIA NECESSÁRIA A JUNTADA DO CONTRATO PARA PODER APURAR SE HOUVE OU NÃO A PRESCRIÇÃO. CABERIA À PRIMEIRA RÉ APRESENTAR PROVA DE QUE O CONTRATO NÃO FOI AJUSTADO POR TEMPO INDETERMINADO OU QUE OCORREU A PRESCRIÇÃO, TENDO EM VISTA QUE, NOS TERMOS DO ARTIGO 373, II, DO CÓDIGO DE PROCESSO CIVIL, INCUMBE AO RÉU O ÔNUS DA PROVA QUANTO À EXISTÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR. PRIMEIRA RÉ QUE NÃO SE DESINCUMBIU DO REFERIDO ÔNUS, TENDO SE LIMITADO A SE INSURGIR CONTRA AS ALEGAÇÕES DO AUTOR SEM A PRODUÇÃO DE PROVAS QUANDO DA APRESENTAÇÃO DA CONTESTAÇÃO E QUANDO INTIMADO PARA DIZER SE DESEJAVA PRODUZIR PROVAS COMPLEMENTARES. INEXISTÊNCIA DE PROVA DA DESÍDIA DO AUTOR, NA QUALIDADE DE REPRESENTANTE COMERCIAL, A FIM DE INCIDIR UMA DAS HIPÓTESES DE RESCISÃO CONTRATUAL MOTIVADA, PREVISTAS NO ARTIGO 35 DA LEI 4.886/65. RECURSO CONHECIDO A QUE SE NEGA PROVIMENTO. (e-STJ Fls. 406/408)
+Recurso especial: alega violação do art. 35, "a", da Lei nº 4.886/65. Sustenta que, comprovada a justa causa para a rescisão do contrato de representação comercial celebrado entre as partes, deve ser afastada a indenização prevista na lei de regência.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial.
+Agravo interno: nas razões do presente recurso, a agravante sustenta que a análise das razões independe do revolvimento do acervo fático-probatório carreado aos autos, de modo que a incidência da Súmula 7/STJ à espécie se revela indevida.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de reparação por dano material e compensação por dano moral.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno no agravo em recurso especial não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada foi assim fundamentada, na parte em que impugnada pela agravante:
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à condenação ao pagamento de indenização pela rescisão unilateral do contrato de representação comercial celebrado entre as partes, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte agravante para 15% sobre o valor da condenação, observada a distribuição dos honorários sucumbenciais na sentença de e-STJ Fls. 302/305.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.(e-STJ Fl. 584)
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+1. Do reexame de fatos e provas
+No mais, acerca da inaplicabilidade da Súmula 7/STJ, no que se refere à condenação ao pagamento de indenização pela rescisão unilateral do contrato de representação comercial celebrado entre as partes, tem-se que o Tribunal de origem ao manifestar-se acerca da matéria entendeu que:
+ ..
+"Segundo a Apelante, estaria configurada a hipótese do artigo 35, "a", da Lei nº 4.886/65, visto que o encerramento do vínculo contratual entre as partes teria decorrido de desídia do Primeiro Apelado no cumprimento de suas obrigações, conforme corrente de e-mail de fls. 88/102.
+No entanto, não é possível concluir pela ocorrência de desídia do Primeiro Apelado, tendo em conta que, nos referidos e-mails, vê-se apenas a requisição de documentos pela Apelante ao Primeiro Apelado e a urgência, verificada em alguns casos, para que valores do que foi vendido fossem enviados. Não se trata, portanto, de comprovação de desídia propriamente, mas sim de e-mails que comprovam a relação contratual e a dinâmica dessa relação.
+Desse modo, não se pode afirmar a desídia do representante comercial sem que haja provas suficientes deste fato. Nesse mesmo sentido, confiram-se os seguintes julgados deste Tribunal de Justiça do Estado do Rio de Janeiro:
+(..)
+Outrossim, a Apelante também afirma que não seria devida qualquer indenização sem a juntada aos autos do contrato de representação comercial, visto que a legislação exigiria que, para o pagamento de importância igual a um terço (1/3) das comissões auferidas pelo representante nos 3 (três) meses anteriores, o contrato de representação deve ser por tempo indeterminado, tendo vigorado por mais de 6 (seis) meses.
+De fato, dispõe o artigo 34 da Lei nº 4.886/65 que a denúncia, por qualquer das partes, sem causa justificada, do contrato de representação, "ajustado por tempo indeterminado e que haja vigorado por mais de seis meses, obriga o denunciante, salvo outra garantia prevista no contrato, à concessão de pré-aviso, com antecedência mínima de trinta dias, ou ao pagamento de importância igual a um têrço (1/3) das comissões auferidas pelo representante, nos três meses anteriores".
+Ocorre que o Primeiro Apelado juntou aos autos documentos suficientes acerta da relação contratual existente entre as partes e que vigora por mais de 6 (seis) meses, visto que há e-mails desde 2015, conforme documentos de indexadores 60/119. Dessa forma, caberia à Apelante apresentar prova de que o contrato não foi ajustado por tempo indeterminado ou que ocorreu a prescrição, tendo em vista que, nos termos do artigo 373, II, do Código de Processo Civil, incumbe ao réu o ônus da prova quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor. A Apelante, contudo, não se desincumbiu do referido ônus, tendo se limitado a se insurgir contra as alegações do Primeiro Apelado sem a produção de provas quando da apresentação da contestação (indexador 236) e quando intimado para dizer se desejava produzir provas complementares (indexador 270).
+Assim, considerando que houve a denúncia unilateral do contrato pela Apelante e não havendo prova de qualquer desídia do Primeiro Apelado, impõe-se a manutenção da sentença." (e-STJ Fls. 406/419)
+ ..
+E, conforme consignado na decisão agravada, observa-se que o Tribunal a quo ao apreciar a questão, baseou-se no conjunto fático-probatório dos autos, pelo que rever aquele entendimento é obstado devido à aplicação da Súmula 7 desta Corte.
+Cumpre ainda ressaltar que a jurisprudência desta Corte admite que se promova a requalificação jurídica dos fatos ou a revaloração da prova. Trata-se, pois, de expediente diverso do reexame vedado pela Súmula 7/STJ, pois consiste "em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias" (AgInt no REsp 1.494.266/RO, 3ª Turma, DJe 30/08/2017).
+Frise-se, por oportuno, que, na hipótese em tela, não se cuida de valoração de prova, o que é viável no âmbito do recurso especial, mas de reapreciação da prova buscando sufragar reforma na convicção do julgador sobre o fato, para, in casu, se ter como não provado o que a Corte de origem afirmou estar.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
