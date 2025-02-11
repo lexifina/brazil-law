@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por CICERO JOSE DE AGUIAR contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO proferido na Apelação Criminal n. 0809195-12.2021.4.05.8100, assim ementado (fls. 685-688):
+ENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ART. 171, § 3º, DO CÓDIGO PENAL. PERCEPÇÃO DE SEGURO-DESEMPREGO CONCOMITANTEMENTE AO EXERCÍCIO DE VÍNCULO LABORAL. TESE DE ATIPICIDADE DA CONDUTA. REJEIÇÃO. OMISSÃO DELIBERADA ACERCA DO NOVO VÍNCULO EMPREGATÍCIO. DOLO ESPECÍFICO. CULPABILIDADE. ERRO DE PROIBIÇÃO NÃO EVIDENCIADO. DOSIMETRIA DA PENA. AFASTAMENTO DA VALORAÇÃO NEGATIVA DA CONDUTA SOCIAL. CABIMENTO. REDIMENSIONAMENTO DA PENA. MODIFICAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA (SEMIABERTO). PARCIAL PROVIMENTO DO APELO.
+ ..
+15. Quanto ao regime inicial de cumprimento de pena, o juízo de origem fixou o regime fechado " com fundamento no artigo 33, §§ 2º e 3º, c/c o artigo 59, III, do Código Penal, verificada a reincidência do condenado, somada à existência de circunstâncias judiciais desfavoráveis, o que afasta a incidência da Súmula 269 do STJ, deverá iniciar o cumprimento da pena privativa de liberdade definitiva dosada em fechado.
+16. Diante da manutenção de apenas uma circunstância judicial negativa (antecedentes criminais), além de manutenção da reincidência, afigura-se desproporcional fixar o regime inicialmente fechado, dado o quantum de pena e se tratar de uma conduta desprovida de violência e/ou grave ameaça. Nesse sentido: (RHC 192509, Relator(a): DIAS TOFFOLI, Primeira Turma, julgado em 23-11-2020, PROCESSO ELETRÔNICO D Je-297 DIVULG 18-12-2020 PUBLIC 07-01-2021). Confira-se também julgado desta egrégia Sétima Turma: (PROCESSO: 08171934020214058000, APELAÇÃO CRIMINAL, DESEMBARGADOR FEDERAL FRANCISCO ROBERTO MACHADO, 7ª TURMA, JULGAMENTO: 07/05/2024).
+17. Nesse contexto, impõe-se a fixação do regime inicialmente para cumprimento de pena, semiaberto sendo inviável a substituição da pena privativa de liberdade por restritiva de direitos, já que o réu não preenche os requisitos elencados no art. 44 do Código Penal, sobretudo, diante da reincidência delitiva em crime doloso (art. 44, I, CP).
+18. Por fim, guardando proporcionalidade da pena privativa de liberdade com a pena de multa, fixa-se a pena de multa em 54 (cinquenta e quatro) dias-multa, com manutenção de cada dia-multa no valor de 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos.
+19. Parcial provimento à apelação para, realizando ajustes na dosimetria, fixar a pena em 2 (dois) anos e 4 (quatro) meses de reclusão, no regime inicialmente semiaberto, e 54 (cinquenta e quatro) dias-multa, à razão unitária de 1/30 (um trigésimo) do valor do salário mínimo vigente à época dos fatos.
+O acusado foi condenado pela prática do crime descrito no artigo 171, § 3º, do Código Penal a 03 (três) anos, 01 (um) mês e 10 (dez) dias de reclusão, em regime inicial fechado, e ao pagamento de 72 (setenta e dois) dias multa (fls. 405-434).
+A Corte de origem deu parcial provimento ao apelo defensivo para reduzir as penas a 02 (dois) anos e 04 (quatro) meses de reclusão, em regime inicial semiaberto, e 54 (cinquenta e quatro) dias-multa (fls. 680-688).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente alega violação do art. 44 do Código Penal, ao argumento de que fixada pena inferior a 04 (quatro) anos de reclusão, pela prática de crime cometido sem violência ou grave ameaça, a reincidência inespecífica não é óbice à fixação do regime aberto e à substituição da pena privativa de liberdade por restritivas de direito.
+Sem contrarrazões (fl. 713).
+O recurso especial foi admitido (fls. 714-715)
+A Procuradoria-Geral da República manifestou-se pelo não conhecimento do recurso especial (fls. 730-732).
+É o relatório.
+DECIDO.
+Ao recurso especial não atende aos requisitos de admissibilidade, motivo pelo qual não merece ser conhecido.
+Com efeito, no atinente à pretendida alteração do regime inicial de cumprimento de pena, do semiaberto para o aberto, não há comando normativo no art. 44 do Código Penal apto a dar suporte à tese recursal.
+Assim, dissociadas as razões recursais das normas jurídicas alegadamente violadas, a ausência de delimitação da controvérsia impede o conhecimento do recurso especial ante a incidência da Súmula n. 284 do Supremo Tribunal Federal.
+Nesse sentido: AgRg no AREsp 2389227/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024, DJe de 26/02/2024; AgRg no AREsp 2318381/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 5/12/2023, DJe de 12/12/2023; AgRg no AREsp 2392408/GO, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023.
+Do mesmo modo, com relação à substituição da pena privativa de liberdade por restritivas de direito, o Tribunal de origem não apreciou a tese referente a inespecificidade da reincidência, não tendo o Recorrente oposto os embargos de declaração, o que evidencia a ausência do indispensável prequestionamento e, por conseguinte, atrai os óbices das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Sob essa perspectiva:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. SUSTENTAÇÃO ORAL DESCABIDA. EXASPERAÇÃO DA PENA-BASE. RECEPTAÇÃO DE VEÍCULO AUTOMOTOR. MAIOR GRAVIDADE. FUNDAMENTAÇÃO IDÕNEA. REGIME INICIAL GRAVOSO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE. SUBSTITUIÇÃO DA PENA. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Quanto ao pleito de substituição da pena, a pretensão não foi objeto de debate e discussão na instância ordinária, carecendo do adequado e indispensável prequestionamento, motivo pelo qual incidentes, por analogia, as Súmulas ns. 282 e 356, ambas do Supremo Tribunal Federal - STF.
+5. Agravo regimental desprovido. (AgRg no AREsp 2316373/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/12/2023, DJe de 12/12/2023)
+Em idêntico diapasão: AgRg no REsp 2114650/PR, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024 e AgRg nos EDcl no AREsp 1619760/PE, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.
+Ante o exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
