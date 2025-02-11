@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5 e 7 do STJ e 282, 284 e 356 do STF e falta de comprovação do dissídio jurisprudencial (e-STJ fls. 652/664).
+O acórdão recorrido está assim ementado (e-STJ fl. 474):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. INDENIZAÇÃO POR LUCROS CESSANTES, DANOS MORAIS, MULTA CONTRATUAL E AFASTAMENTO DOS JUROS DE OBRA NO PERÍODO DE MORA DA CONSTRUTORA, OU, EM CONJUNTO, COM O IGPM, SEM PREJUÍZO DA RESTITUIÇÃO EM DOBRO. SENTENÇA DE PROCEDÊNCIA PARCIAL DO PEDIDO. CONDENAÇÃO AO PAGAMENTO DE LUCROS CESSANTES A RAZÃO DE 0,5% DO VALOR DO IMÓVEL; RESTITUIÇÃO SIMPLES DOS JUROS DE OBRA, MAIS INDENIZAÇÃO DE R$ 5.000,00 POR DANO MORAL. IRRESIGNAÇÃO DA INCORPORADORA.
+1. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA CONGRUÊNCIA, SENTENÇA APELADA QUE OBSERVOU A PRETENSÃO DEDUZIDA NA INICIAL.
+2. INTERESSE DE AGIR DOS CONSUMIDORES QUE NÃO RESTOU AFASTADO POR ACORDO EXTRAJUDICIAL, ATÉ PORQUE NÃO FOI DADA AMPLA QUITAÇÃO.
+3. INCORPORADORA QUE É PARTE LEGÍTIMA PARA PRESENTE DEMANDA, POIS SE APRESENTOU AO CONSUMIDOR COMO RESPONSÁVEL PELO CUMPRIMENTO DO CONTRATO, LEVANDO-O A ACREDITAR QUE A TERIA CONTRATADO CONJUNTAMENTE COM A SOCIEDADE DE PROPÓSITO ESPECÍFICO QUE CONSTOU DO AJUSTE.
+4. NO MÉRITO, PARA SE EXIMIR DO DEVER DE INDENIZAR, CABE AO PROMITENTE-VENDEDOR COMPROVAR QUE A MORA CONTRATUAL NÃO LHE É IMPUTÁVEL, O QUE NO PRESENTE CASO NÃO OCORREU.
+5. AUSÊNCIA DE INTERESSE RECURSAL NO PEDIDO DE AFASTAMENTO DA MULTA CONTRATUAL, POIS A SENTENÇA RECONHECEU APENAS O CABIMENTO DA INDENIZAÇÃO POR LUCROS CESSANTES, DEVENDO SER MANTIDA TAL CONDENAÇÃO.
+6. NÃO INCIDÊNCIA DOS JUROS DE OBRA NO PERÍODO DE ATRASO DA CONSTRUTORA. TESE REPETITIVA 966 DO STJ: "(..) É ILÍCITO COBRAR DO ADQUIRENTE JUROS DE OBRA OU OUTRO ENCARGO EQUIVALENTE, APÓS O PRAZO AJUSTADO NO CONTRATO PARA A ENTREGA DAS CHAVES DA UNIDADE AUTÔNOMA, INCLUÍDO O PERÍODO DE TOLERÂNCIA."
+7. DESCABIMENTO DA INDENIZAÇÃO SUPLEMENTAR PELO ALEGADO DANO MORAL SOFRIDO.
+PROVIMENTO PARCIAL DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 530/537).
+Nas razões do recurso especial (e-STJ fls. 550/570), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 134 do CPC e 50 do CC, alegando que há um "enorme equívoco processual no presente caso, qual seja, o fato da 2ª recorrente ter sido colocada no polo passivo da lide, sendo que ela não é a pessoa jurídica com quem a parte recorrida realizou o contrato de compra e venda" (e-STJ fl. 555),
+(ii) art. 492 do CPC, por entender que, "no presente caso, há clara ausência de correlação entre o dispositivo da sentença e o rol de pedidos expostos na inicial.  ..  a sentença e o acórdão não possuem legitimidade para conferir à parte recorrida o direito de repetição de "juros de obra" que sequer foram demandados por parte da recorrida" (e-STJ fl. 562),
+(iii) arts. 14, § 3º, II, da Lei n. 8.078/1990 e 927 do CC, sustentando que "resta comprovado de forma explícita através de todo o alegado nesta peça e nos autos processuais, a impossibilidade de imputar à parte recorrente qualquer cobrança de juros ou encargos inerentes à suposto atraso de entrega das obras, uma vez que o atraso foi 45 (quarenta e cinco) dias e restou indenizado de forma extrajudicial, acordado por ambas as partes, o que foi devidamente comprovado nos autos" (e-STJ fls. 563/564).
+Defende, por fim, a "falta de interesse de agir - acordo extrajudicial realizado - quitação da multa penal moratória e da indenização devida pelo atraso de 45 dias" (e-STJ fl. 560).
+Não foram oferecidas contrarrazões (e-STJ fl. 650).
+No agravo (e-STJ fls. 684/695), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 700).
+É o relatório.
+Decido.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+O Tribunal de origem, ao analisar o recurso de apelação, não fez menção aos arts. 134 do CPC e 50 do CC, indicados nas razões recursais, conforme o voto condutor do acórdão recorrido.
+Assim, incidem as Súmulas n. 282 e 356 do STF.
+Extraem-se as seguintes razões de decidir do aresto impugnado com relação à congruência e adstrição entre a sentença e o pedido (e-STJ fls. 480/481):
+Antes de tudo, registro que os autores expressamente deduziram entre os pedidos iniciais requerimento para restituição em dobro do valor relativo à diferença entre a aplicação do INCC e dos juros de 1% aplicados sobre o saldo devedor, no período de mora da construtora, de forma a manter apenas a correção pelo indexador setorial, e, alternativamente, requereram o afastamento das cláusulas 12.2 e 12.3 que autorizam a atualização monetária do saldo devedor pelo IGP-M, com incidência de juros de 12% ao ano, a partir da data da vistoria, pois, segundo os autores, seriam contrárias ao teor das cláusulas 8.1.1 e 8.3, mais benéficas, por não preverem a cobrança de juros antes da entrega da unidade, tendo a sentença acolhido parcialmente o pedido alternativo determinando apenas a restituição simples dos juros de obra que incidiram no período de mora da construtora, mantendo, de outro lado, o IGPM na correção do saldo devedor durante o atraso.
+(..)
+Assim, a sentença não incorreu em julgamento extra petita, porque não concedeu a repetição daquilo que não foi pedido, e tampouco há falar em julgamento ultra petita, pois não houve condenação em valor superior ao pleiteado.
+A Corte local concluiu que a sentença incorreu em julgamento extra petita. A alteração do decidido atrai a Súmula n. 7/STJ.
+O TJRJ afirmou que "o empreendimento só pode ser considerado concluído com a entrega da unidade aos promitentes compradores, não prevalecendo a data de emissão do habite-se para tal fim", assentando ainda que (e-STJ fls. 484/485):
+No mérito do recurso, ante a constatação da mora da construtora que não entregou as chaves da unidade dentro do prazo assumido, só o fazendo em fevereiro de 2015, logo após a averbação do habite-se no registro imobiliário, em dezembro de 2014, e sete meses após a data aprazada, as rés/apelantes devem responder pelos prejuízos causados, até porque não lograram comprovar que a mora seria imputável aos autores/apelados, porquanto ausentes documentos indicativos do não cumprimento da obrigação de pagamento assumida pelos adquirentes.
+Outr ossim, o empreendimento só pode ser considerado concluído com a entrega da unidade aos promitentes compradores, não prevalecendo a data de emissão do habite-se para tal fim.
+A alteração do decidido pelo colegiado implicaria inadequada reavaliação fático-probatória, incidindo a Súmula n. 7/STJ.
+Com efeito, no que concerne à tese de descabimento de cláusula penal moratória e de ilegalidade e abusividade das cláusulas contratuais fixadas, da leitura das razões do recurso especial, verifica-se que a parte recorrente não indicou, de forma clara e precisa, nenhum dispositivo da legislação infraconstitucional supostamente contrariado ou objeto de interpretação divergente, circunstância que impede a compreensão da controvérsia.
+Nessas condições, conforme a jurisprudência desta Corte, a argumentação recursal é deficiente, justificando a incidência da Súmula n. 284/STF.
+E m referência ao dissídio jurisprudencial, "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
