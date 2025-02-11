@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação do art. 1.022, I e II, do CPC/2015, (b) ausência de ofensa aos artigos de lei apontados e (c) aplicação das Súmulas n. 7 do STJ e 282 do STF (e-STJ fls. 56/58).
+O acórdão recorrido está assim ementado (e-STJ fl. 30):
+Agravo de instrumento. Ação de rescisão contratual e restituição de quantias pagas. Propositura por compradora em face de vendedora. Pretensão de rescisão por desinteresse do adquirente, motivado por insuportabilidade financeira no pagamento das prestações. Decisão autoriza depósito de chaves em juízo, mesmo sem conceder tutela provisória de urgência para rescindir contrato de compra e venda de bem imóvel com alienação fiduciária em garantia. Inconformismo da ré, vendedora. Acertada a decisão recorrida, uma vez que (i) a aplicabilidade ou não do procedimento previsto na Lei Federal 9.514/1997 para a extinção do negócio jurídico de compra e venda de imóvel com pacto adjeto de alienação fiduciária em garantia será objeto de futura apreciação, quando da resolução de mérito da demanda, assim como, ainda que não decidido positivamente pela rescisão, (ii) é possível o depósito judicial das chaves para o cumprimento de finalidades múltiplas associadas ao processo. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 36/46), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) art. 1.022, I, do CPC/2015, alegando que o acórdão combatido foi omisso sobre a possibilidade de aplicação da Lei n. 9.514/1997,
+(ii) art. 27 da Lei n. 9.514/1997, por entender que, "em razão da confessada inadimplência da recorrida, bem como pela natureza do negócio celebrado, resta evidente a necessidade de execução da garantia para quitação da dívida inadimplida, conforme determina a legislação específica, não sendo, assim, possível que as chaves depositadas nos autos venham a surtir qualquer efeito" (e-STJ fl. 45).
+Foram oferecidas contrarrazões (e-STJ fls. 51/55).
+No agravo (e-STJ fls. 61//76), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 79/82).
+É o relatório.
+Decido.
+Com relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 32/33 - grifei):
+O tema da aplicabilidade ou não do procedimento previsto na Lei Federal 9.514/1997 para a extinção do negócio jurídico de compra e venda de imóvel com pacto adjeto de alienação fiduciária em garantia será objeto de futura apreciação, quando da resolução de mérito da demanda.
+Isto é, acolher o pedido formulado pela parte autora a fim de que sejam depositadas em juízo as chaves não configura prejulgamento da demanda, se é ou não possível rescindir um contrato de compra e venda assegurado com alienação fiduciária sem que seja disparado o procedimento específico regulado pela Lei Federal 9.514/1997. Nem exige que tal discussão seja feita nesse instante procedimental, como antecedente lógico obrigatório a que se debata a respeito da entrega das chaves em juízo.
+Afere-se como possível o depósito judicial das chaves para o cumprimento de finalidades múltiplas associadas ao processo (como evitar sujeição ao pagamento de indenização por ocupação do imóvel, cessar período de incidência de mora, eximir-se de certas responsabilidades, como suportar riscos relacionados à preservação do bem).
+Nessa medida, ainda que não tivesse sido previamente concedida a tutela provisória de urgência para a finalidade prioritária desejada pela parte agravante (de rescindir o contrato de compra e venda), a providência de entregar as chaves em juízo visa resguardar a parte autora, adquirente, desinteressada no prosseguimento do negócio jurídico, de suportar efeitos que se relacionem com a posse direta exercitada sobre o bem imóvel.
+Não significa que, com o depósito das chaves em juízo, esteja a parte autora liberada de suportar os encargos relacionados com o contrato de compra e venda, seguindo-se a parte agravada vinculada a tais obrigações derivadas do contrato, até porque, no presente momento, o contrato ainda não está rescindido.
+Por tais fundamentos, nega-se provimento ao recurso.
+A respeito de tais razões de decidir, a parte recorrente não se manifestou. Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF.
+Além disso, a reforma do acórdão implicaria análise do conjunto fático-probatório, principalmente das cláusulas do contrato, tendo em vista que haveria necessidade de verificar as circunstâncias do caso concreto para reconhecer o descumprimento do contrato , o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
