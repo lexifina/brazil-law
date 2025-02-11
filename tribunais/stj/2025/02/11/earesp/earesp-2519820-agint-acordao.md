@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 05/02/2025 a 11/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. DIREITO CIVIL. OBRIGAÇÕES. CONTRATO DE LOCAÇÃO DE IMÓVEL. EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DO ÓBICE SUMULAR N. 315/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que rejeitou o pedido efetuado nos autos do cumprimento de sentença. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas n. 283, 284 do STF e 211 do STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EAREsp n. 1.969.968/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 1º/6/2023.
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou embargos de divergência com fundamento no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em virtude da divergência com o AgInt no REsp n. 2.015.914/DF, proferido pela Primeira Turma.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, "indefiro liminarmente os embargos de divergência".
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Contra decisão monocrática do Sr. Ministro Marco Buzzi (Relator) que negou provimento ao agravo em recurso especial, a parte ora agravante interpôs agravo interno, defendendo que a Quarta Turma do Superior Tribunal de Justiça não sanou omissões perpetradas pelo acórdão embargado relativas aos honorários de sucumbência e enriquecimento ilícito da agravada, bem como à existência do saldo devedor na ordem de R$ 7.291,45, tendo em vista o acolhimento parcial da impugnação ao cumprimento de sentença, mesmo diante da oposição dos embargos declaratórios, o que, por óbvio, configura negativa de prestação jurisdicional.
+ ..
+Esse julgamento controverso realizado pela Quarta Turma / Gabinete Min. Marco Buzzi diverge totalmente do que, em caso semelhante, entendeu a PRIMEIRA Turma do Superior Tribunal de Justiça, em sessão virtual de 15/08/2023 a 21/08/2023, ao apreciar o AgInt no RECURSO ESPECIAL Nº 2015914 - DF (2022/0228850-7), nos termos do voto do Sr. Ministro Relator Sérgio Kukina, a qual, para o mesmo contexto fático e debate jurídico, possui entendimento completamente diverso, cujo acórdão paradigma transcreve-se a seguir:
+ ..
+Não há como negar que o entendimento constante do Acórdão paradigma é o que melhor reflete a vontade do legislador, devendo prevalecer no caso em debate.
+ ..
+O que se tem diante dos olhos é uma clara hipótese de divergência jurisprudencial, requerendo, desse modo, a realização de novo julgamento para corrigir premissa jurídica equivocada, ante a divergência dos entendimentos lançados sobre matérias semelhantes.
+Além das omissões evidenciadas acima, não houve pronunciamento judicial sobre o pedido de efeito suspensivo pleiteado, cabendo ao Tribunal ad quem as providências processuais pertinentes, uma vez que o art. 1.029, § 5º, III, do Código de Processo Civil é expresso no sentido de que a análise do efeito suspensivo compete ao presidente ou ao vice-presidente do Tribunal recorrido, apenas "no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso".
+ ..
+No caso ora em exame, o agravante demonstrou, com bastante propriedade, de forma categórica, que o acórdão embargado diverge completamente de jurisprudência atual da PRIMEIRA TURMA do Superior Tribunal de Justiça que proferiu o paradigma.
+Pacífica a jurisprudência dessa Corte Superior de Justiça no sentido de que a admissão dos embargos de divergência pressupõe a apresentação de divergência atual capaz de indicar real divergência entre órgãos do STJ. A propósito:
+ ..
+A divergência é clarividente. Em confronto analítico, enquanto a decisão da Presidência dessa Corte entende que "Caso exista nos autos prévia fixação de honorários advocatícios, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça", a decisão paradigma interpreta contexto fático de outra maneira, qual seja, "Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.".
+No caso presente, não é possível pressupor que o presente recurso padeça de manifesta inadmissibilidade nem que o desprovimento se reveste de notória evidência, a justificar a cristalização de conduta abusiva e/ou protelatória, em razão da mera interposição de recurso para se buscar o esgotamento das instâncias ordinárias.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO CIVIL. OBRIGAÇÕES. CONTRATO DE LOCAÇÃO DE IMÓVEL. EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DO ÓBICE SUMULAR N. 315/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que rejeitou o pedido efetuado nos autos do cumprimento de sentença. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas n. 283, 284 do STF e 211 do STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EAREsp n. 1.969.968/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 1º/6/2023.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas n. 283, 284 do STF e 211 do STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EAREsp n. 1.969.968/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 1º/6/2023.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
