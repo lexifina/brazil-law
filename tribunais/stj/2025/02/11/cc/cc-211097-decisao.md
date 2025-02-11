@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 2ª Vara Federal da Seção Judiciária do Distrito Federal, como suscitante, e a 7ª Vara Cível de Brasília/DF, a suscitada, nos autos de ação anulatória movida contra o Cebraspe e a Petrobras, na qual se discute o direito de a parte autora permanecer no concurso público de ingresso nos quadros da segunda ré, tendo como realizadora a primeira demandada.
+A demanda foi originariamente proposta perante o Juízo suscitado, que declinou da competência em favor da Justiça Federal, por entender que a Petrobras é "empresa pública de capital aberto, cujo acionista majoritário é a União Federal e o objeto da ação é a anulação de ato de ato administrativo decorrente de suposta violação de direitos das pessoas com deficiência no processo seletivo público para provimento de vagas e formação de cadastro" (fl. 1.252).
+O Magistrado da Seção Judiciária, por sua vez, averbou a ausência das pessoas previstas no art. 109, I, da Constituição Federal, pelo que rejeitou a competência atribuída ao Juízo respectivo , suscitando, em consectário, o presente incidente processual.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66, II, e 953, I, do CPC.
+Quanto ao mérito, a competência da Justiça Federal é constitucional e taxativa. Define-se, em regra, em razão da pessoa envolvida no processo, como se extrai da previsão contida no art. 109, I, da Constituição Federal:
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+No caso sob crivo, a Petrobras é uma Sociedade de Economia Mista de capital aberto, cuja criação foi autorizada pela Lei n. 2.004/1953. O Cebraspe, por sua vez, é uma associação civil sem fins lucrativos. Nenhum dos dois entes se inclui no rol previsto na citada norma constitucional, o que afasta a competência da Justiça Federal. Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO ORDINÁRIA. POLO PASSIVO. ESTADO-MEMBRO E ASSOCIAÇÃO CIVIL DE DIREITO PRIVADO. QUALIFICAÇÃO COMO ORGANIZAÇÃO SOCIAL. IRRELEVÂNCIA PARA A DEFINIÇÃO DA COMPETÊNCIA. DESENQUADRAMENTO DA PARTE NO ROL DO ART. 109, INCISO I, DA CF. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. A teor do art. 109, inciso I, da Constituição da República, compete à justiça federal processar e julgar causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+2. A mera qualificação de pessoa jurídica de direito privado, sem fins lucrativos, como organização social, na forma do art. 1.º da Lei 9.637/1998, não ocasiona a transformação da personalidade jurídica nem a caracteriza como ente público de mesma índole daqueles com os quais celebra o contrato de gestão.
+3. Compete à justiça comum estadual processar e julgar a ação ordinária proposta em face do Estado de Santa Catarina e do Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe), que tem natureza de associação civil de direito privado, em razão da condição de organizadoras e de executoras de concurso público para o provimento de cargos públicos estaduais.
+4. Conflito conhecido para julgar competente o suscitado, Juízo de Direito da 3.ª Vara da Fazenda Pública de Florianópolis.
+(CC n. 149.985/SC, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 14/12/2016, DJe de 19/12/2016.)
+Nesse viés, a preciando caso fronteiriço, em data recente, assim deliberou o eminente Ministro Gurgel de Faria:
+Trata-se de conflito de competência entre o JUÍZO FEDERAL DA 20ª VARA CÍVEL DO DISTRITO FEDERAL - SJ/DF, suscitante, e o JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE BRASÍLIA - DF, suscitado.
+Consta dos autos que AGNER INÁCIO WANZELER propôs ação de conhecimento em desfavor do CEBRASPE e da PETROBRAS - pessoa jurídica de direito privado e sociedade de economia mista respectivamente -, por meio da qual pleiteia sua permanência no certame nas vagas reservadas às pessoas negras.
+ ..
+De acordo com a Súmula 556 do STF, "é competente a Justiça comum para julgar as causas em que é parte sociedade de economia mista".
+Na hipótese dos autos, "em se tratando de ação ordinária proposta contra sociedade de economia mista federal, buscando a nomeação em concurso público, a competência é da Justiça Estadual" (CC 187.978/SP, Rel. Min. ASSUSETE MAGALHÃERS, Primeira Seção, DJe 06/05/2022).
+Some-se a isso o fato de que não se trata de ação mandamental, mas de ação ordinária. "Essa diferença é determinante, pois, embora a jurisprudência desta Corte tenha se orientado no sentido de que compete à Justiça Federal processar e julgar os mandados de segurança impetrados contra ato de autoridade federal, é igualmente certo que as demais ações ajuizadas contra pessoas de direito privado (como a CESGRANRIO) ou Sociedades de Economia Mista (como a PETROBRAS) não se amoldam ao aludido art. 109, inciso I, da Constituição Federal, norma de interpretação restrita." (CC 150.747/DF, Rel. Min. SÉRGIO KUKINA, Dje 13/03/2017).  ..
+(CC n. 209.464, Ministro Gurgel de Faria, DJEN de 19/12/2024.)
+Presente tal cenário, deve ser reconhecida a competência do Juízo suscitado.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda a 7ª Vara Cível de Brasília/DF, ora suscitada.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
