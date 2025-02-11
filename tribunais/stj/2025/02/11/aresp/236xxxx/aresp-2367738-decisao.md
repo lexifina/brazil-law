@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FMAC ENGENHARIA LTDA. contra decisão que inadmitiu o recurso especial em razão da ausência de alegada ofensa ao art. 1.022 do CPC e da incidência da Súmula n. 7 do STJ.
+No agravo em recurso especial, a parte agravante refuta os fundamentos de inadmissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Cível n. 0012234-81.2011.8.19.0209) assim ementado (fl. 660):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL DA CONSTRUTORA POR DANOS NA OBRA. PRELIMINAR DE DECADÊNCIA E PRESCRIÇÃO. GARANTIA DE SEGURANÇA E SOLIDEZ. ENTREGA DA OBRA PELA CONSTRUTORA EM 2007. AJUIZAMENTO DA PRESENTE DEMANDA NO ANO DE 2011. PRAZO DE GARANTIA NÃO ESCOADO. PRAZO PRESCRICIONAL DECENAL PARA A REPARAÇÃO DOS DANOS EMERGENTES. INCIDÊNCIA DA SÚMULA Nº 197 DO STJ. CÔMPUTO PRESCRICIONAL QUE SEQUER SE INICIOU. RESPONSABILIDADE OBJETIVA CARACTERIZADA NA FORMA DO ART. 618 DO CC. DANOS SOFRIDOS PELO AUTOR QUE FORAM DEVIDAMENTE APONTADOS NA PERÍCIA. HONORÁRIOS ADVOCATÍCIOS CORRETAMENTE FIXADOS NO PERCENTUAL DE 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO. NECESSIDADE DE INTEGRAÇÃO DA SENTENÇA PARA FIXAR OS CONSECTÁRIOS LEGAIS DA CONDENAÇÃO. PARCIAL PROVIMENTO DO RECURSO APENAS PARA ESTABELECER QUE OS JUROS DEVEM INCIDIR A CONTAR DA DATA DA CITAÇÃO (ART. 405 DO CC) E CORREÇÃO MONETÁRIA A PARTIR DO DATA DO EVENTO DANOSO, NA FORMA DA SÚMULA Nº 43 DO STJ.
+Os primeiros embargos de declaração opostos foram acolhidos para corrigir erro material na parte dispositiva. Eis os termos da ementa (fl. 695):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL DA CONSTRUTORA POR DANOS NA OBRA. PRELIMINAR DE DECADÊNCIA E PRESCRIÇÃO. GARANTIA DE SEGURANÇA E SOLIDEZ. PARCIAL PROVIMENTO DO RECURSO APENAS PARA ESTABELECER QUE OS JUROS DEVEM INCIDIR A CONTAR DA DATA DA CITAÇÃO (ART. 405 DO CC) E CORREÇÃO MONETÁRIA A PARTIR DO DATA DO EVENTO DANOSO, NA FORMA DA SÚMULA Nº 43 DO STJ. EMBARGOS DE DECLARAÇÃO DA RÉ INVOCANDO CONTRADIÇÃO NO JULGADO COM RELAÇÃO AO QUE FICOU CONSIGNADO NA SESSÃO DE JULGAMENTO. ACÓRDÃO PUBLICADO QUE ESTÁ EM CONSONÂNCIA COM A CERTIDÃO DA RESPECTIVA SESSÃO DE JULGAMENTO (INDEX Nº 686). NECESSIDADE DE ALTERAÇÃO APENAS DA PARTE DISPOSITIVA PARA INCLUIR O "DESPROVIMENTO DO RECURSO DO AUTOR". NO MAIS, NADA A ALTERAR SOBRE A PARTE DA FUNDAMENTAÇÃO E O RESULTADO DO RECURSO DO ORA EMBARGANTE. PROVIMENTO DO RECURSO APENAS PARA CORRIGIR ERRO MATERIAL NA PARTE DISPOSITIVA PARA CONSIGNAR O "DESPROVIMENTO DO RECURSO DO RÉU".
+Novos embargos de declaração opostos foram rejeitados (fls. 712-714).
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 1.022, II, do Código de Processo Civil, alegando que as arguições de que a condenação em danos emergentes, no valor de R$ 467.770,00, supera o real valor do dano e de que isso configura enriquecimento sem causa e dupla punição, não foram enfrentadas no acórdão recorrido;
+b) 402, 844 e 944 do Código Civil, aduzindo que a admissão do "abatimento do valor da indenização em virtude de reparos executados pela recorrente antes e durante a prova pericial retira a certeza de que o dano material seja aquele apontado no laudo" (fl. 722), ressaltando que a indenização deve ser medida pela extensão do dano.
+Afirma que, caso mantido o acórdão, se permitirá "o enriquecimento sem causa da recorrida, que receberá a título de indenização o valor correspondente a qualquer serviço que já tenha sido executado diretamente pela recorrente" (fl. 722).
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 734-739).
+É o relatório. Decido.
+I - Violação do art. 1.022, II, do CPC
+A parte recorrente aponta violação do art. 1.022, II, do CPC, ao argumento de que o acórdão recorrido foi omisso quanto às arguições; de que a manutenção da condenação não reflete o valor real do dano; e de que poderá ensejar enriquecimento sem causa da recorrida.
+Contudo, verifico que essas omissões não foram arguidas nos embargos de declaração opostos na origem, nos quais alegou-se apenas a existência de contradição entre a sessão de julgamento e o acórdão publicado.
+Fica, pois, impedido o conhecimento da matéria em recurso especial, em decorrência da incidência da Súmula n. 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. TESE NÃO CONHECIDA. AUSÊNCIA DE EMBARGOS DECLARATÓRIOS NA ORIGEM. ARGUMENTO NÃO ATACADO. SÚMULA N. 283/STF. NORMA INTERNA DA CORTE LOCAL. SÚMULA N. 280/STF. DECISÃO MANTIDA.
+1. "Inafastável a incidência da Súmula 284 do STF à alegada violação do art. 535 do CPC, uma vez que do acórdão que julgou o agravo regimental na origem não houve oposição de embargos de declaração para instar a Corte de origem a sanar eventual vício contido no aresto" (AgRg no AREsp n. 244.325/SC, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/2/2013, DJe 19/2/2013).
+2. É inadmissível o recurso especial quando não houver a impugnação de fundamento do acórdão recorrido apto, por si só, a manter o inteiro teor do julgado. Aplicação, por analogia, da Súmula n. 283/STF.
+3. É incabível a análise de norma de direito local em recurso especial. Incidência da Súmula n. 280/STF.
+4. Agravo regimental improvido. (AgRg no REsp n. 1.446.996/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 1º/9/2015, DJe de 8/9/2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. Os embargos de declaração constituem recurso adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes aclaratórios, a análise da pretensão de nulidade da decisão por negativa de prestação jurisdicional atrai o óbice contido na Súmula 284 do STF. Precedentes.
+ ..
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.216.717/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+II - Violação dos arts. 402, 844 e 944 do Código Civil
+A Corte de origem, soberana na análise dos fatos e provas dos autos, concluiu que "não merecem acolhimento as teses subsidiárias de enriquecimento sem causa ou apuração de valores posto que a condenação não traz qualquer acréscimo patrimonial, ao revés disso busca ressarcir os danos suportados pelo condomínio em decorrência da omissão da construtora, além disso o perito já quantificou o dano, não havendo necessidade de diligencia para quantificação do que efetivamente precisa ser feito" (fls. 662-663).
+Desse modo, para rever a conclusão adotada na origem e acatar as teses recursais de que o abatimento do valor retira a certeza do valor do dano, assim como de que ensejaria enriquecimento sem causa, seria imprescindível o reexame do conjunto fático-probatório dos autos, medida vedada em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
