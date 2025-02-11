@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo interposto em favor de FELIPE COSTA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 0002348-16.2022.8.27.2710.
+Consta dos autos que o Tribunal de origem afastou a aplicação do princípio da insignificância e manteve a condenação do recorrente pela prática do crime previsto no art. 155, caput, do Código Penal - CP, à pena de 1 ano de reclusão, em regime inicial aberto, além de 10 dias-multa, em acórdão assim ementado:
+"APELAÇÃO CRIMINAL. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+1. O princípio da insignificância pressupõe a presença simultânea de quatro requisitos: a mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, reduzidíssimo grau de reprovabilidade do comportamento do agente e a inexpressividade da lesão jurídica provocada.
+2. Mesmo quando inexistente sentença condenatória transitada em julgado, se identificados inquéritos e ações penais em curso por crimes contra o patrimônio, incabível é a aplicação do princípio da insignificância.
+3. Recurso conhecido e improvido. Sentença mantida." (fl. 245).
+Em sede de recurso especial (fls. 257/266), a defesa apontou violação ao art. 386, inc. III, do Código de Processo Penal - CPP, ao argumento de que deve ser reconhecida a atipicidade material da conduta do recorrente, em razão da aplicação do princípio da insignificância. Para tanto, sustenta que o valor da res furtiva é inexpressivo - R$ 60,00 - e que "a existência de processos em curso sem trânsito em julgado, por si só, não podem afastar a incidência do princípio da insignificância" (fl. 263).
+Requer o provimento do recurso para absolver o agravante.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS (fls. 272/278).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 83 do STJ (fls. 284/286).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 295/305).
+Contraminuta do Ministério Público (fls. 309/312).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do agravo (fls. 327/332 ).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação ao art. 386, inc. III, do CPP, o TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS afastou a aplicação do princípio da insignificância nos seguintes termos do voto do relator:
+"Para a aplicação do crime de bagatela, vertido no princípio da insignificância, é necessária a conjugação dos requisitos da ofensividade mínima da conduta do agente, ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento do agente e inexpressividade da lesão ao bem juridicamente tutelado.
+A medida sob enfoque é benesse de caráter excepcional e somente tem o condão de afastar a efetiva proteção do bem jurídico em circunstâncias não menos excepcionais, daí porque, os requisitos delimitados no âmbito do Supremo Tribunal Federal devem ser preenchidos concomitantemente para, se atendidos, incidir a medida despenalizadora.
+Nesse sentido, é a jurisprudência do Superior Tribunal de Justiça:
+ ..
+Constato que não havia condenações transitadas em julgado quando da pratica delituosa, sendo o réu tecnicamente primário, especialmente da analise do evento n. 8, CERTANTCRIM1.
+Inobstante, é pacifico o entendimento do não cabimento da aplicação do princípio da insignificância em crimes contra o patrimônio quando identificados inquéritos e ações penais em curso, mesmo que ainda inexistente sentença condenatória transitada em julgado.
+Confira-se:
+ ..
+Ressalto que a tese da bagatela do delito pretende evitar a aplicação de sanção penal por crimes considerados insignificantes, praticados pelos agentes de forma isolada, refletindo-se como um desvio momentâneo de um comportamento adequado, o que não se extrai do presente caso.
+Logo, por não estarem presentes os requisitos necessários, rejeito o pedido de aplicação do princípio da insignificância e mantenho a condenação imprópria do apelante pela prática do crime descrito no artigo 155 do CP" (fls. 239/240).
+Por seu turno, na sentença constou o seguinte:
+"Lado outro, na aplicação do princípio da insignificância, além do valor da res, que deve ser desprezível, há que se levar em conta o desvalor da conduta e do resultado, a repercussão do fato na pessoa da vítima e as condições pessoais do acusado.
+ ..
+Não se pode ainda perder de vista que o acusado possui diversos processos em andamento, denotando que sua vida sempre esteve vinculada à prática delitiva, sendo certa a sua condenação." (fls. 169/170)
+Nota-se das transcrições acima que a alegação da defesa relativa à atipicidade material da conduta, por aplicação do princípio da insignificância, foi afastada pelas instâncias ordinárias em razão da contumácia delitiva do agravante.
+No caso em análise, apesar do valor da res furtiva ser ínfimo , as instâncias ordinárias concluíram que não houve reduzido grau de reprovabilidade do comportamento e nem ausência de periculosidade social na ação, pois se trata de agente que responde a cinco ações penais em curso e quatro inquéritos policiais, todos pela prática do crime de furto, conforme se extrai da certidão de antecedentes criminais do réu (fl. 20).
+Conclui-se, assim, que a conduta da agravante é incompatível com a aplicação do princípio da insignificância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONTUMÁCIA DELITIVA. FRAÇÃO APLICADA PARA O FURTO PRIVILEGIADO. FINDAMENTAÇÃO CONCRETA. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - A Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS, Rel. Min. Reynaldo Soares da Fonseca, DJe 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação de que a medida é socialmente recomendável.
+III - Outrossim, "apesar de não configurar reincidência, a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a incidência do princípio da insignificância" (AgRg no HC n. 578.039/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 04/09/2020).
+IV - No presente caso, afere-se do v. acórdão impugnado que na hipótese, o princípio da insignificância foi afastado, em razão da vida pregressa do paciente, ao fundamento de que possui comportamento reiterado na prática de crimes patrimoniais, destacando para tanto, que "Douglas responde a outras sete ações penais em andamento, sendo cinco delas pelo suposto cometimento do crime de furto (autos n. 5011461-54.2019.8.24.0039; 0003201-73.2019.8.24.0039; 0004364-88.2019.8.24.0039;
+5010117-67.2021.8.24.0039; 5015244-83.2021.8.24.0039), e as demais pela prática, em tese, do delito de roubo (autos n. 5009850-61.2022.8.24.0039; 5010892-19.2020.8.24.0039)" (fl. 283).
+Assim, não se pode ter como irrelevante a conduta do agente que detém comportamento reiterado na prática de crimes patrimoniais.
+V - Ressalta-se, ainda, que "reconhecida a figura do furto privilegiado, cabe ao julgador, obedecendo ao livre convencimento motivado, escolher entre as opções legais apresentadas no § 2º do art. 155 do Código Penal, devendo fundamentar sua decisão nas circunstâncias do caso concreto e particularidades do agente, a fim de obter a solução mais adequada e suficiente como resposta penal à conduta praticada" (AgRg no HC n. 726.958/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 31/5/2022, grifei).
+VI - Na presente hipótese, a escolha de redução do privilégio foi fundamentada de forma concreta pelas instâncias de origem, que salientaram "a maior reprovabilidade da conduta, não apenas em razão de se tratar de delito que vem sendo cometido de maneira reiterada naquela Comarca, mas também pelas demais circunstâncias que permeiam o caso concreto" (fl. 284), a saber, na reiteração delitiva do paciente.
+Agravo regimental desprovido.
+(AgRg no HC n. 811.161/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/8/2023, DJe de 23/8/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERAÇÃO DELITIVA. AGRAVO DESPROVIDO.
+1. O "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (HC n. 84.412-0/SP, STF, Rel. Ministro CELSO DE MELLO, DJU 19/11/2004).
+2. As decisões encontram-se em consonância com a jurisprudência desta Quinta Turma, segundo a qual o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas.
+Ainda, nos termos da jurisprudência desta Corte, "a reiteração delitiva afasta a incidência do princípio da insignificância, pois, "apesar de não configurar reincidência, a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais, é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a incidência do princípio da insignificância" (AgRg no REsp 1.907.574/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/8/2021, DJe 31/8/2021).
+3. No caso, resta demonstrada a contumácia delitiva do réu, em especial crimes patrimoniais, o que demonstra seu desprezo sistemático pelo cumprimento do ordenamento jurídico. Tais circunstâncias, decerto, obstam o imediato reconhecimento da atipicidade material, por não restarem demonstradas as exigidas:
+mínima ofensividade da conduta e ausência de periculosidade social da ação, bem como em razão da contumácia do paciente na prática de delitos contra o patrimônio.
+4. O Superior Tribunal de Justiça consolidou entendimento no sentido de que não se aplica o princípio da insignificância ao delito de furto, quando, apesar do pequeno valor da res furtiva as condições pessoais e as circunstâncias do caso concreto se mostram desfavoráveis. Deveras, o fato do delito ter sido perpetrado durante o repouso noturno, como o destacado pela Corte de origem, confere um plus de gravidade à conduta, que merece ser sopesada em desfavor do réu.
+5. Agravo desprovido.
+(AgRg no HC n. 779.592/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe de 17/3/2023.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
