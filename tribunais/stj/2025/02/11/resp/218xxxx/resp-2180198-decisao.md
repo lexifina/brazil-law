@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 232):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA À INSCRIÇÃO DO NOME DO AUTOR NO CADASTRO NEGATIVO. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA. COMPROVAÇÃO DE QUE O AUTOR FOI NOTIFICADO PREVIAMENTE À NEGATIVAÇÃO. NOTIFICAÇÃO ENCAMINHADA PARA O MESMO ENDEREÇO ELETRÔNICO UTILIZADO PELO AUTOR PARA AUTENTICAÇÃO DA ASSINATURA DIGITAL NOS DOCUMENTOS PESSOAIS JUNTADOS NA INICIAL. OBSERVÂNCIA DO § 2º DO ART. 43 DO CÓDIGO DE DEFESA DO CONSUMIDOR. PECULIARIDADES DO CASO CONCRETO. PRECEDENTES. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS DEVIDOS. RECURSO CONHECIDO E DESPROVIDO.
+Em suas razões (e-STJ fls. 240/263), a parte recorrente aponta dissídio jurisprudencial e violação das Súmulas n. 359 e 404 do STJ e do art. 43, § 2º, do CDC.
+A parte alega que, "na presente demanda, não foi juntada aos autos nenhum documento válido para comprovar que o Autor tenha sido efetivamente notificado de sua inscrição, obrigação da arquivista que mantém o cadastro restritivo" (e-STJ fl. 245).
+Sustenta que "o e-mail/SMS presente na carta de notificação não demonstra que o Autor foi notificado, não demonstra sequer que fosse o destinatário" (e-STJ fl. 245).
+Ao final, "requer seja dado TOTAL PROVIMENTO ao Recurso, para que seja reformada o respeitável ACORDÃO, para condenar a exclusão do nome da Recorrente dos OPC "s e a condenação por danos morais, bem como a majoração do mesmo conforme recurso de apelação, apenas exerceu o seu direito fundamental do acesso à justiça, direito este insculpido no artigo 5º, inciso XXXV, da Constituição Federal" (e-STJ fl. 262).
+Contrarrazões não apresentadas (e-STJ fl. 239).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+De início, cumpre salientar que não cabe ao STJ apreciar violação de súmula em recurso especial, pois o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, "a", da CF, incidindo a Súmula n. 518 do STJ.
+A jurisprudência da Quarta Turma do STJ considera válida a comunicação remetida por e-mail, em caso de inscrição em cadastro de inadimplentes, para fins de atendimento do disposto no art. 43, § 2º, do CDC, desde que comprovado o envio e a entrega da comunicação ao servidor de destino.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. ARTIGO 43, § 2º, DO CDC. PRÉVIA NOTIFICAÇÃO. POSSIBILIDADE DE ENVIO DA COMUNICAÇÃO ESCRITA POR E-MAIL. SUFICIÊNCIA DA COMPROVAÇÃO DO ENVIO E ENTREGA DO E-MAIL NO SERVIDOR DE DESTINO. PRECEDENTE DA QUARTA TURMA. AGRAVO INTERNO NÃO PROVIDO.
+1. A Quarta Turma desta Corte Superior decidiu que é válida a comunicação remetida por e-mail para fins de notificação do consumidor acerca da inscrição de seu nome em cadastro de inadimplentes, desde que comprovados o envio e a entrega da comunicação ao servidor de destino (REsp n. 2.063.145/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/3/2024, DJe de 7/5/2024).
+2. Na hipótese, o Tribunal local concluiu que a parte ré trouxe documentação suficiente que comprova a notificação por meio eletrônico.
+3. Modificar a premissa fática estabelecida no acórdão recorrido de que houve o envio e a entrega da notificação por e-mail demandaria o reexame de fatos e provas dos autos, providência vedada em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.099.270/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. No julgamento do REsp 2.063.145-RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, por maioria, julgado em 14/3/2024, restou definido que "É válida a comunicação remetida por e-mail para fins de notificação do consumidor acerca da inscrição de seu nome em cadastro de inadimplentes, desde que comprovado o envio e entrega da comunicação ao servidor de destino".
+1.1. No caso concreto, o acórdão recorrido não revela se houve, ou não, comprovação do envio e da entrega da comunicação ao servidor de destino. Dessa forma, é necessário o retorno dos autos à origem para que o Tribunal estadual verifique se houve ou não a comprovação exigida, e profira novo julgamento à luz da jurisprudência desta Corte Superior.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.111.655/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+Recentemente, a Terceira Turma do STJ posicionou-se no mesmo sentido da Quarta Turma, como se verifica a seguir:
+RECURSO ESPECIAL. CONSUMIDOR. AÇÃO DE CANCELAMENTO DE REGISTRO CUMULADA COM INDENIZATÓRIA. REGISTRO DO NOME DO CONSUMIDOR EM CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA. MENSAGEM DE TEXTO DE CELULAR. POSSIBILIDADE. ENVIO E ENTREGA DA NOTIFICAÇÃO. COMPROVAÇÃO. REGULARIDADE DEMONSTRADA. RECURSO DESPROVIDO.
+1. O propósito recursal consiste em definir se a notificação prévia enviada ao consumidor, acerca do registro do seu nome em cadastro de inadimplentes, pode se dar por meio eletrônico, à luz do art. 43, § 2º, do CDC.
+2. Nos termos do art. 43, § 2º, do CDC, a validade da notificação ao consumidor - acerca do registro do seu nome em cadastro de inadimplentes - pressupõe a forma escrita, legalmente prevista, e a anterioridade ao efetivo registro, como se depreende da jurisprudência do Superior Tribunal de Justiça sintetizada na Súmula 359/STJ.
+3. Nos termos da Súmula 404/STJ e do Tema repetitivo 59/STJ (REsp n. 1.083.291/RS), afigura-se prescindível a comprovação do recebimento da comunicação pelo consumidor, bastando apenas que se comprove o envio prévio para o endereço por ele informado ao fornecedor do produto ou serviço, em razão do silêncio do diploma consumerista.
+4. Considerando a regra vigente no ordenamento jurídico pátrio - de que a comunicação dos atos processuais, através da citação e da intimação, deve ser realizada pelos meios eletrônicos, que, inclusive, se aplica ao processo penal, nos termos da jurisprudência deste Tribunal, com mais razão deve ser admitido o meio eletrônico como regra também para fins da notificação do art. 43, § 2º, do CDC, desde que comprovados o envio e o recebimento no e-mail ou no número de telefone (se utilizada a mensagem de texto de celular ou o aplicativo whatsapp) informados pelo consumidor ao credor.
+5. No contexto atual da sociedade brasileira, marcado por intenso e democrático avanço tecnológico, com utilização, por maciça camada da população, de dispositivos eletrônicos com acesso à internet, na quase totalidade do território nacional, constata-se que não subsiste a premissa fática na qual se baseou a Terceira Turma nos precedentes anteriores, que vedavam a utilização exclusiva dos meios eletrônicos.
+6. Portanto, a notificação prévia do consumidor acerca do registro do seu nome no cadastro de inadimplentes, nos termos do art. 43, § 2º, do CDC, pode ser realizada por meio eletrônico, desde que devidamente comprovados o envio e a entrega da notificação, realizados por e-mail, mensagem de texto de celular (SMS) ou até mesmo pelo aplicativo whatsapp.
+7. Recurso especial desprovido.
+(REsp n. 2.092.539/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/9/2024, DJe de 26/9/2024.)
+A Corte de origem considerou válida a notificação, nos seguintes termos (e-STJ fls. 233/234):
+A discussão acerca da validade ou não da notificação ser efetuada por e-mail, dispensando o meio físico, diz respeito à efetiva comprovação de que o consumidor efetivamente recebeu o aviso, ou seja, há que se comprovar que o devedor tem acesso fácil ao e-mail para onde foi enviada a correspondência eletrônica. No caso dos autos, embora a parte autora alegue a invalidade da notificação prévia por e-mail, observa-se que o endereço eletrônico para o qual foi enviada a notificação (mov. 19.5-1º Grau), é o mesmo endereço eletrônico utilizado para assinar os documentos pessoais juntados na exordial (maateuusrrr@gmail. com), veja-se (mov. 1.4-1º Grau):
+(..)
+Assim, está claro que o autor foi notificado previamente à negativação e está demonstrado também que o e-mail para o qual foi encaminhada a notificação é de seu uso, posto que foi utilizado na autenticação de sua assinatura digital em seus documentos pessoais.
+Logo, o entendimento do acórdão recorrido está em consonância com a jurisprudência mais recente da Quarta Turma do STJ.
+Incide a Súmula n. 83 desta Corte.
+Ademais, para rever os fundamentos do acórdão impugnado e analisar as razões recursais, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, diante da aplicação da Súmula n. 7 do STJ.
+Ademai s, " ..  a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt nos EDcl no REsp n. 1.662.160/DF, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
