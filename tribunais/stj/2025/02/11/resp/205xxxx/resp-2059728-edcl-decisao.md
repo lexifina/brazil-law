@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEXANDRE GIRARDI, contra decisão de minha lavra, às fls. 2178/2194, em que conheci em parte do recurso especial e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, dei-lhe parcial provimento a fim de reconhecer a incidência da atenuante da confissão espontânea em favor do ora embargante, com o consequente redimensionamento da pena aplicada.
+Nos presentes aclaratórios (fls. 2199/2208), a defesa afirma que este relator se omitiu qu anto às questões capazes de modificar a conclusão adotada, especialmente no que diz respeito à absoluta observância ao contexto fático admitido pela Corte local.
+Reforça o mérito do recurso especial, indagando se "a conduta de se exigir remuneração sobre produtos ou serviços desvinculados da operação de crédito de fato caracterizaria a infração pena prevista no art. 8º da Lei n. 7.492/86  Ou, para se caracterizar a tipicidade da conduta, é necessário que essa exigência se dê efetivamente sobre a referida operação ". Questiona se a oferta seria suficiente para caracterizar, de maneira automática, a tipicidade da conduta.
+Salienta que a segunda omissão refere-se à análise da autoridade delitiva, pois o ora embargante, justamente por exercer a função que exercia, não teria como exigir direta e indiretamente os valores.
+Requer o acolhimento dos aclaratórios para sanar as omissões apontadas, com o provimento do recurso especial ou anulação do acórdão recorrido para que as questões apresentadas no Tribunal a quo sejam enfrentadas em toda a sua extensão.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme o art. 1.022, III, do Código de Processo Civil - CPC.
+A decisão embargada está fundamentada e não há omissão a ser sanada. Isso porque no decisum consignou-se não ter o Tribunal de origem sido omisso na análise das controvérsias, que giravam em torno da atipicidade da conduta e da incidência da atenuante da confissão espontânea.
+Conclui-se, ainda, não ser possível modificar o acórdão recorrido, porque a tipicidade da conduta, a materialidade e autoria delitivas restaram evidenciadas pelas instâncias ordinárias, na medida em que o verbo exigir do tipo penal também significaria cobrar algo indevido em desconformidade com a legislação.
+E, no caso, concreto, a conduta imputada ao réu é de vincular produtos e serviços outros à operação de assistência financeira e cobrar o crédito que caberia ao cliente pela contratação da assistência financeira, incidindo no tipo penal descrito no art. 8º da Lei 7.492/86, já que essa exigência sobre a operação de crédito se enquadra na vedação do art. 4º, inciso IV, da Circular SUSEP n. 320, de 2 de março de 2006.
+Alexandre era responsável, no âmbito da SABEMI, pela supervisão das atividades administrativas e econômico-financeiras e pelo cumprimento da obrigação de atendimento à legislação.
+Assim, de fato, modificar as premissas adotadas pelo Tribunal de origem implica na incidência da Súmula n. 7/STJ, inexistindo omissão a ser sanada, mas inconformismo da parte.
+Ante o exposto, com fulcro no art. 264, § 1º, do RISTJ, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
