@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de IVO TOSHIUKI OTTA JUNIOR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o paciente foi condenado às penas de 4 meses de detenção como incurso no art. 129, § 9º, do Código Penal, e de 2 meses de prisão simples pela prática da contravenção penal prevista no art. 21 do Decreto- Lei n. 3.688/1941, ambas em regime inicial aberto.
+O impetrante sustenta, em síntese, que houve prescrição da pretensão punitiva na modalidade retroativa, pois, considerando a pena em concreto, já houve o transcurso do prazo prescricional entre a data do recebimento da denúncia e a publicação da sentença condenatória, motivo pelo qual deve ser reconhecida extinção da punibilidade do paciente, conforme o art. 107, IV, do Código Penal.
+Prossegue aduzindo que não existem elementos probatórios que justifiquem a condenação, reafirmando que o réu, em nenhum momento, praticou ilícito penal contra a vítima.
+Requer, liminarmente, que sejam suspensos os efeitos da sentença condenatória. No mérito, pugna pela concessão da ordem para reconhecer a prescrição da pretensão punitiva ou absolver o paciente pela inexistência de provas suficientes para condenação, nos termos do art. 386, VII, do Código de Processo Penal.
+Por meio da decisão de fls. 120-121, o pedido liminar foi indeferido.
+Opostos embargos de declaração (fls. 127-132), foi proferida decisão pela rejeição do recurso nas fls. 135-137.
+Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 165-175), bem como a manifestação do Ministério Público Federal, opinando pela denegação da ordem de habeas corpus (fls. 182-186).
+É o relatório.
+Esta Corte de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto, impondo-se o não conhecimento da impetração, sem prejuízo da concessão da ordem de ofício apenas nos casos de flagrante ilegalidade constatada no ato judicial impugnado.
+Observa-se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+Conforme relatado, requer a defesa o reconhecimento da extinção da punibilidade pela prescrição da pretensão punitiva, ao fundamento de que, "entre o recebimento da denúncia (23/11/2018) e a publicação da sentença condenatória (22/11/2021), transcorreu o período ao aludido lapso prescricional, de modo a resultar extinta a punibilidade" (fl. 10).
+Sobre o tema, assim se manifestou o Tribunal local (fl. 22):
+Aduz o apelante a incidência de prescrição na sua modalidade retroativa, em virtude de ter transcorrido mais de 3 (três) anos entre o recebimento da denúncia e a publicação da sentença.
+No entanto, razão não lhe assiste.
+Oportuno consignar, que tendo em vista que o réu foi condenado as penas inferiores a 1 (um) ano, as infrações prescrevem em 3 (três) anos, consoante o art. 109, inciso VI, do CP.
+O recebimento da denúncia se deu em 23/11/2018, enquanto a sentença foi publicada em 22/11/2021. Desse modo, não transcorreu o lapso temporal superior a 3 (três) anos entre as datas, sendo certo, assim, a não ocorrência do instituto prescricional. Nesse sentido, bem apontou a d. Procuradoria-Geral de Justiça:
+Logo, infere-se que não ocorreu a prescrição, visto que entre a data do recebimento da denúncia e a publicação da sentença condenatória transcorreu lapso temporal de aproximadamente 2 (dois) anos, 11 (onze) meses, e 28 (vinte e oito) dias, ou seja, não transcorreu lapso temporal superior ao prazo prescricional previsto para a pena impingida ao réu, qual seja, 03 (três) anos. Diante do exposto, não é caso de se reconhecer a prescrição e consequente extinção da punibilidade do Apelante.
+Correta, portanto, a análise do tema pelo Tribunal de Justiça.
+No caso dos autos, o paciente foi condenado a penas inferiores a 1 ano, de forma que incide o prazo prescricional previsto no inciso VI do artigo 109 do Código Penal, considerando prescrita a pretensão estatal quando decorrido lapso temporal superior a 3 anos. Até aqui, não há divergência.
+Entretanto, a defesa sustenta que, para contagem do prazo prescricional, devem ser incluídos tanto o dia do início (data de recebimento da denúncia) como o seu termo (data da publicação da sentença), entendimento que, no entanto, não prevalece.
+Isso porque, o prazo prescricional possui natureza material, de forma que, para contagem, inclui-se o dia de início, excluindo-se o dia do vencimento, nos exatos termos do que dispõe o art. 10 do CP:
+O dia do começo inclui-se no cômputo do prazo. Contam-se os dias, os meses e os anos pelo calendário comum.
+Assim, o lapso temporal de 1 ano, por exemplo, é contado do dia de início até a véspera do dia equivalente do ano seguinte.
+Voltando ao caso concreto, considerando que a denúncia foi recebida em 23/11/2018 e a publicação da sentença condenatória ocorreu em 22/11/2021, não se constata a ocorrência da prescrição, tendo em vista que a sentença foi publicada dentro das 24 horas de seu termo final.
+Em outras palavras, só poderia ser considerada prescrita a pretensão estatal caso a sentença tivesse sido publicada após a data final do prazo prescricional, ou seja, em 23/11/2021.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE COAÇÃO NO CURSO DO PROCESSO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. SENTENÇA PUBLICADA NO ÚLTIMO DIA DO PRAZO. ART. 10 DO CÓDIGO PENAL.
+1. "O prazo prescricional, cujo implemento enseja a extinção da punibilidade, é prazo penal, motivo pelo qual sua contagem observa a regra do art. 10 do Código Penal, a qual dispõe que, no cômputo do prazo, deve ser incluído o dia do começo e deve ser observado o calendário comum. Isso significa que "o prazo de um ano tem início em determinado dia e termina na véspera do mesmo dia do mês e ano subsequentes" (REsp 188.681/SC, Rel. Ministro Vicente Leal, Sexta Turma, julgado em 05/09/2000, DJ 25/09/2000)" (HC n. 481.561/SC, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/2/2019, DJe 1º/3/2019).
+2. Na espécie, tendo o recebimento da denúncia ocorrido em 3/7/2013, o lapso prescricional de 4 anos venceria, na linha da jurisprudência desta Corte, ao final do dia 2/7/2017. Entretanto, nesse mesmo dia, antes, portanto, do esgotamento total do prazo, a sentença foi publicada, interrompendo novamente o lapso, o que fez com que a prescrição não tenha, de fato, se consolidado, ainda que por uma questão de poucas horas.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.835.481/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/10/2019, destaquei.)
+No mais, no procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
