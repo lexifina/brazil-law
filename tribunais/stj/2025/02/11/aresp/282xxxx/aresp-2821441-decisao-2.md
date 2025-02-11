@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MULTA DIÁRIA FIXADA PARA CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. POSSIBILIDADE. MAJORAÇÃO. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE OBSERVADOS. LIMITAÇÃO DA INCIDÊNCIA DA ASTREINTE ACOLHIDA. DECISÕES PARCIALMENTE MANTIDAS. 1. É cabível a cominação de multa diária, a qual foi fixada a princípio em R$ 500,00 para o cumprimento de obrigação de fazer como forma de constranger a parte a satisfazer a determinação judicial, devendo ser mantido o valor quando não afrontar os princípios da razoabilidade e proporcionalidade, bem como devem ser mantidas as majorações do seu valor à vista do alto poder aquisitivo do recorrente e pelo fato do recorrente não cumprir a obrigação, mesmo intimado pessoalmente para tanto. 2. Trata-se, pois, de meio coercitivo disponível ao magistrado visando compelir a parte ao cumprimento da obrigação de fazer ou não fazer, configurando em medida eficaz a garantir a efetividade da determinação judicial. 3. A multa diária arbitrada em R$ 500,00 (quinhentos reais), a qual posteriormente foi majorada para R$ 10.000,00 e depois R$ 20.000,00, a qual deve ser limitada ao valor de R$ 250.000,00 (duzentos e cinquenta mil reais), pelo prazo de 30 dias. Como nas decisões recorrida esta questão não foi observada, a devida correção se impõe. 4. RECURSO CONHECIDO E PROVIDO EM PARTE" (e-STJ fl. 168).
+Nas razões do recurso especial, a agravante alega violação dos artigo 537, § 1º, I, do Código de Processo Civil e 884 do Código Civil, além de divergência jurisprudencial.
+Sustenta que não houve descumprimento da obrigação, não se justificando a aplicação de multa coercitiva.
+Defende, ainda, que a sanção foi fixada em valor demasiado oneroso, ocasionando o enriquecimento ilícito da autora e comprometendo a saúde financeira da recorrente.
+Após as contrarrazões (e-STJ fls. 150/160), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso dos autos, o Tribunal de origem deferiu tutela de urgência para que a operadora fornecesse o material necessário ao procedimento cirúrgico do recorrido, fixando multa cominatória diária de R$ 2.000,00. Após o descumprimento da determinação judicial, a multa foi majorada para R$ 20.000,00 (vinte mil reais).
+O autor propôs incidente de cumprimento provisório de sentença para obter o pagamento da multa. A recorrente interpôs agravo de instrumento insurgindo-se contra o pagamento das astreintes, sob a alegação se que não houve descumprimento da determinação judicial.
+O referido tópico foi julgado da seguinte forma pelas instâncias ordinárias:
+"(..)
+A decisão de fls. 103/104 fixou a "multa cominatória diária em R$2.000,00, incidente a partir do 5º (quinto) dia após a intimação da presente decisão, até o limite de R$ 30.000,00". O autor requereu a majoração da multa (fls. 138), o que foi indeferido às fls. 140. O Autor interpôs Agravo de Instrumento nº 2250287-46.2023.8.26.0000, julgado prejudicado.
+Às fls. 199/200, o Juízo a quo majorou a multa cominatória para R$ 20.000,00 e fixou prazo de 48 horas para o cumprimento da tutela de urgência anteriormente concedida.
+O autor propôs incidente de cumprimento provisório de sentença (autos de origem), requerendo a intimação da ré para pagamento da multa por descumprimento da obrigação, no valor de R$ 50.093,07.
+Pois bem.
+A Agravante foi intimada para cumprimento da obrigação de fazer, quedando-se inerte, com a majoração da multa, inexistindo indícios de que tenha cumprido a tutela de urgência até o presente momento.
+Portanto, é devida a multa por descumprimento da obrigação de fazer fixada pelo Juízo de origem, em razão da recalcitrância da ré no cumprimento da tutela de urgência.
+Cumpre esclarecer que a multa cominatória não possui natureza de punição, mas tão somente de medida legítima de coação, objetivando forçar o devedor a satisfazer prestação que deveria ser cumprida de forma espontânea.
+Desta forma, não é o caso de indenizar ou compensar o credor da obrigação pela mora, mas sim de desestimular a desobediência ao comando judicial, havendo legalidade e justa causa para sua manutenção.
+No caso dos autos, a multa foi inicialmente fixada em R$ 2.000,00 por dia de descumprimento de atraso, limitada a R$ 30.000,00, sendo posteriormente modificada para R$ 20.000,00, que se apresenta excessiva.
+Assim, as multas devem ser modificadas para o valor de R$ 1.000,00 por dia de descumprimento, limitado a R$ 30.000,00, buscando a razoabilidade e proporcionalidade" (e-STJ fls. 89/90).
+Com efeito, o óbice da Súmula nº 7/STJ impede que esta Corte modifique o acórdão recorrido tanto para excluir a aplicação das astreintes quanto para reduzir o seu valor, porquanto tais providências culminariam no revolvimento dos fatos e das provas dos autos.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COMBINADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE COLETIVO. MULTA DIÁRIA. VALOR. NECESSIDADE. REEXAME. SÚMULA Nº 7/STJ.
+1. Na espécie, rever as conclusões da Corte de origem quanto ao cabimento, à proporcionalidade e à razoabilidade do valor fixado por astreintes devido ao descumprimento de obrigação de fazer demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+2. Agravo interno não provido."
+(AgInt no AREsp n. 2.406.092/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. DETERMINAÇÃO JUDICIAL NÃO ATENDIDA. MULTA DIÁRIA. CABIMENTO. REDUÇÃO DO VALOR. ALTERAÇÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. O Tribunal de origem, com base nas circunstâncias e fatos postos a sua análise, constatou a recalcitrância da recorrente em cumprir determinação judicial de restabelecimento do serviço de telefonia interrompido injustificadamente pela pretensão de cobrança reconhecidamente descabida de valores superiores a R$ 200.000,00 (duzentos mil reais), de forma que a revisão do seu entendimento esbarra na Súmula nº 7 do STJ.
+4. A jurisprudência desta Corte tem se firmado no sentido de que a apreciação dos critérios previstos na fixação de astreintes implica o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte. Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante, o que não se configura neste caso. Agravo regimental improvido. (AgRg no AREsp 412.521/RJ, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 10/12/2013).
+5. Agravo interno não provido"
+(AgInt no AREsp 960.567/SP, Rel. Ministro Ministro Moura Ribeiro, Terceira Turma, julgado em 10/11/2016, DJe 21/11/2016).
+"PROCESSUAL CIVIL. MULTA PROPORCIONAL À DESOBEDIÊNCIA DO RECORRENTE EM ATENDER A DECISÃO JUDICIAL QUE FEZ A MULTA CHEGAR A UM VALOR MUITO ALTO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação de Restituição de valores, com pedido de indenização por danos materiais e morais, proposta pelo Município de Campo Alegre, ora recorrido, contra o Banco do Brasil S/A, ora recorrente, objetivando a devolução, em dobro, do valor depositado erroneamente em conta diversa da Fapem, onde deveria ter sido depositado o cheque de valor de R$ 128.116,81 (Cento e vinte e oito mil, cento e dezesseis reais e oitenta e um centavos), que estava nominal ao Fundo de Previdência Municipal (Fapem).
+2. O Tribunal a quo deu provimento à Apelação do Município de Campo Alegre e assim consignou na sua decisão: "Sendo assim, diante da analise da situação posta nestes autos, altera-se, neste ponto, a decisão proferida no Juízo do 1º grau, o qual arbitrou a multa diária no valor de RS 1.000,00 (mil reais), a fim de estabelecer o valor de 2.000,00 (dois mil reais), em virtude do flagrante descumprimento da decisão judicial, e considerando as condições financeiras da parte que resistiu ao imperativo judicial, outrossim, utilizando-se de parâmetros de razoabilidade. (fl. 630, grifo acrescentado).
+3. Esclareça-se que a incidência da multa depende exclusivamente do comportamento do recorrente, podendo até se tornar "excessiva" por sua própria desobediência, e não por ato do juiz, que, frise-se, apenas a fixou em patamar suficiente a ensejar o cumprimento da decisão, não desatendendo aos princípios da razoabilidade e proporcionalidade.
+4. In casu, a multa não foi fixada em valor exorbitante. Foi a desobediência do réu, ora recorrente, em atender à decisão judicial que fez a multa chegar a um valor muito alto. Ressalta-se que, somente após transcorridos 450 (quatrocentos e cinquenta) dias, mais de um ano, é que a decisão judicial foi atendida, conforme fl. 491.
+5. É assente o entendimento desta Corte de que só é admitida a revisão do valor da multa cominatória na hipótese em que ele tenha sido fixado em valor irrisório ou abusivo, o que não é o caso dos autos, como já se pronunciou o Tribunal de origem.
+(..)
+10. Agravo Regimental não provido"
+(AgRg no REsp 1.405.519/AL, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/2/2016, DJe 23/5/2016).
+Ante o exposto, conheço d o agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015) porque o recurso especial é oriundo de acórdão proferido em julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
