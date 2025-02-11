@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por GERLAN ANACLETO DE OLIVEIRA e OTAVIO RODRIGUES DE BRITO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do HC n. 0017506-47.2024.8.19.0000.
+Extrai-se dos autos que os recorrentes tiveram sua prisão temporária decretada, pendendo o mandado de cumprimento, nos autos do inquérito policial em que são investigados pela prática do crime de homicídio qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"HABEAS CORPUS. PRISÃO TEMPORÁRIA. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, DO CÓDIGO PENAL. PRETENSÃO DE REVOGAÇÃO DA PRISÃO TEMPORÁRIA POR AUSÊNCIA DOS REQUISITOS QUE AUTORIZAM A MEDIDA, TRATANDO-SE DE PACIENTES PRIMÁRIOS, COM BONS ANTECEDENTES, ENDEREÇOS FIXOS E OCUPAÇÃO LÍCITA, FALTA DE FUNDAMENTAÇÃO ADEQUADA PARA A PRISÃO E AUSÊNCIA DE PROVAS DA AUTORIA.
+Fundadas razões de autoria que foram devidamente descritas pela autoridade impetrada, de acordo com imagens captadas em câmeras de monitoramento do estabelecimento onde a vítima estava, momento em que os pacientes teriam sido identificados segurando a vítima.
+Existência de indícios de que os pacientes integrem grupo paramilitar que impõe sua autoridade na região e estaria envolvido no crime, capaz de amedrontar possíveis testemunhas, o que demonstra a imprescindibilidade da prisão.
+Excesso de prazo. Inocorrência. Pacientes foragidos. O prazo da custódia temporária só começa a fluir a partir da efetiva prisão.
+Ausência de ilegalidade ou abuso de poder a ser combatido. Ordem denegada. Unânime" (fl. 48).
+Opostos embargos de declaração, que foram rejeitados (fls. 85/89).
+No presente recurso, alega que o decreto prisional carece de fundamentação idônea e ressalta a inexistência de indícios de autoria.
+Sustenta a ausência dos requisitos da prisão temporária previstos na Lei n. 7.960/89.
+Requer, liminarmente e no mérito, a revogação da prisão temporária.
+A liminar foi indeferida às fls. 220/221. Informações prestadas às fls. 227/231, 232/236, 252/256 e 262/268. O Ministério Público Federal opinou pelo desprovimento do recurso às fls. 242/246.
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presente writ, a revogação da prisão temporária dos recorrentes .
+O Juiz de primeiro grau, mediante representação da autoridade policial, decretou a prisão temporária dos recorrentes nos seguintes termos:
+"Nesse sentido, constata-se pelos elementos de informação trazidos aos autos que a prisão cautelar requerida se afigura imprescindível para o bom andamento das investigações, pois, em que pese as diligências empreendidas pelos agentes da polícia civil terem viabilizado avanços na elucidação dos fatos e demonstrado fortes indícios de autoria em relação aos investigados, na fase em que se encontram as investigações, os mecanismos convencionais utilizados para o fornecimento de novos elementos de convicção têm se mostrado ineficazes, notadamente pelo fato de que as fontes testemunhais, funcionários da loja de materiais de construção já citada, demonstraram temor em prestar declarações e até mesmo em enviar imagens do fato, conforme frisado pela Autoridade Policial.
+Decerto, as imagens captadas pelas câmeras de segurança do estabelecimento onde a vítima foi arrebatada são claras, de modo que permitiram a identificação de três dos indivíduos que participaram da ação, mais ainda falta identificar o outro participante da empreitada e eventuais outros participantes, além da motivação do crime não restar ainda clara.
+Da mesma forma, trata-se de fatos atuais e a medida, à toda evidência, é adequada à gravidade concreta do crime, de modo que não se verifica que medidas cautelares diversas possam ser suficientes para assegurar o bom andamento das investigações.
+Assim, verifica-se que restou demonstrada a presença dos pressupostos exigidos pela Lei nº 7.960/89, de acordo com as balizas fixadas, em conformidade com a CRFB/88, por ocasião do julgamento das ADI"s 3360 e 4.109. " (fl. 52).
+O Tribunal de origem, ao manter a prisão temporária, consignou que:
+"A prisão temporária tem por objetivo assegurar a eficácia das investigações para que se possam colher elementos informativos capazes de subsidiar o oferecimento da denúncia, tendo como um de seus requisitos fundadas razões de autoria.
+As fundadas razões de autoria foram devidamente descritas pela autoridade impetrada, de acordo com imagens captadas em câmeras de monitoramento do estabelecimento onde a vítima estava, quando os pacientes foram identificados, conforme descrito na decisão vergastada: "existem indícios suficientes para embasar a prisão temporária dos investigados, notadamente pelas imagens dos indivíduos que entraram atrás da vítima em uma loja, onde se notou que o requerente Otávio Anacleto seria quem vestia uma camisa preta e segurava o braço da vítima, enquanto Otávio seria quem vestia uma camisa branca e segurava a vítima pelo outro braço"
+Além disso, constata-se a existência de indícios de que os pacientes integrem grupo paramilitar que estaria envolvido no crime, fato que seria capaz de amedrontar possíveis testemunhas, e vítimas, uma vez que o grupo impõe sua autoridade na região, razão pela qual a prisão se mostra imprescindível para que se possa realizar a investigação penal.
+Sendo por enquanto o reconhecimento por filmagens de câmeras imprescindível a presença física dos pacientes de forma a submetê-los as providencias do artigo 226 do Código de Processo Penal e daí mais evidente o cabimento da prisão temporária para ultimar a investigação" (fl. 54).
+No caso dos autos, verifico que a prisão temporária foi adequadamente motivada, pois fundamentada nas hipóteses previstas na legislação vigente, tendo em vista que há indícios da participação dos recorrentes em grupo paramilitar envolvido no delito de homicídio qualificado que está sendo apurado, recomendando-se a custódia cautelar, pois imprescindível para as investigações do inquérito policial.
+Nesse sentido, cito os seguintes julgados desta Corte:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO TEMPORÁRIA. PACIENTE APONTADO, EM TESE, COMO FORNECEDOR, DESTRUIU UM APARELHO CELULAR AO NOTAR A PRESENÇA DOS POLICIAIS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme o entendimento de que a "prisão temporária tem como objetivo assegurar a investigação criminal quando estiverem sendo apurados crimes graves expressamente elencados na lei de regência e houver fundado receio de que os investigados - sobre quem devem pairar fortes indícios de autoria - possam tentar embaraçar a atuação estatal." (RHC 144.813/BA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/08/2021, DJe 31/08/2021).
+2. No caso, o Relator da ação originária destacou que a prisão temporária foi embasada na imprescindibilidade da medida para a conclusão das investigações, destacando que o paciente apontado, em tese, como fornecedor, destruiu um aparelho celular ao notar a presença dos policiais.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 712.737/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/2/2022).
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO CONSUMANDO. PRISÃO TEMPORÁRIA. ÉDITO CONSTRITIVO SUFICIENTEMENTE FUNDAMENTADO. PRESENÇA DOS REQUISITOS AUTORIZATIVOS EXPRESSOS NA LEI N.º 7.960/1989. PACIENTE FORAGIDO. INQUÉRITO EM ANDAMENTO. PRECEDENTES DESTA CORTE SUPERIOR. ORDEM DE HABEAS CORPUS DENEGADA.
+1. O decreto de prisão temporária foi satisfatoriamente motivado pelo Juízo processante, pois consignou fatos concretos que revelam a imprescindibilidade da prisão do Paciente, a teor do disposto no art. 1.º, incisos I, II e III, alínea a, da Lei n. 7.960/1989.
+2. No caso, foi decretada a prisão temporária do Paciente, no dia 28/04/2020, nos autos do inquérito policial instaurado para apurar a prática de homicídio consumado, ocorrido em 31/05/2019. Ao que se tem dos autos, a Vítima foi torturada e morta a mando do Paciente, que é traficante, porque teria furtado entorpecentes.
+3. A jurisprudência do Superior Tribunal de Justiça, no sentido de que é possível decretar a prisão temporária quando imprescindível para as investigações do inquérito policial e houver indícios de autoria ou participação do indiciado em crime de homicídio, mormente em se tratando de delito de exacerbada gravidade, como no caso.
+4. Noticiado que o mandado de prisão encontra-se em aberto até a presente data, estando o Paciente na condição de foragido da justiça sem que tenha sido completamente elucidada a dinâmica dos fatos, evidenciada a necessidade da cautela determinada pelo Juízo condutor da investigação.
+5. Ordem de habeas corpus denegada.
+(HC n. 611.999/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020).
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a revogação da custódia cautelar dos recorrentes .
+Ante o exposto, com fundamento no art. 34, XX, c/c o art. 202 c/c o art. 246, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
