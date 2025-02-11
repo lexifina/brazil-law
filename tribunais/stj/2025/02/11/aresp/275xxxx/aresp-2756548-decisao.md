@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão (e-STJ fls. 436/438) que inadmitiu recurso especi al por aplicação da Súmula n. 7 do STJ.
+A  parte  agravante  refuta  os  fundamentos  da  monocrática  e  alega  o  cumprimento  de  todos  os  requisitos  legais  para  recebimento  do  especial  (e-STJ fls. 440/447).
+Foi apresentada contraminuta (e-STJ fls. 455/469).
+O acórdão recorrido está assim ementado (e-STJ fl. 175):
+AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. TITULARES DE CADERNETA DE POUPANÇA. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INDEFERIU O PEDIDO DE DILAÇÃO DE PRAZO E HOMOLOGOU OS CÁLCULOS APRESENTADOS PELO ASSISTENTE DO JUÍZO. ACERTO. AUTORIDADE COMPETENTE PARA DECIDIR SOBRE A SUFICIÊNCIA DO PRAZO. TESE DE EXCESSO DE EXECUÇÃO. REJEIÇÃO. ANÁLISE TÉCNICA DE PERITO JUDICIAL, IMPARCIAL E INDEPENDENTE. IMPOSSIBILIDADE DE REDISCUSSÃO DE MATÉRIAS JÁ DECIDIDAS EM CARÁTER DEFINITIVO. COISA JULGADA MATERIAL. ARTS. 502, 505, 507 E 508, TODOS DO CPC. MODIFICAÇÃO QUE SOMENTE PODE OCORRER VIA AÇÃO RESCISÓRIA. PRECEDENTES DO STJ: RESP 531.263/SC E RESP 1190094/SP. MANUTENÇÃO DA DECISÃO RECORRIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 337/345).
+No recurso especial (e-STJ fls. 347/361), fundamentado no art. 105, inc. III, alínea "a", da CF, a parte apontou ofensa aos seguintes dispositivos legais, sob as respectivas teses:
+(I) arts. 489, § 1º, inc. IV, e 494, inc. I, do CPC, sustentando que "o indeferimento de concessão de prazo obstou o Recorrente em delinear erros materiais contidos no laudo pericial, cuja matéria não é passível de preclusão, como bem preconiza o artigo 494, inciso I do Código de Processo Civil.  ..  O indeferimento de concessão de prazo, não foi sequer fundamentado, o que certamente denota a violação ao artigo 489, §1º, inciso IV, do Código de Processo Civil, pois mesmo que hajam diversas ações que tratam sobre expurgos inflacionários, cada uma possui sua peculiaridade, conforme o caso em comento, que possui erro de cálculo" (e-STJ fl. 360), e
+(II) art. 505 do CPC, afirmando que "o presente feito, comporta o afastamento da aplicação do dispositivo de lei que determina que o juiz não decidirá novamente as questões já apreciadas, pois se trata de alegação de excesso de execução, derivado de erro de cálculo, ou seja, matéria não sujeita à preclusão, nos termos do artigo 494, inciso I, do Código de Processo Civil" (e-STJ fl. 358).
+Foram oferecidas contrarrazões (e-STJ fls. 418/435).
+É o relatório.
+Decido.
+Apesar de provocado pela petição de embargos de declaração (e-STJ fls. 208/220), o Tribunal a quo não se pronunciou sobre o conteúdo normativo do artigo 494, inc. I, do CPC, sob o enfoque do argumento desenvolvido pelo recorrente. Assim, caberia à parte suscitar e demonstrar a contrariedade ao inc. II do art. 1.022 do CPC nas razões do especial, pedindo a anulação do acórdão recorrido em virtude da omissão quanto ao tema. Não adotadas as medidas processuais cabíveis, impõe-se a aplicação da Súmula n. 211 do STJ e, por analogia, da Súmula n. 282 do STF, ao conhecimento de ambas as irresignações.
+Ademais, o Tribunal recorrido acertadamente asseverou que, "quanto às condutas descritas no art. 489, § 1º, do CPC, é importante esclarecer que, de acordo com a jurisprudência pacífica do Superior Tribunal de Justiça, o Magistrado não está obrigado a responder, pormenorizadamente, a todo e cada um dos argumentos lançados pela parte quando já encontrar fundamento suficiente e necessário à sua decisão" (e-STJ fl. 340).
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. FALHA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. CERCEAMENTO DE DEFESA INEXISTENTE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. CORREÇÃO MONETÁRIA E JUROS DE MORA. DATA DO PEDIDO DE RECUPERAÇÃO JUDICIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial.
+II. Razões de decidir
+2. Inexiste afronta ao art. 489 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+III. Dispositivo
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.618.723/SP, de minha relatoria, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Incide a Súmula n. 83 do STJ, aplicável aos recursos interpostos com base tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+Afora isso, o acórdão recorrido decidiu que (e-STJ fls. 178/179):
+10 Ao analisar a decisão agravada, verifico que o juiz singular, para indeferir a dilação do prazo, entendeu que "foi concedido prazo suficiente para o banco executado se manifestar", análise esta que somente pode ser feita pelo próprio juiz processante que, de acordo com o CPC, é a autoridade competente para, por arbítrio e livre convencimento, determinar se o prazo regular concedido para a prática de determinado ato processual deve, ou não, ser dilatado.
+ ..
+13 Quanto à alegação de que os argumentos do Banco não foram enfrentados, o que, em última análise, equivale a um pedido do executado para que seja reconhecido excesso de execução, registro que tem sido reiterada a tentativa do Banco do Brasil de, neste e noutras centenas de recursos que tratam desta matéria, tentar modificar os termos já decididos pela sentença executada, prática que tem sido firmemente rechaçada por este Tribunal, em consolidada jurisprudência.
+14 Tal conclusão se mostra ainda mais robusta quando, no presente caso, respaldada pela análise técnica de perito judicial, imparcial e independente, cujos cálculos foram homologados acolhidos e homologados.
+15 Além disso, registro que as questões debatidas no presente recurso já se encontram preclusas graças ao trânsito em julgado do Agravo de Instrumento nº 0801504-84.2017.8.02.0000, em que, além da atualização da dívida, ficaram preclusas também as questões relativas a competência jurisdicional para o julgamento do presente cumprimento de sentença. Explico. Da compulsa dos autos, verifica-se que o juízo de primeiro grau proferiu decisão que julgou o procedimento de liquidação individual por procedimento comum, condenando o banco agravante a pagar aos titulares de cadernetas de poupança a diferença existente de 42,72%, com as devidas correções monetárias e juros, nos parâmetros delineados pela jurisprudência do STJ.
+16 Em desfavor da aludida sentença de liquidação, que pôs fim ao procedimento cognitivo de liquidação por procedimento comum e condenou o banco ao pagamento de quantia certa e líquida, cabível aos poupadores substituídos nestes autos, fora interposto Agravo de Instrumento de n.º 0800812-51.2018.8.02.0000, tendo esta Corte de Justiça mantido incólume todos os aspectos da sentença de liquidação, com exceção da determinação de exclusão dos juros remuneratórios, eventualmente acrescidos nos cálculos homologados.
+17 Irresignado, o banco interpôs Recurso Especial contra o do referido acórdão que foi inadmitido pela Presidência deste Tribunal. Diante da inadmissão do recurso especial, fora apresentado Agravo (AREsp nº 1. 423.608/AL) para o STJ que, por sua vez, também negou conhecimento ao Recurso, vindo, portanto, a transitar em julgado a sentença de liquidação.
+A alteração do desfecho conferido ao processo sobre o tema demandaria análise do conteúdo fático-probatório dos autos, circunstância que atrai a Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
