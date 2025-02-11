@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (e-STJ fls. 271/276).
+O acórdão recorrido está assim ementado (e-STJ fl. 99):
+AGRAVO DE INSTRUMENTO. TRANSPORTE MARÍTIMO. DESCARREGAMENTO DE CARGA EM QUANTIDADE INFERIOR À IMPORTADA. PRAZO DECADENCIAL PARA RECLAMAÇÃO À TRANSPORTADORA. ART. 754 DO CÓDIGO CIVIL.
+Na forma do artigo 754 caput e parágrafo único do Código Civil, o prazo decadencial para que o destinatário da carga apresente ao transportador reclamações fundadas em perda parcial ou avaria da carga é de dez dias. No caso, a agravada, em contrarrazões, admite que nao enviou notificação extrajudicial ao agravante, alegando que a discrepância do peso documental e do peso auferido no momento do descarregamento dos contêineres deve ser considerada a denúncia da carga. Todavia, os documentos acostados não podem ser considerados como notificação ou instrumento coincidente, capaz de sinalizar a diferença entre a quantidade da mercadoria contratada e a descarregada no local de destino. Logo, não houve a efetiva notificação sobre a falta da carga, devendo ser reconhecida a implementação da decadência prevista no artigo 754 do CPC.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 190/191).
+Nas razões do recurso especial (e-STJ fls. 199/217), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou violação dos arts. 754, parágrafo único, do CC e 3º do Decreto Lei n. 116/1967, além de dissídio jurisprudencial, alegando que "o reconhecimento, pelo Tribunal a quo, de que não teria como o Recorrido ter conhecimento de perda parcial da carga em momento anterior a entrega do contêiner na Estação Aduaneira de Caxias do Sul/RS, transparece que essa Corte, data vênia, aplicou indevidamente o disposto no art. 754 do Código Civil e feriu direta e expressamente o art. 3º do Decreto-Lei n.º 116/1967, ao caso em tela. O transporte marítimo foi concluído no porto de Rio Grande e, a partir daí, deveria correr o prazo decadencial" (e-STJ fl. 214).
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 239/267).
+No agravo (e-STJ fls. 285/302), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 306/321).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir dos embargos de declaração (e-STJ fls. 156/157):
+Embora reconhecido, em um primeiro momento, o implemento do prazo decadencial do direito da parte autora de reclamar pelas avarias da carga transportada, verifica-se que, no decurso da demanda, após proferida a decisão extintiva (Evento 29), a parte agravada trouxe aos autos documento que, segundo alega, caracteriza a denúncia exigida pelo art. 754, parágrafo único do Código Civil.
+Tratando-se de fato superveniente, nos termos do art. 493, do CPC, cabe ao julgador levá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão.
+(..)
+Outrossim, na linha dos precedentes do STJ, mostra-se possível a alegação de fato superveniente mesmo durante a tramitação dos processos no âmbito dos tribunais.
+Com efeito, tendo sido preservado o contraditório e a ampla defesa, na medida em que a embargada Evergreen teve a oportunidade de se manifestar a respeito das alegações e dos documentos trazidos pela parte embargante no Evento 36, possível a apreciação dos fatos supervenientes nos presentes aclaratórios.
+No caso em tela, a embargante S A S Plastic acostou troca de e-mails datada de 11/02/2021 entre seu preposto e representantes da embargada Evergreen (Evento 36, NOT3 do presente recurso).
+Tais mensagens, segundo alega, representariam a denúncia tempestiva da perda parcial da carga transportada, motivo pelo qual não haveria falar em decadência do direito de reclamação, nos termos do art. 754 do Código Civil.
+A primeira mensagem foi enviada às 11h21min para a terceira GRIEG, tendo sido encaminhada para a própria Evergreen às 11h39min do mesmo dia. Esta, por seu turno, manifestou ciência da notificação às 14h42min da referida data.
+Sublinho, outrossim, que o contêiner foi descarregado em 22/01/2021, tendo permanecido por cerca de vinte no terminal portuário. Vinte dias depois, em 11/02/2021, foi recebido na Estação Aduaneira de Caxias do Sul, momento em que a parte autora alega ter tomado conhecimento acerca da suposta perda parcial da carga nele contida.
+Logo, considerando que a entrega da mercadoria ocorreu em 11/02/2021 e que as mensagens de protesto foram enviadas pela parte autora à requerida Evergreen no mesmo dia, não há falar em decadência do direito, posto que devidamente respeitado o prazo legal pela contratante do transporte.
+Finalmente, registro que, na linha da jurisprudência do STJ, não se mostra necessária uma denúncia formal acerca da verificação de avarias ou perda da carga, bastando que tal informação seja prestada oportuna e documentalmente à transportadora.
+A Corte local concluiu que, considerando que a entrega da mercadoria ocorreu em 11/02/2021 e que as mensagens de protesto foram enviadas pela parte autora à requerida, Evergreen, no mesmo dia, não há falar em decadência do direito, porque devidamente respeitado o prazo legal pela contratante do transporte. A alteração do decidido pelo colegiado implicaria inadequada reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+Em referência ao dissídio jurisprudencial, "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
