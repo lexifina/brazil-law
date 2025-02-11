@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por WELLINGTON SANTOS SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido na Apelação Criminal n. 1530552-63.2023.8.26.0228, assim ementado (fl. 235):
+Apelação Criminal. Tráfico de drogas (Artigo 33, caput, da Lei nº 11.343/06). Sentença absolutória. Insurgência ministerial. Preliminar de inadmissibilidade recursal repelida. Materialidade e autoria comprovadas. Credibilidade dos relatos dos agentes de segurança. Depoimentos em harmonia com o conjunto probatório. Condenação que se impõe. Dosimetria. Particularidades do caso concreto que autorizam a fixação da pena-base acima do mínimo legal. Reincidência configurada. Fixação do regime inicial fechado. Sentença reformada. Recurso provido.
+O Juízo de primeiro grau, com fundamento no art. 386, inciso VII, do Código de Processo Penal, absolveu o acusado da prática do crime descrito nos artigos 33, caput, da Lei n. 11.343/2006 (fls. 139-144).
+A Corte de origem deu provimento ao apelo do Ministério Público a fim de condenar o acusado, nos termos da denúncia, a 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão, em regime inicial fechado, além de 777 (setecentos e setenta e sete) dias-multa (fls. 234-252).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa alega violação dos art. 42 da Lei n. 11.343/06 e 59 do Código Penal, ao argumento de que o incremento da pena-base na fração de 1/3 (um terço) pelo desvalor de duas circunstâncias judiciais, é injustificado e excessivamente rigoroso.
+Pondera que o dano causado aos usuários de droga já é elementar do tipo e que a quantidade apreendida, aproximadamente 200g (duzentos gramas) de cocaína e maconha, não é significativamente relevante para autorizar a majoração de pena basilar.
+Contrarrazões às fls. 281-286.
+O recurso especial foi admitido (fls. 290-291).
+A Procuradoria-Geral da República manifestou-se pelo não provimento do recurso especial (fls. 301-304).
+É o relatório.
+DECIDO.
+A pretensão recursal está circunscrita à dosimetria. Sustenta a Parte recorrente que a quantidade de droga apreendida - vale dizer, 124,1 (cento e vinte e quatro gramas e um decigrama) de cocaína e 83,5g (oitenta e três gramas e cinco decigramas) de maconha, não justificam a majoração da pena basilar e que a fração de acréscimo é desproporcional.
+Nesse particular, o acórdão encontra-se assim fundamentado (fls. 244 - grifamos):
+Na primeira fase, nos termos do artigo 59, caput, do Código Penal c. c. artigo 42 da Lei de Drogas, tendo em vista a elevada quantidade e natureza das drogas apreendidas, de alto potencial devastador para a saúde, bem como os antecedentes criminais ostentados (fls. 91/94 proc. nº 0001134-34.2016, 0044412-56.2006 e 0077023-91.2008), de rigor a exasperação do mínimo legal em 1/3, pelo que fica a pena-base fixada em 06 (seis) anos e 08 (oito) meses de reclusão e 666 (seiscentos e sessenta e seis) dias-multa.
+Como se sabe, o sistema legal de fixação da reprimenda idealizado por Nelson Hungria e positivado no art. 68 do Código Penal confere ao Magistrado certa discricionariedade para que possa dar concretude ao princípio da individualização da pena - art. 5º, inciso XLVI, da Constituição Federal.
+Diante de tal premissa jurídica, a jurisprudência desta Corte Superior fixou-se no sentido de que a sua intervenção, na matéria, é excepcional e se restringe a situações em que evidenciada flagrante ilegalidade na concretização da pena.
+No caso dos autos, a fixação da pena-base em patamar superior ao mínimo legal decorreu dos maus antecedentes ostentados pelo acusado e da quantidade e va riedade de droga apreendidas.
+Do cotejo entre os fundamentos do acórdão recorrido com as razões do recurso especial, constata-se que o Tribunal de origem não apreciou as teses referentes ao alegado bis in idem ou da inexpressividade da quantidade de droga apreendida, não tendo o Recorrente oposto os embargos de declaração, o que evidencia a ausência do indispensável prequestionamento e, por conseguinte, atrai os óbices das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido: AgRg no REsp 2114650/PR, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024 e AgRg nos EDcl no AREsp 1619760/PE, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.
+No mais, reconhecida a presença de duas circunstâncias judiciais, o aumento da pena-base na fração de 1/6 (um sexto) para cada uma delas não se reputa excessivo. Ao contrário, reflete exatamente
+De acordo com a jurisprudência desta Corte Superior de Justiça,
+considerando o silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada, e outro de 1/8 (um oitavo), a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador.  ..  (AgRg no HC n. 927.274/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/12/2024, DJe de 23/12/2024).
+Tais peculiaridades fáticas não evidenciam ilegalidade patente na dosimetria e, portanto, não autorizam a atuação revisora excepcional conferida, no ponto, a esta Corte Superior.
+Incide no ponto, portanto, a Súmula n. 568/STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
