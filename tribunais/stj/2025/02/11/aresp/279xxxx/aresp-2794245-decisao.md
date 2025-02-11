@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por Ednan Pinto De Araujo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fls. 229/230):
+PROCESSUAL CIVIL. AGRAVOS INTERNOS. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA PROFERIDA NA APELAÇÃO CÍVEL. DECISÃO AGRAVADA EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. AUSÊNCIA DE ARGUMENTOS NOVOS. DECISÃO MANTIDA.
+1. A ausência de argumentos capazes de infirmar os fundamentos que alicerçaram a decisão agravada enseja o desprovimento do agravo interno interposto (STJ - AgInt no REsp: 1757715 BA 2018/0193696-7, Relator: Ministro PAULO DE TARSO SANSEVERINO, Data de Julgamento: 19/10/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 27/10/2020).
+2. No caso dos autos, a parte agravante, Ednan Pinto de Araújo, alega que a decisão guerreada merece reforma, considerando que "..o Tribunal de Justiça ao julgar o recurso de Apelação não fixou os honorários de sucumbência recursais, conforme preconiza o art. 85, § 1º, do CPC." e que "por se tratar a hipótese em análise de sentença ilíquida, somente poderão ser arbitrados após a liquidação do julgado, o que entendo não merecer acolhida, uma vez que o juiz sentenciante fixou os honorários advocatícios de sucumbência em 10% (dez por cento) do valor da condenação e a decisão recorrida, ao negar provimento ao recurso de apelação, fez a ressalva de que a sentença guerreada fica mantida em todos os seus termos, o que, por corolário lógico, abrange o valor fixado a título de honorários, além de que o magistrado de origem fixou o percentual da verba honorária considerando os valores discutidos nos autos, quais sejam, os não pagos ou pagos a menor pelo Município de Imperatriz à parte agravante referentes ao benefício auxílio-alimentação, concernentes a alguns meses dos anos de 2017e 2018, identificados claramente nas fichas financeiras coligidas aos autos (Id. 22706569, págs.5/8), e cujo montante, segundo o próprio servidor recorrente, é no total de 1.350,00 (Id.22706568, pág.3). Ademais, as matérias questionadas nos agravos internos foram devidamente analisadas e fundamentadas na decisão agravada.
+3. Agravos internos desprovidos.
+Opostos embargos declaratórios, foram rejeitados (fls. 273/279).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 85, §§ 1º, 2º e 3º, do CPC. Sustenta, em suma, não ter havido a majoração dos honorários recursais pelo Tribunal de origem, apesar de a parte adversa ter sido sucumbente.
+Por meio da decisão de fls. 315/316, o Tribunal de origem, verificando que o recurso especial aviado tratava exclusivamente de honorários advocatícios, e que o patrono da recorrente pleiteou a concessão da gratuidade de justiça, intimou-o para comprovação dos requisitos para a concessão da benesse ou o recolhimento simples das custas devidas.
+Contudo, o referido causídico não comprovou a hipossuficiência econômica nem recolheu as custas recursais devidas, motivo pelo qual o TJMA, em decisão de admissibilidade (fls. 325/328), não conheceu do reclamo, em virtude da deserção, aplicando a Súmula 187/STJ.
+Irresignado, aduz a agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Com efeito, é certo que a parte recorrente, no ato da interposição do recurso
+especial, deve comprovar o recolhimento do preparo, bem como dos valores exigidos pelo Tribunal de origem.
+A jurisprudência deste Tribunal Superior firmou-se no sentido de que "a ausência de regular comprovação do preparo, no ato de interposição do recurso, implica a incidênc ia do § 4º do art. 1.007 do CPC/2015. Quem não prova o pagamento a tempo e modo, sem o amparo de justa causa (§ 6º), nem efetua o recolhimento em dobro quando intimado (§§ 4º e 5º), sofre a pena da deserção (Súmula 187/STJ)" (AgInt no REsp 1.856.622/RS, Rel. o Ministro Og Fernandes, Segunda Turma, julgado em 15/06/2020, DJe 24/06/2020).
+Na hipótese dos autos, a Vice-Presidência do Tribunal de Justiça do Estado do Maranhão constatou que o recurso especial não estava acompanhado da comprovação do pagamento das custas devidas ao TJMA, sendo o insurgente intimado a regularizar o vício (fls. 315/316).
+Aberto prazo para tanto, a determinação não foi cumprida, configurando-se, portanto, a deserção.
+Assim, não sendo sanado o defeito constatado no preparo, é impositivo o
+desprovimento do agravo em recurso especial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
