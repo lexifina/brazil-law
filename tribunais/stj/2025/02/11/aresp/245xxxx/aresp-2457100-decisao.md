@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE para impugnar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+A questão debatida nestes autos foi analisada pelo Superior Tribunal de Justiça quando do julgamento dos Recursos Especiais 1.937.887/RS e 1.937.891/RJ, sob o rito de recursos repetitivos, oportunidade em que foi firmada a seguinte tese de revisão do Tema 414/STJ:
+1. Nos condomínios formados por múltiplas unidades de consumo (economias) e um único hidrômetro é lícita a adoção de metodologia de cálculo da tarifa devida pela prestação dos serviços de saneamento por meio da exigência de uma parcela fixa ("tarifa mínima"), concebida sob a forma de franquia de consumo devida por cada uma das unidades consumidoras (economias); bem como por meio de uma segunda parcela, variável e eventual, exigida apenas se o consumo real aferido pelo medidor único do condomínio exceder a franquia de consumo de todas as unidades conjuntamente consideradas.
+2. Nos condomínios formados por múltiplas unidades de consumo (economias) e um único hidrômetro é ilegal a adoção de metodologia de cálculo da tarifa devida pela prestação dos serviços de saneamento que, utilizando-se apenas do consumo real global, considere o condomínio como uma única unidade de consumo (uma única economia).
+3. Nos condomínios formados por múltiplas unidades de consumo (economias) e um único hidrômetro é ilegal a adoção de metodologia de cálculo da tarifa devida pela prestação dos serviços de saneamento que, a partir de um hibridismo de regras e conceitos, dispense cada unidade de consumo do condomínio da tarifa mínima exigida a título de franquia de consumo.
+De acordo com o disposto no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, em situações em que o recurso versa sobre a mesma controvérsia objeto de recursos repetitivos já julgados, os autos devem retornar ao Tribunal de origem para que seja providenciado o juízo de conformação:
+Art. 34. São atribuições do relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Ressalto que a Primeira Seção desta Corte Superior tem posicionamento consolidado de não ser "necessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em recurso repetitivo ou com repercussão geral" (AgInt no PUIL 1.494/RS, relator Ministro Herman Benjamin, Primeira Seção, DJe de 9/9/2020).
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
