@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESTADO DO RIO GRANDE DO SUL contra decisão assim ementada (fl. 542, e-STJ):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+O embargante sustenta que há omissão e erro de fato na decisão, argumentando que "se mostra manifesto o descabimento do apelo da parte adversa, dado que a questão suscitada foi devidamente resolvida, ante a existência de demanda individual julgada improcedente com trânsito em julgado posterior ao ajuizamento da ação coletiva, fato esse reconhecido pelo recorrente e devidamente demonstrado nos autos" (fl. 550, e-STJ). Aduz que "há clara omissão na decisão embargada ao não levar em consideração a existência de coisa julgada em ação individual, e a consequente produção de todos os efeitos, inviabilizando a presente pretensão da parte adversa de rediscussão da matéria" (fl. 551, e-STJ).
+Com impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada não foi obscura, omissa, contraditória, tampouco apresentou erro material, tendo resolvido a controvérsia ao assentar que a Corte de origem não se manifestou sobre a existência ou não de expressa intimação do Juízo sobre o ajuizamento da ação coletiva, para que os recorrentes pudessem requerer a suspensão do feito no prazo de trinta dias a teor do que garante o artigo 104 do CDC, nem acerca da necessidade ou não de intimação expressa dos demandantes, nos autos da ação individual, para requererem a suspensão do feito, a teor do que prescreve o artigo 104 do CDC, com vista ao aproveitamento da decisão da ação coletiva, acolhendo o recurso especial quanto à ofensa ao artigo 1.022 do CPC/2015, tornando nulo o acórdão proferido em sede de embargos de declaração e determinado o rejulgamento dos aclaratórios pelo Tribunal a quo.
+Não há, portanto, irregularidade a ser sanada por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
