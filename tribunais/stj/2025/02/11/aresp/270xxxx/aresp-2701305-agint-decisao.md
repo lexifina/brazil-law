@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de Agravo Interno interposto pela DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO, em face de decisão monocrática que não conheceu de Agravo em Recurso Especial, sob o fundamento de ausência de impugnação específica aos motivos da decisão que inadmitiu o Recurso Especial, em especial quanto à incidência da Súmula 7/STJ nas supostas violações aos arts. 95, § 5º, e 492 do CPC/2015.
+Entretanto, a Agravante sustenta que o agravo em recurso especial efetivamente impugnou a incidência da Súmula 7/STJ, demonstrando que as alegadas violações aos arts. 95, § 5º, e 492 do CPC/2015 decorrem de questões eminentemente jurídicas, sem necessidade de revolvimento fático-probatório. Ademais, argumenta que a decisão do Tribunal de origem ao inadmitir o Recurso Especial não especificou de forma adequada onde e como haveria necessidade de reexame de fatos e provas, tornando impossível uma impugnação mais detalhada nesse aspecto. Por fim, requer a reconsideração da decisão monocrática ou, caso mantida, o provimento do presente Agravo Interno, para que seja conhecido e provido o Recurso Especial.
+É o relatório. Decido.
+Tem razão a agravante, em sua argumentação trazida no agravo interno. Feita uma atenta leitura dos autos, especialmente do acórdão recorrido e do recurso especial, entendo que o tema merece análise mais aprofundada. Com efeito, diante das peculiaridades do caso concreto, verifica-se que o tema merece melhor análise.
+Ante o exposto, com fulcro nos arts. 1.021, § 2º, do CPC, c/c 259 e 253, parágrafo único, II, "d", do RISTJ, conheço do agravo interno para, em juízo de retratação, tornar sem efeito a decisão de fls. 219 - 222, por conseguinte, conheço do Agravo em Recurso Especial para determinar a sua atuação como Recurso Especial.
+Façam-se as anotações necessárias.
+Publique-se. Intimem-se.
+EMENTA
