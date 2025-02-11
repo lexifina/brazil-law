@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 05/02/2025 a 11/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO RITO DA REPERCUSSÃO GERAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão na qual apreciado recurso extraordinário.
+1.2. O acórdão embargado aplicou o entendimento firmado pelo STF, que regula a aplicação do rito da repercussão geral.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões adotadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão adotada. Constata-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos contra acórdão assim ementado (fls. 6.638-6.639):
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob o fundamento de que o acórdão recorrido estaria em conformidade com a tese fixada pelo STF no Tema n. 339 da repercussão geral.
+1.2. A parte agravante alegou a inaplicabilidade do Tema n. 339 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A existência de afronta ao art. 93, IX, da Constituição Federal quando se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+A parte embargante defende que "a decisão impugnada pelos Embargantes, diante das relevantes questões que foram omitidas no Acórdão, não se reveste de atributos para ser considerada como concisa, mas sim incompleta e a aplicação da Tese adotada no Tema 339 do STF deveria ser a favor dos Embargantes, considerando a redação da primeira parte do Tema 339 do STF, nunca para negar seguimento ao recurso extraordinário" (fl. 6.646).
+Aduz que teria havido usurpação de competência do STF.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. APLICAÇÃO DO RITO DA REPERCUSSÃO GERAL. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão na qual apreciado recurso extraordinário.
+1.2. O acórdão embargado aplicou o entendimento firmado pelo STF, que regula a aplicação do rito da repercussão geral.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões adotadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão adotada. Constata-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+VOTO
+2. De início, no que se refere à alegação de usurpação de competência do Supremo Tribunal Federal, nos termos do art. 1.030, I, a, do Código de Processo Civil, o Tribunal de origem, em juízo de admissibilidade recursal, exerce competência própria ao negar seguimento aos recursos extraordinários pela sistemática da repercussão geral (arts. 1.030 e seguintes do CPC).
+Nesse sentido:
+AGRAVO INTERNO. RECLAMAÇÃO. OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. CABIMENTO DO AGRAVO INTERNO. RE N. 632.853/CE - TEMA N. 485. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. ART. 1.030, I, DO CPC. EXERCÍCIO DA COMPETÊNCIA DAS CORTES DE ORIGEM. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. NÃO CABIMENTO DA RECLAMAÇÃO CONSTITUCIONAL.
+1. O Juízo reclamado, ao obstar seguimento ao agravo interno interposto contra a decisão pela não admissão do apelo extremo, utilizou precedentes de repercussão geral que guardam similitude e adequação com a espécie dos autos. Usurpação da competência desta Suprema Corte não demonstrada.
+2. Agravo interno a que se nega provimento, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.
+(Rcl n. 38.945-AgR, relatora Ministra Rosa Weber, Primeira Turma, julgado em 15/4/2020, DJe de 13/5/2020.)
+3. No mais, o art. 1.022 do Código de Processo Civil define as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) erro material.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+Desse modo, afirmou-se ser inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF, de observância obrigatória (CPC, art. 927, III), uma vez que foi demonstrada a realização da prestação jurisdicional constitucionalmente adequada, mesmo que não se concorde com a solução dada à causa.
+Portanto, inexistindo vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+4. Ante o exposto, rejeito os embargos de declaração.
+Advirto, desde logo, que reiterados embargos de declaração dessa natureza serão sancionados com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
