@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 05/02/2025 a 11/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. EMBARGOS DE DIVERGÊNCIA INTERPOSTOS CONTRA ACÓRDÃO QUE JULGOU EMBARGOS DE DECLARAÇÃO. INADMISSIBILIDADE. PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA.
+1. Não há como abrigar agravo interno que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Landytex Indústria Comércio e Representações Ltda. Falido, Lindolfo Landeira, e Dulce Jesky Landeira contra a decisão da Presidência do Superior Tribunal de Justiça (fls. 569/571) que indeferiu liminarmente os embargos de divergência pelo fato de ser inviável o manejo recursal para discutir o acerto da aplicação dos arts. 1.022 e 1.026 do CPC.
+Alega a parte agravante (fls. 575/585) que foi demonstrado o cabimento dos embargos de divergência, pois a única verificação a ser feita no acórdão paradigma e no objeto dos embargos de divergência é acerca da necessidade de que sejam analisados todos os fundamentos expostos pela parte (fl. 578).
+Sustenta que os acórdãos confrontados versam acerca da mesma questão, haja vista que discutem o direito da parte em ter garantida a análise de todas as questões expostas por ela, bem como a realização do prequestionamento da matéria.
+Assevera que o STJ entende descabia a imposição da multa prevista no parágrafo 2º do art. 1.026 do CPC quando ausente o intuito protelatório e evidenciada a finalidade de prequestionamento nos embargos de declaração.
+Afirma que, ao deixar de observar os fundamentos expostos pela então agravante, houve violação do disposto nos arts. 93, IX, e 5º, LV da Constituição Federal.
+A parte agravada pugnou pelo desprovimento do recurso (fls. 589/595).
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. EMBARGOS DE DIVERGÊNCIA INTERPOSTOS CONTRA ACÓRDÃO QUE JULGOU EMBARGOS DE DECLARAÇÃO. INADMISSIBILIDADE. PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA.
+1. Não há como abrigar agravo interno que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo interno improvido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que a agravante não logrou desconstituir seu fundamento, motivo pelo qual a trago ao Colegiado para ser confirmada.
+Destaco que a decisão agravada indeferiu liminarmente os embargos de divergência haja vista que a jurisprudência pacificada desta Corte consolidou-se no sentido de ser inviável o manejo de Embargos de Divergência para discutir o acerto ou desacerto da aplicação dos arts. 1.022 e 1.026 do CPC, em razão das situações fáticos-processuais diferenciadas e da necessidade de análise individualizada de cada caso concreto (fl. 569).
+Em que pese o esforço argumentativo da parte agravante, é pacífico na jurisprudência desta Corte que não é admitida a interposição de embargos de divergência contra acórdão que julgou embargos de declaração, porque a aferição dos vícios elencados no art. 1.022 do Código de Processo Civil constitui medida afeta às especificidades do caso concreto, o que impossibilita a demonstração da similitude fático-jurídica entre os arestos confrontados, de modo a autorizar a uniformização pretendida (AgInt nos EDcl nos EDv nos EAREsp n. 1.359.696/SP, Ministro Jorge Mussi, Corte Especial, DJe 7/12/2020). Em idêntico sentido: AgInt nos EAREsp n. 1.685.009/DF, Ministro Paulo de Tarso Sanseverino, Corte Especial, DJe 3/10/2022; e AgInt nos EAREsp n. 1.461.425/SP, Ministra Laurita Vaz, Corte Especial, DJe 23/11/2020.
+Desse modo, é inviável o manejo de embargos de divergência quando os acórdãos confrontados não apresentam identidade de circunstâncias fáticas que permitam a contraposição de teses jurídicas consideradas abstratamente. (AgInt no AgInt nos EDcl nos EAREsp n. 2.046.368/SC, Ministro Og Fernandes, Corte Especial, DJe 26/10/2023).
+Ademais, não é possível acolher os embargos de declaração opostos com o objetivo de prequestionar matéria constitucional, já que o exame de constitucionalidade, em sede de apelo excepcional, está adstrito à competência judicante do excelso Pretório, nos termos do art. 102, III, "a", da Constituição Federal. (EDcl no AgRg nos EAg n. 1.333.195/PR, Ministro Humberto Martins, Corte Especial, DJe 25/4/2024).
+Nesse mesmo sentido: AgInt no AgInt nos EAREsp n. 2.128.698/SC, Ministra Maria Isabel Gallotti, Corte Especial, DJe 23/4/2024; EDcl no AgRg nos EREsp n. 1.806.170/SC, Ministro Herman Benjamin, Corte Especial, DJe 21/9/2023; EDcl no AgRg nos EAREsp n. 1.970.028/SC, Ministra Laurita Vaz, Corte Especial, DJe 30/8/2023; EDcl no AgInt nos EREsp n. 1.957.987/SP, Ministro Ricardo Villas Bôas Cueva, Corte Especial, DJe 14/8/2023; e EDcl no AgInt nos EAREsp n. 1.748.689/SC, Ministro Francisco Falcão, Corte Especial, DJe 10/8/2023.
+Ante o exposto, nego provimento ao agravo interno.
