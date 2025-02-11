@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Violação de domicílio e busca pessoal. Nulidade não configurada. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, sob o fundamento de incidência da Súmula n. 7 do STJ, em processo de condenação por tráfico de drogas.
+2. O agravante foi condenado por tráfico de drogas e associação para o tráfico, com pena de 14 anos e 4 meses de reclusão, além de multa, em regime inicial fechado. A revisão criminal foi julgada improcedente pelo Tribunal de origem.
+3. A decisão agravada apontou que a controvérsia consiste em analisar eventual nulidade decorrente de violação de domicílio e busca pessoal, conforme artigos 240 e 244 do CPP.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve nulidade na abordagem e busca pessoal que resultou na apreensão de drogas e dinheiro, alegando-se violação de domicílio sem justa causa.
+III. Razões de decidir
+5. A decisão agravada foi mantida, pois a abordagem e busca pessoal foram consideradas lícitas, com base em comportamento suspeito dos envolvidos, justificando a ação policial.
+6. A jurisprudência do STF e do STJ foi citada para reforçar a legalidade da ação policial em casos de comportamento suspeito, não configurando violação de domicílio.
+7. A revisão dos fundamentos exigiria reexame de provas, o que é vedado pela Súmula n. 7 do STJ, impossibilitando a alteração do entendimento das instâncias ordinárias.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A abordagem e busca pessoal são lícitas quando há comportamento suspeito que justifique a ação policial. 2. A revisão de fundamentos que exija reexame de provas é vedada pela Súmula n. 7 do STJ.".
+Dispositivos relevantes citados: CPP, arts. 240 e 244.
+Jurisprudência relevante citada: STF, Ag. Reg. RHC 2229.514/PE, Min. Gilmar Mendes; STJ, AgRg no AREsp n. 2.461.996/SC, Min. Joel Ilan Paciornik, DJe de 20/5/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por IGOR SOARES DEGA contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, sob o fundamento de incidência do óbice da Súmula 7, do STJ (fls. 135/136).
+Informam  os  autos  que  o  agravante  foi  condenado pelo crime descrito nos artigos 33 e 35, caput, c /c artigo 40, III e VI, todos da Lei número 11.343/2006 na forma do artigo 69, caput, do Código Penal, a uma pena definitiva de definitiva de 14 anos, 4 meses de reclusão, e 1.840 dias-multa, em regime inicial fechado, tudo consoante a sentença exarada nos autos 0141876-83.2017.8.09.0142 -, transitado em julgado 26/08/2022. Foi proposta revisão criminal, com fundamento no art. 621, I, onde se pediu a procedência do pedido para absolver o requerente nos termos do art. 621, I, e art. 386, II, ambos do Código de Processo Penal.
+O Tribunal de origem a julgou improcedente nos termos do acórdão ementado nos seguintes termos:
+"REVISÃO CRIMINAL. TRÁFICO DE DROGAS. NULIDADE. ABORDAGEM E BUSCA PESSOAL. INOCORRÊNCIA. MATÉRIA JÁ ESCRUTINADA EM APELAÇÃO. REVISÃO CRIMNAL NÃO É SUCEDÂNEO RECURSAL. NÃO OCORRÊNCIA DAS HIPÓTESES DO ARTIGO 621 DO CPP. 1. É lícita a conduta dos policiais que abordam o agente e realizam busca pessoal a fim de fazer cessar a prática criminosa e apreender drogas ocultadas, independente de mandado judicial ou autorização. PRECEDENTES DO STF: Ag. Reg. RHC 2229.514/PE, Ministro Gilmar Mendes: "Se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública". 2. A imutabilidade da coisa julgada - fator de tranquilidade social e de segurança jurídica - pode ser desfeita apenas em casos excepcionalíssimos, como já mencionado, quando presentes alguns dos motivos taxativos do artigo 621 do CPP. Isso porque a coisa julgada tem como objetivo dar segurança jurídica às decisões judiciais e evitar que os conflitos se eternizem, provocando instabilidade jurídica, social e até mesmo o descrédito da Justiça com d i s c u s s õ e s i n t e r m i n á v e i s s o b r e o m e s m o t e m a . PEDIDO REVISIONAL JULGADO IMPROCEDENTE."
+Contra esta Acórdão, foi interposto recurso especial (fls. 73/81), alegando violação aos artigos 240, §2º e 244, ambos do CPP, que foi inadmitido na origem, sob o fundamento da incidência da Súmula 7, deste STJ (fls. 109/113).
+Subiram os autos e a Presidência desta Corte não conheceu do recurso entendendo que o agravante deixou de impugnar especificamente o óbice adotado pelo Tribunal de origem para inadmitir o recurso especial (fls.135/136).
+Neste agravo regimental (fls. 141/146), o insurgente, afirma que, ao contrário do que registrou a decisão impugnada, houve a adequada e suficiente impugnação de todos os óbices adotados pelo Tribunal de origem para negar trânsito ao recurso especial.
+Requer, portanto, a reconsideração da decisão agravada para que seja examinado e provido o recurso especial, ou, subsidiariamente, o encaminhamento dos autos ao Colegiado para a análise da matéria.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo regimental (fls. 160/163).
+Por manter a decisão, trago o feito à Turma para julgamento.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Violação de domicílio e busca pessoal. Nulidade não configurada. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, sob o fundamento de incidência da Súmula n. 7 do STJ, em processo de condenação por tráfico de drogas.
+2. O agravante foi condenado por tráfico de drogas e associação para o tráfico, com pena de 14 anos e 4 meses de reclusão, além de multa, em regime inicial fechado. A revisão criminal foi julgada improcedente pelo Tribunal de origem.
+3. A decisão agravada apontou que a controvérsia consiste em analisar eventual nulidade decorrente de violação de domicílio e busca pessoal, conforme artigos 240 e 244 do CPP.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve nulidade na abordagem e busca pessoal que resultou na apreensão de drogas e dinheiro, alegando-se violação de domicílio sem justa causa.
+III. Razões de decidir
+5. A decisão agravada foi mantida, pois a abordagem e busca pessoal foram consideradas lícitas, com base em comportamento suspeito dos envolvidos, justificando a ação policial.
+6. A jurisprudência do STF e do STJ foi citada para reforçar a legalidade da ação policial em casos de comportamento suspeito, não configurando violação de domicílio.
+7. A revisão dos fundamentos exigiria reexame de provas, o que é vedado pela Súmula n. 7 do STJ, impossibilitando a alteração do entendimento das instâncias ordinárias.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A abordagem e busca pessoal são lícitas quando há comportamento suspeito que justifique a ação policial. 2. A revisão de fundamentos que exija reexame de provas é vedada pela Súmula n. 7 do STJ.".
+Dispositivos relevantes citados: CPP, arts. 240 e 244.
+Jurisprudência relevante citada: STF, Ag. Reg. RHC 2229.514/PE, Min. Gilmar Mendes; STJ, AgRg no AREsp n. 2.461.996/SC, Min. Joel Ilan Paciornik, DJe de 20/5/2024.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+Contudo, a insurgência não merece ser acolhida. A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+Na hipótese dos autos, conforme apontado pela decisão agravada, a controvérsia consiste em analisar eventual nulidade decorrente de violação de domicílio e da busca pessoal, elencadas nos artigos 240 e 244 do CPP.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com a decisão ora questionada, na tentativa de rediscutir a matéria que, já havia sido reexaminada em apelação e também em revisão criminal.
+O voto condutor do acórdão recorrido assim se manifestou sobre a tese de violação de domicílio:
+" ..
+No caso em apreço, consoante já explicitado, o requerente alega nulidade da abordagem e da busca pessoal que resultou na apreensão de dinheiro (R$1.800,00) e drogas (610,660g de cocaína e 158,570g de "crack"). Todavia, adianto que nenhuma razão lhe assiste. Explico.
+Consta dos autos principais (0141876-83) que no mês de maio de 2017, em horário indeterminado, nas dependências do Centro de Inserção Social de Santa Helena de Goiás, Igor financiou o crime de tráfico de drogas, de dentro do presídio local, bem como associou-se com Hallyson Vieira Engelberg e Jucimar Lima Messias para praticarem tráfico ilícito de entorpecentes.
+Apurou-se que no dia 23/05/2017, por volta de 21h, utilizando um veículo VW/Gol, placas NVV 0521, Hallyson e Jucimar transportaram drogas até a residência do adolescente J. R. S. S. J., e se deslocaram às proximidades do Parque de Exposição Agropecuária de Santa Helena de Goiás, onde ficaram aguardando os compradores.
+Todavia, os compradores do entorpecente, ocupando uma motocicleta Honda titan, cor preta, foram vistos pela polícia na BR 452 antes da compra e acabaram abordados. Durante busca pessoal foi localizado no bolso de Roniel Lemes Nunes a quantia de R$ 1.800,00 (um mil e oitocentos reais) em espécie, informando que o dinheiro era destinado a compra de drogas na Cidade de Santa Helena, indicando o local em que seria feita a transação.
+Desse modo, a equipe policial os acompanhou até o local combinado, quando Hallyson e Jucimar aproximaram em um veículo VW/Gol, sendo abordados, oportunidade em que informaram que a droga estava guardada na residência do adolescente J. R. S. S. J., para onde se deslocaram, apreendendo-se uma vasilha de cor vermelha, sobre o telhado da residência, contendo 06 porções de tamanho médio de cocaína, pesando 610,660g (seiscentos e dez gramas, seiscentos e sessenta miligramas; e 04 porções de "crack", com peso aproximado de 158,570g (cento e cinquenta e oito gramas, quinhentos e setenta miligramas).
+Verifica-se que não merece prosperar a assertiva do requerente de que a busca pessoal foi injustificada. Além disso essa matéria já foi analisada exaustivamente em dois apelos, tratando-se de matéria já escrutinada.
+No entanto, passo a discorrer sobre essa questão de nulidade das provas que, a meu sentir, está superada por diretrizes de quem tem a palavra final, a Suprema Corte.
+Em julgado publicado no mês de agosto de 2023 e julgado por unanimidade, no Ag. Reg. RHC 2229.514/PE, o Ministro Gilmar Mendes do STF assim argumentou:
+"Se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública".
+Além disso, há outros precedentes sobre a realização de busca pessoal da Suprema Corte exatamente no mesmo sentido, in verbis:
+ .. ."
+Como já afirmado, o acórdão recorrido não destoou da jurisprudência desta Corte, no sentido de que, havendo justa causa para o ingresso dos policiais, não há que se falar em ilegalidade a ser reparada.
+Veja-se:
+"PROCESSO PENAL. A GRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DEFENSIVO DE RECONHECIMENTO DA NULIDADE DAS PROVAS. MATÉRIA JÁ EXAMINADA EM HABEAS CORPUS. VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. PRESENÇA DE JUSTA CAUSA. ATITUDE CONCRETAMENTE SUSPEITA. DESOBEDIÊNCIA À ORDEM DE PARADA. FUGA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante consignado na decisão agravada, o pleito defensivo de reconhecimento da ilicitude das provas decorrentes de suposta invasão domiciliar já foi examinado por este Sodalício quando do julgamento do HC n. 799746/SC (2023/0026688-6), impetrado contra acórdão de habeas corpus do Tribunal de origem, atinente à mesma ação penal objeto do presente recurso. Entendimento ora reiterado.
+2. Nos autos do referido writ, observei que "o paciente conduzia um veículo VW Gol e, ao ver os policiais que estavam fazendo ronda na região, ficou nervoso e tentou esconder uma mochila no banco traseiro do veículo. Os policiais deram ordem de parada, porém, o paciente conduziu o veículo até uma residência e saiu correndo com outro indivíduo para dentro da casa, local onde foi apreendido mais de 15 kg de maconha, 47 comprimidos de ecstasy, 2 balanças de precisão e plásticos para embalagem dos entorpecentes. Ademais, segundo depoimento dos policiais, o ingresso na residência foi autorizado pela genitora do paciente, proprietária do imóvel. Desse modo, ante os elementos fáticos extraídos dos autos, para acolher a tese da defesa de nulidade por violação domiciliar, desconstituindo os fundamentos adotados pelas instâncias ordinárias, seria necessário o reexame de todo o conjunto probatório, providência vedada em habeas corpus, procedimento de cognição sumária e rito célere".
+3. Com efeito, não há ilegalidade a ser reparada, porquanto houve justa causa para o ingresso dos policiais nas residências. Nos termos do acórdão recorrido, o agravante apresentou atitude concretamente suspeita (demonstrou nervosismo, arremessou uma mochila para a parte de trás do veículo, não obedeceu imediatamente à ordem de parada feita pelos policiais e, após, desceu correndo do carro ao chegar na residência). No interior da mochila do acusado, foram encontrados quase 5kg de maconha. Após indicação do próprio agravante, os policiais dirigiram-se ao seu domicílio, onde encontraram drogas diversas. De fato, a alteração do entendimento das instâncias de origem, a fim de considerar como verdadeira a versão defensiva, demandaria necessário revolvimento fático-probatório, providência vedada na via eleita, conforme Súmula n. 7 deste Superior Tribunal de Justiça - STJ. Precedentes.
+4. Agravo regimental desprovido" (AgRg no AREsp n. 2.461.996/SC, Quinta Turma, Rel. Min, Joel Ilan Paciornik, DJe de 20/5/2024).
+Consoante se depreende  dos  excertos  acima  colacionados,  o  Tribunal  de  origem  declinou, a partir de análise motivada da questão, as  razões  pelas  quais  concluiu  pela regularidade da busca pessoal e da domiciliar, a partir de profundo exame dos elementos fáticos trazidos aos autos.
+Como se sabe, a revisão dos fundamentos acima elencados, como pretende a Defesa, demandaria  profundo  revolvimento  do  material  fático-probatório  dos  autos,  procedimento  inviável  na via eleita pelo insurgente, pois é assente  nesta  Corte  Superior de Justiça que  as  premissas  fáticas  firmadas  nas  instâncias  ordinárias  não  podem  ser  modificadas  no  âmbito  do recurso especial,  nos  termos  da  Súmula  n.  7/STJ,  segundo  a  qual  "a  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial."
+Nesse sentido: "Para modificar o entendimento adotado pelo Tribunal de origem de modo a concluir pela absolvição, seria necessário reexaminar o conjunto probatório dos autos, providência vedada a teor da Súmula 7 do STJ." (AgRg no AREsp n. 2.403.204/SP, Sexta Turma, Rel. Min. Og Fernandes, DJe de 3/10/2024).
+Em reforço: "A revisão do entendimento firmado pelas instâncias ordinárias, no sentido de absolver o agravante por ausência de provas, demanda, necessariamente, o reexame de provas, vedado pela Súmula n. 7/STJ " (AgRg no AREsp n. 2.533.159/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 13/9/2024).
+Nem se alegue ser caso de revaloração da prova.
+Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias. Logo, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela precitada Súmula 7/STJ.
+Tenha-se em conta, a propósito, o entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Terceira Turma, Rel. Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Em face da ausência de qualquer elemento capaz de alterar os fundamentos da decisão agravada, subsiste inalterado o entendimento nela firmado, não merecendo prosperar o presente recurso.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
