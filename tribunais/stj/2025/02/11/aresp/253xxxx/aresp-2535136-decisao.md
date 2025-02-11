@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por AMIL ASSISTENCIA MÉDICA INTERNACIONAL S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Apelação. Plano de saúde. Ação declaratória de nulidade. Procedência em parte. Insurgência da operadora de plano de saúde. Descabimento. Princípio da Dialeticidade. Não observância. Afronta ao disposto no art. 1.010, II e III do CPC. Ausência de relação dialética entre o teor da sentença e o conteúdo do apelo. Fundamentos que praticamente repetem a peça contestatória, além de não indicar o desacerto da decisão. Acolhimento da preliminar suscitada nas contrarrazões de apelação apresentadas pelos recorridos. Inteligência do artigo 932, inciso III, do Código de Processo Civil. Ausência de devolutividade. Recurso não conhecido" (e-STJ fl. 1.011).
+Não foram opostos embargos de declaração.
+No recurso especial, a recorrente alega a violação do artigo 1.010, II, do Código de Processo Civil.
+Afirma que nas razões da apelação está evidenciada a inconformidade recursal e que estão preenchidos os requisitos do art. 1.010 do CPC.
+Sustenta que, "ainda que se considere que nas razões do recurso foram genéricas, certo é que referidas razões guardam total pertinência com a discussão dos autos, já que a aplicação dos reajustes por sinistralidade foi realizada de acordo com a legislação e com o contrato" (e-STJ fl. 1.023).
+Com as contrarrazões (e-STJ fls. 1.072-1.080), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com relação ao princípio da dialeticidade, o entendimento do Superior Tribunal de Justiça é no sentido de que "a repetição dos fundamentos da petição inicial ou da contestação não é motivo suficiente para inviabilizar o conhecimento da apelação quando há demonstração inequívoca das razões e intenção de reforma da sentença" (AgInt no AREsp n. 2.255.154/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 27/4/2023).
+No mesmo sentido: AgInt no AREsp n. 2.580.528/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024 e AgInt no REsp n. 2.104.830/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024
+No caso, o Tribunal de origem não conheceu da apelação interposta pela parte ora recorrente pelos seguintes fundamentos:
+"Todavia, o apelo não merece conhecimento.
+O artigo 932, inciso III, do Código de Processo Civil consigna expressamente que incumbe ao relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+A peça recursal não aborda as razões de decidir da sentença recorrida, sendo certo, portanto, que não restou combatida. Falta-lhe um de seus requisitos extrínsecos, qual seja, o da regularidade formal previsto no artigo 1.010, II e III, do Código de Processo Civil, em afronta ao princípio da dialeticidade.
+Observe-se que a apelante basicamente repetiu os argumentos apresentados na peça contestatória (fls. 82/98), limitando-se a defender genericamente a regularidade dos aumentos praticados, sem apontar qualquer desacerto na decisão recorrida.
+Note-se que, ao contrário do que afirmou a recorrente (fls. 924), a r. sentença não declarou a nulidade das cláusulas que estabelecem o reajuste anual do plano de saúde por sinistralidade, mas somente afastou os aumentos aplicados aos autores, por ausência de comprovação da efetiva elevação dos custos que justificassem os acréscimos nos patamares aplicados pela operadora.
+Destarte, o que se depreende é a ausência de relação dialética entre o teor da sentença impugnada e o conteúdo do apelo.
+Com efeito, não se conhece de recurso "no qual a parte discute a decisão recorrida de forma vaga, imprecisa, ou se limita a repetir argumentos já exarados em outras fases do processo, sem que haja direcionamento da argumentação para o que consta da decisão recorrida". (Nelson Nery Junior e Rosa Maria de Andrade Nery, in: Código de Processo Civil comentado, 16ª edição, São Paulo, RT, 2016, p. 1.979).
+(..)
+Outrossim, inaplicável o prazo previsto no parágrafo único, do artigo 932, do Código de Processo Civil, concedido "unicamente para que a parte sane vício estritamente formal" (STJ, AgInt-R Esp nº 1.619.973-PB, Rel. Min. Mauro Campbell Marques, 2ªT., j. 15.12.2016), ou seja, para "regularização de vícios processuais não considerados graves" (STJ, AgRg-AR Esp nº 684.634-SP, Rel. Min. Nefi Cordeiro, 6ªT., j. 13.12.2016), já se tendo reconhecido que não serve "para complementar a fundamentação" de recurso que "não impugnou especificamente todos os fundamentos da decisão" (STJ, AgInt-AR Esp nº 692.495- ES, Rel. Min. Gurgel de Faria, 1ªT., j. 23.06.2016).
+E, ainda que assim não fosse, não seria caso de provimento do recurso, uma vez que a apelante não comprovou o efetivo aumento em razão de sinistralidade, a justificar os reajustes nos percentuais aplicados aos autores.
+Portanto, diante do excesso reconhecido, evidente o cabimento da restituição das diferenças pagas a maior pelos demandantes, observada a prescrição trienal, conforme posicionamento firmado pelo Colendo Superior Tribunal de Justiça, em recursos representativos de controvérsia (R Esp n. 1.360.969/RS e R Esp n. 1.361.182/RS, Rel. Marco Aurélio Bellizze, j. em 10.08.2016, D Je 19.9.2016 tema 610). Com isso, a r. sentença fica mantida" (e-STJ fls. 1.013-1.015 - grifou-se).
+Com efeito, verifica-se que, nas razões da apelação, a recorrente limitou-se a defender a legalidade da cláusula que prevê o reajuste por aumento de sinistralidade. Ademais, não houve impugnação dos fundamentos adotados pelo juízo de primeiro grau para declarar abusivos os reajustes realizados pela ora recorrente no período de 2017 a 2019, tendo em vista que a ré, chamada a apresentar os documentos aptos a comprovar o aumento da sinistralidade ao perito, não o fez.
+Dessa forma, está correto o não conhecimento pela Corte local do recurso de apelação, por falta de dialeticidade.
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Ainda que superado o óbice, observa-se que a Corte local, após a análise do contexto fático-probatório, reafirmou a conclusão adotada na sentença, de que "a apelante não comprovou o efetivo aumento em razão de sinistralidade, a justificar os reajustes nos percentuais aplicados aos autores".
+Tal fundamento, entretanto, não foi objeto de impugnação pela parte recorrente nas razões do recurso especial, atraindo a incidência, por analogia, da Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Confiram-se:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. RESCISÃO DO CONTRATO DE PLANO DE SAÚDE. ENVIO DA NOTIFICAÇÃO. NÃO COMPROVAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido."
+(AgInt no AREsp 2.157.654/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifou-se).
+Ademais, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Quanto ao pedido formulado na impugnação (e-STJ fl. 1.080), por não se verificar, neste momento, o caráter protelatório do recurso, torna-se desnecessária a aplicação da reprimenda por litigância de má-fé.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
