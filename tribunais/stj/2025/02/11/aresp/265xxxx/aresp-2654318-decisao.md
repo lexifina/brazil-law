@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por BAMBI IMOBILIÁRIA E INVESTIMENTOS LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL E RECURSO ADESIVO. Compra e venda de imóvel. Ação de rescisão contratual cumulada com reintegração na posse. Sentença de parcial procedência, declarando a rescisão do contrato firmado entre as partes. Insurgência da autora. Descabimento. Requerido que demonstrou, satisfatoriamente, não exercer a posse sobre o imóvel. Prescrição da pretensão autoral caracterizada. RECURSOS DESPROVIDOS" (e-STJ fl. 279).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 323-327).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 489, §1º, V, do Código de Processo Civil e 202, 205, 475, 906 e 2.028 do Código Civil.
+Sustenta a tese de negativa de prestação jurisdicional ao argumento de que o Tribunal de origem não se manifestou acerca da prescrição.
+Afirma que "o prazo prescricional no caso em exame começa a fluir do vencimento da última parcela a partir de 26/03/2010" (e-STJ fl. 297), visto que o entendimento do Superior Tribunal de Justiça é no sentido de que o vencimento antecipado das prestações não altera o início do prazo prescricional.
+Argumenta que o Tribunal de origem não considerou "que a recorrente ajuizou notificação judicial em face do recorrido, motivo pelo qual houve a interrupção do prazo prescricional" (e-STJ fl. 298).
+Defende que "não se justifica a permanência do recorrido no bem diante da sua comprovada inadimplência, sob pena de premiar a incúria e inviabilizar o próprio afã empresarial daquele que disponibilizou o produto e o capital a custo baixíssimo" e que deve ser indenizada pela ocupação do imóvel pela parte contrária desde a data da assinatura da nota de compra (e-STJ fl. 293).
+Com as contrarrazões (e-STJ fls. 331-340), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à prescrição da pretensão autoral de cobrança dos valores referentes ao contrato de compra e venda do imóvel.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+De outro lado, verifica-se que, após o exame do acervo fático-probatório existente nos autos, a Corte local concluiu que há verossimilhança na alegação do réu quanto à desistência do negócio jurídico e que está demonstrado que ele não exerce a posse sobre o imóvel.
+A propósito, destaca-se o seguinte trecho do acórdão recorrido:
+"Com efeito, o requerido demonstrou, satisfatoriamente, não exercer posse sobre o imóvel. Nesse sentido, merecem destaque as certidões de fls. 152/166, emitidas pelo Município de Guarulhos, que indicam que o imóvel em questão se encontra cadastrado em nome de Bambi Imobiliária e Investimentos Ltda., bem como apontam Maria Sandra de Menezes, Fábio Ferreira de Castro e Maria Lucia do Nascimento Santos como compromissários compradores, pessoas absolutamente alheias ao presente feito. Tal fato confere verossimilhança à alegação do demandado, quanto à desistência do negócio aquiescida pela promitente vendedora.
+Não bastasse, é inequívoca a prescrição da pretensão autoral.
+Dessume-se da notificação extrajudicial de fls. 34/36, efetivamente recebida pelo requerido em 17/05/2011, que o suposto inadimplemento diz respeito a parcelas vencidas entre 23/08/2001 e 23/02/2010, ao passo que a presente ação foi ajuizada em 23/12/2020. Neste ponto, observo a ausência de prova quanto à ocorrência de qualquer das causas interruptivas da prescrição, sendo oportuno anotar, também, que a mera notificação extrajudicial da existência do débito não ostenta tal virtude, por não constituir ato de reconhecimento da dívida pelo devedor.
+Ainda, há de se ter em conta que, em atenção à regra de transição estabelecida no art. 2.028, do Código Civil, o prazo prescricional aplicável ao caso em apreço é de dez anos, contados a partir da vigência de tal Diploma (a saber: 11/01/2003).
+Destarte, decorridos mais de dez anos entre tal marco e a propositura da demanda, sem que a autora tenha adotado qualquer medida para desfazer o negócio e pleitear a retenção das parcelas pagas, a indenização pela fruição do imóvel, assim como o pagamento de taxas e tributos incidentes sobre o bem, conclui-se de rigor o reconhecimento da prescrição e a manutenção da sentença, escorreita na solução da lide, inclusive por seus próprios e judiciosos fundamentos" (e-STJ fls. 282-283).
+Nesse contexto, rever a conclusão do tribunal local acerca da prescrição, bem como a pretensão recursal no que pertine à indenização pela posse, demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
