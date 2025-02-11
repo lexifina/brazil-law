@@ -1,0 +1,69 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CLODOALDO DE SOUZA FABRICACAO DE MAQUINAS E EQUIPAMENTOS LTDA E OUTRO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 7/10/2024.
+Concluso ao gabinete em: 14/1/2025.
+Ação: Abstenção de ato c/c perdas e danos materiais e morais ajuizada por Matheus Rodrigues Marília em face dos agravantes.
+Sentença: julgou improcedentes os pedidos iniciais.
+Acórdão: deu provimento à apelação interposta pelo agravado, nos termos da ementa a seguir (fls. 970-971):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRAFAÇÃO. CARTAS DE PATENTES - MODELO DE UTILIDADE.
+SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA.
+1. DEFENDIDA VIOLAÇÃO DE PATENTES REGISTRADAS PERANTE O INSTITUTO NACIONAL DE PROPRIEDADE INDUSTRIAL - INPI. SUBSISTÊNCIA. EXTRATOR AUTOMÁTICO PARA PRENSA DE TELHA E ALIMENTADOR AUTOMÁTICO DE PASTÕES RETANGULARES LUBRIFICADOS PARA PRENSAS DE TELHA. MAQUINÁRIOS IDÊNTICOS DESENVOLVIDOS E COMERCIALIZADOS PELA PARTE RÉ, SEM QUALQUER ATIVIDADE INVENTIVA. PERÍCIA JUDICIAL QUE, APESAR DE ATESTAR A EXISTÊNCIA DE SUTIS DIFERENÇAS ENTRE OS MAQUINÁRIOS, DEVE SER SOPESADA COM AS DEMAIS PROVAS. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO (CPC, ART. 479). PARECER NEGATIVO EMITIDO PELO INPI SOBRE O DIREITO DE PATENTE POSTULADO PELA PARTE RÉ, EM RAZÃO DE QUE AS DIFERENÇAS ENTRE OS MAQUINÁRIOS NÃO ATESTAM NOVIDADE OU INVENÇÃO, MAS MERO ACRÉSCIMO VOLUPTUÁRIO. CONTRAFAÇÃO CARACTERIZADA.
+2. EFEITO DEVOLUTIVO. CONHECIMENTO DAS PRETENSÕES FORMULADAS NA INICIAL.
+EXEGESE DO ART. 1.013, § 2º, DO CÓDIGO DE PROCESSO CIVIL.
+2.1. PEDIDO DE ABSTENÇÃO DE PRODUÇÃO E COMERCIALIZAÇÃO DOS MAQUINÁRIOS CONTRAFEITOS. ACOLHIMENTO. DIREITO EXCLUSIVO DO DETENTOR DA PATENTE SOBRE A FABRICAÇÃO E COMERCIALIZAÇÃO DA INVENÇÃO PATENTEADA. INTELIGÊNCIA DO ART. 42 DA LEI 9.279/96. CONDENAÇÃO DA PARTE RÉ À OBRIGAÇÃO DE NÃO FAZER CONSISTENTE NA ABSTENÇÃO DE FABRICAÇÃO E COMERCIALIZAÇÃO DOS OBJETOS PATENTEADOS, BEM COMO DA RESPECTIVA ENTREGA DOS PRODUTOS CONTRAFEITOS, SOB PENA DE BUSCA E APREENSÃO.
+2.2. DANOS MATERIAIS. PRETENDIDA INDENIZAÇÃO EM RAZÃO DAS CONTRAFAÇÕES. TESE ACOLHIDA. PREJUÍZOS PELOS ATOS ILÍCITOS QUE PRESCINDEM DE PROVA.
+ENTENDIMENTO PACIFICADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES DESTE ÓRGÃO FRACIONÁRIO. DANOS MATERIAIS QUE PODEM SER AVALIADOS EM SEDE DE LIQUIDAÇÃO DE SENTENÇA, NA FORMA DO ART. 210 DO CÓDIGO DE PROCESSO CIVIL.
+"Segundo a jurisprudência desta Corte Superior, "na hipótese de concorrência desleal os danos materiais se presumem, tendo em vista o desvio de clientela e a confusão entre as marcas, podendo ser apurados em liquidação de sentença" (AgInt no REsp 1.645.776/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/9/2019, DJe 4/10/2019)." (AgInt nos EDcl no AREsp n. 620.720/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/12/2020, DJe de 14/12/2020).
+2.3. DANO MORAL POR VIOLAÇÃO AO DIREITO DE PATENTE. PLEITO DE CONDENAÇÃO.
+ACOLHIMENTO. ATO ILÍCITO QUE PRESCINDE DE PROVA. PRESUNÇÃO DE PREJUÍZOS IN RE IPSA. ARBITRAMENTO QUE DEVE LEVAR EM CONSIDERAÇÃO OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. INDENIZAÇÃO EM VALOR SUFICIENTE À REPARAÇÃO DO CONSTRANGIMENTO SUPORTADO PELA VÍTIMA E EM CARÁTER EDUCATIVO PARA AFASTAR A PERPETUAÇÃO DA PRÁTICA DE ATOS LESIVOS PELO OFENSOR. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE DE JUSTIÇA. VERBA FIXADA EM R$ 10.000,00 (DEZ MIL REAIS), CORRIGIDA DO ARBITRAMENTO (SÚMULA 362 DO STJ) E COM JUROS MORATÓRIOS A CONTAR DA CITAÇÃO (ART. 405 DO CÓDIGO CIVIL).
+"A indenização pela prática da contrafação deve servir, entre outras coisas, para desestimular a prática ofensiva, sem, no entanto, implicar enriquecimento sem causa do titular dos direitos autorais violados" (REsp n. 1.756.242/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/11/2019, DJe de 28/11/2019).
+3. ÔNUS SUCUMBENCIAIS. REDISTRIBUIÇÃO. CONDENAÇÃO DA PARTE RÉ AO PAGAMENTO INTEGRAL DAS CUSTAS PROCESSUAIS E DOS HONORÁRIOS SUCUMBENCIAIS, ESTES ARBITRADOS EM 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO. EXEGESE DO ART. 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL.
+4. HONORÁRIOS RECURSAIS INCABÍVEIS, ANTE A REDISTRIBUIÇÃO DA SUCUMBÊNCIA.
+PRECEDENTE DO STJ (AGINT NO ARESP N. 2.107.043/RS, RELATORA MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, JULGADO EM 9/11/2022).
+RECURSO CONHECIDO E PROVIDO.
+Recurso especial: alega violação dos arts. 371; 375; 464, § 1º, I; 479; 480; 489 e 1.022, todos do CPC; 9º e 41, ambos da Lei 9.279/96. Além da negativa de prestação jurisdicional, sustenta que o acórdão recorrido "não apenas desconsiderou as conclusões do laudo pericial como passou a concluir de modo diverso e sem a devida motivação, com apoio em regras da experiência, em detrimento da Prova Pericial  .. " (fl. 992).
+Afirma também que não há contrafação em relação aos objetos analisados nos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+Inicialmente, constata-se que o artigo 1.022 do CPC não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no AREsp 2.164.998/RJ, 3ª Turma, DJe 16/02/2023; AgInt no REsp 1.850.632/MT, 4ª Turma, DJe 08/09/2023; e AgInt no REsp 1.655.141/MT, 1ª Turma, DJe de 06/03/2024.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Do reexame de fatos e provas
+O TJ/SC, ao analisar o recurso interposto pelo agravado, concluiu o seguinte (e-STJ fls. 961-964):
+Observa-se que os documentos carreados com o recurso de apelação cível pela parte autora devem ser conhecidos, em que pese, em regra, não ser possível a apresentação de documentos novos em sede de apelação quando se tratar de fatos ocorridos após a deflagração da petição inicial ou contestação.
+Excepcionalmente, admite-se a exibição de documentos em momento posterior quando "destinados a fazer prova de fatos ocorridos depois dos articulados ou para contrapô-los aos que foram produzidos nos autos" e "formados após a petição inicial ou a contestação, bem como dos que se tornaram conhecidos, acessíveis ou disponíveis após esses atos, cabendo à parte que os produzir comprovar o motivo que a impediu de juntá-los anteriormente" (art. 435 do CPC).
+Na espécie, trata-se carta patente de modelo de utilidade e documentos correlatos emitidos pelo INPI em 07 de abril de 2015 (evento 12, PROCJUDIC15 -  . 107), cuja exibição era impossível na data da propositura da demanda, que ocorreu 26 de novembro de 2010.
+ .. .
+Na espécie, a celeuma jurídica gira em torno da violação do direito de patente da parte autora sobre duas máquinas com registro no INPI (patentes MU7901418-6 e MU8700083-0), quais sejam, um "extrator automático para prensa de telha" e um "alimentador automático de pastões retangulares lubrificados para prensas de telha", cujas cartas patentes de modelo de utilidade restaram juntadas aos autos ( evento 12, PROCJUDIC1 - fl. 49 e evento 12, PROCJUDIC15 - fl. 107, respectivamente).
+Verifica-se que a parte ré, ora apelada, após o registro da patente sobre os dois maquinários, desenvolveu e fabricou duas máquinas idênticas àquelas registradas pela parte apelante, uma, inclusive, com o pedido de registro (MU 8900581-3) negado pelo INPI em virtude da ausência de inovação e pelo registro anterior por parte da apelante. Veja-se (evento 12, DOC16 - fl. 5)  .. .
+ .. .
+Entretanto, tem-se que a conclusão do perito não atesta, por si só, a ausência de contrafação, tendo em vista que existem provas contundentes de que as máquinas desenvolvidas pela parte ré não inovaram, apenas acresceram funções não essenciais às máquinas, fato que não caracteriza inovação.
+ .. .
+Na hipótese em tela, verifica-se que as premissas fáticas do laudo pericial não conduzem, necessariamente, à conclusão de que não houve contrafação, tendo em vista que, ao ser questionado acerca dos processos/sinais distintivos entre as patentes registradas e as máquinas desenvolvidas pelos réus, assim respondeu o perito (evento 12, PROCJUDIC14 - fl. 6):
+Sobre as diferenças entre as máquinas cujo parâmetro é a MU8700083-0. Resposta: Não, conforme mencionado anteriormente no laudo, existe algumas diferenças entre os mecanismos fabricados pela ré e os mecanismos do pedido de patente da autora. O vídeo mostra o processo de alimentação e extração da prensa com as mesmas etapas do mecanismo do pedido de patente da autora, porém os mecanismos e componentes mecânicos que executam essas etapas não são exatamente iguais.
+Resumindo, as etapas são as mesmas no vídeo e na descrição, porém os mecanismos e componentes têm arranjos diferentes.
+Sobre as diferenças entre as máquinas cujo parâmetro é a MU7901418-6. Resposta: Concordo em partes, pois o mecanismo do réu reproduz algumas características do produto patenteado pela autora, principalmente por eles terem mesmo objetivo final, que seria a extração da telha. Porém, o equipamento do réu possui algumas características e componentes diferenciados, as quais já foram apresentados no item 4.1 do presente laudo.
+Em relação à extratora de telhas (MU7901418-6), o expert verificou pontualmente três diferenças (item 4.1. - evento 12, PROCJUDIC13 - fl. 22), quais sejam: molas dispostas no cabeçote da biela, mecanismo de articulação do cabeçote diferenciado e extrator com dois pontos de giro a menos.
+Quanto ao alimentador automático (MU8700083-0 - evento 12, PROCJUDIC13 - fl. 23), aferiu a existência de diferença entre os equipamentos apenas em relação a "um batente para o pastão acionado por um cilindro pneumático", sensor de posição e anteparo alimentador de forma geométrica distinta.
+Assim, resta evidente que entre as máquinas de extração de telhas e o alimentador automático confeccionados pelas partes possuem a mesma função e, além disso, os da parte ré foram criados a partir da patente engendrada pela parte autora, não possuindo inovação ou diferenças significativas, razão por que configuram contrafações.
+Tal fato fica evidente com a negativa do pedido de registro de patente do " mecanismo extrator para prensa conformadora de telha cerâmica" (MU8900581-3) pelo INPI, cuja autarquia federal, ao valer-se como referência da patente registrada pela parte autora (MU7901418-6), apontou que inexiste inovação na patente apresentada (evento 12, PROCJUDIC16 - fl. 5).
+Ainda, como se não bastasse tais argumentos, a parte ré ingressou com ação anulatória (autos n. 5008061-55.2011.404.7200) do direito de patente da parte autora sobre o pedido de patente MU7901418-6, sendo que o INPI, em sua contestação, atestou, novamente, o caráter inventivo do maquinário desenvolvido pela parte autora.
+ .. .
+Nesse lume, considerando que as máquinas desenvolvidas da parte ré figuram como reprodução sem atividade inventiva, deve-se dar provimento ao recurso no ponto para reconhecer a contrafação.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE ATO C/C PERDAS E DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de Abstenção de ato c/c perdas e danos materiais e morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
