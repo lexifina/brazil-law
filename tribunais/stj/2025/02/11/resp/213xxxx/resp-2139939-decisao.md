@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fls. 2.511/2.512):
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTRATOS VINCULADOS A CONTA CORRENTE. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+JUROS REMUNERATÓRIOS. JULGADO QUE MANTEVE O PACTO N. 216.7177. REDUÇÃO DESCABIDA, PORQUE OS ENCARGOS FORAM AJUSTADOS EM PATAMARES QUE NÃO SUPERARAM 10% DA TAXA MÉDIA FIXADA PELO BACEN PARA O PERÍODO DA CONTRATAÇÃO. RECLAMO DA AUTORA DESPROVIDO.
+CONTRATO N. 2167185 E N. 2139653. JUROS REMUNERATÓRIOS. JULGADO QUE READEQUOU AS TAXAS PACTUADAS ÀS MÉDIAS DE MERCADO. MANUTENÇÃO, UMA VEZ QUE OS PATAMARES AVENÇADOS SUPERARAM EM 10% AOS FIXADOS PELO BACEN PARA OS PERÍODOS DE CONTRATAÇÕES.
+PACTO N. 2139653. AVENÇA FIRMADA NO ANO DE 2010. MODALIDADE DO CRÉDITO EM ANÁLISE QUE TEVE DIVULGADA A TAXA MÉDIA DE MERCADO ESTABELECIDA PELO BACEN EM MARÇO DE 2011. PACTUAÇÃO MANTIDA ATÉ O ESTABELECIMENTO DAS DIRETRIZES DEFINIDAS PELO BANCO CENTRAL, A PARTIR DE QUANDO DEVERÁ SER OBSERVADA A TAXA MÉDIA DE MERCADO.
+CAPITALIZAÇÃO DIÁRIA DOS JUROS REMUNERATÓRIOS. CONTRATAÇÃO EXPRESSA (SÚMULA 539, STJ). LICITUDE.
+COMISSÃO DE PERMANÊNCIA. ENCARGOS MORATÓRIOS. DISCUSSÃO ACERCA DA POSSIBILIDADE DE INCIDÊNCIA. PREVISÃO CONTRATUAL QUE SUPERA A SOMA DE JUROS REMUNERATÓRIOS PACTUADOS, DE JUROS MORATÓRIOS DE 12% AO ANO E DE MULTA CONTRATUAL ATÉ 2%. AVENÇA QUE PREVÊ OS ENCARGOS DE MORA EM DESACORDO COM A SÚMULA 472 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA QUE OS LIMITOU MANTIDA. PLEITO DA PARTE AUTORA DE EXCLUSÃO DO ENCARGO QUE SE TRATA DE INOVAÇÃO RECURSAL. NÃO CONHECIMENTO NO PONTO.
+CASA BANCÁRIA QUE APONTA A LEGALIDADE DA TARIFA DE ABERTURA DE CRÉDITO. REJEIÇÃO. IMPOSSIBILIDADE DE INCIDÊNCIA. COBRANÇA ADMITIDA DESDE QUE EXPRESSAMENTE PREVISTA E O CONTRATO TENHA SIDO FIRMADO ATÉ 30/04/2008. TESES EMANADAS PELO STJ NO JULGAMENTO DOS RECURSOS ESPECIAIS N. 1.251.331/RS E N. 1.255.573/RS, COM FORÇA DE REPETITIVO. APELO REJEITADO.
+MORA. RECONHECIMENTO DE ABUSIVIDADES DE ENCARGO DO PERÍODO DA NORMALIDADE NOS CONTRATOS RELACIONADOS QUE, CONJUGADO À IMPOSSIBILIDADE DE SE AFERIR O SALDO DEVEDOR DOS PACTOS VINCULADOS DE CONTA CORRENTE NESTE ESTÁGIO PROCESSUAL, DERRUI A MORA. PRECEDENTES DESTE ÓRGÃO FRACIONÁRIO. RECLAMO DA PARTE AUTORA ACOLHIDO.
+RESTITUIÇÃO DE VALORES PAGOS INDEVIDAMENTE. CABIMENTO NA FORMA SIMPLES, DEPOIS DE OPERADA A COMPENSAÇÃO PREVISTA NO ART. 368 DO CÓDIGO CIVIL.
+AUTORA QUE POSTULA A SUSPENSÃO DOS PROCEDIMENTOS EXECUTÓRIOS EXTRAJUDICIAIS DE BEM IMÓVEL DADO EM GARANTIA FIDUCIÁRIA. CÉDULA DE CRÉDITO BANCÁRIO N. 2167177. INEXISTÊNCIA DE ABUSIVIDADES. CONSOLIDAÇÃO DA PROPRIEDADE FIDUCIÁRIA QUE SE MANTÉM.
+Não tendo a parte autora demonstrado a consignação em juízo do valor incontroverso ou da integralidade das prestações devidas, descabe afastar a mora e, por conseguinte, diante da manutenção do pacto no tocante aos encargos da normalidade, uma vez constatada a inadimplência, a salvaguarda do direito de propriedade resulta derruído, em face da garantia de alienação fiduciária ofertada pela parte devedora.
+ÔNUS SUCUMBENCIAIS READEQUADOS. EXEGESE DO ARTIGO 86, CAPUT, DO CÓDIGO DE PROCESSO CIVIL.
+HONORÁRIOS RECURSAIS. ART. 85, §§ 1º E 11, DO CPC/15. CRITÉRIOS CUMULATIVOS NÃO PREENCHIDOS (STJ, EDCL NO AGINT NO RESP 1.573.573/RJ).
+APELO DO BANCO CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DA PARTE AUTORA CONHECIDO EM PARTE E, NESTA, ACOLHIDO PARCIALMENTE.
+Os embargos de declaração foram rejeitados (e-STJ fls. 2.545/2.547).
+Nas razões do recurso especial (e-STJ fls. 2.558/2.583), fundamentando no art. 105, III, "a" e "c", da CF, o recorrente apontou divergência jurisprudencial e violação dos seguintes dispositivos:
+(i) art. 1.022, II, do CPC, argumentando que não houve análise das teses referentes à impossibilidade de limitação da taxa de juros remuneratórios e descaracterização da mora,
+(ii) art. 1º e 5º do Decreto n. 22.626/1933, 1º e 4º, IX, da Lei n. 4.595/1994 e 28, § 1º, I, da Lei n. 10.931/2004, mencionando a impossibilidade de limitação dos juros remuneratórios, e
+(iii) arts. 394, 395, 396 e 397 do CC, pois deve ser afastada a determinação de descaracterização da mora.
+Contrarrazões apresentadas (e-STJ fls. 2.612/2.623).
+É o relatório.
+Decido.
+No que tange à suposta ofensa ao art. 1.022, II, do CPC, a insurgência não merece acolhimento, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+O recorrente alega omissão no que respeita às teses de impossibilidade de limitação da taxa de juros remuneratórios e descaracterização da mora.
+Contudo, analisando o caso concreto, a Justiça a quo entendeu que "a taxa de juros remuneratórios superior em 10% à média divulgada pelo Banco Central do Brasil revela-se abusiva e, por isso, causa prejuízo ao consumidor" (e-STJ fl. 2.498). Consignou ainda que (e-STJ fl. 2.505):
+ ..  uma vez reconhecida a excessiva onerosidade dos encargos previstos para a normalidade e, como já dito, tratando-se de análise de contrato de abertura de crédito em conta corrente e vinculados, este Tribunal de Justiça firmou entendimento segundo o qual a mora não culmina caracterizada, mormente pela imprecisão do montante a ser consignado pela parte no decorrer do processo, a requerer a realização de cálculos em fase de cumprimento de sentença.
+Dessa forma, considerando que o temas relativos à possibilidade limitação dos juros remuneratórios, bem como à descaracterização da mora foram devidamente examinados pelo Tribunal de origem, inclusive com a análise de jurisprudência deste Tribunal Superior, afasta-se a alegada violação do art. 1.022, II, do CPC.
+Além disso, o Tribunal de origem reconheceu a necessidade de limitação dos juros remuneratórios, diante da sua abusividade. Nesse contexto, consignou que (e-STJ fl. 2.498):
+Em relação ao pacto n. 2167185, a abusividade resultou demonstrada, uma vez que o contrato estabeleceu a taxa em 23,87% ao ano, enquanto que a média de mercado divulgada pelo Banco Central para o período contratado (julho de 2014) foi de 20,84% ao ano, superando em mais de 10% os parâmetros divulgados pelo Bacen, considerando a "Série Temporal n. 20722 - Taxa média de juros das operações de crédito com recursos livres - Pessoas jurídicas - Capital de giro com prazo de até 365 dias, aplicável ao caso.
+Rever a conclusão do Tribunal a quo quanto à abusividade dos juros remuneratórios contratados, demandaria nova incursão no conjunto probatório, providência vedada na instância especial, a teor da Súmula n. 7 do STJ.
+Por fim, no que se refere à descaracterização da mora, a Corte de origem concluiu que (e-STJ fl. 2.505):
+Nestes autos, os juros remuneratórios foram limitados à taxa média de mercado (se no pactuado não foi estabelecido aquém).
+Dessa forma, conforme orientação acima, o excesso contratual existente no caso concreto é requisito suficiente para possibilitar o reconhecimento da descaracterização da mora ao menos até o cálculo definitivo, que deve ser elaborado com base nos parâmetros fixados na sentença e, agora, por ocasião do presente julgamento.
+Cumprido, portanto, o primeiro e o segundo requisitos estabelecidos pelo Superior Tribunal de Justiça, conclui-se que a presença de encargos abusivos, em casos como este, revela a complexidade do cálculo do quantum debeatur e do valor incontroverso, razão pela qual se torna inexigível o adimplemento substancial da dívida ou consignação dos valores incontroversos para o reconhecimento da descaracterização da mora.
+Assim, uma vez reconhecida a excessiva onerosidade dos encargos previstos para a normalidade e, como já dito, tratando-se de análise de contrato de abertura de crédito em conta corrente e vinculados, este Tribunal de Justiça firmou entendimento segundo o qual a mora não culmina caracterizada, mormente pela imprecisão do montante a ser consignado pela parte no decorrer do processo, a requerer a realização de cálculos em fase de cumprimento de sentença.
+Contudo, no recurso especial, apontando contrariedade aos arts. 394, 395, 396 e 397 do CC, a parte sustenta somente que a cobrança de encargos abusivos durante o período de inadimplência não desconfigura a mora.
+Como não houve impugnação de fundamento do acórdão recorrido, incide a Súmula n. 283 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
