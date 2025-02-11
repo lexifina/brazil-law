@@ -1,0 +1,60 @@
+DECISÃO
+Tr ata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de omissão e da incidência das Súmulas n. 83, 5 e 7 do STJ (e-STJ fls. 901/903).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 674/675 ):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. SENTENÇA DE PROCEDÊNCIA.
+APELO DA PARTE RÉ.
+SUSPENSÃO DO FEITO: Ainda que tenha sido decretada a liquidação extrajudicial da parte apelante, o entendimento do STJ, também adotado por esta Corte, se dá no sentido de que o comando previsto no art. 18 da Lei 6.024/74 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito, como é o caso.
+NULIDADE DA SENTENÇA: O relatório da sentença, embora simplificado, descreve a tese central apresentada pela ré, que defende a ausência de abusividade nas cláusulas ajustadas, não havendo nulidade a se reconhecer. No mesmo sentido, não há falar em ausência de fundamentação, pois a questão central da lide foi abordada na sentença e, conforme tem entendido esta Corte, não há necessidade de se explicitar a distinção do caso concreto quando não se estiver diante de precedentes vinculantes.
+CERCEAMENTO DE DEFESA: O julgamento antecipado do feito, sem despacho saneador, não configura cerceamento de defesa, pois a questão em debate pode ser resolvida com os documentos já existentes nos autos.
+FALTA DE INTERESSE DE AGIR: Não há óbice à pretensão de revisar contratos findos, de modo que o pleito da parte autora se mostra necessário e adequado para o fim pretendido, configurando seu interesse processual no caso.
+JUROS REMUNERATÓRIOS: A média do mercado não constitui, efetivamente, um limitador rígido dos contratos, mas um sinalizador para eventual abusividade.
+Contudo, considerando as particularidades do caso concreto, como o valor e o prazo do financiamento, as fontes de renda do cliente e a forma de pagamento da operação, não há elementos que justifiquem a exorbitância da taxa de juros pactuada, sendo possível constatar a sua abusividade e limitá-los à taxa média informada pelo BACEN, nos termos da jurisprudência do STJ.
+Eventuais particularidades do consignado local ou inadimplência do consumidor são insuficientes para afastar a abusividade, mesmo porque o risco econômico que existe no exercício de atividades financeiras não pode ser transferido ao consumidor, que é parte hipossuficiente na relação.
+REPETIÇÃO DE INDÉBITO: O reconhecimento da abusividade dos juros remuneratórios praticados no contrato impõe a devolução dos valores pagos em excesso, na forma simples.
+Com relação aos critérios de correção, apesar de haver debate sobre o tema, esta Corte tem-se posicionado pela inaplicabilidade da taxa SELIC para dívidas civis, de modo que devem ser mantidos os critérios fixados na sentença.
+HONORÁRIOS SUCUMBENCIAIS: O valor arbitrado se mostra compatível com o trabalho realizado e atende aos critérios do art. 85, §2º, do CPC, bem como encontra-se dentro dos parâmetros aceitos por esta Câmara, não havendo falar em sua minoração.
+APELO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 681/708), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, VI, e 927, III, do CPC/2015, porque (e-STJ fl. 694):
+A decisão recorrida deixou de conferir expressa observância a precedente e jurisprudência pacífica do STJ, invocados pela Portocred mediante reprodução das ementas de julgamento do Resp n. 1.061.530 (julgado sob o rito do art. 543-C do CPC/73) e do AgInt no ARsp 1493171/RS.
+(ii) art. 51, IV, e § 1º, III, do CDC, pois (e-STJ fls. 695/696):
+A decisão recorrida equivocadamente considerou que a taxa de juros praticada pela Portocred no caso dos autos seria abusiva, única e exclusivamente, por destoar da taxa média de mercado, determinando o juízo a sua redução. Este entendimento merece ser reformado.
+ ..  O simples fato de a taxa de juros estar acima da média divulgada pelo BACEN não caracteriza a existência de desvantagem exagerada em relação ao consumidor, tampouco de vantagem manifestamente excessiva para a Portocred.
+A taxa média de juros divulgada pelo BACEN congloba as menores e as maiores taxas de juros praticadas no mercado, em operações de diversos níveis de risco e envolvendo produtos diferentes e clientes com perfil diferente, circunstâncias que impossibilitam utilizar a taxa média como referencial de avaliação.
+Por este motivo, a determinação de que a taxa de juros concreta é abusiva, ou não, dependerá necessariamente de uma análise casuística, o que não ocorreu no caso dos autos.
+No agravo (e-STJ fls. 910/927), a agravante afirma a presença dos requisitos de admissibilidade do especial.
+Requereu a suspensão do processo pelo decreto da liquidação extrajudicial e o deferimento da gratuidade de justiça.
+Contraminuta não apresentada (e-STJ fl. 1.029).
+É o relatório.
+Decido.
+Da suspensão do processo
+O entendimento desta Corte é de que a norma inscrita no art. 18 da Lei n. 6.024/1974 "não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito" (AgInt no REsp n. 1.985.667/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022).
+No mesmo sentido: AgInt no REsp n. 1.969.577/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023; AgInt no REsp n. 1.783.833/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/10/2020, DJe de 27/10/2020.
+A ação revisional de contrato demanda quantia ilíquida, razão pela qual não se justifica a suspensão do processo.
+Da justiça gratuita
+O pleito de gratuidade da justiça nesta fase recursal em nada aproveitaria à parte, tendo em vista que tanto o agravo em recurso especial quanto o agravo interno independem de recolhimento de custas.
+Além disso, embora a parte possa fazer o pedido a qualquer tempo, tendo como justificativa sua condição econômico-financeira, segundo o entendimento jurisprudencial do Superior Tribunal de Justiça, a concessão do benefício somente produzirá efeitos ex nunc, não sendo admitida, portanto, sua retroatividade.
+Nesse sentido, os seguintes precedentes: EDcl nos EDcl no AgInt no AREsp n. 1.724.775/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, j. 25/10/2021, DJe 28/10/2021; e EDcl no AgInt no AREsp n. 1.704.464/SP, de minha relatoria, Quarta Turma, j. 9/8/2021, DJe 13/8/2021.
+Da ofensa ao art. 489, § 1º, VI, do CPC/2015
+Não há falar em ofensa ao art. 489, § 1º, do CPC/2015, por deficiência na fundamentação do acórdão recorrido, quando a parte agravante nem sequer opôs embargos de declaração àquela decisão para fins de sanar o vício apontado em sede de recurso especial.
+Da violação do art. 927, III, do CPC/2015
+A tese de inobservância, em segunda instância, da jurisprudência qualificada desta Corte Superior, bem como a alegação de contrariedade ao art. 927, III, do CPC/2015, não foi objeto de pronunciamento por parte do Tribunal de origem, circunstância que, cumulada com a ausência de oposição de aclaratórios, impede o conhecimento da insurgência por falta de prequestionamento. Incidem as Súmulas n. 282 e 356 do STF no caso.
+Da afronta ao art. 51, IV, e § 1º, do CDC e do dissídio jurisprudencial respectivo
+A Corte local entendeu pela abusividade da taxa de juros (e-STJ fl. 670):
+ ..  verifica-se que as taxas fixadas no contrato objeto da presente demanda exorbitam significativamente da média de remuneração de empréstimos.
+Nessa esteira, considerando as particularidades do caso concreto, como o valor e o prazo do financiamento, as fontes de renda do cliente e a forma de pagamento da operação, não há elementos que justifiquem a exorbitância da taxa de juros pactuada, sendo possível constatar a sua abusividade  ..
+Dito isso, não socorre à instituição financeira o argumento da peculiaridade do consignado local, porque a diferença é muito elevada para depender da mera circunstância como a existência de algum banco estatal.  ..
+Ao analisar a presente situação, percebe-se que ausente argumento ou circunstância que justifique a tarifa no patamar firmado, demonstrando-se elevado com relação à média de mercado, utilizada por outras instituições para a mesma modalidade de crédito, ainda que exista a possibilidade de pactuação de juros remuneratórios em referencial superior aqueles informados pelo Banco Central.
+Ademais, o risco econômico que existe no exercício de atividades financeiras não pode ser transferido ao consumidor, eis que este é parte hipossuficiente na relação. Desse modo entendo que deve ser mantida a sentença no que refere à limitação dos juros remuneratórios à taxa média de mercado à época da contratação.
+No julgamento do recurso de apelação, o Tribunal de origem, mantendo a sentença quanto ao cabimento da limitação do encargo e observada a Série Temporal n. 25.467 (Crédito pessoal consignado para trabalhadores e pensionistas do setor público), entendeu que houve excesso na pactuação dos juros, conforme consta das fls. 669/670 (e-STJ).
+Assim, levou em conta as peculiaridades do caso, especialmente os caracteres distintivos da modalidade da operação de crédito contratada e o nível de risco envolvido no referido mútuo, além da ausência de comprovação do alegado pela parte recorrente, ônus que lhe incumbia.
+Trata-se de mútuo bancário na modalidade de consignação em pagamento, o que reduz significativamente o risco de inadimplência, conforme esclarecido na exposição de motivos da medida provisória que dispõe sobre a autorização para desconto de prestações em folha de pagamento:
+ ..  um dos principais componentes do elevado custo dos empréstimos e financiamentos disponíveis aos cidadãos está relacionado ao risco potencial de inadimplência por parte dos tomadores. Tais riscos são estimados pelas instituições financeiras com base em modelos estatísticos próprios, e repassados às taxas de juros exigidas nas diversas formas de crédito oferecidas à clientela.
+ ..  a possibilidade de consignação das prestações em folha de pagamento, em caráter irrevogável e irretratável, por parte do empregado, virtualmente elimina o risco de inadimplência nessas operações, permitindo a substancial redução deste componente na composição das taxas de juros cobradas (EM Interministerial n. 176, de 16/9/2003.)
+Por sua vez, a Segunda Seção do STJ, ao julgar o Recurso Especial n. 1.877.113/SP, esclareceu que "o empréstimo consignado apresenta-se como uma das modalidades de empréstimo com menores riscos de inadimplência para a instituição financeira mutuante, na medida em que o desconto das parcelas do mútuo dá-se diretamente na folha de pagamento do trabalhador regido pela CLT, do servidor público ou do segurado do RGPS (Regime Geral de Previdência Social), sem nenhuma ingerência por parte do mutuário/correntista, o que, por outro lado, em razão justamente da robustez dessa garantia, reverte em taxas de juros significativamente menores em seu favor, se comparado com outros empréstimos" (relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 9/3/2022, DJe de 15/3/2022).
+Sob esse aspecto, apesar dos baixos riscos envolvidos na operação contratada pela parte agravada, foram pactuadas taxas de juros muito superiores à média do mercado.
+Nesse contexto, o Tribunal de origem decidiu em conformidade com a jurisprudência firmada no julgamento de recurso especial repetitivo, segundo a qual, "é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
