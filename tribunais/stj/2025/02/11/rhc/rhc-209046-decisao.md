@@ -1,0 +1,9 @@
+DECISÃO
+O presente recurso, interposto por MATHEUS GABRIEL ARAUJO, pelo qual impugnado o acórdão proferido pela Oitava Câmara de Direito Criminal do TRIBUNAL DE JUSTIÇA DE SÃO PAULO no HC n. 2257102-25.2024.8.26.0000 - que denegou o writ de origem, mantendo o recorrente segregado cautelarmente em razão da suposta prática do crime de tráfico de drogas -, perdeu seu objeto.
+Isso porque, diante das informações extraídas nos autos (fls. 141/142) e em contato com a Vara de origem, foi proferida sentença condenatória em desfavor do recorrente em 29/11/2024, condenando-o à pena de 10 anos e 8 meses de reclusão, em regime fechado, além do pagamento de 1. 559 dias-multa.
+Por sinal, na sentença, entendeu-se necessária a manutenção da custódia do réu, pois, além de ainda estarem presentes as causas que a determinaram, agora tal medida é reforçada com novo fundamento, qual seja, o juízo de certeza decorrente da sentença condenatória - de forma que a custódia cautelar não mais se ancora em meros indícios de autoria -, que ainda não foram submetidos ao crivo do Tribunal de origem.
+Ora, a superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar (AgRg no HC n. 461.932/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/8/2019). 3. Agravo regimental improvido (AgRg no RHC n. 157.779/MA, de minha relatoria, Sexta Turma, DJe 21/2/2022).
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS. PERDA DO OBJETO. Recurso prejudicado.
