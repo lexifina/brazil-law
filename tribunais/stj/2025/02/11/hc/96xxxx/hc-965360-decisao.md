@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de OSMAR SANTOS DE ALMEIDA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consta dos autos que o paciente foi preso em flagrante em 8/10/2024, convertida a custódia em preventiva, pela suposta prática da conduta descrita nos arts. 33 da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003.
+O impetrante afirma que o paciente é primário e portador de bons antecedentes, bem como que possui residência fixa, família constituída e ocupação lícita no distrito da culpa.
+Sustenta excesso de prazo para a conclusão do inquérito policial, pois está preso desde 8/10/2024 sem o oferecimento da denúncia, não havendo justificativa para a demora.
+Aduz que o prazo de 30 dias para a conclusão de inquérito policial, por se tratar de réu preso, já foi ultrapassado, não tendo sido requerida a sua prorrogação.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas.
+Por meio da decisão de fls. 718-719, o pedido liminar foi indeferido. A s informações solicitadas à origem não foram prestadas.
+É o relatório.
+Em consulta ao sítio eletrônico do Tribunal de origem (Ação Penal n. 8001361-55.2024.8.05.0099), verificou-se que a denúncia foi recebida em 21/1/2025, razão pela qual a alegação de excesso de prazo para a conclusão do inquérito policial perdeu o objeto.
+No mais, a prisão cautelar foi assim fundamentada (fl. 25, grifei):
+No caso em análise, constitui conclusão inarredável a presença do fumus comissi delicti, porquanto vislumbra-se a plausibilidade de que se trata de um fato criminoso, constatado por meio de elementos de informação que confirmam a presença de prova da materialidade do fato e de indícios de autoria, notadamente pelas declarações dos policiais que realizaram a diligência e pela apreensão de 10 tabletes de substância análoga a maconha e 02 (duas) espingardas de fabricação caseira (bate-bucha), os quais, em conjunto, fornecem indícios da prática do crime de tráfico de drogas.
+Patente, também, o periculum libertatis, uma vez que a permanência do agente em liberdade acarreta perigo concreto para a investigação criminal, o processo penal e a efetividade do direito penal.
+Demais disso, verifica-se a gravidade concreta do crime denunciado, evidenciada pela natureza e quantidade de drogas e armas apreendidas (10 tabletes de maconha e 02 espingardas), o que atrai a incidência do disposto no art. 312 do Código de Processo Penal, em virtude da necessidade de preservar-se a ordem pública.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos 5,138 kg de maconha, conforme requisição de exame pericial à fl. 102, e duas espingardas de fabricação caseira.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024 - grifei.)
+Ainda, entende esta Corte que o porte de arma ou munição, no contexto de tráfico de drogas, poderá justificar a manutenção da prisão, por evidenciar a periculosidade do acusado e a necessidade da segregação como forma de acautelar a ordem pública. Nesse sentido: RHC 137.054/CE, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 20/04/2021, DJe 27/04/2021).
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. DECISÃO LIMINAR DE DESEMBARGADOR. SÚMULA N. 691 DO STF. SUPERAÇÃO. IMPOSSIBILIDADE. NÃO CONHECIMENTO.
