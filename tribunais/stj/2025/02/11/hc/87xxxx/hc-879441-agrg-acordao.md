@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. LIMINAR INDEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF.
+1. As Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta, o que não ocorre na espécie.
+2. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto por Kaua Eduardo Alves Santos - preso preventivamente em razão da suposta prática do crime de tráfico de drogas (Autos n. 0000887-89.2023.8.16.0152) - contra a decisão de minha lavra que indeferiu liminarmente writ impetrado a favor do ora agravante (fls. 892/893).
+Alega o agravante, em suma, que possui o direito de responder ao processo em liberdade provisória com monitoração eletrônica, pois, o crime em que foi denunciado não obriga o regime fechado. 4. data vênia, não se houve com habitual e costumeiro acerto a decisão proferida, pois, o presente habeas corpus ofereceu condições de ser concedido de ofício, devido à manutenção da prisão e do constrangimento ilegal (fl. 899).
+Pede o provimento deste agravo regimental nos termos do writ impetrado.
+Dispensou- se a apresentação de contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. LIMINAR INDEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF.
+1. As Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta, o que não ocorre na espécie.
+2. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão ora agravada, que foi amparada em precedentes deste Superior Tribunal.
+Nesse contexto, as Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+No caso, inclusive, o decisum singular prolatado pelo eminente Relator, sobre a prisão do paciente, ressaltou o seguinte: o processo segue tramitação regular, sem qualquer desídia por parte do Poder Judiciário, tampouco ofensa ao princípio da razoabilidade, sobretudo ao se considerar que a instrução processual se encontra próxima de seu encerramento, pois realizada a audiência de instrução e julgamento. Além disso, tratando-se de ação penal pela prática, em tese, de crimes tipificados na Lei n. 11.343/2006 utiliza-se, como referência, o prazo de 252 (duzentos e cinquenta e dois) dias, haja vista que o prazo total  previsto no artigo 50 e seguintes da Lei n. 11.343/06  para a prática dos atos processuais até o encerramento da instrução criminal é de 126 (cento e vinte e seis) dias, o qual, por força do disposto no art. 10 da Lei n. 8.072/1990, é contado em dobro (fl. 92).
+In casu, não verifico manifesta ilegalidade a autorizar que se excepcione a aplicação do enunciado n. 691 da Súmula do Supremo Tribunal Federal, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão tem por base a necessidade de se resguardar a aplicação da lei penal, conforme entendimento do Desembargador Relator do decisum a quo: ademais, não merece acolhida o argumento de incompatibilidade entre a cautelar e o regime prisional a ser fixado em eventual condenação, já que não há como se afirmar qual será a pena imposta ao paciente antes de ser proferida a sentença pelo juízo competente, tratando-se de mero exercício especulativo. Desta feita, não se vislumbra, a princípio, ilegalidade na manutenção da prisão preventiva, não sendo cabível a sua substituição por medida cautelar diversa (fl. 93).
+Assim, reafirmo a motivação por mim adotada na decisão ora agravada e nego provimento ao agravo regimental.
