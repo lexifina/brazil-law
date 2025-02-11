@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 353/355).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 126):
+PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA.
+1. Decisão que acolheu o pedido, reconhecendo a formação de grupo econômico e determinando a inclusão da agravante no polo passivo da ação. Ausência dos requisitos subjetivos e objetivos do art. 50 do CC. Provas insuficientes no momento para o preenchimento de todos os requisitos para a concessão do pedido feito pelo agravado.
+2. Mesmo a eventual existência de grupo econômico, desacompanhada dos demais elementos do art. 50 do CC mostram- se insuficientes para acolhimento da pretensão da credora. Precedentes do STJ e deste E. Tribunal Decisão reformada
+RECURSO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 135/185), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação do art. 50 do CC/2002, sustentando, em síntese, que foram preenchidos os requisitos para a desconsideração da personalidade jurídica da parte agravada, "pois foi comprovado o desvio de faturamento praticado pela empresa recorrida, fato caracterizador do desvio de finalidade de abuso da personalidade jurídica" (e-STJ fl. 154).
+Segundo afirma, "as provas colacionadas aos autos atestam a progressiva ocultação de e/ou dilapidação do patrimônio, trazendo enormes prejuízos ao Recorrente e demais credores, que disponibilizaram quantias vultuosas e até o presente momento não tiveram a sua satisfação, embora o estabelecimento comercial continue em pleno funcionamento, porém imune aos atos de execução pois o seu faturamento é desviado para a empresa recorrida" (e-STJ fl. 150).
+No agravo (e-STJ fls. 358/412), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 473/478).
+É o relatório.
+Decido.
+Trata-se, na origem, de agravo de instrumento interposto contra decisão proferida nos autos da ação de execução de título extrajudicial, que deferiu o pedido de desconsideração da personalidade jurídica, reconheceu a existência de grupo econômico e confusão patrimonial, e determinou a inclusão da empresa ora agravada no polo passivo do cumprimento de sentença.
+O TJSP reformou a referida decisão por entender que não foram preenchidos os requisitos do art. 50 do CC/2002, destacando que "a Agravada, em verdade, não apresentou elementos revestidos de suficie nte solidez para demonstrar a existência de grupo econômico entre a agravante e a empresa executada, bem como para possibilitar o reconhecimento de desconsideração de personalidade jurídica, com a inclusão no polo passivo de cumprimento de sentença de pessoa jurídica que não integrou a relação contratual objeto desta ação" (e-STJ fl. 128).
+Afirmou também que "A mera inexistência de bens penhoráveis ou eventual encerramento irregular alegada pelo agravante não bastam para permitir a violação da autonomia patrimonial da pessoa jurídica, exigindo-se a prova de abuso de que trata o art. 50 do Código Civil, não demonstrado na hipótese. O mesmo se aplica à insuficiência de elementos probatórios no sentido da existência de confusão patrimonial ou mesmo da existência de grupo econômico" (e-STJ fl. 128).
+Modificar o entendimento do acórdão impugnado e reconhecer que foram cumpridos os requisitos para a desconsideração da personalidade jurídica da empresa ora recorrida, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
