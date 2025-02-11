@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ELAINE CRISTINA RUGONI LUNARDELLO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: execução de título extrajudicial ajuizada pelo CENTRO UNIVERSITARIO DE ADAMANTINA - UNIFAI, em face da agravante, objetivando o recebimento de crédito representado por nota promissória.
+Sentença: julgou extinta a execução, com fundamento no art. 924, V, do CPC.
+Acórdão: deu provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PRESCRIÇÃO INTERCORRENTE - Inocorrência Exequente que empreendeu inúmeros esforços para recebimento de seu crédito, sem sucesso por questão alheia à sua vontade - Execução que prescreve no mesmo prazo da ação Última suspensão ocorrida na vigência do atual Código de Processo Civil, mas antes das alterações promovidas pela Lei Federal nº 14.195/2021 - Aplicação do artigo 206, § 5º, I, do Código Civil - Prazo de cinco anos, fixado o marco inicial de fluência da prescrição intercorrente um ano após a suspensão do art. 921, III, do Código de Processo Civil - Manifestações realizadas dentro do prazo prescricional - Sentença reformada.
+Apelação provida. (e-STJ, fl. 423)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) não ficou demonstrada a alegada vulneração aos dispositivos arrolados; ii) necessidade de reexame de fatos e provas (Súmula 7/STJ); iii) dissídio jurisprudencial não comprovado.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "Conforme se extrai das razões recursais, a violação dos dispositivos da lei federal restou plenamente demonstrada, com um tópico inteiro dedicado exclusivamente à analise da questão"; ii) "ao contrário do que entendeu o tribunal, não há necessidade de reexame de provas, até porque nem foram produzidas. Aqui, faz-se mera qualificação jurídica dos fatos apurados"; iii) "restou devidamente demonstrada a similitude entre os julgados paradigmas e o v. Acórdão recorrido, de forma que plenamente preenchidos os requisitos do dissídio jurisprudencial."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) não ficou demonstrada a alegada vulneração aos dispositivos arrolados; ii) necessidade de reexame de fatos e provas (Súmula 7/STJ); iii) dissídio jurisprudencial não comprovado.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
