@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interno interposto pela União contra decisão, assim ementada (fl. 682):
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA FEDERAL. MANDADO DE SEGURANÇA. REGISTRO SINDICAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+A agravante alega que a questão controversa diz respeito aos requisitos materiais para a concessão do registro sindical, ou seja, caracterização de categoria profissional, base territorial e representatividade dos sindicalizados, devendo prevalecer a competência da justiça do trabalho para processar e julgar a ação, nos termos do artigo 114, III, da Constituição Federal.
+Com impugnação.
+É o relatório. Passo a decidir.
+Em melhor análise, observa-se que a argumentação apresentada pela parte agravante merece acolhida, razão pela qual reconsidero a decisão de fls. 682-683 e procedo novo exame da questão, a qual versa acerca de conflito negativo de competência instaurado entre o Juízo da 1ª Vara do Trabalho de Florianópolis/SC e o Tribunal Regional Federal da 4ª Região, nos autos do mandado de segurança impetrado pelo Sindicato dos Auxiliares Periciais da Polícia Científica do Estado de Santa Catarina - SINPCI/SC contra ato do Subsecretário de Relações do Trabalho do Ministério do Trabalho e Previdência que indeferiu o pedido de registro sindical.
+Como visto, a controvérsia objeto da ação mandamental em que suscitado o conflito de competência em tela diz respeito a indeferimento de registro sindical, matéria essencialmente trabalhista.
+Sob esse enfoque, anota-se que é da justiça laboral a competência para processar e julgar os feitos atinentes à representação sindical, em face do disposto no art. 114, III, da Constituição Federal, segundo o qual compete à Justiça do Trabalho processar e julgar "as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores".
+Essa, a propósito, a compreensão firmada pela Suprema Corte. Confira-se:
+AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PEDIDO DE REGISTRO SINDICAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO (CF, ART. 114, III). EMENDA CONSTITUCIONAL N. 45/2004.
+1. A Emenda Constitucional n. 45/2004, ao alterar a redação do art. 114, III, da Constituição Federal, atribuiu à Justiça do Trabalho competência para processar e julgar "as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores", incluídas as causas que tratam da demora do Ministério do Trabalho em apreciar o pedido de registro sindical. Precedentes.
+2. Agravo interno desprovido (ARE n. 1.166.932-AgR-segundo, relator Ministro Nunes Marques, Segunda Turma, julgado em 3/7/2023, DJe 21/8/2023).
+Agravo regimental no recurso extraordinário. Direito do Trabalho e Direito Sindical. Competência da Justiça do Trabalho. Dissídio coletivo e lide entre sindicatos. Controvérsia envolvendo os processos que tramitavam quando da promulgação da EC nº 45/04. Aplicação do art. 522 da CLT. Possibilidade. Dispositivo recepcionado pela Constituição Federal. Precedentes.
+1. A Emenda Constitucional nº 45/04 estabeleceu, no art. 114, inciso III, e § 2º, da Constituição Federal, a competência da Justiça do Trabalho para dirimir dissídio coletivo bem como as controvérsias sobre o direito sindical.
+2. No julgamento do CC nº 7.204/MG, Tribunal Pleno, Relator o Ministro Ayres Britto, firmou-se o entendimento de que, além de ser da justiça do trabalho a competência para julgar a lide entre sindicatos, tal orientação alcançaria também os processos que tramitavam na Justiça estadual à época da promulgação da Emenda Constitucional nº 45/04, desde que não proferida sentença de mérito na origem.
+3. A jurisprudência do Supremo Tribunal Federal já assentou que o art. 522 da Consolidação das Leis do Trabalho teria sido devidamente recepcionado pela Constituição Federal. Precedentes.
+4. Agravo regimental não provido (RE n. 446.970-AgR, relator Ministro Dias Toffoli, Segunda Turma, julgado em 17/9/2018, DJe 17/10/2018).
+Ante o exposto, dou provimento ao agravo interno para, exercendo o juízo de retratação, declarar competente o Juízo da 1ª Vara do Trabalho de Florianópolis/SC, ora suscitante.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZO DE RETRATAÇÃO. MANDADO DE SEGURANÇA. PEDIDO DE REGISTRO SINDICAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
