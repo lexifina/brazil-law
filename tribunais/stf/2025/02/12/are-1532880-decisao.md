@@ -1,0 +1,55 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. DEFENSOR PÚBLICO ESTADUAL. TETO REMUNERATÓRIO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. PRETENSÃO DE RESSARCIMENTO DE VALORES DESCONTADOS PELO REDUTOR SALARIAL. PAGAMENTO DAS DIFERENÇAS. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+
+    2. A Segunda Turma Recursal de Fazenda Pública do Colégio Recursal dos Juizados Especiais do Tribunal de Justiça de São Paulo decidiu:
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. RECURSO INOMINADO. SERVIDOR(A) PÚBLICO(A) ESTADUAL. DEFENSORIA PÚBLICA ESTADUAL. REDUTOR SALARIAL. 1. Pretensão de restituição dos valores descontados a título de redutor salarial. 2. Impossibilidade. Demanda coletiva ajuizada pela Associação Paulista de Defensores Públicos (APADEP), pretendendo o recebimento de 100% do subsídio mensal dos Ministros do Supremo Tribunal Federal, julgada improcedente. ARE 1211989/SP. 3. Legalidade do descontos efetuados observando o subteto de 90,25% do referido subsídio mensal. Art. 37, XI da CF. 4. Mudança de entendimento administrativo que não pode ser aplicada retroativamente. 5. Sentença de procedência reformada. Recurso provido” (fl. 2, e-doc. 15).
+
+    3. O recurso extraordinário foi inadmitido por ausência de ofensa constitucional direta e pela incidência da Súmula n. 280 do Supremo Tribunal Federal (e-doc. 20).
+
+    4. O agravante argumenta que “trata-se de ação (...) pela qual a parte autora/agravante, titular do cargo de defensor público do Estado de São Paulo, se volta contra conduta da parte ré/agravada que, quando da implementação de corte nos seus subsídios previsto no inciso XI do artigo 37 da Constituição Federal (CF), entendeu pela aplicação do teto remuneratório supostamente previsto para os Desembargadores do Tribunal de Justiça de São Paulo (‘subteto’) limitado a 90,25% da remuneração dos Ministros do Supremo Tribunal Federal (STF)” (fl. 2, e-doc. 22).
+
+    Afirma que “está-se a reclamar do Poder Judiciário que defina se, nos termos do artigo 37, XI, da CF, com a redação que lhe deu a Emenda Constitucional 41/2003, quando eventualmente superior, a remuneração do agravante defensor público estadual deve ser cortada em 90,25% (subteto) ou 100% do subsídio dos Ministros do STF, com as consequências financeiras dai advindas” (fl. 6, e-doc. 22).
+
+    Alega que o acórdão recorrido “entendeu que o teto remuneratório de 100% dos subsídios do STF disposto no artigo 37, XI, da CF não é impositivamente aplicável aos defensores públicos estaduais, limitado que é à magistratura federal e estadual, de modo que seriam legítimos cortes nos vencimentos do jurisdicionado com base em subteto de 90,25% do subsídio máximo nacional” (fl. 6, e-doc. 22).
+
+    Pede pelo provimento do presente recurso para que seja “acolhido, em consequência, o pedido inaugural concernente ao ressarcimento, respeitada a prescrição quinquenal, dos valores que foram injuridicamente cortados da remuneração mensal a título de redutor salarial por subteto remuneratório, uma vez que, enquanto defensor público, está sujeito, para fins de glosa, ao teto de 100% do subsídio dos Ministros do STF” (fl. 11, e-doc. 22).
+
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o inc. XI do art. 37 da Constituição da República.
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    5. Razão jurídica não assiste ao agravante.
+
+    O acórdão do Tribunal de origem está em conformidade com a jurisprudência do Supremo Tribunal Federal. Nesse sentido confiram-se os seguintes julgados:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. TETO REMUNERATÓRIO. ART. 37, XI, DA CONSTITUIÇÃO FEDERAL. DEFENSORES PÚBLICOS ESTADUAIS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. *. O cerne da questão é definir se as Defensorias Públicas estaduais estão sujeitas ao teto remuneratório de 100% do subsídio mensal dos Ministros do Supremo Tribunal Federal ou ao ‘subteto’ dos Desembargadores do Tribunal de Justiça (90,25% do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal). *. Na ADI 3.854/DF (Rel. Min. GILMAR MENDES, DJe de 8/2/2021), o Plenário desta CORTE conferiu interpretação conforme a Constituição ao inciso XI do art. 37 da CF/1988 e declarou a inconstitucionalidade da fixação de subteto remuneratório diferenciado entre a magistratura estadual e a magistratura federal, considerado o caráter nacional da estrutura judiciária brasileira. *. No entanto, esse paradigma ficou adstrito à magistratura, não havendo referência quanto às demais carreiras - as quais, a priori, se encontram vinculadas ao subteto de 90,25% do subsídios dos ministros do Supremo Tribunal Federal. *. Esta SUPREMA CORTE, no julgamento do RE 663.696-RG, Tribunal Pleno, Rel. Min. LUIZ FUX, DJe de 22/8/2019, submetido ao rito da repercussão geral (Tema 510/RG), fixou a seguinte tese: A expressão ‘Procuradores’, contida na parte final do inciso XI do art. 37 da Constituição da República, compreende os Procuradores Municipais, uma vez que estes se inserem nas funções essenciais à Justiça, estando, portanto, submetidos ao teto de noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal. *. Os argumentos suscitados pelo recorrente não são suficientes para infirmar a interpretação dada ao art. 37, XI da CRFB, que determina, também aos Defensores Públicos, o teto remuneratório equivalente a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal. *. O acórdão recorrido observou esse entendimento, devendo, portanto, ser mantido. *. Agravo Interno a que se nega provimento” (ARE n. 1.508.596-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 24.10.2024).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DEFENSOR PÚBLICO ESTADUAL. SUBSÍDIO. TETO REMUNERATÓRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.854: INAPLICABILIDADE. PRETENSÃO AO RECEBIMENTO DE DIFERENÇAS PELO PAGAMENTO CALCULADO A MENOR. ACÓRDÃO RECORRIDO FUNDAMENTADO EM NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR APRECIAÇÃO EQUITATIVA. QUESTÃO DE NATUREZA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 1.520.446-AgR, de minha relatoria, Primeira Turma, DJe 12.12.2024).
+
+    6. Ademais, para acolher a pretensão do agravante, sobre a alegação de “ressarcimento (...) dos valores que foram injuridicamente cortados da remuneração mensal a título de redutor salarial”, e divergir da conclusão adotada pelo Tribunal de origem, que reconheceu que, “ainda que tenha sido implementado, administrativamente, a partir de abril de 2023, o limite remuneratório de 100% do subsídio mensal dos Ministros do Supremo Tribunal Federal (fls. 349), a mudança de entendimento não possui efeito retroativo, não tornando automaticamente inválidos os descontos já realizados”, seria necessária a análise da legislação infraconstitucional aplicável ao processo, a inviabilizar o processamento do recurso extraordinário. Assim, por exemplo, os seguintes julgados:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. DIFERENÇA REMUNERATÓRIA ENTRE PROCURADORES DO ESTADO E PROCURADORES DA FAZENDA ESTADUAL DA BAHIA NO PERÍODO DE 1º DE JANEIRO DE 2002 A 28 DE MAIO DE 2003. LEI 8.207/2002 DO ESTADO DA BAHIA. ARGUMENTAÇÃO ACERCA DA REPERCUSSÃO GERAL. INEXISTÊNCIA. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL E REEXAME DA CONTEXTO FÁTICO-PROBATÓRIO. SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS MAJORADOS AO MÁXIMO LEGAL EM DESFAVOR DA PARTE RECORRENTE, CASO AS INSTÂNCIAS DE ORIGEM OS TENHAM FIXADO, NOS TERMOS DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL, OBSERVADOS OS LIMITES DOS §§ 2º E 3º. RECURSO MANIFESTAMENTE IMPROCEDENTE. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.395.270-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 31.8.2023).
+
+    “Direito administrativo. Agravo interno em recurso extraordinário com agravo. Servidor público municipal. Alteração de folha de pagamento. Diferenças remuneratórias. Matéria infraconstitucional. Reexame do conjunto fático-probatório. Incidência das Súmulas 279 e 280 do STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve sentença de procedência. 2. Para dissentir do entendimento do Tribunal de origem, seria imprescindível analisar a legislação infraconstitucional aplicada ao caso, assim como apreciar os fatos e o material probatório constantes dos autos, procedimentos inviáveis neste momento processual. A hipótese atrai a incidência das Súmulas 279 e 280/STF. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015” (ARE n. 1.475.827-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 14.3.2024).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO ESTADUAL. TETO REMUNERATÓRIO. CONSTITUIÇÃO ESTADUAL. LIMITE ÚNICO. SUBSÍDIO DO DESEMBARGADOR DO TRIBUNAL DE JUSTIÇA. SUPERVENIÊNCIA DA EC Nº 47/2005. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. O Supremo Tribunal Federal, ao apreciar o RE 576.336 -RG, Rel. Min. Ricardo Lewandowski, assentou a ausência de repercussão geral da controvérsia dos autos (Tema 81). 2. Agravo interno a que se nega provimento” (AI n. 774.337-AgR, Relator o Ministro Luís Roberto Barroso, DJe 13.3.2017).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    7. Pelo exposto, nego provimento a este recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 12 de fevereiro de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
