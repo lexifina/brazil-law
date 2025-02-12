@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE.
+1. Hipótese em que o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade concreta da conduta. A quantidade de entorpecentes apreendidos (308,4 kg de maconha) e o modus operandi da imputação de tráfico de drogas (em contexto de associação com outros agentes, com indícios de forte organização e distribuição de tarefas entre eles, flagrados com R$ 13.000,00  treze mil reais  e anotações contábeis) constituem motivação apta a justificar a medida extrema para garantia da ordem pública.
+2. Nessa conjuntura, mostra-se indevida a aplicação de medidas cautelares diversas da prisão, pois a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes .
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEX FERNANDO APARECIDO CALHERANI DE MORAES contra a decisão, de minha lavra, em que neguei provimento ao recurso ordinário em habeas corpus, nos termos desta ementa (fl. 644):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE.
+Recurso improvido.
+Daí o presente agravo, no qual, segundo o agravante, a prisão preventiva do Paciente se limitou a invocar a quantidade de drogas apreendidas e a suposta gravidade do crime, sem demonstrar, de forma concreta e particular, como a liberdade do Agravante colocaria em risco a ordem pública (fl. 664).
+Pede, nesses termos, a retratação da decisão agravada ou a submissão do feito ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE.
+1. Hipótese em que o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade concreta da conduta. A quantidade de entorpecentes apreendidos (308,4 kg de maconha) e o modus operandi da imputação de tráfico de drogas (em contexto de associação com outros agentes, com indícios de forte organização e distribuição de tarefas entre eles, flagrados com R$ 13.000,00  treze mil reais  e anotações contábeis) constituem motivação apta a justificar a medida extrema para garantia da ordem pública.
+2. Nessa conjuntura, mostra-se indevida a aplicação de medidas cautelares diversas da prisão, pois a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes .
+3. Agravo regimental improvido.
+VOTO
+A irresignação não comporta provimento.
+Como já dito na decisão agravada, a prisão preventiva encontra-se devidamente motivada, pois destacou o Magistrado a gravidade concreta da conduta  existência de associação para prática de delitos em larga escala, haja visto a quantidade exorbitante de drogas apreendias, dinheiro e indícios de forte organização e distribuição de tarefas entre os indiciados (fl. 178).
+Há muito, o Supremo Tribunal Federal assentou que a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública (HC n. 130.708/SP, Ministra Cármen Lúcia, Segunda Turma, DJe 6/4/2016).
+Com efeito, no âmbito desta Corte Superior, ambas as Turmas da Terceira Seção compartilham a compreensão de que a elevada quantidade de drogas evidencia a gravidade concreta da conduta imputada, de modo a justificar a segregação cautelar para garantia da ordem pública.
+Ilustrativamente: AgRg no HC n. 884.870/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/4/2024; AgRg no HC n. 859.475/SP, Ministra Laurita Vaz, Sexta Turma, DJe 20/10/2023; e AgRg no HC n. 889.648/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 11/4/2024.
+No caso, observo que o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade concreta da conduta. A quantidade de entorpecentes apreendidos (308,4 kg de maconha) e o modus operandi da imputação de tráfico de drogas (em contexto de associação com outros agentes, com indícios de forte organização e distribuição de tarefas entre eles, flagrados com R$ 13.000,00  treze mil reais  e anotações contábeis) constituem motivação apta a justificar a medida extrema para garantia da ordem pública.
+Nessa conjuntura, mostra-se indevida a aplicação de medidas cautelares diversas da prisão, pois a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes (HC n. 550.688/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/3/2020; e HC n. 558.099/SP, Ministro Jorge Mussi, Quinta Turma, DJe 5/3/2020).
+Ante o exposto, nego provimento ao agravo regimental.
