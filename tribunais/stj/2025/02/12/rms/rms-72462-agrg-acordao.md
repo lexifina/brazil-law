@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Acesso a elementos investigativos. Sigilo. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu pedido liminar em recurso ordinário em mandado de segurança, cujo objeto era o acesso a elementos investigativos de inquérito policial iniciado em 2022, envolvendo suposta fraude financeira.
+2. O acórdão recorrido denegou a segurança, alinhando-se à jurisprudência no sentido de que é possível a restrição de acesso a informações protegidas por sigilo quando necessário à investigação criminal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a restrição de acesso a informações sigilosas de inquérito policial, mesmo à suposta vítima, é válida quando necessária à investigação criminal.
+III. Razões de decidir
+5. A jurisprudência desta Corte permite a restrição de acesso a informações sigilosas quando necessário para proteger a intimidade e privacidade dos investigados e garantir a eficácia da investigação criminal.
+6. A orientação adotada no acórdão recorrido está alinhada com a jurisprudência, não configurando teratologia ou manifesta ilegalidade que justifique a concessão de liminar.
+7. A concessão de liminar em situações excepcionais requer a demonstração de teratologia ou manifesta ilegalidade, o que não se verifica no presente caso.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A restrição de acesso a informações sigilosas de inquérito policial é válida quando necessária à investigação criminal. 2. A concessão de liminar em mandado de segurança contra ato jurisdicional requer a demonstração de teratologia ou manifesta ilegalidade".
+Dispositivos relevantes citados: CF/1988, art. 105, II, "b"; Estatuto da Advocacia, art. 70.
+Jurisprudência relevante citada: STJ, AgRg no RMS 68.012/SP, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 15.02.2022.
+RELATÓRIO
+Trata-se de agravo regimento em recurso ordinário em mandado de segurança, em face de decisão, às fls. 1210-1213, que indeferiu o pedido liminar.
+O recurso ordinário foi apresentado com fundamento no artigo 105, inciso II, letra "b", da Constituição Federal, em face do v. Acórdão de fls. 1.152/1.161 que, por votação unânime, denegou a segurança, cujo objeto era o reconhecimento de suposto constrangimento ilegal proveniente de decisão proferida pelo Juízo de Direito do Departamento de Inquéritos Policiais da Capital DIPO 3, que, nos autos de nº 1540455- 11.2022.8.26.0050, indeferiu o pedido da empresa vítima de acesso às peças sigilosas acostadas aos autos.
+Em suas razões recursais (fls. 1167/1189), o recorrente alega que "além de não se estar requerendo acesso a diligência que não tenha sido finalizada, a natureza do crime investigado, isto é, possível fraude financeira de ex- colaboradora, bem como a atividade desenvolvida pela Recorrente, na qualidade de empresa de meios de pagamento, revelam a aptidão da vítima em colaborar com a análise das informações provenientes da quebra de sigilo bancário e, portanto, com o deslinde dos procedimentos investigativos"; que "o direito de acesso às diligências documentadas documentadas não seria absoluto e automático, não existindo comprometimento ao andamento das investigações com a restrição imposta à vítima"; que "sempre que a vítima se faça representar, por patrono regularmente constituído, como é o caso da ora Recorrente, a Súmula Vinculante no 14 do STF lhe garante o acesso ao resultado das diligências já findas e documentadas nos autos, tal qual ao investigado"; que "Não fosse suficiente a previsão da referida Súmula, à qual o Tribunal a quo negou vigência tão somente pela Recorrente figurar como vítima, o art. 70 do Estatuto da Advocacia, que se aplica durante a fase de inquérito, garante ao advogado o direito de acompanhar as investigações e perícias, extrair cópias, e, ainda, requerer quaisquer diligências. Negou- se vigência, também, a tais prerrogativas ao enquadrar o presente caso na excepcionalidade das diligências em andamento ou não documentadas nos autos, o que não se verifica"; que "este é o momento adequado para a análise dos dados e sugestão de novas diligências, pois posteriormente certamente os possíveis requerimentos da vítima terão perdido objeto, ou, em decorrência do decurso de tempo, não serão mais viáveis e frutíferos"; que "nunca foi pretensão da Recorrente negar o direito à intimidade e à privacidade da investigada, que fundamentam a imposição do sigilo, porém os Tribunais Superiores já sedimentaram o caráter relativo desse sigilo em relação às diligências findas, justamente reconhecendo a relevância da colaboração da vitima" e que "não menos importante é o direito da ofendida à verdade, à justiça e à devida reparação. O direito de acesso da vítima ao que consta no inquérito policial, possibilitando uma previsão acerca da reparação do dano, também deve ser visto de forma a favorecer maior eficiência à justiça penal, à construção de um sistema de justiça menos interventivo e mais solidário com os anseios das vítimas".
+Pugna pela concessão de liminar "a fim de que seja estabelecido o acesso aos documentos protegidos por sigilo externo nos autos do Inquérito Policial no 1540455- 11.2022.8.26.0050 à Recorrente, até o julgamento de mérito deste mandamus".
+No mérito, requer "seja concedida a segurança, de forma que seja estabelecido o acesso definitivo da Recorrente às informações provenientes da quebra de sigilo bancário decretada nos autos do Inquérito Policial n. 1540455 -11.2022.8.26.0050, do DIPO 3 - Seção 3.2.3 da Comarca da Capital do Estado de São Paulo".
+Contrarrazões pelo Procurador de Justiça/SP, pelo desprovimento do recurso (fls. 300/305).
+Neste agravo interno, requer a reconsideração da decisão agravada ou, em não sendo esse o entendimento do Eminente Relator, a submissão do pedido liminar à C. Quinta Turma, para sua reforma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Acesso a elementos investigativos. Sigilo. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu pedido liminar em recurso ordinário em mandado de segurança, cujo objeto era o acesso a elementos investigativos de inquérito policial iniciado em 2022, envolvendo suposta fraude financeira.
+2. O acórdão recorrido denegou a segurança, alinhando-se à jurisprudência no sentido de que é possível a restrição de acesso a informações protegidas por sigilo quando necessário à investigação criminal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a restrição de acesso a informações sigilosas de inquérito policial, mesmo à suposta vítima, é válida quando necessária à investigação criminal.
+III. Razões de decidir
+5. A jurisprudência desta Corte permite a restrição de acesso a informações sigilosas quando necessário para proteger a intimidade e privacidade dos investigados e garantir a eficácia da investigação criminal.
+6. A orientação adotada no acórdão recorrido está alinhada com a jurisprudência, não configurando teratologia ou manifesta ilegalidade que justifique a concessão de liminar.
+7. A concessão de liminar em situações excepcionais requer a demonstração de teratologia ou manifesta ilegalidade, o que não se verifica no presente caso.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A restrição de acesso a informações sigilosas de inquérito policial é válida quando necessária à investigação criminal. 2. A concessão de liminar em mandado de segurança contra ato jurisdicional requer a demonstração de teratologia ou manifesta ilegalidade".
+Dispositivos relevantes citados: CF/1988, art. 105, II, "b"; Estatuto da Advocacia, art. 70.
+Jurisprudência relevante citada: STJ, AgRg no RMS 68.012/SP, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 15.02.2022.
+VOTO
+Em análise dos autos, verifico que o agravo regimental foi interposto em 03 de novembro de 2023, sendo possível que o objeto da demanda não subsista, qual seja, o acesso a elementos investigativos de inquérito policial iniciado em 2022.
+Esta Corte Superior, reiteradamente, tem se manifestando no sentido de que o mandado de segurança poderá ser utilizado contra ato jurisdicional, excepcionalmente, quando do ato não couber recurso ou, se couber, para atribuir-lhe efeito suspensivo; quando ficar configurada teratologia ou manifesta ilegalidade ou abuso de poder, aptos a ofender direito líquido e certo, repita-se, apurável sem necessidade de dilação probatória.
+No caso em exame, não vislumbro o fumus boni iuris autorizador da concessão da tutela. Isso porque, ao contrário do que alega a defesa, a orientação adotada no acórdão recorrido, em princípio, se alinha à jurisprudência desta Corte no sentido de que é possível a restrição de acesso, mesmo à suposta vítima, de informações protegidas por sigilo quando necessária à investigação criminal, como ocorre no presente caso. Nesse sentido:
+"em se tratando de procedimento preparatório, não suscetível de contraditório, que visa à colheita de prova da materialidade e indícios de autoria para eventual ajuizamento da ação penal, impertinente a divulgação à suposta vítima dos extratos bancários das pessoas jurídicas investigadas neste momento, especialmente quando houver interesses econômicos extrapenais e atuais entre os envolvidos. A manutenção do direito ao sigilo fica justificada pela necessidade de proteger a intimidade e privacidade daqueles que são investigados, sob pena de indisfarçável desvio de finalidade das medidas implementadas" (AgRg no RMS n. 68.012/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 15/2/2022, D Je de 21/2/2022.).
+Registre-se, ainda, que, em situações excepcionais, esta Corte Superior tem concedido o pleito liminar, desde que o acórdão a ser impugnado se apresente teratológico ou manifestamente contrário à jurisprudência deste Tribunal ou, ainda, que esteja evidenciada, de plano, a probabilidade de êxito do recurso e visível o perigo da demora na análise da irresignação. Não é o que se extrai dos autos.
+Ante o exposto, nego provimento ao agravo regimental .
+É como voto.
