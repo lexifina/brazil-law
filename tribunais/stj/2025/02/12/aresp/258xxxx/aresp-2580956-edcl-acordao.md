@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/02/2025 a 12/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. OFENSA À COISA JULGADA. INEXISTÊNCIA. ERRO MATERIAL. POSSIBILIDADE DE CORREÇÃO DE OFÍCIO. PRECEDENTES DO STJ. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Quanto à suposta ofensa à coisa julgada, observa-se que o acórdão recorrido deixou claro que a decisão da Presidência do STJ, ao apreciar o agravo interno do embargado, tornou sem efeito a decisão que não conheceu do agravo em recurso especial do embargado. Contudo, por um equívoco, houve novo julgamento do mesmo agravo interno pela Segunda Turma.
+II - O acórdão embargado, ao julgar o agravo em recurso especial, anulou o julgamento do agravo interno, corrigindo o apontado erro material. Assim, não se verifica qualquer ofensa à coisa julgada, considerando que o erro no julgamento foi devidamente constatado e corrigido.
+III - Ainda que houvesse trânsito em julgado do acórdão anulado, esta Corte Superior entende que o erro material, pode ser corrigido, de oficio ou a requerimento da parte. Precedentes: AgInt no AREsp n. 2.375.323/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024; AgInt nos EDcl no AREsp n. 2.331.468/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024.
+IV - Quanto às demais alegações de vícios, segundo o art. 1.022 do CPC, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento, e/ou corrigir erro material.
+V - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARISA LIETE ZICARI DI MONTE e OUTROS contra acórdão que julgou agravo em recurso especial. O recurso foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ITCMD. BASE DE CÁLCULO ATRIBUÍDA PELA FAZENDA PÚBLICA. VALOR DE MERCADO.
+I - Inicialmente, em preliminar, verificado que, por meio de agravo interno, foi tornada sem efeito a decisão da presidência do Superior Tribunal de Justiça que inadmitia o presente AREsp, e que, equivocadamente, foi realizado novo julgamento do agravo interno por este colegiado, faz-se necessário anular o referido julgamento, tornando-o sem efeito.
+II - É legal o arbitramento pela Fazenda Pública da base de cálculo do ITCMD, quando entender que o valor venal declarado não corresponde ao valor de mercado do bem. Precedente: AgInt no RMS n. 70.528/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 27/6/2023.
+III - Anulado o julgamento do agravo interno (fls. 292-298), tornando-o sem efeito e, em análise do AREsp, agravo conhecido para dar provimento ao recurso especial.
+Nos aclaratórios, a embargante aponta vícios de omissão, argumentando, em síntese, que o acórdão anulado (fls. 292/298) transitou em julgado e que o novo julgamento afronta a coisa julgada.
+Adiante, aponta vícios de omissão quanto a aplicação da Súmula 7/STJ e da Súmula 280/STF, além da violação à Lei Estadual 10.705/2000.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. OFENSA À COISA JULGADA. INEXISTÊNCIA. ERRO MATERIAL. POSSIBILIDADE DE CORREÇÃO DE OFÍCIO. PRECEDENTES DO STJ. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Quanto à suposta ofensa à coisa julgada, observa-se que o acórdão recorrido deixou claro que a decisão da Presidência do STJ, ao apreciar o agravo interno do embargado, tornou sem efeito a decisão que não conheceu do agravo em recurso especial do embargado. Contudo, por um equívoco, houve novo julgamento do mesmo agravo interno pela Segunda Turma.
+II - O acórdão embargado, ao julgar o agravo em recurso especial, anulou o julgamento do agravo interno, corrigindo o apontado erro material. Assim, não se verifica qualquer ofensa à coisa julgada, considerando que o erro no julgamento foi devidamente constatado e corrigido.
+III - Ainda que houvesse trânsito em julgado do acórdão anulado, esta Corte Superior entende que o erro material, pode ser corrigido, de oficio ou a requerimento da parte. Precedentes: AgInt no AREsp n. 2.375.323/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024; AgInt nos EDcl no AREsp n. 2.331.468/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024.
+IV - Quanto às demais alegações de vícios, segundo o art. 1.022 do CPC, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento, e/ou corrigir erro material.
+V - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Quanto à suposta ofensa à coisa julgada, observa-se que o acórdão recorrido deixou claro que a decisão da Presidência do STJ, às fls. 275-276, ao apreciar o agravo interno das fls. 262-264, tornou sem efeito a decisão proferida às fls. 257-258. Contudo, por um equívoco, houve novo julgamento do mesmo agravo interno pela Segunda Turma, resultando no acórdão às fls. 292-298.
+O acórdão embargado, ao julgar o agravo em recurso especial, anulou o julgamento do agravo interno constante às fls. 292-298. Assim, não se verifica qualquer ofensa à coisa julgada, considerando que o erro no j ulgamento foi devidamente constatado e corrigido.
+Ainda que houvesse trânsito em julgado do acórdão anulado, esta Corte Superior entende que o erro material, pode ser corrigido, de oficio ou a requerimento da parte. No mesmo sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. 2. FALTA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. 3. COMPOSIÇÃO DA TURMA RECURSAL. MODIFICAÇÃO. NECESSIDADE DE ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. 4. AUSÊNCIA DE JULGAMENTO CONJUNTO DE PROCESSOS CONEXOS. FACULDADE DO JULGADOR. INEXISTÊNCIA DE PREJUÍZO. SÚMULAS 7 E 83/STJ. 5. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. ERRO MATERIAL. CARACTERIZAÇÃO. CORREÇÃO DE OFÍCIO. POSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 6. AGRAVO INTERNO IMPROVIDO.
+(..)
+5. De fato, "a doutrina e a jurisprudência firmaram entendimento de que, constatado erro material, admite-se seja corrigido, de oficio ou a requerimento da parte, ainda que haja trânsito em julgado da sentença. Inteligência do art. 463, I, do CPC. Precedentes do STJ" (AgInt no AREsp 828.816/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21/9/2016).
+(..)
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.375.323/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTS. 489 1.022 DO CPC. NÃO OCORRÊNCIA. PAGAMENTO VOLUNTÁRIO TEMPESTIVO. REVISÃO. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 7 DO STJ. ERRO MATERIAL. CORREÇÃO. POSSIBILIDADE. INEXISTÊNCIA DE OFENSA AOS INSTITUTOS DA PRECLUSÃO E DA COISA JULGADA. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento das teses defendidas no recurso especial implicar, necessariamente, o reexame dos elementos fático-probatórios dos autos.
+3. A correção de erro material de ofício não implica ofensa aos institutos da preclusão e da coisa julgada. Aplicação da Súmula n. 83 do STJ.
+(..)
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.331.468/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Quanto às demais alegações, segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
