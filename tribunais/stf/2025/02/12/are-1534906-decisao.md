@@ -1,0 +1,39 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. RECURSO DA DEFESA. TRÁFICO DE ENTORPECENTES. RECEPTAÇÃO. ABSOLVIÇÃO. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA. COMPROVAÇÃO. CONDENAÇÃO MANTIDA. CONSCIÊNCIA DA ORIGEM ILÍCITA DO BEM. DEPOIMENTO POLICIAL. ESPECIAL RELEVÂNCIA. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PRIMEIRA FASE. NATUREZA E QUANTIDADE. ART. 42 DA LAD. CIRCUNSTÂNCIA ÚNICA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. Comprovadas nos autos a materialidade e a autoria do crimede tráfico de drogas, a condenação do apelante é medida quese impõe, sendo irrelevante a sua condição de usuário. 2. Consoante firme entendimento desta Corte de Justiça, ocrime de receptação implica na inversão do ônus da prova,incumbindo ao acusado demonstrar a procedência regular dobem ou o seu desconhecimento acerca da origem ilícita, o quenão ocorreu na hipótese vertente. 3. Os depoimentos dos policiais militares revestem-se de valorprobatório, uma vez que, como agentes do Estado, os policiaisgozam de boa fé pública e, além disso, não há nos autos qualquer elemento que indique interesse escuso em prejudicar o acusado. 4. A natureza e a quantidade da droga apreendida, embora nãopermitam a valoração negativa das circunstâncias do artigo 59, do Código Penal, autorizam o incremento da pena -base, nostermos da Lei Antidrogas, mormente se a substância éaltamente nociva ao organismo e de grande poder destrutivo àsaúde física e mental do dependente. Contudo, não se admite aseparação dos vetores "natureza e quantidade" para que apena seja incrementada em duplicidade na individualização dapena. 5. O entendimento jurisprudencial considera como critériorazoável para o cálculo da pena -base a modulação em 1/8 (umoitavo) para cada circunstância judicial, aplicado sobre oresultado obtido da diferença entre a pena máxima e mínimacominadas ao crime. Não se cuida de preceito absoluto, masde parâmetro, de ponto de partida, para a dosimetria daprimeira fase da pena. Precedentes do STJ e da CâmaraCriminal do TJDFT. 6. O fato de o apelante afirmar ser usuário de drogas nãoimplica a confissão pelo crime de tráfico de entorpecentes, conforme entendimento sumulado no Verbete n° 630 do STJ. 7. A pena de multa deve guardar proporcionalidade com a penacorporal aplicada. Ademais, incabível a concessão de isençãode seu pagamento na fase de conhecimento, visto que tal pedido deve ser examinado pelo Juízo das Execuções Penais. 8. Recurso conhecido e parcial provimento, para redimensionar a pena -base do crime de tráfico de drogas e fixar, definitivamente, a pena em 8 (oito) anos, 5 (cinco) meses e 15(quinze) dias de reclusão e 687 (seiscentos e oitenta e sete) dias -multa.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, III e 5°, incisos XLVI, LIV, LVII, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DO TIPO PENAL: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). DOSIMETRIA DA PENA. BIS IN IDEN. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1248157/SP - AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 06/04/2020).
+
+    “DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRÁFICO DE DROGAS. ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA, DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. O Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660). 2. A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF). Precedente. 3. Agravo interno a que se nega provimento” (ARE 1251016/CE - AgR, Primeira Turma, Rel.  Min. Luís Roberto Barroso, DJe de 06/04/2020).
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Tráfico de drogas e associação para o tráfico. Artigos 33, caput, e 35 da Lei 11.343/2006. 4. Ofensa indireta e reflexa à Constituição Federal. 5. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 6. Tema 660 da sistemática de repercussão geral. 7. Precedentes. 8. Agravo regimental não provido” (ARE 1244158 AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 07/04/2020).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 12 de fevereiro de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
