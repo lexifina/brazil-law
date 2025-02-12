@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. REITERAÇÃO DE PEDIDO. DIFERENTE ATO COATOR. DECISÃO RECONSIDERADA. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. ART. 117 DA LEP. ALEGAÇÃO DE SAÚDE DEBILITADA. FALTA DE DEMONSTRAÇÃO DOS PRESSUPOSTOS. PRECEDENTE. ESTADO DE COISAS INCONSTITUCIONAL DO SISTEMA PRISIONAL BRASILEIRO. INOVAÇÃO RECURSAL.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental de Adauto da Costa Gama contra decisão monocrática de minha lavra, na qual dei provimento ao agravo regimental para, reconsiderando a então decisão agravada, conhecer parcialmente do recurso ordinário e, na extensão conhecida, negar-lhe provimento, conforme os termos da seguinte ementa (fl. 330):
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. REITERAÇÃO DE PEDIDO. DIFERENTE ATO COATOR. DECISÃO RECONSIDERADA. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. ART. 117 DA LEP. ALEGAÇÃO DE SAÚDE DEBILITADA. FALTA DE DEMONSTRAÇÃO DOS PRESSUPOSTOS. PRECEDENTE.
+Agravo regimental provido para, reconsiderada a decisão agravada, conhecer parcialmente do recurso ordinário para, nessa extensão, negar-lhe provimento.
+O agravante alega, em síntese, que os fundamentos do recurso são condizentes com a jurisprudência desta Corte Superior. Realça a falta de condições do presídio em manter seu tratamento, considerando a falta de medicamentos e a ausência de fraudas geriátricas.
+Sustenta ter sido demonstrada a falta de tratamento adequado para o preso na unidade prisional, além de não estarem sendo fornecidos os medicamentos com regularidade.
+Afirma que a decisão agravada não está amparada em jurisprudência dominante e que o caso não admitiria a decisão monocrática.
+Destaca o estado de coisas inconstitucional do sistema penitenciário brasileiro.
+Pede o provimento do agravo regimental (fls. 337/358).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. REITERAÇÃO DE PEDIDO. DIFERENTE ATO COATOR. DECISÃO RECONSIDERADA. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. ART. 117 DA LEP. ALEGAÇÃO DE SAÚDE DEBILITADA. FALTA DE DEMONSTRAÇÃO DOS PRESSUPOSTOS. PRECEDENTE. ESTADO DE COISAS INCONSTITUCIONAL DO SISTEMA PRISIONAL BRASILEIRO. INOVAÇÃO RECURSAL.
+Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido, devendo a decisão ser mantida por seus fundamentos.
+Conforme destaquei na decisão agravada, o Tribunal local denegou a ordem aos seguintes fundamentos (fl. 195):
+Como bem afirmou a douta Procuradoria de Justiça em seu parecer, "apesar de o Paciente possuir incontinência fecal em razão da sequela pós COVID e do claro desconforto gerado pela necessidade de usar fraldas, não restou comprovado situação de extrema gravidade e ausência de possibilidade de tratamento na unidade prisional", eis que, "no dia 06 de junho de 2024, o Conjunto Penal de Feira de Santana, em resposta ao ofício solicitando informações sobre o estado de saúde do Paciente, relatou que ele apresenta quadro clínico estável e que passou por avaliação do pneumologista do programa PROAR, oportunidade na qual solicitou exames laboratoriais, Rx de tórax, e espirometria, sendo encaminhado ao serviço POS COVID-CSU e prescrito salbutamol spray, clenil spray e loratadina", e, além disto, "a Autoridade Coatora, nos informes judiciais já colacionados no bojo deste parecer, relatou que já vem tratando a situação das fraldas junto aos órgãos competentes e que efetuou a doação de vários pacotes de fraldas adquiridas através das execuções de Acordos de Não Persecução Penal" (ID 68878299).
+De fato, no que se refere especificamente ao fornecimento de fraldas geriátricas, a Autoridade Impetrada, ao prestar informações, aclarou que "embora haja informação de que a unidade não recebe esse insumo do sistema de saúde integrado - situação que já vem sendo tratada por este Juízo junto aos órgãos competentes eis que tal não pode ocorrer numa unidade do porte do CPFS - este Juízo efetuou a doação de vários pacotes de fraldas estas adquiridas através das execuções de Acordos de Não Persecução Penal destinando-as a unidade prisional para atendimento emergencial dos dois internos identificados nas inspeções mensais em uso de fraldas higiênicas" (ID 31433098).
+Logo, como a documentação contida nestes autos demonstra que o tratamento médico que o Paciente necessita está sendo fornecido, de forma satisfatória, pelo estabelecimento penitenciário e pela atuação atenta e diligente do Juízo Impetrado, que sanou a questão atinente às fraldas geriátricas, não é possível conceder a presente ordem para que o Apenado seja beneficiado com a prisão domiciliar, eis que a situação excepcional que permitiria tal benesse àquele que cumpre pena no regime fechado não restou configurada.
+Nos termos da jurisprudência desta Corte Superior de Justiça, a prisão domiciliar só é admitida em favor de preso inserido no regime aberto, a teor do que dispõe o art. 117 da Lei de Execução Penal. Contudo, comprovado que o recluso  não obstante cumpra pena nos regimes fechado ou semiaberto  esteja acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não possa ser prestado no ambiente prisional, admite-se, de forma excepcional, sua colocação em prisão domiciliar (HC n. 599.642/SP, Ministra Laurita Vaz, Sexta Turma, DJe 21/6/2021).
+De fato, como explicitou o Tribunal local, não houve prova da ausência de condições da unidade penitenciária em prover o tratamento adequado (fl. 195), tendo o próprio Juízo destinado fraldas geriátricas para a unidade prisional, adquiridas por meio de acordos de não persecução penal.
+Acresço, ainda, não ter havido prova da doença grave e da debilidade acentuada da saúde, o que impede a concessão da prisão domiciliar.
+Assim, apenas mediante incursão nas provas seria possível reverter a conclusão do Tribunal a quo, estando a decisão em consonância com a jurisprudência desta Corte Superior, e, portanto, admitindo a decisão monocrática.
+Logo, inviável o regime domiciliar, devendo ser mantida a decisão agravada.
+Além disso, o argumento relativo ao estado de coisas inconstitucional do sistema penitenciário não foi objeto do recurso ordinário, não sendo cabível a inovação no bojo do agravo regimental.
+Ante o expos to, nego provimento ao agravo regimental.
