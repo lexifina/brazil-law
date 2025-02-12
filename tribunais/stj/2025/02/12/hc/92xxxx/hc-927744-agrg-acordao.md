@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/02/2025 a 12/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trago à análise da Turma o agravo regimental de MARCOS ANTONIO CORTINAS LOPEZ contra a decisão de fls. 1.848/1.851, mediante a qual deneguei o habeas corpus, conforme esta ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL EM AÇÃO REVISIONAL TRANSITADA EM JULGADO. DESCABIMENTO. RECEPTAÇÃO QUALIFICADA. ILEGALIDADE DAS PROVAS. VIOLAÇÃO DE DOMICÍLIO. INEVIDÊNCIA. INFORMAÇÃO ANÔNIMA ESPECIFICADA. APONTAMENTO DE ELEMENTOS CONCRETOS. FUNDADAS RAZÕES. AUTORIZAÇÃO DE INGRESSO. IMPOSSIBILIDADE DE REVOLVIMENTO DE FATOS E PROVAS PARA ALTERAÇÃO DA PREMISSA. PARECER ACOLHIDO. INEVIDÊNCIA DE FLAGRANTE ILEGALIDADE. PRECEDENTES.
+Ordem denegada.
+Nas razões recursais, a defesa insiste que não há indicativo de que os agentes policiais estavam agindo no exercício regular da atividade investigativa e que as denúncias configuravam fundadas razões para violarem o domicílio profissional do agravante (fl. 1.861).
+Argumenta que, em nenhuma fase processual, quer seja interrogatório realizado em sede policial, quer seja naquele realizado em juízo, o agravante nunca afirmou que a entrada dos agentes foi consentida (fl. 1.861).
+Defende que as circunstâncias trazidas no agravo são incontroversas e não demandam o revolvimento probatório da ação penal.
+Requer a reconsideração da decisão recorrida ou seja o agravo submetido à apreciação da Sexta Turma, a fim que seja provido para declarar a ilicitude da prova que lastreou a condenação do agravante nos autos nº 0097492-86.2020.8.19.0001, obtida por meio de violação do domicílio (fl. 1.875), absolvendo-se o acusado.
+Não abri prazo para a parte agravada apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão hostilizada, mediante impugnação, clara e específica, de todos os fundamentos, que foram assim expostos (fls. 1.849/1.850):
+A hipótese não revela nenhum constrangimento ilegal evidente a ser reparado por meio deste habeas corpus, impetrado como substitutivo de recurso especial, contra o acórdão da revisão criminal julgada improcedente, transitado em julgado.
+Segundo consta do decisum ora combatido, a situação apresentada não tende a expor qualquer nulidade ou eventual ilicitude das provas por inviolabilidade domiciliar (fl. 1.822). Isso porque a diligência não se deu de forma aleatória, nem em decorrência de mero estado de ânimo dos agentes da lei, mas após terem informações do Setor de Inteligência, das atividades ilícitas do requerente e por determinação da autoridade policial (fl. 1.820).
+Afirmou, ainda, que, diferentemente do alegado pela defesa, conforme se depreende da prova oral obtida, as testemunhas policiais, tanto em sede policial quanto em Juízo, afirmaram que a entrada no estabelecimento foi franqueada pelo revisionando, situação também confirmada pelo técnico da OI (fl. 1.821).
+O entendimento exposto pela instância antecedente não destoa da compreensão firmada nesta Corte de que a ação policial baseada em informações anônimas especificadas (configurada pela indicação de elementos concretos relacionados à prática delitiva - fls. 240/242) caracteriza exercício regular da atividade investigativa e afasta a dita ilegalidade por violação de domicílio. Nesse sentido, por exemplo, o AgRg no HC n. 909.524/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 16/8/2024; AgRg no HC n. 874.262/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 19/6/2024; e AgRg no HC n. 841.369/AL, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/12/2023.
+Afora isso, conforme dito pelo Tribunal estadual, a entrada no estabelecimento comercial foi franqueada pelo paciente. Tal circunstância foi admitida pelo próprio réu em seu recurso especial, interposto contra o acórdão da apelação, como se vê da fl. 944 do AREsp n. 2.116.205/RJ: deve militar em favor do recorrente o fato de que o mesmo franqueou a entrada dos policiais civis em suas instalações.
+De todo modo, para modificar essa premissa e concluir que o consentimento não ocorreu livremente, seria necessário o revolvimento de todo o contexto fático-probatório dos autos, expediente inviável na sede mandamental. A propósito, o AgRg no HC n. 885.998/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/4/2024; e o AgRg no HC n. 824.181/SC, Ministro Joel Ilan Parcionik, Quinta Turma, DJe 6/3/2024.
+Quanto ao ponto, inclusive, o Subprocurador-Geral da República Roberto dos Santos Ferreira ponderou que nessa via não se admite incursão aprofundada nos fatos e provas, atividade que foi efetivada pelas instâncias originárias, do que se denota temerário desconsiderar tal situação (fl. 1.845).
+Ante o exposto, denego o habeas corpus.
+As razões do agravo regimental são inaptas para desconstituir essa motivação, pois nada foi dito quanto ao descabimento do habeas corpus por ser substitutivo do recurso próprio.
+Seja como for, pelo que consta dos autos, a entrada dos policiais foi franqueada pelo próprio paciente, que, em suas alegações, não trouxe elementos que apontem para eventual coação ou irregularidade na obtenção do consentimento, de maneira que não se vislumbra constrangimento ilegal a ser sanado pela via mandamental (AgRg no HC n. 889.866/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/3/2024).
+Afora isso, como já dito, as denúncias anônimas que originaram a ação policial continham elementos concretos, como o endereço e a descrição detalhada sobre a atividade suspeita, o que justificou a ação policial (fls. 240/242).
+Com efeito, a busca decorreu de denúncias anônimas especificadas, o que, por si só, já revelaria as fundadas razões paro o ingresso no estabelecimento comercial (AgRg no HC n. 858.610/SC, Ministra Daniela Teixeira, Quinta Turma, DJe 6/11/2024).
+Entendimento contrário ao exposto pelas instâncias antecedentes demandaria, necessariamente, o revolvimento do conjunto fático-probatório, providência inadmissível na via estreita do habeas corpus.
+Dessa forma, à falta de contrariedade, mantêm-se hígidos os motivos expendidos pela decisão recorrida. Não tendo o agravante, nas razões deste recurso, infirmado especificamente todos os fundamentos da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior, segundo a qual é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada (AgRg no HC n. 782.971/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/9/2023).
+Pelo exposto, não conheço do agravo regimental.
