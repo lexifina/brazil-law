@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/02/2025 a 12/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. PRETENSÃO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO NO PATAMAR MÁXIMO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE NA DECISÃO ORIGINÁRIA. CARÊNCIA DE ELEMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus substitutivo e, na análise de ofício, não visualizou elementos capazes de caracterizar flagrante ilegalidade.
+2. O Tribunal de origem aplicou a causa de diminuição de pena do tráfico privilegiado prevista no art. 33, § 4º, da Lei 11.343/2006, fixando a redução na fração mínima de 1/6, com base na quantidade de droga apreendida  643,505g de maconha e 4,115g de cocaína.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a aplicação da minorante do tráfico privilegiado no patamar mínimo de 1/6 foi devidamente fundamentada, considerando a quantidade de drogas apreendidas e a ausência de circunstâncias judiciais desfavoráveis.
+III. Razões de decidir
+4. A jurisprudência do STJ não admite habeas corpus como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+5. A decisão agravada considerou que a quantidade de droga apreendida justificava a redução em menor grau, não havendo ausência de fundamentação adequada na origem.
+6. A Súmula nº 182/STJ impede o conhecimento do agravo regimental que não ataca especificamente os fundamentos da decisão agravada.
+IV. Dispositivo
+7. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em face de decisão monocrática de minha relatoria, que não conheceu do habeas corpus substitutivo e, na análise de ofício, não visualizou elementos capazes de caracterizar flagrante ilegalidade.
+A defesa do agravante alega, em síntese, que: (i) o Tribunal de origem reconheceu a minorante do tráfico privilegiado no patamar mínimo de 1/6 sem fundamentação idônea, contrariando jurisprudência que exige justificativa detalhada para não aplicar o benefício no máximo legal (2/3); (ii) a quantidade de drogas apreendidas (643,505g de maconha e 4,115g de cocaína) não é exacerbada e não há circunstâncias judiciais desfavoráveis que justifiquem a redução; e (iii) o réu é primário, não há provas de dedicação a atividades criminosas, nem de integração em organização criminosa, preenchendo todos os requisitos para a aplicação da redução máxima de pena.
+Ao final, requer: (i) a reconsideração da decisão que não conheceu do habeas corpus; (ii) o reconhecimento da minorante do tráfico privilegiado no patamar máximo de 2/3; e (iii) caso não haja reconsideração, que o agravo interno seja submetido a julgamento por órgão colegiado do Superior Tribunal de Justiça.
+O Ministério Público do Estado de Goiás apresentou impugnação (e-STJ fls. 119-122).
+O prazo concedido ao MPF transcorreu sem a juntada de manifestação (e-STJ fl. 128).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. PRETENSÃO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO NO PATAMAR MÁXIMO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE NA DECISÃO ORIGINÁRIA. CARÊNCIA DE ELEMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus substitutivo e, na análise de ofício, não visualizou elementos capazes de caracterizar flagrante ilegalidade.
+2. O Tribunal de origem aplicou a causa de diminuição de pena do tráfico privilegiado prevista no art. 33, § 4º, da Lei 11.343/2006, fixando a redução na fração mínima de 1/6, com base na quantidade de droga apreendida  643,505g de maconha e 4,115g de cocaína.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a aplicação da minorante do tráfico privilegiado no patamar mínimo de 1/6 foi devidamente fundamentada, considerando a quantidade de drogas apreendidas e a ausência de circunstâncias judiciais desfavoráveis.
+III. Razões de decidir
+4. A jurisprudência do STJ não admite habeas corpus como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+5. A decisão agravada considerou que a quantidade de droga apreendida justificava a redução em menor grau, não havendo ausência de fundamentação adequada na origem.
+6. A Súmula nº 182/STJ impede o conhecimento do agravo regimental que não ataca especificamente os fundamentos da decisão agravada.
+IV. Dispositivo
+7. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo.
+No entanto, não constato elementos suficientes para reconsiderar o julgamento monocrático, ou prover o presente recurso, uma vez que a decisão agravada assim dispôs (e-STJ fls. 96-99):
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, D Je de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, D Je de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o " habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, D Je de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Isso porque, da leitura do acórdão impugnado (e-STJ fls. 83/90), observa-se que o Tribunal de origem reconheceu a aplicação da causa de diminuição de pena do tráfico privilegiado prevista no art. 33, §4º, da Lei 11.343/2006, fixando a redução na fração mínima de 1/6, com base na quantidade de droga apreendida  643,505g de maconha e 4,115g de cocaína. Ademais, considerou que, embora o paciente preencha os requisitos para a aplicação do benefício, a quantidade de droga justificava a redução em menor grau. Não há, portanto, falar em ausência de fundamentação adequada na escolha do percentual aplicado.
+Nesse sentido, desta Corte Superior, mutatis mutandis:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. REDUTORA APLICADA NA FRAÇÃO MÍNIMA DE 1/6. TRANSPORTE DE DROGAS. MULA. QUANTIDADE DE DROGAS. MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados pela lei, sendo permitido ao julgador, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena. 2. A jurisprudência desta Corte, acompanhando o atual posicionamento do STF, entende que a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade. 3. Embora o desempenho dessa função não seja suficiente para denotar que o agente faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez que se reveste de maior gravidade. 4. No caso, não se observa a apontada ofensa ao art. 33, § 4º, da Lei n. 11.343/2006, porquanto a Corte Regional decidiu a controvérsia de acordo com o entendimento deste Superior Tribunal de Justiça, aplicando o referido redutor em 1/6, tendo destacado as circunstâncias do caso concreto, notadamente a elevada quantidade de entorpecente (9 kg e 212 gramas de cocaína) e o modus operandi empregado, indicativos de que a ré tinha conhecimento de estar a serviço de organização criminosa voltada ao tráfico de entorpecentes. 5. Agravo regimental não provido. (AgRg no AR Esp n. 2.093.067/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/9/2022, D Je de 4/10/2022.)
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Outrossim, a hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+É assente nesta Corte que "não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia" (AgRg no AREsp n. 2.463.052/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+No mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada conheceu do agravo para não conhecer do recurso especial interposto pelo recorrente, apontando o óbice da Súmula 182 do STJ.
+2. Não obstante, neste agravo regimental, a parte agravante limita-se a afirmar, de modo genérico, que impugnou todos os fundamentos da decisão de admissibilidade, deixando, novamente, de atacar os fundamentos da decisão agravada.
+3. Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP, o que é o caso.
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.513.329/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2024, DJe de 10/4/2024.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
