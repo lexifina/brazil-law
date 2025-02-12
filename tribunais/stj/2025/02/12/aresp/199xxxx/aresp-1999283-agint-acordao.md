@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. AMBIENTAL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PEDIDO DE CONDENAÇÃO INDENIZATÓRIA DE MADEIREIRAS PELA EXPLORAÇÃO INDEVIDA DE ÁREAS INDÍGENAS. DANOS PRETÉRITOS. DEGRADAÇÃO CONTINUADA. POSSIBILIDADE. INÉPCIA DA INICIAL. INEXISTÊNCIA. SÚMULA N. 7/STJ. NÃO INCIDÊNCIA. JULGAMENTO MONOCRÁTICO. PREJUÍZO PROCESSUAL NÃO DEMONSTRADO. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. O vício processual só enseja nulidade quando demonstrado efetivo prejuízo à parte. Caso em que nem mesmo houve alegação de prejuízo pelo julgamento monocrático que, ademais, é superado pela apreciação colegiada do agravo interno.
+2. O pedido de condenação do degradador ambiental, ainda quando presentes danos pretéritos, não é inepto.
+3. O afastamento da inépcia da inicial à luz das conclusões jurídicas do acórdão não atrai a incidência da Súmula n. 7/STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por  EXPORTADORA PERACCHI LTDA.  contra  a  decisão  que , em juízo integrativo, conheceu em parte do recurso especial para dar-lhe provimento, de modo a determinar o reenvio do feito à origem para apreciação de pedidos remanescentes dos apelantes ou da remessa necessária, afastada a inépcia da inicial.
+Argumenta  a  parte agravante,  em  síntese: i) a ausência de poderes do relator para decidir a matéria monocraticamente; ii) efetiva inépcia da inicial, quanto ao pedido de condenação das madeireiras; e iii) impossibilidade de conhecimento do recurso ante a incidência da Súmula n. 7/STJ.
+Sustenta:
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial de que a parte autora originária da ação alega existência de agressão e exploração da área em período bem anterior àquele em que os índios firmaram contrato com as referidas empresas, o revelando uma narração dos fatos não decorrerem logicamente o pedido, os argumentos utilizados pelo Agravado somente poderia ter sua procedência verificada mediante o necessário reexame de matéria fática/probatório, o que é vedado pela Súmula nº 7/STJ.
+Ademais, o pedido formulado na petição inicial é completamente vago, eis que não pede a imposição de medida concreta, dotada de mínima identificação e delimitação.
+A narrativa fática construída na petição inicial faz referência a um período de agressão e exploração da área indígena anterior ao tempo em que a Agravante teria supostamente iniciado qualquer atividade na mesma área.
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação apresentada.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AMBIENTAL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PEDIDO DE CONDENAÇÃO INDENIZATÓRIA DE MADEIREIRAS PELA EXPLORAÇÃO INDEVIDA DE ÁREAS INDÍGENAS. DANOS PRETÉRITOS. DEGRADAÇÃO CONTINUADA. POSSIBILIDADE. INÉPCIA DA INICIAL. INEXISTÊNCIA. SÚMULA N. 7/STJ. NÃO INCIDÊNCIA. JULGAMENTO MONOCRÁTICO. PREJUÍZO PROCESSUAL NÃO DEMONSTRADO. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. O vício processual só enseja nulidade quando demonstrado efetivo prejuízo à parte. Caso em que nem mesmo houve alegação de prejuízo pelo julgamento monocrático que, ademais, é superado pela apreciação colegiada do agravo interno.
+2. O pedido de condenação do degradador ambiental, ainda quando presentes danos pretéritos, não é inepto.
+3. O afastamento da inépcia da inicial à luz das conclusões jurídicas do acórdão não atrai a incidência da Súmula n. 7/STJ.
+4. Agravo interno desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  O caso diz respeito a danos ambientais cometidos pela exploração irregular de madeira em área indígena. Os pedidos foram dirigidos às autarquias ambiental e indígena, bem como às madeireiras. Quanto a estes, consubstanciados em indenização correspondente aos custos da extração da madeira e lucros com sua comercialização, o acórdão entendeu pela inépcia da inicial.
+A decisão monocrática consignou suas razões na necessidade/possibilidade de interpretação lógico-sistemática da petição, bem como na inexistência de qualquer obscuridade ou generalidade no pedido. Registrou, ainda, a jurisprudência desta Corte quanto aos danos ambientais pretéritos, tidos pelo acórdão como causa de inépcia. Transcrevo:
+No ponto, o acórdão considerou que o fato de a inicial mencionar a existência de danos ambientais pretéritos comprometeria a análise dos danos ambientais imputados, a partir de certa data, às madeireiras rés. Conforme a jurisprudência desta Corte, os pedidos devem ser interpretados de forma lógico-sistemática, inclusive para identificar pedidos implícitos.
+ ..
+No caso dos autos, não se trata nem mesmo de pedido implícito. A inicial é clara ao fixar o pedido relativo à indenização com base nos valores de mercado da madeira comercializada ilicitamente, bem como nos custos do investimento para essa extração.
+Transcrevo:
+No tocante às madeireiras Rés, porém, a condenação pedida há que consistir em indenização em dinheiro.
+E tal indenização deverá corresponder ao dobro dos ganhos por elas obtidos com a comercialização da madeira extraída ilegalmente daquela Área Indígena, bem como daqueles valores dispendidos pelas mesmas para causar o dano, quais sejam, os custos da extração da madeira.
+Ao fixar o custo da extração, além dos valores havidos em função da venda da madeira tendo por base o seu preço de mercado, devem eles ser computados em dobro, visto que a condenação no valor simples, teria o significado de um incentivo à lesão.
+A pena deve desestimular a lesão, além de repará-la. E, para reparar o dano, inegável é que o valor necessário tem que ser, no mínimo, o custo da extração que originou a lesão e os lucros que dela se originaram.
+Ressalte-se, por último, que referida indenização deverá servir para custear os trabalhos de recomposição ambiental, na forma do Art. 13 da já mencionada Lei 7.347/85.
+Nada há de obscuro ou genérico no pedido, a ponto de comprometer a instrução do feito. O acórdão, ademais, confunde matérias de mérito, de potencial improcedência, do pedido  haver infratores ambientais anteriores ou danos pretéritos  com a inépcia do próprio pedido, o que, efetivamente, não há.
+No passo, anoto que esta Corte não afasta nem mesmo a possibilidade de indenização do dano ambiental pretérito, causado por terceiros, desde que verificada a contribuição do réu para a permanência do ilícito ambiental ou sua obrigação de restaurá-lo.
+ ..
+Contudo, no caso dos autos, nem a tanto se chega. O pedido é de condenação pelos danos ambientais causados no curso da exploração ilícita das madeireiras apontadas, na base dos valores identificáveis no período, conforme supostamente consta em contratos e outros elementos de prova discutidos nos autos.
+Como se verifica, o fundamento mesmo da decisão é a possibilidade/necessidade de interpretação lógico-sistemática da petição para identificar pedidos implícitos, bem como a natureza jurídica do pedido indenizatório quanto aos danos pretéritos.
+As demais considerações foram tecidas em obiter dictum, de modo a reforçar a linha argumentativa, demonstrando que o ônus interpretativo exigido do julgador, no caso, nem mesmo chegaria a pedidos implícitos, senão explícitos. Em todo caso, não se trata de incidência da Súmula n. 7/STJ, mas de reenquadramento jurídico dos fatos quanto aos danos pretéritos, notadamente da seguinte conclusão do acórdão recorrido:
+Além do mais, considerando que se trata de vegetação, a própria natureza se incumbe, não raro, de se regenerar sem a intervenção humana, o que, portanto, exige a especificação dos pedidos, inclusive para nortear a prova pericial, com a finalidade de permitir o julgamento da demanda, com observância aos princípios constitucionais da ampla defesa e do contraditório.
+Assim, constatada questão processual que impede a análise do mérito, não se mostra adequada a declaração de nulidade pretendida pela Parte Ré.
+É que o Autor afirma na inicial que, antes ainda da alegada exploração pelos próprios índios e pelas referidas empresas Apelantes, a área já estava sendo "agredida", sem indicar especificamente os responsáveis, de forma particularizada.
+Por fim, no que diz respeito ao vício processual pelo julgamento monocrático, a parte não indica qualquer prejuízo concreto sofrido, o que impede a apreciação de sua eventual nulidade que, ademais, é superada pela submissão do agravo interno ao controle do Colegiado. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. PRESUNÇÃO. INTIMAÇÃO. COMPARECIMENTO ESPONTÂNEO. NULIDADE. SUPRIMENTO.
+1. Esta Corte Superior firmou entendimento no sentido que o comparecimento espontâneo da parte supre a ausência de citação, afastando a nulidade processual quando não comprovado efetivo prejuízo. Precedentes: AgRg no AREsp 559.883/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20/3/2015; REsp 1.378.384/AC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/10/2013; REsp 555.360/RJ, Rel. Min. Aldir Passarinho Junior, Quarta Turma, DJe 29.6.2009; AgRg nos EDcl no Ag 917.585/SP. Rel. Min. Aldir Passarinho Júnior, Quarta Turma, DJe 30/6/2008; REsp 671.755/RS. Rel. Min. Castro Meira, Segunda Turma. DJ 20/3/2007).
+2. Agravo interno não provido (AgInt no AREsp n. 2.415.542/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+PROCESSUAL CIVIL. NA ORIGEM. CONSTITUCIONAL E AMBIENTAL. AÇÃO CIVIL PÚBLICA. DANOS CAUSADOS EM ÁREA DE PRESERVAÇÃO PERMANENTE. DEGRADAÇÃO NAS PROXIMIDADES DA LAGOA DE CATU NO MUNICÍPIO DE AQUIRAZ-CE. DESCUMPRIMENTO DOS EMBARGOS. ATUAÇÃO INEFICAZ DE AUTARQUIA ESTADUAL (SEMACE). POSSÍVEL RISCO A BEM DA UNIÃO. TUTELA DO M IO AMBIENTE. DEMANDA AJUIZADA PELO MINISTÉRIO PÜBLICO FEDERAL. ATRIBUIÇÃO CONSTITUCIONAL DO PARQUET. LEGITIMIDADE ATIVA AD CAUSAM. COMPETÊNCIA DA JUSTIÇA COMUM FEDERAL. CRITÉRIO INTUITO PERSONAE. PRECEDENTES DO STJ. ANULAÇÃO DA SENTENÇA COM DETERMINAÇÃO DE RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA REGULAR PROCESSAMENTO E INSTRUÇÃO DO FEITO. NESTA CORTE, NEGOU-SE PROVIMENTO AO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+VII - Ademais, "A ausência de realização de audiência de conciliação não é causa de nulidade do processo quando a parte não demonstra prejuízo pela não realização do ato processual", como é o caso dos presentes autos (AgInt no AgInt no AREsp n. 1.690.837/SE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2021, DJe 28/4/2021).
+ ..
+(AgInt no REsp n. 1.867.401/SE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2023, DJe de 29/11/2023).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO TRIBUTÁRIA ACESSÓRIA. CARÁTER AUTÔNOMO. PRECEDENTES. VIOLAÇÃO AO ART. 932 DO CPC/2015. INEXISTÊNCIA. PRECEDENTES. RECURSO NÃO PROVIDO.
+ ..
+7. Por fim, não há violação ao art. 932 do CPC/2015, pois "A confirmação de decisum monocrático do Relator pelo Órgão Colegiado supera eventual violação ao art. 932 do CPC/2015." (AgInt no REsp n. 2.109.093/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 3.6.2024.) Nesse mesmo sentido: AgInt no AgInt no AREsp n. 1.662.386/RJ, Rel. Ministro Afrânio Vilela, Segunda Turma, DJe de 15.3.2024; e AgInt no AgInt no AREsp n. 2.345.336/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14.3.2024.
+8. Agravo Interno não provido (AgInt no AREsp n. 2.528.282/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/8/2024, DJe de 20/8/2024).
+Isso posto, nego provimento ao agravo interno.
