@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/02/2025 a 12/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL . VÍCIO S ENSEJADORES DA OPOSIÇÃO DOS DECLARATÓRIOS. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SAENCO - Saneamento e Construções Ltda. EPP., ao acórdão desta Segunda Turma que negou provimento ao seu agravo interno, a ssim ementado (e-STJ, fls. 579-580):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO DE INDEFERIMENTO DE DECLARAÇÃO DE NULIDADE DE SENTENÇA E INADMISSÃO DA AGRAVANTE EM SEDE DE CUMPRIMENTO DE SENTENÇA. AÇÃO DE RESOLUÇÃO DE DOAÇÃO, COM RESTITUIÇÃO DA ÁREA DOADA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. LITISCONSÓRCIO PASSIVO NECESSÁRIO ENTRE DONATÁRIA E ARRENDATÁRIA. INEXISTÊNCIA. QUERELA NULLITATIS. NÃO CABIMENTO.
+1. Decorre o presente recurso de agravo de instrumento de decisão proferida em sede de cumprimento de sentença, em que indeferido pedido de nulidade da sentença e inadmissão da agravada no feito. Entendeu o Tribunal de Justiça do Distrito Federal, em síntese, que o caso não era de formação de litisconsórcio passivo necessário com a arrendatária (condição da ora agravante), pois a controvérsia (ação de revogação de doação de imóvel com encargo) interessava apenas à doadora (Terracap) e à donatária (Jockey Clube de Brasília).
+2. Relativamente à alegada violação aos arts. 1.022 e 489 do CPC/2015, sem razão a recorrente. Como se sabe, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia. No caso, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao consignar que os argumentos relacionados ao cabimento de querela nullitatis insanabilis e da ausência dos pressupostos de constituição e validade do processo não encontram respaldo, pois a hipótese examinada no pronunciamento judicial transitado em julgado não envolvia a formação de litisconsórcio passivo necessário, nos termos do art. 47 do CPC/1973, então vigente; e, por outro lado, porque o tema da denunciação à lide de arrendatário está acobertado pelo manto da coisa julgada. Em suma, as questões envolvendo o cabimento da querela nullitatis insanabilis foram examinadas de modo suficiente e fundamentado, por isso não é caso de acolher as alegações de que houve negativa de prestação jurisdicional ou vício de fundamentação.
+3. O acórdão recorrido não merece reparos, pois não há previsão legal impondo a formação de litisconsórcio passivo necessário entre arrendante e arrendatário (ou locador e locatário), tampouco há relação jurídica incindível entre essas partes. Ora, a discussão dos autos envolvia o descumprimento de encargo constante do ato de doação, relação jurídica da qual não fazia parte os arrendatários.
+4. Agravo interno não provido.
+Em suas razões, a embargante afirma que, "não obstante todo o arrazoado recursal apresentado no Agravo Interno de e-STJ Fl. 525/546, o Acórdão de e-STJ Fl. 572/580, em sua fundamentação, apenas transcreveu a Decisão de e-STJ Fl. Fl.484/488, deixando de enfrentar as relevantes questões suscitadas" (e-STJ,. fl. 600).
+Nesse contexto, reitera os argumentos relacionados à suposta negativa de prestação jurisdicional, bem como ao litisconsórcio passivo necessário e à nulidade da citação da arrendatária.
+Pede o acolhimento dos embargos, para que seja proferida "decisão integrativa que corrija os erros materiais por adoção de premissas equivocadas, afaste a obscuridade e as omissões quanto aos temas propostos, e, por meio de atribuição de efeitos modificativos, de modo a reconsiderar a decisão agravada que com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheceu do agravo para negar provimento ao Recurso Especial, especialmente diante da ausência de enfrentamento pelo Tribunal de origem de todas os argumentos relevantes, pertinentes e prejudiciais, capazes de infirmar a decisão da controvérsia, da nulidade da citação de litisconsortes passivos necessários, da ausência de res judicata, da inexistência de decisão válida que tenha indeferido o ingresso da Embargante  na lide , da indicação dos dispositivos legais que sofreram interpretação divergente, e pertinência dos precedentes invocados pela Recorrente em seu Recurso Especial" (e-STJ, fl. 610).
+Impugnação às fls. 612-616 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL . VÍCIO S ENSEJADORES DA OPOSIÇÃO DOS DECLARATÓRIOS. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+A insurgência não merece acolhida.
+Apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que não se observa na espécie.
+Com efeito, da análise das razões recursais, constata-se que a parte embargante, a pretexto de omissão, busca, na verdade, infirmar as conclusões do acórdão embargado, o qual, após sopesar, detidamente, os argumentos postos, conferiu à questão desfecho diverso do pretendido, o que, em si, não autoriza a oposição da presente insurgência recursal, de natureza eminentemente integrativa.
+Confira-se, a propósito o conteúdo do acórdão impugnado (e-STJ, fls. 573-578 - sem grifo no original):
+A despeito do louvável esforço argumentativo da agravante, a insurgência não prospera.
+Decorre o presente recurso de agravo de instrumento de decisão proferida em sede de cumprimento de sentença, em que indeferido pedido de nulidade da sentença e inadmissão da agravada no feito.
+Entendeu o Tribunal de Justiça do Distrito Federal, em síntese, que o caso não era de formação de litisconsórcio passivo necessário com a arrendatária (condição da ora agravante), pois a controvérsia (ação de revogação de doação de imóvel com encargo) interessava apenas à doadora (Terracap) e a donatária (Jockey Clube de Brasília).
+Na decisão monocrática, os argumentos da ora agravante foram rejeitados, pois inexistente vício de fundamentação ou negativa de prestação jurisdicional por parte do Tribunal de origem, pois a questão envolvendo o cabimento de querela nullitatis insanabilis foi decidida de modo integral e suficiente (não é caso de formação de litisconsórcio passivo necessário e o tema da denunciação à lide foi acobertado pelo manto da coisa julgada).
+Por outro lado, porque o acórdão recorrido está alinhado com a jurisprudência desta Corte acerca da desnecessidade de formação de litisconsórcio entre arrendante e arrendatário.
+Por fim, consignou-se que o recurso especial não poderia ter sido conhecido pela alínea c, pois a similitude entre os julgados confrontados não foi demonstrada.
+Tais fundamentos são suficientes para a manutenção do acórdão recorrido.
+Como a parte agravante não trouxe argumentos suficientes para infirmar os fundamentos da decisão agravada, o seu teor deve ser reiterado:
+(..)
+Evidenciada, portanto, a insubsistência das alegações apresentadas nos presentes aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Fique a parte embargante cientificada de que a oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará penalidade, nos termos do art. 1.026, § 2º, do CPC/2015.
+É o voto.
