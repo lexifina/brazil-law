@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/02/2025 a 12/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 619 DO CPP. EMBARGOS REJEITADOS.
+1. O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão. Não constituem, portanto, instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes, o que, contudo, não configura a situação dos autos.
+2. O acórdão embargado foi claro e expresso ao dispor que o acórdão recorrido encontra-se em consonância com a orientação jurisprudencial pacífica do Superior Tribunal de Justiça de que "o Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, sendo que a Fazenda Pública mantém a competência subsidiária para execução dos respectivos valores, mesmo após a alteração decorrente da nova redação do art. 51 do Código Penal pela Lei 13.964/2019" (AgRg no REsp n. 1.993.920/RS, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, D Je de 2/12/2022).
+3. Tendo o acórdão embargado analisado explicitamente as questões relevantes e imprescindíveis para a análise do conflito de competência, não há que se falar em omissão no julgado, sendo certo que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte quando os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos pela FAZENDA NACIONAL contra o julgado da Terceira Seção que negou provimento ao agravo regimental e manteve a decisão que negou provimento ao recurso em mandado de segurança no qual se pretendia a declaração de ilegitimidade da Procuradoria-Geral da Fazenda Nacional para inscrever em dívida ativa da União débitos originários de multa penal.
+Em suas razões, o ora embargante alega que "o acórdão embargado incorreu em ambiguidade, ao admitir a atribuição subsidiária da Procuradoria da Fazenda Nacional para a execução das multas penais, omitindo-se quanto à competência exclusiva da Vara de Execução Penal" (e-STJ fl. 482).
+Aduz que "também houve omissão quanto à violação ao art. 129, I da Constituição Federal, que confere privativamente ao Ministério Público a atribuição de promover a ação penal pública" (e-STJ fl. 483).
+Diante disso, requer o acolhimento dos embargos para que, emprestando-lhes efeitos infringentes, sejam sanados os seguintes vícios (e-STJ fls. 484/485):
+- a omissão quanto à competência exclusiva e absoluta, em razão da matéria, das varas de execução penal para a execução das penas de multa; - a ambiguidade ao admitir a atribuição subsidiária da Procuradoria da Fazenda Nacional para a execução das multas penais ao tempo em que reconhece a competência exclusiva da Vara de Execução Penal;
+- a omissão quanto à violação aos arts. 5º, II; 37, caput e 129, I da Constituição Federal, para fins de prequestionamento.
+É o relatório.
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 619 DO CPP. EMBARGOS REJEITADOS.
+1. O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão. Não constituem, portanto, instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes, o que, contudo, não configura a situação dos autos.
+2. O acórdão embargado foi claro e expresso ao dispor que o acórdão recorrido encontra-se em consonância com a orientação jurisprudencial pacífica do Superior Tribunal de Justiça de que "o Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, sendo que a Fazenda Pública mantém a competência subsidiária para execução dos respectivos valores, mesmo após a alteração decorrente da nova redação do art. 51 do Código Penal pela Lei 13.964/2019" (AgRg no REsp n. 1.993.920/RS, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, D Je de 2/12/2022).
+3. Tendo o acórdão embargado analisado explicitamente as questões relevantes e imprescindíveis para a análise do conflito de competência, não há que se falar em omissão no julgado, sendo certo que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte quando os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito das alegações expendidas, constata-se que o julgado embargado analisou fundamentadamente todas as questões submetidas ao crivo do Superior Tribunal de Justiça, nele não se apresentando nenhum dos vícios de expressão elencados no art. 619 do Código de Processo Penal (ambiguidade, omissão, contradição ou obscuridade).
+In casu, o acórdão embargado foi claro e expresso ao dispor que acórdão recorrido encontra-se em consonância com a orientação jurisprudencial pacífica do Superior Tribunal de Justiça de que "o Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, sendo que a Fazenda Pública mantém a competência subsidiária para execução dos respectivos valores, mesmo após a alteração decorrente da nova redação do art. 51 do Código Penal pela Lei 13.964/2019" (AgRg no REsp n. 1.993.920/RS, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, D Je de 2/12/2022).
+Desse modo, tendo o acórdão embargado analisado explicitamente as questões relevantes e imprescindíveis para a análise do conflito de competência, não há que se falar em omissão no julgado.
+Registre-se que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte quando os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+Percebe-se, na verdade, que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Rememoro, outrossim, que esta Corte é firme na compreensão de que são inadmissíveis os embargos de declaração que visem ao prequestionamento de matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. A propósito, cita-se o seguinte julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ACÓRDÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL. SÚMULA N. 182/STJ. ALEGAÇÕES DE VIOLAÇÃO DE MATÉRIA CONSTITUCIONAL. OMISSÃO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não se verificou na hipótese.
+2. No presente caso, o agravo regimental não foi provido devido ao óbice da Súmula n. 182/STJ e o embargante se limita a alegar a necessidade de prequestionamento de normas constitucionais violadas.
+Omissão inexistente.
+3. Inviável a apreciação de matéria constitucional por esta Corte Superior, ainda que para fins de prequestionamento, porquanto, por expressa disposição da própria Constituição Federal (art. 102, inciso III), se trata de competência reservada ao Supremo Tribunal Federal (AgRg no AREsp n. 2.478.214/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/04/2024, DJe de 23/04/2024).
+4. É incabível, na via dos embargos de declaração, a rediscussão de matéria devidamente apreciada e já decidida.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.520.699/MS, relator Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 21/5/2024, DJe de 27/5/2024.)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
