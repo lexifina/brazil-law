@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/02/2025 a 12/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende a parte embargante.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por CACILDA RODRIGUES DOS SANTOS e OUTROS contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no recurso especial, consoante a seguinte ementa (fl. 811):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. IMPOSSIBILIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+2. Infirmar o entendimento alcançado pelo Tribunal a quo  que reconheceu que a prescrição, in casu, deu-se única e exclusivamente por inércia dos exequentes, que não promoveram a execução a tempo e modo, e não em razão de qualquer fator externo  demandaria, necessariamente, reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial (Súmula 7 do STJ).
+3. Agravo interno a que se nega provimento.
+Em suma, as partes embargantes insurgem-se contra os óbices de admissibilidade aplicados no acórdão embargado, alegando não ser o caso de incidência das Súmulas 7 e 211 do STJ e 282 do STF.
+Impugnação da parte embargada (Distrito Federal) à fl. 837-841.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende a parte embargante.
+3. Embargos de declaração rejeitados.
+VOTO
+A pretensão recursal não comporta acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+No caso, observa-se que foram analisadas fundamentadamente as questões submetidas a esta Corte, com o exame dos pontos essenciais ao deslinde da controvérsia, de modo que o acórdão embargado não incorreu em quaisquer dos vícios acima mencionados. Confiram-se estes exce rtos (fls. 815-817):
+O agravo interno não merece prosperar.
+De início, no tocante à alegação de contrariedade aos arts. 97 e 104 do CDC e 85,§ 8º, do CPC, registre-se que o presente recurso especial carece do requisito constitucional do prequestionamento, conforme registrado na decisão ora agravada. Incidem as súmulas 282 do STF, por analogia, e 211 do STJ.
+Como cediço, "o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+Ademais, infirmar o entendimento alcançado pelo Tribunal a quo  que reconheceu que a prescrição, in casu, deu-se única e exclusivamente por inércia dos exequentes, que não promoveram a execução a tempo e modo, e não em razão de qualquer fator externo  demandaria, necessariamente, reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial (Súmula 7 do STJ).
+Por fim, no tocante à pretensão de remessa dos autos à origem em razão do Tema 1.253/STJ, não se verifica, no apelo nobre em apreço, tampouco no aresto hostilizado, nenhuma discussão abrangida pelo referido tema, para além do singelo pleito de sobrestamento formulado às fls. 780-783, que não será acolhido. A mesma solução, aliás, foi adotada em outros feitos idênticos: PET no AREsp n. 2.509.306, Ministro Gurgel de Faria, DJe de 08/08/2024; e PET no REsp n. 2.092.705, Ministro Teodoro Silva Santos, DJe de 19/08/2024.
+O recurso aclaratório possui finalidade integrativa e não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme se pretende. Nesse sentido: EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, rel. Min. Afrânio Vilela, Segunda Turma, DJe de 15/8/2024; EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 23/4/2024 e EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 15/8/2024.
+Do mesmo modo, é reiterado o entendimento desta Corte Superior de que o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa das teses que apresentaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Nessa linha: AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024; EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022.
+Por fim, advirto a parte de que a reiteração injustificada dos embargos de declaração, versando sobre o mesmo assunto, acarretará a consideração de que o recurso é manifestamente protelatório, ensejando a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
