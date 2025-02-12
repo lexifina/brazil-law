@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. AGRAVO REGIMENTAL CONTRA INDEFERIMENTO LIMINAR DE HABEAS CORPUS. CRIMES DE HOMICÍDIO. NULIDADE DA SESSÃO DE JULGAMENTO PELO TRIBUNAL DO JÚRI POR PARCIALIDADE DO JUIZ. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE ILEGALIDADE MANIFESTA.
+Agravo regimental improvido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto contra a decisão, de minha lavra, que indeferiu liminarmente o habeas corpus ajuizado em benefício de Etevaldo Sales. Eis o resumo do decisum ora agravado (fl. 1.059):
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE CABIMENTO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+Sustenta-se que este agravo regimental não busca suprimir instâncias, mas assegurar a célere apreciação de flagrante ilegalidade envolvendo nulidade absoluta (fl. 1.071). Argumenta-se que, no caso em questão, a violação atinge diretamente princípios constitucionais essenciais, como o direito ao devido processo legal, à plenitude defesa e à imparcialidade do julgamento; e esses pilares constitucionais do processo penal não podem ser minimizados aos requisitos temporais da nulidade relativa ou à comprovação de prejuízo, como se estivéssemos diante de um processo civil (fl. 1.072). Aduz-se que a preclusão não pode subsistir em hipóteses de nulidades de ordem pública (fl. 1.073) e que, ademais, o artigo 563 do CPP deve ser interpretado no sentido de se presumir o prejuízo ao acusado, com a decretação de nulidade, sempre que se relacione a violação do rito/forma em temas ligados à "medula óssea" ou "espinha dorsal" do Processo Penal (fl. 1.073).
+Requer-se o conhecimento e provimento do presente recurso para conhecer do Habeas Corpus, determinando-se o prosseguimento desta ação (fl. 1.073).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL CONTRA INDEFERIMENTO LIMINAR DE HABEAS CORPUS. CRIMES DE HOMICÍDIO. NULIDADE DA SESSÃO DE JULGAMENTO PELO TRIBUNAL DO JÚRI POR PARCIALIDADE DO JUIZ. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE ILEGALIDADE MANIFESTA.
+Agravo regimental improvido.
+VOTO
+A despeito das alegações defensivas, a decisão agravada deve ser mantida por seus próprios e jurídicos fundamentos.
+Como já disse, além de ser o habeas corpus sucedâneo de revisão criminal, sendo forçoso reconhecer a incompetência desta Corte Superior para o processamento do pleito, não se evidencia ilegalidade apta a justificar a concessão da ordem de ofício, considerando que esta via não é adequada para o amplo reexame de fatos e de provas a fim de desconstituir as seguintes conclusões do Tribunal estadual: a) nos limites do ato  interrogatório , não há excesso de linguagem ou manifestação  do Juiz- Presidente  de "seu convencimento sobre a culpa" do apelante, senão perguntas conforme autoriza a legislação processual penal (fl. 33); e, de toda sorte, durante a sessão de julgamento não houve protesto, apontamento de nulidade, tampouco pedido com esse desiderato, por parte da Defesa, consoante se extrai da ata de julgamento pelo Tribunal do Júri (ID 213597223) e do Relatório de Mídias (ID 213597239), estando configurada a preclusão temporal (fl. 33 - grifo nosso).
+Com efeito, além de não ter ficado evidenciada a dita parcialidade do juiz, de acordo com a orientação jurisprudencial desta Corte, eventuais nulidades ocorridas no plenário de julgamento do Tribunal do Júri devem ser arguidas durante a sessão plenária, sob pena de preclusão, nos termos do art. 571, VIII, do Código de Processo Penal - CPP  .. . Registre-se, ademais, que "a jurisprudência desta Corte evoluiu para considerar que no processo penal mesmo as nulidades absolutas exigem prejuízo e estão sujeitas à preclusão" (RHC n. 43.130/MT, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 2/6/2016, DJe de 16/6/2016). Precedentes (AgRg no AgRg no AREsp n. 2.395.723/MS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 27/8/2024).
+Pelo exposto, nego provimento ao agravo regimental.
