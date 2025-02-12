@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO INCIDÊNCIA DE HONORÁRIOS SUCUMBENCIAIS SOBRE O EXCESSO DA EXECUÇÃO QUE SURGIU APÓS O AJUIZAMENTO DO CUMPRIMENTO DE SENTENÇA. REFORMA DO JULGADO QUE DEMANDARIA REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte local, após análise dos elementos fáticos contidos nos autos, concluiu pela não incidência dos honorários de sucumbência sobre o excesso da execução que surgiu após o ajuizamento do cumprimento de sentença, quando foram definidos os termos inicial e final da execução no bojo do incidente de assunção de competência (IAC n. 18.193/2018). Assim, rever o entendimento adotado pelo Tribunal de origem, com o intuito de acolher a tese da incidência dos honorários advocatícios, demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto pelo ESTADO DO MARANHÃO contra decisão monocrática que não conheceu do recurso especial, nos termos da seguinte ementa (fl. 124):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO INCIDÊNCIA DE HONORÁRIOS SUCUMBENCIAIS SOBRE O EXCESSO DA EXECUÇÃO QUE SURGIU APÓS O AJUIZAMENTO DO CUMPRIMENTO DE SENTENÇA. REFORMA DO JULGADO QUE DEMANDARIA REEXAME FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta que "a definição das normas a que um específico conjunto fático deveria ter sido subsumido é matéria de direito e não de fato" (fl. 133).
+Diz que "as divergências internas na Corte Maranhense, ainda que posteriormente venham a ser pacificadas num ou noutro sentido, não são aptas a afastar o dever da parte que perdeu de pagar os consectários sucumbenciais, mesmo que tenha sido realizada em observância à decisão judicial, pois enquanto não transitada em julgado (passado o prazo da rescisória) plenamente suscetível de modificação" (fls. 134-135).
+Requer a reconsideração da decisão monocrática ou o provimento do agravo para que seja dado provimento ao recurso especial.
+As contrarrazões não foram apresentadas (fls. 142-146).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO INCIDÊNCIA DE HONORÁRIOS SUCUMBENCIAIS SOBRE O EXCESSO DA EXECUÇÃO QUE SURGIU APÓS O AJUIZAMENTO DO CUMPRIMENTO DE SENTENÇA. REFORMA DO JULGADO QUE DEMANDARIA REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte local, após análise dos elementos fáticos contidos nos autos, concluiu pela não incidência dos honorários de sucumbência sobre o excesso da execução que surgiu após o ajuizamento do cumprimento de sentença, quando foram definidos os termos inicial e final da execução no bojo do incidente de assunção de competência (IAC n. 18.193/2018). Assim, rever o entendimento adotado pelo Tribunal de origem, com o intuito de acolher a tese da incidência dos honorários advocatícios, demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Não obstante as razões do agravo interno, denota-se que a decisão monocrática deve ser mantida, especialmente porquanto o agravante não trouxe argumentos suficientes para desconstituí-la.
+Da análise dos autos verifica-se que o agravante defende que, não obstante a execução individual tenha sido proposta antes do julgamento do IAC n. 18.193/2018, são devidos honorários advocatícios em relação ao excesso da execução, uma vez que através do julgamento do incidente ocorreu apenas a pacificação dos termos iniciais e finais das execuções individuais da sentença proferida nos autos da ação coletiva n. 14.440/2000.
+Quanto ao ponto, a Corte local manifestou-se nos seguintes termos (fls. 61-63):
+O agravante se insurge contra decisão desta Relatoria que, nos autos do agravo de instrumento, entendeu pela impossibilidade de condenação em honorários, pois o excesso da execução somente passou a existir após o julgamento do IAC nº 18.193/2018.
+Esse o comando que o agravante almeja ver reformado.
+Em regra, no caso de acolhimento da impugnação ao cumprimento de sentença, ainda que parcial, revela-se cabível o arbitramento de honorários advocatícios em favor do executado, conforme entendimento consolidado pela Corte Especial do STJ no julgamento do Recurso Especial Repetitivo 1.134.186/RS.
+Ocorre que, no caso dos autos, a redução do montante executado se dera em virtude da fixação da tese do IAC nº 18.193/2018, que limitou o lapso temporal da execução ao período de fevereiro de 1998 a novembro de 2004. Trata-se, inclusive, de tese de observância obrigatória por todos os juízes vinculados ao TJ-MA nas execuções individuais envolvendo o título coletivo formado no processo nº 14.440/2000.
+Vale ressaltar que o cumprimento individual fora ajuizado anteriormente à referida tese, no ano de 2017. Sendo assim, o referido excesso somente passou a existir após a definição dos termos inicial e final da execução no bojo do IAC, não havendo se falar em sucumbência recíproca, visto que o comando judicial acolheu a impugnação levando em consideração apenas tal argumentação.
+Nesse mesmo sentido temos, com precisão, os seguintes julgados:
+(..)
+Desse modo, constata-se que o agravante não apresentou novos elementos aptos a reformar a decisão recorrida.
+A insurgência, portanto, cinge-se a mera irresignação, não sendo instruída com substrato que venha a alterar a percepção sobre o caso em testilha, de sorte que a decisão recorrida não merece alteração.
+Neste ponto, destaco que o entendimento pacificado no Superior Tribunal de Justiça, bem como neste Tribunal, é no sentido de que a inexistência de argumentos novos aptos a infirmar os fundamentos que alicerçam a decisão agravada enseja a negativa de provimento ao agravo interno (STJ - AgInt no AREsp: 1745586 SP 2020/0210417-1, Data de Julgamento: 25/05/2021, T3 - TERCEIRA TURMA; STJ - AgInt nos EREsp: 1751652 RS 2018/0162230-1, Data de Julgamento: 25/08/2020; TJ-MA - AGT: 00012456620158100034 MA 0417472019, Relator: JOSÉ DE RIBAMAR CASTRO, Data de Julgamento: 17/02/2020, QUINTA CÂMARA CÍVEL; TJ-MA - AGT: 00316119020158100001 MA 0388442018, Relator: JOSÉ JORGE FIGUEIREDO DOS ANJOS, Data de Julgamento: 21/11/2019, SEXTA CÂMARA CÍVEL, Data de Publicação: 27/11/2019 00:00:00).
+Por todo o exposto, concluo não merecer retoque a decisão agravada, que, por meu voto, fica mantida.
+Conclusão
+Por tais razões, com observância ao disposto no art. 93, IX, da Constituição Federal de 1988 e por tudo mais que dos autos consta, CONHEÇO DO AGRAVO INTERNO e NEGO A ELE PROVIMENTO, nos termos da fundamentação supra.
+A revisão da conclusão à qual chegou o Tribunal de origem sobre a questão - não incidência de honorários de sucumbência sobre o excesso da execução que surgiu após o ajuizamento do cumprimento de sentença, quando foram definidos os termos inicial e final da execução no bojo do incidente de assunção de competência (IAC n. 18.193/2018) -, demandaria, nos termos da decisão recorrida, o reexame fático-probatório dos autos, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. HONORÁRIOS ADVOCATÍCIOS. IAC 18.193/2018. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Para o Superior Tribunal de Justiça (STJ), a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porque não foi preenchido o requisito constitucional do prequestionamento. Aplicação da Súmula 211/STJ.
+2. A tese da parte agravante é a de que, não obstante a execução individual tenha sido proposta antes do julgamento do IAC 18.193/2018, são devidos honorários advocatícios em relação ao excesso de execução, pois, com o julgamento desse incidente, apenas ocorreu a pacificação dos termos iniciais e finais das execuções individuais da sentença proferida nos autos da Ação coletiva 14.440/2000. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.150.190/MA, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, Sessão Virtual de 24/9/2024 a 30/9/2024, DJe de 4/10/2024).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS SUCUMBENCIAIS SOBRE O EXCESSO DA EXECUÇÃO, QUE SURGIU APÓS O AJUIZAMENTO DO CUMPRIMENTO DE SENTENÇA. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte local estabeleceu que "não pode a agravada ser penalizada com condenação ao pagamento de honorários de sucumbência sobre o indigitado excesso de execução, que somente passou a existir após o ajuizamento do cumprimento de sentença, quando foram definidos os termos inicial e final da execução no bojo do referido IAC, pois acreditava que seus cálculos fossem os corretos, levando em consideração as decisões prolatadas por esta Corte de Justiça antes mesmo da fixação das teses do Incidente de Assunção de Competência".
+2. Alterar as conclusões adotadas pelo Tribunal a quo demandaria novo exame do acervo fático probatório constante dos autos, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.151.874/MA, de minha relatoria, Segunda Turma, Sessão Virtual de 17/09/2024 a 23/09/2024, DJe de 25/9/2024).
+Ante o exposto, nego provimento ao agravo interno .
+É como voto.
