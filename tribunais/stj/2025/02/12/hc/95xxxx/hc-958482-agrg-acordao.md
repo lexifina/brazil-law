@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O MESMO FIM. DECISÃO QUE INDEFERE LIMINAR EM REVISÃO CRIMINAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 691 DO STF. FLAGRANTE LEGALIDADE NÃO EVIDENCIADA DE PLANO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Esta Corte Superior tem entendido que o enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF deve ser estendido, por analogia, à hipótese dos autos, na qual foi indeferido pedido liminar em revisão criminal em que se buscou a concessão de efeito suspensivo à ação impugnativa, que, por sua vez, não obsta a execução penal." (AgRg no HC 673.662/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/6/2021, DJe 24/6/2021.)
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório perante o Tribunal de origem, sob pena de indevida supressão de instância.
+4. Agravo regimental a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por EDNALDO DE JESUS LIMA contra decisão em que indeferi liminarmente a impetração anteriormente aviada, aplicando ao caso o entendimento consubstanciado na Súmula n. 691/STF.
+A defesa impetrou habeas corpus apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (Revisão Criminal n. 8065674-31.2024.8.05.0000).
+Depreende-se dos autos que o ora agravante foi condenado, pela prática dos crimes de tráfico de drogas e associação para o mesmo fim (arts. 33 e 35 da Lei n. 11.343/2006), à pena total de 10 anos, 9 meses e 7 dias de reclusão, em regime inicial fechado, ante a apreensão de 306,32g (trezentos e seis gramas e trinta e dois centigramas) de cocaína (e-STJ fls. 766/767).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, que deu parcial provimento ao recurso, redimensionando a pena definitiva para 9 anos e 4 meses de reclusão, em acórdão assim ementado (e-STJ fl. 999):
+DIREITO PROCESSUAL PENAL E DIREITO PENAL. Preliminares de nulidade rejeitadas. Desnecessidade de transcrição integral do conteúdo de gravações de interceptações telefônicas e da realização de perícia dos áudios captados. Mérito. Demonstrada a ocorrência dos crimes de tráfico de drogas e de associação para o tráfico ilícito de entorpecentes. Pretensões absolutórias não acolhidas. Pedidos defensivos para que as penas-base dos delitos de tráfico de drogas e de associação ao tráfico ilícito de entorpecentes sejam fixadas no mínimo legal. Pleitos parcialmente acolhidos. Penas-base reduzidas ao seu patamar mínimo. Redimensionadas, por consequência, as penas totais e definitivas aplicadas aos apelantes. Aplicação do art. 44 do Código Penal. Impossibilidade. Não atendidos os requisitos legais para a pretendida substituição da pena privativa de liberdade por penas restritivas de direitos. Indeferido o pedido de os recorrentes foragidos recorrerem em liberdade. Isenção da pena de multa. Impossibilidade de deferimento ao arrepio da lei, por tratar-se de sanção penal por infração penal cuja materialidade e autoria restaram comprovadas.
+Interposto recurso especial, foi ele inadmitido na origem (e-STJ fls. 1.187/1.188), o que ensejou a interposição do AREsp n. 2.410.601/BA, ao qual foi negado seguimento neste Superior Tribunal.
+Com o trânsito em julgado da condenação, foi ajuizada a revisão criminal perante a Corte estadual, que indeferiu a medida de urgência pleiteada (e-STJ fls. 1.460/1.475).
+No habeas corpus, alegou a defesa que "o objeto do writ não visa contornar a decisão que negou a liminar na Revisão Criminal proposta pelo Paciente. Trata-se de impetração de Habeas Corpus em face do Acórdão que confirmou a condenação do Paciente" (e-STJ fl. 5).
+Sustentou a nulidade da interceptação telefônica, que decorreu do acesso aos dados armazenados em celular apreendido durante a prisão em flagrante de outra investigada, sem prévia autorização judicial.
+Acrescentou que houve violação ao art. 240, §1º, do CPP, porquanto "a substância ilícita foi apreendida em local diverso daquele estabelecido nos mandados de busca e apreensão". Arguiu que a "justificativa apresentada pelos Policiais não é idônea, em virtude de não ser crível que o alvo da Busca e Apreensão, suspeito de cometer o delito de tráfico, espontaneamente indique que haveria substância entorpecente em local diverso daquele apontado no mandado de busca e apreensão" (e-STJ fls. 16/17).
+Requereu, liminarmente, a suspensão dos efeitos da condenação. No mérito, pediu a concessão da ordem "para desconstituir a coisa julgada na Ação Penal nº. 0002997-51.2015.8.05.0248, a fim de, reconhecida a violação ao art. 5º, X e XX, da CF; art. 240, §1º, do CPP e arts. 1º e 5º, da Lei nº 9.296/96, seja o Paciente absolvido" (e-STJ fls. 21/22).
+Nas razões do presente agravo regimental, reiterou os argumentos já trazidos na petição inicial da impetração e ponderou pela possibilidade de concessão da ordem de ofício (e-STJ fls. 1.491/1.509).
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O MESMO FIM. DECISÃO QUE INDEFERE LIMINAR EM REVISÃO CRIMINAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 691 DO STF. FLAGRANTE LEGALIDADE NÃO EVIDENCIADA DE PLANO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Esta Corte Superior tem entendido que o enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF deve ser estendido, por analogia, à hipótese dos autos, na qual foi indeferido pedido liminar em revisão criminal em que se buscou a concessão de efeito suspensivo à ação impugnativa, que, por sua vez, não obsta a execução penal." (AgRg no HC 673.662/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/6/2021, DJe 24/6/2021.)
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório perante o Tribunal de origem, sob pena de indevida supressão de instância.
+4. Agravo regimental a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Em que pese à argumentação do agravante, não há razões para alterar a decisão recorrida.
+Conforme consignado na decisão agravada, a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA.  ..  PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido. (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+Ademais, esta Corte Superior tem jurisprudência firmada no sentido de não caber habeas corpus impetrado contra decisão que indefere liminar - ainda que em revisão criminal, em interpretação por analogia do enunciado 691 da Súmula do Supremo Tribunal Federal -, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL. PRETENSÃO DE EMPREGAR EFEITO SUSPENSIVO. INDEFERIMENTO DA LIMINAR PELO TRIBUNAL DE ORIGEM. APLICAÇÃO ANALÓGICA DA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos expostos na decisão agravada, não se constata nos autos constrangimento ilegal patente, apto a justificar a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+2. Esta Corte Superior tem entendido que o enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF deve ser estendido, por analogia, à hipótese dos autos, na qual foi indeferido pedido liminar em revisão criminal em que se buscou a concessão de efeito suspensivo à ação impugnativa, que, por sua vez, não obsta a execução penal.
+3. Agravo regimental desprovido. (AgRg no HC 673.662/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/6/2021, DJe 24/6/2021.)
+No caso, veja-se os fundamentos alinhavados pelo Desembargador relator (e-STJ fls. 1.472/1.475):
+Todavia, a tese que apresenta - supostas nulidades das provas colhidas na instrução criminal - não encontra fundamento lógico e, ao contrário de seus entendimentos, já foi devidamente apreciada e decidida tanto pelo Juízo sentenciante quanto pela E. Corte de Justiça em sede de apelação criminal, cuja decisão transitou em julgado, após o Agravo em Recurso Especial não ter sido conhecido pelo Superior Tribunal de Justiça, de modo que se evidencia que a presente revisão criminal, a priori, pretende e limita-se a mera rediscussão de matéria já exaurida, inexistindo qualquer ilegalidade na decisão.
+Ademais, evidencia-se que, a despeito da farta argumentação defensiva, constata-se que a condenação, consoante se observa da sentença, sobretudo quanto à materialidade e autoria delitiva, foram amparadas por fartas provas produzidas na instrução criminal, bem como depoimento das testemunhas ouvidas em juízo.  ..
+Frise-se que a Revisão Criminal não pode ser confundida com uma nova apelação, naquela só é admitido o desfazimento do julgado se houver certeza aferível de plano (sem revolvimento de eventual dissonância probatória) de que se apresenta em descompasso o que provado e o que decidido, ou se novas provas surgirem.
+Nesta linha, por meio das provas colacionadas, compreende-se, em juízo de delibação, próprio desta fase processual, que não restou demonstrada, estreme de dúvidas, a plausibilidade jurídica do pedido.
+Assim, não sendo a plausibilidade do direito alegado visível primo ictu oculi, incabível o deferimento da medida liminar pretendida.
+Como visto, a decisão que indeferiu a liminar, coadunando-se com a decisão agravada, entendeu que a apreciação dos pedidos do paciente exige ampla revisão do acervo probatório que fundamentou a condenação, de sorte que não ressai, de plano, flagrante ilegalidade que autorize a superação do enunciado sumular referido.
+Assim, entendo que a questão em exame necessita de averiguação mais aprofundada pelo Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
