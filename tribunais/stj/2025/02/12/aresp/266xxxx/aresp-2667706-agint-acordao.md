@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. UTILIZAÇÃO DE LEGISLAÇÃO LOCAL PARA SOLUÇÃO DA CONTROVÉRSIA. INCIDÊNCIA DO ÓBICE DA SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca da autorização de cobrança da taxa de limpeza pública pela utilização efetiva ou potencial, bem como a irrelevância da contratação de empresas particulares para coleta e remoção do lixo, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. A controvérsia foi dirimida mediante análise e interpretação da legislação local de regência, a saber, o Código Tributário Municipal, fato que atrai a aplicação, por analogia, da Súmula 280/STF.
+3.  Agravo  interno  des provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por TECON SUAPE S.A. contra  a  decisão  que  conheceu  do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Argumenta  a  parte agravante,  em  síntese:
+ ..  o decisorium incorre em evidente erro material, de modo a violar dispositivo previsto em legislação federal, qual seja o art. 1.022, III do CPC, uma vez que "erros de premissa" são equivalentes aos erros materiais, conforme entendimento consolidado pelo C. STJ .
+Isso porque houve a presunção de que ocorreu o fato gerador da TLP com base em julgado diverso (Apelação Cível nº 0000592-81.2016.8.17.0730 / 0524474-2 ), conforme aclaratórios:
+ ..
+Em outras palavras, enquanto a Agravante baseou-se em regulamentação específica do município de Ipojuca/PE (ente competente para instituir e cobrar a TLP), o acórdão recorrido sustentou a decisão equivocada do MM. Juízo a quo com base em normas gerais (art. 145, II da CF/88 em conjunto com o art. 77 do CTN), que apenas atribuem competência (art. 6º do CTN), sem considerar a legislação local.
+ ..  ao interpretar o critério de materialidade da TLP em Ipojuca/PE como sendo a utilização, efetiva ou potencial, a decisão agravada incorre em violação dos artigos 6º e 77 do CTN, que asseguram a competência plena dos entes federativos para instituir e cobrar tributos, incluindo as taxas municipais (fls. 841-846).
+Por fim, a parte pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Não houve impugnação da parte agravada.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. UTILIZAÇÃO DE LEGISLAÇÃO LOCAL PARA SOLUÇÃO DA CONTROVÉRSIA. INCIDÊNCIA DO ÓBICE DA SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca da autorização de cobrança da taxa de limpeza pública pela utilização efetiva ou potencial, bem como a irrelevância da contratação de empresas particulares para coleta e remoção do lixo, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. A controvérsia foi dirimida mediante análise e interpretação da legislação local de regência, a saber, o Código Tributário Municipal, fato que atrai a aplicação, por analogia, da Súmula 280/STF.
+3.  Agravo  interno  des provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação aos arts. 489, § 1º, IV, e 1.022, II, III, parágrafo único, II, do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+Como visto, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficiente mente ampla e fundamentada, consignando que (fls. 581-583):
+O Código Tributário Municipal instituiu a cobrança da referida taxa de coleta e remoção de lixo por meio art. 104 e seguintes consignando ainda que o contribuinte é o titular do domínio útil ou o possuidor do imóvel, vejamos:  ..
+Assim, além de a referida taxa estar contemplada no rol do Código Tributário Municipal conforme autoriza a Carta Maior, esta ainda disciplinou expressamente que a cobrança de taxas é autorizada pela utilização efetiva ou potencial dos serviços prestados ou postos a sua disposição, o que afasta a alegada necessidade de prova quanto à efetiva prestação dos serviços pela Administração Pública.
+A taxa somente pode ser imposta quando presentes os requisitos da especificidade e divisibilidade, como efetivamente ocorre na espécie, pois o serviço de coleta do lixo é prestado uti singuli.
+O STF editou súmula vinculante sobre o assunto ao discorrer que: "A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o artigo 145, II, daConstituição Federal." (S. V. n. 19)
+Portanto, a cobrança do serviço de coleta de lixo pelo Município, de modo individualizado, como ocorre na espécie, sem abranger limpeza e conservação das vias públicas, torna a sua cobrança plenamente legal e constitucional. O fato de a empresa alegar que contratou empresa terceirizada para coleta do lixo não afasta a obrigação tributária.
+ ..
+Por fim, discorre que o MM. Juízo a quo alegou que há distinção entre as bases de cálculo da TLP e do IPTU com base no "documento de id. 103690867 - Pág. 5 e 6",encontrando-se regularmente prevista no art. 107 do CTM e em observância à SúmulaVinculante nº 29. Que, in casu, não é possível aferir qual a base de cálculo utilizada pelo Município de Ipojuca para a cobrança da TLP, tendo em vista a existência de um único documento de cobrança, o qual cobra ambos os tributos de uma vez (IPTU E TLP).
+Conforme a jurisprudência:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+No mais, da análise dos autos, é possível verificar que a apreciação da pretensão do recorrente, ainda que sustentada com base em suposta violação à lei federal, demandaria, necessariamente, a interpretação da legislação local considerada pelo acórdão recorrido (Código Tributário Municipal) , o que é inviável na estreita via do recurso especial, nos termos da Súmula 280/STF.
+Isso posto, nego provimento ao recurso.
