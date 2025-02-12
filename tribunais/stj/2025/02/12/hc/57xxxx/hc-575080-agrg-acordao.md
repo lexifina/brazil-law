@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. FRAUDE PROCESSUAL. ESTELIONATO. MATÉRIAS JÁ ENFRENTADAS EM OUTROS EXPEDIENTES. REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE PERÍCIA TÉCNICA. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O presente recurso é apenas mais um de 23 processos judiciais nesta Corte que dizem respeito ao mesmo fato e provimentos judiciais, tendo sido as demais teses já enfrentadas à exaustão, configurando-se nítido abuso do direito de recorrer, que causa tumulto processual e visa beneficiar-se de decisões contraditórias.
+2. A única tese sobejante, qual seja, a de ausência de perícia técnica, não foi sequer enfrentada pela Corte de origem, tratando-se de inovação recursal sem a devida inauguração de competência desta Corte.
+3. No mesmo sentido o parecer do representante do Ministério Público Federal, para quem " a s questões alegadas no presente HC não foram discutidas nas instâncias ordinárias".
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental em habeas corpus interposto em favor de LUIZ ROBERTO FALCAO contra decisão em que não conheci da ordem e que foi assim relatada:
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUIZ ROBERTO FALCÃO apontando como autoridade coatora o Tribunal de Justiça do Estado do Paraná (Apelação n. 0008785-70.2019.8.16.0031).
+Depreende-se dos autos que o paciente foi condenado pela prática dos delitos previstos no art. 171 (estelionato) e no art. 347, parágrafo único (fraude processual), ambos do Código Penal. A pena definitiva imposta ao réu foi fixada em 3 anos e 10 meses de reclusão, em regime inicial aberto, mais 363 dias-multa.
+Defesa e acusação apelaram; a Quarta Câmara Criminal do Tribunal de origem negou provimento ao recurso defensivo e proveu a apelação do Ministério Público. As penas foram redimensionadas para 2 anos e 10 meses de reclusão, em regime inicial fechado, mais 169 dias-multa, e 2 anos e 3 meses de detenção, em regime inicial semiaberto, mais 360 dias-multa.
+O acórdão recebeu a seguinte ementa (e-STJ fls. 25/26):
+APELAÇÕES CRIMINAIS. ESTELIONATO E FRAUDE PROCESSUAL. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PLEITO DE ABSOLVIÇÃO SOB O ARGUMENTO DE INSUFICIÊNCIA PROBATÓRIA. IMPROCEDÊNCIA. PROVA DOCUMENTAL E ORAL QUE DEMONSTRA A OBTENÇÃO DA VANTAGEM ECONÔMICA INDEVIDA. INSURGÊNCIA QUANTO AO CRITÉRIO ADOTADO NA OPERAÇÃO DOSIMÉTRICA. MAGISTRADO QUE, NO EXERCÍCIO DA JURISDIÇÃO, POSSUI DISCRICIONARIEDADE PARA AVALIAR A METODOLOGIA QUE DEVE SER APLICADA AO CASO. INEXISTÊNCIA DE QUALQUER ILEGALIDADE OU DESPROPORCIONALIDADE. PLEITO DE AFASTAMENTO DAS AGRAVANTES APLICADAS NA SENTENÇA. IMPOSSIBILIDADE. MOTIVAÇÃO CONCRETA. . APELO DO MINISTÉRIO PÚBLICO. RECURSO NÃO PROVIDO PEDIDO DE RECRUDESCIMENTO DA PENA-BASE. ACOLHIMENTO QUE CONFIGURARIA. SÚPLICA BIS IN IDEM PELO RECONHECIMENTO DA REINCIDÊNCIA NA SEGUNDA FASE DA DOSIMETRIA. CERTIDÃO JUNTADA AOS AUTOS QUE COMPROVA A INCIDÊNCIA DA AGRAVANTE. REPRIMENDA AGRAVADA PARA AMBOS OS DELITOS. REGIME INICIAL QUE DEVE SER O FECHADO PARA O CUMPRIMENTO DA RECLUSÃO E O SEMIABERTO PARA A PENA DE DETENÇÃO. RECURSO PARCIALMENTE PROVIDO.
+1. A instrução criminal foi satisfatória à acusação, sobretudo em razão da existência de provas contundentes no sentido de que o apelante preencheu os elementos tipificadores das condutas imputadas na exordial.
+2. O conjunto probatório reconstruiu o estratagema empregado pelo autor, sendo evidente que obteve vantagem ilícita da vítima, por ele induzida em erro.
+3. Delito de fraude processual igualmente configurado, uma vez que o denunciado inovou artificiosamente, na pendência de processo administrativo (inquérito policial), com o fim de induzir o juiz em erro e gerar o arquivamento do procedimento investigatório, destinando-se, também, a gerar efeitos em processo penal ainda não iniciado.
+4. A motivação adotada pelo magistrado singular para exasperar a pena-base está pautada em fundamentação idônea, inexistindo qualquer desproporcionalidade que demande providência por este Colegiado.
+5. Súplica ministerial para o reconhecimento da reincidência. Certidão juntada aos autos que demonstra a existência da referida agravante. Pleito recursal acolhido neste ponto, com a readequação dos regimes prisionais iniciais.
+6. Recurso do réu conhecido e não provido e apelo interposto pelo Ministério Público conhecido e parcialmente provido.
+No Superior Tribunal de Justiça, alega a impetrante a incompetência da Justiça estadual e a nulidade do processo em razão da não realização de perícia no contrato de honorários advocatícios apresentado por ata notarial.
+Aponta a incompetência da Justiça estadual - 3ª Vara Criminal de Guarapuava (PR) - e, para isso, assevera que o paciente se defende do fato - uso de documento falso - ocorrido em ação previdenciária proposta na Subseção Judiciária de Guarapuava (PR). Em sua ótica, " ..  diante da categórica afirmação de suposta conduta de uso de documento falso, deve-se verificar para qual órgão ou entidade o documento foi apresentado, para então fixar a competência, nos termos da súmula 546 do Superior Tribunal de Justiça. Uma vez que a procuração ad judicia e o contrato de honorários foi apresentado perante a Justiça Federal, equivale a dizer que o uso do documento supostamente falso ocorreu perante a autoridade Federal sendo, portanto, de competência da Justiça Federal o processamento e julgamento de referida conduta" (e-STJ fl. 10).
+Indica segunda nulidade nos autos em razão da ausência de perícia no contrato de honorários advocatícios para apurar suposta fraude processual. Afirma que, "in casu, a perícia era possível de ser realizada, porém, foi descartada pelo juiz sem qualquer justificativa plausível, razão pela qual, nesse caso específico, não poderia a prova testemunhal suprir-lhe a falta, sobretudo porque não é convincente, a ponto de desconstituir a presunção de autenticidade da ATA NOTARIAL elaborada pelo agente delegado" (e-STJ fl. 21).
+Diante dessas considerações, a defesa requer, ipsis litteris (e-STJ fls. 23/24):
+a) Liminarmente, a concessão da ordem de Habeas Corpus para suspender o trâmite da r. decisão proferida no acórdão da ação penal nº 0008785-70.2019.8.16.0031, oriundo da 3ª Vara Criminal de Guarapuava-PR, e revogar a medida cautelar da prisão preventiva até a decisão final do presente habeas-corpus;
+b) No mérito, a concessão da presente ordem de habeas-corpus para declarar a incompetência absoluta do juízo da 3ª Vara Criminal de Guarapuava-PR, para processar e julgar os fatos descritos na ação penal nº 0008785-70.2019.8.16.0031, e a nulidade processual ante a falta de perícia técnica judicial conforme determina o disposto no artigo 158 do Código de Processo Penal, que determina ser imprescindível a realização de prova pericial quando o crime deixar vestígios de todos os atos praticados por aquele juízo.
+É o relatório.
+No presente agravo, repisa a parte as alegações acima colacionadas.
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado (e-STJ fl. 284 ).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. FRAUDE PROCESSUAL. ESTELIONATO. MATÉRIAS JÁ ENFRENTADAS EM OUTROS EXPEDIENTES. REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE PERÍCIA TÉCNICA. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O presente recurso é apenas mais um de 23 processos judiciais nesta Corte que dizem respeito ao mesmo fato e provimentos judiciais, tendo sido as demais teses já enfrentadas à exaustão, configurando-se nítido abuso do direito de recorrer, que causa tumulto processual e visa beneficiar-se de decisões contraditórias.
+2. A única tese sobejante, qual seja, a de ausência de perícia técnica, não foi sequer enfrentada pela Corte de origem, tratando-se de inovação recursal sem a devida inauguração de competência desta Corte.
+3. No mesmo sentido o parecer do representante do Ministério Público Federal, para quem " a s questões alegadas no presente HC não foram discutidas nas instâncias ordinárias".
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+Trata o presente agravo de mais um expediente processual apresentado nesta Corte em benefício do paciente em decorrência da Ação Penal n. 0008785-70.2019.8.16.0031, deflagrada em seu desfavor em razão da prática dos delitos de estelionato e fraude processual (arts. 171, caput, e 347, parágrafo único, ambos do Código Penal).
+Ressalto que houve, ainda, a interposição do Agravo em Recurso Especial n. 1.880.889/PR, do qual não se conheceu, com trânsito em julgado em 2/2/2022, ocasião em que o processo foi remetido ao Supremo Tribunal Federal para exame do agravo em recurso extraordinário interposto.
+Entre os diversos pedidos já deduzidos pela defesa anteriormente, encontram-se pedidos de revogação da custódia cautelar, absolvição do paciente por insuficiência de provas - notadamente em razão da ausência de realização de perícia no contrato firmado com a vítima por meio do qual se obteve a vantagem ilícita - e nulidades diversas.
+No caso, as alegações de incompetência do Juízo de piso e da nulidade pela ausência de perícia técnica nem sequer foram enfrentadas pela Corte de origem, o que impede a análise por esta Casa sob pena de indevida supressão de instância.
+Colaciono, por oportuno, o seguinte excerto do acórdão hostilizado (e-STJ fl. 38):
+Inadequado seria perder de vista, ademais, que no documento juntado pelo réu a fonte entre a página 01 desse contrato é diversa da página 02 (na qual consta a assinatura da vítima), o que demonstra que o acusado, aproveitando-se da segunda folha do contrato original, alterou a primeira página, adicionando cláusulas diversas, para o fim de enganar as autoridades e arquivar o inquérito que estava em trâmite. Esse fato, inclusive, foi constatado pelos investigadores de polícia Sonia Schadeck Schemuda e Marcos Paulo Bebici (mov. 24.37).
+Conforme se dessume do trecho acima, a Corte estadual não teceu qualquer consideração acerca da necessidade de perícia técnica ou da ilegalidade das provas obtidas, motivo pelo qual não se inaugurou a competência deste Tribunal Superior acerca do tema.
+No mesmo sentido o parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fl. 248):
+12 - SOBRE NULIDADES. COMPETÊNCIA / AUSÊNCIA DE PROVA PERICIAL. As questões alegadas no presente HC não foram discutidas nas instâncias ordinárias. 12. 1 - conforme Informações prestadas pelo Juízo de 1º Grau (e-fl. 218):
+ ..
+h) Cumpre salientar que a defesa não arguiu nos autos a incompetência da Justiça Estadual para apreciação e julgamento do feito, nem tampouco requereu a realização de perícia técnica no contrato de honorários advocatícios apresentado por ata notarial, sendo este último argumento utilizado para requerer a revogação da prisão preventiva do paciente, o que fez na fase do artigo 402 do CPP (evento 170.1 dos autos principais), sem que contudo, tenha sido a medida requerida, o que foi observado por este Juízo (evento 173.1), sem qualquer insurgência da defesa;
+ ..
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
