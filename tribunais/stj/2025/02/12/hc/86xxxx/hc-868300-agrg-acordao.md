@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/02/2025 a 12/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. LONGO TEMPO DECORRIDO DESDE O TRÂNSITO EM JULGADO. DEVER DE LEALDADE PROCESSUAL. NECESSIDADE DE RESPEITO À COISA JULGADA E À SEGURANÇA JURÍDICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pretensão da defesa, no presente writ substitutivo de revisão criminal, é o mero reexame de teses já arguidas e apreciadas no julgamento da apelação criminal, o que não é admissível na via estreita do habeas corpus, remédio constitucional de rito célere e cognição sumária.
+2. "O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. Precedentes" (HC n. 206.847/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe de 25/2/2016).
+3. Esta Corte vem entendendo que, em respeito à coisa julgada e à segurança jurídica, bem como em atenção ao dever de lealdade processual e à boa-fé objetiva, mesmo em se tratando de alegada nulidade absoluta, o habeas corpus não pode ser manejado como uma segunda apelação criminal, como intenta a defesa no presente feito. Precedentes.
+4. A condenação da agravante transitou em julgado em 2017 sem que houvesse alegação de nulidade processual. Em observância aos postulados da segurança jurídica e da lealdade processual, o tempo decorrido não pode ser tido como razoável, motivo pelo qual fica absolutamente inviável a declaração de qualquer nulidade.
+5. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MARIA GIRLENE MEDEIROS DOS SANTOS contra decisão monocrática de minha relatoria que não conheceu do habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA que manteve sua condenação como incursa nos artigos 33 e 35 da Lei n. 11.343/2006.
+A agravante reitera os argumentos deduzidos no habeas corpus, pugnando pela reconsideração da decisão agravada (e-STJ fls. 618-624).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. LONGO TEMPO DECORRIDO DESDE O TRÂNSITO EM JULGADO. DEVER DE LEALDADE PROCESSUAL. NECESSIDADE DE RESPEITO À COISA JULGADA E À SEGURANÇA JURÍDICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pretensão da defesa, no presente writ substitutivo de revisão criminal, é o mero reexame de teses já arguidas e apreciadas no julgamento da apelação criminal, o que não é admissível na via estreita do habeas corpus, remédio constitucional de rito célere e cognição sumária.
+2. "O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. Precedentes" (HC n. 206.847/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe de 25/2/2016).
+3. Esta Corte vem entendendo que, em respeito à coisa julgada e à segurança jurídica, bem como em atenção ao dever de lealdade processual e à boa-fé objetiva, mesmo em se tratando de alegada nulidade absoluta, o habeas corpus não pode ser manejado como uma segunda apelação criminal, como intenta a defesa no presente feito. Precedentes.
+4. A condenação da agravante transitou em julgado em 2017 sem que houvesse alegação de nulidade processual. Em observância aos postulados da segurança jurídica e da lealdade processual, o tempo decorrido não pode ser tido como razoável, motivo pelo qual fica absolutamente inviável a declaração de qualquer nulidade.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir os fundamentos que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus.
+A pretensão da defesa, no presente writ substitutivo de revisão criminal, é o mero reexame de teses já arguidas e apreciadas no julgamento da apelação criminal, o que não é admissível na via estreita do habeas corpus, remédio constitucional de rito célere e cognição sumária.
+Com efeito, "o Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. Precedentes" (HC n. 206.847/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe de 25/2/2016).
+Da mesma forma, esta Corte vem entendendo que, em respeito à coisa julgada e à segurança jurídica, bem como em atenção ao dever de lealdade processual e à boa-fé objetiva, mesmo em se tratando de alegada nulidade absoluta, o habeas corpus não pode ser manejado como uma segunda apelação criminal, como intenta a defesa no presente feito. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ALEGADA NULIDADE DA ABORDAGEM POLICIAL. CONDENAÇÃO TRANSITADA EM JULGADO. INADMISSIBILIDADE DO WRIT. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - O trânsito da decisão condenatória impede a impetração de habeas corpus ou a interposição de recurso ordinário perante esta Corte, porquanto a competência do Superior Tribunal de Justiça, prevista no art. 105, I, "e", da Constituição Federal, restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados. Precedentes.
+III - Acerca da preclusão da matéria, já conhecida pela defesa quando do processo principal, esta Corte Superior entende, sob o prisma do princípio da lealdade processual e do respeito à coisa julgada (segurança jurídica), que mesmo se tratando de alegada nulidade absoluta, o habeas corpus não pode ser utilizado como uma segunda apelação criminal, como deseja a defesa neste feito.
+Agravo regimental desprovido.
+(AgRg no HC n. 919.606/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 16/9/2024)
+Ademais, como bem salientado pelo Ministério Público Federal em seu parecer, "as questões trazidas pela defesa foram objeto relação processual penal cuja última decisão data de 2017 (conforme informação colhida no sítio eletrônico do TJPB), sendo inviável, em homenagem ao princípio da segurança jurídica e boa-fé processual, rediscuti-las na presente via" (e-STJ fl. 606). Nesse sentido:
+"A condenação do agravante transitou em julgado em 11/6/2018 sem que houvesse alegação de nulidade processual. Em observância aos postulados da segurança jurídica e da lealdade processual, o tempo decorrido não pode ser tido por razoável, motivo pelo qual fica absolutamente inviável a declaração de qualquer nulidade."
+(AgRg nos EDcl no AgRg no RHC n. 151.275/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
