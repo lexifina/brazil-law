@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/02/2025 a 12/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. INOCORRÊNCIA. AUSÊNICA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. M ODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes.
+3. O aresto registrou expressamente que, na origem, o recurso foi inadmitido, dentre outros fundamentos, pelos óbices das Súmulas 7 e 83 do STJ, e que a recorrente deixou de impugnar eficazmente a incidência do último enunciado sumular, ensejando o não conhecimento do agravo. A jurisprudência deste Superior Tribunal de Justiça se firmou no sentido de que "no caso em que foi aplicado o enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada" (Pet no AR Esp n. 1.102.915/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/5/2023, D Je de 11/5/2023), o que não logrou fazer a recorrente.
+4. A via dos embargos de declaração não admite a reabertura de debate sobre matéria já decidida, ante a sua especialidade.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por MARA GESSY DE CORDOVA em objeção ao acórdão visto às fls. 498-501, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015; e na Súmula 182 do STJ.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que incumbe à parte, no agravo em recurso especial interposto contra decisão na qual foi aplicado o enunciado 83 do STJ, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. Precedente.
+3. Agravo interno desprovido.
+A embargante sustenta, em síntese, a existência de omissão no acórdão, argumentando que o o STJ não tem entendimento pacífico sobre a matéria a ponto de aplicar a Súmula 83 do STJ para não conhecer do recurso especial, uma vez que "o único julgamento invocado pela decisão de inadmissão é do ano de 2022 e da 3ª Turma do Superior Tribunal de Justiça. A decisão invocada pela embargante, como bem identificado pelo acórdão, é do ano de 2021, e da 4ª Turma". Pede o acolhimento dos embargos de declaração com efeitos infringentes.
+Resposta aos embargos às fls. 505-509.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. INOCORRÊNCIA. AUSÊNICA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. M ODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes.
+3. O aresto registrou expressamente que, na origem, o recurso foi inadmitido, dentre outros fundamentos, pelos óbices das Súmulas 7 e 83 do STJ, e que a recorrente deixou de impugnar eficazmente a incidência do último enunciado sumular, ensejando o não conhecimento do agravo. A jurisprudência deste Superior Tribunal de Justiça se firmou no sentido de que "no caso em que foi aplicado o enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada" (Pet no AR Esp n. 1.102.915/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/5/2023, D Je de 11/5/2023), o que não logrou fazer a recorrente.
+4. A via dos embargos de declaração não admite a reabertura de debate sobre matéria já decidida, ante a sua especialidade.
+5. Embargos de declaração rejeitados.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes, deduzido na minuta ou na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+O acórdão embargado expôs de forma clara os motivos pelos quais o agravo interno deveria ser desprovido, especialmente pela ineficiência da impugnação à incidência da Súmula 83 do STJ ao caso.
+Com efeito, registrou o aresto que, na origem, o recurso foi inadmitido diante da ausência de violação à norma presente nos arts. 489 e 1.022 do CPC/2015 e de deficiência na prestação jurisdicional, bem como pelos óbices das Súmulas 7 e 83 do STJ; e que a recorrente deixou de impugnar eficazmente a incidência do último enunciado sumular, ensejando o não conhecimento do agravo.
+Isso porque a jurisprudência deste Superior Tribunal de Justiça se firmou no sentido de que "no caso em que foi aplicado o enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos" (Pet no AR Esp n. 1.102.915/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/5/2023, D Je de 11/5/2023).
+A embargante indicou em sua argumentação o REsp n. 1.909.451/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/3/2021, DJe de 13/4/2021. Ou seja, anterior ao julgado que subsidiou os fundamentos da decisão impugnada, de 31 de maio de 2022 (REsp n. 1.962.674/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/5/2022, DJe).
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
