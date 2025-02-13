@@ -1,0 +1,35 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO. PORTE DE ARMA – CONDENAÇÃO NAS PENAS DO ART. 14 DA LEI 10.826/03. ILICITUDE DA PROVA. INOCORRÊNCIA. CRIME PERMANENTE. DESNECESSÁRIO MANDADO DE BUSCA E AUTORIZAÇÃO DO MORADOR. CONSENTIMENTO DO MORADOR. RECURSO DEFENSIVO BUSCANDO A ABSOLVIÇÃO ANTE A FRAGILIDADE PROBATÓRIA. Insurgência defensiva quanto ao não acolhimento da preliminar de nulidade da prova por abuso de autoridade suscitada em alegações finais. Inexistência de nulidade. O Policial Novellino e o Delegado Lauro se dirigiram à residência do réu a fim de averiguar suposta venda irregular de veículo, cuja procedência era supostamente ilícita. Ao atender os policiais, o Apelante estava portando uma arma na cintura. A autoridade policial, explicou que se tratava de uma diligência bem informal, foram à casa de Juan apenas para conversar com ele, até porque era noite e não se podia fazer nada mais formal. Ocorre que quando o Apelado saiu de sua residência viu que ele estava armado. Esclareceu que Juan franqueou a entrada e o policial ingressou em sua residência. A garantia constitucional de inviolabilidade ao domicílio é excepcionada nos casos de flagrante delito, não se exigindo em tais hipóteses, mandado judicial para ingressar na residência do agente. E, em se tratando de crimes de natureza permanente, como é o caso de porte ilegal de arma de fogo, mostra-se prescindível eventual mandado de busca e apreensão e autorização para que a autoridade policial possa adentrar no domicílio. No caso em tela houve o consentimento do morador, o que foi inclusive por ele admitido. De todo modo, antes mesmo de ingressar na residência do réu já havia estado de flagrância, posto que ele estava portando arma de fogo sem a necessária autorização. Ilegalidade ou abuso de autoridade que não se verifica. Preliminar que se rejeita. No mérito a defesa busca a absolvição. Impossibilidade. Materialidade positivada. Autoria inequívoca. A diligência realizada na residência do apelante teve por base a prisão em flagrante do nacional Alexandre, que estava na posse de um Honda Civic supostamente clonado, ocasião em que ao ser abordado pelo policial Felipe Novellino, afirmou ter comprado o veículo de JUAN (apelante). NOVELLINO já havia visto o referido veículo Honda Civic na garagem da residência do acusado e, aliado à informação de Alexandre, foram à casa dele para que Juan esclarecesse. NOVELLINO informou que já havia ido duas ou três vezes à casa de JUAN chamá-lo, porém ele não estava. Mais tarde então retornaram, ocasião em que ao tocarem a campainha, o acusado veio armado. Versão do réu de que não estava armado vai de encontro às declarações das testemunhas. A defesa procura descredenciar a palavra dos policiais aduzindo que suas versões não são compatíveis e apresentam contradições. Pequenas contradições encontradas na prova oral são naturais e não invalidam o conjunto probatório, sobretudo se os depoimentos se harmonizam em pontos essenciais e se eventuais contradições se limitam a detalhes de menor relevo como ocorre no caso em espécie, devendo ser salientado que o policial Novellino e o Delegado Lauro foram ouvidos quase 04 (quatro) anos após os fatos. Validade da palavra dos policiais. Súmula 70 TJRJ. Prova firme e segura. Absolvição que se refuta. REJEIÇÃO DA PRELIMINAR. DESPROVIMENTO DO RECURSO.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XI, LIV, LVII e LXII, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. CRIME DE POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ARTIGO 12 DA LEI 10.826/2003. DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DE PRECEDENTES DESTA CORTE PROFERIDOS NA SISTEMÁTICA DA REPERCUSSÃO GERAL. INTERPOSIÇÃO DE AGRAVO. DESCABIMENTO. PRECEDENTES. TIPIFICAÇÃO LEGAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO”. (RE 1219235/RS – AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 18/09/2019).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 13 de fevereiro de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
