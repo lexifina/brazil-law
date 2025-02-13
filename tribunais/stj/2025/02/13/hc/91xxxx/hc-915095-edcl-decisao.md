@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GUSTAVO LIMA MARTINS contra decisão que não conheceu do habeas corpus.
+A parte embargante afirma que a decisão embargada teria sido omissa quanto à alegação de manifesta ilegalidade na individualização da pena privativa de liberdade aplicada ao paciente e na fixação do regime inicial de cumprimento da pena.
+É o relatório.
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+Considerando o disposto no art. 647-A do CPP e as questões suscitadas pelo Ministério Público Federal no parecer de fls. 290-300, assiste razão ao embargante quanto à omissão da decisão recorrida em se manifestar sobre a alegação de manifesta ilegalidade no procedimento de individualização da pena e na fixação do regime fechado, o que passo a fazer a seguir.
+Ao examinar as razões declinadas no voto condutor do acórdão impugnado, constata-se que não há manifesto erro jurídico na dosimetria da pena aplicada ao paciente nem na definição do regime fechado para o início do seu cumprimento.
+A despeito das bem lançadas razões do parecer ministerial, observa-se que a sua conclusão deriva de uma interpretação estanque de certos termos empregados no julgado para elevar a pena-base, sem considerar todo o contexto em que eles estão inseridos.
+Nesse sentido, a afirmação de que a violência empregada para a execução do roubo não poderia ter sido valorada como circunstância judicial negativa, uma vez que se trata de elementar do tipo, desconsidera que o incremento da pena-base não decorreu precisamente do uso da violência, mas da intensidade com que ela foi aplicada ("os acusados empregaram violência física, desferindo diversos golpes contra o ofendido, inclusive em sua cabeça").
+De igual modo, a assertiva de que a premeditação e a escolha do objeto do roubo não poderiam determinar a elevação da pena-base, porque integrariam o dolo, ignora que o planejamento do crime não foi a razão exata aduzida no julgado para esse fim; antes, a sentença, mantida no julgamento da apelação, registra que os agentes se valeram de um automóvel para executar o crime e visavam a um caminhão, bem de alto valor, que, como sabiam, constituía meio de vida do ofendido.
+Por sua vez, a circunstância de os roubadores terem acertado previamente a venda do caminhão com terceiro (que, de rigor, também é participante do crime por instigação, mediante promessa de pagamento) é suficientemente reprovável para justificar novo incremento da pena-base.
+A despeito do equívoco do julgado em considerar o comprador do bem como eventual receptador, é incorreta, de todo modo, a alegação de que o Juízo teria considerado a hipotética receptação do bem por terceiro como fundamento autônomo para elevar a pena-base.
+Em conclusão, também não se constata ilegalidade alguma na definição do regime fechado para o início do cumprimento da pena privativa de liberdade, em vista do disposto no art. 33, § 3º, do CP.
+De fato, a decisão condenatória enumerou diversas circunstâncias judiciais negativas e, por conseguinte, era lícito ao julgador estabelecer o regime inicial fechado a despeito de a pena privativa de liberdade ser inferior a 8 anos.
+Em suma, o acórdão impugnado não incorreu em manifesta ilegalidade ao determinar a pena imposta ao paciente e o respectivo regime de cumprimento.
+Nesses termos, reputo suprida a omissão na fundamentação da decisão embargada.
+Ante o exposto, acolho os embargos de declaração, sem a produção de e feitos infringentes.
+Publique-se. Intimem-se.
+ EMENTA
