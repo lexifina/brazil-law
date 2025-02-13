@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Mauro dos Santos de Oliveira, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem ali impetrada (HC n. 2354588-10.2024.8.26.0000), mantendo a decisão do Juízo da 2ª Vara de Crimes Tributários, Organização Criminosa, Lavagem de Bens e Valores da Capital da comarca de São Paulo/SP que decretou a prisão preventiva pela suposta prática do crime de associação para o tráfico de drogas (Processo n. 1502918-10.2024.8.26.0050).
+Neste writ, o impetrante alega que o decreto preventivo carece de fundamentação idônea, pois se baseia em argumentos genéricos e nos antecedentes criminais do paciente (fl. 3).
+Requer, liminarmente e no mérito, a revogação da custódia cautelar.
+É o relatório.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Após análise minuciosa dos autos, observo que a prisão cautelar do acusado está fundamentada na gravidade concreta de sua conduta e no risco de reiteração delitiva, conforme destacou o magistrado nos seguintes termos (fls. 57/58):
+ ..
+Diálogos interceptados na linha de MAURO PAULINO fazem clara referência ao entorpecente fornecido por MAURO DOS SANTOS, havendo indícios de que fornece entorpecentes em larga escala para diversos traficantes.
+Relatou-se, ainda, que MAURO DOS SANTOS possui vasta passagem criminal ligada ao crime organizado, incluindo envolvimento em homicídio de policiais, sendo integrante do PCC e responsável pela "disciplina" do Bairro Rio Pequeno (região da comunidade São Remo). MAURO DOS SANTOS, conforme relatado, consta no sistema "Fotocrim": "Batizado pelo PCC em 04/09/2003 na Penitenciária Dakar III, com a responsabilidade de Disciplina do bairro Rio Pequeno e final da zona oeste da capital paulista. Há indícios de ser um dos responsáveis por um cemitério clandestino no Parque Primavera em Carapicuíba, uma área de mata fechada que faz divisa com Osasco e Cotia e de ser um dos braços direitos da facção criminosa que executa ação criminosa conhecida como "Tribunal do Crime".
+ ..
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, notadamente porque o acusado possui diversos registros criminais ligados ao crime organizado, incluindo o envolvimento em homicídio de policiais, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO AO TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DA CUSTÓDIA. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A PROBABILIDADE DE REITERAÇÃO DELITIVA. ASSEGURAR A APLICAÇÃO DA LEI PENAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
