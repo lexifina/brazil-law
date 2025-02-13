@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 104-113), assim ementado:
+Agravo de Instrumento. Execução Fiscal. ISS Simples Nacional do exercício de 2013. Decisão que rejeitou a exceção de pré-executividade, em que alegada a nulidade da CDA. Insurgência da excipiente. Pretensão à reforma. Acolhimento. Caso concreto em que os títulos originais se mostram viciados, não viabilizam o exercício do contraditório e da ampla defesa, bem como não permitem ao juízo sequer compreender a natureza da dívida, uma vez que apontam a fundamentação legal relativa a tributo diverso daquele indicado nas CDAs. Requisitos estabelecidos no art. 2º, §5º, II e III, da Lei 6830/80 e no art. 202, II e III, do CTN não atendidos. Nulidade das CDAs configurada. Impossibilidade de substituição dos títulos para alteração de elemento próprio do lançamento. Precedentes desta C. Câmara e do E. STJ. Inexorável extinção do processo executivo, por ausência de pressuposto material de constituição e de desenvolvimento válido e regular do processo (artigo 267, inciso IV, do CPC/1973, e artigo 485, §3º, do CPC/2015). Decisão reformada. Recurso Provido.
+A parte recorrente interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado os arts. 202 e 204 do CTN; art. 244 do CPC; e arts. 2º, §§ 5º e 6º, da Lei n. 6.830/80.
+O recurso especial teve seguimento negado pela aplicação do tema repetitivo n. 166/STJ quanto à possibilidade de substituição da CDA e, em relação às demais violações, foi inadmitido pela aplicação da Súmula n. 7/STJ (fls. 144-146), tendo a parte interposto o respectivo agravo interno, que restou desprovido, e o presente agravo.
+É o relatório.
+Passo a decidir.
+No recurso especial, a parte alega a inexistência de vícios insanáveis nas CDAs que aparelham execução fiscal de crédito tributário de ISS, conforme extrai-se do seguinte trecho do recurso especial (fl. 120):
+A certidão de dívida ativa, assim, traz todos os dados necessários à compreensão do fundamento da exação, apontando o tributo, o sujeito passivo, o imóvel, a área, o exercício, o vencimento e o valor do débito. Nunca é demais lembrar ser premissa de direito que ninguém pode alegar o desconhecimento da lei.
+Por outro lado, a instância ordinária afirmou, em sentido diametralmente contrário, que não estava presente o fundamento legal adequado referente ao ISS, requisito essencial à CDA, rejeitando a possibilidade de substituição dos referidos títulos, em consonância com a jurisprudência do STJ, nos seguintes termos (fls. 108-109):
+No caso concreto, realizando o confronto entre as Certidões de Dívida Ativa originais que embasam a execução fiscal (p. 18/19) com as disposições dos transcritos artigo 202 do Código Tributário Nacional e artigo 2º, § 5º, da Lei de Execução Fiscal, verifica-se que os títulos padecem de vícios insanáveis, sendo, portanto, nulos.
+Isso porque os títulos trazem que o crédito exigido seria relativo a ISS do exercício de 2013. Contudo, trazem como fundamento legal das obrigações o art. 13, VII, da Lei Complementar nº 123/20063, que trata unicamente do ICMS.
+O artigo 202, inciso III, do Código Tributário Nacional e o artigo 2º, § 5º, inciso III, da Lei de Execução Fiscal preceituam que a certidão de dívida ativa mencione a origem e natureza do crédito, mencionando especificamente a disposição de lei em que seja fundado.
+O acórdão do Tribunal Regional concluiu, com base nos elementos fático-probatórios acostados aos autos, que houve, assim, irregularidade na inscrição da CDA, que causou prejuízo à ampla defesa.
+Nesse ponto, não é possível verificar-se, nesta instância especial, se a CDA preenchia todos os requisitos legais e se houve prejuízo à ampla defesa, uma vez que esta análise esbarraria no óbice da Súmula n. 7 do STJ.
+Nesse mesmo sentido, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. PREQUESTIONAMENTO INEXISTENTE. INCIDÊNCIA DAS SÚMULAS 282 e 356/STF. NULIDADE DA CDA. REEXAME DE PROVAS. SUMULA7/STJ. INCIDÊNCIA.
+1. Trata-se de Agravo contra decisão que conheceu do pleito para não
+conhecer do Recurso Especial por incidência das Súmulas 7/STJ, 282 e
+356/STF.
+2. A irresignação não merece prosperar, uma vez que o Tribunal de origem não emitiu juízo de valor sobre os dispositivos legais cuja ofensa se aduz. Não se pode conhecer da irresignação contra a ofensa ao art. 204 do CTN, pois o referido dispositivo legal não foi analisado pela instância de origem. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+3. O busílis trata da liquidez e da exigibilidade do título exequendo. A sentença entendeu que a defesa do executado foi cerceada, em razão
+de o título não conter os requisitos básicos para a execução exigidos, descumprindo o artigo 2º, parágrafo 5º, inciso III da Lei 6.830/80, não possibilitando a emenda à inicial. O Tribunal entendeu ser insanável o título que não traz a fundamentação legal nem indica a data dos vencimentos dos créditos dificultando a defesa do exequente.
+4. A verificação da liquidez e da certeza da CDA ou, ainda, da presença dos requisitos essenciais à sua validade, demanda reexame do conjunto fático-probatório constante dos autos, o que é vedado em Recurso Especial (Súmula 7/STJ)
+5. Agravo Interno não provido (AgInt no AREsp n. 2.002.156/SP, relator
+Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2022, DJe
+de 23/6/2022 grifo nosso)
+Isso posto, com fundamento no art. 932, IV, do CPC, bem como na Súmula n. 568/STJ e art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios anteriormente fixados em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
