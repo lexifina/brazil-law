@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos de encontro a decisão que indeferiu liminarmente a reclamação.
+Alega o embargante, em suma, a presença de omissão no julgado, "tendo em vista a existência da Súmula nº 514 do STJ e de seus precedentes (acima citados e com as decisões em anexo no presente feito)" (fl. 107). Aduz ser necessária manifestação expressa "sobre a incidência dos juros moratórios a partir do evento danoso, conforme estabelecido por esta Corte da Cidadania, ou, se não for esse o caso, ao menos haja alguma manifestação objetiva, à luz do caso concreto, sobre a razão pela qual a decisão não afrontou de maneira expressa a decisão do STJ positivada na Súmula 54 acima citada" (fl. 111).
+É o breve relato do necessário.
+DECIDO.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+Na espécie, as razões dos aclaratórios revelam tão somente o intuito de reapreciação das matérias já decididas, o que não se admite em embargos de declaração, que não possui natureza de efeito modificativo. A propósito:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. FALTA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA DOS CASOS CONFRONTADOS. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. 1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.  ..  3. Embargos de declaração rejeitados. (EDcl no AgInt nos EAREsp n. 2.056.528/MA, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 3/12/2024, DJe de 9/12/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA PETIÇÃO. TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. PLAUSIBILIDADE DO DIREITO E PERIGO DE DEMORA. INDEFERIMENTO. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl na Pet n. 14.821/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE DISTRIBUIÇÃO DE HONORÁRIOS. PRESCRIÇÃO. SÚMULA N. 168/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.  ..
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Embargos de declaração rejeitados. (EDcl no AgInt nos EAREsp n. 1.850.024/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 19/11/2024, DJe de 25/11/2024.)
+Com efeito, não se verifica qualquer vício integrativo no julgado embargado, que aplicou, de modo devidamente fundamentado, a jurisprudência pacífica do STJ, segundo a qual, "o ajuizamento da reclamação, tendo por finalidade garantir a autoridade de suas decisões, pressupõe a existência de um comando positivo cuja eficácia deva ser assegurada, protegida e conservada" (fl. 99), não tendo cabimento com o fim de preservar a jurisprudência do STJ, como pretendido. Presta-se, apenas, a garantir a autoridade de decisão tomada no caso concreto, envolvendo as partes que figuram no litígio do qual se origina, o que não se constatou no caso sub examine, porquanto inexistente qualquer comando proferido por este STJ, cuja autoridade tenha sido desrespeitada pela instância de origem, o que justifica o indeferimento liminar da reclamação. A propósito:
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. PRESERVAÇÃO DE COMPETÊNCIA OU DESRESPEITO À AUTORIDADE DE DECISÃO ESPECÍFICA DO STJ. NÃO OCORRÊNCIA. OFENSA A JURISPRUDÊNCIA DO STJ. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A reclamação constitucional é ação destinada à tutela específica da competência e da autoridade das decisões da Corte, exigindo-se, nesse último caso, a demonstração de que há aderência estrita entre o objeto do ato reclamado e o conteúdo do provimento jurisdicional exarado pelo Tribunal Superior, uma vez que a ação reclamatória não se qualifica como sucedâneo recursal. Precedentes.
+2. Hipótese em que a parte reclamante se insurge contra sentença que não teria observado enunciado da Súmula do STJ e o princípio da irretroatividade da lei penal.
+3. Nos termos da firme orientação desta Corte Superior, a reclamação não tem cabimento como sucedâneo recursal, não sendo adequada à preservação de sua jurisprudência, mas sim à autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual ela é originada. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg na Rcl n. 46.846/RJ, relator Ministro Og Fernandes, Terceira Seção, julgado em 1/10/2024, DJe de 7/10/2024; sem grifos no original.)
+PROCESSUAL CIVIL. RECLAMAÇÃO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO DA FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+1. Não se conhece de agravo interno no qual não se impugnam os fundamentos da decisão recorrida. Incidência da Súmula n. 182 do STJ.
+2. A reclamação destinada a garantir a autoridade das decisões do STJ (art. 988, II, do CPC) somente tem cabimento quando se verificar o descumprimento de decisões dele emanadas no exame de caso concreto envolvendo a parte reclamante.
+3. Agravo interno desprovido.
+(AgInt na Rcl n. 47.129/MS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 17/9/2024, DJe de 19/9/2024; sem grifos no original.)
+Como se vê, demonstrado o não cabimento da reclamação, não há falar em vícios a serem sanados.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 3º, do CPC/2015.
+Diante do exp osto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
