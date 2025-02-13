@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de RAMIRO DOMINGO DE CARVALHO contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 6 (seis) meses e 20 (vinte) dias de detenção, em regime inicial semiaberto, e ao pagamento de 10 (dez) dias-multa, no valor mínimo unitário de 1/30 do salário-mínimo vigente à época dos fatos, como incurso nos art. 306, caput, da Lei nº 9.503/97 (Código de Trânsito Brasileiro), tendo a pena corporal sido convertida em restritivas de direitos. Além disso, foi condenado à pena de suspensão do direito de conduzir veículo automotor em 2 (dois) meses e 6 (seis) dias.
+Irresignada, a defesa apelou ao Colegiado de origem, que foi desprovido (e-STJ, fls. 7-14).
+Neste mandamus, a defesa sustenta, em síntese, que a pena restritiva de direitos é diário, inclusive em finais de semana, o que lhe impossibilita desempenhar atividades em prontos-socorros ou unidades do gênero, devendo ser a pena corporal ser convertida em multa.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, o Superior Tribunal de Justiça não pode conhecer de teses que não foram debatidas pela Corte de origem, sob pena de incorrer em indevida supressão de instância,. Na hipótese, a defesa limitou-se a pugnar pela absolvição do réu, por ausência de lesão ao bem jurídico tutelado, o que impede o exame do pleito de substituição da pena corporal por multa.
+Ainda que assim não fosse, o preceito secundário do crime pelo qual o paciente foi condenado (art. 306, caput, da Lei nº 9.503/97) já estabelece a cumulação da pena de multa com a pena privativa de liberdade, de modo que se deve privilegiar na substituição a escolha da pena restritiva de direitos.
+O Superior Tribunal de Justiça entende que "não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa cumulada com a pena privativa de liberdade, devendo-se privilegiar a incidência de duas medidas restritivas de direitos nessa hipótese" (AgRg no HC n. 480.970/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/6/2019, DJe 18/6/2019).
+Ante o exposto, não conheço da impetração.
+Publique-se. Intimem-se.
+EMENTA
