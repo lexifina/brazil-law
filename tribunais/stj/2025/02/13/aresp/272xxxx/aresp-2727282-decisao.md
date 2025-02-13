@@ -1,0 +1,31 @@
+DECISÃO
+Examina-s e agravo em recurso especial interposto por WALTER LOPES ENGENHARIA LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo em recurso especial interposto em: 14/08/2024.
+Concluso ao gabinete em: 18/10/2024.
+Ação: embargos à execução opostos pela agravante em face de COMERCIAL ELÉTRICA PJ LTDA.
+Sentença: julgou improcedente os embargos para determinar o prosseguimento da execução.
+Acórdão: negou provimento ao apelo interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. DEMONSTRATIVO DE CÁLCULO. EXISTÊNCIA. EXCESSO DE EXECUÇÃO. NÃO CONFIGURAÇÃO. DUPLICATA MERCANTIL. JUROS DE MORA. DATA DO VENCIMENTO. ART. 397 DO CÓDIGO CIVIL. SENTENÇA. MANUTENÇÃO. DESPROVIMENTO DO RECURSO.
+Deve ser rechaçada a alegação de que a inicial da Ação de Execução veio desacompanhada de demonstrativo de débito idôneo que aponte o real valor da execução, sendo certo que a exequente, ora apelada, quando ajuizou a demanda executiva, apresentou cópia das duplicatas, dos instrumentos de protesto e também da planilha com o débito atualizado, tendo o magistrado, ainda, para fins de verificação da planilha de cálculo, determinado o encaminhamento da ação executiva para o Contador Judicial; o qual acabou por confirmar os cálculos que haviam sido apresentados pelo exequente, ora apelado.
+Melhor sorte não acode o executado/apelante quando defende excesso de execução. Os juros de mora são contados a partir da data de vencimento. Incide, na espécie, o art. 397 do Código Civil.
+Recurso a que se nega provimento, com a manutenção da sentença proferida.
+Recurso especial: alega violação dos arts.798, parágrafo único, inciso I; 924, inciso I; e 917, ambos do Código de Processo Civil de 2015; artigos 397; 405 e 406 do Código Civil de 2002; e, por fim, artigo 161 do Código Tributário Nacional. Sustenta, em síntese, que a inicial estava desacompanhada de demonstrativo de débito idôneo que aponta o real valor da execução, uma vez que a planilha apresentada não indicou o índice de correção utilizado.
+Aduz que os juros de mora só incidem a partir da citação da agravante na demanda principal, porquanto ausente data de vencimento específica das duplicatas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Observa-se que o TJ/PE, após analisar o acervo probatório reunido nos autos, concluiu:
+Da análise dos autos da ação executiva originária, notadamente dos documentos acostados nos Id nº 13690535, pág. 16/25, Id nº 13690601, pág. 01/13 e Id nº 13690667, pág. 01/14, observa-se que a exequente, ora apelada, quando ajuizou a demanda executiva, apresentou cópia das duplicatas, dos instrumentos de protesto e também da planilha com o débito atualizado. Ainda assim, para fins de verificação da planilha de cálculo, o magistrado de primeiro grau proferiu despacho, ocasião em que determinou o encaminhamento da ação executiva para o Contador Judicial; o qual acabou por confirmar os cálculos que haviam sido apresentados pelo exequente, ora apelado (Id nº 61332486, pág. 01 e Id nº 70796121, pág. 01 dos autos da execução).
+Nesse sentido, deve ser rechaçada a alegação de que "a inicial da Ação de Execução (ação principal) veio desacompanhada de demonstrativo de débito idôneo que aponte o real valor da execução", como quer fazer crer a parte recorrente.
+Melhor sorte não acode o executado/apelante quando defende excesso de execução. Na espécie, os juros de mora são contados a partir da data de vencimento. Incide, na hipótese presente, o art. 397 do Código Civil. Nesse sentido, muito bem se pronunciou o magistrado de primeiro grau, cujos argumentos, por reproduzirem o meu entendimento, passo a transcrever a seguir:
+" ..  Destaque-se, por oportuno, que a embargante impugnou os cálculos apresentados, no entanto, ela deve ser sumariamente rechaçada. De fato, a duplicata mercantil é título de crédito, como qualquer outro, estando sujeita às regras de direito cambial, nos termos do art. 25 da Lei nº 5.474/68. De acordo com o art. 1º, § 1º, da Lei n. 6.899/81, na execução de título executivo extrajudicial, os juros de mora contam-se a partir da data de vencimento dele constante. Ademais, o art. 397 do Código Civil estabelece que o inadimplemento da obrigação líquida e positiva, no seu termo, constitui em mora o devedor, independentemente de interpelação judicial ou extrajudicial. Desta feita, tratando de obrigação com data de vencimento pré- estabelecida, não há que se falar na incidência de juros apenas após a citação, mas sim a partir daquela data, o que afasta a arguição da embargante neste ponto. (e-STJ, fl. 250-252)
+Portanto, alterar o decidido no acórdão impugnado, no que se refere ao demonstrativo de débito idôneo que apontou o real valor da execução, bem como do termo inicial dos juros de mora, haja vista o reconhecimento da obrigação com data de vencimento pré-estabelecida, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+Ademais, o Superior Tribunal de Justiça detém o posicionamento, no sentido de que, tratando-se de dívida líquida e certa, os juros de mora devem incidir a partir do vencimento de cada parcela da obrigação, nos termos do art. 397 do Código Civil. Precedentes: AgInt no AREsp n. 900.033/SP, Terceira Turma, DJe de 30/11/2016 e AgRg no AREsp n. 792.902/MT, Quarta Turma, DJe de 7/12/2015.
+Desse modo, o TJ/PE se alinhou à jurisprudência desta Corte. Incide, no caso, a Súmula 568 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. 1. Embargos à execução.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
