@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANDREIA APARECIDO MARINHO DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que, na execução penal, a paciente foi agraciada com indulto nas execuções n. 7000257-18.2015.8.26.0506 e 0040135-45.2016.8.26.0050, com base no Decreto n. 11.302/2022. No entanto, o pedido de retificação do cálculo foi indeferido, sob o fundamento de que a decisão que concede o indulto é constitutiva e não declaratória, e que as penas indultadas já haviam sido integralmente cumpridas antes da publicação do aludido Decreto.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+A Defensoria Pública alega que a sentença que concede indulto tem natureza meramente declaratória. Argumenta que a pena indultada não pode mais fazer parte do cálculo de penas a cumprir e que os períodos de prisão cumpridos exclusivamente no processo indultado não devem ser considerados no processo principal.
+Requer a concessão da ordem para reconhecer a ilegalidade da decisão que atribuiu natureza constitutiva à decisão concessiva do indulto, determinando a exclusão de todas as penas indultadas do cálculo de liquidação de penas da paciente.
+Prestadas as informações solicitadas, o Ministério Público Federal opinou pela extinção do writ sem resolução de mérito ou, alternativamente, pela denegação da ordem.
+É o relatório.
+Este Tribunal Superior firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observam-se a respeito os seguintes julgados: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Ademais, no caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+Ao denegar a ordem impetrada na origem, o Tribunal local assim se manifestou (fls. 95-101):
+Não se ignora que a decisão judicial que concede indulto guarda natureza declaratória, de modo que é possível conceder o benefício de forma retroativa, antecipando o termo inicial e final de cumprimento da condenação posterior.
+Por outro lado, isso não significa afirmar que, havendo o integral cumprimento da pena antes da declaração do indulto, a extinção da execução seja desconsiderada para que este tempo passe a ser computado como pena efetivamente cumprida em execução distinta.
+Ou seja, o indulto somente é cabível quanto à execução pendente de cumprimento, não sendo possível a aplicação do benefício à execução criminal que não existe mais.
+No caso dos autos, a paciente foi condenada nos autos nº 0002837-93.2010.8.26.0352, pela prática do crime tipificado no artigo 155, caput, do Código Penal, havendo integral cumprimento da reprimenda de 1 (um) ano, 6 (seis) meses e 10 (dez) dias em 15/12/2017 - PEC nº 0040135-2016.8.26.0050; quanto aos autos nº 0000917-43.2014.8.26.0288, em que condenada como incursa no artigo 155, caput, c. c. o 71, ambos do Código Penal a pena de 1 (um) ano, 7 (sete) meses e 18 (dezoito) dias, o término ocorreu em 05/06/2016 - PEC nº 7000257-18.2015.8.26.0506, conforme se tira da certidão de fls. 1.422.
+Ou seja, em verdade, não era o caso de concessão do indulto, uma vez que as penas já haviam sido, há muito, integralmente cumpridas. Em que pese o deferimento dos pedidos na origem, um novo erro processual não corrigirá o anterior.
+ ..
+No presente caso, a exclusão das penas indevidamente indultadas seria o mesmo que conceder à paciente um crédito de pena para as execuções posteriores, o que não encontra amparo legal.
+Portanto, é inviável o pleito de retificação do cálculo de penas, nos moldes formulados pela defesa, devendo ser mantida sob os próprios fundamentos a r. decisão que determinou a manutenção, no cálculo de penas da paciente, das penas impostas nas ações penais nº 0002837-93.2010.8.26.0352 (PEC nº 0040135-2016.8.26.0050) e 0000917-43.2014.8.26.0288 (PEC nº 7000257-18.2015.8.26.0506), extintas pelo integral cumprimento.
+Não há, portanto, constrangimento ilegal a ser afastado.
+No caso dos autos, conforme se extrai da certidão de fl. 63, as condenações nos autos das execuções PECs n. 7000257-18.2015.8.26.0506 e 0040135-45.2016.8.26.0050, por ocasião da publicação do Decreto Presidencial n. 11.302/2022, já estavam extintas pelo integral cumprimento, o que afasta o apontado constrangimento ilegal.
+Assim, o entendimento adotado pelo Tribunal de origem coaduna com a jurisprudência desta Corte Superior de Justiça, cujo entendimento é de que o indulto incide sobre as execuções em curso no momento da edição do Decreto presidencial, não sendo possível considerar na base de cálculo do benefício as reprimendas já extintas pelo integral cumprimento.
+A propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO N. 7.873/2012. PENA REFERENTE A GR 01 EXTINTA PELO INTEGRAL CUMPRIMENTO. DEMAIS EXECUÇÕES COM INÍCIO EM DATA POSTERIOR À PUBLICAÇÃO DO DECRETO.
+1. De acordo com a jurisprudência desta Corte, "não é possível se decidir acerca da incidência de indulto ou de comutação sobre reprim enda já extinta, quando os benefícios não foram nem mesmo pleiteados no curso do desconto da reprimenda" (HC n. 414.534/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/12/2017).
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 528.369/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/8/2020, DJe de 10/8/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENAS. DECRETO PRESIDENCIAL N. 8.380/2014. INCIDÊNCIA SOBRE PENA JÁ EXTINTA. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVOS. RECURSO IMPROVIDO.
+1. A comutação incide sobre as execuções em curso no momento da edição do decreto presidencial, não sendo possível considerar na base de cálculo do benefício as penas já extintas por integral cumprimento. Precedentes.
+2. A interpretação extensiva das restrições contidas no decreto concessivo de comutação de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, não preenchidos os requisitos estabelecidos na norma legal para a concessão do indulto ou da comutação, o benefício deve ser indeferido, sob pena de ofensa ao princípio da legalidade. No caso, além de não se ter sido atingido o lapso temporal para a concessão do benefício, no período abrangido pelo decreto, tem-se o cumprimento de pena por crime hediondo, circunstância que obsta a aquisição da benesse, nos termos do art. 9º, III do Decreto Presidencial n. 8.380/2014.
+3. Agravo regimental improvido.
+(AgRg no HC n. 550.268/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/5/2020, DJe de 15/5/2020.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. DECRETO N. 8.615/2015. COMUTAÇÃO DE PENAS. INCIDÊNCIA SOBRE PENA JÁ EXTINTA. IMPOSSIBILIDADE. WRIT NÃO
+CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. "Não é possível se decidir acerca da incidência de indulto ou de comutação sobre reprimenda já extinta, quando os benefícios não foram nem mesmo pleiteados no curso do desconto da reprimenda." (HC 414.534/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/11/2017, DJe 06/12/2017).
+3. No caso, quando da publicação do Decreto Presidencial nº 8.615/2015, a pena imposta ao paciente pela prática do crime hediondo já estava extinta pelo integral cumprimento (delito mais grave - art. 76 do Código Penal), o que afasta o apontado constrangimento ilegal.
+4. Habeas corpus não conhecido. Liminar sem efeito.
+(HC n. 433.073/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/6/2018, DJe de 15/6/2018.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
