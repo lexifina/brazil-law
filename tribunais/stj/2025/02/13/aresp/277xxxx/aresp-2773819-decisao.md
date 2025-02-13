@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto Nacional do Seguro Social - INSS contra decisão que não admitiu recurso especial considerando óbice da Súmula 126 do STJ.
+O Apelo nobre obstado interposto com fundamento no art. 105, inciso III, alínea a, da CF, desafiando acórdão proferido pelo TJ/SP assim ementado (fl. 181):
+ACIDENTÁRIA Operadora de caixa Acidente típico Lesão no tornozelo direito Nexo causal reconhecido Redução parcial e permanente da capacidade laborativa - Auxílio-acidente devido a partir do dia seguinte ao da cessação do auxílio-doença, aplicando-se no cálculo o art. 26 da Emenda Constitucional nº 103/19 Caso em que, para fins de atualização monetária, de remuneração do capital e de compensação da mora, será observado o disposto no art. 3º da Emenda Constitucional nº 113/21 - Recurso da autora desprovido, parcialmente provido o recurso oficial.
+Aponta a recorrente, nas razões do apelo especial, violação do art. 29, II, da Lei n. 8.213/91, afirmando, em síntese, que "o cálculo de salário-de-benefício disposto no artigo 26 da Emenda Constitucional n. 103/2019 não se aplica ao auxílio-doença, por ausência de expressa previsão constitucional"(fl.192).
+Defende que " o método de cálculo do salário-de-benefício do auxílio por incapacidade temporária deve seguir a regra correspondente à média aritmética simples dos 80% dos maiores salários-de-contribuição, conforme estabelece o art. 29, II, da Lei n. 8.213/91, em plena vigência" (fl.193).
+Sem Contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Verifica-se que o agravo impugnou satisfatoriamente os fundamentos da decisão de inadmissibilidade. Passa-se, assim, ao exame do recurso especial.
+De início, evidencia-se que os artigos 29, II, da Lei n. 8.213/1991 não foi apreciado pela Corte de origem e sequer foram opostos embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 282/STF.
+Ademais, o que se verifica é que a violação deduzida não é contra o texto do art. 29, II, da Lei 8.213/91, mas, sim, contra o texto do art. 26 da EC n. 103/19, que trata do mesmo tema do art. 29, II, da Lei n.8.213/91, mas dispôs de forma diversa, lhe superando o conteúdo.
+Assim, sendo a controvérsia de cunho eminentemente constitucional, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido quanto ao ponto, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+A propósito, precedente desta Corte:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DIREITO CONSTITUCIONAL E FINANCEIRO. ROYALTIES. COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS MINERAIS. REPASSE AOS MUNICÍPIOS NÃO PRODUTORES. MATÉRIA DE CUNHO CONSTITUCIONAL. COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Cuida-se, na origem, de Ação Ordinária ajuizada pelo Município de Cachoeira em desfavor do Estado da Bahia com vistas à condenação do réu a realizar os repasses referentes à compensação financeira de royalties da exploração de óleo bruto, xisto betuminoso e gás natural, bem como ao pagamento das parcelas devidas nos últimos cinco anos.
+2. Verifica-se que o ponto central da controvérsia é de cunho eminentemente constitucional, porquanto o seu deslinde se deu à luz dos arts. 20, § 1º e 155, § 2º, X, "b", da Constituição da República. Por esse motivo, não cabe ao STJ examinar a questão, sob pena de usurpar da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+3. Ainda que se entenda que a demanda foi dirimida com fundamentos de índole constitucional e infraconstitucional, ambos suficientes para manter o acórdão recorrido, contra ele não foi interposto Recurso Extraordinário. Desse modo, ocorreu o trânsito em julgado da matéria constitucional, o que inviabiliza a apreciação do Recurso Especial ante a incidência da Súmula 126 do STJ.
+4. Fica prejudicada a verificação da divergência jurisprudencial quando a tese sustentada já foi afastada na análise do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido (AgInt no REsp n. 2.094.717/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/6/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. SALÁRIO-DE-BENEFÍCIO. CÁLCULO. FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
