@@ -1,0 +1,10 @@
+DECISÃO
+JHONATAN PINHEIRO SANTOS, apenado do regime fechado, alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que manteve o indeferimento da progressão ao regime semiaberto, benefício que requer a esta Corte, por considerar que a falta grave praticada durante a execução é muito antiga e preenche os requisitos legais necessários ao deferimento do pedido.
+Decido.
+Segundo o Juiz da VEC, "pelas avaliações técnicas" (fl. 12) do exame criminológico, o apenado não ostenta "requisito subjetivo necessário à progressão. Com efeito, a avaliação técnica realizada, nos termos da resolução SAP n. 88/2010 concluiu que o sentenciado NÃO REÚNE condições subjetivas" (fl. 12) para o deferimento do benefício.
+A defesa afirma que os relatórios da avaliação foram favoráveis ao apenado e que a última falta disciplinar é muito antiga, ocorreu em 2013. Todavia, no acórdão recorrido, o Tribunal de Justiça não examinou as alegações, sob o fundamento de que, "em sede de habeas corpus é inviável reexaminar decisão que indeferiu o pedido de progressão de regime prisional. A matéria pode ser apreciada em grau de recurso pelo próprio Tribunal de Justiça, mas em sede de Agravo em Execução" (fl. 10).
+Não está inaugurada a competência desta Corte para a análise da progressão de regime, pois "a tese suscitada neste habeas corpus  ..  não foi examinada no acórdão impugnado  .. . Desse modo, sob pena de indevida supressão de instância, não pode esta Corte se manifestar originariamente sobre a alegação" (AgRg no HC n. 777.406/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/2/2023, DJe de 17/2/2023).
+A defesa não comprovou que não interpôs agravo em execução, tampouco alegou, no habeas corpus, a negativa de prestação jurisdicional. Sem essa especificação, é incabível conceder a ordem, de ofício, para que o Tribunal de Justiça se manifeste sobre o mérito do HC n. 2380327-82.2024.8.26.0000.
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
