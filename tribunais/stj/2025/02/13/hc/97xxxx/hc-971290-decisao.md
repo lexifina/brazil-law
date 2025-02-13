@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de GILSON LIMA DE ABREU, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o paciente está preso preventivamente pela suposta prática do crime descrito no art. 121, § 2º, I, III e IV, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 5-15, assim ementado:
+ ..  HABEAS CORPUS - - ART. 121, §2º,HOMICÍDIO QUALIFICADO INCISOS I, III E IV, DO CÓDIGO PENAL - PRISÃO PREVENTIVA - PRESENÇA DOSDECISÃO DEVIDAMENTE FUNDAMENTADA - REQUISITOS AUTORIZADORES PREVISTOS NOS ARTIGOS 312 E 313, INCISO I, DO CÓDIGO DE PROCESSO PENAL - FUMUS COMISSI CUSTÓDIA E DEMONSTRADOS -DELICTI PERICULUM LIBERTATIS NECESSÁRIA PARA GARANTIA DA ORDEM PÚBLICA - GRAVIDADE CONCRETA DO CRIME E PERICULOSIDADE DO PACIENTE, REVELADA PELO MODUS OPERANDI EMPREGADO - VÍTIMA COM GOLPES DE FACA E FACÃOATACADA, DE INOPINO, , ALÉM DEDO POLEGAR DA MÃO ESQUERDA AMPUTADO -DE TER O RISCO DE REITERAÇÃO DELITIVA - PACIENTE OSTENTA REGISTROS CRIMINAIS ANTERIORES - NTECIPAÇÃO DE PENA A - PRINCÍPIOS CONSTITUCIONAIS PRESERVADOS AFASTADA - - CONTEMPORANEIDADE DO DECRETO PRISIONAL - RECONHECIDA - ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO NO QUE DECRETOU A SEGREGAÇÃO DO PACIENTE - NÃODECISUM VERIFICADA - OBSERVÂNCIA AO DISPOSTO NO ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL - DECISÃO APRESENTA A DEVIDA INDICAÇÃO DOS FATOS CONCRETOS ENSEJADORES DA - SUSCITADO EXCESSODECRETAÇÃO DA CUSTÓDIA CAUTELAR DE LINGUAGEM - INOCORRÊNCIA - CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO OBSTAM A PRISÃO PREVENTIVA - INVIABILIDADE DE APLICAÇÃO DAS MEDIDAS PREVISTAS NO ART. 319 DO CPP - CONSTRANGIMENTO ILEGAL - NÃO EVIDENCIADO - ORDEM DENEGADA.  ..  (fl. 5)
+Neste mandamus, o impetrante alega a extemporaneidade da prisão, uma vez que já se passaram mais de 3 anos entre a data do fato e a data da prisão.
+Aduz também que "os supostos delitos de perturbação do sossego e desobediência, apontados na decisão como fundamentos adicionais para a decretação da prisão, ocorreram mais de oito meses antes da decisão e não possuem gravidade suficiente para justificar a custódia preventiva" (fl. 3).
+Destaca as condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a liberação do paciente, ainda que com a imposição das medidas cautelares não prisionais.
+Liminar indeferida, às fls. 28-29. Informações prestadas, às fls. 35-39 e 40-44.
+O Ministério Público Federal, em parecer, às fls. 46-48, manifestou-se pela denegação da ordem, assim fundamentado:
+ ..  Processo penal. Habeas corpus. Homicídio qualificado. Pleito de concessão de liberdade provisória. 1. O julgador que decretou a prisão preventiva indicou fundamentos idôneos à justificação da medida, demonstrada sua necessidade com base em elementos concretos da prática delitiva e na real possibilidade de reiteração. 2. Decretada a preventiva no fato de o paciente ser contumaz na prática de delitos não há falar em falta de contemporaneidade da medida. 3. Pela denegação da ordem.  ..  (fl. 46)
+É o relatório. DECIDO.
+Pretende o paciente o reconhecimento de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a sua prisão cautelar.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta perpetrada.
+No ponto, consta no acórdão hostilizado:
+ ..  GRAVIDADE CONCRETA DO CRIME E PERICULOSIDADE DO PACIENTE, REVELADA PELO MODUS OPERANDI EMPREGADO - VÍTIMA COM GOLPES DE FACA E FACÃOATACADA, DE INOPINO, , ALÉM DEDO POLEGAR DA MÃO ESQUERDA AMPUTADO -DE TER O RISCO DE REITERAÇÃO DELITIVA - PACIENTE OSTENTA REGISTROS CRIMINAIS ANTERIORES  ..  (fl. 5)
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+ ..  A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo  ..  (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022).
+ ..  Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)  ..  (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023)
+Presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP, não há que se falar em violação ao princípio de presunção de inocência.
+A propósito:
+ ..  A imposição da constrição processual em nada fere o princípio da presunção de inocência quando lastreada em elementos concretos dos autos que demonstram o perigo que a liberdade do agravante pode representar para a ordem pública. Precedentes  ..  (AgRg no HC 618.887/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/04/2021, DJe 14/04/2021).
+Como registro, a manifestação do Ministério Público Federal:
+ ..  1. O julgador que decretou a prisão preventiva indicou fundamentos idôneos à justificação da medida, demonstrada sua necessidade com base em elementos concretos da prática delitiva e na real possibilidade de reiteração. 2. Decretada a preventiva no fato de o paciente ser contumaz na prática de delitos não há falar em falta de contemporaneidade da medida.  ..  (fl. 46)
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ -SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 24/09/2019, T6 -SEXTA TURMA, Data de Publicação: DJe 03/10/ 2019).
+No mais, quanto à aventada ausência de contemporaneidade da medida constritiva de liberdade, tenho que a prisão foi determinada, considerando a necessidade de sua imposição no momento da decretação; não havendo que se falar em extemporaneidade da medida.
+No mais:
+ ..  A contemporaneidade do decreto de custódia preventiva se verifica "da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado.  ..  (AgRg no HC 716.043/PE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 4/4/2022).
+Ademais, cumpre consignar que a inversão do que restou decidido pelas instâncias ordinárias, demandaria, impreterivelmente, revolvimento de matéria fático-probatória, procedimento vedado na estreita via do habeas corpus, ainda mais quando não se demonstrou de plano a existência das alegações do paciente, e não há manifesta ilegalidade ou teratologia identificadas.
+Nessa toada:
+ ..  O paciente não demonstrou a sua imprescindibilidade aos cuidados das menores. Rever tal posicionamento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via mandamental  ..  (AgRg no HC n. 754.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Nesse sentido:
+ ..  É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu  ..  (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/04/2021, DJe 30/04/2021).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+ ..  o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o ex posto, denego a ordem em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
