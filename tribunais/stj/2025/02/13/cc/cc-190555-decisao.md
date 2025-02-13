@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, sem pedido liminar, suscitado pelo d. Juízo Federal da 8ª Vara Federal da Petrolina - SJ/BA em face do d. Juízo da 1ª Vara Cível de Petrolina/BA.
+O conflito foi estabelecido em Ação de obrigação de fazer e indenização por danos construtivos a imóvel financiado pela Caixa Econômica Federal - CEF.
+A ação foi manejada inicialmente perante o d. Juízo estadual que declarou sua incompetência, determinando a remessa dos autos ao d. Juízo Federal, porquanto, "no caso dos presentes autos, o imóvel foi adquirido no âmbito do Programa Minha Casa Minha Vida. Como se sabe, o programa em questão é reconhecidamente destinado à aquisição de moradia por consumidores de baixa renda E em casos tais, o Superior Tribunal de Justiça possui precedentes no sentido de que há legitimidade passiva ad causam da Caixa Econômica Federal" (na fl. 74).
+De sua vez, o d. Juízo Federal também declinou de sua competência, suscitando o presente conflito de competência, porquanto, segundo destaca, "a CAIXA é, portanto, meie agente financeira, não tendo assumi  i qualquer ónus sobre a editicaçãe do imóvel sobre ., qual paira a controvérsia"" (na fl. 70).
+É o relatório.
+Passo a decidir.
+O conflito de competência não merece ser conhecido.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC). de qualquer modo, o Ministério Público Federal será ouvido posteriormente, se necessário.
+Ademais, o conflito de competência, patente e corriqueiro nesta Corte, deve ter seu conhecimento negado de pronto.
+Com efeito, o entendimento consolidado desta Corte preconiza que (a) "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresa pública" (Súmula 150/STJ), (b) que "a decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual" (Súmula 254/STJ) e (c) que "excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito" (Súmula 224/STJ).
+Logo, a decisão do Juízo Federal que declara a inexistência de interesse jurídico do ente estatal na lide deve ser desafiada pelos recursos postos à disposição do interessado na Justiça Federal, sem o quê, os autos devem ser devolvidos à Justiça estadual que reassume a plena competência do feito, inclusive para fiscalizar o atendimento das condições de exame do mérito, determinando, se for o caso, a emenda da inicial.
+Ante o exposto, não conheço do conflito de competência, determinando a remessa dos autos ao Juízo da 1ª Vara Cível de Petrolina/BA.
+Publique-se.
+EMENTA
