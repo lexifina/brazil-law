@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de Reclamação Repetitivo, com pedido de liminar, ajuizada por RAFAEL MELQUIEDES BORGES DA SILVA, contra decisão monocrática do Desembargador Presidente da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo não conhecendo de agravo de agravo em recurso especial interposto contra decisão denegatória de recurso especial conforme o rito dos recursos repetitivos, ao invés do, cabível, agravo interno (nas fls. 45/47).
+É o relatório.
+Passo a decidir.
+A reclamação deve ser indeferida liminarmente.
+Deveras, na origem, contra a decisão denegatória de recurso especial fundada na incidência de tema verticalmente vinculante definido por esta Corte conforme o rito dos recursos repetitivos, a parte reclamante manejou agravo em recurso especial ao invés de agravo interno, em evidente erro grosseiro, o que, inclusive, afasta a aplicação do princípio da fungibilidade recursal.
+Nesse passo, destaque-se que o Código de Processo Civil dispõe no art. art. 1.030 que cabe o Agravo em Recurso Especial (AREsp), estatuído no art. 1.042, contra decisão do presidente ou do vice- presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos, quando o recurso cabível será o de Agravo Interno (AgInt) prescrito no art. 1.021, de modo a esgotar a instância e permitir o manejo da reclamação prevista no art. 988, § 5º, II, do mesmo Diploma Legal.
+Ou seja, a nova sistemática prevista no atual Código de Processo Civil prevê que, contra a decisão da Presidência do Tribunal a quo que inadmite recurso especial, cabe, alternativamente dois diferentes recursos:
+a) Agravo em Recurso Especial (AREsp), quando a decisão não for fundada na aplicação de entendimento firmado em julgamento de recursos repetitivos (art. 1.042, primeira parte).
+b) Agravo Interno (AgInt) quando a decisão for fundada na aplicação de entendimento firmado em julgamento de recursos repetitivos, dirigido ao próprio Tribunal a quo (art. 1.021, do CPC, cc o art. ), visando esgotar a instância ordinária e permitir o manejo da reclamação prevista no art. 988, § 5º, II, do CPC.
+Todavia, no caso em comento, a decisão do Tribunal a quo, inadmitindo o recurso especial, teve por fundamento a incidência de tese firmada em julgamento de recurso repetitivos, caso em que a parte ora reclamante deveria manejar agravo interno, de modo a esgotar a instância, pressuposto para o ajuizamento da reclamação (art. 988, 5º, II, do CPC) e não o Agravo em Recurso Especial, como feito, em evidente erro grosseiro.
+Ante o exposto, com fundamento no art. 932, VIII, do Código de Processo Civil e no art. 34, XVIII, "a", do RISTJ, indefiro liminarmente a Reclamação.
+Publique-se.
+EMENTA
