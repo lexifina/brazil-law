@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CELSO SERGIO DO NASCIMENTO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/07/2024.
+Concluso ao gabinete em: 07/01/2025.
+Ação: de revisão de contrato cumulada com repetição de indébito, ajuizada pelo agravante, em face de GEAP AUTOGESTAO EM SAUDE, na qual alega abusividade nos reajustes aplicados ao contrato de plano de saúde.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. AUTOGESTÃO. GEAP. NÃO APLICAÇÃO DO CDC. REAJUSTE DO VALOR DAS MENSALIDADES. RESOLUÇÃO Nº 483/2020. ABUSIVIDADE. INEXISTÊNCIA. LAUDO PERICIAL. MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO. RECURSO DESPROVIDO. 1. A presente hipótese consiste em avaliar o alegado caráter abusivo da majoração do valor concernente à mensalidade a ser paga pelos participantes do plano de saúde administrado pela ré. 2. No caso em exame não é aplicável CDC. 2.1. O Colendo Superior Tribunal de Justiça consolidou o referido precedente por meio do enunciado nº 608 da sua Súmula, segundo o qual "aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão". 3. A regra prevista no art. 11 da Resolução Normativa nº 137/2006 da ANS estabelece que no caso de desequilíbrio econômico-financeiro ou de anormalidades administrativas serão aplicadas as normas previstas na RN nº 307/2012 da ANS, que dispõe a respeito dos procedimentos de ajuste econômico-financeiro das operadoras de planos privados de assistência à saúde. 4. É possível haver a majoração do percentual de contribuição dos participantes para garantir a manutenção do equilíbrio econômico-financeiro da entidade que opera o respectivo plano de saúde. 5. O laudo pericial trazido a exame concluiu que os cálculos efetuados pelo Conselho Administrativo da ré foram elaborados de acordo com os termos estabelecidos no respectivo estatuto. 6. Diante do cenário de desequilíbrio econômico-financeiro observado e, uma vez apresentados os cálculos suficientes para a demonstração da situação financeira da entidade, não pode ser reconhecida a alegada abusividade em relação ao percentual de reajuste do valor da mensalidade do plano de saúde administrado pela ré. 7. Recurso conhecido e desprovido. (e-STJ, fls. 928)
+Recurso especial: alega violação do art. 422 do CC. Sustenta que o aumento de 262,5%, ocorrido no período de 5 anos é abusivo e que não houve comprovação da justificativa dos reajustes.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou o art. 422 do CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Ainda que assim não fosse, alterar o decidido no acórdão impugnado, no que se refere a ausência de abusividade ou ilegalidade dos reajustes aplicados no contrato (e-STJ, fls. 924/926), exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 926) para 14% (quatorze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO CUMULADA COM REPETIÇÃO DE INDÉBITO. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE
+1. Ação de revisão de contrato cumulada com repetição de indébito.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3 . O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial não conhecido.
