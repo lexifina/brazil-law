@@ -1,0 +1,13 @@
+DECISÃO
+WILTON SILVA SANTIAGO alega sofrer coação ilegal em decorrência de decisão do Tribunal de Justiça do Estado de São Paulo que não conheceu do Habeas Corpus n. 0001272-93.2024.8.25.0041.
+Requer a defesa, em síntese, a revogação da medida cautelar de monitoração eletrônica fixada em desfavor do acusado.
+Decido.
+Depreende-se dos autos que o Tribunal a quo não conheceu do writ com base nos seguintes fundamentos:
+Analisando as teses declinadas no presente ,mandamus constato, de logo, óbice legal à apreciação por este Tribunal de Justiça. É que, em consulta ao processo origem, constato que idêntico pleito fora formulado ao magistrado de primeiro grau, em 06 de dezembro de 2024, o qual ainda está pendente de análise em primeira instância, o que inviabiliza o exame da matéria por esta instância sob pena de intolerável supressão de"ad quem", instância. Destarte, por óbvio, a matéria posta em análise no deve antes passar pelo crivo do juízohabeas corpus primevo, sob pena de supressão de instância. Sendo assim, somente após eventual indeferimento por aquele juízo é que se tornaria viável a manifestação desta Relatoria acerca da matéria, pois, apenas aí, estar-se-ia diante de possível ato praticado pelo juiz de primeiro grau a caracterizar, em tese, constrangimento ilegal consubstanciado no indeferimento do pedido de revogação da medida cautelar de monitoramento eletrônico. Assim, havendo comprovação de que o pedido foi formulado no juízo , sua apreciação por estea quo Tribunal torna-se temerária, pois há risco de supressão de instância, razão pela qual a denegação da ordem é medida que se impõe.
+Diante disso, é defeso a este grau de jurisdição conhecer das alegações desenvolvidas por meio da presente ordem de , de modo a afastarHabeas Corpus a supressão de instância, uma vez que não pode ser olvidada a competência originária do Juízo de 1.º Grau para analisar o caso, razão pela qual, neste particular, do NÃO CONHEÇO Writ.
+No caso em julgamento, todavia, nota-se que a autoridade apontada como coatora é justamente o juízo de primeiro grau, que fixou a medida cautelar de monitoração eletrônica em desfavor do paciente.
+Com efeito, é despicienda a prévia formulação de pedido de reconsideração, sendo perfeitamente possível que o Tribunal estadual analise de plano o constrangimento ilegal imputado ao juízo de primeiro grau.
+Dessa forma, não há supressão de instância a obstar a análise do writ impetrado na origem.
+À vista do exposto, concedo a ordem em menor extensão, in limine, para determinar ao Tribunal estadual que analise o mérito do habeas corpus originário.
+Publique-se e intimem-se.
+EMENTA
