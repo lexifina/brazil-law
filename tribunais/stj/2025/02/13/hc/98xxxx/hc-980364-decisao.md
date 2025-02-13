@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Wellington Ferreira Borghi, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Espírito Santo (fls. 14/23), que denegou a ordem no Habeas Corpus criminal n. 5018482-72.2024.8.08.0000, mantendo a prisão preventiva imposta ao paciente pelo Juízo de Direito da 1ª Vara Criminal da comarca de Colatina/ES, pela suposta prática do crime de tráfico de drogas.
+Neste writ, sustenta a defesa constrangimento ilegal na manutenção da constrição cautelar, visto que carente de fundamentação concreta a justificar a medida.
+Discorre sobre as condições pessoais do paciente e a desproporcionalidade da imposição da medida mais severa.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva do paciente.
+É o relatório.
+Busca a impetrante a revogação da prisão preventiva imposta ao paciente pela suposta prática do crime de tráfico de drogas.
+Infere-se do decreto prisional (fl. 94):
+ ..  Presentes os pressupostos para a decretação da medida extrema, considerando o atendimento aos inciso I e II do art. 313 do CPP, uma vez que o crime possui pena máxima superior a quatro anos. Para além disso, encontra-se presente os pressuposto do art. 312 do CPP, principalmente para a garantia da ordem pública, visto que o auto de prisão em flagrante delito indica a periculosidade concreta de sua conduta considerando a quantidade de entorpecentes encontrados em sua residência.
+ ..
+Mantida a constrição cautelar do paciente, destacou a Corte estadual (fls. 18/21):
+ ..
+Inicialmente, considerando a natureza do pleito e os argumentos lançados pelo impetrante em sua petição, tomo como razões de decidir a decisão liminar por mim proferida no id. 11153261, eis que pude constatar que até a presente data não houve nenhuma alteração significativa no contexto fático do caso em análise.
+Dessa forma, transcrevo, no que importa, excertos da referida decisão:
+"  No caso, em que pese a manifestação inicial do impetrante, analisando o caso concreto, verifica-se, a priori, que não é possível o deferimento do pleito liminar, pelos fundamentos a seguir explicados.
+A defesa sustenta a ocorrência de nulidade na prisão em flagrante decorrente da ilegalidade da busca pessoal e da violação de domicílio, alegando, para tanto, que os policiais adentraram na residência do réu sem mandado judicial e autorização válida dos moradores, o que configuraria violação de domicílio.
+ ..
+Diante desse contexto, revela-se inviável o reconhecimento da nulidade em questão na via estreita do habeas corpus.
+Prosseguindo, no que diz respeito à alegação de ausência de preenchimento dos requisitos dos artigos 312 e 313, do CPP, para a decretação e manutenção da prisão preventiva do paciente, apesar da zelosa manifestação inicial da impetrante, verifico que não lhe assiste razão, pelos fatos e fundamentos a seguir expostos.
+De início, verifico que foi atendido o requisito de admissibilidade (cabimento) para a decretação da prisão cautelar prevista no inciso I, do artigo 313, do Código de Processo Penal, tendo em vista que se imputou ao paciente a suposta prática do crime previsto no art. 33, da Lei de Drogas.
+Além disso, cabe consignar que, no decisum apontado como coator, a prisão preventiva foi devidamente fundamentada na existência de prova da ocorrência do crime, de indícios suficientes de autoria e, ainda, de perigo gerado pelo estado de liberdade da paciente, tendo sido registrado, ademais, a necessidade de se resguardar a ordem pública, especialmente em razão da gravidade concreta do delito praticado, evidenciada pela quantidade e natureza do entorpecente apreendido.
+Nesse particular, destaca-se que foram apreendidas drogas de elevado valor comercial (haxixe e haxixe rosé, no valor estimado de R$ 10.000,00), além de o tráfico ser praticado por meio de aplicativos de conversa e redes sociais, com delivery de drogas pela cidade.
+Dessa forma, ao contrário do alegado pelo impetrante, a constrição cautelar foi devidamente fundamentada nos moldes do art. 312, do Código de Processo Penal. Confira-se:
+ ..
+Portanto, o decreto da custódia preventiva do paciente encontra-se devidamente fundamentado, tal qual exige a legislação vigente, estando em consonância com o disposto no artigo 93, inciso IX, da CF/88, e nos artigos 312, 313, inciso I, c/c 315, todos do Código de Processo Penal, já que presentes os requisitos legais para tanto, haja vista a presença dos indícios suficientes de autoria e materialidade delitivas, a comprovação do perigo gerado pelo estado de liberdade do imputado e a necessidade de resguardar-se a ordem pública.
+ ..
+Nos termos da jurisprudência do Superior Tribunal de Justiça, a quantidade, a variedade e a natureza da droga apreendida, bem como o risco de reiteração delitiva, podem servir para o Magistrado reconhecer a gravidade concreta da ação e a dedicação do agente a atividades criminosas, elementos capazes de justificar a necessidade da custódia preventiva para a garantia da ordem pública (HC n. 466.654/PR, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018).
+Contudo, in casu, verifico ser desproporcional a imposição de prisão preventiva, considerando a primariedade do paciente, o crime foi cometido sem violência, e a quantidade de droga apreendida não se mostra expressiva a justificar a medida mais gravosa - 1 (um) pedaço de haxixe pesando aproximadamente 40 g (quarenta gramas), 1 (um) pedaço de haxixe pesando aproximadamente 50 g (cinquenta gramas), 4 (quatro) pedaços de haxixe pesando aproximadamente 5 g (cinco gramas) cada, 1 (um) pedaço de haxixe "Rosé" pesando aproximadamente 20 g (vinte gramas) e 1 (uma) porção de skank pesando aproximadamente 5 g (cinco gramas) - fls. 25/26 . Portanto, a gravidade da infração deve ser avaliada com base na quantidade e no contexto das drogas apreendidas.
+A prisão preventiva deve ser a ultima ratio, ou seja, aplicada somente quando outras medidas cautelares não forem adequadas para garantir a ordem pública, a aplicação da lei penal ou a conveniência da instrução criminal. A decisão de manter a prisão preventiva deve ser fundamentada na necessidade, adequação e proporcionalidade da medida em relação aos fatos e circunstâncias do caso. A imposição direta da medida mais gravosa, sem a devida análise dos fatores mencionados, pode ser considerada desproporcional e, portanto, contrária aos princípios constitucionais.
+Necessário haver uma gradação proporcional ao fato em questão, não apenas a imposição direta da cautelar mais grave.
+A corroborar: AgRg no HC n. 903.908/SC, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 6/8/2024; e AgRg no HC n. 910.521/MG, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe de 3/7/2024.
+Ante o exposto, concedo liminarmente a ordem para cassar o acórdão impugnado e substituir a prisão preventiva imposta ao ora paciente por medidas cautelares, a serem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto, nos termos desta decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE APROXIMADAMENTE 130 G DE HAXIXE E DE 5 G DE SKUNK. PRISÃO PREVENTIVA. PRIMARIEDADE. QUANTIDADE DE DROGA NÃO EXPRESSIVA. SUBSTITUIÇÃO POR CAUTELARES. PROPORCIONALIDADE E ADEQUAÇÃO.
+Ordem concedida liminarmente nos termos do dispositivo.
