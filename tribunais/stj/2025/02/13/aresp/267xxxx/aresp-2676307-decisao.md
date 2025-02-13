@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por FAZENDA NACIONAL, nos seguintes termos:
+Em que pese a alegação de afronta ao art. 1.022 do Novo CPC, tendo em conta a ausência de suprimento da omissão indicada nos embargos declaratórios - ainda que opostos para efeito de prequestionamento - cumpre observar, quanto à questão de fundo, que o presente recurso não reúne as necessárias condições de admissibilidade, tornando despiciendo o exame da violação, em tese, ao apontado dispositivo infraconstitucional.
+Relativamente à insurgência, a pretensão não merece trânsito, pois o acórdão impugnado harmoniza-se com a jurisprudência consolidada no Superior Tribunal de Justiça, incidindo, na espécie, o óbice da Súmula 83 (não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida), que se aplica também ao permissivo do artigo 105, inciso III, alínea a, da Constituição Federal.
+Nesse sentido:
+ .. .
+III - "Em se tratando de empresa submetida à tributação pelo lucro presumido, não se aplica a referida inovação introduzida no art. 30 da Lei 12.973/2014 pela LC 160/2017, visto referir-se especificamente ao lucro real. Dessa forma, em relação ao lucro presumido, mantido o entendimento adotado pela Primeira Seção do STJ nos autos dos EREsp 1.517.492/PR, de relatoria para acórdão da Ministra Regina Helena Costa, no sentido da exclusão dos créditos presumidos de ICMS da base de cálculo do IRPJ e da CSLL". (EDcl no AgInt no AREsp n. 1.898.563/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022.).
+Em suas razões recursais, a parte agravante sustenta, além de negativa de prestação jurisdicional, a inaplicabilidade da Súmula 83 do STJ, pois os precedentes sobre a "exclusão dos créditos presumidos de ICMS da base de cálculo do IRPJ e CSLL com apuração pelo Lucro Presumido" não configuram jurisprudência mansa e pacífica.
+Contraminuta apresentada às fls. 434-449.
+É o relatório.
+Passo a decidir.
+As alegações deduzidas pela agravante são insuficientes para ser consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência da Súmula 83 do STJ.
+Nesses casos, esta Corte entende que "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO ATACOU, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM. APLICABILIDADE DA SÚMULA N. 182/STJ. PEDIDO DE SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. Para impugnar a Súmula n. 83 do STJ, a parte deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida (AgRg nos Edcl no Aresp n. 1.096.124/SP) demonstrando-se que outro é o entendimento jurisprudencial desta Corte (ut, AgInt no AREsp n. 1.566.560/RJ, Relator Ministro Marco Aurelio Bellizze, DJe 19/2/2020).
+3. Não basta para impugnar a Súmula n. 7 do STJ a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de orig em sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa.
+4. Não há previsão legal para realização de sustentação oral em sede de julgamento de agravo em recurso especial. Como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial (ut, AgRg no AREsp n. 2.170.433/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/10/2022).
+5. Agravo regimental improvido (AgRg no AREsp n. 2.650.642/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024).
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
