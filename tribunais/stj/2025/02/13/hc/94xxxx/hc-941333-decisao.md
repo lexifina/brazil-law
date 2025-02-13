@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de NATHAN HENRIQUE FERREIRA DE LIMA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Revisão Criminal n. 5296763-65).
+Consta dos autos que o paciente foi condenado à pena de 14 anos de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 121, § 2º, inciso IV, do Código Penal (homicídio qualificado).
+A condenação transitou em julgado em 14/6/2022 (e-STJ fl. 986).
+A defesa apresentou pedido de revisão criminal que foi julgado improcedente pelo Tribunal de origem, nos termos de acórdão assim ementado (e-STJ fls. 27/28):
+Homicídio qualificado. Condenação com trânsito em julgado. Revisão criminal sustentando nulidade do reconhecimento por fotografia no inquérito policial e consequente absolvição. (1) Reunidos nos autos elementos de convicção que amparam a decisão dos jurados, impede a procedência da ação revisional, porquanto a pretensão do revisionando não se amolda a nenhuma das hipóteses previstas no art.621 do CPP. (2) A jurisprudência Superior orienta que o julgamento de corréus pelo Tribunal do Júri em sessões distintas não permite a extensão do resultado do veredicto ao corréu, sob pena de haver usurpação da competência constitucional. (3) A ação revisional constitui procedimento penal sem a imposição de recolhimento de custas processuais. Assim, a concessão do benefício da assistência judiciária não se justifica. (4) Pedido revisional improcedente.
+No presente writ, a defesa alega que "o paciente sofre evidente constrangimento ilegal, pois condenado por sentença, confirmada em grau recursal, que acolheu como único elemento a respaldar a condenação, a palavra da vítima, que se funda em reconhecimento feito co mpletamente ao arrepio das normas legais de garantia enunciadas no art. 226 do CPP, as quais estabelecem os requisitos de validade do reconhecimento de pessoas" (e-STJ fl. 12).
+Sustenta que, em juízo, "somente houve a ratificação do depoimento prestado em delegacia onde fora feito o reconhecimento por foto", e, "ainda que produzido sob o crivo do contraditório, não é possível emprestar força probatória ao reconhecimento, uma vez que repleto de irregularidades" (e-STJ fl. 19).
+Acrescenta que "o que se fez em sede policial foi um auto de reconhecimento de objeto, vale dizer, o reconhecimento por uma foto que foi exibida à vítima, sem qualquer observância do que determina o art. 226 do CPP, sendo certo que o paciente  ..  achava-se detido e nada impedia que a autoridade policial, procedesse ao reconhecimento pessoal" (e-STJ fl. 21).
+Ao final, requer "que seja reconhecida liminarmente a nulidade absoluta nos termos do art. 564, IV, por notória infringência ao disposto no art. 226 do CPP, determinando a revogação da prisão c/c expedição de Alvará de Soltura, e que, após prestada as informações, seja definitivamente concedida a ordem" (e-STJ fl. 25).
+Indef a liminar (e-STJ fls. 990/992).
+O Ministério Público Federal manifestou-se pelo não conhecimento (e-STJ fls. 1010/1012).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
