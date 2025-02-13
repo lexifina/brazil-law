@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu recurso especial interposto por MUNICÍPIO DE BOA VISTA, sob o fundamento de incidência  da Súmula  7 deste STJ.
+Argumenta  a  parte agravante,  em  síntese,  que "no caso vertente, o Sodalício a quo não reconheceu a nulidade da decisão que julgou o pedido pela liberação do montante constrito, pois ateve-se a apenas afirmar, de modo genérico, que a quantia deveria ser liberada por força do art. 833 do CPC, sem se ocupar, à luz do art. 489, §1º, incisos II, III e IV, do CPC, em tecer linha argumentativa substancial capaz de fornecer ao decisum adequada fundamentação" (fl. 975).
+Defende que "deveria o Sodalício a quo ter observado o entendimento consolidado deste Superior Tribunal de Justiça acerca da regra de impenhorabilidade contida no art. 833, IV e § 2º, do CPC, que atribui a ela natureza relativa e, portanto, não absoluta".
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o recurso em epígrafe, foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, no Tema 1285/STJ, cuja questão submetida a julgamento é: "Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos".
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+ EMENTA
