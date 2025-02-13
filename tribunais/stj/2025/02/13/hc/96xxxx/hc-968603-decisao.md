@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANTONIO MARCOS SENA DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+"RECURSO EM SENTIDO ESTRITO - HOMICÍDIO SIMPLES - Pedido de despronúncia - Impossibilidade - Prova da materialidade e indícios suficientes de autoria do crime doloso contra a vida - Matéria que deve ser analisada pelo Juiz natural da causa - Princípio do "in dubio pro societate" - Recurso não provido."
+A defesa requer a concessão da ordem "para despronunciar o acusado, haja vista a inexistência de indícios probatórios suficientes de autoria ou participação do acusado, nos termos do art. 414 CPP" (e-STJ fls. 3-11).
+A liminar foi indeferida (e-STJ fls. 48-49).
+As informações foram dispensadas (e-STJ fl. 49).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 56-64).
+É o relatório.
+Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus.
+Estabelece o artigo 413 do Código de Processo Penal que a decisão de pronúncia exige tão somente o convencimento do juiz acerca da materialidade do fato e da existência de indícios suficientes de autoria ou de participação. Por se tratar de mero juízo de admissibilidade, eventual dúvida não favorece o acusado, prevalecendo o princípio in dubio pro societate, remetendo-se a julgamento perante o tribunal do júri.
+As instâncias ordinárias, analisando os elementos fáticos probatórios colacionados aos autos, entenderam, de forma motivada, que existem provas mínimas, colhidas na fase inquisitorial e em juízo, da participação do réu no crime em questão.
+Para infirmar o que restou decidido pelo Tribunal de origem, com o objetivo de absolver sumariamente o acusado ou de despronunciá-lo, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em sede de habeas corpus, remédio constitucional de rito célere e cognição sumária.
+O entendimento adotado pelo Tribunal de origem não destoa da jurisprudência firmada no âmbito deste Superior Tribunal de Justiça, que entende que "na decisão de pronúncia, a qual constitui mero juízo de admissibilidade da acusação, somente se admite a exclusão de qualificadoras quando manifestamente improcedentes ou descabidas, sob pena de afronta à soberania do Júri. Precedentes" (AgRg no HC n. 810.815/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/10/2023, DJe de 19/10/2023).
+Esta Corte também entende que "o juiz só desclassificará o delito diante da certeza da ausência de dolo na conduta imputada ao réu ou de provas inequívocas de que o recorrente desistiu voluntariamente de ceifar a vida da vítima. Em caso de dúvida, compete ao Tribunal do Júri decidir" (AgRg nos EDcl no AREsp n. 2.175.413/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/2/2023, DJe de 17/2/2023).
+Sendo assim, "uma vez que as instâncias ordinárias apontaram provas do processo a embasarem sua conclusão de que a ausência de ânimo de matar não ficou plenamente demonstrada, rever esse entendimento demandaria o reexame do acervo fático-probatório do feito, providência obstada pela Súmula n. 7 do STJ. Precedentes" (AgRg no AgRg no AREsp n. 2.299.858/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/9/2023, DJe de 2/10/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
