@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, agravo interposto por RENATO TRISTÃO MACHADO contra decisão que não admitiu o recurso especial com fundamento na ausência de violação ao art. 489 e 1.022 do CPC; na incidência da Súmula7/STJ e na ausência de demonstração da alegada divergência jurisprudencial.
+O acórdão recorrido foi assim ementado:
+APELAÇÃO CÍVEL. Embargos à execução. Multa. Poder do magistrado na redução ou majoração do valor da medida de apoio pecuniária, nas hipóteses de insuficiência ou excesso, em face do princípio da razoabilidade. Quantia excessiva capaz de acarretar enriquecimento sem causa em detrimento da municipalidade. Redução correta e impositiva, à luz daquele princípio. Indústria da multa. Prática indevida. Sua repressão. Prequestionamento. Cabimento dos embargos. Inocorrência das violações alegadas. Recurso desprovido.
+Os embargos de declaração foram rejeitados, tendo em vista a ausência de vícios a serem sanados (fls. 465-471).
+Opostos novos embargos de declaração, esses também foram rejeitados (fls. 493-495).
+Nas suas razões recursais, com fundamento no art. 105, III, a e c, da Constituição Federal, a parte recorrente alega violação aos arts. violação aos artigos 1º, 4º ao 8º, 11, 223, caput, 489, § 1º, IV, 492, caput, 497 a 500, 502, 503, caput, 505, caput, 507, 508, 509, §§ 2º e 4º, 513, 515, caput, I, 519, 525, § 1º e incisos, 535, caput e incisos, 536 a 538, 773, caput, 777, 783, 786, 917, caput, 918, 1000, 1008 e 1022 do CPC. Alega ainda ofensa ao art. 35, I, da Lei Complementar 35/1979.
+É o relatório.
+Decido.
+De início, não se reconhece a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem dirimiu as questões necessárias à solução da lide de forma suficientemente fundamentada. Destaque-se que "não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (STJ, AgInt no REsp 2.072.333/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2023).
+Além do mais, apesar do extenso teor do apelo especial, a parte recorrente não demonstrou de forma clara em que se consubstanciam as alegadas violações aos dispositivos de lei federal, o que atrai o óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Há que consignar também que, ao dirimir a controvérsia, o Tribunal de origem consignou o seguinte:
+Quanto à questão de fundo, cediço que a execução específica da obrigação de fazer determinada na sentença é regida pelos artigos 536, caput e §1º, e 537, §1º, inciso I, do Novo Código de Processo Civil.
+Nesse aspecto, aquelas disposições permitem ao magistrado reduzir ou majorar a medida de apoio pecuniária, nas hipóteses em que ela for insuficiente ou sobremaneira excessiva, em atenção ao princípio da razoabilidade.
+Assim, o juiz sequer está obrigado a fixar, desde logo, o valor da medida coercitiva, sendo-lhe possível avaliar posteriormente, diante da extensão do descumprimento, a quantia que julgar necessária à coercibilidade, quiçá está adstrito ao valor que tenha eventualmente sido arbitrado anteriormente.
+ ..
+No caso dos autos, verifica-se que a multa imposta se tornou excessiva, na medida em que já ultrapassava, em março de 2014, a importância de R$ 100.000,00 (pastas 928/930, do apenso), a revelar inescondível enriquecimento sem causa do apelante, em prejuízo da municipalidade, notadamente porque os autos em apenso não revelam qualquer má-fé ou recalcitrância por parte do embargante.
+Ao contrário, logo no início da demanda verifica-se o cumprimento da obrigação de fazer.
+Quanto ao processo administrativo nº 1486/2011, verifica-se que o apelante requereu "que a Prefeitura certificasse como VERÍDICAS ou FALSAS as afirmações que se seguem" (pasta 04, fls. 04, do apenso), o que foi atendido nas informações das pastas 37/39, fls. 33, do apenso.
+As certidões requeridas nos procedimentos nº 1230/2011 e nº 1232/2011 (pastas 04, fls. 04) estão nas pastas 41/48 (todas do apenso), a despeito da insatisfação do recorrente, que parece querer eternizar o conflito.
+Na verdade, o inconformismo do apelante é com o conteúdo das declarações obtidas (pastas 61/63, do apenso), o que não é objeto da impetração, conforme se constata da inicial da ação mandamental.
+ ..
+Note-se que no julgamento do agravo de instrumento nº 0018324- 48.2014.8.19.0000, interposto nos autos do mandado de segurança que originou a execução ora embargada, a questão do excesso de execução ficou relegada aos embargos à execução (fls. 362, pasta 362).
+Neste ponto cumpre repetir que, embora já tenha sido determinada a readequação do valor da multa, conforme ressaltado na petição da pasta 376, esta readequação pode ser determinada quantas vezes forem necessárias à sua adaptação aos princípios da razoabilidade e da vedação ao enriquecimento sem causa, diante da não submissão da questão à imutabilidade advinda da coisa julgada material (fls. 432-433).
+Todavia, é possível verificar que os fundamentos acima em destaque não foram impugnados, razão pela qual incide o óbice da Súmula 283/STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Quanto à alínea c, "resta prejudicado o exame do alegado dissídio jurisprudencial, por tratar da mesma matéria objeto da irresignação pela alínea a do art. 105, III da CF/1988 - a qual, como visto, não pode ser conhecida" (AgInt no REsp n. 1.664.206/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 30/11/2020, DJe de 3/12/2020).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
