@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUANDERSON REIS DE MACEDO, contra decisão proferida por juízo de primeiro grau (Autos n. 1500661-43.2024.8.26.0557).
+Consta dos autos que o paciente foi preso em flagrante no dia 04/12/2024 (prisão convertida em preventiva) e denunciado pela suposta prática do crime previsto nos art. 33, caput c/c 35, caput, ambos da Lei 11.343/2006, porque (e-STJ fl. 46):
+(..) no dia 04 de outubro de 2024, às 19h56min, na Rua Berlamino Ducati, nº 720, Centro, na cidade de Severínia, Comarca de Olímpia/SP, LUANDERSON REIS DE MACEDO, vulgo "Madruga", qualificado e indiciado a fls. 24, e ODENILSON MACHADO DOS SANTOS, vulgo "Neguinho", qualificado e indiciado a fls. 29, previamente ajustados e agindo com unidade de desígnios, traziam consigo e guardavam, 345 (trezentos e quarenta e cinco) pedras de crack, pesando cerca de 101,08 gramas, substância entorpecente que causa dependência física e psíquica, sem autorização e em desacordo com determinação legal ou regulamentar, conforme auto de exibição e apreensão a fls. 15 e laudo de constatação provisória de substância entorpecentes a fls. 17/19.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual. Contudo, o Tribunal de origem denegou a ordem.
+Na presente oportunidade, o impetrante alega que o juiz de primeiro grau não fundamentou o critério utilizado para decretar a prisão preventiva e que estão ausentes os requisitos autorizadores.
+Afirma que o acórdão apontado como coator não é dotado de fundamentação idônea, tratando-se de decisão genérica, aplicável a qualquer delito de associação e baseado na gravidade abstrata do delito.
+Destaca que as circunstâncias mencionadas nos autos não exigem medida tão gravosa, sendo possível sua substituição por medidas cautelares alternativas. Isso porque o delito, em tese, praticado não é revestido de violência ou grave ameaça. Indica ainda que o paciente possui residência fixa.
+Diante disso, pede, liminarmente e no mérito que seja declarada nula a decisão que não concedeu a substituição da prisão preventiva por cautelares diversas, por vício/ ausência de fundamentação. Subsidiariamente pede pela revogação da prisão preventiva ainda que com a aplicação de cautelares diversas.
+É o relatório, decido.
+Não há como prosseguir a irresignação. Isso porque impetrante não juntou cópia do acórdão apontado como ato coator. o que inviabiliza o exame das alegações.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
