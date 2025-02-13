@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ARTIGOS 33 E 34 DA LEI N. 11.343/2006. DECISÃO MONOCRÁTICA. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. SÚMULA 7/STJ. REEXAME DE PROVAS. INVIABILIDADE. EMENDATIO LIBELLI. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O julgamento monocrático pelo relator encontra respaldo no artigo 932 do CPC e no Regimento Interno do STJ, não havendo afronta ao princípio da colegialidade quando se trata de recurso manifestamente inadmissível.
+2. O afastamento da causa de diminuição de pena prevista no artigo 33, §4º, da Lei n. 11.343/2006 está devidamente fundamentado na dedicação à atividade criminosa, evidenciada pelas circunstâncias do caso concreto.
+3. A análise do princípio da consunção revelou a autonomia das condutas criminosas, impossibilitando a configuração de crime único.
+4. A figura da emendatio libelli, nos termos do artigo 383 do CPP, não exige aditamento à denúncia, sendo plenamente válida desde que não haja alteração dos fatos descritos. Precedentes.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de Agravo Regimental interposto por Maik Breno Virgínio, em face da decisão monocrática que inadmitiu o Recurso Especial, mantendo a decisão do Tribunal de Justiça de Minas Gerais que, parcialmente, proveu a apelação interposta, mas manteve a condenação pelos crimes previstos nos artigos 33, caput, §1º, inciso I, e 34 da Lei n. 11.343/2006.
+O Agravante alega, em síntese, que houve violação ao princípio da colegialidade, além de aplicação indevida da Súmula 7/STJ, argumentando que a análise demandaria revaloração de fatos incontroversos e não reexame de provas. Sustenta, ainda, que o afastamento da minorante prevista no artigo 33, §4º, da Lei de Drogas carece de fundamentação idônea, e que o princípio da consunção não foi corretamente aplicado.
+Por fim, argumenta que a alteração da capitulação jurídica se deu sem observaência ao contraditório e ampla defesa.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ARTIGOS 33 E 34 DA LEI N. 11.343/2006. DECISÃO MONOCRÁTICA. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. SÚMULA 7/STJ. REEXAME DE PROVAS. INVIABILIDADE. EMENDATIO LIBELLI. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O julgamento monocrático pelo relator encontra respaldo no artigo 932 do CPC e no Regimento Interno do STJ, não havendo afronta ao princípio da colegialidade quando se trata de recurso manifestamente inadmissível.
+2. O afastamento da causa de diminuição de pena prevista no artigo 33, §4º, da Lei n. 11.343/2006 está devidamente fundamentado na dedicação à atividade criminosa, evidenciada pelas circunstâncias do caso concreto.
+3. A análise do princípio da consunção revelou a autonomia das condutas criminosas, impossibilitando a configuração de crime único.
+4. A figura da emendatio libelli, nos termos do artigo 383 do CPP, não exige aditamento à denúncia, sendo plenamente válida desde que não haja alteração dos fatos descritos. Precedentes.
+5. Agravo regimental não provido.
+VOTO
+O Agravo Regimental não merece provimento.
+Inicialmente, quanto à alegada violação ao princípio da colegialidade, verifica-se que a decisão monocrática está em conformidade com o artigo 932 do CPC, aplicado subsidiariamente ao processo penal, e com o Regimento Interno do STJ, que autorizam o julgamento monocrático em hipóteses de manifesta inadmissibilidade do recurso. Não se vislumbra, assim, qualquer afronta ao juízo natural ou ao princípio da colegialidade.
+No que tange à impossibilidade de aplicação da Súmula 7/STJ, observa-se que o pedido do Agravante demanda reexame de matéria fático-probatória, vedado na via especial. A análise das instâncias ordinárias foi clara ao afirmar que a quantidade de droga apreendida, aliada à descoberta de um laboratório de entorpecentes, revela a dedicação à atividade criminosa, afastando a aplicação da minorante prevista no artigo 33, §4º, da Lei n. 11.343/2006.
+Em relação ao princípio da consunção, as instâncias ordinárias concluíram pela autonomia das condutas previstas nos artigos 33 e 34 da Lei de Drogas, considerando que os maquinários apreendidos não se tratavam de meios indispensáveis à prática do tráfico, mas sim evidências de condutas autônomas. Tal entendimento está em consonância com a jurisprudência desta Corte ( AgRg no HC n. 650.948/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022 e AgRg no HC n. 662.846/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 24/8/2021, DJe de 30/8/2021).
+Com efeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 34 DA LEI N. 11.343/2006. CONSUNÇÃO. INVIÁVEL. DISSÍDIO JURISPRUDENCIAL. COTEJO NÃO REALIZADO. CONCURSO FORMAL. NÃO INDICADO NENHUM DISPOSITIVO LEGAL EVENTUALMENTE AFRONTADO. SÚMULA N. 284 DO STF. PORTE DE ARMA. DESCLASSIFICAÇÃO. INVIÁVEL. REEXAME DE PROVAS. CONFISSÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como delineado na decisão combatida, as circunstâncias descritas no acórdão impugnado demonstram a autonomia das condutas, de modo que impossível a aplicação do princípio da consunção.
+2. Havendo a defesa deixado de destacar a similaridade fática entre o caso em análise e os acórdãos paradigmas, não deve ser conhecido o recurso especial no ponto em que alega dissídio jurisprudencial.
+3. A falta de indicação de dispositivo legal violado impede o conhecimento do recurso especial, por incidência da Súmula n. 284 do STF.
+4. Para modificar a conclusão da instância ordinária de configuração do delito de porte ilegal de arma de fogo seria necessário o reexame fático-probatório, providência inviável em recurso especial.
+5. Não havendo confissão acerca do porte da arma de fogo, inadmissível a incidência da atenuante prevista no art. 65, III, "d", do Código Penal.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/8/2020, DJe de 14/8/2020.)
+Por fim, no que concerne à suposta ofensa ao contraditório e ampla defesa, verifica-se que foi aplicada a figura da emendatio libelli, nos termos do artigo 383 do CPP, que não exige aditamento à denúncia ou prévia comunicação à defesa. Trata-se de alteração da capitulação jurídica sem modificação dos fatos descritos, o que não caracteriza violação ao devido processo legal.
+A popósito:
+DIREITO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. RECEPTAÇÃO. DESOBEDIÊNCIA. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. NULIDADE PROCESSUAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. FRAGILIDADE PROBATÓRIA. NECESSIDADE DE
+DILAÇÃO PROBATÓRIA. ORDEM DENEGADA. I. Caso em exame1. Habeas corpus alegando nulidade por ofensa ao contraditório e a ampla defesa, bem como a insuficiência da prova para lastrear a participação do paciente. II. Questão em discussão2. A questão em discussão consiste em saber se houve cerceamento de defesa e se a condenação por tráfico de drogas foi devidamente fundamentada. III. Razões de decidir3. O réu se defende dos fatos narrados na denúncia, não da capitulação jurídica dada pelo Ministério Público ou pelo juiz que, conforme art. 383 do CPP, pode dar nova definição jurídica aos fatos descritos na denúncia.4. A desclassificação foi solicitada pela própria defesa, não havendo prejuízo ao contraditório e à ampla defesa.5. A condenação por tráfico de drogas foi baseada em provas suficientes, incluindo depoimentos de policiais e apreensão de entorpecentes e dinheiro.6. A revisão das provas demandaria dilação probatória, inviável em sede de habeas corpus. IV. HABEAS CORPUS DENEGADO.
+(HC n. 908.165/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCUSSÃO. DENÚNCIA. FATO NÃO DESCRITO NA EXORDIAL ACUSATÓRIA. PRINCÍPIO DA CORRELAÇÃO. INOBSERVÂNCIA. SÚMULA 568/STJ. FUNCIONÁRIO DA CONFEDERAÇÃO BRASILEIRA DE TÊNIS DE MESA. EQUIPARAÇÃO A FUNCIONÁRIO PÚBLICO PARA EFEITOS PENAIS. MATÉRIA PREJUDICADA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I - O princípio da congruência (ou da correlação) compõe um dos esteios do devido processo legal, já que afiança o exercício da ampla defesa e do contraditório na medida em que assegura ao réu o direito de se defender dos fatos narrados na denúncia.
+II - O Estatuto Processual Penal estabelece que, na hipótese de erro de capitulação na exordial acusatória, o magistrado procederá à correção e adequação da tipificação, atribuindo aos fatos definição jurídica diversa, ainda que advenha pena mais severa. Cuida-se, nesse caso, da emendatio libelli, prevista no art. 383 do CPP. Não há, nessa hipótese, a superveniência de fato novo, que impõe o aditamento da denúncia - tal como ocorre com a mutatio libelli, prevista no art. 384 do CPP - e, consequentemente, da abertura de prazo para a defesa se manifestar com a indicação de novas testemunhas.
+III - No caso em exame, a condição de funcionário do Comitê Paralímpico Brasileiro (CPB) foi mencionada em ato decisório tão somente por ocasião do julgamento do recurso de apelação ministerial, que cassou a sentença, não constando referida descrição nem na denúncia e nem na sentença. Assim, correta a reforma do decisum do Tribunal a quo que houvera, indevidamente, cassado a sentença absolutória, implicando ofensa ao princípio da correlação.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.923.057/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Dessa forma, os fundamentos apresentados na decisão monocrática são suficientes para a manutenção da decisão agravada, não havendo razões para reforma.
+Ante o exposto, nego provimento ao Agravo Regimental, mantendo a decisão que inadmitiu o Recurso Especial interposto pelo Agravante.
+É como voto.
