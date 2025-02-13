@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MACIEL GOMES RIBEIRO contra acórdão da 5ª Câmara Criminal do Tribunal de Justiça do Paraná, no HC n. 047161-48.2024.8.16.0000, assim ementado:
+HABEAS CORPUS. FURTO QUALIFICADO. ROUBO MAJORADO. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. PEDIDO DE NULIDADE DA INTIMAÇÃO E DO RECONHECIMENTO FOTOGRÁFICO QUE SE PROCEDERAM DE FORMA EQUIVOCADA COM A CONSEQUENTE DESCONSIDERAÇÃO DO TRÂNSITO EM JULGADO. MATÉRIA AFETA AO RECURSO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA. RECURSO NÃO CONHECIDO. (e-STJ, fl. 880)
+Em seu arrazoado, o impetrante aponta nulidade decorrente da falta de intimação do réu para a audiência de instrução e julgamento. Refere que o paciente estava recluso em estabelecimento prisional e deveria ter sido intimado através da referida unidade.
+Alega inobservância às formalidades do art. 226 do Código de Processo Penal.
+Requer, liminarmente, a imediata liberdade provisória do acusado.
+No mérito, pugna pela confirmação do pleito liminar com a declaração de nulidade do feito.
+O pedido liminar foi indeferido (e-STJ, fl. 888).
+Prestadas as informações (e-STJ, fls. 900-905 e 906-918), o Ministério Público opinou pela concessão da ordem (e-STJ, fls. 920-923).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Em que pese toda a argumentação da parte impetrante e as informações prestadas pela autoridade coatora, não há nos autos dados suficientes para se reconhecer as nulidades apontadas. Na sentença condenatória, nada foi referido acerca das intimações do réu, havendo breve menção à sua revelia. Do mesmo modo se diga quanto à alegada ofensa às disposições do art. 226 do Código de Processo Penal, uma vez que apenas consta no édito condenatório que a prova oral colhida aponta para a autoria do ora paciente.
+E conforme salientado no acórdão impugnado, a condenação transitou em julgado, razão pela qual a Corte estadual compreendeu que as questões deveriam ser suscitadas em sede de revisão criminal, registrando por último que:
+E, ainda que fosse possível a análise de ofício das nulidades arguidas, não há demonstração inequívoca do constrangimento ilegal sofrido pelo paciente, haja vista que o reconhecimento fotográfico do acusado se deu através de uma fotografia em jornal de circulação (mov. 8.45) e também perante a autoridade policial (mov. 8.47), bem como a decretação da revelia do réu se baseou na certidão do Oficial de Justiça (mov. 202), nos termos do art. 367 do CPP. (e-STJ, fl. 887)
+Embora o acórdão impugnado tenha feito referência à regularidade da intimação do paciente e do reconhecimento fotográfico, conforme acima retratado, não analisou as questões da forma como apresentadas pela defesa, situação que impede o seu conhecimento diretamente por esta Corte, sob pena de indevida supressão de instância.
+E não obstante o entendimento adotado pelo Tribunal de Justiça do Paraná, compreendo que a Corte estadual é competente para a análise das nulidades suscitadas, ainda que já transitada em julgado a ação penal. Isso porque, é justamente contra essa situação que a defesa do paciente se insurge na presente demanda. Observa-se dos autos, com efeito, se tratar de condenação à pena altíssima, de 21 anos e 9 meses de reclusão, mais 270 dias-multa, contra a qual a defesa não interpôs recurso de apelação, dando a entrever a possibilidade de ocorrência de falhas nas tentativas de intimação do paciente e na decretação de sua revelia.
+O impetrante afirma que o réu possui o mesmo endereço há 14 anos e que parte do tempo esteve recluso em unidade prisional.
+Dentro desse contexto, entendo necessário o retorno dos autos ao Tribunal de Justiça do Paraná para que as questões suscitadas na impetração originária sejam devidamente analisadas.
+Diante do exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, a fim de determinar que a Corte estadual analise as questões suscitadas pela defesa, no HC n. n. 047161-48.2024.8.16.0000.
+Publique-se. Intime-se.
+EMENTA
