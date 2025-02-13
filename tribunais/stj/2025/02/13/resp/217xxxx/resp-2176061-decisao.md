@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO FRANCISCO CARMINATTI BARBERO com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - PENHORA DE PARTE DA APOSENTADORIA DO AGRAVANTE - RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE PREVISTA NO ART. 833, § 2º DO CPC - PRECEDENTES DO STJ - APLICAÇÃO AO CASO CONCRETO - POSSIBILIDADE - RECURSO IMPROVIDO.
+1. O Superior Tribunal de Justiça vem entendendo ser possível a relativização do § 2º do art. 833 do CPC, a fim de autorizar a penhora de verba salarial inferior a 50 salários mínimos, em percentual condizente com a realidade de cada caso concreto, desde que assegurado montante que garanta a dignidade do devedor e de sua família.
+2. Neste aspecto, a jurisprudência, como forma de harmonizar dois direitos, o direito ao mínimo existencial e o direito à satisfação executiva, vem admitindo a mitigação dessa regra de impenhorabilidade.
+3. No caso dos autos, verifica-se que a regra da mitigação foi aplicada dentro dos critérios de efetividade e razoabilidade, sem que possa prejudicar a sobrevivência digna do executado e ao mesmo tempo possibilitar que o exequente receba o seu crédito, razão pela qual não há que se falar em modificação da decisão agravada. 4. Recurso conhecido e improvido." (e-STJ fls. 131).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 212/213).
+Em suas razões, o recorrente aponta, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489 e 1.022 do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação e a negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios;;
+(ii) art. 926 e 927 do Código de Processo Civil - porque o acórdão combatido teria adotado posição divergente do entendimento do Superior Tribunal de Justiça no que tange à mitigação da impenhorabilidade para pagamento de verba honorária sucumbencial; e
+(iii) art. 833 do Código de Processo Civil - porque a impenhorabilidade dos proventos de aposentadoria não pode ser mitigada para autorizar sua penhora a fim de satisfazer dívida de honorários advocatícios.
+Contrarrazões às e-STJ fls. 266/275.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à mitigação da impenhorabilidade de salários, vencimentos e proventos de aposentadoria, desde que preservado o mínimo existencial, conforme se verifica do seguinte trecho do acórdão:
+"Entretanto, em julgamento de Embargos de Divergência em Recurso Especial n. 1.874.222/DF, a Corte Especial do STJ estabeleceu que, em caráter excepcional, é possível relativizar a regra da impenhorabilidade das verbas de natureza salarial para pagamento de dívida não alimentar, independentemente do montante recebido pelo devedor, desde que preservado valor que assegure subsistência digna para ele e sua família.
+(..)
+No presente caso, verifica-se que a regra da mitigação foi aplicada dentro dos critérios de efetividade e razoabilidade, sem que possa prejudicar a sobrevivência digna do executado e ao mesmo tempo possibilitar que o exequente receba o seu crédito, razão pela qual não há que se falar em modificação da decisão agravada." (e-STJ fls. 118/119).
+Ao apreciar os embargos de declaração, o acórdão recorrido ainda acrescentou que:
+"Diante disso, resta evidente que a mitigação da regra da impenhorabilidade foi aplicada em razão de não ter restado comprovado nos autos que o percentual penhorado é capaz de comprometer a subsistência digna do devedor, o que é admitido pelo STJ, independentemente da natureza da dívida. " (e-STJ fls. 205).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Além disso, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, que entende que, de fato, a natureza alimentar não é suficiente para excepcionar a impenhorabilidade dos salários, vencimentos e proventos de aposentadoria. No entanto, essa mesma Corte Superior assentou que, independente da natureza da dívida, é possível a mitigação da impenhorabilidade, desde que preservado valor que assegure subsistência digna para ele e sua família.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. EXECUÇÃO. PENHORA DO TOTAL DA MOVIMENTAÇÃO FINANCEIRA. NATUREZA ALIMENTAR DA VERBA EM EXECUÇÃO QUE NÃO A EQUIPARA À PRESTAÇÃO ALIMENTÍCIA. PRECEDENTE DA CORTE ESPECIAL. PENHORA DE 10% DE VENCIMENTOS LÍQUIDOS MENSAIS. POSSIBILIDADE. MITIGAÇÃO. GARANTIA DA SUBSISTÊNCIA DA PESSOA E FAMÍLIA. REVISÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+2. A Corte Especial deste egrégio Tribunal Superior orientou-se no sentido de que a verba honorária, muito embora tenha natureza alimentar, não ostenta natureza alimentícia para efeito de aplicação do art. 833, § 2º, do NCPC (REsp 1.815.055/SP, Rel. Ministra NANCY ANDRIGHI, Corte Especial, DJe 26/8/2020).
+3. No caso em exame, o Tribunal local concluiu pela existência de situação excepcional apta a permitir a mitigação da regra da impenhorabilidade, autorizando a constrição de 10% dos vencimentos líquidos mensais da parte agravada e concluiu ser incabível o bloqueio da totalidade de sua verba salarial, pois comprometeria seu sustento e de sua família. Alterar esse entendimento demandaria reexame do contexto fático-probatório dos autos, vedado em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.586.068/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. EXECUÇÃO. PENHORA DE CRÉDITO (HONORÁRIOS ADVOCATÍCIOS). RELATIVIZAÇÃO DA IMPENHORABILIDADE. POSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. É possível, excepcionalmente, a mitigação da impenhorabilidade prevista no artigo 833, inciso IV, do Código de Processo Civil - CPC/2015, desde que não haja prejuízo à subsistência digna da parte devedora e de sua família, consideradas as peculiaridades do caso e sempre orientando-se pelos princípios da proporcionalidade e da razoabilidade. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.969.114/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Ante o expo sto, conheço do recurso especial e nego-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
