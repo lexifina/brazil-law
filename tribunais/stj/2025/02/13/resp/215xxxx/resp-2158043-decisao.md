@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, recurso especial interposto por SHIRLEI PEREIRA DA SILVA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. ART. 203, V, DA CONSTITUIÇÃO FEDERAL DE 1988. LEI Nº 8.742/93. REQUISITOS.
+1. O direito ao benefício assistencial previsto no art. 203, V, da Constituição Federal pressupõe o preenchimento dos seguintes requisitos: a) condição de deficiente (incapacidade para o trabalho e para a vida independente, de acordo com a redação original do artigo 20 da Lei 8.742/93; ou impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir a participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas, conforme redação atual do referido dispositivo) ou idoso (neste caso, considerando-se, desde 01.01.2004, a idade de 65 anos); e b) situação de risco social (estado de miserabilidade, hipossuficiência econômica ou situação de desamparo) da parte autora e de sua família.
+2. Atendidos os requisitos definidos pela Lei n.º 8.742/93, a parte autora faz jus ao benefício assistencial de prestação continuada previsto no artigo 203, V, da Constituição Federal.
+Aponta a recorrente que o Tribunal local deu provimento à apelação do INSS para fixar a data inicial do benefício a contar do último requerimento administrativo, realizado em 17.10.2018, eis que o ajuizamento da ação foi feito em 20.04.2020, mais de 05 anos após o primeiro requerimento administrativo, em 18.01.2013.
+Assim, sustenta que o v. acórdão incorreu em violação ao art. 21, da Lei 8.213/1991, e está em desacordo com a jurisprudência desta Corte, firmada no Recurso Especial 1.805.428, pois:
+ ..
+quando no art. 21 da Lei nº 8.742/93, se faz referência à revisão a cada 02 (dois) anos para avaliação, não se trata de EMPECILHO para que se reconheça direito ao BPC/LOAS (cumpridos os demais requisitos), em prazo superior a 05 (cinco) anos, analisando o "requerimento administrativo" e a "data de propositura da ação".
+Ao final, pugna pela reforma do acórdão recorrido.
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+Conforme consta do acórdão recorrido, a presente ação foi ajuizada em 20.04.2020, sendo determinada a implantação do benefício a contar do último requerimento administrativo formulado em 17.10.2018 (fls. 419 e 470).
+Verifica-se que o acórdão regional está em conformidade com o entendimento jurisprudencial desta Corte no sentido de que o termo inicial do benefício assistencial de prestação continuada, previsto no art. 20 da Lei n. 8.742/1993, é a data do requerimento administrativo, e, na ausência deste, é a data da citação.
+Nesse sentido:
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL À PESSOA COM DEFICIÊNCIA. TERMO INICIAL DO BENEFÍCIO. DATA DO REQUERIMENTO ADMINISTRATIVO. RETROAÇÃO AO PRIMEIRO REQUERIMENTO ADMINISTRATIVO. IMPOSSIBILIDADE. TRANSCORRIDOS MAIS DE 5 ANOS ENTRE O INDEFERIMENTO ADMINISTRATIVO E O AJUIZAMENTO DA AÇÃO. PRECEDENTES.
+I - Acórdão regional, em conformidade com o entendimento jurisprudencial desta Corte no sentido de que o termo inicial do benefício assistencial de prestação continuada, previsto no art. 20 da Lei n. 8.742/1993, é a data do requerimento administrativo, e, na ausência deste, é a data da citação.
+II - Hipótese que a parte recorrente objetiva a retroação do benefício desde o primeiro requerimento administrativo, o que não é possível, visto que, conforme entendimento jurisprudencial desta Corte, entende-se que a revisão do ato administrativo que indeferiu o benefício assistencial está sujeita à prescrição quinquenal.
+Precedentes: AgInt no REsp n. 1.864.367/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 31/8/2020, DJe 8/9/2020; e REsp n. 1.746.544/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/2/2019, DJe 14/2/2019.
+III - No caso dos autos, a presente ação foi ajuizada, em 30/8/2018, após o decurso do prazo prescricional de 5 anos a contar do primeiro requerimento administrativo, formulado em 11/2/2012, o que torna inviável a retroação do benefício a essa data.
+IV - No tocante a divergência, verifica-se que o recorrente não efetivou o necessário cotejo analítico entre os acórdãos em confronto, o que impede o conhecimento do recurso, com base nessa alínea do permissivo constitucional, não bastando a simples transcrição de ementas e fragmentos de votos.
+V - Recurso especial parcialmente conhecido e, nessa parte, improvido (REsp n. 1.965.066/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/2/2023, DJe de 16/2/2023).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. REQUERIMENTO. INDEFERIMENTO. PRESCRIÇÃO. REGRAS. ALTERAÇÃO NO ESTADO DE FATO OU DE DIREITO. VANTAGEM. TERMO INICIAL. CITAÇÃO.
+1. Apesar de o direito ao benefício assistencial ou previdenciário não se submeter à prescrição de fundo, por estar inserido nos direitos fundamentais, a ocorrência de indeferimento do pedido administrativo faz nascer o interesse de agir, por se tratar de ato específico, o qual não se renova mês a mês. Inteligência da Súmula 85 do STJ.
+2. O reconhecimento da prescrição do fundo de direito, por si só, não afasta a possibilidade de nova postulação de benefício por incapacidade, ou assistencial, tendo em vista a natureza dos direitos sociais e eventuais alterações no estado de fato ou de direito do segurado, de seu beneficiário ou do requerente de que trata a LOAS (Lei Orgânica da Assistência Social), ex vi do art. 505, I, do CPC/2015 (art. 471, CPC/1973).
+3. Caso em que a parte autora pode postular a concessão de benefício a qualquer tempo, sendo certo que, decorridos mais de cinco anos desde o indeferimento administrativo e havendo alteração no estado de fato ou de direito do segurado, este fará jus ao benefício, atendidos os requisitos legais, mas a contar da nova demanda judicial.
+4. Agravo interno desprovido (AgInt no REsp n. 1.864.367/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+Veja-se que, conforme explicitado por meio dos julgados colacionados acima, entende-se que a revisão do ato administrativo que indeferiu o benefício assistencial está sujeita à prescrição quinquenal prevista no art. 1º do Decreto n. 20.910/1932. E, no caso dos autos, a presente ação foi ajuizada, em 20.04.2020, razão pela qual só é possível retroagir o benefício até a data do último requerimento administrativo, formulado em 17.10.2018
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários sucumbenciais, na origem, em favor da parte recorrida.
+Intimem-se.
+EMENTA
