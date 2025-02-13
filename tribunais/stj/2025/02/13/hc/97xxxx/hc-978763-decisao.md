@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LEONARDO OLIVEIRA LIMA em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO .
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, em acórdão (fls. 25-29).
+Neste writ, a Defesa alega, e m linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente.
+Aponta ausência de fundamentação para a segregação cautelar.
+Sustenta ilegalidade, aduzindo ausência de fundada suspeita para a busca pessoal.
+Requer:
+ ..  seja o presente writ CONHECIDO para seja CONCEDIDA LIMINARMENTE A ORDEM DE HABEAS CORPUS para revogar a prisão preventiva decretada em desfavor de LEONARDO OLIVEIRA LIMA, em razão da nulidade absoluta decorrente da busca pessoal realizada ou em razão da fundamentação absolutamente inidônea, expedindo-se o competente alvará de soltura.
+Por ocasião do julgamento final, seja concedida a ordem de habeas corpus para que seja revogada a prisão preventiva do paciente e ao final seja determinado o trancamento da ação penal. (fl. 16).
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente em razão do fundado receio de reiteração criminosa.
+No ponto, consta no acórdão hostilizado:
+No mais, quanto à manutenção da constrição, verifico que o d. Magistrado de origem converteu a prisão em preventiva pautou-se em argumentação idônea, diante das circunstâncias desfavoráveis da prisão do paciente e existência de elementos de dedicação à traficância, destacando que "verifica-se dos autos que ele possui extensa folha de antecedentes, ou seja, é vezeiro na prática do crime, o que por si só demonstra que processos e benefícios anteriores não serviram para nada, possui pela personalidade voltada ao crime. Ademais, observa-se que a potencialidade de sua conduta se extrai da quantidade e variedade de drogas da prisão não servirão para resguardar a ordem pública". Nesse ponto, conforme constata-se dos autos e origem, o paciente já ostenta outras anotações criminais pela prática de tráfico e associação para o tráfico de drogas (fls. 21/27), o que revela justo receio de reiteração delitiva. Demonstra-se, assim, a necessidade de acautelar a ordem pública. (fl. 28).
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+ ..
+Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019).
+ ..
+(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+No que tange à aventada irregularidade na busca pessoal, não verifico flagrante ilegalidade a ser sanada, tendo em vista a existência de fundada suspeita; -Com efeito, extrai-se do presente caso que os milicianos descreveram que "o paciente avistou policiais militares, saltou da motocicleta em que se encontrava e arremessou uma pochete," (fls. 92/95, origem), atitude que, portanto, demonstrou suspeita para os policiais que atenderam a ocorrência- (fl. 27); não se evidenciado o constrangimento ilegal suscitado.
+Nesse sentido:
+-Na hipótese dos autos, as instâncias ordinárias assentaram que os policiais estavam em patrulhamento por local conhecido pelo intenso tráfico de drogas quando avistaram o agravante e outro indivíduo, os quais, ao visualizarem os policiais, tentaram empreender fuga. Ato seguinte, lograram realizar a abordagem, apreendendo, em revista pessoal, 38 (trinta e oito) porções de crack e dinheiro em espécie, não havendo que se falar em ausência de fundadas suspeitas para a busca pessoal. Precedentes-. (AgRg no HC n. 910.693/SC, Quinta Turma, de minha relatoria, DJe de 21/6/2024).
+- Na hipótese dos autos, conforme destacado pela Corte local, soberana na análise dos fatos e provas, a dinâmica que autorizou a revista pessoal foi a seguinte: policiais militares, que realizavam patrulhamento de rotina, avistaram o paciente, juntamente com outro indivíduo não identificado, os quais, ao notarem a aproximação da viatura policial, empreenderam fuga, cada um entrando em uma residência distinta. O próprio paciente confessou tal dinâmica em Juízo. Realizada a busca pessoal, foram localizadas em poder do réu 50 (cinquenta) pedras de crack. Assim, tem-se que, ao contrário do alegado, a busca pessoal decorreu da competente e diligente atuação ostensiva dos policiais militares, em que as circunstâncias prévias à abordagem justificavam a fundada suspeita de que o paciente estaria na posse de elementos de corpo de delito, sendo descabida a tese defensiva de ausência de razoabilidade que se enquadre na excepcionalidade da revista pessoal-. (AgRg no HC n. 901.515/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 29/4/2024).
+Ante o exposto, denego a ordem.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intimem-se.
+EMENTA
