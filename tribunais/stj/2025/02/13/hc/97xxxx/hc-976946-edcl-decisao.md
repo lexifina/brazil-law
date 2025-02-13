@@ -1,0 +1,13 @@
+DECISÃO
+DIEGO RICARDO TESARO opõe embargos de declaração à decisão da Presidência desta Corte.
+A defesa indica os vícios do art. 619 do CPP para apontar que o ato judicial não considerou "a juntada da decisão proferida pelo Tribunal Regional Federal da 4ª Região" (fl. 102). Busca o afastamento da Súmula n. 691 do STF e o afastamento das restrições do regime aberto domiciliar.
+Decido.
+Os embargos de declaração não constituem meio idôneo para modificar os fundamentos da decisão.
+Apesar das alegações da defesa, a decisão embargada foi expressa ao assinalar o obstáculo ao conhecimento do habeas corpus, que não pode ser conhecido por esta Corte. Deveras, "segundo disposição do art. 105, I, "c", da Constituição Federal, este Superior Tribunal de Justiça é competente para conhecer do habeas corpus na existência de ato proferido por Tribunal sujeito à sua jurisdição, portanto, falece de competência para julgar habeas corpus impetrado contra decisão monocrática, proferida por Desembargador Relator na origem" (AgRg no HC n. 788.526/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2023, DJe de 27/3/2023, destaquei).
+Em acréscimo, verifico que a defesa já interpôs agravo em execução contra a decisão do Juiz da VEC, em trâmite.
+A interposição de recurso próprio perante o Tribunal de Justiça e a "contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido" (HC n. 482.549/SP, relator Ministro Rogerio Schietti, Terceira Seção, DJe de 3/4/2020).
+Ressalto que a jurisprudência desta Corte "tem reconhecido a legalidade da imposição do uso de tornozeleira no regime aberto quando houver reconhecido déficit de vagas no regime adequado, situação que atende aos parâmetros referenciados na Súmula Vinculante 56  .. " (AgRg no HC n. 946.213/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2024, DJe de 4/10/2024.).
+Ademais, o "habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1777820/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/4/2021)" (AgRg no AREsp n. 1.450.671/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/5/2021, DJe 14/5/2021).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
