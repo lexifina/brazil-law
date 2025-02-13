@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de de claração opostos por CARMEN LUCIA NOGUEIRA FOLHADELA contra decisão monocrática de minha relatoria que conheceu do agravo para dar provimento ao recurso especial nos termos da seguinte ementa (fl. 681):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA CONFIGURADA. ART. 86 DO CPC. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Alega a embargante que "a decisão foi equivocada na fixação dos honorários sucumbenciais devidos pela embargante, pois o arbitrou sobre o valor da condenação, quando a embargante não foi condenada a nada, tendo apenas sucumbido do pedido de dano moral, de modo que os honorários deveriam incidir sobre o valor do pedido indeferido." (fl. 704)
+Requer a reforma da decisão embargada para que os honorários advocatícios sejam fixados sobre o valor do pedido que ela sucumbiu (indenização por dano moral).
+A embargada apresentou impugnação às fls. 717-720.
+É, no essencial, o relatório.
+Merecem prosperar as alegações da embargante.
+O Superior Tribunal de Justiça no julgamento do Tema n. 1.076 estabeleceu uma sequência objetiva no arbitramento da verba honorária, devendo a fixação ser calculada subsequentemente sobre o valor (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+Assim, seguindo a ordem estabelecida no art. 85 do CPC, no caso concreto, não havendo condenação, os honorários advocatícios devem ser calculados sobre o proveito econômico.
+Considerando o disposto no § 6º do art. 85 do CPC e nos termos da jurisprudência desta corte, na sentença de improcedência do pedido em ações condenatórias (caso dos autos), a base de cálculo dos honorários corresponde ao proveito econômico do cliente, evitado pela atuação do advogado.
+A propósito:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE CONSUMO. JULGAMENTO DE IMPROCEDÊNCIA. LITISCONSÓRCIO PASSIVO FACULTATIVO. HONORÁRIOS. VALOR INVIDIDUAL. BASE DE CÁLCULO. FIXAÇÃO. ART. 85, §§ 2º E 6º, DO CPC/15. VÍCIO DO PRODUTO. ART. 18 DO CDC. FORNECEDORES. CADEIA DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA. COTA-PARTE. DIVISÃO. PARTES IGUAIS. PRESUNÇÃO. ART. 283 DO CC/02. BENEFÍCIO ECONÔMICO DO CLIENTE. JUSTA REMUNERAÇÃO DO ADVOGADO.
+1. Ação de reparação por dano material cumulada com compensação por dano moral, em razão de defeitos apresentados em veículo e na demora superior a 30 (trinta) dias para o saneamento dos vícios apresentados, fundada no art. 18 do CDC.
+2. Recurso especial interposto em: 11/12/2018; concluso ao gabinete em: 18/11/2019; aplicação do CPC/15.
+3. O propósito recursal consiste em determinar se, na hipótese de litisconsórcio passivo facultativo, o julgamento de improcedência da ação deve acarretar a fixação de honorários em favor de cada vencedor, com base no valor atribuído à causa e em percentual mínimo de 10% (dez por cento).
+4. Nos termos do art. 85, § 2º, do CPC/15, deverá ser observado o parâmetro de 10% a 20% sobre o valor da condenação, sendo possível, no entanto, a utilização, como base de cálculo dos honorários, do proveito econômico obtido ou, se não passível sua mensuração, do valor da causa atualizado.
+5. O art. 85, § 2º, do CPC/15 prevê uma ordem de preferência, de modo que a base de cálculo dos honorários é definida segundo a impossibilidade de a hipótese concreta se enquadrar na previsão anterior prevalente.
+6. Nos termos do § 6º do art. 85 do CPC/15, na sentença de improcedência do pedido em ações condenatórias, a base de cálculo dos honorários corresponde ao proveito econômico do cliente, evitado pela atuação do advogado.
+7. Conforme a redação do art. 18, caput, do CDC, todos os fornecedores de produto de consumo respondem de forma solidária pelos vícios de qualidade ou quantidade, e, na forma do art. 283 do CC/02, a responsabilidade dos codevedores é presumidamente igualitária.
+9. Na hipótese concreta, embora não tenha observado estritamente o comando do art. 85, § 6º, do CPC/15, a solução do Tribunal de origem de ratear igualmente entre os litisconsortes passivos facultativos o percentual de 10% sobre o valor da causa acaba por refletir a cota-parte igualitária, decorrente da solidariedade, que cada um dos fornecedores deixou de ficar obrigado a pagar em favor do consumidor em razão do julgamento de improcedência do pedido fundado no art. 18, § 1º, do CDC.
+10. Recurso especial desprovido.
+(REsp n. 1.848.517/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/2/2020, DJe de 20/2/2020.)
+No caso dos autos, na petição inicial constam dois pleitos: o reembolso integral das despesas com a cirurgia realizada fora da rede credenciada (danos materiais) e a indenização por danos morais. A sentença julgou procedente os dois pedidos condenando o réu ao pagamento de R$ 5.000,00 referentes aos danos morais.
+Tendo o Tribunal de Justiça do Estado de Pernambuco julgado improcedente a pretensão de reparação por danos morais, mas mantida a condenação do plano de saúde quanto ao reembolso apesar de menor extensão (reembolso das despensas com a cirurgia de acordo com o valor de tabela do plano de saúde), a hipótese é de sucumbência recíproca.
+Desse modo, os honorários advocatícios em desfavor da parte ora embargada devem ser fixados sobre o valor da condenação (danos materiais). Já os honorários fixados em desfavor da parte ora embargante devem ser fixados sobre o valor do proveito econômico, ou seja, o valor que o advogado do plano de saúde SUL AMERICA COMPANHIA DE SEGURO SAUDE evitou que a seu cliente pagasse no momento da interposição do recurso de apelação no que se refere aos danos morais - R$ 5.000,00, corrigidos monetariamente.
+Desse modo, fixo os honorários advocatícios em desfavor da parte embargante em 10% sobre o valor do proveito econômico atualizado, nos termos da fundamentação acima exposta.
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, para fixar os honorários advocatícios em desfavor da parte embargante em 10% sobre o valor do proveito econômico atualizado, nos termos da fundamentação acima exposta
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. PROVEITO ECONÔMICO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
