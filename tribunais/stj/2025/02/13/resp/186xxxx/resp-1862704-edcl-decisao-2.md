@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CHUBB DO BRASIL COMPANHIA DE SEGUROS à decisão que deu provimento ao recurso especial (fls. 1.347-1.352).
+Em suas razões, a embargante sustenta que, apesar de a decisão ter reformado o acórdão proferido na origem, há omissão quanto à fixação dos honorários advocatícios.
+Argumenta que, não obstante a determinação de inversão dos ônus sucumbenciais e dos honorários advocatícios na origem, houve pedido, no recurso de apelação, para que a verba honorária fixada na sentença fosse revisada, tendo em vista sua irrisoriedade (R$ 2.000,00) quando levado em consideração o valor da causa de R$ 1.435.027,69.
+Requer, portanto, sejam acolhidos os embargos de declaração para que se determine a devolução dos autos à origem, de modo que o Tribunal de Justiça do Estado de São Paulo se manifeste a respeito do pedido formulado na apelação quanto à majoração da verba honorária.
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+A decisão embargada, ao tratar dos honorários advocatícios, limitou-se a dispor o seguinte: "Invertam-se os ônus sucumbenciais e os honorários fixados na origem". Todavia, não especificou o que está servindo de referência para a condenação da parte embargada.
+Ao analisar a petição inicial, observa-se que foi indicado como valor da causa o montante de R$ 1.435.027,69. Já o acórdão, ao reformar a sentença, condenou a embargante ao pagamento de 10% sobre o valor da causa, devidamente corrigido.
+A jurisprudência do STJ, firmou-se no seguinte sentido: "Para a fixação dos honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (AgInt no AREsp n. 2.339.813/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/12/2024, DJEN de 6/12/2024).
+Verifica-se que, apesar de o caso dos autos ter sido iniciado antes da entrada em vigor do atual Código de Processo Civil, a jurisprudência acima mencionada amolda-se perfeitamente à situação concreta.
+Como houve condenação na origem e reforma do acórdão nesta instância superior, entendo que a inversão dos honorários advocatícios dev e estar atrelada ao montante já estabelecido no acórdão recorrido.
+Dessa forma, fica integrada a decisão anterior com a inversão dos ônus sucumbenciais e dos honorários advocatícios, fixados em 10% sobre o valor da condenação, equivalente ao montante de R$1.435.027,69, devidamente corrigido.
+Ante o exposto, acolho os embargos de declaração para integrar a decisão de fls. 1.353-1.357, invertendo os ônus sucumbenciais e fixando os honorários em 10% sobre o valor da condenação, nos termos acima .
+Publique-se. Intimem-se.
+EMENTA
