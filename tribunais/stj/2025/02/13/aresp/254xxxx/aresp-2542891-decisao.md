@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SILVIA TATIANE DOS SANTOS e OUTRO contra decisão que inadmitiu o recurso especial em razão da ausência de negativa de prestação jurisdicional e da incidência da Súmula n. 283 do STF.
+No agravo em recurso especial, a parte agravante refuta os fundamentos de inadmissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Paraná (Apelação Cível n. 0006164-35.2012.8.16.0035) assim ementado (fl. 436):
+APELAÇÃO CÍVEL - AÇÃO DE CONSIGNAÇÃO DE PAGAMENTO - CONTRATO DE COMPRA E VENDA DE IMÓVEL INADIMPLIDO - SENTENÇA DE IMPROCEDÊNCIA - TEORIA DO ADIMPLEMENTO SUBSTANCIAL - FUNÇÃO SOCIAL DO CONTRATO - DIREITO À MORADIA - INOVAÇÃO RECURSAL - MATÉRIA NÃO ABORDADA EM PRIMEIRO GRAU - NÃO CONHECIMENTO DO APELO NESTES PONTOS - REQUERENTES QUE FORAM DEVIDAMENTE CONSTITUÍDOS EM MORA - AUSÊNCIA DE RENÚNCIA EXPRESSA OU TÁCITA DA REQUERIDA NO QUE TANGE AO DIREITO DE RESCISÃO DO COMPROMISSO DE COMPRA E VENDA - SENTENÇA MANTIDA - FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS - RECURSO PARCIALMENTE CONHECIDO E NA PARTE CONHECIDO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 451-455).
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 1.022, II, e 1.013 do Código de Processo Civil, alegando que o acórdão recorrido não analisou corretamente a questão da rescisão de contrato e que não opera efeitos automáticos com a notificação extrajudicial, necessitando de declaração judicial; e
+b) 32 da Lei n. 6.766/1979, aduzindo que as partes pactuaram, de forma expressa, que, no caso de inadimplência do promitente comprador, assistiria à promitente vendedora a execução imediata do contrato, de modo que não cabe sua resolução, mas a manutenção do vínculo.
+Afirma que não houve consideração a respeito desse tema no acórdão recorrido, ficando, "portanto, em aberto a questão relativa ao disposto na Lei 6766/79" (fl. 469).
+Defende que "não há que se falar na validade da cláusula resolutória expressa no caso em tela, posto que a recorrente, antecipadamente, ajuizou a ação de consignação em pagamento, visando à manutenção do vínculo contratual, afastando, portanto, os efeitos da notificação" (fl. 470).
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 475-485).
+É o relatório. Decido.
+O recurso não reúne condições de êxito.
+A alegação de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração da contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação.
+No caso, a parte recorrente indicou o art. 1.013 do CPC como vulnerado sem especificar comando normativo e demonstrar a alegada ofensa.
+Impõe-se, portanto, a aplicação, por analogia, da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. DEFICIENTE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ACÓRDÃO A QUO EM CONSONÂNCIA COM TEMA REPETITIVO N. 886/STJ. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. O apelo nobre trazendo alegações genéricas de ofensa a dispositivos de lei federal possui deficiente fundamentação recursal, atraindo a incidência da Súmula 284 do STF.
+2. Estando o acórdão estadual em consonância com a jurisprudência desta eg. Corte (Tema Repetitivo n. 886/STJ), tem-se a incidência da Súmula 83/STJ.
+3. Agravo interno desprovido. (AgInt nos EDcl no REsp n. 1.798.889/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 13/10/2022.)
+No mais, trata-se de ação de consignação em pagamento julgada improcedente.
+Inconformada, a parte autora apelou. O Tribunal de origem conheceu parcialmente do recurso e negou-lhe provimento estes termos (fls. 439-440):
+O recurso de apelação merece parcial conhecimento, pois traz fundamentos que não foram aventados em primeiro grau de jurisdição, caracterizando-se, portanto, a inovação recursal.
+As alegações relativas à aplicação da teoria do adimplemento substancial, que decorreria do princípio da conservação dos negócios jurídicos, e a preservação ao direito social à moradia não foram ventiladas durante o trâmite processual em primeiro grau e consequentemente não foram tratadas em sentença.
+Conforme se confere do caderno processual, em momento anterior algum foram ventiladas tais teses. Diante disso, impõe-se o não conhecimento de sobreditos temas aventado no recurso, desenvolvidos em sede de apelação, por se tratar de evidente inovação recursal.
+Lembrando que a "ausência de discussão e decisão de matéria em primeira instância impede o seu conhecimento na fase recursal, sob pena de supressão de instância e ofensa ao princípio do contraditório e da ampla defesa" (TJPR. AC 507.192-1. Rel.: Nilson Mizuta. DJ 89. 03/03/2009).
+Quanto ao restante das teses recursais, presentes os pressupostos de admissibilidade exigidos, forçoso o conhecimento do recurso de apelação.
+Os requerentes afirmam que a via de cobrança eleita contratualmente privilegia a manutenção do vínculo entre as partes ao invés da rescisão, e por isso o contrato deve ser mantido.
+Ocorre que a cláusula décima primeira do instrumento particular de contrato de compromisso de compra e venda contém a previsão expressa acerca da possibilidade de rescisão do contrato, desde que obedecida a lei de regência e seguido o procedimento lá especificado (mov. 1.6, fl. 4):
+ ..
+No caso dos autos, em 12/02/2009, a requerida enviou notificação extrajudicial aos requerentes, devidamente recebida no dia 13/02/2009, constituindo-os em mora, autorizando a rescisão do contrato, já que deixaram de efetuar o pagamento dos valores pendentes (mov. 1.8).
+Por outro vértice, o artigo 475, do Código Civil preceitua que cabe ao credor a escolha pela resolução do contrato ou a sua execução. Além disso, há expressa previsão da resolução do contrato, caso não purgada a mora, nos termos do art. 32, da Lei 6.766/79:
+Por oportuno, colaciona-se o inteiro teor dos aludidos artigos:
+ ..
+Como foi visto, a requerida constituiu devidamente os requerentes em mora, o que autoriza a resolução do contrato e justifica o interesse de agir para recebimento dos valores decorrentes da rescisão e da inadimplência.
+Assim, não há que se falar em reforma da sentença, mantendo-se a improcedência dos pedidos.
+Os embargos de declaração opostos foram assim rejeitados (fls. 452-454):
+De início, importante lembrar que a razão teleológica dos Embargos Declaratórios é esclarecer o Acórdão, complementando-o quanto a eventuais pontos omissos, contraditórios, obscuros ou erro material.
+No caso em tela, vê-se que a pretensão da parte embargante é o reexame, por esta Corte, das questões suscitadas, atribuindo efeito infringente à espécie, dado seu mero inconformismo com a solução conferida à lide.
+Assim, olvidando da existência de vícios, a parte pretende, por via oblíqua, o reexame das questões postas na decisão embargada.
+Basta a leitura atenta do julgado para observar que não existe qualquer vício a ser sanado.
+Note-se o que constou do acórdão, a respeito da possibilidade de rescisão do contrato diante do inadimplemento dos embargantes, cuja notificação extrajudicial foi efetivada antes mesmo da propositura da ação de consignação em pagamento:
+ ..
+Os embargantes, após o recebimento da notificação extrajudicial tinham o dever de comprovar o pagamento das parcelas inadimplidas no prazo de 30 (trinta) dias, mas deixaram transcorrer o prazo sem efetuar o pagamento, ensejando na justa rescisão do contrato, conforme determina o art. 32 da Lei nº 6766 /79.
+Logo, observa-se que a insurgência da parte embargante se revela mero inconformismo diante da solução conferida à lide, trazendo à análise questões que já foram devidamente enfrentadas por este Colegiado.
+É dizer, não há qualquer omissão, contradição, obscuridade ou erro material a macular a decisão embargada, havendo mero inconformismo com o resultado do julgamento.
+No mais, entendendo a parte que há erro na apreciação da prova, ou má interpretação dos fatos, ou mais, aplicação incorreta do direito, outro é o veículo apto à revisão da decisão, não os embargos declaratórios, despidos que são, a não ser em casos excepcionais, da eficácia infringente da decisão hostilizada.
+Se, alegando omissão, contradição ou obscuridade no Acórdão, o litigante tenta encobrir seu verdadeiro propósito de rediscutir a matéria já decidida, obter complementação dos fundamentos da decisão e refutação de todos os argumentos que lançou no curso da demanda, há de ter necessariamente obstaculizado seu intento.
+Desta feita e uma vez que a decisão embargada expôs de forma motivada o convencimento deste colegiado, a rejeição dos embargos é medida que se impõe.
+Por derradeiro, cumpre ponderar que haja vista a matéria ter sido adequadamente abordada, torna-se desnecessária a manifestação expressa sobre todas as questões e artigos mencionados, visto que, ainda que opostos os embargos com a finalidade de prequestionamento, estes somente podem ser acolhidos se demonstrada a existência dos vícios elencados pelo artigo 1.022, do Código de Processo Civil/2015.
+Afasta-se a alegada ofensa ao art. 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Nada obstante as alegações da parte recorrente, não há omissão, obscuridade ou contradição que caracterize vício no julgado, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, com enfrentamento e solução da questão debatida na lide.
+Ora, sendo os fundamentos apresentados suficientes, por si sós, para manter a sentença, seria desnecessário o Tribunal de origem examinar todos os argumentos levantados pela parte recorrente, os quais não seriam capazes de infirmar o julgado.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E DANOS MORAIS. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. VIOLAÇÃO AOS PRECEITOS DO DIREITO DE VIZINHANÇA. REVER A CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto ao percentual de reparação a ser custeado pelo ora recorrido. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+2. Rever a conclusão a que chegou o Tribunal de origem e entender, como quer a parte recorrente, que houve malferimento da legislação que regulamenta o despejo de águas em imóvel inferior, pois os danos em seu imóvel decorreram exclusivamente de conduta do ora recorrido, demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+AGRAVO DESPROVIDO. (AgInt no AREsp n. 2.083.838/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. CASO FORTUITO E FORÇA MAIOR. NÃO CONFIGURAÇÃO. ATRASO EXPRESSIVO. DANOS MORAIS. REVISÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489, § 1º, IV, 1.022, parágrafo único, II, do Código de Processo Civil de 2015 2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.954.373/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.)
+No mesmo sentido: AgInt no REsp n. 1.942.363/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no AREsp n. 1.957.754/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022; e AgInt no REsp n. 2.000.968/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.
+No tocante ao art. 32 da Lei n. 6.766/1976, verifica-se que a Corte de origem, soberana na análise dos fatos e provas dos autos e na interpretação de cláusulas contratuais, concluiu que a parte requerida constituíra os requerentes em mora, conforme cláusula contratual, o que autorizou a resolução do contrato.
+Desse modo, para rever a conclusão adotada na origem, seria imprescindível interpretar cláusulas contratuais e reexaminar o conjunto fático-probatório dos autos, medidas vedadas em recurso especial, em face dos óbices das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
