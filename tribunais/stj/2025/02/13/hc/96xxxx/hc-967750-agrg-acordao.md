@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, recebero pedido de reconsideração como agravo regimental, ao qual se negar provimento.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE RECONSIDERAÇÃO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Pedido de reconsideração recebido como agravo regimental, em observância ao princípio da fungibilidade recursal, conforme previsto no artigo 39 da Lei n. 8.038/1990.
+2. Configura supressão de instância a análise de matéria que não foi previamente submetida ao Tribunal de origem, em respeito à ordem processual e ao duplo grau de jurisdição.
+3. No caso, o habeas corpus originário limitou-se a questionar a legalidade da prisão preventiva e a aplicação de medidas cautelares diversas, sem abordar o pleito de substituição por prisão domiciliar, que não foi objeto de apreciação pelo Tribunal de Justiça. Ausência de teratologia ou ilegalidade gritante.
+4. A decisão agravada encontra-se devidamente fundamentada, sendo inviável a análise direta da matéria por esta Corte Superior, sob pena de violação à ordem processual.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de VANESSA CRISTINA DE OLIVEIRA SCARSO, contra a decisão monocrática que não conheceu do habeas corpus, sob o fundamento de supressão de instância.
+Consta dos autos que a agravante foi presa em flagrante no dia 30 de outubro de 2024, pela suposta prática do crime previsto no artigo 157, §1º, do Código Penal. A denúncia narra que a agravante tentou subtrair um fardo de cerveja de um supermercado e, ao ser abordada por um segurança, desferiu dois golpes de faca contra ele, causando lesões no ombro e no braço.
+A prisão em flagrante foi convertida em prisão preventiva, fundamentada na gravidade concreta do delito, considerando o uso de violência e o risco à ordem pública.
+Inconformada, a Defensoria Pública do Estado de São Paulo impetrou habeas corpus perante o Tribunal de Justiça, alegando ausência de requisitos legais para a prisão preventiva e fundamentação inidônea na decisão que decretou a custódia. Pleiteou, em caráter principal, a revogação da prisão preventiva e, subsidiariamente, a aplicação de medidas cautelares alternativas previstas no artigo 319 do Código de Processo Penal.
+A ordem foi denegada pela Corte estadual, que considerou presente o fumus commissi delicti, com base nos elementos probatórios colhidos no inquérito policial, e o periculum libertatis, evidenciado pela gravidade concreta do delito e pela periculosidade da agravante, demonstrada pelo modus operandi da conduta criminosa.
+Posteriormente, foi impetrado o presente habeas corpus perante esta Corte Superior, sustentando a possibilidade de substituição da prisão preventiva por prisão domiciliar. Alegou-se que a agravante sofre de transtornos mentais graves, com histórico de tentativas de suicídio, e que o ambiente prisional agrava seu quadro de saúde, colocando sua integridade física e psicológica em risco.
+A decisão agravada não conheceu do writ, sob o fundamento de que o pedido de substituição por prisão domiciliar não foi submetido à análise do Tribunal de Justiça, tampouco houve oposição de embargos de declaração para suprir eventual omissão, configurando supressão de instância.
+No presente agravo regimental, a agravante reitera os fundamentos do habeas corpus originário e pleiteia que a decisão monocrática seja reformada, para que seja apreciado o pedido de substituição da prisão preventiva por prisão domiciliar. Afirma que o Tribunal de Justiça analisou implicitamente a questão e que o encarceramento agrava sua saúde mental, violando direitos fundamentais.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE RECONSIDERAÇÃO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Pedido de reconsideração recebido como agravo regimental, em observância ao princípio da fungibilidade recursal, conforme previsto no artigo 39 da Lei n. 8.038/1990.
+2. Configura supressão de instância a análise de matéria que não foi previamente submetida ao Tribunal de origem, em respeito à ordem processual e ao duplo grau de jurisdição.
+3. No caso, o habeas corpus originário limitou-se a questionar a legalidade da prisão preventiva e a aplicação de medidas cautelares diversas, sem abordar o pleito de substituição por prisão domiciliar, que não foi objeto de apreciação pelo Tribunal de Justiça. Ausência de teratologia ou ilegalidade gritante.
+4. A decisão agravada encontra-se devidamente fundamentada, sendo inviável a análise direta da matéria por esta Corte Superior, sob pena de violação à ordem processual.
+5. Agravo regimental não provido.
+VOTO
+Preliminarmente, cumpre esclarecer que, embora a petição inicial tenha sido formulada como pedido de reconsideração, sua natureza jurídica, considerando o conteúdo recursal e a instância em que foi apresentada, é de agravo regimental. Assim, em observância ao princípio da fungibilidade recursal, a peça será recebida e processada como agravo regimental, nos termos do artigo 39 da Lei n. 8.038/1990.
+O agravo regimental não merece provimento.
+De início, observa-se que a decisão agravada corretamente concluiu pela existência de supressão de instância, uma vez que o pedido de substituição da prisão preventiva por prisão domiciliar não foi submetido à análise do Tribunal de Justiça do Estado de São Paulo. O habeas corpus originário teve como objeto a revogação da prisão preventiva, sob alegação de ausência dos requisitos legais e de fundamentação idônea na decisão que decretou a custódia, bem como a aplicação de medidas cautelares alternativas.
+O Tribunal de origem, ao denegar a ordem, limitou-se a examinar a legalidade da prisão preventiva, fundamentando sua manutenção na gravidade concreta do delito, demonstrada pelo modus operandi da agravante, e na sua periculosidade, indicativa de risco à ordem pública. Não houve qualquer manifestação sobre a viabilidade da substituição da prisão preventiva por prisão domiciliar, tampouco foi alegada pela defesa, naquela oportunidade, qualquer inadequação do sistema prisional ao tratamento médico necessário à agravante.
+No presente agravo, a defesa sustenta que a questão da prisão domiciliar foi implicitamente analisada no Tribunal de Justiça, mas essa tese não encontra respaldo no acórdão, que, de forma clara, não abordou tal matéria. Por essa razão, a análise do pleito diretamente por esta Corte configuraria indevida supressão de instância, em conformidade com a jurisprudência consolidada:
+"Como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância." (AgRg no HC n. 820.927/RJ, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023).
+Ademais, ressalta-se que a decisão agravada foi devidamente fundamentada, amparando-se na impossibilidade de apreciação de temas não submetidos à instância inferior. A gravidade concreta do delito, associada à conduta violenta da agravante, reforça a necessidade da prisão preventiva para garantia da ordem pública, conforme destacado pelo Tribunal de origem.
+Por todo o exposto, concluo pela manutenção da decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
