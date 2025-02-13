@@ -1,0 +1,42 @@
+DECISÃO
+Diante das razões contidas no agravo regimental, reconsidero a decisão de fls. 615/617 e passo à reanálise do REsp de fls. 582/588.
+Trata-se de recurso especial interposto por LÚCIA DE SOUZA ALVES MORAES e OUTROS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fls. 579/580):
+PROCESSUAL CIVIL. AGRAVO LEGAL. ART. 557, CPC. AGRAVO DE INSTRUMENTO. MAJORAÇÃO DE HONORÁRIOS. RAZOABILIDADE E PROPORCIONALIDADE. ART. 20, §4º, DO CPC. AGRAVO LEGAL IMPROVIDO.
+- É firme o entendimento no sentido da possibilidade do relator, a teor do disposto no artigo 557 do Código de Processo Civil, decidir monocraticamente o mérito do recurso, aplicando o direito à espécie, amparado em súmula ou jurisprudência dominante do Tribunal ou dos Tribunais Superiores.
+- In casu, considerando que a solução da questão não envolveu grande complexidade, sem desmerecer o trabalho do causídico, deve ser mantido os honorários advocatícios fixados em R$ 1.000,00, a teor do art. 20, § 4º, do CPC.
+- As razões recursais não contrapõem tais fundamentos a ponto de demonstrar o desacerto da decisão recorrida, limitando-se a reproduzir argumento visando à rediscussão da matéria nele contida.
+- Agravo legal improvido.
+Alegam os recorrentes violação ao art. 20, § 4º, do Código de Processo Civil de 1973.
+Apontam que o montante fixado a título de honorários, em R$ 1.000,00, é ínfimo e não chega a corresponder nem sequer a 1% do valor exequendo.
+Entendem que os honorários deveriam ser arbitrados em 20% do montante da dívida, ante a duração do processo.
+Contrarrazões apresentadas.
+Assim posta a questão, passo a decidir.
+Cuida-se, na origem, de cumprimento de sentença, iniciado na vigência do CPC/1973, por Lúcia de Souza Alves Moraes e outros, em face da Caixa Econômica Federal (CEF), referente à decisão transitada em julgado que condenou a instituição financeira a realizar o pagamento de diferença de rendimento em cadernetas de poupanças.
+Intimada para realizar o pagamento, a CEF realizou o depósito judicial do valor que entendia devido e apresentou impugnação aos cálculos dos autores, a qual foi julgada parcialmente procedente, reconhecendo-se o excesso de execução e fixando como valor correto do débito aquele apurado pela contadoria do Juízo (R$ 1.441.022,07).
+Ao decidir, o magistrado de primeiro grau fixou honorários advocatícios, com base no art. 20, § 4º, do CPC/1973, no montante de R$ 1.000,00 (mil reais), em favor dos exequentes, "ante a pouca complexidade da discussão travada nesta sede" (fl. 531).
+Interposto agravo de instrumento contra essa decisão, a fim de majorar a verba honorária, o TJSP a ele negou provimento, também com base na reduzida complexidade do caso.
+Diante desse contexto, é necessário pontuar que a discussão em debate não se refere à fixação de honorários advocatícios apenas em sede de impugnação de cumprimento de sentença - que possui regramento próprio.
+Da leitura dos autos, verifica-se que os únicos honorários arbitrados em desfavor da parte executada, durante o cumprimento de sentença, foi o montante de R$ 1.000,00 (mil reais), na decisão que acolheu parcialmente a impugnação, conforme se verifica na determinação reproduzida abaixo:
+Sucumbente quanto à maior parte do pedido, condeno a CEF ao pagamento de honorários advocatícios que, ante a pouca complexidade da discussão travada nesta sede, na forma do art. 20, §4.º do Código de Processo Civil, arbitro em R$ 1.000,00 (mil reais).
+Promova a CEF, em 15 (quinze) dias, o pagamento da diferença entre o valor apurado pela contadoria, devidamente atualizado até a data do efetivo pagamento, e aquele já depositado às fls. 647, acrescida dos honorários ora arbitrados. (fl. 532)
+Com efeito, este Superior Tribunal de Justiça tem entendido que os honorários fixados por apreciação equitativa, com base no CPC/1973, em percentual inferior a 1% do valor da causa se afiguram irrisórios, o que permite sua majoração em sede de recurso especial.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO C/C INDENIZATÓRIA. HONORÁRIOS SUCUMBENCIAIS. SENTENÇA PROLATADA NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 1973. PRINCÍPIO TEMPUS REGIT ACTUM. APLICAÇÃO DA EQUIDADE. VALOR IRRISÓRIO DOS HONORÁRIOS. INFERIOR A 1% SOBRE O VALOR DA CAUSA. MAJORAÇÃO. CABIMENTO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Consoante dispunha o art. 20, § 4º, do CPC/1973, nos embargos à execução, o arbitramento dos honorários sucumbenciais dependerá de apreciação equitativa do magistrado. Ademais, esta Corte Superior entende que os honorários fixados em percentual inferior a 1% do proveito econômico pretendido na demanda se afiguram irrisórios, o que se verificou na espécie, tornando imperiosa a sua majoração pelo STJ, a fim de atender aos princípios da razoabilidade e da proporcionalidade.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.106.709/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/9/2024, DJe de 4/9/2024 - grifou-se.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS SOB A ÉGIDE DO CPC DE 1973. APELAÇÃO POSTULANDO A EXCLUSÃO DA VERBA SUCUMBENCIAL. PROVIMENTO DO RECURSO PARA MINORAR A CONDENAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. JULGAMENTO EXTRA PETITA NÃO CONFIGURADO. MONTANTE INFERIOR A 1% DO VALOR DA CAUSA. IRRISORIEDADE. RECURSO PARCIALMENTE PROVIDO.
+ ..  2. Este Tribunal tem relativizado a incidência de sua Súmula 7, excepcionalmente, quando fica demonstrada a irrisoriedade ou a exorbitância da verba honorária sucumbencial fixada.
+3. A irrisoriedade da verba honorária fica caracterizada quando, sob a égide do Código de Processo Civil (CPC) de 1973, ela é fixada em montante inferior a 1% do valor da causa, como na espécie.
+4. Agravo interno a que se dá parcial provimento.
+(AgInt no REsp n. 1.804.691/PA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 10/6/2024, DJe de 17/6/2024 - grifou-se.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE RESCISÃO DE CONTRATOS C/C REINTEGRAÇÃO NA POSSE DE IMÓVEL RURAL C/C INDENIZAÇÕES POR PERDAS E DANOS, LUCROS CESSANTES. IMPROCEDÊNCIA DOS PEDIDOS INICIAIS. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. APLICAÇÃO DO CPC DE 1973. EQUIDADE. REVISÃO EM SEDE DE RECURSO ESPECIAL. EXCEPCIONALIDADE. SÚMULA 7/STJ NÃO APLICÁVEL. HIPÓTESE DE FIXAÇÃO DE VALOR IRRISÓRIO. MAJORAÇÃO. DESVINCULAÇÃO AOS LIMITES PERCENTUAIS PREVISTOS NO § 3º DO ART. 20 DO CPC/73. AGRAVO INTERNO PROVIDO.
+1. De acordo com a jurisprudência do STJ, "nas causas em que não houver condenação, os honorários advocatícios são fixados mediante apreciação equitativa (art. 20, § 4º, do CPC/73), não estando o julgador adstrito aos limites percentuais estabelecidos no § 3º do art 20 do CPC/73, na hipótese de utilizar o valor da causa como critério para a fixação da verba" (AgInt no REsp 1.708.413/PR, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 30/3/2020, DJe de 1º/4/2020).
+2. O entendimento jurisprudencial é de que se admite o exame do quantum fixado a título de honorários advocatícios, em sede de recurso especial, quando for verificada a natureza irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, como ocorre na espécie, em que o montante fixado na origem é inferior a 1% do valor da causa.
+3. No caso, tendo por base os princípios da razoabilidade e proporcionalidade, e ainda dentro de um critério de equidade, entende-se que é adequada a fixação de honorários advocatícios sucumbenciais em 1% sobre o valor atualizado da causa, nos termos do art. 20, §§ 3º e 4º, do CPC/1973, vigente ao tempo da sentença.
+4. Agravo interno provido. Recurso especial parcialmente provido.
+(AgInt no REsp n. 1.688.775/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024 - grifou-se.)
+No caso dos autos, como os honorários de sucumbência foram fixados em valor bastante inferior ao valor exequendo (R$ 1.441.022,07), entendo que o recurso especial deve ser parcialmente provido, a fim de que sejam majorados para o valor correspondente a 1% do valor da causa, o que considero adequado e proporcional para a hipótese dos autos.
+Em face do exposto, reconsiderando a decisão de fls. 615/617, dou parcial provimento ao recurso especial a fim de majorar os honorários de sucumbência para 1% do valor da causa.
+Intimem-se.
+EMENTA
