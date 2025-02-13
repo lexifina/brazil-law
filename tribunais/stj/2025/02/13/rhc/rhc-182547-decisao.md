@@ -1,0 +1,30 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos.
+A defesa alega, em síntese, a ausência dos requisitos para a manutenção da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o provimento do recurso para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Sabe-se que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (RHC 174.619/ES, Relator Ministro Sebastião Reis Júnior, 6ª Turma, j. em 11/04/2023, DJe 16/05/2023).
+O ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade do indivíduo como regra. Desse modo, a prisão antes do trânsito em julgado revela-se cabível tão somente quando, presentes as condições do art. 312 do CPP, estiver concretamente comprovada a existência do "fumus comissi delicti", aliado ao "periculum libertatis", sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Além disso, "em razão de seu caráter excepcional, a prisão preventiva somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282 , § 6º , do CPP" (AgRg no HC 716.740/BA, Relator Ministro Joel Ilan Paciornik, 5ª Turma, j. em 22/03/2022, DJe 07/04/2022).
+No caso, a prisão preventiva foi mantida com base nos seguintes argumentos (e-STJ Fl.104-111):
+Pugna a impetração pela concessão da ordem, para que seja declarada a nulidade do processo desde a intimação para audiência de instrução e julgamento, sob o argumento de que a defesa não teve acesso a todos os documentos anexados aos autos, acarretando ofensa aos princípios do contraditório, ampla defesa e devido processo legal.
+(..)
+1. Nos autos da ação penal tomados sob número 0107953-11.2021.8.13.0079, o Ministério Público do Estado de Minas Gerais imputa a Alex Alves Vieira dos Santos, ora paciente, a concorrência para o homicídio consumado de Vaner Augusto Chaves (art. 121, § 2º, I e IV, do Código Penal), assim como para o conexo delito de adulteração de sinal identificador de veículo automotor (art. 311 do Código Penal).
+(..)
+3.1. Conforme decidi, de forma fundamentada, no caso vertente, embora a defesa técnica argumente não ter tido acesso à integralidade de todos os documentos acostados aos autos (extratos bancários), somente fez o seu reclame ao final da audiência, depois de longas horas de inquirição de testemunhas, antes de iniciados os interrogatórios, deixando transparecer a clara intenção de tumultuar o processo que se desenvolve, certamente, com observância dos princípios da ampla defesa e do contraditório.
+4. Ademais, causa estranheza a alegação da defesa de que não teve acesso à prova concernente às informações de contas e investimentos bancários. Isso porque, conforme se observa do documento de ID 9661189913, a mídia contendo as informações, obtidas por este Juiz, via sistema SISBAJUD, foi juntada aos autos ainda na fase pré-processual, em 8 de junho de 2022.
+(..)
+4.1.2. Chama mais a atenção, ainda, quando se tem nos autos, certidão lançada em 12 de dezembro de 2022, dando conta de que o Dr. Reynaldo de Souza Domingues, advogado do paciente, recebeu cópia das mídias que se encontravam nos autos (ID 9694200372).
+A análise realizada pelo Tribunal de origem encontra-se em linha com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+Com efeito, a alegação de violação ao comando da Súmula Vinculante nº 14 demanda ampla dilação probatória, na medida em que, afirmado pela origem o acesso adequado aos elementos de prova e não apontado, claramente, qual ou quais elementos estariam sendo ilicitamente escamoteados, não há de se falar em ilicitude a ser reparada em sede de "writ".
+É nesse sentido a jurisprudência deste STJ, conforme se extrai do seguinte precedente:
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. CRIME LICITATÓRIO. NULIDADE. CITAÇÃO DO RÉU PARA APRESENTAÇÃO DE RESPOSTA À ACUSAÇÃO SEM A DISPONIBILIZAÇÃO DAS PROVAS COMPARTILHADAS. VIA ELEITA QUE EXIGE PROVA PRÉ-CONSTITUÍDA. INSTRUÇÃO INSUFICIENTE. MATÉRIA ANALISADA PELA CORTE ESTADUAL SOB ENFOQUE DISTINTO DAQUELE PRETENDIDO NO RECURSO. SUPRESSÃO DE INSTÂNCIA.
+1. Não há como se afirmar que a defesa do recorrente não teve acesso às provas compartilhadas, pois não restou evidenciado se o Ministério Público procedeu a juntada aos autos da integralidade das interceptações telefônicas (áudios, transcrições e respectivas decisões), porquanto contraditórias as informações trazidas pelo recorrente e os fundamentos deduzidos no acórdão hostilizado.
+2. A via eleita é de cognição sumária e célere, razão pela qual, necessariamente, deve ser instruída com prova pré-constituída suficiente para assegurar ao julgador a verificação e a declaração do alegado constrangimento ilegal, o que não ocorreu na espécie. (..)
+(RHC 65574 / SP, RELATOR Ministro NEFI CORDEIRO, SEXTA TURMA, DATA DO JULGAMENTO 04/1 0/2016, DATA DA PUBLICAÇÃO/FONTE DJe 17/10/2016)
+Por fim, é assente nesta Corte que "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC 844.095/PE, Relator Ministro Ribeiro Dantas, 5ª Turma, j. em 18/12/2023, DJe 20/12/2023).
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
