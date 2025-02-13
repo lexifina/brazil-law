@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo interposto por ROMILTON QUEIROZ HOSI contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO no julgamento da Apelação Criminal n. 0000227-50.2019.4.03.6128.
+Consta dos autos que o agravante foi condenado, em primeiro grau, à pena de 4 (quatro) anos e 1 (um) mês de reclusão, em regime inicial fechado, e ao pagamento de 175 (cento e setenta e cinco) dias-multa, no valor mínimo unitário, como incurso no art. 304 c/c o art. 297 do Código Penal.
+O Tribunal de origem deu parcial provimento ao recurso da defesa para reduzir a pena-base e redimensionar as penas impostas ao agravante, em acórdão assim ementado (e-STJ fls. 498/499):
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. USO DE DOCUMENTO FALSO. ART. 304 C/C ART. 297 DP CP. MATERIALIDADE E AUTORIA COMPROVADAS. ABSORÇÃO DA FALSIDADE IDEOLÓGICA. REDUÇÃO DA PENA-BASE. COMPENSAÇÃO DA REINCIDÊNCIA COM A CONFISSÃO. ALTERAÇÃO DO REGIME INICIAL. PRISÃO PREVENTIVA E PRINCÍPIO DA HOMOGENEIDADE. RECURSO MINISTERIAL DESPROVIDO. APELAÇÃO DEFENSIVA PROVIDA EM PARTE.
+1. A materialidade e a autoria restaram devidamente demonstradas.
+2. A falsidade ideológica imputada é desdobramento causal de uma única ação, razão pela qual, pelo princípio da consunção, resta aquela infração absorvida pelo uso de documento falso.
+3. O uso de documentos falsos, no mesmo contexto fático, configura um único crime
+4. O julgador não tem formação técnica de profissional da saúde, de sorte que não pode assentar personalidade distorcida, sendo, além do mais, tal circunstância ofensiva ao direito penal do fato. Nesse viés, a jurisprudência do STJ é no sentido de que mesmo condenações transitadas em julgado não são aptas a negativar o vetor indigitado.
+5. A conduta social se restringe à vida comunal, não sendo, assim, infirmada por anotações criminais - estas pertinentes aos maus antecedentes
+6. Imputação especulativa de delito pelo qual o réu sequer foi denunciado não gera desvalor à culpabilidade.
+7. Redução da pena-base.
+8. Não há incidência da agravante do art. 61, II, "b", do Código Penal, no que tange a assegurar a impunidade, quando a autoria do delito prévio é conhecida.
+9. Compensação da atenuante da confissão com a agravante da reincidência, por se tratarem de circunstâncias igualmente preponderantes
+10. Alteração do regime inicial de cumprimento da pena.
+11. Pelo princípio da homogeneidade, a prisão preventiva deve ser cumprida de maneira consonante com o regime semiaberto.
+12. Apelação parcialmente provida.
+(TRF3, ApCrim 0000227-50.2019.4.03.6128, QUINTA TURMA, Relator(a): DESEMBARGADOR FEDERAL PAULO FONTES, Julgamento: 22/02/2021, e-DJF3 Judicial 1 Data:11/03/2021)
+Foram opostos embargos de declaração, sob a alegação de omissão quanto à competência da Justiça Estadual para julgamento do delito do art. 297 do Código Penal, rejeitados pelo Tribunal de origem por ausência do vício (e-STJ fls. 513/519).
+Em novos embargos, a defesa do agravante sustentou omissão quanto à prisão preventiva e levantou questões de ordem pública, os quais foram, em decisão monocrática do relator, parcialmente acolhidos tão somente para revogar a prisão preventiva (e-STJ fl. 620/623).
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, a defesa alegou violação aos arts. 250, § 1º, a, 241 e 245, todos do Código de Processo Penal.
+Sustentou a errada aplicação das regras de experiência, a utilização de prova ilícita e a nulidade da prova produzida. Subsidiariamente, pretendeu o reconhecimento do flagrante provocado e de crime impossível, com a consequente atipicidade do fato.
+O recurso especial foi inadmitido.
+Daí o presente agravo em recurso especial, no qual se alega não incidirem os óbices elencados (e-STJ fls. 765/787).
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+Contraminuta apresentada (e-STJ fls. 815/823).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo não conhecimento ou desprovimento do agravo em recurso especial (e-STJ fls. 838).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+Verifica-se que a tese deduzida no recurso especial não foi debatida de forma específica na origem, sendo patente a falta de prequestionamento.
+Com efeito, as alegações concernentes à validade das provas e à tipicidade dos fatos imputados só foram trazidas pela defesa do agravante em sede de segundos embargos de declaração, opostos em face do acórdão proferido pelo Tribunal de origem em recurso de apelação. E, na ocasião, por inexistir omissão, as questões não foram apreciadas em decisão monocrática.
+Ademais, da decisão monocrática não foi interposto agravo interno , não tendo o agravante esgotado as instâncias ordinárias antes de interpor o recurso especial.
+Nesse sentido, foi precisa a decisão do Tribunal de origem ao inadmitir o recurso especial (e-STJ fls. 755/756):
+As teses defendidas nos itens 2.2.1 e 2.2.2 do recurso especial, consistentes em supostas ilegalidades praticadas pelos policiais no cumprimento do mandado de prisão (invasão de domicílio e fishing expedition), não foram objeto de análise pelas instâncias ordinárias.
+Nesse sentido bem apontou o Ministério Público Federal em suas contrarrazões (fls. 7 do id 277815487) ao ponderar que os temas suscitados "sequer foram alegados em primeiro grau, de maneira que não é possível em sede de recurso especial ventilar questão nova"
+De fato, da análise do julgamento da apelação verifica-se que o recorrente se insurgiu com os seguintes argumentos:
+A defesa, em razões recursais (fls. 402/408), alega, em síntese: (i) anulação da sentença para que seja analisado todos os crimes imputados pela denúncia; (ii) revogação da prisão preventiva; (iii) atipicidade; (iv) inexistência de espontaneidade na conduta; (v) crime impossível; (vi) pena-base no mínimo legal; (vii) afastamento da reincidência e reconhecimento de confissão; (viii) regime inicial aberto; (ix) substituição da pena.
+Já por ocasião dos primeiros embargos declaratórios, o recorrente manifestou haver omissão "no que tange a competência da Justiça Estadual para processamento e julgamento do delito de falsificação de carteira nacional de habilitação (CNH)".
+A falta de manifestação judicial a respeito da questão discutida constitui impedimento ao recurso, pois o prequestionamento configura requisito formal indispensável para o processamento e posterior análise do recurso interposto.
+ ..
+Ainda há de ser observado que não constitui prequestionamento a apresentação da tese nos segundo embargos declaratórios e isso se dá por dois motivos. A um, porque o relator sobre ela não se manifestou, tendo, ao contrário, asseverado que a prisão não era fato novo, que estava sendo arguida pela primeira vez nos autos a sua nulidade e que o processo penal não admitia a chamada nulidade de algibeira. Portanto, não se debruçou especificamente sobre a tese. A dois porque se tratou de manifestação monocrática do relator, e para ensejar recurso à instância superior seria necessário o pronunciamento do órgão colegiado, com o esgotamento da instância ordinária.
+Destarte, no ponto, tem incidência a vedação prescrita na Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo". Ademais, incide a vedação de interposição de apelo extremo em face de decisões monocráticas contida na Súmula 281/STF.
+Sobre o tema, confiram-se os julgados:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. CONHECIDO. RECURSO ESPECIAL. AMEAÇA NO ÂMBITO DOMÉSTICO. FIXAÇÃO DE INDENIZAÇÃO POR DANO MORAL EM SENTENÇA CONDENATÓRIA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO E DESPROPORCIONALIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu recurso especial fundamentado no art. 105, III, "a", da Constituição Federal. O recurso especial questiona a manutenção, pelo tribunal de origem, da indenização de R$ 3.000,00 fixada a título de reparação por dano moral à vítima. A defesa alega desproporcionalidade do valor fixado, bem como falta de fundamentação idônea para a fixação de expressivo valor, uma vez que não teria havido fundamentação suficiente quanto à extensão do dano ou à capacidade econômica das partes.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) examinar a possibilidade de conhecimento do recurso especial diante da ausência de manifestação da corte de origem sobre o ponto, mesmo após oposição de embargos de declaração (ii) verificar se houve fundamentação suficiente para o valor da indenização por dano moral fixado na sentença condenatória. III. RAZÕES DE DECIDIR
+3. Esta Corte Superior entende que o prequestionamento é requisito indispensável para o conhecimento de recurso especial. O Tribunal de origem deve se manifestar expressamente sobre as questões suscitadas, incluindo aquelas tratadas nos dispositivos legais tidos como violados, conforme prevê o art. 619 do CPP.
+4. Na ausência de manifestação expressa sobre a proporcionalidade da indenização fixada para reparação de dano moral, a defesa deveria ter alegado violação ao art. 619 do CPP, de modo a permitir o exame da omissão e possibilitar o uso do prequestionamento ficto.
+5. Segundo jurisprudência do STJ, o prequestionamento ficto pode ser aplicado mesmo em matéria penal, desde que o recorrente indique a violação ao art. 619 do CPP, viabilizando o enfrentamento da questão em instância superior (AgRg no REsp 1.669.113/MG).
+6. No caso, a ausência de alegação de omissão pelo art. 619 do CPP impede o conhecimento do recurso especial, conforme orientam as Súmulas 211 do STJ e 282 e 356 do STF. IV. DISPOSITIVO
+7. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.332.309/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024, grifei.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 59 DO CÓDIGO PENAL. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. CONTRADIÇÃO CONSTATADA. CORREÇÃO. SÚMULA 211/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. OMISSÃO INEXISTENTE. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Cumpre salientar que são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+2. Na hipótese, assiste razão ao embargante ao afirmar que há contradição no acórdão embargado, haja vista que, de fato, o dispositivo de lei relativo ao art. 59 do CP foi devidamente apontado como violado, não sendo o caso de incidência da Súmula 284 do STF, cabendo, portanto, o acolhimento dos embargos de declaração, quanto ao ponto, a fim de decotar do acórdão recorrido a parte que explana a deficiência de fundamentação.
+3. Não obstante, tal verificação não modifica o resultado do julgamento proferido, haja vista que a matéria não pode ser conhecida nesta Corte, diante da incidência da Súmula 211 do STJ, haja vista que a questão da desproporcionalidade da pena-base não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração, restando ausente o requisito do prequestionamento, não havendo que se falar em obscuridade do acórdão embargado.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+(EDcl no AgRg nos EDcl no AREsp n. 2.269.753/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. APELO EXTREMO MANEJADO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. NÃO ESGOTAMENTO DAS VIAS ORDINÁRIAS. CORRETA INCIDÊNCIA DA SÚMULA 281/STF. MANUTENÇÃO.
+I - No caso, verifica-se que não houve exaurimento das instâncias ordinárias porquanto seria cabível a interposição de agravo interno contra a decisão monocrática que rejeitou os embargos de declaração, em virtude da irregularidade na representação processual, atraindo a incidência da Súmula 281 do STF.
+II - Outrossim, descabida a alegação de nulidade da decisão monocrática em tela, porquanto verifica-se que houve a prévia intimação dos advogados signatários dos embargos para regularização da representação, não sendo caso de intimação pessoal do acusado ou mesmo da advogada que atuava no feito anteriormente. Precedentes.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.789.566/AM, relator Ministro Felix Fischer, Quinta Turma, julgado em 30/3/2021, DJe de 13/4/2021, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. DECISÃO SINGULAR. AGRAVO INTERNO. AUSÊNCIA. MATÉRIA SUSCITADA NO RECURSO ESPECIAL. NÃO EXAURIMENTO DA INSTÂNCIA. SÚMULA N. 281 DO STF. EXISTÊNCIA DE JULGAMENTO ANTERIOR COLEGIADO NÃO TEM O CONDÃO DE POSSIBILITAR A INTERPOSIÇÃO DE RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese em que os embargos de declaração, opostos na origem, são julgados de forma monocrática pelo relator do feito é necessária a interposição de agravo interno para que haja o exaurimento da instância. Incidência da Súmula 281 do STF.
+2. O julgamento colegiado de embargos de declaração, anterior à decisão monocrática, não alicerça o exaurimento de instância.
+3. Não comprovado o dissídio jurisprudencial, tampouco realizado o necessário cotejo analítico entre os arestos, a fim de demonstrar a similitude fática entre os casos confrontados e a interpretação divergente, conforme exigem os arts. 1.029, § 1º, do CPC e 255 §§ 1º e 2º, do RISTJ. A simples transcrição de ementas dos julgados não tem o condão de caracterizar o cotejo analítico.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.072.277/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/11/2018, DJe de 6/12/2018, grifei.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
