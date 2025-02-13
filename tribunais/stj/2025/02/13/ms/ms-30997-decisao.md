@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por Clayton da Silva Maio contra ato atribuído, inicialmente, ao Diretor Presidente da Fundação Getúlio Vargas e, em seguida, ao Ministro Presidente da Escola Nacional de Formação de Magistrados - Enfam, relativo ao indeferimento do pedido de isenção de pagamento da taxa de inscrição no Exame Nacional da Magistratura - Enam.
+Segundo a vestibular, o demandante preenche os requisitos estabelecidos no edital (item 6.2), mas teve seu pleito de isenção rejeitado, "mesmo estando regularmente cadastrado e atualizado sua inscrição no CadÚnico" (fl. 29), pelo que busca ordem judicial assecuratória do ressarcimento do valor por ele pago.
+O writ foi inicialmente proposto perante a 6ª Vara da Subseção Judiciária de São João de Meriti/RJ, que declinou da competência em favor deste Tribunal Superior, após o impetrante emendar a inicial, para apontar como autoridade coatora o Ministro Presidente da Enfam (fls. 100/104).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Nos termos do art. 105, I, b, da CF, compete a este Superior Tribunal de Justiça, originariamente, processar e julgar "os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Na linha do art. 6º, § 3º, da Lei n. 12.016/2009 e consoante firme orientação jurisprudencial do STJ, "a autoridade coatora, para fins de impetração de mandado de segurança, é aquela que pratica ou ordena, de forma concreta e específica, o ato ilegal, ou, ainda, aquela que detém competência para corrigir a suposta ilegalidade, conforme o art. 6º, § 3º, da Lei 12.016/2009" (AgInt no RMS n. 63.582/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 7/6/2021, DJe de 10/6/2021).
+No caso dos autos, a despeito de a exordial indicar como autoridade coatora Ministro deste Sodalício, o ato de indeferimento foi praticado pela Fundação Getúlio Vargas, como deixa ver o documento de fl. 17. Ademais, nos termos do item 3.4 do Edital de Abertura n. 01/2024, " a  Fundação Getulio Vargas será responsável pela organização e execução do certame, supervisionada pelas Comissões Executiva e Acadêmica, com auxílio de subcomissões instituídas pela Escola Nacional de Formação e de Aperfeiçoamento de Magistrados - ENFAM" (fl. 44).
+É caso, assim, de reconhecimento da impertinência subjetiva da autoridade impetrada à lide , com a consequente extinção do feito sem resolução de mérito.
+ANTE O EXPOSTO, reconheço a ilegitimidade passiva do Ministro Presidente da Enfam, pelo que extingo o feito sem resolução de mérito, nos termos do art. 485, VI, do CPC.
+Custas pela parte impetrante, ficando a execução suspensa, conforme o art. 98, § 3º, do CPC.
+Sem honorários advocatícios, nos termos do art. 25 da Lei n. 12.016/2009 e da Súmula n. 105/STJ.
+Intimem-se.
+EMENTA
