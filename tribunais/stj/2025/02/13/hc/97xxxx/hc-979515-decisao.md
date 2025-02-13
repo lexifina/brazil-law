@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JULIO CESAR HENRIQUE DA SILVA PEREIRA, em que se aponta como autoridade coatora a Nona Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi absolvido, em primeira i nstância, da imputação de tráfico de drogas, mas teve a sentença reformada em apelação, sendo condenado com base no art. 33 da Lei n. 11.343/2006. A defesa alega que a condenação foi baseada em um equívoco quanto à existência de reincidência por tráfico de drogas, o que não existe, conforme revisão criminal que desclassificou a condenação anterior para porte de drogas para consumo próprio (art. 28 da Lei n. 11.343/2006) - fl. 6.
+Sustenta que a decisão reformadora do acórdão foi baseada em hipóteses e não em provas concretas, contrariando a jurisprudência do Supremo Tribunal Federal (STF), que não permite a subsunção de dedicação a atividades criminosas apenas pela quantidade de entorpecente (fl. 8). Alega, ainda, que a quantidade e a natureza da droga apreendida foram valoradas tanto na primeira fase quanto na segunda fase, caracterizando bis in idem (fl. 7), e que o regime inicial fechado imposto contraria o Tema de Repercussão Geral n. 972 do STF (fl. 9).
+Afirma que o paciente possui condições pessoais favoráveis, como ser trabalhador e ter residência fixa, e que não há provas de que se dedique a atividades criminosas ou integre organização criminosa, devendo ser aplicada a minorante do tráfico privilegiado (fl. 7).
+Requer, liminarmente, a concessão de salvo-conduto para preservar a liberdade do paciente, restabelecendo a sentença de absolvição de primeiro grau (fls. 14). Subsidiariamente, pede a adequação da pena, reconhecendo o bis in idem, a concessão do redutor de pena do art. 33, § 4º, da Lei n. 11.343/2006, e a fixação do regime de cumprimento de pena conforme o art. 33 do Código Penal, em conformidade com o Tema de Repercussão Geral n. 972 do STF (fl. 15).
+É o relatório.
+A insurgência merece pronta resolução.
+Ao condenar o paciente, o Tribunal teceu os seguintes fundamentos (fls. 24/26 - grifo nosso):
+ ..
+Nesse ponto, não decidiu o Juízo a quo com o costumeiro acerto, pois, tal como bem exposto pelo Ministério Público no inconformismo, o fato de a Polícia Civil não ter encontrado tóxicos na casa de Júlio César, ou apreendido seu telefone celular, após o cometimento do crime de que trata este processo, não o isenta da responsabilidade pelo delito ora analisado.
+Deve ser salientado que, após a prática dos fatos e à vista do comprovado envolvimento de Júlio César com o tráfico de entorpecentes, juntamente com Gustavo e Linária, foi solicitada e obtida autorização judicial para busca e apreensão na casa deste réu.
+Os milicianos, ao entrarem em sua residência, depararam-se com cães agressivos, cuja contenção atrasou a abordagem e possibilitou a fuga de Júlio César. Como a Polícia já sabia que o réu tinha o hábito de fugir, uma equipe o aguardava do outro lado da casa. Em razão disso, ele regressou e se apresentou. O Investigador de Polícia mencionou que Júlio pode ter se desvencilhado de seu telefone celular durante a fuga.
+O comportamento de Júlio foi suspeito, evadindo se da Polícia pelos telhados das casas vizinhas, momento em que provavelmente escondeu ou desvencilhou-se de eventuais tóxicos existentes em sua residência e seu telefone celular.
+De qualquer modo, a prova é farta no sentido de que, no momento da abordagem policial na data em que foi apreendido o entorpecente na casa de Linária, Júlio encontrava-se junto com Gustavo, tendo o entorpecente sido então apreendido.
+Pontue-se que o vídeo juntado pela Defesa aos autos, no qual se ouve supostamente algum Policial, sequer identificado, dizendo "fala que é dele", é irrelevante para o deslinde do processo.
+Sequer a Defesa, que apresentou a gravação nos autos, soube indicar quem teria dito tal frase.
+O Policial Militar Wellington informou, ademais, que jamais a proferiu, enquanto o Policial Renan esclareceu que não se recordava de ter ouvido tal frase, mas que, se alguém a disse, deve ter sido uma conversa entre os Policiais.
+Tal como ressaltado pela acusação, mais importante que os depoimentos dos Policiais é, contudo, o interrogatório do acusado Gustavo, pessoa que estava sendo presa no momento registrado na filmagem. Conforme ele informou, não ouviu qualquer Policial dizendo a frase utilizada pelo Juízo de Altinópolis para fundamentar a absolvição de Júlio César.
+Trata-se de informação pinçada nos autos e retirada de contexto pela esforçada Defesa, com o intuito de desacreditar a versão firme, segura e uníssona dos Policiais Militares, que visualizaram o momento em que Júlio César entregou o entorpecente para a corré Linária.
+É, portanto, de rigor a condenação de Júlio César também.
+ ..
+Como se vê do trecho acima colacionado, o Tribunal a quo foi categórico ao afirmar que, diante do contexto fático que lhe foi apresentado, não há dúvidas de que o ora paciente praticou o delito de tráfico de drogas.
+Nesse toar, como se sabe, não há como se discutir a negativa de coautoria e a ausência de provas na via do habeas corpus, pois demandaria o reexame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe foi imputado é matéria cuja análise foi reservada à ação penal.
+Em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva (RHC n. 145.064/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/6/2021).
+Ademais, importante ressaltar que a condenação não foi baseada na reincidência do réu, como visto no trecho acima colacionado.
+Por outro lado, não há falar em bis in idem, tendo em vista que a quantidade e a natureza das drogas foram consideradas apenas na primeira fase da dosimetria.
+Também não há falar em incidência da minorante do tráfico privilegiado, uma vez que o réu possui reincidência múltipla e específica.
+Por fim, diante do quantum de pena fixado (7 anos, 3 meses e 15 dias de reclusão), da fixação da pena-base acima do mínimo legal e da reincidência, o regime deve ser mesmo o fechado (nos termos do art. 33 do Código Penal).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. PLEITO PELA ABSOLVIÇÃO. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NESTA VIA. DOSIMETRIA. BIS IN IDEM. NÃO OCORRÊNCIA. REDUTOR DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. RÉU MÚLTIPLO REINCIDENTE. REGIME FECHADO. ALTERAÇÃO. IMPOSSIBILIDADE.
+Petição inicial indeferida liminarmente.
