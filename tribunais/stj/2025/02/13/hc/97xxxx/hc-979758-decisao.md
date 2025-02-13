@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de LUCAS NUNES DE ARAUJO - condenado por roubo circunstanciado -, atacando-se o acórdão de apelação criminal proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (fls. 9/26), não comporta processamento.
+Com efeito, busca a impetração redimensionar a pena imposta - na condenação proferida na Ação Penal n. 5047212-48.2024.8.09.0006 (fls. 549/560 - da 2ª Vara Criminal da comarca de Anápolis/GO) -, com o afastamento da agravante de dirigir a atividade dos demais agentes (art. 62, I, CP), ao argumento de que não há comprovação de que o paciente tenha induzido os demais a cometer o crime, limitando-se sua participação a uma sugestão sem influência determinante.
+Entretanto, não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois concluir de forma diversa, pela incidência da agravante de dirigir a atividade dos demais agentes (art. 62, I, CP) - fundamentada no fato de que conclui-se que a ideia de realizar o roubo foi de Lucas, que era o proprietário dos simulacros de arma de fogo, e num primeiro momento o alvo seria uma farmácia, mas Lucas alegou que teria pouco dinheiro, apontando para a empresa vítima, onde entraram sob seu comando. Não obstante os demais acusados terem participado do crime de maneira voluntária e consciente, ficou evidenciado que foram dirigidos por Lucas, idealizador e condutor da empreitada criminosa (fl. 18) -, demandaria reexame probatório, inviável na via eleita.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS IMPETRADO NO PRAZO RECURSAL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
