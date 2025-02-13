@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Rogerio Schietti Cruz.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Messod Azulay Neto, Daniela Teixeira, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de dissenso interpretativo entre as Turmas que compõem a Terceira Seção impede o processamento dos embargos de divergência, nos termos do art. 266, § 2º, do RISTJ.
+2. Agravo regimental não provido.
+RELATÓRIO
+FLÁVIO LUIS SANTOS interpõe agravo regimental contra a decisão de fls. 2.205-2.207, que indeferiu liminarmente os embargos de divergência, porquanto não identificada a existência de divergência jurisprudencial entre o acórdão recorrido e o paradigma apresentado.
+Em suas razões, o insurgente afirma, em síntese, que "não se discute se a fundamentação empregada foi genérica, mas sim a falta de apreciação em relação a tese de violação ao art. 381, III do CPP, pela nulidade da sentença por julgar a ação penal de forma citra petita ignorando importante tese da defesa (flagrante pre- parado)" (fl. 2.216).
+Diante disso, requer "seja conhecido, examinado e provido este Agravo Regimental para conhecer e dar total provimento aos embargos de divergência, no quanto apresentado" (fl. 2.219).
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de dissenso interpretativo entre as Turmas que compõem a Terceira Seção impede o processamento dos embargos de divergência, nos termos do art. 266, § 2º, do RISTJ.
+2. Agravo regimental não provido.
+VOTO
+Em que pesem os argumentos externados pelo insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos (fls. 2.205-2.206, destaques no original):
+FLÁVIO LUIS SANTOS opõe embargos de divergência contra acórdão proferido pela Quinta Turma desta Corte, que negou provimento ao agravo regimental, no qual pretendia, entre outras coisas, fosse reconhecida a nulidade do processo porque não apreciada tese defensiva.
+Em suas razões, afirma o insurgente que o acórdão embargado divergiu do acórdão proferido pela Sexta Turma, no R Esp 1.410.486/RS, porquanto "para a C. 5ª Turma, não há necessidade o enfrentamento de todas as teses defensivas, enquanto para a 6ª Turma há, sob pena de afronta ao artigo 381, III, do CPP" (fl.2.162).
+Decido.
+No âmbito desta Corte, como cediço, os embargos de divergência tem a finalidade de uniformizar a jurisprudência interna; direciona-se a dirimir controvérsias jurídicas de mérito em que os Órgãos Fracionários, malgrado tratem do mesmo objeto e apliquem a mesma legislação federal, proferem pronunciamentos em sentidos distintos ou opostos.
+No caso, não observo a existência de divergência jurisprudencial. De fato, embora a solução dada para o acórdão embargado e aquela apresentada pelo paradigma possam sugestionar o dissenso interpretativo, não há como contornar o fato de que a tese jurídica apresentada por ambos os arestos é a mesma e se alinham, de modo que a solução um pouco diferente dada a um e a outro caso se baseia na própria natureza da discussão, que demanda sempre a análise do caso concreto.
+Com efeito, em ambos os casos é harmônico o entendimento (a tese apresentada) de que o magistrado não é obrigado a responder todas as questões e teses deduzidas pela defesa, sendo suficiente que exponha os fundamentos que embasam a decisão. Nesse sentido, destaco o recente aresto proferido pela própria Sexta Turma:
+ ..  A teor da jurisprudência desta Corte, os embargos declaratórios não se prestam para forçar o ingresso na instância extraordinária se não houver omissão a ser suprida no acórdão, nem fica o juiz obrigado a responder a todas as alegações das partes quando já encontrou motivo suficiente para fundar a decisão (AgRg no Ag n. 372.041/SC, Ministro Hamilton Carvalhido, Sexta Turma, DJ 4/2/2002), de forma que não há falar em negativa de prestação jurisdicional apenas porque o Tribunal local não acatou a pretensão deduzida pela parte (AgRg no R Esp n. 1.220.895/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, D Je 10/9/2013). (R Esp n. 1.961.901/AC, relator Ministro Sebastião Reis Júnior, D Je 22/3/2024)
+A diferença entre ambos os arestos (recorrido e o paradigma), que não se traduz em divergência, está no fato de que, no paradigma, um dos temas analisados teve a fundamentação genérica. Tal situação não significa obrigação de que sejam respondidas todas as questões defensivas, mas que aquelas que foram analisadas contenham fundamentação adequada.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Como salientado pelo referido decisum, os casos confrontados pelo insurgente não apresentam divergência jurisprudencial que autorize o processamento dos embargos de divergência.
+De fato, em ambos os casos é harmônico o entendimento (a tese apresentada) de que o magistrado não é obrigado a responder todas as questões e teses deduzidas pela defesa, sendo suficiente que exponha os fundamentos que embasam a decisão. Esse é o ponto central da divergência, tanto que a defesa alegou, nos próprios embargos de divergência, o seguinte (fl. 2.160):
+Ou seja, no presente caso entendeu-se que a omissão em analisar teses defensivas pela sentença de primeiro grau não configuraria nulidade, uma vez que "o magistrado não estaria obrigado a responder expressamente todos os argumentos das partes" (sic.) e o fato do TJSP ter julgado apelação supriria a necessidade de se analisar todas as teses expostas no grau inferior.
+Contudo, entendimento diverso é aquele explanado pela Sexta Turma, nos autos do R Esp 1.410.486/RS (Doc.01):
+Embora nesta oportunidade o insurgente assegure que a discussão se centra na falta de apreciação de uma das teses defensivas, relacionada à suposta existência de flagrante preparado, observa-se, em relação a isso e diversamente do que alega, que o acórdão ainda tratou desse aspecto, quando pontuou (fl. 2.138, destaquei):
+"Considerando, então, a moldura fática que efetivamente foi delimitada pelo Tribunal de origem, o aresto embargado explicou o porquê de não existir flagrante preparado no caso, com espeque em precedente desta Corte Superior sobre o tema".
+À vista do exposto, nego provimento ao agravo regimental.
