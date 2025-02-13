@@ -1,0 +1,29 @@
+DECISÃO
+HENRIQUE SILVA DE JESUS agrava de decisão que não admitiu seu recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios (Apelação Criminal n. 0708001-31.2023.8.07.0009).
+Consta dos autos que o recorrente foi condenado a 7 anos, 3 meses e 15 dias de reclusão mais multa, no regime fechado, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, bem como a 1 ano, 5 meses e 15 dias de detenção pelo delito do art. 12 da Lei n. 10.826/2006.
+Nas razões do recurso especial, a defesa postula a absolvição do réu, por insuficiência de provas.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+No que tange à pretendida absolvição do réu, faço lembrar que, no processo penal brasileiro, em razão do sistema da persuasão racional, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante a devida e suficiente fundamentação.
+O Tribunal de origem manteve a condenação do réu pela prática do crime de tráfico de drogas, nos seguintes termos (fls. 429-438, grifei):
+De fato, a prova coligida aos autos é robusta no sentido de que o apelante foi preso em flagrante pela prática do crime de tráfico de drogas, tendo ele efetivamente realizado o ato de mercancia de substância de uso proscrito, nos termos da Lei 11.343/06 e da Portaria 344/1998, o que se observa diante dos relatos dos policiais responsáveis pela prisão em flagrante do ora apelante, ratificados em Juízo, e da prova pericial produzida, atestando a natureza e a quantidade da droga.
+ ..
+Ocorre que, em que pese a negativa de autoria da traficância alegada pela defesa do apelante, os depoimentos dos policiais, ratificados em Juízo, são harmônicos e coesos a respaldar a constatação de que o apelante praticou o delito de tráfico de drogas.
+Conforme se extrai da prova produzida, a Equipe de Inteligência da Polícia Militar monitorava um veículo com indivíduo suspeito de estar realizando tráfico de drogas sendo solicitado aos policiais que realizavam patrulhamento na região que acompanhassem e abordassem tal veículo. Segundo depoimentos dos policiais, quando o carro parou, o réu, ao perceber a aproximação dos policiais, saiu correndo, deixou uma sacola no chão e foi em direção ao interior da sua casa, onde foi efetuada a prisão em flagrante.
+Registre-se que dentro da sacola foram encontradas duas porções de maconha com massa de 72,12g (setenta e duas gramas e doze centigramas) e no interior da residência foram apreendidos mais sete porções de maconha perfazendo massa de 161,38g (cento e sessenta e uma gramas e trinta e oito centigramas), 20 porções de cocaína pesando 38,93g (trinta e oito gramas e noventa e três centigramas), sete cartuchos calibre 38, balança de precisão, caderno de anotações, rolo de papel filme, dinheiro e uma faca com resquícios de drogas, consoante se observa do Auto de Apresentação e Apreensão (ID 54590124).
+ ..
+Do que se observa das razões de apelo, tem-se que a Defesa apresenta argumentos que não são incapazes de afastar a conduta do acusado que se amolda ao tipo penal descrito no artigo 33, caput, da Lei nº 11.343/2006.
+ ..
+Em que pese o apelante afirmar que a casa onde foi preso não era sua, chama atenção ao fato de que as munições ali encontradas são exatamente do calibre da arma com ele apreendida recentemente, sendo por isso autuado e condenado por porte irregular, conforme se observa nos autos 0703852- 89.2023.8.07.0009.
+Ademais, no depoimento do informante Vianey, ao contrário do afirmado pela Defesa, não se observam declarações capazes de infirmar o declarado pelos policiais na medida em que afirmou não ter saído do carro em momento algum, evadindo-se quando avistou policiais armados chegando.
+ ..
+Do mesmo modo, as alegações de que os policiais não foram capazes de identificar ou descrever as características do veículo que o réu estava ou a falta de apresentação da sacola que teria sido por ele desprezada, em nada retira a tipicidade da conduta do apelante.
+Concluiu a Corte de origem que "as provas colacionadas aos autos são harmônicas e conclusivas no sentido de que o acusado praticou o crime de tráfico de drogas, não havendo que se falar em absolvição" (fl. 438, grifei).
+Pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão recorrido, verifico que as instâncias ordinárias, depois de minuciosa análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos a ensejar a condenação do acusado pelo crime de tráfico ilícito de entorpecentes (art. 33, caput, da Lei n. 11.343/2006).
+Aliás, no tocante à valoração dos depoimentos prestados pelos policiais, é de salutar importância registrar o entendimento desta Corte Superior de que "a eficácia probatória do testemunho da autoridade policial não pode ser desconsiderada tão somente pela sua condição profissional, sendo plenamente válida para fundamentar um juízo, inclusive, condenatório" (HC n. 485.765/TO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 28/2/2019, grifei)
+Para desconstituir a conclusão alcançada pelas instâncias ordinárias -como pretende a defesa -, seria necessário, nesta oportunidade, realizar revolvimento de todo o conjunto fático-probatório produzido nos autos, procedimento vedado segundo o teor da Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
