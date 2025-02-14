@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Marcus Vinicius Gomes Barretos - condenado pelos crimes de receptação e roubo majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás (Apelação Criminal n. 5678482-03.2024.8.09.0051), não comporta processamento.
+Com efeito, a impetração visa à aplicação da fração máxima de redução da pena pela semi-imputabilidade, conforme previsto no art. 26, parágrafo único, do Código Penal, ao argumento de que a decisão do Tribunal a quo desconsiderou o laudo pericial, aplicando a fração mínima de redução com base em impressões subjetivas do Juízo de primeira instância, em desacordo com a prova técnica e a jurisprudência consolidada dos Tribunais Superiores.
+Requer, assim, a aplicação da fração máxima de redução da pena, ou, subsidiariamente, a aplicação de um patamar intermediário, garantindo-se a correta individualização da pena e a observância dos princípios constitucionais da proporcionalidade, legalidade e motivação das decisões judiciais.
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, não há flagrante ilegalidade a ser sanada, porquanto o magistrado sentenciante, no exercício de sua discricionariedade vinculada, aplicou a fração de 1/3, por entender que a semi-imputabilidade do réu era reduzida, tendo em vista o seu elevado grau de discernimento (fl. 11). Ademais, r ever tal conclusão demandaria o revolvimento do conjunto fático-probatório, providência incompatível com a via eleita, caracterizada pelo rito célere e de cognição sumária.
+Nesse contexto, inexiste constrangimento ilegal manifesto capaz de justificar o processamento excepcional da impetração.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DE RECEPTAÇÃO E ROUBO MAJORADO. SEMI-IMPUTABILIDADE. REDUÇÃO DA PENA. ART. 26, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. IMPETRAÇÃO VISANDO À APLICAÇÃO DA FRAÇÃO MÁXIMA. DECISÃO DO TRIBUNAL A QUO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DISCRICIONARIEDADE VINCULADA DO MAGISTRADO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INCOMPATIBILIDADE COM A VIA ELEITA.
+Writ indeferido liminarmente.
