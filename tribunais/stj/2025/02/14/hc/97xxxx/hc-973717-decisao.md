@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em favor de WESLEY MARTINS ROCHA - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 1501476-67.2024.8.26.0548) -, em que se aponta como autoridade coatora a SÉTIMA CÂMARA DE DIREITO CRIMINAL DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação Criminal n. 1501476-67.2024.8.26.0548), comporta parcial acolhimento.
+B usca a impetração o reexame da dosimetria da pena imposta ao paciente na ação penal que tramitou perante o Juízo de Direito da 6ª Vara Criminal do Foro de Campinas/SP (Ação Penal n. 1501476-67.2024.8.26.0548), ao argumento de ser devido o reconhecimento da minorante do tráfico privilegiado, por ser o réu primário e sem antecedentes criminais, além de inexistirem provas de dedicação a atividades criminosas. Por fim, requer o abrandamento do regime de cumprimento da pena.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois as instâncias ordinárias afastaram o redutor com fundamento no fato de estar comprovada a dedicação ao tráfico, com base não só na quantidade de drogas apreendidas, mas nas circunstâncias da apreensão, na forma de acondicionamento e na elevada quantia em dinheiro apreendido. Confira-se (fl. 132 da sentença - grifo nosso):
+ ..
+Por oportuno, consigno que não está presente a causa de diminuição da pena prevista no § 4º do artigo 33 da Lei 11.343, de 23 de agosto de 2006, considerando que a quantidade (mais de 100g de massa líquida de drogas, distribuídas em 233 porções), a diversidade (crack, cocaína, maconha e haxixe) e a natureza das drogas apreendidas (cocaína e crack), drogas que apresentam maior potencialidade lesiva e grau de dependência, além da apreensão de dinheiro (R$2.186,00), expressiva quantia que indica que a conduta do réu atingiu número indeterminado de pessoas, indicando que não se trata de fato eventual e que se dedica a atividades criminosas.
+ ..
+Com efeito, após apreciação do acervo probatório, as instâncias de origem concluíram que o recorrente se dedicava à atividade ilícita, considerando no ponto, a diversidade da droga e a sua forma de acondicionamento. A modificação dessa conclusão constitui providência que esbarra no óbice da Súmula n. 7 do STJ (AgRg no AREsp n. 2.644.438/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 24/9/2024).
+Quanto ao regime inicial, fixada a pena-base no mínimo legal e em se tratando de réu primário, cabível o regime correspondente à reprimenda imposta, no caso o semiaberto.
+Em face do exposto, concedo parcialmente a ordem para fixar o regime semiaberto de cumprimento da pena.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (36,4 G DE COCAÍNA, 36 G DE CRACK, 23,5 G DE MACONHA E 5,55 G DE THC NA FORMA DE HAXIXE). PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE EM ELEMENTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME INICIAL. AUSÊNCIA DE JUSTIFICATIVA PARA A IMPOSIÇÃO DO MAIS RIGOROSO. SEMIABERTO QUE SE IMPÕE.
+Ordem concedida em parte.
