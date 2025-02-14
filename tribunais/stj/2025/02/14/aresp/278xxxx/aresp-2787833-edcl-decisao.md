@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por DILZA EGIDIO DE OLIVEIRA à decisão de fls. 290, que não conheceu do recurso.
+Sustenta a parte embargante:
+Contudo, a decisão monocrática proferida por Vossa Excelência inadmitiu o agravo em recurso especial, fundamentando-se na ausência de procuração nos autos. De acordo com a decisão, a ausência do instrumento de mandato configurava vício formal que inviabilizaria o prosseguimento do recurso, alinhando-se à interpretação consolidada na Súmula 115 do STJ, segundo a qual "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+A Embargante, por sua vez, sustenta que a decisão monocrática padece de vícios relevantes, especialmente por não enfrentar a aplicação do artigo 103 do CPC, que dispensa a necessidade de procuração nos casos de advocacia em causa própria, desde que haja plena identidade entre parte é subscritor dos atos processuais. Além disso, a decisão desconsiderou a existência de precedentes do próprio STJ que reconhecem a validade da atuação direta do advogado em tais circunstâncias, desde que não haja prejuízo a regularidade do feito ou ao contraditório.
+ ..
+Além disso, deve-se salientar que, no caso específico, a ausência de procuração não trouxe qualquer prejuízo à outra parte ou à regularidade processual, uma vez que todos os atos praticados pela Embargante foram subscritos por ela própria, enquanto advogada plenamente habilitada, sem qualquer indício de vício de representação ou irregularidade processual (fls. 294/295).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do Recurso Especial, Dr. LEANDRO LUIZ DE SOUZA, titular da certificação digital.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Ressalte-se que a Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do AgRg na APn 675/GO, Rel. a Ministra NANCY ANDRIGHI (DJe de 12.12.2014), consolidou entendimento no sentido de que, sendo a assinatura eletrônica a única forma de identificação inequívoca do signatário da petição, ao se optar pela utilização do meio eletrônico de peticionamento, vincula-se o advogado - titular do certificado digital - ao documento chancelado (AgInt no AREsp n. 2.123.647/TO, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 16.3.2023.)
+Nesse sentido ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADVOGADO. PROCURAÇÃO OU SUBSTABELECIMENTO. AUSÊNCIA. CADEIA INCOMPLETA. INTIMAÇÃO. FALTA DE REGULARIZAÇÃO. SÚMULA Nº 115/STJ. ART. 1.017, § 5º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INAPLICABILIDADE. CERTIFICADO DIGITAL. ADVOGADO. VINCULAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, o agravante não atendeu ao despacho que determinou apresentação da procuração, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil de 2015.
+3. O Superior Tribunal de Justiça considera inexistente o recurso no qual o advogado subscritor não possui procuração ou substabelecimento nos autos (Súmula nº 115/STJ).
+4. O disposto no art. 1.017, § 5º, do Código de Processo Civil de 2015, que dispensa a juntada de procuração em processos eletrônicos, não se estende ao recurso especial ou ao agravo em recurso especial, porquanto a aplicação do dispositivo se restringe ao agravo de instrumento.
+5. No caso concreto, aplica-se o teor do art. 76, § 2º, I, do Código de Processo Civil de 2015, que determina que o descumprimento pela parte recorrente da intimação para sanar vício na representação processual acarretará o não conhecimento do recurso.
+6. Não é possível o conhecimento do recurso quando o advogado titular do certificado digital utilizado para assinar a transmissão eletrônica da petição não possui instrumento de procuração nos autos, porquanto a utilização da assinatura eletrônica vincula o documento ao signatário, sendo irrelevante a presença de outro patrono, ainda que regularmente constituído.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.072.127/MS, Rel. Ministro Villas Bôas Cueva, Terceira Turma, DJe de 28.10.2022.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
