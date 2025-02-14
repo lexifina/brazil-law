@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARIA SALETE RIBEIRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. ATROPELAMENTO EM CANALETA DE ÔNIBUS EXPRESSO. VELOCIDADE DO ÔNIBUS DENTRO DA PERMITIDA PARA O TRECHO. INGRESSO DO PEDESTRE NA FAIXA DE TRÂNSITO DA CANALETA LOGO À FRENTE DO ÔNIBUS. AUSÊNCIA DE RELAÇÃO DE CAUSA E EFEITO. SENTENÇA MANTIDA. APELAÇÃO NÃO PROVIDA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 186, 187 e 945 do CC, no que concerne ao reconhecimento da culpa concorrente da parte adversa com o devido arbitramento da indenização de acordo com a responsabilidade de cada um, trazendo a seguinte argumentação:
+A decisão proferida pelo Egrégio Tribunal de Justiça do Estado do Paraná incorreu em erro ao considerar a culpa exclusiva da vítima, sem a devida análise da responsabilidade concorrente da parte adversa. Essa interpretação viola os princípios estabelecidos pelos artigos 186, 187 e, especialmente, 945 do Código Civil Brasileiro, que são fundamentais para a correta apuração da responsabilidade civil e reparação de danos.
+ ..
+No presente caso, as provas revelam que o motorista da parte adversa teve uma contribuição significativa para o acidente. As evidências demonstram que o motorista da parte adversa estava dirigindo em alta velocidade, o que é um fator crucial na dinâmica do acidente. Essa conduta imprudente e negligente contribuiu diretamente para a colisão. Essa circunstância não foi adequadamente considerada pelo Tribunal de Justiça, que apenas atribuiu a culpa à vítima.
+Os laudos periciais confirmaram que a velocidade excessiva do motorista adverso foi um fator determinante no acidente. A análise técnica indica que, se o motorista tivesse adotado uma velocidade compatível com as condições da via, a colisão poderia ter sido evitada ou ao menos mitigada (fl. 657).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+2.1.2. A prova pericial, com o perito realizando consultas a órgãos públicos, concluiu que a velocidade do ônibus não excedia a velocidade permitida para o local, 60km/h, e reafirmando o que consta dos vídeos que estão nos autos acrescentou o senhor perito: que o filho da ré seguia com as costas voltadas para o biarticulado e que de repente, encontrando-se o veículo muito próximo, avançou para a pista da canale ta, sendo atropelado:
+ ..
+De fato, a velocidade do ônibus e a conduta do filho da autora regular ingressando na faixa de trânsito do ônibus a poucos metros do biarticulado, uma vez que o pedestre também deveres, afasta a responsabilidade da ré, que é objetivo, na medida em que afasta o nexo de causa e efeito, conforme acórdão desta Câmara ao decidir caso semelhante, de travessia de pedestre de canaleta de ônibus (Apelação Cível n. 0007672- 15.2013.8.16.0024)  .. . (fls. 646-649).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
