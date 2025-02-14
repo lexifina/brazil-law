@@ -1,0 +1,11 @@
+DECISÃO
+JOÃO MARCOS SANTOS, suspeito de tráfico de drogas, alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que indeferiu o pedido de revogação de sua prisão preventiva, o qual reitera a esta Corte, por considerar que não foram indicados os pressupostos e requisitos da medida, que não está fundamentada e é desproporcional ao caso concreto.
+Busca a concessão de alvará de soltura.
+Decido.
+O habeas corpus não está instruído com a cópia da decisão que homologou o flagrante e decretou a prisão preventiva do réu, mantida às fls. 160-161. Também não houve juntada do andamento do processo, para constatação de sua fase atual.
+É "ônus do impetrante  de  instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, r elator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023, destaquei).
+Ademais, em regra, ""vislumbrados pelas instâncias ordinárias indícios mínimos acerca da autoria delitiva, a pretensão de reconhecimento de sua insuficiência para justificar a custódia cautelar implicaria afastar o substrato fático em que se ampara a acusação, o que, como é sabido, não é possível na estreita e célere via do habeas corpus ou do recurso dele decorrente" (AgRg no RHC n. 190.776/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 7/3/2024)" (AgRg no RHC n. 194.970/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+O controle cabível em habeas corpus é o de legalidade, relacionado a questão jurídica. Qualquer questionamento sobre o conteúdo das provas que sustentam a acusação, deve ser encaminhado ao Juiz, para ser analisado sob o contraditório, com a participação do Ministério Público. A defesa deve apontar primeiramente ao Magistrado possíveis imprecisões nos fatos que fundamentaram o decreto de prisão preventiva. Caso uma premissa fática errada seja reconhecida, isso pode resultar na revisão da cautelar.
+À vista do exposto, indefiro liminarmente o processamento deste habeas corpus, com fundamento no art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
