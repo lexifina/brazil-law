@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DAVID SEREJO DA SILVA, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 340):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PRISÃO ILEGAL. NÃO VERIFICADA. RESPONSABILIDADE CIVIL DO ESTADO. INOCORRÊNCIA. ESTRITO CUMPRIMENTO DO DEVER LEGAL. AUSÊNCIA DE ATO ILÍCITO ESTATAL. PRECEDENTES DO STJ. RECURSO DESPROVIDO.
+I. O apelante busca a reforma da sentença ora rechaçada alegando, que foi preso ilegalmente por 177 dias ano sem que nenhum produto do crime tivesse sido encontrado consigo, o que segundo entende possui o direito à indenização por danos morais.
+II. É cediço que ação indenizatória baseada na responsabilidade objetiva do Estado, segundo a teoria do risco administrativo, somente afastará a responsabilidade do Estado caso este prove a culpa exclusiva da vítima, de terceiros, caso fortuito ou força maior, não existindo espaço para discussão acerca da culpa ou o dolo do agente público que tenha dado causa ao dano perpetrado.
+III . Com efeito, a responsabilidade civil tratada na presente lide não está configurada, pois conforme bem observado pelo magistrado sentenciante, os elementos de prova colhidos aos autos, que a prisão ocorrida em 24 de abril de 2014 fora baseada em elementos concretos de materialidade, bem como indícios suficientes de autoria, conforme consta no documento de id 35389222 - Pdf. 44, referente à decisão do Processo Criminal 661/2014, que denegou a absolvição sumária dos acusados pelo crime de roubo, inclusive, em relação ao ora autor David Serejo, na forma do art. 306, caput, do CPP. No que se refere a conduta tipificada no art. 157, parágrafo 2º, I e II, os elementos carreados para os autos delatam a formação do corpus delicti, haja vista que foi apreendida parte da res furtiva na posse dos acusados e as provas orais colhidas na fase inquisitorial se afiguram idôneas no que concerne à materialidade do crime e sua autoria.
+IV. A jurisprudência do STJ é firme no sentido de que a prisão processual e posterior absolvição no processo criminal não enseja, por si só, direito à indenização. (..) (EDcl no REsp 1034818/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 13/10/2009, DJe 28/10/2009).
+V. O abuso de autoridade ou a ilegalidade do ato, não ficou caracterizado, visto que ocorreu todo tramite da ação penal, oportunizando-se o contraditório e ampla defesa ao acusado, ora Apelante, daí porque, não se pode falar em ato ilícito estatal, já que o processo penal constitui-se como instrumento legal apropriado ao deslinde da matéria acusatória.
+VI. Apelo desprovido.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 383):
+EMENTA. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO AO ACÓRDÃO NA APELAÇÃO CÍVEL. OMISSÃO E CONTRADIÇÃO. NÃO VERIFICADA. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. INADMISSIBILIDADE. EMBARGOS REJEITADOS.
+Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável no julgamento ou para rediscutir matéria já decidida.
+A matéria embargada, foi claramente enfrentada no acórdão, não havendo que se falar em omissão.
+Embargos rejeitados.
+Em seu recurso especial, às fls. 396-414, o recorrente sustenta violação aos arts. 43, 186, 927 e 954, todos do Código Civil, 1º, 5º, caput e incisos LIV, LVII, LVI e LXI, e 37, §º6, todos da Constituição Federal, alegando, para tanto, que permaneceu preso ilegalmente por 177 dias, assim sendo, o Estado do Maranhão tem a obrigação de indenizá-lo a título de danos morais e materiais.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fl. 492):
+Em primeiro juízo de admissibilidade, tenho que a alegada contrariedade à lei federal não tem viabilidade para ser examinada, uma vez que a tese do Recorrente acerca da existência de responsabilidade objetiva, e, por conseguinte, do dever de indenizar, não é possível de ser dirimida em sede de REsp, pois, nesse caso, seria indispensável reavaliar o conteúdo fático probatório constante dos autos, pretensão que embarra no óbice da Súmula 7 do STJ.
+Em seu agravo, às fls. 496-509, o agravante apenas ratifica os fundamentos apresentados no recurso especial.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, o fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
