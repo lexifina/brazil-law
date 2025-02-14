@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (e-STJ fls. 297/300).
+O acórdão recorrido está assim ementado (e-STJ fl. 229):
+APELAÇÃO. COMPANHIA AÉREA. ALTERAÇÃO DA DATA DO VOO POR MEDIDA DE SEGURANÇA. INEXISTÊNCIA DE ATO ILÍCITO OU DE ABUSO DE DIREITO. AUSÊNCIA DO DEVER DE INDENIZAR. SENTENÇA REFORMADA. APELO CONHECIDO E PROVIDO.
+I. Ausentes os requisitos configuradores da responsabilidade civil, quais sejam, ato ilícito (art. 186, CC) ou abuso de direito (art. 187, CC), não há que se falar em obrigação de indenizar;
+II. A alteração do voo inicialmente contratado, em atendimento a normas de segurança da aviação, não caracteriza dano moral passível de ser indenizado;
+III. Apelo conhecido e provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 257/269).
+Nas razões do recurso especial (e-STJ fls. 270/287), interposto com base no art. 105, III, "c", da CF, a parte recorrente apontou dissídio jurisprudencial, por violação do art. 188, II, do CC, alegando que o acórdão deu interpretação divergente ao caso dos autos e que a "empresa somente disponibilizou voo no dia seguinte no mesmo horário, sem, contudo, comprovar a impossibilidade no mesmo dia ou mesmo uma melhor realocação para que seja cumprido o contrato de prestação de serviço com menos danos" (e-STJ fl. 274).
+Não foram oferecidas contrarrazões (e-STJ fl. 292).
+No agravo (e-STJ fls. 301/305), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 307).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 232/233 ):
+Da análise destes autos, verifica-se terem sido atendidas as regras estabelecidas, não se podendo exigir que, em tais condições, a empresa cumprisse, nos moldes em que desejado pelo apelado, o contrato de transporte.
+Isso porque, como muito bem pontuado nas razões recursais:
+ ..  mesmo que pudesse a companhia prever a existência de impasses meteorológicos à realização de seus voos, não poderia fazer nada com vistas a impedir tais problemas, pois sabe-se que esse tipo de evento da natureza é incontrolável.
+Importante, ademais, que se tenha em mente que as companhias aéreas não podem simplesmente aterrissar ou decolar de um aeroporto sem que haja autorização da Torre de Controle, posto que estão subordinadas às normas, à infraestrutura e aos procedimentos operacionais dos aeroportos, devendo, assim, seguir rigorosamente estas normas no exercício de suas atividades.
+No presente caso, as autoridades aeroportuárias estavam denegando todas as requisições de pouso e decolagem, já que as condições meteorológicas poderiam prejudicar a realização das operações em plena segurança.
+Ora, desejava o Apelado que, mesmo sem a autorização das autoridades competentes, procedesse a AZUL com o pouso e a decolagem de suas aeronaves, o fazendo de maneira ilegal, já que sem a autorização das autoridades aeroportuárias e, ainda por cima, arriscando a segurança de milhares de passageiros, já que as condições climáticas não eram propícias à realização de pousos e/ou decolagens
+É natural que os passageiros encontrem dificuldades para observar a situação através de um panorama coletivo, ou seja, entendendo o problema por eles enfrentado como parte de um dano coletivo, no qual foram prejudicados milhares de passageiros ao redor do Brasil, afinal, também sofreram prejuízos aqueles que aguardavam o embarque para outras cidades, além das próprias companhias aéreas, que tiveram que suportar graves atrasos e cancelamentos, provendo condições mínimas de conforto a todos os seus clientes prejudicados. A inconformidade destes, no entanto, não pode extrapolar os limites do bom senso, não devendo ser objeto passível de gerar enriquecimento sem causa aos mesmos.  ..
+O Tribunal de origem consignou que, no presente caso, as autoridades aeroportuárias estavam denegando todas as requisições de pouso e decolagem, já que as condições meteorológicas poderiam prejudicar a realização das operações em plena segurança, assim, verifica-se terem sido atendidas as regras estabelecidas. A alteração do que decidido pelo colegiado implicaria inadequada reavaliação do suporte fático-probatório constante dos autos, atraindo a Súmula n. 7/STJ.
+Ainda, com relação ao dever de indenizar, o TJMA afirmou que, "ao alterar o voo inicialmente programado para o dia 13.06.2019, agiu motivada por questões de segurança, tendo em vista as condições climáticas adversas  ..  Ao assim agir, restou amparada pela excludente de ilicitude constante do art. 188, II, Código Civil, segundo a qual não constitui ato ilícito a lesão a pessoa, a fim de remover perigo iminente  ..  Tem-se, assim, por ausentes os requisitos configuradores da responsabilidade civil, posto que inexistentes, no caso, ato ilícito (art. 186, CC) ou mesmo abuso de direito (art. 187, CC) praticados pela apelante" (e-STJ fl. 233).
+A alteração do decidido pelo colegiado implicaria inadequada reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+Em referência ao dissídio jurisprudencial , "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
