@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 19ª VARA DE CURITIBA - SJ/PR em desfavor do JUÍZO FEDERAL DA 5ª VARA AMBIENTAL E AGRÁRIA DE PORTO VELHO - SJ/RO, nos autos da execução fiscal movida pelo Departamento Nacional de Produção Mineral (DNPM) contra a pessoa jurídica Nova Ariquemes Mineração Estanífera Ltda, tendo por objetivo o adimplemento da quantia de R$ 3.810,73 (três mil, oitocentos e dez reais e setenta e três centavos).
+Originalmente, a execução fiscal foi ajuizada e distribuída ao Juízo Federal da 5ª Vara Ambiental e Agrária de Porto Velho - SJ/RO, o qual, de ofício, declinou de sua competência para processar e julgar o feito, sob o seguinte fundamento (fls. 58-59):
+Trata-se de execução fiscal onde a empresa devedora não foi localizada, sendo a cobrança redirecionada contra responsável tributário. O endereço atual ou remanescente da parte executada (codevedor) constante nos autos é o seguinte:
+MARECHAL HERMES, 153, APTO 1004, CENTRO CIVICO, CURITIBA/PR, CEP: 80530-230
+Feita a síntese essencial, passo a decidir.
+O caso demanda o reconhecimento da incompetência deste Juízo para processar e julgar a presente ação.
+Isso porque em se tratando de execução fiscal, e na ausência de previsão típica na Lei n. 6.830/80, importa observar o estatuído no §5 do art. 46 do CPC:
+Art. 46. (..) § 5º. A execução fiscal será proposta no foro de domicílio do réu, no de sua residência ou no do lugar onde for encontrado.
+Logo, no caso concreto, o domicílio atual ou remanescente de fato ou hipoteticamente viável diz respeito ao que se situa no município de CURITIBA.
+Ressalto que o domicílio em questão não se trata de domicílio fiscal.
+Nessa hipótese, verifico que nenhuma das opções facultadas para o ajuizamento da ação de execução fiscal (competência relativa) permitem o processamento nesta jurisdição, a qual é absolutamente incompetente, a teor do posicionamento firmado pela quarta seção do egrégio Tribunal Regional Federal da 1ª Região, ao julgar Conflito de Competência n. 1011512-26.2022.4.01.0000 em 28/07/2022:
+ .. .
+Ademais, a previsão do § 1.º do art. 109 da Constituição Federal é no sentido de que: "As causas em que a União for autora serão aforadas na seção judiciária onde tiver domicílio a outra parte".
+Segue na mesma linha o estatuído pelo art. 51 do Código de Processo Civil:
+Art. 51. É competente o foro de domicílio do réu para as causas em que seja autora a União
+Nesse contexto, e considerando que a constituição do processo de execução aponta para o município de CURITIBA como residência, domicílio ou local em que possa ser encontrada a parte executada, se faz necessária a remessa do feito para processamento no juízo competente, com jurisdição que abrange o respectivo município, de ofício, por se tratar de matéria de competência absoluta:
+ .. .
+Remetidos os autos à Seção Judiciária do Estado do Paraná (Tribunal Regional Federal da 4ª Região) e distribuídos ao Juízo Federal da 19ª Vara de Curitiba, foi suscitado o presente conflito negativo de competência, com fundamento no art. 953, I, do CPC/2015.
+Neste conflito de competência, o Juízo suscitante alega, em suma, que "a devedora originária é a empresa NOVA ARIQUEMES MINERACAO ESTANIFERA LTDA - ME, empresa que, a despeito da suposta dissolução irregular, tinha endereço no Município de Ariquemes/RO" (fl. 14), bem como que a incompetência territorial é relativa, razão pela qual não pode ser declarada de ofício pelo magistrado.
+Parecer do Ministério Público Federal opinando pelo conhecimento do conflito para que seja reconhecida a competência do juízo suscitado. (fls. 70-78)
+É o relatório. Decido.
+O foro competente para processar e julgar a execução fiscal, em regra, é aquele do domicílio do devedor, de sua residência ou do lugar onde for encontrado, nos termos do art. 46, § 5º, do CPC/2015. Cuida-se de competência territorial, portanto relativa, ou seja, sujeita à prorrogação, caso não questionada oportunamente pela parte interessada.
+Conforme a jurisprudência sumulada do Superior Tribunal de Justiça (Súmula n. 33/STJ), firmada a partir da interpretação do art. 112 do CPC/1973, a incompetência relativa deve ser arguida pela parte executada por meio de exceção, sob pena de prorrogação da competência determinada no momento da propositura da ação, de modo que fica vedado ao magistrado declará-la de ofício ou mesmo por provocação da parte exequente. Assevera o enunciado da Súmula n. 33 do STJ, que: "A incompetência relativa não pode ser declarada de ofício."
+Acerca do assunto, destaco os seguintes precedentes:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO FISCAL AJUIZADA FORA DO DOMICÍLIO DO RÉU. INCOMPETÊNCIA RELATIVA DECLARADA DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33/STJ.
+1. O art. 578 do CPC preceitua que a execução fiscal será ajuizada no foro do domicílio do réu. Não obstante isso, tem-se que a competência territorial é relativa, só podendo a incompetência ser argüida por meio de exceção (CPC, art. 112).
+2. Realizada a escolha e ajuizada a ação, restou definida a competência do Juízo Federal da Vara Agrária e Ambiental (CPC, art. 87), não podendo ser reconhecida ex officio eventual incompetência do juízo, conforme enunciado da Súmula 33/STJ.
+3. Conflito conhecido para declarar a competência do Juízo Federal da Vara Agrária e Ambiental da Seção Judiciária do Estado de Santa Catarina, suscitado.
+(CC n. 94.729/SC, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 24/9/2008, DJe 6/10/2008.)
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. DOMICÍLIO DO DEVEDOR. COMPETÊNCIA TERRITORIAL. INCOMPETÊNCIA RELATIVA NÃO PODE SER DECLARADA DE OFÍCIO. SÚMULA 33/STJ. AUSÊNCIA DE EXCEÇÃO DE INCOMPETÊNCIA. SÚMULA 58/STJ.
+1. O foro competente para o ajuizamento da execução fiscal será o domicílio do réu, consoante a disposição contida no artigo 578, caput, do Código de Processo Civil. Por se tratar de competência relativa, a competência territorial não pode ser declarada ex officio pelo Juízo. Esse entendimento se consolidou com a Súmula 33 do Superior tribunal de Justiça, in verbis: "A incompetência relativa não pode ser declarada de oficio."
+2. Na hipótese de execução fiscal proposta fora do domicílio do devedor, compete exclusivamente ao executado se valer da exceção de incompetência, para afastar a competência de Juízo relativamente incompetente.
+3. Ademais, a posterior mudança de domicílio do executado não influi para fins de alteração de competência, conforme teor da Súmula 58 do Superior Tribunal de Justiça, in verbis: "Proposta a execução fiscal, a posterior mudança de domicilio do executado não desloca a competência já fixada."
+4. Conflito de competência conhecido para declarar a competência do Juízo Federal de Sinop - SJ/MT, o suscitado.
+(CC n. 101.222/PR, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 11/3/2009, DJe 23/3/2009.)
+Corroborando com o entendimento acima pronunciado, o art. 337, § 5º, do CPC/2015 excetuou a incompetência relativa do rol de questões preliminares passíveis de conhecimento de ofício pelo magistrado, a qual somente poderá ser alegada pela parte requerida no âmbito da preliminar de contestação, consoante o disposto no art. 64, caput e § 1º, do CPC/2015, ou pela parte executada nos embargos à execução, conforme a previsão contida no art. 917, V, CPC/2015.
+Acerca do assunto, destaco os seguintes precedentes:
+CONFLITO DE COMPETÊNCIA. COMPETÊNCIA TERRITORIAL. PEDIDO DE ALTERAÇÃO DA COMPETÊNCIA PELO AUTOR. ENDEREÇO DO EXECUTADO.
+I - Cuida-se de conflito negativo de competência, suscitado pela 1ª Vara Federal de Diamantino/MT, nos autos da Execução Fiscal interposta pela Comissão de Valores Imobiliários - CVM em face de Agromon S/A Agricultura e Pecuária.
+II - A ação executiva foi ajuizada na Subseção Judiciária de São Paulo, contudo o executado não foi localizado naquela subseção, tendo o juízo originário declinado a competência em favor do juízo ora suscitante, sob o argumento de que o domicílio fiscal do executado se encontrava na cidade de São José do Rio Claro - MT. Após o ajuizamento da execução o exequente pleiteou a alteração da competência, razão pela qual decidiu o juízo originário declinar a competência conforme acima referido. Discordando desse entendimento, o MM. Juízo Federal da 1ª Vara de Diamantino - SJ/MT suscita o presente conflito de competência, perante esse Egrégio Superior Tribunal de Justiça.
+II - Conforme definido no art. 64, §1º, do CPC/2015, a incompetência relativa somente pode ser alegada em preliminar de contestação. Escolhido pelo exequente dentre as jurisdições possíveis aquela do ajuizamento da demanda, a competência se estabelece, não sendo possível a alteração por pedido do autor diante da ausência de amparo legal.
+III - Conflito de competência conhecido para declarar competente o suscitado, juízo da 6ª Vara Federal de execuções fiscais de São Paulo.
+(CC n. 166.952/MT, relator Ministro Francisco Falcão, Primeira Seção, julgado em 28/8/2019, DJe 2/9/2019.)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL PROPOSTA NA 18ª VARA FEDERAL DE SALVADOR/BA. COMPETÊNCIA RELATIVA. IMPOSSIBILIDADE DE DECLARAÇÃO DA INCOMPETÊNCIA DO JUÍZO DE OFÍCIO.
+1. Consoante assentado pelo Superior Tribunal de Justiça, com fulcro no art. 105, I, "d", da CF, merece conhecimento este Conflito, uma vez que ambos os Juízos, vinculados a Tribunais diversos, declararam-se incompetentes.
+2. A Ação de Execução Fiscal foi proposta na Seção Judiciária do Estado da Bahia, contudo o Juiz da 18ª Vara Federal de Salvador/BA declinou de sua competência para a Seção Judiciária do Paraná, visto que o domicílio da parte executada se encontra "sob a jurisdição de outro TRF, desde antes do ajuizamento da ação." Além disso, asseverou o magistrado em sua decisão, que seria evitada a expedição de "diversos ofícios e cartas precatórias para viabilizar o cumprimento de todos os atos pertinentes á persecução executiva."
+3. O Juiz suscitante não aceitou sua competência, tendo em vista o teor do enunciado na Súmula 58 desta Corte.
+4. Com razão o Juízo suscitante, porquanto a incompetência relativa deverá ser alegada como questão preliminar de contestação (art. 64 do CPC), não podendo ser declarada de ofício, como fez o Juízo suscitado.
+5. Conflito de Competência conhecido a fim de declarar competente para processar o feito o Juízo da 18ª Vara Federal de Salvador/BA.
+(CC n. 167.679/PR, relator Ministro Herman Benjamin, Primeira Seção julgado em 27/11/2019, DJe 7/5/2020.)
+Ainda, em hipóteses análogas: CC n. 210.527, Ministro Teodoro Silva Santos, DJEN de DJEN 07/02/2025; CC n. 209.775, Ministro Paulo Sérgio Domingues, DJEN de DJEN 04/02/2025; e CC n. 210.215, Ministro Benedito Gonçalves, DJEN de DJEN 23/12/2024.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço deste conflito negativo de competência, para declarar o Juízo Federal da 5ª Vara Ambiental e Agrária de Porto Velho - SJ/RO, ora suscitado, competente para processar e julgar o feito em tela.
+Publique-se. Intimem-se.
+EMENTA
