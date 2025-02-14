@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Companhia Distribuidora de Gás do Rio de Janeiro-CEG e CEG Rio S.A. contra decisão que não admitiu o recurso especial, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fls. 516-517):
+APELAÇÃO. DIREITO ADMINSTRATIVO. AGENERSA. PARADA TÉCNICA PROGRAMADA DE FORNECIMENTO DE GÁS. DEVER DE INFORMAÇÃO NÃO OBSERVADO PELAS CONCESSIONÁRIAS. APLICAÇÃO DE MULTA. PRETENSÃO DE DESCONSTITUIÇÃO DA PENALIDADE. EXISTÊNCIA PRÉVIA DE NORMAS CONSTITUCIONAIS, LEGAIS E CONTRATUAIS IMPONDO O DEVER DE PRESTAÇÃO ADEQUADA DO SERVIÇO, AÍ INCLUÍDO O DEVER DE INFORMAÇÃO. IMPROCEDÊNCIA DO PEDIDO. PRESTÍGIO DA SENTENÇA.
+1. Trata-se de ação na qual as Autoras pretendem a declaração de nulidade do ato administrativo emanado pela Agência Reguladora que lhes aplicou multa no valor equivalente a R$387.497,30 (trezentos e oitenta e sete mil, quatrocentos e noventa e sete reais e trinta centavos), nos autos do processo administrativo nº E-12/003/100055/2018, decorrente de dois autos de infração (93/2019 e 95/2019).
+2. Sentença de improcedência. Condenação das Autoras ao pagamento das custas e honorários advocatícios fixados em 10% (dez por cento) sobre o valor atualizado do débito. Apelos das Concessionárias-Autoras.
+3. Existência prévia de normas constitucionais, legais e contratuais impondo o dever de prestação adequada do serviço, aí incluído o dever de informação.
+4. Informação quanto à possibilidade de interrupção do serviço em razão da parada técnica programada pela PETROBRÁS que era de enorme interesse da agência reguladora e dos consumidores, a fim de permitir a busca por alternativas contingenciais à eventual falta do combustível. 5. Sociedade como um todo que foi submetida a um risco desnecessário, em razão da desobediência das concessionárias às normas estabelecidas quanto à prestação adequada do serviço, repita-se, aí incluído o primordial dever de informação, justificando-se, portanto, a reprimenda imposta.
+6. Processo Administrativo instaurado pela AGENERSA que aplicou a penalidade em decisão fundamentada, com base na Instrução Normativa CODIR nº 001/2007 e nas cláusulas dispostas no contrato de concessão. Respeito ao Princípios Constitucionais do Contraditório, da Ampla Defesa e do Devido Processo Legal.
+7. RESOLUÇÃO AGENERSA CODIR Nº 642/2018, que apenas ratificou o que já constava na Instrução Normativa CODIR nº 001/2007 e nas cláusulas do contrato de concessão.
+8. Recurso conhecido, mas não provido. Majoração dos honorários advocatícios sucumbenciais, na fase recursal, a favor do advogado da Ré em 1% (um por cento).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 567-575).
+Nas razões do recurso especial (e-STJ, fls. 273-279), as recorrentes alegaram violação aos arts. 2º, parágrafo único, XIII, da Lei n. 9.784/1999; e 6º da LINDB.
+Sustentaram, em síntese, que não houve falha na prestação do serviço ou sua descontinuidade, aduzindo que o fornecimento de gás não foi interrompido.
+Argumentaram que o acórdão recorrido se baseou em premissa equivocada para concluir pelo descumprimento contratual.
+Pugnaram, ao final, pela reforma do acórdão recorrido a fim de declarar a nulidade das "Deliberações Agenersa nº 3.585/2018 e 3.694/2019, bem como as multas delas originadas, que deram azo aos Autos de Infração nº 93/2019 e 95/2019" (e-STJ, fl. 586).
+As contrarrazões foram apresentadas (e-STJ, fls. 603-608).
+O Tribunal de origem não admitiu o processamento do recurso especial, tendo sido interposto agravo em recurso especial às fls. 634-641 (e-STJ).
+Brevemente relatado, decido.
+De início, cumpre registrar que "é pacífica a orientação do STJ no sentido de que os princípios contidos na Lei de Introdução ao Código Civil (LINDB) - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, não podem ser analisados em Recurso Especial, pois são institutos de natureza eminentemente constitucional" (AgInt no AREsp n. 2.559.929/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+Ao analisar a situação jurídica dos autos, o TJRJ deixou assentado os seguintes fundamentos (e-STJ, fls. 525-538, sem grifos no original):
+Quanto ao mérito, alegam as Autoras que em razão de não terem comunicado à Agência Reguladora que iriam realizar a parada técnica programada pela PETROBRÁS na plataforma de Mexilhão, foi instaurado procedimento administrativo e aplicada penalidade administrativa, sendo que, na época dos fatos, em 30/07/2018, não havia definição legal, normativa ou contratual sobre o tema, por consequência, não havia base para penalização da concessionária, vindo tal norma a ser editada posteriormente, sendo que somente tiveram conhecimento da Resolução AGENERSA/CODIR nº 642/2018, que traçou as novas regras a serem seguidas em caso de paradas programadas e interrupção de fornecimento de gás natural, em 06/08/2018, após a realização do fato ocorrido.
+Entretanto, ao contrário do que pretendem fazer crer as Apelantes, já havia, preteritamente ao fato objeto do processo administrativo, determinações constitucionais, legais e contratuais que as obrigariam a proceder de forma diferente daquela que, efetivamente, ocorreu, ou seja, retardando a informação à agência reguladora quanto à parada técnica programada pela PETROBRÁS. A Constituição Federal, em seu art. 175, prevê a possibilidade de concessão ou permissão da prestação de serviços públicos, estabelecendo, porém, a obrigação de manutenção de serviço adequado. Vejamos:
+ ..
+Por sua vez, a Lei nº 8.987/1995 já previa em seu art. 6º que:
+Art. 6º Toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários, conforme estabelecido nesta Lei, nas normas pertinentes e no respectivo contrato.
+§ 1º Serviço adequado é o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas.
+(..)
+§ 3º Não se caracteriza como descontinuidade do serviço a sua interrupção em situação de emergência ou após prévio aviso, quando:
+I - motivada por razões de ordem técnica ou de segurança das instalações; (Sublinhei)
+A conjugação dos dispositivos constitucional e legal acima transcritos nos leva à conclusão, indene de dúvidas, no sentido de que a concessionária tem a obrigação de manutenção adequada do serviço, aí incluído o dever de informação, tanto é assim que a interrupção, mesmo motivada por questões técnicas, apenas pode ocorrer após prévio aviso.
+ ..
+Assim, levando-se em conta a enorme importância do serviço prestado, nota-se que a sociedade, como um todo, foi submetida a um risco desnecessário, em razão da desobediência das concessionárias às normas estabelecidas quanto à prestação adequada, repita-se, aí incluído o primordial dever de informação, justificando-se, portanto, a reprimenda imposta.
+ ..
+Frise-se que os atos administrativos têm presunção de legalidade, não restando comprovado, nos autos, qualquer vício na atuação da Agência-Ré capaz de afastar tal presunção. Ressalto que, não cabe ao Poder Judiciário analisar o mérito do ato administrativo, cabendo apenas verificar sua legalidade.
+ ..
+Assim, não há que se falar em violação aos princípios da legalidade, da irretroatividade da norma administrativa e da segurança jurídica, merecendo a sentença ser prestigiada.
+Diante disso, nota-se que a questão atinente à legalidade do ato administrativo emanado pela Agência Reguladora (AGENESA) que culminou na aplicação de multa às agravantes foi elucidada mediante acurada análise de todo o acervo fático-probatório dos autos, de maneira que, para infirmar tais conclusões, seria imprescindível o reexame de provas, o que é vedado nesta instância extraordinária, consoante prevê a Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. FALHA NA PRESTAÇÃO DE SERVIÇO. DEVER DE INFORMAÇÃO. CONCLUSÃO DO ACÓRDÃO PELA LEGALIDADE DO ATO ADMINISTRATIVO. REVISÃO DO JULGADO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
