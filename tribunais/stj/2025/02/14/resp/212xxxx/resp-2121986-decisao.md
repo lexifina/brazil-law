@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por CATIA ELOISA DE OLIVEIRA BOFFO e SEBASTIÃO SOARES JUNIOR contra acórdão do TJSP, o qual recebeu a seguinte ementa (e-STJ fl. 365):
+EXIBIÇÃO DE DOCUMENTOS. Contratos de empréstimos consignados. Prazo de prescrição decenal. Dicção do artigo 205 do Código Civil. Dever de guarda dos documentos comum às partes pela instituição financeira, cujo prazo de armazenamento deve ser o mesmo do prazo prescricional estabelecido no Código Civil, ou seja, por 10 anos. Determinada a exibição de documentos, sob pena de multa diária de R$.200,00 limitada a R$.20.000,00. Prévia busca e apreensão ou medida coercitiva anterior à imposição de astreinte. Inocorrência. Multa que deve ser afastada, à luz do Tema 1.000, do STJ. Ônus de sucumbência. Princípio da Causalidade. Fixação dos honorários advocatícios, com base no art. 85, § 8º-A do CPC. Impossibilidade. Tabela da Ordem dos Advogados do Brasil que é meramente referencial. Juiz que não se encontra vinculado à referida tabela do órgão de classe. Valor da causa ínfimo. De rigor a fixação nos termos do art. 85, § 8º, do CPC. Precedentes do STJ e desta Corte. Sentença reformada. RECURSOS PARCIALMENTE PROVIDOS.
+No recurso especial (e-STJ fls. 382/410), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega violação dos seguintes dispositivos:
+(i) arts. 380 e 400 do CPC, aduzindo a possibilidade de aplicação de multa diária pela não exibição dos contratos, e
+(ii) art. 85, § 8º-A, do CPC, insurgindo-se contra o valor fixado a título de honorários advocatícios. Afirma, nesse contexto, que o referido artigo determina que os honorários advocatícios de sucumbência, fixados de forma equitativa, devem observar os valores recomendados pelo Conselho Seccional da OAB, ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º do mesmo dispositivo legal.
+Foram oferecidas contrarrazões (e-STJ fls. 691/700).
+Admitido o presente recurso especial (e-STJ fls. 701/703).
+É o relatório.
+Decido.
+I) Quanto à alegação de possibilidade de aplicação da multa diária pela não exibição dos contratos, não assiste razão à parte recorrente.
+O acórdão recorrido analisou a questão, fundamentando sua conclusão nos seguintes termos (e-STJ fls. 370/374):
+No tocante à multa fixada pelo Juízo para a hipótese de descumprimento da obrigação de fazer de apresentar os contratos nº 193131757, 193011487, 231454232, 199863836 e 310777663, assiste parcial razão ao requerido.
+Decidiu o Colendo STJ, acerca do cabimento de multa cominatória na exibição, incidental ou autônoma, de documento relativo a direito indisponível, na vigência do atual Código de Processo Civil, no julgamento do REsp nº 1763462/MG, in verbis:
+ ..
+Ao compulsar os autos, identifica-se que não houve, anteriormente à fixação das astreintes, outros meios coercitivos para o cumprimento da obrigação, como a determinação de busca e apreensão do documento, o que torna inviável neste momento a multa aplicada.
+ ..
+Neste cenário, deve ser afastada a imposição da multa arbitrada na sentença, por ser incabível, neste momento, a teor do tema 1.000, do STJ.
+Conforme tese fixada pelo STJ no Tema Repetitivo n. 1.000, "desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015" (destaque nosso).
+A tese foi firmada no julgamento do REsp n. 1.777.553/SP, representativo da controvérsia, por meio de acórdão que destacou a "necessidade de prévia tentativa de busca e apreensão ou outra medida coercitiva, antes da cominação de astreintes" (REsp 1.777.553-SP, Segunda Seção, DJe 1/7/2021).
+Assim, em relação ao pedido de exibição de documentos, permite-se a fixação de multa, a título de astreintes, se frustrado outros meios coercitivos, sobretudo a medida de busca e apreensão.
+Na hipótese dos autos, o acórdão recorrido afastou a aplicação da multa diária, consignando que "não houve, anteriormente à fixação das astreintes, outros meios coercitivos para o cumprimento da obrigação, como a determinação de busca e apreensão do documento, o que torna inviável neste momento a multa aplicada" (e-STJ fl. 372). Nessa linha, "a cominação de astreintes deve ser precedida de um juízo sobre a probabilidade de existência da relação jurídica e do documento pretendido, além de tentativa de busca e apreensão" (REsp n. 1.771.800/DE, Ministro Paulo de Tarso Sanseverino, DJe 1/7/2021).
+Portanto, de rigor a incidência da Súmula n. 83 do STJ no ponto.
+II) Na petição do especial, a recorrente defende que, uma vez fixada a verba honorária por apreciação equitativa, deve-se respeitar a aplicação do art. 85, §§ 8º e 8º-A, do CPC.
+Observa-se que o acórdão recorrido concluiu que o art. 85, § 8º-A, do CPC contém mera recomendação ao magistrado para a fixação dos honorários sucumbenciais por equidade, podendo ele deixar de aplicar os valores constantes da tabela da OAB.
+No entanto, o parágrafo 8º-A do art. 85 do CPC, introduzido pela Lei n. 14.365, de 2/6/2022, determina que, "para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior".
+O entendimento do STJ é de que se trata de regra obrigatória, a ser observada pelo julgador. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PROVEITO ECONÔMICO IRRISÓRIO. VALOR DA CAUSA MUITO BAIXO. ARBITRAMENTO POR APRECIAÇÃO EQUITATIVA. CPC/2015, ART. 85, §§ 8º E 8º-A. DECISÃO MANTIDA.
+1. Conforme dispõe o art. 85, § 8º, do CPC/2015, " n as causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+1.1. No caso concreto, o proveito econômico obtido pelo autor da ação afigura-se irrisório, e o valor da causa é muito baixo, razão pela qual a situação dos autos subsume-se à hipótese de que trata o dispositivo legal, na estrita aplicação do entendimento firmado na tese n. 2 do Tema Repetitivo n. 1.076.
+2. O parágrafo 8º-A do art. 85 do CPC/2015 determina que "para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior".
+2.1. Na espécie, o valor dos honorários advocatícios de sucumbência foram arbitrados com observância do valor mínimo previsto na Tabela de Honorários aprovada pela OAB/RN.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.789.203/RN, de minha relatoria, Quarta Turma, julgado em 15/05/2023, DJe 18/05/2023.)
+Por todo o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para reafirmar a obrigatoriedade da regra do § 8º-A do art. 85 do CPC e determinar o retorno dos autos ao Tribunal de origem para novo cálculo dos honorários advocatícios devidos à parte recorrente.
+Publique-se e intimem-se.
+EMENTA
