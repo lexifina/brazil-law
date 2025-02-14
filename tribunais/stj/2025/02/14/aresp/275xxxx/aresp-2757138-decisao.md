@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 898/904).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 158/159):
+AGRAVO DE INSTRUMENTO. INVENTÁRIO. NOMEAÇÃO DE INVENTARIANTE. ALEGAÇÃO DE QUE A AGRAVADA FOI ANTERIORMENTE DESTITUÍDA NOS AUTOS POR INÉRCIA EM ULTIMAR O INVENTÁRIO. TRAMITAÇÃO POR QUASE 20 (VINTE) ANOS. IRRESIGNAÇÃO DA COMPANHEIRA DO DE CUJUS, POSTULANDO A DESTITUIÇÃO COM FULCRO EM LENTIDÃO DO TRÂMITE E AUSÊNCIA DE PRESTAÇÃO DE CONTAS. NOMEAÇÃO DE INVENTARIANTE DATIVO.
+- Insurge-se a agravante contra decisão de nomeação de inventariante, filha do de cujus visto que anteriormente a mesma foi destituída do encargo em razão da inércia na tramitação do inventário.
+- No que concerne ao exercício da inventariança, o exercício deste múnus, tem ínsito o agir com zelo e transparência, em estrita observância aos deveres elencados no art. 622 do CPC, com diligência na administração dos bens do espólio, sob pena de ser remoção, caso demonstrada desídia ou inércia na condução do encargo.
+- Resulta que a inventariante incorreu em determinadas condutas que ensejaram na morosidade da tramitação do feito eis que o mesmo tramita há mais de 20 (vinte) anos. Aliás, o Juízo de primeiro Grau, na fundamentação da decisão de destituição do encargo, reconheceu a inércia da parte.
+- O dissenso entre a companheira reconhecida pela via judicial, o herdeiro, a inventariante e os demais herdeiros, no caso ora posto em análise, é evidente. A incompatibilidade entre os interessados se apresenta enorme visto a arrastada e claudicante tramitação do feito.
+- Para além disto, a existência de aguerrida animosidade entre os interessados recomenda, a indicação de inventariante dativo. Desempenho das funções por alguém que não se encontre diretamente ligado as dores e desentendimentos familiares e que apresente isenção para o exercício da função, ultimando qual o real monte a ser inventariado com a subsequente partilha entre os herdeiros.
+PROVIMENTO DO RECURSO.
+Nas razões do recurso especial (e-STJ fls. 202/219), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 617 e 622 do CC/2002, sustentando, em síntese, que "a Recorrente vem cumprindo com todos os deveres do encargo, e sua remoção se dará em total prejuízo do Espólio" (e-STJ fl. 212).
+Acrescenta que "não há qualquer motivo excepcional para que não seja mitigada a ordem legal prevista no art. 617 do CPC, especialmente ao se considerar que o inventariante dativo enquadra-se tão somente na previsão no ultimo inciso do dispositivo supracitado, restando claro que a Recorrente é apta para assumir este múnus público" (e-STJ fls. 216/217).
+Requer efeito suspensivo ao recurso.
+No agravo (e-STJ fls. 926/943), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 949/975).
+É o relatório.
+Decido.
+Na origem, trata-se de agravo de instrumento contra a decisão que nomeou a parte ora recorrente como inventariante.
+O TJRJ deu provimento ao recurso "para remover a inventariante LEDA MACEDO DA ROSA dos encargos da inventariança, devendo a nomeação de inventariante dativo ser indicado pelo Juízo de primeiro grau, salientando que deve ser alguém que não se encontre diretamente ligado às dores e desentendimentos familiares e que apresente isenção para o exercício da função, ultimando qual o real monte a ser inventariado com a subsequente partilha entre os herdeiros" (e-STJ fl. 167 ).
+Reconheceu que "a inventariante LEDA MACEDO DA ROSA SOUZA, outrora nos autos principais, incorreu em determinadas condutas inapropriadas para o encargo assumido" (e-STJ fl. 164).
+Consignou, também que, "em que pese a concordância dos outros herdeiros com a nomeação da inventariante, o dissenso entre os herdeiros - ANTONIO e ELISAIR -, no caso ora posto em análise, é evidente. A incompatibilidade entre os interessados se apresenta enorme visto que o feito tramita há anos, sem a avaliação dos bens móveis que totalizam 16, nos termos das primeiras declarações ofertadas (index 20)" (e-STJ fl. 166).
+Concluiu que , "para além disto, a existência de aguerrida animosidade entre os interessados recomenda-se a indicação de inventariante dativo" (e-STJ fl. 166), por entender que "o desentendimento existente entre a companheira ELIASIR LICAZALI FURTADO, o agravante, os demais herdeiros e a inventariante nomeada é evidente. Tal celeuma acarreta com que a tramitação do feito venha ocorrendo de forma claudicante e arrastada não tendo sequer sido ultimada fase inicial do processo de inventário, tendo sido apresentadas a rerratificação das primeiras declarações, com a inclusão do herdeiro Lucas e a companheira Eliasir, compondo o monte hereditário de 12 (doze) imóveis" (e-STJ fl. 167).
+Modificar o entendimento do acórdão impugnado quanto à necessidade de nomeação de inventariante dativo, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. JULGO PREJUDICADO o pedido de efeito suspensivo ao recurso.
+Publique-se e intimem-se.
+EMENTA
