@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSÉ ERIVALDO DA SILVA MELO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado pela conduta do art. 121 § 2º, I e IV, c/c o art. 62, II, e no art. 155, §§ 1º e 4º, IV, c/c o art. 29, na forma do art. 69, todos do Código Penal, às penas de 16 anos de reclusão, no regime inicial fechado, e 2 anos e 8 meses de reclusão, no regime inicial aberto, respectivamente.
+O Tribunal de origem deu parcial provimento ao apelo defensivo, a fim de diminuir as reprimendas aplicadas conjuntamente para 18 anos de reclusão, como incurso nos arts. 121, § 2º, I e IV, e 155, § 4º, IV, na forma do art. 69, todos do Código Penal.
+O impetrante alega a ocorrência de constrangimento ilegal em razão da dupla valoração de uma conduta na dosimetria da pena, pois ela foi considerada para a aplicação de uma qualificadora e também para a incidência de uma agravante.
+Assevera, caso concedida a ordem ao paciente, a possibilidade da aplicação da detração penal, visto que preso há mais de 2 anos e 7 meses, e colocado imediatamente no regime semiaberto de cumprimento da pena.
+Requer, liminarmente e no mérito, a reforma do acórdão para reduzir a pena imposta na segunda fase, a fim de afastar a ocorrência do bis in idem, com aplicação de apenas uma circunstância agravante, perfazendo um total de 14 anos e 2 meses de reclusão, aplicação da detração penal e o consequente regime semiaberto de cumprimento de pena.
+Por meio da decisão de fls. 85-86, o pedido liminar foi indeferido. Após, foram juntadas as informações pela origem e parecer do Ministério Público Federal, opinando pelo não conhecimento do habeas corpus (fls. 139-142).
+É o relatório.
+De início, verifica-se que a parte agravante, às fls. 145-146, objetiva a reforma da decisão monocrática que indeferiu o pedido de concessão de medida liminar (fls. 85-86).
+Entretanto, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça (RISTJ), as decisões que indeferem medidas liminares são insuscetíveis de recurso. Nesse contexto, a jurisprudência consolidada desta Corte Superior afirma que "não cabe agravo regimental ou interno contra decisão de relator que indefere pedido liminar em habeas corpus" (AgRg no HC n. 799.739/PI, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Posto isso, passo à análise do mérito.
+O exame dos autos e a consulta aos sistemas processuais indicam que o presente habeas corpus foi impetrado paralelamente ao agravo em recurso especial interposto contra acórdão que apreciou a apelação apresentada para impugnar a sentença penal.
+Contudo, a jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recurso e habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da singularidade ou da unirrecorribilidade, não se podendo provocar a apreciação da mesma instância por diferentes meios de modo simultâneo.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL E IMPETRAÇÃO DE HABEAS CORPUS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. Hipótese em que houve a interposição de recurso especial na origem e, na sequência, do respectivo agravo, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 918.633/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024, grifo próprio.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PRECEDENTES DO STF E STJ. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. MEDIDAS CAUTELARES. CONSTRANGIMENTO ILEGAL. SUPRESSÃO DE INSTÂNCIA. PEDIDO SUBSIDIÁRIO. INOVAÇÃO RECURSAL. INADMISISBILIDADE. AGRAVO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não bastasse o mencionado entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame constata-se que o presente habeas corpus tramita em paralelo ao recurso especial interposto em face do acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade.
+ ..
+5. Agravo regimental conhecido em parte e, nessa extensão, desprovido.
+(AgRg no HC n. 880.190/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024, grifo próprio.)
+Na mesma direção: AgRg no HC n. 887.255/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024; AgRg no HC n. 831.891/PB, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023; e AgRg no HC n. 848.280/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Inviável, portanto, o conhecimento do pedido.
+Saliento, a propósito do art. 647-A do CPP, que o acórdão impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, especialmente porque o aumento na primeira fase se deu em razão de o crime ter sido praticado na residência da vítima, onde estava uma criança de 4 anos e, na segunda fase, foi considerada a utilização de recurso que dificultou a defesa da vítima.
+Inexistente, assim, o bis in idem alegado.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
