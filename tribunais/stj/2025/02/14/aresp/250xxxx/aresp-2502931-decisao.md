@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (e-STJ fls. 416/421).
+O acórdão recorrido está assim ementado (e-STJ fl. 284):
+AGRAVO INTERNO - EMBARGOS À EXECUÇÃO - BEM RECUSADO PELO JUÍZO E PELO EXEQUENTE - IMPOSSIBILIDADE DE CONCESSÃO DO EFEITO SUSPENSIVO - POSSIBILIDADE DE BUSCA DOS CONTRATOS EXISTENTES COM TERCEIROS PARA RECEBIMENTO DOS CRÉDITOS PELOS EXEQUENTES - AUSÊNCIA DE NOVOS ELEMENTOS CAPAZES DE MODIFICAR A DECISÃO ATACADA - RECURSO DESPROVIDO.
+Somente é possível a concessão do efeito suspensivo quando cumpridos, cumulativamente, todos os requisitos previstos no artigo 919, § 1º do CPC.
+É possível a penhora de créditos existentes e decorrentes de negociação com terceiros que não participam da lide.
+O artigo 835 do CPC deve ser observado como regra para fins de penhora.
+Estando devidamente fundamentada a decisão e não havendo novos elementos nos autos, capazes de modificar o entendimento da relatora, a manutenção da decisão proferida é a medida justa para o caso concreto.
+Nas razões do recurso especial (e-STJ fls. 288/354), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 3º, 5º, 7º, 9º e 10 e 805, parágrafo único, do CPC e 5º, XXXV, LIV e LV, da CF, além de dissídio jurisprudencial, alegando que, "ao rejeitar a nomeação de bens a penhora de fração do imóvel, com valor condizente com a realidade do mercado, posto que comprovado que imóvel contiguo foi vendido por valor extremamente superior, e ao deferir os pedidos dos exequentes, sem oportunizar o executado manifestar, a decisão negou vigência  ..  ao contrário do dito na decisão e no acórdão recorridos, o recorrente/executado ofertou à penhora uma fração do imóvel maior, para garantia do Juízo, e fez provas sim, que o imóvel ofertado possui valores muito superiores ao valor do suposto crédito" (e-STJ fl. 307).
+Foram oferecidas contrarrazões, requerendo a condenação por litigância de má-fé (e-STJ fls. 382/415).
+No agravo (e-STJ fls. 427/463), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 470/506).
+É o relatório.
+Decido.
+No que se refere ao art. 5º, XXXV, LIV e LV, da CF, compete ao STJ zelar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+No que se refere ao bem ofertado, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 274/275):
+Ocorre que, não há qualquer argumento novo que cause a modificação da decisão monocrática que negou provimento ao Agravo de Instrumento.
+Note-se que o bem ofertado foi recusado por quatro motivos elencados pelo Juízo, quais sejam: a) não houve discriminação da área ofertada; b) os anúncios paradigmas de áreas em comarcas diversas; c) há ausência de informações sobre características da área (agricultáveis, reserva legal, preservação permanente, etc; d) não restaram demonstradas as características, benfeitorias, atividades realizadas, dentre outros.
+Assim, em leitura da decisão monocrática ora recorrida, todos os argumentos expostos pela Magistrada condutora do feito foram analisados e mantidos, ressaltando, em especial, a recusa do bem pela parte Exequente, e ainda, a necessidade de observância do artigo 835, § 1º do CPC.
+O que se constata, ao final, é que existe execução em desfavor da parte Recorrente, tendo esta apresentado Embargos à Execução, mas o bem não foi aceito pelo Juízo ou pela parte Exequente, motivo pelo qual não há falar em efeito suspensivo nos Embargos.
+E ainda, embora alegue que a área ofertada possua valor superior ao cobrado pelos Exequentes, tal argumento não restou comprovado, ressaltando que, em sede de Agravo de Instrumento, não é possível a ampla dilação probatória.
+Por fim, alega a parte Recorrente que deva ser observada a forma menos gravosa para a continuidade da execução, inexiste qualquer outro bem ofertado pelos Executados, ora Agravantes, motivo pelo qual é válida a busca dos contratos realizados com as empresas que negociam com os Recorrentes para fins de depositar em Juízo os valores eventualmente devidos, oportunizando aos Exequentes Agravados o recebimento dos seus créditos.
+O Tribunal de origem consignou que o bem ofertado foi recusado por quatro motivos e, embora alegue que área ofertada possua valor superior ao cobrado pela parte recorrente, tal argumento não foi comprovado. A alteração do decidido pelo Colegiado implicaria inadequada reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+Em referência ao dissídio j urisprudencial , "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Por fim, rejeito o pedido de condenação da parte recorrente à multa por litigância de má-fé, visto que não demonstrada conduta maliciosa ou temerária, a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
