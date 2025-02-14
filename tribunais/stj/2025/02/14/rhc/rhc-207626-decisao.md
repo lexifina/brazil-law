@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por WALLACE REIS DOS SANTOS e DAVID JEAN OLIVEIRA DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no julgamento do Habeas Corpus Criminal n 043148-70.2024.8.05.0000.
+Extrai-se dos autos que os recorrentes foram denunciados pela suposta prática dos crimes de roubo e organização criminosa. A denúncia foi recebida em 4/12/2023, ocasião na qual foi decretada a prisão preventiva, com mandado de prisão cumprido em 12/1/2024.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fls. 627/628):
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. ROUBO MAJORADO POR CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. ARTIGO 157, § 2º, INCISO II, E § 2º-A, INCISO I, C/C ARTIGO 288, § 2º, TODOS DO CÓDIGO PENAL. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. PACIENTES PRESOS PREVENTIVAMENTE DESDE O DIA 12/01/2024. REGULAR ANDAMENTO DO FEITO. PLURALIDADE DE RÉUS (QUATRO). DIFICULDADE PARA REALIZAÇÃO DA CITAÇÃO DE TODOS OS ACUSADOS. JUÍZO A QUO QUE ADOTOU TODAS AS MEDIDAS NECESSÁRIAS PARA O REGULAR PROCESSAMENTO DO FEITO. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+Da análise dos autos e do sistema de automação deste Sodalício, verifica-se que a ação penal tramita regularmente, não podendo se imputar ao órgão jurisdicional impetrado desídia na sua condução.
+Com efeito, não há que se falar em excesso de prazo na formação da culpa, tendo em vista que o processo tramita regularmente e o MM. Juízo a quo está empreendendo todas as medidas necessárias para o regular prosseguimento do feito.
+Contudo, em virtude da pluralidade de réus e da dificuldade de localização de todos para efetivação da citação, ato indispensável para consagração do devido processo legal, a audiência de instrução ainda não foi designada.
+Ademais, com a finalidade de empregar celeridade ao feito, foi determinada a citação editalícia do corréu Jean Clebson Alves da Silva, de modo que o MM. Juízo a quo está aguardando o transcurso do prazo do edital para deliberar a respeito do desmembramento do feito.
+Desse modo, indefiro o pleito de relaxamento da prisão por excesso de prazo na formação da culpa.
+HABEAS CORPUS CONHECIDO E DENEGADO."
+Nas razões do presente recurso, sustenta a ocorrência de excesso de prazo na custódia cautelar, considerando que os pacientes estão presos há aproximadamente 10 meses sem o encerramento da instrução processual.
+Aduz que nenhuma demora no andamento processual pode ser atribuída à defesa e que os fatos imputados aos pacientes teriam ocorrido no ano de 2021.
+Requer o provimento do recurso para que seja reconhecida a ilegalidade da custódia cautelar, com a consequente expedição de alvará de soltura.
+A liminar foi indeferida (e-STJ fls. 677/679).
+O Tribunal estadual e o Juízo de primeiro grau prestaram informações (e-STJ fls. 686/688 e 693/696).
+O Ministério Público Federal opinou pelo não provimento (e-STJ fls. 715/717).
+É o relatório.
+Decido.
+Presentes os requisitos de admissibilidade recursal, promovo o exame do mérito do inconformismo.
+É entendimento assente nesta Corte Superior de que o "excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional" (EDcl no HC n. 877.898/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024).
+No caso concreto, a Corte estadual valorou adequadamente a não constatação de desídia estatal ou retardamento injustificado da prestação jurisdicional, já que, observada a tramitação do feito, sobretudo com o suprimento das informações prestadas junto a esta Corte pelas instâncias antecedentes, os recorrentes tiveram suas prisões preventivas reavaliadas e, uma vez esgotados os meios de citação pessoal do corréu Jean Clébson, transcorrido o prazo da citação editalícia, o feito foi em relação a ele desmembrado, quando então, com o cumprimento do mandado de prisão, foi reunido aos autos principais, promovendo-se novas reavaliações das segregações dos recorrentes em 16/10/2024 (e-STJ fl. 696).
+Em consulta aos autos de origem via sistema jus.br, verifica-se que em 25 de novembro de 2024 ocorreu a audiência de instrução, debates e julgamento, oportunidade em que, tomadas as declarações das vítimas, ficou deliberado: "Concedo ao Ministério Público o prazo de 05 (cinco) dias para indicar novo endereço da testemunha Luciano Ângelo Santos de Sena e ao advogado Lucas Sestelo, OAB/BA 54.972 o mesmo prazo para juntada de rol de testemunhas e procuração. Para a continuidade desta audiência, com a oitiva das testemunhas faltosas e interrogatórios dos réus, designo o dia 06/03/2025, às 15 horas", reforçando-se a tramitação regular e ausência de desídia estatal.
+Ao lado disso, cabe acrescer que a aferição do excesso de prazo para formação da culpa sujeita-se ainda à consideração do "tempo concreto da prisão preventiva do agravante frente à quantidade abstrata de pena prevista para o ilícito pelo qual foi denunciado" (AgRg no HC n. 912.563/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 30/10/2024, DJe de 6/11/2024), cujas quantidades das penas em abstrato cominadas aos delitos imputados na denúncia (art. 157, § 2º, II, § 2º-A, I, duas vezes, na forma do art. 69, ambos do Código Penal, e no art. 2º da Lei 12.850/2013 - e-STJ fl. 552) não se mostra desproporcional ao tempo concreto de segregação, com reavaliações já promovidas pelo Juízo de origem.
+Nesses termos:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA NÃO EVIDENCIADO. DESPROPORCIONALIDADE DA CUSTÓDIA EM RELAÇÃO AO SUPOSTO QUANTUM DA PENA E AO REGIME INICIAL. IMPOSSIBILIDADE DE AFERIÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Hipótese em que a audiência de instrução e julgamento já foi designada, evidenciando que a conclusão do feito se aproxima, não se revelando desarrazoado o tempo de custódia cautelar imposto (desde 29/01/2023), mormente se considerada a pena em abstrato do delito imputado na denúncia (art. 33, caput, da Lei n. 11.343/2006). Além disso, verifica-se que o Juízo de primeiro grau reavaliou a necessidade da medida cautelar em ao menos duas oportunidades. Desse modo, constata-se que o processo-crime em debate tem seu trâmite regular, não havendo, no momento, falar em desídia estatal na condução do feito.
+ ..
+5. Agravo regimental desprovido."
+(AgRg no HC n. 844.062/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/9/2023, DJe de 11/9/2023)
+Assim, não desponta a existência de evidente flagrante ilegalidade capaz de justificar o acolhimento dos pleitos, ainda que por concessão de ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
