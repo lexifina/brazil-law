@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por WILCIARA CASTILHO WERTZ à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - CONTRATOS DE LOCAÇÃO - INADIMPLENCIA DO LOCADOR - AUSÊNCIA DE COMPROVAÇÃO - MULTA CONTRATUAL AFASTADA - SEGURO DE INCÊNDIO - VENCIMENTO DE PARCELA DE RESPONSABILIDADE DO LOCATÁRIO. I- Cabe ao magistrado, na condução do processo, sopesar os princípios do contraditório e da ampla defesa frente à garantia constitucional da duração razoável do processo, podendo dispensar ou indeferir a produção de provas desnecessárias para o deslinde do feito, sem que isso configure cerceamento de defesa; II- Não havendo prova concreta da mora da locadora com a aceitação dos defeitos no imóvel durante todo o prazo da locação, deve ser afastada a sua culpa na rescisão do contrato; III- Se a locatária ainda era responsável pelo imóvel no vencimento do seguro incêndio, devida a sua cobrança, nos moldes em que constou do contrato firmado entre as partes (fl. 735).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 369 do CPC, no que concerne à configuração de cerceamento de defesa em razão da impossibilidade da produção de prova oral, imprescindível para o julgamento da lide, trazendo a seguinte argumentação:
+No caso dos autos, a parte autora teve seu direito de defesa cerceado em função do indeferimento da produção de prova oral requerida e subsequente indeferimento do direito à indenização por danos morais sob o fundamento de que este não restou demonstrado nos autos.
+ ..
+Nessa toada, a prova oral requerida seria hábil a demonstrar a veracidade de tudo o que encontra-se narrado na petição inicial.
+ ..
+A sentença e o acórdão que julgou a apelação não observaram que a prova oral é indispensável ao presente caso, o que resta demonstrado, inclusive, pela fundamentação do acórdão que julgou os embargos de declaração, como já apontado.
+Nessa toada, a prova oral constituiria meio idôneo para reforçar o conjunto probatório já produzido dos autos de modo a comprovar, para além de qualquer dúvida razoável, as teses constantes na petição inicial (doc. de ordem 01), na réplica (doc. de ordem 93) e na apelação (doc. de ordem 101), em especial ao que tange à indenização por danos morais.
+ ..
+Assim, apesar de ser o magistrado o destinatário das provas, é evidente que a negativa de produção algumas vezes pode afetar profundamente a devida prestação jurisdicional, não se podendo simplesmente obliterar garantias processuais fundamentais (tais como o devido processo legal e seus mais expressivos corolários, o contraditório e a ampla defesa) para a simples e injustificada celeridade do procedimento. Não por outro motivo, o art. 369 do CPC é claro ao conferir à apelante o direito fundamental de produzir prova dos fatos em que se funda sua defesa (fls. 798/803).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tr ibunal a quo se manifestou nos seguintes termos:
+Do cerceamento de defesa
+Em suas razões recursais, o apelante sustenta que houve flagrante cerceamento de defesa, uma vez que não foi viabilizada a produção da prova oral, necessária para comprovar os fatos em debate, devendo ser designada audiência.
+Assegurados, no art. 5º, LV, da Constituição da República de 1988, a todos os litigantes em processo judicial ou administrativo, o direito ao contraditório e à ampla defesa, devem estes ser respeitados, pena de nulidade do julgamento.
+E não há dúvida de que o processo civil será ordenado, disciplinado e interpretado conforme os valores e as normas fundamentais estabelecidos na Constituição da República (art. 1º do CPC), competindo ao juiz zelar pelo efetivo contraditório (art. 7º do CPC).
+O caso sub judice, entretanto, não indica afronta aos princípios supracitados, pois, pelo que se pode avaliar e extrair das alegações ventiladas pelo réu/recorrente, a prova oral requerida seria dispensável ante a vasta documentação e fotografias encartadas no feito.
+Com efeito, mostrou-se acertado, no caso, o julgamento antecipado da lide, não havendo falar em nulidade por cerceamento de defesa (fls. 738/739).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
