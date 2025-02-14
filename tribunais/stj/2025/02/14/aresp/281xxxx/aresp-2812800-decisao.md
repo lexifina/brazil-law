@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE CAMAÇARI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇAO CÍVEL. AÇAO TRABALHISTA. MUNICÍPIO DE CAMACARI. AGENTE SOCIAL. CONTRATAÇAO DT SERVIDOR SEM CONCURSO PUBLICO. REDA. PRORROGAÇOES SUCESSIVAS. NULIDADE DO CONTRATO DIREITO AO DEPOSITO DO FGTS. VERBA DEVIDA. PRECEDENTES JURISPRUDENCIAIS. PRESCRIÇÃO QÜINQÜENAL CONFORME DECIDIDA NA SENTENÇA. HONORÁRIOS ADVOCATICIQS. FIXAÇAÕ EM FASE DE LIQUIDACAO. SENTENÇA MANTIDA. RECURSO CONHECIDO E NAO PROVIDO. EMBORA RECONHECIDA A NULIDADE DA CONTRATAÇÃO, POR VIOLAÇÃO À CONSTITUIÇÃO FEDERAL (ART. 37, II, CF/88), SUBSISTE O DIREITO DO TRABALHADOR AO DEPÓSITO DO FGTS, EX VI DO ART. 19-A, DA LEI Nº NAS AÇÕES SUBMETIDAS AO PROCEDIMENTO COMUM, EM TRAMITE NA JUSTIÇA COMUM ESTADUAL, NÃO HÁ QUALQUER DÚVIDA ACERCA DO CABIMENTO DA CONDENAÇÃO DA PARTE SUCUMBENTE AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS, AINDA QUE A CONDENAÇÃO RECAIA SOBRE A FAZENDA PÚBLICA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 19-A da Lei n. 8 .036/1990, no que concerne à impossibilidade de condenação ao pagamento da multa indenizatória de 40% do FGTS, haja vista a declaração de nulidade do contrato de prestação de serviço temporário implica apenas no pagamento do FGTS correspondente ao período de serviço prestado , trazendo a seguinte argumentação:
+3.1 Violação ao art. 19-A da Lei 8.036/1990: não se olvida que se o contrato temporário de natureza jurídico-administrativa tiver sido declarado nulos por inobservância do caráter transitório e excepcional da contratação, o respectivo servidor fará jus aos depósitos do FGTS correspondentes ao período de serviço prestado, todavia isso não contempla a multa dos 40% (quarenta por cento), que tem natureza indenizatória.
+Não há falar em pagamento da multa de 40% (quarenta por cento).
+Com efeito, reputa-se indevido esse acréscimo de 40% (quarente por cento) ao FGTS, visto que tal benefício incide apenas nas relações celetistas, com a qual não se confunde a relação que existiu entre as partes, de caráter jurídico-administrativo.
+Decerto, a declaração de nulidade do contrato de prestação de serviço temporário e seus respectivos aditamentos, implica apenas o pagamento do FGTS correlato, mas não a multa.
+Eis o cerne do recurso: a violação ao art. 19-A da Lei 8.036/1990.
+Assim, o município de Camaçari requer a modificação do acórdão para que seja excluída a multa de 40% (quarenta por cento) da condenação imposta nas instâncias ordinárias (fls. 423).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
