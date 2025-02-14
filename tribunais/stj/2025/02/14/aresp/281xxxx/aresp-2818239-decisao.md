@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por FAZENDA VELHA LTDA. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 272):
+Apelação. Embargos à execução fiscal. IPTU. Sentença de improcedência. Pretensão à reforma. Cabimento parcial. Alegação ilegitimidade passiva que havia sido rejeitada em sede de exceção de pré-executividade. Impossibilidade de rediscussão em sede de embargos à execução, ante a ocorrência de preclusão. Precedente do C. STJ. Desnecessidade de prévio procedimento administrativo para o lançamento do IPTU, concluído com a remessa do carnê ao endereço do contribuinte, nos termos da Súmula nº 397/STJ. Ausência de cerceamento de defesa. Recurso que merece parcial provimento, no entanto, quanto aos encargos moratórios, utilizando-se a SELIC para o período após a vigência da EC nº 113/2021. Precedentes desta C. Câmara. Sentença reformada em parte. Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls.282-287), a recorrente apontou violação aos arts. 485, § 3º, e 1.022, II, do CPC/2015; 2º, § 5º, II e IV, da Lei 6.830/1980 (Lei de Execução Fiscal).
+Sustentou, em síntese, negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido por omissão quanto às nulidades constatadas nas certidões de dívidas ativas, que não se submetem à preclusão, por se tratar de matéria de ordem pública.
+Defendeu que "as CDA"s executadas não especificam qual seria o termo inicial (data de início) dos encargos moratórios e da correção monetária" (e-STJ, fl. 286).
+Pleiteou, assim, a reforma do acórdão recorrido.
+Sem contrarrazões (e-STJ, fl. 304).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões relevantes ao deslinde da controvérsia, de forma clara e fundamentada, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Confira-se o seguinte excerto do voto dos aclaratórios (e-STJ, fls. 297-298):
+Nota-se, portanto, que a alegada omissão se refere a ponto tratado no v. acórdão, sobretudo no julgado do C. STJ citado no qual é rechaçada expressamente a tese de que as questões de ordem pública poderiam prevalecer ante a preclusão consumativa.
+Com efeito, a locução "a qualquer tempo" do art. 485, §3º do CPC refere-se somente à preclusão temporal, não implicando uma desconsideração pelo legislador das diversas regras direcionadas à proteção da segurança jurídica, sobretudo a coisa julgada (e sua eficácia preclusiva). Nesse sentido, "segundo a jurisprudência do STJ, as matérias de ordem pública não estão sujeitas à preclusão temporal, porém, uma vez decididas, submetem-se à preclusão consumativa, não podendo ser reapreciadas, a teor do disposto nos arts. 505 e 507 do CPC/2015" (STJ, AR n. 6.347/RS, Rel.ª Ministra Nancy Andrighi, Segunda Seção, julgado em 22/2/2024, DJe de 1/3/2024).
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. RESPONSABILIDADE CIVIL. ÓBITO ENVOLVENDO CABO DE ALTA TENSÃO. DANO MORAL. RESPONSABILIDADE E ADEQUAÇÃO DO QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido não possui as omissões suscitadas pela parte recorrente, mas apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Inexiste, portanto, ofensa ao art. 1.022 do CPC/2015. Além disso, apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais, existindo mero inconformismo da parte recorrente com o resultado do julgamento que lhe foi desfavorável. Portanto, não há ofensa ao art. 489 do CPC/2015.
+2. O Tribunal de origem, a partir do cotejo dos elementos de provas acostados aos autos, reconheceu a existência da responsabilidade da ora agravante pelo acidente ocorrido, bem como pela adequação do quantum indenizatório.
+3. Os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, o que é vedado na via estreita do recurso especial, por força da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.630.849/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+No tocante à alegação de nulidade das CDA"s, consta do acórdão recorrido (e-STJ, fl. 297, sem grifo no original):
+Inicialmente, observa-se que a alegação de nulidade da CDA já havia sido formulada no âmbito de exceção de pré-executividade oposta nos autos da execução fiscal (processo nº 1009776-50.2015.8.26.0529, p. 09/28), tendo sido rejeitada em r. decisão copiada nestes autos em p. 93/96.
+Como tal decisão não foi atacada por agravo de instrumento, a questão está abarcada pela preclusão, sendo descabida nova análise em sede de embargos à execução fiscal.
+Destarte, o acórdão recorrido encontra-se em perfeita consonância com o entendimento desta Corte, pois "ainda que se trate de matéria de ordem pública, ocorre a preclusão consumativa da questão já decidida que não foi objeto de recurso" (AgInt no AREsp n. 2.406.642/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/11/2024, DJEN de 3/12/2024.), como ocorreu no presente feito.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. QUANTUM. REVISÃO. INOVAÇÃO RECURSAL. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO CONSUMATIVA. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISDIÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. É defeso ao STJ examinar, em agravo interno, argumentos não suscitados oportunamente pelas partes no recurso especial, tendo em vista a inovação recursal e a preclusão consumativa.
+2. Ainda que se trate de matéria de ordem pública, ocorre a preclusão consumativa da questão já decidida que não foi objeto de recurso.
+3. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.004.285/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃ O FISCAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. QUESTÃO JURÍDICA DECIDIDA ANTERIORMENTE. AUSÊNCIA DE IMPUGNAÇÃO EM MOMENTO OPORTUNO. PRECLUSÃO. OCORRÊNCIA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. Ainda que se trate de matéria de ordem pública, uma vez decidida a questão e não impugnada no momento oportuno, fica configurada a preclusão. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.729.271/MS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRETENSÃO DO EXEQUENTE DE ALTERAR OS CÁLCULOS EXEQUENDOS EM EMBARGOS À EXECUÇÃO. IMPOSSIBILIDADE. PRECLUSÃO LÓGICA. AGRAVO NÃO PROVIDO.
+1. O recorrente apresentou os cálculos da execução com juros de 0,5% ao mês, porém, no julgamento dos embargos da Fazenda Pública, pleiteou a aplicação de uma taxa de juros maior, de 1% ao mês, até a edição da Lei n. 11.960/2009. O agravante defende, em suma, que a questão dos juros não está sujeita à preclusão, pois se trata de matéria de ordem pública.
+2. Com efeito, a apresentação de cálculos pelo credor com uma determinada taxa de juros é incompatível com a subsequente discordância com esse mesmo critério de atualização, independentemente de se tratar de matéria de ordem pública, haja vista a ocorrência de preclusão lógica.
+3. As matérias de ordem pública, de fato, não se sujeitam à preclusão temporal, porém ficam acobertadas tanto pela preclusão consumativa como pela preclusão lógica. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.906.980/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 10/5/2021, DJe de 18/5/2021.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RECONHECIMENTO DA PRECLUSÃO CONSUMATIVA. ACÓRDÃO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
