@@ -1,0 +1,56 @@
+DECISÃO
+RAPHAEL UCHOA BARCELOS CARLOS agrava da decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a" e "c", da CF, contra acórdão prolatado pelo Tribunal de Justiça do Rio Grande do Sul na Apelação Criminal n. 5000706-31.2017.8.21.0101.
+Consta dos autos que o agravante foi condenado à pena de 4 anos e 6 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 157, caput, do Código Penal.
+Nas razões do recurso especial, foram apontadas as violações dos arts. 155, 226 e 386, VII, todos do CPP. A defesa aduziu, em síntese, que a condenação se baseou em um reconhecimento pessoal nulo, realizado apenas na fase investigativa, motivo pelo qual requer a absolvição do réu por insuficiência de provas.
+A Corte de origem não admitiu o recurso, em razão dos óbices previstos nas Súmulas n. 282 e 356, ambas do STF, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo em recurso especial (fls. 417-421).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e a defesa impugnou os fundamentos da decisão agravada.
+O recurso especial é tempestivo, mas merece conhecimento apenas quanto à hipótese da alínea "a" do art. 105 da Constituição.
+Deveras, conforme disposição dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, quando o recurso interposto estiver fundado em divergência pretoriana (alínea "c" do art. 105 da Constituição), deve a parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico, para demonstrar, de forma clara e objetiva, a suposta incompatibilidade de entendimentos e a similitude fática entre as demandas.
+Entretanto, o recorrente, no especial, se limitou a citar trechos de julgados, sem, contudo, realizar o devido cotejo analítico; ou seja, não demonstrou, de forma clara e objetiva, a similitude fática entre as demandas, deixando de evidenciar, assim, que as peculiaridades de cada caso revelariam a identidade fática, porém com soluções distintas, em inobservância ao entendimento consolidado neste Superior Tribunal.
+Ressalto que " n ão se prestam à demonstração de dissídio jurisprudencial julgados paradigmas proferidos em habeas corpus, mandado de segurança e recurso ordinário" (AgRg no AREsp n. 1.400.990/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/8/2021).
+Verifico, ainda, que, embora o acórdão haja abordado o reconhecimento do réu na fase investigativa, a análise da questão se limitou ao resultado do procedimento, e não ao aspecto da legalidade do ato. Com efeito, a alegada violação dos arts. 155 e 226 do CPP nem sequer foi objeto de recurso nas instâncias ordinárias e a defesa, quando intimada do julgamento da apelação, não opôs embargos declaratórios para provocar a manifestação do órgão colegiado sobre o ponto. Interpôs, diretamente, o recurso que ora se analisa.
+Assim, constato a ausência de prequestionamento da matéria, a atrair a incidência das Súmulas n. 282 e 356 do STF, o que impede o conhecimento do recurso especial, em relação à negativa de vigência dos arts. 155 e 226 do Código de Processo Penal.
+II.  Violação do art. 386, VII, do CPP - não ocorrência
+De  acordo  com  a  denúncia,  os  fatos  transcorreram  da  seguinte  forma  (fl.  7):
+No dia 06 de abril de 2017, por volta das 08h50min, em via pública, na Avenida das Hortênsias, s/nº, Bairro Carniel, em Gramado/RS, em frente à loja Império do Calçado, o denunciado RAPHAEL UCHOA BARCELOS CARLOS subtraiu, para si, mediante violência e grave ameaça, exercida com o emprego de arma branca (faca), coisas alheias móveis, quais sejam, 01 (um) celular, marca Samsung, modelo Grand Prime, cor Branca, avaliado em R$ 1.198,00 (mil, cento e noventa e oito reais) e a quantia aproximada de R$ 190,00 (cento e noventa reais), conforme Auto de Avaliação Indireta (fl. 27), em prejuízo à vítima CASSIMERI FELINI.
+Na ocasião, o denunciado anunciou o assalto e rendeu a vítima com uma faca, subtraindo o dinheiro e o celular acima descrito, empreendendo fuga do local.
+Diante dessas circunstâncias, o denunciado foi preso em flagrante na cidade de Canela/RS (fl. 08), sendo posteriormente decretada a sua prisão preventiva (fl. 38 e verso).
+As res furtivae não foram localizadas.
+Agindo assim, o denunciado RAPHAEL UCHOA BARCELOS CARLOS incorreu nas sanções do artigo 157, § 2º, inciso I, do Código Penal Brasileiro.
+Na  sentença,  o  Juiz  de  direito  assim fundamentou  a  condenação  do  acusado  (fls.  273-276,  grifei):
+A materialidade vem comprovada através da comunicação de ocorrência policial de fls. 08-10, auto de prisão em flagrante de fl. 11, auto de avaliação indireta de fl. 30, mídia de fl. 95, que contém imagens da ação criminosa, captadas por câmera de vigilância existente no local, assim como pela prova oral coligida ao bojo dos autos.
+A autoria, da mesma forma, é certa e recai sobre a pessoa do denunciado.
+ ..
+Da análise da prova oral, tem-se que a negativa de autoria do réu não se sustenta diante das declarações da vítima e dos policiais militares que participaram da prisão em flagrante.
+A propósito, a vítima Cassimeri, na mesma data do fato, reconheceu o réu Raphael na Delegacia de Polícia de Gramado como sendo o indivíduo que chegou por trás e a "gravateou", encostando a faca em seu pescoço e subtraindo um celular e quantia em dinheiro, o que ocorreu na frente do estabelecimento comercial onde trabalhava, conforme consta do termo de declaração de fl. 15.
+Além disso, a vítima, em seu depoimento na fase judicial, confirmou integralmente a versão apresentada na fase policial, descrevendo inclusive as feições do acusado - pele clara, olhos castanhos e barba - que foi apresentado pelos Policiais Militares na Delegacia de Polícia, de modo que a ausência de formalização de auto de reconhecimento, ao contrário do que sustenta a defesa técnica, não infirma a certeza que emerge das palavras da ofendida em ambas as fases da persecução penal.
+Dessa forma, tenho que o apontamento da autoria na pessoa do réu, o qual, gizo, estava com o rosto descoberto, e o reconhecimento inequívoco realizado pela vítima são suficientes para ensejar a condenação.
+No campo probatório, a palavra da vítima de uma subtração é sumamente valiosa, uma vez que, incidindo sobre proceder de desconhecido, seu único interesse é apontar o verdadeiro culpado, narrando sua atuação, e não acusar inocentes.
+ ..
+Aliado a isso, ainda que não tenha sido apreendido nenhum objeto em poder do réu no momento da prisão em flagrante, importa destacar que as imagens constantes da mídia de fl. 95, consistentes nas imagens de câmera de segurança do local, registram os momentos em que o réu caminha momentos antes prática do assalto, sendo que estava com o rosto descoberto no momento da execução do crime, o que, aliás, facilitou o reconhecimento pela vítima.
+Logo, do contexto probatório emerge com clareza a responsabilidade do denunciado pela empreitada delituosa, especialmente porque nenhum dos argumentos apresentados pelo réu para negar a acusação imputada na denúncia restou corroborada em juízo, não passando de meras alegações desprovidas de qualquer amparo probatório, restando assente a ação criminosa.
+No julgamento do recurso de apelação, o  Tribunal  de  origem  manteve  a  condenação , conforme se extrai do trecho a seguir  (fls.  341-342,  destaquei):
+A materialidade do crime está comprovada nos autos por intermédio da comunicação de ocorrência policial, do auto de prisão em flagrante, do auto de avaliação indireta, da mídia que contém imagens da ação criminosa, captadas por câmera de vigilância existente no local, assim como pela prova oral coligida ao bojo dos autos.
+A autoria do crime também ficou demonstrada nas provas.
+ ..
+A vítima reconheceu Raphael na Delegacia de Polícia como sendo o indivíduo que praticou o crime, tendo ainda, em seu depoimento em juízo, descrito as feições e as características do réu, tais como: pele clara, olhos castanhos e barba, o que está em sintonia com as características físicas do apelante, como se vê da mídia referente ao seu interrogatório em juízo.
+Vale lembrar que o réu, de acordo com a palavra da vítima, estava com o rosto descoberto quando da prática do crime, o que confere maior credibilidade ao reconhecimento efetuado.
+No mesmo sentido das narrativas da vítima estão os depoimentos dados pelos policiais militares Mauro e Itamar, os quais foram firmes ao dizer em juízo, em suma, que no dia em que o fato aconteceu, ao atenderem à ocorrência do fato, saíram na realização de diligências na cidade de Canela, local para onde o suspeito teria ido, e o localizaram, três horas após o acontecimento do crime, ocasião em que a vítima fez o reconhecimento do réu.
+O réu, de sua vez, negou a prática do crime, afirmando que não esteve em Gramado no dia em que o fato aconteceu.
+Da análise da prova oral, tem-se que a negativa de autoria do réu não se sustenta diante das declarações da vítima e dos policiais militares que participaram da prisão em flagrante.
+Assim sendo, não prospera a tese de insuficiência de provas sustentada pela defesa.
+A defesa busca a absolvição do réu por insuficiência de provas, sob o argumento de que a condenação se haveria baseado apenas em elementos coligidos durante a fase investigativa.
+Pelos trechos anteriormente transcritos, verifico que as instâncias ordinárias, depois de extensa análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos a ensejar a condenação do réu pelo crime de roubo simples.
+Acerca da matéria, para desconstituir a conclusão alcançada - como pretende a defesa -, seria necessário, nesta oportunidade, realizar aprofundado reexame de provas, o que, no entanto, é inviável neste recurso.
+Por essas razões, não se mostra possível deferir o pleito de absolvição do réu por insuficiência de provas, sobretudo em se considerando que, no processo penal, vigora o sistema da persuasão racional, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar, desclassificar ou absolver, desde que o faça fundamentadamente, tal como ocorreu no caso.
+Dessa forma, justamente porque verificado que o Juiz sentenciante, ao concluir pela autoria do recorrente no cometimento do delito em questão, sopesou as provas colhidas e os depoimentos obtidos em juízo, não há como se proclamar a absolvição do réu, como pretendido.
+Há de se salientar que mais incursões na dosagem das provas constantes dos autos para concluir sobre a viabilidade ou não da condenação do acusado é questão que esbarra na própria apreciação de possível inocência, matéria que não pode ser dirimida em recurso especial, a teor do enunciado na Súmula n. 7 do STJ, porquanto exige o reexame aprofundado das provas colhidas no curso da instrução probatória.
+Diante de tudo que foi apresentado, considero não haver sido violado o dispositivo indicado.
+III.  Dispositivo
+À  vista  do  exposto,  conheço  do  agravo  para  conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe  provimento .
+Em tempo, corrija-se a autuação para fazer constar o nome do recorrente por extenso, tendo em vista que, na espécie, não há motivo legal para a ocultação da sua identidade.
+Publique-se  e  intimem-se.
+EMENTA
