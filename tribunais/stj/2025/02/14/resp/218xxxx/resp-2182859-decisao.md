@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por CICERA PROFIRIO DA SILVA E OUTROS com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, ROSALVO FEITOSA DE LIMA e outros ajuizaram cumprimento de sentença no valor de R$ 1.941.342,01 (um milhão, novecentos e quarenta e um mil, trezentos e quarenta e dois reais e um centavos), em 2022, tendo como objetivo a execução de título judicial que reconheceu o direito ao reajuste de 47,94% para servidores da FUNASA.
+Após sentença que rejeitou a impugnação ao cumprimento de sentença, foi interposto agravo de instrumento, que teve seu provimento concedido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, ficando consignado que o título executivo era inexigível devido a decisões cautelares do STF em ADIs anteriores ao trânsito em julgado.
+O referido acórdão foi assim ementado, in verbis:
+CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 47,94%. INCONSTITUCIONALIDADE. LIMINAR NA ADI 1612. INEXIGIBILIDADE DO TÍTULO.
+1. Cuida-se de agravo de instrumento, interposto pela FUNASA contra decisão do MM. Juiz Federal da 3ª Vara-AL, que rejeitou seu argumento de inexigibilidade de título judicial, o qual havia deferido em favor dos exequentes diferenças relativas ao reajuste de 47,94%, reajuste este declarado inconstitucional pelo STF. Na decisão da relatoria que recebeu o recurso, foi deferido o pedido de efeito suspensivo.
+2. O título judicial exequendo transitou em julgado em 27/10/1998 (id. 4058000.11962267).
+3. A orientação do Pleno desta Corte é de que o marco temporal para que se considere que o título será alcançado pela declaração de inconstitucionalidade é a data da concessão da liminar na ADI 1612, de 28/05/1997 (PROCESSO: 00091687220014058000, EMBARGOS INFRINGENTES, DESEMBARGADOR FEDERAL MANOEL DE OLIVEIRA ERHARDT, PLENO, JULGAMENTO: 02/08/2023).
+4. No caso dos autos, o acórdão que reconheceu em favor dos exequentes direito ao reajuste de 47,94% transitou em julgado em 27/10/1998, ou seja, em data posterior à liminar concedida na ADI 4612, de modo que há de ser reconhecida, na linha do entendimento pacificado no Pleno desta Corte, a inexigibilidade do título.
+5. Agravo de instrumento provido.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, os recorrentes apontam violação dos artigos 502, 503, 508 e 1.022, II, do CPC-2015. Sustentam, em síntese, além de negativa de prestação jurisdicional que a decisão violou a coisa julgada e sua eficácia preclusiva, uma vez que a questão da inexigibilidade já havia sido decidida no REsp 1.344.681/AL.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+No tocante à suposta violação do art. 1.022 do CPC/2015, não assiste razão à parte recorrente.
+A análise do acórdão recorrido em conjunto com a sua decisão integrativa revela que o Tribunal de origem adotou fundamentação necessária e suficiente à solução integral da controvérsia que lhe foi devolvida, tendo apreciado, de modo coerente e satisfatório, as questões imprescindíveis ao deslinde do feito.
+Conclui-se, portanto, que o acórdão recorrido não padeceu de qualquer mácula capaz de ensejar a oposição de embargos de declaração.
+Sendo assim, a oposição dos embargos declaratórios teve a sua finalidade desvirtuada, porquanto caracterizou, apenas, a irresignação da parte embargante, ora recorrente, em relação à prestação jurisdicional contrária aos seus interesses.
+Conforme a pacífica jurisprudência do Superior Tribunal de Justiça, não ocorre a violação do art. 1.022 do CPC/2015, quando as questões discutidas nos autos são analisadas, mesmo que implicitamente, ou ainda afastadas de modo embasado pela Corte Julgadora originária, posto que a mera insatisfação da parte com o conteúdo decisório exarado não autoriza a oposição de embargos declaratórios.
+Ainda de acordo com o entendimento dominante desta Corte Superior, a violação supramencionada tampouco ocorre quando, suficientemente fundamentado o acórdão impugnado, o Tribunal de origem deixa de enfrentar e rebater, individualmente, cada um dos argumentos apresentados pelas partes, uma vez que não está obrigado a proceder dessa forma.
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1022 DO CPC. INOCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. DEFENSORIA PÚBLICA INTEGRANTE DE ENTE FEDERATIVO DIVERSO. CABIMENTO. RECURSO ESPECIAL REPETITIVO 1.108.013/RJ. CRITÉRIOS LEGAIS DE FIXAÇÃO DA VERBA HONORÁRIA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. Constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. São devidos honorários advocatícios à Defensoria Pública quando a atuação se dá contra ente federativo diverso do qual é parte integrante (REsp 1.108.013/RJ, submetido à sistemática prevista no art. 543-C do CPC/1973). Cabível, portanto, a condenação do Estado de Pernambuco ao pagamento da verba honorária à Defensoria Pública da União.
+5. A jurisprudência STJ é no sentido de que, em regra, não é admitida a revisão de honorários advocatícios na via especial ante o óbice contido na Súmula 7/STJ, salvo se o valor fixado for exorbitante ou irrisório, excepcionalidade essa não configurada nos presentes autos.
+6. Recurso Especial parcialmente conhecido, apenas no tocante à violação do art. 1022 do CPC e, nessa parte, não provido.
+(REsp n. 1.833.594/PE, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/12/2019, DJe 12/5/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. CONEXÃO. JULGAMENTO CONJUNTO. REUNIÃO INVIABILIZADA. SÚMULA 235/STJ. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. AÇÃO RESCISÓRIA. ERRO DE FATO. PROVA FALSA. REEXAME DAS PREMISSAS ASSENTADAS PELO ACÓRDÃO ESTADUAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. A prevenção por conexão tem por finalidade evitar sejam proferidas decisões conflitantes, e, bem por isso, não haverá necessidade de reunião dos processos se um deles já tiver sido julgado Súmula n. 235/STJ.
+2. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+3. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo falar em negativa de prestação jurisdicional.
+4. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.594.694/MS, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/6/2020, DJe 12/6/2020.)
+Esclareça-se que a pretensão recursal passa pela análise do título executivo formado na ação de conhecimento. Contudo, o Superior Tribunal de Justiça possui entendimento consolidado no sentido de que a análise de ofensa ou não à coisa julgada importa em reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7 deste Tribunal.
+Nesse sentido:
+PROCESSUAL CIVIL. TÍTULO EXECUTIVO JUDICIAL. INTERPRETAÇÃO. POSSIBILIDADE. OFENSA À COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência do STJ, no sentido de que "não viola a coisa julgada a interpretação do título judicial conferida pelo magistrado, para definir seu alcance e extensão, observados os limites da lide" (AgInt no AREsp 1696395/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Órgão Julgador T3 - TERCEIRA TURMA, DJe 18/12/2020.
+2. Hipótese em que o acolhimento da pretensão recursal, a fim de reconhecer a eventual ofensa à coisa julgada na interpretação do título judicial pelas instâncias de origem, demandaria a incursão no conjunto fático-probatório, providência que esbarra no óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1640417/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/09/2021, DJe 17/09/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE DA TABELA DO SUS. LIMITAÇÃO TEMPORAL. QUESTÃO DECIDIDA NA AÇÃO DE CONHECIMENTO. REDISCUSSÃO EM EMBARGOS À EXECUÇÃO. INVIABILIDADE. COISA JULGADA. ALTERAÇÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. PRECLUSÃO CONSUMATIVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Com efeito, o Superior Tribunal de Justiça, no julgamento do REsp 1.179.057/AL, submetido à sistemática dos recursos repetitivos, previsto no art. 543-C do CPC/73, firmou a tese de que o índice de 9,56%, decorrente da errônea conversão em real, somente é devido até 1º de outubro de 1999, data do início dos efeitos financeiros da Portaria 1.323/99, que estabeleceu novos valores para todos os procedimentos.
+2. Todavia, na hipótese dos autos, há determinação expressa no título exequendo (REsp 422.671/RS), quanto ao termo final de incidência do índice de reajuste de 9,56%, relativo ao mês de novembro de 1999, razão pela qual não pode ser alterada no âmbito dos Embargos à Execução, sem ofensa à coisa julgada.
+3. Havendo determinação expressa na parte dispositiva do título exequendo quanto ao termo final de incidência do índice de reajuste, anterior à tese firmada em julgamento repetitivo, inafastável essa determinação, em face da ocorrência da preclusão consumativa.
+4. Ademais, para modificar a conclusão a que chegou a Corte a quo sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossívelante o óbice da Súmula 7 do STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1767027/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/05/2021, DJe 01/07/2021)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
