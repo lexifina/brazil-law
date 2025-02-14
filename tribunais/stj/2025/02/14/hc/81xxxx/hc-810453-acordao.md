@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, denegar a ordem.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. RECEPTAÇÃO. MANUTENÇÃO DA PRISÃO PREVENTIVA. REQUISITOS LEGAIS. PRECEDENTES. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus em que se busca a revogação da prisão preventiva do acusado, com a aplicação de medidas cautelares alternativas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se estão presentes os requisitos legais para a manutenção da prisão preventiva do acusado, conforme disposto no art. 312 do Código de Processo Penal e se é possível a substituição por medidas cautelares alternativas.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva foi mantida com base na garantia da ordem pública e para assegurar a aplicação da lei penal, em razão da periculosidade concreta do acusado e da gravidade dos crimes supostamente praticados.
+4. O acórdão impetrado destacou a presença de fortes indícios de materialidade e autoria delitiva, além do risco de reiteração criminosa, justificando a necessidade da prisão preventiva.
+5. A aplicação de medidas cautelares alternativas foi considerada insuficiente para garantir a ordem pública, dada a gravidade concreta da conduta delituosa e a periculosidade do acusado.
+IV. ORDEM DE HABEAS CORPUS DENEGADA.
+RELATÓRIO
+Tendo  em  vista  as  orientações  e  valores  destacados  no  Pacto  Nacional  do  Judiciário  pela  Linguagem  Simples,  o  qual  está  pautado  em  instrumentos  internacionais  de  direitos  humanos  e  de  acesso  à  Justiça,  adoto  o  último  relatório  contido  nos  autos  (e-STJ,  fl. 413).
+Consta dos autos que: "Em 08/08/2022 fora recebida a denúncia e decretada a prisão preventiva do acusado Fellipy, tendo sido, ainda, ordenada a citação dos réus." (e-STJ, fl. 427), pela suposta prática dos delitos previstos no s art. 12 da Lei nº 10.826/03 e art. 180, §1º, do Código Penal.
+O impetrante  pretende,  em  síntese,  a revogação da prisão preventiva, ainda que com aplicação das medidas cautelares alternativas.
+O  Ministério  Público  manifestou-se  pelo não conhecimento  do habeas corpus  (e-STJ ,  fls.  433/451).
+Instada  a  se  manifestar,  a  defe  sa  afirmou  que  remanesce  o  interesse  na  análise  do  pedido  (e-STJ ,  fls. 458/460).
+É  o  relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. RECEPTAÇÃO. MANUTENÇÃO DA PRISÃO PREVENTIVA. REQUISITOS LEGAIS. PRECEDENTES. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus em que se busca a revogação da prisão preventiva do acusado, com a aplicação de medidas cautelares alternativas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se estão presentes os requisitos legais para a manutenção da prisão preventiva do acusado, conforme disposto no art. 312 do Código de Processo Penal e se é possível a substituição por medidas cautelares alternativas.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva foi mantida com base na garantia da ordem pública e para assegurar a aplicação da lei penal, em razão da periculosidade concreta do acusado e da gravidade dos crimes supostamente praticados.
+4. O acórdão impetrado destacou a presença de fortes indícios de materialidade e autoria delitiva, além do risco de reiteração criminosa, justificando a necessidade da prisão preventiva.
+5. A aplicação de medidas cautelares alternativas foi considerada insuficiente para garantir a ordem pública, dada a gravidade concreta da conduta delituosa e a periculosidade do acusado.
+IV. ORDEM DE HABEAS CORPUS DENEGADA.
+VOTO
+Sabe-se que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (RHC 174.619/ES, Relator Ministro Sebastião Reis Júnior, 6ª Turma, j. em 11/04/2023, DJe 16/05/2023).
+O ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade do indivíduo como regra. Desse modo, a prisão antes do trânsito em julgado revela-se cabível tão somente quando, presentes as condições do art. 312 do CPP, estiver concretamente comprovada a existência do "fumus comissi delicti", aliado ao "periculum libertatis", sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Além disso, "em razão de seu caráter excepcional, a prisão preventiva somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282, § 6º, do CPP" (AgRg no HC 716.740/BA, Relator Ministro Joel Ilan Paciornik, 5ª Turma, j. em 22/03/2022, DJe 07/04/2022).
+No caso, a prisão preventiva foi mantida com base nos seguintes argumentos (e-STJ, fls. 231/234, grifos acrescidos):
+Com relação aos fundamentos da decisão, ao contrário do que afirma o impetrante, verifica-se que o decreto preventivo (Id. 111698741- Proc. n.º 0000544-62.2022.8.17.5920 - PJe 1º Grau) foi devidamente lastreado na garantia da ordem pública e para assegurar a aplicação da lei penal, em face da periculosidade em concreto do paciente, bem como pela repercussão social do delito praticado.
+Nas incisivas palavras da magistrada de 1º grau:
+" ..  Passo à análise do requerimento de prisão preventiva de FELLIPY DONATTANY SOARES.
+Analisei os autos e chego à conclusão de que o requerimento deve ser acolhido.
+Explico. A prisão preventiva strictu sensu, essa de que se cuida, do mesmo modo que toda e qualquer prisão de natureza cautelar, como se sabe e como tenho reiteradamente apregoado, conforme tem-se pacificado na doutrina e na jurisprudência firmada por nossos Tribunais, possui caráter de excepcionalidade, cuja medida é condicionada às regras emanadas do art. 312 do Código de Processo Penal.
+Impõe-se a prisão preventiva quando presentes os pressupostos a ela inerentes, isto é, quando houver prova material da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do réu.
+De partida, enxergo presente o fumus delicti comissi, caracterizado pela existência de fortes indícios de materialidade e autoria delitiva.
+Os elementos colacionados à denúncia, oriundos das diligências investigativas da Polícia Judiciária, ao menos nesta fase, não elididos por outros, são fortes em indicar a materialidade e a autoria delitiva, consoante boletim de ocorrência (ID nº 109939160 - Pág. 8); auto de apreensão e apresentação (ID nº 109939160 - Pág. 5); e depoimentos colhidos no bojo do Inquérito Policial.
+Doutro lado, há que se observar ainda a existência de um de seus fundamentos, ou seja, aplica-se como forma de garantia de ordem pública ou econômica, conveniência da instrução criminal e ainda para assegurar aplicação de lei penal, dado que o objetivo preponderante é exatamente evitar a sustação da ação da Justiça, principalmente por tratar-se de medida privativa de liberdade de indivíduo que ainda não foi condenado definitivamente, posto que a regra vigente é a de que o denunciado tem o direito público subjetivo de responder ao processo em liberdade, salvo, é claro, nesses casos excepcionalíssimos (art. 5º, LXVI da CF).
+A propósito, dispõe o art. 312 do CPP, litteris:
+Art. 312. A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado. (Redação dada pela Lei nº 13.964, de 2019)
+§ 2º A decisão que decretar a prisão preventiva deve ser motivada e fundamentada em receio de perigo e existência concreta de fatos novos ou contemporâneos que justifiquem a aplicação da medida adotada. (Incluído pela Lei nº 13.964, de 2019)
+Por conseguinte, para fins de decretação de toda e qualquer medida cautelar, esse periculum libertatis que a justifica deve ser atual, presente. Afinal, as medidas cautelares são "situacionais", "provisionais", tutelam uma situação fática presente, um risco atual. É dizer, não se admite a decretação de uma medida cautelar para tutelar fatos pretéritos, que não necessariamente ainda se fazem presentes por ocasião da decisão judicial em questão. É exatamente isso o que a doutrina chama de prin-cípio da atualidade (ou contemporaneidade) do perigo (ou do periculum libertatis).
+É dentro desse contexto que deve ser compreendida, portanto, a parte final do art. 312, §2º, incluído pela Lei n. 13.964/19, segundo o qual a decisão que decretar a prisão preventiva deve ser motivada e fundamentada em receio de perigo e existência concreta de fatos novos ou contemporâneos que justifiquem a aplicação da medida adotada. Em sentido semelhante, o art. 315, §1º, do CPP, também incluído pelo Pacote Anticrime, passa a dispor que na motivação da decretação da prisão preventiva ou de qualquer outra cautelar, o juiz deverá indicar concretamente a existência de fatos novos ou contemporâneos que justifiquem a aplicação da medida adotada.
+In casu, observo que o denunciado FELLIPY DONATTANY SOARES oferece alto risco de afrontar a ordem pública, emergindo dos autos fortes indicativos de que representa periculosidade social. O crime praticado, em tese, possui contornos de significativa gravidade, uma vez que, supostamente, o acusado teria roubado o veículo marca TOYOTA, modelo HILUX, cor prata, placa PCO5E20, em Jaboatão dos Guararapes, e se encontrava na sua posse com o escopo de promover a adulteração de seus sinais identificadores e repassá-lo como objeto de alienação, além disso portava uma arma de fogo. Logo, tudo leva a crer que o acusado representa risco de praticar novas irrupções criminosas, o que demanda, portanto, a constrição de sua liberdade.
+A propósito, a prisão preventiva, calcada na garantia da ordem pública, não se limita apenas a prevenir a reprovação de fatos criminosos, mas também se presta a acautelar o meio social em face da gravidade do crime, de sua repercussão e da periculosidade do agente.
+Nesse sentido é o entendimento do Supremo Tribunal Federal  ..
+Demais disso, está presente outro fundamento para a custódia cautelar, qual seja, a garantia de aplicação da lei penal, haja vista que o acusado subtraiu-se do distrito da culpa tão logo avistou o policiamento ostensivo chegando ao local onde se encontrava. Nessa perspectiva, a fim de resguardar a eventual aplicação da lei penal, é de rigor a sua prisão cautelar.
+Noutro vértice, impende ressaltar que conforme dispõe o art. 313, I, do CPP, a prisão preventiva será admitida nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 04 (quatro) anos. É caso em tela, já que os delitos previstos art. 12 da Lei nº 10.826/03 e art. 180, §1º, do Código Penal, atribuídos ao réu, têm penas máximas superiores a quatro anos de reclusão.
+ ..  "
+Outrossim, é importante recordar que a conveniência da medida deve ser revelada pela sensibilidade do Juiz, por estar mais próximo do fato e das pessoas nele envolvidas.
+Verifica-se, desse modo, que estão presentes nos autos os elementos objetivos e subjetivos autorizadores da prisão preventiva do paciente, diante dos fortes indícios de que a sua liberdade representa clara ameaça à ordem pública e à aplicação da lei penal.
+III - Quanto ao pedido de aplicação de medida (s) cautelar (es) diversa (s) da prisão.
+No caso, não se mostra cabível a aplicação das medidas cautelares alternativas à prisão, por estarem presentes os requisitos para a decretação da prisão preventiva, consoante preconiza o art. 282, § 6º do CPP.
+ ..
+Dito isso, deve ser mantido o decreto preventivo, pois devidamente lastreado na presença de justa causa, com vistas a garantir a ordem pública e a aplicação da lei penal, em face da gravidade e repercussão social do crime praticado. A esse respeito, veja-se trecho do decreto preventivo, in verbis:
+" ..
+Por fim, entendo ser inviável a adoção das medidas cautelares diversas da prisão previstas em lei, uma vez que, no caso concreto, nenhuma delas se mostra adequada ou suficiente para impedir a virtual reiteração criminosa que se pretende evitar com a aplicação da custódia processual.
+ .. "
+Assim, não há como prosperar o pleito, por inexistir constrangimento ilegal por parte do Juízo apontado como autoridade coatora.
+A análise realizada pelo Tribunal de origem encontra-se em linha com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva. Veja-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E RECEPTAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. GRAVIDADE CONCRETA. RISCO EFETIVO DE REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+2. No caso, a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantir a ordem pública, tendo em vista a gravidade concreta da conduta imputada ao agravante, que estava na posse de uma espingarda calibre 12, que possuía registro de furto, e munições para venda e quebrou o seu celular no momento da abordagem policial, bem como o risco efetivo de reiteração delitiva, vez que o réu possui maus antecedentes, ostentando condenação definitiva pelo crime de associação para o tráfico.
+3. A propósito, "A gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva" (HC 212647 AgR, Relator Ministro ANDRÉ MENDONÇA, Segunda Turma, julgado em 05/12/2022, DJe 10/01/2023).
+4. Além disso, "como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/02/2022, DJe 18/02/2022).
+5. Eventuais condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+6. Ademais, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 928.007/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Por fim, é assente nesta Corte que "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC 844.095/PE, Relator Ministro Ribeiro Dantas, 5ª Turma, j. em 18/12/2023, DJe 20/12/202 3).
+Pelo exposto, denego a ordem de habeas corpus pleiteada.
+É o voto.
