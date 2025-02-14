@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e da incidência da Súmula n. 7 do STJ (e-STJ fls. 1.280/1.282).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 1.108):
+AÇÃO DE EXIGIR CONTAS. Sentença condenando a ré a prestar contas relativas ao período como inventariante do espólio, no prazo de 15 dias úteis, sob pena de não lhe ser lícito impugnar as contas que o autor vier a apresentar, julgado improcedente o pedido reconvencional. Apela a ré, alegando necessidade de notificação extrajudicial como requisito à propositura da ação de exigir contas; falta de interesse de agir; inexistência de irregularidades na administração dos bens do espólio. Descabimento. Notificação extrajudicial. Prescindibilidade. Para ver o direito do autor de herdeiro e proprietário salvaguardados, necessário que a ré inventariante preste contas da administração do que foi deixado pelo falecido. Presente o interesse para a propositura de prestação de contas, sendo meio necessário, útil e adequado para o autor deduzir sua pretensão, não se verificando prejuízo algum à inventariante. Eventual regularidade nas contas da administração do inventário será apurada com a devida prestação realizada pela ré inventariante, na segunda fase. Recurso improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.127/1.128).
+Nas razões do recurso especial (e-STJ fls. 1.113/1.118), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação do art. 330, III, do CPC/2015, sustentando, em síntese, que "inexiste interesse processual nesta demanda pela redução do prazo de abrangência da presente ação (conforme inicial), não podendo o recorrente pedir contas de dezenas e dezenas de depósitos se estes, conforme aquele já apontou e demonstrou pela juntada de extratos da conta judicial, restaram feitos em conta judicial" (e-STJ fl. 1.116).
+Segundo afirma, "trata a presente de pedido de exigir contas do período compreendido entre a decisão de fls. 2.138/2.140 dos autos principais até a propositura desta demanda. Pois bem. Tal decisão podou a possibilidade da Inventariante de pagar as contas do Espólio, bem como de cobrar qualquer valor em nome do Espólio de José Guido. Ou seja, expressamente a Nobre Magistrada de piso determinou que todos os pagamentos de créditos do Espólio (aluguéis) daquela data em diante fossem feitos via depósito judicial" (e-STJ fl. 1.115).
+No agravo (e-STJ fls. 1.285/1.294), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.297/1.307), requerendo aplicação de multa.
+É o relatório.
+Decido.
+Na origem, trata-se ação de exigir contas julgada procedente "condenando a ré a prestar contas relativas ao período como inventariante do espólio" (e-STJ fls. 1.108).
+O acórdão impugnado reconheceu a presença de interesse processual para a propositura da ação de exigir de contas, considerando a alegação de inconsistências contábeis, decidindo a matéria nos seguintes termos (e-STJ fls. 1.009/1.010):
+O demandante expressa na inicial a existência de inconsistência contábeis no inventário, irregularidades nos depósitos dos aluguéis de bens do espólio, existência de meses com pendências de pagamento dos aluguéis, havendo prejuízo estimado na ordem de R$ 1.000.000,00 (um milhão de reais), aproximadamente.
+Para ver seu direito de herdeiro e proprietário salvaguardados, necessário que a in ventariante preste contas da administração do que foi deixado pelo falecido.
+ ..
+Portanto, presente o interesse para a propositura da ação de prestação de contas, sendo meio necessário, útil e adequado para o autor deduzir sua pretensão, não se verificando prejuízo algum à inventariante.
+Por fim, anota-se que alegada regularidade nas contas da administração do inventário será apurada com a devida prestação realizada pela ré inventariante, na segunda fase.
+Modificar o entendimento do acórdão impugnado quanto à existência de interesse de agir, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Além disso, a alegação da parte recorrente de que não haveria interesse processual devido à existência de depósitos judiciais não afasta a necessidade de prestação de contas pela inventariante, uma vez que a ação visa esclarecer a administração dos bens do espólio. Assim, a decisão recorrida se fundamenta na utilidade, necessidade e adequação da prestação de contas, afastando qualquer nulidade por ausência de interesse processual.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Indefiro o pedido da parte agravada de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+Publique-se e intimem-se.
+EMENTA
