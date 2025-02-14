@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e da incidência da Súmula n. 7 do STJ (e-STJ fls. 612/613).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 557):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Decisão que autorizou a constrição de créditos dos executados em empresas. Possibilidade. Oferta de bens (maquinários) à penhora feita pelos agravantes, recusada justificadamente pelos exequentes. Penhora de crédito que não se confunde com penhora de faturamento. Inaplicabilidade, in casu, do Tema 769, do STJ. Observados os princípios da menor onerosidade do devedor, em cotejo com a prevalência do interesse do credor, no processo executivo. Aplicação dos artigos 805, 797, 829, §2º, 835 e 855, todos do CPC. Precedentes do STJ e desta Corte. Decisão mantida. RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 571/595), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente postulou preliminarmente a suspensão do processo em razão da determinação contida no Tema n. 769 do STJ.
+Apontou violação dos arts. 805 e parágrafo único, 829, § 2º, 835, VI e X, e 866 do CPC, afirmando que, "para que seja viável, a penhora de créditos futuros está sujeita às normas da penhora de percentual de faturamento de empresa, dado que a reiteração dos efeitos da medida constritiva ao longo do tempo pode inviabilizar o regular desempenho da atividade empresarial" (e-STJ fl. 585).
+No agravo (e-STJ fls. 624/631), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 640/658).
+É o relatório.
+Decido.
+Inicialmente, rejeito o pedido de suspensão do processo, uma vez que, além de se tratar de questão diferente da tratada nos autos, a matéria submetida ao Tema n. 769 do STJ já transitou em julgado.
+No caso, o TJSP reconheceu que "o bloqueio de créditos dos executados junto a seus clientes, não equivale a penhora sobre o faturamento são procedimentos diversos, que conduzem a resultados diferentes" (e-STJ fl. 563), destacando que "a constrição de créditos está prevista no artigo 855, do CPC, enquanto que a penhora sobre faturamento, consta do artigo 866, do mesmo Codex" (e-STJ fl. 563).
+Consignou que, "como os exequentes já integraram o quadro societário das empresas executadas, por óbvio conhecem os maquinários ofertados e a dificuldade de alienação dos mesmos, ademais, sabem da existência de créditos devidos aos agravantes, pelas empresas indicadas. A recusa dos agravados é, portanto, legítima" (e-STJ fl. 563).
+Acrescentou ainda que, "além dos equipamentos recusados pelos exequentes, os agravantes possuem créditos que ocupam a ordem preferencial do artigo 835, do CPC, não há falar em inobservância do princípio da menor onerosidade do devedor, mesmo porque este não se sobrepõe ao fato de que a execução se processa no interesse do credor" (e-STJ fl. 565).
+Modificar o entendimento do acórdão impugnado e afastar a conclusão de que seria legítima a recusa dos bens ofertados à penhora demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Além disso, não há impedimento para a penhora dos créditos, visto que "a ordem de preferência de penhora estabelecida no art. 835 do CPC não é absoluta, podendo ser mitigada à luz das circunstâncias de cada hipótese  ..  Nos termos do art. 805, parágrafo único, do CPC, ao executado que alegar ser a medida executiva mais gravosa incumbe indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos executivos já determinados" (AgInt no REsp n. 2.105.792/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
