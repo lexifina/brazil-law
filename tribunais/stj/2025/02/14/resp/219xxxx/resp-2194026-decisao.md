@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIEL PEDRO DE SOUZA, com fundamento no art. 105, III, alínea a, da Constituição Federal.
+Na origem, o recorrente apresentou exceção de pré-executividade, tendo como objetivo afastar a sua responsabilidade referente a dívidas de ICMS de pessoa jurídica, que fora regularmente baixada em 07/02/2020.
+Na decisão, rejeitou-se a exceção de pré-executividade apresentada pelo recorrente, determinando o prosseguimento da execução fiscal. O agravo de instrumento interposto por DANIEL PEDRO DE SOUZA foi improvido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS. O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REJEIÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECISÃO DE ORIGEM MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+1. A Lei Federal nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, em seu artigo 134, VII, dispõe sobre a responsabilidade solidária dos sócios pelas dívidas tributárias de suas empresas, responsabilidade que se estende aos sócios de microempresa, o que é o caso dos autos.
+2. Necessidade de demonstração da insuficiência de patrimônio quando da liquidação da empresa, o que não ocorreu. Precedente STJ.
+3. A comprovação apenas da baixa do CNPJ do empresário individual não é causa extintiva do crédito tributário ou da execução fiscal.
+4. Exceção de Pré-executividade que não demanda dilação probatória.
+5. Executado que não conseguir provar que não é responsável pelo débito.
+6. CDA que possui presunção de certeza e liquidez. Execução que deve prosseguir. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE.
+Não foram apresentados embargos de declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, DANIEL PEDRO DE SOUZA interpôs o presente recurso especial, apontando violação do art. 135, III, do CTN.
+Sustenta, em síntese, que a baixa da empresa na Receita Federal e na Junta Comercial ocorreu em momento anterior à propositura da ação, devendo ser extinta a execução contra o sócio. Acrescenta que não foram comprovados os requisitos para a responsabilização do sócio.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido às fls. 37/46.
+É o relatório. Decido.
+A jurisprudência desta Corte Superior entende que na execução fiscal proposta em desfavor de micro ou pequena empresa regularmente extinta, é possível o imediato redirecionamento do feito contra o sócio, com base na responsabilidade prevista no art. 134, VII, do CTN, cabendo-lhe demonstrar a eventual insuficiência do patrimônio recebido por ocasião da liquidação para, em tese, poder se exonerar da responsabilidade pelos débitos exequendos.
+Neste diapasão, destacam-se os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA VEDAÇÃO DA DECISÃO SURPRESA. INEXISTÊNCIA. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. MATÉRIA PREQUESTIONADA. MICROEMPRESA. REGISTRO DE DISTRATO. INCLUSÃO DO SÓCIO-GERENTE NO POLO PASSIVO DA EXECUÇÃO FISCAL. ART. 9º DA LC N. 123/2006. ARTIGOS 134, VII, E 135, III, DO CTN. NECESSIDADE DE OBSERVÂNCIA. PRECEDENTES.
+1. Não há que se falar em violação à vedação da decisão surpresa quando o julgador, examinando os fatos expostos na inicial, juntamente com o pedido e a causa de pedir, aplica o entendimento jurídico que considerada coerente para a causa. Precedente: AgInt no AREsp 1.468.820/MG, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, Dje 27/09/2019. 2. Não prospera a alegação de ausência de prequestionamento tendo em vista que o tema do redirecionamento da execução fiscal e a responsabilização do sócio pelos débitos da empresa executada foram expressamente analisadas pelo Tribunal de origem. 3. Este Superior Tribunal de Justiça já manifestou o entendimento de que "O distrato social, ainda que registrado na junta comercial, não garante, por si só, o afastamento da dissolução irregular da sociedade empresarial e a consequente viabilidade do redirecionamento da execução fiscal aos sócios gerentes."
+(REsp 1.777.861/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/2/2019), sendo necessária a realização do ativo e do pagamento do passivo, para a regular extinção da pessoa jurídica.
+4. Tratando-se de execução fiscal proposta em desfavor de micro ou pequena empresa regularmente extinta, é possível o imediato redirecionamento do feito contra o sócio, com base na responsabilidade prevista no art. 134, VII, do CTN, cabendo-lhe demonstrar a eventual insuficiência do patrimônio recebido por ocasião da liquidação para, em tese, poder se exonerar da responsabilidade pelos débitos exequendos. Precedentes: REsp 1.591.419/DF, Rel. Min. Gurgel de Faria, Primeira Turma, Dje 26/10/2016; AgInt no REsp 1.737.621/SP, Rel. Min. Regina Helena Costa, Primeira Turma, Dje 27/2/2019.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.737.677/MS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/11/2019, DJe de 20/11/2019.) (Grifo não consta no original)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL. MICROEMPRESA. EXTINÇÃO REGULAR. REDIRECIONAMENTO IMEDIATO. ART. 134, VII, DO CTN. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte adota o entendimento segundo o qual, em execução fiscal proposta em desfavor de micro ou pequena empresa regularmente extinta, é possível o redirecionamento do feito contra o sócio-gerente, com base na responsabilidade prevista no art. 134, VII, do CTN, cabendo-lhe demonstrar a eventual insuficiência do patrimônio recebido por ocasião da liquidação para, em tese, poder se exonerar da responsabilidade pelos débitos exequendos.
+III - Os Agravantes não apresentam argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 1.737.621/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/2/2019, DJe de 27/2/2019.) (Grifo não consta no original)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
