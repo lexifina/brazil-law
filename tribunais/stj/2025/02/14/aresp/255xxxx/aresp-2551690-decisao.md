@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CREAÇÕES OPÇÃO LTDA. contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula n. 284 do STF.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Cível n. 0189274-53.2015.8.19.0001) nos autos de ação de reparação de danos.
+O julgado foi assim ementado (fl. 386):
+APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS. DIREITO DE IMAGEM. MODELO FOTOGRÁFICO. USO INDEVIDO DE IMAGEM. MULTA CONTRATUAL. INCIDÊNCIA DA CLÁUSULA PENAL SOBRE O VALOR TOTAL DA CONTRATAÇÃO. A CONSTITUIÇÃO FEDERAL, EM SEU ARTIGO 5.º, INCISO X, ESTABELECE ASSENTA INVIOLABILIDADE DA INTIMIDADE, VIDA PRIVADA, HONRA E IMAGEM DAS PESSOAS, ASSEGURADO O DIREITO À INDENIZAÇÃO PELO DANO MATERIAL OU MORAL DECORRENTE DE SUA VIOLAÇÃO. TENDO RESTADO AJUSTADO, EM CONTRATO DE LICENÇA DE USO DE IMAGEM, QUE A UTILIZAÇÃO DAS IMAGENS FOTOGRÁFICAS DO AUTOR SE DARIA PELO PERÍODO DE SEIS MESES, REPRESENTA VIOLAÇÃO ÀS DISPOSIÇÕES CONTRATUAIS, A UTILIZAÇÃO DA IMAGEM APÓS O PRAZO ACORDADO, A ENSEJAR A PRORROGAÇÃO POR UM NOVO PERÍODO, ALÉM DA APLICAÇÃO DA MULTA CONTRATUAL DE 100% DO VALOR TOTAL CONTRATADO. DANO MORAL IN RE IPSA. ENUNCIADO Nº 403 DA SÚMULA DA JURISPRUDÊNCIA PREDOMINANTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. QUANTUM ARBITRADO NO VALOR DE R$ 6.000,00 (SEIS MIL REAIS), PARA CADA AUTOR, QUE ATENDE AOS CRITÉRIOS DE RAZOABILIDADE E PROPORCIONALIDADE. ENUNCIADO Nº 343 DA SÚMULA DESTE EGRÉGIO TRIBUNAL DE JUSTIÇ. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 489, § 1º, IV, e 1.023 do Código de Processo Civil. Afirma que o acórdão recorrido é omisso no que concerne à preliminar de nulidade de sentença, arguida no recurso de apelação. Aduz que, opostos embargos de declaração, o Tribunal local manteve a referida omissão.
+Requer, assim, o provimento do recurso.
+O prazo para apresentação das contrarrazões ao recurso especial transcorreu in albis (fl. 437).
+O apelo extremo foi inadmitido (fls. 439-441), tendo sido apresentado o agravo em recurso especial (fls. 449-452).
+Transcorreu in albis o prazo para apresentação de contraminuta de agravo (fl. 458).
+É o relatório. Decido.
+O recurso merece prosperar.
+Trata-se na origem de ação de indenização ajuizada pelo ora recorrido, pretendendo a reparação de danos morais decorrentes de descumprimento contratual e uso indevido de imagem.
+O Juízo de primeiro grau julgou parcialmente procedente a ação para condenar a ora recorrente a pagar o valor de R$ 12.000,00 em razão do descumprimento do contrato e de R$ 6.000,00 a título de indenização por danos morais.
+O Tribunal de origem negou provimento ao recurso de apelação.
+Em embargos de declaração, a parte ré apontou omissão quanto à preliminar de nulidade da sentença e quanto à dupla condenação.
+Os aclaratórios foram rejeitados ao fundamento de ausência dos vícios previstos no art. 1.022 do CPC, pois não foi vislumbrada omissão, entendendo-se que a irresignação era mero inconformismo da embargante e que o julgador não está obrigado a responder a todas as questões suscitadas pelas partes (fls. 407-411).
+Não obstante a rejeição dos embargos de declaração, o CPC de 2015, nos arts. 1.022, II e parágrafo único, II, e 489, § 1º, IV, dispõe que é omissa a decisão judicial que não enfrenta todos os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+No caso, a Corte local, embora devidamente provocada por meio de embargos de declaração, não apresentou fundamentação pormenorizada acerca dos relevantes argumentos suscitados pela embargante, especialmente no que tange à preliminar de nulidade de sentença, arguida no recurso de apelação e relativa ao fato de que a condenação havia se baseado em depoimento de testemunha que permanecera em sala durante todo o depoimento pessoal das partes.
+Conforme jurisprudência do STJ, os "órgãos judiciais estão obrigados a se manifestarem, de forma adequada, coerente e suficiente, sobre as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Nessa linha, "se a integração pedida por meio dos aclaratórios é negada pelo órgão julgador, há violação dos referidos dispositivos" (AgInt no REsp n. 2.011.832/TO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+Portanto, sendo omisso e genericamente fundamentado o acórdão recorrido, mesmo após a oposição dos aclaratórios, evidenciando ineficiente prestação jurisdicional violadora dos arts. 489, § 1º, IV, e 1.022, II e parágrafo único, II, do CPC, deve ser anulado o aresto dos aclaratórios (fls. 407-411) para que a pertinente questão suscitada pela embargante seja reapreciada e devidamente fundamentada em nova decisão.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de determinar o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração opostos, manifestando-se fundamentadamente acerca da questão suscitada.
+Publique-se. Intimem-se.
+ EMENTA
