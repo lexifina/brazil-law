@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício de BRUNO DE OLIVEIRA - condenado como incurso no art. 157, § 3º, parte final, c/c o art. 14, II, e 65, I, todos do Código Penal, à pena de 13 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, mais 6 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, em razão do acórdão proferido no julgamento da Apelação n. 1.0110.16.000267-8/001.
+Alega-se que não houve a consumação do delito de latrocínio, uma vez que os disparos não atingiram a vítima, justificando-se a redução da pena conforme o art. 14, II, do Código Penal; que o delito deveria ser desclassificado para furto tentado, pois não houve efetiva violência ou grave ameaça durante a subtração do dinheiro; que a qualificadora do § 3º do art. 157 deveria ser excluída, já que não houve lesão corporal ou morte decorrente da ação dos denunciados; que a reprimenda do paciente deveria ser reduzida ao mínimo legal, considerando a confissão espontânea e a ausência de antecedentes criminais; e que o regime de início do cumprimento da pena deveria ser alterado para o semiaberto, em razão da primariedade do réu e das circunstâncias do crime.
+Requer-se, ao final, o seguinte (fl. 12):
+  A desclassificação do delito imputado ao réu Bruno de Oliveira para o de furto tentado;
+  Subsidiariamente, a redução máxima da sanção estipulada pela tentativa de latrocínio;
+  A exclusão da qualificadora prevista no § 3º do art. 157 do Código Penal;
+É o relatório.
+O writ, no entanto, é manifestamente inadmissível.
+No caso, a condenação do paciente já é definitiva (trânsito em julgado no dia 22/1/2018). Assim, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 825.424/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/7/2024; e AgRg no HC n. 901.897/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 26/6/2024.
+Ademais, não há flagrante ilegalidade apta a justificar a concessão da ordem de ofício, considerando que: a) conforme jurisprudência do Superior Tribunal de Justiça, havendo dolo de roubar e dolo de matar para assegurar o roubo, está configurado o delito de latrocínio na forma tentada no caso de a morte não se consumar por circunstâncias alheias à vontade do agente (AgRg no HC n. 653.040/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/11/2021 - grifo nosso), tal como no caso, em que os agentes ficaram durante todo o tempo com a arma de fogo apontada em direção ao peito da vítima e por três vezes o denunciado Bruno acionou o gatilho do revólver em direção ao peito da vítima, mas a arma falhou (fl. 18); b) diante da dinâmica descrita, não há evidência de ilegalidade na adoção da fração de 1/3 pelo reconhecimento da tentativa (confira-se, a propósito, o AgRg no HC n. 609.131/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/8/2021); e c) as questões referentes à dosimetria da pena e ao regime não foram examinadas pelo Tribunal de origem, razão pela qual resta afastada a competência desta Corte Superior para conhecimento das matérias, sob pena de incorrer em indevida supressão de instância (AgRg no HC n. 914.979/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 5/9/2024).
+Pelo exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE CABIMENTO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
