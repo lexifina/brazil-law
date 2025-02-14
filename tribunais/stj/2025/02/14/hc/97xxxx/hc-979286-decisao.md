@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  de  liminar,  impetrado  em  favor  de  WILLIAM JOSE DE LIMA,  no  qual  se  aponta  como  autoridade  coatora  o  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  na  Apelação  n.  1501006- 96.2024.8.26.0625,  assim  ementada  (fl.  15):
+ROUBOS DUPLAMENTE MAJORADOS - Autoria e materialidade comprovadas - Palavras das vítimas em consonância com os demais elementos de convicção colhidos, especialmente com a confissão detalhada de William e com os depoimentos dos policiais civis Absolvição por insuficiência de provas - Impossibilidade - Penas dosadas de acordo com os parâmetros legais - Penas-base fixadas acima do mínimo legal, na forma do art. 59 do CP, em face do reconhecimento de circunstâncias judiciais desfavoráveis - Regime inicial fechado fundamentadamente imposto. Apelos desprovidos.
+Consta  dos  autos  que  o  paciente  foi  condenado  à  pena  de  08 (oito) anos, 07 (sete) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais 18 (dezoito) dias-multa por infração ao art. 157, § 2º, inciso II, e 2º-A, inciso I, por duas vezes, na forma do art. 71, caput, ambos do Código Penal.
+Em  suas  razões,  sustenta  o  impetrante  a  ocorrência  de  constrangimento  ilegal,  porquanto  haveria bis in idem na medida em que o emprego de arma de fogo foi utilizado para aumentar a reprimenda na primeira fase em 1/3 e, também, exasperá-la em 2/3 na última fase (fl. 06).
+Alega , ainda,  que  houve  exasperação da pena-base em 1/3 (um terço) em virtude da negativação da culpabilidade sem a devida fundamentação.
+Defende que, caso mantida a circunstância desfavorável da culpabilidade na primeira fase, seja fixada a fração de 1/6 (um sexto) e consequentemente compensada com a confissão espontânea na segunda fase dosimétrica.
+Aduz, por fim, a ausência de justificação idônea para a estipulação do regime inicial fechado.
+Requer a concessão da ordem para que a pena do paciente seja redimensionada nos termos delineados na impetração.
+É  o  relatório.
+DECIDO.
+A  impetração  não  pode  ser  conhecida.
+Em consulta ao andamento processual disponível no site do Tribunal a quo, observa-se que foi interposto, pela Defesa, recurso especial contra o acórdão proferido no julgamento da Apelação Criminal n.  1501006- 96.2024.8.26.0625.
+Assim, o ora paciente, além de manejar este feito, interpôs também recurso especial, o qual já foi encaminhado para o setor de processamento de recursos do referido Tribunal de Justiça.
+Nessa  hipótese,  diante  da  incidência  do  postulado  da  unirrecorribilidade,  é  inadmissível  a  dupla  inquinação  do  decisum  por  instrumentos  processuais  diversos.
+Firme  a  jurisprudência  deste  Sodalício  na  matéria:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. DIREITO PENAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ROUBO MAJORADO. AUTORIA. RECONHECIMENTO PESSOAL. EXISTÊNCIA DE OUTROS MEIOS DE PROVA IDÔNEOS E INDEPENDENTES DO ATO. REGIME PRISIONAL INICIAL FECHADO. GRAVIDADE CONCRETA DOS FATOS. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recursos e de habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da unirrecorribilidade. Precedentes.
+ ..  (AgRg no HC n. 890.250/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024; grifamos)
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  WRIT  SUBSTITUTIVO  DE  RECURSO  PRÓPRIO.  NÃO  CABIMENTO.  PRECEDENTES  DO  STF  E  STJ.  TRAMITAÇÃO  EM  PARALELO  DE  AGRAVO  EM  RECURSO  ESPECIAL.  AFRONTA  AO  PRINCÍPIO  DA  UNIRRECORRIBILIDADE.  MEDIDAS  CAUTELARES.  CONSTRANGIMENTO  ILEGAL.  SUPRESSÃO  DE  INSTÂNCIA.  PEDIDO  SUBSIDIÁRIO.  INOVAÇÃO  RECURSAL.  INADMISISBILIDADE.  AGRAVO  CONHECIDO  EM  PARTE  E,  NESSA  EXTENSÃO,  DESPROVIDO.
+1.  Esta  Corte  -  HC  535.063,  Terceira  Seção,  Rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/6/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  180.365,  Primeira  Turma,  Rel.  Min.  Rosa  Weber,  julgado  em  27/3/2020;  AgRg  no  HC  147.210,  Segunda  Turma,  Rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018  -,  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+2.  Não  bastasse  o  mencionado  entendimento  pacificamente  adotado  por  esta  Corte  Superior,  no  sentido  da  inviabilidade  de  uso  do  remédio  constitucional  em  substituição  a  recurso  previsto  em  lei,  na  hipótese  em  exame  constata-se  que  o  presente  habeas  corpus  tramita  em  paralelo  ao  recurso  especial  interposto  em  face  do  acórdão  proferido  pela  instância  ordinária,  em  evidente  violação  ao  princípio  da  unirrecorribilidade.
+ ..
+5.  Agravo  regimental  conhecido  em  parte  e,  nessa  extensão,  desprovido. (AgRg  no  HC  n.  880.190/RO,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  17/6/2024,  DJe  de  20/6/2024, grifamos)
+Diante  desse  cenário  fático-processual,
+qualquer  pronunciamento  imediato  desta  Corte  Superior  quanto  ao  pleito  vindicado  pelo  impetrante  seria  precoce,  além  de  implicar  a  subversão  da  essência  do  remédio  heroico  e  o  alargamento  inconstitucional  de  sua  competência  para  julgamento  de  habeas  corpus  ( AgRg  no  HC  733.563/RS,  Rel.  Ministro  Rogerio  Schietti  Cruz,  Sexta Turma,  julgado  em  10/05/2022,  DJe  16/05/2022).
+Ante  o  exposto,  indefiro  liminarmente  o  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
