@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FEDERAÇÃO BRASILEIRA DE BANCOS - AMICUS CURIAE contra decisão monocrática de minha relatoria que determinou a devolução dos autos ao Tribunal de origem para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, em razão da tese fixada por ocasião do Tema n. 677/STJ (REsp n. 1.820.963/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 19/10/2022, DJe de 16/12/2022).
+Alega a embargante omissão quanto à não definitividade da revisão do Tema n. 677 uma vez que pendente de julgamento embargos de declaração opostos ao julgamento realizado no REsp n. 1.820.963/SP.
+Requer sejam os embargos de declaração acolhidos para sobrestar o presente feito até o julgamento definitivo do procedimento de revisão do Tema n. 677 do STJ.
+Contrarrazões às fls. 477-484.
+É, no essencial, o relatório.
+Não há omissão no julgado, pois o Superior Tribunal de Justiça entende possível a aplicação imediata dos precedentes firmados em julgamentos submetidos à sistemática do recurso repetitivo ou da repercussão geral, independentemente da publicação do acórdão paradigma ou do julgamento de eventuais embargos de declaração opostos.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. TEMA 677/STJ. APLICAÇÃO IMEDIATA DOS PRECEDENTES FIRMADOS EM JULGAMENTOS REPETITIVOS OU DE REPERCUSSÃO GERAL. PRECEDENTES. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. Com efeito, "o Superior Tribunal de Justiça entende possível a aplicação imediata dos precedentes firmados em julgamentos submetidos à sistemática do recurso repetitivo ou da repercussão geral, independentemente da publicação do acórdão paradigma ou do julgamento de eventuais embargos de declaração opostos" (AgInt no REsp n. 2.077.026/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/6/2024, DJe de 1/7/2024). Por esse motivo, Não se mostra cabível o pedido de suspensão do processo.
+3. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.654.179/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. SUSPENSÃO DO PROCESSO ATÉ O JULGAMENTO FINAL DO RECURSO REPRESENTATIVO DA CONTROVÉRSIA. DESNECESSIDADE. JUROS INCIDENTES NA DEVOLUÇÃO DE DEPÓSITOS JUDICIAIS. TRIBUTAÇÃO PELO IMPOSTO DE RENDA PESSOA JURÍDICA-IRPJ E PELA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO-CSLL. ENTENDIMENTO FIRMADO NO RECURSO REPETITIVO 1.138.695/SC. TEMA 504/STJ. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme quanto à possibilidade de aplicação imediata do entendimento firmado sob o rito dos recursos repetitivo ou da repercussão geral, sendo desnecessário aguardar o trânsito em julgado do acórdão paradigma.
+2. A Primeira Seção desta Corte, ao exercer o juízo de adequação à tese firmada pelo STF no julgamento do Tema 962, ratificou o entendimento firmado no recurso representativo da controvérsia 1.138.695/SC, no sentido de que "os juros incidentes na devolução dos depósitos judiciais possuem natureza remuneratória e não escapam à tributação pelo IRPJ e pela CSLL" (Tema 504/STJ).
+3. Agravo interno conhecido e não provido.
+(AgInt no REsp n. 2.044.906/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Por esse motivo, não há falar em empecilho à devolução à origem para análise quanto à adequação do julgamento recorrido à tese firmada, ainda que penda, no recurso especial que tenha servido com invólucro ao paradigma, julgamento de embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. NÃO VERIFICAÇÃO. O SUPERIOR TRIBUNAL DE JUSTIÇA ENTENDE POSSÍVEL A APLICAÇÃO IMEDIATA DOS PRECEDENTES FIRMADOS EM JULGAMENTOS SUBMETIDOS À SISTEMÁTICA DO RECURSO REPETITIVO OU DA REPERCUSSÃO GERAL, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO PARADIGMA OU DO JULGAMENTO DE EVENTUAIS EMBARGOS DE DECLARAÇÃO OPOSTOS. EMBARGOS DE DECLA RAÇÃO REJEITADOS.
