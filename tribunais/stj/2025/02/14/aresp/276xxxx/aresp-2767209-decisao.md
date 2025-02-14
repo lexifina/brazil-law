@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por FELIPE JOSÉ DA SILVA, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 198):
+ACIDENTE DO TRABALHO - Acidente típico - Amputação do 1º e 2º dedos da mão direita - Comprovação pericial das lesões, do nexo causal e da incapacidade laborativa parcial e permanente do segurado - Auxílio-acidente devido - Sentença mantida - Recurso oficial parcialmente provido, improvido o recurso voluntário do autor.
+Nas razões do recurso especial (e-STJ, fls. 207-219), o recorrente apontou divergência jurisprudencial e violação do art. 62 da Lei n. 8.213/1991.
+Alegou que foi ignorado o dispositivo legal que prevê a reabilitação profissional do segurado, mesmo após comprovada a incapacidade parcial e permanente. Argumentou que, enquanto não for submetido a procedimento de reabilitação, deve receber auxílio-doença, passando a receber auxílio-acidente após a reabilitação.
+Sem contrarrazões (e-STJ, fl. 246).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Ao analisar controvérsia dos autos, o Tribunal estadual manteve a concessão do auxílio-acidente de 50% do salário de benefício e não concedeu a reabilitação profissional requerida, nos seguintes termos (e-STJ, fls. 199-200 - sem grifos no original):
+Acidente típico do trabalho ocorrido no dia 07.02.2023, devidamente comunicado à autarquia (CAT de fls.153/154), que concedeu ao autor auxílio-doença por acidente do trabalho (fls. 31).
+A prova pericial realizada nos autos pelo Dr. Bruno Ricciardi Silveira constatou que o autor, em razão do acidente típico, sofreu amputação do 1º e 2º dedos da mão direita. E acrescenta:
+"Teste semiológicos realizados com o periciado revelam que existe uma dificuldade com diminuição na função de sua mão direita em virtude da amputação sofrida em dois dedos. Além disso, como acometeu polegar e segundo dedo, há prejuízo importante ao movimento de pinça e de oposição entre o polegar e demais dedos, há diminuição de força muscular e diminuição de capacidade de preensão da mão." (fls.97)
+O nexo causal foi estabelecido pela perícia e reconhecido tanto pela empregadora, ao emitir a CAT de fls., como pela autarquia, que lhe concedeu auxílio-doença acidentário.
+Reconheceu, por fim, o perito a incapacidade parcial e permanente do autor para o trabalho habitual (mecânico de máquina de estamparia).
+Destarte, a concessão de auxílio-acidente de 50% do salário de benefício (ut artigo 86 e §§ da Lei 8.213/91 e alterações posteriores) era mesmo medida que se impunha. Neste passo, é de se ressaltar: - consolidada a lesão, não é de se falar em reabilitação profissional.
+Ademais, a singela resposta ao quesito 6 (fls.98) no sentido de que as sequelas permitem readaptação em outra função não autoriza, por si só, o seu encaminhamento ao processo de reabilitação; não basta a perícia dizer que o segurado pode ser readaptado. É de mister que a perícia indique a necessidade de reabilitação e aponte no que ela consiste para que a medida seja possível e exequível, o que não ocorre no caso dos autos.
+Ademais, o autor "retornou ao trabalho exercendo a mesma função". (fls.90)
+Como se pode notar, o Tribunal de origem fundamentou sua decisão na análise detalhada das provas e circunstâncias fáticas apresentadas nos autos, concluindo que, embora a perícia tenha constatado a incapacidade parcial e permanente do recorrente, não houve indicação específica da necessidade de reabilitação profissional.
+Dessa maneira, depreende-se que o colegiado estadual julgou a lide com base no substrato fático-probatório dos autos, considerando os laudos periciais e demais provas para concluir que a reabilitação profissional não era necessária, até mesmo porque o recorrente já havia retornado ao trabalho na mesma função.
+Assim, os argumentos utilizados para fundamentar a pretensa violação legal somente poderiam ter sua procedência verificada mediante reexame das circunstâncias fáticas, não cabendo a esta Corte, a fim de alcançar conclusão diversa da estampada no acórdão recorrido, reavaliar o mencionado suporte.
+A pretensão do recorrente de que a reabilitação profissional deveria ter sido concedida implica necessariamente a reanálise das provas e fatos já apreciados pelo T ribunal de origem, o que é vedado pela Súmula 7/STJ. Portanto, o recurso especial não merece conhecimento, pois sua pretensão esbarra na vedação imposta por esse verbete sumular .
+Diante do exposto, conheço do agravo para não conhecer o recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRABALHO. COMPROVAÇÃO PERICIAL DAS LESÕES, DO NEXO CAUSAL E DA INCAPACIDADE LABORATIVA PARCIAL E PERMANENTE DO SEGURADO. REABILITAÇÃO NÃO INDICADA NO LAUDO PERICIAL. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
