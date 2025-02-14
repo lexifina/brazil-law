@@ -1,0 +1,45 @@
+DECISÃO
+PATRICK GONCALVES LOPES, denunciado pela suposta prática de homicídio qualificado, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 5230811-24.2024.8.21.7000, que manteve sua custódia cautelar.
+A defesa busca a revogação da prisão preventiva do paciente, ao argumento de que há ilegalidade por excesso de prazo, pois o acusado está preso desde 16/6/2021 e não há previsão para a conclusão do julgamento.
+Decido.
+O Tribunal de origem afastou a alegação de excesso de prazo com amparo na seguinte fundamentação (fls. 47-48):
+O paciente teve a prisão preventiva decretada pelo suposto cometimento do delito de homicídio em desfavor da vítima. Em razão dos fatos restou pronunciado (processo 5077330-91.2021.8.21.0001/RS, evento 721, SENT1).
+Ademais, a primariedade e as demais condições pessoais favoráveis porventura existentes, não possuem, por si só, o condão de afastar a decisão devidamente fundamentada.
+Com relação à alegação defensiva do excesso de prazo na formação da culpa, entendo que a mera ultrapassagem dos prazos processuais não é suficiente para tornar a prisão preventiva ilegal, sendo necessária a demora processual injustificada e não causada pela defesa.
+Ainda, a prisão preventiva é medida de natureza cautelar cuja função visa assegurar as finalidades do processo, para melhor aplicação da lei penal. E, não havendo prazo determinado previsto em lei para sua duração, a manutenção da prisão preventiva justifica-se enquanto for necessária para o cumprimento da função cautelar.
+O que se percebe do andamento processual é o razoável trâmite do feito, não sendo possível constatar qualquer circunstância que esteja represando a formação da culpa do paciente.
+Compulsando os autos, verifico ainda, que o paciente foi denunciado pela suposta prática do delito em tela e que, em 06/10/2023, foi proferida sentença de pronúncia (processo 5077330-91.2021.8.21.0001/RS, evento 721, SENT1 ).
+Deste modo, uma vez que o paciente já foi pronunciada pelo juízo de origem, resta afastada, portanto, a alegação de excesso de prazo nos moldes do entendimento sumulado pelo Superior Tribunal de Justiça.
+Conforme a Súmula 21 do STJ: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo da instrução"..
+A Magistrada de primeiro grau, por sua vez, prestou as seguintes informações (fl. 109, grifei):
+I) A denúncia foi parcialmente recebida, em 27/72021, sendo rejeitada em relação ao codenunciado Adalberto da Luz Lopes e deferido o pedido de arquivamento do expediente policial referente ao indiciamento de Aline Jaciara Oliveira Britto da Silva. Na mesma oportunidade, foi decretada a prisão preventiva do codenunciado Jair Sousa e mantidas as prisões preventivas dos codenunciados Hedivandro Villela Sousa e Patrick Gonçalves Lopes, Robson Bittencourt dos Santos e João Fernando Martinez;
+II) Em 18/08/2022 foi indeferido o pedido de revogação da prisão preventiva do acusado;
+III) Em audiência realizada em 25/10/2022, a defesa do réu requereu novamente a revogação de sua prisão cautelar, o que foi indeferido, em 30/11/2022, por este juízo;
+IV) A necessidade da prisão preventiva do recorrente foi revisada, em 23/06/2023, à luz do art. 316, parágrafo único, ocasião em que foi mantido o decreto;
+V) Sobreveio, em 11/10/2023, sentença de pronúncia em desfavor do acusado. oportunidade em que, nos termos do artigo 413, § 3º, do Código de Processo Penal, manteve- se a segregação cautelar do réu;
+VI) Após a decisão de pronúncia, a prisão cautelar foi revisada, nos termos do artigo 316, parágrafo único do CPP, em 24/04/2024 e 13/08/204, mantendo-se a segregação cautelar do acusado;
+VII) Insta salientar que os autos aguardam, nesse momento, julgamento do recurso em sentido estrito interposto contra a sentença de pronúncia.
+O recurso comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/5/2022).
+Cumpre ressaltar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, 6ª T., DJe 11/3/2022).
+Nessa esteira, esta Corte Superior tem entendido que " o  prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Na espécie, não constato desídia do Juízo natural da causa na condução do processo, a ensejar a intervenção desta Corte Superior.
+A despeito de o acusado estar preso desde 16/6/2021, a Magistrada de primeiro grau ressaltou a complexidade do feito com cinco réus, que segue o rito do Tribunal do Júri.
+Além disso, verifica-se que, no dia 11/10/2023, foi prolatada a sentença de pronúncia, o que atrai a incidência do enunciado sumular n. 21 desta Corte Superior.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO TENTADO. ALEGADA DESARRAZOADA DELONGA NO ENCERRAMENTO DO FEITO. NÃO OCORRÊNCIA. PRAZO DE TRAMITAÇÃO DO PROCESSO CONDIZENTE COM AS PECULIARIDADES DO CASO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de modo que eventual demora no julgamento do recurso de apelação deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+2. Além disso, assim como na hipótese, "a alegação de excesso de prazo para o encerramento da instrução fica superada pela superveniência da sentença de pronúncia, nos termos do enunciado n. 21 da Súmula do Superior Tribunal de Justiça (HC n. 515.407/PE, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/10/2020, DJe 19/10/2020)" (AgRg no HC n. 742.338/PE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/10/2023.)
+3. Agravo regimental não provido.
+(AgRg no RHC n. 200.160/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+ ..
+1. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+2. No caso, o agravante foi preso no dia 6/2/2023 e, em que pese a oneração do tempo de processamento da ação penal, a instrução da primeira fase já foi encerrada. Incidência da súmula 21 do STJ. O recurso em sentido estrito interposto pelo Ministério Público contra a sentença de pronúncia ocorreu no dia 2/11/2023. Ainda, vale destacar a consideração feita no acórdão acerca da quantidade e gravidade dos crimes apurados: duas tentativas de homicídio qualificado, lesão corporal e perseguição. Assim, levando em consideração o estágio atual do processo e a soma das penas mínimas em abstrato dos crimes denunciados, o tempo de prisão não se mostra desproporcional. Ausência de flagrante ilegalidade. Julgados do STJ.
+ ..
+(AgRg no RHC n. 194.628/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/5/2024, DJe de 14/5/2024.)
+Destacou, ainda, que houve a interposição de recurso em sentido estrito contra a sentença de pronúncia e o feito aguarda decisão do Tribunal estadual para o prosseguimento do julgamento.
+Nesse contexto, não constato, por ora, ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a suposta alegação de incúria na prestação jurisdicional.
+À vista do exposto, nego provimento ao recurso ordinário, in limine.
+Publique-se e intimem-se.
+EMENTA
