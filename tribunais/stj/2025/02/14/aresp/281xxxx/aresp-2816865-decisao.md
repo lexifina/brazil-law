@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por UNIMED VERTENTE DO CAPARAO COOP TRAB MEDICO LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+JUSTIÇA GRATUITA - AÇÃO DE ANULAÇÃO DE SENTENÇA ARBITRAI - AUTORA QUE REQUER A BENESSE - PESSOA JURÍDICA - NECESSIDADE DE COMPROVAÇÃO DA SITUAÇÃO DE PREMÉNCIA DE RECURSOS PARA O DEFERIMENTO DA GRATUIDADE DE JUSTIÇA - ELEMENTOS COLIMADOS AOS AUTOS QUE CONTRAINDICAM A CONCESSÃO DA GRATUIDADE - AGRAVO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 98 do CPC, no que concerne à necessidade de concessão da gratuidade de justiça, tendo em vista a condição de hipossuficiência comprovada nos autos, trazendo a seguinte argumentação:
+No próprio acórdão foi mencionado o altíssimo passivo da operadora e malversação de recursos por antigos ex-gestores.
+Havendo altíssimo passivo, não há como concluir que a operadora tenha boa capacidade financeira para arcar com custas no valor de no valor de R$ 106.080,00 (cento e seis mil e oitenta reais) em uma demanda cujo valor da causa ultrapassa R$ 65.000.000,00 (sessenta e cinco milhões de reais).
+ ..
+No caso dos autos, o alto passivo da operadora e a malversação de recurso que gerou a decretação de direção técnica e de direção fiscal foram mencionados em acórdão, conforme acima exposto.
+Sendo citados os fatos acima em acórdão, resta clara a necessidade de concessão dos benefícios da justiça gratuita.
+Sobre o passivo gerado, até mesmo o aporte aprovado para ser feito pelos cooperados, no valor de R$ 12.000.000,00 (doze milhões de reais), foi inviabilizado por demandas judiciais, não havendo sequer início para uma solução da dívida que alcança R$ 75.000.000,00 (setenta e cinco milhões de reais), conforme fl. 08 dos autos.
+O alto passivo citado em acórdão é suficiente para deixar evidente a dificuldade financeira da recorrente, sendo que o próprio acórdão menciona ser possível a concessão dos benefícios da justiça gratuita a pessoas jurídicas.
+ ..
+Além disso, com a devida vênia, não se pode ignorar a função social da recorrente em sua região, a qual, como operadora de plano de saúde, busca garantir acesso de seus clientes/beneficiários a tratamentos médicos essenciais para o resguardo da saúde, bem como produz empregos e paga prestadores de saúde (hospitais e outros estabelecimentos) para atendimento de seus clientes, gerando renda para a região. Diante de todo o passivo até mesmo citado em acórdão, a imposição de novos passivos no presente processo, com obrigação de pagar custas e demais despesas processuais, pode inviabilizar a atividade da operadora, prejudicando toda a região de Manhuaçu, os beneficiários que necessitam de tratamento de saúde e os prestadores que prestam atendimento e esperam a devida remuneração para tanto.
+Diante do exposto, nos termos do artigo 105, inciso III, alínea "a" da CF/88, requer seja provido o presente recurso especial e reconhecida a violação ao artigo 98 do CPC/2015, sendo reformado o acórdão recorrido e determinada a concessão dos benefícios da justiça gratuita (fls. 3.505-3.508).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso dos autos, não restou demonstrado que a autora, caso recolha as custas determinadas indubitavelmente altas, ante o significativo valor da causa, R$ 65.194.806,33 terá a continuidade de suas atividades prejudicadas: a despeito do altíssimo pass ivo e das alegações de malversação de recursos pelos dirigentes da autora, levantadas na primeira instância, a autora ainda se encontra em operação e desenvolve normalmente as suas atividades, do que se dessume haver entrada de recursos para sanar os seus débitos (fl. 3.473).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
