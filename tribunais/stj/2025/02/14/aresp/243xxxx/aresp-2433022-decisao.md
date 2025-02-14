@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça local (Apelação Criminal n. 202200316343) que absolveu Jorgeval Silva Dias da acusação de homicídio culposo na direção de veículo automotor, tipificado no art. 302, caput, da Lei n. 9.503/1997.
+O agravante aponta violação do art. 302 do Código de Trânsito Brasileiro, aduzindo, em suma, que a absolvição não se coaduna com o arcabouço probatório, que indicaria a culpa do réu no acidente (fls. 581/582).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ, entendendo que a pretensão do Ministério Público visava ao reexame de provas (fls. 601/602).
+Contra o decisum, o Ministério Público interpôs o presente agravo (fls. 614/616).
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+De outra parte, no que se refere ao recurso especial em si, a insurgência é manifestamente inadmissível.
+Ora, a Corte de origem, no julgamento da apelação, concluiu que as provas colhidas nos autos eram insuficientes para demonstrar a dinâmica do acidente de forma clara e precisa. As testemunhas de acusação não forneceram certeza necessária para estabelecer a culpa do réu, Jorgeval Silva Dias, no acidente (fls. 573/574). Diante da dúvida quanto à culpa do acusado, o Tribunal aplicou o princípio do in dubio pro reo, que determina a absolvição em casos de incerteza sobre a responsabilidade criminal do réu (fls. 570 e 576/577).
+Por oportuno, anoto os seguintes trechos (fls. 574/576 - grifo nosso):
+Ocorre que nos autos não existem provas de que o réu, ora apelante, vinha na contramão de direção, tampouco que conduzia o seu veículo em velocidade, conforme já referido.
+Isso porque, como se pode ver principalmente daquelas fotos juntadas às fls. 25/28 e 364/367, bem como da peça de ingresso do presente recurso, não se consegue determinar exatamente como ocorreu a dinâmica do acidente em enfoque. Se aconteceu como relatou o réu, ou como relataram as testemunhas de acusação mencionadas.
+Ora, em suas declarações, tanto no Inquérito quanto em Juízo, o recorrente relatou que ia para o trabalho pela via principal, sentido Mata do Peru, quando a moto da vítima de repente surgiu de um corredor do seu lado direito, de maneira que não deu tempo de frear, tendo o seu veículo batido na moto.
+Disse que a vítim a voou e o carro perdeu o controle e saiu arrastando a moto uns 12 metros até parar. Explica que tanto foi assim que a mesma teve a perfuração no crânio quando bateu no meio fio, sem quase qualquer outra escoriação.
+Afirmou que as fotos que pessoalmente tirou do acidente mostraram que não poderia vir da contramão de direção, porque seguia para a Mata do Peru e pegou a vítima pelo lado direito.
+ ..
+Com efeito, quando se observa as fotos tiradas do acidente e do local, percebe-se que o corredor de onde saiu a vítima ficava ao lado direito da pista principal, caso se considere da perspectiva do apelante, que vinha sentido Pastinho em direção a Mata do Peru.
+Constata-se também que ele conduzia o seu veículo em uma estrada principal de paralelepípedo e que a via vicinal de onde saiu a vítima trata-se de um pequeno corredor de piçarra.
+Percebe-se ainda que não há no local qualquer placa de trânsito a indicar qual a mão e a contramão, sequer existe também divisória no meio da pista, que é bastante estreita.
+Outrossim, da posição em que pararam ambos os veículos depois de colididos, não se consegue tirar a dúvida se a vítima cruzou a pista e o apelante colidiu com a mesma nesse momento, ou se ela já tinha saído do corredor, pegado o sentido inverso da Mata do Peru em direção ao Pastinho, e assim veio a colidir de frente com o apelante que vinha no sentido oposto Pastinho/Mata do Peru, pelo lado esquerdo.
+Até mesmo porque a pista é bem estreita, conforme já referido, e o automóvel do apelante, nem mesmo quando parou depois de colidir com a moto, estava encostado pelo lado esquerdo.
+Além disso, não há provas nos autos de que transitava em alta velocidade, incompatível com a via principal, considerando ainda que a pista não é de asfalto, mas de paralelepípedo.
+No mais, não contribuiu também para estabelecer, com certeza, a dinâmica do acidente, de modo que depois de ouvir tais depoimentos, ambos bem confusos na explicação da dinâmica dos fatos, não se consegue concluir com a segurança necessária se o réu agiu ou não com imprudência ou negligência, principalmente se estava na mão esquerda de direção ou mesmo se vinha em velocidade incompatível à estrada que transitava.
+ ..
+Todos esses pontos abordados, principalmente diante da ausência de laudo pericial no caso, ou croqui, e ao confrontar todos os depoimentos colhidos no processo e o interrogatório do recorrente, juntamente com as fotos trazidas, geram sérias dúvidas sobre a dinâmica do acidente ocorrido, de forma que, nesse contexto, fica impossível concluir pela culpa do réu, para efeito de condená-lo por homicídio culposo no trânsito.
+Assim, apesar da causa da morte da vítima, o acidente, estar bem demonstrada pelas provas colhidas no processo, certo é que não há a comprovação segura da existência de culpa do apelante no evento fatídico, na modalidade imprudência ou negligência, como assinalado pelo Ministério Público e pelo julgador a quo.
+Paralelamente a isso, a prova oral colhida, como já explicitado acima, também não induz à responsabilidade criminal do acusado, sobretudo porque oriunda de testemunhos suspeitos e parciais, com laços de parentesco ou amizade, tanto do lado da Defesa como do lado da Acusação, nenhuma deles trazendo, com segurança, a real dinâmica dos fatos ou, ao menos, o mínimo de coerência a ponto de se concluir quem seria o causador do acidente que, infelizmente, levou a vítima a óbito.
+Não se pode olvidar, ainda, que a vítima conduzia sua motocicleta sem estar licenciada, sem habilitação e sem capacete, evidenciando a ausência de percepção para a condução de veículo de maneira segura, circunstância que torna ainda mais temerosa a responsabilização e condenação do réu pelo acidente fatal.
+Por conseguinte, alterar a conclusão do acórdão recorrido, como pretende o agravante, inexoravelmente, demanda o revolvimento do substrato fático-probatório carreado aos autos, o que é encontra óbice na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ART. 302, CAPUT, DA LEI N. 9.503/1997. ABSOLVIÇÃO PELO TRIBUNAL DE ORIGEM. FRAGILIDADE PROBATÓRIA. PRINCÍPIO IN DUBIO PRO REO. REVALORAÇÃO DOS ELEMENTOS PROBATÓRIOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
