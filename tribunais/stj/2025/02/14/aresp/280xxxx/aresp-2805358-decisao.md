@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 283 e 284 do STF (e-STJ fls. 1.104/1.111).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 811/812):
+RECURSO DE APELAÇÃO CÍVEL - CARTÃO DE CRÉDITO - ALEGAÇÃO DE ENGANO NA CONTRATAÇÃO - ALEGAÇÃO DE DESCONTO INDEVIDO NA FOLHA DE BENEFÍCIO PREVIDENCIÁRIO - NÃO VERIFICADO - COMPROVAÇÃO DA CONTRATAÇÃO - CONJUNTO PROBATÓRIO - VÍCIO DE CONSENTIMENTO - NÃO COMPROVADO - ELEMENTOS DO NEGÓCIO JURÍDICO - VERIFICADO - UTILIZAÇÃO DO CRÉDITO - DESCONTO DEVIDO - EXERCÍCIO REGULAR DE DIREITO DO CREDOR - ALEGAÇÃO DE COBRANÇA ABUSIVA DA TAXA DE JUROS - NÃO COMPROVADO - DADOS DO BANCO CENTRAL DO BRASIL - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ) - DANO MORAL - INOCORRÊNCIA - PLEITO POR REPETIÇÃO DO INDÉBITO - REJEIÇÃO - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Não havendo comprovação suficientes nos autos das alegações da parte recorrente acerca do vício de consentimento, impõe-se a improcedência do pedido indenizatório por danos morais, de acordo com o estabelecido no inciso I do art. 373 do Código de Processo Civil.
+A realização de saques no cartão de crédito consignado, por si só desvirtua o contrato de empréstimo consignado.
+Os juros remuneratórios apenas podem ser considerados abusivos quando exigidos em percentual superior a uma vez e meia a taxa média de mercado
+A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+Os embargos de declaração foram rejeitados (e-STJ fls. 873/895).
+Nas razões do recurso especial (e-STJ fls. 896/919), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 141, 373, I, 489, II, e § 1º, 1.013 e 1.022 do CPC/2015, apontando "omissão quanto à análise dos arts. 4º, III, 6º, III e V, 47, 52, IV e V, 51, IV, e § 1, III, do Código de Defesa do Consumidor; 113, 187, 421, 422, 423 e 2.035 § único, do Código Civil; 5º da LINDB; e 4º, VI da Lei n. 4.595/64 (Circular 3.549/11 e Resolução 4.549/17)" (e-STJ fl. 1.143). Aduz ainda que o Tribunal de origem "não se manifestou em relação aos argumentos apresentados no apelo da recorrente, deixando de apreciar os mesmos, os quais poderiam, de fato, infirmar a conclusão adotada pelo julgador" (e-STJ fl. 905) e que "o acórdão recorrido deixou de tirar das provas as devidas consequências jurídicas" (e-STJ fl. 906), e
+(ii) arts. 39, 47, 51 e 54 do CDC, defendendo, em suma, a ilegalidade do contrato de cartão de crédito consignado e a abusividade dos juros remuneratórios contratados. Sustenta que se impõe "a conversão do cartão de crédito consignado para empréstimo consignado ou, subsidiariamente, em mútuo bancário (caso não seja possível a consignação), aplicando-se a taxa média de mercado da época da contratação" (e-STJ fl. 913).
+No agravo (e-STJ fls. 1.114/1.124), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 1.198/1.212 (e-STJ).
+É o relatório.
+Decido.
+Da violação dos arts. 141, 373, I, 489, II, e § 1º, 1.013 e 1.022 do CPC/2015
+A parte alega genericamente a violação dos referidos artigos, tecendo, no ponto, argumentos vagos e imprecisos, de sorte que ausente demonstração clara e inequívoca da infração.
+Caracterizada a deficiência na fundamentação recursal, incide no caso a Súmula n. 284/STF.
+Da ofensa aos arts. 39, 47, 51 e 54 do CDC
+O Tribunal de Justiça de Mato Grosso (TJMT) reconheceu a legalidade da contratação do empréstimo via cartão de crédito e a ausência de abuso a inquinar o pacto, com base nos seguintes fundamentos (e-STJ fls. 827/832, sublinhei):
+Engano na contratação - Cartão de Crédito X Empréstimo consignado.
+ ..
+Ao que se verifica dos contratos assinado juntado em ID. 216928317, a primeira informação indicada em caixa alta e letras garrafais é "TERMO DE ADESÃO - EMPRÉSTIMO PESSOAL E CARTÃO", bem como, o documento que aponta a modalidade contratual também elucida a respeito do cartão de crédito consignado no item "C", in verbis:
+2. Saque (Quando autorizado pelo Convênio): O crédito do saque será feito na conta corrente do Cliente ou por Ordem de Pagamento. 3. O valor mínimo da fatura será descontado na folha de pagamento. O restante poderá ser pago até o vencimento, em qualquer agência bancária. Se o valor mínimo da fatura não for descontado, o pagamento mínimo, parcial ou total da fatura deverá ser feito em qualquer agência bancária até o vencimento.
+Tais documentos estão devidamente assinados e, cujas assinaturas assemelham-se aos constantes em documentos pessoais da parte apelante, não evidenciando, portanto, vício de consentimento.
+Além disso, pelo que se verifica dos autos, o Apelante possuía 57 (cinquenta e sete) anos de idade, quando contratou o aludido cartão, e realizou a assinatura do contrato por extenso, bem como, trata-se de servidor público aposentado, cujo cargo exercia era o Técnico Desenvolvimento Econômico e Social, logo, tais características demonstram grau de instrução suficiente para ler o cabeçalho do contrato e os seus termos. Afastada qualquer alegação por falta de informação.
+A parte Apelante firmou contrato de Cartão de Crédito e não de empréstimo consignado. Inclusive, com destacou a parte Apelante, as modalidades/benefícios referentes ao cartão de crédito e empréstimo são distintas, de modo que descabe alegar que foi engano, fato que até poderia ser mais crível se fossem modalidades semelhantes.
+Ademais a modalidade contratual em comento prevê a reserva/desconto de uma reserva de margem consignável previamente estabelecida, cabendo ao consumidor adimplir o valor que ultrapassar a importância da reserva, sem notícia nos autos que o consumidor tenha adimplido o valor excedente.
+Por mais de dez anos vem sendo descontados o valor do RMC do cartão de crédito em seus proventos, recebeu oito saques em sua conta, assumidamente solicitados pelo Apelante, contudo, neste momento quer afirmar se enganou da contratação.
+Mesmo diante de tudo isso, somente depois de mais de uma década anos vem ao Poder Judiciário para pleitear a declaração de inexistência do contrato, a restituição de valores e a condenação do Apelado ao pagamento de indenização por danos morais, sob a alegação de ter sido enganado.
+Com efeito, é cediço que em nosso ordenamento jurídico há vedação do comportamento contraditório, ou seja, quando os atos praticados se contradizem com o que foi compactuado anteriormente.
+Este princípio, no brocardo latino denominado como Venire Contra Factum Proprium, veda o comportamento contraditório, inesperado, que causa surpresa a outra parte. Explico. Sua aplicação decorre da boa-fé objetiva e da lealdade contratual, exigíveis de todos os contratantes, portanto, aplicando-se a boa-fé contratual, não pode agora afirmar vício de consentimento no momento da contratação se os atos praticados durante o contrato demonstram incoerência.
+Portanto, se restou evidenciado que a parte Apelante se beneficiou do contrato, assinado mediante termo de adesão, com a devida autorização/aquiescência para desconto em folha de pagamento/benefício, à espécie, descabe falar em vício de consentimento quando da contratação.
+ ..
+Tais nuances do contexto fático-probatório devem ser ponderadas eis que, o induzimento a erro não se evidenciou nos autos, pois, como dito alhures, os elementos volitivos e cognitivos para a celebração do contrato, ficaram comprovado nos autos.
+Dessa forma, restou demonstrado que a parte consumidora estava ciente de que se tratava de contratação de cartão de crédito, com pagamento do valor mínimo da fatura por meio de consignação em folha de pagamento, justificando-se a continuidade dos descontos, sem prova nos autos que o consumidor tenha realizado o pagamento integral de cada fatura, deixando apenas ser realizado o desconto mínimo, conforme dispositivo contratual.
+Ademais, a simples utilização do cartão, mediante solicitação de saques, é suficiente para descaracterizar o empréstimo consignado, desmitificando a tese arguida pela parte apelante.
+Logo, não sendo comprovado a conduta ilícita da instituição financeira no caso dos autos, deve ser mantida a sentença na integralidade, por seus próprios fundamentos, não havendo que se falar em ocorrência de danos morais e materiais no caso dos autos.
+2. Da abusividade das taxas de juros remuneratórios.
+Por fim, em que pese as alegações da parte recorrente, acerca de juros remuneratórios do contrato em discussão, não merece acolhimento a tese recursal, eis que, a abusividade não se caracteriza apenas pela superação da taxa média de juros para a categoria contratada.
+ ..
+Ademais, o entendimento do Superior Tribunal de Justiça (STJ), quanto a necessidade de mais componentes capazes a demonstrar o excesso empreendido pelo banco apelado, não bastando apontar a cobrança a maior da taxa de juros estipuladas pelo Banco Central do Brasil, a saber:
+ ..
+Desse modo, os fatos carreados aos autos demonstram que os aludidos juros estão abaixo do previsto pelo BACEN, motivo pelo qual, não há que se falar em abusividade na cobrança da taxa juros.
+Logo, não encontra alicerce a tese da parte apelada quanto a abusividade perpetrada pela instituição financeira, eis que, não restou comprovado excesso capaz a ultrapassar o limite do razoável, carente está a tese arguida pela parte, de elementos caracterizadores da aludida abusividade, devendo ser mantida a r. sentença.
+Do excerto acima reproduzido, depreende-se que a conclusão da Corte local, pela inexistência de abuso ou ilegalidade na contratação, se fundamenta em análise do conjunto fático-probatório dos autos.
+Com efeito, foi a partir do exame das cláusulas do contrato e, ainda, após minuciosa análise dos elementos fáticos contidos nos autos, que o Tribunal de origem consignou a ausência de vício de consentimento capaz de afastar a incidência das cláusulas contratuais pactuadas, bem como a inexistência de excesso que justifique a revisão do negócio.
+Logo, derruir as premissas do acórdão recorrido para se acolher a pretensão recursal  no sentido de reconhecer a nulidade do ajuste  demandaria a reanálise de fatos e provas, bem como a interpretação de previsões contratuais, providências vedadas em sede de recurso especial, a teor das Súmulas n. 5 e 7 do STJ.
+Ressalte-se que, "consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt nos EDcl no REsp n. 1.662.160/DF, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
