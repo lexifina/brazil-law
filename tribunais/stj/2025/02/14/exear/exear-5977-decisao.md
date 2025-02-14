@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de cumprimento de sentença iniciado por EDITORA RIO S.A em face de FOCUS SERVICO DE TELEMARKETING LTDA - ME, objetivando o recebimento dos honorários advocatícios fixados em decisão que julgou improcedente a ação rescisória. Requer-se, também, o levantamento do depósito inicial que foi convertido em multa nos autos da referida ação, nos termos do art. 974, parágrafo único, do CPC.
+Intimada para os fins do art. 523, do CPC, a parte executada comprovou o pagamento dos honorários advocatícios pleiteados, consoante petição de fls. 10-13.
+É o relatório. Decido.
+Nos termos do parágrafo único do art. 974, do CPC, caso o pedido rescisório seja considerado, por unanimidade, inadmissível ou improcedente, o tribunal determinará a reversão, em favor do réu, da importância do depósito.
+In casu, verifica-se que o pedido rescisório foi julgado improcedente (fls. 2.799-2.804 da AR) e os recursos apresentados pela parte autora foram rejeitados por unanimidade do colegiado da Segunda Seção (fls. 2.903-2.904 e 2.980-2.981 da AR). Consigne-se ainda que os embargos de declaração opostos pela ora exequente (fls. 2.948-2.950 da AR) foram acolhidos para determinar a conversão do depósito recursal em multa, nos termos do art. 974, parágrafo único, do CPC (fls. 2.988-2.990 da AR).
+Ante o exposto, defiro o pedido de fls. 1-2 para determinar o cumprimento da decisão de fls. 2.988-2.990 da ação rescis ória e autorizar o levantamento do depósito prévio convertido e comprovado às fls. 2.436 dos autos principais, mediante transferência para a conta bancária indicada à fl. 2 (art. 3º da Resolução STJ/GP n. 9/2018), considerando que o peticionante detém poderes especiais para receber e dar quitação.
+Ainda, considerando o cumprimento voluntário da obrigação de pagar quantia certa, determino a transferência dos honorários sucumbenciais, cujo depósito foi comprovado pelos documentos de fls. 11-12, diretamente para conta da sociedade ADVOCACIA VINICIUS DE FIGUEIREDO TEIXEIRA, conforme requerido à fl. 2, pois há procuração que comprova a condição de sócio do peticionante (art. 85, §§ 14 e 15, do CPC).
+Ressalte-se que em ambos os casos a instituição financeira deverá conferir previamente os dados bancários informados.
+Cumpridas as providências, intimem-se as partes para conhecimento e, nada mais havendo, julgo extinto o cumprimento de sentença.
+Arquivem-se. Publique-se. Intimem-se.
+EMENTA
