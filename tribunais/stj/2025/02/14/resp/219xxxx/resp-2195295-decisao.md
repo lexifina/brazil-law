@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MIRIAM GAZZOLA contra acórdão prolatado, por unanimidade, pela 3ª Câmara de Direito Público do Tribunal de Justiça de São Paulo no julgamento de Agravo de Instrumento, assim ementado (fl. 79e):
+Prescrição - Não se diga que tratar, em termos de prescrição, de forma diferente os direitos e as obrigações da Fazenda, geraria ofensa à Constituição Federal, por desobediência ao princípio da isonomia. Assim fosse, as regras que tratam o menor ou incapaz, no que se refere à prescrição, de forma diferente, também o seriam - Não há princípio absolutos. Se a regra não é discriminatória, mas tem justificativa legítima, pode ela ser exceção ao princípio. É o caso dos autos, onde o que se busca é maior proteção aos direitos da sociedade, defendidos e protegidos pela Fazenda Pública. A redução do prazo prescricional para a Fazenda importa em perda do direito da coletividade. Para que isso não aconteça seria necessária a contratação de mais servidores, que pudessem melhor cuidar do patrimônio público. Mas isso também oneraria a sociedade como um todo. Por isso a solução mais adequada que é a de dar ao Poder Público mais tempo para a defesa de seus direitos - Recurso improvido.
+Opostos embargos de declaração, foram rejeitados (fls. 89/96e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 1º do Decreto-lei n. 20.910/1932, alegando-se, em síntese, que " ..  deve-se reformar a decisão e fixar a prescrição da pretensão do Poder Público, já que passados mais de cinco anos do último fato interruptível da prescrição, este datado de 27 de março de 2014" (fl. 110e).
+Com contrarrazões (fls. 119/123e), o recurso foi inadmitido (fls. 143/145e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 196e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 184/193e.
+Feito breve relato, decido.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+De pronto, observo assistir razão à Recorrente.
+Isso porque o acórdão recorrido está em confronto com orientação encampada por esta Corte, segundo a qual admite-se, por força do princípio da isonomia, a incidência do prazo quinquenal do art. 1º do Decreto-lei n. 20.910/1932 também às pretensões titularizadas pela Fazenda Pública, consoante espelham os julgados assim ementados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PREQUESTIONAMENTO. AUSÊNCIA. NOVOS FUNDAMENTOS. IMPOSSIBILIDADE. PRECLUSÃO. PRESCRIÇÃO. JURISPRUDÊNCIA DO STJ. CONSONÂNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Apesar de não ser necessária a indicação expressa do dispositivo legal, é imperioso, conforme reiterada jurisprudência desta Casa de Justiça, que haja a discussão pelo Colegiado de origem sobre o comando normativo apontado com enfoque na tese sustentada pela parte, o que não ocorreu na espécie.
+2. A apresentação de novos fundamentos ao recurso especial em sede de agravo interno configura verdadeira inovação recursal, inadmissível antes a preclusão consumativa.
+3. O acórdão recorrido está em harmonia com a jurisprudência do Superior Tribunal de Justiça, quanto à aplicação do art. 1º do Decreto-lei n. 20.910/1932, nas demandas em favor da Fazenda Pública, diante do princípio da isonomia, circunstância que atrai o óbice da Súmula 83 do STJ.
+4. Não se conhece do recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.211.929/SP, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 22.04.2024, DJe de 30.04.2024 - destaque meu).
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONFIGURADO. AÇÃO REGRESSIVA. ACIDENTE DE TRABALHO. PRESCRIÇÃO. PRAZO QUINQUENAL. FUNDO DE DIREITO. TERMO INICIAL. CONCESSÃO DO BENEFÍCIO.
+1. Inexiste violação do art. 535 do CPC/1973 quando o acórdão recorrido fundamenta claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+2. Nos casos de ação de regresso acidentária, em razão do princípio da isonomia, deve-se aplicar o mesmo prazo previsto para a Fazenda Pública quanto à prescrição do fundo de direito, nos termos do art. 1º do Decreto n. 20.910/1932, contado a partir da concessão benefício previdenciário. Precedentes.
+3. Recurso especial a que se nega provimento.
+(REsp n. 1.535.512/RN, Relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27.02.2018, DJe de 07.03./2018 - destaque meu).
+No mesmo sentido: AgInt no AREsp n. 2.218.347/SP, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05.06.2023, DJe de 09.06.2023; e AgInt no AREsp n. 2.429.954/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24.06.2024, DJe de 28.06.2024.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para reconhecer a incidência da prescrição quinquenal, nos termos expostos.
+Publique-se e intimem-se.
+EMENTA
