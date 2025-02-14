@@ -1,0 +1,14 @@
+DECISÃO
+Examina-se conflito de competência, com pedido liminar, em que é suscitante JOSÉ BELGA ASSIS TRAD e suscitados o JUÍZO DE DIREITO DA VARA ÚNICA DE TERENOS - MS e o JUÍZO DE DIREITO DA VARA DE FAMÍLIA E SUCESSÕES DE INHUMAS - GO.
+Conflito de competência: alega, em suma, que faz jus à reserva de honorários contratuais em razão da propositura de ação de indenização em favor do Espólio de Luiz Eduardo da Lima Silvério, mas tanto o juízo que sentenciou a demanda (Processo n. 0800007-36.2022.8.12.0047; Juízo de Terenos - MS, quanto o juízo onde tramita o inventário do seu cliente (Processo n. 5656690-03.2019.8.09.0072; Juízo de Inhumas - GO) se deram por incompetentes para analisar o pedido de destaque da verba honorária contratual sobre o crédito constituído em benefício do espólio.
+RELATADO O PROCESSO, DECIDO.
+O art. 66 do CPC dispõe que o conflito de competência se configura nas seguintes hipóteses: quando dois ou mais juízes se declaram competentes/incompetentes para o processamento e julgamento de uma mesma ação ou quando surgir controvérsia acerca da reunião ou separação de processos.
+Na espécie, observa-se que o Juízo de Terenos - MS, onde tramita a ação indenizatória, de fato, indeferiu o pedido de destaque dos honorários contratuais no que diz respeito aos valores pertencentes ao espólio, por entender que cumpriria ao suscitante formulá-lo nos a utos do inventário. Todavia, o mesmo não ocorreu por parte do Juízo de Inhumas - GO.
+Com efeito, verifica-se da decisão que teria dado causa ao conflito, que não houve propriamente negativa ao pedido de destaque de honorários. Na verdade, o magistrado deixou de analisá-lo, sob a alegação de que a sua formulação deveria se dar nos próprios autos ou por meio da propositura de execução em demanda autônoma, senão vejamos (e-STJ, fl. 121):
+No mais, quanto ao pedido de destaque de honorários contratuais realizado pelo advogado da parte autora, deixo de analisar, uma vez que este deve ser realizado nos próprios autos ou propor execução em demanda autônoma.
+Em outras palavras, foi assinalada, com proposição alternativa, a necessidade de se adequar o instrumento utilizado pelo suscitante para que o pleito de destaque de honorários fosse analisado. Tal determinação, ao que parece, não foi atendida, sendo instaurado, em seu lugar, o presente conflito de competência, que, no entanto, não se presta como sucedâneo recursal.
+De fato, a espécie retrata mera irresignação do suscitante em relação à determinação realizada pelo juízo do inventário, a qual deve ser impugnada pelas vias recursais próprias, de modo que não se verifica nenhuma das circunstâncias previstas no art. 66 do CPC .
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Expeçam-se ofícios aos juízos suscitados, comunicando-lhes.
+Intime-se.
+EMENTA
