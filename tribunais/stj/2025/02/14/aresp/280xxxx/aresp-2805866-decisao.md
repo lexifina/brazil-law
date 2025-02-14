@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e incidência da Súmula n. 7 do STF (e-STJ fls. 1.042/1.043).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 955):
+Apelação cível. Usucapião Extraordinária. Posse. Ato de permissão e tolerância. Ânimo de dono. Para aquisição do domínio por usucapião é necessária a posse mansa e pacífica, com ânimo de dono, pelo tempo previsto em lei. Não induzem posse os atos de mera permissão ou tolerância para fins de usucapião, pois inexistente o ânimo de dono.
+Os embargos de declaração foram rejeitados (e-STJ fls. 993/998).
+Nas razões do recurso especial (e-STJ fls. 1.011/1.023), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(a) arts. 489, § 1º, IV e V, e 1.022, II, do CPC/2015 por negativa de prestação jurisdicional, "tendo em vista as omissões e contradições não sanadas pelo Tribunal de origem, mormente quanto (i) a omissão à confissão da Recorrida que nunca conferiu "atos de liberalidade" para os Recorrentes viverem no imóvel e (ii) as provas testemunhas que confirmam, que nunca ouviram nem souberam do sr. Rui, ou da Recorrida, ou dos Recorrentes, qualquer menção/informação de que viviam de favor com permissão da Recorrida, bem como a omissão (iii) quanto à fala das informantes da Recorrida, que confirmam nunca terem presenciado nenhuma situação em que o sr. Rui e a Cláudia, ora Recorrida, teriam conversado sobre a condição daquela casa e moradia (minuto 4:00 da gravação da audiência), que contraditam com a única "prova" do comodato tácito aventado pelo TJRO, oriunda supostamente da oitiva das informantes da Recorrida" (e-STJ fls. 1.014/1.015) e
+(b) art. 371 do CPC/2015, "seja porque não explicou como as informantes provaram os supostos "atos de mera liberalidade" que formaram o seu convencimento, e ainda porque depreciada as provas testemunhais em detrimento da oitiva de informantes, sem informar porque entende que em nada corroboraram as testemunhas" (e-STJ fl. 1.023).
+No agravo (e-STJ fls. 1.045/1.051), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.060/1.062).
+É o relatório.
+Decido.
+Trata-se, na origem, de ação de usucapião extraordinária ajuizada por ELVIS ELTON BRAMBILLA DA SILVA e NAIR INEZ BRAMBILLA VIEGAS em desfavor de CLÁUDIA VIEGAS DA SILVA.
+A demanda foi julgada improcedente sob o fundamento de que não induzem posse os atos de mera permissão ou tolerância para fins de usucapião, pois inexistente o ânimo de dono.
+Inexiste afronta aos arts. 489 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem reconheceu que, "pelo conjunto fático-probatório dos autos, tem-se que, de fato, os autores residiam no imóvel por tempo suficiente para aquisição da propriedade pela usucapião, contudo, não há provas de que tinham animus domini, mas que a exerciam por ato de tolerância da requerida" (e-STJ fl. 953).
+Destacou que "as testemunhas trazidas pelos autores nada trouxeram para corroborar com o deslinde da questão, pois apenas esclareceram que estes residem no imóvel desde 1992, o que é fato incontroverso" (e-STJ fl. 953).
+Indicou que, "apesar de as testemunhas da requerida, Maria de Fátima Paiva Xavier e Maria Linete Paiva, terem sido ouvidas como informantes devido à amizade com toda a família, inclusive com Rui (genitor e marido dos autores), ambas foram categóricas em afirmar que o imóvel foi colocado no nome da requerida, por ser a cuidadora dos genitores, em comum acordo com todos da família, tendo os autores residido por mera liberalidade" (e-STJ fl. 953).
+Acrescentou que, "ainda que se considere que os autores não tinham conhecimento de que residiam no imóvel por autorização da requerida, que teria sido dada diretamente a Rui, isto, por si, não é suficiente para configurar a usucapião pretendida, já que este faleceu em 2019 e a ação foi ajuizada em 2020" (e-STJ fl. 953).
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Além disso, modificar o entendimento do acórdão impugnado quanto à ausência de comprovação dos requisitos para a usucapião, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
