@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA. EXTINÇÃO DE PUNIBILIDADE. PENA DE MULTA. HIPOSSUFICIÊNCIA. IMPOSSIBILIDADE. O RECORRENTE AINDA ESTÁ EM CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, no qual se discute a extinção da punibilidade da pena de multa em razão da hipossuficiência do condenado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a hipossuficiência do condenado pode justificar a extinção da punibilidade da pena de multa.
+3. A questão também envolve a análise da possibilidade de revisão da capacidade econômica do agravante, considerando a necessidade de revolvimento do conjunto fático-probatório dos autos.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ, revisitada no julgamento do Tema repetitivo n. 931, estabelece que o inadimplemento da pena de multa, após cumprida a pena privativa de liberdade, não obsta a extinção da punibilidade, salvo decisão motivada do juiz competente que indique a possibilidade de pagamento.
+5. No caso concreto, o agravante ainda está em cumprimento da pena privativa de liberdade, o que impede a extinção da punibilidade da multa, independentemente do pagamento.
+6. A análise da capacidade econômica do agravante para justificar a hipossuficiência demandaria o revolvimento do conjunto fático-probatório, o que é incabível em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pela ora agravante.
+Contraminuta apresentada, em que a parte recorrida postula o seu desprovimento.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA. EXTINÇÃO DE PUNIBILIDADE. PENA DE MULTA. HIPOSSUFICIÊNCIA. IMPOSSIBILIDADE. O RECORRENTE AINDA ESTÁ EM CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, no qual se discute a extinção da punibilidade da pena de multa em razão da hipossuficiência do condenado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a hipossuficiência do condenado pode justificar a extinção da punibilidade da pena de multa.
+3. A questão também envolve a análise da possibilidade de revisão da capacidade econômica do agravante, considerando a necessidade de revolvimento do conjunto fático-probatório dos autos.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ, revisitada no julgamento do Tema repetitivo n. 931, estabelece que o inadimplemento da pena de multa, após cumprida a pena privativa de liberdade, não obsta a extinção da punibilidade, salvo decisão motivada do juiz competente que indique a possibilidade de pagamento.
+5. No caso concreto, o agravante ainda está em cumprimento da pena privativa de liberdade, o que impede a extinção da punibilidade da multa, independentemente do pagamento.
+6. A análise da capacidade econômica do agravante para justificar a hipossuficiência demandaria o revolvimento do conjunto fático-probatório, o que é incabível em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da Súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da Súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da Súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da Súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violado o art. 927, III, do CPC, sustentando que o Tribunal de origem não decidiu de acordo com o Tema 931 do STJ. No mais, alega que é hipossuficiente e não possui condições de arcar com o pagamento da pena de multa.
+A análise das razões motivadas na origem indica que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula n. 83/STJ, conforme se verifica da fundamentação adotada (e-STJ fls. 78-79):
+ ..
+A pretensão recursal merece acolhida, pois o caso dos autos é distinto do estabelecido como parâmetro - STJ, REsp 1.785.383/SP e 1.785.861/SP, Relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 24.11.2021, DJe 30.11.2021).
+Não tendo o réu cumprido nem a pena de prisão, não há que se antecipar a extinção da punibilidade quanto à pena de multa não paga, ainda que o processo de execução tenha sido suspenso por não haverem sido encontrados bens a executar.
+Como observado pela recorrente, a extinção da pena de multa, ainda que não paga, pode ser decretada desde que: 1) haja comprovação efetiva de impossibilidade absoluta de saldá-la; 2) seja ela a única pena remanescente a cumprir.
+Ora, no caso dos autos o agravado ainda está cumprindo pena privativa de liberdade, nada impedindo que, tão logo a deixe de cumprir, recolha a multa a que condenado, e, se não, justifique a razão de não o fazer ainda que de forma parcelada.
+Adotada a desculpa apresentada pela defensoria, praticamente todas as execuções de multas de réus presos acabariam dando em nada.
+ ..
+Ante o exposto dá-se provimento ao recurso para reformar a decisão que julgou extinta a punibilidade e a execução da pena de multa, com determinação para que ela retome o seu curso.
+Acerca da matéria, "O STF, ao julgar a ADI n. 3.150/DF, declarou que a Lei n. 9.268/1996, ao considerar a multa penal como dívida de valor, não retirou dela o caráter de sanção penal, que lhe é inerente por força do art. 5º, XLVI, "c", da Constituição Federal - CF. Desse modo, fixada a interpretação constitucional sobre o tema pelo Supremo, no exercício de controle concentrado, esta Corte passou a entender que, em caso de condenação à pena privativa de liberdade de forma concomitante com multa, o inadimpleme nto da sanção pecuniária obsta o reconhecimento da extinção da punibilidade" (AgRg no REsp n. 1.964.073/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+No entanto, a Terceira Seção desta Corte decidiu, no julgamento do Tema repetitivo n. 931, que, "na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade" (REsp n. 1.785.383/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 30/11/2021).
+Recentemente, em 28/2/2024, a Terceira Seção desta Corte decidiu, revisitando o julgamento do Tema r epetitivo n. 931, que "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária".
+Ademais, pontuou-se que a presunção de veracidade da declaração de hipossuficiência, a fim de permitir a concessão da gratuidade de justiça, possui amparo no art. 99, § 3º, do Código de Processo Civil, segundo o qual "presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural", podendo ser elidida caso esteja demonstrada a capacidade econômica do reeducando.
+Nesse contexto, o pedido de extinção da punibilidade foi indeferido ao fundamento de que, além de não ter sido comprovada a hipossuficiência, o recorrente ainda está em cumprimento da reprimenda carcerária, de modo que não era mesmo possível extinguir a punibilidade da pena de multa independentemente do seu pagamento.
+Desse modo, além de não ser possível a extinção da punibilidade pelo fato de ainda estar cumprimento pena privativa de liberdade, rever a conclusão acerca da capacidade econômica do agravante demandaria o necessário revolvimento do conjunto fático-probatório dos autos, o que se mostra incabível nesta via especial, nos termos da Súmula n. 7 do STJ.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE DE VIOLAÇÃO A DISPOSITIVOS E PRINCÍPIOS CONSTITUCIONAIS. ALEGADA CONSTITUCIONALIDADE DO DECRETO N. 9.246/2017. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. INDULTO PREVISTO NO DECRETO N. 9.370/2018. EXTINÇÃO DA PUNIBILIDADE DA PENA PRIVATIVA DE LIBERDADE. EXTENSÃO DO BENEFÍCIO À PENA DE MULTA. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. INTERPRETAÇÃO CONSTITUCIONAL SOBRE O TEMA FIXADA PELO SUPREMO TRIBUNAL FEDERAL - STF NO JULGAMENTO DA ADI N. 3150/DF. SUSCITADA INCAPACIDADE FINANCEIRA DA AGRAVANTE PARA ARCAR COM O PAGAMENTO DA PENA PECUNIÁRIA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mantem-se o não conhecimento do apelo nobre no tocante à interposição pela alínea "c" do permissivo constitucional, considerando que a agravante, em suas razões recursais, não observou o disposto no art. 1029, § 1º, do Código de Processo Civil - CPC, pois não foi realizado o devido cotejo analítico entre os julgados apontados como divergentes.
+2. Não cabe em recurso especial a análise de apontamento de violação a dispositivo ou princípio constitucional, nem mesmo para fim de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. A alegada constitucionalidade do Decreto n. 9.246/2017 não foi debatida pelo Tribunal de origem, o que impossibilita a apreciação da matéria por esta Corte, ante a ausência do necessário prequestionamento. Incidência das Súmulas n. 282 e n. 356 do STF mantida.
+4. O STF, ao julgar a ADI n. 3.150/DF, declarou que a Lei n. 9.268/1996, ao considerar a multa penal como dívida de valor, não retirou dela o caráter de sanção penal, que lhe é inerente por força do art. 5º, XLVI, "c", da Constituição Federal - CF. Desse modo, fixada a interpretação constitucional sobre o tema pelo Supremo, no exercício de controle concentrado, esta Corte passou a entender que, em caso de condenação à pena privativa de liberdade de forma concomitante com multa, o inadimplemento da sanção pecuniária obsta o reconhecimento da extinção da punibilidade.
+5. No caso dos autos, verifica-se que a conclusão da Corte de origem está alinhada com o novo entendimento fixado pelo STF no julgamento da ADI n. 3.150/DF e por este Tribunal, motivo pelo qual deve ser mantida, além de ter sido corretamente assinalado no acórdão de origem que o Decreto n. 9.370/2018 não contemplou a concessão de indulto à sanção pecuniária. Precedentes.
+6. Além disso, consoante bem salientado pelo Tribunal a quo, a multa aplicada à agravante (23 dias-multa, no valor unitário de cinco salários mínimos) excede demasiadamente o valor de R$ 1.000,00 (mil reais) previsto na Portaria n. 75/2012 do Ministério da Fazenda, o que reforça a impossibilidade de concessão do indulto à pena pecuniária, na hipótese.
+7. Não se desconhece o que foi decidido pela Terceira Seção deste Tribunal no julgamento do Tema Repetitivo n. 931, no sentido de que "Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade" (REsp n. 1.785.383/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 30/11/2021). Entretanto, in casu, a Corte estadual consignou que "não há nos autos, comprovação de que a agravante não tenha condições de saldar o valor". Desse modo, rever essa conclusão acerca da capacidade econômica da agravante demandaria o necessário revolvimento do conjunto fático-probatório dos autos, o que se mostra incabível nesta via especial, nos termos da Súmula n. 7 do STJ.
+8. Agravo regimental desprovido.
+(AgRg no REsp n. 1.964.073/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
