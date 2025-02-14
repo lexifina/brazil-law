@@ -1,0 +1,10 @@
+DECISÃO
+LEONARDO SALZANO DE SOUZA interpõe agravo regimental contra a decisão de fls. 883-884, da lavra da Presidência desta Corte Superior, que indeferiu liminarmente o writ sob o argumento de que "a impetração não merece prosseguir, pois "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas"".
+A defesa, neste regimental, assegura que o objeto do processo é diverso: "Mesmo diante de tamanha fragilidade dos elementos indiciários, porém, invocando o princípio in dubio pro societate, mesmo não tendo sido reproduzido judicialmente a prova indiciária, o MM. Juízo natural da causa decidiu, à época, pronunciar o Agravante, por entender que havia no caso específico, baseado na prova indiciária acima mencionada, os mínimos indícios de autoria".
+Com razão a defesa.
+Com efeito, o objeto deste writ é "a pronuncia do paciente sem qualquer lastro probatório judicializado, fundamentada EXCLUSIVAMENTE em elementos informativos colhidos na fase inquisitorial, e não reproduzidos em juízo" (fl. 6). Portanto, forçoso concluir que a motivação da decisão ora agravada está em descompasso com a questão jurídica ventilada na impetração.
+Todavia, ao analisar os autos, verifico que este habeas corpus pretende a rediscussão da condenação definitiva, transitada em julgado em 14/5/2024, evidenciando-se, assim, que não deve ser conhecido o writ, pois tal providência exige a instauração de revisão criminal, ação autônoma para a qual esta Corte Superior não possui competência na espécie.
+Com efeito, nos termos do art. 105, I, "e", da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, as revisões criminais e as ações rescisórias de seus próprios julgados, o que não é o caso dos autos. Nesse sentido: AgRg no HC 661.172/PR, Rel. Ministra Laurita Vaz, 6ª T., DJe 14/5/2021 .
+À vista do exposto, por motivos diversos, mantenho o ind eferimento liminar do habeas corpus, com base no art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
