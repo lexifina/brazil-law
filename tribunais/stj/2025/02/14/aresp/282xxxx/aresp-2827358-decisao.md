@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO PEREIRA DE ARAÚJO, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Tocantins, cuja ementa é a seguinte (e-STJ fls. 254):
+1. APELAÇÃO CRIMINAL. FURTO QUALIFICADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉU REINCIDENTE. ANTECEDENTES DESFAVORÁVEIS. ALTERAÇÃO REGIME DO SEMIABERTO PARA O REGIME FECHADO.POSSIBILIDADE. SENTENÇA REFORMADA. 1.1. De acordo com a Súmula 269 do Superior Tribunal de Justiça, o regime semiaberto somente é possível aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais, o que não é o caso dos Autos. 1.2. A condenação de réu reincidente à pena de 2 (dois) anos e 9 (nove) meses de reclusão, com valoração negativa da circunstância judicial antecedentes justifica a alteração da Sentença para imposição do regime fechado, o qual se revela adequado à prevenção e à reparação do delito.
+Nas razões do recurso especial (e-STJ fls. 268/275), fundado na alínea a do permissivo constitucional, alega a parte recorrente violação dos artigos 33 e 59 do CP. Sustenta a fixação do regime semiaberto para o cumprimento da pena.
+Apresentadas contrarrazões (e-STJ fls. 280/284), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 299/301), tendo sido interposto o presente agravo (e-STJ fls. 310/315).
+O Ministério Público Federal, instado a se manifestar, opinou pelo conhecimento do agravo e não provimento do recurso especial (e-STJ fls. 346/348).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+No que tange ao regime de cumprimento de pena, a jurisprudência desta Corte firmou-se no sentido de que, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito - enunciado da Súmula 440 deste Tribunal.
+Na mesma esteira, são os enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Portanto, é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do Código Penal ou em outra situação que demonstre a gravidade concreta do crime. Precedentes: HC n. 325.756/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+Ademais, de acordo com a Súmula n. 269/STJ, é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior à inicial de quatro anos, se favoráveis as circunstâncias judiciais.
+No caso em análise, embora a reprimenda corporal tenha sido estabelecida em patamar inferior a 4 (quatro) anos, o regime inicial fechado encontra-se justificado, uma vez que, além da reincidência, houve a consideração de circunstância judicial negativa (antecedentes) para a exasperação da pena-base, não havendo falar, portanto, em afronta ao enunciado n. 269/STJ.
+Ante o exposto, com fundamento no art. 932, inciso IV, alínea "a", do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
