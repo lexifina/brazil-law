@@ -1,0 +1,14 @@
+DECISÃO
+JAQUELINE BENVINDO DE SOUSA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2393394-17.2024.8.26.0000.
+A defesa pretende seja concedido à paciente o direito a cumprir sua pena privativa de liberdade em prisão domiciliar, pois seria a única responsável pelo cuidade de seus dois filhos menores de 12 anos.
+Decido.
+Infere-se dos autos que a paciente foi condenada à pena de 14 anos de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 157, §§ 2º, II e V, e 2º-A, I, por duas vezes, na forma do art. 70, todos do CP.
+A execução penal em prisão domiciliar é admitida nas hipóteses do art. 117 da LEP. Excepcionalmente, se admite a concessão do benefício às mães dos regimes fechado e semiaberto, quando verificado, em juízo de ponderação dos interesses em conflito, que tal medida seja proporcional, adequada e necessária no caso concreto.
+No caso, existe situação excepcional que justifica o indeferimento do benefício, pois a "recorrente possui condenação definitiva por crime de roubo circunstanciado, crime cometido mediante violência e grave ameaça" (AgRg no HC n. 783.684/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Trata-se de "cumprimento de pena definitiva pelo cometimento dos delitos de tráfico de drogas e roubo majorado, este último cometido com violência ou grave ameaça. Desse modo, não obstante a paciente possua uma filha menor de 12 (doze) anos de idade, tem-se que, à luz das diretrizes firmadas pela Suprema Corte, por ocasião do julgamento do Habeas Corpus coletivo n. 143.641/SP, as circunstâncias do caso concreto encontram-se entre as exceções proferidas pelo STF, quando então não será possível a concessão do benefício ora pretendido" (AgRg no HC n. 614.029/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/10/2020, REPDJe de 12/11/2020, DJe de 03/11/2020).
+O Tribunal estadual ratificou o indeferimento do benefício mencionado, pois "existem peculiaridades "excepcionalíssimas" que justificam a denegação do pedido" (fl. 23), dentre elas o fato de o delito haver sido "cometido com violência ou grave ameaça à pessoa" (fl. 23).
+As "circunstâncias do caso concreto encontram-se entre as exceções proferidas pelo STF, quando então não será possível a concessão do benefício ora pretendido" (AgRg no HC n. 614.029/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe 3/11/2020, grifei).
+Assim, o "entendimento adotado pelo Tribunal de origem adequa-se às situações excepcionais que justificam o indeferimento da prisão domiciliar, uma vez que a paciente foi condenada pela prática de roubo, ou seja, crime cometido com violência ou grave ameaça à pessoa" (AgRg no HC n. 823.854/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023, destaquei).
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
