@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por EDSON GUIMARÃES DE FARIA e FAREZ FREITAS FARIA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fls. 642-643):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAL. AUSÊNCIA DE FUNDAMENTAÇÃO DA SENTENÇA. PREJUDICIAL DE MÉRITO AFASTADA. ROMPIMENTO DE BARRAGEM. DANOS MATERIAL E MORAL. INDENIZAÇÃO DEVIDA. QUANTUM MANTIDO. MAJORAÇÃO DA VERBA HONORÁRIA, EM GRAU RECURSAL. SENTENÇA MANTIDA.
+1. Não há que se falar em ausência de fundamentação, quando o(a) MM(a). Juiz(a), ao prolatar a sentença, apresenta, de forma exauriente, as razões que formaram a sua convicção, atendendo ao disposto nos artigos 489, do Código de Processo Civil e 93, inciso IX, da Constituição Federal/1988, inclusive se a fundamentação foi suficiente, para dirimir satisfatoriamente a lide.
+2. Em se tratando de ruptura de aterro de represa (barragem) localizada na fazenda de propriedade dos Apelantes, provocando estragos na propriedade vizinha, o nexo causai e a lesão restam evidenciados, máxime considerando a responsabilidade solidária e objetiva nos casos de dano ambiental, como já definiu o Superior Tribunal de Justiça, no tema 707, R Esp 1374284/MG e é cabível a reparação pelos danos materiais e morais.
+3. Deve ser mantido o quantum arbitrado a título de indenização por danos morais, já que suficiente e adequado para, ao mesmo tempo, evitar o enriquecimento da vítima e proporcionar um desestimulo ao ofensor, proporcionando um equilíbrio entre as partes (Súmula n. 32 do TJGO).
+4. Majorada a verba honorária anteriormente fixada, em favor do patrono do Apelado em 3%, totalizando para 13% (treze por cento) sobre o valor da condenação, com arrimo no que prescreve o artigo 85, §11, do Código de Processo Civil, aliado aos princípios da Proporcionalidade e da Razoabilidade.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Os embargos de declaração foram acolhidos para corrigir erro material (fls. 708-715).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no art. 371 do CPC, pois a responsabilidade pelo rompimento da barragem foi reconhecida sem fundamentação adequada, com base em elementos externos aos autos, especialmente um suposto "acordo de não persecução penal". Sustenta a ausência de prova suficiente do ato ilícito e falha na valoração das provas.
+Foram oferecidas contrarrazões ao recurso especial (fls. 748-753).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 758-761), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 788-792).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+De início, não prospera a alegada violação dos arts. 1.022 e 489 do CPC, uma vez que deficiente sua fundamentação.
+Assim, a recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas. Incidência da Súmula n. 284/STF.
+Verifica-se que em relação à apontada ofensa ao art. 371 do CPC, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ e alterar o decidido no acórdão impugnado, no que se refere à atribuição de responsabilidade pelo rompimento da barragem e à valoração das provas utilizadas para fundamentar a condenação, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. ARTS. 489 E 1.022 DO NCPC. NÃO CONFIGURAÇÃO. COMPROVAÇÃO. ATO ILÍCITO. INVERSÃO DE ENTENDIMENTO. NECESSIDADE. REEXAME FATOS E PROVAS. VEDAÇÃO. SÚMULA Nº 7 DO STJ. VALOR INDENIZAÇÃO. REDUÇÃO. IMPOSSIBILIDADE. LIMITES ESTABELECIDOS NESTA CORTE. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO. REFORMA DA PRETENSÃO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO PRETORIANO. NÃO DEMONSTRADO NOS MOLDES LEGAIS. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do STJ entende não existir ofensa ao princípio da colegialidade, considerando que sempre haverá a possibilidade de a decisão monocrática ser apreciada por órgão do colegiado, em virtude da interposição de agravo interno, conforme ocorreu no caso.
+3. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+4. A alteração das conclusões do acórdão recorrido acerca da comprovação da responsabilidade civil e do ato ilícito exige, imprescindivelmente, a reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+5. Os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante, o que não ocorreu no caso.
+6. A revisão dos honorários sucumbenciais implica o revolvimento de matéria fático-probatória, salvo quando os honorários se revelem irrisórios ou exorbitantes, por se distanciarem dos critérios legais e dos padrões da razoabilidade.
+7. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional. 8. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.543.490/SP, Data de Julgamento: 30/5/2022, Terceira Turma, Data de Publicação: DJe de 1º/6/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 16% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VIOLAÇÃO DOS ARTIGOS 1.022 E 489 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. ROMPIMENTO DE BARRAGEM. ATO ILÍCITO . REVISÃO. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
