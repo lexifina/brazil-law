@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CANISIO NOEDEL e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL SEGUROS. PLANO DE SAÚDE. CONTRATO EMPRESARIAL COLETIVO. AÇÃO REVISIONAL. MANUTENÇÃO DE BENEFICIÁRIO APOSENTADO. ART. 31 DA LEI  9.656/98. REQUISITOS. 1) O ARTIGO 31 DA LEI RF 9.656/98 ASSEGURA A PERMANÊNCIA NO PLANO COLETIVO EMPRESARIAL POR PRAZC INDETERMINADO, INDEPENDENTEMENTE DA EXTINÇÃO DO VÍNCULO EMPREGATÍCIO, AO BENEFICIÁRIO APOSENTADC QUE TENHA CONTRIBUÍDO AO PLANO POR PELO MENOS 10 ANOS, DESDE QUE ASSUMA A INTEGRALIDADE DOS VALORES A SEREM PAGOS À OPERADORA. 2) NA HIPÓTESE, OS APELANTES DEIXARAM DE COMPROVAR A CONDIÇÃO DE APOSENTADOS, BEM COMO OS PAGAMENTOS DOS VALORES DE CONTRIBUIÇÃO AO LONGO DOS ANOS. 3) SENTENÇA DE IMPROCEDÊNCIA MANTIDA. APLICADA A MAJORAÇÃO RECURSAL HONORÁRIA. APELAÇÃO DESPROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação do art. 31 da Lei nº 9.656/1998, no que concerne ao preenchimento dos requisitos exigidos para que os recorrentes permaneçam como beneficiários do plano de saúde, trazendo a seguinte argumentação:
+Foi violado o art. 31, da Lei 9.656/98, tendo em vista que houve o preenchimento dos requisitos essenciais para a aplicação da norma violada.
+O dispositivo infraconstitucional preve no seu bojo requisitos essenciais quais sejam: a condição de aposentado; decorrência de vínculo empregatício; pelo prazo mínimo de dez anos.
+O debate existente é inegavelmente relevante, pois se discute o suposto direito que o recorrido possui na continuidade do plano contratado ao longo de dez anos.
+Não há dúvida alguma que o v. acórdão ora recorrido violou o art. 31 da Lei 9.656/98, os quais embora exijam que a condição de aposentado e pagamento das contribuições não lhe concedeu o benefício de ser mantido no plano de saúde independentemente dessa condição julgado o feito no estado em que se encontravam os autos.
+Com a devida vênia, sendo incontroverso que houve a contribuição ao longo do período, portanto, não está ausente o requisito legal previsto na norma, afinal é incabível que esse da revaloração da prova não se verifique tal análise.
+E justamente por que houve a contribuição com o pagamento das parcelas ao longo dos anos que esse tem o direito de permanecer como beneficiário. A lei é muito clara e fez questão de ressaltar a necessidade da contribuição como forma de garantir o aproveitamento do direito.
+ ..
+Assim, a luz da jurisprudência do STJ a pretensão há de ser concedida, pois resumidamente esse preencheu os requisito infraconstitucionais previstos no art. 31, da Lei 9.656/98. Logo, deve ser reconhecida a afronta ao artigo acima citado e provido o recurso especial para conchecer o direito pleteado pelo recorrente (fls. 289/292).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Infere-se da leitura do dispositivo legal que, além do pressuposto temporal, um dos requisitos essenciais para a permanência no plano empresarial é que o empregado desligado seja aposentado e que tenha contribuído para o plano de saúde, mediante o pagamento da respectiva mensalidade.
+Os apelante anexaram o Contrato firmado, em 25/08/2003, chamado de Medianeira 4, categoria empresarial, modalidade semi-privativo e Termo Aditivo (evento 3, INIC E DOCS2 - págs. 23/62), porém, deixaram de comprovar a condição de aposentados, bem como não demonstraram os pagamentos dos valores de contribuição ao longos dos anos.
+Logo, a confirmação da sentença de improcedência, por seus próprios e jurídicos fundamentos, é medida que se impõe (fls. 275/276).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria, a toda evidência, o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
