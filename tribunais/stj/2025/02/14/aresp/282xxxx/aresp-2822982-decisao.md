@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 579/587).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 489):
+EMENTA - APELAÇÕES CÍVEIS - AÇÃO DE REVISÃO CONTRATUAL - NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO E CERCEAMENTO DE DEFESA - INÉPCIA DA PETIÇÃO INICIAL - OFENSA À DIALETICIDADE - NÃO OCORRÊNCIA - PRELIMINARES REJEITADAS - JUROS REMUNERATÓRIOS - DISCREPÂNCIA ENTRE O ÍNDICE PACTUADO PELAS PARTES E A TAXA MÉDIA PRATICADA PELO MERCADO - LIMITAÇÃO À TAXA MÉDIA DIVULGADA PELO BANCO CENTRAL - TERMO INICIAL DE JUROS DE MORA - CITAÇÃO - INAPLICABILIDADE DO ENUNCIADO DE SÚMULA Nº 54 DO SUPERIOR TRIBUNAL DE JUSTIÇA - RESPONSABILIDADE CONTRATUAL - MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS - NÃO ACOLHIMENTO - FIXAÇÃO POR EQUIDADE - SENTENÇA MANTIDA - RECURSOS DESPROVIDOS.
+Tendo o magistrado examinado e enfrentado adequadamente os pedidos iniciais formulados pela parte autora, não há falar em nulidade da sentença por ausência de fundamentação.
+Inexiste cerceamento de defesa, em virtude do julgamento antecipado da lide, quando desnecessária a dilação probatória.
+Não há que se falar em inépcia, se a petição inicial preenche os requisitos exigidos no art. 319 do Código de Processo Civil.
+Atendido o princípio da dialeticidade, rejeita-se a preliminar de não conhecimento do recurso.
+Os juros remuneratórios devem ser limitados quando discreparem significativamente da taxa média praticada pelo mercado ao tempo da contratação e divulgada pelo Banco Central do Brasil.
+Tratando-se de responsabilidade contratual, os juros de mora devem ser computados da citação.
+De acordo com o § 8.º do art. 85 do Código de Processo Civil, "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2.º".
+Os embargos de declaração foram rejeitados (e-STJ fls. 523/526).
+Nas razões do recurso especial (e-STJ fls. 547/562), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 421 do CC e 927 do CPC, pois (e-STJ fls. 553/554):
+ ..  no julgamento do Recurso Especial nº 1.061.530/RS, escolhido como representativo da controvérsia em Incidente de Processo Repetitivo, ao tratar do assunto juros remuneratórios aplicados por instituição financeira, o Superior Tribunal de Justiça fixou orientação vinculante no sentido de que, a instituição de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade, bem como que é admitida a revisão das taxas em situações excepcionais, desde gue caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º , do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento concreto.
+Não foram apresentadas contrarrazões (e-STJ fl. 577).
+No agravo (e-STJ fls. 500/507), afirma a presença dos requisitos de admissibilidade do especial.
+Não foi ofe recida contraminuta (e-STJ fl. 511).
+Juízo negativo de retratação (e-STJ fl. 513).
+É o relatório.
+Decido.
+Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando o caráter abusivo dos juros remuneratórios no caso concreto (e-STJ fls. 495/496):
+Sobre os juros remuneratórios, o Superior Tribunal de Justiça, no julgamento do Resp nº 1.061.530/RS, submetido ao regime dos recursos repetitivos, firmou posicionamento do sentido de que: (1) as instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto nº 22.626/1933) - Súmula 596/STF; (2) a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; (3) são inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591, c/c o art. 406 do CC/2002; e, (4) é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que a abusividade fique cabalmente demonstrada.
+Ademais, há de sopesar que "a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, a conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras" (STJ, AgInt no AREsp 447.560/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/04/2017, Dje 19/05/2017).
+No caso, o contrato pactuado entre as partes aponta a cobrança de uma taxa de juros mensal de 22,00% e anual de 791,61%, agindo, assim, com acerto o magistrado sentenciante, uma vez que realmente o percentual contratado é demasiadamente abusivo, ultrapassando sobremaneira a taxa de mercado para o período, que, na data de pactuação do contrato, foi de 3,47% ao mês e anual bem inferior à cobrada, impondo-se ao consumidor uma desvantagem exagerada e que, consequentemente, merece intervenção judicial.
+O entendimento está de acordo com a jurisprudência desta Corte. A propósito:
+PROCESSU AL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MÉRITO. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+ ..  3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009)
+4. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+5. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.427.734/RS, de minha relatoria, Quarta Turma, julgado em 26/02/2024, DJe 29/02/2024.)
+Ainda, desconstituir a convicção formada pelas instâncias ordinárias quanto às peculiaridades do contrato e à ausência de prova por parte da recorrente e, assim, acolher os argumentos do recurso especial é inviável, em razão das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial .
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
