@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JEAN CEZAR DE ASSIS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG no julgamento do HC n. 1.0000.24.484680-4/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante e teve a custódia convertida em preventiva, por ter supostamente praticado o crime de furto qualificado.
+Irresignada, a Defensoria Pública do Estado de Minas Gerais impetrou habeas corpus perante o Tribunal de origem, contudo, a Quinta Câmara Criminal do TJMG conheceu parcialmente e, nesta extensão, denegou a ordem, nos termos do acórdão assim ementado:
+"HABEAS CORPUS CRIMINAL - ARTIGO 155, §4º, INCISO IV, DO CÓDIGO PENAL - PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA DE OFÍCIO - POSSIBILIDADE - DECISÃO FUNDAMENTADA - PRESENÇA DOS PRESSUPOSTOS DOS ARTIGOS 312 E 313, INCISO I, DO CPP - GARANTIA DA ORDEM PÚBLICA - POSSIBILIDADE DE REITERAÇÃO DELITIVA - REINCIDÊNCIA, MAUS ANTECEDENTES E REGISTROS POLICIAIS ANTERIORES - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - IMPOSSIBILIDADE DE TRANCAMENTO DA AÇÃO POR AUSÊNCIA DE JUSTA CAUSA - RISCO DE SUPRESSÃO DE INSTÂNCIA - NÃO CONHECIMENTO DE PARTE DA IMPETRAÇÃO E, NA PARTE CONHECIDA, ORDEM DENEGADA. - Não há qualquer nulidade procedimental na conversão da prisão em flagrante delito em prisão preventiva, por decisão "de ofício". - A conversão da prisão em flagrante delito em prisão preventiva não se confunde com a decretação da custódia cautelar a requerimento das partes legitimadas (Ministério Público, querelante ou assistente) ou em apreciação de representação da autoridade policial, conforme artigo 282, §2º do Código de Processo Penal. - Demonstrada a existência de indícios de autoria e materialidade delitivas, a prisão preventiva deve ser decretada, nos termos do artigo 312 do CPP, se houver necessidade cautelar. - A garantia da ordem pública tem a finalidade de impedir que o agente solto continue a delinquir, acautelando-se, pois, o meio social. - A prisão preventiva do paciente se faz necessária para a garantia da ordem pública, mormente quando se verifica que ele supostamente, em união de desígnios com outro indivíduo, entrou na residência da vítima para furtar o local. - Tendo em vista que o paciente é reincidente específico, é reincidente nos crimes de ameaça e furto e possui maus antecedentes pela prática dos crimes de furto tentado e furto qualificado, resta evidenciada sua periculosidade e o risco de reiteração delitiva. - Não há que se falar no trancamento da ação penal quando a denúncia sequer foi oferecida pelo Ministério Público. - Eventual manifestação do Tribunal sobre a alegada ausência de justa causa configuraria supressão de instância, haja vista que a matéria ainda não foi analisada na primeira instância. - Não conhecimento de parte da impetração e, na parte conhecida, ordem denegada. V.v. A Lei 13.964/19 alterou o artigo 311 CPP e vedou expressamente a possibilidade de decretação da prisão preventiva sem o prévio requerimento do Ministério Público." (fl. 534)
+No recurso, a Defensoria sustenta a configuração de flagrante ilegalidade na conversão da prisão em flagrante em preventiva, pois o Ministério Público oficiou pelo relaxamento da custódia.
+Requer o provimento do recurso para expedir alvará de soltura.
+O Ministro Presidente do Superior Tribunal de Justiça solicitou informações e determinou o envio dos autos, na sequência, ao Parquet Federal.
+Informações prestadas (fls. 591/592).
+O Ministério Público Federal ofertou parecer pela prejudicialidade (fls. 603/605).
+É o relatório.
+Decido.
+Conforme relatado, busca-se o relaxamento da prisão preventiva.
+Constata-se, todavia, que a custódia cautelar não persiste. Segundo informações prestadas pelo Juízo de Primeiro Grau, o recorrente foi colocado em liberdade.
+Assim, inegável a perda superveniente do objeto do recurso. Ilustrativamente:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO E HOMICÍDIO QUALIFICADO TENTADO. NEGATIVA DE AUTORIA. ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. DECISÃO DE PRONÚNCIA SUPERVENIENTE. REQUISITOS DO ART. 41 DO CPP ATENDIDOS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO E AUSÊNCIA DE FUNDAMENTAÇÃO. CUSTÓDIA CAUTELAR REVOGADA EM PRIMEIRO GRAU. QUESTÕES PREJUDICADAS. RECURSO NÃO PROVIDO.
+1. Os questionamentos acerca da legalidade da segregação cautelar da recorrente estão superados, diante da notícia de que a custódia provisória foi revogada, com a aplicação de medidas cautelares diversas ao cárcere.
+ ..
+6. Recurso ordinário em habeas corpus não provido.
+(RHC n. 66.466/RS, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/8/2018, DJe de 24/8/2018.)
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
