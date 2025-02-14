@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por JACIRA DE MELO à decisão desta relatoria que conheceu do agravo para não conhecer do recurso especial em virtude da ausência de prequestionamento e da incidência das Súmulas nºs 7/STJ e 283/STF (e-STJ fls. 556/559).
+Nas razões dos presentes aclaratórios, a parte embargante sustenta haver omissão e contradição na decisão embargada, pois o art. 1º da Lei de nº 8009/1990 foi prequestionado na origem. Afirma, ainda, que não se observou "(..) que o objeto do recurso especial é justamente a possibilidade de rescisão do acórdão objeto da ação rescisória, sob o fundamento do Art. 966, V, do CPC, isto é, em caso de violação manifesta à norma jurídica." (e-STJ fl. 563).
+Impugnação às e-STJ fls. 569/576.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Não há no julgado ora embargado nenhum dos vícios elencados no artigo 1.022 do Código de Processo Civil: omissão, contradição, obscuridade ou erro material, estando ele suficientemente fundamentado de acordo com as normas processuais anteriores e vigentes, bem como nos moldes dos princípios constitucionais atinentes.
+Com efeito, observa-se que a decisão recorrida dirimiu a controvérsia com base nos seguintes fundamentos:
+"(..)
+O Tribunal local, ao analisar a controvérsia, consignou:
+"(..)
+Em outras palavras, é a ação a ser ajuizada com a finalidade de desconstituir decisão de mérito transitada em julgado.
+Como é sabido, as hipóteses de cabimento da Ação Rescisória, relacionadas no artigo 966 do novo Código de Processo Civil, são taxativas, não admitindo ampliação, tampouco interpretação analógica ou extensiva. Assim, a não subsunção do fato a qualquer das circunstâncias legais impede a admissão por absoluta ausência de interesse processual da parte autora.
+(..)
+Ademais, sabe-se que a Ação Rescisória tem o escopo de enfrentar a coisa julgada e se caracteriza como ação excepcional e somente tem cabimento nas hipóteses previstas no artigo 966 do Código de Processo Civil vigente, cujo rol, segundo entendimento do Superior Tribunal de Justiça, é , não numerus clausus admitindo, como já dito, ampliação. Dessa sorte, invocada a incidência de qualquer das hipóteses legais, cumpre à parte autora demonstrá-la de forma precisa, sendo vedada a sua utilização como sucedâneo de recurso ou para rediscutir a questão objeto da decisão rescindenda.
+(..)
+No caso concreto, a autora, ora agravante, fundamentou o pedido nos incisos V e VIII do artigo 966 do CPC, que autorizam a Ação Rescisória quando: (inciso V) e/ou "violar manifestamente norma jurídica" (inciso VIII). E especificamente "for fundamentada em erro de fato verificável do exame dos autos" acerca do "erro de fato", o parágrafo primeiro esclarece que "há erro de fato quando a decisão rescindenda admitir fato inexistente ou quando considerar inexistente fato efetivamente ocorrido, sendo indispensável, em ambos os casos, que o fato não represente ponto controvertido sobre o qual o juiz . deveria ter se pronunciado"
+Como "violação manifesta à norma jurídica", a agravante sustentou que "o imóvel penhorado constitui residência da autora, ocorrendo neste ponto a violação ao Art. 1º, da Lei de nº 8.009 /90, acrescentando que o Art. 1º, da Lei de nº 8.009/90 não exige qualquer comprovação da unicidade do bem, sendo imprescindível prova tão somente da residência no imóvel, o que resta devidamente comprovado (mov. 1.1 - NPU 0076913- 36.2022.8.16.0000). naqueles autos"
+Contudo, para que ocorra a violação prevista no artigo 966, inciso V, do Código de Processo Civil, o julgador deve transgredir manifestamente a norma jurídica, ou seja, deve ficar claro que houve um erro de interpretação do preceito apontado como violado, não configurando essa irregularidade a adoção de uma das interpretações possíveis.
+(..)
+Buscou a autora, ora agravante, a rescisão do acórdão por meio do qual se decidiu manter a penhora sobre bem imóvel, sob o fundamento de não ter ela logrado êxito em demonstrar que se tratava de bem de família.
+No Agravo de Instrumento inicialmente interposto (mov. 1.1, NPU 0058212-95.2020.8.16.0000), o ora agravado Eduardo Fachini, além de defender que não havia provas suficientes de que o imóvel era o único da executada, ora autora, e, nesse ponto, que a consulta ao CNIB não se prestava a tanto, argumentou que também não havia provas quanto à destinação familiar do imóvel, sendo a conta de telefone mencionada pelo Juízo inapta para comprovar a residência no local.
+Da leitura do acórdão cuja rescisão se pretende, evidencia-e que restou expressamente consignada a ausência provas de que a ora autora exercia moradia permanente no imóvel, ou seja, que nele residia, a fim de atrair a proteção prevista no artigo 1º da Lei nº 8.009/90 (mov. 27.1 NPU 0058212- 95.2020.8.16.0000), verbis:
+(..)
+Porém, para que tal decisão fosse/seja desconstituída, mostrar-se-ia necessário adentrar no reexame fático-probatório, o que é inadmissível em sede de Ação Rescisória, sob pena de se dilatar indefinidamente a discussão outrora travada no recurso.
+Com efeito, para que se admita o ajuizamento de Ação Rescisória fundada no artigo 966, V, do CPC, é necessário que a interpretação dada pela decisão rescindenda viole dispositivo legal ,em sua literalidade o que claramente não é o caso, uma vez que a aventada violação ao artigo 1º da Lei nº 8.009 /90, na realidade, diz respeito à justiça da decisão e aos elementos de convicção utilizados pelos julgadores na prolação do acórdão, principalmente ao não considerarem o imóvel penhorado como "residência e não provado ser ele o único pertencente à autora/agravante.
+(..)
+Segue a autora, ora agravante, em sua pretensão rescisória, alegando como "erro de fato" que o acórdão rescindendo "não reconheceu os comprovantes de residência de seq. 756.4 (autora) e 756.5, pág. 3 e 4 .(netos que residem com a mesma) dos autos de origem"
+(..)
+No caso, "o fato" (tratar-se o imóvel de residência da autora, ora agravante, ou não) era nitidamente controvertido, daí porque a admissão de fato existente como inexistente ou vice-versa não ocorreu, mas tão somente interpretação da prova produzida nos autos, realizada pelos julgadores.
+Ainda, não se pode deixar de observar que, se a autora, ora agravante, desejava ver expressamente mencionados no acórdão os documentos que juntou nos autos de origem (movs. 756.4 e 756.5), deveria ter oposto embargos de declaração com essa finalidade, o que não ocorreu.
+Desse modo, certa ou errada, justa ou injusta, a decisão não é rescindível, por qualquer ângulo que se analise a petição inicial da Ação Rescisória, especialmente porque não se evidencia dos autos que o (principalmente aquela acórdão rescindendo tenha violado manifestamente qualquer norma jurídica alegada pela parte autora, ora agravante), tampouco que tenha admitido por inexistente fato irretorquivelmente existente e exaustivamente comprovado nos autos." (e-STJ fls. 280/286-grifou-se).
+Nesse contexto, verifica-se que o art. 1º da Lei nº 8.009/1990 não foi apreciado no aresto de origem, o que impede seu conhecimento por esta Corte, em virtude da ausência de prequestionamento.
+Ademais, para rever o entendimento firmado pelas instâncias ordinárias este Tribunal teria que reexaminar fatos e provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Por fim, registra-se que a parte agravante não refutou o fundamento adotado pelo aresto local, segundo o qual não restaram caracterizadas as hipóteses do artigo 966 do Código de Processo Civil, o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (e-STJ fls. 557/558).
+Assim, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+Publique-se.
+Intimem-se.
+EMENTA
