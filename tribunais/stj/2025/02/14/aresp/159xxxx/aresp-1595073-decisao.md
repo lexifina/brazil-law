@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSE DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE que negou seguimento ao recurso especial (Apelação n. 201800309575).
+Consta dos autos que o agravante foi condenado à pena de 3 anos e 4 meses de reclusão, substituída por restritivas de direitos, e multa, pela prática do delito previsto no art. 312, c/c o art. 71, ambos do Código Penal.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, o qual lhe negou provimento, em acórdão assim ementado (e-STJ fls. 4.311/4.312):
+APELAÇÃO CRIMINAL - CRIME DE PECULATO POR EQUIPARAÇÃO EM CONTINUIDADE DELITIVA (ART. 312 C/C ART. 71, AMBOS DO CP E ART. 552, DA CLT) - RECURSO EXCLUSIVO DA DEFESA - PRELIMINARES - INCONSTITUCIONALIDADE MATERIAL DO ART. 552, DA CLT, EM FACE DA REDAÇÃO DO ART. 8º, INCISO I, DA CF/88 - REJEITADA INAPLICABILIDADE DO ART. 552, DA CLT, SOB A ASSERTIVA DE QUE A ASDERSE É UMA ASSOCIAÇÃO ASSISTENCIAL REJEITADA - ASSOCIAÇÃO QUE, ALÉM DE FORNECER AOS ASSOCIADOS ATIVIDADES SOCIAIS, PRESTA ASSISTÊNCIA JURÍDICA - A ASDERSE, EM VERDADE, CONSITITUI-SE EM UMA ASSOCIAÇÃO JURÍDICA DE DIREITO PRIVADO - APLICABILIDADE DO ART. 552, DA CLT - MÉRITO - PLEITO ABSOLUTÓRIO, COM LASTRO NA AUSÊNCIA DO ELEMENTO SUBJETIVO DO TIPO - AUTORIA E MATERIALIDADE DELITIVAS SOBEJAMENTE COMPROVADAS - FARTA PROVA DOCUMENTAL E TESTEMUNHAL - DOLO EVIDENCIADO MANUTENÇÃO DA CONDENAÇÃO - PEDIDO DE CUMPRIMENTO DA PENA RESTRITIVA DE DIREITO SOMENTE APÓS O TRÂNSITO EM JULGADO - IMPOSSIBILIDADE - DECISÃO DO STF NO JULGAMENTO DO ARE 964246 - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME.
+Foram opostos embargos de declaração, os quais foram improvidos (e-STJ fls. 4.497/4.502).
+A defesa apresentou recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, alegando violação ao art. 552 da CLT (Consolidação das Leis Trabalhistas).
+Destacou que "os doutos julgadores entenderam pela aplicabilidade do art. 552 da CLT no caso concreto, tratando-se o recorrente à época de Presidente da ASDERSE - Associação dos Servidores do Departamento de Estradas e Rodagens de Sergipe. Contudo, conforme mencionado na apelação, a ASDERSE não tem registro sindical no Ministério do Trabalho, não sendo, portanto, entidade sindical" (e-STJ fl. 4.339).
+Afirmou, também, que "o recorrente não se apropriou de nenhuma quantia, sendo apenas imputada  ..  a ele  a malversação do patrimônio da Associação, sem nenhum benefício para si" (e-STJ fl. 4.340).
+O recurso especial foi inadmitido pela incidência das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça.
+Daí o presente agravo em recurso especial, no qual a defesa aponta que "o pleito recursal delimita-se acerca da necessidade ou não do registro sindical no Ministério do Trabalho para que uma associação possa defender interesse de classe ou categoria profissional" (e-STJ fl. 4.443).
+Aduz que não pretende o reexame de fatos, uma vez que "o que se discute na presente irresignação recursal é apenas questão de direito, a aplicação do art. 552 da CLT à referida associação, mesmo não tendo  ..  cumprido o requisito do registro no Ministério do Trabalho. A absolvição por atipicidade da conduta seria consequência de tal questão fática, não se pretendendo aqui o reexame das provas dos autos" (e-STJ fl. 4.444).
+Requer, assim, o conhecimento do agravo para que seja provido o recurso especial.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Do agravo não se deve conhecer, uma vez que o agravante deixou de impugnar todos os fundamentos da decisão agravada.
+Na espécie, a decisão que não admitiu o recurso especial destacou a impossibilidade de exame de ofensa a dispositivos constitucionais e a incidência da Súmula n. 83/STJ.
+Todavia o agravante não infirmou especificamente esse fundamento.
+Ressalte-se, ademais, que, inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+Anota-se que o entendimento desta Corte Superior é o de que "a incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2016, DJe 31/3/2016).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DOLOSO TENTADO E FRAUDE PROCESSUAL. SÚMULA 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. APLICAÇÃO TAMBÉM NA HIPÓTESE DA ALÍNEA "A" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. OFENSA AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO DO DELITO E AFASTAMENTO DAS QUALIFICADORAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+- A incidência da Súmula n. 83 deste Superior Tribunal de Justiça não se restringe ao recurso especial aviado com base na alínea "c" do inciso III do art. 105, da Constituição Federal, aplicando-se o enunciado, da mesma forma, aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional. (AgRg no AREsp 299.793/SP, Rel. Ministro Gurgel de Faria, Quinta Turma, DJe 27/11/2014)
+- O princípio da identidade física do juiz não é absoluto, devendo a parte fazer prova do prejuízo, o que não ocorreu na espécie.
+- O pedido de desclassificação do delito e de afastamento da qualificadoras enseja o reexame do material fático-probatório dos autos, procedimento inadmissível em recurso especial. Incidência da Súmula n. 7/STJ.
+Agravo regimental desprovido. (AgRg no AREsp n. 623.381/MA, relator Ministro Ericson Maranho (Desembargador convocado do TJSP), Sexta Turma, julgado em 12/5/2015, DJe 26/5/2015, grifei.)
+Desse modo, não havendo impugnação específica de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
