@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DIRECIONAL ENGENHARIA S/A e JONASA EMPREENDIMENTOS IMOBILIÁRIOS LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/06/2024.
+Concluso ao gabinete em: 18/10/2024.
+Ação: obrigação de fazer cumulada com indenização pelos danos materiais e compensação pelos danos morais, ajuizada por RAUL AUGUSTO DE ARAUJO NETO, em face de DIRECIONAL ENGENHARIA S/A e JONASA EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Sentença: julgou procedentes os pedidos, condenando a DIRECIONAL ENGENHARIA S/A e a JONASA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. ao pagamento da compensação pelos danos morais, no valor de R$ 20.000.00, da multa contratual moratória de 2% (dois por cento) sobre o valor atualizado do imóvel, bem como dos juros de 1% (um por cento) por cada mês de atraso, ao pagamento dos lucros cessantes, no patamar de 1,0% (um por cento) sobre o valor do imóvel adquirido, além de determinar o congelamento do saldo devedor do contrato no valor de R$ 192.354,27, período de mora da DIRECIONAL ENGENHARIA S/A e da JONASA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. No mais, determinou que o valor de R$ 28.343,26, pago pelo agravado, deve ser restituído com correção monetária e juros, a partir da data do pagamento. Diante disso, condenou a DIRECIONAL ENGENHARIA S/A e a JONASA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. ao pagamento das custas e dos honorários, que foram fixados em 20% sobre o valor atualizado da condenação. (e-STJ fl. 458/472)
+Acórdão: deu parcial provimento à Apelação interposta por DIRECIONAL ENGENHARIA S/A e da JONASA EMPREENDIMENTOS IMOBILIÁRIOS LTDA., nos termos da seguinte ementa:
+"Apelação Cível. Ação de obrigação de fazer c/c indenização por danos materiais e morais. Contrato de promessa de compra e venda de imóvel. Inversão da cláusula penal. Possibilidade. Atraso na entrega de imóvel. Código de Defesa do Consumidor. Cláusula de tolerância (180 dias). Prorrogação automática injustificada. Atraso na entrega da obra. Termo final da mora. Data da expedição do "habite-se". Demora na imissão por culpa do comprador. Precedente Terceira Câmara Cível. Lucros cessantes e cláusula penal. Impossibilidade de cumulação. Danos morais afastados. IRDR 0005477-60.2016.8.04.0000 deste TJAM. Congelamento do saldo devedor. Impossibilidade quanto à correção monetária. Recurso conhecido e parcialmente provido." (e-STJ fl. 555)
+Embargos de Declaração: opostos, por DIRECIONAL ENGENHARIA S/A e da JONASA EMPREENDIMENTOS IMOBILIÁRIOS LTDA., foram rejeitados. (e-STJ fl. 944/948)
+Recurso especial: alega dissídio jurisprudencial, sustentando que: i) é impossível realizar a aplicação inversa da cláusula, já que o contrato de promessa de compra e venda assinado entre as partes não prevê imposição de penalidades por descumprimento contratual, mas apenas sobre inadimplemento de parcela; e, ii) a multa como aplicada gera o enriquecimento ilícitos do recorrido. (e-STJ fl. 602/619)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de obrigação de fazer cumulada com indenização por danos materiais e compensação por danos morais.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. Agravo conhecido. Recurso especial não conhecido.
