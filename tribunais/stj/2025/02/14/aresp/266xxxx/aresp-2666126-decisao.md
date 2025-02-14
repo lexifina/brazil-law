@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por SIMON DA SILVA SANTOS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 1502117-16.2023.8.26.0540 (fls. 177/181), que negou provimento ao apelo defensivo, mantendo o regime fechado como inicial para cumprimento da pena.
+Foram opostos embargos de declaração (fls. 191/201), rejeitados às fls. 203/206.
+No recurso especial (fls. 213/227), a defesa requereu, em síntese, a reforma do acórdão de origem, com a fixação de regime menos gravoso que o fechado.
+Inadmitido o recurso na origem (fls. 254/256), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 261/266).
+O Ministério Público Federal opinou pelo conhecimento do agravo e não conhecimento do recurso especial (fls. 299/305), em parecer com a seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. CONHECIMENTO. RECURSO ESPECIAL. ROUBO MAJORADO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 33 DO CÓDIGO PENAL. INDICAÇÃO GENÉRICA. ALÍNEA, INCISO OU PARÁGRAFO NÃO ESPECIFICADO. SÚMULA 284/STF. REGIME PRISIONAL FECHADO. FUNDAMENTO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO NÃO IMPUGNADO. CONCURSO DE TRÊS AGENTES. VIOLÊNCIA FÍSICA CONTRA A VÍTIMA (GOLPE DO "MATA-LEÃO"). GRAVIDADE CONCRETA DA CONDUTA. NÃO CONHECIMENTO. NÃO PROVIMENTO. Parecer pelo conhecimento do agravo para não conhecer do recurso especial. Caso conhecido o apelo nobre, por seu não provimento.
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Com relação ao recurso especial, esse não merece conhecimento.
+Verifica-se, da análise do recurso, deficiência na sua fundamentação, uma vez que apontada genericamente a contrariedade ao art. 33 do Código Penal, sem a especificação de quais parágrafos ou incisos teriam sido violados.
+Nesse contexto, o entendimento deste Tribunal é de que o argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração de contrariedade de lei federal impedem o conhecimento o recurso especial por deficiência de fundamentação (Súmula n. 284 do STF) - (AgInt no REsp n. 1.825.406/SC, Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe 8/7/2024).
+Além disso, verifica-se que o agravante deixou de impugnar fundamento do acórdão, em suas razões recursais. Percebe-se do acórdão recorrido que, a despeito da primariedade e de fixada a pena-base no mínimo legal, a gravidade concreta da conduta, a numerosidade de agentes e o emprego de violência física foram justificativas para a escolha de regime mais gravoso do que o indicado apenas pelo quantum da pena (fl. 181):
+A síntese do montante da pena com as circunstâncias concretas gravosas do crime, marcadas por ter sido a ação praticada em comparsaria, destaca-se, não de dois, mas de três agentes, bem como, e principalmente, porque houve emprego de violência física contra o ofendido, que sofreu um "mataleão", não se olvidando que, concomitantemente, houve grave ameaça com emprego de simulacro de arma de fogo, tudo a implicar maior periculosidade, agressividade exacerbada e absoluta desídia pela lei penal, a reclamar a imposição do regime prisional mais rigoroso.
+A peça recursal não faz menção a tais fundamentos, razão pela qual o recurso encontra óbice no Enunciado n. 283/STF.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. OFENSA AO ART. 33 DO CP. INDICAÇÃO GENÉRICA, SEM ESPECIFICAÇÃO DA VIOLAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF.
+Agravo conhecido para não conhecer do recurso especial.
