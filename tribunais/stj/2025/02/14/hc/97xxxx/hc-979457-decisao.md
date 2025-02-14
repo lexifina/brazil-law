@@ -1,0 +1,15 @@
+DECISÃO
+O presente writ, impetrado em benefício de ALAN GABRIEL BARROS DE OLIVEIRA - condenado à pena de 4 anos, 10 meses e 10 dias de reclusão, além do pagamento de 485 dias-multa, por incursão no crime de tráfico de drogas privilegiado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5016189-21.2021.8.24.0023), não comporta processamento.
+Busca-se, nesta impetração, a redução da pena, aplicando-se a fração máxima de 2/3 da minorante do tráfico privilegiado e, subsidiariamente, caso seja entendido que o Tribunal de origem não apreciou devidamente o pedido, acarretando supressão de instância, que seja analisado o pedido de ofício, em razão da flagrante ilegalidade.
+Adianto que o writ, no entanto, é manifestamente inadmissível.
+Com efeito, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a condenação transitou em julgado em 28/92022, de maneira que esta impetração é substitutiva de pedido revisional e, portanto, incabível.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+Registre-se, ainda, que esta via não é adequada para o amplo reexame de fatos e de provas para análise da dosimetria da pena imposta. Não se revelando, de mais a mais, nenhuma ilegalidade manifesta a ser reparada por meio da concessão de habeas corpus de ofício.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, pois o Magistrado reduziu a pena em razão da causa especial de diminuição do tráfico privilegiado em 1/6 com base na quantidade de droga apreendida - 8,025 kg de maconha (fls. 22 e 31) -, sendo certo, ainda, que a pena-base foi fixada no mínimo legal, não de podendo cogitar de bis in idem.
+Com efeito, esta Corte Superior de Justiça entende que, em homenagem ao princípio do livre convencimento motivado e tendo sido apresentado argumento concreto e específico para a escolha da fração de 1/6 de redução da pena, não há como esta Corte se imiscuir no juízo de proporcionalidade feito pelas instâncias ordinárias (AgRg no AREsp n. 1.927.059/CE, Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/10/2022, DJe 24/10/2022).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO APÓS O TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. PRETENSÃO DE APLICAÇÃO DA FRAÇÃO MÁXIMA DE 2/3 DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. REDUÇÃO NO PATAMAR DE 1/6 COM BASE NA QUANTIDADE DE DROGA APREENDIDA (8,025 KG DE MACONHA). FUNDAMENTO IDÔNEO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
