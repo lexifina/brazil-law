@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por DANIEL VIDAL BELEM contra a decisão do Tribunal de Justiça do Estado de Rondônia que inadmitiu o recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0010650-11.2019.8.22.0501.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo (fls. 204/207).
+É o relatório.
+O agravo é inadmissível.
+O Tribunal de origem não admitiu o apelo nobre considerando que o recurso especial visa ao reexame de matéria fático-probatória, o que é vedado pela Súmula 7 do Superior Tribunal de Justiça.
+O agravante interpôs o presente agravo em recurso especial, sustentando que a análise do mérito do recurso cabe ao Superior Tribunal de Justiça e não ao Tribunal local. Argumenta, ainda, que a decisão de não admissão foi equivocada, pois a competência do Tribunal de Justiça se restringe à verificação dos pressupostos de admissibilidade do recurso, não cabendo a análise do mérito, que deve ser realizada pelo STJ. Por fim, alega que a questão em debate não atrai a incidência da Súmula 7 desta Corte, pois se trata de matéria de direito, não demandando reexame probatório.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, no tocante à Súmula 7/STJ, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. Ainda, o agravante nem sequer especifica a situação do caso concreto de forma a demonstrar que sua pretensão, através do recurso especial, não envolve análise de questões fáticas, relacionada ao conjunto da prova coletada no curso da ação penal e forma como considerada na decisão de segundo grau. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 7. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
