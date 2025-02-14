@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de petição apresentada por Cleydir Gomes de Oliveira, às fls. 252-253, em que requer o prosseguimento do feito discutido nos presentes autos, tendo em vista o julgamento da ADIn n. 5.090/DF.
+Argumenta, para tanto, que deve ser levantado o sobrestamento do presente feito, uma vez que "já foi realizado o julgamento da referida ação direta, tendo já ocorrido o transito em julgado" (fl. 252).
+É o relatório. Decido.
+Primeiramente, é de rigor noticiar que, diferentemente do noticiado pelo Requerente, a ADIn n. 5.090/DF, apesar de já ter sido julgada, ainda não transitou em julgado, estando ainda pendente para julgamento dois embargos de declaração.
+No mais, verifico ser necessário determinar a remessa do presente feito à instância de origem.
+O Supremo Tribunal Federal, em 12/6/2024, na ocasião da apreciação da ADI n. 5.090/DF, julgou parcialmente procedente o pedido formulado na ação direta, com atribuição de efeitos ex nunc, a contar da publicação da ata de julgamento, estabelecendo o seguinte entendimento: a) Remuneração das contas vinculadas na forma legal (TR  3% a.a.  distribuição dos resultados auferidos) em valor que garanta, no mínimo, o índice oficial de inflação (IPCA) em todos os exercícios; e b) Nos anos em que a remuneração das contas vinculadas ao FGTS não alcançar o IPCA, caberá ao Conselho Curador do Fundo (art. 3º da Lei nº 8.036/1990) determinar a forma de compensação.
+Vale apontar, ainda, que antes do julgamento da referida ação direta, o Supremo Tribunal Federal determinava a devolução à origem dos autos que versam sobre o mesmo tema, para aguardar o julgamento do mérito da ADI n. 5.090/DF.
+Veja-se:
+Embargos de declaração no agravo regimental no recurso extraordinário com agravo. Matéria correspondente à controvérsia em julgamento nos autos da ADI nº 5.090/DF e ao Tema 787 da gestão por temas da repercussão geral. Embargos acolhidos. Devolução dos autos ao Tribunal de origem. 1. Embargos de declaração acolhidos, com efeitos infringentes, anulando-se o acórdão embargado e a decisão monocrática anteriormente proferida e determinando-se a devolução dos autos ao Tribunal de origem.
+(ARE 1212393 AgR-ED, Relator(a): DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 25/10/2019, PROCESSO ELETRÔNICO DJe-254 DIVULG 20-11-2019 PUBLIC 21-11-2019).
+Neste contexto, é de rigor a devolução dos autos para que se realize o juízo de conformação ou a manutenção do acórdão local frente ao decidido pelo Supremo Tribunal Federal.
+No mesmo sentido e quanto à mesma questão jurídica, as seguintes decisões monocráticas: RMS n. 70.206/MS, relator Ministro Paulo Sérgio Domingues, DJEN de 29/11/2024; REsp n. 2.037.200/PA, relator Ministro Sérgio Kukina, DJe de 11/9/2024; EDcl no AREsp n. 2.155.186/MS, relator Ministro Francisco Falcão, DJe de 10/9/2024; REsp n. 1.527.376/RS, relator Ministro Afrânio Vilela, DJe de 9/9/2024; PUIL n. 3.827/MS, relatora Ministra Regina Helena Costa, DJe de 30/10/2023.
+Ante o exposto, indefiro o pedido de fls. 252-253 e, de ofício, torno sem efeito a decisão de fls. 246-247, julgar prejudicado o recurso especial e determinar a devolução dos autos, com a respectiva baixa, à Turma Recursal de origem para que realize o juízo de conformação ou a manutenção do acórdão local frente ao decidido pelo Supremo Tribunal Federal na ADI n. 5.090/DF.
+Publique-se. Intimem-se.
+EMENTA
