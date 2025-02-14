@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual GILMAR CELESTINO VIEIRA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado (fl. 963):
+PREVIDENCIÁRIO. PROCESSO CIVIL. AGRAVO INTERNO. REVISÃO. TEMPO ESPECIAL. MOTORISTA. LAUDO TÉCNICO. VIBRAÇÃO DE CORPO INTEIRO. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. A matéria trazida à análise comporta julgamento monocrático, conforme o disposto no art. 932, incisos IV e V, do Código de Processo Civil, pois as questões discutidas neste feito encontram-se pacificadas na jurisprudência do Colendo Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+2. No presente caso, embora tenha sido constatada a exposição a vibração de corpo inteiro para as funções de motorista, é certo que tal enquadramento não possui previsão legal. O agente nocivo "vibração de corpo inteiro", indicado nos laudos periciais, não é suficiente para se considerar as atividades de motorista ou cobrador como de natureza especial, uma vez que esse fator de risco, conquanto previsto no Decreto n. 2.172/1997, refere-se às atividades pesadas, desenvolvidas com perfuratrizes e marteletes pneumáticos.
+3. Verifica-se que, em verdade, não apresenta o recorrente em suas razões qualquer distinção da causa aos entendimentos consolidados, tão somente demonstrando seu inconformismo com os fundamentados adotados.
+4. Agravo interno desprovido.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o regime de julgamento de recursos repetitivos (REsp 2.164.724/RS e REsp 2.166.208/RS - Tema 1.307) , de relatoria do Ministro Gurgel de Faria), e foi assim delimitada:
+"Definir se há possibilidade do reconhecimento da especialidade da atividade de motorista/cobrador de ônibus ou motorista de caminhão, por penosidade, após o advento da Lei n. 9.032/1995."
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, julgo prejudicado o recurso e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
