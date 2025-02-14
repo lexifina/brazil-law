@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ABNER GABRIEL FARIA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o paciente foi condenado à pena de 13 anos de reclusão, em regime fechado, mais pagamento de 1.700 dias-multa, como incurso no art. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem deu provimento ao apelo defensivo, a fim de absolvê-lo do crime de associação para o tráfico de drogas e redimensiona a sanção para 6 anos e 3 meses de reclusão mais pagamento de 625 dias-multa, mantido o regime mais gravoso.
+Neste habeas corpus, alega o impetrante violação do direito ao silêncio, na medida em que a confissão do paciente ocorreu mediante tortura praticada pelos policiais, de modo que esta prova e as delas decorrentes são ilegais.
+Requer, assim, a absolvição do paciente ante a ilegalidade das provas, expedindo-se de imediato o alvará de soltura.
+Liminar indeferida (e-STJ, fls. 149-150).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 157-159).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem refutou as nulidades suscitadas pela defesa em decisão assim motivada:
+"A Defesa do 2º apelante alega, ainda, cerceamento de defesa em face da não realização de exame de corpo de delito tendo em vista que, conforme alega, teria havido a prática de lesão corporal/tortura para que o réu confessasse.
+Entretanto, ouvido na DEPOL quando de sua prisão em flagrante delito, o réu não mencionou qualquer agressão por ele sofrida e, em audiência de custódia - doc. nº 02, fls. 65, expressamente questionado pelo Magistrado e, na presença de seu advogado, afirmou não ter sido ameaçado ou agredido durante a prisão em flagrante delito.
+De mais a mais, a norma penal não exige a confecção de exame de corpo de delito quando da prisão em flagrante, salvo se evidenciada a sua necessidade, por exemplo, quando houverem indícios de abusos por parte dos agentes de segurança pública, o que, repita-se, não havia na oportunidade.
+Destarte, não há que se falar em qualquer nulidade em face da ausência de realização de exame de corpo de delito" (e-STJ fl. 90)
+Como cediço, é firme a jurisprudência desta Corte Superior no sentido de ser incabível, na via estreita do habeas corpus, o exame das questões relativas à alegação de nulidade de confissão por suposta tortura ou violência policial, por demandar detido e profundo revolvimento fático-probatório dos autos.
+Ademais, da análise dos autos e do excerto, observa-se que a Corte de origem afastou a citada nulidade em razão da defesa não ter requerido no momento oportuno a averiguação da ilegalidade na obtenção da confissão do acusado mediante tortura ou violência policial, o que apenas foi suscitado em sede recursal. Como destacado no acórdão impugnado, em sede policial o réu não apresentou nenhuma alegação nesse sentido e, quando expressamente questionado na audiência de custódia, na presença de seu advogado, afirmou não ter sido ameaçado ou agredido durante a prisão em flagrante.
+Nesse contexto, incabível o acolhimento do pedido defensivo. Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. INGRESSO DOMICILIAR SEM MANDADO. MANDADO DE PRISÃO EM ABERTO. CRIME PERMANENTE. JUSTA CAUSA. FUNDADAS RAZÕES QUE AUTORIZAM A AÇÃO POLICIAL. UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus substitutivo de recurso próprio, mantendo a prisão preventiva de paciente acusado de posse ilegal de arma de fogo de uso restrito (art. 16, caput, da Lei nº 10.826/2003). A defesa alega nulidade da prisão e das provas obtidas, sustentando a ilegalidade do ingresso policial no domicílio sem mandado judicial. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o habeas corpus pode ser utilizado como substitutivo de recurso próprio para impugnar a prisão preventiva e a validade das provas obtidas; e (ii) examinar se houve flagrante ilegalidade no ingresso da autoridade policial no domicílio sem mandado judicial. III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, exceto em casos de flagrante ilegalidade, conforme a jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+4. O ingresso policial em domicílio sem mandado é permitido quando há fundadas razões de que o local abriga situação de flagrante delito, nos termos do art. 5º, XI, da Constituição Federal.
+5. No caso, a polícia recebeu informações de que o paciente, que possuía mandado de prisão em aberto por homicídio, estava escondido no local, o que justificou o ingresso no domicílio. Durante a ação, o paciente colaborou, informando a localização de armas e munições, que foram apreendidas.
+6. A alegação de tortura e violência policial, além de não ter sido suscitada no juízo de origem, não encontra respaldo suficiente nos autos, sendo matéria que demanda análise probatória aprofundada, inviável no âmbito do habeas corpus.
+7. Não há flagrante ilegalidade na atuação policial ou na manutenção da prisão preventiva que justifique a concessão da ordem de ofício.
+IV. AGRAVO REGIMENTAL DESPROVIDO
+(AgRg no HC n. 914.837/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. NULIDADE. HOMICÍDIO QUALIFICADO POR TRÊS VEZES. ALEGAÇÃO DE PRONÚNCIA CALCADA EM PROVA ILÍCITA. SUPOSTA CONFISSÃO OBTIDA MEDIANTE TORTURA. NÃO COMPROVAÇÃO NOS AUTOS. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. LIMINAR INDEFERIDA. PARECER PELO NÃO CONHECIMENTO DA IMPETRAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER ACOLHIDO. ORDEM DENEGADA. ILEGALIDADE MANIFESTA NÃO EVIDENCIADA. AGRAVO IMPROVIDO.
+1. Inicialmente, tem-se que a Sexta Turma desta Corte entende que a tese de nulidade de todo o processo, deduzida sob o argumento de que o depoimento que originou a investigação criminal e, por consequência, a interceptação telefônica, foi obtido por meio de coação na delegacia de polícia, demanda reexame de provas para ser dirimida (REsp n. 1.688.915/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 20/3/2018).
+2. No caso, a decisão agravada deve ser mantida, uma vez que a alegação de nulidade de confissão por suposta tortura policial é inviável, por demandar reexame fático-probatório dos autos, incompatível com via eleita. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 701.719/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
