@@ -1,0 +1,16 @@
+DECISÃO
+ELIMAR CAMINHA SARAIVA JÚNIOR, MIQUEIAS ALVES DUTRA e ALAIR GONZAGA DOURADO NOVAIS agravam da decisão que não admitiu o recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (ED na Apelação Criminal n. 1.0393.17.001 305-5/003).
+O Tribunal a quo obstou o prosseguimento do recurso especial pelos seguintes fundamentos: a) Súmula n. 83 do STJ; b) necessidade de reexame de prova (Súmula n. 7 do STJ); c) ausência de comprovação do dissídio jurisprudencial.
+Todavia, os agravantes, nas razões do agravo em recurso especial, não impugnaram nenhum dos fundamentos invocados para inadmitir o recurso especial.
+Em nenhum momento, os agravantes desenvolveram, com um mínimo de profundidade, as razões pelas quais, na visão da defesa, a pretensão de alterar o que já pelas instâncias ordinárias não demandaria o revolvimento de matéria fático-probatória. Também deixaram de demonstrar, de maneira concretamente fundamentada, os motivos pelos quais o acórdão recorrido supostamente não estaria em consonância com o entendimento adotado pelo STJ em relação à matéria trazida a debate. Da mesma forma, deixaram de demonstrar que, eventualmente, teriam, sim, realizado, de maneira adequada, o cotejo analítico.
+Assim, não há como ser conhecido o agravo em recurso especial, nos termos do enunciado na Súmula n. 182 do STJ, in verbis:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Essa, aliás, também foi a compreensão do Ministério Público Federal, que, em seu parecer, assim se manifestou, no que interessa (fls. 1.878-1.879):
+Os Agravos em Recurso Especial não obedecem a todos os pressupostos recursais, razão pela qual não merecem ser conhecidos, tendo em vista que não houve a impugnação dos fundamentos lançados na Decisão agravada.
+De fato, a Parte limitou-se a refutar genericamente, sem impugnar especificamente os pontos inadmitidos pela decisão agravada, qual seja, os óbices das Súmulas nº 7 e 83, do STJ, além da impropriedade da alegação de violação a dispositivos constitucionais.
+O princípio da dialeticidade impõe ao Recorrente o ônus de infirmar todos os fundamentos da decisão recorrida, sob pena de vê-la mantida por seus próprios fundamentos, o que não foi feito.
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, incide o Verbete Sumular nº 182, do STJ, que possui o seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art.253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial interposto por ELIMAR CAMINHA SARAIVA JÚNIOR, MIQUEIAS ALVES DUTRA e ALAIR GONZAGA DOURADO NOVAIS.
+Publique-se e intimem-se.
+EMENTA
