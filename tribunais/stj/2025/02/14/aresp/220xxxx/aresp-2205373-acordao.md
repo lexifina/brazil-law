@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. ALEGADA NULIDADE DO ACÓRDÃO POR FUNDAMENTAÇÃO PER RELATIONEM. PRORROGAÇÃO DE PERMANÊNCIA EM PRESÍDIO FEDERAL. AUSÊNCIA DE ILEGALIDADE. NEGATIVA DE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial, no qual o agravante alega nulidade do acórdão recorrido, sob o argumento de que este teria se limitado a transcrever os fundamentos da decisão do juízo de origem, supostamente baseada em prova ilícita. Pretende-se a declaração de nulidade do acórdão e a realização de novo julgamento pelo Tribunal de origem.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar a validade da fundamentação per relationem adotada pelo acórdão recorrido; e (ii) analisar a legalidade da decisão que prorrogou a permanência do agravante em presídio federal de segurança máxima.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça permite a utilização da fundamentação per relationem, desde que adequada e suficiente para justificar a decisão, sendo que o inconformismo com o resultado não configura ausência de fundamentação.
+4. A prorrogação da permanência em presídio federal de segurança máxima fundamenta-se no art. 3º da Lei 11.671/2008, sendo medida de caráter excepcional, justificada pelo interesse da segurança pública ou do próprio preso. A jurisprudência do STJ não prevê limite temporal para tais renovações, desde que demonstrada a situação de excepcionalidade.
+5. No caso concreto, ficou comprovada a periculosidade do agravante, integrante de organização criminosa e condenado a penas superiores a 60 anos, com histórico de participação em planos de resgate e ameaça à segurança do sistema prisional local. Tal circunstância justifica a med ida excepcional e está em conformidade com a legislação e precedentes da Corte.
+6. O Tribunal de origem ressaltou haver "legalidade das provas apresentadas em primeiro grau e sua aptidão a demonstrar a necessidade de manutenção do embargante em estabelecimento prisional de segurança máxima" (fl. 1.340), de modo que a inversão do acórdão demandaria reexame probatório, incabível na via eleita.
+7. Não se verifica ilegalidade ou contrariedade à legislação federal, sendo a decisão do Tribunal de origem harmônica com a jurisprudência consolidada no âmbito do STJ, atraindo a incidência da Súmula nº 83/STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+A defesa sustenta violação dos arts. 10 da Lei 11.671/2008 e 157 do CPP, aduzindo que o acórdão recorrido seria nulo, pois se limitou a transcrever os fundamentos da decisão proferida pelo juízo da execução, que seria fundada em prova ilícita.
+Requer o provimento do recurso para se declarar a nulidade do acórdão, determinando-se ao Tribunal de origem a realização de novo julgamento do agravo.
+Contraminuta apresentada, onde a parte recorrida postula o não conhecimento do recurso ou o seu não provimento.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. ALEGADA NULIDADE DO ACÓRDÃO POR FUNDAMENTAÇÃO PER RELATIONEM. PRORROGAÇÃO DE PERMANÊNCIA EM PRESÍDIO FEDERAL. AUSÊNCIA DE ILEGALIDADE. NEGATIVA DE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial, no qual o agravante alega nulidade do acórdão recorrido, sob o argumento de que este teria se limitado a transcrever os fundamentos da decisão do juízo de origem, supostamente baseada em prova ilícita. Pretende-se a declaração de nulidade do acórdão e a realização de novo julgamento pelo Tribunal de origem.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar a validade da fundamentação per relationem adotada pelo acórdão recorrido; e (ii) analisar a legalidade da decisão que prorrogou a permanência do agravante em presídio federal de segurança máxima.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça permite a utilização da fundamentação per relationem, desde que adequada e suficiente para justificar a decisão, sendo que o inconformismo com o resultado não configura ausência de fundamentação.
+4. A prorrogação da permanência em presídio federal de segurança máxima fundamenta-se no art. 3º da Lei 11.671/2008, sendo medida de caráter excepcional, justificada pelo interesse da segurança pública ou do próprio preso. A jurisprudência do STJ não prevê limite temporal para tais renovações, desde que demonstrada a situação de excepcionalidade.
+5. No caso concreto, ficou comprovada a periculosidade do agravante, integrante de organização criminosa e condenado a penas superiores a 60 anos, com histórico de participação em planos de resgate e ameaça à segurança do sistema prisional local. Tal circunstância justifica a med ida excepcional e está em conformidade com a legislação e precedentes da Corte.
+6. O Tribunal de origem ressaltou haver "legalidade das provas apresentadas em primeiro grau e sua aptidão a demonstrar a necessidade de manutenção do embargante em estabelecimento prisional de segurança máxima" (fl. 1.340), de modo que a inversão do acórdão demandaria reexame probatório, incabível na via eleita.
+7. Não se verifica ilegalidade ou contrariedade à legislação federal, sendo a decisão do Tribunal de origem harmônica com a jurisprudência consolidada no âmbito do STJ, atraindo a incidência da Súmula nº 83/STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violados os arts. 10 da Lei 11.671/2008 e 157 do CPP, aduzindo que o acórdão recorrido seria nulo, pois se limitou a transcrever os fundamentos da decisão proferida pelo juízo da execução, que teria sido fundada em prova ilícita. Requer o provimento do recurso para se declarar a nulidade do acórdão, determinando-se ao Tribunal de origem a realização de novo julgamento do agravo.
+Inicialmente, destaca-se que "a jurisprudência do STJ permite a fundamentação per relationem, utilizada adequadamente no caso em questão. O inconformismo da parte com o resultado não configura omissão ou ausência de fundamentação" (AgRg no AREsp n. 2.512.284/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/10/2024, DJe de 18/10/2024), como no caso dos autos.
+Outrossim, "Conforme a jurisprudência desta Corte, "A transferência e a inclusão de presos em estabelecimento penal federal de segurança máxima, bem como a renovação de sua permanência, justifica-se no interesse da segurança pública ou do próprio preso, nos termos do art. 3º da Lei n. 11.671/2008, sendo medida de caráter excepcional" (HC n. 481.550/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/2/2019, DJe de 11/3/2019)" (AgRg no HC n. 853.703/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+No caso, conforme se extrai dos autos, o recorrente integra organização criminosa e cumpre condenações que superam 60 (sessenta) anos de pena, "sendo de alto risco para o sistema local, dado o perfil de alta periculosidade" (fl. 1.299). Além disso, teria sido "um dos principais alvos das pretensão operações planejadas de resgate de presos pela facção na Penitenciária II de Presidente Venceslau" (fl. 1.299), não se verificando a apontada contrariedade à lei federal.
+No mesmo sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM EXECUÇÃO PENAL. PRORROGAÇÃO DE PERMANÊNCIA EM PRESÍDIO FEDERAL. FATO NOVO. SITUAÇÃO DE EXCEPCIONALIDADE. COMPROVAÇÃO. ATENDIDOS OS REQUISITOS LEGAIS PARA A PERMANÊNCIA DO DETENTO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. LIMITE TEMPORAL PARA A RENOVAÇÃO DA PERMANÊNCIA. INEXISTÊNCIAL DE PREVISÃO LEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante se extrai do acórdão proferido no Tribunal de origem, a periculosidade do recorrente, réu pertencente ao alto escalão da facção criminosa "Comando Vermelho" atuante no sistema carcerário estadual, com registros de ameaças a policiais do Estado do Pará, inclusive um homicídio consumado, a reiteração da conduta do réu e a comprovada situação de risco do retorno ao sistema prisional estadual, justificam a excepcionalidade da permanência do preso no sistema federal, sobretudo porque o detento continua atuando na criminalidade, destacando-se a existência de fatos recentes e graves - duas infrações disciplinares por ameaças a agente policial penal. Conclusão diversa esbarra no óbice da Súmula n. 7 do STJ.
+2."A jurisprudência desta Corte tem entendido que a Lei 11.671/2008 não estabeleceu limite temporal para a renovação de permanência do preso em estabelecimento penal de segurança máxima. Precedentes" (AgRg no HC n. 683.885/PB, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, julgado em 28/9/2021, DJe de 5/10/2021).
+3. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.124.520/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/9/2022, DJe de 12/9/2022.)
+A análise das razões motivadas na origem indica que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula nº 83/STJ.
+Por fim, o Tribunal de origem ressaltou haver "legalidade das provas apresentadas em primeiro grau e sua aptidão a demonstrar a necessidade de manutenção do embargante em estabelecimento prisional de segurança máxima" (fl. 1.340), de modo que a inversão do acórdão demandaria reexame probatório, incabível na via eleita.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
