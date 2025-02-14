@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 514/517) opostos à decisão desta relatoria que, com fundamento no Tema n. 1.295/STJ, determinou a devolução dos autos ao TJSP, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015 (e-STJ fls. 1.641/1.642).
+A parte embargante afirma que o julgado monocrático apresentaria premissa equivocada, pois a parte embargada apresentaria paralisia cerebral, e não Transtorno Global do Desenvolvimento, motivo pelo qual seria descabido cogitar da aplicação da eventual tese repetitiva aqui referida.
+Nesse contexto, defende a necessidade de tornar sem efeito a decisão de baixa dos autos à origem.
+É o relatório.
+Decido.
+Como destacado, o recurso especial da parte embargante (e-STJ fls. 377/406) versou, dentre outras matérias, sobre tema afetado à Segunda Seção do STJ, nos autos dos Recursos Especiais Representativos da Controvérsia n. 2.153.672/SP e 2.167.050/SP, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de definir a "possibilidade ou não de o plano de saúde limitar ou recusar a cobertura de terapia multidisciplinar prescrita ao paciente com transtorno global do desenvolvimento" (Tema n. 1.295/STJ).
+Em conformidade com o disposto no art. 256-L do RISTJ, o procedimento adequado, para recursos especiais distribuídos relativos a matéria afetada ao rito dos repetitivos, é sua devolução ao Tribunal de origem, para que ali permaneçam suspensos, aguardando o julgamento definitivo da questão.
+Nesse contexto, observada a identidade de questão, impõe-se reconhecer a inadmissibilidade do presente agravo, porquanto irrecorrível a decisão que determina o retorno do processo, tendo em vista a ausência de prejuízo às partes.
+A propósito, "havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguish também pode ser formulada no juízo a quo" (AgInt nos EDcl no REsp n. 1.892.150/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/3/2021, DJe 18/3/2021).
+Do mesmo modo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA. RECURSO QUE TRATA DE TEMA AFETADO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.021/STJ. PENDÊNCIA DE JULGAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM. AGRAVO INTERNO NÃO CONHECIDO.
+ ..
+2. Segundo o entendimento pacificado desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte local, a fim de que lá seja exercido o competente juízo de retratação, nos termos dos arts. 1.040 e 1.041 do CPC/2015, não possui carga decisória, por isso se trata de provimento irrecorrível.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 1.710.438/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL- AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - TELEFONIA - OBSERVÂNCIA DA SISTEMÁTICA DOS RECURSOS REPETITIVOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO OPOSTOS DE ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DOS AGRAVANTES.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. "Conforme a jurisprudência do STJ, havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte.
+Eventual argumentação de distinguish também pode ser formulada no juízo a quo. Precedentes."(AgInt nos EDcl no AREsp 1731342/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020)
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt nos EDcl nos EDcl no AgInt no AREsp n. 1.615.441/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 17/12/2020.)
+Ainda que assim não fosse, descabe cogitar de premissa equivocada.
+A TERCEIRA TURMA do STJ decidiu nos autos do Recurso Especial n. 2.008.283/SP, relatora Ministra NANCY ANDRIGHI, julgado em 11/4/2023, DJe de 14/4/2023, que, segundo diretriz da Agência Nacional de Saúde - ANS, a Síndrome de Down e a Paralisia Cerebral, mesmo não sendo classificadas no CID F 84, também se enquadram nas regras de custeio da Resolução n. 539/2022 da agência reguladora mencionada, quando o paciente apresente quaisquer dos Transtornos Globais do Desenvolvimento.
+Na mesma linha: AgInt no AREsp n. 2.560.738/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/9/2024, DJe de 18/9/2024, e AgInt nos EDcl no REsp n. 1.979.125/SP, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 9/9/2024, DJe de 11/9/2024.
+A QUARTA TURMA também aplicou as diretrizes de cobertura de terapias multidisciplinares aqui mencionada para os pacientes com paralisia cerebral e Síndrom e de Down.
+Nesse sentido: AgInt no REsp n. 1.878.912/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/6/2023, DJe de 13/6/2023, e AgInt no REsp n. 1.917.411/RJ, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 2/10/2023, DJe de 5/10/2023.
+Por isso, era de rigor determinar a devolução dos autos à origem, a fim de resolver a controvérsia com fundamento no Tema n. 1.295/STJ.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
