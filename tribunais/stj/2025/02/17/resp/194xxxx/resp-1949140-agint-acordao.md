@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PLANO DE SAÚDE. TRATAMENTO DOMICILIAR (HOME CARE). RECUSA INDEVIDA. DANOS MORAIS IN RE IPSA. AFASTAMENTO.
+1. A jurisprudência desta Corte pacificou-se no sentido de que "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.185.578/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022).
+2. O Tribunal de origem condenou a recorrente ao pagamento de compensação por danos morais considerando o dano como in re ipsa.
+3. A recusa do plano de saúde em custear determinado tratamento não configura a hipótese de dano moral presumido - ou in re ipsa -, razão pela qual se mostra indispensável a comprovação do efetivo prejuízo para que haja o dever de compensar.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ANTONIO HERCULANO DA SILVA FILHO contra decisão monocrática de minha relatoria que apreciou recurso especial interposto com o objetivo de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 385):
+Plano de saúde Ação de obrigação de fazer cumulada com indenização por danos morais Sentença de procedência parcial Recurso das partes Negativa de cobertura de tratamento em regime de "home care" Autor portador de demência vascular isquêmico e sequela de AVC, que encontra-se acamado e totalmente dependente de terceiros Relatório médico que comprova a necessidade de tratamento home care com assistência de enfermagem em período integral Aplicação do Código de Defesa do Consumidor Súmula nº 90 deste Egrégio Tribunal de Justiça Rol da ANS que não pode ser considerado taxativo Agência reguladora que não pode limitar direito de forma a tornar inócuo o tratamento Reconhecida defasagem entre regulamentações administrativas e avanço da medicina Dever de custeio do tratamento Recusa injustificada Dano moral caracterizado Dano in re ipsa Indenização arbitrada em R$ 10.000,00 Obrigação da operadora em custear medicamentos, aparelhos hospitalares, materiais e insumos correlatos à internação domiciliar, excluídos os itens para higiene e fraldas, os quais devem ser custeados por familiares. Dá-se provimento ao recurso do autor e dá-se provimento em parte ao recurso da ré.
+A decisão agravada conheceu parcialmente do recurso especial, e nesta extensão, deu-lhe provimento, apenas para excluir a condenação ao pagamento de indenização por danos morais.
+Alega o agravante, nas razões do agravo interno, que "com relação a ocorrência ou não de dano moral, é assente na jurisprudência dessa Corte que rever a conclusão do Tribunal de origem quanto à existência de dano moral decorrente da gravidade do fato exigiria o reexame dos fatos e das provas dos autos, o que esbarra na já citada Súmula 07." (fl. 663).
+Aduz que a jurisprudência desta Corte sustenta que "é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no AR Esp 1.725.002/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/04/2021, D Je de 23/04/2021), e que "a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário" (AgInt nos E Dcl no R Esp 1.963.420/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/2/2022, D Je de 21/2/2022).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada não apresentou contrarrazões.
+É, no essencial, o relatório.
+EMENTA
+CIVIL. PLANO DE SAÚDE. TRATAMENTO DOMICILIAR (HOME CARE). RECUSA INDEVIDA. DANOS MORAIS IN RE IPSA. AFASTAMENTO.
+1. A jurisprudência desta Corte pacificou-se no sentido de que "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.185.578/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022).
+2. O Tribunal de origem condenou a recorrente ao pagamento de compensação por danos morais considerando o dano como in re ipsa.
+3. A recusa do plano de saúde em custear determinado tratamento não configura a hipótese de dano moral presumido - ou in re ipsa -, razão pela qual se mostra indispensável a comprovação do efetivo prejuízo para que haja o dever de compensar.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Em que pese o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Consoante aludido na decisão agravada, a jurisprudência desta Corte Superior tem rechaçado a tese do dano moral in re ipsa nos casos de recusa de cobertura, erigindo como requisitos para a condenação ao pagamento dessa parcela indenizatória a ocorrência de risco à incolumidade física ou à vida do paciente, associada à inexistência de dúvida jurídica razoável, no plano legal ou contratual, que pudesse justificar a recusa de cobertura.
+Segundo o entendimento atual do  Superior  Tribunal  de  Justiça ,  "o  descumprimento  contratual  por  parte  da  operadora  de  saúde,  que  culmina  em  negativa  de  cobertura  para  procedimento  de  saúde,  somente  enseja  reparação  a  título  de  danos  morais  quando  houver  agravamento  da  condição  de  dor,  abalo  psicológico  ou  prejuízos  à  saúde  já  debilitada  do  paciente"  (AgInt  no  AREsp  n.  1.185.578/SP,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  3/10/2022,  DJe  de  14/10/2022).
+No  mesmo  sentido,  confiram-se  os  seguintes  julgados:
+
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  C/C  INDENIZAÇÃO  POR  DANOS  MORAIS.  PLANO  DE  SAÚDE.  NEGATIVA  DE  COBERTURA.  PEDIDO  DE  TRATAMENTO  DE  INTERNAÇÃO  DOMICILIAR  (HOME  CARE)  E  FORNECIMENTO  DE  MEDICAMENTOS.  DANO  MORAL  NÃO  CONFIGURADO.  MERO  INADIMPLEMENTO  CONTRATUAL.  AGRAVO  NÃO  PROVIDO.
+1.  A  recusa  da  cobertura  de  tratamento  por  operadora  de  plano  de  saúde,  por  si  só,  não  configura  dano  moral  indenizável,  que  pressupõe  ofensa  anormal  à  personalidade.  Precedentes.
+2.  Agravo  interno  a  que  se  nega  provimento.
+(AgInt  no  REsp  n.  1.988.367/SE,  relatora  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  julgado  em  26/9/2022,  DJe  de  30/9/2022.)
+CIVIL. PLANO DE SAÚDE. TRATAMENTO DOMICILIAR (HOME CARE). RECUSA INDEVIDA. DANOS MORAIS IN RE IPSA. AFASTAMENTO.
+1. A jurisprudência desta Corte pacificou-se no sentido de que "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.185.578/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022).
+2. O Tribunal de origem condenou a recorrente ao pagamento de compensação por danos morais considerando o dano como in re ipsa.
+3. A recusa do plano de saúde em custear determinado tratamento não configura a hipótese de dano moral presumido - ou in re ipsa -, razão pela qual se mostra indispensável a comprovação do efetivo prejuízo para que haja o dever de compensar.
+Agravo interno improvido.
+(AgInt no REsp n. 2.061.198/PB, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/12/2024, DJe de 5/12/2024.)
+Na  hipótese  dos  autos,  o  Tribunal  de  origem entendeu pela configuração dos  danos  morais  diante  dos  seguintes  fundamentos  (fls.  399-403):
+Quanto ao pleito de indenização por danos morais, restou caracterizada a responsabilidade civil da ré. Isto porque, a negativa de fornecimento do tratamento home care por parte da ré afronta aos princípios da boa-fé objetiva e a função social do contrato que devem nortear o cumprimento dos contratos, colocando o consumidor em situação de vulnerabilidade, em especial em ocasião em que sua saúde se encontra debilitada.
+A negativa de fornecimento, portanto, mostrou-se totalmente abusiva e afronta a boa-fé objetiva que deve nortear o cumprimento dos contratos, colocando o consumidor em situação de vulnerabilidade, em especial em ocasião em que sua saúde se encontra debilitada.
+A recusa, que a operadora já sabia ser ilegal, inegavelmente causou sofrimento ao autor.
+(..)
+Assim, restou configurado, na hipótese, dano moral indenizável, eis que a recusa injustificada caracteriza dano moral in re ipsa, inerente à própria conduta de violação do direito do paciente de realizar seu tratamento, o que enseja, em última análise, violação à sua integridade física e psíquica.
+Verifica-se,  dessa  forma,  que  o  Tribunal  de  origem  condenou  a  recorrente  ao  pagamento  de  compensação  por  danos  morais  considerando  o  dano  como  in  re  ipsa,  sem  o  exame  das  circunstâncias  específicas  da  hipótese  quanto  à  experimentação  de  agravamento  da  situação  psicológica  do  paciente.
+Assim,  decidiu  em  desconformidade  com  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  segundo  a  qual  "a  negativa  administrativa  ilegítima  de  cobertura  para  tratamento  médico  por  parte  da  operadora  de  saúde  só  enseja  danos  morais  na  hipótese  de  agravamento  da  condição  de  dor,  abalo  psicológico  e  demais  prejuízos  à  saúde  já  fragilizada  do  paciente"  (AgInt  no  REsp  n.  2.037.686/MA,  relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  3/4/2023,  DJe  de  10/4/2023).
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
