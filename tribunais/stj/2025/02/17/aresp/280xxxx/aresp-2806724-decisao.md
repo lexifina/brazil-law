@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por BEATRIZ ZOGHEIB ELID contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 586):
+CONTRATO - Prestação de serviço educacional FIES - Parte autora aderiu a um sistema de financiamento cujo contrato, de forma expressa, prevê o financiamento de 94,92% das mensalidades, limitadas ao teto cujo custeio é admitido pelo FIES - A cláusula contratual é clara ao prever que eventual majoração da mensalidade para valor superior ao máximo admitido para custeio público implicaria a responsabilidade do aluno pelo pagamento de diferenças - Apelante não se desincumbiu do seu ônus probatório - Sentença mantida - Recurso não provido.
+Embargos de declaração rejeitados (e-STJ fl. 681).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação dos arts. 489, § 1º, IV e 1.022, parágrafo único, II, do CPC/2015, aduzindo, preliminarmente, a nulidade do julgado por negativa de prestação jurisdicional.
+No mérito, alegou contrariedade aos arts. 4º, II e 51, IV, do CDC, argumentando que "a cobrança de valores de aluna beneficiária do FIES, atinentes às diferenças entre o teto estabelecido pelo Poder Público e o valor real das mensalidades, revela-se, como aduzido neste processo, manifestamente contrária à boa-fé objetiva" (e-STJ fl. 605).
+Contrarrazões às e-STJ fls. 686/697.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Incide a Súmula n. 284 do STF quando a parte recorrente limita-se a sustentar violação dos arts. 489, § 1º, IV e 1.022, parágrafo único, II, do CPC/2015 de forma genérica, sem especificar em que consistiria a real ausência de pronunciamento e qual seria a relevância da tese suscitada apta a promover a alteração do julgado (EDcl na Rcl 28.431/DF, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 09/08/2017, DJe 16/08/2017).
+Por outro lado, o Tribunal de origem manteve a sentença de improcedência, nos seguintes termos (e-STJ fls. 588/590):
+Observo, como já referido, que a estipulação de limites mínimos e máximos já estava prevista desde junho de 2011, no art. 25, § 2º da Portaria Normativa n.º 1/2010 do MEC.
+ ..
+Veja-se que a parte autora aderiu a um sistema de financiamento cujo contrato, de forma expressa, prevê o financiamento de 94,92% das mensalidades, limitadas ao teto cujo custeio é admitido pelo FIES.
+A cláusula contratual é clara ao prever que eventual majoração da mensalidade para valor superior ao máximo admitido para custeio público implicaria a responsabilidade do aluno pelo pagamento de diferenças.
+Da mesma forma, a existência de previsão de contratual que estabelece o limite de crédito global e refere um acréscimo de 25% ao valor total, "para atender possíveis elevações no valor dos encargos educacionais no decorrer do curso".
+E essas elevações, no caso da autora, de fato ocorreram, como se percebe pelos valores das semestralidades (..) (fls.412)".
+E arremata:
+(..)
+Ou seja, por força de tal norma, o aditamento semestral do FIES está sujeito à limitação.
+E o estudante, ao firmar o contrato de financiamento no qual estava presente cláusula indicando essa possibilidade, tem ciência de que a diferença financeira devida não está a cargo da instituição de ensino.
+Por fim, não se constata majoração excessiva na semestralidade a caracterizar reajuste abusivo, de modo que reputo lícita a cobrança efetuada pela instituição de ensino requerida.
+Como se vê, acolher as razões recursais, para concluir que houve ofensa dos arts. 4º, II e 51, IV, do Código de Defesa do Consumidor impõe o reexame do acervo probatório, notadamente as cláusulas contratuais do financiamento estudantil, providência sabidamente vedada no âmbito do apelo nobre em face do teor das Súmulas 5 e 7 desta Corte.
+Ilustrativamente:
+PROCESSUAL CIVIL. CRÉDITO PARA FINANCIAMENTO ESTUDANTIL. FIES. JUROS CAPITALIZADOS. OFENSA A ATO JURÍDICO PERFEITO. TAXA DE JUROS. LEI N. 12.202/2010. REVISÃO DO ACERVO PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ.
+I - Na origem, trata-se de ação revisional com o objetivo de obter declaração de abusividade constante em contrato de Fies - Financiamento Estudantil, e suas consequências. A ação foi julgada improcedente. Em juízo de retratação, com base no REsp n. 1.155.684, julgado sob o rito dos repetitivos, o Tribunal Regional Federal da 2ª Região, em grau recursal, acolheu parcialmente o recurso da autora, somente para afastar a cobrança dos juros capitalizados.
+II - A Corte a quo analisou as alegações da parte considerando a desnecessidade de dilação probatória, diante da suficiência dos elementos constantes dos autos, e pelo fato de cuidar-se de questões jurídicas a serem analisadas.
+III - Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial". Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017).
+IV - Outrossim, o acolhimento da pretensão recursal também demanda reexame de cláusulas contratuais, o que não se admite ante o óbice da Súmula n. 5/STJ.
+V - Agravo interno improvido. (AgInt no AREsp 1.554.683/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2020, DJe 18/11/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FINANCIAMENTO ESTUDANTIL (FIES). VENCIMENTO ANTECIPADO DA DÍVIDA. ART. 535 DO CPC/73. OMISSÃO NÃO CONFIGURADA. ACÓRDÃO DO TRIBUNAL A QUO ANCORADO NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.REVISÃO, IMPOSSIBILIDADE. SÚMULA 5/STJ.
+1. Não se verifica ofensa ao art. 535 do CPC/73 na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. Incide a Súmula 5/STJ, no caso concreto, tendo em vista que a questão do vencimento antecipado de dívida relativa a Financiamento Estudantil (FIES) foi dirimida com base na interpretação de cláusulas contratuais.
+3. Agravo interno não provido (AgInt no REsp 1.509.598/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/02/2020, DJe 20/02/2020).
+PROCESSUAL CIVIL. CONTRATO DE FINANCIAMENTO ESTUDANTIL - FIES. ADITAMENTO. EXPRESSA ANUÊNCIA DO FIADOR. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL . INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+ ..
+2. Sob esse aspecto, a análise da pretensão veiculada no Recurso Especial demanda exame de cláusulas contratuais e do contexto fático-probatório dos autos, inalcançáveis pelo STJ, ante o óbice erigido pelas Súmulas 5 e 7/STJ.
+3. Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo conhecido para negar provimento ao Recurso Especial. (AREsp 1.535.592/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/11/2019, DJe 19/12/2019).
+Além disso, para a análise da pretensão da agravante, é necessário interpretar a Portaria Normativa n. 1/2010 do MEC, sendo meramente reflexa a vulneração dos dispositivos legais indicados pela parte recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ATIVIDADES DE ENFERMAGEM. SAMU. SERVIÇOS MÉDICOS DE URGÊNCIA E EMERGÊNCIA. AMBULÂNCIAS. RESOLUÇÃO 375/2011 DO COFEN. PORTARIAS 2048/2002 E 1010/2012 DO MINISTÉRIO DA SAÚDE. ATOS NORMATIVOS QUE NÃO SE INSEREM NO CONCEITO DE LEI FEDERAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL.
+1. Nos termos da jurisprudência pacífica do STJ, é inviável, em Recurso Especial, a revisão de acórdão fundamentado em resolução, portaria ou instrução normativa. Isso porque, nos termos do art. 105, inciso III, alínea "a", da Constituição Federal, essas normas não se enquadram no conceito de lei federal, não podendo, portanto, ser objeto do recurso autorizado por esse permissivo constitucional.
+2. A alegação de ofensa ao art. 11 da Lei 7.498/1986 é meramente reflexa, sendo imprescindível a análise da Resolução 375/2011 do Conselho Federal de Enfermagem e das Portarias 2048/2002 e 1010/2012 do Ministério da Saúde.
+3. Recurso Especial não conhecido. (REsp 1616010/SC, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 21/02/2017, DJe 18/04/2017).
+Por fim, "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
