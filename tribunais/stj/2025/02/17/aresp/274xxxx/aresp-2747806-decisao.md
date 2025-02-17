@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por LEIDIANE DE SOUZA ALMEIDA MENDONCA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 394):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO - NEGATIVAÇÃO LITIGIOSA - INSCRIÇÃO PRÉVIA - CADASTRO QUE SE MANTINHA ATIVO QUANDO DO AJUIZAMENTO DA AÇÃO - DANO MORAL NÃO CONFIGURADO Em autos de ação declaratória cumulada com pedido indenizatório, a existência de negativação prévia ainda ativa quando do ajuizamento da ação gera observância da Súmula nº 385, do Superior Tribunal de Justiça. Em situações tais, não se cogita de ilícito moral. (TJMG - Apelação Cível 1.0000.22.271100-4/002, Relator(a): Des.(a) Marcelo Pereira da Silva , 11ª CÂMARA CÍVEL, julgamento em 03/04/2024, publicação da súmula em 04/04/2024).
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas nos arts. 6º, VI, VII e VIII, e 14 do CDC; 186 e 927, parágrafo único, do CC; e 373, II, do CPC, ao afastar a indenização por danos morais sob o fundamento da Súmula n. 385/STJ, sem considerar que as inscrições preexistentes estavam sendo judicialmente discutidas.
+Sustenta que o entendimento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte, em especial dos precedentes firmados nos REsp n. 1.704.002/SP e 1.647.795/RO, que flexibilizam a aplicação da Súmula n. 385/STJ quando há elementos que demonstrem a verossimilhança da irregularidade das anotações preexistentes.
+Pugna, assim, pela reforma do acórdão para reconhecer a ilicitude da negativação e condenar a recorrida ao pagamento de indenização por danos morais.
+Foram oferecidas contrarrazões ao recurso especial (fl. 562).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 563-565), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 6º, VI, VII e VIII, e 14 do CDC; 186 e 927, parágrafo único, do CC; 373, II, do CPC e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. Alterar o decidido no acórdão impugnado, no que se refere à existência de outra inscrição desabonadora concomitante, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito os seguintes precedentes:
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. INOCORRÊNCIA. EXISTÊNCIA DE INSCRIÇÃO NEGATIVA LEGÍTIMA ANTERIOR. SÚM. 285/STJ. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. DECISÃO MANTIDA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚM. 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento." (Súm 385/STJ).
+2. Analisar se havia ou outra inscrição desabonadora no cadastro de inadimplentes no momento da propositura da ação demandaria o revolvimento fático probatório dos autos, o que é vedado em sede de recurso especial (Súm 7/STJ).
+3. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+4. Agravo interno não provido. (AgInt no REsp 1865878/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/11/2020, DJe 02/12/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CONJUGADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. ART. 1.025 DO CPC/2015. NÃO INCIDÊNCIA. ANOTAÇÃO EM CADASTRO DE INADIMPLENTES. SÚMULA Nº 385/STJ. DANOS MORAIS. NÃO CARACTERIZAÇÃO. INSCRIÇÕES ANTERIORES. REGULARIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça. 4. Não há falar em prequestionamento ficto, nos termos do art. 1.025 do CPC/2015, nos casos em que o acórdão recorrido foi publicado na vigência do CPC/1973.
+5. Nos termos da Súmula nº 385/STJ, da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento.
+6. Para que o Superior Tribunal de Justiça autorize a indenização por danos morais, afastando a incidência da Súmula nº 385/STJ, não basta o ajuizamento de ação para cada uma das inscrições, sendo necessário que haja verossimilhança nas alegações e, se existente dívida, o depósito ao menos do valor de sua parte incontroversa. Precedentes.
+7. Na hipótese, rever a conclusão do tribunal de origem acerca da regularidade das anotações anteriores do nome do recorrente nos cadastros de inadimplentes exigiria a incursão nos elementos fático-probatórios dos autos, de forma que o acolhimento da pretensão indenizatória esbarra no óbice da Súmula nº 7/STJ.
+8. A incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada.
+9. Agravo interno não provido.
+(AgInt no AREsp 1345520/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/11/2019, DJe 21/11/2019)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a"" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 14% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO COM PEDIDO DE INDENIZAÇÃO. ANOTAÇÃO EM CADASTRO DE INADIMPLENTES. SÚMULA N. 385/STJ. DANOS MORAIS. NÃO CARACTERIZAÇÃO. INSCRIÇÕES ANTERIORES. REGULARIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
