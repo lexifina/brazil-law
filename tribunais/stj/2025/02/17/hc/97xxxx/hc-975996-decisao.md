@@ -1,0 +1,18 @@
+DECISÃO
+GERSON GABRIEL DA SILVA CARDOSO alega sofrer constrangimento ilegal diante de decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais no Habeas Corpus n. 1.0000.24.537061-4/000.
+A defesa sustenta que a manutenção da restrição de liberdade é ilegal, diante da fixação do regime inicial semiaberto. Para tanto, afirma que "Vale destacar que na comarca NÃO EXISTE estabelecimento compatível com o regime semiaberto, dessa forma, deve ser aplicado o entendimento da súmula vincunlante nº 56 do Supremo Tribunal Federal (STF) estabelece que, em caso de falta de estabelecimento penal adequado, o condenado não pode cumprir pena em regime mais gravoso do que o que lhe é devido" (fl. 4).
+Requer a concessão do direito ao paciente de recorrer em liberdade, "tendo em vista a inexistência de estabelecimento prisional compatível com o regime semiaberto na comarca do paciente" (fl. 10).
+Prestadas as informações (fls. 32-65), veio o parecer do Ministério Público Federal (fls. 72-82), que opinou pelo não conhecimento do writ.
+Decido.
+Consta dos autos que o ora paciente foi condenado como incurso no art. 33, § 4º, c/c o art. 40, VI, ambos da Lei n. 11.343/2006, à pena de 4 anos, 10 meses e 10 dias de reclusão, mais multa, em regime semiaberto.
+A Corte de origem assim denegou a ordem:
+A presente análise cinge-se em verificar se há a alegada incompatibilidade da manutenção da medida no caso de acusado condenado a pena a ser cumprida em regime diverso do fechado. No caso "sub judice", em que pesem as alegações apresentadas pela parte impetrante, observo que razão não lhe assiste, uma vez que inexiste a incompatibilidade alegada, devendo ser observada pelo Magistrado, tão somente, a adequação da segregação provisória ao regime fixado na sentença condenatória. Vejamos o entendimento do Superior Tribunal de Justiça:
+ ..
+Logo, inexistindo incompatibilidade entre a medida cautelar em questão e o regime prisional estabelecido na sentença, qual seja, o semiaberto, não há que se falar em qualquer ilegalidade a ser sanada, bem como não se vislumbra a ocorrência de constrangimento ilegal (fls. 15-16, grifei).
+Conforme esclarecido nas informações prestadas pelo Juízo de origem, guia de execução provisória do paciente foi implantada em data recente e a "compatibilização da prisão cautelar do paciente com o regime de cumprimento de pena imposto na sentença condenatória será realizada pelo Juízo da execução penal daquela comarca, tendo em vista a remessa da guia por este magistrado, bem como a expedição de ofício ao Presídio de Corinto/MG, para adequação (fl. 33, grifei).
+Ademais, é sólida a orientação deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena" (AgRg no HC n. 779.532/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022, grifei).
+No mesmo sentido: "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, DJe 16/2/2023).
+Assim, como bem pontou o Subprocurador-Geral da República Francisco Xavier Pinheiro Filho, "o paciente permaneceu segregado durante toda a persecução penal, justifica-se ainda mais a manutenção de sua prisão preventiva por ocasião da prolação de sentença condenatória" (fl. 75, grifei).
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
