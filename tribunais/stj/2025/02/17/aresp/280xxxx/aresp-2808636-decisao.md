@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por RENATO TADEU FRAGOSO E SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+DIREITO ADMINISTRATIVO. AÇÃO DE RESPONSABILIDADE POR ATOS DE IMPROBIDADE ADMINISTRATIVA. SENTENÇA QUE REJEITOU A PETIÇÃO INICIAL. APELAÇÃO CÍVEL. PRELIMINAR DE NECESSIDADE DE INTERVENÇÃO DO MINISTÉRIO PÚBLICO. ACOLHIDA. AUSÊNCIA DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO, COMO CUSTOS LEGIS, PARA PRONUNCIAMENTO ANTES DA PROLAÇÃO DA SENTENÇA. VIOLAÇÃO AO ARTIGO ART. 17, § 4% DA LEI DE IMPROBIDADE ADMINISTRATIVA. NULIDADE DA SENTENÇA, NOS TERMOS DO ART. 279, DO CÓDIGO DE PROCESSO CIVIL. RETORNO DOS AUTOS À ORIGEM PARA QUE SEJA CONCEDIDA VISTA AO MINISTÉRIO PÚBLICO, SÓ DEPOIS DISSO, PODERÁ HAVER PROLAÇÃO DE NOVA SENTENÇA, DA QUAL O PROMOTOR DE JUSTIÇA OFICIANTE DEVERÁ SER INTIMADO PESSOALMENTE. RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 17, §§ 7º e 8º, da Lei n. 8.429/1992, no que concerne à inexistência de nulidade da decisão de primeiro grau, tendo em vista o descabimento de exigência de manifestação da parte adversa quanto à rejeição de seguimento de ação de improbidade, dada a ausência de previsão legal nesse sentido, não havendo, portanto, que se falar em ofensa ao contraditório. Argumenta:
+O Município de Coqueiro Seco propôs ação de improbidade administrativa em desfavor do ora Recorrente, aduzindo que este teria incorrido nas condutas tipificadas nos arts. 11, caput, art. 10, caput e incisos I, VI, IX, X, XII e XII, art. 9º, caput, incisos I e XI, todos da Lei n.º 8.429/92.
+Uma vez notificado, o Recorrente ofereceu manifestação preliminar, sendo certo que o MM. Juiz de 1º grau rejeitou a inicial, sob o fundamento da "inexistência de elementos mínimos que sinalizam a ocorrência de atos de improbidade, conforme art. 17, § 8º, da Lei nº 8.429/1992".
+ ..
+Há de se observar que, no caso em testilha, o ato combatido pelo Ministério Público no recurso de apelação, não se trata de sentença que julgou improcedente a ação movida pelo Município, mas de decisão que rejeitou a inicial da ação de improbidade.
+ ..
+Como se observa pela lei de regência, ao receber a inicial o juiz deve determinar a notificação do requerido e, recebendo a manifestação, deverá decidir sobre a rejeição ou não da ação.
+Não há, eminentes julgadores, na lei de regência, qualquer previsão legal para manifestação das partes, após ser recebida a manifestação preliminar, donde se infere que o juízo de 1º grau aplicou corretamente o rito estabelecido na legislação própria.
+Sendo assim, o acórdão vergastado, ao declarar a nulidade em face da não manifestação do Ministério Público após a resposta preliminar, acabou por violar frontalmente o disposto nos §§ 7º e 8º, do art. 17, da Lei n.º 8.429/92, sendo cabível, portanto, o presente recurso especial.
+Diga-se, por oportuno, que antes mesmo de decidir sobre a rejeição da ação, o juízo de 1º grau, ao conceder a medida liminar de indisponibilidade de bens, determinou a intimação do Ministério Público, que deu recibo de ciência à fl. 323, informando que atuaria como fiscal da ordem jurídica e requerendo a notificação do ora Recorrente para oferecer a manifestação preliminar.
+No entanto, diante da ausência de previsão legal para sua oitiva, após a manifestação preliminar, não há que se falar em nulidade da decisão por ofensa ao contraditório (fls. 683-685).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
