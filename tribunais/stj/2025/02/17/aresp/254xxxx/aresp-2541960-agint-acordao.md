@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. APLICAÇÃO DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi objeto de prequestionamento pela instância ordinária, tampouco foram opostos embargos de declaração.
+2. A análise da distribuição da sucumbência para fixação de verba honorária sucumbencial implica reexame fático, o que é inviável nesta instância especial, em razão do enunciado da Súmula n. 7 do STJ.
+3. A falta de expressa indicação e demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+4. Agravo interno desprovido.
+RELATÓRIO
+CALÇADA EMPREENDIMENTOS IMOBILIÁRIOS S.A. e SPE GRAND MIDAS EMPRENDIMENTO IMOBILIÁRIO LTDA. interpõem agravo interno contra a decisão de fls. 3.226-3.231, que negou provimento ao agravo em razão da incidência das Súmulas n. 282, 283, 284, 280 do STF e 7 do STJ e da não demonstração do dissídio jurisprudencial.
+Nas razões do presente recurso, a parte agravante alega que a matéria referente à ilegitimidade passiva da agravante, fundamentada nos arts. 50 do Código Civil e 134 do Código de Processo Civil, foi discutida no acórdão recorrido.
+Aduz que, quanto "à validade da cláusula contratual de tolerância de 180 dias, a parte agravante não indica dispositivo federal violado, contudo, indica divergência jurisprudencial. Hipótese esta autorizada para interposição de Recurso Especial, precisamente pela alínea C do permissivo constitucional" (fl. 3.239).
+Defende que a análise da questão atinente aos ônus da sucumbência "é desnecessário o revolvimento de matéria fático-probatória, mas sim de simples aplicação normativa diante das decisões proferidas" (fl. 3.240).
+Requer o conhecimento e o provimento do agravo interno para que o recurso especial seja conhecido.
+As contrarrazões não foram apresentadas, conforme a certidão de fl. 3.249.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. APLICAÇÃO DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi objeto de prequestionamento pela instância ordinária, tampouco foram opostos embargos de declaração.
+2. A análise da distribuição da sucumbência para fixação de verba honorária sucumbencial implica reexame fático, o que é inviável nesta instância especial, em razão do enunciado da Súmula n. 7 do STJ.
+3. A falta de expressa indicação e demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Quanto à arguição de violação dos arts. 50 do CC e 134 do CPC, a decisão agravada aplicou a Súmula n. 282 do STF, uma vez que as questões infraconstitucionais relativas aos apontados dispositivo de lei "não foram objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema" (fl. 3.228).
+Com efeito, as questões infraconstitucionais relativas à violação dos arts. 50 do CC e 134 do CPC, de fato, não foram objeto de debate no acórdão recorrido, nem foram opostos embargos de declaração visando provocar o colegiado a se manifestar sobre a questão.
+Registre-se que o prequestionamento, pressuposto recursal indispensável para o acesso à instância superior, significa a prévia manifestação do tribunal de origem, com a emissão de juízo de valor, acerca das matérias referentes aos dispositivos de lei federal apontados como violados.
+Assim, a ausência e enfrentamento pelo Tribunal de origem dos dispositivos legais supostamente violados impede o conhecimento do recurso especial em face do óbice das Súmulas n. 282 e 356 do STF.
+O STJ considera preenchido o requisito do prequestionamento quando o tribunal a quo efetivamente debate acerca da matéria inserta no dispositivo de lei federal, ainda que não mencione explicitamente seu número (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; e AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022). Trata-se do chamado prequestionamento implícito.
+Ocorre que, no caso, após análise dos autos, não se verifica, ainda que de forma implícita, o preenchimento do requisito do prequestionamento da tese recursal sob o viés da apontada violação dos arts. 50 do CC e 134 do CPC.
+A ausência de debate da matéria acerca do dispositivo legal apontado como violado obsta o conhecimento do recurso devido à falta de prequestionamento.
+Incidem na espécie as Súmulas n. 282 e 356 do STF.
+Quanto à apontada violação do art. 86, parágrafo único, do CPC, a decisão agravada aplicou ao caso a Súmula n. 7 do STJ, uma vez que a análise dessas questões exigiria o revolvimento fático-probatório dos autos.
+Nada obstante o inconformismo da parte agravante, reitere-se que o Tribunal de origem, soberano na análise dos fatos e provas dos autos, concluiu que os "ao contrário do que se afirma no recurso da parte ré, não declarou o Juízo a existência de sucumbência mínima da parte autora, tendo sido reconhecida a sucumbência recíproca, com a adequada condenação de cada parte nas verbas sucumbenciais referentes aos pedidos em que restaram vencidas" (fl. 2.996).
+Nesse contexto, deve-se observar o entendimento desta Corte de que a análise da distribuição da sucumbência e a aplicação do princípio da causalidade para fixação de verba honorária sucumbencial implicam reexame fático, o que é inviável nesta instância especial, em razão do enunciado da Súmula n. 7 do STJ (AgInt no AREsp n. 1.742.912/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/3/2021, DJe de 6/4/2021; AgInt no AREsp n. 1.620.394/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 31/8/2020, DJe de 3/9/2020; e AgInt no AgInt no AREsp n. 1.628.525/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/6/2020, DJe de 3/8/2020).
+Por fim, quanto à interposição do apelo nobre pela alínea c do permissivo constitucional, reitere-se que, nas razões do recurso especial, a parte agravante aponta dissídio jurisprudencial acerca da impossibilidade de se confundir as personalidades jurídicas dos sócios com a da pessoa jurídica, bem como quanto à validade da cláusula de tolerância de 180 dias, sem indicar dispositivos de lei federal sobre os quais recairiam as alegadas divergências.
+Registre-se que "o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão" (AgInt no AREsp n. 2.120.664/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022).
+Desse modo, a ausência de expressa indicação e de demonstração de ofensa a artigos de lei sobre os quais há divergência jurisprudencial inviabiliza o conhecimento do recurso, aplicando-se a Súmula n. 284 do STF, assim expressa: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito, confira-se precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO. DANOS MORAIS. PEDIDO DE MAJORAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.109.813/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justif icassem a revisão do decisum agravado, que deve ser mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
