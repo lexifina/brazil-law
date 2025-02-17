@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manejado por EQUATORIAL GOIÁS DISTRIBUIDORA DE ENERGIA S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 236):
+DUPLA APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. RELAÇÃO JURÍDICA NÃO COMPROVADA. DÉBITO INEXISTENTE. NEGATIVAÇÃO INDEVIDA. SENTENÇA MANTIDA. 1. Nas ações declaratórias de inexistência de débito, o ônus de demonstrar a existência do negócio jurídico e da dívida dele advinda é do réu, nos termos do art. 373, II, do CPC. 2. Não comprovada a relação jurídica entre concessionária e consumidora, bem como a regularidade da cobrança causadora da inscrição restritiva de crédito, a declaração de inexistência do débito e a exclusão do apontamento indevido, mostram-se medidas impositivas. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos de lei: (I) art. 1.022, II, do CPC ao argumento que o "o tribunal a quo deixou de analisar a tese de aplicação das normas reguladoras, assim, deixou de observar que os procedimentos adotados pela concessionária de energia estão plenamente adequados à legislação emanada pelo Poder Concedente, não havendo que se falar em qualquer ilegalidade de cobrança." (fl. 358) e (II) arts. 188, I, do Código Civil e 373, I, do CPC, pois não há nos autos prova de adimplência da agravada e de fato constitutivo de seu direito.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta provimento.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Adiante, ao manter a sentença de parcial procedência, o Tribunal local teceu a seguinte argumentação (fls. 238/239):
+Pois bem. De início, cumpre salientar que nas ações declaratórias de inexistência de débito incumbe à parte requerida - neste caso a concessionária de energia elétrica -, a comprovação inequívoca da existência e regularidade da dívida negativada.
+Com efeito, o onus probandi nas ações declaratórias negativas não se distribui na forma prevista no artigo 373 do Código de Processo Civil, pois o autor pode apenas negar o ato o u fato cuja inexistência pretende declarar, cumprindo à parte adversa a comprovação de sua existência, como fato constitutivo do direito atacado.
+Nessas ações, portanto, quem faz prova do fato constitutivo do direito é o réu, e não o autor.
+ ..
+No caso em tela, a ré/apelante, como bem compreendido na sentença objurgada, não se desincumbiu de tal ônus, pois não apresentou nenhuma documentação hábil a comprovar a relação jurídica com a consumidora e, como consequência, a dívida objeto da negativação.
+A bem da verdade, apesar da ré/apelante sustentar que a autora/apelada foi "  titular da unidade consumidora nº 17323216, entre 14/12/2022 e 25/01/2023" (movimentação n. 23), nem mesmo os documentos pessoais desta utilizados para a ativação dos serviços de energia elétrica foram jungidos aos autos. Ora, tratando-se de contratação relativamente recente, revela-se inverossímil a alegação recursal de que não conseguiu localizar tais documentos em seus sistemas internos.
+Desse modo, não comprovada a regularidade da cobrança causadora da inscrição restritiva de crédito, a declaração de inexistência do débito e a exclusão do apontamento indevido, mostram-se medidas impositivas.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, acerca da ausência de comprovação da relação jurídica com a consumidora ora agravada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. AÇÃO DE BUSCA E APREENSÃO. ÔNUS DA PROVA. CARÊNCIA DE AÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido apreciou as provas produzidas nos autos, analisou todas as questões pertinentes para a solução da lide e fundamentou, de forma clara e suficiente, sua decisão.
+2. O recurso especial não comporta exame de questões que demandem o revolvimento do contexto fático-probatório dos autos, em razão da incidência da Súmula n. 7 do STJ.
+3. No caso concreto, a análise da pretensão recursal demandaria incursão nos aspectos fático-probatórios, especialmente no que se refere à comprovação da relação jurídica existente entre as partes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.607.820/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/3/2018, DJe de 2/4/2018.)
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
