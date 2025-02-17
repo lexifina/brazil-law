@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO CPC. ENTENDIMENTO DA CORTE ESPECIAL. DIA DE CORPUS CHRISTI. INEXISTÊNCIA DE FERIADO NACIONAL. AUSÊNCIA DE NOTORIEDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 1.003, § 6º, do CPC, a comprovação de suspensão dos prazos ou de feriado local deve ser feita quando interposto o recurso, o que foi confirmado pela Corte Especial, no julgamento do AREsp n. 957.821/MS.
+2. Esta Corte adota o entendimento de que o dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar no ato da interposição do recurso, por documento idôneo, a suspensão do expediente forense no Tribunal estadual, o que não ocorreu na hipótese.
+3. A Corte Especial assentou, em Questão de Ordem no REsp n. 1.813.684/SP, o entendimento de que somente é possível a comprovação da tempestividade do recurso, em momento posterior, na hipótese do feriado de segunda-feira de Carnaval, mas não quanto aos demais feriados.
+4. As razões recursais estão totalmente desconexas com os fundamentos da decisão que inadmitiu o recurso especial, o que atrai também a incidência da Súmula n. 284 do STF, por analogia.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAROLAYNE CRISTINA DA SILVA (CAROLAYNE) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da manifesta intempestividade do recurso.
+Nas razões do presente inconformismo, defendeu que (1) os juros são abusivos e foram cobrados acima da taxa média de mercado; (2) as taxas e tarifas são ilegais, pois impõem ao consumidor o ressarcimento das custas de cobrança de sua obrigação; (3) deve ser ressarcida pelos danos morais sofridos.
+Foi apresentada contraminuta (e-STJ, fls. 291-297).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO CPC. ENTENDIMENTO DA CORTE ESPECIAL. DIA DE CORPUS CHRISTI. INEXISTÊNCIA DE FERIADO NACIONAL. AUSÊNCIA DE NOTORIEDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 1.003, § 6º, do CPC, a comprovação de suspensão dos prazos ou de feriado local deve ser feita quando interposto o recurso, o que foi confirmado pela Corte Especial, no julgamento do AREsp n. 957.821/MS.
+2. Esta Corte adota o entendimento de que o dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar no ato da interposição do recurso, por documento idôneo, a suspensão do expediente forense no Tribunal estadual, o que não ocorreu na hipótese.
+3. A Corte Especial assentou, em Questão de Ordem no REsp n. 1.813.684/SP, o entendimento de que somente é possível a comprovação da tempestividade do recurso, em momento posterior, na hipótese do feriado de segunda-feira de Carnaval, mas não quanto aos demais feriados.
+4. As razões recursais estão totalmente desconexas com os fundamentos da decisão que inadmitiu o recurso especial, o que atrai também a incidência da Súmula n. 284 do STF, por analogia.
+5. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+Não se conheceu do agravo em recurso especial em virtude da sua intempestividade.
+É contra essa decisão o inconformismo agora manejado, que não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Nos termos do art. 1.003, § 6º, do CPC, a comprovação de suspensão dos prazos ou de feriado local deve ser feita quando interposto o recurso, o que foi confirmado pela Corte Especial, no julgamento do AREsp nº 957.821/MS.
+Nesse sentido, a Ministra NANCY ANDRIGHI, que lavrou o acórdão, concluiu que ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso e, em consequência, opera-se a coisa julgada.
+Confira-se a ementa a seguir:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, Corte Especial, j. 20/11/2017, DJe 19/12/2017).
+Acrescente-se, ainda, que a Corte Especial do STJ, por maioria de votos, após o julgamento da Questão de Ordem no REsp n. 1.813.684, ocorrido aos 3/2/2020, firmou o posicionamento no sentido de que a possibilidade de comprovação do feriado local em momento posterior somente tem incidência quando o recurso (especial ou agravo em recurso especial) foi interposto antes do julgamento do citado apelo extremo e desde que a controvérsia somente gire em torno do feriado da segunda-feira de carnaval.
+Veja-se a ementa:
+QUESTÃO DE ORDEM. CONTRADIÇÃO ENTRE NOTAS TAQUIGRÁFICAS E VOTO ELABORADO PELO RELATOR PARA ACÓRDÃO. PREVALÊNCIA DAS NOTAS TAQUIGRÁFICAS, QUE REFLETEM A MANIFESTAÇÃO DO COLEGIADO. SESSÕES DE JULGAMENTO DO RESP 1.813.684/SP. LIMITAÇÃO DO DEBATE E DA DELIBERAÇÃO À POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR ACERCA DO FERIADO DE SEGUNDA-FEIRA DE CARNAVAL, DIANTE DAS PECULIARIDADES QUE MODIFICARIAM A SUA NATUREZA JURÍDICA. VOTO DO RELATOR PARA ACÓRDÃO QUE ABRANGE MAIS DO QUE A MATÉRIA DECIDIDA COLEGIADAMENTE, ESTENDENDO O REFERIDO ENTENDIMENTO TAMBÉM AOS DEMAIS FERIADOS. REDUÇÃO DA ABRANGÊNCIA EM QUESTÃO DE ORDEM. POSSIBILIDADE.
+1- O propósito da presente questão de ordem é definir, diante da contradição entre as notas taquigráficas e o acórdão publicado no DJe de 18/11/2019, se a modulação de efeitos deliberada na sessão de julgamento do recurso especial, ocasião em que se permitiu a posterior comprovação da tempestividade de recursos dirigidos a esta Corte, abrange especificamente o feriado da segunda-feira de carnaval ou se diz respeito a todos e quaisquer feriados.
+2- Havendo contradição entre as notas taquigráficas e o voto elaborado pelo relator, deverão prevalecer as notas, pois refletem a convicção manifestada pelo órgão colegiado que apreciou a controvérsia. Precedentes.
+3- Consoante revelam as notas taquigráficas, os debates estabelecidos no âmbito da Corte Especial, bem como a sua respectiva deliberação colegiada nas sessões de julgamento realizadas em 21/08/2019 e 02/10/2019, limitaram-se exclusivamente à possibilidade, ou não, de comprovação posterior do feriado da segunda-feira de carnaval, motivada por circunstâncias excepcionais que modificariam a sua natureza jurídica de feriado local para feriado nacional notório.
+4- Tendo o relator interpretado que a tese firmada por ocasião do julgamento colegiado do recurso especial também permitiria a comprovação posterior de todo e qualquer feriado, é admissível, em questão de ordem, reduzir a abrangência do acórdão.
+5- Questão de ordem resolvida no sentido de reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais.
+(QO no REsp 1.813.684/SP, Rel. Ministra NANCY ANDRIGHI, Corte Especial, j. 3/2/2020, DJe 28/2/2020)
+No caso dos autos, verifica-se que o v. acórdão recorrido foi disponibilizado aos 28/5/2024 no DJe, tendo sido considerado publicado aos 29/5/2024 (e/STJ, fl. 227).
+Portanto, como o prazo recursal para a interposição do recurso se iniciou aos 29/5/2024 (quarta-feira), com término aos 19/5/2024 (quarta-feira), e sua interposição somente se deu aos 20/6/2024 (e-STJ, fl. 228/244), deve ser reconhecida a sua intempestividade, já que interposto fora do prazo de 15 dias, nos termos dos arts. 219, caput, e 1.003, § 5º, do CPC, sem a demonstração da ocorrência de feriados locais, no momento oportuno e por documento idôneo.
+Ressalta-se, por relevante, que o feriado de Corpus Christi, ocorrido aos 30/5/2024 , precisava ser comprovado no momento oportuno, o que não ocorreu.
+Sobre o tema, confiram-se os precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. INTEMPESTIVIDADE DO RECURSO ESPECIAL.
+1. Hipótese em que o recurso especial não foi conhecido em razão da intempestividade.
+2. O Superior Tribunal de Justiça possui orientação no sentido de que "o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido" (AgInt no AREsp 1.937.634/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2021, DJe 25/11/2021).
+3. No direito brasileiro, predomina a teoria do isolamento dos atos processuais, segundo a qual sobrevindo lei processual nova, os atos ainda pendentes dos processos em curso sujeitar-se-ão aos seus comandos, respeitada a eficácia daqueles já praticados de acordo com a legislação revogada (princípio do tempus regit actum).
+4. A decisão de intempestividade do recurso especial observou os preceitos do art. 1.003, § 6º, do CPC, na redação vigente à época da interposição do recurso, o que torna inviável a pretensão de aplicação da nova redação do referido dispositivo, estabelecida pela Lei n. 14.939/2024.5. Considerando que o recurso especial foi interposto sob a égide da redação antiga do art. 1.003, § 6º, do CPC/2015 e que não houve a comprovação do feriado local no Tribunal de origem quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.567.551/SP, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. FERIADO LOCAL. ARTIGO 1.003, § 6º, DO CPC. REGRAMENTO PROCESSUAL EXPRESSO. LEI NOVA. IRRETROATIVIDADE. ARTIGO 14 DO CPC.
+1. É intempestivo o agravo em recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com o artigo 1.003, § 5º, c/c artigo 219, caput, do CPC.
+2. Os recursos interpostos perante a instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual.
+3. Eventual documento idôneo, apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense, deve ser colacionado aos autos no momento de sua interposição para fins de aferição da tempestividade do recurso, a teor do que dispõe o artigo 1.003, § 6º, do CPC. Precedente da Corte Especial.
+4. O dia do Servidor Público (28 de outubro), o dia 1º de novembro, a segunda-feira de carnaval, a quarta-feira de Cinzas, os dias que precedem a sexta-feira da Paixão e também o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem.
+5. A Lei nº 14.939/2024 modificou o texto do artigo 1.003, § 6º do CPC, introduzindo a possibilidade de correção do erro ou sua desconsideração se a informação já estiver no processo eletrônico.
+Contudo, essa nova norma só se aplica a recursos apresentados após sua entrada em vigor, não afetando o caso em análise.
+6. Nos termos do artigo 14 do CPC, a norma processual não terá efeito retroativo e será aplicada imediatamente aos processos em andamento, resguardando os atos processuais realizados e as situações jurídicas consolidadas durante a vigência da norma anterior.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.641.418/AM, relator Ministro Ricardo VILLAS BÔAS CUEVA, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024)
+Ademais, forçoso reconhecer que as razões apresentadas no presente agravo interno estão totalmente desconexas com os fundamentos da decisão que inadmitiu o recurso especial, o que atrai também a incidência da Súmula n. 284 do STF, por analogia.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
