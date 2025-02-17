@@ -1,0 +1,143 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Comercial Silgiacomelli LTDA, em face do acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+
+    “PIS/COFINS. TRIBUTAÇÃO MONOFÁSICA. CONSTITUIÇÃO DE CRÉDITOS. IMPOSSIBILIDADE. REGIME DA NÃO-CUMULATIVIDADE. ART. 3º, § 2º, DAS LEIS Nº 10.637/02 E 10.833/03. ART. 17 DA LEI 11.033/2004. COMERCIANTE VAREJISTA E ATACADISTA DE COMBUSTÍVEIS.
+
+    1. "É vedada a constituição de créditos da Contribuição para o PIS/PASEP e da COFINS sobre os componentes do custo de aquisição de bens sujeitos à tributação monofásica." (Tese 1 do Tema nº 1.093/STJ).
+
+    2. "O art. 17, da Lei 11.033/2004, apenas autoriza que os créditos gerados na aquisição de bens sujeitos à não cumulatividade (incidência plurifásica) não sejam estornados (sejam mantidos) quando as respectivas vendas forem efetuadas com suspensão, isenção, alíquota 0 (zero) ou não incidência da Contribuição para o PIS/PASEP e da COFINS, não autorizando a constituição de créditos sobre o custo de aquisição (art. 13, do Decreto-Lei n. 1.598/77) de bens sujeitos à tributação monofásica." (Tese 5 do Tema 1.093/STJ).
+
+    3. Considerando que a cadeia econômica dos combustíveis está sujeita à tributação monofásica das contribuições ao PIS e da COFINS, concentrada nos produtores e nos importadores, é incabível a constituição de créditos de PIS/COFINS pelos comerciantes varejistas e atacadistas em razão da aquisição dos combustíveis.
+
+     4. O art. 9º da Lei Complementar nº 192/2022 não autorizou aconstituição de créditos de PIS/COFINS em decorrência da aquisição, por comerciantes varejistas e atacadistas de combustíveis, de produtos sujeitos à tributação monofásica. Assegurou, apenas, a manutenção dos créditos já constituídos em relação às mercadorias sujeitas à tributação plurifásica, em linha com o art. 17 da Lei nº 11.033/2004.”
+
+    Na minuta, sustenta-se violação do art. 150, III da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    A Corte de origem decidiu a controvérsia nos seguintes termos (id: f4c853c6):
+
+    “2.1 Da não cumulatividade das contribuição ao PIS e da COFINS
+
+    Conforme prevê o art. 195, §12, da Constituição Federal, cabe à lei definir os setores de atividade econômica para os quais as contribuições sociais do empregador sobre a receita ou o faturamento (Contribuição ao PIS e COFINS) serão apuradas em observância ao princípio da não cumulatividade.
+
+    A respeito do princípio constitucional, já se manifestou o Supremo Tribunal Federal no sentido de que "Diante de contribuições cuja materialidade é a receita ou o faturamento, a não cumulatividade dessas contribuições deve ser vista como técnica voltada a afastar o “efeito cascata” na atividade econômica, considerada a receita ou o faturamento auferidos pelo conjunto de contribuintes tributados sequencialmente ao longo do fluxo negocial dos bens ou dos serviços (...)" (RE 607642, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 29/06/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-267 DIVULG 06-11-2020 PUBLIC 09-11- 2020).
+
+    Em outras palavras, a não cumulatividade das contribuições sociais incidentes sobre a receita bruta ou o faturamento, nos casos em que adotada pela legislação, tem como objetivo limitar a incidência tributária nas cadeias econômicas, por meio de sistemática de creditamento dos custos de aquisição de produtos sujeitos à incidência do tributo, na forma das Leis nº 10.637/2002 e 10.833/2003.
+
+    Considerando que o objetivo da sistemática é restringir a tributação plurifásica — na qual a incidência do tributo ocorre mais de uma vez ao longo da cadeia de circulação de um determinado produto ou serviço — é vedada a constituição de créditos nos casos em que a mercadoria se submete à tributação monofásica — na qual a incidência do tributo recai apenas sobre uma das pessoas envolvidas na cadeia produtiva, com a desoneração tributária nas etapas seguintes.
+
+    Por este motivo, os art. 3º, inciso I, alínea b, das Leis nº 10.637/2002 e 10.833/2003 vedam o creditamento relativamente aos custos de aquisição de bens adquiridos para a revenda submetidos à tributação monofásica (art. 2º, §§1º e 1ºA):
+
+    Art. 3 o Do valor apurado na forma do art. 2 o a pessoa jurídica poderá descontar créditos calculados em relação a:
+
+     I - bens adquiridos para revenda, exceto em relação às mercadorias e aos produtos referidos: (...)
+
+    b) nos §§ 1 o e 1 o -A do art. 2 o desta Lei;
+
+    Quanto à matéria, já decidiu o Supremo Tribunal Federal, ao tratar a respeito da não cumulatividade das contribuições ao PIS e da COFINS, que "Não há que se falar em ofensa ao princípio da não-cumulatividade quando a tributação se dá de forma monofásica, pois a existência do fenômeno cumulativo pressupõe a sobreposição de incidências tributárias" (RE 762892 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 24/03/2015, ACÓRDÃO ELETRÔNICO DJe-070 DIVULG 14-04-2015 PUBLIC 15-04-2015).
+
+    Ademais, a legalidade da vedação ao creditamento sobre o custo de aquisição de mercadorias sujeitas à tributação monofásica foi reconhecida pelo Superior Tribunal de Justiça, no julgamento do REsp n. 1.894.741/RS, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 27/4/2022, DJe de 5/5/2022), ocasião em que foram firmadas as teses do Tema nº 1.093/STJ:
+
+    1. É vedada a constituição de créditos da Contribuição para o PIS/PASEP e da COFINS sobre os componentes do custo de aquisição (art. 13, do Decreto-Lei n. 1.598/77) de bens sujeitos à tributação monofásica (arts. 3º, I, "b" da Lei n. 10.637/2002 e da Lei n. 10.833/2003).
+
+    2. O benefício instituído no art. 17, da Lei 11.033/2004, não se restringe somente às empresas que se encontram inseridas no regime específico de tributação denominado REPORTO.
+
+    3 . O art. 17, da Lei 11.033/2004, diz respeito apenas à manutenção de créditos cuja (e-STJ Fl.223) Documento recebido eletronicamente da origem constituição não foi vedada pela legislação em vigor, portanto não permite a constituição de créditos da Contribuição para o PIS/PASEP e da COFINS sobre o custo de aquisição (art. 13, do Decreto-Lei n. 1.598/77) de bens sujeitos à tributação monofásica, já que vedada pelos arts. 3º, I, "b" da Lei n. 10.637/2002 e da Lei n. 10.833/2003.
+
+    4. Apesar de não constituir créditos, a incidência monofásica da Contribuição para o PIS/PASEP e da COFINS não é incompatível com a técnica do creditamento, visto que se prende aos bens e não à pessoa jurídica que os comercializa que pode adquirir e revender conjuntamente bens sujeitos à não cumulatividade em incidência plurifásica, os quais podemlhe gerar créditos.
+
+    5. O art. 17, da Lei 11.033/2004, apenas autoriza que os créditos gerados na aquisição de bens sujeitos à não cumulatividade (incidência plurifásica) não sejam estornados (sejam mantidos ) quando as respectivas vendas forem efetuadas com suspensão, isenção, alíquota 0 (zero) ou não incidência da Contribuição para o PIS/PASEP e da COFINS, não autorizando a constituição de créditos sobre o custo de aquisição (art. 13, do Decreto-Lei n. 1.598/77) de bens sujeitos à tributação monofásica.
+
+    Assim, no caso em que a mercadoria adquirida se sujeita à tributação monofásica, não é admitida a constituição de créditos sobre o custo de aquisição dos bens, uma vez que inexiste o pressuposto fático necessário para a adoção da técnica do creditamento, qual seja, incidências múltiplas na cadeia econômica.
+
+     Ora, não havendo incidências múltiplas, não há que se cogitar de cumulatividade e, consequentemente, da violação do princípio constitucional da não cumulatividade, nos termos do art. 195, § 12, da CF.
+
+    Especificamente quanto ao art. 17 da Lei nº 11.033/2004, como bem assentado pelo Superior Tribunal de Justiça, a possibilidade de manutenção de créditos já constituídos, ainda que a venda seja realizada sem incidência das contribuições, diz respeito apenas às hipóteses de venda de mercadorias sujeitas à tributação plurifásica, não permitindo a constituição de créditos relativos à aquisição de mercadorias sujeitas à tributação monofásica.
+
+     Em outras palavras, constituem-se créditos de PIS/COFINS a partir da aquisição de mercadorias sujeitas à tributação plurifásica, e estes créditos podem sermantidos (não são estornados) pelo revendedor ainda que, ao realizar a venda, a operação esteja sujeita à alíquota zero ou à não incidência dos tributos. Isso não autoriza, contudo, a constituição de créditos relativos à aquisição de mercadorias sujeitas à tributação monofásica.
+
+    Em síntese, os comerciantes, varejistas e atacadistas não têm direito ao creditamento de PIS e COFINS referentes aos valores das mercadorias — adquiridas para revenda — sujeitas ao regime monofásico, em razão da vedação prevista no art. 3º, I, b, das Leis 10.637/2002 e 10.833/2003 e da própria incompatibilidade do sistema de creditamento com a tributação pelo regime monofásico.
+
+    No caso concreto, a parte impetrante é pessoa jurídica dedicada à atividade decomércio varejista de combustíveis (Ev. 1.3), produto submetido à tributação monofásica das contribuições ao PIS e da COFINS, na forma do art. 4º da Lei nº 9.718/98. A tributação é concentrada nas refinarias de petróleo, permanecendo afastada a incidência dos tributos sobre a receita obtida pelos comerciantes atacadistas e varejistas, que se submetem à alíquota zero das contribuições.
+
+     Dessa forma, não há que se falar em direito da parte impetrante à constituição de créditos das contribuições ao PIS e da COFINS em decorrência da aquisição de combustíveis para revenda.
+
+    A superveniência da Lei Complementar nº 192/2022 não modificou este cenário, conforme passo a expor.
+
+    2.2 Da Lei Complementar nº 192/2022
+
+    Em março de 2022, com a publicação da LC nº 192/2022, foi estabelecida, até o dia 31 de dezembro de 2022, a alíquota zero das contribuições ao PIS e da COFINS devidas p o r produtores, importadores ou fabricantes relativamente a óleo diesel e suas correntes; gás liquefeito de petróleo – GLP, derivado de petróleo e de gás natural; querosene de aviação; e biodiesel, sendo "garantida às pessoas jurídicas da cadeia (...) o direito à manutenção dos créditos vinculados". Confira-se:
+
+    Art. 9º As alíquotas da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (Contribuição para o PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins) de que tratam os incisos II e III do caput do art. 4º da Lei nº 9.718, de 27 de novembro de 1998, o art. 2º da Lei nº 10.560, de 13 de novembro de 2002, os incisos II, III e IV do caput do art. 23 da Lei nº 10.865, de 30 de abril de 2004, e os arts. (e-STJ Fl.224) Documento recebido eletronicamente da origem 3º e 4º da Lei nº 11.116, de 18 de maio de 2005, ficam reduzidas a 0 (zero) até 31 de dezembro de 2022, garantida às pessoas jurídicas da cadeia, incluído o adquirente final, a manutenção dos créditos vinculados.
+
+    Considerando que os comerciantes varejistas e atacadistas já estavam sujeitos à alíquota zero das contribuições ao PIS e da COFINS, a LC nº 192/2022 promoveu a exoneração integral da cadeia econômica de combustíveis e ainda garantiu que fossem mantidos (não fossem estornados) os créditos já constituídos.
+
+     Na parte final do dispositivo, tal como estabeleceu o art. 17 da Lei nº 11.033/2004 ("As vendas efetuadas com suspensão, isenção, alíquota 0 (zero) ou não incidência da Contribuição para o PIS/PASEP e da COFINS não impedem a manutenção, pelo vendedor, dos créditos vinculados a essas operações"), o art. 9º da LC nº 192/2002 apenas autorizou amanutenção dos créditos gerados na aquisição de bens sujeitos à tributação plurifásica, mas não autorizou a constituição de créditos sobre o custo de aquisição de bens sujeitos à tributação monofásica.
+
+    Não é possível concluir do excerto "garantida (...) a manutenção dos créditos vinculados" que o legislador tenha criado benefício fiscal consistente em créditos "presumidos" de PIS/COFINS vinculados a operações sujeitas à tributação monofásica — e beneficiadas, inclusive, com a alíquota zero das contribuições. O que ele fez, em verdade, foi apenas garantir que os créditos já constituídos pelas pessoas da cadeia de combustíveis fossem mantidos (não fossem estornados).
+
+     No ponto, merece destaque que a concessão de benefício de natureza tributária do qual decorra renúncia de receita, inclusive créditos presumidos, deve ser obrigatoriamente acompanhada de estimativa de impacto orçamentário-financeiro, na forma do art. 14, §1º, da Lei de Responsabilidade Fiscal e do art. 113 do ADCT. A ausência de estimativa de impacto orçamentário do suposto benefício fiscal de crédito "presumido" de PIS/COFINS contido no art. 9º da LC nº 192/2022 conduz, de forma inequívoca, à conclusão ora adotada, de que o dispositivo não prevê a criação de nenhum novo benefício fiscal, apenas assegura o direito à manutenção de créditos já constituídos. Caso contrário, o dispositivo seria inconstitucional, por criar benefício fiscal sem correspondente estimativa de impacto orçamentário.
+
+    Assim, permaneceu sendo incabível a constituição de créditos de PIS/COFINS referentes às mercadorias — adquiridas para revenda — sujeitas ao regime monofásico, em razão da vedação prevista no art. 3º, I, b, das Leis 10.637/2002 e 10.833/2003 e da própria incompatibilidade do sistema de creditamento com a tributação pelo regime monofásico.
+
+    Este o raciocínio foi esclarecido pela Medida Provisória nº 1.118, de 17 de maio de 2022, que modificou a redação do art. 9º da LC nº 192/2022, excluindo a parte final do dispositivo e incluindo o §2º (Aplica-se às pessoas jurídicas produtoras ou revendedoras dos produtos de que trata o caput o disposto no art. 17 da Lei nº 11.033, de 21 de dezembro de 2004).
+
+    Veja-se o que constou da Exposição de Motivos da Medida Provisória:
+
+    1. Submeto a sua apreciação a proposta de Medida Provisória que suprime a parte final do art. 9º da Lei Complementar nº 192, de 11 de março de 2022, que trata do direito de manutenção dos créditos da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (Contribuição para o PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins) vinculados à comercialização de combustíveis.
+
+    2. Inicialmente, deve-se assinalar que Medida Provisória é instrumento hábil para modificar Lei Complementar naquilo em que materialmente tem status de lei ordinária. É o caso de dispositivos que delineiam aspectos de alíquotas e créditos da Contribuição para o PIS/Pasep e da Cofins, conforme tratado no art. 9º da Lei Complementar nº 192, de 2022.
+
+    3. Esses créditos, no caso da comercialização de combustíveis, seriam decorrentes, por exemplo, dos aluguéis de prédios ou da energia elétrica consumida nos estabelecimentos da pessoa jurídica comercializadora.
+
+     4.A supressão da referência à manutenção desses créditos não afeta esse direito do contribuinte, visto que a matéria já está integralmente tratada no art. 17 da Lei nº 11.033, de 21 de dezembro de 2004, o qual determina que: “As vendas efetuadas com suspensão, isenção, alíquota 0 (zero) ou não incidência da Contribuição para o PIS/PASEP e da COFINS não impedem a manutenção, pelo vendedor, dos créditos vinculados a essas operações”.
+
+     5. Ao contrário, a manutenção da atual redação do art. 9º poderá trazer insegurança jurídica a sua aplicação e levar à judicialização da questão do creditamento, baseado na interpretação de que o adquirente final do combustível, mesmo com as alíquotas da Contribuição para o PIS/Pasep e da Cofins reduzidas a zero, poderia tomar crédito dessa aquisição. Esta hipótese não tem sentido, pois aquisições de produtos vendidos com alíquotas zero das (e-STJ Fl.225) Documento recebido eletronicamente da origem contribuições não ensejam direito a créditos.
+
+    6. Dessa forma, com a nova redação proposta para o art. 9º da Lei Complementar nº 192, de 2022, fica afastada a possibilidade de litígios sem afetar o direito do contribuinte de manutenção dos créditos que lhe são de direito, cuja garantia já se encontra no art. 17 da Lei nº 11.033, de 2004.
+
+     7. A urgência se justifica pelo fato de que a Lei Complementar nº 192, de 2022, já foi publicada e está produzindo efeitos, o que faz com que seu art. 9º já possa gerar insegurança jurídica na sua aplicação e, consequentemente, judicialização da questão, enquanto a relevância ocorre em função da importância da cadeia de combustíveis para a economia nacional.
+
+    Em síntese, a Medida Provisória veio a esclarecer que o art. 9º da LC nº 192/2022 não assegurou o direito dos contribuintes à constituição de créditos de PIS/COFINS em decorrência da aquisição de mercadorias sujeitas à tributação monofásica (e à alíquota zero das contribuições), mas apenas garantiu o direito, já previsto no art. 17 da Lei nº 11.033/2004, de manutenção, pelo vendedor, de créditos obtidos com a aquisição de mercadoria sujeita à tributação plurifásica, ainda que a venda seja realizada sem a incidência das contribuições ao PIS e da COFINS.
+
+     No mesmo sentido, previu a Lei Complementar nº 194/2022, que modificou a redação do §2º do art. 9º da LC nº 192/2022, nos seguintes termos:
+
+    Art. 10. A Lei Complementar nº 192, de 11 de março de 2022, passa a vigorar com as seguintes alterações:
+
+    (...) § 2º Aplicam-se às pessoas jurídicas atuantes na cadeia econômica dos produtos de que trata o caput deste artigo:
+
+     I - em relação à aquisição de tais produtos, as vedações estabelecidas na alínea b do inciso I do art. 3º e no inciso II do § 2º do art. 3º da Lei nº 10.637, de 30 de dezembro de 2002, e na alínea b do inciso I do art. 3º e no inciso II do § 2º do art. 3º da Lei nº 10.833, de 29 de dezembro de 2003;
+
+     Conclui-se, portanto, que o art. 9º da Lei Complementar nº 192/2022 não autorizou a constituição de créditos de PIS/COFINS em decorrência da aquisição, por comerciantes varejistas e atacadistas de combustíveis, de produtos sujeitos à tributação monofásica. Assegurou, apenas, a manutenção dos créditos já constituídos em relação às mercadorias sujeitas àtributação plurifásica, em linha com o art. 17 da Lei nº 11.033/2004.
+
+    Em caso análogo, no qual pessoa jurídica comerciante varejista de combustíveis postulava o reconhecimento do direito a créditos de PIS/COFINS com amparo no art. 9º da LC nº 192/2022, decidiu recentemente esta Turma que "o art. 9º, caput, da Lei Complementar nº 192, de 2022, invocado pela impetrante na petição do evento nº 7, não lhe confere o direito de deduzir créditos de PIS e COFINS dos combustíveis beneficiados com a alíquota zero das contribuições" (TRF4, AC 5000715-83.2021.4.04.7206, SEGUNDA TURMA, Relator RÔMULO PIZZOLATTI, juntado aos autos em 14/09/2022).
+
+    Por fim, esclareço que a decisão adotada pelo Supremo Tribunal Federal na Medida Cautelar deferida no bojo da ADI nº 7181, além de prejudicada em razão da extinção da ADI sem resolução do mérito, era inaplicável ao caso dos autos, pois a referida decisão dizia respeito ao direito dos adquirentes finais de combustíveis à manutenção de créditos de PIS/COFINS, enquanto nestes autos a controvérsia diz respeito ao direito dos comerciantes varejistas e atacadistas de combustíveis à constituição de créditos na aquisição dos mercadorias.
+
+    Além disso, o comando contido na decisão proferida na ADI nº 7181 era tão somente para "determinar que a Medida Provisória nº 1.118, de 17 de maio de 2022, somente produza efeitos após decorridos noventa dias da data de sua publicação", o que não alteraria o entendimento ora adotado, pois independentemente da vigência da Medida Provisória nº 1.118/2022, os comerciantes varejistas e atacadistas de combustíveis não possuem direito à constituição de créditos de PIS/COFINS em razão da aquisição de mercadorias sujeitas à tributação monofásica. Deve ser mantida, portanto, a sentença recorrida.”
+
+    Da análise dos autos verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional aplicável à espécie (Medida Provisória nº 1.118/2022, Lei Complementar nº 192/2022 e Lei nº 11.033/2004) e no conjunto fático-probatório dos autos, concluindo pela ausência do alegado direito líquido e certo de o contribuinte creditar-se do PIS e da COFINS sobre o custo de aquisição dos combustíveis. Incide, assim, o óbice da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PIS E COFINS. CREDITAMENTO. LC Nº 192/2022 E Nº 194/2022. LEIS Nº 10.833/2003 E LEI Nº 10.637/2002. CONTROVÉRSIA RESOLVIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL. I. CASO EM EXAME 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão o qual reformou sentença de procedência do pedido. II. QUESTÃO EM DISCUSSÃO 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário. III. RAZÃO DE DECIDIR 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmula 279/STF). IV. DISPOSITIVO 5. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 6. Agravo interno a que se nega provimento.” (RE 1.488.310 AgR/RN, Rel. Min. Luís Roberto Barroso, Presidente, DJe 21.6.2024)
+
+    “DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS E COFINS. CONTRIBUIÇÃO. TRIBUTAÇÃO MONOFÁSICA. CREDITAMENTO. IMPOSSIBILIDADE. OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA Nº 279/STF. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 279 do STF. 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 3. Agravo interno conhecido e não provido.” (ARE 1.418.791 AgR/RJ, Rel. Min. Rosa Weber, Presidente, DJe 25.7.2023)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. PIS E COFINS. CREDITAMENTO. REGIME MONOFÁSICO DE TRIBUTAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional. 2. Agravo interno DESPROVIDO, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.385.667 AgR/PE, Rel. Min. Luiz Fux, Presidente, DJe 28.7.2022)
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Tributário. PIS e COFINS. Incidência monofásica. Alíquota zero. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido. 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.232.454 AgR/PA, Rel. Min. Dias Toffoli, Presidente, DJe 14/4/2020)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 17 de fevereiro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
