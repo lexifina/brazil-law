@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 438):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+O agravante sustenta que "(..), impugnou especificamente todos os fundamentos do v. Acórdão, em estrita observância ao disposto no artigo 1.029, I, II, III e §1º do Código de Processo Civil, (..)." (fl. 452). Afirma que "(..), apontou expressamente que o v. Acórdão recorrido, além de afrontar ao artigo 9º da LC nº 192/2022, artigo 3º das Leis nº 10.637/02 e nº 10.833/03 e ao artigo 17 da Lei nº 11.033/2004, foi contra o entendimento proferido pelo Supremo Tribunal Federal na ADI nº 7.181. Ou seja, a Agravante demonstrou que o entendimento do v. Acórdão recorrido se deu em sentido contrário do entendimento dos Tribunais!!" (fl. 453). Colaciona trecho do seu agravo em recurso especial no qual teria impugnado a aplicação da Súmula 83/STJ e conclui no sentido de que fundamentação sucinta não se confunde com fundamentação deficiente.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnado, especificamente, o fundamento da decisão que inadmitiu o recurso na Corte de origem.
+Neste agravo interno, o recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada na incidência da Súmula 83/STJ.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Com efeito, o enunciado da Súmula 83/STJ foi aplicado pela decisão agravada ao argumento de que "O tema referente à redação originária do art. 09º da LC 192/22 foi recentemente enfrentado pela Primeira Turma do STJ em face de recurso especial e agravo interpostos em face de acórdão consignado por turma do TRF5 na mesma toada do julgado aqui recorrido - no sentido de que a inovação trazida pela LC 192/22 (e posteriormente alterada pela MP 1.118/22 e pela LC 194/22) não teve o condão de alterar a sistemática monofásica na comercialização de combustíveis; qual seja, a alíquota zero na revenda de combustíveis e a consequente impossibilidade de creditamento quanto à sua aquisição pela revendedora." (fls. 373-374), ao que apontado o AgInt no REsp 2.808.388/STJ, Rel. Min. Regina Helena Costa, Primeira Turma, DJe de 14/12/2023.
+Não obstante, a parte sustentou a inaplicabilidade da Súmula 83/STJ, no seu agravo em recurso especial, aos argumentos de que "(..) o trecho da decisão proferida pelo Ilmo. Ministro Dias Tofolli, nos autos da ADI nº 7.181, é sim aplicável ao presente caso, (..)." (fl. 386) e de que teria comprovado a divergência jurisprudencial indicada com a apresentação de julgados do TRF3, do TRF4 e do TRF5 e com julgados do STJ (AgInt no REsp 1787364/PR, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 28/5/2019 e REsp 186119/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe de 29/5/2020), os quais tratam da possibilidade de creditamento do PIS e da COFINS no regime monofásico quando da excepcionalidade criada pelo legislador ordinário.
+Ora, quanto ao óbice sumular em discussão, para que seja considerado combatido a contento, é preciso que a parte desenvolva uma argumentação que demonstre sua inaplicabilidade e, concomitantemente, colacione julgados do STJ - atuais - em sentido contrário ao do acórdão recorrido, é dizer, no mesmo sentido da tese defendida no recurso especial cuja ascensão é buscada.
+Na espécie, a parte deixou de observar o contexto da aplicação da Súmula 83/STJ e de colacionar os necessários julgados desta Corte Superior, cabendo ressaltar, por oportuno, que os precedentes mencionados no agravo em recurso especial são anteriores ao indicado na decisão agravada.
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
