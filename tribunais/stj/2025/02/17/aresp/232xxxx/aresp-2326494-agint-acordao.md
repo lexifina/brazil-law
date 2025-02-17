@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO SEM INTIMAÇÃO PRÉVIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu do agravo para dar parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que conceda oportunidade ao recorrente de comprovação dos pressupostos relativos à assistência judiciária gratuita, conforme art. 99, § 2º, do CPC.
+2. O agravado interpôs recurso especial alegando violação aos art. 99, § 2º, 489, § 1º, IV, e 1.022, I, do CPC, sustentando que o benefício da justiça gratuita só poderia ser indeferido caso evidenciada a falta de pressupostos, devendo ser intimado para comprovar o preenchimento dos requisitos.
+3. O agravante argumenta que a Corte de origem assegurou ao agravado o direito de comprovar suas alegações, conforme o art. 99, § 2º, do CPC, e pede o provimento do agravo interno para manter a decisão que inadmitiu o recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o indeferimento do pedido de gratuidade de justiça sem a intimação prévia da parte para comprovar os pressupostos necessários é válido.
+III. RAZÕES DE DECIDIR
+5. O Tribunal de origem indeferiu o pedido de gratuidade de justiça com base em elementos que indicam a capacidade financeira do agravado, sem conceder prazo para comprovação dos requisitos.
+6. A decisão agravada considerou que o indeferimento do pedido de gratuidade de justiça sem intimação prévia para comprovação dos pressupostos é nula, conforme o art. 99, § 2º, do CPC.
+7. A jurisprudência do STJ estabelece que o pedido de gratuidade de justiça não pode ser indeferido sem que a parte seja previamente intimada para comprovar a alegada hipossuficiência.
+IV. AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão de fls. 2.090-2.095 que conheceu do agravo para dar parcial provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que conceda, com base no art. 99, § 2º, do Código de Processo Civil (CPC), oportunidade ao recorrente de comprovação dos pressupostos relativos à assistência judiciária gratuita.
+Consta nos autos que o agravado interpôs recurso especial, no qual, apontou a violação dos art. 99, § 2º, 489, § 1º, IV e 1.022, I, do CPC, porque o benefício da justiça gratuita apenas poderia ser indeferido caso restasse evidenciada a falta de pressupostos, e que deveria, necessariamente, intimado para comprovar o preenchimento dos requisitos.
+O agravante argumenta que, segundo o relatório do acórdão recorrido, a Corte de origem assegurou ao agravado o direito de previamente comprovar as suas alegações, conforme o art. 99, § 2º, do CPC.
+Portanto, pede que seja provido o agravo interno, para desprover o agravo em recurso especial, a fim de manter a decisão que inadmitiu o recurso especial, segundo a qual, "para rever a conclusão adotada no acórdão recorrido sobre a ausência de comprovação da hipossuficiência financeira do recorrente, imprescindível o reexame do quadro fático-probatório dos autos".
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO SEM INTIMAÇÃO PRÉVIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu do agravo para dar parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que conceda oportunidade ao recorrente de comprovação dos pressupostos relativos à assistência judiciária gratuita, conforme art. 99, § 2º, do CPC.
+2. O agravado interpôs recurso especial alegando violação aos art. 99, § 2º, 489, § 1º, IV, e 1.022, I, do CPC, sustentando que o benefício da justiça gratuita só poderia ser indeferido caso evidenciada a falta de pressupostos, devendo ser intimado para comprovar o preenchimento dos requisitos.
+3. O agravante argumenta que a Corte de origem assegurou ao agravado o direito de comprovar suas alegações, conforme o art. 99, § 2º, do CPC, e pede o provimento do agravo interno para manter a decisão que inadmitiu o recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o indeferimento do pedido de gratuidade de justiça sem a intimação prévia da parte para comprovar os pressupostos necessários é válido.
+III. RAZÕES DE DECIDIR
+5. O Tribunal de origem indeferiu o pedido de gratuidade de justiça com base em elementos que indicam a capacidade financeira do agravado, sem conceder prazo para comprovação dos requisitos.
+6. A decisão agravada considerou que o indeferimento do pedido de gratuidade de justiça sem intimação prévia para comprovação dos pressupostos é nula, conforme o art. 99, § 2º, do CPC.
+7. A jurisprudência do STJ estabelece que o pedido de gratuidade de justiça não pode ser indeferido sem que a parte seja previamente intimada para comprovar a alegada hipossuficiência.
+IV. AGRAVO INTERNO DESPROVIDO.
+VOTO
+A decisão agravada foi fundamentada nos seguintes termos (fls. 2.090-2.095):
+Trata-se de agravo interposto por ALEX PEREIRA, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão prolatado pelo Tribunal de Justiça do Estado do Mato Grosso assim ementado (e-STJ, fls. 318-319):
+RECURSO DE AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - GRATUIDADE DA JUSTIÇA - INDEFERIDA NA ORIGEM - HIPOSSUFICIÊNCIA NÃO COMPROVADA - DOCUMENTOS QUE ATESTAM CAPACIDADE FINANCEIRA - PARCELAMENTO FACULTADO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Ainda que seja possível a concessão da justiça gratuita mediante simples afirmação da parte requerente de que não tem condições de arcar com o pagamento das custas judiciais, o julgador pode indeferir o benefício quando não encontrar elementos nos autos que confirmem a hipossuficiência alegada, sobretudo se houver evidências da capacidade financeira.-
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.964-1.971).
+Em suas razões de recurso especial (e-STJ, fls. 1.983-2.001), a agravante alegou violação aos arts. 99, § 2º, 489, § 1º, IV e 1.022, I do Código de Processo Civil de 2015.
+Sustentou, em síntese, que houve negativa de prestação jurisdicional, aduzindo que o Tribunal de origem deixou de verificar os documentos acostados para atestar a necessidade de concessão do benefício da gratuidade de justiça.
+Argumentou que o pedido de justiça gratuito foi indeferido sem a concessão de prazo para a comprovação dos requisitos necessários.
+Foram apresentadas contrarrazões (e-STJ, fls. 2.028-2.035).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Constata-se que a alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AÇÃO DE PRESTAÇÃO DE CONTAS. LEGITIMIDADE ATIVA. HERDEIROS. SÚMULA N. 83 DO STJ. SUPRESSIO. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste negativa de prestação jurisdicional quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.411.897/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/12/2021, DJe 9/2/2022)
+Portanto, não há falar em negativa de prestação jurisdicional, tampouco em ofensa ao art. 489 do CPC/2015, tendo o acórdão julgado a causa sob a ótica do direito que entendeu pertinente à hipótese.
+Nesse contexto, esta Corte já se manifestou no sentido de que "a fundamentação sucinta, mas suficiente, não pode ser confundida com ausência de motivação" (AgInt no AgInt no AREsp 1.647.183/GO, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 26/04/2021, DJe 28/04/2021).
+Entretanto, o recurso merece prosperar no tocante à alegação de contrariedade ao art. 99, § 2º, do Código de Processo Civil de 2015.
+O TJMT manteve a decisão interlocutória que indeferiu o pedido de gratuidade de justiça, declinando a seguinte fundamentação (e-STJ, fls. 321-323, com grifos no original):
+Consoante relatado, a parte agravante recorre do decisum que indeferiu o pedido de justiça gratuita nos Embargos à Execução nº 002435-64.2022.8.11.0037, facultando o parcelamento das custas processuais em 06 (seis) parcelas com vencimento mensal.
+O direito à concessão do benefício da gratuidade de justiça poderá ser deferido mediante simples declaração da parte de que não possui meios financeiros para custear as despesas processuais sem comprometimento de seu sustento e/ou de sua família. Porém, tratando-se de matéria de ordem pública e gozando a referida declaração de presunção relativa de veracidade, cabe ao julgador, diante de indícios de saúde financeira, ou ainda, diante da ausência de elementos suficientes a corroborar a afirmação, indeferir o benefício pleiteado pelo requerente.
+ ..
+No caso sub judice, da análise dos documentos colacionados aos autos, sem maiores delongas, verifica-se que é caso de desprovimento do recurso. Isso porque, dos autos ressai indícios da saúde financeira do agravante, mormente após a análise do Imposto de Renda juntado ao ID 130896657, o qual comprova que o mesmo possui vários imóveis, apesar de alegar que os imóveis arrolados estão completamente tomados por averbações de indisponibilidade em razão de arrestos, sequestros e penhoras, além de ser sócio de uma empresa de exportação de cereais com capital social no valor de R$ 1.000.000,00 (um milhão de reais), somando um patrimônio de aproximadamente R$ 7.787.946,00 (sete milhões, setecentos e oitenta e sete mil, novecentos e quarenta e seis reais), o que demonstra, a princípio, que possui capacidade de arcar com as despesas processuais de distribuição. Verifica-se ainda, que, no presente caso, o valor da causa (Embargos à Execução) é expressivo, ou seja, de R$ 1.658.256,00 (um milhão, seiscentos e cinquenta e oito mil, duzentos e cinquenta e seis reais), na qual o agravante é executado pelo inadimplemento do contrato de compra e venda de soja. Ademais, sequer há nos autos documento capaz de demonstrar minimamente a receita do grupo familiar que se encontra inserido, bem como as despesas deste mesmo grupo familiar, ou qualquer condição especial que pudesse comprometer o orçamento familiar. Assim, de todo o exposto, à míngua de comprovação, não restando evidenciada indene de dúvidas a hipossuficiência econômica do recorrente, de se negar a gratuidade judiciária pretendida.
+Ao analisar o requerimento de gratuidade, o magistrado somente poderá rejeitá-lo com base em elementos contidos nos autos contrários à pretensão do requerente declarado hipossuficiente, a exemplo de prova documental capaz de evidenciar a aptidão financeira de arcar com as custas e as despesas processuais ou a existência de razoável patrimônio.
+Além disso, não cabe ao Juiz indeferir de plano o referido pedido, devendo intimar previamente a parte interessada para comprovar o preenchimento dos pressupostos necessários à concessão da benesse legal.
+Essa é a exegese do art. 99, § 2º, do CPC/2015:
+§ 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos.
+Assim, é nula a decisão que antes de indeferir a gratuidade da justiça, não determina a intimação da parte para comprovar o preenchimento dos pressupostos para a sua concessão.
+Nessa linha:
+RECURSO ESPECIAL. AÇÃO MONITÓRIA. GRATUIDADE DA JUSTIÇA. DOCUMENTOS APRESENTADOS NO ATO DO REQUERIMENTO INSUFICIENTES À COMPROVAÇÃO DO PREENCHIMENTO DOS PRESSUPOSTOS. INTIMAÇÃO PRÉVIA AO INDEFERIMENTO. NECESSIDADE.
+1. Ação monitória ajuizada em 19/02/2019, da qual foi extraído o presente recurso especial, interposto em 03/03/2021 e concluso ao gabinete em 21/03/2022.
+2. O propósito recursal é decidir sobre a necessidade de intimação da pessoa jurídica, previamente ao indeferimento de gratuidade da justiça, quando os elementos apresentados na formulação do pedido são tidos pelo julgador como suficientes para evidenciar a falta dos respectivos pressupostos legais.
+3. É importante diferenciar as hipóteses em que o julgador entende serem suficientes os elementos trazidos aos autos para indeferir o pedido de concessão da gratuidade de justiça, daquelas em que os elementos apresentados pelo requerente deixam dúvida ou são insuficientes para comprovar o preenchimento dos respectivos pressupostos.
+4. A melhor interpretação do § 2º do art. 99 do CPC/2015 é no sentido de que deve o juiz, apenas diante da dúvida ou da insuficiência dos elementos apresentados pelo requerente, intimá-lo antes de indeferir o pedido, a fim de possibilitar a devida comprovação do preenchimento dos pressupostos para a concessão da gratuidade de justiça.
+5. Recurso especial conhecido e provido.
+(REsp n. 2.001.930/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 10/3/2023.)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. INTERMEDIAÇÃO DE VENDA DE IMÓVEL. PREPARO DA APELAÇÃO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANACEIRA. CONCESSÃO DE PRAZO PARA O RECOLHIMENTO DO PREPARO DO APELO. AUSÊNCIA DE DESERÇÃO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o entendimento desta Corte, "O pedido de gratuidade de justiça somente poderá ser negado se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão do benefício. Antes do indeferimento, o juiz deve determinar que a parte comprove a alegada hipossuficiência (art. 99, § 2º, do CPC/2015). Indeferido o pedido de gratuidade de justiça, observando-se o procedimento legal, o requerente deve ser intimado para realizar o preparo na forma simples. Mantendo-se inerte, o recurso não será conhecido em virtude da deserção." (REsp 1787491/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 12/04/2019).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.983.818/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO OCORRÊNCIA. PEDIDO DE JUSTIÇA GRATUITA. INDEFERIMENTO DE PLANO. IMPOSSIBILIDADE. INTIMAÇÃO DA PARTE PARA QUE COMPROVE A ALEGADA HIPOSSUFICIÊNCIA.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. A jurisprudência do STJ firmou o entendimento no sentido de que não pode o magistrado indeferir, de plano, o pedido de gratuidade de justiça sem antes determinar que a parte comprove a alegada hipossuficiência.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1849441/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 07/12/2020).
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que conceda, com base no art. 99, § 2º, do CPC/2015, oportunidade ao recorrente de comprovação dos pressupostos relativos à assistência judiciária gratuita.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+O Tribunal de origem manteve a decisão interlocutória que indeferiu o pedido de gratuidade de justiça, pois entendeu que há nos autos indicativo de condições financeiras suficientes para arcar com as custas judiciais, haja vista as informações sobre o imposto de renda, que comprovam que o agravado possui vários imóveis, além de ser sócio de uma empresa de exportação de cereais com capital social no valor de R$ 1.000.000,00 (um milhão de reais), somando um patrimônio de aproximadamente R$ 7.787.946,00 (sete milhões, setecentos e oitenta e sete mil, novecentos e quarenta e seis reais), o que demonstra, a princípio, que possui capacidade de arcar com as despesas processuais de distribuição. A Corte estadual destacou ainda que o valor da causa (embargos à execução) é expressivo, ou seja, de R$ 1.658.256,00 (um milhão, seiscentos e cinquenta e oito mil, duzentos e cinquenta e seis reais).
+Contudo, o requerimento de gratuidade de justiça somente poderá ser indeferido após a intimação previa da parte interessada para comprovar o preenchimento dos pressupostos necessários à concessão da benesse legal. Assim, é nula a decisão que antes de indeferir a gratuidade da justiça, não determina a intimação da parte para comprovar o preenchimento dos pressupostos para a sua concessão.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
