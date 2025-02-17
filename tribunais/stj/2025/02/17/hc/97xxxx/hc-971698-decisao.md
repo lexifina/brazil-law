@@ -1,0 +1,33 @@
+DECISÃO
+MARCELO ABREU OLIVEIRA alega sofrer coação ilegal em face do excesso de prazo para o julgamento da Apelação Criminal n. 5001437-03.2021.8.24.0166, realizado pelo Tribunal de Justiça do Estado de Santa Catarina.
+O paciente foi condenado, em primeiro grau, à pena de 14 anos de reclusão, a ser cumprida no regime inicial fechado, além do pagamento de 1.510 dias-multa, à razão mínima, pelos crimes de tráfico de drogas e associação para a mercancia ilegal de entorpecentes, além de lavagem de capitais - arts. 33 e 35, c/c o art. 40, V, todos da Lei n. 11.343/2006 e art. 1º da Lei n. 9.613/1998. A sentença manteve a custódia cautelar do paciente.
+Nesta Corte, a defesa aponta o excesso de prazo para o julgamento do mencionado apelo defensivo e requer a expedição de alvará de soltura, uma vez que o insurgente está detido há mais de três anos.
+O pedido de urgência foi por mim indeferido pelo Presidente desta Corte Superior às fls. 150-151 e, instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem de habeas corpus.
+Decido.
+I. Contextualização
+O paciente foi condenado, em primeiro grau, à pena de 14 anos de reclusão, a ser cumprida no regime inicial fechado, além do pagamento de 1.510 dias-multa, à razão mínima, pelos crimes de tráfico de drogas e associação para a mercancia ilegal de entorpecentes, além de lavagem de capitais - arts. 33 e 35, c/c o art. 40, V, todos da Lei n. 11.343/2006, e art. 1º da Lei n. 9.613/1998.
+A sentença foi prolatada em 21/9/2023, ocasião em que foi negado ao postulante o direito de recorrer em liberdade.
+II. Excesso de prazo - não ocorrência
+Cumpre registrar, inicialmente, que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), ao se considerar individualmente os casos em juízo e suas particularidades.
+Consoante o entendimento desta Corte Superior:
+ ..  O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais (Precedentes do STF e do STJ)  ..  (RHC n. 58.274/ES, Rel. Ministro Félix Fischer, 5ª T., DJe 17/9/2015).
+Na espécie, a sentença condenatória impôs ao réu a sanção correspondente, bem como aos demais quinze réus, mas tão somente dois deles foram absolvidos.
+No dia 6/2/2024, o recurso de apelação foi interposto pela defesa em 3/6/2024, o Ministério Público local apresentou as contrarrazões e, em 20/6/2024, o Procurador Geral de Justiça manifestou-se nos autos.
+Ademais, consta no ofício do Tribunal de origem anexado nos presentes autos (fl. 160, destaquei):
+ ..  Recentemente, em 09.01.25, o juízo determinou a juntada de informações e documentos pela apelante Carina a fim de subsidiar a análise do seu pedido de concessão de liberdade provisória sem o acompanhamento do monitoramento eletrônico, além do requerimento de deslocamento. Atualmente, os autos se encontram aguardando inclusão na pauta de sessão de julgamento da 2ª Câmara Criminal desta Corte. No mais, não foram praticados outros atos relevantes em relação ao ora paciente  .. .
+Diante de tal cenário, não percebo desídia ou paralisação indevida do processo por culpa do Judiciário ou do Ministério Público. As instâncias de origem apenas seguiram os ditames legais, haja vista se tratar de organização criminosa extensa, composta por treze réus (haja vista que dois foram absolvidos), o que demanda múltiplas diligências para estruturar os autos recursais.
+Portanto, afigura-se razoável e proporcional a maior dilação temporal para a análise do feito, dada a multiplicidade de advogados, as condutas praticadas pelos acusados e a complexidade do caso em tela.
+Não observo, pois, excesso de prazo a consubstanciar flagrante ilegalidade que justifique a intervenção prematura desta Corte Superior.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E TORTURA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA. SUPOSTO INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. MODUS OPERANDI. MOTIVAÇÃO IDÔNEA. MEDIDAS CAUTELARES MENOS GRAVOSAS. INSUFICIÊNCIA. RECOMENDAÇÃO 62/CNJ. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O constrangimento ilegal por excesso de prazo só pode ser reconhecido quando a demora for injustificável, o que não se perfaz na hipótese, em que a complexidade do feito, evidenciada na pluralidade de réus (sete denunciados), patrocinados por diferentes defensores, bem como na pluralidade de crimes (organização criminosa, tráfico de drogas e tortura), afasta a ideia de paralisação ou demora indevida na formação da culpa.
+2. Apresentada fundamentação válida para a prisão cautelar, evidenciada no fato de o acusado supostamente integrar organização criminosa (Comando Vermelho), bem como na gravidade concreta da conduta, em face ao modus operandi e à motivação do crime - aparentemente, os representados integram a organização criminosa Comando Vermelho e buscam substituir a própria ordem pública estatal pela ordem da OrCrim aplicando-se tortura/castigo como forma de punir aqueles que comercializam drogas sem autorização, além do fato de que o ora recorrente também teria participado da suposta emboscada e rendido à vítima com uma arma de fogo - não há falar em ilegalidade.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. A alegação de aplicabilidade da Recomendação 62 do CNJ não foi objeto de análise do acórdão impugnado, não podendo ser conhecida por esta Corte Superior, sob pena de supressão de instância.
+5. Agravo regimental improvido (AgRg no RHC n. 142.736/MT, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 20/8/2021).
+Ademais, há de ser realizada pelo julgador uma aferição do caso concreto. Esta Corte Superior tem reiterada jurisprudência de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória que, na espécie, é de 14 anos de reclusão.
+Constatadas, então, a compatibilidade do prazo, a diligência do Estado no processamento do feito e a longa pena fixada, fica afastada, ao menos por ora, a alegação de excesso de prazo.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
