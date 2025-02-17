@@ -1,0 +1,11 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA ÚNICA DE MORROS - MA suscita conflito de competência, em inquérito policial, diante do JUÍZO FEDERAL DA 1ª VARA DE SÃO LUÍS - SJ/MA.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente (federal ou estadual) para a adoção de eventuais medidas judiciais que se façam necessárias em investigação deflagrada pela suposta irregularidade na utilização de precatórios do FUNDEF para pagamento de honorários advocatícios.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 1ª Vara de São Luís - SJ/MA, ora suscitado (fls. 333.335).
+Decido.
+Registo, de início, que " a pós o julgamento do CC nº 119.305/SP, a Terceira Seção desta Corte, mudando a jurisprudência até então pacificada, passou a entender ser da competência da Justiça Federal a apuração, no âmbito penal, de malversação de verbas públicas oriundas do FUNDEF  atual Fundeb , independentemente da complementação de verbas federais, diante do caráter nacional da política de educação, o que evidencia o interesse da União na correta aplicação dos recursos" (CC n. 164.113/PR, relator Ministro Joel Ilan Paciornik, DJe 17/5/2019, destaquei).
+De fato, o Supremo Tribunal Federal já havia pacificdo esse entendimento - de que a competência para julgar crimes decorrentes de malversação de verba do Fundo de Manutenção e desenvolvimento do Ensino Fundamental e de Valorização do Magistério (hoje substituído pelo Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação) é da Justiça Federal - como se observa, v. g., no HC n. 100.772/GO, relator Ministro Gilmar Mendes, DJe 6/2/2012 e ACO n. 1109/SP, relatora Ministra Ellen Gracie, DJe 7/3/2012, entre outros.
+Correta, portanto, a afirmação do Ministério Público Federal, quando pontuou que assiste "razão o juízo suscitante, uma vez que cabe à Justiça Federal a competência para análise da regularidade da aplicação das verbas repassadas pelo Governo Federal relativas ao FUNDEF" (fl. 334).
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara de São Luís - SJ/MA, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
