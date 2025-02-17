@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONTRATOS ADMINISTRATIVOS. ART. 1.022 DO CPC/2015. OFENSA. NÃO OCORRÊNCIA. ALTERAÇÃO UNILATERAL DO CONTRATO. REEQUILÍBRIO ECONÔMICO-FINANCEIRO. NÃO CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação do art. 1022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+3. A Corte a quo, após ampla análise dos instrumentos contratuais, bem como do conjunto fático-probatório, concluiu que não houve modificação unilateral no contrato, tampouco violação aos termos do edital, e que não houve enriquecimento injustificado por parte do Poder Público. Incidência das Súmulas 5 e 7 do STJ
+4. Agravo interno não provido.
+O embargante sustenta, em síntese, que o acórdão recorrido incorreu em omissões ao não analisar integralmente os argumentos apresentados no agravo interno, especialmente aqueles que evidenciam o desequilíbrio econômico-financeiro no contrato, decorrente de ato unilateral do Poder Concedente.
+Alega que esta Corte Superior deixou de considerar os fundamento s que demonstram a negativa de prestação jurisdicional pelo Tribunal de origem. Argumenta, ainda, que, ao reafirmar a incidência das Súmulas 5 e 7 do STJ, desconsiderou-se que a controvérsia envolve exclusivamente questões de direito.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que não houve violação ao art. 1.022 do CPC/2015 pela Corte de origem. Além disso, concluiu que alterar a decisão firmada pelo TJSP, no que se refere à ausência de modificação unilateral do contrato, à inexistência de violação aos termos do edital e à ausência de enriquecimento injustificado por parte do Poder Público, demandaria a análise do conjunto fático-probatório, providência vedada pelo entendimento consolidado nas Súmulas 5 e 7 do STJ.
+Destaca-se do acórdão recorrido (fl. 1029/0130e):
+Isso porque, conforme bem consignado por ocasião da decisão monocrática, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Na espécie, a Corte de origem assentou que (fls. 716/717e):
+O Acórdão foi claro ao observar que "não consta no edital qualquer obrigação da contratante em garantir a receita referente à prestação de serviços complementares, entre eles, aquela advinda dos serviços de recolhimentos de veículos em pátios. Há, tão somente, a possibilidade de auferimento de receitas relativas a serviços complementares (..) anteriormente à data da celebração do contrato objeto destes autos, foi firmado em 02.10.2006, um Convênio entre a Secretaria de Segurança Pública do Estado de São Paulo e o DER/SP, a fim de disciplinar a participação da Polícia Militar do Estado no policiamento e fiscalização de trânsito e transporte rodoviário, conforme a competência estabelecida pelo Código de Trânsito Brasileiro. Assim, quando da assinatura do contrato administrativo em 02.4.2009, a remoção e o recolhimento dos veículos apreendidos pela Polícia Militar já ocorriam em pátios de empresas credenciadas junto ao DER/SP. Não há direito ao reequilíbrio econômico-financeiro com base em circunstâncias ou eventos anteriores à assinatura do contrato. Também não se verifica a alteração unilateral do contrato em questão pelo Poder Concedente como alega a Autora, não se vislumbrando o seu alegado direito ao reequilíbrio econômico-financeiro pleiteado".
+Simples leitura da peça em que consubstanciados os presentes embargos de declaração mostra, com hialina clareza, resultarem do natural inconformismo de quem não se viu atendido pelo pronunciamento judicial, o que, por si, já revela o seu caráter infringente.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Ademais, verifica-se que a Corte de origem firmou compreensão de que não houve modificação unilateral no contrato, tampouco violação aos termos do edital, e que não houve enriquecimento injustificado por parte do Poder Público.
+Às fls. 680/681e, o Tribunal a quo destacou:
+Extrai-se dos autos que foi celebrado um contrato de Concessão Rodoviária nº 003/ARTESP/2009 em 02/04/2009 (fls. 69/98) entre a ARTESP e a Concessionária Rota das Bandeiras S/A, para a exploração do sistema rodoviário correspondente ao Corredor Dom Pedro I.
+Acerca da remuneração em razão da exploração do sistema rodoviário, o Edital de Concorrência Pública Internacional nº 002/2008 prevê em sua cláusula 22.2 (fls 126/127):
+"22.2. Além das tarifas de pedágio mencionadas, a CONCESSIONÁRIA poderá ainda ser remunerada pelas seguintes fontes acessórias de receita: (..) VII. Receitas acessórias decorrentes da prestação de serviços complementares." (g.n.)
+Ou seja, não consta no edital qualquer obrigação da contratante em garantir a receita referente à prestação de serviços complementares, entre eles, aquela advinda dos serviços de recolhimentos de veículos em pátios. Há, tão somente, a possibilidade de auferimento de receitas relativas a serviços complementares.
+Por sua vez, o Anexo 08, Quadro 6B do Edital trata-se de um formulário a ser apresentado na ocasião da elaboração da proposta para análise da Agência Reguladora de sua exequibilidade (fls. 181), assim o item 1.10 ("Liberação e apreensão de veículos") não gera qualquer obrigação, uma vez que se trata de possível receita, tão somente.
+Ademais, conforme afirmado pela ARTESP, anteriormente à data da celebração do contrato objeto destes autos, foi firmado em 02.10.2006, um Convênio entre a Secretaria de Segurança Pública do Estado de São Paulo e o DER/SP, a fim de disciplinar a participação da Polícia Militar do Estado no policiamento e fiscalização de trânsito e transporte rodoviário, conforme a competência estabelecida pelo Código de Trânsito Brasileiro.
+Assim, quando da assinatura do contrato administrativo em 02.4.2009, a remoção e o recolhimento dos veículos apreendidos pela Polícia Militar já ocorriam em pátios de empresas credenciadas junto ao DER/SP.
+Não há direito ao reequilíbrio econômico-financeiro com base em circunstâncias ou eventos anteriores à assinatura do contrato.
+Também não se verifica a alteração unilateral do contrato em questão pelo Poder Concedente como alega a Autora, não se vislumbrando o seu alegado direito ao reequilíbrio econômico-financeiro pleiteado.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão exigiria a revisão de cláusulas do instrumento público firmado entre as partes, bem como a incursão no acervo fático-probatório da causa, o que é vedado no âmbito do recurso especial. Incide à hipótese as Súmulas 5 e 7/STJ.
+Evidencia-se, nesse sentido, não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já julgado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
