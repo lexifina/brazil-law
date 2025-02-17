@@ -1,0 +1,20 @@
+DECISÃO
+HENRIQUE ANTÔNIO ITABORAI ECHTERNACHT opõe embargos de declaração contra a decisão fls. 133-137, por meio do qual conheci do habeas corpus e, na extensão, deneguei a ordem.
+A defesa sustentou constrangimento ilegal por excesso de prazo da prisão preventiva e, alternativamente, pelo não preenchimento dos requisitos para a manutenção da medida extrema, pois ancorada, tão somente, na gravidade abstrata do delito.
+Além disso, argumentou a nulidade do feito, porque, em síntese, "não há gravação da exposição da tese da defesa em plenário nos debates orais, o que gera falta de conhecimento de todos os atores processuais acerca das matérias arguidas e não gravadas na ocasião do julgamento no tribunal do júri" (fl. 5).
+O réu foi condenado à pena de 12 anos de reclusão, a ser cumprida no regime fechado, pela prática do delito de homicídio qualificado - art. 121, § 2º, II, do Código Penal.
+Nas razões deste recurso, o embargante aduz vício de omissão porque no teor da decisão não houve a análise do "motivo (ilegalidade) que ensejou a impetração do writ, consignando fundamentação sobre tema diverso quando da análise da concessão ou não da ordem de habeas corpus"  ..  (fl. 143).
+Assinala, ainda, que (fl. 144):
+ ..  a fundamentação presente no HC não diz respeito a degravação, e sim a disponibilização da gravação da tese defensiva e da questão de ordem durante a sessão de julgamento. O principal fundamento do HC é a ausência da gravação da exposição da tese defensiva no plenário do tribunal do júri durante a sessão de julgamento, o que impossibilitou, induvidosamente, que o novo advogado responsável pela impetração do recurso de apelação tivesse acesso as teses apresentadas aos srs. Jurados, bem como que os doutos desembargadores do Tribunal de Justiça de Minas Gerais pudessem ter acesso a questão de ordem da defesa levantada e negada pela magistrada que presidiu o julgamento  .. .
+Requer, assim, sejam acolhidos os aclaratórios.
+Decido.
+Na hipótese, noto que a irresignação da parte se resume ao inconformismo com o resultado do julgado, que lhe foi desfavorável.
+O art. 475 do Código de Processo Penal determina que, se possível, o registro do interrogatório e dos depoimentos colhidos em Juízo seja feito por meios ou recursos de gravação magnética, estenotipia ou técnica similar, com o objetivo de se obter "maior fidelidade e celeridade na colheita da prova". O referido dispositivo legal preceitua, ainda, e sem maiores detalhes, que a transcrição do registro, feita a degravação, constará dos autos.
+O acórdão recorrido está em harmonia com o entendimento sedimentado nesta Corte de Justiça, não havendo que se falar em qualquer nulidade. Isso porque, embora haja ocorrido falha técnica na gravação de parte da sustentação oral da defesa, o Tribunal local afirmou que a manifestação do Ministério Público estadual, só por haver sido disponibilizada na íntegra, por si só, não gera prejuízo à defesa, dado que não é ausente a gravação.
+Ainda que assim não fosse, está devidamente descrito na ata da sessão do Júri que "o representante do Ministério Público sustentou a acusação, de conformidade com a pronúncia, usando a palavra das 17:46 horas às 19:18 horas" (ordem nº 346), e que "o ilustre advogado usou a palavra de 19h28min até 20h58min (por 1h30min, portanto), há, na mídia disponibilizada (fls. 31-38)" (fl. 31).
+Portanto , reitero: contrariar esse entendimento para afirmar que haveria ocorrido malferimento à garantia da ampla defesa e do pleno exercício do contraditório, devido ao teor da gravação faltante, implicaria revolver fatos e provas dos autos, procedimento vedado no âmbito da presente ação constitucional.
+Ademais, a mens legis visa a maior celeridade e efetividade do processamento das ações penais, com a utilização das facilidades tecnológicas atualmente disponíveis, motivo pelo qual se trata, tão somente, de uma faculdade.
+Logo, não há omissão a ser sanada.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
