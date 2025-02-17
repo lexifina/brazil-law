@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que não admitiu o recurso especial com fundamento na incidência da Súmula 7/STJ e 280/STF.
+O acórdão recorrido foi assim ementado:
+REMESSA NECESSÁRIA - NÃO CONHECIMENTO - APELAÇÃO CÍVEL - AÇÃO DE IMPROBIDADE ADMINISTRATIVA - DIÁRIAS DE VIAGEM - VEREADOR - PRESTAÇÃO DE CONTAS DE MODO SIMPLIFICADO - PREVISÃO LEGAL - DANO AO ERÁRIO E MÁ-FÉ - SITUAÇÃO NÃO DEMONSTRADA - IMPROCEDÊNCIA DOS PEDIDOS - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO. 1. Não se submete à remessa necessária a sentença proferida em ação de improbidade administrativa(art. 17-C, § 3º, da Lei nº 8.429/92). 2. Consoante entendimento consolidado pelo TCE/MG, na hipótese em que o agente público é indenizado por meio de diárias de viagem devidamente previstas em lei, admite-se a prestação de contas de forma simplificada. 3. Efetuado o pagamento das diárias ao Vereador na forma prevista na legislação municipal e inexistindo comprovação de dano ao erário ou má -fé do agente político, não há falar-se em improbidade administrativa. 4. Sentença mantida.
+Os embargos de declaração foram rejeitados, tendo em vista a ausência de vícios a serem sanados.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação aos arts. 373, II, 1.022, II, do CPC, assim como aos arts. 60, 62 e 75 da Lei 4.320/1964, sustentando que "na hipótese, ao solicitar e receber da Câmara Municipal de Campos Gerais o pagamento de inúmeras diárias, perfazendo o valor de R$38.600,00 (trinta e oito mil e seiscentos reais), deveria o recorrido ter demonstrado efetivamente o interesse público na realização dos deslocamentos. Contudo, conforme documentação acostada, limitou-se a apontar na maioria das requisições, de maneira genérica, que os deslocamentos eram "para tratar de interesse do município" e visitar deputados" (fl. 863).
+Afirma que "o prejuízo ao erário é evidente, uma vez que o uso indevido da verba indenizatória significou maior despesa com o agente político e menor quantitativo de recurso disponibilizado para a promoção de políticas públicas". Ademais, que o dolo "também restou comprovado" (fls. 863-864).
+É o relatório.
+Decido.
+De início, não se reconhece a violação ao art. 1.022 do CPC, uma vez que o Tribunal de origem dirimiu as questões necessárias à solução da lide de forma suficientemente fundamentada. Destaque-se que "não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (STJ, AgInt no REsp 2.072.333/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2023).
+Quanto ao art. 373, II, do CPC, impende registrar que o dispositivo não contém comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, o que atrai o óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Quanto à ocorrência do suposto ato ímprobo praticado pelo ora recorrido, o Tribunal de origem consignou o seguinte:
+Cinge-se a controvérsia em perquirir se as condutas imputadas ao requerido Alexandre Flávio, Vereador do Município de Campos Gerais no período de 2013 a 2016, configuraram ato de improbidade administrativa.
+ ..
+No âmbito do Estado de Minas Gerais, o Tribunal de Contas Estadual, órgão competente para emitir o parecer prévio acerca das contas do Estado e dos Municípios mineiros, editou, em 29/08/90, a Súmula nº 82, a qual preceituava que a regularidade dos gastos com viagens dos chefes do Poder Executivo era passível de ser comprovada por meio de simples relatório de viagens:
+ ..
+Contudo, a súmula em comento foi revogada em novembro de 2008, oportunidade em que também foi reformulado o enunciado nº 79 da Sumula do TCE/MG, o qual passou a ter a seguinte redação:
+ ..
+Verifica-se, pois, que a jurisprudência atual do TCE/MG é no sentido de que, "com o cancelamento da Súmula nº 82 deste Tribunal (TCE/MG), os agentes políticos devem se adequar às mesmas regras aplicáveis aos servidores públicos" (Consulta nº 775.051, data da sessão: 16/06/2010).
+Com a equiparação do tratamento dispensado aos agentes políticos e aos servidores públicos no que diz respeito aos gastos com viagens, o TCE/MG adequou-se às balizas da transparência dos gastos públicos e do dever de prestar contas, positivadas no art. 70, Parágrafo único, da CRFB/88:
+ ..
+Constitui fato incontroverso nos autos que, no âmbito do Município de Campos Gerais, ao tempo dos fatos, havia leis municipais estabelecendo o regime de diárias de viagens mediante prestação de contas simplificada por meio de relatório em formulário próprio (Leis Municipais nºs 2.879/12 e 3.119/14).
+A propósito, destaca-se a previsão da Lei Municipal nº 3.119/14, que dispõe sobre a concessão de diárias de viagem aos agentes políticos e servidores públicos no âmbito do Poder Legislativo Municipal de Campos Gerais, acostada à ordem 02:
+ ..
+Nesse contexto, as prestações de contas referentes às diárias de viagem realizadas pelo agente político devem ser consideradas hígidas, porquanto, havendo previsão legal do pagamento das diárias, a prestação de contas pode ser efetuada de maneira simplificada (fls. 818-823).
+Todavia, os fundamentos em destaque não foram impugnados, razão pela qual incide o óbice da Súmula 283/STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Além disso, conforme se vê, apesar de constar nas razões do recurso especial a indicação de ofensa a dispositivos legais, verifico que parte da análise da controvérsia foi dirimida com base na Lei Municipal 3.119/2014, ato normativo que não se equipara à lei federal. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CREDENCIAMENTO JUNTO AO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO (MAPA). EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITO. ARTS. 489, § 1º, E 1022 DO CPC/2015. OMISSÃO NÃO CARACTERIZADA. INCABÍVEL A ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ. CONTROVÉRSIA QUE DEMANDA A INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.
+ ..
+5. O exame da controvérsia demanda a análise da IN n. 54/2011 do MAPA, ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+6. Agravo interno não provido (AgInt no REsp n. 1.646.468/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 20/4/2020, DJe de 24/4/2020).
+No mais, decidir de forma contrária - para reconhecer como típica a conduta ímproba imputada ao recorrido - , demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios, nos termos do art. 18 da Lei 7.347/1985.
+Intimem-se.
+EMENTA
