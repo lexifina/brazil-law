@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se embargos de declaração opostos por PORTILINEA INDÚSTRIA DE MÓVEIS LTDA e OUTROS contra decisão unipessoal que não conheceu do agravo em recurso especial que interpuseram, devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Nas razões do presente recurso, afirma a parte embargante, em síntese, que a decisão embargada teria sido omissa e contraditória quanto aos argumentos que demonstraram a inaplicabilidade das Súmulas 7 e 83/STJ, bem como alegam que a insurgência não seria superficial e genérica, argumentando que teriam analisado os fundamentos da decisão que não admitiu o apelo nobre e que teriam atacado de forma específica e amplamente fundamentada cada um deles, além de que teriam registrado que foi interposto e admitido recurso especial idêntico.
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, o que não se verifica na espécie.
+Com efeito, verifica-se que a decisão embargada foi devidamente clara e fundamentada quanto ao não conhecimento do agravo em recurso especial, devido à ausência de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial, apontando que a parte agravante não demonstrou, de maneira específica e consistente, a inaplicabilidade dos óbices acerca da i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83 do STJ), e da ii) incidência da Súmula 7 do STJ, não havendo que falar, portanto, em omissão e contradição do decisum.
+Necessário salientar, ainda, que a contradição autorizativa do manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: EDcl no REsp 1.863.973/SP, Segunda Seção, DJe 28/6/2022; EDcl no REsp 1.750.660/SC, Primeira Seção, DJe 29/6/2022.
+O vício da contradição ocorrerá, portanto, quando no bojo da mesma decisão ou acórdão existirem argumentos que não sejam conciliáveis entre si, isto é, um capaz de superar o outro. Nesse sentido: EDcl no AgInt nos EAREsp 1.125.072/RJ, Corte Especial, DJe 2/4/2019.
+Na verdade, a pretexto de omissão e contradição, verifica-se que a parte embargante pretende se valer dos embargos de declaração para rediscutir a conclusão adotada na decisão embargada e tentar fazer prevalecer o seu entendimento quanto a ela, pretensão essa que, todavia, não é compatível com os estreitos limites dessa espécie recursal.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no recurso especial rejeitados.
