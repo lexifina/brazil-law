@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por PAULO ROBERTO SILOCCHI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento - Habilitação de crédito em recuperação judicial - Decisão recorrida que determinou que o habilitante comprove, no prazo de 10 (dez) dias, sua situação de hipossuficiência econômica ou recolha as custas judiciais e despesas processuais, sob pena de extinção - Inconformismo do habilitante - Preclusão configurada quanto à imposição das custas e despesas, a impossibilitar a rediscussão dela neste recurso - Exame do processado que revela, de toda maneira, que a habilitação de crédito foi, sim, regularmente processada, contando com manifestações das recuperandas, da administradora judicial e do Órgão Ministerial oficiante na origem, a impossibilitar a incidência do artigo 290 do Código de Processo Civil - Decisão mantida - Recurso desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 90, § 4º, 290 e 1.040, § 2º, do Código de Processo Civil, no que concerne à ausência de preclusão quanto à sucumbência recursal, trazendo a seguinte argumentação:
+O Tribunal negou provimento ao agravo de instrumento de origem, diante da ocorrência de suposta preclusão em face da decisão que determinou o pagamento das custas finais nos autos de origem.
+Segundo o voto do Relator, que foi acompanhado pelos demais Desembargadores, a recorrente não teria se insurgido no momento oportuno, quando da intimação acerca da decisão que homologou a desistência da ação de origem e determinou o pagamento das custas, na forma da Lei. Assim, seria irrecorrível o despacho que intimou a parte para o pagamento das custas finais.
+ ..
+Ministros, nenhuma das partes apresentou contestação à habilitação de crédito de origem, tendo as partes somente concordado com o pedido de desistência.
+Ou seja, não há que se falar na triangulação da relação processual, sendo incabível qualquer intimação para o pagamento de custas finais.
+ ..
+Por fim, insta esclarecer que o autor buscava na presente demanda a regularização de crédito de natureza trabalhista, não sendo razoável a condenação deste ao recolhimento de custas na monta de R$ 12.971,65 (doze mil novecentos e setenta eum rezeis e sessenta centavos), sem que, ao menos, tenha sido estabelecido o contraditório.
+Logo, tratando-se de desistência antes da citação, sem efetiva atuação na prestação jurisdicional, não se justifica tal cobrança (referente às custas). (fls. 69-73).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Conforme registrado na decisão de processamento, extrai-se do processado que a determinação de recolhimento das custas processuais não decorre da r. decisão recorrida, tratando-se, na realidade, de matéria expressamente abordada na r. decisão que julgou extinta a habilitação de crédito, conforme segue:
+ ..
+Nesse cenário, seria natural concluir, como de fato é, que as custas processuais foram impostas ao agravante, nos termos do caput do artigo 90 do Código de Processo Civil, segundo o qual, "proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu".
+Acrescenta-se que essa r. decisão foi publicada em 9 de maio de 2023 (fls. 116 dos autos originários), de modo que o prazo para interposição de recurso contra ela há muito se esgotou.
+Mais tarde, em 14 de agosto de 2023, diante da inércia do agravante, sobreveio ato ordinário que determinou a "intimação da(s) parte(s) para pagamento das custas em aberto" (fls. 120 dos autos originários), sendo que foi somente após tal ato que o agravante pugnou pela "dispensa do autor do recolhimento das custas ante a ausência da formação do contraditório", o que, por sua vez, levou à prolação da r. decisão recorrida (fls. 122/123 e 124 dos autos originários).
+Nesse cenário, tem-se configurada a preclusão da matéria, a impossibilitar a rediscussão dela neste recurso.
+Se não bastasse isso, tratando-se o feito de origem de habilitação de crédito, a agravada foi intimada a manifestar-se a respeito dele mediante publicação no Diário de Justiça eletrônico em 2 de setembro de 2023, cerca de vinte dias antes da apresentação da petição de desistência (fls. 80/82, 83 e 84 dos autos originários), a revelar que a narrativa aqui defendida pelo agravante é exagerada.
+Além disso, extrai-se do processado que todas as partes interessadas, isto é, recuperandas, administradora judicial e Órgão Ministerial oficiante chegaram a manifestar-se nos autos originários, de modo que, apesar de ter sido prematuramente extinta em decorrência da desistência manifestada, a habilitação foi, sim, regularmente processada.
+Nesse cenário, ainda que não houvesse preclusão, não seria mesmo o caso de aplicar-se o artigo 290 do Código de Processo Civil à espécie.
+Também não seria o caso de aplicar-se o artigo 90, § 4º, do Código de Processo Civil aqui, pois a r. decisão que julgou a habilitação de crédito foi amparada na desistência expressa e pura do agravante, não no reconhecimento da procedência do pedido pelas agravadas.
+Vê-se, pois, que o inconformismo do agravante não ilide os fundamentos insertos na r. decisão recorrida que, por isso, é mantida, inclusive pelos fundamentos aqui assinalados. (fls. 42-44, grifos meus).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
