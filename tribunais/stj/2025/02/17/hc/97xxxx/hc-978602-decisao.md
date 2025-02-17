@@ -1,0 +1,22 @@
+DECISÃO
+JOSÉ RICARDO RAMIREZ BERMUDEZ alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de origem (HC n. 2339346-11.2024.8.26.0000).
+O paciente foi condenado a cumprir pena privativa de liberdade em regime semiaberto, e o Juiz da Vara de Execuções Criminais (VEC) determinou a expedição de mandado de prisão sem antes intimá-lo pessoalmente para o início da execução. A impetrante busca a concessão da ordem, para observância da Resolução n. 474/2022 do CNJ.
+Decido.
+O Conselho Nacional de Justiça estabeleceu, no art. 23 da Resolução n. 417, de 21 de setembro de 2021 que, uma vez transitada em julgado a condenação em regime semiaberto ou aberto, o Juiz da VEC deverá intimar o sentenciado para recolhimento espontâneo, previamente à expedição de mandado de prisão, sem prejuízo, em caso de falta de vagas, da observância das providências estabelecidas no RE 641.320/RS.
+Ao interpretar a resolução, o julgador precisa ter cuidado para não criar brechas que facilitem a resistência ao cumprimento da pena e a prescrição executória.
+O intuito da resolução foi prevenir a situação de superlotação do sistema prisional e impedir que condenados ao regime inicial aberto ou semiaberto, que responderam ao processo em liberdade, aguardem presos, em situação similar ao regime fechado, a transferência para estabelecimento adequado.
+Em cada caso, deve ser feita a distinção sobre a necessidade de intimação prévia da Resolução n. 474 do CNJ.
+Se for constatado que o apenado já iniciou o cumprimento da pena em estabelecimento adequado ou que está em local incerto e não existe endereço atualizado nos autos onde possa ser intimado pessoalmente, não se aplica a exigência. Será imprescindível a expedição do mandado de prisão conforme a previsão do art. 674 do CPP e o art. 105 da LEP para garantir o início da execução e a efetividade da sentença.
+Na situação em apreço, há notícia de mandado de prisão expedido após condenação que transitou em julgado no dia 18/6/2019, quando ainda não existia a Resolução n. 474/2022.
+Ademais, o apenado foi intimado para dar início ao cumprimento da pena, sem êxito, antes mesmo da reconversão das penas substitutivas. Ele está em local incerto e a determinação do Juiz da VEC é necessária para evitar a prescrição executória.
+A petição do habeas corpus não traz informação sobre o endereço atualizado do sentenciado. Além disso, não há nenhum risco de violação à Súmula Vinculante n. 56, uma vez que o Juiz da VEC, de forma antecipada, assim decidiu:
+Após a prisão, a serventia deverá certificar, no prazo de setenta e duas (72) horas, se JOSE RICARDO RAMIREZ BERMUDEZ está recolhido em estabelecimento penal adequado, enviando imediatamente os autos à conclusão em caso negativo, conforme os termos do Comunicado nº 724/2023 da Egrégia Corregedoria Geral da Justiça do Estado.
+Sem prejuízo, em caso negativo, desde logo fica determinada:
+I. A transferência de JOSE RICARDO RAMIREZ BERMUDEZ para prisão domiciliar, onde aguardará vaga em estabelecimento de regime semiaberto, vedada a saída residencial, salvo casos excepcionais, com prévia análise e autorização do Juízo da Execução, sob pena de caracterização de infração disciplinar a determinar regressão de regime;
+II. A adoção de fiscalização eletrônica de JOSE RICARDO RAMIREZ BERMUDEZ, via da Secretaria de Estado da Administração Penitenciária;
+III. O encaminhamento de ofício, com cópia desta decisão, ao senhor Secretário de Estado da Segurança Pública, requisitando-se de Sua Excelência a determinação de fiscalização junto à residência do sentenciado pelas polícias Civil ou Militar, quando em vigilância na região.
+audiência de advertência será realizada pela Direção do Presídio, devendo em tudo ser observado o disposto na Lei de Execução Penal, servindo cópia desta decisão de Termo de Advertência.
+Assim, não há ilegalidade no acórdão recorrido, pois, "ao interpretar a Resolução n. 417/2021 do CNJ, o julgador precisa ter cuidado para não criar brechas que possibilitem resistência à execução. Em hipótese de apenado em local incerto, será necessária a determinação da prisão (conforme o art. 674 do CPP e o art. 105 da LEP) para evitar a prescrição e garantir a efetividade da sentença" (AgRg no HC n. 890.182/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
