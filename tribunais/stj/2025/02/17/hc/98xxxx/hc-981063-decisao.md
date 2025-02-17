@@ -1,0 +1,27 @@
+DECISÃO
+GUILHERME AUGUSTO JULIÃO JACO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará (Apelação Criminal n. 0620266-43.2025.8.06.0000).
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas.
+A defesa pretende, por meio deste writ, seja fixado o regime inicial semiaberto, ocasião em que invoca o enunciado da Súmula n. 440 do STJ.
+Decido.
+Em relação ao modo de cumprimento da reprimenda, faço lembrar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJ 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+No caso, a Corte estadual assim fundamentou a manutenção do regime inicial fechado, in verbis (fls. 18-20, grifei):
+Em sentido contrário do que afirma o impetrante, condenação anterior por tráfico de drogas privilegiado (art. 33, §4º, da Lei de Drogas), embora inconteste na jurisprudência dos tribunais que afasta a reincidência específica quando, após o trânsito em julgado da sentença, o agente é condenado por tráfico de drogas (art. 33 da Lei de Drogas), não há previsão legal ou entendimento consolidado de que seria afastada também a reincidência genérica.
+Assim sendo, o fato de o paciente ter sido condenado por tráfico privilegiado com sentença transitada em julgado no dia 03/10/2022, nos autos do processo n. 0001274-58.2019.8.06.0044, conforme extraio da sentença objurgada e de consulta realizada aos sistemas CANCUN e Saj, e posteriormente, antes do período depurador, haver cometido novo delito de tráfico de drogas, pelo qual foi condenado à pena de 5 (cinco) anos de reclusão, afasta incidência do art. 33, §2º, alínea b, o qual transcrevo abaixo:
+ ..
+Pois bem, como antedito, o paciente, embora não seja reincidente específico, é reincidente genérico, e no artigo transcrito, o legislador não faz distinção entre os tipos de reincidência. A jurisprudência construiu entendimento diverso apenas no que diz respeito à não ocorrência de reincidência específica quando transitada a sentença por tráfico privilegiado e, posteriormente, cometido o crime de tráfico comum, para fins de concessão de livramento condicional, vejamos:
+ ..
+Dessa forma, considerando a reincidência do agente, a aplicação do regime inicial fechado para cumprimento da pena encontra fundamento idôneo.
+Verifico, portanto, que o regime inicial fechado foi imposto com amparo na reincidência do réu, o que, de fato, justifica a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada.
+Portanto, em homenagem ao princípio do livre convencimento motivado e uma vez que foram apontados argumentos concretos e específicos dos autos para a escolha do regime prisional fechado, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelo Tribunal de origem para, a pretexto de ofensa do art. 33, § 2º, do CP, fixar regime inicial mais brando de cumprimento de pena ao acusado.
+Ademais, consoante entendimento desta Corte Superior de Justiça, a fixação da pena-base no mínimo legal não impede a aplicação de regime mais gravoso, desde que devidamente justificado nas peculiaridades do caso analisado, tal como ocorreu na hipótese dos autos.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. REPRIMENDA INFERIOR A 8 ANOS DE RECLUSÃO. PENA-BASE NO MÍNIMO LEGAL. FIXAÇÃO DO REGIME FECHADO COM ESTEIO EM FUNDAMENTO CONCRETO. QUANTIDADE DE DROGA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para fixação do regime inicial de cumprimento da pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+2. Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, o que ocorreu no caso em apreço.
+3. Na espécie, apesar de a pena-base ter sido estabelecida no mínimo legal, o regime mais severo foi devidamente fundamentado no montante de droga apreendida - 1,435kg (um quilo, quatrocentos e trinta e cinco gramas) de cocaína e 1,860 kg (um quilo, oitocentos e sessenta gramas) de haxixe. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 622.355/MS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 18/2/2021).
+Não há falar, portanto, em inobservância ao enunciado nas Súmulas ns. 718 e 719 do STF e 440 do STJ. Fica, então, mantida inalterada a fixação do regime inicial fechado de cumprimento de pena.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
