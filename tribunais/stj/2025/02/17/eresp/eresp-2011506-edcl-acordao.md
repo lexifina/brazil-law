@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. INTUITO INFRINGENTE. PROCESSUAL CIVIL. EXECUÇÃO. EXTINÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Acórdão embargado que, de forma fundamentada, reiterou decisão acerca do descabimento da fixação de verba honorária em favor do executado quando reconhecida a prescrição intercorrente. Aplicação do princípio da causalidade, não podendo o devedor se beneficiar do descumprimento de sua obrigação.
+3. A alegação de incapacidade processual do Banco embargado não constitui fato novo e se trata de reiteração de matéria já decidida em caráter definitivo. Ausente o alegado cerceamento de defesa acerca do tema.
+4. Incabível reconhecer a nulidade do julgamento virtual, por meio do qual houve a apreciação do recurso pelo órgão colegiado, atendidos os princípios da colegialidade, da adequada duração do processo e do devido processo legal.
+5. Reconhecimento da causalidade para o afastamento dos ônus sucumbenciais embasado na extinção da execução por prescrição intercorrente. Ausente qualquer elemento que demonstre a alegada omissão do julgado acerca do tema.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MENDES JUNIOR ENGENHARIA S/A ao acórdão assim ementado:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. INTUITO INFRINGENTE. PROCESSUAL CIVIL. EXECUÇÃO. EXTINÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Acórdão embargado que, de forma fundamentada, decidiu ser incabível a fixação de verba honorária em favor do executado quando reconhecida a prescrição intercorrente. Aplicação do princípio da causalidade, não podendo o devedor se beneficiar do descumprimento de sua obrigação.
+3. A alegação de incapacidade processual do Banco embargado não constitui fato novo e se trata de reiteração de matéria já decidida em caráter definitivo, devendo, portanto, ser afastada.
+4. Não há motivo para reconhecer a nulidade do julgamento virtual, por meio do qual houve a apreciação do recurso pelo órgão colegiado, atendidos os princípios da colegialidade, da adequada duração do processo e do devido processo legal.
+5. O exercício do direito de ação ou de defesa, sem elemento suficiente capaz de induzir o magistrado ou a parte adversa a erro, afasta a condenação à multa por litigância de má-fé.
+6. Embargos de declaração rejeitados" (e-STJ fl. 1.098).
+Em suas razões (e-STJ fls. 1.109/1.113), a parte embargante sustenta que a decisão dos embargos de declaração anteriormente opostos teria levado em conta o relato trazido pela parte embargada, sem ouvir a embargante, como determina o art. 437, § 1º, do Código de Processo Civil.
+Além disso, reitera que o Banco embargado teria sido extinto por incorporação desde o ano de 2017, matéria de ordem pública, o que importaria sua incapacidade processual e o consequente não conhecimento do recurso especial.
+Alega, também, cerceamento de defesa porque o julgamento teria sido virtual e não teria sido ouvido o seu procurador presencialmente pelo Relator e pela Turma julgadora.
+Ainda, reitera a necessidade de aplicação adequada da causalidade porque, no caso, "O Banco se aventurou na execução de forma descuidada, se fazendo inerte perante a execução de garantias que sempre existiram e ainda resolveu por "tentar a chance novamente", mesmo já tendo sido provimento jurisdicional de mérito desfavorável" (e-STJ fl. 1.111).
+Impugnação às e-STJ fls. 1.116/1.124.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. INTUITO INFRINGENTE. PROCESSUAL CIVIL. EXECUÇÃO. EXTINÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Acórdão embargado que, de forma fundamentada, reiterou decisão acerca do descabimento da fixação de verba honorária em favor do executado quando reconhecida a prescrição intercorrente. Aplicação do princípio da causalidade, não podendo o devedor se beneficiar do descumprimento de sua obrigação.
+3. A alegação de incapacidade processual do Banco embargado não constitui fato novo e se trata de reiteração de matéria já decidida em caráter definitivo. Ausente o alegado cerceamento de defesa acerca do tema.
+4. Incabível reconhecer a nulidade do julgamento virtual, por meio do qual houve a apreciação do recurso pelo órgão colegiado, atendidos os princípios da colegialidade, da adequada duração do processo e do devido processo legal.
+5. Reconhecimento da causalidade para o afastamento dos ônus sucumbenciais embasado na extinção da execução por prescrição intercorrente. Ausente qualquer elemento que demonstre a alegada omissão do julgado acerca do tema.
+6. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Com efeito, verifica-se que as questões suscitadas não constituem omissão, mas mero inconformismo com os fundamentos adotados, o que inviabiliza o seu exame no atual momento processual.
+Consoante o disposto no art. 1.022 do Código de Processo Civil, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão acerca da qual deveria se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no art. 489, § 1º, do CPC, que configurariam a carência de fundamentação válida, e (c) corrigir o erro material.
+Na hipótese, não se verifica violação do art. 437, § 1º, do Código de Processo Civil. Ao contrário do que sustenta a embargante, a decisão embargada referiu expressamente que a questão relacionada à incapacidade do embargante não constituía fato novo.
+Nesse sentido, constou do acórdão embargado:
+"A alegada incapacidade processual do Banco embargado deve ser afastada. O fato não é novo como sustenta a embargante e já foi decidido pela Corte de origem ainda ao tempo dos embargos à execução, ocasião em que reconhecida a legitimidade ativa do Banco Boavista e extinta a execução em relação ao Banco Bradesco, por decisão transitada em julgado.
+Assim, trata-se de reiteração de matéria já decidida em caráter definitivo" (e-STJ fl. 1.103).
+O alegado cerceamento de defesa decorrente do julgamento virtual e da ausência de manifestação oral pelo procurador da parte já foi objeto de apreciação por esta Turma julgadora, conforme se extrai do acórdão embargado:
+"Da mesma forma, não há motivo para reconhecer a nulidade do julgamento virtual, por meio do qual houve a apreciação do recurso pelo órgão colegiado, garantido o atendimento aos princípios da colegialidade, da adequada duração do processo e do devido processo legal.
+Destaca-se, na hipótese, que a parte embargante deixou de postular, tempestivamente, a realização de sustentação oral, conforme se extrai da certidão de fl. 1.007 (e-STJ):
+"Certifico, considerando a petição nº 754133/2024, que é possível a realização de sustentação oral em agravo interno pautado em sessão virtual, nas hipóteses previstas pela Lei n. 14.365/2022, mediante inscrição no site do Superior Tribunal de Justiça, por meio de formulário próprio (https://sustentacaooral. web. stj. jus. br/login), até 48 horas antes do início da sessão, nos termos do art. 184-B, §1º do Regimento Interno do STJ.
+Certifico, ainda, que o prazo para a realização da sustentação oral no presente feito, pautado para a sessão virtual de 03/09 a 09/09/2024, encerrou-se no dia 31/08/2024, às 23:59:59" - grifou-se.
+A propósito da ausência de nulidade do julgamento virtual:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE SUSPEIÇÃO DO PERITO. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. NULIDADE DA DECISÃO POR NÃO OBSERVÃNCIA DA OPOSIÇÃO AO JULGAMENTO VIRTUAL. SÚMULA N. 83/STJ. SUSPEIÇÃO DO PERITO POR INTERESSE NA CAUSA. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme trecho da decisão recorrida colacionado no julgado monocrático, o Tribunal local se manifestou satisfatoriamente sobre o ponto da lide considerado omitido. Logo, sem razão a agravante quando persiste na tese.
+2. A Corte Especial do Superior Tribunal de Justiça já manifestou o entendimento de que "não há razão para retirar o processo do julgamento virtual, quando a parte tem a oportunidade de apresentar memoriais, considerando a conformidade do julgamento virtual aos princípios da colegialidade, da adequada duração do processo e do devido processo legal." (AgInt nos EAREsp n. 1.491.860/SP, relator Ministro Herman Benjamin, Corte Especial, julgado em 16/12/2020, DJe de 18/12/2020). Incidência da Súmula n. 83/STJ.
+3. Também não procede o argumento de não incidência da Súmula 7/STJ, pois a revisão da conclusão a que chegou o Tribunal local (não demonstração da suspeição do perito) demandaria nova incursão no conjunto probatório dos autos.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido" (AgInt nos EDcl no AREsp n. 2.503.054/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024 - grifou-se)" - e-STJ fls. 1.103/1.104.
+Finalmente, também não merecem acolhida as alegações acerca da causalidade, as quais constituem reiteração de argumentos já apresentados e afastados em diversas oportunidades por esta Turma julgadora.
+O reconhecimento da causalidade para o afastamento dos ônus sucumbenciais foi embasado na extinção da execução por prescrição intercorrente, como já afirmado anteriormente, ausente qualquer elemento que demonstre a alegada omissão do julgado acerca do tema.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+É o voto.
