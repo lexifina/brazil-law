@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL . SÚMULAS 7/STJ, 282/STF E 356/STF. FALTA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. MULTA DO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, fundamentada nas Súmulas 7/STJ, 282/STF e 356/STF. A ação originária busca indenização por danos morais e materiais decorrentes de condenações trabalhistas atribuídas à agravante por acidente de trânsito supostamente causado pelo agravado. O juízo de primeiro grau julgou improcedente o pedido, decisão mantida pelo Tribunal de origem.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se houve violação ao art. 324, § 1º, II, do CPC, no que concerne à desnecessidade de comprovação do dano material relativo a valores ilíquidos; e (ii) avaliar a alegação de violação aos arts. 186 e 927 do CC, quanto à configuração da responsabilidade civil do agravado.
+III. RAZÕES DE DECIDIR
+3. A alegada violação ao art. 324, § 1º, II, do CPC, não pode ser analisada por ausência de prequestionamento, conforme exigido pelas Súmulas 282 e 356 do STF. A questão não foi examinada pela Corte de origem, nem houve interposição de embargos de declaração para sanar a omissão.
+4. Quanto à apontada violação aos arts. 186 e 927 do CC, o Tribunal de origem firmou entendimento, com base nos elementos dos autos, de que as condenações trabalhistas decorrem exclusivamente da relação empregatícia, sendo de responsabilidade exclusiva da agravante, o que afasta a responsabilidade civil do agravado.
+5. O acolhimento da pretensão recursal exigiria o reexame do acervo fático-probatório, o que encontra óbice na Súmula 7/STJ, que veda o revolvimento de provas em sede de recurso especial.
+6. Não se aplica a multa prevista no art. 1.021, § 4º, do CPC, porquanto o recurso não se configura como manifestamente inadmissível ou caracterizado por litigância temerária, tratando-se do regular exercício do direito de recorrer.
+IV. AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de fls. 5.379-5.381, que conheceu do agravo para não conhecer do recurso especial, com fundamento na Súmula 7/STJ e nas Súmulas 282 e 356 do STF.
+Sustenta a agravante que "desde o recurso de apelação, ante a sentença que havia julgado improcedente o pedido, a recorrente vem alegando violação ao artigo 324, § 1º, II", bem como que "que acórdão proferido pelo Tribunal de origem, analisando os argumentos do recorrente, decidiu de maneira contrária a Lei, violando, por isso, o dispositivo citado" (fl. 5.387).
+Afirma ser a análise do mérito do recurso não demanda reexame fático-probatório, pois as premissas fáticas estariam descritas tanto na sentença quanto no acórdão.
+Requer a reconsideração da decisão, a fim de dar provimento ao recurso especial.
+Impugnação apresentada (fls. 5.395-5.401), em que a parte ora agravada pugna pela manutenção da decisão, bem como pela "condenação do Agravante ao pagamento de multa prevista no artigo 1.021, § 4º, do CPC, em razão do caráter manifestamente protelatório do recurso" (fl. 5.400).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL . SÚMULAS 7/STJ, 282/STF E 356/STF. FALTA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. MULTA DO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, fundamentada nas Súmulas 7/STJ, 282/STF e 356/STF. A ação originária busca indenização por danos morais e materiais decorrentes de condenações trabalhistas atribuídas à agravante por acidente de trânsito supostamente causado pelo agravado. O juízo de primeiro grau julgou improcedente o pedido, decisão mantida pelo Tribunal de origem.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se houve violação ao art. 324, § 1º, II, do CPC, no que concerne à desnecessidade de comprovação do dano material relativo a valores ilíquidos; e (ii) avaliar a alegação de violação aos arts. 186 e 927 do CC, quanto à configuração da responsabilidade civil do agravado.
+III. RAZÕES DE DECIDIR
+3. A alegada violação ao art. 324, § 1º, II, do CPC, não pode ser analisada por ausência de prequestionamento, conforme exigido pelas Súmulas 282 e 356 do STF. A questão não foi examinada pela Corte de origem, nem houve interposição de embargos de declaração para sanar a omissão.
+4. Quanto à apontada violação aos arts. 186 e 927 do CC, o Tribunal de origem firmou entendimento, com base nos elementos dos autos, de que as condenações trabalhistas decorrem exclusivamente da relação empregatícia, sendo de responsabilidade exclusiva da agravante, o que afasta a responsabilidade civil do agravado.
+5. O acolhimento da pretensão recursal exigiria o reexame do acervo fático-probatório, o que encontra óbice na Súmula 7/STJ, que veda o revolvimento de provas em sede de recurso especial.
+6. Não se aplica a multa prevista no art. 1.021, § 4º, do CPC, porquanto o recurso não se configura como manifestamente inadmissível ou caracterizado por litigância temerária, tratando-se do regular exercício do direito de recorrer.
+IV. AGRAVO INTERNO DESPROVIDO.
+VOTO
+Apesar das alegações apresentadas neste recurso, verifica-se que a parte recorrente não apresentou qualquer argumento novo que pudesse modificar o entendimento consolidado na decisão contestada, assim proferida (fls. 5.379-5.381):
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+AÇÃO INDENIZATÓRIA. CONDENAÇÃO EM AÇÃO TRABALHISTA. PAGAMENTO. SUB-ROGAÇÃO. INCABÍVEL. DANO MATERIAL. NÃO COMPROVADO. TRATANDO-SE DE CONDENAÇÃO DECORRENTE DE VÍNCULO EMPREGATÍCIO, COMPETE EXCLUSIVAMENTE AO EMPREGADOR A OBRIGAÇÃO PELO PAGAMENTO, POSSIBILITANDO-LHE BUSCAR O DEVIDO RESSARCIMENTO DAQUILO QUE EFETIVAMENTE DESPENDEU (fl. 5.293).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 324, § 1º, II, do CPC, no que concerne à desnecessidade de comprovação do dano material relativo às condenações trabalhistas sofridas pela parte recorrente, por se tratar de valores ainda não líquidos, trazendo a seguinte argumentação:
+Entendeu o acórdão recorrido, ser necessário a comprovação do dano material referente às condenações trabalhistas sofridas pela Recorrente em decorrência do acidente causado pelos Recorridos.
+ ..
+Contudo, data máxima vênia, o pedido feito na presente demanda alcança valores ainda não líquidos que serão/seriam demonstrados quando finalizadas as demandas trabalhistas, tendo, portanto, o acórdão recorrido violado o artigo 324, § 1º, II do CPC.
+ ..
+Desta forma, merece ser reformado o acórdão recorrida para se afastar a necessidade de comprovação prévia dos danos materiais sofridos por conduta comissiva dos Recorridos, haja vista a iliquidez provisória dos pedidos (inciso II do §1º do art. 324 do CPC), que deverão ser apurados ao final das demandas trabalhistas em que a Recorrida foi submetida (fls. 5.309/5.319).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne à configuração da responsabilidade civil da parte recorrida, trazendo a seguinte argumentação:
+Isso porque sendo reconhecida a violação ao artigo 324, § 1º, II do CPC conforme acima exposto, com a possibilidade jurídica do pedido a ser liquidado ao final, resta a negativa de vigência pelo acórdão recorrido dos artigos 927 e 186 do Código Civil que disciplinam o dano e a responsabilidade civil dos recorridos de indenizar a recorrida.
+ ..
+É incontroverso e não demanda análise fática-probatória que os Recorridos agiram com imprudência ao avançar na pista contrário de rolamento causando o acidente que vitimou os trabalhadores, conforme extrai-se do trecho da sentença transcrito no Apelo e reproduzido mais uma vez neste recurso especial, devendo neste ponto ser também reformado o acordão recorrido (fl. 5320).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; e AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Quanto à segunda controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+As condenações sofridas pela apelante perante a Justiça do Trabalho decorrem da relação empregatícia e portanto, dos direitos dela decorrentes, sendo de sua exclusiva responsabilidade o cumprimento das obrigações impostas, as quais não estendem ao apelado que não participava dessa relação.
+A pretensão para que o apelado sub-rogue a apelante nas referidas condenações é totalmente desprovida de fundamento jurídico.
+Lado outro, possível ao apelante valer-se de meios judiciais adequados para o ressarcimento do montante que efetivamente despender, vez que no tocante ao dano material, nestes autos, não há prova cabal do prejuízo sofrido ante a insuficiência comprobatória, ônus que lhe incumbia (fl. 5.292).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+No caso, a ora agravante ajuizou ação de indenização por danos morais em face do agravado, versando "sobre o direito da Requerente em ser indenizada por sentenças condenatórias oriundas da Justiça Especializada do Trabalho que a condenaram a pagar indenizações por danos morais e materiais por acidente de trânsito causado pelo Requerido" (fl. 197).
+O juízo de primeiro grau julgou improcedente o pedido, o que foi mantido pelo Tribunal a quo, sendo, então, interposto recurso especial, cujo seguimento foi negado, dando origem ao agravo em recurso especial.
+Conforme destacou a decisão impugnada, a apontada violação do art. 324, § 1º, II, do CPC - no que concerne à desnecessidade de comprovação do dano material relativo às condenações trabalhistas sofridas pela parte recorrente, por se tratar de valores ainda não líquidos - não foi objeto de análise pela Corte de origem, carecendo do indispensável prequestionamento, incidindo, na hipótese, as Súmulas 282 e 356 do STF.
+Já quanto à apontada violação dos arts. 186 e 927 do CC, o Tribunal de origem, com fundamento em elementos concretos dos autos, decidiu pela não configuração da responsabilidade civil da parte agravada.
+A esse respeito, considerou-se que as condenações sofridas pela agravante perante a Justiça do Trabalho "decorrem da relação empregatícia e portanto, dos direitos dela decorrentes, sendo de sua exclusiva responsabilidade o cumprimento das obrigações impostas, as quais não estendem ao apelado que não participava dessa relação".
+Nesse contexto, a inversão das premissas fáticas do acórdão demandaria amplo revolvimento de provas, encontrando óbice na Súmula 7/STJ.
+Por fim, não prospera o pedido de aplicação de multa formulado pela parte ora agravada.
+Com efeito, "a multa do art. 1.021, § 4º, do CPC não é consequência automática do não conhecimento ou do não provimento unânime do agravo interno quando em virtude do regular direito de recorrer e não verificada hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária" (AgInt no AREsp n. 2.553.339/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJe de 20/12/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
