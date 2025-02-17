@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WAGNER DE ALBUQUERQUE BUENO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+O paciente teve a prisão preventiva decretada pela suposta prática do crime previsto no art. 121, §§ 2º, III, e 4º, do Código Penal.
+A prisão foi decretada visando garantir a ordem pública em razão da gravidade em concreto da conduta (atropelou a vítima quando conduzia sua motocicleta e trafegava somente com a roda traseira sobre o piso, mantendo a roda dianteira empinada) bem como pelo fundado receio de reiteração delitiva pois foi preso em 2022 por conduta idêntica.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem. No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar.
+Requer a revogação da prisão preventiva.
+A liminar foi indeferida (fls. 409/410), bem como o pedido de reconsideração (fls.511/512).
+As informações foram prestadas (fls. 416/458, 459/495).
+O Ministério Público Federal ofereceu parecer (fls.521/523).
+RELATADO. DECIDO.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, passo a analisar a existência de eventual constrangimento ilegal, em razão de alegada nulidade do decreto prisional.
+O paciente foi preso temporariamente por decisão datada de 29/04/2024, sendo decretada sua prisão preventiva em 03/05/2024. Foi mantida quando do recebimento da denúncia , que imputa ao paciente a prática do crime previsto no art. 121, §§ 2º, III, e 4º, do CP.
+O paciente atropelou a vítima, que veio a óbito, quando conduzia sua motocicleta e trafegava somente com a roda traseira sobre o piso, mantendo a roda dianteira empinada.
+O juiz de primeiro grau decretou a prisão cautelar como garantia da ordem pública, " a fim de impedir que o investigado volte a efetuar manobras de altíssimo risco, pondo em risco a ordem pública, a segurança viária e sobretudo a segurança, integridade física e a própria vida dos outros usuários das vias públicas, é imprescindível a decretação da prisão preventiva".
+O Tribunal de origem manteve o decreto de prisão, ressaltando o relator do habeas corpus que " os fatos narrados na decisão combatida demonstram a gravidade concreta dos fatos, porquanto o paciente, em tese, efetuou manobra de risco em sua motocicleta, em plena via pública, expondo a vítima e os demais transeuntes a evidente perigo" (fl.425/426). Ressaltou, também, o fato do ora paciente, no ano de 2022, já ter sido preso em flagrante pela suposta prática do delito de participação de corrida não autorizada na direção de veículo automotor.
+Em 19/12/2024, o juiz de primeiro grau, nos autos da ação penal originária, manteve o decreto de prisão, nos seguintes termos:
+Embora o réu seja tecnicamente primário, os elementos constantes nos autos evidenciam que a manutenção da segregação cautelar é necessária para a garantia da ordem pública, especialmente considerando que o delito em análise não se trata de um fato isolado na vida do acusado, conforme demonstrado nos autos. Tal circunstância reforça o risco concreto de reiteração criminosa, o que corrobora a indispensabilidade da prisão preventiva.
+Ademais, mesmo com a apreensão da motocicleta utilizada pelo réu nos fatos apurados, tal circunstância não afasta o perigo à ordem pública, pois não impede o acusado de continuar praticando manobras perigosas ou condutas semelhantes, considerando que o risco à coletividade decorre de seu comportamento e não apenas do uso específico do veículo apreendido.
+No caso em tela, não vislumbro risco à ordem pública que justifique a manutenção da prisão preventiva do paciente. O crime foi praticado na direção de veículo automotor (motocicleta), que já foi inclusive apreendido . Manter a prisão sob o argumento da possibilidade de reiteração da conduta, não é razoável.
+No caso em tela entendo possível a substituição da prisão preventiva por medidas cautelares diversas da prisão, na forma do artigo 319 do CPP, devendo as mesmas ser fixadas pelo juiz de primeiro grau.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, na forma do artigo 654, § 2º, do CPP em favor de WAGNER DE ALBUQUERQUE BUENO para revogar a prisão preventiva da paciente, sem prejuízo da análise da aplicação de medidas cautelares alternativas pelo juiz de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
