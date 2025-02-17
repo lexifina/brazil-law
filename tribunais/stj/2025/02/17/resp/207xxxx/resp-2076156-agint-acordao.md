@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de cobrança c/c indenização por danos materiais e compensação por danos morais.
+2. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+3. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por NELSON BOEIRA JÚNIOR e RENATO DE LIMA E SOUZA em face da decisão monocrática que não conheceu do recurso especial que interpuseram.
+Ação: de cobrança c/c indenização por danos materiais e compensação por danos morais, ajuizada por NELSON BOEIRA JÚNIOR e RENATO DE LIMA E SOUZA em face de CONSTRUTORA RAMALHO MOREIRA LTDA.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, para i) reconhecendo a mora da construtora ré em entregar o imóvel objeto da ação no prazo contratual estabelecido, condenar a parte ré a adimplir aos autores multa contratual de um salário-mínimo mensal (salário-mínimo vigente à época), no período de março de 2011 a julho de 2011, atualizado pelo índice do ENCOGE desde cada mês de inadimplência (de março a julho de 2011) e acrescido de juros de mora simples de 1% (um por cento) ao mês desde a constituição da mora (março de 2011); ii) condenar a parte ré a adimplir aos autores danos materiais no valor de R$ 19.779,94 (dezenove mil setecentos e setenta e nove reais e noventa e quatro centavos), atualizado pelo índice do ENCOGE desde o dispêndio (fevereiro de 2017) e acrescido de juros de mora simples de 1% (um por cento) ao mês desde a citação da ré (09/10/17) (art. 405 do CC/02); e iii) condenar a parte ré a pagar aos autores compensação por danos morais no valor de R$ 7.000,00 (sete mil reais) para cada, totalizando R$ 14.000,00 (quatorze mil reais), acrescido de correção monetária pelo índice do ENCOGE desde a presente sentença (súmula 362 do STJ) e acrescido de juros de mora simples de 1% (um por cento) ao mês desde a citação da ré (09/10/17) (art. 405 do CC/02).
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela agravada e negou provimento ao recurso adesivo interposto pelos agravantes, nos termos da seguinte ementa:
+CONSUMIDOR, RESPONSABILIDADE CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PRELIMINAR DE ILEGITIMIDADE PASSIVA SUSCITADA PELA RÉ. REJEIÇÃO. AD CAUSAM MÉRITO. PEDIDO DE CONCESSÃO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NÃO DEMONSTRAÇÃO DA HIPOSSUFICIÊNCIA. PAGAMENTO VOLUNTÁRIO DO PREPARO RECURSAL. PREJUDICADO. ATRASO NA CONCLUSÃO DA OBRA E VÍCIOS CONSTRUTIVOS APÓS A ENTREGA DO IMÓVEL. CULPA DA CONSTRUTORA. DANO MORAL CONFIGURADO. ABALO PSICOLÓGICO SUPERIOR AO MERO ABORRECIMENTO. DEVER DE INDENIZAR QUE SE IMPÕE. MINORAÇÃO DO VALOR INDENIZATÓRIO ARBITRADO. ADEQUAÇÃO AOS PRECEDENTES DESTA CORTE. CONHECIMENTO DOS RECURSOS. PROVIMENTO PARCIAL DO APELO DA DEMANDADA. DESPROVIMENTO DO RECURSO ADESIVO DOS DEMANDANTES.
+Embargos de declaração: opostos pelos agravantes e pela agravada, ambos foram rejeitados.
+Recurso especial: ao alegarem a existência de dissídio jurisprudencial, defendem, em síntese, a necessidade de majoração do valor fixado a título de compensação por danos morais.
+Decisão monocrática: a par de conhecer do agravo, não conheceu do recurso especial interposto pelos agravantes, ante a incidência da Súmula 284 do STF.
+Embargos de declaração: opostos pela agravada, foram rejeitados.
+Agravo interno: nas razões do presente recurso, além de reprisar os argumentos do recurso especial, a parte agravante alega que o dispositivo infraconstitucional tido por violado teria sido indicado nas razões recursais.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de cobrança c/c indenização por danos materiais e compensação por danos morais.
+2. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+3. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento apto a modificar as conclusões da decisão agravada.
+Com efeito, a via estreita do recurso especial exige a demonstração inequívoca da ofensa aos dispositivos indicados como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos.
+A parte interessada deve, portanto, demonstrar de forma clara e objetiva os dispositivos supostamente violados, relacionando-os com as razões que justifiquem a ofensa, o que, ao contrário do que alega a agravante, da renovada análise das razões do recurso especial, constata-se que, de fato, não ocorreu no particular.
+Importa ressaltar que, consoante orientação desta Corte Superior, "a mera menção a dispositivos de lei federal ou mesmo a narrativa acerca da legislação que rege o tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenchem os requisitos formais de admissibilidade recursal, a atrair a incidência da Súmula 284/STF" (AgRg no AREsp 722.008/PB, 2ª Turma, DJe 14/09/2015). No mesmo sentido: AgInt no AREsp 2.302.740/RJ, 3ª Turma, DJe 29/2/2024; AgInt no AREsp 1.803.115/DF, 2ª Turma, DJe 3/8/2021; AgInt no AREsp 1.816.608/RJ, 4ª Turma, DJe 16/12/2021 e AgRg no REsp 1.730.869/SP, 5ª Turma, DJe 12/2/2020.
+Frise-se, além disso, que é pacífico o entendimento deste STJ no sentido de que "o recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal. Se nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt no AREsp 2.028.892/PR, 3ª Turma, DJe de 17/10/2022).
+Na mesma toada, confira-se ainda: AgInt no REsp 2.002.098/SE, 3ª Turma, DJe de 20/10/2022; AgInt no REsp 1.403.320/SE, 4ª Turma, DJe de 17/10/2022; AgInt no AREsp 1.881.444/GO, 4ª Turma, DJe de 26/9/2022.
+Inafastável, pois, a incidência da Súmula 284 do STF no particular.
+Não há qualquer reparo, portanto, a ser feito na decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
