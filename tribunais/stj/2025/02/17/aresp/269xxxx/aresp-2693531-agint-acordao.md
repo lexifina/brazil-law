@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1022 DO CPC. INEXISTÊNCIA. ATRASO NA AUTORIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. AUSÊNCIA DE CONFIGURAÇÃO DE DANO MORAL. MERO DISSABOR. REVER A CONCLUSÃO A QUE CHEGOU A CORTE LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+2. Rever a conclusão a que chegou a Corte local para entender, como quer a recorrente, que houve abalo psicológico que perpassou o mero aborrecimento apto a fundamentar o reconhecimento de dano moral indenizável demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por RAFAELA BOICZUK DE TOLEDO contra decisão monocrática de minha relatoria que conheceu do agravo para negar provimento ao recurso especial em razão da ausência de violação do art. 1022 do CPC e da incidência da Súmula n. 7/STJ (fls. 1112/1116).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 925):
+APELAÇÕES CÍVEIS. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C /C INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE LIBERAÇÃO DE GASTROPLASTIA (CIRURGIA BARIÁTRICA). SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSOS INTERPOSTOS POR AMBAS AS PARTES. 1. APELAÇÃO AVIADA PELA RÉ. TESE DE AUSÊNCIA DE PORTABILIDADE DE CARÊNCIAS. VIOLAÇÃO AO PRINCÍPIO DA EVENTUALIDADE. ART. 336 DO CPC. MATÉRIA NÃO ALEGADA NA CONTESTAÇÃO. HIPÓTESES DO ART. 342 DO CPC NÃO VERIFICADAS. DEMAIS ALEGAÇÕES QUE NÃO ATACAM ESPECIFICAMENTE OS FUNDAMENTOS DA SENTENÇA. AFRONTA AO PRINCÍPIO DA DIALETICIDADE. ART. 1.010, II E III, DO CPC. PRECEDENTES. "PEDIDO CONTRAPOSTO" DE DECLARAÇÃO DE NULIDADE DO CONTRATO DE PLANO DE SAÚDE AVENTADO NA APELAÇÃO. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO. 2. APELO INTERPOSTO PELA DEMANDANTE. INDENIZAÇÃO POR DANOS MORAIS. NÃO ACOLHIMENTO. NEGATIVA DE COBERTURA QUE, NA ESPÉCIE, NÃO CAUSOU REPERCUSSÃO FÍSICA OU EMOCIONAL À REQUERENTE. MERO ABORRECIMENTO DECORRENTE DE INADIMPLEMENTO CONTRATUAL. 3. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. APELAÇÃO CÍVEL (1) NÃO CONHECIDA. APELAÇÃO CÍVEL (2) CONHECIDA E DESPROVIDA.
+Rejeitados os embargos de declaração opostos (fls. 987/992).
+Alega a agravante que "nos declaratórios foi ventilado o quadro clínico da Agravante, que inclui obesidade mórbida, o que restou silente o Tribunal Local. E nesse sentido, verifica-se a violação do artigo 489 e 1.022 do Código de Processo Civil, posto que este é um aspecto crucial para determinar a urgência e a gravidade do procedimento cirúrgico solicitado. A apreciação do Tribunal local sobre a matéria teria o condão de alterar o julgamento" (fl. 1122).
+Aduz, ainda, que, "em casos de negativa de cobertura de procedimento cirúrgico de bariátrica relacionado à obesidade mórbida, aplica-se o disposto no artigo 14 do Código de Processo Civil, que presume a ocorrência de dano moral" (fl. 1123).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 1133/1142).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1022 DO CPC. INEXISTÊNCIA. ATRASO NA AUTORIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. AUSÊNCIA DE CONFIGURAÇÃO DE DANO MORAL. MERO DISSABOR. REVER A CONCLUSÃO A QUE CHEGOU A CORTE LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+2. Rever a conclusão a que chegou a Corte local para entender, como quer a recorrente, que houve abalo psicológico que perpassou o mero aborrecimento apto a fundamentar o reconhecimento de dano moral indenizável demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se na origem de pedido de reconhecimento de dano moral diante da demora na autorização de cirurgia bariátrica de paciente com obesidade mórbida.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, de forma clara e devidamente fundamentada, expressamente se manifestou acerca dos pontos alegados como omisso.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição
+Nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+No mais, conforme o entendimento desta Corte Superior, "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.185.578/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/10/2022, DJe de 14/10/2022).
+No caso, o Tribunal de origem, soberano na análise das provas carreadas aos autos, concluiu que a conduta da agravada não perpassou o mero aborrecimento, pois "não há prova de que a conduta indevida da demandada à integridade física ou emocional da requerente", o que não possui condão de abalar ou prejudicar mais a condição física da paciente (fl. 932).
+Assim, rever a conclusão a que chegou a Corte local para entender, como quer a recorrente, que houve abalo psicológico que perpassou o mero aborrecimento apto a fundamentar o reconhecimento de dano moral indenizável demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
