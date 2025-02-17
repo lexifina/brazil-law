@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus interposto por CLAUDIO RAMOS DE LIMA contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que denegou a ordem no HC n. 0705657-70.2024.8.07.0000.
+Pretende-se, em síntese, o trancamento da Ação Penal n. 0715518-24.2022.8.07.0009, da 3ª Vara Criminal de Taguatinga - a qual imputa ao recorrente a prática do crime de disparo de arma de fogo em via pública (art. 15, caput, da Lei n. 10.826/2003) -, em razão da suposta invasão de domicílio realizada pelos policiais militares, sem que houvesse situação de flagrante, autorização do réu ou o respectivo mandado judicial.
+Ocorre que, em 24/11/2024, sobreveio a prolação de sentença na ação penal em questão, condenando o recorrente a 2 anos de reclusão, em regime inicial aberto, e pagamento de 10 dias-multa. Na ocasião, o Magistrado substituiu a pena privativa de liberdade por restritivas de direitos e concedeu ao sentenciado o direito de recorrer em liberdade. A defesa do réu ajuizou recurso de apelação, ainda em tramitação no Tribunal a quo.
+Assim, de acordo com a jurisprudência desta Corte Superior, mostra-se prematura a análise de tema na via do recurso em habeas corpus, quando possível a interposição ou pendente de julgamento a apelação, recurso próprio à análise das aludidas alegações. A propósito, o HC n. 269.186/SP, Ministro Jorge Mussi, Quinta Turma, DJe 17/ 2/2014; e o AgRg no RHC n. 83.205/PE, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/6/2017.
+Ademais, o acórdão recorrido não tratou da matéria de fundo, aduzindo que as nulidades na busca e apreensão aduzidas pelo impetrante não podem ser dirimidas por meio da impetração constitucional, porquanto estão a reclamar apuração percuciente, incabível pela via deduzida pelo impetrante. Na ação penal, o paciente poderá contestar todas as provas produzidas, exercendo o contraditório e o amplo direito de defesa (fl. 273).
+Ora, não tendo o pleito aqui deduzido sido alvo de efetivo debate na origem, fica impedido o Superior Tribunal de Justiça de examiná-lo, sob pena de indevida supressão de instância (AgRg no HC n. 920.297/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 5/9/2024).
+Tal o contexto, não conheço do presente recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. DISPARO DE ARMA DE FOGO EM VIA PÚBLICA. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. APELAÇÃO EM TRAMITAÇÃO. VIA PRÓPRIA PARA O ENFRENTAMENTO DAS MATÉRIAS. ANÁLISE OBSTACULIZADA NESTE FEITO.
+Recurso não conhecido.
