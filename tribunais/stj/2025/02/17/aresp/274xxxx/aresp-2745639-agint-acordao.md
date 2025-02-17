@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. AUSÊNCIA DE DESÍDIA DA PARTE EXEQUENTE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A prescrição intercorrente da pretensão executiva pressupõe inércia injustificada do credor, o que não se verifica quando o período sem prática de atos processuais é atribuível à demora no impulso oficial pelo órgão judiciário. Precedentes.
+2. No caso dos autos, o Tribunal a quo concluiu que não houve a prescrição da pretensão de cobrar os valores contratados, firme no fundamento de que não houve inércia do credor, uma vez que este sempre esteve diligente e vigilante em busca de seu crédito, tendo, inclusive, impulsionado os autos por diversas vezes, esbarrando na morosidade de situações alheias a sua vontade.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOSÉ FERNANDES DE SOUZA contra decisão desta Relatoria (e-STJ, fls. 539/542), que conheceu do agravo para negar provimento ao recurso especial, com base na incidência da Súmula 83/STJ.
+Em suas razões, o agravante aduz a inaplicabilidade da Súmula 83/STJ ao caso dos autos, pois seu recurso está em consonância com o previsto no ordenamento jurídico pátrio, com a demonstração da divergência jurisprudencial.
+Devidamente intimada, a parte agravada apresentou impugnação (e-STJ, fls. 569/580).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. AUSÊNCIA DE DESÍDIA DA PARTE EXEQUENTE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A prescrição intercorrente da pretensão executiva pressupõe inércia injustificada do credor, o que não se verifica quando o período sem prática de atos processuais é atribuível à demora no impulso oficial pelo órgão judiciário. Precedentes.
+2. No caso dos autos, o Tribunal a quo concluiu que não houve a prescrição da pretensão de cobrar os valores contratados, firme no fundamento de que não houve inércia do credor, uma vez que este sempre esteve diligente e vigilante em busca de seu crédito, tendo, inclusive, impulsionado os autos por diversas vezes, esbarrando na morosidade de situações alheias a sua vontade.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+Observa-se que os argumentos trazidos pelo agravante se mostram insuficientes para infirmar a decisão agravada, a qual deve ser mantida em razão de refletir a pacífica orientação deste Superior Tribunal a respeito da matéria.
+No caso dos autos, o Tribunal de origem confirmou sentença que afastou a alegação de prescrição intercorrente e julgou procedente o pedido para condenar o ora agravante ao pagamento do valor pretendido e, ainda, afirmou, categoricamente, não estar configurada a inércia da parte exequente. Com efeito, divisam-se os seguintes fundamentos extraídos do acórdão estadual:
+"Extrai-se da inicial dos autos que, no dia 30 de maio de 2012, a parte Ré celebrou junto ao Autor/Banco do Brasil S/A um Contrato de Abertura de Crédito BB Giro Empresa Flex, sob de nº 020.003.534, no valor de (cento e dez mil reais), com vencimento final para 25 de maio de 2013. R$ 110.000,00
+O Promovente sustentou que a parte Promovida não honrou com os pagamentos devidos, estando inadimplente no valor de R$ 135.635,33 (cento e trinta e cinco mil, seiscentos e trinta e cinco reais e trinta e três centavos) atualizado até a data de 31 de agosto de 2014.
+(..)
+A Sentença, de forma cirúrgica, bem identificou a situação descrita nos autos, julgando procedente o pleito autoral, merecendo destaque trechos do Decisum:
+"Analisando os autos, vejo que a parte requerente comprovou a existência do negócio jurídico em questão. Ademais, tenho que o demandado não impugnou a existência da dívida, sustentando apenas que esta encontra-se prescrita.
+Nesse diapasão, tenho que o parágrafo 1º do art. 240 do CPC fala que "a interrupção da prescrição, operada pelo despacho que ordena a citação, ainda que proferido por juízo incompetente, retroagirá à data de propositura da ação" e tenho que a citação só ocorrera após anos por situações alheias a vontade da parte autora, não havendo assim de se falar em desídia e, portanto, de prescrição no caso em tela.
+Em suma, uma vez comprovada a relação entre as partes e não tendo a parte demandada demonstrado nenhuma causa extintiva, modificativa ou impeditiva do direito autoral, ônus que lhe cabia conforme art. 373, II, do CPC, tenho que os pedidos formulados pelo autor devam ser deferidos".(destaquei)
+(..)
+Dentro dessa seara, é entendimento firmado no ordenamento jurídico que a prescrição é o prazo estabelecido pela lei para o exercício do direito de ação, com vistas a limitar os abusos que a prática desse pilar do direito processual pode acarretar, trazendo a insegurança nas relações jurídicas, bem como podendo resultar na eterna sujeição de um indivíduo perante outro, pela possibilidade do ad aeternum ajuizamento de demanda na busca de uma pretensão legítima, porém, ocorrida há bastante tempo.
+Assim, observa-se que o instituto da prescrição tem sua relevância no ordenamento jurídico nacional, sendo uma medida salutar para impedir a inércia do credor, a fim de que situações indefinidas não se eternizem, abalando o princípio da segurança jurídica.
+Contudo, percebe-se que esta demanda não permaneceu paralisada, tendo o Autor/Banco do Brasil impulsionado os autos por diversas vezes, esbarrando na morosidade de situações alheias a sua vontade.
+Por fim, temos que o Autor apresentou prova suficiente da efetiva prestação de serviço, contrato firmado entre as partes no ID 15761724 - pgs. 19/27, e o inadimplemento da parte Ré restou caracterizado.
+Nesse caminhar, Humberto Theodoro Júnior assevera: "No processo civil, onde quase sempre predomina o princípio dispositivo, que entrega a sorte da causa à diligência ou interesse da parte, assume especial . (In. Curso de Direito Processual Civil, Vol. 2. 38. Ed. relevância a questão pertinente ao ônus da prova" Rio de Janeiro: Forense. 2003).
+Atentando-se ao exame das peculiaridades envolvidas na causa, sobretudo o conjunto probante documentado nos autos, tem-se a manifesta procedência da pretensão vestibular, consoante Decisão de 1º Grau.
+Descabida, portanto, a reforma da Sentença." (fls. 355-356)
+Do excerto transcrito, constata-se que o egrégio Tribunal a quo, após o exame acurado dos autos, das provas, dos documentos, da natureza da lide e da interpretação do título extrajudicial, concluiu que não houve a prescrição da pretensão de cobrar os valores acordados, firme no fundamento de que não houve inércia do credor, uma vez que este sempre esteve diligente e vigilante em busca de seu crédito, tendo, inclusive, impulsionado os autos por diversas vezes, esbarrando na morosidade de situações alheias a sua vontade.
+Nesse cenário, desconstituir o entendimento firmado pelo Tribunal local - de que a citação só ocorrera após anos por situações alheias a vontade da parte autora, não havendo assim de se falar em desídia e, portanto, de prescrição no caso em tela -, no caso em comento, é pretensão que esbarra no óbice da Súmula 7/STJ, por demandar revolvimento do conteúdo fático-probatório.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 7/STJ" (REsp 1.102.431/RJ, PRIMEIRA SEÇÃO, Relator Ministro LUIZ FUX, DJe de 1º/2/2010 - Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008).
+Nesse contexto, em que pese a argumentação posta no agravo interno, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ainda que assim não fosse, melhor sorte não assistiria à parte agravante, porquanto esta Corte Superior tem entendimento pacífico de que a prescrição intercorrente da pretensão de cobrança pressupõe inércia injustificada do credor, o que não se verifica quando o período sem prática de atos processuais é atribuível à demora no impulso oficial pelo órgão judiciário.
+Nesse contexto, quanto ao não reconhecimento da prescrição e da prescrição intercorrente, verifica-se novamente que o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça no sentido de que o reconhecimento da prescrição intercorrente demanda a concomitância de dois requisitos: a) o decurso do tempo previsto em lei; e b) a inércia do titular da pretensão resistida em adotar providências necessárias ao andamento do feito.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO. AUSÊNCIA. APLICAÇÃO DA SÚMULA 83/STJ. DECISÃO MONOCRÁTICA. POSSIBILIDADE. SÚMULA 568/STJ E DO ART. 932, VIII DO CPC/2015 C/C ART. 255, § 4º, III DO RISTJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC. AGRAVO NÃO PROVIDO. (..)
+2. A jurisprudência do STJ é firme no sentido de que, para reconhecimento da prescrição intercorrente, é imprescindível a comprovação da inércia do exequente, bem como sua intimação pessoal para diligenciar nos autos, o que não ocorreu no presente caso. (..)
+5. Agravo regimental não provido, com aplicação de multa."
+(AgInt no REsp n. 1.311.572/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2016, DJe de 25/10/2016.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INEXISTÊNCIA DE INÉRCIA DO EXEQUENTE. DEMORA ATRIBUÍVEL A ÓRGÃO DO PODER JUDICIÁRIO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A prescrição intercorrente da pretensão executiva pressupõe inércia injustificada do credor, o que não se verifica quando o período sem prática de atos processuais é atribuível à demora no impulso oficial pelo órgão judiciário. Precedentes.
+2. No caso dos autos, o TJPR concluiu que o prolongado lapso temporal transcorrido sem a prática de atos processuais se dera por demora atribuível ao órgão judiciário, decorrente de excessiva carga de trabalho, e não por inércia do exequente.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp 1839423/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/11/2021, DJe 02/12/2021)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DOS EXECUTADOS. (..)
+2. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente.
+3. Avaliar se houve desídia do exequente capaz de permitir a ocorrência de prescrição intercorrente demanda o revolvimento de matéria fático-probatória, providência vedada pela Súmula 7/STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.053.664/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/8/2022, DJe de 15/8/2022.)
+Dessa forma, tendo o acórdão recorrido afirmado expressamente a conduta diligente do ora agravado, durante o curso do processo, "esbarrando na morosidade de situações alheias a sua vontade", constata-se que o entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior Dessa forma, incide, in casu, o óbice processual sedimentado n a Súmula 83 do Superior Tribunal de Justiça.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
