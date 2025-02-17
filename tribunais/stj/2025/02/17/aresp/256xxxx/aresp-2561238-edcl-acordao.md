@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO  E CONTRADIÇÃO  INEXISTENTES.  NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AFASTADA. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTO. SÚMULA Nº 283/STF.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2. A contradição que autoriza o acolhimento dos embargos de declaração somente se revela quando, no contexto do julgado, há proposições inconciliáveis entre si, dificultando-lhe a compreensão.
+3. Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  SCHMIDT INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO LTDA - EM RECUPERAÇÃO JUDICIAL E OUTROS  ao  acórdão  da  Terceira  Turma  assim  ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICADA. FUNDAMENTO. SUFICIENTE. MANUTENÇÃO DO ACÓRDÃO. AUSÊNCIA DE IMPUGNAÇÃO. APLICAÇÃO DA SÚMULA Nº 283/STF.
+1. Na espécie, não houve violação dos artigos 489 e 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+2. Na hipótese, além da ausência de abusividade dos juros contratados, o aresto recorrido utilizou como razão de decidir o fato de os recorrentes terem tido conhecimento prévio das cláusulas do contrato e, por esse motivo, afastou a alegação de violação dos princípios da boa-fé contratual e da fundação social do contrato. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Agravo interno não provido"  (e-STJ  fl.  1169).
+Nas  presentes  razões  (e-STJ  fls.  1183/1197),  a  parte  embargante  alega  ,  em  síntese,  que o acórdão é omisso, haja vista que a matéria relativa à negativa de prestação jurisdicional do tribunal de origem, no que diz respeito à ilegalidade da Taxa/Proposta de Estruturação e Captação de recursos, não foi objeto de análise pelo acórdão embargado.
+No ponto, afirma que desde a apelação sustentou que a cobrança do valor de R$ 2.951.340,33 (dois milhões, novecentos e cinquenta e um mil, trezentos e quarenta reais e trinta e três centavos) a "título de "Comissão Estruturação Terceiros" não aparece em qualquer lugar da Cédula de Crédito Bancário (fls. 58/62 e 267/271 dos autos originários)" (e-STJ fl. 1185), sendo, portanto, ilegal.
+No entanto, o tribunal local não se manifestou a respeito de tal alegação, o que motivou a oposição dos embargos que não supriram os vícios apontados (omissão/contradição) a esse respeito.
+Esclarece que no recurso especial apontou violação dos arts. 489, § 1º, I, III, IV, V e VI e 1.022, II, do CPC, porém, quanto à essa matéria, o aresto embargado manteve-se silente.
+Além disso, aduz que o aresto embargado "reafirma a validade da previsão do duodécuplo mensal em contrato com juros firmados de forma pós-fixada (sem previsão mensal contida no instrumento" (e-STJ fl. 1190), o que corrobora com a contradição perpetrada pelo acórdão proferido pelo tribunal de origem.
+Destaca que a conclusão do tribunal de origem não guarda relação com o caso concreto, pois "não há previsão do duodécuplo mensal no contrato, visto que estes se constituem enquanto taxas pós-fixada" (e-STJ fl. 1191).
+Afirma que a aplicação da Súmula nº 283/STF configura contradição interna, haja vista que argumento obiter dictum não é razão de decidir e o aresto embargado não considerou nenhuma razão recursal apresentada no agravo interno, nesse sentido.
+Salienta que "a mera alusão a argumento meritório, a título de "obiter dictum", não tem implicação na higidez do acórdão"(e-STJ fl. 1193). No caso, o tribunal local fundamentou a improcedência do pedido inicial a partir de uma suposta autorização contratual das questões debatidas, ou seja, a "razão de decidir se baseou na errônea premissa de que todas as questões discutidas estavam previstas no contrato" (e-STJ fl. 1194).
+Assim, "diante da premissa de que tudo estava autorizado no instrumento contratual, o v. acórdão apontou que o Embargante deveria ter lido antes de assinar, claramente a título de obiter dictum" e-STJ 1195).
+Ao final,  requer  o  acolhimento  dos  embargos  com  efeitos  infringentes.
+Impugnação  (e-STJ  fls.  1200/1202 e 1203/1211).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO  E CONTRADIÇÃO  INEXISTENTES.  NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AFASTADA. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTO. SÚMULA Nº 283/STF.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2. A contradição que autoriza o acolhimento dos embargos de declaração somente se revela quando, no contexto do julgado, há proposições inconciliáveis entre si, dificultando-lhe a compreensão.
+3. Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Com efeito, nas razões do apelo nobre, a parte embargante apontou violação dos arts. 489, § 1º, I, III, IV, V, VI, e 1.022, II, do CPC, sob a assertiva de que o aresto do tribunal de origem foi omisso e contraditório, no que diz respeito às questões relativas aos juros remuneratórios e à ilegalidade da cobrança a cobrança do valor de R$ 2.951.340,33 (dois milhões, novecentos e cinquenta e um mil, trezentos e quarenta reais e trinta e três centavos) a título de Proposta de Estruturação e Captação de Recursos.
+De fato, a nulidade do acórdão recorrido foi afastada porque o tribunal de origem se manifestou expressamente acerca de tais questões, tendo concluído que estavam previstos no contrato e que não restou demonstrada a abusividade ou ilegalidade das cobranças (e-STJ fl. 1175).
+Registre-se que, quanto à alegada omissão e contradição alusiva à ilegalidade da cobrança do valor de R$ 2.951.340,33 (dois milhões, novecentos e cinquenta e um mil, trezentos e quarenta reais e trinta e três centavos) a título de Proposta de Estruturação e Captação de Recursos, o aresto do tribunal de origem acentuou que o contrato previa a incidência de descontos referentes a encargos contratuais.
+No ponto, sua conclusão está fundamentada no laudo pericial, transcrito no voto condutor do acórdão, segundo o qual
+"(..) de acordo com a "Proposta de Estruturação e Captação de Recursos através da emissão de Cédulas de Crédito Bancário", assinada pela Schmidt Indústria e Comércio Importação e Exportação Ltda., anexo III, foi descontado dos recursos líquidos acima mencionados a importância de R$ 2.951.340,33, restando como valor final líquido a importância de R$ 12.743.019,68, a qual foi creditada em conta corrente nº 7996901, agência 0004, na data de 30/11/11, conforme extratos de fls. 188/191" (fl.375)"(e-STJ fl. 957- grifou-se).
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC -, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido."
+(AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022. - grifou-se)
+Ressalte-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Além disso, a contradição que autoriza o acolhimento dos embargos de declaração somente se revela quando, no contexto do acórdão embargado, há proposições inconciliáveis entre si, dificultando-lhe a compreensão, o que não ocorre na hipótese.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. PROCESSUAL CIVIL. VERBAS REMUNERATÓRIAS. IMPENHORABILIDADE. ART. 833, IV, DO CPC. HONORÁRIOS ADVOCATÍCIOS. EXECUÇÃO. VERBA DE NATUREZA ALIMENTAR E PRESTAÇÃO ALIMENTÍCIA. DISTINÇÃO. ART. 833, § 2º, DO CPC. EXCEÇÃO NÃO CONFIGURADA. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. A contradição que autoriza o acolhimento dos embargos de declaração somente se revela quando, no contexto do julgado, há proposições inconciliáveis entre si, dificultando-lhe a compreensão.
+3. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados" (EDcl no REsp n. 1.954.380/SP, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 12/11/2024, DJe de 22/11/2024.)
+Ademais, entendeu-se pela aplicação das Súmula nº 283/STF, em virtude da falta de impugnação específica a fundamento do acórdão do tribunal de origem.
+No ponto, o acórdão embargado salientou que
+"(..) não foi impugnado o fundamento do aresto atacado, segundo o qual a autora teve conhecimento prévio das cláusulas contratuais, pois, certamente assistida por corpo jurídico, ante o elevado valor que envolve a demanda, " o que torna inaceitável a alegação de infração à boa-fé ou a função social do contrato, para afastar o cumprimento das obrigações assumidas nos pactos havidos entre as partes" (e-STJ fl. 957- grifou-se).
+Registra-se que, para afastar a alegação de infração à boa-fé ou a função social do contrato e, por conseguinte, entender que devem ser cumpridas as obrigações assumidas, o aresto atacado utilizou como razão de decidir o fato de que a parte teve conhecimento prévio das cláusulas do contrato.
+Desse modo, não há como acolher a alegação dos agravantes de que se trata de mero argumento ou comentário feito pelo julgador (obiter dictum)" (e-STJ fl. 1177- grifou-se )
+O  não  acolhimento  das  teses  ventiladas  pela parte  recorrente  não  significa  omissão  ou  deficiência  de  fundamentação,  tanto  mais  quando  abordados  todos  os  pontos  relevantes  da  controvérsia,  como  no  caso.
+Observa-se  que  a parte  embargante,  em  verdade,  deseja  rediscutir  matéria  julgada  de  maneira  inequívoca,  além  de  afirmar  a  existência  de  omissão  e  contradição  sem  comprovar  suas  alegações.
+Nesse  contexto,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+A  propósito:
+"PROCESSO  CIVIL.  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  OBSCURIDADE,  OMISSÃO,  CONTRADIÇÃO  OU  ERRO  MATERIAL.  NÃO  OCORRÊNCIA.  REFORMA  DO  JULGADO.  IMPOSSIBILIDADE.
+1.  Ação  de  reparação  de  danos  materiais  e  compensação  de  danos  morais,  em  virtude  da  aquisição  de  veículo  usado  e  que,  logo  após  a  compra,  apresentou  diversos  vícios  que  impediam  seu  pleno  uso.
+2.  Os  embargos  de  declaração,  a  teor  do  art.  1.022  do  CPC,  constituem-se  em  recurso  de  natureza  integrativa  destinado  a  sanar  vício  -  obscuridade,  contradição,  omissão  ou  erro  material  -,  não  podendo,  portanto,  serem  acolhidos  quando  a  parte  embargante  pretende,  essencialmente,  reformar  o  decidido.
+3.  Embargos  de  declaração  rejeitados"  (EDcl  no  REsp  1.837.436/SP,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  DJe  4/6/2020  -  grifou-se).
+"EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  BEM  DE  FAMÍLIA.  IMPENHORABILIDADE.  ALEGAÇÃO.  ARREMATAÇÃO.  IMPOSSIBILIDADE.  VÍCIOS  DO  ART.  1.022  DO  CPC/2015.  INEXISTÊNCIA.
+1.  Os  embargos  de  declaração  só  se  prestam  a  sanar  obscuridade,  omissão  ou  contradição  porventura  existentes  no  acórdão,  não  servindo  à  rediscussão  da  matéria  já  julgada  no  recurso.
+2.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  nos  EDcl  no  REsp  1.536.888/GO,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  DJe  28/5/2020  -  grifou-se).
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  do  aresto  embargado.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração  com  a  advertência  de  que,  havendo  reiteração  de  embargos  protelatórios,  a  multa  prevista  no  artigo  1.026,  §  2º,  do  Código  de  Processo  Civil  será  aplicada.
+  É  o  voto.
