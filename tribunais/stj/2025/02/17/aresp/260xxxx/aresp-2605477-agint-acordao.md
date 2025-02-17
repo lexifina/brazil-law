@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. SUSPENSÃO DO EXPEDIENTE FORENSE. NECESSIDADE DE DEMONSTRAÇÃO NO MOMENTO ADEQUADO. AUSÊNCIA DE COMPROVAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+2. No caso, o acórdão recorrido foi publicado no Diário de Justiça em 27/10/2023, iniciando-se a contagem do prazo recursal em 30/10/2023 e findando em 21/11/2023, já descontada a suspensão do prazo processual decorrente da lei, quantos aos dias 2 e 15/11/2023, feriados nacionais. Entretanto, o recurso especial somente foi interposto em 22/112023, após o prazo de 15 dias, sem a devida comprovação da existência de suspensão de prazo no momento da interposição do recurso.
+3. "A Lei nº 14.939, publicada em 31 de julho de 2024, somente incide sobre os recursos interpostos contra acórdãos publicados a partir de 1º de agosto de 2024, quando passou a viger a nova redação do art. 1.003, § 6º, do Código de Processo Civil, que permite ao tribunal determinar a correção do vício formal ou desconsiderá-lo caso a informação já conste do processo eletrônico" (EDcl no AgInt no AREsp n. 2.602.190/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+4. Não tendo sido demonstrada a tempestividade do recurso no momento de sua interposição, e tendo deixado a parte de comprovar eventual suspensão do expediente forense no âmbito do Tribunal de origem, não há como se afastar a intempestividade do recurso.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Festa Brava Agropastoril Ltda contra decisão da egrégia Presidência desta Corte que não conheceu do agravo em recurso especial (fls. 411-412). Os embargos de declaração foram rejeitados (fls. 446-448).
+Em suas razões recursais, a agravante defende a tempestividade do recurso especial, tendo em vista ter sido induzida a erro quanto a data correta de publicação. Ademais, o Tribunal de Justiça teria reconhecido tempestiva a interposição do recurso.
+Requer o conhecimento e provimento do recurso, a fim de que seja dado seguimento ao recurso especial.
+Foi apresentada impugnação (fls. 462-464).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. SUSPENSÃO DO EXPEDIENTE FORENSE. NECESSIDADE DE DEMONSTRAÇÃO NO MOMENTO ADEQUADO. AUSÊNCIA DE COMPROVAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+2. No caso, o acórdão recorrido foi publicado no Diário de Justiça em 27/10/2023, iniciando-se a contagem do prazo recursal em 30/10/2023 e findando em 21/11/2023, já descontada a suspensão do prazo processual decorrente da lei, quantos aos dias 2 e 15/11/2023, feriados nacionais. Entretanto, o recurso especial somente foi interposto em 22/112023, após o prazo de 15 dias, sem a devida comprovação da existência de suspensão de prazo no momento da interposição do recurso.
+3. "A Lei nº 14.939, publicada em 31 de julho de 2024, somente incide sobre os recursos interpostos contra acórdãos publicados a partir de 1º de agosto de 2024, quando passou a viger a nova redação do art. 1.003, § 6º, do Código de Processo Civil, que permite ao tribunal determinar a correção do vício formal ou desconsiderá-lo caso a informação já conste do processo eletrônico" (EDcl no AgInt no AREsp n. 2.602.190/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+4. Não tendo sido demonstrada a tempestividade do recurso no momento de sua interposição, e tendo deixado a parte de comprovar eventual suspensão do expediente forense no âmbito do Tribunal de origem, não há como se afastar a intempestividade do recurso.
+5. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão .
+Na presente insurgência, defende o agravante a tempestividade do recurso especial.
+Com efeito, o prazo para a interposição do agravo em recurso especial e do recurso especial é de 15 dias úteis, nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, todos do Código de Processo Civil. Tal prazo, contudo, conforme consignado, não foi observado pela parte ora agravante.
+Verifica-se, conforme certidão de fl. 297, que o acórdão recorrido foi publicado no Diário de Justiça em 27/10/2023, iniciando-se a contagem do prazo recursal em 30/10/2023 e findando em 21/11/2023, já descontada a suspensão do prazo processual decorrente da lei, quantos aos dias 2 e 15/11/2023, feriados nacionais.
+Entretanto, o recurso especial somente foi interposto em 22/112023, após o prazo de 15 dias, sem a devida comprovação da existência de suspensão de prazo no momento da interposição do recurso.
+Desse modo, não tendo sido demonstrada a tempestividade do recurso no momento de sua interposição, e tendo deixado a parte de comprovar eventual suspensão do expediente forense no âmbito do Tribunal de origem, não há como se afastar a intempestividade do recurso.
+Importante destacar que o entendimento desta Corte é no sentido de que " o  juízo de admissibilidade dos recursos extremos é bifásico, de modo que a decisão proferida pelo Tribunal de origem em juízo prévio não vincula esta Corte Superior, destinatário do recurso especial, ao qual compete o juízo definitivo de sua admissibilidade" (AgInt no AREsp n. 2.636.301/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024).
+Cumpre ressaltar, por fim, que " a  Lei nº 14.939, publicada em 31 de julho de 2024, somente incide sobre os recursos interpostos contra acórdãos publicados a partir de 1º de agosto de 2024, quando passou a viger a nova redação do art. 1.003, § 6º, do Código de Processo Civil, que permite ao tribunal determinar a correção do vício formal ou desconsiderá-lo caso a informação já conste do processo eletrônico" (EDcl no AgInt no AREsp n. 2.602.190/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+É o voto.
