@@ -1,0 +1,26 @@
+DECISÃO
+APARECIDO DONIZETE DALBON alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0019949-92.2024.8.26.0996.
+A defesa busca a concessão da progressão ao regime semiaberto ao paciente, pois reputa preenchidos os requistios necessários para tal fim.
+Decido.
+Infere-se dos autos que o paciente cumpre pena privativa de liberdade de 20 anos de reclusão, atualmente em regime fechado, com término de cumprimento previsto para 12/7/2036.
+Formulado pedido de progressão ao regime semiaberto em favor do reeducando, o Juízo de primeiro grau indeferiu o pleito, decisão que foi ratificada pelo Tribunal estadual, oportunidade na qual mencionou que, "embora indique bom comportamento, apresentou elementos desfavoráveis à progressão, como falta de responsabilidade sobre seus atos e ausência de vínculos familiares. No mais, apesar de não possuir faltas disciplinares, o relatório conjunto de avalição se posicionou integralmente contra a progressão ao regime semiaberto" (fl. 17, destaquei).
+A preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Todavia, "as instâncias ordinárias extraíram trechos desfavoráveis do exame criminológico para fundamentar o indeferimento da progressão de regime por ausência do requisito subjetivo. O aresto citou, ainda, faltas graves, inclusive abandono do regime intermediário e prática de novo delito quando beneficiado com livramento condicional. Tal providência encontra respaldo na jurisprudência desta Corte Superior" (AgRg no HC n. 879.269/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024).
+Aplica-se ao caso a compreensão de que:
+ ..
+2. A noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos (AgRg no HC 660.197/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/08/2021, DJe 25/08/2021).
+3. A jurisprudência consolidada por esta Corte Superior de Justiça se orienta no sentido de que alguns aspectos negativos do parecer criminológico são suficientes para o indeferimento da progressão de regime. Idêntico raciocínio se aplica ao indeferimento do pleito de saída temporária.
+4. Situação em que a conclusão da Comissão Técnica de Classificação Penitenciária Masculina de Itajaí foi pelo indeferimento da progressão ao regime semiaberto.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 853.000/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/10/2023, DJe de 27/10/2023, grifei)
+ ..
+1. A jurisprudência desta Corte está consolidada no sentido de que a gravidade abstrata do crime e a longa pena a cumprir não são aspectos relacionados ao comportamento do sentenciado durante a execução penal e não justificam o indeferimento dos benefícios do sistema progressivo das penas.
+2. No caso, verifica-se, pois, que as instâncias ordinárias entenderam também pelo indeferimento do benefício em razão do não cumprimento do requisito subjetivo por parte do paciente, evidenciado pela conclusão do exame criminológico que foi desfavorável à concessão do benefício, acarretando dúvidas sobre o juízo crítico do apenado.
+3. Com efeito, "o julgador forma sua convicção pela livre apreciação da prova, de modo que, uma vez realizado o exame criminológico, não é possível suprimir dele a consideração de relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal" (AgRg no HC 426.201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, DJe 12/6/2018).
+4. Ademais, o "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC 572.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 2/6/2020, DJe 10/ 6/2020).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 846.199/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023)
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
