@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALTIERES NATANAEL FERRIRA e PAULO ROBERTO STRAIT, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina no HC n. 5075335-57.2024.8.24.0000.
+Extrai-se dos autos que os pacientes foram presos em flagrante, por praticarem, em tese, o crime previsto no art. 155, § 1º e § 4º, incisos I e IV, do Código Penal.
+Nas razões do habeas corpus, o impetrante alega nulidade da prisão em flagrante em razão da ilegalidade da ação policial que teria agido mediante tortura no momento da prisão dos pacientes.
+Liminar indeferida (e-STJ, fls. 283/284).
+Informações prestadas (e-STJ, fls. 290-292).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 297-299).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Quanto à nulidade da prisão, assim consignou o Tribunal de origem:
+Em que pese os argumentos do Impetrante, constam dos autos duas versões opostas, uma apresentada pelos Pacientes no sentido de que teriam sido agredidos pelos Policiais e aquela dos Agentes Públicos indicando que o Paciente A. teria tentado empreender fuga quando já estava algemado, oportunidade em que teria caído e se ferido.
+Vale ressaltar que eventual divergência entre os depoimentos dos Policiais e dos envolvidos deverá ser avaliada quando do julgamento do mérito da ação penal.
+De todo modo, os relatos dos Agentes Públicos, aliados à apreensão dos objetos supostamente furtados em poder dos Pacientes, são suficientes para confirmar os indícios de autoria e a legalidade da segregação.
+ ..
+Importante acrescentar, ainda, que os Pacientes são reincidentes e, conforme entendimento pacífico deste Colegiado "É devida a prisão preventiva, fundada na garantia da ordem pública, se evidenciado que o paciente, caso posto em liberdade, voltará a delinquir. E a condição de reincidente é indicativo nesse sentido" (Habeas Corpus Criminal n. 5062501-22.2024.8.24.0000, rel. Sérgio Rizelo, Segunda Câmara Criminal, j. 15-10-2024)" (e-STJ, fls. 273-274)
+No caso, o Tribunal de origem afirmou que constam dos autos duas versões opostas e que só poderiam ser avaliadas quando do julgamento do mérito da ação. Alterar tal conclusão em sede de habeas corpus, para reconhecer a ilegalidade da ação policial, implicaria em amplo revolvimento de material fático-probatório, inviável na via eleita.
+Consigne-se, ainda, que o acórdão expressamente informa que os réus são reincidentes, bem como que foram apreendidos com os objetos supostamente furtados, o que robustece ainda mais a legalidade da prisão.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBOS CIRCUNSTANCIADOS. EXTORSÃO MAJORADA. ASSOCIAÇÃO CRIMINOSA ARMADA. NULIDADE DA PRISÃO EM FLAGRANTE. NECESSIDADE DE AMPLA DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. POSTERIOR CONVERSÃO EM PRISÃO PREVENTIVA. ALEGAÇÃO SUPERADA. NÃO REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. INGRESSO FORÇADO EM DOMICÍLIO. INOCORRÊNCIA. INGRESSO PRECEDIDO DE SUCESSIVAS DILIGÊNCIAS. AGRAVANTE CAPTURADO AINDA NA POSSE DE OBJETOS PERTENCENTES À VÍTIMA. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. GRAVIDADE DA CONDUTA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES, NO CASO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sobre a nulidade da prisão em flagrante, ressalto que a análise da matéria não se coaduna com o rito célere e com a cognição sumária do remédio constitucional, diante da necessidade de revolvimento de matéria fático-probatória, providência que é sabidamente inviável na estreita via do habeas corpus.
+2. Ademais, cumpre salientar que esta Corte tem entendimento reiterado segundo o qual "a discussão acerca de nulidade da prisão em flagrante fica superada com a conversão do flagrante em prisão preventiva, haja vista a formação de novo título a embasar a custódia cautelar" (HC 425.414/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018).
+ ..
+6. É importante consignar que, de acordo com a jurisprudência deste Tribunal, " c ondições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes). Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes" (HC 691.974/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2021, DJe 13/12/2021; sem grifos no original).
+7. Agravo regimental desprovido.
+(AgRg no HC n. 872.533/MT, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+No mesmo sentido, o parecer ministerial:
+Considerando a aproximação da fase instrutória da ação penal (conforme esclarecem as informações prestadas pelo Juízo de piso), bem como a inviabilidade de dilação probatória na via eleita, a qual veio carente de comprovação peremptória do direito alegado, mister relegar o exame da presente pretensão à sua fase processual adequada, nos termos regulares do rito ordinário, a partir do exame aprofundado das provas que serão produzidas e analisadas oportunamente pelo Juízo competente.
+Saliente-se, nos termos do acórdão, que "os relatos dos Agentes Públicos, aliados à apreensão dos objetos supostamente furtados em poder dos Pacientes, são suficientes para confirmar os indícios de autoria e a legalidade da segregação".
+Ademais, o TJSC consignou que os pacientes são reincidentes. Conforme sedimentado em farta jurisprudência desta Corte, "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 948.623/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/12/2024, D Je de 16/12/2024.) (e-STJ, fl. 298).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
