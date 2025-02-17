@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PETIÇÃO INCOMPLETA. ERRO INSANÁVEL. JUSTA CAUSA NÃO APRESENTADA. NÃO CONHECIMENTO DO RECURSO. PROVIMENTO NEGADO.
+1. É dever da parte recorrente fiscalizar a transmissão do recurso por sistema eletrônico, configurando o peticionamento incompleto das razões recursais erro insanável. Inaplicabilidade do art. 932, parágrafo único, do Código de Processo Civil.
+2. A simples afirmação de que houve falha no sistema de processamento do recurso ou na migração para um novo sistema judicial do Tribunal de origem não é suficiente para afastar a responsabilidade da parte recorrente, mormente porque desacompanhada de comprovação.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MOACYR HENRIQUE DI PALMA CORDOVIL contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) que não conheceu de seu agravo em recurso especial e negou provimento aos agravos dos outros réus nos termos da seguinte ementa (fls. 2.161/2.162):
+PROCESSUAL CIVIL. AGRAVOS NOS RECURSOS ESPECIAIS. RECURSO CONTENDO APENAS O TERMO DA INSURGÊNCIA. NÃO COGNOSCIBILIDADE. NÃO ADMISSÃO DOS RESPS POR APLICAÇÃO DA SÚMULA 83/STJ. DE FATO, A CONCLUSÃO DO ARESTO DE ORIGEM ESTÁ EM SINTONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR, SENDO HIPÓTESE DE APLICAÇÃO DO CITADO VERBETE SUMULAR. AGRAVO DO ACIONADO MOACYR HENRIQUE DI PALMA CORDOVIL NÃO CONHECIDO. AGRAVOS DOS DEMAIS DEMANDADOS NÃO PROVIDO.
+Em suas razões recursais, a parte agravante alega que ocorreu uma falha técnica e sanável no processamento do seu agravo em recurso especial, de modo que consta nos autos apenas a primeira página. Argumenta que à época da interposição do recurso o processo já era eletrônico, inexistindo razão para não conhecer do agravo devido à suposta correspondência com os autos físicos (fl. 2.105), porquanto inexistente, ao contrário do foi que afirmado na decisão agravada.
+Alega que não pode ser prejudicado por conta de falhas decorrentes da migração do sistema utilizado pelo Tribunal de origem, motivo pelo qual invoca a possibilidade de abertura de prazo para sanar o vício, nos termos do art. 932, parágrafo único, do Código de Processo Civil (CPC). Ainda, defende a inaplicabilidade da Súmula 83/STJ utilizada como fundamento para negativa de provimento dos agravos dos demais réus e reitera os argumentos já lançados nas razões do recurso especial para fazer valer a tese de ilegitimidade ativa do Ministério Público Federal.
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado competente.
+Foi apresentada impugnação (fls. 2.300/2.308).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PETIÇÃO INCOMPLETA. ERRO INSANÁVEL. JUSTA CAUSA NÃO APRESENTADA. NÃO CONHECIMENTO DO RECURSO. PROVIMENTO NEGADO.
+1. É dever da parte recorrente fiscalizar a transmissão do recurso por sistema eletrônico, configurando o peticionamento incompleto das razões recursais erro insanável. Inaplicabilidade do art. 932, parágrafo único, do Código de Processo Civil.
+2. A simples afirmação de que houve falha no sistema de processamento do recurso ou na migração para um novo sistema judicial do Tribunal de origem não é suficiente para afastar a responsabilidade da parte recorrente, mormente porque desacompanhada de comprovação.
+3. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+É dever da parte recorrente fiscalizar a transmissão do recurso por sistema eletrônico, consubstanciando erro insanável o peticionamento incompleto das razões recursais.
+Logo, ao contrário do que defendeu a parte agravante, a hipótese não autoriza abertura de prazo para regularização, não havendo que se falar em aplicação do art. 932, parágrafo único, do CPC.
+A simples afirmação de que houve falha no sistema de processamento do recurso ou na migração para um novo sistema judicial do Tribunal de origem não é suficiente para afastar a responsabilidade da parte recorrente, principalmente porque desacompanhada de comprovação.
+No caso dos autos, caberia ao agravante requerer ao Tribunal de origem a emissão de certidão acerca de problemas técnicos no sistema de processamento, o que não ocorreu, inviabilizando o acolhimento da justificativa apresentada.
+A decisão agravada encontra amparo na jurisprudência pacífica do Superior Tribunal de Justiça, de modo que deve ser mantida. A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PETIÇÃO INCOMPLETA. INADMISSIBILIDADE. TRANSMISSÃO ELETRÔNICA. DEVER DE FISCALIZAÇÃO DA PARTE.
+1. Não é possível o conhecimento do agravo interno na hipótese em que a parte agravante não cuidou de transmitir a petição eletrônica em sua completude, por se tratar de vício insanável.
+2. Conforme a jurisprudência pacífica desta Corte, não se conhece de petição incompleta, sendo dever da parte fiscalizar a exata transmissão do recurso.
+3. Agravo interno não conhecido. (AgInt no AREsp n. 1.898.305/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PETIÇÃO INCOMPLETA. INADMISSIBILIDADE. TRANSMISSÃO ELETRÔNICA. RESPONSABILIDADE DO USUÁRIO DO SISTEMA DE PETICIONAMENTO ELETRÔNICO.
+1. Trata-se de Agravo Interno contra decisão proferida pela Presidência do STJ (fls. 274-275, e-STJ) que não conheceu do recurso, ante a falta de impugnação efetiva e pormenorizada da decisão que inadmitiu o Recurso Especial.
+2. Consoante a jurisprudência do STJ, não se conhece de Agravo interno interposto com razões incompletas, sendo dever da parte fiscalizar e se responsabilizar pela adequada transmissão do recurso. Nessa linha: AgInt nos EAREsp 148.586/RS, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 11.10.2016; AgInt nos EDcl no RE no AgRg nos EDcl no AREsp 235.721/RS, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe 26.6.2020; AgInt no AREsp 872.108/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 22.9.2016.
+3. Na hipótese dos autos, conforme se verifica às fls. 278-279, e-STJ, o presente recurso foi enviado de forma incompleta, faltando-lhe, inclusive, o pedido, de modo a dificultar a análise e a compreensão do inconformismo.
+4. Agravo Interno não conhecido. (AgInt no AREsp n. 1.928.679/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/12/2021, DJe de 1º/2/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NO RECOLHIMENTO DO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. JUNTADA APENAS DA GUIA DE RECOLHIMENTO, SEM O RESPECTIVO COMPROVANTE DE PAGAMENTO. ALEGAÇÃO DE FALHA NO SISTEMA DE PETICIONAMENTO ELETRÔNICO. NÃO CABIMENTO. DESERÇÃO. INTEMPESTIVIDADE DO RECURSO. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003. § 6º, CPC/2015. RECURSO NÃO PROVIDO.
+1. Constatada a irregularidade no recolhimento do preparo, os recorrentes foram intimados a sanar o vício no prazo de cinco dias. Todavia, o aludido vício não foi regularizado. Na petição de fls. 520-522 apenas consta a guia de recolhimento da União (GRU), sem seu respectivo comprovante de pagamento bancário.
+2. "(..) É pacífica no STJ a orientação de que a falta de comprovantes de pagamentos atrelados às guias de recolhimento carreadas aos autos implica a não regularidade do preparo e enseja a deserção do recurso. Precedentes." (AgInt no REsp 1593965/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe 06/09/2017).
+3. No tocante à alegação de erro no sistema de peticionamento eletrônico, importa frisar que "(..) Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, constitui dever do usuário do sistema de peticionamento eletrônico diligenciar pela correta transmissão dos documentos enviados, sob pena de arcar com os ônus de eventual protocolização incompleta." (AgInt no AREsp 602.553/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2016, DJe 01/02/2017).
+4. Além disso, a alegação de falha no sistema de peticionamento eletrônico deve vir acompanhada da devida comprovação, o que não ocorreu in casu, pois não foi acostada aos presentes autos qualquer prova idônea de erro no referido sistema. Precedente.
+5. Inarredável, pois, a incidência do óbice da Súmula 187/STJ, o que enseja a deserção recursal.
+6. Segundo o entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp n. 957.821/MS, (julgado em 20/11/2017), nos recursos protocolados na vigência do novo Código de Processo Civil, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição expressa contida no § 6º do art. 1.003 do CPC/2015.
+7. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+8. Agravo Interno não provido. (AgInt no AREsp n. 1.377.677/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2019, DJe de 15/10/2019.)
+Por fim, diante do não conhecimento do agravo em recurso especial, é incabível a análise da tese de inaplicabilidade da Súmula 83/STJ quanto à matéria de mérito.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
