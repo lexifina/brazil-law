@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. PENHORA DE PERCENTUAL DE LUCRO. RESERVA DE PERCENTUAL SUFICIENTE PARA DIGNIDADE DO DEVEDOR E FAMÍLIA. PRECEDENTES. PENHORABILIDADE. POSSIBILIDADE. REFORMA DO JULGADO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior firmou o entendimento no sentido de que a regra geral de impenhorabilidade de verbas salariais pode ser excepcionada, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por EDSON SEBBA (EDSON) contra decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. PENHORA DE PERCENTUAL DE LUCRO. RESERVA DE PERCENTUAL SUFICIENTE PARA DIGNIDADE DO DEVEDOR. PRECEDENTES. PENHORABILIDADE. POSSIBILIDADE. REFORMA DO JULGADO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL (e-STJ, fl. 550).
+Nas razões do presente inconformismo, EDSON alegou que (1) não incide a Súmula nº 7 do STJ, porque se trata, exclusivamente, de matéria de direito; (2) a Súmula nº 283 do STF não é aplicável, pois o art. 833, IV, do NCPC estabelece que são impenhoráveis os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos do trabalhador autônomo e os honorários de profissional liberal; (3) foi violado o art. 835 do NCPC, considerando que a penhora deve observar um ordem de preferência; e, (4) a penhora em dinheiro é prioritária.
+Não houve impugnação ao recurso (e-STJ, fl. 571).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. PENHORA DE PERCENTUAL DE LUCRO. RESERVA DE PERCENTUAL SUFICIENTE PARA DIGNIDADE DO DEVEDOR E FAMÍLIA. PRECEDENTES. PENHORABILIDADE. POSSIBILIDADE. REFORMA DO JULGADO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior firmou o entendimento no sentido de que a regra geral de impenhorabilidade de verbas salariais pode ser excepcionada, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Inicialmente, EDSON alegou ofensa ao art . 833, IV, do NCPC. Sustentou que (1) foi deferida a penhora de 30% do lucro líquido mensal recebido por ele da sociedade empresarial Organizações Sebba Materiais para Construção Ltda.; (2) essa remuneração é considerada impenhorável a teor do art. 833, IV, do NCPC; e, (3) se trata de sua única verba recebida mensalmente.
+Sobre o tema, a Corte local consignou:
+Logo, não há ofensa à regra da impenhorabilidade nem muito menos ao princípio da menor onerosidade que não é nem nunca foi trincheira do devedor para frustrar a legítima expectativa do credor de receber o crédito de que é titular, interesse este em torno do qual e para o qual se realizam as medidas executivas.
+Destaque-se que o Juízo deferiu a penhora de 30% dos lucros que tocarem ao agravante, titular de 99,99% das cotas sociais, ou seja, ainda que se admita, como mera hipótese de trabalho, que o agravante viva dos rendimentos que lhe são proporcionados pela empresa, tem assegurado o equivalente a 70%.
+Também não há desrespeito à ordem do CPC 835, estabelecida em caráter e preferencial voltada a alcançar mais facilmente o resultado prático almejado em benefício do credor.
+Portanto, ressalvada a penhora de dinheiro, a dos outros bens pode ter a ordem alterada, de acordo com as circunstâncias (CPC 835, § 1º). Reafirme-se: não foram encontrados outros bens penhoráveis, além dos lucros em questão, o que por si só, justifica a penhora que, ao fim e ao cabo, recairá sobre dinheiro (e-STJ, fl. 410).
+Nesse contexto, o entendimento do TJDFT está em conformidade com a jurisprudência firmada desta Corte Superior no sentido de que a regra geral de impenhorabilidade de salários (art. 833, IV, do NCPC) pode ser excepcionada, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família.
+Nesse sentido os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE PERCENTUAL DA REMUNERAÇÃO. POSSIBILIDADE. SÚMULA N. 83 DO STJ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte, a regra geral da impenhorabilidade das verbas salariais pode ser relativizada, em situações excepcionais, para atingir parte da remuneração do devedor, desde que preservado o suficiente para garantir sua subsistência digna. Incidência da Súmula n. 83/STJ.
+2. No caso, o Tribunal de origem, após a análise das provas produzidas no processo, concluiu que a penhora deferida não afetaria a dignidade da parte devedora. Alterar esse entendimento demandaria reexame do conjunto fático-probatório do feito, vedado em recurso especial. Incidência da Súmula n. 7/STJ.
+3. Fica prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência dos óbices das Súmulas 7 e 83 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.383.567/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. RENDIMENTOS. PENHORA. MITIGAÇÃO DA GARANTIA DA IMPENHORABILIDADE. DIGNIDADE DO DEVEDOR PRESERVADA. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que a regra geral de impenhorabilidade de salários (art. 649, IV, do CPC/1973; art. 833, IV, do CPC/2015) pode ser excepcionada, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família.
+2. A revisão da conclusão da instância originária acerca da ausência de prejuízos para o sustento do devedor e de sua família esbarra na Súmula 7/STJ.
+3. Nos termos do entendimento jurisprudencial desta Corte Superior, a incidência do óbice imposto pela Súmula 7/STJ impede a apreciação da divergência jurisprudencial, diante da constatação da ausência de similitude fático-jurídica entre os julgados confrontados.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.423.903/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024 - sem destaque no original)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PENHORA DE VALORES. AGRAVO DE INSTRUMENTO. APOSENTADORIA. SUBSISTÊNCIA. SÚMULA Nº 7 DO STJ. ACÓRDÃO MANTIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação assentada nesta Corte Superior perfilha o posicionamento de que é possível a penhora de parcela da remuneração do devedor, ainda que fora das hipóteses descritas no art. 833, §2º, CPC, desde que não afete o mínimo existencial e a possibilidade de sustento do executado.
+2. Na hipótese dos autos, o Tribunal estadual consignou que a penhora de 30% sobre os proventos de aposentadoria do recorrido violaria o principio da dignidade da pessoa humana. Não é possível analisar, faticamente, a viabilidade da penhora, diante da vedação de apreciação de matéria probatória, nos termos da Súmula nº 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.080.117/SP, de minha relatoria, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024 - sem destaque no original)
+Nesse sentido, o Tribunal de Justiça do Distrito Federal, soberano na análise do contexto fático-probatório, concluiu que, por ser o agravante titular de 99,99% das cotas sociais, a penhora do percentual de 30% dos lucros a ele destinados ainda lhe garantirão a subsistência, pois receberá o equivalente a 70%.
+Dessa forma, para se chegar à conclusão diversa da que chegou o eg. Tribunal local, em relação aos valores serem ou não irrisórios ou dispendiosos, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula n. 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. PENHORA. PERCENTUAL. SALÁRIO. MITIGAÇÃO. PRECEDENTES DO STJ. NÃO AFETA SUBSISTÊNCIA DO DEVEDOR E DA FAMÍLIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A impenhorabilidade de salários, vencimentos ou proventos pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família. Precedentes.
+2. Alterar as conclusões do acórdão recorrido, no sentido de verificar se efetivamente a penhora de percentual da verba salarial acabará por prejudicar subsistência da parte agravante - quando o próprio Tribunal já afastou essa hipótese -, demandaria reexame de matéria fático-probatória, inviável em sede de recurso especial, a teor da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.271.214/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. IMPUGNAÇÃO À PENHORA DE IMÓVEL RURAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. IMPENHORABILIDADE REJEITADA PELO TRIBUNAL ESTADUAL. VIOLAÇÃO AO ART. 833, VIII, DO CPC/2015. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias.
+Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que "(..) os documentos juntados aos autos não demonstram que o recorrente dependa exclusivamente da exploração dos referidos imóveis, para sua sobrevivência, até porque o agravante possui outros imóveis rurais além dos que foram penhorados, conforme se verifica de sua declaração de imposto de renda". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.326.224/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023)
+Ademais, EDSON alegou afronta ao art. 835, § 1º, do NCPC. Sustentou que a prioridade é penhorar dinheiro.
+Nessa linha, observa-se que o Tribunal de Justiça do Distrito Federal e Territórios evidenciou não haver desobediência à ordem prioritária estabelecida no citado dispositivo, porque concluiu que a penhora de 30% dos lucros líquidos recebidos pelo agravante seria considerada penhora de dinheiro.
+No entanto, EDSON limitou-se a alegar que a prioridade é penhorar dinheiro.
+Dessa forma, constatou-se que EDSON deixou de atacar esses fundamentos autônomos e suficientes para manter o julgado, o que atrai a incidência da Súmula n. 283 do STF, por analogia: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito, confiram-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. RESCISÃO CONTRATUAL C/C REPETIÇÃO DO INDÉBITO. FIOPREV. PREVIDÊNCIA PRIVADA. DESLIGAMENTO DO PLANO. RESGATE DAS CONTRIBUIÇÕES DE FORMA INTEGRAL. PRAZO PRESCRICIONAL VINTENÁRIO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. O entendimento jurisprudencial do Superior Tribunal de Justiça é de que "a prescrição da ação de cobrança de parcelas devidas por planos de previdência privada é quinquenal, nos termos do enunciado n. 291 da Súmula do STJ, mas, em se tratando de pleito de restituição de contribuições pagas indevidamente, como ocorre no caso concreto, uma vez configurada relação obrigacional de natureza pessoal, incide a prescrição vintenária, prevista no art. 177 do CC/1916, vigente à época dos fatos" (AgRg no REsp 1.285.643/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/05/2013, DJe de 29/05/2013).
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.757.140/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 9/8/2021, DJe 31/8/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. JUROS MORATÓRIOS. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. 1.026, § 2º, DO CPC/2015. CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+3. Tendo o Tribunal de origem vislumbrado o caráter protelatório dos embargos opostos, não há falar em ofensa ou negativa de vigência ao mencionado art. 1.026, § 2º, do CPC/2015, mas em seu fiel cumprimento. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.807.948/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 4/5/2020, DJe 7/5/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. HONORÁRIOS ADVOCATÍCIOS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. NULIDADE DA CITAÇÃO. AFASTAMENTO. CARTA RECEBIDA POR PESSOA REPRESENTANTE DA EMPRESA. TEORIA DA APARÊNCIA. PRECEDENTES. SÚMULAS 7 E 83 DO STJ. 4. PRETENSÃO DE SUSPENSÃO DO PROCESSO. AUSÊNCIA DE ATOS EXPROPRIATÓRIOS. SÚMULA 83/STJ. 5. AGRAVO IMPROVIDO.
+1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. De fato, a jurisprudência consolidada desta Corte se firmou no sentido de considerar válida a citação/intimação de pessoa jurídica recebida por quem se apresenta como representante legal da empresa, sem nenhuma ressalva sobre a inexistência de poderes para representar em juízo.
+3.1. A modificação do entendimento consignado pelo TJDFT (acerca do fato de que foram atendidas todas as formalidades com a entrega da carta intimatória no estabelecimento comercial da primeira recorrente e que todos foram devidamente citados na execução originária) demandaria necessariamente o revolvimento do conjunto fático-probatório do feito, o que não se admite nesta instância extraordinária, em razão do óbice da Súmula 7/STJ.
+4. Em relação à suspensão do feito, impende registrar que, nos termos da jurisprudência desta Corte, não se suspende o processo, em razão do deferimento do processamento da recuperação judicial, quando não se constata a possibilidade de atos expropriatórios, como no presente caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.521.319/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020)
+Assim, como EDSON não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não provimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
