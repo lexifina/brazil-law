@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.
+1. Não se configura ofensa ao art. 489 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOSÉ GERALDO ELIAS contra decisão de minha lavra, em que conheci do agravo para negar provimento ao recurso especial, considerando a ausência de ofensa ao art. 489 do CPC (e-STJ fls. 515/518).
+Sustenta a parte recorrente, em suma, que a Corte de origem, embora provocada pelos sucessivos recursos, deixou de enfrentar de forma fundamentada as alegações trazidas acerca da impossibilidade de "sucesso prático" e de "descompasso com a isonomia", além da geração de entulhos e maior degradação ambiental, da efetivação da medida de remoção das estruturas erguidas em área ambiental, notadamente quando o dano verificado seria de pequena monta.
+Impugnação apresentada às e-STJ fls. 536/545.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.
+1. Não se configura ofensa ao art. 489 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+Observa-se que a decisão recorrida não merece reparos.
+Quanto à alegada ofensa ao art. 489, § 1º, do CPC/2015, não se vislumbra nenhum equivoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De fato, o Tribunal estadual se pronunciou de modo suficientemente motivado no julgado integrativo acerca da alegada desproporcionalidade da medida de demolição do imóvel erguido em área de preservação permanente, nos seguintes termos (e-STJ fls. 335/337):
+Embora despiciendo, pois já exposto de forma fundamentada e exaustiva no acórdão embargado, restou indiscutível a ocorrência de intervenção em área de preservação permanente sem respectiva autorização, seu enquadramento nas infrações administrativas e a consequente imposição de penalidade legal, elementos que nem sequer foram objeto de impugnação ou controvérsia.
+Se não bastasse, a medida de demolição, além de imposta em absoluta consonância às normas de regência, foi demonstrada como necessária à preservação da área por prova técnica constante nos autos e não desconstituída pela parte adversa. Ao contrário do que insinua o embargante, medidas incidentes e adequadas à preservação e recomposição ambiental em área de preservação ambiental específica estão longe de constituir questão estritamente de direito, fazendo-se impositiva prova pertinente para fins de adoção da medida adequada ao bem jurídico protegido, prova esta apresentada pela parte autora, ora embargada, e acertadamente admitida em juízo.
+Acerca das teses do embargante sobre extensão do dano ambiental, repiso, como já consignado no v. acórdão, que a dimensão da supressão vegetal não altera a necessidade de preservação da margem do curso de água, porquanto a margem - e sua proteção - permanece sendo área fundamental à preservação do curso de água, de modo que se fazem impositivas medidas não apenas voltadas a eventual preservação ou recuperação vegetal, mas também à preservação sistêmica dos recursos ambientais presentes.
+Reitero, pois, que a área objeto da lide consiste em área de preservação permanente que, além de composta por margem de curso de água, está inserida no Bioma Mata Atlântica, aspectos que, por si só, impõem necessária proteção especial, de modo que a proteção e reparação ambiental se estabelecem não apenas sobre a vegetação, mas sobre os demais recursos, inclusive hídricos, estabelecidos na área.
+Destaco que a edificação realizada pelo embargante violou de forma incontestável o art. 3º da Lei Federal nº 12.651/2012, novo Código Florestal, que prevê limites não apenas à preservação vegetal, mas especialmente à preservação dos recursos hídricos.
+Inarredável, portanto, a conclusão do v. acórdão, uma vez que a demolição da construção irregular em área de preservação permanente no presente caso não se trata de medida apenas voltada a eventual recomposição vegetal, como equivocada e insistentemente insinua o ora embargante, mas trata efetivamente de medida para preservação ampla, notadamente do curso de água, para o que não existe a alegada desproporcionalidade.
+Assim, permanece sem qualquer amparo fático ou jurídico as insinuações no sentido da desproporção da ordem de demolição para fins de preservação e recuperação ambiental da área.
+Em face das razões do embargante, necessário salientar novamente que, ao consignar entender inútil a demolição e ter havido apenas remoção de gramíneas, o recorrente ignora de forma patente a complexidade do meio ambiente, limitando-se a considerar os aspectos vegetais do lote, desconsiderando a condição do curso de água e a integração da margem para a qualidade do meio ambiente local.
+Melhor sorte não assiste ao embargante quando insinua contradição acerca de consolidação da construção em área urbanizada, notadamente por ser ela comprovada e incontestavelmente recente e efetivada ao desamparo de qualquer autorização legal ou administrativa, como comprovado pelas análises técnicas realizadas na área e não impugnadas pelo ora recorrente.
+O embargante insiste em invocar existência de construção consolidada ignorando que, para fins de direito ambiental, consolidação admitida por relevante não está amparada no mero decurso de tempo, mas se estabelece segundo parâmetros previstos em lei e inexistentes no caso concreto, não se tratando de intervenção antrópica consolidada sob nenhum aspecto.
+Lado outro, reitero que o fato de haver outros imóveis na região onde ocorrida intervenção irregular não desconstitui a infração ambiental praticada na hipótese e a consequente incidência de medidas de reparação nos termos da lei. Eventuais irregularidades ou infrações ambientais cometidas por terceiros na região não torna regular a intervenção do embargante, mas apenas apontam para a necessidade de apuração e imposição de medidas de reparação também sobre esses terceiros. (grifos acrescidos).
+Ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
