@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de qualquer dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos os segundos aclaratórios que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de segundos embargos de declaração opostos por Elvio Dutra Adolfo contra acórdão proferido pela Primeira Turma, assim ementado (fl. 1.139):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+Em suas razões, a parte embargante sustenta, em resumo, que "busca apenas a correta aplicação das prescrições legais, haja vista a ausência de publicação e intimação da Sentença de piso, por consequência gerando nulidade processual. Assim, esta Corte ao aportar-se de decisão omissa, seguindo o Tribunal a quo, também incorre em claro descumprimento dos seguintes preceitos legais insculpidos no Art. 278, parágrafo único e Art. 1.022, II, ambos do CPC, sendo esta questão de ordem pública que deve ser conhecida ex officio em qualquer tempo ou grau de jurisdição, entendimento este já pacificado por esta Corte Superior:  .. ".
+A parte embargada apresentou impugnação às fls. 1.164/1.167.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de qualquer dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos os segundos aclaratórios que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não comportam acolhimento os novos embargos de declaração.
+Vale retomar a recente evolução processual do feito quanto ao seu não conhecimento neste Superior Tribunal de Justiça.
+O agravo em recurso especial apreciado pela Presidência desta Corte não foi conhecido (fl. 1.056/1.057) por não terem sido impugnados de forma específica os seguintes fundamentos adotados pela decisão de inadmissibilidade proferida na origem: ausência de afronta ao art. 1.022 do CPC e incidência da Súmula 211/STJ.
+Interposto agravo interno contra o referido decisum (fls. 1.064/1.075), vieram os autos distribuídos a esta relatoria (fl. 1.087).
+Apreciando as razões de agravo, observou-se que, a despeito de o agravante sustentar ter havido efetiva impugnação das fundamentações citadas, não houve remissão às folhas ou trechos em que teriam ocorrido tais argumentações, tampouco se identificou em sua peça de agravo em recurso especial a alegada impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial.
+Assim, manteve-se a aplicação da Súmula 182/STJ outrora aplicada pela Presidência desta Corte Superior (fls. 1.113/1.115).
+Opostos embargos de declaração às fls. 1.121/1.126, esses foram rejeitados por inexistir no acórdão embargado qualquer dos vícios previstos no dispositivo legal que embasa o instrumento processual aclaratório (fls. 1.143/1.145).
+Em seus segundos embargos de declaração, o embargante reprisa suas alegações outrora refutadas, defendendo que a sua tese de ocorrência de vício grosseiro insanável - ausência de publicação e intimação da sentença -, reiteradamente apontado, deve ser conhecido de ofício.
+Confiram-se os termos do petitório (fl. 1.153):
+Diferentemente do compreendido na decisão ora embargada, esta Corte optou, equivocadamente, por manter-se OMISSA, silenciando-se sobre a matéria amplamente ventilada de forma pormenorizada sobre flagrante descumprimento da legislação federal e seus dispositivos, vez que, conforme se observa o referido Acórdão, claramente padronizado, mantém os vícios integrativos de omissão insanável, tendo em vista que o Embargante, no primeiro momento oportunizado, tomou cautela de suscitar todos os fundamentos atacados em sede de EDcl perante e. TJRS, nos termos do art. 1.022 do CPC, tendo o referido Tribunal negligenciado a lei federal , portanto, não havendo o que se falar em eventual alegação de nulidade de algibeira.
+Deste modo, o Acórdão guerreado força novamente o Embargante a propor os EDcl dos E Dcl, a fim de buscar a correta aplicação por este STJ da lei federal Art. 1.022, II; Art. 489, §1º, inciso V; Art. 1.013 §1º e Art. 369 todos do CPC, a fim de destravar o AREsp, consequentemente levando ao julgamento o REsp que demonstrou de forma clara, precisa e pormenorizada o descumprimento da legislação infraconstitucional pelo Tribunal a quo, deste modo, não podendo esta Corte ignorar tal demonstração inequívoca do vício atribuído à decisão recorrida e de sua importância para a solução da controvérsia e correta aplicação da lei federal.
+Imperioso frisar, que o pleito perseguido pelo Embargante não se trata de mera irresignação sobre decisão de instância inferior, repita-se, não se trata de irresignação, conforme erroneamente destacado nas decisões anteriores, pois em via de regra, a consagração da devida aplicação de uma lei supera o mero interesse do particular em garantia ao Princípio do Devido Processo Legal e, consequentemente, da ordem pública.
+Destaca-se que o Embargante busca apenas a correta aplicação das prescrições legais, haja vista a ausência de publicação e intimação da Sentença de piso, por consequência gerando nulidade processual. Assim, esta Corte ao aportar-se de decisão omissa, seguindo o Tribunal a quo, também incorre em claro descumprimento dos seguintes preceitos legais insculpidos no Art. 278, parágrafo único e Art. 1.022, II, ambos do CPC, sendo esta questão de ordem pública que deve ser conhecida ex officio em qualquer tempo ou grau de jurisdição , entendimento este já pacificado por esta Corte Superior:  ..
+Invoca-se, novamente, o previsto no artigo 1.022 do CPC, no qual elencam-se as possibilidades de oposição de embargos de declaração, quais sejam: hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+No caso dos autos, repete-se, não há qualquer desses vícios, pois o acórdão embargado enfrentou suficientemente a matéria devolvida nos primeiros embargos de declaração: a alegada ocorrência de vício previsto no art. 1.022.
+A propósito, confiram-se os seguintes trechos do aresto embargado (fls. 1.144):
+Com efeito, ficou devidamente consignado no aresto hostilizado que não há em suas razões de agravo impugnação específica e individualizada aos fundamentos da decisão que inadmitiu o recurso especial. A propósito, confiram-se os seguintes trechos do acórdão embargado (fls. 1.114): Como antes assentado no decisório, observa-se que o agravo em recurso especial não ultrapassa a barreira do conhecimento, pois a parte agravante não rebateu, nas suas razões recursais (fls. 1.037/1.043), de modo específico e individualizado, os fundamentos adotados pela decisão que inadmitiu o apelo especial, quais sejam: a ausência de violação ao art. 1.022 do CPC e a incidência da Súmula 211/STJ (fls. 1.021/1.029).
+Dessa forma, novamente, não podem ser acolhidos os embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi, qual seja, a impossibilidade de se conhecer do agravo em recurso especial que deixa de impugnar especificamente todos os fundamentos de inadmissão do apelo nobre. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. MODIFICAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. O instituto da preclusão consumativa veda a possibilidade de aditar razões a recurso já interposto. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.342.294/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão e contradição, uma vez que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Incide a Súmula 187/STJ quando a parte, devidamente intimada para sanar vício relativo ao recolhimento do preparo (art. 1.007, § 4º, do CPC), interpõe recurso contra o despacho de regularização e não realiza o recolhimento em dobro. Precedentes.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.900.442/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
