@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. DECISÃO AGRAVADA. FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ARTIGO. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA Nº 182/STJ. MULTA. ARTIGO 1.021, § 4º, DO CPC. INAPLICABILIDADE.
+1. A ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema, o que não se aplica na hipótese de decisão com fundamento único ou com capítulos que dependam um do outro. Precedente da Corte Especial.
+2. Na hipótese, constatada a ausência de impugnação específica, incide o disposto no artigo 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+3. A Segunda Seção do Superior Tribunal de Justiça decidiu que a aplicação da multa prevista no artigo 1.021, § 4º, do CPC não é automática por não se tratar de mera decorrência lógica da rejeição do agravo interno.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial em virtude da falta de impugnação específica dos fundamentos da decisão denegatória do apelo nobre, atraindo, assim, a aplicação do disposto no artigo 932, III, do Código de Processo Civil (e-STJ fls. 465/466).
+Em suas razões (e-STJ fls. 470/474), a agravante reitera a alegação de que o tribunal de origem violou os artigos 206 e 125 do Código de Processo Civil, visto que não possui legitimidade para figurar no polo passivo da presente demanda.
+Aduz ser
+"(..) admissível a denunciação a lide àquele que estiver obrigado pelo contrato a indenizar em ação de regresso. Desta forma, foi exaustivamente demonstrado ao decorrer do processo, que o contrato foi firmado com MUNICÍPIO DE QUATÁ, devendo esta responder por eventuais vícios constatados" (e-STJ fl. 474).
+Sustenta ter impugnado os fundamentos da decisão de inadmissibilidade de forma pormenorizada, concreta e efetiva.
+Defende que o direito alegado estaria prescrito.
+Requer a reconsideração da decisão atacada ou a submissão do feito ao colegiado.
+A parte contrária apresentou contrarrazões às e-STJ fls. 480/490, pugnando pela aplicação da multa prevista no artigo 1.021, § 4º, do CPC.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. DECISÃO AGRAVADA. FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ARTIGO. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA Nº 182/STJ. MULTA. ARTIGO 1.021, § 4º, DO CPC. INAPLICABILIDADE.
+1. A ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema, o que não se aplica na hipótese de decisão com fundamento único ou com capítulos que dependam um do outro. Precedente da Corte Especial.
+2. Na hipótese, constatada a ausência de impugnação específica, incide o disposto no artigo 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+3. A Segunda Seção do Superior Tribunal de Justiça decidiu que a aplicação da multa prevista no artigo 1.021, § 4º, do CPC não é automática por não se tratar de mera decorrência lógica da rejeição do agravo interno.
+4. Agravo interno não conhecido.
+VOTO
+A irresignação não comporta conhecimento.
+Inicialmente, cumpre assinalar que a Corte Especial, no julgamento dos EREsp 1.424.404/SP, pacificou o entendimento de que, no agravo interno, a ausência de impugnação de fundamentos aplicados a capítulos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, preclusão do tema.
+Restou assentado também que a previsão contida na Súmula nº 182/STJ e no artigo 1.021, § 1º, do CPC terá incidência nas seguintes hipóteses:
+(i) ausência de impugnação específica em decisão com fundamento único ou com capítulos que sejam dependentes um do outro, e
+(ii) impugnação parcial de capítulo autônomo, ou seja, não foi rebatido pelo menos um dos fundamentos sobrepostos no mesmo capítulo.
+Eis a ementa do referido acórdão:
+"EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO. DESNECESSIDADE DE IMPUGNAÇÃO DE TODOS OS CAPÍTULOS AUTÔNOMOS E/OU INDEPENDENTES DA DECISÃO MONOCRÁTICA AGRAVADA. INAPLICABILIDADE DA SÚMULA 182/STJ.
+1. A regra da dialeticidade - ônus do recorrente de apresentar os fundamentos de sua irresignação - constitui reflexo do princípio constitucional do contraditório e da necessária interação dialógica entre as partes e o magistrado, revelando-se como a outra face da vedação do arbítrio, pois, se o juiz não pode decidir sem fundamentar, "a parte não pode criticar sem explicar" (DOTTI, Rogéria. Todo defeito na fundamentação do recurso constitui vício insanável  Impugnação específica, dialeticidade e o retorno da jurisprudência defensiva. In: NERY JUNIOR, Nelson; ALVIM, Teresa Arruda; OLIVEIRA, Pedro Miranda de  coord. . Aspectos polêmicos dos recursos cíveis e assuntos afins. Volume 14  livro eletrônico . São Paulo: Thomson Reuters Brasil, 2018).
+2. Tal dever de fundamentação da pretensão de reforma do provimento jurisdicional constitui requisito extrínseco de admissibilidade dos recursos, que se enquadra na exigência de regularidade formal.
+3. Nada obstante, via de regra, é possível eleger, em consonância com o interesse recursal, quais questões jurídicas - autônomas e independentes - serão objeto da insurgência, nos termos do artigo 1.002 do CPC de 2015. Assim, "considera-se total o recurso que abrange "todo o conteúdo impugnável da decisão recorrida", porque toda ela pode não ser impugnável; e parcial o recurso que, por abstenção exclusiva do recorrente, "não compreenda a totalidade do conteúdo impugnável da decisão" (ASSIS, Araken de. Manual dos recursos  livro eletrônico . 4. ed. São Paulo: Thomson Reuters Brasil, 2021).
+4. O citado dispositivo legal - aplicável a todos os recursos - somente deve ser afastado quando há expressa e específica norma em sentido contrário, tal como ocorre com o agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no artigo 253, parágrafo único, inciso II, alínea "a", do RISTJ, segundo o qual compete ao relator não conhecer do agravo "que não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+5. Sobre a aludida modalidade de recurso - agravo do artigo 544 do CPC de 1973, atualmente disciplinado pelo artigo 1.042 do CPC de 2015 -, a Corte Especial fixou a orientação no sentido de ser inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes (EAREsps 701.404/SC, 746.775/PR e 831.326/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19.9.2018, DJe 30.11.2018).
+6. Como se constata, essa orientação jurisprudencial se restringe ao Agravo em Recurso Especial (AREsp) - ante a incindibilidade da conclusão exarada no juízo prévio negativo de admissibilidade do apelo extremo -, não alcançando, portanto, o Agravo Interno no Recurso Especial (AgInt no REsp) nem o Agravo Interno no Agravo em Recurso Especial (AgInt no AREsp), haja vista a possibilidade, em tese, de a decisão singular do relator ser decomposta em "capítulos", vale dizer unidades elementares e autônomas do dispositivo contido no provimento jurisdicional objeto do recurso.
+7. A autonomia dos capítulos da sentença - lato sensu - apresenta dois significados: (i) o da possibilidade de cada parcela do petitum ser objeto de um processo separado, sendo meramente circunstancial a junção de várias pretensões em um único processo; e (ii) o da regência de cada pedido por pressupostos próprios, "que não se confundem necessariamente nem por inteiro com os pressupostos dos demais" (DINAMARCO, Cândido Rangel. Capítulos de sentença. São Paulo: 2002, Malheiros, pp. 43-44).
+8. O renomado autor aponta, ainda, a possibilidade de a decisão judicial conter "capítulos independentes" e "capítulos dependentes".
+Nessa perspectiva, destaca que a dependência entre capítulos sentenciais se configura: (i) quando constatada relação de prejudicialidade entre duas pretensões, de modo que o julgamento de uma delas (prejudicial) determinará o teor do julgamento da outra (prejudicada); e (ii) entre o capítulo portador do julgamento do mérito e aquele que decidiu sobre a sua admissibilidade (DINAMARCO, Cândido Rangel. Op. cit., pp. 44-46).
+9. Diante desse contexto normativo e doutrinário, deve prevalecer a jurisprudência desta Corte no sentido de que a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ.
+10. Ressalte-se, contudo, o dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016).
+11. Embargos de divergência providos para afastar a aplicação da Súmula 182/STJ em relação ao agravo interno, que deve ser reapreciado pela Primeira Turma desta colenda Corte."
+(EREsp 1.424.404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021 - grifou-se)
+Na hipótese dos autos, a decisão atacada decidiu a controvérsia ora posta em exame com base no fundamento de que a parte agravante não impugnou, nas razões do agravo em recurso especial, de forma efetiva, a decisão de admissibilidade na parte que dispôs acerca da incidência da Súmula nº 7/STJ e da ausência de comprovação do dissídio jurisprudencial, o que atraiu o disposto nos artigos 21-E, V, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (artigo 932, III, do Código de Processo Civil).
+Naquela oportunidade, restou consignado que,
+"(..) em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ" (e-STJ fl. 466).
+No presente recurso, a agravante reitera as razões de mérito expendidas no recurso especial, alegando não possuir legitimidade passiva e que o direito alegado pela parte autora estaria prescrito.
+Observa-se, assim, que a parte agravante não demonstrou ter impugnado os fundamentos utilizados pela decisão impugnada para impedir o trânsito do recurso.
+Nesse cenário, incide o disposto no § 1º do art. 1.021 do Código de Processo Civil.
+Imperioso mencionar, ainda, que o óbice previsto no dispositivo legal em epígrafe já estava contido na Súmula nº 182/STJ, conforme se observa dos seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RAZÕES DO AGRAVO QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC.
+1. Não merece conhecimento o agravo interno que não impugna especificamente os fundamentos da decisão agravada.
+(..)
+4. Agravo não conhecido, com aplicação de multa."
+(AgInt no AREsp 1.167.045/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/2/2018, DJe 2/3/2018)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGADA.
+1. Na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar inovação recursal em virtude da ocorrência de preclusão consumativa.
+2. Razões do agravo regimental que não infirmaram especificamente os fundamentos dos capítulos impugnados na decisão monocrática recorrida.
+Em cumprimento ao princípio da dialeticidade, deve a parte agravante demonstrar, de modo abalizado, o desacerto de cada fundamento dos capítulos impugnados na decisão agravada. Incidência do óbice enunciado na Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC 73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Agravo regimental não conhecido."
+(AgRg no REsp 1.218.010/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/3/2018, DJe 13/3/2018)
+Por fim, relativamente à multa prevista no artigo 1.021, § 4º, do CPC, requerida nas contrarrazões, a Segunda Seção decidiu que a aplicação da referida penalidade não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+No caso concreto, não se vislumbra intenção abusiva ou protelatória na interposição de recurso previsto em lei, necessário, inclusive, para esgotar esta instância, requisito indispensável à interposição de eventual recurso extraordinário.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
