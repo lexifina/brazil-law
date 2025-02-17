@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. PREJUDICIALIDADE DO DISSÍDIO JURISPRUDENCIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. DESCABIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+II - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto a ausência de indicação de dispositivo de lei federal apto a sustentar a tese impede o exame do dissídio jurisprudencial.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de Agravo Interno interposto contra a decisão que conheceu parcialmente do Recurso Especial e, nesta parte, negou-lhe provimento, fundamentada na (i) ausência de omissão no acórdão recorrido; (ii) ausência de amparo no dispositivo apontado para sustentar a tese quanto a ilegitimidade para figurar no polo passivo das ações regressivas ajuizadas pelo INSS, atraindo o entendimento da Súmula n. 284 do Supremo Tribunal Federal; (iii) prejudicialidade do dissídio jurisprudencial.
+Sustenta o Agravante, em síntese, ser pacífica a orientação jurisprudencial do STJ acerca da admissibilidade da prova pericial por similaridade, o que autorizaria o processamento do recurso com fundamento na alínea c.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 1.290e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. PREJUDICIALIDADE DO DISSÍDIO JURISPRUDENCIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. DESCABIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+II - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto a ausência de indicação de dispositivo de lei federal apto a sustentar a tese impede o exame do dissídio jurisprudencial.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Não assiste razão aao Agravante.
+A tese de validade da prova pericial por similaridade não encontra amparo no dispositivo apontado (art. 1.025 do CPC), o que impede sua apreciação em recurso especial.
+Com efeito, incide na espécie, por analogia, o óbice contido na Súmula 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPI. COMPENSAÇÃO. CRÉDITOS NÃO-DECLARADOS E NÃO-HOMOLOGADOS. ART. 16, § 3º, DA LEI N. 6.830/1980. VEDAÇÃO. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A Primeira Seção do Superior Tribunal de Justiça, em interpretação ao disposto no art. 16, § 3º, da Lei n. 6.830/1980, firmou orientação segundo a qual não cabe discutir, em embargos à execução fiscal, a validade de compensação tributária não homologada na esfera administrativa (EREsp 1.795.347/RJ, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 27/10/2021, DJe 25/11/2021).
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp n. 2.152.906/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL, A TERCEIROS E RAT. MENOR APRENDIZ. 1) ALEGADA VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. RAZÕES DISCREPANTES DA REALIDADE PROCESSUAL. 2) DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS QUE NÃO POSSUEM COMANDO NORMATIVO CAPAZ DE INFIRMAR A MOTIVAÇÃO DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Espécie em que parte agravante impetrou mandado de segurança objetivando o reconhecimento da inexigibilidade da contribuição patronal, RAT e devida a terceiros sobre os valores pagos aos menores aprendizes. Denegada a segurança, foi interposto recuso de apelação, o qual foi desprovido pelo Tribunal de origem.
+2. Os dispositivos legais apontados como violados pelo recurso especial - arts. 4º do Decreto-lei n. 2.318/1986; 13 da Lei n. 8.213/1991; 22, incisos I, II, III, da Lei n. 8.212/1991; e 428 e 429 da CLT - não possuem comando capaz de infirmar os fundamentos do acórdão recorrido e não trazem nenhuma referência que possa amparar a tese recursal, segundo a qual, possui a impetrante o direito de que seja excluída da base de cálculo da contribuição previdenciária a cargo do empregador (quota patronal, risco ambiental do trabalho - RAT e contribuições a terceiros) as importâncias pagas aos menores aprendizes. Incidência da Súmula n. 284 do STF.
+3. Ainda que assim não fosse, ao deixar assentado que "o trabalho do menor assistido não se confunde com o do menor aprendiz e do menor empregado, aos quais são assegurados os direitos previdenciários e trabalhistas" (fl. 210), o Tribunal regional decidiu de acordo com o entendimento dessa Corte Superior, especialmente porque a lei de outorga de isenção ou exclusão tributária deve ser interpretada literalmente.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.147.504/CE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+Desse modo, o recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto a ausência de indicação de dispositivo legal apto a sustentar a tese recursal impede o exame do dissídio jurisprudencial.
+Sobre o tema, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIÇOS DE SUPORTE TÉCNICO E PROCESSAMENTO DE DADOS. ISS. ANÁLISE DE CONTRATOS NA PRESTAÇÃO DE SERVIÇOS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. PROCEDIMENTO ADMINISTRATIVO FISCAL. LEI COMPLEMENTAR MUNICIPAL 14.107/2005. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. O Tribunal de origem decidiu, após a análise de provas e do contrato, que os serviços contratados e prestados não estariam restritos à mera prestação de serviços de suporte técnico.
+Entendimento diverso implicaria o reexame de contratos e do contexto fático-probatório dos autos, circunstâncias que redundariam na formação de novo juízo acerca dos fatos e das provas. Incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+2. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é inviável.
+Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+3. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.139.382/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMA A QUE FOI NEGADO SEGUIMENTO PELO TRIBUNAL DE ORIGEM. ART. 1.030, I, b, DO CPC. IMPOSSIBILIDADE DE REDISCUSSÃO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. No caso em exame, tendo o Tribunal de origem negado seguimento ao recurso especial, no ponto em que discute matéria que foi objeto de tese firmada em sede de recurso repetitivo (Tema 132/STJ) e de repercussão geral (Tema 296/STF), não se torna possível o exame de violação do art. 108, § 1º, do CTN; e art. 1º e Lista Anexa da LC 116/2003.
+2. A admissibilidade do recurso especial pela alínea c do permissivo constitucional exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284/STF.
+Nesse sentido: AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, julgado em 18/12/2013, DJe de 17/3/2014; AgInt no AREsp n. 1.664.525/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/10/2020, DJe de 14/12/2020.
+2. No particular, a parte agravante deixou de indicar quais os dispositivos de lei federal teriam sido objeto de interpretação divergente pelos acórdãos confrontados, motivo pelo qual é o caso de incidência do óbice da Súmula 284/STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.598.742/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso (AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016 ).
+No caso, apesar do improvimento do Agravo Interno, não se configura a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Posto isso, NEGO PROVIMENTO ao recurso.
