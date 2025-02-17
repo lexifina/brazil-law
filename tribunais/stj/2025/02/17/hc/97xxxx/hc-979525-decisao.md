@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TIAGO DE AGUIAR RODRIGUES, contra decisão monocrática de e. Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ, no julgamento dos embargos infringentes na revisão criminal n. 003297-20.2024.8.03.0000.
+Consta dos autos que o paciente foi condenado pela prática dos crimes descritos nos arts. 14 e 15 da Lei n. 10.826/2003 e art. 129 do Código Penal, na forma do art. 69 do Código Penal, com penas de 3 meses de detenção, 4 anos e 4 meses de reclusão em regime inicial semiaberto e pagamento de 21 dias-multa, à razão unitária de um trigésimo do salário-mínimo (fl. 3).
+Após o trânsito em julgado, a defesa ajuizou revisão criminal perante o Tribunal de origem, que, por maioria, julgou improcedente o pleito revisional, conforme acórdão de fls. 19-47.
+Inconformada, a defesa interpôs embargos infringentes, que, por decisão monocrática de e. Desembargador não foi conhecido (fls. 697-704).
+No presente writ, a defesa sustenta que houve ilegalidade no não reconhecimento da consunção entre os crimes de disparo de arma de fogo e lesão corporal, contrariando jurisprudência do STJ e do STF (fl. 2).
+Argumenta que o disparo de arma de fogo foi o meio de lesionar a vítima, havendo relação meio-fim entre as condutas, e que a intenção do agente era lesionar a vítima, não havendo disparos antes ou depois para que fosse reconhecido crime autônomo (fls. 7-8).
+Alega ainda que a jurisprudência admite a absorção de um delito mais grave por outro de menor lesividade quando utilizado como instrumento para a consecução deste último (fl. 8).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para reconhecer a absorção do crime de disparo de arma de fogo ao crime de lesão corporal leve, nos termos da fundamentação (fl. 9).
+É o relatório. DECIDO.
+A controvérsia gira em torno de possível ilegalidade na negativa de reconhecimento da consunção entre os delitos imputados.
+No caso, inviável o conhecimento do presente habeas corpus, uma vez que se insurge contra decisão monocrática, proferida por Desembargador do Tribunal de origem.
+Todavia, observa-se que não houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Com efeito, segundo disposição do art. 105, "c", da Constituição Federal, este Superior Tribunal de Justiça é competente para conhecer do habeas corpus na existência de ato proferido por Tribunal sujeito à sua jurisdição. Vale dizer, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, I, "c", da Constituição Federal, para julgar habeas corpus impetrado contra decisão monocrática, proferida por Desembargador Relator, que indeferiu liminarmente o pleito revisional na origem.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para então ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste habeas corpus. A propósito: AgInt no HC n. 409.060/RN, Quinta Turma, Rel. Min. Jorge Mussi, DJe 28/02/2018; HC n. 385.063/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 14/11/2017; HC n. 349.782/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 12/12/2017.
+Ademais, asseverando-se que o ato coator impugnado no presente writ foi a decisão monocrática proferida no bojo dos embargos infringentes contra revisão criminal n. 0003297-20.2024.8.03.0000, eventual insurgência em relação a outros acórdãos ou decisões deverá ser impugnada por meio do recurso cabível, ou mesmo ser objeto de novo mandamus, pois para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração ainda que para fins de economia processual ou de celeridade (v.g. HC n. 389.631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/03/2017).
+Diante de tais considerações, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
