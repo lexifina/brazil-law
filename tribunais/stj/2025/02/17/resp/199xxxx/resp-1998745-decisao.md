@@ -1,0 +1,30 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça respectivo na Apelação Criminal n. 1502814-64.2019.8.26.0544
+O recorrido foi condenado, pelo crime descrito no art. 157, §§ 2º, II, e 2º-A, I, do Código Penal, a 10 anos, 4 meses e 13 dias de reclusão, em regime fechado, mais 23 dias-multa.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de alterar a pena definitiva para 6 anos e 8 meses de reclusão e 16 dias-multa, mantido o regime fechado.
+Os embargos de declaração opostos foram rejeitados.
+No especial, a acusação assim resumiu sua argumentação (fl. 446):
+Enfim, ao reconhecer o concurso de quatro agentes na prática do roubo, mas não o considerar para fins de exasperação da reprimenda, mesmo após provocado por embargos declaratórios, o aresto recorrido ignorou circunstância concreta judicial desfavorável ao sentenciado, que reclamava maior exasperação da reprimenda, contrariando, assim, o artigo 59 do Código Penal.
+Apresentadas as contrarrazões, o recurso foi admitido na origem, e o Ministério Público Federal, na pessoa do Subprocurador-Geral Mário Ferreira Leite, opinou por seu não provimento (fls. 526-533).
+Decido.
+O recurso especial preenche os requisitos de admissibilidade, mas, no mérito, não comporta provimento.
+O Tribunal local assim resolveu a controvérsia (fls. 456-457):
+A questão relacionada à matéria foi examinada pela Turma Julgadora, que se pronunciou nos seguintes termos:
+Na terceira fase, deve ser aplicado apenas o acréscimo de 2/3, uma vez que, nos termos do artigo 68, parágrafo único, adota-se a aplicação de um só aumento, prevalecendo, evidentemente, a exasperação maior relacionada ao emprego de arma de fogo.
+Com se vê, a Turma Julgadora adotou o posicionamento previsto, literalmente, no texto legal. Conquanto uma faculdade e não uma obrigatoriedade , a escolha pela causa de aumento mais grave encontra respaldo no princípio da proporcionalidade, haja vista que a circunstância relacionada ao emprego de arma de fogo, por si só, importa em majoração diferenciada, com pena superior à prevista antes da edição da Lei 13.654/2018.
+Por outro lado, adotar a circunstância relacionada ao concurso de agentes para fixar a pena-base acima do piso, ou seja, como circunstância judicial desfavorável, configuraria inequívoca afronta ao sistema trifásico.
+Nos termos do art. 68, parágrafo único, do Código Penal: "No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua".
+O julgador, diante do concurso de majorantes, deve apresentar fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula n. 443 do STJ, ao não optar por aplicar um único aumento, observada a causa mais gravosa, escolha mais benéfica ao réu entre as opções do art. 68, parágrafo único, do CP.
+Dentro de seu âmbito de discricionariedade e diante das peculiaridades do caso concreto, o Colegiado estadual, acertadamente, optou pela aplicação apenas da causa de aumento mais gravosa - emprego de arma de fogo -, alternativa que beneficiou o réu, em atenção ao já mencionado art. 68, parágrafo único, do CP, o que, como visto acima, dispensa fundamentação exaustiva.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. CONCURSO DE CAUSAS ESPECIAIS DE AUMENTO. CONCURSO DE AGENTES E UTILIZAÇÃO DE ARMA DE FOGO. AUSÊNCIA DE FUNDAMENTOS CONCRETOS PARA A APLICAÇÃO CUMULATIVA DAS CIRCUNSTÂNCIAS LEGAIS. SÚMULA N. 443/STJ. MAJORANTE SOBEJANTE. DESLOCAMENTO PARA A PENA-BASE. OBRIGATORIEDADE DE INCREMENTO DA SANÇÃO BASILAR. INEXISTÊNCIA. DISCRICIONARIEDADE DO JULGADOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A discricionariedade atribuída às instâncias ordinárias para a imposição da pena necessária, à vista das peculiaridade do caso concreto, restringe a atuação reformadora desta Corte Superior a situações em que evidenciada flagrante ilegalidade na concretização da pena.
+2. Ausentes fundamentos concretos para a aplicação cumulativa das causas especiais de aumento do crime de roubo, correto se afigura o acórdão apelatório que deixa de exacerbar a pena, na terceira fase da dosimetria, em virtude da majorante relativa ao concurso de agentes, ex vi do art. 68, parágrafo único, do Código Penal e da Súmula n. 443/STJ.
+3. O Tribunal a quo, embora tenha admitido a possibilidade de deslocamento da segunda majorante reconhecida para a primeira fase da dosimetria, deixou de exasperar a pena-base. Consignou-se no acórdão apelatório que, após a análise das peculiaridades do caso concreto, não haveria necessidade de maior recrudescimento das penas, visto que as sanções já impostas eram necessárias e suficientes para a prevenção e reprovação do crime.
+4. Colhe-se da jurisprudência do Superior Tribunal de Justiça o entendimento segundo o qual a possibilidade de deslocamento das sobejantes causas especiais de aumento de pena do crime de roubo para a primeira etapa do sistema dosimétrico não impõe ao julgador, necessariamente, o incremento da pena. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.748.721/RN, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 3/12/2024, DJEN de 9/12/2024)
+Por fim, "o deslocamento de causas de aumento do crime de roubo para a primeira fase da dosimetria se encontra inserida no juízo de discricionariedade do julgador. Destarte, considerando que não há obrigatoriedade de aplicação de majorante sobejante para exasperar pena-base, não cabe a esta Corte alterar a conclusão exarada pelo Tribunal de origem" (AgRg nos EDcl no REsp n. 2.051.458/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se, inclusive a vítima , para ciência do resultado do julgamento.
+EMENTA
