@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  DECISÃO MANTIDA.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica a fundamento da decisão que inadmitiu o apelo nobre, qual seja: a incidência do óbice da Súmula 7/STJ.
+2. O recurso especial foi inadmitido na origem pela ausência de afronta aos arts. 489 e 1.022 do CPC e de demonstração de afronta a dispositivo legal, além da incidência da Súmula 7/STJ.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial impede o conhecimento do agravo em recurso especial.
+III. RAZÕES DE DECIDIR
+4. A decisão monocrática da Presidência do STJ deve ser mantida, pois a parte agravante não refutou todos os fundamentos da decisão que inadmitiu o apelo nobre, especificamente a incidência da Súmula 7/STJ.
+5. O agravo em recurso especial deve impugnar especificamente todos os fundamentos da decisão recorrida, sob pena de não ser conhecido, conforme art. 932, III, do CPC e art. 253, I, do Regimento Interno do STJ.
+6. Nos termos da jurisprudência deste Superior Tribunal: "Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas." (AgInt no AREsp n. 2.152.939/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+IV. AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  GILEADE DE SOUZA GONÇALVES  contra  decisão  monocrática  da  Presidência  desta  Corte  Superior de Justiça,  que  não  conheceu  do  agravo  em  recurso  especial.  (e-STJ, fls.  312/314).
+Consta dos autos que o  Tribunal  de origem,  por  unanimidade,  negou  provimento  à apelação civil.  Eis  a  ementa  do  acórdão  objurgado  (e-STJ, fls.  271):
+Rescisão contratual cumulada com cobrança de "royalties" e multas. Contrato de franquia. Impossibilidade de anulação do contrato em razão da inobservância do prazo mínimo de 10 dias para entrega da COF e omissão de algumas informações previstas no art. 2º da Lei 13.966/19. Ocorrência de convalidação tácita. Exercício da atividade empresarial por, aproximadamente, 2 anos. Inteligência do art. 174 do Código Civil e Enunciado IV do Grupo de Câmaras Reservadas de Direito Empresarial deste Tribunal. Contrato de franquia não constitui sucesso garantido, mas, ao contrário, abrange os aspectos empresariais de iniciativa e risco. Ausência de prova de descumprimento contratual por parte da autora. Apelo desprovido.
+Opostos  embargos  de  declaração,  estes  foram  rejeitados,  à  unanimidade  de  votos  (fls.  286/288).
+Nas  razões  do  recurso  especial  (e-STJ, fls.  291/300),  interposto  com  fundamento  no  art.  105,  inciso  III,  alínea  a,  da  Constituição  da  República,  a  parte agravante  alegou  violação  dos arts. 489, §1º, IV; 1.022, II; e 1.025, todos do Código de Processo Civil, bem como aos arts. 138, 145, e 171, II, todos do Código Civil.
+Pretendeu, pois, a anulação do acórdão proferido nos embargos de declaração, diante da alegada ausência de prestação jurisdicional, em razão da apontada omissão nos acórdãos da origem, o reconhecimento da anulabilidade do negócio jurídico e a inversão e majoração dos honorários advocatícios sucumbenciais no âmbito deste recurso especial.
+Apresentadas  as  contrarrazões  (e-STJ, fls.  305/309),  o  recurso  especial  foi  inadmitido  na  origem  pela ausência de afrontam aos arts. 489 e 1.022 do CPC e de demonstração de afronta a dispositivo legal, além da incidência da Súmula 7/STJ  (fls.  312/314).
+Foi  interposto  o  respectivo  agravo  (e-STJ, fls.  317/323),  no  qual  o  insurgente  pugnou  pela  admissão  do  apelo nobre.
+Na  decisão  monocrática,  a  Presidência  do  Superior  Tribunal  de  Justiça  não  conheceu  do  agravo  em  recurso  especial,  em  razão  da  ausência  de  impugnação  específica  a  fundamento  da  decisão  que  inadmitiu  o  apelo  nobre,  qual  seja:  a  incidência  do  óbice  da  Súmula  7/STJ.
+Nas  razões  deste  agravo  interno  (e-STJ, fls.  317/323),  a  agravante  requer  a  reconsideração  da  decisão  impugnada  .
+Pelo  despacho  de  fl.  352,  foi  determinada  a  redistribuição  dos  autos.
+Conforme Certidão acostada aos autos (e-STJ, fl. 350), "decorreu sem manifestação o prazo, que teve início em e término em 14/11/2024 06/12/2024, para SENHOR SMART ASSISTENCIA TECNICA EM EQUIPAMENTOS DE COMUNICACAO LTDA apresentar resposta à petição n. 1006237/2024 (AGRAVO INTERNO), de fls. 341".
+Conforme  Termo  de  Distribuição  e  Encaminhamento  de  fl.  356,  o  feito  foi  a  mim  atribuído.
+Por  manter  o  decisum,  trago  o  feito  a  julgamento  do  colegiado.
+É  o  relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  DECISÃO MANTIDA.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica a fundamento da decisão que inadmitiu o apelo nobre, qual seja: a incidência do óbice da Súmula 7/STJ.
+2. O recurso especial foi inadmitido na origem pela ausência de afronta aos arts. 489 e 1.022 do CPC e de demonstração de afronta a dispositivo legal, além da incidência da Súmula 7/STJ.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial impede o conhecimento do agravo em recurso especial.
+III. RAZÕES DE DECIDIR
+4. A decisão monocrática da Presidência do STJ deve ser mantida, pois a parte agravante não refutou todos os fundamentos da decisão que inadmitiu o apelo nobre, especificamente a incidência da Súmula 7/STJ.
+5. O agravo em recurso especial deve impugnar especificamente todos os fundamentos da decisão recorrida, sob pena de não ser conhecido, conforme art. 932, III, do CPC e art. 253, I, do Regimento Interno do STJ.
+6. Nos termos da jurisprudência deste Superior Tribunal: "Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas." (AgInt no AREsp n. 2.152.939/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+IV. AGRAVO INTERNO DESPROVIDO.
+VOTO
+Em que pesem os argumentos da parte agravante, a decisão impugnada deve ser mantida.
+Como  se  sabe,  o  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  firmado  anteriormente,  sob  pena  de  ser  mantida  a  decisão  agravada  por  seus  próprios  fundamentos.
+Nesse  compasso,  não  obstante  o  teor  das  razões  suscitadas  nesta  via  recursal,  não  vislumbro  elementos  hábeis  a  alterar  a  decisão  agravada.  Ao  contrário,  os  argumentos  ali  externados  merecem  ser  ratificados  por  este  Colegiado  julgador.
+A  Presidência  do  Superior  Tribunal  de  Justiça  verificou  que  o  agravo  em  recurso  especial  deixou  de  impugnar  todos os  fundamentos  da  decisão  de  admissibilidade  do  Tribunal  de  origem  para  não  admitir  o  recurso  especial,  qual  seja,  a  incidência  da  Súmula  7/STJ.
+Por  tal  razão,  foi  aplicada  a  regra  contida  no  art.  21-E,  inciso  V,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  ocasionando  o  não  conhecimento  do  agravo  em  recurso  especial.
+Transcrevo,  no  ponto,  os  seguintes  fundamentos  consignados  na  decisão  agravada  (fl.  336, grifei):
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial.
+Não  logra  êxito  a  irresignação,  porquanto,  efetivamente,  não  foi  impugnado  o  fundamento  da  decisão  proferida  pelo  Tribunal  de  origem nas razões do agravo em recurso especial, tendo em vista que, em relação  à  incidência  da  Súmula  7/STJ,  a  agravante  limitou-se  a  asseverar  o  seguinte:
+21. Por fim, também não merece prosperar a decisão agravada, ao reconhecer que a pretensão do Agravante teoricamente esbarraria na Súmula 7 do STJ.
+22. Tal como demonstrado em sede especial, cumpre elucidar que a apreciação do recurso especial interposto pelo Agravante não implica no reexame do conjunto fático-probatório constante dos autos, na medida em que as violações de lei federal discutidas são matérias exclusivamente de direito, e não fáticas, de modo que podem e devem ser solucionadas no âmbito do recurso especial, mediante o singelo exame dos dispositivos legais violados e a solução jurídica adotada pelo tribunal de origem no v. acórdão recorrido.
+23. Diferentemente do que consignou a r. decisão agravada, não incide ao caso a Súmula e 7 deste C. STJ, porquanto não se pretende o reexame das provas documentais e orais acostadas aos autos, e tampouco a alteração das premissas fáticas de que partiu o v. acórdão recorrido, que devem ser integradas pelo acórdão integrativo dos embargos declaratórios, aplicando-se ao caso os elementos expressamente indicados no v. acórdão que rejeitou os embargos, por força do art. 1.025 do CPC.
+24. Portanto, resta evidente que este recurso especial preenche todos os requisitos de admissibilidade. (fls. 322/323).
+De  fato, para  afastar  o  óbice  da  Súmula  7/STJ,  não  basta  apenas  deduzir  a  inaplicabilidade  do  óbice  apontado  na  decisão  agravada,  sem  demonstrar  a  desnecessidade  da  análise  do  conjunto  fático-probatório,  deixando  claro  que  os  fatos  foram  devidamente  consignados  no  acórdão  objurgado,  o  que  não  aconteceu.
+Com efeito,  é  entendimento  desta  Corte  Superior  de  Justiça  que,  inadmitido  o  apelo  nobre  com  fundamento  na  incidência  da  Súmula  7/STJ,  "não  basta  a  assertiva  genérica  de  que  não  se  pretende  o  reexame  de  provas,  ainda  que  seja  feita  breve  menção  à  tese  sustentada.  É  imprescindível  o  cotejo  entre  o  acórdão  combatido  e  a  argumentação  trazida  no  recurso  especial  que  pudesse  justificar  o  afastamento  do  referido  óbice  processual"  (STJ,  AgInt  no  AREsp  1.463.467/RJ,  Rel.  Ministro  OG  FERNANDES,  SEGUNDA  TURMA,  DJe  de  29/06/2020)."  (EDcl  no  AgInt  no  AREsp  n.  1.694.099/SP,  Segunda  Turma,  Relª.  Minª.  Assusete  Magalhães,  DJe  de  29/4/2022).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.
+3 . Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.152.939/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+Deve-se  ressaltar  que  cabe  ao  agravante  demonstrar  o  equívoco  da  decisão  contra a  qual  se  insurge,  sendo  imprescindível  a  impugnação  específica  a  todos  os  óbices  por  ela  apontados,  obrigação  da  qual  não  se  desincumbiu  o  insurgente,  quando  da  interposição  do  agravo  em  recurso  especial,  conforme  mencionado  na decisão  monocrática  agravada.
+Desse  modo,  a  ausência  de  impugnação  dos  fundamentos  empregados  pela  Corte  de  origem  para  impedir  o  trânsito  do  apelo  nobre  obsta  o  conhecimento  do  agravo,  cujo  único  propósito  é  demonstrar  a  inaplicabilidade  dos  motivos  indicados  na  decisão  de  inadmissibilidade  do  recurso  por  meio  de  impugnação  específica  de  cada  um  deles.
+Este  é  o  teor  do  art.  932,  inciso  III,  do  Código  de  Processo  Civil/2015,  que  autoriza  o  relator  a  não  conhecer  de  recurso  que  tenha  deixado  de  impugnar  os  fundamentos  da  decisão  recorrida.  E,  igualmente,  o  art.  253,  inciso  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  com  redação  dada  pela  Emenda  Regimental  n.  22/2016,  autoriza  o  relator  a  não  conhecer  do  agravo  que  descumpra  a  tarefa  de  infirmar  as  razões  de  decidir  que  levaram  ao  trancamento  do  recurso  especial.
+Nesse  sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE AFASTOU A IMPENHORABILIDADE DE IMÓVEL E MANTEVE SUA EXPROPRIAÇÃO, BEM COMO INDEFERIU O PEDIDO DE NOVA AVALIAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Cumprimento de sentença em que foi proferida decisão afastando a impenhorabilidade do imóvel e mantendo sua expropriação, bem como indeferindo o pedido de nova avaliação.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.494.296/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 26/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+3. O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é no agravo em recurso especial, e não no agravo interno interposto contra a decisão que não conheceu do recurso por ausência de impugnação específica dos fundamentos daquela decisão.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.736.396/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Portanto,  a  decisão  monocrát ica  da  Presidência  deve  ser  mantida,  pois,  quando  da  interposição  do  agravo  em  recurso  especial,  não  cuidou  a  ora  agravante  de  refutar  todos  os  fundamentos  da  decisão  que  inadmitiu  o  apelo  nobre.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a oposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
