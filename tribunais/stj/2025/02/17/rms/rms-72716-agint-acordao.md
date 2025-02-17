@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CONVOCAÇÃO. ATUALIZAÇÃO DE DADOS CADASTRAIS. PROVIMENTO NEGADO.
+1. Agravo interno interposto da decisão que negou provimento a recurso em mandado de segurança no qual se alegava ilegalidade na convocação para curso de formação em concurso público devido à falta de notificação pessoal após longo lapso temporal.
+2. A convocação da candidata foi realizada por d iversos meios, incluindo correspondência, e-mail, WhatsApp e ligação telefônica, com base nos dados fornecidos pela própria candidata, que alegou que a correspondência foi enviada para um endereço antigo e que o número de telefone utilizado não era de sua titularidade.
+3. O edital do concurso previa que os candidatos deveriam manter seus dados cadastrais atualizados junto à administração, sob pena de arcar com os prejuízos decorrentes da não atualização.
+4. A administração pública cumpriu as disposições editalícias ao utilizar todos os meios disponíveis para convocar a candidata, não podendo ser responsabilizada pela falta de atualização dos dados cadastrais por parte da candidata.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por FABIANA MARIA BALDUCI DA CRUZ da decisão de minha relatoria de fls. 453/459.
+A parte agravante alega o seguinte (fls. 471/472):
+Conforme demonstrado, o Superior Tribunal de Justiça tem entendimento pacificado no sentido de que deve ser feita a notificação pessoal de candidatos em concurso público quando entre o ato de publicação do resultado final e o ato de convocação para o Curso de Formação/nomeação tenha ultrapassado, pelo menos, 01 (um) ano, mesmo em hipótese de previsão em Edital de responsabilidade do candidato em relação ao acompanhamento das publicações pelos meios oficiais, nos termos do RMS de nº 42867/ES.
+Como se pode perceber, o entendimento de que, sobrevindo lapso temporal superior a 01 (um) ano entre a publicação do último resultado e o ato de convocação, há obrigatoriedade para que os candidatos sejam notificados pessoalmente.
+ ..
+Salienta-se ainda que houve a reabertura do certame pela banca FEPESE até o dia 27/09, e considerando a iminência de um novo curso de formação já programado, destaca-se a urgência no atendimento do pleito para a Agravante ser convocada e integrada ao referido curso.
+A reabertura do concurso e a previsão de novas turmas evidenciam que há vagas disponíveis e a possibilidade imediata de inclusão da candidatura, o que reforça a necessidade de sua convocação de maneira célere, a fim de evitar prejuízos irreversíveis ao seu direito, especialmente pela proximidade do início das atividades. Importa frisar que a idade da Agravante a impede de concorrer novamente à vaga em questão.
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 482/485 e 487/490).
+É o relatório.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CONVOCAÇÃO. ATUALIZAÇÃO DE DADOS CADASTRAIS. PROVIMENTO NEGADO.
+1. Agravo interno interposto da decisão que negou provimento a recurso em mandado de segurança no qual se alegava ilegalidade na convocação para curso de formação em concurso público devido à falta de notificação pessoal após longo lapso temporal.
+2. A convocação da candidata foi realizada por d iversos meios, incluindo correspondência, e-mail, WhatsApp e ligação telefônica, com base nos dados fornecidos pela própria candidata, que alegou que a correspondência foi enviada para um endereço antigo e que o número de telefone utilizado não era de sua titularidade.
+3. O edital do concurso previa que os candidatos deveriam manter seus dados cadastrais atualizados junto à administração, sob pena de arcar com os prejuízos decorrentes da não atualização.
+4. A administração pública cumpriu as disposições editalícias ao utilizar todos os meios disponíveis para convocar a candidata, não podendo ser responsabilizada pela falta de atualização dos dados cadastrais por parte da candidata.
+5. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+O Tribunal de origem, ao analisar a controvérsia, assim se manifestou (fl. 329):
+Na hipótese, extrai-se dos documentos acostados e informações prestadas nos autos, que a Secretaria de Estado da Administração Prisional e Socioeducativa publicou o Edital nº 001/2022,convocando a Impetrante para participar do curso de formação profissional - 6ª etapa do concurso público (Evento 1, outros 17, p. 7).
+Contudo, a convocação da Impetrante não se deu apenas pela publicação de edital, poisa banca examinadora procedeu à convocação da Impetrante por meio de correspondência com AR(Evento 1, doc. 16; Evento 34 doc. 4/6); via e-mail (Evento 34, doc. 7); WhatsApp (Evento 34, doc. 8) e ligação telefônica, tendo por base as informações prestadas pela própria candidata no ato de inscrição e no Questionário de Informação Social - QIS (Evento 34, doc. 3 e 9).
+Não obstante, a Impetrante não teria atendido ao chamamento, porque, segundo alega, a correspondência de sua convocação fora enviada ao seu antigo endereço, que já havia sido atualizado na página da banca organizadora do certame, bem como o número de telefone por meio do qual foi realizada a tentativa de convocação jamais fora de sua titularidade, desconhecendo totalmente o número.
+O item 19.6 do edital, por sua vez, disciplinava acerca da forma como deveriam ocorrer as atualizações do dados cadastrais. Vejamos:
+19.6 Os candidatos aprovados e classificados neste Concurso Público devem manter atualizados seus endereços junto à Gerência de Gestão de Pessoas da Secretaria de Estado da Administração Prisional e Socioeducativa, unicamente por meio de correspondência, via SEDEX, a ser encaminhada para o consignado endereço, sendo de sua responsabilidade os prejuízos decorrentes da não atualização desta informação.
+O entendimento desta Corte Superior é de que, em observância aos princípios da razoabilidade e da publicidade dos atos públicos, cumpre à administração dar ao candidato o efetivo conhecimento de sua convocação e de que, nos casos em que transcorrido longo lapso temporal entre os atos do certame, há a necessidade de notificação pessoal do candidato.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CONVOCAÇÃO PARA PERÍCIA MÉDICA APÓS SIGNIFICATIVO LAPSO TEMPORAL. NECESSIDADE DE COMUNICAÇÃO PESSOAL DIANTE DO PERÍODO DECORRIDO. AGRAVO INTERNO DESPROVIDO.
+1. O STJ tem entendimento segundo o qual a nomeação em concurso público após considerável lapso temporal da homologação do resultado final, sem a notificação pessoal do interessado, viola os princípios da publicidade e da razoabilidade, não sendo suficiente a convocação por meio de Diário Oficial ou mensagem eletrônica.
+Precedentes.
+2. No caso, entre a data de divulgação do resultado final do certame (agosto/2019) e a convocação da requerente para apresentação de documentos (julho/2023) transcorreram aproximadamente 4 anos, lapso temporal que justifica a convocação pessoal.
+3. Agravo interno desprovido.
+(AgInt no RMS n. 73.025/MS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO. LAPSO TEMPORAL EXTENSO ENTRE A APROVAÇÃO E A CONVOCAÇÃO . INTIMAÇÃO PESSOAL. NECESSIDADE. PROVIMENTO NEGADO.
+1. Considerando o lapso temporal entre a aprovação no concurso e a convocação (3 anos e 5 meses), a jurisprudência desta Corte Superior é firme no sentido de que a administração deve intimar o candidato pessoalmente, não sendo suficiente a convocação por meio de Diário Oficial ou mensagem eletrônica.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no RMS n. 71.799/MS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Contudo, a jurisprudência do Superior Tribunal de Justiça (STJ) também é firme quanto ao dever do candidato de manter atualizados os seus dados cadastrais pessoais.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. INSPETOR DE SEGURANÇA E ADMINISTRAÇÃO PENITENCIÁRIA DO ESTADO DO RIO DE JANEIRO. TESTE DE APTIDÃO FÍSICA. CONVOCAÇÃO POR MEIO DE TELEGRAMA, PARA O ENDEREÇO INDICADO NO CERTAME. ATUALIZAÇÃO DO ENDEREÇO, PELA CANDIDATA. AUSÊNCIA. EXPRESSA PREVISÃO EDITALÍCIA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. PRECEDENTES DO STJ, EM FEITOS ANÁLOGOS. AGRAVO INTERNO IMPROVIDO.
+I. Trata-se de Agravo interno aviado contra decisão que julgara recurso interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança, impetrado por Tatiana Bezerra de Lima, contra suposto ato ilegal do Secretário de Estado de Administração Penitenciária do Estado do Rio de Janeiro, consubstanciado no ato administrativo que considerara a impetrante faltosa, no exame de aptidão física relativo ao concurso público para ingresso no cargo de Inspetor de Segurança e Administração Penitenciária.
+III. O Tribunal de origem denegou a segurança, de vez que "a ausência de intimação pessoal deveu-se ao fato da autora haver deixado de comunicar ao órgão competente a alteração de seu endereço afastando, assim, qualquer ilegalidade da Administração Pública", o que motivou fosse a impetrante convocada por telegrama, devolvido, por mudança de endereço, seguido de convocação no Diário Oficial.
+IV. A controvérsia em exame refere-se à alegação de nulidade do ato administrativo que considerara a parte agravante faltosa, no teste de aptidão física, etapa do concurso público para ingresso no cargo de Inspetor de Segurança e Administração Penitenciária do Estado do Rio de Janeiro, em que pese tenha sido expedido telegrama para o endereço informado pela agravante, quando da inscrição no certame, convocando-a para a referida etapa, devolvido, contudo, sem cumprimento, em razão da mudança de endereço residencial da impetrante, pelo que foi ela, após, convocada por publicação no Diário Oficial.
+V. No caso, o edital regulador do certame em questão é categórico ao dispor, em seu item V.1, que o candidato ao referido certame seria responsável pela atualização de seu endereço residencial, durante o prazo de validade do certame, sob pena de eliminação. Assim, era obrigação da parte impetrante manter seu endereço residencial atualizado, junto à administração do concurso, durante o prazo de validade do certame público.
+VI. Tendo ocorrido a modificação do endereço da agravante, sem que tal fosse comunicado à administradora do concurso, o impedimento de sua intimação pessoal - concretizando-se a sua convocação por meio de edital e de telegrama, com a sua falta ao teste de aptidão física ocorreu por culpa única e exclusiva da impetrante, porquanto deixou de observar as disposições editalícias, que vinculam tanto o candidato, como a Administração Pública. Assim, não há falar em ilegalidade ou abuso de poder do ato apontado como coator, que tão somente deu fiel cumprimento às disposições normativas relativas ao concurso, nem em ofensa aos princípios da legalidade, da razoabilidade e da desproporcionalidade. Precedentes do STJ, de julgamento de hipóteses análogas, relativas ao mesmo concurso: AgInt no RMS 62.729/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 21/08/2020; AgInt no RMS 62.336/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 26/03/2020; AgInt no RMS 56.037/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 04/05/2020; RMS 61.540/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2019; AgInt no RMS 55.337/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 06/12/2017.
+VII. Agravo interno improvido.
+(AgInt no RMS n. 62.417/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/9/2020, DJe de 25/9/2020.)
+ADMINISTRATIVO. CONCURSO PÚBLICO. CONVOCAÇÃO. DADOS CADASTRAIS. ATUALIZAÇÃO DE ENDEREÇO. PREVISÃO EDITALÍCIA. DESCUMPRIMENTO.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos dos requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. "Se há previsão expressa no edital do concurso público sobre a obrigatoriedade de atualização do telefone e endereço do candidato, há presunção do interesse da Administração em manter contato pessoal com o candidato" (AgRg REsp 1.134.712/PR).
+3. Hipótese em que constitui obrigação do candidato, expressamente prevista no edital do concurso, a atualização de seus dados pessoais, o que não restou observado.
+4. Agravo interno desprovido.
+(AgInt no RMS n. 56.037/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/4/2020, DJe de 4/5/2020.)
+Assim, não merece prosperar a tese de ilegalidade da intimação da parte ora agravante haja vista que a administração pública, respeitando as regras editalícias, e em conformidade com o entendimento jurisprudencial desta Corte Superior, procedeu à convocação da candidata pessoalmente, utilizando-se de todos os dados pessoais de que tinha posse, não podendo ser responsabilizada pela desídia da candidata na atualização de seu cadastro.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
