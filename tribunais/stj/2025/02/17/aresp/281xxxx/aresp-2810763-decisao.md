@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de Agravo apresentado por TNL PCS S/A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ALEGAÇÃO DE VÍCIO TRANSRESCISÓRIO. INOCORRÊNCIA. CITAÇÃO REALIZADA POR MEIO ELETRÔNICO.
+1. AGRAVO DE INSTRUMENTO CONTRA DECISÃO PROFERIDA NOS AUTOS DE AÇÃO DE COBRANÇA, REFERENTE A ALUGUÉIS E ENCARGOS ATRASADOS, EM FASE DE CUMPRIMENTO DE SENTENÇA, QUE REJEITOU A ALEGAÇÃO DE NULIDADE DO TÍTULO EXECUTIVO JUDICIAL, POR FALTA DE CITAÇÃO.
+2. COM EFEITO, AO CONTRÁRIO DO ALEGADO PELA AGRAVANTE, A FALTA DE EXPEDIÇÃO DO MANDADO DE CITAÇÃO FOI SUPRIDA PELA CITAÇÃO POR VIA ELETRÔNICA, NA FORMA PREVISTA PELA LEI 11.419/2006, HAVENDO CERTIDÃO NOS AUTOS DE QUE A EMPRESA RÉ FOI TACITAMENTE INTIMADA, E ESTÁ CADASTRADA NESTE TRIBUNAL DE JUSTIÇA PARA RECEBIMENTO DE CITAÇÃO ELETRÔNICA.
+3. PORTANTO, INDUBITÁVEL QUE A RÉ TEVE PLENA CIÊNCIA SOBRE A DISTRIBUIÇÃO DA AÇÃO PELO AGRAVADO, QUE POSSIBILITAVA O ACESSO AO SEU CONTEÚDO, CONSTANTE DOS AUTOS DO PRESENTE PROCESSO ELETRÔNICO, RESTANDO ASSIM GARANTIDO O SEU DIREITO AO CONTRADITÓRIO E A AMPLA DEFESA, DO QUAL A RÉ NÃO SE UTILIZOU POR SUA PRÓPRIA INÉRCIA, NÃO SE VERIFICANDO, TODAVIA, O ALEGADO VÍCIO DE CITAÇÃO ALEGADO PELA AGRAVANTE.
+DESPROVIMENTO DO RECURSO (fl. 50).
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e divergência de interpretação do art. 246, § 1º, I, do CPC, no que concerne à necessidade de efetiva confirmação da citação da parte, com certificação pela Serventia, não valendo a suposta citação por meio de endereço eletrônico, trazendo a seguinte argumentação:
+31. Será doravante demonstrada que há na hipótese vertente flagrante violação ao disposto do artigo 246, § 1º, incisos I, do CPC, já que não consta nos autos a efetiva confirmação de citação da Recorrente, pois o E. Tribunal considerou apenas a suposta citação realizada eletronicamente por meio de endereço de e-mail, com base nos termos do art. 5º, §3º, da Lei nº 11.419/2006.
+32. Entretanto, não houve de fato a citação da TNL, pois conforme é possível verificar dos autos originários, houve apenas a intimação da TNL para tomar conhecimento da designação da audiência de conciliação, conforme fls. 68.
+ ..
+33. Ocorre que, anterior a este ato, não houve ato processual acerca da citação, tampouco houve a certificação pela Serventia.
+34. Como se denota das fls. 70 dos autos originários, a Serventia certificou apenas a intimação da TNL em relação à designação da primeira audiência e, como já elucidado, a certificação ocorreu nos termos do art. 5ª, §3º, da Lei 11.419/06.
+ ..
+35. Como sabido, a citação válida da parte contrária é necessária para que passe a existir a formação da relação processual.
+ ..
+36. No caso dos autos, tanto no processo originário como nos autos do recurso, foi considerado apenas a suposta citação realizada eletronicamente, uma vez que a empresa Recorrente estaria cadastrada para recebimento de citações e intimações de modo eletrônico pelo Tribunal de Justiça do Rio de Janeiro.
+ ..
+39. Daí que o processo toma contornos kafkanianos. O v. acórdão menciona que a citação ocorreu porque constou intimação eletrônica - mas é impossível que a parte seja intimada antes da citação. E nem mesmo é possível indicar como se deu essa citação, porque - novamente - não constam nos autos informações de qual seria o endereço destino desse mandado, ou mesmo a data que a expedição ocorreu.
+ ..
+42. Portanto, a grave irregularidade relatada nesta demanda conduz à nulidade de todos os atos praticados desde o momento que a citação deveria ter sido realizada (fls. 96/99).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Analisando os autos da ação originária, foi encontrada tão somente uma certidão de intimação tácita da TNL PCS S.A., efetuada pelo portal eletrônico, em 24/01/2022, na forma prevista no art. 5º, § 3º da lei 11.419/2006, sendo oficiado ao juízo de origem para que esclarecesse sobre a existência de citação válida.
+O Juízo a quo encaminhou resposta (ind. 27/30), informando que manteve a decisão agravada, e esclarecendo sobre a citação nos seguintes termos, in verbis:
+"À fl. 573, certidão de que que a citação da ré se deu por meio eletrônico, conforme intimação de fls. 77 e certidão de fls. 80, ante previsão do art. 9º, §1º da Lei 11.419/2006, que dispõe que as citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais. Ademais, há observação de que, em consulta ao site do EG. TJERJ, verificou-se que a empresa TNL PCS SA - EM RECUPERAÇÃO JUDICIAL, CNPJ 04164616000159, está cadastrada de acordo com a Lei 13.105 (NCPC) Art. 246, §1º."
+Com efeito, Lei nº 11.419/2006, que dispõe sobre a informatização do processo judicial, permitindo a comunicação eletrônica dos atos processuais, prevê no seu art. 5º que intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º da referida lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico, e o art. 6º autoriza inclusive as citações por meio eletrônico.
+E, no âmbito do processo eletrônico o art. 9º da referida lei dispõe que:
+ ..
+Ademais, conforme destacado nas informações prestadas, a empresa ré - TNL PCS S.A. possui cadastro neste Tribunal de Justiça para recebimento de citações e intimações eletrônicas, não pairando dúvida de que a intimação que lhe foi encaminhada por via eletrônica (ind. 77 dos autos de origem), foi recebida pela mesma, gerando a certidão de sua intimação tácita pelo portal em 04/03/2022 (ind. 80 dos autos originários).
+Portanto, indubitável que a ré teve plena ciência sobre a distribuição da ação pelo agravado, que permitia o acesso ao seu conteúdo, constante dos autos do presente processo eletrônico, restando assim garantido o direito ao contraditório e a ampla defesa, do qual a ré não se utilizou por sua própria inércia, não se verificando, todavia, o alegado vício de citação alegado pela agravante (fls. 51/52).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 22.5.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19.12.2019; AgInt no AgInt no REsp 1.731.585/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 26.9.2018; e AgInt no AREsp 1.149.255/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 13.4.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
