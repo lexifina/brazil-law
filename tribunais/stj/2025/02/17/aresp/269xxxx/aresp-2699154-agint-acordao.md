@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO. DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. CANCELAMENTO DE PROTESTO. COBRANÇA. CONTRATO VERBAL. AUSÊNCIA DE COMPROVAÇÃO. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, 1.022, I, II E III, DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. CONTRATO VERBAL. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A alegada afronta aos arts. 489 e 1.022 do CPC não foi demonstrada com clareza e objetividade, mostrando-se genérica, o que caracteriza a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF, aplicada por analogia.
+2. No caso dos autos, eventual modificação da conclusão do Tribunal estadual demandaria desta Corte, necessariamente, o reexame do conjunto fático-probatório da lide, o que é vedado na estreita via do recurso especial em razão do óbice da Súmula n. 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCIO MESSIAS CUNHA, (MARCIO) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AÇÃO. DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. CANCELAMENTO DE PROTESTO. COBRANÇA. CONTRATO VERBAL. AUSÊNCIA DE COMPROVAÇÃO. VIOLAÇÃO DOS ARTS. 489, §1º, IV, 1.022, I, II E III, DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. CONTRATO VERBAL. NÃO COMPROVAÇÃO. REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 886)
+Nas razões do presente inconformismo, MARCIO defendeu (1) que não se aplica a Súmula n. 284 do STF, em relação à ofensa dos arts. 489, § 1º, IV, 1.022, I, II, III, do CPC, na medida em que foram devidamente indicadas as omissões e contradições constantes do acórdão recorrido; e (2) que não incide ao caso a Súmula n. 7 do STJ, em razão da desnecessidade do reexame de fatos e provas (e-STJ, fls. 895/927).
+Não foi apresentada contraminuta (e-STJ, fl. 931).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO. DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. CANCELAMENTO DE PROTESTO. COBRANÇA. CONTRATO VERBAL. AUSÊNCIA DE COMPROVAÇÃO. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, 1.022, I, II E III, DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. CONTRATO VERBAL. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A alegada afronta aos arts. 489 e 1.022 do CPC não foi demonstrada com clareza e objetividade, mostrando-se genérica, o que caracteriza a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF, aplicada por analogia.
+2. No caso dos autos, eventual modificação da conclusão do Tribunal estadual demandaria desta Corte, necessariamente, o reexame do conjunto fático-probatório da lide, o que é vedado na estreita via do recurso especial em razão do óbice da Súmula n. 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+(1) Da suscitada negativa da prestação jurisdicional
+Como já ressaltado no julgado recorrido, no que se refere à violação dos arts. 489, § 1º, IV, 1.022, I, II, III, do CPC, MARCIO alegou genericamente a ofensa aos citados artigos, sem demonstrar de que forma houve a vulneração aos referidos dispositivos, evidenciando efetivamente os vícios, com a indicação de quais pontos do acórdão foram omissos ou contraditórios.
+Veja-se que não houve a indicação das teses omitidas, em evidente alegação genérica de contrariedade aos referidos dispositivos.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula n. 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte. Confiram-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. VIOLAÇÃO DO ART. 485 DO CPC. SENTENÇA PROFERIDA EM EMBARGOS À EXECUÇÃO. PROCEDÊNCIA. EXTINÇÃO. DECISÃO MERITÓRIA. AÇÃO RESCISÓRIA. CABIMENTO. INTERPRETAÇÃO CONTRÁRIA AO ART. 20, § 4º, DO CPC DE 1973. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. VALOR DA CAUSA. IMPOSSIBILIDADE. CRITÉRIO EQUITATIVO. ENTENDIMENTO EM CONSONÂNCIA COM O STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIMENTO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC de 2015 é genérica, sem indicar, de forma clara e objetiva, o ponto em que, efetivamente, o acórdão impugnado foi omisso, o que atrai, por consequência, a incidência da Súmula n. 284 do STF.
+ ..
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.023.900/DF, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, j. 11/11/2024, DJe de 13/11/2024 - sem destaques no original)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. FALTA DE PREQUESTIONAMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. RESPONSABILIDADE SOLIDÁRIA. ADMINISTRAÇÃO. HOTELARIA. INEXISTÊNCIA. DECISÃO MANTIDA.
+ ..
+2. Considera-se deficiente a fundamentação de recurso especial que alega violação do art. 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+ ..
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.923.166/RJ, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 4/11/2024, DJe de 7/11/2024 - sem destaques no original)
+Assim, não se conhece da suscitada violação dos arts. 489, § 1º, IV, 1.022, I, II, III, do CPC.
+(2) Da alegada não incidência da Súmula n. 7 do STJ
+Ressaltamos anteriormente que o Tribunal de Justiça do Estado de Goiás, soberano na análise do conteúdo fático-probatório, concluiu que não foi comprovada a existência de contrato verbal entre a parte recorrente, CASTANHEIRA, ENGESOL e OLIVEIRA ARAÚJO, tampouco que esta deva algum valor a ser declarado, como se pode observar dos trechos extraídos do acórdão recorrido, a seguir transcritos:
+Defende-se no presente recurso a tese de que existe um contrato verbal e tácito firmado entre o apelante, ENGESOL, CASTANHEIRA e OLIVEIRA ARAÚJO (apelada), idealizado com o fito de proporcionar a ENGESOL, meios de saldar uma dívida com o apelante. Sustenta o apelante que as provas do alegado repousam no comprovante de transferência bancária feito pela OLIVEIRA ARAÚJO, em seu favor, no valor de R$ 46.921,25, compreendendo o percentual devido sobre a parcela de entrada (R$ 100.000,00); na gravação, com "cunho de confissão", em que um dos sócios da OLIVEIRA ARAÚJO (EUGÊNIO SCHMIDT SALENAVE) reconhece o acordo e a sua responsabilidade em repassar 50% do valor recebido ao apelante; no testemunho do proprietário da ENGESOL (HOOVER PAOLUCCI), prestado na audiência instrutória, reconhecendo a existência da dívida; e no fato de que instruiu a inicial da ação de cobrança com a cópia do contrato e do distrato firmado entre OLIVEIRA ARAÚJO e CASTANHEIRA S/A, alegando não haver outras razões a justificar a posse de tais documentos. Quanto a transferência bancária (evento 47, arq. 06), no valor de R$ 46.936,75, noto que foi feita pela OLIVEIRA ARAÚJO em favor de JOÃO SABINO DA CUNHA. O beneficiário é pai do apelante mas o fato, por si só, não comprova a existência de eventual contrato verbal existente entre ele, a apelada e a CASTANHEIRA e a ENGESOL. Sequer constitui início de prova ou nexo de causa. Sobre a conversa gravada entre Hoover Van Newton Paolucci (representante da ENGESOL) e Eugênio Scmidt Salenave (sócio da OLIVEIRA ARAÚJO), ainda que se considere prova válida, igualmente não diz nada. Se fala em "comissão" devida ao apelante, não restando claro qual seria o valor eventualmente devido. Em seu testemunho, prestado judicialmente, Hoover Van Newton Paolucci (representante da ENGESOL) não fala sobre contrato verbal com fins de saldar dívida havida com o apelante. O depoente apenas declara que tinha um acerto para fazer com o apelante, sem especificar a causa/origem da dívida. Não há "confissão" sobre qualquer ciência da apelada acerca de eventual combinado com o apelante. Não há liame. Por fim, o fato de o apelante ter instruído a petição inicial da ação conexa n. 5487012.53 (em apenso), com a cópia do contrato e do distrato firmado entre OLIVEIRA ARAÚJO e CASTANHEIRA S/A, é irrelevante, já que, conforme se vê do documento acostado no arq. 05 do evento 47, o apelante figura como advogado de Alberto Gammal, acionista da CASTANHEIRA, o que, por si só, justifica a facilidade da posse de tais documentos. Em suma, não foi comprovada a existência de contrato verbal entre o apelante, CASTANHEIRA, ENGESOL e OLIVEIRA ARAÚJO (apelada). Igualmente, não há provas de que a OLIVEIRA ARAÚJO (apelada) deve algum valor a ser declarado por meio desta ação (e-STJ, fls. 439/440 - sem destaques no original)
+Ora, como já julgado, para se alterar a conclusão do Colegiado estadual seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial, por incidir a Súmula n. 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito, vejam-se os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTOS DA DECISÃO ATACADOS NO AGRAVO REGIMENTAL. CONTRATO DE INTERMEDIAÇÃO IMOBILIÁRIA. NÃO COMPROVAÇÃO. SÚMULAS N. 7 E 211 DO STJ. DISSÍDIO NÃO DEMONSTRADO.
+ ..
+2. A revisão da conclusão da Corte de origem a respeito da comprovação da existência de contrato verbal de intermediação imobiliária demanda reapreciação probatória, vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+ ..
+4. Embargos de declaração acolhidos.
+(EDcl no AgRg nos EDcl no AREsp n. 540.521/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j.14/4/2015, DJe de 17/4/2015 - sem destaques no original)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER FUNDADA EM CONTRATO DE LOCAÇÃO. USO EXCLUSIVO DA ÁREA. EXISTÊNCIA DE CONTRATO VERBAL DE LOCAÇÃO. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Rever as conclusões adotadas pelo Tribunal de origem quanto à ausência de contrato para a locação das áreas "cozinha e bar internos" e, portanto, para sua exploração exclusiva, se mostra inviável nos termos da Súmula nº 7 desta Corte.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 925.859/SP, de minha relatoria, Terceira Turma, j. 18/10/2016, DJe de 7/11/2016 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO DE POSSE. COMODATO. EDIFICAÇÕES REALIZADAS PARA USO E GOZO DO IMÓVEL. DEVER DE INDENIZAR. INEXISTÊNCIA. QUADRO FÁTICO DELINEADO PELO ACÓRDÃO RECORRIDO. MODIFICAÇÃO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Reverter as conclusões do Tribunal local, acerca da comprovação do contrato verbal de comodato e das construções erigidas no imóvel de propriedade da recorrida para uso e gozo do bem, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.241.908/AL, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 8/5/2018, DJe de 21/5/2018 - sem destaques no original)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPROVAÇÃO DO CONTRATO VERBAL. ÔNUS DA PROVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. MAJORAÇÃO DA VERBA HONORÁRIA. POSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.180.211/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 1/3/2018, DJe de 14/3/2018 - sem destaques no original)
+Dessa forma, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
