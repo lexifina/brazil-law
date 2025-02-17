@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - Ação Civil Pública - Pretensão do Município na demolição de imóvel localizado em loteamento irregular - Decisão que alterou a classe processual para o rito comum - Insurgência descabida - Ação Civil Pública destinada à demolição de um único imóvel - Inexistência de direito coletivo no caso concreto - Imóvel construído e habitado, situado em loteamento em regularização - Pleito demolitório que nada contribui para a ordem urbanística do Município - Decisão mantida - Recurso não provido.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 1º, VI, da Lei n. 7.347/1985. Afirma que "É evidente que uma única construção erigida de forma clandestina e irregular representa violação à ordem urbanística, que é um direito coletivo difuso, por ser metaindividual, indivisível e de titularidade indeterminada, cujos titulares estão ligados por circunstância fática (art. 81, parágrafo único, I, da Lei n.º 8.078/90)" (fl. 115).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Sabe-se que Ação Civil Pública é apta a tutelar qualquer direito ou interesse coletivo (lato sensu), seja direito difuso, coletivo ou individual homogêneo1.
+Trata-se de instrumento processual coletivo destinado à repressão dos danos causados a direitos metaindividuais.
+A doutrina define tal ação coletiva como:
+Disciplinada pela Lei 7.347, de 24.7.85, é o instrumento processual adequado para reprimir ou impedir danos ao meio ambiente, ao consumidor, à ordem urbanística, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico, ao patrimônio público e social e a qualquer outro interesse difuso ou coletivo, por infração da ordem econômica e da economia popular (art. 1º). Não se presta a amparar direitos individuais, nem se destina à reparação de prejuízos causados a particulares pela conduta comissiva ou omissiva do réu. E não pode substituir a ação direta de inconstitucionalidade, situação que ocorre quando a controvérsia qualifica-se como objeto único da demanda.2
+A Ação Civil Pública, portanto, é apta a tutelar qualquer direito material coletivo, não se prestando a tutelar direitos individuais.
+Não se desconhece que é possível a utilização da Ação Civil Pública em face de um único causador de dano coletivo, como comumente ocorre na prática forense, no entanto, é necessário analisar se o caso concreto de fato representa a tutela de direitos coletivos, sob pena da utilização indevida deste notável instrumento processual coletivo para tutelar direitos individuais.
+No entanto, como será exposto a seguir, o Município não é capaz de demonstrar a existência de qualquer interesse transindividual na demolição do imóvel objeto da presente ação civil pública.
+Nesse contexto, a presente ação, chamada de ação civil pública, revela-se, na verdade, na essência, uma ação de rito comum, mas com a artificial roupagem de ação civil pública.
+Cumpre consignar, ademais, que o imóvel que se busca a demolição está inserido dentro de parte remanescente do loteamento que está em processo de regularização (fl. 96-98, destaque meu).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de19.12.2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp 1.157.074/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 5.8.2020; AgInt no REsp 1.389.204/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 3.8.2020; AgInt no REsp 1.842.047/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 26.6.2020; e AgRg nos EAREsp 447.251/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 20.5.2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
