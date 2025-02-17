@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por NEXPE PARTICIPACOES S.A. EM RECUPERACAO JUDICIAL e BASIMOVEL CONSULTORIA IMOBILIARIA LTDA. EM RECUPERACAO JUDICIAL, no qual apontam como suscitados o JUÍZO DE DIREITO DA 3A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP e o JUÍZO DA 64A VARA DO TRABALHO DO RIO DE JANEIRO - RJ.
+As partes suscitantes defendem a existência de conflito de competência argumentando que (fls. 4-14):
+1. Em 08/11/2016 o Reclamante ajuizou reclamação trabalhista autuada sob o n. 0101713-12.2016.5.01.0064 e distribuída perante o Juízo Trabalhista contra as Suscitantes em que requereu (i) o reconhecimento de vínculo empregatício; e (ii) a condenação da Suscitantes ao pagamento de diversas verbas trabalhistas (Doc. 06).
+2. Em 13/02/2023 os Suscitantes ajuizaram seu pedido de recuperação judicial perante o Juízo da RJ, autuado sob o n. 1016636-15.2023.8.26.0100 ("RJ" - Doc. 07). O processamento foi deferido em 14/02/2023 (Doc. 08).
+3. Em uma análise simples, fica evidente que os valores discutidos no âmbito da reclamação trabalhista estão sujeitos à RJ, por força do artigo 49 da Lei 11.101/05, que dispõe que créditos existentes na data do pedido estão sujeitos ao processo de recuperação judicial. Logicamente, se a reclamação trabalhista foi ajuizada em 2016 e a RJ cerca de sete anos após, o crédito lá discutido é anterior ao ajuizamento do processo recuperacional.
+4. Recentemente no âmbito da reclamação trabalhista foi proferida decisão autorizando o Reclamante a levantar os valores depositados judicialmente para fins de pagamento de seu crédito (Doc. 09).
+ ..
+9. Porém, e para a surpresa dos Suscitantes, o Juízo Trabalhista, descumprindo a decisão do Juízo da RJ (competente para decidir sobre ativos das empresas em recuperação judicial) reiterou a determinação de expedição dos alvarás de pagamento em favor do Reclamante (repita-se, credor concursal), nos seguintes termos (Doc. 05):
+ ..
+14. Há, portanto, evidente conflito de competência positivo, eis que ambos os juízos suscitados estão avocando a competência para decidir sobre o patrimônio das Suscitantes.
+ ..
+15. Conforme exposto no primeiro capítulo deste conflito de competência, é possível verificar com facilidade a concursalidade do crédito do Reclamante, eis que a Reclamação Trabalhista foi ajuizada anos antes do pedido de RJ.
+ ..
+23. É de se lembrar ainda a remansosa jurisprudência acerca da competência do juízo concursal para decidir sobre depósitos no âmbito de ações trabalhistas.
+ ..
+37. Repita-se, a liberação de tal valor, da maneira pretendida pelo Juízo Trabalhista, beneficiará tão somente um único credor, em detrimento de todos os demais, o que viola frontalmente o princípio basilar do tratamento igualitário de credores.
+Por meio da decisão de fls. 205-208, deferi o pedido de liminar para suspender, até o julgamento definitivo do presente incidente, atos executórios, exclusivamente contra as empresas suscitantes, e a liberação do valor dos depósitos recursais, bem como designei o JUÍZO DE DIREITO DA 3A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP para decidir, em caráter provisório, as medidas urgentes.
+Informações prestadas pelo JUÍZO DE DIREITO DA 3A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP às fls. 254-258.
+Informações prestadas pelo JUÍZO DA 64A VARA DO TRABALHO DO RIO DE JANEIRO - RJ às fls. 259-268.
+Parecer do MPF, às fls. 280-284, nos termos da seguinte ementa:
+Processual Civil. Conflito de Competência. Recuperação Judicial. Execução. Pagamento da dívida em momento anterior ao deferimento da recuperação judicial. Levantamento de valores. Mero exaurimento. Competência do Juízo Laboral. Depósito recursal e crédito concursal não quitado. Competência do Juízo Universal. Parecer pelo conhecimento do conflito, para que seja declarada a competência do MM. Juízo da 64ª Vara do Trabalho do Rio de Janeiro - RJ para determinar o levantamento dos valores pagos pelas suscitantes em momento anterior à recuperação, competindo ao MM. Juízo de Direito da 3ª Vara de Falências e Recuperações Judiciais do Foro Central Cível de São Paulo - SP deliberar sobre eventuais depósitos recursais e crédito concursal não quitado pelas suscitantes antes do pedido de Recuperação Judicial.
+É, no essencial, o relatório.
+Conforme jurisprudência do Superior Tribunal de Justiça, os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, tanto sob a égide do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal.
+Nesse contexto, ressalta-se que esta Corte Superior também tem se manifestado no sentido de que, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do Juízo da Recuperação Judicial para decidir sobre o patrimônio da empresa.
+Ademais, registre-se que "esta Corte de Uniformização perfilha o entendimento de que o juízo onde se processa a recuperação judicial é o competente para examinar a manutenção e/ou eventual prosseguimento dos atos de constrição que incidam sobre o patrimônio de sociedade em processo recuperacional, inclusive sobre depósitos judiciais anteriores ao pedido soerguimento". (AgInt no CC n. 205.895/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 17/9/2024, DJe de 19/9/2024.)
+Na espécie, verifica-se que o JUÍZO DA 64A VARA DO TRABALHO DO RIO DE JANEIRO - RJ determinou a expedição de alvará dos valores disponíveis nos autos e a emissão da certidão de crédito (fl. 136), violando, assim, a competência do Juízo recuperacional.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 3A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP para quaisquer exames relativos a pagamento de débitos das suscitantes e constrição dos seus patrimônios.
+Os valores eventualmente constritos pelo JUÍZO DA 64A VARA DO TRABALHO DO RIO DE JANEIRO - RJ deverão ser colocados à disposição do Juízo da Recuperação Judicial, a quem competirá analisar eventuais pedidos de levantamento.
+Comunique-se aos juízos suscitados acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO. INVASÃO DE COMPETÊNCIA DO JUÍZO RECUPERACIONAL. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DA RECUPERAÇÃO JUDICIAL.
