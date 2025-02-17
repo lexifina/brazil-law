@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. INDICAÇÃO DE DISPOSITIVOS LEGAIS VIOLADOS OU INTERPRETADOS DE MODO DIVERGENTE. IMPRESCINDIBILIDADE. SÚMULA Nº 284/STF. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA Nº 182/STJ.
+1.  Não  pode  ser  conhecido  o  agravo  interno  que  não  infirma  especificamente  os  fundamentos  da  decisão  atacada,  haja  vista  o  disposto  no  art.  1.021,  §  1º,  do  Código  de  Processo  Civil.  O  conteúdo  normativo  do  referido  dispositivo  legal  já  estava  cristalizado  no  entendimento  da  Súmula  nº  182/STJ.
+2.  Agravo  interno  não  conhecido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  EVANDRO STÁBILE contra  a  decisão  da Presidência desta Corte Superior  que, conhecendo do recurso de agravo, não conheceu do recurso especial por ele interposto contra acórdão oriundo do Tribunal de Justiça do Estado de Mato Grosso em lide na qual contende com HIDROVALE POÇOS ARTERSIANOS LTDA.
+Na  decisão ora agravada (e-STJ fls. 382/383),  concluiu-se pela impossibilidade de conhecimento do recurso especial intentado pelo ora agravante em virtude da incidência da Súmula nº 284/STF, visto que deficiente a fundamentação de seu recurso pelo fato de ter ele deixado de "indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo". Restou consignado, ainda, que "a mera citação de artigo de lei na peça recursal não supre a exigência constitucional" (e-STJ fl. 382).
+À referida decisão foram opostos embargos de declaração pela parte ora agravante (e-STJ fls. 385/393), sendo estes rejeitados por decisão unipessoal do Ministro Presidente (e-STJ fls. 401/403).
+Nas razões do presente recurso de agravo interno  (e-STJ  fls.  407/413),  o ora agravante se limita a afirmar que, desde o trânsito em julgado da sentença proferida em seu desfavor nos autos de ação de cobrança promovida pela ora agravada até a presente data decorreram mais de 5 (cinco) anos, sem que o exequente tenha promovido a constrição de quaisquer de seus bens.
+Nesse cenário, afirma que a pretensão executiva teria sido atingida pela prescrição intercorrente, nos termos do art. 206-A do Código Civil.
+Regularmente intimada, a ora agravada - HIDROVALE POÇOS ARTERSIANOS LTDA. - deixou transcorrer em branco o prazo para a apresentação de resposta ao presente agravo interno (e-STJ fl. 417).
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. INDICAÇÃO DE DISPOSITIVOS LEGAIS VIOLADOS OU INTERPRETADOS DE MODO DIVERGENTE. IMPRESCINDIBILIDADE. SÚMULA Nº 284/STF. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA Nº 182/STJ.
+1.  Não  pode  ser  conhecido  o  agravo  interno  que  não  infirma  especificamente  os  fundamentos  da  decisão  atacada,  haja  vista  o  disposto  no  art.  1.021,  §  1º,  do  Código  de  Processo  Civil.  O  conteúdo  normativo  do  referido  dispositivo  legal  já  estava  cristalizado  no  entendimento  da  Súmula  nº  182/STJ.
+2.  Agravo  interno  não  conhecido.
+
+VOTO
+O  recurso  não  comporta  conhecimento.
+O  apelo  nobre  interposto  pelo  ora  agravante  não foi conhecido em virtude da incidência da Súmula nº 284/STF na hipótese.
+Eis o teor da fundamentação lançada na decisão singular ora hostilizada:
+"Mediante análise do recurso de EVANDRO STÁBILE, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AR Esp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, D Je de 26/8/2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no R Esp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, D Je de 17/3/2014.)" (e-STJ fl. 382 - grifou-se).
+Nas  razões do presente agravo interno ,  contudo,  limita-se o agravante a reiterar as mesmas considerações que externara em seu recurso especial, sustentando que sua pretensão recursal seria a de ver reconhecida, no caso em apreço, a ocorrência da prescrição intercorrente.
+Não  foi  apresentado  , no entanto,  nenhum argumento  capaz de, pelo menos em tese,  afastar  a incidência da Súmula nº 284/STF da hipótese em exame.
+Ao  assim  proceder ,  o  agravante  acaba por atrair  a  aplicação ao caso  do  disposto  no  art.  1.021,  §1º,  do  Código  de  Processo  Civil  ,  bem como o  óbice  da  Súmula  nº  182/STJ.
+Impõe-se,  portanto,  o  não  conhecimento  de  agravo  interno  que  deixa  de  refutar  os  fundamentos  da  decisão  agravada  que  se  revelam  suficiente s  para  contrariar  suas  pretensões.
+A  propósito:
+
+"AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  CONTRATO  DE  LOCAÇÃO.  GARANTIA  POR  HIPOTECA.  CLÁUSULAS  LEONINAS.  DESCONSIDERAÇÃO  DA  PERSONALIDADE  JURÍDICA.  ILEGALIDADE.  INCOMPETÊNCIA  DO  JUÍZO.  CERCEAMENTO  DE  DEFESA.  AFASTAMENTO.  BEM  DADO  EM  GARANTIA.  BEM  DE  FAMÍLIA.  ÔNUS  DOS  DEVEDORES.  AUSÊNCIA  DE  DESINCUMBÊNCIA.  ESTATUTO  DO  IDOSO.  INAPLICABILIDADE.  INTERVENÇÃO  MINISTERIAL.  DESNECESSIDADE.  PRETENSÃO  RECURSAL.  NULIDADE  POR  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INOCORRÊNCIA.  VIOLAÇÃO  DE  LEI  FEDERAL.  SÚMULAS  5  E  7  DO  STJ.  INCIDÊNCIA.  AUSÊNCIA  DE  PREQUESTIONAMENTO  DA  MATÉRIA.  SÚMULA  211  DO  STJ.  AUSÊNCIA  DE  IMPUGNAÇÃO  QUANTO  A  UM  DOS  FUNDAMENTOS  DA  DECISÃO  MONOCRÁTICA  AGRAVADA.  SÚMULA  182  DO  STJ.  AGRAVO  INTERNO  NÃO  CONHECIDO.
+1.  Inexistindo  impugnação  específica,  como  seria  de  rigor,  aos  fundamentos  da  decisão  de  inadmissibilidade  agravada,  essa  circunstância  obsta,  por  si  só,  a  pretensão  recursal,  pois,  à  falta  de  contrariedade,  permanecem  incólumes  os  motivos  expendidos  pela  decisão  recorrida.  Incide  na  espécie  o  disposto  no  arts.  932,  III  e  1.021,  §  1º,  do  Código  de  Processo  Civil  de  2015  e  a  Súmula  n.  182  do  Superior  Tribunal  de  Justiça.
+2.  Agravo  interno  não  conhecido"  (AgInt  no  AREsp  nº 1.935.702/GO,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  9/5/2022,  DJe  de  11/5/2022  -  grifou-se).
+
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  APLICABILIDADE  DO  CPC/2015.  NÃO  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA  182  DO  STJ.
+1.  Consoante  o  decidido  pelo  Plenário  desta  Corte  na  sessão  realizada  em  9/3/2016,  o  regime  recursal  será  determinado  pela  data  da  publicação  do  provimento  jurisdicional  impugnado.  In  casu,  aplica-se  o  Código  de  Processo  Civil  de  2015.
+2.  Na  espécie,  a  decisão  agravada  não  conheceu  do  recurso  especial  em  razão  da  ausência  de  impugnação  específica  aos  fundamentos  da  decisão  que  inadmitiu  o  recurso  especial.  Todavia,  o  agravante  em  suas  razões  também  não  infirmou  o  fundamento  da  decisão  que  não  conheceu  do  seu  AREsp,  limitando-se  a  reprisar  os  argumentos  do  recurso  especial  e  apontar  suposta  violação  à  lei  federal,  nada  aduzindo  acerca  do  art.  932,  III,  do  CPC/2015  e  da  Súmula  182  do  STJ.
+3.  Dessarte,  é  pacífico  o  entendimento  desta  Corte  de  que  a  falta  de  ataque  específico  à  decisão  agravada  ou  a  apresentação  de  argumentação  dissociada  de  seus  fundamentos  acarreta  o  não  conhecimento  do  recurso,  a  teor  do  que  dispõe  a  Súmula  182  do  STJ.
+4.  Agravo  interno  não  conhecido"  (AgInt  no  AREsp  nº  1.945.916/RS,  Relator  Ministro  BENEDITO  GONÇALVES,  Primeira  Turma,  julgado  em  28/3/2022,  DJe  de  30/3/2022  -  grifou-se).
+
+Ante  o  exposto,  não  conheço  do  agravo  interno.
+É  o  voto.
