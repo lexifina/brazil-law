@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SIND SERV PUBLICOS FEDERAIS CIVIS NO ESTADO DO AMAPA contra a decisão de minha relatoria de fls. 287/291.
+A parte embargante alega que a decisão embargada é omissa com estes argumentos (fls. 295/296):
+(1) "A despeito do acerto da decisão que deu parcial provimento ao recurso especial do SINDSEP/AP "para determinar que o adicional noturno seja calculado com base no divisor de duzentas horas mensais", verifica-se flagrante omissão do julgado acerca da totalidade dos requerimentos formulados no recurso especial (e-STJ fl. 252).
+Na alínea "b" do Tópico "V - Requerimentos" do recurso especial o sindicato ora embargante pugnou pela reforma do acórdão recorrido "para que sejam julgados procedentes os pedidos da inicial, com a consequente condenação do recorrido aos ônus de sucumbência".
+Diante disso, merece integração a decisão ora embargada, para que sejam expressamente analisados todos os pedidos da inicial (e-STJ fl. 17), em especial os de alínea "b.1" - parte final (cálculo do adicional noturno com a utilização do fator de divisão duzentos, com todos os reflexos remuneratórios pertinentes), alínea "b.2" (condenação do INSS ao pagamento das diferenças, acrescidas de juros de mora e correção monetária, desde a lesão) e alínea "b.4" (condenação do INSS ao pagamento das custas e honorários advocatícios de sucumbência)";
+(2) "A decisão embargada também apresenta omissão quanto à necessidade de definição dos critérios de juros moratórios e de correção monetária para a atualização das diferenças retroativas devidas, ex vi do art. 491 do CPC/2015.
+Segundo o referido dispositivo legal, na ação relativa à obrigação de pagar quantia, "a decisão definirá desde logo a extensão da obrigação, o índice de correção monetária, a taxa de juros, o termo inicial de ambos e a periodicidade da capitalização dos juros, se for o caso".
+Por tais motivos, também a fim de evitar qualquer tumulto processual em sede de liquidação/cumprimento de sentença, o embargante pugna pelo acolhimento do presente recurso aclaratório, com o saneamento da omissão apontada, para que conste no decisum a determinação de incidência de juros moratórios sobre o montante devido (assim como as taxas aplicáveis), bem como a definição do índice de correção monetária a ser utilizado na atualização dos referidos valores, de modo a atender ao disposto o art. 491 do CPC/2015 e ao pedido formulado na alínea "b.2", parte final, da petição inicial".
+Requer que o recurso seja acolhido com efeitos infringentes.
+A parte adversa não apresentou impugnação (fl. 305).
+É o relatório.
+A decisão ora embargada, ao analisar a controvérsia, deu provimento ao recurso especial da parte ora embargante para " dar  parcial provimento ao recurso especial para determinar que o adicional noturno seja calculado com base no divisor de duzentas horas mensais" (fl. 291).
+Ao analisar os autos, constato a ocorrência de omissão quanto aos demais pedidos do recurso especial, quais sejam, condenação do INSS ao pagamento das diferenças acrescidas de juros de mora e correção monetária, bem como com relação aos índices a serem aplicados a título de correção monetária, taxa de juros e termo inicial, além da condenação do INSS ao pagamento das custas e honorários de sucumbência.
+Assim, reestabeleço a sentença quanto a essas questões para que o embargado seja condenado (fl. 147):
+" ..  a pagar aos substituídos as diferenças não prescritas, entre o adicional noturno efetivamente pago (com a utilização do divisor 240) e o ora reconhecido como devido (mediante emprego do divisor 200), com a respectiva atualização monetária, desde cada pagamento a menor, e juros de mora de meio por cento ao mês, contados estes da citação".
+Quanto aos honorários de sucumbência, o Tribunal d e origem, ao dar provimento à apelação do INSS, condenou a parte ora embargante ao pagamento de "10% sobre o valor da causa, nos termos do art. 20, §4º, CPC/1973" (fl. 210).
+Considerando o provimento do recurso especial do SIND SERV PUBLICOS FEDERAIS CIVIS NO ESTADO DO AMAPA, determino a inversão dos ônus sucumbenciais.
+Ante o exposto, acolho os embargos de declaração com efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
