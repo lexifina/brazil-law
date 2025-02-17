@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE.
+1. Não é possível, em sede de recurso especial, o reexame de matéria fático-probatória, o que enseja a incidência da Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial."
+2. No caso, a conclusão do Tribunal de origem levou em consideração o contexto fático dos autos, de modo que, para revisar tal entendimento (a respeito da existência de interesse jurídico da parte agravada no desfecho da lide), seria necessário o revolvimento do suporte fático-probatório do presente feito, providência vedada na via do recurso especial.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por QFROTAS SISTEMAS LTDA. para desafiar decisão, proferida às e-STJ fls. 627/631, em que a Presidência desta Corte Superior conheceu do agravo para não conhecer do recurso especial, em vista da aplicação da Súmula 7 do STJ.
+A parte agravante defende que seu apelo nobre é regular e não demanda o reexame de matéria fática, mas, tão somente, a correta aplicação da lei aos fatos delineados no acórdão.
+Afirma que o interesse da empresa agravada na ação anulatória é meramente econômico ou corporativo, e não jurídico.
+Requer, ao final, a reconsideração da decisão recorrida ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação às e-STJ fls. 653/657.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE.
+1. Não é possível, em sede de recurso especial, o reexame de matéria fático-probatória, o que enseja a incidência da Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial."
+2. No caso, a conclusão do Tribunal de origem levou em consideração o contexto fático dos autos, de modo que, para revisar tal entendimento (a respeito da existência de interesse jurídico da parte agravada no desfecho da lide), seria necessário o revolvimento do suporte fático-probatório do presente feito, providência vedada na via do recurso especial.
+3. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar, e a decisão deve ser mantida por seus próprios fundamentos.
+O Tribunal de origem, ao entender pela existência de interesse jurídico da parte agravada no desfecho da ação anulatória, apresentou os seguintes fundamentos (e-STJ fls. 442/443):
+ ..
+Inicialmente, urge salientar que o Agravo de Instrumento é um recurso no qual cabe ao órgão revisor analisar tão somente os limites superficiais traçados na decisão atacada, sendo-lhe vedado aprofundar-se nas questões relativas ao mérito da demanda originária, sob consequência de prejulgamento e indevida supressão de instância.
+De tal arte, o cerne do mérito recursal está na questão da legalidade ou não da admissão da empresa PRIME CONSULTORIA E ASSESSORIA EMPRESARIAL LTDA. como assistente simples do MUNICÍPIO DE RIO VERDE na ação principal.
+Sob o ponto de vista jurídico da matéria, não há nenhuma afronta aparente ao que dispõem os arts. 119, 120 e 121 do CPC, visto que a terceira interveniente, ora Agravada (PRIME), possui total interesse processual no deslinde da ação anulatória proposta pela Agravante (QFROTAS), pois aquela foi a segunda colocada no certame licitatório debatido na origem, havendo razões óbvias para buscar a improcedência dos pedidos formulados em juízo pela sua concorrente.
+Com efeito, caso sobrevenha sentença favorável à empresa QFROTAS no processo de origem, esta poderá se consolidar no mercado de gestão de frotas de órgãos públicos, influenciando diretamente nos negócios da empresa PRIME, que atua no mesmo segmento, e assim vice-versa, inclusive podendo desbordar os efeitos do pronunciamento judicial de mérito naquele processo para eventuais pedidos de perdas e danos, pela empresa que se sentir prejudicada.
+Noutro giro, como denunciante do suposto esquema fraudulento existente na execução do contrato de gestão de frotas em Rio Verde/GO, levado a efeito pela QFROTAS e sua coligada (QUALITY FLUX), o qual ainda está em apuração no juízo de origem, a empresa PRIME possui ligação umbilical com o caso, principalmente pela responsabilidade civil (quiçá criminal) que advém da acusação que fez.
+Ressalta-se, inclusive, que os demais demandados na origem já concordaram com a intervenção da empresa PRIME no polo passivo da ação, denotando-se, no caso em exame, a demonstração do interesse jurídico da empresa Agravada em se habilitar aos autos como assistente simples, a fim de auxiliar a parte (demandada) principal a obter êxito.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INTERVENÇÃO DE TERCEIRO. ASSISTÊNCIA. INTERESSE MERAMENTE ECONÔMICO NÃO CONFIGURA INTERESSE JURÍDICO APTO A PERMITIR A INTERVENÇÃO DE TERCEIRO. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a jurisprudência firmada na Segunda Seção do Superior Tribunal de Justiça, "para o ingresso de terceiro nos autos como assistente simples é necessária a presença de interesse jurídico, ou seja, a demonstração da existência de relação jurídica integrada pelo assistente que será diretamente atingida pelo provimento jurisdicional, não bastando o mero interesse econômico, moral ou corporativo." (AgInt na PET no R Esp n. 1.946.100/SP, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, D Je de 1/12/2022). (..)" (AgInt no AR Esp nº 2.211.477/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/3/2023, D Je de 3/4/2023)
+De mais a mais, em juízo perfunctório, do mero confronto dos documentos trazidos ao processo até então, não se vislumbram elementos convincentes aptos a autorizar a reforma da decisão combatida.
+Isso posto, conheço do Agravo de Instrumento e nego-lhe provimento, mantendo incólume a decisão açoitada, por estes e seus próprios fundamentos.
+Observa-se, sem dificuldades, que a conclusão do Tribunal de origem levou em consideração o contexto fático dos autos, de modo que, para revisar esse entendimento (a respeito da existência de interesse jurídico da parte agravada no desfecho da ação anulatória ), é necessário o revolvimento do suporte fático-probatório do presente feito, o que é vedado em recurso especial, ante o óbice da Súmula 7 do STJ.
+Nessa linha:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DIREITO DE SUCESSÕES. AÇÃO ANULATÓRIA DE PARTILHA EM INVENTÁRIO DOS BENS DEIXADOS PELA ESPOSA DO FALECIDO COMPANHEIRO DA DEMANDANTE. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. RAZÕES DE RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO E CENTRAL DO ACÓRDÃO. SÚMULA 283 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação aos arts. 489 e 1022 Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte agravante.
+2. O exame da pretensão recursal exigiria a alteração das premissas fáticoprobatórias estabelecidas pelo v. acórdão, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. As razões do recurso especial encontram-se dissociadas dos fundamentos do acórdão recorrido, circunstância que faz incidir a Súmula 284 do STF.
+4. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+5. Não havendo adequada demonstração do dissídio jurisprudencial apresentado, o cenário atrai a inadmissibilidade do recurso especial com fundamento a alínea "c" do inciso III do art. 105 da Constituição Federal. Súmula 284 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.701.665/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 26/9/2022).
+PROCESSO CIVIL. DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO DO RECURSO ESPECIAL. POSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DE CLÁUSULAS CONTRATUAIS, DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. CERCEAMENTO DE DEFESA. DECISÃO SURPRESA. INDEVIDA INOVAÇÃO RECURSAL NOS EMBARGOS DE DECLARAÇÃO. PROVIMENTO NEGADO.
+1. "A legislação processual (932 do CPC/2015, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 29/3/2019).
+2. O Tribunal de origem se pronunciou sobre as questões suscitadas pela parte e, ao analisar o contrato administrativo, concluiu que a responsável pelo inadimplemento seria a empresa vencedora da licitação, visto que o contrato celebrado entre as partes seria expresso ao estabelecer que caberia à administração pública apenas o repasse de verbas à empresa contratada diretamente, afastando expressamente sua responsabilidade perante terceiros. E, ainda, que a contratada não comprovou seu prévio cadastramento perante o tomador de serviços, conforme previa o contrato. Fica evidente, portanto, a ausência de omissão, mas sim que a matéria foi decidida de forma diferente da que pretendia a parte recorrente.
+3. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, incidindo no presente caso a Súmula 5 do STJ, que preceitua que "a simples interpretação de cláusula contratual não enseja recurso especial", e a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+4. As teses recursais de cerceamento de defesa e de decisão surpresa só foram alegadas nos embargos de declaração na origem, tendo o Tribunal a quo se pronunciado sobre a indevida inovação recursal.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.915.031/RR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
