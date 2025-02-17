@@ -1,0 +1,102 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. ART. 85, § 8º, DO CPC. TABELA DA OAB. NATUREZA NÃO VINCULATIVA. MANUTENÇÃO DO ACÓRDÃO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento ao recurso especial, no qual a parte agravante sustentava nulidade do acórdão estadual por ausência de fundamentação válida, além de insurgir-se contra a fixação de honorários advocatícios por apreciação equitativa em R$ 2.000,00, requerendo observância à tabela de honorários da OAB e ao disposto no art. 85, § 8º-A, do CPC. Alegou, ainda, inaplicabilidade do Tema n. 1.076 do STJ e divergência jurisprudencial.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão:
+(i) verificar se o acórdão recorrido está eivado de nulidade por ausência de fundamentação ou omissão, nos termos do art. 1.022 do CPC;
+(ii) definir se a fixação dos honorários advocatícios por apreciação equitativa em R$ 2.000,00 está em conformidade com o art. 85, § 8º, do CPC;
+(iii) determinar se há vinculação do magistrado à tabela de honorários da OAB, conforme interpretação do art. 85, § 8º-A, do CPC.
+III. RAZÕES DE DECIDIR
+3. O acórdão estadual observa os requisitos de fundamentação previstos no art. 1.022 do CPC, rejeitando a alegação de omissão, contradição ou ausência de motivação, uma vez que a controvérsia foi dirimida com fundamentação sólida, ainda que em sentido contrário aos interesses da parte agravante.
+4. A fixação de honorários advocatícios por apreciação equitativa, nos termos do art. 85, § 8º, do CPC, encontra-se devidamente justificada pelas peculiaridades da causa, incluindo o baixo valor da condenação (R$ 3.000,00), a natureza e a complexidade da demanda, o grau de zelo profissional e o tempo de duração do processo, sendo o montante de R$ 2.000,00 considerado adequado e proporcional.
+5. Não há vinculação do magistrado à tabela de honorários da OAB, que possui caráter meramente referencial, conforme entendimento pacificado desta Corte. A fixação por equidade deve atender às peculiaridades do caso concreto, em observância ao princípio da razoabilidade, conforme o art. 85, § 8º, do CPC, e não exclusivamente aos valores indi cados pela entidade de classe.
+6. A alteração das premissas do acórdão demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, em razão da aplicação da Súmula 7/STJ.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por RONY NEUMAN contra decisão em recurso especial, assim ementada (e-STJ, fl. 324):
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS POR EQUIDADE. SÚMULA 7/STJ. TABELA DA OAB. NÃO VINCULAÇÃO - SÚMULA 83 DESTA CORTE SUPERIOR. RECURSO ESPECIAL DESPROVIDO.
+Nas razões deste agravo, o agravante busca que a agravada (Turkish Airlines Inc.) arque com honorários sucumbenciais arbitrados nos termos do CPC, art. 85, § 8º-A, ou seja, que observe os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios (e-STJ fl. 343).
+Alega violação do art. 1.022 (incisos I e II) do CPC/151, aduzindo que o Tribunal de origem, ao deixar de analisar as razões dos embargos de declaração, incorreu em nulidade por ausência de fundamentação.
+Assevera que, no caso concreto, não há que se falar em revolvimento de matéria fática-probatória, muito menos interpretação de cláusulas contratuais, devendo ser afastada a Súmula 7/STJ.
+Argumenta que a jurisprudência do STJ se firmou no sentido da aplicação dos honorários por equidade, observados os valores da Tabela da OAB (Lei 14.365/22, Art. 3º) e CPC, art. 85 § 8º-A.
+Requer ó provimento do agravo para a reforma da decisão, dando-se provimento ao recurso especial.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. ART. 85, § 8º, DO CPC. TABELA DA OAB. NATUREZA NÃO VINCULATIVA. MANUTENÇÃO DO ACÓRDÃO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento ao recurso especial, no qual a parte agravante sustentava nulidade do acórdão estadual por ausência de fundamentação válida, além de insurgir-se contra a fixação de honorários advocatícios por apreciação equitativa em R$ 2.000,00, requerendo observância à tabela de honorários da OAB e ao disposto no art. 85, § 8º-A, do CPC. Alegou, ainda, inaplicabilidade do Tema n. 1.076 do STJ e divergência jurisprudencial.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão:
+(i) verificar se o acórdão recorrido está eivado de nulidade por ausência de fundamentação ou omissão, nos termos do art. 1.022 do CPC;
+(ii) definir se a fixação dos honorários advocatícios por apreciação equitativa em R$ 2.000,00 está em conformidade com o art. 85, § 8º, do CPC;
+(iii) determinar se há vinculação do magistrado à tabela de honorários da OAB, conforme interpretação do art. 85, § 8º-A, do CPC.
+III. RAZÕES DE DECIDIR
+3. O acórdão estadual observa os requisitos de fundamentação previstos no art. 1.022 do CPC, rejeitando a alegação de omissão, contradição ou ausência de motivação, uma vez que a controvérsia foi dirimida com fundamentação sólida, ainda que em sentido contrário aos interesses da parte agravante.
+4. A fixação de honorários advocatícios por apreciação equitativa, nos termos do art. 85, § 8º, do CPC, encontra-se devidamente justificada pelas peculiaridades da causa, incluindo o baixo valor da condenação (R$ 3.000,00), a natureza e a complexidade da demanda, o grau de zelo profissional e o tempo de duração do processo, sendo o montante de R$ 2.000,00 considerado adequado e proporcional.
+5. Não há vinculação do magistrado à tabela de honorários da OAB, que possui caráter meramente referencial, conforme entendimento pacificado desta Corte. A fixação por equidade deve atender às peculiaridades do caso concreto, em observância ao princípio da razoabilidade, conforme o art. 85, § 8º, do CPC, e não exclusivamente aos valores indi cados pela entidade de classe.
+6. A alteração das premissas do acórdão demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, em razão da aplicação da Súmula 7/STJ.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Conforme relatado, busca a parte agravante a reforma da decisão recorrida para que haja o enquadramento legal da verba honorária fixada ao disposto no art. 85, § 8º-A, do CPC. Aduz nulidade do acórdão estadual por ausência de fundamentação válida. Acena com dissídio jurisprudencial.
+A decisão agravada foi proferida nos seguintes termos (fls. 324-329):
+No recurso especial, o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 85, § 8º-A, 489 e 1.022, I e II, do CPC.
+Esclarece que se opõe ao acórdão por fixar os honorários advocatícios por equidade, em R$ 2.000,00 (dois mil reais).
+Afirma ser inaplicável o Tema n. 1.076, julgado sob o regime dos recursos repetitivos, pois a discussão recai sobre a necessidade de observância de parâmetros mínimos ao fixar as verbas sucumbenciais por equidade, conforme disposto no art. 85, § 8º-A, do CPC, matéria inexistente à época da fixação da tese vinculante. Pondera que não se discute se o valor dos honorários é alto ou baixo, mas sim seu enquadramento legal no art. 85, § 8º-A, do CPC.
+Enfatiza a omissão no julgamento, embora opostos e julgados os embargos de declaração, caracterizando deficiência de fundamentação.
+Suscita que o julgamento deixou de considerar a obrigatoriedade legal de arbitramento de honorários sucumbenciais por equidade de acordo com a Tabela do Conselho Seccional da OAB, conforme a Lei n. 14.365/2022. .Requer o provimento do recurso especial (e-STJ, fls. 274-302).
+ ..
+Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+O acórdão concluiu pela presença dos requisitos para fixação dos honorários advocatícios por equidade, em R$ 2.000,00 (dois mil reais), tendo em vista o baixo valor da condenação.
+Também firmou o julgado a impossibilidade de fixação dessa verba tendo como base a Tabela Conselho Seccional da OAB, por ela ser uma mera recomendação, devendo-se sempre se observar as peculiaridades da causa, o que teria ocorrido com a estipulação desse montante.
+Veja-se (e-STJ, fls. 227-230):
+Assim, levando em conta as circunstâncias do caso, e tendo em vista os padrões de quantificação de ressarcimento reiteradamente adotados pelo Colendo Superior Tribunal de Justiça e por esta Câmara, conclui-se que o valor de R$ 3.000,00, arbitrado pelo D. Juízo a quo, não comporta majoração.
+Não obstante, e respeitado o entendimento do D. Juízo a quo, o recurso merece parcial provimento quanto à pretensão do autor de majoração da verba honorária sucumbencial fixada em favor de seu patrono. De fato, o artigo 85, §2º, do Código de Processo Civil dispõe que os honorários advocatícios "serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa".
+ ..
+Na hipótese, considerando o valor da condenação imposta ao réu (R$ 3.000,00), a aplicação do disposto no artigo 85, §2º, do Diploma Processual, conduziria à fixação de honorários em valor insuficiente para a remuneração adequada do advogado do autor, razão pela qual se impõe que a verba honorária sucumbencial seja arbitrada por apreciação equitativa, nos termos do referido artigo 85, §8º, do Diploma Processual.
+Desse modo, considerando a natureza e a complexidade da causa, o grau de zelo e a responsabilidade assumida pelo advogado do autor, bem como o tempo de duração do processo, tem-se que o valor de R$ 2.000,00 é adequado para remunerar o trabalho desenvolvido.
+passo, convém destacar que não socorre o autor a alegação de que seria obrigatória a adoção do valor previsto pelo Conselho Seccional da Ordem dos Advogados do Brasil, conforme determinaria o artigo 85, §8º-A, do Código de Processo Civil. Realmente, não há como admitir a interpretação que o autor pretende dar ao dispositivo legal em questão.
+De fato, a estrita vinculação do julgador à tabela da entidade de classe, desconsiderando as circunstâncias do caso concreto, contraria a essência do arbitramento da verba honorária por apreciação equitativa.
+Na hipótese, considerando o valor da condenação imposta ao réu (R$ 3.000,00), a aplicação do disposto no artigo 85, §2º, do Diploma Processual, conduziria à fixação de honorários em valor insuficiente para a remuneração adequada do advogado do autor, razão pela qual se impõe que a verba honorária sucumbencial seja arbitrada por apreciação equitativa, nos termos do referido artigo 85, §8º, do Diploma Processual. Desse modo, considerando a natureza e a complexidade da causa, o grau de zelo e a responsabilidade assumida pelo advogado do autor, bem como o tempo de duração do processo, tem-se que o valor de R$ 2.000,00 é adequado para remunerar o trabalho desenvolvido.
+Nesse passo, convém destacar que não socorre o autor a alegação de que seria obrigatória a adoção do valor previsto pelo Conselho Seccional da Ordem dos Advogados do Brasil, conforme determinaria o artigo 85, §8º-A, do Código de Processo Civil.
+Realmente, não há como admitir a interpretação que o autor pretende dar ao dispositivo legal em questão. De fato, a estrita vinculação do julgador à tabela da entidade de classe, desconsiderando as circunstâncias do caso concreto, contraria a essência do arbitramento da verba honorária por apreciação equitativa.
+Ademais, se nem mesmo os advogados estão obrigados a adotar os valores constantes da referida tabela que, segundo a própria Ordem dos Advogados do Brasil, foi elaborada "como fonte de referência, para que a advogada/advogado possa estimar o valor de seus honorários de acordo com a natureza e a complexidade dos serviços profissionais prestados"1 não há razão para que o Magistrado a ela esteja adstrito, sobretudo considerando que o legislador atribui ao julgador competência para a apreciação equitativa com base nos parâmetros elencados no artigo 85, §2º, do Código de Processo Civil.
+Convém, ainda, destacar que a adoção de uma remuneração fixa é potencialmente prejudicial à própria classe dos advogados, uma vez que ignoraria as peculiaridades de cada caso, deixando de remunerar adequadamente o causídico, por exemplo, em causas de maior complexidade mas com baixo proveito econômico envolvido.
+Nesse cenário, a melhor exegese da previsão do artigo 85, §8º-A, do Código de Processo Civil, aponta para a observância da tabela elaborada pela entidade de classe com a própria finalidade de sua criação, isto é, como mera recomendação para o arbitramento da verba honorária.
+ ..
+Ante o exposto, pelo meu voto, dou parcial provimento ao recurso, apenas para majorar os honorários advocatícios sucumbenciais devidos pela ré ao advogado do autor, para R$ 2.000,00.
+Essas ponderações foram fundadas na análise fático-probatória da demanda, atraindo a aplicação da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional.
+O insurgente não busca a mera qualificação desse quadro, mas sua reavaliação, o que é vedado em recurso especial.
+Conforme esta instância superior, "é firme o entendimento no sentido da inexistência de vinculação do magistrado aos valores estabelecidos pela tabela da OAB para os honorários advocatícios. Incidência da Súmula 83/STJ" (AgInt no REsp n. 2.103.955/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+Nota-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO À SAÚDE. TABELA DE HONORÁRIOS DA OAB. CARÁTER NÃO VINCULATIVO. SUCUMBÊNCIA COM SUPORTE NA EQUIDADE. ATO PRÓPRIO DAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 7. REVISÃO DO STJ. EXCEPCIONALIDADE. NÃO APLICAÇÃO AO CASO CONCRETO. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de ação de obrigação de fazer cujo objeto reside na prestação de serviços de saúde, fundada na realização de procedimento cirúrgico.
+2. A municipalidade recorrente aduz que o Tribunal catarinense ofendeu os artigos 85, §§ 2º, 8º e 8º-A, do CPC. Afirma que "a utilização da Tabela de Honorários da OAB/SC resultou no arbitramento de honorários em valor excessivo, inegavelmente em descompasso com "a natureza e a importância da causa", bem como com o "trabalho realizado pelo advogado e o tempo exigido para o seu serviço".
+3. O Colegiado originário não imprimiu eficácia vinculante à tabela da OAB, utilizando-a tão somente como referencial para a fixação dos honorários de sucumbência. Como dito acima, a fixação da verba honorária observou o princípio da equidade, nos termos do art. 85, §§ 8º e 8º-A do CPC.
+4. O STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual e sua fixação é ato próprio dos juízos das instâncias ordinárias, aos quais competem a cognição e a consideração das situações de natureza fática.
+5. O Tribunal Superior atua na sua revisão somente quando o valor for irrisório ou exorbitante, o que não se configura na presente hipótese. Assim, o reexame das razões de fato que conduziram o TJSC a tais conclusões significa usurpação da competência das instâncias ordinárias. Ademais, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado na via especial ante a incidência da Súmula 7/STJ 6. O óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, evidenciando-se a ofensa aos princípios da razoabilidade e da proporcionalidade - hipótese não configurada nos autos, uma vez que a causa durou aproximadamente nove anos, por isso o valor fixado não destoa dos aplicados em casos similares.
+7. A tabela de honorários da OAB, por sua vez, é referência utilizada para estabelecer os valores devidos aos advogados por seus serviços, mas não é, necessariamente, vinculativa. Ao se determinar os honorários advocatícios, consideram-se fatores como a complexidade do caso, o tempo despendido e a capacidade financeira das partes envolvidas.
+8. Agravo Interno não provido.
+(AgInt no REsp n. 2.121.414/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+Ante o exposto, nego provimento ao recurso especial.
+Em que pese a irresignação da parte agravante, a decisão deve ser mantida.
+No caso, o acórdão concluiu pela presença dos requisitos para fixação dos honorários advocatícios por equidade, em R$ 2.000,00 (dois mil reais), tendo em vista o baixo valor da condenação e as peculiaridades da causa, de modo que a alteração do valor demandaria reexame fático-probatório, incabível na via eleita, conforme a Súmula 7/STJ.
+Outrossim, conforme esta Corte Superior, "é firme o entendimento no sentido da inexistência de vinculação do magistrado aos valores estabelecidos pela tabela da OAB para os honorários advocatícios. Incidência da Súmula 83/STJ" (AgInt no REsp n. 2.103.955/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+Desse modo, não se verifica qualquer vício no acórdão estadual, que dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
