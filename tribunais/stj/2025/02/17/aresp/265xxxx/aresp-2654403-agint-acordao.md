@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. EXCESSO DE EXECUÇÃO. QUITAÇÃO DA DÍVIDA. TRÂNSITO EM JULGADO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. TEMA N. 677 DO STJ. INAPLICABILIDADE. LEVANTAMENTO DA QUANTIA E EXCESSO DE EXECUÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1.Inexistem os vícios de fundamentação elencados nos arts. 489, §1º, e 1.022, II, do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria analisada pela decisão agravada.
+2. O colegiado estadual assentou que foi reconhecido excesso de execução e quitação da dívida em decisão transitada em julgado, proferida em embargos do devedor. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n. 7 do STJ.
+3. Há evidente distinção entre o Tema n. 677 do STJ e o presente processo, pois na presente demanda houve o levantamento da quantia, bem como foi reconhecido o excesso de execução.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALDO MÁRIO DE FREITAS LOPES (ALDO) contra decisão de minha relatoria assim ementada:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. RECONSIDERAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. OMISSÃO. AUSÊNCIA. COISA JULGADA. LEVANTAMENTO E EXCESSO DE EXECUÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO (e-STJ, fl. 399).
+Nas razões do presente inconformismo, defendeu que (1) é inaplicável a Súmula n. 7 do STJ, haja vista que reconhecido expressamente que a quantia discutida foi objeto de penhora; (2) o Tema n. 677 do STJ é claro quanto à ausência de quitação e de cessação da mora quando o depósito judicial é efetuado a título de garantia do juízo ou decorre da penhora de ativos financeiros; e (3) a decisão ora agravada foi omissa e deficientemente fundamentada por não ter reconhecido a contradição entre as teses de que houve depósito voluntário e de que houve penhora (e-STJ, fls. 406/411).
+Foi apresentada contraminuta (e-STJ, fls. 416/427).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. EXCESSO DE EXECUÇÃO. QUITAÇÃO DA DÍVIDA. TRÂNSITO EM JULGADO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. TEMA N. 677 DO STJ. INAPLICABILIDADE. LEVANTAMENTO DA QUANTIA E EXCESSO DE EXECUÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1.Inexistem os vícios de fundamentação elencados nos arts. 489, §1º, e 1.022, II, do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria analisada pela decisão agravada.
+2. O colegiado estadual assentou que foi reconhecido excesso de execução e quitação da dívida em decisão transitada em julgado, proferida em embargos do devedor. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n. 7 do STJ.
+3. Há evidente distinção entre o Tema n. 677 do STJ e o presente processo, pois na presente demanda houve o levantamento da quantia, bem como foi reconhecido o excesso de execução.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1) Da fundamentação da decisão agravada
+(2) Do Tema n. 677 do STJ
+(3) Da Súmula n. 7 do STJ
+A decisão ora agravada foi expressa e fundamentada no sentido de que o Tribunal estadual não incorrera em contradição, porquanto no julgamento dos aclaratórios a Corte local aclarou que, embora tenha ocorrido penhora à, e-STJ, fl. 350, o executado depositou voluntariamente em conta judicial a quantia de R$ 253.764,60 (duzentos e cinquenta e três mil, setecentos e sessenta e quatro reais e sessenta centavos) à, e-STJ, fl. 355.
+Confira-se o excerto da fundamentação da decisão agravada:
+O Tribunal estadual entendeu que não seria aplicável o Tema nº 677 do STJ, na medida em que houve o levantamento da quantia e reconhecido o excesso de execução, em decisão transitada em julgado. Confira-se:
+Afirma o embargante que a dívida em execução não se encontra quitada, pois o depósito coercitivo serviu apenas para oportunizar os embargos executórios, mas não a sua quitação.
+Pois bem. Muito embora tenha havido a penhora da quantia discutida nos autos (fl. 350), o executado, voluntariamente depositou na conta judicial o valor de R$ R$ 253.764,60 em 03/02/2004, conforme se verifica às fls. 355, sendo que o exequente mediante caução, levantou a referida quantia em 12/02/2004 (fls.405).
+Foram opostos embargos do devedor (001.04.102256-5), parcialmente acolhidos, definindo que o valor da dívida era de 199.203,89, até o dia da liberação do alvará ao embargado, reconhecendo excesso de execução no valor de R$ 54.560,71.
+O exequente/embargado, apelou da referida sentença, sendo que este E. Tribunal de Justiça por unanimidade, negou provimento ao recurso, conforme acórdão (fl.735/739), sendo que o referido acórdão transitou em julgado em 02/07/2020 (fl.760). Colha-se:
+ ..
+Ressalta-se que não se ignora a tese fixada pelo STJ - Tema 677 ".. que o depósito judicial em garantia do Juízo - seja efetuado por iniciativa do devedor, seja decorrente de penhora de ativos financeiros - não implica em imediata entrega do dinheiro ao credor, tampouco enseja quitação, não se opera a cessação da mora do devedor. Consequentemente, contra ele continuarão a correr os encargos previstos no título executivo, até que haja efetiva liberação em favor do credor."
+Contudo, no presente caso, houve levantamento dos valores depositados na conta judicial, havendo ainda, posterior reconhecimento de excesso de execução, por decisão transitada em julgado, situação distinta daquela aplicada pelo tema 677 do STJ.
+Logo, havendo reconhecimento de excesso a execução com trânsito em julgado, e tendo o exequente efetuado o levantamento dos valores corrigidos, imediatamente após o deposito na conta judicial, não há que se falar em prosseguimento do cumprimento de sentença quanto aos juros de mora, mormente, quando a quantia levantada, foi reconhecidamente superior ao crédito perseguido (e-STJ, fls. 128/129).
+Ademais, não houve contradição, visto que no julgamento dos embargos de declaração o Tribunal estadual esclareceu que, embora tenha havido a penhora da quantia à e-STJ, fl. 350, o executado depositou voluntariamente na conta judicial o montante de R$ 253.764,60 (duzentos e cinquenta e três mil, setecentos e sessenta e quatro reais e sessenta centavos) à e-STJ, fl. 355.
+De todo modo, a despeito da natureza do depósito, se voluntário, se coercitivo, o fato é que a Corte estadual ponderou que o levantamento da quantia e o reconhecimento do excesso de execução, em decisão transitada em julgado, evidenciava o distinguishing entre o precedente firmado em recurso repetitivo e o caso concreto (e-STJ, fl. 401).
+Portanto, a alegação de que a decisão agravada foi omissa ou deficientemente fundamentada consiste em inconformismo com as razões adotadas, o que não caracteriza violação dos arts. 489 e 1.022 do CPC.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO NA POSSE. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA IMISSÃO NA POSSE DO ADQUIRENTE DO IMÓVEL APÓS LEILÃO JUDICIAL REALIZADO PELA INSTITUIÇÃO FINANCEIRA, CUJO PROCEDIMENTO OCORREU SEM NENHUMA IRREGULARIDADE, TAMPOUCO HOUVE O RECONHECIMENTO DA PURGAÇÃO DA MORA PELA PARTE ORA AGRAVADA. PECULIARIDADES DO CASO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5, 7 E 83/STJ. 3. HONORÁRIOS RECURSAIS. MAJORAÇÃO. EXIGIBILIDADE SUSPENSA, EM RAZÃO DO BENEFÍCIO DA GRATUIDADE JUDICIÁRIA CONCEDIDA NA ORIGEM. 4. AGRAVO PARCIALMENTE PROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, que entendeu pela imissão na posse do adquirente do imóvel após o leilão judicial realizado pela CEF, sem nenhuma irregularidade, além de ter havido o reconhecimento da purgação da mora, com base nas peculiaridades envolvidas no caso, incorrerá em análise de cláusulas contratuais e no reexame de matéria fático-probatória, o que é inviável devido ao óbice das Súmulas 5 e 7/STJ.
+2.1. Além disso, diante das peculiaridades fáticas do presente processo, aplica-se o distinguinshing, visto que a hipótese fática em julgamento não se ajusta àquela enfrentada, entre outros, pelo entendimento proferido no REsp n. 1.433.031/DF, não havendo falar em interpretação jurisprudencial diversa.
+3. De fato, ao efetuar a majoração dos honorários recursais, nos termos do art. 85, § 11, do CPC/2015, em favor do advogado da parte agravada em 2% sobre o valor atualizado da causa, houve omissão quanto à suspensão da sua exigibilidade por conta da gratuidade de justiça deferida à recorrente/agravante na origem.
+4. Agravo interno parcialmente provido apenas para fazer constar a suspensão da exigibilidade dos honorários sucumbenciais recursais, tendo em vista a concessão da gratuidade judiciária deferida na origem.
+(AgInt no AREsp n. 1.910.524/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 16/11/2021, DJe de 19/11/2021)
+Ademais, tendo o Tribunal estadual esclarecido que foi reconhecido excesso de execução e quitação da dívida em decisão transitada em julgado, proferida em embargos do devedor, é inviável a reforma do referido entendimento para admitir que não houve quitação, por força da Súmula n. 7 do STJ.
+Confira-se o julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. FASE EXECUTÓRIA. FIM. DECISÃO. RECURSO CABÍVEL. APELAÇÃO. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO. ERRO GROSSEIRO. SÚMULA Nº 568/STJ. QUITAÇÃO PARCIAL. ALEGAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356/STF. REEXAME DE FATOS E PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A decisão que extingue a execução é impugnável pela via da apelação, configurando erro grosseiro, em casos tais, a interposição de agravo de instrumento, situação que afasta inclusive a possibilidade de aplicação do princípio da fungibilidade recursal.
+Precedentes.
+3. Na hipótese, os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai os óbices das Súmulas nºs 83 e 568/STJ.
+4. A alegação de que a parte exequente não deu quitação total do crédito exequendo e, por isso, não houve extinção do cumprimento de sentença, padece da falta de prequestionamento, além de demandar o reexame de fatos e provas dos autos, situação que atrai a vedação das Súmulas nºs 282 e 356/STF e nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.861.233/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 24/10/2022, DJe de 28/10/2022)
+Por fim, é pertinente examinar o conteúdo do Tema n. 677 do STJ. Nele, esta Corte definiu que não há quitação ou cessa a mora em decorrência tão somente da penhora de ativos ou do depósito a título de garantia do juízo.
+Contudo, é de se reconhecer a distinção entre a tese definida no Tema n. 677 do STJ e o caso concreto, tendo em vista que na presente demanda houve o levantamento da quantia, bem como foi reconhecido o excesso de execução, circunstâncias suficientes para afastar a pretend ida aplicação da tese invocada.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
