@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. ASTREINTE FIXADA EM TUTELA ANTECIPADA. POSTERIOR DECRETO DE IMPROCEDÊNCIA DA AÇÃO COM REVOGAÇÃO DA LIMINAR. EXECUÇÃO DA MULTA. INADMISSIBILIDADE. MATÉRIA PREJUDICADA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. VEICULAÇÃO DE MERO INCONFORMISMO DA PARTE COM O JULGADO. FINALIDADE DOS ACLARATÓRIOS DESVIRTUADA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. INCIDÊNCIA DO ART. 1.026, § 2º, DO CPC. EMBARGOS REJEITADOS COM APLICAÇÃO DE MULTA.
+1. O acórdão embargado não contém erro material, contradição, tampouco foi omisso, pois as razões recursais não seriam acolhidas por ausência de prequestionamento e, ainda que ultrapassada a preliminar, o mérito também não seria favorável.
+2. Inexistentes as hipóteses do art. 1.022 do CPC, não merecem acolhida os embargos de declaração, que têm nítido caráter infringente.
+3. Diante da manifesta improcedência dos embargos, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta Egrégia Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual se aplica ao embargante a multa do art. 1.026, § 2º, do CPC, fixada em 2% sobre o valor atualizado da causa.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por YURI ALEXIEIVIG MENDES DE ALMEIDA (YURI) contra acórdão de minha relatoria, assim ementado:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. ASTREINTE FIXADA EM TUTELA ANTECIPADA. POSTERIOR DECRETO DE IMPROCEDÊNCIA DA AÇÃO COM REVOGAÇÃO DA LIMINAR. EXECUÇÃO DA MULTA. INADMISSIBILIDADE. MATÉRIA PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Com o julgamento de improcedência da ação principal, inclusive com a revogação da tutela antecipada, ficou prejudicada a questão acerca das astreintes.
+2. Agravo interno não provido. (e-STJ, fls. 781-783)
+Nas razões do presente inconformismo, defendeu que (1) o acórdão é nulo, pois o pedido de sustentação oral foi deferido no mesmo dia em que encerrou a sessão virtual; (2) foi abordado diretamente o mérito acerca da prejudicialidade das astreintes antes da discussão sobre o prequestionamento, tornando o acórdão omisso, contraditório e obscuro.
+Foi apresentada impugnação (e-STJ, fls. 802/803).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. ASTREINTE FIXADA EM TUTELA ANTECIPADA. POSTERIOR DECRETO DE IMPROCEDÊNCIA DA AÇÃO COM REVOGAÇÃO DA LIMINAR. EXECUÇÃO DA MULTA. INADMISSIBILIDADE. MATÉRIA PREJUDICADA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. VEICULAÇÃO DE MERO INCONFORMISMO DA PARTE COM O JULGADO. FINALIDADE DOS ACLARATÓRIOS DESVIRTUADA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. INCIDÊNCIA DO ART. 1.026, § 2º, DO CPC. EMBARGOS REJEITADOS COM APLICAÇÃO DE MULTA.
+1. O acórdão embargado não contém erro material, contradição, tampouco foi omisso, pois as razões recursais não seriam acolhidas por ausência de prequestionamento e, ainda que ultrapassada a preliminar, o mérito também não seria favorável.
+2. Inexistentes as hipóteses do art. 1.022 do CPC, não merecem acolhida os embargos de declaração, que têm nítido caráter infringente.
+3. Diante da manifesta improcedência dos embargos, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta Egrégia Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual se aplica ao embargante a multa do art. 1.026, § 2º, do CPC, fixada em 2% sobre o valor atualizado da causa.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+De início, não há qualquer fundamento para decretar a nulidade do acórdão.
+Registre-se que a decisão que deferiu o pedido de sustentação oral (e-STJ, fl. 776/777) apenas ratificou a Certidão da Secretaria da Terceira Turma (e-STJ, fl. 775) que, considerando a petição da agravante, ora embargante (e-STJ, fl. 772/773), esclareceu que é possível a realização de sustentação oral em agravo interno pautado em sessão virtual, nas hipóteses previstas pela Lei n. 14.365/2022, mediante inscrição no sítio eletrônico do Superior Tribunal de Justiça, por meio de formulário próprio (https://sustentacaooral.web.stj.jus.br/login), até 48 horas antes do início da sessão, nos termos do art. 184-B, § 1º, do Regimento Interno do STJ.
+Anote-se que referida certidão (e-STJ, fl. 775) não necessita de publicação, visto que somente esclareceu qual o regramento legal referente à sustentação oral no julgamento virtual, não havendo se falar em prejuízo para a parte, pois não cabe ao advogado alegar o desconhecimento da Lei, devendo ser diligente no acompanhamento do processo disponível eletronicamente.
+No mais, o inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do CPC.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+No entanto, todas as teses foram devidamente rebatidas pela decisão monocrática (e-STJ, fls. 749-751), que concluiu pela incidência da Súmula n. 211 do STJ por ausência de prequestionamento, e pelo acórdão (e-STJ, fls. 781-783), que entendeu que eventual multa aplicada em tutela antecipada não subsiste em caso de improcedência da ação principal.
+Portanto, as teses apresentadas por YURI não seriam acolhidas por ausência de prequestionamento e, ainda que ultrapassada a preliminar, o mérito também não seria favorável.
+Apesar da insistência desmedida da parte, a jurisprudência desta Corte Superior é pacífica ao reconhecer que a multa diária fixada em antecipação de tutela somente poderá ser objeto de execução provisória após sua confirmação pela sentença de mérito, o que não ocorreu no caso em tela.
+Confiram-se novos precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR INOMINADA. FIXAÇÃO DE MULTA COMINATÓRIA. PEDIDO PRINCIPAL JULGADO IMPROCEDENTE. IMPOSSIBILIDADE DE EXECUÇÃO DA MULTA FIXADA EM SEDE LIMINAR. SÚMULA 83/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO CONFIGURADA. PRETENSÃO DE DEVOLUÇÃO DE VALORES DEPOSITADOS EM JUÍZO. PRESCRIÇÃO. TERMO INICIAL. TRÂNSITO EM JULGADA DA AÇÃO QUE O MOTIVOU. FIXAÇÃO DE MULTA DIÁRIA EM OBRIGAÇÃO DE PAGAR. IMPOSSIBILIDADE. MODALIDADE RESTRITA À OBRIGAÇÕES DE FAZER.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. A procedência do pedido principal é condição resolutiva para a subsistência da multa cominatória fixada em antecipação de tutela (REsp 1.200.856/RS, Rel. Ministro Sidnei Beneti, CORTE ESPECIAL, 17/09/2014).
+ ..
+(AgInt no AREsp n. 2.349.190/GO, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ASTREINTES. EXECUÇÃO DE MULTA FIXADA POR DECISÃO INTERLOCUTÓRIA DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. NECESSIDADE DE CONFIRMAÇÃO EM DECISÃO DEFINITIVA. JULGAMENTO DE IMPROCEDÊNCIA DO PEDIDO FORMULADO NA EXORDIAL. AFASTAMENTO DA MULTA COMINATÓRIA.
+1. A Corte Especial, em sede de recurso repetitivo, REsp n. 1.200.856/RS, Relator Ministro Sidnei Beneti, entendeu que a "multa diária prevista no § 4º do art.461 do CPC  1973 , devida desde o dia em que configurado o descumprimento, quando fixada em antecipação de tutela, somente poderá ser objeto de execução provisória após a sua confirmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo".
+2. Por um lado, em vias de o litígio ser solucionado - pelo STJ - houve inadequada tramitação da execução provisória das astreintes, haja vista a inexistência de título executivo. Por outro lado, nos autos do REsp n. 1.134.483/RS houve julgamento de integral improcedência do pedido formulado, pela ora recorrida, na inicial da ação.
+3. Com efeito, independentemente do mérito da questão acerca da correta incidência das astreintes - tese de que houve fornecimento de documentação hábil à transferência de Detran do veículo -, a multa cominatória está definitivamente afastada pelo julgamento exauriente do mérito da demanda, em sede de recurso especial.
+4. Recurso especial parcialmente provido para reconhecer a nulidade insanável de todos os atos processuais praticados no cumprimento provisório das astreintes.
+(REsp n. 1.327.511/RS, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 10/3/2020, DJe de 4/8/2020)
+Verificado o caráter protelatório dos presentes embargos de declaração, condeno YURI ao pagamento da multa de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º.
+Nessas condições, REJEITO os embargos de declaração, com imposição de multa.
+É o voto.
