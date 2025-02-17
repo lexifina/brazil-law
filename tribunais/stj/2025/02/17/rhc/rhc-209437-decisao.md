@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por VALMIR ANTERO JOAQUIM contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime descrito no art. 121, §2º, incisos I, III e IV, e art. 211, c.c. art. 14, inc. II, todos do Código Penal.Consta dos autos que o recorrente está preso desde 25/01/2023- fl.86 . A prisão preventiva foi decretada para garantia da aplicação da lei penal notadamente pelo fato do recorrente estar em local incerto e não sabido e pelo modus operandi.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão e denegou a ordem, em acórdão de fls. 187-193.
+No presente recurso, a Defesa alega excesso de prazo na formação da culpa. Aduz, ainda, que o recorrente estaria sofrendo constrangimento ilegal diante da ausência dos requisitos ensejadores da prisão preventiva, bem como ausência de fundamentação idônea da decisão que decretou a segregação cautelar, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Sem pedido de liminar.
+O Ministério Público Federal, às fls. 237-244, manifestou-se pelo "não provimento do recurso ordinário em habeas corpus".
+É o relatório. DECIDO.
+Sobre as alegações de que o recorrente estaria sofrendo constrangimento ilegal diante da ausência dos requisitos ensejadores da prisão preventiva, bem como ausência de fundamentação idônea da decisão que decretou a segregação cautelar, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão, estas matérias já foram analisadas, em 03/12/2024, RHC 205.667/RO referente ao processo de origem 7014313-80.2022.8.22.0002, ocasião em que neguei provimento ao recurso.
+Sob tal contexto, torna-se inviável o conhecimento do Recurso em habeas corpus no qual se reitera o pleito já analisado em outro processo.
+A propósito:
+"a reiteração de pedidos anteriormente julgados é vedada, conforme a jurisprudência pacificada desta Corte, que entende que tais casos configuram inadmissibilidade do novo habeas corpus".(HC n. 776.233/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 28/10/2024.)
+Nesse sentido: (AgRg no HC n. 920.782/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)(AgRg no HC n. 782.252/MT, minha relatoria, Quinta Turma DJe de 3/3/2023); (AgRg no HC n. 772.550/SP, relator Ministro João batista Moreira (Desembargador Convocado do TRF1), Quinta turma, DJe de 13/2/2023); (AgRg no REsp n. 2.051.661/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024.)
+Quanto a alegação de excesso de prazo para a formação da culpa, esta encontra-se superada uma vez que, segundo informações constantes no sitio do Tribunal de origem (wwww.tjro.jus.br), o processo se encontra na fase de alegações finais.
+Incide no caso, portanto, o enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Ilustrativamente:
+"de acordo com cópia do andamento juntado, ao processo encontra-se em fase de alegações finais, o que atrai a incidência da Súmula n. da Súmula n. 52 do STJ, in verbis: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".(AgRg no HC n. 908.831/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+"Prejudicada a análise quanto à alegação de excesso de prazo na formação da culpa, pois, conforme se depreende das informações prestadas, a defesa do agravante já havia apresentado as alegações finais e o Ministério Público juntou as suas alegações finais em 5/5/2021, o que atrai ao caso a incidência da Súmula n. 52 deste Superior Tribunal de Justiça, a qual prevê: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo". (AgRg no RHC n. 169.330/RJ, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 24/3/2023.)
+Nesse mesmo sentido: (AgRg no HC n. 796.125/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Tur ma, DJe de 6/3/2023); (AgRg no HC n. 756.005/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 17/2/2023);(AgRg na TutCautAnt n. 415/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 8/8/2024.)
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
