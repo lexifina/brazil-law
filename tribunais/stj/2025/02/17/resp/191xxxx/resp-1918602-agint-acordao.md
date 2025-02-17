@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE BENS PENHORÁVEIS. HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que declarou a prescrição intercorrente em execução de título extrajudicial, diante da ausência de bens penhoráveis e da inércia do credor, e afastou a condenação do devedor ao pagamento de honorários de sucumbência.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a declaração da prescrição intercorrente em razão da ausência de bens penhoráveis impõe ao devedor o ônus pela paralisação processual; e (ii) definir se é cabível a fixação de honorários de sucumbência em favor do advogado do devedor em tais circunstâncias.
+III. RAZÕES DE DECIDIR
+3. A ausência de bens penhoráveis não transfere automaticamente ao devedor a responsabilidade pelo insucesso da execução ou pela paralisação processual, cabendo ao exequente demonstrar diligência efetiva na busca pela satisfação do crédito.
+4. A jurisprudência do Superior Tribunal de Justiça estabelece que a prescrição intercorrente declarada por ausência de localização de bens não atrai a aplicação de honorários de sucumbência em favor do devedor, conforme os princípios da efetividade do processo, da boa-fé processual e da cooperação, que vedam ao devedor beneficiar-se do não cumprimento de sua obrigação (REsp n. 1.769.201/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/3/2019).
+5. A decisão monocrática aplica corretamente os princípios da segurança jurídica e da causalidade, ao concluir pela extinção da execução sem ônus para as partes, dada a evidente inércia do credor e a inexistência de condutas resistivas atribuíveis ao devedor.
+IV. DISPOSITIVO E TESE
+6. Agravo interno desprovido.
+Tese de julgamento:
+A ausência de bens penhoráveis não transfere automaticamente ao devedor o ônus pela paralisação da execução, cabendo ao exequente comprovar diligência na busca pela satisfação do crédito.
+A declaração da prescrição intercorrente em razão da ausência de localização de bens não gera direito ao pagamento de honorários de sucumbência em favor do advogado do devedor, à luz dos princípios da causalidade, da efetividade do processo e da boa-fé processual.
+Dispositivos relevantes citados: CPC/2015, art. 924, V; CF/1988, art. 5º, XXXVI.
+Jurisprudência relevante citada: REsp n. 1.769.201/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/3/2019, DJe de 20/3/2019; AgInt nos EDcl no AREsp n. 1857706/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/4/2022, DJe de 13/5/2022.
+RELATÓRIO
+Trata-se de agravo interno interposto por RETOUR ATIVOS FINANCEIROS S.A. - EM LIQUIDAÇÃO contra a decisão monocrática que reconheceu a prescrição intercorrente e extinguiu a execução sem ônus às partes. A decisão agravada, fundamentada na Súmula n. 150 do STF e no art. 921, § 5º, do CPC, considerou a inércia do exequente, constatada pela ausência de atos processuais úteis entre 2011 e 2015, como fator determinante para a configuração da prescrição intercorrente.
+No agravo interno, a agravante sustenta, em síntese:
+a) ausência de prescrição intercorrente: argumenta que os atos processuais realizados, como o pedido de desarquivamento em 2015, configuram impulso suficiente para afastar a prescrição.
+b) diligência do credor: alega que adotou medidas concretas para localizar bens e dar prosseguimento à execução, não podendo, portanto, ser considerada inerte.
+c) impossibilidade de extinção sem ônus: sustenta que a extinção da execução sem atribuição de ônus não encontra respaldo na jurisprudência, especialmente diante da ausência de bens do devedor, o que atrai a aplicação do princípio da causalidade.
+Ao final, requer a reforma da decisão agravada, com a consequente rejeição da prescrição intercorrente e o prosseguimento da execução.
+Impugnação às fls. 3.800-3.837.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE BENS PENHORÁVEIS. HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que declarou a prescrição intercorrente em execução de título extrajudicial, diante da ausência de bens penhoráveis e da inércia do credor, e afastou a condenação do devedor ao pagamento de honorários de sucumbência.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a declaração da prescrição intercorrente em razão da ausência de bens penhoráveis impõe ao devedor o ônus pela paralisação processual; e (ii) definir se é cabível a fixação de honorários de sucumbência em favor do advogado do devedor em tais circunstâncias.
+III. RAZÕES DE DECIDIR
+3. A ausência de bens penhoráveis não transfere automaticamente ao devedor a responsabilidade pelo insucesso da execução ou pela paralisação processual, cabendo ao exequente demonstrar diligência efetiva na busca pela satisfação do crédito.
+4. A jurisprudência do Superior Tribunal de Justiça estabelece que a prescrição intercorrente declarada por ausência de localização de bens não atrai a aplicação de honorários de sucumbência em favor do devedor, conforme os princípios da efetividade do processo, da boa-fé processual e da cooperação, que vedam ao devedor beneficiar-se do não cumprimento de sua obrigação (REsp n. 1.769.201/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/3/2019).
+5. A decisão monocrática aplica corretamente os princípios da segurança jurídica e da causalidade, ao concluir pela extinção da execução sem ônus para as partes, dada a evidente inércia do credor e a inexistência de condutas resistivas atribuíveis ao devedor.
+IV. DISPOSITIVO E TESE
+6. Agravo interno desprovido.
+Tese de julgamento:
+A ausência de bens penhoráveis não transfere automaticamente ao devedor o ônus pela paralisação da execução, cabendo ao exequente comprovar diligência na busca pela satisfação do crédito.
+A declaração da prescrição intercorrente em razão da ausência de localização de bens não gera direito ao pagamento de honorários de sucumbência em favor do advogado do devedor, à luz dos princípios da causalidade, da efetividade do processo e da boa-fé processual.
+Dispositivos relevantes citados: CPC/2015, art. 924, V; CF/1988, art. 5º, XXXVI.
+Jurisprudência relevante citada: REsp n. 1.769.201/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/3/2019, DJe de 20/3/2019; AgInt nos EDcl no AREsp n. 1857706/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/4/2022, DJe de 13/5/2022.
+VOTO
+Em que pese os argumentos apresentados, o agravo interno interposto não merece provimento, uma vez que a decisão monocrática encontra-se devidamente fundamentada e em perfeita consonância com os precedentes desta Corte.
+A agravante alega que os atos processuais praticados, especialmente o pedido de desarquivamento em 2015, seriam suficientes para afastar a prescrição intercorrente, sob o argumento de que representariam impulso útil à execução.
+Contudo, a decisão monocrática analisou detidamente esses atos e concluiu pela sua ineficácia para interromper o prazo prescricional. Quanto ao pedido de desarquivamento, a decisão considerou que, embora apresentado formalmente em 2015, tal ato não representou medida concreta ou efetiva para a satisfação do crédito.
+Conforme consolidado na jurisprudência desta Corte, o simples requerimento de movimentação processual não caracteriza, por si só, ato hábil a evitar a prescrição.
+Nesse sentido, a decisão monocrática está em conformidade com o REsp n. 1.604.412/SC (Tema n. 1.051, IAC), no qual se estabeleceu que atos meramente formais ou genéricos, que não impliquem avanço efetivo da execução, não são suficientes para afastar a prescrição intercorrente. Dessa forma, não há que se falar em incorreto enquadramento do precedente.
+No que tange ao argumento de interrupção do prazo prescricional, a decisão monocrática identificou que, entre o registro da penhora, em 2011, e o pedido de desarquivamento, em 2015, houve inércia prolongada por parte do credor. Esse intervalo, superior ao prazo prescricional de três anos, previsto na Súmula n. 150 do STF, foi decisivo para o reconhecimento da prescrição.
+Ainda que atos posteriores tenham sido apresentados, como o pedido de instauração do incidente de desconsideração inversa da personalidade jurídica, também em 2015, a decisão monocrática apontou, de forma correta, que tais medidas foram tomadas fora do prazo prescricional aplicável, não sendo aptas a retroagir para interrompê-lo.
+A decisão também confrontou os atos indicados pela agravante com os princípios da segurança jurídica e da efetividade processual, concluindo que permitir a retomada da execução após período tão prolongado de inércia comprometeria esses valores fundamentais.
+Além disso, a decisão monocrática refutou, de maneira clara, a alegação de validade dos atos que teriam impulsionado a execução, ao demonstrar que os atos apontados pela agravante, embora formais, não produziram qualquer efeito prático relevante para o prosseguimento do feito. Esse entendimento reforça que a inércia do credor não pode ser afastada por atos processuais sem impacto concreto.
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE BENS PENHORÁVEIS. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO DESPROVIDO. 1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, "declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação. A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente" ( REsp 1.769.201/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/03/2019, DJe de 20/03/2019). 2. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 1857706/MS 2021/0077459-0, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/4/2022, DJe de 13/5/2022.)
+A decisão analisou o marco inicial da prescrição, indicando que o prazo trienal começou após a última medida efetiva (registro da penhora, em 2011) e transcorreu ininterruptamente até 2015.
+Os atos apresentados fora desse período, como o pedido de desarquivamento, foram corretamente considerados tardios, estando a decisão alinhada aos precedentes do STJ que estabelecem que o prazo de prescrição intercorrente considera apenas atos que impulsionem efetivamente a execução.
+Além disso, a decisão corretamente afastou a tentativa da agravante de transferir ao devedor a responsabilidade pelo insucesso da execução, sendo certo que a ausência de bens penhoráveis não transfere automaticamente ao devedor o ônus pela paralisação processual. Cabe ao exequente demonstrar diligência para a satisfação do crédito, o que não ocorreu no presente caso, conforme inclusive indicado no precedente acima citado. No mesmo sentido (REsp n. 1588235/RJ 2016/0055160-9, relator Ministro Gurgel de Faria, DJ de 5/12/2017.)
+Assim, ao aplicar os princípios da segurança jurídica e da causalidade, a decisão monocrática concluiu que a extinção da execução sem ônus foi a medida mais adequada e proporcional, especialmente diante da ausência de condutas resistivas por parte do devedor e da evidente inércia do credor.
+Por fim, a decisão monocrática aplicou corretamente o art. 921, § 5º, do CPC, na redação dada pela Lei n. 14.195/2021, que estabelece que, em casos de prescrição intercorrente, não haverá imputação de ônus às partes, ressaltando que tal dispositivo visa assegurar maior segurança jurídica e uniformidade às questões de honorários su cumbenciais.
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. CAUSALIDADE. AUSÊNCIA DE SUCUMBÊNCIA DO EXEQUENTE. 1. Declarada a prescrição interc orrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação. 2. A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente. 3. Recurso especial a que se nega provimento. (REsp n. 1769201/SP 2018/0033038-2, relator Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/3/2019, DJe de 20/3/2019.)
+Portanto, os argumentos apresentados neste agravo interno não desconstroem os fundamentos da decisão monocrática, que permanece robusta e em perfeita consonância com os entendimentos consolidados desta Corte.
+Ante o exposto, nego provimento ao agravo interno, mantendo a decisão atacada por seus próprios fundamentos.
+É o voto.
