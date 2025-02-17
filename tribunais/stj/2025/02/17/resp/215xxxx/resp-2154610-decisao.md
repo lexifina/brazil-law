@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ RAMOS DA SILVA XAVIER, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 648):
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. EXTINÇÃO DA EXECUÇÃO. COMPESAÇÃO DE VALÓRES. OCORRÊNCIA. CÁLCULOS REVISADOS PELA CONTADORIA DO JUÍZO. PRESUNÇÃO DE LEGITIMIDADE.
+1. Apelação interposta pelos Particulares em face de sentença que acolheu a Impugnação ao Cumprimento de Sentença apresentada pela União Federal, reconhecendo que nada mais é devido aos exequentes a título de PCCS no período 12/1990 a 12/2005.
+2. Pugnam os Apelantes pela reforma da sentença que extinguiu a execução, bem como pelo reconhecimento dos cálculos por eles apresentados, devendo ser aplicado o IPCA-E como índice de atualização monetária.
+3. É sabido que, em havendo discussão pertinente à questão de cálculos, impõe-se a análise pela Contadoria do Foro, cuja manifestação deverá prevalecer no caso dos autos, na medida em que suas manifestações revestem-se de presunção juris tantum, apenas suscetíveis de alteração quando infirmadas por provas robustas que demonstrem alguma inexatidão, o que não restou evidenciado no caso em tela.
+4. Diante da análise das fichas funcionais do instituidor da pensão, a Contadoria do Foro emitiu parecer concluindo que, após dedução/compensação das quantias oriundas das rubricas, nada mais era devido pela União, resultando, inclusive, em liquidação negativa.
+5. Os cálculos foram elaborados pela Contadoria do Juízo, órgão auxiliar da Justiça, dotado de5. imparcialidade, e seus atos gozam de presunção de legitimidade, não sendo as alegações dos Apelantes suficientes para abalar a credibilidade das contas. Precedente: TRF5 - Processo 0813479-84.2019.4.05.0000, AG - Agravo de Instrumento -, Rel. Desembargador Federal Leonardo Carvalho, 2ª Turma, Julgamento: 18/02/2020. Agravo de Instrumento improvido. Precedente: 0805822-57.2020.4.05.0000, Agravo de Instrumento, Rel. Desembargador Federal Luiz Bispo da Silva Neto (Convocado), 3ª Turma, Julgamento: 18/08/2020. Processo, 08103901220194058000, AC - Apelação Cível- Rel. Desembargador Federal Cid Marconi Gurgel de Souza, 3ª Turma, Julgamento: 10/12/2020.
+6. Como bem destacou o juízo monocrático, "no que tange à percepção das diferenças do PCCS, considero que a concessão integral da diferença, sem a compensação dos valores já obtidos, ensejaria enriquecimento ilícito da parte exequente, a qual passaria a perceber valores em duplicidade, caracterizando verdadeiro bis in idem, em afronta ao princípio da moralidade administrativa". Apelação improvida .
+Os aclaratórios opostos foram rejeitados (e-STJ fls. 715/720).
+Em suas razões, a parte recorrente aponta violação dos arts. 467, 471, I, 473 e 474 do CPC/1973; 502, 505, I, 507, 508, 535, VI, e 1.022, II, do CPC/2015; 190, 884 e 940 do Código Civil; e 1º do Decreto n. 20.910/1932, sustentando que (a) houve negativa de prestação jurisdicional pelo Tribunal regional; (b) existe coisa julgada afastando a compensação; (c) a coisa julgada possui efeito preclusivo; (d) não se pode compensar crédito prescrito; (e) a Fazenda Pública só pode alegar, na impugnação ao cumprimento de sentença, a compensação superveniente ao título judicial; e (f) só há que se cogitar pagamento indevido, cobrança em duplicidade ou enriquecimento sem causa quando se está diante de cobrança de dívida já paga, o que não ocorreu no presente caso.
+Contrarrazões às e-STJ fls. 763/773.
+Juízo positivo de admissibilidade pelo Tribunal de origem (e-STJ fl. 775) .
+Passo a decidir.
+A irresignação recursal comporta acolhida no tocante à alegação de negativa de prestação jurisdicional.
+Com efeito, o art. 1.022 do CPC/2015 prevê que os embargos de declaração são cabíveis quando houver, na decisão judicial, omissão, contradição, obscuridade ou erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial
+para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o
+juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, assiste razão à parte ora recorrente, tendo em vista que o Tribunal de origem não se manifestou acerca de tema questionado no recurso integrativo, qual seja: a prescrição da pretensão da União à compensação (art. 190 do Código Civil e art. 1º do Decreto n. 20.910/1932).
+Assim, estando configurada a violação do art. 1022 do CPC/2015, faz-se necessária a declaração de nulidade do aresto em que apreciados os embargos de declaração, para que o vício seja sanado pelo Tribunal de origem. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OCORRÊNCIA.
+1. Esta Corte Superior tem atribuído efeitos infringentes aos embargos de declaração, em situações excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que o acolhimento dos embargos tiver como consectário lógico a alteração da decisão. Nesse sentido: AgRg no AREsp 622.677/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1/4/2016; EDcl no AgRg no RESP 1.393.423/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 18/5/2016.
+2. No caso dos autos, constata-se que as instâncias ordinárias quedaram-se silentes acerca da questão oportunamente suscitada acerca da ilegalidade da instituição da substituição tributária por Decreto, o que torna impositivo o reconhecimento da ocorrência da omissão apontada nas razões do recurso especial.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para anular o acórdão embargado e a decisão desta Corte que o precedeu e dar parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aclaratórios. (EDcl EDcl AgRg REsp 1.408.452/PE, Rel. Min. BENEDITO GONÇALVES, Primeiro Turma, DJe 20/06/2017).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para anular o acórdão prolatado em sede de embargos declaratórios e determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a questão omitida reconhecida na fundamentação.
+Publique-se. Intimem-se.
+EMENTA
