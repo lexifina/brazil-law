@@ -1,0 +1,21 @@
+DECISÃO
+DANIEL RODRIGO DE MORAES alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, que cassou a progressão de regime deferida pelo Juiz da VEC e determinou sua submissão a exame criminológico para o exame do benefício.
+A impetrante afirma que o apenado cumpriu o "lapso temporal para a concessão do benefício, possui bom comportamento carcerário e não cometeu falta grave recente (não reabilitada). Assim, diante do quadro ATUAL, não há, efetivamente, elementos que demonstrassem a necessidade da realização do exame" (fl. 4).
+Requer, por isso, o restabelecimento do benefício.
+Decido.
+O Tribunal de origem apreciou a matéria conforme a legislação penal vigente à época dos crimes, e mencionou os verbetes "da Súmula 439 do Superior Tribunal de Justiça e Súmula Vinculante n. 26  que  permitem a realização do exame quando lastreada em decisão fundamentada" (fl. 7). Não se discute, no caso concreto, a retroatividade do art. 112, § 1º, da LEP.
+Segundo o acórdão recorrido, o histórico carcerário conturbado do apenado recomenda o exame criminológico. Confira-se (fl. 8):
+DANIEL RODRIGO DE MORAES cumpre pena de cinco (5) anos e onze (11) meses de reclusão decorrente de condenações por crimes previstos nos artigos 157, § 2º, inciso V e 163, parágrafo único, inciso III, ambos do Código Penal, com término a ocorrer somente em 16 de fevereiro de 2.027 (Boletim Informativo a fls. 13/17).
+Nesse tom, vê-se que o agravado, reincidente em crime doloso, foi condenado pela prática de crime revestido de violência e grave ameaça à pessoa e considerado hediondo (roubo circunstanciado pela restrição à liberdade da vítima) que há muito atormenta a sociedade, algo que associado ao longo interstício de sanção ainda a expiar (cerca de 2 anos), torna-o indigno de benesses sem prévia e acurada análise do requisito subjetivo.
+Como se não bastasse, consta do Boletim Informativo, ainda, o registro de DUAS faltas disciplinares de natureza média, consistentes em apreensão de máquina de tatuagem, com reabilitação ocorrida há pouco (fls. 16).
+Nesta esteira, fácil notar que o singelo atestado de bom comportamento carcerário não se revela suficiente à constatação da absorção da terapêutica penal, daí a imprescindibilidade de se condicionar a avaliação do merecimento ao resultado de exame criminológico  ..
+Nesse contexto, não há falar em ilegalidade. Aplica-se ao caso o entendimento de que "a determinação de exame criminológico está em consonância com a Súmula 439 do STJ, pois a instância ordinária registrou a prática de faltas disciplinares para justificar a dúvida sobre o requisito subjetivo da progressão de regime" (AgRg no HC n. 950.915/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2024, DJEN de 3/12/2024).
+É importante ressaltar que:
+1. "A noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos ad ministrativos". (AgRg no HC 660.197/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/08/2021, DJe 25/08/2021).
+2. A renitência do apenado na prática de crimes graves  .. , cujos modus operandis demonstram alta periculosidade, além da prática de faltas graves, constitui fundamento apto a justificar a realização do exame criminológico, sendo imprópria de todo modo a via do writ à revisão do entendimento. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 781.759/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+A impetrante não anexou prova ao presente habeas corpus que comprove que as faltas disciplinares apontadas pelo Tribunal de origem são antigas e já se encontram reabilitadas há bastante tempo, a ponto de serem desconsideradas. As guias de execução juntadas são antigas e é "ônus do impetrante  de  instruir o habeas corpus requerido a esta Corte com  ..  prova pré-constituída da aventada ilegalidade ou do abuso de poder" (EDcl no HC n. 783.484/MS, r elator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023, destaquei).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
