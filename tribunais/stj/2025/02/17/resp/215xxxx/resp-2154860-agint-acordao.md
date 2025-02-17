@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. TERMO INICIAL. ELEMENTO DIFERENCIADOR. NÃO APLICAÇÃO DO ENTENDIMENTO FIRMADO NO PUIL 413/RS. PROVIMENTO NEGADO.
+1. Discute-se nestes autos sobre o termo inicial do adicional de insalubridade devido a servidor público municipal (fisioterapeuta e terapeuta ocupacional) após a constatação por laudo pericial da condição insalubre.
+2. A Primeira Seção do Superior Tribunal de Justiça, ao julgar o AgInt no PUIL 1.954/SC, assentou que o entendimento firmado no PUIL 413/RS, no tocante ao termo inicial do adicional de insalubridade, aplica-se aos servidores públicos municipais, caso não seja apontado elemento diferenciador da legislação local em relação à federal.
+3. No presente caso, o acórdão recorrido foi fundamentado no entendimento firmado pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo, em arguição de inconstitucionalidade, em que se reconheceu a inconstitucionalidade do art. 3º-A, da Lei Complementar estadual 432/1985 (introduzido pela Lei Complementar estadual 835/1997, que determinava que a concessão de adicional de insalubridade surtia efeitos pecuniários apenas à data da homologação do laudo). Logo, havendo o elemento diferenciador na legislação estadual, reconhecido por órgão especial do Tribunal de origem, não é o caso de se aplicar o entendimento firmado no PUIL 413/RS.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE SOROCABA da decisão de minha relatoria de fls. 565/568.
+A parte recorrente alega que "a referida Arguição de Inconstitucionalidade nº: 0080853-74.2015.8.26.0000 transitou em julgado em 15/03/2016, sendo que, em 2022, este C. Superior Tribunal de Justiça, decidiu pela aplicação do entendimento consagrado no PUIL 413/RS também em demandas julgadas perante os Tribunais de Justiça dos Estados" (fl. 575).
+Defende que "não há qualquer incompatibilidade na aplicação do PUIL 413/RS às demandas envolvendo os Municípios paulistas" (fl. 575).
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 581/615).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. TERMO INICIAL. ELEMENTO DIFERENCIADOR. NÃO APLICAÇÃO DO ENTENDIMENTO FIRMADO NO PUIL 413/RS. PROVIMENTO NEGADO.
+1. Discute-se nestes autos sobre o termo inicial do adicional de insalubridade devido a servidor público municipal (fisioterapeuta e terapeuta ocupacional) após a constatação por laudo pericial da condição insalubre.
+2. A Primeira Seção do Superior Tribunal de Justiça, ao julgar o AgInt no PUIL 1.954/SC, assentou que o entendimento firmado no PUIL 413/RS, no tocante ao termo inicial do adicional de insalubridade, aplica-se aos servidores públicos municipais, caso não seja apontado elemento diferenciador da legislação local em relação à federal.
+3. No presente caso, o acórdão recorrido foi fundamentado no entendimento firmado pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo, em arguição de inconstitucionalidade, em que se reconheceu a inconstitucionalidade do art. 3º-A, da Lei Complementar estadual 432/1985 (introduzido pela Lei Complementar estadual 835/1997, que determinava que a concessão de adicional de insalubridade surtia efeitos pecuniários apenas à data da homologação do laudo). Logo, havendo o elemento diferenciador na legislação estadual, reconhecido por órgão especial do Tribunal de origem, não é o caso de se aplicar o entendimento firmado no PUIL 413/RS.
+4. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece prosperar.
+Discute-se nestes autos sobre o termo inicial do adicional de insalubridade devido a servidor público municipal (fisioterapeuta e terapeuta ocupacional) após a constatação por laudo pericial da condição insalubre.
+O acórdão recorrido apresentou estes fundamentos ao decidir a lide (fls. 437/438):
+Por fim, não se deve considerar como termo inicial de incidência do novo patamar do adicional a data de elaboração do referido laudo técnico, que possui mero efeito declaratório Nesse sentido:
+ARGUIÇÃO DE INCONSTITUCIONALIDADE Art. 3-A da Lei Complementar Estadual nº 432/85 (introduzido pela LC Estadual 835/97, que determina que a concessão de adicional de insalubridade surte efeitos pecuniários apenas à data da homologação do laudo) Afronta ao princípio da razoabilidade e, bem assim, ao disposto no art. 111 da Constituição Estadual Laudo pericial que possui natureza meramente declaratória - Adicional que deve retroagir ao início do exercício da atividade que expôs o servidor a fatores de risco à saúde Precedentes deste E. Tribunal de Justiça Acolhimento do incidente. (TJSP; Incidente De Arguição de Inconstitucionalidade Cível 0080853- 74.2015.8.26.0000; Relator (a): Salles Rossi; Órgão Julgador: Órgão Especial; Foro de Campinas - 2ª. Vara da Fazenda Pública; Data do Julgamento: 03/02/2016; Data de Registro: 18/02/2016)
+Outrossim, inaplicável à hipótese o paradigma do PUIL 413/RS, Rel. Min. Benedito Gonçalves, julgado pela Primeira Seção do Superior Tribunal de Justiça, em 11 de abril de 2018, pois diz respeito às normas aplicáveis à Administração Pública Federal, não estando afeto aos presentes autos.
+Como asseverado na decisão agravada, a Primeira Seção do Superior Tribunal de Justiça, ao julgar o AgInt no PUIL 1.954/SC, assentou que o entendimento firmado no PUIL 413/RS, no tocante ao termo inicial do adicional de insalubridade, aplica-se aos servidores públicos municipais, caso não seja apontado elemento diferenciador da legislação local em relação à federal.
+Veja-se:
+PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. APLICAÇÃO DO ENTENDIMENTO FIXADO NO PUIL 413/RS. POSSIBILIDADE. ADICIONAL DE INSALUBRIDADE. RECONHECIMENTO PELA ADMINISTRAÇÃO. RETROAÇÃO DOS EFEITOS DO LAUDO. IMPOSSIBILIDADE.
+1. Aplica-se a caso de servidor público municipal o entendimento de que "o pagamento de insalubridade está condicionado ao laudo que prova efetivamente as condições insalubres a que estão submetidos os Servidores. Assim, não cabe seu pagamento pelo período que antecedeu a perícia e a formalização do laudo comprobatório, devendo ser afastada a possibilidade de presumir insalubridade em épocas passadas, emprestando-se efeitos retroativos a laudo pericial atual" (PUIL 413/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 11/04/2018, DJe 18/04/2018), se não apontado qualquer elemento diferenciador da legislação local em relação à federal, como ocorre na situação dos autos.
+2. Agravo Interno não provido.
+(AgInt nos EDcl no PUIL n. 1.954/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 15/6/2021, DJe de 1º/7/2021.)
+Ocorre que, no presente caso, o acórdão recorrido foi fundamentado no entendimento firmado pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo, em arguição de inconstitucionalidade, em que se reconheceu a inconstitucionalidade do art. 3º-A, da Lei Complementar estadual 432/1985 (introduzido pela Lei Complementar estadual 835/1997, que determinava que a concessão de adicional de insalubridade surtia efeitos pecuniários apenas à data da homologação do laudo).
+Assim, havendo o elemento diferenciador na legislação estadual, reconhecido por órgão especial do Tribunal de origem, não é o caso de se aplicar o entendimento firmado no PUIL 413/RS.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
