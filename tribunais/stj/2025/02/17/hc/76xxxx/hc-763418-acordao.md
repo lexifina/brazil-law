@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido e conceder parcialmente "Habeas Corpus" de ofício, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. DOSIMETRIA DA PENA. APLICAÇÃO CUMULATIVA DAS MAJORANTES DE CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO SEM FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443 DO STJ. READEQUAÇÃO DA PENA. MANUTENÇÃO DO REGIME FECHADO. ORDEM PARCIALMENTE CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de FERNANDO CUNHA GUEDES, condenado à pena de 8 anos, 10 meses e 20 dias de reclusão, em regime fechado, além de 106 dias-multa, pela prática de roubo majorado pelo concurso de agentes e pelo emprego de arma de fogo (art. 157, § 2º, II, e § 2º-A, I, do Código Penal).
+2. Em recurso de apelação, o Tribunal de origem reduziu a pena para 8 anos de reclusão e 20 dias-multa, mantendo o regime inicial fechado.
+3. A Defensoria Pública alega constrangimento ilegal na dosimetria, argumentando que a aplicação cumulativa das causas de aumento referentes ao concurso de agentes (1/3) e ao emprego de arma de fogo (2/3) violou o art. 68, parágrafo único, do Código Penal e a Súmula 443 do STJ.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão central consiste em verificar a adequação da aplicação cumulativa das majorantes na terceira fase da dosimetria, considerando a necessidade de fundamentação concreta para justificar o aumento superior ao mínimo previsto, bem como a adequação do regime prisional fixado.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do STJ e do STF estabelece que o habeas corpus não é substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+6. As instâncias ordinárias aplicaram as majorantes do concurso de agentes (1/3) e do emprego de arma de fogo (2/3) de forma cumulativa, sem fundamentação concreta que justificasse o aumento, o que contraria a Súmula 443 do STJ, que exige justificativa idônea para a elevação cumulativa da pena.
+7. Na terceira fase da dosimetria, deve-se aplicar apenas a causa de aumento qu e mais impacta a pena  no caso, o emprego de arma de fogo, na fração de 2/3.
+8. Quanto ao regime inicial fechado, a manutenção é justificada pela gravidade concreta do delito, evidenciada pelo uso de arma de fogo e pelo concurso de agentes, que aumentaram o risco à vida da vítima, justificando a medida mais severa.
+IV. HABEAS CORPUS NÃO CONHECIDO, MAS CONCEDIDA PARCIALMENTE A ORDEM PARA REDIMENSIONAR A PENA DO PACIENTE.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de FERNANDO CUNHA GUEDES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0027815-39.2020.8.19.0204).
+Consta dos autos que o paciente foi condenado à pena de 8 anos, 10 meses e 20 dias de reclusão, em regime fechado, e 106 dias-multa, em razão da prática do crime previsto no artigo 157, § 2º, II, e § 2º-A, I, do Código Penal.
+Interposta apelação pela defesa, o Tribunal de origem proveu parcialmente o recurso para redimensionar a pena do paciente para 8 anos de reclusão, em regime fechado, e 20 dias-multa.
+No presente writ, a Defensoria Pública do Estado do Rio de Janeiro sustenta a existência de constrangimento ilegal na terceira fase dosimétrica que, ao reconhecer a causa de aumento do concurso de pessoas, majorou a pena em 1/3 e, posteriormente, em virtude da causa de aumento referente ao emprego de arma de fogo, aumentou novamente a pena em 2/3 violando, dessa forma, o artigo 68 do Código Penal.
+Ao final, requer a concessão da ordem para que "seja aplicada ao Paciente tão somente a causa de aumento de pena referente ao emprego de arma de fogo, na forma do artigo 68, parágrafo único, do Código Penal, bem como imposto o regime semiaberto" (e-STJ fl.12).
+Parecer do Ministério Público Federal pelo não conhecimento do writ às fl. 146 (e-STJ).
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. DOSIMETRIA DA PENA. APLICAÇÃO CUMULATIVA DAS MAJORANTES DE CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO SEM FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443 DO STJ. READEQUAÇÃO DA PENA. MANUTENÇÃO DO REGIME FECHADO. ORDEM PARCIALMENTE CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de FERNANDO CUNHA GUEDES, condenado à pena de 8 anos, 10 meses e 20 dias de reclusão, em regime fechado, além de 106 dias-multa, pela prática de roubo majorado pelo concurso de agentes e pelo emprego de arma de fogo (art. 157, § 2º, II, e § 2º-A, I, do Código Penal).
+2. Em recurso de apelação, o Tribunal de origem reduziu a pena para 8 anos de reclusão e 20 dias-multa, mantendo o regime inicial fechado.
+3. A Defensoria Pública alega constrangimento ilegal na dosimetria, argumentando que a aplicação cumulativa das causas de aumento referentes ao concurso de agentes (1/3) e ao emprego de arma de fogo (2/3) violou o art. 68, parágrafo único, do Código Penal e a Súmula 443 do STJ.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão central consiste em verificar a adequação da aplicação cumulativa das majorantes na terceira fase da dosimetria, considerando a necessidade de fundamentação concreta para justificar o aumento superior ao mínimo previsto, bem como a adequação do regime prisional fixado.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do STJ e do STF estabelece que o habeas corpus não é substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+6. As instâncias ordinárias aplicaram as majorantes do concurso de agentes (1/3) e do emprego de arma de fogo (2/3) de forma cumulativa, sem fundamentação concreta que justificasse o aumento, o que contraria a Súmula 443 do STJ, que exige justificativa idônea para a elevação cumulativa da pena.
+7. Na terceira fase da dosimetria, deve-se aplicar apenas a causa de aumento qu e mais impacta a pena  no caso, o emprego de arma de fogo, na fração de 2/3.
+8. Quanto ao regime inicial fechado, a manutenção é justificada pela gravidade concreta do delito, evidenciada pelo uso de arma de fogo e pelo concurso de agentes, que aumentaram o risco à vida da vítima, justificando a medida mais severa.
+IV. HABEAS CORPUS NÃO CONHECIDO, MAS CONCEDIDA PARCIALMENTE A ORDEM PARA REDIMENSIONAR A PENA DO PACIENTE.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Quanto ao tema, observa-se dos autos que o Magistrado singular elevou a sanção do paciente na terceira fase da dosimetria relativa ao crime de roubo, nos seguintes termos (e-STJ fls. 72-73):
+Após a incidência da lei 13654/2018 surge controvérsia de como fica a dosimetria da pena em caso de roubo com emprego de arma de fogo (art. 157, § 2º-A, I) em caso de também incidir alguma majorante do § 2º do art. 157.
+Esse juízo se posicionará no sentido de se aplicar as duas causas de aumento de pena. Neste caso, o segundo aumento irá incidir sobre a pena já aumentada pela primeira causa.
+Essa faculdade judicial de escolher essa opção já foi acolhida pelo STF no HC 110960, já que art. 68, parágrafo único, do Código Penal, estabelece, sob o ângulo literal, apenas uma possibilidade (e não um dever) de o magistrado, na hipótese de concurso de causas de aumento de pena previstas na parte especial, limitar-se a um só aumento, sendo certo que é válida a incidência concomitante das majorantes, sobretudo nas hipóteses em que sua previsão é desde já arbitrada em patamar fixo pelo legislador, como ocorre no caso concreto, já que não comporta margem para a extensão judicial do quantum exasperado como passo a transcrever:
+ ..
+3a FASE: Aumenta-se a pena de 1/3 em razão da incidência da causa de aumento de pena referente ao concurso de pessoas e 2/3 em razão da causa de aumento de pena em relação a arma de fogo nos termos da fundamentação supra. Ante o exposto, fixa-se a pena definitiva do acusado em 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e 106 (cento e seis ) dias multa no valor mínimo legal.
+Tribunal de origem manteve os aumentos sucessivos, assim destacando (e-STJ fls. 116-117):
+A seu turno, não merece acolhimento a pretensão defensiva de incidência de uma única fração de aumento de pena, a despeito de se tratar de crime de roubo duplamente majorado - pelo emprego de arma de fogo e pelo concurso de agentes -, praticado após o advento da Lei 13.654/18, que inseriu o §2º-A, no artigo 157, do Código Penal.
+Induvidoso que o Legislador, ao criar uma causa de aumento de pena especificamente para o uso de arma de fogo ou de explosivos no cometimento de crimes de roubo, mantidas as demais causas de aumento já previstas no artigo 157, §2º, do Código Penal, pretendeu punir mais severamente tais fatos.
+Por isso, no caso da presença da majorante do emprego de arma de fogo e de outras causas especiais, previstas no §2º, do artigo 157, do Código Penal, urge sejam aplicadas duas frações de aumento, sob pena de desvirtuar a intenção do legislador.
+Ressalte-se que, o artigo 68, parágrafo único, do Código Penal não encerra obrigação e, sim, mera faculdade do Julgador, atrelada ao Princípio da discricionariedade motivada.
+Todavia, de acordo com o entendimento mais benéfico ao acusado, adota-se o cálculo de soma das frações de 1/3 e 2/3 - respectivamente, pelas majorantes do concurso de pessoas e emprego de arma de fogo -, que alcançam 3/3, ou seja, um inteiro, sobre as penas intermediárias, dobrando-as.
+De acordo com a inteligência do art. 68, parágrafo único, do Código Penal: "No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua".
+O julgador, diante do concurso de majorantes, deve apresentar fundamentação concreta e idônea, nos termos da Súmula n. 443/STJ, ao não optar por aplicar um único aumento, observada a causa mais gravosa, escolha mais benéfica ao réu entre as opções do art. 68, parágrafo único, do Código Penal.
+"A presença de duas causas de aumento não acarreta, necessariamente, o aumento acima do mínimo legal previsto no art. 157, §§ 2º e 2º-A, do CP. O referido dispositivo legal - art. 68, parágrafo único do CP - visa garantir ao condenado a aplic ação individualizada da pena, de forma proporcional e razoável. Exige-se, para o aumento cumulativo, fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula 443 do STJ." (AgRg no HC n. 915.604/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+No caso em análise, verifica-se que as instâncias ordinárias, ao aplicarem cumulativamente as majorantes do concurso de agentes e emprego de arma de fogo, respectivamente em 1/3 e 2/3, não indicaram fundamentação concreta, estando em confronto com a jurisprudência desta Corte. Veja-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO DUPLAMENTE MAJORADO PELO EMPREGO DE ARMA DE FOGO E PELO CONCURSO DE PESSOAS. AUMENTO NA TERCEIRA FASE DA DOSIMETRIA. NÚMERO DE MAJORANTES. INADMISSIBILIDADE. SÚMULA N. 443 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do enunciado n. 443 da Súmula desta Corte, o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+2. No caso, a escolha da fração acima do mínimo estabelecido pela norma penal não está baseada em nenhum fato concreto, a não ser o número de majorantes.
+3. Agravo regimental a que se nega provimento
+(AgRg no AREsp n. 2.543.044/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Desse modo, na terceira fase, deve ser mantida apenas a causa que mais aumente, qual seja, a referente ao emprego de arma de fogo, na fração 2/3.
+Com base nestas considerações passo à readequação da dosimetria.
+Ausentes questionamentos acerca da primeira e segunda fases dosimétricas, que resultaram no estabelecimento da pena intermediária em 4 anos de reclusão e de 10 dias-multa, a aplicação, na terceira fase, da causa de aumento prevista no § 2º-A, I, do art. 157 do Código Penal em seu patamar de 2/3 totaliza a reprimenda final em 6 anos e 8 meses de reclusão, além do pagamento de 17 dias-multa.
+Apesar de o novo quantum de pena fixado ser inferior a 8 anos de reclusão, houve fundamentação idônea e concreta da Corte local para manter o fechado (e-STJ fl.118):
+Por fim, o fato de o crime ter sido cometido com emprego de arma de fogo e concurso de agentes trouxe maior risco de morte à vítima, evidenciando, ainda, intensa periculosidade do réu, o que justifica a adoção do regime prisional inicialmente fechado (artigo 33, §2º, "a", e §3º, do Código Penal), como sendo o que melhor atende à situação concreta que se analisa (Doc. 000172).
+De fato, " n ada obstante a reprimenda tenha sido fixada em patamar inferior a 8 anos de reclusão e a pena-base de ambos os agravantes tenha sido dosada no mínimo legal, não se verifica manifesta ilegalidade na imposição do regime inicial fechado. Trata-se de roubo circunstanciado pelo concurso de pessoas e pelo emprego de simulacro de arma de fogo, contexto que justifica a adoção do regime mais gravoso, diante da gravidade concreta evidenciada no caso." (AgRg no HC n. 865.785/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/11/2023, DJe de 6/12/2023.)
+Ante o exposto, não conheço do habeas corpus, mas concedo parcialmente a ordem para estabelecer a reprimenda total do paciente em 6 anos e 8 mês de reclusão, mantido o regime fechado, além do pagamento de 17 dias-multa.
+É o voto.
