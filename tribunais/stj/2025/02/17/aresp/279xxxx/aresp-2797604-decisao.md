@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MANOEL GUERRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. INÍCIO RAZOÁVEL DE PROVA MATERIAL. AUTOR PROPRIETÁRIO DE AUTOMÓVEIS DE ALTO VALOR AQUISITIVO. INADMISSIBILIDADE. PROCESSO EXTINTO, SEM RESOLUÇÃO DO MÉRITO. APELAÇÃO DA PARTE AUTORA PREJUDICADA (fl. 210).
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente aduz ofensa ao art.11, VII, "a", 1, e §1º, da Lei n. 8.213/91, no que concerne à necessidade de se reconhecer a condição de segurado especial da parte recorrente, sob o fundamento de que o acórdão recorrido se utilizou de exigência que não encontra respaldo na Lei n. 8.213/1991, no Decreto n. 3.048/1999 e da IN n.128/2022, inexistindo previsão legal no sentido de que o segurado especial rural deve ser hipossuficiente financeiramente para ser caracterizado como segurado especial. Traz a seguinte argumentação:
+O acórdão mencionou que o autor não detém qualidade de segurado pelo simples fato de possuir três veículos antigos em seu nome (anos 2008, 2009 e 2010 respectivamente), sendo estes uma motocicleta e dois utilitários com carroceria, os quais muitas vezes são usados para o desenvolvimento da atividade campesina.
+No entanto, conforme bem explanado no Recurso de Apelação, não existe em nenhum lugar da Lei n. 8.213/1991, do Decreto n. 3.048/1999 ou da IN n.
+128/2022, qualquer exigência de que o segurado especial rural deve ser hipossuficiente financeiramente para ser caracterizado como tal.
+Ou seja, os requisitos legais são outros, mas não a miserabilidade! Afinal, o pequeno produtor rural pode, a depender do seu trabalho, conseguir dinheiro para adquirir um carro ou uma caminhonete para ser utilizada na sua produção, ou até mesmo ter uma casa na cidade.
+ ..
+Veja-se que as limitações impostas pela Lei são, exclusivamente, quanto ao tamanho da terra e a utilização de empregados permanentes.
+Assim, em uma conceituação resumida, segurado especial é o trabalhador rural que, individualmente ou em regime de economia familiar, explora área rural de até 4 módulos fiscais, sem a utilização de empregados permanentes.
+Pelo dispositivo citado acima, percebe-se que a quantidade de produção e comercialização rural é indiferente à caracterização do trabalhador campesino como segurado especial.
+ ..
+Outro fato interessante é o de que o próprio INSS, por meio de sua Instrução Normativa nº 128/22, não considera o valor auferido com a produção rural para reconhecer a qualidade de segurado especial. Vejamos:
+ ..
+Para a condição de segurado especial, a lei impõe limites apenas em relação ao tamanho da área de até 04 módulos fiscais e utilização de empregados permanentes.
+ ..
+Portanto, o fato de possuir bens, notadamente alguns veículos como no caso posto, nada disso, isoladamente, é suficiente para impedir a caracterização como segurado especial.
+ ..
+Assim, se a própria lei menciona que o trabalho é também para o desenvolvimento socioeconômico do grupo familiar e não somente para a subsistência, é um contrassenso dizer que o segurado não pode possuir alguns bens. Com todo respeito, interpretar que o segurado especial tenha que trabalhar apenas para sobreviver soa como preconceituoso em relação aos demais segurados do RGPS.
+Portanto, o requisito miserabilidade se enquadra perfeitamente para a concessão de benefício assistencial (BPC/LOAS), mas não para a concessão de aposentadoria rural.
+Desta feita, o fato de fazer vendas anuais de bovinos não descaracteriza sua condição de segurado especial, pois a própria lei não traz limitação alguma quanto ao valor auferida na comercialização. Pelo contrário, a Instrução Normativa do INSS diz que não interfere na condição de segurado especial o valor auferido com a comercialização de seus produtos, neste caso, os bovinos.
+Não bastasse, restou comprovado nos autos que a propriedade rural do recorrente é pequena, bem inferior à 04 (quatro) módulos fiscais. Veja (fls. 245- 247).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ademais, não foi comprovada a divergência jurisprudencial, porquanto não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20.5.2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 2.6.2020; AgInt no REsp 1.817.727/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18.5.2020; AgInt no AREsp 1.504.740/SP, ;Rel. Ministro Raul Araújo, Quarta Turma, DJe de 8.10.2019; AgInt no AREsp 1.339.575/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2.4.2019; AgInt no REsp 1.763.014/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.12.2018.
+Além disso, verifica-se que a questão debatida no recurso especial, que serve de base para o dissídio jurisprudencial, não foi examinada pela Corte de origem.
+Dessa forma, reconhecida a ausência de prequestionamento da questão debatida inviável a demonstração do dissenso jurisprudencial em razão da inexistência de identidade jurídica e similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado". (AgInt no AgInt nos EDcl no AREsp n. 2.007.927/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022)
+Sobre o tema, confira-se ainda: AgInt no REsp n. 2.002.592/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 5/10/2022; AgInt no REsp n. 1.956.329/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 25/11/2021; AgInt no AREsp n. 1.787.611/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/5/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
