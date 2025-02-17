@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. INFRAÇÃO AO MEIO AMBIENTE. MAQUINÁRIO (TRATOR). APREENSÃO. PROPRIETÁRIO. BOA-FÉ. VERIFICAÇÃO NA ORIGEM. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Em ação anulatória de decreto administrativo de perdimento de maquinário (trator) apreendido pela prática de infração ambiental, a Corte estadual manteve a procedência do pedido de restituição do bem.
+2. Reputou o Tribunal local descabida a apreensão do veículo (trator) , "à luz dos princípios da razoabilidade e da proporcionalidade e das peculiaridades do presente caso", visto ter sido demonstrada a boa fé da autora, ora agravada, que, mediante um comodato verbal, tão somente emprestou o maquinário "para seu vizinho proceder com a limpeza do pasto, bem como ajustar as áreas limítrofes entre as propriedades, não tendo, portanto, auferido qualquer valor financeiro com o empréstimo do bem", como identificado na sentença.
+3. Decidida a questão com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, é inviável sua revisão no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MINISTERIO PÚBLICO DO ESTADO DE MATO GROSSO para desafiar decisão proferida às e-STJ fls. 601/604, em que não conheci do recurso especial, em face da incidência da Súmula 7 do STJ.
+Sustenta a parte agravante, em suma, que o referido enunciado não se aplica à espécie, ao argumento de que "o acórdão concentra todos os dados fáticos necessários ao exame da matéria de direito" e, quanto ao mais, reitera os fundamentos anteriormente expendidos, no sentido de que é lícita a apreensão de maquinário utilizado para a prática de infração ambiental, a teor do Tema 1.036 do STJ (e-STJ fls. 610/612).
+Requer, ao final, a reconsideração da decisão recorrida ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls. 617/647.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. INFRAÇÃO AO MEIO AMBIENTE. MAQUINÁRIO (TRATOR). APREENSÃO. PROPRIETÁRIO. BOA-FÉ. VERIFICAÇÃO NA ORIGEM. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Em ação anulatória de decreto administrativo de perdimento de maquinário (trator) apreendido pela prática de infração ambiental, a Corte estadual manteve a procedência do pedido de restituição do bem.
+2. Reputou o Tribunal local descabida a apreensão do veículo (trator) , "à luz dos princípios da razoabilidade e da proporcionalidade e das peculiaridades do presente caso", visto ter sido demonstrada a boa fé da autora, ora agravada, que, mediante um comodato verbal, tão somente emprestou o maquinário "para seu vizinho proceder com a limpeza do pasto, bem como ajustar as áreas limítrofes entre as propriedades, não tendo, portanto, auferido qualquer valor financeiro com o empréstimo do bem", como identificado na sentença.
+3. Decidida a questão com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, é inviável sua revisão no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+Observa-se que a decisão recorrida não merece reparos.
+Como ali anotado, nos autos de ação anulatória de decreto administrativo de perdimento de maquinário (trator) apreendido em propriedade pela prática de infração ambiental, a Corte estadual manteve a sentença de procedência do pedido de restituição do bem.
+A despeito de o Ministério Público Estadual defender a tese sufragada por esta Corte em sede de recurso repetitivo, no sentido de que é cabível a apreensão de maquinário utilizado para a prática de infração ambiental, independentemente do uso específico, exclusivo ou habitual para a empreitada infracional (Tema 1.036 do STJ), o Tribunal local, na solução do caso concreto, assentou que a apreensão do bem, à luz dos princípios da razoabilidade e da proporcionalidade e das peculiaridades do presente caso, revelava-se descabida.
+Assim entendeu porque teria sido demonstrada a boa fé da recorrida, ora agravada, que, mediante um comodato verbal, tão somente emprestou o maquinário "para seu vizinho proceder com a limpeza do pasto, bem como ajustar as áreas limítrofes entre as propriedades, não tendo, portanto, auferido qualquer valor financeiro com o empréstimo do bem." (e-STJ fls. 577/578):
+Tecnicamente, numa interpretação literal do tema, poder-se-ia dizer que o acórdão desta Turma está em desacordo com tal jurisprudência (Tema 1.036). Todavia, os fundamentos não ignoraram a tese firmada, mas, no caso, foi ressaltada a boa-fé da proprietária do veículo apreendido.
+Ademais, como dito nas razões do acordão, a manutenção do ato de apreensão do bem, à luz dos princípios da razoabilidade e da proporcionalidade e das peculiaridades do presente caso, se revela descabida.
+Isto porque, conforme acertadamente fundamentou o juízo a quo, verifica-se a demonstração da boa fé da recorrida, uma vez que tão somente emprestou o maquinário para seu vizinho proceder com a limpeza do pasto, bem como ajustar as áreas limítrofes entre as propriedades, não tendo, portanto, auferido qualquer valor financeiro com o empréstimo do bem.
+Disse o Juiz, ao proferir a sentença recorrida:
+"(..) Isso porque as razões e os documentos constantes nos autos demonstram inicialmente que a parte autora é terceiro de boa-fé, visto que, nos idos de 2018, em razão de uma relação amistosa de vizinhança, o proprietário da Fazenda Paraíso - Sr. DIEGO RODRIGUES GARCIA - solicitou e obteve junto à parte requerente um comodato verbal para uso do Trator Esteira Marca Fiatallis na limpeza de pastos, bem como para acerar as divisas, já que o fogo estava invadindo a propriedade de seu lindeiro e vizinho.
+Nesse sentido, em razão da apreensão do bem, houve o pleito administrativo para liberação do referido maquinário, mas o órgão ambiental entendeu que os argumentos de que um dos bens apreendidos seria de propriedade da ora requerente SIMONE não restou suficientemente demonstrado, apesar da apresentação de contrato de venda e compra de máquina agrícola, motivo pelo qual decretou o seu perdimento. Tais fatos, a meu ver, quando conjugados, demonstram suficientemente a propriedade do bem móvel apreendido. (Grifos acrescidos).
+Do excerto acima transcrito, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+A esse respeito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INFRAÇÃO AMBIENTAL. APREENSÃO DE VEÍCULO TRANSPORTADOR DE MADEIRA. AUSÊNCIA DE PROVA DE RESPONSABILIDADE OU MÁ-FÉ DO PROPRIETÁRIO DO VEÍCULO APREENDIDO. DESCONSTITUIÇÃO DO JULGADO QUE IMPÕE O REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO DO IBAMA A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem, amparado no conjunto probatório dos autos, asseverou que não foi devidamente comprovada, mediante regular processo administrativo, a responsabilidade e a má-fé do proprietário do veículo apreendido na prática do ilícito. Assim, a revisão do referido entendimento, por demandar incursão no contexto fático-probatório para comprovar ou não a existência do dolo na infração supostamente cometida, é vedado nesta oportunidade.
+2. Agravo Interno do IBAMA a que se nega provimento. (AgInt no AREsp n. 453.695/RO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 28/10/2019, DJe de 18/11/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INFRAÇÃO AMBIENTAL. TRANSPORTE IRREGULAR SÚMULA 7/STJ. LIBERAÇÃO DO VEÍCULO SOB DEPÓSITO.
+1. Concluiu a Corte de origem que não foi comprovada a má-fé do proprietário e a utilização específica e exclusiva do veículo para a prática de transporte irregular de camarão.
+2. Para afastar tais fundamentos, a fim de analisar a suscitada regularidade da apreensão do veículo, seria necessário reexaminar os elementos de prova utilizados pela instância a quo, o que é vedado pela Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.248.904/MA, relator Ministro Og Fernandes, Segunda Turma, julgado em 25/9/2018, DJe de 1/10/2018.)
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
