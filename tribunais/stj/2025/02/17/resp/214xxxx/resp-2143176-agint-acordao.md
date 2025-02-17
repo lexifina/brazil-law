@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MEDICAMENTO PARA TRATAMENTO DE CÂNCER. COBERTURA OBRIGATÓRIA. NATUREZA DO ROL DA ANS. DESIMPORTANTE. SÚMULA N. 83/STJ
+1. É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim.
+2. A jurisprudência desta Corte Superior firmou-se no sentido de que "o fato de o medicamento antineoplásico não estar listado no rol da ANS ou de sua prescrição não estar enquadrada na diretriz de utilização estabelecida pela autarquia não autoriza a recusa de cobertura pela operadora do plano de saúde" (REsp n. 2.098.930/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/8/2024, DJe de 22/8/2024).
+3. A natureza taxativa ou exemplificativa do aludido rol é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+Agravo interno improvido
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por HAPVIDA ASSISTÊNCIA MÉDICA LTDA. contra decisão monocrática de minha relatoria apreciou recurso especial interposto com o objetivo de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 704):
+AÇÃO DE OBRIGAÇÃO DE FAZER C. C. INDENIZAÇÃOPOR DANOS MORAIS - Plano de saúde - Sentença de procedência parcial - Condenação da ré a fornecer o tratamento, com uso do medicamento, de acordo com prescrição médica, sob pena de multa diária - Apelação da ré - Negativa de cobertura de tratamento com uso do medicamento Trióxido de arsênico (ATO), por ser off label - Desacolhimento - Autora diagnosticada com Leucemia Promielocitica Aguda de alto risco - Existência de indicação médica expressa para o tratamento - Previsão de cobertura da patologia - Abusividade na conduta da ré reconhecida - Aplicação da Súmula 102 deste Tribunal de Justiça- Precedentes jurisprudenciais - Caráter taxativo do rol da ANS - Entendimento do STJ não possui força vinculante - Medicamento com registro na ANVISA - Sentença mantida - RECURSO IMPROVIDO.
+A decisão agravada não conheceu do recurso especial do agravante nos termos da seguinte ementa (fl. 764):
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MEDICAMENTO PARA TRATAMENTO DE CÂNCER. COBERTURA OBRIGATÓRIA. SÚMULA 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Aduz o agravante que "não existe qualquer obrigação contratual ou lei Federal que obrigue o fornecimento do medicamento pretendido, qual seja (Trisenox  ATRA), uma vez que, este é um medicamento de uso domiciliar, ou seja, sua administração não depende unicamente de estrutura hospitalar." (fl. 778).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões às fls. 795-805.
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MEDICAMENTO PARA TRATAMENTO DE CÂNCER. COBERTURA OBRIGATÓRIA. NATUREZA DO ROL DA ANS. DESIMPORTANTE. SÚMULA N. 83/STJ
+1. É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim.
+2. A jurisprudência desta Corte Superior firmou-se no sentido de que "o fato de o medicamento antineoplásico não estar listado no rol da ANS ou de sua prescrição não estar enquadrada na diretriz de utilização estabelecida pela autarquia não autoriza a recusa de cobertura pela operadora do plano de saúde" (REsp n. 2.098.930/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/8/2024, DJe de 22/8/2024).
+3. A natureza taxativa ou exemplificativa do aludido rol é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+Agravo interno improvido
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Apesar do esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Discute-se nos autos se é dever do plano de saúde custear o medicamento Trióxido de arsênico (ATO), de uso off label e domiciliar, para tratamento de câncer.
+Consoante aludido na decisão agravada, a jurisprudência dominante e mais recente do Superior Tribunal de Justiça é no sentido de ser lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida ( home care ) e os incluídos no Rol da ANS para esse fim (art. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 - atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021 - destaquei).
+A propósito:
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FIBROSE PULMONAR IDIOPÁTICA. MEDICAMENTO. USO DOMICILIAR. NEGATIVA INDEVIDA DE COBERTURA. DANOS MORAIS CONFIGURADOS. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A parte agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial.
+Decisão da Presidência do Superior Tribunal de Justiça reconsiderada.
+2. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+3. No caso em exame, todavia, o fármaco prescrito pelo médico assistente é um antineoplásico oral, devidamente registrado na ANVISA, com expressa indicação para tratamento de fibrose pulmonar idiopática, sendo abusiva a recusa de cobertura do plano de saúde, com base somente na ausência de enquadramento nas diretrizes de utilização da ANS, sem a devida indicação, em contrapartida, de terapêutica alternativa eficaz e segura para a enfermidade que acomete o paciente.
+ ..
+(AgInt no AREsp n. 2.705.037/RN, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/10/2024, DJe de 21/10/2024.)
+Acrescente-se que, por ocasião do julgamento do REsp n. 1.733.013/PR - julgado suscitado pelo agravante -, "fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS" (AgInt no REsp 1.949.270/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022), conforme se extrai do voto condutor do julgamento, no que foi acompanhado pelos demais integrantes do Colegiado:
+8. Não é possível, todavia, generalizar e confundir as coisas. É oportuno salientar a ponderação acerca do rol da ANS feita pela magistrada Ana Carolina Morozowski, especialista em saúde suplementar, em recente seminário realizado no STJ (2º Seminário Jurídico de Seguros), em 20 de novembro de 2019, in verbis: Por outro lado, há categorias de produtos (medicamentos) que não precisam estar previstas no rol - e de fato não estão. Para essas categorias, não faz sentido perquirir acerca da taxatividade ou da exemplaridade do rol. As categorias são: a) medicamentos relacionados ao tratamento do câncer de uso ambulatorial ou hospitalar; e b) medicamentos administrados durante internação hospitalar, o que não se confunde com uso ambulatorial.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO ANTINEOPLÁSICO. TRATAMENTO DE DOENÇA ONCOLÓGICA. USO OFF-LABEL. RECUSA INDEVIDA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que "o fato de o medicamento antineoplásico não estar listado no rol da ANS ou de sua prescrição não estar enquadrada na diretriz de utilização estabelecida pela autarquia não autoriza a recusa de cobertura pela operadora do plano de saúde" (REsp n. 2.098.930/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/8/2024, DJe de 22/8/2024).
+2. Estando o acórdão recorrido em consonância com a jurisprudência desta Corte Superior, tem incidência a Súmula n. 83/STJ, aplicável por ambas as alíneas autorizadoras.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.720.317/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. MEDICAMENTO DOMICILIAR PARA CÂNCER. NEGATIVA DE COBERTURA. ABUSIVIDADE. SÚMULA 83/STJ. DANOS MORAIS INDENIZÁVEIS. REEXAME DE CLÁUSULAS CONTRATUAIS E DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 5/STJ E SÚMULA 7/STJ.
+1. As operadoras de plano de saúde têm o dever de cobertura de fármacos antineoplásicos utilizados para tratamento contra o câncer, sendo irrelevante analisar a natureza taxativa ou exemplificativa do rol da ANS.
+2. É abusiva a recusa do plano de saúde quanto à cobertura de medicamento prescrito pelo médico, ainda que em caráter experimental ou fora das hipóteses previstas na bula (off-label), porquanto não compete à operadora a definição do diagnóstico ou do tratamento para a moléstia coberta pelo plano contratado.
+3. Inviável, em recurso especial, a reinterpretação de cláusulas contratuais e o reexame de matéria fático-probatória. Incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Agravo interno improvido.
+(AgInt no REsp n. 2.015.052/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MEDICAMENTO ANTINEOPLÁSICO ORAL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. MEDICAMENTO INCLUÍDO NO ROL DA ANS. NEGATIVA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. De acordo com a jurisprudência do STJ, configura-se abusiva a negativa da operadora do plano de saúde em cobrir o custo do medicamento antineoplásico oral devidamente registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.102.951/AC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Dessa forma, tendo o Tribunal estadual decidido no mesmo sentido da jurisprudência do STJ, inafastável a incidência da Súmula n. 83/STJ.
+Por fim, cabe destacar que "A Diretriz de Utilização (DUT) deve ser entendida apenas como elemento organizador da prestação farmacêutica, de insumos e de procedimentos no âmbito da Saúde Suplementar, não podendo a sua função restritiva inibir técnicas diagnósticas essenciais ou alternativas terapêuticas ao paciente, sobretudo quando já tiverem sido esgotados tratamentos convencionais e existir comprovação da eficácia da terapia à luz da medicina baseada em evidências." (REsp 2.038.333/AM, Segunda Seção, DJe de 8/5/2024).
+Nessa linha, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO ANTINEOPLÁSICO. TRATAMENTO DE DOENÇA ONCOLÓGICA. USO OFF-LABEL. RECUSA INDEVIDA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que "o fato de o medicamento antineoplásico não estar listado no rol da ANS ou de sua prescrição não estar enquadrada na diretriz de utilização estabelecida pela autarquia não autoriza a recusa de cobertura pela operadora do plano de saúde" (REsp n. 2.098.930/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/8/2024, DJe de 22/8/2024).
+2. Estando o acórdão recorrido em consonância com a jurisprudência desta Corte Superior, tem incidência a Súmula n. 83/STJ, aplicável por ambas as alíneas autorizadoras.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.720.317/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
