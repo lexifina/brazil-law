@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO COMBATIDA QUE REJEITOU IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA, BEM COMO INDICAÇÃO DE BEM À PENHORA FEITO PELO DEVEDOR. ACERTO DA DECISÃO. ONEROSIDADE EXCESSIVA QUE NÃO SE VERIFICA. AVALIAÇÃO PARTICULAR QUE DEVE SER CONFIRMADA PELA JUDICIAL. VALOR VENAL DO IMÓVEL INDICADO PELO CREDOR QUE NÃO SUPERA O VALOR DA EXECUÇÃO. BEM INDICADO QUE ESTÁ LOCALIZADO EM COMARCA DIVERSA, TRAZENDO ATRASO PARA O ANDAMENTO DO PROCESSO. AGRAVO INTERNO QUE RESTA PREJUDICADO. RECURSO A QUE SE NEGA PROVIMENTO.
+Consta dos autos que a parte agravante opôs impugnação ao cumprimento de sentença, que foi rejeitada pelo Juízo de Primeiro Grau. Foi interposto agravo de instrumento, no qual se alegou excesso de execução e que o imóvel oferecido pelo devedor à penhora era de valor superior ao da execução e tinha boa liquidez.
+O Tribunal negou provimento ao agravo, ao fundamento de que o imóvel indicado pelo devedor não teve avaliação oficial, além de ser de outra comarca. Observou, também, que o imóvel indicado pelo credor tinha valor que se aproximava ao da execução, de forma que não se poderia falar em onerosidade excessiva.
+Nas razões de recurso especial, alega a parte agravante violação dos arts. 435; 489, § 1º, III e IV; 804; 805; 828; 845, § 1º; 850; 871, I; 879; 882; 1022, I e II, do Código de Processo Civil de 2015. Sustenta excesso de execução, argumentando que o imóvel indicado à penhora pelo credor tem valor correspondente a quase o triplo do valor da execução.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 1022 do CPC.
+Ademais, o recurso especial não dispensa o reexame de prova. O agravante afirma que a execução não está sendo feita da forma menos gravosa ao devedor e entende que o imóvel que ofereceu à penhora deve prevalecer sobre a indicação de imóvel pelo credor. A respeito da matéria, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ, fl. 100, grifei):
+A discussão gira em torno da indicação de bem imóvel à penhora, sendo que o devedor posicionou uma cobertura em Niterói, cuja avaliação foi feita de forma particular.
+Insta destacar de plano, que a fase de avaliação dos bens não chegou a ser realizada pelo juízo, sendo esta a única possível para dimensionar a real situação dos imóveis em contenda.
+De plano, o que se tem é que o credor indicou outro bem imóvel da propriedade do devedor, localizado na comarca da execução, cujo espelho do IPTU não retrata valor muito acima da execução, como se vê, o que faz cair por terra a alegação de onerosidade excessiva:
+(..)
+Nada obstante as razões invocadas, reputo que o magistrado de primeiro grau agiu com acerto.
+Isso porque o imóvel indicado pelo devedor é objeto de promessa, que mesmo tendo a anuência do promitente comprador, já retira a atração pelo bem, pela simples desconfiança de haver contendas futuras.
+Além do mais, o imóvel está situado em comarca diversa, sendo que todo o procedimento de hasta deverá ser feito por precatória, o que também onera e atrasa o processo.
+Por fim, com o dito acima, não se pode confirmar o valor de mercado da cobertura em Niteró i, sema avaliação judicial, além do que em termos gerais, a liquidez de um imóvel na Zona Sul do RJ, nas máximas da experiência, sempre é maior que uma cobertura.
+Não há como afastar essas conclusões para acolher a alegação de que houve excesso de execução, ou ainda, para admitir a assertiva de que o imóvel indicado pelo devedor é mais apropriado para a garantia da execução.
+Ressalte-se que sequer houve avaliação judicial dos bens. A propósito, a alegação de que o bem indicado pelo credor tem valor correspondente a quase o triplo do valor do imóvel oferecido pelo devedor ou mesmo do valor da execução não tem respaldo no acórdão recorrido, do qual consta referência a elemento de prova a indicar que o valor é compatível com o da execução.
+Aplica-se ao caso a Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Julgo prejudicado o pedido de fls. 230/292, com o qual o agravante buscava atribuir efeito suspensivo ao recurso especial.
+Intimem-se.
+EMENTA
