@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS DIÁRIA. PREVISÃO CONTRATUAL EXPRESSA. PRETENSÃO DE REEXAME DE PROVAS E DE CLÁUSULA CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. A reforma do julgado, na forma como pretendido pelo agravante, demandaria a análise de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+2. Não comporta conhecimento o recurso quanto à alegada divergência jurisprudencial, pois o entendimento desta Corte é no sentido de que não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos. Precedentes.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por BECKHAUSER INDÚSTRIA E COMÉRCIO DE MALHAS LTDA. contra decisão monocrática de minha relatoria que não conheceu do recurso especial nos termos da seguinte ementa (fl. 998):
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS DIÁRIA. PREVISÃO CONTRATUAL EXPRESSA. PRETENSÃO DE REEXAME DE PROVAS E DE CLÁUSULA CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO ESPECIAL NÃO CONHECIDO.
+A referida decisão foi integrada pela de fls. 10.403-10.409, que rejeitou os embargos de declaração opostos pela parte ora agravante.
+Aduz o agravante que a decisão recorrida incorreu em equívoco ao aplicar os óbices das Súmulas n. 5 e 7/STJ para não conhecer o recurso especial, afirmando tratar-se de matéria de direito e não de reexame de provas, especialmente quanto à capitalização diária de juros sem pactuação expressa.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno.
+A agravada apresentou contrarrazões às fls. 10.425-10.435.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS DIÁRIA. PREVISÃO CONTRATUAL EXPRESSA. PRETENSÃO DE REEXAME DE PROVAS E DE CLÁUSULA CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. A reforma do julgado, na forma como pretendido pelo agravante, demandaria a análise de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+2. Não comporta conhecimento o recurso quanto à alegada divergência jurisprudencial, pois o entendimento desta Corte é no sentido de que não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos. Precedentes.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Com efeito, inviável a apreciação das alegações da recorrente, ora agravante, considerando que o Tribunal de origem, entendeu, com base no conjunto probatório dos autos, pela legalidade da capitalização de juros em periodicidade diária, porquanto prevista expressamente no contrato em questão.
+Confira- se o seguinte excerto do acórdão recorrido (fls. 10.160-10.163):
+1.1. Da Capitalização Diária de Juros Afirma as autoras Beckhauser Indústria e Comércio de Malhas Ltda., Mega Import Textil Ltda., ora recorrentes, de início, que irregular a aplicação de capitalização diária de juros prevista nos contratos objeto da demanda, porquanto nos contratos "não houve indicação da taxa de juros a ser cobrada, apenas afirma na cláusula quarta que os juros devidos serão calculados com base no ano de 360 dias, observando o número de dias efetivamente transcorridos a partir da data do desembolso do financiamento e calculados pro rata à base diária sobre o saldo devedor" (Evento 37 dos autos de origem - APELAÇÃO243, fl. 8).
+Sem razão, contudo!
+Desnecessário aqui ingressar na existência ou não de previsão de capitalização diária em cada um dos pactos, tendo em vista que o cerne da questão não é a existência de previsão ou não da periodicidade diária, admitida pelas próprias autoras, e sim a legalidade de tal previsão naqueles pactos em que assim contratado.
+A este respeito, todavia, já se posicionou o Superior Tribunal de Justiça no sentido de que a possibilidade de capitalização de juros com periodicidade inferior à anual destacada na Súmula n. 539/STJ não abraça apenas a capitalização mensal, mas abrange também a diária.
+É o que se extrai da decisão proferida no REsp. 1.455.536/SC pela Ministra Maria Isabel Gallotti, que reforma acórdão oriundo desta Corte:
+(..)
+Imperioso ressaltar que a exclusão da aplicação do CDC ao caso em apreço não importa automaticamente na impossibilidade de se extirpar a cobrança de valores oriundos de eventuais cláusulas contratuais lesivas e que não atendam aos requisitos previstos no ordenamento jurídico. Contudo, no presente contexto, vale a interpretação geral já balizada pelo Superior Tribunal de Justiça, no sentido de que a previsão contratual de capitalização diária de juros é suficiente para autorizar a respectiva cobrança, tanto mais quando a parte recorrente em momento algum tratou de demonstrar/comprovar que a incidência da capitalização diária veio a repercutir em qualquer cobrança de juros superiores à taxa efetiva anual contratada.
+Diga-se, a regra é a equivalência de taxas, de sorte que se o índice diário aplicado é equivalente à taxa efetiva anual prevista no contrato para a respectiva periodicidade, prejuízo algum resulta à parte contratante, pois o saldo final, independente da periodicidade da capitalização, deverá ser o mesmo.
+Assim, não tendo a parte autora comprovado eventuais discrepâncias de tal natureza em qualquer dos contratos, possível a capitalização diária de juros nos pactos em que expressamente prevista tal modalidade.
+Assim, conforme consignado na decisão recorrida, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e das provas, conforme pretendido, implicaria o reexame do contexto fático- probatório dos autos e de cláusulas contratuais. Sendo assim, incidem no caso as Súmulas n. 5 e 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. DESNECESSIDADE DE PRODUÇÃO PROBATÓRIA. 2. ART. 1.003, PARÁGRAFO ÚNICO, DO CC. NÃO APLICÁVEL AOS CONTRATANTES (CESSIONÁRIO E CEDENTES). ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou- se no sentido de que não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstrado pelas instâncias de origem que o processo se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+1.2. Infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela necessidade de produção das provas requeridas, tal como buscam os insurgentes, esbarraria no verbete n. 7 da Súmula do Superior Tribunal de Justiça.
+2. O Tribunal de origem consignou que "não há, da mesma forma, que se cogitar de aplicação do parágrafo único do artigo 1.003 do Código Civil de 2002, uma vez que tal dispositivo legal tem aplicação perante terceiros, e não, entre os envolvidos na cessão de quotas realizada". Incide, no ponto, o óbice da Súmula 83 desta Corte.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.509.127/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ademais , não comporta conhecimento o recurso quanto à alegada divergência jurisprudencial, pois o entendimento desta Corte é no sentido de que não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. RECONSIDERAÇÃO. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. CAPITALIZAÇÃO MENSAL DE JUROS. PACTUAÇÃO. JUROS REMUNERATÓRIOS. TAXA CONTRATADA. ABUSIVIDADE NÃO CONSTATADA. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 5, 7 E 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção do STJ, no Recurso Especial n. 973.827/RS (Temas n. 246 e 247), processado segundo o rito previsto no art. 543-C do CPC de 1973, decidiu que "é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170- 36/2001), desde que expressamente pactuada", entendimento consolidado com a edição da Súmula n. 530 do STJ. Estabeleceu ainda que "a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara" e que "a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (Súmula n. 541 do STJ).
+2. É inviável a revisão do entendimento do Tribunal de origem que decidiu em sintonia com a jurisprudência do Superior Tribunal de Justiça ao permitir a cobrança da capitalização mensal dos juros porque pactuada. Incidência das Súmulas n. 5, 7 e 83 do STJ.
+3. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando caracterizada a relação de consumo e a abusividade ficar devidamente demonstrada diante das peculiaridades do caso concreto.
+4. É inviável a limitação da taxa de juros remuneratórios pactuada no contrato na hipótese em que a corte de origem não tenha considerado cabalmente demonstrada sua abusividade com base nas peculiaridades do caso concreto. Incidência das Súmulas n. 5 e 7 do STJ.
+5. Agravo interno provido.
+(AgInt no AREsp n. 2.522.542/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
