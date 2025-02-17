@@ -1,0 +1,16 @@
+DECISÃO
+ANDRE FELIPE PEREIRA DE LIMA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas no Agravo em Execução n. 0501262-57.2024.8.02.0000.
+A defesa busca a concessão de livramento condicional ao paciente, ao argumento de que este preenche os requisitos necessários para tal fim.
+Decido.
+O apenado do regime fechado não preenche o requisito subjetivo para a antecipação direta de liberdade, em livramento condicional, ante a prática de falta disciplinar de natureza grave - cometimento de novo delito no curso do cumprimento da pena, em 28/2/2021 -, reveladora de mau comportamento carcerário durante o período da execução penal.
+Nesse contexto, é possível o avanço para a solução imediata do habeas corpus, pois o acórdão recorrido está alinhado à tese jurídica fixada pela Terceira Seção desta Corte, no Tema Repetitivo n. 1.161:
+ ..  a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal  ..  (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023).
+O Tribunal de origem decidiu a controvérsia conforme o precedente qualificado, pois destacou:
+ ..  a concessão do livramento condicional exige o cumprimento de critérios subjetivos, sobretudo o bom comportamento durante o cumprimento da pena. Tal requisito reflete a necessidade de comprovação de aptidão para o retorno ao convívio social.
+11. No caso em apreço, restou demonstrado que o agravante praticou novo crime doloso em 28/02/2021, o que denota a ausência de comprometimento com a ordem jurídica, evidenciando que não foram preenchidos os pressupostos subjetivos necessários à concessão do benefício.
+Deveras, além da previsão objetiva de não cometimento de falta grave nos últimos 12 meses, a legislação também estabelece requisito subjetivo mais rigoroso para o livramento condicional, fase mais benéfica da execução e que não pressupõe a passagem pelos regimes semiaberto e aberto. A exigência é proporcional à amplitude do benefício. Para alcançar a liberdade antecipada, principalmente sem cumprir as demais etapas do sistema progressivo, é imprescindível cumprir determinadas exigências, uma delas o bom comportamento durante toda a execução da pena.
+Consta na guia penal do paciente o registro de falta disciplinar, classificada como grave, consistente na prática de novo delito no curso da execução da pena, o que resultou na regressão de regime.
+Diante desse cenário, seria incoerente conceder a antecipação de liberdade a um reeducando do regime fechado que apresenta histórico de prática de novo crime durante benefício anterior, quando nem sequer preenche os requisitos para ser transferido ao regime aberto, principalmente quando considerado o objetivo da execução, de reintegração gradual e segura ao convívio social, de maneira a minimizar o risco de reincidência criminal.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
