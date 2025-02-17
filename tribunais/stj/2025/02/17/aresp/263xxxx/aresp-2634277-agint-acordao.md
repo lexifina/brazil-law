@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. EXERCÍCIO DE TRABALHO RURAL PELO ALEGADO INSTITUIDOR DO BENEFÍCIO. ACÓRDÃO QUE APONTA A AUSÊNCIA DE DEMONSTRAÇÃO DA QUALIDADE DE SEGURADO ESPECIAL. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. No caso, o Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, concluiu pela ausência de início de prova material do exercício de atividade rural em nome do falecido no período próximo ao óbito, necessário para comprovar a condição de segurado especial em regime de economia familiar, conforme requer a Lei de Benefícios.
+2. A alteração das premissas retratadas no acórdão recorrido demandaria novo exame do acervo fático-probatório, providência vedada em recurso especial a teor do óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Katianne Sousa Santos desafiando decisão monocrática, às fls. 183/186, que negou provimento ao agravo em recurso especial, diante da impossibilidade de reexaminar o acervo probatório existente nos autos, a teor de sua Súmula 7/STJ.
+A parte agravante assevera que "a comprovação do direito  ..  se dará exclusivamente mediante a revaloração da prova, não seu reexame. O único motivo do improvimento do pedido autoral de concessão de benefício previdenciário foi o E. Tribunal a quo ter considerado os documentos juntados como incapazes de servir como início de prova da qualidade de segurado especial" (fl. 196) e que "busca-se apenas, na estreita via do Apelo Especial, saber se determinada espécie de documento, cujo conteúdo é sobejamente reconhecido nos autos, serve ou não como início de prova para concessão do benefício previdenciário. Não há necessidade alguma de proceder ao reexame das provas, mas meramente definir a seguinte questão: a certidão de nascimento de filho e a certidão de óbito são capazes de servir como início de prova material da condição campesina " (fl. 196).
+Intimado, o INSS não apresentou impugnação ao agravo interno, conforme certidão de fl. 209.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. EXERCÍCIO DE TRABALHO RURAL PELO ALEGADO INSTITUIDOR DO BENEFÍCIO. ACÓRDÃO QUE APONTA A AUSÊNCIA DE DEMONSTRAÇÃO DA QUALIDADE DE SEGURADO ESPECIAL. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. No caso, o Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, concluiu pela ausência de início de prova material do exercício de atividade rural em nome do falecido no período próximo ao óbito, necessário para comprovar a condição de segurado especial em regime de economia familiar, conforme requer a Lei de Benefícios.
+2. A alteração das premissas retratadas no acórdão recorrido demandaria novo exame do acervo fático-probatório, providência vedada em recurso especial a teor do óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Na hipótese, conforme afirmado na decisão agravada, o Tribunal a quo, após minucioso exame dos elementos fáticos contidos nos autos, afirmou expressamente que não foi demonstrada a condição de segurado do instituidor do benefício de pensão por morte, como trabalhador rural, em regime de economia familiar.
+É o que se infere dos seguintes trechos extraídos do acórdão recorrido (fls. 120/121):
+No caso de trabalhador rural, a concessão do benefício de pensão por morte está subordinada à demonstração da condição de dependente do segurado e à comprovação da atividade rural exercida pelo falecido, mediante início razoável de prova material, corroborada por prova testemunhal coerente e robusta, ou prova documental plena, não sendo admissível a prova exclusivamente testemunhal.
+O óbito do instituidor, ocorrido em 26/05/2017, foi devidamente comprovado pela certidão competente (fl. 96 - ID 268662528), limitando-se a controvérsia à comprovação da qualidade de segurado especial do falecido.
+ .. .
+A relação de dependência econômica restou comprovada, conforme certidão de nascimento do autor (ID 268662528 - fl. 95). Em regra, o benefício concedido a título de assistência social, de caráter personalíssimo, não induz à pensão por morte. Todavia, se comprovados os requisitos legais para o recebimento de aposentadoria por idade ou por invalidez, na condição de segurado rural anteriormente ao óbito, é possível a conversão do benefício assistencial em previdenciário e o deferimento da pensão por morte aos dependentes habilitados.
+No caso dos autos, a prova material foi constituída apenas pela ficha de matrícula escolar do autor, datada em 2017, certidão de nascimento de inteiro teor do autor e certidão de óbito do genitor, nos quais o falecido está qualificado como lavrador. Esses documentos, porém, não demonstram que o genitor do autor exercia a atividade rural em regime de economia familiar quando lhe fora concedido o benefício assistencial - LOAS. Assim, insuficiente a prova material produzida nestes autos para demonstrar o exercício da atividade rural do instituidor da pensão, não é possível a conversão do benefício assistencial em previdenciário e a consequente concessão de pensão por morte ao autor. Precedentes deste Tribunal.
+ .. .
+Além disso, este Tribunal, bem como o STJ, sedimentaram o entendimento de que não é admissível prova exclusivamente testemunhal para comprovação de tempo de serviço com fins previdenciários. (Súmulas 149 do STJ e 27 do TRF- 1ª. Região).
+Não tendo sido preenchidos os requisitos da qualidade de segurado do instituidor de benefício não é possível a conversão do benefício assistencial em previdenciário e a consequente concessão de pensão por morte ao autor, devendo a sentença de improcedência do pedido inicial ser mantida.
+Portanto, como já consignado na decisão agravada, o Tribunal de origem concluiu não haver nos autos início de prova material do exercício de atividade rural em nome do falecido, no período próximo ao óbito, suficiente para comprovar a condição de segurado especial em regime de economia familiar, exigência prevista na Lei de Benefícios.
+Assim, escorreita a decisão impugnada que concluiu no sentido de que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em reforço, anote-se o seguinte julgado:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RURAL. PENSÃO POR MORTE. ATIVIDADE RURAL NÃO COMPROVADA. FALTA DE QUALIDADE DE SEGURADO. REAVALIAÇÃO PROBATÓRIA QUE CONFIRMA A IMPROCEDÊNCIA DO PEDIDO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Se o falecido não se enquadra efetivamente como Segurado Especial (art. 11, VII, da Lei 8.213/1991), revela-se indevida a concessão de pensão por morte aos seus dependentes.
+2. No caso dos autos, o Tribunal de origem, competente para a análise das provas dos autos, ao negar à autora o benefício de pensão por morte, consignou que de acordo com o extrato do CNIS, juntado às fls. 43, o de cujus migrou para as atividades urbanas em 1.7.1992, tendo ocorrido a descaracterização de sua condição de trabalhador rural.
+3. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 660.882/SP, relator Min. Napoleão Nunes Maia Filho, DJe de 19/12/2018.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
