@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUN DAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DAS SÚMULAS 182/STJ, 83/STJ E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por Ana Claudia Raposo da Silva Gomes contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, sob o fundamento da ausência de impugnação específica aos motivos da decisão agravada, nos termos da Súmula 182/STJ. A agravante alegou que a impugnação apresentada teria sido específica, efetiva e pormenorizada, requerendo a reconsideração da decisão ou a submissão do caso à Turma competente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a agravante cumpriu o ônus de impugnar especificamente os fundamentos da decisão que não conheceu do agravo em recurso especial; e (ii) verificar se a aplicação das Súmulas 182/STJ, 83/STJ e 7/STJ pela decisão agravada foi correta.
+III. RAZÕES DE DECIDIR
+3. A agravante não demonstrou, de forma específica e suficiente, a superação dos fundamentos da decisão que não conheceu do agravo em recurso especial, especialmente no tocante à incidência das Súmulas 83/STJ (jurisprudência dominante sobre a questão de mérito) e 7/STJ (reexame de matéria fática).
+4. A ausência de impugnação específica atrai a aplicação do enunciado n. 182 da Súmula do Superior Tribunal de Justiça, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. A jurisprudência do STJ é consolidada no sentido de que o recurso deve conter impugnação detalhada e analítica dos fundamentos da decisão recorrida, sendo insuficiente a mera alegação genérica de afronta ao entendimento exarado na decisão impugnada.
+IV. AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANA CLAUDIA RAPOSO DA SILVA GOMES contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial pela incidência da Súmula 182/STJ.
+Em sua irresignação, sustenta a agravante que, "com a devida venia, não podemos concordar com o entendimento esposado, na medida em que a impugnação apresentada na interposição foi não só específica, como também efetiva, concreta e pormenorizada" (e-STJ, fl. 247).
+Requer a reconsideração da decisão agravada ou a submissão do feito à Turma competente.
+Foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUN DAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DAS SÚMULAS 182/STJ, 83/STJ E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por Ana Claudia Raposo da Silva Gomes contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, sob o fundamento da ausência de impugnação específica aos motivos da decisão agravada, nos termos da Súmula 182/STJ. A agravante alegou que a impugnação apresentada teria sido específica, efetiva e pormenorizada, requerendo a reconsideração da decisão ou a submissão do caso à Turma competente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a agravante cumpriu o ônus de impugnar especificamente os fundamentos da decisão que não conheceu do agravo em recurso especial; e (ii) verificar se a aplicação das Súmulas 182/STJ, 83/STJ e 7/STJ pela decisão agravada foi correta.
+III. RAZÕES DE DECIDIR
+3. A agravante não demonstrou, de forma específica e suficiente, a superação dos fundamentos da decisão que não conheceu do agravo em recurso especial, especialmente no tocante à incidência das Súmulas 83/STJ (jurisprudência dominante sobre a questão de mérito) e 7/STJ (reexame de matéria fática).
+4. A ausência de impugnação específica atrai a aplicação do enunciado n. 182 da Súmula do Superior Tribunal de Justiça, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. A jurisprudência do STJ é consolidada no sentido de que o recurso deve conter impugnação detalhada e analítica dos fundamentos da decisão recorrida, sendo insuficiente a mera alegação genérica de afronta ao entendimento exarado na decisão impugnada.
+IV. AGRAVO INTERNO DESPROVIDO.
+VOTO
+O recurso não merece provimento.
+A decisão proferida pela Presidência deste Superior Tribunal não conheceu do agravo em recurso especial com fundamento na incidência da Súmula 182/STJ, pois não impugnados os fundamentos utilizados pelo Tribunal de origem para negar seguimento ao recurso especial. Veja-se (fls. 241-242):
+ ..  Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 83/STJ e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+Com efeito, a parte agravante deixou de infirmar, de maneira adequada e suficiente, os fundamentos apresentados pelo Tribunal de origem para negar trânsito ao recurso especial (Súmulas 7 e 83 do STJ).
+A esse respeito, "Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgInt no AREsp n. 2.224.243/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Além disso, "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023)" (AgInt no AREsp n. 2.684.141/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Desse modo, "constatada a ausência de impugnação específica, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ" (AgInt no AREsp n. 2.548.088/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+A parte agravante não trouxe, nas razões do agravo interno, fundamento apto a desconstituir a decisão impugnada, que deve ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
