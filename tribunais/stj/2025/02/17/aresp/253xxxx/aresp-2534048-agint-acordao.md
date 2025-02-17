@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. Consoante iterativa jurisprudência desta Corte, a incidência das referidas súmulas constitui óbice para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+III. Dispositivo
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 500/509) interposto contra decisão desta relatoria, que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 491/494).
+Em suas razões, a parte reitera a tese de negativa de prestação jurisdicional, destacando que, "muito embora a Corte de origem tenha se manifestado acerca da ocorrência de prescrição, novamente nada disse com relação ao período em que as contas devem ser prestadas, considerando que a decisão monocrática determinou a prestação de contas "desde a aquisição dos lotes", mas nada disse sobre o termo final. A omissão é clara" (e-STJ fl. 506). E ainda (e-STJ fls. 506/507):
+ ..  E a dúvida quanto ao período em que as contas deveriam ser prestadas foi objeto de impugnação expressa no Recurso Especial, com destaque para o fato de que "o Recorrido nada paga desde o ano de 2020, sendo um verdadeiro contrassenso obrigar a Agravante a prestar contas daquilo que não recebeu do Embargado".
+Nesse contexto, aduz que o "agravo em recurso especial deveria ter sido provido, pois a omissão foi demonstrada e, portanto, houve violação ao art. 1.022, II do CPC" (e-STJ fl. 507).
+Reforça as razões do especial de que "o Agravado carece de interesse processual, bem como o pedido é incabível na hipótese dos autos, tendo havido violação aos arts. 330, III e 550, §1º do CPC e divergência jurisprudencial" (e-STJ fl. 507).
+Alega a inaplicabilidade das Súmulas n. 5 e 7 do STJ, pois o que "se espera do provimento jurisdicional é permitir aos envolvidos saber até quando as contas e isso  ..  independe da análise de qualquer cláusula contratual" (e-STJ fl. 507).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Impugnação não apresentada (e-STJ fl. 513).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. Consoante iterativa jurisprudência desta Corte, a incidência das referidas súmulas constitui óbice para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+III. Dispositivo
+5. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 491/494):
+Trata-se de agravo nos próprios autos (e-STJ fls. 482/494) interposto contra decisão (e-STJ fls. 469/474) que inadmitiu recurso especial sob os seguintes fundamentos: (a) não caracterização de negativa de prestação jurisdicional, (b) ausência de demonstração de violação dos artigos de lei federal, (c) incidência da Súmula n. 7 do STJ e (d) falta de similitude fática entre o acórdão recorrido e o paradigma apontado (e-STJ fls. 436/439).
+O acórdão recorrido está assim ementado (e-STJ fl. 375):
+AGRAVO DE INSTRUMENTO - Ação de exigir contas - Agravante que administra loteamento -Decisão que reconheceu seu dever de prestar contas acerca dos contratos referentes ao loteamento - Recorrente que é administradora de bens alheios, podendo o recorrido exigir contas, nos termos do artigo 500 do Código de Processo Civil - Alegação de que a taxa de conservação consistiria em valor fixo ou eventual inadimplência do agravado, no mais, não possuem o condão de afastar o interesse processual de se conhecer a destinação dos montantes pagos - Mera apresentação, em site na internet, de gastos e receitas que não se mostra suficiente à pretensão do agravante - Decisão mantida - Agravo de instrumento desprovido e agravo interno prejudicado.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 383/385).
+O recurso especial (e-STJ fls. 387/417), fundamentado no art. 105, III, "a", da CF, apontou ofensa aos seguintes dispositivos legais, sob as respectivas teses:
+(i) art. 1.022, II, do CPC, afirmando omissão do acórdão recorrido em relação à "delimitação do período das contas a serem prestadas, considerando o inadimplemento" (e-STJ fl. 396), e
+(ii) arts. 330, III, e 550, § 1º, do CPC, argumentando que "demonstrou que o pedido de prestação de contas é incabível nas hipóteses de (i) taxas de conservação, porque não se trata de administração de dinheiro alheio; (ii) contribuição para o fundo de melhoramentos e contribuições para o fundo de transportes, pela ausência de interesse processual, pois a prestação de contas já é feita e
+(iii) contribuições sociais para o clube SLIM, porque o Recorrente não é associado ao referido Clube. Suscitou, ainda, ausência de utilidade jurídica do bem tutelado e, por fim, erro na fixação do período em que as contas devem ser prestadas" (e-STJ fls. 389/390).
+Apontou divergência jurisprudencial.
+Contrarrazões não apresentadas (e-STJ fl. 435).
+No agravo (e-STJ fls.442/472), a parte afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 481).
+É o relatório.
+Decido.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara, fundamentada e suficiente, sobre as questões suscitadas nos autos, ainda que contrariamente aos interesses da parte. Confiram-se, no ponto, a motivação da Corte local acerca do vício apontado (e-STJ fls. 384/385):
+ ..  Trata-se de Embargos de Declaração opostos ao Acórdão de fls. 360/363, sustentando a ré Momentum Empreendimentos Imobiliários Ltda. ter havido omissão, uma vez que "o período mencionado pelo Embargado (março/2015 a maio/2021), supera os 05 anos anteriores à propositura da ação, o que não pode ser admitido" (fls. 03. Além disso, alegou que "o objetivo da ação de exigir contas é, ao final, constatar se há crédito em favor do pagante. Considerando que o Embargado é inadimplente, o Embargado nada terá a receber, pois nada pagou, estando a usufruir dos serviços e obras custeados por outros proprietários" (fls. 04).
+Tal como constou do Acórdão, "a alegação de que a taxa de conservação consistiria em valor fixo ou a de que eventual inadimplência do agravado, no mais, não têm o condão de afastar o interesse processual de se conhecer a destinação dos montantes pagos" (fls. 362).
+Além disso, vale lembrar que "a prescrição, instituto de direito material, não se vincula ao direito abstrato de exercício de ação de prestação de contas, mas sim ao crédito que nela se discute" (Apelação Cível nº 0047274-40.2011.8.26.0562; 1a Câmara de Direito Privado do TJSP, v. un.; Rel. Francisco Loureiro, em 31/01/2018).
+Em outras palavras, "O interesse daquele que exige a prestação de contas é ter conhecimento sobre o valor do crédito a que tinha direito lhe foi corretamente repassado por quem administrou seus bens ou interesses. Trata-se de uma pretensão que tem por lastro um direito pessoal, que não se confunde com pretensão à reparação de danos, convindo destacar que na ação de exigir contas, primeiramente, perquire-se a existência do direito a ter as contas prestadas e, em segundo lugar, analisa-se se as contas prestadas estão ou não corretas. Não há apuração de dano a ser reparado. Assim, não tem incidência o prazo prescricional de cinco anos previsto na norma disposta no artigo 27 do Código de Defesa do Consumidor. Inexiste prazo prescricional específico para a hipótese, motivo pelo qual se aplica à pretensão de exigir contas o prazo genérico contido na regra prevista no artigo 205 do Código Civil" (Apelação Cível nº 0058319-35.2012.8.26.0100; 30a Câmara de Direito Privado do TJSP, v. un.; Rel. Lino Machado, em 08/02/2021).
+Assim, não incorreu em omissão.
+Soberano no exame do conjunto fático-probatório e das particularidades do caso, o TJSP concluiu que o autor, ora recorrido, tem pleno interesse em buscar a prestação de contas em face da recorrente, porquanto esta assumiu a posição de administradora de bens alheios (Santa Barbara Resort Residence - fl. 249). Eis a fundamentação do acórdão recorrido (e-STJ fls. 376/377):
+Ao contrário do que tenta fazer crer, a recorrente é administradora de bens alheios, podendo o recorrido exigir contas, nos termos do artigo 500 do Código de Processo Civil.
+A alegação de que a taxa de conservação consistiria em valor fixo ou a de que eventual inadimplência do agravado, no mais, não têm o condão de afastar o interesse processual de se conhecer a destinação dos montantes pagos.
+A respeito do mesmo loteamento, já decidiu esta Câmara que "quanto ao fundo de melhoramentos, a agravante reconhece seu dever de prestar contas, afirmando que já o faz por meio de seu sítio eletrônico, no entanto a mera apresentação de gastos e receitas não se mostra suficiente à pretensão do agravante, ressaltando-se também o princípio da inafastabilidade da jurisdição" (Agravo de Instrumento nº 2019839-79.2020.8.26.0000; 1a Câmara de Direito Privado do TJSP, v. un.; Rel. Rui Cascaldi, em 27/05/2020).
+Nesse contexto, tendo a Primeira Câmara do Tribunal estadual asseverado que a relação contratual entre as partes permite a uma delas exigir a prestação de contas da outra, não há como reexaminar a questão em sede de recurso especial, em razão das Súmulas n. 5 e 7 STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. VIOLAÇÃO AOS ARTS. 489 E 1.022, DO CPC. NÃO OCORRÊNCIA. ILEGITIMIDADE ATIVA. AUSÊNCIA DE INTERESSE DE AGIR. IMPROCEDÊNCIA. CONCLUSÕES EMBASADAS NAS PROVAS DOS AUTOS. SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. PRIMEIRA FASE. CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. No presente caso, o acolhimento da pretensão recursal quanto a ilegitimidade ativa da parte e falta de interesse de agir, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+5. Cabível na primeira fase da ação de prestação a condenação em honorários advocatícios. Precedentes.
+6. Agravo interno não provido.
+(AgInt no REsp 1829646/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 18/12/2020.)
+Consoante iterativa jurisprudência desta Corte, a incidência das Súmulas 5 e 7 do STJ constitui óbice para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem consignou que "o interesse daquele que exige a prestação de contas é ter conhecimento sobre o valor do crédito a que tinha direito lhe foi corretamente repassado por quem administrou seus bens ou interesses" (e-STJ fl. 384).
+Portanto, trata-se de "uma pretensão que tem por lastro um direito pessoal, que não se confunde com pretensão à reparação de danos, convindo destacar que na ação de exigir contas, primeiramente, perquire-se a existência do direito a ter as contas prestadas e, em segundo lugar, analisa-se se as contas prestadas estão ou não corretas" (e-STJ fls. 385/385), decidindo que "Não há apuração de dano a ser reparado" (e-STJ fls. 384/385).
+Assim, "não tem incidência o prazo prescricional de cinco anos previsto na norma disposta no artigo 27 do Código de Defesa do Consumidor. Inexiste prazo prescricional específico para a hipótese, motivo pelo qual se aplica à pretensão de exigir contas o prazo genérico contido na regra prevista no artigo 205 do Código Civil" (e-STJ fl. 385).
+Desse modo, o não acolhimento das teses da parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando, como no caso presente, o acórdão aborda todos os pontos relevantes da controvérsia.
+Rever a conclusão do acórdão acerca do interesse de agir da parte recorrida quanto à necessidade da ação de prestação de contas demandaria reexame das disposições contratuais e incursão no campo fático-probatório, providências vedadas na via especial, conforme as Súmulas n. 5 e 7 do STJ.
+Consoante repetida jurisprudência desta Corte, a incidência das Súmulas 5 e 7 do STJ constitui óbice para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
