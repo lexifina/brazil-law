@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/02/2025 a 17/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PRECATÓRIO. HONORÁRIOS. CABIMENTO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+2. De acordo com a jurisprudência do STJ, tendo em vista o disposto no art. 85, § 7º, do CPC/2015, é cabível a fixação de honorários advocatícios desde que impugnado o pedido de cumprimento de sentença pela Fazenda Pública, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito. Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 255):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO OFERTADA PELO DEVEDOR. ARTIGO 85, §7º, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+O agravante alega que "a fixação dos honorários executivos postulados (Art. 85, §7º, do CPC/2015), independe o resultado da Impugnação/Embargos à Execução, consequentemente não há de falar em observância a parcela controvertida da base de cálculo, não se tratando de honorários decorrentes do êxito da impugnação e sim executivos  .. " (fl. 272).
+Requer, assim, seja excluída da decisão a referência no sentido da exclusão de parcela incontroversa do crédito, tendo em vista a literalidade do art. 85, §7º, do CPC/2015, invocando precedentes jurisprudenciais favoráveis à sua tese.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PRECATÓRIO. HONORÁRIOS. CABIMENTO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+2. De acordo com a jurisprudência do STJ, tendo em vista o disposto no art. 85, § 7º, do CPC/2015, é cabível a fixação de honorários advocatícios desde que impugnado o pedido de cumprimento de sentença pela Fazenda Pública, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, esta Corte possui entendimento sedimentado no sentido de que, uma vez oferecida resistência à execução da sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade, devendo sim, ser excetuada da base de cálculo eventual parcela incontroversa do crédito.
+A propósito, eis o teor da jurisprudência mais recente desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO APRESENTADA. ART. 85, § 7º DO CPC. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. "Segundo a jurisprudência pacífica desta Corte, nos termos do disposto no art. 85, § 7º, do CPC, é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação excetuada da base de cálculo apenas eventual parcela incontroversa do crédito" (AgInt nos EDcl no REsp n. 2.008.021/RS, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 26/6/2024).
+2. Agravo interno desprovido. (AgInt no REsp n. 2.146.087/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024.) (Grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO PARCIAL. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA EXECUÇÃO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O acórdão recorrido está em sintonia com a jurisprudência desta Corte, que admite a condenação em honorários advocatícios sobre o valor controverso da Execução, que, no caso, é o excesso de Execução apresentado na impugnação rejeitada. Precedentes.
+3. Agravo interno não provido. (AgInt no REsp n. 2.096.476/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/9/2024, DJe de 12/9/2024.) (Grifei).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO. ENTENDIMENTO PACÍFICO DESTA CORTE SUPERIOR. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "se afigura cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseja a expedição de precatório, quando impugnado pelo devedor, consoante disposto no art. 85, § 7º do Código de Processo Civil, os quais devem recair, contudo, apenas sobre a parcela controvertida do débito, e não sobre o valor total da execução" (AgInt nos EREsp n. 1.888.483/RS, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 14/11/2023, DJe de 21/11/2023).
+2. Agravo interno desprovido. (AgInt no AREsp n. 2.378.811/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 17/6/2024, DJe de 20/6/2024.) (Grifei).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. OFENSA AO ART. 85, § 7º, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. IMPUGNAÇÃO APRESENTADA PELO EXECUTADO. BASE DE CÁLCULO. PARCELA CONTROVERTIDA. PRECEDENTES. DEVOLUÇÃO DOS AUTOS AO JUÍZO DA EXECUÇÃO PARA FIXAÇÃO DOS HONORÁRIOS. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que por ela impugnado o pedido de cumprimento de sentença, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito, nos termos do art. 85, § 7º, do CPC/2015.
+2. A fixação dos honorários no cumprimento de sentença deverá ser realizada pelo d. Juízo da Execução, onde formulado o pedido, uma vez que o Tribunal de origem apenas manteve a decisão de primeira instância objeto do agravo de instrumento.
+3. Agravo interno parcialmente provido. (AgInt no REsp n. 2.039.422/RS, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 17/8/2023.) (Grifei).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO OFERTADA PELO DEVEDOR. ARTIGO 85, § 7º, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É cabível a condenação em honorários advocatícios no cumprimento de sentença contra a Fazenda Pública cujo pagamento ocorrerá através do regime de precatório, na hipótese de apresentação de impugnação pelo devedor, em observância ao artigo 85, § 7º, do CPC/2015, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito. Precedentes.
+3. Agravo interno não provido. (AgInt nos EDcl nos EDcl no REsp n. 2.008.018/RS, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe de 31/5/2023.) (Grifei).
+Confira-se, ainda, nessa linha, as seguintes decisões monocráticas: EDcl no REsp 2.031.834/RS, relator Ministro Paulo Sérgio Domingues, DJe 11/4/2023; REsp 2.039.426/RS, relator Ministro Sérgio Kukina, DJe 27/2/2023; REsp 1.981.799/RS, relator Ministro Gurgel de Faria, DJe 14/10/2022.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
