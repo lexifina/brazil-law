@@ -1,0 +1,75 @@
+DECISÃO
+Em análise, recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, publicado na vigência do CPC/2015 e que se encontra assim ementado:
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. LEVANTAMENTO DE DEPÓSITOS DE IR. CONFERÊNCIA NO AJUSTE ANUAL. IMPOSSIBILIDADE. COISA JULGADA. TRIBUTAÇÃO INEXISTENTE PARA TODOS OS EFEITOS. AGRAVO DE INSTRUMENTO DESPROVIDO.
+I. A sentença transitada em julgado determinou expressamente, no capítulo final, que o contribuinte faria jus à liberação de toda quantia depositada, sem referência a qualquer dedução.
+II. O abatimento, sob o pretexto de ajuste de contas ao final do exercício financeiro, implicaria a inobservância de coisa julgada material.
+III. A natureza complexa do fato gerador do IR, no sentido de que ele compreende as operações de cada mês e as sintetiza ao término do período de apuração, não afeta as verbas excluídas do imposto.
+IV. Se a indenização da estabilidade no emprego não configura a hipótese de incidência do tributo, a inexistência da relação jurídica é total. A contabilização do valor no ajuste anual para efeito de abatimento de saldo devedor daria sobrevida a uma tributação inexistente.
+V. Os efeitos da retenção indevida, devidamente declarada pelo Poder Judiciário, recaíram sobre o próprio contribuinte.
+VI. O crédito do Fisco no exercício deve ser exigido por outros meios, como a execução fiscal. O pagamento, através da inclusão da indenização no ajuste anual, não representa um deles.
+VII. Agravo de instrumento a que se nega provimento.
+Opostos embargos de declaração, em 2º Grau, foram eles rejeitados.
+No recurso especial, o ente público apontou violação ao art. 1.022 do CPC/2015, sustentando a nulidade do acórdão dos embargos de declaração, por supostas omissões não supridas, ao argumento de que, no caso concreto, havia manifestação expressa da Receita Federal, que foi desconsiderada pela decisão judicial, a qual, por sua vez, determinou o levantamento integral dos depósitos pela parte contrária. Segundo o ente público, de rigor era o pronunciamento do Tribunal de origem acerca do disposto nos arts. 142, 151 e 156 do CTN. Ademais, prossegue o ente público, em se tratando de imposto de renda, é indispensável que se verifique se não houve a repetição do indébito na via administrativa ou mesmo o aproveitamento dos valores nas declarações de imposto de renda pessoa física. Sustenta o ente público que é imprescindível a reconstituição da declaração original de ajuste anual, com a dedução das verbas excluídas das bases de cálculo originais de apuração do imposto de renda devido, formando assim uma nova base. Com a nova base, apura-se o valor do imposto de renda devido e o real valor a restituir. Deste valor deve ser subtraído o montante eventualmente já restituído, resultando no quantum a ser devolvido. Trata-se de questão acerca da qual o ente público insiste que era imprescindível o pronunciamento do Tribunal de origem.
+Também apontou violação aos arts. 142, 151, II, e 156, VI, do CTN, sustentando a impossibilidade de levantamento da totalidade dos valores depositados judicialmente pela parte contrária, independentemente da manifestação da Receita Federal, consoante as razões recursais a seguir:
+Ao autorizar a realização de levantamento de quantias depositadas judicialmente, o acórdão recorrido fez tábula rasa dos arts. 142, 151 e 156 do CTN.
+No caso vertente, houve a impetração de mandado de segurança com o objetivo de afastar a incidência de imposto de renda sobre verbas indenizatórias pagas em virtude da rescisão de contrato de trabalho.
+A liminar foi deferida, determinando-se a realização de depósito do valor correspondente ao montante do imposto de renda incidente sobre as verbas supracitadas.
+Com a concessão da segurança e manutenção da sentença por este E. Tribunal, após o trânsito em julgado foi requerido o levantamento integral do depósito.
+Inicialmente, mister se faz ressaltar que a Receita Federal é o único órgão competente para a análise da exatidão dos valores a serem levantados e/ou convertidos em renda.
+Com efeito, em se tratando de imposto de renda pessoa física, é necessário que a autoridade administrativa competente coteje os valores que já foram considerados na DIRPF do Recorrido do exercício referente à rescisão para poder verificar se o valor depositado judicialmente já foi objeto de restituição/dedução em sua declaração de imposto de renda.
+De fato, a Delegacia da Receita Federal deve ser consultada para se manifestar quanto à eventual dedução/restituição ao Recorrido na DIRPF do exercício respectivo dos valores depositados, para que não haja enriquecimento sem causa (art. 884 do CC), nem tampouco prejuízo ao Erário.
+Assim sendo, a decisão recorrida viola a legislação tributária, ao desconsiderar que a Receita Federal é o único órgão competente para elaborar os cálculos acerca dos valores passíveis de levantamento.
+É sabido que apenas a Receita Federal é competente para realizar os cálculos dos valores a serem convertidos e levantados pela embargada. Essa é a única autoridade competente para tal, conforme artigo 142 do CTN:
+ ..
+Ocorre que, o raciocínio adotado pela decisão recorrida não se encontra conforme a metodologia correta de cálculos, que consiste na reconstituição da declaração original de ajuste anual, com a dedução das verbas excluídas pelo julgado das bases de cálculo originais de apuração do IR devido, formando assim uma nova base. Com a nova base apura-se o valor do IR devido e o real valor a restituir. Deste valor deve ser subtraído o montante já restituído, resultando no quantum a ser devolvido.
+Por outro lado, devem ser considerados os arts. 151, II e 156, ambos do CTN, cuja análise levará ao entendimento de que não pode a parte, unilateralmente, estabelecer os percentuais que devem ser levantados e/ou convertidos, tendo em vista compete à autoridade administrativa fiscal apurar e constituir o crédito tributário, somente a ela sendo lícito determinar valores a serem convertidos e/ou levantados, respeitados o quanto decidido na causa, não se cogitando de levantamento ao alvitre do autor por se tratar o depósito de liberalidade, uma vez efetuado, vincula-se ao resultado final da demanda.
+Como sabido, o artigo 151, inciso II, do Código Tributário Nacional preconiza que o depósito do montante integral suspende a exigibilidade do crédito tributário.
+ ..
+De fato, a suspensão da exigibilidade do crédito tributário, na forma prevista no artigo 151, inciso II, do Código Tributário Nacional, reclama o depósito integral das parcelas discutidas. Tal procedimento está, igualmente, relacionado ao depósito do principal na data do vencimento da obrigação tributária, com a alíquota correta, sob pena da incidência dos consectários legais, quais sejam, juros e multa, restando eventual levantamento vinculado ao resultado final da demanda.
+Não procede a afirmação de que, por se tratar de faculdade do contribuinte, o depósito judicial, que regularmente realizado acarreta diversas consequências em relação ao Fisco, pode ser levantado ao seu alvitre, independente do resultado final da demanda ou de prévia oitiva da autoridade fazendária.
+Efetivamente, o depósito judicial, no momento em que realizado, deixa de representar mera faculdade da parte, constituindo nova relação jurídica destinada a garantir a obrigação tributária sub judice.
+Nesse sentido, o entendimento do E. Tribunal Regional Federal da 4ª Região - inclusive com a edição da Súmula 18 - ao apreciar o Agravo de Instrumento no 458.273 (DJ de 15/05/96), sendo relatora a E. Juíza Tânia Terezinha Cardoso Escobar, in verbis:
+ ..
+E há que se considerar, ainda, as dificuldades e percalços a que estará sujeita a União para tentar receber de volta os valores pretendidos para levantamento pela agravada, caracterizando um verdadeiro enriquecimento sem causa, considerando-se, ainda, o problema da decadência a que estão sujeitos os débitos fiscais.
+Assim, não podem prevalecer as planilhas e requerimentos unilateralmente produzidas pelo recorrido, mormente quando existe manifestação da Receita Federal nos autos! Da mesma forma, não merece prevalecer a decisão recorrida, dando pelo levantamento dos depósitos feitos nos autos, desconsiderando-se a necessidade de análise da Receita Federal.
+Esse Superior Tribunal de Justiça já firmou entendimento nos casos de repetição de indébito que é necessário para saber-se o efetivamente devido a análise das declarações de ajuste anual, importando a desconsideração da mesma em excesso de execução:
+ ..
+Por analogia, o levantamento dos depósitos sem a verificação dos ajustes anuais podem resultar, e normalmente resultam, em levantamento a maior. Isso resulta do fato muitas vezes olvidado de que o imposto de renda na fonte não é um imposto mas uma mera antecipação do imposto cujo valor é apurado somente no ajuste anual.
+Não foram apresentadas contrarrazões ao recurso especial.
+É o re latório.
+Passo a decidir.
+O recurso especial deve ser conhecido apenas em parte e, nessa extensão, improvido.
+Inicialmente, quanto à apontada violação ao art. 1.022 do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 218-219):
+O empregador depositou exclusivamente em juízo o valor do imposto que incidiu sobre indenização da estabilidade no emprego, estimada em R$ 89.851,74. O montante de R$ 23.995,65 não se refere a outras verbas rescisórias.
+Sheila Balbino da Silva tem direito ao levantamento da totalidade da importância.
+Em primeiro lugar, a sentença transitada em julgado determinou expressamente, no capítulo final, que o contribuinte faria jus à liberação de toda quantia depositada, sem referência a qualquer dedução.
+O abatimento, sob o pretexto de ajuste de contas ao final do exercício financeiro, implicaria a inobservância de coisa julgada material (artigo 503 do novo CPC).
+Em segundo lugar, a natureza complexa do fato gerador do IR, no sentido de que ele compreende as operações de cada mês e as sintetiza ao término do período de apuração, não afeta as verbas excluídas do imposto.
+Se a indenização da estabilidade no emprego não configura a hipótese de incidência do tributo, a inexistência da relação jurídica é total. A contabilização do valor no ajuste anual para efeito de abatimento de saldo devedor daria sobrevida a uma tributação inexistente.
+Os efeitos da retenção indevida, devidamente declarada pelo Poder Judiciário, recaíram sobre o próprio contribuinte.
+Se o empregador não houvesse retido o montante de IR - o que evitaria a propositura da ação e o depósito judicial -, o recebimento teria sido integral, sem quaisquer deduções.
+O crédito do Fisco no exercício deve ser exigido por outros meios, como a execução fiscal. O pagamento, através da inclusão da indenização no ajuste anual, não representa um deles.
+Ante o exposto, nego provimento ao agravo de instrumento.
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fls. 232-233):
+Os embargos de declaração se destinam a integrar pronunciamento judicial que contenha omissão, obscuridade, contradição ou erro material (artigo 1.022 do novo Código de Processo Civil). Não se prestam à revisão da decisão, a não ser que a superação daqueles vícios produza esse efeito, denominado infringente.
+O acórdão abordou todos os itens essenciais à resolução da controvérsia.
+Ponderou que, com a inexigibilidade de IR sobre indenização de estabilidade no emprego, a contabilização dos depósitos judiciais no ajuste anual não procede, seja porque sentença transitada em julgado determinou a liberação integral, seja porque a inclusão da verba na apuração do saldo credor ou devedor do exercício daria sobrevida a uma tributação inexistente.
+Considerou que, se o montante fosse computado ao final do período, os efeitos da retenção indevida recairiam sobre o próprio contribuinte, que tinha o direito de recebimento integral na época.
+A União, ao argumentar que o órgão julgador deixou de abordar a natureza privativa do lançamento e o papel do ajuste anual na preservação da receita pública, transpõe os limites do simples esclarecimento.
+Deseja claramente rediscutir a matéria, o que demanda o recurso apropriado.
+Ante o exposto, rejeito os embargos de declaração.
+Como se vê, a negativa de prestação jurisdicional não restou configurada, pois a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação ao art. 1.022 do CPC/2015.
+Por outro lado, com relação à apontada violação aos arts. 142, 151, II, e 156, VI, do CTN, constata-se a ausência de impugnação específica, nas razões do recurso especial, do fundamento do acórdão recorrido alusivo à coisa julgada (art. 503 do CPC/2015), fundamento esse autônomo e suficiente à manutenção do acórdão do Tribunal de origem, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
