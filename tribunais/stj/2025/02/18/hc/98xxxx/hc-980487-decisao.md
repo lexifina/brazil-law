@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RODRIGO ALVES DE OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5044165-67.2024.8.24.0000).
+Depreende-se dos autos que o Juízo das execuções indeferiu o pedido de remição de pena (e-STJ fls. 24/25).
+Impetrado habeas corpus, o Tribunal a quo não conheceu da ordem nos termos do acórdão que foi assim ementado (e-STJ fls. 18/19):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. MATÉRIA DE EXECUÇÃO PENAL. REMIÇÃO. PROCEDIMENTO PARA RECONHECER DIREITO À REMIÇÃO DE PENA PELA PARTICIPAÇÃO EM ATIVIDADES DE EDUCAÇÃO ESCOLAR. IMPROPRIEDADE DAVIA ELEITA. IMPETRAÇÃO NÃO CONHECIDA.
+I. CASO EM EXAME.
+1. HABEAS CORPUS EM QUE SE PRETENDE A REFORMA DE DECISÃO DO JUÍZO DA EXECUÇÃO PENAL QUE INDEFERIU A REMIÇÃO DE PENA PELO ESTUDO, DIANTE DA APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO (ENEM), PORQUE O APENADO JÁ TERIA CONCLUÍDO O ENSINO MÉDIO ANTERIORMENTE.
+II. QUESTÕES EM DISCUSSÃO.
+2. HÁ DUAS QUESTÕES PREJUDICIAIS AO MÉRITO: (I) SABER SE HABEAS CORPUS É O REMÉDIO JURÍDICO ADEQUADO PARAREVISAR A DECISÃO; E (II) SABER SE O CASO SE ENQUADRA EMHIPÓTESE QUE JUSTIFIQUE A ATUAÇÃO DE OFÍCIO NA FORMAPREVISTA NO § 2º DO ART. 654 DO CPP.
+III. RAZÕES DE DECIDIR.
+3. A JURISPRUDÊNCIA É COPIOSA EM AFIRMAR QUE, SALVO SITUAÇÕES EXCEPCIONAIS, DE ILEGALIDADE MANIFESTA, ONDE COMPROVADO, DE FORMA IRREFUTÁVEL, QUE A ORDEM PLEITEADA REPERCUTE INSTANTANEAMENTE NA LIBERDADE DO PACIENTE, AS MATÉRIAS AFETAS À EXECUÇÃO PENAL, NOS TERMOS DO ART. 197 DA LEI N. 7.210/1984 (LEI DE EXECUÇÃO PENAL), DEVEM SER COMBATIDAS POR MEIO DE RECURSO PRÓPRIO. OU DE MODO MAIS OBJETIVO, O WRIT NÃO SE PRESTA AO EXAME DE MATÉRIA RELACIONADA À EXECUÇÃO PENAL, À EXCEÇÃO DE CONTEXTO INUSITADO.
+4. A FLUÊNCIA IN ALBIS DO PRAZO PARA RECURSO "NÃO AUTORIZA A ABERTURA DA VIA MANDAMENTAL DE "HABEAS CORPUS", MAS REVELA EVENTUAL DESÍDIA DA DEFESA. PENSAR DEMODO DIVERSO É FAZER LETRA MORTA DO CÓDIGO DE PROCESSO PENAL. IMPORTANTE GIZAR QUE A AUTORIZAÇÃO PARA IMPETRAÇÃO DE "HABEAS CORPUS" SURGE DO CONSTRANGIMENTO ILEGAL SOFRIDO COM REFLEXO EM POSSÍVEL CERCEAMENTO DA LIBERDADE DE LOCOMOÇÃO (DIREITO DE IR, VIR E FICAR), E NÃODA PERDA DO PRAZO RECURSAL" (STJ, AGRG NO HC N. 656.922/MG,REL. MIN. REYNALDO SOARES DA FONSECA, J. 20/04/2021).5. NA HIPÓTESE DOS AUTOS NÃO SE PODE FALAR EM FLAGRANTE ILEGALIDADE POIS, COMO SE VÊ, A DECISÃO DA INSTÂNCIA PRIMEVA TEM MOTIVAÇÃO, ENCONTRA-SE DEVIDAMENTE FUNDAMENTADA E ADOTA O ENTENDIMENTO MAJORITÁRIO DOS TRIBUNAIS PÁTRIOS. CONSOLIDOU-SE NO SUPERIOR TRIBUNAL DE JUSTIÇA, "ENTENDIMENTO NO SENTIDO DE QUE A REALIZAÇÃO DO MESMO EXAME NÃO DEMONSTRA EVOLUÇÃO, MAS A MERA REITERAÇÃO DA REALIZAÇÃO DE UMA PROVA PARA ABATIMENTO DE PENA, O QUE, OBVIAMENTE,CONSTITUI CONCESSÃO EM DUPLICIDADE DO BENEFÍCIO PELO MESMO FATO, NÃO RESTANDO CONFIGURADO QUALQUER ACRÉSCIMO INTELECTUAL" (STJ, AGRG NO HC 592.511/SC, REL. MIN. FELIX FISCHER, J. 08/09/2020).
+IV. DISPOSITIVO E TESE.
+6. HABEAS CORPUS NÃO CONHECIDO.
+TESE DE JULGAMENTO: NÃO DEVE SER CONHECIDO O PRESENTE HABEAS CORPUS, UMA VEZ QUE FOI APRESENTADO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO PORQUE NÃO HÁ FLAGRANTE ILEGALIDADE NA DECISÃO DO JUÍZO DA EXECUÇÃO PENAL.
+Daí o presente writ, no qual alega a defesa que, tendo em vista a aprovação parcial no Exame Nacional do Ensino Médio - ENEM, o paciente faz jus à remição da pena e que a anterior conclusão do ensino médio por meio do ENCCEJA não obsta o benefício.
+Requer, liminarmente e no mérito, a retificação do cálculo das penas com o reconhecimento da remição de 80 dias da pena imposta ao paciente.
+É o relatório. Decido.
+Verifica-se que essas questões já foram suscitadas no HC n. 946.537/SC, indeferido liminarmente por decisão de minha lavra transitada em julgado em 1º/10/2025.
+Dessa forma, o presente writ constitui mera reiteração de pedido formulado em habeas corpus anteriormente distribuído, providência vedada pela jurisprudência desta Corte Superior. No mesmo sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDOS JÁ FORMULADOS NO HABEAS CORPUS N. 701.258/RS, PREVIAMENTE IMPETRADO NO STJ. DESCABIMENTO. CONTEMPORANEIDADE. POSSIBILIDADE. MANUTENÇÃO DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO.
+1. Não há falar em ofensa ao princípio da colegialidade, em razão de se ter negado provimento ao recurso por meio de decisão unipessoal, pois o art. 210 do RISTJ dispõe que, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 10/12/2019).
+3. No caso, a fundamentação da segregação cautelar já foi analisada no writ previamente impetrado perante esta Corte Superior de Justiça, tendo sido por mim asseverado que o delito  foi  cometido com notas de execução, com envolvimento de facções criminosas e que os agentes apresentam diversidade de antecedentes criminais, o que representa fundamento concreto para a manutenção da prisão cautelar.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 161.267/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO INDÉBITA. CONDENAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MERA REITERAÇÃO DE MANDAMUS JÁ JULGADO POR ESTA CORTE SUPERIOR. INADMISSIBILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA ANÁLISE DE INSURGÊNCIA CONTRA SEUS PRÓPRIOS JULGADOS. AGRAVO DESPROVIDO.
+1. Os pedidos aqui formulados são idênticos aos formulados no HC 700.113/PR, o qual, não foi conhecido em decisão por mim proferida em 16/10/2021, após o que foram rejeitados os embargos de declaração opostos. Verifica-se que ambas as impetrações se insurgem contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação Criminal n. 0010907-90.2018.8.16.0031 e trazem as mesmas alegações.
+2. Esta Corte Superior não é competente para julgamento das insurgências contra seus próprios julgados, razão pela qual não há falar em conhecimento da impugnação relativa ao julgamento do HC 700.113/PR.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 733.916/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022, grifei.)
+À vista do exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
