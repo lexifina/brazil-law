@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 12/02/2025 a 18/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. ATO DE IMPROBIDADE. INADMISSIBILIDADE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Trata-se de reclamação por incompatibilidade entre o que ficou decidido no acórdão reclamado e a jurisprudência do Superior Tribunal de Justiça, em decorrência de ação pela prática de ato de improbidade administrativa. Esta Corte indeferiu liminarmente a ação.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+III - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+IV - Os vícios apontados pela parte embargante, relacionados à admissibilidade da reclamação, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+V - Embargos de declaração rejeitados.
+RELATÓRIO
+Não se conheceu da reclamação ajuizada por Cleide Mércia dos Santos.
+A ação visa reformar acórdão do Tribunal de Justiça do Estado de Goiás, nos termos assim ementados:
+EMBARGOS DE DECLARAÇÃO EM DUPLA APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA . DESCONTOS ILEGAIS DE TRIBUTOS. RENÚNCIA DE RECEITA. PREJUÍZO AO ERÁRIO. RESSARCIMENTO DO DANO. NOVA REDAÇÃO DADA PELA LEI 14.230/2021. PREQUESTIONAMENTO. EMBARGOS ACOLHIDOS.
+I - Os embargos de declaração prestam-se a esclarecer ou sanar vícios de fundamentação apostos na decisão judicial e que nomeadamente comprometam sua clareza (obscuridade, contradição, erro material), ou que denotem deficiência sobre questão controvertida entre as partes (omissão).
+II - Na presente hipótese, evidencia-se que não foi levado em consideração o argumento do Recorrente quanto ao caput do art. 12 da Lei de Improbidade Administrativa, dado pela nova redação da Lei n. 14.230/2021, o que acarreta omissão no julgado, nos termos do parágrafo único do art. 1.022 do CPC c/c art. 489, §1º, IV, do CPC.
+III - Em caso de atos de improbidade administrativa que causem prejuízo ao erário, além das cominações previstas no inciso II, do art. 12 da LIA, o caput do referido artigo prevê o ressarcimento integral do dano patrimonial, razão pela qual merece reforma a sentença, com o fito de condenar a Requerida ao ressarcimento integral do dano ao erário, de forma cumulativa com as sanções já aplicadas no bojo do ato sentencial.
+IV - O diploma processual civil reconhece a possibilidade de o presente recurso viabilizar o prequestionamento ficto (art. 1.025, CPC).
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS.
+Trata-se de reclamação por incompatibilidade entre o que ficou decidido no acórdão reclamado e a jurisprudência do Superior Tribunal de Justiça, em decorrência de ação pela prática de ato de improbidade administrativa. Esta Corte indeferiu liminarmente a ação.
+Na reclamação, Cleide Mércia dos Santos alega a incompatibilidade entre o que ficou decidido no acórdão reclamado e a jurisprudência do Superior Tribunal de Justiça.
+Tece diversas digressões sobre o mérito da causa, afirmando, com o intuito de justificar o cabimento da reclamação, que (fls. 18-19):
+Como esclarecido alhures, o Acórdão atacado estabeleceu dolo genérico quanto aos supostos atos praticados pela requerente que feriram princípios da administração pública. Entretanto, repete-se: ela não foi condenada por ferir princípios da administração pública, nos termos do art. 11 da LIA, o que é bastante para demonstrar que a figura do dolo genérico contida no Acórdão impugnado não tem importância para o deslinde desta Reclamação. Todavia, é interessante apontar, neste aspecto, que com o advento da reforma da LIA pela lei 14.230/2021, o dolo genérico passou a não ser suficiente para condenar por ato de improbidade administrativa, exigindo para tanto dolo específico, seja de causar dano ao erário, de enriquecer ilicitamente ou de ferir princípios da administração pública, como se vê do Acórdão proferido no REsp n. 1.913.638/MA. Portanto, o Acórdão impugnado, mesmo que tivesse estabelecido o dolo genérico como elemento de vontade da requerente de causar lesão ao erário, mas não foi (apenas culpa, negligência), seria contrário ao entendimento deste Colendo STJ definido no REsp n. 1.913.638/MA, onde se definiu que apenas os atos praticados com dolo específico de causar dano ao erário devem ser punidos como ímprobos, não sendo mais suficiente o dolo genérico para a condenação por improbidade administrativa.
+Alega que, manejado recurso especial, a Presidência do Tribunal de origem proferiu decisão híbrida na qual não admitiu o recurso, com base na Súmula n. 284 do STF, e negou-lhe seguimento em razão da conformidade entre o acórdão recorrido e o entendimento constante do Tema n. 1.199 do STF.
+Aduz que interpôs agravo interno e agravo em recurso especial contra a referida decisão. O Tribunal de origem negou provimento ao agravo interno e determinou a remessa do agravo em recurso especial para o Superior Tribunal de Justiça.
+Pleiteia o deferimento de liminar para que seja determinada a suspensão do processo principal.
+Ao final, pugna pela procedência da reclamação para que seja cassado o acórdão impugnado.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, não conheço da reclamação, prejudicado o pedido liminar."
+A Primeira Seção negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECLAMAÇÃO. ATO DE IMPROBIDADE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de reclamação incompatibilidade entre o que ficou decidido no acórdão reclamado e a jurisprudência do Superior Tribunal de Justiça, em decorrência de ação pela prática de ato de improbidade administrativa. A reclamação foi liminarmente indeferida.
+II - A reclamação que é da atribuição desta Corte Superior está prevista no art. 105, I, f, da Constituição Federal e constitui garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou à garantia da autoridade de suas decisões, em caso de descumprimento de seus julgados.
+III - No tocante à alegação de descumprimento de julgado deste Tribunal Superior, o cabimento da reclamação exige a demonstração de que há aderência estrita entre o objeto do ato reclamado e o conteúdo do provimento jurisdicional especificamente proferido pelo STJ para a relação processual originária. A propósito do tema, veja-se o que dispõe o art. 187 do Regimento Interno do STJ: "Art. 187. Para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária."
+IV - No caso dos autos, os atos reclamados não desrespeitaram decisão ou ordem do STJ que tenha sido vertida em caso relacionado ao da reclamante, sendo pacífico o entendimento de que não se admite o ajuizamento de reclamação como sucedâneo recursal, isto é, para dirimir divergência jurisprudencial entre o provimento reclamado e precedentes desta Corte Superior. Nesse sentido: AgRg na Rcl n. 45.646/SC, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 18/6/2024, DJe de 21/6/2024; AgInt na Rcl n. 46.219/AP, relator Ministro Humberto Martins, Segunda Seção, julgado em 5/3/2024, DJe de 8/3/2024.)
+V - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+.. omissão, nos termos do art. 489, § 1º, IV, c/c art. 1.022, II e § único, II, todos do CPC/2015, visto que não enfrentou argumento deduzido neste feito capaz de infirmar a conclusão que não conheceu esta Reclamação, qual seja, de que é cabível a Reclamação formulada contra Acórdão teratológico, que é o caso do Acórdão do TJGO reclamado, a fim de que prevaleça as decisões do STJ tomadas em Recursos Repetitivos, mesmo que não exista Decisão específica conferida à reclamante pelo STJ desrespeitada pelo Tribunal de origem (aderência estrita).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. ATO DE IMPROBIDADE. INADMISSIBILIDADE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Trata-se de reclamação por incompatibilidade entre o que ficou decidido no acórdão reclamado e a jurisprudência do Superior Tribunal de Justiça, em decorrência de ação pela prática de ato de improbidade administrativa. Esta Corte indeferiu liminarmente a ação.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+III - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+IV - Os vícios apontados pela parte embargante, relacionados à admissibilidade da reclamação, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+V - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à admissibilidade da reclamação, foram tratados no acórdão embargado, o que afasta a alegação de omissão, nos termos assim expostos:
+(..)
+No caso dos autos, os atos reclamados não desrespeitaram decisão ou ordem do STJ que tenha sido vertida em caso relacionado ao da reclamante, sendo pacífico o entendimento de que não se admite o ajuizamento de reclamação como sucedâneo recursal, isto é, para dirimir divergência jurisprudencial entre o provimento reclamado e precedentes desta Corte Superior.
+Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+O fato do requerente ter sido absolvido por ausência de prova em ação de improbidade distinta (5050840-16.2020.8.09.0158), conforme veiculado na PET 01091571/2024 (fls. 287-303) não altera a presente conclusão. Isso porque a reclamação não pode ser utilizada como sucedâneo recursal. A parte deverá manejar os recursos cabíveis no bojo dos autos originários para obter a reapreciação da causa ao invés de pretender obter tal intento na estreita via dos embargos de declaração. Totalmente descabido buscar, no âmbito da reclamação, o cotejo entre a decisão do TJGO no âmbito da ação 5050840-16.2020.8.09.0158 e o caso vertente.
+Ante o exposto, rejeito os embargos de declaração, com observações .
+É o voto.
