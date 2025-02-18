@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SÃO PAULO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+AGRAVO DE INSTRUMENTO Cumprimento de sentença contra a Fazenda Pública Restituição de valores escriturais ICMS-ST Creditamento extemporâneo Atualização monetária Incide, por analogia à espécie, o disposto no Tema n.º 164/STJ ("É devida a correção monetária sobre o valor referente a créditos de IPI admitidos extemporaneamente pelo Fisco") e Súmula n.º 411/STJ ("É devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco") Precedentes Decisão mantida, com fundamento nos arts. 926 e 927, inciso III, Código de Processo Civil Recurso desprovido.
+A parte recorrente alega, em síntese (fls. 57/69):
+Trata-se de pleito em face de execução referente ao pedido de restituição do ICMS-ST. O cerne da controvérsia é que o título executivo somente previu a incidência de juros e correção monetária para o caso de repetição do indébito do ICMS-ST e não para o creditamento extemporâneo, uma vez que não disposto de forma expressa e tampouco reflete o posicionamento dos Tribunais Superiores aptos a ensejar essa suposta presunção. Sucede que o TJ/SP equivocadamente permitiu a atualização do crédito escritural de ICMS-ST sem fundamento em lei, no título executivo e mesmo no posicionamento dos Tribunais Superiores  ..  o acórdão proferido na fase de conhecimento foi expresso em determinar a restituição do indébito nos termos da orientação do STJ, inclusive mencionando a Súmula 188/STJ e o art. 167/CTN, que se referem a restituição do indébito (e não ao creditamento extemporâneo)
+Assim, irresignada, a recorrente interpõe o presente recurso especial em razão da violação aos arts. 503, 927, II, III do CPC/2015 e 167 do CTN.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na Súmula 7 do STJ, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 44/51):
+Insurge-se o agravante Estado de São Paulo em face da r. decisão de fls. 131 que, em sede de cumprimento de sentença contra a Fazenda Pública, rejeitou sua impugnação, quanto à ausência de determinação quanto à atualização monetária de crédito escritural, nos seguintes termos:
+"Vistos. Sem razão a executada; o título executivo determinou a correção monetária pelo IPCA-E desde o pagamento indevido até o trânsito em julgado, quando, então, haverá acréscimo pela SELIC.
+Por isso, cumpra a executada integralmente a obrigação de fazer, de modo que a decisão a respeito do pedido de ressarcimento englobe os encargos aqui mencionados. Intime-se".
+Nenhum reparo comporta a r. decisão.
+De fato, como ressalvado pela Exma. Des.ª Luciana Almeida Prado Bresciani às fls. 12/14, incide na espécie o disposto no recurso representativo de controvérsia RE Sp n.º 1.035.847/RS, afetado ao Tema n.º 164/STJ: "É devida a correção monetária sobre o valor referente a créditos de IPI admitidos extemporaneamente pelo Fisco".
+E, ainda, Súmula n.º 411/STJ: "É devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco".
+ ..
+Por fim, não incide o disposto no art. 38, § 2.º, da Lei Estadual n.º 6.374/89, que determina que "o crédito deve ser escriturado por seu valor nominal", haja vista se tratar de hipótese excepcional, derivada de negativa ilegítima do Fisco em aceitar a escrituração do crédito do imposto.
+Correta, pois, a r. decisão agravada ao determinar a incidência da correção monetária sobre o crédito escritural extemporâneo, nos termos do título executivo exequendo, cuja manutenção se impõe com fundamento nos arts. 926, caput, e 927, inciso III, do Código de Processo Civil1. Considera-se prequestionada toda matéria infraconstitucional e constitucional aventada, observado que é desnecessária a citação numérica dos dispositivos legais, bastando que a questão tenha sido analisada.
+Pois bem.
+Do que se observa, está correta a decisão de inadmissão, pois, considerada a premissa fática descrita no acórdão recorrido, segundo a qual "o título executivo determinou a correção monetária pelo IPCA-E desde o pagamento indevido até o trânsito em julgado, quando, então, haverá acréscimo pela SELIC", não há como, sem reexame de prova, proceder à revisão do acórdão recorrido.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
