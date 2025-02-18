@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública do Estado de São Paulo em favor de ERICKSON KENNEDY LUCENA DE OLIVEIRA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501923-98.2021.8.26.0309.
+O Tribunal de origem rejeitou a preliminar e deu parcial provimento ao recurso de apelação, tão somente para afastar o bis in idem ocorrido com a dupla consideração da quantidade e natureza da droga em duas fases dosimétricas, sem alteração da pena final.
+O paciente foi condenado à pena de 6 (seis) anos de reclusão, em regime fechado, e 600 (seiscentos) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/06.
+A impetrante alega constrangimento ilegal decorrente da ilicitude das provas obtidas por meio da abordagem e busca pessoal/veicular, sustentando ausência de justa causa antecedente. Argumenta a nulidade da condenação por perda de uma chance probatória e prova colhida sem advertência quanto ao direito ao silêncio. Postula, ainda, a fixação da pena-base no mínimo legal, a aplicação do redutor do tráfico privilegiado e o estabelecimento de regime mais brando.
+O pedido liminar foi indeferido (fls. 422-423).
+Informações prestadas às fls. 431-457 e 458-486.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus ou, caso conhecido, pela denegação da ordem (fls. 490-495).
+É o relatório.
+DECIDO.
+O habeas corpus foi impetrado como substitutivo de recurso próprio/revisão criminal.
+Esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Portanto, não cabe habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não se verifica flagrante ilegalidade.
+Em relação à busca pessoal e veicular, conforme registrado pelo Tribunal de origem (fl. 401):
+Conclui-se dos relatos policiais que os réus estavam em um veículo e o frearam bruscamente ao avistar a viatura policial, causa antecedente que basta a justificar a ação policial.
+Os réus estava trafegando em via pública e, ao avistarem a viatura, demonstraram nervosismo, pois frearam bruscamente o veículo e tentaram mudar a direção de condução, ou seja, tentaram realizar uma manobra evasiva.
+A evidente tentativa dos réus de empreender fuga justifica a abordagem policial.
+O acórdão impugnado está em consonância com o entendimento desta Corte no sentido de que a tentativa de se evadir ao avistar a presença policial constitui fundada suspeita para a realização da busca pessoal e veicular (AgRg no HC n. 924.452/DF, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/10/2024, DJe de 6/11/2024.)
+Lado outro, defende a impetrante a ocorrência de perda de uma chance probatória, ao argumento de que a condenação foi fundamentada exclusivamente no depoimento dos policiais e que ao subtrair do Juízo todos os elementos probatórios que poderiam influir na causa, retira-se do réu a possibilidade de defender-se no processo (fl. 12).
+Sobre o tema, esta Corte possui entendimento no sentido de que
+as palavras dos agentes policiais - conquanto gozem, pelo prisma administrativo, de presunção de veracidade, de imperatividade e autoexecutoriedade -, para fins de validade e eficácia probatória no bojo na persecução criminal, devem ser cotejadas e confirmadas pelo Estado-julgador (sob a égide do sistema do livre convencimento motivado) com as demais provas coligidas aos autos, para fins de condenação, porquanto despidas de qualquer hierarquia (legal) na topografia normativa adjacente ou distinção epistemológica, como ordinário meio probatório (AgRg no AREsp n. 2.596.532/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 10/12/2024, DJe de 16/12/2024.)
+Na hipótese, a condenação apresentou fundamentação suficiente e idônea, tendo o Tribunal de origem destacado (fl. 404):
+A tese defensiva de insuficiência probatória igualmente não merece guarida.
+Há suficientes provas de materialidade e autoria a ensejar a condenação.
+A negativa do réu restou isolada nos autos, sendo de se destacar que não apresentou qualquer documentação hábil a comprovar a venda do suposto veículo, tampouco soube declinar o nome de quem o teria adquirido.
+Não obstante o grande esforço da d. defesa, que exaustivamente escrutinou as testemunhas policiais, não logrou êxito em demonstrar qualquer contradição, pois mesmo após dois anos dos fatos, seus relatos permaneceram coesos e contundentes, nada sendo apontado que os descredibilizasse ou que levasse à conclusão de que pretendiam incriminar injustamente o réu.
+Ressalte-se, ainda sobre esse tema, que não há notícia nos autos de qualquer diligência requerida pela defesa, que tivesse sido indeferida imotivadamente pelo Juízo, de modo que não é válida a alegação de perda de uma chance probatória para demonstrar suposta inocência do acusado.
+Quanto à alegação de nulidade da confissão informal por ausência de advertência quanto ao direito ao silêncio, o acórdão consignou que a "confissão informal", em resposta às indagações policiais, não se prestou a fundamentar a condenação, mas orientou a ação policial no momento do flagrante, pois sem esta, certamente, os agentes públicos não localizariam a considerável quantidade de droga apreendida (fl. 406).
+Não há, assim, ilegalidade, pois, nos termos da jurisprudência desta Corte, "a legislação processual penal não exige que os policiais, no momento da abordagem, cientifiquem o abordado quanto ao seu direito em permanecer em silêncio (Aviso de Miranda), uma vez que tal prática somente é exigida nos interrogatórios policial e judicial" (AgRg no AREsp n. 2.308.317/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024).
+No tocante à dosimetria, o acórdão afastou o bis in idem na consideração da quantidade e natureza da droga, mantendo-se, contudo, o incremento na primeira fase em razão da expressiva quantidade de entorpecentes apreendidos (201 porções de cocaína, 460 porções de crack e 161 porções de maconha).
+O regime fechado foi fundamentado na gravidade concreta do delito e na dedicação à atividade criminosa, evidenciada pela existência de mais de uma ação penal pela prática de crime idêntico, circunstância que também obstou a aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/06. Confira-se (fls. 407-408):
+Na derradeira fase dosimétrica, não é o caso de se reconhecer a causa especial de diminuição de pena, eis que, conquanto afastada a quantidade e natureza da droga, persiste a "dedicação do acusado ao crime".
+Observe-se que o sentenciado, em 30/01/2020, já havia incorrido em crime de tráfico de drogas (Proc. nº 1500257-70.2020.8.26.0544), sendo condenado em 04/10/2021 e beneficiado com a causa especial de diminuição.
+Posteriormente, como respondia ao feito em liberdade, incorreu na mesma prática delitiva. O crime ora apurado foi cometido no dia 02 de março de 2021, sendo deferido, novamente, o direito de responder em liberdade.
+Então, em 25/11/2021, o réu tornou a ser preso em flagrante por crime de tráfico de drogas, demonstrando fartamente que sua segregação é necessária, sob risco de violar a lei uma outra vez.
+Trata-se de traficante contumaz, que faz desse crime seu meio de vida e não faz jus à concessão da figura privilegiada.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
