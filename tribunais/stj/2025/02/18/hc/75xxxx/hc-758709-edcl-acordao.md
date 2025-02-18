@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE VÍCIOS. NOMEAÇÃO DE DEFENSOR DATIVO. REGULARIDADE. INTIMAÇÃO VÁLIDA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do artigo 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, o que não é o caso dos autos.
+2. Inexiste ilegalidade na nomeação de defensor dativo quando, após a intimação pessoal do réu para constituir nova defesa diante da inércia do advogado anteriormente constituído, o prazo transcorre sem manifestação.
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, havendo pluralidade de advogados, é válida a intimação realizada em nome de apenas um deles, salvo se houver pedido expresso em contrário.
+4. A mera insatisfação com o resultado do julgamento não autoriza a oposição de embargos de declaração, não sendo a via adequada para rediscussão da matéria já apreciada.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por FÁBIO ROCHA (fls. 165/169) ao acórdão proferido pela Sexta Turma desta Corte Superior de Justiça, de relatoria do Ministro TEODORO SILVA SANTOS (fls. 155/160), ementado nos seguintes termos (fl. 153):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. INÉRCIA DA DEFESA. INTIMAÇÃO DO RÉU PARA CONSTITUIR NOVO ADVOGADO. POSTERIOR NOMEAÇÃO DE DEFENSOR DATIVO. REGULARIDADE. AUSÊNCIA DE PEDIDO EXPRESSO DE INTIMAÇÃO DE TODOS OS CAUSÍDICOS CONSTITUÍDOS. NULIDADE NÃO CONSTATADA. RECURSO DESPROVIDO. 1. É firme a jurisprudência desta Corte no sentido de que "não havendo pedido expresso para que as intimações sejam realizadas exclusivamente em nome de determinado advogado ou ainda em nome de todos os patronos, é suficiente para a validade do ato processual a intimação de apenas um dos causídicos quando o réu é representado por mais de um advogado"(HC n. 536.255/PA, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/12/2020, DJe de 18/12/2020). 2. No caso, não consta dos autos nenhuma menção a pedido expresso da Defesa para que as intimações fossem realizados em nome de todos os defensores constituídos. Logo, a intimação em nome de um dos causídicos, seguida de inércia daquele, intimação pessoal do réu e, só então, nomeação de advogado dativo não macula o exercício do direito de defesa, notadamente considerando que o novo defensor realizou o ato para o qual o patrono inicialmente constituído foi intimado, mas não o fez. 3. Agravo regimental desprovido.
+Alega o embargante que foi prejudicado pela nomeação de uma defensora dativa, mesmo possuindo outros dois advogados constituídos.
+Aduz que houve o abandono da causa por parte de um dos advogados originais (Dr. Marco Aurélio Bertoli), mas que ainda mantinha como patronos o Dr. Ralf José Schmitz (OAB/SC 12.749) e o Dr. Gilberto José Carlini (OAB/SC 4.538), conforme se verifica no evento 40 dos autos n. 0900037-36.2014.8.24.0141 (PROC898).
+Acrescenta que o Magistrado de primeiro grau, mesmo ciente da existência de outros dois advogados regularmente constituídos, nomeou uma defensora dativa (evento 369 dos autos n. 0900037-36.2014.8.24.0141) para exercer sua defesa, o que lhe causou prejuízos.
+Assevera que a defensora dativa não apresentou memoriais, não realizou sustentação oral e não interpôs recurso especial e/ou extraordinário, o que resultou no trânsito em julgado do acórdão e na expedição de mandado de prisão.
+O embargante cita jurisprudência desta Corte (RHC n. 39.746/SP) para sustentar a ilegalidade da nomeação de defensor dativo quando o réu ainda possui advogados constituídos. Argumenta que sua situação é análoga ao precedente citado, no qual o paciente possuía três advogados, um faleceu, e mesmo intimado para constituir novo defensor, não o fez por já possuir outros dois devidamente constituídos.
+Requer o acolhimento dos presentes embargos para que seja suprida a omissão, manifestando-se esta Egrégia Turma quanto à legalidade da nomeação de profissional dativo para réu que possui advogados regularmente constituídos.
+Ademais, caso reconhecida a ilegalidade, pleiteia a atribuição de efeitos infringentes para determinar a anulação da ação penal a partir da nomeação da defensora dativa, determinando-se ainda a intimação dos advogados constituídos (Ralf José Schmitz - OAB/SC 12.749 e Gilberto José Carlini - OAB/SC 4.538) para que prossigam com a defesa, conforme requerido no habeas corpus.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE VÍCIOS. NOMEAÇÃO DE DEFENSOR DATIVO. REGULARIDADE. INTIMAÇÃO VÁLIDA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do artigo 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, o que não é o caso dos autos.
+2. Inexiste ilegalidade na nomeação de defensor dativo quando, após a intimação pessoal do réu para constituir nova defesa diante da inércia do advogado anteriormente constituído, o prazo transcorre sem manifestação.
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, havendo pluralidade de advogados, é válida a intimação realizada em nome de apenas um deles, salvo se houver pedido expresso em contrário.
+4. A mera insatisfação com o resultado do julgamento não autoriza a oposição de embargos de declaração, não sendo a via adequada para rediscussão da matéria já apreciada.
+5. Embargos de declaração rejeitados.
+VOTO
+A decisão embargada foi assim fundamentada (fls. 156-160):
+De início, repisa-se que o Tribunal a quo consignou o seguinte a respeito da questão controvertida (fls. 10-12; grifos diversos do original):
+A controvérsia centra-se em averiguar se houve violação do referido preceito a partir do momento em que foi nomeada defensora dativa para apresentar razões recursais em favor do paciente.
+Do feito originário, extrai-se que o paciente Fabio Rocha e o interessado Thomaz Avelino Rocha foram condenados pela prática, por noventa e quatro vezes, do delito previsto no artigo 1º, incisos I e II, c/c art. 12, I, ambos da Lei 8.137/1990 (evento 330/PG).
+Foram interpostos recursos pelos dois acusados (eventos 342 e 343/PG), de modo que, devidamente intimados para apresentarem as razões recursais, deixaram fluir o respectivo prazo (eventos 351 e 352/PG).
+ ..
+Em consulta aos autos originários (Processo n. 0900037-36.2014.8.24.0141), verifica-se que, em 13/08/2015, foi juntada defesa prévia do ora Paciente, bem como procuração em favor dos advogados Marco Aurélio Bertoli (OAB/SC n. 5298), Ralf José Schmitz (OAB/SC n. 12.479) e Gilberto Jose Carlini (OAB/SC n. 4.538) - evento 40.
+Após sentença condenatória (evento 330) e interposição de recurso de apelação, o advogado constituído Marco Aurélio Bertoli foi devidamente intimado para a apresentação das contrarrazões da apelação do recurso ministerial, bem como para a apresentação das razões de apelação (evento 351). Entretanto, o prazo transcorreu in albis (evento 354).
+Diante disso, o ora Paciente foi intimado pessoalmente para constituir nova Defesa nos autos (evento 375). Decorrido o prazo sem manifestação do réu (evento 376), foi nomeado defensor dativo (evento 377), que apresentou razões recursais (evento 380).
+Nos termos do artigo 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão.
+No caso em tela, não se verifica a presença de nenhum dos vícios elencados no dispositivo legal supracitado. O que se observa, na realidade, é a mera insatisfação do embargante com o resultado do julgamento, buscando rediscutir matéria já apreciada por esta Corte.
+Conforme exposto na decisão embargada, o advogado constituído Marco Aurélio Bertoli foi devidamente intimado para apresentar as razões recursais, mas quedou-se inerte. Diante disso, o paciente foi intimado pessoalmente para constituir nova Defesa, e somente após o decurso do prazo sem manifestação é que foi nomeado defensor dativo.
+Não há, portanto, ilegalidade na nomeação do defensor dativo, uma vez que foram observados todos os procedimentos legais para garantir a ampla defesa do paciente. A alegação de que existiam outros advogados constituídos não altera essa conclusão, pois cabia ao paciente, quando intimado, indicar qual dos advogados deveria ser intimado para os atos processuais subsequentes.
+Ademais, conforme jurisprudência pacífica desta Corte,
+(..) estando a parte representada por mais de um advogado, basta que a intimação seja realizada em nome de um deles para a validade dos atos processuais, salvo quando há pedido expresso no sentido de que as publicações sejam efetivadas exclusivamente em nome de determinado patrono ou de todos os procuradores (EDcl no AgRg no REsp n. 1.187.006/DF, relator Ministro Hamilton Carvalhido, Primeira Turma, julgado em 12/4/2011, DJe de 25/4/2011).
+Nesse mesmo sentido:
+HABEAS CORPUS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. VÍCIO NA PUBLICAÇÃO DO ACÓRDÃO DO RECURSO DE APELAÇÃO. PLURALIDADE DE ADVOGADOS. AUSÊNCIA DE REQUERIMENTO DE QUE AS INTIMAÇÕES FOSSEM DIRIGIDAS A TODOS OS PROCURADORES. VALIDADE DA PUBLICAÇÃO. INEXISTÊNCIA DE NULIDADE. ORDEM DENEGADA.
+1. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que a intimação de um dos vários advogados da parte é, em regra, válida e eficaz, de modo que prescindível seja a intimação dirigida a todos eles.
+2. In casu, há de se ressaltar que não houve requerimento, por ocasião da juntada do substabelecimento de procuração, no sentido de que as publicações fossem realizadas em nome de todos os patronos constituídos.
+3. Ainda que assim não fosse, insta consignar que não se logrou demonstrar a existência de qualquer prejuízo com a intimação em nome de um dos advogados, havendo de se aplicar o princípio pas de nullitté sans grief.
+4. Ordem denegada.
+(HC n. 224.523/PA, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 15/8/2013, DJe de 23/8/2013)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
