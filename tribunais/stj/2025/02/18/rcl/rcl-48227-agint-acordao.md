@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 12/02/2025 a 18/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Impedida a Sra. Ministra Nancy Andrighi.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. DECISÃO DO TRIBUNAL DE ORIGEM QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM BASE EM PRECEDENTES REPETITIVOS DO STJ. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO MEIO PARA REVISÃO DA APLICAÇÃO DE TESE REPETITIVA. AUSÊNCIA DE CABIMENTO. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por Rede Brisas Premium Comércio de Combustíveis Ltda. e outra contra decisão que não conheceu de reclamação constitucional, extinguindo o feito sem resolução de mérito. As agravantes sustentam que os precedentes jurisprudenciais aplicados pelo Tribunal de origem (Temas 25, 576 e 620/STJ) não possuem similitude fático-processual com o caso concreto, buscando, assim, a revisão da decisão e o provimento do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) verificar se é cabível a reclamação constitucional para revisar a aplicação de precedentes firmados em julgamento de recursos especiais repetitivos; e
+(ii) determinar se a sistemática recursal do CPC/2015 admite o uso da reclamação como sucedâneo recursal para questionar decisões de tribunais locais que negam seguimento ao recurso especial com fundamento em precedentes repetitivos do STJ.
+III. RAZÕES DE DECIDIR
+3. A reclamação constitucional não se presta à revisão da aplicação de precedentes repetitivos (art. 988, IV, do CPC/2015), pois o Código de Processo Civil de 2015, com a alteração promovida pela Lei n. 13.256/2016, suprimiu o cabimento da reclamação para a observância de precedentes oriundos de recursos especiais repetitivos.
+4. O entendimento consolidado pela Corte Especial do STJ no julgamento da Reclamação n. 36.476/SP reconhece que a aplicação de precedentes repetitivos deve ser discutida no âmbito da própria Corte local, por meio de agravo interno (art. 1.030, § 2º, do CPC/2015), não cabendo reclamação ao STJ para esse fim.
+5. A sistemática dos recursos repetitivos visa à uniformização da interpretação da lei federal, delegando às instâncias ordinárias a aplicação individualizada das teses jurídicas firmadas pelo STJ, sendo incabível a reclamação como sucedâneo recursal para revisar tais aplicações.
+6. A manutenção da decisão agravada é medida que se impõe, diante da inadequação da via eleita e da jurisprudência consolidada desta Corte Superior sobre o tema.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de fls. 470-473, que não conheceu da reclamação, extinguindo o feito sem julgamento de mérito.
+Sustenta a parte agravante, em síntese, que a reclamação "preenche todos os requisitos formais e materiais para ser recebida e processada, porquanto os precedentes jurisprudenciais invocados pelo Egrégio Tribunal de Justiça de São Paulo, para se negar seguimento ao Recurso Especial das Agravantes, consistente nos julgamentos proferidos nos Temas nºs 576/STJ, 25/STJ, e 620/STJ, por Egrégio Superior Tribunal de Justiça, JAMAIS poderão ser aplicados no caso concreto, diante da total ausência de similitude fático-processual entre a presente demanda e referidos paradigmas" (fl. 481).
+Requer o provimento do agravo para conhecer da reclamação, julgando-a procedente, de modo a dar provimento o recurso especial.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. DECISÃO DO TRIBUNAL DE ORIGEM QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM BASE EM PRECEDENTES REPETITIVOS DO STJ. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO MEIO PARA REVISÃO DA APLICAÇÃO DE TESE REPETITIVA. AUSÊNCIA DE CABIMENTO. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por Rede Brisas Premium Comércio de Combustíveis Ltda. e outra contra decisão que não conheceu de reclamação constitucional, extinguindo o feito sem resolução de mérito. As agravantes sustentam que os precedentes jurisprudenciais aplicados pelo Tribunal de origem (Temas 25, 576 e 620/STJ) não possuem similitude fático-processual com o caso concreto, buscando, assim, a revisão da decisão e o provimento do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) verificar se é cabível a reclamação constitucional para revisar a aplicação de precedentes firmados em julgamento de recursos especiais repetitivos; e
+(ii) determinar se a sistemática recursal do CPC/2015 admite o uso da reclamação como sucedâneo recursal para questionar decisões de tribunais locais que negam seguimento ao recurso especial com fundamento em precedentes repetitivos do STJ.
+III. RAZÕES DE DECIDIR
+3. A reclamação constitucional não se presta à revisão da aplicação de precedentes repetitivos (art. 988, IV, do CPC/2015), pois o Código de Processo Civil de 2015, com a alteração promovida pela Lei n. 13.256/2016, suprimiu o cabimento da reclamação para a observância de precedentes oriundos de recursos especiais repetitivos.
+4. O entendimento consolidado pela Corte Especial do STJ no julgamento da Reclamação n. 36.476/SP reconhece que a aplicação de precedentes repetitivos deve ser discutida no âmbito da própria Corte local, por meio de agravo interno (art. 1.030, § 2º, do CPC/2015), não cabendo reclamação ao STJ para esse fim.
+5. A sistemática dos recursos repetitivos visa à uniformização da interpretação da lei federal, delegando às instâncias ordinárias a aplicação individualizada das teses jurídicas firmadas pelo STJ, sendo incabível a reclamação como sucedâneo recursal para revisar tais aplicações.
+6. A manutenção da decisão agravada é medida que se impõe, diante da inadequação da via eleita e da jurisprudência consolidada desta Corte Superior sobre o tema.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+A decisão agravada foi proferida nos seguintes termos (fls. 470-473):
+Cuida-se de reclamação ajuizada por Rede Brisas Premium Comercio de Combustíveis Ltda. e outra com amparo nos arts. 105, I, f, da CRFB; 988, IV, do CPC/2015 e 187 do RISTJ, contra acórdão proferido pela Câmara Especial de Presidentes do TJSP, o qual negou provimento ao agravo interno, nos termos da seguinte ementa (e-STJ, fls. 277-284):
+AGRAVO INTERNO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. EXEQUIBILIDADE. Lei nº 10.931/2004 (tema 576). Tarifa de cadastro. Cobrança no início do relacionamento entre consumidor e a instituição financeira (tema 620). Juros remuneratórios. Legalidade da estipulação de juros remuneratórios superiores a 12% ao ano (tema 25). Juros remuneratórios. Possibilidade, em qualquer hipótese, de correção para taxa média se verificada abusividade (tema 234). Ausência de demonstração do desacerto da aplicação do entendimento estabelecido no E. STJ em julgamentos repetitivos. Decisão mantida. RECURSO DESPROVIDO.
+Assim, apontam as reclamantes não serem aplicáveis ao caso as teses firmadas por esta Corte Superior em recurso repetitivo, devendo-se reconhecer a abusividade das taxas cobradas pelo banco ora interessado.
+Brevemente relatado, decido.
+De acordo com o entendimento firmado pela Corte Especial do STJ por ocasião do julgamento da Reclamação n. 36.476/SP, não se admite o cabimento de reclamação destinada a vindicar o exame, por esta Corte Superior de Justiça, sobre a aplicação supostamente indevida de precedente oriundo de recurso especial repetitivo pelo Tribunal de origem.
+Nesse importante precedente, prevaleceu a compreensão de que, segundo a sistemática recursal introduzida pelo Código de Processo Civil de 2015, a decisão que nega seguimento ao recurso especial em razão da conformidade entre o acórdão recorrido e o entendimento firmado pelo STJ em recurso especial repetitivo é impugnável apenas por agravo interno no âmbito da própria Corte local.
+O julgado recebeu a seguinte ementa:
+ ..
+De rigor, assim, a observância, pelos órgãos fracionários do STJ, da orientação firmada pela colenda Corte Especial a respeito da falta de cabimento da reclamação em hipóteses como a ora examinada.
+Em arremate, na esteira dos fundamentos acima delineados, não conheço da reclamação, extinguindo o feito sem julgamento de mérito.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+O agravo não deve ser provido.
+A reclamação foi ajuizada contra acórdão proferido pela Câmara Especial de Presidentes do TJSP, que negou provimento ao agravo interno cível 1001446-18.2022.8.26.0077/50001, alegando-se não serem aplicáveis ao caso as teses firmadas por esta Corte Superior em recurso repetitivo, buscando reconhecer a abusividade das taxas cobradas pelo banco interessado, ora agravado.
+De acordo com o entendimento firmado pela Corte Especial do STJ por ocasião do julgamento da Reclamação n. 36.476/SP, não se admite o cabimento de reclamação destinada a vindicar o exame, por esta Corte Superior de Justiça, sobre a aplicação supostamente indevida de precedente oriundo de recurso especial repetitivo pelo Tribunal de origem. Confira-se:
+RECLAMAÇÃO. RECURSO ESPECIAL AO QUAL O TRIBUNAL DE ORIGEM NEGOU SEGUIMENTO, COM FUNDAMENTO NA CONFORMIDADE ENTRE O ACÓRDÃO RECORRIDO E A ORIENTAÇÃO FIRMADA PELO STJ EM RECURSO ESPECIAL REPETITIVO (RESP 1.301.989/RS - TEMA 658). INTERPOSIÇÃO DE AGRAVO INTERNO NO TRIBUNAL LOCAL. DESPROVIMENTO. RECLAMAÇÃO QUE SUSTENTA A INDEVIDA APLICAÇÃO DA TESE, POR SE TRATAR DE HIPÓTESE FÁTICA DISTINTA. DESCABIMENTO. PETIÇÃO INICIAL. INDEFERIMENTO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Cuida-se de reclamação ajuizada contra acórdão do TJ/SP que, em sede de agravo interno, manteve a decisão que negou seguimento ao recurso especial interposto pelos reclamantes, em razão da conformidade do acórdão recorrido com o entendimento firmado pelo STJ no REsp 1.301.989/RS, julgado sob o regime dos recursos especiais repetitivos (Tema 658).
+2. Em sua redação original, o art. 988, IV, do CPC/2015 previa o cabimento de reclamação para garantir a observância de precedente proferido em julgamento de "casos repetitivos", os quais, conforme o disposto no art. 928 do Código, abrangem o incidente de resolução de demandas repetitivas (IRDR) e os recursos especial e extraordinário repetitivos.
+3. Todavia, ainda no período de vacatio legis do CPC/15, o art. 988, IV, foi modificado pela Lei 13.256/2016: a anterior previsão de reclamação para garantir a observância de precedente oriundo de "casos repetitivos" foi excluída, passando a constar, nas hipóteses de cabimento, apenas o precedente oriundo de IRDR, que é espécie daquele.
+4. Houve, portanto, a supressão do cabimento da reclamação para a observância de acórdão proferido em recursos especial e extraordinário repetitivos, em que pese a mesma Lei 13.256/2016, paradoxalmente, tenha acrescentado um pressuposto de admissibilidade - consistente no esgotamento das instâncias ordinárias - à hipótese que acabara de excluir.
+5. Sob um aspecto topológico, à luz do disposto no art. 11 da LC 95/98, não há coerência e lógica em se afirmar que o parágrafo 5º, II, do art. 988 do CPC, com a redação dada pela Lei 13.256/2016, veicularia uma nova hipótese de cabimento da reclamação. Estas hipóteses foram elencadas pelos incisos do caput, sendo que, por outro lado, o parágrafo se inicia, ele próprio, anunciando que trataria de situações de inadmissibilidade da reclamação.
+6. De outro turno, a investigação do contexto jurídico-político em que editada a Lei 13.256/2016 revela que, dentre outras questões, a norma efetivamente visou ao fim da reclamação dirigida ao STJ e ao STF para o controle da aplicação dos acórdãos sobre questões repetitivas, tratando-se de opção de política judiciária para desafogar os trabalhos nas Cortes de superposição.
+7. Outrossim, a admissão da reclamação na hipótese em comento atenta contra a finalidade da instituição do regime dos recursos especiais repetitivos, que surgiu como mecanismo de racionalização da prestação jurisdicional do STJ, perante o fenômeno social da massificação dos litígios.
+8. Nesse regime, o STJ se desincumbe de seu múnus constitucional definindo, por uma vez, mediante julgamento por amostragem, a interpretação da Lei federal que deve ser obrigatoriamente observada pelas instâncias ordinárias. Uma vez uniformizado o direito, é dos juízes e Tribunais locais a incumbência de aplicação individualizada da tese jurídica em cada caso concreto.
+9. Em tal sistemática, a aplicação em concreto do precedente não está imune à revisão, que se dá na via recursal ordinária, até eventualmente culminar no julgamento, no âmbito do Tribunal local, do agravo interno de que trata o art. 1.030, § 2º, do CPC/15.
+10. Petição inicial da reclamação indeferida, com a extinção do processo sem resolução do mérito. (Rcl n. 36.476/SP, Rel. Ministra NANCY ANDRIGHI, DJe 6/3/2020)
+Conforme a sistemática recursal introduzida pelo Código de Processo Civil de 2015, a decisão que nega seguimento ao recurso especial em razão da conformidade entre o acórdão recorrido e o entendimento firmado pelo STJ em recurso especial repetitivo é impugnável apenas por agravo interno no âmbito da própria Corte local.
+De rigor, assim, a manutenção da decisão agravada, que, na esteira da jurisprudência desta Corte Superior, não conheceu da reclamação, extinguindo o feito sem julgamento de mérito.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
