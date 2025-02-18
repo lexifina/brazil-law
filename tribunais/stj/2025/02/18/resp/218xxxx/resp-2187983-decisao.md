@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fls. 723/724):
+ADMINISTRATIVO E TRIBUTÁRIO. EXECUÇÃO FISCAL. DESBLOQUEIO DE VALORES. IMPENHORABILIDADE ATÉ O LIMITE DE QUARENTA SALÁRIOS-MÍNIMOS. AMPLIAÇÃO DO ENTENDIMENTO DO C. STJ. PROTEÇÃO QUE ALCANÇA ATIVOS EM CADERNETA DE POUPANÇA E CONTA CORRENTE. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+1. Agravo de Instrumento interposto pela FAZENDA NACIONAL contra decisão que, em sede de Execução Fiscal, deferiu em parte o pedido de desbloqueio para reconhecer a impenhorabilidade do valor de até 40 (quarenta) salários-mínimos das contas da Executada, e determinou sua imediata liberação.
+2. O ente público agravante sustenta que a regra de impenhorabilidade se restringe aos valores depositados em caderneta de poupança e apenas a pessoas naturais, e não a pessoas jurídicas.
+3. Consta dos autos originários que houve decisão anterior, em que foi indeferida a liberação do montante de R$ 2.206.185,22 (dois milhões, duzentos e seis mil, cento e oitenta e cinco reais e vinte e dois centavos) nas contas bancárias de titularidade da ora agravada, o que motivou a interposição do Agravo de Instrumento nº 0807356-31.2023.4.05.0000, objetivando a liberação dos valores constritos. Em 28/09/2023 a Primeira Turma desta Corte deu parcial provimento ao recurso para determinar o desbloqueio do montante de R$ 592.977,27 (quinhentos e noventa e dois mil, novecentos e setenta e sete reais e vinte e sete centavos). Posteriormente, a magistrada a quo reconheceu a impenhorabilidade da quantia de até 40 (quarenta) salários-mínimos, tendo determinado a imediata liberação desse valor. Todavia, como sobreveio a comunicação da concessão de medida liminar em sede de Agravo de Instrumento interposto pela Congregação, houve a liberação de valor superior ao deferido pelo Juízo de primeiro grau.
+4. O artigo 833, do CPC estabelece os casos de impenhorabilidade dos bens do devedor e, em relaçãocaput aos valores depositados em caderneta de poupança, estabelecia a limitação a 40 (quarenta) salários-mínimos.
+5. A partir de entendimento majoritário do Superior Tribunal de Justiça, houve a ampliação do limite pecuniário para penhora, abrangendo todo e qualquer tipo de conta bancária do devedor, inclusive conta corrente e de fundos de investimento.
+6. "Como se vê, o acórdão recorrido - no ponto - não destoa da recente orientação desta Corte acerca da matéria, segundo a qual a abrangência da regra do art. 833, inciso X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, em conta-corrente, fundos de investimentos ou guardados em papel-moeda (..) (STJ - AR Esp: 1671483 SP 2020/0047805-9, Relator: Ministro MARCO BUZZI, Data de Publicação: DJ 03/08/2020)."
+7. Para evitar discrepância com o entendimento firmado no julgamento já proferido nos autos do Agravo de Instrumento nº 0807356-31.2023.4.05.0000, há de ser reiterado o entendimento de que a penhora total dos valores de titularidade da Congregação ora recorrida pode comprometer a execução das atividades primordiais daquela entidade religiosa, em face do que deve ser reconhecida a impenhorabilidade de numerário no valor de até 40 (quarenta) salários-mínimos em relação às contas bancárias de titularidade da contribuinte executada.
+8. Agravo de Instrumento improvido.
+Embargos de declaração rejeitados.
+O recorrente sustenta ofensa ao artigo 833, X do CPC/15, sob os seguintes argumentos:
+(a) a impenhorabilidade de valores até 40 salários-mínimos em poupança não pode ser estendida para pessoas jurídicas;
+(b) os valores depositados em conta corrente de pessoas jurídicas não se revestem da qualidade de verba alimentar, o que reforça a impossibilidade de extensão da regra de impenhorabilidade invocada pelo contribuinte.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 791.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito ao argumento de que a impenhorabilidade de valores de até 40 salários-mínimos em poupança não pode ser estendida para pessoas jurídicas, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula n. 282/STF.
+Quanto à imprescindibilidade dos recursos para fins de impenhorabilidade, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que a penhora dos valores depositados em conta da Congregação pode comprometer a execução das atividades primordiais da sociedade religiosa.
+Destaca-se do acórdão proferido pela Corte a quo (fl. 722):
+"Dessa forma, para não entrar em contradição com o julgamento já proferido nos autos do Agravo de Instrumento nº 0807356-31.2023.4.05.0000, reitero o entendimento de que a penhora dos valores depositados em conta da Congregação pode comprometer a execução das atividades primordiais da sociedade religiosa, pelo que pode ser reconhecida a impenhorabilidade da quantia de até 40 (quarenta) salários-mínimos existente nas contas bancárias da executada."
+Assim, tem-se que revisar a conclusão a que chegou o Tribunal de origem sobre a matéria demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula n. 7/STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. ART. 833, X, DO CPC. PESSOAS JURÍDICAS. INAPLICABILIDADE.
+1. A impenhorabilidade prevista no art. 833, X, do CPC não alcança, em regra, as pessoas jurídicas.
+2. A Corte de origem afastou a impenhorabilidade com base nas provas dos autos.
+3. Elidir a conclusão da Corte estadual, com o fim de acolher a pretensão da recorrente de tornar os valores impenhoráveis, demandaria a análise do conteúdo fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante Súmula n. 7/STJ.
+Agravo interno improvido. (AgInt nos EDcl no AREsp n. 2.352.817/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024.) (grifo meu)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AFASTAMENTO DA SÚMULA N. 182 DO STJ. NOVA ANÁLISE. IMPENHORABILIDADE. ART. 833, X, CPC. PESSOAS JURÍDICAS. INAPLICABILIDADE. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A impenhorabilidade prevista no art. 833, X, do CPC não alcança, em regra, as pessoas jurídicas.
+2. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.542.527/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/8/2024, DJe de 28/8/2024.) (grifo meu)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF. IMPENHORABILIDADE. IMPRESCINDIBILIDADE DOS RECURSOS. ART. 833, X, DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
