@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRUNO HENRIQUE PINTO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 0010024-53.2024.8.26.0000).
+O paciente foi definitivamente condenado pela prática do crime previsto no art. 157, § 3º, II, do Código Penal, à pena de 22 anos e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 11 dias-multa (Ação Penal n. 1500021-54.2021.8.26.0554, da 2ª Vara Criminal da comarca de Santo André/SP).
+Ajuizada a revisão criminal, a Corte estadual, no dia 6/2/2025, julgou parcialmente procedente a ação, apenas para reduzir a pena do réu a 20 anos de reclusão e 10 dias-multa (fls. 20/28).
+Aqui, a defesa aduz, em síntese, que a condenação do paciente viola o art. 155 do Código de Processo Penal, que proíbe decisões baseadas exclusivamente em elementos do inquérito não confirmados em juízo.
+Requer a concessão de medida liminar para que o réu aguarde o julgamento deste habeas corpus em liberdade. No mérito, busca a absolvição do apenado.
+Estes autos foram a mim distribuídos por prevenção (HC n. 673.028/SP).
+É o relatório.
+O writ não merece ir adiante.
+Segundo o entendimento do Superior Tribunal de Justiça, é incognoscível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem, como na espécie.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+De todo modo, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Ao apreciar o pedido revisional, a Corte estadual afirmou que a defesa não apresentou provas novas, limitando-se a pleitear a reavaliação daquelas já constantes dos autos da ação penal (fl. 22).
+Concluiu, ademais, que a responsabilidade do paciente pelo crime imputado é inequívoca, detalhando os elementos informativos e as provas colhidas em juízo para tanto, sobretudo as trocas de mensagens acostadas aos autos, que evidenciam uma conversa na qual o réu assume a autoria do crime após receber o vídeo com imagens da câmera de monitoramento (fl. 27).
+Ora, o acórdão combatido está em consonância com o entendimento consolidado desta Corte de que a revisão criminal não pode ser utilizada para que a parte provoque a rediscussão de questões de mérito, fundada na mera irresignação quanto ao provimento jurisdicional obtido (AgRg no AREsp n. 2.459.771/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/2/2024).
+Em outras palavras, a pretensão da defesa recorrente não encontra guarida em nenhuma das hipóteses legais de cabimento da via revisional, porquanto se traduz, na verdade, em rediscussão ou em reavaliação das circunstâncias de fato (exame de provas já analisadas) que ensejaram a condenação (AgRg na RvCr n. 5.022/DF, Relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 24/6/2020, DJe de 1/7/2020) - (AgRg na RvCr n. 6.089/GO, Ministro Teodoro Silva Santos, Terceira Seção, DJe 5/3/2024).
+Afora isso, revisitar os elementos fáticos-probatórios para, eventualmente, reverter a conclusão da instância antecedente a respeito da autoria delitiva é providência inadmissível nos estreitos limites cognitivos do habeas corpus. Nesse sentido, por exemplo, AgRg no HC n. 702.504/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021; e AgRg no HC n. 857.857/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 7/3/2024.
+Por ess as razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL EM AÇÃO REVISIONAL. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL AINDA EM CURSO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA. DESVIRTUAMENTO DO USO DO WRIT. ROUBO QUALIFICADO PELA MORTE DA VÍTIMA (LATROCÍNIO). PRETENSÃO DE ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
