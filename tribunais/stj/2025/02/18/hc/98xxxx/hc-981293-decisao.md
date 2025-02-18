@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em nome de Bruno Roberto de Souza - preso porque condenado como incurso no artigo 33, caput, c/c o artigo 40, VI, ambos da Lei n. 11.343/2006, às penas de 5 anos e 10 meses de reclusão, em regime prisional fechado, e ao pagamento de 580 dias-multa, no mínimo legal (fl. 209) -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Revisão criminal n. 2273857-27.2024.8.26.0000/SP), cuja ementa merece transcrição (fl. 147):
+REVISÃO CRIMIN AL. Tráfico de drogas (artigo 33, caput, c. c. o artigo 40, VI, ambos da Lei nº 11.343/2006). Pretensão de desconstituição do julgado. Ação revisional que não encontra respaldo em nenhuma das hipóteses do artigo 621 do Código de Processo Penal. Ausência de comprovação de a condenação ter contrariado texto expresso de lei ou a evidência dos autos. Penas adequadas, fixadas em conformidade com as normas aplicáveis ao caso concreto. Não se presta a revisão criminal como sucedâneo de nova apelação.
+AÇÃO REVISIONAL IMPROCEDENTE.
+Na impetração, sustenta-se que tanto a sentença quanto o acórdão a quo não se manifestaram sobre todos os argumentos ofertados pela defesa técnica, o que implica a nulidade da condenação do ora paciente (fls. 2/13).
+Requer-se o seguinte (fl. 11):
+ ..
+Desta forma, requer em sede de liminar a declaração de nulidade das provas derivadas da ilegalidade na apreciação das provas com a anulação de todo o feito e consequente expedição da ordem para que a sentença seja revogada e concedido o regime aberto, e substituição da sanção corporal por restritivas de direito, nos moldes do parag. 4º do art. 33, da LAT.
+Caso entendimento contrário sobre as provas, pleiteia, a concessão do regime aberto, no parágrafo 4º do art. 33 da Lei Antidrogas.
+ ..
+É o relatório.
+De início, após uma análise detida dos autos, observa-se que a condenação do ora paciente se baseou nas provas coligidas aos autos e na legislação penal e, em contrapartida, a defesa técnica não apresentou nenhum fato ou prova capazes de modificar a conclusão alcançada, motivo pelo qual, em tese, o presente writ não comportaria acolhimento, consoante a sentença prolatada pelo Juízo de Direito da Vara Única de Pedregulho/SP, in verbis (fls. 42/43):
+ ..
+Os fatos então não são tão controversos.
+A questão é saber a finalidade do entorpecente; e sua quantidade.
+Não convence a versão de que a PM teria consigo trouxinhas de maconha para incriminar o réu. O réu não apresentou qualquer comprovação de que os milicianos tivessem para com ele qualquer inimizade. Ao contrário, o réu disse que tinha ido a Franca comprar droga e reconheceu estar com parte dela. O que é mais provável: que um indivíduo que compra drogas tenha a droga consigo ou que a PM plante o entorpecente para incriminar  E, mais do que isto, se o réu já admite a posse das 2 porções maiores que razão teria a PM para imputar a ele, indevidamente, outras 6 porções menores  Assim, a versão do réu tem guarida na lógica.
+O que se tem é a firmeza da denúncia contra o réu.
+Vejamos.
+Foi dito à PM que ele estaria próximo a uma escola e ali de fato ele estava. Foi abordado próximo à Escola Salles Manreza, segundo afirmou o PM Beisio Moura.
+Afirmou-se ainda que o réu traficava entorpecente e de fato com ele foi encontrada uma grande quantidade de droga. Usuários mantém sua droga em casa e não na rua. O ato de usar entorpecente é individual, feito na surdina, razão pela qual os usuários não andam pela cidade portando grande quantidade de droga. E se o réu de fato vinha de Franca, onde supostamente teria comprado a droga, não ficaria ali na quadra esportiva dando bandeira, teria se apressado em ir pra casa rapidamente guardar a droga que comprara.
+O fato é que o réu se colocou estrategicamente para vender droga num local onde há grande frequência de usuários. E tinha grande quantidade - parte dela já fracionada em 6 pedaços menores - para vender.
+Confirmado o tráfico.
+O PM Beisio Moura confirma que o tráfico de droga se deu nas imediações de estabelecimento de ensino (Escola Salles Manreza). O dia dos fatos 12 de setembro de 2016 era uma segunda feira, ou seja, horário de aula, o que faz incidir a causa de aumento de pena.
+A condenação se impõe.
+ ..
+Portanto, indevido o exame da presente impetração, em razão do indesejável revolvimento fático probatório na estreita via do habeas corpus, isto é, para entender de modo diverso ao decisum a quo, afastando-se a conclusão de que a paciente não se dedicaria a atividades delituosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus. Precedentes (AgRg no HC n. 899.198/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/5/2024).
+De mais a mais, a sentença condenatória contém fundamentação adequada, abordando as provas e refutando as teses defensivas de forma implícita, não sendo necessária a manifestação sobre cada ponto levantado pela defesa (AgRg no HC n. 869.491/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 5/11/2024).
+Inclusive, a jurisprudência dos Tribunais Superiores não tolera a chamada "nulidade de algibeira" - aquela que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada, como estratégia, numa perspectiva de melhor conveniência futura" (AgRg no RHC n. 170.700/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/10/2022) - (AgRg no AREsp n. 2.100.405/RR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 3/10/2023).
+No tocante ao regime inicial de cumprimento de pena, conforme o disposto no art. 33, § 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no art. 59 do mesmo diploma legal. In casu, verifico que inexiste flagrante ilegalidade a ensejar a concessão da ordem, uma vez que a valoração negativa das circunstâncias judicias indicadas no acórdão - deve-se ressaltar que os fatos se deram nas imediações de estabelecimento de ensino, ao lado da escola Sales Manreza, e especificamente em uma quadra esportiva, local de recreação destinado a jovens e crianças (fls. 15/16) - justifica a fixação do regime fechado para o início do cumprimento da pena (AgRg no HC n. 651.267/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 22/2/2023).
+Em face do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique -se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. SENTENÇA. FUNDAMENTO SUFICIENTE PARA A CONDENAÇÃO. A PRESTAÇÃO JURISDICIONAL NÃO ENVOLVE NECESSARIAMENTE A MANIFESTAÇÃO SOBRE CADA PONTO DESTACADO PELA DEFESA TÉCNICA. INDEVIDO REVOLVIMENTO FÁTICO-PROBATÓRIO NA ESTREITA VIA DO HABEAS CORPUS.
+Petição inicial indeferida liminarmente.
