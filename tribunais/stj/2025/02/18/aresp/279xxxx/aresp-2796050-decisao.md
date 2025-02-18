@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por SALETE SIQUEIRA DA SILVA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO que inadmitiu o recurso especial dirigido em oposição ao acórdão prolatado na Apelação Cível n. 5095060-71.2022.4.02.5101, assim ementado (fls. 277-278):
+ADMINISTRATIVO. PROCESSUAL CIVIL. REMESSA NECESSÁRIA. APELAÇÃO. INPI. PERCENTUAL DE 45%. VERBA REMUNERATÓRIA RECONHECIDA POR SENTENÇA POSTERIORMENTE REFORMADA. RESSARCIMENTO AO ERÁRIO DEVIDO. CUMPRIMENTO DE SENTENÇA. REMESSA NECESSÁRIA E APELAÇÃO PROVIDAS.
+Nas razões do apelo nobre (fls. 334-376), fundamentado no art. 105, inciso III, alínea a da Constituição Federal, a parte recorrente alega, em síntese, violação dos arts. 1º, 8º e 9º do Decreto n. 20.910/1932, 202, inciso I, 219, §§1º e 4º do CPC/73, arts. 2º, inciso IV, e 54 da Lei n. 9.784/1999, bem como do art. 46, §3º, da Lei n. 8.112/90.
+Apresentadas contrarrazões ao recurso especial (fls. 383-393).
+O Tribunal de origem não admitiu o recurso especial (fls. 409-410) sob os seguintes fundamentos:
+a) a revisão do entendimento adotado demandaria o revolvimento do suporte fático-probatório constante dos autos;
+b) com relação ao dissídio jurisprudencial, o recorrente não identificou precisamente qual ou quais são os acórdãos paradigmas, nem demonstraram, efetivamente, a divergência em relação ao julgado combatido, de modo a não atender os requisitos previstos no art. 1.029, §1º, do CPC.
+Apresentadas contrarrazões ao agravo em recurso especial (fls. 420-429).
+É o relatório.
+Decido.
+O agravo em recurso especial não comporta conhecimento.
+No que concerne à necessidade de reexame de fatos e provas, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, conforme se nota do seguinte excerto das razões do agravo em recurso especial (fl. 427):
+Ainda no que tange à admissibilidade do presente Recurso Especial, não se aplica a disposição contida na Súmula nº 07 deste Egrégio Superior Tribunal, segundo a qual "A pretensão de simples reexame de prova não enseja recurso especial."
+O que se requer no presente recurso não é a análise dos fatos, além dos tratados no V. Acórdão. No presente recurso, busca-se a sua exata qualificação jurídica.
+Os fatos discutidos já estão definidos no v. acórdão recorrido, de modo que o âmbito de conhecimento do recurso já está por este delimitado. O que se pretende é a aplicação do melhor direito sobre aquela temática, ou seja, a exata qualificação jurídica para efeito de subsunção aos dispositivos legais ora aventados.
+A identificação da hipótese de valoração jurídica da prova distingue-se do mero reexame da prova.
+Outrossim, especificamente em relação à prescrição não reconhecida pelo Tribunal Regional Federal da 2ª Região, a jurisprudência do C. STJ é firme no sentido de destacar que se a interpretação do disposto nos diplomas normativos infraconstitucionais, não há que se falar em óbice pela Súmula 7ª.
+Dessa forma, o agravante não esclareceu, à luz das teses apresentadas no apelo nobre, e em cotejo com a fundamentação do acórdão recorrido, de que forma o exame das referidas teses prescindiria a análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+Assim, correta a conclusão no sentido de que, no agravo em recurso especial, não houve adequada observância ao princípio da dialeticidade (art. 932, inciso III, CPC/2015).
+A propósito:
+ ..
+Para afastar o óbice do Enunciado 7 da Súmula do STJ, caberia à parte agravante desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a eles. (AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+ ..
+A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021). Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único.
+Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11º, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 276), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INPI. RESSARCIMENTO AO ERÁRIO. INADMISSÃO DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
