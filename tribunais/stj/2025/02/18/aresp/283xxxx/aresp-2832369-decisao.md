@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LEOMAR ANTONIO JOHANN à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA DE IMÓVEL. ARREMATAÇÃO. REMIÇÃO. POSSIBILIDADE. AUTO DE ARREMATAÇÃO SEM AS ASSINATURAS DEVIDAS. ENTENDIMEUTO PACIFICADO DO SUPERIOR TRIBUNAL DE JUSTIÇA. EXTINÇÃO DO PROCESSO EM RAZÃO DA QUITAÇÃO. APELAÇÃO CÍVEL PROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 826 e 884, parágrafo único, do CPC, no que concerne à invalidade da remição, visto que não houve o pagamento da comissão do leiloeiro que atuou na hasta pública do imóvel penhorado, um dos requisitos previstos no Edital de Leilão e no art. 7, § 3º da Resolução 236 do CNJ. Argumenta:
+O Superior Tribunal de Justiça mantém remansosa e inequívoca jurisprudência no sentido de que a comissão do leiloeiro compõe o acervo de valores que devem ser pagos pelo Executado para que a remição seja considerada válida e integral, notadamente quando o intuito de remir é exercido após a realização do leilão, justamente como no caso em apreço, em que o Juízo de origem reconheceu que o não pagamento da comissão do leiloeiro, reflete na impossibilidade de reconhecimento da validade da remição (seq. 252.1 dos autos de origem), conforme elucida o acórdão relatado pelo Ministro Moura Ribeiro, no julgamento do REsp n.º 1.994.051.
+ ..
+É certo que a comissão do leiloeiro compunha o montante a remir, nos termos da decisão proferido pelo Magistrado de primeira instância (seq. 151.1 dos autos de origem), do Edital de Leilão (seq. 172.3 dos autos de origem) e do art. 7, § 3º da Resolução 236 do CNJ1 (fls. 550-552).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial porque interposto contra acórdão com fundamento em norma infralegal, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal.
+Nesse sentido: "Apesar de a recorrente ter indicado violação de dispositivos infraconstitucionais, a argumentação do decisum está embasada na análise e interpretação da Resolução 414/2010 da ANEEL, norma de caráter infralegal cuja violação não pode ser aferida por meio de recurso especial". (AgInt no AREsp n. 1.621.833/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 16.6.2021).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.517.837/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10.5.2021; AgInt no REsp .. 1.859.807/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.6.2020; AgInt no AREsp n. 1.673.561/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 25.3.2021; AgInt no AREsp n. 1.701.020/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27.11.2020.
+Ademais, o acórdão recorrido assim decidiu:
+Extrai-se do andamento processual que, quando da ocorrência da remição integral, independentemente de ter sido fracionada, o auto de arrematação ainda não se encontrava com todas as assinaturas legalmente exigidas.
+Desta forma, não há que se falar em arrematação perfeita, acabada e irretratável, sendo certo que a remição foi eficaz a fim de socorrer a executada quanto ao seu direito de propriedade (fl. 477).
+ ..
+Assinale-se que na decisão de designação de leilão pelo juízo (mov. 151.1), e no próprio Edital do Leilão (mov. 182.1), não há previsão de que o pagamento dos valores devidos deveria ser realizado pelo remitente no ato da quitação.
+Pontue-se também que, apesar do pedido realizado pelo leiloeiro ao mov. 197.1, não houve determinação do juízo no sentido de ser necessário o pagamento da comissão do a quo leiloeiro no ato da remição, para perfectibiliza-la.
+Isto não significa que a executada não deverá arcar com os custos previstos no Edital de Leilão, mas somente que a remição da dívida não estava condicionada ao pagamento do montante ao leiloeiro, naquele momento (fl. 535).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
