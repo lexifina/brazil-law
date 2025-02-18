@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DENNIS WILLIAN DE AGUIAR MARQUES apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Revisão Criminal n. 2238057-35.2024.8.26.0000).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, à pena de 10 anos, 10 meses e 19 dias de reclusão, a ser cumprida no regime inicial fechado (e-STJ fls. 48).
+A apelação defensiva foi desprovida pelo Tribunal de origem (e-STJ fl. 60).
+Ajuizada revisão criminal, o pedido foi indeferido (e-STJ fls. 18/33).
+Daí o presente writ, no qual alega a defesa que há fragilidade nas provas, contradições nos depoimentos e ausência de reconhecimento dos autores; questiona a majorante do uso de arma de fogo, além de pleitear a desclassificação para crime único (e-STJ fls. 2/12).
+Requer, desse modo, inclusive liminarmente, a absolvição do paciente ou, subsidiariamente, o afastamento da majorante do emprego de arma de fogo, o reconhecimento do crime único e a redução da pena para um patamar abaixo de 8 anos, com a fixação do regime inicial semiaberto (e-STJ fl. 15).
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+No entanto, no caso, não há que se falar em flagrante ilegalidade apta a ensejar a superação do supracitado entendimento.
+No ponto, como bem apontado no parecer do Ministério Público Federal, cujas razões passo a adotar (e-STJ fls. 125/126):
+Consoante consignado pelo Tribunal de origem: "Os elementos probatórios constantes nos autos, notadamente a prova oral coligida na origem, acrescida dos documentos acostados aos autos principais, contando com o auto de prisão em flagrante (fls.
+05/06), boletim de ocorrência (fls. 07/11), auto de exibição e apreensão (fls. 18/19), auto de avaliação (fls. 20) e autos de entrega (fls. 21/23) servem como prova cabal da materialidade delitiva, e, também, se constituem em importantes elementos de prova para a definição da autoria e formação do juízo de culpabilidade." (fl. 22).
+A insurgência da Impetrante exigiria, inevitavelmente, o revolvimento do conjunto probatório, providência incompatível com a via estreita do habeas corpus, conforme reiterada jurisprudência dessa Corte:
+ ..
+Outrossim, a pena foi adequadamente aplicada, não comportando qualquer alteração.
+Na primeira fase da dosimetria, considerando os maus antecedentes e as circunstâncias do crime - caracterizadas pela extrema audácia do agente e pela grave ameaça exercida com o emprego de arma contra uma criança -, a pena-base foi exasperada em 1/6 (um sexto), restando fixada em 4 (quatro) anos e 8 (oito) meses de reclusão, além do pagamento de 11 (onze) dias-multa, o que se revela adequado e proporcional.
+Não há qualquer irregularidade na fixação da pena acima do mínimo legal, desde que devidamente fundamentada em elementos concretos, em consonância com os critérios da discricionariedade juridicamente vinculada, bem como com os princípios da proporcionalidade e razoabilidade.
+Na segunda fase, reconhecida a reincidência do Paciente, aplicou- se acréscimo de 1/6 (um sexto), resultando na pena de 5 (cinco) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, além de 12 (doze) dias-multa.
+Na terceira etapa, considerando a incidência das majorantes relativas ao concurso de agentes e ao emprego de arma de fogo, houve incremento de 2/3 (dois terços), fixando-se a reprimenda definitiva em 9 (nove) anos e 26 (vinte e seis) dias de reclusão, além de 20 (vinte) dias-multa.
+Ressalte-se que o Paciente não possui direito subjetivo à fixação da pena no mínimo legal, mas, sim, à individualização da reprimenda de forma motivada e nos limites legais, conforme se observa no caso em tela.
+Por fim, cuida-se de crime de roubo circunstanciado, cometido em concurso de agentes e mediante o uso de arma de fogo, fatores que intensificaram o temor e a sensação de vulnerabilidade das vítimas, além de evidenciarem considerável determinação e temeridade na execução da infração penal. Diante desse contexto, impõe-se a adoção do regime inicial fechado, em observância aos postulados da necessidade e proporcionalidade, como medida adequada à devida censura e prevenção da conduta ilícita, nos termos do artigo 33, § 3º, c.c. o artigo 59, ambos do Código Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
