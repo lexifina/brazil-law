@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de AUGUSTO FERREIRA DE PROENÇA e DIOGO XAVIER BARRETO contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501581-09.2023.8.26.0571.
+O Tribunal de origem negou provimento aos recursos de apelação da defesa, mantendo a condenação dos pacientes pelos crimes previstos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006, em concurso material.
+Os pacientes foram condenados à pena de 8 (oito) anos de reclusão, em regime inicial fechado, e 1.200 (mil e duzentos) dias-multa, cada qual fixado em 1/30 do salário mínimo vigente à época dos fatos.
+A impetrante alega ausência de provas da associação para o tráfico, por não haver prova material como interceptação telefônica, quebra de dados telefônicos, documentos escritos, confissão dos acusados, vídeos ou fotos. Requer a absolvição de ambos os delitos ou, subsidiariamente, a absolvição do delito de associação para o tráfico, com reconhecimento da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/06 no patamar máximo, bem como a fixação do regime inicial semiaberto.
+Informações prestadas às fls. 608-612 e 613-662.
+O Ministério Público Federal manifesta-se pelo não conhecimento do habeas corpus (fls. 664-675).
+É o relatório.
+DECIDO.
+O habeas corpus foi impetrado como substitutivo de recurso próprio/revisão criminal.
+Esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de não caber habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+No caso, não se verifica flagrante ilegalidade. O Tribunal de origem fundamentou suficientemente tanto a condenação por tráfico quanto por associação para o tráfico, destacando que os réus foram investigados por aproximadamente dois meses, tendo sido constatado que Augusto seria o gerente do tráfico da região, abastecendo os pontos de venda e recolhendo dinheiro, Diogo seria o "caixa" da organização criminosa (fl. 23).
+O acórdão registrou ainda que as investigações, que se valeram inclusive de diversas campanas veladas, permitiram que identificassem a complexa e organizada estrutura criminosa da qual todos participavam, as quais permitiram até mesmo individualizar as condutas de cada um dos réu dentro da organização criminosa (fl. 29), tendo sido apreendidas drogas e materiais típicos do tráfico quando do cumprimento dos mandados de busca.
+Nesse contexto, mostra-se inviável também o reconhecimento da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/06, uma vez que evidenciada a dedicação à atividade criminosa. Registre-se que, conforme entendimento assente nesta Corte,
+É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 da mesma lei, por ficar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico (AgRg no AREsp n. 2.460.940/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/12/2024, DJe de 9/12/2024).
+Por fim, o regime inicial fechado foi adequadamente fixado, considerando a gravidade concreta dos delitos e o quantum das penas aplicadas, 8 (oito) anos de reclusão.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
