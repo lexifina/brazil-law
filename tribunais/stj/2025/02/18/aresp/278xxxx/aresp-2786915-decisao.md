@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Helena Aparecida Coelho Machado, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl.322):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. REQUISITOS. QUALIDADE DE SEGURADO DO FALECIDO. 120 CONTRIBUIÇÕES. PERDA DA QUALIDADE DE SEGURADO. RECURSO IMPROVIDO.
+1. A concessão do benefício de pensão por morte depende do preenchimento dos seguintes requisitos: a) a ocorrência do evento morte; b) a condição de dependente de quem objetiva a pensão; c) a demonstração da qualidade de segurado do de cujus por ocasião do óbito. O benefício independe de carência e é regido pela legislação vigente à época do óbito
+2. Ausente a prova do preenchimento de todos os requisitos legais, não é possível a concessão do benefício à parte autora.
+3. Negado provimento ao recurso.
+Aponta a recorrente, nas razões do apelo especial, além de divergência jurisprudencial, violação aos arts. 5º, LV, da CF/88, 29-A da Lei 8.213/91 e 32, § 22, I, do Decreto 3.048/99, que o Tribunal de origem, "negou provimento ao recurso, deixando de reconhecer o vínculo empregatício Helena Schaefer Ferraz D"Elly no período de 08/09/1995 a 06/01/1998 anotado na CTPS do segurado de cujus, impedindo o reconhecimento da qualidade de segurado.." (fl.332).
+Afirma que, "o N. Desembargador, corroborando com a sentença, novamente deixou de reconhecer o período anotado na CTPS do segurado falecido, por não constar no CNIS, como também desconsiderou a integralidade do período laborado na empresa Giliard & José Ind. E Com. De Filtros Ltda., uma vez que não constam recolhimentos efetuados pelo empregador" (fl. 333)
+Aduz que, "ambas as anotações se encontram anotadas na CTPS do Recorrente, no período de 08/09/1995 a 06/01/1998 e 02/06/2003 a 21/07/2005, sendo documento hábil a comprovação do vínculo empregatício perante a Autarquia, consoante art. 10, inciso I, alínea "a" da Instrução Normativa 77/2015" (fl. 338).
+Alega que, "Se o objetivo da norma é utilizar a CTPS como prova do vínculo empregatício, como pode o Tribunal desconsiderar os períodos anotados na Carteira de Trabalho em ordem cronológica, sem qualquer indicio de fraude e rasura, conforme se depreende da análise da cópia do documento anexado nos autos (Evento1, CTPS15, CTPS16)" (fl. 338).
+Defende que, o Tribunal de origem, "incorreu em equívoco ao não considerar o conjunto probatório acostado aos autos, CTPS e CNIS, que contemplam as 120 contribuições mínimas e sem perda da qualidade de segurado, exigidas para manutenção desta qualidade conforme art. 74, da Lei nº 8.213/1991.." (fl. 338).
+Argumenta que, "o "de cujus" laborou a vida toda, e, desde 01/06/1993 estava sem perder a qualidade de segurado, somando portanto o total de mais de 120 contribuições. Embora o CNIS acostado aos autos não demonstre essa verdade, há de analisar também as CTPS "s do "de cujus", onde se percebe vínculo de 08/09/1995 a 06/01/1998 não lançados ao primeiro documento, conforme vemos na foto da Carteira de Trabalho do segurado falecido sem qualquer rasura" (fl. 339)
+Enfatiza que, "as anotações na carteira de trabalho são suficientes para a comprovação do tempo de contribuição, pois possuem presunção juris tantum de veracidade, a qual somente pode ser afastada mediante indícios objetivos e fundamentados de falsidade nas anotações da CTPS" (fl. 340).
+Ao final, requer o provimento do recurso especial, "reconhecendo o vínculo empregatício anotado na CTPS do de cuju s, notadamente para afastar a falta de qualidade de segurado a época do seu falecimento, permitindo a concessão do benefício de pensão por morte a Recorrente" (fl. 345).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+A controvérsia instalada nos presentes autos diz respeito à comprovação dos requisitos legalmente exigidos à concessão do benefício de pensão por morte, mormente em relação à qualidade de segurado do suposto instituidor do benefício perante a Previdência Social.
+Nesse passo, o Tribunal de origem com base no conjunto probatório dos autos, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fls. 319/320):
+A concessão do benefício de pensão por morte, previsto no art. 74 da Lei 8.213/1991, depende do preenchimento dos seguintes requisitos: (1) ocorrência do evento morte, (2) condição de dependente de quem objetiva a pensão e (3) demonstração da qualidade de segurado do de cujus por ocasião do óbito.
+Conforme o disposto no art. 26, I, da Lei 8.213/1991, referido benefício independe de carência.
+Ressalte-se que o benefício de pensão por morte rege-se pela legislação vigente quando da sua causa legal, em homenagem ao princípio tempus regit actum. O evento óbito, portanto, define a legislação de regência do amparo a ser outorgado aos beneficiários da pensão por morte, oportunidade em que deverão ser comprovados os requisitos necessários à concessão do benefício.
+Pois bem.
+Cinge-se a controvérsia à qualidade de segurado do falecido na data do óbito, em 07-6- 2007 (evento 1, CERTOBT9).
+No que diz respeito à manutenção da qualidade de segurado independentemente do número de contribuições (período de graça), tem-se o disposto no artigo 15 da Lei 8.213/91:
+(..).
+O extrato do Cadastro Nacional de Informações Sociais (CNIS) de Zulmar Machado apresenta uma série de vínculos de curta duração entre fevereiro de 1978 e julho de 2005. Chamo atenção que, neste intervalo, houve ao menos por dois momentos a perda da qualidade de segurado, ao lado disso, com relação ao último vínculo registrado, com a empresa Gililard & José Ind. e Com. de Filtros Ltda. ME, entre 02-06-2003 a 21-07-2005, foram recolhidas apenas algumas contribuições em 2003 ( evento 1, CNIS14 ).
+Defende a apelante que a qualidade de segurado do falecido poderia ser prorrogada por 24 meses após o término da aposentadoria por invalidez, em virtude do disposto no §1º do artigo 15 da Lei 8.213/91. Assim, na data do óbito, o falecido manteria sua qualidade de segurado.
+Ao analisar o feito, assim entendeu o juízo singular:
+Observa-se da consulta ao Cadastro Nacional de Informações Sociais (CNIS), registro de último vínculo de emprego do falecido no interregno de 02-06-2003 a 21-07-2005, com a empresa Gililard & José Ind. e Com. de Filtros Ltda. ME, no cargo de serviços gerais. Manteve, em princípio, a qualidade de segurado até 15-09-2006, considerada a regra geral de 12 meses após a cessação das contribuições (art. 15, II, da Lei de Benefícios).
+A análise dos vínculos constantes do CNIS permite concluir-se que o de cujus não tinha 120 (cento e vinte) contribuições mensais sem a perda da qualidade de segurado, necessárias para a prorrogação do período de graça, na forma do citado § 1º do art. 15 da Lei nº 8.213-1991.
+De outro lado, intimada a comprovar o recebimento de seguro-desemprego posterior ao último vínculo, trouxe aos autos relatório de requerimento referente ao ano de 2001, que não se presta à demonstração da condição de desempregado após o ano de 2005 (último vínculo).
+No ponto, a apelante argumenta, ainda, que no CNIS não há o registro do vínculo de emprego firmado entre o falecido e Helena Schaefer Ferraz D"Elly, presente na CTPS do falecido, com duração entre 08-9-1995 e 06-8-1998, na função de empregado doméstico.
+Entretanto, no CNIS do de cujus, há, em verdade, o recolhimento como empregado doméstico entre 01-7-1996 e 31-12-1997.
+Nesse contexto, da simples análise dos elementos indicados, não é possível identificar a existência de 120 contribuições sem que houvesse a perda da qualidade de segurado neste intervalo.
+Logo, não reconheço o período de graça de 24 meses defendido pela apelante.
+Mantida a sentença na sua integralidade.
+II - Conclusões
+1. O recolhimento de 120 contribuições, somente terá o efeito de prorrogar a qualidade de segurado, quando não sucederem interrupções capazes de gerar a perda da qualidade.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, acerca da comprovação da qualidade de segurado, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+Nesse sentido, anote-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUXÍLIO-RECLUSÃO. PERDA DA QUALIDADE DE SEGURADO. EXTENSÃO DO PERÍODO DE GRAÇA PELO DESEMPREGO INVOLUNTÁRIO. NÃO COMPROVAÇÃO. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem, após análise dos elementos informativos dos autos, concluiu que o recluso não detinha a qualidade de segurado no momento de sua prisão, requisito indispensável para a concessão do auxílio-reclusão, tampouco havia sido comprovada a situação da extensão do período de graça pelo desemprego involuntário.
+2. A orientação do Superior Tribunal de Justiça se firmou no sentido de que "a ausência de registros na CTPS, por si só, não é suficiente para comprovar a situação de desemprego da parte autora, admitindo-se, no entanto, que tal demonstração possa ser efetivada por outros meios de
+prova que não o registro perante o Ministério do Trabalho e da Previdência Social, como a testemunhal" (REsp n. 1.338.295/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/11/2014, DJe de 1º/12/2014).
+3. Isso porque "a ausência de anotação laboral na CTPS do autor  ..  não afasta a possibilidade do exercício de atividade remunerada na informalidade" (AgRg no Ag n. 1.182.277/SP, relator Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 26/10/2010, DJe de 6/12/2010).
+4. O acolhimento da pretensão recursal, nos termos em que formulada, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento
+do recurso especial. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.935.779/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, DJe de 17/8/2022 )
+ANTE O EXPOSTO, nego provimento ao presente agravo.
+Publique-se.
+EMENTA
