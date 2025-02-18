@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JAKSON GOMES DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o Juízo de Execução Criminal, ante a informação de disponibilização de vaga em regime semiaberto, expediu mandado de prisão em desfavor do paciente, consignando o regime prisional imposto - semiaberto -, bem assim a proibição de cumprimento da pena privativa de liberdade em estabelecimento penal destinado a condenado em regime prisional fechado.
+No presente writ, a defesa requer, liminarmente e no mérito, que "o Paciente seja intimado para dar início ao cumprimento da pena, previamente a expedição do mandado de prisão, em observância a Resolução n. 474/2022 do CNJ", bem como que "o Juízo da Vara de Execuções Penais analise o pleito de trabalho externo do Paciente, preferencialmente, previamente a expedição de mandado de prisão, objetivando resguardar o caráter ressocializador da pena, em respeito aos artigos 66 e 194 da Lei de Execuções Penais" (fl. 9).
+Por meio da decisão de fls. 54-57, o pedido liminar foi parcialmente deferido para, com base na Resolução n. 474 do CNJ, determinar o recolhimento do mandado de prisão expedido, determinado, ainda, ao Juízo das Execuções que proceda à intimação do apenado para dar início ao cumprimento da pena.
+Petição de embargos de declaração nas fls. 62-64, em que alega ter havido omissão na decisão que apreciou o pedido liminar, considerando a fundamentação relacionada ao requerimento de trabalho externo.
+Juntadas as informações pela origem nas fls. 66-96.
+Recurso de agravo regimental interposto pelo impetrante nas fls. 97-99, em que reproduz a fundamentação exposta nos embargos de declaração.
+Parecer ministerial juntado nas fls. 112-118, pelo não conhecimento do habeas corpus por ser substitutivo de recurso próprio, pelo não conhecimento do agravo regimental, em razão da sua intempestividade e do não cabimento. Manifestou-se, ainda, pela concessão da ordem de ofício, nos termos da decisão liminar.
+É o relatório.
+Conforme relatado, a parte impetrante interpôs embargos de declaração, cuja fundamentação foi reproduzida posteriormente em agravo regimental.
+Neste ponto, há que se considerar que o recurso de embargos de declaração pretende, sob o pretexto de sanar contradição e omissão, nova apreciação da matéria relacionada ao trabalho externo, diante da insatisfação da parte impetrante.
+Reproduzidos os mesmos argumentos no agravo regimental, deve ser consignado que, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça (RISTJ), as decisões que indeferem medidas liminares são insuscetíveis de recurso.
+Nesse contexto, a jurisprudência consolidada desta Corte Superior é no sentido de que "não cabe agravo regimental ou interno contra decisão de relator que indefere pedido liminar em habeas corpus" (AgRg no HC n. 799.739/PI, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023.).
+Ademais, conforme bem salientado pelo Ministério Público Federal, ainda que cabível, o recurso de agravo regimental é intempestivo, uma vez que, publicada a decisão em 17/6/2024, o recurso apenas foi juntado nos autos no dia 25/6/2024, após, portanto, o prazo de 5 dias.
+Em relação ao mérito do writ, a decisão que deferiu o pedido liminar deve ser confirmada por seus próprios fundamentos.
+Isso porque o Conselho Nacional de Justiça, em 9/9/2022, aprovou a Resolução n. 474, que alterou o art. 23 da Resolução n. 417/CNJ, prevendo a intimação da pessoa condenada, nos casos em que estabelecidos os regimes semiaberto ou aberto, previamente à expedição de mandado de prisão.
+Em caso semelhante, decidiu recentemente o Superior Tribunal de Justiça:
+PENAL. EXECUÇÃO PENAL. HABEAS CORPUS. CONDENAÇÃO EM REGIME INICIAL SEMIABERTO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA CONDICIONADA AO CUMPRIMENTO DO MANDADO PRISIONAL. ART. 105 DA LEP. MITIGAÇÃO. ADVENTO DA RESOLUÇÃO N. 474/CNJ. INTIMAÇÃO PRÉVIA. ORDEM CONCEDIDA.
+1. O entendimento por muito tempo sedimentado do Superior Tribunal de Justiça, nos termos do art. 105 da Lei de Execução Penal, indicava que a expedição de guia de execução definitiva dependia do prévio recolhimento do apenado ao cárcere. Admitindo-se, contudo, exceções em casos pontuais.
+2. Com a alteração do art. 23 da Resolução n. 417/CNJ, promovida pela Resolução n. 474 do mesmo órgão, passou-se a mitigar a imposição do art. 105 da LEP para os casos nos quais o regime inicial for o intermediário ou o aberto.
+3. Tratando-se de paciente condenado à pena de 2 anos e 8 meses de reclusão em regime inicial semiaberto e diante da nova resolução do Conselho Nacional de Justiça, deve ser expedida intimação para início de cumprimento da pena, não havendo necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada.
+4. Ordem concedida para determinar, com fulcro na Resolução n. 474 do Conselho Nacional de Justiça, o recolhimento do mandado de prisão expedido, determinando ainda ao Juízo das Execuções que proceda à intimação do apenado para dar início ao cumprimento de sua pena.
+(HC n. 757.739/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/11/2022, DJe de 11/11/2022.)
+Nesse sentido, considerando a fixação do regime semiaberto, não deve haver, de pronto, a expedição de mandado de prisão, mas antes o condenado deve ser intimado para o início do cumprimento da pena.
+Em relação ao pedido de trabalho externo, assim dispõe o art. 37 da Lei n. 7.210/1984:
+Art. 37. A prestação de trabalho externo, a ser autorizada pela direção do estabelecimento, dependerá de aptidão, disciplina e responsabilidade, além do cumprimento mínimo de 1/6 (um sexto) da pena.
+Parágrafo único. Revogar-se-á a autorização de trabalho externo ao preso que vier a praticar fato definido como crime, for punido por falta grave, ou tiver comportamento contrário aos requisitos estabelecidos neste artigo.
+Conforme se extrai do dispositivo citado, o exercício de trabalho externo não é automático, mas depende de autorização da direção do presídio após a análise das aptidões e demais questões pessoais do condenado.
+Ademais, consoante precedentes desta Corte Superior , "a permissão para trabalho externo está subordinada à capacidade e à disponibilidade de vigilância do Poder Público, considerada a possibilidade de fuga, e, ainda, à fiscalização estatal, no exercício do poder disciplinar sobre os apenados em cumprimento de pena" (AgRg no AREsp n. 492.982/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/6/2014, DJe de 25/6/2014).
+Assim, se não houve o efetivo início do cumprimento da pena por parte do paciente, não há como determinar que o Juízo da execução aprecie pedido de trabalho externo, já que referida análise depende da submissão do paciente ao sistema penitenciário.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, concedo parcialmente o habeas corpus para, confirmando a decisão liminar, determinar ao Juízo das Execuções que proceda à intimação do apenado para dar início ao cumprimento da pena.
+Comunique-se, com urgência, às instâncias ordinárias.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
