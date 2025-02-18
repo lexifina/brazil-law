@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro-Relator.
+A Sra. Ministra Maria Thereza de Assis Moura, os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. LEGITIMIDADE DA AUTORIDADE COATORA PARA RECORRER. AÇÃO DIRETA DE INCONSTITUCIONALIDADE (ADI) n. 4.403/STF. PRERROGATIVA DE PRAZO EM DOBRO. INEXISTÊNCIA . INTEMPESTIVIDADE DO RECURSO. NÃO CONHECIMENTO.
+I - Na origem, a empresa contribuinte ajuizou mandado de segurança, tendo como objetivo a dedução de materiais de construção da base de cálculo do ISSQN para serviços de concretagem. Na sentença, concedeu-se a segurança e, em reexame necessário, a sentença foi mantida pelo Tribunal a quo.
+II - O art. 14, § 2º, da Lei n. 12.016/2009 dispõe expressamente que se estende à autoridade coatora o direito de recorrer. O Supremo Tribunal Federal enfrentou a questão na ADI n. 4.403, sob relatoria do Ministro Edson Fachin, e entendeu que autoridade coatora possui legitimidade recursal, mas não capacidade postulatória.
+III - No presente caso, verifica-se que o apelo nobre foi assinado por procuradores municipais, devidamente inscritos na Ordem dos Advogados do Brasil, com procuração outorgada pela Secretária de Fazenda Municipal, atendendo, portanto, o requisito da legitimidade.
+IV - A Segunda Turma desta Corte Superior entende que a autoridade coatora não possui a prerrogativa do prazo em dobro para recorrer, uma vez que tal benefício é reservado às pessoas jurídicas de direito público. Confira-se: AgInt no AREsp n. 1.430.628/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/8/2022, DJe de 25/11/2022.
+V - No caso em análise, a parte recorrente, consoante apontado em seu próprio recurso especial (fls. 597-e), foi intimada do acórdão recorrido em 29/7/2024 e o apelo nobre foi interposto apenas em 11/9/2024, sendo, portanto, manifestamente intempestivo.
+VI - A tempestividade é matéria de ordem pública, devendo ser aferida no momento da interposição do recurso, conforme os prazos estabelecidos pela legislação processual civil. Nesse sentido: AgInt no REsp n. 2.097.838/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/4/2024, DJe de 19/4/2024; AgInt nos EDcl no AREsp n. 1.554.590/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1º/3/2024.
+VII - Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por Secretária Municipal de Fazenda do Município de Itabirito, com fundamento no art. 105, III, a e c, da Constituição Federal.
+Na origem, a empresa contribuinte ajuizou mandado de segurança, com valor da causa atribuído em R$ 1.000,00 (mil reais), em abril de 2022, tendo como objetivo a dedução de materi ais de construção da base de cálculo do ISSQN para serviços de concretagem.
+Na sentença, concedeu-se a segurança. No reexame necessário, a sentença foi mantida por Tribunal de Justiça do Estado de Minas Gerais. O referido acórdão foi assim ementado, in verbis:
+REEXAME NECESSÁRIO - MANDADO DE SEGURANÇA - ISSQN - PRESTAÇÃO DE SERVIÇOS DE CONSTRUÇÃO CIVIL - APLICAÇÃO DO ART. 7º, § 2º, LEI COMPLEMENTAR Nº 116/2003 - BASE DE CÁLCULO - MATERIAIS UTILIZADOS NA CONSTRUÇÃO - NÃO INCIDÊNCIA DE TRIBUTAÇÃO. Conforme firmado pelo STF em sede de repercussão geral no RE 603.497/MG, é possível a dedução da base de cálculo do ISS dos materiais empregados na construção civil, onde se incluem os insumos utilizados para a fabricação do concreto."
+Não foram opostos embargos de declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, Secretária Municipal de Fazenda do Município de Itabirito interpôs o presente recurso especial, apontando violação do art. 7º, § 2º, I, da LC n. 116/03.
+Sustenta, em síntese, que não seria possível a dedução de materiais da base de cálculo do ISSQN na produção de concreto, exceto as mercadorias produzidas pelo prestador de serviços fora do local da prestação de serviços, as quais já se sujeitam ao ICMS.
+Nas contrarrazões, a recorrida aduz ilegitimidade passiva e falta de interesse da Secretária de Municipal para interpor recurso e pugna pela manutenção do acórdão recorrido.
+É o relatório.
+EMENTA
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. LEGITIMIDADE DA AUTORIDADE COATORA PARA RECORRER. AÇÃO DIRETA DE INCONSTITUCIONALIDADE (ADI) n. 4.403/STF. PRERROGATIVA DE PRAZO EM DOBRO. INEXISTÊNCIA . INTEMPESTIVIDADE DO RECURSO. NÃO CONHECIMENTO.
+I - Na origem, a empresa contribuinte ajuizou mandado de segurança, tendo como objetivo a dedução de materiais de construção da base de cálculo do ISSQN para serviços de concretagem. Na sentença, concedeu-se a segurança e, em reexame necessário, a sentença foi mantida pelo Tribunal a quo.
+II - O art. 14, § 2º, da Lei n. 12.016/2009 dispõe expressamente que se estende à autoridade coatora o direito de recorrer. O Supremo Tribunal Federal enfrentou a questão na ADI n. 4.403, sob relatoria do Ministro Edson Fachin, e entendeu que autoridade coatora possui legitimidade recursal, mas não capacidade postulatória.
+III - No presente caso, verifica-se que o apelo nobre foi assinado por procuradores municipais, devidamente inscritos na Ordem dos Advogados do Brasil, com procuração outorgada pela Secretária de Fazenda Municipal, atendendo, portanto, o requisito da legitimidade.
+IV - A Segunda Turma desta Corte Superior entende que a autoridade coatora não possui a prerrogativa do prazo em dobro para recorrer, uma vez que tal benefício é reservado às pessoas jurídicas de direito público. Confira-se: AgInt no AREsp n. 1.430.628/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/8/2022, DJe de 25/11/2022.
+V - No caso em análise, a parte recorrente, consoante apontado em seu próprio recurso especial (fls. 597-e), foi intimada do acórdão recorrido em 29/7/2024 e o apelo nobre foi interposto apenas em 11/9/2024, sendo, portanto, manifestamente intempestivo.
+VI - A tempestividade é matéria de ordem pública, devendo ser aferida no momento da interposição do recurso, conforme os prazos estabelecidos pela legislação processual civil. Nesse sentido: AgInt no REsp n. 2.097.838/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/4/2024, DJe de 19/4/2024; AgInt nos EDcl no AREsp n. 1.554.590/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1º/3/2024.
+VII - Recurso especial não conhecido.
+VOTO
+Inicialmente, passo à análise da alegação de ilegitimidade passiva e de falta de interesse da autoridade coatora para interpor recurso especial.
+O art. 14, § 2º, da Lei n. 12.016/2009 dispõe expressamente que se estende à autoridade coatora o direito de recorrer.
+O Supremo Tribunal Federal enfrentou a questão na ADI n. 4.403, sob relatoria do Ministro Edson Fachin, e entendeu que autoridade coatora possui legitimidade recursal, conforme ementa do julgado:
+Ação Direta de Inconstitucionalidade. Artigo 14, § 2º, da Lei nº 12.016/2009. Mandado de Segurança. Legitimidade recursal da autoridade coatora. Ausência de dispensa de capacidade postulatória. Ação julgada improcedente.
+1. O art. 14, § 2º, da Lei n. 12.016/2009, conferiu legitimidade recursal, não capacidade postulatória, à autoridade coatora, não havendo, pois, ofensa ao art. 133 da CRFB.
+(ADI 4403, Relator(a): EDSON FACHIN, Tribunal Pleno, julgado em 23/08/2019, PROCESSO ELETRÔNICO D Je-195 DIVULG 06-09-2019 PUBLIC 09-09-2019)
+No voto condutor do julgamento, evidenciou-se que não há capacidade postulatória para autoridade coatora, devendo ser representada por advogado no caso de recurso.
+Em ação mandamental, o pressuposto essencial da demanda é a alegação de que uma autoridade agiu com ilegalidade ou abuso de poder. Assim, presume-se o interesse em defender o ato por parte de quem o praticou, a fim de evitar qualquer questionamento sobre a sua conduta.
+Por outro lado, seria irrelevante o apelo nobre ter sido interposto pelo Município ou pela Secretária Municipal, uma vez que o art. 1.005 do CPC estabelece que o recurso interposto por um dos litisconsortes aproveita aos demais, salvo se distintos ou opostos os seus interesses, o que não foi o caso dos autos.
+No presente caso, verifica-se que o apelo nobre foi assinado por Procuradores Municiais, devidamente inscritos na Ordem dos Advogados do Brasil, com procuração outorgada pela Secretária de Fazenda Municipal às fls. 374.
+Desse modo, rejeito a preliminar de ilegitimidade passiva e da falta de interesse recursal.
+Passa-se a análise da tempestividade do recurso especial.
+A Segunda Turma desta Corte Superior, em recurso sob minha relatoria, entendeu que a autoridade coatora não possui a prerrogativa do prazo em dobro para recorrer, uma vez que tal benefício é reservado às pessoas jurídicas de direito público. Confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO DA CANDIDATA. PROCEDÊNCIA DO PEDIDO. RECURSO ESPECIAL. INTEMPESTIVIDADE. INTIMAÇÃO DA PESSOA JURÍDICA DE DIREITO PÚBLICO A QUE SE VINCULA À AUTORIDADE IMPETRADA. LEGITIMIDADE PROCESSUAL.
+(..)
+X - Ainda, a se admitir detenha a autoridade Municipal legitimidade recursal nos termos do art. 14, § 2º, da Lei n. 12.016/2009, há que se verificar o dies a quo em relação à impetração deste e, à medida em que dita autoridade não detenha a prerrogativa do prazo em dobro para recorrer, seu reclamo resta intempestivo vez que o prazo alongado é reservado à representação da pessoa jurídica de direito público respectiva.
+XI - Agravo interno improvido
+(AgInt no AREsp n. 1.430.628/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/8/2022, DJe de 25/11/2022.) (Grifo não consta do original)
+No caso em análise, a parte recorrente, consoante apontado em seu próprio recurso especial (fls. 597-e), foi intimada do acórdão recorrido em 29/7/2024 e o apelo nobre foi interposto apenas em 11/9/2024, sendo, portanto, claramente intempestivo.
+A tempestividade dos recursos é matéria de ordem pública, devendo ser aferida no momento da sua interposição, conforme os prazos estabelecidos pela legislação processual civil. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. INFORMAÇÕES PROCESSUAIS ELETRÔNICAS. MERAMENTE INFORMATIVAS. NEGATIVA DE PROVIMENTO.
+1. A tempestividade dos Recursos é matéria de ordem pública, devendo ser aferida no momento da sua interposição, conforme os prazos estabelecidos pela legislação processual civil. No caso, verifica-se que o Recurso Especial foi interposto fora do prazo de 15 (quinze) dias úteis previsto pelo art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, configurando sua intempestividade.
+2. As informações processuais veiculadas por meio eletrônico possuem caráter meramente informativo, não servindo eventuais erros ou omissões como justificativa para a extensão de prazos processuais.
+Incumbe ao advogado da parte o acompanhamento das publicações oficiais, a fim de observar os prazos de maneira adequada.
+3. A jurisprudência desta Corte Superior é firme no sentido de que a falta de comprovação de suspensão de prazo processual, por feriado local ou qualquer outro motivo, no momento da interposição do Recurso Especial, impede sua análise quanto à tempestividade.
+4. Diante do exposto, com fundamento no art. 1021, § 1º, do CPC/2015 e art. 259, § 2º, do RISTJ, nega-se provimento ao Agravo Interno.
+(AgInt no REsp n. 2.097.838/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE MANIFESTA .
+1. O recurso é manifestamente intempestivo, porquanto protocolado fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 219, caput, todos do Código de Processo Civil.
+2. "O juízo de admissibilidade do Recurso Especial está sujeito a duplo controle, de maneira que a aferição da regularidade formal do apelo, pela instância a quo, não vincula o Superior Tribunal de Justiça, já que se trata de juízo provisório, recaindo o juízo definitivo sobre este Sodalício, quanto aos requisitos de admissibilidade e em relação ao mérito" (AgInt no AREsp n. 2.297.149/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/8/2023, DJe de 29/8/2023).
+3. ""A tempestividade é um dos pressupostos recursais extrínsecos e, tratando -se de matéria de ordem pública, pode ser reconhecida a qualquer tempo pelo órgão julgador, não se sujeitando à preclusão" (EAg 1297346/MG, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO , julgado em 14/8/2013, DJe 21/8/2013), independentemente de provocação da parte contrária" (EDcl no AREsp n. 1.829.086/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021).
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.554.590/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+Frise-se que a tempestividade, por se tratar de um dos requisitos de admissibilidade do recurso, é condição indispensável para o exame do mérito, não sendo superável, ainda que se trate de questão de ordem pública. (AgInt no AREsp 1.347.850/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/2/2019, DJe 21/2/2019.)
+Ante o exposto, não conheço do recurso especial.
+É o voto.
