@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado pela SPDM - ASSOCIAÇÃO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de Instrumento Assistência Judiciária Gratuita.
+Ação de indenização por danos morais e estéticos - Pessoa jurídica de direito privado sem fins lucrativos - Alegação de impossibilidade de arcar com os custos do processo - Violação ao artigo 99, § 2º, do Código de Processo Civil - Determinação da apresentação de demonstrativos contábeis atuais - Descumprimento - Decisão mantida.
+Nega-se provimento ao recurso.
+Inconformada, a parte recorrente interpôs embargos de declaração na origem, os quais restaram rejeitados, conforme a seguinte ementa:
+EMBARGOS DE DECLARAÇÃ O.
+Sustenta a embargante a existência de omissão no acórdão embargado quanto à falta de manifestação acerca da aplicação do artigo 51 do Estatuto do Idoso - Inaplicabilidade, pois não há comprovação nos autos de que a embargante presta assistência direta e exclusiva a idosos - Verdadeiro pedido de novo exame da matéria de fundo.
+Inviabilidade. O julgado, demais, não precisa observar a todos os argumentos, nem tampouco responder a todas as questões.
+As questões pertinentes foram exauridas e não se encontra presente nenhuma das hipóteses previstas no artigo 1.022 do atual Código de Processo Civil (artigo 535 do CPC/1973).
+Embargos rejeitados.
+Quanto à controvérsia, a parte recorrente aduz, além de divergência jurisprudencial, ofensa ao art. 51 da Lei n. 10.741/2003, no que concerne à necessidade de que seja concedido o benefício da assistência judiciária gratuita a instituição filantrópica ou sem fins lucrativos prestadora de serviço às pessoas idosas, independentemente da comprovação de insuficiência econômica ou de que tal prestação seja feita exclusivamente às pessoas idosas, trazendo a seguinte argumentação:
+Consoante já exposto, o v. acórdão recorrido, equivocadamente, negou provimento ao Agravo de Instrumento da recorrente, negando-lhe o direito à assistência judiciária gratuita previsto no art. 51 da Lei nº 10.741/2003 por entender que, inobstante a recorrente preste serviços à população idosa, não o faz de forma exclusiva, não tendo, também, comprovado sua hipossuficiência financeira.
+Contudo, referido dispositivo legal determina que " as instituições filantrópicas ou sem fins lucrativos prestadoras de serviço às pessoas idosas terão direito à assistência judiciária gratuita ", não havendo, no mais, qualquer exigência quanto à exclusividade na prestação de serviço ou mesmo de demonstração de insuficiência econômica.
+Com a devida vênia, não pode a c. Câmara julgadora supor que o artigo mencionado exija da entidade exclusividade de atendimento aos idosos com previsão estatutária, o que destoa não apenas da redação legal, mas do entendimento jurisprudencial, uma vez que referida norma não condiciona a concessão da justiça gratuita ao atendimento exclusivo de pessoas idosas.
+Desse modo, acabou o v. acórdão por negar vigência ao art. 51 do Estatuto da Pessoa Idosa, o qual confere os benefícios da justiça gratuita às associações sem fins lucrativos que prestem serviços à população idosa, como inegavelmente é o caso da recorrente.
+O fato de a associação recorrente prestar atendimento médico- hospitalar para pessoas de todas as idades, incluindo a população idosa, é suficiente para dar-lhe o direito à benesse, conforme se depreende da leitura do artigo em questão, o qual não delimita ou determina que a prestação de serviço deve ser exclusiva.
+Assim, diferentemente do entendimento do v. acórdão recorrido, a Segunda Turma deste c. Superior Tribunal de Justiça, por meio de decisões monocráticas, reconheceu que as associações filantrópicas que prestem serviços ao idoso têm direito à benesse:
+ ..
+A reforçar, recente julgado dessa c. Corte (REsp 1.742.251/MG), disponibilizado em 15/09/2022, decidiu que a aplicação do art. 51 da Lei 10.741/2003 a entidades beneficentes independe de comprovação de insuficiência econômica, cabendo ao intérprete verificar somente o seu caráter filantrópico e a natureza do público por ela atendido:
+ ..
+Assim, é certo que o entendimento atual deste c. Tribunal Superior considera que a norma prevista no Estatuto do Idoso é exceção à regra geral do CPC, devendo ser concedido o benefício em tela à entidade beneficente prestadora de serviços à pessoa idosa em razão do seu caráter filantrópico ou sem fim lucrativo e da natureza do público por ela atendido, independentemente da comprovação da insuficiência econômica, o que, da mesma forma, deve ser ponderado no presente caso. (fls. 9.451-9.453).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente, no sentido de que deve ser concedido o benefício da gratuidade de justiça na forma do art. 51 do Estatuto da Pessoa Idosa, independentemente da comprovação de exclusividade na prestação de serviços às pessoas idosas.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ademais, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 25.3.2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.12.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
