@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto por SAGA COMÉRCIO E SERVIÇO TECNOLOGIA E INFORMÁTICA LTDA., ELEIDE MARIA CORREA e WALDEMAR GIL CORREA BARROS contra a decisão da Pr esidência deste Superior Tribunal de Justiça (e-STJ fls. 961/963) que conheceu do agravo para não conhecer do recurso especial devido à incidência da Súmula nº 735/STF.
+Em suas razões (e-STJ fls. 969/981), os agravantes aduzem que o acórdão proferido violou o artigo 300 do Código de Processo Civil e defendem a não incidência da Súmula em apreço.
+A parte contrária não apresentou impugnação (e-STJ fl. 987).
+É o relatório.
+DECIDO.
+Em virtude dos argumentos expostos pela parte agravante, reconsidera-se a decisão de e-STJ fls. 961/963 e passa-se à análise do apelo nobre, haja vista se encontrarem preenchidos os requisitos de admissibilidade do agravo em recurso especial.
+Trata-se de recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso assim ementado:
+"RECURSO DE AGRAVO DE INSTRUMENTO - INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA E A EXTENSÃO DOS EFEITOS DA FALÊNCIA - TUTELA DE URGÊNCIA - EXTENSÃO PARA OUTRA SOCIEDADE E SOCIOS POSSIBILIDADE MESMO GRUPO ECONÔMICO E - FAMILIAR - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA- REQUISITOS PRESENTES - RECURSO DESPROVIDO.
+Caracterizada a confusão patrimonial entre sociedades formalmente distintas, contudo do mesmo grupo econômico e familiar, torna-se legítima a desconsideração da personalidade jurídica da falida para que os efeitos do decreto falencial se estenda às demais sociedades e sócios envolvidos, muito mais ainda quando há fortes indícios de confusão patrimonial e desvio de finalidade das empresas." (e-STJ fl. 713)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 787/803).
+No recurso especial, os recorrentes apontam violação do artigo 300 do Código de Processo Civil, haja vista a concessão de tutela de urgência em desconsideração da personalidade jurídica fundada "exclusivamente na tese de confusão patrimonial representada na identidade de endereço de sociedade distintas." (e-STJ fl. 861)
+Contrarrazões às e-STJ fls. 892/903.
+A insurgência não merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. INCIDÊNCIA POR ANALOGIA. ART. 300 DO CPC. REQUISITOS. REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. VIOLAÇÃO ART. 54, §4º, DO CDC. INOVAÇÃO NO AGRAVO INTERNO. PRECLUSÃO. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DO AGRAVO INTERNO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. É inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão pela instância de origem a qualquer momento. Incidência, por analogia, da Súmula n. 735 do STF.
+2. Não se admite a revisão do entendimento firmado pela Corte de origem quando a controvérsia demandar a análise fático-probatória dos autos, ante a incidência do óbice da Súmula n. 7 do STJ.
+3. É inviável, diante da preclusão consumativa, a análise de matéria não suscitada nas razões de recurso especial e trazida posteriormente, em agravo interno.
+4. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios do art. 85, § 11, do CPC.
+5. Agravo interno desprovido" (AgInt no REsp n. 2.078.762/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+De fato, o STJ admite a mitigação da Súmula nº 735 do STF apenas quando a própria medida importe em ofensa direta à lei federal que disciplina a tutela provisória, o que não ocorre nestes autos.
+Nesse sentido:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO MULTIDISCIPLINAR. IMPOSSIBILIDADE DE ANÁLISE DE TUTELA DE URGÊNCIA POR MEIO DE RECURSO ESPECIAL. SÚMULA N. 735/STF.
+1. Esta Corte, em sintonia com o disposto na Súmula n. 735 do STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+2. O STJ admite a mitigação da Súmula 735 do STF apenas quando a própria medida importe em ofensa direta à lei federal que disciplina a tutela provisória (art. 273 do CPC/1973 ou art. 300 do CPC/2015), como, por exemplo, quando houver norma proibitiva da concessão dessa medida, de modo que "apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgInt no REsp n. 1179223/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15/3/2017).
+3. Hipótese em que a parte sequer indicou a violação do art. 300 do CPC/2015 nas razões do apelo nobre, de modo que, sendo a tese referente ao mérito da decisão de antecipação de tutela deferida nos autos, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 17/ 2/2014). Agravo interno improvido." (AgInt no AREsp n. 2.134.498/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/11/2023, DJe de 22/11/2023).
+Na hipótese, o tribunal de origem entendeu pela presença dos requisitos para concessão da tutela de urgência, nos seguintes termos:
+"(..)
+Após detida análise no conjunto probatório, bem como nas alegações apresentadas na inicial do recurso, não se constata motivos para reformar a decisão agravada. Isto porque, a probabilidade do direito milita em favor da empresa agravada, uma vez que, de fato, verifica-se fortes indícios de confusão patrimonial e de desvio de finalidade, diante da existência de ligação entre os sócios da SAGA e da falida ADM, os quais são membros da mesma família.
+(..)
+Ademais, no Procedimento Criminal nº 17533-04.2016.8.11.0042 - Cód. 440951, o sócio falido EDÉZIO CORREA realizou acordo de colaboração premiada, onde foi admitido pelo próprio colaborador que ele é o proprietário de fato da empresa SAGANEWS SISTEMA DE ABASTECIMENTO E GESTÃO AUTOMOTIVA, ou seja, a sua irmã e o seu pai, ELEIDE MARIA CORREA e WALDEMAR GIL CORREA BARROS figuravam como "laranjas" no esquema, a fim de maquiar e blindar os verdadeiros donos do empreendimento e de ocultar a ligação existente entre esta empresa (a Saga News) e a falida ADM ( dos ID nº 73927438 autos principais), Se não fosse o bastante, as atividades exercidas são as mesmas, portanto, até prova em contrário, deve prevalecer a decisão recorrida tal como lançada". (e-STJ fls. 665/667)
+Assim, o acolhimento da pretensão recursal para se concluir pela revogação da tutela de urgência demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 969/981 e, em novo exame, conheço do agravo para não conhecer do Recurso Especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixaçã o de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TUTELA DE URGÊNCIA. REQUISITOS. ARTIGO 300 DO CÓDIGO DE PROCESSO CIVIL. CONFIGURAÇÃO. SÚMULA Nº 735/STF. INCIDÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não ser cabível recurso especial, cujo objeto seja o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária do juízo de mérito, da qual a reversão é possível a qualquer momento pela instância primeva. Incidência, por analogia, da Súmula nº 735/STF.
+2. A revisão das conclusões da Corte de origem quanto ao preenchimento dos requisitos do artigo 300 do CPC demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
