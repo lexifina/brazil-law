@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de CLAUDINEI CRIVELARI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fl. 2).
+A defesa afirma que o paciente teve negado o pedido de remição de 177 dias de pena pela aprovação no Encceja e conclusão do ensino fundamental (fls. 3-4).
+Alega que o paciente teria frequentado o ensino fundamental no cárcere, totalizando 532 horas de estudo, e posteriormente foi aprovado no Encceja, fazendo jus à remição pela aprovação no exame nacional (fls. 4-5).
+Sustenta que, conforme a Recomendação n. 44 do CNJ, deve-se considerar a carga horária total de 1.600 horas para o ensino fundamental, requerendo 133 dias de remição, além do acréscimo de 1/3 das remições pela conclusão do ensino fundamental, totalizando 177 dias (fl. 5).
+Requer, assim, a concessão da ordem de habeas corpus para declarar a totalidade de 177 dias de remição pela aprovação no Encceja, conforme o art. 126, § 1º, I, da LEP e a Recomendação n. 44 do CNJ (fl. 6).
+É o relatório.
+Inicialmente, a despeito do não cabimento deste writ, utilizado como substituto de recurso próprio, procedo à análise do feito, a fim de verificar a ocorrência de eventual constrangimento ilegal.
+No caso dos autos, o Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, consignando, para tanto, que (fls. 11-12):
+No presente caso, verifica-se o Agravante já foi beneficiado pelos estudos com a remição de 59 dias da pena, pelo período que estudou 18.01 a 19.12.2018 (fls. 585/586 autos principais) e, a concessão da remição por conclusão do ensino fundamental, utilizando o mesmo período, trará a duplicidade na concessão do benefício, o que não pode ocorrer, em razão do bis in idem.
+ ..
+Logo, deve ser mantida a r. decisão agravada.
+Ante o exposto, NEGO PROVIMENTO ao presente Agravo em Execução interposto por CLAUDINEI CRIVELARI, qualificado nos autos, mantendo a r. decisão agravada por seus próprios fundamentos.
+O acórdão impugnado contraria a jurisprudência desta Corte Superior, cujo entendimento é o de que a "remição de pena pela aprovação no ENCCEJA é possível mesmo para apenados vinculados a atividades regulares de ensino no interior do estabelecimento prisional" (HC n. 879.652/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 8/10/2024, DJe de 15/10/2024).
+Com efeito, para evitar o duplo benefício pelo mesmo fato gerador, é necessário descontar dos 177 dias a serem remidos pela aprovação total no Encceja 2019 (fl. 20), os dias já concedidos anteriormente pelo Juízo da execução, em razão da remição referente a estudo do ensino fundamental durante a execução da pena, nos períodos de 18/1/2018 a 19/12/2018 (fl. 16).
+No mesmo sentido da decisão do Juízo da execução p enal, confiram-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO. ENCCEJA. POSSIBILIDADE. COMPLEMENTARIEDADE À REMIÇÃO ANTERIOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. A aprovação em todas as áreas de conhecimento, para efeito de conclusão do ensino fundamental via ENCCEJA, redunda em remição de 177 dias, conforme remansosa jurisprudência desta Corte.
+2. Tendo o reeducando obtido prévia remição de 33 dias em razão da prática de estudos no estabelecimento penal, a aprovação em todas as áreas de conhecimento do ENCCEJA deve render-lhe os demais dias faltantes para se completar o total previsto acima, motivo pelo qual agiu bem a Corte de origem ao conceder os 144 dias restantes de remição ao ora agravado.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.124.085/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+PENAL E PROCESO PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. REMIÇÃO DE PENAS. APROVAÇÃO NO ENCCEJA. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL. RECOMENDAÇÃO N. 44/2013 REVOGADA PELA RESOLUÇÃO 391/2021, DO CONSELHO NACIONAL DE JUSTIÇA. DIREITO MANTIDO NOS MESMOS MOLDES NÃO AFETA ENTENDIMENTO DESTA CORTE. POSSIBILIDADE DE DECOTAR REMIÇÃO ANTERIOR PELO MESMO MOTIVO SOB PENA DE BIS IN IDEM. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Assente que a defesa deve trazer alegações capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - A Recomendação n. 44/2013 foi substituída pela Resolução n. 391, de 10 de maio de 2021, que, em seu art. 3º, parágrafo único, dispõe sobre a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão de ensino fundamental (ENCCEJA ou outros) e aprovação no ENEM, basicamente nos mesmos moldes da Recomendação anterior, assim como o que foi modificado não afetou o entendimento já esposado.
+III - O paciente já havia sido beneficiado com a remição de carga horária parcial em razão de estudos do mesmo nível fundamental, nos estudos no CEJA , Centro de Educação de Jovens e Adultos, relativo ao ensino médio, como bem salientado nas decisões das instâncias de origem, o que caracterizaria a duplicidade do benefício, no caso de deferimento de nova remição total de pena.
+IV - O entendimento desta Corte é da possibilidade de decotar da nova remição os dias anteriormente remidos e, embora o Tribunal tenha usado de uma dinâmica diversa, qual seja, conceder a totalidade e revogar os dias em duplicidade, no final, matematicamente, o resultado seria o mesmo, qual seja, o de conceder nova remição, excluindo os dias já remidos, o que não caracteriza prejuízo na quantidade de dias.
+Agravo regimental desprovido.
+(AgRg no HC n. 776.917/SC, relator M inistro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente do habeas corpus, contudo, concedo a ordem de ofício para determinar ao Juízo da execução que analise o pedido de remição, de modo a descontar do total de dias remidos em razão da conclusão do ensino fundamental pela aprovação total no Encceja 2018 os dias anteriormente remidos em razão da frequência ao ensino regular do nível fundamental no estabelecimento prisional.
+Comunique-se. Publique-se. Intimem-se.
+EMENTA
