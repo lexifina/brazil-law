@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DIEGO FARIAS LIMA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Consta dos autos que o paciente foi condenado pelo Tribunal do Júri a 12 anos de reclusão por homicídio qualificado, com recurso que dificultou a defesa da vítima, em regime inicial fechado.
+A parte impetrante sustenta que a decisão do Tribunal de origem que julgou recurso de apelação interposto pela defesa, determinou a execução provisória da condenação, cassando o direito do réu recorrer em liberdade, em afronta ao art. 617 do Código de Processo Penal.
+Cita jurisprudências do STF e do STJ que impedem a execução provisória da pena em casos de recurso exclusivo da defesa.
+Requer, liminarmente e no mérito, a concessão da ordem para ser garantido o direito do paciente recorrer em liberdade.
+É o relatório.
+A prisão do paciente foi assim analisada no acórdão recorrido (fl. 35):
+Portanto, o pleito de submissão do apelante DIEGO FARIAS LIMA a novo julgamento afigura-se improcedente.
+Com essas considerações, recurso conhecidos, mas DESPROVIDO. Publicado o v. acórdão, DETERMINA-SE o encaminhamento ao Juízo singular para ordenar a execução provisória da pena, pelo Juízo da Execução Penal competente, nos termos do art. 637 do CPP, visto que "a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada", consoante decisão proferida pelo c. STF, em repercussão geral (Tema 1068 - RE 1235340/SC - Relator: Min. Luís Roberto Barroso - 12.9.2024).
+Consoante disposto no art. 492, I, e, do Código de Processo Penal, alterado pela Lei n. 13.964/2019, o presidente do Júri:
+Art. 492.  ..
+I - no caso de condenação:
+ ..  e) mandará o acusado recolher-se ou recomendá-lo-á à prisão em que se encontra, se presentes os requisitos da prisão preventiva, ou, no caso de condenação a uma pena igual ou superior a 15 (quinze) anos de reclusão, determinará a execução provisória das penas, com expedição do mandado de prisão, se for o caso, sem prejuízo do conhecimento de recursos que vierem a ser interpostos; (sem grifos no original).
+No presente caso, o paciente foi condenado pelo Conselho de sentença a 12 anos de reclusão, circunstância que impõe a execução provisória da pena, nos termos do dispositivo acima mencionado.
+A matéria, a propósito, teve a repercussão geral reconhecida pelo Supremo Tribunal Federal (RE n. 1.235.340/SC - Tema n. 1.068) e foi julgada em 12/9/2024, oportunidade em que o Tribunal, por maioria:
+ ..  (b) deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei nº 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados. Por arrastamento, excluiu do § 4º e do § 5º, inciso II, do mesmo art. 492 do CPP, a referência ao limite de 15 anos; e (c) fixou a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+Logo, apesar das alegações defensivas, não há falar em reformatio in pejus, posto que a execução provisória decorre da soberania dos veredictos, não sendo necessária discussão sobre os requisitos da custódia cautelar ou sobre a idoneidade da fundamentação da prisão preventiva, pois, havendo a condenação pelo Júri Popular, independentemente da reprimenda aplicada, deverá ser determinada a execução provisória da pena e expedido o mandado de prisão, nos termos do art. 492, I, e, do Código de Processo Penal, em conjunto com o julgamento supramencionado.
+No mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. PACIENTE CONDENADO PELO TRIBUNAL DO JÚRI. EXECUÇÃO PROVISÓRIA DA SENTENÇA CONDENATÓRIA (ART. 492, I, e DO CPP). POSSIBILIDADE. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA 1.068 DA REPERCUSSÃO GERAL JULGADO PELA SUPREMA CORTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. LIMINAR REVOGADA. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Caso em que o magistrado Presidente do Tribunal do Júri, ao proferir a sentença, determinou a prisão do réu com base na regra prevista no art. 492, I, e, do Código de Processo Penal, que estabelece a execução provisória das sentenças do Tribunal do Júri. Ausência de constrangimento ilegal.
+3. O plenário do Supremo Tribunal, por maioria de votos, apreciando o tema 1.068 da repercussão geral, "deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei nº 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados" e fixou a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+4. Habeas corpus não conhecido. Liminar revogada.
+(HC n. 913.224/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024.)
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
