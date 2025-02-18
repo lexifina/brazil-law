@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por ARAES AGROPASTORIL LTDA. e OUTROS (fls. 473-516) contra o acórdão da Primeira Turma assim ementado (fl. 398):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+Os embargos de declaração subsequentemente opostos (fls. 408-412) foram rejeitados (fls. 462-467).
+Aduz a parte embargante que há divergência com acórdão paradigma da Quarta Turma (AgInt no REsp n. 1.40.867/RS) relativamente à violação do art. 1.022 do CPC.
+Às fls. 420-450, há petição de embargos de divergência.
+É o relatório. Decido.
+De início, é oportuno ressaltar que a interposição de dois recursos pela mesma parte - embargos de declaração (fls. 408-412) e embargos de divergência (fls. 420-450) - contra o mesmo ato judicial, a saber, o acórdão proferido no julgamento do agravo interno (fls. 400-404), inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+Assim, não conheço dos embargos de divergência de fls. 420-450.
+Passo, pois, à análise dos embargos de divergência de fls. 473-516, que foram interpostos contra o acórdão proferido no julgamento do agravo interno, complementado pelo julgamento dos subsequentes embargos de declaração (fls. 462-467).
+Os embargos de divergência não podem ter trânsito, porquanto não há similitude entre os arestos confrontados.
+Note-se que o acórdão embargado afastou a negativa de prestação jurisdicional por entender que a matéria controvertida fora devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada.
+Já o acórdão paradigma versa sobre hipótese em que foi reconhecida a negativa de prestação jurisdicional pelo Tribunal de origem ao deixar de enfrentar tema que, em tese, era relevante para o julgamento da respectiva controvérsia.
+Assim, fica inviabilizado o conhecimento da divergência, porquanto a conclusão depende das peculiaridades de cada caso concreto. Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO QUANTO À OFENSA AO ART. 1.022 DO CPC/2015). IMPOSSIBILIDADE. COTEJO ANALÍTICO. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. SÚMULA 315/STJ. INDICAÇÃO DE ARESTO ORIUNDO DO JULGAMENTO DE MANDADO DE SEGURANÇA E HABEAS CORPUS PARA EMBASAR A DIVERGÊNCIA. IMPOSSIBILIDADE.
+1. A jurisprudência do STJ é de que não cabem Embargos de Divergência relativos a dissídio no que concerne à violação dos arts. 489 e 1.022 quando impossível verificar a similitude fática entre o acórdão embargado e os paradigmas apontados, dada as situações fáticos-processuais distintas e a necessidade de análise individualizada de cada caso concreto, como na hipótese em exame.
+2. O acórdão embargado concluiu pela impossibilidade de examinar o mérito do Recurso Especial em razão da incidência das Súmulas 5, 7, 211/STJ e da inovação recursal. Tal situação impede, por si, o conhecimento desta via de impugnação, pois é inadmissível interpor Embargos de Divergência quando não apreciado o mérito do Recurso Especial, nos termos da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. O STJ firmou entendimento de que, em Embargos de Divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional, como Habeas Corpus, Mandado de Segurança, Habeas Data e Mandado de Injunção.
+4. Agravo Interno não provido. (AgInt nos EAREsp n. 1.363.487/PR, relator Ministro Herman Benjamin, Corte Especial, julgado em 26/4/2022, DJe de 23/6/2022, destaquei.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISCUSSÃO ACERCA DA PRESTAÇÃO JURISDICIONAL NA HIPÓTESE EM CONCRETO. ART. 689 DO CPP. INVIABILIDADE.
+1. O juízo quanto à violação, ou não, dos arts. 489 e 1.022 do CPC/2015 (ou ainda, 619 do CPP) decorre do exame das circunstâncias de cada caso concreto que possam evidenciar falha na prestação jurisdicional, o que inviabiliza, de pronto, o manejo dos embargos de divergência, dada a natural diferença existente entre o quadro fático subjacente a cada demanda. Precedentes.
+2. Agravo regimental não provido. (AgRg nos EAREsp n. 1.765.743/PR, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 23/11/2021, DJe de 25/11/2021, destaquei.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO CONHECIDO. SÚMULA 315/STJ. ALEGAÇÃO DA EXISTÊNCIA DE DISSÍDIO RELACIONADO À APLICAÇÃO DOS ARTS. 489, § 1º, E 1.022 DO CPC/15. VERIFICAÇÃO CASUÍSTICA. IMPOSSIBILIDADE. PRECEDENTES DA CORTE ESPECIAL. MANUTENÇÃO DA DECISÃO QUE INDEFERIU LIMINARMENTE O RECURSO.
+1. Nos termos da Súmula 315 deste STJ, "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Aplicação analógica à hipótese.
+2. No caso dos autos, a Quarta Turma do STJ, ao negar provimento ao agravo interno, manteve a decisão que não conhecera do agravo em recurso especial, também com fundamento na orientação contida na súmula 182 do STJ.
+3. Não tendo sido efetivamente apreciado o mérito do recurso especial interposto, os embargos de divergência são manifestamente inadmissíveis.
+4. Ademais, é entendimento sedimentado no Superior Tribunal de Justiça de que a verificação da ocorrência ou não dos vícios listados no artigo 1.022 do CPC, bem assim do art. 489, § 1º, depende da apreciação das premissas fáticas do caso concreto, o que obsta o conhecimento dos embargos de divergência ante a inviabilidade de confrontação entre os casos. Precedentes.
+5. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. (AgInt nos EAREsp n. 1.724.991/DF, relator Ministro Paulo de Tarso Sanseverino, Corte Especial, julgado em 26/10/2021, DJe de 3/11/2021, destaquei.)
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
