@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Denize Aparecida dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2008539-47.2025.8.26.0000).
+Narram os autos que a paciente foi autuada em flagrante delito, no dia 29/10/2024, pela suposta prática do crime de furto qualificado. Posteriormente, a prisão preventiva foi decretada nos Autos n. 1502450-06.2024.8.26.0322.
+Neste mandamus, a Defensoria Pública alega, em síntese, que a ausência de fundamentos concretos para a prisão cautelar, destacando que a paciente é primária, possui bons antecedentes e tem um filho menor de 12 anos de idade.
+Aduz que o crime praticado não possui violência ou grave ameaça.
+Requer, inclusive liminarmente, a revogação da prisão preventiva ou, subsidiariamente, a substituição pela prisão domiciliar.
+É o relatório.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+In casu, contudo, o writ não comporta seguimento.
+Inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta à paciente.
+As circunstâncias do crime e o risco de reiteração delitiva denotam a existência de ameaça real à ordem pública, como se vê deste trecho da decisão de prisão preventiva (fls. 38 - grifo nosso): E o caso é de decreto de prisão preventiva, para resguardo da ordem pública. Embora a autuada seja tecnicamente primária (possui uma condenação por furto do ano de 2007 - fl. 38), há menos de dez dias foi presa em flagrante pela prática, em tese, de outro furto qualificado, também em residência (Proc. 1500291-32.2024, desta 1.ª V. Criminal - fl. 37), ocasião em que foi beneficiada com a liberdade provisória mediante cumprimento de medidas cautelares diversas da prisão. Assim, pouco tempo após ser beneficiada com liberdade provisória, a autuada, ao menos em tese, voltou a praticar delito semelhante, evidenciando que seu estado de liberdade coloca em risco a ordem pública, dada a clara possibilidade de novas práticas ilícitas, especialmente contra o patrimônio alheio. Medidas cautelares diversas da prisão já aplicadas no outro processo não foram suficientes para a garantia a ordem pública, abalada pela investida dela contra o patrimônio alheio mais uma vez, restando apenas a prisão como medida eficaz.
+Acerca da prisão domiciliar, disse o Magistrado de piso que, em solo policial, ela respondeu que tem dois filhos, de 15 a 04 anos de idade, que moram e ficam sob os cuidados de sua mãe. Por fim, ela afirmou não "socorrer ninguém". Fica evidente, pois, que o pleito do Defensor Público não beneficiaria a prole da acusada, que, ao que consta, residiria até em outra Cidade e não dependem em nada dela, mas, tão-somente, a ela própria (fl. 76 - grifo nosso).
+O Tribunal a quo denegou a ordem do habeas corpus com estes fundamentos (fls. 87/92 - grifo nosso):
+ ..
+Isto posto, em consulta à certidão de antecedentes juntada às fls. 26/28 verifica-se a existência de processo anterior com condenação da paciente pela prática de idêntico delito, furto qualificado, com trânsito em julgado em 07 de agosto de 2007. Destarte, não se trata de pessoa primária, mas sim recalcitrante no meio criminoso, não se tratando a presente ocorrência de fato novel.
+ ..
+Não bastante, da mesma certidão consta registro de prisão em flagrante em 21 de outubro de 2024 novamente pela prática de furto qualificado, sendo-lhe concedida a liberdade provisória. Todavia, meros 07 (sete) dias após a referida ocorrência, veio a ser novamente apreendida por agentes policiais, concretizando sua terceira passagem criminal por igual delito.
+Em curtíssimo espaço de tempo reitera a paciente sua conduta criminosa, demonstrando completo desprezo pela confiança que lhe foi depositada ao ser beneficiada com a liberdade em outro feito. Ademais, exsurge latente sua periculosidade pela pretensão de permanecer desvirtuando a ordem pública com a prática de crimes.
+ ..
+Quanto ao pedido de substituição da prisão preventiva da paciente por prisão domiciliar em razão de ser mãe de criança com 12 (doze) anos incompletos, reputo ser impossível seu acolhimento.
+ ..
+Não basta o fato de a custodiada ser mãe para a concessão de liberdade sob essa a condição, mas sim que esta, enquanto genitora, seja pessoa indispensável ao exercício do cuidado parental.
+ ..
+A própria paciente afirma que seus filhos residem e são cuidados pela avó materna, restando evidente que não é ela a responsável indispensável pelos cuidados de filho menor impúbere e, portanto, não faz jus ao benefício aqui requerido.
+ ..
+Assim, como bem pontuado nos trechos acima transcritos, autoriza a prisão preventiva a conclusão de que é devida a determinação de prisão cautelar em razão da reiteração delitiva, já que a paciente possui condenação criminal transitada e julgado e ação penal em andamento, onde havia sido beneficiada com a liberdade provisória há poucos dias.
+Nesse sentido, segundo o entendimento desta Corte, a preservação da ordem pública justifica a imposição da custódia cautelar quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC n. 547.861/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/2/2020).
+Acerca do pedido de substituição da prisão preventiva pela prisão domiciliar, sem razão mais uma vez a paciente. Não se vislumbra tal possibilidade, visto que não houve a comprovação, por parte da defesa, de que a paciente é responsável pelos filhos, pois ela mesma afirmou, na audiência de custódia, que eles residem com sua mãe, em outra cidade.
+Ante o exposto, indefiro liminarmente a inicial do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. RISCO DE REITAÇÃO DELITIVA. PACIENTE É REINCIDENTE E RESPONDE A OUTRA AÇÃO PENAL, ONDE HAVIA SIDO BENEFICIADA COM A LIBERDADE PROVISÓRIA HÁ POUCO TEMPO. PRISÃO DOMICILIAR. IMPOSSIBILIDADE. FILHOS MENORES QUE NÃO RESIDEM COM A RÉ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus indeferido liminarmente.
