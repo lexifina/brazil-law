@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o JUIZO DA VARA DO TRABALHO DE ARROIO GRANDE/RS, ora suscitante, e o JUIZO DE DIREITO DA 1A VARA DE JAGUARAO/RS, ora suscitado, nos autos de medida cautelar de entrega de bens ajuizada por Gilda Eva Neuman Martinez, em face de Eloi Ricardo Robalo e Luis Gabriel Robalo.
+O Juízo trabalhista, suscitante, declinou da sua competência por entender que "de acordo com a petição inicial, a relação existente entre as partes é de amizade e vizinhança, o que leva a crer que os réus não tenham vínculo de emprego formalmente reconhecido com a autora, tampouco registro de contrato de trabalho em CTPS" (e-STJ, fls. 46/47). Aduziu, outrossim, que "a controvérsia em exame não se insere em nenhum dos incisos do artigo 114 da Constituição Federal" (e-STJ, fl. 47).
+O Juízo Cível, suscitado, por sua vez, também declarou sua incompetência, sob o argumento de que "com fulcro no art. 114, inciso I, da CF, o qual dispõe competir à Justiça do Trabalho processar e julgar as ações oriundas da relação de trabalho, entendo ser este juízo incompetente para a análise da demanda, devendo ela ser remetida à Justiça do Trabalho" (e-STJ, fl. 71).
+O Ministério Público Federal apresentou parecer pela declaração de competência do Juízo suscitado, em parecer cuja ementa registra (e-STJ, fl. 58/61):
+- Conflito negativo de competência entre Juízo de Direito e Juízo do Trabalho. Medida Cautelar de entrega de bens.
+- Matéria afeta à Justiça Comum. Inexistência das hipóteses previstas no art. 114, da Constituição Federal a justificar a atuação da Justiça Especializada no feito.
+- Parecer pelo conhecimento do conflito negativo de competência, para que se declare a competência do MM.
+Juízo de Direito da 1ª Vara de Jaguarão/RS, para processar e julgar a demanda.
+É o relatório.
+Decido.
+A controvérsia diz respeito à competência para exame e julgamento de medida cautelar de entrega de bens ajuizada por Gilda Eva Neuman Martinez, em face de Eloi Ricardo Robalo e Luis Gabriel Robalo.
+Como cediço, a competência para o julgamento do feito deve ser definida pelo pedido e pela causa de pedir. No caso dos autos, não se verifica vinculo de emprego entre as partes da ação proposta na origem, pois o que se tem é um pedido da parta autora no sentido de "deferimento da presente medida cautelar para que sejam retiradas os pertences pessoais, bem como o veículo automotor" (e-STJ, fl. 18) da parte requerida.
+Conforme consignado pelo d. representante do Ministério Público Federal, em seu parecer:
+06. A seu turno, no mérito, razão assiste ao MM. Juízo Suscitante.
+07. Com efeito, a jurisprudência dessa colenda Superior Corte de Justiça é assente no sentido de que o pedido e a causa de pedir definem a natureza jurídica da lide e, consequentemente, apontam o juízo competente para dirimi-la em razão da matéria. Nesse sentido: CC 48.976/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, PRIMEIRA SEÇÃO, julgado em 09/08/2006, DJ de 28/08/2006, p. 205).
+08. No caso, a controvérsia gravita em torno da competência para processar e julgar a Medida Cautelar de entrega de bens (fls. 16/18) proposta por GILDA EVA NEUMAM MARTINEZ em desfavor de LUIS GABRIEL DE OLIVEIRA ROBALLO e de ELOI RICARDO ROBALO. Como se depreende, não há vínculo de emprego instaurado entre as partes, pois a relação alegada na inicial relata o ingresso do vizinho da autora na residência em virtude de relação de amizade existente previamente (fl. 17), sendo, portante, de cunho civil, o que atrai a competência da justiça estadual para a demanda. Nesse sentido, confira-se o seguinte precedente, in verbis:
+(..)
+09. Ademais, verifica-se que o pedido não versa sobre verbas trabalhistas devidas e nem sobre acidente de trabalho. Portanto, não se verifica, no caso, nenhuma das hipóteses previstas no art. 114, da Constituição Federal, hábil a atrair a competência da Justiça Especializada para a causa. Assim, a presente demanda é de competência da Justiça Comum.
+10. Pelas razões expostas, o M INISTÉRIO P ÚBLICO F EDERAL opina pelo conhecimento do conflito negativo de competência, para que se declare competente o MM. Juízo de Direito da 1ª Vara de Jaguarão/RS, o Suscitado, para processar e julgar a demanda.
+Da jurisprudência deste Superior Tribunal, colhe-se o entendimento segundo o qual "(..) quando a controvérsia estabelecida apresenta contornos de natureza eminentemente civil, notadamente por não envolver disputa entre empregado e empregador" (CC n. 72.770/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 27/06/2007, DJe de 01/08/2007).
+No mesmo sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA ESTADUAL. JUSTIÇA DO TRABALHO. AÇÃO CIVIL PÚBLICA OBJETIVANDO O PAGAMENTO TEMPESTIVO DO HONORÁRIOS MÉDICOS. AUSÊNCIA DE RELAÇÃO DE TRABALHO. DISCUSSÃO SOBRE O INADIMPLEMENTO DE VALORES DECORRENTES DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS MÉDICOS. CAUSA DE PEDIR. PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Segunda Seção se firmou no sentido de que a competência ratione materiae é definida em função do pedido e da causa de pedir.
+2. Na hipótese, a demanda é proveniente de relação jurídica de caráter eminentemente civil, porquanto a causa de pedir se refere a contrato de prestação de serviços médicos e o pedido é o de obrigação do pagamento tempestivo dos honorários médicos, até o quinto dia útil de cada mês, com fixação de astreintes em caso de descumprimento da determinação judicial.
+3. Agravo interno não provido. (AgInt no CC n. 191.952/MS, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 05/03/2024, DJe de 07/03/2024, grifei).
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM. AÇÃO DE COBRANÇA DE REMUNERAÇÃO DE SÓCIO-ADMINISTRADOR. PRÓ-LABORE. CAUSA DE PEDIR. PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Compete à Justiça Comum processar e julgar ação de cobrança de remuneração de sócio-administrador, pró-labore, porquanto a controvérsia posta na demanda deriva de relação jurídica de cunho eminentemente civil, nem sequer tangenciando eventual relação de emprego.
+2. Conflito conhecido para declarar competente a Justiça Comum Estadual. (CC n. 127.338/MG, relator Ministro Raul Araújo, Segunda Seção, julgado em 12/02/2014, DJe de 10/03/2014, grifei).
+Ante o exposto, conheço do conflito para declarar competente o JUIZO DE DIREITO DA 1A VARA DE JAGUARAO/RS, ora suscitado.
+Publique-se. Intime-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. DANOS DECORRENTES DE DESCONTO INDEVIDO DE CONTRIBUIÇÃO ASSOCIATIVA EM BENEFÍCIO PREVIDENCIÁRIO. MATÉRIA EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
