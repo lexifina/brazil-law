@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UMC - Usinagem Metalização e Cromo Duro LTDA. e outros em face da seguinte decisão:
+Trata-se de agravo interno interposto por UMC - Usinagem Metalização e Cromo Duro LTDA. e outros em face da seguinte decisão, integrada por embargos de declaração rejeitados:
+(..)
+Afirmam "que os Agravantes impugnaram de maneira específica os fundamentos da r. Decisão agrava, trazendo para a discussão a violação expressa à lei perpetrada" (e-STJ, fl. 632), razão pela qual não teria cabimento a incidência das disposições do artigo 932, III, do Código de Processo Civil e enunciado n. 182 da Súmula desta Casa. Pedem o provimento do recurso, que, embora intimada a parte contrária, não foi respondido.
+Têm razão os recorrentes quando afirmam que houve impugnação aos fundamentos da decisão agravada, notadamente no que diz respeito à violação do artigo 1.022 do Código de Processo Civil.
+É o que se colhe de fl. 580 (e-STJ) e seguintes.
+Merece, pois, conhecimento o agravo em recurso especial, o qual passa a ser examinado.
+Os recorrentes manifestaram agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO MONITÓRIA - CÉDULA DE CRÉDITO BANCÁRIO - DESCONTO DE TÍTULOS - PRESCRIÇÃO - TÍTULO NÃO PRESCRITO - VENCIMENTO PACTUADO NO BORDERÔ - - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - NÃO ADMITIDA - INVERSÃO DO ÔNUS DA PROVA - DESNECESSIDADE NO CASO EM CONCRETO - DISTRIBUIÇÃO DINÂMICA DO ÔNUS DA PROVA - IMPOSSIBILIDADE.
+I. Nas Cédulas de Crédito Bancário da espécie "Desconto de Títulos", o fato gerador não é a data da assinatura do contrato, mas sim a data de vencimento impressa em cada borderô emitido.
+II. O art. 2º do CDC dispõe que consumidor é a pessoa física ou jurídica que adquire produto ou serviço como destinatário final. Os contratos que visam a capitalização da pessoa jurídica não caracterizam relação de consumo.
+III. O Código de Processo Civil adotou como regra a distribuição estática do ônus da prova, na qual incumbe ao autor provar o fato constitutivo de seu direito e ao réu a existência de fato impeditivo, modificativo ou extintivo do direito do autor (art. 373, I e II, CPC). Desnecessária se faz a inversão do ônus da prova quando já cabe ao autor comprovar os fatos constitutivos do seu direito.
+Alegaram, na ocasião, violação dos artigos 206, § 5º, I, do Código Civil; 6º VIII, do Código de Defesa do Consumidor; e 373, § 1º, 489, § 1º, e 1.022, II, do Código de Processo Civil, associada a dissídio jurisprudencial, sob os argumentos de que o acórdão de origem é omisso; que já transcorreu o prazo de prescrição; e que deveria haver a inversão do ônus da prova.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte. Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, D Je 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, D Je 6/5/2011.
+No que toca à inversão do ônus da prova, o Tribunal local (..) concluiu não haver relação de consumo entre as partes, mas de insumo, de modo que as disposições do Código de Defesa do Consumidor não se aplicam no caso.
+A Corte de origem, ademais, não vislumbrou "dificuldade excessiva pelas Agravantes em produzir as provas hábeis a comprovar os fatos impeditivos, modificativos ou extintivos do direito do Autor, ora Agravado. Isto, pois, revela-se impertinente atribuir ao Autor a realização de prova negativa do direito pleiteado (prova diabólica), considerando que este já carrega o ônus probatório dos fatos constitutivos do seu direito" (e-STJ, fl. 482).
+Ambos os entendimentos são imunes ao crivo do recurso especial diante das disposições do verbete n. 7 da Súmula desta Casa.
+Assim:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. "Esta Corte Superior consolidou o entendimento no sentido de que no contrato de compra e venda de insumos agrícolas, o produtor rural não pode ser considerado destinatário final, razão pela qual, nesses casos, não incide o Código de Defesa do Consumidor. Ausente a relação de consumo, torna-se inaplicável a inversão do ônus da prova prevista no inciso VIII do art. 6º, do CDC, a qual, mesmo nas relações de consumo, não é automática ou compulsória, pois depende de criteriosa análise do julgador a fim de preservar o contraditório e oferecer à parte contrária oportunidade de provar fatos que afastem o alegado contra si. Precedentes." (AgRg no AREsp 86.914/GO, Relator o Ministro Luis Felipe Salomão, D Je de 28/6/2012).
+2. Para configuração do dever de indenizar da recorrida, como pretende a recorrente, seria imprescindível derruir as conclusões a que chegou a Corte local, o que demandaria o reexame do contexto fático-probatório dos autos, providência vedada em sede de recurso especial, em razão do óbice contido na Súmula 7 deste Tribunal.
+3. Agravo interno desprovido. (AgInt no R Esp n. 1.657.303/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/4/2018, D Je de 18/4/2018.)
+PROCESSUAL CIVIL. PENHORA. DEPÓSITOS EM CONTAS CORRENTES. NATUREZA SALARIAL. IMPENHORABILIDADE. ÔNUS DA PROVA QUE CABE AO TITULAR.
+1. Sendo direito do exequente a penhora preferencialmente em dinheiro (art. 655, inciso I, do CPC), a impenhorabilidade dos depósitos em contas correntes, ao argumento de tratar-se de verba salarial, consubstancia fato impeditivo do direito do autor (art. 333, inciso II, do CPC), recaindo sobre o réu o ônus de prová-lo.
+2. Ademais, à luz da teoria da carga dinâmica da prova, não se concebe distribuir o ônus probatório de modo a retirar tal incumbência de quem poderia fazê-lo mais facilmente e atribuí-la a quem, por impossibilidade lógica e natural, não o conseguiria.
+3. Recurso especial conhecido e parcialmente provido. (REsp n. 619.148/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/5/2010, DJe de 1/6/2010.)
+No que toca, por fim, à prescrição, concluiu-se que a ação monitória foi proposta dentro do quinquênio legal, de modo que o reexame da questão também encontra o óbice supramencionado.
+A saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA APARELHADA EM CÉDULAS DE CRÉDITO BANCÁRIO E INDUSTRIAL - PRAZO PRESCRICIONAL DE CINCO ANOS - INTELIGÊNCIA DO ARTIGO 206, § 3º, VIII, DO CÓDIGO CIVIL - TERMO INICIAL - DATA DE VENCIMENTO DO TÍTULO - PRECEDENTES DO STJ - ART. 202 DO CÓDIGO CIVIL. PROPOSTA DE RENEGOCIAÇÃO DE DÍVIDA - INTERRUPÇÃO DA PRESCRIÇÃO - NÃO OCORRÊNCIA.
+1. Acórdão recorrido em sintonia com entendimento firmado por esta Corte de que o prazo para ajuizamento de ação monitória em face do emitente de título de crédito sem força executiva é quinquenal, a contar do dia seguinte ao vencimento do título. Precedentes.
+2. In casu, a ação monitória está fundada em Cédulas de Crédito Industrial, tendo ocorrido a prescrição somente em relação à Cédula n. 097/04-0015-1 que venceu em 29/8/2005, pois a presente ação foi proposta em 31/8/2010, quando já operada a prescrição do referido título na data de 29/8/2010.
+3. Nos termos do art. 202 do Código Civil, a simples proposta de renegociação de dívida feita pelo credor, sem a especificação da dívida a que se refere e sem o reconhecimento inequívoco de tal dívida pelo devedor, não é causa de interrupção da prescrição.
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.680.272/MT, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 19/10/2017, D Je de 25/10/2017.)
+Em face do exposto, reconsidero a decisão agravada para conhecer do agravo e, porém, negar-lhe provimento. Em substituição ao que fixado na decisão reconsiderada e nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+Afirmam que a decisão é obscura e omissa, "uma vez que deixou de observar a ocorrência de violação aos artigos 206, § 5º, I, do Código Civil; 6º VIII, do Código de Defesa do Consumidor; e 373, § 1º, 489, § 1º, e 1.022, II, do Código de Processo Civil, tendo em vista que a Embargante suscitou de forma exaustiva as matérias de direito objetos dos recursos, além de ter indicado de maneira pormenorizada os dispositivos legais violados" (e-STJ, fls. 664/665).
+Falam em revaloração da prova e dizem que o acórdão de origem carece de fundamentação idônea.
+Reiteram as violações apontadas no recurso especial e pedem o acolhimento do recurso, que, embora intimada a parte contrária, não foi respondido.
+Assim delimitada a controvérsia, passo a decidir.
+Todas as questões suscitadas no recurso especial foram devidamente analisadas e afastadas as teses do recurso, haja vista que o acórdão de origem foi suficientemente fundamentado e as conclusões de que a relação havida entre as partes era de insumo, e não de consumo, e que a ação monitória foi ajuizada dentro do prazo prescricional.
+Não há, portanto, obscuridade ou omissão na decisão embargada, porquanto aquela pressupõe dificuldade ou impossibilidade de se compreender o teor ou alcance da decisão, comprometendo sua inteligibilidade, enquanto esta carece de fundamento ou decisão sobre questão relevante para o julgamento da causa, o que não ocorreu, como se lê da decisão transcrita supra.
+Os embargos de declaração, como se sabe, são recurso integrativo que se presta à correção de eventuais vícios constantes de sua norma de regência, e não a que se profira novo julgamento.
+A saber:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OBSCURIDADE E OMISSÃO. AUSÊNCIA. INCONFORMISMO. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A obscuridade de que trata o art. 1.022, I do CPC é aquela que impossibilita a clara compreensão do provimento jurisdicional. Não padece de tal vício o acórdão que indica, com clareza, os requisitos para configuração do prequestionamento ficto.
+2. Não padece de omissão o julgado que deixa de enfrentar as violações legais apontadas por ausência de prequestionamento.
+3. Os embargos de declaração não se prestam a veicular mero inconformismo com o resultado do julgamento.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.799.014/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/12/2024, DJe de 5/12/2024.)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
