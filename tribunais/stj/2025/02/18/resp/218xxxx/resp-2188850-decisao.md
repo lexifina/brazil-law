@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado por Growth Supplements - Produtos Alimentícios Eireli, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 165):
+TRIBUTÁRIO. CONTRIBUIÇÕES "A TERCEIROS" OU "PARAFISCAIS", BASE DE CÁLCULO, LIMITAÇÃO A VINTE SALÁRIOS MÍNIMOS. TESE 1079 STJ.
+Não há limitação a vinte salários mínimos do salário-de-contribuição que dá base de cálculo para apuração das contribuições "a terceiros". Inteligência da tese 1079 de recursos especiais repetitivos do Superior Tribunal de Justiça. A parte recorrente aponta violação aos arts. 927, III e IV e 498, § 1º, IV, V e VI, do CPC e 108, § 1º, do CTN.
+A parte recorrente aponta violação aos arts. 927, III e IV e 498, § 1º, IV, V e VI, do CPC e 108, § 1º, do CTN. Sustenta, em resumo, que as contribuições ao Sebrae, ao INCRA, SESI, SENAI e Salário-Educação apuradas sobre a folha de salários fiquem limitadas ao montante 20 salários mínimos vigentes no país.
+Parecer do Ministério Público Federal às fls. 240/243.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, com relação aos arts. 927, III e IV e 498, § 1º, IV, V e VI, do CPC e 108, § 1º, do CTN, nota-se que os referidos dispositivos legais não contêm comando capaz de sustentar a tese recursal de que as contribuições ao Sebrae, ao INCRA, SESI, SENAI e Salário-Educação apuradas sobre a folha de salários fiquem limitadas ao montante 20 salários mínimos vigentes no país, e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgInt no REsp n. 2.154.627/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/9/2024, DJe de 3/10/2024; AgInt no AREsp n. 2.288.113/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024; AgInt no AREsp n. 2.524.167/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
