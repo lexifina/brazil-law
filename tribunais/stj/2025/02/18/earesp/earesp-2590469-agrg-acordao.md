@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 12/02/2025 a 18/02/2025, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Messod Azulay Neto.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Daniela Teixeira e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+Direito processual civil. Agravo regimental. Embargos de divergência. Requisitos não atendidos. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente os embargos de divergência, sob alegação de não comprovação do dissídio jurisprudencial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravante cumpriu os requisitos necessários para a comprovação do dissídio jurisprudencial nos embargos de divergência, conforme exigido pelo art. 1.043, § 4º, do Código de Processo Civil e pelo art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+III. Razões de decidir
+3. A utilização de acórdãos proferidos em habeas corpus como paradigmas é inadmissível em embargos de divergência, bem como acórdãos prolatados por outros tribunais, conforme entendimento consolidado do Superior Tribunal de Justiça.
+4. A transcrição de ementas sem demonstração analítica da similitude fática e jurídica entre os casos confrontados inviabiliza o conhecimento dos embargos de divergência.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "1. A comprovação do dissídio jurisprudencial em embargos de divergência exige a juntada de certidões, cópias do inteiro teor dos acórdãos, citação de repositórios oficiais ou reprodução de julgados com indicação da fonte. 2. Acórdãos proferidos em habeas corpus e por outros tribunaisnão podem ser utilizados como paradigmas em embargos de divergência. 3. A transcrição de ementas sem demonstração analítica da similitude fática e jurídica inviabiliza o conhecimento dos embargos de divergência."
+Dispositivos relevantes citados: CPC, art. 1.043, § 4º; RISTJ, art. 266, § 4º.
+Jurisprudência relevante citada: STJ, AgInt nos EAREsp n. 2.110.151/RS, Rel. Min. Francisco Falcão, Corte Especial, DJe de 16/10/2023; STJ, AgInt nos EAREsp n. 1.974.590/GO, Rel. Min. Maria Isabel Gallotti, Corte Especial, DJe de 5/12/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCOS VINICIUS DE JESUS BORGES CIRIACO contra decisão que indeferiu liminarmente os embargos de divergência.
+Em suas razões, o agravante reitera o mérito da controvérsia e alega que o dissídio jurisprudencial apontado teria sido devidamente comprovado (fls. 918-930).
+É o relatório.
+EMENTA
+Direito processual civil. Agravo regimental. Embargos de divergência. Requisitos não atendidos. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente os embargos de divergência, sob alegação de não comprovação do dissídio jurisprudencial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravante cumpriu os requisitos necessários para a comprovação do dissídio jurisprudencial nos embargos de divergência, conforme exigido pelo art. 1.043, § 4º, do Código de Processo Civil e pelo art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+III. Razões de decidir
+3. A utilização de acórdãos proferidos em habeas corpus como paradigmas é inadmissível em embargos de divergência, bem como acórdãos prolatados por outros tribunais, conforme entendimento consolidado do Superior Tribunal de Justiça.
+4. A transcrição de ementas sem demonstração analítica da similitude fática e jurídica entre os casos confrontados inviabiliza o conhecimento dos embargos de divergência.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "1. A comprovação do dissídio jurisprudencial em embargos de divergência exige a juntada de certidões, cópias do inteiro teor dos acórdãos, citação de repositórios oficiais ou reprodução de julgados com indicação da fonte. 2. Acórdãos proferidos em habeas corpus e por outros tribunaisnão podem ser utilizados como paradigmas em embargos de divergência. 3. A transcrição de ementas sem demonstração analítica da similitude fática e jurídica inviabiliza o conhecimento dos embargos de divergência."
+Dispositivos relevantes citados: CPC, art. 1.043, § 4º; RISTJ, art. 266, § 4º.
+Jurisprudência relevante citada: STJ, AgInt nos EAREsp n. 2.110.151/RS, Rel. Min. Francisco Falcão, Corte Especial, DJe de 16/10/2023; STJ, AgInt nos EAREsp n. 1.974.590/GO, Rel. Min. Maria Isabel Gallotti, Corte Especial, DJe de 5/12/2023.
+VOTO
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados: a) AgRg no AR Esp 1.847.375/GO, proferido pela Sexta Turma, b) HC n. 691.058/SP , proferido pela Sexta Turma, c) AgRg no AR Esp n. 1.887.844/SC, proferido pela Sexta Turma, d) AgRg no AR Esp n. 2.034.095/DF, proferido pela Sexta Turma, e) AgRg no HC n. 783.582/RS, proferido pela Quinta Turma, f) AR Esp n. 2.089.895/RS; e g) AgRg no RHC 217.586/SC, proferido pela Segunda Turma do STF.
+Para comprovar o dissídio jurisprudencial nos embargos de divergência, nos termos do art. 1.043, § 4º, do Código de Processo Civil e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, o recorrente deve: a) juntar certidões; b) apresentar cópias do inteiro teor dos acórdãos indicados; c) citar o repositório oficial, autorizado ou credenciado, nos quais eles se achem publicados, inclusive em mídia eletrônica; e d) reproduzir julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte. Veja-se:
+"A jurisprudência desta Corte, amparada no art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em embargos de divergência, deve proceder às seguintes providências: a) juntada de certidões; b) apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive, em mídia eletrônica; e (d) reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte" (AgInt nos EAREsp n. 2.110.151/RS, Corte Especial, Rel. Min. Francisco Falcão, DJe de 16/10/2023).
+O art. 1043, § 3º, do Código de Processo Civil dispõe serem cabíveis embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu decisão embargada. No entanto, condiciona a incidência dessa hipótese à alteração da composição da Turma julgadora em mais da metade de seus membros, entre a data do julgamento do acórdão embargado e a data de julgamento do acórdão paradigma.
+Não há, pois, como admitir a utilização do AgRg no AREsp 1.847.375/GO, AgRg no AREsp n. 1.887.844/SC e AgRg no AREsp n. 2.034.095/DF como paradigmas nos autos dos presentes embargos de divergência.
+Além disso, mediante análise dos autos, verifica-se que a parte embargante apresenta como paradigma julgado proferido em sede de habeas corpus. Com efeito, o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+Também os incisos I e II do art. 1.043 do Código de Processo Civil estabelecem que é embargável a decisão do órgão fracionário que, "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal". Conforme transcrito nos dispositivos acima, os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, a colação de decisões monocráticas como paradigmas (AREsp n. 2.089.895/RS).
+A despeito de indicar o julgado AgRg no RHC 217.586/SC, proferido pela Segunda Turma do colendo STF como paradigma, cediço que este encontra óbice no caput do art. 266 do Regimento Interno do Superior Tribunal de Justiça, bem como nos incs. I e II do art. 1.043.
+Ademais, os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, a colação de acórdãos de outros tribunais como paradigmas (AgRg no RHC 217.586/SC).
+Observo que, em nenhum momento, foi enfrentado o mérito do Recurso Especial, o que impossibilitaria a oposição de Embargos de Divergência.
+Além disso, o agravante não realizou devidamente o cotejo analítico, na medida em que apenas transcreveu as ementas dos acórdãos confrontados, sem demonstrar as circunstâncias específicas de cada caso, de modo a comprovar a similitude fática entre eles.
+Na espécie, não é o suficiente para o preenchimento do requisito da "demonstração analítica da divergência", exigido pelo artigo 1.043, § 4º do Código de Processo Civil, a simples transcrição de ementa.
+A propósito:
+"IV - Ademais, compete ao embargante demonstrar analiticamente que os acórdãos têm similitude fática e jurídica, ou, como querem o art. 1.043, §4º, do CPC/2015 e o art. 266, §4º, do RISTJ, "as circunstâncias que identificam ou assemelham os casos confrontados.
+V - No caso em mesa, as partes embargantes não demonstraram a existência de similitude entre o acórdão recorrido e os arestos indicados como paradigmas, nem realizaram o necessário cotejo analítico entre os julgados, tendo apenas colacionado a transcrição das ementas dos acórdãos paradigmáticos, o que inviabiliza o conhecimento dos embargos de divergência, nos termos da remansosa jurisprudência desta Corte. Neste sentido: AgInt nos EAREsp n. 1.974.590/GO, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 29/11/2023, DJe de 5/12/2023 e AgInt nos EAREsp n. 2.224.629/DF, relatora Ministra Laurita Vaz, Corte Especial, julgado em 26/9/2023, DJe de 2/10/2023.  .. " (AgRg nos EAREsp n. 2.419.605/MS, Corte Especial, Rel. Min. Francisco Falcão, DJe de 24/5/2024).
+"Nos embargos de divergência, para apreciação e comprovação do dissídio pretoriano, não basta a transcrição de ementas e excertos dos julgados, devem-se, no entanto, expor as circunstâncias que identificam os casos confrontados, impondo-se a demonstração da similitude fática entre o acórdão embargado e os paradigmas com tratamento jurídico diverso." (AgRg nos EDcl nos EAREsp n. 2.399.349/GO, Terceira Seção, Rel. Min. Antonio Saldanha Palheiro, DJe de 7/5/2024).
+Ante o exposto , nego provimento ao agravo regimental.
+É o voto.
