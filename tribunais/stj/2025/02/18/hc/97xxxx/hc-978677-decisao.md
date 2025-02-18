@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de JOSENE MAZZOCHI BERTI, impetrado contra a decisão do Desembargador Relator do HC n. 5002606-87.2025.4.04.0000/RS, em trâmite no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que indeferiu o pedido urgente formulado.
+Consta que a paciente foi presa em flagrante no dia 1º/02/2025 pela suposta prática do crime previsto no art. 289, § 1º, do Código Penal. O Juízo de primeiro grau homologou o auto de prisão e concedeu a liberdade provisória com a imposição de medidas cautelares alternativas, entre elas a fiança no valor de dez salários mínimos.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, tendo sido indeferido o pedido liminar.
+Neste writ, a parte impetrante sustenta, em síntese, que a custodiada não possui meios de realizar o pagamento da cautela, pois não obteve permissão para acessar seu apartamento, onde mantém documentos e bens essenciais, nem suas contas bancárias, o que inviabiliza a liberação dos valores necessários (fls. 2-3).
+Afirma que a manutenção em custódia não se justifica unicamente pela impossibilidade momentânea de pagamento da fiança (fl. 4).
+Requer, liminarmente e no mérito, a superação do óbice previsto na Súmula n. 691/STF, a fim de que seja expedido alvará de soltura em favor da paciente independentemente do pagamento da fiança ou mediante a fixação de prazo razoável para o adimplemento da medida cautelar.
+É o relatório.
+DECIDO.
+De acordo com a orientação consolidada na Súmula n. 691 do Supremo Tribunal Federal, aplicável nesta Corte por analogia, não se conhece de habeas corpus impetrado contra decisão de relator que indefere a liminar em outro writ requerido na origem, sob pena de supressão de instância.
+No entanto, havendo na decisão impugnada ilegalidade manifesta, abuso de poder ou teratologia, as Cortes Superiores têm entendido pela possibilidade de superação do mencionado óbice processual.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. DECISÃO QUE INDEFERIU LIMINARMENTE O PEDIDO. TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADAS DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 892.673/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/04/2024, DJe de 03/05/2024).
+Na hipótese, não se verifica a existência de ilegalidade flagrante apta a ensejar a concessão da ordem pleiteada, notadamente diante do que consignou o Tribunal primevo, in verbis (fls. 6-8; grifamos):
+A decisão que homologou a prisão em flagrante e concedeu a liberdade provisória mediante fiança está assim fundamentada (processo 5004601-78.2025.4.04.7100/RS, evento 21, TERMOAUD1):
+(..)
+A fixação da fiança mostra-se imprescindível para desestimular a reiteração delitiva, vincular o paciente ao processo, reforçar seus compromissos com o Juízo e assegurar seu comparecimento aos atos processuais.
+Embora não se trate de crime cometido mediante violência, as circunstâncias do flagrante: apreensão de grande quantidade de notas falsas (R$ 7.100,00), recomendam a manutenção da fiança.
+Assim, deve ser mantida a exigência da referida caução.
+A discussão pautada neste expediente, portanto, refere-se ao quantum atribuído como necessário ao caucionamento da liberdade provisória já concedida, uma vez que é entendimento pacífico das Turmas Criminais deste Colégio a imposição preferencial da fiança como contracautela em situações como a presente, a modo de vincular o possível agente ao procedimento inquisitorial instaurado em decorrência de autuação flagrancial e à eventual ação penal.
+Os parâmetros encontram-se delineados nos artigos 325 e 326 do Estatuto Processual Penal, os quais têm como fulcro a opção do legislador em não tornar a fiança um impeditivo ao livramento, se posta em quantia por demais elevada, ou ineficaz, porque irrisória, aos propósitos a que se destina, bem assim em apostar no seu efeito dissuasório ou, ainda, de autocontenção de quem dela seja beneficiário, configurando, ao fim e ao cabo, uma alternativa à prisão.
+Quanto ao valor arbitrado, foi devidamente justificado pelo juízo a quo a partir das circunstâncias do caso - as condições pessoais de profissão e renda. Saliento que a autuada relatou perante a autoridade policial ser advogada estabelecida.
+A mera alegação de incapacidade financeira não caracteriza hipótese de dispensa ou isenção da cautela processual. Conforme reiteradamente vem decidindo esta Corte, constitui ônus do impetrante demonstrar que o paciente não possui condições de arcar com o custo da fiança, não se prestando para tanto as simples declarações juntadas à inicial (TRF4, HC 5031668-80.2022.4.04.0000, OITAVA TURMA, Relator LORACI FLORES DE LIMA, juntado aos autos em 21/09/2022).
+Conforme consta na decisão que indeferiu o pedido de prorrogação para efetuar o depósito do valor arbitrado a título de fiança (processo 5004601-78.2025.4.04.7100/RS, evento 30, DESPADEC1), não há qualquer fato novo que justifique a reconsideração da decisão anteriormente proferida, razão pela qual mantenho a decisão anterior, com o depósito integral da fiança como condição prévia à expedição do alvará de soltura.
+A paciente afirma que não dispõe de recursos financeiros para efetuar o pagamento da contracautela, mas não apresenta comprovações reais de suas alegações. Ademais, a paciente conta com defensor constituído, o que além de enfraquecer a alegação de impossibilidade financeira, permite presumir a existência de recursos para a contratação de advogado particular.
+Como se vê, as instâncias ordinárias, em princípio, fundamentaram concretamente a necessidade de imposição da fiança impugnada nestes autos, ressaltando-se, ainda, a capacidade financeira da custodiada, bem como a ausência de comprovação da alegada impossibilidade do pagamento da cautela, o que, prima facie, afasta o alegado constrangimento ilegal.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 691 DO STF. ARBITRAMENTO DE FIANÇA. ALEGAÇÃO DE IMPOSSIBILIDADE DE PAGAMENTO. MONTANTE REDUZIDO PELO DESEMBARGADOR RELATOR. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Hipótese na que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação de manifesta ilegalidade a justificar a superação do enunciado sumular.
+3. Ao apreciar o pedido de liminar, o relator destacou as circunstâncias demonstrativas da gravidade concreta da conduta, em especial os indícios de dedicação às práticas delitivas pelo agravado. Com efeito, ele teria furtado uma motocicleta e, horas depois, adulterado a cor do veículo, demonstrando, em tese, "expertise e habitualidade na prática criminosa".
+4. Ademais, ele possui histórico de condenações transitadas em julgado por crimes contra o patrimônio, bem como registros de atos infracionais análogos aos crimes de tráfico de drogas, furto simples e furto qualificado. Diante dessas circunstâncias, ponderou o Desembargador que "além de ser garantia real, torna-se a fiança um desestímulo à reiteração da prática delitiva". Não obstante, deferiu parcialmente a liminar para reduzir o valor arbitrado, de modo a possibilitar o pagamento. Não se verifica, portanto, ilegalidade patente na decisão atacada, a justificar a superação do óbice sumular.
+5. Agravo desprovido.
+(AgRg no HC n. 909.317/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024).
+Ademais, vale ressaltar que a parte impetrante não juntou nestes autos cópia de nenhuma das decisões proferidas pelo Juízo de primeiro grau ou de documentos que comprovariam a alegada impossibilidade da paciente acessar os seus recursos financeiros.
+Concluo, portanto, que a matéria depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente ao Tribunal impetrado sua análise, sendo vedado a esta Corte Superior adiantar-se nesse exame, usurpando, de forma indevida, a competência da instância de origem.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
