@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por N. F. F. contra decisão que não admitiu o recurso especial da insurgente.
+O recurso especial manejado com amparo nas alíneas a e c do permissivo constitucional desafia acórdão proferido pelo Tribunal de Justiça do Estado do Ceará assim ementado (fls. 979-980):
+EMENTA: DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO AUTORAL. PLANO DE SAÚDE. TRANSTORNO DO ESPECTROAUTISTA - TEA. PRESCRIÇÃO MÉDICA DE TRATAMENTO MULTIDISCIPLINAR. CLÍNICA DESCREDENCIADA. EXISTÊNCIA DE ESTABELECIMENTO APTO A PROPORCIONAR A CONTINUIDADE DO ACOMPANHAMENTO DA AUTORA EM REDE CONVENIADA. COMPROVADO. AUSÊNCIA DE OBRIGATORIEDADE DO FORNECIMENTO DOS SERVIÇOS INDICADOS EM REDE NÃO CREDENCIADA. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+1. Depreende-se dos autos que a recorrente é portadora de Transtorno do Espectro Autista (TEA) - CID 10: F84.0 - e necessita de acompanhamento por equipe multidisciplinar. Afirma a apelante que vinha realizando as terapias indicadas no Centro Integrado Aprender, baseado em Juazeiro do Norte/CE, no entanto, de forma abrupta, foi notificada pela Unimed Cariri sobre o descredenciamento da referida clínica.
+2. Nos termos da Resolução Normativa nº 539, de 23 de junho de 2022, da ANS, é obrigatória a cobertura para método ou técnica indicado pelo médico assistente para o tratamento de paciente portador de transtorno do espectro autista, quando atendidos os preceitos legais.
+3. Noutra toada, conforme preveem os arts. 4º e 9ª da Resolução Normativa nº 259/2011, da ANS, somente é admitida a realização de atendimentos por profissionais não credenciados à rede do plano de saúde demandado, quando há comprovada indisponibilidade de profissionais cooperados capazes de realizar o tratamento prescrito ao beneficiário.
+4. No caso, o plano de saúde apelado apresentou, como opção para prosseguimento do acompanhamento, o Núcleo de Atenção à Saúde - NAS II, juntando comprovantes de qualificação dos profissionais atuantes em sua rede credenciada, alguns deles anteriormente atuantes no Centro Integrado Aprender, bem como fotos do estabelecimento disponibilizado ao tratamento da apelante.
+5. Em que pese as situações peculiares da autora/apelante, tendo a operadora comprovado que dispõe de clínica e/ou de profissional especializado apto a fornecer a terapêutica de que necessita, não cabe a esta escolher, por mera liberalidade, estabelecimento/especialista não integrante da rede de conveniados.
+6. O Superior Tribunal de Justiça firmou o entendimento de que os procedimentos realizados em estabelecimentos e por profissionais não integrantes da rede de credenciamento somente encontram-se albergados pela responsabilidade do Plano de Saúde em casos especiais, não sendo este o caso dos autos. Precedentes.
+7. Recurso conhecido e desprovido. Sentença mantida.
+Nas razões do recurso especial, a insurgente alegou violação dos arts. 371, 489, §1º, VI, e 1.022, II, do CPC, 2º, III e 3º, III, b, da Lei n. 12.764/2.012, 47, 51, IV e XV do CDC, 421 e 422 do CC, bem como dissídio jurisprudencial.
+Argumenta não ser "benéfico à criança com TEA, em curso do tratamento, a modificação do quadro de especialistas que o acompanham, sobretudo porque se trata de portador de Transtorno do Espectro Autista (TEA), tendo a criança desenvolvido laço de confiança com a profissional que a atende há anos" (fl. 1.015).
+Foram apresentadas contrarrazões (fls. 1.080-1.100).
+Em juízo de admissibilidade (fls. 1.102-1.105), o Tribunal a quo inadmitiu o recurso especial com amparo nos seguintes fundamentos: i) ausência de afronta ao art. 1.022 do CPC; ii) incidência das Súmulas n. 5 e 7 do STJ.
+Daí o agravo (fls. 1.111-1.118), em que a recorrente impugna, especificamente, as razões da decisão agravada.
+Contraminuta às fls. 1.125-1.143.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+"Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo." (AgInt no REsp n. 1.991.755/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Na espécie, verifica-se que o acórdão impugnado decidiu de forma fundamentada sobre o efetivo cumprimento da obrigação da operadora de plano de saúde após o descredenciamento da clínica onde a criança realizava o tratamento, comprovando "que dispõe de clínica e/ou de profissional especializado apto a fornecer a terapêutica de que necessita" (fl. 1.066), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+Ainda no mesmo norte, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Portanto, não há ofensa ao art. 489 do CPC, pois o Tribunal Estadual decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+De fato, a Corte de origem delineou expressamente que houve o fornecimento pela operadora de outra clínica credenciada apta a atender a beneficiária com o tratamento prescrito, como se observa dos seguintes excertos (fl. 983):
+No caso em apreço, restou incontroverso que a parte autora recebia o tratamento indicado pelos médicos assistentes por meio do Centro Integrado Aprender, onde eram prestados os tratamentos retromencionados, interrompendo- se a terapêutica no âmbito da referida instituição, em razão do descredenciamento junto à Unimed do Cariri (fls. 172/175.)
+Nesse ínterim, o plano de saúde apelado apresentou, como opção para prosseguimento do acompanhamento, o Núcleo de Atenção à Saúde - NAS II, conforme documento de fls. 176/184, juntando comprovantes de qualificação dos profissionais atuantes em sua rede credenciada, alguns deles anteriormente atuantes no Centro Integrado Aprender, bem como fotos do estabelecimento disponibilizado ao tratamento da apelante, conforme se observa dos documentos de fls. 176/233.
+Portanto, da análise acurada dos autos, infere-se que a parte demandada logrou êxito em comprovar que dispõe de clínica credenciada com capacidade de desenvolver o tratamento indicado à autora, na forma como prescrita pelos médicos que a acompanham.
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que não é permitido em recurso especial pela Súmula 7/STJ.
+Por fim, " a  incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a"" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão." (AgInt no AREsp n. 2.525.078/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Do exposto, com base no art. 932 do CPC e na Súmula 568/STJ, conheço do agravo para, de plano, negar provimento ao recurso especial.
+N os termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 5% sobre o valor já fixado na origem.
+Publique-se.
+Intimem-se.
+EMENTA
