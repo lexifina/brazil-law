@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME DE RACISMO PERPETRADO DURANTE EVENTO INTERNACIONAL ESPORTIVO FUTEBOLÍSTICO. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa não impugnou, de forma suficiente, a integralidade dos fundamentos da decisão que inadmitiu o recurso especial na origem. Limitou-se a apresentar alegações genéricas em sentido contrário às afirmações da decisão agravada, o que é insuficiente para atender à dialeticidade recursal. Precedentes.
+3. Agravo regimental improvido.
+RELATÓRIO
+Sebastian Avellino Vargas interpõe agravo regimental contra a decisão de minha lavra, cuja ementa transcrevo (fl. 702):
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME DE RACISMO PERPETRADO DURANTE EVENTO INTERNACIONAL ESPORTIVO FUTEBOLÍSTICO. ART. 20, § 2º-A, DA LEI N. 7.716/1989. IMPUGNAÇÃO DEFICIENTE. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL (ART. 932, III, DO CPC E DO ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ). INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo não conhecido.
+Nas razões do regimental, a defesa sustenta, em síntese, a inaplicabilidade dos arts. 932, III, do Código de Processo Civil e 253, parágrafo único, I, do RISTJ, bem como da Súmula 182/STJ (fl. 717).
+Registra que, como pontuado no AREsp, a análise da pretensão recursal depende apenas "da definição, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias de origem para condenar o réu"1, o que afasta o óbice fixado pela Súmula 7/STJ (fl. 718).
+Insiste em que a mera análise do acórdão é suficiente à verificação de que a conduta imputada ao Agravante não se enquadra no tipo penal de racismo, circunstância corroborada pelos testemunhos coligidos no aresto (fl. 719), e que, quanto ao dissídio jurisprudencial, ficou comprovada a existência de similitude fático-processual (fl. 720), pugnando, ao final, pela reconsideração da decisão agravada, ou sua reforma, para o fim de absolver o agravante, com suporte no art. 386, III, do Código de Processo Penal (fl. 722).
+Memorial às fls. 726/729.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME DE RACISMO PERPETRADO DURANTE EVENTO INTERNACIONAL ESPORTIVO FUTEBOLÍSTICO. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa não impugnou, de forma suficiente, a integralidade dos fundamentos da decisão que inadmitiu o recurso especial na origem. Limitou-se a apresentar alegações genéricas em sentido contrário às afirmações da decisão agravada, o que é insuficiente para atender à dialeticidade recursal. Precedentes.
+3. Agravo regimental improvido.
+VOTO
+Não merece acolhida a pretensão do agravante.
+Não obstante os esforços perpetrados pela defesa, não verifico fundamentos suficientes para infirmar a decisão agravada.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Conforme assinalei na decisão ora agravada, o agravo de fls. 672/676 não apresentou impugnação específica ao fundamento da decisão de inadmissibilidade do apelo nobre, de seguinte conteúdo (fls. 666/668 - grifo nosso):
+ ..  Verifico que o reclamo é inadmissível diante da existência de óbice processual.
+Com efeito, para se chegar à solução contrária à do aresto recorrido, seria necessário o reexame de prova, incidindo na Súmula nº 7 do Superior Tribunal de Justiça, que dispõe: A pretensão de simples reexame de prova não enseja recurso especial, ou seja, não é possível emitir um juízo de valor sobre a questão de direito federal sem antes apurar os elementos de fato.
+ ..
+Por outro lado, com base no dissídio jurisprudencial a insurgência também não pode ser admitida, uma vez que ausentes as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal.
+O Diploma Processual Civil, no artigo 1.029, § 1º, bem como o RISTJ, em seu artigo 255, § 1º, dispõem que:
+ ..
+A deficiência em qualquer dos aspectos mencionados na decisão da Corte Superior impede a verificação da igualdade fática do paradigma com o aresto atacado, obstando, assim, a admissão do recurso pelo dissenso pretoriano.  ..
+Apenas se restringiu a alegar, genericamente, que a questão discutida é puramente de direito, já que atina, como explicitado na peça do Recurso Especial, à mera valoração jurídica de fatos pré-constituídos e agora tidos como incontroversos, dispensando-se o reexame de fatos ou provas (fl. 675), e que realizou o cotejo analítico entre os acórdãos recorrido e paradigma, demonstrando claramente o dissídio jurisprudencial. Juntou ainda a íntegra do acórdão paradigma (fl. 675).
+Ora, esta Corte tem reiteradamente decidido que os recursos devem refutar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos, não sendo suficientes meras alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia.
+Confiram-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INADMISSÃO DO RECURSO ESPECIAL, NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 7/STJ. DEFICIÊNCIA DE COTEJO ANALÍTICO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. Na decisão recorrida, não se conheceu do agravo pela incidência da Súmula 182/STJ, porquanto não atacados os fundamentos erigidos pela Corte local para inadmitir o recurso especial: Súmula 7/STJ e deficiência de cotejo analítico.
+2. Nas razões do agravo em recurso especial, a parte deixou de combater, de forma adequada, esses fundamentos. Limitou-se a sustentar o preenchimento dos requisitos de admissibilidade do recurso especial e a afirmar que foi realizado o devido cotejo analítico.
+3. Para afastar a incidência da Súmula 7 desta Corte exige-se a demonstração clara e objetiva da controvérsia e de violação de lei federal, independentemente do reexame do conjunto fático-probatório dos autos.
+4. Não se pode conhecer de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os acórdãos confrontados, a fim de evidenciar a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementa. Precedentes.
+5. Esta Corte pacificou orientação de que a ausência de efetivo ataque a um dos fundamentos da decisão que inadmitiu o recurso especial, na origem, impede o conhecimento do agravo, nos termos da Súmula 182 do STJ.
+6. Agravo regimental desprovido
+(AgRg no AREsp n. 2.545.293/GO, Ministra Daniela Teixeira, Quinta Turma, DJe 10/5/2024 - grifo nosso)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. MANTIDA A DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, é acertada a decisão da Presidência deste Tribunal Superior que não conhece do agravo em recurso especial interposto, uma vez que a defesa deixou de refutar, especificamente, os fundamentos de inadmissibilidade referente às Súmulas n. 284 do STF e 7 do STJ, bem como à ausência de cotejo analítico.
+3. São insuficientes, para atender à dialeticidade recursal, alegações genéricas de que o recurso especial preenche todos os requisitos para ser admitido, tampouco se admite a "impugnação implícita" aos óbices apontados pelo Tribunal de origem, como pretende o agravante.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023 - grifo nosso)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. A decisão impugnada não conheceu do agravo pela incidência da Súmula 182/STJ, porquanto não atacados os fundamentos erigidos pela Corte local para inadmitir o recurso especial interposto: Súmulas 7 e 83 do STJ.
+2. Nas razões do agravo em recurso especial, o ora recorrente deixou de impugnar, de forma adequada, todos os motivos delineados para a não admissão do recurso.
+3. "Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa." (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+4. A impugnação da incidência da Súmula 83/STJ exige a demonstração de divergência estabelecida entre o entendimento adotado pelo Tribunal e a jurisprudência do STJ, com indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu na espécie.
+5. Esta Corte pacificou entendimento de que a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, na origem, impede o conhecimento do agravo, nos termos da Súmula 182 do STJ.
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.138.577/SC, Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe 28/3/2023 - grifo nosso)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ. FALTA DE DIALETICIDADE RECURSAL AGRAVO DESPROVIDO.
+1. A decisão que inadmitiu o recurso especial na origem foi pautada nos óbices da Súmula 83/STJ (art. 2º, II, da Lei n. 8.137/90), Súmula 7/STJ (art. 2º, II, da Lei n. 8.137/90), Súmula 83/STJ (dolo genérico), deficiência de cotejo analítico (art. 2º, II, da Lei n. 8.137/90), deficiência de cotejo analítico (art. 387, IV, do CPP) e Súmula 7/STJ (indenização por danos morais). Entretanto, o agravante ateve-se a afastar genericamente a incidência da Súmula 7/STJ e a incidência da Súmula 83/STJ quanto à necessidade do dolo de apropriação e a contumácia, deixando de enfrentar os demais fundamentos. Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.202.906/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/11/2022 - grifo nosso).
+Portanto, a parte agravante que não infirma todos os fundamentos da decisão agravada encontra óbice no conhecimento de seu recurso, nos termos do enunciado da Súmula 182/STJ, art. 253, parágrafo único, I, do RISTJ e do art. 932, III, do Código de Processo Civil.
+É importante esclarecer que os apelos extremos encaminhados às Cortes Superiores - Superior Tribunal de Justiça e Supremo Tribunal Federal - possuem pressupostos específicos para a sua interposição, os quais devem ser atendidos pela parte recorrente. Longe de ser formalismo, as regras processuais e as súmulas jurisprudenciais delimitam os requisitos específicos para a interposição dos apelos extremos.
+Além disso, também é necessário observar, ainda que em caráter obiter dictum, que o acórdão recorrido, fundamentado no conjunto fático-probatório dos autos, especialmente na prova oral, concluiu que a conduta do agravante se amolda ao tipo penal previsto no art. 20, § 2º-A, da Lei n. 7.716/1989. A rediscussão desses fundamentos na via recursal eleita é inviável, ante a aplicação da Súmula 7/STJ. Nesse sentido, destacam-se os precedentes: AgRg no REsp n. 1.849.766/AC, de minha relatoria, Sexta Turma, DJe 9/9/2020; e AgRg no AREsp n. 753.219/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/6/2018.
+Ademais, a incidência do referido óbice impossibilita a análise da divergência jurisprudencial, considerando a existência de situações fáticas diversas entre os julgados confrontados, conforme o entendimento firmado no AgRg no AREsp n. 2.223.195/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 13/11/2023.
+Assim, os frugais argumentos apresentados não são aptos para desconstituir a decisão agravada.
+Em face do exposto, nego provimento ao agravo regimental.
