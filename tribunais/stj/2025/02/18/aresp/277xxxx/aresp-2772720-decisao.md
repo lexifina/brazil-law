@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por ROSÂNGELA MARIA ALVIM VALVERDE contra decisão que não admitiu o recurso especial, fundado nas alíneas a, b e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 304):
+APELAÇÃO - AÇÃO ORDINÁRIA - REMOÇÃO DE SERVIDORA - ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO - AUSÊNCIA DE COMPROVAÇÃO DE DESÍDIA DO PODER PÚBLICO - INTERESSE PARTICULAR.
+1 - A remoção é ato discricionário que atende ao interesse da Administração Pública. É efetuada, portanto, de acordo com o juízo de conveniência e oportunidade exarado pela Administração.
+Nas razões do recurso especial (e-STJ, fls. 312-314), a recorrente apontou violação aos arts. 1º, II, 5º, XXXV, 226 da CF; 36, parágrafo único, da Lei 8.112/1990; bem como a existência de dissídio jurisprudencial.
+Alegou ter direito à remoção para acompanhar seu cônjuge, que foi transferido ex officio de Belo Horizonte para Juiz de Fora, notadamente em razão da manutenção da família.
+Afirmou que a filha menor vem sofrendo problemas psicológicos, em virtude da separação do núcleo familiar.
+Defendeu a necessidade de concessão da tutela de urgência.
+Foram apresentadas contrarrazões (e-STJ, fls. 362-365).
+O recurso especial não foi admitido na origem e indeferido o pedido de efeito suspensivo, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, vale ressaltar que, concernente à alegação de ofensa aos arts. 1º, II, 5º, XXXV, e 226 da CF/1988, é evidente a inadequação da via recursal eleita, porquanto "é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, trata-se de matéria própria do apelo extraordinário para o Supremo Tribunal Federal" (AgInt no AREsp n. 1.904.567/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 306-309):
+Cinge-se a controvérsia recursal quanto a suposto direito da apelante a ser removida para o local de prestação de serviços do seu cônjuge, que fora removido ex officio para Juiz de Fora - MG.
+A remoção para o caso posto em evidência nestes autos é normatizada pela Lei nº 869/52 e Resolução nº 73/2019 da SEJUSP. Veja- se: ( )
+Depreende-se, portanto, daqueles dispositivos normativos, que a remoção é ato discricionário que atende ao interesse da Administração Pública. É efetuada, portanto, de acordo com o juízo de conveniência e oportunidade exarado pela Administração.
+Nesses termos, ao administrador público cabe a alocação do servidor público no interesse do serviço público, e, doutro lado, via de regra, não exsurge direito do administrado em prestar serviço nesta ou naquela localidade contrariamente ou a revelia das estipulações da Administração Pública.
+In casu, a agravante requer a remoção do seu cargo, para cumprir o exercício da sua função na cidade de Juiz de Fora-MG, no objetivo de acompanhar seu cônjuge e economizar gastos.
+Entretanto, não restando comprovada nenhuma desídia do Poder Público ou a prática de qualquer ato em violação dos princípios regentes da Administração Pública, não é possível apreender que, o desígnio da agravante no desempenho das suas funções (na cidade para qual prestou o concurso) desobedece aos princípios administrativos, uma vez que se trata de ato discricionário para melhor desempenho das atividades de segurança pública no âmbito deste Estado.
+Destarte, a questão da remoção foi analisada à luz da legislação local (Lei nº 869/52), o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário").
+A título exemplificativo:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO FUNDADO EM NORMA DE DIREITO LOCAL. LEI FEDERAL N. 8.112/1990 APLICADA A MILITAR DO ESTADO DO MATO GROSSO. STATUS DE NORMA LOCAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+III - A jurisprudência desta Corte possui orientação consolidada segundo a qual a lei federal, quando aplicada aos servidores estaduais, possui natureza de lei local, não podendo ser objeto de apreciação em sede de recurso especial.
+IV - É deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no AREsp n. 2.524.762/MT, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/6/2024, DJe de 13/6/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FALECIDO SERVIDOR DO DER/DF. ALEGADA OFENSA A DISPOSITIVOS DA LEI 8.112/1990. EXAME. IMPOSSIBILIDADE. SÚMULAS 280 E 284/STF. INOVAÇÃO DE TESE RECURSAL. NÃO CABIMENTO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Cuida-se, na origem, de ação ordinária em que a parte autora, ora agravante, pleiteia o recebimento de pensão por morte, benefício deixado por ex-servidor do Departamento de Estradas de Rodagem do Distrito Federal - DER/DF, autarquia integrante da Administração Pública Indireta do Distrito Federal.
+2. Caracteriza deficiência de fundamentação recursal a indicação de ofensa a dispositivos da Lei 8.112/1990, que "Dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais". Incidência da Súmula 284/STF.
+3. Entende esta Corte que "a Lei n. 8.112/1990, quando aplicada, subsidiariamente, aos estados, aos municípios e ao Distrito Federal, ostenta natureza de legislação local, atraindo a orientação da Súmula n. 280/STF" (AgInt no REsp n. 1.409.884/MG, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 12/8/2022).
+4. Para além do fato de a tese de cerceamento de defesa não ter sido acompanhada da indicação do dispositivo de lei federal alegadamente afrontado, o que atrai a vedação da Súmula 284/STF, acrescente-se que, na forma da jurisprudência, "É defeso à parte inovar em sede de agravo interno, apresentando argumento não esboçado nas razões do apelo especial, dada a preclusão consumativa" (AgInt no REsp n. 2.004.046/DF, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 11/4/2023).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.125.109/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+Por outro lado, não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a parte recorrente não demonstrou a divergência nos moldes exigidos pelos arts. 1.029, § 1º,do CPC/2015 e 255, § 1º, do RISTJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REMOÇÃO. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE EXAME PELO STJ. CONTROVÉRSIA DIRIMIDA COM SUPORTE EM LEI LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
