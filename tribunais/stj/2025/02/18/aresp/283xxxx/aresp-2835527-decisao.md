@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por COLÉGIO AUGUSTO LARANJA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSO CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA. INDEFERIMENTO JUSTIÇA GRATUITA. AUSÊNCIA DE RECOLHIMENTO DE CUSTAS. RECURSO NÃO PROVIDO. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO DE INSTRUMENTO, NOS TERMOS DO ART. 932, III DO CPC. AGRAVANTE SUSTENTA QUE, NÃO TEM CONDIÇÕES DE CUMPRIR COM O PAGAMENTO DAS CUSTAS PROCESSUAIS E AFIRMA QUE SEM A CONCESSÃO DO BENEFÍCIO, O SEU ACESSO À JUSTIÇA RESTARÁ INVIABILIZADO. AUSÊNCIA DE RECOLHIMENTO DE CUSTAS. DECISÃO DE INDEFERIMENTO DO PEDIDO DE JUSTIÇA GRATUITA. INTIMAÇÃO DA PARTE AGRAVANTE PARA QUE, SOB PENA DE DESERÇÃO, PROMOVESSE O RECOLHIMENTO EM DOBRO DO VALOR DESTINADO AO PREPARO, NOS TERMOS DO ARTIGO 1.007, § 4O, DO CÓDIGO DE PROCESSO CIVIL C/C A RESOLUÇÃO PRES N.º 138/2017 DESTA E. CORTE. DESCUMPRIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 98 e 1.007, § 4º, do CPC, no que concerne à necessidade de conceder justiça gratuita, visto que o recorrente está inativo para fins fiscais, estando com os bens bloqueados desde a venda do fundo de comércio e a única fonte de renda, referente à locação de imóvel, está sub judice por falta de pagamento. Argumenta:
+Em que pese a extensa documentação juntada pelo Recorrente relativo à gratuidade das custas processuais, o MD. Des. Relator indeferiu o pedido de justiça gratuito formulado - ID 287557305.
+ ..
+Com o devido respeito e acatamento, o v. acórdão recorrido deve ser modificado. Isso porque, conforme amplamente demonstrado, o Recorrente ESTÁ INATIVO desde a venda do fundo de comércio (2010) - ID"s 288216553, 288216554, 288216555, 288216556, 288216557, 288216558, 288216559, 288216560.
+ ..
+Além de empresa inativa para fins fiscais, todos os recursos financeiros do Recorrente COLÉGIO AUGUSTO LARANJA LTDA. encontram-se bloqueados por força de decisões judiciais em ações judiciais diversas, inclusive execuções fiscais federais movidas pela própria Recorrida (docs. 15 e 16).
+Ademais, a única fonte de renda do Recorrente era o recebimento mensal dos valores referentes ao aluguel do seu imóvel, alugado ao IPATEC, mas que está sub judice por falta de pagamento - PROCESSO N.º 1098553- 56.2023.8.26.0100 - 40ª. VARA CÍVEL DO FORO DE SAO PAULO DO E. TJSP (ID 288080596) - (doc. 17) (fls. 478-480).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso, não havendo recolhimento de custas (ID 279935758), foi proferida decisão indeferindo o pedido de justiça gratuita e determinada a intimação da parte agravante para que, sob pena de deserção, promovesse o recolhimento em dobro do valor destinado ao preparo, nos termos do artigo 1.007, § 4º, do Código de Processo Civil c/c a Resolução PRES n.º 138/2017 desta E. Corte (ID 287557305).
+A parte não recolheu os valores destinados ao preparo, razão porque imperioso o reconhecimento da deserção do recurso (fl. 463).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
