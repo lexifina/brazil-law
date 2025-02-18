@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/RS, assim ementado:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. EMBARGOS DO DEVEDOR. EXECUÇÃO FISCAL. MUNICÍPIO DE PORTO ALEGRE. ESTAÇÃO DE RÁDIO BASE - TELEFONIA CELULAR. INSTALAÇÃO. LICENCIAMENTO. DESCABIMENTO. INCONSTITUCIONALIDADE DA LEI MUNICIPAL Nº 8.896/2002 - Nº 70055909964 - ART. 259 DO RITJRS. PRECEDENTES. NULIDADE DO TÍTULO EXECUTIVO - CDA Nº 5510/2020.
+Tendo em vista a declaração de inconstitucionalidade da Lei Municipal nº 8.896/2002 no e. Órgão Especial deste Tribunal, no julgamento do incidente de inconstitucionalidade nº 70055909964, na forma do art. 259 do RITJRS, a falta de amparo legal para a subsistência da CDA nº 5510/2020, e a consequente extinção da presente execução fiscal.
+Precedentes deste TJRS.
+AGRAVO INTERNO DESPROVIDO.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação aos artigos 1.022, inciso II, e 489, § 1º, inciso IV, do CPC/2015, sob o argumento de que a Corte local não se manifestou adequadamente sobre a validade da Certidão de Dívida Ativa (CDA), que se fundamentou na Lei Municipal nº 8.267/1998 e não na Lei Municipal nº 8.896/2002, como afirmou o acórdão recorrido.
+Com contrarrazões.
+Juízo positivo de admissibilidade.
+É o relatório. Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo 3).
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Dito isso, tem-se que a irresignação não merece prosperar.
+Na espécie, constitui vedada inovação recursal a pretensão de ver discutida em embargos de declaração, na origem, matéria que não foi objeto de recurso apelação em relação à decisão de primeira instância. Portanto, incabível a alegação de violação do art. 1.022 do CPC.
+Nesse sentido: "É cediço na jurisprudência desta Corte Superior, que a matéria não alegada no momento oportuno, qual seja, apelação, trata-se de indevida inovação recursal, sendo inviável a sua análise pelo Tribunal de origem, por força do princípio do tantum devolutum quantum appellatum, ainda que se refira à matéria de ordem pública" (AgInt no REsp n. 1.753.855/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/6/2019, DJe de 10/6/2019).
+Confiram-se ainda os seguintes julgados desta Corte Superior de Justiça: AgRg no AREsp 1.837.243/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 9/8/2021; AgInt no AREsp 1.790.481/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 3/8/2021; AgRg no AREsp 1.807.611/ES, relator Ministro Felix Fischer, Quinta Turma, DJe 27/4/2021; EDcl no REsp 1.778.048/MT, relatora Ministra Nancy Andrighi, Terceira Turma, DJe 11/2/2021; AgInt no AREsp 971.273/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 19/4/2017.
+A partir desse contexto é que a matéria supostamente omitida não foi prequestionada, porquanto o instituto do prequestionamento pressupõe a prévia análise da tese jurídica pela Corte de origem, que deve ser suscitada no momento processual oportuno, caso destes autos.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. PEDIDO DE ACAREAÇÃO DE TESTEMUNHAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. AFASTAMENTO DA RESPONSABILIDADE CIVIL POR DANOS MORAIS E ESTÉTICOS E RECONHECIMENTO DE CULPA EXCLUSIVA DA VÍTIMA. SÚMULA 7/STJ. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para que ocorra afronta ao art. 535 do CPC, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia. No presente caso, apesar de alegar omissão e de terem sido opostos embargos de declaração, verifico que o ponto referente a acareação das testemunhas não foi devolvido ao Tribunal na apelação, de modo que a invocação de tal matéria somente em sede de embargos de declaração configurou inovação recursal.
+2. A matéria referente a suposta violação do art. 418, inciso II, do Código de Processo Civil, não foi objeto de discussão no acórdão recorrido, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+3. As conclusões firmadas no acórdão a respeito do reconhecimento da responsabilidade objetiva da recorrente pelo evento danoso acometido à recorrida e do afastamento da tese de culpa exclusiva desta, foram fundamentadas com base na análise fático-probatória da causa, o que afasta o conhecimento do apelo extremo, conforme Súmula 7/STJ.
+4. O valor fixado a título de indenização por danos morais e estéticos não destoa dos parâmetros da razoabilidade e da proporcionalidade, pelo que também incide o óbice da Súmula 7/STJ a impedir o conhecimento do apelo extremo.
+5. Agravo regimental não provido.
+(AgRg no AREsp 726.520/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 2/9/2015)
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias na vigência do CPC/2015, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. IMPOSSIBILIDADE. TESE QUE NÃO FOI SUSCITADA EM MOMENTO OPORTUNO. INOVAÇÃO RECURSAL. RECURSO ESPECIAL NÃO CONHECIDO.
