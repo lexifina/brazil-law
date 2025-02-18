@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por ALIANÇA NAVEGAÇÃO E LOGÍSTICA LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EMBARGOS DE TERCEIRO. Cumprimento de sentença penal condenatória. Penhora decretada sobre a parte ideal de bem indivisível (imóvel) de copropriedade da executada (art. 843 CPC). Pretensão do embargante (marido da executada) de levantar a constrição sob a alegação de se tratar de bem de família. Improcedência fundamentada na ausência de provas e pela incidência do art. 3º, VI, da Lei nº 8.009/90. O cenário retratado pelas diligências realizadas (via Sisbajud, Renajud, Infojud e CNIB), aliado à declaração de renda prestada ao Fisco, revela a ausência de bens móveis e imóveis em nome da executada e corrobora a alegação do recorrente de que o bem constrito é, de fato, de família. Entendimento firmado pelo STJ no sentido de que a fração de imóvel indivisível pertencente à executada, protegida pela impenhorabilidade do bem de família, não pode ser penhorada sob pena de desvirtuamento da tutela conferida pela Lei nº 8.009/90. Possibilidade de penhorar fração ideal de bem de família, desde que possível o desmembramento do imóvel sem sua descaracterização.
+Precedentes citados. As razões expostas servem para afastar a incidência do disposto no art. 3º, VI, da Lei nº 8.009/90, ainda que se amolde à situação fática da executada, porque os efeitos da pena condenatória não se estendem para além da pessoa e do patrimônio do condenado (art. 5º, XLV, CF). Sentença reformada para julgar procedentes os embargos de terceiro, determinando- se o levantamento da penhora incidente sobre a totalidade do imóvel. Recurso provido" (e-STJ fl. 365).
+No recurso especial (e-STJ fls. 373/383), a recorrente alega violação dos artigos 3º, IV, da Lei nº 8.009/1990 e 843, caput, do Código de Processo Civil.
+Defende, em síntese, que
+"(..) ao desconsiderar a exceção à impenhorabilidade de bem família em casos de cumprimento de sentença penal, à luz da indivisibilidade da propriedade, o acórdão recorrido afrontou o disposto nos artigos 3º, IV, Lei Federal nº 8.009/90, e 843, caput, do Código de Processo Civil" (e-STJ fl. 382).
+Após a apresentação das contrarrazões (e-STJ fls. 392/402), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No caso, o Tribunal de origem reconheceu a impenhorabilidade do bem imóvel em discussão, inclusive em relação à fração ideal do recorrida, com base nos seguintes fundamentos:
+"(..)
+Esses embargos de terceiro foram intentados em razão da penhora realizada (fls. 255/256) sobre 50% do imóvel de copropriedade do embargante (certidão de matrícula - fls. 84), que afirma ser bem de família e pugna pelo levantamento da constrição.
+O atual Diploma Processual Civil, ao tratar da penhora e da alienação judicial de bem indivisível, ampliou o regime anteriormente previsto no CPC/1973, autorizando a alienação judicial do bem indivisível em sua integralidade, em qualquer hipótese de copropriedade, resguardando os direitos do condômino no produto da alienação (AgInt no REsp n. 1.921.288/SP, Relator Ministro Paulo de Tarso Sanseverino, DJe de 23/3/2023). Nessa linha e apoiado em dispositivo legal (art. 843 CPC 6 ) entendeu o Magistrado, resguardando a fração ideal de terceiro (..).
+(..)
+O magistrado julgador rejeitou a aludida alegação, sob o fundamento de que o recorrente "não se desincumbiu de seu ônus de comprovar que este é seu único imóvel, e vem sendo utilizado para moradia permanente, fato que poderia ser comprovado, por exemplo, com a juntada de certidão negativa imobiliária" (fls. 155) e, ainda por se amoldar a hipótese à exceção prevista no inciso VI do art. 3º da Lei n. 8009/907 .
+Como cediço, a Lei nº 8.009/90 não visa proteger o devedor contra suas dívidas, mas a entidade familiar no seu conceito mais amplo, motivo pelo qual as hipóteses de exceção à impenhorabilidade do bem de família devem ser interpretados restritivamente.
+Iniciado o cumprimento de sentença, a exequente ALIANÇA, ora embargada, diligenciou na busca de bens e valores de propriedade de Cilene, obtendo o deferimento de medidas judiciais (fls.299) como o bloqueio de valores eventualmente existentes nas contas correntes (R$175.196,86), o bloqueio de veículos via Renajud, a obtenção da última declaração de imposto de renda, via Infojud, a indisponibilidade de bens via CNIB (fls. 305/306) e, conforme afirmado por ela, o único patrimônio encontrado foi o imóvel do casal, de copropriedade de CILENE (..) (fls. 199).
+Tal é ratificado pela declaração de renda prestada ao Fisco pelo embargante (fls. 165) na qual consta que o imóvel, objeto dos autos, é a única propriedade do casal.
+O cenário retratado pelas provas obtidas demonstra a ausência de bens móveis e imóveis em nome da executada e corrobora a alegação do recorrente de que o bem constrito é, de fato, de família.
+Sendo assim, a fração de imóvel indivisível pertencente à executada, protegida pela impenhorabilidade do bem de família, não pode ser penhorada sob pena de desvirtuamento da tutela conferida pela Lei nº 8.009/90. Pontua-se que excepcionalmente admite-se a penhora de parte do imóvel quando for possível seu desmembramento em unidades autônomas, sem descaracterizá-lo, considerando, com razoabilidade, as circunstâncias e peculiaridades do caso.
+(..)
+Por fim, pelos mesmos motivos expostos, não há se falar em afastamento da impenhorabilidade do bem de família, pela incidência do disposto no art. 3º, VI, da Lei n. 8.009/90, que se amolda à situação fática da executada Cile ne, porque os efeitos da pena condenatória não se estendem para além da pessoa e do patrimônio do condenado (art. 5º, XLV, CF).
+3. Ante o exposto, dá-se provimento ao apelo para julgar procedentes os embargos de terceiro, determinando-se o levantamento da penhora incidente sobre a totalidade do imóvel registrado sob a matrícula nº 19.572 do 2º Cartório de Registro de Imóveis de São Bernardo do Campo" (e-STJ fls. 367/371 - grifou-se).
+Com efeito, é possível a penhora de fração ideal de bem de família nas hipóteses legais, desde que o imóvel possa ser desmembrado sem ser descaracterizado.
+No entanto, tendo a Corte local entendido pela indivisibilidade do bem imóvel, não há como acolher a pretensão recursal sem recair no reexame de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. É possível a penhora de fração ideal de bem de família, nas hipóteses legais, desde que possível o desmembramento do imóvel sem sua descaracterização. Precedentes. 2.1. No caso em tela, a Corte de origem entendeu ser indivisível o bem, afastando a penhora. Incidência das Súmulas 7 e 83/STJ.
+3. Agravo interno desprovido" (AgInt no REsp 1.663.895/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/9/2019, DJe 7/10/2019).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. BEM DE FAMÍLIA. IMÓVEL INDIVISÍVEL. IMPENHORABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça assenta a possibilidade de penhora de fração ideal de bem de família nas hipóteses legais, desde que o imóvel possa ser desmembrado sem ser descaracterizado.
+3. Na hipótese, rever a conclusão firmada pelas instâncias ordinárias, acerca da indivisibilidade e da impenhorabilidade do bem de família, demandaria a análise de fatos e provas dos autos, procedimento inviável em recurso especial em virtude do disposto na Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
