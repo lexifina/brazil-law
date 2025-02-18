@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ELISANDRO HECKLER SANTANNA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, por acórdão proferido no julgamento da Apelação Criminal n. 5000590-88.2023.8.24.0082.
+Consta dos autos que o paciente foi condenado à pena de 1 ano, 1 mês e 10 dias de detenção no regime aberto e 21 dias-multa, com substituição por pena restritiva de direitos, pela prática do delito do art. 2º, II, da Lei n. 8.137/1990.
+A impetrante sustenta que deve ser afastada a causa de aumento do art. 12, I, da Lei n. 8.137/1990, alegando que não poderia ser contabilizado no valor sonegado aquele referente a juros e multa, bem como o reconhecimento de crime único por ausência de cont umácia delitiva.
+Requer a redução da pena.
+Prestadas as informações, o Ministério Público manifestou-se pelo não conhecimento.
+É o relatório.
+Este Tribunal Superior firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Veja-se, a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento. Assim constou do acórdão (fls. 341 e 343-344):
+2. Quanto à contumácia, a ementa do RHC 163.334 esclarece que "somente se considera criminosa a inadimplência sistemática, contumaz, verdadeiro modus operandi do empresário, seja para enriquecimento ilícito, para lesar a concorrência ou para financiar as próprias atividades".
+O Superior Tribunal de Justiça, é verdade, já deliberou pela inexistência de contumácia quando a sonegação atinge somente três (AgRg no REsp 1.870.389, Relª. Minª. Laurita Vaz, j. 8.2.22; AgRg no AgRg no AR Esp 1.882.358, Rel. Min. Reynaldo Soares da Fonseca, j. 9.11.21; e R Esp 1.894.798, Relª. Minª. Laurita Vaz, j. 9.11.21) e quatro meses (AgRg no AR Esp n. 1.877.226, Rel. Min. Rogério Schietti Cruz, j. 11.10.22; AgRg no R Esp n. 1.859.166, Rel. Min. Rogério Schietti Cruz, j. 9.8.22; e R Esp 1.852.129, Rel. Min. Sebastião Reis Júnior, j. 16.6.20), e até mesmo de seis meses em caso de "réu primário e sem antecedentes criminais" (HC 569.856, Rel. Min. Sebastião Reis Júnior, j. 11.10.22).
+No caso, porém, o processo cuida da perpetração de vinte e nove sonegações, o que é suficiente à verificação da contumácia, tanto que o Superior Tribunal de Justiça manteve acórdão desse Tribunal de Justiça no qual se concluiu que "a contumácia igualmente se revela presente, mormente por ter o apelante cometido o crime por 8 (oito) vezes ao longo do ano de 2019" (AgRg nos EDcl no REsp 2.013.545, Rel. Min. Sebastião Reis Júnior, j. 2.10.23).
+ ..
+4. O pedido de afastamento da causa de aumento do art. 12, I, da Lei 8.137/90, aplicável quando o delito "ocasionar grave dano à coletividade", não pode ser acolhido.
+Embora algumas decisões desta Corte de Justiça adotem como parâmetro, para a incidência da majorante, o valor sonegado de R$ 500.000,00, excluídos juros e multa (vide Apelações Criminais 5017107-41.2019.8.24.0008, j. 3.5.22; 0900053-32.2019.8.24.0038, j. 29.3.22; 0008889- 05.2017.8.24.0033, j. 23.11.21; e 0905821-36.2019.8.24.0038, j. 18.5.21), a Terceira Seção do Superior Tribunal Justiça definiu que a causa de aumento somente é aplicável quando o prejuízo causado supera a marca de R$ 1.000.000,00:
+ ..
+Para aferição do montante, conforme delineado no precedente paradigmático, "o dano tributário é valorado considerando seu valor atual e integral, incluindo os acréscimos legais de juros e multa".
+ ..
+Por se tratar de questão eminentemente de direito e interpretativa de dispositivo infraconstitucional, esta Segunda Câmara de Direito Criminal curva-se à jurisprudência do Superior Tribunal de Justiça (Apelações Criminais 0905801-16.2017.8.24.0038, Rel. designado Des. Norival Acácio Engel, j. 22.8.23; 5000855-71.2019.8.24.0166, deste relator, j. 1º.8.23; e 5032174- 82.2021.8.24.0038, Relª. Desª. Hildemar Meneguzzi de Carvalho, j. 31.23), de modo a se concluir que, no caso, em que o valor inscrito na dívida ativa supera 1 milhão de reais (Evento 79), a causa de aumento deve ser aplicada.
+Em face disso, deve ser mantida a condenação de Elisandro Heckler Santanna pela prática do crime previsto no art. 2º, II, c/c o 12, I, ambos da Lei 8.137/90, por vinte e nove vezes, na forma do art. 71, caput, do Código Penal. (grifo próprio)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
