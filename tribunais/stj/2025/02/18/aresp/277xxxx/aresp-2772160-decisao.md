@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela USINAS SIDERURGICAS DE MINAS GERAIS S/A. - USIMINAS, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 7.749):
+APELAÇÕES CÍVEIS. DIREITO TRIBUTÁRIO. ICMS. REMESSA ENTRE ESTABELECIMENTOS DO MESMO CONTRIBUINTE. COBRANÇA ANTECIPADA DO DIFERENCIAL DE ALÍQUOTAS DEVIDO NA OPERAÇÃO SUBSEQUENTE. ART. 24, § 8º, DA LEI Nº 8.820/89 E ART. 46, § 4º, DO LIVRO I DO RICMS. INEXISTÊNCIA, NO CASO, DE PREJUÍZO AO ERÁRIO.
+O imposto em cobrança não se refere à operação de transferência entre estabelecimentos do mesmo contribuinte. O que exige o Estado é o diferencial de alíquotas de ICMS correspondente à operação subsequente, realizada entre o estabelecimento da autora localizado no Rio Grande do Sul e o adquirente da mercadoria.
+Configura uma antecipação do tributo de operação posterior (interna), que é havida entre a empresa e terceiro, não se aplicando ao caso o entendimento firmado pelo STF no Tema nº 1.099.
+Na sistemática do art. 24, § 8º, da Lei Estadual nº 8.820/89 e art. 46, § 4º, do Livro I do RICMS, o ICMS adimplido por antecipação quando da entrada no território do Estado deve ser utilizado na compensação do que será devido quando da saída, recolhendo-se eventual valor a maior quando da apuração mensal do imposto, o que ocorreu no presente caso.
+A lei tributária não faculta ao contribuinte escolher o momento em que se dará o recolhimento do imposto. Entretanto, exigir dele que pague a antecipação do diferencial de alíquota em relação a operações sobre as quais já houve o adimplemento do tributo configuraria bis in idem, o que não se pode admitir, inexistindo prejuízo ao erário.
+A multa material somente pode ser aplicada quando há prejuízo aos cofres públicos decorrente do não recolhimento do imposto, e não pelo pagamento a destempo, como ocorreu no presente caso.
+Remanesce apenas a cobrança de eventuais consectários legais, como multa moratória, juros e correção monetária.
+APELAÇÃO DO ESTADO DESPROVIDA E RECURSO DA AUTORA PROVIDO EM PARTE.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 7.804):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÕES CÍVEIS. DIREITO TRIBUTÁRIO. ICMS. REMESSA ENTRE ESTABELECIMENTOS DO MESMO CONTRIBUINTE. COBRANÇA ANTECIPADA DO DIFERENCIAL DE ALÍQUOTAS DEVIDO NA OPERAÇÃO SUBSEQUENTE. ART. 24, § 8º, DA LEI Nº 8.820/89 E ART. 46, § 4º, DO LIVRO I DO RICMS. INEXISTÊNCIA, NO CASO, DE PREJUÍZO AO ERÁRIO. NÃO CONFIGURAÇÃO DOS VÍCIOS DESCRITOS NO ART. 1.022.
+A multa material somente pode ser aplicada quando há prejuízo aos cofres públicos decorrente do não recolhimento do imposto, e não pelo pagamento a destempo, como ocorreu no presente caso.
+Remanesce apenas a cobrança de eventuais consectários legais, como multa moratória, juros e correção monetária.
+Inaplicabilidade do art. 85, § 8º, ao caso, conforme tese firmada pelo STJ no Tema nº 1.076.
+Os embargos de declaração não se prestam à rediscussão da causa. Recurso de integração e não de substituição.
+EMBARGOS DE DECLARAÇÃO NÃO ACOLHIDOS.
+Em seu recurso especial, às fls. 7.814-7.826, a recorrente sustenta violação aos arts. 8º e 13, §4º, inciso II, ambos da Lei Complementar n. 87/1996, "tendo em vista a utilização do Difal como critério de quantificação de antecipação de fato gerador, em contrariedade à regulamentação da Lei Complementar" (fl. 7.818).
+Alega, ainda, ofensa aos arts. 11, §3º, inciso II, e 12, inciso I, ambos da Lei Complementar n. 87/1996, "em razão da não incidência de ICMS sobre meras transferências de bens entre estabelecimentos próprios, como se fosse antecipação" (fl. 7.818).
+Por fim, aduz violação ao art. 12, inciso XV, da mesma Lei Complementar, "pois, nos termos desse dispositivo, é ilegítima a exigência de verdadeiro ICMS-diferencial de alíquotas sobre recebimento de bens destinados à venda" (fl. 7.818) .
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 7.899-7.901):
+Segundo a jurisprudência do Superior Tribunal de Justiça, "Nos termos da Súmula 280 do STF, é defesa a análise de lei local em sede de recurso especial" (AgInt no REsp 1879499/PB, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/09/2021, DJe 07/10/2021).
+(..)
+No caso, o Órgão Julgador negou provimento ao recurso de apelação com base na Lei Estadual n.º 8.820/89 e Decreto Estadual n.º 37.699/97, conforme se lê do seguinte excerto do acórdão objurgado:
+(..)
+Ante o exposto, NÃO ADMITO o recurso especial.
+Em seu agravo, às fls. 7.929-7.936, a agravante sustenta que (fls. 7.934-7.935):
+Neste ponto, cumpre repisar que o recurso especial manejado não pretende fazer com que esta eg. Corte Cidadã analise a controvérsia sob a ótica da legislação local gaúcha. Em verdade, a ora Agravante visa demonstrar a legítima situação a que estão submetidos os contribuintes no Estado do Rio Grande do Sul em virtude da utilização do ICMS-Difal como critério de quantificação de antecipação de fato gerador e da exigência de ICMS sobre meras transferências de bens entre estabelecimentos próprios.
+Dessa forma, a constatação das afrontas à legislação federal infraconstitucional - no caso, a Lei Kandir -, como acima aclarado, é direta e, para a sua verificação é preciso, tão somente, que se compare o teor do aresto recorrido e as normas reportadas como violadas. Não é necessário, portanto, análise da legislação local. Afinal, o cenário fático e normativo está bem delineado no acórdão fustigado, motivo pelo qual a decisão ora agravada, também nesse trecho, merece ser reformada, data maxima venia.
+Aqui, não se descuida do fato de que, realmente, há no aresto recorrido menção a normas locais estaduais. Todavia, seu exame é desnecessário para que se conclua que houve mácula à legislação federal.
+Afinal, em suas razões de recurso especial, a ora Agravante foi clara ao demonstrar a ilegitimidade do regime instituído no Estado do Rio Grande do Sul para exigência de ICMS de forma antecipada. Sendo que, em momento algum, pleiteou-se o julgamento da causa com base em leis locais, mas sim com base em normas da legislação federal.
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Em relação à alegada violação aos arts. 8º, 11, §3º, inciso II, 12, incisos I e XV e 13, §4º, inciso II, todos da Lei Complementar n. 87/1996, consoante se depreende do acórdão impugnado, os fundamentos legais que lastrearam a presente questão repousam eminentemente na legislação estadual (Lei Estadual nº 8.820/89 e Decreto Estadual n.º 37.699/97). Isso posto, eventual violação à lei federal seria reflexa, uma vez que a análise da controvérsia requer previamente apreciação da legislação estadual citada, o que não se admite em sede de recurso especial. A esse respeito, consigne-se que "não é cabível recurso especial para análise de violação reflexa à lei federal". (AgInt no AREsp n. 2.514.896/PR, rel. Min. Nancy Andrighi, Terceira Turma, DJe de 26/6/2024) De fato, "na forma da jurisprudência, a ofensa à lei federal ensejadora da abertura da via especial deve ocorrer de forma direta, sendo inviável o conhecimento do recurso especial quando a eventual ofensa a lei federal se der de maneira reflexa". (AgRg no AREsp n. 62.003/PE, rel. Min. Assusete Magalhães, Segunda Turma, DJe de 1/7/2015) Ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. POLUIÇÃO SONORA. DANO AMBIENTAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA INICIAL. INEXISTÊNCIA DE JULGAMENTO EXTRA PETITA. NOVA PERÍCIA TÉCNICA. MODIFICAÇÃO DAS PREMISSAS DO JULGADO A QUO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. OFENSA REFLEXA À LEI FEDERAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+(..)
+4. A solução da controvérsia perante o Tribunal a quo derivou da exegese da legislação municipal, extrapolando a estreita via do recurso especial, pois implicaria o exame de violação reflexa ou indireta a texto de lei federal.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.234/RJ, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 22/8/2024)
+Além do mais, como o Tribunal de origem examinou e interpretou a legislação local (Lei Estadual nº 8.820/89 e Decreto Estadual n.º 37.699/97) para o deslinde da controvérsia, tem-se por inviável o recurso especial, também em razão da incidência, por analogia, do enunciado 280 da Súmula do STF, verbis: "Por ofensa a direito local não cabe recurso extraordinário". Neste sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. URV. AFRONTA À COISA JULGADA. PRECLUSÃO. REDISCUSSÃO DE FATOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ADESÃO DO SERVIDOR À LEI ESTADUAL N. 9.664/2012 (PGCE). ANÁLISE DE DIREITO LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA N. 126 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. AGRAVO INTERNO DEPROVIDO.
+(..)
+2. O exame de normas de caráter estadual descabe na via do Recurso Especial, em face da vedação prevista na Súmula n. 280 do STF, aplicável por analogia.
+(..)
+5. Agravo Interno desprovido.
+(AgInt no AREsp n. 2.451.924/MA, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 5/9/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 8º, 11, §3º, INCISO II, 12, INCISOS I E XV E 13, §4º, INCISO II, TODOS DA LC N. 87/1996. (I) - OFENSA REFLEXA E NÃO DIRETA ÀS NORMAS INFRACONSTITUCIONAIS. INADMISSIBILIDADE. (II) -ACÓRDÃO IMPUGNADO FUNDAMENTADO EM INTERPRETAÇÃO DE LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
