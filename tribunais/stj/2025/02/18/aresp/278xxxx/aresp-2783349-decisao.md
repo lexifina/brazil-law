@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pela autora contra a decisão que não admitiu o seu recurso especial, apresentado em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C DANOS MORAIS - EMPRÉSTIMO CONSIGNADO - FATO NEGATIVO - ÔNUS PROBATÓRIO DA PARTE RÉ - IMPUGNAÇÃO À AUTENTICIDADE DA ASSINATURA - AUSÊNCIA DE PEDIDO DE PERÍCIA GRAFOTÉCNICA PELA PARTE RÉ - RELAÇÃO JURÍDICA INEXISTENTE - CONTRATO NULO - DANOS MORAIS - AUSÊNCIA DE PROVA - MEROS ABORRECIMENTOS - Tratando-se de ação declaratória de inexistência de débito cumulada com indenização por danos morais é ônus do réu, pretenso credor, provar a existência de vínculo contratual apto a justificar os descontos mensais lançados nos rendimentos do autor. - Havendo expressa alegação de fraude e impugnação à autenticidade da assinatura lançada no contrato juntado pelo réu, é ônus deste último a prova da veracidade da firma do contratante. - Inexistindo requerimento de realização de perícia grafotécnica, ônus que incumbia à parte que produziu o documento (art. 429, II do CPC), a cópia do contrato apresentando não serve como prova da existência da relação jurídica impugnada pela parte autora, devendo ser reconhecida a inexistência de débito. - Não se cuidando de danos "in re ipsa", incumbe à parte autora o ônus de comprovar que a falha no serviço causou-lhe humilhação, dor ou sofrimento desarrazoados. - Apesar de declarado inválido o contrato, é inegável que os descontos das parcelas mensais sobre o benefício previdenciário, por si só, não fazem presumir a ocorrência dos danos morais alegados. - Recurso ao qual se dá parcial provimento.
+No recurso especial, alega-se que o acórdão recorrido deu à norma jurídica positivada no artigo 927 da Lei 10.406/2002 (Código Civil - CC/2002) interpretação que, em idêntica situação fática (desconto indevido fundado em empréstimo inválido), difere da conferida por outros tribunais pátrios, notadamente por haver afastado a condenação da ré (instituição fin anceira) ao pagamento de indenização por danos morais.
+Inicialmente, anoto que aborrecimentos comuns do dia a dia, dissabores normais e próprios do convívio social não são suficientes para originar danos morais indenizáveis. Cito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. MERO ABORRECIMENTO. SÚMULA 83/STJ. OFENSA À HONRA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. É pacífica a jurisprudência desta Corte no sentido de que os aborrecimentos comuns do dia a dia, os meros dissabores normais e próprios do convívio social não são suficientes para originar danos morais indenizáveis. Incidência da Súmula 83/STJ.
+2. No caso, a revisão do concluído pelo Tribunal a quo, no sentido de que não houve ofensa à honra, em decorrência do envio, não solicitado, de cartão de crédito, demandaria o revolvimento do acervo fático-probatório dos autos, situação que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 604.582/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/11/2015, DJe de 7/12/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. MERO ABORRECIMENTO. DANO MORAL. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA DO STJ. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ.
+1. O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte.
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 432.443/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/02/2014, DJe 06/03/2014)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ENVIO DE CARTÃO DE CRÉDITO SEM SOLICITAÇÃO DO CONSUMIDOR. AUSÊNCIA DE NEGATIVAÇÃO OU COBRANÇA INDEVIDA. DANOS MORAIS NÃO CONFIGURADOS. MERO ABORRECIMENTO. AGRAVO DESPROVIDO.
+1. É pacífica a jurisprudência desta Corte no sentido de que os aborrecimentos comuns do dia a dia, os meros dissabores normais e próprios do convívio social não são suficientes para originar danos morais indenizáveis. Incidência da Súmula 83/STJ.
+2. No caso, a revisão do concluído pelo Tribunal a quo, no sentido de que não houve ofensa à honra, em decorrência do envio, não solicitado, de cartão de crédito, demandaria o revolvimento do acervo fático-probatório dos autos, situação que encontra óbice na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1655212/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/02/2019, DJe 01/03/2019)
+No caso, o Tribunal de origem, ao entender ausente fato gerador de dever indenizatório, não divergiu da jurisprudência da Casa. Incide, assim, a Súmula 83 do Superior Tribunal de Justiça (STJ).
+Além disso, penso que a reforma do acórdão recorrido demandaria reexame de matéria fática, o que é inviável em recurso especial. Nessa direção:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO. DANOS MORAIS. AUSÊNCIA DE PROVA DO ABALO À HONRA. REEXAME FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. O suporte jurídico que lastreou o acórdão ora hostilizado emergiu da análise de fatos e provas pelas instâncias ordinárias. Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação da situação fática, o que é vedado em sede de recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 347.831/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/3/2014, DJe 25/3/2014)
+Aplica-se, assim, a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do artigo 85, § 11, da Lei 13.105/2015 (Código de Processo Civil - CPC/2015), majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da representação da agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ficando sob condição suspensiva a exigibilidade dessa obrigação em caso de beneficiário da gratuidade da justiça.
+Intimem-se.
+EMENTA
