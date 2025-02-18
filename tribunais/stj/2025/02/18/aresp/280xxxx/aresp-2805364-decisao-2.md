@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por COLEPAV AMBIENTAL LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - PRESTAÇÃO DE SERVIÇO DE T. I. - AÇÃO DE COBRANÇA - JUSTIÇA GRATUITA - PESSOA JURÍDICA - E ADMISSÍVEL À CONCESSÃO DA GRATUIDADE DA JUSTIÇA À PESSOA JURÍDICA, COM OU SEM FINS LUCRATIVOS, DESDE QUE COMPROVADA A IMPOSSIBILIDADE DE ARCAR COM AS CUSTAS E DESPESAS PROCESSUAIS (SÚMULA 481, STJ) - NO CASO, TODAVIA, INEXISTE PROVA DA MENCIONADA INSUFICIÊNCIA DE RECURSOS, AINDA QUE MOMENTÂNEA, A ARREDAR INCLUSIVE A PRETENSÃO DE DIFERIMENTO, QUE NEM MESMO TEM PREVISÃO LEGAL PARA A HIPÓTESE DOS AUTOS (CF. ART. 5O DA LEI ESTADUAL Nº 11.608/2003) - PRECEDENTES DESTA CORTE - DECISÃO MANTIDA. OPOSIÇÃO AO JULGAMENTO VIRTUAL - INADMISSIBILIDADE, NO CASO EM APREÇO - RECURSO QUE NÃO VERSA SOBRE TUTELA PROVISÓRIA - POSSIBILIDADE DE JULGAMENTO VIRTUAL, SEM QUALQUER NULIDADE - EXEGESE DOS ARTIGOS 146, § 4O, DO RITJSP, E 937, INCISO VIII, DO CPC. RESULTADO: RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 98 do CPC, no que concerne à necessidade de deferimento da benesse da gratuidade de justiça à parte recorrente, porquanto, conforme documentos anexados aos autos, não possui condições de arcar com as despesas decorrentes do processo, trazendo a seguinte argumentação:
+Nesta senda, a Recorrente forneceu nos autos dos Embargos à Execução e trouxe ao Agravo documentos que comprovam que as contas bancárias de movimentação da empresa vêm encerrando todos os meses com expressivo saldo negativo, o que comprova de forma de forma inequívoca agrave crise financeira pela qual atravessa a Recorrente, BEM COMO DADOS FICAIS E JURIDICOS QUE DEMONSTRAM CLARA CRISE.
+Tem-se, portanto, que eventual imposição do recolhimento das custas, neste momento processual, colocaria em risco a própria continuidade das atividades empresariais da recorrente e cercearia o direito de ação, sendo que esta tem valor de causa elevadíssimo. Os julgadores do Tribunal Bandeirante, seguramente não fizeram a correta distinção entre a miserabilidade jurídica e a insuficiência material, que já fora acadêmica explicada por Daniel Assumpção Neves.
+A extensa prova documental a que fora chamada a apresentar nos autos é extensa e robusta, sendo indiscutível seu encaixe na benesse pretendida.
+Vejamos que a parte cumpriu com o ordenado EM QUE PESE O EXIGUO PRAZO CONCEDIDO. Nos parece indissociável a existência de todos os requisitos legais à concessão da gratuidade da justiça, sendo que alternativamente, não pode o tribunal, por recolhimento de preparo pendente de avaliação, aplicar o instituto da deserção!
+Isto posto, diante das razões acima expostas, resta inequívoca a clara violação direta ao art. 98 do Código de Processo Civil (fl. 99).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso, todavia, os documentos apresentados na origem (fls. 557/587) não são suficientes para comprovar precária sua situação financeira.
+Convém destacar que a agravante tem 6 (seis) filiais, e que seu capital social supera R$37.000.000,00 (trinta e sete milhões de reais), como se dessume de fls. 507/519 dos autos da origem.
+Nesse cenário, a mera existência de ações judiciais ou de protestos contra si não possui o condão de atestar a aventada incapacidade financeira 1 , a arredar inclusive a pretensão de diferimento, que nem mesmo tem previsão legal para a hipótese dos autos (cf. art. 5º da Lei Estadual nº 11.608/2003).
+ ..
+Por último, e não menos importante, anoto que a dimensão econômica da reconvenção não indica a necessidade de custeio de taxa judiciária ou despesa processual para além das condições financeiras da agravante.
+Assim, ausentes os requisitos legais para concessão da benesse, mantém-se a decisão agravada (fls. 73-74).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
