@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração apostos contra acórdão assim ementado (fl. 526):
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. NÃO COMPROVAÇÃO DO DIREITO LIQUÍDO E CERTO. AUSÊNCIA DE PROVA PRÉ- CONSTITUÍDA. RECURSO NÃO PROVIDO.
+A parte embargante aponta omissão na decisão embargada , argumentando, em síntese, que: (i) "não há intenção por parte da Embargante realizar dilação probatória. Em verdade, as provas trazidas posteriormente à petição inicial são consequência do deslinde processual, do qual não configura necessidade de produzir provas, tão somente de reanálise" (fl. 539); (ii) "O v. acórdão concluiu que o precatório em análise, em tese, estaria sujeito à revisão dos cálculos, com fundamento na ADI nº 2.332 e na Resolução nº 120/2019-PGE/PR. Tal entendimento afastaria a liquidez do referido precatório, em contrariedade ao disposto na Lei nº 17.082/2012. No entanto, não se pode admitir a revisão dos valores em âmbito administrativo, considerando que tal procedimento deveria ser realizado exclusivamente na esfera judicial." (fl. 540).
+Impugnação às fls. 548/554.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada decidiu a controvérsia ao assentar que o Tribunal de origem, ao denegar a segurança, concluiu pela ausência de certeza e liquidez dos precatórios apresentados, considerando que percentual do valor líquido, atribuído a cada um dos credores originais se encontra incerto, impossibilitando a aferição dos valores disponíveis para a cessão, de forma que o exame da pretensão mandamental exige, a toda evidência, dilação probatória, o que é inviável na via estreita do mandado de segurança.
+Ora, nestes aclaratórios, sob alegação de omissão no julgado, o que pretende o embargante é rediscussão da causa, o que, como já visto, não se enquadra nas hipóteses de cabimento de embargos de declaração.
+Com efeito, "Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi." (AgInt no REsp 1.921.188/DF, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 26/9/2022).
+Ademais, ressalta-se que há omissão quando, embora oportunamente provocado, deixa o órgão julgador de analisar matéria relevante para o deslinde da causa. Por outro lado, não há omissão quando, mesmo sem que se examine individualmente cada um dos argumentos suscitados, há manifestação clara e fundamentada acerca de todas as questões relevantes para a solução da controvérsia, o que se verifica na hipótese, em que foi analisada, sim, a argumentação expendida, tendo sido apresentados, como de mister, os motivos de se ter concluído pela manutenção da decisão então agravada.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA . ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
