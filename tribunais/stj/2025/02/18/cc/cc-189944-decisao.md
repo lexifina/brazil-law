@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito de competência, com pedido liminar, instaurado por 100 LIMITES TRANSPORTES LTDA., em recuperação judicial, em que aponta como suscitados o JUÍZO DE DIREITO DA 2ª VARA CÍVEL, CRIMINAL, FAZENDA PÚBLICA, REGISTROS PÚBLICOS, FAMÍLIA E SUCESSÕES DE GOIATUBA (GO) e o JUIZO DE DIREITO DA 5ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO (SP).
+A suscitante formulou pedido de recuperação judicial no Juízo de Direito da 2ª Vara Cível, Criminal, Fazenda Pública, Registros Públicos, Família e Sucessões de Goiatuba (GO), onde foi deferido pedido de tutela de urgência, determinando a suspensão atos expropriatórios em desfavor da empresa (fls. 77-79).
+Afirma a suscitante que, a despeito do deferimento da tutela de urgência, o Juízo de Direito da 5ª Vara Cível do Foro Central de São Paulo (SP) determinou a busca e apreensão e bloqueio à circulação de vários veículos da empresa.
+Defende a competência do Juízo universal para deliberar acerca do seu patrimônio.
+Postula, liminarmente, o "sobrestamento da ação de busca e apreensão nº. 1066043-24.2022.8.26.0100, além de ser designado o Juízo da 2ª Vara Cível de Goiatuba/GO para resolver, em caráter provisório, as medidas urgentes (art. 955 do CPC e 196 RI/STJ)" (fl. 14).
+Até aqui praticamente reconstitui o que consta na decisão do eminente Ministro Marco Aurélio Bellizze, segundo a qual, com muito critério dadas as circunstâncias e em juízo preliminar, deferiu a medida de suspensão dos atos executórios promovidos pelo Juízo de Direito da 5ª Vara Cível do Foro Central de São Paulo/SP, nos autos da Ação de Busca e Apreensão n. 1066043-24.2022.8.26.0100, promovida pelo Banco Mercedes-Benz do Brasil S.A., aliado à designação do Juízo competente da 2ª Vara Cível, Criminal, Fazenda Pública, Registros Públicos, Família e Sucessões de Goiatuba/GO, para decidir, em caráter provisório, as medidas urgentes.
+Depois dessa decisão, foram prestadas as informações, e o Ministério Público Federal manifestou-se pelo não conhecimento do conflito.
+Em decisão de mérito, a qual também revogou a liminar concedida, o eminente Ministro Marco Aurélio Bellizze não conheceu do conflito em razão da inexistência de decisões conflitantes, bem como diante do indeferimento da petição inicial da recuperação e da extinção do processo sem resolução do mérito.
+Opostos embargos de declaração, a suscitante informou a retomada da recuperação judicial pelo Juízo da 2ª Vara Cível, Criminal, Fazenda Pública, Registros Públicos, Família e Sucessões de Goiatuba/GO, sendo que o eminente Ministro Marco Aurélio Bellizze acolheu os embargos para, em juízo de reconsideração, tornar sem efeito a decisão anterior, restabelecendo a liminar deferida e o processamento do conflito de competência.
+É o relatório. Decido.
+O conflito de competência é regido pelo art. 105, I, d, da Constituição Federal, pelos arts. 66 e 951 a 959 do Código de Processo Civil e pelos arts. 193 a 198 do Regimento Interno do Superior Tribunal de Justiça.
+Consoante dispõe o art. 66 do CPC/2015, configura-se o conflito de competência quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da reunião ou separação de processos entre duas ou mais autoridades judiciárias.
+Nos casos de recuperação judicial, principalmente, se verifica o conflito em relação ao juízo universal nos casos em que outros juízos promovem atos de constrição do patrimônio da sociedade em recuperação.
+No presente caso, verifica-se das informações prestadas pelo Juízo da 5ª Vara Cível do Foro Central de São Paulo/SP, às fls. 385-387 e-STJ, que a liminar de busca e apreensão dos veículos que não haviam, ainda, sido apreendidos foi revogada, bem como a referida ação de busca e apreensão encontra-se suspensa.
+Portanto, dispõe-se agora de maiores e melhores elementos de ponderação e descaracteriza-se a situação de conflito de competência diante da inexistência de decisões conflitantes.
+Ante o exposto, não conheço do presente conflito de competência e reconheço que a respeitável decisão liminar deixa de produzir efeitos suspensivos quanto às medidas de busca e apreensão.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
