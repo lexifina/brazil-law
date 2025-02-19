@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+SFH. SEGURO. VÍCIOS DE CONSTRUÇÃO. CEF. LEGITIMIDADE. APÓLICE PÚBLICA. PRESCRIÇÃO. DANOS NÃO COBERTOS.
+1. Desde que o contrato conte com a cobertura do FCVS e se trate de apólice pública (ramo 66), a Caixa Econômica Federal, na qualidade de representando judicial do FCVS, está autorizada a intervir nas ações e deslocar a competência para a Justiça Federal.
+2. O prazo prescricional anual do art. 206, §1º, II, "b" do Código Civil aplica-se para as ações do segurado/mutuário contra a seguradora, nos casos em que a ação foi ajuizada quando decorrido mais de um ano da negativa de cobertura por sinistro de danos no imóvel.
+3. Só se pode cogitar em cobertura securitária de houver previsão contratual expressa neste sentido.
+No recurso especial, o recorrente sustenta violação do art. 113 do CPC/73 e o art. 1º da Lei Federal n. 12.409/2011. Em suas razões, defende que a justiça estadual é competente para processar e julgar o feito, pois a vinculação do contrato ao FCVS não implica, por si só, deslocamento da competência para a Justiça Federal.
+Com contrarrazões.
+Com a devolução dos autos à origem em razão do Tema 1011 do STF, o Tribunal negou seguimento ao recurso especial quanto ao tema 1.011 e determinou a remessa dos autos ao STJ quanto as matérias remanescentes.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Em seguida, há de se registrar que a Corte Especial deste STJ, no julgamento do CC n. 148.188/DF (DJe 16/10/2023), firmou orientação de que compete a Primeira Seção o julgamento dos processos em que possa haver comprometimento dos recursos do Fundo de Compensação das Variações Salariais - FCVS, como é o caso dos autos.
+No mais, ao se analisar a argumentação e o pedido constantes do recurso especial, verifica-se que a insurgência exposta entre as fls. 781/796e está inteiramente voltada à discussão sobre o interesse jurídico da Caixa Econômica Federal para intervir na lide e as consequências disso para a fixação da competência. Segundo a ótica da parte recorrente, a mera vinculação do contrato ao FCVS não desloca automaticamente a competência para a Justiça Federal, razão pela qual a ação deveria ser processada pela Justiça Estadual.
+Assim, ao contrário do que se verifica do juízo de admissibilidade, não há questão remanescente alguma a ser apreciada no recurso especial, uma vez que, de acordo com o que ficou decidido no acórdão regional, e segundo o que consta da pretensão recursal, o caso está totalmente abrangido pela solução oriunda da Corte Suprema, cabendo registrar que o recurso não foi admitido por aplicação dos artigos 1.030, I, e 1.040, I, do CPC/2015. Nada mais há a ser apreciado no Superior Tribunal de Justiça, portanto.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. SEGURO HABITACONAL OBRIGATÓRIO. JUÍZO DE RETRATAÇÃO REFUTADO PELA CORTE REGIONAL, DIANTE DA CONFORMIDADE DO ACÓRDÃO COM O TEMA 1.011/STF. AUSÊNCIA DE QUESTÕES REMANESCENTES. RECURSO NÃO CONHECIDO.
