@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJRJ, assim ementado (fl. 291):
+Apelação Cível. Direito Tributário. Pretensão de isenção de imposto de renda retido na fonte em decorrência de cardiopatia grave. Sentença de improcedência. Inconformismo da autora.
+1. Lei nº 7.713/88 que prevê a isenção do pagamento do imposto de renda para pessoas que estejam em inatividade e sejam portadoras de alguma das doenças graves taxativamente elencadas no inciso XIV do art. 6º.
+2. Isenção do referido tributo por moléstia grave que independe de laudo oficial, bastando à autora comprovar sua doença por outros meios de prova, em observância ao princípio do livre convencimento motivado do juiz. Incidência da súmula nº 598 do STJ. Precedentes da Corte Superior.
+3. Autora que somente junta aos autos laudo médico atestando ser portadora de hipertensão arterial sistêmica. Impossibilidade de análise de laudo médico juntado à apelação e com data após a sentença
+4. Ausência de comprovação de cardiopatia grave.
+5. Recurso a que se nega provimento
+Embargos de declaração rejeitados às fls. 311-317.
+O recorrente alega, além de divergência jurisprudencial, violação do artigo o 6º, XIV, da Lei 7713/88, bem como do entendimento das súmulas 627 e 598, ambas do STJ, defendendo, em suma, que a suspensão da isenção do imposto de renda anteriormente deferido foi feita de forma arbitrária e ilegal.
+Contrarrazões às fls. 378-382.
+Juízo positivo de admissibilidade às fls. 384-388.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Em relação à alegada violação das Súmulas 627 e 598, ambas do STJ, o recurso especial não constitui via adequada para a análise de eventual ofensa à Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal" do inciso III do artigo 105 da Constituição Federal. Incide, na hipótese, a Súmula 518/STJ. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. VIOLAÇÃO DE SÚMULA. INVIABILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. SÚMULA 518/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do recurso especial. Incide ao caso a Súmula 280/STF.
+3. Em relação à alegada violação da Súmula 410/STJ, o recurso especial não constitui via adequada para a análise de eventual ofensa à Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal" do inciso III do artigo 105 da Constituição Federal. Incide, na hipótese, a Súmula 518/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.581.025/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/12/2024, DJEN de 23/12/2024.)
+Ademais, o acórdão recorrido concluiu, à fl. 296, que:
+Logo, além de não trazer a CID referente à doença da autora, o laudo médico juntado não faz qualquer referência a cardiopatia grave. Ademais, a autora alega que possui a doença há mais de 30 anos, tendo realizado outras cirurgias, mas não anexa laudos anteriores que certifiquem a doença ou qualquer outro documento que ateste o tratamento da moléstia, mas tão somente o relatório de uma cirurgia realizada.
+A revisão do entendimento implicaria em revolvimento fático-probatório, o que é vedado pela Súmula 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPOSTO DE RENDA. ISENÇÃO. MOLÉSTIA GRAVE. O MAGISTRADO NÃO ESTÁ LIMITADO AO LAUDO MÉDICO OFICIAL, JÁ QUE É LIVRE NA APRECIAÇÃO DAS PROVAS. CONTUDO, NA HIPÓTESE DOS AUTOS, APÓS MINUCIOSA ANÁLISE DO ACERVO PROBATÓRIO DA CAUSA, CONCLUIU O TRIBUNAL DE ORIGEM QUE AS PERÍCIAS EXAMINADAS NÃO ATESTAM A DOENÇA GRAVE APONTADA (CARDIOPATIA). A REVERSÃO DE TAIS CONCLUSÕES REQUER, INDISPENSAVELMENTE, O REEXAME DE PROVAS, EXPEDIENTE DEFESO EM RECURSO ESPECIAL. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Para fins da isenção de Imposto de Renda em caso de moléstia grave, esta Corte Superior propaga que não está o Magistrado limitado aos termos do art. 30 da lei 9.250/1995, uma vez que é livre na apreciação das provas e, por conseguinte, não está adstrito ao laudo médico oficial, podendo valer-se de outras provas produzidas no curso da ação cognitiva, a fim de reconhecer o direito à isenção prevista no art. 6o. XIV da Lei 7.713/1988.
+2. Nesta senda, observa-se que o acórdão recorrido não destoa da orientação desta Corte, porquanto o caso não se refere à inexistência de laudo médico a comprovar a doença ou a inexistência de laudo oficial, mas sim à própria comprovação da doença. Nesse aspecto, destacou o Tribunal de origem que as perícias realizadas eram conclusivas em afirmar que o autor não se enquadrava nos critérios de cardiopatia grave.
+3. Nesse contexto, a modificação do julgado importaria necessário reexame de provas, o que é defeso nesta seara recursal (nesse sentido: AgRg no REsp. 1.497.326/PR, Rel. Min. REGINA HELENA COSTA, DJe 24.3.2015; REsp. 1.116.620/BA, Rel. Min. LUIZ FUX, DJe 25.8.2010).
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp n. 1.355.627/MS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/12/2020, DJe de 18/12/2020.)
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DE SÚMULA. INVIABILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. SÚMULA 518/STJ. IMPOSTO DE RENDA. ISENÇÃO. CARDIOPATIA GRAVE. COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
