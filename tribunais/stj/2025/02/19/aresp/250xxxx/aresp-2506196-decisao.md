@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por VIPLAN VIAÇÃO PLANALTO LIMITADA contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 766):
+EMBARGOS À EXECUÇÃO FISCAL. INFRAÇÕES DE TRÂNSITO. NOTIFICAÇÃO. PRAZO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS.
+I - O prazo de 30 dias previsto no art. 33 do Código Disciplinar Unificado do Sistema de Transporte Público Coletivo do Distrito Federal, aprovado pela Lei Distrital 3.106/02, refere-se à aplicação da penalidade de trânsito e é contado da data da lavratura dos respectivos autos de infração emitidos contra a infratora.
+II - A demora da Administração na notificação da autora não enseja, por si só, a anulação do ato administrativo, notadamente quando é permitida a interposição de recurso administrativo, observados os princípios do contraditório e da ampla defesa.
+III - Nas causas em que a Fazenda Pública for parte, deve ser observado o art. 85, § 5º, do CPC, para que os honorários advocatícios sucumbenciais sejam fixados conforme as faixas de condenação previstas nos incisos I a V do § 3º do mesmo dispositivo legal.
+IV - Apelação da embargante-executada desprovida. Apelação do embargado-exequente provida.
+Embargos de declaração desprovidos (e-STJ fls. 789/797).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 1.022, I e II, do CPC/2015, aduzindo, em suma, que lei distrital estabelece o prazo de trinta dias para a notificação da aplicação de penalidade ao autuado, entretanto, o Tribunal de origem não teria analisado a tese suscitada de que a ausência de notificação concomitante à aplicação da multa ofende o principio da publicidade (e-STJ fls. 800/815).
+Contrarrazões às e-STJ fls. 846/852.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido o fundamento da aludida decisão atacado no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, DESPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, desprovido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022).
+Sustenta o recorrente que o acórdão recorrido não teria enfrentado os seguintes questionamentos (e-STJ fl. 813):
+Retorne-se ao busílis:
+I) o ato administrativo se aperfeiçoa antes de publicado
+II) a publicidade não é o fenômeno que imprime os efeitos ao ato administrativos
+III) é possível considerar aperfeiçoada a aplicação da penalidade enquanto esta não for regularmente comunicada ao jurisdicionado
+IV) conforta, ao interesse público, a imposição de penalidade às escondidas, retirando-lhe o véu ao alvedrio da Administração
+Ou seja: como a lei estabelece o prazo de trinta dias para a notificação da aplicação da penalidade ao apenado, é relevante registrar se esse prazo não está adstrito à publicização do ato.
+Nesse sentido, vale rever o art. 33 da Lei Distrital n.º 3.106, de 2002, cuja redação é a seguinte:
+Art. 33 - O tempo decorrido entre as datas da lavratura do auto de infração e da aplicação da penalidade correspondente será de, no máximo, 30 (trinta) dias, exceto para suspensão de delegação ou de frota e cassação de delegação ou de frota.
+O debate constante no recurso é o de que se torna impossível a aplicação da penalidade sem a concomitante notificação, pela violação direta do princípio da publicidade.
+O Tribunal a quo decidiu a controvérsia de modo suficientemente motivado, manifestando-se nos seguintes termos (e-STJ fls. 769/770):
+Da análise dos processos administrativos juntados com a inicial, constata-se que as penalidades foram aplicadas no prazo de 30 dias contados da data da lavratura dos respectivos autos de infração emitidos contra a apelante-embargante (ids. 40835019, págs. 33/43 e 121/6, 40835018, págs. 70/3, 40835015, págs. 17/23 e 100/8, e 40835017, págs. 52/4), nos termos do art. 33 da Lei Distrital 3.106/02 (Código Disciplinar Unificado do Sistema de Transporte Público Coletivo do Distrito Federal), in verbis: "O tempo decorrido entre as datas da lavratura do auto de infração e da aplicação da penalidade correspondente será de, no máximo, 30 (trinta) dias, exceto para suspensão de delegação ou de frota e cassação de delegação ou de frota" (grifo nosso).
+Em que pesem as alegações da apelante-embargante, o referido prazo de 30 dias não se aplica à notificação da infratora, a qual, embora com demora por parte da Administração, foi efetivada e permitiu a interposição de recurso administrativo, observados os princípios do contraditório e da ampla defesa.
+ ..
+Importante registrar, como exemplo, que no Processo Administrativo nº 098.001836/2009 os autos de infração foram lavrados em 24/4/09 e em 28/4/09 pela Secretaria de Transportes - DFTrans, cuja ocorrência apontou "operar linha não autorizada pelo DFTrans", e a penalidade foi aplicada em 5/5/09, portanto no prazo legal (id. 40835019, págs. 33/43). A notificação, por sua vez, somente ocorreu em 26/11/09, conforme consta da defesa prévia apresentada pela apelante-embargante em 7/12/09, que foi rejeitada, cuja r. decisão foi objeto de recurso administrativo regularmente apreciado pela Junta Administrativa de Recursos de Infrações da Secretaria de Estado de Mobilidade do Governo do Distrito Federal e, diante do indeferimento e do trânsito em julgado administrativo, a penalidade tornou-se definitiva (id. 40835019, págs. 45/79).
+Em conclusão, diante da regularidade dos processos administrativos decorrentes de infrações de trânsito impostas à apelante-embargante, deve ser mantida a r. sentença quanto à improcedência dos pedidos formulados na inicial, entendimento que não contraria os princípios da legalidade, da razoabilidade e da proporcionalidade. (Grifos acrescidos)
+Ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação do preceito apontado.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
