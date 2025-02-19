@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOAO VITOR PIRES NASCIMENTO, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, em virtude do julgamento da apelação criminal n. 0941911-56.2023.8.19.0001.
+Consta dos autos que o paciente foi condenado à pena de 1 ano, 4 meses e 15 dias de detenção e ao pagamento de 39 dias-multa, como incurso nos arts. 139, caput, c/c art. 141, II, §2º; c/c art. 140, caput, c/c art. 141, II, §2º (cinco vezes), n/f do art. 70; tudo na forma do art. 69, todos do Código Penal, em regime inicial aberto (fl. 5). A pena privativa de liberdade foi substituída por duas penas restritivas de direitos, sendo uma de prestação de serviços à comunidade e outra de prestação pecuniária no valor de quatro salários-mínimos (fl. 5). Além disso, o paciente foi condenado ao pagamento de R$ 30.000,00 para fins de reparação dos danos causados a cada uma das vítimas (fl. 5).
+Interposta apelação defensiva, o Tribunal de origem negou provimento à insurgência por unanimidade.
+Nesta via, a Defesa alega que a queixa-crime carece de justa causa, afirmando que os fatos narrados não configuram crimes de calúnia, difamação ou injúria, mas sim exercício regular do direito à liberdade de expressão (fls. 6-13).
+Sustenta que não há materialidade dos delitos imputados e que o paciente apenas exerceu seu dever de noticiar fatos de interesse público (fls. 10-11).
+Alega ainda que a decisão do Tribunal de Justiça do Rio de Janeiro é teratológica e que a ação penal instaurada contra o paciente é carente de justa causa (fls. 12-13).
+No mérito, a Defesa requer o trancamento da ação penal nº 0941911-56.2023.8.19.0001 por carência de justa causa, alegando que o paciente exerceu seu direito constitucional à opinião e à liberdade de expressão (fls. 19-20).
+Requer também a concessão de medida liminar para suspender o trâmite da queixa-crime até a conclusão do presente writ (fl. 19).
+É o relatório. DECIDO.
+De início, mister ressaltar a incidência da Súmula 648 do Superior Tribunal de Justiça:
+A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus.
+Portanto, não tem cabimento o pleito de trancamento da ação penal por ausência de justa causa quando já houve a condenação em primeiro grau e até mesmo o julgamento da apelação pelo Tribunal de origem.
+Além disso, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que (fls. 22-54):
+".. embora o Apelante diga haver atuado sob o manto da liberdade de expressão, alegando que seus comentários foram tão somente uma interpretação do trabalho legislativo dos Querelantes e com base em notícias veiculadas em rede nacional, as provas colacionadas indicam que as expressões utilizadas extrapolaram o exercício da liberdade de expressão e atingiram a honra dos querelantes.
+ ..
+Todavia, as condutas praticadas pelo Querelado são violadoras da honra objetiva e subjetiva dos Querelantes. A esse respeito, merece trazer a colação as expressões utilizadas pelo Querelado, quais sejam "crápulas", "canalhas", "falsários", "mafiosos" (e/ou integrantes da "máfia do Reboque ") e "bandidos", conforme sublinhado pelo sentenciante, além de constar acusações acerca de querelantes beneficiarem indevidamente determinadas empresas, bem como a prática de outras condutas ofensivas em suas funções públicas, o que, por certo, exorbitam a simples crítica política legítima e representam o ataque direto à dignidade e ao decoro dos agentes políticos."
+Ante o exposto, indefiro liminarmente o habeas corpus com fulcro no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
