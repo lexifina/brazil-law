@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por IZABEL CRISTINA BARBOSA BESSA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 232/233):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. IRRESIGNAÇÃO CONTRA COBRANÇA DE DIÁRIA E DESPESA DE REBOQUE DE MOTOCICLETA APREENDIDA EM DILIGÊNCIA POLICIAL E ENCAMINHADA AO PÁTIO NORTE. SENTENÇA DE PARCIAL PROVIMENTO DOS PEDIDOS DEDUZIDOS NA INICIAL. RECURSO INTERPOSTO POR AMBAS AS PARTES.
+1. Legitimidade ativa e passiva evidenciadas. As partes se amoldam aos polos processuais em que se encontram, uma vez que a presente demanda versa sobre despesas com reboque e diárias de estadia da motocicleta HONDA/CG150 FAN ESDI, ano 2010, modelo 2011, placa LPS8231, no pátio administrado pelo Réu e por ele cobradas e pagas pela Autora, na qualidade de depositária do bem por nomeação da autoridade policial.
+2. Motocicleta apreendida em 16/10/2018, em diligência policial de cumprimento de mandado de prisão temporária de terceiro; encaminhada pela autoridade policial e recebida no pátio administrado pelo Réu no dia seguinte - 17/10/2018. Posteriormente, a autoridade policial lavrou auto de depósito da motocicleta em favor da Autora, em 21/11/2018; e no dia seguinte - 22/11/2018 - expediu o ofício nº 065548-1146/2018 informando ao Réu a liberação, sem ônus, do veículo em questão em favor da Autora, após verificação da sua origem lícita. Liberação da motocicleta apenas com o pagamento pela Autora de diárias e reboque cobrados pelo Réu, em 23/11/2018.
+3. A Lei Federal nº 6.575/78 e as Resoluções SSP/RJ 755 e 822 conferem ao administrador do depósito a prerrogativa de cobrar diárias e demais despesas devidas em razão da estadia de veículo, que devem ser suportadas pelo proprietário no momento da retirada do bem.
+4. As normas de regência autorizam o administrador do depósito a cobrar diárias e demais despesas com o acautelamento de veículo na hipótese de o proprietário não providenciar sua remoção no prazo de 3 dias; lapso temporal não transcorrido na hipótese presente; circunstância que evidencia a ilegalidade da cobrança dos valores pagos pela Autora; impondo-se sua devolução.
+5. Precedentes deste E. TJRJ.
+6. Dano moral afastado. Lesão a direito da personalidade não comprovado.
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 186, 187, 927 e 944 do Código Civil, argumentando que são devidos danos morais no caso concreto.
+Contrarrazões às e-STJ fls. 260/272.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+No caso, o Tribunal de origem manteve a sentença de mérito, nos seguintes termos (e-STJ fl. 240):
+Quanto ao dano extrapatrimonial, é consabido que ele decorre de lesão a bem que integra os direitos da personalidade tais como: a honra, dignidade, a intimidade, a imagem, o bom nome; e que acarreta ao lesado dor, sofrimento, tristeza, vexame e humilhação.
+Todavia, a hipótese trazida a exame nesta instância revisora não é apta a conformar lesão à direito da personalidade, mas mero aborrecimento, uma vez que não ficou comprovado nos autos abalo psíquico/emocional autônomo suportado pela Autora, ora primeira Apelante, em razão da ilícita cobrança objeto da demanda.
+À luz do acima exposto, impõe-se a manutenção da sentença recorrida. (Grifos acrescidos).
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas instâncias ordinárias no sentido da improcedência da demanda indenizatória, demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, de acordo com a Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. VIOLAÇÃO AO ART. 535 DO CPC/73. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 219 DO CPC/73. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEVER DE INDENIZAR. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. A alteração das conclusões adotadas pela Corte de origem, acerca da comprovação dos danos morais e materiais, da falha no serviço e do nexo de causalidade, tal como colocadas essas questões nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 150.872/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 03/02/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO CIVIL. DANO MORAL. AUSÊNCIA DOS REQUISITOS LEGAIS PARA A CONFIGURAÇÃO DA RESPONSABILIDADE CIVI. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. O Tribunal de origem consignou que não foi demonstrado nos autos "a presença dos requisitos necessários para a responsabilidade civil do Município apelado. Neste contexto, a ausência de comprovação do nexo de causalidade, ou mesmo de alguma conduta ilícita, importa em desacolhimento da pretensão indenizatória e a mantença do decisum recorrido" (fl. 720).
+2. Rever as conclusões do acórdão recorrido, implicaria o reexame do contexto fático-probatório dos autos, ao ensejar novo juízo acerca dos fatos e provas. Incide no caso a Súmula n. 7 do STJ.
+Agravo interno improvido. (AgInt nos EDcl no AREsp n. 2.060.794/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 6/3/2023, DJe de 13/3/2023.)
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
