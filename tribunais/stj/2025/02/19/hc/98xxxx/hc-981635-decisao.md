@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de IARA PRATES GONÇALVES DE LIMA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que a paciente foi presa em flagrante em 14/12/2024, convertida a custódia em preventiva, pela suposta prática da conduta descrita no art. 33, caput, da Lei n. 11.343/06.
+A impetrante sustenta a ausência dos requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP.
+Afirma que a paciente é primária, bem como possui bons antecedentes, e alega que, se condenada, a acusada fará jus ao regime aberto e à substituição da pena corporal por restritivas de direitos.
+Salienta que a quantidade de drogas apreendidas é baixa, totalizando 45,11 g de maconha, e destaca a possibilidade da aplicação de medidas cautelares diversas do cárcere.
+Aduz que a gravidade em abstrato do tráfico de drogas não constitui argumento válido para a imposição da segregação cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+No presente caso, evidencia-se a ocorrência de ilegalidade manifesta, conforme se depreende da fundamentação a ser exposta a seguir.
+No caso, a decisão que decretou a prisão preventiva da paciente teve a seguinte fundamentação (fls. 69-70, grifei):
+É caso de conversão do flagrante em prisão preventiva - art. 310, II, e 313, I, ambos do CPP, conforme pedido do Ministério Público (fls. 36/42).
+A) Quanto aos pressupostos da prisão preventiva:
+A prova da existência do crime está presente - no que interessa nesse momento (auto de apreensão das drogas - fls. 19, com laudo provisório as fls. 21/23, e prova oral). Isso bem se verifica do caderno investigatório.
+Por seu turno, os indícios suficientes de autoria e de perigo gerado pelo estado de liberdade da parte imputada também se encontra evidenciado. Conforme os elementos probatórios colhidos até o presente momento, consta nos autos que a indiciada foi presa por agentes estatais (fls. 03/06), trazendo consigo, para entrega a outrem, para venda, em estabelecimento prisional, o total de 45,11g de maconha, conforme auto de exibição e apreensão de fls. 19 e laudo de constatação de fls. 21/23.
+Ressalto nesse momento que nem sempre a pouca quantidade de drogas descarta, por si só, a possibilidade de trafico.
+B) Quanto aos requisitos da prisão preventiva.
+É necessário garantir a ordem publica.
+O trafico de drogas desestabiliza a sociedade e a família de um modo geral, mormente dentro de estabelecimento prisional. Trata-se de crime grave.
+3.- De outro lado, a par do que se disse, mostra-se insuficiente e inadequada a imposição de quaisquer das medidas cautelares diversas da prisão, nesse momento. A deficiência física e a doença, alegadas por Iara, não impedem a prisão, devendo a unidade prisional providenciar o necessário, para o que for necessário, a resguardar a saúde da presa.
+4.- Assim, converto a prisão em flagrante de IARA PRATES GONÇALVES DE LIMA, em preventiva.
+A leitura do decreto prisional revela que a custódia cautelar foi decretada com fundamento na gravidade concreta da conduta praticada, destacando o magistrado a quantidade de droga apreendida, tratando-se, no caso, de 45,11 g de maconha (fl. 69).
+Nesse contexto, ao examinar as circunstâncias do caso, constata-se que o delito não envolveu o uso de violência ou grave ameaça, a paciente é ré primária e a quantidade de droga apreendida não é elevada.
+Ademais, verifica-se que o Juízo de primeiro grau, ao tratar dos requisitos e necessidade da custódia cautelar, não trouxe qualquer motivação concreta para a prisão, valendo-se de fundamentação abstrata e com genérica regulação da prisão preventiva, circunstância que por si só impõe a sua revogação.
+Por essas razões, a manutenção da prisão preventiva não se mostra proporcional. Conforme a jurisprudência desta Corte, a apreensão de não relevante quantidade de drogas somente com especial justificação permitirá a prisão por risco social, o que não é o caso dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS ILÍCITAS. INIDONEIDADE DO REPUTADO PERICULUM LIBERTATIS. RECURSO DO MP/RS NÃO PROVIDO.
+1. Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, o juízo de primeira instância concluiu que a prisão preventiva do ora agravado seria imprescindível para garantir a ordem pública, diante de sua prisão em flagrante após suposta venda de 8g de maconha, considerando que condenação transitada em julgado pelo mesmo crime de tráfico de drogas ilícitas constituiria indício de contumácia delitiva.
+2. A fundamentação da custódia processual alicerçada na simples aparência do delito é evidentemente nula, ao passo que os indícios de risco à ordem pública apresentados no caso destes autos não podem ser considerados adequados e suficientes.
+3. Com efeito, o registro de condenação anterior se refere ao mesmo crime não violento, sendo que nesta oportunidade a conduta teria envolvido quantidade ínfima de tóxicos proscritos (8g de maconha), sem apreensão de arma de fogo e sem registro de que o investigado integrasse organização criminosa.
+4. No caso em tela, ao considerar que a gravidade abstrata do tráfico de drogas ilícitas e a existência de condenação anterior impediriam o ora agravado de responder a eventual ação penal em liberdade, as instâncias ordinárias parecem haver se divorciado da orientação constante em incontáveis precedentes desta Corte, para os quais a prisão cautelar é invariavelmente excepcional, subordinando-se à demonstração de sua criteriosa imprescindibilidade, à luz dos fatos concretos da causa, e não em relação à percepção do julgador a respeito da gravidade abstrata do tipo penal.
+5. De fato, o aparente cometimento do delito, por si só, não evidencia "periculosidade" exacerbada do agente ou "abalo da ordem pública", a demandar a sua segregação antes de qualquer condenação definitiva.
+6. Também vale reforçar que determinadas quantidades de tóxicos ilegais, ainda que não possam ser consideradas insignificantes, não autorizam, isoladamente, a conclusão de que o réu apresenta periculum libertatis.
+ ..
+9. Assim, apesar dos argumentos apresentados pelo órgão ministerial, não há elementos que justifiquem a reconsideração do decisum.
+10. Agravo regimental do MP/RS não provido.
+(AgRg no HC n. 879.114/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024 - sem o grifo no original.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CUSTÓDIA PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MEDIDA DESPROPORCIONAL. QUANTIDADE DE DROGA QUE NÃO FOGE AO PADRÃO. ADEQUAÇÃO E SUFICIÊNCIA DE MEDIDAS CAUTELARES MENOS GRAVOSAS. PRECEDENTES.
+1. De acordo com as peculiaridades do caso concreto, que diz respeito apenas à quantidade de entorpecente (2.491,37 g de maconha), a manutenção da prisão cautelar é desproporcional, pois se trata de quantidade que, apesar de não ser insignificante, não foge ao padrão do tráfico de drogas, e, ainda, o réu, ao que parece, é primário, e não há menção ao fato de ele integrar organização criminosa.
+2. Não se pode perder de vista que as condições pessoais favoráveis do agente, no caso, primário e sem antecedentes criminais, "conquanto não sejam garantidoras de eventual direito à soltura, merecem ser devidamente valoradas, quando não for demonstrada a real indispensabilidade da medida constritiva" (RHC n. 108.638/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 20/5/2019), o que deixou de ser sopesado pelas instâncias antecedentes (AgRg no RHC n. 162.506/PA, Ministro Messod Azulay Neto, Quinta Turma, DJe 2/3/2023).
+3. Agravo regimental improvido.
+(AgRg no HC n. 797.689/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/5/2023, DJe de 16/5/2023 - sem o grifo no original.)
+Assim, suficiente mostra-se a imposição das seguintes medidas cautelares penais diversas da prisão processual: (a) apresentação a cada dois meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade; (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando a acusada ao processo; (c) manutenção de endereço e telefone atualizados para futuros atos de intercâmbio processual; e (d) proibição de ter contato pessoal com pessoas envolvidas com o tráfico e outras atividades criminosas, como garantia à instrução e proteção contra a reiteração criminosa, sem prejuízo de eventual fixação de outras medidas cautelares pelo Juízo de origem, desde que devidamente fundamentadas.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus. Contudo, de ofício, concedo a ordem de habeas corpuspara revogar a prisão preventiva decretada em desfavor da paciente, salvo se por outro motivo estiver presa, mediante a prévia assunção do compromisso de cumprir as medidas cautelares descritas, sendo possível a fixação de outras medidas alternativas ao cárcere, a serem definidas pelo Juízo de primeiro grau, sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada.
+Comunique-se, com urgência, às instâncias ordinárias.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
