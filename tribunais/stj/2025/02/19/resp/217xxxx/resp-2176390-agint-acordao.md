@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LIMITES E ALCANCE DA COISA JULGADA. IMPOSSIBILIDADE DE INCURSÃO NO QUADRO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que, para modificar a conclusão a que chegou o tribunal local sobre os limites e o alcance da coisa julgada na hipótese dos autos, seria necessário o reexame do cenário fático-probatório, o que esbarra no óbice da Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por GISLENE SILVA contra decisão de não conhecimento do recurso especial (fls. 644-647).
+A parte agravante refuta o óbice de admissibilidade aplicado no decisum monocrático ora recorrido, razão pela qual pleiteia a sua reconsideração ou, caso assim não se entenda, a submissão do agravo ao julgamento colegiado desta Turma.
+Em suma, sustenta que o tribunal de origem não observou a coisa julgada estabelecida no título exequendo, o qual assegurou o recebimento das parcelas do auxílio alimentação compreendidas entre janeiro de 1996 até a data em que efetivamente foi restabelecido o pagamento (maio de 2002).
+Contrarrazões do DISTRITO FEDERAL às fls. 670-671.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LIMITES E ALCANCE DA COISA JULGADA. IMPOSSIBILIDADE DE INCURSÃO NO QUADRO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que, para modificar a conclusão a que chegou o tribunal local sobre os limites e o alcance da coisa julgada na hipótese dos autos, seria necessário o reexame do cenário fático-probatório, o que esbarra no óbice da Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O agravo interno não merece prosperar.
+A jurisprudência desta Corte Superior é firme no sentido de que, para modificar a conclusão a que chegou o tribunal local sobre os limites e o alcance da coisa julgada na hipótese dos autos, seria necessário o reexame do cenário fático-probatório, o que esbarra no óbice da Súmula 7 do STJ.
+Em caso idêntico ao presente, o Ministro Gurgel de Faria manifestou-se no sentido de que "o acórdão recorrido foi expresso quanto ao alcance do título judicial e ao estabelecimento de limitação temporal. Assim, decidir em sentido contrário, afastando-se a ocorrência dessa limitação, pressupõe o reexame do conjunto fático-probatório, o que é vedado, por força do teor da Súmula 7 do STJ" (REsp n. 2.134.040, DJe de 17/09/2024).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PERÍODO DE RECEBIMENTO DO BENEFÍCIO ALIMENTAÇÃO. SUPOSTA OFENSA AO ART. 1.022, INCISO II, DO CPC/2015. INCIDÊNCIA DA SÚMULA N. 284 DO STF. CONTRARIEDADE AO ART. 884 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. FALTA DE IMPUGNAÇÃO NO RECURSO ESPECIAL DE FUNDAMENTO DO ACÓRDÃO COMBATIDO SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. ALEGAÇÃO DE OFENSA A COISA JULGADA. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não obstante o recurso especial alegue violação do art. 1.022 do Código de Processo Civil, não especifica adequadamente quais os pontos do acórdão recorrido em relação aos quais haveria omissão, contradição, obscuridade, tampouco a relevância da análise dessas questões para o caso concreto. Portanto, o conhecimento desse capítulo recursal é obstado pela falta de delimitação da controvérsia, atraindo a aplicação da Súmula n. 284 do STF.
+2. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a suposta ofensa ao art. 884 do Código Civil (enriquecimento sem causa), motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+3. A parte recorrente, nas razões do apelo nobre, deixou de impugnar o seguinte fundamento contido no acórdão atacado que é suficiente para a sua manutenção: o benefício alimentação é devido até a impetração do Mandado de Segurança n. 7.253/97, sendo certo que a referida circunstância foi "devidamente destacada na sentença no tópico da preliminar de falta de interesse processual". Portanto, incide o óbice da Súmula n. 283 do STF.
+4. Outrossim, tendo em vista a fundamentação do acórdão atacado quanto ao período de recebimento do benefício alimentação, verifica-se que os argumentos expostos no apelo nobre somente poderiam ser acolhidos mediante o necessário reexame de matéria fática, não cabendo a esta Corte Superior, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, nos termos da Súmula n. 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no REsp 2.134.039/DF, rel. Ministro TEODORO SILVA SANTOS, Segunda Turma, DJe 20/08/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
