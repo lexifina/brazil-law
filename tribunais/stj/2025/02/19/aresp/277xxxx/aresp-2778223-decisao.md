@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por ELIETE CANTUARIA DE AZEVEDO contra decisão da Corte de origem que não admitiu o recurso especial em razão da impossibilidade de interpretação de princípio constitucional.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 373):
+"MANDADO DE SEGURANÇA PENSIONISTA DE EX- SERVIDOR DA VASP COMPLEMENTAÇÃO DE PENSÃO POR MORTE Pretensão ao recebimento de complementação da pensão por morte Inadmissibilidade Óbito do instituidor ocorrido após a vigência da EC nº 103, de 13 de novembro 2019 Vedação legal à complementação de aposentadorias e pensões Inteligência do art. 37, § 15, da CF Aplicação da Súmula nº 340 do E. STJ Ausência de direito líquido e certo Precedentes deste E. Tribunal Sentença reformada. Apelo e reexame necessário providos."
+Opostos embargos de declaração, os mesmos foram rejeitados (fls. 398-403).
+Nas razões do recurso especial, a recorrente alega violação dos artigos 2º, 5º e 6º, §2º da LICC, sustentando, em síntese, (a) que possui direito adquirido ao pagamento de benefício de complementação integral de pensão decorrente das Leis Estaduais n. 4819/58 e 200/74 na qualidade de pensionista; (b) que o instituidor ingressou na administração indireta antes da publicação da Lei n. 200/74, e que o benefício concedido há mais de 40 anos não pode ser suprimido em contrariedade à ressalva constante no art. 7º da EC n. 103/19 e (c) que regra de transição não pode ser revogada.
+Com contrarrazões às fls. 629-640.
+Juízo negativo de admissibilidade à fl. 642.
+Interposto agravo em recurso especial às fls. 652-669.
+O Ministério Público opinou pelo desprovimento do recurso especial (fls. 694-697).
+É o relatório. Passo a decidir.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Verifica-se que não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte agravante, o que atrai a incidência da Súmula 211 do STJ.
+Ocorre que o prequestionamento é requisito previsto no inc. III do art. 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se pronunciou a respeito dos arts. 2º, 5º e 6º, §2º da LICC, não obstante terem sido opostos e julgados os embargos de declaração, o que denota a falta de debate ou prequestionamento sobre a controvérsia suscitada.
+Veja-se que, no caso, não cabe falar em prequestionamento ficto face ao art. 1025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente, providência esta não observada pela recorrente em relação aos dispositivos em exame.
+Outrossim, nos termos do art. 1025 do CPC/2015, o reconhecimento do prequestionamento ficto depende de que esta Corte Superior reconheça ocorrido qualquer dos vícios autorizativos previstos no art. 1022 do mesmo códex (erro, omissão, contradição ou obscuridade) - daí advindo a exigência de indicação da sua ofensa. No caso, a ofensa ao art. 1.022 do CPC/2015 não foi indicada no apelo nobre.
+Por fim, a controvérsia relativa à complementação da aposentadoria foi dirimida com fundamento constitucional, especificamente com base na EC n. 103/19, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, conheço o agravo para não conhecer o recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e a eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. COMPLEMENTAÇÃO DE APOSENTADORIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STF. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. AGRAVO CONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL.
