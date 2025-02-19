@@ -1,0 +1,42 @@
+DECISÃO
+Construtora CRE Ltda. promoveu ação de desapropriação indireta em desfavor de Companhia de Água e Esgoto do Ceará - CAGECE, com pedido também de indenização por danos materiais e morais.
+O Juízo de primeiro grau julgou procedentes os pedidos para, reconhecendo a desapropriação indireta, condenar a ré ao pagamento de R$ 1.735.000,00 (um milhão, setecentos e trinta e cinco mil reais) referente ao imóvel desapropriado, de danos materiais correspondentes às despesas comprovadas pela autora e pelo uso da propriedade, e de danos morais no valor de 100 (cem) salários mínimos.
+Interposta apelação pela requerida, a Primeira Câmara Cível do Tribunal de Justiça do Ceará deu-lhe parcial provimento para excluir as indenizações por danos materiais e morais, mantendo o decreto de desapropriação indireta, arbitrando os honorários de sucumbência da ação cautelar em R$ 20.000,00 (cinte mil reais).
+O acórdão está assim ementado (e-STJ, fls. 394-411):
+CIVIL E ADMINISTRATIVO - SERVIDÃO ADMINISTRATIVA INDENIZÁVEL - INVIABILIZAÇÃO DO IMÓVEL SERVIENTE - ESVAZI AMENT O DE CONTEÚDO ECONÔMICO - DESAPROPRIAÇÃO INDIRETA - APLICAÇÃO DO PRINCÍPIO: VENIRE CONTRA FACTLIM PRÓPRIO.
+1. Deflagrada a inviabilidade do imóvel para os fins a que se destina, conforme conjunto probatório dos autos, o qual leva ao esvaziamento do seu conteúdo econômico, ainda que o ato seja decorrente de mera servidão administrativa, indeniza-se toda a área atingida, na magnitude de sua afetação.
+2. A inadequada concentração de agentes nocivos em efluente de Estação de Tratamento de Esgoto, desde o princípio incompatível com as exigências da legislação ambiental, passa pela necessária indenização do imóvel serviente que se torna imprestável para os fins almejados pela proprietária.
+3. Havendo, na espécie, a completa inviabilização de 264.900 m 2 de área, e não apenas dos 235 m 2 , aqueles afetados pela servidão administrativa, conforme apreendido em laudo pericial realizado pela CAGECE, mister seja indenizado o dano pela desapropriação desta porção do imóvel, como corolário do venire contra factum proprio.
+4. Improcede, no entanto, o pedido pertinente aos danos morais, porquanto, o direito imaterial indenizável para a pessoa jurídica refere-se apenas à honra objetiva.
+5. A condenação em honorários, em ação cautelar de produção antecipada de provas, deve ser fixada por arbitramento, considerando-se, porém, o trabalho desenvolvido pelo paracleto da parte.
+6. Apelações conhecidas e parcialmente providas.
+7. Decisão unânime.
+Opostos embargos de declaração, foram parcialmente acolhidos para sanar erro material na certidão de julgamento para constar a divergência, que ficou vencida, acerca da questão preliminar de cerceamento de defesa, bem como para determinar que, na fase de liquidação, seja abatido o valor já levantado pela autora (e-STJ, fls. 458-470).
+Também foram opostos embargos infringentes, os quais não foram conhecidos em razão do seu não cabimento.
+Irresignada, a demandada interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 530 do CPC/1973 e 27, § 1º, do Dec. n. 3.365/1941.
+Sustentou, em síntese, a existência de erro material quanto à ausência de certificação de voto vencido acerca de questão preliminar, à inexistência de abatimento do montante levantado pela autora e à expropriação da totalidade da área do imóvel, bem como aduziu omissão acerca do termo inicial dos juros de mora e do Relatório Técnico n. 629/2002 - COPAM/NUAM da SEMACE.
+Alegou, ainda, a necessidade de alteração do montante fixado a título de honorários sucumbenciais, devendo ser obedecido o critério da lei específica, isto é, entre 0,5% e 5% do valor da diferença. Por fim, defendeu o cabimento dos embargos de infringentes contra acórdão não unânime.
+Contrarrazões às fls. 668-676 (e-STJ).
+Negado seguimento ao especial, foi interposto o presente agravo.
+Contraminuta às fls. 725-733 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, destaca-se que o agravo preenche os requisitos para seu conhecimento, motivo pelo qual se passa à análise do recurso especial.
+No tocante às alegações de erro material e omissão, verifica-se a falha na fundamentação do recurso especial, pela falta de apresentação dos artigos de lei federal violados que se relacionariam às supostas omissões e erros materiais, configurando a ausência de delimitação da controvérsia e atraindo a aplicação a Súmula n. 284 do STF.
+Da análise do recurso especial, vê-se que a recorrente se limita a aduzir, de maneira genérica e superficial, a ocorrência de erro material quanto à ausência de certificação de voto vencido acerca de questão preliminar, à inexistência de abatimento do montante levantado pela autora e à expropriação da totalidade da área do imóvel, bem como aduziu omissão acerca do termo inicial dos juros de mora e do Relatório Técnico n. 629/2002 - COPAM/NUAM da SEMACE.
+Assim, apesar de indicar algumas normas que o acórdão recorrid o teria sido omisso ou incorrido em erro material, nenhum deles dizem respeito ao argumento suscitado pela recorrente, quais sejam, a existência de omissão e erro material.
+Nesse sentido: EDcl no AgInt no REsp n. 1.940.076/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023; AgInt no AREsp n. 2.110.906/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/5/2023, DJe de 19/5/2023.
+Ainda que assim não fosse, especificamente quanto à inexistência de certificação de voto divergente em preliminar e do abatimento dos valores já levantados, constata-se, inclusive, a ausência de interesse recursal da parte, haja vista que a Corte a quo acolheu parcialmente os embargos de declaração para sanar tais vícios, certificando a existência de voto divergente na questão preliminar e determinando que o valor a ser pago deve levar em consideração aquele já levantado pela parte autora (e-STJ, fls. 458-470).
+Do mesmo modo, não se vislumbra o interesse recursal quanto ao valor dos honorários sucumbenciais, porquanto o referido acórdão dos embargos de declaração também acolheu esse argumento consignando que "referente à verba honorária  fixada em 10% sobre o valor da indenização, creio que também merece correção, devendo ser reduzida ao percentual de 5%, conforme escrito no art. 27, § 1º, também do Decreto-Lei nº 3.365/41" (e-STJ, fl. 469).
+Em arremate, no que tange ao cabimento dos embargos infringentes à espécie, importante relembrar que o art. 530 do CPC/1973 era expresso ao admitir sua oposição apenas "quando o acórdão não unânime houver reformado, em grau de apelação, a sentença de mérito, ou houver julgado procedente ação rescisória. Se o desacordo for parcial, os embargos serão restritos à matéria objeto da divergência".
+No caso em análise, vê-se que o seu não cabimento é claro, haja vista que a divergência foi restrita à questão preliminar, referente a um suposto cerceamento de defesa, sendo que apenas um dos julgadores acolher a tese, a qual foi vencida.
+Portanto, não houve reforma da sentença por maioria, o que é um requisito dessa espécie recursal, de maneira que, não estando presente, mostra-se plenamente incabível sua interposição, como bem salientou o acórdão recorrido, o que atrai a incidência da Súmula 83/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS INFRINGENTES INCABÍVEIS. INTERRUPÇÃO OU SUSPENSÃO DO PRAZO RECURSAL. RECURSO ESPECIAL INTEMPESTIVO. INOCORRÊNCIA.
+1. São incabíveis os embargos infringentes interpostos em face de acórdão de apelação que não reformou sentença de mérito.
+2. É firme a jurisprudência desta Corte no sentido de que a interposição de embargos infringentes incabíveis não suspende nem interrompe o prazo para interposição de recurso especial.
+3. Recurso especial não conhecido.
+(REsp n. 1.407.609/PE, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 8/10/2013, DJe 18/10/2013)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. OMISSÃO E ERRO MATERIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE INTERESSE RECURSAL. EMBARGOS INFRINGENTES. QUESTÃO PRELIMINAR DECIDIDA POR MAIORIA. INEXISTÊNCIA DE REFORMA DA SENTENÇA DE MÉRITO. NÃO CABIMENTO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
