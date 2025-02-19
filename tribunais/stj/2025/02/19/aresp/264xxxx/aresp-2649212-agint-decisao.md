@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo BANCO DO BRASIL S.A. contra decisão monocrática proferida pela Presidência do STJ que aplicou a Súmula n. 182 do STJ (fls. 462-464).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fls. 108-109):
+RECURSO DE AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DA SENTENÇA COLETIVA (ACP N. 1998.01.1.016798-9) - DETERMINAÇÃO DE REALIZAÇÃO DE PERÍCIA CONTÁBIL PARA APURAÇÃO DO EXEQUENDO E RECOLHIMENTO DOS HONORÁRIOS PERICIAISQUANTUM PELO BANCO AGRAVANTE - PRELIMINAR DE INADMISSIBILIDADE DO RECURSO POR DESCUMPRIMENTO DO ART.1.018 DO CPC/15 - REJEIÇÃO - LIMITAÇÃO TERRITORIAL DA EFICÁCIA DA SENTENÇA COLETIVA LIQUIDANDA - ILEGITIMIDADE ATIVA DOS POUPADORES NÃO ASSOCIADOS - CÔMPUTO DOS JUROS DE MORA APENAS A PARTIR DA CITAÇÃO NA FASE DE LIQUIDAÇÃO - EXCLUSÃO DOS JUROS REMUNERATÓRIOS NO MONTANTE DO DÉBITO - QUESTIONAMENTOS JÁ DIRIMIDOS EM RECURSO ANTERIOR - NÃO CONHECIMENTO - PRETENDIDA SUSPENSÃO DO PROCEDIMENTO ORIGINÁRIO - AFETAÇÃO DO -TEMA 1.101 DO STJ INVIABILIDADE - JUROS REMUNERATÓRIOS JÁ EXTIRPADO DOS CÁLCULOS - ALEGADA IMPOSSIBILIDADE DO CÔMPUTO DOS REFLEXOS INFLACIONÁRIOS DOS PLANOS SUBSEQUENTES - DESACOLHIMENTO - . PRETENSÃO AVESSA AO - RECURSO DESPROVIDO.
+Se tanto os autos originários quanto os do Agravo são eletrônicos, resta afastada a hipótese de inadmissibilidade recursal de que trata o §3º do art.1.018 do CPC/15.
+Se os questionamentos recursais relacionados (a) à da limitação territorial da eficácia da sentença prolatada nos autos da Ação Civil Pública liquidanda, (b) à legitimidade ativa dos poupadores não associados, (c) ao cômputo dos juros de mora apenas a partir da citação do banco na fase de liquidação, (d) à exclusão dos juros remuneratórios no montante do débito, já foram todos dirimidos em recurso anterior, descabida a tentativa de rediscussão de tais matérias em nova irresignação recursal, sobretudo quando a decisão impugnada se limitou a determinar a realização de perícia contábil para apuração do exequendo, determinando que o banco devedor arcasse quantum com os honorários periciais do expert.
+Descabido o sobrestamento do procedimento originário pela simples afetação do Tema 1.101 do STJ - cuja questão submetida a julgamento pretende definir o "termo final da incidência dos juros remuneratórios nos casos de ações coletivas e individuais reivindicando a reposição de expurgos inflacionários em cadernetas de -, se, no caso, os juros remuneratórios já foram excluídos dos cálculos por poupança" força de decisão desta superior instância, já observada pelo juízo a quo.
+No cumprimento individual de sentença que reconhece o direito de poupadores aos expurgos inflacionários decorrentes do Plano Verão, devem ser computados, título de correção monetária plena do débito judicial, os reflexos inflacionários dos planos econômicos subsequentes (Collor I e II) (Tema 891 do STJ).
+Sem embargos de declaração.
+Aduz a parte agravante que:
+ ..  o recorrente realizou a impugnação que a d. decisão monocrática alega não ter ocorrido, de modo que, no entender do recorrente, a peça processual atendeu adequadamente a impugnação específica para o conhecimento e provimento do recurso.
+11. Ademais, poder-se-ia até, hipoteticamente, cogitar que tal impugnação não fora suficiente, mas não se pode afirmar que houve ausência de impugnação apta a ensejar o não conhecimento do recurso. Absolutamente! (fl. 471).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Não foram apresentadas contrarrazões (fl. 472).
+É, no essencial, o relatório.
+Assiste razão ao agravante quanto à necessidade de afastamento da Súmula n. 182/STJ, porquanto houve impugnação das Súmulas n . 283 e 284/STF.
+Assim, reconsidero a decisão de fls. 462-464 , que não conheceu do agravo em recurso especial.
+Retornem conclusos os autos para análise do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182/STJ. RECONSIDERAÇÃO. IMPUGNAÇÃO DAS SÚMULAS NS. 283 E 284/STF . AGRAVO INTERNO PROVIDO.
