@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE AFASTAMENTO DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. AÇÕES PENAIS EM ANDAMENTO. FUNDAMENTO INIDÔNEO. CONCESSÃO DA ORDEM PARA APLICAR O REDUTOR. AGRAVO DO MINISTÉRIO PÚBLICO FEDERAL - MPF DESPROVIDO.
+1. Quanto à revisão da pena, tem-se que a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+2. O Tribunal de origem divergiu da jurisprudência mais recente, ao utilizar ações penais em curso como um dos elementos para demonstrar a dedicação do paciente às atividades criminosas.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal - MPF contra decisão de minha lavra, na qual não conheci da impetração, mas concedi a ordem de ofício, para aplicar a minorante prevista no § 4º do artigo 33 da Lei n. 11.343.2006 em 2/3, fixando a pena definitiva do paciente em 3 anos, 6 meses e 20 dias de reclusão.
+No presente recurso, o Parquet aduz que o paciente, ora agravado, "se dedica à atividade criminosa, diante não apenas da quantidade de drogas apreendida, mas também das circunstâncias do caso concreto, que indicam que o recorrido se dedicava ao tráfico de forma habitual, pois já possui uma condenação por tráfico de drogas e continuou na prática do mesmo crime" (fl. 80).
+Assevera, ainda, que a mudança do entendimento adotado pelas instâncias ordinárias quanto à possibilidade de aplicação da minorante, demanda o reexame de provas, vedado na via do habeas corpus.
+Por tal razão, busca o restabelecimento do acórdão que afastou o tráfico privilegiado.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do recurso a julgamento no órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE AFASTAMENTO DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. AÇÕES PENAIS EM ANDAMENTO. FUNDAMENTO INIDÔNEO. CONCESSÃO DA ORDEM PARA APLICAR O REDUTOR. AGRAVO DO MINISTÉRIO PÚBLICO FEDERAL - MPF DESPROVIDO.
+1. Quanto à revisão da pena, tem-se que a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+2. O Tribunal de origem divergiu da jurisprudência mais recente, ao utilizar ações penais em curso como um dos elementos para demonstrar a dedicação do paciente às atividades criminosas.
+3. Agravo regimental desprovido.
+VOTO
+A decisão impugnada deve ser mantida por seus próprios fundamentos.
+O Tribunal a quo manteve o afastamento da minorante sob os seguintes fundamentos:
+"20. Por fim, alcançando a terceira fase do apenamento, foi acertadamente aplicado o art. 40, inc. I, da Lei 11.343 (quantidade e qualidade da droga), para tornar a reprimenda definitiva em: a) Luciano Lopes de Almeida: 10 (dez) anos e 8 (oito) meses de reclusão, e pagamento de quantia correspondente a 600 (seiscentos) dias-multa, no valor unitário de 1/30 um trigésimo do salário mínimo vigente na época dos fatos, corrigida monetariamente, na forma legal; b) Jesus Hélio de Carvalho: 10 (dez) anos de reclusão, e pagamento de quantia correspondente a 500 (quinhentos) dias-multa, também no valor unitário de um trigésimo do salário mínimo.
+21. Vale registrar, ainda, que os apelantes não fazem jus à aplicação da forma privilegiada deste ilícito, pois, conforme bem pontuou o Ministério Público Federal, nas contrarrazões, ambos os réus já possuem condenação anterior por crime da mesma espécie." (fl. 44)
+Quanto à revisão da pena, tem-se que a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Sobre o tema, cabe ressaltar que, embora entendimento pretérito desta Corte Superior autorizasse o afastamento da minorante do tráfico privilegiado nas condições delineadas, o Tribunal de origem divergiu da jurisprudência mais recente, ao utilizar ações penais em curso como um dos elementos para demonstrar a dedicação do paciente às atividades criminosas. Nessa direção:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/06. TRÁFICO PRIVILEGIADO. CAUSA DE DIMINUIÇÃO DE PENA QUE NÃO PODE SER AFASTADA APENAS COM BASE NO FATO DO SENTENCIADO POSSUIR AÇÕES PENAIS EM ANDAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No acórdão paradigma, consignou-se que ações penais em andamento justificam, de forma idônea, o afastamento do art. 33, § 4º, da Lei n. 11.343/06.
+2. No acórdão embargado, por seu turno, adotou-se posicionamento contrário, em razão de precedentes de ambas as Turmas do SUPREMO TRIBUNAL FEDERAL STF considerarem inidôneo o afastamento da referida causa de diminuição de pena com base apenas em ações penais em andamento, em atenção ao princípio constitucional da presunção de não culpabilidade.
+3. Consoante precedentes, verifica-se nesta Corte a adesão ao posicionamento advindo do STF, ou seja, a existência de ações penais em andamento não justifica a conclusão de que o sentenciado se dedica às atividades criminosas para fins de obstar a aplicação do art. 33, §4º, da Lei n. 11.343/06.
+4. Agravo Regimental desprovido.
+(AgRg nos EAREsp 1.852.098/AM, de minha relatoria, TERCEIRA SEÇÃO, DJe 3/11/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE. REVOLVIMENTO FÁTICO-PROBATÓRIO. DESNECESSIDADE. AÇÕES PENAIS SEM TRÂNSITO EM JULGADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. NÃO COMPROVAÇÃO. PENA-BASE. QUANTIDADE NÃO RELEVANTE.
+1. A tese deduzida no recurso especial - impossibilidade da utilização de ação penal em andamento para afastar a causa de diminuição de pena do tráfico privilegiado - prescinde de revolvimento fático probatório.
+2. A Sexta Turma desta Corte, alinhando-se ao Supremo Tribunal Federal, passou a adotar a orientação de que "inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade" (AgRg no HC 641.362/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/06/2021, DJe 30/06/2021).
+3. A quantidade não relevante de drogas, somada à ausência de circunstâncias adicionais desfavoráveis, como a inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, entre outras, não ensejam a exasperação da pena-base, a vedação da minorante do tráfico no seu quantum máximo de 2/3, o recrudescimento do regime prisional ou a negativa à substituição das penas.
+4. Habeas corpus concedido, de ofício, à recorrente para afastar a vetorial das circunstâncias do delito e reduzir a pena-base ao mínimo legal, com extensão (mutatis mutandis) à corré Glaucimara Pereira da Silva (art. 580 - CPP), cuja condenação fica reduzida para 5 anos e 10 meses de reclusão, em regime fechado, e 583 dias-multa.
+5. Agravo regimental provido para conhecer do agravo e prover recurso especial para aplicar a minorante do tráfico privilegiado, pela fração de 2/3, o que implica (à. recorrente) a pena final de 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa. Extensão do resultado aos corréus Bruno Silva Miranda e Geibson Alves Serralho (art. 580 - CPP), aos quais a sentença estabeleceu o redutor de 1/2 (metade).
+(AgRg no AREsp 1.892.962/AM, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 13/12/2021.)
+Acrescenta-se que a constatação feita na decisão agravada de que a existência de ação penal em curso não impede a concessão do benefício do tráfico privilegiado não implicou no exame aprofundado de provas.
+Portanto, diante da existência de constrangimento ilegal, de rigor a manutenção da aplicação da minorante prevista no § 4º do artigo 33 da Lei n. 11.343/2006.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
