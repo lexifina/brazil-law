@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado por ALAN THIAGO DINIZ contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5049430-84.2023.8.24.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 06 de agosto de 2023, acusado da prática do crime de tráfico de drogas, previsto no artigo 33, caput, da Lei 11.343/2006. Segundo a denúncia do Ministério Público, ele foi abordado em posse de uma sacola contendo tabletes de maconha, sendo posteriormente encontrada mais droga em sua residência.
+A defesa sustenta que a prisão foi ilegal e que houve cerceamento de defesa, pois a sentença foi proferida sem que fossem apresentadas alegações finais.
+Postulou o reconhecimento e declaração de invalidade da sentença, uma vez que não havia apresentado suas alegações finais.
+Foram prestadas informações processuais às fls. 528-530 e 533-663.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 670-675).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/03/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/06/2020).
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, cumpre analisar a existência de eventual ameaça ou coação à liberdade de locomoção do paciente, a fim de evitar prejuízo à sua defesa.
+Passarei, assim, ao exame das razões deste writ.
+Objetiva a Defesa o reconhecimento de nulidade pela não apresentação de alegações finais.
+A  irresignação não prospera.
+O  Tribunal  de  origem afastou a mencionada alegação, conforme os seguintes fundamentos (fl. 641):
+No caso concreto, verifica-se que a defesa do paciente foi devidamente intimada para apresentar as alegações finais na ação penal de origem (evento 157). Apesar da intimação, a defesa não apresentou a peça específica, mas sim duas manifestações subsequentes: Evento 160: Requerimento de reconhecimento de cerceamento de defesa, alegando que a prisão do réu decorreu de ação policial não autorizada. Evento 164: Argumentação sobre flagrante preparado e solicitação de diligências. Diante da omissão da defesa em apresentar as alegações finais, o juízo a quo, ao proferir a sentença (evento 167), entendeu que as manifestações nos eventos 160 e 164 poderiam ser recebidas como tal, considerando que ambas debatiam teses de defesa. A impetrante não demonstra qualquer prejuízo concreto pela não apresentação da peça específica de alegações finais. A sentença abordou todas as teses defensivas, inclusive apontando provas concretas de autoria e materialidade delitiva. Portanto, não se configura ilegalidade na decisão que recebeu as manifestações dos eventos 160 e 164 como alegações finais. Eventual inconformismo com a decisão judicial deve ser impugnado por meio do recurso próprio, a apelação criminal, conforme já mencionado.
+Os autos demonstram, de forma inequívoca, que a defesa foi regularmente intimada para apresentar as alegações finais no momento processual oportuno. Contudo, ao invés de exercer plenamente essa prerrogativa essencial, optou por não protocolar a peça específica, limitando-se a apresentar petições versando sobre outras questões processuais, sem o adequado enquadramento como alegações finais.
+Dentre as manifestações apresentadas pela defesa após a intimação para alegações finais, destacam-se: a) requerimento de reconhecimento de cerceamento de defesa, alegando que a prisão do réu decorreu de ação policial não autorizada; e b) argumentação sobre flagrante preparado e solicitação de diligências .
+Dessa forma, não há que se falar em cerceamento de defesa, pois a oportunidade foi plenamente assegurada à defesa técnica, que, por sua própria conduta processual, escolheu não formalizar as alegações finais conforme estabelecido no rito penal.
+O Tribunal de Justiça do Estado de Santa Catarina, ao julgar a apelação, já havia afastado a tese de nulidade, destacando que:
+"A defesa do ora paciente foi devidamente intimada para a apresentação de alegações finais e, diante da omissão, o juízo de primeiro grau recebeu as manifestações posteriores como se alegações finais fossem, uma vez que ambas as petições debatiam teses defensivas." .
+Assim, não houve qualquer impedimento ao exercício da ampla defesa, tampouco violação ao contraditório, visto que o paciente teve a oportunidade de se manifestar e, de fato, sua defesa apresentou petições posteriores abordando teses defensivas.
+Se a própria defesa escolheu não protocolar alegações finais na forma tradicional, isso decorreu de sua exclusiva responsabilidade, não se podendo imputar ao Poder Judiciário a consequência de tal omissão.
+Além disso, a ausência de alegações finais formais apenas enseja nulidade quando demonstrado prejuízo concreto ao réu, aplicando-se o princípio "pas de nullité sans grief", positivado no artigo 563 do Código de Processo Penal .
+No caso em análise, não há qualquer demonstração de que a ausência formal da peça comprometeu a defesa do paciente, especialmente porque suas teses foram analisadas e rebatidas na sentença condenatória.
+Ante  o  exposto,  não conheço do  habeas  corpus.
+Publique-se.  Intimem-se.
+ EMENTA
