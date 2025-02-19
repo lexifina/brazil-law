@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por BIG MART CENTRO DE COMPRAS LTDA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO DE CUMPRIMENTO DE PRECEITO LEGAL C/C PERDAS E DANOS - ESTABELECIMENTO COMERCIAL - SONORIZAÇÃO AMBIENTE - EXECUÇÃO PÚBLICA DE MÚSICAS PROTEGIDAS POR DIREITOS AUTORAIS - PAGAMENTO DAS MENSALIDADES AO ECAD DEVIDO - USUÁRIA GERAL - ENQUADRAMENTO NA QUALIDADE DE "SUPERMERCADO" MANTIDO - MULTA MORATÓRIA - PAGAMENTO INDEVIDO - AUSÊNCIA DE PREVISÃO LEGAL - JUROS DE MORA - EVENTO DANOSO - RELAÇÃO EXTRACONTRATUAL - SUCUMBÊNCIA RECÍPROCA MANTIDA - HONORÁRIOS ADVOCATÍCIOS - PERCENTUAL QUE DEVE INCIDIR SOBRE O VALOR DA CONDENAÇÃO - RECURSOS PARCIALMENTE PROVIDOS.
+I - Demonstrando o ECAD a sonorização ambiente da ré, com execução pública de músicas protegidas por direitos autorais sem o pagamento da contrapartida, pertinente a condenação ao pagamento dos valores mensais no período compreendido entre abril de 2019 e outubro de 2021.
+II - Não logrando êxito a ré em comprovar seu enquadramento como "rede de supermercados", já que dos autos não consta qualquer documento que corrobore esta afirmação, pertinente sua manutenção na qualidade de "supermercado".
+III - Por ausência de previsão legal e ante a inexistência de relação contratual, é descabida a cobrança de multa moratória estabelecida unilateralmente em Regulamento de Arrecadação do ECAD. Precedentes. (STJ, EDcl no AgRg no REsp n. 1.562.837/RS). Aplicação da multa afastada.
+IV - A jurisprudência do STJ aponta no sentido de que os juros de mora, nas hipóteses de violação a direitos autorais, devem remontar à data em que cometida a infração ao direito. (STJ, REsp n. 1.778.197/MG). Sentença reformada.
+V - Mantem-se a distribuição da sucumbência entre partes tal como feito pelo juízo, porquanto adequada com o êxito obtido por cada um dos litigantes.
+VI - O art. 85, § 2º, do CPC, estabelece que Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, o que significa dizer que para o arbitramento da verba deve ser priorizado, quando possível, o valor da condenação. (e-STJ fls. 292/293)
+No recurso especial, a recorrente alega violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, pois mesmo após a oposição de embargos de declaração, restou ponto relevante para o julgamento da causa que não foi enfrentado pelos julgadores, especificamente quanto ao enquadramento da parte recorrente como "supermercado" e não como "rede de supermercados", o que causa impactos significativos no valor das mensalidades exigidas pela recorrida ECAD.
+Com as contrarrazões, o recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O ponto sobre o qual a recorrente alega ter havido omissão por parte do TJMS, qual seja, o seu enquadramento como "supermercado" e não como "rede de supermercados", foi abordado expressamente pelo acórdão, conforme se vê:
+"2.2. Do enquadramento da ré Pede a ré o seu enquadramento no item 1.3 do regramento do ECAD, por se tratar de rede de supermercados, e não no item 1.5, no qual é considerada apenas supermercado, salientado que conta com 18 (dezoito) lojas.
+Sem razão.
+Isto porque, conforme se infere dos documentos de f. 114-121, a ré colacionou aos autos tão somente o ato constitutivo da sociedade limitada denominada Big Mart - Centro de Compras Ltda, e ainda que nele haja indicativo da existência de diversas filiais, não necessariamente se trata de rede de supermercados.
+As redes de supermercados caracterizam-se por pequenos e médios supermercados que se unem para criar grupos de cooperação, de forma que o simples fato de existirem várias unidades de um mesmo empreendimento espalhadas pelo território nacional não implica na configuração de uma rede, até mesmo porque os associados mantém sua independência e liberdade.
+Ademais, a declaração da Associação Paulista de Supermercados acostada à f. 183, na qual é afirmado ser a ré considerada, para todos os fins, uma "rede de supermercados", não supre a imprescindibilidade de apresentação de documento público indicativo da situação que pretende comprovar. Mantido, pois, o enquadramento da ré no item 1.5 (supermercado)." (e-STJ fls. 297/298)
+Conclui-se, portanto, que não há omissão, mas, sim, contrariedade da recorrente com o que restou decidido nas instâncias ordinárias.
+Desse modo, quanto às alegadas negativa de prestação jurisdicional e ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente os quais entendeu relevantes para a solução da controvérsia, afastando os argumentos que poderiam infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento motivado, declarando os fundamentos que o levaram a solucionar a lide. Desse modo, o não acolhimento das teses ventiladas pela parte não significa omissão ou deficiência da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie (vide Tema nº 339/STF).
+O órgão judicante não está obrigado a se pronunciar de modo específico sobre todo e qualquer ponto, tese ou alegação suscitados pelos litigantes. Na técnica da decisão judicial, é usual o fato de que o acolhimento ou a refutação de determinado argumento torne prejudicado ou exclua, logicamente, a análise dos demais, por restarem incompatíveis com a decisão ou simplesmente por não terem sido acolhidos pelo julgador.
+Disso se conclui que a motivação contrária aos interesses da parte ou a superação de argumentos considerados irrelevantes para a solução do caso não autoriza o acolhimento dos declaratórios.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários sucumbenciais para 20% sobre o valor da condenação, nos termos do art. 85, § 11, do CPC, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
