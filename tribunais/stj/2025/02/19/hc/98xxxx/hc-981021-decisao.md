@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de CAROLAINE OLIVEIRA CERQUEIRA, contra acórdão do Tribunal de Justiça do Estado da Bahia.
+Consoante se extrai dos autos, a paciente foi denunciada por infração ao art. 155, §4º, II, do Código Penal.
+O Tribunal a quo denegou a ordem do habeas corpus, nos termos da seguinte ementa:
+"HABEAS CORPUS. FURTO QUALIFICADO. NEGATIVA DE AUTORIA. INVIABILIDADE DE EXAME NA VIA ELEITA. PRISÃO PREVENTIVA FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. INDEVIDA A APLICAÇÃO DE OUTRAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. CONDIÇÕES PESSOAIS SUBJETIVAS QUE NÃO IMPEDEM A MEDIDA RESTRITIVA. PRISÃO DOMICILIAR NÃO CONHECIDA POR SUPRESSÃO DE INSTÂNCIA. ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor da paciente presa em flagrante e com prisão preventiva decretada pela suposta prática de furto qualificado (art. 155, § 4º, I, do CP).
+II. QUESTÕES EM DISCUSSÃO
+2. Há três questões em discussão: (i) se a alegação de negativa de autoria é passível de exame no presente habeas corpus; (ii) se a prisão preventiva da paciente possui fundamentação idônea; e (iii) se há possibilidade de concessão de prisão domiciliar.
+III. RAZÕES DE DECIDIR
+3. A análise da negativa de autoria, por demandar exame aprofundado do conjunto probatório, mostra-se inviável em habeas corpus.
+4. A prisão preventiva decretada contra a paciente se apresenta fundamentada em elementos concretos capazes de justificar a segregação cautelar.
+5. Demonstradas expressamente circunstâncias suficientes aptas a justificar a segregação provisória e, por conseguinte, afastar a possibilidade de aplicação de outras medidas cautelares diversas da custódia preventiva, inexiste constrangimento ilegal a ser sanado.
+6. Os predicados subjetivos favoráveis da paciente não impedem decretação/manutenção da segregação cautelar.
+7. Quanto ao pedido de prisão domiciliar, amparado nos arts. 318 e 318-A do CPP, ausente constrangimento ilegal aferível ou a identificação de flagrante abuso de poder perpetrado em desfavor da Paciente, bem como não comprovado o necessário pronunciamento prévio do Juízo impetrado sobre a matéria, resta indevido o conhecimento desta pelo Tribunal de Justiça, sob pena de supressão de instância.
+IV. DISPOSITIVO
+8. Ordem conhecida parcialmente e, na parte conhecida, denegada." (e-STJ, fls. 9-10)
+Neste habeas corpus, o impetrante sustenta, em síntese, que a ausência de provas torna a acusação vulnerável; da mesma maneira, entende não haver elementos que comprovem a ocorrência da qualificadora do abuso de confiança, motivo pelo qual deve ser desclassificado para o furto simples.
+Aduz deve ser aceito o ANPP em favor da paciente.
+Requer, ao final, a concessão da ordem para que seja absolvida a paciente, seja aceito o ANPP ou desclassificada a imputação para furto simples.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O acórdão impugnado assim consignou:
+"De pronto, no que concerne à tese apresentada pelo Impetrante - negativa de autoria, é de ampla sabença que tal análise, na via eleita, consigna-se excepcional, para a qual se faz necessária a identificação precípua, sem análise profunda do lastro probatório, da patente inexistência de indícios de autoria delitiva, hipótese que, prima facie, não restou devidamente demonstrada de plano, impossibilitando sua análise.
+Vale dizer, trata-se de questão incompatível com o rito de cognição sumária do mandamus, porquanto demandaria revolvimento da matéria fático-probatório. Nesse sentido, a assente jurisprudência do Superior Tribunal de Justiça:
+ ..
+Neste particular, registrou a Magistrada de primeiro grau que o delito em análise foi praticado contra uma idosa de 73 anos, "aparentemente escolhida pela sua vulnerabilidade, o que denota uma conduta que extrapola a simples violação patrimonial". Além do mais, apontou "os vastos registros criminais da autuada" que, conforme relatado pelo Ministério Pública de origem, consiste em: "1. AÇÃO PENAL em curso nº 8107242-58.2023.8.05.0001 na 11ª Vara Criminal da Comarca de Salvador/BA, denunciado pela suposta prática do delito de roubo majorado (art. 157, §1º c/c art 14, inciso II, do Código Penal Brasileiro); 2. CONDENAÇÃO CRIMINAL nº 8023937-45.2024.8.05.0001 na 6ª Vara Criminal da Comarca de Salvador/BA, PELA PRÁTICA do delito do art. 155, § 4º, incisos II e IV, c/c art. 61, inciso II, alínea H, ambos do Código Penal, à pena privativa de liberdade definitiva fixada em 3 (três) anos e 6 (seis) meses de reclusão; 3. AÇÃO PENAL em curso nº 8059636-97.2024.8.05.0001 na 8ª Vara Criminal da Comarca de Salvador/BA, denunciado pela suposta prática do delito de furto qualificado (art. 155, § 4º, IV do Código Penal); 4. AÇÃO PENAL em curso nº 8116895-50.2024.8.05.0001 na 8ª Vara Criminal da Comarca de Salvador/BA, denunciado pela suposta prática do delito de furto (art. 155, caput, do Código Penal)" (id. 477398112 - autos de origem)." (e-STJ, fls. 13-14)
+Os capítulos da desclassificação e da aplicação do ANPP não foram apreciados pelo Tribunal a quo, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República.
+Confira-se:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Sem razão quanto ao pleito absolutório.
+O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou alteração de classificação típica em razão de conclusões acerca do contexto fático, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ASSOCIAÇÃO PARA O TRÁFICO. FINANCIAMENTO DO TRÁFICO. RECURSO ESPECIAL PELA DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO PARADIGMA EM HABEAS CORPUS. IMPOSSIBILIDADE. CONDENAÇÃO. BUSCA E APREENSÃO. INTERCEPTAÇÃO TELEFÔNICA. PROVA ORAL JUDICIAL E EXTRAJUDICIAL. REEXAME PROBATÓRIO. SÚMULA N.º 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A Corte estadual, com fundamento nos elementos do caderno fático-probatório, entre eles os testemunhos policiais e os resultados das diligências de busca e apreensão e de interceptação telefônica, concluiu pela comprovação da autoria e da materialidade dos crimes de associação para o tráfico e de financiamento do tráfico. A revisão da condenação exigiria, portanto, amplo reexame fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n.º 7/STJ.
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp n. 1804625/RO, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 05/06/2019).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.DOSIMETRIA. TRÁFICO DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO. INADMISSIBILIDADE NA VIA ELEITA.NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PENA-BASE DOS CRIMES ACIMA DO MÍNIMO LEGAL. VALORAÇÃO NEGATIVA DA CULPABILIDADE. POSIÇÃO DE LIDERANÇA. FUNDAMENTAÇÃO ESCORREITA. ABRANDAMENTO DO REGIME PRISIONAL. PLEITO PREJUDICADO. NÃO ALTERAÇÃO DO QUANTUM DA PENA.PENA SUPERIOR A 8 ANOS DE RECLUSÃO. OBSERVÂNCIA DO ART. 33, § 2º, ALÍNEA "A", DO CÓDIGO PENAL - CP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As instâncias ordinárias, com base no exame exauriente das provas dos autos, sobretudo as circunstâncias do delito, entenderam que o paciente praticava tráfico e associação para o tráfico de drogas. Ademais, para se afastar a materialidade do delito de associação para o tráfico, é necessário o reexame aprofundado de provas, inviável em sede de habeas corpus.
+ ..
+5. Habeas corpus não conhecido." (HC n. 502.868/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 20/05/2019)
+Nesse contexto, as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver prova da materialidade e indícios de autoria do crime de furto para ensejar a persecução penal. Portanto, inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
