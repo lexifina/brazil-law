@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PENAL.  ROUBO  MAJORADO.  REGIME  INICIAL  FECHADO.  GRAVIDADE  CONCRETA.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Na  hipótese  em  apreço,  não  obstante  a  pena-base  tenha  sido  fixada  no  mínimo  legal  e  a  sanção  definitiva  não  tenha  ultrapassado  08  (oito)  anos  de  reclusão,  impôs-se  regime  inicial  fechado  com  base  na  gravidade  concreta  do  crime  praticado,  uma  vez  que  o  agravante  praticou  o  crime  em  superioridade  numérica  e  com  utilização  de  arma  de  fogo.
+2.  Agravo  regimental  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  ALESSANDRO  ANDRADE  PEREIRA  LIMA  contra  decisão  de  minha  lavra,  na  qual  não  conheci  do  pedido  de  habeas  corpus  (fls.  40/41).
+Consta  nos  autos  que  o  agravante  foi  condenado  às  penas  de  06  (seis)  anos  e  08  (oito)  meses  de  reclusão,  em  regime  inicial  fechado,  bem  como  ao  pagamento  de  17  (dezessete)  dias-multa,  no  mínimo  legal,  pela  prática  do  crime  previsto  no  art.  157,  §  2º,  inciso  II,  e  §  2º-A  do  Código  Penal.
+O  Tribunal  de  origem  negou  provimento  ao  recurso  da  Defesa  e  deu  parcial  provimento  ao  recurso  da  acusação  para  condenar  o  réu,  também,  pelo  crime  de  desobediência,  previsto  no  art.  330  do  Código  Penal,  às  penas  de  15  (quinze)  dias,  no  regime  inicial  aberto,  e  pagar  10  (dez)  dias-multa,  mantidos  os  demais  termos  da  sentença.
+Nas  razões  do  writ,  a  Defesa  sustentou  a  ilegalidade  da  manutenção  do  regime  inicial  fechado,  argumentando  que  o  agravante  é  primário,  sem  antecedentes  e  menor  de  21  (vinte  e  um)  anos  de  idade.
+Aduziu  que  as  circunstâncias  judiciais  previstas  no  art.  59  do  Código  Penal  são  favoráveis  ao  réu,  o  que  autorizaria  a  fixação  de  regime  inicial  mais  brando.
+Nas  razões  do  agravo  regimental,  a  Defesa  reitera  as  alegações  feitas  na  inicial  do  writ,  aduzindo  que  o  argumento  trazido  pelo  acórdão,  para  fixação  do  regime  fechado,  externa  manifesta  ilegalidade,  especialmente  ao  se  invocar  a  gravidade  abstrata  do  crime  de  roubo  (fl.  253).
+Requer  a  reconsideração  da  decisão  agravada  ou  a  submissão  do  agravo  ao  Colegiado  competente.
+As  contrarrazões  não  foram  apresentadas,  conforme  certidão  de  fl.  265.
+É  o  relatório.
+EMENTA
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PENAL.  ROUBO  MAJORADO.  REGIME  INICIAL  FECHADO.  GRAVIDADE  CONCRETA.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Na  hipótese  em  apreço,  não  obstante  a  pena-base  tenha  sido  fixada  no  mínimo  legal  e  a  sanção  definitiva  não  tenha  ultrapassado  08  (oito)  anos  de  reclusão,  impôs-se  regime  inicial  fechado  com  base  na  gravidade  concreta  do  crime  praticado,  uma  vez  que  o  agravante  praticou  o  crime  em  superioridade  numérica  e  com  utilização  de  arma  de  fogo.
+2.  Agravo  regimental  não  provido.
+VOTO
+O  inconformismo  não  prospera.
+Inicialmente,  pontuei  na  decisão  atacada  que  o  Superior  Tribunal  de  Justiça,  considerando  a  necessidade  de  racionalização  do  emprego  do  remédio  heroico  que  reiteradamente  é  impetrado  de  maneira  desvirtuada,  alheia  aos  preceitos  constitucionais  e  legais,  entende  ser  incabível  a  impetração  de  habeas  corpus  substitutivo  de  recurso  próprio,  sob  pena  subversão  do  sistema  recursal  e  indevida  supressão  de  instância.
+Além  disso,  não  se  verifica  no  julgado  combatido  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício  nos  termos  do  §  2º  do  artigo  654  do  Código  de  Processo  Penal.
+Isso  porque,  não  obstante  a  pena-base  tenha  sido  fixada  no  mínimo  legal  e  a  sanção  definitiva  não  tenha  ultrapassado  08  (oito)  anos  de  reclusão,  impôs-se  o  regime  inicial  fechado  com  base  na  gravidade  concreta  do  delito  praticado,  uma  vez  que  o  agravante  praticou  o  crime  em  superioridade  numérica  e  com  utilização  de  arma  de  fogo.
+Tal  entendimento  encontra  amparo  na  jurisprudência  desta  Corte  Superior,  segundo  a  qual  é  admissível  a  imposição  de  regime  prisional  mais  gravoso  do  que  aquele  que  permite  a  pena  aplicada,  quando  apontados  elementos  fáticos  demonstrativos  da  gravidade  concreta  do  delito,  como  no  caso  concreto  (AgRg  no  HC  n.  761.729/SP,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  28/11/2022,  DJe  de  30/11/2022).
+Por  oportuno:
+DIREITO  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  ROUBO  MAJORADO.  CONCURSO  DE  AGENTES  E  USO  DE  ARMA  DE  FOGO.  REGIME  FECHADO.  NÃO  VERIFICADA  ILEGALIDADE  NA  DOSIMETRIA  DA  PENA.  RECURSO  DESPROVIDO.  I.  CASO  EM  EXAME
+1.  Trata-se  de  agravo  regimental  em  Habeas  corpus  impetrado  em  favor  de  Hudson  Francisco  Campana,  condenado  à  pena  de  7  anos,  9  meses  e  10  dias  de  reclusão,  em  regime  fechado,  pela  prática  do  crime  de  roubo  majorado,  previsto  no  art.  157,  §  2º,  II,  c/c  §  2º-A,  I,  do  Código  Penal.  A  defesa  pleiteia  a  absolvição,  o  afastamento  da  causa  de  aumento  de  pena  por  emprego  de  arma  de  fogo  ou  a  substituição  da  pena  privativa  de  liberdade  por  pena  restritiva  de  direitos,  bem  como  o  abrandamento  do  regime  de  cumprimento  da  pena.  II.  QUESTÃO  EM  DISCUSSÃO
+2.  Há  duas  questões  em  discussão:
+(i)  verificar  se  há  flagrante  ilegalidade  na  dosimetria  da  pena,  especialmente  quanto  ao  aumento  pela  causa  de  aumento  referente  ao  emprego  de  arma  de  fogo  e  o  regime  inicial  de  cumprimento  de  pena;
+(ii)  definir  se  há  fundamentos  suficientes  para  conceder  a  ordem  de  habeas  corpus  para  absolvição  ou  modificação  da  reprimenda  imposta.
+III.  RAZÕES  DE  DECIDIR
+3.  O  Tribunal  de  Justiça  do  Estado  de  São  Paulo  fundamentou  adequadamente  a  exasperação  da  pena-base,  considerando  o  concurso  de  agentes  e  as  consequências  do  crime,  conforme  art.  59  do  Código  Penal,  sem  incorrer  em  **bis  in  idem**.  A  majoração  de  2/3  foi  corretamente  aplicada  pela  comprovação  do  emprego  de  arma  de  fogo  no  crime,  corroborada  por  testemunhos  e  relatos  das  vítimas.
+4.  A  prisão  cautelar  foi  mantida  com  base  na  gravidade  concreta  do  crime,  evidenciada  pelo  uso  de  violência  e  ameaça  contra  as  vítimas,  incluindo  uma  criança  de  dois  anos.  O  regime  inicial  fechado  é  justificado  pela  elevada  lesividade  da  conduta,  conforme  art.  33,  §  3º,  do  Código  Penal.
+5.  A  via  do  habeas  corpus  não  permite  o  reexame  do  acervo  fático-probatório,  sendo  que  o  reconhecimento  das  vítimas  e  as  demais  provas  produzidas  são  suficientes  para  a  manutenção  da  condenação.  Ademais,  a  jurisprudência  do  STJ  é  clara  no  sentido  de  que  o  regime  inicial  fechado  é  adequado  em  casos  de  roubo  majorado  com  emprego  de  arma  de  fogo  e  concurso  de  agentes.
+6.  Não  há  ilegalidade  flagrante  que  justifique  a  concessão  da  ordem  de  habeas  corpus,  seja  para  absolvição  ou  modificação  da  pena  imposta.
+  IV.  DISPOSITIVO
+7.  Recurso  desprovido.
+(AgRg  no  HC  n.  872.145/SP,  relatora  Ministra  Daniela  Teixeira,  Quinta  Turma,  julgado  em  30/10/2024,  DJe  de  05/11/2024).
+AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  DIREITO  PROCESSUAL  PENAL.  TRAMITAÇÃO  EM  PARALELO  DE  AGRAVO  EM  RECURSO  ESPECIAL.  AFRONTA  AO  PRINCÍPIO  DA  UNIRRECORRIBILIDADE.  DIREITO  PENAL.  AUSÊNCIA  DE  FLAGRANTE  ILEGALIDADE.  ROUBO  MAJORADO.  AUTORIA.  RECONHECIMENTO  PESSOAL.  EXISTÊNCIA  DE  OUTROS  MEIOS  DE  PROVA  IDÔNEOS  E  INDEPENDENTES  DO  ATO.  REGIME  PRISIONAL  INICIAL  FECHADO.  GRAVIDADE  CONCRETA  DOS  FATOS.  AGRAVO  IMPROVIDO.
+1.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  não  admite  o  processamento  conjunto  de  recursos  e  de  habeas  corpus  apresentados  contra  o  mesmo  ato  jurisdicional,  sob  pena  de  ofensa  ao  princípio  da  unirrecorribilidade.  Precedentes.
+2.  Inexistência  de  flagrante  ilegalidade  que  autorize  a  concessão  da  ordem  de  ofício,  pois  a  condenação  do  agravante  não  se  ampara  exclusivamente  em  seu  reconhecimento  pessoal  pela  vítima  do  crime  patrimonial,  tendo  sido  mencionada  expressamente  a  existência  de  outros  elementos  dentro  do  acervo  probatório  disponível  capazes  de  lhe  atribuir  a  autoria  delitiva  do  roubo  majorado.
+3.  A  fixação  do  regime  fechado  para  o  início  do  cumprimento  da  pena  foi  justificada  pelas  circunstâncias  concretas  do  roubo  majorado,  evidenciadas  pelo  modus  operandi  empregado  na  execução  do  delito,  o  qual,  além  do  concurso  de  pessoas,  foi  marcado  pelo  emprego  de  violência  efetiva  contra  a  vítima,  que  foi  agredida  com  chutes  pelos  autores  do  crime.
+4.  Consoante  a  jurisprudência  desta  Corte  Superior,  "inexiste  violação  das  Súmulas  n.  440  desta  Corte  Superior,  718  e  719,  ambas  do  Supremo  Tribunal  Federal,  quando  a  fixação  do  regime  prisional  é  baseada  na  gravidade  concreta  do  delito.  No  caso,  considerou-se,  para  a  fixação  do  regime  inicial  fechado,  que  o  Paciente  praticou  os  delitos,  em  concurso  de  agentes,  com  emprego  de  arma  de  fogo  e  grave  ameaça,  circunstâncias  que  demonstram  maior  reprovabilidade  da  conduta  delituosa"  (HC  n.  470.750/SP,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  5/2/2019,  DJe  de  19/2/2019.).
+5.  Agravo  regimental  improvido.
+(AgRg  no  HC  n.  890.250/SP,  relator  Ministro  Og  Fernandes,  Sexta  Turma,  julgado  em  04/11/2024,  DJe  de  0 7/11/2024).
+
+Diante  dessas  considerações,  não  há  falar  em  alteração  do  regime  prisional  imposto  ao  réu.
+Assim,  por  não  terem  sido  declinados,  nas  razões  recursais,  fundamentos  jurídicos  que  infirmem  os  motivos  da  decisão  ora  agravada,  deve  esse  ato  ser  integralmente  mantido  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
