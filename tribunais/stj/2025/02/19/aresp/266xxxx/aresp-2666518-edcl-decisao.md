@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por INTROPEDI PRESTAÇÃO DE SERVIÇOS E COBRANÇA EIRELI e OUTROS à decisão desta relatoria que conheceu do agravo para não conhecer do recurso especial.
+Nas razões dos presentes aclaratórios, os embargantes sustentam haver contradição e omissão na decisão, pois "(..) à época da interposição do recurso especial, foi a data marco da inauguração do litigio e da primeira oportunidade de manifestação dos oras embargantes e recorrentes" (e-STJ fl. 515).
+Impugnação apresentada às e-STJ fls. 521/524.
+É o relatório.
+DECIDO.
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se desde logo que a decisão embargada não padece de nenhum dos vícios ensejadores dos embargos de declaração, enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+A controvérsia foi devidamente solucionada com a utilização do direito cabível à hipótese, inexistindo vício a ser sanado.
+Eis, por oportuno, excerto do referido julgado:
+"(..)
+No recurso especial, os recorrentes alegam violação dos arts. 9, 10, 134, 135 e 1.019, II, do Código de Processo Civil e 50 e 1.052 do Código Civil, argumentando, em síntese, a impossibilidade de concessão do pedido cautelar de arresto ante a necessidade de intimação prévia da parte contrária, pois
+"(..) O Acórdão de forma equivocada, sem se atentar aos contratos que embasam a ação de cobrança em rito ordinário (38/39, 42/43), composição societária das empresas, terceiros inocentes, e o que é pior, adentrando ao mérito do pedido de desconsideração da personalidade jurídica, contra a decisão do juízo natural e muito mais próximo das partes, reformou decisão judicial relevante sem a oitiva e chance de defesa das partes" (e-STJ fls. 339/340).
+(..)
+A insurgência não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+No caso vertente, é mesmo possível inferir a probabilidade do direito reclamado e também vislumbrar perigo de dano de difícil reparação de perda do capital investido pelo autor, mormente considerando que a própria demandada informou a incapacidade de transferir a quantia devida aos clientes.
+A Ação principal, já se viu, foi movida contra a Empresa Intropedi Prestação de Serviços e Cobrança Ltda. e as demais Empresas do Grupo Econômico, e também contra os integrantes de seu quadro social, com pedido de desconsideração da personalidade jurídica (v. fls. 1/33 dos autos principais).
+Ressalta-se que a petição inicial foi instruída com cópia do Contrato de Mútuo assinado por Francisco Milton, com comprovantes dos aportes financeiros realizados pelo autor, ora agravante, e com cópia de mensagens trocadas entre as partes no período indicado. A documentação é suficiente para demonstrar a contratação e o alegado descumprimento por parte dos agravados.
+Verifica-se ainda que foram ajuizadas diversas Ações relacionadas ao mesmo tema contra os requeridos, ora agravados, havendo notícia de alienação de bens de propriedade da Empresa e dos sócios (fls. 90/166 dos autos principais).
+Portanto, o caso dos autos revela ao menos indícios de abuso da personalidade jurídica por desvio de finalidade e por confusão patrimonial, conforme previsto no artigo 50 do Código Civil, havendo elementos que evidenciam a probabilidade do direito reclamado e o risco ao resultado útil do processo, com perigo de dano irreparável ou de difícil reparação pela perda do capital aplicado pelo autor.
+Por outro lado, quanto aos demandados Renata Ferreira Intropedi, Fernanda Ferreira Intropedi e Thiago Bordini Tufano, não restou comprovada, ao menos por ora, a participação societária deles nas Empresas do Grupo. Ressalta-se que o fato de serem parentes dos sócios Francisco e Silmara não basta por si só para a concessão da medida nessa fase prematura em que se encontra o feito, devendo ser observado o contraditório e a ampla defesa, com a dilação probatória adequada.
+Assim, ante a configuração dos requisitos do artigo 300, "caput", do Código de Processo Civil, bem ainda a ausência de perigo de irreversibilidade dos efeitos da decisão, tem-se como cabível a tutela de urgência para o bloqueio: a) de ativos financeiros dos agravados através do Sistema Sisbajud; b) de veículos automotores, mediante o Sistema Renajud; e c) de imóveis, mediante o Sistema Arisp, mas tão somente quanto às Empresas Intropedi Prestação de Serviços e Cobrança Ltda., Synergy Prestação de Serviços e Cobrança, Sfi Gestão de Dívidas Ltda. e aos sócios Francisco Milton Intropedi Filho e Silmara dos Santos Ferreira Intropedi, até o limite do capital investido (v. artigo 301 do Código de Processo Civil)" (e-STJ fls. 277/279 - grifou-se).
+De início, verifica-se que a alegação de necessidade de intimação prévia da parte contrária suscitada no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+(..)
+Ainda que superado o óbice, esta Corte Superior entende não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário de mera verossimilhança, atraindo a aplicação, por analogia, do enunciado da Súmula nº 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Por fim, a revisão das conclusões do acórdão a respeito do atendimento dos requisitos para a concessão da tutela de urgência, esbarra, inevitavelmente, no óbice da Súmula nº 7/STJ, visto que não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide" (e-STJ fls. 504/507 - grifou-se).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+Publique-se.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. INTUITO INFRINGENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
