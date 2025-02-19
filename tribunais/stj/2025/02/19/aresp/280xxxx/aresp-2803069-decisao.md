@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DA SERRA contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 284/STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 84):
+"AGRAVO DE INSTRUMENTO. AUSÊNCIA DE DOCUMENTO OBRIGATÓRIO. DECISÕES RECORRIDAS. ART. 1.017 DO CPC. RECURSO NÃO CONHECIDO.
+1. Nos termos do art. 1.017 do CPC, "a petição de agravo de instrumento será instruída"  ..  " obrigatoriamente, com cópias da petição inicial, da contestação, da petição que ensejou a decisão agravada, da própria decisão agravada, da certidão da respectiva intimação ou outro documento oficial que comprove a tempestividade e das procurações outorgadas aos advogados do agravante e do agravado";
+2. Mantendo-se a parte inerte após regular intimação para complementação dos documentos obrigatórios, o recurso não deve ser conhecido;
+3. Recurso não conhecido".
+Nas razões do recurso especial, o recorrente alega violação ao art. 1.015 do Código de Processo Civil de 2015, sustentando, em síntese, que a decisão que negou a impugnação e homologou os cálculos apresentados não encerrou expressamente o procedimento executório, de forma que o agravo de instrumento preencheu o requisito de cabimento.
+Com contrarrazões (fls. 100-106).
+Juízo negativo de admissibilidade às fls. 108-110.
+Interposto agravo em recurso especial às fls. 111-119.
+É o relatório. Passo a decidir.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito aos artigos 1.015 do CPC e às teses a ele vinculadas, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula n. 282/STF.
+A propósito:
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF, POR ANALOGIA. ÔNUS PROBATÓRIO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO FUNDADA EM ATO DE NATUREZA INFRALEGAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. PROVIMENTO NEGADO.
+1. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. O Tribunal de origem reconheceu que a recorrente não se desincumbira do seu ônus probatório. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que atrai a incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. A Corte local baseou suas razões decisórias em ato de natureza infralegal, o que inviabiliza o conhecimento do recurso especial, conforme vem decidindo o Superior Tribunal de Justiça. Precedentes.
+4. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, não se aplica no julgamento do agravo interno, já que não há abertura de nova instância recursal.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.335.662/RO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+Ademais, a Corte de origem afirmou que o agravo de origem não foi conhecido em razão de o agravante ter sido intimado para complementar os documentos faltantes e ter permanecido inerte, in verbis:
+"Nos termos do art. 1.017 do CPC, "a petição de agravo de instrumento será instruída"  ..  " obrigatoriamente, com cópias da petição inicial, da contestação, da petição que ensejou a decisão agravada, da própria decisão agravada, da certidão da respectiva intimação ou outro documento oficial que comprove a tempestividade e das procurações outorgadas aos advogados do agravante e do agravado". O recorrente interpôs seu recurso indicando na pela sua insurgência contra a decisão, integrada por outra decisão de embargos de declaração, que rejeitou sua impugnação ao cumprimento de sentença. Tendo em vista a ausência das decisões indicadas, foi regularmente intimado o agravante para complementação dos documentos, porém, manteve-se inerte. Desta forma, havendo descumprimento da regra disposta no art. 1.017 do CPC, o não conhecimento do recurso é a medida imposta."
+Ocorre que a parte agravante não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula n. 283/STF.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ARTS. 3º, V, 20, 30, I, i, II, e, E 37 DA LEI N. 13.445/2017, E 43 E 44 DA LEI N. 9.474/1997. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DO VERBETE SUMULAR N. 211/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DO ENUNCIADO SUMULARR N. 283/STF. ALEGADA OFENSA A PRINCÍPIOS JURÍDICOS. NÃO EQUIVALÊNCIA À LEI FEDERAL PARA EFEITO DE CABIMENTO DE RECURSO ESPECIAL. PRECEDENTES STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à espécie. Inexistência de omissão, contradição ou obscuridade.
+III - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+IV - O art. 1.025 do estatuto processual civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada, fundamentadamente, e reconhecida a violação ao art. 1.022 do referido codex, o que não ocorreu no caso em análise.
+V - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+VI - Os princípios jurídicos não se amoldam à definição de lei federal para efeito de cabimento de Recurso Especial. Precedentes.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno desprovido. (AgInt no REsp n. 2.088.262/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/5/2024, DJe de 23/5/2024.)
+Ante o exposto, conheço o agravo para não conhecer o recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL.
