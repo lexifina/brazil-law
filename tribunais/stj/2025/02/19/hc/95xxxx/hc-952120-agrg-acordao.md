@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Tráfico de drogas e organização criminosa. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou ordem em habeas corpus impetrado em favor de acusado de tráfico de drogas e associação para o tráfico, com prisão preventiva decretada.
+2. A decisão agravada fundamentou a prisão preventiva na gravidade concreta da conduta e na periculosidade do agente, evidenciada pela apreensão de 29,2 kg de maconha e indícios de associação com organização criminosa.
+3. O Tribunal de origem manteve a prisão cautelar, destacando a necessidade da medida para preservação da ordem pública e saúde pública.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada em elementos concretos que justifiquem a medida, considerando a gravidade da conduta e a periculosidade do agente.
+5. Outra questão é a possibilidade de aplicação de medidas cautelares diversas da prisão, diante da alegação de condições pessoais favoráveis do agravante.
+III. Razões de decidir
+6. A prisão preventiva foi mantida por estar fundamentada em dados concretos que evidenciam a necessidade de encarceramento provisório, considerando a gravidade concreta da conduta e a periculosidade do agente.
+7. A existência de condições pessoais favoráveis não é suficiente para afastar a prisão cautelar quando presentes os pressupostos legais que justificam a medida.
+8. A aplicação de medidas cautelares diversas da prisão foi considerada inviável, dada a gravidade concreta da conduta e a insuficiência dessas medidas para garantir a ordem pública.
+IV. Dispositivo e tese
+9. Agravo desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em dados concretos que evidenciam a gravidade da conduta e a periculosidade do agente. 2. Condições pessoais favoráveis não afastam a prisão cautelar se presentes os pressupostos legais. 3. Medidas cautelares diversas da prisão são inviáveis quando insuficientes para garantir a ordem pública".
+Dispositivos relevantes citados: Lei n. 11.343/2006, arts. 33 e 35.
+Jurisprudência relevante citada: STF, HC 93.498/MS, Rel. Min. Celso de Mello, Segunda Turma, DJe 18/10/2012; STJ, AgRg no HC 751.585/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe 30/9/2022; STJ, AgRg no HC 760.036/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 22/2/2023; STJ, RHC 123.145/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/02/2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls. 105-109, que denegou a ordem em habeas corpus impetrado em favor de MATHEUS NUNES SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o agravante teve a prisão preventiva decretada pela suposta prática dos delitos previstos nos artigos 33, caput e 35, caput, ambos da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem e manteve a prisão cautelar; consignando que:
+"Habeas corpus. Tráfico de drogas. Associação para o tráfico. Organização criminosa. Prisão preventiva. Tratando-se de notícia de suposta traficância de 29 quilos de maconha, com mais preocupante exposição da saúde pública, além de indícios de associação para o tráfico com outros quatro indivíduos, justifica- se concretamente a manutenção da prisão preventiva bem decretada na origem, e tudo em louvor da estrita necessidade da medida como meio necessário para preservação da saúde pública, malgrado também frisada, em favor do paciente, a devida assistência da cláusula tributada, quanto ao futuro julgamento do mérito dessas acusações, à presunção constitucional de inocência. " (fl. 16)
+Nas razões do presente inconformismo, o Agravante repisa os argumentos deduzidos no writ, alega a ausência de requisitos para a segregação cautelar do agravante, pugnando, ainda, pela aplicação de medidas cautelares diversas da prisão.
+Requer a reconsideração da decisão hostilizada, ou, em caso de entendimento diverso, a submissão ao Órgão Colegiado.
+O Ministério Público Federal em parecer, às fls. 139-143, opinou pelo desprovimento do agravo regimental, assim ementado:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. PREDICADOS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MENOS GRAVOSAS. NÃO CABIMENTO.
+1. O cenário delineado pela instância de origem evidencia a gravidade concreta da conduta e a periculosidade social do paciente, tendo em vista que, em um dos locais utilizados pela facção criminosa PCC para depósito e preparo de drogas, foi apreendida grande quantidade de entorpecente - 29,2 kg de maconha -, além de terem sido encontrados "fragmentos de impressões papilares atribuídos ao paciente e ao corréu Caio Alves", o que denota vínculo com o grupo criminoso e dedicação a traficância, circunstâncias que justificam a segregação cautelar com o objetivo de resguardar a ordem pública.
+2. Chama atenção a afirmação defensiva de que "o Paciente ficou quase 02 (dois) anos em liberdade desde a expedição do mandado de prisão em seu desfavor", que apenas foi cumprido em razão de sua abordagem numa blitz de trânsito no dia 31/05/2024. Ou seja, o paciente esteve homiziado durante longo período, o que só corrobora a imprescindibilidade da medida extrema também para assegurar a aplicação da lei penal.
+3. A mera presença de condições pessoais favoráveis não autoriza a revogação da prisão, se há nos autos elementos hábeis a justificar a imposição da medida constritiva, como na hipótese.
+4. Diante da gravidade concreta da conduta, inviável a aplicação de medidas cautelares alternativas por serem insuficientes para garantir a ordem pública.
+5. Parecer pelo desprovimento do agravo regimental."
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Tráfico de drogas e organização criminosa. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou ordem em habeas corpus impetrado em favor de acusado de tráfico de drogas e associação para o tráfico, com prisão preventiva decretada.
+2. A decisão agravada fundamentou a prisão preventiva na gravidade concreta da conduta e na periculosidade do agente, evidenciada pela apreensão de 29,2 kg de maconha e indícios de associação com organização criminosa.
+3. O Tribunal de origem manteve a prisão cautelar, destacando a necessidade da medida para preservação da ordem pública e saúde pública.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada em elementos concretos que justifiquem a medida, considerando a gravidade da conduta e a periculosidade do agente.
+5. Outra questão é a possibilidade de aplicação de medidas cautelares diversas da prisão, diante da alegação de condições pessoais favoráveis do agravante.
+III. Razões de decidir
+6. A prisão preventiva foi mantida por estar fundamentada em dados concretos que evidenciam a necessidade de encarceramento provisório, considerando a gravidade concreta da conduta e a periculosidade do agente.
+7. A existência de condições pessoais favoráveis não é suficiente para afastar a prisão cautelar quando presentes os pressupostos legais que justificam a medida.
+8. A aplicação de medidas cautelares diversas da prisão foi considerada inviável, dada a gravidade concreta da conduta e a insuficiência dessas medidas para garantir a ordem pública.
+IV. Dispositivo e tese
+9. Agravo desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em dados concretos que evidenciam a gravidade da conduta e a periculosidade do agente. 2. Condições pessoais favoráveis não afastam a prisão cautelar se presentes os pressupostos legais. 3. Medidas cautelares diversas da prisão são inviáveis quando insuficientes para garantir a ordem pública".
+Dispositivos relevantes citados: Lei n. 11.343/2006, arts. 33 e 35.
+Jurisprudência relevante citada: STF, HC 93.498/MS, Rel. Min. Celso de Mello, Segunda Turma, DJe 18/10/2012; STJ, AgRg no HC 751.585/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe 30/9/2022; STJ, AgRg no HC 760.036/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 22/2/2023; STJ, RHC 123.145/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/02/2020.
+VOTO
+O presente Agravo Regimental não merece provimento.
+Sustenta o Agravante a necessidade de reforma do decisum.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos. Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 105-109. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+A prisão preventiva, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+In casu, a prisão preventiva do agravante se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta.
+No ponto, consta no acórdão hostilizado:
+" ..  Matheus está sendo processado em autos desmembrados (Proc. nº 0010246-02.2023.8.26.0050), vez que, após ser denunciado junto com Caio Alves, Marcos da Silva Santos, Cleber Evanildo Bastos dos Reis e Francisco Antônio Cesário da Silva, por supostamente integrarem organização criminosa, de forma estruturalmente ordenada e caracterizada pela divisão de tarefas com objetivo de obter vantagem econômica mediante prática de crimes cujas penas excedem quatro anos de reclusão, não foi encontrado para ser pessoalmente citado, evitando-se assim delonga na marcha processual. Consta ainda dos autos que, em 04.08.2022, na Rua Itamotinga, Paraisópolis, nesta Capital, o paciente e os demais denunciados supostamente guardavam e tinham em depósito drogas sem autorização e em desacordo com determinação legal ou regulamentar. Segundo apurado, naquela data, policiais do DENARC, a partir de indícios de atividade criminosa no local, com apoio de grupos especiais da Polícia Civil e equipados com considerável aparato tecnológico e veículos blindados, dirigiram-se à rua Itamotinga e localizaram quatro "casas-bomba", denominação dada aos locais utilizados pela facção criminosa PCC para depósito e preparo de drogas, no interior das quais encontraram grande quantidade de maconha e cocaína, além de objetos utilizados para seu fracionamento e acondicionamento. Na primeira casa-bomba, foram encontrados 29,2 Kg (vinte e nove quilos e duzentos gramas) de maconha, e fragmentos de impressões papilares atribuídos ao paciente e ao corréu Caio Alves. .. " (fl. 18).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+" ..  São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente  .. " (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, D Je de 30/9/2022).
+" ..  Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do Agravante acarretaria risco à ordem pública, pela gravidade concreta da conduta consistente no envolvimento com tráfico de drogas, tendo em vista a "quantidade e a variedade dos entorpecentes apreendidos (117,19g de cocaína, 139,29g de maconha, e 1,08g de MDA", circunstâncias que indicam a probabilidade de repetição de condutas tidas por delituosas e revela a indispensabilidade da imposição da segregação cautelar  .. " (AgRg no HC n. 760.036/SP, Quinta Turma, de minha relatoria, D Je de 22/2/2023).
+" ..  A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades  .. " (RHC 123.145/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 28/02/2020).
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ - Sebastião Reis Júnior, Data de Julgamento: 24/09/2019, Sexta Turma , Data de Publicação: D Je 03/10/ 2019).
+Quanto ao argumento de que, em caso de condenação terá direito a regime diverso do fechado, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados. A jurisprudência desta Corte se firmou no sentido de que:
+"O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual" (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, D Je de 22/12/2022).
+Acrescente-se, que a inversão do que restou decidido pelas instâncias ordinárias quanto à ausência de prova convincente da imprescindibilidade do agravante aos cuidados do menor pelo qual alega ser responsável, demandaria, impreterivelmente, revolvimento de matéria fático-probatória, procedimento vedado na estreita via do habeas corpus, ainda mais quando não se demonstrou de plano a existência das condições subjetivas alegadas pelo agravante.
+Nesse sentido:
+"O paciente não demonstrou a sua imprescindibilidade aos cuidados das menores. Rever tal posicionamento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via mandamental" (AgRg no HC n. 754.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, D Je de 16/8/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
