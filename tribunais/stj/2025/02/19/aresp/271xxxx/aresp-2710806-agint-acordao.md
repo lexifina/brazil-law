@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/02/2025 a 19/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. RAZÕES RECURSAIS DISSOCIADAS DO TEOR DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. A dissociação entre as razões do agravo interno e os fundamentos da decisão agravada expõe a deficiência da argumentação e impede o conhecimento do agravo interno, por aplicação analógica do óbice contido na Súmula 284/STF. Precedentes.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto por MUNICÍPIO DE ÁGUAS LINDAS DE GOIÁS contra a decisão da Presidência desta Corte Superior de fls. 284-287 (e-STJ), que conheceu do agravo para não conhecer do recurso especial.
+O recurso especial foi deduzido com base nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Goiás assim ementado (e-STJ, fl. 201):
+REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA PREVENTIDO. INADEQUAÇÃO DA VIA ELEITA. ALEGAÇÃO AFASTADA. BRONZEAMENTO ARTIFICIAL. R ESOLUÇÃO Nº 56/2009 DA ANVISA. DECLARAÇÃO DE NULIDADE DO ATO NORMATIVO. EFEITO ERGA OMNES. SEGURANÇA CONCEDIDA. SENTENÇA CONFIRMADA.
+I - Embasa-se a presente impetração em receio por parte da apelada de vir a sofrer restrições/sanções pelo órgão competente, em face do exercício por ela de atividade estética com o uso de câmara de bronzeamento, não havendo que se falar em inadequação da via.
+II - Em estrita observância a natureza preventiva do Mandado de Segurança, aliado à declaração de nulidade da Resolução da ANVISA nº 56/2009, em decisão judicial com efeito erga omnes, e sem perder de vista a efetiva ameaça de lesão a direito líquido e certo concernente ao livre exercício do serviço de bronzeamento artificial sem receio de fiscalização e sanção, que prejudicaria sobremaneira a atividade econômica da impetrante, a concessão da segurança preventiva é medida necessária, a luz do art. 1º, da Lei nº 12.016/2009.
+III - Não fixados honorários na origem, descabe aplicar o disposto no art. 85, §11, do CPC. REMESSA NECESSÁRIA E APELAÇÃO CIVIL CONHECIDAS E DESPROVIDAS.
+No recurso especial, o insurgente apontou, além de divergência jurisprudencial, violação do art. 373, I, do CPC.
+Esclareceu que se opôs ao acórdão por manter a negativa de concessão do mandado de segurança, estabelecendo que não existiu ato normativo que impedisse a utilização do equipamento de bronzeamento artificial, emergindo o direito líquido e certo de ser reconhecido judicialmente que a Administração deve se abster de quaisquer atos proibitivos a tal respeito.
+Sustentou que, estando o ato normativo editado pela Agência Nacional de Vigilância Sanitária (RDC n. 56/2009) legitimamente respaldado em lei vigente e eficaz, desarrazoada a pretensão de coibir o ente político de exercer suas atribuições no campo da fiscalização sanitária de âmbito local.
+Frisou que, ainda que reconhecida a nulidade da Resolução n. 56/2009, declarada em ação coletiva, por outro lado não se comprova o atendimento de pressupostos para utilização da máquina, previstos no RDC n. 308/02, igualmente editada pela Anvisa, carecendo o recorrido do alegado direito líquido e certo, que é requisito basilar para acolhimento da impetração. Suscitou não haver como proibir a atuação da Administração no seu papel fiscalizador. Requereu o provimento do recurso especial (e-STJ, fls. 218-225).
+Obstado seguimento ao recurso especial, foi protocolado agravo em recurso especial, o qual foi apreciado pela Presidência desta Corte Superior, conforme decisão de fls. 284-287 (e-STJ), conhecendo-se do agravo para não conhecer do recurso especial.
+Neste recurso interno, o município reforça a argumentação constante na petição de recurso especial. Frisa que atacou todos os fundamentos da decisão de inadmissibilidade do apelo especial e pugna pelo provimento do recurso (e-STJ, fls. 291-296).
+Contraminuta não apresentada (e-STJ, fl. 300).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. RAZÕES RECURSAIS DISSOCIADAS DO TEOR DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. A dissociação entre as razões do agravo interno e os fundamentos da decisão agravada expõe a deficiência da argumentação e impede o conhecimento do agravo interno, por aplicação analógica do óbice contido na Súmula 284/STF. Precedentes.
+2. Agravo interno não conhecido.
+VOTO
+Reexaminando os autos, não se vislumbram razões para o provimento deste agravo interno.
+Conforme destacado na decisão que julgou o agravo interposto pelo ora agravante, concluiu-se ser incabível o recurso especial, porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refogeria à competência desta Corte Superior; e além de não ter havido o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela segunda instância sob o viés pretendido pela parte insurgente.
+Veja-se (e-STJ, fl. 286):
+Quanto à controvérsia, é incabível o Recurso Especial porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refoge à competência deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no AR Esp 1.524.223/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 11.5.2020; AgInt no AREEsp 1.552.802/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 13.4.2020; AgInt no REsp 1.652.475/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1º.3.2019; AgInt no REsp 1.724.930/SP, Rel. ;Ministra Regina Helena Costa, Primeira Turma, DJe de 22.8.2018; AgInt no AREsp 1.133.843/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 27.3.2018; REsp 1.673.298/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 9.10.2017.
+Ainda, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente. Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC.
+Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública." (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. ;Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Diante dos fundamentos da manifestação recorrida acima citados, verifica-se que os argumentos do agravo interno estão dissociados do que foi decidido pela Presidência do STJ, evidenciando a deficiência de fundamentação. Com efeito, o insurgente se limitou a reforçar as teses do recurso especial, sem se atentar de atacar objetivamente, ou seja, de forma direta e precisa, os reais motivos para o conhecimento do agravo para não conhecer do recurso especial.
+Portanto, é hipótese de aplicação do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Nessa linha:
+AGRAVO INTERNO NA AÇÃO RECISÓRIA. PROCESSUAL CIVL. ADMINISTRATIVO. IMPUGNAÇÃO À CONCESSÃO DA JUSTIÇA GRATUITA. RECURSO INTERNO. RAZÕES DISSOCIADAS DA DECISÃO AGRAVADA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA N. 182 DO STJ E SÚMULA N. 284 DO STF. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão agravada afirmou expressamente que, tendo sido a presente impugnação à assistência judiciária protocolada ainda na vigência do CPC/1973 e da Lei n. 1.060/1050, a sua análise seria efetivada a partir dessa legislação, nos termos do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+2. As razões do agravo interno, no entanto, sem refutar o fundamento da decisão agravada no sentido de que, no caso concreto, seria observada a legislação pretérita, desenvolveu os motivos da sua insurgência com base no CPC/2015, sustentando, a partir do disposto na novel Codificação, que houve error in procedendo no processamento do presente incidente e de que deveria ser afastada a presunção relativa de hipossuficiência, indeferindo-se o benefício da justiça gratuita. Portanto, as razões do recurso estão dissociadas da fundamentação lançada na decisão agravada, atraindo a aplicação da Súmula n. 182 do Superior Tribunal de Justiça e da Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+3. Agravo interno não conhecido.
+(AgInt na AR n. 5.350/DF, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 20/8/2024, DJe de 28/8/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA. FUNDAMENTAÇÃO. ALEGAÇÕES DISSOCIADAS. SÚMULA N. 284/STF. PREQUESTIONAMENTO. NÃO VERIFICADO. SÚMULA N. 211/STJ. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar o acórdão recorrido.
+2. A dissociação entre as razões do agravo interno e os fundamentos da decisão agravada expõe a deficiência da argumentação e impede o conhecimento do agravo interno, por aplicação analógica do óbice contido na Súmula 284/STF. Precedentes.
+3. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Incidência da Súmula n. 211/STJ.
+4. Rever as conclusão do Tribunal de origem acerca da possibilidade de inversão da ordem prevista no art. 835 do CPC requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 5 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.518.290/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE EXIGIR CONTAS. INVENTARIANTE. CABIMENTO. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. É cabível o ajuizamento pelos herdeiros, em face do inventariante, de ação de exigir contas em relação ao período em que exerceu tal mister, independentemente da homologação de partilha.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.799.251/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/5/2021, DJe de 18/6/2021.)
+Ante o exposto, não conheço do agravo interno.
+É o voto.
