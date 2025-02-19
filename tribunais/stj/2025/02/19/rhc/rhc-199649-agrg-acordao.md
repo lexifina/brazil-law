@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Trancamento de inquérito policial. Crime contra a ordem tributária. Agravo regimental DESprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, no qual se pleiteava o trancamento de inquérito policial instaurado para apurar possível prática de crime contra a ordem tributária, consistente na redução fraudulenta de ICMS.
+2. O inquérito foi instaurado para investigar pessoa jurídica por fatos ocorridos no período de março a novembro de 2014, em razão da declaração de valores inferiores nas GIAs apresentadas.
+3. A parte agravante alega ausência de justa causa para o prosseguimento do inquérito, argumentando que o lançamento definitivo do crédito tributário foi realizado em face de parte ilegítima, devido à extinção da pessoa jurídica indicada como devedora.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há justa causa para o prosseguimento do inquérito policial, considerando a alegação de que o lançamento definitivo do crédito tributário foi realizado em face de parte ilegítima.
+5. A questão também envolve a análise da possibilidade de trancamento do inquérito policial em fase preliminar, em razão da extinção da empresa investigada.
+III. Razões de decidir
+6. O trancamento de inquérito policial por meio de habeas corpus é medida excepcional, admissível apenas quando demonstrada a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de justa causa.
+7. A mera existência de discussão judicial acerca da validade do lançamento tributário não impede o andamento do inquérito policial, em razão do princípio da independência das instâncias.
+8. A investigação ainda se encontra em fase preliminar, sendo precipitado seu trancamento neste momento.
+IV. Dispositivo e tese
+9. Agravo regimental des provido.
+Tese de julgamento: "1. O trancamento de inquérito policial por meio de habeas corpus é medida excepcional, admissível apenas quando demonstrada a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de justa causa. 2. A mera existência de discussão judicial acerca da validade do lançamento tributário não i mpede o andamento do inquérito policial, em razão do princípio da independência das instâncias. 3. A investigação em fase preliminar não deve ser trancada, à míngua de robusta justificativa para tanto".
+Dispositivos relevantes citados: Lei n. 8.137/1990, art. 1º; CR/1988, art. 5º, LXXVIII.
+Jurisprudência relevante citada: STJ, AgRg no RHC 155.947/DF, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 09.08.2022; STJ, AgRg no RHC 172.001/RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 27.03.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCOS ALEXANDRE PRADO contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus (e-STJ, fls. 977-984).
+A parte agravante aduz, em síntese, ausência de justa causa para o prosseguimento do Inquérito Policial n. 5000851-78.2020.4.02.5005, tendo em vista que o lançamento definitivo do crédito tributário foi realizado em face de parte ilegítima, diante da extinção da pessoa jurídica indicada como devedora.
+Pede, ao final, o provimento deste agravo regimental para para determinar o imediato trancamento do inquérito policial n. 1515953-7 1.202 3.8.2 6.0050.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Trancamento de inquérito policial. Crime contra a ordem tributária. Agravo regimental DESprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, no qual se pleiteava o trancamento de inquérito policial instaurado para apurar possível prática de crime contra a ordem tributária, consistente na redução fraudulenta de ICMS.
+2. O inquérito foi instaurado para investigar pessoa jurídica por fatos ocorridos no período de março a novembro de 2014, em razão da declaração de valores inferiores nas GIAs apresentadas.
+3. A parte agravante alega ausência de justa causa para o prosseguimento do inquérito, argumentando que o lançamento definitivo do crédito tributário foi realizado em face de parte ilegítima, devido à extinção da pessoa jurídica indicada como devedora.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há justa causa para o prosseguimento do inquérito policial, considerando a alegação de que o lançamento definitivo do crédito tributário foi realizado em face de parte ilegítima.
+5. A questão também envolve a análise da possibilidade de trancamento do inquérito policial em fase preliminar, em razão da extinção da empresa investigada.
+III. Razões de decidir
+6. O trancamento de inquérito policial por meio de habeas corpus é medida excepcional, admissível apenas quando demonstrada a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de justa causa.
+7. A mera existência de discussão judicial acerca da validade do lançamento tributário não impede o andamento do inquérito policial, em razão do princípio da independência das instâncias.
+8. A investigação ainda se encontra em fase preliminar, sendo precipitado seu trancamento neste momento.
+IV. Dispositivo e tese
+9. Agravo regimental des provido.
+Tese de julgamento: "1. O trancamento de inquérito policial por meio de habeas corpus é medida excepcional, admissível apenas quando demonstrada a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de justa causa. 2. A mera existência de discussão judicial acerca da validade do lançamento tributário não i mpede o andamento do inquérito policial, em razão do princípio da independência das instâncias. 3. A investigação em fase preliminar não deve ser trancada, à míngua de robusta justificativa para tanto".
+Dispositivos relevantes citados: Lei n. 8.137/1990, art. 1º; CR/1988, art. 5º, LXXVIII.
+Jurisprudência relevante citada: STJ, AgRg no RHC 155.947/DF, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 09.08.2022; STJ, AgRg no RHC 172.001/RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 27.03.2023.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Como se constatou quando do julgamento monocrático, o trancamento de investigação criminal pela via do habeas corpus é medida excepcional, admissível apenas quando demonstrada, de plano, a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de justa causa.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRANCAMENTO DE INQUÉRITO POLICIAL POR HABEAS CORPUS. EXCEPCIONALIDADE. EXCESSO DE PRAZO. COMPLEXIDADE DO FEITO. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O trancamento de inquérito policial por meio de habeas corpus é medida excepcional, admissível apenas quando comprovada a atipicidade da conduta; a incidência de causas de extinção da punibilidade; ou, a falta de indícios mínimos de autoria ou provas de materialidade.
+2. O princípio da duração razoável do processo (art. 5º, LXXVIII, a Constituição Federal) aplica-se no âmbito dos inquéritos policiais.
+3. A aferição de eventual excesso de prazo para conclusão do inquérito não decorre de mera operação aritmética, devendo ser sopesada a complexidade da investigação, o número de investigados e necessidade de diligências a serem realizadas.
+4. Tratando-se de investigado solto, o prazo para conclusão do inquérito policial é impróprio, sendo possível sua prorrogação se a complexidade das investigações o exigir.
+Agravo regimental desprovido.
+(AgRg no RHC n. 155.947/DF, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022; grifou-se.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO SIMPLES. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O trancamento do processo por meio do habeas corpus - bem como do recurso ordinário em habeas corpus - é admissível em situação excepcional, quando emerge dos autos, de plano e sem necessidade de apreciação probatória, a falta de justa causa, a atipicidade da conduta, a extinção da punibilidade ou a inépcia formal da denúncia.
+2. No presente caso, uma vez que a Corte estadual, com base nas mesmas imagens mencionadas pela defesa, concluiu haver, em princípio, prova da materialidade e indícios de participação do réu no evento criminoso, decidir pela necessidade de se encerrar prematuramente a ação penal demandaria o reexame das provas até então acostadas aos autos, providência incabível na via eleita.
+7. Agravo regimental não provido.
+(AgRg no RHC n. 172.001/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/3/2023, DJe de 30/3/2023; grifou-se.)
+No caso em análise, o inquérito foi instaurado para apurar possível prática de crime contra a ordem tributária, consistente na redução fraudulenta de ICMS mediante declaração de valores inferiores nas GIAs apresentadas pela empresa MBR COMERCIAL LTDA, no período de março a novembro de 2014.
+Conforme sedimentado na jurisprudência desta Corte Superior, a configuração dos crimes materiais contra a ordem tributária, previstos no art. 1º da n. Lei 8.137/1990, depende do lançamento definitivo do tributo, nos termos da Súmula Vinculante n. 24. Uma vez constituído definitivamente o crédito tributário - o que, na espécie, ocorreu em 13/3/2019, segundo consta dos autos - não há óbice ao prosseguimento da investigação criminal.
+Ora, a mera existência de discussão judicial acerca da validade do lançamento tributário não tem o condão de obstar, por si só, o andamento do inquérito policial, em razão do princípio da independência das instâncias. Somente a efetiva desconstituição do crédito tributário, por decisão judicial ou administrativa, afastaria a justa causa para a persecução penal.
+Ressalte-se que a inscrição em dívida ativa e a expedição da respectiva CDA são irrelevantes para fins de caracterização do delito tributário, uma vez que se destinam apenas a formar título executivo em favor da Fazenda Pública. O que importa, para fins penais, repise-se, é o lançamento definitivo do tributo, que materializa a sonegação fiscal.
+A propósito:
+PENAL. PROCESSO PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA (LEI N. 8.137/90, ART. 1º, INCISOS I E II). PRESCRIÇÃO. MARCO INICIAL. DATA DA INSCRIÇÃO DO DÉBITO NA DÍVIDA ATIVA. IMPOSSIBILIDADE. DIA DO LANÇAMENTO DEFINITIVO DO CRÉDITO TRIBUTÁRIO. CONSECTÁRIO LÓGICO AO COMANDO DA SÚMULA VINCULANTE N. 24-STF. LAPSO PRESCRICIONAL NÃO ALCANÇADO. INÉPCIA DA DENÚNCIA. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA NÃO VENTILADA NOS ACÓRDÃOS RECORRIDOS (SÚMULAS N. 282 E 356-STF). INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO. AUTORIA COMPROVADA NA INSTÂNCIA ORDINÁRIA. ÓBICE DA SÚMULA 7-STJ. RESPONSABILIDADE PENAL OBJETIVA. DOLO ESPECÍFICO. CARACTERIZAÇÃO DO ESPECIAL FIM DE AGIR DO AGENTE EM SUPRIMIR O TRIBUTO. SUSPENSÃO CONDICIONAL DO PROCESSO. OFENSA AO ART. 386, VI, DO CPP. PROVAS DO PARCELAMENTO DO TRIBUTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. EXPRESSIVIDADE DO TRIBUTO SONEGADO. FUNDAMENTAÇÃO IDÔNEA. IDENTIDADE COM A AGRAVANTE DO ART. 12, INC. I, DA LEI N. 8.137/90. DUPLA VALORAÇÃO PELO MESMO FATO. INOCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO CARACTERIZADA. SUBSTITUIÇÃO DA PENA. PEDIDO PREJUDICADO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Conquanto a inscrição na dívida ativa pressuponha a finalização do procedimento administrativo fiscal, é o lançamento definitivo do crédito tributário que torna típica a conduta positivada no art. 1º, incisos I e II da Lei n. 8.137/90, oportunidade, então, em que se inicia a fluência do prazo prescricional.
+2. É de se entender que, no caso vertente, a publicação da intimação do contribuinte no Diário Oficial, para pagar o tributo devido ou apresentar impugnação ao auto de infração, já denotava o ato de lançamento do crédito tributário, porém sem o caráter da definitividade.
+3. A publicação no Diário Oficial, trazida pela defesa, apenas em sede de embargos de declaração, não demonstra, entretanto, qual foi a data que ocorreu o lançamento definitivo do crédito tributário, porquanto ausente a produção, a tempo e modo, de prova irrefutável na instância ordinária, no sentido de que não houve impugnação do contribuinte ao auto de infração lavrado pela Receita do Distrito Federal. Demais disso, a alegação da defesa tampouco infirma a data deduzida pelo próprio Ministério Público que, desde o oferecimento da denúncia, explanou que a definitividade do lançamento ocorreu em data não alcançada pela prescrição.
+4. A alegação de inépcia da denúncia não foi objeto de discussão pelo Colegiado a quo, dado que o recorrente deixou de suscitar os aventados defeitos da inicial acusatória nas razões do recurso integrativo, o que inviabilizou a análise do tema pela Corte de origem. Incidência das Súmulas 282 e 356 do STF, e Súmula 211 do STJ.
+5. Inviável, por implicar inadmissível revolvimento das provas (Súmula 7 do STJ) a pretensão de infirmar o decisum que, ao rebater ponto a ponto os argumentos da defesa, conclui pela suficiência de provas da sonegação tributária praticada pelo recorrente.
+6. Não vinga a ilação de que a condenação configuraria responsabilidade penal objetiva, pois o Tribunal recorrido não considerou apenas a condição de ser o recorrente proprietário da Fazenda Santa Prisca, à margem de qualquer prova do dolo, para chancelar a imputação do Ministério Público; foi além, ao entender caracterizado, na hipótese, o especial fim de agir em suprimir o tributo.
+7. O parcelamento do débito tributário não foi reconhecido no acórdão vergastado, dado o indeferimento dos pedidos do contribuinte pela autoridade administrativa-fiscal. Assim, com base nos mesmos documentos, não tem amparo a requerida suspensão condicional do processo, sob o argumento de violação do art. 386, inciso VI, do CPP, pois ilidir tal conclusão implicaria novo exame probatório, o que é, como dito, vedado em sede especial.
+8. A despeito de o desfalque ao Erário ser decorrência lógica da prática da conduta prevista no art. 1º, inciso I, da Lei n. 8.137/90, a expressiva quantia sonegada (R$ 857.295,11 - valor principal sem correção/multas) abona a majoração da sanção, em patamar que não desbordou da razoabilidade.
+9. A existência de agravante sobre a expressividade do imposto sonegado, prevista no art. 12, inciso I, da Lei n. 8.137/90, não impede o magistrado de considerar tal circunstância na primeira fase da dosimetria, desde que não incorra em dupla valoração do mesmo fato, o que não está configurado no caso (precedentes do STJ).
+10. Da mesma forma, se a decisão recorrida encontra-se em consonância com os precedentes desta Corte sobre a fundamentação da pena, não há que se falar em divergência com julgado desta Corte (que cogita o mesmo vício de fundamento), à falta de qualquer similitude fática entre o acórdão paradigma e o recorrido, conforme exigência do art. 255, § 2º, do RISTJ.
+11. Encontra-se prejudicado o pleito de substituição da pena privativa de liberdade por restritivas de direitos, pois, mantida a sanção em 4 anos e 2 meses de reclusão, incide a vedação do art. 44 do Código Penal.
+12. Recurso especial não provido.
+(REsp n. 1.378.555/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/3/2014, DJe de 15/4/2014; grifou-se.)
+No caso concreto, embora, efetivamente, haja ação de execução fiscal extinta sem resolução do mérito (processo n. 1500792-03.2021.8.26.0014), não há notícia nos autos de decisão judicial ou administrativa que tenha efetivamente anulado o auto de infração ou o lançamento definitivo do tributo. Portanto, subsiste a justa causa para a investigação das condutas supostamente fraudulentas.
+Ademais, como bem pontuado pela instância de origem, a investigação ainda se encontra em fase preliminar, sendo precipitado seu trancamento neste momento. Inclusive, o fato de a empresa investigada estar atualmente extinta não impede a apuração de crimes supostamente praticados à época em que se encontrava em atividade, podendo a responsabilidade recair sobre seus representantes legais, a depender do que for apurado.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
