@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DENIS WILSON PICOLO MONGE e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE A AÇÃO. INCONFORMISMO DA PARTE RÉ. PRELIMINAR. RECURSO DESERTO (ARTIGO 932, III, DO CPC). SENTENÇA MANTIDA. RECURSO NÃO CONHECIDO.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, a parte recorrente alega divergência jurisprudencial no que concerne ao direito do recorrente ao diferimento para pagamento das custas e preparo após julgamento do mérito do recurso de apelação, trazendo a seguinte argumentação:
+Trata-se de acórdão que não conheceu do recurso de apelação, julgando-o deserto após pedido de diferimento para pagar as custas e o preparo, após o julgamento do recurso, tendo em vista que o recorrente Wilson Roberto monge está com problema de varizes nas pernas, pernas inchadas, cada vez pior conforme as fotos apresentadas anteriormente, bem como os novos exames que seguem em anexo e os recursos estão sendo utilizados para a compra de remédios.
+Negando friamente o direito ao recorrente, o egrégio TJ/SP afrontou entendimento deste excelso STJ
+Veja excelências, o recorrente não esta se negando a pagar, apenas esta pedindo o diferimento do pagamento por motivo de doença para que tenha tempo de se recuperar e juntar o dinheiro (fl. 538).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 284/STF, tendo em vista que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razõe s do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17.3.2014.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.616.851/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt no AREsp 1.518.371/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15.5.2020; AgInt no AREsp 1.552.950/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8.5.2020; AgInt no AREsp 1.023.256/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24.4.2020; e AgInt nos EDcl no AREsp 1.510.607/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 1º.4.2020.
+Ademais, não foi comprovado o dissídio jurisprudencial, tendo em vista que somente julgados proferidos por órgãos colegiados são aptos à comprovação da divergência, não servindo como paradigma decisão monocrática de relator.
+Nesse sentido: "Não é cabível a utilização de decisão monocrática como paradigma para fins de comprovação da divergência jurisprudencial." (AgRg no AREsp n. 1.445.532/RS, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp n. 1.829.177/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.4.2020; AgInt no AREsp n. 1.615.607/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20.5.2020; AgInt no AREsp n. 1.466.234/MA, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 25.9.2019; e AgInt no REsp n. 1.825.110/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 22.5.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
