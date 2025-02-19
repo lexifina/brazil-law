@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pela executada em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. SUBSCRIÇÃO DEFICITÁRIA DAS AÇÕES DE TELEFONIA. FASE DE CUMPRIMENTO DE SENTENÇA. MAGISTRADO DE ORIGEM QUE JULGOU EXTINTA A EXECUÇÃO. INSURGÊNCIA DA EXECUTADA/IMPUGNANTE. ALEGADO EXCESSO DE EXECUÇÃO NOS CÁLCULOS ELABORADOS PELOS EXEQUENTES E CONSIDERADOS CORRETOS PELO MAGISTRADO SENTENCIANTE. PEDIDO GENÉRICO DE REFORMA DA DECISÃO NESTE PONTO. RECURSO QUE BEIRA A FALTA DE DIALETICIDADE. DESPROVIMENTO. HABILITAÇÃO RETARDATÁRIA. POSSIBILIDADE. FACULDADE DA PARTE CREDORA. PECULIARIDADE DO CASO CONCRETO QUE AUTORIZA A SUSPENSÃO DA EXECUÇÃO INDIVIDUAL ATÉ O ENCERRAMENTO DA RECUPERAÇÃO JUDICIAL, ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. ATUALIZAÇÃO QUE DEVE OCORRER ATÉ A DATA DO PAGAMENTO DO DÉBITO. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 9º, II, DA LEI 11.101/2005 AO CASO EM COMENTO. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Não foram providos os dois embargos de declaração sucessivamente opostos a esse acórdão.
+Alega-se que o acórdão recorrido contrariou os artigos 9º, 47, 49, 59 e 126 da Lei 11.101/2005 porque, mesmo ciente de que o crédito perseguido na execução foi gerado antes do pedido de recuperação judicial, o que o faz sujeito (o crédito) ao regime da recuperação, deixou de determinar que a atualização desse crédito ocorra até a data do pedido de recuperação.
+Noticia-se a ocorrência de divergência jurisprudencial.
+Inicialmente, registro que está sujeito aos efeitos da recuperação o crédito cujo fato gerador é anterior à data do pedido de recuperação. Nesse sentido:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. PEDIDO. FATO GERADOR ANTERIOR. SUBMISSÃO. EFEITOS. NOVAÇÃO. CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO. IMPOSSIBILIDADE. HONORÁRIOS. CAUSALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se o crédito se submete aos efeitos da recuperação judicial e, nessa hipótese, se o cumprimento de sentença deve ser extinto.
+3. Nos termos da iterativa jurisprudência desta Corte, consolidada no julgamento de recurso repetitivo, para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+4. Na hipótese, o fato gerador - descumprimento do contrato de prestação de serviços firmado entre as partes - é anterior ao pedido de recuperação judicial, motivo pelo qual deve ser reconhecida a natureza concursal do crédito.
+5. O credor não indicado na relação inicial de que trata o art. 51, III e IX, da Lei nº 11.101/2005 não está obrigado a se habilitar, pois o direito de crédito é disponível, mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, a recuperação judicial ainda não foi extinta por sentença transitada em julgado, podendo o credor habilitar seu crédito, se for de seu interesse, ou apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial, observadas as diretrizes estabelecidas no plano de recuperação aprovado, diante da novação ope legis (art. 59 da LREF).
+8. Nos casos de extinção do processo sem resolução de mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+9. Recurso especial conhecido e provido.
+(REsp n. 1.655.705/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 27/4/2022, DJe de 25/5/2022.)
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. DISCUSSÃO SOBRE INCLUSÃO DE CRÉDITO EM PLANO DE RECUPERAÇÃO JUDICIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. "DEMANDA ILÍQUIDA". APLICAÇÃO DO § 1º DO ART. 6º DA LEI N. 11.101/2005. CRÉDITO REFERENTE À AÇÃO INDENIZATÓRIA. OBRIGAÇÃO EXISTENTE ANTES DO PEDIDO DE SOERGUIMENTO. INCLUSÃO NO PLANO DE RECUPERAÇÃO. VIOLAÇÃO AO ART. 59 DA LEI N. 11.101/2005. RECURSO PROVIDO.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha a examinar uma a uma as alegações e os argumentos expendidos pelas partes. Ademais, não se configura omissão quando o julgador adota fundamento diverso daquele invocado nas razões recursais.
+2. No caso, verifica-se que a controvérsia principal está em definir se o crédito decorrente de sentença condenatória, proferida em autos de ação indenizatória ajuizada antes do pedido de soerguimento, submete-se, ou não, aos efeitos da recuperação judicial em curso.
+3. A ação na qual se busca indenização por danos morais - caso dos autos - é tida por "demanda ilíquida", pois cabe ao magistrado avaliar a existência do evento danoso, bem como determinar a extensão e o valor da reparação para o caso concreto.
+4. Tratando-se, portanto, de demanda cujos pedidos são ilíquidos, a ação de conhecimento deverá prosseguir perante o juízo na qual foi proposta, após o qual, sendo determinado o valor do crédito, deverá ser habilitado no quadro geral de credores da sociedade em recuperação judicial. Interpretação do § 1º do art. 6º da Lei n. 11.101/2005.
+5. Segundo o caput do art. 49 da Lei n. 11.101/2005, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos.
+6. A situação dos autos demonstra que o evento danoso, que deu origem ao crédito discutido, bem como a sentença que reconheceu a existência de dano moral indenizável e dimensionou o montante da reparação, ocorreram antes do pedido de recuperação judicial.
+7. Na hipótese de crédito decorrente de responsabilidade civil, oriundo de fato preexistente ao momento da recuperação judicial, é necessária a sua habilitação e inclusão no plano de recuperação da sociedade devedora.
+8. Recurso especial provido.
+(REsp n. 1.447.918/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/4/2016, DJe de 16/5/2016.)
+Ademais, em caso de crédito sujeito aos efeitos da recuperação, sua atualização deve ser limitada à data do pedido de recuperação. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DOS AGRAVANTES.
+ .. .
+2. Segundo a orientação jurisprudencial do Superior Tribunal de Justiça, a atualização do crédito habilitado no plano de soerguimento, mediante incidência de juros de mora e correção monetária, é limitada à data do pedido de recuperação judicial, respeitando a sua novação legal imposta naquele momento. Precedentes do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.554.686/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+PROCESSUAL CIVIL E DIREITO EMPRESARIAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. HABILITAÇÃO RETARDATÁRIA DO CREDOR PRETERIDO. FACULDADE. INOVAÇÃO RECURSAL. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. CRÉDITO CONCURSAL. ATUALIZAÇÃO ATÉ O PEDIDO DE RECUPERAÇÃO JUDICIAL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+ .. .
+3. Nos termos da jurisprudência desta Corte, "a atualização do crédito habilitado no plano de soerguimento, mediante incidência de juros de mora e correção monetária, é limitada à data do pedido de recuperação judicial, respeitando a sua novação legal imposta naquele momento" (AgInt no AREsp 1.554.686/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020).
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.960.636/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 2/3/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RECUPERAÇÃO JUDICIAL. ATUALIZAÇÃO DE VALORES. TERMO FINAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O crédito objeto de pedido de recuperação judicial será atualizado por meio de incidência de correção monetária e juros de mora calculados até o dia do referido pedido.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.793.799/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+No caso, não havendo controvérsia quanto à concursalidade do crédito (e-STJ fls. 442-444), o acórdão recorrido confirmou sentença que, por sua vez, determinou a atualização do crédito até a data do pagamento, para o caso em que o credor optar por não habilitar o crédito na recuperação. Esse entendimento, como visto, diverge da jurispr udência do Superior Tribunal de Justiça (STJ).
+Em face do exposto, dou provimento ao recurso para determinar que o crédito em discussão na demanda deve ser atualizado até a data do pedido de recuperação.
+Intimem-se.
+EMENTA
