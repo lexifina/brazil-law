@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/02/2025 a 19/02/2025, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. OMISSÃO QUANTO AO PEDIDO DE GRATUIDADE DE JUSTIÇA. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. De fato, o acórdão embargado foi omisso no tocante à análise do pedido de gratuidade de justiça.
+3. "O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça" (AgInt no AREsp 1.563.316/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/2/2020). No mesmo sentido: AgInt no AREsp n. 2.568.814/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 15/5/2024; AgInt no AREsp n. 2.501.062/GO, relator Ministro Marco Buzzi, Quarta Turma, DJe de 26/6/2024; e AgInt no AgInt no REsp n. 2.099.866/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.
+4. Embargos de declaração acolhidos, sem efeitos infringentes.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos pelo SINDICATO DOS TRABALHADORES EM ESCOLAS PÚBLICAS NO DISTRITO FEDERAL contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no recurso especial, consoante a seguinte ementa (fls. 1.063-1.064):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. IMPOSSIBILIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/06/2024, DJe de 26/06/2024).
+2. "Não cumpre ao Superior Tribunal de Justiça, na via estreita do recurso especial, analisar a suposta violação de dispositivos constitucionais, nem mesmo para fins de prequestionamento, sob pena de usurpação da competência constitucionalmente atribuída ao Supremo Tribunal Federal para tratar da matéria de índole eminentemente constitucional, através do processamento e julgamento de recursos extraordinários, nos termos do art. 102, III, da Constituição Federal" (REsp n. 2.156.102, Ministro Francisco Falcão, DJe de 23/08/2024).
+3. Para infirmar a conclusão a que chegou o tribunal local no sentido da inocorrência de litispendência, seria necessário o reexame do quadro fático-probatório, o que esbarra no óbice da Súmula 7/STJ.
+4. Quanto à prescrição, o tribunal a quo expressamente consignou que o Tema 880/STJ é inaplicável à hipótese, haja vista a não caracterização de demora no fornecimento de documentação requerida ao ente público para apresentação do respectivo cumprimento do título judicial. Assim, a revisão das premissas em que se baseou o tribunal de origem esbarra no óbice da Súmula 7/STJ, dada a impossibilidade de incursão no quadro fático-probatório dos autos nesta estreita via recursal.
+5. Agravo interno a que se nega provimento.
+Aduz a parte embargante que o colegiado omitiu-se no tocante ao pedido de concessão da justiça gratuita.
+Impugnação da parte embargada às fls. 1.118-1.119.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. OMISSÃO QUANTO AO PEDIDO DE GRATUIDADE DE JUSTIÇA. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. De fato, o acórdão embargado foi omisso no tocante à análise do pedido de gratuidade de justiça.
+3. "O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça" (AgInt no AREsp 1.563.316/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/2/2020). No mesmo sentido: AgInt no AREsp n. 2.568.814/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 15/5/2024; AgInt no AREsp n. 2.501.062/GO, relator Ministro Marco Buzzi, Quarta Turma, DJe de 26/6/2024; e AgInt no AgInt no REsp n. 2.099.866/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.
+4. Embargos de declaração acolhidos, sem efeitos infringentes.
+VOTO
+Com razão a parte embargante.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+De fato, o acórdão embargado foi omisso no tocante à análise do pedido de gratuidade de justiça.
+Quanto ao ponto, todavia, anoto que "o entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça" (AgInt no AREsp 1.563.316/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/2/2020). No mesmo sentido: AgInt no AREsp n. 2.568.814/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 15/5/2024; AgInt no AREsp n. 2.501.062/GO, relator Ministro Marco Buzzi, Quarta Turma, DJe de 26/6/2024; e AgInt no AgInt no REsp n. 2.099.866/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.
+Ante o exposto, acolho os embargos de declaração, nos termos acima expostos, sem efeitos infringentes.
+É como voto.
