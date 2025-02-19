@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado entre o JUÍZO FEDERAL DA 21ª VARA DE RECIFE - SJ/PE, ora suscitante, e o JUÍZO FEDERAL DA 2ª VARA CÍVEL DE BRASÍLIA - SJ/DF, ora suscitado.
+O presente conflito versa sobre a competência para processar e julgar cumprimento de sentença de título judicial formado no bojo da Ação Civil Pública n. 0005019-15.1997.4.03.6000 no Juízo Federal da SJ/DF que declinou a competência para o Juízo Federal da SJ/DF (e-STJ fls. 5/6), que, por vez, suscitou o conflito de negativo de competência (e-STJ fl. 7).
+O Ministério Público Federal manifestou-se pela ausência de interesse (e-STJ fls. 126/130).
+Passo a decidir.
+Nos termos do art. 34, XXII, do RISTJ dispõe que "são atribuições do relator: decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+A Primeira Seção desta Corte, no julgamento do Conflito de Competência 131.123/DF, decidiu que obrigar os beneficiados pela sentença coletiva a liquidá-la e a executá-la no foro em que a ação coletiva foi julgada implica inviabilização da tutela dos direitos individuais. A propósito, eis a ementa do julgado:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR PÚBLICO FEDERAL. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL NO DOMICÍLIO DO AUTOR. FORO DIVERSO DAQUELE DO PROCESSO DE CONHECIMENTO. POSSIBILIDADE. CONFLITO CONHECIDO. COMPETÊNCIA DO TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+1. A Corte Especial do STJ fixou, sob o rito do art. 543-C do CPC e da Resolução STJ 8/2008, que "a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário" (REsp 1.243.887/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 12.12.2011).
+2. A execução individual de sentença condenatória proferida no julgamento de ação coletiva não segue a regra geral dos arts. 475-A e 575, II, do Código de Processo Civil, pois inexiste interesse apto a justificar a prevenção do Juízo que examinou o mérito da ação coletiva para o processamento e julgamento das execuções individuais desse título judicial.
+2. Obrigar os beneficiados pela sentença coletiva a liquidá-la e a executá-la no foro em que a ação coletiva foi julgada implica inviabilização da tutela dos direitos individuais.
+3. No mesmo sentido: AgRg na Rcl 10.318/RS, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, DJe 29.4.2013; CC 96.682/RJ, Rel. Ministro Arnaldo Esteves Lima, Terceira Seção, DJe 23.3.2010; REsp 1.122.292/GO, Rel. Ministro Castro Meira, Segunda Turma, DJe 4.10.2010; AgRg no REsp 1.316.504/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 20.8.2013; REsp 1.098.242/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 28.10.2010.
+4. Agravo Regimental não provido. (AgRg CC n. 131.123/DF, Rel. Min. HERMAN BENJAMIN, Primeira Seção, DJe de 21/3/2014).
+Nesse sentido, cito as seguintes decisões monocráticas em casos idênticos: CC 209.322/MS, Rel. Min. PAULO SÉRGIO DOMINGUES, Terceira Seção; e CC 208.757/MS, Rel. Min. BENEDITO GONÇALVES, Terceira Seção.
+Ante o exposto, nos termos do art. 34, XXII, do RISTJ, CONHEÇO do conflito para declarar a competência do JUÍZO FEDERAL DA 2ª VARA CÍVEL DE BRASÍLIA - SJ/DF, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
