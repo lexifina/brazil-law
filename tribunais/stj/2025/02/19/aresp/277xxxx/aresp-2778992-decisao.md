@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por GAFISA SPE-85 EMPREENDIMENTOS IMOBILIÁRIOS LTDA., GAFISA S/A e GAFISA 80 PARTICIPAÇÕES S/A. contra decisão que inadmitiu o recurso especial.
+O apelo extremo, com fundamento no art. 105, inciso III, alíne as "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Rondônia assim ementado:
+"AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR ART. 28, § 5º, DO CDC.
+Para fins de aplicação da Teoria Menor da desconsideração da personalidade jurídica (art. 28, § 5º, do CDC), basta que o consumidor demonstre o estado de insolvência do fornecedor ou o fato de a personalidade jurídica representar um obstáculo ao ressarcimento dos prejuízos causados" (e-STJ fl. 52).
+Em suas razões (e-STJ fls. 93/102), as recorrentes apontam, além de divergência jurisprudencial, violação do art. 50, §§ 2º e 4º e 981 e 1.052 do Código Civil, pois não houve a demonstração dos requisitos necessários à desconsideração da personalidade jurídica.
+Sustentam que o instituto da desconsideração da personalidade jurídica pressupõe naturalmente a existência de requisitos específicos, quais sejam, o desvio de finalidade e a confusão patrimonial a teor do artigo 50 do Código Civil, de modo que o mero inadimplemento de obrigações é circunstância insuficiente para responsabilização dos suscitados.
+Aduzem que a mera existência de grupo econômico não legitima a desconsideração da personalidade jurídica.
+Sem contrarrazões, o recurso foi inadmitido na origem, daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+A pretensão recursal se encontra lastreada na alegada violação do artigo 50 do Código Civil.
+Alega a parte requerente que
+"Se não há atribuição ao sócio de quaisquer condutas enumeradas no artigo 50 do Código Civil, isto é, desvio de finalidade da pessoa jurídica ou confusão patrimonial de bens particulares dos sócios com o patrimônio da empresa inviável é a desconsideração da personalidade jurídica"
+Defendem, ainda, que o mero inadimplemento de obrigações é circunstância insuficiente para responsabilização das suscitadas.
+De outro lado, a Corte local, ao apreciar o agravo de instrumento interposto pelos requerentes, explicitou o seguinte:
+"A pretensão recursal cinge-se ao preenchimento dos requisitos para desconsideração da personalidade jurídica da empresa Gafisa SPE-85 Empreendimentos Imobiliários Ltda.
+Infere-se dos autos originários que o incidente de desconsideração da personalidade jurídica foi instaurado em face da empresa Gafisa SPE-85 Empreendimentos Imobiliários Ltda. em virtude da ausência de bens para satisfazer o cumprimento da sentença procedente proferida na ação indenizatória movida pelos agravados Áureo e Márcia.
+O ponto nevrálgico da lide é a caracterização, ou não, da relação de consumo entre as partes, porque no ordenamento jurídico brasileiro existem dois sistemas adotados na análise da desconsideração da personalidade jurídica: a teoria maior oriunda do art. 50 do Código Civil e a teoria menor presente no art. 28, §5º do Código de Defesa do Consumidor.
+A primeira (maior) exige a inequívoca comprovação do desvio de finalidade ou da confusão patrimonial, enquanto a segunda (menor) não requer prova do abuso de direito, apenas do estado de insolvência do fornecedor/prestador ou o fato de a personalidade jurídica representar um obstáculo ao ressarcimento dos prejuízos causados.
+A teoria menor da desconsideração tem como pressuposto o risco empresarial que deve ser suportado por aqueles que integram e gerenciam a pessoa jurídica e não o consumidor, razão pela qual entendo que tal circunstância é aplicável ao presente caso por se tratar de relação consumerista.
+Isso porque o art. 2º do CDC conceitua consumidor como "toda pessoa físicou jurídica que adquire ou utiliza produto ou serviço como destinatário final" e o simples fato da intenção de alugar o imóvel após sua conclusão não é suficiente para descaracterizar a destinação original do bem, na medida em que o aluguel é fato futuro e incerto. Ademais, é inegável a condição de hipossuficiência das pessoas físicas compradoras em face da pessoa jurídica vendedora, não estando as partes em igualdade no contrato objeto da lide, motivo pelo qual também se reconhece o caráter consumerista da relação entre as partes.
+A jurisprudência do STJ se firmou no sentido de que, "de acordo com a Teoria Menor, a incidência da desconsideração se justifica: a) pela comprovação da insolvência da pessoa jurídica para o pagamento de suas obrigações, somada à má administração da empresa (art. 28, caput, do CDC); ou b) pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, nos termos do § 5º do art. 28 do CDC" (REsp 1.735.004/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 26.06.2018, D Je de 29.06.2018).
+Desta forma, considerando que restou demonstrada a efetiva relação de consumo entre as partes e também o estado de insolvência do fornecedor/executado, imperioso concluir pela aplicação da Teoria Menor da desconsideração da personalidade jurídica e consequente autorização da inclusão das demais empresas no polo passivo da ação, de modo que não há equívoco nem vício na decisão agravada" (e-STJ fls. 46/55 grifou-se).
+Com efeito, o acórdão do Tribunal de origem está de acordo com a jurisprudência do Superior Tribunal de Justiça, o que atrai a incidência da Súmula nº 568/STJ.
+Nesse sentido:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. INCIDENTE. RELAÇÃO DE CONSUMO. ART. 28, § 5º, DO CDC. TEORIA MENOR. SÓCIO. ATOS DE GESTÃO. PRÁTICA. COMPROVAÇÃO. AUSÊNCIA. INAPLICABILIDADE. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. INEXISTÊNCIA. MULTA. AFASTAMENTO.
+1. Para fins de aplicação da Teoria Menor da desconsideração da personalidade jurídica (art. 28, § 5º, do CDC), basta que o consumidor demonstre o estado de insolvência do fornecedor e o fato de a personalidade jurídica representar um obstáculo ao ressarcimento dos prejuízos causados.
+2. A despeito de não se exigir prova de abuso ou fraude para fins de aplicação da Teoria Menor da desconsideração da personalidade jurídica, tampouco de confusão patrimonial, o § 5º do art. 28 do CDC não dá margem para admitir a responsabilização pessoal de quem, embora ostentando a condição de sócio, não desempenha atos de gestão, ressalvada a prova de que contribuiu, ao menos culposamente, para a prática de atos de administração.
+3. Na hipótese em que os embargos de declaração objetivam prequestionar a tese para fins de interposição de recurso especial, deve ser afastada a multa do art. 538, parágrafo único, do Código de Processo Civil de 1973. Súmula nº 98/STJ.
+4. Recurso especial provido" (REsp n. 1.900.843/DF, relator Ministro Paulo de Tarso Sanseverino, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/5/2023, DJe de 30/5/2023.)
+Ademais, rever o entendimento que considerou presentes os requisitos para a decretação da desconsideração da personalidade jurídica demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial em virtude da incidência da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
