@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WUIBERT RUAN FERNANDES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2350837-15.2024.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante delito em 14/10/2024, custódia posteriormente convertida em preventiva, pela suposta prática dos delitos capitulados no art. 33, caput, art. 35, caput, c/c o art. 40, inciso III, todos da Lei n. 11.343/2006, pelos quais foi denunciado.
+Neste writ, a parte impetrante sustenta a ausência de fundamentação idônea e dos requisitos necessários para a decretação da prisão cautelar, notadamente porque a segregação do paciente teria sido decretada com base na gravidade abstrata do delito.
+Salienta que o réu possui condições pessoais favoráveis.
+Destaca a possibilidade de aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da custódia processual imposta ao paciente, substituindo-a por medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido (fls. 47/48).
+As informações foram prestadas (fls. 54/65 e 68/78).
+O Ministério Público Federal opinou pelo não conhecimento do mandamus ou pela denegação da ordem (fls. 80/84).
+É o relatório.
+DECIDO.
+No caso, o Juízo de primeiro grau, ao indeferir o pleito de revogação da segregação cautelar do paciente, fundamentou a decisão nos seguintes termos (fls. 59/60; grifamos):
+Não obstante as alegações da defesa, as condições pessoais favoráveis aos acusados - primário, bons antecedentes, residência fixa e trabalho lícito - não são causas que impedem a decretação da prisão preventiva, e nem têm força para alcançar a sua revogação, mormente quando presentes os motivos autorizadores da prisão preventiva, como no caso em tela.
+Resta claro, ainda, que as medidas cautelares alternativas à prisão preventiva (art. 319 do CPP) não se mostram suficientes, adequadas e proporcionais à gravidade dos fatos em tese praticados e à periculosidade dos denunciados, vez que o réu Ítalo é reincidente (Processo nº 1511940-19.2019 ou 972-79.2020, fls. 148/149; e Processo nº 9735-40.2022 ou 1502466-52.2019, fls. 149/151) e ambos os acusados, juntamente com demais corréus, supostamente transportavam e guardavam vultuosa quantidade de drogas, totalizando em massa líquida 712.215 gramas de maconha, armazenadas em 844 tijolos e 9.360 gramas de maconha, armazenadas em sacos plásticos transparentes, tudo nas imediações de instituição de ensino.
+Da mesma forma, não se vislumbram os requisitos necessários à substituição da prisão preventiva por domiciliar, previstos no artigo 318 do Código de Processo Penal.
+O Tribunal de origem, por sua vez, ao manter a decisão de primeira instância quanto à prisão processual do custodiado, consignou o que segue (fls. 72/74; grifamos):
+Em consulta aos autos do processo originário, extrai-se que o paciente teve a prisão decretada e foi denunciado, porque, em data incerta, mas ao menos até o dia 14 de outubro de 2024, por volta das 14h30, na cidade e Comarca de Carapicuíba, associou-se com outros quatro agentes, para o fim de praticarem, reiteradamente ou não, o crime do artigo 33, caput, da Lei nº 11.343/06.
+Consta ainda da exordial que, na tarde de 14 de outubro de 2024, por volta das 14h30, na Rua Maria Fausta Martins, 556, Jardim dos Manacás, na cidade e comarca de Carapicuíba, o paciente e outros quatro agentes, agindo em concurso e com unidade de desígnios entre si, transportavam e guardavam, nas imediações de estabelecimento de ensino, para fins de traficância, 844 (oitocentos e quarenta e quatro) tijolos da droga tetrahidrocannabinol ("maconha") e 4.858 (quatro mil, oitocentos e cinquenta e oito) sacos plásticos transparentes contendo tetrahidrocannabinol ("maconha"), sem autorização e em desacordo com determinação legal e regulamentar (fls. 110/116 dos autos originários).
+À vista disso, o paciente foi preso em flagrante delito, prisão homologada e convertida em preventiva (fls. 69/71 dos autos originários).
+De proêmio, a averiguação do envolvimento ou não do paciente nos fatos apurados é matéria que demanda maturidade processual, o que é incompatível com a estreita via do writ. Ainda assim, analiso a legalidade do ato ora combatido.
+O Juízo impetrado, ao manter a prisão preventiva, o fez de forma fundamentada (fls. 212/213 dos autos originários), o que, inclusive corroborou o recebimento da denúncia (fls. 163/167).
+O fummus comissi delicti emerge dos elementos informativos (fls. 1/9, 31/35, 39/40 e 42/44 dos autos originários).
+Por sua vez, o periculum libertatis está consubstanciado na necessidade de manutenção da ordem pública e da aplicação da lei penal. A esse respeito, na ocasião da audiência de custódia, consignou-se que "o crime é equiparado a hediondo e as matérias de direito levantadas em favor dos custodiados serão analisadas no momento oportuno. Salientando que foi apreendida grande quantidade de droga com os custodiados, além de haver investigação prévia indicando que estão inseridos em organização criminosa." (fls. 69/70 dos autos originários).
+Posteriormente, tal fundamento foi mantido na decisão de fls. 212/213 dos autos originários, que indeferiu a revogação da prisão preventiva, diante da inalteração do quadro fático e dos pressupostos e requisitos que a amparam.
+(..)
+Ademais, diferentemente do quanto aduzido pelos impetrantes, a primariedade não impede a decretação da prisão preventiva, conforme entendimento assentado pelo C. STJ: "Esta Corte Superior possui entendimento firme no sentido de que a presença de condições pessoais favoráveis do agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela" (STJ, 5ª Turma, RHC 110.061/AL, Rel. Min. Joel Ilan Paciornik, D Je 22/08/2019).
+Nessa senda, ao considerar a gravidade concreta dos fatos, envolvendo vultosa quantidade de entorpecente, a autoridade impetrada por bem entendeu que a imposição de medidas cautelares diversas da prisão seria insuficiente e incompatível com a periculosidade do paciente.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a necessidade da prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada a partir da apreensão de expressiva quantidade de drogas (712.215g de maconha), nas imediações de instituição de ensino (fl. 61).
+Tais circunstâncias demonstram a periculosidade do agente e são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado recei o de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..)
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido.
+(AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+ EMENTA
