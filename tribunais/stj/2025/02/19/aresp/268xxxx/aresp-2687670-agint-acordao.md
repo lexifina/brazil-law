@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022, AMBOS DO CPC. NÃO OCORRÊNCIA. MATÉRIA DECIDIDA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SERVIDOR PÚBLICO FEDERAL. REAJUSTE. URP DE ABRIL DE 1988. REESTRUTURAÇÃO DOS CARGOS E REMUNERAÇÃO. ABSORÇÃO DO REAJUSTE DE 3,77%. REVISÃO DO JULGADO QUE DEMANDARIA O REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há falar em violação aos arts. 489 e 1.022, ambos do CPC, quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. O Tribunal de origem, após análise dos elementos fáticos contidos nos autos, concluiu que as diferenças correspondentes ao reajuste pela URP de abril/1988 e reconhecidas no título executivo já foram pagas, ante a absorção do reajuste pela reestruturação de cargos no ano de 2004. Assim, alterar o entendimento adotado pela Corte local, a fim de rever os limites da coisa julgada ou de analisar se houve ou não a quitação das diferenças pleiteadas, demandaria o reexame do conjunto fático-probatório constante dos autos, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ELIZAIDE SEIXAS MANGHIRMALANI contra decisão monocrática que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, nos seguintes termos (fls. 563-565):
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, pois a Corte regional julgou integralmente a lide e solucionou a demanda tal como lhe foi apresentada.
+A propósito:
+(..)
+É evidente que, para modificar a diretriz firmada no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que exigiria incursão no acervo fático- probatório dos autos, vedada em Recurso Especial conforme dispõe a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à contrariedade aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Os embargos de declaração opostos foram rejeitados (fls. 590-593).
+A agravante alega que "o v. Acórdão não trata, sequer minimamente, dos fundamentos legais e jurídicos trazidos pela agravante acerca do disposto nos arts. 508 e 535, VI, do CPC/15, imprescindíveis ao adequado deslinde da questão" (fl. 601).
+Afirma que deve ser afastado o óbice do enunciado n. 7 da Súmula do STJ, porquanto "discute-se aqui, tão somente, se a alegada causa extintiva ou modificativa da obrigação, ocorrida antes mesmo do ajuizamento da ação, do proferimento de sentença e de seu trânsito em julgado, pode ser utilizada e acolhida para fins de afastamento da coisa julgada em sede de cumprimento de sentença" (fl. 603).
+Requer a reconsideração da decisão agravada ou a reforma do julgado para que seja dado provimento ao recurso especial.
+As contrarrazões não foram apresentadas (fls. 612-613).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022, AMBOS DO CPC. NÃO OCORRÊNCIA. MATÉRIA DECIDIDA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SERVIDOR PÚBLICO FEDERAL. REAJUSTE. URP DE ABRIL DE 1988. REESTRUTURAÇÃO DOS CARGOS E REMUNERAÇÃO. ABSORÇÃO DO REAJUSTE DE 3,77%. REVISÃO DO JULGADO QUE DEMANDARIA O REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há falar em violação aos arts. 489 e 1.022, ambos do CPC, quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. O Tribunal de origem, após análise dos elementos fáticos contidos nos autos, concluiu que as diferenças correspondentes ao reajuste pela URP de abril/1988 e reconhecidas no título executivo já foram pagas, ante a absorção do reajuste pela reestruturação de cargos no ano de 2004. Assim, alterar o entendimento adotado pela Corte local, a fim de rever os limites da coisa julgada ou de analisar se houve ou não a quitação das diferenças pleiteadas, demandaria o reexame do conjunto fático-probatório constante dos autos, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O agravo interno não merece prosperar, devendo ser mantida a improcedência do recurso especial.
+De início, quanto à alegada violação aos artigos 489, § 1º, incisos III e IV e 1.022, inciso II e § único, inciso II, ambos do Código de Processo Civil tem-se, da leitura do acórdão recorrido (fls. 378-383 e 421-425), que o colegiado regional analisou fundamentadamente as questões que lhe foram submetidas, examinando os pontos essenciais ao deslinde da controvérsia, não havendo falar em nulidade qualquer.
+Registre-se que a mera insatisfação com o conteúdo da decisão proferida não importa em violação dos dispositivos legais supramencionados. Com efeito, o fato de o tribunal haver decidido o recurso de forma diversa da defendida nas razões recursais, elegendo fundamentos distintos daqueles propostos pela parte, não configura omissão, contradição ou ausência de fundamentação. Nesse sentido: AgInt no AREsp n. 2.347.060/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgInt no REsp n. 2.130.408/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Ademais, "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentam. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (AgInt no AREsp n. 1.570.205/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2023, DJe de 19/4/2024).
+No caso, o Tribunal a quo decidiu integralmente a lide, nos seguintes termos (fls. 380-381):
+Preliminarmente, não há que se falar em violação à coisa julgada, porquanto o título executivo tão somente afastou a ocorrência da prescrição do fundo de direito, reconhecendo a existência do direito ao reajuste pleiteado, não constituindo óbice à apreciação quanto à existência ou não de diferenças a serem executadas.
+Na hipótese dos autos, as fichas financeiras acostadas aos autos pela executada comprovam a percepção pela exequente de vantagens pecuniárias instituídas pela Medida Provisória nº 216/2004, convertida na Lei nº 11.090/2005, bem como do reajuste dos vencimentos básicos nos termos do novo regime jurídico previsto para os cargos do INCRA, cujos efeitos financeiros retroagiram a agosto de 2004, nos termos do artigo 40 da referida Lei.
+Neste contexto, denota-se que as diferenças correspondentes ao reajuste pela URP de abril/1988 de 3,77% reconhecidas no título executivo já foram pagas, ante a absorção deste reajuste pela reestruturação de cargos em 2004.
+Neste sentido:
+(..)
+Por fim, nos termos do artigo 85 do CPC, condeno a parte exequente ao pagamento de honorários advocatícios, que fixo em 10% (dez por cento) sobre o valor da execução.
+Ante o exposto, dou provimento ao agravo de instrumento para extinguir o cumprimento de sentença e para condenar a parte exequente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor da execução, na forma da fundamentação acima.
+É o voto.
+Verifica-se, pois, que o Tribunal de origem, após análise dos elementos fáticos contidos nos autos, concluiu que as diferenças correspondentes ao reajuste pela URP de abril/1988 (3,77%) e reconhecidas no título executivo já foram pagas, ante a absorção do reajuste pela reestrutu ração de cargos no ano de 2004. Assim, alterar o entendimento adotado pela Corte local, a fim de rever os limites da coisa julgada ou de analisar se houve ou não a quitação das diferenças pleiteadas, demandaria o reexame do conjunto fático-probatório constante dos autos, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+2. "Rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal, para avaliar os limites objetivos e subjetivos da coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no REsp n. 1.861.500/AM, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23/4/2021). A propósito: AgInt no REsp n. 1.884.789/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, DJe de 17/11/2022; AgInt no AREsp n. 1.170.224/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 14/9/2020.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.075.210/RN, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/10/2024, DJe de 10/10/2024).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACUMULAÇÃO DE CARGOS PÚBLICOS. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AÇÃO RESCISÓRIA. OFENSA AO ART. 966, INCISOS IV E VII, DO CPC. VIOLAÇÃO À COISA JULGADA E EXISTÊNCIA DE PROVA NOVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO DESPROVIDO.
+(..)
+2. Não cabe a esta Corte Superior confrontar o conteúdo das decisões recorrida e transitada em julgado, a fim de avaliar se aquela se ajusta aos limites fixados nesta, se o Tribunal local expressamente consignou que não há incompatibilidade entre as coisas julgadas.
+3. Considerando a fundamentação do acórdão recorrido, os argumentos utilizados pela parte recorrente - no sentido de que houve ofensa à coisa julgada - somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade ao enunciado da Súmula n. 7 do STJ.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.262.429/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Destaco, por fim, que "a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, D Je de 11/4/2023).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
