@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOSIMAR DOS SANTOS COSTA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que não conheceu do recurso especial em virtude da alegação de matéria constitucional e da incidência da Súmula n. 7, STJ.
+Consta dos autos que o agravante se insurgiu contra o acórdão que deu provimento ao recurso em sentido estrito do Ministério Público para pronunciá-lo pelo crime do art. 121, § 2º, IV, c/c. art. 14, II, do Código Penal. Na oportunidade, a defesa alegou violação ao art. 386 do Código de Processo Penal e ao art. 5º, inciso LV, da Constituição.
+Nas razões recursais, o agravante afirma o apelo nobre visa à "revaloração objetiva dos elementos circunstancias e acidentais delineados no acórdão e o controle da legalidade da consequência jurídica eleita por este" (fls. 617-633).
+Em contraminuta, o Ministério Público do Estado de Mato Grosso requereu o não conhecimento do agravo, nos termos da Súmula n. 182, STJ, ou, subsidiariamente, a inadmissão do recurso especial com fundamento na Súmula n. 284, STF (fls. 638-642).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 660-661).
+É o relatório. DECIDO.
+Compulsando os autos, verifico que o agravado deixou de impugnar especificamente o fundamento atinente à matéria constitucional.
+Além disso, as razões recursais apenas afirmam que o recurso especial visa à revaloração jurídica da prova, sem, contudo, demonstrar, a partir do devido cotejo entre as peças, que a Súmula n. 7, STJ, deve ser, de fato, afastada.
+Por conseguinte, o agravo não deve ser conhe cido, nos termos da Súmula n. 182, STJ, por ofensa ao princípio da dialeticidade.
+A propósito:
+"(..) 3. É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016)." (AgRg no AREsp n. 2.459.378/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 27/2/2024, DJe de 6/3/2024.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISPENSA INDEVIDA DE LICITAÇÃO (ART. 89, CAPUT, DA LEI 8.666/93). PLEITO ABSOLUTÓRIO. ATIPICIDADE DA CONDUTA DECORRENTE DE REFORMATIO IN MELLIUS PROMOVIDA PELO ARTIGO 75 DA LEI 14.133/2021. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE. ÓBICE DAS SÚMULAS 283 E 284, STF. SUPOSTA DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE ADEQUADO COTEJO ANALÍTICO ENTRE OS JULGADOS. ABOLITIO CRIMINIS. NÃO CONFIGURADA. CONTINUIDADE NORMATIVO-TÍPICA. ALEGADA ATIPICIDADE DA CONDUTA POR AUSÊNCIA DE DOLO ESPECÍFICO. SÚMULA 7, STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182, STJ. DESPROVIMENTO DO AGRAVO REGIMENTAL.
+I - Não compete ao Superior Tribunal de Justiça se manifestar sobre tema constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência constitucionalmente reservada ao Supremo Tribunal Federal . Precedentes.
+II - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficiente a reiteração das alegações deduzidas no recurso anterior, sem a argumentação necessária para infirmar a decisão recorrida. Incidência da Súmula n. 182, STJ. Precedentes.
+Agravo regimental desprovido." (AgRg no AREsp n. 2.157.210/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/9/2023, DJe de 2/10/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
