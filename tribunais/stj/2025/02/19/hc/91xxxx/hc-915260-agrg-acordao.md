@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A análise do excesso de prazo deve considerar a atuação conjunta de todos os atores processuais, não sendo aferível apenas pela soma aritmética dos prazos processuais.
+2. A demora na tramitação processual decorre, em grande parte, da conduta da defesa e das particularidades do caso, não se podendo atribuir ao Estado a responsabilidade exclusiva pela demora.
+3. A alegação de supressão de instância não se sustenta, pois a questão do excesso de prazo foi amplamente examinada pela Corte local.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por QUEMELLY LADISLAU VALENTIM contra a decisão de fls. 1.372-1.376, que denegou a ordem de habeas corpus.
+Nas razões deste recurso, a defesa aduz que a decisão recorrida se fundamentou nas informações fornecidas pela autoridade coatora, sem que estas tenham sido previamente analisadas pelo Tribunal local, o que configura supressão de instância. Reitera que há excesso de prazo na decretação da medida cautelar de monitoração eletrônica, desde 24/6/2021.
+Busca a reconsideração da decisão para que seja revogada a medida cautelar da agravante ou a submissão do recurso ao colegiado da Sexta Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A análise do excesso de prazo deve considerar a atuação conjunta de todos os atores processuais, não sendo aferível apenas pela soma aritmética dos prazos processuais.
+2. A demora na tramitação processual decorre, em grande parte, da conduta da defesa e das particularidades do caso, não se podendo atribuir ao Estado a responsabilidade exclusiva pela demora.
+3. A alegação de supressão de instância não se sustenta, pois a questão do excesso de prazo foi amplamente examinada pela Corte local.
+4. Agravo regimental improvido.
+VOTO
+Consoante relatado, busca a defesa a reconsideração da decisão agravada, com a revogação da medida cautelar da agravante.
+A decisão que denegou o recurso em habeas corpus foi assim fundamentada (fls. 1.373-1.375):
+A prisão cautelar, assim como as medidas cautelares diversas da prisão, não possuem um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático- processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa. Por isso, o eventual reconhecimento da ilegalidade da prisão, ou da imposição de medidas cautelares diversas da prisão, por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+As medidas cautelares impostas à paciente foram mantidas com base nos seguintes fundamentos (fl. 368):
+Portanto, apesar da inegável gravidade dos fatos imputados e da possibilidade de que a paciente tenha descumprido os deveres inerentes à monitoração eletrônica, entendo recomendável, diante de todas essas circunstâncias, restabelecer, por ora, sua liberdade provisória e todas as cautelares anteriormente impostas (Id. 5108857), com algum recrudescimento dessas cautelares.
+As informações prestadas pelo magistrado de 1º grau dão conta de que existe uma pluralidade de réus e defensores, inclusive com aplicação dos efeitos do art. 366 do CPP em relação a dos acusados. Ocorreu, ainda, aditamento da denúncia em 26/9/2023.
+Especificamente em relação à paciente, o feito originário se encontrava aguardando resposta à acusação por parte da paciente, o que não ocorreu no prazo legal, sendo determinada sua intimação pessoal para constituir novo defensor.
+Assim, a mora na formação da culpa, que decorre da atuação da defesa ao não apresentar as peças processuais no momento oportuno, das particularidades do caso e da multiplicidade de condutas e investigados, aponta para a inexistência de mora atribuível ao Estado na formação da culpa.
+O excesso de prazo foi afastado pela decisão agravada, pois, pelas informações prestadas pelo juízo de origem, a atual morosidade tem sido causada, em parte, pela própria defesa, que não apresentou as peças processuais no tempo oportuno.
+Ante essa fundamentação, a agravante aduz que esta Corte Superior não poderia ter se utilizado dessa informação prestada pelo Juiz de primeiro grau ao decidir, pois, no seu entender, haveria supressão de instância, porquanto a matéria não foi analisada pelo Tribunal de Justiça local.
+A alegação de supressão de instância não se sustenta, uma vez que a questão do excesso de prazo foi amplamente examinada pela Corte local, que analisou a atuação da defesa, da acusação e do próprio Poder Judiciário. O excesso de prazo é uma questão que envolve a análise conjunta da atuação de todos os atores processuais: defesa, acusação e Poder Judiciário.
+Considerando que essas atuações são essenciais para avaliar a configuração ou não do excesso de prazo. No presente caso, a eventual demora na tramitação processual resulta, em grande parte, da conduta da defesa ao não apresentar as peças processuais nos prazos estabelecidos, bem como das particularidades do caso, incluindo a multiplicidade de condutas e de investigados.
+Assim, não se pode atribuir ao Estado a responsabilidade exclusiva pela demora na formação da culpa. Nesse sentido (grifei):
+ ..
+1. Em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva.
+ ..
+3. É entendimento do Superior Tribunal de Justiça - STJ que a presença de condições pessoais favoráveis, como primariedade, domicílio certo e emprego lícito, não impede a decretação da prisão cautelar quando devidamente fundamentada.
+4. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves. 5. Constitui entendimento consolidado do Superior Tribunal de Justiça - STJ que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais. In casu, não há falar em prolongamento irrazoável do andamento processual, pois o processo tem seguido regular tramitação. O ora agravante foi preso temporariamente em 7/11/2019, tendo sua prisão preventiva sido decretada em 12/12/2019 e o mandado cumprido em 4/2/2020. Nas informações de fls. 244/250, o Juízo de primeiro grau informou que a resposta às acusações da defesa do agravante foi protocolada em 2/3/2020 e que está aguardando o cumprimento das cartas precatórias de citação de dois dos acusados, bem como a resposta à acusação de três corréus. Verifica-se que o maior prazo para o julgamento decorre da complexidade do feito e da pluralidade de acusados (11), em que se apura na denominada "Operação Marajá" a prática dos crimes de organização criminosa e associação para o tráfico, onde se verificou não só a prática do tráfico de drogas, como também de vários homicídios em razão da rivalidade de tráfico na região de Campos Lindos (Marajó) e disputa pelo monopólio do tráfico de drogas, além da ocorrência de interceptações telefônicas. Não há, pois, falar em desídia do Magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputada ao Judiciário a responsabilidade pela demora.
+6. O pedido de substituição da custódia cautelar pela prisão preventiva em razão da pandemia causada pelo coronavírus deve inicialmente ser submetida ao Juízo de primeiro grau, não devendo ser analisada diretamente no Tribunal de origem ou nesta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+7. Agravo regimental improvido.
+Dessa forma, a agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
