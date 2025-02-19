@@ -1,0 +1,22 @@
+DECISÃO
+Embargos de declaração opostos por Joao Victor da Silva - preso preventivamente e denunciado como incurso no art. 2º, § 2º, da Lei n. 12.850/2013 (Ação Penal n. 0106507-79.2022.8.17.2001 - 12ª Vara Criminal da Capital/PE) - ao decisum, de minha lavra, assim ementado (fl. 203):
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA (ART. 2º, § 2º, DA LEI N. 12.850/2013). PRISÃO PREVENTIVA. TESE DE INIDONEIDADE DE FUNDAMENTAÇÃO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE À IMPETRANTE.
+Writ não conhecido.
+Nas razões, o embargante sustenta, em síntese (fls. 211/213):
+A decisão monocrática que não conheceu o habeas corpus fundamentou-se na suposta ausência de documentos essenciais, notadamente a "cópia do decreto prisional primevo". No entanto, a decisão que decretou a prisão preventiva do paciente foi devidamente juntada com a petição inicial do habeas corpus, conforme se depreende do documento e-STJ Fl. 22.
+Tal decisão está consubstanciada no recebimento da denúncia, momento no qual a magistrada converteu a prisão temporária vigente até então em prisão preventiva, após requerimento da autoridade policial e do Ministério Público.
+ ..
+Assim, verifica-se uma contradição na decisão embargada, pois não conhece o habeas corpus por suposta falta de documentos que, de fato, foram apresentados.
+Outro ponto que merece esclarecimento diz respeito à exigência de documentos relativos às condições pessoais do paciente, tais como folha de antecedentes criminais, comprovante de residência fixa e ocupação lícita quando o objetivo deste habeas corpus é discutir a legalidade da decretação da prisão preventiva, especialmente no tocante à presença ou não dos requisitos do artigo 312 do Código de Processo Penal.
+A análise da necessidade da prisão preventiva deve ser feita com base nos elementos concretos do processo, e não em fatores extrínsecos relativos à conduta social do paciente. Ainda que se entenda necessário um exame das suas condições sociais para eventual concessão de liberdade provisória, tal juízo pode ser realizado pelo próprio magistrado de primeiro grau a fim de estabelecer as condições de cumprimento da liberdade, caso se reconheça que a prisão preventiva é desnecessária à luz dos fundamentos utilizados pelas instâncias inferiores.
+Dessa forma, a decisão embargada incorre em contradição ao exigir documentos que não são essenciais para a análise da legalidade da prisão preventiva, prejudicando o acesso do paciente ao habeas corpus como remédio constitucional de urgência.
+Ao final, requer, o conhecimento e provimento dos presentes embargos de declaração, com efeitos infringentes, para que seja sanada a contradição apontada e, ao final, seja conhecido e julgado o mérito do habeas corpus (fl. 213).
+É o relatório.
+O decisum não padece de nenhum vício apontado pelo embargante.
+Primeiro, porque, diversamente do alegado neste regimental, o documento juntado às fls. 22/25 consta a decisão de recebimento da denúncia pelo Magistrado singular e a decretação da prisão preventiva de JOAB ANTONIO DA SILVA (e não do agravante); aliás, neste mesmo decisum ora aqui colacionado resta muito claro e evidente que não se tratou da decretação da prisão preventiva do ora embargante, pois, à fl. 23, verifica-se a seguinte menção: Compulsando detidamente os autos em testilha, verifico que a prisão preventiva dos representados, no momento, é medida imprescindível, tendo já sido decretadas, conforme ID nº 152240029 (grifo nosso).
+Segundo, porque, a documentação pertinente às condições pessoais favoráveis do embargante (tais como comprovantes de residência fixa e ocupação lícita), bem como a sua folha de antecedentes, servem, por óbvio, como já dito e agora redito, como peças essenciais para a "verificação" e a "verossimilhança" das arguições apresentadas na petição inicial - acusado primário, com endereço certo, pai e trabalhador (fl. 10) - e que poderão dar suporte à premissa da defesa, com a sua respectiva comprovação.
+Nesse contexto, não havendo, portanto, razão para o acolhimento destes aclaratórios, rejeito-os.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. NÃO CONHECIMENTO. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA.
+Embargos declaratórios rejeitados.
