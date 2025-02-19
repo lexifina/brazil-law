@@ -1,0 +1,17 @@
+DECISÃO
+O presente writ, impetrado em benefício de VINICIUS MARTINS MEDRADO - condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado, além de 583 dias-multa (Ação Penal n. 5616206-71.2024.8.09.0006) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Apelação Criminal n. 5616206-71.2024.8.09.0006), não comporta processamento.
+Com efeito, busca a impetração a ilicitude das provas em razão do ingresso ilegal na residência ou, alternativamente, a revisão da dosimetria.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o Magistrado de piso, ao afastar a alegação de violação de domicílio, destacou que a equipe policial, após informações do serviço de inteligência, se deslocou até o local indicado e visualizaram a porta da residência semiaberta e, o ora acusado, percebendo a aproximação dos policiais, tentou dispersar as drogas pelo muro da residência, contudo, sem êxito, momento em que os policiais indagaram ao morador da residência se poderiam entrar e, após a autorização deste, a equipe fez o adentramento, sendo Vinícius abordado em posse da sacola que se encontrava os entorpecentes (fl. 111 - grifo nosso). Tais circunstâncias, em conjunto, afastam a alegada nulidade por violação de domicílio.
+A propósito:
+ ..
+A partir do quadro fático exposto no acórdão recorrido, lastreado em denúncia específica, fundada suspeita e consentimento da moradora, é inconteste a legalidade das provas obtidas com o ingresso em domicílio (AgRg no AREsp 2.590.162/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 4/10/2024 - grifo nosso).
+ ..
+Não se constatou a alegada nulidade por invasão ao domicílio do acusado, tendo em vista que o Tribunal de origem validou a ação policial, diante da demonstração de justa causa (fundadas razões), em especial pela prévia atividade policial, oportunidade na qual o paciente, antes da entrada dos agentes estatais no imóvel, foi monitorado e abordado pelos policiais em atividade suspeita, possuindo 120 gramas de maconha (AgRg no HC n. 706.273/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/4/2022 - grifo nosso)
+Ademais, reconhecer que não houve a dinâmica dos fatos descrita na sentença condenatória exige, inevitavelmente, aprofundado reexame do conjunto fático-probatório, sendo impróprio na via do habeas corpus.
+Igualmente, não verifico o alegado constrangimento quanto à dosimetria, pois a pena-base foi fixada no mínimo legal (5 anos de reclusão), com exasperação de 1/6 em razão da reincidência, tornando-a definitiva em 5 anos e 10 meses de reclusão (fl. 119).
+Por fim, justificado o afastamento da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, e do regime mais gravoso para início do cumprimento da pena, em razão da reincidência do réu, conforme art. 33, § 2º, b, do Código Penal.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. BUSCA DOMICILIAR. FUNDADA SUSPEITA. DOSIMETRIA DA PENA. DEVIDAMENTE FUNDAMENTADA. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
