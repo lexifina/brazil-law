@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de VINICIUS SANTOS DE OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS nos autos do Recurso em Sentido Estrito n. 1.0000.24.153.184-7/001.
+Extrai-se dos autos que o paciente foi pronunciado pela suposta prática dos crimes de homicídio qualificado e associação criminosa.
+Irresignada, a defesa interpôs recurso em sentido estrito perante o Tribunal de origem, ainda pendente de julgamento.
+No presente writ, a defesa sustenta que as provas da autoria delitiva são frágeis e alega excesso de prazo para o julgamento do recurso em sentido estrito interposto perante o Tribunal de origem, pois está preso há mais de 1 ano e 6 meses sem que haja previsão para o julgamento do recurso.
+Requer a concessão da liberdade mediante a aplicação de medidas cautelares diversas da prisão até o julgamento do recurso em sentido estrito e a concessão da ordem para que seja determinado o julgamento imediato do recurso.
+A liminar foi indeferida (e-STJ fls. 1233/1234).
+O Juízo de primeiro grau e o Tribunal estadual prestaram informações (e-STJ fls. 1239/1241 e 1441/1442).
+O Ministério Público Federal opinou pelo não conhecimento (e-STJ fls. 1448/1450).
+É o relatório.
+Decido.
+Inicialmente, quanto à alegação relativa aos indícios de autoria delitiva, observa-se que não há manifestação do Tribunal de origem quanto ao ponto, considerando que sequer houve julgamento do recurso em sentido estrito interposto contra a sentença de pronúncia.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito nesse ponto, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+No que se refere à alegação de excesso de prazo para o julgamento do RESE, é entendimento assente nesta Corte Superior de que o "excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional" (EDcl no HC n. 877.898/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024).
+No caso concreto, ao prestar informações, o Tribunal estadual comunicou que "o feito possui relevante complexidade, pois apura-se a suposta prática dos delitos de homicídio qualificado tentado e associação criminosa, sendo que os recursos apresentados a este Tribunal questionam a pronúncia de três réus" e acrescentou que "será dada prioridade a este processo, designando o mais rapidamente possível sua inclusão em pauta de julgamento" (e-STJ fls. 1441/1442).
+Em consulta promovida no portal do TJMG, constata-se como última movimentação a designação para julgamento virtual a ser realizado em 20/2/2025, às 13h30, a transparecer ausência de desídia estatal na promoção da marcha processual.
+Cabe complementar que a aferição do excesso de prazo sujeita-se ainda à consideração do "tempo concreto da prisão preventiva do agravante frente à quantidade abstrata de pena prevista para o ilícito pelo qual foi denunciado" (AgRg no HC n. 912.563/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 30/10/2024, DJe de 6/11/2024), cujas quantidades das penas em abstrato cominadas aos delitos pelos quais o paciente foi pronunciado (arts. 121, §2º, VII, c.c 14, inciso II, por três vezes e 288, parágrafo único, todos do CP) não se mostra desproporcional ao tempo concreto de segregação.
+Nesses termos:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA NÃO CONFIGURADO. INCIDÊNCIA DA SÚMULA N. 64/STJ, NA ESPÉCIE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se verifica o excesso de prazo sustentado pela Defesa, considerando-se o tempo concreto da prisão preventiva da agravante frente à quantidade abstrata de pena prevista para o ilícito pelo qual foi denunciada, além das peculiaridades do feito, que conta com pluralidade de réus (três).
+ ..
+3. Agravo regimental não provido."
+(AgRg no RHC n. 197.551/BA, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024)
+Desse modo, forçoso concluir que inexiste flagrante constrangimento ilegal que autorize a concessão da ordem, ainda que de ofício.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
