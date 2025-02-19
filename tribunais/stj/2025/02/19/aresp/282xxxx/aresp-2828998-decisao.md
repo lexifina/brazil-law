@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Agravo apresentado por COMPANHIA BRASILEIRA DE TRENS URBANOS. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+APELAÇÃO. ADMINISTRATIVO.RESPONSABILIDADE CIVIL DO ESTADO POR OMISSÃO. CBTU. DEVER DE PRESTAR O SERVIÇO DE TRANSPORTE PÚBLICO COM SEGURANÇA. AGRESSÃO FÍSICA PRATICADA POR TERCEIRO NO INTERIOR DA ESTAÇÃO DE TREM. LESÃO CORPORAL. AUSÊNCIA DE ADOÇÃO DE PROCEDIMENTOS MÍNIMOS DE SEGURANÇA. COMPROVAÇÃO. DIREITO À INDENIZAÇÃO POR DANOS MORAIS. JUROS DE MORA E CORREÇÃO MONETÁRIA. TERMO INICIAL. PARCIAL PROVIMENTO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 373, I, do CPC, no que concerne ao descabimento de indenização por danos morais decorrentes de agressão a respeito da qual não restou comprovado, pela parte recorrida (autor), ter ocorrido nas dependências da recorrente, considerando-se, ainda, a impossibilidade de responsabilização quanto a ato cometido por terceiros. Argumenta:
+Trata-se de ação de indenização onde narra o recorrido, em síntese, que no dia 10 de janeiro de 2017, por volta das 15:30h, se encontrava na Estação Ferroviária situada no bairro do Alecrim, quando, após comprar sua passagem e estar aguardando a chegada do trem, foi agredido por um usuário de drogas que também havia entrado na mesma estação.
+ ..
+Conforme exposto anteriormente, a 2ª TURMA DO EGRÉGIO TRIBUNAL REGIONAL FEDERAL DA QUINTA REGIÃO negou provimento ao RECURSO DE APELAÇÃO, mantendo incólume a SENTENÇA que julgou procedente a pretensão autoral, condenando a parte recorrente ao pagamento, em favor do postulante, de uma indenização pelos danos morais suportados em consequência dos fatos abordados nesta lide no valor de R$ 13.000,00 (treze mil reais), com os acréscimos legais pertinentes, tudo a ser apurado de acordo com as diretrizes contidas no Manual de Procedimentos para os Cálculos da Justiça Federal.
+Ocorre que, em que pese o zelo e o brilhantismo dos ilustres julgadores a quo, EVIDENTE A OCORRÊNCIA DE VIOLAÇÃO ÀS NORMAS CONTIDAS NO ARTIGO 373, I do CPC/15 e ARTIGO. 884 do CC/02.
+Conforme exposto acima, e, em análise dos autos originários, verifica-se que o V. Acórdão recorrido não observa, quanto menos reconhece, que o recorrido não trouxe nos autos qualquer prova de que o fato tenha acontecido nas dependências da Estação da apelante, fora o B. O que foi confeccionado com o relato dele.
+ ..
+O fato é que a CBTU em nada deve ser responsabilizada por culpa de terceiro, mostrando-se a decisão do v. Acórdão recorrido violação a dispositivo infraconstitucional, uma vez que o recorrido precisava cumprir os requisitos do art. 373, I do CPC/15 (fls. 550-552).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 884 do CC, no que concerne à configuração de enriquecimento ilícito diante da condenação a pagamento de indenização, uma vez ausente a responsabilidade civil da recorrente. Afirma:
+No caso em tela, restou assumido tanto na sentença de primeiro grau como até mesmo do Acordão que a recorrente deve ser responsabilizada pelos fatos narrados pela recorrida, mas isso não pode prosperar uma vez que não há indícios suficientes que demonstrem que os fatos ocorreram nas dependências da recorrente.
+ ..
+Assim, diante de todo o exposto acima, considerando que a CBTU não exerce atividade econômica propriamente dita, presta serviço público da competência da União Federal e é por ela mantida, é TOTALMENTE ILEGÍTIMO responsabilizar a mesma, uma vez que, novamente, não há indícios que demonstrem que o fato decorreu nas dependências da recorrente.
+ ..
+Logo, resta evidente a VIOLAÇÃO ao art. 884 do CC/02, uma vez que a não apreciação e conhecimento do alegado pela recorrente em sua apelação, importa no ENRIQUECIMENTO ILÍCITO da parte ora recorrida (fls. 551-552).
+É o relatório.
+Decido.
+Quanto à primeira e à segunda controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+É de ver-se, pois, ser inconteste que o autor, ora apelante, sofreu danos ao ser agredido por terceiros dentro da estação ferroviária da CBTU.
+ ..
+Com efeito, no particular do presente caso, a CBTU não desconstituiu os fatos alegados pelo autor, isto é, não logrou comprovar, mediante prova que se requeira cabal, que adotou medidas de segurança e, ao assim proceder, teria cumprido a obrigação ínsita ao contrato de transporte de levar o passageiro com segurança ao seu destino, tal como impõe a Lei nº 6.149, de 02/12/1974, a qual dispõe sobre a segurança do transporte metroviário. Veja-se, in verbis:
+ ..
+De fato, não consta nos autos qualquer elemento probatório que demonstre a adoção mínima de medidas de segurança pela empresa pública demandada, como, por exemplo, a existência de agente de segurança ou funcionário da empresa na estação ferroviária, bem como a utilização de sistema de câmaras de segurança.
+Assim, à míngua de prova que a CBTU adotou procedimentos mínimos de segurança, nos termos do disposto na Lei nº 6.149/74, restou caracterizado o nexo causal entre a agressão sofrida pelo autor por ato doloso de terceiro e a negligência imputada à CBTU no dever de executar medidas de segurança mínimas, nexo capaz de configurar a responsabilidade objetiva do Estado por omissão, mais precisamente a culpa do serviço público.
+ ..
+Quanto ao valor fixado para a indenização por dano moral, considerando as peculiaridades do caso concreto, bem como o caráter dúplice da condenação - punitivo em face do agente e compensatório em relação à vítima da lesão - deve ser mantido o valor de R$13.000,00 (treze mil) fixado na sentença, dado que esse montante, além de não representar enriquecimento ilícito, apresenta-se razoável e proporcional (fl. 505).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
