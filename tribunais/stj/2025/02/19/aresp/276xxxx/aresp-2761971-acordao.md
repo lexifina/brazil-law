@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/02/2025 a 19/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO EM RECURSO ESPECIAL CONHECIDO. ÓBICES À ADMISSIBILIDADE DO RECURSO ESPECIAL. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Na origem, trata-se de agravo de instrumento interposto pelo ora Agravante contra decisão que, nos autos de execução fiscal, rejeitou a exceção de pré-executividade. No Tribunal a quo, a decisão foi mantida.
+II - Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.O recurso especial não deve ser conhecido.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Relativamente às demais alegações de violação indicadas na peça de recurso especial, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+VI - Agravo em recurso especial conhecido. Recurso especial não conhecido.
+RELATÓRIO
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CDA CONSTITUÍDA SOBRE VALOR REFERENTE À ISS. REDIRECIONAMENTO. EXCEÇÃO DE PRÉ- EXECUTIVIDADE FUNDAMENTADA NA PRESCRIÇÃO DO DIREITO DE COBRANÇA. ART. 174, CAPUT, CTN. EXCEÇÃO REJEITADA PELO JUÍZO DE PISO. TERMO INICIAL. INADIMPLEMENTO VERIFICADO EM 31/12/12015. INTERRUPÇÃO DA PRESCRIÇÃO. TRANSCURSO TEMPORAL INFERIOR À 05 ANOS. TEMPESTIVIDADE DA DISTRIBUIÇÃO E DA CITAÇÃO. ART. 240§1º DO CPC. RECURSO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO EM RECURSO ESPECIAL CONHECIDO. ÓBICES À ADMISSIBILIDADE DO RECURSO ESPECIAL. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Na origem, trata-se de agravo de instrumento interposto pelo ora Agravante contra decisão que, nos autos de execução fiscal, rejeitou a exceção de pré-executividade. No Tribunal a quo, a decisão foi mantida.
+II - Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.O recurso especial não deve ser conhecido.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Relativamente às demais alegações de violação indicadas na peça de recurso especial, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+VI - Agravo em recurso especial conhecido. Recurso especial não conhecido.
+VOTO
+No recurso especial a parte recorrente alega, resumidamente:
+ ..
+A despeito da alegação de que o parcelamento foi interrompido em 30/12/2015, a realidade é que a interrupção ocorreu em 30/11/2015.
+ ..
+Portanto, o pagamento foi interrompido a partir de novembro, dia 30/11/2015, quando venceu a décima terceira parcela. Após essa data, nenhum outro pagamento foi efetuado. Assim, a alegação de interrupção do parcelamento somente a partir de dezembro não encontra respaldo nos fatos.
+ ..
+É fato incontroverso que a executada está em mora a partir de 30/11/2015. E o município propôs a ação somente em 22/12/2020, mais de 5 anos depois, tornando a pretensão de cobrar o valor remanescente prescrita.
+ ..
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Constando dos autos elementos suficientes a definir que o inadimplemento do parcelamento ocorreu em 31/12/2015, logo, menos de 05 (cinco) anos antes da propositura da demanda e de proferido o despacho que ordenou a citação na Execução Fiscal, impõe-se, pois, a manutenção da decisão agravada.
+Voltando aos autos, resta incontroverso que a última parcela quitada pela empresa executada foi aos 30/11/2005, sendo assim a prescrição recomeça a correr a partir do vencimento da parcela subsequente.
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação indicadas na peça de recurso especial (art. 332, § 1º, do CPC/2015), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PARCELAMENTO. EXCLUSÃO FORMAL DO PROGRAMA. MANUTENÇÃO DOS PAGAMENTOS. INTERRUPÇÃO DA PRESCRIÇÃO. RECOMEÇO DA DATA DA EXCLUSÃO.
+O prazo prescricional intercorrente recomeça a contar a partir da exclusão formal do contribuinte do programa de parcelamento.
+Agravo regimental improvido.
+(AgInt nos EDcl no AREsp n. 825.820/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 7/4/2016, DJe de 15/4/2016.)
+Fixados honorários advocatícios pelas instâncias de origem, determino a sua majoração em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Agravo em recurso especial conhecido.
+Recurso especial não conhecido.
+É o voto.
