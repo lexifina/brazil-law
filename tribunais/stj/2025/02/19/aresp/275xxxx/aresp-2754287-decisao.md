@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 484/485):
+RECURSO DE APELAÇÃO - MANDADO DE SEGURANÇA - DIREITO CONSTITUCIONAL E TRIBUTÁRIO - IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO - ICMS - DIVERGÊNCIA VERIFICADA ENTRE AS NOTAS FISCAIS EMITIDAS E O VALOR DECLARADO NO PROGRAMA GERADOR DE DOCUMENTOS DO SIMPLES NACIONAL - PGDAS-D, RELATIVAMENTE AO LAPSO TEMPORAL ENTRE JANEIRO E JULHO DE 2.015 AUTO DE INFRAÇÃO E IMPOSIÇÃO DE MULTA - PRETENSÃO DA PARTE IMPETRANTE AO RECONHECIMENTO DA INEXIGIBILIDADE PARCIAL DO DÉBITO TRIBUTÁRIO ANTE A DECADÊNCIA RELATIVAMENTE AO PERÍODO COMPREENDIDO ENTRE JANEIRO E FEVEREIRO DE 2.015 POSSIBILIDADE.
+1. Decadência parcial do direito de constituição de crédito tributário, pela Fazenda Pública Estadual (ICMS-ST, decorrente do AIIM nº 4.132.837-1), reconhecida.
+2. Aplicação, no caso concreto, do artigo 150, § 4º, do CTN, tendo em vista que a hipótese é de lançamento tributário sujeito à homologação, nas seguintes condições: a) declaração de débito e adimplemento, pelo contribuinte, ainda que o valor seja inferior ao posteriormente considerado devido; b) dolo, fraude ou simulação, não comprovadas.
+3. Precedentes da jurisprudência do C. STJ e, inclusive, deste E. Tribunal de Justiça.
+4. Irregularidade, ilegalidade e nulidade manifesta no ato administrativo ora impugnado, ainda que parciais, demonstradas.
+5. Ofensa a direito líquido e certo, passível de reconhecimento e correção, parcialmente caracterizada.
+6. Ordem impetrada em mandado de segurança, denegada.
+No recurso especial (e-STJ fls. 497/509), o recorrente aponta violação do art. 150, § 4º, e do art. 173, I, do CTN, alegando que "não houve declaração quanto a essa parcela a ser homologada, razão pela qual não há dúvida quanto à aplicação da contagem do prazo decadencial presente no artigo 173, I, do CTN" (e-STJ fl. 501).
+As contrarrazões foram oferecidas.
+O recurso especial não foi admitido (art. 1.030, V do CPC/2015) em razão da consonância do acórdão recorrido com o entendimento desta Corte, da insuficiência da argumentação para infirmar as conclusões do acórdão recorrido, da ausência de violação aos dispositivos apontados como violados e da incidência da Súmula 7 do STJ (e-STJ fls. 535/536).
+No agravo em recurso especial (e-STJ fls. 541/547), a agravante alega que "Em momento algum o recurso especial desafia reexame de provas" (e-STJ fl. 544). Ademais, diz que "O recurso especial interposto demonstrou que o caso em tela não se trata de simples ausência de pagamento, mas sim da falta do recolhimento do imposto devido sobre a parcela de receita bruta que comprovadamente foi omitida" (e-STJ fl. 544).
+A contraminuta foi apresentada.
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (e-STJ fl. 590/593).
+Passo a decidir.
+O Tribunal de origem não admitiu o recurso especial, dentre outros motivos, em razão da incidência das Súmulas 7 e 83 do STJ.
+Contudo, quanto ao óbice relacionado à impossibilidade de reexame fático-probatório (Súmula 7 do STJ), a agravante limita-se a sustentar genericamente que "a reforma da decisão recorrida não depende de reexame de provas" (e-STJ fl. 673). Em momento algum evidencia concretamente que a análise da tese recursal, no caso dos autos, independe desse reexame, por exemplo, mediante a indicação das premissas fáticas estabelecidas pelas instâncias ordinárias suficientes para o julgamento do recurso.
+Sendo assim, constata-se que a parte não impugnou específica e adequadamente a incidência do referido enunciado.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos moldes do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Ademais, destaque-se que, inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade. Todavia, o recorrente não se desincumbiu desse ônus.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
