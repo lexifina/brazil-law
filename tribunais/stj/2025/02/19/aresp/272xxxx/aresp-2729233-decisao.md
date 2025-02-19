@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional , o qual desafia acórdão assim ementado (e-STJ fl. 201):
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE TEMPORÁRIA. PRORROGAÇÃO DO PERÍODO DE GRAÇA. DESEMPREGO. REQUISITOS PREENCHIDOS. CONCESSÃO. CONVERSÃO EM APOSENTADORIA POR INCAPACIDADE PERMANENTE.
+1. São quatro os requisitos para a concessão de benefícios por incapacidade: (a) qualidade de segurado; (b) cumprimento da carência; (c) superveniência de moléstia incapacitante para o desenvolvimento de atividade laboral que garanta a subsistência; e (d) caráter permanente da incapacidade (para o caso da aposentadoria por invalidez) ou temporário (para o caso do auxílio- doença).
+2. Nas ações em que se objetiva a concessão ou o restabelecimento de auxílio-doença ou de aposentadoria por invalidez, o julgador firma seu convencimento, via de regra, por meio da prova pericial, mas deve considerar, também, as condições pessoais do requerente, como a faixa etária, seu grau de escolaridade, qualificação profissional, natureza da atividade executada ordinariamente, entre outros.
+3. O atingimento de 120 contribuições mensais sem a perda da qualidade de segurado acarreta a prorrogação do período de graça, nos termos do § 1º do art. 15 da Lei nº 8.213/91.
+4. Comprovado pela perícia administrativa do INSS a incapacidade laborativa temporária da parte autora, é de ser concedido o auxílio-doença com posterior conversão em aposentadoria por invalidez, uma vez que o conjunto probatório associado às condições pessoais da parte demandante evidenciam que a autora não tem condições de integrar qualquer processo de reabilitação profissional, tampouco se reinserir adequadamente no mercado de trabalho.
+Embargos de declaração do INSS rejeitados.
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 15, § 2º, da Lei n. 8.213/1991 ao fundamento de que, não obstante a jurisprudência do STJ tenha flexibilizado a exigência de registro no Ministério do Trabalho para possibilitar a extensão do período de graça, o desemprego deve ser comprovado por outros meios de prova, o que não ocorreu na hipótese em comento.
+Contrarrazões apresentadas.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Vejamos o que ficou decidido pelo Tribunal a quo (e-STJ fls. 320/321):
+ ..
+Visto se tratar de uma questão preliminar à concessão do benefício previdenciário, passo à análise, em primeiro lugar, quanto à qualidade de segurada da parte autora.
+De acordo com o Extrato Previdenciário (80.3), a última contribuição anterior ao benefício requerido em 18/06/2013 é relativa à competência de 12/2011. Porém, a qualidade de segurado não se encerra, automaticamente, com a interrupção das contribuições, haja vista que o legislador previu os chamados "períodos de graça", ou seja, formas de manutenção da condição de segurado, independentemente de contribuições (art. 15 da Lei 8.213/91).
+Nesses lapsos temporais, restam conservados todos os direitos previdenciários dos segurados (art. 15, §3º, da LB). Por oportuno, transcrevo o referido dispositivo legal:
+Art. 15. Mantém a qualidade de segurado, independentemente de contribuições:
+I - sem limite de prazo, quem está em gozo de benefício;
+II - até 12 (doze) meses após a cessação das contribuições, o segurado que deixar de exercer atividade remunerada abrangida pela Previdência Social ou estiver suspenso ou licenciado sem remuneração;
+III - até 12 (doze) meses após cessar a segregação, o segurado acometido de doença de segregação compulsória;
+IV - até 12 (doze) meses após o livramento, o segurado retido ou recluso;
+V - até 3 (três) meses após o licenciamento, o segurado incorporado às Forças Armadas para prestar serviço militar;
+VI - até 6 (seis) meses após a cessação das contribuições, o segurado facultativo.
+§ 1º O prazo do inciso II será prorrogado para até 24 (vinte e quatro) meses se o segurado já tiver pago mais de 120 (cento e vinte) contribuições mensais sem interrupção que acarrete a perda da qualidade de segurado.§ 2º Os prazos do inciso II ou do § 1º serão acrescidos de 12 (doze) meses para o segurado desempregado, desde que comprovada essa situação pelo registro no órgão próprio do Ministério do Trabalho e da Previdência Social.
+§ 3º Durante os prazos deste artigo, o segurado conserva todos os seus direitos perante a Previdência Social.
+§ 4º A perda da qualidade de segurado ocorrerá no dia seguinte ao do término do prazo fixado no Plano de Custeio da Seguridade Social para recolhimento da contribuição referente ao mês imediatamente posterior ao do final dos prazos.
+Em relação à comprovação da situação de desemprego, verifico que a carteira de trabalho da autora evidencia que o seu último vínculo se encerrou em 31/12/2011 (4.1, fl. 31), do que concluo que, após a sua última contribuição, permaneceu desempregada, visto que não há mais nenhuma informação no CNIS (80.3).
+Diante disso, considerando a prorrogação do período de graça por 24 meses (em virtude de desemprego), entendo que o autor manteve sua qualidade de segurado do RGPS até 15/02/2014, por força do disposto no art. 15, II, combinado com os §§ 1ºe 4º, da Lei 8.213/91.
+Dessa forma, como o perito do INSS fixou a DII em 21/08/2013(79.1), não há que se cogitar de perda ou de ausência da qualidade de segurado.
+Além disso, restou comprovado o atendimento da exigência legal quanto ao período de carência para o auxílio-doença/aposentadoria por invalidez (a teor do art. 25, I, da Lei 8.213/91, o qual prevê um mínimo de 12 contribuições mensais). (Grifos acrescidos).
+Da leitura do trecho transcrito, observa-se que o acórdão recorrido concluiu pela comprovação da situação de desemprego baseando-se apenas nas anotações constantes na carteira de trabalho e na ausência de informações no CNIS.
+Ocorre que a jurisprudência do STJ consolidou-se no sentido de que "a ausência de registros na CTPS, só por si, não é suficiente para comprovar a situação de desemprego da parte autora", o que evidencia que a Corte Regional destoou do entendimento firmado por essa Corte Superior.
+Nesse sentido, a título ilustrativo, os seguintes julgados:
+PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE. EMPREGADA URBANA. COMPROVAÇÃO DA MATERNIDADE E QUALIDADE DE SEGURADA. SITUAÇÃO DE DESEMPREGO.
+1. Caso em que o Tribunal regional consignou: "Na hipótese em apreço, à data do parto, em 01-12-2012, mantinha a autora a condição de segurada da Previdência Social, haja vista que, embora não tenha carreado aos autos o registro de desemprego no Ministério do Trabalho e Previdência Social, sua CTPS evidencia, de forma inequívoca a condição de desemprego no intervalo entre 02-2011 e 03-2013. Portanto, entendo ter restado suficientemente comprovado que, após o término, em 25-02-2011, do vínculo de emprego, a autora manteve-se desempregada até o próximo contrato laboral, a permitir a extensão do período de graça por 24 meses".
+2. A Corte a quo presumiu situação de desemprego com base unicamente na ausência de registro na carteira de trabalho. Contudo, o STJ já se manifestou no sentido de que a simples ausência de registro na CTPS não tem o condão de, por si só, comprovar a situação de desemprego, devendo ser cumulada com outros elementos probatórios.
+3. Recurso Especial provido.
+(REsp n. 1.796.378/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/3/2019, DJe de 22/4/2019.)
+PREVIDENCIÁRIO. QUALIDADE DE SEGURADO. PRORROGAÇÃO DO PERÍODO DE GRAÇA. MERA AUSÊNCIA DE ANOTAÇÃO NA CTPS. INSUFICIÊNCIA DE ELEMENTOS PROBATÓRIOS DA SITUAÇÃO DE DESEMPREGO. RETORNO DOS AUTOS À ORIGEM.
+1. A ausência de registros na CTPS, só por si, não é suficiente para comprovar a situação de desemprego da parte autora, admitindo-se, no entanto, que tal demonstração possa ser efetivada por outros meios de prova que não o registro perante o Ministério do Trabalho e da Previdência Social, como a testemunhal. Precedentes: Pet 7.115/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, DJe 6/4/2010; AgRg no Ag 1.182.277/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, DJe 6/12/2010.
+2. No caso concreto, no que diz respeito à demonstração da qualidade de segurado do autor, a Corte de origem, ao se louvar, unicamente, na ausência de anotação na CTPS e ter como prorrogado o período de graça, destoou da mencionada jurisprudência.
+3. Recurso especial do INSS parcialmente provido, para afastar a possibilidade de reconhecimento da condição de segurado pela mera ausência de registros na CTPS, determinando o retorno dos autos à origem para que oportunize ao autor a produção de provas e, então, julgue a causa como entender de direito.
+(REsp n. 1.338.295/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/11/2014, DJe de 1/12/2014.)
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, afastando a possibilidade de reconhecimento da condição de segurado pela mera ausência de registros na CTPS, para determinar o retorno dos autos à origem para que oportunize ao autor a produção de provas e, então, julgue a causa como entender de direito.
+P ublique-se. Intimem-se.
+ EMENTA
