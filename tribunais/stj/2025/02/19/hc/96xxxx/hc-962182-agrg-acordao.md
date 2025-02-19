@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. INVASÃO DE DOMICÍLIO. INTERCEPTAÇÃO TELEFÔNICA NÃO JUNTADA AOS AUTOS. UTILIZAÇÃO NA SENTENÇA. NULIDADE. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO TRIBUNAL DE ORIGEM. FALTA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência pacífica desta Corte tem se orientado no sentido de que a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de DIOGO SILVA PEREIRA contra decisão monocrática que indeferiu liminarmente o mandamus (e-STJ fls. 1699/1702).
+Repisa a defesa as teses veiculadas na inicial do habeas corpus. Em suma, sustenta a nulidade da decisão proferida nos autos da Revisão Criminal, pois não houve participação do colegiado; assevera que houve invasão de domicílio e que a sentença de base utilizou fundamentação referente a uma interceptação telefônica que não está nos autos.
+Requer seja reconsiderada a decisão ou que seja o feito submetido a julgamento pela Quinta Turma do STJ, a fim de se conceder a ordem.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. INVASÃO DE DOMICÍLIO. INTERCEPTAÇÃO TELEFÔNICA NÃO JUNTADA AOS AUTOS. UTILIZAÇÃO NA SENTENÇA. NULIDADE. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO TRIBUNAL DE ORIGEM. FALTA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência pacífica desta Corte tem se orientado no sentido de que a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ.
+2. Agravo regimental improvido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+Não obstante, verifica-se, no caso, consoante a decisão ora recorrida, que a irresignação se refere a decisão monocrática, impondo-se o indeferimento liminar do mandamus, pois não configurada nenhuma das hipóteses elencadas no art. 105 da CF, a ensejar a inauguração da competência desta Corte. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE RELATOR QUE NÃO CONHECEU DE HABEAS CORPUS IMPETRADO NO TRIBUNAL DE JUSTIÇA. FALTA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. EXECUÇÃO PENAL. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O JUIZ DE EXECUÇÃO DELIBERAR SOBRE PEDIDO DE PROGRESSÃO DE REGIME. SUPERVENIENTE DECISÃO INDEFERINDO O PLEITO POR AUSÊNCIA DE REQUISITO OBJETIVO. PERDA DE OBJETO. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência pacífica desta Corte tem se orientado no sentido de que a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ.
+Situação em que o habeas corpus aqui impetrado se voltava contra decisão monocrática de Relator.
+2. De mais a mais, não se revela teratológica a decisão de Desembargador Relator que reconhece a perda superveniente de objeto de impetração, cuja alegação principal era de excesso de prazo do Juízo de Execução para deliberar sobre pleito de progressão de regime, diante de superveniente prolação de decisão sobre a questão.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 850.698/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe de 18/9/2023.)
+Portanto, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
