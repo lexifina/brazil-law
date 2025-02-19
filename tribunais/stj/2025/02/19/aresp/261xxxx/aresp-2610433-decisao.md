@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA APARECIDA FERREIRA XAVIER SANTOS contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (fl. 341):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. RUÍDO.
+1. Até 29/04/95, a comprovação do tempo de serviço laborado em condições especiais era feita mediante o enquadramento da atividade no rol dos Decretos 53.831/64 e 83.080/79. A partir daquela data até a publicação da Lei 9.528/97, em 10/12/1997, por meio da apresentação de formulário que demonstre a efetiva exposição de forma permanente, não ocasional nem intermitente, a agentes prejudiciais à saúde ou à integridade física. Após 10/12/1997, tal formulário deve estar fundamentado em laudo técnico das condições ambientais do trabalho, assinado por médico do trabalho ou engenheiro do trabalho. Quanto aos agentes ruído e calor, o laudo pericial sempre foi exigido.
+2. Admite-se como especial a atividade exposta a ruídos superiores a 80 decibéis até 05/03/1997, a 90 decibéis no período entre 06/03/1997 e 18/11/2003 e, a partir de então, até os dias atuais, em nível acima de 85 decibéis. (REsp 1398260/PR, Relator Ministro Herman Benjamin, Primeira Seção, j. 14/05/2014, DJe 05/12/2014).
+3. O uso do equipamento de proteção individual - EPI pode ser insuficiente para neutralizar completamente a nocividade a que o trabalhador esteja submetido. (STF, ARE 664335/SC, Tribunal Pleno, Relator Ministro Luiz Fux, j. 04/12/2014, DJe-029 DIVULG 11/02/2015 Public 12/02/2015).
+4. Possibilidade de conversão de atividade especial em comum, mesmo após 28/05/1998.
+5. Preenchidos os requisitos, faz jus a autora à percepção do benefício de aposentadoria integral por tempo de contribuição.
+6. A correção monetária, que incide sobre as prestações em atraso desde as respectivas competências, e os juros de mora devem ser aplicados de acordo com o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+7. Os juros de mora incidirão até a data da expedição do precatório/RPV, conforme decidido em 19.04.2017 pelo Pleno do e. Supremo Tribunal Federal quando do julgamento do RE 579431, com repercussão geral reconhecida. A partir de então deve ser observada a Súmula Vinculante nº 17.
+8. Os honorários advocatícios devem observar as disposições contidas no inciso II, do § 4º, do Art. 85, do CPC, e a Súmula 111 do e. STJ.
+9. A autarquia previdenciária está isenta das custas e emolumentos, nos termos do Art. 4º, I, da Lei 9.289/96, do Art. 24-A da Lei 9.028/95, com a redação dada pelo Art. 3º da MP 2.180-35/01, e do Art. 8º, § 1º, da Lei 8.620/93.
+10. Remessa oficial, havida como submetida, e apelação do réu providas em parte e apelação do autor desprovida.
+Opostos embargos de declaração, foram acolhidos, em parte, para sanar erro material (e-STJ fls. 391/396).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 369, 370, 401 e seguintes, 489 §1º, IV, e 1.022 parágrafo único, II, do CPC/2015, e do art. 58, § 4º, da Lei n. 8.213/1991, ao argumento de que há omissão no julgado, alegando também o seguinte (e-STJ fl. 437):
+em que pese o PPP juntado tenha sido emitido somente em 2012, não comprovando a atividade especial entre 2012 a 2015, a Autora permaneceu trabalhando na mesma empresa e função até a DER (2015), de modo que há, no mínimo, presunção de exposição à nocividade nesse período, o que também evidencia a necessidade de dilação probatória.
+Quanto ao mérito, sustenta que há cerceamento de defesa pela negativa de produção de provas.
+No que se refere à divergência, defende que o entendimento do STJ em situações semelhantes reconhece a necessidade de permitir a dilação probatória para garantir o direito ao contraditório e à ampla defesa (fls. 427/441).
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Verifica-se que, na hipótese, o acórdão recorrido foi claro ao afirmar que (e-STJ fls. 350 e 356):
+Por primeiro, não há que se falar em cerceamento de defesa, vez que a legislação previdenciária impõe ao autor o dever de apresentar os formulários emitidos pelos empregadores descrevendo os trabalhos desempenhados, suas condições e os agentes agressivos a que estava submetido.
+ ..
+Para o período posterior a 24.05.12 não há comprovação de especialidade, ante ausência de documentos conforme exigido pela legislação.
+Destaca-se também que não foi impugnado o fundamento do acórdão de que é ônus do autor apresentar as provas que embasam o seu pedido, no caso, os formulários emitidos pelo empregador em que descritos os trabalhos desempenhados, suas condições e os agentes agressivos a que estava submetido.
+Ocorre que a falta de impugnação de fundamento autônomo do acórdão atrai a incidência da Súmula 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Quanto ao mais, não prospera a alegação de nulidade do julgado por cerceamento de defesa, visto que a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que o juiz é o destinatário das provas e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, tais como produção de novos laudos ou oitiva de testemunhas, à luz do princípio do livre convencimento motivado.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. DISCRICIONARIEDADE DO JULGADOR. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova testemunhal. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. Consoante entendimento desta Corte, "a apuração da necessidade de produção da prova testemunhal ou a ocorrência de cerceamento de defesa decorrente da falta daquela demandam reexame de aspectos fático-probatórios, o que encontra óbice na Súmula 7 do STJ" (STJ, REsp 1.791.024/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/04/2019).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.604.351/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/6/2022, DJe de 20/6/2022.).
+Nesse mesmo sentido: "o magistrado, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização de provas e diligências protelatórias, desnecessárias ou impertinentes" (AgInt no AREsp n. 1.540.888/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)"
+Nesse ponto incide o óbice da Súmula 83 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER, em parte, do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
