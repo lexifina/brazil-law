@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Og Fernandes.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMERIA DA PENA. REVISÃO. AGRAVO IMPROVIDO.
+1. A questão em discussão consiste em saber se a dosimetria da pena aplicada ao agravante, com base em duas circunstâncias judiciais desfavoráveis, foi realizada de forma desproporcional e se há necessidade de readequação da pena.
+2. A revisão da dosimetria da pena em habeas corpus é possível apenas em casos de manifesta ilegalidade ou abuso de poder, o que não se verifica no presente caso.
+3. A fixação da pena-base acima do mínimo legal foi fundamentada na presença de antecedentes criminais e culpabilidade, com base em elementos concretos que demonstram a gravidade acentuada da conduta do agravante.
+4. A aplicação de fração superior a 1/3 na terceira fase da dosimetria, em razão das majorantes do uso de arma de fogo e concurso de pessoas, foi considerada legítima e devidamente fundamentada.
+5. O regime inicial fechado foi considerado adequado, em conformidade com o art. 33, §§ 2º e 3º, do Código Penal, devido à gravidade do crime e à presença de circunstância judicial desfavorável.
+6. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MIKE DA SILVA contra a decisão de fls. 132-139 que denegou a ordem de habeas corpus.
+Consta dos autos que o agravante foi condenado como incurso no art. 157, § 2º, I e II, do Código Penal, à pena de 10 anos e 6 meses de reclusão, em regime prisional inicial fechado, além do pagamento de 27 dias-multa.
+O Tribunal de origem, em decisão unânime, deu parcial provimento ao recurso de apelação criminal da defesa, para reduzir a pena a 9 anos, 7 meses e 15 dias de reclusão, além do pagamento de 24 dias-multa.
+A parte agravante, nas razões do agravo regimental, abordou questões relativas à aplicação da pena, aduzindo pela readequação da pena observando os parâmetros legais e jurisprudenciais do STF e STJ.
+Requer o provimento do recurso, com a reconsideração da decisão agravada para readequação da pena.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMERIA DA PENA. REVISÃO. AGRAVO IMPROVIDO.
+1. A questão em discussão consiste em saber se a dosimetria da pena aplicada ao agravante, com base em duas circunstâncias judiciais desfavoráveis, foi realizada de forma desproporcional e se há necessidade de readequação da pena.
+2. A revisão da dosimetria da pena em habeas corpus é possível apenas em casos de manifesta ilegalidade ou abuso de poder, o que não se verifica no presente caso.
+3. A fixação da pena-base acima do mínimo legal foi fundamentada na presença de antecedentes criminais e culpabilidade, com base em elementos concretos que demonstram a gravidade acentuada da conduta do agravante.
+4. A aplicação de fração superior a 1/3 na terceira fase da dosimetria, em razão das majorantes do uso de arma de fogo e concurso de pessoas, foi considerada legítima e devidamente fundamentada.
+5. O regime inicial fechado foi considerado adequado, em conformidade com o art. 33, §§ 2º e 3º, do Código Penal, devido à gravidade do crime e à presença de circunstância judicial desfavorável.
+6. Agravo regimental improvido.
+VOTO
+A pretensão recursal não pode ser acolhida, pois os argumentos trazidos no agravo regimental não demonstram desacerto da decisão que denegou o habeas corpus, que foi assim fundamentada (fls. 134-139):
+A revisão da dosimetria da pena, na via do habeas corpus, somente é possível em situações excepcionais de manifesta ilegalidade ou abuso de poder, cujo reconhecimento ocorra de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (HC 304083/PR, Rel. Min. Felix Fischer, Quinta Turma, D Je 12/3/2015).
+No caso, foi aplicada a fração de 2/2 para o aumento da pena-base, resultando em um acréscimo de 4 anos de reclusão em razão da presença de 2 circunstâncias judiciais desfavoráveis: antecedentes e culpabilidade.
+Verifica-se, que foram indicados elementos concretos que extrapolaram demasiadamente as elementares do tipo penal de roubo, revelando uma gravidade acentuada da conduta do paciente, o qual invadiu a residência das vítimas Ednalva, Lucas e Giovana, coagindo Lucas a mostrar o cofre da casa e ameaçando-o de morte e de cortar seus dedos, tudo presenciado pela menor Giovana. Em seguida, o paciente invadiu outra moradia, obrigando a vítima Fawler a levá-lo para outro local sob ameaças, com emprego de arma de fogo, logrando êxito na fuga juntamente com os demais coautores, o que levou a família das vítimas a se mudar de sua residência, justificando, portanto, um tratamento mais rigoroso na dosimetria da pena.
+ ..
+Vale destacar que "A jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade" (AgRg no AR Esp n. 2.045.906/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, D Je de 30/3/2023.)
+Assim, não há necessidade de "seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor" (AgRg no HC n. 718.681/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/8/2022, D Je de 30/8/2022).
+Na hipótese, considerada a presença de 2 vetoriais negativas, bem como o intervalo entre as penas mínima e máxima abstratamente previstas para o crime de roubo (de 4 a 10 anos de reclusão), não se verifica a apontada desproporcionalidade do aumento evado a efeito pelas instâncias ordinárias - 4 anos acima do mínimo -, considerado o livre arbítrio do magistrado e a fundamentação concreta utilizada para a negativação das vetoriais.
+ ..
+Na terceira fase da dosimetria, o Tribunal estadual já atendeu ao pedido subsidiário da defesa ao aplicar a fração de 3/8 diante do reconhecimento das majorantes do uso de arma de fogo e do concurso de pessoas. Esse fato demonstra que, nesse ponto também, não está presente o interesse de agir da defesa, uma vez que o Tribunal considerou devidamente as majorantes aplicáveis e realizou o aumento da pena conforme a fração pleiteada pela defesa.
+Ademais, as instâncias originárias apresentaram fundamentação concreta, revelando a acentuada gravidade do delito de roubo, especialmente devido ao número de armas de fogo e à quantidade de agentes envolvidos, justificando o tratamento mais rigoroso e a adoção de fração superior a 1/3.
+ ..
+Por fim, considerando-se o quantum da pena imposta, a existência de circunstância judicial desfavorável, o regime inicial fechado se mostra adequado, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+O Superior Tribunal de Justiça entende que a revisão da dosimetria da pena por meio de habeas corpus somente é possível em situações excepcionais, quando há manifesta ilegalidade, abuso de poder ou erro flagrante na fixação da pena, reconhecível sem aprofundamento nas provas do processo.
+Quanto à fixação da pena base acima do mínimo, há certa discricionariedade por parte do julgador que deverá ser sopesada diante da situação concreta. No presente caso, foi fundamentada pela presença de duas circunstâncias judiciais desfavoráveis: antecedentes criminais e culpabilidade. A conduta do réu foi considerada de gravidade acentuada, devido à invasão de residências, ameaças graves contra as vítimas (incluindo uma criança) e o uso de arma de fogo.
+As consequências foram tão severas que as vítimas tiveram que abandonar sua moradia, justificando uma dosimetria mais rigorosa, de acordo com o entendimento do STJ e a necessidade de fundamentação concreta prevista na Súmula n. 443.
+Na segunda fase da dosimetria da pena, o Tribunal de origem considerou que não havia interesse de agir no pedido de compensação integral entre a agravante da calamidade pública e a atenuante da confissão espontânea, uma vez que nenhuma agravante foi reconhecida, enquanto a atenuante foi aplicada, resultando na redução da pena intermediária.
+Na terceira fase da dosimetria, o Tribunal estadual atendeu ao pedido subsidiário da defesa ao aplicar a fração de 3/8, considerando as majorantes do uso de arma de fogo e do concurso de pessoas. Esse fato eliminou o interesse de agir da defesa, já que a fração aplicada foi a pleiteada.
+A decisão foi fundamentada em elementos concretos que demonstraram a acentuada gravidade do delito, como o número de armas de fogo e a quantidade de agentes envolvidos na ação criminosa. A aplicação de uma fração superior a 1/3 foi considerada legítima, alinhando-se ao entendimento do Superior Tribunal de Justiça, que permite o aumento proporcional da pena sempre que as circunstâncias agravantes forem devidamente justificadas e fundamentadas com base nas peculiaridades do caso concreto.
+Por fim, considerando a pena imposta e a existência de pelo menos uma circunstância judicial desfavorável, a fixação do regime inicial fechado foi considerada adequada, conforme o art. 33, §§ 2º e 3º, do Código Penal.
+Além disso, o § 3º determina que o juiz deve considerar a gravidade do crime, circunstâncias judiciais e condições pessoais do réu para determinar o regime mais apropriado. Assim, no caso analisado, a presença de uma circunstância negativa justifica o regime mais severo, em conformidade com a legislação e a jurisprudência do STJ.
+Portanto, verificado que o agravante não trouxe argumentos aptos a reformar a decisão agravada, esta se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
