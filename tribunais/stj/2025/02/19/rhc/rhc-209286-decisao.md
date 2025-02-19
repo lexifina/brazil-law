@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DAVI LOURENCO DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 723-733.
+No presente recurso, sustenta a defesa a necessidade do reconhecimento da nulidade da prisão preventiva decorrente da quebra da cadeia de custódia, pela ausência de realização do exame de corpo de delito, bem como pela obtenção de provas por meio ilícito e violação do direito ao silêncio.
+Defende que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+O Ministério Público Federal, às fls. 843-849, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+No tocante às nulidades apontadas pela defesa (decorrente da obtenção das provas por meio ilícito e violação ao direito de silêncio ), da leitura do acórdão objurgado verifica-se que tais matérias não foram alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Nesse sentido, os seguintes precedentes: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+Quanto a ausência de fundamentação para a manutenção da segregação cautelar, melhor sorte não socorre ao recorrente.
+A análise da decisão que decretou a prisão, permite a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta da conduta atribuída, haja vista que, foram apreendidas "mais de 700g de maconha (ao total), o que demonstra uma imersão intensa nessa nefasta prática, mormente considerando o pequeno município de Central de Minas, com pouco mais de 6 mil habitantes" - fl. 727.
+"É entendimento pacífico nesta Corte Superior que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade das drogas apreendidas" (AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+No mesmo sentido: AgRg no HC n. 923.584/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/9/2024; AgRg no RHC n. 193.464/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/8/2024; AgRg no RHC n. 190.350/MG, de minha relatoria, Quinta Turma, DJe de 16/8/2024 e AgRg no HC n. 914.608/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024).
+De mais a mais, no que concerne a ausência de realização do exame de corpo de delito, destacou a corte de origem que recomendou à "autoridade indigitada coatora para que diligencie insistentemente para que o presídio a realize, na maior urgência e brevidade possível" (fl. 733), inexistindo, assim, a ilegalidade apontada pela defesa.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
