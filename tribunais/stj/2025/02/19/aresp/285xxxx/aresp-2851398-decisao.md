@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra a decisão de inadmissibilidade do recurso especial, na qual foram indicados como violados os arts. 12, 186, 927 do Código Civil e 6º, VI, e 14, caput, do Código de Defesa do Consumidor.
+A decisão considerou que não foi demonstrada a vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão, além de que a revisão da posição da Turma Julgadora importaria em reexame de elementos fáticos, incidindo a Súmula n. 7 do STJ (fls. 303-304).
+Na petição de agravo em recurso especial, a agravante alega que o recurso especial preenche todos os requisitos legais e que a decisão de inadmissibilidade não considerou a violação dos dispositivos legais mencionados. Requer a remessa do recurso ao STJ, com a observância da gratuidade processual (fls. 310-315).
+A contraminuta do AREsp, apresentada pela TIM S.A., sustenta que o recurso não atinge os requisitos necessários para sua admissibilidade, pois não houve a citação dos preceitos supostamente agredidos de maneira clara. Requer a manutenção da decisão agravada (fls. 318-322).
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra o acórdão da 25ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, que negou provimento ao recurso de apelação interposto pela recorrente.
+O acórdão fundamentou-se na aplicação do art. 373, I, do CPC, mantendo a sentença de improcedência dos pedidos da parte apelante (fls. 270).
+O acórdão recorrido foi assim ementado (fl. 270):
+APELAÇÃO. Ação de obrigação de fazer c.c. obrigação de não fazer c.c. responsabilidade civil e indenização por danos morais. Alegação da parte autora de falha dos serviços prestados pela ré, uma vez que permaneceu enviando-lhe mensagens, e-mails e faturas de cobrança com o nome de registro originário, mesmo após solicitação de retificação dos dados cadastrais. Sentença de improcedência. Irresignação. Descabimento. Aplicação do art. 373, inciso I, do CPC. Sentença mantida. RECURSO NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte alega:
+a) violação do art. 12 do Código Civil, sustentando que o não uso ou desrespeito ao uso do nome social gera violação de direito à personalidade e consequente possibilidade de reparação.
+b) violação do art. 186 do Código Civil, argumentando que a decisão colegiada viola a interpretação atualizada dos dispositivos infraconstitucionais.
+c) violação do art. 927 do Código Civil, afirmando que há responsabilidade objetiva em caso de violação do dever de conduta e diligência em matéria de direitos humanos.
+d) violação do art. 6º, VI e 14, caput, do Código de Defesa do Consumidor, alegando que o fornecedor deve garantir segurança e respeito na fruição do objeto do contrato.
+Requer o conhecimento e provimento do recurso especial, julgando-se a presente integralmente procedente (fl. 315).
+Nas contrarrazões, a parte recorrida argumenta que o recurso interposto por Lorelay Fernanda Rodrigues Claro não atende aos requisitos de admissibilidade, pois não expõe claramente os dispositivos legais supostamente violados. Alega que o recurso busca apenas discutir o mérito sem justificar a necessidade de sua admissão, e que as alegações de violação são indiretas ou reflexas, o que é inadmissível. A TIM S.A. defende a manutenção da decisão que negou seguimento ao recurso especial, afirmando que não houve contrariedade à Lei Federal e que o simples inconformismo da agravante não justifica a revisão da decisão. Por fim, requer que o agravo seja desprovido, mantendo-se a decisão recorrida (fls. 318-322).
+É o relatório. Decido.
+O recurso não reúne condições de êxito.
+O Tribunal a quo, mantendo a sentença recorrida, concluiu que, de acordo com os elementos de prova dos autos, a parte autora não comprovou os fatos constitutivos de seu direito. Confiram-se trechos do acórdão recorrido (fls. 271-272):
+Pois bem. Não se desconhece que para os transexuais a alteração do prenome constitui medida que efetiva o direito fundamental de dignidade da pessoa humana e possibilita o pleno exercício de seus direitos de personalidade, assegurando seu bem-estar social por meio da identificação que corresponda à sua identidade de gênero.
+Logo, é de primordial relevância o direito do transexual de alterar o prenome e o designativo de sexo, sendo reconhecido por seu nome social, independentemente da realização de cirurgia de redesignação de sexo, conforme, inclusive, já reconhecido pelo STF no tema de Repercussão Geral 761 no RE 6700422.
+Ocorre que no presente caso, não se verifica tenha a autora comprovado os fatos constitutivos do seu direito, porquanto desde o ano 2018, quando afirma ter solicitado a retificação dos seus dados cadastrais à parte requerida, até o início de 2020, não demonstrou existência de qualquer irregularidade nesse aspecto e tão logo formalizada reclamação no PROCON, em 20/05/2020 (fls. 31/32), comunicando acerca de cobrança vinda com seu nome antigo (04/2020 fls. 35/40), obteve resposta da parte requerida se prontificando a solucionar a referida reclamação (em 22/05/2020 fl. 41).
+Por tais razões, a improcedência da ação fica mantida.
+Nesse contexto, para rever as conclusões adotadas na instância de origem e acatar a tese recursal da parte ora agravante, seria imprescindível o reexame do conjunto fático-probatório dos autos, medida vedada em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
