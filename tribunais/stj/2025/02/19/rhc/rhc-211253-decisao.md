@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por JOSE AUGUSTO NASCIMENTO RODRIGUES CHAVES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Habeas Corpus Criminal nº 6039158-61.2024.8.09.0011).
+Consta dos autos que o recorrente foi preso em flagrante pela suposta prática do delito tipificado no art. 311, § 2º, inciso III, do Código Penal.
+Daí o presente recurso, no qual a defesa busca o trancamento da ação penal por atipicidade dos fatos.
+Sustenta que "a motocicleta teria sido adquirida em leilão, motivo pelo qual estava sem a placa identificadora e com o número de chassi suprimido, sendo que essa supressão teria sido feita pelo próprio DETRAN em razão da venda por leilão. Conforme se observa do tipo criminal em que o paciente, em tese, estaria incurso, não há a conduta de conduzir veículo automotor com sinal de identificação "suprimido", mas, adulterado ou remarcado" (fl. 132).
+Requer, inclusive liminarmente, o conhecimento e provimento do presente recurso para "trancar a investigação criminal em andamento nos autos n. 6039158- 61.2024.8.09.0011" (fl. 136).
+Contrarrazões (fls. 144-145).
+É o relatório. DECIDO.
+A controvérsia consiste em se trancar a investigação penal, em razão de suposta inépcia da denúncia, atipicidade e nulidades.
+In casu, da análise dos elementos informativos constantes dos autos, contudo, não há flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Inicialmente, ressalto que o trancamento penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova da materialidade.
+A liquidez dos fatos, assim, constitui requisito inafastável na apreciação da justa causa, pois o exame aprofundado de provas é inadmissível no espectro processual do habeas corpus ou de seu recurso ordinário, uma vez que seu manejo pressupõe ilegalidade ou abuso de poder flagrante a ponto de ser demonstrada de plano (AgRg no HC n. 881.836/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 11/4/2024).
+No mesmo sentido:
+ ..  Como é de conhecimento, o trancamento de ação penal ou de procedimento investigativo na via estreita do habeas corpus somente é possível, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou prova da materialidade do delito. Não se admite, por essa razão, na maior parte das vezes, a apreciação de alegações fundadas na ausência de dolo na conduta do agente ou de inexistência de indícios de autoria e materialidade em sede mandamental, pois tais constatações dependem, via de regra, da análise pormenorizada dos fatos, ensejando revolvimento de provas incompatível, como referido alhures, com o rito sumário do mandamus (AgRg no RHC n. 194.209/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/3/2024).
+Com efeito, segundo pacífica jurisprudência desta Corte Superior, a propositura penal exige tão somente a presença de indícios mínimos de autoria, não sendo exigida a certeza, que a toda evidência somente será comprovada ou afastada após a instrução probatória, prevalecendo, na fase de (pré)oferecimento da denúncia, o princípio da busca pela verdade real.
+Para ilustrar, trago à colação o acórdão (fls. 114-123):
+ ..  É sabido que para determinar se as ações do paciente se enquadram ou não nos tipos penais descritos na acusação, é necessário analisar detalhadamente as evidências factuais apresentadas. Isso requer interpretação e avaliação minuciosas dos fatos e das provas, o que não pode ser realizado por meio desse recurso de caráter sumaríssimo.
+ ..  No caso concreto, da leitura da denúncia é fácil concluir que os fatos descritos, a princípio, se amoldam aos delitos em que denunciado, bem como não configurada qualquer causa de extinção da punibilidade.
+ ..  A descrição é concisa, porém identifica de maneira precisa as condutas criminosas, permitindo uma defesa completa, e segue as diretrizes do artigo 41 do Código de Processo Penal ao apresentar a exposição do crime, suas circunstâncias, a identificação do paciente, a classificação dos delitos e o rol de testemunhas.
+Por fim, a respeito do alegado constrangimento ilegal, cabe ressaltar que a obrigação de responder ao inquérito policial é um ato inerente ao processo investigatório e, por si só, não constitui constrangimento ilegal.
+Ao teor de tais considerações, acolho em parte o parecer Ministerial de Cúpula, conheço do pedido e denego a ordem impetrada.
+No caso dos autos, prima facie, é possível verificar a presença dos indícios mínimos de autoria e de provas da materialidade necessários para a (futura e eventual) persecução penal.
+Isso porque, nos termos do art. 41 do Código de Processo Penal, a denúncia deverá descrever o fato criminoso, com todas as suas circunstâncias, bem como a qualificação do acusado e a classificação do crime, in verbis:
+Art. 41. A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas.
+Da leitura da narrativa constante dos autos, observa-se que houve a descrição adequada dos fatos criminosos, em tese, imputados.
+De toda forma, do Código de Processo Penal, é possível concluir ainda que a emendatio e a mutatio libelli pode ser procedida:
+Art. 383. O juiz, sem modificar a descrição do fato contida na denúncia ou queixa, poderá atribuir-lhe definição jurídica diversa, ainda que, em consequência, tenha de aplicar pena mais grave.
+Art. 384. Encerrada a instrução probatória, se entender cabível nova definição jurídica do fato, em consequência de prova existente nos autos de elemento ou circunstância da infração penal não contida na acusação, o Ministério Público deverá aditar a denúncia ou queixa, no prazo de 5 (cinco) dias, se em virtude desta houver sido instaurado o processo em crime de ação pública, reduzindo-se a termo o aditamento, quando feito oralmente.
+ ..  Art. 418. O juiz poderá dar ao fato definição jurídica diversa da constante da acusação, embora o acusado fique sujeito a pena mais grave.  fase de pronúncia
+Art. 569. As omissões da denúncia ou da queixa, da representação, ou, nos processos das contravenções penais, da portaria ou do auto de prisão em flagrante, poderão ser supridas a todo o tempo, antes da sentença final. (grifei)
+Sobre o assunto, em complemento, este STJ entende que:
+ ..  a abertura de prazo para aditamento da denúncia não implica ofensa ao princípio da imparcialidade, uma vez que ao Juízo compete prover a regularidade do processo e manter a ordem no curso dos respectivos atos (AgRg no RHC n. 169.076/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Portanto, acerca das teses de mérito da defesa, não verifico o constrangimento ilegal.
+As questões apresentadas pela defesa dizem respeito diretamente ao mérito da ação penal e serão analisadas em seu tempo, após exame do acervo probatório e pelo juiz da instrução.
+Nesse compasso:
+ ..  O exame do preenchimento dos requisitos subjetivos pelo sentenciado, estabelecidos no art. 123 da Lei de Execução Penal, não pode ser analisado em via estreita do writ, por demandar análise fático-probatória (AgRg no RHC n. 155.097/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/12/2021).
+Corroborando: AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
