@@ -1,0 +1,15 @@
+DECISÃO
+O Ministério Público do Estado de Minas Gerais agrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça local, assim ementado:
+APELAÇÃO CRIMINAL PECULATO - RECURSOS DEFENSIVOS - PRELIMINARES - CERCEAMENTO DE DEFESA, INÉPCIA DA DENÚNCIA E INDEVIDA INVERSÃO DO ÔNUS DA PROVA - INOCORRÊNCIA . VÍCIOS INEXISTENTES - REJEIÇÕES - MÉRITO - ABSOLVIÇÃO - IMPROCEDÊNCIA - AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS DOLO DO PECULATO-DESVIO DELINEADO - CONDENAÇÕES MANTIDAS - REDUÇÃO DA REPRIMENDÁ - INVIABILIDADE - RECURSO MINISTERIAL - MAJORAÇÃO DA PENA IMPERTINÊNCIA  SANÇÕES ESTABELECIDAS EM PATAMARES PROPORCIONAIS E RAZOÁVEIS - MANTIDOS O REGIME ABERTO E A SUBSTITUIÇÃO DAS PENAS - RECONHECIMENTO EX OFFICIO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA EM RELAÇÃO A DOIS DOS ACUSADOS. (e-STJ fl. 6.619)
+O recorrente aponta a violação dos arts. 59 e 68 do CP, alegando, em síntese, que as circunstâncias do caso concreto devem ser sopesadas quando da averiguação das consequências - particularmente graves - do delito. Sustenta, no ponto, que os recorridos, na condição de vereadores e, valendo-se do cargo público, por 30 vezes desviaram dinheiro público em benefício próprio. Insurge-se, também contra a utilização da fração de 1/6 sobre a pena mínima para aumentar a pena base. "Pede que seja aplicada a fração de 1/8 sobre o intervalo da pena cominada ao delito.
+Contrarrazões às e-STJ fls. 6.862/6.873, 6.875/6.879 e 6.896/6.900.
+Manifestação do Ministério Público Federal às e-STJ fls. 6.993/6.994.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que os recorridos foram condenados pelo cometimento do crime do art. 312 c/c 61, inciso II, alínea "g", por trinta vezes, na forma do art. 71, todos do Código Penal.
+O recorrente alega que a gravidade do caso concreto autoriza a avaliação desfavorável das consequências do crime.
+De fato, como bem entendeu o TJMG a quantidade de crimes praticados foi considerada quando da escolha da fração de majoração da pena em razão da continuidade delitiva, não podendo ser sopesada também na primeira fase da dosimetria.
+Também sem razão quando pede a alteração da fração de aumento utilizada para exasperar a pena-base, isso porque considerando a ausência de previsão legal, o Superior Tribunal de Justiça firmou entendimento no sentido de que ficam observados os princípios da razoabilidade e da proporcionalidade com a exasperação da pena-base na fração de 1/6 da pena mínima cominada para o delito, ou 1/8 do intervalo entre as penas mínima e máxima previstas para o tipo penal, para cada circunstância judicial desfavorável, salvo diante de fundamentação concreta que justifique incremento diferenciado (AgRg no AREsp n. 2.552.344/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 9/8/2024).
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
