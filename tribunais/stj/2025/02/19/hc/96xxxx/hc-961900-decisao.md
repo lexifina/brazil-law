@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de EDSON ANTONIO DA SILVA, alegando constrangimento ilegal por parte do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO na apelação criminal n. 0000170-24.2020.8.17.0130, com acórdão assim ementado (fls. 31-32):
+PENAL E PROCESSUAL PENAL. APELAÇÕES. TRÊS RÉUS. HOMICÍDIO QUALIFICADO NA MODALIDADE TENTADA. ROUBOS QUALIFICADOS.RECEPTAÇÃO. ANULAÇÃO DO JULGAMENTO POR SER MANIFESTAMENTE CONTRÁRIO À PROVA DOS AUTOS. INCABÍVEL. CONDENAÇÃO REALIZADA COM LASTRO NAS PROVAS.DOSIMETRIA. REANÁLISE DAS CIRCUNSTÂNCIAS. JUDICIAIS. REINCIDÊNCIA. TRIBUNAL DO JÚRI. AGRAVANTE NÃO DEBATIDA EM PLENÁRIO. ADEQUAÇÃO DAS PENAS IMPOSTAS. RECURSOS PARCIALMENTE PROVIDOS.DECISÃO UNÂNIME.
+1) Quando o recurso de apelação é interposto contra a sentença proferida pelo Tribunal do Júri, sob o fundamento de contrariedade às provas dos autos, o colegiado responsável pelo exame do recurso fica adstrito à apreciação da existência ou não de suporte probatório para a decisão tomada pelos jurados integrantes do Conselho de Sentença, somente se admitindo a cassação do veredicto em caso de completa dissociação entre as conclusões dos jurados e os elementos probatórios.
+2) A decisão manifestamente contrária à prova dos autos é aquela que não encontra amparo nas provas produzidas, destoando, de maneira inequívoca e inquestionável, de todo o acervo probatório. A tese acolhida pelo Conselho de Sentença há de ser integralmente incompatível com as provas e totalmente divorciada da realidade que exsurge dos autos.
+3) Conclusão do Conselho de Julgamento que encontra apoio em prova dos autos, não sendo desse modo contrária.
+4) O Código Penal elenca os critérios para fixação da pena base a juízo prudente do magistrado, desde que, à luz da Constituição Federal, a dosimetria seja expressa em decisão fundamentada e obedecendo aos princípios da razoabilidade e proporcionalidade. Readequação das penas impostas.
+5) O agravamento decorrente do reconhecimento da reincidência deve ser afastado, em atenção ao disposto no art. 492, inc. I, alínea "b", do Código de Processo Penal.
+6) À unanimidade, deu-se parcial provimento aos recursos.
+Consta dos autos que o paciente foi condenado pela prática dos crimes previstos nos arts. 157, §2º, inciso II, e §2ºA, inciso I (duas vezes) e 121, §2º, inciso VII, c/c art. 14, inciso II, (quatro vezes), todos do Código Penal, à pena de 36 (trinta e seis) anos e 04 (quatro) meses de reclusão, para cumprimento em regime fechado.
+Inconformada, a defesa interpôs recurso de apelação, pretendendo a reforma na dosimetria da pena. A sentença foi reformada, para se fixar a pena definitiva em 34 (trinta e quatro) anos de reclusão.
+Neste writ, a impetrante pretende a revisão da dosimetria da pena, sob o argumento de que a pena fixada pelo Tribunal local não observou a jurisprudência desta Corte.
+Salienta a existência de desproporcionalidade na fixação da pena na primeira fase, pois fixada em patamar superior a 1/6 do mínimo legal.
+Requer, ao final, seja redimensionada a pena-base (fl. 12).
+O Tribunal local apresentou informações nas fls. 89-91.
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do writ (fls. 135-142).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+A jurisprudência do STJ é pacífica quanto ao entendimento de que a fixação da pena-base deve ser definida discricionariamente pelo julgador, em observância às peculiaridades do caso concreto e aos princípios da razoabilidade e da proporcionalidade. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. DISCRICIONARIEDADE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o índice de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+2. Uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, com fundamento nas circunstâncias do crime, nos maus antecedentes do acusado e na relevante quantidade de drogas - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo discricionário feito pela instância de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+3. Agravo regimental não provido.
+(AgRg no HC n. 898.677/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2024, DJe de 16/5/2024).
+No caso dos autos, como bem assentou o Tribunal de origem (fl. 21):
+No tocante à análise das circunstâncias judiciais, verifico que a pena-base não pode ser fixada no mínimo legal, como requerido pela defesa, ante o desvalor dos elementos descritos no art. 59 do CP.
+A culpabilidade mostrou-se exacerbada, visto que restou demonstrado que o réu cumpria pena e respondia a ações penais pela prática de outros delitos quando praticou os crimes em análise no presente feito.
+Verifica-se que o acusado apresenta maus antecedentes, posto que ostenta mais de uma condenação com trânsito em julgado em seu desfavor.
+Tem-se que a motivação dos crimes é reprovável, pois realizou os assaltos com o objetivo de proceder com novos delitos contra o patrimônio. Por sua vez, tentou contra a vida dos policiais no intuito de se furtar da ação policial e obter êxito na empreitada delitiva.
+As circunstâncias dos crimes ultrapassaram a reprovabilidade do tipo penal, posto que os assaltos foram cometidos em concurso de três agentes, utilizando-se de extrema violência, com emprego de mais de uma arma de fogo. Para se esquivar da ação da polícia o réu efetuou vários disparos contra a guarnição, colocando em risco a segurança de todos.
+As consequências dos crimes extrapolaram as consequências próprias do tipo, posto que o veículo roubado era utilizado para o transporte de mercadorias da vítima, sendo posteriormente utilizado para nova empreitada criminosa, culminando nos disparos proferidos contra a equipe policial.
+Com relação ao delito de tentativa de homicídio qualificado, tem-se que, embora o magistrado sentenciante tenha destacado o desvalor de alguns dos elementos descritos no artigo 59, fixou a pena-base em patamar ínfimo, considerando que, o preceito secundário do artigo 121, §2º, do Código Penal prevê pena de 12 a 30 anos, pelo que deve a pena-base ser mantida em 14 (quatorze) anos de reclusão, fato que não pode aqui ser corrigido por se tratar de recurso exclusivo da defesa, em observância ao princípio do non reformatio in pejus.
+Nesse ponto, cabe destacar que, pode o Tribunal utilizar-se de novos fundamentos jurídicos para manter a decisão prolatada, sem que isso possa configurar desrespeito ao princípio da proibição da reformatio in pejus. Neste sentido, é a orientação jurisprudencial do Superior Tribunal de Justiça.
+Nesse contexto, foi apresentada fundamentação idônea e suficiente para negativar as referidas circunstâncias judiciais, não havendo ilegalidade apta a justificar a revisão da dosimetria.
+Vale lembrar que esta Corte possui entendimento de que a revisão da dosimetria da pena em âmbito de habeas corpus é medida excepcional, possível apenas quando demonstrada flagrante ilegalidade, o que não é o caso dos autos.
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. PECULATO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. FLAGRANTE ILEGALIDADE RECONHECIDA DE OFÍCIO. AFASTAMENTO DA REINCIDÊNCIA. FATO ANTERIOR COM TRÂNSITO EM JULGADO POSTERIOR AO CRIME OBJETO DESTE PROCESSO. NÃO CABIMENTO. AGRAVANTE AFASTADA. REDIMENSIONADA A PENA E FIXADO O REGIME SEMIABERTO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL AO QUAL SE DÁ PROVIMENTO PARCIAL. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que rejeitou recurso em habeas corpus utilizado como substitutivo de recurso próprio para afastar a condenação transitada em julgado. O recorrente busca a desconsideração da reincidência e a revisão de atos processuais alegadamente mal conduzidos na fase criminal. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o recurso em habeas corpus pode ser utilizado para reanálise de provas ou desconstituição de coisa julgada; (ii) determinar se o reconhecimento da reincidência, com base em condenação cujo trânsito em julgado foi posterior ao fato criminoso, é válido. III. RAZÕES DE DECIDIR
+3. O habeas corpus, por sua natureza célere e sumária, não é via adequada para análise de provas ou para reverter sentença com trânsito em julgado, devendo ser reservado para a proteção da liberdade de locomoção diante de ilegalidades flagrantes.
+4. A jurisprudência consolidada do STJ e do STF estabelece que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+5. A reincidência não pode ser reconhecida quando a condenação utilizada como fundamento transitou em julgado após a data do fato criminoso em julgamento. No entanto, tal condenação pode caracterizar maus antecedentes, os quais influenciam na fixação da pena-base.
+6. A revisão da dosimetria da pena, no âmbito do habeas corpus, é admitida apenas em casos excepcionais de flagrante ilegalidade, sendo esse o caso ao se verificar que a condenação anterior não configura reincidência, mas pode ensejar maus antecedentes.
+7. Pena redimensionada para 2 anos e 4 meses de reclusão e 11 dias-multa, com a fixação do regime semiaberto para o cumprimento da pena. IV. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL AO QUAL
+SE DÁ PARCIAL PROVIMENTO PARA AFASTAR A AGRAVANTE DA REINCIDÊNCIA E
+REDIMENSIONAR A PENA DO RECORRENTE.
+(AgRg no RHC n. 183.484/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+DIREITO PENAL. HABEAS CORPUS. ESTELIONATO. DOSIMETRIA. PENA-BASE. FUNDAMENTOS CONCRETOS. QUANTUM PROPORCIONAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado por estelionato, com causa de aumento por se tratar de vítima idosa ou vulnerável, visando à revisão da dosimetria da pena.
+2. A defesa alega erro na dosimetria da pena e requer a redução da pena. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se é cabível o habeas corpus para revisar a dosimetria da pena imposta, quando não há flagrante ilegalidade ou desproporcionalidade evidente. III. RAZÕES DE DECIDIR
+4. O habeas corpus não é substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade que cause constrangimento ilegal.
+5. A dosimetria da pena, quando fundamentada em elementos concretos e dentro dos limites da discricionariedade do magistrado, não justifica revisão por meio de habeas corpus.
+6. No caso, as instâncias de origem valoraram negativamente as circunstâncias judiciais com base em elementos concretos, não havendo desproporção que justifique a concessão da ordem.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 954.367/PE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+Portanto, deve ser mantida inalterada a pena imposta ao paciente, pelos próprios fundamentos utilizados pelo Tribunal impetrado.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
