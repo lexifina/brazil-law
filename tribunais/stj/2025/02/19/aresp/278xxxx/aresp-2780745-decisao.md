@@ -1,0 +1,58 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por SANTA FELICIDADE TRANSPORTE E LOGISTICA LTDA e RIO AZUL TRANSPORTE E LOGISTICA LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/9/2024.
+Concluso ao Gabinete em: 7/11/2024.
+Ação: de indenização por danos materiais cumulada com compensação por danos morais e lucros cessantes, ajuizada por MARIA JOSE DA SILVA FERREIRA em desfavor dos agravantes, em virtude de acidente de trânsito.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu parcial provimento à apelação interposta pela parte agravada, nos termos da seguinte ementa:
+RESPONSABILIDADE CIVIL - ACIDENTE DE TRÂNSITO - DANOS MATERIAIS E MORAIS - Colisão de veículo da Autora com caminhão de propriedade da Requerida Rio Azul, conduzido por preposto da Requerida Santa Felicidade - Controversos os fatos alegados - Autora não comprovou a culpa das Requeridas pelo acidente (ônus que lhe incumbia) - Ausente o dever de indenizar - SENTENÇA DE IMPROCEDÊNCIA - Configurada a conduta imprudente do preposto da Requerida Santa Felicidade, que efetuou manobra de ingresso na via sem a atenção e os cuidados indispensáveis à segurança do trânsito e sem observar o direito de preferência de tráfego do veículo da Autora - Presente a responsabilidade solidária da Requerida Rio Azul (proprietária do caminhão) - Caracterizados os danos materiais - Não comprovados os lucros cessantes - Não configurado o dano moral - RECURSO DA AUTORA PARCIALMENTE PROVIDO, para condenar as Requeridas ao pagamento de indenização por danos materiais no valor de R$ 9.173,66.
+(e-STJ Fl. 391)
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam a violação dos arts. 373, I e II, 489, § 1º, II, III e IV, e 1.022, I, II e III, do CPC; 186 e 927 do CC; 29, III, "a", "b" e "c", da Lei n. 9.503/97 (Código de Trânsito Brasileiro); art. 5º, XXXV e LV, da CF/88, bem como dissídio jurisprudencial.
+Sustentam a negativa de prestação jurisdicional e a fundamentação deficiente do acórdão recorrido, sobretudo quanto à ausência de comprovação do acionamento da seta do veículo e ao respectivo nexo de causalidade a ensejar a responsabilidade civil dos agravantes.
+Aduzem que a parte autora não se desincumbiu de seu ônus probatório, de sorte que o referido fato atinente ao acionamento da seta influi diretamente na responsabilidade pelo acidente de trânsito.
+Asseveram, assim, a impossibilidade de reconhecimento de sua responsabilidade, notadamente considerando o direito de preferência de passagem no trânsito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do nexo de causalidade e à decorrente responsabilidade civil na espécie, em atenção à suficiência dos elementos informativos do caso concreto, de maneira que os embargos de declaração opostos pelas partes agravantes, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte.
+Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado. No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da existência de fundamento não impugnado e do reexame de fatos e provas
+De toda sorte, o Tribunal de origem, ao analisar a responsabilidade pelo acidente de trânsito, assim se manifestou:
+(..) Inconteste o direito de preferência do veículo da Autora (pois o veículo conduzido pelo preposto da Requerida Santa Felicidade estava estacionado antes de adentrar na via em que trafegava o veículo da Autora), de modo que cumpria ao preposto da Requerida Santa Felicidade "ao aproximar-se de qualquer tipo de cruzamento", "demonstrar prudência especial, transitando em velocidade moderada, de forma que possa deter seu veículo com segurança para dar passagem a pedestre e a veículos que tenham o direito de preferência" (artigo 44 da Lei número 9.503/97), o que caracteriza a culpa do preposto da Requerida Santa Felicidade pelo acidente.
+Ademais, o artigo 34 daquela Lei dispõe que "O condutor que queira executar uma manobra deverá certificar-se de que pode executá-la sem perigo para os demais usuários da via que o seguem, precedem ou vão cruzar com ele, considerando sua posição, sua direção e sua velocidade" o que não foi observado pelo preposto da Requerida Santa Felicidade.
+Assim, caracterizada a conduta imprudente do preposto da Requerida Santa Felicidade, que adentrou na pista sem a atenção e os cuidados indispensáveis à segurança do trânsito e sem observar o direito de preferência do veículo da Autora (que trafegava no fluxo regular da faixa de rolamento), de modo que presente a responsabilidade da Requerida Santa Felicidade pelos danos causados no acidente (em razão do vínculo de preposição, nos termos do artigo 932, inciso III, do Código Civil).
+De igual modo, presente a responsabilidade solidária da Requerida Rio Azul (proprietária do caminhão), conforme entendimento consolidado do Superior Tribunal de Justiça:
+(..)
+Em consequência, cabível a condenação das Requeridas ao pagamento de indenização por danos materiais, comprovados por meio do orçamento de menor valor para a realização do conserto do veículo da Autora (R$ 9.173,66 fls.47), notando-se que descabido o pedido de indenização suplementar em razão da alegada "desvalorização do veículo" fato não demonstrado. A quantia é acrescida de correção monetária desde a data do orçamento (16 de julho de 2021) e de juros moratórios de 1% ao mês desde a data do acidente (12 de julho de 2021).
+(..) (e-STJ Fls. 393/394, grifos nossos).
+As partes agravantes, entretanto, não impugnaram os fundamentos utilizados pelo TJ/SP, notadamente à aplicação dos arts. 34 e 44, do CTB, e à decorrente caracterização da culpa na espécie, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+Saliente-se, ademais, que alterar o decidido no acórdão impugnado, no que se refere ao ônus probatório, à conduta imprudente e à decorrente configuração da responsabilidade civil ante à análise da dinâmica do acidente de trânsito, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+- Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Ademais, a comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados aos agravantes anteriormente em 1% (e-STJ Fl. 395).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS E LUCROS CESSANTES. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de indenização por danos materiais cumulada com compensação por danos morais e lucros cessantes.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+9. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
