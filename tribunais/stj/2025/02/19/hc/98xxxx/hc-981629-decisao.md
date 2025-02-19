@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de FABIANO LEMOS GONCALES em que se aponta como ato coator decisão proferida pelo Tribunal de Justiça do Estado de São Paulo/SP.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto o Juízo a quo teria indeferido pedido de expedição de certificado de conclusão do ensino médio com base em seu desempenho no ENEM para fins de remição de pena, sob o argumento de que o paciente já havia concluído o ensino médio fora do ambiente carcerário.
+Requer, em suma, "I) Seja concedida a ordem de Habeas Corpus para garantir ao réu o pleno exercício de seu direito à educação, permitindo a continuidade de seus estudos e benefício da remição de pena pela aprovação no Enem, considerando a educação como um direito fundamental assegurado pela Constituição Federal e pela Lei de Execução Penal. 2. II) Que o indeferimento do pedido de educação no cárcere seja revisto, tendo em vista a impropriedade da justificativa utilizada pelo juiz de 1o grau, que desconsiderou a natureza do direito à formação continuada e à educação superior como parte do processo de ressocialização. III) a determinação para que a decisão de indeferimento do agravo seja anulada, por falta de fundamentação adequada, conforme exige o artigo 93, inciso IX, da Constituição Federal, que requer decisões devidamente fundamentadas, especialmente quando restringem direitos fundamentais. 4. IV) Que se reconheça a função social do Enem para pessoas privadas de liberdade e seu papel na ressocialização, assegurando tratamento isonômico aos apenados que buscam melhorar sua condição através da educação, em respeito ao princípio da isonomia constitucional. V) A notificação do Estado para que providencie a inclusão do réu em programas educacionais adequados dentro do sistema prisional, garantindo o acesso aos estudos e à remição de pena correspondente" (fls. 16/17).
+É o relatório.
+Decido.
+Constitui ônus do impetrante instruir a inicial do habeas corpus com as peças necessárias ao exame da pretensão nele deduzida a fim de demonstrar o alegado constrangimento ilegal, sob pena de não conhecimento do writ.
+Nesse sentido: AgRg no HC n. 780.331/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 17/2/2023; AgRg no HC n. 786.745/PR, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 16/12/2022; RCD no HC n. 760.577/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/9/2022).
+No caso, o impetrante não juntou cópia da decisão proferida pelo Tribunal de Justiça do Estado de São Paulo nos autos do agravo em execução que o impetrante aponta na inicial como ato coator (fl. 03) e que pretende a declaração de nulidade (fl. 17).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Cientifi que-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
