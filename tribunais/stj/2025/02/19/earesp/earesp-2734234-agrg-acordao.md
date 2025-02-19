@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JÚRI. DOSIMETRIA. BIS IN IDEM. AUSÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No delito de homicídio, havendo pluralidade de qualificadoras, uma delas indicará o tipo qualificado, enquanto as demais poderão indicar uma circunstância agravante, desde que prevista no artigo 61 do Código Penal, ou, residualmente, majorar a pena-base, como circunstância judicial (ut, AgRg no REsp n. 1.695.310/PA, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe de 21/11/2017).
+2. No caso, a sentença condenatória reconheceu na primeira fase da dosimetria duas vetoriais desfavoráveis: a culpabilidade, em razão da premeditação e da frieza, e as consequências do crime, considerando que o corpo da vítima somente foi encontrado um mês depois do seu desaparecimento, causando imensa aflição e sofrimento aos seus familiares. Na segunda fase, constatou-se a presença da atenuante da confissão espontânea e das agravantes do motivo torpe e do recurso que dificultou a defesa da vítima, razão pela qual foram compensadas as duas primeiras, e a pena foi exasperada pela circunstância remanescente (recurso que dificultou a defesa da vítima). Infere-se, portanto, que reconhecida três qualificadoras, uma foi utilizada para qualificar o crime (asfixia) e as demais para agravar a pena na segunda fase, não havendo que se falar em bis in idem, como entendeu o Tribunal.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 348/352, de minha relatoria, que não conheci do agravo para não conhecer do recurso especial pela incidência do óbice da Súmula n. 7 do STJ.
+O agravante se insurge contra essa decisão alegando que "o motivo torpe já havia sido utilizado para qualificar o crime (na pronúncia e na condenação) e não poderia ser utilizado como circunstância agravante, por clara infringência ao non bis in idem, violando os arts. 59 e 68, ambos do CP." (e-STJ fl. 1.890)
+Requer a reconsideração do decisum ou o julgamento do recurso pelo órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JÚRI. DOSIMETRIA. BIS IN IDEM. AUSÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No delito de homicídio, havendo pluralidade de qualificadoras, uma delas indicará o tipo qualificado, enquanto as demais poderão indicar uma circunstância agravante, desde que prevista no artigo 61 do Código Penal, ou, residualmente, majorar a pena-base, como circunstância judicial (ut, AgRg no REsp n. 1.695.310/PA, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe de 21/11/2017).
+2. No caso, a sentença condenatória reconheceu na primeira fase da dosimetria duas vetoriais desfavoráveis: a culpabilidade, em razão da premeditação e da frieza, e as consequências do crime, considerando que o corpo da vítima somente foi encontrado um mês depois do seu desaparecimento, causando imensa aflição e sofrimento aos seus familiares. Na segunda fase, constatou-se a presença da atenuante da confissão espontânea e das agravantes do motivo torpe e do recurso que dificultou a defesa da vítima, razão pela qual foram compensadas as duas primeiras, e a pena foi exasperada pela circunstância remanescente (recurso que dificultou a defesa da vítima). Infere-se, portanto, que reconhecida três qualificadoras, uma foi utilizada para qualificar o crime (asfixia) e as demais para agravar a pena na segunda fase, não havendo que se falar em bis in idem, como entendeu o Tribunal.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos, in verbis (e-STJ fls. 1.876/1.880):
+Os elementos existentes nos autos informam que o TJBA deu parcial provimento ao apelo defensivo para reconhecer a existência de bis in idem na utilização do motivo torpe, reduzindo a pena dos recorrentes para 14 anos e 5 meses de reclusão, pela prática do crime do art. 121, § 2º, incisos I, III e IV, do CP.
+O recorrente alega ser perceptível que as qualificadoras do motivo torpe e de recurso que impossibilitou a defesa da vítima foram utilizadas, in casu, como circunstâncias agravantes, restando, por óbvio, a qualificadora do emprego de veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel, ou de que possa resultar perigo comum, para qualificar o crime, inexistindo, portanto, bis in idem no caso em espécie, ao revés do quanto fundamentado no r. acórdão.
+Com razão, porquanto os recorrentes foram denunciados e condenados porque de forma voluntária e conscientemente, em comunhão de esforços e unidade de desígnios, mataram o adolescente José Pereira dos Santos Neto por motivo torpe, por meio de asfixia e com recurso que dificultou a defesa da vítima (arr. 121, § 2º, incisos I, III e IV, do CP).
+A sentença condenatória reconheceu na primeira fase da dosimetria duas vetoriais desfavoráveis: a culpabilidade, em razão da premeditação e da frieza, e as consequências do crime, considerando que o corpo da vítima somente foi encontrado um mês depois do seu desaparecimento, causando imensa aflição e sofrimento aos seus familiares (e-STJ fl. 1.237).
+Na segunda fase, constatou-se a presença da atenuante da confissão espontânea e das agravantes do motivo torpe e do recurso que dificultou a defesa da vítima, razão pela qual foram compensadas as duas primeiras, e a pena foi exasperada pela pela circunstância remanescente (recurso que dificultou a defesa da vítima).
+Infere-se, portanto, que reconhecida três qualificadoras, uma foi utilizada para qualificar o crime (asfixia) e as demais para agravar a pena na segunda fase, não havendo que se falar em bis in idem, como entendeu o Tribunal.
+Enfatiza-se que, no delito de homicídio, havendo pluralidade de qualificadoras, uma delas indicará o tipo qualificado, enquanto as demais poderão indicar uma circunstância agravante, desde que prevista no artigo 61 do Código Penal, ou, residualmente, majorar a pena-base, como circunstância judicial (ut, AgRg no REsp n. 1.695.310/PA, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe de 21/11/2017).
+Ante o exposto, com amparo no art. 932, inciso VII, do CPC, c/c o art. 253, parágrafo único, inciso II, c, parte final, do RISTJ, conheço do agravo e dou provimento ao recurso especial para restabelecer a pena fixada na sentença de e-STJ fls. 1.233/1.243.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
