@@ -1,0 +1,35 @@
+DECISÃO
+Trata -se de habeas corpus, com pedido de liminar, impetrado em favor de CLAUDIO LEANDRO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, agravo interno criminal n. 0700773-24.2022.8.07.0014.
+Consta dos autos que o paciente foi condenado a pena de pena de 2 (dois) anos e 4 (quatro) meses, em regime inicial semiaberto, pela prática do delito capitulado no art.1º, inciso I, alínea "a", da Lei n. 9.455/1997.
+O impetrante sustenta a ocorrência de flagrante ilegalidade, argumentando que o monitoramento eletrônico, com recolhimento domiciliar noturno e nos dias de folga, representa efetiva privação da liberdade de locomoção, computa-se como período cumprido de pena.
+Requer, liminarmente e no mérito, a revogação a medida cautelar imposta, eis que ultrapassada a pena fixada, já cumprida, por força do Tema n. 1.155 deste Eg. STJ, com a ressalva, ainda, dos prazos, períodos transcorridos, pena cumprida, regime inicial e requisitos para tanto do art. 282 do CPC/2015 (fl. 09).
+Informações prestadas (fls. 81/116).
+Manifestação Ministerial, pelo não conhecimento do writ (fls. 118/128).
+Vieram os autos conclusos (fl. 130).
+É o relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020, e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+De início, cumpre colacionar as informações prestadas pela Vara de Execuções Penais do Distrito Federal (fls. 359/360, grifamos):
+Em relação ao objeto do presente informo que o paciente, atualmente, é monitorado writ, eletronicamente pelo Centro Integrado de Monitoração Eletrônica (CIME) deste Distrito Federal, por determinação da Vara Criminal e do Tribunal do Júri do Guará, conforme Ação Penal n. 0700773- 24.2022.8.07.0014.
+Esclareço que ainda não tramita perante este Juízo nenhum processo de execução em desfavor do paciente, uma vez que ainda não transitou em julgado a condenação contra ele proferida. Assim, ainda, não foi expedida e distribuída a este Juízo a carta de guia necessária ao início da execução.
+A Defesa do sentenciado formalizou pedido de reconhecimento da detração decorrente do tempo cumprido sob monitoração eletrônica, com a consequente extinção da punibilidade pelo cumprimento integral. O pedido foi distribuído a este Juízo nos autos do pedido de providências nº 0410077- 49.2024.8.07.0015.
+Informo a Vossa Excelência, por fim, que este Juízo, em decisão de 16/09/2024, não conheceu do pedido formulado pela Defesa, porque ausente o trânsito em julgado da condenação e ainda não distribuído o processo de execução, o Juízo desta Vara de Execuções Penais não possui competência para a análise dos pedidos de detração e extinção da pena.
+Ao se debruçar sobre a fundamentação consignada no acórdão atacado, verifica-se que, naquele julgamento, apreciou-se tão somente a necessidade de manutenção das medidas cautelares anteriormente impostas pelo Juízo sentenciante contra as quais se insurgiu a defesa (fls. 11/18).
+Nota-se, portanto, que, a matéria relacionada ao alegado integral cumprimento da pena não foi enfrentada pela Corte distrital, a qual inclusive declarou que sequer foi expedida guia de execução provisória em nome do Paciente, conforme item 2 da ementa do respectivo acórdão (fl. 11) .
+Desse modo, mostra-se inviável conhecer diretamente do pleito de eventual cumprimento da pena, visto que fazê-lo esta Corte Superior no julgamento do presente habeas corpus configuraria atuação em indevida supressão de instância.
+É nesse sentido  a  jurisprudência  consolidada  por  este  Tribunal  Superior:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA "E", DA CONSTITUIÇÃO DA REPÚBLICA. PEDIDOS NÃO APRECIADOS PELA CORTE LOCAL NO JULGAMENTO DA APELAÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Entende o Superior Tribunal de Justiça que não deve ser conhecido habeas corpus que tenha o escopo de rediscutir condenação definitiva, pois nesse caso é cabível o ajuizamento de revisão criminal, ação autônoma para a qual esta Corte Superior não possui competência na espécie. Nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça julgar, originariamente, as revisões criminais e as ações rescisórias de seus próprios julgados, o que não é o caso dos autos.
+2. Não é possível, também, a análise direta por este Tribunal de questões não apreciadas pela Corte local, sob pena de supressão de instância, tendo em vista as teses defensivas não foram alegadas nas razões da apelação.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 718.286/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. IDADE AVANÇADA. PEDIDO NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SALVO-CONDUTO. IMPEDIR O RECOLHIMENTO PARA INICIAR O CUMPRIMENTO DE PENA EM REGIME SEMIABERTO. INVIABILIDADE. AGRAVO DESPROVIDO.
+I - O agravo regimental deve trazer argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão impugnada por seus próprios fundamentos.
+II - O cabimento de prisão domiciliar, em razão da idade avançada do paciente, não foi apreciado pelo eg. Tribunal a quo, o que impede que esta Corte Superior conheça do recurso no ponto, sob pena de incorrer em indevida supressão de instância.
+III - É inviável a expedição de salvo-conduto para impedir que o recorrente seja recolhido à prisão para dar início ao cumprimento da pena em regime semiaberto. Não há como pressupor, por mera conjectura, que não haverá vaga em estabelecimento penal adequado ao regime imposto na sentença, porquanto, em verdade, referida constatação pressupõe o início da execução da pena, com o recolhimento do sentenciado, momento em que se deflagra a competência do Juízo da Execução.
+Agravo regimental desprovido.
+(AgRg no RHC n. 93.864/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 19/6/2018, DJe de 28/6/2018.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
