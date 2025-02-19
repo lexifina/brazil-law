@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 440):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MEDIDA CAUTELAR FISCAL. PESSOA JURÍDICA. INDISPONIBILIDADE DE BENS. ATIVO PERMANENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões dos embargos, a parte sustenta a existência de omissão, aos seguintes argumentos (fls. 447-448):
+Ocorre, entretanto, que o agravo interposto abordou a questão relativa à vedação prevista pela súmula 07 do Superior Tribunal de Justiça. Os embargantes delinearam cuidadosamente que "no que se refere ao alegado suposto necessário revolvimento fático-probatório, tal questão já restou suficientemente analisada nas razões recursais, concluindo-se pela absoluta desnecessidade da análise probatória (..).. O acórdão recorrido reconhece que a) o fundo era de liquidez diária; b) houve movimentação de resgate de valores no período imediatamente anterior ao bloqueio de bens (dezembro de 2022 e janeiro de 2023), conforme reprodução do extrato bancário."
+Ainda, explicitou-se que "é plenamente dispensável qualquer espécie de revolvimento probatório para constatar que o investimento fazia parte do ativo circulante da empresa. Afinal, o acórdão apresenta os elementos necessários para verificar a configuração do ativo circulante, nos termos da Lei nº 6.404/76: as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de recursos em despesas do exercício seguinte. Assim, o que se discute no presente recurso é o fundamento do acórdão, que mesmo reconhecendo que o montante indisponibilizado estava investido em fundo de liquidez diária, lhe classificou como ativo imobilizado".
+Nada obstante, da leitura da decisão de Vossa Excelência, respeitosamente, infere-se que não houve pronunciamento quanto aos argumentos trazidos pela recorrente que evidenciaram a desnecessidade de revolvimento de matéria fático probatória. A questão, portanto, é estritamente jurídica e, não, fática. A classificação apontada no recurso - ativo circulante ou não - prescinde, como já detalhado na peça recursal, de qualquer exame das provas.
+Requer o acolhimento dos aclaratórios, para que seja suprida a omissão apontada.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Analisando as razões apresentadas pela parte embargante, verifica-se que inexiste qualquer vício a ser sanado no julgado, uma vez que a decisão embargada conheceu do agravo para não conhecer do recurso especial, diante da incidência da Súmula 7/STJ, tendo em vista que a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o investimento está inserido na categoria de ativo não circulante.
+Diante da ausência de demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
