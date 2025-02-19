@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra a decisão que inadmitiu o recurso especial em razão da ausência de demonstração de violação do dispositivo arrolado, da incidência da Súmula n. 7 do STJ e da falta de comprovação do dissenso jurisprudencial.
+No agravo em recurso especial, a parte agravante refuta os fundamentos de inadmissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra o acórdão do Tribunal de Justiça de São Paulo que negou provimento ao recurso de apelação, mantendo a sentença de improcedência da ação de nulidade de negócio jurídico.
+O acórdão fundamentou-se na ausência de indícios de coação ou defeito no negócio jurídico e na falta de comprovação dos fatos constitutivos do direito dos autores. Foi assim ementado:
+APELAÇÃO. NEGÓCIO JURÍDICO. NULIDADE. Pretensão de declaração da nulidade de instrumento particular de cessão e transferência de bem imóvel. Sentença de improcedência. Inconformismo. Imóvel que foi transferido pela genitora aos filhos, com reserva de usufruto ao réu. Ausência de qualquer indício de coação ou outro defeito do negócio jurídico. Ainda que um dos cessionários fosse relativamente incapaz à época, é certo que o negócio jurídico foi realizado pelos seus genitores, que são seus representantes legais. Ausente a mínima comprovação dos fatos alegados na inicial, não se mostra exigível a comprovação, pelo réu, dos fatos modificativos, desconstitutivos ou extintivos do direito pleiteado pelos autores, nos termos do art. 373, II, do CPC. Sentença mantida. RECURSO DESPROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 320 do Código Civil, argumentando que o recorrido não comprovou o pagamento do valor devido;
+b) 171 do Código Civil, sustentando a anulabilidade do negócio jurídico em razão da incapacidade relativa de um dos cessionários e de coação;
+c) 1.022, II, e 489, § 1º, IV, do CPC, alegando omissão na análise de provas e argumentos apresentados, como o áudio que comprovaria a coação.
+Requer a nulidade do acórdão por erro na valoração das provas e a reforma da sentença para que se reconheça a nulidade do contrato ou, alternativamente, a condenação do recorrido ao pagamento do valor estipulado no contrato.
+Não houve contrarrazões (fls. 232).
+É o relatório. Decido.
+O recurso não reúne condições de êxito.
+A parte recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022, I e II, do CPC ao argumento de que o acórdão recorrido foi omisso na análise de provas e argumentos apresentados, como o áudio que comprovaria a coação.
+Contudo, para o suprimento da omissão apontada, não foram opostos embargos de declaração na origem, o que impede o conhecimento da matéria em recurso especial, em decorrência da incidência da Súmula n. 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. TESE NÃO CONHECIDA. AUSÊNCIA DE EMBARGOS DECLARATÓRIOS NA ORIGEM. ARGUMENTO NÃO ATACADO. SÚMULA N. 283/STF. NORMA INTERNA DA CORTE LOCAL. SÚMULA N. 280/STF. DECISÃO MANTIDA.
+1. "Inafastável a incidência da Súmula 284 do STF à alegada violação do art. 535 do CPC, uma vez que do acórdão que julgou o agravo regimental na origem não houve oposição de embargos de declaração para instar a Corte de origem a sanar eventual vício contido no aresto" (AgRg no AREsp n. 244.325/SC, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/2/2013, DJe 19/2/2013).
+2. É inadmissível o recurso especial quando não houver a impugnação de fundamento do acórdão recorrido apto, por si só, a manter o inteiro teor do julgado. Aplicação, por analogia, da Súmula n. 283/STF.
+3. É incabível a análise de norma de direito local em recurso especial. Incidência da Súmula n. 280/STF.
+4. Agravo regimental improvido. (AgRg no REsp n. 1.446.996/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 1º/9/2015, DJe de 8/9/2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. Os embargos de declaração constituem recurso adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes aclaratórios, a análise da pretensão de nulidade da decisão por negativa de prestação jurisdicional atrai o óbice contido na Súmula 284 do STF. Precedentes.
+ ..
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.216.717/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+No mais, verifica-se que a Corte de origem, soberana na interpretação de cláusulas contratuais e na análise dos fatos e provas dos autos, concluiu que não havia indícios de coação ou defeito no negócio jurídico, bem como que no contrato constava a quitação do valor.
+Confira-se, a propósito, excerto do acórdão (fls. 207-209, destaquei):
+Pretendem os autores-apelantes a declaração de nulidade do instrumento particular de cessão e transferência de compromisso de compra e venda, alegando que (a) o contrato foi firmado mediante coação física e emocional praticada pelo réu, (b) um dos contratantes era menor de idade à época e (c) o pagamento não foi realizado. Afirmam, ainda, que após a celebração do negócio, foram despejados do imóvel pelo réu.
+O réu, regularmente intimado, apresentou defesa negando qualquer coação, bem como alegou que os filhos permaneceram com ele após a coautora deixar o lar. Refere que o pagamento foi realizado diretamente à coautora e de forma parcelada.
+Após instrução processual, sobreveio a sentença que julgou improcedente a demanda.
+Como se sabe, a coação é uma pressão sobre a formação da vontade negocial, mas nem toda pressão é coação que a lei qualifica como vício de consentimento. Para que o negócio jurídico seja anulável, é preciso que a coação reúna os seguintes elementos cumulativos:
+"a) provenha de outra pessoa; b) represente uma ameaça de dano; c) o mal ameaçado seja injusto; d) o mal ameaçado seja grave; e) o mal ameaçado seja iminente; d) se refira às pessoas e bens indicados pela lei (art. 151) e g) seja causa eficiente da realização do negócio" (Humberto Theodoro Júnior, Comentários ao Novo Código Civil, Forense, vol. III, tomo II, p. 172).
+Na lição da melhor doutrina, "não há vício do consentimento se o medo incutido ao declarante resulta do exercício normal de um direito ou de simples temor reverencial. No que se refere à ameaça perpetrada no exercício normal de um direito, cuida-se de ameaça legitimamente produzida, que exclui a coação. Se o credor de uma dívida vencida e não paga ameaça executar o devedor, não se configura a coação, por ser ameaça justa, relacionada às garantias das relações jurídicas presentes no ordenamento" (Gustavo Tepedino et al., Código Civil Interpretado Conforme a Constituição da República, 2ª Ed., Rio de Janeiro: Renovar, 2007, p. 291).
+Nesse contexto, para que um ato ou negócio jurídico, tido como perfeito, possa ser declarado inválido, nulo ou anulável, como estabelece o artigo 166 e seguintes do Código Civil, faz-se mister que o vício causador da anulação, qualquer que tenha sido o alegado como fundamento da invalidade (erro, dolo, coação, lesão, estado de perigo, fraude ou simulação), seja devidamente comprovado, de tal maneira que nenhuma dúvida possa existir a respeito.
+No caso vertente, em que pese o inconformismo dos apelantes, não se verifica qualquer fato concreto a apontar que o apelado tenha se utilizado de artifícios para induzir a autora a firmar o contrato. Vale dizer: não estão presentes nenhuma das hipóteses do art. 171 do Código Civil.
+E nem mesmo a tese de anulabilidade dos atos praticados por um dos cessionários (Cristian) em razão de ser relativamente incapaz à época dos fatos merece acolhimento. Isto porque o negócio jurídico foi realizado pelos genitores dele, que são os seus representantes legais.
+De se observar, ademais, que, ao contrário do narrado na exordial, o imóvel foi cedido pela coautora Rita aos seus dois filhos, Geliel e Cristian, coautores da demanda, pelo preço de R$ 42.000,00. No contrato consta, ainda, a quitação do valor e cláusula de reserva de usufruto para o réu- apelado (fls. 22/23).
+Desse modo, não há qualquer indício de dolo ou coação, que pudesse repercutir na lisura e liberdade do ato jurídico praticado pelas partes.
+E como bem observou o Ilustre Magistrado singular, "cumpria à parte autora comprovar os fatos constitutivos do seu direito, ônus que não se desincumbiu".
+Ausente a mínima comprovação dos fatos alegados na inicial, não se mostra exigível a comprovação, pelo réu, dos fatos modificativos, desconstitutivos ou extintivos do direito pleiteado pelos autores, nos termos do art. 373, II, do CPC.
+Assim, era mesmo caso de improcedência da demanda.
+Desse modo, para rever a conclusão adotada na origem e acatar as teses recursais de anulabilidade, de coação e de não comprovação do pagamento, seria imprescindível interpretar cláusulas contratuais e reexaminar o conjunto fático-probatório dos autos , medidas vedadas em recurso especial, em face dos óbices das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
