@@ -1,0 +1,43 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    EMENTA: APELAÇÕES CRIMINAIS - CRIMES CONTRA A ORDEM TRIBUTARIA (INCISOS 1, II E V DO ARTIGO 1° DA LEI N.° 8.137190) - PRELIMINARES - VIOLAÇÃO DO INCISO XI DO ARTIGO 50 DA CONSTITUIÇÃO FEDERAL - INOCORRÊNCIA - CERCEAMENTO DE DEFESA POR AUSÊNCIA DE MANIFESTAÇÃO JUDICIAL DEMANDADA EM PEÇA DE RESPOSTA À ACUSAÇÃO - REJEIÇÃO - VIOLAÇÃO DO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ E DO POSTULADO DE CORRELAÇÃO ENTRE DENÚNCIA E SENTENÇA - NÃO ACOLHIMENTO - NULIDADE DA SENTENÇA POR AUSÊNCIA DE ANÁLISE DE TESE FORMULADA EM ALEGAÇÕES FINAIS - INOCORRÊNCIA - MÉRITO - RECURSOS DA DEFESA - ABSOLVIÇÃO - NECESSIDADE APENAS QUANTO A UM DOS RÉUS - APELO DA ACUSAÇÃO - AUMENTO DA PENA-BASE - NECESSIDADE - RECONHECIMENTO DA AGRAVANTE DA ALÍNEA "H" DO INCISO II DO ARTIGO 61 DO CÓDIGO PENAL E DA MAJORANTE DO INCISO 1 DO ARTIGO 12 DA LEI N.° 8.137190 - INCABIMENTO - DECOTE DA CONTINUIDADE DELITIVA - INVIABILIDADE - EXASPERAÇÃO DA PRESTAÇÃO PECUNIÁRIA - MANUTENÇAO DO "QUANTUM" FIXADO -. 1. Não há violação da garantia prevista no inciso XI do artigo 5º da Constituição Federal na hipótese em que se autoriza a entrada da polícia e de auditores fiscais no imóvel, especialmente quando o processo não autoriza concluir que o local era realmente a casa do agente, mas um escritório em que se perpetravam os ilícitos penais tributários. 2. A formulação de pleito pericial em resposta à acusação, para reclamar um provimento judicial específico, não pode ser genérica, devendo-se explicitar o porquê da relevância dessa prova, sob pena de remanescer requerimento vazio, sem delineamento de objeto e oco de conteúdo, por se tratar de mero apontamento de meio de prova, e não do elemento probatório visado. 3. O princípio da identidade física do juiz comporta exceções, entre as quais a licença, pouco importando se a sentença foi prolatada na vigência ou não do Código de Processo Civil de 1973, bem como que o tenha sido no âmbito do intitulado "Projeto Julgar". Precedentes deste Tribunal e do Superior Tribunal de Justiça. 4. Não há violação do princípio da correlação entre denúncia e sentença, se a menção que nesta se faz a crime não narrado na denúncia decorre de mero erro material, sem qualquer prejuizo à defesa. 5. Inexiste nulidade na sentença que analisa todos os pleitos formulados em alegações finais, inclusive o referente à desclassificação. 6. Demonstrado que um dos agentes, por várias vezes, omitiu informação às autoridades fazendárias, fraudou a fiscalização tributária e deixou de fornecer nota fiscal relativa a venda efetivamente realizada, ficam aperfeiçoados em sua configuração típica os delitos previstos nos incisos 1, II e V do artigo 1 0 dâ Lei de Crimes Contra a Ordem Tributária, não se podendo falar em absolvição. 7. Se os indícios que balizam o envolvimento do acusado com o crime contra a ordem tributária a ele imputado não restaram confirmados no decorrer da instrução probatória, ante a inexistência de prova suficiente a fundamentar um decreto condenatório, a absolvição é medida que se impõe, notadamente em observância ao princípio 'in dubio pro reo'. 8. Os crimes de sonegação fiscal consistentes em omissão ou falsa declaração de informações a autoridades fazendárias, omissâo de operações em documentos e não fornecimento de nota fiscal somente podem ser cometidos por quem tenha comprovada ciência da fraude, não sendo imputável a terceiro sem ingerência nos atos efetivamente praticados. 9. O valor sonegado, quando considerável, revela-se dado concreto apto ao aumento da pena-base, considerando que aí as consequências do crime são mais graves. Precedente do Superior Tribunal de Justiça. 10. Embora o Estado utilize o ICMS também para a implementação e melhoria dos serviços públicos, não se pode aplicar, tratando-se de crime contra a ordem tributária, a agravante da alínea "h" - crime praticado contra criança, maior de 60 anos, enfermo ou mulher grávida - do inciso II artigo 61 do Código Penal a partir de mera suposição de que as pessoas nas condições referidas nessa alínea tiverem seus direitos violados em face da sonegação tributária. 11. A ausência de descrição de causa especial de aumento de pena na denúncia impede seu reconhecimento, considerado o princípio da correlação entre denúncia e sentença. 12. Deve-se manter a continuidade delitiva quando se verifica que, durante determinado período, os agentes praticaram vários delitos contra a ordem tributaria, representando cada conduta que, dolosa e fraudulentamente, suprime ou reduz tributo um delito diferente. 13. A sanção de prestação pecuniária deve orientar-se pela capacidade econômica do réu, a qual, se não for alta, induz a aplicação da reprimenda restritiva de direitos, de regra, em seu patamar mínimo. V.V.: Deve-se condenar o réu que, sendo contador da empresa do corréu, sabia dos crimes tributários por aquele executados e com a prática deles concorria, consoante o disposto no artigo 11 da Lei n.° 8.137190, "Quem, de qualquer modo, inclusive por meio de pessoa jurídica, concorre para os crimes definidos nesta lei, incide nas penas a estes cominadas, na medida de sua culpabilidade".
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XI, XLVI, LV e 93, IX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, LV e 93, IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Penal. Crime tributário. Supressão de tributos. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºS 282 e 356/STF. 2. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF), bem como da legislação infraconstitucional pertinente. 3. Agravo regimental não provido” (ARE nº 1.184.865/SP – AgR, Tribunal Pleno, Rel. Min. Dias Toffoli , DJe de 24/04/2019).
+
+    No mesmo sentido: ARE nº 1.096.533/ES-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 11/12/2018.
+
+    Além disso, o Supremo Tribunal Federal, examinando o Recurso Extraordinário nº 603616 segundo a sistemática da repercussão geral (Tema nº 280), decidiu que: há repercussão geral - Trânsito em Julgado em 21/06/2016.
+
+    Ante o exposto, no ponto relativo ao enquadramento, determino a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal) e, quanto ao mais, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 19 de fevereiro de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
