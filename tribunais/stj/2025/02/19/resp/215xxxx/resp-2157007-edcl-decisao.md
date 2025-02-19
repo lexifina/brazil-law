@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se embargos de declaração opostos por VITOR MANOEL CERQUEIRA em face de decisão que rejeitou embargos de declaração, os quais foram julgados nos seguintes termos:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. TAXA DE FRUIÇÃO. VIOLAÇÃO A LEI FEDERAL NÃO CONFIGURADA.
+1. Ação de rescisão contratual.
+2. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+3. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia. Precedentes.
+4. Embargos de declaração rejeitados."
+Em suas razões, alega que a decisão foi omissa quanto ao fato de que a superveniência da construção existente no lote pelo promissário comprador foi suficientemente debatida na origem.
+É o relatório.
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Segundo a jurisprudência desta Corte, a omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia (EDcl no AgInt no AREsp 1.694.301/PE, 3ª Turma, DJe 3/3/2021).
+Na espécie, contudo, verifica-se que as questões apontadas pela embargante não constituem algum desses vícios, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+Isso, pois, o indeferimento dos embargos de declaração decorreu do fato de que não havia omissão na decisão monocrática quanto à quando a obra foi realizada, a fim de se saber se de fato houve superveniência de edificação.
+Sobre o tema, a decisão embargada assim se manifestou:
+Na espécie, em que pese a insurgência do recorrente quanto ao descabimento da taxa de fruição quando houver superveniente edificação, no acórdão do Tribunal de origem, conforme demonstrado na decisão embargada, restou assim consignado:
+"Outrossim, respeitado o entendimento do Juízo a quo, a taxa de fruição da coisa é devida, independentemente da interposição de reconvenção ou de disposição contratual, uma vez que o ordenamento jurídico não prestigia o enriquecimento sem causa, ressaltando-se que houve edificação no imóvel, devendo ser fixada em 1% sobre o valor do contrato (cláusula 13.5- fls. 35), desde a data da posse até a efetiva desocupação do bem, desconsiderando-se a construção, por ter sido feita pelos compradores." (e-STJ Fl.331)
+Dessarte, o que se depreende do acórdão recorrido é que o imóvel era edificado, não tendo sido debatido nos autos quando a obra foi realizada a fim de se saber se de fato houve superveniência de edificação.
+Ademais, percebe-se que o ora embargante não desenvolveu, de forma contundente, fundamentos que fundamentassem o descabimento da taxa de fruição por ausência de edificação no recurso especial, tratando-se de verdadeira inovação argumentativa, inadmissível em sede de embargos de declaração. Portanto, não há que se falar em omissão quanto ao ponto.
+Tampouco prospera o segundo argumento de omissão na decisão embargada, no sentido que não teria havido manifestação quanto ao cabimento da retenção de 25% dos valores pagos "(e-STJ Fl.576)
+Ademais, destaca-se que a menção feita pelo Tribunal de origem em relação a "benfeitorias" não se confunde com uma afirmação expressa de que houve uma efetiva edificação, tampouco de quando isso teria sido feito.
+Assim, percebe-se que a insurgência do presente recurso é a mesma que originou os primeiros embargos de declaração, configurando o manifesto intuito protelatório, o que atrai a aplicação da multa prevista no art. 1.026, §2º, do CPC/2015.
+Forte nessas razões, REJEITO os embargos de declaração nos embargos de declaração no recurso especial, com a aplicação de multa de 2% do valor atualizado da causa, nos termos do art. 1.026, §2º, do CPC/2015.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia. Precedentes.
+3. Não se verifica omissão no acórdão embargado que analisou os dispositivos legais alegados pelo recorrente como violados e abrangeu integralmente as matérias submetida a esta Corte.
+5. Embargos de declaração rejeitados com aplicação de multa.
