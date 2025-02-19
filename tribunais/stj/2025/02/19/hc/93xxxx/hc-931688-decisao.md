@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUAN MARINO PEREIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que denegou o Habeas Corpus n. 5039667-25.2024.8.24.0000.
+Consta dos autos que o paciente foi preso preventivamente pela prática dos crimes descritos nos artigos 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, ante a apreensão de 136 kg de maconha (fl. 37 - Autos n. 5012628-33.2024.8.24.0039, em curso na 2ª Vara Criminal da comarca de Lages/SC - grifo nosso).
+Aponta a defesa constrangimento ilegal na segregação cautelar do paciente, diante da falta de requisitos e da ausência de fundamentação.
+Requer, inclusive liminarmente, a concessão da ordem para revogar a prisão preventiva do paciente, ainda que com a imposição das medidas cautelares diversas.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Durval Tadeu Guimarães, pela denegação do habeas corpus (fls. 66/67).
+É o relatório.
+A ordem não comporta concessão.
+Afinal, a custódia cautelar do paciente está alicerçada na gravidade concreta da conduta, revelada, sobretudo, pela quantidade da droga apreendida (136 kg de maconha), além do fundado receio de reiteração criminosa, pois o paciente ostenta condenação definitiva pela prática do crime de tráfico de drogas. Motivação idônea, conforme a jurisprudência desta Casa, por exemplo, o AgRg no RHC n. 165.308/MG, relatora para o acórdão Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2022; e o AgRg no RHC n. 158.163/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/2/2022.
+Vejamos, no ponto, o que consta da decisão que converteu a prisão em flagrante em preventiva (fl. 37 - grifo nosso):
+ ..
+No tocante aos requisitos do art. 312 do CPP, a prova da materialidade e os indícios suficientes de autoria (fumus commissi delicti) encontram-se evidenciados nos elementos constantes do auto de prisão em flagrante, especialmente no boletim de ocorrência e demais documentos constantes nos autos (evento 1, DOC1; evento 1, DOC2; e evento 4, DOC1), assim como nos depoimentos dos policiais que atenderam a ocorrência e na descrição dos materiais apreendidos (evento 1).
+Em relação ao periculum libertatis, veja-se que, além gravidade abstrata dos crimes de tráfico e associação ao tráfico, porquanto molas propulsoras para inúmeros outros delitos, na hipótese dos autos, verifica-se a gravidade concreta dos ilícitos. O conduzido Luan, que estava acompanhado de uma terceira pessoa que se evadiu, foi flagrado na posse de grande quantidade substância estupefaciente (mais de 136 quilos de maconha), droga de média lesividade, que provoca efeito rápido, levando a dependência em pouco tempo. Veja-se que a quantidade de entorpecentes localizada é bem expressiva, e isso, aliado ao fato do autuado já ter sido condenado por tráfico de entorpecentes, indica que o detido, juntamente com seu suposto comparsa, podem fazer da narcotraficância um meio de vida.
+ ..
+Assim, o entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça.
+A propósito, a jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 908.734/MT, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/6/2024; e AgRg no RHC n. 160.743/MG, Ministro João Otávio de Noronha, Quinta Turma, DJe de 20/5/2022.
+No mesmo sentido é o parecer escrito pelo Subprocurador-Geral da República Durval Tadeu Guimarães, que também adoto como razão de decidir.
+Ademais, conforme entendimento desta Corte Superior de Justiça, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 27/5/2022 ).
+Conclui-se, então, que a impetração não evidenciou o alegado constrangimento ilegal na manutenção da prisão preventiva imposta ao paciente.
+Com base nos precedentes e na manifestação ministerial, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. GRAVIDADE CONCRETA DA CONDUTA. GRANDE QUANTIDADE DO ENTORPECENTE APREENDIDO. 136 KG DE MACONHA. CIRCUNSTÂNCIAS DA PRISÃO EM FLAGRANTE. MEDIDAS CAUTELARES ALTERNATIVAS. DESCABIMENTO. RISCO DE REITERAÇÃO DELITIVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
