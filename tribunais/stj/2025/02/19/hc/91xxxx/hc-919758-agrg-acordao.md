@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/02/2025 a 19/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. HOMICÍDIO QUALIFICADO. CIRCUNSTÂNCIAS FÁTICAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça é no sentido de que não há direito subjetivo ou obrigatoriedade do julgador na adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínimas e máximas, ou mesmo outro valor" (AgRg no HC n. 903.386/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+2. A dosimetria da pena foi realizada levando em consideração o contexto fático do caso concreto, e alterar a conclusão demandaria reexame de fatos e provas, o que é incompatível com o habeas corpus.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por AMOS FARIAS SILVA contra a decisão de fls. 122-127, que denegou a ordem de habeas corpus.
+Nas razões deste recurso, a defesa aduz que a dosimetria não observou os critérios definidos pela jurisprudência do Superior Tribunal de Justiça.
+Requer o provimento do agravo para que seja reajustada a pena a fim de que, ao final, seja estabelecida em 12 anos de reclusão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. HOMICÍDIO QUALIFICADO. CIRCUNSTÂNCIAS FÁTICAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça é no sentido de que não há direito subjetivo ou obrigatoriedade do julgador na adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínimas e máximas, ou mesmo outro valor" (AgRg no HC n. 903.386/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+2. A dosimetria da pena foi realizada levando em consideração o contexto fático do caso concreto, e alterar a conclusão demandaria reexame de fatos e provas, o que é incompatível com o habeas corpus.
+3. Agravo regimental improvido.
+VOTO
+Consoante relatado, a defesa busca a reconsideração da decisão agravada, com a revisão da dosimetria da pena.
+A decisão que denegou o habeas corpus foi assim fundamentada (fls. 122-127):
+Extrai-se do acórdão impugnado a seguinte manifestação em relação à controvérsia (fl. 41):
+ ..
+Assim, nos termos dispostos textualmente pelo eminente relator, ainda que a sentença tenha efetuado a dosimetria penal sem análise das circunstâncias judiciais, há nos autos elementos concretos aptos a valorar negativamente outras 02 (duas) circunstâncias judiciais na primeira fase da dosimetria, a saber culpabilidade e conduta social, tendo Sua Excelência, inclusive, consignando expressamente ao final, ainda "que a pena aplicada pelo Magistrado sentenciante se mostrou, inclusive, branda, diante das peculiaridades do caso em apreço".
+Deste modo, considerando o entendimento do eminente relator de que militam em desfavor do requerente, além da qualificadora remanescente (recurso que impossibilitou a defesa da vítima), 02 (duas) circunstâncias judiciais, a utilização da fração de 1/8 (um oitavo), como, inclusive, requerida pela defesa, levaria a pena-base ao patamar de 18 (dezoito) anos e 09 (nove) meses de reclusão.
+Já na segunda fase, a aplicação da atenuante da menoridade relativa no patamar de 1/6 (um sexto), como sugerido pela defesa e acatado pela Relatoria, levaria a uma pena intermediária de 15 (quinze) anos, 07 (sete) meses e 15 (quinze) dias de reclusão, que, à mingua de causas de aumento/diminuição de pena, seria a pena definitiva a ser estabelecida ao requerente.
+Tal alteração na dosimetria da pena do ora requerente, por óbvio, não seria juridicamente possível de ser realizada na presente ação, em razão do princípio da vedação do non reformatio in pejus.
+Contudo, o que se deseja demonstrar é que, ainda que fosse possível conhecer do pedido revisional para reanalisar a dosimetria da pena com base no entendimento da relatoria, tal fato jamais teria o condão de reduzir a pena privativa de liberdade do requerente a um patamar inferior ao já fixado pelo Juízo de primeiro grau, qual seja, de 14 (catorze) anos de reclusão.
+Ao realizar a dosimetria da pena, assim estabeleceu o juiz presidente do Tribunal do Júri (fl. 18):
+Considerando que o Conselho de Sentença decidiu por condenar o réu pelo homicídio duplamente qualificado, valho-me da qualificadora da motivação torpe para Proceder ao enquadramento legal. A qualificadora do recurso que impossibilitou a defesa da vítima, valoro-a como circunstância judicial. Assim, considerando necessária e suficiente para a reprovação e prevenção do crime, fixo a pena-base em 15 (quinze) anos de reclusão.
+Na segunda fase, não se vislumbra ocorrência de agravantes, mas, sim, a atenuante da maioridade relativa. Desta forma, em razão desta atenuante, diminuo de 01 (hum) ano a pena-base, fixando-a, provisoriamente, em 14 (quatorze) anos de reclusão.
+Na derradeira fase da dosimetria da pena privativa de liberdade, também nada há de causa especial de aumento ou de diminuição a ser valorada, e, em razão disso, torno a pena definitiva em 14 (quatorze) anos de reclusão. Fixo o regime inicial de cumprimento da pena o regime fechado, nos termos do art. 33, §2º, "a", do Código Penal, a ser cumprida na Penitenciária Professor Barreto Ca I mpelo, ou em outro estabelecimento prisional a critério do juízo das execuções penais deste Estado.
+A escolha de determinada fração de elevação ou diminuição da pena é matéria sujeita à discricionariedade motivada do julgador, nos termos dos arts. 59 e 68 do Código Penal, os quais não definem pesos absolutos às circunstâncias judiciais devaloradas, ou às agravantes/atenuantes.
+"A jurisprudência do Superior Tribunal de Justiça é no sentido de que não há direito subjetivo ou obrigatoriedade do julgador na adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínimas e máximas, ou mesmo outro valor" (AgRg no HC n. 903.386/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+Constata-se que o Tribunal de origem não ignora que as frações ordinárias de 1/8 do intervalo entre as penas mínimas e máximas ou 1/6 da pena-base não foram os critérios utilizados pelo Juízo de primeiro grau, no entanto, sustenta que havia mais duas circunstâncias judiciais além da qualificadora do crime de homicídio, o que foi determinante para justificar o aumento da pena-base.
+Assim, a revisão da dosimetria da pena demandaria revolvimento do contexto fático, a fim de verificar a quantidade de circunstâncias negativas e os reflexos nas fases seguintes da dosimetria, o que é inviável em habeas corpus.
+A propósito, a conclusão a que chegou o Tribunal de origem, no sentido de que a pena estabelecida pelo Juízo de primeiro grau seria até benéfica ao paciente (fl. 41, grifei):
+Deste modo, considerando o entendimento do eminente relator de que militam em desfavor do requerente, além da qualificadora remanescente (recurso que impossibilitou a defesa da vítima), 02 (duas) circunstâncias judiciais, a utilização da fração de 1/8 (um oitavo), como, inclusive, requerida pela defesa, levaria a pena-base ao patamar de 18 (dezoito) anos e 09 (nove) meses de reclusão.
+Já na segunda fase, a aplicação da atenuante da menoridade relativa no patamar de 1/6 (um sexto), como sugerido pela defesa e acatado pela Relatoria, levaria a uma pena intermediária de 15 (quinze) anos, 07 (sete) meses e 15 (quinze) dias de reclusão, que, à mingua de causas de aumento/diminuição de pena, seria a pena definitiva a ser estabelecida ao requerente.
+Tal alteração na dosimetria da pena do ora requerente, por óbvio, não seria juridicamente possível de ser realizada na presente ação, em razão do princípio da vedação do non reformatio in pejus.
+Contudo, o que se deseja demonstrar é que, ainda que fosse possível conhecer do pedido revisional para reanalisar a dosimetria da pena com base no entendimento da relatoria, tal fato jamais teria o condão de reduzir a pena privativa de liberdade do requerente a um patamar inferior ao já fixado pelo Juízo de primeiro grau, qual seja, de 14 (catorze) anos de reclusão.
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
