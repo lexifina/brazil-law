@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO FEDERAL DA 8ª VARA DO JUIZADO ESPECIAL CÍVEL DE BELÉM/PA, ora suscitante, e o JUÍZO DE DIREITO DA 1ª VARA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA DE BELÉM/PA, ora suscitado.
+Consta dos autos que foi proposta ação de obrigação de fazer, com pedido de tutela provisória de urgência, por GABRIEL HENRIQUE TABARES LOPES em desfavor da FUNDAÇÃO GETÚLIO VARGAS E DO ESTADO DO PARÁ, na qual postula a validação de sua autodeclaração étnico-racial no Exame Nacional da Magistratura (ENAM).
+O Juízo estadual, sob o fundamento da "existência de interesse jurídico que justifica a presença, no processo, da União" (e-STJ fl. 121), declinou a competência para o processamento e julgamento do feito para o Juízo Federal, que por sua vez firmou que, "atendendo ao fato de que a parte unicamente impugna o enquadramento racial por heteroidentificação, ato de competência da comissão do órgão judiciário estadual, não há que se falar em interesse da União" (e-STJ fl. 363), e suscitou o presente conflito de competência.
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo estadual (e-STJ fls. 369/371).
+Às e-STJ fls. 374/378 e 379/383, juntada de pedido de tutela provisória incidental - em 12/02/2025 -, em que o autor requer "deferimento do seu pleito em tempo para que possa realizar as provas do ENAM, ENAC e dos Tribunais, conforme pedido na inicial e reiterado nesta".
+Passo a decidir.
+Inicialmente, impende consignar que conflito de competência não é instrumento processual apto a análise de questão relacionada ao mérito da lide.
+Nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, registro, na parte que interessa, os termos da Resolução n. 541/2023 do CNJ (Disciplina a instituição das comissões de heteroidentificação e o respectivo procedimento nos concursos públicos realizados no âmbito do Poder Judiciário, na forma prevista nas Resoluções CNJ nº 75/2009, 81/2009 e 203/2015):
+Art. 11-A. O resultado do procedimento de heteroidentificação realizado no âmbito do Exame Nacional da Magistratura ou no Exame Nacional dos Cartórios será aproveitado reciprocamente nos dois exames nacionais referidos, desde que atendidas as seguintes condições:
+ ..
+II - validade do procedimento de heteroidentificação limitada ao período de 4 (quatro)anos, contados da data da expedição do certificado de habilitação pelo Tribunal de Justiça.
+Por outro lado, estabeleceu o edital do aludido certame que "a Comissão de Heteroidentificação do Tribunal de Justiça do Estado do domicílio da pessoa examinanda negra será responsável pela emissão do comprovante de validação dessa condição, observada a Resolução CNJ n. 541/2023".
+Dessa forma, "não obstante o Conselho Nacional de Justiça tenha estabelecido as diretrizes do exame nacional, é certo que compete ao Tribunal de Justiça do Estado de domicílio do candidato a composição da aludida comissão, dentro de sua autonomia administrativa e respeitadas as orientações previstas na Resolução CNJ nº 541/2023" (CC 205.623/SP, Rel. Min. BENEDITO GONÇALVES, DJe 19/08/2024).
+Assim, a decisão sobre heteroidentificação é de competência de autoridades estaduais, sendo da Justiça estadual a competência para o julgamento do feito.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO DE DIREITO DA 1ª VARA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA DE BELÉM/ PA, ora suscitado. Prejudicado o pedido de tutela de urgência.
+Comunique-se, com urgência, a decisão ao Juízo suscitante e ao Juízo suscitado.
+Intimem-se. Publique-se.
+EMENTA
