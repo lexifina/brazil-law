@@ -1,0 +1,9 @@
+DECISÃO
+GOOGLE LLC e GOOGLE BRASIL INTERNET LTDA ingressam com agravo regimental inconformados com a decisão de fls. 331/337, assim ementada (fl. 331):
+RECURSO EM MANDADO DE SEGURANÇA. PENAL. PROCESSO PENAL. SEQUESTRO COM EVENTUAL RESULTADO MORTE. QUEBRA DO SIGILO DE DADOS TELEMÁTICOS DE GEOLOCALIZAÇÃO. LEI N. 12.965/2014. LEI DO MARCO CIVIL DA INTERNET. DECISÃO JUDICIAL. NECESSIDADE PARA INVESTIGAÇÕES. FUNDAMENTAÇÃO IDÔNEA. WRIT IMPETRADO COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA MANDAMENTAL. SÚMULA 267/STF.
+Na Petição n. 00118882/2025, os ora agravantes pugnam pela desistência do presente agravo regimental em recurso ordinário em mandado de segurança (fls. 412/413).
+Tal o contexto, julgo prejudicado o presente agravo regimental e homologo a desistência requerida às fls. 412/413.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO PENAL. SEQUESTRO COM EVENTUAL RESULTADO MORTE. QUEBRA DO SIGILO DE DADOS TELEMÁTICOS DE GEOLOCALIZAÇÃO. LEI N. 12.965/2014. LEI DO MARCO CIVIL DA INTERNET. DESISTÊNCIA HOMOLOGADA.
+Agravo regimental prejudicado e homologada a desistência na Petição n. 00118882/2025.
