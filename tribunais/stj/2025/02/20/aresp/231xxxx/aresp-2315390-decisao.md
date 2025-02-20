@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por SEVERIANO VITA MATOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS que não admitiu o recurso especial interposto pelo agravante.
+O recorrente foi pronunciado para se submeter a julgamento pelo Tribunal do Júri em relação à imputação dos crimes do art. 121, §2º, incisos I, III e IV; e art. 212, ambos do Código Penal; e art. art. 2º, §2º, da Lei n. 12.850/2013.
+Interposto recurso pela defesa, houve o não provimento de forma unânime (fls. 87-107).
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, "a", da Constituição, alegando violação ao art. 1º, §1 e §2 da Lei n. 12.694/12 e aos arts. 41, 563, 155 e 414, todos do Código de Processo Penal (fls. 131-145).
+O Tribunal de Justiça não admitiu o recurso especial, por óbice das Súmulas 7 e 83, ambas do STJ (fls. 168-169).
+Foi interposto o agravo.
+O Ministério Público Federal opinou pelo conhecimento do agravo para negar provimento ao recurso especial (fls. 229-238).
+É o relatório. DECIDO.
+A controvérsia dos autos consiste em verificar se o Tribunal de Justiça do Amazonas acertou ao manter a decisão de pronúncia contra o agravante.
+Em relação à questão da nulidade do processo por ilegalidade na formação do colegiado de magistrados, verifica-se que a matéria já foi decidida pelo STJ em habeas corpus (RHC: 129.615 AM 2020/0159495-0, Relator: Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 02/03/2021, QUINTA TURMA, Data de Publicação: DJe 08/03/2021). Em decisão, consignou-se a inexistência de ilegalidade, não cabendo novo exame neste momento, sob pena de violação à coisa julgada. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO SIMULTÂNEA DE DOIS RECURSOS. UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO DO SEGUNDO RECURSO. TRÁFICO. DESCLASSIFICAÇÃO. PEDIDO JÁ SUBMETIDO À APRECIAÇÃO EM HABEAS CORPUS. AGRAVO EM RECURSO ESPECIAL PREJUDICADO.
+1. Interpostos dois agravos regimentais contra a mesma decisão, apenas se conhece do primeiro recurso, por força dos princípios da unirrecorribilidade e da preclusão consumativa.
+2. A anterior manifestação desta Corte, em habeas corpus com idêntico objeto, torna prejudicado o julgamento do agravo em recurso especial.
+3. Na oportunidade, registrou-se que o réu guardava razoável quantidade de drogas, o que, associado às circunstâncias do flagrante e dos itens apreendidos próximo à droga (balança de precisão, dinheiro em espécie), configuraria a prática da traficância.
+4. Ressaltou-se, ainda, que a reversão das premissas fáticas exigiria revolvimento probatório vedado em habeas corpus, igualmente inadmitido em recurso especial pelo óbice da Súmula 7 do STJ.
+5. Agravo regimental de fls. 679-686 não conhecido e agravo regimental de fls. 671-678 improvido.
+(STJ - AgRg no AREsp: 2016791 PR 2021/0374635-2, Data de Julgamento: 10/05/2022, T6 - SEXTA TURMA, Data de Publicação: DJe 13/05/2022).
+Portanto, a referida matéria está prejudicada.
+Em relação às duas outras teses, de inépcia da petição inicial e de ausência de provas para o juízo de pronúncia, constata-se que o tribunal de origem entendeu pela presença de adequada descrição típica e elementos suficientes de materialidade e autoria em relação aos delitos imputados.
+O acórdão impugnado informou diversos trechos da denúncia que correlacionam o nome do réu à concorrência de ato típico, bem como elementos suficientes para sujeitar o agravante ao julgamento em plenário do tribunal do júri.
+Portanto, o tribunal de origem, soberano no exame de fatos e provas, concluiu configurada a causa que enseja a realização de julgamento pelo Tribunal do Júri.
+A revisão das conclusões alcançadas pelo tribunal de origem não prescindiria do reexame do acervo fático-probatório, o que esbarra na Súmula n. 7, STJ (AgRg no REsp n. 2.131.931/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024).
+Em relação à tese de nulidade pela ausência da presença física do acusado durante a oitiva das testemunhas, o acórdão recorrido não aduziu a existência de qualquer prejuízo. A decisão está consoante à jurisprudência desta Corte, fazendo incidir o óbice da Súmula n. 83 do STJ:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ADVOGADO SEM PROCURAÇÃO PARA O ATO. NOMEAÇÃO DE DEFENSOR DATIVO. VALIDADE. AUSÊNCIA DE DEFESA TÉCNICA. NÃO OCORRÊNCIA. INQUIRIÇÃO DE TESTEMUNHAS DE ACUSAÇÃO. RÉU PRESO. NÃO REQUISIÇÃO. AUTODEFESA. INEXISTÊNCIA DE PREJUÍZO. RECURSO EM HABEAS CORPUS NÃO PROVIDO.
+1. O princípio da ampla defesa ( CF, art. 5.º, LV) contempla também a autodefesa, daí o valor ao direito do acusado de indicar o profissional que vai patrociná-lo nos autos. Consoante o entendimento sufragado por esta Corte, em caso de inércia ou renúncia de advogado constituído, configura cerceamento de defesa a nomeação direta de defensor público ou dativo ao réu, sem que seja concedida a ele a oportunidade prévia de escolher outra pessoa para tal mister.
+2. No caso, diante da ausência de procuração do advogado indicado pela defesa em audiência de instrução, o Juiz de origem, a fim de evitar prejuízo ao ora paciente, nomeou um defensor dativo que "já era conhecedor de todos os trâmites processuais, já que defende interesse de outro réu no processo e que  ..  as teses não seriam conflitantes". Ainda, de acordo com as informações prestadas pelo Magistrado, o advogado eleito pelo réu, muito embora haja solicitado o adiamento do ato, ao argumento do dever de comparecer a outra audiência no mesmo horário, "não juntou a sua própria intimação e muito menos procuração de que fosse o advogado da pessoa que naquela data, supostamente, seria ouvida".
+3. Não se verifica descumprimento de formalidade legal, pois, a teor do art. 563 do Código de Processo Penal, "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa" e, in casu, o acusado, além de ter sido citado pessoalmente, teve oportunidade de escolher seu advogado que, a qualquer tempo, podia juntar procuração nos autos e assumir o processo.
+4. A falta de requisição de réu preso para as audiências de inquirição das testemunhas de acusação constitui nulidade relativa que, a fim de ser reconhecida, exige a comprovação de prejuízo efetivo para a parte, o que não ocorreu na hipótese. 5. Recurso não provido.
+(STJ - RHC: 122348 PA 2019/0383737-0, Data de Julgamento: 07/02/2023, T6 - SEXTA TURMA, Data de Publicação: DJe 16/02/2023)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
