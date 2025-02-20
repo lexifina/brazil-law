@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial, fundamentado no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 580/581e):
+PELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE MULTA ADMINISTRATIVA. MULTA IMPOSTA PELO PROCON. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO. APELO DA AUTORA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO DE ÁGUA. COMPETÊNCIA DO PROCON PARA JULGAR ABUSIVIDADES ENTRE CONSUMIDORES E FORNECEDORES DE SERVIÇOS. LEGALIDADE DA MULTA IMPOSTA. OBSERVÂNCIA DO CONTRADITÓRIO E AMPLA DEFESA NO PROCESSO ADMINISTRATIVO. VALOR ARBITRADO DE FORMA RAZOÁVEL E PROPORCIONAL. MANUTENÇÃO DO JULGADO. HONORÁRIOS ADVOCATÍCIOS EM GRAU RECURSAL. RECURSO CONHECIDO E IMPROVIDO.
+1- Cumpre ressaltar que a condição de concessionária de serviço público impõe à empresa recorrente o dever de zelar pela perfeita qualidade do serviço prestado, incluindo, neste contexto, o dever de informação, proteção e boa-fé objetiva para o consumidor, (artigo 14, do Código de Defesa do Consumidor).
+2- Por outro vértice, o PROCON é competente para analisar e julgar, na esfera administrativa, a possível abusividade de cláusulas contratuais estipuladas entre consumidores e fornecedores na relação de consumo. Deste modo, não há que se falar em anulação da multa imposta, uma vez que o proceder do PROCON se coaduna perfeitamente com o ordenamento legal.
+3- In casu, sobreleva-se que a multa aplicada à apelante não representa qualquer ilegalidade, tampouco, verossímel a alegação de nulidade do Processo Administrativo, que, durante os trâmites legais, obedeceu aos princípios do contraditório e da ampla defesa.
+4- No caso sub examine, não se vislumbra qualquer fundamento apto a reconhecer a alegada ilegalidade da multa aplicada pelo PROCON, razão qual a sanção deve ser mantida, haja vista que não restou evidenciado nos autos que o PROCON não tenha se pautado na lei e nos princípios de defesa dos interesses consumeristas. Deste modo, conforme se vê, no caso em tela, o PROCON agiu em conformidade com a lei e dentro dos princípios de defesa dos interesses do consumidor.
+5- Por outro lado, o quantum de multa fixado não se mostra excessivo, tendo em vista que na fixação do valor da multa, foram devidamente observados os princípios da razoabilidade e proporcionalidade.
+6- No mais, em razão da sucumbência recursal, a apelante deve arcar, ainda, com o pagamento de honorários advocatícios devidos no segundo grau de jurisdição (artigo 85, § 11, do Código de Processo Civil), fixados em mais 3% (três por cento) sobre o valor da condenação imposta em primeiro grau.
+7- Recurso conhecido e improvido.
+Opostos embargos de declaração, foram rejeitados.
+Sustenta a parte recorrente, além da negativa de prestação jurisdicional (art. 1.022, II, do CPC/2015), violação aos arts. 50 da Lei 9.784/99 e 20 da Lei 13.655/2018, pugnando pela nulidade da multa imposta, por não observados os pressupostos legais.
+Requer, por fim, o conhecimento e provimento do recurso especial, "para o fim de reformar o v. acórdão prolatado pelo Egrégio Tribunal de Justiça do Estado do Tocantins" (fl. 660e).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 415/417.
+É o relatório. Passo a decidir.
+O recurso especial não prospera.
+De início, afasta-se a alegada negativa de prestação jurisdicional, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+A propósito, o acórdão recorrido está assim fundamentado (fls. 571/574e):
+(..) Inicialmente, tem-se que a sentença de piso encontra-se devidamente fundamentada, não se havendo falar em nulidade do julgado.
+Ao que se colhe dos autos, cuida-se de ação judicial sob o rito do procedimento comum com pedido de suspensão da exigibilidade da decisão administrativa manejado pela ora apelante, objetivando a desconstituição do processo administrativo e da multa imposta, no valor de R$ 17.500,00 (dezessete mil e quinhentos reais), em razão de infração ao consumidor, aplicada pelo Procon municipal à concessionária de água.
+Neste sentido, cumpre-se ressaltar que a condição de concesionária de serviços impõe à empresa recorrente o dever de zelar pela perfeita qualidade do serviço prestado, incluindo, neste contexto, o dever de informação, proteção e boa-fé objetiva para o consumidor, (artigo 14, do Código de Defesa do Consumidor), in literis:
+(..)
+Por outro vértice, o PROCON é competente para analisar e julgar, na esfera administrativa, a possível abusividade de cláusulas contratuais estipuladas entre consumidores e fornecedores na relação de consumo.
+Deste modo, não há que se falar em anulação da multa imposta, uma vez que o proceder do PROCON se coaduna perfeitamente com o ordenamento legal.
+In casu, sobreleva-se que a multa aplicada à apelante não representa qualquer ilegalidade, tampouco, verossímel a alegação de nulidade do Processo Administrativo, que, durante os trâmites legais, obedeceu aos princípios do contraditório e da ampla defesa.
+Ademais, a decisão que impôs a multa foi proferida com fundamentação relevante e dentro dos parâmetros legais, não havendo, assim, nenhum vício a ensejar a desconstituição da penalidade administrativa aplicada à concessionária autora, ora recorrente.
+No caso sub examine, não se vislumbra qualquer fundamento apto a reconhecer a alegada ilegalidade da multa aplicada pelo PROCON, razão qual entendo que a sanção deve ser mantida, haja vista que não restou evidenciado nos autos que o PROCON não tenha se pautado na lei e nos princípios de defesa dos interesses consumeristas.
+É o entendimento jurisprudencial nesse sentido:
+(..)
+Deste modo, conforme se vê, no caso em tela, o PROCON agiu em conformidade com a lei e dentro dos princípios de defesa dos interesses do consumidor.
+Por outro lado, o quantum de multa fixado não se mostra excessivo, tendo em vista que na fixação do valor da multa, foram devidamente observados os princípios da razoabilidade e proporcionalidade.
+Neste aspecto, observa-se também que o valor da multa revela-se coerente com a gravidade da prática infrativa e com a condição econômica da infratora, por representar, de forma razoável e proporcional, o dano causado ao consumidor.
+Sendo assim, o recurso em tela há que ser conhecido e improvido, para manter a sentença de primeiro grau no sentido de manter incólume a multa pecuniária aplicada a ora apelante pelo PROCON e o processo administrativo referente.
+E ainda, no acórdão integrativo, proferido no julgamento dos embargos de declaração opostos pela parte ora recorrente (fls. 621e):
+Após compulsar detidamente os embargos, entendo que não há a omissão apontada pela embargante, na medida em que foram expostas exaustivas razões que embasaram o julgamento proferido por esta Corte, havendo manifestação quanto aos argumentos relevantes à formação do convencimento esposado no acórdão embargado.
+Constata-se que a decisão que impôs a multa foi proferida com fundamentação relevante e dentro dos parâmetros legais, não havendo, assim, nenhum vício a ensejar a desconstituição da penalidade administrativa aplicada à concessionária autora, ora recorrente.
+No caso sub examine, não se vislumbra qualquer fundamento apto a reconhecer a alegada ilegalidade da multa aplicada pelo PROCON, razão qual entendo que a sanção deve ser mantida, haja vista que não restou evidenciado nos autos que o PROCON não tenha se pautado na lei e nos princípios de defesa dos interesses consumeristas.
+Na espécie, não se constata a ocorrência de qualquer omissão. O acórdão embargado pronunciou-se sobre o que deveria pronunciar-se e o acerto ou desacerto do entendimento ali esposado não pode ser discutido nos estreitos limites dos embargos declaratórios, mesmo porque os embargos de declaração têm pressupostos certos, não se prestando a corrigir "error in judicando".
+Logo, vê-se que, no caso, não há que falar em qualquer omissão, contradição e/ou obscuridade, e muito menos quaisquer ilegalidades no acórdão recorrido, pois todos os pontos de relevância foram extensamente debatidos e decididos pelo acórdão embargado, de acordo com a legislação e jurisprudências dominantes sobre a matéria.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa aos artigos 489 e 1.022 do CPC/2015.
+Por outro lado, quanto à alegada violação ao art. 50 da Lei 9.784/99, que a parte a parte recorrente não indicou os incisos ou parágrafos do art. 50 da Lei 9.784/99 supostamente inobservados pelo Tribunal a quo, ao passo que a Lei 13.655/2018 possui, apenas, dois artigos. Incide, assim, ao caso, por analogia, como óbice ao recurso especial, a Súmula 284/STF.
+Ainda, considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o necessário revolvimento dos aspectos concretos da causa, o que é obstado, nessa via, pela Súmula 7/STJ.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE MULTA ADMINISTRATIVA, IMPOSTA PELO PROCON. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NA PARTE CONHECIDA, DESPROVIDO.
