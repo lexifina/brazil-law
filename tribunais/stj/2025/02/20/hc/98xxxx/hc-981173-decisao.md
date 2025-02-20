@@ -1,0 +1,18 @@
+DECISÃO
+O presente habeas corpus , impetrado em nome de GUTEMBERG MENDES DE SANTANA - condenado a 33 anos de reclusão por homicídios qualificados tentados e associação criminosa -, atacando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE PERNAMBUCO (fls. 46/63 - HC n. 0054592-72.2024.8.17.9000), não comporta processamento.
+Com efeito, busca a impetração redimensionar a pena imposta - na condenação proferida na Ação Penal n. 0046017-91.2013.8.17.0001, da 4ª Vara do Tribunal do Júri da comarca do Recife/PE (fls. 94/95) -, com:
+a) a fixação da pena-base no mínimo legal, sustentando que a exasperação acima do mínimo carece de fundamentação concreta (fls. 18/19);
+b) o afastamento da agravante da reincidência, aduzindo que o Magistrado sequer se esforçou em delimitar quais processos, à época, o Paciente, supostamente, havia sido sentenciado por crimes contra a vida, não dando chance nem para uma possível defesa (fl. 23);
+c) o reconhecimento da tentativa de homicídio como tentativa branca, com a aplicação da redução de 2/3, conforme jurisprudência do Tribunal de Justiça de Pernambuco e do Superior Tribunal de Justiça (fls. 26/28); e
+d) a declaração de inexistência do concurso material e o reconhecimento do crime continuado, com as consequências na dosimetria da pena, conforme o art. 71, parágrafo único, do Código Penal (fls. 34/37).
+Entretanto, do atento exame dos autos observo que a via eleita foi indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe 26/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) Não há ilegalidade na exasperação da pena-base, isso porque foram negativados os vetores culpabilidade - o paciente praticou os crimes, na companhia de comparsas, contra policiais que estavam em serviço, fato gravíssimo (fl. 52) - e antecedentes - o paciente acumula condenações definitivas e anteriores em três ações penais, sendo elas os Processos de n. 0029135-60.2010.8.17.0001, n. 0076494-69.2011.8.17.0001, n. 0007581-75.2011.8.17.0990 (fl. 53) -, devidamente fundamentados em elementos concretos dos autos;
+b) A pretensão de afastamento da negativação do vetor consequências do delito e da agravante da reincidência não foi apreciada pela Corte estadual no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância;
+c) Não há ilegalidade na fração de aplicação da tentativa, pois devidamente fundamentada considerando o avançado iter criminis - o paciente efetuou múltiplos disparos de arma de fogo contra policiais em serviço, o que caracteriza um avanço significativo no iter criminis e evidencia maior proximidade da consumação do delito (fl. 54) -, ainda que nenhum deles tenha atingido a vítima (HC n. 868.117/RJ, Ministra Daniela Teixeira, Quinta Turma, DJEN 4/12/2024); e
+d) Não é possível reconhecer o crime continuado, uma vez que restaram configuradas a autonomia e a diversidade de desígnios no acórdão hostilizado - os disparos efetuados contra os policiais, ainda que realizados em sequência, denotam desígnios autônomos, uma vez que cada disparo buscava atingir indivíduos distintos (fl. 58) -, porque demandaria reexame de provas, inviável na via eleita (HC n. 870.249/RJ, Ministra Daniela Teixeira, Quinta Turma, DJEN 10/2/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS TENTADOS E ASSOCIAÇÃO CRIMINOSA. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
