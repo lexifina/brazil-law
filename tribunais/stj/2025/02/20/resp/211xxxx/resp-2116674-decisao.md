@@ -1,0 +1,41 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (fls. 1360-1362):
+Trata-se de recurso especial interposto por ANDRE RIBEIRO SALGADO, com arrimo no artigo 105, III, "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais que negou provimento aos recursos de apelação interpostos por ele e pelo MPMG, acórdão esse cuja ementa vai abaixo transcrita:
+"Ementa Oficial: PRELIMINARES LEVANTADAS PELO MP - AUMENTO DA PENA-BASE - IMPOSSIBILIDADE - PENA- BASE CORRETAMENTE DOSADA - FIXAÇÃO DO REGIME SEMIABERTO - IMPOSSIBILIDADE - REGIME FIXADO DE ACORDO COM A PENA COMINADA - PRETENSÕES MINISTERIAIS REJEITADAS - MÉRITO - APROPRIAÇÃO INDÉBITA - RECURSO MINISTERIAL - CONDENAÇÃO - POSSIBILIDADE - REPARAÇÃO DOS DANOS - INVIABILIDADE - RECURSO DEFENSIVO - ABSOLVIÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS - AUSÊNCIA DE DOLO - NÃO ACOLHIMENTO - RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA EM CONSONÂNCIA COM AS DEMAIS PROVAS - RECURSOS CONHECIDOS E IMPROVIDOS .
+1. Condenação quanto aos delitos de apropriação indébita previdenciária, IMPOSSIBILIDADE - uma vez que não houve dano ao erário público, pois o dano foi suportado pelos condôminos. Ademais, não há que se falar em condenação do acusado pelo crime de apropriação indébita simples, eis que não cabe nesse momento processual a alteração da imputação para prejudicar o apelante, pois, configuraria expressa violação aos princípios do contraditório e da ampla defesa.
+2. Incabível se encontra a fixação de valor a ser pago a título de indenização nos termos do artigo 387 inciso IV do CPP, pois, não houve discussão a cerca do valor, violando-se os princípios constitucionais da ampla defesa e do contraditório.
+3. Impõe-se a manutenção da condenação pela prática do crime de apropriação indébita por quatro vezes, porquanto comprovadas estão à autoria, o dolo e a materialidade do delito.
+4. Inadmissível é o reconhecimento da circunstância atenuante da confissão espontânea quando o acusado não confirma integralmente os fatos a ele imputados.
+5. Recursos conhecidos e improvidos. " (fls. 1308 e-STJ) (grifamos).
+Tal como se vê dos autos, ANDRE RIBEIRO SALGADO, ora recorrente, foi absolvido da imputação da prática do crime tipificado no artigo 168-A, §1º, 1, do CP e condenado como incurso nas sanções do artigo 168, § 1º, II e III, do CP (apropriação indébita majorada, pela qualidade de síndico e pela prática em razão do emprego do agente), por quatro vezes, em continuidade delitiva, à pena de 2 anos e 6 meses de reclusão, em regime inicial aberto, e 25 dias-multa, com a conversão da pena corporal em duas restritivas de direitos, por ter, entre outubro de 2005 e maio de 2010, na qualidade de síndico profissional do Edifício Promotor de Justiça Francisco José Lins do Rego, se apropriado da quantia de R$ 260.000,00 pertencente ao Condomínio.
+O TJMG negou provimento aos recursos de apelação interpostos pelo Parquet e pelo réu, mantendo incólume a sentença.
+Ainda inconformado, ANDRE RIBEIRO SALGADO interpôs o recurso especial ora examinado, com arrimo no artigo 105, III, "a", da Constituição Federal, sustentando a presença de violação ao artigo 65, III, "d", do Código Penal, alegando que deve ser reconhecida a atenuante da confissão espontânea, ainda que essa confissão tenha sido parcial ou qualificada, como ocorreu in casu e requerendo, em razão disso, o redimensionamento da pena.
+Intimado, o Parquet Estadual apresentou contrarrazões recursais, às fls. 446/450 e-STJ.
+Admitido o recurso pela Terceira Vice- Presidência do TJMG, foram os autos remetidos a esse Superior Tribunal de Justiça de onde, após regular distribuição, vieram com vista ao Parquet Federal para análise e emissão de opinativo, o que se passa a fazer.
+A defesa busca, em suma, a incidência da atenuante da confissão, com a consequente redução da pena aplicada ao recorrente.
+O parecer do MPF é pelo provimento do recurso especial (fls. 1360-1365).
+É o relatório.
+Decido.
+Presentes os requisitos de admissibilidade, conheço do recurso. No mérito, a irresignação prospera, devendo o acórdão recorrido ser reformado para fazer incidir a atenuante da confissão espontânea, senão vejamos.
+Para melhor delimitação da controvérsia, colaciono os fundamentos do acórdão recorrido, no que interessa (fls. 1320-1321-grifei):
+Do pedido de reconhecimento da atenuante de confissão espontânea
+- A defesa suplica ademais, o reconhecimento da atenuante de confissão espontânea.
+Razão não lhe assiste.
+Referida atenuante só deve ser observada para reduzir a pena quando a confissão for voluntária e espontânea, revelando todas as elementares do delito.
+A atenuante do artigo 65 inciso III alínea "d" do Código Penal beneficia somente os acusados que cooperam espontaneamente com o esclarecimento dos fatos, concordando com a pretensão acusatória na íntegra, o que não se verifica no caso em análise.
+Observa-se que o apelante confessou parcialmente os fatos narrados na denúncia, tentando, in casu, se eximir da responsabilidade penal ao sustentar que não possuía dolo em sua conduta.
+Da análise do excerto colacionado, verifico que a Corte de origem invocou fundamentos que destoam do entendimento, inclusive sumulado, deste Tribunal, que é no sentido de que a confissão, ainda que parcial ou qualificada, deve necessariamente ensejar a redução da pena.
+Com efeito, como bem observado pelo MPF, "é de se lembrar que a jurisprudência dessa Corte Superior firmou-se no sentido de que, uma vez utilizada a confissão como meio de prova, seja ela integral ou parcial, judicial ou extrajudicial, o réu fará jus à aplicação da atenuante do artigo 65, III, "d", do Código Penal. É isso, aliás, o que preceitua a Súmula 545 desse STJ, cujo teor acostamos abaixo, seguida de precedente que a aplicou: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal" (Súmula 545, TERCEIRA SEÇÃO, julgado em 14/10/2015, D Je 19/10/2015)" (fl. 1.363).
+No mesmo sentido, ilustrativamente:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO QUALIFICADO. DOSIMETRIA. PENA-BASE ACIMA DO PISO LEGAL. CIRCUNSTÂNCIAS, CONSEQUÊNCIAS E ANTECEDENTES. MOTIVAÇÃO IDÔNEA DECLINADA. CONFISSÃO ESPONTÂNEA. INCIDÊNCIA DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO INTEGRAL COM A AGRAVANTE DA REINCIDÊNCIA. PENA REVISTA. REGIME PRISIONAL SEMIABERTO MANTIDO. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+6. Nos moldes da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação, como no caso em análise.
+(..)
+11. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena a 2 anos e 8 meses de reclusão, mais 13 dias-multa, ficando mantido o regime prisional semiaberto.
+(HC 524.452/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/09/2019, DJe 24/09/2019) (grifamos).
+Assim, passo a realizar a nova dosimetria da pena, atenta às diretrizes dos arts. 59 e 68, ambos do CP.
+Na primeira fase, a pena-base foi fixada em 1 ano e 6 meses de reclusão, além de 15 dias-multa. Reconhecida a incidência da atenuante da confissão na segunda etapa, reduzo a pena em 1/6 para 1 ano e 3 meses de reclusão, além de 10 dias-multa. Na terceira fase, diante da causa de aumento prevista no art. 168, § 1º, inc. III, do CP, mantenho o aumento de 1/3, majorando a pena para 1 ano e 8 meses de reclusão, além de 13 dias-multa. Por fim, por força da continuidade delitiva, aumento a pena em 1/4, o que eleva a pena definitiva a ser cumprida para 2 anos e 1 mês de reclusão, além de 16 dias-multa, mantidas as demais cominações do acórdão condenatório.
+Ante o exposto, dou provimento ao recurso especial a fim de reduzir a pena para 2 anos e 1 mês de reclusão, além de 16 dias-multa, mantidas as demais cominações do acórdão condenatório.
+Comunique-se, com urgência as instâncias ordinárias.
+Publique-se. Intime-se.
+EMENTA
