@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ISAIAS FERREIRA DOS SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento à Apelação Criminal n. 1509717-60.2023.8.26.0032.
+A defesa alega que o aumento operado na primeira fase seria desproporcional, pugnando pela fixação da fração de 1/6 em relação ao crime de extorsão.
+Prestadas informações, o Ministério Público se manifestou pela denegação da ordem.
+É o relatório.
+Esta Corte de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observam -se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024; e HC n. 740.303/ES, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+Observe-se, a propósito, a idônea fundamentação constante do acórdão impugnado (fls. 47-48):
+Na primeira fase, a pena-base do crime de extorsão foi imposta acima do mínimo legal aos seguintes argumentos:
+"Na primeira fase de dosimetria, pelas diretrizes do artigo 59 do Código Penal, imperioso observar as circunstâncias e consequências do crime. Ouvida em Juízo, a vítima, muito abalada, afirmou que o crime praticado pelo réu causou grande abalo psicológico, pois o réu lhe mandava fotos das chaves da residência dela, fazendo com que ela nem mesmo conseguisse dormir sozinha por medo. Carina também contou que o veículo pertenceu a seu falecido pai, motivo pelo qual o bem tinha grande valor sentimental. O réu incendiou o veículo da vítima, mesmo a vítima dizendo que tinha grande valor sentimental pelo automóvel. Por isso, fixo a pena-base acima do mínimo legal, em 06 anos de reclusão e 15 dias-multa."
+Com efeito, sopesados os elementos norteadores do art. 59 do Código Penal, e considerando-se as circunstâncias e consequências do crime, idônea é a fundamentação para a exasperação da pena-base, bem como adequado o percentual de aumento eleito.
+ ..
+Ademais, considerando-se que o D. Juízo a quo, objetivamente envolvido com o caso e, por isso, com contato direto com o acusado e sua personalidade, utilizou-se de critérios para fixação da pena estabelecidos em patamar razoável e em observância aos preceitos legais, devem ser mantidos e referendados.
+De acordo com o entendimento desta Corte Superior, a dosimetria da pena é matéria afeta a certa discricionariedade do magistrado, dentro do livre convencimento motivado, não sendo cabível a revisão em habeas corpus, salvo em casos excepcionais, quando constatada, sem a necessidade de incursão no acervo fático-probatório, a inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+Do excerto reproduzido verifica-se a ausência de desproporcionalidade no aumento perpetrado na primeira fase da dosimetria, tendo a pena sido fixada em perfeita consonância com o disposto no art. 59 do Código Penal, com base em fundamentos válidos, de modo que inexiste ilegalidade flagrante apta a justificar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
