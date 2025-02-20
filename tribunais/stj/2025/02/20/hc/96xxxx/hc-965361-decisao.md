@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUCAS DE ASSUNCAO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 0458124-14.2024.3.00.0000)
+Depreende-se dos autos que o paciente foi condenado à pena de 2 anos e 8 meses de reclusão, em regime inicialmente aberto, pela prática do crime previsto no art. 155, § 4º, incisos I e IV, do Código Penal
+Foi negado provimento ao recurso de apelação interposto pela defesa em acórdão assim ementado (e-STJ fls. 17/18):
+APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO E PELO CONCURSO DE PESSOAS (CP, ART. 155, § 4º, I E IV). SENTENÇA CONDENATÓRIA. RECURSO DO ACUSADO.
+PLEITO ABSOLUTÓRIO POR INSUFICIÊNCIA PROBATÓRIA. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. PROVAS AMEALHADAS EM JUÍZO CORROBORADAS PELO RELATÓRIO DE INVESTIGAÇÃO PRODUZIDO NA FASE INDICIÁRIA QUE INDICA A PRÁTICA DO DELITO PELO RECORRENTE. PROVAS E INDÍCIOS CONCATENADOS QUE DÃO AZO À CONDENAÇÃO, EX VI DO ART. 239 DO CPP. PADRASTO, SEGURANÇA DO SUPERMERCADO, QUE ANOTA O ARMÁRIO E SEU RESPECTIVO NÚMERO EM UMA DAS MÃOS. IDA CERTEIRA DO SUPLICANTE AO COMÉRCIO COM VEÍCULO DAQUELE, ASSACANDO O MALOTE DE DINHEIRO GUARDADO NO MÓVEL PRÉ-IDENTIFICADO, LEVANDO MAIS DE R$ 80.000,00 (OITENTA MIL REAIS). VERSÃO DA DEFESA SOZINHA NOS AUTOS E DESTITUÍDA DE PROVAS. CONDENAÇÃO MANTIDA.
+PRETENSO AFASTAMENTO DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO PELA AUSÊNCIA DE LAUDO PERICIAL. IMPOSSIBILIDADE. EXAME PERICIAL PRESCINDÍVEL, SE AMPARADO EM OUTROS ELEMENTOS DE PROVAS A EVIDENCIAR O ARROMBAMENTO. FOTOS QUE ACOMPANHAM O REGISTRO DA OCORRÊNCIA CORROBORADO PELOS RELATOS COLHIDOS NOS AUTOS A DEMONSTRAR A EXISTÊNCIA DA OCORRÊNCIA. MANUTENÇÃO QUE SE IMPÕE.
+PEDIDO DE DESCLASSIFICAÇÃO PARA FURTO SIMPLES. NÃO CABIMENTO. DINÂMICA DOS FATOS QUE EXIGE O CONCURSO DE AGENTES, UMA VEZ QUE O APELANTE FOI CERTEIRO NO ARMÁRIO EM QUE SE ENCONTRAVA A RES FURTIVAE. ADEMAIS, CÂMERA DE SEGURANÇA QUE DEMONSTRA O MOMENTO EM QUE SEU PADRASTO, SUPOSTO COMPARSA, ANOTA EM SUA MÃO O NÚMERO DO ARMÁRIO EM QUE FOI GUARDADO OS NUMERÁRIOS. COMUNHÃO DE ESFORÇOS COMPROVADA.
+PRETENSO AFASTAMENTO DA CIRCUNSTÂNCIA JUDICIAL NEGATIVA EM DECORRÊNCIA DA PRÁTICA DO INJUSTO DURANTE O REPOUSO NOTURNO. NÃO ACOLHIMENTO. MAGISTRADO QUE ACERTADAMENTE RECRUDESCEU A PENA BASE EM DECORRÊNCIA DA IMPOSSIBILIDADE DE APLICAÇÃO DA MAJORANTE AO FURTO QUALIFICADO. PENA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Nesta impetração, aduz a defesa não haver provas suficientes para a manutenção da condenação do paciente.
+Subsidiariamente, pugna pelo afastamento da qualificadora do rompimento de obstáculo, por não ter sido realizada a perícia.
+Por fim, pretende "afastar a valoração negativa das circunstâncias do crime (repouso noturno), de modo a reduzir a pena imposta" (e-STJ fl. 16).
+O pedido liminar foi indeferido às e-STJ fls. 382/384.
+Informações prestadas.
+O MPF manifestou-se pelo não conhecimento do writ, mas pela concessão da ordem de ofício para o afastamento da majorante do repouso noturno (e-STJ fls. 445/455).
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+A pretensão absolutória, a toda evidência, não cabe ser examinada na via eleita, por demandar ampla incursão nos elementos probatórios, o que não se coaduna com os estreitos limites do habeas corpus.
+Com relação ao pleito de afastamento da qualificadora, esta Corte, na linha do que foi decidido pelo Tribunal de origem, entende que, "embora a prova técnica seja, em regra, necessária para a comprovação da materialidade das qualificadoras previstas no art. 155, § 4.º, incisos I e II, do Código Penal, excepcionalmente, se cabalmente demonstrada a escalada ou o rompimento de obstáculo por meio de outras provas, o exame pericial pode ser suprido" (AgRg no AREsp n. 2.295.606/DF, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 20/2/2024, DJe de 27/2/2024).
+Po r fim, com relação à pena aplicada, vale consignar que "a dosimetria da pena foi realizada com base em elementos concretos, pois a migração da majorante relativa ao repouso noturno para a primeira fase da dosimetria, pode ser considerada como circunstância judicial negativa, não havendo ilegalidade que justifique a revisão" (HC n. 871.449/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 11/12/2024).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
