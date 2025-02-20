@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TÚLIO DAVIH MARTINS DE SIQUEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que não admitiu recurso especial (Apelação n. 194371-05.2017.8.09.0175).
+Depreende-se dos autos que o recorrente fora condenado pelo Conselho de Sentença da 2ª Vara Criminal de Goiânia, pela prática do crime previsto no artigo 121, §2º, à pena de 16 (dezesseis) anos e 6 (seis) meses de reclusão, em regime inicial fechado.
+O Tribunal de origem deu parcial provimento ao recurso defensivo, redimensionando a pena do recorrente para 13 (treze) anos de reclusão (e-STJ fls. 1355/1371).
+Após, os embargos de declaração opostos pelo recorrente e Ministério Público foram rejeitados (e-STJ fls. 1398/1409).
+Inconformada, a Defesa interpôs recurso especial, com fulcro nas alíneas "a" e "c" do art. 105, III, da Constituição Federal.
+Nesse compasso, sustenta violação aos artigos 203 e 206 do Código de Processo Penal, pois as testemunhas não foram compromissadas em juízo para dizer somente a verdade.
+Alega, ainda, que não há nada que justifique a não concessão da aplicação da pena no mínimo legal de 12 anos de reclusão.
+O Tribunal de origem inadmitiu o recurso especial, por considerá-lo intempestivo (e-STJ fls. 1517/1518).
+Inadmitido, o recurso subiu a esta Corte Superior por meio do presente agravo em recurso especial (e-STJ fls. 1552/1568).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (e-STJ fls. 1616/1626).
+É o relatório.
+Decido.
+Inicialmente, conheço do agravo, pois presentes os seus requisitos de admissibilidade.
+O recurso especial não fora admitido pelo Tribunal de origem por ser intempestivo, consoante as seguintes razões (e-STJ fl. 1518):
+"Entretanto, verifica-se que o recurso é intempestivo. Publicada a intimação do acórdão recorrido no Diário da Justiça datado de 18/03/2019 (quinta-feira), de acordo com a certidão de fl. 808, o prazo recursal começou a fluir em 29/03/19, exaurindo-se em 12/04/19 (sexta-feira). Todavia, a peça recursal foi protocolizada neste Tribunal no dia 05/08/19, conforme chancela à fl. 812. Ante o teor do exposto, deixo de admitir o recurso por ser manifestamente intempestivo"
+Ocorre que, como bem pontuado pelo recorrente, há evidente erro material na certidão cartorária, uma vez que a sessão de julgamento dos embargos de declaração ocorreu em 23/7/2019, razão pela qual o recurso especial fora interposto dentro do prazo.
+Assim, conheço do recurso especial.
+No que concerne à ausência de compromisso das testemunhas, o Tribunal de origem afastou a aventada nulidade pelos seguintes fundamentos (e-STJ fls. 1357/1358):
+"Improcede a aventada preambular de ausência da tomada de compromisso das testemunhas inquiridas, porquanto tal omissão se consubstancia em mera informalidade, o que não causa prejuízo à defesa, a par do livre convencimento dos jurados na formação da íntima convicção. A propósito, leciona Norberto Avena" que o compromisso não passa de um sinal, símbolo que, conforme esteja presente ou ausente no depoimento, permite ao juiz conferir-lhe maior ou menor valor no ato de sentenciar". Na mesma direção, Renato Brasileiro de Lima 2 ensina "que o dever legal de dizer a verdade não decorre do ato de a testemunha prestar o compromisso previsto no art. 203 do CPP, cuja natureza é meramente processual e o valor jurídico é o de mera exortação. Válidas, ainda, as palavras de Guilherme de Souza Nucci, de que "trata-se de formalidade legal, demonstrando à pessoa a ser ouvida o dever jurídico imposto: dizer a verdade a qualquer custo". Demais disso, a alegação de pretensa nulidade do julgamento em plenário, quando não arguida logo depois de ocorrer, é alcançada pelo instituto da preclusão, porque inexistiu qualquer insurgência quanto à matéria logo após a realização do ato, a teor do artigo 571, inciso VIII, do Código de Processo Penal. (..). Vale dizer, além de preclusa a matéria, porque não combatida na sessão plenária logo depois de ocorrer, mas impugnada somente por ocasião das razões recursais, a não tomada de compromisso das testemunhas constitui mera informalidade."
+Como bem fundamentado pelo Tribunal de origem, a ausência de formalização do compromisso de dizer à verdade constitui mera irregularidade, pois o ato de compromisso não passa de uma exortação de fundo moral ou cívico, com o qual se pretende convencer a testemunha da importância de seu encargo, da necessidade de se ater aos ditames de sua consciência, quanto à veracidade dos fatos de que tem conhecimento.
+Registro que "A diferença de valor da prova colhida, como informante ou testemunha, com ou sem compromisso de dizer a verdade, é matéria de ponderação judicial e não de classificação em uma ou outra categoria de prova oral" (AgRg no AREsp n. 378.353/PR, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 20/2/2018, DJe de 26/2/2018).
+De mais a mais, é reiterada a orientação jurisprudencial desta Corte no sentido de que a decretação da nulidade processual, ainda que absoluta, depende da demonstração do efetivo prejuízo à luz do art. 563 do Código de Processo Penal, ex vi do princípio pas de nullité sans grief, o que não ocorreu no caso em análise (Por todos: AgRg no HC n. 822.930/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/9/2023, DJe de 13/9/2023).
+Soma-se a isso a preclusão da matéria, pois, conforme consignado pelo Tribunal de origem, a alegada nulidade não fora arguida em sessão plenária, nos termos do artigo 571, inciso VIII, do Código de Processo Penal.
+Em relação à fixação da pena-base, o Tribunal de origem manteve a valoração negativa das consequências do crime, argumentando que "Quanto às consequências, consta que "são negativas, porquanto, a vítima deixou dois filhos menores que dependiam de sua assistência, portanto, privados da companhia paterna" (fl. 669), o que realmente denota maior desvalor dos efeitos da ação criminosa (e-STJ 1367)."
+No tocante à fixação da pena-base acima do mínimo legal, as instâncias ordinárias apresentaram fundamentação concreta, idônea e suficiente, apta a justificar a atribuição de maior rigor penal à vetorial consequências do crime.
+Nesse sentido:
+(..) 4. "A existência de filhos menores da vítima de homicídio pode ser considerada para fins de majoração da pena-base em razão da circunstância judicial consequências do crime, tendo em vista que tal circunstância não é inerente ao tipo penal em destaque" (AgRg no AREsp n. 1.902.179/MA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/12/2021, DJe de 14/12/2021.)
+(..)
+(HC n. 936.493/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+(..) 6. É válido o aumento da pena-base, pela análise das consequências do delito, em decorrência de a vítima haver deixado filhos menores de idade órfãos. Precedentes.
+7. Agravo regimental parcialmente conhecido e, nessa extensão, provido em parte, a fim de conhecer do recurso especial e negar-lhe provimento.
+(AgRg no AREsp n. 2.650.601/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/12/2024, DJEN de 13/12/2024.)
+Ante o exposto, conh eço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
