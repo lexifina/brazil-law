@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ANTONIO CARLOS MATOS em face de acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, referente ao julgamento do HC n. 1004445-39-2024.4.01.0000.
+Consta dos autos que o recorrente foi inicialmente condenado pelo Juízo da 1ª Vara Federal da Seção Judiciária do Estado do Piauí, na ação penal n. 23910-60.2016.4.01.4000, pela prática dos crimes previstos nos artigos 304 c/c 297 e 311, todos do Código Penal, em concurso material, à pena de 5 (cinco) anos, 10 (dez) meses e 15 (quinze) dias de reclusão, além do pagamento de 108 (cento e oito) dias-multa, no regime inicial semiaberto (fls. 23-41).
+A defesa impetrou o HC n. 1004445-39-2024.4.01.0000 perante o TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que indeferiu liminarmente o habeas corpus por força de decisão monocrática do seu relator (fls. 47-48). Interposto agravo interno, foi negado provimento (fls. 91-95).
+No presente recurso em habeas corpus, pleiteia-se o seu provimento para revisar os critérios empregados na dosimetria da pena. Pugna-se, também, pela concessão de medida liminar para que a aç ão penal seja suspensa até o julgamento do presente recurso.
+É o relatório. DECIDO.
+A competência do Superior Tribunal de Justiça é taxativamente estabelecida no artigo 105, II, alínea "a", da Constituição Federal, que lhe confere a atribuição de julgar, em recurso ordinário, os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória.
+No caso concreto, o habeas corpus foi indeferido liminarmente por ter sido manejado em face de sentença proferida por Juiz Federal e submetida à revisão por intermédio de recurso de apelação, em acórdão assim ementado (fl. 94):
+PENAL. PROCESSUAL PENAL. AGRAVO INTERNO EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FUNDAMENTAMENTAÇÃO EXPLICITA E SUFICIENTE. AUSÊNCIA DE RISCO IMIMENTE À LIBERDADADE DO AGRAVANTE. NEGADO PROVIMENTO AO AGRAVO INTERNO.
+1. A decisão monocrática combatida consignou que: a) a Ação Penal 0023910-60.2016.4.01.4000 já se encontra em grau de recurso neste TRF1; b) o habeas corpus não deve ser manejado como sucedâneo do recurso de apelação já interposto; c) já estando o feito principal sob a jurisdição do TRF1, este se convolou em autoridade com competência para rever a sentença combatida, o que altera a competência para um eventual habeas corpus, que deveria ser impetrado perante o STJ. Há, portanto, fundamentação explicita e suficiente para o indeferimento da inicial.
+2. De todo modo, conforme bem ressaltado pelo MPF, a sentença de ID. 394884622 concedeu ao agravante o direito de recorrer em liberdade, não havendo, portanto, qualquer risco iminente à sua liberdade de locomoção a justificar, em caso extremo, o manejo do habeas corpus a despeito do recurso de apelação.
+3. Agravo interno não provido.
+Também não verifico, de plano, a presença de coação ilegal ou teratologia que justifique a concessão da ordem na forma do §2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus, com fundamento nos artigos 210 e 246 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
