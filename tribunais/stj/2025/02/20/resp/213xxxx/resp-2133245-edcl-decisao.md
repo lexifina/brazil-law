@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por TOKIO MARINE SEGURADORA S. A. (TOKIO), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REGRESSO. SEGURO. DANOS A CARGA SEGURADA. TAXA SELIC. CONDENAÇÃO JUDICIAL. APLICAÇÃO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO (e-STJ, fl. 704).
+Nas razões do presente inconformismo, defendeu que a decisão embargada foi omissa, visto que penderia questão de ordem aventando a nulidade de julgamento da Corte Especial referente à taxa SELIC (e-STJ, fls. 717/724).
+Foi apresentada contraminuta (e-STJ, fls. 731/733).
+É o relatório.
+A irresignação não merece prosperar.
+Da ausência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Contudo, sem razão.
+O julgamento do REsp nº 1.795.982/SP foi finalizado pela Corte Especial aos 21/8/24, tendo sido julgadas prejudicadas as questões de ordem formuladas, em razão do advento da Lei nº 14.905/24. Confira-se a ementa do julgado:
+CIVIL. RECURSO ESPECIAL. INTERPRETAÇÃO DO ART. 406 DO CÓDIGO CIVIL. RELAÇÕES CIVIS. JUROS MORATÓRIOS. TAXA LEGAL. APLICAÇÃO DA SELIC. RECURSO PROVIDO.
+1. O art. 406 do Código Civil de 2002 deve ser interpretado no sentido de que é a SELIC a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa "em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional".
+2. A SELIC é taxa que vigora para a mora dos impostos federais, sendo também o principal índice oficial macroeconômico, definido e prestigiado pela Constituição Federal, pelas Leis de Direito Econômico e Tributário e pelas autoridades competentes. Esse indexador vigora para todo o sistema financeiro-tributário pátrio.
+Assim, todos os credores e devedores de obrigações civis comuns devem, também, submeter-se ao referido índice, por força do art. 406 do CC.
+3. O art. 13 da Lei 9.065/95, ao alterar o teor do art. 84, I, da Lei 8.981/95, determinou que, a partir de 1º de abril de 1995, os juros moratórios "serão equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC para títulos federais, acumulada mensalmente".
+4. Após o advento da Emenda Constitucional 113, de 8 de dezembro de 2021, a SELIC é, agora também constitucionalmente, prevista como única taxa em vigor para a atualização monetária e compensação da mora em todas as demandas que envolvem a Fazenda Pública. Desse modo, está ainda mais ressaltada e obrigatória a incidência da taxa SELIC na correção monetária e na mora, conjuntamente, sobre o pagamento de impostos devidos à Fazenda Nacional, sendo, pois, inconteste sua aplicação ao disposto no art. 406 do Código Civil de 2002.
+5. O Poder Judiciário brasileiro não pode ficar desatento aos cuidados com uma economia estabilizada a duras penas, após longo período de inflação galopante, prestigiando as concepções do sistema antigo de índices próprios e independentes de correção monetária e de juros moratórios, justificável para uma economia de elevadas espirais inflacionárias, o que já não é mais o caso do Brasil, pois, desde a implantação do padrão monetário do Real, vive-se um cenário de inflação relativamente bem controlada.
+6. É inaplicável às dívidas civis a taxa de juros moratórios prevista no art. 161, § 1º, do CTN, porquanto este dispositivo trata do inadimplemento do crédito tributário em geral. Diferentemente, a norma do art. 406 do CC determina mais especificamente a fixação dos juros pela taxa aplicável à mora de pagamento dos impostos federais, espécie do gênero tributo.
+7. Tal entendimento já havia sido afirmado por esta Corte Especial, por ocasião do julgamento do EREsp 727.842/SP, no qual se deu provimento àqueles embargos de divergência justamente para alinhar a jurisprudência dos Órgãos Colegiados internos, no sentido de que "a taxa dos juros moratórios a que se refere o referido dispositivo é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, por ser ela a que incide como juros moratórios dos tributos federais" (Rel. Min. TEORI ALBINO ZAVASCKI, julgado em 8/9/2008 e publicado no DJe de 20/11/2008). Deve-se reafirmar esta jurisprudência, mantendo-a estável e coerente com o sistema normativo em vigor.
+8. Recurso especial provido.
+(REsp n. 1.795.982/SP, relator Ministro LUIS FELIPE SALOMÃO, relator para acórdão Ministro RAUL ARAÚJO, Corte Especial, j. em 21/8/2024, DJe de 23/10/2024.)
+Observa-se, dessa forma, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO NÃO VERIFICADA. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. NECESSIDADE. CARÁTER FUNCIONAL E REPARADOR. NÃO ESTÉTICO. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, a pretensão de reforma da decisão não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do NCPC.
+3. Esta Corte de Justiça já teve a oportunidade de perfilhar o entendimento de que, tendo sido o segurado em tratamento de obesidade mórbida, com cobertura da seguradora, submetido à cirurgia bariátrica, deve a operadora do plano de saúde arcar com os tratamentos necessários e complementares ao referido ato cirúrgico, destinados à cura da patologia (AgRg no AREsp 583.765/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/5/2015, DJe de 22/6/2015).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.656.178/SP, de minha relatoria, Terceira Turma, j. em 24/08/2020, DJe 27/08/2020)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE REGRESSO. SEGURO. DANOS A CARGA SEGURADA. TAXA SELIC. OMISSÃO. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
