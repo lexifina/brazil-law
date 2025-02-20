@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Rio Verde contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 263):
+EMENTA: APELAÇÃO CÍVEL AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA E INDENIZAÇÃO POR DANOS MATERIAIS. SERVIDORA MUNICIPAL. PROGRESSÃO HORIZONTAL. ADEQUAÇÃO. HONORÁRIOS RECURSAIS.
+1. Com sabido que a progressão do servidor público não consiste em conduta discricionária do agente público incumbido de fazê-la, em verdade, cuida-se de ato vinculado, ao passo que, preenchido pelo servidor o requisito necessário expresso em norma imperativa, deve ser progredido na carreira, não sendo plausível admitir-se sua omissão.
+2. Descabível a majoração dos honorários sucumbenciais na instância recursal, prevista no art. 85, § 11, do Código de Processo Civil, em razão da sua fixação incidir, tão somente, na fase de cumprimento de sentença. APELAÇÃO CONHECIDA E DESPROVIDA.
+Opostos embargos declaratórios, foram rejeitados (fls. 287/296).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º do Decreto 20.910/32 e 332, §1º, 373, 487, II, 489, §1º, IV, e 1.022, parágrafo único, II, do CPC. Sustenta, além de negativa de prestação jurisdicional, a prescrição do fundo de direito, sob o argumento de que "No caso em tela, a recorrida fundamenta sua pretensão no não enquadramento adequado em sua carreira, um ato administrativo único que deveria ter ocorrido há mais de cinco anos. O Superior Tribunal de Justiça (STJ) possui entendimento consolidado no sentido de que o enquadramento ou reenquadramento de servidor público é considerado ato único de efeitos concretos, não configurando relação de trato sucessivo. Sendo assim, a pretensão de reenquadramento não se renova mensalmente, uma vez que envolve o reconhecimento de uma nova situação jurídica fundamental, e não os consectários de uma posição jurídica já definida. Nesses casos, a prescrição atinge o próprio fundo de direito, tornando inaplicável o disposto na Súmula nº 85 do STJ." (fl. 306).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, o Tribunal de origem não se manifestou sobre a alegação de que ocorrência da prescrição do fundo de direito, tampouco os opostos embargos declaratórios opostos se destinaram a suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
