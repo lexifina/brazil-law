@@ -1,0 +1,43 @@
+DECISÃO
+Em análise, recurso ordinário em mandado de segurança interposto por ERIENE DOS SANTOS ROSA E OUTROS, contra acórdão assim ementado (fl. 1.553):
+MANDADO DE SEGURANÇA COLETIVO. CONCURSO PÚBLICO. SECRETARIA DA EDUCAÇÃO. PRELIMINAR. INADEQUAÇÃO DA VIA ELEITA. PREJUDICIAL DE MÉRITO. DECADENCIA DO DIREITO PARA IMPUGNAÇÃO DE OMISSÃO EDITALÍCIA. MÉRITO. CANDIDATOS ELIMINADOS. CLÁUSULA DE BARREIRA. VALIDADE. DIREITO LÍQUIDO E CERTO. AUSENTE. SEGURANÇA DENEGADA.
+Os recorrentes alegam que obtiveram êxito nas provas objetiva e discursiva do concurso para o cargo de Professor Nível III - QUILOMBOLA (CÓDIGO 117), regido pelo EDITAL Nº 007 - SEAD/SEDUC, contudo, após a convocação para a prova de títulos, foram eliminados, em afronta ao disposto no art. 49, da Lei 19.587/2017, tendo em vista que a prova de títulos possui caráter classificatório e não eliminatório. Além disso, apontam falha no certame, pois concorreram a vagas de quilombolas e, consequentemente, deveriam ser convocados para comprovação perante uma comissão de heteroindentificação.
+Narram que a segurança pleiteada na via mandamental foi denegada pelo Tribunal Estadual sob o fundamento de que "os Recorrentes não possuem direito líquido e certo para estarem habilitados no quadro de vagas e no cadastro de reserva do concurso público para provimento no cargo de Professor Nível III - Quilombola, regido pelo edital nº 007 - SEAD/SEDUC" (fl. 1.566).
+Dessarte, pugnam pelo provimento do recurso para concessão da segurança, determinando a imediata inclusão dos nomes dos recorrentes na lista de aprovados do certame.
+Sem contrarrazões.
+O Ministério Público Federal opina pelo desprovimento do recurso (fls. 1.607-1.610).
+É o relatório.
+Passo a decidir.
+Na origem, ERIENE DOS SANTOS ROSA E OUTROS impetraram mandado de segurança contra ato apontado ilegal atribuído à SECRETARIA DE ESTADO ESTADO DE ADMINISTRAÇÃO DE GOIÁS, objetivando a inclusão de seus nomes na lista de aprovados no certame regido pelo EDITAL Nº 007 - SEAD/SEDUC.
+O Tribunal de origem denegou a segurança, concluindo pela ausência de violação a direito líquido e certo, sob os seguintes fundamentos (fls. 1.545-1.549):
+Não obstante, insta destacar que a "cláusula de barreira" consiste em regra editalícia restritiva que limita a convocação de candidatos para participação na fase seguinte do certame, estabelecendo a eliminação do candidato que, mesmo tendo obtido nota mínima necessária à aprovação, não se classificou dentro do número pré-determinado de candidatos de melhor classificação.
+Sendo assim, o candidato que não obteve a pontuação geral (somatória das notas alcançada na prova objetiva, discursiva e avaliação de títulos) necessária para estar dentro das vagas ou no cadastro de reserva, estará eliminado, conforme previsão expressa do item 18.5 do edital:
+18.5 Os candidatos que não forem classificados ou habilitados estão eliminados.
+ ..
+Contudo, em que pese os impetrantes terem sido convocados para a etapa da prova de títulos, não comprovaram que obtiveram nota total necessária para estarem incluídos entre os classificados ou habilitados, estando, portanto, eliminados do concurso público, conforme estabelece regra editalícia, aplicada de forma igualitária aos demais candidatos do concurso público.
+A respeito disso, é constitucional a regra de cláusula de barreira inserida no edital de concurso público, com o fito de selecionar apenas os candidatos melhores classificados para prosseguirem no certame, conforme entendimento do Supremo Tribunal Federal, no julgamento do RE 635.739/AL (Tema n. 376).
+Diante do exposto, é possível verificar que restou observado o caráter não eliminatório da prova de títulos, a qual apenas repercutiu na classificação dos candidatos, conforme previsão editalícia (cláusula de barreira e item 18.5), instrumento que vincula as partes - candidatos e Administração. Sendo assim, as conclusões a que chegou o Tribunal Estadual estão em consonância com a jurisprudência desta Corte Superior, no sentido de que não há ilegalidade na norma editalícia de concurso público com cláusula de barreira.
+A propósito:
+AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO. CURSO DE FORMAÇÃO. CLÁUSULA DE BARREIRA. LEGALIDADE. MANUTENÇÃO DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO ORDINÁRIO.
+1. O "edital de concurso público faz lei entre as partes, funcionando como instrumento que vincula tanto a Administração, quanto o candidato que a ele se submete" (AgInt no RMS n. 73.343/DF, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 23/9/2024, DJe de 25/9/2024).
+2. "Esta Corte, alinhada ao entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema n. 376, reconhece a legitimidade da norma prevista no edital de concurso que limita o número de candidato participantes de cada fase da disputa, com fundamento em selecionar apenas os candidatos que obtiveram as melhores notas"(AgInt nos EDcl no RMS n. 71.957/BA, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/8/2024, DJe de 14/8/2024.)
+3. Na espécie, não tendo sido comprovado o direito líquido e certo do recorrente à convocação para fase do curso de formação, deve ser mantida a negativa de provimento ao recurso ordinário em mandado de segurança.
+4. Agravo interno improvido.
+(AgInt no RMS n. 73.955/DF, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. APLICABILIDADE DO CPC/2015. CONCURSO PÚBLICO PARA DELEGADO DE POLÍCIA CIVIL. PONTUAÇÃO INSUFICIENTE PARA PROSSEGUIR NAS FASES SUBSEQUENTES. CLÁUSULA DE BARREIRA. VALIDADE. PRINCÍPIO DA VINCULAÇÃO AO EDITAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. As regras editalícias, consideradas em conjunto como verdadeira lei interna do certame, vinculam tanto a Administração como os candidatos participantes. Impositivo, portanto, o respeito ao princípio da vinculação ao edital. Precedentes.
+3. No caso, o acórdão recorrido encontra-se em conformidade com a jurisprudência consolidada nesta Corte Superior que, alinhando-se ao entendimento firmado pelo STF, reconhece inexistir ilegalidade na norma editalícia de concurso público com cláusula de barreira, a qual prevê a eliminação do candidato que, mesmo tendo obtido nota mínima suficiente para aprovação em determinada fase, não se classificou entre os melhores candidatos correspondentes a um percentual do número de vagas. Precedentes.
+4. Agravo interno não provido.
+(AgInt no RMS n. 72.978/GO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. REQUISITOS DE ADMISSIBILIDADE DO MANDADO DE SEGURANÇA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 318/STF. CONCURSO PÚBLICO. CLÁUSULA DE BARREIRA. CONSTITUCIONALIDADE. TEMA 376/STF. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE EM REPERCUSSÃO GERAL. AGRAVO NÃO PROVIDO.
+1. Consoante entendimento firmado pelo Supremo Tribunal Federal no julgamento do AI 800.074 RG/SP, a matéria relativa aos requisitos de admissibilidade do mandado de segurança não tem repercussão geral, pois "se relaciona com a Constituição Federal apenas de forma mediata, porque as normas processuais atinentes ao seu cabimento são disciplinadas pela Lei n. 12.016/2009" (Tema 318/STF).
+2. No julgamento, sob o regime de repercussão geral, do RE n. 635.739/AL, o Supremo Tribunal Federal reconheceu a repercussão geral do tema "Cláusulas de barreira ou afunilamento em concurso público" (Tema 376) e, em julgamento, fixou tese segundo a qual "É constitucional a regra inserida no edital de concurso público, denominada cláusula de barreira, com o intuito de selecionar apenas os candidatos mais bem classificados para prosseguir no certame".
+3. Estando o acórdão recorrido em conformidade com o entendimento da Suprema Corte, imperiosa a negativa de seguimento prevista no art. 1.030, inciso I, alínea "a", do Código de Processo Civil .
+4. Agravo interno não provido.
+(AgInt no RE nos EDcl no AgInt no RMS n. 54.965/GO, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 27/8/2019, DJe de 2/9/2019.)
+Assim, deve ser mantida a denegação da segurança.
+Isso posto, nego provimento ao recurso ordinário em mandado de segurança.
+Sem condenação em honorários advocatícios, nos termos do art. 25, da Lei 12.016/2009 e do enunciado da Súmula 105 do STJ.
+Intimem-se.
+ EMENTA
