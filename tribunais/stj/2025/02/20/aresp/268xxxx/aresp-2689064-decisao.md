@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS, contra decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal de Justiça do Tocantins, assim ementado (fls. 406-410):
+"PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. AÇÃO PENAL. RECURSO DO MINISTÉRIO PÚBLICO. IMPRONÚNCIA. FUNDAMENTO EXCLUSIVO EM PROVAS INQUISITORIAIS. NÃO CONFIRMAÇÃO EM JUÍZO. INDÍCIOS INSUFICIENTES DA AUTORIA. RECURSO NÃO PROVIDO.
+1. Conforme dispõe o artigo 413 do Código de Processo Penal, "o juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria", e, então, remeterá a questão ao Tribunal do Júri, a quem constitucionalmente compete julgar os crimes dolosos contra a vida.
+2. A sentença de pronúncia consiste em juízo de admissibilidade, não exigindo prova incontroversa da autoria delitiva, bastando que o juiz indique as provas da materialidade do crime e os indícios suficientes de autoria, ou seja, de que haja uma probabilidade de terem os Recorridos praticado o crime, que é o que de fato fez o juízo de origem.
+3. Em que pese as testemunhas terem visto três pessoas caminhando pela rua, logo após terem escutado gritos, estas pessoas não foram identificadas como sendo as pessoas dos Recorridos. Nem sequer as cores das roupas foram mencionadas na fase judicial.
+4. Os depoimentos colhidos judicialmente não demonstram sequer indícios da autoria, por parte dos Recorridos, mostrando-se correto o posicionamento adotado na origem".
+No recurso especial (fls. 424-434), interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação do art. 413 do Código de Processo Penal, sob o argumento de que tanto o Juízo de primeira instância quanto o Tribunal de origem cometeram "error in procedendo", uma vez que evidenciados indícios suficientes de autoria e a materialidade do crime de homicídio qualificado com previsão no art. 121, §2º, IV, do Código Penal.
+Apresentadas as contrarrazões (fls. 440-446), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7 do STJ (fls. 452-455).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 464-467).
+O Ministério Público Federal apresentou parecer pelo conhecimento e desprovimento do agravo em recurso especial. (fls. 494-496).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da aplicação da Súmula 7/STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade do óbice apontado na decisão agravada.
+Com relação ao referido óbice, em síntese, a parte limitou-se a afirmar o que segue (fl. 466 - destaques no original):
+"Pois bem, em que pesem os argumentos da Presidência, o que se busca é que o Tribunal se pronuncie a respeito da negativa de vigência do artigo 413 do Código de Processo Penal, sendo que, embora encontre-se nos autos, claros indícios de autoria e materialidade, inclusive com depoimento de participante do mesmo.
+Nesse sentido, não há que se cogitar, ausência de indícios mínimos, eis que, o que se busca, nos presentes autos é que se proceda à revaloração dos fatos e provas consignados pelo Tribunal de origem".
+Contudo, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM. 182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento."
+(AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018, grifei).
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC DE 2015. IMPOSSIBILIDADE DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INSURGÊNCIA DESPROVIDA.
+1. Na modalidade do recurso previsto no art. 1.042 do CPC, "é inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes". Precedente da Corte Especial do STJ.
+2. A decisão que não admitiu o recurso especial assentou os óbices das Súmulas ns. 7 e 83 do STJ, e na deficiência do cotejo analítico. Contudo, no respectivo agravo, o recorrente limitou-se a arguir, genericamente, a suposta desnecessidade de reexame da matéria fático-probatória e que teria realizado o devido cotejo analítico, bem como deixou de impugnar adequadamente a incidência da Súmula 83/STJ.
+3. Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil de 2015 e o art. 253, I, do RISTJ.
+4. Agravo desprovido." (AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022).
+Sobre a questão debatida, a Corte local concluiu não haver prova indiciária de autoria delitiva colhida sob o manto do contraditório, apta a ensejar a pronúncia do acusado. Vejamos (fls. 408-410):
+"Conforme dispõe o artigo 413 do Código de Processo Penal, "o juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria", e, então, remeterá a questão ao Tribunal do Júri, a quem constitucionalmente compete julgar os crimes dolosos contra a vida.
+ ..
+Do exame dos autos de origem, é possível constatar que as testemunhas ouvidas não puderam confirmar que os Recorridos são as mesmas pessoas que, no dia do fato, foram vistas nas proximidades da residência da vítima, logo após ouvirem gritos.
+Os depoimentos colhidos judicialmente não demonstram sequer indícios da autoria, por parte dos Recorridos, mostrando-se correto o posicionamento adotado na origem, haja vista que as testemunhas WILLIAN VIANA SANTOS e FRANCISCA DA CONCEIÇÃO FÉLIX em momento algum os reconheceram como as pessoas que foram vistas na rua no dia do fato.
+Em que pese as testemunhas terem visto três pessoas caminhando pela rua logo após terem escutado gritos, estas pessoas não foram identificadas como sendo as pessoas dos Recorridos. Nem sequer as cores das roupas foram mencionadas na fase judicial.
+ ..
+Mesmo sendo aplicável o princípio do in dubio pro societate, impossível pronunciar os Recorridos, exclusivamente, com fundamento em depoimento prestado durante inquérito policial, se durante a audiência de instrução e julgamento, submetida ao contraditório, não foi possível identificar os autores do fato".
+Alterar, portanto, o entendimento firmado pelas instâncias ordinárias, como pretende o agravante, demandaria o reexame do acervo fático-probatório, providência vedada na via do recurso especial, conforme dispõe a Súmula n. 7, STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
