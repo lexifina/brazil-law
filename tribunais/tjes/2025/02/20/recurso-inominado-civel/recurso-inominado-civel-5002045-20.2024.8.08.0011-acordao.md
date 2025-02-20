@@ -1,0 +1,121 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5002045-20.2024.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MARCIO FRANCISCHETTO
+RECORRIDO: MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO DE COBRANÇA DE DIFERENÇA DO AUXÍLIO-ALIMENTAÇÃO. AGENTE COMUNITÁRIA DE SAÚDE. CONTRATO TEMPORÁRIO. PAGAMENTO DE 50% DE AUXÍLIO ALIMENTAÇÃO. PREVISÃO NA LEI MUNICIPAL VIGENTE DE
+Nº 7.938/2022. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO ATUAR COMO LEGISLADOR. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. RECURSO DA PARTE AUTORA CONHECIDO E IMPROVIDO. CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n.º 5002045-20.2024.8.08.0011
+
+Recorrente: MARCIO FRANCISCHETTO
+
+Recorrido: MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM
+
+Relator: DOUGLAS DEMONER FIGUEIREDO
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente, visto que preenchidos os requisitos legais.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO DE COBRANÇA DE DIFERENÇA DO AUXÍLIO-ALIMENTAÇÃO. AGENTE COMUNITÁRIA DE SAÚDE. CONTRATO TEMPORÁRIO. PAGAMENTO DE 50% DE AUXÍLIO ALIMENTAÇÃO. PREVISÃO NA LEI MUNICIPAL VIGENTE DE
+Nº 7.938/2022. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO ATUAR COMO LEGISLADOR. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. RECURSO DA PARTE AUTORA CONHECIDO E IMPROVIDO. CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. (1). DA LIDE.
+TRATA-SE DE AÇÃO DE COBRANÇA AJUIZADA EM FACE DO MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM. SUSTENTA A PARTE AUTORA, EM APERTADA SÍNTESE, QUE EXERCE A FUNÇÃO DE AGENTE COMUNITÁRIA DE SAÚDE NO MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM-ES, CONFORME DECRETO MUNICIPAL Nº. 24.170, DE 01 DE NOVEMBRO DE 2013. ALEGA QUE A LEI MUNICIPAL 7.938 DE 09.03.22 INSTITUIU O BENEFÍCIO AUXÍLIO-ALIMENTAÇÃO NA SUA INTEGRALIDADE, CONCEDENDO O BENEFÍCIO AOS SERVIDORES ESTATUTÁRIOS E CELETISTAS EM ATIVIDADE NA ADMINISTRAÇÃO DIRETA E INDIRETA DO PODER EXECUTIVO MUNICIPAL. TODAVIA, INFORMA QUE RECEBE O VALOR DE R$ 350,00 (TREZENTOS E CINQUENTA REAIS) DO AUXÍLIO-ALIMENTAÇÃO, OU SEJA, APENAS 50% (CINQUENTA POR CENTO) DO DIREITO PREVISTO PARA OS SERVIDORES EFETIVOS.
+(2). ANTÍTESE.
+DEVIDAMENTE CITADO, O REQUERIDO ARGUIU A PRELIMINAR DE COISA JULGADA, AO ARGUMENTO DE QUE A AÇÃO ORA INTENTADA TEM A MESMA CAUSA DE PEDIR E PEDIDOS DE OUTRA ANTERIORMENTE AJUIZADA PELO SINDIMUNICIPAL (AÇÃO COLETIVA) EM FACE DO REQUERIDO, PROCESSADA PERANTE O JUÍZO DA 1ª VARA DA FAZENDA ESTADUAL DESTA COMARCA, PROCESSO N° 5009729- 64.2022.8.08.0011, COM TRÂNSITO EM JULGADO EM 26/01/2024. NO MÉRITO, REQUEREU A IMPROCEDÊNCIA DA DEMANDA.
+(3). SENTENÇA QUE JULGOU IMPROCEDENTE O PLEITO AUTORAL. (4). RECURSO DA PARTE AUTORA.
+VÍNCULO (NÃO) TEMPORÁRIO. LEI FEDERAL Nº. 11.350/2006. PARTE RECURSANTE QUE É SERVIDOR ESTATUTÁRIO E LABORA DE FORMA INTEGRAL (ART. 1º E 10 DA LEI MUNICIPAL N° 7.751/2019), ASSIM, ENQUADRA-SE NO ART. 2º, CAPUT, DA LEI MUNICIPAL Nº. 7.938/2022. LEI MUNICIPAL QUE ENQUADRA OS AGENTES COMUNITÁRIOS DE SAÚDE E AGENTES DE COMBATE ÀS ENDEMIAS (ACSCE) AO RECEBIMENTO DE 100% (CEM POR CENTO) DO AUXÍLIO-ALIMENTAÇÃO. PLEITO DE REFORMA INTEGRAL DA SENTENÇA, PARA O FIM DE JULGAR TOTALMENTE PROCEDENTE O PEDIDO AUTORAL.
+(5). CONTRARRAZÕES DO MUNICÍPIO. PRELIMINAR DE PRESCRIÇÃO.
+REQUERENTE QUE NÃO SE TRATA DE SERVIDORA PÚBLICA. ATO PRATICADO PELO MUNICÍPIO QUE POSSUI RESPALDO DE LEI MUNICIPAL. EM SÍNTESE, REQUER O IMPROVIMENTO DO RECURSO INTERPOSTO, PARA QUE SEJA MANTIDA INCÓLUME A SENTENÇA DE PISO PROFERIDA.
+(6). MÉRITO RECURSAL.
+IMPENDE MENCIONAR QUE FORAM PREENCHIDOS OS PRESSUPOSTOS PROCESSUAIS DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO (PRIMEIRO ESTÁGIO), BEM COMO AS CONDIÇÕES/REQUISITOS AO JULGAMENTO DO MÉRITO DA AÇÃO (SEGUNDO ESTÁGIO). LOGO, PASSO DORAVANTE AO TERCEIRO ESTÁGIO, EXAMINANDO O
+MERITUM CAUSAE.
+
+IN CASU
+,
+ANTE OS FATOS NARRADOS NA INICIAL, A PARTE AUTORA, COMPOSTA POR SERVIDOR CONTRATADO POR DESIGNAÇÃO TEMPORÁRIA DO MUNICÍPIO REQUERIDO, PLEITEIA PELA PERCEPÇÃO INTEGRAL DO VALOR PAGO À TÍTULO DE “AUXÍLIO ALIMENTAÇÃO”, TENDO EM VISTA SEU ATUAL PAGAMENTO PARCIAL (50%).
+POIS BEM
+, A NORMA CONSTANTE NO
+§ 5º, DO ART. 198 DA
+CONSTITUIÇÃO FEDERAL
+PELA
+EMENDA CONSTITUCIONAL Nº 51/2006
+E, POSTERIORMENTE, PELA
+EMENDA CONSTITUCIONAL
+
+63/2010
+,
+ESTABELECE A EDIÇÃO DE LEI FEDERAL PARA DISPOR SOBRE O REGIME JURÍDICO DOS AGENTES EM COMENTO, VEJA-SE: Art. 198 (...)
+§ 5º Lei federal disporá sobre o regime jurídico e a regulamentação das atividades de agente comunitário de saúde e agente de combate às endemias.
+
+(Redação conferida pela EC nº 51/2006).
+Art. 198 (...) § 5º
+Lei federal disporá sobre o regime jurídico, o piso salarial profissional nacional, as diretrizes para os Planos de Carreira e a regulamentação das atividades de agente comunitário de saúde e agente de combate às endemias, competindo à União, nos termos da lei, prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios, para o cumprimento do referido piso salarial.
+
+(Redação dada pela EC nº 63/2010)
+. ATO CONTÍNUO, DESTACO QUE NOS TERMOS DO
+§ 5º, DO ART. 198 DA CONSTITUIÇÃO FEDERAL
+, FOI EDITADA A
+LEI FEDERAL 11.350/2006
+QUE, DENTRE OUTRAS, ESTABELECE: Art. 8°
+Os agentes comunitários de saúde e os agentes de combate às endemias admitidos pelos gestores locais do SUS e pela Fundação Nacional de Saúde - FUNASA, na forma do disposto no § 4o do Art. 198 da Constituição, submetem-se ao regime jurídico estabelecido pela Consolidação das Leis do Trabalho - CLT,
+salvo se, no caso dos estados, do Distrito Federal e dos Municípios, Lei Local dispuser de forma diversa.
+
+(GRIFO MEU). NO CASO VERTENTE, COMO BEM PONTUADO NA SENTENÇA OBJURGADA, O MUNICÍPIO REQUERIDO, GOZANDO DE SUA AUTONOMIA ADMINISTRATIVA, DISPÕE DE LEI MUNICIPAL QUE DETERMINA O PAGAMENTO DO PERCENTUAL DE 50% AOS AGENTES
+‘DT”.
+VÊ-SE QUE O REQUERIDO EDITOU A LEI MUNICIPAL Nº 7.938/2022 EM SEU ART. 1º ESTABELECENDO QUE “
+Fica instituído o benefício auxílio alimentação, concedido aos servidores estatutários e celetistas em atividade na Administração Direta e Indireta do Poder Executivo Municipal
+. (...)
+§ 1º do art. 2º
+“
+O benefício mencionado no “caput” deste artigo será concedido, mensalmente, através de auxílio-alimentação, no valor de R$ 650,00 (seiscentos e cinquenta reais), a partir de 1º de março de 2022 e de R$ 700,00 (setecentos) reais a partir de 1º de setembro de 2022, em caso de frequência integral ao trabalho.
+§ 1º
+Fica estendido a todos os servidores comissionados e contratados temporários da Administração Direta, Autarquias e Fundações a concessão do benefício auxílio-alimentação, instituído por esta lei, na proporção de 50% (cinquenta por cento) do valor estipulado no caput deste artigo
+.”. ASSIM, RESTANDO VEDADA AO JUDICIÁRIO A ATUAÇÃO COMO
+LEGISLADOR POSITIVO
+PARA CONCESSÃO DE BENEFÍCIO A SERVIDORES MUNICIPAIS, NÃO HÁ O QUE SE FALAR EM ATO INDEVIDO PRATICADO PELO ENTE MUNICIPAL. SEM MAIS DELONGAS, ENTENDO QUE NO PRESENTE DEVE SER MANTIDA A SENTENÇA DE IMPROCEDÊNCIA POR SEUS TERMOS.
+(7).
+CONHECIDO O RECURSO INTERPOSTO PELA PARTE AUTORA E IMPROVIDO
+. (8). MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA. (9). CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS BEM COMO HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE 10% (DEZ POR CENTO) SOBRE O VALOR DA CAUSA, NOS TERMOS DO ARTIGO 85, §2° DO CPC.
+SUSPENSÃO DA EXIGIBILIDADE RECURSAL, ANTE A CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA DEFERIDA À PARTE RECORRENTE.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+DOUGLAS DEMONER FIGUEIREDO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
