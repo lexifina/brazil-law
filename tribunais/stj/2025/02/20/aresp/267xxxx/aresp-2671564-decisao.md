@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HELIO BARBOSA DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS que inadmitiu o recurso especial.
+O agravante fundamentou o recurso especial no art. 105, III, a, da CF. Em suas alegações recursais, pleiteou o reconhecimento da violação ao disposto no art. 171 do CP. Defendeu a aplicação do princípio da consunção, argumentando que a falsificação de documento constituiu meio necessário para o crime de estelionato (fls. 418-430).
+O recurso especial foi inadmitido na origem, com fundamento na Súmula 7 do STJ (fls. 439-440).
+Foi interposto o presente agravo em recurso especial, por meio do qual o agravante sustentou não pretender o reexame de provas, mas sim a revaloração jurídica (fls. 449-462).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo (fls. 483-484).
+É o relatório. DECIDO.
+Da minuciosa análise das razões recursais, conclui-se que a parte agravante deixou de apresentar argumentos específicos e detalhados contra a decisão que inadmitiu o recurso especial. Nesse sentido, não observou o teor da Súmula 182 do STJ, cuja aplicação se dá analogicamente ao caso em tela, uma vez que se limitou a repisar o seu inconformismo.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, conforme já assentado jurisprudência desta Corte, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial" (AgRg no AREsp n. 2.547.981/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/2/2025, DJEN de 10/2/2025).
+O princípio da dialeticidade recursal exige, portanto, que haja uma confrontação clara, concreta e ampla de todos os fundamentos da decisão. Nesse sentido, a jurisprudência consolidada deste Tribunal:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ. 1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ. 2. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada. 3. a interposição descabida de sucessivos recursos (AgRg no EARESP NO RCD nos EDcl no AgRg nos EDcl no AgRg no ARESP N. 1.870.554 - SP) configura abuso do direito de recorrer, autorizando a baixa imediata dos autos. Agravo regimental não conhecido com determinação de certificação do trânsito em julgado e imediata baixa dos autos.
+(STJ - AgRg nos EAREsp: 1870554 SP 2021/0105834-9, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 07/03/2023, CE - CORTE ESPECIAL, Data de Publicação: DJe 14/03/2023)
+No que tange ao óbice da Súmula 7 do STJ, o agravante deixou de apontar, especificamente, como seria possível, no caso concreto, à míngua de uma análise fática, alterar as conclusões da Corte de origem para fins de acolhimento dos pedidos contidos no recurso especial.
+Ao não se desincumbir da obrigação de rebater todos os fundamentos da decisão, o agravante incorreu, portanto, em violação à Súmula 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento no art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
