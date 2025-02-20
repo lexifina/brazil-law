@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de AILTON SOUZA DO COUTO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que, na execução penal, foi indeferido o pedido de reconhecimento de crime continuado entre duas infrações de contrabando.
+O impetrante sustenta que deve ser reconhecida a continuidade delitiva entre os crimes objeto das Ações Penais n. 50033128320204047101 e 50065037320194047101 porque cometidas na cidade de Apucarana/PR e praticadas entre os dias 19 e 22/1/20 18.
+Requer a concessão da ordem para que seja redefinida a pena em execução, aplicando-se a causa de aumento no lugar da soma das penas.
+Prestadas informações pelas instâncias ordinárias.
+O Ministério Público Federal apresentou manifestação pelo não conhecimento do habeas corpus ou , caso dele se conheça, pela denegação da ordem.
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+No presente caso, não se evidencia a ocorrência de ilegalidade manifesta, conforme se depreende da fundamentação a ser exposta a seguir.
+A insurgência diz respeito ao afastamento do crime continuado entre duas infrações de contrabando. O Tribunal de origem, ao apreciar o agravo em execução, assim concluiu (fl. 14 - destaquei):
+Com efeito, não há impedimento para que o juízo da execução reconheça a continuidade delitiva, desde que se atendam aos requisitos legais pertinentes. Contudo, a decisão em questão não se presta a correções, pois, ao analisar minuciosamente os autos, constata-se que, embora os delitos pertençam à mesma espécie, não foram perpetrados nas mesmas condições espaciais o que por si só, já afasta o exigido liame objetivo. Tal distinção é claramente delineada pelo respeitável Juízo da Execução, considerando que a primeira carga de cigarros contrabandeados foi apreendida em Chuí/RS, enquanto a segunda carga foi interceptada em Maringá/PR, municípios distantes aproximadamente 1.500 (mil e quinhentos) quilômetros entre si.
+Ademais, como corretamente destacado pela d. Procuradoria, o requerente adotou em cada transgressão um desígnio autônomo. Diante disso, a ausência de unidade de desígnios ou vínculo subjetivo entre os eventos torna-se evidente, ou seja, não se verifica o entrelaçamento entre os fatos, o que resulta na insuficiência do indispensável liame subjetivo.
+Destaca-se, ainda, que, como bem observado pelo Parquet, por meio de diálogos registrados durante a interceptação telefônica, em um período de monitoração de aproximados 14 (quatorze) dias, verificou-se que, em 06 (seis) ocasiões distintas, o Agravante enviara cigarros contrabandeados, abrangendo não apenas o Chuí/RS, como outras localidades.
+Portanto, essas circunstâncias evidenciam não a continuidade delitiva, mas sim a habitualidade criminosa do agravante. Vale ressaltar que a jurisprudência é consistente ao afirmar que não se pode conceder o benefício da continuidade delitiva quando há demonstração de que o réu é um criminoso habitual.
+Portanto, verifica-se que a continuidade delitiva foi afastada tendo em vista que (a) não foi preenchido o requisito espacial, (b) não houve unidade de desígnios e (c) está presente habitualidade criminosa.
+A conclusão das instâncias ordinárias está suficientemente fundamentada no contexto fático presente nos autos, sendo inviável acolher a argumentação defensiva na via estreita do habeas corpus.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
