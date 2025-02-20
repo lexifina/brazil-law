@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se recurso especial interposto por UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 02/09/2024.
+Concluso ao gabinete em: 20/01/2024.
+Ação: de obrigação de fazer c/c danos morais ajuizada por ELIANA CLÁUSIA PERROUD MORATO FERREIRA em face da recorrente, visando a cobertura do medicamento DUPIXENT no tratamento de DREA - doença respiratória exacerbada por aspirina, também conhecida por síndrome de widal (asma, polipose nasossinusal e alergia a aspirina/antiinflamatórios não esteroidais) .
+Sentença: julgou procedente a demanda para condenar a recorrente no custeio do medicamento prescrito e no pagamento de compensação por danos morais no valor de R$ 5.000,00 (cinco mi reais).
+Acórdão: deu parcial provimento ao apelo da recorrente para excluir a condenação em danos morais, nos termos da seguinte ementa:
+CERCEAMENTO DE DEFESA - Inocorrência - Elementos suficientes para o convencimento do juiz - Preliminar rejeitada. AÇÃO DE OBRIGAÇÃO DE FAZER C. C. DANOS MORAIS - Plano de saúde - Procedência do pedido - Inconformismo da ré - Acolhimento parcial - Paciente diagnosticada com "asma eosinofílica e polipose nasossinusal" - Prescrição médica para tratamento com o medicamento "Dupilumabe (Dupixent)"- Medicamento que possui registro válido na ANVISA - Incidência da Lei n. 14.454/2022, da Súmula 102 deste Egrégio Tribunal de Justiça e dos princípios constitucionais do direito à vida e à saúde e da dignidade da pessoa humana - Abusividade da recusa configurada - Liminar deferida para determinar o custeio do tratamento prescrito logo no início da lide, evitando-se, assim, sofrimento desnecessário - Ausência de dano moral - Sentença reformada em parte para afastar a condenação em danos morais - Recurso provido em parte. Preliminar rejeitada e recurso provido em parte.
+Recurso especial: alega violação dos arts. 7º e 369 do CPC, 4º da Lei 9961/2000 e 10 e 12 da Lei 9656/98. Insurge-se contra a negativa de produção de provas com a finalidade de comprovar a obrigatoriedade de cobertura do medicamento para a doença que acomete o paciente. Sustenta a não obrigatoriedade de cobertura de medicamento não incluído da DUT.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 7º e 369 do CPC, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da Súmula 568 do STJ
+A Corte de origem decidiu que ainda que o tratamento prescrito não cumpra as exigências das Diretrizes de Utilização (DUT), a recusa de cobertura seria abusiva "por ferir a própria natureza do contrato, em afronta ao disposto no art. 51, § 1º, inc. II, do Código de Defesa do Consumidor. Cumpre enaltecer, ainda, os princípios constitucionais do direito à vida e à saúde e da dignidade da pessoa humana" (fl. 329, e-STJ).
+Assim, verifica-se que a decisão proferida pelo Tribunal local não destoa da jurisprudência desta Corte no sentido de que "A Diretriz de Utilização (DUT) deve ser entendida apenas como elemento organizador da prestação farmacêutica, de insumos e de procedimentos no âmbito da Saúde Suplementar, não podendo a sua função restritiva inibir técnicas diagnósticas essenciais ou alternativas terapêuticas ao paciente, sobretudo quando já tiverem sido esgotados tratamentos convencionais e existir comprovação da eficácia da terapia à luz da medicina baseada em evidências." (REsp n. 2.038.333/AM, Segunda Seção, DJe de 8/5/2024).
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.DIRETRIZ DE UTILIZAÇÃO (DUT) DA ANS. MERO ELEMENTO ORGANIZADOR DA PRESCRIÇÃO FARMACÊUTICA. NEGATIVA INDEVIDA DE COBERTURA.
+1. Ação de obrigação de fazer c/c danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. "A Diretriz de Utilização (DUT) deve ser entendida apenas como elemento organizador da prestação farmacêutica, de insumos e de procedimentos no âmbito da Saúde Suplementar, não podendo a sua função restritiva inibir técnicas diagnósticas essenciais ou alternativas terapêuticas ao paciente, sobretudo quando já tiverem sido esgotados tratamentos convencionais e existir comprovação da eficácia da terapia à luz da medicina baseada em evidências." (REsp 2.038.333/AM, Segunda Seção, DJe de 8/5/2024).
+4. Recurso especial parcialmente conhecido e desprovido.
