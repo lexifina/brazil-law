@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MARCO AURÉLIO RABOCK, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no julgamento da (fl. 2).
+Consta dos autos que o paciente foi condenado à pena de 4 meses e 2 dias de detenção e 22 dias de prisão simples em regime inicial semiaberto, como incurso no art. 129, § 9º, do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo (fl. 2).
+No presente writ, a defesa sustenta que o regime inicial de cumprimento de pena poderia ser o aberto, mesmo para réu reincidente, quando a pena não supera 4 anos de reclusão, com base nos princípios da proporcionalidade e da individualização da pena (fls. 3-4).
+Afirma que o acórdão recorrido defendeu o regime semiaberto sob o argumento de que o regime inicial aberto é incompatível com a reincidência, segundo o art. 33, § 2º, c, do Código Penal, mas que esse entendimento não deve prevalecer, pois há julgados em sentido diverso (fl. 4).
+Alega que o paciente possui condições pessoais favoráveis, como trabalho com carteira assinada e ausência de novos delitos, o que tornaria incabível sua prisão (fl. 5).
+Requer, assim, em caráter liminar no mérito, a concessão da ordem da ordem para alterar o regime inicial de cumprimento de pena, fixando o regime aberto (fl. 5).
+É o relatório. DECIDO.
+A controvérsia gira em torno de possível ilegalidade na negativa de fixação do regime aberto para início de cumprimento da pena.
+Na hipótese, a impetrante não juntou aos autos o acórdão da apelação, que é o ato coator do presente mandamus. Diante desse contexto, torna-se impossível a exata compreensão da controvérsia sem as peças essenciais ao seu conhecimento.
+De se lembrar que incumbe ao impetrante o dever de demonstrar, de maneira inequívoca, por meio de documentos, a existência do constrangimento ilegal imposto ao paciente, situação que não ocorre na espécie, ensejando o não conhecimento do writ.
+Nesse sentido, confiram-se os precedentes desta Corte:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO QUE INDEFERIU LIMINARMENTE O RECURSO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E LAVAGEM DE CAPITAIS. PRISÃO PREVENTIVA. RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. SENTENÇA PENAL CONDENATÓRIA. AUSÊNCIA. INSTRUÇÃO DEFICIENTE. APRECIAÇÃO DA MOTIVAÇÃO PARA NEGATIVA DE RECORRER EM LIBERDADE. INVIABILIDADE.
+1. "Cabe apenas ao Julgador, verdadeiro destinatário das provas, a verificação de quais documentos entende como imprescindíveis para a análise das controvérsias suscitadas. Sendo, no caso, constatada a ausência de peças necessárias para a verificação do constrangimento alegado, correta a decisão que entendeu pela instrução deficitária do recurso ordinário em habeas corpus" (AgRg no RHC n. 100.336/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 3/9/2019, DJe 16/9/2019).
+2. Agravo regimental desprovido." (AgRg no RHC 132.359/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020)
+"HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. IRREGULARIDADE DA PRISÃO EM FLAGRANTE. WRIT DEFICITARIAMENTE INSTRUÍDO. NÃO CONHECIMENTO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA CUSTÓDIA PELOS MESMOS FUNDAMENTOS. AUSÊNCIA DE PREJUDICIALIDADE. QUANTIDADE DE SUBSTÂNCIA ENTORPECENTE APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1. O habeas corpus encontra-se deficitariamente instruído, não havendo como esclarecer, exatamente, em qual situação se deu a prisão em flagrante do Paciente, o que impede, no caso, a compreensão da controvérsia. Conforme o entendimento já consolidado nesta Corte, o procedimento do habeas corpus não permite a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração. Precedentes.
+(..)
+6. Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem." (HC 479.238/MS, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 15/10/2019, DJe 25/10/2019)
+No mesmo sentido, esta Corte assentou que, "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
