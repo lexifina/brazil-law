@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por IVAIR RODRIGUES DE AGUIAR contra decisão proferida pelo Tribunal de Justiça do Estado de Rondônia, que não admitiu o recurso especial interposto com fulcro no artigo 105, III, "a", da Constituição da República.
+Nas razões recursais, aduz a defesa violação do artigo 59 do Código Penal.
+Alega que deve ser afastada a majorante relativa ao emprego de arma de fogo, argumentando que "não consta nos autos, qualquer arma de fogo apreendida, tampouco, por óbvio, há qualquer laudo atestando que o objeto usado para ameaçar a vítima tratava-se ou não de uma arma com potencial ofensivo" (e-STJ, fl. 927).
+Requer o provimento do recurso para que seja reformado o acórdão recorrido, com a exclusão da referida causa de aumento de pena.
+Contrarrazões às fls. 933-948 (e-STJ).
+O recurso foi inadmitido com base na Súmula 7 do STJ (e-STJ, fls. 949-950). Daí este agravo (e-STJ, fls. 953-956).
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 979-981).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem manteve a majorante do emprego de arma de fogo, nos seguintes termos (e-STJ, fls. 905-906):
+"O apelante pede a exclusão da causa de aumento relativa ao emprego de arma de fogo em razão de não ter sido apreendido nenhum armamento para comprovar sua utilização durante os fatos, razão pela qual entende como incabível o aumento da pena com essas características.
+A vítima, quando ouvida em juízo, narrou que o apelante portava arma de fogo e a apontou para ele, com a nítida intenção de amedrontá-lo para evitar reações ao assalto, conforme se evidencia do depoimento prestado em audiência de instrução e julgamento.
+A causa de aumento prevista no art. 157, §2º, I, do CP (antiga redação) pode ser evidenciada por qualquer meio de prova, em especial pela palavra da vítima - reduzida à impossibilidade de resistência pelo agente - ou pelo depoimento de testemunha presencial.
+ ..
+Registre-se que para o decote de causa de aumento de pena, o artefato precisaria ter sido apreendido para que fosse constatado se tratar de simulacro ou, ainda, que fosse realizada perícia técnica para verificar a ausência de potencial ofensivo, o que não se verificou na hipótese.
+Nessa esteira, ante a harmonia das provas dos autos, resta configurado o crime de roubo tentado praticado com emprego de arma de fogo, de forma a caracterizar a majorante prevista no inc. I, do §2º, do art. 157, do CP, pelo que nego provimento a este pedido."
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º, I, do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como na hipótese, em que há comprovação testemunhal apontando o seu emprego.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. INCIDÊNCIA DA MAJORANTE DO EMPREGO DE ARMA. APREENSÃO E PERÍCIA. PRESCINDIBILIDADE.
+1. Nos termos da jurisprudência das Turmas que compõem a Terceira Seção desta Corte, para a incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, é prescindível a apreensão e perícia da arma de fogo, desde que evidenciada sua utilização por outros meios de prova. (AgRg no AREsp 1839769/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/06/2021, DJe 07/06/2021).
+2. Agravo regimental improvido."(AgRg no AREsp 1966395/TO, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 22/02/2022, DJe 02/03/2022).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. ROUBO MAJORADO. ART. 157, § 2º, INCISO II, C/C § 2º-A, INCISO I, DO CÓDIGO PENAL. CORRUPÇÃO DE MENORES. PLEITOS DE RECONHECIMENTO DE NULIDADE DO PROCEDIMENTO DE RECONHECIMENTO DE PESSOAS E DE ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO DA PENA. MATÉRIAS ANTERIORMENTE APRECIADAS PELA CORTE SUPERIOR EM HABEAS CORPUS CONEXO. REITERAÇÃO COM IDÊNTICOS FUNDAMENTOS E PEDIDO NO RECURSO ESPECIAL. PREJUDICIALIDADE. CAUSA DE AUMENTO DE PENA. EMPREGO DE ARMA DE FOGO. AUSÊNCIA DE APREENSÃO E PERÍCIA. PRESCINDIBILIDADE. RECONHECIMENTO COM BASE NO DEPOIMENTO DA VÍTIMA. POSSIBILIDADE. SÚMULA N. 83/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Por derradeiro, no tocante ao afastamento da majorante do emprego de arma de fogo, mesmo que ultrapassado o entrave da Súmula n. 182/STJ, a pretensão esbarraria, ainda, na Súmula n. 83/STJ.
+6. A Terceira Seção deste Tribunal Superior decidiu ser desnecessária a apreensão da arma utilizada no crime e a realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva (EREsp n. 961.863/RS, Rel. Ministro CELSO LIMONGI, Desembargador Convocado do TJ/SP), Rel. p/ acórdão Ministro GILSON DIPP, Terceira Seção, julgado em 13/12/2010, DJe 6/4/2011).
+7. In casu, conforme destacado no acórdão recorrido, "o ofendido relatou, em ambas as fases da persecução penal, ter sido abordado com um revólver e que o artefato bélico foi ostensivamente utilizado para impingir temor à vítima  .. ", não tendo a defesa se desincumbido do ônus de demonstrar, no curso processual, que a arma era desprovida de potencial lesivo (e-STJ fl. 454). Desse modo, ao concluir que o efetivo emprego de arma de fogo foi evidenciado por outros elementos de prova, notadamente a palavra da vítima, afigurando-se legal a incidência da respectiva causa de aumento de pena, o Tribunal de origem decidiu em harmonia com a jurisprudência desta Corte Superior.
+8. Agravo regimental não provido."(AgRg no AREsp 1962339/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/10/2021, DJe 03/11/2021, com destaques).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
