@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por PAV-TUBO INDÚSTRIA E COMÉRCIO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL cuja ementa guarda os seguintes termos (fl. 98):
+EMENTA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO DOS CÁLCULOS E DO VALOR DEPOSITADO PELO DEVEDOR APÓS EXPRESSA CONCORDÂNCIA. PRECLUSÃO LÓGICA. PROIBIÇÃO DO VENIRE CONTRA FACTUM PRÓPRIO. OBRIGAÇÃO SATISFEITA. EXTINÇÃO DO CUMPRIMENTO DE SENTENÇA COM FUNDAMENTO NO ARTIGO 526, §3.º, DO CÓDIGO DE PROCESSO CIVIL. DECISÃO REFORMADA. RECURSO PROVIDO. 1. A preclusão lógica se configura como a perda da faculdade ou de um direito processual decorrente da incompatibilidade existente entre aquilo que agora a parte pretende e sua própria conduta processual anterior. 2. Contraditória a conduta da parte que, em segunda manifestação, pugna pelo prosseguimento do cumprimento de sentença quando, em petição anterior, concordou com a integralidade dos cálculos apresentados e requereu a extinção da execução e expedição de alvará para levantamento de valores. 3. Cumprida a obrigação, de rigor a extinção do cumprimento de sentença. 4. Recurso provido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 507 e 1.000 do CPC, afirmando que (fl. 128):
+Nos autos, sequer houve decisão acerca do encerramento do cumprimento de sentença, bem como acerca da manifestação apresentada pela recorrente sobre a concordância desta em relação ao pagamento realizado pelo recorrido. A recorrente, antes de qualquer manifestação judicial - leia-se, questão que foi decidida pelo Juízo -, revogou a concordância com o pagamento apresentado petição discordando do depósito realizado, antes mesmo do processo ir concluso.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 157/168).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 178/187), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 202/213).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 507 e 1.000 e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar, porquanto encontra óbice nas Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. Alterar o decidido no acórdão impugnado, no que se refere à ocorrência de preclusão lógica, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. REAJUSTE DE 28,86%. PRECATÓRIO. COMPLEMENTAÇÃO. JUROS MORATÓRIOS. PEDIDO INDEFERIDO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7/STJ. PRECLUSÃO. OCORRÊNCIA.
+ ..
+VIII - A pretensão recursal de rever o posicionamento adotado no acórdão recorrido quanto à inexistência de erro material nos cálculos apresentados teria necessariamente que passar pela revisão de todo o conjunto fático-probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+IX - O recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em recurso especial ante o óbice da Súmula n. 7/STJ.
+X - Ainda que fosse possível a superação do referido óbice, melhor sorte não acode os recorrentes.
+XI - O acórdão recorrido afastou a existência de erro material nos cálculos e ressaltou que não houve a devida impugnação no momento oportuno, além de que os recorrentes ainda anuíram com os cálculos apresentados.
+XII - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a concordância da parte com os cálculos apurados sem a devida impugnação no momento processual oportuno induz à ocorrência da preclusão. No mesmo sentido: (AgInt no AREsp n. 2.072.712/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/9/2022, DJe de 29/9/2022, AgInt no REsp n. 1.908.074/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022 e AgInt no REsp n. 1.961.977/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/8/2022, DJe de 30/8/2022.)
+XIII - Agravo interno improvido.
+(AgInt no REsp n. 2.080.760/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DA OBRIGAÇÃO. DEPÓSITO JUDICIAL. AUSÊNCIA DE IMPUGNAÇÃO PELO CREDOR. REDISCUSSÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. ENTENDIMENTO DOMINANTE NESTA CORTE. SÚMULA 83/STJ. ERRO MATERIAL. INEXISTÊNCIA. REEXAME FÁTICO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. EXECUÇÃO DE SENTENÇA. EXPEDIÇÃO DE PRECATÓRIO. PAGAMENTO DO QUANTUM DEBEATUR. APRESENTAÇÃO DE NOVOS CÁLCULOS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. ACÓRDÃO ALINHADO AO ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 568/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem foi peremptório ao afirmar que houve preclusão lógica, uma vez que a parte somente veio postular supostas parcelas inadimplidas 11 anos após a expedição do precatório, ocasião em que houve expressa concordância com os valores apurados, não o fazendo em momento oportuno.
+2. Tal orientação se encontra em conformidade com a jurisprudência desta Corte Superior, segundo a qual a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão, sob pena de eternização das demandas judiciais, colocando-se em risco a segurança das relações jurídicas.
+Ademais, importante lembrar que o instituto da preclusão tem por fundamento a ideia de que o direito não pode beneficiar a omissão da parte, dando-se, por isso, segurança às decisões e sedimentando as fases processuais findas. Precedentes: AgRg no AREsp. 44.230/AM, Rel. Min. HUMBERTO MARTINS, DJe 25.10.2012; AgRg no Ag 1.041.629/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 29.11.2010.
+3. De todo modo, a alteração das conclusões adotadas pela Corte de origem a respeito da preclusão temporal para se pleitear a inclusão de valores após a expedição e pagamento do precatório, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de Recurso Especial, conforme o óbice previsto na Súmula 7/STJ. Precedentes: REsp. 1.654.975/RS, Rel. Min. HERMAN BENJAMIN, DJe 25.4.2017; AgInt no AREsp.
+963.685/RS, Rel. Min. FRANCISCO FALCÃO, DJe 11.4.2017.
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 713.282/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/12/2019, DJe de 19/12/2019.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO AOS CÁLCULOS. PRECLUSÃO. INCIDÊNCIA DAS SÚMULAS N. 7 E 83 DO STJ. DECISÃO DE INADMISSIBILIDADE MANTIDA. AGRAVO IMPROVIDO.
