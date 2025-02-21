@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 460/465) interposto contra decisão da Presidência desta Corte Superior que não conheceu do agravo nos próprios autos, por considerá-lo extemporâneo (e-STJ fls. 455/456).
+Em suas razões, a agravante alega a existência de causas suspensivas na contagem do prazo recursal, o que tornaria o agravo nos próprios autos tempestivo.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+É o relatório.
+Decido.
+A Lei n. 14.939/2004 trouxe nova redação ao art. 1.003, § 6º, do CPC/2015, dispondo que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+A Corte Especial do STJ, no julgamento da Questão de Ordem no Agravo em Recurso Especial n. 2.638.376/MG, decidiu, por maioria, que "os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense".
+Na petição de agravo interno, a parte agravante comprovou a suspensão do expediente forense nos dias 12/2/2024, 13/2/2024 e 14/2/2024 (Feriados locais da Segunda-Feira de Carnaval, Terça-Feira de Carnaval e Quarta-Feira de Cinzas), sendo as referidas datas publicadas na Portaria Conjunta n. 66, de 22 de dezembro de 2023, motivo pelo qual é forçoso reconhecer a tempestividade do agravo nos próprios autos, interposto em 4/3/2024 contra a decisão de admissibilidade de fls. 423/426 (e-STJ), da qual a contraparte fora intimada em 7/2/2024 (e-STJ fl. 451).
+Desse modo, reconsidero a decisão agravada (inclusive quanto ao arbitramento de honorários recursais) e passo ao exame do especial.
+O acórdão recorrido traz a seguinte ementa (e-STJ fl. 398):
+EMENTA: DIREITO PROCESSUAL CIVIL. DECISÃO QUE DETERMINOU A PENHORA EM DINHEIRO DE VALORES PARA A REALIZAÇÃO DO PROCEDIMENTO CIRÚRGICO DA PARTE AGRAVADA E PARA O PAGAMENTO DE MULTA COMINATÓRIA POR DESCUMPRIMENTO DE ORDEM JUDICIAL. AGRAVO DE INSTRUMENTO. PENHORA DE VALORES. POSSIBILIDADE. PARTE AGRAVANTE INTIMADA PARA CUMPRIR COM O COMANDO JUDICIAL. RECALCITRÂNCIA. NECESSIDADE DE UTILIZAÇÃO DE MEIOS PARA A GARANTIA DO DIREITO DA PARTE AGRAVADA. INCIDÊNCIA DO ARTIGO 835, INCISO I, DO CPC. MULTA COMINATÓRIA. POSSIBILIDADE. AGRAVANTE QUE DESCUMPRIU ORDEM JUDICIAL. ALEGAÇÃO DE EXCESSO NO VALOR PENHORADO. NÃO VERIFICAÇÃO. AGRAVANTE QUE BUSCA A PRESTAÇÃO DE CAUÇÃO PARA O LEVANTAMENTO DO VALOR
+PENHORADO. DESNECESSIDADE. TÍTULO JUDICIAL TRANSITADO EM JULGADO. PRECEDENTE DO STJ. MANUTENÇÃO DA DECISÃO. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+No recurso especial (e-STJ fls. 408/418), fundamentado no art. 105, III, "a", da CF, a recorrente indicou desrespeito ao art. 300, § 3º, do CPC/2015, argumentando que, "diverso do que consta da decisão, ora recorrida, deveria a parte recorrida, para a entrega da medida liminar, ser obrigada a prestar uma caução em valor suficiente a assegurar a reversibilidade da medida determinada inaudita altera parte, ou que, pelo menos, diminua os danos causados pela certa irreversibilidade de tal decisão" (e-STJ fl. 413).
+O Tribunal de origem, com base nos fatos e nas provas dos autos, entendeu pela razoabilidade da penhora on line - para efetivar a medida liminar que determinou o custeio do tratamento de saúde da parte agravada -, sem a necessidade de caução, assentando que (e-STJ fls. 400/402):
+Instado a cumprir voluntariamente com o comando da decisão judicial que garantiu o procedimento cirúrgico ao agravado, o agravante manteve-se recalcitrante, levando o juízo de primeiro grau, portanto, a determinar a penhora do valor necessário ao cumprimento da decisão.
+No que toca à multa, sabe-se que ante o grau de litigiosidade e de inconformismo das partes com as decisões proferidas pelos órgãos jurisdicionais, é necessária a previsão de mecanismos processuais que potencializem os comandos judiciais, apresentando-se assim a multa como um desses meios necessários ao fortalecimento e credibilidade das decisões judiciais.
+Concretamente, ainda que ciente da possibilidade de fixação de multa para a hipótese de descumprimento da decisão, o agravante manteve-se inerte quando instado a cumprir a determinação judicial, o que torna legítima a multa pelo descumprimento de ordem judicial.
+ ..
+No que diz respeito à caução, considerando que o valor penhorado apresenta-se como incontroverso, seja porque o procedimento já foi garantido em sede recursal com trânsito em julgado, seja porque não há nos autos qualquer elemento que afaste o orçamento colacionado nos autos originários, torna-se desnecessária a prestação de caução para levantamento dos valores depositados, senão vejamos:
+ ..
+Portanto, não há que se falar em reforma da decisão.
+Com o julgamento deste recurso, resta prejudicado o agravo interno interposto pela parte ora agravante.
+Ante o exposto, conheço e nego provimento ao agravo de instrumento.
+E como voto.
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta instância, a teor da Súmula n. 7/STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, RECONSIDERO a decisão agravada, para, afastando a intempestividade do agravo nos próprios autos, NEGAR PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
+EMENTA
