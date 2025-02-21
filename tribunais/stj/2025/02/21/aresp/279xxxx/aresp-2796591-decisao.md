@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por SCOSLEY SANTOS DA SILVA, em adversidade à decisão que inadmitiu recurso especial manejado com fundamento nas alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ fls. 373):
+PENAL E PROCESSO PENAL. ATO OBSCENO. PEDIDO DE INCIDENTE DE INSANIDADE MENTAL. PRELIMINAR REJEITADA. MATERIALIDADE E AUTORIA COMPROVADAS. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. LUGAR PÚBLICO. INERENTE AO TIPO PENAL. MULTIRREINCIDÊNCIA. AGRAVANTE COM FRAÇAO SUPERIOR. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. IMPOSSIBILIDADE. SENTENÇA PARCIALMENTE REFORMADA.
+1. O incidente de insanidade mental somente será instaurado de ofício pelo magistrado ou a requerimento do interessado quando houver dúvida razoável sobre a integridade mental do acusado, o que não ocorre na hipótese. Preliminar rejeitada.
+2. Comprovadas autoria e materialidade delitivas, notadamente pelo depoimento inquisitivo da testemunha presencial, confirmado pelo testemunho policial em juízo, a manutenção da condenação pela prática do crime de ato obsceno é medida que se impõe.
+3. O lugar público ou aberto ou exposto ao público é inerente ao tipo penal do delito de ato obsceno, pelo que não se presta para valorar negativamente as circunstâncias do crime.
+4. Sendo o réu multirreincidente, observando-se os princípios da individualização da pena, da proporcionalidade e da razoabilidade, correta a aplicação da fração de 1/5 (um quinto) da pena-base.
+5. Embora a reincidência não seja específica, o réu possui diversas condenações anteriores e estava em cumprimento de pena por crime anterior, o que indica que a substituição da pena privativa de liberdade por restritiva de direitos não é socialmente recomendável.
+6. Recurso conhecido e parcialmente provido.
+Conforme bem relatado pela Corte de origem, nas razões do recurso especial a defesa aponta violação aos seguintes dispositivos legais (e-STJ fl. 442):
+a) artigos 149 e 386, inciso VI, parágrafo único, inciso III, ambos do Código de Processo Penal, e 26 do Código Penal, defendendo a possibilidade da instauração do incidente de insanidade mental, com o propósito de requerer a produção do laudo pericial acerca da imputabilidade. Indica a sua condição de dependência por álcool e drogas no momento dos fatos. Pede a absolvição imprópria;
+b) artigos 233 do Código Penal e 386, incisos V e VII, do CPP, requerendo a absolvição por insuficiência das provas da materialidade do crime de ato obsceno;
+c) artigos 59 e 68, ambos do Código Penal, aduzindo que o fato de o insurgente estar cumprindo pena não é justificativa para agravar a análise da conduta social. Afirma que utilizar essa circunstância para valorar negativamente a conduta social configura bis in idem, violando o princípio da individualização da pena. Requer a fixação da pena-base no mínimo legal;
+d) artigo 59 do Código Penal, asseverando que a pena-base deve ser fixada com base em elementos concretos e definitivos, sendo vedada a consideração de meras suspeitas ou investigações como fator de agravamento. Pede a revisão da dosimetria da pena, afastando-se a valoração negativa dos antecedentes, a fim de redimensionar a pena-base fixada;
+e) artigo 26, parágrafo único, do CP, pugnando pela redução de dois terços da pena para o acusado considerado semi-imputável;
+f) artigo 44, § 3º, do CP, argumentando que faz jus à substituição da pena privativa de liberdade por pena restritiva de direitos, ao argumento de que preenche os requisitos, pois, embora tenha antecedentes, não é reincidente específico.
+Contrarrazões apresentadas. O recurso especial não foi admitido pelo Tribunal a quo, dando ensejo ao presente agravo.
+O Ministério Público Federal se manifestou, às e-STJ fls. 499/500, pelo conhecimento do agravo para não se conhecer do recurso especial .
+É o relatório. Decido.
+Da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial interposto pelo recorrente, considerando a incidência dos óbices das Súmulas 7/STJ (alegada ofensa aos aos artigos 26, parágrafo único, 44, § 3º, 59, 233, todos do CP e 386, incisos V e VII, do CPP) e 83/STJ (instauração de incidente de sanidade mental valoração negativa da culpabilidade).
+No entanto, a parte agravante deixou de apresentar impugnação específica em relação aos óbices apontados pelo Tribunal de origem na decisão de inadmissibilidade do recurso especial, limitando-se reiterar as razões de mérito do recurso especial e afirmar de modo geral que as vedações indicadas não incidem no caso.
+Assim sendo, cumpre lembrar que, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos e não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, é inafastável a incidência do verbete sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, destaco:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO OCEANO BRANCO. TRÁFICO INTERNACIONAL DE DROGAS. VIOLAÇÃO AOS ARTS. 2º e 5º, AMBOS DA LEI N. 9.296/96. NULIDADE DA DECISÃO QUE DECRETOU A INTERCEPTAÇÃO TELEFÔNICA, BEM COMO DAQUELAS QUE A PRORROGARAM. INOCORRÊNCIA. ART. 155 DO CPP. CONDENAÇÃO BASEADA APENAS EM PROVAS PRODUZIDAS NA FASE INQUISITORIAL. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+I - Em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento aos interesses do ora agravante.
+II - A ausência de impugnação aos fundamentos da decisão agravada atrai a incidência do óbice da Súmula 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.652.869/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/6/2023, DJe de 4/7/2023).
+Por oportuno, vale destacar que, nos casos em que o recurso especial não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida (AgRg nos Edcl no Aresp n. 1.096.124/SP) demonstrando-se que outro é o entendimento jurisprudencial desta Corte (ut, AgInt no AREsp n. 1.566.560/RJ, Relator Ministro MA RCO AURÉLIO BELLIZZE, DJe 19/2/2020).
+Ante o exposto, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
