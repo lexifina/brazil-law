@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, conflito de competência suscitado pelo MM. Juiz de Direito da 4ª Vara Cível de Cascavel-PR, nos autos da execução fiscal ajuizada pela Fazenda Nacional em face de ANDIJU ALIMENTOS Ltda.
+Os autos foram inicialmente distribuídos à Vara Cível de Laranjeiras do Sul-PR, tendo a MM. Juíza, investida da jurisdição federal, declinado da competência ao fundamento de que "a Resolução nº 426-OE, de 07 de março de 2024, criou Varas Empresariais Regionais para processar e julgar as ações relacionadas ao Direito Empresarial, às recuperações empresariais e falências e as decorrentes da Lei de Arbitragem e alterou a Resolução nº 93, de 12 de agosto de 2013, que estabelece a nomenclatura e competência das varas judiciais no Estado do Paraná".
+O juízo suscitante, por sua vez, fundamentou "que a execução fiscal não se submete à suspensão do art. 6º da Lei nº 11.101/2005, reforçando a incompetência do juízo para processar e julgar o feito" (fls. 5) e que a falência da executada não atrai a competência para julgamento de todas as ações e execuções envolvendo a empresa falida, conforme a Resolução n. 426, de 7 de março de 2024.
+É, no essencial, o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade, conheço do conflito de competência, nos termos do art. 105, I, "d", da Constituição Federal.
+Verifico a possibilidade de julgar o conflito de competência em epígrafe, de plano e monocraticamente, com fulcro no art. 955, parágrafo único, II, do Código de Processo Civil, e no art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, considerando que o Relator pode "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Com efeito, a jurisprudência deste Superior Tribunal de Justiça se firmou no sentido de que a decretação da falência não atrai o processamento das execuções fiscais ajuizadas contra o devedor, ficando sob o crivo do juízo universal apenas eventual imposição de atos constritivos oriundos do procedimento executivo.
+Nessa direção:
+AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. EMPRESA EM RECUPERAÇÃO JUDICIAL. COMPETÊNCIA INTERNA. SEGUNDA SEÇÃO. ATO DE CONSTRIÇÃO EFETIVADO. PARCELAMENTO DO DÉBITO TRIBUTÁRIO.
+1. Segundo o decidido pela Corte Especial, no julgamento de Questão de Ordem no CC 136.167-SP, compete à Segunda Seção processar e julgar conflito de competência entre o juízo da recuperação judicial e o da execução fiscal, seja pelo critério da especialidade, seja pela necessidade de evitar julgamentos díspares e a consequente insegurança jurídica.
+2. O prosseguimento da execução fiscal, ou de execução trabalhista que na qual a União Federal tenha créditos, e eventuais embargos, na forma do art. 6º, § 7º, da Lei 11.101/2005, deverá se dar perante o juízo federal ou do trabalho competente, ao qual caberão todos os atos processuais, inclusive a ordem de citação e penhora, exceto a apreensão e alienação de bens. A superveniência da Lei 13.043/2014 não alterou esse entendimento.
+3. Agravo interno a que se nega provimento.
+(AgInt no CC 156.841/MT, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, DJe 19.11.2018)
+Isso posto, com fulcro no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o MM. Juiz da Vara Cível de Laranjeiras do Sul-PR.
+Nos termos do art. 64, §4º, do Código de Processo Civil, as decisões proferidas pelo Juízo incompetente devem ser preservadas até que outra seja proferida, se for o caso, pelo juízo competente.
+EMENTA
