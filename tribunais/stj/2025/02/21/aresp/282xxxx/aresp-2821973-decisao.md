@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Agravo apresentado por AGROSETA SA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS EXECUTIVOS. PRESCRIÇÃO. COMPENSAÇÃO. INOCORRÊNCIA. A COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS SUBMETE-SE AO PRAZO QUINQUENAL DO ART. 25, II, DA LEI N. 8.906/94. HIPÓTESE DOS AUTOS QUE OS HONORÁRIOS DA PROCURADORA EXEQUENTE, DESDE O INÍCIO DO PATROCÍNIO DA AÇÃO EM BENEFÍCIO DE SEU CLIENTE, FORAM INCLUÍDOS NOS CÁLCULOS DA DÍVIDA, COBRADA DESDE 2004. JÁ DURANTE A TRAMITAÇÃO DAQUELA AÇÃO, A PROCURADORA DESMEMBROU SEUS HONORÁRIOS E PROPÔS A PRESENTE AÇÃO AUTÔNOMA. NÃO OCORRÊNCIA DE PRESCRIÇÃO. QUANTO À COMPENSAÇÃO, AINDA QUE RECONHECIDA ENTRE O CRÉDITO DA ORA EXECUTADA E O CREDOR PRIMITIVO, ANTIGO MANDATÁRIO DA EXEQUENTE, NÃO OBRIGA A PROCURADORA, CREDORA AUTÔNOMA E INDEPENDENTE DE SEUS HONORÁRIOS ADVOCATÍCIOS, PRINCIPALMENTE SE, EM FACE DELA, A EXECUTADA NÃO POSSUI CRÉDITO ALGUM. MANUTENÇÃO DA DECISÃO QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 368 e 369 do CC, no que concerne à ilegalidade da decisão recorrida que permitiu a exclusão de compensação já reconhecida entre as dívidas cobradas nos autos do processo n. 5000607- 28.2021.8.21.0099) e do processo 5000001-93.2004.8.21.0099, trazendo a seguinte argumentação:
+No caso dos autos, é incontroverso o reconhecimento de que houve compensação integral entre as dívidas cobradas nos autos do processo n. 099/1.04.000688-3 (atualmente tramitando sob o n. 5000607- 28.2021.8.21.0099) e do processo n. 099/1.05.0000788-1 (atualmente tramitando sob o n. 5000001-93.2004.8.21.0099).
+ ..
+Entretanto, uma vez reconhecida a ocorrência da compensação, como assentado na decisão recorrida, não pode ocorrer sua posterior "desconstituição", seja porque a compensação gera a extinção da obrigação ou porque ela ocorre de forma imediata e automática, servindo a decisão judicial apenas e tão somente para declará-la, tendo efeitos ex tunc.
+ ..
+Portanto, uma vez reconhecida a ocorrência de compensação, a recorrida está sim obrigada, por força dos arts. 368 e 369 do Código Civil, a manter o seu crédito junto ao de seu ex-cliente.
+É que esse seu "crédito" já não mais existe, porque, como bem posto pela decisão recorrida, houve a compensação, cujos efeitos vão retroagir.
+ ..
+Vejam, Eminentes Ministros, que, sendo a compensação uma forma de extinção da obrigação pelo pagamento, se houvesse o pagamento mediante o desembolso das quantias, a obrigação estaria extinta e não seria possível "desobrigar" a recorrida de manter o seu crédito no valor da dívida.
+Em outras palavras, a decisão do E. TJRS, ao voltar atrás na compensação já operada, é o mesmo que, na situação acima narrada, fazer com que as partes devolvam o dinheiro pago.
+E isso não pode ser admitido, Excelências, na medida em que contraria o próprio espírito e a essência do instituto da compensação.
+Ao assim proceder, o E. TJRS negou vigência ao art. 368 e ao art. 369, ambos do Código Civil, por permitir a alteração de uma compensação já operada, reconhecida por decisão judicial e com efeitos ex tunc, como é da essência do instituto (fls. 161/175).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Quanto à compensação defendida, melhor sorte não socorre a agravante.
+A compensação dos créditos de Jair Vidaletti e Agroseta S.A., foi efetivamente determinada pelo magistrado  ..  na apreciação das execuções n. 5000001- 93.2004.8.21.0099 e 5000607-28.2021.8.21.0099.
+ ..
+Ocorre que, não mais patrocinando a causa em nome de Jair Vidaletti, e credora autônoma de seus honorários, conforme dispõe o art. 23 da Lei n. 8.906/94, a procuradora exequente não é obrigada a fazer incluir seus honorários junto à compensação de crédito de terceiro, na medida em que seu direito é independente e, em face dele, a Agroseta não possui crédito similar que lhe possa servir de abatimento.
+Correta a decisão, ainda que por outros fundamentos, que determinou a impossibilidade de compensação da dívida (fls. 115/116 , grifo meu).
+A questão foi sedimentada em análise dos embargos de declaração:
+Sobre a apontada contradição acerca da possibilidade de compensação dos valores na execução, o colegiado foi claro ao observar que os honorários da procuradora já eram alvo de cobrança em conjunto ao débito principal, buscado na ação n. 099/1.04.0000688-3, de modo a afastar a prescrição do direito de cobrança:
+ ..
+No processo principal, a compensação foi possibilitada com os créditos de Jair Vidaletti, que não era apenas credor, mas devedor da empresa Agroseta S.A. Não sendo Rita Perondi devedora da ora embargante, mas credora, não há que se falar em compensação, mormente porque entendeu melhor buscar seus honorários em execução autônoma (fls. 149/150, grifo meu).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de19.12.2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp 1.157.074/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 5.8.2020; AgInt no REsp 1.389.204/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 3.8.2020; AgInt no REsp 1.842.047/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 26.6.2020; e AgRg nos EAREsp 447.251/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 20.5.2016.
+Ademais, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
