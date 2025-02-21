@@ -1,0 +1,17 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Vitor Oliveira Lemos contra o acórdão proferido pela Primeira Câmara Criminal do Tribunal de Justiça da Bahia - que nos autos do HC n. 8028909-61.2024.8.05.0000 denegou a ordem, por considerar que não há constrangimento ilegal capaz de justificar o relaxamento e/ou a revogação da prisão preventiva imposta ao recorrente -, encontra-se prejudicado.
+Busca o recorrente, em síntese, o relaxamento da sua prisão preventiva, ao argumento de excesso de prazo, pois ele se encontra preso desde o dia 12/4/2023, aguardando a conclusão da instrução processual.
+Requer, ainda, a revogação da prisão preventiva, ou, subsidiariamente, a substituição por medidas cautelares, uma vez que não se fazem mais presentes os requisitos para a segregação cautelar.
+Ocorre que, após consulta junto à página eletrônica do Tribunal de origem, em 7/11/2024, nos autos da Ação Penal n. 8000496-12.2023.8.05.0020 - Vara Criminal de Barra do Choça, foi proferida sentença condenatória contra o recorrente, aplicando-lhe a pena de 9 anos e 6 meses de reclusão, além do pagamento de 1.200 dias-multa, a ser cumprida em regime inicialmente fechado, pela prática dos crimes de tráfico de drogas e associação para o tráfico, o que torna prejudicada a pretensão deduzida no writ.
+Ademais, como se vê na sentença, entendeu-se necessária a manutenção da custódia do recorrente, pois, além de ainda estarem presentes as causas que a determinaram, agora tal medida é reforçada com o juízo de certeza decorrente da sentença condenatória - de forma que a custódia cautelar não mais se ancora em meros indícios de autoria -, que ainda não foi submetido ao crivo do Tribunal de origem.
+Ora, a superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar (AgRg no HC n. 461.932/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/08/2019).
+No mesmo sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS JULGADO PREJUDICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUPERVENIENTE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PRECEDENTES.
+1. Sobrevindo decisão condenatória, o pedido em que se busca a revogação da prisão preventiva anteriormente decretada ou a substituição por outras medidas cautelares está prejudicado, pois, consoante iterativa jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória recorrível constitui novo título a justificar a custódia cautelar, devendo os seus fundamentos ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, vedada a supressão de instância.
+2. Agravo regimental improvido.
+(AgRg no RHC n. 158.359/SP, de minha relatoria, Sexta Turma, DJe de 25/4/2022 - grifo nosso).
+Assim, diante da perda do objeto, a teor do disposto no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDOS DE RELAXAMENTO E DE REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PRECEDENTES.
+Recurso em habeas corpus prejudicado.
