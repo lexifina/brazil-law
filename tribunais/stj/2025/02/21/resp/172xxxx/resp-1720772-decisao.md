@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, recurso especial interposto por CENTERCLIN CLÍNICA MÉDICA DE ITAPERUNA LTDA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, publicado na vigência do CPC/1973 e que se encontra assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ. BASE DE CÁLCULO. LEI 9.249/95. SERVIÇOS HOSPITALARES. REQUISITOS EXIGIDOS PELA LEGISLAÇÃO. COMPROVAÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA.
+I - Nos termos da legislação de regência, o direito de recolher o IRPJ sob a alíquota de 8% é assegurado aos prestadores de serviços hospitalares.
+II - A Primeira Seção do Colendo STJ firmou orientação no sentido de que por entidade hospitalar deve-se entender o complexo de atividades exercidas pela pessoa jurídica que proporcione internamento do paciente para tratamento de saúde, com a oferta de todos os processos exigidos para prestação de tais serviços ou do especializado.
+III - Apelação da impetrante improvida. Ressalvadas as vias ordinárias. Recurso fazendário e remessa necessária providos.
+Opostos embargos de declaração, em 2º Grau, foram eles rejeitados.
+No recurso especial, a impetrante apontou violação aos arts. 15, § 1º, III, a, e 20 da Lei 9.249/1995, bem como divergência jurisprudencial, pugnando pelo provimento do recurso, a fim de que seja reformado o acórdão recorrido, de modo a ser declarada a suspensão da exigibilidade do crédito tributário referente ao IRPJ com base de cálculo presumida superior a 8% (oito por cento), tendo em vista seu alegado enquadramento como prestadora de serviços hospitalares, autorizando-se, ainda, a compensação tributária .
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+O recurso especial não deve ser conhecido.
+Com efeito, com relação à alegada violação e interpretação divergente dos arts. 15, § 1º, III, a, e 20 da Lei 9.249/1995, nota-se que os referidos dispositivos de lei federal, por disciplinarem simplesmente a matéria de fundo relacionada ao tratamento tributário do s serviços hospitalares, não contêm comando normativo capaz de infirmar as conclusões do acórdão recorrido, no sentido de que não restou comprovado de plano o suposto direito líquido e certo para fins de cabimento do mandado de segurança, sendo necessária dilação probatória, a qual é vedada na via processual eleita. Nesse contexto, em que a impetrante deixou de indicar, nas razões do recurso especial, violação ou interpretação divergente de dispositivos de lei federal que tratem dos fundamentos de ordem processual em que restou assentado o acórdão recorrido, aplica-se ao caso, por analogia, o óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ITR. MANDADO DE SEGURANÇA. IMPROPRIEDADE DA VIA ELEITA, EM RAZÃO DA NECESSIDADE DE DILAÇÃO PROBATÓRIA. FUNDAMENTO DA CORTE DE ORIGEM INATACADO, NAS RAZÕES DO RECURSO ESPECIAL. RAZÕES DO RECURSO DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 09/05/2017, que julgou recurso interposto contra decisão que inadmitira Recurso Especial, publicada na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança, pleiteando a concessão da ordem, para se determine, à autoridade coatora, que se abstenha da prática de cobrança do ITR, em razão da incerteza quanto ao verdadeiro devedor do referido imposto.
+III. O Tribunal de origem negou provimento ao recurso da parte ora agravante, mantendo a sentença, ao fundamento de que inviável o manejo do Mandado de Segurança, em razão da necessidade de dilação probatória, no caso.
+IV. O fundamento adotado pela Corte de origem para negar provimento à Apelação, interposta pela parte ora agravante, não foi objeto de ataque, no Recurso Especial, cujas razões estão dissociadas do fundamento do acórdão recorrido, devendo incidir, nesse ponto, os óbices das Súmulas 283 e 284/STF.
+V. O acórdão recorrido, ao dirimir a controvérsia, não expendeu qualquer juízo de valor sobre os arts. 29, 30, 130 e 131 do Código Tributário Nacional, invocados como violados, na petição do Recurso Especial. De fato, por simples cotejo das razões recursais e dos fundamentos do acórdão, percebe-se que a tese recursal, vinculada aos citados dispositivos, tidos como violados, não fora apreciada, no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. Assim, é o caso de incidência do óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+VI. Agravo interno improvido.
+(AgInt no AREsp n. 1.053.492/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 5/10/2017, DJe de 13/10/2017, grifo nosso).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
