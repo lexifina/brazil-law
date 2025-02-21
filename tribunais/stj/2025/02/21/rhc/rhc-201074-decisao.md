@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por NATALLY MACHADO DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL proferido no HC n. 1409542-13.2024.8.12.0000.
+Consta nos autos que a recorrente foi presa preventiva no dia 25/05/2024s, pela suposta prática dos crimes previstos nos arts. 121, § 2º, incisos II, III e IV e 211, ambos do Código Penal.
+Nesta insurgência, alega a Defesa que não se encontram presentes os requisitos autorizadores da prisão preventiva.
+Aduz que a recorrente possui condições pessoais favoráveis.
+Defende a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com ou sem a aplicação de medidas cautelares diversas.
+Informações 160-161 e 162-174.
+O Ministério Público Federal manifestou-se às fls. 176-183, opinando pelo não provimento do recurso.
+É o relatório.
+DECIDO.
+No caso, a Corte de origem manteve a prisão provisória da ora recorrente nos seguintes termos (fls. 95-100; grifamos):
+Primeiramente, convém salientar que o caso admite a prisão de caráter processual, porquanto o crime imputado à paciente possui pena máxima que excede 4 (quatro) anos de reclusão, restando preenchida a condição prevista no artigo 313, inciso I, do Código de Processo Penal.
+Isso posto, verifica-se que o decisum impugnado não se mostra desarrazoado, ou carente de fundamentação, já que houve a necessária indicação dos motivos, das condições e dos pressupostos que ensejaram a imposição da custódia cautelar, sem que haja ofensa ao princípio da presunção de inocência, quais sejam, o fumus commissi delicti e o periculum libertatis.
+É o que se extrai da decisão atacada (f. 61/66):
+É o que se extrai da decisão atacada (f. 8/9):
+O pedido merece guarida. Por meio das declarações prestadas pelos investigados Otávio Miguel Santos de Souza e Jailson da Conceição do Nascimento (fls. 16-23), verifica-se que a representada teria ficado responsável por informar quando a vítima estaria em casa, bem como teria realizado a limpeza do local do crime de homicídio. Outrossim, ficou evidenciado que desde a primeira vez que a representada foi ouvida, sempre negou saber o paradeiro da vítima, de modo que nas suas primeiras oitivas não foi demonstrado nenhum interesse em colaborar com as investigações. Assim, além de haver indícios da sua autoria mediata nos delitos de homicídio e ocultação de cadáver, crimes estes que teriam ocorrido em novembro de 2023, há também demonstração de frieza e indiferença por parte da representada, a qual teria colaborado com os crimes perpetrados pelos demais coautores, e ainda assim permaneceu residindo no imóvel que ficava a poucos metros do local onde o cadáver foi enterrado e recentemente encontrado. Dessa forma, mesmo sendo primária e sem maus antecedentes entendo que as condutas supostamente praticadas com a colaboração da representada, se comprovadas, demonstram um grau considerável de crueldade e, por consequência, de periculosidade de todos os envolvidos. Assim, a ausência de fatos desabonadores na vida pregressa da representada não é suficiente para afastar os indícios de periculosidade em concreto que a sua liberdade traz para a sociedade, sendo necessária a decretação da sua prisão preventiva, com vistas a garantir a ordem pública, a regularidade da instrução processual e a aplicação da lei penal(..)"
+Tal contexto fático encontra alicerce nos boletins de ocorrência (f. 8/11 - autos de origem), bem como os termos de depoimentos juntados no inquérito policial dos autos de n.º 0801681-84.2024.8.12.0045, destacando-se o depoimento dos investigado Otávio Miguel Santos de Souza (f. 16/18) que relatou:
+ ..
+Assim, extrai-se do depoimento acima que, em tese, a paciente não só sabia onde estava enterrado o corpo da vítima do homicídio, como também auxiliou na limpeza do local onde o crime ocorrera.
+Nesse norte, como bem apontado pelo juízo de origem, se comprovadas as condutas imputadas aos autores do homicídio, incluindo-se aqui a paciente, fica evidenciado sua periculosidade, porquanto não só colaborou para a prática dos crimes de homicídio e ocultação de cadáver, mas também demonstrou frieza ao negar inicialmente saber o paradeiro do corpo da vítima, residindo no local a poucos metros de onde os delitos ocorreram, sem atuar com assertividade para solução do caso.
+Logo, parecem-me idôneos os fundamentos que sustentam a decisão recorrida, no sentido de que a gravidade da conduta imputada à paciente, aliado ao fato de que se trata de fato recente, com investigação em curso, justificam a manutenção de sua prisão preventiva para garantia da ordem pública, da regularidade da instrução processual e a aplicação da lei penal.
+Quanto às condições pessoais da paciente, deve-se relembrar que a jurisprudência dos Tribunais Superiores é uníssona no sentido de que questões tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não têm o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema.
+Veja-se:
+ ..
+Outrossim, revela-se incabível a substituição da custódia preventiva por quaisquer outras medidas diversas da prisão, elencadas no artigo 319 do Código de Processo Penal, por serem insuficientes e inadequados ao caso concreto, em vista não só da gravidade acentuada dos delitos imputados à paciente, mas também frente à conduta por ela apresentada, tudo a corroborar sua periculosidade. Nesse sentido:
+ ..
+Assim, não há que se falar em constrangimento ilegal a ser sanado pela via do presente writ.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a decretação da prisão cautelar foi suficientemente fundamentada pelas instâncias ordinárias, em virtude da especial reprovabilidade dos fatos, evidenciada a partir das circunstâncias da prática delitiva, o que justifica a prisão processual da acusada, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM DENEGADA. FALTA DE NOVOS ARGUMENTOS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. EXCESSO DE PRAZO. PECULIARIDADES DA DEMANDA. PENA COMINADA. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+2. O modus operandi do crime de homicídio qualificado, supostamente cometido mediante golpes de faca peixeira na vítima, por motivo fútil, após mera discussão em um bar, é bastante para evidenciar a gravidade concreta dos fatos e a acentuada periculosidade social do acusado, bem como para lastrear a medida cautelar mais onerosa, que lhe foi imposta.
+3. A existência de ações penais em curso, por crimes violentos, e a prévia condenação definitiva por delito contra a vida, ao cumprimento de mais de 10 anos de reclusão, apontam o risco concreto de reiteração delitiva e são aptas, de acordo com a orientação desta Corte, para amparar o cárcere preventivo do réu.
+(..)
+7. Agravo regimental não provido (AgRg no HC n. 823.916/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifamos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. MOTIVO FÚTIL. PERIGO COMUM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. GRAVIDADE EM CONCRETO DA CONDUTA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. No caso, está evidente a imprescindibilidade da mantença da prisão preventiva para garantia da ordem pública, diante das graves circunstâncias do caso concreto (modus operandi) e do fundado risco de reiteração delitiva.
+3. O agravante, reincidente, teria tentado ceifar a vida da vítima, mediante golpes de faca na região da cabeça do ofendido, causando-lhe graves lesões, não se consumando o intento homicida por circunstâncias alheias a sua vontade.
+4. A prisão preventiva também justifica-se diante do risco de reiteração delitiva, porquanto o agravante é reincidente.
+5. Agravo regimental não provido (AgRg no HC n. 833.150/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/5/2024, DJe de 10/5/2024; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024 .
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
