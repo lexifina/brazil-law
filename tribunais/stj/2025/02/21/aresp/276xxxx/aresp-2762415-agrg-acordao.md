@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. SÚMULA N. 182 DO STJ. MANUTENÇÃO DO DECISUM MONOCRÁTICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, na petição de agravo em recurso especial, a defesa se limitou a reiterar as razões do recurso especial, se insurgiu apenas genericamente contra a incidência do óbice do verbete sumular n. 7 do STJ e deixou de refutar adequadamente a incidência da Súmula n. 83 desta Corte Superior.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANTONIA EDILANGE VIEIRA BEZERRA, JUNIOR ALVES VIEIRA e PEDRO CESAR MOURAO BEZERRA interpõem agravo regimental contra a decisão de fls. 1.631-1.635, em que não conheci do agravo em recurso especial, porquanto não houve a impugnação específica dos fundamentos da decisão que obstou o processamento do recurso especial.
+Em suas razões, a defesa sustenta que houve a impugnação de todos os fundamentos da decisão de inadmissibilidade do recurso especial e que "o recurso em questão foi redigido em 25 laudas, todas elas dotadas de fundamentação explícita, bem como de impugnação pormenorizada de todas as matérias que sedimentaram sua interposição" (fl. 1.641).
+Afirma que "o recorrente logrou êxito quanto ao ônus da demonstração dos pressupostos genéricos e específicos para a interposição do AREsp, especialmente quanto à necessidade premente do seguimento do Recurso Especial pelo colegiado" (fl. 1.642).
+Alega que
+ ..  os agravantes demonstram - sem que fosse necessário o revolvimento fático ou probatório - que o julgamento de primeira instância lhe ocasionou um prejuízo processual incomensurável, na medida em que o fundamento principal da condenação foi uma delação de corré DJANE ANTÔNIA (que tinha interesse pessoal em prejudicar o primeiro agravante, com extensão aos outros dois agravantes), contaminada pela inobservância da ampla defesa e do contraditório (fl. 1.643).
+Requer, portanto, a reconsideração da decisão recorrida ou a submissão do recurso à turma julgadora, com o conhecimento do agravo e o provimento do recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. SÚMULA N. 182 DO STJ. MANUTENÇÃO DO DECISUM MONOCRÁTICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, na petição de agravo em recurso especial, a defesa se limitou a reiterar as razões do recurso especial, se insurgiu apenas genericamente contra a incidência do óbice do verbete sumular n. 7 do STJ e deixou de refutar adequadamente a incidência da Súmula n. 83 desta Corte Superior.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pelos insurgentes, a decisão atacada deve ser mantida pelos seus próprios fundamentos, nestes termos, no que interessa (fls. 1.633-1.635, grifos no original ):
+O Tribunal a quo obstou o prosseguimento do recurso especial diante do entendimento desta Corte Superior de que para o reconhecimento de nulidade por violação dos princípios do contraditório e da ampla defesa é necessária a demonstração do efetivo prejuízo, da necessidade de revolvimento fático-probatório para analisar o pleito de absolvição, incidindo o óbice dos verbetes sumulares n. 7 e 83 do STJ.
+No agravo, a defesa reiterou as razões do recurso especial e impugnou apenas de forma genérica a incidência do verbete sumular n. 7 do STJ, sem combater, de forma específica e pormenorizada, os impedimentos ao conhecimento de seu recurso.
+Na hipótese, a parte não demonstrou, especificamente, que o entendimento desta Corte Superior a respeito da necessidade de demonstração do efetivo prejuízo, a fim de se reconhecer eventual nulidade processual, destoa da conclusão a que chegou o Tribunal de origem ou o distinguishing usado para justificar que os precedentes citados no decisum recorrido seriam inaplicáveis à hipótese dos autos.
+A defesa também deixou de demonstrar que a tese absolutória apresentada não se enquadra nos precedentes desta Corte Superior, mencionados pelo Tribunal estadual, de que a solução da demanda implica reexame probatório, a fim de afastar a incidência da Súmula n. 83 do STJ. Nesse sentido:
+ ..
+1. Não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração através de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese.
+(AgInt no AREsp n. 1.849.364/RS, Rel. Ministro Mauro Campbell Marques, 2ª T., DJe de 3/9/2021)
+Cumpre ressaltar que o agravo em recurso especial tem como objetivo atacar todos os óbices apontados pelo Tribunal a quo ao negar seguimento ao recurso especial. Em obediência ao princípio da dialeticidade, a impugnação não pode ser genérica.
+Ademais, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade" (AgRg nos EDcl no AREsp n. 1.785.474/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/5/2021).
+Deveras:
+ ..  o entendimento pacífico desta Corte é o da imprescindibilidade da impugnação de todos os fundamentos da decisão de inadmissibilidade, sejam eles autonômos ou não, "pois não existe identidade entre a lógica da Súmula n. 182 do STJ e a da Súmula n. 283 do STF, uma vez que o conhecimento, ainda que parcial, do agravo em especial, obriga a Corte a conhecer de todos os fundamentos do especial, inclusive os não impugnados de modo específico" (AgRg no AREsp n. 68.639/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2/2/2012).
+(EDcl no AgInt no AREsp n. 1.413.506/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 27/6/2019)
+Conforme acima registrado, é ônus do agravante a impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, em obediência ao princípio da dialeticidade que norteia os recursos, sob pena de não conhecimento do agravo.
+No caso em exame, consoante adrede salientado, a defesa não se desincumbiu do ônus de expor os motivos de fato e de direito pelos quais entende incorreta a decisão de inadmissibilidade; situação que atrai, à espécie, o enunciado sumular n. 182 desta Corte Superior: "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Registro, por oportuno, que, embora a legislação processual civil em vigor não seja a mesma que baseou a edição da Súmula n. 182 do STJ, há dispositivo semelhante no Código de Processo Civil atual (art. 1.042), de forma que o enunciado permanece aplicável.
+Nesse sentido, cito julgados desta Corte: AgRg no AREsp n. 162.038/CE (Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/11/2016), AgInt no AREsp n. 943.953/RS (Rel. Ministro Ricardo Villas Bôas Cueva, 3ª T., DJe 28/10/2016) e AgRg no REsp n. 1.624.034/SC (Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 11/11/2016).
+À vista do exposto, não conheço do agravo em recurso especial.
+Como se observa, os agravantes se limitaram a reiterar as razões do recurso especial, se insurgiram apenas genericamente contra a incidência do óbice do verbete sumular n. 7 do STJ e deixaram de refutar adequadamente a incidência da Súmula n. 83 desta Corte Superior.
+Cumpre ressaltar que o agravo em recurso especial tem como objetivo atacar todos os óbices apontados pelo Tribunal a quo ao negar seguimento ao recurso especial. Em obediência ao princípio da dialeticidade, a impugnação não pode ser genérica.
+Ademais, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade" (AgRg nos EDcl no AREsp n. 1.785.474/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/5/2021).
+Deveras:
+ ..  o entendimento pacífico desta Corte é o da imprescindibilidade da impugnação de todos os fundamentos da decisão de inadmissibilidade, sejam eles autonômos ou não, "pois não existe identidade entre a lógica da Súmula n. 182 do STJ e a da Súmula n. 283 do STF, uma vez que o conhecimento, ainda que parcial, do agravo em especial, obriga a Corte a conhecer de todos os fundamentos do especial, inclusive os não impugnados de modo específico" (AgRg no AREsp n. 68.639/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2/2/2012).
+(EDcl no AgInt no AREsp n. 1.413.506/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 27/6/2019)
+Conforme acima registrado, é ônus do agravante a impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, em obediência ao princípio da dialeticidade que norteia os recursos, sob pena de não conhecimento do agravo.
+Assim, considero correta a decisão ora agravada, pois, uma vez verificado que o insurgente deixou de impugnar os fundamentos de inadmissão do recurso especial, incide a Súmula n. 182 do STJ.
+À vista do exposto, nego provimento ao agravo regimental.
