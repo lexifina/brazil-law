@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, às fls. 668-669, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Em suas razões, a parte embargante aponta, à fl. 689, que:
+ ..
+Desta forma, verificada a contradição da decisão de não conhecimento do recurso de Agravo em Recurso Especial, haja vista a Recorrente ter sim impugnado de forma específica a decisão de inadmissão do Recurso especial, como demonstrado anteriormente neste recurso e, tendo restado demostrado que a Embargante teve seu direito de defesa cerceado e foi impedida de exercer o contraditório e ampla defesa nos autos de Embargos à Execução, em razão de Sentença e Acórdão que entenderam por não haver provas nos autos para comprovar o alegado pela recorrente, mas sem oportunizar a produção da mesma e sequer cientificar a parte acerca da questão, em violação ao princípio da não surpresa, a reforma da decisão ora embargada, para conhecer e dar provimento ao Agravo em Recurso Especial é medida que se impõe.
+Aduz, ainda, que houve obscuridade no tocante a majoração da verba honorária, nos seguinte termos (fl. 693):
+ ..
+Pois bem, considerando os honorários de 5%, fixados na execução, somados aos 8% fixados na sentença e aos 2% correspondente à majoração prevista no Acórdão dos Embargos de Declaração do Município, compreende-se que o montante acerca dos honorários até o presente momento perfaz o montante de 15%.
+Entretanto, este E. Ministro Relator, majorou em 10% os honorários já arbitrados nas instâncias anteriores, de modo que o somatório perfaz o montante de 25% neste momento.
+Embora tenha aposto ressalva no sentido que devem ser observados os limites e parâmetros dos §§ 2 e 3º do art. 85 do CPC, a decisão se revela obscura, pois não deixa clara qual a motivação para majorar a verba honorária fixada em 8% e majorada mais 2%, totalizando 10%, em mais 10%, permitindo ainda certa margem de interpretação para que o Município posteriormente pretenda o cumprimento de 25% de honorários advocatícios em desfavor desta Embargante.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, destaca-se que a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: AgInt no REsp 1.348.521/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2016; EDcl no REsp 1.537.597/MA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/3/2016; EDcl nos EDcl no AgRg no REsp 1.319.666/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/2/2016.
+No caso, o agravo em recurso especial não foi conhecido nos seguintes termos (fls. 2.823-2.824):
+ ..
+No caso dos autos, a decisão da Corte de origem não admitiu o recurso especial sob o fundamento de que incide, ao caso, as súmulas 7/STJ e 284/STF.
+No entanto, o agravante não impugnou, especificamente, o fundamento da decisão de inadmissão referente a incidência da súmula 7/STJ, o que acarreta o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Em relação ao óbice da Súmula 7/STJ, é necessário que a parte desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático probatório dos autos, seja porque a questão é meramente de interpretação jurídica e aí deve comprovar tal circunstância, não apenas alegá-la, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+No caso, o agravante alega (mas não comprova), à fl. 639, que a decisão ora atacada entendeu pela necessidade da produção de provas, mesmo com todas as provas pré-constituídas sendo suficientes para demonstrar o direito da Agravante.
+Deveria o agravante, então, transcrever os trechos do acórdão recorrido em que constem tais fatos e provas e conectá-los à violação legal apontada.
+ ..
+Como se vê, a decisão embargada é clara e bem fundamentada ao apontar que não houve a impugnação específica a um dos fundamento que inadmitiu o recurso especial.
+Quanto a suposta obscuridade, tem-se que o Agravo em Recurso Especial não foi conhecido e, no último parágrafo da decisão agravada consta que caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias e publicado o acórdão que originou o recurso especial na vigência do CPC/2015, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Do excerto acima, evidencia-se não haver falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação ao que já decidido, devendo, então, os embargos serem rejeitados.
+Em reforço, sublinho que, conforme orientação no âmbito desta Corte, a majoração da verba honorária sucumbencial, prevista no art. 85, § 11, do CPC/2015, pressupõe a existência dos seguintes requisitos, cumulativamente: (i) decisão recorrida publicada a partir de 18/03/2016, data de entrada em vigor do novo Código de Processo Civil; (ii) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e (iii) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Assim, estando presentes os requisitos supramencionados, é de rigor a majoração, em observância ao art. 85, §§ 2º e 11, do CPC.
+Inexistindo, portanto, falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, devem os embargos serem rejeitados.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
