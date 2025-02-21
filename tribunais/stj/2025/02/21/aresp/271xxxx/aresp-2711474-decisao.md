@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por  BANCO  BRADESCO  S.A .  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  o  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a"  e  "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  MATO  GROSSO  cuja  ementa  guarda  os  seguintes  termos  (fl.  1.774):
+APELAÇÕES  CÍVEIS  -  AÇÃO  DE  ARBITRAMENTO  DE  HONORÁRIOS  -  PRELIMINARES  DE  JULGAMENTO  SEM  FUNDAMENTAÇÃO  E  ,  FALTA  DE  INTERESSE  PROCESSUAL  E  INÉPCIA  DA  INICIALEXTRA  PETITA  REJEITADAS  -  MÉRITO  -  CONTRATO  DE  PRESTAÇÃO  DE  SERVIÇOS  JURÍDICOS  -  TERMO  DE  QUITAÇÃO  GENÉRICO  -RESCISÃO  UNILATERAL  E  IMOTIVADA  -  PRESTAÇÃO  DE  SERVIÇOS  INCONTROVERSA  -  ARBITRAMENTO  JUDICIAL  -  -  FIXAÇÃO  DOS  HONORÁRIOS  DE  ACORDO  COM  O  TRABALHOPOSSIBILIDADE  DESEMPENHADO  PELO  CAUSÍDICO  -  ADEQUAÇÃO  DO  -QUANTUM  MAJORAÇÃO  DEVIDA  -  RECURSO  DO  AUTOR  PROVIDO  E  DO  BANCO  DESPROVIDO.
+Rejeitados  os  embargos  de  declaração  opostos  (fls.  1.849  -1.858).
+No  recurso  especial,  a parte recorrente alega  que  o  acórdão  contrariou  as  disposições  contidas  no  art.  22,  §  2º,  da  Lei  n.  8.906/1994  (estatuto  da  OAB),  bem  como  adverte  acerca  da  existência  de  dissídio  jurisprudencial  com  arestos  de  outros  tribunais  e  desta  Corte  Superior.
+Sustenta,  em  síntese,  que  o  arbitramento  judicial  de  honorários  não  é  cabível,  pois  há  previsão  contratual  expressa  sobre  a  forma  de  pagamento,  conforme  o  §  2º  do  art.  22  do  Estatuto  da  OAB,  que  só  permite  o  arbitramento  na  ausência  de  estipulação  ou  acordo,  o  que  não  é  o  caso  dos  autos  (fls.  1.942-1.946).
+Ainda,  afirma  que  o  precedente  utilizado  pelo  acórdão  recorrido  não  deve  ser  utilizado  no  caso,  uma  vez  que  não  se  trata  de  rescisão  imotivada,  mas  que,  no  caso  em  questão,  o  contrato  já  previa  as  condições  de  pagamento,  não  justificando  o  arbitramento  (fls.  1.943-1.944).
+Portanto,  o  banco  sustenta  que  a  rescisão  foi  realizada  dentro  dos  termos  contratuais  e  que  não  há  justificativa  para  o  arbitramento  de  honorários  de  êxito,  pois  não  houve  êxito  nas  ações  patrocinadas  pelo  recorrido  (fls.  1.946-1.947).
+Foram  oferecidas  contrarrazões  ao  recurso  especial  (fls.  1.998-2.007).
+Sobreveio  o  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.  2.067-2.087),  o  que  ensejou  a  interposição  do  presente  agravo.
+Apresentada  contraminuta  do  agravo  (fls.  2.120-2.129).
+É,  no  essencial,  o  relatório.
+Atendidos  os  pressupostos  de  admissibilidade  do  agravo,  passo  ao  exame  do  recurso  especial.
+Nos  termos  da  jurisprudência  pacífica  do  STJ,  quando  a  revogação  do  mandato  ocorre  por  iniciativa  do  constituinte  (mandante),  é  facultado  ao  advogado  mandatário  propor  ação  de  arbitramento  judicial  dos  honorários  advocatícios  contratuais,  ainda  que  avençados  sob  a  cláusula  ad  exitum  (AgInt  no  AREsp  n.  338.397/RS,  relator  Ministro  Antonio  Carlos  Ferreira,  Quarta  Turma,  julgado  em  3/3/2020,  DJe  de  6/4/2020).
+No  mesmo  sentido,  cito  os  seguintes  precedentes:
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  HONORÁRIOS  ADVOCATÍCIOS  CONTRATUAIS.  CLÁUSULA  DE  ÊXITO.  REVOGAÇÃO  DO  MANDATO  POR  INICIATIVA  DO  CONSTITUINTE  (MANDANTE).  AÇÃO  DE  ARBITRAMENTO.  POSSIBILIDADE.  PRECEDENTES.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Quando  a  revogação  do  mandato  ocorre  por  iniciativa  do  constituinte  (mandante),  é  facultado  ao  advogado  mandatário  propor  ação  de  arbitramento  judicial  dos  honorários  advocatícios  contratuais,  ainda  que  avençados  sob  a  cláusula  ad  exitum.  Precedentes.
+2.  A  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC/2015  não  é  automática,  porquanto  a  condenação  da  parte  agravante  ao  pagamento  da  aludida  multa  -  a  ser  analisada  em  cada  caso  concreto,  em  decisão  fundamentada  -  pressupõe  que  o  agravo  interno  mostre-se  manifestamente  inadmissível  ou  que  sua  improcedência  seja  de  tal  forma  evidente  que  a  simples  interposição  do  recurso  possa  ser  tida,  de  plano,  como  abusiva  ou  protelatória,  o  que  não  se  verifica  na  hipótese  examinada.
+3.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  2.382.957/SC,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  16/10/2023,  DJe  de  18/10/2023.)
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DE  ARBITRAMENTO  DE  HONORÁRIOS  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DO  DEMANDADO.
+1.  Nas  hipóteses  em  que  a  revogação  do  mandato  dá-se  por  iniciativa  do  constituinte  (mandante),  é  facultado  ao  advogado  mandatário  propor  ação  de  arbitramento  judicial  dos  honorários  advocatícios  contratuais,  ainda  que  avençados  sob  a  cláusula  ad  exitum.  Incidência  da  Súmula  83/STJ.
+2.  Não  cabe,  em  recurso  especial,  a  interpretação  de  cláusulas  contratuais  e  o  reexame  do  conjunto  fático-probatório  dos  autos,  a  teor  das  Súmulas  5  e  7/STJ.
+3.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n. 1.279.164/RS,  relator  Ministro  Marco  Buzzi,  Quarta  Turma,  julgado  em  26/11/2019,  DJe  de  27/11/2019.)
+Dessarte,  estando  o  acórdão  recorrido  em  conformidade  com  a  jurisprudência  pacífica  desta  Corte,  aplica-se,  ao  caso,  o  entendimento  consolidado  na  Súmula  n.  83/STJ.
+Ademais,  os  argumentos  utilizados  pela  parte  recorrente  somente  poderiam  ter  sua  procedência  verificada  mediante  o  necessário  reexame  de  matéria  fático-probatória  e  interpretação  das  cláusulas  contratuais,  procedimentos  vedados  a  esta  Corte,  em  razão  do  óbice  das  Súmulas  n.  5  e  7/STJ.
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Deixo  de  majorar  os  honorários  visto  que  já  foram  fixados  na  origem  no  patamar  máximo  de  20%  (fl.  1.791).
+Publique-se.  Intimem-se.
+EMENTA
+  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  ARBITRAMENTO  JUDICIAL  DE  HONORÁRIOS  CONTRATUAIS.  CLÁUSULA  DE  ÊXITO.  REVOGAÇÃO  DO  MANDATO  POR  INICIATIVA  DO  CONSTITUINTE.  POSSIBILIDADE  DE  ARBITRAMENTO.  PRECEDENTES.  SÚMULA  N.  83/STJ.  REEXAME  DE  CLÁUSULAS  CONTRATUAIS.  SÚMULAS  N.  5  E  7  DO  STJ.  AGRAVO  CONHECIDO.  RECURSO  ESPECIAL NÃO CONHECIDO.
