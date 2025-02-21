@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial, ante a incidência da Súmula n. 83/STJ (e-STJ fls. 2.792/2.794).
+O acórdão do TJRS traz a seguinte ementa (e-STJ fl. 2.726):
+APELAÇÕES CÍVEIS. DIREITO À SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. LITISPENDÊNCIA. INEXISTE AÇÃO ANTERIOR, EM CURSO, IDÊNTICA A PRESENTE (CPC, ART. 337, §§ 2º- E 3º), TAMPOUCO HOUVE A REPRODUÇÃO DE DEMANDA COM DECISÃO TRANSITADA EM JULGADO SOBRE A MATÉRIA OBJETO DA AÇÃO, DE MODO QUE NÃO RESTOU CARACTERIZANDO A LITISPENDÊNCIA. CANABIDIOL. PLANO DE SAÚDE PRIVADO. CONSOANTE ORIENTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA, A COBERTURA DE INTERNAÇÃO DOMICILIAR, EM SUBSTITUIÇÃO À INTERNAÇÃO HOSPITALAR, DEVE ABRANGER OS INSUMOS NECESSÁRIOS PARA GARANTIR A EFETIVA ASSISTÊNCIA MÉDICA AO BENEFICIÁRIO. HIPÓTESE DOS AUTOS EM QUE EMBORA O MEDICAMENTO VINDICADO (CANABIDIOL 200MG) NÃO CONSTE NO ROL DA ANS, POSSUI AUTORIZAÇÃO SANITÁRIA PARA FABRICAÇÃO E IMPORTAÇÃO PARA FINS MEDICINAIS, O QUE ALIADO À PRESCRIÇÃO MÉDICA, SEGUNDO O STJ, DEMONSTRA A SEGURANÇA SAINTÁRIA DO
+FÁRMACO E, PORTANTO, PERMITE O SEU FORNECIMENTO PELO PLANO DE SAÚDE. HONORÁRIOS ADVOCATÍCIOS. A VERBA HONORÁRIA DEVE SER ESTABELECIDA DE ACORDO COM OS DITAMES DO ARTIGO 85, § 2o- DO CPC E, NAS HIPÓTESES EM QUE FOR INESTIMÁVEL OU IRRISÓRIO O PROVEITO ECONÔMICO OU, AINDA, QUANDO O VALOR DA CAUSA FOR MUITO BAIXO, POR APRECIAÇÃO EQUITATIVA (CPC, ART. 85, § 8º). NAS AÇÕES RELATIVAS AO DIREITO À SAÚDE, CASO DOS AUTOS, POR SER INESTIMÁVEL O VALOR ECONÔMICO DO OBJETO DA AÇÃO, SE ADMITE O ARBITRAMENTO DOS HONORÁRIOS SUCUMBENCIAIS POR EQUIDADE. NEGADO PROVIMENTO AO RECURSO DA UNIMED E DADO PROVIMENTO À APELAÇÃO DO MUNICÍPIO DE SANTA MARIA.
+No recurso especial (e-STJ fls. 2.743/2,745), fundamentado no art. 105, III, "a", da CF, a recorrente aduziu dissídio jurisprudencial e violação dos arts. 10, V e VI, e 12, I, "c" e "g", da Lei n. 9.656/1998, afirmando ser possível limitar a cobertura de medicamento de uso domiciliar descrito na inicial, pois o mencionado custeio não seria previsto no rol - de natureza taxativa - de procedimentos e eventos da Agência Nacional de Saúde Suplementar - ANS, além de que o remédio referido seria desprovido de registro na ANVISA.
+No agravo (e-STJ fls. 2.804/2.810), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Conforme o entendimento desta Corte Superior, há abuso, pelo plano de saúde, na recusa do custeio da medicação assistida (home care), quando prescrita pelo médico assistente.
+Desse modo:
+CONSUMIDOR. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRANSTORNO DE CRESCIMENTO. MEDICAMENTO. SOMATROPINA. USO DOMICILIAR. NEGATIVA LÍCITA DE COBERTURA. AGRAVO INTERNO DESPROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.547.650/RJ, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 2/12/2024, DJEN de 9/12/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANOS DE SAÚDE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF. FORNECIMENTO DE MEDICAMENTO DE USO DOMICILIAR. RECUSA DE COBERTURA. ABUSIVIDADE. NÃO CONFIGURADA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DEFICIÊNCIA DE COTEJO ANALÍTICO. ACÓRDÃO PARADIGMA ORIUNDO DO MESMO TRIBUNAL AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Na saúde suplementar, é lícita a exclusão do fornecimento de medicamentos prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde (tratamento domiciliar), salvo os antineoplásicos orais, a medicação assistida (home care) e os incluídos no rol da ANS para esse fim.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.047.030/RS, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 9/9/2024, DJe de 12/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS. PRESTAÇÃO JURISDICIONAL. NEGATIVA. NÃO OCORRÊNCIA. PLANO DE SAÚDE. ANS. ROL. MITIGAÇÃO. HOME CARE. IMPRESCINDIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+ ..
+2. A taxatividade do Rol da ANS, pacificada pela Segunda Seção, não prejudica o entendimento há muito consolidado neste Tribunal Superior de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar por não configurar procedimento, evento ou medicamento diverso daqueles já previstos pela agência reguladora. Precedente.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.663.366/PE, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/11/2024, DJe de 14/11/2024.)
+O Tribunal de origem determinou o custeio, pelo plano de saúde, da medicação assistida da contraparte (home care), conforme a prescrição médica, o que não destoa do entendimento desta Corte Superior (e-STJ fls. 2.721/2.723).
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Segundo o entendimento desta Corte Superior, "a autorização da ANVISA para a importação do medicamento para uso próprio, sob prescrição médica, é medida que, embora não substitua o devido registro, evidencia a segurança sanitária do fármaco, porquanto pressupõe a análise da Agência Reguladora quanto à sua segurança e eficácia, além de excluir a tipicidade das condutas previstas no art. 10, IV, da Lei 6.437/77, bem como nos arts. 12 c/c 66 da Lei 6.360/76. 7. Necessária a realização da distinção (distinguishing) entre o entendimento firmado no precedente vinculante e a hipótese concreta dos autos, na qual o medicamento (PURODIOL 200mg/ml) prescrito à beneficiária do plano de saúde, embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp n. 2.019.618/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/11/2022, DJe de 1º/12/2022), entendimento aplicado pelo Tribunal a quo (e-STJ fls. 2.722/2.723).
+No mesmo sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA DE MEDICAMENTO. IMPORTAÇÃO AUTORIZADA PELA ANVISA. ALTERAÇÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+ ..
+6. Esta Corte Superior tem decidido que é devida a cobertura do medicamento, o qual, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/8/2021, DJe 16/8/2021).
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.885.447/SP, de minha relatoria, QUARTA TURMA, julgado em 25/4/2022, DJe de 28/4/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.164.998/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/2/2023, DJe de 16/2/2023.)
+Aplicável, portanto, mais uma vez, a Súmula n. 83/STJ.
+O conhecimento do rec urso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
