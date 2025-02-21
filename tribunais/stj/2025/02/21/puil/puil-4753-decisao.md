@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado por Sandra Gonçalves da Silva, com fundamento o art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão da a 8ª Turma Recursal de Fazenda Pública do Tribunal de Justiça de São Paulo, assim ementado (fl. 272):
+RECURSO INOMINADO INSTAURAÇÃO DE PROCEDIMENTO DESTINADO À SUSPENSÃO DO DIREITO DE DIRIGIR ALEGAÇÃO DE DECADÊNCIA RECONHECIDA PELA SENTENÇA INCORRETA INTERPRETAÇÃO DO DISPOSTO NO ART. 282, § 6º, INCISO II DO C. T. B. QUE SE REFERE À NOTIFICAÇÃO DE PENALIDADE IMPOSTA E NÃO À INSTAURAÇÃO DE PROCEDIMENTO DESTINADO À SUA IMPOSIÇÃO REQUERIDO QUE DISPUNHA DE PRAZO PRESCRICIONAL DE 5 ANOS CONTADOS DA DATA DO ENCERRAMENTO DO PROCEDIMENTO DE IMPOSIÇÃO DE MULTA POR INFRAÇÃO DE TRÂNSITO PARA INSTAURAR PROCEDIMENTO DE CASSAÇÃO RECURSO PROVIDO PARA JULGAR IMPROCEDENTE A AÇÃO.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 287/289).
+Sustenta a requerente que a interpretação emprestada ao art. 282, 6º, do CTB diverge daquela adotada no acórdão paradigma, prolatado nos autos do Processo n. 1022710-95.2024.8.26.0053, da Turma de Uniformização do Sistema dos Juizados Especiais do Estado de Minas Gerais.
+A tanto, assevera que (fls. 5/6):
+No presente processo, o Colégio Recursal de São Paulo entendeu que o art. 282, § 6º, inciso III do CTB que se refere à notificação de penalidade imposta, e não à instauração de procedimento destinado à sua imposição requerido, que dispunha de prazo prescricional de 5 anos contados da data do encerramento do procedimento de imposição de multa por infração de trânsito para instaurar procedimento de cassação.
+ ..
+Por outro lado, diversos Tribunais de Justiça e Turmas Recursais, como por exemplo de Minas Gerais, adotam o entendimento de que, com a alteração promovida pela Lei nº 14.229/2021 no Código de Trânsito Brasileiro, o prazo para instauração e notificação de penalidades de suspensão ou cassação do direito de dirigir é de 180 ou 360 dias, contados da conclusão do processo administrativo da infração, que deu origem à cassação.
+Nesse fio, afirma que (fls. 8/10):
+Como se pode verificar, há clara divergência entre o entendimento adotado entre os órgãos julgadores de origem e o quanto pacificado pelas Turmas Recursais de Minas Gerais.
+Além disso, o juízo a quo, no julgamento do Recurso Inominado n. 1022710-95.2024.8.26.0053, aplicou o entendimento errôneo de que o prazo apresentado não se trata de decadência, mas sim de prazo prescricional.
+Ou seja, o acórdão entendeu ser legal a resolução 723/201 8 do CONTRAN, bem como equivocadamente analisou a principal alegação da Requerente em relação ao prazo de decadência previsto no art. 282, em seu § 6 do CTB.
+A demanda foi proposta em razão de ter ocorrido a decadência do processo de suspensão, tendo em vista que a notificação da penalidade do processo de suspensão não ocorreu dentro do prazo previsto em lei.
+Ou seja, a demanda versa apenas sobre decadência do direito positivado da Requerente em impor a penalidade de suspensão, e não sobre ter ocorrido ou não a prescrição. Segue trecho da r. sentença reconhecendo a decadência:
+ ..
+Além disso, a decadência alegada nos autos é matéria de ordem pública, que deve ser analisada. Ou seja, por mais que o nobre julgador quis analisar a prescrição punitiva no presente caso, não pode deixar de analisar a decadência alegada.
+Assim, como se pode verificar, é evidente a similitude fática, bem como a divergência entre decisões proferidas pelo juízo de origem e as Turmas Recursais de Minas Gerais.
+Sendo assim, resta claro que a discussão nas duas demandas versou sobre o prazo legal para instauração e envio das notificações da penalidade do procedimento administrativo de suspensão/cassação do direito de dirigir, conforme prevê o Código de Trânsito Brasileiro.
+O acórdão paradigma teve a correta interpretação do texto literal da lei federal, (Lei 14.229/2021) cuja previsão é diretamente violada pelo r. acórdão paragonado ao proferir entendimento sobre qual seria o prazo inicial da decadência do processo de suspensão: "
+ ..
+Ou seja, há previsão expressa da lei apontando que o termo inicial da decadência é contado a partir do encerramento do processo administrativo que deu causa a suspensão, o que deve ser aplicado a caso, e não contar o prazo prescricional de 5 anos contados da data da infração, como entendeu o acórdão paragonado.
+Assim, não resta dúvida, pois expresso no dispositivo legal, que o prazo decadencial do processo de suspensão, no presente caso, é contado da conclusão do processo administrativo que lhe deu causa, se referindo então a conclusão do processo administrativo da multa de trânsito, que é justamente o que o requerente alegou nos autos.
+Desta forma, como o entendimento do r. acórdão paragonado foi no sentido de que não decorreu o prazo prescricional, aplicando resolução do Contran que não se aplica ao caso, violou o texto literal da lei de decadência (14.229/2021) e também o entendimento proferido pelas demais Turmas do Colégio Recursal.
+O entendimento proferido pelo acórdão paragonado viola também, em decorrência lógica, o termo final do prazo decadencial do processo de suspensão, que é a notificação da penalidade do processo administrativo da multa, divergindo do entendimento proferido pelo acórdão paradigma.
+Tece, ainda, considerações a respeito de uma eventual ofensa ao principio da legalidade, haja vista que "o CONTRAN, ao editar a Resolução nº 182/2005, ultrapassou os limites de sua competência prevista no artigo 12 do CTB" (fl. 14).
+Requer, assim, o provimento do pedido de uniformização.
+Contrarrazões às fls. 297/305.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Como cediço, "para demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, indispensável a transcrição de trechos do Relatório e do Voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente" (AgInt no PUIL n. 3.658/SC, relator Ministro Herman Benjamin, Primeira Seção, DJe de 9/10/2023).
+Nessa linha de ideias, o dissídio capaz de ensejar a interposição do pedido de uniformização é aquele que se verifica em hipóteses semelhantes, devendo ser demonstrado que em situações idênticas foram dadas soluções meritórias dissonantes, o que não ocorre na espécie.
+Com efeito, o acórdão recorrido se ampara nas seguintes premissas jurídicas autônomas e complementares, a saber: (a) é de 5 (cinco) anos, a contar da data da infração, o prazo prescricional para instauração do processo administrativo sancionador, nos termos do art. 1º da Lei n. 9.873/1999; e (b) o art. 282, § 6º, do CTB (com redação dada pela Lei n. 14.229/2021) refere-se tão somente à notificação da penalidade, após a conclusão do procedimento administrativo.
+A partir dessas premissas, a Turma Recursal paulista concluiu que não houve a prescrição da pretensão punitiva da administração, pois " e ntre a data do encerramento do processo administrativo em julho de 2020 e a data da instauração do processo de suspensão em julho de 2023, não transcorreu cinco anos, não tendo havido prescrição ou decadência" (fl.274).
+Por sua vez, o acórdão paradigma limitou-se a examinar a controvérsia concernente à eventual decadência administrativa na aplicação da sanção ao condutor infrator, concluindo, a esse respeito, que tal prazo decadencial tem como termo inicial a conclusão do processo administrativo sancionador, conforme estabelecido no art. 282, § 6º, do CTB.
+Logo, os acórdãos confrontados carecem de similitude fático-jurídica.
+ANTE O EXPOSTO, não conheço do pedido de uniformização.
+Publique-se.
+EMENTA
