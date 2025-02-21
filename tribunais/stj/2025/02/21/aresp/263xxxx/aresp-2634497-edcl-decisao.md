@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DEBORAH GIOVANNETTI MACEDO GUERNER contra decisão monocrática, da minha lavra, que acolheu em parte os aclaratórios anteriores, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+A defesa sustenta, em um primeiro momento, que o acolhimento dos primeiros aclaratórios autoriza a impugnação de toda a matéria constante da decisão que julgou o agravo em recurso especial. No mais, aponta omissão quanto à ofensa à Súmula Vinculante n. 14 e à ampla de defesa bem como quanto à afronta ao art. 68 do Código Penal. Por fim, aponta contradição quanto à causa de aumento prevista no §1º do art. 158 do Código Penal.
+Requer o acolhimento dos embargos de declaração com efeitos infringentes.
+É o relatório. Decido.
+Preliminarmente, registro que, diversamente da alegação defensiva, o acolhimento em parte dos aclaratórios anteriores não autoriza a parte a impugnar novamente toda a matéria constante da decisão que julgou o agravo em recurso especial. De fato, opostos os primeiros embargos, fica preclusa a matéria não suscitada no recurso integrador, sendo cabível a oposição de novos aclaratórios apenas para apontar omissão na decisão que julgou os embargos anteriores.
+De fato, segundo a jurisprudência desta Corte, "os segundos embargos de declaração são destinados ao exame de eventual vício ocorrido nos embargos de declaração anteriores, sendo inadmissível sua utilização com o fim de ressuscitar matéria já atingida pela preclusão consumativa." (EDcl nos EDcl no AgRg no AgRg no AREsp n. 2.436.084/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/9/2024, DJe de 13/9/2024.)
+Quanto ao único tema efetivamente examinado nos embargos de declaração, a defesa se limita a afirmar que é necessária a "reanálise" da "errônea aplicação da causa de aumento de pena prevista no §1º do art. 158 do Código Penal". Dessa forma, não há se falar em omissão, mas sim em mera irresignação. Assim, resolvidas as questões com fundamentação satisfatória, acaso a parte não se conforme com as razões declinadas ou considere a existência de algum equívoco ou erro de julgamento, não são os embargos, que possuem função processual limitada, a via própria para impugnar o julgado ou rediscutir a causa.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide". (EDcl nos EAREsp 650.536/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 05/11/2021).
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSO PENAL. AGRAVO REGIMENTAL NÃO CONHECIDO. SÚMULA N. 182/STJ. CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. MERA IRRESIGNAÇÃO.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, bem como eliminar contradição ou ambiguidade eventualmente existentes no julgado impugnado, não constituindo meio processual adequado para veicular simples inconformismo e o propósito de rediscussão de matéria decidida. Precedente.
+2. A contradição que autoriza a oposição dos embargos de declaração é aquela interna ao julgado, caracterizada por proposições inconciliáveis entre si, situação que não ocorre no acórdão embargado. Precedente.
+3. Inexistindo no acórdão embargado quaisquer dos vícios previstos no art. 619 do Código de Processo Penal, que permitem o manejo do recurso integrativo, não há como este ser acolhido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg na Rcl 39.139/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 24/06/2020, DJe 04/08/2020).
+Pelo exposto, conheço em parte dos embargos de declaração para, nessa extensão, rejeitá-los.
+Publique-se.
+EMENTA
