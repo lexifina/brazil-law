@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por CAIXA DE PREVIDENCIA DOS FUNCIONARIOS DO BANCO DO BRASIL - PREVI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE cuja ementa guarda os seguintes termos (fls. 61-62):
+AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO POR ARBITRAMENTO - PREVI - INSURGÊNCIA QUANTO À DECISÃO INTERLOCUTÓRIA QUE HOMOLOGOU O LAUDO PERICIAL - CÁLCULOS QUE FORAM REALIZADOS POR UM PERITO ESPECIALIZADO - EXPERT QUE RESPONDEU A TODOS QUESITOS DAS PARTES E AOS QUESTIONAMENTOS LEVANTADOS PELA EXECUTADA, ORA AGRAVANTE - PLEITO DE NOVA DECISÃO FUNDAMENTADA INSUBSISTENTE - RECURSO ESPECIAL PENDENTE DE JULGAMENTO - IMPOSSIBILIDADE DE SUSPENSÃO DO ANDAMENTO DO FEITO - ART. 995 DO CPC - MANUTANÇÃO DA DECISÃO AGRAVADA - PRECEDENTES RECURSO DESTA CORTE - CONHECIDO E DESPROVIDO - DECISÃO POR MAIORIA.
+Rejeitados os embargos de declaração opostos (fls. 242-248).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489, §1º, IV, e 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 477, §2º, I e II, do CPC e 884 do Código Civil.
+Sustenta objetivar a correta inteligência dos artigos de lei federal violados e o evidente dissídio jurisprudencial.
+Afirma que o acórdão recorrido não se manifestou acerca da omissão ao se apurarem os valores acerca da complementação de aposentadoria do benefício previdenciário, sendo imprescindível observar, na realização dos cálculos, as disposições do estatuto e o equilíbrio atuarial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 93-112).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 115-121), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 133-145).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento ao agravo, deixou claro que (fl. 63):
+ ..  quanto ao mérito recursal e no tocante ao motivo justificador para continuar mantendo a decisão interlocutória de piso, verifico que tanto não restou demonstrada a probabilidade de provimento do direito invocado pela parte agravante, quanto o risco de dano grave, de difícil ou impossível reparação, aptos a modificar a decisão hostilizada.
+Sabe-se que o magistrado não é o profissional habilitado a realizar exames técnicos para a descoberta de detalhes probatórios indispensáveis ao julgamento, motivo pelo qual, vige no nosso ordenamento jurídico o sistema em que o Juiz nomeia perito que possua conhecimentos técnicos e científicos aptos a subsidiar a sentença.
+No caso em questão, verifico que o aludido laudo foi realizado com o estrito cumprimento do contraditório, sendo oportunizada às partes a formulação de quesitos e ulterior manifestação. Ademais, é importante ressaltar que o perito, diante das manifestações contrárias da agravante, prestou os devidos esclarecimentos, em 30/01/2023, conforme se avista às págs. 597/609 dos autos principais materializados.
+Diante disso, observa-se que, favoravelmente à agravante, o Juízo ofereceu meios e condições para que não somente formulasse os quesitos, como também, diversos questionamentos sobre o laudo pericial que foram prontamente respondidos pelo expert. Desta forma, consoante já bem fundamentada pelo Juízo singular, tenho que no caso em tela impõe-se à manutenção da prova pericial judicialmente produzida, posto que se mostra hígida, inexistindo qualquer mácula.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Nesse sentido, cito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp n. 2.559.545/AP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DÉBITOS RELATIVOS AO RECOLHIMENTO MENSAL POR ESTIMATIVA DO IRPJ E DA CSLL. COMPENSAÇÃO. VEDAÇÃO PELA LEI 13.670/2018. POSSIBILIDADE. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há nulidade por omissão, tampouco negativa de prestação jurisdicional no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+2. Esta Corte Superior de Justiça "possui entendimento consolidado acerca da legitimidade da vedação à compensação das estimativas, prevista na Lei n. 13.670/2018, sem qualquer limitação temporal ou, ainda, quanto à forma de apurar o cálculo (receita bruta ou balancetes de suspensão ou redução)" (AgInt no REsp n. 2.001.176/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.909.373/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 4/12/2024, DJEN de 17/12/2024.)
+Quanto à alegação de afronta aos arts. 477, § 2º, I e II, do CPC e 884 do Código Civil, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que também atrai os preceitos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF. (AgInt no AREsp n. 2.044.724/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/9/2022.)
+2. A mera citação genérica de dispositivo de lei tido como violado desarticulada de fundamentação vinculada à norma não enseja o cabimento de recurso especial. Nos termos da jurisprudência, o recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+ ..  (AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/6/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. AFRONTA A ARTIGO DE LEI FEDERAL. ENUMERAÇÃO DE ARTIGOS. SÚMULA 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
