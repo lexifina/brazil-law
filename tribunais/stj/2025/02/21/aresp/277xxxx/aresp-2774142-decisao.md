@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL contra acórdão assim ementado:
+EMENTA - REMESSA NECESSÁRIA E APELAÇÕES CÍVEIS - AÇÃO DE OBRIGAÇÃO DE FAZER - RETORNO DA VICE-PRESIDÊNCIA PARA JUÍZO DE RETRATAÇÃO - CONDENAÇÃO DO ESTADO AO PAGAMENTO DE HONORÁRIOS EM FAVOR DA DEFENSORIA PÚBLICA - POSSIBILIDADE - APLICAÇÃO DO TEMA N.º 1.002, DO STF - JUÍZO DE RETRATAÇÃO EXERCIDO - RECURSO DA DEFENSORIA PROVIDO. Consoante Tema n.º 1.002, do STF: "É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra".
+Os embargos de declaração foram rejeitados.
+No especial especial, o agravante apontou ofensa aos arts. 87, § 1º, 502, 505, 506, 507, 1.013 e 1.022 do CPC, sustentando, em síntese, que deveria ter fixado verba autônoma em desfavor do Estado do Mato Grosso do Sul, em vez de determinar o rateio do quantum arbitrado na sentença contra o Município, tendo em vista o trânsito em julgado da sentença sem que houvesse interposição de apelação por parte do ente municipal.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Na origem, o Juízo de 1º Grau julgou procedente o pedido inicial, condenando o Município de Naviraí e do Estado de Mato Grosso do Sul, solidariamente, à realização do procedimento cirúrgico requerido.
+Em observância à Súmula 421/STJ, condenou apenas o ente municipal ao pagamento de honorários advocatícios, no valor de R$ 500,00 (quinhentos reais).
+Em juízo de retratação, o Tribunal de origem deu provimento ao recurso da parte autora para, em observância ao Tema 1.002/STF, alterar a sentença que isentou o ente público estadual do pagamento de verba honorária, de tal sorte que deverá haver o rateio desta entre os vencidos em partes iguais.
+De início, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia.
+Além disso, os arts. 502, 505, 506, 507 do CPC não foram objeto de análise pelo Tribunal de origem, sequer de modo implícito. Na forma da jurisprudência desta Corte, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Relativamente à distribuição dos ônus de sucumbência entre os litisconsortes passivos, a conclusão do acórdão recorrido, ao determinar a distribuição pro rata, encontra-se em conformidade com a jurisprudência do STJ.
+A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA. PLURALIDADE DE VENCIDOS. RATEIO DA VERBA HONORÁRIA. ART. 87 DO CPC. MAJORAÇÃO DA VERBA HONORÁRIA EM GRAU DE RECURSO. NÃO CABIMENTO ANTE O PARCIAL PROVIMENTO DO RECURSO. NÃO PROVIMENTO.
+1. Conforme entendimento desta Corte Superior, "a regra do rateio na distribuição dos ônus sucumbenciais se aplica tanto à pluralidade de autores quanto à de réus, tendo em vista que tal verba é fixada em relação ao objeto discutido e não em relação ao número de vencedores ou vencidos" (EDcl nos EDcl na DESIS no AgInt na Rcl n. 37.445/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 18/5/2021, DJe de 25/5/2021).
+ ..
+3. Agravo interno a que se nega provimento (AgInt no REsp 2.081.746/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 3/7/2024).
+Portanto, no ponto, deve ser desprovido o recurso especial, com fundamento na orientação contida na Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", aplicável também para interposição de recurso pela alínea a do permissivo constitucional, nos termos da jurisprudência desta Corte.
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
