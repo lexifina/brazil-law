@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. AUSÊNCIA DE DOLO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão de ver analisada a alegação de ausência de dolo esbarra no óbice da Súmula n. 7 do STJ, por implicar a necessidade de revolvimento fático-probatório dos autos.
+2. Agravo regimental não provido.
+RELATÓRIO
+MARCOS ROBERTO BAPTISTELLO e TANIA REGINA FERNANDES BAPTISTELLO interpõem agravo regimental contra a decisão de fls. 566-570, na qual conheci do agravo para não conhecer do recurso especial.
+Consta nos autos que os réus foram condenados a 1 ano e 6 meses de reclusão, em regime aberto, mais 15 dias-multa, como incursos no art. 299, caput, c/c o art. 71, ambos do Código Penal.
+A defesa alega "ausência de dolo exigido pelo tipo na conduta dos agravantes" (fl. 592) e não incidência da Súmula n. 7 do STJ. Requer a reconsideração da decisão agravada ou o ju lgamento do regimental pelo colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. AUSÊNCIA DE DOLO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão de ver analisada a alegação de ausência de dolo esbarra no óbice da Súmula n. 7 do STJ, por implicar a necessidade de revolvimento fático-probatório dos autos.
+2. Agravo regimental não provido.
+VOTO
+Apesar dos esforços perpetrados pelos agravantes, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho. Confira-se (fls. 566-570, grifos no original):
+Consta nos autos que os réus foram condenados a 1 ano e 6 meses de reclusão, em regime aberto, mais 15 dias-multa, como incursos no art. 299, caput, c/c o art. 71, ambos do Código Penal.
+A defesa requereu a absolvição dos acusados por ausência de comprovação do dolo específico e, subsidiariamente, o reconhecimento de crime único.
+ ..
+O Tribunal de origem, ao manter a condenação, assinalou o seguinte (fls. 460-463, grifei):
+Os apelantes foram denunciados por falsidade ideológica porque, agindo em concurso de agentes com a corré Stella (que teve acordo de não persecução penal homologado), e de forma continuada, inseriram e fizeram inserir, em documento público, declaração falsa e diversa da que devia ser escrita, com o fim de alterar a verdade sobre fato juridicamente relevante.
+Segundo consta, Stella foi autuada por seis vezes pelo Detran por infrações de trânsito, praticadas nos dias 02, 08 e 16 de março de 2018, na condução de motocicleta Honda.
+Stella supostamente procurou o corréu MARCOS, que é despachante, para que transferisse os pontos de sua habilitação para outra pessoa, entregando-lhe a identificação de condutor assinada e cópia de sua CNH.
+MARCOS, com a ajuda da sua cunhada TANIA, fez inserir dados falsos nas seis declarações de identificação de condutor para que os pontos fossem inseridos na habilitação de TANIA e não de Stella.
+A materialidade e autoria do delito vem demonstrada pela cópia dos documentos de transferência dos pontos e pelo laudo grafotécnico, que confirmou que foi a corré TANIA quem subscreveu a transferência dos pontos para seu nome (fls. 129/137) o que vem corroborado pela prova oral produzida em juízo.
+Os acusados confessaram a prática criminosa e a escrivã de polícia Gisele e o investigador de polícia Marcos confirmaram que os acusados são investigados por diversos fatos semelhantes, o que corrobora a certidão de fls. 11/15 dos autos que informa que, além dos documentos apontados na denúncia, inúmeros outros, de veículos de outras titularidades, haviam apontado o CPF da corré como real infrator, demonstrando a habitualidade delitiva.
+Foram ouvidos, ainda, o diretor do DETRAN João Victor, que confirmou ter recebido os pedidos de transferência e Stella, que explicou que vendeu sua motocicleta e não sabia quem era o condutor que havia cometido as infrações.
+Assinou os avisos de indicação de condutor e seu marido levou para um despachante. Soube que as multas foram passadas para uma pessoa chamada Tania, mas não a conhece.
+A alegação de que TANIA assinava o documento porque queria ajudar, sem dolo específico, não pode ser acolhida.
+O dolo específico, no caso do delito de falsidade ideológica, é de alterar a verdade sobre fato juridicamente relevante. E por mais que ela pretendesse com sua assinatura ajudar as pessoas que procuravam seu irmão, fica evidente que ela tinha ciência que essa ajuda decorria da inserção de dados falsos para alterar a verdade sobre fato juridicamente relevante, ou seja, o nome e qualificação da pessoa que praticou as infrações de trânsito. Evidenciado, portanto, o dolo específico do tipo penal do artigo 299 do Código Penal.
+E nem se diga haver falta de dolo no delito cometido pelo réu MARCOS que, além do mais, é despachante, com autorização de trabalhar com documentos públicos o que intensifica mais sua responsabilidade penal e sua culpabilidade, além de possuir dolo direto de alterar verdade em documento relevante (aviso de infração).
+O crime é formal e consuma-se com a efetiva inserção dos dados falsos na declaração subscrita, sendo desnecessária a ocorrência do efeito jurídico desejado.
+O conjunto probatório, portanto, é apto e suficiente para embasar o decreto condenatório, revelando-se desarrazoado cogitar da incidência, na espécie, de qualquer das hipóteses de absolvição previstas no artigo 386 do Código de Processo Penal, tendo o édito condenatório sido proferido em consonância com os princípios constitucionais penais e processuais penais norteadores do ordenamento pátrio.
+Conforme se observa, a Corte estadual asseverou a existência de provas suficientes para justificar a condenação dos réus pela conduta do art. 299 do Código Penal, em especial o dolo específico.
+Assim, mostra-se inviável a absolvição dos insurgentes, sobretudo considerando que, no processo penal, é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Para se entender pela absolvição dos acusados seria imprescindível o reexame do acervo fático-probatório, procedimento vedado em recurso especial, consoante a Súmula n. 7 desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ARTS. 299 E 304 DO CÓDIGO PENAL. ALEGAÇÕES DE QUE NÃO FOI DEMONSTRADO O DOLO ESPECÍFICO DO DELITO DE FALSIDADE IDEOLÓGICA E DE QUE NÃO HOUVE PREJUÍZO PARA A MUNICIPALIDADE APTO A JUSTIFICAR A NEGATIVAÇÃO DAS CONSEQUÊNCIAS DO CRIME. INVERSÃO DO JULGADO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PLEITO PELO RECONHECIMENTO DA CONTINUIDADE DELITIVA. INSUBSISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem concluiu que estão configurados todos os elementos necessários à tipificação dos delitos de falsidade ideológica, inclusive o dolo específico; bem como existir fundamento apto para a elevação da pena-base, na medida em que esses crimes causaram prejuízo à Prefeitura. A inversão do julgado encontra óbice na Súmula n. 7/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça, fixada no sentido de que "não se aplica a continuidade delitiva quando os crimes, em número expressivo, forem praticados em intervalo de tempo superior a 30 dias, circunstância objetiva que sinaliza a reiteração delitiva, e não a prática de delitos em continuação, a partir de um mesmo propósito originário." (AgRg no HC n. 784.960/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.223.085/RN, Rel. Ministra Laurita Vaz, 6ª T., DJe de 30/6/2023, destaquei)
+Por fim, o Tribunal de Justiça considerou "inviável o reconhecimento de crime único, porquanto foi requerida a transferência de pontos relativos a seis infrações distintas e ocorridas em momentos e locais diversos, constituindo cada preenchimento uma declaração falsa e, portanto, representando delitos autônomos" (fl. 464). Para rever o posicionamento seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado nesta via especial, ante a Súmula n. 7 do STJ.
+No tocante a alegação de que "a r. denúncia sequer descreve a quantidade de delitos que teriam sido praticados pelos recorrentes" (fl. 488), constato que não houve debate na origem e a defesa não opôs embargos declaratórios com o fim de oportunizar o afastamento da omissão pela Corte regional.
+Incidem, portanto, os óbices das Súmulas n. 282 e 356, ambas do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+XI - Compulsando os autos, verifico que, em nenhum momento, foi debatida, no Tribunal de origem, a tese de que deve ser afastado o reconhecimento da continuidade delitiva, tendo em vista que o Ministério Público não teria narrado, na exordial acusatória, uma pluralidade de fatos criminosos, o que também teria violado o princípio da correlação, de modo que a matéria não está devidamente prequestionada. Portanto, o agravante não atuou de forma a viabilizar o conhecimento do recurso especial, com a oposição dos embargos de declaração para ventilar a tese, acarretando a incidência dos óbices contidos nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+ ..
+(AgRg no REsp n. 1.592.633/PE, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 15/2/2024)
+No caso, a Corte estadual evidenciou que os réus "inseriram e fizeram inserir, em documento público, declaração falsa e diversa da que devia ser escrita, com o fim de alterar a verdade sobre fato juridicamente relevante" (fl. 460).
+A respeito da acusada Tânia, apontou o seguinte: "por mais que ela pretendesse com sua assinatura ajudar as pessoas que procuravam seu irmão, fica evidente que ela tinha ciência que essa ajuda decorria da inserção de dados falsos para alterar a verdade sobre fato juridicamente relevante, ou seja, o nome e qualificação da pessoa que praticou as infrações de trânsito. Evidenciado, portanto, o dolo específico do tipo penal do artigo 299 do Código Penal" (fls. 462-463).
+Em relação ao réu Marcos assinalou que "é despachante, com autorização de trabalhar com documentos públicos o que intensifica mais sua responsabilidade penal e sua culpabilidade, além de possuir dolo direto de alterar verdade em documento relevante (aviso de infração)" (fl. 463).
+Assim, a pretensão de ver analisada a alegação de ausência de dolo esbarra no óbice da Súmula n. 7 do STJ, por implicar a necessidade de revolvimento fático-probatório dos autos.
+À vista do exposto, nego provimento ao agravo regimental.
