@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. PRETENSÃO DE REDISCUSSÃO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos declaratórios são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+2. A irresignação dos embargantes se resume a seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Isso porque ficou devidamente justificado o não provimento do recurso, dada a incidência da Súmula n. 182 do STJ.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+CAMILA ROBERTA SORROCHE e RODRIGO DA SILVA opõem embargos declaratórios contra o acórdão de fls. 852-855, por meio do qual a Sexta Turma negou provimento ao agravo regimental, a fim de preservar o não conhecimento do agravo, pela incidência das Súmulas n. 7, 83 e 182 do STJ e 284 do STF.
+Em suas razões, a defesa sustenta quanto à aplicação da Súmula 182 do STJ que a "decisão é eminentemente omissa quanto a sua fundamentação, bem como dissonante da realidade dos autos" (fl. 863).
+Argumenta que não há qualquer oportunidade para análise valorativa das razões recursais.
+Pleiteia, assim, o acolhimento dos aclaratórios com efeitos infringentes, para que seja analisado o especial ou a concessão dos pedidos formulados de ofício.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. PRETENSÃO DE REDISCUSSÃO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos declaratórios são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+2. A irresignação dos embargantes se resume a seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Isso porque ficou devidamente justificado o não provimento do recurso, dada a incidência da Súmula n. 182 do STJ.
+3. Embargos de declaração rejeitados.
+VOTO
+Não obstante os esforços perpetrados pelos ora embargantes, não constato os vícios apontados no acórdão embargado, que assim registrou (fls. 854-855, destaques no original):
+No caso, a Corte de origem inadmitiu a pretensão com fulcro nas Súmulas n. 7 e 83 do STJ e 284 do STF (não comprovação do dissídio jurisprudencial).
+No agravo interposto contra tal decisão, não houve fundamentação clara, específica e pormenorizada a respeito da desnecessidade de se adentrar no acervo fático-probatório dos autos para alterar o entendimento da instância de origem.
+Na verdade, a parte apenas reiterou as razões recursais, afetas ao mérito, o que, na visão da jurisprudência desta Corte Superior, é insuficiente para superar o óbice processual.
+Quanto à impugnação à Súmula n. 7 do STJ, era imprescindível à parte individualizar, de forma específica e fundamentada, a desnecessidade de revolvimento subjetivo do conjunto fático e probatório, de modo a indicar as provas transcritas e reconhecidas no aresto recorrido, suficientes para o acolhimento de suas alegações, requisito que não foi adequadamente cumprido pelo recorrente.
+Ademais, no agravo interposto contra a inadmissão do recurso especial pelo Tribunal a quo, o recorrente não realizou a adequada impugnação da Súmula n. 83 do STJ.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que, "para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ" (AgRg no AREsp n. 1.823.881/PR, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 26/4/2021), o que não ocorreu na hipótese.
+Com efeito, os recorrentes não comprovaram a alteração do entendimento jurisprudencial desta Corte com precedentes mais modernos, tampouco demonstraram a inaplicabilidade dos julgados colacionados na decisão impugnada.
+No tocante ao óbice processual n. 284 do STF, era indispensável que os agravantes comprovassem a divergência jurisprudencial suscitada, promovendo o adequado cotejo analítico, com a exposição da similitude fática, requisito não preenchido. Nesse sentido, já se manifestou esta Corte (AgRg no AREsp n. 2.104.774/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe de 16/8/2022).
+Aliás, neste regimental, verifico também o mesmo vício, porquanto a defesa não rebate o único fundamento da decisão atacada, visto não demonstrar que o agravo interposto contra a inadmissão do recurso especial haveria combatido a totalidade dos motivos apontados para negar seguimento ao pleito.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestar efeitos infringentes aos aclaratórios.
+Sob essas premissas, no caso em análise, não verifico que o acórdão incorreu em omissão ou contradição, mas, reiterou a existência de óbices para o conhecimento do recurso especial, diante da ausência de impugnação específica aos fundamentos da decisão de inadmissão do recurso especial.
+Noto que a irresignação dos embargantes se resume a seu mero inconformismo com o resultado do julgado, que lhes foi desfavorável. Não há nenhum substrato jurídico que justifique a oposição dos embargos de declaração, isso porque ficou devidamente justificado o não conhecimento do recurso, dada a incidênc ia das Súmulas n. 7, 83 e 182 do STJ e 284 do STF.
+Quanto ao pedido de concessão de habeas corpus de ofício por este órgão colegiado, filio-me ao entendimento de que "é inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido na admissibilidade do recurso interposto (EDcl no AgRg nos EREsp 1.488.618/RS, Rel. Ministro Felix Fischer, 3ª S., DJe 27/10/2015)" (EDcl no AgRg no AREsp n. 1.640.723/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/4/2021, destaquei).
+Ainda: "Nos termos do art. 654, § 2º, do Código de Processo Penal, os tribunais podem deferir ordem de habeas corpus de ofício, quando reconhecerem hipótese de flagrante ilegalidade. O writ, porém, não é meio para a defesa obter pronunciamento judicial a respeito de matéria de mérito de recurso que não ultrapassa os requisitos de admissibilidade " (AgRg nos EDcl no AREsp n. 1.742.926/SP, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 12/3/2021, grifei).
+Desse modo, concluo ser inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido à admissibilidade do recurso interposto.
+À vista do exposto, rejeito os embargos de declaração.
