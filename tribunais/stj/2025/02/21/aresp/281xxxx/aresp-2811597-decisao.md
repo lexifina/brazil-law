@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por GEAP AUTOGESTAO EM SAUDE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+DIREITO DO CONSUMIDOR. PIANO DE SAÚDE. CANCELAMENTO FUNDAMENTADO NA INADIMPLÊNCIA DO CONSUMIDOR. PRÉVIA NOTIFICAÇÃO NÃO COMPROVADA. DEVOLUÇÃO DO AVISO DE RECEBIMENTO. IMPOSSIBILIDADE DE CANCELAMENTO AUTOMÁTICO E UNILATERAL DO CONTRATO. VIOLAÇÃO AOS PRINCÍPIOS DA INFORMAÇÃO E BOA-FÉ CONTRATUAL. FALHA NA PRESTAÇÃO DO SERVIÇO RESTOU SUFICIENTEMENTE CAR CTERIZADORA DO ATO ILÍCITO. DANO MORAL EXISTE IN RE IPSA (PRESUMIDO). PEDIDO DE REDUÇÃO DO VALOR ARBITRADO A TITULO DE INDENIZAÇÃO POR DANO MORAL. INDEFERIDO. RETIFICAÇÃO DE OFÍCIO DOS CONSECTÁRIOS LEGAIS. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+Quanto à primeira controvérsia, pela alínea "c" do permissivo constitucional, a parte alega divergência de interpretação jurisprudencial no que concerne à inaplicabilidade do CDC às operadoras de plano de saúde na modalidade de autogestão, trazendo a seguinte argumentação:
+Conforme consta do R. acórdão atacado, o Tribunal a quo fundamentou a sua decisão no Código de Defesa do Consumidor. Tal diploma, contudo, não se aplica às operadoras de plano de saúde constituídas na modalidade de Autogestão.
+Tal entendimento já se encontra pacificado na jurisprudência do STJ há mais de 05 (cinco) anos. A título de exemplo, citamos o acórdão proferido no julgamento do agravo interno no agravo em recurso especial: AgInt no AREsp 1.869.093 publicado em 03/11/2021: (fls. 294-295).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação dos arts. 186, 187 e 927 do CC, no que concerne à indevida condenação da parte recorrente ao pagamento de indenização por danos morais, porquanto não houve prática de ato ilícito e inexiste violação à honra, à imagem ou à personalidade, trazendo a seguinte argumentação:
+Consoante se extrai dos autos, é visível que não há qualquer fato capaz de atingir a honra ou imagem da parte recorrida a ponto de lhe provocar dano moral passível de indenização.
+O plano de saúde foi cancelado única e exclusivamente por responsabilidade do beneficiário, como restou amplamente demonstrado.
+A GEAP agiu em pleno exercício de um direito ao cancelar o plano de saúde, visto que só é obrigada a prestar o serviço se houve contraprestação por parte do beneficiário.
+Assim, incabível a condenação da Fundação a pagar qualquer indenização de cunho moral, já que em nenhum momento cometeu qualquer ato ilícito.
+O cancelamento ocorreu de acordo com as normas previstas no Regulamento do Plano, não havendo eu se falar em ato ilegal ou abusivo da Apelante.
+Cumpre destacar, nesse ponto, que os meros inadimplementos contratuais não ensejam a reparação moral, pois não passam de meros dissabores do cotidiano, conforme se passará a expor.
+A Apelante deveria demonstrar quais danos morais foram causados, mas na exordial não há nenhuma alegação de que tenha sofrido qualquer tipo de abalo!
+ ..
+Frise-se, a parte Recorrida não narra de forma contundente nenhum abalo ou sentimento capaz de ensejar reparação por danos morais.
+ ..
+Ainda que se considerasse ato ilícito pela Recorrente, esse tratar-se-ia de mero descumprimento contratual. Porém, embora o descumprimento de um contrato possa trazer aborrecimento, transtorno e desgosto, não tem o condão de ocasionar uma inquietação ou um desequilíbrio, que fuja da normalidade, a ponto de configurar uma indenização a título de danos morais (fls. 296-297).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, incide a Súmula n. 284/STF, tendo em vista que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17.3.2014.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.616.851/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt no AREsp 1.518.371/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15.5.2020; AgInt no AREsp 1.552.950/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8.5.2020; AgInt no AREsp 1.023.256/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24.4.2020; e AgInt nos EDcl no AREsp 1.510.607/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 1º.4.2020.
+Quanto à segunda controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso, tem-se que a matéria vertente diz respeito à indenização por danos morais por supostos danos atribuídos a plano de saúde, fundado na falha da prestação de serviços, cuja responsabilidade é objetiva, nos termos da jurisprudência do Superior Tribunal de Justiça:
+ ..
+Nestes termos, tem-se que o Magistrado de 1º grau agiu com acerto ao fixar indenização por dano moral, diante da afronta aos direitos do consumidor, no momento da negativa da prestação do serviço, devido a suspensão do plano de saúde (fl. 285).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
