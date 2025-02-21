@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CANAÃ INDÚSTRIA DE LATICÍNIOS LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO CAUTELAR ANTECEDENTE - GRATUIDADE PROCESSUAL - PESSOA JURÍDICA DE DIREITO PRIVADO SEM FINS LUCRATIVOS - INDEFERIMENTO DO PEDIDO - SOLVABILIDADE DA AGRAVANTE - NECESSIDADE DO BENEFÍCIO NÃO DEMONSTRADA - AGRAVO IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 98 do CPC, no que concerne à comprovação da hipossuficiência financeira da recorrente, razão pela qual faz jus ao benefício da gratuidade de justiça, trazendo a seguinte argumentação:
+A Recorrente atualmente não possui fonte de renda suficiente para arcar sequer com custas processuais e com qualquer despesa, devido ao momento financeiro difícil que vem enfrentado. Aliás, em razão da crise financeira experimentada, apresenta ausência de liquidez, impossibilitando o pagamento de qualquer condenação judicial.
+ ..
+A situação da Recorrente está tão grave que encontra dificuldade, inclusive, de pagamento de uma consultoria contábil, motivo pelo qual não se tem levantamento atual.
+Neste ponto, o acórdão recorrido fere disposto legal, qual seja, o artigo 98 do Código de Processo Civil, que estabelece que a justiça gratuita pode ser concedida em virtude da impossibilidade do pagamento, incluindo por imperativo os honorários de sucumbência
+ ..
+No que tange a apresentação de documentos, nota- se pelo balanço patrimonial contábil do ano de 2020 que o prejuízo da empresa naquele período totalizou o numerário considerável de R$26.153.467,38 (vinte e seis milhões cento e cinquenta e três mil quatrocentos e sessenta e sete reais e trinta e oito centavos).
+Neste passo, a empresa Recorrente logrou em realizar também o balanço contábil correspondente ao ano de 2021, que comprova que o prejuízo financeiro da empresa naquele ano soma o quantitativo exorbitante de R$6.824.386,84(seis milhões oitocentos e vinte e quatro mil oitocentos e trezentos e oitenta e seis reais e oitenta e quatro centavos), totalizando um prejuízo acumulado de R$32.977.854,22.
+Contudo, concernente as documentações contábeis posteriores (2022 e 2023), a requerente não mais as realizou, justamente em virtude da insuficiência de recursos para custear o expert contábil responsável em confeccionar o balanço patrimonial da peticionante.
+Ainda, como prova de insuficiência aduzida, a Recorrente está em atraso com vários funcionários, possui diversas dívidas trabalhistas e cíveis, saldo bancário negativo e dívidas com fornecedores, restando demonstrada a incapacidade financeira para arcar com as despesas judiciais.
+ ..
+Nesse contexto, consoante documentos comprobatórios que reconhecem a hipossuficiência financeira da empresa, faz-se necessário e de direito o deferimento da benesse pretendida, de gratuidade da justiça, sob pena de afronta aos princípios da inafastabilidade da jurisdição e do duplo grau de jurisdição, estes consubstanciados nos incisos XXXV e LXXIV, do art. 5º da Constituição Federal (fls. 168/173).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+"In casu", como asseverou a MMa. Magistrada de Primeiro Grau (fls. 540 dos autos de origem), os demonstrativos contábeis trazidos aos autos, unilateralmente produzidos, não se prestam a demonstrar a hipossuficiência da empresa. Ademais, a existência de ações em desfavor da parte não produz, por si só, presunção de hipossuficiência.
+Irresignada, a autora opôs o presente recurso com documentos da saúde financeira empresarial desatualizados, do ano de 2020, sendo instada a apresentar o mais atual, do ano de 2022, e não o fez, mesmo lhe sendo concedidos 20 (vinte) dias de prazo para tanto. Apresentou balanço patrimonial do ano de 2021 e declaração de faturamento do ano de 2022 e parcial do ano 2023, ainda explicando que "a Contabilidade da empresa, mudou em março de 2023 e, estão encontrando todos os documentos solicitados.." (fls. 57).
+Desses documentos complementares (fls. 58/76), dos quais não constam o balanço patrimonial do exercício de 2022, é possível depreender, pela Declaração de Faturamento, que a empresa no período de maio de 2022 a abril de 2023 teve um faturamento de quase 16 milhões de reais.
+Ainda, há de se ressaltar que eventuais dívidas de uma empresa não se revelam suficientes para demonstrar a hipossuficiência alegada. A existência de débitos não se confunde com ausência de patrimônio ou absoluta impossibilidade financeira, não tendo o condão de mensurar a capacidade econômica da parte (fl. 163).
+Tal o contexto , incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
