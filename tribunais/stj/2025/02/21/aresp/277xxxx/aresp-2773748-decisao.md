@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo JUDITE PINTO DE SOUZA contra decisão que inadmitiu o recurso especial, pela ausência de violação aos arts. 489 e 1.022, do CPC, pela impossibilidade de análise de dispositivo constitucional, bem como pela incidência da Súmula 7/STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos, já que:
+o acórdão regional que apreciou os embargos de declaração é nulo, porquanto contraria o disposto no (artigo 1.022, II, parágrafo único, II, c/c o art. 489, §1º, do CPC), devendo a decisão agravada ser reformada para que o recurso especial seja conhecido e provido, retornando os autos à instância de origem para que haja a adequada prestação jurisdicional e a devida fundamentação quanto às questões ventiladas pela embargante, ora recorrente; ou, subsidiariamente, para julgar de pronto procedente o pleito
+ ..
+Quanto a violação à Lei Federal e dissídio Jurisprudencial, a decisão da Presidente do Tribunal de Justiça do Estado do Tocantins não se manifestou, motivo por que o presente recurso apenas irá abordar a questão relativa à omissão.
+ ..
+aqui, os motivos genéricos sequer identificaram os dispositivos legais cuja violação foi apontada, seguindo-se a não menos genérica invocação da Súmula 7/STJ, sem se precisar, concretamente, quais fatos haveriam de ser revistos na instância superior.
+Contrarrazões apresentadas às fls. 619-640.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+Quanto a alegada negativa de prestação jurisdicional, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+A pretensão da parte recorrente relativa à violação ao art. 14, do Código Direito Consumidor encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador em relação a alegação do agravante de que houve interrupção indevida no fornecimento de energia elétrica situada na zona rural e configuração de in re ipsa em relação aos danos morais, seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023 - grifo nosso).
+Ademais, não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+Por fim, cumpre registrar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência  por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados  , nos termos do art. 541, parágrafo único, do CPC/1973; e do art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
