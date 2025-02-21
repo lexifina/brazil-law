@@ -1,0 +1,1 @@
+Artigo 9° - As funções-atividades em confiança e os cargos em comissão originários do DAEE deverão observar o parágrafo único do artigo 23 da Lei Complementar n° 1.395, de 22 de dezembro de 2023, e o disposto no artigo 4° das Disposições Transitórias da mesma lei complementar, e na conformidade do "caput" e do § 1° do artigo 7° das Disposições Transitórias desta lei complementar.

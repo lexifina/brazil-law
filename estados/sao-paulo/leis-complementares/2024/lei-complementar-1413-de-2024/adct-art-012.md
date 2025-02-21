@@ -1,0 +1,3 @@
+Artigo 12 - Até que ocorra, no âmbito da ARTESP, ARSESP e SP-ÁGUAS, o provimento de cargo em comissão (Cargos em Comissão do Estado de São Paulo- CCESP), em conformidade com o disposto no artigo 23 da Lei Complementar n° 1.395, de 22 de dezembro de 2023, fica assegurada a percepção das seguintes vantagens pecuniárias:
+I - ao Especialista em Regulação de Transporte, ao Analista de Suporte à Regulação de Transporte e ao Agente de Fiscalização à Regulação de Transporte, o "pró-labore", nas condições previstas no artigo 11 da Lei Complementar n° 1.267, de 14 de julho de 2015;
+II - ao Especialista em Regulação e Fiscalização e ao Analista de Suporte à regulação, o "pró-labore", nas condições previstas no artigo 11 da Lei Complementar n° 1.322, de 15 de maio de 2018.

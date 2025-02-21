@@ -1,0 +1,1 @@
+Artigo 4° - Até a posse do primeiro indicado para ocupar o emprego público em confiança de Diretor-Presidente da ARSESP, a partir da publicação desta lei complementar, a presidência desta agência reguladora será exercida na forma estabelecida no "caput" do artigo 17 da Lei Complementar n° 1.025, de 7 de dezembro de 2007.
