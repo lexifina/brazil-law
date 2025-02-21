@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por Roberto Rodrigo Di Jackson Oliveira Freitas contra acórdão do Tribunal de Justiça do Estado do Ceará nos autos do HC n. 0633173-84.2024.8.06.0000.
+O Tribunal de origem conheceu parcialmente da impetração e, na parte conhecida, denegou a ordem, rejeitando a alegação de nulidade por cerceamento de defesa na realização da audiência de instrução sem a integralidade das provas nos autos e julgando prejudicada a tese de excesso de prazo.
+O paciente foi condenado à pena de 25 anos, 6 meses e 10 dias de reclusão, além de 2.184 dias-multa, em regime inicial fechado, pela prática dos crimes tipificados no art. 2º, caput, e §§2º e 3º da Lei n. 12.850/2013, arts. 33 e 35 da Lei n. 11.343/2006 e art. 16 da Lei n. 10.826/2003, em concurso material.
+No presente recurso, sustenta a defesa nulidade da audiência realizada sem a juntada integral das mídias que embasaram a denúncia, impossibilitando o exercício do contraditório e da ampla defesa. Aduz que, quando solicitou acesso às mídias, foi informada que haviam sido excluídas dos HDs externos da delegacia. Requer a anulação da audiência e, como consequência do eventual retorno à fase instrutória, o reconhecimento do excesso de prazo da custódia cautelar.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 478-483).
+É o relatório.
+DECIDO.
+O recurso não merece provimento.
+O Tribunal de origem rejeitou a alegação de nulidade consignando que a alegada nulidade foi sanada, uma vez que realizada nova extração de dados pela autoridade policial, e que após a nova extração de dados não foi consignado pela defesa, em nenhum momento, qualquer pedido de realização de nova perícia, não sendo permitido reabrir a instrução a qualquer tempo (fl. 430).
+Acrescentou que a materialidade do crime de organização criminosa prescinde da realização da perícia, podendo ser comprovada por outros meios, não havendo que se falar em nulidade processual por cerceamento de defesa, pois há no processo outros meios de provas capazes de embasar o convencimento do julgador (fl. 431).
+De fato, não há nulidade a ser reconhecida. A eventual falha na disponibilização inicial das mídias foi sanada com nova extração dos dados, sem que a defesa tenha demonstrado prejuízo concreto ou apresentado qualquer evidência de adulteração do material. Ressalte-se que a demonstração de prejuízo concreto é necessária para o reconhecimento de nulidade por cerceamento de defesa (AgRg no HC n. 957.430/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025).
+Quanto ao excesso de prazo, a tese está prejudicada, tendo em vista que o processo já foi sentenciado, encontrando-se em fase de cumprimento dos expedientes de intimação e respectivas certificações, bem como processamento dos recursos para posterior envio a esta Corte de Justiça (fl. 432).
+A manutenção da prisão preventiva, por sua vez, está devidamente fundamentada na gravidade concreta dos fatos, tendo o Juízo destacado que o réu é apontado como liderança do Comando Vermelho, tendo sido preso em situação que foram apreendidos quase duas toneladas de cocaína, sendo, portanto liderança responsável criminalmente por crime de organização criminosa e tráfico de drogas, restando demonstrada a necessidade de se manter a segregação cautelar, pois a sua soltura representa abalo à ordem pública (fl. 396).
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
