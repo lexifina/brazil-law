@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto MADEIREIRA FORTE EIRELI-ME contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, no qual alega divergência jurisprudencial e violação do art. 85 do Código de Processo Civil - CPC/2015, pretendendo honorários advocatícios de sucumbência em razão do acolhimento da exceção de pré-executividade para redução do montante dos juros de mora incidentes sobre o débito tributário cobrado em execução fiscal.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na Súmula 83 do STJ, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+A Primeira Seção, no REsp 1.185.036/PE, sob a relatoria do em. Min. Herman Benjamin, decidiu ser "possível a condenação da Fazenda Pública ao pagamento de honorários advocatícios em decorrência da extinção da Execução Fiscal pelo acolhimento de Exceção de Pré-Executividade".
+Possível, não obrigatória, pois só "é cabível a fixação da verba honorária quando a exceção de pré-executividade for acolhida para extinguir total ou parcialmente a execução, em homenagem aos princípios da causalidade e da sucumbência" (AgInt nos EDcl no REsp 1769192/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/11/2019, DJe 18/11/2019). No mesmo sentido, dentre outros: AgInt no AREsp 1249589/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/12/2020, DJe 18/12/2020.
+Nessa linha, ao incluir, na cobrança, juros moratórios superiores ao permitido na legislação ocorre sucumbência parcial do Estado; e, assim, embora a cobrança continue a tramitar pelo saldo remanescente, nada impede o arbitramento de verba honorária sobre o respectivo valor extirpado do título executivo.
+A respeito, dentre outros:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REDUÇÃO DO VALOR EXECUTADO (JUROS MORATÓRIOS). HONORÁRIOS SUCUMBENCIAIS DO ADVOGADO. CABIMENTO.
+1. Se houve redução dos juros moratórios indicados na Certidão de Dívida Ativa, é cabível o arbitramento de honorários advocatícios pelo acolhimento da exceção de pré-executividade. Precedente.
+2. No caso dos autos, o acórdão está em conformidade com essa orientação, pois houve sucumbência parcial do Estado ao incluir na cobrança juros moratórios superiores ao permitido na legislação; assim, embora a cobrança continue a tramitar pelo saldo remanescente, nada impede o arbitramento de verba honorária sobre o valor extirpado do título executivo.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.903.773/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/5/2021, DJe de 19/5/2021)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO PARCIAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EQUIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. O Superior Tribunal de Justiça consolidou orientação segundo a qual o acolhimento da exceção de pré-executividade, ainda que parcial, enseja arbitramento de verba honorária. Precedentes.
+2. Na hipótese, a execução fiscal foi parcialmente extinta em relação ao reconhecido excesso de juros moratórios inicialmente cobrados com base na Lei estadual n. 13.918/2009.
+3. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice conhecimento estampado na Súmula 83 do STJ.
+4. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial (art. 85, § 8º, do CPC, in casu), há falta do prequestionamento, o que faz incidir na espécie o óbice da Súmula 282 do STF.
+5. Agravo interno desprovido.
+(AgInt no REsp 1861569/SP, relator Ministro Gurgel De Faria, Primeira Turma, julgado em 14/09/2020, DJe de 16/09/2020)
+No caso dos autos, o órgão julgador a quo concluiu: "não houve extinção da execução fiscal, nem mesmo parcial. Manteve-se hígida a liquidez da dívida principal. O que se determinou foi apenas a revisão dos encargos acessórios (juros e correção monetária), tudo para se ajustar ao entendimento do excelso Supremo Tribunal Federal definido no Tema 1.062".
+No contexto, o acórdão recorrido se revela contrário à orientação jurisprudencial deste tribunal superior; e, por isso, o recurso deve ser provido, o acórdão recorrido cassado e os autos devem retornar ao juízo da execução para decidir a respeito do arbitramento dos honorários advocatícios no caso concreto, observada a proporção da sucumbência do Estado e consideradas a Certidão de Dívida Ativa - CDA e a legislação estadual pertinente (v.g.: AgInt no REsp n. 2.073.867/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2023, DJe de 21/9/2023).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, casso o acórdão recorrido e determino o retorno dos autos ao juízo da execução para que decida a respeito do arbitramento dos honorários advocatícios de sucumbência.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REDUÇÃO DO VALOR EXECUTADO (JUROS MORATÓRIOS SUPERIORES À TAXA SELIC). HONORÁRIOS SUCUMBENCIAIS DO ADVOGADO. CABIMENTO. POSSIBILIDADE. RECURSO PROVIDO.
