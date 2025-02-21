@@ -1,0 +1,34 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 144).
+O embargante alega que o julgado embargado "foi omisso na análise do caso comento, vez que tanto a própria lei reconhece o caráter mundial da internet, e por consequência das publicações em perfil aberto, como também a conduta do agente não está direcionada à pessoa específica, vez que seu próprio comentário sequer cita o nome da suposta vítima" (e-STJ fl. 154) e requer o acolhimento dos embargos de declaração, com efeitos modificativos.
+Impugnação apresentada pelo Ministério Público Federal, manifestando-se pela rejeição dos aclaratórios (e-STJ fls. 160-162).
+É o relatório.
+Decido.
+Os Embargos de Declaração são tempestivos.
+No entanto, não ficou demonstrado nenhum vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões para o não conhecimento do habeas corpus (e-STJ fls. 144-147):
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal. Veja-se:
+ ..
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, o que não verifico.
+Conforme destacado pelas instâncias ordinárias, a ofensa proferida pelo paciente foi dirigida a pessoa determinada, devidamente identificada, o que afasta a competência da Justiça Federal. Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. INQUÉRITO POLICIAL. RACISMO EM COMENTÁRIO VEICULADO NA INTERNET. DIZERES OFENSIVOS RELACIONADOS A PESSOA DETERMINADA. AUSÊNCIA DE CARÁTER TRANSNACIONAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. A Justiça Federal é competente, conforme disposição do inciso V do art. 109 da Constituição da República, quando se tratar de infrações previstas em tratados ou convenções internacionais, como é caso do racismo, previsto na Convenção Internacional sobre a Eliminação de todas as Formas de Discriminação Racial, da qual o Brasil é signatário (CC 132.984/MG, Rel. Ministro GURGEL DE FARIA, Rel. p/ Acórdão Ministro MOURA RIBEIRO, TERCEIRA SEÇÃO, julgado em 28/05/2014, D Je 02/02/2015).
+2. Isso não obstante, o mero fato de o delito de racismo ter sido praticado pela internet não atrai, automaticamente, a competência da Justiça Federal, sendo necessário demonstrar a internacionalidade da conduta e/ou de seus resultados, assim como a intenção de atingir coletividade. Precedente: AgRg nos EDcl no CC 120.559/DF, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 11/12/2013, D Je 19/12/2013.
+3. Situação em que os comentários racistas e ofensivos foram dirigidos a pessoa nacional determinada.
+4. Conflito conhecido, para declarar a competência do Juízo de Direito da 2ª Vara Criminal da Comarca de Porto Velho/RO, o suscitado.
+(CC n. 145.938/RO, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 27/4/2016, D Je de 4/5/2016.)
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. HOMOFOBIA. RACISMO EM SUA DIMENSÃO SOCIAL. CONTEÚDO DIVULGADO NO FACEBOOK E NO YOUTUBE. COMPETÊNCIA DA JUSTIÇA FEDERAL. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O TRIBUNAL SUSCITANTE.
+1. O Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade por Omissão n. 26, de relatoria do Ministro Celso de Mello, deu interpretação conforme à Constituição, "para enquadrar a homofobia e a transfobia, qualquer que seja a forma de sua manifestação, nos diversos tipos penais definidos na Lei nº 7.716/89, até que sobrevenha legislação autônoma, editada pelo Congresso Nacional".
+2. Tendo sido firmado pelo Supremo Tribunal Federal o entendimento de que a homofobia traduz expressão de racismo, compreendido em sua dimensão social, caberá a casos de homofobia o tratamento legal conferido ao crime de racismo.
+3. No caso, os fatos narrados pelo Ministério Público estadual indicam que a conduta do Investigado não se restringiu a uma pessoa determinada, ainda que tenha feito menção a ato atribuído a um professor da rede pública, mas diz respeito a uma coletividade de pessoas.
+4. Demonstrado que as falas de suposto cunho homofóbico foram divulgadas pela internet, em perfis abertos da rede social Facebook e da plataforma de compartilhamento de vídeos Youtube, ambos de abrangência internacional, está configurada a competência da Justiça Federal para o processamento e julgamento do feito.
+5. Conflito conhecido para declarar competente o Tribunal Regional Federal da 4.ª Região, o Suscitante.
+(CC n. 191.970/RS, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/12/2022, D Je de 19/12/2022.) (Grifos acrescidos)
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade. (grifamos)
+A decisão embargada consigna expressamente a razão pela qual entendeu não haver a caracterização de flagrante ilegalidade para a concessão de ofício, notadamente, porque a ofensa proferida pelo paciente foi dirigida a pessoa determinada, o que afasta a competência da Justiça Federal.
+Os presentes embargos, portanto, refletem mera irresignação da parte com o resultado do julgamento, o que revela o seu descabimento.
+Nesse sentido, importa destacar que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, relator Minist ro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
