@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público do Rio Grande do Norte contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da CF) apresentado contra o acórdão proferido pelo Tribunal de Justiça local (Habeas Corpus Criminal n. 0805806-14.2024.8.20.0000) que concedeu a ordem de habeas corpus em favor de Claudimar Oliveira da Silva, para suspender o curso do processo penal e do prazo prescricional em razão do parcelamento do crédito tributário.
+Nas razões do recurso especial, o órgão ministerial suscitou violação dos arts. 396 do Código de Processo Penal e 83, § 2º, da Lei n. 9.430/1996 (fls. 764/785).
+A Corte de origem inadmitiu o recurso com fundamento nas Súmulas 283 e 284/STF (fls. 810/823).
+Contra o decisum o órgão ministerial interpôs o presente agravo (fls. 825/839).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo provimento do recurso especial, nos termos do parecer assim ementado (fls. 900/903):
+AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. PARCELAMENTO DO CRÉDITO TRIBUTÁRIO APÓS O RECEBIMENTO DA DENÚNCIA. INAPLICÁVEL A SUSPENSÃO DO PROCESSO. ART. 83, §2º, DA LEI 9.430/96 COM A REDAÇÃO DADA PELA LEI 12.382/11. INAPLICABILIDADE DAS SÚMULAS 283 E 284 DO STF. RECURSO ESPECIAL ADEQUADAMENTE FUNDAMENTADO.
+PARECER PELO CONHECIMENTO E PROVIMENTO DO AGRAVO.
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+No que diz respeito à admissibilidade, observo que o recurso especial comporta conhecimento, pois não trata a presente hipótese de incidência das Súmulas 283 e 284/STF. A leitura da peça recursal revela que o recurso impugnou todos os fundamentos em que se assenta a decisão recorrida, bem como que a fundamentação é suficiente e permite a exata compreensão da controvérsia.
+Quanto ao mérito do recurso especial, entendo que a insurgência merece acolhida porque o acórdão recorrido contrariou a jurisprudência do Superior Tribunal de Justiça.
+Com efeito, o Ministério Público do Rio Grande do Norte ofereceu denúncia contra o agravado, imputando-lhe o crime contra a ordem tributária previsto no art. 2º, II, da Lei n. 8.137/1990 (fls. 471/474). Em data posterior ao recebimento da denúncia, o agravado formalizou adesão a parcelamento do crédito tributário.
+Embora o art. 83, § 2º, da Lei n. 9.430/1996, na redação que lhe foi dada pela Lei n. 12.382/2011, estabeleça que a suspensão da pretensão punitiva ocorre desde que o pedido de parcelamento tenha sido formalizado antes do recebimento da denúncia criminal, o Tribunal de origem concedeu ordem de habeas corpus em favor do agravado para suspender o curso do processo penal e do prazo prescricional, ainda que o parcelamento do débito tributário tenha sido formalizado após o recebimento da denúncia.
+O acórdão recorrido, portanto, não está em sintonia com a jurisprudência dominante desta Corte Superior. Nesse sentido:
+RECURSO EM HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, II, DA LEI N. 8.137/1990, C/C O ART. 71 DO CP. SUSPENSÃO DA AÇÃO PENAL (ART. 83, § 2º, DA LEI N. 9.430/1996). IMPOSSIBILIDADE. PARCELAMENTO DO DÉBITO TRIBUTÁRIO APÓS O RECEBIMENTO DA DENÚNCIA (ART. 396 DO CPP). PRECEDENTES DESTA CORTE.
+Recurso improvido.
+(RHC n. 170.562/CE, da minha relatoria, Sexta Turma, DJe 28/10/2022).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. PARCELAMENTO DO CRÉDITO TRIBUTÁRIO. FORMALIZAÇÃO APÓS O RECEBIMENTO DA DENÚNCIA. IMPOSSIBILIDADE DE SUSPENSÃO DO PROCESSO. ART. 83, § 2º, DA LEI 9.430/1996. 2. ADI 4.273/DF. CONSTITUCIONALIDADE DAS LEIS 11.941/2009 E 10.684/2003. NORMAS QUE NÃO SE APLICAM À HIPÓTESE. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias não acolheram o pleito defensivo, assentando que a atual redação do art. 83, § 2º, da Lei n. 9.430/1996, dada pela Lei n. 12.382/2011, autoriza a suspensão da pretensão punitiva estatal apenas nas hipóteses em que o parcelamento tenha sido realizado antes do recebimento da denúncia, o que não é a hipótese dos autos.
+Nesse contexto, verifica-se que o acórdão impugnado encontra-se em consonância com a jurisprudência desta Corte Superior, que é no sentido de que a "Lei n. 12.382/2011 determinará a suspensão da pretensão punitiva do Estado, desde que o parcelamento do débito tributário tenha sido formalizado antes do recebimento da denúncia" (AgRg no HC n. 439.362/RS, Quinta Turma, Relator Ministro Ribeiro Dantas, julgado em 2/8/2018, DJe de 9/8/2018).
+2. A Ação Direta de Inconstitucionalidade n. 4.273/DF tratou da constitucionalidade das Leis n. 11.941/2009 e 10.684/2003, as quais não têm aplicação à presente hipótese, que é regida pela redação dada pela Lei n. 12.382/2011 à Lei n. 9.430/1996. Nesse contexto, nenhum dos argumentos trazidos pela defesa é capaz de desconstituir a jurisprudência sedimentada no sentido da validade do disposto no art. 83, § 2º, da Lei n. 9.430/1996.
+3. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 199.531/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/9/2024 - grifo nosso).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de reformar o acórdão recorrido e denegar a ordem de habeas corpus, restabelecendo o curso do processo e do prazo de prescrição desde a sua suspensão.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 2º, II, DA LEI N. 8.137/1990. ART. 396 DO CPP. PARCELAMENTO DO CRÉDITO TRIBUTÁRIO. FORMALIZAÇÃO APÓS O RECEBIMENTO DA DENÚNCIA. SUSPENSÃO DO PROCESSO. IMPOSSIBILIDADE. ART. 83, § 2º, DA LEI N. 9.430/1996.
+Agravo conhecido para dar provimento ao recurso especial.
