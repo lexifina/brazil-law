@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por José Mario de Melo Barros Junior contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que denegou a ordem no HC n. 1.0000.24.427682-0/000.
+O Tribunal de origem denegou a ordem de habeas corpus que objetivava a reforma da decisão que indeferiu a oitiva de testemunhas arroladas pela defesa após o prazo do art. 422 do CPP, em razão da preclusão temporal.
+O recorrente foi denunciado pela prática do crime previsto no art. 121, § 2º, incisos II, III e IV, do Código Penal, tendo sido pronunciado.
+No presente recurso, alega cerceamento de defesa em razão do indeferimento do rol de testemunhas apresentado para a sessão plenária do júri. Requer o deferimento da oitiva das testemunhas de defesa.
+O pedido liminar foi indeferido às fls. 1867-1870.
+Informações prestadas às fls. 1878-1912.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 1914-1916).
+É o relatório.
+DECIDO.
+O Tribunal de origem manteve decisão do Juízo de primeiro grau, segundo a qual a Defesa do acusado José Mário de Melo Barros Junior, devidamente intimada (ID 10192891293), não arrolou as testemunhas indicadas no momento oportuno, nos termos do artigo 422, do CPP, operando a preclusão (fl. 1826). Ainda segundo o acórdão recorrido (fls. 1826-1827):
+In casu, a douta Defesa não demonstrou qualquer motivo idôneo para não se manifestar dentro do prazo previsto no artigo 422 do Código Penal.
+Noutro giro, é certo que o paciente estava regularmente assistido por advogado, ao qual foi devidamente conferida a oportunidade de arrolar testemunhas, assim como ao Ministério Público. O fato de o defensor ter permanecido inerte, embora possa causar no ora paciente estranheza ou revolta, não caracteriza nulidade.
+O art. 422 do CPP estabelece o prazo de 5 dias, após a intimação da defesa, para apresentação do rol de testemunhas que irão depor em plenário do júri. No caso, a defesa foi regularmente intimada e deixou transcorrer in albis o prazo legal.
+A preclusão temporal opera-se quando a parte não pratica o ato processual no momento adequado. Uma vez configurada, não é possível retornar à fase anterior do procedimento.
+No processo penal, embora vigore o princípio da ampla defesa, este deve ser exercido nos momentos processuais oportunos, sob pena de preclusão. A inércia da defesa técnica em apresentar o rol de testemunhas no prazo legal não configura cerceamento de defesa.
+O indeferimento do pedido extemporâneo de oitiva de testemunhas em plenário está em consonância com o devido processo legal e não caracteriza constrangimento ilegal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO. TRÂNSITO EM JULGADO. PRETENSÃO REVISIONAL. USURPAÇÃO DA COMPETÊNCIA DO TRIBUNAL DE ORIGEM. NULIDADE. ALEGADA VIOLAÇÃO DA PLENITUDE DE DEFESA. INEXISTÊNCIA. PLEITO DE OUVIDA DE TESTEMUNHA NA SESSÃO PLENÁRIA. ART. 422 DO CPP. AGRAVO DESPROVIDO.
+1. No caso, a condenação do paciente transitou em julgado em 21/2/2024, razão pela qual a utilização do presente habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstancia pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea e 108, inciso I, alínea b, ambos da Constituição da República.
+2. "Nos termos do art. 422 do CPP, o Juiz Presidente do Tribunal do Júri deve determinar a intimação do Ministério Público ou querelante, no caso de queixa, e do defensor, para, no prazo de 5 dias, apresentarem rol das testemunhas que irão depor na sessão de julgamento, até no número de 5, além de juntar documentos e requerer diligências. Se a parte silenciar, restará preclusa a oportunidade de arrolar testemunhas, o que impedirá a produção de prova testemunhal em plenário" AgRg no HC n. 524.533/RS, de minha relatoria, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 882.594/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DO VÍCIO DA OBSCURIDADE. APRE SENTADA DEVIDA E CLARA FUNDAMENTAÇÃO. TESTEMUNHAS NÃO APRESENTADAS NA FASE DO ART. 422 DO CÓDIGO DE PROCESSO PENAL. PRECLUSÃO JUSTIFICADA. FACULDADE DO JUÍZO OUVIR TESTEMUNHAS APRESENTADAS A DESTEMPO, NOS TERMOS DO ART. 209 DO CPP. NÃO DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. REJEIÇÃO DOS EMBARGOS.
+1. Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, hipóteses que não se fazem presentes.
+2. O recurso foi decidido com a devida e clara fundamentação, ao concluir que, na fase do art. 422 do CPP, o embargante não ofereceu testemunhas, tendo o feito apenas a posteriori, sem nenhuma justificativa válida para tanto, do que o magistrado primevo indeferiu a oitiva e apresentou como fundamento a preclusão.
+3. Entende esta Corte Superior que "ouvir testemunha não é um direito das partes na hipótese de omissão em propor a prova nos momentos previstos no processo penal, que bem define situações de admissão, produção e avaliação da prova. Nesse caso, se a defesa deixa de exercer o seu direito de indicar a prova que deseja produzir no prazo que o Código estabelece, ela não mais tem direito a ouvir as testemunhas e passa a ter interesse em ouvir essas pessoas; mas essa avaliação é do juiz, baseada em sua conveniência, nos termos do art. 209, § 1º, do Código de Processo Penal" (AgRg no AREsp n. 1.477.936/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/4/2023, DJe de 5/5/2023).
+4. Nos termos do art. 563 do CPP, sob a égide do princípio do pas de nullité sans grief, não havendo prejuízo concreto demonstrado pela defesa, inviável a declaração da nulidade pretendida, visto que não foi sequer apontada qual tese absolutória as testemunhas preteridas poderiam carrear.
+5. Por fim, imperioso destacar que "Não compete a esta Corte Superior o exame de suposta violação de dispositivo constitucional, nem sequer para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal." (EDcl no REsp n. 1.785.383/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 12/12/2023, DJe de 15/12/2023.)
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.274.677/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.)
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
