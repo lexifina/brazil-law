@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de THALES PRIMO DE OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento da Apelação Criminal n. 1.0000.23.131659-7/002.
+Consta dos autos que o paciente foi condenado às penas de 14 anos, 3 meses e 10 dias de reclusão e pagamento de 622 dias-multa, como incurso nas sanções dos arts. 33, caput, da Lei n. 11.343/2006; 333 do Código Penal; e 14 e 16 da Lei n. 10.826/2003.
+A apelação criminal interposta pela defesa teve o provimento negado pelo Tribunal estadual.
+Daí o presente writ, no qual a impetrante postula a absolvição do paciente, aduzindo a nulidade das provas, porquanto decorrente de busca pessoal ilegal, em razão da ausência de fundada suspeita para a abordagem policial e do ingresso na residência do suspeito sem mandado judicial e sem o consentimento dos moradores, o que caracterizaria invasão de domicílio.
+Requer, assim, a concessão da ordem para absolver o paciente da prática do crime de tráfico de drogas, em razão da ilicitude das provas que fundamentaram a condenação.
+É o relatório. Decido.
+Em razão da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de não ser admissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de não se desvirtuar a finalidade dessa garantia constitucional, preservando, assim, sua utilidade e eficácia, e garantindo a celeridade que o seu julgamento requer.
+Oportuno registrar que referido entendimento foi ratificado pela Terceira Seção do Superior Tribunal de Justiça, em 10/6/2020, no julgamento da Questão de Ordem no Habeas Corpus n. 535.063/SP, a qual foi "acolhida, por maioria, para não conhecer do habeas corpus por não ser sucedâneo do recurso ordinário".
+Nessa linha de intelecção, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não se admite a sua impetração em substituição ao recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, tem se admitido o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Nada obstante, na hipótese dos autos, conforme consulta realizada na página eletrônica do Tribunal de origem, constata-se que a defesa efetivamente interpôs o recurso cabível, qual seja, o recurso especial, protocolado em 12/2/2025.
+Nesse contexto, tendo a defesa se utilizado simultaneamente do habeas corpus e do recurso apropriado, tem-se manifesta a subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais, o que impede o conhecimento do presente mandamus.
+Com efeito, "a jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade". (AgRg no HC n. 823.337/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023.)
+Destaque-se que a "violação do princípio da unirrecorribilidade não se restringe unicamente aos casos de tramitação simultânea de recursos e habeas corpus contra o mesmo ato.  ..  verifica-se a ofensa ao referido princípio quando única decisão ou acórdão é impugnado por duas vias distintas, seja pela utilização da via recursal concomitantemente ao ajuizamento de ação autônoma de impugnação, seja pela impugnação do mesmo ato em duas vias autônomas diferentes  .. ." (AgRg no HC n. 899.454/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024)
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERCEPTAÇÃO TELEFÔNICA. FUNDAMENTAÇÃO IDÔNEA. NULIDADE NÃO VERIFICADA. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, sob alegação de nulidade da medida cautelar de quebra de sigilo telefônico e das provas dela decorrentes.
+2. A parte agravante interpôs recurso especial contra o mesmo acórdão impugnado no habeas corpus, suscitando a mesma nulidade, configurando violação ao princípio da unirrecorribilidade.
+II. Questão em discussão3. A questão em discussão consiste em saber se a interposição simultânea de habeas corpus e recurso especial contra o mesmo ato judicial viola o princípio da unirrecorribilidade.
+4. Outra questão em discussão é a validade das interceptações telefônicas autorizadas judicialmente, considerando a fundamentação das decisões e a correção de eventual erro material na transcrição do número interceptado.
+III. Razões de decidir5. A interposição simultânea de habeas corpus e recurso especial contra o mesmo ato judicial viola o princípio da unirrecorribilidade, configurando subversão do sistema recursal.
+6. Não há risco atual ou iminente à liberdade do paciente, que se encontra solto, com pena substituída por restritivas de direitos, sem indicativo de revogação dos benefícios.
+7. As interceptações telefônicas foram autorizadas com fundamentação idônea, demonstrando a conveniência e indispensabilidade das medidas, não havendo nulidade a ser sanada.
+8. O erro material na transcrição do número interceptado foi corrigido, não configurando nulidade, pois o terminal monitorado pertencia ao paciente.
+9. A nulidade reconhecida em decisão anterior não contamina automaticamente as demais provas, sendo inviável discutir sua extensão na via do habeas corpus.
+IV. Dispositivo e tese10. Agravo regimental desprovido.
+Tese de julgamento: "1. A interposição simultânea de habeas corpus e recurso especial contra o mesmo ato judicial viola o princípio da unirrecorribilidade. 2. A autorização de interceptações telefônicas com fundamentação idônea não configura nulidade. 3. Erro material na transcrição de número interceptado, quando corrigido, não configura nulidade."
+Dispositivos relevantes citados: CR/1988, art. 5º, LXVIII; Lei nº 9.296/1996, art. 5º; CPP, art. 157, §§ 1º e 2º.Jurisprudência relevante citada: STJ, AgRg no HC 549.368/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 19/12/2019; STJ, AgRg no RHC 157.611/GO, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 25/2/2022; STJ, AgRg no RHC 149.206/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe 25/10/2021.
+(AgRg no HC n. 936.490/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. IMPETRAÇÃO CONCOMITANTE COM RECURSO ESPECIAL. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. NULIDADES. BUSCA PESSOAL INDEVIDA E VIOLAÇÃO DE DOMICÍLIO. PEDIDO SECUNDÁRIO. DESCLASSIFICAÇÃO DO DELITO DO ART. 16, § 1º, DA LEI N. 10.826/2003 PARA MAJORANTE DO ART. 40, IV, DA LEI N. 11.343/2006. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus contra o mesmo ato, em respeito ao princípio da unirrecorribilidade.
+2. As buscas pessoal e domiciliar foram fundamentadas em denúncias específicas e monitoramento policial, não havendo ilegalidade manifesta nas provas obtidas.
+3. A desclassificação do delito de porte de arma de fogo para majorante do art. 40, IV, da Lei de Drogas não se justifica, pois os artefatos bélicos não estavam sendo utilizados para o tráfico de drogas.
+4. Agravo regimental improvido.
+(AgRg no HC n. 941.393/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+Pelo exposto, indefiro liminarmente do mandamus.
+Publique-se.
+EMENTA
