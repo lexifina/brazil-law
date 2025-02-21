@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Município de Nossa Senhora do Socorro, em face do acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado:
+
+    “APELAÇÃO CIVIL - AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO CUMULADA COM INDENIZAÇÃO – CANDIDATO REPROVADO EM EXAME MÉDICO – INAPTDÃO FÍSICA POR EXCESSO DE PESO – INEXISTÊNCIA DE PREVISÃO EM LEI OU NO EDITAL – PERÍCIA CONCLUINDO PELA INCAPACIDADE TEMPORÁRIA – POSSIBILIDADE DE MELHORA NA CONDIÇÃO DA CANDIDATA - OFENSA AOS PRINCÍPIOS DA LEGALIDADE E RAZOABILIDADE – INDENIZAÇÃO POR DANO MORAL AFASTADA –ALTERAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS – OBSERVÂNCIA DO ARTIGO 20, §4º DO CPC – REFORMA PARCIAL DA SENTENÇA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO – DECISÃO POR MAIORIA.”
+
+    Na minuta, sustenta-se violação dos arts. 5º, I, e 37, II, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    O Tribunal de origem decidiu a demanda sob os seguintes fundamentos:
+
+    “Colhe-se dos autos que a autora foi aprovada em 1º Lugar no concurso para preenchimento do cargo de Agente Comunitário de Saúde e que, ao ser convocada para o exame médico admissional, foi considerada inapta, tendo em vista a sua condição de obesa. Vejamos o que dispõe o Edital: “A nomeação para o cargo obedecerá, rigorosamente, a ordem de classificação dos candidatos aprovados, devendo o mesmo comprovar os seguintes requisitos: ... submeter-se a exame de aptidão física e mental compatíveis às suas funções, por meio de verificação pelo Serviço Médico Pericial Municipal;” (Fls. 74/75) Aludido dispositivo tem respaldo no artigo 16 do Estatuto do Servidor do Município de N. Sra. do Socorro – Lei 538/2001, a saber: “Art. 16 - A posse em cargo público dependerá de prévia inspeção médica oficial. Parágrafo único. Só poderá ser empossado aquele que for julgado apto física e mentalmente para o exercício do cargo.” Não há especificação no Edital sobre excesso de peso. Porém, foi constatado pelo Médico do Município (fls. 147) que, diante da obesidade da autora, não haveria como atuar como agente comunitária de saúde e, com base no artigo sobredito, o Município não nomeou a candidata/apelada – decisão de fls. 56. O profissional médico entendeu que a autora “não apresentou capacidade laborativa para o cargo, ... , encontrando-se, pois, no momento, INAPTA para exercer a função à qual se candidata.” (fls. 142) Pois bem. A exigência do concurso público está prevista no artigo 37 da Constituição Federal, a saber: “A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte: I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei “ II - a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração” Sendo assim, impõe-se a aprovação de concurso para assunção ao cargo público, cujo certame deve estabelecer os requisitos necessários ao desempenho do cargo. É inquestionável que o ingresso no serviço público exige do candidato boa saúde física e mental, comprovada mediante exame médico. Entretanto, não se pode admitir exigências desarrazoadas, especialmente quando não há previsão específica no edital ou lei, como também diante da ausência de constatação de que o excesso de peso impede o bom desempenho das funções do agente comunitário. No caso em análise, não pode o Município, simplesmente, sustentar que está cumprindo os ditames legais, uma vez que, associado ao principio da legalidade, há também que se considerar o princípio da razoabilidade que deve nortear as decisões administrativas.”
+
+    Da análise dos autos, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada, a análise da legislação infraconstitucional local aplicável (Estatuto do Servidor do Município de N. Sra. do Socorro – Lei 538/2001), bem como a análise das cláusulas do edital que regem o concurso, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279, 280 e 454/STF: ‘para simples reexame de prova não cabe recurso extraordinário’; ‘por ofensa a direito local não cabe recurso extraordinário’ e ‘simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário’. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME MÉDICO. NECESSIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE PROVAS E DE ANÁLISE DO EDITAL DO CONCURSO. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 777539 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe-031 13-02-2014)
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso Público. 4. Reprovação em exame de saúde. Edital. Súmulas 279 e 454 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 1047967 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe-202 05-09-2017)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. LIMITE DE IDADE. PREENCHIMENTO DO CRITÉRIO PREVISTO EM EDITAL DO CERTAME. ÓBICES DOS ENUNCIADOS Nº 279, Nº 280, Nº 283 E Nº 454 DA SÚMULA DO STF. 1. O acórdão da Turma Recursal consignou o cumprimento do critério etário por policial militar que exerce função na corporação há mais de 15 anos. Ainda, sublinhada a impossibilidade de se prejudicar o candidato pela demora na conclusão do certame, para cuja fase de exame médico foi convocado o agravado somente 4 anos após sua aprovação em prova de segunda fase. 2. Não houve impugnação específica do fundamento atinente à reprovação do candidato, somente no exame odontológico, tendo em vista que a moléstia encontrada não prejudica o exercício das funções descritas no edital e na Lei estadual nº 13.729, de 2006, do Ceará. 3. A reapreciação e a reforma do julgamento não são possíveis no campo extraordinário, diante dos óbices dos enunciados nº 279, nº 280, nº 283 e nº 454 da Súmula do STF. 4. Agravo regimental ao qual se nega provimento.” (ARE 1385227 AgR, Rel. Min. André Mendonça, Segunda Turma, DJe-s/n 15-05-2023)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 21 de fevereiro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
