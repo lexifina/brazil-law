@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PRIME LICENCIAMENTOS E PARTICIPAÇÕES LTDA. contra a decisão de inadmissibilidade do recurso especial.
+Tal decisão fundamentou-se na ausência de ofensa aos arts. 489 e 1.022 do CPC, pois as questões foram apreciadas pelo acórdão atacado. Além disso, concluiu não ter sido demonstrada a violação dos arts. 20, §§ 3º, 4º, 21, 128 e 460 do CPC de 1973, 85, §§ 2º e 8º, 141 e 492 do CPC de 2015 e 413 do CC, "pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão" (fl. 2.102).
+A decisão também mencionou que o recurso exigiria exame de provas e interpretação de cláusulas contratuais, o que é vedado pelas Súmulas n. 5 e 7 do STJ (fls. 2102-2103).
+Nas razões do agravo, a parte alega o seguinte:
+a) houve julgamento extra petita, violando-se os arts. 141 e 492 do CPC de 2015, pois o acórdão reconheceu ter havido inadimplemento total do objeto do contrato firmado entre as partes, quando o pedido formulado na inicial era de inadimplemento parcial;
+b) o adimplemento contratual foi comprovado, uma vez que foram opostos embargos declaratórios para suscitar violação dos arts. 489, § 1º, IV, e 1.022, II do CPC de 2015, porquanto a decisão não se manifestou a respeito das provas apresentadas ;
+c) a multa contratual deveria ser reduzida, conforme o art. 413 do CC, já que houve cumprimento parcial das obrigações;
+d) a sucumbência foi recíproca, razão pela qual a distribuição dos honorários deveria ter observado as disposições do art. 85, §§ 2º e 8º, do CPC de 2015.
+Requer a reforma da decisão agravada para que o recurso especial seja admitido e provido, corrigindo-se as alegadas violações legais e processuais.
+É o relatório. Decido.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação anulatória de negócio jurídico e perdas e danos. Veja-se a ementa do julgado (fls. 1.572-1.573):
+DECLARATÓRIA - inadimplemento Contratual, Inexigibilidade de Titulo, Perdas e Danos - Contrato de franquia - Hipótese em que a requerida não transferiu o "Know How" a franquiada, e não prestou a assistência necessária para implementação do negócio - Caracterizada a infração contratual com inadimplemento por parte da franqueadora - Devida multa contratual e a declaração de inexigibilidade dos títulos levados a protesto - Dano moral configurado pelo protesto indevido de título - Reconhecimento da sucumbência da ré no tocante as medidas cautelares e na ação principal - Recurso da requerida não provido e dos autores parcialmente provido.
+É o relatório. Decido.
+Em relação às disposições do art. 1.022 do CPC de 2015 (art. 535 do CPC de 1973), observa-se que, conforme a decisão de fls. 1.830-1.832, o STJ acolheu a alegação de ofensa a tal dispositivo e determinou o retorno dos autos à origem para novo pronunciamento, o que resultou no acórdão de fls. 1.995-2.001, que, após prestar os esclarecimentos devidos, rejeitou os embargos.
+Ademais, no recurso especial ora em análise, não se verifica a alegação de ofensa ao referido artigo. A parte apenas requereu, na hipótese de se concluir pela falta de prequestionamento, que se considerasse referida vulneração.
+No contexto do recurso especial, a violação de lei ou de dispositivo de lei ocorre quando uma decisão judicial vai contra uma norma federal ou a ignora. Contudo, para que um recurso especial seja aceito, é preciso demonstrar em que consiste tal violação, isso em razão do que dispõe o art. 105, III, a, da Constituição Federal. Vale ressaltar que essa violação não pode ser condicional: ela aconteceu ou não. Da mesma forma, em relação ao art. 1.022, II, do CPC, ou a parte entende que há omissão no julgado embargado ou não.
+Assim, se não demonstrar em que consiste tal violação, não se pode conhecer do recurso por força do óbice da Súmula n. 284 do STF.
+No tocante aos demais dispositivos, observa-se o que segue.
+I - Arts. 128 e 460 do CPC de 1973
+Sustenta a agravante que o acórdão incorreu em julgamento extra petita, daí a vulneração dos arts. 128 e 460 do CPC de 1973.
+Entende que os recorridos pleitearam na inicial o reconhecimento de que o inadimplemento contratual fora parcial. Contudo, teriam o juiz e o Tribunal a quo considerado o inadimplemento total.
+Eis o que consta do acórdão (fl. 1.998):
+A questão sobre o julgamento extra petita foi apreciada pelo v. aresto, consignando-se que a questão posta seria a inexigibilidade dos títulos pela embargante, o pagamento da multa pela infração contratual, bem como, a indenização por danos morais, em virtude do protesto indevido, de forma que tanto o v. acórdão de fls. 1.293/1304, quanto à r. sentença apelada mantiveram correspondência entre o que foi trazido à discussão pelas partes, o pedido e os fundamentos de fato e de direito que integram o caso em concreto.
+No que tange à documentação que demonstraria o adimplemento obrigacional da embargante, o v. acórdão esclareceu que a própria recorrente teria admitido o que seu o inadimplemento contratual, sob o argumento de embargados não teriam efetuado o pagamento devido.
+Assim, constou do v. acórdão que o pagamento do restante devido não foi pago justamente porque a embargante não teria cumprido a obrigação de efetuar o treinamento, fornecer a tecnologia e know how necessários para a implementação do negócio.
+Portanto, a adoção de conclusões diversas daquela a que chegou a instância de origem, fundada primordialmente no contrato firmado entre as partes, implicaria a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, medidas inviáveis em recurso especial (Súmulas n. 5 e 7 do STJ).
+Ademais, se os fatos narrados na peça preambular e a causa de pedir ajustam-se à natureza do provimento conferido à parte autora pela sentença, não cabe falar em julgamento extra petita, tampouco em contrariedade ao art. 460 do CPC.
+Também não seria possível conhecer do recurso especial neste quesito, já que a alegação da recorrente é a de que foi postulado o reconhecimento do inadimplemento parcial, tendo o juiz reconhecido o inadimplemento total. A assertiva é genérica, pois desacompanhada da demonstração de quais pontos não teriam sido pedidos, embora deferidos. Incide na espécie a Súmula n. 284 do STF.
+II - Art. 413 do CC
+A questão da violação das disposições do art. 413 do Código Civil também não pode ser apreciada, haja vista a incidência da Súmula n. 7 do STJ.
+Com efeito, consta do acórdão recorrido o seguinte (fls. 1.998-1.999):
+Em relação à questão da multa, o v. acórdão assinalou que os autores vinham cumprindo a obrigação assumida, tendo realizado pagamento no montante de US$550.000,00, porém, a embargante não teria cumprido a obrigação de fornecer a tecnologia e o know how para o estabelecimento, de acordo com o quanto avençado, o que teria ensejado a quebra do contrato.
+E, estando impedida a implementação do negócio nesses termos, justamente porque não adimplida obrigações de cunho essencial, isto é, para efetivação do negócio, a redução proporcional de multa, por corolário, descaberia, já que o inadimplemento, ainda que parcial por parte da embargante, implicou inviabilidade na prática da implementação do negócio e a quebra do contrato. Diante de tal essencialidade das obrigações não atendidas por parte da ré, notadamente, a obrigação de efetuar o treinamento, fornecer a tecnologia e know how, não há que se postular a redução equitativa, pois o montante da multa não se mostra excessivo, em cotejo com a natureza e finalidade do negócio. Nesse particular, dispõe o artigo 413 do Código Civil."
+Portanto, o intento de revisar a análise de fatos e provas feita pelas instâncias inferiores é impeditivo do trânsito do recurso especial.
+III - Art. 21 do CPC de 1973
+No que diz respeito aos honorários advocatícios, sustenta a recorrente que se deve observar o disposto no art. 21 do CPC de 1973, segundo o qual, na hipótese em que cada litigante for em parte vencedor e vencido, os honorários são compensados proporcionalmente.
+Em recurso especial, é incabível o juízo a respeito das proporções da sucumbência de forma a apurar os saldos de cada parte, pois isso envolveria exame de matéria fática (Súmula n. 7 do STJ).
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
