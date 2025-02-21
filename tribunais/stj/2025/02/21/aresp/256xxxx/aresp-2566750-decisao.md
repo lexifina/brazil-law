@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ESTADO DE MINAS GERAIS, com fundamento na incidência, por analogia, da Súmula 283 do STF.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois "combateu o fundamento de decidir apresentado em segunda instância, defendendo, em seu recurso especial, que, no caso, o ato impugnado não se trata de ato omissivo, mas sim comissivo de efeitos concretos" (fl. 637)
+Assevera, ainda, que houve violação do art. 23 da Lei 12.016/2009, sustentando que a data de ingresso da recorrida no cargo público deve ser considerada como marco inicial de contagem do prazo decadencial, não a negativa administrativa do requerimento.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+A Corte de origem, no julgamento da apelação, consignou:
+Inicialmente, observa-se que o apelado suscitou prejudicial de decadência, em sede de contrarrazões, sob o argumento de que a nomeação da apelante teria ocorrido em 26/06/2015 e que a impetrante manejou a ação mandamental em prazo superior ao de 120 dias, previsto no artigo 23 da Lei nº 12.016/09.
+Contudo, não merece prosperar o alegado. A apelante foi nomeada para o cargo em 26/06/2015 e formulou requerimento administrativo de reposicionamento no dia 09/09/2021, o qual foi indeferido pela Administração em 27/09/2021, consoante se infere dos documentos acostados à ordem nº 09.
+A Lei nº 12.016/2009 em seu art. 23 dispõe:
+ ..
+À luz do entendimento firmado pelo c. STJ, a existência de atos omissivos continuados, envolvendo obrigação de trato sucessivo, a exemplo das situações de reposicionamento, o prazo decadencial se renova a cada ato, até o momento em que a Administração, de forma expressa, nega o direito reclamado, quando começa a fluir o prazo decadencial.
+Assim, somente com o indeferimento administrativo expresso inicia- se o prazo decadencial.
+Considerando-se que o pedido foi indeferido pela Administração na data de 27/09/2021 e que o presente mandamus foi impetrado em 10/11/2021, não houve decurso do prazo de 120 dias entre a data da negativa administrativa e a data da impetração. Rejeito a preliminar arguida. (fl. 464-465).
+Assim, c onstata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SENTENÇA QUE DECLAROU A EXTINÇÃO DA EXECUÇÃO. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. CONDENAÇÃO DA UNIÃO EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ART. 85, § 7º, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, ao decidir a controvérsia, o Tribunal a quo estabeleceu que "não merece reparo a sentença declaratória de extinção da execução, ora guerreada, não havendo que se falar na alvitrada necessidade de intimação "para comprovar a implantação da revisão objeto do pedido exordial, antes da extinção da execução", por tratar-se de matéria superada pela preclusão consumativa, à míngua de manifestação oportuna da parte interessada a esse respeito, por ocasião do despacho do evento 348, DESPADEC96/JFRJ".
+2. A recorrente, por sua vez, deixou de impugnar tal fundamento, que é apto, por si só, para manter o acórdão recorrido. Aplica-se à espécie, por analogia, o óbice do enunciado n. 283 da Súmula do STF.
+3. Segundo a jurisprudência desta Corte, "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada" (AgInt no REsp n. 2.062.255/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/4/2024, DJe de 26/4/2024).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.132.773/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO ANULATÓRIA DE REGISTRO IMOBILIÁRIO CUMULADA COM PERDAS E DANOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INDEFERIMENTO DE PROVA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRINCÍPIOS DA LIVRE ADMISSIBILIDADE DA PROVA E DA PERSUASÃO RACIONAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INEXISTÊNCIA DE PRECLUSÃO PRO JUDICATO EM MATÉRIA PROBATÓRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. ENUNCIADO 284/STF. INATACADO FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. VERBETE 283/STF.
+1. Afasta-se a alegada ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Nos termos da jurisprudência do STJ, "os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp 1.911.181/SP, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/2/2022, DJe de 15/3/2022).
+3. A alteração das premissas adotadas pela Corte de origem quanto à não ocorrência de cerceamento de defensa demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. A jurisprudência deste Tribunal Superior assevera que "não há falar em preclusão pro judicato em matéria de instrução probatória, não havendo preclusão para o Magistrado nos casos em que é indeferida a produção de prova que foi anteriormente autorizada" (AgInt no AREsp 118.934/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/11/2016, DJe de 6/12/2016).
+5. O apelo nobre deixou de impugnar fundamento basilar que ampara o acórdão recorrido e, portanto, a irresignação esbarra no obstáculo do Enunciado 283/STF.
+6. A ausência de indicação do dispositivo legal tido por violado revela a deficiência de fundamentação da insurgência especial, atraindo o impedimento da Súmula 284/STF.
+7. O Tribunal a quo, com arrimo no acervo probatórios dos autos, consignou que "de forma alguma poderia se dizer que existiria a propriedade dos autores sobre o imóvel ou direitos possessórios passíveis de ser indenizados" (fl. 2.939). Nesse contexto, a alteração de tais circunstâncias na atual quadra processual se revela inviável, nos termos do Verbete 7/STJ.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.796.195/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego-lhe provimento, mantendo a decisão que inadmitiu o recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+ EMENTA
