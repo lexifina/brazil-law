@@ -1,0 +1,4 @@
+DECISÃO
+Devidamente cumprida a comissão, conforme atestam os documentos de fls. 102-104, devolvam-se os autos à J ustiça rogante por intermédio da autoridade central competente (art. 216-X do RISTJ), independentemente do trânsito em julgado.
+Publique-se.
+EMENTA
