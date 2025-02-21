@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por HELIO CAVALCANTE BARBALHO, HELSO LIMA DE SOUSA à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+O Exmo. Relator, ao ponderar sobre o recurso aponta que há fundamento constitucional que impede o prosseguimento do R Esp por violação à Súmula 126/STJ, que prevê: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Deste modo, ao rejeitar o pleito com base nesse argumento, o Relator deveria demonstrar, em prestígio ao dever de motivação das decisões judiciais, que o fundamento constitucional seja suficiente para manter o julgado, o que não é o caso. Vejamos:
+ ..
+Ademais, a lei que regula o comentado direito dispõe sobre a presunção que milita em favor da pessoa física, na forma do § 3º do art. 99 do CPC, de modo que não se quer dizer que a lei supera a Constituição na matéria, mas que merece o prestígio e a intenção do legislador quando da sua criação.
+Isto porque o dispositivo constitucional em questão trata-se de norma de eficácia contida, ou seja, tem aplicabilidade direta e imediata, contudo, podem ser devidamente regularmente por meio de normas que restringem e orientam sua aplicação, nesse sentido, "fica dependente dos limites (daí: eficácia contida) que ulteriormente se lhe estabeleçam mediante lei"1.
+Assim, não se pode suscitar o argumento constitucional a revelia da norma que o regulamenta, isso porque, na hipótese do processo, recurso extraordinário ora interposto, cuidaria tão somente de violação reflexa à constituição federal, tendo em vista que a violação diz respeito a não observância da regra dos §§ 2º e 3º do art. 99 do CPC.
+A razão para tanto é pertinente ao fato de que o Estado pressupõe o direito na Constituição, mas sua aplicabilidade deve observar o que diz a norma, e, quando o Tribunal não a observa, subsiste apenas a violação de norma infraconstitucional.
+De todo modo, a controvérsia no processo é de que elidir a presunção de hipossuficiência da pessoa natural somente ocorre quando "haja elementos concretos nos autos que demonstrem a suficiência de recursos.", o que não se demonstrou no acórdão recorrido na origem. Além disso, conforme se evidenciou na decisão embargada:
+ ..
+Quanto ao óbice da Súmula 07/STJ, o juízo destaca que "o acolhimento da pretensão recursal demandaria o reexame do acervo fático- probatório juntado aos autos.", contudo, observa-se que também não é esse o caso.
+O Exmo. Relator, como fundamento na determinação do óbice, destacou que seria necessária a modificação das premissas fáticas para apreciação do recurso, porém, não é o se pretende.
+Conforme já evidenciado alhures, o que subsiste é uma notória controvérsia das razões de decidir do acórdão recorrido, razão pela qual entende-se que não é necessário o incurso nas provas e fatos do processo. O pleito, a bem da verdade, é a de determinação da melhor interpretação a ser conferida aos §§ 2º e 3º do art. 99 do Código de Processo Civil, a partir das razões de decidir do acórdão.
+Nesse passo, o Recorrente almeja seja atribuído a decisão a melhor interpretação jurídica que, na hipótese, não é a concedida pelo Tribunal local. A tese, pois, defendida pela parte é aquela de que "não havendo elementos nos autos que justifiquem a não concessão do benefício, deve prevalecer a presunção de hipossuficiência do § 3º art. 99 do CPC", a despeito da interpretação concedida pelo Tribunal de que "não estando o juízo convencido, a concessão do benefício é uma atividade subjetiva do juízo".
+ ..
+Em que pese o argumento, o Relator pondera não estar cumprido o requisito de interposição do recurso, qual seja, a demonstração da divergência jurisprudencial por meio do cotejo analítico, que tem como requisito:
+ ..
+Assim, aponta-se que o dissidio jurisprudencial invocado foi em relação ao Recurso Especial nº 2.055.899 - MG (2023/0060553 -8), tendo sido cumprido os dois requisitos, quais sejam, a) prova da divergência pela juntada do interior teor do acórdão e certidão de julgamento, conforme e-STJ fls. 153-180 e b) menção das circunstâncias fáticas no bojo do recurso especial, destacamos (e-STJ fls. 148-152):
+ ..
+Portanto, pugna-se pelo acolhimento dos presentes embargos, a fim de que sejam revistas as contrariedades e omissões apontada na presente decisão para que sejam inclusas na respectiva decisão as questões ora levantadas, vez que violam os direitos e garantias assistidos em favor dos autores, ora embargantes (fls. 263-267).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
