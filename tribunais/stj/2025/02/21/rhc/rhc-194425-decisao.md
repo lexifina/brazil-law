@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DENILSON CASTANHO contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na ação penal n. 1505518-53.2020.8.26.0079.
+Foi o ora recorrente denunciado por suposta infração ao art. 40, caput, da Lei n. 9.605/1998, recebida a inicial acusatória na origem.
+Impetrado perante a Corte local o habeas corpus n. 2245337-91.2023.8.26.0000, foi a ordem denegada.
+Sustenta a Defesa, nas razões deste, ausência de justa causa ao recebimento da denúncia por se tratar de peça inepta, pois deixou de expor as circunstâncias dos fatos supostamente criminosos, não preenchidos assim todos os requisitos do art. 41, do CPP, de modo a prejudicar o exercício da ampla defesa.
+Alega que, admitindo o tipo penal as formas culposa e dolosa, deixou o Ministério Público de esclarecer se o denunciado teria praticado o crime dolosamente, imbuído do elemento subjetivo, ou se agiu mediante imperícia, imprudência ou negligência.
+Aduz ainda que, exigindo o tipo penal dano ambiental à sua caracterização, não foi indicado na inicial acusatória o efetivo prejuízo decorrente da ação de Denilson, não bastando a mera indicação do diâmetro das árvores sem o cuidado de indicar em qual altura o corte teria ocorrido.
+Afirma que, tratando o art. 40, da Lei de Crimes Ambientais, de norma penal em branco, necessária complementação extrapenal, a denúncia é inepta por ter deixado de indicar a legislação que define parâmetros para o corte da vegetação.
+Assevera também ser impossível se aferir a extensão dos danos por meio dos relatórios da Polícia Militar Ambiental por não terem especificado, conforme as regras concernentes, a localização de cada árvore cortada, também não se prestando a tanto o laudo pericial porque inconclusivo.
+Requer, liminarmente e no mérito, o provimento do recurso para se determinar o trancamento da ação penal.
+A medida liminar foi indeferida às fls. 671/672 pelo Ministro Teodoro Silva Santos, então relator do feito.
+As informações processuais encontram-se às fls. 677/680.
+O Ministério Público Federal manifestou-se às fls. 684/688 pelo desprovimento do recurso.
+Os presentes autos foram atribuídos à minha relatoria à fl. 693.
+É o relatório.
+DECIDO.
+Foi o recorrente denunciado por suposta ofensa ao art. 40, da Lei n. 9.605/1998 porque, em 18/05/2019, na Fazenda Monte Belo, situada na cidade de Pardinho/SP, causou dano direto ou indireto às Unidades de Conservação.
+Segundo a inicial acusatória, Denilson é proprietário da fazenda que se localiza no interior da APA-Botucatu-Tejupa-Corumbataí, ou APA das Cuestas, unidade de conservação em região de Bioma de Mata Atlântica criada pelo Decreto Estadual n. 20.960/1983 e, no dia dos fatos, determinou o corte, sem autorização do órgão competente, de 296 (duzentas e noventa e seis) árvores nativas, isoladas em área comum mas dentro da APA, consistentes em 278 (duzentos e setenta e oito) cambarás, 08 (oito) guaiuviras, 02 (duas) sangras d"água, 06 (seis) jacarandás do cerrado e 02 (duas) aroeiras, possuindo as árvores de 10 (dez) a 30 (trinta) centímetros de diâmetro, e de 02 (dois) a 04 (quatro) metros de altura.
+Recebida a denúncia, foi impetrado habeas corpus junto ao Tribunal a quo em que se buscava o trancamento da ação penal.
+A ordem restou, contudo, denegada por acórdão assim ementado (fl. 629):
+Habeas Corpus Pretensão de trancamento da ação penal
+Impossibilidade. Pretensão de trancamento da ação penal Alegação de ausência de justa causa Inocorrência Ausentes os requisitos para tanto (atipicidade da conduta, ausência de indícios mínimos de autoria e materialidade delitivas, ou presença de alguma causa extintiva da punibilidade). Verificada, ao menos em cognição sumária, a existência de justa causa para o prosseguimento do feito necessidade de exame de provas, inviável na estreita via do writ.
+Constrangimento ilegal não verificado.
+Ordem denegada.
+Da decisão acima transcrita, verifica-se a existência de justa causa à deflagração da ação penal, havendo indícios de ter o recorrente determinado o corte de árvores em Unidade de Conservação, causando danos ao meio ambiente.
+Outrossim, suficientes os elementos descritos na denúncia ao recebimento, reputam-se preenchidos os requisitos do art. 41, do CPP, pois exposto o fato criminoso de forma clara, não se vislumbrando prejuízo ao exercício da ampla defesa e do contraditório, delimitadas as circunstâncias fáticas que serão melhor esclarecidas ao longo da instrução processual.
+De fato, atribuindo o Ministério Público a prática do crime previsto no caput do art. 40, da Lei de Crimes Ambientais, por ter Denilson determinado o corte das árvores em sua fazenda inserida em área de conservação, depreende-se que foi imputada a forma dolosa do tipo penal, não se verificando de plano a alegada irregularidade.
+Ademais, tratando-se de norma penal em branco, necessária a indicação na denúncia da legislação que a complementa, verifica-se ter a peça, ao descrever ter o ora recorrente causado danos à Unidade de Conservação, feito referência ao Decreto Estadual n. 20.960, de 1983, que Declara área de proteção ambiental regiões situadas em diversos Municípios, dentre os quais Corumbataí, Botucatu e Tejupá, também não se vislumbrando o apontado vício.
+Já declarou este Tribunal:
+"É entendimento consolidado desta Corte que o oferecimento da denúncia sem a norma complementadora constitui inépcia da denúncia, por impossibilitar a defesa adequada do denunciado" (HC 370.972/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/11/2016, DJe 07/12/2016). Quanto ao crime do art. 40, caput, c.c. o art. 40-A, § 1.º, ambos da Lei n. 9.605/1998, a denúncia apresentou os elementos para a tipificação do crime em tese e demonstrou o suposto envolvimento do Paciente com o fato delituoso. Consta da peça acusatória que o Acusado é possuidor de uma gleba de terras situada na Unidade de Conservação Estadual denominada Área de Proteção Ambiental Cocha e Gibão. A Acusação indicou o decreto que criou a mencionada unidade de conservação - Decreto Estadual n. 43.911/2004 - e ressaltou que o Acusado teria, em quatro oportunidades, suprimido vegetação nativa do referido local, causando dano à unidade de conservação.
+(HC n. 504.357/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/12/2020, DJe de 18/12/2020).
+Já em relação à extensão dos danos, embora não ter sido possível mensurá-la por se tratar de corte de árvores isoladas, conforme ofício do órgão ambiental, o Auto de Infração Ambiental e o laudo pericial referido na inicial acusatória descreveram a quantidade de árvores suprimidas e suas espécies, indicando a possibilidade de efetivo dano na Unidade de Conservação, o que a ser melhor esclarecido ao longo da instrução processual em que também serão ouvidas testemunhas.
+Desse modo, não se vislumbra, a priori, a ausência de justa causa ao recebimento da denúncia.
+Cabe observar ser uníssono nesta Corte o entendimento de que o trancamento de ação penal por meio de habeas corpus é medida excepcionalíssima:
+Inicialmente, destaco que o trancamento do inquérito policial, assim como da ação penal, é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria de provas sobre a materialidade do delito (RHC n. 146.780/PA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/11/2024, DJe de 8/11/2024);
+O trancamento de ação penal por habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação de atipicidade da conduta, extinção da punibilidade ou ausência de indícios de autoria e materialidade (AgRg no HC n. 921.062/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/11/2024, DJe de 7/11/2024).
+Não vislumbrado, portanto, o constrangimento ilegal na decisão recorrida, devidamente fundamentada, este recurso há de ser desprovido.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
