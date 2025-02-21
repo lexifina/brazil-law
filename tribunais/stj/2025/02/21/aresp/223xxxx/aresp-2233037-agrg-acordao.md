@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ABSOLVIÇÃO. CONTRADIÇÃO NA RESPOSTA DOS QUESITOS. NÃO VERIFICAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez constatada contradição entre duas ou mais respostas, se o Juiz Presidente do Tribunal do Júri não sanar o vício, estará configurada nulidade absoluta, não sujeita à preclusão.
+2. A formulação do quesito absolutório genérico é obrigatória, ainda quando o Tribunal do Júri entender que houve a prática do delito e que o réu foi o seu autor.
+3. Não há contradição no fato de o Conselho de Sentença haver reconhecido a materialidade e a autoria do crime e, ainda assim, absolver o agente, ao votar "sim" no quesito absolutório genérico. No caso, conforme registrado pelo Tribunal estadual, foi sustentada a tese de legítima defesa putativa, o que autorizaria a absolvição genérica do réu pelos jurados.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE interpõe agravo regimental contra decisão de fls. 656-660, em que conheci do agravo para negar provimento ao recurso especial.
+O agravante reitera que "o Tribunal do Júri, após reconhecer a materialidade e a autoria delitivas, absolveu o recorrido da prática do crime de homicídio qualificado (art. 121, IV, do Código Penal), não obstante a defesa não tenha apresentado nenhuma tese idônea a afastar o cometimento do delito" (fl. 664).
+Afirma que, "se o Conselho de Sentença reconheceu a materialidade e autoria delitivas, o máximo que poderia ocorrer em favor do réu seria a exclusão da qualificadora ou incidência da causa de diminuição de pena, mas não a absolvição, havendo, pois, uma patente contradição lógica entre as respostas dos jurados" (fl. 664).
+Pleiteia a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora, a fim de anular o julgamento do réu pelo Tribunal do Júri.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ABSOLVIÇÃO. CONTRADIÇÃO NA RESPOSTA DOS QUESITOS. NÃO VERIFICAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez constatada contradição entre duas ou mais respostas, se o Juiz Presidente do Tribunal do Júri não sanar o vício, estará configurada nulidade absoluta, não sujeita à preclusão.
+2. A formulação do quesito absolutório genérico é obrigatória, ainda quando o Tribunal do Júri entender que houve a prática do delito e que o réu foi o seu autor.
+3. Não há contradição no fato de o Conselho de Sentença haver reconhecido a materialidade e a autoria do crime e, ainda assim, absolver o agente, ao votar "sim" no quesito absolutório genérico. No caso, conforme registrado pelo Tribunal estadual, foi sustentada a tese de legítima defesa putativa, o que autorizaria a absolvição genérica do réu pelos jurados.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito do esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+O réu foi absolvido pelo Conselho de Sentença da imputação da prática do crime descrito no art. 121, § 2º, IV, do CP. O Tribunal estadual manteve o veredito dos jurados, conforme acórdão assim motivado (fls. 433-435, grifei):
+Conforme se depreende do relatório, o recorrente pugna pela anulação do julgamento proferido pelo Conselho de Sentença, com a submissão do acusado a um novo Júri, sob o argumento de que a sua condenação foi manifestamente contrária à prova dos autos.
+Contudo, tendo em mira o contexto do presente caderno processual e após analisá-lo minuciosamente, especialmente no que tange aos depoimentos colhidos durante a instrução processual, peço vênia para divergir do eminente Relator, tendo em vista entender que o pleito recursal não deve prosperar.
+Explico.
+Compulsando os autos, observo que a defesa levantou a tese absolutória, com fulcro na legitima defesa putativa, causa supralegal de excludente de ilicitude (Relatório Tribunal do Júri - fls. 214-214v).
+Vejo também que, nada obstante, o conselho de sentença absolveu o recorrido da prática do delito que lhe foi imputado, mesmo considerando que a materialidade e a autoria (homicídio qualificado consumado) estavam satisfeitas, o que é corroborado pelas provas coligidas aos autos e a própria confissão do acusado.
+Todavia, não pode este órgão julgador entender de maneira diversa, pois restaria violada a soberania das decisões do júri.
+É que não se pode afirmar que os jurados decidiram de forma manifestamente contrária à prova dos autos, na medida em que podem ter vislumbrado, em favor do recorrido, a ocorrência da legitima defesa putativa, causa supralegal de excludente de ilicitude, inclusive tese sustentada por sua defesa, e existindo relatos de ter sido o apelado policial militar, ameaçado de morte pela vítima.
+Ressalte-se que a Constituição Federal conferiu soberania aos veredictos emanados do Tribunal do Júri (art. 5º, XXXVIII, "c"). de maneira que a anulação de julgamento proferido nesta esfera é medida excepcional, admissível apenas quando a decisão for manifestamente contrária ao substrato probatório.
+Nesse diapasão, destaca-se entendimento do Superior Tribunal de Justiça:
+ ..
+Com efeito, entendo que o fato dos jurados terem respondido afirmativamente aos quesitos da materialidade e autoria, mas apesar disso terem entendido pela sua absolvição, não configura qualquer nulidade, desde que a decisão seja harmônica às provas produzidas.
+ ..
+Assim, a absolvição não está divorciada das provas colhidas na instrução processual, uma vez que o acolhimento da clemência está amparada de lastro fático.
+Tal como registrei às fls. 656-660, não há violação dos arts. 490 e 564, parágrafo único, do CPP, os quais tratam de contradição nas respostas dos quesitos.
+Segundo esses dispositivos legais, uma vez identificada, o Juiz Presidente do Tribunal do Júri explicará ao Conselho de Sentença em que consiste a contradição e submeterá os quesitos novamente à votação. Vejam-se:
+Art. 490. Se a resposta a qualquer dos quesitos estiver em contradição com outra ou outras já dadas, o presidente, explicando aos jurados em que consiste a contradição, submeterá novamente à votação os quesitos a que se referirem tais respostas.
+Art. 564.  ..  Parágrafo único. Ocorrerá ainda a nulidade, por deficiência dos quesitos ou das suas respostas, e contradição entre estas.
+De acordo com o entendimento do STJ, uma vez constatada contradição entre duas ou mais respostas dadas pelos jurados, se o Juiz Presidente do Tribunal do Júri não sanar o vício, estará configurada nulidade absoluta, não sujeita à preclusão.
+Nesse sentido: "A contradição entre as respostas aos quesitos formulados aos jurados, quando não sanada pela repetição da votação dos quesitos em contradição na própria sessão de julgamento (art. 490 do Código de Processo Penal), acarreta a sua nulidade" (AgRg no AREsp n. 1.929.954/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/3/2022); "A contradição entre as respostas aos quesitos apresentados ao Conselho de Sentença, quando não sanada por ocasião da votação realizada, diante do que se depreende do art. 490 do Código de Processo Penal, justifica a anulação do julgamento, dada a nulidade absoluta acarretada" (REsp n. 846.999/DF, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 19/12/2019).
+Menciono ainda:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. CONTRADIÇÃO NA RESPOSTA DOS QUESITOS. ART. 490 DO CPP. NULIDADE ABSOLUTA. ALEGAÇÃO EM APELAÇÃO. AUSÊNCIA DE PRECLUSÃO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. AUSÊNCIA DE ALEGAÇÃO EM PLENÁRIO. IMPOSSIBILIDADE DE RECONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. O art. 490 do CPP preconiza que, se identificada contradição nas respostas dos jurados aos quesitos, o Juiz Presidente do Tribunal do Júri explicará ao Conselho de Sentença em que ela consiste e submeterá os quesitos novamente à votação.
+2. Uma vez constatada contradição entre duas ou mais respostas, se o Juiz Presidente do Tribunal do Júri não sanar o vício, estará configurada nulidade absoluta, não sujeita à preclusão. Precedentes.
+ ..
+(AgRg no REsp n. 1.989.949/SP, relator Ministro Sebastião Reis Júnior, relator para acórdão Ministro Rogerio Schietti, Sexta Turma, julgado em 27/9/2022, DJe de 7/10/2022)
+Reitero não haver contradição no fato de o Tribunal do Júri haver reconhecido a materialidade e a autoria do crime e, ainda assim, absolver o acusado, ao votar "sim" no quesito absolutório genérico. No caso em exame, conforme consignou o Tribunal estadual, foi sustentada a tese de legítima defesa putativa, o que autorizaria a absolvição genérica do réu pelos jurados.
+O STJ entende que a formulação do quesito absolutório genérico é obrigatória, ainda quando o Tribunal do Júri entender que houve a prática do delito e que o réu foi o seu autor.
+Além dos precedentes mencionados na decisão monocrática, destaco também os seguintes: "Nos termos da jurisprudência desta Corte, a resposta positiva ao quesito absolutório genérico (quando respondidos positivamente os dois primeiros) não configura, por si só, contrariedade apta a atrair a incidência do art. 490 do CPP" (AgRg no HC n. 853.889/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 1/12/2023); "Na reforma legislativa de 2008, alterou-se substancialmente o procedimento do júri, inclusive a sistemática de quesitação aos jurados. Inseriu-se um quesito genérico e obrigatório, em que se pergunta ao julgador leigo: "O jurado absolve o acusado " (art. 483, III e § 2º, CPP). Ou seja, o Júri pode absolver o réu sem qualquer especificação e sem necessidade de motivação" (AgRg no AREsp n. 1.929.969/TO, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe de 20/6/2022).
+Esclareço que a alegação do Ministério Público estadual não se refere a um juízo de constatação acerca da plausibilidade da absolvição do réu em cotejo com as provas dos autos, uma vez que não foi suscitada eventual infringência ao art. 593, III, "d", do CPP. A análise neste recurso limita-se a examinar se as respostas dos jurados haveriam sido contraditórias entre si, o que não foi constatado.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fun damentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
