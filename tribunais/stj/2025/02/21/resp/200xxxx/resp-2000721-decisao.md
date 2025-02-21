@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, recurso especial interposto por RUBENS ROTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, em síntese, violação aos arts. 23 da Lei 10.266/01 e 10 da Lei 9.711/98, inconformado com os índices adotados pelo Tribunal de origem para correção dos valores em atraso.
+Devolvido os autos para eventual juízo de retratação, foram julgados nos termos as seguintes ementas:
+"Acidente do Trabalho  Reexame da matéria, nos termos do art. 1.040, inciso II, do Código de Processo Civil  apreciação do Tema 96 do STF envolvendo a possibilidade da aplicação dos juros de mora entre a data conta e a da requisição ou precatório  reconhecimento quanto à necessidade de aplicação dos juros no período mencionado  alteração do entendimento anteriormente adotado pela turma julgadora  Recurso do trabalhador parcialmente acolhido" (fl. 825).
+"Acidente do Trabalho - Reexame da matéria, nos termos do art. 1.040, inciso II, do Código de Processo Civil - reapreciação da aplicação da TR como índice de correção monetária em razão do julgamento do mérito do REsp nº 1.492.221/PR (Tema nº 905 do  N STJ) - e quanto à incidência das teses firmadas no Tema n º 810 do STF, em especial, no tocante a utilização do IPCA-E como índice de correção monetária - diferenças de precatório - Provimento mantido" (fl. 864).
+É o relatório.
+Passo a decidir.
+A Corte de origem, no julgamento da apelação interposta, assim se manifestou:
+Ademais, o índice para a atualização do valor é outro, uma vez que de acordo com o dispositivo supracitado, a verba necessária ao pagamento deverá estar incluída no orçamento da entidade de direito público, in casu, o Instituto Nacional do Seguro Social.
+E o caminho para tanto, na época do pagamento era justamente a atualização baseada na variação da UFIR. Hoje prevalece o critério da Lei de Diretrizes Orçamentárias, anualmente editada, onde tem havido expressa previsão no sentido de que na adequação monetária dos precatórios, será observado o Índice de Preços ao Consumidor Amplo  Especial (IPCA-e).
+Ademais, O Tribunal de origem, exercendo o juízo de retratação, decidiu por manter o acórdão recorrido, ao fundamento de que :
+"Por meio do Acórdão originário de fls. 734/5, determinou-se a utilização do índice previsto na Lei Orçamentária em vigor ó na época do efetivo pagamento para atualização dos precatórios  ..
+A questão abordada no caso concreto cuida de diferenças de precatório.
+ ..
+No tocante à atualização monetária utiliza-se, a partir do cálculo, o índice previsto na Lei Orçamentária em vigor na época do efetivo pagamento para atualização dos precatórios (exercício de 2003  fls. 479), portanto, no caso, o artigo 25, §4º, da Lei no 10.524/2002, segundo o qual "a atualização monetária dos precatórios determinada no art. 100 da Constituição e das parcelas resultantes da aplicação do art. 78 do ADCT, observará, no exercício de 2003, inclusive em relação às causas trabalhistas, a variação do Índice de Preços ao Consumidor Amplo - Especial Nacional (IPCA-E), divulgado pelo Instituto Brasileiro de Geografia e Estatística".
+Da analise dos autos, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SENTENÇA QUE DECLAROU A EXTINÇÃO DA EXECUÇÃO. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. CONDENAÇÃO DA UNIÃO EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ART. 85, § 7º, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, ao decidir a controvérsia, o Tribunal a quo estabeleceu que "não merece reparo a sentença declaratória de extinção da execução, ora guerreada, não havendo que se falar na alvitrada necessidade de intimação "para comprovar a implantação da revisão objeto do pedido exordial, antes da extinção da execução", por tratar-se de matéria superada pela preclusão consumativa, à míngua de manifestação oportuna da parte interessada a esse respeito, por ocasião do despacho do evento 348, DESPADEC96/JFRJ".
+2. A recorrente, por sua vez, deixou de impugnar tal fundamento, que é apto, por si só, para manter o acórdão recorrido. Aplica-se à espécie, por analogia, o óbice do enunciado n. 283 da Súmula do STF.
+3. Segundo a jurisprudência desta Corte, "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada" (AgInt no REsp n. 2.062.255/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/4/2024, DJe de 26/4/2024).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.132.773/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+Por fim, quanto à análise dos artigos indicados como violados, referidos dispositivos não foram objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração. Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial foi interposto contra acórdão publicado na vigência do CPC/1973, como dispõe o Enunciado administrativo 7/STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Intimem-se.
+ EMENTA
