@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AÇÃO CIVIL PÚBLICA AMBIENTAL - INÉPCIA DA PETIÇÃO INICIAL - AFASTAMENTO - INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART 295 DO CÓDIGO DE PROCESSO CIVIL - CAUSA DE PEDIR E PEDIDO DELINEADOS NA CXORDIAL - NARRAÇÃO DOS FATOS DA QUAL DECORRE LOGICAMENTE A CONCLUSÃO - PARTES LEGÍTIMAS INTERESSADAS E PEDIDOS JURIDICAMENTE POSSÍVEIS - TUTELA AO MEIO AMBIENTE QUE DECORRE DE DIREITO TRANSINDIVIDUAL - SENTENÇA CASSADA - RECURSO PROVIDO PARA DETERMINAR O PROSSEGUIMENTO DA AÇÃO COM CITAÇÃO DOS ADQUIRENTES OU OCUPANTES DOS LOTES
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta, em síntese: i) vício de fundamentação acerca do litisconsórcio necessário (art. 535 do CPC/1973); ii) julgamento alheio ao pedido (arts. 128 e 515 do CPC/1973); e iii) ausência de interesses contrapostos entre o autor e os proprietários, impostos pelo acórdão no polo passivo, ser solidária a responsabilidade ambiental e, portanto, haver litisconsórcio apenas facultativo (arts. 3º, IV, e 4º, VII, da Lei n. 6.398/1981, 275 do CC/2002, e 46 do CPC/1973).
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+Com relação à alegada violação ao art. 535 do CPC/1973, considero a matéria prequestionada, pelo que passo à análise do mérito.
+O acórdão assim situa a matéria em debate:
+No caso, alega-se a ocorrência de irregular fracionamento do terreno, ocupação desordenada, com degradação de área de proteção permanente.
+Certo que, vários dos casebres edificados, por localizados às margens de córrego, poderão estar a correr risco de desmoronamento; risco, que em época de chuvas aumenta sobremaneira.
+Assim, se comprovados tais fatos, cumprirá à Municipalidade realizar atuações, intervenções e obras tendentes à eliminação das situações de risco de moradia em áreas de várzea.
+Evidente, portanto, a natureza ambiental da demanda.
+Nesse contexto, a responsabilidade é solidária e o litisconsórcio, facultativo. A propósito:
+ ..  2. É firme nesta Corte Superior a compreensão de que "a responsabilidade por danos ambientais é solidária entre o poluidor direto e o indireto, o que permite que a ação seja ajuizada contra qualquer um deles, sendo facultativo o litisconsórcio. Tal conclusão decorre da análise do inciso IV do art. 3º da Lei 6.938/1981, que considera "poluidor, a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de degradação ambiental"" (AgInt no AREsp 839.492/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/12/2016, DJe 06/03/2017).
+3. Hipótese em que a Corte local acolheu pedido rescisório formulado pela ora agravante para reputar violado o art. 47 do CPC/1973, haja vista a ausência de citação dos usufrutuários de imóvel a cujos proprietários foi imposta obrigação de reparação de degradação ambiental, em ação civil pública, posição que diverge da assentada por este Tribunal.
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.250.031/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/9/2020, DJe de 30/9/2020).
+ ..  XVI - Não há que se falar em pretensão a ser resguardada em favor do ora recorrente de formação de litisconsórcio passivo necessário para fins de integrar o contraditório sobre o questionamento desses estudos e critérios necessários para a revisão do licenciamento.
+XVII - Sobre essa pretensão relativa à matéria de danos ambientais, tem se que o polo passivo da ação civil pública não exige formação de litisconsórcio passivo necessário, conforme a jurisprudência do Superior Tribunal de Justiça. O fundamento para tanto é a facilitação do exercício da pretensão judicial na tutela coletiva pelo autor, que, em razão da responsabilidade solidária, pode eleger os réus que figurarão no polo passivo da demanda. Confiram-se os seguintes precedentes:(AgInt no AREsp n. 1.250.031/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/9/2020, DJe 30/9/2020,AgInt no AREsp n. 839.492/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2016, DJe 6/3/2017 e AREsp n. 1.517.408/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/12/2019, DJe 11/12/2019).
+ ..  (AgInt no AREsp n. 1.364.080/MA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/3/2022, DJe de 25/3/2022).
+ ..  6. Ademais, a jurisprudência do STJ é toda no sentido de que a responsabilidade pela reparação dos danos ambientais é solidária entre todos os poluidores ou degradadores. A propósito: REsp 1.768.207/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 18.3.2019; AREsp 1.084.396/RO, Rel. Ministro Og Fernandes, Segunda Turma, DJe 18.10.2019; EDcl no AREsp 1.233.356/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27.6.2018; AgInt no AREsp 1.100.789/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15.12.2017; e REsp 1.454.281/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9.9.2016.
+7. Recurso Especial não provido. (REsp n. 1.321.992/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/4/2021, DJe de 17/12/2021).
+Isso posto, dou provimento ao recurso especial, para afastar a determinação de formação de litisconsórcio necessário.
+Não sendo caso de má-fé, descabe a incidência de honorários de sucumbência em ação civil pública, inclusive a título recursal.
+Intimem-se.
+EMENTA
