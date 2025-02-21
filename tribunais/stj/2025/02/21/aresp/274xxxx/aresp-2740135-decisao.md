@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ARILDO TRANSPORTES LTDA. contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que inadmitiu o recurso especial com fundamento nas Súmulas n. 7 do STJ e negou seguimento com base no art. 1.030, I, b, do CPC.
+Consta dos autos que o Juízo de primeiro grau julgou parcialmente procedentes os pedidos formulados pelo ora agravado, nos autos da ação de cobrança, para "declarar a invalidade da capitalização de juros nos contratos de nº 722/424070, 722/424129 e 722/424176, devendo prevalecer a incidência de juros simples e observada a aplicação do art. 354, do CC, declarar a invalidade da cobrança de juros remuneratórios não pactuados nos contratos de nº 722/424070, 722/424129 e 722/424176, adequando os lançamentos à taxa média de juros divulgada pelo Banco Central, exceto quando a taxa aplicada for mais vantajosa para a parte ré, afastar a mora da parte ré nos contratos revisados, determinar o recálculo da movimentação financeira e dos contratos a restituição simples dos valores cobrados indevidamente e, ainda, condenou o réu ao pagamento do saldo devedor a ser apurado em sede de liquidação de sentença" (fl. 525)
+Interpostas apelações por ambas as partes, o recurso do agravado foi parcialmente provido e o do agravante, desprovido, nos termos do acórdão de fls. 547-552, assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA. CONTRATOS DE CAPITAL DE GIRO FORMALIZADOS VIA CAIXA ELETRÔNICO. REVISÃO. POSSIBILIDADE. PRINCÍPIO DA . PACTA SUNT SERVANDA MITIGADO. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. NÃO COMPROVADA. LIMITAÇÃO. INDEVIDA. CAPITALIZAÇÃO DE JUROS. PACTUAÇÃO EXPRESSA. AUSENTE. ART. 51 DO CDC. INCIDENTE. AFASTAMENTO. CORRETO. REPETIÇÃO SIMPLES. DEFINIDA. MORA. DESCARACTERIZADA. SUCUMBÊNCIA RECÍPROCA. INALTERADA. SENTENÇA EM PARTE REFORMADA. RECURSO (1) PARCIALMENTE PROVIDO E RECURSO (2) NÃO PROVIDO.
+Os embargos de declaração opostos pelas partes, foram rejeitados (fls. 581-583).
+Nas razões do especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, a defesa aponta a violação do art. 51, § 8º, do CDC, ao argumento, em suma, de que deve ser reconhecida a abusividade da taxa de juros cobrada, porquanto muito superiores à taxa média de mercado estabelecida pelo Bacen, além da instituição financeira não ter logrado êxito em comprovar a legalidade da taxa exorbitante cobrada.
+Ao final, pugnou pelo conhecimento e provimento do recurso especial.
+Foram apresentadas contrarrazões (e-STJ, fls. 679-689).
+É o relatório.
+Decido.
+O presente agravo em recurso especial não comporta conhecimento, porquanto interposto contra decisão fundamentada no art. 1.030, I, b, do CPC, o qual seria impugnável por meio de agravo interno, nos termos do art. 1.030, § 2º, do mesmo diploma legal, ônus do qual não se desincumbiu a parte agravante, o que configura erro grosseiro.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. MANUTENÇÃO. NÃO ADMISSÃO DO ESPECIAL NA ORIGEM. AUSÊNCIA DE QUALQUER REFERÊNCIA A TEMA REPETITIVO. RECURSO CABÍVEL: AGRAVO EM RECURSO ESPECIAL. MANEJO DE AGRAVO INTERNO. ERRO GROSSEIRO. AGRAVO INTERNO DESPROVIDO.
+1. A decisão do Tribunal de origem, inadmitindo o recurso especial da parte reclamante, não teve por fundamento a incidência de Tese Repetitiva, sendo cabível, portanto, o manejo de Agravo em Recurso Especial (CPC, art. 1.030, V e § 1º, e art. 1.042), e não, como feito pela parte, de Agravo Interno (CPC, art. 1.030, I e II e § 1º, e art. 1.021). Evidente erro grosseiro que afasta a aplicação do princípio da fungibilidade recursal.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.681.269/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. FUNDAMENTO. TESE REPETITIVA. DECISÃO DE ADMISSIBILIDADE. RECURSO CABÍVEL. AGRAVO INTERNO. INTERPOSIÇÃO. AUSÊNCIA. ERRO GROSSEIRO. CONFIGURAÇÃO. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA Nº 182/STJ. MULTA. ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE.
+1. Nos termos da jurisprudência desta Corte, se o recurso especial teve seu seguimento negado na origem com base no artigo 1.030, inc. I, alínea "b" ou no artigo 1.040, inc. I, do Código de Processo Civil, o recurso cabível seria o agravo interno de que trata do § 2º do dispositivo legal em comento.
+2. A interposição de agravo em recurso especial, nesses casos, caracteriza-se como erro grosseiro.
+3. Constatada a ausência de impugnação, nas razões do agravo em recurso especial, dos fundamentos da decisão atacada, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+4. O Superior Tribunal de Justiça firmou entendimento no sentido de que a aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.5. Indispensável que o agravo interno se mostre manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.651.621/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
