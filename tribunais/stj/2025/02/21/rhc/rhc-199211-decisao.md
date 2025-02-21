@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por JOSELITO TEIXEIRA DOS SANTOS contra a Acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, no HC 0042708-10.2024.8.16.0000 .
+Consta dos autos que o recorrente foi denunciado pela suposta prática do crime previsto artigo 342, §1º, do Código Penal.
+Tem-se, ainda, que a Juíza de primeiro grau, atendendo a requerimento do Ministério Público, aplicou a medida cautelar de suspensão do exercício da função pública em face do recorrente, que ocupa o cargo de Delegado de Polícia Civil.
+Impetrado habeas corpus, o Tribunal de Justiça do Estado do Paraná não conheceu do writ.
+Neste recurso, sustenta a ocorrência de excesso de prazo da medida cautelar.
+Requereu, ao final, a concessão da ordem para que seja revogada a medida cautelar de suspensão da função pública.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso em habeas corpus, e, caso conhecido, pelo seu desprovimento (fls. 344-349).
+Requerimento formulado pelo recorrente (fls. 352-532), o qual foi indeferido (fls. 533-534).
+Nova manifestação do recorrente (fls. 538-1082).
+As informações foram prestadas (fls. 1806-1089).
+É o relatório.
+DECIDO.
+O recurso não merece provimento.
+No caso em análise, verifico que a Magistrada de primeiro grau, no dia 6/6/2022, ao receber a denúncia oferecida contra o recorrente, fixou a medida cautelar prevista no art. 319, VI, do CPP, nos seguintes termos (fls. 34-36, grifamos):
+ ..  Por fim, passo a análise da representação do Ministério Público de aplicação da medida cautelar diversa da prisão prevista no artigo 319, inciso VI, do Código de Processo Penal em face do denunciado, haja vista o justo receio do cometimento de novas infrações por parte deste, levando em consideração sua função pública de Delegado de Polícia Civil.
+Preceitua o artigo 282 do Código de Processo Penal que as medidas cautelares deverão ser aplicadas observando-se: I - a necessidade para aplicação da lei penal, para a investigação ou a instrução criminal e, nos casos expressamente previstos, para evitar a prática de infrações penais; II - a adequação da medida à gravidade do crime, circunstâncias do fato e condições pessoais do investigado, indiciado ou acusado.
+Tem-se, portanto, que o deferimento das medidas cautelares diversas da prisão exige a presença do fumus commissi delicti, consubstanciado na probabilidade de um delito, e do periculum libertatis, que se caracteriza pela situação de perigo criada pela conduta do imputado
+Aponta o Ministério Público, a prática, em tese, pelo denunciado do delito previsto no artigo 342, §1º, do Código Penal.
+Extrai-se dos autos que o denunciado teria faltado com a verdade, fazendo afirmações falsas, em juízo, acerca das condutas praticadas pelo investigador de polícia Carlos Eduardo Cascaes, o qual figura como acusado nos autos de ação penal nº 0003249- 59.2020.8.16.0123.
+No entanto, em investigação posterior realizada na Comarca de Dois Vizinhos/PR, constatou-se mensagens no aparelho celular do denunciado, nas quais ele asseverava que "mentiu um monte" em juízo.
+Deste modo, resta demonstrado o fumus commissi delicti através das provas já angariadas, preenchendo o requisito insculpido no artigo 282, inciso I, do Código de Processo Penal, que autoriza a concessão de medidas cautelares a fim de evitar a prática de infrações penais.
+Quanto ao periculum libertatis e a necessidade de adequação da medida à gravidade do crime, circunstâncias do fato e condições pessoais do denunciado, nos termos do artigo 282, inciso II, do aludido Código, compreende-se que é adequada e necessária para a finalidade de evitar a prática de infrações penais a medida de afastamento completo de suas funções, uma vez que há elementos robustos indicando a prática do delito em questão.
+Destaco, ainda, que o acusado somente interveio nos autos de ação penal de nº 0003249- 59.2020.8.16.0123 em razão das funções exercidas na Delegacia de Polícia do Município de Dois Vizinhos/PR, na condição de Delegado de Polícia, tendo em vista que naquele processo se apura a prática dos delitos de associação criminosa e extorsão supostamente praticados pelo investigador de polícia Carlos Eduardo Cascaes, o qual desempenhava as suas funções naquela unidade, a revelar não só o crime que se apura no presente processo, de falso testemunho, mas igualmente que o agente vinha reiteradamente se omitindo dos seus deveres legais enquanto agente público da segurança pública, conforme bem ponderou o Ministério Público.
+Diante do exposto, ante a evidência da presença do fumus comissi delicti e do periculum libertatis, e por ser suficiente para evitar o perigo concreto de reiteração criminosa, defiro o pedido de suspensão do exercício de função pública exercida pelo denunciado JOSELITO TEIXEIRA DOS SANTOS junto à Polícia Civil do Estado do Paraná, com fundamento no artigo 319, inciso VI, do Código de Processo Penal, até a sentença ou ulterior decisão em sentido contrário.
+Intime-se o denunciado, cientificando-o de que o descumprimento da medida imposta poderá ensejar decreto de prisão preventiva.
+Necessário destacar a afirmação, contida no recurso interposto (fls. 316-331), no sentido de que ocorreram três redesignações de audiências, não estando o motivo "interligado unicamente com o juízo".
+Nesse particular, relevante observar que havia sido designada audiência de instrução e julgamento, inicialmente, para o dia 10.10.2023. Entretanto, em 6.10.2023, a própria Defesa do paciente requereu a redesignação do ato (fls. 787-788 e 800), pedido deferido pela Magistrada, sendo designada nova data para a realização da audiência em 13.5.2024 (fl. 803).
+No mais, segundo informações prestadas pela Juíza (fls. 1086-1089), no "momento, aguarda-se a apresentação de documentos e alegações finais", ou seja, o processo já está se encaminhando para a fase de sentença.
+Como se sabe,  a  imposição das medidas cautelares previstas no art. 319, VI, do CPP, não está sujeita a prazo definido, obedecendo sua duração, porém, aos princípios da proporcionalidade e razoabilidade, levando-se em consideração o momento em que foi estabelecido o afastamento das funções públicas e a demonstração efetiva de sua necessidade para o alcance dos objetivos almejados na ação penal (HC n. 392.096/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe de 27/4/2018).
+Dentro desse cenário, havendo também contribuição da Defesa para o atraso na marcha processual - e consequentemente para o prolongamento da duração da medida cautelar - e considerando que resta apenas a juntada de documentos e o oferecimento das alegações finais para que o feito seja sentenciado, não vislumbro arbitrariedade ou ausência de razoabilidade e proporcionalidade na medida fixada.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
