@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. ANÁLISE PELO STJ. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. Se o Tribunal de origem decidir a controvérsia com fundamento exclusivamente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça (STJ) via recurso especial porque esse recurso se destina à uniformização da interpretação do direito federal infraconstitucional e por implicar usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por NADJA MARIA MACIEL DIAS da decisão em que não conheci de seu recurso (fls. 317/322).
+A parte agravante sustenta que a tese recursal se restringe à interpretação dos arts. 2º e 38 da Lei 9.784/1999 e 143 da Lei 8.112/1990.
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 339).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. ANÁLISE PELO STJ. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. Se o Tribunal de origem decidir a controvérsia com fundamento exclusivamente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça (STJ) via recurso especial porque esse recurso se destina à uniformização da interpretação do direito federal infraconstitucional e por implicar usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+2. Agravo interno a que se nega provimento.
+VOTO
+A decisão agravada não conheceu do recurso porque a controvérsia havia sido decidida com fundamento exclusivamente constitucional.
+Em nova análise do presente caso, vê-se que, quanto ao ponto controvertido - legalidade da decisão administrativa que limitou a cumulação dos proventos de aposentadoria e de pensão por morte ao Teto Constitucional -, objeto do recurso especial, o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO realmente decidiu com fundamento unicamente constitucional, consubstanciado no julgamento do Recurso Extraordinário 602.584/DF (Tema 359) pelo Supremo Tribunal Federal (fls. 207/208):
+O Supremo Tribunal Federal, corte de jurisdição nacional, no julgamento do RE 602.584-DF (Tema 359),em 06/08/20, sob o regime do art. 1.036 do CPC, firmou a seguinte tese: "Ocorrida a morte do instituidor da pensão em momento posterior ao da Emenda Constitucional nº 19/1998, o teto constitucional previsto no inciso XI do artigo 37 da Constituição Federal incide sobre o somatório de remuneração ou provento e pensão percebida por servidor". Confira-se:
+"TETO CONSTITUCIONAL - PENSÃO - REMUNERAÇÃO OU PROVENTO - ACUMULAÇÃO - ALCANCE. Ante situação jurídica surgida em data posterior à Emenda Constitucional nº 19, de 4 de junho de 1998, cabível é considerar, para efeito de teto, o somatório de valores percebidos a título de remuneração, proventos e pensão."(RE 602584, Relator (a): MARCO AURÉLIO, Tribunal Pleno, julgado em 06/08/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-277 DIVULG 20-11-2020 PUBLIC23-11-2020)
+O precedente do STF não fez qualquer distinção no que se refere à hipótese de acúmulo de remuneração e pensão vinculados a entes federados distintos. De outra sorte, esclareça-se que, no presente caso, em que os entes a que os benefícios estão vinculados são distintos, o teto utilizado como parâmetro foi o do poder judiciário federal (STF), exatamente porque é o mais vantajoso.
+A morte do cônjuge da autora ocorreu em 20/07/2007, em momento posterior ao da Emenda Constitucional nº 19/1998. Como se nota, a sentença está em conformidade com o entendimento do STF, motivo pelo qual deve ser considerado, para efeito de teto, o somatório de valores por ela percebidos a título de proventos e pensão. Por conseguinte, considerando o posicionamento firmado pelo STF, o pleito da autora não merece amparo.
+Registre-se, por oportuno, que o Tema 359 (RE 602854), aqui analisado, tratou especificamente da incidência do teto constitucional remuneratório sobre o montante decorrente da acumulação de proventos e pensão, o que se aplica ao caso, enquanto que o Tema 377 (RE 612975) tratou da incidência do teto remuneratório no caso de acumulação de cargos públicos e o Tema 384 (RE 602043), da incidência do teto a servidores já ocupantes de dois cargos públicos antes da vigência da Emenda Constitucional 41/2003. Nestes dois últimos Temas (377 e 384), julgados em conjunto em 27/04/17, diversamente, fora firmada a tese de que "Nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a incidência do art. 37, inciso XI, da Constituição Federal pressupõe consideração de cada um dos vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente público".
+Na hipótese de o Tribunal de origem decidir a controvérsia com fundamento eminentemente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça via recu rso especial, a uma, porque esse recurso se destina a uniformizar a interpretação do direito federal infraconstitucional e, a duas, porque implicaria a usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+Está correta a decisão que não conheceu do recurso.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
