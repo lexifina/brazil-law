@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. NECESSIDADE DE ACLARAMENTO DO ACÓRDÃO. NEPOTISMO. AFASTAMENTO DA PENA DE PERDA DA FUNÇÃO PÚBLICA. IRRELEVÂNCIA. NULIDADE DO ATO DE NOMEAÇÃO. DECORRÊNCIA DIRETA DO RECONHECIMENTO DA VIOLAÇÃO À CONSTITUIÇÃO. VÍCIO SANADO. RECURSO ACOLHIDO, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil, são cabíveis quando há obscuridade, contradição, omissão ou erro material no julgado. Em hipóteses excepcionais, o Superior Tribunal de Justiça permite que a eles se empreste efeitos infringentes.
+2. Embora assista razão à parte embargante no tocante à extensão da aplicação das alterações da Lei 14.230/2021 no inciso III do art. 12 da LIA à hipótese dos autos, não mais se podendo aplicar a sanção de perda da função aos demandados, no caso concreto, o afastamento da pena não altera o rompimento do vínculo funcional decorrente do reconhecimento do nepotismo e da declaração de nulidade do ato de nomeação violador da Constituição em relação aos servidores.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARIA ANGELICA CORREIA LIMA FIGUEIREDO contra o acórdão da PRIMEIRA TURMA, de minha relatoria, assim ementado (fls. 1.236/1.237):
+ADMINISTRATIVO E PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. SERVIDORA NOMEADA PARA CARGO COMISSIONADO NO MUNICÍPIO DE PONTAL/SP. PARENTESCO POR AFINIDADE COM VEREADORA DO MUNICÍPIO (CUNHADA). RECONHECIMENTO DA RECIPROCIDADE MEDIANTE A PRESTAÇÃO DE FAVORES POLÍTICOS. INSINDICABILIDADE. NEPOTISMO.
+1. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte quando consideradas desnecessárias pelo juízo, desde que devidamente fundamentada a decisão.
+2. Aplicação das alterações advindas da Lei 14.230/2021 aos processos em curso em que não houve, ainda, o trânsito em julgado. Extensão da aplicação do Tema 1.199 às condenações com base no art. 11 da Lei 8.429/1992 pelo próprio STF em que a nova redação do dispositivo resulta na abolição da tipicidade da conduta.
+3. A conduta cristalizada no acórdão recorrido tipifica o atual inciso XI do art. 11 da LIA. Princípio da continuidade típico-normativa. Abolição da tipicidade insubsistente.
+4. Nomeação de parente de autoridade legislativa municipal pelo prefeito, não em virtude de suas qualificações, mas em vista do vínculo parental mantido e os favores políticos que serão prestados em troca, consoante reconhecido pela instância a quo, circunstância cuja análise encontra óbice no enunciado 7 da Súmula desta Corte Superior.
+5. A tipificação de qualquer das atuais hipóteses previstas no art. 11 da LIA, de acordo com a atual redação do inciso III do art. 12 do mesmo édito, não mais poderá levar à aplicação da sanção de suspensão dos direitos políticos, pena esta afastada do âmbito das condutas ímprobas a violarem os princípios administrativos.
+6. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E LHE DAR PARCIAL PROVIMENTO.
+A parte embargante alega ser omisso e contraditório o acórdão embargado, pois, apesar de afastar a pena de suspensão dos direitos políticos com base na nova redação da Lei de Improbidade Administrativa (LIA), não estendeu essa mesma lógica para a pena de perda da função pública.
+Requer que os embargos sejam acolhidos, afastando-se a pena de perda da função pública.
+A parte adversa apresentou impugnação no sentido do acolhimento dos embargos (fls. 1.278/1.281).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. NECESSIDADE DE ACLARAMENTO DO ACÓRDÃO. NEPOTISMO. AFASTAMENTO DA PENA DE PERDA DA FUNÇÃO PÚBLICA. IRRELEVÂNCIA. NULIDADE DO ATO DE NOMEAÇÃO. DECORRÊNCIA DIRETA DO RECONHECIMENTO DA VIOLAÇÃO À CONSTITUIÇÃO. VÍCIO SANADO. RECURSO ACOLHIDO, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil, são cabíveis quando há obscuridade, contradição, omissão ou erro material no julgado. Em hipóteses excepcionais, o Superior Tribunal de Justiça permite que a eles se empreste efeitos infringentes.
+2. Embora assista razão à parte embargante no tocante à extensão da aplicação das alterações da Lei 14.230/2021 no inciso III do art. 12 da LIA à hipótese dos autos, não mais se podendo aplicar a sanção de perda da função aos demandados, no caso concreto, o afastamento da pena não altera o rompimento do vínculo funcional decorrente do reconhecimento do nepotismo e da declaração de nulidade do ato de nomeação violador da Constituição em relação aos servidores.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Entendo ser necessário aclarar o acórdão embargado.
+Não há dúvidas de que a Lei 14.230/2021 alterou o inciso III do art. 12 da LIA, afastando as penas de suspensão de direitos políticos e de perda da função pública àqueles condenados com base no art. 11 da LIA.
+No entanto, o vínculo público mantido pela parte recorrente não foi objeto de solução por força apenas da aplicação da pena em questão, mas, também, porque o reconhecimento do nepotismo leva à declaração da nulidade dos atos de nomeação dos parentes indevidamente indicados para ocupar cargos em comissão, tendo em vista a flagrante mácula à Constituição.
+A sentença não deixa dúvidas acerca da nulidade dos atos administrativos em questão (fls. 868/869, destaque ausente no original):
+1) declarar a nuIidade das nomeações de: CÉLIA MARIA ANDRADE VENTURELLI (Portaria nº 387/2009) para o cargo de provimento em comissão de "Diretora de Escola" do Município de Pontal; MARIA ANGÉLICA CORRÊA LIMA FIGUEIREDO (Portaria nº 436/2009) para o cargo de provimento em comissão de "Chefe de Seção" do Município de Pontal; e MARIANA DE CASSIA DA SILVA NEVES (Portaria nº 355/09) para o cargo de provimento em comissão de "Assessor Administrativo do Município de Pontal;
+Assim, embora assista razão à parte embargante no tocante à extensão da aplicação das alterações da Lei 14.230/2021 no inciso III do art. 12 da LIA à hipótese dos autos, não mais se podendo aplicar a pena de perda da função aos demandados, no caso concreto, o afastamento da pena não altera o rompimento do vínculo funcional decorrente do reconhecimento do nepotismo e d a declaração de nulidade do ato de nomeação violador da Constituição em relação aos servidores.
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes.
+É o voto.
