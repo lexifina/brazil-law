@@ -1,0 +1,25 @@
+DECISÃO
+RUAN CRISTHIAN DE SOUZA MARVILHA agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tri bunal de Justiça do Estado de Minas Gerais na Apelação n. 1.0024.20.146167-0/001.
+Nas razões do especial, a defesa, ao desenvolver a argumentação relativa à interposição baseada na alínea "a" do permissivo constitucional, o insurgente apontou violação dos arts. 33, caput, da Lei n. 11.343/2006 e 180 do CP.
+Aduziu não haver provas de que o réu haja praticado o crime de tráfico de drogas nem de que houvesse dolo na conduta de ele estar na posse de um aparelho de celular produto de roubo.
+Entendeu, ainda, haver bis in idem na valoração negativa dos motivos e das circunstâncias dos crimes contra a vida.
+Pretendeu a absolvição do acusado em relação aos delitos de tráfico de entorpecentes e de receptação, bem como a redução das sanções atribuídas a ele pela prática dos crimes de homicídio consumado e tentado.
+O recurso especial foi inadmitido, ante a incidência da Súmula n. 284 do STF, por falta de indicação dos dispositivos legais violados e pela não comprovação da divergência jurisprudencial.
+O Ministério Público Federal opinou pelo não conhecimento do agravo.
+Decido.
+O agravo em recurso especial tem como objetivo atacar todos os óbices apontados pelo Tribunal a quo ao inadmitir o recurso especial. Em obediência ao princípio da dialeticidade, a impugnação não pode ser genérica.
+Ademais, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade" (AgRg nos EDcl no AREsp n. 1.785.474/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/5/2021).
+Deveras:
+ ..  o entendimento pacífico desta Corte é o da imprescindibilidade da impugnação de todos os fundamentos da decisão de inadmissibilidade, sejam eles autônomos ou não, "pois não existe identidade entre a lógica da Súmula n. 182 do STJ e a da Súmula n. 283 do STF, uma vez que o conhecimento, ainda que parcial, do agravo em especial, obriga a Corte a conhecer de todos os fundamentos do especial, inclusive os não impugnados de modo específico" (AgRg no AREsp n. 68.639/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2/2/2012).
+(EDcl no AgInt no AREsp n. 1.413.506/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 27/6/2019)
+No caso, como já dito, a Corte de origem inadmitiu a pretensão em virtude da incidência da Súmula n. 284 do STF por falta de indicação dos dispositivos de lei violados e por ausência de demonstração do dissídio jurisprudencial.
+Em seu agravo, a parte entende que a Corte estadual fez indevida análise do mérito do recurso especial e aduz que a matéria em discussão no especial foi prequestionada.
+Assevera (fl.1.616):
+Do exame dos autos constata-se que o Recorrente atendeu integralmente aos requisitos processuais e apresentou o recurso cabível, não restando nenhuma via ordinária a ser percorrida para intentar o Recurso Especial. Ao contrário do que a decisão a ser modificada indica, todos os pontos suscitados nas alegações recursais do Recorrente centraram-se na adequada aplicação da magnitude da pena imposta. Verificou-se de maneira detalhada que a transgressão ao dispositivo constitucional no presente caso emana da Constituição Federal e de leis federais, e isso fica patente ao conhecimento do jurisdicionado no que tange ao recurso constitucional. Portanto, não há espaço para se referir à Súmula 284 do STF.
+No caso, percebe-se que o insurgente deixou de se manifestar sobre os pontos destacados na decisão que inadmitiu o recurso especial, a saber, a falta de indicação dos dispositivos legais violados e a ausência de demonstração da divergência pretoriana. Limitou-se a, de maneira genérica, aduzir a não incidência do óbice sumular em questão, o que não é suficiente para atender ao princípio da dialeticidade.
+Portanto, verificado que o agravante não rebateu, concretamente, todos os óbices da inadmissão do recurso especial, é de rigor a aplicação, na espécie, da Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+No mesmo sentido, cito o parecer emitido pelo Subprocurador-Geral da República Alexandre Camanho de Assis (fl. 1.649):
+A despeito de o agravante ter feito referência ao óbice do enunciado 284/STF, não apresentou argumentos hábeis a afastá-lo, o que atrai a incidência do verbete 182/STJ. Data venia, é de se invocar novamente a incidência do verbete 284/STF, pois ausente qualquer clareza nas razões de pedir do agravante, capaz de permitir a exata compreensão da controvérsia. Pelo contrário: traz ao agravo razões que mais se assemelham a contrarrazões. Incabível, portanto, o conhecimento do agravo.
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
