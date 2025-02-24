@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. DESERÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A mera alegação, nas razões de recurso especial, de que a parte é beneficiária da assistência judiciária não é suficiente para o afastamento da deserção, ou seja, deve haver a comprovação dessa condição, o que não ocorreu no caso.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação do s fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA DO CARMO DE ARAUJO DANTAS (MARIA) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do recurso especial, por não ter sido instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Nas razões do presente inconformismo, MARIA defendeu que requereu a concessão da gratuidade judiciária no momento oportuno, contudo inexistiu pronunciamento judicial quanto ao pedido. Alegou que no julgamento da apelação, deixou de recolher o devido preparo, o que acarreta, por conseguinte, a concessão tácita da gratuidade.
+Foi apresentada contraminuta (e-STJ, fls. 331/336).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. DESERÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A mera alegação, nas razões de recurso especial, de que a parte é beneficiária da assistência judiciária não é suficiente para o afastamento da deserção, ou seja, deve haver a comprovação dessa condição, o que não ocorreu no caso.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação do s fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece acolhida.
+A decisão agravada reconheceu a deserção do recurso especial, nos seguintes termos:
+Por meio da análise do recurso de MARIA DO CARMO DE ARAUJO DANTAS, verifica-se que o Recurso Especial não foi instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Apesar de a parte recorrente asseverar que litiga sob o pálio da gratuidade, a mera alegação, na petição recursal, de que é beneficiária da assistência judiciária, não é suficiente para o afastamento da deserção, ou seja, deve haver a comprovação dessa condição. Nesse sentido, o AgInt no AREsp 1545172/SP, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe de 5.6.2020.
+É insuficiente, portanto, a alegação de que a gratuidade foi deferida expressa ou tacitamente nos autos principais e/ou apensados, devendo a parte trazer certidão comprobatória do Tribunal de origem desse deferimento ou cópia integral dos respectivos autos , o que não ocorreu no caso concreto.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a asseverar às fls. 296/297 que é beneficiária da gratuidade de justiça, sem, contudo, trazer documentos que corroborem com sua alegação.
+Dessa forma, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que a ausência de indeferimento expresso do pedido de assistência judiciária formulado enseja a presunção da concessão do benefício em favor da parte que o pleiteou quando acompanhado da declaração de hipossuficiência, só podendo ser afastada por decisão judicial fundamentada no caso de ser impugnada pela parte contrária, ou se o julgador buscar no processo informações que desqualifiquem a declaração (AgRg nos EAREsp n. 440.971/RS, relator Ministro Raul Araújo, Corte Especial, julgado em 3/2/2016, DJe de 17/3/2016).
+No caso dos autos, não houve pedido de gratuidade nas razões do recurso especial, que veio desacompanhada da declaração de hipossuficiência.
+Nesse sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. PARTE BENEFICIÁ RIA DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. RECURSO QUE VERSA APENAS SOBRE O VALOR DOS HONORÁRIOS ADVOCATÍCIOS DEVIDOS AO SEU ADVOGADO. NECESSIDADE DO RECOLHIMENTO DO PREPARO, SALVO SE O PRÓPRIO ADVOGADO COMPROVAR QUE FAZ JUS À GRATUIDADE DA JUSTIÇA, HIPÓTESE NÃO CONFIGURADA NOS AUTOS. DESERÇÃO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. É "pacífico o entendimento desta Corte Superior, no sentido de que o benefício de justiça gratuita concedido unicamente à parte não tem extensão à terceiros, porquanto a assistência judiciária gratuita é um direito personalíssimo e incomunicável, razão pela qual o seu deferimento à parte não implica a sua extensão ao patrono quando esse pleitear, em seu interesse, os direitos contidos no artigo 23, da Lei nº 8.906/94" (AgInt no AREsp 1.482.403/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/8/2019, DJe de 23/8/2019).
+2. A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que a ausência de indeferimento expresso do pedido de Assistência Judiciária formulado enseja a presunção da concessão do benefício em favor da parte que o pleiteou, quando acompanhado da declaração de hipossuficiência, só podendo ser afastada por decisão judicial fundamentada, quando impugnada pela parte contrária, ou quando o julgador buscar no processo informações que desqualifiquem referida declaração (AgRg nos EAREsp 440.971/RS, relator Ministro Raul Araújo, Corte Especial, julgado em 3/2/2016, DJe de 17/3/2016).
+3. Na hipótese dos autos, constato que o pedido de assistência judiciária formulado nas razões recursais veio desacompanhado da declaração de hipossuficiência. Devidamente intimada para regularizar o preparo, na forma do art. 1.007, § 4º, do CPC/2015, a parte ora agravante quedou-se inerte. Logo, é inafastável o reconhecimento da deserção do recurso especial.
+4. Agravo interno a que se nega provimento
+(AgInt no AREsp 2.224.518/RS, Rel Ministro PAULO SÉRGIO DOMINGUES, Primeira Turma, j. 22/5/2023 - sem destaques no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO. DEFERIMENTO TÁCITO. INEXISTÊNCIA. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DO PREPARO. DESCUMPRIMENTO. RECONHECIMENTO DA DESERÇÃO. SÚMULA N. 187/STJ. INCIDÊNCIA. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015 . CABIMENTO.
+1. Cumprimento de sentença.
+2. Consoante reiterada e uníssona jurisprudência desta Corte Superior, é inafastável a Súmula n. 187/STJ, visto que é " ..  ônus da parte, portanto, no ato da interposição do recurso, fazer prova da condição de dispensa do recolhimento do preparo, permitindo que ao recurso seja dado o devido seguimento. Não o fazendo, deve a parte arcar com o ônus daí advindo (AgRg nos EAREsp nº 116.672/RJ, Relator Ministro MARCO BUZZI, Quarta Turma, DJe 2/10/2012) e que a não apreciação do pedido de assistência judiciária gratuita não significa deferimento tácito  .. " (AgInt no AREsp n. 997.745/PB, Quarta Turma, DJe de 6/10/2017). Precedentes.
+3. Há entendimento predominante no Superior Tribunal de Justiça de que é insuficiente a alegação de que a assistência judiciária gratuita foi deferida expressa ou tacitamente nos autos principais ou apensados, devendo a parte trazer certidão comprobatória do Tribunal estadual desse deferimento, o que não ocorreu. Precedentes.
+4. Quando a parte, após regularmente intimada, não comprova, no prazo assinado, o recolhimento do preparo na forma devida ou o deferimento da assistência judiciária gratuita no Tribunal de origem, o recurso especial é considerado deserto. Precedentes.
+5. Agravo interno no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC/2015.
+(AgInt no AREsp 2.323.490/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 18/9/2023)
+Ademais, o Superior Tribunal de Justiça, diante da ausência do comprovante do recolhimento do preparo, intimou a parte a proceder a comprovação do deferimento da assistência judiciária gratuita ou realizar o seu pagamento em dobro (e-STJ fl. 292), nos termos do art. 1.007, § 4º, do CPC, o que não foi atendido , ensejando o decreto de deserção.
+Portanto, ausente a comprovação de que a parte é beneficiária da gratuidade da justiça no ato da interposição do recurso, correto o reconhecimento da deserção do especial e a aplicação da Súmula n. 187 do STJ.
+Assim, porque MARIA não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
