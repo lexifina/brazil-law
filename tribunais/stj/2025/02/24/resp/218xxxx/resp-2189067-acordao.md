@@ -1,0 +1,103 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, conhecer parcialmente do recurso e, nessa parte, dar-lhe parcial provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. SERVIÇOS HOSPITALARES. PRESTAÇÃO. FALHA. NEGLIGÊNCIA E IMPERÍCIA. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. SUFICIÊNCIA. PERÍCIA. COMPLEMENTAÇÃO. DIGITALIZAÇÃO. INTIMAÇÃO. AUTOS. ACESSO INTEGRAL. VISTA PESSOAL. EQUIVALÊNCIA. SÚMULA 568/STJ. ASSISTENTE TÉCNICO. INTIMAÇÃO. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA Nº 283/STF. JUROS MORATÓRIOS. CORREÇÃO MONETÁRIA. ART. 406 DO CC. SELIC. DÍVIDAS DE NATUREZA CIVIL. APLICAÇÃO.
+1. A  controvérsia  dos  autos  resume-se  em  definir  se :  ocorreu  negativa  de  prestação  jurisdicional ; o acesso à integra dos autos decorrente da intimação da digitalização do processo equivale à intimação pessoal; é válida a perícia realizada sem intimação do assistente técnico da parte; e a taxa dos juros de mora prevista no art. 406 do Código Civil é a Selic.
+2.  Não  viola  os  arts.  489  e  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+3. As citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais. Precedentes.
+4. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+5. . O Superior Tribunal de Justiça possui entendimento no sentido de que o art. 406 do CC deve ser interpretado como sendo a Selic a taxa de juros de mora aplicável às dívidas de natureza civil.
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por SOCIEDADE BENEFICÊNCIA E CARIDADE DE LAJEADO.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"RESPONSABILIDADE CIVIL. ERRO MÉDICO. ALTA PREMATURA. SEQUELAS. PROVA PERICIAL. DEVER DE INDENIZAR MANTIDO. DANO MORAL E PENSIONAMENTO DEVIDOS.
+AJG. Entidade beneficente. Manutenção.
+Cerceamento de defesa. Preclusão.
+A prestação de serviços relacionados à saúde possui riscos inerentes, que não podem ser atribuídos integralmente aos médicos e hospitais. Necessária a presença de culpa do profissional ou falha no serviço prestado pelo fornecedor. Incidência do art. 14, § 4º, do CDC.
+Na hipótese, após seu nascimento, o autor e sua genitora tiveram alta médica de forma prematura (28 horas após o nascimento), fato que gerou uma série de sequelas permanentes no requerente.
+A violação de direito da personalidade fundamenta a indenização por dano moral.
+O valor da indenização deve ser fixado de acordo com as condições do ofensor, do ofendido e do bem jurídico lesado, bem como com os princípios da proporcionalidade e razoabilidade. Quantum mantido.
+Juros de mora, à razão de 1% ao mês, a contar da citação, por se tratar de relação contratual.
+Correção monetária pelo IPCA-E, a contar do arbitramento da indenização. Pensionamento devido. Termo inicial. Manutenção. Parcela única. Descabimento. Precedentes desta Corte e do STJ. APELOS PARCIALMENTE PROVIDOS." (e-STJ fl. 626).
+Os embargos de declaração opostos pela recorrente foram rejeitados (e-STJ fls. 653/656).
+No recurso especial, a recorrente aponta a violação dos seguintes dispositivos:
+(i) artigos 489, § 1º, IV, e 1022 do Código de Processo Civil, alegando que o Tribunal de origem não examinou todos os argumentos suficientes para o correto deslinde da controvérsia, configurando negativa de prestação jurisdicional;
+(ii) artigos 269 e 507 do Código de Processo Civil, aduzindo cerceamento do direito de defesa, pois a intimação relativa à digitalização dos autos não dispensa a intimação específica e pessoal da decisão anterior que dispensa a complementação da perícia, razão pela qual não há falar em sua concordância tácita com o fato por efeito da preclusão;
+(iii) artigos 466, § 2º, e 474 do Código de Processo Civil, afirmando que a falta de intimação de sua assistente técnica para participar da diligência pericial é causa de nulidade, por causar prejuízos significativos ao seu direito de defesa; e
+(iv) artigo 406 do Código Civil, asseverando que a Selic deve ser utilizada como índice de juros de mora e de correção monetária do valor indenizatório.
+As contrarrazões não foram apresentadas (e-STJ, fl. 686), e o recurso especial foi admitido na origem.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. SERVIÇOS HOSPITALARES. PRESTAÇÃO. FALHA. NEGLIGÊNCIA E IMPERÍCIA. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. SUFICIÊNCIA. PERÍCIA. COMPLEMENTAÇÃO. DIGITALIZAÇÃO. INTIMAÇÃO. AUTOS. ACESSO INTEGRAL. VISTA PESSOAL. EQUIVALÊNCIA. SÚMULA 568/STJ. ASSISTENTE TÉCNICO. INTIMAÇÃO. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA Nº 283/STF. JUROS MORATÓRIOS. CORREÇÃO MONETÁRIA. ART. 406 DO CC. SELIC. DÍVIDAS DE NATUREZA CIVIL. APLICAÇÃO.
+1. A  controvérsia  dos  autos  resume-se  em  definir  se :  ocorreu  negativa  de  prestação  jurisdicional ; o acesso à integra dos autos decorrente da intimação da digitalização do processo equivale à intimação pessoal; é válida a perícia realizada sem intimação do assistente técnico da parte; e a taxa dos juros de mora prevista no art. 406 do Código Civil é a Selic.
+2.  Não  viola  os  arts.  489  e  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+3. As citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais. Precedentes.
+4. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+5. . O Superior Tribunal de Justiça possui entendimento no sentido de que o art. 406 do CC deve ser interpretado como sendo a Selic a taxa de juros de mora aplicável às dívidas de natureza civil.
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+VOTO
+A  insurgência  merece  prosperar em parte.
+No  que  concerne  ao  alegado  defeito  na  prestação  jurisdicional,  o  Tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo  e  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese,  como  se  vê  do  seguinte  trecho  do  acórdão  dos embargos de declaração:
+"(..)
+Na hipótese em exame, o acórdão possui fundamentação jurídica e legal em desfavor às alegações da parte recorrente. Assim, não deve ser acolhida sua inconformidade.
+Ao concreto, entendo desneces sária a intimação específica para todos os atos, bastando a intimação acerca da digitalização do processo, na linha dos seguintes precedentes:
+ ..
+Ou seja, quando da intimação sobre a digitalização do processo, a parte tomou ciência inequívoca de todo o andamento processual, sendo despicienda a intimação pretendida pela parte embargante.
+Quando a alegada ausência de comunicação ao assistente técnico, melhor sorte não socorre ao embargante, porquanto indemonstrado o prejuízo, ônus que recai sobre a parte ré.
+Ademais, houve a intimação das partes acerca do local e hora da perícia e eventual ausência de intimação do assistente não caracteriza nulidade."  (e-STJ  fl.  654 - grifou-se).
+Não  há  falar,  portanto,  em  prestação  jurisdicional  lacunosa  ou  deficitária  apenas  pelo  fato  de  o  acórdão  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  do  recorrente.
+Nesse  sentido:
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  RESCISÃO  DE  CONTRATO  DE  COMPRA  E  VENDA  DE  IMÓVEL.  ATRASO  NA  ENTREGA.  CULPA  DA  VENDEDORA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  COMISSÃO  DE  CORRETAGEM.  PRESCRIÇÃO.  APLICAÇÃO  DO  PRAZO  PRESCRICIONAL  DECENAL.  INCIDÊNCIA  DA  SÚMULA  Nº  83  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Não  há  falar  em  ofensa  aos  arts.  489  e  1022  do  CPC,  porquanto  todas  as  questões  fundamentais  ao  deslinde  da  controvérsia  foram  apreciadas  pelo  Tribunal  a  quo,  sendo  que  não  caracteriza  omissão  ou  falta  de  fundamentação  a  mera  decisão  contrária  ao  interesse  da  parte.
+2.  As  Turmas  que  compõem  a  Segunda  Seção  deste  Superior  Tribunal  firmaram  entendimento  no  sentido  de  que,  nos  casos  de  rescisão  de  contrato  de  compra  e  venda  de  imóvel  por  culpa  do  vendedor,  é  aplicável  o  prazo  decenal  contado  a  partir  da  resolução.
+3.  Agravo  interno  não  provido."
+(AgInt  no  AREsp  2.267.897/SP,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  DJe  6/12/2023  -  grifou-se)
+No que diz respeito à alegada violação dos artigos 269 e 507 do Código de Processo Civil e sobre a questão relativa à extensão da intimação para ciência da digitalização dos autos, a orientação seguida pelo Tribunal de origem encontra respaldo na jurisprudência desta Corte de que as citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. INTEMPESTIVIDADE DA APELAÇÃO. CIÊNCIA INEQUÍVOCA. DISCUSSÃO EM SENTIDO CONTRÁRIO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO PREJUDICADO.
+1. Ação regressiva.
+2. A jurisprudência desta Corte, é firme no sentido de que, nos termos do 9º,§1º, da Lei 11.419/06 (Lei que dispõe sobre a informatização do processo judicial), "As citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais." Precedentes.
+3. O reexame fático e probatório em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno desprovido." (AgInt no AREsp n. 2.374.180/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/4/2024, DJe de 24/4/2024.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA INTEMPESTIVA. PARTE LEU INTIMAÇÃO DISTINTA E SE MANIFESTOU NO FEITO APÓS SER DETERMINADO O CUMPRIMENTO DA OBRIGAÇÃO. PRESUNÇÃO ABSOLUTA DE CIÊNCIA DE TODOS OS ATOS ANTERIORES AO ACESSO. ART. 9º, § 1º, DA LEI 11.419/06. SÚMULAS N. 7 E 83 DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. É entendimento desta Corte ser desnecessária a certificação da data em que a parte efetivamente consultou o processo eletrônico, já que, de acordo com o § 1º do art. 9º da Lei 11.419/2006, "as citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais".
+2. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto à tese de que o advogado da Companhia não teve acesso ao conteúdo da decisão, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido."
+(AgInt nos EDcl no AREsp n. 1.759.421/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2021, DJe de 24/5/2021.)
+Assim, no ponto, em razão da consonância entre o acórdão recorrido e a jurisprudência desta Corte, aplica-se o óbice da Súmula 568/STJ.
+No que se refere às alegadas ofensas aos artigos 466, § 2º, e 474 do Código de Processo Civil, correspondentes à tese de que a falta de intimação da assistente técnica para participar da diligência pericial é causa de nulidade, por causar prejuízos significativos ao direito de defesa, nota-se que o Tribunal de origem deixou de atender a essa pretensão da recorrente com fundamento na ausência de demonstração de prejuízo e na suficiência da intimação dirigida às próprias partes acerca do local e hora da perícia.
+No especial, todavia, a recorrente não impugnou o segundo desses fundamentos - de que basta, para a validade do ato, a intimação dirigida às próprias partes acerca do local e hora da perícia -, atraindo, assim, o óbice da Súmula 283 do Supremo Tribunal Federal, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO. PRELIMINAR DE INTEMPESTIVIDADE DO AGRAVO INTERNO. AFASTAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CUMULAÇÃO DE INDENIZAÇÃO COM MULTA CONTRATUAL. IMPOSSIBILIDADE RECONHECIDA NA ORIGEM EM RAZÃO DO RECONHECIMENTO DA NATUREZA COMPENSATÓRIA DA CLÁUSULA PENAL. REVISÃO. ÓBICE DA SÚMULA N. 5 DO STJ. ALEGAÇÃO DE OFENSA AOS ARTS. 497 E 499 DO CPC E 186, 187 E 927 DO CC. DEFICIÊNCIA DAS RAZÕES RECURSAIS. SÚMULA N. 284 DO STF. VIOLAÇÃO DO ART. 1.418 DO CC. FUNDAMENTO NÃO ATACADO. SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. "A necessidade de comprovação de feriado local não se aplica à hipótese em que a ausência de expediente forense decorre de ato administrativo editado pelo próprio Tribunal ao qual está vinculado o órgão julgador" (AgInt no AgInt nos EAR Esp n. 2.115.665/BA, Corte Especial).
+2. Afasta-se a alegação de negativa de prestação jurisdicional quando o julgador apresenta fundamentação suficiente para a solução do conflito que lhe foi submetido, sendo desnecessário que proceda ao completo exaurimento de todas as proposições suscitadas pela parte, senão daquelas efetivamente hábeis a influir no seu convencimento.
+3. Não se conhece do recurso especial na parte em que o acolhimento das razões recursais demanda a interpretação de cláusula contratual. Incidência da Súmula n. 5 do STJ.
+4. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+5. Aplica-se, por analogia, a Súmula n. 283 do STF quando subsiste fundamento não atacado e suficiente para a manutenção da decisão impugnada.
+6. Agravo interno desprovido." (AgInt no REsp n. 2.030.240/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. SAÚDE. PLANO COLETIVO. REAJUSTE POR SINISTRALIDADE. APELAÇÃO. JULGAMENTO VIRTUAL. NULIDADE. PREJUÍZO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VALIDADE DO REAJUSTE. ÍNDICE ALEATÓRIO E UNILATERAL. FALTA DE PREVISÃO CLARA NO CONTRATO. ALEGAÇÕES DISSOCIADAS DAS RAZÕES DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. FUNDAMENTO SUFICIENTE INATACADO. SÚMULAS 284 E 283 DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. O julgamento virtual do recurso é providência que está de acordo com os princípios da colegialidade, da adequada duração do processo e do devido processo legal e que não acarreta, por si só, qualquer nulidade.
+2. A aferição de nulidade processual exige a demonstração de efetivo prejuízo à defesa do insurgente, que não foi evidenciado na espécie, conforme apuração do Tribunal de origem, em juízo cuja revisão demandaria o reexame de fatos e provas, vedado pela Súmula 7/STJ.
+3. Tendo o Tribunal de origem se manifestado satisfatoriamente sobre a pretensão recursal, ainda que em sentido oposto ao pretendido pela parte, seu mero inconformismo com a solução da lide não se confunde com negativa de prestação jurisdicional.
+4. A falta de impugnação a fundamento do acórdão recorrido, suficiente, por si só, para a manutenção das suas conclusões, atrai a incidência do óbice da Súmula 283/STF, o qual impede o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+5. Agravo interno desprovido." (AgInt no REsp n. 1.936.636/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Por outro lado, quanto à fixação dos juros de mora e correção monetária, constata-se que o aresto combatido está em confronto com a jurisprudência do Superior Tribunal de Justiça, segundo a qual a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a Taxa Selic - Sistema Especial de Liquidação e Custódia, sendo inviável sua cumulação com outros índices de correção monetária.
+Nesse sentido:
+"DIREITO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. NOTA PROMISSÓRIA. JUROS DE MORA. SENTENÇA ANTERIOR AO CÓDIGO CIVIL DE 2002. APLICAÇÃO DO NOVEL DIPLOMA LEGAL APÓS SUA VIGÊNCIA. POSSIBILIDADE. PRECEDENTE QUALIFICADO DA CORTE ESPECIAL. ART. 406 DO CC/2002. TAXA SELIC. CUMULAÇÃO COM CORREÇÃO MONETÁRIA. DESCABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do R Esp 1.111.117/PR, Rel. p/ acórdão Min. Mauro Campbell Marques, DJ de 02.09.2010, sob o rito do art. 543-C do CPC/73, decidiu que o percentual de 6% ao ano deve incidir até 11 de janeiro de 2003. A partir daí, deve-se observar o disposto no art. 406 do CC/2002, "seguindo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional" (atualmente, a taxa SELIC).
+2. De acordo com o entendimento do STJ, a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que se revela insuscetível de cumulação com quaisquer índices de correção monetária, sob pena de bis in idem.
+3. Agravo interno a que se nega provimento" (AgInt nos EDcl no REsp 1.716.709/MG, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 26/8/2024, DJe de 2/9/2024).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. TAXA DE JUROS DE MORA. ART. 406 DO CC/02. APLICAÇÃO DA SELIC. NÃO CUMULAÇÃO COM CORREÇÃO MONETÁRIA.
+1. Ação de Prestação de contas.
+2. Conforme a jurisprudência firmada por esta Corte, a taxa de juros moratórios a que se refere o art. 406 do CC/02 é a Taxa SELIC, cuja aplicação afasta a incidência de correção monetária. Precedente.
+3. Agravo interno não provido" (AgInt nos EDcl no REsp 2.133.359/RS, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024).
+Portanto, quanto aos juros de mora e ao índice de correção, merece reforma o aresto impugnado.
+Ante o exposto, conheço parcialmente do recurso especial para, nessa extensão, dar-lhe parcial provimento, apenas para determinar que os juros moratórios devem ser pagos com base na Taxa Selic, sem cumulação com correção monetária ou com qualquer outro índice.
+Mantenho os ônus de sucumbência fixados na origem (e-STJ fl. 526).
+Ante o parcial provimento do recurso especial, não é cabível a fixação de honorários recursais, na forma do art. 85, § 11, do CPC.
+É o voto.
