@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de GELIARQUE DE ALMEIDA - condenado como incurso no crime de homicídio qualificado (por duas vezes) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 037475-87.2023.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da Vara Única da comarca de Taquariba/SP (Processo n. 0001951-37.2008.8.26.0620), ao argumento de que a dinâmica do fato demonstra a ocorrência da continuidade delitiva, devendo ser afastado o concurso formal impróprio reconhecido pelas instâncias ordinárias.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, encontra-se exaurida a competência deste Superior Tribunal para analisar a questão, pois, quando do julgamento do Habeas Corpus n. 544.026/SP, impetrado em benefício do mesmo paciente, consignou-se que o Magistrado entendeu pelo concurso formal impróprio de delitos, porque o réu teria a intenção de matar ambas as vítimas, aproveitando-se do fato de estarem no mesmo veículo, e esses fatos não podem ser reexaminados por esta Corte Superior, devendo, então, ser somadas as duas penas, o que encontra a pena definitiva em 28 anos de reclusão, em regime fechado (fl. 1.190 daquele feito).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO (POR DUAS VEZES). PRETENSÃO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO. INADMISSIBILIDADE. EXAURIMENTO, ADEMAIS, DA COMPETÊNCIA DO STJ PARA ANALISAR A QUESTÃO, ANTERIORMENTE SUBMETIDA A ESTA CORTE SUPERIOR POR MEIO DO HABEAS CORPUS N. 544.026/SP.
+Inicial indeferida liminarmente.
