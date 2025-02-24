@@ -1,0 +1,38 @@
+DECISÃO
+Em análise, recurso especial interposto por ALEXANDRINI ADVOGADOS ASSOCIADOS, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. AGRAVO PROVIDO.
+1. É expressa a previsão legal de arbitramento de honorários advocatícios na fase de cumprimento de sentença, conforme art. 85, §1º, do CPC.
+2. Figurando a Fazenda Pública como parte, a verba honorária deverá observar os critérios estabelecidos no § 3º do art. 85.
+3. Cabe a condenação da autarquia no pagamento de honorários fixados em 10% sobre o valor correspondente à diferença entre o valor apontado como devido e o valor homologado pelo juízo, de acordo com a previsão dos artigos 85 e 86, do Código de Processo Civil, observado o disposto no artigo 98, § 3º do CPC.
+4. Agravo de instrumento a que se nega provimento (fl. 44).
+Opostos embargos de declaração, foram rejeitados pelo acórdão de fls. 68-74.
+No recurso especial, o recorrente aponta negativa de vigência ao art. 85, §§ 2º, 3º e 7º do CPC, pois "trata-se de cumprimento individual de sentença coletiva, de modo que não houve arbitramento de honorários individualizados na fase de conhecimento, e, por essa razão, quando da fase de cumprimento de sentença, deve ser observada a base de cálculo está definida na lei, qual seja: "o valor da condenação, do proveito econômico obtido, ou o valor atualizado da causa" (art. 85, §2º, CPC/15)" (fl. 95).
+Requer, ao final, o provimento do recurso.
+O recurso especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Na resolução do caso concreto, o Tribunal de origem apresentou os seguintes fundamentos:
+Com efeito, é expressa a previsão legal de arbitramento de honorários advocatícios na fase de cumprimento de sentença, conforme art. 85, §1º, do CPC:
+"Art. 85: A sentença condenará o vencido a pagar honorários ao advogado do vencedor. §1º. São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente."
+ ..
+Por outro lado, figurando a Fazenda Pública como parte, a verba honorária deverá observar os critérios estabelecidos no § 3º do art. 85.
+Assim, cabe a condenação da autarquia no pagamento de honorários fixados em 10% sobre o valor correspondente à diferença entre o valor apontado como devido e o valor homologado pelo juízo, de acordo com a previsão dos artigos 85 e 86, do Código de Processo Civil, observado o disposto no artigo 98, § 3º do CPC.
+Dessa forma, de rigor a fixação dos honorários advocatícios em 10% (dez por cento) sobre o valor da diferença havida entre os valores efetivamente acolhidos e aqueles apurados pelo INSS, haja vista que a autarquia fez pedido subsidiário e excesso de execução em sua impugnação, como esclarecido pela agravante.
+Ante o exposto, nego provimento ao agravo de instrumento, mantendo a r. decisão de primeiro grau (fl. 46-47).
+Nos termos da jurisprudência do STJ, são devidos honorários advocatícios em cumprimento individual de sentença coletiva contra a Fazenda Pública, independentemente da apresentação de impugnação, sendo que a base de cálculo para a fixação dos honorários deve ser a diferença entre o proveito econômico auferido e o resistido, nos termos do artigo 85, § 7º, do CPC.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. DIFERENÇA ENTRE O PROVEITO ECONÔMICO AUFERIDO E O RESISTIDO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 1.022 do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. São devidos honorários advocatícios em cumprimento individual de sentença coletiva contra a Fazenda Pública, independentemente da apresentação de impugnação, sendo que a base de cálculo para a fixação dos honorários deve ser a diferença entre o proveito econômico auferido e o resistido, nos termos do artigo 85, § 7º, do CPC.
+3. Agravo interno a que se nega provimento (AgInt no AREsp n. 2.628.596/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/11/2024, DJe de 18/11/2024).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO COLETIVA. SÚMULA N. 83 DO STJ. SÚMULA N. 7 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo de instrumento objetivando reformar decisão que, em cumprimento individual de título formado em ação coletiva, rejeitou a impugnação oferecida pela agravada, condenando-a ao pagamento de honorários advocatícios no percentual de 10% sobre a diferença entre o valor fixado como quantum debeatur e o apontado pela executada, que foi improvido pelo Tribunal Regional Federal da 2ª Região. No Tribunal a quo, o agravo foi negado.
+II - No caso, verifica-se que o entendimento adotado pelo Tribunal de origem se alinha à diretriz desta Corte Superior no sentido de que, nos casos em que haja impugnação pela Fazenda Pública, cabe a fixação de honorários advocatícios, desde que descontada a parcela do valor incontroverso. Nesse sentido: AgInt no REsp n. 2.045.035/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 2.031.110/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023; AgInt nos EDcl no REsp n. 2.025.968/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt no REsp n. 1.785.417/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, DJe de 13/12/2022.
+III - Nesse contexto, incide, na espécie, a Súmula n. 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Nesse ponto, cumpre destacar que, na linha da jurisprudência desta Corte, "aplica-se a Súmula 83 do STJ aos recursos especiais interpostos tanto pela alínea a quanto pela alínea c do inciso III do art. 105 da Constituição Federal" (AgInt no AREsp n. 411.354/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/5/2017, DJe de 16/5/2017).
+IV - Ademais, registre-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Agravo interno improvido (AgInt no REsp n. 2.126.237/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Portanto, incide na espécie a orientação contida na Súmula 83/STJ, segundo a qual: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
