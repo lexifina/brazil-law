@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA MINISTRA PRESIDENTE DO STJ. AÇÃO DE BUSCA E APREENSÃO. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. ÓBICE NÃO IMPUGNADO ADEQUADAMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1.Nas razões do Agravo em Recurso Especial, verifica-se que a parte agravante não impugnou adequadamente a incidência do óbice da Súmula n. 83 do STJ, visto que não trouxe precedentes contemporâneos ou supervenientes ao referido na decisão impugnada, o que é imprescindível quando se deseja atacar a aplicação da Súmula n. 83 do STJ.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO SANTANDER BRASIL S.A. (SANTANDER) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado, em virtude da ausência de impugnação ao fundamento de incidência da Súmul n.a 83 do STJ.
+Nas razões do presente inconformismo, SANTANDER defendeu ter demonstrado a dissonância do entendimento do acórdão com o de outros Tribunais (art. 105, III, "c" da CF), os quais foram devidamente colacionados nas razões recursais e, sendo assim, não haveria que se falar em incidência da Súmula n. 83 do STJ.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA MINISTRA PRESIDENTE DO STJ. AÇÃO DE BUSCA E APREENSÃO. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. ÓBICE NÃO IMPUGNADO ADEQUADAMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1.Nas razões do Agravo em Recurso Especial, verifica-se que a parte agravante não impugnou adequadamente a incidência do óbice da Súmula n. 83 do STJ, visto que não trouxe precedentes contemporâneos ou supervenientes ao referido na decisão impugnada, o que é imprescindível quando se deseja atacar a aplicação da Súmula n. 83 do STJ.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece acolhida.
+Na origem, SANTANDER ajuizou ação de busca e apreensão contra ELITE BEBIDAS LTDA. (ELITE), no bojo da qual o MM. Juiz a quo indeferiu o pedido de inclusão do avalista no polo passivo da lide, sob o argumento de que sua inclusão na lide apenas por ocasião da conversão do feito em ação de execução ensejaria evidente cerceamento de defesa e inobservância ao princípio basilar do devido processo legal.
+Em decisão monocrática, o Desembargador Relator negou provimento ao agravo de instrumento interposto por SANTANDER, endossando o entendimento de que é indispensável a prévia intimação do devedor solidário na ação de busca e apreensão para que possa figurar no polo passivo do feito ulteriormente convertido em execução por quantia certa. Confira-se:
+(..) o Grupo de Câmaras de Direito Comercial, por ocasião do julgamento dos embargos infringentes n. 2012.048329-4, de Cunha Porã, relatado pelo desembargador Cláudio Valdyr Helfestein, na sessão realizada no dia 14.8.2013, consolidou o entendimento de que é indispensável a prévia intimação do devedor solidário na ação de busca e apreensão para que possam figurar no polo passivo do feito ulteriormente convertido em execução por quantia certa, sob pena de violação ao princípio do devido processo legal e às garantias do contraditório e da ampla defesa:
+(..)
+No caso examinado, o devedor solidário não foi cientificado do feito antes da conversão da ação de busca e apreensão em execução por quantia certa, o que impossibilita sua inclusão no polo passivo da demanda, na esteira do entendimento firmado pelo Grupo de Câmaras de Direito Comercial desta Corte.
+Os termos do decisum exarado pelo Desembargador Relator foram ratificados pela Corte Colegiada do TJSC.
+Na decisão de não admissão do recurso especial interposto pelo SANTANDER, a D. Vice Presidente do TJSC aduziu que o aresto recorrido deliberou em consonância com o entendimento desta Corte Superior, que perfilha do posicionamento que "o avalista que não compôs a ação de conhecimento é parte ilegítima para figurar no polo passivo da fase executiva do respectivo título executivo judicial" (AgInt no AREsp n. 1.693.911, Rel. Min. Maria Isabel Gallotti, j. 9/10/2020).
+Ocorre que, nas razões do agravo em recurso especial, o SANTANDER não impugnou adequadamente a incidência do óbice da Súmula n. 83 do STJ, visto que não trouxe precedentes contemporâneos ou supervenientes ao referido na decisão impugnada, o que é imprescindível quando se deseja atacar a aplicação da Súmula n. 83 do STJ, de modo que o descumprimento dessa exigência conduz ao não conhecimento do recurso.
+Com efeito, depreende-se das razões de agravo em recurso especial que SANTANDER afirmou que o acórdão proferido diverge do entendimento firmado por outros Tribunais brasileiros, bem como contraria os arts. 4º e 6º do DL 911/69; arts. 275, 379, 779 e 797 do CPC; e arts. 898 e 899 do CC, sob o argumento de que inexistiria óbice para a inclusão do avalista no polo passivo da lide para responder pelo débito ora executado.
+Nessa toada, o agravo em recurso especial impugnou genericamente referido óbice, em clara afronta ao princípio da dialeticidade.
+Conforme já decidiu o Superior Tribunal de Justiça:
+(..) À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Vale lembrar que, segundo o entendimento exarado em voto pelo Ministro LUÍS FELIPE SALOMÃO, ao apreciar os EAREsp n. 746.775/PR, existem regras tanto no Código de Processo Civil de 1973, quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem, inclusive, conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Também foi consignado pelo Ministro relator, no julgamento dos referidos EAREsp nº 746.775/PR, que a ausência de impugnação a algum dos fundamentos da decisão que negou trânsito ao reclamo especial imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo.
+Nesse sentido, seguem os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. PEDIDO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. VERBA JÁ CONTEMPLADA NA DECISÃO MONOCRÁTICA. GRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015. 2. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como
+agravo interno e embargos de declaração. 3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.590.969/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 8/5/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015. 3. Quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu no caso.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 937.019/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 15/5/2020)
+Assim, porque SANTANDER não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
