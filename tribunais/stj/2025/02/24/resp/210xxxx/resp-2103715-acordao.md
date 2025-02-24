@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+Direito processual civil. Recurso especial. Honorários advocatícios. Critérios de fixação. Recurso provido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve sentença que fixara honorários advocatícios de forma equitativa, majorando-os para R$ 1.200,00, em ação declaratória c/c indenizatória.
+2. A Corte estadual entendeu que a aplicação do § 8º-A do art. 85 do CPC seria excessiva, considerando o valor econômico envolvido e a simplicidade da causa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a fixação dos honorários advocatícios por equidade é aplicável quando o valor da causa não é baixo e o proveito econômico não é irrisório ou inestimável.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça consolidou o entendimento de que a fixação dos honorários por equidade, conforme o § 8º do art. 85 do CPC, é subsidiária e só deve ser aplicada quando o proveito econômico for inestimável ou irrisório, ou quando o valor da causa for muito baixo.
+5. O acórdão recorrido divergiu da orientação do STJ, que determina a aplicação dos percentuais previstos no § 2º do art. 85 do CPC quando os valores da condenação, da causa ou o proveito econômico forem elevados.
+IV. Dispositivo e tese
+6. Recurso provido para determinar a devolução dos autos ao Tribunal de origem a fim de que fixe os honorários com base nos limites percentuais previstos no art. 85, § 2º, do CPC.
+Tese de julgamento: "1. A fixação dos honorários por equidade é subsidiária e só se aplica quando o proveito econômico for inestimável ou irrisório, ou quando o valor da causa for muito baixo. 2. Nos casos em que os valores da condenação, da causa ou o proveito econômico forem elevados, devem ser observados os percentuais previstos no § 2º do art. 85 do CPC".
+Dispositivos relevantes citados: CPC, art. 85, §§ 2º, 6º-A e 8º.
+Jurisprudência relevante citada: STJ, REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022.
+RELATÓRIO
+Trata-se de recurso especial interposto por MISLENE APARECIDA DE ANDRADE DA SILVA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 1003800- 97.2022.8.26.0438) nos autos de ação declaratória c/c indenizatória.
+O julgado foi assim ementado (fl. 313):
+Apelação Cível. Ação Declaratória c. c. Tutela de Urgência e Danos Morais. Sentença de parcial procedência dos pedidos. Inconformismo da autora. Interesse processual. Configuração. Necessidade e utilidade do provimento jurisdicional pleiteado, bem como adequação da via utilizada. Prejudicados os temas recursais de declaração de inexigibilidade de débitos e determinação de que a parte ré exclua as dívidas da plataforma de cobrança, sob pena de multa cominatória, porque já decididos em favor da recorrente. Plataforma "SERASA Limpa Nome". Portal para negociação de dívida de acesso exclusivo da parte, sem qualquer ilícito e ofensa a valores extrapatrimoniais, em princípio. Dano moral, porém, existente, em virtude da prova de prejuízo ao "Score" da autora. Enunciado nº 11 da Egrégia Seção de Direito Privado deste Egrégio Tribunal de Justiça do Estado de São Paulo. "Quantum" indenizatório. Fixação em R$ 3.000,00. Quantia que atende aos critérios de proporcionalidade e razoabilidade. Correção monetária. Marco inicial fixado a partir do arbitramento no acórdão. Súmula nº 362 do Colendo Superior Tribunal de Justiça. Juros de mora da citação. Sentença parcialmente reformada. Montante inferior ao postulado na inicial da ação de indenização por dano moral que não implica sucumbência recíproca. Súmula nº 326 do Colendo Superior Tribunal de Justiça. Sucumbência atribuída exclusivamente ao polo passivo. Recurso provido em parte, com readequação do ônus de sucumbência.
+Os embargos de declaração opostos foram rejeitados (fls. 326-330).
+Em suas razões, a parte recorrente aponta violação do art. 85, §§ 2º, 6º-A e 8º, do Código de Processo Civil, além de divergência jurisprudencial, ao argumento de que a fixação dos honorários advocatícios por equidade somente se aplica quando o valor da causa for muito baixo ou quando o proveito econômico for irrisório ou inestimável, o que não é o caso dos autos, visto que o valor fixado é inferior a 10% do valor da causa.
+Requer, assim, sejam fixados os honorários em percentual legal sobre o valor da causa.
+As contrarrazões foram apresentadas às fls. 408-415.
+Admitido o apelo extremo (fls. 416-418), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório
+EMENTA
+Direito processual civil. Recurso especial. Honorários advocatícios. Critérios de fixação. Recurso provido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve sentença que fixara honorários advocatícios de forma equitativa, majorando-os para R$ 1.200,00, em ação declaratória c/c indenizatória.
+2. A Corte estadual entendeu que a aplicação do § 8º-A do art. 85 do CPC seria excessiva, considerando o valor econômico envolvido e a simplicidade da causa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a fixação dos honorários advocatícios por equidade é aplicável quando o valor da causa não é baixo e o proveito econômico não é irrisório ou inestimável.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça consolidou o entendimento de que a fixação dos honorários por equidade, conforme o § 8º do art. 85 do CPC, é subsidiária e só deve ser aplicada quando o proveito econômico for inestimável ou irrisório, ou quando o valor da causa for muito baixo.
+5. O acórdão recorrido divergiu da orientação do STJ, que determina a aplicação dos percentuais previstos no § 2º do art. 85 do CPC quando os valores da condenação, da causa ou o proveito econômico forem elevados.
+IV. Dispositivo e tese
+6. Recurso provido para determinar a devolução dos autos ao Tribunal de origem a fim de que fixe os honorários com base nos limites percentuais previstos no art. 85, § 2º, do CPC.
+Tese de julgamento: "1. A fixação dos honorários por equidade é subsidiária e só se aplica quando o proveito econômico for inestimável ou irrisório, ou quando o valor da causa for muito baixo. 2. Nos casos em que os valores da condenação, da causa ou o proveito econômico forem elevados, devem ser observados os percentuais previstos no § 2º do art. 85 do CPC".
+Dispositivos relevantes citados: CPC, art. 85, §§ 2º, 6º-A e 8º.
+Jurisprudência relevante citada: STJ, REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022.
+VOTO
+O recurso merece prosperar.
+No tocante à fixação da verba honorária após o advento do Código de Processo Civil de 2015, o Superior Tribunal de Justiça, ao analisar o Tema n. 1.076, submetido à sistemática dos recursos especiais repetitivos, consolidou entendimento a respeito dos critérios a serem seguidos. Também debateu a possibilidade de fixação de honorários advocatícios com fundamento no juízo de equidade.
+Nesse julgamento, definiu critérios objetivos para o arbitramento dos honorários sucumbenciais, de acordo com a ordem de preferência estabelecida no § 2º do art. 85 do Código de Processo Civil, a saber: 1º) nas causas em que houver condenação, este é o critério a ser utilizado pelo magistrado, observando o parâmetro legal entre 10% a 20%; 2º) nas causas em que não houver condenação, deve o magistrado arbitrar os honorários de acordo com o proveito econômico aferido; e 3º) não sendo possível mensurar o proveito econômico, ou sendo ele inestimável ou irrisório, a verba sucumbencial deve ser arbitrada de acordo com o valor da causa.
+Assim, estabeleceu que o critério de equidade, previsto no § 8º do art. 85 do CPC, é de aplicação subsidiária, devendo ser utilizado apenas quando não for possível a incidência da regra geral estabelecida no § 2º do mesmo artigo, isto é, quando for inestimável ou irrisório o proveito econômico ou o valor da causa.
+Para melhor compreensão, confira-se a ementa do precedente mencionado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL SOB O RITO DOS RECURSOS REPETITIVOS. ART. 85, §§ 2º, 3º, 4º, 5º, 6º E 8º, DO CPC. HONORÁRIOS SUCUMBENCIAIS. VALORES DA CONDENAÇÃO, DA CAUSA OU PROVEITO ECONÔMICO DA DEMANDA ELEVADOS. IMPOSSIBILIDADE DE FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. RECURSO ESPECIAL CONHECIDO E PROVIDO. RECURSO JULGADO SOB A SISTEMÁTICA DO ART. 1.036 E SEGUINTES DO CPC/2015, C/C O ART. 256-N E SEGUINTES DO REGIMENTO INTERNO DO STJ.  ..
+24. Teses jurídicas firmadas: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+25. Recurso especial conhecido e provido, devolvendo-se o processo ao Tribunal de origem, a fim de que arbitre os honorários observando os limites contidos no art. 85, §§ 3º, 4º, 5º e 6º, do CPC, nos termos da fundamentação.
+26. Recurso julgado sob a sistemática do art. 1.036 e seguintes do CPC/2015 e art. 256-N e seguintes do Regimento Interno do STJ. (REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022.)
+No caso, a Corte estadual manteve a sentença, que fixara os honorários de forma equitativa, majorando-os para o valor de R$ 1.200,00, por entender que a aplicação do § 8º-A do art. 85 ao caso era excessiva se considerado o trabalho prestado pelos patronos da parte recorrente, nestes termos (fls. 318-319):
+Sobre esta fixação por apreciação equitativa, ressalta-se que, revendo posicionamento anteriormente adotado, atualmente comungo do entendimento de que a regra subsidiária do artigo 85, § 8º, do CPC deve ser aplicada no presente caso, pois não tenho por razoável, diante do valor econômico envolvido na condenação, a simplicidade e baixa complexidade jurídica da causa, matéria recorrente, que se vá à recomendação do § 8º-A do art. 85: "Na hipótese do § 8º deste artigo, para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior".
+Conclui-se, então, que a sua aplicação à hipótese mostra-se excessiva à contrapartida do trabalho prestado pelos dignos patronos da autora.
+Não se pode deixar de observar que remanesce para o intérprete determinação de que, na fixação da verba honorária, ainda que se volte à aplicação subsidiária da equidade, conforme o §8º do artigo 85 do CPC, dita norma faz a mesma recomendação quanto aos requisitos de valoração que constam do §2º do artigo 85 do CPC: "I. o grau de zelo do profissional; II. o lugar de prestação do serviço; III. a natureza e a importância da causa; IV. o trabalho realizado pelo advogado e o tempo exigido para o seu serviço".
+Entretanto, ao assim decidir, o acórdão recorrido divergiu da orientação do STJ, devendo os autos retornar à instância precedente para que a verba seja arbitrada nos termos da jurisprudência consolidada desta Corte.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para determinar a devolução dos autos ao Tribunal de origem para que, observando o entendimento acima exposto, fixe os honorários com base nos limites percentuais previstos no art. 85, § 2º, do CPC.
+É o voto.
