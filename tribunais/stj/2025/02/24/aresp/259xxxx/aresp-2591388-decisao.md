@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por CELSO FRANCISCO contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS que inadmitiu o recurso especial.
+O agravante foi denunciado como incurso nas sanções do art. 180, caput, do Código Penal, à pena de 02 (dois) anos e 15 (quinze) dias de reclusão, no regime inicial semiaberto, e 16 (dezesseis) dias-multa (fls. 234-241).
+O Tribunal deu parcial provimento ao apelo defensivo para redimensionar a pena para 01 (um) ano, 06 (seis) meses e 20 (vinte) dias de reclusão e 15 (quinze) dias-multa, mantido o regime inicial semiaberto. (fls. 288-309).
+A de fesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar negativa vigência ao art. 386, inciso VII, do Código de Processo Penal e ao art. 180, §3º, do Código Penal (fls. 314-329).
+O recurso foi inadmitido na origem devido à incidência da Súmula n. 7, STJ (fls. 337-338).
+Nas razões do agravo em recurso especial, a defesa sustenta a desnecessidade de reexame do conjunto fático-probatório (fls. 347-364).
+O Ministério Público Federal, por sua vez, opinou pelo desprovimento do recurso (fls. 385-388).
+É o relatório. DECIDO.
+Da análise dos autos, verifico que o agravante foi condenado como incurso nas sanções do art. 180, do Código Penal, pela prática do delito de receptação. Pleiteia, em recurso especial, a absolvição no delito por insuficiência de provas ou, subsidiariamente, a desclassificação da conduta para a modalidade culposa.
+Interposto o recurso de apelação, o Tribunal de origem negou-lhe provimento quanto ao pedido de absolvição por ausência de provas suficientes da conduta e de desclassificação.
+Nesse sentido, confira-se excertos elucidativos do acórdão (fls. 294-295):
+"No caso em análise, porém, o réu não se desincumbiu de tal ônus, mostrando-se insuficiente para a absolvição a simples alegação de que desconhecia a origem ilícita do bem e de que comprou o objeto de boa - fé e de pessoa conhecida do réu.
+Em verdade, embora tenha apresentado a explicação de que confiou na licitude do bem porque a pessoa que vendeu o veículo era conhecida na feira, o apelante não forneceu informações suficientes para a identificação do suposto vendedor, não apresentou o número de celular que supostamente seria desse indivíduo, tampouco apresentou a nota fiscal ou o recibo atestando a compra do automóvel, evidenciando que o veículo tinha origem ilícita.
+Ademais, como bem fundamentado na sentença, nota-se que o automóvel foi adquirido na Feira do "Rolo" em Ceilãndia, por um valor muito abaixo do valor de mercado do bem, o qual, conforme Laudo de Perícia Criminal  Exame de Veículo nº 3.170/2023  IC (ID 49439709 - Pág. 4 ), foi avaliado em R$ 40.142,00 (quarenta mil, cento e quarenta e dois reais), além de o acusado não ter fornecido qualquer documentação de propriedade, ou mesmo da aludida negociação, bem como não ter informado qualquer dado qualificativo do suposto vendedor.
+ ..
+Na espécie, como visto acima, os elementos probatórios dos autos, em especial os depoimentos harmônicos e coerentes das testemunhas policiais e a Comunicação de Ocorrência Policial referente ao crime de furto, mostram que outra não pode ser a conclusão, a não ser a de que o recorrente tinha ciência da origem ilícita do bem, mormente porque o réu não forneceu o nome completo da pessoa de quem adquiriu o veículo, na Feira do Rolo, bem como não apresentou qualquer documento referente à aquisição do veículo.
+Assim, deve ser mantida a condenação do recorrente nas sanções do artigo 180, caput, do Código Penal, não merecendo prosperar os pleitos defensivos."
+Observo que as instâncias ordinárias reconheceram a existência de elementos de prova suficientes para fundamentar o decreto condenatório do recorrente, com base nas provas dos autos.
+Para alterar a conclusão do acórdão impugnado acerca da existência de provas suficientes da materialidade delitiva ou do dolo do agente, como pretende o agravante, seria imprescindível reexaminar as circunstâncias fáticas do caso, providência inviável em sede de recurso especial, conforme dispõe a Súmula n. 7, STJ: "a pretensão de simples reexame de prova não enseja recurso especial.".
+Neste sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL . RECEPTAÇÃO E PORTE ILEGAL DE ARMA DE FOGO. ÔNUS DA PROVA. MAUS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame 1. Agravo regimental interposto contra decisão monocrática que conheceu em parte do recurso especial e, nesta extensão, negou-lhe provimento, mantendo a condenação por receptação e porte ilegal de arma de fogo.
+2. O Tribunal de origem confirmou a condenação, destacando que os elementos probatórios colhidos durante a instrução criminal indicam com clareza que o recorrente estava na posse do aparelho telefônico que sabia ser produto de crime e que tinha conhecimento acerca da existência da arma de fogo.
+3. A decisão monocrática aplicou a Súmula 7/STJ, impedindo o reexame de provas em recurso especial.
+II. Questão em discussão4. A questão em discussão consiste na possibilidade de reexame do acervo fático-probatório para absolvição do réu.
+5. A discussão também envolve a possibilidade de aplicação do direito ao esquecimento para afastar a valoração negativa de antecedentes criminais.
+III. Razões de decidir 6. A alteração do julgado demandaria reexame do acervo fático-probatório, inviável em recurso especial, conforme Súmula 7/STJ.
+7. A apreensão de bens em posse do agravante autoriza a presunção de ciência da origem ilícita, conforme art. 156 do CPP, sem inversão indevida do ônus da prova.
+8. A valoração de maus antecedentes é válida, pois a condenação anterior foi extinta em período inferior a 10 anos antes do novo delito.
+IV. Dispositivo e tese 9. Agravo regimental desprovido.
+Tese de julgamento: "1. A apreensão de bens em posse do agente autoriza a presunção de ciência da origem ilícita 2. A valoração de maus antecedentes é válida quando a condenação anterior foi extinta em período inferior a 10 anos antes do novo delito."
+Dispositivos relevantes citados: CPP, art. 156; CP, art. 64, I.
+Jurisprudência relevante citada: STJ, AgRg no REsp n. 2.112.836/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/6/2024; STJ, AgRg no AREsp n. 2.309.936/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/5/2024; STJ, AgRg no AREsp n. 2.322.750/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/6/2023; STJ, AgRg no AREsp n. 2.599.892/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/8/2024; STJ, AgRg no HC n. 909.780/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/8/2024; AgRg no AREsp n. 2.532.257/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26/8/2024; STJ, AgRg no AREsp n. 2.474.847/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024.
+(AgRg no REsp n. 2.167.957/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. OFENSA AO ART. 180, § 3º, DO CP. DESCLASSIFICAÇÃO PARA CONDUTA CULPOSA. PLEITO QUE DEMANDA REVOLVIMENTO DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. ABSOLVIÇÃO. APREENSÃO DO BEM NA POSSE DA ACUSADA. ÔNUS DA DEFESA DE COMPROVAR A ORIGEM LÍCITA. PRECEDENTES. INEXISTÊNCIA DE ARGUMENTOS APTOS A ENSEJAR A REFORMA DA DECISÃO. AGRAVO DESPROVIDO.
+1. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+2. Tendo as instâncias de origem concluído que restou demonstrada "a ilicitude da conduta adotada pela ré, sendo inviável a desclassificação para receptação culposa, considerando-se as circunstâncias da compra do aparelho televisor, através de "feirado rolo", sem qualquer cuidado para averiguar a origem do bem", bem como que a ré conhecia a origem ilícita do bem, descabe a alteração desse entendimento na via do recurso especial em razão do óbice do enunciado n. 7 da Súmula do STJ.
+3. "Quando há a apreensão do bem resultante de crime na posse do agente, é ônus do imputado comprovar a origem lícita do produto ou que sua conduta ocorreu de forma culposa. Isto não implica inversão do ônus da prova, ofensa ao princípio da presunção de inocência ou negativa do direito ao silêncio, mas decorre da aplicação do art. 156 do Código de Processo Penal, segundo o qual a prova da alegação compete a quem a fizer. Precedentes" (AgRg no HC n. 446.942/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2018).
+Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.309.936/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alí nea "a", do RISTJ.
+Publique-se. Intime-se.
+EMENTA
