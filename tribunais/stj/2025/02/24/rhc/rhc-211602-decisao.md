@@ -1,0 +1,20 @@
+DECISÃO
+PAULO CESAR RIBEIRO VITAL alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Habeas Corpus n. 1.0000.24.521863-1/000.
+A defesa busca, em síntese, a revogação da prisão preventiva decretada em desfavor do paciente.
+Decido.
+O paciente foi denunciado pela prática do crime de tentativa de homicídio qualificado.
+A prisão preventiva foi decretada com base na seguinte fundamentação:
+No caso, a medida extrema decorre da necessidade de se garantir a ordem pública, ante o risco da prática de novos delitos e para resguardar a conveniência da instrução criminal, tendo em vista que, das narrativas prestadas, revela-se a brutalidade empregada na prática da tentativa de homicídio, sujeitando-se a vítima a sofrimento prolongado e agonizante.
+Além disso, da análise dos depoimentos na fase inquisitiva, em especial pelas testemunhas da vítima e familiares, é possível extrair fundado receio de constrangimento das testemunhas do fato, principalmente os familiares do ofendido.
+Daí porque não há como deixar de reconhecer, objetivamente, a alta periculosidade do indivíduo que colabora para esse quadro de crise, justificando, em consequência, a prisão preventiva, haja vista que "quando da maneira de execução do delito sobressair a extrema periculosidade do agente, abre-se ao decreto de prisão a possibilidade de estabelecer um vínculo funcional entre o modus operandi do suposto (HC 97688, Relator(a): Min. CARLOS BRITTO, Primeira Turma,crime e a garantia da ordem pública" julgado em 27/10/2009, D Je-223 DIVULG 26-11-2009 PUBLIC 27-11-2009 EMENT VOL-02384-03 PP-00506). Em relação às condições favoráveis do paciente - primariedade, bons antecedentes, residência fixa e ocupação lícita, é pacífico na jurisprudência que tais circunstâncias não configuram óbice para a prisão preventiva, quando comprovados os pressupostos para a manutenção da prisão cautelar como na hipótese.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas nas instâncias ordinárias para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+A instância ordinária usou a gravidade concreta dos fatos para justificar a necessidade de decretação da prisão cautelar com base na garantia da ordem pública, especialmente em razão da "brutalidade empregada na prática da tentativa de homicídio, sujeitando-se a vítima a sofrimento prolongado e agonizante".
+Com efeito, "merece relevo o "modus operandi" da conduta delitiva, perpetrada, em tese, por motivação torpe, notadamente dívida e disputas relacionadas ao tráfico de drogas, e com desmedida agressividade, mediante recurso que dificultou a defesa da vítima, a qual, desarmada, teria sido surpreendida por disparos de arma de fogo."
+Além disso, o juízo de primeiro grau consignou a existência de "fundado receio de constrangimento das testemunhas do fato, principalmente os familiares do ofendido", caso o paciente seja colocado em liberdade.
+Concluo, então, haver sido demonstrada, por ora, a exigência cautelar justificadora da manutenção da prisão preventiva do acusado, a despeito de sua primariedade.
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., D Je 27/2/2020).
+À vista do exposto, nego provimento ao recurso, in limine.
+Publique-se e intimem-se.
+EMENTA
