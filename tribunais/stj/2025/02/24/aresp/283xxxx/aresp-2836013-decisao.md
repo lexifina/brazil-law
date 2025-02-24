@@ -1,0 +1,33 @@
+DECISÃO
+JOSÉ ROBERTO FERREIRA agrava da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul nos Embargos Infringentes em Apelação Criminal n. 0000407-15.2018.8.12.0018/50000.
+O agravante foi condenado, pela prática do crime de furto qualificado tentado, tipificado no art. 155, § 2º, IV, c/c o art. 14, II, do Código Penal, a 1 ano, 8 meses e 18 dias de reclusão e 33 dias-multa, em regime inicial semiaberto, o que, por maioria, foi mantido em grau recursal.
+Os embargos infringentes opostos foram rejeitados.
+No especial, a defesa indicou violação dos arts. 107, IV, e 109, V, do Código Penal. Afirmou que, quando o Juízo de instrução procedeu à citação editalícia, o paradeiro do réu, preso em outra unidade da federação, era conhecido, o que resulta na nulidade desse procedimento e do prazo de suspensão previsto no art. 366 do CPP, de modo que deve ser reconhecida a prescrição da pretensão punitiva, o que passou a requerer.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, e o Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial (fls. 484-488).
+Decido.
+O agravo é tempestivo, atacou os fundamentos da decisão agravada e, por isso, deve ser conhecido. Procedo à análise do especial.
+O voto divergente, proferido nos embargos infringentes, traz o entendimento alinhado à jurisprudência desta Corte. Veja-se (fl. 314, destaquei):
+Ocorre que o juízo não desconstituiu a indevida citação editalícia, mas chamou o feito à ordem para determinar novas diligências diante da informação apresentada pelo Oficial de Justiça (p. 59), o qual certificou já havia noticiado a situação prisional antes mesmo da decisão que determinou a citação por edital (p. 64).
+Com efeito, embora o recorrente estivesse preso noutro Estado, a citação por edital foi prematura em razão de existir informação nos autos sobre o fato de o réu estar preso ao tempo do ato (p. 59), inclusive o acusado foi citado pessoalmente (p. 138-139).
+Nesse aspecto, registro não ser caso de anular o feito em razão da posterior citação pessoal do acusado no estabelecimento prisional (p. 138-139), conforme o princípio do prejuízo (art. 563 do CPP).
+Porém, o ato inválido não existe no mundo jurídico e, por isso, dele não surtem efeitos, inclusive o de interromper o prazo prescricional.
+Logo, diante da irregularidade da citação editalícia inicialmente determinada pelo juízo singular, não há falar em suspensão do prazo processual e prescricional.
+Sendo assim, constata-se que ocorreu o decurso do prazo prescricional.
+Isso porque a pena está em patamar inferior a 02 (dois) anos, razão pela qual o prazo prescricional é de 04 (quatro) anos, a teor do art. 109, V, do CP.
+Esse prazo foi superado entre o recebimento da denúncia no dia 15/12/2018 (p. 46-47) e a publicação da sentença em 08/02/2024 (p. 199).
+Por isso, impõe-se a declaração, de ofício, da extinção da punibilidade pela prescrição retroativa.
+Como bem pontuado no voto vogal, ocorreu nulidade na citação por edital, pois, embora estivesse preso em outra unidade da federação, o réu tinha paradeiro conhecido quando o Juízo de instrução decidiu pela referida modalidade de chamamento processual.
+Não se desconhece que, nos termos da Súmula n. 351 do STF, "É nula a citação por edital de réu preso na mesma unidade da federação em que o juiz exerce a sua jurisdição".
+Todavia, segundo a orientação do STJ, é ilegal a citação por edital de réu que, a despeito de não estar preso em estabelecimento penal da unidade da federação, tinha o paradeiro informado no processo, o que afasta a aplicação da Súmula 351 do STF. Assim, a suspensão de prazo prevista no art. 366 do CPP, deve ser desconsiderada, como no caso.
+Nesse sentido:
+CONSTITUCIONAL. PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NULIDADE DA CITAÇÃO POR EDITAL DE RÉU QUE, EMBORA PRESO EM OUTRA UNIDADE DA FEDERAÇÃO, TINHA O PARADEIRO INFORMADO NOS AUTOS. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM, DE OFÍCIO, PARA RECONHECER A NULIDADE DA DECISÃO QUE DECRETOU A SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL.
+01. As Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça firmaram o entendimento de não ser admissível habeas corpus impetrado em substituição aos recursos previstos nos incisos II e III do art. 105 da Constituição da República (Quinta Turma, HC n. 277.152, Min. Jorge Mussi; HC n. 239.999, Min. Laurita Vaz; Sexta Turma, HC n. 275.352, Min. Maria Thereza de Assis Moura). No entanto, por força de norma cogente nela contida (art. 5º, inc.
+LXVIII) e também no Código de Processo Penal (art. 654, § 2º), cumpre aos tribunais "expedir de ofício ordem de habeas corpus, quando, no curso de processo, verificarem que alguém sofre ou está na iminência de sofrer coação ilegal".
+02. É ilegal a citação por edital de réu que, conquanto não estivesse preso em estabelecimento penal da unidade da federação - o que afasta a aplicação da Súmula 351 do Supremo Tribunal Federal ("é nula a citação por edital de réu preso na mesma unidade da federação em que o juiz exerce a sua jurisdição") -, tinha o paradeiro informado no processo.
+03. Habeas corpus não conhecido. Concessão da ordem, de ofício, para declarar a nulidade da decisão que decretou a suspensão do processo e do curso do prazo prescricional, resguardando, contudo, os atos processuais praticados posteriormente.
+(HC n. 256.981/MG, relator Ministro Newton Trisotto (Desembargador Convocado do TJ/SC), Quinta Turma, julgado em 6/11/2014, DJe de 12/11/2014, grifei)
+Diante disso, entre o recebimento da denúncia, em 15/12/2018, e a publicação da sentença, em 8/2/2024, transcorreu prazo superior aos 4 anos de prescrição da pretensão punitiva estatal contra o acusado, que foi condenado a pena inferior a 2 anos de reclusão, conforme o disposto no art. 107, IV, 109, V, e 117, I e IV, todos do Código Penal.
+Por isso, observado o art. 61 do CPP, nos termos do voto divergente, deve ser declarada, de ofício, a extinção da punibilidade do réu, pela prescrição da pretensão punitiva estatal.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reconhecer a nulidade da citação por edital e da correspondente suspensão do prazo processual (art. 366 do CPP) e, assim, declarar a extinta a punibilidade do ora recorrente, dada a prescrição da pretensão punitiva estatal, nos exatos termos do voto divergente.
+Publique-se e intimem-se, inclusive a(s) vítima(s), para ciência do resultado do julgamento.
+EMENTA
