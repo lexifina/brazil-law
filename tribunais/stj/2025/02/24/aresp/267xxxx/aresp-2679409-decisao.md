@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo de ALLIFI ANTONIO RICI DOS SANTOS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a" e "c", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 5011009-15.2020.8.24.0005.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, caput, c/c art. 40, inc. V, ambos da Lei n.º 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e 583 dias-multa (fl. 271).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 387). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS INTERESTADUAL (LEI 11.343/06, ART. 33, CAPUT, C/C O 40, V). SENTENÇA CONDENATÓRIA. RECURSO DO ACUSADO.
+1. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (LEI 11.343/06, ART. 33, § 4º). ATUAÇÃO DE "MULA". DEDICAÇÃO À ATIVIDADES CRIMINOSAS. REQUISITO NÃO PREENCHIDO. 2. REGIME. QUANTIDADE DE PENA. CIRCUNSTÂNCIAS JUDICIAIS. PRIMARIEDADE.
+1. Não deve ser reconhecida a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06 se o somatório das circunstâncias do caso concreto indica a dedicação do acusado a atividades criminosas, especialmente a prévia articulação para o êxito do crime, sobretudo em se tratando de tráfico interestadual; aliada à expressiva quantidade de drogas transportadas, que transcendem os limites de uma mera atuação de "mula".
+3. É devida a manutenção do regime inicialmente semiaberto para o resgate da pena privativa de liberdade superior a quatro e inferior ou igual a oito anos imposta a agente primário com circunstâncias judiciais favoráveis.
+RECURSO CONHECIDO E DESPROVIDO." (fls. 754/755)
+Em sede de recurso especial (fls. 396/406), a defesa apontou violação ao art. 33, § 4º, da Lei n. 11.343/06, pois o TJ afastou a causa especial de diminuição de pena prevista no referido dispositivo legal por meio de fundamentação inidônea. Sustenta que a recorrente preenche os requisitos legais para a incidência da redutora em seu patamar máximo, pois é primária e possui bons antecedentes, além de não ter restado comprovada a sua dedicação a atividades criminosas.
+Alega, ainda, a existência de bis in idem na valoração negativa da quantidade da droga e, finalmente, aduz a existência do dissídio jurisprudecial entre o acórdão recorrido e a jurisprudência dominante.
+Requer o reconhecimento do tráfico privilegiado e o refazimento da pena.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA (fls. 432/439).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 7 do STJ, quanto à alegada ofensa ao art. 33, §4º, da Lei n. 11.343/2006; b) óbice da Súmula n. 284 do STF, quanto à alegada ofensa ao art. 33, § 4º, da Lei n. 11.343/2006, no que se refere à alegação de bis in idem; e c) óbice da Súmula n. 284 do STF, quanto à impugnação pelo art. 105, III, c, da CF (fls. 442/446).
+Em agravo em recurso especial, a defesa impugnou apenas o óbice da Súmula. 7 do STJ (fls. 453/458).
+Contraminuta do Ministério Público (fls. 463/466).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do agravo (fls. 485/487).
+É o relatório.
+Decido.
+O presente agravo em recurso especial não merece ser conhecido. A decisão que inadmitiu o recurso especial na origem pautou-se nos seguintes fundamentos: a) óbice da Súmula n. 7 do STJ, quanto à alegada ofensa ao art. 33, §4º, da Lei n. 11.343/2006; b) óbice da Súmula n. 284 do STF, quanto à alegada ofensa ao art. 33, §4º, da Lei n. 11.343/2006, no que se refere à alegação de bis in idem; e c) óbice da Súmula n. 284 do STF, quanto à impugnação pelo art. 105, III, c, da CF
+Verifica-se que a defesa não impugna, no presente recurso, todos os fundamentos da decisão agravada consistentes no óbice da Súmula n. 284 do STF quanto à alegada ofensa ao art. 33, §4º, da Lei n. 11.343/2006, no que se refere à alegação de bis in idem, bem como o óbice da Súmula n. 284 do STF quanto à impugnação pelo art. 105, III, c, da CF, razão pela qual incide a Súmula n. 182 do STJ.
+Convém ressaltar que a "decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige da parte agravante a impugnação específica de todos os fundamentos apontados pelo Tribunal local, sob pena de não conhecimento do agravo em recurso especial" (AgRg no AREsp n. 2.764.194/RO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2024, DJe de 4/12/2024).
+Ademais, é firme o entendimento desta Corte no sentido de que, " i nadmitido o recurso especial na origem em razão da incidência do óbice da Súmula n. 7 do STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem" (AgRg no AREsp n. 2.646.084/DF, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024).
+Portanto, o agravo regimental apresentado não ultrapassa o juízo de admissibilidade igualmente em razão da incidência da Súmula 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+ ..  2. A ausência de impugnação específica aos fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC; 253, parágrafo único, I, do RISTJ, e da Súmula nº 182 desta Corte, aplicável por analogia.
+3. Agravo regimental não conhecido. (AgRg no AREsp 2008006/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 7/4/2022.) PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Inviável a análise do mérito do recurso especial que não ultrapassou o juízo de admissibilidade.
+2. Não se conhece de agravo regimental que não impugna, especificamente, o fundamento da decisão agravada. Incidência da Súmula n. 182 do STJ. 3. Agravo regimental não conhecido.
+(AgRg no AREsp 2018698/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 18/3/2022.
+Ante o exposto, com base nos arts. 932, III, do CPC e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
