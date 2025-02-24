@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DANIEL COSTA DE OLIVEIRA, DANIETH COSTA DE OLIVEIRA, DAMIAO VELOSO DE OLIVEIRA contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: declaratória de nulidade de relação contratual cumulada com pedido de restituição do indébito e com indenizatória por danos morais ajuizada por DANIEL COSTA DE OLIVEIRA, DANIETH COSTA DE OLIVEIRA, DAMIAO VELOSO DE OLIVEIRA em face de BANCO BMG S.A, decorrente de contratação bancária realizada por fraude.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta por DANIEL COSTA DE OLIVEIRA, DANIETH COSTA DE OLIVEIRA, DAMIAO VELOSO DE OLIVEIRA, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA/RELAÇÃO CONTRATUAL C/C PEDIDO DE REPETIÇÃO DO INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. DESCONTOS EM PROVENTOS DE APOSENTADORIA. REGULARIDADE DO NEGÓCIO JURÍDICO OBJURGADO. CONTRATO ASSINADO. CORRESPONDÊNCIA ENTRE AS ASSINATURAS DO INSTRUMENTO E DOS DOCUMENTOS QUE ACOMPANHAM A PROEMIAL. ATO ILÍCITO INEXISTENTE. DANOS MORAIS NÃO CONFIGURADOS. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+1. Trata-se de Apelação Cível interposta por DAMIÃO VELOSO DE OLIVEIRA, em face de sentença proferida pelo d. juízo da 2 a Vara da comarca de Mombaça/CE, que julgou improcedente a Ação Declaratória de Nulidade de Cláusula Contratual c/c Pedido de Repetição do Indébito c/c Indenização por Danos Morais, movida em face de BANCO BMG S/A.
+2. O cerne da controvérsia consiste em verificar a validade do contrato de cartão de crédito consignado celebrado entre o autor-apelante e a instituição financeira apelada.
+3. Em suas razões, alega o apelante cerceamento de defesa, uma vez que o juízo a quo não determinou a expedição de ofício ao Banco Bradesco a fim de comprovar a titularidade da conta bancária no seu nome e o efetivo depósito do empréstimo supostamente pactuado.
+4. Da análise do contrato, verifica-se que a forma de liberação do crédito ocorreu por ordem de pagamento - DOC (fl. 84), modalidade na qual é feito o aporte da quantia à agência determinada e o valor é sacado pelo consumidor, mediante apresentação de documentos pessoais. Isto é, o valor é depositado em uma conta administrativa do banco e repassado para a agência onde o contratante deve sacar o numerário, mediante ordem de pagamento. Para ficar mais claro: a ordem de pagamento foi expedida pelo Banco BMG ao Banco Bradesco, a fim de que o beneficiário retire a quantia do saque no mesmo dia, não precisando em hipótese alguma que o beneficiário seja correntista do banco depositário, conforme fartamente explicitado pelo banco apelado na fl. 50 dos autos, o que, aliás, é público e notório. Assim, é completamente desnecessário que se prove que a titularidade da conta é do autor, uma vez que o pagamento não foi realizado através de transferência ou depósito bancário, e sim mediante ordem de pagamento, razão pela qual é de se considerar válido o comprovante apresentado nos autos.
+5. Como cediço, é entendimento do C. STJ que não há cerceamento de defesa pelo julgamento antecipado da lide, sem a produção de provas requestadas pelas partes, quando o julgador entende suficiente o conjunto probatório já encartado nos autos e motiva sua decisão baseado nele.
+6. Ademais, compulsando os fólios, verifica-se que o banco juntou o contrato de cartão de crédito devidamente assinado pelo autor, acompanhado dos seus documentos pessoais, comprovante de endereço, comprovante de pagamento e faturas mensais do cartão de crédito (fls. 74-84).
+7. Bom que se diga que as assinaturas postas nesses contratos são absolutamente coincidentes com aquelas existentes nos documentos pessoais do apelante (fls. 27), como de resto na procuração ad judicia de fls. 25 e declaração de fls. 26, que acompanharam a petição inicial.
+8. No pretenso caso, não há que se falar em danos morais, eis que o banco apelado não cometeu nenhum ato ilícito ao realizar um contrato de cartão de crédito consignado com o autor, tendo agido dentro dos limites do exercício regular de seu direito.
+10. Recurso conhecido e desprovido. Sentença mantida." (fl. 309/310, e-STJ).
+Decisão de admissibilidade do TJ/CE: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) a inaplicabilidade do Tema 1.061 do STJ;
+ii) incidência das Súmulas 5 e 7, ambas do STJ; e
+iii) a análise do dissídio jurisprudencial alegado revela-se prejudicada, haja vista o necessário reexame de fatos e provas, bem como a renovada interpretação de cláusulas contratuais quanto à matéria posta em debate, que se supõe divergente.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz:
+i) a inaplicabilidade da Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) a incidência da Súmula 5 do STJ; e
+ii) a análise do dissídio jurisprudencial alegado revela-se prejudicada, haja vista o necessário reexame de fatos e provas, bem como a renovada interpretação de cláusulas contratuais quanto à matéria posta em debate, que se supõe divergente.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 5% sobre o valor da causa (e-STJ fl. 322), observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
