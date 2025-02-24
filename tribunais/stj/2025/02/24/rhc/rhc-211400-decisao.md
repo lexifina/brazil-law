@@ -1,0 +1,12 @@
+DECISÃO
+PEDRO LUCAS SANTOS DA PAZ alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no HC n. 0633570-46.2024.8.06.0000.
+Extrai-se dos autos que o ora recorrente e outros três investigados tiveram sua prisão preventiva decretada pela suposta prática dos crimes previstos nos arts. 2º, § 2º, da Lei n. 12.850/2013, 1º, II, da Lei n. 9.544/1997, 158, § 1º, 250 e 163, do Código Penal.
+Decido.
+Inicialmente, é importante ressaltar que, devido à indevida reiteração de pedidos semelhantes, o acórdão recorrido não conheceu algumas alegações deduzidas neste recurso ordinário, de não caracterização do crime de organização criminosa, da "insuficiência de provas para justificar a prisão preventiva sem denúncia" (fl. 383) e da falta de credibilidade dos elementos coletados durante as investigações, em especial o depoimento de policiais.
+Está correto o dispositivo, de parcial conhecimento da impetração, pois, também neste âmbito superior, "o habeas corpus não pode prosseguir quando é reiteração de pedido anterior deduzido em outro writ" (AgRg nos EDcl no HC n. 722.511/SP, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 29/4/2022).
+O acórdão recorrido (fls. 364-374) analisou apenas a tese de excesso de prazo e essa é a questão jurídica devolvida à análise desta Corte, para controle de legalidade da manifestação de segundo grau.
+Não é possível examinar, neste recurso ordinário, fundamentos dissociados do acórdão recorrido nem os atos judiciais anteriores proferidos pelo Tribunal, uma vez que, "para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração (v.g. HC n. 389631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/03/2017), ainda que para fins de economia processual ou de celeridade" (AgRg no RHC n. 108.528/AM, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/6/2019, DJe de 27/6/2019).
+Dito isso, é possível o avanço para a pronta solução do recurso, pois "a condição de foragido do acusado afasta a alegação de constrangimento ilegal por excesso de prazo" (AgRg no HC n. 729.639/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022).
+Deveras, "o fato dos agravantes encontrarem-se na condição de foragidos afasta a alegação de excesso de prazo para encerramento da instrução criminal" (AgRg no HC n. 796.585/GO, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/6/2023)
+À vista do exposto, conheço em parte o recurso ordinário e nego-lhe provimento.
+EMENTA
