@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NARA CAROLINA GALDINO DE LIMA CARDOSO e OUTROS contra a decisão de fls. 459/465, que negou provimento ao seu agravo em recurso especial, por meio do qual pretendiam a reforma de acórdão do Tribunal de Justiça do Estado de Alagoas que, em ação de indenização por danos morais, manteve decisão que havia determinado a extinção do feito, sem resolução do mérito, em relação às suas pessoas, em decorrência da celebração de acordo homologado pela Justiça Federal, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E DIREITO CONSTITUCIONAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS DECORRENTES DO EVENTO QUE ATINGIU O IMÓVEL ONDE RESIDE A AGRAVANTE E FOI OBJETO DE DESOCUPAÇÃO. ADESÃO AO PROGRAMA DE COMPENSAÇÃO FINANCEIRA. ACORDO CELEBRADO PELA AGRAVANTE COM A AGRAVADA NOS AUTOS DA AÇÃO CIVIL PÚBLICA N.º 0803836-61.2019.4.05.8000 EM TRÂMITE NO JUÍZO DE DIREITO DA 3ª VARA FEDERAL DE MACEIÓ. ACORDO HOMOLOGADO QUE ENGLOBA O OBJETO DA AÇÃO INDENIZATÓRIA PROPOSTA NESTA JUSTIÇA ESTADUAL. PERDA DO OBJETO DA DEMANDA DE ORIGEM. EXTINÇÃO DA AÇÃO QUE DEVE PREPONDERAR.
+1. Parte agravante que firmou acordo, devidamente homologado perante a Justiça Federal, acordo que cobre os dan os materiais e morais decorrentes do evento danoso ocasionado pela Agravada.
+2. Extinção do processo de origem onde buscava a Agravante ser indenizada pelos danos morais decorrentes do mesmo evento, considerando que no acordo renunciou expressamente a eventuais direitos remanescentes e se comprometeram a desistir de processos judiciais propostos em desfavor da Agravada relativos às consequências geradas pelas desocupação de seus imóveis.
+3. Não violação ao Princípio da Inafastabilidade do Controle Jurisdicional, haja vista que a extinção do processo se revelava pertinente diante da situação trazida aos autos.
+4. Não existência de cláusulas leoninas no acordo, pois a Agravante aderiu voluntariamente e estava devidamente representada, além de que o acordo foi acompanhado pelo Ministério Público.
+5. Não devem ser fixados honorários advocatícios aos patronos dos Agravantes, os quais possui uma relação contratual, devendo advogados que patrocinam a causa se socorrer do instrumento contratual firmado para que, se for o caso, possam cobrar daqueles o que consideram ter direito.
+6. Recurso conhecido e não provido. Unanimidade.
+Alegam os agravantes, em síntese, que a decisão agravada deve ser reformada, pois "não merece prosperar qualquer ordem de sobrestamento das ações individuais, especialmente em razão da discordância dos requerentes, por força do art. 104 do CPC" (fl. 471).
+Indicam que "o acórdão recorrido deixou de analisar as omissões e contradições apontadas em relação ao (a) art. 1.026, §2º, do CPC; e (b) art. 337, §§1º, 2º e 3º do CPC e art. 81 e 104 do CDC, por não observar a ausência de conexão entre as lides coletivas e individuais que justifique a suspensão desta e a vontade da parte autora em sobrestar a lide individual" (fl. 472).
+Às fls. 478/486, os agravantes apresentaram pedido de sobrestamento do feito, em virtude do ajuizamento de nova ação civil pública pela Defensoria Pública do Estado de Alagoas, por meio do qual se requer a declaração de nulidade de acordos adesivos celebrados pela Braskem S.A. com os prejudicados por afundamento do solo em área de atividade de mineração.
+Contraminuta às fls. 489/496.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano , verifico que o agravo interno interposto não merece ser conhecido.
+Registro que, neste caso, o acórdão do TJAL manteve a decisão que extinguiu o processo, sem resolução de mérito, com relação aos agravantes, por terem eles celebrado acordo com a ré, devidamente homologado pela Justiça Federal, no qual conferiram quitação irrevogável de "todos e quaisquer danos patrimoniais e/ou extrapatrimoniais relacionados, decorrentes ou originários direta e/ou indiretamente" dos fatos alegados na ação civil pública.
+Conforme consta do acórdão recorrido:
+Pois bem. Ao ser indeferido o reportado efeito suspensivo, esta Relatoria entendeu que não restou caracterizado a probabilidade do direito, razão pela qual, considerando a inexistência de fundamentos novos aptos a alterar o posicionamento outrora perfilhado, notadamente diante da ausência de fundamento jurídico para afastar a extinção do feito sem resolução do mérito em relação à agravante, ratifico a fundamentação adotada na liminar indeferida, a qual deve ser mantida por suas próprias razões. Veja-se:
+ ..
+No caso dos autos, pelo menos por ocasião do presente juízo preliminar, entendo que o posicionamento adotado pelo magistrado singular não merece reforma. Explico.
+Analisados os autos de origem, ainda que de forma sumária, constata-se que as mencionadas partes agravantes celebraram acordo nos autos do cumprimento de sentença da Ação Civil Pública, em trâmite no Juízo de Direito da 3º Vara Federal de Maceió, conforme certidão de objeto e pé acostada às fls. 1478/1479.
+A referida certidão comprova que as partes celebraram instrumento particular de transação extrajudicial, submetido à homologação judicial por aquele Juízo, nos termos do art. 487, inciso III, b, do CPC, fato que não é negado no recurso sob análise. E mais: não deixa dúvida de que o Agravante deu plena quitação, em caráter irrevogável, à Braskem S/A, relativamente a quaisquer obrigações, reivindicações e pretensões e/ou indenizações de qualquer natureza, transacionando todos e quaisquer danos patrimoniais e/ou extrapatrimoniais relacionados, decorrentes ou originários direta e/ou indiretamente da desocupação de imóvel em razão do fenômeno geológico verificado.
+Assim, tendo optado por aderir ao Programa de Compensação Financeira e tendo recebido os valores respectivos, penso ter agido corretamente o magistrado de origem ao reconhecer que o acordo celebrado nos autos da ACP nº 0803836-61.2019.4.05.8000 engloba o objeto da ação indenizatória de origem.
+Consequentemente repito, em momento processual de cognição sumária , vislumbro a perda superveniente do objeto da ação, em relação ao Agravante, impondo-se a extinção do feito, sem julgamento do mérito, com relação a este, por falta de interesse de agir.
+Por outro ponto, ainda que o advogado que patrocina a causa não tenha presenciado a celebração do acordo, não vislumbro irregularidade, uma vez que os acordos firmados são homologados judicialmente.
+Assim, não caracterizada a fumaça do bom direito, torna-se despiciendo o exame do requisito relativo ao perigo da demora, o que impede a concessão do pleito como requerido pelas partes agravantes.
+ ..
+Para além disso, vislumbro que não tem respaldo a tese da Agravante de que houve violação ao Princípio da Inafastabilidade do Controle Jurisdicional, pois não poderia o Magistrado ir por caminho diferente do adotado ao se deparar com a situação trazida aos autos onde aqueles optaram por aderir ao Programa de Compensação Financeira e em sede de cumprimento de sentença acordaram com a Agravada, renunciando e desistindo de eventuais direitos remanescentes decorrentes do evento danoso, comprometendo-se a pleitear a desistência de todas e quaisquer demandas judiciais abertas.
+Ademais, também não se observa do acordo judicial formalizado com a Braskem a existência de cláusula leonina, visto que as cláusulas são bem claras e as partes estavam devidamente representadas, além de que o acordo foi acompanhado pelo Ministério Público, fiscal da lei.
+Por fim, quanto à questão relativa aos honorários advocatícios, sabe-se que a relação entre os Agravantes e os profissionais que os patrocinam se trata de relação contratual.
+Nessa senda, se a Agravante aderiu ao acordo, o que resultou na extinção do processo patrocinado pelos advogados, estes devem se socorrer do instrumento contratual firmado para que, se for o caso, possam cobrar das partes agravantes o que consideram ter direito.
+Ademais, o ônus de sucumbência é verba que somente ostenta natureza alimentar quando fixada em título judicial transitado em julgado, o que não ocorreu no presente  ..  Registre-se que no caso em análise o prejuízo decorrente da suspensão da decisão recorrida atinge diretamente à Agravada Braskem S/A, pois não teria segurança jurídica com a manutenção da tramitação do processo de partes aderentes de transação extrajudicial que abarca o objeto da ação de origem, acordo devidamente homologada e que transitou em julgado.
+Da análise dos autos, neguei provimento ao agravo em recurso especial, uma vez que as alegadas ofensas à legislação federal não foram demonstradas pelos agravantes.
+As razões do agravo interno, contudo, versam sobre um suposto "sobrestamento da ação até a conclusão do termo aditivo do acordo, que ocorrerá só em dezembro de 2022".
+Constatando-se que a argumentação deste recurso está desassociada dos fundamentos da decisão agravada, tem incidência o óbice da Súmula 182 do STJ, por analogia.
+Relativamente ao requerimento de sobrestamento da ação apresentada às fls. 436/445, observo que não é o caso de se acolher o pedido, visto que não há amparo legal para tanto.
+Em face do exposto, não c onheço do agravo interno.
+É como voto.
