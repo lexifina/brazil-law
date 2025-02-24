@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  CIVIL.  COMPRA  E  VENDA.  IMÓVEL.  DESISTÊNCIA.  ADQUIRENTE.  RECONHECIMENTO.  LEILÃO  EXTRAJUDICIAL.  ILEGALIDADE.  RAZÕES  DISSOCIADAS.  SÚMULA  Nº  284/STF.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ.
+1.  A  exposição  de  razões  dissociadas  do  que  foi  decidido  no  acórdão  recorrido  revela  deficiência  na  fundamentação  do  recurso  e  impede  a  exata  compreensão  da  controvérsia  a  ser  dirimida.  Incidência,  por  analogia,  da  Súmula  nº  284/STF.
+2.  Na  hipótese,  acolher  a  tese  pleiteada  pela  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  JFE  35  EMPREENDIMENTOS  IMOBILIARIOS  LTDA.  -  EM  RECUPERAÇÃO  JUDICIAL  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  virtude  dos  óbices  da  Súmula  nº  284/STF,  visto  que  as  razões  delineadas  no  Recurso  Especial  estão  dissociadas  dos  fundamentos  utilizados  no  aresto  impugnado,  e  da  Súmula  nº  7/STJ  (e-STJ  fls.  687-691).
+Em  suas  razões  (e-STJ  fls.  696-702),  a  agravante  sustenta  a  inaplicabilidade  da  Súmula  nº  284/  STF  ao  argumento  de  que  há  dispositivos  legais  e  precedentes  no  sentido  de  que,  em  caso  de  rescisão  contratual  por  leilão  extrajudicial,  o  valor  a  ser  restituído  ao  promitente-comprador  corresponderá  ao  que  sobejar  o  leilão.
+Afirma  ser  desnecessário  revolver  o  acervo  fático-probatório,  visto  que  o  acórdão  recorrido  constatou  a  existência  de  leilão  extrajudicial.
+A  parte  contrária  não  apresentou  impugnação  (e-STJ  fls.  707-708).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  CIVIL.  COMPRA  E  VENDA.  IMÓVEL.  DESISTÊNCIA.  ADQUIRENTE.  RECONHECIMENTO.  LEILÃO  EXTRAJUDICIAL.  ILEGALIDADE.  RAZÕES  DISSOCIADAS.  SÚMULA  Nº  284/STF.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ.
+1.  A  exposição  de  razões  dissociadas  do  que  foi  decidido  no  acórdão  recorrido  revela  deficiência  na  fundamentação  do  recurso  e  impede  a  exata  compreensão  da  controvérsia  a  ser  dirimida.  Incidência,  por  analogia,  da  Súmula  nº  284/STF.
+2.  Na  hipótese,  acolher  a  tese  pleiteada  pela  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Como  já  asseverado  na  decisão  agravada,  os  argumentos  apresentados  pela  recorrente  para  demonstrar  a  violação  dos  arts.  1º,  VII,  da  Lei  nº  4.864/1965  e  63  da  Lei  nº  4.591/1964  estão  dissociados  dos  fundamentos  do  aresto  combatido.
+O  acórdão  agravado  reconheceu  que  não  se  pode  aplicar  os  efeitos  da  alienação  extrajudicial  do  imóvel  no  presente  caso,  inclusive  as  deduções  de  que  trata  o  §  4º  do  art.  63  da  Lei  4591/1964,  visto que  foi  reconhecido  judicialmente  o  direito  do  adquirente  de  rescindir  o  contrato  e,  por  consequência,  a  ilegalidade  do  leilão  extrajudicial  realizado  pela  parte  ora  agravante.
+Confira-se  o  seguinte  trecho  do  acórdão  recorrido:
+"Conforme  consignado  no  aresto  embargado,  este  colegiado  reconheceu  o  direito  do  adquirente  à  desistência  do  negócio,  ao  qual  a  incorporadora  ré  não  poderia  se  opor:
+"Ora,  se  as  circunstâncias  são  tais  a  indicar  a  incapacidade  financeira  do  adquirente  de  contrair  o  empréstimo  imobiliário  indispensável  à  quitação  do  preço,  o  dever  de  mutualismo  contratual  exige  do  incorporador  a  atitude  cooperativa  de  aceitar  a  proposta  de  resilição,  negociando  um  percentual  razoável  de  retenção  que  lhe  cubra  as  despesas  e  puna  o  contraente  faltoso.
+Ao  contrário,  se  o  incorporador  nega  peremptoriamente  essa  possibilidade,  preferindo  alongar  uma  relação  contratual  sabidamente  infrutífera  para  avolumar  o  saldo  devedor  com  a  incidência  de  encargos  moratórios  e  acrescer-lhe  os  altos  custos  associados  à  rescisão  forçada  (gastos  com  leilão  extrajudicial,  por  exemplo),  indica,  com  sua  conduta,  o  ânimo  de  potencializar  as  próprias  perdas  para,  em  contrapartida,  reter  consigo  a  maior  parcela  possível  dos  valores  pagos  pelo  adquirente,  em  nítida  violação  do  dever  anexo  de  mitigar  o  próprio  prejuízo.
+Daí  que,  a  meu  sentir,  esteja  correta  a  premissa  da  sentença  em  assentar  a  possibilidade  de  rescisão  contratual,  apesar  da  cláusula  de  irretratabilidade,  punindo-se  o  promitente-comprador  inadimplente  mediante  perdimento  parcial  dos  valores  pagos  no  percentual  de  25%  dos  valores  pagos,  conforme  previsto  em  contrato."
+Reconhecido,  pois,  o  direito  do  adquirente  à  resolução  do  contrato,  não  se  lhe  podem  opor  os  efeitos  da  alienação  extrajudicial  do  imóvel,  inclusive  as  deduções  de  que  trata  o  §  4º  do  art.  63,  da  Lei  4591/64,  aplicável  exclusivamente  no  âmbito  da  recuperação  de  crédito  por  meio  do  leilão,  de  forma  que  esse  dispositivo  se  mostra  indiferente  à  solução  do  conflito"  (e-STJ  fls.  607-608).
+No caso  do  apelo  nobre,  a  recorrente  defendeu  a  violação  dos  dispositivos  legais  mencionados  ao  argumento  de  que,  no  caso,  deve-se  analisar  se  "uma  vez  rescindido  o  contrato  em  virtude  de  leilão  extrajudicial,  teriam  os  adquirentes  direito  de  receber  os  valores  desembolsados,  em  vez  do  saldo  do  leilão"  (e-STJ  fls.  615).
+Assim,  as  razões  apresentadas  no  especial  deixaram  de  impugnar  ,  especificamente  ,  as  bases  firmadas  na  Corte  local,  discutindo  questões  alheias  à  reforma  do  julgado.
+Desse  modo,  aplica-se,  por  analogia,  o  óbice  da  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  FUNDAMENTAÇÃO  DEFICIENTE.  RAZÕES  DISSOCIADAS.  DEFICIÊNCIA  NA  FUNDAMENTAÇÃO.  SÚMULA  284  DO  STF.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  É  deficiente  o  recurso  especial  quando  suas  razões  estão  dissociadas  dos  fundamentos  do  acórdão  impugnado,  o  que  atrai,  por  analogia,  a  incidência  da  Súmula  n.  284  do  STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia".
+(..)
+5.  Agravo  interno  desprovido."
+(AgInt  no  AREsp  2.156.599/SP,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  6/3/2023,  DJe  de  9/3/2023)
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  EXECUÇÃO.  TÍTULO  EXTRAJUDICIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  OFENSA  A  TESE  REPETITIVA.  CONVERSÃO  DA  EXECUÇÃO  EM  AÇÃO  DE  CONHECIMENTO.  RAZÕES  DISSOCIADAS.  DEFICIÊNCIA  DA  FUNDAMENTAÇÃO  RECURSAL.  SÚMULAS  283  E  284/STF.  EMENDA  À  INICIAL.  COMPLEMENTAÇÃO  DE  DOCUMENTAÇÃO.  NÃO  ALTERAÇÃO  DO  PEDIDO  OU  DA  CAUSA  DE  PEDIR.  POSSIBILIDADE.  PRECEDENTES.  INEXIGIBILIDADE  DO  TÍTULO.  APRECIAÇÃO  POSTERGADA.  FUNDAMENTO  SUFICIENTE.  IMPUGNAÇÃO  ESPECÍFICA.  AUSÊNCIA.  SÚMULA  N.  283/STF.  DISSÍDIO  JURISPRUDENCIAL  NÃO  DEMONSTRADO.  COTEJO  ANALÍTICO  NÃO  EFETUADO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Tendo  o  Tribunal  de  origem  se  manifestado  expressamente  e  com  adequada  fundamentação,  ainda  que  em  sentido  oposto  ao  pretendido  pela  agravante,  sobre  a  alegada  nulidade  da  execução  devido  à  existência  de  decisões  que  impedem  qualquer  pagamento  à  autora,  não  há  violação  ao  art.  1.022  do  CPC/2015,  nem  negativa  de  prestação  jurisdicional.
+2.  A  apresentação  de  razões  recursais  dissociadas  daquilo  que  ficou  decidido  pelo  Tribunal  de  origem  configura  deficiência  da  fundamentação  recursal  e  atrai  a  incidência  da  Súmula  284/STF.
+(..)
+7.  Agravo  interno  desprovido."
+(AgInt  no  REsp  1.844.790/DF,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  14/8/2023,  DJe  de  16/8/2023)
+Ademais,  a  modificação  do  acórdão  recorrido  no  sentido  de  reconhecer  a  rescisão  contratual  e  a  ilegalidade  do  leilão  extrajudicial  demandaria  a  reinterpretação  de  cláusulas  contratuais,  bem  como  o  reexame  do  conjunto  fático-probatório  dos  autos,  providências  vedadas  em  recurso  especial  pelas  Súmulas  nºs  5  e  7/STJ,  respectivamente.
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
