@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ROBSON LIMA DE OLIVEIRA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação n. 5000544-55.2024.8.24.0538).
+Depreende-se dos autos que o paciente foi condenado à pena de 6 anos de reclusão, em regime inicial semiaberto, por infração aos art. 33, caput, da Lei n. 11.343/2006 e art. 180, caput, do Código Penal.
+A Corte de origem, embora tenha dado parcial provimento ao recurso de apelação da defesa, manteve a condenação nos moldes da sentença, em acórdão assim ementado (e-STJ fl. 620):
+APELAÇÃO CRIMINAL. CRIMES DE TRÁFICO ILÍCITO DE ENTORPECENTES E RECEPTAÇÃO SIMPLES (ART. 33, CAPUT, DA LEI N. 11.343/06, E ART. 180, CAPUT , DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO.
+PRELIMINAR. ALEGADA NULIDADE DAS PROVAS, DECORRENTE DA INVASÃO DE DOMICÍLIO POR AUSÊNCIA DE FUNDADA SUSPEITA. NÃO ACOLHIMENTO. PROVAS EXTRAÍDAS DOS AUTOS QUE DEMONSTRAM QUE O LOCAL ACESSADO PELOS POLICIAIS ERA UMA CONSTRUÇÃO DE MADEIRA ABANADONADA E INABITADA, UTILIZADA UNICAMENTE PARA COMERCIALIZAÇÃO DE ENTORPECENTES, O QUE AFASTA A PROTEÇÃO CONSTITUCIONAL DA INVIOLABILIDADE DO DOMICÍLIO. PRECEDENTE DO STJ. PREFACIAL NÃO ACOLHIDA.
+MÉRITO. CRIME DE RECEPTAÇÃO. ALMEJADA ABSOLVIÇÃO OU A DESCLASSIFICAÇÃO PARA MODALIDADE CULPOSA. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS. RES FURTIVA , COLOCADA À VENDA PELO APELANTE POR INTERMÉDIO DA REDE SOCIAL FACEBOOK E LOCALIZADA NA POSSE DELE. DESCONHECIMENTO ACERCA DA ORIGEM ESPÚRIA DO BEM NÃO COMPROVADO. PREÇO PRETENDIDO PELA VENDA QUE CORRESPONDE A UM QUARTO DO VALOR DO PRODUTO RECEPTADO. ELEMENTO SUBJETIVO DOLOSO DEVIDAMENTE DEMONSTRADO. ADEMAIS, ÁLIBI NÃO COMPROVADO, ÔNUS QUE INCUMBIA À DEFESA, NOS TERMOS DO ART. 156 DO CÓDIGO DE PROCESSO PENAL. CONDENAÇÃO MANTIDA.
+DELITO DE TRÁFICO DE ENTORPECENTES. PEDIDO DE ABSOLVIÇÃO POR FALTA DE PROVAS DA COMERCIALIZAÇÃO. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS. APREENSÃO DE 5,9G (CINCO GRAMAS E NOVE DECIGRAMAS) DE CRACK, FRACIONADOS EM 13 (TREZE) PORÇÕES, 6,9G (SEIS GRAMAS E NOVE DECIGRAMAS) DE MACONHA E 01 (UMA) BALANÇA DE PRECISÃO NO LOCAL ONDE SE ENCONTRAVA O APELANTE. DADOS EXTRAÍDOS DO CELULAR DELE QUE COMPROVAM A COMERCIALIZAÇÃO DE PSICOTRÓPICOS. CONDENAÇÃO MANTIDA INCÓLUME.
+REQUERIMENTO DE INCIDÊNCIA DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO §4º, DO ARTIGO 33, DA LEI N. 11.343/06. INVIABILIDADE. PROVAS EXTRAÍDAS DO APARELHO CELULAR DO APELANTE QUE DEMONSTRAM QUE ELE PRATICAVA O COMÉRCIO ILÍCITO HÁ NO MÍNIMO DOIS MESES. SITUAÇÃO QUE EVIDENCIA A DEDICAÇÃO DELE ÀS ATIVIDADES CRIMINOSAS, O QUE AFASTA A POSSIBILIDADE DO RECONHECIMENTO DO PRIVILÉGIO. PRECEDENTES. DECISÃO MANTIDA.
+PLEITO DE FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. VIABILIDADE. PEQUENA QUANTIDADE DE ENTORPECENTES (5,9G DE CRACK E 6,9G DE MACONHA) QUE, NÃO OBSTANTE O MAIOR EFEITO DELETÉRIO DE UMA DAS SUBSTÂNCIAS, INVIABILIZA A EXASPERAÇÃO. PENA-BASE FIXADA NO MÍNIMO LEGAL, SEM REFLEXOS NA REPRIMENDA FINAL.
+PEDIDO DE CONCESSÃO DA JUSTIÇA GRATUITA. NÃO CONHECIMENTO. PLEITO JÁ DEFERIDO EM PRIMEIRO GRAU. FALTA DE INTERESSE RECURSAL.
+RECURSO PARCIALMENTE CONHECIDO E PROVIDO EM PARTE.
+Nesta impetração, a defesa sustenta ser indevido o fundamento invocado para o afastamento da minorante descrito no § º do art. 33 da Lei n. 11.343/2006.
+Além disso, afirma que seria o caso de se desclassificar a conduta do art. 180 do Código Penal para a modalidade culposa.
+É o relatório.
+Preliminarmente, deve-se asseverar que, em consulta ao sítio eletrônico do Tribunal de origem, verifiquei que a condenação do paciente transitou em julgado em 18/2/2025.
+Nesse contexto, não se pode olvidar que o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Quanto à impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, esta Corte, em diversas ocasiões, já decidiu que não se deve conhecer do "writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+De mais a mais, a análise dos pedidos formulados nesta impetração, tanto a desclassificação da conduta prevista no art. 180 do Código Penal como a de aplicação da minorante da Lei de Drogas, reclamaria incursão nos elementos probatórios, o que não se revela viável na via eleita, em razão dos estreitos limites de cognição do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. RECEPTAÇÃO. CONDENAÇÃO. PLEITO DE DESCLASSIFICAÇÃO DA CONDUTA PARA RECEPTAÇÃO CULPOSA. IMPOSSIBILIDADE. REVOLVIMENTO DO MATERIAL FÁTICO PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. "Para se proceder à desclassificação do delito para a conduta prevista na forma culposa, seria necessário reformar o quadro fático-probatório firmado na origem, tarefa inviável no habeas corpus" (AgRg no HC n. 727.955/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022.) - AgRg nos EDcl no HC n. 835.353/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 860.366/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se. Intimem-se.
+EMENTA
