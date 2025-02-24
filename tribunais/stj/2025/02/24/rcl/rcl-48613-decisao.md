@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de reclamação ajuizada por Natalício Pereira de Campos, com fulcro no artigo 988, § 5º, II, do CPC/2015, em face do acórdão proferido em agravo interno pelo órgão especial do Tribunal Regional Federal da 4ª Região que manteve a decisão denegatória de subida do especial, pelo rito dos recursos repetitivos.
+O reclamante alega que "o acórdão do agravo interno ao negar seguimento ao Recurso Especial com base na aplicação equivocada do Tema 1.105 do STJ, não aplicou corretamente o posicionamento da Corte Superior sobre honorários" (fl. 8).
+Afirma que "ainda que fosse pensar de ser o caso de seguir a tese do Tema 1.105 desta Corte, que chegou à conclusão de que a Súmula 111 permanece eficaz e aplicável sob a vigência do novo Código de Processo Civil, então o tribunal reclamado deveria ter admitido o recurso especial, pois o órgão julgador da apelação deixou de aplicar a referida súmula ao afastar a incidência de honorários até a data do acórdão de apelação, que é a decisão que reconheceu o direito do autor de ver convertido o seu benefício de auxílio-doença em aposentadoria por invalidez desde a DCB do benefício anterior" (fl. 12).
+Requer, ao final, seja "julgado procedente a reclamação para cassar e sustar de imediato os efeitos do acórdão, que manteve a decisão denegatória de subida do especial, pelo rito dos recursos repetitivos, por aplicar de forma errada o Tema 1.105/STJ, pois o recurso especial do autor busca, na verdade, a correta aplicação da Súmula 111/STJ com base em uma interpretação teleológica, para que as prestação vencidas entre a sentença e o acórdão, incidam honorários, conforme prevê o art. 85, § 2º, do CPC (para atender o termo "valor da condenação", "proveito econômico obtido"), afinal, foi o acórdão da apelação do autor que concedeu o benefício pretendido (aposentadoria por invalidez - benefício esse, inclusive, mais vantajoso: 100% do salário de benefício), e não a sentença que concedeu apenas auxílio-doença" (fl. 12).
+É o breve relatório. Decido.
+Nos termos do art. 105, inciso I, alínea "f", da Constituição Federal, compete a este Superior Tribunal processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões.
+Nesse contexto, o art. 988 do CPC/2015, ao regulamentar o tema, explicitou as hipóteses de cabimento da reclamação, quais sejam:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+Nesta Corte Superior, a reclamação está disciplinada no art. 187 e seguintes do Regimento Interno.
+Com efeito, verifica-se que a presente reclamação não se enquadra em nenhuma das hipóteses acima delineadas. Deveras, tem-se que o reclamante ajuizou a presente reclamação por não ter se conformado com aplicação do Tema n. 1.115/STJ, oriundo de julgamento sob prisma dos recursos representativos da controvérsia, na ocasião da apreciação do seu agravo interno pelo órgão especial do Tribunal Regional Federal da 4ª Região.
+Ocorre que "a jurisprudência desta Corte é pacífica no sentido de não ser cabível o ajuizamento de reclamação para se questionar o acerto de julgado proferido pelo Tribunal de origem que, em agravo interno, mantem a negativa de seguimento do recurso especial, em face da incidência de precedente vinculante (art. 1.030, I, b, do CPC)" (AgInt na Rcl 47.204/SP, relator Ministro Benedito Gonçalves, Primeira Seção, DJe 5/11/2024).
+Em igual sentido: AgInt na Rcl 45.783/RS, relator Ministro Herman Benjamin, Primeira Seção, DJe 30/10/2023; Rcl 36.476/SP, relatora Ministra Nancy Andrighi, Corte Especial, DJe 6/3/2020.
+Logo, ressoa evidente ser a presente reclamação manifestamente incabível, razão pela qual dela não se pode conhecer.
+Ante o exposto, não conheço da reclamação (artigo 34, XVIII, "a", do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. NEGATIVA DE SEGUIMENTO A RECURSO ESPECIAL POR APLICAÇÃO DE PRECEDENTE VINCULANTE. REQUERIMENTO MANIFESTAMENTE INCABÍVEL. RECLAMAÇÃO NÃO CONHECIDA.
