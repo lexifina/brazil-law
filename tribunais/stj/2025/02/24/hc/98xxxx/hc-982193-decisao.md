@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de DENIS ROBERTO DE SOUZA, onde aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2019166-13.2025.8.26.0000).
+Consta dos autos que, na execução definitiva, o paciente foi promovido a regime de cumprimento de penas menos vigiado.
+Contudo, após recurso do MP, foi determinada a realização de exame criminológico para a reanálise do benefício da progressão de regime, o que havia sido tratado no agravo em execução nº 9000439-81.2023.8.26.0637, que foi objeto do HC n. 911.490/SP conexo.
+Neste writ, a defesa sustenta que a progressão de regime deveria ser concedida.
+Alega que não haveria fundamentação idônea e afirma constrangimento ilegal por ausência de fundamentação concreta na decisão que indeferiu a progressão ao regime aberto, baseando-se apenas na gravidade abstrata do crime e na longa pena a cumprir.
+Explica que o paciente já havia preenchido os requisitos objetivos e subjetivos para a progressão, conforme atestado de conduta carcerária e parecer favorável do exame criminológico.
+Assere que a decisão de indeferimento utilizou frases isoladas do exame criminológico sem justificativa concreta, contrariando a jurisprudência que exige fundamentação baseada em fatos ocorridos durante a execução da pena.
+Requer, liminarmente e no mérito, "determinar o restabelecimento da decisão proferida em primeiro grau que deferiu a progressão para o regime aberto do cumprimento da pena da paciente Daiane, mormente porque cumpridos seus requisitos objetivos e subjetivos" (fl. 19, grifei).
+É o relatório. DECIDO.
+A controvérsia consiste em saber se a defesa poderia, neste STJ, pedir a reapreciação da matéria antes solucionada em seu mérito nos autos do HC n. 911.490/SP (contra o acórdão do TJ de agravo em execução nº 9000439-81.2023.8.26.0637), que restou assim solucionado por este STJ:
+ ..  Conforme consta, a defesa espera afastar o exame criminológico no seu pedido de progressão de regime. No presente caso, contudo, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+A jurisprudência desta Corte Superior se firmou no sentido de que, para que se afaste o requisito subjetivo das benesses executórias, deve o ser com base nos elementos concretos extraídos da execução, verbis:  ..
+Tendo em vista que o paciente cumpre pena com o apontamento de histórico carcerário desfavorável, com registro de faltas graves (fl. 84), um total de 5 (fl. 37), isso termina por demonstrar um certo descompromisso com a sistemática penal, de forma que não se pode falar que o acórdão de origem não esteja fundamentado.
+Portanto, de fato, não há qu alquer possibilidade de constatação do requisito subjetivo, de plano, para o futuro benefício.
+Ora, no caso concreto, ainda, não há sequer falar em termos de reabilitação.
+É o histórico prisional do apenado como um todo que afasta a constatação do requisito subjetivo (AgRg no REsp n. 2.017.532/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/10/2022; e AgRg no HC 806.925/SP, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 31/5/2023).
+Ademais, a Terceira Seção desta Corte Superior firmou, em caráter repetitivo, o Tema n. 1161, no sentido de que (por analogia):  ..
+Sendo assim, a fundamentação utilizada a quo se mostrou idônea.
+No mais, vale registrar que a modificação das decisões proferidas pelas instâncias ordinárias, para concluir pela configuração do requisito subjetivo para benefícios executórios, demandaria o revolvimento do conjunto fático-probatório dos autos da execução penal, o que é incompatível com os estreitos limites da via do habeas corpus (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Devidamente fundamentado o decidido pela origem, não há que se falar em constrangimento ilegal.
+Ante o exposto, denego o habeas corpus.
+Não obstante o ato coator na impetração conexa seja outro, houve aqui, a repetição de temas anteriormente já invocados e resolvidos em seu mérito.
+Além disso, não se encontra nos presentes autos qualquer decisão do juiz da execução em face do exame crimi nológico contestado, de dezembro/2024 (fls. 34-37), de forma que tampouco poderia se falar em flagrante ilegalidade praticada pelo TJ nos autos do HC n. 2019166-13.2025.8.26.0000, assim ementado (fl. 21):
+EMENTA: "Habeas Corpus". Pretendida cassação da decisão que indeferiu pleito de progressão. Inviabilidade de exame da pretensão em via estreita de "Habeas Corpus", que não permite exame aprofundado de provas. Ordem denegada.
+Diante desse cenário, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a reiteração de pedidos, o seguinte julgado deste STJ:
+ ..  No presente caso, não constatada nenhuma flagrante ilegalidade, tem-se que o presente recurso ordinário em habeas corpus não passou de mera reiteração de pedidos no HC n. 719.739/GO, inclusive, impetrado com os mesmos argumentos em geral e em face do mesmo v. acórdão de origem (HC n. 5449889-09.2021.8.09.0000). Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017) (AgRg no RHC n. 161.259/GO, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+Corroborando: AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019; AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 1º/3/2019; e AgRg no AREsp n. 2.355.597/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023.
+Trata-se de hipótese, inclusive, que ocorre até mesmo quando a repetição de pedidos é realizada contra acórdãos diferentes ou em tipos de recursos e ações diversos (AgRg no RHC n. 156.181/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/2/2022; e EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.2 49.797/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/6/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
