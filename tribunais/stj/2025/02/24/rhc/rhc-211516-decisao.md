@@ -1,0 +1,20 @@
+DECISÃO
+RODOLFO LEANDRO MATIAS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1.0000.24.5252281-2/000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que "o paciente foi preso em flagrante delito aos 13/11/2024 por suposta prática dos crimes previstos no artigo 33, "caput", da Lei nº 11.343/06, e artigos 14 e 16, § 1º, I, da Lei nº 10.826/03" (fl. 356).
+Asseriu a defesa, perante a Corte de origem, "o paciente é primário, com bons antecedentes, possui trabalho lícito e residência no distrito da culpa, sem indícios de que em liberdade colocaria em risco a instrução criminal ou a ordem pública. Aduz que a quantidade da droga apreendida na operação não seria expressiva (59,90g de "maconha" e 1,82g de "cocaína")" (fl. 356).
+Todavia, a Corte de origem, ao minudenciar os fatos, salientou que " o s policiais então foram até o local e identificaram o veículo do autuado e, após uma tentativa de fuga, RODOLFO foi abordado. No interior do veículo os agentes encontraram cerca de 300g de maconha. Em seguida, os militares foram até a casa do paciente e, franqueada a entrada pela esposa, arrecadaram mais drogas, armas de fogo e munições.  ..  há indícios de que o paciente portava e guardava dois tipos de drogas, balança de precisão, R$3.502,00 em dinheiro, um simulacro de arma de fogo, uma pistola com numeração raspada, dois carregadores e mais de 100 (cem) munições" (fls. 357-358, grifei).
+A esse respeito é imperioso ressaltar que, "consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (RHC n. 115.823/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/9/2019, destaquei).
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, cifrada na apreensão de significativa quantidade de droga (493,9 gramas de maconha), além de uma balança de precisão e um rolo de plástico filme, demonstrando a necessidade da prisão para a garantia da ordem pública.
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Ordem denegada (HC n. 454.511/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 14/8/2018, grifei).
+ ..
+2. O Magistrado de primeiro grau expôs os motivos pelos quais a prisão preventiva seria necessária, ao destacar a elevada quantidade de droga apreendida em poder do acusado - 377 g de maconha -, além dos petrechos utilizados para a comercialização. Tais elementos, nos termos da jurisprudência desta Corte Superior, são indicativos da dedicação habitual ao comércio ilegal de entorpecentes e, por isso mesmo, constituem motivação idônea a justificar a custódia provisória do indiciado.
+3. Diante do fundado risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Recurso não provido (RHC n. 99.826/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/8/2018, destaquei).
+ ..
+2. Na espécie, a segregação cautelar da recorrente foi mantida pelo Tribunal estadual em razão das circunstâncias concretas colhidas do flagrante, notadamente pela apreensão de droga, balança de precisão, arma de fogo, um bloqueador de sinal e acessórios para armas. Além disso, a recorrente não teria comprovado exercer trabalho lícito e vínculo com o distrito da culpa. Medida mantida nos termos do art. 312 do Código de Processo Penal. Precedentes  ..  (RHC n. 89.557/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/11/2017, grifei.)
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
