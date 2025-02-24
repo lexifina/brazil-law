@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Nas razões do agravo em recurso especial, o agravante deixou de impugnar os fundamentos invocados pelo Tribunal a quo para obstar o prosseguimento do recurso especial.
+3. Agravo regimental não provido.
+RELATÓRIO
+ARLINDO ILDEFONSO interpõe agravo regimental contra decisão de fls. 1.275-1.276 proferida pela Presidência desta Corte, que não conheceu do agravo em recurso especial, por incidência da Súmula n. 182 do STJ.
+O agravante reitera a sua compreensão de que foram violados os arts. 118 e 120 do CPP, motivo pelo qual requer a reconside ração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que os objetos apreendidos à fl. 14 sejam restituídos ao acusado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Nas razões do agravo em recurso especial, o agravante deixou de impugnar os fundamentos invocados pelo Tribunal a quo para obstar o prosseguimento do recurso especial.
+3. Agravo regimental não provido.
+VOTO
+O Tribunal a quo obstou o prosseguimento do recurso especial pelos seguintes fundamentos: a) Súmula n. 7 do STJ; b) Súmula n. 283 do STF.
+Todavia, o agravante, nas razões do agravo em recurso especial, deixou de impugnar especificamente os referidos fundamentos; na verdade, basicamente se limitou a reiterar os mesmos fundamentos dos que foram lançados no apelo especial.
+Assim, entendo irretocável a conclusão do decisum ora agravado, ao haver aplicado o enunciado na Súmula n. 182 do STJ, in verbis:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
