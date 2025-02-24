@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em benefício de RAFAEL GONÇALVES MARTINS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1513725-40.2024.8.26.0228.
+Extrai-se dos autos que o paciente foi condenado às penas de 2 anos e 26 dias de reclusão, em regime inicial fechado, e ao pagamento de 20 dias-multa, pela prática do delito previsto no art. 155, § 4º, III, c/c o art. 14, II, ambos do Código Penal.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, que foi desprovida nos termos do acórdão assim ementado:
+"APELAÇÃO FURTO QUALIFICADO - Materialidade e autoria comprovadas Condenação mantida Pena e regime bem fixados, que não comportam alteração - Recurso desprovido." (fl. 9)
+No presente writ, a impetrante alega que não teria sido apresentada fundamentação idônea para justificar o aumento da pena-base pela avaliação negativa das consequências do delito.
+Requer, assim, a redução da pena-base ao mínimo legal.
+O Ministério Público Federal opinou pela denegação da ordem às fls. 183/186.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, no presente writ, a redução da pena-base.
+Ao fixar os parâmetros da dosimetria na primeira fase, o Magistrado sentenciante assim consignou:
+"Com fundamento no artigo 59, do Código Penal, atendendo o exame das circunstâncias judiciais, fixo a pena 1/6 acima do mínimo legal, pelo prejuízo causado à vítima, que teve o vidro do carro avariado e suportou os custos e aborrecimentos do evento." (fl. 135)
+O Tribunal de origem reformou a pena fixada em primeiro grau, de acordo com os seguintes fundamentos:
+"Na primeira fase, a pena-base foi fixada em 1/6 acima do piso legal, pois a vítima "(..) teve o vidro do carro avariado e suportou os custos e aborrecimentos do evento."
+E realmente, o procedimento de dosimetria da pena envolve um acentuado grau de subjetividade do magistrado, cabendo ao juiz, na sua atividade de fixar o quantum da sanção, dentro dos parâmetros estabelecidos pela lei, agir com certa discricionariedade, poder que embora esteja sujeito a controle por uma instância revisora, daí falar-se em um "processo de discricionariedade vinculada", como leciona Guilherme de Souza Nucci (Individualização da pena, RT, 2ª ed., p. 146) não permite precisão matemática, embora deva respeito ao princípio da proporcionalidade.
+O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena e tanto a presença de diversas vetoriais negativas como a existência de uma única de especial gravidade autorizam a exasperação acima do mínimo legal.
+De outro lado, a pena também é defesa social. O rigor na imposição da sanção criminal é um imperativo de justiça em defesa dos superiores interesses sociais, tão açoitados nos tempos atuais por uma criminalidade cada vez mais crescente e diversificada.
+Deve-se afastar, ainda, a cultura da pena mínima sem que circunstâncias peculiares e gravidade de cada delito sejam analisadas. Pena-base não é sinônimo de pena mínima que, aplicada indistintamente a situações diferenciadas, traz inaceitável sensação de impunidade à sociedade, além de ferir o princípio da individualização das penas tratando cada sujeito e conduta de forma individual lembrando-se, ainda, que a pena deve ser "necessária e suficiente para reprovação e prevenção do crime" (Código Penal, art. 59, caput, do Código Penal). Se o legislador estabeleceu um patamar entre a pena mínima e a máxima, e previu inúmeras circunstâncias que acarretam e determinam a avaliação e a individualização da pena mais justa de acordo com a efetiva gravidade de cada conduta e análise das condições pessoais de cada réu, deve-se atentar mais criteriosamente para tais circunstâncias.
+E, no caso dos autos, as circunstâncias consideradas e apontadas estão a justificar e impor o rigor necessário na punição, e a fixação da pena-base acima do patamar raso.
+Assim sendo, desde que o magistrado não tenha desbordado de um quadro de razoabilidade, há que se prestigiar a pena imposta na sentença, cabendo destacar que o juiz monocrático, diante do vínculo direto com as partes e, portanto, da proximidade com o fato, encontra-se em posição privilegiada para fixar a pena mais adequada." (fls. 18/20)
+A dosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal - CP, cabendo ao Magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico.
+Sendo assim, é certo que a alteração da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder.
+Com relação à circunstância judicial das consequências do delito, verifica-se que não foram apontados elementos concretos que extrapolassem aqueles inerentes ao próprio tipo penal, sendo certo que o prejuízo decorrente do delito de furto, quando não se revela exacerbado, não extrapola as consequências descritas para o tipo penal.
+Nesse sentido:
+DIREITO PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA DA PENA. PLEITO DE REDUÇÃO DA PENA-BASE. CONSEQUÊNCIAS DO DELITO. AUSÊNCIA DE RESTITUIÇÃO DO BEM À VÍTIMA. ELEMENTO INERENTE AO TIPO PENAL. NECESSIDADE DE DEMONSTRAÇÃO DE PREJUÍZO QUE EXTRAVASE O ESPERADO À ESPÉCIE. MOTIVAÇÃO INIDÔNEA PELA ORIGEM. REINCIDÊNCIA. FRAÇÃO DE AUMENTO MAIOR QUE 1/6 SEM FUNDAMENTAÇÃO ESPECÍFICA. ILEGALIDADE. RECURSO PROVIDO.
+1. Recurso especial interposto contra acórdão que manteve a condenação por furto qualificado, valorando negativamente as consequências do crime ante a ausência de restituição do bem e adotando a fração de aumento 1/5 na segunda fase da individualização da reprimenda diante da reincidência.
+2. A jurisprudência do STJ não admite a valoração negativa das consequências do crime apenas em razão do prejuízo experimentado pela vítima, sem demonstração de circunstância anormal à espécie (furto). Precedentes.
+3. Segundo o entendimento desta Corte Superior, o aumento da pena pela reincidência em fração superior a 1/6 exige fundamentação concreta, o que não ocorreu no caso, limitando-se o órgão de origem a afirmar a presença da circunstância agravante. Precedentes.
+4. Recurso provido para afastar a majoração da reprimenda pela valoração negativa das consequências do crime e aplicar a fração de aumento 1/6 pela reincidência, fixando a pena definitiva em 2 anos e 4 meses de reclusão.
+(REsp n. 2.033.365/MG, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/2/2025.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL. FURTO QUALIFICADO POR ESCALADA E POR ARROMBAMENTO. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO DELITO. AUSÊNCIA DE ELEMENTOS MAIS EXPRESSIVOS DO QUE AQUELES INERENTES AO TIPO PENAL. REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL. POSSIBILIDADE. INEXISTÊNCIA DE ILEGALIDADE.
+1. Em regra, não se presta o habeas corpus à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias, mas a jurisprudência desta Corte Superior admite, em caráter excepcional, o reexame da sua aplicação nas hipóteses de manifesta violação dos critérios dos artigos 59 e 68 do Código Penal, sob o aspecto da ilegalidade, nos casos de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+2. Verifica-se a ocorrência de manifesta ilegalidade se a circunstância referente às consequências do delito foi valorada negativamente sem a indicação de elementos mais expressivos do que aqueles inerentes ao tipo penal. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 647.941/RO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/5/2023, DJe de 5/6/2023.)
+Assim, passo à readequação da pena do paciente.
+Na primeira fase, fixo a pena-base no mínimo legal, qual seja, 2 anos de reclusão e 10 dias-multa.
+No segunda fase, a pena foi aumentada em 1/3 pela presença da agravante da reincidência, totalizado em 2 anos e 8 meses de reclusão, e 13 dias-multa.
+Na terceira fase, reconhecida a tentativa, mantenho a redução da pena em 1/3, o que resulta em 1 ano, 9 meses e 10 dias de reclusão, e o pagamento de 10 dias-multa, a qual torno definitiva.
+Embora a reprimenda definitiva não seja superior a 4 anos de reclusão, a existência de multirreincidência justifica de forma idônea a imposição de regime semiaberto e a negativa de substituição da pena restritiva de liberdade em penas restritivas de direitos.
+Ante o exposto, com fundamento no art. 34, c/c o art. 203, II, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus, mas concedo a ordem, de ofício, para redimensionar a pena para 1 ano, 9 meses e 10 dias de reclusão, em regime inicial semiaberto, e pagamento de 10 dias-multa, mantidos os demais termos do acórdão impugnado.
+Publique-se.
+Intimem-se.
+ EMENTA
