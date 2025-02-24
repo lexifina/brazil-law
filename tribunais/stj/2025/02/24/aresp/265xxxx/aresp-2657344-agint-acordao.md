@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. INTERPRETAÇÃO DIVERGENTE. NECESSIDADE DE INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegada afronta a lei federal não foi demonstrada com clareza, pois a ausência dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+2. O conhecimento do recurso especial interposto com amparo no art. 105, III, c, da CF exige, também, a indicação do dispositivo de lei federal, pertinente ao tema decidido, que supostamente teria sido objeto de interpretação divergente, sob pena de incidência da aludida Súmula n. 284 do STF.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RECOL DISTRIBUIÇÃO E COMÉRCIO LTDA. (RECOL) contra decisão de relatoria da Ministra Presidente desta Corte, que conheceu do agravo em recurso especial para não conhecer do recurso especial em virtude da incidência da Súmula n. 284 do STF.
+Nas razões do presente inconformismo, repisando os argumentos trazidos nas razões recursais, alegou a não incidência da Súmula n. 284 do STF, pois demonstrou os artigos legais violados.
+Não houve impugnação ao recurso (e-STJ, fls. 1.573/1.574).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. INTERPRETAÇÃO DIVERGENTE. NECESSIDADE DE INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegada afronta a lei federal não foi demonstrada com clareza, pois a ausência dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+2. O conhecimento do recurso especial interposto com amparo no art. 105, III, c, da CF exige, também, a indicação do dispositivo de lei federal, pertinente ao tema decidido, que supostamente teria sido objeto de interpretação divergente, sob pena de incidência da aludida Súmula n. 284 do STF.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, a decisão agravada consignou, expressamente, que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional, devendo incidir a Súmula n. 284 do STF.
+Nesse contexto, da leitura das razões do especial, verificou-se que houve tão somente a indicação genérica dos dispositivos violados.
+O entendimento desta Corte é de que a admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica.
+Assim, a fundamentação recursal se mostra deficiente, uma vez que é incapaz de evidenciar o malferimento à legislação federal apontada, impedindo a compreensão da exata medida da controvérsia.
+Impositiva, portanto, a aplicação da Súmula n. 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Sobre o tema, seguem os julgados:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. CERCEAMENTO DE DEFESA. RÉPLICA À CONTESTAÇÃO. AUSÊNCIA DE INTIMAÇÃO DA PARTE. FALTA DE INDICAÇÃO DOS DISPOSITIVOS CONSIDERADOS VIOLADOS E DE IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 284 E 283 DO STF. JULGAMENTO ANTECIPADO DA LIDE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7/STJ. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR EXCESSIVO. VERIFICAÇÃO. DESCABIMENTO. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. MULTA DO ART. 1.021, § 4º, do CPC/2015. NÃO INCIDÊNCIA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. DESCABIMENTO. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. "Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp n. 1.457.765/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2019, DJe 22/8/2019).
+5. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+6. No caso, a Corte de origem afastou o alegado cerceamento de defesa devido ao julgamento antecipado da lide, assentando a impertinência para a solução da controvérsia das provas requeridas pela parte. Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável em recurso especial.
+7. Consoante a jurisprudência desta Corte, apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor dos honorários advocatícios fixados na origem, é possível afastar o óbice da Súmula n. 7/STJ, para reexame da verba em recurso especial. No caso, o valor estabelecido pelo Tribunal de origem não se mostra desproporcional, a justificar sua reavaliação.
+8. Dissídio jurisprudencial não comprovado, ante a aplicação da Súmula n. 282, 283 e 356 do STF e 7 do STJ.
+9. Conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp n. 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 29/8/2016).
+10. Segundo a jurisprudência do STJ, " ..  não cabe a condenação ao pagamento de honorários advocatícios recursais no âmbito do agravo interno  .. " (AgInt nos EDcl no REsp n. 1.772.480/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1º/7/2019, DJe 6/8/2019).
+11. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.472.371/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 18/5/2020, DJe 21/5/2020 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. 1. REDUÇÃO DO DANO MORAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL PORVENTURA VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. ARGUMENTAÇÃO DEDUZIDA SOMENTE NAS RAZÕES DO AGRAVO INTERNO. ANÁLISE INVIÁVEL. INOVAÇÃO RECURSAL. 3. SUCUMBÊNCIA RECÍPROCA EM DANOS MORAIS, À LUZ DO NOVO CPC. MATÉRIA NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Concernente à pleiteada redução indenizatória, os agravantes não apontaram nenhum dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a matéria, cuja providência é obrigatória para os reclamos interpostos pelas alíneas a e c do permissivo constitucional. Dessarte, constata-se que a argumentação apresentada no recurso revela-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. A alegação, somente na ocasião do agravo interno, de que houve ofensa a dispositivo legal, constitui indevida inovação recursal e torna inviável a análise do pleito, ante a configuração da preclusão consumativa.
+3. Verifica-se que a tese relativa à não incidência da Súmula 326/STJ, em face da atual legislação processual civil, não foi objeto de debate no acórdão impugnado, tampouco foram opostos embargos de declaração quanto ao ponto específico, carecendo, com isso, do indispensável prequestionamento, o que atrai a aplicação das Súmulas 282 e 356 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.473.694/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 9/3/2020, DJe 13/3/2020 - sem destaque no original)
+Outrossim, a decisão recorrida consignou que não houve a indicação dos dispositivos de lei federal que teriam sidos objeto de interpretação divergente, fazendo incidir, à hipótese, o teor da Súmula n. 284 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Com efeito, além de indicar o dispositivo legal violado e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, demonstrando-se a identidade das situações fáticas e a interpretação diversa dada ao mesmo dispositivo legal.
+Sobre a necessidade de indicação expressa do dispositivo de lei tido por violado, confira-se o seguinte julgado exarado pela Corte Especial do STJ:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, j. em 18/12/2013, DJe 17/3/2014 - sem destaques no original)
+Em igual sentido, confiram-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. PRECEDENTE DA CORTE ESPECIAL.
+1. O acórdão recorrido se apresentou omisso quanto à suscitada divergência jurisprudencial.
+2. A Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que a ausência de indicação do dispositivo de lei federal a respeito do qual supostamente haveria interpretação divergente impede o conhecimento do recurso especial pela letra "c" do permissivo constitucional, atraindo a incidência, por analogia, da Súmula nº 284/STF.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgRg no AREsp 474.460/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 28/4/2015, DJe 7/5/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONFIGURAÇÃO DO DANO MORAL. REVISÃO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+ ..
+3. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Ausentes tais requisitos, incide a Súmula n. 284/STF.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.395.388/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 19/3/2015, DJe 27/3/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL FUNDADO APENAS NA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. RESPONSABILIDADE CIVIL.
+DANO MORAL. VALOR DA CONDENAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CARACTERIZADA. FALTA DE SIMILITUDE FÁTICA. DISSÍDIO JURISPRUDENCIAL ACERCA DO TERMO INICIAL DA CORREÇÃO MONETÁRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PRECEDENTE DA CORTE ESPECIAL.
+ ..
+2. Quanto ao dissídio jurisprudencial acerca do termo inicial da correção monetária, verifica-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial. Incidência da Súmula 284/STF. Precedente da Corte Especial.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp 514.324/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 24/6/2014, DJe 1º/8/2014)
+Assim, como não foi demonstrado o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
