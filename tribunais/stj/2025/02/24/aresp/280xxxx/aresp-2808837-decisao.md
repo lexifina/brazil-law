@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por VIVALDO APARECIDO MANTOAN, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 4/11/2024.
+Concluso ao Gabinete em: 9/ 1/2025.
+Ação: de rescisão contratual cumulada com reintegração de posse, ajuizada pelo agravante em desfavor de JOSE ANTONIO DE CASTRO, em virtude de contrato de arrendamento rural firmado entre as partes.
+Acórdão: negou provimento ao agravo de instrumento e julgou prejudicado o agravo interno interposto pelo agravante, nos termos das seguinte ementa:
+AGRAVO DE INSTRUMENTO E AGRAVO INTERNO - AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE - CONTRATO DE ARRENDAMENTO RURAL - DECISÃO AGRAVADA QUE DETERMINOU O CUMPRIMENTO DO ACÓRDÃO PROFERIDO PELA 17ª CÂMARA CÍVEL DO TRIBUNAL DE JUSTIÇA NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO Nº 0106596- 21.2022.8.16.0000 ED, FIXOU MULTA DIÁRIA NA HIPÓTESE DE DESCUMPRIMENTO DA ORDEM JUDICIAL E INDEFERIU PEDIDO DE DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO - PRETENSÃO DE AFASTAR A DETERMINAÇÃO DE MANUTENÇÃO DE POSSE DO AGRAVADO - AUSÊNCIA DE NOTIFICAÇÃO EXTRAJUDICIAL TEMPESTIVA PARA A RESCISÃO DO CONTRATO DE ARRENDAMENTO RURAL - ALEGAÇÃO DE FATO NOVO DECORRENTE DO ACORDO VERBAL FIRMADO ENTRE AS PARTES - AUSÊNCIA DE COMPROVAÇÃO - DETERMINAÇÃO DE MANUTENÇÃO DO AGRAVADO NA POSSE DO IMÓVEL RURAL EM RAZÃO DE DECISÃO DA 17ª CÂMARA CÍVEL NO JULGAMENTO EM OUTRO RECURSO - INVIABILIDADE DE REDISCUSSÃO DA MATÉRIA - ARTIGO 507 DO CÓDIGO DE PROCESSO CIVIL - ALEGAÇÃO DE NECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO - INVIABILIDADE - PROCESSO EM FASE INSTRUTÓRIA - PEDIDO DE CONDENAÇÃO DO AGRAVANTE NO PAGAMENTO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ - ART. 80 E SEGUINTES DO CPC - NÃO OCORRÊNCIA - DECISÃO AGRAVADA MANTIDA - RECURSO DE AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO - RECURSO DE AGRAVO INTERNO PREJUDICADO.
+(e-STJ Fl. 202/203)
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial do agravante em razão dos seguintes fundamentos:
+i) impossibilidade de alegação, em recurso especial, de ofensa a dispositivo constitucional (art. 5º, LV e XXIII, da CF/88);
+ii) incidência da Súmula 83/STJ quanto ao descabimento da rediscussão da questão da manutenção da posse, diante da preclusão consumativa, a par da incidência da Súmula 7/STJ, em atenção aos julgados e peculiaridades citadas; e
+iii) igual incidência da Súmula 83/STJ, em harmonia ao entendimento desta Corte, quanto à inviabilidade de interposição do agravo de instrumento contra decisão interlocutória que versa sobre a desn ecessidade de produção de provas.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega que:
+i) foram preenchidos os requisitos de admissibilidade recursal, sendo inaplicáveis, na hipótese, as Súmulas 7 e 83 do STJ, de sorte que a questão em análise prescinde do reexame de fatos e provas, viabilizada a mera revaloração jurídica;
+ii) o agravo de instrumento não envolve questão preclusa, bem como os julgados colacionados não se aplicam ao caso concreto;
+iii) nos termos do Tema 988/STJ, é possível a mitigação do rol de agravo de instrumento se configurada a urgência e imprescindibilidade de seu julgamento; e
+iv) foi usurpada a competência do STJ para fins de análise do recurso especial, devendo ser deferido, ainda, o efeito suspensivo ao presente recurso.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes fundamentos:
+i) impossibilidade de alegação, em recurso especial, de ofensa a dispositivo constitucional (art. 5º, LV e XXIII, da CF/88);
+ii) incidência da Súmula 83/STJ quanto ao descabimento da rediscussão da questão da manutenção da posse, diante da preclusão consumativa, a par da incidência da Súmula 7/STJ, em atenção aos julgados e peculiaridades citadas; e
+iii) igual incidência da Súmula 83/STJ, em harmonia ao entendimento desta Corte, quanto à inviabilidade de interposição do agravo de instrumento contra decisão interlocutória que versa sobre a desnecessidade de produção de provas.
+Nesse passo, a par de sequer refutar o óbice da impossibilidade de alegação de ofensa a dispositivo constitucional, o agravante limitou-se a tecer alegações meramente genéricas e a reprisar a sua argumentação de mérito, deixando, pois, de demonstrar o efetivo desacerto da decisão.
+Especificamente quanto à Súmula 83/STJ, a sua impugnação deve ser demonstrada com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não houve na espécie.
+Ademais, é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados à agravante no julgame nto do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
