@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Humberto Martins, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  DE  EXIGIR  CONTAS.  PRIMEIRA  FASE.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  FUNDAMENTAÇÃO.  SUFICIÊNCIA.  ARTS.  926  E  927,  III,  DO  CPC.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.  INTERESSE  DE  AGIR.  ART.  550,  §  1º,  DO  CPC.  PEDIDO  ESPECÍFICO.  FATOS  E  PROVAS.  REEXAME.  INVIABILIDADE.  SÚMULA  Nº  7/STJ.  DISSÍDIO  JURISPRUDENCIAL.  PREJUÍZO.
+1.  A  controvérsia  dos  autos  resume-se  em  definir  se  ocorreu  negativa  de  prestação  jurisdicional  e  se  a  inicial  da  ação  de  prestação  de  contas  atende  ao  requisito  da  especificidade  do  pedido,  demonstrando  a  presença  do  interesse  de  agir.
+2.  Não  viola  os  arts.  489  e  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+3.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282 /STF.
+4.  No  ajuizamento  de  ação  de  prestação  de  contas,  o  pedido  de  referida  demanda  não  pode  ser  genérico,  porquanto  deve,  ao  menos,  especificar  o  período  e  a  respeito  de  quais  movimentações  financeiras  o  autor  busca  esclarecimentos.
+5.  Na  hipótese,  rever  a  conclusão  do  Tribunal  local  acerca  do  preenchimento  dos  requisitos  para  o  cabimento  da  prestação  de  contas  é  providência  que  encontra  óbice  na  Súmula  nº  7 /STJ.
+6.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+7.  Recurso  especial  parcialmente  conhecido  e,  nessa  extensão,  não  provido.
+RELATÓRIO
+Trata-se  de  recurso  especial  interposto  por  BANCO  SANTANDER  (BRASIL)  S.A.
+O  apelo  nobre,  fundamentado  no  art.  105,  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  insurge-se  contra  o acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo  assim  ementado:
+"Agravo  de  instrumento.  Ação  de  exigir  contas  julgada  procedente.  Alegação  de  inadequação  do  procedimento  e  inépcia  da  inicial.  Impugnação  da  requerida  que  denota  a  necessidade  do  procedimento.  Lançamentos  contestados.  Direito  de  esclarecimento  pela  parte  autora.  Decisão  mantida  neste  ponto.  Reconhecimento  da  prescrição  parcial  da  ação  e  exiguidade  do  prazo  conferido  para  o  cumprimento  da  obrigação.  Recurso  parcialmente  provido"  (e-STJ  fl.  429).
+No  recurso  especial,  o  recorrente  aponta  a  violação  dos  seguintes  dispositivos  e  a  ocorrência  de  divergência  jurisprudencial,  com  as  respectivas  teses:
+(i)  arts.  489,  §  1º,  II  e  III,  e  1.022,  II,  parágrafo  único,  II,  do  Código  de  Processo  Civil,  alegando  que,  apesar  da  oposição  de  embargos  de  declaração,  o  Tribunal  de  origem  não  examinou  todos  os  argumentos  suficientes  para  o  correto  deslinde  da  controvérsia,  notadamente  o  de  que  a  petição  inicial  é  genérica;
+(ii)  arts.  926  e  927,  III,  do  CPC,  arrazoando  que,  independentemente  de  existir  tese  firmada  em  julgamento  de  IRDR,  o  acórdão  recorrido  não  justificou  a  sua  não  aplicação  ao  caso  concreto,  tampouco  identificou  suposta  causa  de  diferenciação  (distinguishing);  e
+(iii)  art.  550,  §  1º,  do  CPC,  além  de  divergência  pretoriana,  afirmando  que  o  pedido  genérico  inscrito  na  petição  inicial  não  autoriza  o  manejo  da  ação  de  prestação  de  contas.
+Requer  o  provimento  do  recurso  especial  para  que  seja  reformado  o  acórdão  recorrido  para  que  o  pedido  de  prestação  de  contas  seja  julgado  improcedente.
+As  contrarrazões  foram  apresentadas às e-STJ fls.  516/523  e  o  recurso  especial  foi  admitido  na  origem.
+É  o  relatório.
+EMENTA
+RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  DE  EXIGIR  CONTAS.  PRIMEIRA  FASE.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  FUNDAMENTAÇÃO.  SUFICIÊNCIA.  ARTS.  926  E  927,  III,  DO  CPC.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.  INTERESSE  DE  AGIR.  ART.  550,  §  1º,  DO  CPC.  PEDIDO  ESPECÍFICO.  FATOS  E  PROVAS.  REEXAME.  INVIABILIDADE.  SÚMULA  Nº  7/STJ.  DISSÍDIO  JURISPRUDENCIAL.  PREJUÍZO.
+1.  A  controvérsia  dos  autos  resume-se  em  definir  se  ocorreu  negativa  de  prestação  jurisdicional  e  se  a  inicial  da  ação  de  prestação  de  contas  atende  ao  requisito  da  especificidade  do  pedido,  demonstrando  a  presença  do  interesse  de  agir.
+2.  Não  viola  os  arts.  489  e  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+3.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282 /STF.
+4.  No  ajuizamento  de  ação  de  prestação  de  contas,  o  pedido  de  referida  demanda  não  pode  ser  genérico,  porquanto  deve,  ao  menos,  especificar  o  período  e  a  respeito  de  quais  movimentações  financeiras  o  autor  busca  esclarecimentos.
+5.  Na  hipótese,  rever  a  conclusão  do  Tribunal  local  acerca  do  preenchimento  dos  requisitos  para  o  cabimento  da  prestação  de  contas  é  providência  que  encontra  óbice  na  Súmula  nº  7 /STJ.
+6.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+7.  Recurso  especial  parcialmente  conhecido  e,  nessa  extensão,  não  provido.
+VOTO
+A  insurgência  não  merece  prosperar.
+No  que  concerne  ao  alegado  defeito  na  prestação  jurisdicional,  o  Tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo  e  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese,  como  se  vê  do  seguinte  trecho  do  acórdão  recorrido:
+"(..)
+Apesar  de  alegar  a  inadequação  do  procedimento  e  inépcia  da  inicial,  o  fato  é  que  a  parte  requerida  impugna  os  valores  e  dados  informados  e  questionados  pela  autora  em  sua  petição  inicial.
+Adequado,  portanto,  o  ajuizamento,  da  ação  para  a  obtenção  de  contas,  notadamente  em  relação  à  cobrança  das  tarifas  impugnadas.  Aliás,  como  anotado  na  decisão  recorrida,  os  lançamentos  duvidosos  estão  especificamente  anotados  às  págs.  57/105,  com  indicação  dos  valores  impugnados  e  data  dos  lançamentos"  (e-STJ  fls.  431/432  -  grifou-se).
+Não  há  falar,  portanto,  em  prestação  jurisdicional  lacunosa  ou  deficitária  apenas  pelo  fato  de  o  acórdão  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  do  recorrente.
+Nesse  sentido:
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  RESCISÃO  DE  CONTRATO  DE  COMPRA  E  VENDA  DE  IMÓVEL.  ATRASO  NA  ENTREGA.  CULPA  DA  VENDEDORA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  COMISSÃO  DE  CORRETAGEM.  PRESCRIÇÃO.  APLICAÇÃO  DO  PRAZO  PRESCRICIONAL  DECENAL.  INCIDÊNCIA  DA  SÚMULA  Nº  83  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Não  há  falar  em  ofensa  aos  arts.  489  e  1022  do  CPC,  porquanto  todas  as  questões  fundamentais  ao  deslinde  da  controvérsia  foram  apreciadas  pelo  Tribunal  a  quo,  sendo  que  não  caracteriza  omissão  ou  falta  de  fundamentação  a  mera  decisão  contrária  ao  interesse  da  parte.
+2.  As  Turmas  que  compõem  a  Segunda  Seção  deste  Superior  Tribunal  firmaram  entendimento  no  sentido  de  que,  nos  casos  de  rescisão  de  contrato  de  compra  e  venda  de  imóvel  por  culpa  do  vendedor,  é  aplicável  o  prazo  decenal  contado  a  partir  da  resolução.
+3.  Agravo  interno  não  provido."
+(AgInt  no  AREsp  2.267.897/SP,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  DJe  6/12/2023  -  grifou-se)
+Ademais,  verifica-se  que  as  normas  contidas  nos  arts .  926  e  927,  III,  do  Código  de  Processo  Civil,  relacionadas  às  matérias  de  que,  apesar  de  existir  tese  firmada  em  julgamento  de  IRDR,  o  acórdão  recorrido  não  justificou  a  sua  não  aplicação  ao  caso  concreto,  tampouco  identificou  suposta  causa  de  diferenciação  (distinguishing),  não  foram  objeto  de  debate  pela  Corte  local,  nem sequer  de  modo  implícito,  não  tendo  o  recorrente  nem ao menos  oposto  embargos  de  declaração  visando  obter  daquele  Tribunal  o  pronunciamento  a  respeito  desse  tema,  o  que  inviabiliza  o  recurso  especial  diante  da  falta  de  prequestionamento,  conforme  o  óbice  das  Súmulas  nºs  282  e  356 /STF.
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INDENIZAÇÃO.  ACIDENTE  DE  TRÂNSITO.  PENSÃO.  BENEFÍCIO  PREVIDENCIÁRIO.  CUMULAÇÃO.  POSSIBILIDADE.  PENSIONAMENTO  MENSAL.  VALOR.  TERMO  FINAL.  EXPECTATIVA  DE  VIDA  DA  VÍTIMA.  SÚMULA  N.  83  DO  STJ.  INCIDÊNCIA.  FALTA  DE  PREQUESTIONAMENTO.  PREQUESTIONAMENTO  IMPLÍCITO.  NÃO  VERIFICAÇÃO.  SÚMULAS  N.  282  E  356  DO  STF.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  DESPROVIDO.
+ ..
+5.  O  prequestionamento  significa  a  prévia  manifestação  do  tribunal  de  origem,  com  emissão  de  juízo  de  valor,  acerca  da  matéria  referente  ao  dispositivo  de  lei  federal  apontado  como  violado.  Trata-se  de  requisito  constitucional  indispensável  para  o  acesso  à  instância  especial.
+6.  A  falta  de  enfrentamento  da  questão  objeto  da  controvérsia  impede  o  acesso  à  instância  especial  e  o  conhecimento  do  recurso  especial,  nos  termos  das  Súmulas  n.  282  e  356  do  STF.
+7.  Não  se  considera  preenchido  o  requisito  do  prequestionamento  (prequestionamento  implícito)  quando  o  tribunal  de  origem  não  debate  efetivamente  acerca  da  matéria  inserta  no  dispositivo  de  lei  federal.
+8.  Agravo  interno  desprovido."
+(AgInt  nos  EDcl  no  REsp  1.872.831/PR,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  25/11/2024,  DJe  de  29/11/2024)
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PREVIDÊNCIA  PRIVADA.  ILEGITIMIDADE  PASSIVA.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULAS  282  E  356/STF.  PREQUESTIONAMENTO  FICTO.  NÃO  OCORRÊNCIA.  VÍCIO  DE  CONSENTIMENTO  E  ONEROSIDADE  EXCESSIVA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  MULTA  PREVISTA  NO  ART.  81  DO  CPC/2015.  INAPLICABILIDADE.  HONORÁRIOS  RECURSAIS.  NÃO  CABIMENTO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  Corte  local  não  se  pronunciou  sobre  a  tese  de  ilegitimidade  passiva  da  instituição  financeira,  o  que  revela  a  ausência  de  prequestionamento  da  matéria,  a  qual  nem  sequer  foi  suscitada  nos  embargos  declaratórios  opostos  na  origem.  Incidência  das  Súmulas  282  e  356/STF.
+ ..
+6.  Agravo  interno  desprovido."
+(AgInt  no  AREsp  2.658.153/DF,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  11/11/2024,  DJe  de  13/11/2024)
+Desse modo,  rever  a  conclusão  do  tribunal  local  acerca  do  preenchimento  dos  requisitos  para  o  cabimento  da  prestação  de  contas  é  providência  que  encontra  óbice  na  Súmula  nº  7/STJ.
+Confiram-se:
+"AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  PRESTAÇÃO  DE  CONTAS.  PEDIDO  GENÉRICO.  FALTA  DE  INTERESSE  DE  AGIR.  ACÓRDÃO  EM  SINTONIA  COM  A  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  N.  83  DO  STJ.  PRESENÇA  DOS  REQUISITOS.  VERIFICAÇÃO.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  DESPROVIDO.
+1.  Não  há  pedido  genérico  quando,  em  ação  de  prestação  de  contas,  a  parte  autora  indica,  na  petição  inicial,  o  vínculo  jurídico  entre  as  partes,  as  contas,  o  período  sobre  os  quais  deseja  esclarecimentos  e  expõe  motivos  suficientes  para  embasar  a  pretensão.
+2.  Rever  a  convicção  formada  pelo  tribunal  de  origem  acerca  da  presença  dos  requisitos  para  a  configuração  do  interesse  de  agir  na  ação  de  prestação  de  contas  demandaria  reexame  do  conjunto  fático-probatório,  o  que  é  vedado  em  recurso  especial,  devido  ao  óbice  da  Súmula  n.  7  do  STJ.
+3.  Agravo  interno  desprovido."
+(AgInt  no  AREsp  2.326.039/SP,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  4/9/2023,  DJe  de  6/9/2023)
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  PRESTAÇÃO  DE  CONTAS.  PRIMEIRA  FASE.  PEDIDO  GENÉRICO.  SÚMULA  83/STJ.  REEXAME.  SÚMULA  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  PREJUDICADA.  AGRAVO  IMPROVIDO.
+1.  Nos  termos  da  jurisprudência  desta  Corte,  a  petição  inicial  de  ação  de  prestação  de  contas  deve  demonstrar  o  vínculo  jurídico  entre  autor  e  réu,  delimitar  o  período  objeto  da  pretensão  e  expor  os  suficientes  motivos  pelos  quais  se  busca  a  prestação  de  contas,  para  que  esteja  demonstrado  o  interesse  de  agir  do  autor  da  ação.
+1.1.  Na  hipótese,  não  tendo  a  parte  autora  apresentado  os  específicos  motivos  aptos  a  demonstrar  o  interesse  de  agir,  está  configurado  o  pedido  genérico.
+2.  Inadmissível  o  recurso  especial  quando  o  entendimento  adotado  pelo  Tribunal  de  origem  coincide  com  a  jurisprudência  do  Superior  Tribunal  de  Justiça  (Súmula  n.  83/STJ).
+3.  A  revisão  das  conclusões  estaduais  demandaria,  necessariamente,  o  revolvimento  do  acervo  fático-probatório  dos  autos,  providência  inviável  no  âmbito  do  recurso  especial,  ante  o  disposto  na  Súmula  7/STJ.
+4.  A  incidência  do  óbice  imposto  pela  Súmula  7/STJ  impede  a  apreciação  da  divergência  jurisprudencial,  diante  da  constatação  da  ausência  de  similitude  fático-jurídica  entre  os  julgados  confrontados.
+5.  Agravo  interno  a  que  se  nega  provimento."
+(AgInt  no  AREsp  1.976.053/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  14/3/2022,  DJe  de  18/3/2022)
+A  necessidade  de  revolvimento  do  acervo  fático-probatório  dos  autos,  consoante  disposto  na  Súmula  nº  7/STJ,  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+Quanto ao tema:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITOS  CONJUGADA  COM  DANOS  MORAIS.  ART.  1.022  DO  CPC/2015.  VIOLAÇÃO.  NÃO  OCORRÊNCIA.  RAZÕES  DISSOCIADAS.  SÚMULA  Nº  284/STF.  DUPLICATA.  PROTESTO  INDEVIDO.  ENDOSSO-MANDATO.  CULPA.  NECESSIDADE.  RESPONSABILIDADE  DO  BANCO.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  ANÁLISE  PREJUDICADA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  Estando  as  razões  do  recurso  dissociadas  do  que  decidido  no  acórdão  recorrido,  é  inadmissível  o  inconformismo  por  deficiência  na  sua  fundamentação.  Aplicação  da  Súmula  nº  284  do  Supremo  Tribunal  Federal.
+4.  A  Segunda  Seção  do  Superior  Tribunal  de  Justiça,  no  julgamento  do  REsp
+nº  1.063.474/RS,  sob  o  rito  dos  recursos  repetitivos,  firmou  o  entendimento  de  que  apenas  responde  por  danos  materiais  e  morais  o  banco  endossatário  que  recebe  o  título  de  crédito  mediante  endosso-mandato  e  o  leva  a  protesto,  extrapolando  os  poderes  de  mandatário,  ou  em  razão  de  ato  culposo  próprio.
+5.  Na  hipótese,  rever  o  entendimento  do  tribunal  de  origem,  para  aferir  a  existência  de  conduta  culposa  do  banco,  demandaria  a  análise  de  circunstâncias  fático-probatórias  dos  autos,  procedimento  inviável  em  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  7/STJ.
+6.  Consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"quanto  pela  alínea  "c"  do  permissivo  constitucional.
+7.  Agravo  interno  não  provido."
+(AgInt  no  AREsp  1.288.642/RS,  Relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  17/12/2018,  DJe  de  1º/2/2019)
+Ante  o  exposto,  conheço  parcialmente  do  recurso  especial  e,  nessa  extensão,  nego-lhe  provimento.
+Na  hipótese,  não  cabe  a  majoração  dos  honorários  sucumbenciais,  pois  o  recurso  tem  origem  em  decisão  interlocutória,  sem  sua  prévia  fixação.
+É  o  voto.
