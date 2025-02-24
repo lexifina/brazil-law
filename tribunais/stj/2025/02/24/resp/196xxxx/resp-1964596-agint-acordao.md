@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. RECEBIMENTO DA INICIAL. ELABORAÇÃO DE PARECER JURÍDICO. INEXISTÊNCIA DE ATO ÍMPROBO. REEXAME DE PROVAS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Agravo interno interposto da decisão que negou provimento ao recurso especial por não se ter identificado contrariedade ao art. 1.022 do Código de Processo Civil (CPC), além de não se ter conhecido da discussão acerca do recebimento da inicial em razão do óbice da Súmula 7 do Superior Tribunal de Justiça (STJ).
+2. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil porque a prestação jurisdicional foi dada na medida da pretensão deduzida. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+3. O Tribunal local, com base no acervo probatório, afastou a presença de elementos suficientes a justificar o recebimento da inicial da ação de improbidade administrativa em relação ao Procurador-Geral do Município. A revisão dessa conclusão implicaria o reexame do contexto fático-probatório dos autos, circunstância que atrai a incidência da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ da decisão de minha relatoria de fls. 282/286.
+A parte recorrente alega:
+(1) "Se a Corte paranaense tivesse analisado o que fora apontado nos declaratórios teria chegado à conclusão que de que existem indícios para o recebimento da petição inicial de improbidade administrativa." (fl. 299); e
+(2) " ..  não se faz necessário o revolvimento de material fático-probatório (Súmula 07 do STJ) para dirimir as questões trazidas no especial, haja vista que todos os fatos e provas necessários constam nos Acórdãos recorridos, assim como o que se busca é a devida aplicação da Lei no caso em tela" (fl. 301).
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa não juntou aos autos impugnação (fls. 309/312).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. RECEBIMENTO DA INICIAL. ELABORAÇÃO DE PARECER JURÍDICO. INEXISTÊNCIA DE ATO ÍMPROBO. REEXAME DE PROVAS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Agravo interno interposto da decisão que negou provimento ao recurso especial por não se ter identificado contrariedade ao art. 1.022 do Código de Processo Civil (CPC), além de não se ter conhecido da discussão acerca do recebimento da inicial em razão do óbice da Súmula 7 do Superior Tribunal de Justiça (STJ).
+2. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil porque a prestação jurisdicional foi dada na medida da pretensão deduzida. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+3. O Tribunal local, com base no acervo probatório, afastou a presença de elementos suficientes a justificar o recebimento da inicial da ação de improbidade administrativa em relação ao Procurador-Geral do Município. A revisão dessa conclusão implicaria o reexame do contexto fático-probatório dos autos, circunstância que atrai a incidência da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+Na decisão agravada, do recurso especial não se conheceu no que se refere ao indeferimento da inicial, em razão da Súmula 7/STJ, e a se negou provimento quanto à suposta ofensa ao art. 1.022 do CPC, porque o acórdão recorrido não padecia de vício algum, tendo a prestação jurisdicional sido integralmente prestada.
+Em nova análise do presente caso, vê-se que, quanto ao ponto controvertido - rejeição da inicial em relação ao Procurador-Geral do Município -, objeto do recurso especial, o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ decidiu nestes termos (fls. 96/101):
+2.1. Pois bem, ao compulsar os autos, não se depreende que o agravante tenha incorrido em conduta ímproba ao elaborar o parecer jurídico, o que acarreta o não recebimento da inicial proposta pelo Ministério Público do Estado do Paraná.
+Isso, porque infere-se da petição inicial a descrição da conduta e participação de cada um dos réus, bem como detalhamento dos ilícitos supostamente praticados, que, segundo aponta o autor, ora agravante, teriam incidido durante a realização de Termo Aditivo no Processo Licitatório nº 135/2013 (Pregão nº 60/2013).
+Sobre o agravado em específico, está direcionada a Marcelo Gustavo Schimmel, seguinte acusação:
+ ..
+No entanto, a meu ver, não se vislumbra com precisão que a conduta imputada ao agravante tenha configurado ato ímprobo que causou prejuízo ao erário ou ofensa aos princípios da Administração, ao passo que há grande controvérsia doutrinária e jurisprudencial acerca do cometimento de improbidade administrativa pelo advogado em casos em que atua como parecerista.
+Nesse contexto, o Superior Tribunal de Justiça tem o entendimento de que apenas em situações excepcionais é que se admite enquadrar consultor jurídico ou parecerista como sujeito passivo numa ação de improbidade administrativa, sendo para tanto, necessário que "a peça opinativa seja apenas um instrumento, dolosamente elaborado, destinado a possibilitar a realização do ato fazendo-se necessário que "ímprobo", desde o nascedouro a má-fé tenha sido o elemento subjetivo condutor da realização do parecer".
+ ..
+Contudo, não é o que se infere dos autos.
+Nesse sentido, conforme bem destacou o magistrado singular ao rejeitar a inicial:
+ ..
+Ademais, o parecer elaborado pelo agravado tem caráter meramente opinativo, de modo que não possui caráter decisório e também não vincula a atuação da Administração. Assim, seguem os seguintes precedentes:
+ ..
+Outrossim, não se vislumbra que as acusações lançadas contra o agravante não seriam de sua alçada ou mesmo estranhas às suas atribuições.
+Por outro lado, conforme bem observou o magistrado singular "o serviço contratado foi prestado e não há elementos que indiquem subpreço, bem como não há indícios de que o requerido tenha atuado de forma dolosa ou com erro grosseiro".
+Destarte, não se constatando, nesse juízo de cognição sumária e no caso específico do agravante, fortes indícios de responsabilidade pela prática de improbidade administrativa que tenha causado dano ao erário pelo então Procurador Geral do Município, deve ser mantida a decisão agravada.
+No mais, consigne-se, por oportuno, que não há que se falar que "não cabe grave e aprofundado juízo em sede prematura de agravo de instrumento, sob o risco de prejulgamento indevido da causa", pois, muito pelo contrário, o risco com que se depara nos autos é o de que uma análise assaz superficial da lide possa causar tão graves prejuízos ao agravante.
+Nesse contexto, não se revela adequado o prosseguimento da demanda em relação ao agravado Marcelo Gustavo Schimmel.
+Ou seja, tudo que interessava à resolução deste caso foi devidamente respondido, tendo o Tribunal concluído pela inexistência dos elementos indiciários para a configuração do ato de improbidade. Logo, não há que se falar em omissão no julgamento, sendo certo que o descontentamento da parte interessada com o julgado não tem o condão de tornar cabíveis os embargos de declaração - que servem ao aprimoramento da decisão, mas não à sua modificação - ou configurar vício no julgamento.
+Quanto à matéria de fundo, o Tribunal de origem afastou a existência de indícios da prática de ato ímprobo para que se determinasse o processamento da ação. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. RECEBIMENTO DA INICIAL. INDÍCIOS. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Conforme pacífico entendimento jurisprudencial desta Corte Superior, presentes indícios de cometimento de ato ímprobo, afigura-se devido o recebimento da ação de improbidade, em franca homenagem ao princípio do in dubio pro societate, vigente nesse momento processual, sendo certo que apenas as ações evidentemente temerárias devem ser rechaçadas.
+2. Hipótese em que, em face das premissas fáticas assentadas no acórdão objurgado, que não reconheceu a existência de evidências capazes de autorizar o recebimento da inicial com relação aos procuradores do GDF, responsáveis pela elaboração de pareceres jurídicos, a modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno de Cybele Lara da Costa Queiroz, Dilma Monteiro, José Luciano Arantes e Márcia Carvalho Gazeta provido.
+(AgInt no AgInt no REsp n. 968.110/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/9/2022, DJe de 23/11/2022.)
+CIVIL E ADMINISTRATIVO. IMPROBIDADE. PREVENÇÃO. MATÉRIA PRECLUSA. RECEBIMENTO DA INICIAL. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. PRESENÇA DE INDÍCIOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Inviabilidade do exame da prevenção, eis que o suplicante somente formulou a arguição após a interposição do agravo interno que aviou contra a decisão que lhe foi desfavorável, quando a questão já se encontrava preclusa, nos termos do art. 71, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+4. Conforme pacífico entendimento jurisprudencial desta Corte Superior, presentes indícios de cometimento de ato ímprobo, afigura-se devido o recebimento da ação de improbidade, em franca homenagem ao princípio do in dubio pro societate, vigente nesse momento processual, sendo certo que apenas as ações evidentemente temerárias devem ser rechaçadas.
+5. Hipótese em que, em face das premissas fáticas assentadas no acórdão objurgado, que reconheceu a existência de evidências capazes de autorizar o recebimento da inicial, a modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, nos termos da Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.309.133/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/2/2021, DJe de 3/3/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. FUNDAMENTAÇÃO DEFICIENTE. INEXISTÊNCIA. RECEBIMENTO DA PETIÇÃO INICIAL. PRESENÇA DE INDÍCIOS. REVISÃO. ÓBICE DA SÚMULA N. 7 STJ. DEMAIS ALEGAÇÕES. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Destaco que não há violação do art. 489 do CPC/2015, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. Sendo assim, não há que se falar em omissão ou deficiência de fundamentação do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou outra causa passível de exame mediante a oposição de embargos de declaração.
+3. Relativamente ao recebimento da inicial, o Superior Tribunal de Justiça possui firme entendimento de que é suficiente a demonstração de indícios razoáveis de prática de atos de improbidade e autoria para que se determine o processamento da ação, nos termos do art. 17, §§ 6º e 8º, da Lei n. 8.429/1992, a fim de possibilitar mais resguardo do interesse público.
+4. Existindo indícios de atos de improbidade nos termos dos dispositivos da Lei n. 8.429/1992, sendo adequada a via eleita, cabe ao juiz receber a inicial e dar prosseguimento ao feito.
+5. É pacífico nesta Corte que, no momento do recebimento da ação de improbidade administrativa, o magistrado apenas verifica se há a presença de indícios suficientes da prática de atos ímprobos, deixando para analisar o mérito, se ocorreu ou não improbidade, dano ao erário, enriquecimento ilícito ou violação de princípios, condenando ou absolvendo os denunciados, após regular instrução probatória.
+6. Na espécie, o Tribunal de origem se manifestou pelo recebimento da petição inicial, uma vez que presentes fortes indícios de atos de improbidade administrativa.
+7. Modificar o entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, consoante a Súmula n. 7 do STJ.
+8. A matéria relativa aos arts. 330, I, 373, I, e 492 do CPC não foi analisada pela instância ordinária. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.823.133/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021.)
+Destaco que esta Corte Superior tem privilegiado a aplicação do princípio in dubio pro societate na fase preliminar de ações de improbidade. Todavia, sua utilização não pode ficar alheia à existência de justa causa para a manutenção de tão séri a demanda, o que somente se verificará quando os elementos indiciários produzidos pelo autor forem suficientes para demonstrar a probabilidade da tipificação, situação essa afastada pelo acórdão recorrido.
+Está correta a decisão que conheceu parcialmente do rec urso especial e, nessa extensão, a ele negou provimento .
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
