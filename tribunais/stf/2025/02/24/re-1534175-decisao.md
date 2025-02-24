@@ -1,0 +1,25 @@
+Trata-se de recurso extraordinário interposto contra acórdão proferido pela 1ª Turma Recursal da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul- TJRS, assim ementado:
+
+    RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO. PRETENDE A PARTE AUTORA OBTER A APOSENTADORIA ESPECIAL DE PROFESSOR COM PROVENTOS INTEGRAIS. APOSENTADORIA POR IDADE OBTIDA COM PROVENTOS PROPORCIONAIS AO TEMPO DE CONTRIBUIÇÃO DE 23 ANOS, 8 MESES E 9 DIAS. NÃO IMPLEMENTAÇÃO DO PRAZO DE 25 ANOS DE MAGISTÉRIO, NECESSÁRIOS PARA A APOSENTADORIA INTEGRAL. PROVENTOS PROPORCIONAIS AO TEMPO DE CONTRIBUIÇÃO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO INOMINADO DESPROVIDO. (doc. 102, p. 3).
+
+    O recorrente, fundado no art. 102, III, a, da Constituição Federal, alega, em suma, violação do art. 40, § 1º, III, a, e § 5º, da Constituição da República (doc. 165).
+
+    A pretensão recursal merece acolhida.
+
+    É que o acórdão recorrido destoa da jurisprudência do Supremo Tribunal Federal, conforme se constata nos seguintes julgados:
+
+    DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRARDINÁRIO COM AGRAVO. PROFESSORA APOSENTADA POR INVALIDEZ. REVISÃO DE PROVENTOS. AUSÊNCIA DE REPERCUSSÃO GERAL E DE RELEVÂNCIA TEMÁTICA. INTERESSE SUBJETIVO DAS PARTES. 283, 279 E 356/STF. 1. Hipótese em que se discute a aplicação do redutor de cinco anos aos proventos de professora aposentada por invalidez. 2. A repercussão geral da matéria constitucional discutida no recurso extraordinário é um dos seus requisitos de admissibilidade (art. 102, § 3º, da CF, e art. 1.035, § 2º, do CPC). Exige-se que o recorrente demonstre a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos do processo (art. 1.035, § 1º, do CPC). A jurisprudência é firme no sentido de que não basta a simples descrição do instituto. Precedente. 3. A questão debatida nestes autos não apresenta repercussão geral, por (i) se limitar ao interesse subjetivo e particular das partes e (ii) não se enquadrar entre as mais relevantes que o Tribunal tem a decidir, ao menos neste momento, sem prejuízo de que o tema seja reavaliado no futuro. 4. Ainda que tivesse sido preenchido o requisito da repercussão geral, o recurso extraordinário não poderia ser conhecido, por não estarem presentes os demais pressupostos de admissibilidade Com efeito, resta evidente que o caso atrai a incidência das Súmulas 282, 356 e 279/STF. 5. A conclusão do Tribunal de origem não diverge da jurisprudência do Supremo Tribunal Federal no sentido de que o servidor faz jus a aposentar-se com proventos proporcionais ao seu tempo de serviço, devendo, na aposentadoria proporcional de professor público que exerça função exclusiva de magistério, observar-se, no cálculo dos proventos, o tempo exigido para a aposentadoria com proventos integrais da categoria. Precedentes. 6. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 7. Agravo interno a que se nega provimento (ARE 1.429.955 AgR/RJ, Rel. Min. Luís Roberto Barroso, Tribunal Pleno, DJe 10/7/2023 — grifei).
+
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STF. 1. O acórdão do Tribunal de origem revela-se em dissonância com a jurisprudência desta SUPREMA CORTE, que, para fins de cálculo do tempo necessário para a aposentadoria proporcional dos professores, adota como referencial o tempo exigido para sua aposentadoria com proventos integrais. 2. Agravo interno a que se nega provimento (RE 1.388.740 AgR/DF, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 11/11/2021).
+
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 29.3.2017. DIREITO PREVIDENCIÁRIO. PROFESSOR. APOSENTADORIA PROPORCIONAL. APOSENTADORIA ESPECIAL. CÁLCULO COM BASE EM TEMPO EXIGIDO PARA APOSENTADORIA COM PROVENTOS INTEGRAIS PARA PROFESSORES. 1. A aposentadoria proporcional de professores que tenham exercido com exclusividade a função do magistério deve ser calculada com base no tempo exigido para a aposentadoria com proventos integrais dos professores. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, CPC. Nos termos do art. 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo (ARE 1.014.902 AgR/SP, Rel. Min. Edson Fachin Segunda Turma, DJe 23/6/2017 — grifei).
+
+    Posto isso, dou provimento ao recurso extraordinário para reconhecer a contrariedade ao art. 40, § 5º, da Constituição Federal e, como corolário, reformar o acórdão impugnado para observar-se, no cálculo dos proventos, o tempo exigido para a aposentadoria com proventos integrais da categoria. Invertidos os honorários de sucumbência.
+
+    Publique-se.
+
+    Brasília, 24 de fevereiro de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
