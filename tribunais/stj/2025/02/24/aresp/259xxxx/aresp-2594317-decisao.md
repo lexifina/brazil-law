@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto por GUSTAVO CHIMINAZZO DE FARIA contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manejado em desfavor do acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado (e-STJ, fl. 377):
+RECURSOS DE APELAÇÃO/REEXAME NECESSÁRIO - AÇÃO DE COBRANÇA - MAGISTRADO - DESIGNAÇÃO PARA OFICIAR EM COMARCA DE ENTRÂNCIA SUPERIOR - DIFERENÇA DE VENCIMENTOS EM PERÍODO EM SUBSTITUIÇÃO - IMPOSSIBILIADE - CORREÇÃO MONETÁRIA - TR - DESCABIMENTO - TEMA 905 - RECURSOS DESPROVIDOS - SENTENÇA RATIFICADA.
+Pacificado é o entendimento das Cortes Superiores no sentido de que os juízes substitutos não fazem jus à diferença remuneratória, mesmo quando atuem em varas que inexistam juízes titulares, sendo a eles inaplicável o disposto no art. 124 da LOMAN.
+O STJ, no julgamento do REsp 1495146/MG, em sede de recursos repetitivos, decidiu que não é aplicável o art. 1º-F, da Lei n. 9.494/1997, com a redação dada pela Lei n. 11.960/2009, nas condenações contra a Fazenda Pública (Tema 905/STJ).
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 464-475).
+Nas razões recursais, o recorrente alegou violação aos arts. 22, § 2º, e 124 da Lei Complementar n. 35/1979 - LOMAN; 4º, 13, 117, XVII, da Lei n. 8.112/1990; e 11, 489, § 1º, IV e VI, 927, II e 1022, II, parágrafo único, II, do CPC/2015, sustentando negativa de prestação jurisdicional e que constitui em enriquecimento injustificado do Estado a negativa ao juiz substituto da percepção da diferença remuneratória e reflexos, decorrentes do exercício do ofício em instância superior.
+Asseverou que (e-STJ, fls. 509-510):
+ ..  ao manter o juiz substituto lotado em comarca de entrância superior, subtrai-se do magistrado vitalício, que esteja lotado em entrância inferior, o direito de promoção, e consequentemente, são suprimidas as verbas que lhe seriam devidas.
+Logo, a manutenção do juiz substituto em comarcas de entrâncias superior, sem a respectiva percepção da diferença remuneratória, resulta em serviço prestado de forma gratuita, conduta vedada pelo art. 4º, da Lei Federal nº 8.112/1990:
+Art. 4º. É proibida a prestação de serviços gratuitos, salvo os casos previstos em lei.
+Além disso, a conduta do Estado acarreta em desvio de função do juiz substituto, na medida em que a administração se exime de ocupar o cargo superior com o magistrado vitalício, que segundo o seu entendimento, faria jus a diferença remuneratória.
+Dessa forma, a administração viola as disposições do artigo 13, da Lei Federal nº 8.112/1990, que determina que as atribuições do servidor, incluindo-se deveres e direitos inerentes ao cargo ocupado, não podem ser alterados unilateralmente, e do art. 117, inciso XVII, Lei Federal nº 8.112/1990, que proíbe o servidor de exercer atribuições estranhas ao cargo que ocupa:
+ ..
+As violações são claras na medida em que o Estado subtrai do juiz substituto a diferença remuneratória que seria despendida com o juiz vitalício, embora o aloque em comarca de entrância superior e diversa à sua nomeação.
+Ademais, importa salientar que o STJ possui entendimento pacífico quanto a possibilidade de a aplicação subsidiária da Lei n. 8.112/1990, diante de eventual silêncio da Lei Orgânica da Magistratura Nacional - LOMAN, ainda que se trate de magistrado atuante na seara estadual, por força da isonomia garantida constitucionalmente.
+Contrarrazões às fls. 546-556 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 620-623).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+No tocante à alegada afronta aos arts. 489 e 1.022 do Código de Processo de 2015, sem razão o recorrente, uma vez que as questões deduzidas no processo foram resolvidas satisfatoriamente, não se identificando vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional
+Veja-se (e-STJ, fls. 379-380):
+As diferenças de remuneração, indenização para aquisição de obras técnicas, 13º salário, férias e auxílios moradia e transporte decorrente de designações para comarcas de segunda entrância e especial são devidas e encontram previsão legal, respectivamente, nos arts. 124 da LOMAN, 219 e 227, ambos do Código Judiciário do Estado de Mato Grosso, 22 da Lei Complementar n. 270/07 e 103, caput e § 6º da Lei Complementar n. 281/07 e 5º a 7º da Lei Complementar n. 242/2006.
+Por outro lado, a despeito das alegações do Autor/Apelante, pacificado é o entendimento das Cortes Superiores no sentido de que os juízes substitutos não fazem jus à diferença remuneratória, mesmo quando atu em em varas que inexistam juízes titulares, porquanto inerente a função, sendo a eles inaplicável o disposto no art. 124 da LOMAN.
+Assim, estando devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação aos referidos dispositivos da legislação processual.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AUXILIAR EM ADMINISTRAÇÃO DA FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA - FUB. ALEGADO DESVIO DE FUNÇÃO. SUPOSTO EXERCÍCIO DE CHEFIA DE ADMINISTRAÇÃO EM HOTEL DE TRÂNSITO. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA INEXISTÊNCIA DO CARGO DE CHEFIA NA UNIDADE, À ÉPOCA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 339/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+3. A pretensão autoral ainda encontra obstáculo na Súmula 339/STF:
+"Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia".
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.161.539/DF, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Quanto ao mérito, a demanda se refere à possibilidade, ou não, do pagamento da diferença de vencimentos a que se refere o art. 124 da Lei Complementar n. 35/1979 ao juiz substituto de entrância inferior designado a exercer seu mister em entrância superior.
+O Tribunal de origem, ao dirimir a controvérsia, assentou que, "a despeito das alegações do Autor/Apelante, pacificado é o entendimento das Cortes Superiores no sentido de que os juízes substitutos não fazem jus à diferença remuneratória, mesmo quando atuem em varas que inexistam juízes titulares, porquanto inerente a função, sendo a eles inaplicável o disposto no art. 124 da LOMAN" (e-STJ, fl. 380).
+Com efeito, esta Corte Superior possui entendimento de que o destinatário da norma inserida no art. 124 da LOMAN é o magistrado efetivo, e não o substituto, cuja função é, exatamente, substituir os titulares das unidades judiciárias.
+A esse respeito:
+RECURSO ESPECIAL. ADMINISTRATIVO. JUIZ SUBSTITUTO. DESIGNAÇÃO PARA OFICIAR EM COMARCA DE PRIMEIRA ENTRÂNCIA. DIFERENÇA DE VENCIMENTOS. IMPOSSIBILIDADE. ART. 124 DA LOMAN. INAPLICABILIDADE. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL.
+1. A função precípua do juiz substituto é exercer a substituição, nos termos da respectiva lei de organização judiciária, seja em que comarca for, independentemente do juízo respectivo possuir ou não juiz titular.
+2. A designação de um juiz substituto para exercer seu ofício jurisdicional perante uma determinada comarca decorre do normal desenvolvimento de suas atribuições, motivo pelo qual sua remuneração não deve sofrer qualquer acréscimo em decorrência dessa eventual designação.
+3. O disposto no art. 124 da Lei Orgânica da Magistratura Nacional não se aplica aos juízes substitutos, mas somente aos juízes titulares de entrância inferior convocados para oficiar/substituir em entrância superior.
+4. Recurso especial improvido.
+(REsp n. 964.858/PB, relator Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 02/9/2010, DJe de 04/10/2010)
+A título esclarecedor, vale transcrever o voto proferido pela Ministra relatora no julgado acima:
+A recorrente, na presente demanda, afirma que, nomeada no cargo de juíza substituta do Tribunal de Justiça do Estado da Paraíba, foi designada para exercer as atribuições de seu cargo em comarcas de primeira entrância, no período de fevereiro de 2000 a fevereiro de 2002.
+Afirma, outrossim, que, como nas referidas comarcas não havia nenhum juiz titular a elas vinculado, teria exercido todas as atribuições de juiz de primeira instância, tanto as jurisdicionais, como as administrativas, motivo pelo qual faria jus, no mencionado período, à complementação salarial relativa aos vencimentos do cargo de juiz de primeira entrância.
+Entretanto, tenho que a irresignação não merece prosperar.
+O art. 124 da LC 35/79, que embasa a pretensão formulada, assim dispõe: "Art. 124. O magistrado que for convocado para substituir, em primeira ou segunda instância, perceberá a diferença de vencimentos correspondentes ao cargo que passa a exercer, inclusive diárias e transporte, se for o caso."
+Ocorre, contudo, que o citado dispositivo legal é aplicável somente aos juízes que exercem titularidade de juízo ou comarca de determinada entrância, e que são designados/convocados para substituir em comarca de entrância superior, nos termos da respectiva lei de organização judiciária.
+Com efeito, é cediço que a função precípua do juiz substituto é exercer a substituição, nos termos da lei de organização judiciária, seja em que comarca for, independentemente do juízo respectivo possuir ou não juiz titular.
+Sendo assim, a designação de um juiz substituto para exercer seu ofício jurisdicional perante uma determinada comarca decorre do normal desenvolvimento de suas atribuições, motivo pelo qual sua remuneração não deve sofrer qualquer acréscimo em decorrência dessa eventual designação.
+Nesse contexto, entendo que o disposto no art. 124 da Lei Orgânica da Magistratura Nacional não se aplica aos juízes substitutos, mas somente aos juízes titulares de entrância inferior convocados para oficiar/substituir em entrância superior.
+Confira-se, a propósito, o seguinte precedente do Egrégio Supremo Tribunal Federal:
+"JUIZES SUBSTITUTOS. SUBSTITUIÇÃO. ART. 124 DA LOMAN. DIFERENÇA DE VENCIMENTOS: NÃO CABIMENTO. ORGANIZAÇAO JUDICIÁRIA DE SÃO PAULO. RAZÃO DE SEUS CARGOS A FUNÇÃO DE SUBSTITUIR, OS JUIZES SUBSTITUTOS, NÃO TITULARES  não  FAZEM JUS A DIFERENÇA DE VENCIMENTOS, PELO EXERCÍCIO DE SUBSTITUIÇÃO, NA FORMA PREVISTA NO ART. 124 DA LOMAN. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO." (RE 110.357-4/SP, Rel. Ministro RAFAEL MAYER, PRIMEIRA TURMA, DJ de 10/10/1986)
+Diante do exposto, nego provimento ao recurso especial.
+Na mesma linha de entendimento:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. JUIZ SUBSTITUTO DE PRIMEIRA ENTRÂNCIA. DESIGNAÇÃO PARA OFICIAR EM COMARCA DE ENTRÂNCIA SUPERIOR. DIFERENÇA DE VENCIMENTOS. IMPOSSIBILIDADE. ART. 124 DA LOMAN. INAPLICABILIDADE.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado pelos ora recorridos contra ato do Desembargador Presidente do Tribunal de Justiça do Estado de Pernambuco, que determinou a suspensão do pagamento da verba relativa à diferença de entrância, ao argumento de que a substituição é ínsita às funções de juiz substituto.
+2. Em suma, cinge-se a controvérsia a decidir se a diferença de vencimentos a que se refere o art. 124 da Lei Complementar 35/1979 é devida ao juiz substituto de entrância inferior designado a exercer seu mister em entrância superior.
+3. A jurisprudência do STJ entende que a função precípua do juiz substituto é exercer a substituição, nos termos da respectiva lei de organização judiciária, seja em que comarca for, independentemente de o juízo respectivo possuir ou não juiz titular.
+4. A substituição é pressuposto inerente ao cargo de juiz substituto e, portanto, quando este substitui magistrado titular, não faz jus a diferenças de vencimentos.
+5. O disposto no art. 124 da Lei Orgânica da Magistratura Nacional não se aplica aos juízes substitutos, mas somente aos juízes titulares de entrância inferior convocados para oficiar/substituir em entrância superior. Precedentes do STJ e da Suprema Corte: REsp 964.858/PB, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 04/10/2010; REsp 839.317/PB, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 27/09/2010; RE 110357, Relator(a): Min. Rafael Mayer, Primeira Turma, DJ 10-10-1986; MS 28343, Relator(a): Min. Marco Aurélio, Primeira Turma, DJe 16-10-2014.
+6. Recurso Especial provido.
+(REsp n. 1606734 / PE , relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/8/2016, DJe de 09/9/2016)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JUIZ SUBSTITUTO. DESIGNAÇÃO PARA OFICIAR EM COMARCA DE PRIMEIRA ENTRÂNCIA. DIFERENÇA DE VENCIMENTOS. IMPOSSIBILIDADE. ART. 124 DA LOMAN. INAPLICABILIDADE. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
