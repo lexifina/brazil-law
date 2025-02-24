@@ -1,0 +1,9 @@
+DECISÃO
+Por meio das PETs n. 00562254/2021, 006118369/2021 e 00015492/2023, o reclamante informa que "até o presente momento não houve abertura de processo no TJDFT" (fl. 64), que "o processo está parado desde 2021, sem nenhum andamento" (fl. 64), requerendo, por tal razão, o desarquivamento e nova análise deste processo.
+É o breve relato do necessário.
+DECIDO.
+Verifica-se que, nos termos da criteriosa decisão de fls. 23-24, já transitada em julgado, a presente reclamação, ajuizada em 21/10/2020, não foi conhecida pelo reconhecimento de que compete ao Tribunal de Justiça conhecer e julgar, com fundamento no entendimento consolidado pela Corte Especial deste Tribunal, no julgamento da Questão de Ordem no AgRg na RCL n. 18.506/SP, segundo o qual: "caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes", e na Resolução STJ/GP, que dispõe caber ao STJ o julgamento das reclamações que lhe foram atribuídas anteriormente a sua publicação, ocorrida em 8/4/2016, sendo, assim, determinada a remessa dos autos ao Tribunal de Justiça do Distrito Federal e Territórios.
+Nesse contexto e tendo havido determinação de remessa dos autos ao TJDFT, descaracteriza-se o alegado descumprimento.
+Ante o exposto, indefiro os pedidos formulados nas PETs n. 00562254/2021, 006118369/2021 e 00015492/2023,.
+Publique-se. Intimem-se, depois, arquivem-se os autos .
+EMENTA
