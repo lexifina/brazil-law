@@ -1,0 +1,30 @@
+DECISÃO
+DARIO GUSATTI e JR AMBIENTAL LTDA interpõem recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 0126634-70.2019.8.21.7000.
+Em suas razões, a defesa aponta negativa de vigência aos arts. 1º, § 1º, do Decreto Federal n. 6.660/2008, 6º §§ 1º e 2º, da Lei n. 6.938/1981, 7º, I, do Decreto Federal n. 99.274/1990, 69-A da Lei n. 9.605/1998, 492 do CPC, c/c o art. 3º, do CPP, 2º, parágrafo único, do CP e 619 do CPP.
+Argumentam que não seria aplicável, na hipótese, a Lei n. 11.428/2006, quanto aos fatos I, II e V a XIII, pois as áreas referidas estariam na zona de exclusão prevista no Decreto Federal n. 6.660/2008 e não estavam localizadas em área de preservação permanente e nem em zona de reserva legal.
+Aduzem que, a despeito de, à época dos fatos, não haver a exigência de convênio entre o Município de Novo Barreiro e o Estado do Rio Grande do Sul, aquele seria competente para licenciar a aprovação de manejo e supressão de vegetação integrante do Bioma Mata Atlântica, por expressa permissão legal (Lei n. 6.938/1981).
+Alegam que o art. 69-A da Lei n. 9.605/1998 dispõe sobre a gestão de florestas públicas e, pois, não incidiria quanto aos fatos narrados nos tópicos V a XIII, na medida em que as respectivas licenças eram remanescentes de florestas que se encontravam em propriedade privada.
+Defendem a impossibilidade de impor a proibição prevista no art. 22, III e § 3º, da Lei de Crimes Ambientais, porquanto não teria sido formulado pedido nesse sentido pelo Ministério Público, na peça de acusação ou em memoriais.
+Quanto aos fatos descritos nos itens I e II, afirmam que, ainda que no momento do fato houvesse a limitação de 2 hectares a fim de fixar a competência do município para licenciar a lavra artesanal de basalto, atualmente o porte-limite é de 5 hectares, motivo pelo qual as condutas que são imputadas aos recorrentes não seriam mais ilícitas.
+Por fim, entendem ter havido negativa de prestação jurisdicional, tendo em vista a ausência de manifestação acerca das seguintes teses defensivas: "(i) violação ao artigo 6º, g, 1º e 2º, da Lei nº 9.638/81 e ao artigo 7º, I, do Decreto nº 99.274/90 (Seção 3, II.A), da (ii) contrariedade ao artigo 69-A e à negativa de vigência aos artigos 66 e 68, todos da Lei nº 9.605/98 (Seção 3, III.A), bem como (iii) à violação ao artigo 492 do Código Processual Civil e ao artigo 3º do Código Processual Penal" (fl. 2.519).
+Requerem o provimento do recurso especial, a fim de que seja anulado o acórdão proferido nos embargos de declaração, por negativa de prestação jurisdicional. Na sequência, buscam sua absolvição quanto aos fatos expostos nos itens I, II e V a XIII. Subsidiariamente, pleiteiam o afastamento da pena de proibição de a pessoa jurídica contratar com o Poder Público.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo não conhecimento da insurgência.
+Decido.
+De pronto, verifico que o recurso especial não comporta conhecimento, tendo em vista que a insurgência foi interposta após o prazo de 15 dias corridos.
+De acordo com a jurisprudência desta Corte Superior " a  oposição de embargos aclaratórios, quando intempestivos, protelatórios ou manifestamente incabíveis, não tem o condão de interromper o prazo para a interposição do recurso especial" (AgRg no AREsp n. 2.149.594/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe de 22/3/2023) e " a  oposição de embargos aclaratórios, quando intempestivos ou manifestamente incabíveis, não tem o condão de interromper o prazo para a interposição do recurso especial" (AgRg no AREsp n. 2.102.607/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/9/2022).
+Na mesma direção:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS POR INOVAÇÃO RECURSAL. ACLARATÓRIOS MANIFESTAMENTE INCABÍVEIS. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL. AGRAVO DESPROVIDO.
+1. Embargos de declaração que apresentam apenas inovação recursal de teses não devem ser conhecidos, pois a pretensão é manifestamente incabível.
+2. Consoante precedentes, embargos de declaração manifestamente incabíveis não interrompem o prazo para a interposição do recurso cabível, no caso, do recurso especial.
+3. A análise de ofício pelo julgador da tese inovada pela Defesa não é impositiva, pois decorre da percepção do julgador a respeito de eventual constrangimento ilegal, razão pela qual o uso dos embargos de declaração exclusivamente para tal fim não se legitima.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.828.896/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 21/3/2022, destaquei)
+Na espécie, verifico que a parte opôs embargos de declaração contra o acórdão proferido nas apelações criminais, que foram acolhidos em parte (fls. 2.431-2.440). Na sequência, a parte opôs novos aclaratórios, que não foram conhecidos pelo Tribunal, cujo acórdão foi assim sumariado (fl. 2.454, grifei):
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLAÇÃO. PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. AUSENTE QUAISQUER VÍCIOS DO ARTIGO 619, DO CPP.
+Os argumentos constantes nestes embargos tratam de inovação recursal, o que é vedado no ordenamento pátrio.
+Para fins de prequestionamento, exige-se a exposição fundamentada em que consistiu a suposta violação à legislação considerada desatendida, o que não ocorreu na espécie.
+EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+Assim, o termo inicial para a interposição do recurso era 13/12/2019 e o final, 28/1/2020 - considerada a suspensão do prazo certificada à fl. 2.442 -, porquanto a oposição dos segundos aclaratórios não interrompeu o prazo para aviar o especial. Todavia, o especial foi ajuizado apenas em 18/9/2020, é dizer, quase oito meses depois do término do prazo legal. Dessa forma, não há como conhecer do recurso.
+À vista do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
