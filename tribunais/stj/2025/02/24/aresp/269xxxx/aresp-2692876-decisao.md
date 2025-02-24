@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MUNICÍPIO DE BOA VISTA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Roraima, assim ementado (fl. 89):
+AGRAVO INTERNO - AÇÃO RESCISÓRIA - INDEFERIMENTO DA INICIAL - INEXISTÊNCIA DE MANIFESTA VIOLAÇÃO A NORMA JURÍDICA - IMPOSSIBILIDADE DE UTILIZAÇÃO DA AÇÃO RESCISÓRIA COMO SUCEDÂNEO RECURSAL - RECURSO DESPROVIDO.
+1. Conforme pacífica jurisprudência do STJ, "a ação rescisória fundamentada no art. 966, V, do NCPC só é admitida quando a interpretação dada pela decisão rescindenda seja de tal modo aberrante que viole o dispositivo legal em sua literalidade" (STJ, AgInt nos EDcl na AR n.º 6.616/ES, Relator: Ministro Moura Ribeiro, Segunda Seção, julgado em 29/11/2022, DJe de 1/12/2022).
+2. É vedada a utilização da ação rescisória como sucedâneo recursal, não sendo o "instrumento processual apto a corrigir eventual injustiça da decisão rescindenda, má interpretação dos fatos, reexaminar as provas ou complementá-las" (STJ, AR n.º 6.052/SP, Relator: Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 8/2/2023, DJe de 14/2/2023).
+3. Recurso desprovido.
+Em seu recurso especial de fls. 97-122, sustenta o recorrente violação aos artigos 1.021, § 3º, e 489, § 1º, ambos do Código de Processo Civil, tendo em vista que a Corte de origem, tão somente reiterou os fundamentos lançados na decisão monocrática atacada, deixando de enfrentar "os termos do último recurso até então aviado, não se manifestando especificamente acerca dos argumentos lançados capazes de infirmar o raciocínio disposto na decisão monocrática" (fl. 99).
+O Tribunal de origem não admitiu o recurso especial sob o fundamento de que, embora "o recorrente alegue ofensas aos arts. 489, § 1º e 1.021, § 3º, ambos do CPC, verifica-se que, na verdade, sua intenção é rediscutir a prova dos autos, providência vedada em sede de recurso especial, conforme disposto na Súmula 07 do STJ" (fl. 235).
+Em seu agravo, às fls. 244-261, a parte agravante afirma que não há incidência do óbice da Súmula 7 do STJ na espécie, uma vez que, "para a adequada análise da questão posta, basta que a Corte Cidadã aprecie se o Sodalício Local extraiu adequada exegese dos textos mencionados no apelo extremo".
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se na incidência do enunciado 7 da Súmula do STJ, em razão da contenda demandar reexame fático e probatório dos autos.
+Todavia, no seu agravo, a parte limitou-se a afirmar que "a apreciação jurídica que lhe deveria ter sido efetivamente atribuída (acórdão recorrido), consiste no necessário enfrentamento da matéria posta, a saber, o raciocínio respectivo à diferenciação entre violação a texto de lei e violação a norma jurídica" (fl. 251), argumentação essa que não refuta, adequada e suficientemente, o fundamento da decisão agravada. Logo, o fundamento da decisão agravada, à míngua de impugnação detalhada, específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial .
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
