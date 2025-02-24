@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL NÃO ATACADOS IDONEAMENTE. INCIDÊNCIA DA SÚMULA 182/STJ. SOBRESTAMENTO DO FEITO. IMPOSSIBILIDADE. JUÍZO DE ADMINISSIBILIDADE NÃO SUPERADO. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, com fundamento na Súmula 182/STJ.
+2. A decisão agravada inadmitiu o recurso especial por ausência de impugnação específica quanto à Súmula 83/STJ.
+3. A parte agravante alegou que impugnou de forma específica todas as conclusões do Tribunal de origem e requereu o sobrestamento do feito em razão do reconhecimento da repercussão geral (Tema 1.290 do STF).
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o agravo em recurso especial pode ser conhecido quando não há impugnação específica de todos os fundamentos da decisão recorrida, especialmente em relação à Súmula 83/STJ.
+5. Outra questão é saber se é necessário o sobrestamento do feito em razão do reconhecimento da repercussão geral pelo STF, quando o recurso não ultrapassa o juízo de admissibilidade.
+III. RAZÕES DE DECIDIR
+6. A ausência de impugnação específica de todos os fundamentos da decisão recorrida, conforme exigido pelo art. 932, III, do CPC e pela Súmula 182/STJ, impede o conhecimento do agravo em recurso especial.
+7. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" " (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+8. O sobrestamento do feito não é necessário quando o recurso não ultrapassa o juízo de admissibilidade, independentemente do reconhecimento da repercussão geral pelo STF.
+IV. Agravo interno desprovido .
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO DO BRASIL SA contra decisão da egrégia Presidência desta Corte que não conheceu do agravo em recurso especial com fundamento na Súmula 182/STJ (e-STJ fls. 236-237).
+Nas razões do presente agravo interno (e-STJ, fls. 243-252), o recorrente sustenta, em preliminar, a necessidade de sobrestamento do feito em razão do reconhecimento da repercussão geral que determinou a suspensão em todo o território nacional de demandas relacionadas ao mérito do presente recurso (Tema 1.290 do STF).
+Alega, em síntese, que impugnou de forma específica todas as conclusões trazidas pelo Tribunal de origem, não incorrendo, no caso, em óbice da Súmula n. 182/STJ.
+Ressalta que a partir da análise das razões recursais é perfeitamente possível a exata compreensão da controvérsia, sendo que o agravante impugnou a aplicabilidade da Súmula n. 83/STJ.
+Requer a reconsideração da decisão ou, alternativamente, a submissão do caso ao julgamento pela Turma.
+A parte apresentou a impugnação ao recurso (e-STJ, fls. 264-267).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL NÃO ATACADOS IDONEAMENTE. INCIDÊNCIA DA SÚMULA 182/STJ. SOBRESTAMENTO DO FEITO. IMPOSSIBILIDADE. JUÍZO DE ADMINISSIBILIDADE NÃO SUPERADO. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, com fundamento na Súmula 182/STJ.
+2. A decisão agravada inadmitiu o recurso especial por ausência de impugnação específica quanto à Súmula 83/STJ.
+3. A parte agravante alegou que impugnou de forma específica todas as conclusões do Tribunal de origem e requereu o sobrestamento do feito em razão do reconhecimento da repercussão geral (Tema 1.290 do STF).
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o agravo em recurso especial pode ser conhecido quando não há impugnação específica de todos os fundamentos da decisão recorrida, especialmente em relação à Súmula 83/STJ.
+5. Outra questão é saber se é necessário o sobrestamento do feito em razão do reconhecimento da repercussão geral pelo STF, quando o recurso não ultrapassa o juízo de admissibilidade.
+III. RAZÕES DE DECIDIR
+6. A ausência de impugnação específica de todos os fundamentos da decisão recorrida, conforme exigido pelo art. 932, III, do CPC e pela Súmula 182/STJ, impede o conhecimento do agravo em recurso especial.
+7. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" " (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+8. O sobrestamento do feito não é necessário quando o recurso não ultrapassa o juízo de admissibilidade, independentemente do reconhecimento da repercussão geral pelo STF.
+IV. Agravo interno desprovido .
+VOTO
+O inconformismo do agravante não merece prosperar, uma vez que não foi trazido nenhum elemento apto a infirmar a conclusão adotada pela decisão recorrida.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 236-237):
+Cuida-se de agravo em recurso especial apresentado por BANCO DO BRASIL SA contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ, ausência de prequestionamento e Súmula 284/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Verifica-se que a decisão agravada deixou de conhecer do agravo em recurso especial em razão da ausência de impugnação específica quanto à Súmula 83 do STJ, fundamento utilizado pelo Tribunal de origem para não admitir o apelo nobre, juntamente com a ausência de prequestionamento e aplicação da Súmula n. 284 do STJ.
+Por tal razão, foi aplicada a regra contida no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, ocasionando o não conhecimento do agravo em recurso especial, por ausência de impugnação específica (incidência da Súmula 182/STJ).
+Reitera-se que a simples repetição das razões de mérito do recurso especial não supre a exigência de impugnação concreta e pormenorizada, como exige o princípio da dialeticidade recursal.
+De fato, o agravante não infirmou, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial.
+Entende este Superior Tribunal de Justiça que " a  adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" " (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DO JUÍZO NEGATIVO DE ADMISSIBILIDADE RECURSAL QUE APLICOU A SÚMULA Nº 83 DO STJ. ISSQN. ALÍQUOTA FIXA. MANDADO DE SEGURANÇA. NATUREZA EMPRESARIAL DA SOCIEDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. PRECEDENTES.
+1. Da análise das razões do agravo em recurso especial, verifica-se que a agravante não se desincumbiu do ônus de demonstrar, através de precedentes atuais do STJ, ou da realização de distinguishing, que a jurisprudência desta Corte não estaria no sentido do acórdão recorrido, ou de que os precedentes citados seriam inaplicáveis à hipótese.
+2. Não houve a impugnação adequada do fundamento que negou admissibilidade ao recurso pelo óbice da Súmula nº 83 desta Corte, na forma exigida por esta Corte, o que impossibilitou o conhecimento do agravo, haja vista a incidência do art. 932, III, do CPC/2015 e da Súmula nº 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Ainda que assim não fosse, a pretensão recursal de reconhecimento de direito líquido e certo ao recolhimento de ISSQN por alíquota fixa foi afastada na origem ao argumento de que "a análise conjunta das cláusulas contratuais da Apelante/Impetrante aponta para a sua natureza empresarial, fator determinante ao não reconhecimento do direito ao recolhimento do ISSQN em alíquota fixa. Anote-se ainda, por oportuno, que incumbe à parte impetrante, em sede de mandado de segurança, apresentar prova pré-constituída do seu direito, porquanto inadmissível a dilação probatória" (fls. 232 e-STJ).
+4. Nesse sentido, não cabe ao STJ, em sede de recurso especial, sobretudo em autos de mandado de segurança, que pressupõe a existência de prova pré-constituída do direito alegado, infirmar as conclusões adotadas na origem sobre a natureza empresarial da sociedade impetrante, haja vista a incidência do óbice da Súmula nº 7 desta Corte. A propósito: AgInt no AREsp 2.163.658/SP, Rel. Min. Gurgel De Faria, Primeira Turma, DJe 12/12/2022; AgInt nos EDcl no AREsp 1.608.596/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 01/03/2021.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.224.060/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ademais, no tocante ao sobrestamento do feito em razão do reconhecimento da repercussão geral com determinação de suspensão de todos os processos que tramitem da matéria em todo território nacional (Tema 1.290 do STF), o pedido não pode ser acolhido, pois este Tribunal vem decidindo que "se o recurso não ultrapassa o juízo de admissibilidade, não é necessário sobrestar o processo. Isso porque o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado" (EDcl no AgInt no AREsp n. 2.445.024/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/6/2024, DJe de 19/6/2024.).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
