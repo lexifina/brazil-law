@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se embargos de divergência opostos por VALERIA MALTA SEGURADO contra acórdão embargado, proferido pela Terceira Turma do STJ, no julgamento de seu agravo interno.
+Embargos de divergência interpostos em: 28/1/2025.
+Concluso ao gabinete em: 29/1/2025.
+Ação: Dissolução parcial de sociedade ajuizada pela agravante em face de Carlos Augusto de Oliveira Bastos.
+Recurso especial: alega violação dos arts. 3º; 369; 371; 373, II; 397; 489, IV; 726 e 727, todos do CPC; 167, § 1º, II; 168; 1.004; 1.030; 1.031, § 1º; 1.052, § 1º, e 1.058, todos do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta, em síntese, que o Tribunal de origem "acabou por incorrer, na aplicação equivocada do ônus probatório, por impor a aplicabilidade de prova diabólica, já que sobre o fato negativo, e sobre o espec da melhor doutrina, sobre o fato afirmativo negativo, o ônus recai contra quem se alega" (fl. 942).
+Afirma, ainda, que se mostra "evidente a existência comprovada de atos praticados pelo reclamado de modo a locupletar-se e utilizar-se indevidamente de recursos financeiros próprios da empresa para benefício próprio, com a movimentação estranha de recursos empresariais" (fl. 953), o que justificaria a quebra de confiança entre as partes.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, em razão do afastamento da alegada violação dos arts. 489 e 1.022, ambos do CPC, bem como da incidência da Súmula 7 do STJ e da prejudicialidade do dissídio jurisprudencial.
+Acórdão da Terceira Turma do STJ: negou provimento ao agravo interno interposto pela embargante, nos termos da seguinte ementa (fl. 1.076):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE EMPRESÁRIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de Dissolução parcial de sociedade empresária.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno não provido.
+Embargos de divergência: aponta a existência de dissídio jurisprudencial entre o acórdão embargado e acórdãos proferidos pelas 2ª, 4ª e 6ª Turmas do STJ, sob o argumento de que "a indicação equivocada de alínea constitucional, quando não há desenvolvimento de tese relacionada a essa alínea, configura mero erro material sanável, e que tal erro não obsta o conhecimento do recurso especial, desde que a argumentação recursal esteja direcionada à violação de dispositivo de lei federal" (fl. 1.093).
+É O RELATÓRIO. DECIDE-SE.
+De acordo com o art. 1.043, § 2º, do CPC, é certo que os embargos de divergência podem veicular questão de direito material ou de direito processual.
+Contudo, cuidando-se de questão de direito processual, o que se admite no âmbito dos embargos de divergência é a resolução de dissenso interno do Superior Tribunal de Justiça acerca da interpretação de norma processual em sua moldura abstrata, sendo incabível questionar, nessa seara, a aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial à hipótese concreta dos autos.
+Nesse sentido: AgInt nos EREsp 1.637.880/SP, Corte Especial, DJe 3/8/2018; AgInt nos EAREsp 955.088/RS, Corte Especial, DJe 2/5/2018; AgInt nos EDcl nos EAREsp 1.406.323/SP, Segunda Seção, DJe 17/9/2020.
+Sob esse enfoque, "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial" (AgInt nos EAREsp 1.581.988/BA, Corte Especial, DJe 15/10/2021).
+Assim, consoante a jurisprudência desta Corte, "não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1.043, I e III do CPC/2015" (AgInt nos EAREsp 1.950.564/MS, Corte Especial, DJe 16/6/2023; AgInt nos EAREsp 1.746.628/SP, Corte Especial, DJe 20/4/2022).
+No particular, o acórdão embargado proferido pela Terceira Turma decidiu pelo não provimento do agravo interno, diante do afastamento da alegada violação dos arts. 489 e 1.022, ambos do CPC, bem como da incidência da Súmula 7 do STJ e da prejudicialidade do dissídio jurisprudencial, mantendo, portanto, o não provimento do recurso especial.
+Desse modo, os presentes embargos não merecem ser admitidos, incidindo, no caso, a Súmula 315/STJ.
+Além disso, entre os acórdãos confrontados, não há o necessário cotejo analítico, nem a comprovação da similitude fática e, conforme a jurisprudência desta Corte, "a admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-jurídica entre o acórdão embargado e o acórdão paradigma" (AgInt nos EAREsp 1.950.564/MS, Corte Especial, DJe 16/6/2023; AgInt nos EREsp 2.088.890/RN, Segunda Seção, DJe 7/10/2024).
+Portanto, os embargos de divergência devem ser indeferidos liminarmente.
+Forte nessas razões, com fundamento nos arts. 932, III, do CPC e 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 2% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE DECIDIU PELO NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. COTEJO ANALÍTICO. AUSÊNCIA. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+2. Não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1.043, I e III do CPC/2015. Precedentes.
+3. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-jurídica entre o acórdão embargado e o acórdão paradigma.
+4. Embargos de divergência indeferidos liminarmente.
