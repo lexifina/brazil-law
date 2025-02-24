@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n. 7 do STJ).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NOTRE DAME INTERMEDICA SAUDE S.A. (NOTRE DAME) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado, em virtude da ausência de impugnação ao óbice da Súmula n. 7 do STJ.
+Nas razões do presente inconformismo, NOTRE DAME defendeu que (i) em tópico específico foi demostrado que o Recurso não se baseia no reexame fático-probatório, não sendo aplicável ao caso a Súmula 7 do STJ; e (ii) a tese acerca da inaplicabilidade da Súmula 7 foi arguida no próprio apelo especial, demonstrado a inexistência de afronta à Súmula 7 desta Corte Superior, sendo que o que se pretende através do presente recurso não é a reanálise das provas ou dos fatos (sic., e-STJ, fls. 187/201).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n. 7 do STJ).
+2. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas.
+No caso, o apelo nobre não foi admitido pelo TJSP por (i) incidência das Súmulas nºs 7 do STJ e 284 do STF; e (ii) falta de demonstração do dissídio (e-STJ, fls. 144/146).
+Entretanto, verifica-se, da leitura das razões recursais, que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois NOTRE DAME não infirmou seus esteios, na medida em que não refutou de forma arrazoada o óbice pela incidência da Súmula n. 7 do STJ ao caso.
+Em resumo, no seu agravo em recurso especial, NOTRE DAME se limitou a afirmar tão somente que (1) a discussão lançada se trata exclusivamente de matéria de direito, consistente na contrariedade de lei federal e na disparidade de entendimentos adotados pelos tribunais, não há que se falar em necessidade de reapreciação de provas, nem ao menos interpretação contratual; (2) a referida divergência entre a interpretação aos dispositivos de lei dado pelo tribunal de origem e os demais tribunais é patente, sendo dever constitucionalmente estabelecido ao E. Superior Tribunal de Justiça a tarefa de estabilizá-la; e (3) não se verifica, no presente recurso, qualquer hipótese de incidência da súmula 7 deste E. Superior Tribunal de Justiça, que impedem a interposição de recurso especial para interpretação de cláusula contratual e reexame de provas (sic., e-STJ, fls. 149/163), não apresentando argumentos aptos para infirmar especificamente o suprarreferido óbice.
+Na espécie, como se sabe, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula n. 7 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que não foi feito.
+No caso, o acórdão recorrido consignou expressamente que
+ ..  Discute-se o cumprimento da obrigação da ré, consistente em fornecimento de laudo médico, cujo título judicial transitado em julgado assim dispôs:
+"AÇÃO COMINATÓRIA. Plano de saúde - Autor, portador de câncer, que ingressou com a ação para obter, da parte da ré, com quem realiza tratamento, laudo médico necessário à instrução de requerimento de benefício de seguro, na modalidade invalidez por doença. Sentença de procedência que determinou o fornecimento de laudo médico, detalhando informações acerca da doença que acometeu o autor, eventual invalidez e outras informações, sob pena de multa Irresignação da ré. Não acolhimento. Hipótese em que cumpre ao médico que trata do paciente a prestação de informações sobre seu estado de saúde, seu tratamento e eventual invalidez. Direito de informação assegurado pelo Código de Defesa do Consumidor. Inexistência de obrigatoriedade de intervenção de médico do quadro do INSS, não se cuidando de plano de previdência social, mas de aviso de sinistro destinado à seguradora empresarial Recurso adesivo do autor visando à majoração dos honorários sucumbenciais que não se sustenta, cuidando-se de demanda sem maior complexidade. Recursos desprovidos (Ap nº 1015430-94.2022 Rel. Des. Marcus Vinícius Rios Gonçalves j. Em 31/07/2023 6ª Câm. De Dir. Priv.).
+E não há que se falar em cumprimento da obrigação, pois o texto printado pela ré às fls.09 é trecho do documento juntado às fls. 94/95 dos autos principais, que acompanhou a contestação, não tendo sido emitido nos termos do título judicial que detalhou os parâmetros do documento a ser providenciado, a saber: que a ré "forneça laudo médico com as seguintes informações: natureza da doença, o grau de invalidez, com data de diagnósticos, exames e tratamentos realizados, as condições clínicas atuais do autor e esclarecendo as suas limitações físicas, devendo ser informado se o autor perdeu a sua capacidade autônoma e necessita de terceiros para realizar as suas atividades do dia a dia" (fls. 134 dos autos do processo principal).
+De tal sorte, ausente prova idônea do cumprimento da obrigação, é mesmo devida a penalidade, tal como definido pelo magistrado singular.
+Com efeito, o Código de processo Civil, em seu artigo 537, caput, prevê a possibilidade de fixação de multa em ações de obrigação de fazer ou não fazer, exigindo que seja compatível com a obrigação e se determine prazo razoável para o cumprimento da determinação.
+Veja-se a redação do mencionado dispositivo legal:
+"A multa independe de requerimento da parte e poderá ser aplicada na fase de conhecimento, em tutela provisória ou na sentença, ou na fase de execução, desde que seja suficiente e compatível com a obrigação e que se determine prazo razoável para cumprimento do preceito".
+O Código de Processo Civil, em adição, especifica a possibilidade de o juiz, de ofício ou a requerimento, alterar o valor fixado para adequação às circunstâncias fáticas postas sob análise, caso verifique que a astreinte se tornou insuficiente ou excessiva (artigo 537, § 1º, I).
+Ora, importante salientar que a sanção pecuniária tende a atuar como mecanismo inibitório indeclinável para o caso de resistência, sob os mais multifacetados subterfúgios, ao cumprimento das decisões judiciais.
+Desse modo, a astreinte tem necessariamente de ser arbitrada em valores a salvo da avareza, contudo sem serem astronômicos, sob pena de não se extrair dela os efeitos almejados.
+É certo que a multa não pode se tornar fonte de enriquecimento de quem a pede, mas deve ser suficiente para retrair práticas reiteradas de quem realiza a conduta a ser punida, já que é visada a efetividade da determinação judicial.
+ ..
+Além disso, a obrigação objeto deste agravo de instrumento trata da saúde da parte autora beneficiária do plano de saúde.
+No caso, considerando o longo prazo de descumprimento da ordem (ausente comprovação de satisfação da obrigação até este julgamento, tendo sido o acórdão que confirmou a procedência da ação julgado em 31/07/2023), tenho que o valor da multa arbitrado no teto de R$ 15.000,00 deve ser mantido, vez que bem observa os parâmetros de proporcionalidade e razoabilidade e as circunstâncias do caso concreto.
+Saliento que a multa deve ser suficiente para retrair práticas reiteradas de quem pratica a conduta a ser punida, já que o que se busca é a efetividade da determinação judicial, motivo pelo qual ela deve ser mantida.
+Ante o exposto, por meu voto, nego provimento ao recurso (e-STJ, fls. 74/80 - sem destaques no original).
+Desse modo, consoante já ressaltado no julgado agravado, tendo NOTRE DAME partido de premissas que desafiam aquelas assentadas pelo acórdão recorrido, não se vislumbra, das razões recursais apresentadas, nenhuma questão federal a ser dirimida nesta Corte Superior.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do CPC.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+Por conseguinte, observa-se que o agravo em recurso especial não impugnou adequadamente a barreira anteriormente mencionada, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Com efeito, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, devendo ser mantida a decisão agravada.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO INTERNO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC (artigo 544, § 4º, I, do CPC/1973).
+2. Agravo interno improvido.
+(AgInt no AREsp 878.395/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 22/9/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 881.656/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 6/9/2016 - sem destaque no original)
+Nesse contexto, como NOTRE DAME não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, e 1.026, § 2º, ambos do CPC).
