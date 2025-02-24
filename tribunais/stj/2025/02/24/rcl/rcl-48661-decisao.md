@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada por ADENITO FRANCISCO MARIANO JÚNIOR, contra decisão monocrática proferida nos autos da Medida Cautelar n. 5019787-64.2024.8.09.0000, em trâmite no Tribunal de Justiça do Estado de Goiás, sob a alegação de descumprimento da decisão liminar proferida no HC n. 943.946/GO, de minha relatoria.
+Em suas razões, o reclamante aduz que, no HC n. 943.946/GO, de minha relatoria, foi deferido o pedido liminar a fim de sobrestar o Inquérito Judicial n. 5771723-24.2023.8.09.0000, em curso no Tribunal de Justiça do Estado de Goiás. Afirma, ainda, que o Desembargador Relator do Inquérito Judicial n. 6142372-04.2024.8.09.0000 e da Medida Cautelar n. 5019787-64.2024.8.09.0000 deferiu pedido de compartilhamento de provas formulado pelo Ministério Público do Estado de Goiás a fim de que instruíssem o Inquérito Judicial n. 5771723-24.2023.8.09.0000.
+Sustenta que a mencionada decisão, ao deferir o compartilhamento de provas com o inquérito judicial sobrestado, teria descumprido determinação do Superior Tribunal de Justiça. Por fim, requer, liminarmente, o sobrestamento do Inquérito Judicial n. 6142372-04.2024.8.09.0000, até o julgamento do mérito do HC n. 943.946/GO. No mérito, pede a nulidade de todos os atos que tenham sido praticados sem observância da decisão proferida no habeas corpus mencionado (fls. 2-20).
+É o relatório. DECIDO.
+Da análise dos autos, verifico que a pretensão do requerente, consistente em suspender o trâmite do Inquérito Judicial n. 6142372-04.2024.8.09.0000, não guarda qualquer relação com o que foi estabelecido na decisão proferida no HC n. 943.946/GO, de minha relatoria.
+Isso porque, na mencionada decisão, deferi pedido liminar tão somente para sobrestar o trâmite de procedimento diverso, qual seja, o Inquérito Judicial n. 5771723-24.2023.8.09.0000. Ademais, não houve qualquer determinação que impedisse eventual compartilhamento de provas entre os procedimentos investigatórios correlatos.
+Ante o exposto, indefiro liminarmente a reclamação.
+Publique-se. Intimem-se.
+EMENTA
