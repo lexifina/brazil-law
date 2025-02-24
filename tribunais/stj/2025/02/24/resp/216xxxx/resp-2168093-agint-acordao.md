@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO EM FACE DE MUNICÍPIO. VIOLAÇÃO AO ART. 1.022, II, DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 283/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, da Súmula n. 283/STF.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pelo MUNICIPIO DE RIO DE JANEIRO contra a decisão que conheceu em parte do seu recurso especial e, nessa extensão, negou-lhe provimento, assim fundamentada: ausência de omissão no julgado de origem; e incidência da Súmula 283/STF.
+Sustenta a parte agravante, em síntese, que estão presentes todos os requisitos para o conhecimento e provimento do Recurso Especial.
+Ao final, requer o provimento do recurso, a fim de que seja dado total provimento ao seu recurso especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 239/241e.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO EM FACE DE MUNICÍPIO. VIOLAÇÃO AO ART. 1.022, II, DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 283/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, da Súmula n. 283/STF.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Não assiste razão à parte agravante.
+O Recorrente sustenta a existência de omissões no acórdão recorrido não supridas no julgamento dos embargos de declaração, porquanto deixou de se pronunciar a respeito da aplicação do art. 516, I, do CPC, considerando a parte final do art. 43, também do CPC, afastando-se a regra da "perpetuatio jurisdicionis".
+Ao prolatar o acórdão recorrido, o tribunal de origem enfrentou a controvérsia apresentada nos seguintes termos (fls. 66/72e):
+Insurge-se o agravante contra decisão que declinou a competência para uma das varas de fazenda pública, em decorrência da inclusão do Município do Rio de Janeiro no polo passivo do cumprimento de sentença.
+O artigo 43 do Código de Processo Civil informa que "determina-se a competência no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta."
+Essa disposição traz o que a doutrina convencionou chamar de perpetuação da competência ou perpetuatio jurisdicionis, que visa a resguardar a prorrogação da competência da ação no momento em que a demanda é proposta.
+Nas disposições gerais do título destinado ao cumprimento de sentença, o CPC determina que o cumprimento da sentença efetuar-se-á perante o juízo que decidiu a causa no primeiro grau de jurisdição, na forma do artigo 516, inciso II.
+Verifica-se, assim, que agiu com incorreção o juízo da 8ª Vara Cível da Comarca da Capital, uma vez que, após transitada em julgado a fase de conhecimento, ainda que tenha havido a inclusão do Município do Rio de Janeiro no polo passivo, deve o cumprimento ocorrer no juízo em que foi decidida a demanda, na linha do que decidiu o Superior Tribunal de Justiça e do que vem decidindo este Tribunal.
+ ..
+É o que basta para dar provimento ao recurso, cabendo ressaltar que a simplicidade da questão posta em exame dispensa fundamentação substanciosa.
+À conta de tais considerações, o voto é no sentido de dar provimento ao recurso, determinando que o processo continue em trâmite na 8ª Vara Cível da Comarca da Capital. (Destaques meus)
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Com efeito, haverá contrariedade ao art. 1.022 do Código de Processo Civil quando a omissão disser respeito à fundamentação exposta, e não quando os argumentos invocados não restarem estampados no julgado, como pretende a parte Recorrente.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a dispensa ao julgador de rebater, um a um, os argumentos trazidos pelas partes (v.g. Corte Especial, EDcl nos EDcl nos EREsp 1.284.814/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.06.2014; 1ª Turma, EDcl nos EDcl no AREsp 615.690/SP, Rel. Min. Sérgio Kukina, DJe de 20.02.2015; e 2ª Turma, EDcl no REsp 1.365.736/PE, Rel. Min. Humberto Martins, DJe de 21.11.2014).
+E depreende-se da leitura do acórdão recorrido que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+No mais, como já consignado, o tribunal de origem concluiu que (fls. 66/72e, destaquei):
+ ..  após transitada em julgado a fase de conhecimento, ainda que tenha havido a inclusão do Município do Rio de Janeiro no polo passivo, deve o cumprimento ocorrer no juízo em que foi decidida a demanda, na linha do que decidiu o Superior Tribunal de Justiça e do que vem decidindo este Tribunal.
+ ..
+Há, inclusive, decisão do Superior Tribunal de Justiça sobre idêntica matéria nesse mesmo sentido:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. JUÍZO QUE DECIDIU A CAUSA. COMPETÊNCIA ABSOLUTA. MUNICÍPIO. RESPONSABILIDADE SUBSIDIÁRIA. ACÓRDÃO COMBATIDO. FUNDAMENTOS AUTÔNOMOS. IMPUGNAÇÃO. AUSÊNCIA. 1. A orientação jurisprudencial prevalecente no âmbito desta Corte, ainda sob a égide do CPC/1973, é de que o cumprimento da sentença efetuar-se-á no juízo que decidiu a causa no primeiro grau de jurisdição, cuja competência funcional não pode ser questionada após o trânsito em julgado da fase de conhecimento, sob pena de ofensa aos princípios da segurança jurídica e da coisa julgada. 2. Hipótese em que, nos autos de cumprimento de sentença condenatória de concessionária de serviço público de transporte, em cujo bojo houve a inclusão do Município, dada a responsabilidade subsidiária do ente federativo como poder concedente, o Tribunal local afastou a alegação de incompetência absoluta do juízo cível, com espeque no art. 516, II, do CPC/2015 e mediante o prestígio ao entendimento jurisprudencial acima citado (Súmula 83 do STJ). 3. Existindo fundamentos suficientes para a manutenção do aresto recorrido, não impugnados nas razões do recurso especial, incide na espécie, por analogia, a Súmula 283 do STF, a qual dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles". 4. Agravo interno desprovido.
+(AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.089.125 - RJ (2022/0074912-7 - Relator Min. Gurgel de Faria, julgamento em 14/03/2023)
+Nesse aspecto, observo que o Recorrente não colacionou julgados, do Superior Tribunal de Justiça, divergentes daqueles apresentados pelo acórdão recorrido, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Não se conhece de recurso especial que não rebate fundamento autônomo e suficiente à manutenção do acórdão proferido, incidindo na espécie, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal (STF).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.946.896/SP, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 26.08.2024, DJe de 02.09.2024 - destaque meu).
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO. RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. INDEFERIMENTO DA PETIÇÃO INICIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283 DO STF. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. O parquet estadual se atém à questão da competência, sem refutar os dois argumentos que têm o condão de, por si sós, manter o teor decidido, porque afastam a materialidade (conforme assevera a Corte Estadual, a conduta imputada ao réu não apresenta indício de favorecimento da empresa) e o elemento anímico (nos termos decididos pelo Tribunal de origem, o autor da Ação não descreve conduta que potencialmente indicaria a presença de dolo dos acusados). Sendo assim, inafastável o Enunciado 283 da Súmula do STF (AgInt no REsp n. 2.005.884/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022).
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.094.865/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 22.08.2024 - destaque meu).
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Posto isso, NEGO PROVIMENTO ao agravo interno.
