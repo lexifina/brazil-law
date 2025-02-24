@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, acolher parcialmente os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. INDENIZAÇÃO. DIREITO DE IMAGEM. PRESCRIÇÃO. TERMO INICIAL. VERIFICAÇÃO. IMPOSSIBILIDADE. TEMA SUBMETIDO À SISTEMÁTICA DOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA AGUARDAR O JULGAMENTO DO TEMA N. 1.289 DO STJ. PARCIAL ACOLHIMENTO.
+1. Nos termos do art. 256-L do RISTJ, publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ, fundados em idêntica questão de direito, se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator.
+2. Em face da submissão do tema à sistemática dos recursos repetitivos, consideram-se nulas as decisões anteriores e determina-se o retorno dos autos à origem para que lá permaneçam sobrestados até julgamento definitivo do Tema n. 1.289 do STJ.
+3. Embargos de declaração parcialmente acolhidos para devolver os autos à origem.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ELECTRONIC ARTS NEDERLAND B.V. e outro (ELECTRONIC e outro) em face do não provimento de seu agravo interno, assim ementado.
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. USO INDEVIDO DA IMAGEM DE ATLETA EM JOGOS ELETRÔNICOS. ART. 1.022 DO NCPC. ART. 206, § 3º, V, DO CC/02. PRESCRIÇÃO. INOCORRÊNCIA. VIOLAÇÃO CONTINUADA. ATO ILÍCITO DEMONSTRADO. DEVER DE INDENIZAR CONFIGURADO. DANO MORAL CONFIGURADO. REFORMA. SÚMULA Nº 7 DO STJ. REVISÃO QUANTUM INDENIZATÓRIO. VEDAÇÃO. SÚMULA Nº 7 DO STJ. SUCUMBÊNCIA RECÍPROCA. AFASTAMENTO DA SÚMULA Nº 326 DO STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O termo inicial do prazo prescricional relativo ao dano provocado à imagem do indivíduo dá-se em cada publicação não autorizada, renovando-se, assim, o referido prazo na hipótese de um novo ato ilícito. Precedentes.
+3. A ofensa ao direito à imagem materializa-se com a sua mera utilização sem autorização, ainda que não tenha caráter vexatório ou que não viole a honra ou a intimidade da pessoa, e desde que o conteúdo exibido seja capaz de individualizar o ofendido.
+4. O valor total fixado para a indenização por danos morais, qual seja, R$ 60.000,00 (sessenta mil reais), não se mostra excessivo a justificar a excepcional intervenção desta Corte no presente feito, ante a incidência da Súmula nº 7 desta Corte.
+5."Segundo o entendimento consolidado desta Corte, na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca" (Súmula nº 326 do STJ)  AgInt no AREsp 1.644.368/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/8/2020, DJe 26/8/2020 .
+6. Agravo interno não provido. (e-STJ, fls. 2.805/2.806)
+Nos presentes embargos de declaração, ELECTRONIC e outro combatem a incidência da Súmula n. 83 do STJ, alegando (1) omissão, erro material e contradição quanto à aplicação da teoria actio nata e afirmando que em razão da afetação do tema em discussão, o recurso deve ser suspenso até que haja o julgamento definitivo da 2ª Seção (e-STJ, fl. 2.824).
+Impugnação interposta às, e-STJ, fls. 2.838/2.845.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. INDENIZAÇÃO. DIREITO DE IMAGEM. PRESCRIÇÃO. TERMO INICIAL. VERIFICAÇÃO. IMPOSSIBILIDADE. TEMA SUBMETIDO À SISTEMÁTICA DOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA AGUARDAR O JULGAMENTO DO TEMA N. 1.289 DO STJ. PARCIAL ACOLHIMENTO.
+1. Nos termos do art. 256-L do RISTJ, publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ, fundados em idêntica questão de direito, se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator.
+2. Em face da submissão do tema à sistemática dos recursos repetitivos, consideram-se nulas as decisões anteriores e determina-se o retorno dos autos à origem para que lá permaneçam sobrestados até julgamento definitivo do Tema n. 1.289 do STJ.
+3. Embargos de declaração parcialmente acolhidos para devolver os autos à origem.
+VOTO
+Da atenta análise dos autos, observa-se que o especial trouxe à discussão, entre outros argumentos, (1) violação do art. 206, § 3º, do CC, afirmando que prescrita a pretensão de indenização pelo uso indevido da imagem do jogador nos jogos da série FIFA SOCCER 2008 A 2014 e FIFA MANAGER edições 2008 a 2014 (e-STJ, fl. 2.132).
+Como se pode observar, no caso em análise, ELECTRONIC e outro ingressaram com recurso especial em que pretendida a análise de questão submetida a julgamento afetado à sistemática dos recursos repetitivos objetivando "definir, nas ações de indenização por danos morais, propostas por ex-jogadores de futebol, fundadas na utilização indevida de suas imagens: a competência, a prescrição, a ocorrência ou não de supressio e a configuração ou não de danos à imagem em decorrência da mera menção a desígnios representativos dos demandantes" (Recurso Especial n. 2.112.553/SP).
+Sendo assim, em respeito ao disposto nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem (art. 256-L do RISTJ: art. 256-L).
+Nessas condições, ACOLHO PARCIALMENTE os embargos de declaração para determinar a devolução dos autos à origem, com a respectiva baixa, para que lá permaneçam sobrestados até o julgamento definitivo do Tema n. 1.289 do STJ; e, após sua publicação, a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte, ou proceda-se ao juízo de retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
