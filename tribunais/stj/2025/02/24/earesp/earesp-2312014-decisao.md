@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por UNILANCE ADMINISTRADORA DE CONSÓRCIO LTDA. FALIDO (ou MASSA FALIDA DE UNILANCE ADM. DE CONSÓRCIOS S.C. LTDA.) contra o acórdão da Terceira Turma assim ementado (fl. 250):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. PROCESSO FÍSICO. COMPROVAÇÃO DA DATA DA POSTAGEM EM MOMENTO POSTERIOR.
+1. O novo CPC permite que se considere como protocolo o dia da postagem na agência dos correios. Todavia, a comprovação dessa postagem deve ocorrer quando da interposição do recurso, e não posteriormente, como pretende a parte. Portanto, nos termos do art. 1.029, § 3º, do CPC, se a parte recorrente não demonstra, no momento da interposição, que seu recurso foi manejado no prazo legal, não é possível a comprovação posterior. Precedentes.
+2. Ausência de comprovação da data da postagem na agência dos correios no momento da interposição do recurso especial. Recurso intempestivo. Agravo interno improvido.
+Aduz o embargante que há divergência com acórdão paradigma da Segunda Turma (AgInt no AgInt no RMS n. 56.554/PI) e da Quarta Turma (EDcl no AgInt no AREsp n. 1.159.127/PR) relativamente à tese de que a comprovação da data de postagem do recurso, remetido pelos correios, pode ser feita posteriormente, caso o Tribunal de origem não junte o envelope da correspondência aos autos.
+Pondera que a jurisprudência das Segunda e Quarta Turmas admite a comprovação posterior da data de postagem, considerando a data da postagem como a data de interposição do recurso e que a omissão do Tribunal de origem em registrar a data da postagem não pode prejudicar o recorrente.
+É o relatório. Decido.
+Inicialmente, cumpre salientar que, tendo a parte embargante colacionado paradigmas da mesma Seção e de Turma de Seção distinta, há superposição de competências, a justificar a cisão do julgamento dos embargos de divergência, nos termos do art. 266 do RISTJ, com a primazia da Corte Especial, por ser o colegiado mais amplo.
+Passo, assim, ao exame da divergência suscitada com o acórdão paradigma oriundo da Segunda Turma (AgInt no AgInt no RMS n. 56.554/PI).
+Os embargos não reúnem condições de processamento.
+O STJ consolidou entendimento quanto à impossibilidade de se utilizar como paradigma no âmbito dos embargos de divergência acórdão proferido em ações que têm natureza de garantia constitucional, como é o caso do recurso ordinário, em mandado de segurança utilizado pela embargante.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDICAÇÃO DE ARESTO PROFERIDO EM SEDE DE RMS. DESCABIMENTO. ART. 1.043, § 1º, DO CPC. IMPOSSIBILIDADE
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É pacífico o entendimento desta Corte de que acórdãos paradigmas oriundos de ações que possuem natureza jurídica de garantia constitucional, tais como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção, não servem para comprovação da divergência. Interpretação corroborada pelo art. 1.043, § 1º, do Código de Processo Civil. Nesse sentido: AgInt nos EAREsp n. 1186570/RS, Ministra Laurita Vaz, Corte Especial, DJe 17/12/2019 e AgRg nos EREsp n. 1.844.293/AL, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 26/8/2020, DJe de 1/9/2020.
+3. Agravo interno não provido. (AgInt nos EAREsp n. 1.205.756/AM, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 25/10/2022, DJe de 28/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO PARADIGMA PROFERIDO EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, não se admite como paradigma, para fins de interposição de embargos de divergência, acórdão proferido em ações constitucionais, como habeas corpus, mandado de segurança, habeas data e mandado de injunção, além dos respectivos recursos ordinários, mesmo na vigência do Código de Processo Civil de 2015. Precedente da Corte Especial.
+2. Agravo interno desprovido. (AgInt nos EDv nos EAREsp n. 1.220.947/SC, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 16/8/2022, DJe de 24/8/2022.)
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Após o transcurso do prazo recursal, remetam-se os autos para redistribuição a um dos Ministros que compõem a Segunda Seção, a fim de que seja analisado o recurso sob a luz do paradigma oriundo da Quarta Turma do STJ.
+Publique-se. Intimem-se.
+EMENTA
