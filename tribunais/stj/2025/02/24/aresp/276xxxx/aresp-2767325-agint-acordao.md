@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. CIRURGIA MULTIVALVAR. SITUAÇÃO DE URGÊNCIA. DANOS MORAIS. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. "N as hipóteses em que há recusa indevida de cobertura de tratamentos de urgência ou emergência, há configuração de danos morais indenizáveis" (AgInt no AREsp 2.233.251/CE, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 29/5/2023, DJe de 1º/6/2023).
+2. Estando o acórdão recorrido em consonância com a jurisprudência desta Corte, aplica-se a Súmula 83/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por GEAP AUTOGESTÃO EM SAÚDE contra decisão da Presidência desta Corte (e-STJ, fls. 602/603), que não conheceu do agravo em recurso especial ante a ofensa ao princípio da dialeticidade.
+Nas razões recursais, a parte agravante sustenta, em síntese, que "houve no Agravo em Recurso Especial o combate a todos os pontos da decisão agravada de maneira consistente, especialmente quanto a Súmula 83/STJ" (e-STJ, fl. 609).
+Devidamente intimada, a parte agravada não apresentou impugnação (e-STJ, fls. 647-648).
+É o relatório.
+EMENTA
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. CIRURGIA MULTIVALVAR. SITUAÇÃO DE URGÊNCIA. DANOS MORAIS. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. "N as hipóteses em que há recusa indevida de cobertura de tratamentos de urgência ou emergência, há configuração de danos morais indenizáveis" (AgInt no AREsp 2.233.251/CE, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 29/5/2023, DJe de 1º/6/2023).
+2. Estando o acórdão recorrido em consonância com a jurisprudência desta Corte, aplica-se a Súmula 83/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+Afiguram-se relevantes as alegações recursais, motivo pelo qual reconsidero a decisão de fls. 602/603.
+Passa-se à análise do mérito recursal.
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por GEAP AUTOGESTÃO EM SAÚDE, fundado no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado da Paraíba, assim ementado (e-STJ, fls. 444/456):
+PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE. REQUISITOS DO ART. 1.010, II, DO CPC PRESENTES. REJEIÇÃO. - A parte Recorrente atendeu aos requisitos preconizados no art. 1.010, II, do CPC, pois expôs as razões de fato e de direito que demonstram, sob seu ponto de vista, o equívoco do Decisum.
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. GEAP. PROCEDIMENTO CIRÚRGICO. MULTIVALVAR. NEGATIVA. CUSTEIO DEVIDO. DANOS MORAIS CARACTERIZADOS. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO. MANUTENÇÃO DO DECISUM. DESPROVIMENTO DO RECURSO.
+- Havendo previsão contratual de cobertura de determinada patologia, é abusiva a restrição aos meios necessários ao sucesso do tratamento. Quem garante os fins deve dar os meios, sob pena de ofensa à boa-fé objetiva e à vedação de comportamento contratual contraditório.
+- O reconhecimento do dever de indenizar por danos morais decorre de violação de direitos da personalidade, caracterizada pela dor e sofrimento psíquico que atinjam a vítima, em especial, a sua dignidade.
+- Quanto ao valor da indenização, tem-se que a sanção pecuniária deve estar informada dos princípios que a regem e que visam à prevenção e à repressão, primando sempre pelo equilíbrio, de forma que não seja tão baixa ao ponto de gerar a sensação de impunidade, nem tão elevada ao ponto de caracterizar o enriquecimento da parte afetada, devendo ser mantido o valor de R$ 5.000,00 (cinco mil reais).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 509/515).
+Em suas razões recursais, a parte recorrente alegou, além de divergência jurisprudencial, violação dos arts. 186, 187, 421, 422 e 927, todos do Código Civil; 4º da Lei Federal 9.961/00; e 1º, "d", e 12 da Lei Federal 9.656/98, sustentando, em síntese, que a negativa de autorização do procedimento pleiteado pela recorrida se deu em cumprimento às determinações regulamentares legais, não havendo, portanto, que se falar em cometimento de qualquer ilícito que justifique a condenação ao pagamento de compensação por danos morais.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+Decido.
+Inicialmente, no que diz respeito às ditas violações dos arts. 421 e 422 do Código Civil; 4º da Lei Federal 9.961/00; e 1º, "d", e 12 da Lei Federal 9.656/98, não se pronunciou o Tribunal a quo, de modo que ausente o indispensável requisito do prequestionamento.
+Com efeito, não existem elementos jurídicos no acórdão recorrido que possibilitem, na presente via recursal, apreciação envolvendo controvérsia com base nas teses em epígrafe.
+Em síntese, tais argumentos não se encontram contemplados na fundamentação expendida pelo Tribunal de origem para a solução da controvérsia. Ademais, a despeito da oposição dos embargos de declaração, não se vislumbra o efetivo prequestionamento, situação que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e dos Territórios.
+Por fim, registre-se que o recorrente não alegou, no apelo especial, violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015. Não se pode olvidar que a matéria objeto da irresignação deveria ter sido alvo de prequestionamento pelo Tribunal de origem, mesmo após a oposição dos embargos de declaração. Como persistiu a omissão, deveria a recorrente alegar, nas razões do recurso especial, violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, ônus do qual não se desincumbiu. Incide, na espécie, pois, o óbice da Súmula 211 do STJ. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. EXISTÊNCIA. ARTIGOS TIDOS POR CONTRARIADOS. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES .
+(..)
+3. No presente caso, constata-se que a Corte estadual não se manifestou sobre os arts. 223, 502, 505, 507 e 508 do Código de Processo Civil de 2015, de fato, mesmo após a interposição de embargos declaratórios, razão pela qual incide na espécie a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+3.1. Cabe esclarecer que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte insurgente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+4. Embargos de declaração acolhidos em parte.
+(EDcl no AgInt no AgInt no AREsp n. 2.180.589/SP, relator MINISTRO MARCO AURÊLIO BELLIZZE, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. FALTA COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO. RECURSO MANIFESTAMENTE INFUNDADO.
+1. A matéria inserta nos arts. 6, 11, 22 e 26 da Lei 8177/91 não foi objeto de prequestionamento pelo Tribunal de origem, mesmo após a interposição de embargos de declaração. Persistindo a omissão, cabia à recorrente ter alegado, nas razões do recurso especial, violação ao art. 535 do CPC, ônus do qual não se desincumbiu.
+2. O Superior Tribunal de Justiça não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial alegando-se afronta ao art. 535 do Código de Processo Civil, o que in casu não ocorreu.
+3. Para a admissibilidade do recurso especial, na hipótese da alínea "c" do permissivo constitucional, é imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, mediante o cotejo dos fundamentos da decisão recorrida com o acórdão paradigma, a fim de demonstrar a divergência jurisprudencial existente (arts. 541 do CPC e 255 do RISTJ).
+4. O recurso mostra-se manifestamente infundado, a ensejar a aplicação da multa prevista no artigo 557, § 2º, do CPC.
+5. Agravo regimental não provido, com aplicação de multa.
+(AgRg no Ag 1385990/TO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/11/2011, DJe 16/11/2011)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. BENEFÍCIO SUPLEMENTAR DE APOSENTADORIA POR INVALIDEZ. PREVI-BANERJ. DISPOSITIVO INFRACONSTITUCIONAL ALEGADO COMO VIOLADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STF. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO NOS MOLDES REGIMENTAIS.
+1. A leitura atenta do acórdão combatido, integrado pelo pronunciamento da origem em embargos de declaração, revela que o art. 269, II, do CPC, bem como a tese a ele vinculada não foi objeto de debate pela instância ordinária, o que atrai a aplicação da Súmula n. 211 desta Corte Superior, inviabilizando o conhecimento do especial no ponto por ausência de prequestionamento.
+2. Caberia à parte recorrente, alegar violação ao artigo 535 do Código de Processo Civil, quando da interposição do recurso especial, se entendesse persistir algum vício no acórdão impugnado, ônus do qual não se desincumbiu.
+3. A Corte a quo, ao firmar seu entendimento de que a autora não preencheu as condições para a obtenção do benefício suplementar, uma vez que não houve a comprovação da sua permanência no quadro da instituição, o fez com base nos fatos e nas provas dos autos, e rever tal conclusão, implicaria, necessariamente, reexame de aspectos fático-probatórios dos autos, providência vedada em recurso especial, a teor da Súmula 7 desta Corte.
+4. Quanto à divergência jurisprudencial alegada, a interposição do recurso especial pela alínea c do permissivo constitucional também exige que o recorrente cumpra o disposto nos arts. 541, parágrafo único, do CPC, e 255, § 1º, a, e § 2º, do RISTJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 417.033/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/11/2013, DJe de 25/11/2013).
+No tocante aos danos morais, o acórdão recorrido, após estudo da realidade fático-probatória dos autos, fundou a manutenção da condenação da recorrente na delicadeza do quadro clínico apresentado pela recorrida quando da negativa injustificada para o procedimento pleiteado, in verbis (e-STJ, fls. 449/450):
+"A negativa da cobertura solicitada, necessária à saúde da paciente, restringe direito fundamental inerente à própria natureza do contrato, sobremodo diante do quadro clínico apresentado pela parte Apelada.
+Tenho, pois, que andou bem o Juiz sentenciante ao determinar o custeio da cirurgia pela Apelante.
+Quanto à controvérsia se é legítima a pretensão da parte Apelada de ser ressarcida pelos danos morais experimentados, ante a negativa na realização do procedimento cirúrgico necessário ao seu tratamento, em momento extremamente delicado, entendo ser devido.
+Com efeito, para a ocorrência do dano moral é indispensável que o ato apontado como ofensivo seja suficiente para, de forma hipotética, adentrar na esfera jurídica da vítima e causar-lhe sofrimento, desgosto, angústia.
+Dito isso, sabe-se que, segundo entendimento pacífico do STJ, a negativa injustificada em autorizar a cobertura financeira de tratamento médico de urgência agrava a situação de aflição psicológica e de angústia do beneficiário, a ensejar indenização por dano moral.
+É que essa negativa interfere no bem-estar do enfermo, causando insegurança, aflição e angústia, ainda mais levando em consideração o seu quadro de saúde já fragilizado, em decorrência dos males que o acometem.
+(..)
+Não há dúvida, pois, de que se encontra configurado o dano moral no caso concreto.
+Assim, se a negativa da realização da cirurgia pleiteada se revela injusta, de sorte a causar repercussão negativa no universo psíquico da parte autora, trazendo-lhe frustrações e padecimentos, induvidoso o dever indenizatório, ante a presença dos elementos essenciais da etiologia da responsabilidade civil. Acertado, portanto, o reconhecimento da ocorrência do dano moral."
+Assim, considerando-se que, de fato, esta eg. Corte Superior entende que, "nas hipóteses em que há recusa indevida de cobertura de tratamentos de urgência ou emergência, há configuração de danos morais indenizáveis" (AgInt no AREsp n. 2.233.251/CE, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023.), é de rigor a manutenção do decisum perseguido.
+Em face do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial.
+É como voto.
