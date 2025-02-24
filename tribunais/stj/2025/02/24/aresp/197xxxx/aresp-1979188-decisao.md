@@ -1,0 +1,9 @@
+DECISÃO
+Em análise, agravo interposto por ATMOSPHERA CONSTRUÇÕES E EMPREENDIMENTOS LTDA. e TECMAXX ENGENHARIA E SERVIÇOS LTDA., contra decisão que inadmitiu recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo .
+No acórdão objeto do recurso especial, o Tribunal de origem negou provimento a agravo de instrumento interposto contra decisão que recebeu a inicial de ação civil pública ajuizada pelo Ministério Público do Estado de São Paulo, na qual postula a condenação dos agravantes por ato de improbidade administrativa.
+Em consulta à página eletrônica do Tribunal de origem, constato que, em 28/06/2023, foi proferida sentença julgando improcedente o pedido formulado na ação ajuizada pelo agravado (Ação Civil Pública 1012303-05.2019.8.26.0506). Interposta apelação, foi improvida, em acórdão transitado em julgado em 17/08/2024, tendo sido dada baixa definitiva aos autos em 12/11/2024.
+Assim, com a prolação de sentença, julgando improcedente o pedido formulado na ação civil pública ajuizada pelo agravado, houve a perda do objeto do recurso especial, que busca a reforma da decisão que recebeu a inicial da referida ação. Nesse sentido: AgInt no REsp n. 1.372.122/PB, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023; DESIS no AREsp n. 1.600.304/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/4/2021, DJe de 19/4/2021.
+Isso posto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial, por perda superveniente do seu objeto.
+Sem conde nação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
