@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno de que não se conhece.
+RELATÓRIO
+Trata-se de agravo interno interposto por GAZZI & CIA LTDA. da decisão de minha relatoria de fls. 1.048/1.051.
+A parte recorrente alega, em síntese, o seguinte:
+"Equivoca-se a decisão agravada ao exigir um requerimento específico para excluir o ICMS-ST da base de cálculo do PIS e da COFINS. Ora, o ICMS-ST somente se diferencia do ICMS ordinário/regular diante da forma de arrecadação, que é antecipada na figura do substituto. Por conta desse pressuposto, o pedido de exclusão do ICMS-ST necessariamente está compreendido no pedido de exclusão do ICMS da base de cálculo do PIS e da COFINS" (fl. 1.056).
+Requer a aplicação da tese firmada no Tema Repetitivo 1.125/STJ ao presente caso, a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 1.068).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno de que não se conhece.
+VOTO
+A irresignação não merece prosperar.
+O Tribunal de origem inadmitiu o recurso especial com os seguintes fundamentos (fl. 1.015):
+Nas razões recursais a recorrente sustenta o direito de excluir o ICMS recolhido por substituição tributária que compôs a base de cálculo do PIS e da COFINS (evento 91, RECESPEC1). O recurso não merece prosseguir, porquanto as razões do inconformismo revelam-se dissociadas dos fundamentos do ato judicial ora impugnado. Isso porque o acórdão recorrido não aborda a questão referente à exclusão dos valores do ICMS-ST da base de cálculo do PIS e da COFINS, tampouco é este o objeto da ação, como se observa da petição inicial e da apelação.
+A propósito, dentre os elementos essenciais da petição estão as razões do pedido de reforma da decisão recorrida (CPC, art. 1.029).
+A parte agravante não demonstrou ser o Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação-Substituição Tributária (ICMS-ST) objeto da petição inicial e da apelação, que menciona apenas o ICMS na base de cálculo da contribuição ao Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS), tendo sido a questão do ICMS-ST mencionada apenas na via recursal, conforme reconhecido pela própria parte contribuinte em seu agravo em recurso especial (fl. 1.034):
+Como o acórdão recorrido proferido pela 1ª Turma do TRF da 4ª Região concluiu que "a inclusão do ICMS-ST na base de cálculo das contribuições para PIS e COFINS não foi abordada de maneira particularizada durante o processo" e que "há marcante diferença entre o ICMS exigido diretamente do contribuinte e aquele submetido ao regime de substituição tributária (ICMS-ST). O Supremo Tribunal Federal não considerou o regime de substituição progressiva no julgamento do RE 574706/PR em repercussão geral", em seu Recurso Especial a ora Agravante precisou refutar essas conclusões, demonstrando que essa discussão do ICMS-ST está contemplada no seu pedido, para em seguida requerer que igualmente lhe seja assegurado o direito de não incluir na base de cálculo do PIS e da COFINS inclusive o ICMS recolhido por antecipação pelo substituto no regime de substituição tributária do imposto.
+Portanto, cabe à Egrégia Corte reformar o acórdão recorrido na parte em que concluiu que "a inclusão do ICMS-ST na base de cálculo das contribuições para PIS e COFINS não foi abordada de maneira particularizada durante o processo", já que, como demonstrado no Recurso Especial, este raciocínio encontra-se equivocado, para em seguida aplicar a tese firmada no tema 1.125 dos recursos repetitivos, de acordo com a qual: "O ICMS-ST não compõe a base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído no regime de substituição tributária progressiva".
+É evidente, portanto, a necessidade de reforma da decisão ora agravada, autorizando o processamento do Recurso Especial.
+O ICMS-ST é uma questão e um pedido à parte do ICMS, tanto que até foi objeto de tema próprio, qual seja, o Tema 1.125/STJ, mencionado pela parte agravante.
+Diante da inadequada impugnação pela não comprovação de que as razões do recurso especial não foram dissociadas da decisão do Tribunal de origem, recorrida, como decidido pelo Tribunal de origem, não conheci do agravo em recurso especial com base na Súmula 182/STJ, aplicada por analogia.
+Em seu agravo interno, a parte agravante afirmou que (fl. 1.056):
+Objetivou, em outras palavras, ver reconhecido o seu direito de não incluir o valor do ICMS na base de cálculo do PIS e da COFINS, independentemente da forma como o ICMS foi arrecadado/recolhido.
+Equivoca-se a decisão agravada ao exigir um requerimento específico para excluir o ICMS-ST da base de cálculo do PIS e da COFINS. Ora, o ICMS-ST somente se diferencia do ICMS ordinário/regular diante da forma de arrecadação, que é antecipada na figura do substituto. Por conta desse pressuposto, o pedido de exclusão do ICMS-ST necessariamente está compreendido no pedido de exclusão do ICMS da base de cálculo do PIS e da COFINS.
+Não foi impugnado o fundamento da decisão agravada no sentido que (fl. 1.049):
+a parte não demonstrou ser o ICMS-ST objeto da petição inicial e da apelação, que menciona apenas o ICMS na base de cálculo do PIS e da COFINS, tendo sido a questão do ICMS-ST mencionada apenas na via recursal, conforme reconhecido pelo contribuinte.
+Acrescento que as análises do ICMS e do ICMS-ST são distintas, tanto que, como reconhecido pela própria parte agravante, o ponto relativo ao ICMS-ST foi analisado pelo Superior Tribunal de Justiça no Tema 1.125/STJ, que tratou, exclusivamente, da possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído, tendo sido firmada a tese de que "o ICMS-ST não compõe a base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído no regime de substituição tributária progressiva".
+A questão deveria ter sido analisada desde o início da lide, conforme exposto no ponto não impugnado da decisão agravada.
+Como se vê, a parte agravante, no recurso ora examinado, igualmente não refuta as razões expostas na decisão que visa impugnar, repetindo o vício anteriormente detectado.
+É devida a aplicação ao caso em questão da Súmula 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A fim de rebater a decisão que não conheceu de seu recurso porque não foram rebatidos todos os fundamentos da decisão de admissibilidade, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que no agravo em recurso especial ela impugnou toda a decisão que não havia admitido seu recurso especial, proferida pelo Tribunal de origem - o que não ocorreu.
+É importante registrar, ainda, que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil (CPC) como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
