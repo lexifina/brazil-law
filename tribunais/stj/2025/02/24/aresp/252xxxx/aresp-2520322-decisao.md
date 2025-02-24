@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por ASSOCIAÇÃO DE DISTRIBUIDORES E ATACADISTAS CATARINENSES contra acórdão do Tribunal Regional Federal da 4ª Região, no qual pretende o reconhecimento da legitimidade do Delegado da Receita Federal para figurar como autoridade coatora em mandado de segurança impetrado com o fim de afastar a exigibilidade de tributo.
+A parte recorrente alega, em síntese (fls. 52/61):
+A Recorrente ajuizou Mandado de Segurança Coletivo em face dos quatro Delegados da Receita Federal responsáveis pela jurisdição da base da associação, visando ao reconhecimento do direito das empresas associadas de tomarem créditos de PIS e COFINS sobre o IPI, Frete e Seguro após as mudanças promovidas pela IN 2.121/22.
+Ocorre que o magistrado de primeiro grau por decisão interlocutória entendeu por bem reconhecer a ilegitimidade passiva do Delegado da Receita Federal do Brasil em Blumenau e determinou a retificação do polo passivo para constar como autoridade coatora o Superintendente da Receita Federal do Brasil em Curitiba, com o objetivo de evitar a impetração de diversos writs.
+Trata-se de Agravo de Instrumento contra a decisão interlocutória dos autos do Mandado de Segurança n. 5004066- 96.2023.4.04.7205/SC, que determinou a retificação do polo passivo para constar como autoridade impetrada o Superintendente da Receita Federal do Brasil em Curitiba.
+No entanto, ciente a Recorrente da orientação firmada pelo STJ de que a legitimidade passiva no Mandado de Segurança é do Delegado da Receita Federal, agravou a referida decisão interlocutória, porém o recurso foi negado
+ ..
+Ou seja, a associação deve ingressar contra todos os Delegados responsáveis pela sua base de associados. No que diz respeito à legitimidade do Superintendente, certamente a Recorrente teria um dispêndio menor ao impetrar apenas um mandado de segurança, bem como, seria muito mais cômodo ao procurador que esta subscreve. No entanto, nem dentro do próprio TRF4 há entendimento unânime quanto à legitimidade do Superintendente de forma que não pode a parte arriscar a extinção do processo sem julgamento do mérito ante a eventual reconhecimento da ilegitimidade após anos de tramitação dos autos  ..  o Tribunal Regional Federal da 4ª Região contrariou ao disposto no artigo 485, VI do CPC e artigo 2-A da Lei n. 9.494/97.
+Com contrarrazões da parte contrária, o recurso não foi admitido porque seu conhecimento encontraria óbice nas Súmulas 126 do STJ, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende a necessidade de conhecimento do especial.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 34/36):
+Não é incomum, no mandado de segurança coletivo, que a representação exercida pela entidade associativa alcance associados sujeitos a diferentes delegacias da Receita Federal.
+Em que pese o Superintendente Regional da Receita Federal não seja a autoridade encarregada da execução da norma no que toca à fiscalização, lançamento e cobrança de tributos, este exerce funções de supervisão e orientação administrativa das delegacias da Receita Federal do Brasil, o que evidencia sua legitimidade para responder o presente feito.
+Uma vez estando o Superintendente da Receita Federal no polo passivo, evita-se que cada associado necessite impetrar um mandado de segurança individual, garantindo-se o acesso ao mandado de segurança coletivo, consoante previsto na Constituição Federal, artigo 5º, LXX.
+Pois bem.
+De início, observa-se a ausência de fundamentação constitucional do acórdão recorrido e, por isso, está equivocada a decisão de inadmissão do especial com apoio na Súmula 126 do STJ.
+Feita essa observação, deve-se destacar a regra do art. 6º, § 3º, da Lei n. 12.016/2009, segundo a qual a petição inicial do mandado de segurança deve indicar a autoridade coatora, sendo esta "aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+Não obstante, é oportuno mencionar ser possível "a emenda à petição inicial de mandado de segurança para a correção de equívoco na indicação da autoridade coatora, desde que a retificação do polo passivo não implique alteração da competência judiciária e a autoridade erroneamente indicada pertença à mesma pessoa jurídica da autoridade de fato coatora" (AgInt no REsp n. 2.123.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+No caso dos autos, a parte impetrante do mandado de segurança coletivo defende o "direito das empresas associadas de tomarem créditos de PIS e COFINS sobre o IPI, Frete e Seguro".
+Portanto, consideradas a causa de pedir e a pretensão mandamentais, a autoridade coatora é mesmo o Delegado da Receita Federal com jurisdição sobre a área de atuação dos associados da associação.
+A propósito, há muito tempo, esse é o entendimento jurisprudencial deste Tribunal Superior. A respeito, vide:
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. TAXA DE UTILIZAÇÃO DO SISCOMEX. MAJORAÇÃO. ILEGITIMIDADE PASSIVA. INSPETOR DA RECEITA FEDERAL. AUTORIDADE COATORA. DELEGADO DA RECEITA FEDERAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - O feito decorre de mandado de segurança impetrado pelo contribuinte contra o Inspetor da Receita Federal em Porto Alegre/RS, tendo como objetivo a declaração de ilegalidade da majoração das taxas de utilização do SISCOMEX e o reconhecimento do direito à compensação tributária dos valores recolhidos a maior.
+II - O Tribunal de origem reconheceu a ilegitimidade passiva do Inspetor da Receita Federal em Porto Alegre/RS, uma vez que a autoridade competente para decidir sobre a compensação seria o Delegado da Receita Federal com jurisdição no domicílio tributário do contribuinte.
+III - Quanto à questão de fundo, o Superior Tribunal de Justiça possui entendimento consolidado de que a autoridade coatora para fins de impetração de mandado de segurança é o Delegado da Receita Federal do Brasil da jurisdição onde se encontra sediada a matriz da pessoa jurídica.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 2.032.577/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/5/2023, DJe de 31/5/2023)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356/STF. ATO INFRALEGAL. RECURSO ESPECIAL. DESCABIMENTO. MANDADO DE SEGURANÇA. AUTORIDADE COATORA. DELEGADO DA RECEITA FEDERAL DO DOMICÍLIO DA MATRIZ.
+1. A matéria pertinente ao art. 165 do CTN não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Incidência da Súmula 356/STF.
+2. O deslinde da controvérsia ensejaria a interpretação da Instrução Normativa da SRF 1.717/2017 e da Portaria MF 257/2011, providência vedada no âmbito do recurso especial, uma vez que tais regramentos não se enquadram no conceito de lei federal.
+3. O acórdão recorrido está em sintonia com a jurisprudência deste STJ, no que entende que a autoridade coatora para fins de impetração de mandado de segurança é o Delegado da Receita Federal do Brasil da jurisdição onde se encontra sediada a matriz da pessoa jurídica.
+Precedentes: AgInt nos EDcl no REsp n. 1.779.428/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; AgInt no REsp n. 1.707.018/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11/4/2018; AgInt no REsp n. 1.505.767/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/4/2018.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.745.738/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/5/2023, DJe de 11/5/2023)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. PIS. AUTORIDADE COATORA: DELEGADO DA RECEITA FEDERAL. LEGITIMIDADE ATIVA. PRECEDENTES STJ.
+1. Agravo Regimental contra decisão que negou provimento ao agravo de instrumento interposto pela parte agravante.
+2. Acórdão a quo reconheceu a ilegitimidade passiva do Superintendente da Receita Federal para figurar no pólo passivo do mandado de segurança.
+3. A fonte pagadora não tem autonomia, posto que obedece às orientações do Delegado da Receita Federal, o qual possui condições de figurar no pólo passivo em mandado de segurança em que se discute alíquota e prazo de recolhimento do PIS.
+4. Precedentes desta Corte Superior.
+5. Agravo regimental não provido.
+(AgRg no Ag n. 421.664/MG, relator Ministro José Delgado, Primeira Turma, julgado em 14/5/2002, DJ de 24/6/2002)
+De outro lado, no caso, não há nenhuma peculiaridade, como, p.ex., a encampação do ato impugnado, apta a ensejar outra conclusão, notadamente, porque a decisão objeto do agravo de instrumento se limitou a ordenar a retificação da petição inicial.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, casso o acórdão recorrido e dou provimento ao agravo de instrumento para reconhecer o Delegado da Receita Federal em Blumenau como autoridade coatora do mandado de segurança.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA COLETIVO. IMPETRAÇÃO POR ENTIDADE ASSOCIATIVA. LEGITIMIDADE DO DELEGADO DA RECEITA FEDERAL PARA FIGURAR COMO AUTORIDADE COATORA. JURISDIÇÃO SOBRE O DOMICÍLIO TRIBUTÁRIO DOS ASSOCIADOS. COMPETÊNCIA PARA DECIDIR A EXIGIBILIDADE DE TRIBUTOS. ACÓRDÃO RECORRIDO CONTRÁRIO À JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
