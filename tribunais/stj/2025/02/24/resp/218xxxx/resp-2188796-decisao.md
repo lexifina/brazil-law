@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no qual a parte recorrente pretende o reconhecimento do direito de, no regime não cumulativo de recolhimento, gerar créditos da contribuição ao PIS e da COFINS em relação ao valor pago a título de ICMS por ocasião da aquisição de mercadorias para revenda ou para utilização como insumos.
+A parte recorrente alega, em síntese (fls. 785/807):
+No caso em tela, verifica-se nítida afronta à legislação infraconstitucional, em especial, à técnica da não cumulatividade de PIS/COFINS, a que se referem os arts. 10, VI e art. 15, V da Lei 10.833/03, em razão da convalidação da alteração procedida no inciso III do §2º do art. 3º das Leis 10.637/02 e 10.833/03, ao vedar a manutenção do crédito de ICMS na base de cálculo do PIS/COFINS  ..  Neste caso, foram violados os arts. 10, VI e art. 15, V da Lei 10.833/03, vez que os referidos dispositivos consagram a não cumulatividade de PIS/COFINS e a alteração legislativa prevista no inciso III no §2º do art. 3º das Leis 10.637/02 e 10.833/03 busca, com a devida vênia, de forma ilegal, alterar os parâmetros que a pessoa jurídica pode descontar da base de cálculo do PIS/COFINS  ..  Portanto, ao o legislador infraconstitucional, impor que não dará crédito de PIS/COFINS, o valor do ICMS que tenha incidido sobre a operação de aquisição, a não cumulatividade disciplina pelas Leis 10.637/02 e 10.833/03 é nitidamente contrariada  ..  Ainda, há contrariedade ao art. 13, §1º, I da LC 87/96, que dispõe que o ICMS integra a sua própria base de cálculo, sendo inegável que este está incluso no custo de aquisição e, em decorrência disso, no preço do bem/mercadoria. Assim, a alteração promovida e é ilegal e merece a tutela desta douta Corte.
+ ..
+Caso se entenda por excluir o ICMS na apuração dos créditos de PIS e COFINS, postula a recorrente que esta decisão não seja aplicada aos créditos de ICMS dos produtos tributados à alíquota zero, com isenção, suspensão e não incidência.
+Com contrarrazões da parte recorrida, o recurso foi admitido.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Considerados os teores do acórdão recorrido e das razões do especial, o recurso não pode ser conhecido, pois não é a via recursal adequada à discussão de questões constitucionais nem à impugnação de acórdão cuja fundamentação tem natureza constitucional, nos termos do art. 105, inc. III, da Constituição Federal.
+Por fim, o recurso não pode ser conhecido, quanto ao pedido subsidiário, tendo em vista a ausência de prequestionamento. Observância da Súmula 282 do STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
