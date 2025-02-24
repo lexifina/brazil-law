@@ -1,0 +1,48 @@
+DECISÃO
+Examina-se agravo em rec urso especial interposto por PROLAGOS S/A - CONCESSIONARIA DE SERVICOS PUBLICOS DE AGUA E ESGOTO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 05/07/2024.
+Concluso ao gabinete em: 09/10/2024.
+Ação: de indenização por danos materiais, morais e lucros cessantes com pedido de tutela antecipada movida por ALBERICO MONTEIRO LOPES, JOEL MONTEIRO LOPES FILHO, FLAVIO MONTEIRO LOPES, MARCUS VINICIUS LOPES DE OLIVEIRA, PAULO ROBERTO RANGEL DOS SANTOS e MARIA CRISTINA EVANGELISTA DE OLIVEIRA contra PROLAGOS S/A - CONCESSIONARIA DE SERVICOS PUBLICOS DE AGUA E ESGOTO.
+Sentença: julgou parcialmente procedente para condenar a agravante ao pagamento a cada um dos autores/ agravados, a título de dano material (lucros cessantes), o valor de R$ 4.728,00 e R$ 20.000,00 por danos morais, acrescidos de correção monetária e juros de mora.
+Acórdão: deu provimento à apelação interposta para anular a sentença, nos termos da seguinte ementa:
+Apelação Cível. Ação indenizatória por danos material e moral. Desastre ambiental. Vazamento de esgoto. Utilização de prova pericial produzida em outros autos, como prova emprestada. Ausência de intimação da apelante para contraditar o sobredito documento. Inteligência dos artigos 5º, LV, da CRFB/88 e 398, do CPC. Cerceamento de defesa caracterizado. Provimento do apelo para anular a sentença. Art.557, §1º-A, do CPC. (e-STJ fl. 2552)
+Sentença: julgou improcedentes os pedidos de reparação por danos emergentes e parcialmente procedentes os pedidos para condenar a ré/ agravante ao pagamento a cada um dos autores/ agravados, a título de dano material/ lucros cessantes, o valor de R$ 4.650,00 e R$ 76.000,00 por danos morais, acrescidos de correção monetária e juros de mora.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Apelação. Ação de obrigação de fazer c/c danos morais e materiais. Desastre ambiental ocorrido em torno da encosta marítima da Região dos Lagos. Concessionária ré que realizava o despejo do esgoto em volumes superiores ao limite permitido. Mortandade de peixes na Região, prejudicando a pesca artesanal. Preliminar de ilegitimidade ativa não acolhida. Farta prova documental que comprovou a falha na prestação do serviço, acarretando danos ambientais e à comunidade pesqueira. Inteligência do art.225, §3º c/c art.37, §6º ambos da CRFB/88 c/c art.14, §1º da Lei nº 6.938/81. Laudos emitidos pela Universidade Federal Rural do Rio de Janeiro, a pedido da Secretaria Municipal de Meio Ambiente de São Pedro da Aldeia, os quais revelaram o descumprimento da Resolução 357 CONAMA, e a constatação da matéria orgânica (PROLAGOS) em patamares superiores aos limites estabelecidos pela legislação vigente, ocasionando prejuízo ao corpo receptor (mortandade de 2009) na Região dos Lagos. Precedentes do C. STJ. Apelo desprovido. (e-STJ fl. 3915)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 9º, 10, 355, I, 372, 464, §1º, III, 473, §§1º e 2º, 477, §§1º a 3º, 489, §1º, IV, 1.022, II, do CPC; 186 e 927 do Código Civil; 14, §1º, da Lei 6.938/81; e 25 da Lei 8.897/95. Além de negativa de prestação jurisdicional, sustenta ilegalidade da prova emprestada. Aduz que o laudo pericial é imprestável. Assevera ausência de nexo causal entre o dano experimentado pelos pescadores e a conduta da concessionária. Afirma inexistência de dano moral e insurge-se contra o valor fixado, afirmando ser exorbitante.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do nexo causal entre os danos sofridos pelos pescadores e a conduta da agravante, ressaltando que restou comprovado que o esgoto lançado nas águas pela concessionária foi o fato principal responsável pela mortandade dos peixes, pela farta prova documental e a extensa prova pericial, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Do reexame de fatos e provas
+O TJ/RJ ao analisar o recurso interposto pela agravante, quanto à prova emprestada utilizada, o laudo pericial, o nexo causal entre o dano sofrido pelos pescadores e a conduta da concessionária e a consequente responsabilidade civil da concessionária a indenizar os danos materiais e morais existentes, concluiu o seguinte (e-STJ fls. 3923-3927):
+Nos autos do processo nº 0003301-96.2011.8.19.0055, que tem como pano de fundo a poluição ambiental provocada pela ré, causando a mortandade de espécies marinhas, na mesma região, foi produzida extensa prova pericial, com mais de quatrocentas laudas, tendo sido tal prova utilizada como prova emprestada, sem que tenha sido violado princípio da ampla defesa e do contraditório  ..
+Com efeito, diante da legalidade da prova emprestada corroborada por farta prova documental encartada aos autos, restou comprovado que o esgoto lançado nas águas da região pela concessionária ré foi o fato principal responsável pela mortandade dos peixes, o que prejudicou a atividade pesqueira, causando danos morais e materiais aos pescadores que sobrevivem da pesca artesanal.
+Assim, não merece acolhimento a assertiva de violação dos princípios da ampla defesa e do contraditório.
+ ..
+Diante da responsabilidade objetiva da concessionária ré, na forma dos artigos art.37, §6º c/c art.225, §3º ambos da CRFB/88 c/c art.14, §1º, e restando demonstrado que a concessionária ré, através do lançamento de esgoto na lagoa, contribuiu para a mortandade de espécies marinhas da região, aos pescadores lhes assistem direito aos danos materiais (lucros cessantes) e danos morais, cujos valores foram devidamente fixados na sentença e não comportam qualquer redução.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do pedido de revisão do valor da compensação por danos morais.
+Ao julgar o recurso de apelação interposto pela parte agravante, o TJ/RJ manteve o valor da compensação por danos morais fixado em sentença, em R$ 76.000,00 mil reais.
+A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exorbitante, o que não está caracterizado neste processo.
+Nesse sentido: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 06/09/2016, e AgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/09/2016.
+Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E LUCROS CESSANTES COM PEDIDO DE TUTELA ANTECIPADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais, morais e lucros cessantes com pedido de tutela antecipada.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
