@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 1.135/1.151) interposto contra decisão desta relatoria, que negou provimento ao recurso (e-STJ fls. 1.128/1.131).
+Em suas razões, a parte alega a não incidência da Súmula n. 7 do STJ, aduzindo que a matéria é eminentemente de direito e todos os elementos fáticos e probatórios constam no acórdão agravado.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 1.155/1.170), requerendo a majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+3. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.128/1.131):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (e-STJ fls. 1.075/1.076).
+O acórdão recorrido está assim ementado (e-STJ fl. 970):
+APELAÇÃO. Insurgência à sentença pela qual improcedentes pedidos dos autores para reparação de danos material e moral em razão de incêndio em seringal decorrente do rompimento de cabo de energia elétrica de responsabilização da ré. Admissibilidade. Falha na prestação do serviço público. Dever de manutenção da fiação em condição de segurança. Laudos decorrentes de perícia e demonstrativos outros que são de consideração. Comprovação do nexo de causalidade entre o rompimento da fiação e os danos sofridos pelos autores. Reparação por lucros cessantes e reimplantação do seringal atingido. Precedente deste Tribunal (TJSP). Sentença reformada. Recurso provido, portanto.
+Os embargos de declaração foram parcialmente acolhidos, em julgado assim ementado (e-STJ fl. 1.015):
+Embargos de declaração. Insurgência a acórdão pelo qual provida a apelação interposta pelos ora embargados. Inocorrência dos alegados defeitos no tocante ao mérito. Porém, omissões em relação aos termos iniciais dos consectários legais que ora são sanadas. Portanto, embargos em parte acolhidos.
+Nas razões do recurso especial (e-STJ fls. 1.027/1.041), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) art. 373, I, do CPC, alegando que a matéria é eminentemente de direito acerca da revaloração de prova, pois neste caso teria ocorrido um incêndio e nenhuma prova foi categórica acerca da sua causa ou origem,
+(ii) art. 945 do CC, por entender que, "apesar da existência de aceiros no local, que deveriam estar sempre limpos (livres de ervas daninhas e matéria orgânica) para evitar ou mitigar a propagação de incêndio, o ilustre Dr. Perito verificou que havia bastante vegetação arbórea e arbustiva  ..  que "pode ter contribuído para o início do fogo e ou para a propagação das chamas"  ..  diante de várias causas possíveis (nenhuma delas efetivamente comprovadas nem afastadas), não se pode escolher de forma conveniente aquela mais desfavorável a Elektro, para responsabilizá-la com base em mera presunção" (e-STJ fl. 1.040).
+Requereu, por fim, a concessão do efeito suspensivo.
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 1.061/1.074).
+O agravo (e-STJ fls. 1.079/1.094) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.104/1.117).
+É o relatório.
+Decido.
+Quanto às causas do incêndio, o TJSP afirmou que se considerou "estar comprovado o nexo causalidade entre a falha no serviço prestado por ela (ausência de apropriada manutenção da rede elétrica) e os danos suportados pelos autores", conforme assentou (e-STJ fls. 1.017/1.021):
+Segundo o boletim de ocorrência (folhas 28/29), metade do seringal dos autores fora atingida em consequência de incêndio em área de preservação permanente dado o rompimento de cabo de energia da rede sob encargo da empresa Elektro.
+Ainda, consoante laudo (folhas 718/760), a perícia, entre o mais, concluiu o seguinte:
+" ..  Dos estudos, levantamentos e análises elaboradas, pode-se concluir, em síntese, que no dia 12 de agosto de 2021, entre as 12h30 e as 13h10, ocorreu um incêndio que teve início nas imediações de um poste que sustenta a rede de distribuição da empresa Elektro S. A, situado na APP (Área de Preservação Permanente) do ribeirão Santa Rita, nas coordenadas 571.713,00 m E / 7.762.278,90 m N, cujas chamas se alastraram por essa área de preservação e se propagaram em direção à porção sudeste da propriedade rural denominada Sítio São José, o que se evidencia pela direção predominante do vento naquele dia a oeste), e em seguida, se propagou para a porção sul, queimando cerca de 24,70 hectares do imóvel, além das APPs.
+ ..
+Outrossim, em complementação a essa prova (folhas 809/819), esse expert constou haver "as seguintes evidências: imagens registradas no local, no momento do incêndio, documentadas nos autos, indicando o ponto de origem do fogo, o cabo rompido, a árvore que teria atritado com a rede, a farta vegetação sob a rede elétrica e em seu entorno imediato, a direção de propagação das chamas através do vento, a extensão dos danos etc.; laudo oficial do Instituto de Criminalística um mês após o evento, confirmando o que as imagens retro referidas indicaram; as imagens orbitais indicando a direção e intensidade do vento no momento do incêndio, bem como as condições atmosféricas naquele dia; as informações da testemunha entrevistada indicando o ponto de origem do fogo e sua impressão sobre a causa; a informação prestada pela própria requerida demonstrando a posição da rede elétrica, o tipo do material e a realização do reparo devido ao rompimento do cabo, entre outras."
+Após, concluiu esse perito o seguinte: "evidencia-se que a origem do incêndio foi o local onde o cabo da rede elétrica rompeu, e que a causa da ignição do fogo foi o rompimento do cabo eletrizado, seja por tração axial, cisalhamento ou torção. A hipótese principal é a que possui mais evidências convergentes, de modo que deve ser aceita, s. m. j., como a causa provável do incêndio".
+ ..
+Por essas razões, contrariamente ainda à supracitada argumentação da apelada, está comprovado o nexo causal entre a falha no serviço prestado por ela (ausência de apropriada manutenção da rede elétrica) e os danos suportados pelos autores.
+Ademais, essa concessionária não se incumbiu provar fato ou circunstância passível de infirmar esses demonstrativos de ordens testemunhal e técnica.
+A Corte local afirmou que o perito concluiu que a origem do incêndio foi o local onde o cabo da rede elétrica se rompeu e que a causa da ignição do fogo foi o rompimento do cabo eletrizado e, assim, estaria comprovado o nexo causal entre a falha no serviço prestado e os danos suportados pelos recorrentes. A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória dos autos, atraindo a Súmula n. 7/STJ.
+A modificação do valor da indenização por danos morais é admitida em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça estadual, diante das circunstâncias analisadas, fixou a indenização dos danos morais da seguinte forma (e-STJ fl. 981):
+Presentes essas características, se fixa indenização a título de reparação de dano moral de quinze mil reais (R$ 15.000,00) em favor de cada um dos autores, certo, ainda, por outro lado, que satisfação dessa espécie não comporta geração de fortuna.
+A quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ. Para alterar a cifra, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A Corte estadual entendeu, que estaria comprovado o nexo de causalidade entre a falha no serviço prestado pela parte agravante e os danos suportados pela parte agravada, concluindo que (e-STJ fl. 1.019):
+Após, concluiu esse perito o seguinte: "evidencia-se que a origem do incêndio foi o local onde o cabo da rede elétrica rompeu, e que a causa da ignição do fogo foi o rompimento do cabo eletrizado, seja por tração axial, cisalhamento ou torção. A hipótese principal é a que possui mais evidências convergentes, de modo que deve ser aceita, s. m. j., como a causa provável do incêndio".
+Para que se acolha a pretensão, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável no âmbito do especial. Inafastável a Súmula n. 7/STJ.
+Além disso, a quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ. Para alterar a cifra, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno e de embargos de declaração.
+É como voto.
