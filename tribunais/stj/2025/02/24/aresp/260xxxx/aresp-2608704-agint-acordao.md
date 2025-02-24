@@ -1,0 +1,105 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CADEIA DE PROCURAÇÕES. AUSÊNCIA. REGULARIZAÇÃO. NÃO OCORRÊNCIA.
+1. Nos termos da Súmula 115 do STJ, "na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos".
+2. "A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)" (AgInt no AREsp n. 2.426.293/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+3. Esse entendimento foi inclusive confirmado pela Primeira Turma no julgamento do AgInt no AREsp 2.509.244/AL, ocorrido em 10/12/2024, oportunidade em que ressalvei o meu ponto de vista.
+4. Ademais, "a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por autoridade Certificadora credenciada" (AgInt no AREsp n. 1.691.485/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/10/2020, DJe de 21/10/2020).
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado por WAGNER JOSÉ ABRAHÃO contra decisão proferida pela então Presidente desta Corte Superior, constante às e-STJ fls. 540/541, em que não conheceu do agravo em recurso especial em razão da incidência da Súmula 115 do STJ.
+Nas suas razões, a parte agravante sustenta que (e-STJ fl. 546):
+Não obstante a petição inicial do Agravo de Instrumento interposto contra a decisão que inadmitiu o Recurso Especial do Agravante tenha sido protocolizado mediante a utilização do certificado digital da Dra. Michele de Moraes Stampone, o fato é que ela conta com a assinatura (física), da patrona Dra. Claudia de Castro Calli, que efetivamente redigiu a peça. Apenas o certificado digital da Dra. Michele foi utilizado para protocolização d a peça pois, no dia da interposição do recurso o certificado digital da Dra. Claudia não estava disponível para ser utilizado.
+Afirma que se trata de irregularidade apenas formal, inclusive sanada mediante a juntada de instrumento de procuração outorgado aos demais advogados integrantes do escritório, tendo sido ratificados todos os atos processuais anteriormente por eles praticados neste processo.
+Invoca, nesse sentido, o disposto no art. 662 do CC.
+Sem contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CADEIA DE PROCURAÇÕES. AUSÊNCIA. REGULARIZAÇÃO. NÃO OCORRÊNCIA.
+1. Nos termos da Súmula 115 do STJ, "na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos".
+2. "A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)" (AgInt no AREsp n. 2.426.293/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+3. Esse entendimento foi inclusive confirmado pela Primeira Turma no julgamento do AgInt no AREsp 2.509.244/AL, ocorrido em 10/12/2024, oportunidade em que ressalvei o meu ponto de vista.
+4. Ademais, "a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por autoridade Certificadora credenciada" (AgInt no AREsp n. 1.691.485/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/10/2020, DJe de 21/10/2020).
+5. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Nos termos da Súmula 115 do STJ, "na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos".
+Ademais, "a jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)" (AgInt no AREsp n. 2.426.293/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+Esse entendimento foi inclusive confirmado pela Primeira Turma no julgamento do AgInt no AREsp n. 2.509.244/AL, ocorrido em 10/12/2024, oportunidade em que ressalvei o meu ponto de vista.
+No caso dos autos, como registrou a decisão agravada, a parte foi regularmente intimada para sanar o vício de representação processual, já que inexistente procuração ou a completa cadeia de substabelecimentos que conferisse poderes à Dra. Michele de Moraes Stampone, signatária do agravo e do recurso especial.
+Entretanto, o instrumento de mandato juntado à e-STJ fl. 536, datado de 2/5/2024, é posterior às interposições do recurso especial e do agravo em recurso especial, ocorridas em 17/8/2023 e 18/10/2023, respectivamente.
+Relativamente à hipótese, cito também os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO DE PODERES AO SUBSCRITOR DO AGRAVO EM RECURSO ESPECIAL. SUBSTABELECIMENTO POSTERIOR À INTERPOSIÇÃO DO APELO. SÚMULA N. 115 DO STJ. AGRAVO DESPROVIDO.
+1. Na hipótese de recurso interposto por advogado sem procuração nos autos, se a parte recorrente, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC de 2015.
+2. O instrumento de procuração e/ou substabelecimento juntado com data posterior à do protocolo do recurso não supre o vício relacionado à ausência de poderes.
+3. O disposto no art. 662 do Código Civil não justifica a regularização da representação processual na hipótese em que, à época da interposição do recurso especial, não havia instrumento procuratório com outorga de poderes ao advogado subscritor do recurso.
+4. "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (Súmula n. 115 do STJ).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.489.083/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU DE CADEIA COMPLETA DE SUBSTABELECIMENTO DE PODERES AO SUBSCRITOR DO RECURSO ESPECIAL. SUBSTABELECIMENTO POSTERIOR A INTERPOSIÇÃO DO APELO. SOCIEDADE DE ADVOGADOS. PERSONALIDADE JURÍDICA DIVERSA DOS SÓCIOS. SÚMULA N. 115 DO STJ. AGRAVO DESPROVIDO.
+1. Execução de título extrajudicial.
+2. Na hipótese de recurso interposto por advogado sem procuração nos autos, se a parte recorrente, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC.
+3. O instrumento de procuração e/ou substabelecimento juntado com data posterior à do protocolo do recurso não supre o vício relacionado à ausência de poderes.
+4. A personalidade jurídica da sociedade de advogados não se confunde com a dos sócios que a integram, revelando-se, portanto, necessária a representação em juízo por meio de advogado devidamente constituído.
+5. "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (Súmula n. 115 do STJ).
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.459.097/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADVOGADAS SUBSCRITORAS DO AGRAVO E DO RECURSO ESPECIAL SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL NÃO ATENDIDA.
+1. No caso dos autos, a parte agravante foi devidamente intimada para regularização da representação processual, todavia não apresentou a procuração outorgada às advogadas subscritoras dos recursos. Incidência da Súmula n. 115 do STJ mantida.
+2. A jurisprudência desta Corte perfilha entendimento no sentido de que, para suprir eventual vício de representação processual, não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.471.502/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO CONFERINDO PODERES AO SUBSCRITOR DO AGRAVO E DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA 115/STJ. DECISÃO MANUTENÇÃO DA PRESIDÊNCIA DESTA CORTE. AGRAVO DESPROVIDO.
+1. Interposto recurso por advogada sem procuração dos autos, dele não se pode conhecer, consoante o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC/2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado. Incidência do enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+2. A jurisprudência do Superior Tribunal de Justiça entende que, "para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso. Precedentes" (AgInt no AREsp 1.934.163/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/10/2021, DJe 04/11/2021).
+3. A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, porquanto a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento".
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.438.202/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Vale considerar, ainda, que "esta Corte já assentou o entendimento de que a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo, visto que o referido dispositivo é direcionado apenas à classe agravo de instrumento" (AgInt no AREsp n. 2.404.741/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+No tema:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NO PREENCHIMENTO DA GUIA DAS CUSTAS JUDICIAIS. AUSÊNCIA DE PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR OS VÍCIOS APONTADOS. NÃO ATENDIMENTO. INCIDÊNCIAS DAS SÚMULAS 115 E 187, AMBAS DO STJ. ART. 1.017, § 5º, DO CPC. INSTÂNCIA ESPECIAL. INAPLICABILIDADE.
+1. A jurisprudência desta Corte consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, consistente na indicação errônea do processo na origem, no ato da interposição do recurso especial, caracteriza a deserção.
+Precedentes: AgInt no REsp n. 2.012.596/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023; e AgInt no AREsp n. 2.213.717/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 20/4/2023.
+2. É assente nesta Corte o entendimento segundo o qual a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso interposto para as instâncias superiores, nos termos da Súmula 115/STJ.
+3. In casu, embora regularmente intimada para sanar os vícios apontados, a parte agravante quedou-se inerte. Assim, escorreita a decisão da Presidência do STJ que não conheceu do agravo em recurso especial, ante os óbices das Súmulas 115 e 187, ambas do STJ.
+4. A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, ante a impossibilidade de acesso aos autos eletrônicos originais, sendo específica da classe processual "agravo de instrumento".
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.416.826/MS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Registre-se, por oportuno, que o fato de constar o nome do outro causídico nas peças recursais não tem o condão de regularizar ou superar o óbice apontado na decisão agravada.
+Isso porque, segundo a orientação jurisprudencial desta Corte, "a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por autoridade Certificadora credenciada" (AgInt no AREsp n. 1.691.485/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/10/2020, DJe de 21/10/2020).
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO DE PODERES AO SUBSCRITOR DIGITAL DO RECURSO ESPECIAL. SÚMULA N. 115 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese de recurso interposto por advogado sem procuração nos autos, se a parte recorrente, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC de 2015.
+2. No sistema de peticionamento eletrônico, o advogado titular do certificado digital, que chancela eletronicamente o documento, deverá ter procuração nos autos, não tendo valor eventual assinatura digitalizada de outro advogado que venha a constar, fisicamente, da peça encaminhada e assinada eletronicamente, mesmo que este possua procuração nos autos.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.302.942/AC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+AGRAVO INTERNO. RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL. CADEIA COMPLETA. AUSÊNCIA. INTIMAÇÃO. ARTS. 76 E 932, PARÁGRAFO ÚNICO, DO CPC. DESATENDIMENTO. SUBSCRITOR DO RECURSO. ASSINATURA ELETRÔNICA. RESP NÃO CONHECIDO. INCIDÊNCIA DA SÚMULA N. 115/STJ. PRECEDENTES.
+1. Interposto o recurso impugnando decisão publicada na vigência do atual Código de Processo Civil, necessária a intimação da parte para regularizar o vício de representação processual, nos termos dos artigos 76 e 932, parágrafo único, do Código de Processo Civil.
+2. "O STJ possui orientação de que, por se tratar de mera inserção de imagem em documento, a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, e, por isso, não tem valor" (AgInt nos EAREsp n. 1.555.548/RJ, relator Ministro Herman Benjamin, Corte Especial, julgado em 2/8/2021, DJe de 16/8/2021).
+3. Deixando a parte transcorrer o prazo sem que a representação processual seja regularizada, é inexistente o recurso dirigido a esta Casa, nos termos do enunciado n. 115 da Súmula.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.033.696/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES FIRMADAS POR PROCURADOR SEM MANDATO NOS AUTOS. SÚMULA N. 115/STJ.
+1. A petição do agravo em recurso especial está subscrita eletronicamente por advogado que não tem mandato nos autos para representar a parte recorrente.
+2. Embora regularmente intimada para sanar o referido vício, quando da interposição do agravo em recurso especial, a parte agravante quedou-se inerte. Incidência da Súmula n. 115/STJ.
+3. "A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do AgRg na APn 675/GO, Relatora a Ministra NANCY ANDRIGHI (DJe de 12/12/2014), consolidou entendimento no sentido de que, sendo a assinatura eletrônica a única forma de identificação inequívoca do signatário da petição, ao se optar pela utilização do meio eletrônico de peticionamento, vincula-se o advogado - titular do certificado digital - ao documento chancelado. Ou seja, para efeitos processuais, o subscritor da peça assinada e enviada eletronicamente deverá ter procuração nos autos, não tendo valor eventual assinatura digitalizada de outro advogado, ou que venha a constar, fisicamente, da peça encaminhada e assinada eletronicamente, mesmo que este possua procuração nos autos" (AgRg no REsp n. 1.404.615/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 20/8/2015).
+Agravo interno não provido .
+(AgInt no AREsp n. 2.123.647/TO, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROCESSO ELETRÔNICO. AUSÊNCIA DE PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO CONFERINDO PODERES AO ADVOGADO RESPONSÁVEL PELA ASSINATURA DIGITAL DO RECURSO. INTIMAÇÃO PARA SANAR O VÍCIO NÃO ATENDIDA. IRREGULARIDADE DA REPRESENTAÇÃO PROCESSUAL. SÚMULA Nº 115/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo já consignado na decisão agravada, a agravante foi intimada para apresentar, no prazo legal de 5 (cinco) dias, procuração ou cadeia completa de substabelecimento conferindo poderes ao advogado subscritor do agravo e do recurso especial, Dr. Fernando Carlos Vieira, responsável pela assinatura digital destes recursos, conforme certidão juntada à e-STJ fl. 172, e publicada em 09/11/2021. Contudo, a intimação não foi atendida, restando configurada a irregularidade da representação processual, o que atrai a incidência da Súmula nº 115/STJ: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos."
+2. "A assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada" (AgInt no AREsp nº 1.691.485/PE, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 19/10/2020, DJe 21/10/2020).
+3. "O STJ possui orientação de que, por se tratar de mera inserção de imagem em documento, a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, e, por isso, não tem valor" (AgInt nos EAREsp nº 1.555.548/RJ, Rel. Ministro Herman Benjamin, Corte Especial, julgado em 02/08/2021, DJe 16/08/2021).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.003.663/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/5/2022, DJe de 5/5/2022.)
+PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. ASSINATURA DIGITALIZADA OU ESCANEADA. INADMISSIBILIDADE. VÍCIO NÃO SANADO APÓS INTIMAÇÃO. INVIABILIDADE. PRECEDENTES.
+1. "O STJ possui orientação de que, por se tratar de mera inserção de imagem em documento, a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, e, por isso, não tem valor. (AgInt nos EAREsp 1.55.5548/RJ, Rel. Min. Herman Benjamin, Corte Especial, DJe 16/8/2021)".
+2. Conforme preceitua oartigo 76, § 2º, I, do CPC/15, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/15), não regulariza o vício da representação processual.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.765.139/BA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/9/2021, DJe de 22/9/2021.)
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
