@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. ALEGAÇÃO DE IMPENHORABILIDADE. REEXAME. VEDAÇÃO DA SÚMULA 7 DO STJ.
+1. Inexiste violação do art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+2. No caso, o exame da eventual impenhorabilidade dos bens demandaria ultrapassar o quadro fático delineado nas instâncias ordinárias, providência vedada pela Súmula 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ITACIR PICCININ LTDA. mediante o qual se impugna decisão de minha lavra, constante às e-STJ fls. 134/136, em que conheci de seu agravo para conhecer em parte de seu recurso especial e, nessa extensão, negar-lhe provimento, com base na inocorrência de omissão no julgado e na vedação da Súmula 7/STJ.
+Em sua petição de agravo, a parte assevera que (e-STJ fls. 146/149):
+1. Conforme referido acima, diante da decisão proferida em sede de agravo de instrumento, a agravante opôs embargos de declaração, requerendo a manifestação expressa do Tribunal Regional Federal da 4ª Região sobre o art. 833, inciso V, art. 805 e art. 489, incisos II, III e IV, todos do Código de Processo Civil.
+2.2. Além disso, requereu a manifestação do Tribunal de origem sobre o fato de ser uma microempresa. Isso porque, na decisão proferida em agravo de instrumento, o TRF4 assinalou expressamente que a proteção contida no art. 833, inciso V, do CPC, aplica-se "às microempresas e empresas de pequeno porte", mas deixou de considerar que a ora Agravante é uma microempresa e, portanto, o dispositivo em questão aplica-se ao caso em tela, em que pese esse argumento tenha sido apresentado pela parte.
+2.3. Dessa forma, pode se dizer que o Tribunal de origem, ao ser instado em sede de Embargos de Declaração sobre o caso concreto se amoldar especificamente à hipótese contida no art. 833, inciso V, do CPC, simplesmente entendeu por ignorar esse ponto, mantendo o entendimento proferido em agravo de instrumento.
+(..)
+2.5. No caso dos autos, a supressão da omissão apontada é capaz de alterar a conclusão do julgamento, reconhecendo-se a impenhorabilidade dos veículos da ora agravante, porquanto indispensáveis para a manutenção da atividade empresarial, já que se trata de uma microempresa revendedora de veículos.
+2.6. Portanto, nota-se que, no julgamento dos embargos, foi proferido entendimento superficial sobre uma suposta tentativa de reanálise da causa, quando, na verdade, tais pontos eram essenciais para a correta execução do acordão proferido. Com efeito, o desacolhimento dos Embargos de Declaração opostos, na forma em que se apresentou, evidencia significativa negativa de vigência dos artigos 489, §1º, incisos IV e V e 1.022, inciso II, do Código de Processo Civil, configurando uma verdadeira NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+(..)
+3.1. Em segundo lugar, percebe-se que o r. ministro deste Tribunal negou provimento ao recurso especial sob o argumento de que para reformar o acórdão proferido em sede de agravo de instrumento seria necessária a reanálise do conjunto probatório, vedado em sede de recurso especial por força da SÚMULA 07/STJ.
+3.2. Contudo, o recurso especial tomou por base as próprias afirmações contidas no acórdão recorrido, estando pautado em FATOS INCONTROVERSOS, não havendo que se falar em reexame de matéria fática.
+(..)
+3.5. Pois bem. No caso dos autos, a irresignação da agravante se dá porque o Tribunal Regional Federal da 4ª Região manteve a penhora que recaiu sobre os veículos de sua propriedade. Ao proceder dessa forma, no entanto, o juízo acabou por violar o disposto no art. 833, inciso V, do CPC, o qual determina que são impenhoráveis os bens móveis necessários ou úteis ao exercício da profissão do executado. Isso se verifica porque (i) a agravante é uma MICROEMPRESA, (ii) que tem o objeto social voltado para o comércio a varejo de motocicletas, motonetas, automóveis, camionetas e utilitários novos e usados.
+3.6. Com efeito, esses dois fatos que justificam o direito da agravante são incontroversos nos autos, na medida em que são perfeitamente alcançáveis por meio da leitura do inteiro teor da decisão proferida pelo Tribunal Regional Federal da 4ª Região, conforme se observa: (..).
+Sem impugnação (certidão à e-STJ fl. 158).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. ALEGAÇÃO DE IMPENHORABILIDADE. REEXAME. VEDAÇÃO DA SÚMULA 7 DO STJ.
+1. Inexiste violação do art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+2. No caso, o exame da eventual impenhorabilidade dos bens demandaria ultrapassar o quadro fático delineado nas instâncias ordinárias, providência vedada pela Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Na decisão agravada, conheci de agravo para conhecer em parte e, nessa parte, negar provimento, a recurso especial manejado contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 36):
+TRIBUTÁRIO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE. ART. 833, INC. V DO CPC. NÃO CABIMENTO.
+1. Conforme o inc. V, do Art. 833 do CPC, são impenhoráveis: os livros, as máquinas, as ferramentas, os utensílios, os instrumentos ou outros bens móveis necessários ou úteis ao exercício da profissão do executado.
+2. No caso dos autos, a parte agravante não se enquadra nas hipóteses do citado artigo, já que a impenhorabilidade não restou cabalmente demonstrada.
+3. Ausentes novos elementos a alterar o entendimento adotado, resta mantida a decisão que analisou o pedido de efeito suspensivo.
+Pois bem.
+A controvérsia recursal de fundo consiste em saber se, no caso dos autos, os automóveis objeto de penhora, de propriedade da ora agravante, seriam, ou não, impenhoráveis, nos termos da lei civil.
+Não há omissão nem falta de fundamentação no julgado.
+Ao negar a impenhorabilidade dos bens em comento, assim se manifestou, de forma clara, completa e coerente, o Tribunal de origem (e-STJ fl. 34):
+O princípio da menor onerosidade não é absoluto, devendo ser ponderado com o da máxima efetividade da execução, assegurando-se, a um só tempo, a subsistência do executado e a satisfação do crédito. Neste contexto, a circunstância justificadora da proteção e sua configuração ao caso devem ser satisfatoriamente demonstradas, sendo a penhorabilidade a regra, devendo ser adotada interpretação cautelosa das exceções legais.
+Em relação à impenhorabilidade dos instrumentos de trabalho (art. 833, inc. V, do CPC), deve ser demonstrado que o bem objeto da constrição se enquadra na exceção, caracterizada por sua imprescindibilidade e necessidade ou utilidade para o exercício profissional. O devedor precisa esclarecer e provar que a ausência do bem para o qual invoca a proteção comprometeria significativamente a atividade laboral, inviabilizando a subsistência pessoal ou familiar do devedor.
+Tratando-se de veículo automotor, a impenhorabilidade é assegurada quando se trata de ferramenta do trabalho, a exemplo dos motoristas profissionais, ou, pelo menos, como útil ao desempenho laboral. Ademais, a proteção poderá se estender às microempresas e empresas de pequeno porte (precedente: TRF4, AG 5049035-93.2017.4.04.0000, 4ª Turma, Rel. LUÍS ALBERTO D"AZEVEDO AURVALLE, juntado aos autos em 23/11/2017).
+No caso dos autos, a parte agravante não se enquadra nas hipóteses do citado artigo, já que a impenhorabilidade não restou cabalmente demonstrada.
+Conforme asseverado na decisão agravada, mostra-se impossível rever esse juízo exarado pela Corte a quo no sentido da insuficiência de elementos de prova nos autos a atestarem que os automóveis em tela constituiriam ferramenta de trabalho ou, ainda, que seriam úteis ao desempenho laboral da ora agravante, pois demandaria ultrapassar o quadro fático desenhado nas instâncias ordinárias, providência vedada pela Súmula 7/STJ.
+Nesse diapasão:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. EXECUÇÃO FISCAL. DEPÓSITO EM DINHEIRO. ORDEM LEGAL DE PREEFERÊNCIA. OBSERVÂNCIA. EXCEPCIONALIDADE. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Configura-se a preclusão consumativa quando a parte deixa de suscitar a matéria no momento adequado, sendo certo que, no caso dos autos, a contribuinte deixou de recorrer da decisão, em embargos à execução, que não conheceu do recurso e homologou a desistência da apelação, apresentando sua irresignação referente à fixação da verba honorária tão somente em momento posterior.
+2. Em julgamento do Recurso Especial 1.337.790/PR, submetido ao rito do art. 543-C do CPC/1973, a Primeira Seção desta Corte de Justiça sedimentou o entendimento de que a parte executada deve nomear bens à penhora com a observância da ordem legal de preferência estabelecida no art. 11 da Lei n. 6.830/1980, a qual, por força do princípio da menor onerosidade, só poderá ser mitigada mediante comprovada necessidade.
+3. A penhora de ativos financeiros, que corresponde a penhora em dinheiro (REsp repetitivo 1.112.943/MA), por si só, não revela a excessiva onerosidade, competindo ao devedor o ônus de comprovar, no caso concreto, que a indisponibilidade dos recursos financeiros põe em risco a sua subsistência e indicar outras garantias igualmente eficazes para a satisfação do crédito.
+4. O Tribunal de origem concluiu que a recorrente não demonstrou a excepcionalidade que autoriza a impenhorabilidade dos valores depositados na conta corrente das executadas e que, para decidir de forma diversa, seria essencial a incursão no quadro fático-probatório dos autos, o que atrai a aplicação da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no REsp 2.121.137/RJ, de minha relatoria, PRIMEIRA TURMA, julgado em 21/10/2024, DJe 28/10/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DO ARTS. 489 E 1022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. AUSÊNCIA DE PROVAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. No caso dos autos, o Tribunal de origem concluiu pela ausência de comprovação de que o imóvel era impenhorável nos termos da Lei 8.009/1990. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência no caso em questão a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 2.030.272/PE, Rel. Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 04/03/2024, DJe 07/03/2024).
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
