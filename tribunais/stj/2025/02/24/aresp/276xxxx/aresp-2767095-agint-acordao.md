@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 186):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. EXIGÊNCIA DOS ARTIGOS 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RI/STJ (REDAÇÃO DADA PELA EMENDA REGIMENTAL N. 22, 2016). AGRAVO NÃO CONHECIDO.
+O agravante sustenta que diversamente do que se firmou na decisão agravada, "não só citou a ementa dos acórdãos que configuraram o dissídio jurisprudencial, como também fez o cotejo analítico entre os trechos do acórdão recorrido e os trechos do acórdão paradigma, destacando ainda cata um dos seus trechos, de modo a demonstrar a similitude da matéria de direito." (fl. 195).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+No caso, o Presidente da Seção de Direito Público do TJ-SP inadmitiu o recurso especial por entender que a alegada divergência jurisprudencial, indicada nas razões do apelo excepcional, nos termos da alínea "c" do permissivo constitucional, deixou de atender os requisitos previstos nos arts. 1.029, § 1º, do Código de Processo Civil, e 255, § 1º, do RISTJ, acrescentando, ainda, que o acórdão recorrido está de acordo com os seguintes julgados: AgRg no REsp no 1.512.655/MG, Rel. Min. Assusete Magalhães, DJe de 04/09/2015, bem como os AgInt nos EDcl no AREsp 1.095.391/SP Rel. Min. Assusete Magalhães, DJe de 28/05/2019; AgInt nos EDcl nos EDcl nos EDcl no AREsp 1.535.106/RJ, Rel. Min. Moura Ribeiro, DJe de 23/04/2020.
+O agravante, por sua vez, sustenta que, ao contrário do consignado na decisão agravada, impugnou de forma específica a decisão de inadmissão do recurso especial, indicando para tanto apenas a seguinte argumentação (fl. 158):
+ ..
+O art. 105, III, "c", da CRFB preconiza o cabimento de recurso especial para o STJ quando acórdãos dos tribunais derem a lei federal interpretação divergente da que lhe haja atribuído outro.
+No entanto, o recurso especial foi inadmitido, porque "deixou o recorrente de atender suficientemente ao requisito previsto no art. 1.029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ".
+Nada mais equivocado.
+No recurso especial, o recorrente não só citou a ementa dos acórdãos que configuraram o dissídio jurisprudencial, como também fez o cotejo analítico entre os trechos do acórdão recorrido e os trechos do acórdão paradigma, destacando ainda cata um dos seus trechos, de modo a demonstrar a similitude da matéria de direito.
+Na tabela, grifou-se cada um dos trechos desses acórdãos.
+Isso tudo foi feito às fls. 112/114 dos autos judiciais eletrônicos.
+Perfeitamente cabível, portanto, o recurso especial com fundamento no art. 105, III, "c", da CRFB.
+Ocorre que esta Corte firmou seu entendimento no sentido de que a interposição do recurso especial pela alínea "c" do permissivo constitucional está sujeita aos requisitos previsto no art. 1.029, § 1º, do CPC/2015 e no art. 255, § 1º, do RISTJ, considerando-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da ci tação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais" (AgInt no REsp 1.763.014/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/12/2018).
+Contudo, ao contrário do que defende a parte agravante, não houve a demonstração das circunstâncias que identificam ou assemelham os casos confrontados, bem como a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma, o que impede o conhecimento do recurso pelo dissídio. Nesse sentido: REsp 1.751.504/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/11/2019; AgInt no REsp 1.451.153/CE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 1/4/2019; AgInt no AREsp 1.559.920/SE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 22/10/2020.
+Assim, evidencia-se que a parte agravante, de fato, não impugnou o fundamento da decisão de inadmissão do recurso especial, descumprindo, assim, ao comando do artigo 932, III, do CPC/2015. Dessa forma, correta, portanto, a decisão agravada que não conheceu do agravo em recurso especial, por ausência de impugnação específica aos fundamentos de inadmissibilidade do recurso especial.
+Por fim, cabe ainda registrar que a impugnação específica aos fundamentos da decisão de inadmissão do recurso especial feita somente em sede de agravo interno, não deve ser considerada, porque, além de preclusa a oportunidade, caracteriza indevida inovação recursal.
+Neste sentido: AgInt no AREsp 1.269.651/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 14/12/2018; AgInt no AREsp 1.160.531/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/03/2019; AgInt no AREsp 1.542.694/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 15/05/2020; e AgInt nos EDcl no AREsp 1.844.217/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 17/02/2022.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
