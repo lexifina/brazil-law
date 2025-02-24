@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO DE CONCESSÃO. DESCUMPRIMENTO DE OBRIGAÇÃO. MULTA ADMINISTRATIVA. REEXAME FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. INVIABILIDADE.
+1. Não se configura ofensa aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. No caso, o Tribunal de origem decidiu integralmente a controvérsia, concluindo pelo descumprimento de obrigação contratual e pela adequação da tipificação e da penalidade imposta.
+3. Rever a conclusão firmada no acórdão recorrido impõe o reexame do acervo probatório e nova interpretação das cláusulas contratuais, providências sabidamente vedadas no âmbito do apelo nobre em face do teor das Súmulas 7 e 5 do STJ, respectivamente.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONCESSIONÁRIA AUTO RAPOSO TAVARES S.A. para desafiar decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, por não reconhecer a nulidade do julgado recorrido por negativa de prestação jurisdicional e pela incidência das Súmulas 5 e 7 do STJ.
+Em suas razões, a parte agravante reitera a existência de negativa de prestação jurisdicional e alega que a questão não é de reanálise de conteúdo fático-probatório, tampouco de cláusulas contratuais.
+Requer, ao final, seja conhecido e provido o recurso.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO DE CONCESSÃO. DESCUMPRIMENTO DE OBRIGAÇÃO. MULTA ADMINISTRATIVA. REEXAME FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. INVIABILIDADE.
+1. Não se configura ofensa aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. No caso, o Tribunal de origem decidiu integralmente a controvérsia, concluindo pelo descumprimento de obrigação contratual e pela adequação da tipificação e da penalidade imposta.
+3. Rever a conclusão firmada no acórdão recorrido impõe o reexame do acervo probatório e nova interpretação das cláusulas contratuais, providências sabidamente vedadas no âmbito do apelo nobre em face do teor das Súmulas 7 e 5 do STJ, respectivamente.
+4. Agravo interno desprovido.
+VOTO
+Observa-se que a decisão recorrida não merece reparos.
+No caso, o Tribunal de origem dirimiu a controvérsia pelos seguintes fundamentos (e-STJ fls. 613/619):
+Irradia-se a pena de multa da notificação nº NOT.DIN.0655/20, relativa a violação dos padrões de conservação de rotina estipulados no Contrato de Concessão nº 2/2019, observada entre os km 385 e 389 da Rodovia SP-270, a configurar a infração prevista no Anexo 11, cláusula "4.2", item "10.1", por descumprimento do item "c.1" da cláusula 2.3 do Anexo 6 do respectivo edital (f. 88).
+Consiste a conduta em Não executar limpeza geral nos termos e prazos estabelecidos em contrato, atinente à Drenagem Superficial de Plataforma, classificada sob Grupo I, Nível E, cuja incidência se dá por infração (f. 345).
+Os padrões para o serviço são definidos na le tra "c" do item 2.3 do Anexo 11, referente a Descrição e Padrões para os Programas para conservação de rotina (f. 367): (..).
+De seu turno, o item 2.4.3 impõe à concessionária elaborar programação anual e mensal para os serviços de conservação/manutenção de rotina, as quais deverão obedecer ao mesmo critério programático utilizado no "Relatório Mensal dos Serviços de Conservação/Manutenção de Rotina", vinculando a execução ao cronograma ali estabelecido (f. 382).
+Pois bem.
+Fez-se acompanhar a notificação por relatórios de fiscalização contendo registros fotográficos realizados nos dias 25 de agosto e 1º de setembro de 2020, além de cópia da Programação Mensal de Serviços de Conservação, segundo a qual era prevista a realização da limpeza dos dispositivos de drenagem superficial de plataforma no mês de agosto daquele ano (f. 88/90).
+As fotografias de f. 89 retratam o acúmulo de vegetação enraizada, que despontava na superfície das calhas de escoamento, não se tratando, pois, de simples "área pavimentada", mas parte integrante do sistema de drenagem da rodovia.
+Dessarte, subsume-se a conduta à norma indicada pela ARTESP, justamente em razão do princípio da especialidade, pois a existência de norma mais específica deve prevalecer sobre a infração mais genérica sugerida pela apelante, prevista no item 4.2, subitem 5, ligada à varredura de áreas pavimentadas sujeitas a deposição de detritos (f. 564).
+Ademais, o acúmulo de tal material sobre o solo não ocorreria de forma repentina, permitindo-se concluir que o serviço de limpeza já não era realizado havia algum tempo. Por consequência, não resta dúvida quanto ao descumprimento do prazo estipulado para a limpeza periódica do dispositivo de drenagem ao final do mês de agosto, de acordo com o programa elaborado pela própria concessionária.
+Não se deduz a necessidade de prévia notificação a partir do art. 3º da Portaria nº 16/2021, segundo o qual A ARTESP, excepcionalmente durante a vigência deste Regime Especial de Fiscalização, passa a informar as concessionárias sobre as "não conformidades" constatadas pela fiscalização, atinentes à conservação de rotina, por correspondência eletrônica, contando-se o prazo contratual para resolução a partir da data do envio da comunicação.
+Com efeito, o contrato de concessão não prevê prazo para resolução de não- conformidades na hipótese, de modo que a inexecução dos serviços de conservação de rotina estaria caracterizada com o transcurso dos respectivos prazos, previamente estabelecidos no instrumento.
+Mas a apelante despreza o artigo seguinte, segundo o qual as obrigações cuja execução deve continuar sendo realizada normalmente, dentre as quais encontram-se todos os serviços de conservação de rotina, incluindo os serviços acidentais e programáveis (..) (art. 4º, inc. I).
+ ..
+Conclui-se estar a infração suficientemente delineada com os elementos fornecidos, uma vez descumprida a obrigação no termo previamente estabelecido entre as partes, caracterizando hipótese expressa de responsabilização da concessionária.
+Malgrado se possa cogitar do afastamento da cominação em casos de força maior ou de fortuito, nos termos dos itens 2.2 e 2.3 do Anexo 11 (f. 324), não basta apenas alegar sua ocorrência em termos genéricos, competindo à concessionária demonstrar que a regular execução dos serviços foi efetivamente impedida pela crise sanitária.
+Não se presta ao desiderato a correspondência reproduzida a f. 570, dando conta do afastamento temporário de funcionários de empresa contratada pela apelante, apresentada tão somente a título exemplificativo, em suas próprias palavras, sem cogitar da existência de nexo causal com a infração contratual discutida nestes autos.
+Pois bem.
+C onforme consignado na decisão agravada, não merece acolhimento a pretensão de nulidade do julgado por negativa de prestação jurisdicional, porquanto, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Nos termos da pacífica jurisprudência desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Além disso, a questão foi dirimida com base na realidade que se delineou à luz do suporte fático-probatório constante dos autos, bem como dos termos e cláusulas contratuais.
+Nesse cenário, induvidoso que discordar daquelas conclusões impõe o reexame do acervo probatório e nova interpretação das cláusulas contratuais, providências sabidamente vedadas no âmbito do apelo nobre em face do teor das Súmulas 5 e 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. ACÓRDÃO BASEADO NA INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO DE CONCESSÃO E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ.
+1. A Corte de origem concluiu que, "consoante previsão no edital acima transcrito, não se mostra necessária qualquer notificação pelo órgão fiscalizatório acerca do descumprimento contratual, sendo suficiente para caracterizar a infração o inadimplemento da obrigação contratual, após o lapso de vinte e quatro horas da verificação pela própria concessionária da existência do buraco/panela". Consignou que o início da contagem do prazo não depende de notificação da concedente, por ser obrigação da contratada proceder à manutenção frequente das rodovias que administra e que, comprovando-se a existência de três buracos em 3.7.2017, tendo-se efetuado o conserto somente em 26.7.2017, deve ser mantida a penalidade de multa e o valor total arbitrado, porquanto cada buraco representa uma infração, conforme Anexo 1 do Termo Aditivo e Modificativo Coletivo n. 2006/2001.
+2. Para modificar as conclusões do Tribunal de origem quanto à necessidade de notificação da concessionária para o início da contagem do prazo de reparo, imprescindível proceder ao reexame do Edital de Licitação, do Termo Aditivo e Modificativo do Contrato, e do conjunto fático-probatório, o que é vedado neste momento processual, ante os óbices contidos nas Súmulas 5 e 7/STJ.
+3. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp n. 1.831.325/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/2/2022, DJe de 15/3/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. OFENSA À RESOLUÇÃO DA ANTT N. 442/04. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 518/STJ. CONCESSÃO DE BEM PÚBLICO. MANUTENÇÃO DA MULTA ADMINISTRATIVA. REVISÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULAS N. 05 E 07/STJ. INCIDÊNCIA.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência, por analogia, da Súmula n. 518 do Superior Tribunal de Justiça.
+III - In casu, rever o entendimento do Tribunal de origem, no sentido de afastar a multa administrativa, demandaria interpretação de cláusula contratual e revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 05 e 07/STJ.
+IV - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental desprovido.
+(AgRg no REsp n. 1.555.605/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/12/2015, DJe de 4/2/2016.)
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
