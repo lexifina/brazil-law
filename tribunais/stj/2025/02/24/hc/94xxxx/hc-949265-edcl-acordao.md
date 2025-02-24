@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. CONTRADIÇÃO. NÃO OCORRÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. MERA IRRESIGNAÇÃO COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão impugnada, objetivam nova apreciação do caso.
+2. In casu, o acórdão embargado consignou expressamente que a Corte estadual não apreciou o pedido de reconhecimento da ilegalidade da busca domiciliar sob o enfoque pretendido pela defesa, diante do manejo inadequado do remédio constitucional para apreciação de teses que deveriam ser apresentadas pela via recursal ordinária (apelação criminal).
+3. O julgado assentou que embora fosse possível a análise, em habeas corpus, da matéria lá aventada e aqui reiterada, mostram-se corretas as ponderações feitas pela Corte de origem de que a apreciação dessa questão implica considerações que, em razão da sua amplitude, merecem ser mais bem examinadas em apelação.
+4. Concluiu que tratando-se de remédio constitucional que busca revisão do contexto fático em que ocorreu a prisão do acusado e considerando que tal tese não foi sequer apreciada pelo Tribunal de origem, a sua análise fica obstada por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+5. Esta Turma examinou os argumentos da parte e expôs, com transparência, as razões que fu ndamentaram o não provimento do regimental, a fim de viabilizar a fácil compreensão dos motivos que lastrearam as conclusões do Colegiado.
+6. É inviável que esta Corte examine supostas violações de dispositivos constitucionais, mesmo que para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+7 . Embargos de declaração rejeitados.
+RELATÓRIO
+WILI VENANCIO opõe embargos de declaração contra o acórdão de fls. 114-117, em que esta Sexta Turma negou provimento ao agravo regimental.
+O embargante sustenta que houve contradição no decisum, pois este "reconheceu que a tese de ilegalidade da busca domiciliar é passível de análise em sede de habeas corpus, mas, ao mesmo tempo, negou-se a apreciá-la" (fl. 123).
+Afirma que tal contradição "é ainda mais grave por violar o art. 5º, inciso XXXV, da Constituição Federal, que assegura que a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito" (fl. 123).
+Requer o acolhimento dos embargos de declaração, com efeitos infringentes, a fim de que sejam sanados os vícios apontados.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. CONTRADIÇÃO. NÃO OCORRÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. MERA IRRESIGNAÇÃO COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão impugnada, objetivam nova apreciação do caso.
+2. In casu, o acórdão embargado consignou expressamente que a Corte estadual não apreciou o pedido de reconhecimento da ilegalidade da busca domiciliar sob o enfoque pretendido pela defesa, diante do manejo inadequado do remédio constitucional para apreciação de teses que deveriam ser apresentadas pela via recursal ordinária (apelação criminal).
+3. O julgado assentou que embora fosse possível a análise, em habeas corpus, da matéria lá aventada e aqui reiterada, mostram-se corretas as ponderações feitas pela Corte de origem de que a apreciação dessa questão implica considerações que, em razão da sua amplitude, merecem ser mais bem examinadas em apelação.
+4. Concluiu que tratando-se de remédio constitucional que busca revisão do contexto fático em que ocorreu a prisão do acusado e considerando que tal tese não foi sequer apreciada pelo Tribunal de origem, a sua análise fica obstada por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+5. Esta Turma examinou os argumentos da parte e expôs, com transparência, as razões que fu ndamentaram o não provimento do regimental, a fim de viabilizar a fácil compreensão dos motivos que lastrearam as conclusões do Colegiado.
+6. É inviável que esta Corte examine supostas violações de dispositivos constitucionais, mesmo que para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+7 . Embargos de declaração rejeitados.
+VOTO
+Conforme o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Sob essas premissas, constato que, no caso em análise, o acórdão não incorreu em nenhuma omissão, obscuridade, contradição ou ambiguidade que justifique estes embargos de declaração.
+O julgado embargado consignou expressamente que "a Corte estadual não apreciou o pedido de reconhecimento da ilegalidade da busca domiciliar sob o enfoque pretendido pela defesa, diante do manejo inadequado do remédio constitucional para apreciação de teses que deveriam ser apresentadas pela via recursal ordinária (apelação criminal)" (fl. 116).
+Assentou que "embora fosse possível a análise, em habeas corpus, da matéria lá aventada e aqui reiterada, mostram-se corretas as ponderações feitas pela Corte de origem de que a apreciação dessa questão implica considerações que, em razão da sua amplitude, merecem ser mais bem examinadas em apelação" (fl. 117).
+Concluiu que "tratando-se de remédio constitucional que busca revisão do contexto fático em que ocorreu a prisão do acusado e considerando que tal tese não foi sequer apreciada pelo Tribunal de origem, a sua análise fica obstada por esta Corte Superior, sob pena de atuar em indevida supressão de instância" (fl. 117).
+Ao que se vê, esta Turma examinou os argumentos da parte e expôs, com transparência, as razões que fundamentaram o não provimento do regimental, a fim de viabilizar a fácil compreensão dos motivos que lastrearam as conclusões do Colegiado.
+Em verdade, a irresignação do embargante se resume ao mero inconformismo com o resultado do julgamento. No entanto, aos ditames da orientação deste Tribunal Superior, os embargos de declaração são incabíveis para tal propósito.
+Por fim, não compete a esta Corte Superior o exame de supostas violações de dispositivos constitucionais, nem sequer para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+À vista do exposto, rejeito os embargos de declaração.
