@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JOÃO GONÇALVES DE SOUZA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+PRELIMINAR. INTEMPESTIVIDADE. NÃO OCORRÊNCIA. INTERPOSIÇÃO ANTERIOR DE EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO DO PRAZO RECURSAL. APLICAÇÃO DO ART. 1.026 DO CPC. APELAÇÃO CÍVEL TEMPESTIVA. REJEIÇÃO. A INTERPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, COMO SE SABE. INTERROMPE O PRAZO RECURSAL. RENOVANDO O PRAZO LEGAL PARA O MANEJO DE APELAÇÃO CÍVEL, CONFORME DISPÕE O ART. 1.026 DO CPC. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. ALEGAÇÃO DE NULIDADE DE PROCESSO ADMINISTRATIVO DE EXCLUSÃO DE POLICIAL MILITAR. MATÉRIA JÁ APRECIADA EM SEDE DE MANDADO DE SEGURANÇA. OCORRÊNCIA DE COISA JULGADA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ACERTO DA DECISÃO RECORRIDA. DESPROVIMENTO.
+Quanto à primeira controvérsia, a parte recorrente aduz ofensa ao art. 1. 022 do Código de Processo Civil, no que concerne à ocorrência de negativa de prestação jurisdicional.
+Quanto à segunda controvérsia, a parte recorrente aduz ofensa ao art. 337, § 4º, do Código de Processo Civil, no que concerne à não ocorrência da coisa julgada, trazendo a seguinte argumentação:
+A parte Recorrente tem por objetivo a demonstração da violação do art. 337, §4º, do CPC.
+Segundo se observa da leitura do dispositivo, entende-se por coisa julgada o seguinte:
+Art. 337. Incumbe ao réu, antes de discutir o mérito, alegar:
+ ..
+§ 4º Há coisa julgada quando se repete ação que já foi decidida por decisão transitada em julgado.
+ ..
+Para configurar a coisa julgada, portanto, necessário a repetição de ação já decidida por decisão transitada em julgado. E o que vem a ser "ação repetida"  Uma possível resposta a esta pergunta está no § 2º do mesmo dispositivo do art. 337 do CPC, isto é, ação repetida é aquela que "possui as mesmas partes, a mesma causa de pedir e o mesmo pedido".
+Esta repetição, portanto, é absoluta. A dizer, para configurar a coisa julgada, no sentido de repetição de ação já decidida por decisão transitado em julgado, é necessário que todos os elementos da demanda (partes, causa de pedir e pedido) sejam efetivamente repetidos.
+Se não houver esta repetição integral, não haverá coisa julgada.
+Sobre isto, o Superior Tribunal de Justiça tem entendimento pacificado:
+ ..
+Não há dúvidas sobre o conteúdo do art. 337, §4º, do CPC.
+À vista disto, tem-se que o acórdão do tribunal de justiça violou o disposto no dispositivo de lei federal assinalado, pois disse que o acórdão que decidiu o mandado de segurança obstou, pela coisa julgada, a ação ora em julgamento:
+ ..
+Mas as duas ações não são repetidas. A uma, não têm as mesmas partes (no mandado de segurança, o comandante geral é o polo passivo; na presente ação, o Estado da Paraíba é o polo passivo); a duas, não têm a mesma causa de pedir (no mandado de segurança, a causa de pedir era o ato de exclusão ante a pendência de recurso administrativo a ser apreciado; na presente ação, a causa de pedir é a omissão do Governador em não decidir o recurso administrativo); e a três, não têm o mesmo pedido (no mandado de segurança, pediu-se a nulidade do ato coator; na presente ação, pediu-se a nulidade do processo e a condenação da parte Recorrida em indenização pelos danos morais sofridos).
+É inegável, portanto, a violação do tribunal local ao art. 337, §4º, do CPC.
+Seja como for, a confusão criada no acórdão foi objeto de embargos de declaração, conforme já narrado. Mas, a despeito do suscitado, o tribunal permaneceu no erro, porque fixou-se na ideia da coisa julgada. E por isto incorre na violação do art. 1.022 do CPC.
+Fala-se assim pelo fato de ter a própria sentença do juízo de primeiro grau, embora tenha arguido a coisa julgada, especificado que a causa de pedir era a "inércia por parte do Estado em apreciar seu recurso administrativo, o que teria causado prejuízo ao seu direito a um devido processo legal".
+Mas o tribunal local, mesmo ante tais evidências, acomodou-se à tese da coisa julgada, violando, como visto, o art. 337, §4º, do CPC e, pela omissão, o art. 1.022 do CPC. Eis as razões para reforma do julgado (fls. 1.103-1.106).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, incide o óbice da Súmula n. 284/STF, tendo em vista que a parte recorrente aponta ofensa ao art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19.12.2019.)
+Confira-se também os seguintes julgados: AgInt no AREsp n. 2.017.243/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 2.6.2022; AgInt no AREsp n. 1.721.970/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 30.3.2022; AgInt no AREsp n. 1.766.826/RS, Rel. Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, DJe de 30.4.2021; AgInt no AREsp n. 1.559.920/SE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 22.10.2020.
+Quanto à segunda controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Partindo para o mérito, como já mencionado, o Magistrado singular extinguiu o processo sem resolução do mérito, reconhecendo a coisa julgada.
+Ora, revendo o Acórdão proferido pelo Pleno do Tribunal de Justiça da Paraíba no Mandado de Segurança nº 999.2009.000.742-1/001 (0905372-96.2009.815.0000) (Id. 13751136 pg. 41-43), constato que foi reconhecida a legalidade do processo administrativo que culminou na exclusão do Autor das fileiras da Polícia Militar.
+Naquela ocasião, foi definido, por unanimidade dos integrantes do Pleno do TJPB, que não houve irregularidades no processo administrativo de exclusão do Autor/Apelante, consignando-se, ainda, que o ato expulsório não dependia de análise de eventual recurso administrativo dirigido ao Governador do Estado da Paraíba em face da ausência de efeito suspensivo.
+Sendo assim, transitado em julgado o Acórdão exarado no aludido Mandado de Segurança, já não se pode mais, aqui, discutir a legalidade da referida exclusão, mormente, quando se renovou a mesma discussão acrescendo-se, tão somente, o pleito indenizatório por danos morais.
+Ressalto que apesar de haver constado no Acórdão o registro de que caberia o ingresso de medida contra eventual omissão do Governador do Estado da Paraíba, tal conduta não foi tomada pelo Autor na presente Ação, pois, efetivamente, repetiu sua insurgência contra o ato do Comandante Geral da Polícia, tanto é verdade que ingressou com Ação apontando como Promovido o Estado da Paraíba e não a autoridade supostamente omissa em apreciar o Recurso Administrativo tido como pendente.
+A esse respeito, veja-se trecho da petição inicial:
+"Sabe-se que a decisão do Comandante Geral, ordenando a exclusão da parte Promovente da corporação da Polícia Militar, não considerou a inexistência de julgamento ou de trânsito em julgado nos processos administrativos disciplinares que ensejaram o Conselho de Disciplina, bem como o Recurso contra a solução do Conselho de Disciplina, sendo claro o ferimento aos preceitos constitucionais do contraditório e da ampla defesa insculpidos no art. 5º, LV da CF/88".
+Logo, há de se reconhecer a coisa julgada, mantendo a Sentença e, pelo mesmo motivo, afasta-se o pleito indenizatório, tendo em vista que não houve irregularidade na exclusão do Policial Militar, conforme definido no supracitado Mandado de Segurança nº 999.2009.000.742-1/001 (0905372-96.2009.815.0000) (fls. 1.063-1.064).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto a pretensão recursal consiste na revisão da premissa fática assentada no acórdão recorrido quanto à presença ou ausência de identidade das partes, do pedido e da causa de pedir entre as demandas, para efeito de incidência do pressuposto processual negativo da coisa julgada.
+A jurisprudência do STJ firmou-se no sentido de que, "em sede de recurso especial, não se admite o reexame dos elementos do processo a fim de se apurar a alegada afronta à coisa julgada, em face da incidência da Súmula 7/STJ". (AgInt no AREsp 784.774/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 13.4.2018.)
+Confiram-se ainda os seguintes julgados: REsp 1.814.142/PR, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 15.6.2020; EDcl no REsp 1.776.656/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 9.6.2020; AgInt no REsp 1.629.962/AM, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 25.5.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
