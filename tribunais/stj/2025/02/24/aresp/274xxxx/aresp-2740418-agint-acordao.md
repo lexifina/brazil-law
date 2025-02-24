@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas Súmulas nºs 5, 7 e 83 do STJ).
+2 . Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANGELO REGIS CAVAGLIERI (ANGELO) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da ausência de impugnação aos fundamentos da decisão de inadmissibilidade, quais sejam, a incidência das Súmulas nºs 5, 7 e 83 do STJ.
+Nas razões do presente inconformismo, defendeu que impugnou especificamente os fundamentos da decisão que negou seguiment o ao recurso especial.
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas Súmulas nºs 5, 7 e 83 do STJ).
+2 . Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão impugnada, o agravo em recurso especial não se dirigiu especificamente contra todos os fundamentos da decisão que inadmitiu o apelo nobre, pois ANGELO não impugnou, de forma arrazoada, a afirmação de incidência das Súmulas nºs 5 , 7 e 83 do STJ.
+E isso não fez porque se limitou a repisar as razões do recurso especial, bem como alegou, em síntese (1) que em momento algum sustenta ofensa ao entendimento esposado na súmula 308, mas sim a dispositivos de lei federal que rege a sistemática afeta ao Sistema Financeiro da Habitação; e (2) que Em suas razões recursais, o ora agravante logrou atendimento à exigência de cotejo analítico entre os julgados, nos termos do art. 255 e parágrafos do Regimento Interno desse Eg. Superior Tribunal de Justiça (e-STJ, fl. 806).
+Assim, repita-se, não houve a demonstração do adequado enfrentamento dos fundamentos da decisão agravada no que tange à incidência das Súmulas nºs 5, 7 e 83 do STJ.
+Cumpre registrar que, na hipótese em que se pretende impugnar, no agravo em recurso especial, a aplicação da Súmula nº 5 do STJ, cabe ao agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também evidenciar que a solução da controvérsia independe de interpretação de cláusulas do contrato soberanamente avaliadas pelas instâncias ordinárias.
+Já na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 7 do STJ, deve o agravante não apenas mencionar que referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+E na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência da Súmula nº 83 do STJ, deve o agravante refutar o citado óbice mediante a clara demonstração de que o acórdão recorrido não decidiu de acordo com a jurisprudência do STJ ou que o entendimento citado na decisão agravada não trata de entendimento dominante nesta Corte, o que não se observa no caso concreto.
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente os óbices anteriormente mencionados, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+No mesmo sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA. INAPLICABILIDADE. PEDIDO INCOMPATÍVEL COM O RECOLHIMENTO DAS CUSTAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO INTERNO. HONORÁRIOS RECURSAIS. MAJORAÇÃO. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+2. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar todos os fundamentos da decisão de admissibilidade do apelo especial, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+3. De acordo com a orientação jurisprudencial do Superior Tribunal de Justiça, não cabe a majoração dos honorários recursais em julgamento de agravo interno.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.454.663/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/3/2024, DJe de 8/3/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. CONTRARRAZÕES. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. RECURSO ORIUNDO DE AGRAVO DE INSTRUMENTO. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA NA ORIGEM. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+3. A imposição de honorários recursais está condicionada à prévia fixação de honorários de sucumbência na instância de origem, o que não ocorre se tratando de recurso oriundo de agravo de instrumento contra decisão que não pôs fim à demanda.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.332.757/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/3/2024, DJe de 14/3/2024)
+Por isso, porque não foram impugnados os fundamentos da inadmissibilidade do apelo nobre, deve ser mantida a decisão agravada, já que não é admissível a impugnação de seus fundamentos somente no âmbito do agravo interno, em virtude da preclusão.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
