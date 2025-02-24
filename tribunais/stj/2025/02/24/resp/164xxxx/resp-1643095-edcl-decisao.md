@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, embargos de declaração opostos por JOAO DA CRUZ DE SANTANA, contra a decisão de fls. 204-210, que deu provimento ao seu recurso especial, para condenar o INSS ao recálculo do benefício de aposentadoria por tempo de serviço do segurado com observância ao disposto na Lei 6.950/81, bem como do reajuste previsto no art. 144 da Lei 8.213/91.
+A parte embargante sustenta omissão em relação aos seguintes pontos:
+Observa-se, contudo, que deixou de, explicitamente, condenar o INSS ao pagamento das parcelas vencidas, com juros e correção monetária até o efetivo pagamento, bem como de fixar os efeitos financeiros da lide.
+Ademais, percebe-se que a decisão reconheceu o direito à revisão desde a data da citação, mas ausente a determinação expressa de pagamento de parcelas vencidas e vincendas referentes a tal revisão, bem como ausente a explicitação quanto aos efeitos financeiros desse pagamento, se apenas após a citação ou se revisando o benefício desde a DIB respeitando a prescrição quinquenal, com a contagem dos juros de mora após a citação.
+Assim, requer seja sanada a omissão para determinar expressamente a condenação do INSS ao pagamento das parcelas vencidas desde a DIB do benefício, com respeito à prescrição quinquenal (fls. 214-215).
+Requer, ao final, "o conhecimento e o provimento recursal para, afastando a omissão apontada, determinando o pagamento das parcelas vencidas desde a DER com juros e correção monetária até o efetivo pagamento, respeitando-se a prescrição quinquenal" (fl. 215).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação (fl. 228).
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Inicialmente, verifica-se que a decisão ora embargada concluiu, fundamentadamente, pelo provimento do recurso especial do segurado, pois o acórdão recorrido divergiu do entendimento pacificado no STJ, segundo o qual, reconhecido o direito adquirido, como postulado, ao cálculo da RMI em data anterior ao advento da sistemática instituída pela Lei 7.787/89 e, tendo sido o benefício concedido no denominado "Buraco Negro", não se pode negar a possibilidade de aplicação do art. 144, que, por sua vez, determina a realização do novo cálculo da RMI, do benefício agora em manutenção, de acordo com as regras estabelecidas na Lei 8.213/91, inclusive com a incidência dos limitadores instituídos pelo novo regime de cálculo.
+Nos presentes embargos de declaração, a embargante requer apenas a determinação do pagamento das parcelas vencidas desde a DER com juros e correção monetária até o efetivo pagamento, respeitando-se a prescrição quinquenal.
+No caso, de rigor o parcial acolhimento do presente recurso, para que, do dispositivo da decisão embargada, conste a determinação de retorno dos autos à instância de origem, a fim de que prossiga no julgamento do feito, nos termos da fundamentação, ocasião em que serão determinados o termo inicial do benefício e os consectários da condenação, consoante a legislação pertinente.
+Isso posto, acolho parcialmente os embargos de declaração, para, em substituição d o dispositivo da decisão de fls. 204-210, determinar o retorno dos autos à instância de origem, para que prossiga no exame da matéria, nos termos da fundamentação da decisão ora embargada.
+Intimem-se.
+EMENTA
