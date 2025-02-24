@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EXPURGOS INFLACIONÁRIOS. POUPANÇA. PLANO VERÃO. QUANTIA DEVIDA. CÁLCULO. HOMOLOGAÇÃO. COISA JULGADA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Tendo sido homologado o cálculo do montante da dívida, por decisão transitada em julgado, a sua alteração (revisão) implica ofensa à coisa julgada. Precedentes.
+2. O conhecimento do recurso especial exige a indicação do dispositivo (artigo) infraconstitucional objeto da divergência jurisprudencial. Ausente tal indicação, incide a Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo credor contra a decisão que deixou de conhecer de seu agravo em recurso especial, proferida pela Presidência do Superior Tribunal de Justiça (STJ).
+O credor explica que a divergência jurisprudencial foi adequadamente demonstrada no recurso especial.
+Ressalta qu e, em caso de recurso especial fundado em divergência, a indicação expressa do dispositivo legal infraconstitucional no qual positivada a norma jurídica objeto da divergência não é requisito absoluto.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EXPURGOS INFLACIONÁRIOS. POUPANÇA. PLANO VERÃO. QUANTIA DEVIDA. CÁLCULO. HOMOLOGAÇÃO. COISA JULGADA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Tendo sido homologado o cálculo do montante da dívida, por decisão transitada em julgado, a sua alteração (revisão) implica ofensa à coisa julgada. Precedentes.
+2. O conhecimento do recurso especial exige a indicação do dispositivo (artigo) infraconstitucional objeto da divergência jurisprudencial. Ausente tal indicação, incide a Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+3. Agravo interno a que se nega provimento.
+VOTO
+Antes de passar ao exame das objeções levantadas no agravo interno, apresento, resumidamente, o contexto no qual elas estão inseridas.
+Em demanda ajuizada com vistas à cobrança de diferença de remuneração devida em virtude de depósito realizado em conta de poupança, relativamente ao saldo existente em janeiro de 1989 (Plano Verão), em fase de liquidação, o Juízo de primeiro grau determinou à executada (instituição financeira) apresentar o cálculo da dívida, com inclusão das verbas decorrentes da mora até a data da efetiva entrega - disponibilização - ao credor, conforme previsto no título exequendo.
+A executada interpôs agravo de instrumento, sobrevindo acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - POUPANÇA - DEFERIMENTO DE INCIDÊNCIA DE CONSECTÁRIOS DA MORA SOBRE O VALOR DEPOSITADO NOS AUTOS - DESCABIMENTO - VALOR DEVIDO JÁ HOMOLOGADO POR DECISÃO TRANSITADA EM JULGADO - HIPÓTESE, AINDA, EM QUE NÃO SE CONSTATA MORA DA CASA BANCÁRIA - REVISITAÇÃO DA MATÉRIA DESCABIDA - IMPOSSIBILIDADE DE OFENSA À COISA JULGADA - SOMA DEPOSITADA QUE SATISFAZ INTEGRALMENTE O CRÉDITO - RECURSO PROVIDO.
+O credor interpôs recurso especial, fundado em divergência jurisprudencial, alegando:
+1) não ocorreu o adimplemento da obrigação, pois o depósito realizado pela executada não surtiu o efeito de pagamento, servindo apenas para garantia da execução;
+2) o pedido de atualização do valor do débito, considerando-se a atual jurisprudência do STJ, segundo a qual os efeitos da mora devem ser computados até o pagamento, não ofende a coisa julgada.
+A Corte de origem não admitiu o recurso especial, o que motivou a interposição de agravo em recurso especial. Esse agravo foi registrado à Presidência do STJ, que dele não conheceu por entender que a deficiência das razões do recurso especial impediu a compreensão da controvérsia. Destaco, por oportuno, o seguinte fragmento da decisão da Presidência:
+Cuida-se de agravo interposto por MARCOS CARVALHAES VEIGA MIRANDA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+ ..
+Mediante análise do recurso de MARCOS CARVALHAES VEIGA MIRANDA, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+Contra essa decisão, o credor interpôs o presente agravo interno.
+Com o merecido respeito à opinião do agravante, manifestada no agravo interno, não consigo extrair das suas razões motivo suficiente para alterar a convicção manifestada na decisão agravada, que, segundo penso, deve ser mantida.
+Não vinga convencer-me a argumentação em prol do reconhecimento da regularidade da demonstração da divergência jurisprudencial.
+A Presidência, conforme acima indicado, considerou inviável o recurso especial do credor porque, nas razões apresentadas, faltou a indicação dos dispositivos (artigos) infraconstitucionais objeto de interpretação divergente.
+A esse respeito, anoto que a ausência de indicação dos dispositivos objeto de interpretação divergente configura deficiência de fundamentação, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal (STF). Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO C/C PERDAS E DANOS E REPARAÇÃO POR DANOS MORAIS E EMERGENTES E RESTITUIÇÃO DE QUANTIA PAGA. 1. VIOLAÇÃO AO ART. 485, § 3º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. 2. JULGAMENTO EXTRA PETITA E JULGAMENTO BASEADO EM FATO INEXISTENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. 3. VIOLAÇÃO AO ART. 489 DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 4. VIOLAÇÃO AO ART. 1.021, § 3º, DO CPC/2015. REITERAÇÃO DOS FUNDAMENTOS. POSSIBILIDADE. PRECEDENTES. 5. MULTA DO ART. 1.021, § 1º, DO CPC/2015. INAPLICABILIDADE. 6. AGRAVO INTERNO IMPROVIDO.
+1. Incidem as Súmulas 282 e 356 do STF, na espécie, porquanto ausente o prequestionamento.
+2. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. O recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, é imprescindível que a parte recorrente demonstre, de forma clara e objetiva, de que modo o acórdão recorrido teria contrariado os dispositivos apontados como violados, sob pena de inadmissão, atraindo o óbice da Súmula 284 do STF.
+4. O julgador pode reiterar os fundamentos da decisão recorrida quando não deduzidos novos argumentos pela parte recorrente, pelo que o art. 1.021, § 3º, do CPC/2015 não impõe ao julgado a obrigação de reformular a decisão agravada.
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+6. Agravo interno improvido.
+(AgInt no AR Esp n. 2.129.634/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO ANTERIOR, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Não caracteriza omissão ou falta de fundamentação a adoção de posicionamento contrário ao interesse da parte, nem está o magistrado obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+2. Modificar as conclusões da Corte local, para acolher a tese de ilegitimidade passiva, ensejaria, necessariamente, o reexame de toda a narrativa fática delineada na demanda, bem como das provas que instruem os autos, o que não se admite em sede de recurso especial, ante a incidência da Súmula 7 deste Tribunal.
+3. Esta Corte tem orientação no sentido de que não tendo sido feita a indicação clara e precisa dos dispositivos de lei federal tidos por violados ou em torno dos quais haveria a divergência jurisprudencial, evidencia-se a deficiência na fundamentação do recurso a atrair o óbice da Súmula 284 do STF.
+4. "Importa consignar que esta Corte Superior perfilha o entendimento de que as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no AgRg no R Esp 1197860/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/12/2017, D Je 12/12/2017).
+5. Nos termos da Súmula 543/STJ, "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+6. Com relação às despesas de rateio, a subsistência de fundamento que não foi devidamente combatido nas razões do recurso especial atrai a incidência da Súmula 283 do STF, por analogia.
+7. Agravo interno desprovido.(AgInt no AgInt no AR Esp n. 1.739.527/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/10/2022, DJe de 27/10/2022.)
+Depois de ler as razões do recurso especial, constato a ocorrência do óbice apontado pela Presidência.
+Como já destaquei, no recurso especial o credor argumentou que a posição do acórdão recorrido é contrária à jurisprudência do STJ no que diz respeito à obrigação do devedor de suportar as consequências da mora até o efetivo pagamento da dívida. Verifico, entretanto, que essa argumentação não veio acompanhada da indicação do artigo de lei em torno do qual se instalara a divergência interpretativa suscitada.
+Nessa situação, não vejo motivo para afastar a aplicação da Súmula 284 do STF.
+Ainda que fosse possível superar o óbice referido, penso que o recurso especial não mereceria prosperar no que diz respeito à pretensão de prosseguimento da execução.
+No particular, anoto que, já tendo sido homologado o cálculo do montante da dívida, por decisão transitada em julgado, a sua alteração (revisão), como defendido pelo credor, implicaria ofensa à coisa julgada. Nesse sentido (mudando-se o que deve ser mudado):
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ART. 535, II, E 458 DO CPC. INOCORRÊNCIA. EXECUÇÃO DE TÍTULO JUDICIAL. CORREÇÃO MONETÁRIA E JUROS. INCLUSÃO DA TAXA SELIC NOS CÁLCULOS DA LIQUIDAÇÃO. TÍTULO EXECUTIVO QUE NÃO ESPECÍFICA OS ÍNDICES A SEREM UTILIZADOS. INOCORRÊNCIA DE OFENSA À COISA JULGADA.
+1. A inclusão, em fase de execução, da taxa SELIC, a título de correção monetária e juros, não ofende a coisa julgada quando o título executivo judicial determina sejam os valores devidos corrigidos monetariamente e acrescidos de juros moratórios sem, no entanto, especificar os índices a serem utilizados para tanto (Precedentes: AgRg no REsp n.º 502.418/SC, Rel. Min. Denise Arruda, DJ de 14/03/2005; e REsp n.º 496.594/PR, Rel. Min. Francisco Peçanha Martins, DJ de 22/08/2005).
+2. "Não havendo adoção de índice específico pelo título judicial, na fase de conhecimento, em relação à correção monetária, enquanto não homologados definitivamente os cálculos de execução, a adoção da taxa SELIC não implica ofensa à coisa julgada."(AgRg no REsp n.º 502.418/SC, Primeira Turma, Rel. Min. Denise Arruda, DJ de 14/03/2005) 3. Agravo regimental desprovido.
+(AgRg no AgRg no AgRg no REsp n. 779.382/DF, relator Ministro Luiz Fux, Primeira Turma, julgado em 15/5/2007, DJ de 9/8/2007, p. 314.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE AQUISIÇÃO DE VEÍCULO. EXECUÇÃO DE TÍTULO JUDICIAL. CORREÇÃO MONETÁRIA. TAXA SELIC. OFENSA À COISA JULGADA. INOCORRÊNCIA.
+1. Não havendo adoção de índice específico pelo título judicial, na fase de conhecimento, em relação à correção monetária, enquanto não homologados definitivamente os cálculos de execução, a adoção da taxa SELIC não implica ofensa à coisa julgada.
+2. A incidência da taxa SELIC sobre o valor do indébito, a partir de 1º.01.96, afasta a aplicação de quaisquer outros índices, seja de juros, seja de correção monetária.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 502.418/SC, relatora Ministra Denise Arruda, Primeira Turma, julgado em 22/2/2005, DJ de 14/3/2005, p. 199.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HOMOLOGAÇÃO DO CÁLCULO NO PROCESSO DE CONHECIMENTO SEM IMPUGNAÇÃO DAS PARTES. REDISCUSSÃO DO TERMO INICIAL DA CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não obstante esta Corte admita a inclusão de correção monetária na execução, ainda que essa questão não tenha sido debatida no processo de conhecimento, é vedada a alteração do critério anteriormente fixado, sob pena de ofensa à coisa julgada, o que, no caso, foi definido na liquidação da sentença e homologação do cálculo, sem a devida impugnação no momento oportuno.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 326.398/SC, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 19/4/2018, DJe de 25/4/2018.)
+No caso, o acórdão recorrido registra a ocorrência de coisa julgada quanto à definição da quantia devida. Leia-se:
+1 - Cuida-se de agravo ti rado contra decisão de fls. 703/704, integrada pelos aclaratórios rejeitados de fls. 714/715 da origem, aplicando ao caso a nova redação do Tema Repetitivo 677 do STJ; irresignada, a casa bancária afirma que o valor devido por si já havia sido homologado judicialmente por decisão transitada em julgado, sendo descabida qualquer rediscussão, ainda que baseada na atual jurisprudência do STJ, assevera que o depósito em juízo faz cessar a mora, destaca ausência de trânsito no que toca ao Tema 677, pede efeito suspensivo, aguarda provimento (fls. 01/13).
+ ..
+Trata-se, na origem, de cobrança de diferença relativa a expurgos inflacionários relacionados a remuneração de poupança, Plano Verão.
+O valor devido já foi definido há tempos por decisão transitada em julgado, tendo a matéria sido, inclusive, submetida à nossa análise por ocasião do julgamento do agravo de instrumento 2037361- 61.2016.8.26.0000, cessada a mora com o depósito realizado nos autos.
+Dito isso, então, afigura-se descabida qualquer alteração, sob pena de ofensa à coisa julgada.
+Incide, portanto, a Súmula 83 do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
