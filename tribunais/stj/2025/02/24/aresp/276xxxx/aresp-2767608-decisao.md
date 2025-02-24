@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Crefisa S/A Crédito Financiamento e Investimentos contra decisão do Tribunal de Justiça do Estado do Mato Grosso do Sul que inadmitiu o recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ, além de ausência de divergência jurisprudencial.
+Consta dos autos que o juízo de primeiro grau julgou procedentes os pedidos formulados na ação revisional de contrato c/c repetição de indébito.
+Interposta apelação, o recurso foi desprovido, nos termos da seguinte ementa (e-STJ, fl. 435):
+EMENTA. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL C/C REPETIÇÃO DO INDÉBITO. PRELIMINAR RECURSAL - NULIDADE DA SENTENÇA POR FALTA DE FUNDAMENTAÇÃO - REJEITADA. PRELIMINAR DE INÉPCIA DA INICIAL - NÃO OCORRÊNCIA. MÉRITO - JUROS REMUNERATÓRIOS - LIMITAÇÃO À TAXA MÉDIA DO MERCADO - DIFERENÇA SIGNIFICATIVA. RECURSO CONHECIDO E DESPROVIDO.
+No caso, foram expostos de forma suficiente os motivos para o julgamento de procedência do pedido inicial, inclusive com aplicação de tese fixada em recurso repetitivo no STJ ao caso concreto, de modo que não há falar em nulidade da sentença por ausência de fundamentação.
+A autora instruiu a inicial com os documentos que possuía ao tempo da distribuição da ação, sendo que as demais questões dependem de dilação probatória, além de ser possível extrair a causa de pedir e pedido, de modo que a inicial não é inepta.
+Mesmo que a taxa de juros remuneratórios não seja limitada a 12% (doze por cento) ao ano, deve-se observar a taxa média de mercado, conforme decidido em Incidente de Recurso Repetitivo, instaurado no REsp n. 1.112.880, de relatoria da Ministra Nancy Andrighi.
+Entende-se no Superior Tribunal de Justiça, ainda, que a taxa de juros remuneratórios só deve ser limitada à taxa média de mercado se houver diferença significativa entre a taxa contratada e a divulgada pelo Banco Central, o que restou demonstra na espécie.
+Os embargos de declaração opostos pela ora agravante foram rejeitados (e-STJ, fls. 500-508).
+Nas razões do recurso especial, interposto com fulcro no artigo 105, III, a e c, da Constituição Federal, alega-se violação aos arts. 421 do Código Civil e 927 do Código de Processo Civil, além de dissídio jurisprudencial.
+No agravo em recurso especial, sustenta a agravante, em suma, ter comprovado a divergência jurisprudencial quanto a utilização ou não da taxa média de juros remuneratórios.
+Não foi apresentada contraminuta (e-STJ, fl. 482).
+É o relatório.
+Decido.
+No caso, a despeito das razões apresentadas, a agravante deixou de rebater, especificamente, os óbices contidos nas Súmulas n. 5 e 7 do STJ, limitando-se a mencionar que apontou devidamente a divergência existente nesta Corte no que concerne à utilização ou não da taxa média de mercado para os contratos celebrados pela recorrente.
+Com efeito, a agravante não infirmou, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE PRÉVIA. PRERROGATIVA REGIMENTAL DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.197.850/AP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. PROVIMENTO NEGADO.
+1. A decisão ora recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem. Por conta disso, consignou-se a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+2. Para ver examinado por esta Corte Superior seu recurso especial, a parte recorrente precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+ ..
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ, aplicável por analogia.
+5. Em nova análise do agravo interposto, vê-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência da Súmula 182 do STJ no presente caso.
+ ..
+7. Agravo interno a que se nega provimento (AgInt no AREsp n. 1.979.254/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023.)
+Dessa forma, a falta de impugnação específica a todos os motivos da decisão agravada atrai o disposto no art. 932, III, do CPC, tendo em vista a inobservância ao princípio da dialeticidade exigido na esfera recursal, incidindo, na espécie, a Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados em desfavor da agravante na origem.
+Publique-se.
+Intimem-se.
+EMENTA
