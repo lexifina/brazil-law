@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO HENRIQUE EVANGELISTA contra decisão que inadmitiu o recurso especial, oriundo de acórdão exarado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ fl. 97):
+AGRAVO EM EXECUÇÃO PENAL. Recurso defensivo. Execução de pena de multa. Recurso voltado à extinção da punibilidade do sentenciado, independentemente do pagamento da pena de multa, devido à sua hipossuficiência econômica. Inviabilidade. Enunciado do Tema 931 do Superior Tribunal de Justiça exige o cumprimento da pena privativa de liberdade. Sentenciado que atualmente cumpre a pena segregativa imposta cumulativamente com a sanção pecuniária. Agravo improvido.
+Consta dos autos que o agravante, na qualidade de reeducando, teve por indeferido - pela Vara de Execuções Penais da localidade - seu pedido de extinção da punibilidade, independentemente do pagamento da pena de multa (e-STJ fls. 42-46).
+Na sequência, a Corte de origem negou provimento ao agravo em execução (e-STJ fls. 96-100).
+Opostos embargos de declaração, pelo apenado, o Tribunal estadual rejeitou o afã integrativo (e-STJ fls. 112-118).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta violação do art. 927, III, do CPC (e-STJ fl. 130), associada à dicção do art. 50, § 2º, do CP (e-STJ fl. 135).
+Para tanto, assevera (em síntese) que deve ser julgada extinta a punibilidade da pena de multa - em favor do recorrente -, diante do que o STJ pacificou ao realizar nova alteração do tema 931 (e-STJ fl. 131).
+Estratifica que, o inadimplemento da pena de multa, in casu, correspondente a R$ 60.146,24 reais (e-STJ fl. 134),
+após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária (e-STJ fl. 134).
+Neste cenário, por ser o executado assistido pela DPESP e hipossuficiente econômico-financeiro (e-STJ fl. 134), com inequívoco estado de miserabilidade (e-STJ fl. 135), pugna seja declarada extinta a sua punibilidade (e-STJ fl. 138), independentemente do adimplemento da sanção pecuniária.
+Contrarrazões pelo Parquet (e-STJ fls. 143-152).
+O Tribunal a quo inadmitiu o apelo especial com base na incidência da Súmula n. 283/STF e na aplicação da Súmula n. 7/STJ (e-STJ fls. 155-157).
+Ao cabo, fora interposto agravo em recurso especial pelo sentenciado (e-STJ fls. 163-167).
+Parecer do Ministério Público Federal, na forma dos arts. 62 e 64, X, ambos do RISTJ (e-STJ fls. 196-197).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada (e-STJ fls. 163-167), conheço do agravo e passo ao exame do apelo raro.
+Sobre o tema controvertido, o Tribunal bandeirante, ao negar provimento ao agravo em execução, exortou (e-STJ fls. 97-100, grifamos):
+Sustenta a Defensoria Pública, resumidamente, que a punibilidade do agravante deve ser julgada extinta, nos termos do tema 931 do C. Superior Tribunal de Justiça. Afirma que o sentenciado não tem condição de adimplir a multa, segundo ele próprio informou, e é assistido pela Defensoria Pública, de modo que está demonstrada sua hipossuficiência econômica. Aduz, ademais, que o dia-multa foi estipulado no mínimo legal.
+ ..
+Pois bem.
+Ao que consta, o sentenciado atualmente cumpre pena privativa de liberdade de 9 anos e 4 meses de reclusão pela prática dos crimes tipificados nos artigos 33, § 1º, inciso III, e 35, ambos da Lei n. 11.343/06, ocorridos entre 26 de agosto de 2017 e 24 de abril de 2018.
+Logo, o fato de o sentenciado encontrar-se em cumprimento da pena privativa de liberdade imposta cumulativamente à sanção pecuniária, de per si, afasta a aplicação do enunciado do Tema 931. Por tais motivos, o improvimento do agravo se impõe.
+Em introito, não se olvida o Tribunal da Cidadania que,
+ a  autodeclaração de hipossuficiência e o fato de o apenado ser assistido pela Defensoria Pública são elementos aptos a comprovar a sua incapacidade financeira (AgRg no REsp n. 2.118.258/RO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 15/5/2024) (AgRg no REsp n. 2.069.373/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/10/2024, DJe de 22/10/2024, grifamos).
+Outrossim, também não se descuida esta Relatoria que o Plenário da Suprema Corte, ao julgar a ADI n. 3.150/DF (STF, Rel. Ministro Marco Aurélio, Rel. p/ Acórdão Ministro Roberto Barroso, Tribunal Pleno, DJe-170 divulg. 5/8/2019 public. 6/8/2019), assentou que a derrogação do art. 51 do CP, pelo advento da Lei n. 9.268/1996, manteve o caráter de sanção criminal da pena de multa.
+Mais recentemente, em sessão realizada no dia 25/03/2024, o Plenário do Pretório Excelso, ao julgar a ADI n. 7.032/DF, sob a relatoria do Min. Flávio Dino (STF, DJ-e divulg. 11/04/2024, public. 12/04/2024), deu interpretação conforme à CF/88 ao art. 51 do CP (com redação atual dada pela Lei n. 13.964/2019), no sentido de que:
+cominada conjuntamente com a pena privativa de liberdade, o inadimplemento da pena de multa obsta o reconhecimento da extinção da punibilidade, salvo comprovada impossibilidade de seu pagamento, ainda que de forma parcelada (grifamos).
+Tal entendimento, por sua vez, encontra-se (hodiernamente) encampado pela 3ª Seção desta Corte que, ao julgar os REsp"s n. (s) 2.090.454/SP; 1.785.383/SP; 1.785.861/SP; e 2.024.901/SP, sob a sistemática dos recursos repetitivos ( Tema n. 931/STJ ), após sopesar os verticais princípios da individualização da pena e da dignidade da pessoa humana, definiu:
+O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária (REsp n. 2.090.454/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 28/2/2024, DJe de 1/3/2024, grifamos).
+Enquadramento jurídico (material) que, todavia, não se coaduna ao caso vertente, pelo que vale conferir.
+Da intelecção cotejada entre as (dissociadas) razões de insurgência e os fragmentos acima transcritos, infere-se incidir, sob os contornos do art. 932, inciso III (parte final), do CPC/15, c/c o art. 3º do CPP, o óbice consolidado na Súmula n. 284/STF, por deficiência de fundamentação do apelo raro.
+Com efeito, em relação ao perquirido menoscabo ao art. 927, III, do CPC (e-STJ fl. 130), c/c o art. 50, § 2º, do CP (e-STJ fl. 135), depreende-se que a defesa deixou de infirmar - com a necessária "dialeticidade" recursal e inobservância ao ônus da impugnação "específica" - correspondente explanação consignada no aresto recorrido e suficiente à sua manutenção.
+Na espécie, tal fundamento está circunscrito na máxima (empírica) averbada de que,
+o fato de o sentenciado encontrar-se em cumprimento da pena privativa de liberdade imposta cumulativamente à sanção pecuniária, de per si, afasta a aplicação do enunciado do Tema 931 (e-STJ fl. 100, grifamos).
+Em reforço a tal premissa, ressalvada pelo Tribunal local, o Ministério Público Federal sublinhou (e-STJ fl. 196, grifamos):
+O agravante está em cumprimento de pena, a qual tem previsão de término em agosto de 2027; desse modo o Tema 931/STJ não se aplica ao caso, uma vez que o agravante ainda se encontra cumprindo a pena privativa de liberdade imposta (e-STJ fl. 196, grifamos).
+Nesse espectro, tendo em vista a ausência de impugnação congruente, específica e pormenorizada a fundamento determinante averbado no acórdão recorrido, atrai-se a aplicação, por conseguinte, do enunciado consolidado na Súmula n. 283/STF, conjugado à inteligência da Súmula n. 284/STF, face à constatada deficiência de fundamentação do apelo raro.
+A propósito:
+Aplica-se as súmulas n. 283 e n. 284/STF se o recorrente traz razões dissociadas da fundamentação utilizada pela Corte de origem, capaz de manter, por si só, o acórdão recorrido (AgRg no AREsp n. 2.144.063/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023, grifamos).
+As razões do recurso especial não guardam pertinência com o fundamento utilizado pela Corte de origem  .. , atraindo o óbice da Súmula n. 284/STF (AgRg no AREsp n. 2.130.726/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 25/10/2022, DJe de 28/10/2022, grifamos).
+Na mesma direção:
+ e m obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018) (AgRg no REsp 1888000/RS, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 01/06/2021, DJe 08/06/2021, grifamos).
+ a  parte agravante deixou de impugnar a fundamentação do acórdão recorrido  .. . Essa evidente deficiência na argumentação recursal viola o princípio da dialeticidade e atrai a incidência das Súmulas 283 e 284/STF (AgRg no AREsp n. 2.101.521/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/10/2022, DJe de 28/10/2022, grifamos).
+A deficiência de fundamentação do recurso especial e a falta de impugnação do acórdão recorrido atraem o óbice das Súmulas n. 283/STF e 284/STF (AgRg no REsp 1832281/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05/05/2020, DJe 14/05/2020, grifamos).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
