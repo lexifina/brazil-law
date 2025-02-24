@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DANIELLE OCAMPOS E SILVA contra a decisão que inadmitiu o recurso especial com base no artigo 1.030, V, do CPC, ao fundamento de reexame de matéria fático-probatória, vedado pela Súmula n. 7 do STJ, bem como de deficiência de fundamentação quanto à indicação dos dispositivos legais violados, conforme Súmula 284 do STF (fls. 297-308).
+No agravo em recurso especial, a agravante alega que o Tribunal de origem cometeu equívoco ao inadmitir o recurso especial, sustentando que a questão é de direito e não demanda reexame de provas, além de afirmar que a liberdade de expressão foi erroneamente caracterizada como ato ilícito.
+Requer o provimento do agravo para que o recurso especial seja admitido e julgado pelo STJ (fls. 310-316).
+Não houve contrarrazões, conforme certidão de ausência de contrarrazões (fl. 320).
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra o acórdão da 5ª Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, que negou provimento ao recurso de apelação, mantendo a condenação por danos morais decorrentes de publicação ofensiva em rede social, sob o fundamento de que os danos morais são in re ipsa e não necessitam de comprovação (fls. 201-205).
+O acórdão recorrido foi assim ementado (fls. 201-202):
+EMENTA - RECURSO DE APELAÇÃO - DEMANDA COMPENSATÓRIA - PRELIMINAR DE NULIDADE DA SENTENÇA - REJEIÇÃO - PUBLICAÇÃO OFENSIVA EM REDE SOCIAL - DANOS MORAIS CARACTERIZADOS - VALOR MANTIDO. 1. A ausência de produção de prova desnecessária ao julgamento dos pedidos formulados na inicial não acarreta cerceamento do direito de defesa. 2. Quando a publicação em rede social ocasiona dano à imagem, ao nome ou à reputação do autor, cabível a condenação da parte ré ao pagamento de danos morais. 3. O valor fixado a título de compensação por danos morais é mantido quando observados, na sentença, os aspectos objetivos e subjetivos da demanda, em consonância com os princípios da razoabilidade e da proporcionalidade.
+No julgamento dos embargos de declaração, a 5ª Câmara Cível rejeitou os embargos, afirmando a inexistência de omissão ou contradição no acórdão, e que os danos morais são in re ipsa, não necessitando de comprovação (fls. 218-221).
+Os embargos de declaração opostos foram julgados nos termos da seguinte ementa (fl. 218):
+EMENTA - EMBARGOS DE DECLARAÇÃO - INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO - REDISCUSSÃO DA MATÉRIA - INADMISSIBILIDADE. Os embargos de declaração destinam-se ao aperfeiçoamento do julgado, desde que presente algum dos vícios listados no art. 1.022 do Código de Processo Civil. Inadmissível, em sede de embargos de declaração, rediscussão da matéria apreciada. Embargos de declaração rejeitados.
+No recurso especial, a parte alega:
+a) cerceamento de defesa, pois não lhe foi oportunizada a manifestação sobre os fatos alegados;
+b) violação do artigo 188, I, do Código Civil, sustentando que a manifestação da recorrente foi exercício regular do direito à liberdade de expressão, não configurando ato ilícito (fls. 232-236);
+b) ausência de comprovação de prejuízo dos danos alegados, afirmando que o recorrido não apresentou evidências de prejuízo financeiro ou moral (fls. 236-237);
+c) dissídio jurisprudencial, alegando que o acórdão recorrido diverge de outros julgados do STJ que exigem comprovação de danos para indenização (fls. 238-239).
+Requer o provimento do recurso especial para reformar o acórdão recorrido, reconhecendo o exercício legítimo da liberdade de expressão e a improcedência da condenação por danos morais (fls. 245-246).
+Não houve contrarrazões, conforme certidão de ausência de contrarrazões (fl. 295).
+É o relatório. Decido.
+I - Cerceamento de defesa
+Quanto à pretensão relacionada à alegação de existência de cerceamento de defesa, verifica-se, no que diz respeito à alínea a, a parte recorrente limita-se, nas razões do recurso especial, a alegar a existência de cerceamento de defesa, sem, contudo, indicar, de forma inequívoca, quais os dispositivos legais supostamente violados pelo acórdão impugnado, o que caracteriza deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF, in verbis:
+Súmula n. 284/STF - É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+II - Da alegada violação do art. 188, I, do CPC. Da comprovação dos danos causados
+Insurge-se o recorrente sustentando que manifestação da recorrente foi exercício regular do direito à liberdade de expressão, não configurando ato ilícito indenizável.
+O Tribunal de Justiça concluiu que a publicação da recorrente no Facebook causou danos à imagem, inclusive in re ipsa, e reputação do estabelecimento "Bar Capim Guiné", além de prejuízos financeiros ao estabelecimento em razão da desativação temporária da conta do bar na plataforma.
+A propósito, confira-se o seguinte trecho do acórdão recorrido (fls. 203-205):
+O autor narra que a ré Haissa dirigiu-se até o seu estabelecimento "Bar Capim Guiné" e encontrou uma gata com quatro filhotes recém nascidos. Narra que a ré lhe disse que passaria no outro dia resgatar os animais e levá-los à adoção.
+Contudo, a ré Haissa, acompanhada de uma representante de grupo de proteção aos animais, ao retornar no local, não encontrou mais a ninhada de gatos, oportunidade na qual o autor se comprometeu a encontrá-los. Descreve que surgiram inúmeros comentários agressivos e difamatórios na página do facebook de seu estabelecimento comercial por conta da publicação da ré Danielle sobre o sumiço dos gatos. Pontua, portanto, a ocorrência de dano moral.
+A ré Danielle, na contestação apresentada, dentre outras alegações, afirma que não objetivou violar a imagem da parte autora com a publicação. Ressalta que não utilizou expressões ofensivas.
+A pessoa jurídica, embora não seja titular de honra subjetiva que se caracteriza pela dignidade, decoro e autoestima, exclusiva do ser humano, é detentora de honra objetiva, de modo que faz jus à indenização por dano moral sempre que o nome, a reputação ou a imagem forem atingidos no meio civil ou comercial.
+De acordo com o artigo 5º, X, da Constituição Federal, são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação.
+Ademais, nos termos dos artigos 186 e 927, ambos do Código Civil, aquele que violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito, sendo obrigado a repará-lo.
+No caso em análise, está demonstrado que o postagem da ré Danielle na rede social ocasionou dano à imagem, ao nome ou à reputação do autor.
+Nesse aspecto, convém trazer o excerto do post discutido nos autos de processo:
+" O dono do Bar CAPIM GUINÉ deu sumiço em uma gatinha e seus filhotes, isso pq as protetoras iriam resgatar, alguém sabe o que ele fez com os bichinhos inocentes
+OOW "FULANO" SE VOCÊ NÃO GOSTA DE ANIMAIS, NOS TB NÃO GOSTAMOS DE VOCÊ.. sem mais""
+Aonde não ir em Campo Grande, bar Capim Guiné""
+Por consequência, foram proferidos diversos comentários negativos com tom de agressividade e ameaça sobre a suposta conduta do representante do comércio, o que acarretou a desativação temporária da conta do Bar Guiné no facebook, conforme anexado à p. 38 e a publicação posterior de nota de esclarecimento e repúdio (p. 83/84).
+Inclusive, cabe destacar um trecho da nota publicada "A repercussão do caso demonstrou a facilidade com que as pessoas inventam e espalham mentira sem ao menos conhecer profundamente os fatos, o que causou - e vem causando - severos danos ao Bar Guiné e seu proprietários, Tasso Guerra, tanto financeiro, pois o estabelecimento não mais possui como fazer promoção de seus eventos, o que leva ao declínio de público, quanto moral, haja vista a preocupação e pressão psicológica suportada pelo senhor Tasso e sua família" (p. 83).
+Os danos morais, nesse caso, são in re ipsa. Decorrem da ofensa à personalidade, integridade psicológica, dignidade, reputação, honra e bom nome do ofendido, bem como da ilicitude da conduta perpetrada. Por isso, prescindem ser provados.
+ ..
+Dessa forma, presentes os pressupostos caracterizadores do dano moral, quais sejam, o ato ilícito e os danos sofridos, bem como nexo de causalidade entre ambos, de rigor a responsabilização da ré pelo ressarcimento dos danos decorrentes da sua atitude.
+Sobre o tema, convém mencionar que o Superior Tribunal de Justiça já decidiu que, "para a pessoa jurídica, o dano moral é fenômeno distinto daquele relacionado à pessoa natural, como decorrência intrínseca à existência de ato ilícito. O dano moral para a pessoa jurídica deve estar objetivamente caracterizado, com demonstração de prejuízo ou abalo à imagem comercial" (AgInt no AREsp n. 2.726.432/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/11/2024, DJEN de 29/11/2024.)
+Nessa mesma linha de pensamento, esta Corte também já decidiu que o dano moral à pessoa jurídica não é presumível, devendo estar comprovado nos autos (REsp n. 1.463.777/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/10/2020, DJe de 16/10/2020.), consoante
+No caso, a despeito de o Tribunal a quo fazer referência ao dano in re ipsa, extrai-se do acórdão recorrido que a Corte local também ressaltou que a publicação do post no Facebook causou dano à reputação e à imagem do estabelecimento no meio comercial, que foi atingido por comentários ofensivos e ameaçadores, ocasionando também a desativação temporária de conta na plataforma.
+Assim, rever o entendimento do Tribunal a quo a respeito da configuração de danos morais indenizáveis em favor da recorrente demandaria o necessário reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
