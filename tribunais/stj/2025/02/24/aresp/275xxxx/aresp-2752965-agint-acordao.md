@@ -1,0 +1,119 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por Crefisa S.A. Crédito Financiamento e Investimentos contra decisão monocrática que não conheceu do agravo em recurso especial, ao fundamento de que a parte recorrente não impugnou especificamente os fundamentos da decisão agravada, atraindo a incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se a parte agravante impugnou, de forma concreta e específica, os fundamentos da decisão que inadmitiu o recurso especial, conforme exige o princípio da dialeticidade recursal e a jurisprudência consolidada do STJ.
+III. RAZÕES DE DECIDIR
+3. O agravo interno deve conter impugnação específica e pormenorizada dos fundamentos da decisão agravada, sob pena de não conhecimento do recurso, nos termos do art. 932, III, do CPC/2015 e da Súmula 182/STJ.
+4. A mera repetição das razões do recurso especial não supre a exigência de impugnação concreta, sendo necessária a demonstração clara de como e em que momento teria ocorrido a impugnação aos fundamentos da decisão agravada.
+5. A decisão que inadmite o recurso especial possui um único dispositivo e não comporta divisões em capítulos autônomos, de modo que a impugnação parcial ou genérica de seus fundamentos leva à incidência da Súmula 182/STJ.
+6. A jurisprudência do STJ é firme no sentido de que não cabe majoração de honorários advocatícios no julgamento de agravo interno ou embargos de declaração.
+7. A imposição da multa prevista no art. 1.026, § 2º, do CPC/2015 depende da caracterização do intuito protelatório do recurso, o que não restou evidenciado no caso concreto.
+IV. AGRAVO INTERNO NÃO CONHECIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por CREFISA S/A - CREDITO, FINANCIAMENTO E INVESTIMENTOS contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Nas razões do presente agravo interno, a agravante, além de reiterar as razões do recurso especial, alega que "A análise da questão não envolve matéria de fato, exame de prova, porquanto o que se pretendia e pretende com o recurso é demonstrar a dissonância do entendimento do juízo a quo e do Tribunal com a jurisprudência do STJ" (e-STJ, fl. 627).
+Aduz, ainda, que " não há que se obstar o conhecimento da apelação, pois restaram preenchidos todos os requisitos hábeis ao seu regular conhecimento e julgamento perante a instância "ad quem", e no julgamento do Agravo Interno manejado deveria o Tribunal ter se debruçado sobre a predita matéria " (e-STJ, fl. 628).
+Requer, assim, seja reconsiderada a decisão agravada ou submetido o recurso a julgamento pela Turma.
+Contrarrazões apresentadas pela parte agravada (e-STJ, fls. 635/644), nas quais se requer o não provimento do agravo interno, bem como requer sejam majorados os honorários advocatícios e a condenação da parte ao pagamento de multa "em razão da interposição de recurso de caráter meramente protelatório, nos termos do art. 79 e 80 do CPC/2015".
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por Crefisa S.A. Crédito Financiamento e Investimentos contra decisão monocrática que não conheceu do agravo em recurso especial, ao fundamento de que a parte recorrente não impugnou especificamente os fundamentos da decisão agravada, atraindo a incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se a parte agravante impugnou, de forma concreta e específica, os fundamentos da decisão que inadmitiu o recurso especial, conforme exige o princípio da dialeticidade recursal e a jurisprudência consolidada do STJ.
+III. RAZÕES DE DECIDIR
+3. O agravo interno deve conter impugnação específica e pormenorizada dos fundamentos da decisão agravada, sob pena de não conhecimento do recurso, nos termos do art. 932, III, do CPC/2015 e da Súmula 182/STJ.
+4. A mera repetição das razões do recurso especial não supre a exigência de impugnação concreta, sendo necessária a demonstração clara de como e em que momento teria ocorrido a impugnação aos fundamentos da decisão agravada.
+5. A decisão que inadmite o recurso especial possui um único dispositivo e não comporta divisões em capítulos autônomos, de modo que a impugnação parcial ou genérica de seus fundamentos leva à incidência da Súmula 182/STJ.
+6. A jurisprudência do STJ é firme no sentido de que não cabe majoração de honorários advocatícios no julgamento de agravo interno ou embargos de declaração.
+7. A imposição da multa prevista no art. 1.026, § 2º, do CPC/2015 depende da caracterização do intuito protelatório do recurso, o que não restou evidenciado no caso concreto.
+IV. AGRAVO INTERNO NÃO CONHECIDO.
+VOTO
+Pelo exame dos autos, reconstitui-se que a honorável decisão ora agravada foi proferida nos seguintes termos (e-STJ, fls. 612/616):
+Trata-se de agravo interposto por Crefisa S.A. Crédito Financiamento e Investimentos contra decisão que não admitiu recurso especial manejado contra acórdão, prolatado pelo Tribunal de Justiça do Mato Grosso do Sul, assim ementado (e-STJ, fl. 496):
+RECURSO DE APELAÇÃO - REVISIONAL DE CONTRATO - SENTENÇA FUNDAMENTADA - AUSÊNCIA DE NULIDADE - PETIÇÃO INICIAL APTA - PRESCRIÇÃO DA PRETENSÃO NÃO CONFIGURADA - CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - JUROS REMUNERATÓRIOS ABUSIVOS - PROCEDÊNCIA DOS PEDIDOS - SUCUMBÊNCIA MÍNIMA DA RÉ INEXISTENTE.
+1. De acordo com o disposto no art. 93, IX, da Constituição Federal e no art. 11 do Código de Processo Civil, todas as decisões judiciais, inclusive as interlocutórias, devem ser fundamentadas, sob pena de nulidade. Sentença devidamente fundamentada, sem incorrer em qualquer vício capaz de justificar a sua nulidade.
+2. Preenchidos os requisitos dos arts. 319 e 320 do Código de Processo Civil, não há inépcia da inicial.
+3. Nos termos do art. 205 do Código Civil, a prescrição da pretensão de revisão das cláusulas contratuais de contrato de empréstimo bancário é decenal, pois se trata de demanda de natureza pessoal, tendo como termo inicial a data em que o contrato foi firmado.
+4. A ausência de produção de prova desnecessária ao julgamento dos pedidos formulados na inicial não acarreta cerceamento do direito de defesa.
+5. É abusiva a taxa de juros remuneratórios pactuada em percentual muito superior à taxa média praticada no mercado na época da contratação.
+6. Pedidos julgados procedentes. Inexistência de sucumbência mínima da ré.
+Recurso não provido.
+No recurso especial (e-STJ, fls. 505-520), fundamentado nas alíneas a e c do permissivo constitucional, a recorrente apontou, além de divergência jurisprudencial, violação aos arts. 421 do Código Civil e 927 do CPC/2015.
+Sustentou que o Tribunal estadual, ao revisar o contrato de financiamento entabulado entre as partes, deixou de observar as particularidades que envolvem a contratação e a fixação da taxa de juros remuneratórios, limitando-se a determinar a substituição dos juros estabelecidos em contrato pela taxa média de mercado.
+Aduziu que o fato de a taxa efetiva cobrada está acima da taxa médica de mercado, não implica por si só, a existência de abuso, nos termos da jurisprudência desta Corte Superior.
+Apontou, ainda, que o acórdão recorrido destoa do entendimento firmado pelo STJ no Resp 1.821.182/RS.
+Contrarrazões apresentadas às fls. 532-538 (e-STJ).
+A Corte local inadmitiu o recurso especial sob o fundamento de incidência das Súmulas 5, 7 e 83 do STJ, o que ensejou a interposição do presente agravo às fls.
+552-559 (e-STJ) e da contraminuta às fls. 582-587 (e-STJ).
+Brevemente relatado, decido.
+Nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022).
+Nesse sentido (sem grifo no original):
+(..)
+Na hipótese, o Tribunal de origem, soberano na análise das provas, reconheceu a abusividade das taxas de juros por considerá-las muito superiores à taxa média de mercado (837,23% ao ano x 77,41% ao ano), bem como diante outras peculiaridades do caso concreto (e-STJ, fl. 501).
+Nesse contexto, não há como afastar a conclusão estadual (acerca da abusividade dos juros remuneratórios contratados, as quais importaram em desvantagem excessiva ao consumidor) sem a interpretação das cláusulas pactuadas e o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos verbetes das Súmulas n. 5 e 7/STJ.
+Nesse sentido:
+(..)
+Por fim, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 500,00 (quinhentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+Nas razões do presente agravo, embora a parte agravante afirme que foram impugnados os fundamentos da decisão agravada, não demonstrou, minimamente, de que forma e em que momento teria ocorrido a alegada impugnação nas razões do agravo em recurso especial.
+Tal circunstância atrai, no caso, a incidência da Súmula n. 182 desta Corte Superior de Justiça, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (grifos acrescidos).
+Ressalte-se que a simples repetição das razões de mérito do recurso especial não supre a exigência de impugnação concreta e pormenorizada, como exige o princípio da dialeticidade recursal. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL.
+1. A ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema, o que não se aplica na hipótese de decisão com fundamento único ou com capítulos que dependam um do outro. Precedente da Corte Especial.
+2. No caso, constatada a ausência de impugnação específica, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+3. A decisão monocrática do relator não viola o princípio da colegialidade, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado mediante a interposição de agravo interno.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.685.260/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PARADIGMA. INEXISTÊNCIA. IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA.
+1. Agravo interno que desafia decisão da Presidência do STJ que indeferiu liminarmente os embargos de divergência por ausência de indicação de acórdãos paradigmas.
+2. O desrespeito à regra técnica de fundamentação vinculada de conhecimento do recurso de embargos de divergência evidencia vício substancial, cujo caráter protelatório atrai sanção processual.
+Precedente.
+3. Alegação de existência de "dezenas de julgados paradigmas" sem compromisso com a verdade.
+4. É inepta a petição de agravo interno que não impugna, especificamente, o fundamento da decisão agravada, a teor do disposto na Súmula 182/STJ, a reforçar sanção processual.
+5. Agravo interno não conhecido, com aplicação de multa.
+(AgInt nos EAREsp n. 2.365.550/MG, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 15/10/2024, DJe de 21/10/2024.)
+Saliente-se ainda que, segundo a jurisprudência consolidada do STJ, a decisão que inadmite recurso especial possui um único dispositivo, não comportando divisões em capítulos autônomos. Assim, a impugnação genérica ou parcial dos fundamentos leva à incidência da Súmula n. 182/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO JUÍZO NEGATIVO DE ADMISSIBILIDADE DO RECURSO ESPECIAL REALIZADO NA ORIGEM. AUSÊNCIA DE AGRAVO INTERNO NA ORIGEM PARA DISCUTIR O FUNDAMENTO QUE NEGOU ADMISSIBILIDADE AO RECURSO COM BASE NA ALÍNEA "B" DO INCISO I DO ART. 1.030 DO CPC. APLICAÇÃO DE APLICAÇÃO DO ART. 932, III, DO CPC/2015. ORIENTAÇÃO ADOTADA PELA CORTE ESPECIAL NO EARESP 701.404, DJE 30/11/2018.
+1. Da análise da decisão agravada, verifica-se que foram aplicados precedentes julgados na sistemática dos recursos repetitivos, REsp 1.365.095/SP e REsp 1.715.256/SP (Tema 118), para fins de negativa de seguimento ao recurso especial com base na alínea "b" do inciso I do art. 1.030 do CPC e não houve o manejo de agravo interno na origem para fins de distinguishing entre o caso dos autos e os supracitados paradigmas. Por outro lado, também não houve impugnação, na petição de agravo de fls. 1.380-1.391 e-STJ, do supracitado fundamento da decisão agravada que aplicou precedentes vinculados ao Tema 118, e nem poderia haver tal impugnação via agravo em recurso especial, tendo em vista que em casos que tais cabe agravo interno à Corte de origem para discutir a correta correta aplicação de precedente firmado em recurso especial repetitivo para fins de negativa de seguimento ao apelo extremo, consoante previsto no § 2º do art. 1.030 do CPC. Nesse sentido: AgInt no AREsp n. 902.987/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 7/11/2016.
+2. Em se tratando de agravo em recurso especial, a parte agravante deve impugnar todos os fundamentos da decisão que negou admissibilidade ao recurso especial na origem, ainda que tais fundamentos se refiram a pontos autônomos em relação à matéria principal debatida no recurso especial, sob pena de incidência do teor do art. 932, III, do CPC/2015 e da aplicação, por analogia, da Súmula nº 182 do STJ.
+3. Tal entendimento foi adotado no âmbito da Corte Especial do STJ no julgamento do EAREsp nº 701.404, Rel. p/ acórdão, Min. Luis Filipe Salomão, DJe 29/11/2018, ocasião em que se consolidou orientação no sentido de que a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal, sendo seu dispositivo único, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, de modo que não há capítulos autônomos nesta decisão. Na oportunidade ressaltou-se que "a decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais".
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.179.576/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Sem razão a parte agravada, em suas contrarrazões, ao alegar requerer sejam majorados os honorários advocatícios e a condenação da parte ao pagamento de multa "em razão da interposição de recurso de caráter meramente protelatório, nos termos do art. 79 e 80 do CPC/2015" (e-STJ, fls. 635/644).
+Com efeito, nos termos da jurisprudência deste Superior Tribunal, "não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração" (EDcl no AgInt no AREsp n. 2.490.524/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024, grifei).
+Também da jurisprudência desta eg. Corte, colhe-se o entendimento no sentido de que "A multa prevista no § 2º do art. 1.026 do Código de Processo Civil deve ser afastada se não identificado o intuito protelatório" (REsp n. 2.054.183/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/4/2024, DJe de 26/4/2024, grifei).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZATÓRIA POR DANO MORAL. OFENSA AOS ARTS. 489, § 1º, E 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não há falar em ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+3. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da parte ora agravante, que alterou a verdade dos fatos com o intuito de locupletar-se ilicitamente.
+4. A modificação da conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+5. Agravo interno provido para reconsiderar a decisão ora agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial. (AgInt no AREsp n. 2.115.563/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 13/10/2022, grifei).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. VIOLAÇÃO AOS ARTS. 322 E 373, II, DO CPC/2015; 112, 1.511, VI E VII, 1.565, 1.566, 1.659 E 1.725 DO CC/2002. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. OMISSÃO. INEXISTÊNCIA. MULTA. NATUREZA PROTELATÓRIA NÃO ATESTADA. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. HONORÁRIOS RECURSAIS. MAJORAÇÃO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Não incide a multa prevista no art. 1.026, § 2º, do CPC/2015, pois ausente a natureza protelatória do recurso.
+3. A interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+4. Segundo jurisprudência da Segunda Seção do Superior Tribunal de Justiça, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração.
+5. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.490.524/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024, grifei).
+Ante o exposto, não conheço do agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
