@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE QUANTIAS PAGAS C/C INDENIZATÓRIA POR DANOS MORAIS. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PREPARO. INSUFICIÊNCIA. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DO PREPARO. DESCUMPRIMENTO. RECONHECIMENTO DA DESERÇÃO. SÚMULA N. 187/STJ. INCIDÊNCIA.
+1. Ação de restituição de quantias pagas cumulada com indenizatória por danos morais.
+2. A parte mesmo após a intimação para sanar o vício apontado (artigo 1.007, parágrafos 2º e 4º do CPC/2015), não comprovou o recolhimento do valor para suprir o preparo insuficiente no prazo concedido, o que atrai a incidência da Súmula n. 187/STJ. Precedentes.
+3. Quando a parte, após regularmente intimada, não comprova, no prazo assinado, o recolhimento do preparo na forma devida, o recurso especial é considerado deserto. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por USI ALUMINIO COMERCIO E REPRESENTACAO LTDA. contra decisão singular, da Presidência desta Corte Superior, que não conheceu do recurso especial, nos termos do artigo 21-E, V, do RISTJ.
+Ação: de restituição de quantias pagas cumulada com indenizatória por danos morais, ajuizada por LIDER AGRONEGOCIOS LTDA., parte ora agravada, em face da parte ora agravante, de Sophia Ribeiro Barbosa, Adolpho Barbosa De Oliveira e Diego De Souza Mendes.
+Sentença: julgou parcialmente procedentes os pedidos para "a) CONDENAR a parte ré, Usi Aluminio LTDA, a RESTITUIR à autora, a título de danos materiais, o montante de R$ 45.000,00 (quarenta e cinco mil reais), acrescido de multa contratual no importe de 10% (dez por cento), a ser apurado em fase de liquidação de sentença, acrescido de juros moratórios de 1% (um por cento) ao mês, desde a citação, mais correção monetária pelo INPC, a partir de cada desembolso; b) CONDENAR a ré ao pagamento da quantia de R$ 5.000,00 (cinco mil reais), a título de indenização pelos danos morais causados, com a incidência de juros moratórios de 1% (um por cento) ao mês, desde a citação, e correção monetária pelo INPC, a partir da data desta sentença, nos termos da súmula 362 do STJ; c) RECONHECER a ilegitimidade passiva dos réus Sophia Ribeiro Barbosa, Adolpho Barbosa De Oliveira e Diego De Souza Mendes, determinando sua exclusão da presente lide; e d) Julgar IMPROCEDENTE o pedido de condenação da parte ré por erro técnico e atraso nas visitas técnicas" (e-STJ fl. 253).
+Acórdão: deu parcial provimento à apelação interposta pela parte ora agravante, "apenas para afastar a condenação da requerida e 1a apelante em dano moral, mantendo os demais termos sentença objurgada, por estes e seus próprios fundamentos" (e-STJ fl. 409), e não conheceu da apelação interposta pela parte ora agravada, nos termos da seguinte ementa (e-STJ fl. 411):
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO DE RESTITUIÇÃO DE QUANTIAS PAGAS C/C DANOS MORAIS. TEMPESTIVIDADE. INDISPONIBILIDADE DO PROJUDI. COMPROVAÇÃO. INTERPOSIÇÃO DO RECURSO. PRESTAÇÃO DE SERVIÇO. INADIMPLEMENTO DA REQUERIDA. RESTITUIÇÃO DOS VALORES PAGOS. MULTA COMPENSATÓRIA. I N C I D Ê N C I A . D A N O M O R A L . M E R O D E S C U M P R I M E N T O CONTRATUAL. INOCORRÊNCIA. 1. A jurisprudência do STJ e deste Sodalício firmou-se no sentido de que a indisponibilidade do sistema eletrônico do tribunal deve ser comprovada por documento idôneo no momento de interposição do recurso para fins de verificação da tempestividade do recurso, o que não ocorreu na hipótese. 2. A rescisão contratual é consequência lógico-jurídica do inadimplemento da parte, na forma do art. 475 do Código Civil, devendo ser mantida a multa compensatória, diante da incontroversa inadimplência da requerida. 3. O simples inadimplemento contratual, por si só, não é suficiente para a configuração do dano moral, devendo haver hábil comprovação nos autos sobre o abalo psíquico do pleiteante, o que não ocorreu no caso em comento, impondo-se o afastamento da respectiva condenação. 1a APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA. 2a APELAÇÃO NÃO CONHECIDA."
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Decisão da Presidência do STJ: não conheceu do recurso especial, em razão da incidência da Súmula n. 187/STJ.
+Agravo interno: afirma, em síntese, que "realizou o pagamento da guia de custas para interposição do recurso. Conquanto, devido ao erro no momento peticionar a comprovação do recolhimento, estes acabaram por anexar a guia de custas de modo cortado, isto devido ao assinador do sistema PROJUDI, que corta o PDF em formatos longos, limitando-se assinar a imagem em formato A4. Deste modo, o recorrente vem informar que o transtorno processual foi causado por erro no momento do peticionando na guia de custas. Posto isso, além das devidas escusas com este r. Juízo, o recorrente vem esclarecer que houve pagamento do preparo recursal de modo tempestivo" (e-STJ fl. 537).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE QUANTIAS PAGAS C/C INDENIZATÓRIA POR DANOS MORAIS. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PREPARO. INSUFICIÊNCIA. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DO PREPARO. DESCUMPRIMENTO. RECONHECIMENTO DA DESERÇÃO. SÚMULA N. 187/STJ. INCIDÊNCIA.
+1. Ação de restituição de quantias pagas cumulada com indenizatória por danos morais.
+2. A parte mesmo após a intimação para sanar o vício apontado (artigo 1.007, parágrafos 2º e 4º do CPC/2015), não comprovou o recolhimento do valor para suprir o preparo insuficiente no prazo concedido, o que atrai a incidência da Súmula n. 187/STJ. Precedentes.
+3. Quando a parte, após regularmente intimada, não comprova, no prazo assinado, o recolhimento do preparo na forma devida, o recurso especial é considerado deserto. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+MINISTRA NANCY ANDRIGHI (Relatora)
+Na hipótese, a decisão agravada não conheceu do recurso especial que interpusera a parte ora agravante, em razão da incidência da Súmula n. 187/STJ, nos termos da seguinte fundamentação (e-STJ fls. 530/531):
+"Cuida-se de Agravo interposto por USI ALUMINIO COMERCIO E REPRESENTACAO LTDA, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de USI ALUMINIO COMERCIO E REPRESENTACAO LTDA, verifica-se que a petição de Recurso Especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento juntado aos autos não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barras.
+Este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12.5.2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Dessa forma, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+(..)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso." (grifou-se)
+Da análise dos autos, observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+A decisão agravada não conheceu do recurso em razão da incidência da Súmula n. 187 do STJ, por ter sido o preparo recursal recolhido de forma insuficiente.
+Mesmo regularmente intimada para efetuar a complementação das custas (e-STJ fl. 523), a parte agravante não o fez (e-STJ fl. 526), o que atrai a incidência do verbete sumular n. 187 desta Corte Superior.
+Nesse sentido, os seguintes precedentes do Superior Tribunal de Justiça: AgInt no REsp n. 1.920.418/MS, Terceira Turma, DJe de 8/9/2022; AgInt nos EDcl no REsp n. 1.820.169/MG, Terceira Turma, DJe de 8/6/2022; AgInt no AREsp n. 2.266.084/RJ, Quarta Turma, DJe de 1º/6/2023; AgInt no AREsp n. 2.156.901/DF, Quarta Turma, DJe de 16/12/2022; AgInt no AREsp n. 1.021.320/SP, Primeira Turma, DJe de 17/8/2017; e AgInt no AREsp n. 1.549.481/PE, Segunda Turma, DJe de 1º/7/2020.
+Nesse cenário, competia-lhe proceder ao recolhimento em dobro, na forma do art. 1.007, §4º, do CPC, já que não houve a comprovação ao recolhimento do preparo no ato de interposição do recurso.
+Assim, apesar das alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo.
