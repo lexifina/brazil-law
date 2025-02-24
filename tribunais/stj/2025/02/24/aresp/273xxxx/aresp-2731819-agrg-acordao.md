@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DETRAÇÃO PENAL. AUSÊNCIA DE CONTESTAÇÃO AO FUNDAMENTO DA DECISÃO RECORRIDA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Está correta e deve ser mantida a decisão que não conheceu do agravo em recurso especial (AREsp) por falta de impugnação específica ao fundamento da decisão recorrida (Súmula n. 283 do STF), nos termos da Súmula n. 182 do STJ.
+2. O Tribunal de origem considerou como pena cumprida o período, convertido em horas, em que o condenado ficou submetido ao recolhimento obrigatório noturno e durante os dias de folga. O recurso especial interposto pela defesa foi inadmitido (Súmula n. 283 do STJ), devido à ausência de contestação aos fundamentos do acórdão estadual (falta de previsão legal e impossibilidade de detração penal de período não abrangido pela cautelar). No agravo em recurso especial, a parte não demonstrou o erro da decisão, o que impede o seu conhecimento.
+3. Agravo regimental não provido.
+RELATÓRIO
+DAVID DE CAMPOS MATEUS agrava da decisão da Presidência desta Corte, que não conheceu do seu AREsp por falta de impugnação à Súmula n. 283 do STF, indicada para fundamentar a inadmissibilidade do recurso especial.
+O insurgente reitera alegações de mérito e explica que "atacou diretamente os pontos essenciais da decisão de inadmissibilidade, sustentando que a aplicação da Súmula 283 do STF não se aplicava ao caso, uma vez que o recurso especial tratava de matéria de direito relacionada à correta aplicação da detração penal, não tendo sido analisada a questão de fundo de forma adequada" (fl. 285).
+Busca o conhecimento e o provimento do recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DETRAÇÃO PENAL. AUSÊNCIA DE CONTESTAÇÃO AO FUNDAMENTO DA DECISÃO RECORRIDA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Está correta e deve ser mantida a decisão que não conheceu do agravo em recurso especial (AREsp) por falta de impugnação específica ao fundamento da decisão recorrida (Súmula n. 283 do STF), nos termos da Súmula n. 182 do STJ.
+2. O Tribunal de origem considerou como pena cumprida o período, convertido em horas, em que o condenado ficou submetido ao recolhimento obrigatório noturno e durante os dias de folga. O recurso especial interposto pela defesa foi inadmitido (Súmula n. 283 do STJ), devido à ausência de contestação aos fundamentos do acórdão estadual (falta de previsão legal e impossibilidade de detração penal de período não abrangido pela cautelar). No agravo em recurso especial, a parte não demonstrou o erro da decisão, o que impede o seu conhecimento.
+3. Agravo regimental não provido.
+VOTO
+Sem razão o insurgente.
+O recurso especial da defesa foi inadmitido nos termos da Súmula n. 283 do STF. Entretanto, na petição do AREsp, às fls. 256-261, a parte deixou de demonstrar em que trechos do recurso especial abordou todos os fundamentos do acórdão recorrido, suficientes para a manutenção de sua conclusão. Explico.
+As instâncias ordinárias reconheceram o cômputo, como pena cumprida, do período de recolhimento obrigatório noturno e nos dias de folga. Registraram que "a medida  cautelar  perdurou de 9/6/2016 a 16/3/2020)" (fl. 207) e que esse período foi convertido em dias para a contagem da detração penal.
+Segundo o acórdão recorrido, "o período no qual o reeducando permaneceu em recolhimento domiciliar noturno já foi detraído da sua pena total" e não há previsão legal para "deduzir a detração a partir da data-base de 24/03/2021, considerando que não corresponde ao tempo em que o reeducando permaneceu em recolhimento domiciliar noturno" (fl. 208).
+O recurso especial interposto pela defesa (fls. 218-238) foi inadmitido por incidência da Súmula n. 283 do STF ante a:
+ ..  ausência de impugnação específica aos supratranscritos fundamentos basilares da decisão objurgada, em especial - o pedido da defesa não possui qualquer previsão legal. Anota-se não ser possível deduzir a detração a partir da data-base de 24/03/2021, considerando que não corresponde ao tempo em que o reeducando permaneceu em recolhimento domiciliar  ..
+No AREsp de fls. 256-261, a defesa deixou de contestar o fundamento da decisão agravada, pois a parte reafirmou a possibilidade de detração penal do período de recolhimento domiciliar noturno e alegou, de forma geral, que "não foi considerada a data-base correta" (fl. 259). Essa argumentação não explica o desacerto da decisão agravada. Era necessário indicar o lastro legal para pretender a detração penal de período que não corresponde à permanência do apenado em recolhimento domiciliar, o que deixou de ser feito.
+Assim, está correta a decisão da Presidência desta Corte, nos termos da Súmula n. 182 do STJ, pois, conforme o art. 932, III, do CPC e o art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+À vista do exposto, nego provimento ao agravo regimental.
