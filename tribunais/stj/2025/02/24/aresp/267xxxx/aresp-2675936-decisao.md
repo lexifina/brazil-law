@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ACCACIO LOURIVAL DE MORAES - ESPÓLIO, com fundamento na alínea a do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 272):
+AGRAVO DE INSTRUMENTO - Ação de habilitação de herdeiros a crédito decorrente de desapropriação de ações nominativas da extinta - Companhia Paulista de Estradas de Ferro Recurso contra decisão que indeferiu o pedido de habilitação, nos termos do art. 1.822, do CC - Pretensão de deferimento da habilitação do crédito de 162 ações nominativas e seu levantamento - Descabimento - Ausentes os requisitos autorizadores do pedido - Revisão pelo segundo grau de deferimento ou indeferimento de pretensão adstrito às hipóteses de decisões ilegais, irregulares, teratológicas ou eivadas de nulidade insanável - Hipóteses não configuradas no presente caso Inexistência de abuso de poder ou flagrante ilegalidade a autorizar a revisão do ato - Decisão mantida - Recurso desprovido.
+No recurso especial, o recorrente apontou violação do art. 34 do Decreto-Lei n. 3.365/1941.
+Esclareceu que se opôs ao acórdão por indeferiu o pedido de habilitação de crédito das ações desapropriadas, ordinárias nominativas da extinta Companhia Paulista de Estradas de Ferro, então pertencentes a Accacio Lourival de Moraes, em processo desapropriatório contra a execução de sentença.
+Destacou que, apesar dos erros de grafia, não há dúvida alguma de que o falecido Accacio Lourival de Moraes era o titular das ações nominativas da extinta Companhia Paulista de Estradas de Ferro, conforme comprovado nos autos de origem.
+Afirmou que certidões de óbito juntadas aos autos e outras provas documentais comprovam que, antigamente, alguns erros de grafia acometiam os documentos com maior frequência.
+Frisou que o espólio recorrente tem direito ao levantamento do valor depositado a título de indenização do bem expropriado, sendo essa a razão do pedido de habilitação indeferido pela decisão então agravada. Requereu o provimento do recurso especial (e-STJ, fls. 283-290).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 312-322).
+Contraminuta apresentada (e-STJ, fls. 328-334).
+Brevemente relatado, decido.
+O acórdão apenas se limitou a manter a decisão proferida na primeira instância, no sentido de que a pretensão dos habilitantes seria indevida, motivo pelo qual manteve o reconhecimento da prescrição e determinação de transferência dos valores depositados para o Tesouro Nacional do Banco Central do Brasil.
+Justificou-se no aresto que o julgamento então agravado não ostentaria vícios, não seria teratológico nem maculado por ilegalidades; logo, deveria ser mantido.
+Dessa forma, o teor do art. 34 do Decreto-Lei n. 3.365/1941 não foi objeto de análise na segunda instância nem foram opostos embargos de declaração no Tribunal estadual objetivando suprir eventual omissão, com a consequente alegação de ofensa ao art. 1.022 do CPC no recurso especial. Esse quadro evidencia a hipótese de carência de prequestionamento, inclusive ficto, a atrair a aplicação das Súmulas 282 e 356/STF.
+A título ilustrativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. 1.1. O prequestionamento ficto, previsto no art. 1.025 do CPC, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, pois somente dessa forma o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+Precedentes.
+2. De acordo com a jurisprudência desta E. Corte, em caso de leilão judicial da integralidade de bem imóvel indivisível - pertencente ao executado em regime de copropriedade - deve ser resguardada ao coproprietário alheio à execução o direito de preferência na arrematação do bem ou, caso não o queira, a compensação financeira pela sua quota-parte. Incidência da Súmula 83/STJ.
+3. A aferição do percentual em que cada litigante foi vencedor e/ou vencido e a conclusão pela existência de sucumbência mínima ou recíproca das partes demanda o revolvimento de matéria fática, impossível na presente via, conforme dispõe a Súmula 7 do STJ.
+Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.445.320/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/11/2024, DJe de 29/11/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO FICTO. INEXISTÊNCIA. VIOLAÇÃO DE ARTIGO. INDICAÇÃO PRECISA. NECESSIDADE. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Não se configura ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. "Esta Corte já pacificou entendimento em torno do art. 1.025 do CPC no sentido de que o reconhecimento do prequestionamento ficto com base no referido dispositivo legal pressupõe a oposição de embargos de declaração na origem sobre o ponto omisso já suscitado previamente, além de alegação e o reconhecimento, pelo STJ, de ofensa ao art. 1.022 do CPC suscitada nas razões do recurso especial, o que não ocorreu na hipótese" (AgInt nos EREsp n. 2.020.182/MS, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 11/6/2024, DJe de 14/6/2024).
+3. A citação geral de artigos de lei ao longo do apelo especial não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se foram eles citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incidência da Súmula 284 do STF.
+4. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.215.898/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO LEGAL. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
