@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MÚTUO. LIMITAÇÃO DE JUROS MORATÓRIOS. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que deu parcial provimento ao recurso especial para que os juros moratórios contratados observem o limite máximo correspondente ao dobro da taxa SELIC.
+II. Questão em discussão
+2. Consiste em saber se os juros moratórios contratados em mútuo não envolvendo instituição financeira devem observar o limite máximo correspondente ao dobro da taxa SELIC, conforme o art. 1º do Decreto n. 22.626/1933.
+III. Razões de decidir
+3. O art. 1º da Lei da Usura (Decreto n. 22.626/1933) dispõe que "é vedado (..) estipular em quaisquer contratos taxas de juros superiores ao dobro da taxa legal", que, na vigência do CC/2002, corresponde à Taxa SELIC, conforme pacificado por esta Corte Superior no julgamento do REsp n. 1.795.982/SP (relator para acórdão Ministro Raul Araújo, Corte Especial, julgado em 21/8/2024, DJe de 23/10/2024).
+4. A alegação de que a taxa SELIC não se aplica a contratos com índices de correção específicos não afasta a limitação imposta pela Lei de Usura.
+5. A análise de elementos fático-probatórios para verificar o abuso dos juros moratórios contratados é vedada na via especial, devendo ser realizada pela Corte local.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. Os juros moratórios em contratos de mútuo não envolvendo instituições financeiras devem observar o limite máximo correspondente ao dobro da taxa SELIC."
+Dispositivos relevantes citados: Decreto n. 22.626/1933, art. 1º; CC/2002, art. 406.
+Jurisprudência relevante citada: STJ, REsp 1.795.982/SP, Rel. Min. Raul Araújo, Corte Especial, julgado em 21/08/2024; STJ, REsp 1.352.452/RN, Rel. Min. Sidnei Beneti, Terceira Turma, julgado em 07/05/2013.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 411/419) interposto contra decisão desta relatoria, que deu parcial provimento ao recurso especial do ora agravado para que os juros moratórios contratados observem o limite máximo correspondente ao dobro da taxa SELIC (e-STJ fls. 403/407).
+Em suas razões, a parte agravante alega que "a Selic deve ser aplicada em casos de indenizações que não tenham origem em relações contratuais que prevejam outros índices de correção" (e-STJ fl. 418), e que "deve ser observado o Pacta Sunt Servanda, uma vez que a estipulação do valor referente aos juros teve aceite por partes completamente capazes e se deu exatamente pelo risco de inadimplemento" (e-STJ fl. 417).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 427/434).
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MÚTUO. LIMITAÇÃO DE JUROS MORATÓRIOS. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que deu parcial provimento ao recurso especial para que os juros moratórios contratados observem o limite máximo correspondente ao dobro da taxa SELIC.
+II. Questão em discussão
+2. Consiste em saber se os juros moratórios contratados em mútuo não envolvendo instituição financeira devem observar o limite máximo correspondente ao dobro da taxa SELIC, conforme o art. 1º do Decreto n. 22.626/1933.
+III. Razões de decidir
+3. O art. 1º da Lei da Usura (Decreto n. 22.626/1933) dispõe que "é vedado (..) estipular em quaisquer contratos taxas de juros superiores ao dobro da taxa legal", que, na vigência do CC/2002, corresponde à Taxa SELIC, conforme pacificado por esta Corte Superior no julgamento do REsp n. 1.795.982/SP (relator para acórdão Ministro Raul Araújo, Corte Especial, julgado em 21/8/2024, DJe de 23/10/2024).
+4. A alegação de que a taxa SELIC não se aplica a contratos com índices de correção específicos não afasta a limitação imposta pela Lei de Usura.
+5. A análise de elementos fático-probatórios para verificar o abuso dos juros moratórios contratados é vedada na via especial, devendo ser realizada pela Corte local.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. Os juros moratórios em contratos de mútuo não envolvendo instituições financeiras devem observar o limite máximo correspondente ao dobro da taxa SELIC."
+Dispositivos relevantes citados: Decreto n. 22.626/1933, art. 1º; CC/2002, art. 406.
+Jurisprudência relevante citada: STJ, REsp 1.795.982/SP, Rel. Min. Raul Araújo, Corte Especial, julgado em 21/08/2024; STJ, REsp 1.352.452/RN, Rel. Min. Sidnei Beneti, Terceira Turma, julgado em 07/05/2013.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 403/407):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 338/344).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 272/273):
+Direito Civil. Contrato de Mútuo. Garantia. Ação de cobrança. Sentença de procedência. Recurso. Alegação de ilegitimidade passiva e abusividade da taxa de juros aplicada. Desprovimento.
+Apelante que após sua saída do quadro societário, deixou de realizar a comunicação formal aos credores acerca da alteração do quadro societário, além de não requerer a exoneração da garantia prestada. Deste modo, não há que se falar em exoneração da fiança prestada, sendo parte legítima para figurar no polo passivo da demanda.
+Permissivo legal que, expressamente, autoriza a prática de juros remuneratórios em tratativas como as do caso em debate em até o dobro da taxa legal (art. 1º do Decreto 22.626/1933).
+Assim, os juros remuneratórios que podem ser fixados até o limite de 2% (dois por cento) ao mês ou 24% (vinte e quatro por cento) ao ano, sem capitalização mensal, não havendo que se falar em ilicitude ou repetição em contrato de mútuo feneratício firmado por particulares, como no caso, em que firmados os juros em 1,5% (um vírgula cinco por cento) ao mês.
+Precedentes citados: REsp 1112852/SP, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 05/04/2011, DJe 27/04/2011; AgRg no AgRg no REsp 1395559/MS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/02/2016, DJe 25/02/2016; Apelação Cível 0016759- 63.2002.8.19.0002 - Décima Sexta Câmara Cível - Rel.: Des(a). Marco Aurélio Bezerra de Melo - Julgamento: 10/12/2019.
+Desprovimento do recurso.
+Os embargos de declaração foram rejeitados (e-STJ fls. 293/297).
+Nas razões do recurso especial (e-STJ fls. 299/314), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 819 do CC, aduzindo que, "em razão dos inúmeros descumprimentos contratuais praticados em detrimento do fiador, Sr. Francisco, deve ser reconhecida a ineficácia absoluta da fiança, tanto (i) pela inércia das partes contratantes em contratar o "Seguro de Término de Obra" no contrato de mútuo, quanto (ii) pela responsabilidade da MJ2015 no contrato de alienação das ações, em que se acordou expressamente a obrigação da adquirente em alterar todas as garantias fidejussórias anteriormente pactuadas pelas sociedades alienadas" (e-STJ fl. 307),
+(ii) art. 805 do CPC/2015, sustentando "que a execução deverá seguir, primeiramente, sobre os imóveis dados em garantia na Cláusula 4.3 do contrato de mútuo sub judice, em observância ao princípio da menor onerosidade do devedor" (e-STJ fl. 310), e
+(iii) arts. 591 e 406 do CC, 161, § 1º, do CTN e 1º, § 1º, do Decreto n. 22.262/1933, defendendo a necessidade de limitação dos juros moratórios à taxa de 1% (um por cento) ao mês.
+No agravo (e-STJ fls. 362/373), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 377/385 (e-STJ).
+É o relatório.
+Decido.
+Da ofensa ao art. 819 do CC
+O Tribunal de origem decidiu acerca da alegada ineficácia da garantia prestada pela parte agravante nos seguintes termos (e-STJ fls. 275/278, destaquei):
+Pleiteia o segundo réu, ora apelante, a exoneração de fiança pactuada em favor de sociedade da qual era sócio à época da realização do contrato de mútuo.
+Para tanto, afirma que transferiu suas ações por meio do Contrato de Compra e Venda de Ações de fls. 112/128; e que os novos proprietários teriam ficado obrigados a substituir todas as garantias fidejussórias por ele outorgadas, tendo, portanto, a seu ver, assumido o passivo ora em debate.
+Prevê o artigo 835 do Código Civil a hipótese de exoneração da fiança, mediante notificação do credor, permanecendo a obrigação pelo prazo de 60 dias, in verbis:
+ ..
+Além disso, a jurisprudência do Egrégio Superior Tribunal de Justiça manifesta-se no sentido de ser possível a exoneração da fiança após a retirada do sócio da sociedade, desde que seja observada a boa-fé e que haja a comunicação formal da alteração do quadro societário e a aceitação da substituição da garantia.
+ ..
+Portanto, considerando que o apelante, após sua saída do quadro societário, deixou de realizar a comunicação formal aos credores acerca da alteração do quadro societário, além de não requerer a exoneração da garantia prestada, não há que se falar em exoneração da fiança prestada, sendo parte legítima para figurar no polo passivo da demanda.
+Da mesma forma não merece prosperar o argumento de que a referida garantia apenas seria válida enquanto não contratado o "Seguro de Término de Obra".
+As garantias do contrato estão previstas na cláusula quarta, estando nelas previsto, no item 4.1, que a mutuária se compromete a contratar, no menor espaço de tempo possível, com seguradora de primeira linha e de reputação ilibada, "Seguro de Término de Obra" para o empreendimento, de forma a garantir o bom andamento da construção.
+Da mesma cláusula, no item 4.2, consta que em caráter provisório e tão-somente até que a mutuária contrate o seguro referido no item 4.1, supra, fica instituída a garantia pessoal e fidejussória prestada pelo garantidor em favor dos mutuantes, que também assina o presente instrumento na qualidade de fiador e principal pagador, assumindo, em caráter solidário, todas as obrigações ora assumidas pela mutuária e renunciando expressamente a qualquer benefício de ordem, inclusive aos favores dos arts. 827, 828, 829, 838 e 839, da Lei nº 10.406/2002.
+Pois bem, resta claro que o termo final da garantia prestada pelo ora apelante é a contratação, em menor espaço de tempo possível, de "Seguro de Término de Obra", o qual nunca foi contratado. Contudo, como representante e sócio da empresa mutária, caberia a ele tal incumbência, não sendo crível que se valha de sua própria torpeza para esquivar-se do pagamento de dívida com a qual se comprometeu como fiador e principal pagador, tendo, inclusive, renunciado a qualquer benefício de ordem.
+Entretanto, do que consta no recurso especial, depreende-se que a parte agravante não apresenta impugnação quanto (i) à necessidade de realizar a comunicação formal aos credores acerca da alteração do quadro societário e de requerer a exoneração da garantia prestada e (ii) à proibição da contradição desleal no exercício do direito, manifestada, no caso concreto, na figura de que a ninguém é dado beneficiar-se da própria torpeza (nemo auditur propriam turpitudinem allegans).
+Subsistindo incólumes fundamentos suficientes para a manutenção do acórdão recorrido, incide a Súmula n. 283 do STF.
+Da violação do art. 805 do CPC/2015
+A apontada afronta ao art. 805 do CPC/2015, sob o argumento de inobservância do princípio da menor onerosidade do devedor, não foi apreciada pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Entendendo remanescer o vício, caberia à parte alegar, em recurso especial, violação do art. 1.022 do CPC/2015 no referido ponto, o que não ocorreu.
+Dessa forma, pela falta do indispensável prequestionamento da matéria, incide a Súmula n. 211 do STJ.
+Da afronta aos arts. 591 e 406 do CC, 161, § 1º, do CTN e 1º, § 1º, do Decreto n. 22.262/1933
+Cuidando-se de mútuo não envolvendo instituição financeira, o Tribunal de origem concluiu que os juros de mora não podem exceder ao dobro da taxa prevista no art. 2º da Lei n. 5.421/1968 (1% ao mês), concluindo pela ausência de abusividade na pactuação de juros moratórios no patamar de 1,5% (um vírgula cinco por cento ao mês) a.m.
+Embora o acórdão recorrido tenha entendido adequadamente pela não limitação dos juros moratórios ao percentual de 1% (um por cento) ao mês, verifica-se que não foi aplicado o parâmetro correto.
+Com efeito, o art. 1º da Lei da Usura (Decreto n. 22.626/1933) dispõe ser vedado "estipular em quaisquer contratos taxas de juros superiores ao dobro da taxa legal", que, na vigência do CC/2002, corresponde à Taxa SELIC, conforme pacificado por esta Corte no julgamento do REsp n. 1.795.982/SP (relator para acórdão Ministro Raul Araújo, Corte Especial, julgado em 21/8/2024, DJe de 23/10/2024).
+Assim, segundo a jurisprudência desta Corte, "com exceção das instituições financeiras, as demais pessoas, físicas ou jurídicas ,  somente podem contratar juros até o limite máximo correspondente ao dobro dos juros fixados no Código Civil de 2012  2002 , sob pena de ofensa à Lei de Usura", de modo que, "atualmente, a taxa máxima de juros permitida pelo Decreto-lei nº 22.626/33, corresponde ao dobro da Taxa SELIC" (REsp n. 1.352.452/RN, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 7/5/2013, DJe de 10/5/2013).
+Desse modo, o recurso merece ser provido para que os juros moratórios contratados observem o limite máximo correspondente ao dobro da taxa SELIC, na forma do art. 1º do Decreto n. 22.626/1933 combinado com o art. 406 do CC/2002, salvo se a taxa pactuada for mais benéfica ao devedor.
+No entanto, o reconhecimento do abuso dos juros moratórios contratados no caso concreto demandaria análise de elementos fático-probatórios, providência vedada a esta Corte, razão pela qual se impõe o retorno do feito à Corte local, para reexame da questão.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, DAR-LHE PARCIAL PROVIMENTO, a fim de determinar a devolução dos autos ao Tribunal de origem para que, à luz do entendimento jurisprudencial desta Corte Superior, proceda à reanálise da alegação de abuso dos juros de mora pactuados.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, cuida-se de mútuo que não envolve instituição financeira.
+Portanto, incide no presente caso o imperativo previsto no art. 1º da Lei da Usura (Decreto n. 22.626/1933), segundo o qual "é vedado (..) estipular em quaisquer contratos taxas de juros superiores ao dobro da taxa legal".
+Por sua vez, na vigência do CC/2002, a taxa legal corresponde à Taxa SELIC, conforme pacificado por este Tribunal Superior no julgamento do REsp n. 1.795.982/SP (relator para acórdão Ministro Raul Araújo, Corte Especial, julgado em 21/8/2024, DJe de 23/10/2024).
+Assim, reitera-se, nos termos de precedente desta Corte, que, "com exceção das instituições financeiras, as demais pessoas, físicas ou jurídicas ,  somente podem contratar juros até o limite máximo correspondente ao dobro dos juros fixados no Código Civil de  2002 , sob pena de ofensa à Lei de Usura", de modo que, "atualmente, a taxa máxima de juros permitida pelo Decreto-lei nº 22.626/33, corresponde ao dobro da Taxa SELIC" (REsp n. 1.352.452/RN, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 7/5/2013, DJe de 10/5/2013).
+Destaca-se que a alegação de que a taxa SELIC não se aplica a contratos com índices de correção específicos não afasta a limitação imposta pela Lei de Usura.
+Logo, forçoso o parcial provimento do recurso especial para que os juros moratórios contratados observem o limite máximo correspondente ao dobro da taxa SELIC, na forma do art. 1º do Decreto n. 22.626/1933 combinado com o art. 406 do CC/2002, salvo se a taxa pactuada for mais benéfica ao devedor.
+Considerando, todavia, que o reconhecimento do abuso dos juros moratórios contratados, no caso concreto, demandaria análise de elementos fático-probatórios, providência vedada a esta Corte, impõe-se o retorno do feito à Corte local, para reexame da questão.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
