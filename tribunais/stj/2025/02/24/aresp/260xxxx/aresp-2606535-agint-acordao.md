@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. INOCORRÊNCIA.
+1. Ação de indenização, em fase de cumprimento de sentença.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Examina-se agravo interno interposto por OI S.A. - EM RECUPERACAO JUDICIAL contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+Ação: de indenização, em fase de cumprimento de sentença, ajuizada por ARNALDO PAULUS em face de OI S.A. - EM RECUPERACAO JUDICIAL decorrente de contrato de participação financeira firmado com a extinta CRT, visando à subscrição ou indenização em dinheiro do valor equivalente à diferença em ações da Celular CRT Participações e dos dividendos.
+Decisão interlocutória: indeferiu o pedido de efeito suspensivo da parte ora agravada, recebendo o recurso somente no efeito devolutivo.
+Acórdão: deu provimento ao agravo de instrumento interposto por ARNALDO PAULUS, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA DA BRASIL TELECOM. CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. LIBERAÇÃO DE VALORES. IMPOSSIBILIDADE.
+Se mostra inviável a devolução de valores para a empresa recuperanda, especialmente pelo fato de o plano de recuperação judicial prever a possibilidade de pagamento do credor com a utilização dos depósitos judiciais, devendo, por cautela, ser obstada a devolução da quantia para a executada. Precedentes. AGRAVO DE INSTRUMENTO PROVIDO." (fl. 1.422, e-STJ).
+Embargos de Declaração: opostos por OI S.A. - EM RECUPERACAO JUDICIAL, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, III e IV, e 1.022, I e II, do Código de Processo Civil. Além de negativa de prestação jurisdicional, sustenta que o Tribunal a quo laborou em equívoco, tendo em vista que o seu acórdão apresentou contradição interna e obscuridade, afirmando que, se o crédito tem natureza concursal, não havendo justificativa para se aguardar a sua satisfação na origem, dado que o pagamento ocorrerá nos autos do processo de recuperação judicial, bem como que "se o credor deverá habilitar seu crédito, despicienda a necessidade de manutenção de valores nos autos de origem", e, ainda, que a existência de constrição judicial não altera a natureza do crédito, que se dá em ocorrência da data do fato gerador e "a classe de crédito decorre da natureza do contrato que originou".
+Decisão unipessoal: conheceu do agravo para negar provimento ao recurso especial, com base no seguinte fundamento:
+i) ausência de demonstração de ofensa aos arts. 489 e 1.022 do CPC.
+Agravo interno: a parte agravante alega a negativa de prestação jurisdicional do Tribunal de origem e deficiência de fundamentação do Tribunal de origem, repetindo as mesmas razões recursais despendidas em seu apelo extremo.
+Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. INOCORRÊNCIA.
+1. Ação de indenização, em fase de cumprimento de sentença.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+- Da violação dos arts. 489 e 1.022 do CPC
+Confirma-se o assentando de que é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação; ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido nas instâncias ordinárias decidiu, fundamentada e expressamente acerca dos pontos supostamente omissos, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Nesse sentido, o acórdão recorrido ao decidir, fundamentada e expressamente acerca das questões suscitadas, já havia esclarecido o que segue:
+"A parte agravante alega, em síntese, que devem ser devolvidos os valores sacados pela agravada a título de garantia do juízo, pois o cumprimento de sentença ainda não transitou em julgado, esclarecendo que o crédito do agravado será pago nos termos do Plano de Recuperação Judicial. Em caso positivo, até que o crédito esteja habilitado, para fins de posterior pagamento aos credores, ora agravante, na forma de depósito judicial do plano de recuperação judicial já aprovado.
+Pois bem.
+Tendo em vista que o processo de origem deve se submeter aos efeitos da recuperação judicial (Contrato de participação financeira é de 18.06.1990), mostra-se inviável a devolução para a OI/ S/A, enquanto não ocorrer a satisfação do crédito pertencente ao exequente ou, pelo menos, até que o juízo universal da recuperação judicial solicite liberação dos valores depositados para alguma das partes.
+A cautela de manutenção dos valores depositados perante o processo originário se justifica, especialmente, porque o plano de recuperação judicial prevê a possibilidade de pagamento do credor com a utilização dos depósitos judiciais, fato que é questão de deliberação exclusiva do juízo universal, razão pela qual deve a empresa agravada, OI S/A. -Recuperação Judicial, proceder a devolução dos valores sacados (fl. 1328 - Valor do alvará R$ 270.693,66), depositando a importância e vinculando-a ao processo originário nº 001/1.05.2457263-5, que tramita perante a 7ª Vara Cível do Foro Central da Comarca de Porto Alegre.
+(..)
+Ainda, de acordo com precedentes da 12ª Câmara Cível -a qual pertence ao mesmo Grupo Cível desta Câmara, tendo em vista que a parte credora deverá, ao que tudo indica, se habilitar no processo de recuperação judicial, e que a existência de constrição judicial pode repercutir na categoria de seu crédito, não há falar em autorização para o levantamento das quantias em favor da recuperanda até que a condenação seja satisfeita ou, então, até que seja reconhecida a impossibilidade, no âmbito do processo de recuperação judicial, de pagamento do crédito por meio dos valores depositados."
+Em sede de embargos declaratórios, o Tribunal de origem ratificou o posicionamento, confira-se:
+"É de clareza solar o julgamento pelo colegiado. O que foi decidido é que a importância controvertida não deve ser devolvida para a embargante enquanto não houver a satisfação do crédito ou até que o juízo universal da recuperação judicial solicite liberação dos valores depositados para alguma das partes. Inclusive, restou clara a possibilidade, dentro do plano de recuperação judicial, a previsão de pagamento ao credor com a utilização dos depósitos judiciais, fato que é questão de deliberação exclusiva do juízo universal. E, a habilitação no processo de recuperação judicial é uma possibilidade. A devolução dos valores é para a garantia do juízo, pois o saldo ficará bloqueado em conta judicial vinculada ao feito, até o trânsito em julgado da impugnação à execução, inclusive para a habilitação do crédito, e para fins de pagamento aos credores." (fl. 1.523, e-STJ).
+Referida conclusão, repise-se, encontra-se suficientemente fundamentada pelo Tribunal de origem, não havendo que se falar em vício do julgado pela mera ausência de menção a determinado dispositivo legal invocado pela parte agravante, ou a tese incapaz de alterar a conclusão posta.
+De fato, é certo que "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente detalhadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no REsp 1.708.568/SP, 2ª Turma, DJe 10/03/2020).
+Dessa maneira, em suma, rigorosamente analisadas as questões relevantes à solução da controvérsia, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não prospera a alegação de violação dos arts. 489 e 1.022 do CPC.
+Logo, a decisão agravada não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
