@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO DE FORMA ADEQUADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recurso especial não foi conhecido com fundamento na Súmula n. 284 do STF, pois a deficiência na sua fundamentação não permitiu a exata compreensão da controvérsia.
+2. Para contestar a decisão agravada, era necessário à defesa indicar em quais trechos do recurso especial inadmitido houve a indicação expressa de dispositivos de lei federal e a demonstração de sua violação pelo Tribunal de origem, o que não se verifica. Dessa forma, o regimental não pode ser conhecido, nos termos da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+LEVI DE OLIVEIRA JUNIOR interpõe agravo contra decisão proferida pela Presidência desta Corte, que não conheceu do agravo em recurso especial, com fundamento na Súmula n. 284 do STF.
+Em razões recursais (fls. 234-242), o agravante argumenta que "todos os arrazoados, indistintamente, estão contidos de até exagerada indicação precisa dos dispositivos legais federais que foram violados e ainda mais, dos dispositivos legais objeto de dissídio interpretativo. Aliás, os inconformismos estão respaldados até mesmo em decisões dessa mesma Colenda Corte" (fl. 235).
+Em acréscimo, reitera as razões do recurso especial, pois "cumpria a pena que lhe foi imposta de forma regular, até que foi impedido de dar continuidade ao cumprimento  ..  por conta da pandemia do COVID- 19" (fl. 236). Assim, não pode ser punido com a suspensão da execução e deve ser decretada a "prescrição da pena privativa de liberdade  .. , extinguindo sua punibilidade, dispensando-o do cumprimento do restante da pena restritiva" (fl. 241).
+Ao final, requer o conhecimento e provimento do agravo regimental para fins de conhecimento e provimento do recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO DE FORMA ADEQUADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recurso especial não foi conhecido com fundamento na Súmula n. 284 do STF, pois a deficiência na sua fundamentação não permitiu a exata compreensão da controvérsia.
+2. Para contestar a decisão agravada, era necessário à defesa indicar em quais trechos do recurso especial inadmitido houve a indicação expressa de dispositivos de lei federal e a demonstração de sua violação pelo Tribunal de origem, o que não se verifica. Dessa forma, o regimental não pode ser conhecido, nos termos da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+VOTO
+O agravante deve contestar, nas razões do regimental, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso, nos termos da Súmula n. 182 do STJ.
+Às fls. 228-229, a Presidência desta Corte destacou que é inadmissível o recurso especial quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. No caso, dispositivos federais foram mencionados de forma genérica. A parte deixou de indicar e de demonstrar a efetiva ofensa à legislação federal. Não basta, para tanto, "a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF" (AgInt no AR Esp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020)" (fl. 228).
+Neste regimental, mais uma vez, a defesa deixou de observar a regra contida no art. 1.021, § 1º, do Código de Processo Civil, pois não demonstrou o desacerto da decisão agravada, e é insuficiente, para afastar a incidência da Súmula n. 284 do STF, afirmar genericamente a aptidão form al do recurso especial ou reiterar as razões do inconformismo.
+Era necessário à defesa indicar em quais trechos do recurso especial inadmitido houve a indicação de dispositivos de lei federal e a demonstração de sua violação pelo Tribunal de origem, o que não se verifica. Dessa forma, o regimental não pode ser conhecido, nos termos da Súmula n. 182 do STJ, por falta de argumentos suficientes para alterar o entendimento anteriormente firmado.
+Por fim, destaco a ausência de flagrante ilegalidade e a impossibilidade de concessão da ordem de ofício, pois, conforme a jurisprudência desta Corte:
+ ..  não é admissível, por ausência de previsão legal, que se considere como cumprida a pena daquele que já obtivera - por motivo de força maior e para não se expor a maior risco em virtude da pandemia - o benefício da suspensão da pena restritiva de direitos, sendo absolutamente necessário o efetivo cumprimento da pena como instrumento tanto de ressocialização do apenado como de contraprestação em virtude da prática delitiva, a fim de que o reeducando alcance o requisito necessário para a extinção de sua punibilidade"  ..  (AgRg no REsp 2.055.319/TO, relator o Ministro Messod Azulay Neto, Quinta Turma, julgado em 06/02/2024, DJe de 15/02/2024).
+À vista do exposto, não conheço do agravo regimental.
