@@ -1,0 +1,103 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CONTRATUAL. VÍCIOS CONSTRUTIVOS. INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por construtora contra decisão que não conheceu de agravo em recurso especial, com fundamento na Súmula 7 do STJ, em ação indenizatória por vício de construção, onde se discutia a inversão do ônus da prova.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a inversão do ônus da prova, com base na hipossuficiência do autor, é cabível em ação indenizatória por vício de construção, considerando a participação do autor em programa habitacional de baixa renda.
+3. A questão também envolve a análise da possibilidade de reexame de provas e cláusulas contratuais em recurso especial, à luz da Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+4. O Tribunal a quo justificou a inversão do ônus da prova com base na hipossuficiência do autor, participante de programa habitacional, e na capacidade técnica superior da construtora e da instituição financeira.
+5. A decisão recorrida foi mantida, pois a análise da distribuição do ônus probatório demandaria reexame de provas, o que é vedado em recurso especial, conforme a Súmula 7 do STJ.
+6. A jurisprudência do STJ estabelece que a alteração das conclusões sobre o ônus da prova requer reexame do acervo fático-probatório, o que atrai o óbice da Súmula 7.
+IV. AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por CURY CONSTRUTORA E INCORPORADORA S/A contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial com fundamento na Súmula 7/STJ (e-STJ fls. 166-170).
+Nas razões do presente agravo interno (e-STJ, fls. 177-179), sustenta a defesa que a Súmula n. 7/STJ não se aplica ao caso, pois não se trata de revaloração da prova, mais sim de decisão que violou diretamente os artigos 373, §1º do CPC e 6º do CDC em razão da ausência de razões válidas para a alteração da distribuição do ônus da prova.
+Requer a reconsideração da decisão ou, alternativamente, a submissão do caso ao julgamento pela Turma.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CONTRATUAL. VÍCIOS CONSTRUTIVOS. INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por construtora contra decisão que não conheceu de agravo em recurso especial, com fundamento na Súmula 7 do STJ, em ação indenizatória por vício de construção, onde se discutia a inversão do ônus da prova.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a inversão do ônus da prova, com base na hipossuficiência do autor, é cabível em ação indenizatória por vício de construção, considerando a participação do autor em programa habitacional de baixa renda.
+3. A questão também envolve a análise da possibilidade de reexame de provas e cláusulas contratuais em recurso especial, à luz da Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+4. O Tribunal a quo justificou a inversão do ônus da prova com base na hipossuficiência do autor, participante de programa habitacional, e na capacidade técnica superior da construtora e da instituição financeira.
+5. A decisão recorrida foi mantida, pois a análise da distribuição do ônus probatório demandaria reexame de provas, o que é vedado em recurso especial, conforme a Súmula 7 do STJ.
+6. A jurisprudência do STJ estabelece que a alteração das conclusões sobre o ônus da prova requer reexame do acervo fático-probatório, o que atrai o óbice da Súmula 7.
+IV. AGRAVO INTERNO DESPROVIDO.
+VOTO
+O inconformismo do agravante não merece prosperar, uma vez que não foi trazido nenhum elemento apto a infirmar a conclusão adotada pela decisão recorrida.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 166-170):
+Cuida-se de Agravo apresentado por CURY CONSTRUTORA E INCORPORADORA S/A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. VÍCIO DE CONSTRUÇÃO. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. - A INVERSÃO DO ÔNUS DA PROVA É MEDIDA PREVISTA TANTO NO CDC QUANTO NO CPC, QUE REDISTRIBUI O ÔNUS DA PROVA ÀQUELE QUE DETÉM MELHORES CONDIÇÕES DE PRODUZI-LA, SEJA PORQUE POSSUA MAIOR CAPACIDADE TÉCNICA, SEJA PELO FATO DE QUE A OUTRA PARTE NÃO POSSUI MEIOS PARA CONSTITUIR PROVA ROBUSTA DO SEU DIREITO. - NO CASO DOS AUTOS, O CONDOMÍNIO FAZ PARTE DO PROGRAMA MINHA CASA MINHA VIDA - RECURSOS FAR (FUNDO DE ARRENDAMENTO RESIDENCIAL), PROGRAMA DE POLÍTICA PÚBLICA HABITACIONAL CRIADO PELO GOVERNO FEDERAL, COM O OBJETIVO DE SUBSIDIAR E FACILITAR A AQUISIÇÃO DE MORADIA À POPULAÇÃO DE BAIXA RENDA. PORTANTO, A INVERSÃO DO ÔNUS DA PROVA SE JUSTIFICA PLENAMENTE, EM RAZÃO DA HIPOSSUFICIÊNCIA DA PARTE AUTORA EM RELAÇÃO À RÉ. - AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 373, § 1º, do Código de Processo Civil, e 6º, VIII, do Código de Defesa do Consumidor, no que concerne à inexistência de hipossuficiência da parte contrária a justificar a inversão do ônus da prova, trazendo a seguinte argumentação:
+O v. acórdão embargado, ao argumento de uma (inexistente) hipossuficiência técnica do recorrido de provar o fato constitutivo de seu direito, qual seja, a existência de vícios construtivos, frente às demandadas, acabou por aplicar a inversão do ônus da prova - com fundamento no artigo 6º, VIII, do Código de Defesa do Consumidor - e redistribuição dinâmica do ônus probatório - com fundamento no artigo 373, § 1º do Código de Processo Civil, que assim dispõem, respectivamente:
+Art. 6º São direitos básicos do consumidor:
+VIII - a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências
+Art. 373. O ônus da prova incumbe:
+I - ao autor, quanto ao fato constitutivo de seu direito;
+II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+§ 1º Nos casos previstos em lei ou diante de peculiaridades da causa relacionadas à impossibilidade ou à excessiva dificuldade de cumprir o encargo nos termos do caput ou à maior facilidade de obtenção da prova do fato contrário, poderá o juiz atribuir o ônus da prova de modo diverso, desde que o faça por decisão fundamentada, caso em que deverá dar à parte a oportunidade de se desincumbir do ônus que lhe foi atribuído.
+Contudo, sua fundamentação, baseou-se, unicamente, no fato que o "que o condomínio faz parte do Programa Minha Casa Minha Vida - Recursos FAR (Fundo de Arrendamento Residencial)", além de que "a parte agravada é notadamente hipossuficiente em relação à instituição financeira e à construtora, além da possibilidade de contar com profissionais qualificados e especializados para a defesa de seus direitos".
+Ora, data maxima venia, ao contrário do entendimento firmado pelo acórdão recorrido, não há qualquer dificuldade do recorrido comprovar as suas alegações, inclusive de forma técnica, eis que necessariamente o caso dos autos precisa ser dirimido através de prova pericial, que se encontra em curso perante o juízo de piso, NÃO SE JUSTIFICANDO A ALEGADA HIPOSSUFICIÊNCIA BASEADA NO FATO DE SER INTEGRANTE DO MINHA CASA MINHA VIDA.
+Há de se salientar que na hipótese dos autos, o recorrido conta com apoio de Assistente Técnico indicado nos autos, tendo formulado diversos quesitos a fim de corroborar as suas alegações, como se observa no index 304855526 dos autos principais:
+ ..
+Além de ser patrocinado por advogado particular.
+Não se vislumbra qualquer hipossuficiência do recorrido nos autos que, mesmo sendo integrante de programa governamental destinado à população de baixa renda, o mesmo é capaz de contratar advogado e assistente técnico.
+De ver-se, pois, que não há nos autos qualquer desiquilíbrio técnico entre as partes processuais, já que todas elas, diante da realização de perícia, estão devidamente assistidas por profissionais capazes de lhes assegurar o integral acompanhamento da perícia e debate de suas conclusões, seja o recorrido, como edificação integrante de programa governamental à população de baixa renda, seja a CEF, como entidade financeira e gestora do Programa, seja a recorrente, como construtora.
+Ademais, não se cuida de ação ajuizada por adquirentes isolados, mas sim do próprio condomínio, pelo que resta descaracterizada qualquer vulnerabilidade, seja fática, técnica ou jurídica.
+De fato, a presente relação é estabelecida de forma paritária, não havendo razões para se aplicar o teor do artigo 373, §1º do CPC/15, alterando-se a distribuição do ônus da prova de acordo com a norma geral.
+Da mesma não há razões para se aplicar o artigo 6º, VIII, do Código de Defesa do Consumidor, porquanto não resta caracterizada a hipossuficiência técnica do recorrido, nem qualquer dificuldade em provar o fato constitutivo de seu direito
+Assim, ao alterar a distribuição do ônus da prova, ou inverter o ônus, sem qualquer fundamentação que justifique a impossibilidade e/ou excessiva dificuldade do encargo probatório, o acórdão recorrido violou frontal e diretamente os artigos 373, §º, do Código de Processo Civil e 6º, VIII, do Código de Defesa do Consumidor.
+Ademais, conforme se extrai da simples leitura da peça inaugural do recorrido, do Agravo, o que pretendeu o mesmo foi apenas se desincumbir, sem qualquer razão plausível, do ônus de produzir provas que estão a seu perfeito alcance, tal como a prova pericial.
+De ver-se, pois, que não se trata de um direcionamento à parte que tenha melhores condições de produzir as provas, já que na hipótese, a lide se resolverá mediante pericia, já deferida porquanto requerida por todas as partes, estando à mesma em pleno alcance de todos os envolvidos.
+O equilíbrio na hipótese presente, repita-se, diante do deferimento de perícia e acompanhamento de assistente técnica por todas as partes, mostra-se evidente, não havendo nada nos autos que justifique a alteração do encargo probatório.
+Com efeito, não há qualquer dificuldade do recorrido de provar o fato constitutivo de seu direito, qual seja, a (alegada) existência de vícios construtivos, ainda mais quando já resta deferida pelo juízo de piso a realização de prova pericial para dirimir o ponto controvertido da lide.
+Assim, ao contrário do que entendeu o v. acordão recorrido, considerando que a questão será dirimida por prova pericial e que todas as partes possuem assistente técnico nos autos, não há qualquer elemento capaz de revelar a impossibilidade ou excessiva dificuldade de o condomínio comprovar as suas alegações, exceto pelo fato de que suas razões não procedem, a impor, especialmente porque na espécie será realizada prova pericial - requerida por todas as partes - por violação ao artigo 373,§º, do CPC e 6, VIII, do CDC, o provimento do presente recurso (fls. 72-75).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No que tange à inversão do ônus da prova, cumpre trazer à baila o disposto no art. 373, do CPC, verbis:
+Art. 373. O ônus da prova incumbe:
+I - ao autor, quanto ao fato constitutivo de seu direito;
+II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+§ 1º Nos casos previstos em lei ou diante de peculiaridades da causa relacionadas à impossibilidade ou à excessiva dificuldade de cumprir o encargo nos termos do caput ou à maior facilidade de obtenção da prova do fato contrário, poderá o juiz atribuir o ônus da prova de modo diverso, desde que o faça por decisão fundamentada, caso em que deverá dar à parte a oportunidade de se desincumbir do ônus que lhe foi atribuído".
+Ainda, a inversão do ônus da prova está prevista no art. 6º, VIII, do Código de Defesa do Consumidor, verbis:
+"Art. 6º São direitos básicos do consumidor:
+(..)
+VIII - a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências".
+Cumpre esclarecer que é pacífica a possibilidade de aplicação do Código de Defesa do Consumidor aos contratos bancários e também aos contratos firmados no âmbito do Sistema Financeiro da Habitação - SFH.
+O C. STJ, inclusive, editou a Súmula nº 297, que admite expressamente a aplicação do CDC às instituições financeiras.
+Como visto, a inversão do ônus da prova é medida prevista tanto no CDC quanto no CPC, que redistribui o ônus da prova àquele que detém melhores condições de produzi-la, seja porque possua maior capacidade técnica, seja pelo fato de que a outra parte não possui meios para constituir prova robusta do seu direito.
+Tal medida, calcada no primado da isonomia, tem por objetivo equilibrar as partes litigantes, quando, observadas as peculiaridades do caso concreto, houver nítida discrepância entre elas, de modo que o ônus probatório causará, à parte hipossuficiente, excessivo custo ou complexidade (ou mesmo ser-lhe-á impossível), ao passo que a parte contrária possui condições mais favoráveis para produzir a prova necessária.
+Ademais, está prevista no art. 373, §1º, do CPC, não se restringindo apenas às relações de consumo, podendo ser aplicada sempre que, no caso concreto, for verificada a hipossuficiência de uma das partes em relação à outra, causando-lhe excessiva dificuldade ou impossibilidade de comprovar o direito pleiteado.
+É verdade que há divergências sobre a possibilidade de aplicação do CDC a casos como o presente, dado que o feito envolve imóvel do Programa de Arrendamento Residencial - PAR, instituído pela Lei nº 10.188/2001 com o objetivo de atender à necessidade de moradia da população de baixa renda, sob a forma de arrendamento residencial com opção de compra.
+Conforme art. 1º, §1º, e art. 2º, §7º, ambos da referida lei, a operacionalização do programa e a alienação dos imóveis pertencentes ao programa será efetivada diretamente pela CEF.
+Por certo, trata-se de política pública, voltada à promoção de moradia a pessoas de baixa ou baixíssima renda, razão pela qual há argumentos no sentido de que esses contornos afastariam o objeto desta ação da relação de consumo protegida pelo CDC.
+Contudo, em vista da necessária coerência interpretativa entre múltiplos atos normativos, com o imprescindível diálogo entre os propósitos de proteção de hipossuficientes presentes em vários diplomas (muitas vezes sobrepostos), negar a inversão do ônus da prova em casos de FAR/PAR sob o argumento de que não se trata de relação de consumo corresponderia à desproteção do mais vulnerável (justamente o destinatário da política pública de moradia).
+No caso dos autos, a ação subjacente foi ajuizada pelo condomínio ora agravante, buscando indenização por danos materiais, decorrentes de vícios de construção no imóvel.
+Conforme convenção de condomínio (id. 39358065 da ação subjacente), verifica-se que o condomínio faz parte do Programa Minha Casa Minha Vida - Recursos FAR (Fundo de Arrendamento Residencial).
+A inversão do ônus da prova, no caso, se justifica uma vez que a parte agravada é notadamente hipossuficiente em relação à instituição financeira e à construtora, além da possibilidade de contar com profissionais qualificados e especializados para a defesa de seus direitos. Confiram-se, nesse sentido, os seguintes julgados do C. STJ e desta E. Corte:
+ ..
+Assim, a inversão do ônus da prova, seja com fundamento no art. 6º, VIII, do CDC, seja com base no art. 373, §1º, do CPC, é medida cabível ao caso concreto, devendo ser mantida a decisão agravada (fls. 62-65).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 24.4.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13.8.2020; AgInt no AREsp 1.060.371/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17.8.2020; e REsp 1.812.278/CE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 29.10.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+No caso, consoante consignado, a prentenção formulada pela defesa acerca da distribuição do ônus da prova demanda reexame de ace rvo fático-probatório, o que encontra óbice na Súmula 7/STJ.
+A jurisprudência do Superior Tribunal de Justiça estabelece que "O acolhimento da pretensão recursal sobre a distribuição do ônus probatório exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula nº 7 do STJ." (AgInt nos EDcl no REsp n. 1.684.238/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/3/2020, DJe de 1/4/2020.).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER. SEGURO. DISTRIBUIÇÃO DO ÔNUS DA PROVA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "O art. 373 do CPC dispõe que o ônus da prova incumbe: I - ao autor, quanto ao fato constitutivo de seu direito; e II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor. O § 1º estabelece que, nos casos previstos em lei ou diante de peculiaridades da causa relacionadas à impossibilidade ou à excessiva dificuldade de cumprir o encargo nos termos do caput ou ainda à maior facilidade de obtenção da prova do fato contrário, poderá o juiz atribuir o ônus da prova de modo diverso, desde que o faça por decisão fundamentada, caso em que deverá dar à parte a oportunidade de se desincumbir do ônus que lhe foi atribuído. Já o § 2º elucida que a decisão prevista no § 1º desse artigo não pode gerar situação em que a desincumbência do encargo pela parte seja impossível ou excessivamente difícil" (REsp n. 1.583.430/RS, Quarta Turma).
+2. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fáti co-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.509.921/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Ante o exposto, negou provimento ao agravo interno.
+É o voto.
