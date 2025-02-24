@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PROESTE COMÉRCIO DE VEÍCULOS E PEÇAS PRUDENTE LTDA. contra decisão que inadmitiu recurso especial com fundamento na ausência de prova da tempestividade do recurso especial, considerando que, no ato da interposição recurso, não fora apresentada comprovação dos feriados locais e das suspensões dos prazos processuais no Tribunal de Justiça do Estado de São Paulo nos dias 3/11/2023, 6/11/2023, 7/11/2023 e 20/11/2023.
+Afirma a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Defende a apresentação tempestiva do recurso especial, ao argumento de que, em razão da comemoração de feriados nacionais, estaduais, e suspensões de expediente, foram suspensos os prazos processuais nas seguintes datas: 2/11/2023; 3/11/2023; 6/11/2023; 7/11/2023; 15/11/2023 e 20/11/2023.
+Destaca que, ainda que não tenha justificado a suspensão no dia 3/11/2023, as demais suspensões de prazo restaram comprovadas.
+É o relatório. Decido.
+O recurso não reúne condições de êxito.
+O prazo para interposição do recurso especial é de 15 dias úteis, nos termos do art. 1.003, § 5º, c/c o art. 219, caput, do Código de Processo Civil.
+Ressalte-se que a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada no ato de interposição do recurso. Todavia, após a edição da Lei n. 14.939/2024, que alterou o art. 1.003, § 6º, do CPC, a Corte Especial deste Superior Tribunal de Justiça acolheu a Questão de Ordem no AREsp n. 2.638.376/MG, admitindo a comprovação posterior da suspensão do expediente aos recursos interpostos antes da sua vigência. Confira-se:
+Prosseguindo no julgamento, após o voto-vista da Sra. Ministra Nancy Andrighi, a Corte Especial, por maioria, acolheu a questão de ordem proposta no sentido de aplicar os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense, nos termos do voto do Sr. Ministro Relator.
+No caso, verifica-se que, em 26/10/2023 foi disponibilizado no DJ e o acórdão recorrido, considerando-se publicado em 27/10/2023 (fl. 205). O prazo para a interposição do recurso iniciou-se em 30/10/2023, contudo, o apelo extremo somente foi interposto em 24/11/2023 (fls. 210-229); a destempo, portanto.
+Em 14/12/2024, determinou-se a intimação da parte para apresentar a documentação necessária para fins de comprovação do feriado local.
+A recorrente, embora regularmente intimada para sanar referido vício, não o fez adequadamente, uma vez que juntou apenas o Provimento CSM n. 2.727/2023, referente às suspensões de expediente do ano de 2024, e a Lei estadual n. 17.749/2023, que comprovou a suspensão dos prazos processuais em 20/11/2023, para celebração do Dia Estadual da Consciência Negra.
+Assim, ainda que consideradas as suspensões nos dias 2/11/2023 e 15/11/2023, diante da comemoração dos feriados nacionais de Finados e Proclamação da República - que dispensam a comprovação - e, no dia 20/11/2023, mediante a comprovação do feriado local, o prazo para a interposição do recurso especial esgotou-se em 22/11/2023.
+Portanto, considerando que a parte agravante não apresentou documento válido que comprovasse a suspensão do prazo processual nos dias 3/11/2023, 6/11/2023 e 7/11/2023, é de rigor a manutenção da intempestividade do recurso especial.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
