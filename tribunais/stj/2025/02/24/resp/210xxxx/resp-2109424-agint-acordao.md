@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS CONDOMINIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO. ARTIGOS 932, III, E 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. APLICAÇÃO POR ANALOGIA. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Ação de cobrança de despesas condominiais.
+2. Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do CPC, segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182 desta Corte. Precedentes.
+3. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+RELATÓRIO
+Cuida-se de agravo interno interposto por VICENTE TERTULINO MENDONCA contra decisão unipessoal que não conheceu do recurso especial (fls. 1503-1506, e-STJ).
+Ação: de cobrança de despesas condominiais, ajuizada por CLUBE RECREATIVO SAO BERNARDO, ora recorrido, em face de VICENTE TERTULINO MENDONÇA, ora recorrente.
+Sentença: julgou a ação procedente, para condenar a parte ré a pagar à requerente o valor de R$ 2.429,08 (dois mil quatrocentos e vinte e nove reais e oito centavos).
+Acórdão do TJ/SP: negou provimento à apelação da parte requerida (fls. 1139 - 1147, e-STJ), conforme assim ementado:
+COBRANÇA Associação de moradores Contraprestação por serviços prestados Procedência Insurgência do réu Alegação de que: i) o processo deve ser suspenso, em razão de conexão com a demanda nº 1009107-32.2021.8.26.0320; ii) houve cerceamento de defesa; iii) não é associado Descabimento Processo que já foi sentenciado Suspensão inviável, nos termos do art. 55, § 1º, do CPC Ausentes também as hipóteses do art. 313 do CPC Cerceamento de defesa Inocorrência Prestação de serviços que é incontroversa Preliminar afastada A partir da entrada em vigor da Lei nº 13.465/2017, as contraprestações, em razão de serviços prestados, são devidas, independente de ser o morador associado ou não RECURSO IMPROVIDO.
+Recurso especial: interposto pelo réu, VICENTE TERTULINO MENDONÇA, aponta violação aos arts. 371, 926, 927, III, do CPC, ao art. 5º, XX, da CF, e à tese fixada no Recurso Extraordinário nº 695.911, Tema 492 de Repercussão Geral, julgado pelo STF.
+Juízo prévio de admissibilidade: admitiu o recurso especial.
+Decisão unipessoal: não conheceu do recurso especial, por demandar a reavaliação de fatos e provas (Súmula nº 7/STJ) e por ausência de prequestionamento (Súmula nº 211/STJ) (fls. 1503-1506, e-STJ).
+Agravo interno: repisando as alegações do recurso especial, requer a reforma da decisão agravada, sob a alegação de violação aos arts. 371, 926, 927, III, do CPC, ao art. 5º, XX, da CF, e à tese fixada no Recurso Extraordinário nº 695.911, Tema 492 de Repercussão Geral, julgado pelo STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS CONDOMINIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO. ARTIGOS 932, III, E 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. APLICAÇÃO POR ANALOGIA. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Ação de cobrança de despesas condominiais.
+2. Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do CPC, segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182 desta Corte. Precedentes.
+3. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+VOTO
+1. Ausência de impugnação aos fundamentos da decisão - Súmula nº 182/STJ.
+1. Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do CPC, segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+2. Nesse sentido, os seguintes julgados do Superior Tribunal de Justiça: EDcl no AgInt nos EDv nos EREsp n. 1.632.679/PR, Corte Especial, DJe de 20/12/2023; AgInt nos EAREsp n. 1.654.556/SP, Corte Especial, DJe de 9/10/2023; AgInt nos EAREsp n. 741.851/SP, Segunda Seção, DJe de 1º/6/2023; AgInt nos EDcl na ExSusp n. 234/DF, Segunda Seção, DJe de 31/3/2023; AgInt no REsp n. 1.777.158/SP, Terceira Turma, DJe de 28/2/2024; AgInt no AREsp n. 2.152.939/RS, Terceira Turma, DJe de 18/8/2023; AgInt no REsp n. 2.038.648/SP, Quarta Turma, DJe de 28/2/2024; e AgInt no AREsp n. 2.234.191/DF, Quarta Turma, DJe de 16/10/2023.
+3. A propósito, ratificou o referido entendimento o precedente desta Corte Especial, firmado por ocasião do julgamento dos EAREsp n. 746.775/PR, do qual foi relator para acórdão o eminente Ministro Luis Felipe Salomão (DJe de 30/11/2018).
+4. Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar-se no momento oportuno, pois o conhecimento do agravo obriga esta Corte Superior a conhecer de todos os fundamentos do recurso especial.
+5. Na hipótese, da leitura do agravo interno, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, tendo em vista que a aplicação das Súmulas n. 7/STJ e nº 211/ST J não foi combatida nas razões do presente recurso, incidindo, portanto, a Súmula n. 182 desta Corte.
+6. Assim sendo, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+3. Dispositivo.
+Forte nessas razões, NÃO CONHEÇO do agravo interno no recurso especial e, ainda, sendo unânime o julgamento, aplico a multa de 1% (um por cento) sobre o valor atualizado da causa, com fulcro no artigo 1.021, § 4º, CPC.
