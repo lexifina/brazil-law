@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/02/2025 a 24/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a parte recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, todas as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado por SAMIR HACKLAENDER contra decisão constante às e-STJ fls. 252/254, em que não conheci do agravo em recurso especial por ausência de impugnação específica de todos os fundamentos de inadmissão do apelo raro adotados na decisão a quo.
+Os embargos de declaração opostos foram rejeitados.
+Nas suas razões, a parte agravante afirma ter impugnado a aplicação da Súmula 7 do STJ, porquanto (e-STJ fl. 286):
+ ..  foi demonstrado que no recurso especial busca-se somente que se reconheça que a alteração do objeto social de empresa que continua em atividade não configura dissolução irregular e não pode ser considerada hipótese de redirecionamento, pois não elencada no rol previsto no artigo 135 do CTN, o que afastaria a aplicação da Súmula 7 em razão de a manutenção da atividade ter sido reconhecida pelo próprio Tribunal a quo.
+Diz, outrossim, que a incidência do disposto no art. 1.025 do CPC no caso afastaria também esse óbice sumular no tocante à assertiva de violação do art. 2º, § 5º, da Lei n. 6.830/1980, fundamentada na alegação de que a CDA não discriminou os débitos por período de apuração.
+Alega, também, ter questionado a invocação da Súmula 83 do STJ, pois argumentou, no agravo em recurso especial, que inexistem precedentes desta Corte Superior relativamente ao reconhecimento da dissolução irregular em razão da alteração do ramo de atividade empresarial.
+Contrarrazões às e-STJ fls. 293/296.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a parte recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, todas as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+O inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, nos termos do disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC.
+Da análise dos autos, verifico que a decisão agravada afirmou: (i) a inexistência de omissão no julgado impugnado; (ii) a incidência da Súmula 7 do STJ à tese fundada no art. 2º, § 5º, da Lei n. 6.830/1980; (ii) a aplicação das Súmulas 7, 83 e 435 do STJ relativamente à configuração da dissolução irregular da empresa devedora.
+Ocorre que, no agravo em recurso especial, o insurgente apenas aduziu: (i) omissão quanto à circunstância de, na CDA, não haver discriminação dos débitos; (ii) no tocante ao art. 2º, § 5º, da Lei n. 6.830/1980, com o reconhecimento da referida omissão, será aplicado o disposto no art. 1.025 do CPC; (iii) não existe dissolução irregular da empresa, que permanece ativa; (iv) " ..  o caso concreto - suposta dissolução de empresa efetivamente ativa em razão da alteração de atividade - não se enquadra em nenhuma das hipóteses elencadas no REsp 1.371.128" (e-STJ fl. 185).
+Relativamente à dissolução irregular da empresa devedora, registro que, inadmitido o apelo nobre com amparo no verbete sumular 7 desta Corte Superior, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, o que não ocorreu na espécie.
+No caso, não houve demonstração de que, no acórdão recorrido, o debate estabelecido era sobre a configuração ou não da dissolução irregular quando apenas alterado o ramo de atividade da empresa e que a solução dada não dependia do exame das provas constantes dos autos.
+Além disso, imposto o teor da Súmula 83 do STJ, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos aludidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que também não foi realizado.
+Inclusive, o argumento de que a suposta questão de direito é inédita na jurisprudência desta Corte Superior dependia da comprovação de que, no acórdão objeto do recurso especial, a controvérsia era sobre a possibilidade de configuração de dissolução irregular em decorrência da alteração do ramo de atividade. Mas isso, já se disse, não foi feito pela parte.
+Registro, por fim, falha também na invocação do disposto no art. 1.025 do CPC, porque a suficiência do argumento carecia de demonstração de que o suposto vício no julgamento do agravo de instrumento foi apontado no momento processual próprio.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+A decisão agravada, portanto, espelha a orientação da Corte Especial, que, por ocasião do julgamento dos EAREsp 701.404/SC, 746.775/SC e 831.326/SC (relator para acórdão o Ministro Luis Felipe Salomão, DJe de 30/11/2018), definiu a necessidade de a parte agravante, no agravo de que trata o art. 1.042 do CPC (antigo art. 544 do CPC de 1973), impugnar todos os fundamentos, autônomos ou não, da decisão que não admitiu o recurso especial na origem.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. RECURSO CONTRA A DECISÃO DA ILUSTRE PRESIDÊNCIA DESTA CORTE SUPERIOR QUE NÃO CONHECEU DO AGRAVO, FRENTE À CONSTATADA NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DE FATO, A NÃO SUBMISSÃO A ABALO DE TODOS OS ALICERCES LÓGICOS DA DECISÃO RECORRIDA IMPLICA INCOGNOSCIBILIDADE DA PRETENSÃO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. Não se conhece do Agravo em Recurso Especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida (AgInt no AREsp 1.282.707/RS, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 11.02.2021; AgRg no AREsp 1.751.057/DF, Rel. Min. LAURITA VAZ, DJe 17.02.2021; AgInt no REsp 1.690.982/RJ, Rel. Min. ASSUSETE MAGALHÃES, DJe 18.12.2020).
+2. Crucial registrar que a Corte Especial do Superior Tribunal de Justiça sedimentou a compreensão de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade (AgRg no AREsp 1.784.300/PR, Rel. Min. LAURITA VAZ, DJe 11.03.2021).
+3. Agravo Interno do particular desprovido.
+(AgInt no AREsp 1.795.439/SC, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.).
+Assim, é de rigor o desprovimento do presente agravo interno.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
