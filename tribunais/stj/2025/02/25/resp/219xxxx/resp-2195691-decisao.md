@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por HELENA VIEIRA DE SOUZA contra decisão que negou seguimento ao recurso especial, ante a incidência das Súmulas n. 7 do STJ e 284 do STF (e-STJ fls. 1.657/1.663).
+O acórdão do TJMS traz a seguinte ementa (e-STJ fls. 1.394/1.395):
+EMENTA - APELAÇÕES CÍVEIS - AÇÃO DE CONHECIMENTO - ACIDENTE DENTRO DE VEÍCULO DE TRANSPORTE COLETIVO - PRELIMINAR DE ILEGITIMIDADE PASSIVA DO CONSÓRCIO - SOCIEDADE CRIADA PARA PRESTAÇÃO DO SERVIÇO PÚBLICO DE TRANSPORTE MUNICIPAL - ACIDENTE OCORRIDO NO INTERIOR DO VEÍCULO - PERTINÊNCIA SUBJETIVA EXISTENTE - ILEGITIMIDADE AD CAUSAM AFASTADA - MÉRITO - NEXO DE CAUSALIDADE EVIDENCIADO - RESPONSABILIDADE DA RÉ PELO ACIDENTE - DANO MATERIAL COMPROVADO - DANO MORAL DEVIDO - QUANTUM MAJORADO - SEGURADORA DENUNCIADA À LIDE - REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL - EXCLUSÃO DE JUROS E CORREÇÃO MONETÁRIA - RECURSOS DA RÉ E DA SEGURADORA DESPROVIDOS - RECURSO DA AUTORA PARCIALMENTE PROVIDO.
+1. A demanda tem causa de pedir fundada na ocorrência de acidente sofrido pela autora no interior do ônibus que presta serviço público de transporte municipal, nesta Capital. Conquanto afirme que a proprietária do veículo nunca fez parte do consórcio, os documentos dos autos dão conta de que a empresa atuava no município com a anuência do consórcio.
+2. Impõe-se a manutenção da sentença condenatória, porquanto comprovado o nexo causai entre a conduta da empresa de transporte coletivo e o dano sofrido pela passageira.
+3. Inexiste parâmetro objetivo a ser seguido, ainda mais quando se está diante de acidente como o enfrentado pela autora. Assim, levando em conta as peculiaridades do caso concreto, com a atenção voltada à capacidade econômica das partes e ao caráter pedagógico da medida, a indenização por danos morais arbitrada pelo juízo, deve ser majorada.
+4. Não há empecilho legal à condenação da seguradora em liquidação extrajudicial ao pagamento de correção monetária e juros de mora em relação à obrigação discutida em ação de conhecimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.441/1.444).
+No recurso especial (e-STJ fls. 1.588/1.615), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aduziu dissídio jurisprudencial e violação dos arts. 186, 927 e 944 do CC/2002, sustentando ser irrisório o valor da indenização por danos morais, ante o acidente ocorrido em transporte coletivo de responsabilidade da parte recorrida - R$ 80.000,00 (oitenta mil reais) - motivo pelo qual a verba indenizatória referida deveria ser revista.
+Foram apresentadas contrarrazões (e-STJ fls. 1.636/1.644 e 1.646/1.652).
+No agravo (e-STJ fls. 1.674/1,681), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Conforme entendimento pacífico do STJ, a modificação do valor da indenização por danos morais é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A quantia estabelecida pelas instâncias de origem - R$ 80.000,00 (oitenta mil reais) - não enseja a intervenção do STJ (e-STJ fl. 1.407).
+Ademais, o Superior Tribunal de Justiça firmou o entendimento de ser incabível o reexame do montante arbitrado a título de danos morais com fundamento em divergência jurisprudencial, visto que, "ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto" (AgInt no AREsp n. 541.389/SP, de minha Relatoria, QUARTA TURMA, julgado em 4/4/2017, DJe 18/4/2017). Na mesma linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO DO NOME DO DEVEDOR EM CADASTRO DE INADIMPLENTES. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. DANOS MORAIS CONFIGURADOS. REVISÃO DO QUANTUM INDENIZATÓRIO. IRRISORIEDADE. INEXISTÊNCIA. MONTANTE FIXADO DENTRO DOS PARÂMETROS DE RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA 7/STJ. REVISÃO DO VALOR DE DANOS MORAIS. DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE CONFIGURAÇÃO DO DISSÍDIO. AGRAVO DESPROVIDO.
+ ..
+2. Outrossim, "tratando-se de valor da indenização por danos morais, inviável a análise do recurso com base em dissídio pretoriano, pois, ainda que aparentemente possa haver similitude nas características objetivas das lides cotejadas, na dimensão subjetiva, os acórdãos serão sempre distintos, em face das peculiaridades de cada ato ilícito" (AgRg no REsp n. 918.829/ES, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 16/12/2010).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 888.921/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/8/2016, DJe 29/8/2016.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
