@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e dar provimento ao recurso especial, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. BENS DE ÍNFIMO VALOR. SUBTRAÇÃO DE GÊNEROS ALIMENTÍCIOS. RESTITUIÇÃO INTEGRAL À VÍTIMA. ATIPICIDADE MATERIAL DA CONDUTA. RECURSO PROVIDO.
+I. CASO EM EXAME
+Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, buscando o reconhecimento da atipicidade material da conduta mediante a aplicação do princípio da insignificância. O recorrente foi condenado à pena de quatro meses de reclusão, substituída por pena restritiva de direitos, pela subtração de duas peças de carne avaliadas em R$ 138,48.
+II. QUESTÃO EM DISCUSSÃO
+Há uma questão em discussão: verificar a possibilidade de aplicação do princípio da insignificância à conduta de furto de gêneros alimentícios de valor superior a 10% do salário mínimo.
+III. RAZÕES DE DECIDIR
+O princípio da insignificância exclui a tipicidade penal material, sendo aplicável quando preenchidos os requisitos: mínima ofensividade da conduta, ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada.
+Na hipótese dos autos, o réu é primário e o furto de gêneros alimentícios não causou prejuízo efetivo, pois os bens foram restituídos integralmente à vítima.
+A jurisprudência do STJ reconhece que, mesmo quando o valor da res furtiva ultrapassa o parâmetro de 10% do salário mínimo, a análise das circunstâncias concretas pode justificar a aplicação excepcional do princípio da insignificância, em consonância com os postulados de fragmentariedade e intervenção mínima do Direito Penal.
+IV. DISPOSITIVO E TESE
+Recurso especial provido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por Jefferson do Nascimento Granthon contra decisão que inadmitiu o recurso especial por ele manejado.
+Requer seja o agravo conhecido para, ao fim, conhecer do recurso especial e, no mérito, dar-lhe provimento.
+Foi apresentada contraminuta.
+Parecer do Ministério Público Federal pelo provimento do agravo o agravo e recurso especial, para reconhecer a aplicação do princípio da insignificância.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. BENS DE ÍNFIMO VALOR. SUBTRAÇÃO DE GÊNEROS ALIMENTÍCIOS. RESTITUIÇÃO INTEGRAL À VÍTIMA. ATIPICIDADE MATERIAL DA CONDUTA. RECURSO PROVIDO.
+I. CASO EM EXAME
+Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, buscando o reconhecimento da atipicidade material da conduta mediante a aplicação do princípio da insignificância. O recorrente foi condenado à pena de quatro meses de reclusão, substituída por pena restritiva de direitos, pela subtração de duas peças de carne avaliadas em R$ 138,48.
+II. QUESTÃO EM DISCUSSÃO
+Há uma questão em discussão: verificar a possibilidade de aplicação do princípio da insignificância à conduta de furto de gêneros alimentícios de valor superior a 10% do salário mínimo.
+III. RAZÕES DE DECIDIR
+O princípio da insignificância exclui a tipicidade penal material, sendo aplicável quando preenchidos os requisitos: mínima ofensividade da conduta, ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada.
+Na hipótese dos autos, o réu é primário e o furto de gêneros alimentícios não causou prejuízo efetivo, pois os bens foram restituídos integralmente à vítima.
+A jurisprudência do STJ reconhece que, mesmo quando o valor da res furtiva ultrapassa o parâmetro de 10% do salário mínimo, a análise das circunstâncias concretas pode justificar a aplicação excepcional do princípio da insignificância, em consonância com os postulados de fragmentariedade e intervenção mínima do Direito Penal.
+IV. DISPOSITIVO E TESE
+Recurso especial provido.
+VOTO
+O agravo em recurso especial é tempestivo e preenche os demais requisitos de admissibilidade. Além disso, o óbice aplicado foi devidamente rebatido, razão pela qual o agravo deve ser conhecido.
+Quanto aos requisitos de cabimento do recurso especial, constata-se o preenchimento dos requisitos de admissibilidade (intrínsecos/extrínsecos), assim como o prequestionamento da controvérsia, motivo pelo qual há de se conhecer do recurso.
+Passo ao exame do recurso especial.
+O recorrente foi denunciado como incurso no art. 155, "caput", do Código Penal, porque, nas circunstâncias descritas na denúncia, subtraiu para si ou para outrem, 02 (duas) peças de carne de alcatra, totalizando o valor de R$ 138,48 (centro e trinta e oito reais e quarenta e oito centavos), de propriedade do referido estabelecimento comercial.
+O magistrado sentenciante julgou procedente a ação e, reconhecendo a figura do furto privilegiado, condenou o réu à pena de quatro meses de reclusão, substituída por pena restritiva de direitos.
+Sobre a incidência do princípio da insignificância, cuja aplicação foi requerida pela Defesa, o magistrado assim se manifestou:
+"Conforme reiterada jurisprudência do STJ, não deve ser considerado haver crime de bagatela, quando o valor dos bens subtraídos supere o equivalente a 10% do salário-mínimo.
+Sendo observado o valor do salário-mínimo vigente no momento da prática delitiva, não deve ser reconhecida uma atipicidade material" (e-STJ fl. 180).
+A sentença foi integralmente mantida pelo TJRJ, que se manifestou nos seguintes termos:
+"Postula, também, a Defesa do acusado nominado, a absolvição com vias do reconhecimento do postulado da insignificância. Extrai-se da prova colhida nos autos que o ora recorrente subtraiu 02 (duas) peças de carne de alcatra, totalizando o valor de R$ 138,48 (centro e trinta e oito reais e quarenta e oito centavos), de propriedade do referido estabelecimento comercial.), conforme auto de apreensão e entrega de fls. 19, o que correspondia mais de dez por cento do salário mínimo nacional à época dos fatos, de modo que, o comportamento do recorrente não configura um indiferente penal, diante do desvalor da conduta praticada, o qual exsurge do próprio modus operandi. Precedentes do S. T. J." (e-STJ fl. 267).
+Para a aplicação do princípio da insignificância, esta Corte Superior entende necessária a presença, cumulativa, das seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada (AgRg no HC 845.965/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. em 27/11/2023).
+Todos esses requisitos estão presentes na espécie.
+A conduta possui mínima ofensividade, pois não houve violência ou grave ameaça no crime patrimonial. Não há periculosidade social na ação, pois o agente subtraiu objetos de um único estabelecimento comercial, para o qual a res furtiva já foi devidamente restituída. A reprovabilidade do comportamento é bastante reduzida, uma vez que o réu, aparentemente, buscou subtrair os gêneros alimentícios. Por fim, não há sequer que se falar em lesão jurídica da conduta, pois, como visto, os bens foram restituídos à vítima.
+No mesmo sentido precedentes desta Turma, inclusive da minha relatoria, em que foram analisados fatos análogos aos imputados ao insurgente:
+HABEAS CORPUS. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE RECONHECIDA. CONDUTA PRATICADA SEM VIOLÊNCIA OU GRAVE AMEAÇA. RES FURTIVA ATRELADA A OBJETOS DE HIGIENE PESSOAL DE BAIXO VALOR ECONÔMICO, IMEDIATAMENTE RESTITUÍDOS À VÍTIMA. IRRELEVÂNCIA DE EVENTUAL REITERAÇÃO DELITIVA EM RAZÃO DA ATIPICIDADE DO FATO. PACIENTE TECNICAMENTE PRIMÁRIA. ORDEM CONCENDIDA PARA O TRANCAMENTO DA AÇÃO PENAL.
+1. Habeas corpus que tem por objeto o trancamento de ação penal, na qual se imputa à paciente a prática do crime de furto simples (art. 155, caput, do Código Penal), pela suposta subtração de 8 (oito) frascos de shampoo, que foram restituídos à vítima logo após a captura da ré.
+2. Incidência ao caso do princípio da insignificância, que retira a tipicidade da conduta imputada à paciente.
+3. Eventual reiteração delitiva não confere tipicidade a condutas irrelevantes para o direito penal, ramo jurídico que só deve ser chamado em hipóteses extremas e para tutelar a violação dos bens mais caros à sociedade. Na hipótese dos autos, somada a essa conclusão está o fato de a paciente ser tecnicamente primária.
+4. A jurisprudência do Supremo Tribunal Federal tem amadurecido no sentido de compreender que é "mais coerente a linha de entendimento segundo a qual, para incidência do princípio da bagatela, devem ser analisadas as circunstâncias objetivas em que se deu a prática delituosa e não os atributos inerentes ao agente, sob pena de, ao proceder-se à análise subjetiva, dar-se prioridade ao contestado e ultrapassado direito penal do autor em detrimento do direito penal do fato" (RHC 210.198/DF, Rel. Min. Gilmar Mendes, j. em 14/01/2022).
+5. Ordem de habeas corpus concedida para reconhecer a atipicidade da conduta imputada à paciente e determinar o trancamento da ação penal, por maioria de votos, vencido o Ministro Relator.
+(AgRg no HC n. 834.558/GO, relator Ministro Messod Azulay Neto, relatora para acórdão Ministra Daniela Teixeira, Quinta Turma, julgado em 12/12/2023, DJe de 20/12/2023.).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO TENTADO. TRANCAMENTO DA AÇÃO PENAL. INEXPRESSIVIDADE DA LESÃO JURÍDICA. PEQUENO VALOR DA RES FURTIVAE. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como: (a) a mínima ofensividade da conduta do agente; (b) nenhuma periculosidade social da ação; (c) o reduzidíssimo grau de reprovabilidade do comportamento; (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (HC n. 84.412-0/SP, STF, Rel. Ministro CELSO DE MELLO, DJU 19/11/2004).
+3. A jurisprudência desta Corte, dentre outros critérios, aponta o parâmetro da décima parte do salário mínimo vigente ao tempo da infração penal, para aferição da relevância da lesão patrimonial. Precedentes.
+4. No caso em exame, considerando tratar-se de réu tecnicamente primário e de bons antecedentes, que foi denunciado pela tentativa de furto de bem de valor ínfimo (R$ 45,00), não se mostra recomendável o processamento da ação penal, eis que evidente a inexpressividade da lesão jurídica provocada.
+5. Writ não conhecido. Ordem concedida, de ofício, a fim de trancar a Ação Penal n. 0091114-20.2018.8.19.0050, ante a atipicidade material da conduta.
+(HC n. 492.433/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/5/2019, DJe de 4/6/2019.)
+Não se desconhece a orientação jurisprudencial desta Corte Superior, segundo a qual o princípio da insignificância não deve ser aplicado nas hipóteses em que o valor da res furtiva supere 10% do salário mínimo ou quando o furto for qualificado, como na hipótese dos autos.
+Todavia, após análise das circunstâncias do caso concreto sub judice, é recomendável a aplicação do princípio da insignificância, pois se trata de uma hipótese excepcional, em que foi constatada a ínfima lesão ao bem jurídico tutelado, a mínima ofensividade da conduta do agente, bem como a ausência de antecedentes penais específicos.
+No ponto, em virtude de sua significância para o deslinde do caso, reitero que o furto se deu sobre gênero alimentício perecível e a res furtiva não ensejou qualquer acréscimo ao patrimônio do recorrente, porquanto foi de pronto restabelecido à vítima.
+Portanto, à luz da eficácia da repreensão criminal, é necessário que se reflita sobre as consequências de uma ação penal deflagrada para apuração de um furto de pacotes de carne.
+Sobre o tema:
+AGRAVOS REGIMENTAIS EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO PRIVILEGIADO. VIOLAÇÃO DOS ARTS. 155, § 4º, IV, DO CP; E 386, III, DO CPP. PLEITO DE AFASTAMENTO DO RECONHECIMENTO DA BAGATELA. CONCURSO DE AGENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. PARTICULARIDADES DO CASO CONCRETO. RES FURTIVAE AVALIADA EM R$ 170,00. RÉUS PRIMÁRIOS E DE BONS ANTECEDENTES. INTEGRAL RESTITUIÇÃO DOS BENS. MANUTENÇÃO DA ABSOLVIÇÃO DECRETADA PELO TRIBUNAL DE ORIGEM QUE SE IMPÕE.
+1. O Tribunal fluminense considerou que, diante da primariedade e dos bons antecedentes dos agravados, seria incabível a manutenção do decreto condenatório, haja vista que o reconhecimento do princípio da bagatela representa uma evolução jurídico-social e seu afastamento, quando presentes os requisitos para sua incidência configura verdadeiro retrocesso.
+2. Não se desconhece a posição majoritária desta Corte Superior acerca da não aplicação do princípio da insignificância nas hipóteses em que ares furtiva seja avaliada em patamar superior a 10% do salário mínimo vigente à época do delito. Contudo, no caso concreto, devem ser sopesadas as demais circunstâncias fáticas, admitindo-se a incidência do aludido princípio, conforme reconhecido pelo Tribunal de origem.
+3. Em face da constatada primariedade dos agentes, bem como do montante, em sua integralidade, ter sido restituído à vítima, mostra-se presente a excepcionalidade que autoriza a incidência do princípio da insignificância.
+4. Em razão da coisa que se tentou furtar (gênero alimentício), seu diminuto valor (R$ 88,00), que à época representava 12,97% do salário mínimo, praticado por agente primário, com restituição à vítima, um supermercado, com proporcionalmente relevante capacidade financeira, admite-se a insignificância, reconhecendo-se a atipicidade material da conduta (HC n. 311.647/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 19/4/2016). 5. Agravos regimentais improvidos.
+(AgRg no REsp 1791592/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/03/2019, DJe 02/04/2019).
+Como a subtração fora sem violência ou grave ameaça, não integra a concepção de lesividade relevante ao ponto de justificar a intervenção do direito penal no caso concreto. A eventual reincidência de condutas delitivas dessa natureza, nem mesmo as características subjetivas do agente, alteram essa conclusão.
+Nesses termos, a conduta imputada à parte recorrente é materialmente atípica.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e lhe dar provimento para para absolver o recorrente da imputação que lhe foi feita na denúncia.
+É o voto.
