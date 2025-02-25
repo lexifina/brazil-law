@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CHRISTIAN ADORNES CARVALHO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do Habeas Corpus Criminal n. 5337601-32.2024.8.21.7000.
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática do delito previsto no art. 33, caput, e art. 35, ambos da Lei n. 11.343/2006, tendo o Juízo Singular recebido a exordial acusatória.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ, fls. 356/357):
+"DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. TRANCAMENTO DA AÇÃO PENAL. ORDEM DENEGADA.
+I. Caso em exame:
+1. A decisão anterior. Decisão do Juízo da 1ª Vara Criminal da Comarca de Uruguaiana que afastou a alegação defensiva de ausência de prova da materialidade do delito de tráfico de drogas e determinou o prosseguimento do feito, designando audiência de instrução e julgamento.
+2. O writ. Habeas corpus em que os impetrantes alegaram ausência de prova da materialidade do delito de tráfico de drogas, uma vez que a denúncia não narrou a apreensão de entorpecentes em posse do paciente. Requereu o trancamento parcial da ação penal.
+II. Questão em discussão
+3. A questão em discussão é: (i) se deve haver o trancamento da ação penal de origem quanto ao delito de tráfico de drogas.
+III. Razões de decidir
+4. O trancamento da ação penal na via estreita do habeas corpus é medida excepcional, cabível apenas quando demonstrada, de plano, a inépcia da denúncia, a atipicidade da conduta, a extinção da punibilidade ou a ausência de indícios de autoria e materialidade.
+5. No caso em questão, a denúncia se baseou em provas obtidas durante as investigações policiais, dentre elas a quebra de sigilo telefônico, que são meios hábeis para comprovar a materialidade do delito perante a falta da droga, não caracterizando, assim, a ausência de justa causa para a ação penal.
+6. Assim, no limite da cognição sumária permitida pelo habeas corpus, verificado, no feito, indícios razoáveis de autoria e materialidade do delito de tráfico imputado ao paciente, de modo que resta presente justa causa para o prosseguimento da ação penal.
+IV. Dispositivo e tese
+7. Habeas Corpus denegado.
+Tese de julgamento:
+"1. O trancamento da ação penal na via estreita do habeas corpus é medida excepcional, cabível apenas quando demonstrada, de plano, a inépcia da denúncia, a atipicidade da conduta, a extinção da punibilidade ou a ausência de indícios de autoria e materialidade."
+"2. A ausência de apreensão da droga não torna a conduta atípica, desde que haja outros elementos de prova suficientes para comprovar o crime de tráfico.
+Dispositivos relevantes citados: CPP, art. 41.
+Jurisprudência relevante citada: STF, HC 220281 AgR, Rel. André Mendonça, Segunda Turma, julgado em 03-07-2023. STJ, AgRg nos E Dcl no RHC n. 150.385/CE, rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 23/11/2021."
+No presente writ, a defesa sustenta a ausência de provas quanto à materialidade do delito de tráfico de drogas, uma vez que não houve apreensão de entorpecentes, razão pela qual necessário o trancamento da ação penal quanto ao referido crime. Requer a concessão da ordem para que seja trancada a ação penal quanto o delito de tráfico de drogas.
+O pedido liminar foi indeferido (e-STJ, fls. 837/839).
+Foram prestadas informações (e-STJ, fls. 854/876 e 880/884).
+Em parecer, o Ministério Público Federal opinou pela denegação da ordem de habeas corpus (e-STJ, fls. 887/890).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Busca o impetrante o trancamento parcial da ação penal, sob o argumento acerca da ausência de provas quanto à materialidade do delito de tráfico de drogas, uma vez que não houve apreensão de entorpecentes.
+A esse respeito, "Consolidou-se, nesta Superior Corte de Justiça, entendimento no sentido de que o trancamento da persecução penal ou de inquérito policial, em sede de habeas corpus, constitui medida excepcional, somente admitida quando restar demonstrado, sem a necessidade de exame do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade ou a ausência de indícios suficientes da autoria ou prova da materialidade." (AgRg no HC n. 748.669/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022; grifo nosso.).
+Pois bem. Quando do recebimento da denúncia, o Juízo de origem, afastando as teses arguidas pelas defesas, assim decidiu (e-STJ, fl. 28):
+"De outra banda, as defesas de PAOLA, ELISSON, ROBSON, DIONATHAN e de CHRISTIAN sustentam que a denúncia deve ser rejeitada, visto a inexistência de laudo toxicológico e de apreensão de entorpecentes, o que, desde já, INDEFIRO.
+E isso porque, a ausência da apreensão da droga não torna a conduta atípica se existirem outros elementos de prova aptos a comprovarem o crime de tráfico."
+Ainda, verifica-se que o Tribunal a quo, quando do julgamento da ordem de habeas corpus, consignou (e-STJ, fl. 16/19):
+"Diante das circunstâncias do caso em apreço, denego a ordem postulada pelos fundamentos já expostos por ocasião do indeferimento da liminar, os quais reproduzo a fim de evitar desnecessária tautologia:
+ ..
+De plano, destaco que "o trancamento da ação penal na via estreita do habeas corpus é medida excepcional, cabível apenas quando demonstrada, de plano, a inépcia da denúncia, a atipicidade da conduta, a extinção da punibilidade ou a ausência de indícios de autoria e materialidade".
+Além disso, cumpre informar que a orientação adotada no âmbito dos Tribunais Superiores é no sentido de que a ausência de apreensão da droga não torna a conduta atípica, desde que haja outros elementos de prova suficientes para comprovar o crime de tráfico.
+No caso em questão, a denúncia se baseou em provas obtidas durante as investigações policiais, dentre elas a quebra de sigilo telefônico, que são meios hábeis para comprovar a materialidade do delito perante a falta da droga, não caracterizando, assim, a ausência de justa causa para a ação penal (evento 1, RELINVESTIG3).
+Segundo narra a exordial acusatória, "os denunciados formaram consórcio criminoso voltado à exploração da narcotraficância, mediante divisão das tarefas inerentes ao exercício de tal prática delituosa. Com esse propósito, os denunciados Christian e Geovane exercem a função de fornecedores de entorpecentes, vendendo-os ao acusado Dionathan, o qual os repassa para serem comercializados em seus pontos de tráfico (..) Em datas sucessivas e reiteradas, no período de tempo supramencionado, os denunciados Christian e Geovane forneceram e venderam os entorpecentes mencionados no Relatório de Análise de Extração de Dados de Celular nos autos, ao acusado Dionathan, e este, por sua vez, encaminhou as drogas para seus pontos de tráfico, onde foram revendidas."
+O Juízo de origem, na decisão que decretou a prisão preventiva do paciente, individualizou sua conduta, em tese, com base na análise detalhada do relatório de extração de dados de celular, conforme transcrito a seguir ( evento 7, DESPADEC1):
+2.1.2. CHRISTIAN ADORNES CARVALHO, de alcunhas "CHUCK" e "B ASASINO", ao qual foi atribuído o uso da linha telefônica 55 99994-9119. A identificação do investigado é segura em decorrência do emprego público da referida alcunha nas redes sociais, bem como a publicação de fotografias idênticas à identificação da imagem no Sistema de Consultas Integradas. Não bastasse, em áudio enviado por CHRISTIAN, o representado confirma "eu sou o CHUCK", conforme E1.1.6.
+Depreende-se das conversas que embasam a representação, que CHRISTIAN: recebe um veículo automotor da genitora de DIONATHAN; disponibiliza seus dados bancários e identificação para perceber pagamentos por DIONATHAN  E1.1.7/8 , proceder no qual ele indica dados bancários de LUANA REBECA DA ROSA GIACHETO, sua companheira, pessoa cadastrada no sistema da Susepe como visitante do representado; seria fornecedor de entorpecentes a DIONATHAN, abastecendo a mercancia ilícita, conforme se depreende dos registros das conversas mantidas entre ambos - com diversas menções expressas a drogas ilícitas, quantias e valores decorrentes da comercialização.
+No mesmo sentido, ambos dialogam acerca de funções a serem exercidas por ambos em diferentes transações, variando do fornecimento, traslado, armazenamento, preparação e venda de drogas, além da posterior repartição dos resultados.
+ ..
+Assim, no limite da cognição sumária permitida pelo habeas corpus, verifico presentes, no feito, indícios razoáveis de autoria e materialidade do delito de tráfico imputado ao paciente, de modo que resta presente justa causa para o prosseguimento da ação penal.
+Melhor análise probatória deve ser realizada no curso da instrução processual, não cabendo, neste momento, aprofundado revolver da prova. Dessa maneira, não há falar em trancamento parcial da ação penal.
+Logo, não identifico flagrante constrangimento ilegal em desfavor do paciente. Melhor análise dependerá da submissão da questão ao colegiado.
+Por isso, indefiro a liminar.
+Reafirmo que o trancamento da ação penal pela via de habeas corpus é medida excepcional, sendo cabível somente em casos de prova inequívoca da atipicidade da conduta, de incidência de causa extintiva da punibilidade ou de ausência de indícios de autoria e materialidade do delito. No caso dos autos, não resta verificada nenhuma das situações acima para determinar o trancamento da ação penal, porquanto a exordial acusatória preenche todos os requisitos descritos no art. 41 do Código de Processo Penal.
+Outrossim, a ausência de apreensão da droga não torna a conduta atípica, desde que haja outros elementos de prova suficientes para comprovar o crime de tráfico.
+ ..
+Nesse sentido, mantenho o posicionamento reiterando que, no limite da cognição sumária permitida pelo habeas corpus, presentes no feito indícios razoáveis de autoria e materialidade do delito de tráfico imputado ao paciente, de modo que resta presente justa causa para o prosseguimento da ação penal. Assim sendo, melhor análise probatória deve ser realizada no curso da instrução processual, não cabendo, neste momento, aprofundado revolver da prova."
+Como se nota, apesar de a denúncia imputar ao paciente e aos corréus a prática, em tese, do crime previsto no art. 33, caput, da Lei n. 11.343/2006, verifica-se que não há informação acerca da apreensão de entorpecentes e, por consequência, da realização de laudo toxicológico.
+Assim, os Juízos ordinários, ao concluírem que a materialidade do crime de tráfico de drogas não exige, de forma imprescindível, a apreensão do entorpecente, podendo ser estabelecida por meio de elementos probatórios como relatórios de investigação e quebra de sigilo telefônico, contrariou a jurisprudência desta Corte Superior. Vejam-se os precedentes:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE APREENSÃO DA DROGA E DE LAUDO TOXICOLÓGICO DEFINITIVO. FALTA DE COMPROVAÇÃO DA MATERIALIDADE DELITIVA. ABSOLVIÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No julgamento do EREsp n. 1.544.057/RJ, de minha relatoria, julgado em 26/10/2016, DJe 09/11/2016, a Terceira Seção uniformizou o entendimento de que o laudo toxicológico definitivo é imprescindível à demonstração da materialidade delitiva do delito e, nesse sentido, tem a natureza jurídica de prova, não podendo ser confundido com mera nulidade, implicando a absolvição do acusado.
+Foi ressalvada, ainda, a possibilidade de se manter o édito condenatório quando a prova da materialidade delitiva está amparada em laudo preliminar, dotado de certeza idêntica ao do definitivo, certificado por perito oficial e em procedimento equivalente, o que não ocorreu na hipótese.
+2. Não ocorrendo a apreensão de drogas, imprescindível para a demonstração da materialidade do crime de tráfico, de rigor a absolvição.
+3. No caso em análise, não houve a apreensão de entorpecente com os envolvidos e, consequentemente, não há laudo toxicológico definitivo ou preliminar, o que vai de encontro ao decidido pela Terceira Seção (EREsp n. 1.544.057/RJ, de minha relatoria, Terceira Seção, julgado em 26/10/2016, DJe 9/11/2016). Portanto, de rigor a absolvição dos acusados dos delitos de tráfico de drogas 6 a 56 da denúncia, porquanto ausente prova da materialidade.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.668.177/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/9/2024, DJe de 1/10/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO AFASTADA. AUSÊNCIA DE APREENSAO DE DROGAS.
+1. Na linha da orientação firmada nesta Corte, é necessário, para a demonstração da materialidade do crime descrito no art. 33 da Lei n. 11.343/2006, que haja a apreensão de drogas, situação que não ocorreu na espécie.
+2. Justifica-se a concessão da ordem para absolver o réu, pois verificada flagrante ilegalidade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 915.103/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Assim, ausente a prova da materialidade, o que impede a manutenção do trâmite da ação penal com relação ao crime de tráfico de drogas, sem prejuízo do prosseguimento do feito em relação ao crime previsto no artigo 35, da Lei n. 11.343/2006.
+Nesse contexto, verifico a presença de constrangimento ilegal capaz de justificar a concessão da ordem de habeas corpus de ofício.
+Em tempo, nos termos do art. 580, do Código de Processo Penal - CPP, imperiosa a extensão dos efeitos da concessão da ordem aos demais corréus, eis que, assim como o paciente, foram denunciados pela prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006, sem, contudo, haver a indicação acerca da existência de registro de apreensão de entorpecentes.
+Ante o exposto, com fulcro no art. 34, XX, c/c o art. 203, II, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração, contudo, na análise de ofício, visualizo elementos capazes de caracterizar flagrante ilegalidade, motivo pelo qual concedo a ordem de habeas corpus para o fim de determinar o trancamento da ação penal nº 5005039-77.2024.8.21.0037 (1 º Vara Criminal da Comarca de Uruguaiana/RS), movida em face do paciente, exclusivamente com relação ao crime previsto no art. 33, caput, da Lei n. 11.343/2006, estendendo esses efeitos aos demais corréus na mesma situação, sem prejuízo do prosseguimento da ação penal em relação ao crime previsto no artigo 35 da Lei n. 11.343/2006.
+Publique-se.
+Intimem-se.
+EMENTA
