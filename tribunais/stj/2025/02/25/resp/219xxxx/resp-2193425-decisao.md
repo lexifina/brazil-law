@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto por ANDRELINA FRANCISCO DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado:
+RECURSO DE APELAÇÃO - REDUÇÃO DA CAPACIDADE PARA O TRABALHO EXERCIDO NO MOMENTO DO ACIDENTE - CONCESSÃO DE AUXÍLIO-ACIDENTE. NOS TERMOS DO ARTIGO 86 DA LEI Nº 8.213/91, O AUXILIO-ACIDENTE SERÁ CONCEDIDO AO SEGURADO, COMO INDENIZAÇÃO, QUANDO, APÓS CONSOLIDAÇÃO DAS LESÕES DECORRENTES DE ACIDENTE DE QUALQUER NATUREZA, RESULTAR EM SEQÜELAS QUE IMPLIQUEM REDUÇÃO DA CAPACIDADE PARA O TRABALHO QUE HABITUALMENTE EXERCIA. RECURSO CONHECIDO E PROVIDO.
+Nas razões recursais, a parte recorrente sustenta, em síntese, violação aos arts. 502, 503, 508 e 525, do CPC/2015 alegando, em síntese, que:
+"Desta forma, ocorrendo o trânsito em julgado da sentença condenatória prolatada em ação indenizatória, surge a eficácia preclusiva da coisa julgada, impedindo o conhecimento até mesmo das matérias de ordem pública, como a prescrição da pretensão indenizatória, na fase de cumprimento de sentença.
+Em sede de cumprimento de sentença, somente seria cabível a arguição de prescrição superveniente à prolação da sentença, consoante preceituado no art. 525, § 1º, VII, do CPC/2015, o que porém não é a hipótese vertente".
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+Quanto ao tema, a jurisprudência desta Corte é firme no sentido de que "na fase de liquidação, à semelhança do que ocorre na fase de cumprimento de sentença, somente é possível a arguição de prescrição se for superveniente à formação do título judicial liquidando, tendo em vista a eficácia preclusiva da coisa julgada" (AgInt no AREsp n. 2.355.364/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+Nesse sentido:
+AÇÃO RESCISÓRIA. PRESCRIÇÃO QUINQUENAL. REVISIONAL DE BENEFÍCIO PREVIDENCIÁRIO. MATÉRIA DE ORDEM PÚBLICA NÃO APRECIADA NA FASE DE CONHECIMENTO. RECONHECIMENTO NA FASE DE EXECUÇÃO. COISA JULGADA. IMPOSSIBILIDADE.
+1. Por se tratar de matéria de ordem pública, "a prescrição pode ser alegada em qualquer grau de jurisdição, pela parte a quem aproveita" (art. 193 do Código Civil), cabendo ao juiz pronunciá-la de ofício (§ 5º do art. 219 do Código Processual Civil de 1973).
+2. No entanto, a decisão rescindenda corretamente apontou ser impossível ao juízo da execução, após o trânsito em julgado da sentença proferida na fase de conhecimento, reconhecer a prescrição, sob pena de ofensa à coisa julgada.
+3. Nos termos da jurisprudência do STJ, "ocorrendo o trânsito em julgado, toda a matéria de defesa que deveria ter sido suscitada pelo réu e não o fora é encoberta pela eficácia preclusiva da coisa julgada, fenômeno a obstaculizar o conhecimento das matérias de ordem pública ou mesmo daquelas apenas cognoscíveis de ofício que não se mostrem expressamente excepcionadas como aptas a gerar vício rescisório ou transrescisório. A prescrição a que se refere o legislador de 1973 (art. 741 do CPC), 2005 (Lei 11.232 - art. 475 e 741 do CPC) e 2015 (art. 525 e 535 do CPC) como matéria de objeção dos embargos à execução e impugnação ao cumprimento de sentença é a da pretensão executiva."(AgInt no REsp n. 1.819.410/MG, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe de 26/10/2022)
+4. Ação Rescisória improcedente (AR n. 5.133/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/9/2023, DJe de 17/10/2023).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO DA PRETENSÃO CONSUMADA ANTERIORMENTE À SENTENÇA EXEQUENDA. CONHECIMENTO INVIÁVEL. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO DO ART. 1.042 DO CPC/2015 CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Em virtude da impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial, o agravo interno merece provimento.
+2. Em observância ao instituto da coisa julgada e sua eficácia preclusiva, apenas a prescrição consumada após a formação do título judicial exequendo é passível de conhecimento em impugnação do cumprimento de sentença, nos termos dos arts. 475-L, VI, do CPC/1973 e 525, § 1º, VII, do CPC/2015. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015 para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.828.492/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2021, DJe de 1/7/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESCRIÇÃO DA AÇÃO DECLARATÓRIA. ARGUIÇÃO NA FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. ORIENTAÇÃO JURISPRUDENCIAL DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO AGRAVADA MANTIDA.
+1. Ocorrendo o trânsito em julgado da sentença declaratória, surge a eficácia preclusiva da coisa julgada, impedindo o conhecimento até mesmo das matérias de ordem pública, como a prescrição, na fase de cumprimento de sentença.
+2. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp n. 1.749.877/GO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/5/2021, DJe de 10/6/2021).
+Portanto, deve ser provido o recurso especial, com fundamento na orientação contida na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar o reconhecimento da prescrição, nos termos da fundamentação.
+Intimem-se.
+ EMENTA
