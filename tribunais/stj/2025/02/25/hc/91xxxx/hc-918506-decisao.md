@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ISAAC ANTONIO DE ARAGÃO PEREIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal n. 0000045-31.2019.8.17.0570).
+Consta dos autos que o paciente foi condenado às penas de 05 (cinco) anos e 03 (três) meses de reclusão, em regime inicial semiaberto, e 204 (duzentos e quatro) dias-multa, fixados no valor mínimo, pela prática do delito previsto no art. 16, caput, da Lei n. 10.826/2003.
+O Tribunal local negou provimento ao apelo defensivo (fls. 420-428).
+Neste writ, a impetrante sustenta constrangimento ilegal em razão da inexistência de laudo pericial que comprove a potencialidade lesiva da arma. Nesse sentido, defende a absolvição do paciente ante a ausência de materialidade delitiva.
+Sustenta, ainda, a necessidade de desclassificação da conduta para o crime do art. 14 da Lei n. 10.826/03, em razão da superveniência do Decreto n. 9.847/19, que reclassificou a arma de calibre .45 como de uso permitido.
+Quanto à dosimetria da pena, aduz ausência de fundamentação idônea para justificar a apreciação negativa dos vetores culpabilidade, conduta social e circunstâncias do crime.
+Enfatiza que o aresto afastou a valoração negativa quanto aos motivos do delito, porém, sem modificar a reprimenda basilar, incidindo em reformatio in pejus indireta.
+Impugna o agravamento da pena intermediária baseado exclusivamente nos depoimentos dos policiais, sem elementos que demonstrem que o paciente estaria armado para a prática do tráfico de drogas.
+No tocante ao regime inicial para cumprimento de pena, pleiteia a fixação do regime aberto após o redimensionamento da pena, com a substituição da pena privativa de liberdade por restritivas de direitos.
+Requer, liminarmente, a suspensão dos efeitos da condenação até o julgamento final do mérito do writ, bem como a revogação da prisão preventiva. No mérito, postula a concessão da ordem para absolvição do paciente ou, subsidiariamente, a desclassificação da conduta para o art. 14 da Lei n. 10.826/2003 e o redimensionamento da pena nos termos delineados na impetração.
+Liminar indeferida às fls. 549/550.
+Informações prestadas às fls. 556/573 .
+Parecer do MPF às fls. 576/583, opinando pelo não conhecimento da impetração ou pela denegação da ordem.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, considerando a necessidade de racionalização do emprego do remédio heroico que reiteradamente é impetrado de maneira desvirtuada, alheia aos preceitos constitucionais e legais, entende ser incabível a impetração de habeas corpus substitutivo de recurso próprio ou de revisão criminal, sob pena subversão do sistema recursal e indevida supressão de instância.
+Nesse  sentido:
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  "HABEAS  CORPUS".  ORGANIZAÇÃO  CRIMINOSA.  DOSIMETRIA.  INEXISTÊNCIA  DE  ILICITUDE  FLAGRANTE.  RECURSO  NÃO  PROVIDO.
+1.  A  Terceira  Seção  desta  Corte,  seguindo  entendimento  firmado  pela  Primeira  Turma  do  Supremo  Tribunal  Federal,  sedimentou  orientação  no  sentido  de  não  admitir  habeas  corpus  em  substituição  a  recurso  próprio  ou  a  revisão  criminal,  situação  que  impede  o  conhecimento  da  impetração,  ressalvados  casos  excepcionais  em  que  se  verifica  flagrante  ilegalidade  apta  a  gerar  constrangimento  ilegal.
+ ..  (AgRg  no  HC  n.  921.445/MS,  relatora  Ministra  Daniela  Teixeira,  Quinta  Turma,  julgado  em  3/9/2024,  DJe  de  6/9/2024.)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  WRIT  SUBSTITUTIVO  DE  RECURSO  ESPECIAL,  IMPETRADO  QUANDO  O  PRAZO  PARA  A  INTERPOSIÇÃO  DA  VIA  RECURSAL  CABÍVEL  NA  CAUSA  PRINCIPAL  AINDA  NÃO  HAVIA  FLUÍDO.  INADEQUAÇÃO  DO  PRESENTE  REMÉDIO.  PRECEDENTES.  NÃO  CABIMENTO  DE  CONCESSÃO  DA  ORDEM  DE  OFÍCIO.  PETIÇÃO  INICIAL  INDEFERIDA  LIMINARMENTE.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  É  incognoscível,  ordinariamente,  o  habeas  corpus  impetrado  quando  em  curso  o  prazo  para  interposição  do  recurso  cabível.  O  recurso  especial  defensivo,  interposto,  na  origem,  após  a  prolação  da  decisão  agravada,  apenas  reforça  o  óbice  à  cognição  do  pedido  veiculado  neste  feito  autônomo.
+ .. (AgRg  no  HC  n.  834.221/DF,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  18/9/2023,  DJe  de  25/9/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS. APREENSÃO DE DROGAS E MATERIAL CARACTERÍSTICO DO TRÁFICO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+ ..
+(AgRg no HC n. 946.588/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024.)
+Quanto à alegação de ausência de materialidade delitiva, o entendimento do STJ é no sentido de que o porte de arma de fogo, acessório ou munição é delito de perigo abstrato, tendo como objeto jurídico a segurança coletiva, não exigindo comprovação da potencialidade lesiva do armamento ou munição, prescindindo de exame pericial. (AgRg no AREsp n. 952.418/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/12/2016, DJe de 16/12/2016.)
+Sobre o pleito de desclassificação da conduta para o crime do art. 14 da Lei n. 10.826/03,  o  habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 832.649/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/8/2023, DJe de 1/9/2023).
+Por fim, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, porque, de acordo com o entendimento consolidado do Superior Tribunal de Justiça, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021), situação não verificada no caso em apreço.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
