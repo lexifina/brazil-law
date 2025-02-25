@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de EDENIR JAIRO PEDROSO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado:
+RECURSO DE AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE RECONHECEU O COMETIMENTO DE FALTA GRAVE POR PARTE DO REEDUCANDO. RECURSO DO APENADO. COMPETÊNCIA DO DIRETOR DA UNIDADE PRISIONAL PARA RECONHECER A TRANSGRESSÃO DISCIPLINAR. ANÁLISE JUDICIAL RESTRITA À LEGALIDADE DO PROCEDIMENTO. AUSÊNCIA DE MÁCULA NA REFERIDA FASE ADMINISTRATIVA. DEVIDA OBSERVAÇÃO DA AMPLA DEFESA E DO CONTRADITÓRIO. ADEMAIS, SUBSÍDIOS SUFICIENTES AO RECONHECIMENTO DE QUE O APENADO ESTAVA NA POSSE DE CARREGADOR DE APARELHO DE TELEFONE CELULAR DURANTE A EXECUÇÃO DA PENA. FALTA GRAVE CONFIGURADA (ART. 50, INCISO VII, DA LEI DE EXECUÇÃO PENAL). RECURSO CONHECIDO E DESPROVIDO.
+1. Uma vez reconhecida, por parte da autoridade administrativa, no bojo de Procedimento Administrativo Disciplinar (PAD), a existência de provas suficientes acerca da prática de falta grave, não cabe à autoridade judicial entender pela sua inexistência, ressalvadas hipóteses de contornos teratológicos. Em juízo, afinal, cabe apenas o controle de legalidade da medida impugnada.
+2. Se há, em Procedimento Administrativo Disciplinar (PAD), subsídios à conclusão de que o apenado, durante o cumprimento de pena, estava na posse de carregador de aparelho de telefone celular, é legítimo o reconhecimento de falta grave (art. 50, inciso VII, da LEP) e, consequentemente, a manutenção do regime fechado, a perda de parte dos dias eventualmente remidos e a fixação de nova data-base para futuros benefícios (arts. 118, inciso I, e 127 da LEP).
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, pois não há provas suficientes em relação à autoria da falta disciplinar de natureza grave.
+Requer, em suma, a absolvição da falta disciplinar.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Extrai-se dos autos que, durante revista minuciosa na galeria "I", os policiais lograram êxito em encontrar um carregador de celular. Ao ser questionado o apenado Edenir assumiu a propriedade do objeto (fl. 01 - Seq. 215.1 dos autos da execução penal).
+ ..
+Na seara administrativa, após a efetivação do contraditório, inclusive com a participação de defesa técnica e a oitiva de testemunhas, o Conselho Disciplinar entendeu pela configuração de falta grave, com fulcro no artigo 50, inciso VII, da Lei de Execução Penal (fls. 21/25 - Seq. 215.1 dos autos da execução penal). O Diretor do estabelecimento acolheu o parecer do Conselho e determinou a remessa de cópia do incidente disciplinar ao Juízo da Vara de Execuções Penais (fl. 27 - Seq. 215.1 dos autos da execução penal).
+ ..
+Para tanto, valho-me do resumo bem delineado pelo douto Promotor de Justiça, em sede de contrarrazões (evento 1, PROM5):
+" ..  Na audiência de justificação, o policial penal Alexsandro Pereira Luiz reiterou as declarações da fase administrativa, confirmou, indene de dúvidas, que o apenado assumiu a posse do carregador apreendido. Acrescentou ainda, que está foi a única ocorrência que participou envolvendo o apenado.
+De sua vez, o agravante negou a propriedade do carregador. Explicou que assumiu, pois existe uma regra entre os internos, que obriga o interno responsável pelo "corre" (pratica consistente em ficar puxando cordas artesanais - terezas - entre as celas, no intuito de passar objetos, geralmente ilícitos) no dia, de assumir os objetos ilícitos encontrados, sob pena de sofrer represália da massa carcerária.
+Não obstante, quando aceitou facilitar a transferência de objetos entre as celas, atitude que é proibida, o apenado assumiu os riscos de ser pego na posse de objetos ilícitos, como de fato ocorreu.
+A alegação de que tal atividade é imposta pela facção PGC, também não merece prosperar, pois, sabidamente o pavilhão 3 do COPE é destinado aos internos que possuem envolvimento com o grupo criminoso, bem como o agravante nunca requereu a troca de pavilhão, nem sequer relatou as supostas ameaças ao chefe de segurança da unidade, demonstrando o seu envolvimento na facção.
+A versão defensiva não tem o condão de desconstruir o depoimento do policial penal, que atestou a assumência do agravante. Policial que não tinha qualquer desavença com o interno, pois, como dito acima, era a primeira ocorrência envolvendo os dois.
+Fato é, que o agravante confirmou ter assumido a posse, mas tenta mudar a versão para não sofrer as sanções cabíveis, utilizando-se de justificativas genéricas que não merecem acolhimento".
+ ..
+Desse modo, irretocável a decisão da Magistrada a quo. No cenário apresentado, legítimo o reconhecime nto da falta grave, com a manutenção do regime fechado e perda de parte dos dias remidos, além da fixação de nova data-base para futuros benefícios (fls. 10-13).
+Nessa linha, para modificar a decisão de origem, a fim de absolver ou desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
