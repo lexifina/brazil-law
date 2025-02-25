@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de violação do art. 1.022 do CPC/2015, bem como da falta de demonstração de ofensa aos arts. 421, parágrafo único, e 421-A do CC/2002 e 12, III, "a" e "b", da Lei n. 9.656/1998 (e-STJ fls. 1.024/1.026).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 714/715):
+Apelação. Plano de saúde. Ação de obrigação de fazer com pedido de antecipação de tutela. Pedido de inclusão de neta do beneficiário titular. Plano de saúde familiar celebrado em 1996 e adaptado à Lei nº 9.686/98. Sentença de procedência. Insurgência de ambas as partes. Recurso da autora interposto para discutir o valor de sua cota parte. Pedido transitório o qual não integra a causa de pedir. Ausência de discussão e produção de provas a respeito. Não conhecimento da irresignação da autora. Não acolhimento do recurso da requerida. Impossibilidade de ajuste particular restringir direito reconhecido pelo próprio ordenamento jurídico. O artigo 12, III, b, da Lei nº 9.656/98, assegura a inscrição de recém-nascido como dependentes em especificar se deve ser filho(a) tão somente de beneficiário titular. Ademais, foi reconhecida a qualidade de dependente titular da genitora da requerente em outra demanda. Recurso da autora não conhecido e da ré desprovido. Sentença mantida.
+Os primeiros embargos de declaração foram rejeitados (e-STJ fls. 841/844 e 916/919).
+Os segundos embargos foram acolhidos, sob a seguinte ementa (e-STJ fl. 860):
+Embargos de Declaração em anteriores embargos de declaração como decorrência de duplo recurso de apelação. Saúde complementar. Plano de saúde. Ação de obrigação de fazer c/c pedido de tutela de urgência. Sentença de procedência. Não conhecido o recurso da autora e desprovido o da ré. A ré e a autora opuseram embargos declaratórios. Erro material e, em decorrência, omissão em apreciar os embargos da autora. Configuração. Presentes os pressupostos de embargabilidade preconizados no art. 1.022 do Código de Processo Civil.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+Os terceiros embargos foram rejeitados (e-STJ fls. 916/919).
+Nas razões do recurso especial (e-STJ fls. 726/734), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais: arts. 421, parágrafo único, e 421-A do CC/2002, 1.022 do CPC e 12, III, "a" e "b", da Lei n. 9.656/1998.
+Insurge-se contra a conclusão da Corte local de que a lei não estipula "qualquer requisito para o recém-nascido ser filho(a) do beneficiário titular para o direito à inscrição ser assegurado. Dessa forma, não cabe ao ajuste particular limitar direito previsto em lei, sob pena de violação à norma de ordem pública" (e-STJ fl. 719).
+A parte afirma:
+(i) violação ao art. 1.022, II, do CPC/2015, porquanto " a  Recorrente opôs embargos de declaração suscitando que uma alegação de extrema importância para o caso não foi apreciada pela Col. Câmara Julgadora, qual seja, a inexistência de legitimidade contratual da parte adversa para tornar-se dependente do plano do titular, que é seu avô" (e-STJ fl. 729);
+(ii) ofensa ao art. 12, III, "a" e "b", da Lei 9.656/1998, porque:
+a. Ao estabelecer que o neto possa figurar como dependente no contrato do titular do plano, o Poder Judiciário passa a atribuir legitimidade especial contratual para quem não possui, sendo que a lei é categórica a não elevar tais pessoas a condição de legitimados (e-STJ fl. 731); e
+b. somente tem vinculo avô - neto, nos trinta primeiros dias após o parto (e-STJ fl. 732).
+(iii) desrespeito aos arts. 421, parágrafo único, e 421-A do CC/2002, pois:
+a. compelir a Recorrente a cumprir uma determinação que não é legal ou contratual, adentra, ainda, à esfera privada, sob ofensa ao Princípio da Legalidade Contratual positivados pelo art. 421, parágrafo único e 421-A do Código Civil (e-STJ fl. 733).
+No agravo (e-STJ fls. 1.029/1.035), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 1.053/1.070 (e-STJ).
+Houve parecer do MPF, sob a seguinte ementa (e-STJ fl. 1.086):
+AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE SUPLEMENTAR. DISCUSSÃO ACERCA DA INCLUSÃO DE DEPENDENTE, RECÉM NASCIDO, NETO DO TITULAR. INSTÂNCIAS ORDINÁRIAS, COMPETENTES PARA ANÁLISE DO MATERIAL PROBATÓRIO DOS AUTOS, QUE DEVIDAMENTE, COM ANÁLISE PORMENORIZADA DA CAUSA, RECONHECERAM A RESPONSABILIDADE DO PLANO DE SAÚDE EM INCLUIR O DEPENDENTE. MAIORES ANÁLISES A MODIFICAR O ENTENDIMENTO DO TRIBUNAL QUE ENVOLVE O INCABÍVEL REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. PRECEDENTE DO STJ. MANIFESTAÇÃO PELO DESPROVIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+Decido.
+A controvérsia tem origem na recusa da operadora em incluir a recém-nascida L.S.A.P. dos S., neta do titular do plano de saúde familiar e filha da dependente F.S.A., como beneficiária do plano de saúde.
+(I) Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido se pronuncia, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese da "inexistência de legitimidade contratual da parte adversa para tornar-se dependente do plano do titular" (e-STJ fl. 729), o Tribunal de origem assim se manifestou (e-STJ fl. 719 - grifei):
+ ..  o contrato, adaptado à Lei 9.656/98 (fls. 87/92), restringe a proteção conferida pelo próprio ordenamento jurídico. O artigo 12, "b", do referido diploma legal, determina, como uma das exigências mínimas para o plano de saúde o qual inclua atendimento obstétrico, a inscrição assegurada ao recém-nascido, filho natural ou adotivo do consumidor, como dependente, isento do cumprimento dos períodos de carência, desde que a inscrição ocorra no prazo máximo de trinta dias do nascimento ou da adoção.
+Nota-se, do texto normativo, a ausência de qualquer requisito para o recém-nascido ser filho(a) do beneficiário titular para o direito à inscrição ser assegurado. Dessa forma, não cabe ao ajuste particular limitar direito previsto em lei, sob pena de violação à norma de ordem pública.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+(II e III) O Tribunal de origem concluiu que a mãe passou à condição de titular do plano de saúde, o que autorizou a inclusão de sua filha como dependente.
+Confira-se (e-STJ fl. 719 - grifei):
+..
+ .. , a apelada comprovou o fato de sua genitora ter obtido a qualidade de dependente titular após acordo ter sido homologado nos autos de nº 1000175-74.2020.8.26.0228 (fls. 640/641). Dessa forma, os próprios termos do contrato autorizam a inclusão da recorrida no plano de saúde familiar em questão.
+Contudo, no recurso especial, apontando contrariedade ao art. 12, III, "a" e "b", da Lei n. 9.656/1998, a parte sustenta somente que "a lei é categórica a não elevar tais pessoas  os(as) netos(as) dos titulares  à condição de legitimados", e que a cobertura do plano de saúde decorrente do vínculo "avô - neto" limita-se aos "trinta primeiros dias após o parto". Ainda, apontando violação dos arts. 421, parágrafo único, e 421-A do CC/2002, sustenta somente "ofensa ao Princípio da Legalidade Contratual" (e-STJ fls. 731/733).
+Verifica-se que não houve impugnação de todos fundamentos do acórdão recorrido, pois a parte não rechaçou o fundamento de que a mãe obteve "a qualidade de dependente titular  ..  nos autos de nº 1000175-74.2020.8.26.0228" (e-STJ fl. 719). Incide, portanto, a Súmula n. 283 do STF.
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
