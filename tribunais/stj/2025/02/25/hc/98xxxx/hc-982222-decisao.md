@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ELISANDRA CRISTINA BATISTA DE CARVALHO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0000.23.053375-4/001).
+Depreende-se dos autos que a paciente foi condenada, pelos crimes de tráfico de drogas e associação para o tráfico, previstos no art. 33, caput, e art. 35, caput, ambos da Lei n. 11.343/2006, às penas de 8 (oito) anos de reclusão, mais pagamento de 1.200 (mil e duzentos) dias-multa, em regime inicial fechado.
+Contra o édito condenatório insurgiu-se a defesa.
+O Tribunal de origem proveu parcialmente o recurso de apelação, nos termos do acórdão assim ementado (e-STJ fls. 47/48):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM - CONDUTAS TIPIFICADAS NO ART. 33 E ART. 35, AMBOS DA LEI Nº 11.343/06 - PRELIMINAR - PROVA TÉCNICA - PRECLUSÃO - INOCORRÊNCIA - PRELIMNAR REJEITADA. MÉRITO - RECURSO DO MINISTÉRIO PÚBLICO: CONDENAÇÃO PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO - INVIABILIDADE - NÃO COMPROVAÇÃO DO ANIMUS ASSOCIATIVO. RECURSOS DEFENSIVOS: TRÁFICO DE DROGAS - ABSOLVIÇÃO E/OU DESCLASSIFICAÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEMONSTRADAS - ASSOCIAÇÃO PARA O TRÁFICO - ABSOLVIÇÃO - POSSIBILIDADE EM RELAÇÃO À PRIMEIRA APELANTE - DECOTE DA CAUSA DE AUMENTO PREVISTA NO ART. 40, INCISO VI, DA LEI Nº 11.343/06 - INVIABILIDADE - CONCESSÃO DA BENESSE PREVISTA NO §4º, ART. 33, DA LEI Nº 11.343/2006 - REQUISITOS NÃO PREENCHIDOS - REPRIMENDA - FRAÇÃO DE AUMENTO PELAS AGRAVANTES - NECESSIDADE DE FUNDAMENTAÇÃO CONCRETA - MAUS ANTECEDENTES E REINCIDÊNCIA - UTILIZAÇÃO DA MESMA CONDENAÇÃO PARA RECRUDESCIMENTO DA REPRIMENDA NA PRIMEIRA E SEGUNDA FASE - BIS IN IDEM - REDUÇÃO NECESSÁRIA.
+- Inexistindo qualquer violação ao devido processo legal, tendo sido devidamente resguardados os princípios da ampla defesa e do contraditório, não há que se falar em nulidade da prova.
+- O delito de associação para o tráfico exige a presença de provas contundentes da existência de "animus associativo" entre os agentes, de caráter duradouro e estável. Não sendo demonstrados tais requisitos, incabível a condenação por infração ao art. 35 da Lei nº 11.343/06.
+- Impossível o acolhimento da pretensão absolutória quando a materialidade e a autoria delitivas se encontram suficientemente comprovadas nos autos.
+- A mera alegação de que é usuário de entorpecentes não tem o condão de afastar a responsabilidade criminal do agente pelo crime de tráfico ilícito de drogas, quando sua conduta se amolda aos núcleos verbais exigidos pelo artigo 33 da Lei nº 11.343/06.
+- Inadmissível o decote da causa de aumento prevista no art. 40, VI, da Lei nº 11.343/06, eis que comprovado o envolvimento de menor no crime praticado pela apelante.
+- Incabível a incidência da redução da pena, se não foram preenchidos todos os requisitos previstos no art. 33, § 4º, da Lei Antidrogas consistentes na primariedade, nos bons antecedentes, não dedicação às atividades criminosas e não integração ao crime organizado.
+- O Superior Tribunal de Justiça tem entendimento firmado de que, embora ausente previsão legal acerca do quantum mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+- Para que não se opere o bis in idem na aplicação da pena, se faz necessário que as condenações utilizadas para exasperação da pena- base (maus antecedentes) e a empregada para reconhecimento da agravante do art. 61, inciso I, do CP (reincidência), sejam por fatos diversos.
+No presente habeas corpus, sustenta a defesa ausência de elementos concretos que fundamentem a condenação pelos crimes de tráfico de drogas e associação para o tráfico.
+Aponta que "a mera presença de Elisandra no local durante a operação, sem qualquer evidência concreta de sua participação ativa na guarda ou comércio de drogas, não é suficiente para sustentar uma condenação pelos crimes previstos nos artigos 33 e 35 da Lei nº 11.343/06" (e-STJ fl. 6).
+Diante dessas considerações, requer, inclusive liminarmente, o reconhecimento da ilicitude das provas e a consequente absolvição do paciente ou a redução das penas.
+É o relatório.
+Decido.
+O writ não merece conhecimento.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação do paciente transitou em julgado, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da controvérsia.
+De toda forma, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício.
+Ante o exposto, indefiro liminarmente a impetração.
+Publique-se. Intimem-se.
+EMENTA
