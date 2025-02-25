@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DA CIRCUNSTÂNCIA JUDICIAL CULPABILIDADE. PRÁTICA DE CRIME ENQUANTO FORAGIDO DO SISTEMA PRISIONAL. POSSIBILIDADE. PRECEDENTES. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, em que se discute a dosimetria da pena aplicada a réu condenado por prática de crime enquanto foragido do sistema prisional. O recorrente sustenta violação ao art. 59 do Código Penal, apontando ilegalidade na valoração negativa da culpabilidade .
+II. QUESTÃO EM DISCUSSÃO
+2. Há uma questão em discussão: definir se a valoração negativa da culpabilidade pelo fato de o réu estar foragido é válida para exasperar a pena-base.
+III. RAZÕES DE DECIDIR
+3. O reconhecimento da maior reprovabilidade da conduta do réu, praticando crime enquanto foragido, justifica a valoração negativa da culpabilidade e a elevação da pena-base, conforme precedentes do STJ e do STF (AgRg no HC n. 688.632/RS, AgRg no HC n. 744.728/SC).
+4. O acórdão recorrido encontra-se em consonância com a jurisprudência consolidada no STJ, aplicando-se a Súmula 83/STJ.
+IV. RECURSO ESPECIAL DESPROVIDO.
+RELATÓRIO
+Trata-se de recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo .
+Contrarrazões apresentadas, onde a parte recorrida postula o não conhecimento do recurso ou o seu não provimento.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DA CIRCUNSTÂNCIA JUDICIAL CULPABILIDADE. PRÁTICA DE CRIME ENQUANTO FORAGIDO DO SISTEMA PRISIONAL. POSSIBILIDADE. PRECEDENTES. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, em que se discute a dosimetria da pena aplicada a réu condenado por prática de crime enquanto foragido do sistema prisional. O recorrente sustenta violação ao art. 59 do Código Penal, apontando ilegalidade na valoração negativa da culpabilidade .
+II. QUESTÃO EM DISCUSSÃO
+2. Há uma questão em discussão: definir se a valoração negativa da culpabilidade pelo fato de o réu estar foragido é válida para exasperar a pena-base.
+III. RAZÕES DE DECIDIR
+3. O reconhecimento da maior reprovabilidade da conduta do réu, praticando crime enquanto foragido, justifica a valoração negativa da culpabilidade e a elevação da pena-base, conforme precedentes do STJ e do STF (AgRg no HC n. 688.632/RS, AgRg no HC n. 744.728/SC).
+4. O acórdão recorrido encontra-se em consonância com a jurisprudência consolidada no STJ, aplicando-se a Súmula 83/STJ.
+IV. RECURSO ESPECIAL DESPROVIDO.
+VOTO
+O recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual passo ao exame das alegações.
+O recurso especial está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violado o art. 59 do Código Penal, sob o argumento de que "a circunstância pessoal em questão é decorrente de uma mesma condenação transitada em julgado, a qual foi utilizada, na segunda fase da dosimetria, para fins de reincidência" (e-STJ, fl. 222).
+O Tribunal de Justiça do Estado de São Paulo, ao julgar o recurso de apelação criminal ali interposto pela Defesa, no que interessa ao caso, assim se manifestou (e-STJ, fls. 197/207, grifos acrescidos):
+Passo a analisar a pena aplicada, que não comporta qualquer reparo.
+Verifica-se que a pena-base foi fixada 1/6 (um sexto) acima do patamar mínimo legal, em 4 (quatro) anos e 8 (oito) meses de reclusão e 11 (onze) dias-multa, sob o argumento de que "o acusado praticou o crime enquanto foragido da justiça, circunstância que eleva a reprovabilidade de sua conduta" (fl. 120).
+Com acerto o aumento procedido, porquanto tal circunstância avulta a reprovabilidade da conduta e exige maior rigor punitivo, de modo a se garantir adequada retribuição frente à culpabilidade do criminoso. E, ao contrário do que sustenta a Defesa, o reconhecimento de tal circunstância judicial desfavorável não se confunde com o sopesamento da reincidência.
+Na segunda fase, foram reconhecidas as circunstâncias agravantes relativas à reincidência (efetivamente caracterizada e específica: ações penais nº. 0005763-30.2015.8.26.0495 e 0000083-70.2015.8.26.059 fls. 25/27) e à prática de crime contra pessoa idosa, e a pena foi exasperada em 1/3 (um terço), resultando em 6 (seis) anos 2 (dois) meses e 20 (vinte) dias de reclusão de reclusão e 14 (quatorze) dias-multa.
+Neste ponto, não há se falar em afastamento da agravante insculpida no art. 61, II, "h", do CP, porquanto a qualificação da vítima, constante do boletim de ocorrência, comprova sua idade. Ademais, como bem ponderado no parecer ministerial, trata-se de agravante de natureza objetiva, legalmente instituída para fins de maior proteção à pessoa idosa, de modo que deve ser reconhecida independentemente do conhecimento do agente.
+Na terceira fase, não incidiram quaisquer causas de aumento ou diminuição, já que, de fato, não se mostram presentes.
+Por fim, estabelece o art. 59, III, do CP, que o regime inicial de cumprimento da pena privativa de liberdade deve atender à necessidade e suficiência para reprovação e prevenção do crime, observando-se o princípio da individualização da pena. Destarte, considerando a quantidade de pena cominada, a reincidência ostentada pelo acusado, bem como circunstância de ter praticado o crime enquanto foragido do sistema prisional, reputo adequada a fixação de regime fechado para início de cumprimento de pena, em atenção ao art. 33, § 2º, do Código Penal.
+Pelos mesmos fundamentos, é inviável a aplicação dos benefícios de substituição da pena privativa de liberdade e suspensão condicional da pena, contidos nos artigos 44 e 77, ambos do Código Penal.
+Ante o exposto, conclui-se imperiosa a manutenção da sentença, escorreita na solução da lide e devidamente fundamentada.
+Posto isso, pelo meu voto, conheço e nego provimento ao recurso.
+Da análise dos auto, constata-se que não merece acolhimento a pretensão da Defesa, ao mencionar que a quantidade de entorpecente apreendida não justifica a exasperação da pena-base.
+Com efeito, da jurisprudência do Supremo Tribunal Federal colhe-se o entendimento no sentido de que "Inexiste ilegalidade ao adotar o julgador valoração negativa quanto à culpabilidade e aumentar a pena-base, quando demonstrada a maior reprovabilidade da conduta de réu que, estando foragido do sistema prisional, comete nova infração penal" (AgRg no HC n. 688.632/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 8/3/2022, DJe de 11/3/2022).
+Portanto, as conclusões adotadas pelo Tribunal a quo, no acórdão recorrido, se encontram em linha com o entendimento desta Corte, a atrair, no caso dos autos, a incidência da Súmula n. 83/STJ.
+Nesse sentido, e em reforço, os seguintes precedentes da Quinta Turma:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE. PACIENTE FORAGIDO. AUSÊNCIA DE ILEGALIDADE. PLEITO DE RECONHECIMENTO DA REDUTORA DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. AFASTAMENTO FUNDADO NAS CIRCUNSTÂNCIAS DO CASO CONCRETO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REGIME PRISIONAL FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. QUANTIDADE DE ENTORPECENTES. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A culpabilidade, para fins do art. 59 do CP, deve ser compreendida como juízo de reprovabilidade sobre a conduta, apontando maior ou menor censurabilidade do comportamento do réu.
+III - No presente caso, não há ilegalidade na fundamentação da exasperação da pena-base, porquanto demonstrada a maior reprovabilidade da conduta, pois o paciente praticou o presente crime enquanto estava foragido, em razão de descumprimento das condições da prisão domiciliar anteriormente imposta, em um processo também relativo a tráfico de entorpecentes. Precedentes.
+IV- O parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas, nem integre organização criminosa.
+V - In casu, houve fundamentação concreta, idônea e suficiente para o afastamento do tráfico privilegiado, lastreada, não somente na quantidade de drogas apreendidas (60 kg de maconha), mas também nas circunstâncias concretas da prisão do paciente e da apreensão das drogas, uma vez que restou demonstrada a complexidade, a sofisticação e o profissionalismo do preparo do delito, com transporte dos entorpecentes para outro estado, utilizando-se de veículo automotor devidamente preparado para tanto, com ocultamento das drogas em suas partes internas, elementos aptos a justificar o afastamento da redutora do art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostram a dedicação à atividade criminosa, em evidente patrocínio por organização criminosa. Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária. Precedentes.
+VI - O regime adequado à hipótese é o inicial fechado, uma vez que houve fundamentação idônea a ensejar a aplicação do regime mais gravoso, lastreada nas circunstâncias concretas do delito (em especial, a quantidade de entorpecentes apreendidos, qual seja, 60 kg de maconha, utilizada para exasperar a basilar), em consonância com o entendimento desta Corte, ex vi do art. 33, parágrafo 2º, b, e parágrafo 3º, do Código Penal, e art. 42 da Lei n. 11.343/06.
+Agravo regimental desprovido. (AgRg no HC n. 809.936/MS, relator Ministro Messod Azulay NEto, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023) (grifos acrescidos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. VALORAÇÃO NEGATIVA DA CULPABILIDADE E DAS CIRCUNSTÂNCIAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A dosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal - CP, cabendo ao Magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico.
+2. A exasperação da pena-base em razão da culpabilidade foi justificada de forma concreta e idônea, considerando que, à época do crime, o paciente era foragido do sistema prisional, o que denota maior reprovabilidade em sua conduta. Precedentes.
+3. As circunstâncias do crime são entendidas como fatores associados ao tempo, lugar e modo de execução que, não constituindo elementares, circunstâncias legais ou causas de aumento, se revistam de relevância na aplicação da pena. No caso em análise, restou destacado que o crime foi praticado em local ermo, dificultando o socorro, de maneira premeditada, em atuação de organização criminosa (Primeiro Comando da Capital - PCC) e em contexto de tráfico de drogas e exploração da prostituição, mostrando-se devidamente fundamentado o incremento na pena-base.
+4. Agravo regimental desprovido. (AgRg no HC n. 744.728/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/10/2022, DJe de 3/11/2022) (grifos acrescidos).
+Ante o exposto, nego provimento ao recurso especial .
+É o voto.
