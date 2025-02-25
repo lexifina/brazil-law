@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAURICIO DAL AGNOL, em face da decisão monocrática de fls. 1.061/1.066, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. APLICAÇÃO DA TAXA SELIC. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões destes embargos, a parte embargante busca demonstrar a ocorrência dos vícios de omissões, obscuridades e contradições, porquanto " ..  A DECISÃO DESSE AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL É CONTRADITÓRIA E OMISSA, JÁ QUE PROFERIDA DESCONSIDERANDO A EDIÇÃO DA LEI 14.905 DE 28 DE JUNHO DE 2024. NOTE-SE QUE DESDE 2008 EXISTE REMANSOSA JURISPRUDÊNCIA NO SUPERIOR TRIBUNAL DE JUSTIÇA DE QUE A TAXA SELIC É O ÍNDICE UNO A SER APLICADO PARA FINS DE JUROS DE MORA E CORREÇÃO MONETÁRIA." (fl. 1.072).
+Requer o acolhimento do incidente aclaratório, com efeitos infringentes, para que sejam sanadas as omissões/contradições apontadas.
+É o relatório.
+Decido.
+A irresignação do embargante não merece acolhida.
+São cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE DE ATACAR QUESTÕES JÁ RESOLVIDAS NA DECISÃO INTEGRATIVA. SOCIEDADE ANÔNIMA. VENDA DE AÇÕES COM DIREITO A VOTO. INGRESSO DE NOVO ACIONISTA NO BLOCO DE CONTROLE. REALIZAÇÃO DE ACORDO ENTRE OS ACIONISTAS DESSE GRUPO PARA A GESTÃO DA COMPANHIA. ALIENAÇÃO DO CONTROLE ACIONÁRIO. AUSÊNCIA DE OMISSÃO. MODULAÇÃO DOS EFEITOS. INEXISTÊNCIA DE JURISPRUDÊNCIA DOMINANTE SOBRE O TEMA OBJETO DA DEMANDA. CORREÇÃO MONETÁRIA. ÍNDICE. IPCA. JUROS DE MORA. SELIC. HONORÁRIO SUCUMBENCIAL. SENTENÇA PROFERIDA SOB A ÉGIDE DO CPC/73. INVERSÃO DO ÔNUS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+1. Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do CPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão.
+2. Os segundos embargos de declaração devem alegar erro, omissão, obscuridade ou contradição do acórdão prolatado nos primeiros embargos, não cabendo atacar questões já resolvidas na decisão integrativa precedente, tampouco ressuscitar temas da decisão primitivamente embargada.
+3. A omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum argumento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+ ..
+9. Embargos de declaração parcialmente acolhidos.
+(EDcl nos EDcl no REsp n. 1.837.538/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/12/2024, DJe de 6/12/2024.)
+Não há, na hipótese, qualquer vício a ser sanado.
+Como relatado, a parte embargante requer o saneamento dos vícios supostamente contidos, ao argumento de que " ..  DEVE SER REFORMADA A DECISÃO AGRAVADA PARA FINS DE DETERMINAR A APLICAÇÃO DA TAXA SELIC (ÍNDICE UNO PARA FINS DE JUROS DE MORA E CORREÇÃO MONETÁRIA), DEVIDO AO FATO LEGAL NOVO, SENÃO EM TODO PERÍODO, ENTÃO A PARTIR DA EDIÇÃO DA REFERIDA LEI, NÃO HAVENDO MAIS COMO SER MANTIDA A APLICAÇÃO DE JUROS DE MORA DE 1% AO MÊS, ACRESCIDO DE IGP-M EM FACE DA FLAGRANTE ILEGALIDADE." (fl. 1.077).
+Por oportuno, destaco os seguintes trechos da decisão monocrática embargada (fls. 1.062/1.063, grifei):
+De início, o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+No mérito, ao analisar o caso dos autos, o Tribunal de Justiça afastou a aplicação da taxa SELIC nos seguintes termos (e-STJ, fls. 336-337, sem grifos no original):
+Conforme se depreende dos autos, a insurgência da parte agravante diz respeito ao julgamento de improcedência da impugnação ao cumprimento de sentença, na qual pleiteava a utilização da taxa referencial SELIC como índice correção monetária e para os juros moratórios no cálculo da condenação, além de apontar excesso de execução no que toca à base de cálculo dos honorários sucumbenciais.
+No caso, os agravados ingressaram com ação indenizatória (nº 001/1.15.0027762-3) contra o recorrente, buscando o recebimento de valores devidos em razão de processo no qual o postulante atuou como advogado dos recorridos, tendo, posteriormente, feito acordo com o réu da lide originária, abdicando de cerca de 50% dos valores devidos consoante sentença, além de indenização por danos morais.
+A ação foi julgada procedente, nos seguintes termos (evento 1, INIC1):
+a) condenar o réu ao pagamento da quantia de R$ 46.515,54 (quarenta e seis mil, quinhentos e quinze reais e cinquenta e quatro centavos), que deverá ser corrigido monetariamente pelo IGP-M, a contar de 20 de agosto de 2010 (data da expedição dos alvarás de fls. 97/98), com juros de mora de 1% ao mês, incidentes da citação;
+b) condenar o réu Maurício Dal Agnol ao pagamento de indenização por danos morais, a cada um dos autores, na quantia de R$ 10.000,00 (dez mil reais), que deverá ser corrigida monetariamente pelo IGP-M e com a incidência de juros de mora de 1% ao mês, ambos a contar desta decisão.
+Condeno os autores ao pagamento de 50% das custas processuais e honorários ao patrono da demandada no valor de R$1.000,00 (um mil reais), atenta aos pressupostos do art. 85, §8º, do Código de Processo Civil. Arcará o réu Maurício Dal Agnol com o restante das custas judiciais e honorários ao procurador dos autores, que fixo em 15% sobre o valor da condenação, a teor do disposto no art. 85, §2º, do Código de Processo Civil.
+Em grau recursal, restou provido o apelo dos autores, sem contudo alterar o parâmetro anteriormente adotado para fixação da correção monetária e juros de mora.
+Diante desse contexto, o agravante requer a utilização da taxa Selic para o cálculo da condenação.
+Ocorre que restou expressamente definido na sentença que a correção monetária se daria pelo IGP-M, assim como que os juros moratórios seriam de 1% ao mês, sendo portanto impossível a sua alteração para a utilização da Taxa Selic, sob pena de violação da coisa julgada.
+Na hipótese em tela, verifica-se que, na decisão objeto de cumprimento de sentença, ficou consignado no título judicial, já transitado em julgado, os índices de correção monetária e dos juros de mora, sendo descabida nesse momento processual a discussão sobre a aplicação da taxa SELIC, pois há muito operada a preclusão e a imutabilidade da sentença pela coisa julgada.
+Insta salientar que, consoante iterativa jurisprudência desta Corte, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio.
+Com efeito, o entendimento deste Superior Tribunal firmou-se "no sentido de que tão somente o erro material pode ser corrigido a qualquer tempo, enquanto os erros sobre os critérios do cálculo, inclusive, no que concerne a juros moratórios e correção monetária sujeitam-se à preclusão" (AgInt no REsp 1.958.481/RS, Relator Ministro Francisco Falcão, DJe 24/3/2022).
+Nota-se, portanto, que pretende o embargante, na verdade, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios.
+Assim, verifico que a decisão embargada não padece de qualquer contradição, obscuridade ou omissão, porquanto examinou fundamentadamente o apelo nobre trazido à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses do embargante.
+Nesse sentido, colaciono precedentes dessa Corte Superior de Justiça:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. RECURSO ESPECIAL. INADMISSÃO. TESE REPETITIVA. AGRAVO EM RECURSO ESPECIAL INCABÍVEL. VIA INADEQUADA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Nos termos da orientação desta Corte, se o recurso especial teve seu seguimento negado na origem exclusivamente com base no artigo 1.030, inciso I, alínea "b" ou no artigo 1.040, inciso I, do Código de Processo Civil, o único recurso cabível seria o agravo interno de que trata o § 2º do dispositivo legal em comento. A interposição do agravo previsto no artigo 1.042 do Código de Processo Civil nesses casos caracteriza-se como erro grosseiro.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt na Rcl n. 40.770/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 3/12/2024, DJe de 6/12/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE DISTRIBUIÇÃO DE HONORÁRIOS. PRESCRIÇÃO. SÚMULA N. 168/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+ ..
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+(EDcl no AgInt nos EAREsp n. 1.850.024/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 19/11/2024, DJe de 25/11/2024.)
+Outrossim, cumpre salientar que: "Segundo entendimento pacífico desta Corte, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (AgInt no AREsp n. 2.580.727/PB, relator Ministro Humberto Martins, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+Rejeito, portanto, os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
