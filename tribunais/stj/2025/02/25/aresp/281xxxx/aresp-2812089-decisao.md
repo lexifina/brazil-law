@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação do art. 51 do Código de Defesa do Consumidor, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 597):
+Apelação cível. Ação de revisão contratual c/c repetição de indébito.
+Ausência de fundamentação mínima da sentença.
+Afasta-se a tese de ausência de fundamentação mínima da sentença quando nela consta as razões de decidir do julgador a quo, ainda que seja com abordagem diversa daquela trazida pela Ré/Apelante.
+Inépcia da inicial.
+A manifestação da autora sobre o intento de obter a revisão das taxas de juros do contrato para que seja aplicada a taxa média de mercado descaracteriza a arguição de inépcia da inicial, ainda que não faça menção à cláusula contratual que pretende ver revisada.
+Cerceamento de defesa. Prova pericial.
+O cerceamento de defesa resta descaracterizado se o caso permite o julgamento antecipado do mérito por ser dispensável a realização de prova pericial.
+Juros remuneratórios. Taxa Média de Mercado.
+São abusivos os juros remuneratórios pactuados em uma vez e meia, ao dobro ou ao triplo da taxa média de mercado fixada pelo Banco Central do Brasil, e cabe a sua redução à taxa média de mercado.
+Apelação conhecida e não provida.
+Sustenta a parte agravante que é indevido o reconhecimento de abusividade de taxa de juros remuneratórios apenas tendo como base a taxa média praticada no mercado.
+Assim posta a questão, passo a decidir.
+Quanto à questão dos juros remuneratórios, destaco que a atual jurisprudência do STJ firmou o entendimento de que a taxa média de mercado apurada pelo Banco Central do Brasil para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco.
+O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação. A propósito, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS.
+1. De acordo com a orientação adotada no julgamento do REsp. 1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+2. Prevaleceu o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média.
+3. O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação.
+4. A redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado, em atenção às supostas "circunstâncias da causa" não descritas, e sequer referidas no acórdão - apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada no REsp. 1.061.530/RS.
+5. Hipótese, ademais, em que as parcelas foram prefixadas, tendo o autor tido conhecimento, no momento da assinatura do contrato, do quanto pagaria do início ao fim da relação negocial.
+6. Agravo interno provido.
+(AgInt no AREsp n. 1.522.043/RS, relator Ministro Marco Buzzi, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17.11.2020, DJe de 10.3.2021.)
+Nesse contexto, registro que esta Corte Superior entende que é possível proceder à revisão da taxa de juros remuneratórios, quando caracterizada a relação de consumo e o caráter abusivo ficar devidamente demonstrado, conforme as peculiaridades do caso concreto.
+Na situação dos autos, observo que a Corte de origem manteve a limitação dos juros remuneratórios no contrato de empréstimo pessoal, o qual tem como modalidade de pagamento o desconto em conta corrente, considerando as peculiaridades do caso concreto, e em razão da diferença significativa entre a taxa pactuada e a taxa média de mercado divulgada pelo Banco Central do Brasil, conforme se observa dos seguintes trechos (fls. 592/594):
+(..)
+Analisando a sentença proferida, verifico que a magistrada limitou as taxas de juros à média de mercado, haja vista que as taxas superam o dobro da referida taxa, em evidente abusividade.
+Enquanto, a taxa média do mercado para empréstimos pessoais não consignado divulgada pelo Banco Central do Brasil para o mês da contratação foi de 7,07% ao mês e 126,90% ao ano, as taxas cobradas nos contratos objetos da presente lide, quais sejam, contratos de n. 041610012863, n. 041410023437, n. 041610024168, n. 095010442717 e n. 041610025885 foram de 20,50% ao mês e 837,23% ao ano no primeiro contrato, e de 22% ao mês e de 987,22% ao ano nos demais. Esses percentuais superam o dobro da taxa média de mercado da época.
+(..)
+No caso, a Juíza de primeiro grau identificou que a taxa mensal e anual prevista no contrato superou o dobro da taxa média de mercado publicada pelo Banco Central do Brasil na época da contratação.
+Se é verificada a flagrante abusividade dos juros remuneratórios pelas instâncias ordinárias deve sua taxa ser adequada ao patamar médio praticado pelo mercado. Sendo assim, correta está a sentença que fixa os juros remuneratórios segundo a taxa média de mercado.
+Vale ressaltar que a concessão de empréstimo a consumidores de alto risco - por serem de baixa renda e, por vezes, negativados -, não afasta o dever da instituição financeira de observar os princípios da função social do contrato, da boa-fé objetiva e do equilíbrio contratual, até porque está a tratar de pessoas com vulnerabilidade financeira.
+(..)
+Dessa forma, anoto que rever a conclusão da Corte local, a qual manteve a limitação da taxa de juros remuneratórios contratada, em razão da manifesta abusividade da taxa pactuada no contrato em questão, diante da diferença significativa entre a taxa fixada no contrato e a taxa média de mercado divulgada pelo Banco Central do Brasil, demandaria o reexame contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
