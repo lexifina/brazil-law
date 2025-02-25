@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito de competência estabelecido entre o JUÍZO DA 19ª VARA DO TRABALHO DE BELO HORIZONTE - MG e o JUÍZO DE DIREITO DA 24ª VARA CÍVEL DE BELO HORIZONTE - MG.
+A questão, na origem, envolve ação trabalhista proposta por MATHEUS FELIPE DE OLIVEIRA SANTOS (MATHEUS) contra IFOOD COM AGÊNCIA DE RESTAURANTES ONLINE S. A. (IFOOD), tendo como causa de pedir o bloqueio feito pela plataforma, impedindo a continuidade da prestação dos serviços, a necessidade de reconhecimento de vínculo empregatício, com pedido de verbas trabalhistas, indenização por danos materiais e morais e, sucessivamente, a sua reintegração como entregador na plataforma (e-STJ, fls. 6/24).
+A ação foi inicialmente proposta inicialmente perante o Juízo Trabalhista, que declinou de sua competência sob o fundamento de que a matéria não envolve relação trabalhista, remetendo os autos ao Juízo Cível.
+O Juízo cível, igualmente, declinou da competência por entender que a demanda versava sobre relação empregatícia.
+Devolvidos os autos ao Juízo Trabalhista este, por sua vez, declarou-se igualmente incompetente e suscitou o presente conflito.
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. RENATO BRILL DE GÓES, manifestou-se desnecessidade de sua intervenção (e-STJ, fls. 1.103/1.106).
+É o relatório.
+DECIDO.
+Com base no art. 105, I, d, da Constituição Federal, conheço do incidente instaurado entre juízes vinculados a tribunais diversos.
+A controvérsia gira em torno de se definir qual o juízo competente para processar e julgar ação de indenização por danos morais e materiais proposta por entregador de aplicativo contra a IFOOD.
+A jurisprudência desta Segunda Seção se firmou no sentido de que a competência ratione materiae é definida em função do pedido e da causa de pedir.
+Esta Corte também se posicionou que a natureza jurídica da relação entre motoristas de aplicativos e as respectivas empresas que desenvolveram plataformas digitais para essa finalidade não é de emprego, tratando-se de contrato autônomo de prestação de serviços, e, portanto, regendo-se pela normativa civilista, não trabalhista.
+Confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. REPARAÇÃO DE DANOS MATERIAIS E MORAIS AJUIZADA POR MOTORISTA DE APLICATIVO UBER. RELAÇÃO DE TRABALHO NÃO CARACTERIZADA. SHARING ECONOMY. NATUREZA CÍVEL. COMPETÊNCIA DO JUÍZO ESTADUAL.
+1. A competência ratione materiae, via de regra, é questão anterior a qualquer juízo sobre outras espécies de competência e, sendo determinada em função da natureza jurídica da pretensão, decorre diretamente do pedido e da causa de pedir deduzidos em juízo.
+2. Os fundamentos de fato e de direito da causa não dizem respeito a eventual relação de emprego havida entre as partes, tampouco veiculam a pretensão de recebimento de verbas de natureza trabalhista. A pretensão decorre do contrato firmado com empresa detentora de aplicativo de celular, de cunho eminentemente civil.
+3. As ferramentas tecnológicas disponíveis atualmente permitiram criar uma nova modalidade de interação econômica, fazendo surgir a economia compartilhada (sharing economy), em que a prestação de serviços por detentores de veículos particulares é intermediada por aplicativos geridos por empresas de tecnologia. Nesse processo, os motoristas, executores da atividade, atuam como empreendedores individuais, sem vínculo de emprego com a empresa proprietária da plataforma.
+4. Compete a Justiça Comum Estadual julgar ação de obrigação de fazer c.c. reparação de danos materiais e morais ajuizada por motorista de aplicativo pretendendo a reativação de sua conta UBER para que possa voltar a usar o aplicativo e realizar seus serviços.
+5. Conflito conhecido para declarar competente a Justiça Estadual.
+(CC n. 164.544/MG, de minha relatoria, Segunda Seção, julgado em 28/8/2019, DJe de 4/9/2019)
+Na hipótese sob análise, a inicial indica que o autor, entregador de aplicativo, foi bloqueado da plataforma por ato unilateral e arbitrário da IFOOD, sob o fundamento de ter infringido os termos e condições e sem lhe assegurar direito de defesa (e-STJ, fl. 19).
+Por essa razão, pugnou pelo reconhecimento de vínculo empregatício, de eventuais verbas dali decorrentes e, sucessivamente, pediu a declaração de nulidade de sua dispensa, com a sua consequente reintegração à plataforma, para que possa voltar a fazer uso do aplicativo para suas entregas (e-STJ, fls. 22/24).
+A empresa IFOOD atua no mercado através de aplicativo de celular responsável por fazer a aproximação entre consumidores, fornecedores e entregadores, com tecnologia especializada em entrega on line.
+Nesse processo, os entregadores, valendo-se da plataforma eletrônica, atuam como empreendedores individuais, sem vínculo de emprego com a empresa.
+Isso porque, não se verifica relação de hierarquia entre o entregador, usuário da plataforma, e a empresa proprietária do aplicativo, pois a prestação de serviços é feita de forma eventual, sem horários pré-estabelecidos e sem recebimento de salário fixo, descaracterizando, assim, o vínculo empregatício entre as partes.
+Vale ressaltar que as ferramentas tecnológicas disponíveis, atualmente, permitiram a criação de uma nova modalidade de interação econômica, fazendo surgir a economia compartilhada (sharing economy), em que a prestação de serviços é intermediada por aplicativos geridos por empresas de tecnologia, mas a prestação dos serviços é realizada pelos entregadores com veículos e em horários por eles próprios definidos e sem exclusividade entre as empresas de aplicativos.
+Assim, não se vislumbra uma relação de subordinação típica das relações de emprego, caracterizando o contrato como de prestação de serviços autônoma.
+Aliás, o fato de o entregador ter que fazer alguma preparação prévia para a utilização da plataforma também não é indicador de hierarquia ou subordinação entre a este e a plataforma.
+Trata-se de livre escolha de atuação entre as partes, onde o prestador dos serviços de entrega, para poder utilizar o aplicativo, deve observar os mecanismos próprios da plataforma digital, a exemplo de um contrato de franquia, que possui requisitos para a utilização da marca, mas não se estabelece vínculo empregatício entre a franqueadora e o franqueado.
+conflDesse modo, não se verificando relação de emprego entre as partes, e, sendo o sistema de entregas, a partir de provedores de rede de compartilhamento, uma atividade de autônoma, portanto, de cunho civil, o caso é de se declarar a competência da Justiça Estadual.
+Nessas condições, CONHEÇO do conflito para declarar competente o JUÍZO DE DIREITO DO JUIZADO ESPECIAL CÍVEL DE POÇOS DE CALDAS - MG, suscitado.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL. JUSTIÇA DO TRABALHO. ENTREGADOR DE APLICATIVO. RELAÇÃO JURÍDICA EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
