@@ -1,0 +1,148 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ATUAÇÃO DA GUARDA MUNICIPAL. PRISÃO EM FLAGRANTE. LEGALIDADE. BUSCA DOMICILIAR. AUTORIZAÇÃO DO MORADOR. PROVAS LÍCITAS. WRIT NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a condenação do paciente por tráfico de drogas (art. 33, § 4º, da Lei nº 11.343/06).
+2. A defesa sustenta a ilegalidade da atuação da Guarda Municipal, a inexistência de fundadas suspeitas para a busca pessoal e a nulidade da busca domiciliar realizada sem mandado judicial.
+3. O pedido busca a declaração de ilicitude das provas obtidas, nos termos do art. 157 do Código de Processo Penal, e a consequente absolvição do paciente.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão:
+(i) se a abordagem e a prisão em flagrante realizadas por guardas municipais são legais;
+(ii) se a busca domiciliar sem mandado judicial foi realizada com autorização válida do morador.
+III. RAZÕES DE DECIDIR
+5. O habeas corpus não pode ser utilizado como sucedâneo de recurso próprio ou revisão criminal, salvo em hipóteses de flagrante ilegalidade.
+6. A atuação da Guarda Municipal na abordagem e prisão em flagrante não apresenta ilegalidade, pois qualquer do povo pode efetuar a prisão em situação de flagrância, conforme o art. 301 do Código de Processo Penal.
+7. O delito de tráfico de drogas possui natureza permanente, justificando a prisão sem necessidade de mandado judicial.
+8. A busca domiciliar foi considerada válida, pois houve autorização expressa da mãe do paciente para a entrada dos agentes, além da existência de fundadas razões indicativas de crime no local.
+9. A jurisprudência consolidada do Supremo Tribunal Federal e do Superior Tribunal de Justiça reconhece a possibilidade de ingresso em domicílio sem mandado em casos de flagrante delito, desde que haja fundadas razões devidamente justificadas a posteriori.
+10. A revisão do juízo de valor das provas demandaria reexame fático-probatório, o que não é admissível na via eleita.
+IV. DISPOSITIVO E TESE
+11. Agravo regimental desprovido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 456/460):
+Trata-se de habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal nº 1501671- 54.2022.8.26.0279 - sem ementa).
+O recorrente foi condenado às penas de 01 ano e 08 meses de reclusão, no regime aberto, substituída por prestação de serviços comunitários e prestação pecuniária, e pagamento de 166 dias-multa, pela prática de tráfico de drogas, crime previsto no art. 33, §4º, da Lei nº 11.343/06.
+A defesa alega, em síntese, ilegalidade na atuação da guarda municipal, a qual não teria competência constitucional para realizar atuação ostensiva, além da ausência de fundadas suspeitas para a busca pessoal e, posterior, busca domiciliar.
+Ao final, requer a concessão da ordem para declarar a ilicitude dos objetos apreendidos, nos termos do art. 157 do Código de Processo Penal.
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado para o reconhecimento da nulidade das provas obtidas de maneira ilícita e consequente absolvição do agravante.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ATUAÇÃO DA GUARDA MUNICIPAL. PRISÃO EM FLAGRANTE. LEGALIDADE. BUSCA DOMICILIAR. AUTORIZAÇÃO DO MORADOR. PROVAS LÍCITAS. WRIT NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a condenação do paciente por tráfico de drogas (art. 33, § 4º, da Lei nº 11.343/06).
+2. A defesa sustenta a ilegalidade da atuação da Guarda Municipal, a inexistência de fundadas suspeitas para a busca pessoal e a nulidade da busca domiciliar realizada sem mandado judicial.
+3. O pedido busca a declaração de ilicitude das provas obtidas, nos termos do art. 157 do Código de Processo Penal, e a consequente absolvição do paciente.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão:
+(i) se a abordagem e a prisão em flagrante realizadas por guardas municipais são legais;
+(ii) se a busca domiciliar sem mandado judicial foi realizada com autorização válida do morador.
+III. RAZÕES DE DECIDIR
+5. O habeas corpus não pode ser utilizado como sucedâneo de recurso próprio ou revisão criminal, salvo em hipóteses de flagrante ilegalidade.
+6. A atuação da Guarda Municipal na abordagem e prisão em flagrante não apresenta ilegalidade, pois qualquer do povo pode efetuar a prisão em situação de flagrância, conforme o art. 301 do Código de Processo Penal.
+7. O delito de tráfico de drogas possui natureza permanente, justificando a prisão sem necessidade de mandado judicial.
+8. A busca domiciliar foi considerada válida, pois houve autorização expressa da mãe do paciente para a entrada dos agentes, além da existência de fundadas razões indicativas de crime no local.
+9. A jurisprudência consolidada do Supremo Tribunal Federal e do Superior Tribunal de Justiça reconhece a possibilidade de ingresso em domicílio sem mandado em casos de flagrante delito, desde que haja fundadas razões devidamente justificadas a posteriori.
+10. A revisão do juízo de valor das provas demandaria reexame fático-probatório, o que não é admissível na via eleita.
+IV. DISPOSITIVO E TESE
+11. Agravo regimental desprovido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 457/460):
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, D Je de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, D Je de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, D Je de 8/3/2024)."
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, D Je de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano quanto ao argumento de nulidade da busca realizada pela Guarda Municipal, na medida em que o acórdão assim se manifestou (e-STJ fls. 47- 56):
+O Apelante foi denunciado como incurso nas sanções do artigo 33, "caput", da Lei nº 11.343/06, porque no dia 03 de dezembro de 2022, por volta das 23:25 horas, na Rua Lindolfo G. Gayão, nº 1.263, Jardim Comodoro, em Itararé, vendeu 02 (dois) pinos contendo cocaína à Phelippe Camargo, trazia consigo, para fins de tráfico de drogas, outros 02 (dois) pinos contendo cocaína, e no mesmo dia, após esse horário, na Rua Mario Contieri, nº 1.192, Vila Beca, em Itararé, tinha em depósito, para fins de tráfico, 1.207 (mil, duzentos e sete) pinos de cocaína, 2.021 (dois mil e vinte e um) microtubos do tipo eppendorf  vazios  e uma balança de precisão, tudo em desacordo com determinação legal ou regulamentar.
+ ..
+As provas não são ilícitas.
+Esta E. Câmara tem decidido que não há ilegalidade na atuação do guarda municipal quando efetua prisão em flagrante, já que qualquer do povo poderia agir de igual maneira. E em que pese não ser função própria da Guarda Civil Metropolitana a revista pessoal, cabendo-lhe a função precípua de proteção do patrimônio público, não se pode exigir que permaneça inerte diante de situação de flagrante delito, ainda mais em se tratando de tráfico de drogas, delito de natureza permanente, de modo que o agente que o pratica se encontra o tempo todo em situação de flagrante delito.
+E não se pode olvidar que o Apelante, conhecido nos meios policiais, foi flagrado em conhecido ponto de tráfico de drogas entregando algo a um usuário; que na busca pessoal foram encontrados dois pinos de cocaína com o usuário; que em poder do réu havia outros dois pinos de cocaína e dinheiro; que tendo o réu revelado que mantinha mais drogas na sua casa, e que houve dúvida acerca da idade dele, os guardas se dirigiram à residência, onde quantidade bem maior de entorpecente foi apreendida, além de balança de precisão e significativa quantidade de pinos vazios, fatores todos que justificavam a apreensão do material e a condução do Apelante ao distrito policial.
+Ficou caracterizado, portanto, o estado de flagrância, não se vislumbrando nulidade na prisão, que pode, repise-se, ser efetuada por qualquer pessoa do povo (artigo 301, do Código de Processo Penal). A apreensão das drogas tampouco é ilícita.
+ ..
+Há divergência a respeito de a abordagem do réu ter sido efetuada dentro ou fora do bar; se as pessoas com as quais foram localizadas porções de cocaína afirmaram ou não que as havia comprado do réu. Nada disso, no entanto, desmerece o relato do guarda ouvido em contraditório, que afirmou e confirmou ter visualizado o réu entregando algo a um usuário, na posse do qual efetivamente foram localizados dois pinos de cocaína. Até porque réu pode ter sido visto entregando os pinos de cocaína para Phelippe e depois ter ingressado no bar. Recorde-se que algumas testemunhas disseram que ele estava no bar, mas outras afirmaram que estavam conversando foram do estabelecimento quando os guardas chegaram.
+ ..
+Com relação à alegada violação de domicílio, vale destacar que além do vídeo contendo autorização da mãe do Apelante, existe depoimento dela na fase extrajudicial atestando que autorizou o ingresso dos guardas na casa.
+É verdade que no vídeo dá a impressão de que os guardas já sabiam da existência de droga na casa, mas isso não pode causar estranheza, porque os guardas asseguraram que o réu revelou que mantinha mais drogas na residência.
+Mantida a condenação, a pena não comporta reparo, porque acabou ficando no mínimo legal, substituída a privação de liberdade por duas restritivas de direitos, com o regime prisional mais brando para a hipótese de reconversão.
+A análise realizada pelo Tribunal de origem está em linha com a jurisprudência desta Corte acerca da temática.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TESE DE NULIDADE. PRISÃO EFETUADA POR GUARDAS MUNICIPAIS. POSSIBILIDADE. TÍPICA SITUAÇÃO DE FLAGRANTE. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Apesar de a função constitucional das guardas municipais ser tecnicamente restrita à proteção dos bens, serviços e instalações dos entes municipais, sua atuação não será patentemente ilegal em todas as situações de prisão em flagrante, devendo-se realizar o cotejo dos fatos em cada hipótese. Precedentes.
+II - No caso vertente, a prisão efetuada ocorreu em típico flagrante, quando poderia ter sido realizada até mesmo por qualquer do povo e sem mandado, na forma do art. 301, do Código de Processo Penal, eis que os guardas receberam notícias específicas de que um indivíduo iria embarcar no ônibus com destino a outro município carregando uma mala vermelha contendo drogas, ao passo que, ao visualizarem a bagagem com as mesmas características daquela informada na denúncia, nela encontraram mais de 20kg de entorpecentes.
+III - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos.
+Agravo regimental desprovido. (AgRg no HC n. 865.570/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 2/9/2024, D Je de 6/9/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA DOMICILIAR. AUTORIZAÇÃO PARA INGRESSO NA RESIDÊNCIA. OCORRÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. GUARDA MUNICIPAL. PRISÃO EM FLAGRANTE. LEGALIDADE. AGRAVO DESPROVIDO.
+1. O Pleno do Supremo Tribunal Federal, no exame do RE n. 603.616 (Tema 280/STF), reconhecido como de repercussão geral, assentou que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados".
+2. No caso, isso ocorreu, haja vista que os guardas municipais estavam em patrulhamento pela região de Bateias, no município de Campo Largo, quando foram abordados por transeuntes que lhes informaram a respeito de uma residência que estaria servindo de abrigo para um assaltante de nome "Patrick" e que, inclusive, seria ponto de venda de drogas. Assim, os guardas lograram êxito em localizar a residência, na qual foi possível visualizar movimentação de pessoas no seu interior. Consta que o agravante saiu do imóvel e identificou-se como proprietário da residência e, apesar de esboçar nervosismo, autorizou a entrada da equipe, conforme documento de autorização de entrada em residência (mov. 21.2) e vídeo gravado em que permitiu a realização de busca no imóvel.
+3. Há autorização expressa para a busca domiciliar, conclusão esta que não poderia ser alterada sem o indevido revolvimento fático-probatório.
+4. A jurisprudência desta Corte Superior tem admitido a realização de busca pessoal e a prisão em flagrante por guardas municipais, tendo em vista a autorização constante nos artigos 240, § 2º, 244 e 301 do Código de Processo Penal - CPP, não havendo falar em ilegalidade na prisão em flagrante.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 786.259/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/4/2023, D Je de 27/4/2023.)
+Portanto, analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Afirma a parte agravante, inicialmente, que a atuação da Guarda Municipal extrapolou suas atribuições constitucionais, pois não havia fundada suspeita nem flagrante delito que justificasse a abordagem.
+No entanto, como já mencionado na decisão monocrática, as instâncias ordinárias reconheceram a legalidade do prisão realizada, considerando que o recorrente estava em situação de flagrante, conforme destaco:
+Esta E. Câmara tem decidido que não há ilegalidade na atuação do guarda municipal quando efetua prisão em flagrante, já que qualquer do povo poderia agir de igual maneira. E em que pese não ser função própria da Guarda Civil Metropolitana a revista pessoal, cabendo-lhe a função precípua de proteção do patrimônio público, não se pode exigir que permaneça inerte diante de situação de flagrante delito, ainda mais em se tratando de tráfico de drogas, delito de natureza permanente, de modo que o agente que o pratica se encontra o tempo todo em situação de flagrante delito.
+A decisão está em consonância com precedentes desta Corte:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. ATUAÇÃO DAS GUARDAS MUNICIPAIS. TRÁFICO DE DROGAS. PROVAS LÍCITAS. AGRAVO PROVIDO.
+I. Caso em exame1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão monocrática que concedeu habeas corpus, declarando a ilicitude das provas colhidas por guardas municipais em abordagem, resultando na absolvição do agravado da condenação por tráfico de drogas.
+2. Fato relevante. Guardas municipais, durante patrulhamento em frente ao Mercado Municipal de Sorocaba/SP, abordaram o agravado, que tentou evadir-se ao perceber a presença dos agentes, dispensando invólucro contendo 50 porções de crack e uma quantia em dinheiro.
+3. As decisões anteriores. A decisão monocrática fundamentou-se em precedente que limita a atuação das guardas municipais, salvo em situações de flagrante delito diretamente relacionadas à proteção de bens, serviços ou instalações municipais.
+II. Questão em discussão4. A questão em discussão consiste em saber se a atuação dos guardas municipais, ao realizar abordagem e busca pessoal em situação de flagrante delito, é legítima quando há conexão direta e imediata com a proteção de bens públicos municipais.
+III. Razões de decidir5. A Constituição Federal e a Lei n. 13.022/2014 autorizam a atuação preventiva e repressiva das guardas municipais dentro do escopo de proteção de bens, serviços e instalações municipais.
+6. A tentativa de fuga e o descarte de drogas pelo agravado configuraram fundada suspeita de prática delitiva, legitimando a atuação dos guardas municipais.
+7. O precedente do HC n. 830.530/SP permite a busca pessoal por guardas municipais quando há clara, direta e imediata relação com a finalidade de proteção de bens públicos municipais.
+IV. Dispositivo e tese8. Agravo provido para revogar a ordem concedida e restabelecer a condenação do agravado pelo crime de tráfico de drogas.
+Tese de julgamento: "1. A atuação das guardas municipais é legítima em situações de flagrante delito quando há conexão direta e imediata com a proteção de bens públicos municipais. 2. A tentativa de fuga e o descarte de drogas configuram fundada suspeita, legitimando a abordagem e busca pessoal por guardas municipais".
+Dispositivos relevantes citados: CF/1988, art. 144, § 8º; Lei n. 13.022/2014; CPP, art. 301.
+Jurisprudência relevante citada: STJ, HC 830.530/SP, Rel. Min. Rogério Schietti Cruz, Terceira Seção, julgado em 27.09.2023.
+(AgRg no HC n. 815.334/SP, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2024, DJEN de 6/2/2025, grifei)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL REALIZADA POR GUARDAS MUNICIPAIS. SITUAÇÃO DE FLAGRANTE NÃO VERIFICADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não há controvérsia quanto à possibilidade de a guarda municipal realizar a prisão em flagrante. Ocorre que o flagrante, no caso destes autos, aconteceu depois de abordagem irregular, pois destituída de fundadas suspeitas.
+2. No caso, os agentes se encontravam em serviço quando avistaram o réu, o qual pedalou sua bicicleta mais rapidamente. Então, foi feita a abordagem pessoal, quando houve a apreensão de droga (19 eppendorfs contendo cocaína, 2g de maconha) e uma balança de precisão. Dessa forma, não há se falar que o paciente se encontrava em situação de flagrante delito.
+3. Assim, não se extrai da situação narrada elementos indiciários suficientes do cometimento de delito, ainda que permanente, que justifique a abordagem de pessoa por outra "qualquer do povo", condição à qual equivale o agente público que não se inclui entre os órgãos de segurança pública previstos no art. 144, caput, da Constituição Federal.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 954.482/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024, grifei)
+Em seguida, o agravante sustenta que há divergência no depoimento das testemunhas e que a busca na residência do agravante foi realizada sem mandado judicial.
+No que tange à alegação de contradição de depoimentos, o agravante enfatiza que a condenação se baseou em um depoimento isolado. Nesse contexto, no entanto, a decisão monocrática assim enfatizou:
+Há divergência a respeito de a abordagem do réu ter sido efetuada dentro ou fora do bar; se as pessoas com as quais foram localizadas porções de cocaína afirmaram ou não que as havia comprado do réu. Nada disso, no entanto, desmerece o relato do guarda ouvido em contraditório, que afirmou e confirmou ter visualizado o réu entregando algo a um usuário, na posse do qual efetivamente foram localizados dois pinos de cocaína. Até porque réu pode ter sido visto entregando os pinos de cocaína para Phelippe e depois ter ingressado no bar. Recorde-se que algumas testemunhas disseram que ele estava no bar, mas outras afirmaram que estavam conversando foram do estabelecimento quando os guardas chegaram.
+Assim, a única divergência verificada durante a instrução processual se refere ao modo como foi realizada a abordagem do recorrente, mas não à situação de flagrante. Contudo, para se proceder com uma análise pormenorizada sobre os depoimentos mencionados seria necessário o reexame de fatos e provas, o que incidiria no óbice da Súmula 7/STJ.
+Acerca da alegação de violação de domicílio, a decisão monocrática, novamente, traz os argumentos firmados pelas instâncias ordinárias:
+Com relação à alegada violação de domicílio, vale destacar que além do vídeo contendo autorização da mãe do Apelante, existe depoimento dela na fase extrajudicial atestando que autorizou o ingresso dos guardas na casa.
+É verdade que no vídeo dá a impressão de que os guardas já sabiam da existência de droga na casa, mas isso não pode causar estranheza, porque os guardas asseguraram que o réu revelou que mantinha mais drogas na residência.
+No presente feito, a corte de origem apontou a existência de autorização para a realização da busca promovida, inclusive por meio de instrumento audiovisual, de modo que "Havia justa causa para a busca domiciliar, considerando não apenas que, do que consta dos autos, houve o consentimento dos moradores, mas também que a suspeita da ocorrência de flagrante delito no interior da residência estava caracterizada desde o seu exterior, já que houve confissão informal do agravante, o qual tinha sido, há pouco, colhido na posse de material entorpecente. O que a defesa pretende demonstrar - que não houve efetiva autorização de ingresso - demanda ulterior dilação probatória." (AgRg no HC 834991 / GO, RELATOR Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DATA DO JULGAMENTO 26/09/2023, DATA DA PUBLICAÇÃO/FONTE DJe 29/09/2023)
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO. DOMICÍLIO COMO EXPRESSÃO DO DIREITO À INTIMIDADE. ASILO INVIOLÁVEL. EXCEÇÕES CONSTITUCIONAIS. INTERPRETAÇÃO RESTRITIVA. EXISTÊNCIA DE FUNDADAS RAZÕES. LICITUDE DAS PROVAS OBTIDAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 5º, XI, da Constituição Federal consagrou o direito fundamental à inviolabilidade do domicílio, ao dispor que a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+2. O Supremo Tribunal Federal definiu, em repercussão geral (Tema 280), que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes, DJe 8/10/2010). No mesmo sentido, no STJ: REsp n. 1.574.681/RS.
+3. No caso, os policiais estavam em patrulhamento de rotina quando foi observado que o acusado, conhecido traficante daquela área, entrou abruptamente em uma casa ao visualizar a guarnição. Na sequência, os agentes de polícia fizeram um cerco ao local e viram o paciente arremessar uma sacola para fora e tentar pular o muro, mas retornou ao enxergar os policiais. Na sacola, apreendida em via pública, foram encontradas cinco munições, tudo a indicar a ocorrência de crime permanente na residência. Diante disso, os agentes entraram na casa e, em busca domiciliar, foi localizado o revólver apreendido.
+4. Uma vez que havia fundadas razões a sinalizar a ocorrência de crime permanente no local, foi regular o ingresso da polícia no domicílio do acusado, sem autorização judicial.
+5. A tese de que os fatos não haveriam ocorrido da forma em que estão descritos nos autos não pode ser acolhida, uma vez que demandaria dilação probatória, providência inviável na via do habeas corpus, cuja natureza urgente exige prova pré-constituída das alegações.
+6. Agravo regimental não provido.
+(AgRg no HC 878086 / BA, RELATOR Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DATA DO JULGAMENTO 08/04/2024, DATA DA PUBLICAÇÃO/FONTE DJe 11/04/2024. Grifo Acrescido)
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. FUNDADAS RAZÕES PARA INGRESSO SEM MANDADO. CONSENTIMENTO DO MORADOR. LICITUDE DAS PROVAS. DOSIMETRIA DA PENA. PENA-BASE. FIXAÇÃO DE REGIME INICIAL FECHADO. RÉU REINCIDENTE COM MAUS ANTECEDENTES. ADEQUAÇÃO DO REGIME MAIS GRAVOSO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, no qual o agravante busca a absolvição ou a reforma da dosimetria da pena em condenação por tráfico de drogas.
+2. O Tribunal de origem considerou válida a busca domiciliar realizada sem mandado judicial, com base em autorização dos moradores e fundada suspeita de crime permanente, além de ter fixado a pena com base em maus antecedentes e reincidência. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a busca domiciliar realizada sem mandado judicial, mas com autorização dos moradores e fundada suspeita de crime, é válida.
+4. A questão em discussão também envolve a análise da dosimetria da pena, considerando a valoração de circunstâncias judiciais desfavoráveis, como maus antecedentes e reincidência. III. RAZÕES DE DECIDIR
+5. A busca domiciliar foi considerada válida, pois houve autorização dos moradores e fundada suspeita de crime permanente, conforme entendimento consolidado do STF e STJ.
+6. A dosimetria da pena foi mantida, pois a pena-base foi fixada acima do mínimo legal com base em maus antecedentes e reincidência, em conformidade com a jurisprudência do STJ.
+7. A fixação do regime inicial fechado foi justificada pela gravidade do crime e pela reincidência do agravante, não havendo constrangimento ilegal.
+IV. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+(AREsp n. 2.216.069/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 26/12/2024.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
