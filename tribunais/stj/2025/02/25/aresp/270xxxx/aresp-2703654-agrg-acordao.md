@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO IMPRÓPRIO E FURTO QUALIFICADO. VIOLAÇÃO DE TRATADO INTERNACIONAL. SÚMULA 284/STF. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. A alegação genérica de violação de tratado internacional configura deficiência de fundamentação. Incidência da Súmula 284/STF.
+2. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+3. No caso, a defesa não impugnou, de forma específica e suficiente, o fundamento da decisão que inadmitiu o recurso especial na origem. Limitou-se a apresentar alegações desconexas e dissociadas do que foi decidido pelo Tribunal a quo.
+4. A impugnação tardia de óbice de inadmissibilidade de recurso especial em sede de agravo regimental esbarra na preclusão consumativa. Precedentes.
+5. Agravo regimental improvido.
+RELATÓRIO
+Bruno de Moura Ribeiro e Jose Reis Neto interpõem agravo regimental contra a decisão de minha lavra, cuja ementa transcrevo (fl. 1.524):
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL DE BRUNO DE MOURA RIBEIRO E JOSE REIS NETO. ROUBO IMPRÓPRIO E FURTO QUALIFICADO. ARTS. 157, §§ 1º e 2º, II, E 155, § 4º, II, DO CP, NA FORMA DO ART. 71, TODOS DO CP. IMPUGNAÇÃO DEFICIENTE. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
+Nas razões do regimental, a defesa aduz, em síntese, que houve violação de tratado internacional assinado pelo BRASIL e homologado pelo STF, aonde em seu artigo 7º, inciso 6, prevê que todo o RÉU tem direito a recurso a instância superior, e esse recurso não pode ser restringido (fl. 1.550).
+Registra que o recurso especial preencheu os requisitos objetivos e subjetivos para sua admissão; que o enunciado da Súmula 83/STJ é cotidianamente empregado em decisões de inadmissibilidade de recursos especiais nos tribunais de segundo grau, e que o objetivo deste agravo regimental é demonstrar que esse enunciado é incompatível com as disposições do CPC/2015 e da própria Constituição, e, por isso, merece ser superado, cancelado ou, pelo menos, revisto (fl. 1.551).
+Pugna pela reforma da decisão agravada, para determinar o prosseguimento do presente recurso que culminará em reformar o Acórdão prestigiando a sentença do Juízo de piso (fl. 1.551).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO IMPRÓPRIO E FURTO QUALIFICADO. VIOLAÇÃO DE TRATADO INTERNACIONAL. SÚMULA 284/STF. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. A alegação genérica de violação de tratado internacional configura deficiência de fundamentação. Incidência da Súmula 284/STF.
+2. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+3. No caso, a defesa não impugnou, de forma específica e suficiente, o fundamento da decisão que inadmitiu o recurso especial na origem. Limitou-se a apresentar alegações desconexas e dissociadas do que foi decidido pelo Tribunal a quo.
+4. A impugnação tardia de óbice de inadmissibilidade de recurso especial em sede de agravo regimental esbarra na preclusão consumativa. Precedentes.
+5. Agravo regimental improvido.
+VOTO
+Não merece acolhida a pretensão dos agravantes.
+Não obstante os esforços perpetrados pela defesa, não verifico fundamentos suficientes para infirmar a decisão agravada.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+De início, a alegação genérica de que a decisão agravada viola tratado internacional assinado pelo BRASIL (fl. 1.550) evidencia a deficiência na fundamentação recursal e faz incidir, quanto ao ponto, a Súmula 284/STF.
+Quanto ao mais, conforme afirmado na decisão ora agravada, o agravo de fls. 1.479/1.485 não apresentou impugnação específica ao fundamento da decisão do Tribunal de Justiça do Rio de Janeiro, qual seja, a aplicação da Súmula 83/STJ (fls. 1.439/1.443).
+Restringiu-se a apresentar alegações desconexas e dissociadas, no sentido de que a matéria é puramente de direito, tendo havido respeito integral à Súmula 7 na presente insurreição (fl. 1.481), óbice que sequer foi mencionado pela decisão de inadmissibilidade. O fundamento da Súmula 83/STJ não foi atacado, nem ao menos foi mencionado pela defesa .
+Ora, esta Corte tem reiteradamente decidido que a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, na origem, impede o conhecimento do agravo, nos termos da Súmula 182/STJ.
+Confiram-se: AgRg no AREsp n. 2.547.981/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 10/2/2025; AgRg nos EDcl no AREsp n. 2.674.904/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN 3/1/2025; AgRg no REsp n. 1.984.386/SE, Ministro Teodoro Silva Santos, Sexta Turma, DJe 15/3/2024; AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; AgRg no AREsp n. 2.297.408/SP, Ministra Laurita Vaz, Sexta Turma, DJe 11/9/2023; AgRg no AREsp n. 2.138.577/SC, Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe 28/3/2023; AgRg no AREsp n. 2.202.830/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/3/2023; EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.172.603/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/3/2023; AgRg no AREsp n. 2.202.906/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/11/2022, dentre outros.
+É importante esclarecer que os apelos extremos encaminhados às Cortes Superiores - Superior Tribunal de Justiça e Supremo Tribunal Federal - possuem pressupostos específicos para a sua interposição, os quais devem ser atendidos pela parte recorrente. Longe de ser formalismo, as regras processuais e as súmulas jurisprudenciais delimitam os requisitos específicos para a interposição dos apelos extremos.
+Além disso, a impugnação tardia de óbice de inadmissibilidade de recurso especial em sede de agravo regimental esbarra na preclusão consumativa (AgRg no AREsp n. 1.988.563/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 2/3/2022).
+Assim, os frugais argumentos apresentados não são aptos para desconstituir a decisão agravada.
+Em face do exposto, nego provimento ao agravo regimental.
