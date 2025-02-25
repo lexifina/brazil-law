@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 471/476) interposto contra decisão da Presidência desta Corte Superior que não conheceu do agravo nos próprios autos, por considerá-lo extemporâneo (e-STJ fls. 466/467).
+Em suas razões, a agravante alega a existência de causas suspensivas na contagem do prazo recursal, o que tornaria o agravo nos próprios autos tempestivo.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação (e-STJ fls. 482/495).
+É o relatório.
+Decido.
+A Lei n. 14.939/2004 trouxe nova redação ao art. 1.003, § 6º, do CPC/2015, dispondo que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+A Corte Especial do STJ, no julgamento da Questão de Ordem no Agravo em Recurso Especial n. 2.638.376/MG, decidiu, por maioria, que "os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense".
+Na petição de agravo interno, a parte agravante comprovou a suspensão do expediente forense no dia 28/3/2024 (Feriado local de Endoenças) e no dia 29/3/2024 (Feriado Nacional da Sexta-Feira da Paixão), motivo pelo qual é forçoso reconhecer a tempestividade do agravo nos próprios autos, interposto em 1º/4/2024 contra a decisão de admissibilidade de fls. 435/437 (e-STJ), da qual a contraparte fora intimada em 13/3/2024 (e-STJ fl. 438).
+Desse modo, reconsidero a decisão agravada (inclusive quanto ao arbitramento de honorários recursais) e passo ao exame do especial.
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 292):
+EMENTA
+JULGAMENTO ANTECIPADO DA LIDE - Existência de prova suficiente para a formação da convicção do juiz - Não caracterização de cerceamento de defesa, ainda que haja pedido expresso de dilação probatória - Preliminar rejeitada - Recurso improvido.
+CONTRATO - Prestação de serviços - Plano de saúde - Empresa que opera por autogestão - Não aplicação do Código de Defesa do Consumidor  Súmula nº 608 do C. STJ - Negativa de fornecimento do medicamento "OFEV - NINTEDANIBE, a segurado diagnostico com fibrose pulmonar idiopática, sob a alegação de ser "off label" ou não constar em DUT ou rol da ANS - Inadmissibilidade - Inclusão, na apólice, de tratamento para a moléstia, devendo toda e qualquer medida tendente a minimizá-la ou eliminá-la ser coberta, não cabendo à seguradora estabelecer a terapia, o material ou a medicação a ser prescrita, mas ao médico que assiste o paciente, por ser o profissional habilitado para tanto - Súmulas nºs 96 e 102 desta Corte - Rol da ANS que não é taxativo, especialmente após o advento da Lei nº 14.454/2022 - Instrumentos, ademais, que se revestem de função social, o que restringe a liberdade dos contratantes, nos termos do art. 421 do CC/2002 - Recurso improvido.
+No recurso especial (e-STJ fls. 302/330), fundamentado no art. 105, III, "a", da CF, a recorrente requereu, preliminarmente, a concessão de efeito suspensivo à insurgência.
+Aduziu dissídio jurisprudencial e ofensa aos arts. 10, VI, §§ 3º e 4º, da Lei n. 9.656/1998 e 422 do CC/2002, afirmando ser legítima a limitação da cobertura do medicamento descrito na inicial, pois o referido custeio não seria previsto no rol de procedimentos e eventos da Agência Nacional de Saúde Suplementar - ANS, que teria natureza taxativa, além de que de uso domiciliar.
+Foram ofertadas contrarrazões (e-STJ fls. 406/419).
+A Corte local não se manifestou quanto aos arts. 422 do CC/2002 e 10, VI, da Lei n. 9.656/1998 sob o ponto de vista da recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contida em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A Corte a quo assentou que o custeio do medicamento era devido, porque a recorrente não se desincumbiu do ônus de comprovar a ausência de sua eficácia, nos termos dos arts. 10, § 13, I, da Lei n. 9.656/1998 e 373, II, do CPC/2015 (e-STJ fls. 298/299).
+A respeito de tal razão de decidir, a parte recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+Para a jurisprudência do STJ, "é abusiva a recusa do plano de saúde quanto à cobertura de medicamento prescrito pelo médico, ainda que em caráter experimental ou fora das hipóteses previstas na bula (off-label), porquanto não compete à operadora a definição do diagnóstico ou do tratamento para a moléstia coberta pelo plano contratado" (AgInt no REsp n. 2.037.487/SP, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 26/2/2024, DJe de 29/2/2024).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. PLANO DE SAÚDE. MEDICAMENTO. REGISTRO NA ANVISA. USO OFF LABEL. OBRIGATORIEDADE DE CUSTEIO. AGRAVO NÃO PROVIDO.
+ ..
+2. Segundo jurisprudência do Superior Tribunal de Justiça, "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp n. 1.653.706/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2020, DJe de 26/10/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.553.810/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/8/2023, DJe de 24/8/2023.)
+O Tribunal de origem determinou o custeio, pelo plano de saúde, do remédio para o tratamento da fibrose pulmonar idiopática da contraparte, conforme a prescrição médica, sendo irrelevante seu uso off label, o que não destoa do entendimento desta Corte Superior (e-STJ fls. 294/298).
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Desprovido o agravo nos próprios autos, descabe cogitar de efeito suspensivo.
+Diante do exposto, RECONSIDERO a decisão agravada, para, afastando a intempestividade do agravo nos próprios autos, NEGAR PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
