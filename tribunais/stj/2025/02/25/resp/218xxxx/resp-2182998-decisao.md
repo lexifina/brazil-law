@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDORINHA COMERCIAL EIRELI, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que, em agravo de instrumento, reformou a decisão proferida pelo Juízo de primeira instância que havia deferido o pedido de desconsideração da personalidade jurídica da empresa BARUQUE FERRAMENTARIA para inclusão dos sócios Elaine de Lima Jacintho Perez e Paulo Rogério Perez no polo passivo da execução.
+O acórdão recorrido apresentou a seguinte ementa (fls. 147/155):
+"AGRAVO DE INSTRUMENTO Incidente de desconsideração da personalidade jurídica - Decisão que julgou procedente a pretensão e determinou a inclusão dos sócios da executada no polo passivo da ação Abuso da personalidade jurídica não evidenciado - Encerramento irregular e ausência de bens em nome da executada Elementos insuficientes para autorizar a pretensão - Desvio de finalidade e confusão patrimonial - Não demonstração - Ausência dos requisitos autorizadores previstos no art. 50 do Código Civil Precedentes Decisão reformada Recurso provido."
+A recorrente alega que o acórdão recorrido violou o art. 50 do Código Civil, sustentando que a dissolução irregular da empresa executada é suficiente para justificar a desconsideração da personalidade jurídica.
+Aponta, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões ao recurso especial não apresentadas, conforme certidão de fl. 206.
+Assim delimitada a controvérsia, passo a decidir.
+De início, cumpre destacar que o acórdão recorrido indicou expressamente que a recorrente não demonstrou a ocorrência de desvio de finalidade ou confusão patrimonial, entendendo ser insuficiente, para autorizar a desconsideração da personalidade jurídica, o simples encerramento irregular da empresa ou a ausência de bens em nome da executada.
+Confiram-se, assim, trechos do acórdão recorrido (fls. 150/155):
+"Como se sabe, a chamada teoria da desconsideração da personalidade jurídica foi oficialmente introduzida no ordenamento jurídico pátrio por intermédio do artigo 50 do Código Civil. A finalidade é resguardar o direito de crédito e, sobretudo, desestimular a prática de fraude mediante o abuso da personalidade jurídica.
+(..)
+No caso dos autos, qualquer das hipóteses indicadas não restou verificada, não podendo a medida ser deferida por não terem sido encontrados bens livres e desembaraçados em nome da executada, ou mesmo pelo encerramento irregular da atividade empresarial.
+Tais fatos, por si só, não possibilitam a procedência do pedido sem a comprovação dos requisitos legais previstos no art. 50 da legislação civil.
+Ressalta-se, ainda, que o só fato de o coagravante Paulo integrar o quadro societário de outra pessoa jurídica com situação cadastral "inapta" perante a Receita Federal não induz à conclusão de abuso da personalidade jurídica em relação à empresa executada.
+Ademais, observa-se que perante a Receita Federal a outra empresa foi classificada como "inapta" sem que se conheça a causa concreta, existindo documento apenas indicando que o motivo dessa situação cadastral é a "omissão de declarações" (fls. 355)
+De qualquer forma, a responsabilidade de qualquer empresa perante a Receita Federal é totalmente distinta daquela decorrente das relações de direito privado.
+Na verdade, cabia à agravada demonstrar no incidente instaurado que a ausência de bens em nome da executada, ou sua dissolução irregular, teriam sido feitas com o fim de possibilitar vantagens indevidas a seus sócios, acarretando abuso da personalidade jurídica, seja pela confusão patrimonial, seja por desvio de finalidade, o que não restou comprovado.
+(..)
+Nesse rumo, não se encontrando demonstrados os pressupostos do artigo 50 do Código Civil para a aplicação da desconsideração personalidade jurídica, impõe- se acolher o recurso para julgar improcedente a pretensão.
+Nada obsta, entretanto, que diante de fatos novos, possa vir a ser instaurado um novo incidente, entendimento esse que afasta qualquer possibilidade de dano processual à agravada."
+A esse respeito, a jurisprudência desta Corte Superior possui entendimento no sentido de que o mero encerramento irregular ou mesmo a ausência de bens penhoráveis de empresa executada não autorizam, por si sós , a desconsideração da personalidade jurídica.
+É necessário, nesse contexto, que existam elementos concretos da prática de abuso da personalidade jurídica. Dessa forma, a alegação de desvio de finalidade ou de confusão patrimonial deve estar acompanhada de elementos fáticos que revelem o abuso da personalidade jurídica.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. VIOLAÇÃO DA LEI. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA N. 284/STF. ENCERRAMENTO IRREGULAR. AUSÊNCIA DE BENS. INADMISSIBILIDADE. SÚMULAS N. 7 E 83/STJ. NÃO PROVIMENTO.
+1. "Nos recursos de fundamentação vinculada, como é o caso de recurso especial, a simples demonstração de insatisfação não possibilita o reexame da questão" (REsp 159204/ES, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, unânime, DJ 13/12/1999 p. 151).
+2. "A teoria da desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, pressupõe a ocorrência de abusos da sociedade, advindos do desvio de finalidade ou da demonstração de confusão patrimonial. A mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não enseja a desconsideração da personalidade jurídica" (AgInt no AREsp n. 924.641/SP, Quarta Turma).
+3. Incidência, na hipótese, dos verbetes n. 7 e 83 da Súmula desta Casa.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.331.292/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DE BENS E ENCERRAMENTO IRREGULAR. REQUISITOS. AUSÊNCIA. SÚMULA N. 284/STF. INAPLICABILIDADE. REQUALIFICAÇÃO JURÍDICA DOS FATOS. SÚMULA N. 7/STJ. NÃO INCIDÊNCIA.
+1. A desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de mera insolvência ou encerramento irregular da atividade empresarial.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.353.666/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/4/2024, DJe de 13/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DESERÇÃO. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ENCERRAMENTO IRREGULAR DA SOCIEDADE EMPRESÁRIA E AUSÊNCIA DE BENS. REQUISITOS INSUFICIENTES. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão de deserção. Reconsideração.
+2. Consoante entendimento desta Corte Superior, "a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, eis que se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial" (AgInt no AREsp 1.712.305/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 12/4/2021, DJe de 14/4/2021).
+3. Na hipótese, o pedido de desconsideração da personalidade jurídica foi acolhido com fundamento na ausência de patrimônio da empresa executada e no encerramento irregular de suas atividades, presumindo-se que tal situação advém de má administração ou desvio de bens, devendo os sócios responder pela inexistência de patrimônio da sociedade. Tal entendimento não se coaduna com a jurisprudência do STJ, merecendo reforma.
+4. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.451.651/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+Na hipótese dos autos, o Tribunal de origem, ao indeferir a desconsideração da personalidade jurídica em razão da ausência de elementos que demonstrem o abuso de personalidade jurídica, decidiu em conformidade com a jurisprudência desse STJ.
+Sendo assim, há incidência da Súmula nº 83 do STJ no caso.
+De todo modo, rever as conclusões do Tribunal de origem, no que se refere à inexistência de elementos que autorizem a desconsideração da personalidade jurídica, demandaria, necessariamente, a revisão de fatos e provas, providência vedada pela Súmula nº 83 do STJ.
+Por fim, ressalto que a alegada divergência jurisprudencial não foi demonstrada na forma exigida pelos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, uma vez que ausente o necessário cotejo analítico entre os julgados comparados, bem como a indispensável demonstração da similitude fática e da divergência na interpretação do direito entre as hipóteses confrontadas.
+Em face do exposto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
