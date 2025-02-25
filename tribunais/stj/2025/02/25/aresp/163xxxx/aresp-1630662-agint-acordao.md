@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 19/02/2025 a 25/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+Impedidos os Srs. Ministros Maria Thereza de Assis Moura e Sebastião Reis Júnior.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. TEMA N. 339 DO STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob a fundamentação de que a decisão recorrida está em conformidade com o Tema n. 339 do STF e diante da ausência de repercussão geral do Tema n. 181 do STF.
+1.2. A parte agravante argumentou a ausência de fundamentação jurisdicional adequada, em contrariedade ao Tema n. 339 do STF, alegando ainda que o Tema n. 181 do STF não deveria ser aplicado ao caso, em razão de existir ofensa direta à Constituição Federal.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A conformidade do acórdão recorrido com o Tema n. 339 do STF, que trata da suficiência da fundamentação das decisões judiciais.
+2.2. A aplicabilidade do Tema n. 181 do STF quando se discute a admissibilidade de recurso anterior de competência do STJ.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. O acórdão recorrido foi considerado fundamentado de forma suficiente para a solução da controvérsia, em conformidade com o Tema n. 339 do STF, sendo imperativa a negativa de seguimento do recurso extraordinário.
+3.3. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.4. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.5. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+RELATÓRIO
+1. Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 4.849):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que o Tema n. 339 do STF não é aplicável ao caso, uma vez que não se trata de fundamentação sucinta, mas sim de ausência absoluta.
+Pondera que é fato incontroverso, confessado pelos agravados, a intenção das partes da relação contratual de transferir para a sociedade empresária recorrente o domínio de loteamento, e que, se fossem anulados os acórdãos do Tribunal local, ficaria evidenciada a confissão realizada pela parte adversa.
+Diz que há repercussão geral, e não há falar em aplicação do Tema n. 181 do STF para obstar o seguimento do recurso extraordinário, pois o acórdão recorrido foi proferido em desacordo com o preceito constitucional de regência do recurso especial.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 4.870-4.875.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. TEMA N. 339 DO STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob a fundamentação de que a decisão recorrida está em conformidade com o Tema n. 339 do STF e diante da ausência de repercussão geral do Tema n. 181 do STF.
+1.2. A parte agravante argumentou a ausência de fundamentação jurisdicional adequada, em contrariedade ao Tema n. 339 do STF, alegando ainda que o Tema n. 181 do STF não deveria ser aplicado ao caso, em razão de existir ofensa direta à Constituição Federal.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A conformidade do acórdão recorrido com o Tema n. 339 do STF, que trata da suficiência da fundamentação das decisões judiciais.
+2.2. A aplicabilidade do Tema n. 181 do STF quando se discute a admissibilidade de recurso anterior de competência do STJ.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas sim à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. O acórdão recorrido foi considerado fundamentado de forma suficiente para a solução da controvérsia, em conformidade com o Tema n. 339 do STF, sendo imperativa a negativa de seguimento do recurso extraordinário.
+3.3. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.4. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.5. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+VOTO
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a seguinte ementa:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, conforme consignado na decisão agravada, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (fls. 4.690-4.694):
+Ao contrário do afirmado pela parte ora agravante, entendo que não há falar em omissão e obscuridade no acórdão, mas apenas julgamento contrário aos interesses da recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.  ..
+Assim, considero que a solução da causa foi suficientemente fundamentada pelo acórdão recorrido, com base na prova documental e oral produzida, tendo sido enfrentadas as questões suscitadas pelas partes, notadamente o contexto em que se deram os contratos, e o cumprimento pelos agravados da única obrigação por eles assumida, a saber, a de transferir as cotas sociais da empresa cessionária dos direitos sobre o loteamento, o que permitiria aos agravantes providenciar a transferência do domínio "antes de parcelar o terreno em lotes e proceder à venda individual de cada um deles."
+Saliento que, conforme alegado na petição inicial e não devidamente refutado na contestação, a inadimplência dos ora agravantes teve início em fevereiro de 2000 (fl. 8/e-STJ), muito antes, portanto, da notificação do Cartório de Avaré (que se deu em abril de 2001), utilizada para justificar a inadimplência.
+Não há, pois, inadequada valoração da prova ou a alegada completa desconsideração (desprezo) de elementos de suma importância: a instrução do processo demonstrou que o objetivo do contrato era a aquisição das cotas sociais da Ecol Agropecuária, tendo nesse sentido sido a conclusão do acórdão recorrido.
+Ao argumento de que pretende nova e adequada valoração da prova, a parte agravante quer fazer prevalecer a sua tese, a fim de que seja revertido o julgamento em seu favor. Para tanto, afirma que houve completa desconsideração da prova oral produzida por ordem desta Corte, na medida em que, "tão logo os autos voltaram do Col. STJ após o julgamento do Ag 1.240.653/SP e Ag 1.141.487/SP, o d. juízo de piso deferiu tutela antecipada pleiteada pelos agravados e, assim, manteve-os na posse dos imóveis de propriedade dos agravantes (imóveis que foram objeto da "dação em pagamento"). Nesta decisão antecipatória de tutela, o MM. Juiz singular sugeriu que a prova oral a ser produzida por determinação deste Col. Superior Tribunal de Justiça viria a ser mera formalidade a ser cumprida, demonstrando seu total descrédito em relação à prova. Mantendo esse padrão, o r. juízo singular, em sua nova sentença, não procedeu à isenta e democrática valoração da prova, em afronta ao artigo 371, do CPC/2015 (131, do CPC/73) e deixou de conceder tratamento igual às partes, em afronta ao artigo 139, inciso I, do CPC/2015 (125, inciso I, do CPC/73). Ao confirmar a r. sentença por seus próprios fundamentos, o v. acórdão confirmou as violações legais em testilha e chegou a afirmar que "o julgamento do feito prescinde de detido análise da prova oral produzida", a reforçar que não foi valorada a prova oral. Muito embora seja dado ao juiz a possibilidade de apreciar livremente a prova (cf. artigo 371 do CPC/2015 - 131 do CPC/73), não pode se negar a valorar uma prova produzida por ordem deste Eg. STJ".
+Ocorre que a decisão que antecipou os efeitos da tutela não é objeto do presente recurso, e a questão da produção e valoração da prova já foi devidamente analisada, tendo-se considerado que a Corte de origem julgou devidamente a causa, nos termos do trecho do acórdão recorrido acima transcrito.
+Assinalo, por outro lado, que o Tribunal de origem não desconsiderou a prova testemunhal porque relacionada a contratos cujo valor ultrapassa o décuplo do salário mínimo nacional vigente à época, nos termos do artigo 401 do Código de Processo Civil de 1973, mas apenas utilizou tal dispositivo como reforço de fundamentação.
+Mais uma vez, ressalto que, ao contrário do que querem fazer crer os ora agravantes, a prova oral foi produzida e analisada em conjunto com as demais constantes dos autos, concluindo as instâncias de origem, entretanto, que, diversamente da tese apresentada, não houve inadimplemento da parte ora agravada a legitimar a recusa dos agravantes em pagar o preço ajustado no contrato.
+No tocante à alegação dos agravantes - de que o fato de o loteamento estar em nome de terceiro (e não no nome da ECOL) frustra completamente o escopo dos contratos e macula o consentimento das partes, sendo manifesta a dificuldade na regularização, a qual é ônus dos agravados, não dos agravantes, e a afirmação, no recurso especial, de que houve julgamento extra petita do TJSP (em afronta ao artigo 141 do CPC/2015 - artigo 128 do CPC/73), pois exorbitou os limites da lide e imunizou os recorridos desse encargo de promover a regularização dominial do loteamento sem que esta matéria tenha sido objeto de pedido na petição inicial ou pela via da reconvenção -, a fim de que seja reconhecida a exceção do contrato não cumprido, anoto que a revisão do julgado incorreria nos óbices das Súmulas 5 e 7/STJ.
+Com efeito, como acima exposto, o Tribunal de origem, interpretando as cláusulas contratuais, e tendo por base as provas dos autos, considerou que a única obrigação dos agravados consistia na cessão da cotas da empresa cessionária dos direitos sobre o loteamento, cabendo aos agravantes as providências para transferência do domínio, necessária à venda dos lotes, conclusões essas insusceptíveis de revisão na via do recurso especial.
+Verifica-se, portanto, que foram suficientemente apresentadas as razões pelas quais não foram preenchidos os requisitos de admissibilidade do recurso dirigido ao STJ, não tendo sido examinada a matéria de fundo, motivo pelo qual é inviável o exame das questões relacionadas ao mérito recursal.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+3. Quanto ao mais, como asseverado na decisão agravada, não se conheceu de recurso anterior, de competência do STJ, porque não preenchidos todos os pressupostos de admissibilidade.
+Por isso, qualquer alegação do recurso extraordinário demandaria, inicialmente, a reapreciação dos fundamentos do não conhecimento de recurso que não é da competência do STF.
+Contudo, a Corte Suprema definiu que a discussão veiculada em recurso extraordinário a envolver o conhecimento de recurso anterior não possui repercussão geral, fixando a seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Essa conclusão, adotada sob o regime da repercussão geral e de aplicação obrigatória, nos termos do disposto no art. 1.030, I, a, do Código de Processo Civil, impõe a negativa de seguimento ao recurso extraordinário.
+Assim, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao STF, como exemplifica o julgado a seguir:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA  .. . PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021.)
+Tal desfecho não se modifica quando as razões do extraordinário se relacionam à matéria de fundo do recurso do qual não se conheceu. Confira-se:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DO RECURSO NÃO ANALISADO NO TSE. RECURSO ESPECIAL ELEITORAL NÃO ADMITIDO POR AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL POR ALEGADA INOBSERVÂNCIA LEGAL. OFENSA REFLEXA. DESCABIMENTO DO EXTRAORDINÁRIO.
+1. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181 - RE 598.365).
+ ..
+3. Agravo regimental a que se nega provimento.
+(ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.)
+Também nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República, o recurso não comporta seguimento (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+A decisão agravada, portanto, não merece reforma.
+4. Ante o exposto, nego provimento ao agravo interno.
+Advirto que a oposição de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
