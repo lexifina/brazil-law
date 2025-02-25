@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental. Crime de dispensa de licitação. art. 89 da lei n. 8.666/1993. Dolo não excluído. indícios de autoria e materialidade. RECEBIMENTO DA DENÚNCIA. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso especial, em razão dos óbices das Súmulas n. 211 e 7 do STJ, em processo que discute a exclusão do dolo na conduta do agravante, acusado de crime previsto no art. 89 da Lei n. 8.666/93, apesar da existência de parecer jurídico que, em tese, autorizaria a dispensa de licitação.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a existência de parecer jurídico que atesta a possibilidade de dispensa de licitação exclui o dolo na conduta do agravante, impedindo o prosseguimento da ação penal.
+III. Razões de decidir
+3. O Tribunal de Justiça entendeu que, apesar do parecer jurídico, subsistem elementos que indicam a ilegalidade da medida adotada, não excluindo o dolo da conduta do agravante.
+4. A Súmula n. 7 do STJ impede a alteração do julgado, pois a análise do dolo do agente e dos indícios de autoria e materialidade delitiva requer reexame de provas, o que não é cabível em sede de recurso especial.
+5. Atendidos os requisitos do art. 41 do CPP, a comprovação do dolo deve ocorrer no decorrer da instrução criminal, não sendo possível o trancamento prematuro da ação penal.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Teses de julgamento: "1. A existência de parecer jurídico autorizando a dispensa da licitação não exclui, por si só, o dolo na conduta do agente em relação ao crime do art. 89 da Lei n. 8.666/1993. 2. Preenchidos os requisitos do art. 41 do CPP, a análise do dolo do agente e dos indícios de autoria e materialidade delitiva requer reexame de provas. 3. A comprovação do dolo específico deve ocorrer no decorrer da instrução criminal, não sendo possível o trancamento prematuro da ação penal.
+Dispositivos relevantes citados: Lei n. 8.666/93, art. 89; CPP, art. 41.
+Jurisprudência relevante citada: STJ, AgRg no RHC n. 205.603/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/10/2024; STJ, AgRg no AREsp n. 2.275.162/SP, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 20/2/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOAO ALVARO ROCHA RODRIGUES contra decisão monocrática de minha lavra, às fls. 1806/1809, em que conheci do agravo para não conhecer do recurso especial ante os óbices das Súmulas n. 211/STJ e n. 7/STJ.
+No presente recurso (fls. 1827/1832), a defesa alega que inexistiu a ausência de prequestionamento, na medida em que o Tribunal de origem reconheceu a existência do parecer jurídico e baseou sua decisão nesse aspecto, afastando a possibilidade de que a matéria não tenha sido prequestionada. Aduz não se tratar de reexame de prova, mas de análise dos efeitos jurídicos da presença desse parecer jurídico na conduta do agravante, especialmente no que diz respeito ao afastamento do dolo exigido pelo tipo penal.
+Requer, em síntese, seja reconsiderada a decisão recorrida ou que as insurgências sejam levadas a julgamento pela Quinta Turma.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Crime de dispensa de licitação. art. 89 da lei n. 8.666/1993. Dolo não excluído. indícios de autoria e materialidade. RECEBIMENTO DA DENÚNCIA. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso especial, em razão dos óbices das Súmulas n. 211 e 7 do STJ, em processo que discute a exclusão do dolo na conduta do agravante, acusado de crime previsto no art. 89 da Lei n. 8.666/93, apesar da existência de parecer jurídico que, em tese, autorizaria a dispensa de licitação.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a existência de parecer jurídico que atesta a possibilidade de dispensa de licitação exclui o dolo na conduta do agravante, impedindo o prosseguimento da ação penal.
+III. Razões de decidir
+3. O Tribunal de Justiça entendeu que, apesar do parecer jurídico, subsistem elementos que indicam a ilegalidade da medida adotada, não excluindo o dolo da conduta do agravante.
+4. A Súmula n. 7 do STJ impede a alteração do julgado, pois a análise do dolo do agente e dos indícios de autoria e materialidade delitiva requer reexame de provas, o que não é cabível em sede de recurso especial.
+5. Atendidos os requisitos do art. 41 do CPP, a comprovação do dolo deve ocorrer no decorrer da instrução criminal, não sendo possível o trancamento prematuro da ação penal.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Teses de julgamento: "1. A existência de parecer jurídico autorizando a dispensa da licitação não exclui, por si só, o dolo na conduta do agente em relação ao crime do art. 89 da Lei n. 8.666/1993. 2. Preenchidos os requisitos do art. 41 do CPP, a análise do dolo do agente e dos indícios de autoria e materialidade delitiva requer reexame de provas. 3. A comprovação do dolo específico deve ocorrer no decorrer da instrução criminal, não sendo possível o trancamento prematuro da ação penal.
+Dispositivos relevantes citados: Lei n. 8.666/93, art. 89; CPP, art. 41.
+Jurisprudência relevante citada: STJ, AgRg no RHC n. 205.603/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/10/2024; STJ, AgRg no AREsp n. 2.275.162/SP, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 20/2/2024.
+VOTO
+O inconformismo não prospera.
+De início, deve ser afastado o óbice da Súmula n. 211/STJ.
+De fato, existiu o prequestionamento a respeito da existência do parecer jurídico, que, em tese, excluiria o dolo da conduta do ora agravante.
+Quanto à controvérsia, decidiu o Tribunal de Justiça que "(..) a despeito da existência de prévio parecer jurídico atestando a possibilidade de dispensa de licitação, diversos outros elementos demonstram e corroboram a ilegalidade da medida adotada, contexto que, portanto, não autoriza a exclusão do dolo na conduta do embargante, tampouco a rejeição da denúncia em relação ao crime previsto no art. 89 da Lei n. 8.666/93".
+Destarte, ainda que considerado o parecer jurídico, aquela Corte entendeu que o dolo da conduta não teria sido excluído, subsistindo elementos da ilegalidade da medida adotada pelo réu, razão porque recebeu a denúncia.
+Assim, não é possível a alteração do julgado, ante o óbice da Súmula n. 7/STJ, pois, considerados presentes indícios suficientes de autoria e materialidade delitiva, é possível que o dolo do agente seja objeto de comprovação no decorrer da instrução criminal. Confiram-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE USO DE DOCUMENTO PÚBLICO FALSO. TRANCAMENTO DA AÇÃO PENAL. EXCEPCIONALIDADE DA MEDIDA. INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. PREENCHIMENTO DOS REQUISITOS DO ART. 41 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O trancamento de ação penal ou de procedimento investigativo na via estreita do habeas corpus ou de recurso em habeas corpus somente é possível, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou prova da materialidade do delito. É certa, ainda, a possibilidade do referido trancamento nos casos em que a denúncia for inepta, não atendendo o que dispõe o art. 41 do Código de Processo Penal - CPP, o que não impede a propositura de nova ação desde que suprida a irregularidade.
+2. Não se admite, por essa razão, na maior parte das vezes, a apreciação de alegações fundadas na ausência de dolo na conduta do agente ou de inexistência de indícios de autoria e materialidade em sede mandamental, pois tais constatações dependem, via de regra, da análise pormenorizada dos fatos, ensejando revolvimento de provas incompatível, como referido alhures, com o rito sumário do mandamus.
+3. Na hipótese, a Corte local consignou que a denúncia atendeu aos requisitos do art. 41 do Código de Processo Penal, não havendo se falar, portanto, em inépcia da denúncia. Desse modo, é temerário impor medida tão drástica e prematura como o trancamento da ação, quando há prova da existência do fato e indícios suficientes de autoria, não tendo sido evidenciada deficiência capaz de comprometer a compreensão da peça acusatória.
+4. Ademais, consta da denúncia que "Angela Soely Raymundo Pauli, ao ser ouvida perante a autoridade policial, a qual constava como subscritora dos documentos na qualidade de Coordenadora da Vigilância Sanitária Municipal, não os reconheceu como verdadeiros.
+Asseverou, na oportunidade, que o fato de todos os documentos terem sido apresentados com o mesmo número (19.305) já denota sua irregularidade, pois o sistema da Prefeitura Municipal gera um novo número a cada nova licença concedida", de modo que o aprofundamento acerca da comprovação da materialidade nos moldes apontados pela defesa devem ser resolvidos do âmbito da instrução criminal, porquanto " ..  eventuais teses absolutórias ainda podem (e devem) ser mais bem debatidas e embasadas quando da instrução, momento sim apropriado ao discurso de mérito perante o juízo natural da causa.
+Convém registrar que o acolhimento das teses defensivas como um todo demandaria necessariamente amplo reexame da matéria fática e probatória, procedimento, a toda evidência, incompatível com a via do habeas corpus e do seu recurso ordinário" (AgRg no HC n. 749.142/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023).
+5. Assim, não verifico flagrante constrangimento ilegal na conclusão da Corte local, tendo em vista que se encontra adequadamente justificada a viabilidade do prosseguimento da ação penal em desfavor da recorrente, denunciada pela suposta prática do crime de uso de documento público falso.
+6. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 205.603/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/10/2024, DJe de 29/10/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE SUSTENTAÇÃO ORAL. NÃO CABIMENTO. FRUSTRAÇÃO DO CARÁTER COMPETITIVO DE LICITAÇÃO. RECEBIMENTO DA DENÚNCIA. PREENCHIDOS OS REQUISITOS DO ART. 41 DO CPP. DOLO ESPECÍFICO. COMPROVAÇÃO NO DECORRER DA INSTRUÇÃO CRIMINAL. IMPOSSIBILIDADE DO TRANCAMENTO DA AÇÃO PENAL. INCIDÊNCIA DAS SÚMULAS N. 7 E 83 DO STJ.
+1. "O cotejo entre o art. 994 do CPC e o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022, evidencia que a novel lei não previu a possibilidade de sustentação oral em recursos interpostos contra decisão monocrática que julga o mérito ou não conhece de agravo de instrumento, de embargos de declaração e de agravo em especial ou extraordinário, uma vez que esses recursos não estão descritos no mencionado § 2º-B do art. 7º da Lei n. 8.906/1994" (EDcl nos EDcl no AgInt no AREsp n. 1.829.808/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe 28/6/2022)" (AgRg no AREsp n. 2.144.230/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 19/9/2022.)
+2. No presente caso, a denúncia oferecida atende as exigências formais exigidas pelo art. 41 do CPP, tendo sido posto, inclusive, de modo suficiente, os fatos e circunstâncias relacionados à conduta delituosa necessárias ao exercício da ampla defesa, em especial o intento do agente em manter cláusula restritiva que frustrou o caráter competitivo do processo licitatório de modo a viabilizar a participação de apenas um licitante.
+3. Presentes indícios suficientes de autoria e da materialidade do delito, é possível que o dolo específico do agente seja objeto de comprovação no decorrer da instrução criminal, o que torna açodada a pretensão de trancamento da ação penal, ainda mais porque seria necessária aprofundada incursão no conjunto de fatos e provas dos autos a atrair o óbice da Súmula n. 7 do STJ. Julgado no mesmo sentido da jurisprudência do STJ. Aplicação também da Súmula n. 83 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.275.162/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
