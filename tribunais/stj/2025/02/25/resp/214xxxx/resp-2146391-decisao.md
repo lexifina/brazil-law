@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+"DESPESAS CONDOMINIAIS. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. ARREMATAÇÃO DE IMÓVEL. RECONHECIMENTO DE PREFERÊNCIA DOS CRÉDITOS TRIBUTÁRIOS. PREVALECIMENTO, PARA ASSEGURAR O CUMPRIMENTO DA NORMA DO ARTIGO 130, PAR. ÚNICO, DO CTN. RESSALVA, APENAS, QUANTO AO CRÉDITO DE HONORÁRIOS ADVOCATÍCIOS. RECURSO PROVIDO, EM PARTE. A constatação de que existem débitos fiscais pendentes, incidentes sobre o imóvel objeto da arrematação, enseja a necessidade de se reconhecer a preferência do crédito tributário na ordem de pagamentos, para viabilizar o cumprimento do artigo 130, parágrafo único, do CTN. O fato de a execução estar relacionada à dívida condominial não comporta tratamento diferenciado, diante da clareza da disciplina legal. Entretanto, ressalva-se a preferência conferida ao crédito de honorários advocatícios sucumbenciais, que tem natureza alimentar e deve ser pago antes".
+Opostos embargos de declaração, foram rejeitados.
+O recorrente aponta, além de divergência jurisprudencial, violação ao art. 1.345 Código Civil, sustentando que o crédito tributário deve ter preferência sobre os créditos relativos a honorários advocatícios, pois sua não natureza alimentar não induziria a preferência.
+Sem contrarrazões.
+Juízo de admissibilidade às fls. 446/447.
+Assim delimitada a controvérsia, passo a decidir.
+O acórdão recorrido está em consonância com a iterativa jurisprudência deste Superior Tribunal de Justiça sobre a matéria. Confiram -se:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DESPESAS CONDOMINIAIS. EXECUÇÃO POR QUANTIA CERTA. HONORÁRIOS ADVOCATÍCIOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra r. decisão que reconheceu a preferência dos créditos de honorários sucumbenciais em relação ao tributário e deste em relação ao condominial, nos autos da execução por quantia certa, fundada em despesas condominiais. No Tribunal a quo, deu-se parcial provimento ao recurso.
+II - Aos honorários advocatícios, sucumbenciais ou contratuais, estendem-se os mesmos privilégios dos créditos trabalhistas, razão pela qual têm preferência em relação aos créditos tributários. Neste diapasão, confiram-se: STJ, REsp 1.812.770/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2019; STJ, REsp 1.749.491/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de19/11/2018; STJ, AgInt no AREsp 1.107.619/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 22/11/2017; STJ, REsp 1.133.530/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 25/6/2015; STJ, EDcl nos EREsp 1.351.256/PR, relator Ministro Mauro Campbell Marques, Corte Especial, DJe de 20/3/2015.
+III - Agravo interno improvido" (AgInt no REsp n. 2.055.723/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PREFERÊNCIA. CRÉDITO TRIBUTÁRIO. POSSIBIILDADE. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O posicionamento da Corte a quo não destoa da orientação jurisprudencial deste Superior Tribunal de Justiça no sentido de que " ..  Os créditos referentes à verba honorária, contratual ou sucumbencial são equiparados aos de natureza trabalhista, tendo preferência, inclusive, em relação aos créditos tributários." (AgInt no REsp n. 1.906.881/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/8/2022, DJe de 1/9/2022.).
+2. Agravo interno não provido" (AgInt no REsp n. 2.078.349/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Aplica-se a Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
