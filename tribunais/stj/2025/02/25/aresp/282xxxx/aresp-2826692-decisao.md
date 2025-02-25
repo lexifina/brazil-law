@@ -1,0 +1,46 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por PORTOCRED S. A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO - EM LIQUIDACAO EXTRAJUDICIAL, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 04/12/2024.
+Concluso ao gabinete em: 16/01/2025.
+Ação: revisional de contrato bancário, ajuizada por SANDRA CARVALHO ROCHA em face da agravante, fundada em suposta abusividade de cláusulas contratuais (e-STJ fls. 3-12).
+Sentença: julgou parcialmente procedentes os pedidos (e-STJ fls. 516-519).
+Acórdão: deu parcial provimento ao recurso interposto pelo agravado e negou provimento ao recurso da agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. REVISIONAL DE CONTRATO.
+APELAÇÃO RÉU. GRATUIDADE JUDICIÁRIA INDEFERIDA. PRELIMINARES DE SUSPENSÃO DO PROCESSO, DE CERCEAMENTO DE DEFESA E DE AUSÊNCIA DE FUNDAMENTAÇÃO DA SENTENÇA AFASTADAS. PRAZO DE PRESCRIÇÃO DECENAL. JUROS REMUNERATÓRIOS. TAXA PREVISTA NO CONTRATO É EXCESSIVAMENTE SUPERIOR À MÉDIA DE MERCADO. NÃO HÁ ELEMENTO PROBATÓRIO NOS AUTOS QUE AMPARE A TESE DEFENSIVA. RECONHECIDA A ABUSIVIDADE. VALOR DOS HONORÁRIOS SUCUMBENCIAIS QUE SE ENCONTRA EM PATAMAR ADEQUADO AO CASO CONCRETO. APELO DESPROVIDO.
+APELAÇÃO DO AUTOR. AFASTADA A COMPENSAÇÃO DE VALORES COM PARCELAS VINCENDAS. TERMO INICIAL DOS JUROS DE MORA É A DATA DA CITAÇÃO. REDISTRIBUÍDOS OS ÔNUS SUCUMBENCIAIS, EM RAZÃO DO DECAIMENTO MÍNIMO DA PARTE AUTORA. APELO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA.
+RECURSO DE APELAÇÃO DO RÉU DESPROVIDO.
+RECURSO DE APELAÇÃO DO AUTOR PARCIALMENTE PROVIDO, A FIM DE AFASTAR A COMPENSAÇÃO COM RELAÇÃO ÀS PARCELAS VINCENDAS E REDISTRIBUIR OS ÔNUS SUCUMBENCIAIS. (e-STJ fls. 744-752).
+Recurso especial: alega ofensa ao art. 489 e 927 do CPC, bem como a existência de dissídio jurisprudencial em relação ao art. 51, IV, §1º, III, do CDC. Sustenta que não é possível presumir a abusividade na contratação de empréstimo bancário pela mera comparação entre a taxa de juros contratada e a média do Bacen, devendo ser analisadas as peculiaridades do negócio jurídico contratado, o que não foi feito. Pugna, preliminarmente, pela suspensão do processo, com fundamento no art. 18 da Lei 6.024/74, tendo em vista a decretação da sua liquidação extrajudicial e pela concessão da assistência judiciária gratuita. No mérito, requer a manutenção dos juros remuneratórios no patamar contratado (e-STJ 759-780).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca ofensa ao art. 489 e 927 do CPC, indicados como violados, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ. Note-se, ainda, que a parte agravante, sequer, opôs embargos declaratórios para suprir eventual omissão existente no julgado.
+Ressalta-se, ademais, que a jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que o reconhecimento do prequestionamento ficto, nos termos do art. 1.025 do CPC, pressupõe a alegação de ofensa ao art. 1022 do CPC e o reconhecimento de sua violação, o que não ocorreu no particular. Nesse sentido, confirase: AgInt no AREsp 2.472.032/RJ, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024 e AgInt no AREsp 2.274.066/SP, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023.
+- Do pedido de suspensão do processo
+Consoante a jurisprudência desta Corte, o comando previsto no art. 18 da Lei 6.024/1974, segundo o qual a decretação da liquidação extrajudicial produzirá, de imediato, a suspensão das ações iniciadas sobre direitos e interesses relativos ao acervo da entidade liquidanda, não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito.
+A propósito: AgInt no AREsp 2.406.271/RS, Terceira Turma, DJe 16/10/2023; AgInt no AgInt no AREsp 2.272.114/RS, Quarta Turma, DJe 6/9/2023.
+Na hipótese, a ação de revisão de contrato de que tratam os autos demanda quantia ilíquida perante esta Corte, razão pela qual não se justifica, por ora, o adiamento do processo, devendo ser indeferido o pedido.
+- Do recolhimento do preparo e do pedido de gratuidade de justiça
+O entendimento deste Tribunal Superior consolidou-se no sentido de que o pagamento das custas é incompatível com o pedido de gratuidade de justiça. Nesse sentido: AgInt no AREsp 2.313.216/RS, Quarta Turma, DJe 08/09/2023 e AgInt no AREsp 1.563.316/DF, Terceira Turma, DJe de 19/2/2020. Na espécie, houve o recolhimento das custas recursais e, por conseguinte, a análise do pedido de gratuidade de justiça fica prejudicada.
+- Dos juros remuneratórios
+Consoante entendimento pacificado nesta Corte Superior por meio da sistemática dos Recursos Repetitivos - Tema 27: "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto (REsp 1.061.530/RS, Segunda Seção, DJe 10/03/2009)."
+Na hipótese, o Tribunal a quo consignou, no que interessa:
+"O contrato em exame, número 3802665987 (evento 15, CONTR2), modalidade crédito pessoal consignado para trabalhadores do setor público, adota a taxa de juros de 5,93% ao mês, ao passo que a taxa média do BACEN foi de 2,05% ao mês, para o mesmo período, na mesma modalidade.
+Portanto, a taxa prevista, ao mês, no contrato firmado entre as partes encontra-se aproximadamente 189% acima da média de mercado.
+Esta Câmara entende caracterizar-se a abusividade quando a taxa contratada encontra-se em patamar superior à média aferida pelo BACEN somada à margem tolerável de 20%.
+ ..
+Vale referir, que embora a parte ré faça referência da necessidade do exame das peculiaridades da contratação, em razão do seu elevado risco, traz aos autos apenas a situação relativa ao score de crédito da autora, o que por si só não justifica tamanha discrepância com a média, ainda mais em se tratando de empréstimo consignado.
+Logo, à míngua de elemento probatório nos autos que ampare a tese defensiva acerca da necessidade de pactuação de juros remuneratórios tão superiores à média nesse contrato, impõe-se a necessidade de revisão (e-STJ fls. 748-749).
+Como se observa, o Tribunal de origem reconheceu a abusividade das condições contratadas, considerando não apenas a expressividade do valor da taxa pactuada - muito acima da média adotada para operações congêneres -, mas também a natureza da operação de crédito e respectivo público-alvo: crédito pessoal consignado.
+Dessa forma, o acórdão recorrido se mostra em consonância com a jurisprudência do STJ, pois demonstrou a abusividade da taxa de juros contratada, à luz das peculiaridades da espécie, de modo a justificar adequadamente a necessidade da interferência do Poder Judiciário no contrato firmado entre as partes. A propósito: REsp 1.821.182/RS, Quarta Turma, DJe 29/6/2022; AgInt no AREsp n. 1.942.512/RS, Quarta Turma, DJe de 10/3/2022; REsp 2.009.614/SC, Terceira Turma, DJe 30/9/2022; AgInt no REsp n. 1.930.618/RS, Terceira Turma, DJe de 27/4/2022.
+Forte nessas razões, INDEFIRO o pedido de suspensão dos autos, e CONHEÇO do agravo para, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHECER do recurso especial e NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em R$ 500,00 (quinhentos reais) os honorários fixados anteriormente à parte agravante (e-STJ Fl.751).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. PEDIDO DE SUSPENSÃO DO FEITO. INDEFERIMENTO. GRATUIDADE DE JUSTIÇA. ANÁLISE PREJUDICADA. JUROS REMUNERATÓRIOS. ABUSIVIDADE. ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. Ação de revisão de contrato.
+2. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais impede o conhecimento do recurso especial.
+3. Consoante a jurisprudência desta Corte, o comando previsto no art. 18 da Lei 6.024/1974 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito. Precedentes.
+4. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas é incompatível com o pedido de gratuidade de justiça. Precedentes.
+5. É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto. (REsp 1.061.530/RS, Segunda Seção, DJe 10/03/2009).
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
