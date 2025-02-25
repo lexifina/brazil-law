@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal e processual penal. Agravo r egimental. Tráfico de drogas. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO EM PARTE. AUSÊNCIA DE Prequestionamento. PRETENSões DE RECONHECIMENTO DO tráfico privilegiado E ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. AGRAVO REGIMENTAL desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu em parte do recurso especial e deu-lhe parcial provimento, a fim de afastar a natureza da droga como circunstância judicial negativa e reduzir a pena-base do recorrente. Manteve-se, contudo, o afastamento da minorante por tráfico privilegiado e o regime inicial fechado para cumprimento da pena.
+II. Questão em discussão
+2. A questão em discussão consiste em saber: i) se houve o devido prequestionamento quanto à tese de violação do art. 155 do CPP; ii) se a Súmula n. 7 do STJ impede o acolhimento da pretensão de aplicação da minorante por tráfico privilegiado; e iii) se houve fundamentação idônea para a fixação do regime inicial fechado.
+III. Razões de decidir
+3. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento firmado anteriormente, mantendo-se a decisão agravada por seus próprios fundamentos.
+4. A ausência de manifestação específica pelo Tribunal de origem sobre a tese de violação do art. 155 do CPP e a falta de embargos de declaração para sanar a omissão configuram ausência de prequestionamento, incidindo as Súmulas n. 282 e 356 do STF.
+5. A incidência da Súmula n. 7 do STJ é inafastável, pois, estando a decisão de descabimento da minorante do tráfico privilegiado suficientemente embasada nas provas reunidas nos autos de origem, a análise de tal pedido demandaria o reexame do conjunto fático-probatório.
+6. Esta Corte possui o entendimento de que a presença de uma ou mais circunstâncias judiciais desfavoráveis autoriza a fixação de regime prisional mais gravoso (no caso, o fechado), mesmo se tratando de pena de reclusão não excedente a 8 anos.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de prequestionamento impede o conhecimento do recurso especial quanto a teses não apreciadas pelo tribunal de origem. 2. A Súmula n. 7 do STJ veda o reexame de provas em recurso especial, mesmo em casos de análise de minorantes. 3. A presença de uma ou mais circunstâncias judiciais desfavoráveis autoriza a fixação de regime fechado, mesmo se tratando de pena de reclusão não excedente a 8 anos."
+Dispositivos relevantes citados: CPP, art. 155; Lei n. 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.065.090/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/8/2023, DJe de 15/8/2023; AgRg no AgRg no AREsp n. 2.695.009/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2024, DJe de 20/9/2024; AgRg no REsp n. 2.156.952/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+RELATÓRIO
+Trata-se de agravo regimental de fls. 568/582 interposto por LUANN OURIQUES DO NASCIMENTO contra decisão de fls. 552/561, que conheceu do agravo para conhecer, em parte, do recurso especial e, com fundamento na Súmula n. 568 do STJ, dar-lhe parcial provimento para afastar a natureza da droga enquanto circunstância judicial negativa, reduzindo a pena definitiva para 5 anos e 10 meses de reclusão e 583 dias-multa.
+Além de redimensionar a pena do ora agravante, a partir da diminuição da pena-base, a decisão agravada, em síntese, manteve afastada a minorante por tráfico privilegiado na terceira fase da dosimetria, a partir da aplicação do óbice da Súmula n. 7 do STJ, bem como manteve o regime fechado fixado pelas instâncias ordinárias para cumprimento da pena imposta ao agravante. Por fim, a decisão agravada declarou a ausência de prequestionamento em relação à tese defensiva relativa ao uso de provas oriundas da fase pré-processual para fundamentar o afastamento da minorante por tráfico privilegiado.
+Em suas razões, a defesa aponta o não cabimento da Súmula n. 7 do STJ, tendo em vista que a análise do pedido de aplicação da minorante por tráfico privilegiado envolve apenas a revaloração jurídica dos fatos, assim dispensando o reexame das provas produzidas nos autos de origem. Em seguida, reforça o argumento de que a suposta dedicação habitual do agravante à atividade delitiva foi afirmada com base em elementos extraídos exclusivamente da fase inquisitiva, em especial nas conversas extraídas do celular apreendido, em desconformidade com o disposto no art. 155 do Código de Processo Penal - CPP. Ademais, alega que o fato de ter havido no aparelho celular conteúdo relacionado à venda de drogas não leva à conclusão automática de que existia habitualidade ao tráfico.
+Afirma, ainda, a impossibilidade de aplicação das Súmulas n. 282 e 356 do Supremo Tribunal Federal - STF, alegando que a tese defensiva relativa ao uso de provas oriundas da fase pré-processual está inserida no contexto da tese que almeja o reconhecimento da redutora do tráfico privilegiado.
+Requer a reconsideração da decisão ou provimento do agravo regimental, com a admissão e provimento do recurso especial.
+É o relatório.
+EMENTA
+Direito penal e processual penal. Agravo r egimental. Tráfico de drogas. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO EM PARTE. AUSÊNCIA DE Prequestionamento. PRETENSões DE RECONHECIMENTO DO tráfico privilegiado E ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. AGRAVO REGIMENTAL desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu em parte do recurso especial e deu-lhe parcial provimento, a fim de afastar a natureza da droga como circunstância judicial negativa e reduzir a pena-base do recorrente. Manteve-se, contudo, o afastamento da minorante por tráfico privilegiado e o regime inicial fechado para cumprimento da pena.
+II. Questão em discussão
+2. A questão em discussão consiste em saber: i) se houve o devido prequestionamento quanto à tese de violação do art. 155 do CPP; ii) se a Súmula n. 7 do STJ impede o acolhimento da pretensão de aplicação da minorante por tráfico privilegiado; e iii) se houve fundamentação idônea para a fixação do regime inicial fechado.
+III. Razões de decidir
+3. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento firmado anteriormente, mantendo-se a decisão agravada por seus próprios fundamentos.
+4. A ausência de manifestação específica pelo Tribunal de origem sobre a tese de violação do art. 155 do CPP e a falta de embargos de declaração para sanar a omissão configuram ausência de prequestionamento, incidindo as Súmulas n. 282 e 356 do STF.
+5. A incidência da Súmula n. 7 do STJ é inafastável, pois, estando a decisão de descabimento da minorante do tráfico privilegiado suficientemente embasada nas provas reunidas nos autos de origem, a análise de tal pedido demandaria o reexame do conjunto fático-probatório.
+6. Esta Corte possui o entendimento de que a presença de uma ou mais circunstâncias judiciais desfavoráveis autoriza a fixação de regime prisional mais gravoso (no caso, o fechado), mesmo se tratando de pena de reclusão não excedente a 8 anos.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de prequestionamento impede o conhecimento do recurso especial quanto a teses não apreciadas pelo tribunal de origem. 2. A Súmula n. 7 do STJ veda o reexame de provas em recurso especial, mesmo em casos de análise de minorantes. 3. A presença de uma ou mais circunstâncias judiciais desfavoráveis autoriza a fixação de regime fechado, mesmo se tratando de pena de reclusão não excedente a 8 anos."
+Dispositivos relevantes citados: CPP, art. 155; Lei n. 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.065.090/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/8/2023, DJe de 15/8/2023; AgRg no AgRg no AREsp n. 2.695.009/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2024, DJe de 20/9/2024; AgRg no REsp n. 2.156.952/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+VOTO
+De plano, o agravo regimental deve ser conhecido, pois tempestivo, com impugnação da decisão agravada, nos limites da matéria contida no recurso subjacente.
+Porém, apesar do empenho do agravante, a decisão agravada deve ser mantida.
+Primeiramente, verifica-se que não houve a manifestação específica pelo Tribunal de origem sobre a tese relativa à violação do art. 155 do CPP, no que diz respeito ao uso de provas oriundas da fase pré-processual para fundamentar o afastamento da minorante por tráfico privilegiado, nem foram oferecidos embargos de declaração por parte da defesa para sanar tal omissão.
+Dessa forma, o recurso especial carece do adequado e indispensável prequestionamento. Incidentes, por analogia, as Súmulas n. 282 (" é  inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada") e n. 356 (" o  ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento"), ambas do STF.
+Dessa forma, deve ser mantido o não conhecimento do apelo nobre quanto ao ponto.
+Nesse sentido, confiram-se precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N.ºS 282 E 356, AMBAS DO STF. DECISÃO MANTIDA.
+I - Como se sabe, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Com efeito, constato que a matéria, da forma como trazida nas razões recursais, não foi objeto de debate na instância ordinária, o que inviabiliza a discussão da matéria em sede de recurso especial, por ausência de prequestionamento.
+III - Nos termos da jurisprudência deste Superior Tribunal, "Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo tribunal de origem e não foram opostos embargos de declaração para provocar sua análise" (AgRg nos EDcl nos EDcl no AREsp n. 1.727.976/DF, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 10/6/2022).
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.948.595/PB, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/10/2023, DJe de 6/11/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 171, § 3.º, DO CÓDIGO PENAL. PLEITO DE APLICAÇÃO DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356, AMBAS DA SUPREMA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pleito de concessão do Acordo de Não Persecução Penal não foi objeto de apreciação pela Corte de justiça de origem e não se opuseram embargos de declaração. Ausência de prequestionamento. Incidência das Súmulas n. 282/STF e 356/STF.
+2. In casu, quando do julgamento dos embargos de declaração, que ocorreu em 09/03/2020, a Lei n. 13.964/2019 já estava em vigor e a prestação jurisdicional não estava encerrada e, assim, não há falar em impossibilidade de levar o tema à apreciação da Corte a quo.
+3. E ainda que se trate de matéria de ordem pública, o requisito do prequestionamento se mostra indispensável a fim de evitar supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.065.090/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+Prosseguindo, o TJSC, soberano no exame das provas, assim decidiu sobre o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, nos seguintes termos do voto do relator:
+"4. Do pedido de aplicação da causa especial de diminuição de pena contida no art. 33, § 4º, da Lei n. 11.343/06
+Sem maiores digressões, inviável o acolhimento do pleito, pois ainda que o réu seja primário, sua dedicação às atividades criminosas, de forma habitual, ficou sobejamente comprovada, pois conforme informações extraídas do telefone celular, verifica-se que pelo menos desde o mês de abril de 2021 Luann já estava comercializando entorpecentes, assim permanecendo até o dia 12.11.2021, data em que foi dado cumprimento ao mandado de busca e apreensão expedido em seu desfavor.
+Desse modo, considerando que o réu não é um "traficante de primeira viagem", fica evidente que não faz jus a aludida benesse." (fls. 435/436)
+Extrai-se do trecho acima que o Tribunal a quo concluiu, com base nas provas reunidas nos autos de origem, que o agravante se dedicava ao tráfico de drogas de maneira habitual. Nessa esteira, apontou-se que restou demonstrado, a partir de informações extraídas de seu telefone celular, que o recorrente vinha comercializando entorpecentes há mais de 6 meses, já que foi verificado que ele praticava tal atividade ilícita desde abril de 2021, tendo seguido traficando até, pelo menos, novembro do mesmo ano, quando foi dado cumprimento ao mandado de busca e apreensão expedido em seu desfavor.
+Dessa forma, restou evidenciada sua dedicação a atividades ilícitas, o que impossibilita a concessão da benesse, conforme a redação legal do art. 33, § 4º, da Lei n. 11.343/2006.
+Com efeito, inafastável a incidência da Súmula n. 7 do STJ, pois, para se concluir em sentido diverso, seria imprescindível o reexame de todo o conjunto fático-probatório, o que é vedado em recurso especial. No mesmo sentido, citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PROVAS PARA A CONDENAÇÃO E DESCLASSIFICAÇÃO DA CONDUTA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. ART. 59 DO CP. PENA-BASE. EXASPERAÇÃO EM RAZÃO DA QUANTIDADE, NATUREZA E VARIEDADE DOS ENTORPECENTES. FUNDAMENTO IDÔNEO. ART. 33, § 4º DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. ATIVIDADE ILÍCITA. REEXAME PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. REGIME FECHADO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. ADEQUAÇÃO. PARECER DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE VINCULAÇÃO. INDEPENDÊNCIA DO PODER JUDICIÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. A incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pressupõe que o agente preencha os seguintes requisitos:
+a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+5. No presente caso, o TJSP, considerando as circunstâncias da prisão e as provas obtidas do aparelho celular do recorrente, concluiu pela sua dedicação à atividade ilícita. Desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via do recurso especial.
+ ..
+9. Agravo Regimental não provido.
+(AgRg no AgRg no AREsp n. 2.695.009/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2024, DJe de 20/9/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. SÚMULA 7 DO STJ. ESCOLHA DO REGIME PRISIONAL. EMPREGO DA QUANTIDADE E QUALIDADE. AUSÊNCIA DE BIS IN IDEM. GRATUIDADE DA JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. No caso, a minorante do tráfico privilegiado foi negada mediante fundamentação idônea, pois a instância anterior ressaltou que as circunstâncias do delito denotam a habitualidade do acusado no comércio espúrio, considerando os registros extraídos de seu celular, nos quais pode ser observado o planejamento para a prática do tráfico de drogas e a confirmação de que exercia esta atividade ilícita desde o ano anterior à sua prisão.
+3. Assentado pelas instâncias ordinárias, soberanas na análise dos fatos, que o recorrente faz do comércio ilícito de entorpecentes uma atividade habitual, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de recurso especial.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.516.221/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/2/2024, DJe de 1º/3/2024.)
+Por fim, a imposição do regime inicialmente fechado para cumprimento da pena de reclusão, a qual foi reduzida pela decisão ora agravada em 5 anos e 10 meses de reclusão e 583 dias-multa, foi mantida (fl. 560), tendo em vista a presença de circunstância judicial negativa (culpabilidade do agente) que justificou tal fixação.
+Nessa senda, o entendimento de que a presença de circunstância judicial desfavorável justifica a escolha de regime prisional mais gravoso encontra amparo na jurisprudência desta Corte. No mesmo sentido, citam-se precedentes (grifos nossos):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. FIXAÇÃO DE REGIME PRISIONAL MAIS GRAVOSO. QUANTIDADE DE DROGAS APREENDIDAS. FUNDAMENTO VÁLIDO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Pablo Paguiel Oliveira Neto, condenado à pena de 5 anos de reclusão em regime fechado e ao pagamento de 500 dias-multa, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006). O impetrante alega que, embora o paciente seja primário e de bons antecedentes, o Tribunal de Justiça de Minas Gerais fixou regime inicial fechado com base em circunstância judicial já considerada na dosimetria da pena-base. Requer a fixação de regime inicial semiaberto.
+ ..
+4. No caso, ainda que a pena tenha sido fixada entre 4 e 8 anos de reclusão, a presença de circunstância judicial desfavorável (quantidade de droga apreendida, 48g de crack e 4.750g de maconha) justifica o regime fechado, nos termos do art. 33, §§ 2º, b, e 3º, do CP c.c. art. 42 da Lei 11.343/2006.
+5. Não há flagrante ilegalidade que justifique a concessão da ordem de ofício, pois o regime fechado foi devidamente fundamentado pela instância originária, considerando a quantidade e natureza da droga apreendida.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 928.864/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJe de 17/12/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. CIRCUNSTÂNCIAS DO DELITO. EXASPERAÇÃO DA PENA-BASE. MINORANTE DO ART. 33, §4º, DA LEI N. 11.343/2006. SÚMULA 7 DO STJ. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+6. Quanto ao regime prisional, conforme jurisprudência pacificada nesta Corte, conquanto a pena imposta à recorrente, primária, tenha sido estabelecida em patamar superior a 4 anos e inferior a 8 anos, o regime fechado é o adequado para o cumprimento da pena reclusiva, diante da existência de circunstâncias judiciais desfavoráveis, que serviram de lastro para elevar a pena-base acima do mínimo legal.
+7. Agravo regimental desprovido.
+(AgRg no REsp n. 2.156.952/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. EXASPERAÇÃO DA PENA-BASE. REITERAÇÃO. TEMA JÁ ANALISADO ANTERIORMENTE EM AGRAVO EM RECURSO ESPECIAL INTERPOSTO PELA DEFESA DO PACIENTE. DECISÃO JÁ TRANSITADA EM JULGADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. PENA SUPERIOR A 4 ANOS. CIRCUNSTÂNCIAS JUDICIAS DESFAVORÁVEIS. PENA-BASE ACIMA DO MÍNIMO LEGAL. REGIME FECHADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. No presente caso, não há se falar em ilegalidade da fixação do regime inicial fechado. Não obstante a pena seja inferior a 8 anos de reclusão e o paciente seja primário, as circunstâncias judiciais não lhe eram todas favoráveis, tanto que a pena-base foi fixada acima do mínimo legal. Assim, nos termos do art. 33, § § 2º e 3º, do Código Penal, o regime inicial fechado se mostra mais adequado.
+3. Agravo regimental não provido.
+(AgRg no HC 693246/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/09/2021, DJe de 27/09/2021.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
