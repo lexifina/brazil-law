@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de embargos de divergência opostos contra acórdão da Segunda Turma, de minha relatoria, que negou provimento ao agravo regimental no recurso extraordinário com agravo. Eis a ementa dessa decisão:
+
+    “DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TETO REMUNERATÓRIO CONSTITUCIONAL. TEMA 510. PROCURADORES MUNICIPAIS. REJEIÇÃO AOS EMBARGOS DE DECLARAÇÃO. I. Caso em exame 1. Trata-se de embargos de declaração interpostos contra decisão que aplicou o teto remuneratório dos procuradores municipais como sendo o dos desembargadores estaduais, em linha com o tema 510 do STF. II. Questão em discussão 2. A questão em discussão consiste em saber se o prefeito, no exercício de sua competência, pode, ou não, estabelecer o teto remuneratório dos procuradores por meio de legislação local, em vez de seguir o limite constitucional aplicável aos cargos essenciais à Justiça. III. Razões de decidir 3. O embargante não trouxe argumentos suficientes para modificar a decisão, que permite ao prefeito definir a política remuneratória, mas não alterar o teto constitucional, conforme já abordado no tema 510. IV. Dispositivo e tese 5. Embargos de declaração rejeitados” (eDOC 225 – ID: 911faae0, p. 1)
+
+    Nos embargos de divergência, sustenta-se que o Município pode estabelecer teto remuneratório para os Procuradores Municipais em valor inferior ao teto local.
+
+    Alega-se que a Administração só pode fazer - no caso remunerar) o que está previsto em Lei (art. 5º, II da CF – PRINCÍPIO DA LEGALIDADE E DA SEPARAÇÃO DOS PODERES), ou seja, somente pode remunerar além do teto se assim estiver previsto em lei, o que não existe (eDOC 226 – ID: 3fecc4ff, p. 7).
+
+    Argumenta-se, ainda, que a limitação da remuneração do procurador municipal ao teto remuneratório do subsídio dos desembargadores dos Tribunais de Justiça estaduais constante do julgamento do Tema 510/RG pelo STF não obriga o município a assim proceder, porquanto o ente público pode estabelecer remuneração inferior, consoante sua Lei Orgânica, sendo esta de iniciativa exclusiva do Chefe do Poder Executivo Municipal, sendo óbvio, portanto, que o afastamento do teto remuneratório do Prefeito não pode se dar de forma automática (eDOC 226 – ID: 3fecc4ff, p. 8).
+
+    É o relatório.
+
+    Decido.
+
+    Os presentes embargos de divergência são inadmissíveis, sobretudo diante do contido nos arts. 330 e 331 do RI/STF e da iterativa jurisprudência desta Suprema Corte no que que concerne ao juízo de admissibilidade deste recurso.
+
+    Assim, segundo o Regimento Interno desta Corte (art. 330), cabem embargos de divergência da decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+
+    Registre-se, ainda, que cabe à parte demonstrar, nos embargos de divergência, a semelhança entre os contextos fáticos, bem como apontar a diferença entre as soluções adotadas pelo Tribunal, ônus do qual não se desincumbiu a parte embargante.
+
+    Esta Corte firmou entendimento no sentido de que para caracterização do conflito jurisprudencial, é indispensável que os paradigmas invocados digam respeito a situação jurídica idêntica à apreciada pelo acórdão embargado. Nesse sentido cito o seguinte precedente:
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. SUBSISTÊNCIA DA DECISÃO AGRAVADA. AUSÊNCIA DE IDENTIDADE ENTRE A QUESTÃO JULGADA E O ACÓRDÃO PARADIGMA. AUSÊNCIA DE COTEJO ANALÍTICO. IMPOSSIBILIDADE DE OPOSIÇÃO DE EMBARGOS DE DIVERGÊNCIA CONTRA DECISÃO MONOCRÁTICA. AGRAVO A QUE SE NEGA PROVIMENTO. I – As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II – É necessário que haja identidade entre a questão julgada e a decidida pelo acórdão paradigma, sendo incabível o recurso quando presentes distinções fáticas entre as situações, como no caso em tela. III - Nos termos do art. 331 do Regimento Interno do Supremo Tribunal Federal - RISTF, é de rigor que o embargante mencione as circunstâncias que identifiquem ou que se assemelhem os casos confrontados, o que não ocorreu. IV - Nos termos do art. 330 do Regimento Interno do Supremo Tribunal Federal e do art. 1.043 do Código de Processo Civil, os embargos de divergência são cabíveis apenas contra acórdão proferido por Turma. V – Agravo regimental a que se nega provimento” (ARE 1.035.798-ED-AgR-ED-EDv-AgR, Rel. Min. Ricardo Lewandowski, Plenário, DJe 7.12.2018).
+
+    No mesmo sentido: ARE 1.090.264 AgR-EDv/MG, Rel. Min. Luiz Fux, DJe 30.4.2019; ARE 911.542 AgR-ED-EDv-AgR/RN, Rel. Min. Rosa Weber, Plenário, DJe 7.2.2019; ARE 1.101.000 AgR-ED-EDv-AgR/PE, Rel. Min. Celso de Mello, Plenário, DJe 26.8.2019; ARE 1.241.897 AgR-ED-EDv-AgR/RR, por mim relatado, Plenário, DJe 10.12.2020; ARE 1.090.934 ED-AgR-ED-EDv-AgR/PR, Rel. Min. Ricardo Lewandowski, Plenário, DJe 8.4.2021; ARE 1.284.855 AgR-EDv/RR, por mim relatado, DJe 30.4.2021; dentre outros.
+
+    Na espécie, o embargante não indicou a divergência de orientação seguida por diferentes órgãos julgadores desta Suprema Corte. Efetivamente, os fundamentos se limitaram a rediscutir a questão de mérito tratada no recurso extraordinário, notadamente quanto à aplicação em favor dos Procuradores Municipais do teto remuneratório do Prefeito, em detrimento do teto dos Desembargadores.
+
+    No ponto, registrei que o prefeito pode dispor acerca da remuneração dos Procuradores Municipais, mas não acerca de seu respectivo teto remuneratório.
+
+    Isso porque o teto remuneratório dos Procuradores está previsto no texto constitucional, e, nos termos do art. 37, XI, da Constituição Federal – aplicável aos Procuradores municipais, de acordo com a jurisprudência desta Corte –, é limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal.
+
+    Anotei, ainda, que ao aplicar o tema 510/STF, o Tribunal de origem corretamente diferenciou os institutos da fixação de vencimentos, de competência do Prefeito Municipal (art. 37, X, CF), do teto remuneratório, decorrente diretamente da Constituição Federal, vedada legislação em sentido diverso (art. 37, XI).
+
+    Sendo assim, há que se reconhecer a perfeita sintonia entre o acórdão recorrido e a jurisprudência desta Corte, especialmente no que se refere à autorização para o Prefeito fixar o valor do subsídio dos Procuradores Municipais, assim como ao reconhecimento de que o teto remuneratório, contudo, deve seguir a sistemática prevista no texto constitucional, que estabelece o limite como sendo o subsídio dos Desembargadores.
+
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas e do Plenário do Supremo Tribunal Federal:
+
+    “Agravo regimental em recurso extraordinário. 2. Direito Constitucional. 3. Estatuto do Regime Jurídico Único dos Servidores Públicos Civis do Município de Londrina (Lei Municipal nº 4.928/1992). Art. 144. Instituição de teto municipal. 4. Competência do Prefeito para dispor acerca da remuneração dos Procuradores Municipais, mas não acerca de seu teto remuneratório. 5. Tema 510, da sistemática da repercussão geral. Jurisprudência firmada no sentido de que a expressão ‘Procuradores’, contida na parte final do inciso XI do art. 37 da Constituição Federal, compreende os Procuradores Municipais, submetidos ao teto de noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal. 6. Diferenciação entre os institutos da fixação de vencimentos dos Procuradores Municipais, de competência do Prefeito Municipal (art. 37, X, CF), da fixação do respectivo teto remuneratório, decorrente diretamente da Constituição Federal, vedada legislação em sentido diverso (art. 37, XI). 7. Agravo regimental provido, para negar provimento ao recurso extraordinário, em ordem a manter o acórdão do Tribunal de Justiça do Paraná, que aplicou a Procurador Municipal o teto de 90,25% do subsídio mensal dos Ministros do Supremo Tribunal Federal” (RE 1451818 AgR, Rel. Min. Edson Fachin, Rel. p/ Acórdão Min. Gilmar Mendes, Segunda Turma, DJe 30.10.2024 – grifo nosso)
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. TETO REMUNERATÓRIO. ART. 37, XI, DA CONSTITUIÇÃO FEDERAL. DEFENSORES PÚBLICOS ESTADUAIS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. *. O cerne da questão é definir se as Defensorias Públicas estaduais estão sujeitas ao teto remuneratório de 100% do subsídio mensal dos Ministros do Supremo Tribunal Federal ou ao “subteto” dos Desembargadores do Tribunal de Justiça (90,25% do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal). *. Na ADI 3.854/DF (Rel. Min. GILMAR MENDES, DJe de 8/2/2021), o Plenário desta CORTE conferiu interpretação conforme a Constituição ao inciso XI do art. 37 da CF/1988 e declarou a inconstitucionalidade da fixação de subteto remuneratório diferenciado entre a magistratura estadual e a magistratura federal, considerado o caráter nacional da estrutura judiciária brasileira. *. No entanto, esse paradigma ficou adstrito à magistratura, não havendo referência quanto às demais carreiras - as quais, a priori, se encontram vinculadas ao subteto de 90,25% do subsídio dos ministros do Supremo Tribunal Federal. *. Esta SUPREMA CORTE, no julgamento do RE 663.696-RG, Tribunal Pleno, Rel. Min. LUIZ FUX, DJe de 22/8/2019, submetido ao rito da repercussão geral (Tema 510/RG), fixou a seguinte tese: A expressão ‘Procuradores’, contida na parte final do inciso XI do art. 37 da Constituição da República, compreende os Procuradores Municipais, uma vez que estes se inserem nas funções essenciais à Justiça, estando, portanto, submetidos ao teto de noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal. *. Os argumentos suscitados pelo recorrente não são suficientes para infirmar a interpretação dada ao art. 37, XI da CRFB, que determina, também aos Defensores Públicos, o teto remuneratório equivalente a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal. *. O acórdão recorrido observou esse entendimento, devendo, portanto, ser mantido. *. Agravo Interno a que se nega provimento” (ARE 1508596 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 24.10.2024 – grifo nosso)
+
+    Assim, verifica-se que não restou devidamente demonstrada a divergência entre órgãos julgadores desta Corte constitucional a motivar o seguimento dos embargos.
+
+    Ante o exposto, com fundamento nos arts. 330 e 331 do RI/STF, não admito os presentes embargos de divergência.
+
+    Publique-se.
+
+    Brasília, 25 de fevereiro de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
