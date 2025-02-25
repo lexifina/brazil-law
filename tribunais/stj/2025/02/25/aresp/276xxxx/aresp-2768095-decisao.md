@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MUNICÍPIO DE JOÃO PESSOA de decisão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 0801517-97.2022.4.05.8200. Confira-se a ementa (fls. 584-585):
+TRIBUTÁRIO. APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. AUTO DE INFRAÇÃO. CAIXA ECONÔMICA. SERVIÇOS FIRMADOS COM TERCEIROS (LOTÉRICOS E CORRESPONDENTES BANCÁRIOS). ERRO NO RECOLHIMENTO DO ISS. MERA IRREGULARIDADE FORMAL NO PAGAMENTO DO TRIBUTO. SATISFAÇÃO DO CRÉDITO. IMPOSSIBILIDADE DE NOVA COBRANÇA. INEXIGIBILIDADE DO TÍTULO. MANTIDA A SENTENÇA DE PROCEDÊNCIA.
+1. Apelação interposta pelo Município de João Pessoa/PB, embargado, em face de sentença que julgou procedente a pretensão deduzida nestes embargos à execução fiscal, " para declarar a nulidade da CDA nº 2021/371109 e, por conseguinte, extinguir a Execução Fiscal nº 0811331-70.2021.4.05.82000, condenando a embargada aos honorários advocatícios da parte adversa, fixados em 10% do valor ". atualizado da causa
+2. De início, convém ressaltar que o auto de infração em referência mostra-se claro em relação ao fato gerador da obrigação tributária consistente no não recolhimento do ISS sobre os serviços tomados de terceiros de forma geral, em especial dos lotéricos e correspondentes bancários, de modo que, à falta de prejuízo ao exercício do contraditório e da ampla defesa (notadamente quando houve impugnação na seara administrativa - fls. 467-470, idem), não há, na espécie, pecha alguma de nulidade.
+3. Os valores de ISS relativos ao SIGEL (relatório de loterias vendidas pela casa lotérica) não atingidos pela decadência não tiveram seus recolhimentos reconhecidos pelo município apelante/embargado sob o argumento, exclusivamente, de terem sido realizados de forma centralizada, ou seja, na agência 0036 (Cabo Branco) ao tempo em que a dívida pertenceria a agências distintas.
+4. Não se pode deixar de reconhecer a procedência da tese de defesa da embargante, eis que efetivamente descabe pretender impor-se novamente à contribuinte o recolhimento de todos os valores já vertidos aos cofres da edilidade, acrescidos ainda de severa penalidade pecuniária - que seria razoável apenas se identificada omissão dolosa por parte da executada.
+5. Quando muito, caberia em casos tais quiçá uma advertência ou orientação por parte da fiscalização quanto à forma adequada de gerir os sistemas de apuração do tributo em tela, com propósito educativo e preventivo, no que, por evidente, uma pesada multa de 200% sobre o que já havia sido recolhido não se revela medida adequada nem proporcional.
+6. Conquanto o pagamento (ou seja, a retenção e o recolhimento dos valores cobrados pelo Município) - fato, frise-se, incontroverso nos autos - dos tributos tenha sido feito de forma equivocada (de forma centralizada em uma única agência os valores devidos por outras), é motivo apto e suficiente a extinguir a execução, sob pena de enriquecimento sem causa do ente municipal.
+7. Não merece, pois, guarida a alegação de ausência de autorização do Fisco Municipal para a centralização dos recolhimentos de ISS, tampouco o argumento de criação de "compensação tributária por via oblíqua", pois não desnatura a quitação do ISS verificada.
+8. Mantida a sentença apelada, nos termos da fundamentação adotada pela juíza sentenciante, à luz da previsão contida no art. 93, IX, da Constituição Federal e da tese firmada pelo STF no julgamento do Tema 339, com repercussão geral reconhecida (AI 791292/PE, Rel. Min. GILMAR MENDES, julgamento em 23/06/2010, DJ de 13/08/2010).
+9. Apelação cujo provimento é negado. Condenado o município apelante ao pagamento de honorários recursais, fixados em 5% (cinco por cento) sobre a verba honorária arbitrada na sentença (10% sobre R$ 133.950,12), com a devida atualização.
+No recurso especial alegou-se "afronta direta ao que preceitua o Código Tributário Nacional, Lei Complementar nº 116/2003, Decreto-Lei nº 406/68 e o Decreto 6.829/2010"; "Inobservância do Princípio da Legalidade Tributária - Artigo 97, 156, 170, do CTN". Prossegue:
+Em síntese, a regra estabelecida pela legislação municipal é de que cada agência bancária deva manter de maneira individualizada sua escrituração contábil e fiscal, bem como apurar, declarar e pagar os tributos também de forma individualizada (não centralizada).
+ ..
+Ademais, é mister frisarmos que as duas decisões, de primeiro e segundo grau, afastaram todo o disciplinamento quanto ao local de recolhimento do tributo previsto no Decreto 6.829/2010 (regulamento tributário do município de João Pessoa) e ainda, realiza, por via oblíqua uma compensação tributária entre o tributo recolhido na Agência do Cabo Branco e o tributo não recolhido pela Agência da Trincheiras, o que, como se sabe afronta o art. 170 do CTN:
+ ..
+O que verificamos, no mundo dos fatos, é justamente a personificação da figura da compensação - estabelecida pelo Juízo. E o pior de tudo é que sequer existe a comprovação do pagamento!!
+Contrarrazões às fls. 621-632.
+O recurso foi inadmitido na origem (fls. 634), o que ensejou a interposição do presente agravo (fls. 640-657).
+É o relatório.
+Decido.
+A Corte de origem não admitiu o apelo nobre por incidência da Súmula n. 284 do STF. Todavia, a parte Agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, tal fundamento constante da decisão agravada.
+Por conseguinte, na hipótese dos autos aplicam-se o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in ver bis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 535 e 583), respeitados os limites estabelecidos n os §§ 2º e 3º do mesmo artigo.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
