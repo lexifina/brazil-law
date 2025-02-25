@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MANDADO DE BUSCA E APREENSÃO DOMICILIAR. SUFICIÊNCIA DE FUNDAMENTAÇÃO. FUNDAMENTAÇÃO PER RELATIONEM. BASE EM INVESTIGAÇÃO POLICIAL DETALHADA. ABSOLVIÇÃO. IMPOSSIBILIDADE. PROVAS DE AUTORIA E MATERIALIDADE. DEPOIMENTOS DE POLICIAIS COMO MEIO IDÔNEO ALÉM DE OUTROS ELEMENTOS . APLICAÇÃO DAS SÚMULAS Nº 7 E 83/STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial fundamentado em alegações de nulidade na expedição de mandado de busca e apreensão domiciliar, por ausência de fundamentação adequada, e de insuficiência probatória para condenação por tráfico de drogas. O acórdão recorrido entendeu pela regularidade da busca e apreensão e pela suficiência de provas de autoria e materialidade, incluindo os depoimentos dos policiais.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) verificar se o mandado de busca e apreensão domiciliar foi expedido com fundamentação suficiente e em conformidade com os requisitos legais;
+(ii) analisar se as provas colhidas, incluindo os depoimentos dos policiais, são suficientes para sustentar a condenação pelo crime de tráfico de drogas.
+III. RAZÕES DE DECIDIR
+3. O mandado de busca e apreensão foi expedido com base em relatório detalhado de investigação policial e em elementos constantes nos autos, atendendo aos requisitos legais de fundamentação. A jurisprudência do STJ admite fundamentação "per relationem" em decisões que autorizam medidas invasivas, desde que vinculadas a informações concretas e devidamente documentadas.
+4. Não se verifica qualquer ilegalidade na decisão que deferiu a busca domiciliar, uma vez que a medida foi respaldada por elementos objetivos, como denúncias e diligências investigativas prévias, que justificaram a medida judicial, afastando eventual violação a direitos fundamentais.
+5. Os depoimentos de policiais, colhidos sob o crivo do contraditório e corroborados por outras provas, como a quantidade e variedade das substâncias entorpecentes, embalagens vazias, balança de precisão e quantia em dinheiro apreendida, são considerados meios idôneos e suficientes para sustentar a condenação, conforme entendimento consolidado desta Corte Superior.
+6. A revisão da suficiência probatória, incluindo a análise de autoria e materialidade, demandaria o reexame do conjunto fático-probatório, o que é vedado na via especial, nos termos da Súmula nº 7 do STJ.
+7. A incidência da Súmula nº 83 do STJ reforça o entendimento de que a decisão recorrida está em conformidade com a jurisprudência consolidada desta Corte, tornando inviável a reforma no âmbito do recurso especial.
+IV. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Contraminuta apresentada, onde a parte recorrida postula o não conhecimento do recurso ou o seu não provimento.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MANDADO DE BUSCA E APREENSÃO DOMICILIAR. SUFICIÊNCIA DE FUNDAMENTAÇÃO. FUNDAMENTAÇÃO PER RELATIONEM. BASE EM INVESTIGAÇÃO POLICIAL DETALHADA. ABSOLVIÇÃO. IMPOSSIBILIDADE. PROVAS DE AUTORIA E MATERIALIDADE. DEPOIMENTOS DE POLICIAIS COMO MEIO IDÔNEO ALÉM DE OUTROS ELEMENTOS . APLICAÇÃO DAS SÚMULAS Nº 7 E 83/STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial fundamentado em alegações de nulidade na expedição de mandado de busca e apreensão domiciliar, por ausência de fundamentação adequada, e de insuficiência probatória para condenação por tráfico de drogas. O acórdão recorrido entendeu pela regularidade da busca e apreensão e pela suficiência de provas de autoria e materialidade, incluindo os depoimentos dos policiais.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) verificar se o mandado de busca e apreensão domiciliar foi expedido com fundamentação suficiente e em conformidade com os requisitos legais;
+(ii) analisar se as provas colhidas, incluindo os depoimentos dos policiais, são suficientes para sustentar a condenação pelo crime de tráfico de drogas.
+III. RAZÕES DE DECIDIR
+3. O mandado de busca e apreensão foi expedido com base em relatório detalhado de investigação policial e em elementos constantes nos autos, atendendo aos requisitos legais de fundamentação. A jurisprudência do STJ admite fundamentação "per relationem" em decisões que autorizam medidas invasivas, desde que vinculadas a informações concretas e devidamente documentadas.
+4. Não se verifica qualquer ilegalidade na decisão que deferiu a busca domiciliar, uma vez que a medida foi respaldada por elementos objetivos, como denúncias e diligências investigativas prévias, que justificaram a medida judicial, afastando eventual violação a direitos fundamentais.
+5. Os depoimentos de policiais, colhidos sob o crivo do contraditório e corroborados por outras provas, como a quantidade e variedade das substâncias entorpecentes, embalagens vazias, balança de precisão e quantia em dinheiro apreendida, são considerados meios idôneos e suficientes para sustentar a condenação, conforme entendimento consolidado desta Corte Superior.
+6. A revisão da suficiência probatória, incluindo a análise de autoria e materialidade, demandaria o reexame do conjunto fático-probatório, o que é vedado na via especial, nos termos da Súmula nº 7 do STJ.
+7. A incidência da Súmula nº 83 do STJ reforça o entendimento de que a decisão recorrida está em conformidade com a jurisprudência consolidada desta Corte, tornando inviável a reforma no âmbito do recurso especial.
+IV. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violados os seguintes dispositivos: arts. 240, §2º e 386, VII do Código de Processo Penal, alegando irregularidade na busca domiciliar levada a termo (com base em mandado de busca e apreensão expedido sem fundamentação adequada) e, subsidiariamente, ausência de provas suficientes para condenação.
+A análise das razões motivadas na origem - regularidade do mandado de busca e apreensão domiciliar e suficiência probatória - indica que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula nº 83/STJ, conforme se verifica da fundamentação adotada (e-STJ fls. 368 e 371-372):
+Inicialmente, não prospera a alegação de nulidade da decisão que autorizou a expedição de mandado de busca e apreensão domiciliar na residência da ré, eis que embasada no minucioso relatório de investigação elaborado pela autoridade policial.
+Não se vislumbra qualquer violação aos direitos fundamentais da apelante, já que os policiais estavam cumprindo um mandado judicial.
+ .. .
+Conforme se verifica, os depoimentos dos policiais não podem ser desconsiderados, pois não se vislumbra qualquer motivo para que quisessem, injustamente, incriminar a ré.
+Nem se alegue que os depoimentos de servidores públicos sejam suspeitos, para embasar um decreto condenatório, pois, isto somente ocorreria no caso de a acusada provar que os mesmos inventaram toda a história, com a intenção de prejudicá-la. No caso destes autos este fato não ocorreu. Ademais, suas palavras foram colhidas sob o compromisso de dizer a verdade, sob pena de falso testemunho.
+Assim sendo, pela quantidade e variedade de substâncias entorpecentes apreendidas (5 porções de cocaína, pesando 41 gramas e 3 comprimidos de ecstasy, pesando 9 gramas), as denúncias pretéritas apontando o envolvimento da apelante no comércio espúrio, embalagens vazias, a apreensão de considerável quantia em dinheiro sem origem lícita comprovada (dois mil, duzentos e noventa e quatro reais, cento e cinco dólares americanos, cinco euros e mil dólares de Taiwan), além das circunstâncias da prisão, tudo demonstra que as drogas pertenciam à apelante e se destinavam ao fornecimento para o consumo de terceiros.
+Logo, não há que se falar em desclassificação para a guarda para uso próprio, uma vez que é cediço que muitos usuários praticam o tráfico para sustentar o próprio vício. Ademais, a quantidade de drogas apreendidas em poder da apelante, se afasta daquela normalmente apreendida em poder de meros usuários.
+Outrossim, o artigo 33 da Lei nº 11.343/2006 é um tipo misto alternativo, razão pela qual a prática de qualquer uma das condutas nele descritas configura o crime de tráfico ilícito de entorpecente. Desta feita, é irrelevante que a apelante não tenha sido surpreendida vendendo drogas, já que a conduta de manter entorpecentes em depósito para distribuição ao consumo de terceiras pessoas, por si só, configura o tipo penal.
+Conforme se observa, não só o mandado de busca e apreensão foi baseado em minucioso relatório de investigação elaborado pela autoridade policial, como, igualmente, foram colhidas provas suficientes de autoria e materialidade, aptas a fundamentar um devido juízo condenatório.
+Ademais, importante destacar as observações feitas pelo Ministério Público Federal em seu parecer (e-STJ fls. 435-436 e 439):
+Ao examinar a suposta ilegalidade na decisão que deferiu o pedido de busca domiciliar, o Tribunal de São Paulo esclareceu o seguinte (fl. 368):
+Inicialmente, não prospera a alegação de nulidade da decisão que autorizou a expedição de mandado de busca e apreensão domiciliar na residência da ré, eis que embasada no minucioso relatório de investigação elaborado pela autoridade policial. Não se vislumbra qualquer violação aos direitos fundamentais da apelante, já que os policiais estavam cumprindo um mandado judicial.
+Não há ilegalidade na decisão que, embora sucinta, autoriza a medida de busca domiciliar, com base em representação policial ou na manifestação do Ministério Público, reportando-se, sobretudo, aos fundamentos lançados nos relatórios de inteligência dos autos, como ocorreu na espécie.
+ .. .
+A condenação da recorrente está devidamente respaldada em farto material probatório, tal como a droga apreendida em sua residência quando da execução da medida de busca e apreensão e o depoimento dos policiais que efetuaram tal diligência.
+No mesmo sentido, cite-se os seguintes precedentes da Quinta Turma, cujo entendimento se assemelha ao adotado pelo acórdão recorrido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. TRÁFICO DE DROGAS. OPERAÇÃO ENTERPRISE. AUSÊNCIA DE CONEXÃO. FUNDAMENTAÇÃO PER RELATIONEM. VALIDADE. COMPETÊNCIA DO JUÍZO DA 2ª VARA FEDERAL DA SUBSEÇÃO JUDICIÁRIA DE NATAL - SJ/RN.
+I - Não há nos autos elementos que autorizem o deslocamento da competência para o Juízo Federal de Curitiba haja vista que não restou demonstrada possível conexão entre os fatos investigados ou prevenção do Juízo suscitante.
+II - A jurisprudência desta Corte Superior orienta-se para afirmar que a fundamentação per relationem é válida, inexistindo óbice à utilização de elementos contidos em manifestações ministeriais ou em sentença, não havendo que se falar em violação aos princípios do contraditório, da ampla defesa e do devido processo legal pelo emprego da técnica. (AgRg no AREsp n. 1.676.717/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/12/2021) Agravo regimental desprovido .
+(AgRg no CC n. 182.422/PR, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 8/2/2023, DJe de 22/2/2023.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECEPTAÇÃO. CONCURSO MATERIAL. ART. 33, CAPUT, DA LEI N. 11.343/06 C/C ART. 180, CAPUT, DO CÓDIGO PENAL  CP, NA FORMA DO ART. 69, CAPUT, DO CP. PLEITO PARA QUE SEJA AFASTADA A CONDENAÇÃO PELO DELITO DE TRÁFICO DE ENTORPECENTES. IMPOSSIBILIDADE. TRIBUNAL DE ORIGEM QUE REPUTOU COMPROVADAS A MATERIALIDADE E A AUTORIA DELITIVAS. IDONEIDADE DOS DEPOIMENTOS DOS POLICIAIS PARA EMBASAR O DECRETO CONDENATÓRIO. PROVA ORAL CORROBORADA POR OUTROS ELEMENTOS PROBATÓRIOS. PRETENSÃO ABSOLUTÓRIA QUE ESBARRA NO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. O Tribunal de origem reputou comprovadas a materialidade e autoria delitivas pela apreensão de entorpecentes na residência da ora agravante, bem como pela prova oral produzida em contraditório judicial, notadamente nos depoimentos dos policiais militares responsáveis pela localização das drogas, no sentido de que receberam informações a respeito da prática da traficância pela ré no local dos fatos.
+1.1. Ademais, a Corte a quo consignou que, além dos entorpecentes, os agentes apreenderam dois aparelhos celulares, uma balança de precisão, sacos plásticos para preparo do entorpecente e os documentos pessoais da ora agravante e da sua companheira.
+1.2. Registra-se, outrossim, que os depoimentos dos policiais responsáveis pela apreensão das drogas são meios idôneos e suficientes para fundamentar o decreto condenatório, porquanto estão em consonância com as demais provas produzidas sob o crivo do contraditório.
+1.3. Nessa medida, para divergir da conclusão do Tribunal de Justiça do Estado de São Paulo  TJSP e acolher o pleito absolutório formulado pela defesa seria necessário a reanálise dos fatos e das provas constantes nos autos, aplicando-se, portanto, o óbice Súmula n. 7 do STJ.
+2. Agravo regimental conhecido e desprovido.
+(AgRg no AREsp n. 2.417.433/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/8/2024, DJe de 9/8/2024.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+É o voto.
