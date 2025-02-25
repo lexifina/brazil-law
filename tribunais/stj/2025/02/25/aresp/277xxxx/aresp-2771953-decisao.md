@@ -1,0 +1,151 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Portocred S.A. - Crédito, Financiamento e Investimento - em liquidação extrajudicial, com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fls. 822-825):
+APELAÇÕES CÍVEIS. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL.
+OBJETO.
+1) CÉDULA DE CRÉDITO BANCÁRIO Nº 3803030861 (COM DESCONTO EM FOLHA DE PAGAMENTO), NO VALOR DE R$ 6.255,26, DATADA DE 11/04/2017
+2) CÉDULA DE CRÉDITO BANCÁRIO Nº 3810345394 (COM DESCONTO EM FOLHA DE PAGAMENTO), NO VALOR DE R$ 1.278,11, DATADA DE 28/02/2020
+3) CÉDULA DE CRÉDITO BANCÁRIO Nº 3811722186 (COM DESCONTO EM FOLHA DE PAGAMENTO), NO VALOR DE R$ 1.588,68, DATADA DE 01/10/2020
+4) CÉDULA DE CRÉDITO BANCÁRIO Nº 3812583649 (COM DESCONTO EM FOLHA DE PAGAMENTO), NO VALOR DE R$ 1.803,33, DATADA DE 29/01/2021
+5) CÉDULA DE CRÉDITO BANCÁRIO Nº 3813447834 (COM DESCONTO EM FOLHA DE PAGAMENTO), NO VALOR DE R$ 4.319,84, DATADA DE 30/04/2021
+6) CÉDULA DE CRÉDITO BANCÁRIO Nº 3814147714 (COM DESCONTO EM FOLHA DE PAGAMENTO), NO VALOR DE R$ 2.641,74, DATADA DE 29/06/2021
+7) CÉDULA DE CRÉDITO BANCÁRIO Nº 3815393292 (COM DESCONTO EM FOLHA DE PAGAMENTO), NO VALOR DE R$ 1.158,01, DATADA DE 24/09/2021
+8) CÉDULA DE CRÉDITO BANCÁRIO Nº 3816102678 (COM DESCONTO EM FOLHA DE PAGAMENTO), NO VALOR DE R$ 2.718,79, DATADA DE 08/11/2021; E,
+9) CÉDULA DE CRÉDITO BANCÁRIO Nº 3818610570 (COM DESCONTO EM FOLHA DE PAGAMENTO), NO VALOR DE R$ 1.951,27, DATADA DE 10/03/2022
+APELAÇÃO DA RÉ
+SUSPENSÃO DO FEITO. A LIQUIDAÇÃO EXTRAJUDICIAL NÃO TEM O CONDÃO DE, POR SI SÓ, SUSPENDER O PRESENTE FEITO. OCORRE QUE, DE ACORDO COM O ENTENDIMENTO DO STJ, A SUSPENSÃO NÃO ALCANÇA AS AÇÕES DE CONHECIMENTO NAS QUAIS O QUE SE PRETENDE É A OBTENÇÃO DE TÍTULO JUDICIAL, COMO NO PRESENTE FEITO. PRELIMINAR REJEITADA.
+GRATUIDADE DA JUSTIÇA. QUANTO À GRATUIDADE, DEIXO DE CONHECER DO PEDIDO, CONSIDERANDO QUE A PRÓPRIA RÉ RECOLHEU AS CUSTAS DE PREPARO DE SEU RECURSO, QUANDO DA INTERPOSIÇÃO DO APELO.
+DIANTE DISSO, EMBORA A GRATUIDADE POSSA SER PLEITEADA EM QUALQUER MOMENTO, A RÉ PRATICOU ATO INCOMPATÍVEL COM O SEU PRÓPRIO PEDIDO, NÃO SENDO O CASO DE SUA ANÁLISE NESTE MOMENTO PROCESSUAL E DIRETAMENTE EM SEDE RECURSAL.
+NO PONTO, RECURSO NÃO CONHECIDO.
+CERCEAMENTO DE DEFESA. INOCORRÊNCIA. A PARTE RÉ SUSTENTA QUE HOUVE CERCEAMENTO DE DEFESA EM RAZÃO DE NÃO TER SIDO PROFERIDO DESPACHO SANEADOR, POSTERIORMENTE A APRESENTAÇÃO DA RÉPLICA, SENDO PROFERIDA DESDE LOGO A SENTENÇA.
+NESSE CONTEXTO, CUMPRE REFERIR QUE O MAGISTRADO, POR EXPRESSA DISPOSIÇÃO LEGAL, É O DESTINATÁRIO DA PROVA PRODUZIDA NOS AUTOS, TENDO AMPLO PODER DE DETERMINAR EVENTUAL REALIZAÇÃO, MESMO DE OFÍCIO, SENDO QUE TAL UTILIDADE RESIDE JUSTAMENTE EM EMBASAR DE FORMA MOTIVADA E FUNDAMENTADA O SEU ENTENDIMENTO, OBJETIVANDO COM A DILIGÊNCIA TER SUBSÍDIOS SUFICIENTES PARA O CONVENCIMENTO.
+CONFORME DISPÕE O ART. 370, PARÁGRAFO ÚNICO, DO CPC:
+CABERÁ AO JUIZ, DE OFÍCIO OU A REQUERIMENTO DA PARTE, DETERMINAR AS PROVAS NECESSÁRIAS À INSTRUÇÃO DO PROCESSO, INDEFERINDO AS DILIGÊNCIAS INÚTEIS OU MERAMENTE PROTELATÓRIAS.
+NO CASO, O MAGISTRADO ENTENDEU POR SUFICIENTE OS ELEMENTOS JÁ CONSTANTES NOS AUTOS, SENDO DESNECESSÁRIO PROFERIR DESPACHO SANEADOR, POSTERIORMENTE À REPLICA, SENDO QUE NADA DE NOVO FOI TRAZIDO AOS AUTOS PELA PARTE AUTORA, A QUAL APENAS IMPUGNOU OS TERMOS DA CONTESTAÇÃO, E AINDA, SEQUER FOI JUNTADO ALGUM DOCUMENTO DE INTERESSE DA PARTE RÉ. NO PONTO, PRELIMINAR REJEITADA.
+NULIDADE DA DECISÃO. INOCORRÊNCIA. A PARTE SUSTENTA A NULIDADE DA DECISÃO APELADA, UMA VEZ QUE, SEGUNDO ELA, NÃO RELATOU O FEITO DE FORMA ADEQUADA; NÃO FOI SUFICIENTEMENTE FUNDAMENTADA; DEIXOU DE SEGUIR PRECEDENTES E JURISPRUDÊNCIA DOMINANTE; NÃO ENFRENTOU TODAS AS TESES CAPAZES DE INFLUENCIAR O JULGAMENTO DA LIDE; FOI PROFERIDA SEM A PRÉVIA INTIMAÇÃO PARA A PRODUÇÃO DE PROVAS.
+VEJAMOS.
+AO CONTRÁRIO DO QUE AFIRMADO PELA PARTE RECORRENTE, NÃO HÁ FALAR EM NULIDADE DA DECISÃO RECORRIDA.
+A RESPEITO DO RELATÓRIO, EMBORA SUCINTO, CONSTOU NA DECISÃO RECORRIDA, NOS TERMOS DISPOSTOS NO ARTIGO 489, I, DO CPC1, NÃO SENDO NECESSÁRIA A INDICAÇÃO MINUCIOSA DE TODAS AS TESES ALEGADAS PELA PARTE QUANDO DA CONTESTAÇÃO. DE OUTRA BANDA, A DECISÃO ESTÁ FUNDAMENTADA DE ACORDO COM O ENTENDIMENTO EXARADO PELO JULGADOR A QUO, CONSTANDO EXPRESSAMENTE AS RAZÕES DE FATO E DE DIREITO QUE FIRMARAM O JULGAMENTO DE PROCEDÊNCIA DO PEDIDO DO AUTOR.
+ADEMAIS, OS FUNDAMENTOS FORAM REPRISADOS EM SEDE RECURSAL, SENDO QUE SERÃO REANALISADOS NO PRESENTE RECURSO.
+POR FIM, TRATANDO-SE DE MATÉRIA DE DIREITO, ESTANDO TODOS OS DOCUMENTOS NECESSÁRIOS AO JULGAMENTO DO MÉRITO DA DEMANDA NOS AUTOS, É POSSÍVEL AO MAGISTRADO PROFERIR SENTENÇA QUANDO ENTENDER PELA DESNECESSIDADE DA PRODUÇÃO DE OUTRAS PROVAS, COMO NO CASO CONCRETO.
+PORTANTO, EMBORA AS ALEGAÇÕES DO APELANTE, NÃO HÁ FALAR EM NULIDADE. PRELIMINAR AFASTADA.
+NULIDADE DA SENTENÇA POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL E EXISTÊNCIA DE VÍCIO DE FUNDAMENTAÇÃO. NÃO CONFIGURADA. A PARTE RÉ SUSTENTA A NULIDADE DA SENTENÇA POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL E VÍCIO DE FUNDAMENTAÇÃO, EM RAZÃO DE NÃO TER SIDO ENFRENTADAS AS TESES DEDUZIDAS NA CONTESTAÇÃO E POR NÃO TER SIDO SEGUIDOS OS PRECEDENTES JURISPRUDENCIAIS INVOCADOS.
+NÃO LHE ASSISTE RAZÃO.
+CONFORME SE OBSERVA DA SENTENÇA, NÃO HÁ QUALQUER NULIDADE A SER DECLARADA EM RAZÃO DE NÃO TER SIDO ACOLHIDAS AS TESES DEFENSIVAS E PRECEDENTES SUSCITADAS PELA PARTE RÉ.
+O MAGISTRADO NÃO ESTÁ OBRIGADO A SE MANIFESTAR OU RESPONDER PONTUALMENTE SOBRE TODAS AS ALEGAÇÕES E FUNDAMENTOS DAS PARTES, NA HIPÓTESE DE JÁ TER FIRMADO SEU LIVRE CONVENCIMENTO COM BASE EM ELEMENTOS SUFICIENTES A FUNDAMENTAR SUA DECISÃO, COMO NA HIPÓTESE DOS AUTOS.
+ADEMAIS, CABE AO MAGISTRADO DECIDIR A QUESTÃO DE ACORDO COM O SEU LIVRE CONVENCIMENTO, UTILIZANDO-SE DOS FATOS, PROVAS, JURISPRUDÊNCIA, ASPECTOS PERTINENTES AO TEMA E DA LEGISLAÇÃO QUE ENTENDER APLICÁVEL AO CASO.
+NO CASO, AS QUESTÕES ORA DEDUZIDAS NO APELO DA PARTE RÉ FORAM DIRIMIDAS PELO JUÍZO DE ORIGEM DE FORMA SUFICIENTE E FUNDAMENTADA, NÃO OCORRENDO QUALQUER NULIDADE, NOS TERMOS DO ARTIGO 489 DO CPC.
+NÃO OBSTANTE, NÃO HÁ FALAR EM NEGATIVA DE PRESTAÇÃO JURISDICIONAL QUANDO O MAGISTRADO EXAMINA, DE FORMA FUNDAMENTADA, AS QUESTÕES QUE LHE FORAM SUBMETIDAS, AINDA QUE TENHA DECIDIDO EM SENTIDO CONTRÁRIO À PRETENSÃO DA PARTE.
+A JURISPRUDÊNCIA DO STJ ASSIM ESTÁ FIRMADA: " O MAGISTRADO NÃO É OBRIGADO A RESPONDER TODAS AS ALEGAÇÕES DAS PARTES SE JÁ TIVER ENCONTRADO MOTIVO SUFICIENTE PARA FUNDAMENTAR A DECISÃO, NEM É OBRIGADO A ATER-SE AOS FUNDAMENTOS POR ELAS INDICADOS " (RESP 684.311/RS, REL. MIN. CASTRO MEIRA, SEGUNDA TURMA, JULGADO EM 4.4.2006, DJ 18.4.2006, P. 191), COMO OCORREU NO CASO ORA EM APREÇO. FEITAS TAIS CONSIDERAÇÕES, VÃO REJEITADAS AS PRELIMINARES.
+ENCARGOS DA NORMALIDADE JUROS REMUNERATÓRIOS. APLICAÇÃO DAS ORIENTAÇÕES DO SUPERIOR TRIBUNAL DE JUSTIÇA, EXTRAÍDAS DO JULGAMENTO DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N. 1.061.530/RS. NESTE NORTE, IMPENDE REFERIR QUE ESTE COLEGIADO ADOTOU COMO UM DOS PARÂMETROS PARA APURAÇÃO DA EXISTÊNCIA DE ABUSIVIDADE NA CONTRATAÇÃO, A TAXA MÉDIA DE MERCADO REGISTRADA PELO BANCO CENTRAL DO BRASIL - BACEN, À ÉPOCA DA CONTRATAÇÃO, E EM CONFORMIDADE COM A RESPECTIVA OPERAÇÃO.
+TODAVIA, ESTA NÃO CONSTITUI CRITÉRIO ÚNICO OU ABSOLUTO PARA AFERIR-SE A ABUSIVIDADE DA TAXA DE JUROS REMUNERATÓRIOS CONTRATADA, DE ACORDO COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+A PARTIR DE CONTEXTO, OBSERVA-SE QUE A REDUÇÃO DOS JUROS REMUNERATÓRIOS DEPENDE DE COMPROVAÇÃO DA ONEROSIDADE EXCESSIVA, OU SEJA, CAPAZ DE COLOCAR O CONSUMIDOR EM DESVANTAGEM EXAGERADA, NO CASO CONCRETO, TENDO COMO PARÂMETRO, ALIADA A OUTROS VETORES QUE CIRCUNDAM A CONTRATAÇÃO, A TAXA MÉDIA DE MERCADO PARA AS OPERAÇÕES CORRESPONDENTES.
+NO CASO, VERIFICA-SE QUE A TAXA DE JUROS REMUNERATÓRIOS CONTRATADA DISCREPA SUBSTANCIALMENTE DA TAXA DE JUROS DIVULGADA PELO BACEN À ÉPOCA DA CONTRATAÇÃO CORRESPONDENTE, JÁ ACRESCIDA DO PERCENTUAL DE 50% , O QUE SE MOSTRA EXORBITANTE, ESTANDO CONFIGURADA A FLAGRANTE ABUSIVIDADE, DIANTE DAS PECULIARIDADES QUE ENVOLVEM A CONTRATAÇÃO, NOS TERMOS DO VOTO, RAZÃO PELA QUAL DEVE SER MANTIDA A LIMITAÇÃO CONTIDA NA SENTENÇA. NO PONTO, RECURSO DA RÉ DESPROVIDO.
+REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO DE VALORES. É CABÍVEL A REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO DE VALORES QUANDO PROCEDIDAS MODIFICAÇÕES NO CONTRATO, CASO COMPROVADO O PAGAMENTO A MAIOR.
+OUTROSSIM, EM RECENTE DECISÃO, A CORTE ESPECIAL DO STJ APROVOU TESE NO SENTIDO DE QUE A RESTITUIÇÃO EM DOBRO DO INDÉBITO (PARÁGRAFO ÚNICO DO ARTIGO 42 DO CDC) INDEPENDE DA NATUREZA DO ELEMENTO VOLITIVO DO FORNECEDOR QUE COBROU VALOR INDEVIDO, REVELANDO-SE CABÍVEL QUANDO A COBRANÇA INDEVIDA CONSUBSTANCIAR CONDUTA CONTRÁRIA À BOA-FÉ OBJETIVA.
+ENTRETANTO, TRATANDO-SE DE DEMANDA REVISIONAL, TAL ENTENDIMENTO NÃO SE APLICA, UMA VEZ QUE ATÉ A DECISÃO QUE REVISA O CONTRATO O DÉBITO MOSTRA-SE HÍGIDO, NÃO HAVENDO FALAR EM COBRANÇA DE VALOR INDEVIDO.
+NO CASO, DIANTE DA MODIFICAÇÃO CONTRATUAL, MOSTRA-SE CABÍVEL A COMPENSAÇÃO DE VALORES E A REPETIÇÃO DO INDÉBITO, NOS TERMOS DA SENTENÇA. NO PONTO, RECURSO DA RÉ DESPROVIDO.
+REPETIÇÃO DO INDÉBITO. CORREÇÃO. JUROS DE MORA. TRATANDO-SE DE RELAÇÃO CONTRATUAL, O VALOR DEVIDO DEVE SER CORRIGIDO PELO IGP-M, A CONTAR DO PAGAMENTO A MAIOR, E ACRESCIDO DE JUROS MORATÓRIOS DE 1% AO MÊS A PARTIR DA CITAÇÃO, DIANTE DO PREVISTO NOS ARTIGOS 240 DO CPC E 405 DO CC.
+NO CASO, NÃO ASSISTE RAZÃO À APELANTE, DE MODO QUE ESTÁ CORRETA A SENTENÇA QUE DETERMINOU QUE O VALOR DEVIDO DEVE SER CORRIGIDO NOS TERMOS ALUDIDOS, NÃO HAVENDO QUE SE FALAR EM INCIDÊNCIA DA TAXA SELIC. NO PONTO, RECURSO DA RÉ DESPROVIDO.
+APELAÇÕES. PONTO EM COMUM HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. REVISIONAL. A QUESTÃO DOS HONORÁRIOS NAS AÇÕES REVISIONAIS DEVE SEGUIR A TESE FIRMADA PELO EGRÉGIO STJ, EM SEDE DE RECURSO REPETITIVO, AO APRECIAR O TEMA 1076.
+NO CASO EM EXAME, O JUÍZO DE ORIGEM ARBITROU HONORÁRIOS DE R$ 1.000,00 EM FAVOR DO PATRONO DA AUTORA.
+A PARTE AUTORA PRETENDE QUE OS HONORÁRIOS SEJAM FIXADOS DE ACORDO COM A ORDEM DISPOSTA NO ARTIGO 85, §2º, DO CPC. A RÉ, POR SUA VEZ, DEFENDE A SUA MINORAÇÃO.
+A DEMANDA FOI AJUIZADA EM 19/12/2022 E NÃO POSSUI COMPLEXIDADE, TENDO TRANSCORRIDO COM CELERIDADE E SEM NECESSIDADE DE INSTRUÇÃO PROBATÓRIA, COM A REVISÃO DE NOVE CONTRATOS NO FEITO.
+PORTANTO, A FIM DE ADEQUAR A VERBA AOS PARÂMETROS DESTA CÂMARA, NOS TERMOS SUPRARREFERIDOS, CABÍVEL A SUA MAJORAÇÃO, DE MODO QUE FIXO HONORÁRIOS AO PATRONO DA AUTORA EM 15% SOBRE O VALOR DA CAUSA, JÁ INCLUÍDOS OS RECURSAIS, NOS TERMOS DO ARTIGO 85, §§2º E 11, DO CPC. NO PONTO, RECURSO DA AUTORA PROVIDO E DA RÉ DESPROVIDO.
+APELAÇÃO DA AUTORA PROVIDA.
+APELAÇÃO DA RÉ CONHECIDA EM PARTE E, NESTA, DESPROVIDA.
+UNÂNIME.
+Nas razões do recurso especial, a recorrente alega que o acórdão estadual contrariou as disposições contidas nos arts. 489, §1º, VI, do CPC, por omissão e negativa de prestação jurisdicional.
+Ainda, apontou a divergência jurisprudencial quanto à interpretação do art. 51, IV, e § 1º, III, do CDC. Alegou não ser possível aferir a abusividade na contratação de empréstimo bancário diante do mero cotejo entre taxas, não sendo abusivos os juros remuneratórios pactuados.
+Requereu a suspensão do processo e a concessão do benefício da gratuidade de justiça, tendo em vista a decretação de sua liquidação extrajudicial.
+A Corte de origem inadmitiu o processamento do recurso especial, levando a parte recorrente a interpor o presente agravo, por meio do qual contesta os impedimentos apontados na decisão de admissibilidade
+Apesar de intimada, a parte agravada não apresentou contraminuta.
+É o relatório.
+Decido.
+De início, descabe a suspensão do feito na fase de conhecimento, em razão da liquidação extrajudicial da recorrente. Nesse sentido: AgInt no AREsp n. 2.730.888/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/12/2024, DJe de 6/12/2024 e AgInt no AREsp n. 2.281.238/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/5/2023, DJe de 10/5/2023 .
+No mais, o entendimento do STJ é no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. DECRETAÇÃO. SUSPENSÃO. NÃO CABIMENTO. GRATUIDADE DA JUSTIÇA. PLEITO INCOMPATÍVEL COM O RECOLHIMENTO DAS CUSTAS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Ação revisional de contrato bancário.
+2. A regra contida no art. 18, "a", da Lei 6.024/1974, deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito. Na hipótese, não há que se falar em suspensão do feito por conta da decretação da liquidação extrajudicial. Precedentes.
+3. Pedido de assistência judiciária gratuita prejudicado, sendo incompatível com o recolhimento das custas.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+7. Agravo não provido.
+(AgInt no AREsp n. 2.730.888/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/12/2024, DJe de 6/12/2024.)
+No tocante à alegada afronta ao art. 489, §1º, VI do CPC, é o caso do seu não conhecimento, incidindo a Súmula 284/STF, uma vez que do acórdão que julgou a apelação na origem não houve oposição de embargos de declaração para instar a Corte estadual a sanar eventual vício contido no aresto.
+A propósito:
+RECURSO ESPECIAL. DIREITO AUTORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284 DO STF. MULTA PREVISTA EM REGULAMENTO DO ECAD. PREQUESTIONAMENTO. AUSÊNCIA. EXECUÇÃO DE OBRAS MUSICAIS PROTEGIDAS EM EVENTOS PÚBLICOS. COBRANÇA DE DIREITO AUTORAIS. INTUITO DE LUCRO. PROVEITO ECONÔMICO. DESNECESSIDADE.
+1. Ação de cobrança de direitos autorais, da qual foi extraído o presente recurso especial, interposto em 10/6/2022 e concluso ao gabinete em 10/10/2023.
+2. O propósito recursal consiste em dizer se: a) estaria caracterizada negativa de prestação jurisdicional; b) o Município possui legitimidade passiva para a ação de cobrança de direitos autorais; c) a cobrança de direitos autorais em virtude da execução de obras musicais protegidas em eventos públicos está condicionada ao objetivo ou obtenção de lucro; e d) é abusiva a aplicação de multa prevista em Regulamento do ECAD.
+3. A apontada violação aos arts. 489 e 1.022 do CPC não pode ser conhecida, pois, além da ausência de oposição de embargos de declaração na origem, os argumentos que a fundamentam são excessivamente genéricos, inclusive sem indicação clara das teses e dos dispositivos legais que não haveriam sido enfrentados pela Corte de origem, que atrai, por analogia o enunciado da Súmula 284 do STF.
+4. No que diz respeito à tese relativa à multa prevista em Regulamento do ECAD, tem-se, no ponto, inviável o debate, porquanto não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+5. Na hipótese dos autos, ressalta a legitimidade passiva ad causam da parte recorrente na medida em que, conforme se extrai do acórdão recorrido, todos os eventos públicos relacionados com a presente demanda foram realizados, incontroversamente, pelo Município réu.
+6. O sistema erigido para a tutela dos direitos autorais no Brasil, filiado ao chamado sistema francês, tem por escopo incentivar a produção intelectual, transformando a proteção do autor em instrumento para a promoção de uma sociedade culturalmente diversificada e rica. Nesse contexto, se por um lado é fundamental incentivar a atividade criativa, por outro, é igualmente importante garantir o acesso da sociedade às fontes de cultura.
+7. À luz da Lei n. 9.610/1998, a cobrança de direitos autorais em virtude da execução de obras musicais protegidas em eventos públicos não está condicionada ao objetivo ou obtenção de lucro.
+8. Recurso especial não provido.
+(REsp n. 2.098.063/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/11/2023, DJe de 13/11/2023.)
+No que se refere à questão de fundo, a jurisprudência do STJ é no sentido de que o simples cotejo entre a taxa de juros pactuada e a média de mercado, de forma abstrata e apriorística, não é critério admitido para a apuração da abusividade, devendo eventual afastamento da taxa contratada estar amparado na análise das peculiaridades da causa.
+Nesse sentido:
+RECURSO ESPECIAL. CONTRATO DE MÚTUO BANCÁRIO. JUROS REMUNERATÓRIOS. REVISÃO. CARÁTER ABUSIVO. REQUISITOS. NECESSIDADE DE FUNDAMENTAÇÃO ADEQUADA.
+1- Recurso especial interposto em 19/4/2022 e concluso ao gabinete em 4/7/2022.
+2- O propósito recursal consiste em dizer se: a) a menção genérica às "circunstâncias da causa" não descritas na decisão, acompanhada ou não do simples cotejo entre a taxa de juros prevista no contrato e a média praticada no mercado, é suficiente para a revisão das taxas de juros remuneratórios pactuadas em contratos de mútuo bancário; e b) qual o incide a ser aplicado, na espécie, aos juros de mora.
+3- A Segunda Seção, no julgamento REsp n. 1.061.530/RS, submetido ao rito dos recursos especiais repetitivos, fixou o entendimento de que "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+4- Deve-se observar os seguintes requisitos para a revisão das taxas de juros remuneratórios: a) a caracterização de relação de consumo; b) a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada; e c) a demonstração cabal, com menção expressa às peculiaridades da hipótese concreta, da abusividade verificada, levando-se em consideração, entre outros fatores, a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas.
+5- São insuficientes para fundamentar o caráter abusivo dos juros remuneratórios: a) a menção genérica às "circunstâncias da causa" - ou outra expressão equivalente; b) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e c) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual.
+6- Na espécie, não se extrai do acórdão impugnado qualquer consideração acerca das peculiaridades da hipótese concreta, limitando-se a cotejar as taxas de juros pactuadas com as correspondentes taxas médias de mercado divulgadas pelo BACEN e a aplicar parâmetro abstrato para aferição do caráter abusivo dos juros, impondo-se, desse modo, o retorno dos autos às instâncias ordinárias para que aplique o direito à espécie a partir dos parâmetros delineados pela jurisprudência desta Corte Superior.
+7- Recurso especial parcialmente provido.
+(REsp n. 2.009.614/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS.
+1. De acordo com a orientação adotada no julgamento do REsp. 1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+2. Prevaleceu o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média.
+3. O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação.
+4. A redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado, em atenção às supostas "circunstâncias da causa" não descritas, e sequer referidas no acórdão - apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada no REsp. 1.061.530/RS.
+5. Hipótese, ademais, em que as parcelas foram prefixadas, tendo o autor tido conhecimento, no momento da assinatura do contrato, do quanto pagaria do início ao fim da relação negocial.
+6. Agravo interno provido.
+(AgInt no AREsp n. 1.522.043/RS, relator Ministro Marco Buzzi, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/11/2020, DJe de 10/3/2021.)
+Na espécie, observa-se que o Tribunal de origem considerou abusivos os juros remuneratórios não apenas com base no cotejo de taxas, mas amparado também nas circunstâncias da causa.
+A propósito, confira-se (e-STJ, fls. 815-819):
+ ..
+ENCARGOS DA NORMALIDADE
+JUROS REMUNERATÓRIOS
+No tocante aos juros remuneratórios, as orientações do Superior Tribunal de Justiça, extraídas do julgamento do Recurso Especial n. 1.061.530/RS, datado de 22/10/2008, enfrentado para os efeitos do art. 1.036 do CPC são:
+(..)
+I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE.
+ORIENTAÇÃO. 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+(..)
+Neste norte, impende referir que um dos parâmetros para apuração da existência de abusividade na contratação, é a taxa média de mercado registrada pelo Banco Central do Brasil - BACEN, à época da contratação, e em conformidade com a respectiva operação.
+Todavia, esta não constitui critério único ou absoluto para aferir-se a abusividade da taxa de juros remuneratórios contratada, de acordo com o entendimento do Superior Tribunal de Justiça, conforme os seguintes precedentes:
+ ..
+A partir de contexto, observa-se que a redução dos juros remuneratórios depende de comprovação da onerosidade excessiva, ou seja, capaz de colocar o consumidor em desvantagem exagerada, no caso concreto, tendo como parâmetro, aliada a outros vetores que circundam a contratação, a taxa média de mercado para as operações correspondentes.
+Portanto, também devem ser analisadas as peculiaridades inerentes ao caso concreto, de modo que deve haver criteriosa ponderação em relação ao tipo de operação de crédito contratado, a época em que firmado o contrato, o valor disponibilizado ao consumidor, bem como o prazo de pagamento e/ou financiamento, os custos inerentes à captação de recursos, a capacidade econômica do contratante, as garantias eventualmente exigidas, e ainda, a imprescindível análise do perfil de risco de crédito do contratante.
+Desse modo, a taxa média de juros divulgada pelo Bacen é apenas um referencial a ser ponderado para fins de constatação da prática abusiva dos juros, contudo, não impõe um limite que deve ser obrigatoriamente observado pelas instituições financeiras, na medida em que esta deve ser aplicada somente na hipótese d e comprovação de cobrança exorbitante de juros, capaz de colocar o consumidor em desvantagem exagerada.
+ ..
+No caso concreto, verifica-se que a taxa de juros remuneratórios contratada discrepa substancialmente da taxa de juros divulgada pelo Bacen à época da contratação correspondente, já acrescida do percentual de 50%, o que se mostra exorbitante, estando configurada a flagrante abusividade, diante das peculiaridades que envolvem a contratação, em especial:
+a) tipo de operação - já descrita, cabendo mencionar que para cada tipo de operação, o Banco Central mede a taxa média de juros específica da respectiva operação, conforme constou na tabela supra;
+ademais, o risco é zero ao banco, por se tratar de crédito consignado descontado diretamente da folha de pagamento do consumidor;
+b) época da contratação - já descrita, não existindo, nesse momento, nenhum evento que justifique alguma elevação de juros no mercado;
+c) valor disponibilizado - já descrito, sendo um valor normal para a concessão de empréstimo, não justificando alteração de juros;
+d) prazo ajustado para pagamento - já descrito, salientando que o número de parcelas não causou aumento ou diminuição de juros no mercado;
+e) perfil de risco do contratante - não há informação nos autos, mas nada que conste como perfil negativado;
+f) custo do contrato - sem informações;
+g) custo da captação de valores - sem informações;
+h) spread bancário - sem informações;
+i) garantia ofertada - sem informações; e, j) relacionamento mantido com o banco - inexiste informação de que o financiado seria cliente antigo ou eventual, a fim de justificar a alteração de juros.
+Como visto, em relação ao custo do contrato, custo de captação dos valores e o spread bancário, a instituição financeira não trouxe aos autos nenhuma informação, ônus que lhe incumbia, a teor do artigo 373, inciso II, do CPC.
+Em decorrência disso, resta inviabilizado o conhecimento, por este órgão julgador, do referido spread bancário, ou seja, do lucro ou ganho que a instituição  nanceira aufere no cotejo entre o custo da captação do recurso e os juros remuneratórios aplicados à operação de crédito contratada.
+Caracterizada, portanto, a relação de consumo, a elevada taxa de juros remuneratórios pactuada não encontra qualquer mitigação ou justificativa nos autos, concluindo-se pela efetiva abusividade praticada em face do consumidor, o qual é colocado em exagerada desvantagem frente à instituição financeira no contexto da relação contratual sub judice.
+Assim, in casu, cabível a limitação dos juros remuneratórios à taxa média de mercado divulgada pelo Bacen, à época da contratação correspondente (códigos 20745 e 25467 - Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal consignado setor público), nos termos da sentença, sem qualquer acréscimo.
+Dessa forma, por estar o acórdão recorrido em harmonia com a orientação jurisprudencial deste Tribunal, de rigor a aplicação do enunciado sumular n. 83/STJ.
+Ademais, para desconstituir o entendimento estadual, concluindo que a taxa de juros remuneratórios cobrada não seria abusiva, seriam necessários a interpretação de cláusulas contratuais e o revolvimento de fatos e provas, providências vedadas na via eleita, ante a previsão contida nos enunciados n. 5 e 7 da Súmula desta Corte de Justiça.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, desprovê-lo.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO BANCÁRIO. 1. PEDIDO DE EFEITO SUSPENSIVO INDEFERIDO. 2. GRATUIDADE DE JUSTIÇA. BENESSE NÃO CONCEDIDA. 3. JUROS REMUNERATÓRIOS. INDICAÇÃO, NO ACÓRDÃO ESTADUAL, DE CIRCUNSTÂNCIAS CONCRETAS APTAS A EVIDENCIAR A ABUSIVIDADE DA TAXA CONTRATADA. SÚMULAS 5, 7 E 83/STJ. 4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DESPROVÊ-LO.
