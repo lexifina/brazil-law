@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado pelo Juízo Federal da 11ª Vara de Execução Fiscal do Rio de Janeiro/RJ, ora suscitante, em face do Juízo Federal da 11ª Vara de Execução Fiscal do Distrito Federal/DF, ora suscitado, nos autos de ação de execução de título extrajudicial.
+O Juízo Federal da 11ª Vara de Execução Fiscal do Rio de Janeiro/RJ, ora suscitante, ao se manifestar nos autos, consignou que "o contrato de empréstimo celebrado entre as partes indica, em sua cláusula 19, que "Fica eleito o foro da Justiça Federal da Seção Judiciária do Distrito Federal para dirimir quaisquer dúvidas ou questões decorrentes desta normas, com renúncia expressa a qualquer outro, por mais privilegiado que seja" (Evento 1, ANEXO4)" (e-STJ, fl. 21).
+O Juízo Federal da 11ª Vara de Execução Fiscal do Distrito Federal/DF, ora suscitado, por seu turno, se considerou incompetente, consignando que "reputo abusiva a referida cláusula de eleição de foro, tendo em vista que, nitidamente, constitui verdadeiro empecilho para o Executado, parte hipossuficiente da relação, no efetivo exercício de seu direito à ampla defesa e ao contraditório, uma vez que não se encontra domiciliado no Distrito Federal, conforme endereço indicado na inicial" (e-STJ, fl. 18).
+O Ministério Público Federal manifestou-se no sentido de se declarar competente o Juízo Federal da 11ª Vara de Execução Fiscal do Distrito Federal/DF, ora suscitado. Eis a ementa do parecer (e-STJ, fl. 29):
+- Conflito negativo de competência estabelecido entre Juízos vinculados a Tribunais diversos.
+- "Cuidando-se de competência territorial, cuja natureza relativa comporta prorrogação, não é dado ao juiz declarar-se incompetente de ofício, incidindo, no ponto, o enunciado nº 33 da súmula deste Tribunal." (CC 19.334/MG, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, SEGUNDA SEÇÃO, julgado em 28/11/2001, DJ 25/02/2002, p. 195). Precedentes do STJ.
+- Parecer, preliminarmente, pelo conhecimento do conflito negativo de competência, para que, no mérito, seja declarado competente o MM. Juízo da 11 a Vara de Execução Fiscal do Distrito Federal/DF.
+É o relatório.
+Decido.
+Como cediço, em se tratando de competência territorial, que possui natureza relativa, não se é possível ao juízo declará-la de ofício, podendo ser alegada pela parte demandada, como questão preliminar em sua contestação. Com efeito, nos termos da Súmula n. 33/STJ: "a incompetência relativa não pode ser declarada de ofício".
+A mudança do Juízo, em casos tais, exige manifestação da parte demandada, em obediência ao princípio da perpetuatio jurisdictionis (CPC/2015, art. 43).
+Conforme mencionado pelo d. representante do Ministério Público Federal, em seu parecer (e-STJ, fls. 29/33, sem grifos no original):
+05. Instado a se manifestar, e ciente da controvérsia, o MINISTÉRIO PÚBLICO FEDERAL preliminarmente opina pelo conhecimento e processamento do presente conflito negativo de competência, porque satisfeitos se apresentam os pressupostos de constituição e de desenvolvimento válido e regular do respectivo processo incidental.
+06. A seu turno, no mérito, competente é o MM. Juízo da 11 a Vara de Execução Fiscal do Distrito Federal/DF.
+07. Com efeito, cumpre observar que não se discute aqui competência em razão da matéria e nem funcional, estando a questão restrita à competência territorial, portanto, de natureza relativa, pela regra do artigo 64, caput 1 , do Código de Processo Civil, de modo que a incompetência somente poderia ser declarada mediante provocação da parte e não de ofício, como ocorreu no caso. Incide, na espécie, o enunciado da Súmula nº 33/STJ, segundo o qual: "A INCOMPETÊNCIA RELATIVA NÃO PODE SER DECLARADA DE OFÍCIO".
+08. Assim, tratando-se de ação execução de título executivo extrajudicial, com foro de eleição estipulado em contrato, a competência é territorial, portanto relativa, não podendo o MM. Juízo da 11 a Vara de Execução Fiscal do Distrito Federal/DF declinar de ofício de sua competência. Nesse sentido:
+(..)
+09. Pelas razões expostas, e ao lume dos precedentes transcritos, o MINISTÉRIO PÚBLICO FEDERAL opina no sentido de que seja declarado competente para o processamento e o julgamento da ação, o MM. Juízo da 11 a Vara de Execução Fiscal do Distrito Federal/DF.
+Nos termos da jurisprudência deste Superior Tribunal, "A incompetência relativa deve ser arguida por meio de exceção, não podendo ser declarada de ofício. Incidência da Súmula 33/STJ, segundo a qual: "a incompetência relativa não pode ser declarada de ofício"" (CC n. 102.965/BA, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 25/3/2019, DJe de 6/4/2019).
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. COMPETÊNCIA TERRITORIAL. PEDIDO DE ALTERAÇÃO DA COMPETÊNCIA PELO AUTOR. ENDEREÇO DO EXECUTADO.
+I - Cuida-se de conflito negativo de competência, suscitado pela 1ª Vara Federal de Diamantino/MT, nos autos da Execução Fiscal interposta pela Comissão de Valores Imobiliários - CVM em face de Agromon S/A Agricultura e Pecuária.
+II - A ação executiva foi ajuizada na Subseção Judiciária de São Paulo, contudo o executado não foi localizado naquela subseção, tendo o juízo originário declinado a competência em favor do juízo ora suscitante, sob o argumento de que o domicílio fiscal do executado se encontrava na cidade de São José do Rio Claro - MT.
+Após o ajuizamento da execução o exequente pleiteou a alteração da competência, razão pela qual decidiu o juízo originário declinar a competência conforme acima referido. Discordando desse entendimento, o MM. Juízo Federal da 1ª Vara de Diamantino - SJ/MT suscita o presente conflito de competência, perante esse Egrégio Superior Tribunal de Justiça.
+II - Conforme definido no art. 64, § 1º, do CPC/2015, a incompetência relativa somente pode ser alegada em preliminar de contestação.
+Escolhido pelo exequente dentre as jurisdições possíveis aquela do ajuizamento da demanda, a competência se estabelece, não sendo possível a alteração por pedido do autor diante da ausência de amparo legal.
+III - Conflito de competência conhecido para declarar competente o suscitado, juízo da 6ª Vara Federal de execuções fiscais de São Paulo. (CC n. 166.952/MT, relator Ministro Francisco Falcão, Primeira Seção, julgado em 28/8/2019, DJe de 2/9/2019, grifei.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. INVENTÁRIO. COMPETÊNCIA TERRITORIAL. NATUREZA RELATIVA. SÚMULA 33/STJ.
+1. A competência para o processo sucessório, definida no art. 48 do CPC/15, é relativa.
+2. A incompetência relativa não pode ser declarada de ofício, segundo enuncia a Súmula 33 do STJ.
+3. Agravo interno não provido. (AgRg no CC n. 191.197/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/4/2023, DJe de 25/4/2023, grifei.)
+CONFLITO POSITIVO DE COMPETÊNCIA. AGRAVO INTERNO. AÇÕES CONEXAS. JUÍZES COM COMPETÊNCIA TERRITORIAL DIFERENTE. PREVENÇÃO DO JUÍZO DE ACORDO COM A ANTERIORIDADE DA CITAÇÃO VÁLIDA. CONTRATO DE COMPRA E VENDA COM RESERVA DE DOMÍNIO. EQUIPAMENTOS MÉDICOS.
+Tratando-se de competência territorial, portanto, relativa, se o réu, citado, não argüir, tempestivamente, a incompetência, prorroga-se a do juízo onde foi realizada primeiramente a citação, pois esse ato torna prevento o juízo, na forma do artigo 219 caput do Código de Processo Civil.
+Agravo a que se nega provimento. (AgRg no AgRg no CC n. 41.523/RJ, relator Ministro Castro Filho, Segunda Seção, julgado em 14/2/2005, DJ de 14/3/2005 )
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Federal da 11ª Vara de Execução Fiscal do Distrito Federal/DF, ora suscitado.
+Publique-se. Intime-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. AÇÃO MONITÓRIA. FORO DE ELEIÇÃO. COMPETÊNCIA RELATIVA. PEDIDO DO AUTOR PARA ALTERAÇÃO DO FORO, POR PROVOCAÇÃO DO JUÍZO A QUEM O FEITO FOI DISTRIBUÍDO. IMPOSSIBILIDADE. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
