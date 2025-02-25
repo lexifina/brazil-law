@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 673/681) interposto contra decisão da Presidência desta Corte Superior que não conheceu do agravo nos próprios autos, por considerar o recurso especial extemporâneo (e-STJ fls. 668/669).
+Em suas razões, a agravante alega a existência de causas suspensivas na contagem do prazo recursal, o que tornaria o agravo nos próprios autos tempestivo.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+É o relatório.
+Decido.
+A Lei n. 14.939/2004 trouxe nova redação ao art. 1.003, § 6º, do CPC/2015, dispondo que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+A Corte Especial do STJ, no julgamento da Questão de Ordem no Agravo em Recurso Especial n. 2.638.376/MG, decidiu, por maioria, que "os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense".
+Na petição de agravo interno, a parte agravante comprovou a suspensão do expediente forense nos dias 12/2/2024 e 13/2/2024 (Feriados locais da Segunda-Feira e da Terça-Feira de Carnaval), motivo pelo qual é forçoso reconhecer a tempestividade do recurso especial, interposto em 19/2/2024 contra o acórdão recorrido de fls. 532/543 (e-STJ), da qual a contraparte fora intimada em 25/1/2024 (e-STJ fls. 544/545).
+Desse modo, reconsidero a decisão agravada (inclusive quanto ao arbitramento de honorários recursais) e passo ao exame do especial.
+O acórdão do TJGO traz a seguinte ementa (e-STJ fl. 534):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE DANO MORAL E TUTELA DE URGÊNCIA. GRATUIDADE DA JUSTIÇA. PLANO DE SAÚDE. LEI 9.656/98. ANS. INADIMPLEMENTO POR PERÍODO SUPERIOR A SESSENTA DIAS RESCISÃO UNILATERAL DE CONTRATO. PRÉVIA NOTIFICAÇÃO DA MORA NO ENDEREÇO INFORMADO NO CONTRATO. NOTIFICAÇÃC POR EDITAL. VALIDADE. DANO MORAL. LITIGÂNCIA DE MÁ-FÉ.
+1. Diante de comprovação da impossibilidade de arcar com os encargos processuais sem prejudicar o sustento de sua família, deve ser deferida s gratuidade de justiça, em consonância com a Súmula 25 deste Tribunal.
+2. Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão. Súmula 608 do STJ.
+3. A Lei 9.656/98, reguladora dos planos de saúde privados determina hipóteses que autorizam a rescisão unilateral do contrato, a qual inclui a inadimplência por mais de 60 (sessenta) dias, consecutivos ou não dentro do período de 12 (doze) meses, desde que notifiquem o consumidor até o quinquagésimo dia de inadimplência.
+4. Demonstrado que houve reiteradas tentativas infrutíferas de realização da notificação da apelante em seu endereço, a notificação por edital deve ser referendada, visto que realizada de acordo com orientação normativa do órgão regulador competente, especificamente a Súmula Normativa nº 28 da ANS.
+5. Ausente vício a impor a desconstituição do ato de cancelamento do plano
+de saúde, não há que se falar em danos morais.
+6. A precariedade das razões do apelo, por si só, não justifica a imposição dessa penalidade, porquanto, por mais que, ao final, se considerem desarrazoados os fundamentos aduzidos pela apelante, não está demonstrada sua intenção deliberada de alterar a verdade dos fatos ou de proceder de modo temerário, com o intuito de causar prejuízo ao apelado, estando, pois, ausentes os requisitos do art. 80 do CPC/15. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+No recurso especial (e-STJ fls. 546/570), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aduziu dissídio jurisprudencial e ofensa ao art. 13, parágrafo único, II, da Lei n. 9.656/1998, argumentando que a rescisão unilateral do plano de saúde se revestiria de abuso, visto que o plano de saúde teria comprovado o envio de notificação pessoal ao endereço da usuária, antes do cancelamento mencionado.
+Foram ofertadas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 611/623).
+A Corte local, soberana na análise do conjunto fático-probatório dos autos, assentou que as circunstâncias do caso concreto, verificadas no momento do julgamento, não demonstravam o abuso do plano de saúde referente ao cancelamento unilateral do contrato, pois ele comprovou o esgotamento das diligências de tentativa de notificação pessoal da parte recorrente como medida antecedente da notificação por edital dela . Confira-se o seguinte excerto (e-STJ fls. 537/540):
+De início, registro que a autora não negou a situação de inadimplência, porquanto, na petição inicial (movimentação 1), justificou "que nos meses de julho e agosto de 2016 ocorreu atraso, por motivo alheio à sua vontade."
+Para solução da demanda, importa salientar que a Lei 9.656/98, reguladora dos planos de saúde privados, determina hipóteses que autorizam a rescisão unilateral do contrato, dentre as quais está inclusa a inadimplência por mais de 60 (sessenta) dias, consecutivos ou não, dentro do período de 12 (doze) meses, desde que notifiquem o consumidor até o quinquagésimo dia de inadimplência, senão vejamos:
+ ..
+Dessa forma, depreende-se que a notificação do consumidor é condição essencial ã rescisão unilateral do contrato de plano de saúde, cuja inobservância resulta na invalidação do distrato.
+Conforme salientado pela apelante, a rescisão contratual decorreu do inadimplemento do título nº 11992275, referente ao mês de julho.
+Das provas acostadas aos autos, movimentação 56 (doe. 8 e 9), verifica-se que foram enviadas duas notificações via correios com aviso de recebimento (AR), referentes ao título nº 11992275, para o endereço da apelada. Em cada um dos ARs, consta que foram realizadas três tentativas de entrega da correspondência, totalizando 6 tentativas, em dias e horários distintos, contudo todas foram infrutíferas pela ausência de alguém no local.
+Assim, diante do fato de a consumidora nunca ser encontrada em sua residência, realizou-se notificação editalícia, em 11/08/2016, através de jornal de grande circulação na cidade da consumidora, ora apelante.
+Tais medidas estão de acordo com a Súmula Normativa nº 28 da ANS:
+ ..
+Demonstrado que houve reiteradas tentativas infrutíferas de realização da notificação da apelante em seu endereço, visualiza-se óbice real ã notificação pessoal, assim, a notificação por edital deve ser referendada, visto que realizada de acordo com orientação normativa do órgão regulador competente.
+ ..
+Quanto à notificação recebida pelo filho da apelante, esclareço esta não influenciará no julgamento do apelo, porquanto refere-se à mensalidade distinta a que deu causa à rescisão, portanto, não se trata de documento hábil a modificar o desfecho da demanda.
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, RECONSIDERO a decisão agravada, para, afastando a intempestividade do recurso especial, NEGAR PROVIMENTO ao agravo nos próprios autos.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 541), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
