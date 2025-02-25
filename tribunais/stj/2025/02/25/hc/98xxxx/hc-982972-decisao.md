@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício de ROMARIO NOGUEIRA DOS SANTOS - condenado como incurso nos arts. 157, § 2º-A, I, e 330, caput, ambos do Código Penal, bem como no art. 14, caput, da Lei n. 10.826/2003, à pena total de 15 anos, 7 meses e 10 dias de reclusão, 27 dias de detenção e 67 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça do Espírito Santo, em razão do acórdão proferido no julgamento da Apelação n. 0001751-30.2023.8.08.0030.
+Sustenta-se que, no caso em tela, autoria do delito foi baseada, unicamente, em reconhecimento feito fora das norma delineadas pelos artigos 226 e seguintes do Código de Processo Penal (fl. 6). Aduz-se que, absurdamente, houve  ..  a condenação com base em reconhecimento feito por aparência e em razão da vestimenta cujo crime teria ocorrido cinco dias antes, ou seja, para que fosse verídico o reconhecimento, deveria o réu estar usando as mesmas vestes de cinco dias anteriores ou permanecer usando a mesma roupa durante todo este tempo, o que, data venia, não é crível (fl. 8).
+Busca-se a concessão liminar da ordem para que seja declarada a nulidade do reconhecimento realizado sem a observância do Código de Processo Penal, com a imediata soltura do paciente e, ao final, a sua absolvição.
+É o relatório.
+O writ, no entanto, é manifestamente inadmissível.
+No caso, a condenação do paciente já é definitiva. Assim, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 825.424/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/7/2024; e AgRg no HC n. 901.897/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 26/6/2024.
+Ademais, não há flagrante ilegalidade apta a justificar a concessão da ordem de ofício, considerando que: a) nos termos da jurisprudência desta Corte, "se existentes outras provas válidas e independentes, para além do reconhecimento fotográfico ou pessoal, a confirmar a autoria delitiva, mantém-se irretocável o édito condenatório" (AgRg no AREsp n. 2.109.968/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/10/2022, DJe de 21/10/2022) - (AgRg no HC n. 865.475/GO, Ministro Og Fernandes, Sexta Turma, DJe 10/10/2024) , o que parece ser o caso dos autos, já que houve a apreensão da motocicleta roubada em sua posse  do ora paciente  (fl. 12); e b) a pretensão absolutória baseada na ausência ou suposta fragilidade probatória acerca da autoria, implica inevitavelmente em revolvimento fático probatório, mister vedado pela via eleita (AgRg no HC n. 660.956/DF, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/11/2021).
+Pelo exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE CABIMENTO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
