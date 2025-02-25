@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EXECUÇÃO PENAL. RECURSO ESPECIAL. EXECUÇÃO DE PENA DE MULTA. DECURSO DO PRAZO DE 90 DIAS. COMPETÊNCIA PRIORITÁRIA DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE PRAZO DECADENCIAL. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo que negou provimento a agravo em execução, mantendo a legitimidade do Ministério Público para promover a execução de pena de multa, mesmo após o decurso de 90 dias do trânsito em julgado.
+2. O acórdão recorrido fundamentou-se no entendimento de que a execução da pena de multa é prioritariamente do Ministério Público, com atribuição subsidiária à Fazenda Pública em caso de inércia do órgão ministerial, conforme jurisprudência do Supremo Tribunal Federal e alterações legislativas.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se há prazo decadencial para o Ministério Público propor a execução da pena de multa após o decurso de 90 dias do trânsito em julgado da sentença condenatória.
+III. RAZÕES DE DECIDIR
+4. O Tribunal de origem interpretou corretamente que o prazo de 90 dias para o Ministério Público ajuizar a execução da pena de multa não é decadencial.
+5. A jurisprudência do Superior Tribunal de Justiça confirma que a legitimidade do Ministério Público para a execução da pena de multa é prioritária, e a Fazenda Pública só atua de forma subsidiária em caso de inércia do Parquet. Além disso, o prazo de 90 dias para a propositura da ação é construção jurisprudencial, não incidindo, no caso, prazo decadencial.
+6. A decisão está em conformidade com o entendimento do Supremo Tribunal Federal na ADI 3.150, que reconhece a legitimidade prioritária do Ministério Público para a execução de penas de multa.
+IV. RECURSO ESPECIAL DESPROVIDO.
+RELATÓRIO
+Trata-se de recurso especial interposto por YGOR MESSIAS BONATE ALVES, com fundamento no artigo 105, III, a, da Carta Magna, contra acórdão proferido pela 14ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que negou provimento ao seu recurso de agravo em execução, nos termos da seguinte ementa (e-STJ fl. 128):
+Agravo de Execução Penal. Recurso defensivo. Ação de execução de pena de multa proposta pelo Ministério Público, seguida de pedido de extinção da execução pela Defensoria Pública, sob fundamento da hipossuficiência do sentenciado e ilegitimidade do Parquet para a cobrança. Indeferimento do pedido de extinção que deverá ser mantido. Interesse de agir verificado. Atribuição meramente subsidiária do órgão da fazenda pública para a cobrança, em caso de inação do órgão ministerial. Cobrança ajuizada pelo Ministério Público, conquanto após lapso de 90 dias, que afasta a atribuição subsidiária da Procuradoria da Fazenda Pública. Ausência de decurso do prazo prescricional. Sanção pecuniária dotada de caráter penal. Necessidade de efetivação da decisão penal condenatória transitada em julgado. Tema 931 da sistemática de recursos repetitivos do STJ. Alegação de hipossuficiência não lastreada em qualquer elemento de prova, não se podendo presumi-la. Recurso defensivo desprovido.
+No presente recurso, a defesa sustenta a violação do art. 927, inciso I, do Código de Processo Civil, ao argumento de que o tribunal de origem não observou o que foi decidido no julgamento da ADI 3150, em razão da ausência de legitimidade do Ministério Público em execução da pena de multa de natureza penal quando decorrido o prazo de 90 dias do trânsito em julgado.
+Após a apresentação das contrarrazões pelo Ministério Público de São Paulo (e-STJ fls. 153-158), o apelo nobre foi admitido (e-STJ fls. 161-162).
+O Ministério Público Federal se manifestou pela não conhecimento do recurso especial, nos termos da seguinte ementa (e-STJ fls. 173-176):
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL EM AGRAVO EM EXECUÇÃO PENAL. COMPETÊNCIA PARA EXECUTAR MULTA PENAL. COBRANÇA DE PENA DE MULTA AJUIZADA PELO MINISTÉRIO PÚBLICO APÓS DECORRIDOS 90 DIAS. POSSIBILIDADE. LEGITIMIDADE PRIORITÁRIA DO ÓRGÃO MINISTERIAL E SUBSIDIÁRIA DA FAZENDA PÚBLICA. INCIDÊNCIA DA SÚMULA 83/STJ. PARECER POR PROVIMENTO DO RECURSO ESPECIAL MINISTERIAL A BEM DE UMA JUSTIÇA INERME (NE PROCEDAT IUDEX EX OFFICIO), IMPARCIAL, TRANSPARENTE (PÚBLICA, PUBLICADA), MOTIVADA (NA LEI E JURISPRUDÊNCIA), SEGURA, EFETIVA, EFICIENTE, EFICAZ, EXEQUÍVEL (APÓS DEFINITIVO TRÂNSITO EM JULGADO A AMBAS AS PARTES DA RELAÇÃO PROCESSUAL PENAL), CONSEQUENTE E RESPONSÁVEL.
+É o relatório.
+EMENTA
+EXECUÇÃO PENAL. RECURSO ESPECIAL. EXECUÇÃO DE PENA DE MULTA. DECURSO DO PRAZO DE 90 DIAS. COMPETÊNCIA PRIORITÁRIA DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE PRAZO DECADENCIAL. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo que negou provimento a agravo em execução, mantendo a legitimidade do Ministério Público para promover a execução de pena de multa, mesmo após o decurso de 90 dias do trânsito em julgado.
+2. O acórdão recorrido fundamentou-se no entendimento de que a execução da pena de multa é prioritariamente do Ministério Público, com atribuição subsidiária à Fazenda Pública em caso de inércia do órgão ministerial, conforme jurisprudência do Supremo Tribunal Federal e alterações legislativas.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se há prazo decadencial para o Ministério Público propor a execução da pena de multa após o decurso de 90 dias do trânsito em julgado da sentença condenatória.
+III. RAZÕES DE DECIDIR
+4. O Tribunal de origem interpretou corretamente que o prazo de 90 dias para o Ministério Público ajuizar a execução da pena de multa não é decadencial.
+5. A jurisprudência do Superior Tribunal de Justiça confirma que a legitimidade do Ministério Público para a execução da pena de multa é prioritária, e a Fazenda Pública só atua de forma subsidiária em caso de inércia do Parquet. Além disso, o prazo de 90 dias para a propositura da ação é construção jurisprudencial, não incidindo, no caso, prazo decadencial.
+6. A decisão está em conformidade com o entendimento do Supremo Tribunal Federal na ADI 3.150, que reconhece a legitimidade prioritária do Ministério Público para a execução de penas de multa.
+IV. RECURSO ESPECIAL DESPROVIDO.
+VOTO
+Cinge-se a controvérsia em verificar se as instâncias ordinárias deram a correta interpretação ao art. 927, inciso I do Código de Processo Civil.
+Acerca do tema, assim se manifestou o Tribunal de origem:
+Em atenção ao entendimento fixado pelo Supremo Tribunal Federal no julgamento da ADI 3.150, legitimidade prioritária do Ministério Público para promover a execução da pena de multa perante o Juízo das Execuções Penais, tampouco quanto ao fato de que referida sanção, embora dívida de valor, possui caráter penal.
+Consoante decidido pela Suprema Corte, apenas de forma subsidiária, e em caso de inércia do órgão ministerial, é reconhecida legitimidade à Fazenda Pública para a cobrança da dívida em sede de execução fiscal, observando-se o procedimento da Lei 6.830/80.
+ ..
+Acresça-se que, após a alteração promovida pela Lei 13.964/19 na redação artigo 51 do Código Penal, tal entendimento foi positivado no ordenamento: "Art. 51. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal e será considerada dívida de valor, aplicáveis as normas relativas à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição."
+Extrai-se do julgado e texto legal acima transcritos que a atribuição para ajuizamento da execução da pena de multa é prioritariamente do Parquet, exsurgindo atribuição meramente subsidiária da Procuradoria da Fazenda Pública em caso de inação do órgão ministerial. Eventual decurso do prazo de 90 dias para ajuizamento da ação de execução que não obsta o exercício da atribuição prioritária do Ministério Público para tanto, eis que inocorrente a prescrição da sanção.
+O Tribunal de origem, ao manter a decisão do Juízo da execução, consignou que o decurso do prazo de 90 dias para o ajuizamento da ação de execução não impende o exercício da atribuição prioritária do Ministério Público para a postulação.
+Sabe-se que " .. conforme entendimento do STF, (i) o Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, observado o procedimento descrito pelos artigos 164 e seguintes da Lei de Execução Penal; e ii) caso o titular da ação penal, devidamente intimado, não proponha a execução da multa no prazo de 90 (noventa) dias, o Juiz da execução criminal dará ciência do feito ao órgão competente da Fazenda Pública (Federal ou Estadual, conforme o caso) para a respectiva cobrança na própria Vara de Execução Fiscal, com a observância do rito da Lei n. 6.830/1980.  ..  " (AgRg no AREsp n. 2.222.146/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2023, DJe de 15/5/2023.).
+No caso, a controvérsia surge se existe prazo decadencial para o Ministério Público propor a ação de execução da pena de multa quando decorrido o prazo de 90 dias para o ajuizamento da referida ação.
+Assim, o acórdão recorrido está em conformidade com a jurisprudência desta Corte, a qual vem decidindo que o prazo de 90 dias para o ajuizamento da ação de execução por parte do Ministério Público decorre da construção jurisprudencial, não se extraindo da ADI n. 3150/DF prazo decadencial que impeça que o órgão possa propor a ação de execução, subsistindo, portanto, o interesse de agir. Nesse sentido segue a decisão monocrática: REsp n. 2.170.973, Ministro Joel Ilan Paciornik, DJe de 01/10/2024.
+Ante o exposto, nego provimento ao recurso especial.
+É o voto.
