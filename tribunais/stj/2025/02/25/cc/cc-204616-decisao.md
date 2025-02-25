@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o Tribunal Regional do Trabalho da 15ª Região, ora suscitante, e o Juízo de Direito da 2ª Vara Cível de São Sebastião/SP, ora suscitado, nos autos da Ação ordinária ajuizada por Vanderson Kelerman Botelho contra o Órgão Gestor de Mão de Obra do Porto de São Sebastião/SP e do Instituto Mais de Gestão e Desenvolvimento Social, objetivando a anulação da fase de exame psicotécnico do Concurso Público n. 01/2014, realizado pelo primeiro réu sob administração do segundo, por aus ência de previsão legal.
+O Juízo Comum julgou procedente a demanda, confirmando a tutela antecipada, "para declarar a nulidade da exigência de exame psicotécnico, com natureza eliminatória, no concurso público em análise, devendo referido exame não ser considerado na aferição da habilitação do autor" (fls. 80-81).
+Interposta apelação pelo Órgão Gestor de Mão de Obra do Porto de São Sebastião/SP, o Tribunal de São Paulo, reconhecendo a incompetência da Justiça Comum, anulou a sentença, de ofício, e determinou a remessa dos autos a uma das Varas do Trabalho do Município de São Sebastião (fls. 93-96).
+Recebidos os autos, o Juízo da Vara do Trabalho de São Sebastião, igualmente, julgou procedente o pedido formulado "para declarar nula a exigência de realização de exame psicológico com caráter eliminatório no certame para seleção de mão de obra avulsa pelo OGMO de São Sebastião" (fls. 86-90).
+Ao julgar o recurso ordinário interposto pelo OGMO de São Sebastião, o Tribunal Regional do Trabalho da 15ª Região declarou a incompetência da Justiça do Trabalho para conhecer e decidir a presente demanda e suscitou o presente conflito (fls. 105-107).
+O Ministério Público Federal manifestou-se pelo conhecimento do presente conflito negativo de competência, "para que se declare a competência da Justiça Comum" (fls. 113-116).
+É o relatório.
+Decido.
+Com razão o juízo suscitante e o Parquet Federal.
+De início, a teor do que preceitua o art. 105, inciso I, alínea d, da Constituição da República, conheço do conflito.
+Com efeito, o Supremo Tr ibunal Federal no julgamento do Tema n. 992, sob o rito da repercussão geral, firmou a tese no sentido de que compete à justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame contra a Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal.
+O julgado em questão foi assim ementado:
+RECURSO EXTRAORDINÁRIO REPRESENTATIVO DA CONTROVÉRSIA. TEMA 992. DIREITO DO TRABALHO. DIREITO ADMINISTRATIVO. DISCUSSÃO SOBRE COMPETÊNCIA. ART. 114, INCISO I, DA CF/88. FASE PRÉ-CONTRATUAL.
+1. Inexistência de relação de trabalho na chamada fase pré-contratual a atrair a competência da Justiça do Trabalho.
+2. Prevalência do caráter público. Concurso público como ato de natureza administrativa.
+3. Fixação da tese: Compete à Justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal. Recurso extraordinário não provido. (RE 960429, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 05-03-2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-157 DIVULG 23-06-2020 PUBLIC 24-06-2020; sem grifos no original).
+Nesse mesmo sentido, assim vem decidindo esta Corte: CC n. 208.848/RJ, relator Min. FRANCISCO FALCÃO, DJe de 28/10/2024; CC n. 206.742/GO, relator Min. BENEDITO GONÇALVES, DJe de 9/8/2024; CC n. 203.949/PE, relator Min. BENDITO GONÇALVES, DJe de 10/4/2024; CC n. 202.700/ES, relator Min. PAULO SÉRGIO DOMINGUES, DJe de 19/3/2024; CC n. 189.664/MG, relator Min. AFRÂNIO VILELA, DJe de 7/2/2024, entre outros.
+No caso em exame, considerando que o Juízo de Direito da 2ª Vara Cível de São Sebastião/SP já proferiu sentença, deve o processo prosseguir no Tribunal de Justiça do Estado de São Paulo.
+Ante o exposto, nos termos do art. 955, parágrafo único, do CPC, CONHEÇO do conflito e declaro competente o Tribunal de Justiça do Estado de São Paulo, a fim de que, afastada a incompetência, prossiga no julgamento da Apelação Cível n. 1001084-82.2015.8.26.0587, decidindo-o como entender de direito.
+Retifique-se a autuação para que conste como suscitado o Tribunal de Justiça do Estado de São Paulo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO ESTADUAL. CONCURSO PÚBLICO. FASE PRÉ-CONTRATUAL. RELAÇÃO DE NATUREZA JURÍDICO-ADMINISTRATIVA. TEMA N. 992 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO STJ. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
