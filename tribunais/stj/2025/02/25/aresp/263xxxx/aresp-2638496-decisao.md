@@ -1,0 +1,52 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por PARANAITA RIBEIRAOZINHO TRANSMISSORA DE ENERGIA S.A. contra decisão que inadmitiu recurso especial com fundamento na ausência de violação ao art. 1.022 do CPC e na aplicação das Súmulas 280 do STF e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+O recurso especial não merece prosperar.
+Da negativa de prestação jurisdicional
+Quanto à apontada violação aos arts. 489 e 1.022 do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+Para justificar a ocorrência de omissão no julgado, assim fundamenta, em síntese, a parte recorrente (fl. 448):
+Assim, evidencia-se que, no caso em tela, a ora Recorrente, teve o seu direito à percepção de prestação jurisdicional violado, uma vez que o Tribunal não confere a fundamentação para obstar a Recorrente em produzir, na origem, a prova pericial requerida.
+Percebe-se, portanto, que no caso em tela, a produção de prova pericial foi afastada em primeira e segunda instância, sem qualquer fundamento específico, relacionado aos documentos apresentados, simplesmente e genericamente afirmam que não é necessária perícia sobre os mesmos, todavia sem dizer o porquê. Neste ponto ambas as decisões violam aquilo que determina o art. 1.022, parágrafo único, inciso II c/c § 1º di art. 489, ambos do CPC.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 368-369):
+No primeiro momento, a parte apelante argui a preliminar de nulidade de sentença por cerceamento de defesa pelo indeferimento de produção de prova pericial. Assevera que a produção de prova pericial "constitui medida imprescindível para o deslinde do caso na medida em que a análise da farta documentação juntada aos autos, sob o ponto de vista contábil, permitirá que se demonstre que a situação vivenciada no TAD 11393702 decorre de mero equívoco por parte da Apelante no atendimento à legislação fiscal, não tendo ocorrido fraude dolosa consistente na reutilização de documento fiscal, como imputou a Apelada à Apelante" - Id. 84838960 - Pág. 6. Contudo, do exame dos autos, não há que se falar em cerceamento de defesa no indeferimento de produção de prova no julgamento antecipado da lide. Consoante disposto no artigo 355, inciso I, do Código de Processo Civil o "juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando não houver necessidade de produção de outras provas". De acordo com os artigos 139, inciso II, e 370, parágrafo único, ambos do mesmo Códex, cabe ao magistrado "velar pela duração razoável do processo", bem como "de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito" e indeferir "em decisão fundamentada, as diligências inúteis ou meramente protelatórias".
+Ou seja, o julgamento antecipado, quando cabível, é um dever. Verifica-se que o magistrado a quo entendeu ser desnecessária a produção de prova pericial para o julgamento da lide, uma vez que as provas necessárias a solução da lide já constam dos autos.
+O Superior Tribunal de Justiça abaliza que, dentro do sistema da livre persuasão racional do magistrado e a suficiência das provas coligidas, autoriza-se a dispensa da produção de diligências que se mostrem desnecessárias no plano fático-jurídico:  ..
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489 e 1.022 do CPC/2015.
+Súmula 280 do STF
+No que tange à matéria versada nos autos, o Tribunal de origem assim se manifestou (fls. 369-372):
+A respeito do Termo de Apreensão e Depósito n. 11393702, a apelante alegar que o referido termo foi lavrado a partir da constatação de suposta "reutilização" documentos fiscais para embasar operações de transportes distintas. Aponta que tal ato é "uma infração gravíssima" que não se pode imputar a ela, pois houve "equívoco cometido pelo motorista de transporte de cagas que equivocadamente, apresentou DANFE referente a operação anterior". A mercadorias transportadas estavam devidamente amparada por documentos fiscais idôneos. Não assiste razão à apelante.
+Sem margem para dúvida, as mercadorias transportadas no território do Estado de Mato Grosso devem sempre ser transportadas com as respectivas Notas Fiscais, na medida que a sua apresentação é obrigação do contribuinte, e necessária para cumprimento de diversos procedimentos administrativos fiscais, consoante está na Lei Estadual n. 7.098/98:
+ ..
+No mais, o RICMS assim dispõe:
+ ..
+No que se refere à redução da multa, conforme parâmetros de razoabilidade, não há como atender a pretensão da apelante, porque sua fixação decorre da Lei Estadual n. 7.098/98, como bem fundamentou o magistrado a quo na sentença  ..
+Verifica-se, portanto, que a Corte de origem decidiu a controvérsia dos autos com base, essencialmente, nos termos da legislação estadual. Desse modo, considerando que a fundamentação utilizada pela origem não diz respeito à legislação federal, torna-se inviável o conhecimento do recurso especial. Incide, assim, por analogia, o óbice da Súmula 280 do STF, a qual preceitua que "por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECUR SO ESPECIAL. MANDADO DE SEGURANÇA. ICMS. RECOLHIMENTO. ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO EM LEI LOCAL. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 280 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Hipótese em que o Tribunal de origem consignou: É de se ressaltar, ademais, que a impetrante é claramente sujeito passivo por substituição (art. 8º, XVII, "d", da Lei nº 6.374/89). O RICMS, contudo, deixa algumas dúvidas acerca da temática do diferimento do tributo. O art. 391, III, afirma que o lançamento do imposto incidente nas operações internas com pescados é devido quando da saída do produto do estabelecimento, enquanto o art. 428, III, c/c art. 430, III, fixa regra diversa, ensejando o recolhimento do tributo até o último dia do segundo mês subsequente às operações para aqueles optantes pelo Simples Nac ional (fls. 176/177).
+3. Da forma como ficou definido pela Corte a quo, para a resolução da controvérsia sobre a incidência do ICMS, imprescindível seria a análise da legislação local (art. 8º, XVII, "d", da Lei Estadual 6.374/1989) c/c RICMS/SP para o deslinde da controvérsia, providência vedada em sede de Recurso Especial.
+4. Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280 do STF, segundo a qual "por ofensa ao direito local não cabe recurso extraordinário".
+ ..
+6. Agravo interno não provido (AgInt no AREsp n. 1.805.198/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL, INTERPOSTO CONTRA DECISÃO SINGULAR PROFERIDA POR MINISTRO DO STJ. POSSIBILIDADE DE IMPUGNAÇÃO PARCIAL DE CAPÍTULOS AUTÔNOMOS. ART. 1.002 DO CPC/2015. PRECEDENTES DA CORTE ESPECIAL DO STJ. ERESP 1.424.404/SP E ERESP 1.738.541/RJ. ITCMD. CRITÉRIOS PARA APURAÇÃO DA BASE DE CÁLCULO. NECESSIDADE DE EXAME DE NORMA INFRALEGAL, INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. ALEGADA VIOLAÇÃO AO ART. 148 DO CTN. AUSÊNCIA DE COMANDO NORMATIVO CAPAZ DE INFIRMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação de norma local (Lei estadual 8.821/89 e Decreto estadual 33.156/89). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgInt no AREsp 1.945.904/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/03/2022; AgInt no AREsp 1.931.165/TO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/03/2022; AgInt no AREsp 1.742.714/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2021; REsp 1.635.382/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016.
+ ..
+VI. Agravo interno improvido (AgInt nos EDcl no AREsp n. 1.882.044/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/3/2023, DJe de 21/3/2023).
+Súmula 7 do STJ
+Observo, ainda, que a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Majoro os honorários advocatícios em 1% (um por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
