@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por CESAR ALEXANDRE DE MOURA CORREIA contra acórdão da Primeira Câmara Especializada Cível do TJPI, assim ementado (e-STJ fl. 216):
+AGRAVO DE INSTRUMENTO - EMBARGOS DE TERCEIROS - COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - TRANSFERÊNCIA NÃO REALIZADA - MONITÓRIA - BEM ADJUDICADO - MANDADO DE IMISSÃO E POSSE - PROPRIEDADE COMPROVADA - EFEITO SUSPENSIVO DEFERIDO - AGRAVO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 301/310).
+Nas razões do recurso especial (e-STJ fls. 313/335), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente aponta violação dos seguintes dispositivos de lei:
+(a) art. 1.001 do CPC/2015, porque a manifestação judicial contra a qual foi interposto o agravo de instrumento não possui conteúdo decisório, tratando-se, portanto, de mero despacho exarado para impulsionar a marcha processual, e
+(b) arts. 108 e 1.227 do CC/2002, pois "o Instrumento Particular de Dação em Pagamento constante no Id Nº 1160216 não possui nenhum efeito jurídico em relação à titularidade do imóvel adjudicado, tendo em vista que a transferência da propriedade só se operar com o respectivo registro no Cartório de Registro de Imóveis" (e-STJ fl. 322). Sustenta que, ausente o registro, o imóvel é de propriedade da empresa NUTRIALL.
+Afirma ainda haver dissídio jurisprudencial em relação ao início do prazo recursal, indicando como paradigmas julgados do TJSC e do TJMG. Explica que "os posicionamentos jurisprudenciais  ..  dos Tribunais de Justiça dos Estados de Santa Catarina e de Minas Gerais, foram proferidos em conformidade com precedentes do STJ, ao afirmarem que o prazo recursal do terceiro interessado se inicia após a intimação das partes e não da efetiva ciência da decisão, como se infere do Acórdão proferido pelo Tribunal de Justiça do Estado do Piauí" (e-STJ fl. 333).
+Foram apresentadas contrarrazões (e-STJ fls. 360/377).
+Admitido o recurso na origem, foi determinada a subida dos autos a esta Corte para apreciação do especial (e-STJ fls. 378/380).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O comando normativo do art. 1.001 do CPC/2015 não foi objeto de exame pela Corte de origem, nem mesmo após a oposição de embargos de declaração. Tampouco, alegou-se omissão quanto ao ponto.
+Assim, por falta de prequestionamento, incide no caso a Súmula n. 211/STJ.
+Com relação aos arts. 108 e 1.227 do CC/2002, vale dizer que a jurisprudência do STJ não admite a interposição de recurso especial cujo objetivo seja discutir a correção das decisões das instâncias de origem que negam ou deferem medida liminar ou tutela provisória, por não se tratar de decisão em única ou última instância. Incide analogicamente a Súmula n. 735 do STF.
+No caso, o TJPI consignou que (e-STJ fl. 224):
+ ..  até este momento a empresa agravante comprovou nos autos que é possuidora de boa-fé, visto que adquirira o imóvel objeto da adjudicação, mediante contrato particular de cessão de direitos, formalizado em data anterior à penhora e inclusive anterior ao ingresso da Ação Monitória, razão pela qual deve ser mantida na posse de referido bem até o resultado final dos Embargos de Terceiros (Proc nº 0003121-65.2019.8.18.0140), que decidirá efetivamente se a empresa agravante é ou não a proprietária do imóvel objeto da lide.
+O tema foi decidido de forma precária, de forma que o recurso especial quanto ao ponto não se mostra cabível.
+Ademais, alterar o entendimento do Tribunal de origem quanto à viabilidade de se manter a empresa na posse do bem até o resultado dos embargos de terceiro demandaria reexame de elementos fáticos, o que encontra óbice na Súmula n. 7/STJ.
+Com relação ao dissídio jurisprudencial, é de rigor a aplicação ao caso da Súmula n. 284/STF, uma vez que, no especial, o recorrente não especificou o artigo de lei objeto de interpretação divergente.
+Referida providência é necessária mesmo nos recursos interpostos com base na alínea "c" do permissivo constitucional, visto que o STJ não analisa fatos, mas teses jurídicas, no exercício do mister que lhe conferiu a Constituição, visando uniformizar a interpretação de lei federal. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Para a análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, torna-se imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a divergência jurisprudencial existente, o que não ocorreu no caso em apreço.
+2. O recorrente limitou-se a indicar precedentes paradigmas sem, contudo, indicar qual dispositivo legal teria recebido interpretação divergente. Todavia, o recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal. Nesse passo, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal. Na presente hipótese, deixou a parte recorrente de indicar o dispositivo de lei federal violado ao indicar a divergência jurisprudencial, não cumprindo com os requisitos de conhecimento do recurso especial.
+3. Agravo interno não provido.
+(AgInt no AREsp 1272664/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1346588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014.)
+Ante o exposto, NÃO CONHEÇO do especial.
+Publique-se e intimem-se.
+EMENTA
