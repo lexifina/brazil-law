@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 421 do Código Civil e 927 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 458):
+EMENTA - APELAÇÃO - AÇÃO REVISIONAL DE CONTRATO C/C RESTITUIÇÃO DE VALORES - PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - NÃO OCORRÊNCIA - PRELIMINARES DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO, POR CERCEAMENTO DE DEFESA E INÉPCIA DA PETIÇÃO INICIAL - REJEITADAS - MÉRITO - JUROS REMUNERATÓRIOS - APLICAÇÃO DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN - PERTINÊNCIA - RESTITUIÇÃO DE VALORES PAGOS A MAIOR - NECESSIDADE - DESCARACTERIZAÇÃO DA MORA - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 549):
+EMENTA - EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE - PRETENSÃO DE REDISCUSSÃO DA MATÉRIA - IMPOSSIBILIDADE - RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração devem se ajustar às restritas hipóteses de cabimento, pois são destinados à supressão de omissão, contradição ou obscuridade e, ainda, à correção de erro material.
+Sustenta a parte agravante que é indevido o reconhecimento de abusividade de taxa de juros remuneratórios apenas tendo como base a taxa média praticada no mercado.
+Assim posta a questão, passo a decidir.
+Quanto à questão dos juros remuneratórios, destaco que a atual jurisprudência do STJ firmou o entendimento de que a taxa média de mercado apurada pelo Banco Central do Brasil para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco.
+O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação. A propósito, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS.
+1. De acordo com a orientação adotada no julgamento do REsp. 1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+2. Prevaleceu o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média.
+3. O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação.
+4. A redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado, em atenção às supostas "circunstâncias da causa" não descritas, e sequer referidas no acórdão - apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada no REsp. 1.061.530/RS.
+5. Hipótese, ademais, em que as parcelas foram prefixadas, tendo o autor tido conhecimento, no momento da assinatura do contrato, do quanto pagaria do início ao fim da relação negocial.
+6. Agravo interno provido.
+(AgInt no AREsp n. 1.522.043/RS, relator Ministro Marco Buzzi, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17.11.2020, DJe de 10.3.2021.)
+Nesse contexto, registro que esta Corte Superior entende que é possível proceder à revisão da taxa de juros remuneratórios, quando caracterizada a relação de consumo e o caráter abusivo ficar devidamente demonstrado, conforme as peculiaridades do caso concreto.
+Na situação dos autos, observo que a Corte de origem manteve a limitação dos juros remuneratórios no contrato de empréstimo pessoal à taxa de média de mercado para o mesmo segmento de crédito, conforme os seguintes fundamentos (fls. 467/468):
+(..)
+Dos juros remuneratórios e da restituição de valores:
+A atual jurisprudência do Superior Tribunal de Justiça dispõe que, nos casos em que não estipulada expressamente a taxa de juros ou na ausência do contrato bancário, deve-se limitar os juros à taxa média de mercado para a espécie da avença, divulgada pelo Banco Central do Brasil.
+(..)
+A matéria, aliás, encontra-se pacificada na Corte supramencionada, conforme enunciado da Súmula n. 530, in verbis:
+(..)
+Dessa forma, agiu com acerto o magistrado de piso ao restringir os juros à taxa média do mercado, porquanto ainda que não tenha sido vislumbrada uma divergência exacerbada na taxa de juros aplicada, é certo que o instrumento contratual não foi carreado aos autos, o que acarreta a aplicação do entendimento previsto na Súmula 530 do STJ.
+(..)
+Com efeito, verifico que a agravante não impugnou o fundamento adotado pelo julgado estadual, qual seja, a aplicação da Súmula n. 530 do STJ, o que faz incidir o óbice da Súmula n. 283 do STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
