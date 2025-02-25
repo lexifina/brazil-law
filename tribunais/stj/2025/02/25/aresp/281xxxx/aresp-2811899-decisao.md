@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Agravo apresentado por TIROL COMERCIO DE BEBIDAS E ALIMENTOS LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO. CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. DUPLICATAS MERCANTIS SEM FORÇA EXECUTIVA. EMBARGOS MONITÓRIOS. COGNIÇÃO AMPLIADA. ART. 393 DO CÓDIGO CIVIL. INADIMPLEMENTO INVOLUNTÁRIO NÃO COMPROVADO. PROVA ESCRITA DA EXISTÊNCIA DA DÍVIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. A duplicata que não possui força executiva pode servir de prova escrita da dívida no âmbito de ação de conhecimento pelo procedimento comum ou pelo procedimento especial (ação monitória), conforme se depreende do art. 16 da Lei n. 5.474/1968. Precedente do c. Superior Tribunal de Justiça.
+2. No caso, as duplicatas estão acompanhadas de recibo de entrega das mercadorias e de boletos bancários nos quais constam as assinaturas dos prepostos do devedor. Tais assinaturas conferem prova à existência do vínculo contratual entre as partes.
+3. A oposição de embargos monitórios tem por consequência a conversão do procedimento monitório em procedimento ordinário, pelo que a cognição da controvérsia é ampliada, de modo a permitir juízo definitivo sobre a existência ou não do crédito afirmado pelo autor.
+Precedente do c. Superior Tribunal de Justiça.
+4. A situação de endividamento existente antes do alegado caso fortuito - furto de garrafas de vinho expostas à venda - afasta a causa excludente do inadimplemento obrigacional, haja vista o art. 393, e parágrafo único, do Código Civil exigir que os prejuízos do devedor caput sejam resultantes do caso fortuito ou da força maior inevitável.
+5. Além disso, o apelante não apresentou dados concretos mínimos, tais como valor das perdas financeiras, quantidade e preço dos bens furtados, que possam eventualmente comprovar o inadimplemento involuntário para o fim de exoneração da obrigação.
+6. Diante dos elementos constantes nos autos, é possível firmar juízo de certeza da existência da dívida, mediante prova escrita apresentada na petição inicial contra a qual o devedor não foi capaz de opor defesa apta a impedir, modificar ou extinguir o direito de crédito afirmado pelo autor, nos termos do art. 373, II, do CPC.
+7. Recurso conhecido e desprovido
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 393 do CC, no que concerne ao não cabimento da incidência de juros e de correção monetária quando o atraso se dá em razão de caso fortuito, trazendo a seguinte argumentação:
+6. Alega o autor que as devedoras deixaram os débitos do contrato firmados em aberto, e assim, por conta dos débitos em aberto, pugnou e obteve por meio de sentença a constituição de pleno direito do Título Executivo Judicial destes valores, com incidência de multa, juros, correção monetária e honorários advocatícios correlatos. Veja-se sentença proferida:
+ ..
+7. Assim, adveio apelação alegando a não responsabilidade por juros e multa do devedor em situações que ensejem o não pagamento em virtude de caso fortuito ou por força maior, conforme artigo 393 do Código Civil e por entendimento do TJDFT.
+8. Contudo, o acórdão proferido não acatou o argumento, se limitando a dizer que existia obrigação contratual entre as partes por força de assinatura dos recibos de entrega das mercadorias desde antes do boletim de ocorrência datado de 22/07/2022, e que, portanto, afastaria a causa excludente do inadimplemento obrigacional.
+ ..
+23. Assim, adveio decisão condenando a Ré ao pagamento dos valores corrigidos pela tabela do TJDFT e com juros de mora de 1% ao mês a partir do vencimento. Porém, data vênia a decisão foi contrária à lei no sentido de não analisar o caso fortuito que foi alegado no processo, o que ensejaria um entendimento diverso ao proferido nos autos.
+24. É de conhecimento geral que caso o descumprimento ocorra em virtude de caso fortuito ou de força maior, o artigo 393 do Código Civil exclui a responsabilidade do devedor, salvo se este se houver por eles se responsabilizado expressamente.
+25. Pois bem, tal conclusão seria dada ao presente caso se houvesse a análise do caso fortuito consistente no roubo da loja, o que não aconteceu, e por isso aplicou-se ao valor em atraso, juros e correção monetária, o que não deveria ser aplicado, pois decorrem do não pagamento pelo caso fortuito, se amoldando aos ditames do artigo 393 do Código Civil:
+ ..
+27. Portanto, a decisão a quo negou a aplicação de Lei Federal, mais especificamente o Artigo 393 do CC, pelo que não se deve atualizar e nem se aplicar juros ao débito, uma vez que o atraso decorreu de caso fortuito, bem como esses encargos também decorrem (fls. 327/331).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Em sua defesa, o réu alegou, em síntese, ter sido vítima de furtos de garrafas de vinho em suas dependências físicas, causando-lhe prejuízos financeiros e dificuldades no pagamento das dívidas. Foi juntado boletim de ocorrência datado de 22/7/2022.
+Por outro lado, a leitura das duplicatas indica que a primeira dívida foi contraída em 1º/7/2022 com data de vencimento estipulada para 21/7/2022, enquanto as demais foram geradas entre outubro e novembro de 2022.
+Nesse contexto, observa-se que as dívidas já existiam antes do furto ocorrido e outras foram contraídas meses depois do incidente. A situação de endividamento existente antes do alegado caso fortuito - furto de garrafas de vinho expostas à venda - afasta a causa excludente do inadimplemento obrigacional, haja vista o art. 393, e parágrafo único, do caput Código Civil exigir que os prejuízos do devedor sejam resultantes do caso fortuito ou da força maior inevitável.
+Além disso, o apelante não apresentou dados concretos mínimos, tais como valor das perdas financeiras, quantidade e preço dos bens furtados, que possam eventualmente comprovar o inadimplemento involuntário para o fim de exoneração da obrigação.
+Portanto, não incide a hipótese do art. 393, e parágrafo único, do caput Código Civil (fls. 271/272).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
