@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. FURTO. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. REINCIDÊNCIA. FRAÇÃO SUPERIOR A 1/6. POSSIBILIDADE. RÉU MULTIRREINCIDENTE. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Paraná que negou provimento ao recurso de apelação da defesa, mantendo a condenação por furto e a dosimetria da pena aplicada.
+2. A defesa alega violação dos artigos 59, 61 e 63 do Código Penal, sustentando erro na dosimetria da pena, especialmente quanto à valoração dos antecedentes e à fração da reincidência.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se as instâncias ordinárias interpretaram corretamente os artigos 59, 61 e 63 do Código Penal ao valorar negativamente os antecedentes do réu e aplicar a agravante de reincidência, sem configurar bis in idem.
+4. Outra questão em discussão é a adequação do aumento da pena na segunda fase da dosimetria, em razão da multirreincidência do réu, acima do patamar de 1/6.
+III. RAZÕES DE DECIDIR
+5. A valoração negativa dos antecedentes está de acordo com a jurisprudência, pois o réu possui condenações definitivas por crimes distintos, justificando a desfavorabilidade dos maus antecedentes.
+6. O aumento da pena na segunda fase da dosimetria, acima do patamar de 1/6, está justificado pela multirreincidência do réu, em conformidade com a jurisprudência do Superior Tribunal de Justiça.
+IV. RECURSO ESPECIAL DESPROVIDO.
+RELATÓRIO
+Trata-se de recurso especial interposto pela defesa de JONATHAN HENRIQUE DOS SANTOS DE CARVALHO, com fundamento no artigo 105, inciso III da Carta Magna, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, que negou provimento ao seu recurso de apelação da defesa, nos termos da seguinte ementa (e-STJ fls. 481-493):
+APELAÇÃO CRIMINAL. FURTO. PLEITO DE ABSOLVIÇÃO. ALEGADA INSUFICIÊNCIA PROBATÓRIA. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. PALAVRA DOS AGENTES PÚBLICOS EM CONSONÂNCIA COM AS DEMAIS PROVAS. RECONHECIMENTO DA TENTATIVA. IMPOSSIBILIDADE. APLICAÇÃO DA TEORIA . DOSIMETRIA. FIXAÇÃO DAAMOTIO PENA-BASE NO MÍNIMO LEGAL. NÃO ACOLHIMENTO. RÉU QUE OSTENTA MAUS ANTECEDENTES, CIRCUNSTÂNCIAS DO CRIME E CONDUTA SOCIAL VALORADAS NEGATIVAMENTE. FUNDAMENTAÇÕES IDÔNEAS. ALTERAÇÃO DA FRAÇÃO DE AUMENTO DA PENA-BASE. DESCABIMENTO. QUANTUM DEVIDAMENTE OPERADO. EXASPERAÇÃO FUNDAMENTADA. DOSIMETRIA DA PENA INTERMEDIÁRIA. ADEQUADA A ADOÇÃO DA FRAÇÃO DE  (UM QUARTO) ANTE A MULTIRREINCIDÊNCIA. ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA PARA O MAIS BRANDO. NÃO ACOLHIMENTO. VALORAÇÃO DESFAVORÁVEL DE CIRCUNSTÂNCIAS JUDICIAIS E REINCIDÊNCIA QUE JUSTIFICAM O REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+No presente recurso, a defesa sustenta a violação dos artigos 59, 61 e 63, todos do Código Penal, ao argumento de erro na dosimetria da pena.
+Após a apresentação das contrarrazões pelo Ministério Público e stadual (e-STJ fls. 535-536), o apelo nobre foi admitido (e-STJ fls. 540-542).
+O Ministério Público Federal se manifestou nos termos da seguinte ementa (e-STJ fls. 556-561):
+RECURSO ESPECIAL. FURTO. DOSIMETRIA. PENA- BASE. PRÁTICA EM LOCAL DE GRANDE CIRCULAÇÃO DE PESSOAS E DURANTE O CUMPRIMENTO DE PENA POR OUTRO DELITO JUSTIFICAM O AUMENTO DA PENA-BASE. STJ. PRECEDENTES. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESSA CORTE SUPERIOR. SÚMULA N. 83/STJ. FRAÇÃO DA REINCIDÊNCIA JUSTIFICADA PELA MULTIRRENCIDÊNCIA ESPECIFICA DO ACUSADO. AGRAVANTE REINCIDÊNCIA. PELO NÃO CONHECIMENTO OU DESPROVIMENTO DO RECURSO.
+É o relatório.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. FURTO. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. REINCIDÊNCIA. FRAÇÃO SUPERIOR A 1/6. POSSIBILIDADE. RÉU MULTIRREINCIDENTE. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Paraná que negou provimento ao recurso de apelação da defesa, mantendo a condenação por furto e a dosimetria da pena aplicada.
+2. A defesa alega violação dos artigos 59, 61 e 63 do Código Penal, sustentando erro na dosimetria da pena, especialmente quanto à valoração dos antecedentes e à fração da reincidência.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se as instâncias ordinárias interpretaram corretamente os artigos 59, 61 e 63 do Código Penal ao valorar negativamente os antecedentes do réu e aplicar a agravante de reincidência, sem configurar bis in idem.
+4. Outra questão em discussão é a adequação do aumento da pena na segunda fase da dosimetria, em razão da multirreincidência do réu, acima do patamar de 1/6.
+III. RAZÕES DE DECIDIR
+5. A valoração negativa dos antecedentes está de acordo com a jurisprudência, pois o réu possui condenações definitivas por crimes distintos, justificando a desfavorabilidade dos maus antecedentes.
+6. O aumento da pena na segunda fase da dosimetria, acima do patamar de 1/6, está justificado pela multirreincidência do réu, em conformidade com a jurisprudência do Superior Tribunal de Justiça.
+IV. RECURSO ESPECIAL DESPROVIDO.
+VOTO
+A controvérsia consiste em verificar se as instâncias ordinárias deram a correta interpretação aos artigos 59, 61 e 63, todos do Código Penal.
+Sobre as questões, a Corte de origem assim se pronunciou:
+No presente caso, a valoração negativa do vetor antecedentes se mostrou escorreita, eis que o sentenciado ostenta condenações definitivas em seu desfavor, conforme registrado em oráculo (mov. 99.1), desta forma, restou plenamente justificada a desfavorabilidade do vetor judicial. A saber: autos n. 0010169-03.2011.8.16.0014, da 2ª Vara Criminal de Londrina, pela prática do crime de tráfico de drogas, fato praticado em 10/02/2011, com trânsito em julgado em 09/01 /2012 e extinção de punibilidade pelo cumprimento da pena na data de 14/12/2015; e autos n. 0001328- 74.2019.8.16.0196, da 5ª Vara Criminal de Curitiba, pela prática do crime de roubo, fato praticado em 19 /07/2019, com trânsito em julgado em 17/01/2022.
+Outrossim, inverídica a alegação de atinente a valoração dos maus antecedentes e da reincidência. Isso porque a utilização de condenações definitivas, anteriores e distintas, como ocorreu no caso dos autos (cf. oráculo em mov. 99.1), para a caracterização de maus antecedentes e aplicação da agravante de reincidência, não configura bis in idem.  ..
+Quanto à culpabilidade, o reeducando manifestou total desrespeito à ordem judicial, pouco se importando com as consequências de seus atos, com a prática desse delito enquanto estava cumprindo pena por crime diverso (autos nº 0011088- 12.2018.8.16.0025). ..
+Correta, também, a valoração negativa das circunstâncias do crime, uma vez que o apelante praticou o crime em via pública, no Alto da Glória no horário de funcionamento da feira. Nesse cenário, cometeu ilícito na presença de vários transeuntes, o que demonstra não só ousadia na conduta, mas também o sentimento de impunidade e descaso, já que não se preocupou em realizar o crime na clandestinidade.  ..
+Deste modo, correta a valoração negativa das circunstâncias judiciais, utilizado o intervalo da pena mínima e máxima, no caso em tela 03 (três) anos, aplicada a fração em 1/8 (um oitavo) para cada circunstância judicial negativa, devendo ser mantida a pena-base conforme fixado. O entendimento jurisprudencial autoriza a aplicação do percentual de 1/8 (um oitavo) entre a pena mínima e a máxima, trata-se de uma orientação e cabe ao magistrado, dentro do poder discricionário, fixá-la de forma adequada e proporcional ao delito praticado.  ..
+Por certo que há orientação jurisprudencial de que o aumento na segunda fase de fixação da pena deva ser de 1/6 (um sexto) sobre a pena-base, no entanto, no caso em análise, tendo em vista a multirreincidência do apelante, resta autorizado o aumento em percentual mais elevado.
+A dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por esta Corte Superior. Somente em casos de evidente desproporcionalidade entre o delito e a pena imposta, caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+A análise realizada pelo Tribunal de origem está em linha com a jurisprudência desta Corte acerca da temática, pois as condenações pretéritas podem ser utilizadas tanto para valorar os maus antecedentes na primeira fase, quanto para agravar a pena na segunda fase, a título de reincidência, desde que as condenações sejam de fatos diversos, como no presente caso, em que o recorrente possui condenações transitadas em julgado, além das condenações que configuraram a multirreincidência.
+No tocante ao critério numérico de aumento para cada circunstância judicial negativa, in casu, não há desproporção no aumento da pena-base, uma vez que há motivação particularizada, em obediência aos princípios da proporcionalidade e da individualização da pena.
+A propósito: "Salienta-se que a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o julgador pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça. " (AgRg no AREsp n. 2.240.104/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 27/2/2023.)
+Alterar o quadro formado no Tribunal de origem demandaria inviável dilação probatória na via especial.
+Quanto à segunda fase da dosimetria, consoante entendimento firmado pelo Superior Tribunal de Justiça, a aplicação de fração superior à 1/6, pelo reconhecimento das agravantes e das atenuantes, exige motivação concreta e idônea.
+No caso, o entendimento da Corte de origem está de acordo com a jurisprudência, pois "a multirreincidência pode justificar a exasperação da pena, na segunda fase da dosimetria acima do patamar de 1/6." (EDcl no AgRg no AgRg no AREsp n. 2.415.615/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe de 1º/12/2023.)
+Ante o exposto, nego provimento ao presente recurso especial.
+É o voto.
