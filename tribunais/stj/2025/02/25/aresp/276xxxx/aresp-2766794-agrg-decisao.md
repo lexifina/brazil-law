@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por CRISTIANE RIBEIRO MOURA MUNIZ contra decisão monocrática da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial.
+Nas razões recursais, a parte recorrente alega que houve impugnação específica de todos os fundamentos da decisão agravada.
+Manifestação do Ministério Público Federal pelo não provimento do recurso.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, cuja ementa é a seguinte (e-STJ fl. 276):
+APELAÇÃO CRIMINAL. CRIME CONTRA ORDEM TRIBUTÁRIA. ART. 1º, INCISOS II E V, DA LEI Nº 8.137/1990 (14 VEZES). SENTENÇA CONDENATÓRIA.
+RECURSO DA DEFESA. FRAUDE TRIBUTÁRIA. OPERAÇÕES TRIBUTÁRIAS OMITIDAS DO FISCO ESTADUAL. AUSÊNCIA DE EMISSÃO DE NOTAS FISCAIS. PLEITO DE ABSOLVIÇÃO PELA ALEGADA AUSÊNCIA DE COMPROVAÇÃO DO DOLO ESPECÍFICO DE SONEGAÇÃO FISCAL. DESNECESSIDADE. PEDIDO DE AFASTAMENTO DA CULPABILIDADE PELA INEXIGIBILIDADE DE CONDUTA DIVERSA. INCABÍVEL. DOLO GENÉRICO - SIMPLES OMISSÃO CONSCIENTE DO TRIBUTO - PRESENTE NA CONDUTA. INEXIGIBILIDADE DE CONDUTA DIVERSA NÃO APLICÁVEL. APELANTE QUE, CIENTE DE SUAS RESPONSABILIDADES COMO CONTRIBUINTE, FRAUDOU A FISCALIZAÇÃO.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos pela Defensoria Pública, visando a análise da tese de exclusão da indenização fixada, foram rejeitados.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a defesa violação dos arts. 387, IV, e 619, ambos do Código de Processo Penal. Busca o afastamento da condenação ao pagamento de valor de indenização crime tributário, tendo em vista que o Erário possui meios próprios para reaver os valores "sonegados".
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso merece acolhida.
+O Tribunal de Justiça, ao decidir a controvérsia, manteve o valor mínimo para reparação dos danos causados pela prática, por 14 vezes, do delito do art. 1º, II e V, da lei n. 8.137/1990 no importe de R$ 40.525,73.
+No entanto, tal posicionamento se encontra contrário à jurisprudência desta Corte Superior de Justiça, no sentido da inviabilidade de fixação de valor mínimo a título de reparação de danos por crimes tributários, notadamente por conta de a Fazenda Pública possuir meios próprios para reaver os valores sonegados.
+Nessa linha, os seguintes julgados:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 387, IV, DO CPP. REPARAÇÃO DO DANO. FIXAÇÃO DE VALOR MÍNIMO.
+1. Na hipótese, "o entendimento da Corte a quo está em sintonia com o quanto adotado pelo Superior Tribunal de Justiça, quanto à inviabilidade de fixação de valor mínimo a título de reparação de danos por crimes tributários, notadamente por conta de a Fazenda Pública possuir meios próprios para reaver os valores sonegados" (AgRg no REsp n. 1.870.015/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/11/2020, DJe 20/11/2020).
+Precedente.
+2. Agravo regimental desprovido. (AgRg no REsp n. 1.953.199/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. VIOLAÇÃO DOS ARTS. 59 DO CP E 387, IV, DO CPP. PLEITO DE EXASPERAÇÃO DA PENA-BASE. ALEGAÇÃO DE ELEVADO DANO À COLETIVIDADE APTO A NEGATIVAR AS CONSEQUÊNCIAS DO CRIME. VALOR TOTAL A SER CONSIDERADO CONSISTENTE EM DÍVIDA INFERIOR A R$ 1.000.000,00. APLICAÇÃO EM ANALOGIA AO DISPOSTO NO ART. 14, CAPUT, DA PORTARIA N. 320/PGFN. JURISPRUDÊNCIA DA TERCEIRA SEÇÃO. MANUTENÇÃO DA REPRIMENDA QUE SE IMPÕE. PLEITO DE RESTABELECIMENTO DA FIXAÇÃO DE VALOR MÍNIMO PARA A INDENIZAÇÃO DOS DANOS SOFRIDOS. ENTENDIMENTO DA CORTE DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. FAZENDA PÚBLICA QUE POSSUI PROPRIEDADE PARA REAVER OS VALORES SONEGADOS VIA EXECUÇÃO FISCAL.
+1. Não obstante tenha sido utilizado na decisão agravada o parâmetro concernente à causa de aumento de pena disposta no art. 12, I, da Lei 8.137/1990, reputa-se que o incontroverso valor sonegado de R$ 181.175,12 (cento e oitenta e um mil, cento e setenta e cinco reais e doze centavos) não justifica o reconhecimento de grave dano à coletividade, a ensejar a negativação das consequências do delito.
+2. O entendimento da Corte a quo está em sintonia com o quanto adotado pelo Superior Tribunal de Justiça, quanto à inviabilidade de fixação de valor mínimo a título de reparação de danos por crimes tributários, notadamente por conta de a Fazenda Pública possuir meios próprios para reaver os valores sonegados.
+3. Ressalte-se que, na hipótese em tela, já houve a constituição do crédito tributário, consubstanciado na Certidão de Dívida Ativa.
+Logo, não se faz necessária a fixação do valor mínimo à reparação do dano previsto no inciso IV do art. 387 do Código de Processo Penal, porquanto a Fazenda Pública já está devidamente aparelhada para a cobrança do montante que entende devido pelo contribuinte, mediante a propositura da respectiva execução fiscal (AgRg no REsp n. 1.844.856/SC, Ministro Jorge Mussi, Quinta Turma, DJe 18/5/2020).
+4. Agravo regimental improvido. (AgRg no REsp n. 1.870.015/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/11/2020, DJe de 20/11/2020.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. REPARAÇÃO DO DANO. ART. 387, IV DO CPP. AUSÊNCIA DE INSTRUÇÃO PROCESSUAL ESPECÍFICA. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. FAZENDA PÚBLICA. COBRANÇA. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a fixação de valor mínimo para reparação dos danos materiais causados pela infração exige, além de pedido expresso na inicial, a indicação de valor e instrução probatória específica, de modo a possibilitar ao réu o direito de defesa com a comprovação de inexistência de prejuízo a ser reparado ou a indicação de quantum diverso" (AgRg no REsp 1.724.625/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/06/2018, DJe de 28/06/2018.)
+2. No caso em comento, há pedido expresso na denúncia, mas não houve instrução probatória específica sobre o quantum apontado como devido.
+3. Ressalte-se que, na hipótese em tela, já houve a constituição do crédito tributário, consubstanciado na Certidão de Dívida Ativa.
+Logo, não se faz necessária a fixação do valor mínimo à reparação do dano previsto no inciso IV do art. 387 do Código de Processo Penal, porquanto a Fazenda Pública já está devidamente aparelhada para a cobrança do montante que entende devido pelo contribuinte, mediante a propositura da respectiva execução fiscal.
+4. Agravo regimental a que se nega provimento. (AgRg no REsp n. 1.844.856/SC, relator Ministro Jorge Mussi, Quinta Turma, julgado em 5/5/2020, DJe de 18/5/2020.)
+Ante o exposto, reconsidero a decisão proferida às e-STJ fls. 417/418 para conhecer do agravo e dar provimento ao recurso especial para afastar o valor fixado a título de reparação de danos pelo crime tributário.
+Intimem-se.
+EMENTA
