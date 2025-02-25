@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 737):
+APELAÇÃO CÍVEL. INDENIZAÇÃO SECURITÁRIA. VÍCIOS CONSTRUTIVOS. PERÍCIA. RISCO DE DESABAMENTO OU DE DESMORONAMENTO NÃO CONSTATADO. AUSÊNCIA DE ABUSIVIDADE DA CLÁUSULA LIMITATIVA DE COBERTURA. DEVER DE INFORMAÇÃO OBSERVADO. RESPONSABILIDADE AFASTADA. PRECEDENTES. INAPLICABILIDADE DO ENTENDIMENTO FIRMADO NO RESP 1.804.965. SENTENÇA MANTIDA. RECURSO DESPROVIDO. 1. Não se pode responsabilizar a Seguradora pelos danos que não estão previstos na apólice de seguro habitacional, sobretudo quando a cláusula de limitação de cobertura securitária é suficientemente clara, não se vislumbrando qualquer abusividade. Ausente o dever de indenizar, não se cogita da aplicação da cláusula penal prevista na apólice para a hipótese de recusa injustificada ao pagamento da indenização securitária. 2. É inaplicável o entendimento firmado no REsp 1.804.965 na hipótese em que, além de não existir abusividade na cláusula limitativa de cobertura, há nítida tentativa de adaptação da causa de pedir deduzida na petição inicial ao entendimento estabelecido no aludido recurso.
+Nas razões do especial, aponta a recorrente violação dos artigos 47 e 51, IV, da Lei nº 8.078/90, além do dissídio jurisprudencial; argumentando, em síntese, que seria abusiva cláusula em contrato de seguro adjeto ao de financiamento de imóvel com recursos do Sistema Financeiro da Habitação, excluindo a cobertura por vício construtivo.
+Contra-arrazoado (fls. 804/813), o recurso especial foi admitido na origem (fls. 814/815).
+Assim delimitada a controvérsia, passo a decidir.
+No caso, extraio do acórdão recorrido que se pressupõe a inexistência de próprio vício construtivo para afastar a cobertura securitária, uma vez que eventual ruína no imóvel deve ser atribuída ao uso regular do bem; não havendo cogitar-se de cobertura para o evento (fl. 739):
+Ocorre que o laudo pericial apresentado nos autos (págs. 623/642) afasta a existência de qualquer risco de desmoronamento. Desse modo, como não há informação, por parte do perito, da existência de danos estruturais que causem risco de desmoronamento ou desabamento, não há que se falar na obrigação da ré de responder por tais danos.
+Nesse contexto, é importante ressaltar que, no caso em apreço, embora sejam aplicáveis os ditames do Código de Defesa do Consumidor, não se vislumbra qualquer abusividade ou falha no dever de informação no que tange às exclusões da cobertura securitária.
+ ..
+Ressalta-se, por fim, que, ao pleitear a aplicação do entendimento estabelecido pelo C. Superior Tribunal de Justiça, no Recurso Especial nº 1.804.965, em sede de repercussão geral, a apelante, além de não se atentar para a inexistência de abusividade da cláusula limitativa da cobertura securitária (nos termos acima expostos), pretende, por via reflexa, a modificação da causa de pedir deduzida em sua inicial. Sim, pois, na exordial, a apelante emnenhum momento aduziu a abusividade da cláusula 3.2 do contrato e das hipóteses de exclusão de cobertura securitária nela deduzidas.
+ ..  (grifo acrescido)
+Como se vê do trecho acima reproduzido, a Corte Local não controverte acerca da extensão da cobertura securitária para incluir também os vícios de construção, senão que pressupõe a não ocorrência desse mesmo evento, para afastar a pertinência de indenização securitária na hipótese.
+Ressalte-se, ainda, conforme se verifica do trecho acima transcrito, que a controvérsia em torno da suposta abusividade da cláusula limitadora de cobertura sequer foi conhecida pela Corte Local, por não compor a causa de pedir da demanda inicial; excluindo dessa maneira que estivesse dentro do limite objetivo da matéria devolvida na apelação.
+Diante desse contexto, ausente prequestionamento acerca da suposta abusividade da cláusula de cobertura, em contrato de seguro adjeto ao de financiamento imobiliário com recursos do SFH, não há como analisar a controvérsia de modo originário na presente via, em razão da falta de prequestionamento.
+Incidem , quanto ao ponto, as Súmulas 282 e 356/STF; obstando o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do inciso III do artigo 105 da Constituição Federal.
+A propósito:
+ ..
+4. Também é inviável o conhecimento do recurso com fundamento na divergência jurisprudencial, pois mesmo nas hipóteses de recurso especial interposto com fulcro na alínea c do inciso III do art. 105 da Constituição Federal, é imprescindível o prequestionamento da matéria para viabilizar o acesso à instância extraordinária.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.464.831/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+Em face do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspenso no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
