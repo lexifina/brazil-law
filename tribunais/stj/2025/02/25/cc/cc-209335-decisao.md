@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, conflito negativo de competência suscitado pelo Juiz de Direito da Vara Única da comarca de Águas de Lindoia/SP.
+Na origem, Mayara Bertazzo Pereira (Cirurgiã-dentista) propôs reclamação trabalhista contra o Consórcio Intermunicipal de Saúde do Circuito das Aguas (CONISCA), para que reconhecido o seu direito à estabilidade no emprego, nos termos do art. 41 da CF, com a determinação de sua reintegração.
+A Juíza do Trabalho de Itapira/SP, ora suscitada, declinou da competência para julgamento do feito, por entender que "a Justiça Comum é competente para julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa" (Tema 1143/RG).
+O suscitante, por sua vez, defendeu que a causa de pedir da ação é fundada na legislação trabalhista, porque "a autora requer a reintegração ao trabalho e, subsidiariamente, o pagamento da multa constante do art. 477 do CLT e diferenças de verbas rescisórias, inerentes ao liame celetista, o que atrai a competência da especializada" (fl. 59).
+O Ministério Público Federal manifestou-se pela competência do Juiz suscitante, da Vara Única da comarca de Águas de Lindoia/SP (fls. 97-100 ).
+É, em síntese, o relatório.
+Passo a decidir.
+Inicialmente, cumpre salientar que a jurisprudência desta Corte está assentada no sentido de que competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo está caracterizada pelo pedido e pela causa de pedir.
+Assim, "a definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda). O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada)" (STJ, CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe de 03/04/2012).
+No caso dos autos, verifica-se que a Justiça do Trabalho de Itapira-SP declinou da competência tendo em vista que o objeto da ação relaciona-se à validade do ato de dispensa da reclamante, aprovada em concurso público, mas contratada sob regime celetista.
+A Lei 11.107/2005, que dispõe sobre normas gerais de contratação de consórcios públicos, prevê:
+Art. 6º O consórcio público adquirirá personalidade jurídica:
+I - de direito público, no caso de constituir associação pública, mediante a vigência das leis de ratificação do protocolo de intenções;
+II - de direito privado, mediante o atendimento dos requisitos da legislação civil.
+§ 1º O consórcio público com personalidade jurídica de direito público integra a administração indireta de todos os entes da Federação consorciados.
+§ 2º O consórcio público, com personalidade jurídica de direito público ou privado, observará as normas de direito público no que concerne à realização de licitação, à celebração de contratos, à prestação de contas e à admissão de pessoal, que será regido pela Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.
+Assim, ainda que o consórcio tenha personalidade jurídica de direito privado, há disposição legal expressa quanto à forma de contratação e dispensa de pessoal. O STF, aliás, fixou a seguinte tese no Tema 606:
+A natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão. A concessão de aposentadoria aos empregados públicos inviabiliza a permanência no emprego, nos termos do art. 37, § 14, da CRFB, salvo para as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de entrada em vigor da Emenda Constitucional nº 103/19, nos termos do que dispõe seu art. 6º.
+Nesse sentido:
+AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO COMUM. RECLAMAÇÃO TRABALHISTA. EMPREGADO PÚBLICO DO MUNICÍPIO DE NIQUELÂNDIA-GO. DEMISSÃO. NATUREZA CONSTITUCIONAL-ADMINISTRATIVA DO ATO. TEMA 606/STF. COMPETÊNCIA DO JUÍZO ESTADUAL. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se de conflito de competência suscitado pelo JUÍZO DA VARA DO TRABALHO DE URUAÇU-GO e que conta com a 1ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO ESTADO DE GOIÁS como suscitado; o conflito foi instaurado nos autos da reclamação trabalhista proposta em desfavor do MUNICÍPIO DE NIQUELÂNDIA-GO.
+2. O Supremo Tribunal Federal, sob o rito da repercussão geral, firmou a orientação segundo a qual a natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão (Tema 606).
+3. A hipótese dos autos enquadra-se na tese firmada no Tema 606 da repercussão geral do STF, antes esposada, por quanto a causa trata justamente de demissão de empregado público, dispensado em razão de anterior aposentadoria espontânea, emergindo a natureza constitucional-administrativa do ato, a atrair a competência da Justiça comum para julgar a causa.
+4. Agravo interno a que se nega provimento.
+(AgInt no CC n. 192.039/GO, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/4/2023, DJe de 24/4/2023).
+Isso posto, nos termos do art. 34, inciso XXII do Regimento Interno deste e. Superior Tribunal de Justiça, conheço do Conflito para declarar competente para o processamento do feito o Juiz de Direito da Vara Única de Águas de Lindoia/SP, ora suscitante.
+Publique-se.
+EMENTA
