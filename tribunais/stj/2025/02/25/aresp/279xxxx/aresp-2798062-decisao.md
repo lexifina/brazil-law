@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por PHITOTERAPHIA BIOFITOGENIA LABORATORIAL BIOTA LTDA. contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 7 do STJ (e-STJ fls. 428/431).
+O Tribunal de origem deu parcial provimento ao recurso, em julgado que recebeu a seguinte ementa (e-STJ fls. 376/377):
+CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. FATO DO PRODUTO. TRATAMENTO CAPILAR. CREME DE ALISAMENTO AMACIHAIR. REAÇÕES DIVERSAS. QUEDA DE CABELO. ERITEMA. DESCAMAÇÃO. DERMATITE DE CONTATO POR IRRITANTE PRIMÁRIO COM INFECÇÃO SECUNDÁRIA. TESTE DE MECHA REALIZADO PELA CONSUMIDORA. VEROSSIMILHANÇA DAS ALEGAÇÕES AUTORAIS. DEMONSTRAÇÃO SUFICIENTE À COMPROVAÇÃO DO DANO E DO NEXO DE CAUSALIDADE. INVERSÃO DO ÔNUS DA PROVA. APLICAÇÃO DA LEGISLAÇÃO CONSUMERISTA. RESPONSABILIDADE OBJETIVA DA EMPRESA RECORRENTE. NÃO COMPROVADA A INEXISTÊNCIA DE VÍCIO DO PRODUTO E NEM A CULPA EXCLUSIVA DO CONSUMIDOR OU DE TERCEIROS. DEVER DE INDENIZAR CARACTERIZADO. PRECEDENTES DE DIVERSOS TRIBUNAIS PÁTRIOS. SENTENÇA REFORMADA APENAS PARA ADEQUAR O QUANTUM INDENIZATÓRIO ÀS NOÇÕES DA RAZOABILIDADE E PROPORCIONALIDADE. CONHECIMENTO E PROVIMENTO PARCIAL DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 398/407).
+No recurso especial (e-STJ fls. 408/423), fundamentado no art. 105, III, "a", da CF, a recorrente apontou violação do art. 12, § 3º, III, do CDC, sustentando a culpa exclusiva da recorrida pelo evento. Afirmou que deveria ser afastada sua responsabilidade, tecendo as seguintes considerações (e-STJ fl. 417):
+Toda análise do caso foi com base em afirmações da autora e suposições que em nada corroboram com os fatos narrados, muito pelo contrário. A questão de maior relevância da lide que diz respeito ao uso indevido do produto pela Recorrida foi ignorada pelos v. Acórdão Recorrido, e este fato foi comprovado pela Recorrente nos autos.
+Contrarrazões não apresentadas (e-STJ fl. 427).
+No agravo (e-S TJ fls. 432/444), foram refutados os fundamentos da decisão agravada e foi alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta não apresentada (e-STJ fl. 446).
+É o relatório.
+Decido.
+Com relação à violação do art. 12, § 3º, III, do CDC, o Tribunal de origem decidiu que não ficou comprovada a inexistência de vício do produto, tampouco a culpa exclusiva da recorrida. Confira-se (e-STJ fl. 381):
+Partindo-se dessas premissas, sobretudo diante das fotografias, da avaliação capilar realizada em salão, e do laudo médico juntado ao caderno processual pela autora (Ids. 21208683, 21208687 e 21208676), percebe-se que a utilização do creme de alisamento capilar fabricado pela recorrente ocasionou diversas reações à parte autora, tais como a queda expressiva dos cabelos, "corte químico", eritema, descamação, e dermatite de contato por irritante primário com infecção secundária (CID 10: L.24).
+Por outro lado, ressalto que a empresa apelante não logrou êxito em refutar a alegação da autora/consumidora de que adquiriu o creme alisante Amacihair, fabricado pela ré, e pouco tempo após a aplicação do produto apresentou forte reação à sua composição química. Com efeito, a apelante não trouxe aos autos elementos suficientes a fim de corroborar suas argumentações sobre a inexistência de defeito/vício do produto.
+Dessa forma, inegável a responsabilidade da empresa apelante decorrente do evento lesivo, tendo a consumidora sofrido danos gerados a partir da aplicação do produto. Não procedendo, pois, com as cautelas devidas, a empresa ré assumiu o risco e a obrigação de indenizar.
+Alterar o decidido no acórdão recorrido, no que se refere à conclusão acerca da inexistência de comprovação de vício do produto ou culpa exclusiva da consumidora, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se
+EMENTA
