@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito do Segundo Núcleo de Justiça 4.0 - Saúde Pública Estadual - de João Pessoal - PB e o Juízo Federal da 6ª Vara do Juizado Especial de Campina Grande - SJ/PB, extraído dos autos de ação de rito ordinário, com pedido de tutela de urgência, ajuizada por Zildimar Araujo Rodrigues contra o Estado da Paraíba, objetivando o fornecimento de medicamento não registrado na ANVISA.
+Inicialmente distribuída perante a Justiça Estadual, esta determinou a inclusão da União no polo passivo da lide e declinou da sua competência para processamento e julgamento do feito à Justiça Federal.
+O Juízo Federal, por sua vez, excluiu a União do polo passivo e, por conseguinte, declarou a incompetência do Juízo Federal, determinando a devolução dos autos ao Juízo Estadual, por entender que "deve ser aplicado ao caso o disposto no CPC, art. 45, § 3º ("O juízo federal restituirá os autos ao juízo estadual sem suscitar conflito se o ente federal cuja presença ensejou a remessa for excluído do processo"), e o comando emanado das Súmulas n.ºs 150 e 224 do STJ, verbis, respectivamente: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas" e "Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito" (e-STJ, fl. 18).
+Após os autos retornarem à Justiça Estadual, esta suscitou o presente conflito, ao fundamento de que sempre que o medicamento não for registrado na ANVISA, a União deverá integrar a lide e, consequentemente, a competência será da Justiça Federal.
+É o relatório. Decido.
+Nos termos do art. 955, caput, segunda parte, do CPC e do art. 196 do RI/STJ, designo o Juízo de Direito do Segundo Núcleo de Justiça 4.0 - Saúde Pública Estadual - de João Pessoal - PB, o suscitante, a fim de que delibere, em caráter provisório, a respeito das medidas urgentes.
+Oficie-se aos Juízos que compõem o conflito de competência, informando-os do teor desta decisão.
+Após, dê-se vista dos autos ao Ministério Público Federal, nos termos do art. 64, XII, do RI/STJ.
+Publique-se. Intimem-se.
+EMENTA
