@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por JOAO REISINGER JUNIOR, visto que "ausente a indicação do permissivo constitucional de sua insurgência, ou a sua feitura de forma errônea".
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+Nas razões do recurso especial, o recorrente aponta violação ao art. 502 do CPC/2015, e art. 5º, XXXVI, da CF, argumentando que "estando garantida a aposentadoria integral do recorrente com base na Lei 8.112/90 deve ser reformado o v. acórdão, que está a desrespeitar o artigo 502 do C. P. C. e o artigo 5º inciso XXXVI da Constituição da República Federativa do Brasil" (fl. 927).
+O acórdão recorrido, contudo, não analisou a possível violação apontada pelas razões recursais, asseverando que, "não se está a afirmar, aqui, a inexigibilidade da obrigação, tampouco sua exigibilidade. Essa discussão diz respeito ao mérito da impugnação. O que se está a decidir, sim, é que a impugnação é a via adequada à discussão da questão" (fl. 907), decidindo, por fim, que:
+ ..  o caso é de reformar-se a decisão agravada, que deu pela inadequação da via processual eleita, cabendo ao juízo a quo aferir e decidir se efetivamente a sentença deve ceder à decisão proferida pelo Supremo Tribunal Federal na ADC n. 36, como afirma o agravante; ou se, nada obstante tal decisão, por qualquer razão a sentença subsiste, como sustenta o agravado.
+Ante o exposto, dou provimento ao agravo para, reformando a r. decisão agravada, admitir a impugnação ofertada pelo agravante, determinando ao juízo singular que, após os trâmites ainda eventualmente necessários, decida sobre o mérito da questão lá suscitada (fl. 907).
+Nesse contexto, cons tata-se que as razões recursais estão dissociadas dos fundamentos utilizados na decisão recorrida . Desse modo, a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
