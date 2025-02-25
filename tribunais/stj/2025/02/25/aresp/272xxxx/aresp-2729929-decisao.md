@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da aplicação do art. 1.030, I, "b", do CPC/2015, além da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 526/529).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 221):
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CONTRATO DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS ABUSIVOS. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA. ABUSIVIDADE DOS JUROS CONTRATUAIS. CABIMENTO. JUROS FIXADOS SUPERAM MAIS DE DUAS VEZES A TAXA MÉDIA DO MERCADO. ABUSIVIDADE RECONHECIDA. REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES. MÁ- FÉ OU CONDUTA CONTRÁRIA À BOA-FÉ NÃO VERIFICADAS. EFEITOS DA MORA QUE DEVEM SER AFASTADOS DIANTE DAS ABUSIVIDADES RECONHECIDAS. INVERSÃO DO ÔNUS SUCUMBENCIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM VALOR L ÍQUIDO E CERTO. POSSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA EQUIDADE DIANTE DO VALOR IRRISÓRIO DA CONDENAÇÃO. ARTIGO 85, §8º, DO CPC. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 340/345).
+Nas razões do recurso especial (e-STJ fls. 350/372), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação do art. 421 do CC, pois (e-STJ fl. 359):
+ ..  o D. Juízo a quo incontroversamente invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na "taxa média de mercado", sem ao menos considerar as particularidades da contratação em discussão, tampouco sem realizar uma detida e necessária análise quanto aos altos riscos da contratação em discussão.
+No agravo (e-STJ fls. 580/588), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 597/601), na qual a parte agravada requer a aplicação da multa do art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+Decido.
+Conforme o § 2º do art. 1.030 do CPC ("Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021"), compete somente ao Tribunal de origem a análise de eventual distinção entre o precedente formado pelo recurso especial repetitivo e o caso concreto. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+ ..  4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, Relator Ministro JOÃO OTÁVIO DE NORONHA, Relator para Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018.)
+A Corte de origem, na sistemática estabelecida pelo legislador para a análise das demandas repetitivas, negou seguimento à insurgência recursal, asseverando que o acórdão anterior está em consonância com a orientação do STJ firmada em recurso repetitivo (Tema n. 27 do STJ).
+A aplicação das Súmulas n. 5 e 7 do STJ como óbices servem apenas como reforço da inadmissibilidade do recurso especial, pois se referem também sobre questão dos juros abarcada pelo tema n. 27 do STJ.
+Portanto, em conformidade com a jurisprudência citada, a matéria relativa aos juros não foi devolvida a novo exame deste Tribunal Superior, motivo pelo qual não conheço da irresignação.
+Ante o exposto, NÃO CONHEÇO do agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
