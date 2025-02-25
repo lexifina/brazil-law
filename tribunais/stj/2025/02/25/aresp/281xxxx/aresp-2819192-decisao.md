@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DO PARANÁ à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL EM FASE DE LIQUIDAÇÃO DE SENTENÇA. HONORÁRIOS PERICIAIS. CUSTEIO ATRIBUÍDO À AMBAS AS PARTES EM RAZÃO DA PARCIAL PROCEDÊNCIA DA DEMANDA. PARTE AUTORA BENEFICIÁRIA DA GRATUIDADE JUDICIAL. COBRANÇA DO QUANTUM RESPECTIVO DIRECIONADA AO ESTADO DO PARANÁ. DETERMINAÇÃO DE EXPEDIÇÃO DE RPV. INSURGÊNCIA DO ENTE FEDERADO. ALEGADA RESPONSABILIDADE DO EXECUTADO/VENCIDO. PARCIAL PROCEDÊNCIA QUE AUTORIZA O CUSTEIO NA PROPORÇÃO DA SUCUMBÊNCIA. AUSÊNCIA DE VIOLAÇÃO À TESE FIXADA NO TEMA REPETITIVO Nº 871. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO (fl. 33).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 95, caput e § 3º, do CPC e ao Tema 871 do STJ, no que concerne à impossibilidade de se arbitrar honorários periciais em face do Estado do Paraná, em liquidação, na hipótese em que a parte credora é beneficiária de justiça gratuita, sob o fundamento de que o referido dispositivo se refere ao processo de conhecimento, e não à fase de liquidação, devendo recair sobre o devedor o ônus pelo pagamento integral. Traz a seguinte argumentação:
+O Tribunal de Justiça do Estado do Paraná determinou a responsabilidade do Estado do Paraná para fins de pagamento dos honorários, sob o argumento de que a parte credora não foi integralmente vencedora, aplicando o disposto no art. 95, caput, e §3, CPC:
+ ..
+Em primeiro lugar, há que se esclarecer que o dispositivo legal se refere ao processo de conhecimento, e não à fase de liquidação. Em tal fase processual o beneficiário da justiça gratuita pode vir a ser devedor e o custeio da verba honorária é necessário para a instrução processual e análise do pleito.
+Já na fase de liquidação de sentença não se analisa a pretensão, atendo-se o juízo à apuração dos valores devidos, os quais, em processos que envolvam beneficiários da justiça gratuita, só podem ser exigidos da parte contrária.
+Assim, a lógica que embasou a decisão ora recorrida desconsiderou que os beneficiários da justiça gratuita não são executados, ainda que devedores, motivo pelo qual a procedência total ou parcial não é relevante, já que a execução se dará apenas em face da outra parte.
+Dito de outro modo, a única execução possível na presente demanda é dos beneficiários da justiça gratuita, e o único devedor possível é a parte contrária, motivo pelo qual a aplicação do Tema 871-STJ (item 1.3) é imperiosa:
+ ..
+Assim, nenhuma responsabilidade deverá ser imputada ao Estado do Paraná quanto ao pagamento dos honorários periciais, pois sendo certo o devedor - o único devedor possível em sede de liquidação de sentença - a ele deve recair o ônus pelo pagamento integral dessa verba, e não ao beneficiário da justiça gratuita (fls. 48- 49).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal.
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.565.020/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 14.8.2020; AgInt no REsp n. 1.832.794/RO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 27.11.2019; AgInt no AREsp n. 1.425.911/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15.10.2019; AgInt no REsp n. 1.864.804/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 7.6.2021.
+Ademais, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
