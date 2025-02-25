@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental. Furto qualificado. Rompimento de obstáculo. Ausência de laudo pericial. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, fundamentada na Súmula n. 83 do STJ, que pleiteava o afastamento da qualificadora de rompimento de obstáculo no crime de furto, em razão da inexistência de laudo pericial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a qualificadora de rompimento de obstáculo pode ser mantida sem a realização de laudo pericial, com base em outros elementos probatórios.
+III. Razões de decidir
+3. As instâncias ordinárias concluíram que a qualificadora restou comprovada pela confissão do acusado, pela palavra da vítima, pelo testemunho dos policiais e pelo Auto de Levantamento do Local do Furto.
+4. A jurisprudência do STJ permite a substituição do laudo pericial por outros meios de prova quando o delito não deixa vestígios, estes tenham desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+5. A decisão agravada está amparada por precedentes do STJ, que dispensam a perícia quando há outros meios de prova suficientes para comprovar o rompimento de obstáculo.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: "1. A qualificadora de rompimento de obstáculo pode ser mantida sem laudo pericial, desde que comprovada por outros meios de prova. 2. A jurisprudência do STJ permite a substituição do laudo pericial por outros meios de prova em casos específicos.".
+Dispositivos relevantes citados: CP, art. 155, §4º, I; CPP, art. 167; CPP, art. 158.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1.492.641/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23.06.2015; STJ, AgRg no REsp 2.097.545/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe de 23.10.2024; STJ, AgRg no HC 863.888/SE, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe de 19.12.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEXANDRO PRADO DE FREITAS, contra a decisão de fls. 843/848 que, fundamentada nos termos do art. 255, §4º, inciso I, do RISTJ, não conheceu do recurso especial.
+Nas razões recursais, a Defesa reitera os fundamentos expostos no recurso especial, aduzindo que o presente recurso merece provimento, fundamentando na inaplicabilidade do óbice da Súmula n. 83, STJ. Requer seja o presente agravo regimental conhecido e provido a fim de afastar a qualificadora do rompimento de obstáculo diante da inexistência de laudo pericial. (fls. 852/856).
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Furto qualificado. Rompimento de obstáculo. Ausência de laudo pericial. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, fundamentada na Súmula n. 83 do STJ, que pleiteava o afastamento da qualificadora de rompimento de obstáculo no crime de furto, em razão da inexistência de laudo pericial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a qualificadora de rompimento de obstáculo pode ser mantida sem a realização de laudo pericial, com base em outros elementos probatórios.
+III. Razões de decidir
+3. As instâncias ordinárias concluíram que a qualificadora restou comprovada pela confissão do acusado, pela palavra da vítima, pelo testemunho dos policiais e pelo Auto de Levantamento do Local do Furto.
+4. A jurisprudência do STJ permite a substituição do laudo pericial por outros meios de prova quando o delito não deixa vestígios, estes tenham desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+5. A decisão agravada está amparada por precedentes do STJ, que dispensam a perícia quando há outros meios de prova suficientes para comprovar o rompimento de obstáculo.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: "1. A qualificadora de rompimento de obstáculo pode ser mantida sem laudo pericial, desde que comprovada por outros meios de prova. 2. A jurisprudência do STJ permite a substituição do laudo pericial por outros meios de prova em casos específicos.".
+Dispositivos relevantes citados: CP, art. 155, §4º, I; CPP, art. 167; CPP, art. 158.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1.492.641/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23.06.2015; STJ, AgRg no REsp 2.097.545/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe de 23.10.2024; STJ, AgRg no HC 863.888/SE, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe de 19.12.2023.
+VOTO
+A insurgência não merece ser acolhida. O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+Nas razões do recurso especial, a Defesa pleiteia o afastamento da qualificadora prevista no art. 155, §4º, inciso I, do Código Penal, visto que inexiste laudo pericial que ateste o rompimento de obstáculo.
+Compulsando as teses aventadas na seara recursal, tenho que suas premissas não merecem prosperar.
+O acórdão impugnado, ao apreciar o apelo defensivo, assim fundamentou (fls. 762/775):
+"(..) Inicialmente, destaco que a da infração está consubstanciada pelo Auto dematerialidade Prisão em Flagrante (mov. 1.1), pelo Boletim de Ocorrência (mov. 1.2), pelo Auto de Exibição e Apreensão (mov. 1.6), pelo Auto de Avaliação (mov. 1.8), pelo Auto de Entrega (mov. 1.9), pelo Auto de Levantamento em Local de Furto (mov. 6.1), pelas fotos e vídeos do local dos fatos (mov. 6.2 a 6.13), além de toda a prova oral colhida no decorrer da instrução processual.
+(..)
+Verifica-se, ainda, que quando chegou em sua casa, a Polícia Militar já estava no local, sendo acionada por vizinhos que observaram uma movimentação suspeita no imóvel, eis que visualizaram uma pessoa entrando e saindo pela janela da residência carregando itens para fora.
+Em relação aos meios de entrada usados pelo acusado na casa, a vítima relatou que o portão da residência era eletrônico e que foi retirado dos trilhos pelo réu, possibilitando seu ingresso. Ademais, quanto à janela, informou que o denunciado teve que forçar a tranca para conseguir abri-la, danificando-a.
+Extrai-se, do mesmo modo, dos dizeres da ofendida, que não havia conseguido arrumar o portão, recorrendo a um cadeado para conseguir trancá-lo, bem como a janela, apesar de não fazer reparos necessários, asseverou que apresenta maior dificuldade para fechá-la após a data do ocorrido.
+Consigne-se que a palavra da vítima, em crimes patrimoniais, possui relevante valor para o deslinde dos fatos e serve de base para o decreto condenatório - especialmente em razão das condições em que tais delitos são praticados (normalmente sem a presença de outras testemunhas) -, sobretudo quando ausente qualquer evidência de interesse em incriminar indevidamente o apelante ou que tenha faltado com a verdade.
+Corroborando a versão apresentada pela ofendida está o relato do policial militar ouvido em sede policial e judicial, o qual foi claro em apontar que foi acionado pelos vizinhos da vítima, os quais, como visto anteriormente, constataram um cenário suspeito na residência, já que o portão estava aberto, havia um carro Gol estacionado em frente à casa, que não era da moradora, bem como identificaram a movimentação de uma pessoa no interior do imóvel.
+Dessa maneira, uma vez chamados a atender a ocorrência, o policial, junto de seu colega de farda, chegou ao local, surpreendendo o réu em posse de parte das , separando-as para seres furtivae evadir da casa, além de outros itens estarem em cima do sofá e outro já dentro do carro.
+Mais precisamente quanto ao rompimento de obstáculo, o agente de segurança confirmou os relatos da vítima, declarando que o portão, de fato, havia sido retirado dos trilhos, assim como a janela pela qual o acusado estava utilizando para retirar os bens que iria subtrair de dentro da casa, apresentou sinais que de fora forçada, constatando que sentenciado fez o uso de uma chave de fenda para conseguir abri-la, afirmando, ainda, que não conseguiria abrir somente com as mãos, sendo necessário o uso da ferramenta para tanto.
+Nota-se que inexiste qualquer impedimento à consideração de relatos de policiais militares que testemunhou durante a fase inquisitiva e judicial, mormente quando eles, como no caso, acabam por revelar, antes de qualquer antagonismo ou incompatibilidade, absoluta coerência e harmonia com o restante do material probatório.
+(..)
+No mesmo sentido foi o depoimento do policial civil que foi designado como perito constatador dos danos, o qual comprovou o efetivo rompimento de obstáculo por meio do Auto de Levantamento (mov. 6.1).
+Observa-se que o agente de polícia, atuante como perito , constatou, assim comoad hoc colhido nos dizeres da vítima e do policial militar atuante no caso, que o portão da residência foi, sim, retirado dos trilhos para que o acusado pudesse ingressar no terreno da casa e, quanto à janela, também identificou que houve a entrada forçada, sendo tal ação possível, tão somente, com o auxílio de um utensílio, qual seja, a chave de fenda, não sendo viável a abertura por meio de mera força bruta com as mãos.
+Ainda, ressalta-se que o policial civil é enfático ao dizer que "houve rompimento, porque ela não estava aberta, ele não teria condições de abrir com as mãos; que sem o rompimento ele não . Frise- se que o agente expõe que a tranca da janela foi entortada com a chave de"conseguiria entrar fenda empregada pelo réu, confirmando o rompimento do referido acesso à casa.
+Não bastasse a ampla confirmação da configuração da qualificadora pelos elementos acima analisados, importante salientar que o próprio sentenciado, ao confessar a prática criminosa, confirmou, também, o rompimento de obstáculo, tanto do portão como da janela.
+Isso porque, em seu interrogatório judicial, o acusado apresentou versão condizente com os demais meios de prova coligidos, ao afirmar que " ", bem como, ao se referirpuxou o portão e ele abriu à janela, disse que " ", " ", além de, principalmente, admitirabriu com uma chave usou a chave de fenda que " ". sem a chave não teria conseguido abrir a janela
+Assim, no que tange ao pedido de afastamento da qualificadora de rompimento de obstáculo, nota-se que partir dos relatos da vítima, do policial militar e do policial civil, além do acusado ter confessado a prática criminosa e os meios utilizados para o acesso à casa, considerando as circunstâncias do flagrante, assim como por todos os elementos colhidos, é possível afirmar que houve o rompimento de obstáculo perpetrado pelo réu a fim de ingressar na residência para subtrair itens de seu interior.
+(..)
+Assim, em que pese os argumentos defensivos sobre a necessidade da realização de uma perícia oficial e a consequente confecção de um laudo técnico que demonstre a efetiva danificação dos pontos de acesso utilizados pelo réu, vê-se que a ausência do referido instrumento foi devidamente suprida pelos demais elementos apensados aos autos, conforme o previsto no artigo 167 do Código de Processo Penal, considerado ressalva ao elencado no artigo 158 do mesmo diploma. (..)."
+Na espécie, verifico que as instâncias ordinárias concluíram que a qualificadora do rompimento de obstáculo restou comprovada pela própria confissão do acusado, pela palavra da vítima, pelo testemunho do policial militar e do policial civil, considerando as circunstâncias do flagrante, e pela realização do Auto de Levantamento do Local do Furto.
+Observo a orientação, desta Corte Superior, quanto à possibilidade do reconhecimento da qualificadora, de forma excepcional, quando a prova pericial puder ser suprida por outros elementos comprobatórios presentes nos autos que demonstrem a ocorrência do rompimento de obstáculo de forma inconteste.
+Nesse sentido:
+"(..) 4. Inviável, ainda, a exclusão das qualificadoras do rompimento de obstáculo pela não realização do laudo pericial, tendo em vista que esta Corte Superior se tem " ..  orientado pela possibilidade de substituição do laudo pericial por outros meios de prova quando o delito não deixa vestígios, estes tenham desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, como no caso dos autos em que foi violada a porta da residência, não sendo razoável a exigência de que a vítima mantenha a cena do crime intacta até o comparecimento da perícia no local, colocando-se em situação de risco" (AgRg no R Esp n. 1.492.641/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/6/2015, D Je 29/6/2015). (..)" (AgRg no R Esp n. 2.097.545/SC, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, D Je de 23/10/2024).
+"1. O acórdão estadual não confronta a jurisprudência desta Corte firmada no sentido de que é dispensável a perícia do local em que rompido o obstáculo no crime de furto qualificado quando está devidamente comprovado por outros meios de prova, tal como se deu na hipótese. Não se pode exigir da vítima que conserve sua propriedade desprotegida enquanto aguarda a realização de exame pericial. (..)" (AgRg no HC n. 863.888/SE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, D Je de 19/12/2023).
+"1. A jurisprudência do STJ é posta no sentido de que a incidência da qualificadora prevista no art. 155, § 4º, I, do Código Penal requer a realização de perícia, a qual somente pode ser suprida por outros meios de prova caso o delito não deixe vestígios, ou que tenham desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+2. No caso dos autos, entretanto, apesar de não ter sido realizado o exame pericial, concluiu o Tribunal de origem que a vítima relatou ter constatado que o ato delituoso ocorreu após o réu ter arrombado janela de quarto de sua casa, o que foi ratificado pelo próprio réu, em juízo. Também é posto como prova o auto de levantamento do local do delito em que constam imagens fotográficas que demonstram a ocorrência do arrombamento.
+3. Presentes outros meios de prova suficientes para comprovar o rompimento de obstáculo, não há falar na exclusão da qualificadora. Incidência da Súmula n. 83 do STJ. 4. Agravo regimental im provido" (AgRg no R Esp n. 2.061.222/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), D Je de 14/3/2024 ).
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
