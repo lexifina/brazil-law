@@ -1,0 +1,21 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele estado na Apelação Criminal n. 0806244.69.2022.8.18.0031.
+Consta dos autos que o recorrido foi condenado a 2 anos e 6 meses de reclusão, em regime aberto, mais multa, por infração ao art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, o Parquet alega que "restaram presentes os requisitos para aplicação da minorante referente ao art. 33, §4º, da Lei de Drogas na fração de 1/6 (um sexto)" (fl. 373).
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo provimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+A Corte estadual assim argumentou para modular a fração da minorante (fl. 343, grifei):
+Por fim, na terceira fase, o juiz monocrático reconheceu ao apenado o benefício estipulado pelo art. 33, §4º, da Lei. 11.343/06, em face de ser primário, possuir bons antecedentes e não existir qualquer prova de que se dedique às atividades criminosas ou integre organização criminosa, vindo a reduzir a pena no patamar mínimo de 1/6 (um sexto) em consideração a natureza e quantidade da substância entorpecente apreendida em seu poder, fixando a pena definitiva em 06 (seis) anos e 03(três) meses de reclusão e a pena de multa em 625 (seiscentos e vinte e cinco) dias-multa.
+Ocorre que, conforme pugnou a defesa, assiste razão ao réu quanto a correção da causa de diminuição de pena estampada no parágrafo 4º do artigo 33 da lei de drogas, visto que a redução da fração de 2 3 foi negada ao apelante de forma inidônea utilizando como fundamento apenas a questão da natureza e quantidade da droga apreendida que já foi utilizada na primeira fase para exasperar a pena base.
+É certo que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: HC n. 379.203/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/2/2017.
+No entanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+No caso, a quantidade de droga foi usada para majorar a pena-base, de modo que não pode ser novamente considerada na terceira fase para modular a fração da minorante do tráfico privilegiado, sob pena de bis in idem.
+Além disso, verifica-se que o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, porquanto "a quantidade e natureza da droga, em conformidade com a interpretação do art. 42 da Lei 11.343/2006 somente pode ser valorada como uma única vetorial, não como fizeram as instâncias ordinárias, separando-se a natureza e a quantidade como se fossem duas circunstâncias judiciais distintas" (HC n. 567.261/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/6/2020, grifei).
+Assim, diante dessas considerações, deve ser mantida a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas no patamar máximo de 2/3.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
