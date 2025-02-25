@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de FLAVIO BORGES GONZAGA e ANALU MENDES PUCCI BANDEIRA, tendo apontado como autoridade coatora o Tribunal de Justiça do Distrito Federal.
+Consta dos autos que os pacientes foram condenados como incurso no art. 155, § 4º, inciso IV, do Código Penal, às penas de 3 anos de reclusão, em regime inicial semiaberto, e 12 dias-multa, à razão mínima (FLAVIO), e 2 anos e 9 meses de reclusão, em regime inicial aberto, mais 11 dias-multa, à razão mínima (ANALU).
+Na presente impetração, busca-se a concessão da ordem, para que os impetrantes sejam absolvidos das condutas delitivas a eles atribuída, mediante aplicação do princípio da insignificância.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso dos autos, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Isso porque, especificamente no que concerne à aplicação do princípio da insignificância em se tratando do crime de furto, "com relação ao componente objetivo, o valor da res furtivae, em regra, não pode ultrapassar 10% (dez por cento) do salário mínimo vigente à época dos fatos - patamar que, a depender das circunstâncias do caso concreto, em se tratando de vítima pessoa jurídica, pode ser elevado para 20% (vinte por cento) (AgRg no HC 928308 / SC, Rel. Ministro OTÁVIO DE ALMEIDA TOLEDO (DESEMBARGADOR CONVOCADO DO TJSP), SEXTA TURMA, DJe 28/10/2024).
+Nesta ordem de ideias, como já decidido por este Superior Tribunal de Justiça em casos análogos, entendimento que se aplica à hipótese dos autos, o comportamento reiterado na prática de crimes patrimoniais afasta o reduzido grau de reprovabilidade da conduta, não sendo possível a aplicação do princípio da bagatela" (AgRg no REsp n. 1.988.543/MG, QUINTA TURMA, de minha relatoria, julgado em 7/2/2023, DJe de 14/2/2023).
+Na hipótese em tela, os pacientes são reincidentes e os bens furtados ultrapassam o valor de 10% do salário mínimo à época dos fatos, circunstâncias que impedem o reconhecimento da atipicidade material de suas condutas.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
