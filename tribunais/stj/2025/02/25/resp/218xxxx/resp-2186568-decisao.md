@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial, manejado por Compostela Alimentos Ltda., com base no art. 105, III, a da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 267):
+TRIBUTÁRIO. SIMPLES NACIONAL. BASE DE CÁLCULO. EXCLUSÃO DAS TAXAS E COMISSÕES PAGAS A APLICATIVOS DE ENTREGAS - DELIVERY. IMPOSSIBILIDADE.
+1. Os valores pagos à empresas de aplicativo de entregas (delivery) compõem a base de cálculo do PIS, COFINS, IRPJ e CSLL recolhidos por meio do Documento de Arrecadação do Simples Nacional (DAS).
+2. Não há interesse de agir de empresa sujeita ao Simples Nacional no que diz respeito a discussão das hipóteses de creditamento em PIS e COFINS pela modalidade não-cumulativa.
+A parte recorrente aponta violação aos arts. 110 e 43 do CTN; 1º da Lei 12.016/2009; e às Leis 9.718/98, 10.637/2002, 10.833/03 e 12.973/2014. Sustenta, em resumo: (I) o "afastamento da impetração contra lei em tese  ..  pois  além da hipótese de violação de direito líquido e certo, a impetração do mandado de segurança também pode ser fundada quando houver justo receio de que isso ocorra, oportunidade na qual o mandamus será preventivo" (fls. 323 e 325); (II) " a comissão destinada à plataforma de delivery não integra o faturamento ou a receita bruta da Recorrente, uma vez que tal valor se reveste na própria atividade empresarial (objeto social) do aplicativo, ao remunerar o serviço de intermediação/agenciamento contratado na operação " (fl. 334).
+Contrarrazões apresentadas às fls. 358/367.
+Recurso extraordinário interposto às fls. 279/311, com juízo positivo de admissibilidade à fl. 372.
+O Ministério Público Federal ofereceu parecer às fls. 390/403.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A matéria pertinente aos arts. 110 e 43 do CTN 1º da Lei 12.016/2009 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Além disso, verifica-se que, embora a parte recorrente tenha indicado ofensa às Leis 9.718/98, 10.637/2002, 10.833/03 e 12.973/2014, não apontou, com precisão, qual dispositivo legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica à lei federal, sem particularização precisa dos dispositivos malferidos, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Acerca do tema, os seguintes julgados ganham relevo: AgInt no REsp 1.894.935/PR, Rel. Ministra Assusete Magalhães, DJE 22/3/2021; AgInt no AREsp 1.689.201/PB, Rel. Ministro Raul Araújo, DJE 22/3/2021; AgInt no AREsp 1.738.090/SP, Rel. Ministro Herman Benjamin, DJE 1º/3/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
