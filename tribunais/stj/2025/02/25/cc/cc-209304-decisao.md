@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre a Justiça Estadual e a Justiça Federal nos autos de ação envolvendo direito à saúde, na qual é requerida a internação da autora em sistema home care.
+O feito, ajuizado contra o Município de Crissiumal, o Estado do Rio Grande do Sul e a União, foi inicialmente proposto perante a Justiça Federal.
+O Juízo Federal do Segundo Núcleo de Justiça 4.0 de Porto Alegre - SJRS declinou da competência em favor da Justiça Estadual, após excluir a União da lide, por ilegitimidade passiva, nos termos das Súmulas n. 150 e 224/STJ.
+O Juízo de Direito da Vara Judicial de Crissiumal - RS, por seu turno, suscitou o presente conflito, referindo-se ao julgamento do Tema 1.234 da Repercussão Geral.
+Parecer do Ministério Público pelo conhecimento do conflito para declara a competência do Juízo estadual, nos termos da ementa (fl. 109):
+Processo civil. Constitucional. Conflito de Competência. Sistema Único de Saúde. Paciente com graves sequelas. Pedido de internação domiciliar. Exclusão da União do polo passivo da demanda. Programas de atenção domiciliar e melhor em casa. Operacionalização pelos gestores locais. Efeitos dos enunciados 150, 224 e 254 do STJ. Parâmetros do Tema nº 1.234 não aplicáveis aos pedidos de internação domiciliar. Competência da Justiça Estadual.
+1. A discussão quanto à solidariedade entre os entes federados e a possibilidade de acionamento de qualquer um deles para exigência do cumprimento integral da obrigação sanitária decorreu do Tema nº 793 do Supremo Tribunal Federal.
+2. O conflito não encontra solução no Tema nº 1.234/STF, que possui teses formuladas para medicamentos com registro na ANVISA, não inclusos ou inclusos em listas do Sistema Único de Saúde.
+3. Exclusão da União do polo passivo da demanda pelo Juízo federal com anotação da existência de regulação do serviço de internação domiciliar em política pública de saúde operada pelos entes federados locais. Incidência das Súmulas 150, 224 e 254 do STJ.
+Parecer pelo conhecimento do conflito e declaração da competência do Juízo estadual, o suscitante.
+É o relatório. Decido.
+Cuida-se, originariamente, de ação ordinária na qual paciente com graves sequelas requer internação domiciliar do Sistema Único de Saúde.
+O Juízo Federal afastou o interesse da União na demanda ao fundamento de que (fls. 86-88, e-STJ):
+No caso, não verifico legitimidade passiva da União para figurar como ré no presente feito.
+ ..  o STF, ao apreciar o Tema 793, sinalizou com necessidade de se atribuir a cada ente a sua responsabilidade dentro da organização do SUS, verbis:
+"Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde e, diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro".
+ ..
+Na espécie, a parte autora busca prestação de saúde mais ampla do que aquela fornecida pelo SUS, por meio do Serviço de Atenção Domiciliar (SAD) e do Programa Melhor em Casa (PMeC), regulados pela Portaria GM/MS n. 3.005/2024, que assim estabelece quanto à distribuição de atribuições:
+ ..
+Inobstante a previsão de auxílio do custeio pela União, a questão em debate não se refere à ausência de repasse, à forma de pagamento ou se a prestação está abrangida na política do SUS.
+ ..
+Portanto, a União não é a responsável, na forma delimitada pelo SUS, para a prestação relacionada à operacionalização do Serviço de Atenção Domiciliar (SAD) e do Programa Melhor em Casa (PMeC), e sua presença nos autos em nada colabora à solução da demanda, somente gerando uma discussão por quem não é legítimo para a efetiva prestação do serviço e deslocando a competência do juízo natural, que é o estadual.
+Acerca da controvérsia posta, a jurisprudência do Superior Tribunal de Justiça se construiu no sentido de que as ações prestacionais na área de saúde no âmbito do Sistema Único de Saúde podem ser propostas em face de qualquer dos entes federativos, que são solidariamente responsáveis, conforme definido no julgamento do RE n. 855.178/SE (Tema 793/STF). Ressalvam-se as hipóteses de medicamentos ainda não aprovados pela ANVISA, em que a União integrará a lide em litisconsórcio passivo necessário.
+Tendo em vista a relevância e grande repercussão social da matéria, ela foi objeto do Incidente de Assunção de Competência n. 14/STJ e do Tema da Repercussão Geral n. 1.234/STF, assim definido: "Legitimidade passiva da União e competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária - ANVISA, mas não padronizados no Sistema Único de Saúde - SUS" (RE n. 1.366.243/SC, relator Ministro Presidente, Tribunal Pleno, DJe de 13/9/2022).
+Contudo, em se tratando de requerimento de internação no sistema home care, tem-se que a hipótese dos autos não se enquadra nem no IAC 14/STJ, que versou especificamente sobre ações relativas à saúde intentadas com o objetivo de compelir o Poder Público ao cumprimento de obrigação de fazer consistente na dispensação de medicamentos não inseridos na lista do SUS, mas registrado na ANVISA; nem no Tema n. 1.234/STF, em que expressamente ressalvou-se que produtos de interesse para saúde que não sejam caracterizados como medicamentos, tais como órteses, próteses e equipamentos médicos, bem como procedimentos terapêuticos, em regime domiciliar, ambulatorial e hospitalar, não foram debatidos na Comissão Especial e, portanto, não foram contemplados no tema.
+Incide, portanto, o disposto nas Súmulas 150 e 254 desta Corte, in verbis, respectivamente:
+Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.
+A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual.
+Nesse sentido, confiram-se as seguintes decisões desta Corte: CC n. 211.382, Ministra Maria Thereza de Assis Moura, DJEN de DJEN 19/02/2025; CC n. 209.338, Ministro Teodoro Silva Santos, DJEN de DJEN 18/02/2025; CC n. 210.401, Ministro Paulo Sérgio Domingues, DJEN de DJEN 11/02/2025; CC n. 206.998, Ministra Maria Thereza de Assis Moura, DJEN de DJEN 29/01/2025; CC n. 209.744, Ministro Paulo Sérgio Domingues, DJEN de DJEN 23/12/2024; CC n. 209.404, Ministro Gurgel de Faria, DJEN de DJEN 23/12/2024; CC n. 210.159, Ministro Francisco Falcão, DJEN de DJEN 13/12/2024.
+Ante o exposto, conheço do conflito para declarar competente o Juízo estadual.
+Dê-se ciência aos Juízos envolvidos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E FEDERAL. HOME CARE. JULGAMENTO DO TEMA 1234/STF. INAPLICABILIDADE AO CASO. SÚMULAS 150 E 254/STJ. INTERESSE JURÍDICO DA UNIÃO AFASTADO PELA JUSTIÇA FEDERAL. IMPOSSIBILIDADE DE REEXAME. COMPETÊNCIA DO JUÍZO ESTADU AL.
