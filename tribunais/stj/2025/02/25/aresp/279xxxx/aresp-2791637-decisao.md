@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MUNICIPIO DE PAULINIA, com fundamento na insuficiência de argumentos para infirmar as conclusões do acórdão combatido e na incidência da Súmula 7 do STJ, nos seguintes termos (fl. 309):
+O recurso não merece trânsito.
+Os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça.
+Inadmito, pois, o recurso especial (págs. 294/301) com fundamento no art. 1.030, inciso V, do Código de Processo Civil.
+A parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, por ser desnecessária a reincursão no acervo fático-probatório dos autos. Afirma que o acórdão vergastado considerou que o termo inicial do prazo decadencial para a Administração anular ato administrativo do qual decorre efeitos patrimoniais contínuos é a data da prática do ato administrativo, aplicando o caput do art. 54, da Lei n. 9.784/1999, contudo o prazo de decadência somente se inicia a partir da primeira percepção do pagamento incorreto, nos termos do § 1º, do art. 54, da referida lei. Dessarte, requer o conhecimento do agravo para regular processamento do recurso especial.
+Contraminuta apresentada (fls. 324-327).
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal, por meio do qual aponta violação do caput, do art. 54, da Lei n. 9.784/1999 . Assim, justifica que o prazo decadencial tem início a partir da primeira percepção do pagamento incorreto, nos termos do § 1º, do art. 54, da Lei n. 9.784/1999.
+O recorrente esclarece que a parte recorrida é servidora pública do Município e, na presente ação, pleiteia o reconhecimento judicial de seu direito à progressão vertical na carreira do cargo público ocupado, que chegou a ser deferida na via administrativa em abril/2018, mas os efeitos patrimoniais nunca ocorreram, pois a progressão não foi implementada em folha de pagamento.
+Aponta que a Administração declarou nulo o ato em julho/2023, sendo a ilegalidade incontroversa nos autos, como consignado na sentença de 1º grau, a qual, todavia, concluiu que teria decaído o prazo para a respectiva anulação. Informa que, a despeito da interposição de recurso de apelação pela municipalidade, o acórdão manteve a sentença, concluindo que, mesmo sem ter havido pagamento com base no ato nulo, deveria ser aplicado o caput do art. 54, da Lei n. 9.784/1999, com início do prazo decadencial a partir da prática do ato ilegal.
+Dessarte, pugna pelo provimento do recurso, para reformar o acórdão recorrido e concluir como tempestivo o reconhecimento da nulidade do ato administrativo discutido na demanda, com consequente improcedência do pedido formulado pela recorrida na inicial.
+A irresignação recursal não merece ser acolhida.
+O acórdão recorrido restou assim ementado (fl. 284):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA Procedimento comum Servidora pública do Município de Paulínia Direito à progressão vertical, consoante a LCM nº 66/2017 Direito que foi reconhecido em abril de 2018 sem que houvesse implementação na folha de pagamento Ato administrativo declarado nulo em julho de 2023, quando decorrido o prazo de cinco anos previsto pelo art. 54, "caput", da Lei nº 9.784/1999 Decadência do direito da Administração de anular ou declarar nulo o ato administrativo Afastamento da regra do § 1º do mesmo artigo, vez que o direito nunca foi implementado em folha de pagamento Pretensão de suspender o processo até a definição da tese no Tema 1276 do STF Impossibilidade Ausência de determinação nesse sentido Sentença mantida. Apelação e remessa necessária desprovidas.
+E ainda, o Tribunal de origem assim se manifestou sobre a controvérsia (fls. 289-290):
+Ocorre que o Município de Paulínia não poderia ter declarado a nulidade do ato administrativo, vez que, em julho de 2023, já havia transcorrido o prazo de cinco anos previsto pelo caput do art. 54 da Lei nº 9.784/1999:
+Art. 54. O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.
+§ 1º. No caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do primeiro pagamento.
+§ 2º. Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.
+Ao contrário do que alega o réu, ora apelante, a regra do § 1º do art. 54 seria aplicável ao presente caso se tivesse havido algum pagamento. Porém, como admitido pelo próprio apelante, o direito reconhecido pelo ato administrativo de 2018 nunca foi implementado em folha de pagamento, prevalecendo, por isso, a regra do caput do art. 54. Logo, correta a r. sentença ao reconhecer a decadência do direito do Município de Paulínia de anular ou declarar a nulidade do ato administrativo.
+Diante do exposto, é possível verificar que infirmar as conclusões a que chegou a Corte Estadual acerca do prazo decadencial, como requer a parte recorrente, ensejaria o necessário reexame da matéria fático- probatória constante dos autos, o que é vedado na estreita via do recurso especial, ante o óbice da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
