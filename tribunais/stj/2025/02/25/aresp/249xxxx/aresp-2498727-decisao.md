@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por AMARO DONISETE NOGUEIRA, impugnando acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS.
+RECONHECIMENTO DO PEDIDO. ART. 19, § 1º, DA LEI 10.522/02. REDUÇÃO PELA METADE DOS HONORÁRIOS. § 4º ART. 90 DO CPC.
+1. Na forma da Lei nº 10.522/2002, a Fazenda Pública é dispensada do pagamento de honorários quando cumpridas as seguintes exigências: a) manifestação expressa de reconhecimento, pela Procuradoria, b) anuência integral com o pedido, c) tempestividade da manifestação, devendo ocorrer na primeira oportunidade que o Fisco tem para responder, após conhecido o pedido, e, d) enquadramento da matéria em discussão nas hipóteses do art. 18 (temas dispostos na precitada lei) ou nas dos incisos do art. 19, caput, situação em que cabe consulta a atos declaratórios da PGU, aprovados pelo Ministro de Estado da Fazenda, como a Lista de Dispensa de Contestar e Recorrer (disponível no sitio eletrônico da PGFN).
+2. A redução pela metade dos honorários sucumbenciais ocorre quando qualquer das partes reconhece o pedido - na primeira oportunidade para responder -, e, simultaneamente, cumpre integralmente a prestação reconhecida, quando for o caso.
+3. A redução pela metade da verba de sucumbência, prevista no § 4º do art. 90 do CPC, é norma processual que não depende de pedido recursal específico para a sua aplicação, bastando que haja efetivo recurso em relação à condenação em honorários de sucumbência. Nesse sentido restou decido no julgamento da APELAÇÃO CÍVEL Nº 5003723-65.2020.4.04.9999/PR (2ª Turma - Pauta Virtual de 27/10/2020 a 05/11/2020 - quorum de julgamento ampliado, nos termos do art. 942 do CPC) (fl. 189).
+ Os embargos de declaração foram rejeitados (fls. 219-224).
+Em suas razões recursais, a parte ora agravante aponta violação aos arts. 85, § 14, 485, VI, 1.010, I, 1.022, II, e 1.025 do CPC, sustentando, em síntese, negativa de prestação jurisdicional no acórdão recorrido "na medida em que não se pronunciou sobre a ilegitimidade de parte passiva recursal, mesmo tendo sido provocado através dos Embargos de Declaração" (fl. 237), e que "o v. acórdão é nulo, pois julgou o mérito do recurso de apelação, sem analisar a preliminar de ilegitimidade passiva recursal levantada nas contrarrazões do recurso de apelação; pois se tivesse se analisando a preliminar, não teria julgado o mérito do recurso, visto que por ser titular dos honorários de sucumbência, quem deveria compor o polo passivo do recurso de apelação era o advogado, e não a parte autora da ação anulatória" (fl. 238).
+Contrarrazões apresentadas (fls. 250-261).
+O recurso especial foi inadmitido pelo Tribunal de origem (fls. 264-269), o que ensejou a interposição deste agravo (fls. 279-286).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+De início, quanto à apontada violação aos arts. 1.022, II, e 1.025 do CPC, verifica-se que, de fato, o Tribunal de origem não analisou a matéria suscitada nos embargos de declaração.
+É certo que o magistrado, desde que amparado em fundamentação suficiente, não está obrigado a responder a todos os argumentos suscitados pela parte. Todavia, no caso, constata-se que o Tribunal a quo manteve-se silente sobre questões relevantes para o deslinde da controvérsia, a despeito de ter sido oportunamente provocada.
+Assim, configurado o prequestionamento ficto, na forma do art. 1.025 do CPC.
+Em relação à questão de fundo, todavia, não merece prosperar a pretensão recursal.
+Isso porque a jurisprudência desta Corte Superior é firme no sentido da existência de legitimidade concorrente entre a parte e o advogado para discussão acerca da verba honorária.
+Com efeito, "o Superior Tribunal de Justiça firmou o entendimento de que subsiste a legitimidade concorrente da parte e do advogado para discutir a verba honorária, tendo em vista o disposto no art. 23 da Lei 8.906/94. Precedentes: REsp 1831211/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/10/2019, DJe 18/10/2019); AgInt no AREsp 1155225/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 07/03/2018" (AgInt nos EDcl no REsp n. 1.869.247/MS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/5/2020, DJe de 28/5/2020).
+No mesmo sentido: "A jurisprudência do STJ é tranquila no sentido de que, apesar de os honorários advocatícios constituírem direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-los. Art. 23 da Lei nº 8.906/94. Precedentes" (STJ, AgInt no REsp 1.714.481/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 22/10/2020).
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
