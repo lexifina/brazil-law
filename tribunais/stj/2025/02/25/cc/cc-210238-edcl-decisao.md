@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PRIME PLUS LOCAÇÃO DE VEÍCULOS E TRANSPORTES TURÍSTICOS LTDA. - EM RECUPERAÇÃO JUDICIAL à decisão (fls. 634/636 e-STJ) que deferiu o pedido de liminar para suspender, até a definitiva solução do presente conflito, os atos executórios promovidos pelo Juízo da Vara do Trabalho de Salgueiro/PE.
+Em suas razões, a embargante defende que há omissão na decisão sobre a ausência de trânsito em julgado da sentença de encerramento da recuperação judicial.
+Sem impugnação (e-STJ fl. 666).
+É o relatório.
+DECIDO.
+Os embargos não merecem ser acolhidos.
+Conforme já exposto, o Superior Tribunal de Justiça já decidiu que, no caso de deferimento da recu peração judicial, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato executório que comprometa o patrimônio da empresa em recuperação.
+Nesse sentido:
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. ATOS DE CONSTRIÇÃO. PROSSEGUIMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça considera ser da competência precípua do Juízo singular apenas a apreciação e julgamento das ações versando sobre apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que, ultrapassada essa fase, os valores, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo da falência ou da recuperação judicial para posterior pagamento.
+2. Agravo interno desprovido." (AgInt nos EDcl no CC 165.079/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 5/5/2020, DJe 85/2020)
+"AGRAVO INTERNO NO PEDIDO DE RECONSIDERAÇÃO NO CONFLITO DE COMPETÊNCIA. CONFLITO POSITIVO. SOCIEDADE CUJOS BENS ESTÃO SOB CONSTRIÇÃO DO JUÍZO FALIMENTAR. MEDIDAS DE CONSTRIÇÃO DETERMINADAS, TAMBÉM, PELO JUÍZO TRABALHISTA, DE BENS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. SUSTAÇÃO QUE SE IMPÕE. ARREMATAÇÃO DE IMÓVEL DE TITULARIDADE DA SUSCITANTE. DECISÃO DE EXPEDIÇÃO DA CARTA DE ARREMATAÇÃO E DO MANDADO DE IMISSÃO DE POSSE POSTERIOR AO JULGADO QUE SUBMETEU A EMPRESA REQUERENTE A PROCESSO FALIMENTAR, BEM COMO POSTERIOR À DATA DE PROPOSITURA DO RESPECTIVO INCIDENTE. POSSIBILIDADE DE DESCONSTITUIÇÃO. CONFLITO CONHECIDO, COM DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO FALIMENTAR. QUESTÕES LEVANTADAS APENAS NO AGRAVO INTERNO. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É iterativo o entendimento do STJ, no sentido de que compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento. Precedentes.
+2. Há que se deixar assente, ainda, que, a despeito de o art. 49 da Lei n. 11.101/2005 assegurar que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", deve ser garantido o direito de preferência do crédito nascido após o pedido de recuperação e, ao mesmo tempo, direcionar o pagamento desses créditos ao Juízo recuperacional que, ciente da não submissão dos referidos valores à recuperação judicial, deverá sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, bem como a solidez do fluxo de caixa da empresa em recuperação. Precedentes.
+3. Nos termos da jurisprudência desta Corte Superior, pode ser desconstituída a arrematação de bens da empresa submetida à recuperação judicial ou à falência, quando o deferimento do pedido de soerguimento e o decreto de indisponibilidade de bens no processo falimentar forem anteriores ao aperfeiçoamento da arrematação, com a expedição da respectiva carta de arrematação, como na hipótese. Precedente.
+4. As questões levantadas apenas no âmbito do agravo interno são insuscetíveis de conhecimento, por caracterizarem indevida inovação recursal e, com isso, preclusão consumativa.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido." (AgInt no RCD no CC 155.496/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 31/3/2020, DJe 6/4/2020)
+Desse modo, a liminar foi deferida para suspender, até o julgamento definitivo do presente conflito, os atos executórios do juízo trabalhista.
+Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição, ou corrigir erro material, mas, sim, reformar o julgado p or via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Abra-se vista ao Ministério Público Federal para parecer.
+Publique-se.
+Intimem-se.
+EMENTA
