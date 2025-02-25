@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAIMUNDO NONATO NASCIMENTO CAVALCANTE, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE (Apelação Criminal n. 0003056-05.2021.8.01.0001).
+Consta dos autos que o recorrente foi absolvido, pelo Conselho de Sentença, da imputação referente à suposta prática do delito tipificado no art. 121, §2º, I, II e IV, e §4º, parte final, do Código Penal.
+Irresignado, o Ministério Público Estadual interpôs recurso de apelação, ao qual fora conferido provimento nos termos do acórdão assim ementado (e-STJ fl. 1173):
+PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. APELO DA DEFESA E DO MINISTÉRIO PÚBLICO. DECISÃO MANIFESTAMENTE CONTRARIA À PROVA DOS AUTOS. NÃO OCORRÊNCIA. SOBERANIA DOS VEREDICTOS. ANULAÇÃO DO JULGAMENTO. CONTRADIÇÃO NAS RESPOSTAS AOS QUESITOS. CONFIGURADA
+1. Havendo mais de uma tese provável, todas embasadas no acervo colhido, não contraria a prova dos autos a decisão dos jurados que optou pela condenação do apelante Hualeson, uma vez que o Conselho de Sentença tem liberdade para escolher a versão que lhe p areça mais verossímil, garantindo, assim, a soberania do veredicto.
+2. É contraditório que o Conselho de Sentença, em relação ao apelado Raimundo Nonato, tenha se manifestado positivamente nos dois primeiros quesitos  materialidade e autoria - e, no terceiro quesito, tenha respondido também afirmativamente ao quesito genérico de absolvição, pelo que se impõe a anulação do julgamento e a designação de novo Júri, nos termos do art. 593, inciso III, alínea "d", do Código de Processo Penal.
+3. Apelos conhecidos, não provido o da defesa e provido o do Ministério Público.
+Neste recurso especial, o recorrente alega violação aos arts. 483 e ss. do Código de Processo Penal, bem como ao art. 5º, XXVIII, e ao art. 93, IX, ambos da Constituição Federal.
+Afirma que "aqui não há que se falar nem em decisão manifestamente contrária a prova dos autos, e nem em contradição entre os votos do Conselho de Sentença" e que "É constitucionalmente expresso que o Tribunal do Júri tem soberania em suas decisões, mesmo em sendo por vezes dissociado de tecnicidade. O Tribunal do Júri é um instituto de julgamento democrático, em que o réu é julgado por seus pares comuns, sendo um julgamento não apenas jurídico, mas também um julgamento que abrange outros elementos" (e-STJ fl. 1199).
+Alega que "é reconhecida e louvada pela jurisprudência a sua soberania, tendo em vista a complexidade do julgamento realizado pelo Tribunal do Júri, sendo assim, inclusive, aceito pela jurisprudência que o júri pode reconhecer positivamente quanto a autoria e a materialidade e ainda assim absolver o réu" (e-STJ fl. 1199).
+Requer, ao final, o provimento do recurso para reconhecer a violação aos dispositivos mencionados, a fim de restabelecer a absolvição do acusado.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (e-STJ fls. 1226/1231).
+É o relatório.
+Decido.
+Como cediço, tem-se que a submissão do acusado a novo julgamento perante o Conselho de Sentença apenas deve ocorrer na hipótese de a decisão externada pelos Jurados ser manifestamente contrária à prova dos autos.
+Quanto à análise acerca da decisão tomada pelos Jurados, certo é que não cabe ao Tribunal que julga o apelo analisar a valoração da prova em termos de consonância do depoimento do acusado com as demais provas produzidas, devendo a análise se restringir à verificação da existência de um mínimo lastro probatório que dê suporte à decisão exarada pelo Conselho de Sentença.
+Na hipótese dos autos, verifico que a Defesa não apresentou outras teses defensivas além da referente à negativa de autoria, como delineado no acórdão recorrido à e-STJ fl. 1180.
+Assim, em tendo os J urados respondido afirmativamente ao primeiro e ao segundo quesitos, bem como absolvido o agravante em razão de resposta afirmativa ao quesito absolutório genérico, resta demonstrada, então, contradição na resposta dos membros do Conselho de Sentença a evidenciar que a decisão dos Jurados se deu de forma contrária à prova dos autos.
+Nesse sentido, entendem ambas as Turmas Criminais desta Corte que "em situações nas quais a negativa de autoria é a única proposição defensiva, a absolvição do agente no terceiro quesito não deve subsistir quando houve votação positiva dos dois primeiros, ocasião em que os jurados rejeitaram a tese da defesa, porquanto afirmaram ser o acusado o autor do delito" (AgRg no REsp n. 1.847.635/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022).
+Assim, o entendimento externado pela Corte Estadual é consentâneo com o entendimento deste Superior Tribunal, o que impede o conhecimento do especial na forma da Súmula n. 83/STJ.
+De mais a mais, a reversão do entendimento firmado no v. acórdão recorrido demandaria o revolvimento fático-probatório da matéria, de modo que a pretensão do agravante encontra óbice na Súmula n. 7 deste Tribunal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
