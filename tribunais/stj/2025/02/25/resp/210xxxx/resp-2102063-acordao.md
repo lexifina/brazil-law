@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao recurso especial.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Pará que negou provimento ao recurso de apelação da defesa, mantendo a pena-base acima do mínimo legal para o crime de posse ou porte ilegal de arma de fogo de uso restrito, com fundamento na circunstância judicial da culpabilidade.
+2. O recorrente foi condenado em primeiro grau à pena de 3 anos e 9 meses de reclusão, além de 98 dias-multa, em regime inicial semiaberto, pela prática do crime tipificado no art. 16, §1º, IV da Lei n. 10.826/2003.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a exasperação da pena-base, em razão da circunstância judicial da culpabilidade, foi procedida de fundamentação válida, ou se se baseou em elementos inerentes ao próprio tipo penal.
+III. RAZÕES DE DECIDIR
+4. Somente em casos de evidente desproporcionalidade entre o delito e a pena imposta, caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+5. As instâncias de origem bem exararam as circunstâncias judiciais desfavoráveis, elencando que o recorrente mantinha em seu poder arma e munições, de modo que circulava com tais instrumentos em via pública, fatores demonstram a reprovabilidade da conduta, justificando a exasperação da pena-base.
+IV. RECURSO ESPECIAL DESPROVIDO.
+RELATÓRIO
+Trata-se de recurso especial interposto por GILVAN BAIA LOBO, com fundamento no artigo 105, III, a, da Carta Magna, contra acórdão proferido pela 1ª Turma de Direito Penal do Tribunal de Justiça do Pará, que negou provimento ao seu recurso de apelação da defesa, nos termos da seguinte ementa (e-STJ fls. 170-177):
+APELAÇÃO CRIMINAL. ART. 16 DA LEI Nº 10.826/03. MÉRITO. PENA. REDUÇÃO AO PATAMAR MÍNIMO LEGAL. CIRCUNSTÂNCIA NEGATIVA. CULPABILIDADE. EXCEDEU A PREVISÃO LEGAL. AFASTAMENTO DA PENA-BASE MANTIDO. RÉU REINCIDENTE. REGIME DE CUMPRIMENTO DE PENA LEGALMENTE DETERMINADO. IMPOSSIBILIDADE DE ALTERAÇÃO PARA REGIME MENOS GRAVE. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.
+1. Quanto à culpabilidade, esta foi negativamente valorada por todo modus operandi que devidamente justificado pelo magistrado primevo a considerou além do tipo penal.
+2. Descabe qualquer alteração relacionada ao regime de cumprimento de pena, porquanto o regime mais gravoso encontra-se em consonância com a dicção do art. 33, do Códex Penal, por ser a ré reincidente.
+3. RECURSO CONHECIDO E IMPROVIDO à unanimidade, nos termos do voto da Desembargadora Relatora.
+No presente recurso, a defesa sustenta a violação do artigo 59 do Código Penal, ao argumento de que a circunstância judicial da culpabilidade foi exasperação sem fundamento válido baseada em elementares do tipo penal.
+Após a apresentação das contrarrazões pelo Ministério Público do Pará (e-STJ fls. 189-193), o apelo nobre foi admitido pelo Desembargador Vice-Presidente do Tribunal de Justiça do Pará (e-STJ fls. 194-197).
+O Ministério Público Federal se manifestou pelo provimento do recurso, com a seguinte ementa (e-STJ fls. 209-213):
+RECURSO ESPECIAL. ARTIGO 105, INCISO III, ALÍNEA "A", DA CF. ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI Nº 10.826/03 (PORTE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA). PLEITO DE REDUÇÃO DA PENA-BASE. CABIMENTO. NEGATIVAÇÃO DA VETORIAL "CULPABILIDADE". FUNDAMENTAÇÃO INSUFICIENTE. ELEMENTO QUE NÃO EXTRAPOLA O TIPO PENAL. DECOTE DA CIRCUNSTÂNCIA JUDICIAL NEGATIVA. PARECER PELO PROVIMENTO DO RECURSO.
+É o relatório.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Pará que negou provimento ao recurso de apelação da defesa, mantendo a pena-base acima do mínimo legal para o crime de posse ou porte ilegal de arma de fogo de uso restrito, com fundamento na circunstância judicial da culpabilidade.
+2. O recorrente foi condenado em primeiro grau à pena de 3 anos e 9 meses de reclusão, além de 98 dias-multa, em regime inicial semiaberto, pela prática do crime tipificado no art. 16, §1º, IV da Lei n. 10.826/2003.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a exasperação da pena-base, em razão da circunstância judicial da culpabilidade, foi procedida de fundamentação válida, ou se se baseou em elementos inerentes ao próprio tipo penal.
+III. RAZÕES DE DECIDIR
+4. Somente em casos de evidente desproporcionalidade entre o delito e a pena imposta, caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+5. As instâncias de origem bem exararam as circunstâncias judiciais desfavoráveis, elencando que o recorrente mantinha em seu poder arma e munições, de modo que circulava com tais instrumentos em via pública, fatores demonstram a reprovabilidade da conduta, justificando a exasperação da pena-base.
+IV. RECURSO ESPECIAL DESPROVIDO.
+VOTO
+A controvérsia consiste em verificar se as instâncias ordinárias deram a correta interpretação ao art. 59 do Código Penal.
+Sobre a questão , a Corte de origem assim se pronunciou:
+1. Da Requerida Redução da Pena-Base ao Mínimo Legal.
+Pleiteia a reforma da sentença no tocante à dosimetria da pena, especificamente para a redução da reprimenda base ao seu patamar mínimo.
+A defesa pleiteia o afastamento da circunstância negativa da culpabilidade com a redução da pena-base do réu, aduzindo que houve fundamentação genérica e abstrata constituindo elementar do tipo do crime não sendo justificativa para o aumento da pena.
+A sentença vergastada se encontra assim delineada, na parte que interessa (ID 12741033):
+"(..) Atendendo às diretrizes dos artigos 59 e 68 do Código Penal Brasileiro, passo a dosar as penas:
+Do crime de porte ilegal de arma.
+Culpabilidade do réu comprovada, considerando que mantinha em seu poder arma e munições, sem deixar de mencionar que circulava com tais instrumentos, em via pública, o que denota elevado grau de reprovabilidade na sua conduta, circunstância a ser valorada negativamente Antecedentes, deve-se esclarecer que somente serão consideradas as condenações definitivas por crime anterior à prática do fato descrito nos autos e que não impliquem em reincidência. A certidão de antecedentes criminais acostada aos autos atesta que o réu possui sentença condenatória transitada em julgada pelo crime de roubo, ou seja, registra antecedentes criminais, todavia, isto não será considerado na pena base a fim de se evitar bis in idem; Conduta social e Personalidade são dados inerentes ao acusado que em nada se relacionam ao fato por ele praticado, de modo que sua valoração em seu prejuízo significaria a adoção de um insustentável direito penal do autor (neutras); Motivos do crime estes foram normais à espécie do delito, nada a valorar (neutra); Circunstâncias do fato criminoso comum a espécie do delito ora em análise, cuja a gravidade é clara do tipo penal (neutra); Consequências extrapenais nada a valorar, eis que são comuns à espécie (neutra); Comportamento da vítima não facilitou e nem incentivou a ação criminosa do réu, não sendo ela colaboradora da ação criminosa (neutra); Portanto, levando-se em conta todas as circunstâncias acima analisadas, fixo a pena base privativa de liberdade do em 03 (três) anos e 09 (nove) meses de reclusão, bem como ao pagamento de multa de 98 (noventa e oito) dias-multa, calculada em 1/30 (um trigésimo) do Salário Mínimo vigente à época dos fatos.
+Segunda Fase (Atenuantes e Agravantes)
+Existe circunstância atenuante que milita em favor do réu, qual seja, a confissão; assim como existe circunstância agravante, ou seja, a reincidência. Assim, opero a compensação entre tais circunstância (confissão e reincidência), eis que ambas são preponderantes, pois a primeira por se ater diretamente à personalidade do agente (capacidade de assumir erros e suas consequências) e a segunda por expressa previsão legal. Esse, inclusive, é o entendimento consolidado no Superior Tribunal de Justiça (EREsp n. 1.154.752/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, D Je 4/9/2012).
+Face a compensação acima e à míngua da causa de aumento e diminuição da pena a serem considero, torno por definitiva a pena em 03 (três) anos e 09 (nove) meses de reclusão, bem como ao pagamento de multa de 98 (noventa e oito) dias-multa, calculada em 1/30 (um trigésimo) do Salário Mínimo vigente à época dos fatos (..)".
+Como é sabido, o Magistrado sentenciante, ao individualizar a pena, deve examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios colacionados no art. 59 do Código Penal, para após aplicar, de forma justa e fundamentada, a reprimenda que seja, de forma proporcional, necessária e suficiente à reprovação do crime.
+Desse modo, ao estabelecer como desfavoráveis determinadas circunstâncias judiciais, deve o Julgador declinar, motivadamente, as suas razões, sob pena de inobservância ao preceito contido no art. 93, inciso IX, da Carta Maior.
+Na hipótese dos autos, colhe-se do édito condenatório que o juiz a quo fixou a pena-base da recorrente em 03 (três) anos e 09 (nove) meses de reclusão e 98 (noventa e oito) dias-multa, para o crime de posse ou porte ilegal de arma de fogo de uso restrito, o qual a pena mínima é de 03 (quatro) anos. Assim, considerou circunstância desfavorável, qual seja a culpabilidade, o que já justifica o afastamento do mínimo legal, não havendo que se falar em reforma nesse aspecto. Desta forma, não pode a reprimenda-base ser reduzida, como requer a defesa do réu.
+O magistrado primevo, levou como desfavorável a culpabilidade, vejamos: "(..) considerando que mantinha em seu poder arma e munições, sem deixar de mencionar que circulava com tais instrumentos, em via pública, o que denota elevado grau de reprovabilidade na sua conduta, circunstância a ser valorada negativamente (..).
+Não deixou de fundamentar o afastamento do mínimo legal, posto que a conduta do agente demonstrou-se com culpabilidade desfavorável, especialmente quando verificado que em sede policial acrescentou que não chegou a cometer nenhum assalto porque não deu tempo (ID 12741016).
+Por conseguinte, está o édito condenatório imune de correções, pois proferido em consonância com todo o conjunto fático-probatório colhido no decorrer da instrução criminal, bem como em obediência aos ditames legais que regem a matéria em debate, não havendo que se mudar quantum da pena, como pretendia a defesa. Nem mesmo o regime de cumprimento da pena do Apelante.
+Verifico que foi estabelecido em sentença o regime INICIALMENTE SEMIABERTO para o cumprimento da pena privativa de liberdade, por ser o apelante reincidente na prática delitiva.
+ ..
+Descabe, portanto, qualquer alteração relacionada ao regime de cumprimento de pena, porquanto o regime mais gravoso encontra-se em consonância com a dicção do art. 33, do Códex Penal, por ser o réu reincidente.
+A dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por esta Corte Superior. Somente em casos de evidente desproporcionalidade entre o delito e a pena imposta, caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+A análise realizada pelo Tribunal de origem está em linha com a jurisprudência desta Corte acerca da temática.
+In casu, as instâncias de origem bem exararam as circunstâncias judiciais desfavoráveis, elencando que o recorrente mantinha em seu poder arma e munições, de modo que circulava com tais instrumentos, em via pública, fatores demonstram a reprovabilidade da conduta, justificando a exasperação da pena-base.
+No tocante ao critério numérico de aumento para cada circunstância judicial negativa, não há desproporção no aumento da pena-base, uma vez que há motivação particularizada, em obediência aos princípios da proporcionalidade e da individualização da pena.
+A propósito: "Salienta-se que a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o julgador pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça. " (AgRg no AREsp n. 2.240.104/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 27/2/2023.)
+Ante o exposto, nego provimento ao presente recurso especial.
+É o voto.
