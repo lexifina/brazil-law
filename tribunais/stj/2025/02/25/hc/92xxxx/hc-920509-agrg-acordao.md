@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+HABEAS CORPUS. MATÉRIA DE FUNDO NÃO APRECIADA NA INSTÂNCIA ORIGINÁRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+1. A matéria debatida no presente habeas corpus não foi objeto de apreciação na instância originária, como constou na decisão agravada.
+2. Ausente no ato impugnado deliberação sobre a matéria de fundo, inviável o conhecimento do pedido, que não pode ocorrer em desacordo com o sistema de competências definido pela Constituição Federal.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois o entendimento da Corte regional está em conformidade com o posicionamento do Superior Tribunal de Justiça segundo o qual a arguição de falsidade documental é incabível em embargos de declaração na apelação, tratando-se de indevida inovação recursal.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ABRAÃO DE CAMARGO PEREIRA contra a decisão que não conheceu do habeas corpus em face do não exame da questão discutida no ato objeto da impetração.
+A parte agravante aduz a viabilidade do writ, pois o exame da matéria arguida no habeas corpus foi examinada pela Corte de origem.
+Alega, também, que haveria ilegalidade flagrante na exigência feita ordinariamente à defesa para instauração de incidente de falsidade documental na fase instrutória, o que permitira o exame do pedido de ofício .
+Requer a reconsideração da decisão agravada ou a submissão do agravo regimental a julgamento colegiado e o seu provimento para se conceder a ordem de habeas corpus.
+É o relatório.
+EMENTA
+HABEAS CORPUS. MATÉRIA DE FUNDO NÃO APRECIADA NA INSTÂNCIA ORIGINÁRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+1. A matéria debatida no presente habeas corpus não foi objeto de apreciação na instância originária, como constou na decisão agravada.
+2. Ausente no ato impugnado deliberação sobre a matéria de fundo, inviável o conhecimento do pedido, que não pode ocorrer em desacordo com o sistema de competências definido pela Constituição Federal.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois o entendimento da Corte regional está em conformidade com o posicionamento do Superior Tribunal de Justiça segundo o qual a arguição de falsidade documental é incabível em embargos de declaração na apelação, tratando-se de indevida inovação recursal.
+4. Agravo regimental improvido.
+VOTO
+Conforme consignado na decisão agravada, a impetração do habeas corpus envolve matéria de fundo não apreciada no ato judicial impugnado, o que impede o conhecimento do pedido pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+A ausência de apreciação da questão pelo órgão colegiado inviabiliza o conhecimento do habeas corpus, nos termos da pacífica jurisprudência:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA DECLARADA NULA. NECESSIDADE DE REALIZAÇÃO DE NOVA AUDIÊNCIA DE INSTRUÇÃO DE JULGAMENTO. IMPEDIMENTO DO JUÍZO DE PRIMEIRO GRAU E DESEMBARGADORES QUE ATUARAM ORIGINARIAMENTE NO FEITO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DO JUÍZO DE CONHECIMENTO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito defensivo relativo à declaração de impedimento dos julgadores não foi analisado pelas instâncias ordinárias, o que obsta a análise diretamente por este Tribunal Superior, sob pena de indevida supressão de instância, sendo certo que o incidente de impedimento ou suspeição deve ser requerido junto ao Juízo que conduzirá o processo, mediante demonstração do justo impedimento, a teor do disposto no Código de Processo Penal. Precedentes.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 805.331/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024, grifo próprio.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MATÉRIAS DEDUZIDAS NO WRIT QUE NÃO FORAM APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não tendo sido abordada, pelo Tribunal de origem, a nulidade vergastada sob o ângulo pretendido na impetração, resta inviável seu conhecimento per saltum por esta Corte Superior. Supressão de instância inadmissível.
+2. Precedentes de que, até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+3. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 906.517/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024, grifo próprio.)
+Não há, ademais, teratologia ou manifesta ilegalidade para justificar a concessão da ordem de ofício.
+Consoante se extrai dos autos, a Corte federal, em embargos de declaração, concluiu que, "encerrada a instrução processual e prolatada a sentença, mostra-se incabível a arguição de falsidade documental, que deveria ter sido suscitada em primeiro grau de jurisdição, em incidente de falsidade" (fl. 239).
+O entendimento fixado pelo Tribunal de origem, nesse ponto, está em consonância com o posicionamento do Superior Tribunal de Justiça, pois a arguição de falsidade documental é incabível em embargos de declaração na apelação, tratando-se de indevida inovação recursal. A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PECULATO E TRÁFICO DE DROGAS (22,1KG DE COCAÍNA E 4,12KG DE CRACK). VIOLAÇÃO DOS ARTS. 3º-A E 386, III, AMBOS DO CPP. DECISÃO CONDENATÓRIA A DESPEITO DO PEDIDO ABSOLUTÓRIO DO MINISTÉRIO PÚBLICO. POSSIBILIDADE. COMPATIBILIDADE COM O SISTEMA ACUSATÓRIO. ARTS. 3º-A DO CPP E 2º, § 1º, DA LINDB. JURISPRUDÊNCIA DA SEXTA TURMA. VIOLAÇÃO DO ART. 386, VII, DO CPP. PLEITO DE ABSOLVIÇÃO. INVIABILIDADE. NECESSIDADE DE INCURSÃO NO CADERNO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 156 DO CPP. TESE DE INDEVIDA INVERSÃO DO ÔNUS DA PROVA. NÃO VERIFICAÇÃO. PLAUSIBILIDADE DOS FUNDAMENTOS COLACIONADOS PELAS INSTÂNCIAS ORDINÁRIAS. PLEITO DE RECONHECIMENTO DA CONSUNÇÃO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL EM SEDE DE EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. VIOLAÇÃO DO ART. 70 DO CP. CONCURSO MATERIAL RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. PEDIDO DE APLICAÇÃO DO CONCURSO FORMAL. INVIABILIDADE. BENS JURÍDICOS DISTINTOS E MAIS DE UMA AÇÃO RECONHECIDA PELA CORTE DE ORIGEM. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. CAUSA DE DIMINUIÇÃO DA LEI DE DROGAS. NÃO RECONHECIMENTO. ALÉM DA NATUREZA E QUANTIDADE DA DROGA APREENDIDA, AS INSTÂNCIAS ORDINÁRIAS AGREGARAM FUNDAMENTOS QUE JUSTIFICAM IDONEAMENTE O NÃO RECONHECIMENTO DA MINORANTE, NOTADAMENTE O AVALIADO MODUS OPERANDI DO AGRAVANTE, EVIDENCIADO PELA PRÁTICA DO CRIME EM CONCURSO DE PESSOAS, NO EXERCÍCIO DA FUNÇÃO PÚBLICA. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 59 DO CP. CRIME DE PECULATO. DOSIMETRIA. PRIMEIRA FASE. EXASPERAÇÃO DA PENA-BASE. VETOREIS JUDICIAIS DESFAVORÁVEIS. TESE DE VALORAÇÃO INIDÔNEA. NÃO OCORRÊNCIA. UTILIZAÇÃO DE ELEMENTOS QUE ULTRAPASSAM AS CARACTERÍSTICAS ÍNSITAS AO TIPO. CULPABILIDADE. CONDIÇÃO DE POLICIAL CIVIL. CONSEQUÊNCIAS DO CRIME. REINSERÇÃO NO SEIO SOCIAL DE ENORME QUANTIDADE DE DROGAS, AS QUAIS HAVIAM SIDO RETIRADAS DE CIRCULAÇÃO EM DECORRÊNCIA DO TRABALHO EXITOSO DA POLÍCIA MILITAR. ALEGAÇÃO, SUBSIDIÁRIA, DE CARÊNCIA DE PROPORCIONALIDADE E DE RAZOABILIDADE NA ESCOLHA DA FRAÇÃO DE AUMENTO ACIMA DE 1/8. DISCRICIONARIEDADE DO JUÍZO. JURISPRUDÊNCIA DO STJ. RESTITUIÇÃO DE COISAS APREENDIDAS. INSTÂNCIAS ORDINÁRIAS QUE NÃO IDENTIFICARAM A COMPROVAÇÃO DA LEGÍTIMA PROPRIEDADE DO BEM POR PARTE DO AGRAVANTE. INVIABILIDADE DE ALTERAÇÃO DO JULGADO NA VIA ELEITA. ÓBICE DA SÚMULA 7/STJ. PRECEDENTES DE AMBAS AS TURMAS DA TERCEIRA SEÇÃO.
+ ..
+4. No que se refere ao pedido de consunção, tal matéria não foi arguida na apelação de fls. 2.597/2.624, sendo apontada, tão somente, nos embargos de declaração de fls. 3.288/3.306, o que configura indevida inovação recursal.
+ ..
+11. Reconsiderada a decisão agravada para conhecer parcialmente do recurso especial, e, nessa extensão, negar-lhe provimento.
+(AgRg no AR Esp n. 2.385.575/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/2/2024, DJe de 27/2/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CALÚNIA E DIFAMAÇÕES MAJORADAS CONTRA MAGISTRADA NO EXERCÍCIO DE SUAS FUNÇÕES. NULIDADE. EXÍGUO PRAZO ENTRE INTIMAÇÃO DO RÉU E AUDIÊNCIA PARA RESPECTIVO INTERROGATÓRIO. SUPRESSÃO DE INSTÂNCIA. INDEFERIMENTO DO PEDIDO DE REDESIGNAÇÃO DE AUDIÊNCIA. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem não analisou a arguida nulidade da audiência de instrução e julgamento por inobservância da almejada antecedência para intimação do réu, tendo consignado, no julgamento dos embargos de declaração, tratar-se de inovação recursal, uma vez que a tese nem sequer foi ventilada nas razões do recurso de apelação. Dessarte, fica esta Corte Especial impedida de analisar a questão, sob pena de indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 827.951/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/9/2023, DJe de 2/10/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
