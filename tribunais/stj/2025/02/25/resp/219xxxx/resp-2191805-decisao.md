@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARIANE CARVALHO PESSOA e VANDERLEY DE NELSON SOUZA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0000.24.214104-2/001).
+Consta dos autos que os recorrentes foram condenados, em primeiro grau, às penas de 2 anos de reclusão, em regime aberto, substituída por restritivas de direitos, e pagamento de 10 dias-multa, para Ariane Carvalho Pessoa; e 2 anos, 9 meses e 18 dias de reclusão, em regime semiaberto, e pagamento de 13 dias-multa, para Vanderley de Nelson Souza, pela prática do delito previsto no art. 155, § 4º, IV, do Código Penal.
+O Tribunal de origem negou provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fl. 606):
+EMENTA: APELAÇÕES CRIMINAIS - FURTO - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - PRINCÍPIO DA INSIGNIFICÂNCIA - FALTA DE AMPARO LEGAL - RECURSOS NÃO PROVIDOS. 1. Comprovado nos autos a materialidade e a autoria do crime de furto, sendo inaplicável o princípio da insignificância por falta de amparo legal, imperativa é a condenação dos réus pelo crime de furto.
+Neste recurso especial, os recorrentes alegam violação ao art. 155 do CP, ao argumento de que o princípio da insignificância deveria ser aplicado, considerando a ínfima lesão ao bem jurídico tutelado.
+Requerem, ao final, a absolvição pela atipicidade material da conduta, com base na aplicação do princípio da insignificância.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (e-STJ fls. 667-669).
+É o relatório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+O Tribunal de origem, ao negar provimento ao recurso de apelação, consignou que (e-STJ fls. 610/611):
+Prosseguindo, o princípio da insignificância não encontra assento no Direito Penal Brasileiro, tratando-se de recurso interpretativo à margem da lei, confrontando-se com o próprio tipo penal do artigo 155 do Código Penal, que para as situações de ofensa mínima, prevê a figura do privilégio.
+Além do mais, não se pode perder de vista que o crime deve ser apreciado em sua inteireza, não devendo a condenação nortear-se pelo valor do bem jurídico afetado; mas, sim, pelo comportamento do agente em desconformidade com a lei. Insignificância não deve ser confundida com impunidade.
+Ademais, a aplicação desse princípio por parte do Poder Judiciário para fins de afastamento da tipicidade material, implica em ofensa aos princípios constitucionais da reserva legal e da independência dos poderes.
+Portanto, comprovadas a materialidade e a autoria do crime de furto, sendo inaplicável o princípio da insignificância, a condenação do apelante é medida que se impõe.
+O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada. Preenchidos todos esses requisitos, a aplicação desse princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+No presente caso, conforme consta da sentença, apenas foram considerados objetos de subtração os cremes corporais (e-STJ fl. 497) da loja de departamento Americanas. Assim, tem-se que a subtração de cremes corporais avaliados em R$ 32,00 (trinta e dois reais) - e-STJ fl. 218 - não demonstra expressiva lesão ao bem jurídico tutelado.
+Contudo, consta da sentença que o recorrente VANDERLEY DE NELSON SOUZA é "multirreincidente específico, inclusive encontrando-se em cumprimento de pena. Ademais, o réu foi preso incontáveis vezes por delitos contra o patrimônio" (e-STJ fl. 497). Dessa maneira, o recurso deve ser provido apenas com relação à recorrente ARIANE CARVALHO PESSOA, a qual é tecnicamente primária.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA. PRECEDENTES DO STJ. REGIME INICIAL. MODO FECHADO. REINCIDÊNCIA E MAUS ANTECEDENTES. FUNDAMENTO IDÔNEO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação do princípio da bagatela, é necessário considerar algumas condições, tais como: (a) mínima ofensividade da conduta do agente, (b) ausência de periculosidade social da ação, (c) baixo grau de reprovabilidade do comportamento e (d)
+inexpressividade da lesão jurídica provocada (STF, HC n. 84.412, rel. Min. Celso de Mello, publicado no DJe de 02/08/2004, STJ, AgRg no HC n. 543.291/ES, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 06/02/2020, DJe de 12/02/2020).
+2. A jurisprudência desta C orte tem rechaçado a aplicação do princípio da insignificância ao crime de furto quando o agente for reincidente ou portador de maus antecedentes, em razão da maior ofensividade e reprovabilidade da conduta (AgRg no AgRg no AREsp n. 2.250.234/MG, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/04/2023, DJe de 28/04/2023).
+3. A reincidência e a circunstância judicial negativa (antecedentes) justificam a fixação do modo fechado para o início do cumprimento da pena, ainda que tenha sido fixada em patamar inferior a 04 (quatro) anos. Súmula n. 269/STJ.
+4. Agravo regimental não provido. (AgRg no REsp n. 2.136.766/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+À vista do exposto, conheço do agravo para prover parcialmente o recurso especial absolvendo apenas a ré ARIANE CARVALHO PESSOA em razão da atipicidade material da conduta, conforme ditames do art. 386, inciso III, do Código de Processo Penal.
+Publique-se. Intimem-se.
+EMENTA
