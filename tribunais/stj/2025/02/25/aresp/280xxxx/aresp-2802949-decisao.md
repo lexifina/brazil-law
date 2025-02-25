@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo de instrumento contra decisão interlocutória que julgou parcialmente extinto o feito com relação ao pedido de reconhecimento da especialidade dos períodos laborados . No Tribunal a quo, negou-se provimento ao recurso.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PEDIDO DE RECONHECIMENTO DE ATIVIDADE ESPECIAL. NOVAS PROVAS. EFICÁCIA PRECLUSIVA DA COISA JULGADA. OCORRÊNCIA.
+1. A jurisprudência majoritária desta Corte somente tem admitido a reprodução de ação anteriormente ajuizada, ante a existência de novas provas, quando a demanda anterior houver sido extinta sem julgamento de mérito ou por ausência de provas suficientes, o que não é o caso dos autos.
+2. A eficácia preclusiva da coisa julgada atinge todas as questões que poderiam ter sido suscitados na ação, com o propósito idêntico de obter igual benefício previdenciário.
+3. Agravo de instrumento a que se nega provimento.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Na hipótese dos autos, a parte autora formula novamente pedido de reconhecimento de atividade especial no mesmo período que já fora objeto do pedido anterior, em decorrência da existência de novas provas. É relevante afirmar que a jurisprudência deste Tribunal Regional Federal da 4ª Região já tem admitido a reprodução de ação anteriormente ajuizada, ante a existência de novas provas, quando a demanda anterior houver sido extinta sem julgamento de mérito ou em solução que afirma ausência de provas acerca do fato em julgamento. Nesse sentido, há precedente da Terceira Seção desta Corte, no sentido de que a insuficiência de prova em matéria previdenciária, com ênfase ao tempo especial, possibilita o ajuizamento de nova ação, não configurando ofensa á coisa julgada. Nesse sentido:
+ ..
+Entretanto, no caso em análise, verifica-se que os períodos objeto de extinção tiveram suas provas efetivamente analisadas ao tempo do julgamento, não havendo, contrariamente ao que a parte autora afirma, definição pelo julgador de ausência de provas suficientes. Assim, tem-se que no caso houve julgamento com apreciação do mérito, formando-se a coisa julgada, com idênticas partes, pedido e causa de pedir dos períodos objeto de agravo. Não importa ao caso, portanto, a existência de novas provas, que devem ser objeto, se caso for, de pedido formulado em ação rescisória.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
