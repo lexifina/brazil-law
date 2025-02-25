@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de prequestionamento da "matéria relativa à aplicação retroativa da Lei 9.656/98", da não demonstração de ofensa aos arts. 421 e 422 do CC/2002 e da incidência das Súmulas n. 7 do STJ e 282 do STF (e-STJ fls. 250/252).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 178):
+PLANO DE SAÚDE Autogestão Inaplicabilidade do CDC que não afasta a observância dos deveres inerentes às relações contratuais de boa-fé objetiva, cooperação, solidariedade, confiança e lealdade e o cumprimento das próprias finalidades do contrato de assistência à saúde Autora acometida de obesidade mórbida grau III - CID E660 com indicação de procedimento cirúrgico de gastroplastia para obesidade mórbida realizada por via laparoscópica - Negativa da ré a pretexto de expressa exclusão contratual do procedimento cirúrgico prescrito à autora pelo plano não ser adaptado - Inadmissibilidade - Não excluindo o plano de saúde a doença, não podem ser excluídos os procedimentos, exames, materiais e medicamentos necessários e mais adequados ao tratamento e com menor risco e sofrimento ao beneficiário - Aplicação da Súmula n. 102 do TJSP - Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 239/244).
+Nas razões do recurso especial (e-STJ fls. 187/201), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais: arts. 421 e 422 do CC/2002, 35 da Lei n. 9.656/1998 e 927, III, do CPC/2015.
+Insurge-se contra a conclusão da Corte local de que, "diante da injusta negativa de cobertura, por pretender submeter a autora a cirurgia aberta mais invasiva e mais arriscada por não ter adaptado seu plano, ainda que o método por videolaparoscopia seja plenamente aceito pela comunidade médica, reduzindo a morbidade e tempo de recuperação pós-operatória, apresentando ainda muitas outras vantagens, foi correta a procedência da ação, mantendo-se a r. sentença pelos seus judiciosos fundamentos" (e-STJ fl. 184).
+A parte afirma:
+(i) violação do art. 35 da Lei n. 9.656/1998, pois "a Recorrida celebrou contrato com a Recorrente em 20 de fevereiro de 1997, motivo pelo qual não seria regido pela Lei nº 9.656/98, mas sim pelas cláusulas do contrato, tratando-se de plano antigo e não adaptado" (e-STJ fl. 195);
+(ii) contrariedade aos arts. 421 e 422 do CC/2002, uma vez que, "não sendo um procedimento previsto no instrumento contratual, a Recorrente não pode ser compelida a suportar o eventual custo do procedimento de "gastroplastia para obesidade por videolaparascopia" (sic) no qual não foi acordado previamente o custeio entre as partes" (e-STJ fls. 197/198); e
+(iii) descumprimento do art. 927, III, do CPC/2015, sob o fundamento de que a decisão recorrida "não observa os critérios fixados na resolução de demanda repetitiva, referente ao julgamento do Tema 123 do STF - RE n. 948634" (e-STJ fl. 197).
+No agravo (e-STJ fls. 255/270), afirma a presença dos requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 311).
+A parte CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL também interpôs recurso extraordinário, o qual foi inadmitido em razão da incidência da Súmula 282/STF e da inaplicabilidade do Tema n. 123 do STF ao caso (e-STJ fls. 248/249). Diante disso, foi interposto agravo em recurso extraordinário (e-STJ fls. 286/295).
+É o relatório.
+Decido.
+A controvérsia tem origem na negativa do plano de saúde em custear procedimento cirúrgico de gastroplastia por via laparoscópica prescrito por médico da rede credenciada para tratamento de obesidade mórbida grau III, que acomete a demandante.
+(I e II) Constata-se que, apesar de opostos embargos de declaração, as teses de violação do art. 35 da Lei n. 9.656/1998 e dos arts. 421 e 422 do CC/2002 não foram expressamente indicadas nas razões do recurso e nem enfrentadas pelo Tribunal.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a incidência da Súmula n. 211/STJ no caso em análise.
+(III) Verifica-se que o entendi mento do Tribunal de origem não pode ser desconstituído apenas com base no art. 927, III, do CPC/2015 - segundo o qual, os Tribunais observarão "os acórd ãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos" -, porque a norma em referência nada dispõe a respeito do fundamento da "prevalência dos deveres inerentes às relações contratuais previsto no Código Civil" (e-STJ fl. 242), que constou no acórdão recorrido.
+De fato, a Corte local não aplicou retroativamente a Lei n. 9.656/1998, apenas julgou a demanda com base no Código Civil, não havendo falar, portanto, em violação do art. 927 do CPC por inobservância do Tema de Repercussão Geral n. 123/STF.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Pu blique-se e intimem-se.
+EMENTA
