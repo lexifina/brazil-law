@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+In casu, o Juízo de primeiro grau julgou procedentes os pedidos formulados pela parte autora, ora agravado, para "determinar a revisão do contrato litigioso (n. 033220025082), para limitar a taxa de juros remuneratórios às médias mensal e anual divulgadas pelo Banco Central para a espécie e período da contratação, observando-se os seguintes índices: 5,32% a.m. e 86,28% a.a." (e-STJ, fl. 363).
+Interposta apelação pela ré, ora agravante, foi desprovida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, aponta a defesa violação do art. 421 do Código Civil, além de divergência jurisprudencial.
+Alega, em suma, que "o Tribunal a quo se pautou unicamente na "taxa média de mercado", sem se atentar as peculiaridades do caso concreto, as particularidades das contratações firmadas entre as partes e principalmente desconsiderando os altos riscos assumidos pela Recorrente" (e-STJ, fl. 545), em desacordo com a jurisprudência do STJ.
+Aduz, ainda, que "a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso" (e-STJ, fl. 546).
+Ao final, pugnou pelo conhecimento e provimento do recurso especial.
+É o relatório.
+Na hipótese, o Tribunal de origem dirimiu as questões com base nos seguintes fundamentos (e-STJ, fls. 366-367):
+ ..  Quanto os requisitos elencados pela Corte Superior, importante frisar que a aplicação do Código de Defesa do Consumidor foi requerido expressamente pela Demandante na exordial. Ao prolatar a sentença o Magistrado a quo julgou procedente os pedidos e, dentre outras deliberações, reconheceu a aplicabilidade do Código de Defesa do Consumidor ao caso contrato (Evento 20).
+Tendo em mira a aplicação do Código de Defesa do Consumidor na origem e inexistindo irresignação das partes quanto ao tema em sede recursal, resta preenchido o requisito da "caracterização de relação de consumo" em consonância com o entendimento do eg. STJ.
+Noutro giro, quanto ao requisito da "abusividade capaz de colocar o consumidor em desvantagem exagerada", observo que os juros compensatórios foram avençados em patamar que excede mais que 150% (cento e cinquenta por cento) a taxa média de mercado.
+ ..
+Exsurge com clareza solar a abusividade ao Consumidor capaz de colocá-lo em desvantagem exagerada.
+Merece ênfase que a Ré sequer verteu explicação para a taxa de juros remuneratórios eleita, que suplanta em exagero a taxa média de mercado, quando o ônus era seu.
+Aliás, é a Financeira que dispõe de dados para tanto, cabendo a ele demonstrar a similitude aos clientes em situação idêntica, até porque os dados são inacessíveis à parte consumidora.
+Além disso, ainda restou constatado pela Corte Superior a necessidade de "demonstração cabal, com menção expressa às peculiaridades da hipótese concreta, da abusividade verificada, levando-se em consideração, entre outros fatores, a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas".
+Já quanto aos demais requisitos, destaco que o ônus probatório acerca de tal situação era exclusivamente da alçada da Casa Bancária, porquanto tem acesso a informações sobre a negociação, cabendo à Ré, portanto, positivar que as peculiaridades da relação de consumo, o que não ocorreu no presente caso.
+Portanto, considerando as inúmeras nuanças ora estampadas, verifico que: i) restou configurada a relação de consumo; ii) foi exposta a taxa de juros 200% acima da média de mercado; e iii) a Financeira que não apresentou sequer justificativa para a taxa de juros remuneratórios quando o ônus era seu, por se tratar de relação de consumo.
+Destarte, rejeito os pleitos da Ré, pois afigura como latente a abusividade quanto aos pactos, sendo necessária a manutenção da decisão objurgada quanto ao tema.
+Repito, a abusividade e sua ressonância são inegáveis. ..
+Nos termos da jurisprudência desta Corte, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022). A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. HIPÓTESE. ABUSIVIDADE. RECONHECIMENTO. ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. ERRÔNEA. VALORAÇÃO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, considerando as peculiaridades do julgamento em concreto.
+2. Na hipótese, o tribunal de origem, após a análise do conjunto fático-probatório dos autos e das cláusulas contratuais, considerou abusivos os juros remuneratórios, cuja revisão esbarra nas Súmulas nºs 5 e 7/STJ.
+3. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. A errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.177.306/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. RECONVENÇÃO. REVISÃO DO CONTRATO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. ABUSIVIDADE DA TAXA CONTRATADA. DEMONSTRAÇÃO CABAL. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. TARIFA DE CADASTRO. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando ficar caracterizada a relação de consumo e a abusividade for devidamente demonstrada diante das peculiaridades do caso concreto.
+2. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+3. É inviável limitar a taxa de juros remuneratórios pactuada em contrato quando a corte de origem não tenha considerado cabalmente demonstrada sua abusividade com base nas peculiaridades do caso concreto. Incidência das Súmulas n. 5 e 7 do STJ.
+4. A tarifa de cadastro pactuada é válida, podendo ser cobrada apenas no início do relacionamento contratual, conforme o Tema n. 620 do STJ.
+5. Afasta-se eventual abuso na pactuação da tarifa de cadastro apenas na hipótese em que é cabalmente demonstrada abusividade no caso concreto, como ocorre na avaliação dos juros remuneratórios, isto é, mediante a análise das circunstâncias do caso, comparando-se os preços cobrados no mercado, o tipo de operação e o canal de contratação.
+6. Para o reconhecimento da abusividade das tarifas administrativas, não se admitem a referência a conceitos jurídicos abstratos nem a convicção subjetiva do magistrado.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 2.007.638/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Conforme a fundamentação alhures, as taxas de juros contratadas em relação ao pacto em discussão na lide foram excessivamente superiores às médias de mercado divulgadas pelo Banco Central do Brasil à época da pactuação, restando caracterizada a abusividade das referidas taxas.
+Nesse contexto, não há como afastar a conclusão do acórdão recorrido - acerca da abusividade da taxa de juros remuneratórios contratados, as quais importaram em desvantagem excessiva ao consumidor - sem a interpretação das cláusulas contratuais pactuadas e revolvimento fático-probatório, o que não se admite na via do recurso especial, conforme enunciados das Súmulas n. 5 e 7/STJ.
+Além disso, " a  incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte." (AgInt no AREsp n. 2.398.976/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte adversa em 10% sobre o valor já fixado pelas instâncias de origem.
+Fiquem as partes cientificadas que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
