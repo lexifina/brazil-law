@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FERNANDO DO NASCIMENTO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que, na execução penal, foi deferido o benefício de progressão ao regime semiaberto, o que foi afastado pelo Tribunal de origem para realização de exame criminológico.
+A impetrante sustenta que a obrigatoriedade da aplicação retroativa da Lei n. 14.843/2024 para a realização do exame criminológico seria mais gravosa e prejudicial ao paciente.
+Defende a ocorrência de ilegalidade na exigência da realização do exame, visto que teria sido baseada em fundamentação inidônea e estaria violando os princípios da individualização da pena, da proporcionalidade e da eficiência.
+Requer, liminarmente e no mérito, o afastamento da decisão que cassou a progressão ao regime semiaberto e condicionou a progressão à realização do exame criminológico.
+O pedido liminar foi indeferido às fls. 99-101.
+As informações foram prestadas às fls. 104-114 e 116-127.
+O Ministério Público Federal, às fls. 133-139, manifestou-se pelo não conhecimento da ordem ou, se conhecido, pela sua denegação.
+É o relatório.
+Este Tribunal Superior firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observam-se a respeito os seguintes julgados: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Ademais, no caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+Com efeito, a controvérsia refere-se ao preenchimento do requisito subjetivo necessário à concessão da progressão de regime.
+Na espécie, a Corte de origem cassou a decisão que deferiu o regime semiaberto ao paciente, condicionando a progressão de regime à realização do exame criminológico, com amparo na seguinte fundamentação (fls. 88-90):
+O recurso comporta provimento.
+Inicialmente, respeitado o posicionamento do Juízo "a quo", a obrigatoriedade de realização da perícia prevista na novel legislação não acarreta violação aos princípios de individualização da pena, da dignidade da pessoa humana ou mesmo da duração razoável do processo.
+Com efeito, o exame criminológico é importante instrumento para valoração sobre a absorção da terapêutica penal e a evolução e preparo do sentenciado para o retorno gradual ao convívio social, contribuindo para uma tomada de decisão a partir de elementos colhidos de forma mais aprofundada, reforçando, assim, a individualização da pena. Ressalto, nesse rumo, a insuficiência do atestado de comportamento carcerário como parâmetro único para análise em questão.
+Pontuo que mesmo antes da inovação legislativa, já se admitia a determinação do exame criminológico para o fim de progressão de regime, em decisão motivada nas peculiaridades do caso (Súmula 439 do C. Superior Tribunal de Justiça).
+Em que pesem os fundamentos externados pelo i. magistrado, eventual ineficiência do Estado para realização do exame não pode se sobrepor à necessidade de proteger a coletividade de eventuais novas violações a bens jurídicos fundamentais, ressaltando que, no âmbito da execução das penas, vigora o princípio do "in dubio pro societate".
+Destarte, mais uma vez respeitado o posicionamento diverso, tenho que justificativa não há para afastar a incidência do dispositivo em questão na espécie, legítima opção legislativa relacionada à política criminal.
+Sobre o assunto, já decidiu este E. Tribunal de Justiça:
+ ..
+Acresça-se que, no caso em apreço, as circunstâncias apuradas reforçam a imprescindibilidade do exame pericial, considerando que o agravado cumpre pena pela prática de delito de tráfico, equiparado a hediondo, com término de cumprimento previsto apenas para 2026, além de ostentar anotação de falta grave, consistente em abandono de saída temporária, datada de 20/03/2023, a demonstrar a falta de assimilação da terapêutica penal (fls. 12/15).
+Desse modo, o caso é de provimento do agravo interposto, com o retorno do reeducando ao regime no qual se encontrava, até a realização do exame criminológico, que ora se determina.
+Isto posto, pelo meu voto, dou provimento ao agravo em execução penal interposto pelo Ministério Público do Estado de São Paulo, para cassar a decisão que deferiu a progressão do agravado Fernando do Nascimento ao regime semiaberto e determinar a realização de exame criminológico, com posterior reavaliação pelo Juízo de Primeiro Grau quanto ao preenchimento do requisito subjetivo.
+Consoante o entendimento desta Corte Superior , o órgão julgador pode, de forma fundamentada, determinar a submissão do apenado ao exame criminológico a fim de aferir o mérito subjetivo do apenado (Súmula n. 439 do STJ).
+Sobre o tema, o Superior Tribunal de Justiça entende que a exigência de exame criminológico, como requisito à obtenção de benefícios, deve ter fundamentação " ..  relacionada a algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena  .. " (AgRg no HC n. 817.103/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/12/2023, DJe de 12/12/2023).
+No caso dos autos, a exigência do exame criminológico foi devidamente fundamentada na falta de elementos suficientes para comprovar o preenchimento do requisito subjetivo para a progressão de regime. Levou-se em conta, para tanto, o comportamento do paciente durante a execução da pena, destacando a constatação da prática de falta de natureza grave.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. FUNDAMENTO IDÔNEO. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Nos termos da jurisprudência desta Corte, desde a Lei n. 10.793/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu-se a obrigatoriedade do exame criminológico como requisito para a concessão da progressão de regime, cumprindo ao julgador verificar, em cada caso, acerca da necessidade ou não de sua realização, podendo dispensar o exame criminológico ou, ao contrário, determinar sua realização, desde que mediante decisão concretamente fundamentada.
+3. No caso, há motivação concreta para determinar a realização do exame criminológico, em razão dos resultados desfavoráveis da avaliação multidisciplinar, uma vez que os relatórios não evidenciaram a evolução terapêutica penal e a mitigação da periculosidade social do paciente.
+4. Desse modo, não se verifica, no caso em apreço, nenhuma ilegalidade a ser sanada pela via do habeas corpus, pois a exigência de realização do exame criminológico foi amparada em motivação concreta, como exige a jurisprudência desta Corte Superior.
+5. Agravo regimental improvido.
+(AgRg no HC n. 868.028/SP, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Por fim, para "se modificar os fundamentos utilizados pelas instâncias ordinárias quanto ao preenchimento do requisito subjetivo do condenado, mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus " (AgRg no HC n. 529.214/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/12/201 9, DJe de 16/12/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
