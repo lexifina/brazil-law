@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, dar provimento ao recurso especial, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FALTA GRAVE RECENTE. PRAZO PARA REABILITAÇÃO DE CONDUTA CARCERÁRIA. REQUISITO SUBJETIVO NÃO PREENCHIDO. BIS IN IDEM NÃO CONFIGURADO. PARECER FAVORÁVEL DO MPF. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público com fundamento na alínea "a" do art. 105, III, da Constituição Federal, contra acórdão que manteve a progressão de regime de sentenciado, afastando a aplicação do prazo de reabilitação de conduta previsto no art. 133 do Decreto n. 12.140/06, sob o fundamento de que sua incidência configuraria bis in idem, já que o apenado havia sofrido regressão de regime em razão da prática de falta grave.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a prática de falta grave impede o preenchimento do requisito subjetivo para a progressão de regime, exigindo a observância do prazo de reabilitação de conduta; e (ii) estabelecer se a aplicação concomitante do prazo de reabilitação e da regressão de regime caracteriza bis in idem.
+III. RAZÕES DE DECIDIR
+3. A prática de falta grave impede o preenchimento do requisito subjetivo para a progressão de regime prisional, conforme o disposto no art. 112, § 7º, da Lei de Execução Penal, sendo necessário o transcurso de 12 meses para a reabilitação da conduta carcerária a partir da data da recaptura do apenado.
+4. A aplicação concomitante do prazo de reabilitação e da regressão de regime não configura bis in idem, pois os institutos possuem finalidades e fundamentos distintos: a regressão de regime é uma sanção disciplinar pela prática da falta grave, enquanto o prazo de reabilitação está vinculado à avaliação do comportamento carcerário para a concessão de benefícios, como a progressão de regime.
+5. O acórdão recorrido, ao desconsiderar o prazo de reabilitação previsto no art. 112, § 7º, da LEP, contrariou jurisprudência consolidada desta Corte Superior, segundo a qual a prática de falta grave nos últimos 12 meses é impeditiva para o preenchimento do requisito subjetivo da progressão de regime.
+6. A individualização da execução penal deve observar os parâmetros legais e a proporcionalidade, não sendo admissível a concessão de progressão de regime a apenado que demonstrou, recentemente, inaptidão ao convívio em regime menos gravoso.
+IV. RECURSO ESPECIAL PROVIDO.
+RELATÓRIO
+Trata-se de recurso especial interposto com fundamento na alínea a do permissivo constitucional contra acórdão assim ementado (e-STJ, fl. 88):
+EMBARGOS INFRINGINTES E DE NULIDADE - RECURSO DEFENSIVO - PRETENSÃO DE MANUTENÇÃO DA DECISÃO PROFERIDA PELO JUÍZO DA EXECUÇÃO QUE DEFERIU A PROGRESSÃO DE REGIME AO REEDUCANDO - REQUISITOS OBJETIVO E SUBJETIVO FAVORÁVEIS AO APENADO - REEDUCANDO QUE COMETEU FALTA GRAVE QUE ENSEJOU A REGRESSÃO DO REGIME SEMIABERTO PARA O FECHADO - INAPLICABILIDADE DO PRAZO DE REABILITAÇÃO DE CONDUTA PREVISTO NO ARTIGO 133 DO DECRETO N. 12.140/06 PORQUANTO CONFIGURARIA BIS IN IDEM JÁ QUE HOUVE A REGRESSÃO DE REGIME NO MOMENTO DA PRÁTICA DA FALTA GRAVE - MANUTENÇÃO DA PROGRESSÃO DE REGIME DEVIDA - RECURSO PROVIDO.
+Não se aplica o prazo de reabilitação de conduta previsto no artigo 133 do Decreto n. 12.140/06, se a falta a que se refere o embargante ensejou a regressão de regime do reeducando porquanto nesse caso sua aplicação configuraria bis in idem. A exigência de um novo prazo, em tese, justifica-se se o apenado permanecer no regime em que estava quando cometeu a falta e sofreu a sanção disciplinar, e não quanto àquele para o qual foi regredido, onde inicia-se nova possibilidade de avaliação da conduta.
+Nas razões de seu recurso, aponta o MPMS violação do art. 112, §§ 1º e 7º, da Lei n. 7.210/84, alegando, em suma, que o recorrido "preencheu o pressuposto objetivo da progressão de regime em 30/09/2023, contudo não o fez quanto ao quesito subjetivo, na medida em que possui falta grave recente, consistente em fuga, praticada em 15/04/2023, data de sua recaptura" (e-STJ, fl. 118).
+Aduz, ainda, ser "incabível arguir que a regressão de regime, pela prática da falta grave, e a necessidade de se aguardar o prazo para a reabilitação da conduta carcerária configuraria bis in idem, porquanto se tratam de institutos com finalidades e requisitos distintos" (e-STJ, fl. 119), requerendo, ao final, o afastamento da progressão prisional.
+Apresentadas as contrarrazões, manifestou-se o MPF pelo provimento recursal.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FALTA GRAVE RECENTE. PRAZO PARA REABILITAÇÃO DE CONDUTA CARCERÁRIA. REQUISITO SUBJETIVO NÃO PREENCHIDO. BIS IN IDEM NÃO CONFIGURADO. PARECER FAVORÁVEL DO MPF. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público com fundamento na alínea "a" do art. 105, III, da Constituição Federal, contra acórdão que manteve a progressão de regime de sentenciado, afastando a aplicação do prazo de reabilitação de conduta previsto no art. 133 do Decreto n. 12.140/06, sob o fundamento de que sua incidência configuraria bis in idem, já que o apenado havia sofrido regressão de regime em razão da prática de falta grave.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a prática de falta grave impede o preenchimento do requisito subjetivo para a progressão de regime, exigindo a observância do prazo de reabilitação de conduta; e (ii) estabelecer se a aplicação concomitante do prazo de reabilitação e da regressão de regime caracteriza bis in idem.
+III. RAZÕES DE DECIDIR
+3. A prática de falta grave impede o preenchimento do requisito subjetivo para a progressão de regime prisional, conforme o disposto no art. 112, § 7º, da Lei de Execução Penal, sendo necessário o transcurso de 12 meses para a reabilitação da conduta carcerária a partir da data da recaptura do apenado.
+4. A aplicação concomitante do prazo de reabilitação e da regressão de regime não configura bis in idem, pois os institutos possuem finalidades e fundamentos distintos: a regressão de regime é uma sanção disciplinar pela prática da falta grave, enquanto o prazo de reabilitação está vinculado à avaliação do comportamento carcerário para a concessão de benefícios, como a progressão de regime.
+5. O acórdão recorrido, ao desconsiderar o prazo de reabilitação previsto no art. 112, § 7º, da LEP, contrariou jurisprudência consolidada desta Corte Superior, segundo a qual a prática de falta grave nos últimos 12 meses é impeditiva para o preenchimento do requisito subjetivo da progressão de regime.
+6. A individualização da execução penal deve observar os parâmetros legais e a proporcionalidade, não sendo admissível a concessão de progressão de regime a apenado que demonstrou, recentemente, inaptidão ao convívio em regime menos gravoso.
+IV. RECURSO ESPECIAL PROVIDO.
+VOTO
+A respeito da matéria aqui trazida, assim se posicionou o Tribunal local no julgamento dos embargos infringentes (e-STJ, fls. 96-98):
+ ..  O requisito objetivo resta preenchido diante do cumprimento de tempo mínimo da reprimenda, sendo utilizada a fração de 1/6 da pena, no caso de delito comum ou hediondo praticado antes da Lei nº 11.464/07, ou, sendo crime hediondo ou equiparado praticado após a Lei nº 11.464/07, necessário é o cumprimento de 2/5 ou 3/5, conforme seja, respectivamente, primário ou reincidente.
+No caso dos autos, conforme novo relatório de situação processual mov.189.1, com a nova data base para progressão o reeducando, ora agravado, atingiu o lapso temporal para progressão de regime fechado para o semiaberto em 30.09.2023.
+O requisito subjetivo, por sua vez, é demonstrado através do bom comportamento carcerário, sendo que, dependendo das peculiaridades do caso e fundamentadamente, poderá o magistrado requerer exame criminológico para análise mais específica deste item.
+Assim, pela análise da decisão proferida, observa-se que o agravado possui os requisitos favoráveis, como bem consignado pelo magistrado singular, já que o critério objetivo foi alcançado em 30.09.2023, bem como o requisito subjetivo restou preenchido, vez que o parecer disciplinar traz que seu comportamento carcerário foi avaliado como "BOA".
+Consigne-se que, a despeito do entendimento do Parquet e o Des. Relator do acórdão do Agravo, entendo que é desarrazoável e enseja bis in idem sustentar que o reeducando não preenche o requisito subjetivo para a progressão de regime considerando que em razão da falta grave deve aguardar o prazo de doze meses para reabilitação, isso porque referida falta já foi punida com a regressão de regime, tendo o reeducando saído do regime semiaberto para o fechado.
+É descabida a aplicação do artigo 133, do Decreto Estadual n. 12.140/2006, no caso concreto, já que sua aplicação consistiria em dupla penalização pelo mesmo fato, tendo em vista que em razão da falta grave o reeducando já teve o regime prisional regredido anteriormente.
+A exigência de um novo prazo, em tese, justifica-se se o apenado permanecer no regime em que estava quando cometeu a falta e sofreu a sanção disciplinar, e não quanto àquele para o qual foi regredido, onde inicia-se nova possibilidade de avaliação da conduta.
+Assim, punir o reeducando com o rebaixamento de sua conduta carcerária pelo período de um ano, nos termos do artigo 133 da RIBUP, configuraria bis in idem, o que é vedado pelo ordenamento jurídico.
+ ..
+Portanto, a prévia falta disciplinar cometida no regime semiaberto e que ensejou a regressão do reeducando ao regime fechado, não tem influência sobre o período de reabilitação previsto no citado Decreto Estadual, sob pena de acarretar bis in idem, uma vez que a aludida falta disciplinar já ocasionou a devida regressão do regime prisional.
+Assim, deve prevalecer o voto minoritário de lavra Des. Ruy Celso Barbosa Florence, que negou provimento ao Agravo em Execução interposto pelo Ministério Público Estadual para manter a decisão agravada que deferiu a progressão de regime ao reeducando. ..
+Do voto condutor no acórdão principal, extrai-se (e-STJ, fls. 44-46):
+ ..  Sustenta o parquet que o sentenciado não preencheu o requisito subjetivo para ser agraciado com a progressão de regime prisional, vez que cometeu falta disciplinar grave (fuga), em 13/02/2023, com recaptura em 15/04/2023, de forma que sua conduta ainda não foi reabilitada, devendo retornar ao regime prisional fechado.
+Na hipótese, pelo que se infere dos autos, não transcorreu o prazo de doze meses para a reabilitação da falta disciplinar, considerando a data da recaptura do agravado.
+Nesse contexto, merece acolhida a pretensão recursal, visto que o período da reabilitação deve ser considerado a partir do momento em que o apenado retornou ao cumprimento da pena, no caso, a data de 15/04/23. Portanto, o prazo de reabilitação será atingido em 15/04/2024.
+ ..
+Em consulta aos autos de origem, verifica-se que a evasão noticiada, entre fevereiro e abril do corrente ano, configurou falta disciplinar de natureza grave, que acarretou a regressão de regime prisional e demais consequências daí decorrentes.
+Nesse sentido, inadmissível que, poucos meses após sua recaptura, seja o sentenciado considerado reabilitado e novamente agraciado com a progressão ao regime semiaberto, para o qual já demonstrou, recentemente, inaptidão.
+A norma do § 7º do art. 112 da Lei de Execução Penal disciplina a reaquisição do direito ao bom comportamento carcerário e não ao direito de progressão de regime prisional, que tem a complexa disciplina em todos os outros seis parágrafos do referido artigo, bem como em outros artigos dessa lei e previsões no Código Penal.
+Logo, não há falar, por ora, no cumprimento do requisito subjetivo para a progressão de regime, de modo que é procedente a pretensão ministerial.
+Diante do exposto, com o parecer e divergindo do Relator, dou provimento ao Recurso de Agravo de Execução Penal interposto pelo Ministério Público Estadual, a fim de, reformando a decisão agravada, afastar a progressão de regime concedida ao sentenciado, que deverá retornar imediatamente ao regime prisional fechado. ..
+O entendimento acima encontra-se em consonância com a jurisprudência desta Corte. Confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DO REGIME PRISIONAL. FALTA GRAVE. BIS IN IDEM NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+1. Esta Corte possui consolidado entendimento acerca da possibilidade de se considerar a prática de faltas graves ou novos crimes cometidos no curso da execução penal como impeditivos à progressão de regime ou livramento condicional, independentemente de ter sido devidamente punido pela conduta faltosa, não configurando bis in idem.
+2. A prática de falta grave nos últimos 12 meses impede o preenchimento do requisito subjetivo para a progressão do regime prisional.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.159.513/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.)
+Ante o exposto, dou provimento ao recurso especial para restabelecer o acórdão de fls. 40-47 (e-STJ).
+É o voto.
