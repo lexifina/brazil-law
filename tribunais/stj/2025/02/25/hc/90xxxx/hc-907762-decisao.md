@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de HÉLIO FERREIRA DAS CHAGAS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS na ação penal n. 0709036-89.2019.8.07.0001.
+Foi o paciente denunciado juntamente com outros 07 (sete) indivíduos por suposta ofensa ao art. 89, caput, c/c arts. 84, § 2º, e 99, caput, todos da Lei nº 8.666/1993, por duas vezes, concluindo o Juízo monocrático, após a instrução processual e em sede preliminar, pelo afastamento da imputação em razão da abolitio criminis.
+Interposto recurso de apelação pelo Ministério Público buscando a condenação dos réus nos termos da inicial acusatória, foi ele provido para, cassada a sentença, determinar o retorno dos autos à origem para se analisar o mérito da ação penal.
+Sustenta o impetrante, por meio deste, sofrer o paciente constrangimento ilegal em razão do acórdão que afrontou o princípio da correlação, bem como os princípios do devido processo legal, da ampla defesa e do contraditório.
+Afirma que o Tribunal a quo, ao cassar a sentença que declarou extinta a punibilidade dos denunciados, decidiu além do pleiteado pelo órgão acusatório nas razões em que se buscava a condenação de Hélio e corréus.
+Aduz que a decisão além do pleiteado afronta a regra do art. 492, do CPC, aplicável ao processo penal, configurado assim o julgamento extra petita, não cabendo ao Tribunal corrigir o erro da Promotoria de Justiça em suas razões recursais.
+Requer, ao final, a concessão da ordem para se declarar a nulidade do acórdão da apelação.
+Determinado o processamento do presente feito às fls. 255/256, as informações processuais encontram-se às fls. 261/263.
+O Ministério Público Federal manifestou-se, às fls. 3512/3516, pelo não conhecimento da ordem.
+É o relatório.
+DECIDO.
+Foi o paciente denunciado juntamente com 07 (sete) corréus porque (fl. 19):
+Entre os meses de outubro a dezembro de 2011, no Varjão-DF, os denunciados HÉLIO, ALEXANDRE, DELBER e EMILTON, livres e conscientes, com unidade de desígnios e divisão de tarefas, na condição de ocupantes de cargos em comissão da estrutura do Distrito Federal, deixaram de exigir licitação e de observar as formalidades pertinentes à inexigibilidade, na forma prevista na Lei nº 8.666/93, praticando atos administrativos visando a ilegal contratação direta das empresas FAROL DA BARRA PRODUÇÕES E EVENTOS, RAYSSA PETTENÁ DA CUNHA ME e DESPERTA CULTURA PRODUÇÃO E EVENTOS, no procedimento administrativo nº 303.000.151/2011 (contratação de artistas para a Cruzada Cultural Evangélica). Com tais atos, os referidos denunciados obtiveram para RONEY ARNOUT e PASTOR FRANCISCO vantagem ilícita em prejuízo do Distrito Federal, mediante o direcionamento das contratações e a elevação artificial de preços dos serviços avençados.
+Encerrada a instrução processual, o Juízo da origem acolheu preliminar suscitada pela Defesa, declarando que (fl. 65):
+(..) em face da nova TIPIFICAÇÃO PENAL, tratando-se de lei mais benéfica resultante da revogação da Lei 8.666/1993 pela Lei 14.133/2021, tenho que, também, neste feito, restou operado o instituto da abolitio criminis, devendo retroagir para beneficiar os acusados.
+Inconformado, o Ministério Público interpôs recurso de apelação no qual, após discorrer sobre as provas da materialidade, autoria e elemento subjetivo do tipo penal, bem como alegar o desacerto no reconhecimento da abolitio criminis, requereu a reforma da sentença e consequente condenação dos recorridos.
+Sobreveio então o acórdão combatido, assim ementado (fls. 209):
+APELAÇÃO CRIMINAL. LICITAÇÃO. CONTRATAÇÃO DIRETA ILEGAL. RECURSO DO MP. ART. 89 DA LEI Nº 8.666/1993. REVOGAÇÃO. LEI Nº 14.133/2021. ART. 337-E DO CP. INEXIGIBILIDADE DE LICITAÇÃO. INOBSERVÂNCIA DE FORMALIDADES LEGAIS. ABOLITIO CRIMINIS PARCIAL. CONTINUIDADE TÍPICO-NORMATIVA. I - A Lei nº 14.133/2021 revogou o art. 89 da Lei nº 8.666/1993, que descrevia a conduta típica de "dispensar ou inexigir licitação fora das hipóteses previstas em lei, ou deixar de observar as formalidades pertinentes à dispensa ou à inexigibilidade", inserindo no Código Penal o artigo 337-E, que tipifica a conduta de "contratação direta ilegal", consistente em "admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei".
+II - Doutrina e jurisprudência entendem de maneira uníssona que ocorreu a continuidade típico-normativa em relação à primeira parte do art. 89 da Lei nº 8.666/1993, havendo abolitio criminis apenas da segunda parte, relativa à conduta de deixar de observar formalidades pertinentes à dispensa ou inexigibilidade de licitação.
+III - Nos termos do art. 29, caput, do CP e considerando que o delito do art. 337-E do CP é plurissubjetivo, plurilateral ou de concurso necessário, todas as pessoas envolvidas na contratação direta fora das hipóteses previstas pelo representante da Administração Pública deverão integrar a ação penal.
+IV - Recurso conhecido e provido.
+Em seguida, foram rejeitados os embargos declaratórios (fls. 239/240):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CRIMINAL. OBSCURIDADE, CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA DE VÍCIO. DECISÃO CLARA E FUNDAMENTADA. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. ESGOTAMENTO DAS TESES APRESENTADAS. DESNECESSIDADE. INCONFORMISMO. IMPOSSIBILIDADE DO RECURSO. PREQUESTIONAMENTO.
+I - A viabilidade dos embargos declaratórios encontra-se condicionada à presença de ambiguidade, obscuridade, contradição ou omissão no julgado (arts. 619 e 620 do CPP) não se prestando o recurso para a mera reapreciação da lide.
+II - Os embargos não se prestam para rediscussão de matéria decidida de forma clara e fundamentada.
+III - Se o acórdão embargado não contemplou questão diversa da deduzida no recurso, tendo somente acolhido o pedido em menor extensão, não há que se falar em julgamento extra petita.
+IV - O julgador não é obrigado a refutar cada um dos argumentos e dispositivos legais invocados pelas partes, bastando a fundamentação suficiente e idônea a embasar sua convicção motivada.
+V - Verifica-se que o embargante pretende o reexame de matéria já julgada, objetivo que não se conforma à finalidade a que se destinam os embargos declaratórios. Não há que se falar em vício no acórdão embargado tão somente porque contrário aos interesses do embargante.
+VI - Ainda que para fins de prequestionamento, os embargos de declaração estão restritos às hipóteses do artigo 619 do CPP.
+VII - Embargos de declaração rejeitados.
+A Defesa interpôs então recursos especial e extraordinário.
+Isto dito, convém observar que pacífico é o entendimento deste Superior Tribunal de Justiça, em consonância com orientação do Supremo Tribunal Federal, quanto ao não cabimento de habeas corpus substitutivo do recurso legalmente previsto para a hipótese, salvo quando presente flagrante ilegalidade, o que não se verifica no acórdão ora combatido, não vislumbrada de plano hipótese de julgamento extra petita.
+Veja-se:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não deve ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+2. Esta Corte Superior, alinhada ao entendimento do Supremo Tribunal Federal, firmou a compreensão de que, para que uma decisão judicial seja considerada fundamentada, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação suficiente para a solução da controvérsia. Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte considere sucinta ou incompleta a análise das alegações formuladas, mas sim à apresentação das razões de decidir.
+Precedente.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois a fundamentação do acórdão impetrado ampara-se em análise suficiente para a solução da controvérsia, não havendo necessidade de análise pormenorizada de todas as alegações.
+3. Agravo regimental improvido.
+(AgRg no HC n. 925.493/RJ, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024).
+De fato, como se observa dos documentos, batendo-se contra a declaração da extinção da punibilidade e reafirmando a presença de provas da materialidade e autoria dos crimes previstos na inicial, a Promotoria de Justiça requereu a condenação dos apelados, oportunizado à Defesa apresentar suas contrarrazões, observados assim os princípios do contraditório e da ampla defesa.
+Os Desembargadores, por sua vez, afastaram a conclusão de hipótese de abolitio criminis, como reconhecido em sede preliminar na sentença, determinando a remessa dos autos ao juízo da origem para análise do mérito da ação penal, o que se mostrou acertado sob pena de supressão de instância.
+Assim, como constou do aresto dos embargos de declaração, não tendo o acórdão contemplado questão diversa da deduzida no apelo ministerial, mas tão somente acolhido o pedido em menor extensão, não há de se falar em julgamento extra petita (fl. 245).
+Não se vislumbra, portanto, flagrante ilegalidade a justificar a concessão da ordem de ofício, valendo destacar ainda que o julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, ainda que para fins de prequestionamento, desde que demonstre os fundamentos e os motivos que justificaram suas razões de decidir (AgRg no HC n. 739.614/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 11/10/2022, DJe de 19/10/2022).
+Ademais, como se verifica dos autos, além da impetração do presente habeas corpus, o impetrante interpôs recursos especial e extraordinário contra o mesmo acórdão, o que, em conformidade com o entendimento desta Corte, ofende o princípio da unirrecorribilidade:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. IMPETRAÇÃO CONCOMITANTE COM RECURSO ESPECIAL. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. NULIDADES. BUSCA PESSOAL INDEVIDA E VIOLAÇÃO DE DOMICÍLIO. PEDIDO SECUNDÁRIO. DESCLASSIFICAÇÃO DO DELITO DO ART. 16, § 1º, DA LEI N. 10.826/2003 PARA MAJORANTE DO ART. 40, IV, DA LEI N. 11.343/2006. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus contra o mesmo ato, em respeito ao princípio da unirrecorribilidade.
+2. As buscas pessoal e domiciliar foram fundamentadas em denúncias específicas e monitoramento policial, não havendo ilegalidade manifesta nas provas obtidas.
+3. A desclassificação do delito de porte de arma de fogo para majorante do art. 40, IV, da Lei de Drogas não se justifica, pois os artefatos bélicos não estavam sendo utilizados para o tráfico de drogas.
+4. Agravo regimental improvido.
+(AgRg no HC n. 941.393/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
