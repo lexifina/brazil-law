@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por TEREZINHA VIVIANI SILVA e outros com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. LIQUIDAÇÃO E CUMPRIMENTO INDIVIDUAL DE TÍTULO EXECUTIVO FORMADO EM AÇÃO COLETIVA ANTECEDIDA POR MANDADO DE SEGURANÇA COLETIVO. JUÍZES CLASSISTAS DA JUSTIÇA DO TRABALHO. PARCELA AUTÔNOMA DE EQUIVALÊNCIA. LIMITES SUBJETIVOS DA COISA JULGADA MATERIAL. AUSÊNCIA DE LEGITIMIDADE AD CAUSAM ATIVA.
+- Em conformidade com os princípios dispositivo (ou da inércia) e da correlação (ou congruência), sempre foi o parâmetro cognitivo desde a impetração do notório Mandado de Segurança Coletivo nº 737165-73.2001.5.55.5555 até o encerramento da apreciação do respectivo RMS nº 25.841/DF, que veio a abrir caminho, posteriormente, ao ajuizamento da famosa Ação Coletiva nº 0006306- 43.2016.4.01.3400, demanda de associados da Associação Nacional dos Juízes Classistas da Justiça do Trabalho - ANAJUCLA pelo pagamento da Parcela Autônoma de Equivalência - PAE, de determinado período, mas apenas aos Juízes Classistas que se aposentaram ou cumpriram os requisitos para aposentadoria sob a vigência da Lei nº 6.903/1981.
+- Por conseguinte, se a pessoa ora interessada não se encontra dentro dos limites subjetivos da coisa julgada material formada no âmbito da referida Ação Coletiva, correta se mostra a sentença atacada ao reconhecer a ausência de legitimidade ad causam ativa e, por conseguinte, extinguir a liquidação e cumprimento individual do título executivo lá formado.
+- Apelação não provida.
+No presente recurso especial, o recorrente aponta como violados os arts. 489, § 1º, VI, e 1.022, II, do CPC, bem como divergência jurisprudencial.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial não foi conhecido pela decisão de fls. 1.742-1.746.
+A União opôs embargos declaratórios, em que aponta omissão quanto à majoração dos honorários advocatícios.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Consoante o Enunciado Administrativo n. 3/STJ, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De igual modo, o enunciado n. 7 da Súmula Administrativa do STJ dispõe que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento".
+Na sentença, fixaram-se os honorários advocatícios em 10% (dez por cento) sobre o valor da causa, devendo tal cobrança ficar suspensa, conforme determina o artigo 98, § 3º do CPC (fl. 1.090). No acórdão, a verba honorária foi majorada em 1% (um por cento) (fl. 1.229).
+Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em 1% (um por cento), cuja condenação ficará suspensa por ser a parte autora beneficiária da Justiça Gratuita, com fulcro no art. 98, § 3º, do CPC/2015.
+Publique-se. Intimem-s e.
+EMENTA
