@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Habeas Corpus sem pedido de liminar impetrado em favor de CARLOS ALBERTO DO NASCIMENTO, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente foi condenado a 13 anos, 2 meses e 12 dias de reclusão em regime inicial fechado e ao pagamento de 60 dias-multa pela prática do crime previsto no art. 157, caput, e do art. 157, caput, por três vezes, estes na forma do art. 70, todos na forma do art. 69 do Código Penal.
+Interposta apelação, foi dado parcial provimento ao recurso para reconhecer a atenuante da confissão e reduzir a pena para 11 anos de reclusão, em regime inicial fechado, e o pagamento para 26 dias-multa.
+A defesa, então, impetrou este Habeas Corpus. Sustentou a ocorrência de nulidade do processo, pois o reconhecimento pessoal não teria observado o art. 226 do CPP. Subsidiariamente, pleiteia o reconhecimento da continuidade delitiva entre os crimes praticados com consequente revisão da dosimetria da pena.
+Informações prestadas a fls. 98-101 e 102-107.
+O Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus (fls. 109-113).
+É o relatório.
+DECIDO.
+Verifica-se que o habeas corpus em tela foi impetrado como substitutivo de recurso próprio/revisão criminal.
+Pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Portanto, não cabe habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não se verifica flagrante ilegalidade, principalmente tendo em vista que existem outros elementos de provas diversos e autônomos que ensejaram a condenação do paciente.
+Destaca-se do acórdão (fl. 78):
+ ..  Em que pese eventual nulidade no reconhecimento realizado em sede policial por uma das quatro vítimas (..) - circunstância não comprovada -, fato é que o réu fora preso em flagrante, com a chave do carro roubado, portando simulacro de arma de fogo, de posse dos bens subtraídos das vítimas e fora reconhecido em juízo por outra vítima (..) seguindo os procedimentos do artigo 226 do CPP.  ..
+Assim, incide a jurisprudência desta Corte no sentido de que se existentes outras provas válidas e independentes, para além do reconhecimento fotográfico ou pessoal, a confirmar a autoria delitiva, mantém-se irretocável o édito condenatório (AgRg no AR Esp n. 2.109.968/MG, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 18/10/2022, D Je de 21/10/2022).
+No mais, de acordo com o entendimento consolidado deste Superior Tribunal de Justiça, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Assim, a revisão da dosimetria somente é possível em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (AgRg no REsp n. 2.042.325/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Não se verifica manifesta ilegalidade, principalmente diante da ausência de liame entre as condutas praticadas. Destaca-se mais uma vez o acórdão (fl. 78):
+ ..  Incabível, ademais, o reconhecimento da continuidade delitiva, pois inexistente liame entre as condutas perpetradas pelo acusado. Como se vê dos autos, o Apelante logrando êxito no roubo contra a vítima ÓTICA  .. , procedeu ao roubo contra as vítimas  .. , sem haver qualquer liame subjetivo entre as condutas, existente, em realidade, a habitualidade criminosa, o que é ademais corroborado pelas pretéritas condenações também por crimes de roubo - a qual não enseja a aplicação da regra do artigo 71 do Código Penal.  ..
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
