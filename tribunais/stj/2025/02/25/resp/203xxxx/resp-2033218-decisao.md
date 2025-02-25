@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS contra acórdão assim ementado (fl. 843):
+AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO SECURITÁRIA  VÍCIOS DE CONSTRUÇÃO - AJUIZADA CONTRA SEGURADORA - LEI FEDERAL 13.000/14 - FATO NOVO - INTERVENÇÃO DA CAIXA ECONÔMICA FEDERAL - NECESSIDADE NÃO DEMONSTRADA - COMPETÊNCIA DA JUSTIÇA ESTADUAL - MANTIDA.
+Conforme entendimento do c. STJ, a Lei 13.000/14 teve como objeto, tão, somente, autorizar a CEE a representar judicial e extrajudicialmente interesses do FCVS e a intervir, em caso de interesse público, nas ações judiciais que representem risco ou impacto jurídico ao FCVS ou às subcontas (REsp 862.2721PR). Não comprovado nos autos o risco o impacto jurídico ou econômico do FCVS, tampouco do FESA, não há que se falar em fato novo a demonstrar a necessidade de chamamento da Caixa Econômica para intervir na lide, sendo mantida a competência da Justiça Estadual para prosseguir com a demanda.
+Os embargos de declaração foram rejeitados (fls. 908/917).
+Nas razões do especial, aponta a recorrente violação ao artigo 1º-A da Lei nº 12.409/14 e artigo 3º da Lei nº 13.000/14; argumentando, em síntese, que a Caixa Econômica Federal teria interesse em intervir em ação de indenização securitária, envolvendo apólice pública, referente a imóvel objeto de contrato de financiamento com recursos do Sistema Financeiro da Habitação (SFH).
+Contra-arrazoado (fls. 989/1.083), o recurso especial foi admitido na origem (fls. 1.144/1.145).
+Assim delimitada a controvérsia, passo a decidir.
+A Corte de origem afastou o interesse da Caixa Econômica Federal no feito, por considerar que não teria sido comprovado o impacto no Fundo de Compensação de Variações Salariais (FCVS), a despeito de se tratar de ação de indenização securitária envolvendo imóvel financiado com recursos do SFH e independentemente da natureza pública ou privada do seguro contratado:
+Sustentou, contudo, a agravante, que se trata de fato novo, porquanto a Lei 13.00012014 legitimou a intervenção da CEF nas demandas envolvendo apólice do ramo 66 e o potencial risco ao FCVS, tudo a demonstrar, em sua visão, o patente interesse da CEF.
+ ..
+No caso em apreciação, não restou demonstrado pela agravante risco ou impacto jurídico ou econômico ao FCVS ou subcontas, elemento, a meu sentir, essencial para o chamamento da CEF para intervir na lide.
+Como se vê, o fundamento determinante para afastar o interesse da Caixa Econômica Federal para intervir no feito é a falta de comprovação de que eventual procedência da pretensão de indenização securitária movida pelo adquirente de imóvel financiado com recursos do SFH repercuta no FCVS.
+O acórdão recorrido comporta reforma, pois se encontra em sentido contrário ao do entendimento firmado pelo Supremo Tribunal Federal, no julgamento do RE 827.996 (Tema 1.011/STF), submetido à sistemática da repercussão geral (Tribunal Pleno, Relator Ministro GILMAR MENDES, Julgamento: 29.6.2020, Publicação: 21.8.2020), o qual esclareceu que:
+"Com a edição da Medida Provisória 1.671/1998 passou a ser permitido que as seguradoras de mercado oferecessem seguro a financiamentos habitacionais por meio de apólices privadas (ramo 68), desvinculadas do SH/SFH", destacando que, "antes dessa autorização concedida em 1998, todas as apólices do SH (Seguro Habitacional) eram do ramo público (ramo 66)".
+Registrou, ainda, que:
+"Independentemente da sucessão normativa no tempo e do caráter infralegal de algumas disposições, o certo é que interessa definir o interesse jurídico da CEF em intervir em feitos que envolvam ações securitárias do ramo 66 (apólice pública do antigo Seguro Habitacional), diante do comando normativo da MP 513/2010, convertida na Lei 12.409/2011 (e suas alterações posteriores)".
+Assim, diante da eficácia vinculante do precedente obrigatório, devem os autos retornar à origem a fim de que verifique a qual ramo as apólices do Seguro Habitacional pertenciam, público (ramo 66) ou privado (ramo 68), decidindo, a partir do esclarimento dessa premissa, acerca da legitimidade da Caixa Econômica Federal e da competência.
+Em face do exposto, dou parcial provimento ao recurso especial, a fim de determinar ao Tribunal de origem que profira novo julgamento do agravo de instrumento, mediante aplicação das teses fixadas no Tema 1.011 de Repercussão Geral ao caso dos autos para decisão sobre a competência e legitimidade da Caixa Econômica Federal.
+As demais questões ficam prejudicadas.
+Intimem-se.
+EMENTA
