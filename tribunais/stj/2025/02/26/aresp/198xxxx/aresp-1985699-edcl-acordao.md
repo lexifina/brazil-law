@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que apresenta razões dissociadas do acórdão embargado, não apresenta razões ou não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida.
+II - Embargos de declaração não conhecidos.
+RELATÓRIO
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. ADMINISTRATIVO, AÇÃO DE RESSARCIMENTO AO ERÁRIO. ARQUITETO DEMITIDO A BEM DO SERVIÇO PÚBLICO, UMA VEZ QUE DESCUMPRIU O REGIME DE DEDICAÇÃO PROFISSIONAL EXCLUSIVA. RDPE. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CÓDIGO FUX. NÃO APLICADA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação pleiteando, em suma, ressarcimento de valores pagos ao servidor público em período trabalhado sob regime de dedicação exclusiva enquanto exercia atividade particular remunerada de forma paralela. A sentença julgou extinto o feito reconhecendo a prescrição. O Tribunal de Justiça do Estado de São Paulo reformou a sentença para condenar o servidor ao ressarcimento do dano ao erário.
+II - No que diz respeito ao art. 6º da LINDB; ao art. 14, § 3º, ao art. 15, e ao art. 17, § 6º e § 11, da Lei n. 8.429/1992, vinculados às teses irretroatividade da Lei de Improbidade Administrativa e de desrespeito a procedimento específico próprio do regime jurídico de improbidade, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão.
+III - Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+IV - A falta de exame de questão constante de normativo legal apontado pelo recorrente, nos embargos de declaração, não caracteriza, por si só, omissão quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda, não é abordada pelo Sodalício, e o recorrente, em ambas as situações, não demonstra, de forma analítica e detalhada, a relevância do exame da questão apresentada para o deslinde final da causa.
+V - In casu, não há falar em prequestionamento ficto, previsão do art. 1.025 do CPC/2015, isso porque, em conformidade com a jurisprudência do STJ, para sua incidência deve a parte ter alegado, devidamente em suas razões recursais, ofensa ao art. 1022 do CPC/2015, de modo a permitir sanar eventual omissão por meio de novo julgamento dos embargos de declaração, ou a análise da matéria tida por omissa diretamente por esta Corte. Tal não se verificou no presente feito.
+VI - Em relação aos arts. 10, 141 e 493 do CPC/2015, art. 9º e art. 11 da Lei n. 9.429/1992, que sustentaram o argumento de ausência de descrição de conduta ímproba que acarrete enriquecimento ilícito ou sem causa, verifica-se que, além de não ter sido analisado o conteúdo dos dispositivos legais no acórdão recorrido, não foram objeto dos embargos de declaração opostos às fls. 1.738-1.761, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF.
+VII - Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+VIII - Quanto aos arts. 369, 370, 437, § 1º, e 438, § 1º, do CPC/2015, e o alegado cerceamento de defesa, vê-se que a irresignação do recorrente acerca da falta de oportunidade para produzir provas em seu favor, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu pelo exercício da ampla defesa e do contraditório tanto no PAD como no feito judicial, não suscitando outras teses ou apresentando outros documentos em contestação por conveniência, e não por cerceamento em fazê-lo.
+IX - Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+X - Ademais, a leitura atenta do acórdão recorrido revela que ele utilizou-se de fundamento constitucional para solucionar a controvérsia, qual seja, a aplicação do Tema 897/STF e do art. 37, § 5º, da Constituição da República. Desta forma se tem inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+XII - Por fim, como a Lei n. 8.429 foi promulgada em 1992, ou seja, em período anterior ao fato que ensejou a demissão do recorrente - o qual se estendeu até fevereiro de 1998, não há se falar em aplicação retroativa da lei de improbidade administrativa.
+XIII - Agravo interno improvido.
+Foram opostos embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que apresenta razões dissociadas do acórdão embargado, não apresenta razões ou não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida.
+II - Embargos de declaração não conhecidos.
+VOTO
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+O caput do art. 1.023 do Código de Processo Civil de 2015 aponta expressamente o dever do embargante de indicar a omissão, obscuridade ou contradição na decisão, ônus do qual não se desincumbiu o recorrente.
+A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos supramencionados vícios implica o não conhecimento dos embargos de declaração por descumprimento dos requisitos legais. Nesse sentido é a jurisprudência:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. RECURSO NÃO CONHECIDO.
+1. A ausência de indicação, nas razões dos embargos de declaração, da presença de quaisquer dos vícios enumerados no art. 1.022 do Código de Processo Civil (CPC) implica o não conhecimento do recurso, pois descumpridos os requisitos previstos no art. 1.023 do mesmo diploma legal.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 2.126.595/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INDICAÇÃO. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que o embargante utiliza-se do recurso integrativo para apresentar razões dissociadas da fundamentação do acórdão embargado.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 2.191.735/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em
+11/9/2023, DJe de 15/9/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF.
+1. O presente agravo interno foi interposto contra acórdão publicado na vigência do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Os embargos de declaração não comportam conhecimento, uma vez que deficiente sua fundamentação, visto que a parte recorrente não fundamentou o recurso na violação do art. 1.022 do CPC, tampouco especificou quais de seus incisos teriam sido contrariados, a despeito da indicação de omissão. Incidência da Súmula n. 284/STF.
+Precedentes.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EDcl no REsp n. 2.004.300/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/6/2023, DJe de 21/6/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO DESACOMPANHADO DAS RESPECTIVAS RAZÕES. RECURSO MANIFESTAMENTE INADMISSÍVEL. 1. Conforme jurisprudência pacífica desta Corte Superior, não se conhece de recurso interposto por meio eletrônico em que a petição está desacompanhada das razões, sendo dever da parte fiscalizar sua exata transmissão, assim como é incabível posterior regularização. 2. Agravo interno não conhecido. (AgInt no AgInt no REsp n. 1.643.404/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 23/11/2020, DJe de 26/11/2020.)
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
