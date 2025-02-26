@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EDISON AUGUSTO SILIPRANDI contra decisão de minha lavra em que reconsiderei a decisão da Presidência para apreciar novamente o recurso esp ecial, dando a ele provimento em razão do vício de integração não dirimido mesmo após a oposição de recurso cabível.
+A parte embargante alega, em síntese, que a decisão ora embargada nada proferiu acerca das demais alegações de omissão no acórdão de origem, em especial acerca da prescrição intercorrente, da violação aos princípios da legalidade (lato sensu) e da publicidade, da irregularidade do título executivo que fundamenta a execução fiscal, bem como acerca da nulidade da cobrança em razão da utilização de ato infralegal para a fixação da base de cálculo do imposto.
+Contraminuta não apresentada.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+Como consignado na decisão embargada, a Corte de origem afastou expressamente a alegação de prescrição do crédito tributário, bem como as alegações de vício no título executivo e no lançamento suscitadas no recurso de agravo de instrumento.
+Afirmou-se de forma expressa que, depois do despacho citatório, os atos processuais dele decorrentes demoraram a ser cumpridos por culpa exclusiva do judiciário, em decorrência de diversas alterações de competência superveniente (criação de varas específicas) e da digitalização dos autos. Defendeu, ainda, que as tentativas de citação e penhora de bens se deram de forma positiva, motivo pelo que não iniciado o prazo de prescrição intercorrente, na forma da jurisprudência do STJ.
+Quanto ao título executivo, defendeu a validade da CDA que apresentou de forma clara e especificada cada uma das obrigações tributárias não adimplidas pelo recorrente, ainda que os diversos tributos estivessem sendo cobrados em um único título executivo que, ademais, preencheria os demais requisitos de validade do título executivo.
+No que concerne ao lançamento, defende que a planta genérica de valores foi publicada, não incorrendo em vício que a publicação tenha se dado em preto e branco, aduzindo que a planta genérica não altera a base de cálculo, sendo apenas mero instrumento de apuração do valor venal dos imóveis.
+Relativamente à alegação de nulidade na cobrança de IPTU em alíquota progressiva, defendeu que a lei complementar municipal e a Constituição consagrariam a função social da propriedade, de modo que a progressividade aplicada seria uma forma de garantir esse comando normativo.
+Quanto ao mais (inclusão de valores não tributários e etc.), afirmou tratar-se de questões relativas a excesso de execução, que deveria ser discutido no bojo dos embargos à execução.
+Na decisão ora embargada, consignei que, dentre as alegações de vício de integração formuladas no recurso especial, o acórdão de origem revela não ter sido analisada a controvérsia sobre a nulidade na fixação de alíquota progressiva de IPTU antes da edição do plano diretor pela edilidade, embora devidamente alegada no momento oportuno.
+Nesse ponto, reafirmo que apenas quanto a esse ponto a alegação de existência de negativa de prestação jurisdicional foi reconhecida, não havendo vício de integração quanto aos demais elementos suscitados.
+Constata-se, assim, que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
