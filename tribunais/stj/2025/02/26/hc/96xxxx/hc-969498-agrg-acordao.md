@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental NO HABEAS CORPUS. Prisão preventiva. tráfico de drogas. Reiteração delitiva. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, mantendo a prisão preventiva do agravante.
+2. O agravante foi preso preventivamente por tráfico de drogas, com apreensão de 53 porções de crack e 8 filetes de maconha.
+3. O Tribunal de origem denegou a ordem de habeas corpus, fundamentando a prisão preventiva na garantia da ordem pública, diante do risco de reiteração delitiva, considerando que o acusado foi recentemente condenado pela prática de delito da mesma natureza.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada na garantia da ordem pública, diante do risco de reiteração delitiva.
+III. Razões de decidir
+5. A prisão preventiva está fundamentada na garantia da ordem pública, devido à reiteração delitiva do agravante, que já havia sido condenado recentemente por tráfico de drogas e, desta vez, foi preso em flagrante com 8 filetes de maconha e 53 pedras de crack, além de quantia em dinheiro em notas trocadas, em via pública.
+6. A jurisprudência desta Corte sustenta que a persistência na prática criminosa justifica a prisão preventiva para evitar a reiteração delitiva e, assim, garantir a ordem pública.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "A prisão preventiva é justificada pela reiteração delitiva e pela gravidade concreta da conduta."
+Dispositivos relevantes citados: CPP, art. 312.
+Jurisprudência relevante citada: STJ, AgRg no HC 842.414/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 30/10/2023; STJ, RHC 163.377/RS, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 7/6/2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PETTERSON GUEDES APA contra decisão monocrática de minha relatoria que não conheceu do habeas corpus.
+A parte agravante reitera a alegação de ausência de fundamentos concretos para a custódia preventiva, ressaltando que é tecnicamente primário, possui residência fixa e trabalho lícito, não havendo indícios de sua dedicação a atividades criminosas.
+Ademais, afirma que a quantidade de drogas apreendidas - oito filetes de maconha e 53 pedras de crack - não poderia, por si só, justificar a prisão preventiva.
+Alega, ainda, que, caso condenado, poderá ser beneficiado com a aplicação do tráfico privilegiado e a fixação de regime inicial diverso do fechado, de modo que a manutenção da custódia cautelar seria desproporcional.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do feito ao crivo do órgão colegiado.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO HABEAS CORPUS. Prisão preventiva. tráfico de drogas. Reiteração delitiva. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, mantendo a prisão preventiva do agravante.
+2. O agravante foi preso preventivamente por tráfico de drogas, com apreensão de 53 porções de crack e 8 filetes de maconha.
+3. O Tribunal de origem denegou a ordem de habeas corpus, fundamentando a prisão preventiva na garantia da ordem pública, diante do risco de reiteração delitiva, considerando que o acusado foi recentemente condenado pela prática de delito da mesma natureza.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada na garantia da ordem pública, diante do risco de reiteração delitiva.
+III. Razões de decidir
+5. A prisão preventiva está fundamentada na garantia da ordem pública, devido à reiteração delitiva do agravante, que já havia sido condenado recentemente por tráfico de drogas e, desta vez, foi preso em flagrante com 8 filetes de maconha e 53 pedras de crack, além de quantia em dinheiro em notas trocadas, em via pública.
+6. A jurisprudência desta Corte sustenta que a persistência na prática criminosa justifica a prisão preventiva para evitar a reiteração delitiva e, assim, garantir a ordem pública.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "A prisão preventiva é justificada pela reiteração delitiva e pela gravidade concreta da conduta."
+Dispositivos relevantes citados: CPP, art. 312.
+Jurisprudência relevante citada: STJ, AgRg no HC 842.414/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 30/10/2023; STJ, RHC 163.377/RS, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 7/6/2022.
+VOTO
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Conforme consignado anteriormente, a prisão preventiva foi decretada mediante a seguinte fundamentação (e-STJ, fls. 65-66, grifou-se):
+"No mais, verifica-se dos autos que o investigado foi preso em flagrante delito pela prática do crime de tráfico ilícito de drogas, sendo preso em posse de razoável quantidade de drogas de diferentes espécies, embaladas individualmente (08 filetes de maconha e 53 pedras de "crack"), e quantia em dinheiro em notas trocadas, tudo em plena via pública já conhecida como ponto de tráfico de drogas, e durante a luz do dia, e tendo confessado aos policiais a prática delitiva, o que foi prontamente confirmado pelas testemunhas e que por si já demonstra a periculosidade e ousadia do agente e a inobservância das regras elementares de convivência social, tudo, pois, a caracterizar fundamento idôneo para a decretação da custódia cautelar  .. .
+Anote-se, em tempo, que o autuado foi recentemente condenado pela prática de crime idêntico ao presente, a demonstrar que o anterior processo não foi suficiente para frear os seus impulsos antissociais e que faz do crime verdadeiro meio de vida; portanto, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade"  .. ".
+O Tribunal de origem, ao denegar a ordem de habeas corpus, assim consignou (e-STJ, fl. 81, com destaque):
+"Trata-se de drogas com alto potencial lesivo. Embora essas circunstâncias não constituam, por si só, óbice à concessão de liberdade provisória, não podem ser simplesmente desconsideradas pois evidenciam o seu envolvimento no meio criminoso e possibilidade real de recalcitrância criminosa, logo, para não voltar a praticar infrações penais, assegurando-se a ordem pública, a segregação cautelar se impõe.
+Embora a gravidade do delito, por si só, não constitua fundamento para manutenção da prisão preventiva, tem-se que, na hipótese, conforme pontuou o nobre Magistrado (fls. 44) o paciente foi recentemente condenado pela prática de crime idêntico ao presente, demonstrando que tem envolvimento na prática criminosa, há reprovabilidade da conduta, respaldando a necessidade da custódia preventiva para garantia da ordem pública."
+Nos termos do art. 312 do Código de Processo Penal, "A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado".
+Do excerto acima transcrito, constato que o fundado receio de reiteração delitiva, ante a recalcitrância do agravante - condenado recentemente pela prática de delito da mesma espécie - , é fundamento suficiente para a custódia cautelar, razão pela qual deve ser mantida. Cito precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. NEGATIVA DO RECURSO EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DE DROGAS. RISCO DE REITERAÇÃO DELITIVA. ATOS INFRACIONAIS PRETÉRITOS. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA.
+1. No caso, tem-se que a constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além da quantidade do entorpecente apreendido, o fato de o agravante ter tido passagens por atos infracionais, inclusive por fato semelhante ao destes autos. Tudo a revelar a periculosidade in concreto do agente e a justificar a manutenção da medida extrema.
+2. Conforme reiterado entendimento desta Corte Superior de Justiça, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 24/5/2022).
+3. Não se revelam suficientes as medidas previstas no art. 319 do Código de Processo Penal, pois eventuais condições pessoais favoráveis do agravante não têm o condão de, por si sós, garantir a revogação de sua prisão preventiva. 4 . Agravo regimental improvido."
+(AgRg no HC n. 842.414/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 30/10/2023, DJe de 9/11/2023.)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. RECURSO DESPROVIDO.
+1. A prisão preventiva, para ser legítima à luz da sistemática constitucional, exige que o Magistrado, sempre mediante fundamentos concretos extraídos de elementos constantes dos autos (arts. 5.º, incisos LXI, LXV e LXVI, e 93, inciso IX, da Constituição da República), demonstre a existência de prova da materialidade do crime e de indícios suficientes de autoria delitiva (fumus comissi delicti), bem como o preenchimento de ao menos um dos requisitos autorizativos previstos no art. 312 do Código de Processo Penal, no sentido de que o réu, solto, irá perturbar ou colocar em perigo (periculum libertatis) a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal.
+2. Além disso, de acordo com a microrreforma processual procedida pela Lei n. 12.403/2011 e com os princípios da excepcionalidade (art. 282, § 4.º, parte final, e § 6.º, do Código de Processo Penal), provisionalidade (art. 316 do Código de Processo Penal) e proporcionalidade (arts. 282, incisos I e II, e 310, inciso II, parte final, do Código de Processo Penal), a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do Código de Processo Penal, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade.
+3. No caso, a despeito da pequena quantidade de substância entorpecente apreendida, a prisão preventiva encontra-se suficientemente fundamentada, tendo sido amparada no risco concreto de reiteração delitiva - o Recorrente responde a outros processos pelo crime de tráfico de drogas, tendo sido beneficiado com a revogação da prisão cautelar, por esta Corte Superior de Justiça, há menos de um ano -, o que justifica a segregação cautelar para garantia da ordem pública.
+4. Recurso ordinário desprovido."
+(RHC n. 163.377/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+Além disso, o fato de o agravante possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 95.544/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018; e RHC 68.971/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/9/2017, DJe 9/10/2017.
+Outrossim, o argumento de desproporcionalidade da custódia cautelar à provável futura pena do agravante não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: RHC 94.204/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/4/2018, DJe 16/4/2018; e RHC 91.635/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018.
+Ademais, "A prisão do paciente não ofende os princípios da proporcionalidade ou da homogeneidade, pois o fato de ser primário não lhe garante a aplicação da pena mínima cominada aos delitos a ele imputados. Sem contar que a garantia à ordem pública não pode ser abalada diante da mera suposição referente ao regime prisional a ser eventualmente aplicado. Não cabe a esta Corte Superior, em um exercício de futurologia, prever de antemão qual seria o possível quantum de aplicação da pena em razão de a recorrente supostamente possuir condições pessoais favoráveis, o que implicaria análise do conjunto probatório, inviável nesta via estreita (RHC n. 58.640/MS, Ministro Felix Fischer, Quinta Turma, DJe 6/10/2015)." (AgRg no HC n. 805.494/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/3/2023, DJe de 24/3/2023 ).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
