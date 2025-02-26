@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CLELIO RODRIGO FERREIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em virtude da revisão criminal nº 0015313-35.2022.8.26.0000.
+Consta dos autos que o paciente foi condenado à pena de 01 ano e 02 meses de reclusão no regime inicial semiaberto, convertida em restritiva de direitos, como incurso nas sanções do art. 155, caput, do Código Penal.
+A impetrante alega que o paciente teria furtado 5 barras de chocolates avaliadas no total de R$ 30,00, o que demonstraria a inexpressividade da lesão jurídica provocada e o estado de necessidade do paciente, sendo necessária a sua absolvição, seja pelo reconhecimento da ausência de tipicidade material da conduta, seja pela configuração do denominado furto famélico.
+Requer, liminarmente e no mérito, a absolvição do paciente ou, subsidiariamente, a fixação do regime aberto para o cumprimento da sua reprimenda.
+Acórdão prolatado pelo Tribunal impetrado às fls. 27/33.
+Decisão que indeferiu a liminar requerida às fls. 124/126.
+Informações aduzidas pela autoridade impetrada às fls. 140/149.
+Parecer do MPF, às fls. 153/161, na qual se manifesta pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem.
+É o relatório. Decido.
+De início, observo que a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Não se cogita da adoção da tese de furto famélico, eis que a res subtraída - barras de chocolate - não consubstancia alimento apto a saciar uma necessidade premente, que, aliás, sequer se mostrou comprovada durante a instrução, mas voltava-se a proporcionar mero deleite ao paciente.
+Quanto ao princípio da insignificância, o Tribunal impetrado, corroborando a posição do juízo de primeiro grau, afastou sua incidência em razão, principalmente, da extensa ficha criminal do paciente, uma vez que é reincidente em crime doloso.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que a reiteração criminosa constitui impeditivo para a aplicação do princípio da insignificância. Neste sentido, veja-se o seguinte julgado de minha relatoria:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONTUMÁCIA DELITIVA. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.  ..  II - A Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação de que a medida é socialmente recomendável. III - No presente caso, afere-se do v. acórdão impugnado que na hipótese, o princípio da insignificância foi afastado, em razão do fato de os pacientes serem multirreincidentes em delitos patrimoniais (fl. 47). Assim, não se pode ter como irrelevante a conduta do agente que detém comportamento reiterado na prática de crimes patrimoniais. Precedentes. Agravo regimental desprovido. (AgRg no HC n. 806.600/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/11/2023, DJe de 30/11/2023.)
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
