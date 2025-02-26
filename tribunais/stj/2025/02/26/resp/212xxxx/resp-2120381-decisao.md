@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto o MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO.
+O recorrido DOUGLAS FIGUEIREDO DOS SANTOS foi condenado como incurso no artigo 155, caput, do Código Penal, à pena de 01 (um) ano de reclusão, em regime aberto, e 10 (dez) dias-multa, substituída por restritiva de direitos (fls. 206-209).
+O Tribunal deu parcial provimento ao apelo defensivo para reconhecer a modalidade tentada no crime de furto, redimensionando a pena para 06 (seis) meses de reclusão, em regime aberto, e 05 (cinco) dias-multa, substituída por restritiva de direitos (fls. 429-434).
+O Ministério Público interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 155, caput, e art. 14, inc. I, ambos do Código Penal (fls. 315-320).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 384-389).
+É  o  relatório. DECIDO.
+A controvérsia cinge-se a verificar a ocorrência de consumação do delito de furto imputado ao recorrido.
+Em julgamento de apelação defensiva, o Tribunal de origem reconheceu a modalidade tentada ao delito de furto, assim fundamentando (fl. 318):
+"Por outro lado, entendo que o crime permaneceu na esfera da tentativa.
+Nesse ponto, não comungo do entendimento exposto pela Magistrada sentenciante.
+No que se refere à tentativa no crime de furto, não me filio à teoria da apprehensio, igualmente denominada de amotio, segundo a qual se considera consumado o delito no momento em que o agente obtém a posse da res, porquanto, a meu ver, inexistindo a posse, sem vigilância, ainda que por escasso lapso de tempo, o crime não se consuma, uma vez que o bem permaneceu dentro da esfera de vigilância da vítima, ou de terceiros, o que impede a consumação do delito.
+No caso em exame, o acusado foi visto subtraindo os itens por um funcionário do estabelecimento comercial furtado e foi abordado próximo à saída do estacionamento, sendo evidente que ele não exerceu a posse desvigiada do bem, sequer por tempo razoável.
+O iter criminis é composto por quatro fases, quais sejam, cogitação, preparação, execução e consumação. Concluídas as quatro fases, pode-se afirmar que está consumado o delito, não havendo mais possibilidade na alteração de sua tipificação. Naturalmente, não havendo a posse desvigiada, mesmo por curto lapso de tempo, o iter criminis relativo ao delito não se completa, subsistindo o connatus.  .. "
+O entendimento exposto no acórdão de origem não está em consonância com a jurisprudência desta Corte Superior, a qual firmou precedente qualificado em Recurso Repetitivo (Tema n. 934), no sentido de que " c onsuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada.". (REsp n. 1.524.450/RJ, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 14/10/2015, DJe de 29/10/2015.)
+Registro que a Sistemática do Recurso Repetitivo objetiva conferir racionalidade e segurança jurídica ao exercício da atividade jurisdicional, de maneira que a não aplicação de precedente qualificado depende da demonstração da não aplicação do entendimento ao feito, da distinção do caso concreto ou da superação do entendimento consolidado.
+O acórdão recorrido se limitou a apontar a adoção de entendimento pessoal, em sentido diverso ao fixado por esta Corte, mesmo havendo a posse de fato da res furtiva pelo recorrido, que subtrai algumas garrafas de bebida e deixou o estabelecimento sem efetuar pagamento, sendo abordado por funcionário do supermercado no estacionamento, como narrado na denúncia (fl. 317). Nessa linha, o Tribunal de origem não apresentou justificativa adequada para a sup eração do Tema 934, de observância obrigatória, co nforme art. 927 do Código de Processo Civil.
+Assim, com fundamento no art. 932, inciso V, "b", do Código de Processo Civil, dou provimento ao recurso especial, para afastar a tentativa e reconhecer o delito de furto na modalidade consumada.
+Ante o exposto, nos termos do art. 255, §4º, inciso III, do RISTJ, dou provimento ao recurso especial para restabelecer a condenação fixada na sentença.
+Publique-se. Intime-se.
+EMENTA
