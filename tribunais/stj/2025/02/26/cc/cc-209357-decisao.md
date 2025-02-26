@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, em que é suscitante USINA CANSANÇÃO DE SINIMBÚ S/A - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE MACEIÓ - AL e o JUÍZO DA 1ª VARA DO TRABALHO DE SÃO MIGUEL DOS CAMPOS - AL.
+Ação em trâmite perante o juízo cível: recuperação judicial da suscitante.
+Ação em trâmite perante o juízo trabalhista: reclamatória n. 0000050- 54.2018.5.19.0062 ajuizada por JOSÉ BARBOSA DA SILVA.
+Conflito de competência: alega que o juízo da recuperação judicial é o único competente para dirimir questões que envolvam direitos atinentes ao processo de soerguimento da suscitante. Acrescenta ser inviável o prosseguimento da execução em face dos sócios da reclamada, tendo em vista que o plano aprovado e homologado prevê a extinção das execuções em curso contra os sócios diretores da recuperanda em relação à dívida reestruturada. Postula, liminarmente, a suspensão da ação trabalhista, o desfazimento dos atos de constrição e a designação do juízo recuperacional para resolver as questões envolvendo o patrimônio da suscitante.
+Tutela antecipada: indeferida às fls. 68/69.
+Embargos de declaração: opostos pela suscitante às fls. 74/77, se insurgindo contra o indeferimento da liminar.
+Parecer do MPF: opinou pelo não conhecimento do conflito.
+RELATADO O PROCESSO, DECIDO.
+Observa-se que o plano de recuperação judicial de Usinas Cansanção de Sinimbu S/A foi homologado e possui cláusula expressa que determina a extinção das ações, cujos créditos foram novados pelo plano.
+A Justiça Trabalhista, de sua vez, consoante se observa das informações prestadas, determinou o prosseguimento da execução 0000050-54.2018.5.19.0062, mediante a instauração do incidente de desconsideração da personalidade jurídica da empresa executada, em 06 /9/2023 (e-STJ, fl. 84), a fim de atingir os bens dos sócios da recuperanda, após a aprovação do plano de recuperação judicial e a consequente novação dos créditos, ocorrida em 20/3/2023 (e-STJ, fl. 41 ).
+Ocorre que o Superior Tribunal de Justiça assentou o entendimento de que "Compete ao Juízo da recuperação decidir sobre a instauração do incidente de desconsideração da personalidade jurídica, proposto no Juízo trabalhista, no caso em que o plano homologado contém cláusula que veda a execução contra os sócios" (AgInt no CC 179.072/RS, Segunda Seção, DJe 19/8/2022). Nesse sentido, ainda: REsp 2.072.272/DF, Terceira Turma, DJe 28/9/2023.
+Logo, merece ser acolhido o presente conflito de competência. Com efeito, como a decisão homologatória do plano acabou por obstar a execução contra a recuperanda e também seus sócios, compete ao juízo da recuperação judicial avaliar se a hipótese de que trata o presente incidente está contemplada pela referida cláusula protetiva, bem como se é cabível, na espécie, a desconsideração requerida na Justiça Laboral.
+Deveras, mostra-se configurado a existência de decisões conflitantes entre os juízos suscitados, não tendo o Juízo Laboral, em princípio, competência para o redirecionamento da execução de crédito novado.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE MACEIÓ - AL, para decidir acerca da desconsideração da personalidade jurídica pleiteada nos autos da reclamação indicada na inicial.
+Publique-se. Intimem. Oficie-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZO LABORAL E JUÍZO DA RECUPERAÇÃO JUDICIAL. PLANO HOMOLOGADO. CLÁUSULA. CRÉDITO NOVADO. EXECUÇÃO CONTRA OS SÓCIOS. IMPEDIMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PELO JUÍZO LABORAL. CONFLITO. CARACTERIZAÇÃO.
+1. Nos termos da jurisprudência desta Corte, "compete ao Juízo da recuperação decidir sobre a instauração do incidente de desconsideração da personalidade jurídica, proposto no Juízo trabalhista, no caso em que o plano homologado contem cláusula que veda a execução contra os sócios" (AgInt no CC 179.072/RS, Segunda Seção, DJe 19/8/2022).
+2. Conflito de competência conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE MACEIÓ - AL.
