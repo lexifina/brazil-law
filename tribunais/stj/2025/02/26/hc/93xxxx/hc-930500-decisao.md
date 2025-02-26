@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RENIVALDO MORAES DAMACENO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo em Execução Penal n. 0007921-92.2024.8.26.0996.
+Consta dos autos que o juízo da execução penal revogou o livramento condicional concedido ao apenado, em virtude da prática de novo crime, e reconheceu também o mesmo fato como falta grave, determinando a regressão ao regime fechado e a perda de 1/3 (um terço) dos dias remidos (fl. 24-26).
+No julgamento do agravo em execução penal interposto pela defesa, o Tribunal manteve a decisão (fl. 33-38).
+No presente habeas corpus, o impetrante alega a prática de novo crime durante o livramento condicional está sujeita a regramento próprio e não pode ensejar as sanções decorrentes de falta grave. Pede a concessão da ordem para afastar o reconhecimento da falta grave e a aplicação de seus efeitos jurídicos (fl. 3-11).
+O pedido liminar foi indeferido (fl. 41-42).
+A autoridade coatora prestou informações (fl. 49-73).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício (fl. 75-79).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da cumulação de sanções decorrente da prática de novo crime durante o livramento condicional (revogação do livramento e reconhecimento da falta grave).
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Entretanto, diante da possibilidade de concessão da ordem de ofício, em caso de coação ilegal, em observância § 2º do artigo 654 do Código de Processo Penal, passo à análise das alegações defensivas em virtude da prática de novo crime, e reconheceram também o mesmo fato como falta grave, determinando a regressão ao regime fechado e a perda de 1/3 (um terço) dos dias remidos.
+Verifica-se, assim, que as decisões impugnadas estão em desacordo com a jurisprudência do Superior Tribunal de Justiça, que não admite a aplicação das sanções decorrentes de falta grave quando houver a prática de novo delito no curso do livramento condicional:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. COMETIMENTO DE NOVO DELITO. RECONHECIMENTO DE FALTA GRAVE DURANTE O PERÍODO DE PROVA. INVIABILIDADE. REGRAMENTO PRÓPRIO. PRECEDENTES DESTA CORTE.
+1. Esta Corte posiciona-se no sentido de que a prática de fato definido como crime durante o livramento condicional tem regras próprias previstas nos arts. 83 a 90 do Código Penal e 131 a 146 da Lei de Execução Penal, não se confundido, portanto, com os consectários legais decorrentes da falta grave praticada durante o cumprimento da pena, não sendo possível a aplicação dos consectários legais da falta grave sem a instauração do procedimento adequado.
+2. Não se verifica ilegalidade no afastamento da falta grave decorrente da prática de novo delito no curso do livramento condicional, determinando-se apenas a revogação do benefício em apreço, com a desconsideração do tempo no qual o apenado esteve liberado, instaurando-se ainda o procedimento administrativo disciplinar respectivo.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 2.009.405/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO CRIME DURANTE O PERÍODO DE PROVA REGRAMENTO PRÓPRIO. CONSECTÁRIOS LEGAIS DA FALTA GRAVE. AFASTAMENTO. AGRAVO IMPROVIDO.
+1. Entende o STJ que não configura prática de falta grave a hipótese de cometimento de novo crime no curso do livramento condicional, pois, nesse caso, o benefício deverá ser revogado e o tempo que o reeducando esteve solto não será decotado da pena, nos termos do art. 86, I, e art. 88, do Código Penal, bem como o art. 145 da LEP. Precedentes.
+2. O livramento condicional ostenta a peculiaridade de ser um benefício que, embora submetido à disciplina regular da execução penal, é usufruído integralmente fora do sistema prisional, característica que determina tratamento específico. Portanto, inexiste previsão legal de outas sanções que não a suspensão ou revogação do benefício e a de não se descontar da pena o tempo que o apenado esteve liberado, inadmissível, assim, ante o princípio da legalidade, estender a esta hipótese a possibilidade de configuração de falta grave e de todos os consectários que lhe são inerentes, como, no caso, a determinação de realização de audiência de justificação, nos termos do art. 118, § 2º, da LEP, para apuração da respectiva falta grave.
+3. Agravo regimental improvido.
+(AgRg no HC n. 617.911/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 2/3/2021, DJe de 5/3/2021.)
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem de habeas corpus de ofício para afastar o reconhecimento da falta grave e seus efeitos jurídicos, mantendo apenas as consequências advindas da revogação do livramento condicional.
+Oficie-se o juízo da execução penal, com urgência, para ciência e providências.
+Publique-se. Intimem-se.
+EMENTA
