@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO NO MESMO ANO NO ENEM E ENCCEJA. REMIÇÃO JÁ DEFERIDA PELA APROVAÇÃO NO ENCCEJA. INDEFERIMENTO DE REMIÇÃO PELA APROVAÇÃO NO ENEM. DUPLICIDADE DE BENEFÍCIO PELO MESMO FATO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, haja vista o entendimento desta Corte Superior de que é indevida a acumulação dos dias já remidos por aprovação no mesmo ano em edição anteriores do ENCCEJA e/ou ENEM e, consequentemente, não se mostra admissível, por se tratar de duplicidade de benefícios pelo mesmo fato gerador, sob pena de bis in idem.
+2. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EDUARDO RODRIGUES contra a decisão por mim proferida que não conheceu da ordem de habeas corpus sob o fundamento de que o acórdão do Tribunal de origem estava de acordo com o entendimento acerca do tema firmado no Superior Tribunal Justiça.
+Em suas razões, a parte aduz que o ENEM e o ENCCEJA são exames de naturezas distintas, tanto que o Conselho Nacional de Justiça, por meio da Resolução n. 391/2021, estabeleceu diretrizes a serem observadas quanto à remição por aprovação nos dois exames.
+Postula que seja conhecido e provido o agravo regimental para reformar a decisão a fim de conceder a ordem de habeas corpus em favor do agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO NO MESMO ANO NO ENEM E ENCCEJA. REMIÇÃO JÁ DEFERIDA PELA APROVAÇÃO NO ENCCEJA. INDEFERIMENTO DE REMIÇÃO PELA APROVAÇÃO NO ENEM. DUPLICIDADE DE BENEFÍCIO PELO MESMO FATO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, haja vista o entendimento desta Corte Superior de que é indevida a acumulação dos dias já remidos por aprovação no mesmo ano em edição anteriores do ENCCEJA e/ou ENEM e, consequentemente, não se mostra admissível, por se tratar de duplicidade de benefícios pelo mesmo fato gerador, sob pena de bis in idem.
+2. Agravo regimental não provido.
+VOTO
+Apesar de os esforços perpetrados pelo ora agravante, não verifico fundamentos suficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+Conforme já exposto na decisão agravada, as decisões das instâncias ordinárias estão em consonância com o entendimento desta Corte Superior, pois, caso reconhecida a remição nos termos pretendidos pelo agravante, ocorreria indevida cumulação dos dias já remidos por aprovação em edições anteriores do ENCCEJA e/ou do ENEM, o que, consequentemente, não é admissível, por se tratar de duplicidade de benefícios pelo mesmo fato gerador, sob pena de bis in idem.
+Confira-se, a propósito, os seguintes precedentes de ambas as Turmas Criminais do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. APROVAÇÃO PARCIAL NO ENEM E NO ENCCEJA. MESMAS ÁREAS DO CONHECIMENTO. DUPLICADE DE BENEFÍCIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. No caso, os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, uma vez que a remição de pena, em razão de aprovação do paciente no exame ENCCEJA, configuraria bis in idem de remição na mesma execução penal, tendo em vista que já fora agraciado em razão de sua aprovação, em 2015, no Exame Nacional do Ensino Médio (ENEM) (AgRg no HC n. 627.958/SC, relator Ministro Jesuíno Rissato (Desembargador Conv ocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021). Ainda que se trate de exames distintos, as provas se referem à certificação de conclusão pelo mesmo nível (médio) educacional, inviabilizando a concessão do benefício em apreço pelo mesmo fato gerador, pois configurada a sua duplicidade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 842.165/SP, rel. Min. Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 04/03/2024, DJe de 07/03/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. ENEM. REMIÇÃO JÁ DEFERIDA PELA APROVAÇÃO NO ENCCEJA. DUPLICIDADE DE BENEFÍCIO PELO MESMO FATO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica sobre a impossibilidade de nova remição pela segunda aprovação nas mesmas matérias do ensino fundamental em outro exame, a qual não pode ser duplamente considerada, sob pena de bis in idem.
+2. No caso, a Corte de origem deixou de conceder a remição pela aprovação parcial no ENEM, em virtude da concessão nas mesmas áreas de conhecimento, no ENCCEJA.
+3. Assim, caso reconhecida a remição nos termos pretendidos pelo Agravante, ocorreria indevida cumulação dos dias já remidos por aprovação no ENCCEJA, o que vai de encontro ao entendimento deste Superior Tribunal de Justiça, por se tratar de duplicidade de benefícios pelo mesmo fato, o que não é admitido.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 805.511/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/05/2023, DJe de 22/05/2023).
+Co nclui-se, assim, que o recurso não traz argumentos novos capazes de alterar o entendimento anteriormente firmado.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
