@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, não acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Embargos de declaração. Ausência de vícios. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração no agravo regimental em habeas corpus interposto contra acórdão da Quinta Turma do STJ, que negou provimento ao agravo regimental, mantendo a decisão que não acolheu o pedido de revisão da dosimetria da pena em caso de corrupção passiva.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há omissão, contradição ou obscuridade no acórdão recorrido, especialmente quanto à alegação de bis in idem na aplicação cumulativa das causas de aumento de pena e à análise das circunstâncias judiciais da culpabilidade, do modus operandi e das consequências do crime.
+3. A questão também envolve a análise da possibilidade de prequestionamento ficto para evitar a supressão de instância, conforme a jurisprudência do STJ.
+III. Razões de decidir
+4. O acórdão recorrido não apresenta omissão, contradição ou obscuridade, pois examinou fundamentadamente a matéria trazida à sua análise, incluindo a dosimetria da pena e as circunstâncias judiciais.
+5. A alegação de bis in idem e a análise das circunstâncias judiciais foram devidamente abordadas, com fundamentação concreta para o incremento da pena-base, considerando a natureza dos cargos ocupados pelos acusados e o modus operandi do delito.
+6. A aplicação do prequestionamento ficto não é cabível quando a análise do pedido pelo STJ versa sobre questão fática, e não jurídica, como no caso em questão.
+IV. Dispositivo e tese
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Os embargos de declaração são cabíveis apenas para sanar omissão, contradição ou obscuridade no acórdão, não se prestando para rediscutir o mérito da decisão. 2. A análise das circunstâncias judiciais e a dosimetria da pena devem ser fundamentadas de forma concreta, considerando os aspectos objetivos e subjetivos do delito. 3. O prequestionamento ficto não se aplica a questões fáticas não enfrentadas pela instância de origem."
+Dispositivos relevantes citados: CPP, art. 619; CPC, art. 1.025; CP, art. 317, §1º; CP, art. 327, §2º.
+Jurisprudência relevante citada: STJ, EDcl na APn 613/SP, Rel. Min. Og Fernandes, Corte Especial, DJe 03/02/2016; STJ, AgRg no HC 718.681/SP, Quinta Turma, DJe 30/08/2022.
+RELATÓRIO
+Trata-se de embargos de declaração no agravo regimental no habeas corpus interposto em favor de ANDRE HERBERT CABRAL BORBA e RODOLPHO CAVALCANTI DIAS, contra acórdão oriundo da Quinta Turma desta Corte, que, à unanimidade, negou provimento ao agravo regimental, em decisum assim ementado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. CORRUPÇÃO PASSIVA. DOSIMETRIA. EXCLUSÃO DE CAUSA MAJORANTE. EXISTÊNCIA DE BIS IN IDEM. SUPRESSÃO INSTÂNCIA. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. CULPABILIDADE. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME DESFAVORÁVEIS. POSSIBILIDADE. FUNDAMENTAÇAO IDÔNEA. FRAÇÃO DE AUMENTO. PROPORCIONAL E ADEQUADA. AUSÊNCIA DE DIREITO SUBJETIVO DO RÉU. PRECEDENTES. CONFISSÃO ESPONTÂNEA. REDUÇÃO NA FRAÇÃO DE 1/6 (UM SEXTO). POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO .
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - As teses referentes ao afastamento da causa majorante descrita no § 2º do artigo 327, por falta de fundamentação e violação ao parágrafo único do artigo 68 do Código Penal, bem como a alegação de bis in idem entre esta e a análise desfavorável da circunstância judicial da culpabilidade, não foram abordadas pela Corte de origem.
+III - A culpabilidade, para fins de individualização da pena, deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito. No caso, restou declinada motivação concreta para o incremento da básica por tal moduladora, considerando a " ..  natureza dos cargos então ocupados pelos acusados, de Coordenador de Assessoria Técnica da Defensoria Pública Estadual e de Assessor Jurídico da mesma instituição, o que justifica a exasperação da pena- base" (fls. 123-124).
+IV - As circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o delituoso. In casu, não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta por terem " ..  os acusados envolvido agentes públicos e banco privado em seus delitos, "incitando devedores a propostas que faziam do serviço público uma banca de negócios" (fl. 124).
+V - As consequências do crime, devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. Na hipótese, a ação dos pacientes " ..  abalou a confiabilidade do PROCON estadual, uma vez que gerou dúvidas acerca da "idoneidade das decisões das Turmas Recursais" daquele órgão" (fl. 124).
+VI - No entendimento deste Tribunal, "a fixação da pena-base não precisa seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias" (AgRg no HC n. 718.681/SP, Quinta Turma, de minha relatoria, D Je de 30/8/2022). (AgRg no HC n. 892.118/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, D Je de 18/4/2024). Precedentes.
+VII - O Tribunal estadual manteve o quantum de diminuição utilizado na sentença para sopesar a atenuante da confissão, sem considerar, contudo, a necessidade de fundamentação concreta e específica para justificar o incremento em menor extensão, de modo que o quantum considerado ideal pela jurisprudência desta Corte, na fração de 1/6, deve incidir ao caso, em atenção ao princípio da individualização da pena e da proporcionalidade. Precedentes.
+Agravo regimental desprovido."
+Nas razões recursais, o embargante aponta a ocorrência de omissão, contradição e obscuridade no julgado.
+Para tanto, sustenta que o acórdão ignorou a análise dos argumentos apresentados pelos embargantes sobre o bis in idem na aplicação cumulativa das causas de aumento de pena previstas no art. 317, §1º, e art. 327, §2º, do Código Penal, matéria expressamente mencionada nos embargos de declaração interpostos no Tribunal de Justiça da Paraíba e no parecer da Procuradoria Geral da República.
+Argumenta ainda que ao afirmar a impossibilidade de análise das matérias não enfrentadas pelo Tribunal de origem para evitar supressão de instância, contradiz-se ao não considerar a existência de prequestionamento ficto, conforme a jurisprudência do STJ acima citada (art. 1.025 do CPC), aplicável ao processo penal por força do art. 3º do CPP.
+Por fim, argumenta que há obscuridade na análise quanto à negativa de valoração das circunstâncias judiciais da culpabilidade, do modus operandi e das consequências do crime, aspectos que integram o tipo penal da corrupção passiva
+Requer, assim, o acolhimento do incidente aclaratório, a fim de que sejam sanados os supostos vícios apontados.
+É o relatório.
+EMENTA
+Direito processual penal. Embargos de declaração. Ausência de vícios. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração no agravo regimental em habeas corpus interposto contra acórdão da Quinta Turma do STJ, que negou provimento ao agravo regimental, mantendo a decisão que não acolheu o pedido de revisão da dosimetria da pena em caso de corrupção passiva.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há omissão, contradição ou obscuridade no acórdão recorrido, especialmente quanto à alegação de bis in idem na aplicação cumulativa das causas de aumento de pena e à análise das circunstâncias judiciais da culpabilidade, do modus operandi e das consequências do crime.
+3. A questão também envolve a análise da possibilidade de prequestionamento ficto para evitar a supressão de instância, conforme a jurisprudência do STJ.
+III. Razões de decidir
+4. O acórdão recorrido não apresenta omissão, contradição ou obscuridade, pois examinou fundamentadamente a matéria trazida à sua análise, incluindo a dosimetria da pena e as circunstâncias judiciais.
+5. A alegação de bis in idem e a análise das circunstâncias judiciais foram devidamente abordadas, com fundamentação concreta para o incremento da pena-base, considerando a natureza dos cargos ocupados pelos acusados e o modus operandi do delito.
+6. A aplicação do prequestionamento ficto não é cabível quando a análise do pedido pelo STJ versa sobre questão fática, e não jurídica, como no caso em questão.
+IV. Dispositivo e tese
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Os embargos de declaração são cabíveis apenas para sanar omissão, contradição ou obscuridade no acórdão, não se prestando para rediscutir o mérito da decisão. 2. A análise das circunstâncias judiciais e a dosimetria da pena devem ser fundamentadas de forma concreta, considerando os aspectos objetivos e subjetivos do delito. 3. O prequestionamento ficto não se aplica a questões fáticas não enfrentadas pela instância de origem."
+Dispositivos relevantes citados: CPP, art. 619; CPC, art. 1.025; CP, art. 317, §1º; CP, art. 327, §2º.
+Jurisprudência relevante citada: STJ, EDcl na APn 613/SP, Rel. Min. Og Fernandes, Corte Especial, DJe 03/02/2016; STJ, AgRg no HC 718.681/SP, Quinta Turma, DJe 30/08/2022.
+VOTO
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, dirigem-se à correção de defeitos na mensagem do julgador, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, situação não evidenciada no caso em análise.
+Essa é a vocação legal dos aclaratórios, sempre enfatizada nos precedentes desta Corte, como se percebe o aresto a seguir:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados" (EDcl na APn 613/SP, Rel. Ministro Og Fernandes, Corte Especial, DJe 03/02/2016).
+No tocante a omissão/contradição, saliente-se que, para se considerar o tema tratado pela instância a quo, faz-se necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado.
+Ademais, as questões atinentes causa majorante e a circunstância judicial da culpabilidade não foram objeto de análise pela instância de origem, o que atrai o óbice da Súmula 211 do STJ. Ainda que seja possível adotar o prequestionamento ficto - para afastar o óbice da Súmula n. 211 do STJ -, não é cabível suprimir o pronunciamento da Corte local, se a análise do pedido pelo STJ versar sobre questão fática - e não jurídica, como no caso.
+Em relação suposta obscuridade, quanto as circunstâncias judiciais, a decisão embargada destacou que a culpabilidade restou declinada motivação concreta para o incremento da básica por tal moduladora, considerando a natureza dos cargos então ocupados pelos acusados, de Coordenador de Assessoria Técnica da Defensoria Pública Estadual e de Assessor Jurídico da mesma instituição, o que justifica a exasperação da pena- base (fls. 123-124).
+A corroborar este entendimento: (HC n. 363.497/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/4/2017).
+No que diz respeito as circunstâncias do crime, evidenciou-se que não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta, uma vez que os acusados envolveram agentes públicos e banco privado em seus delitos, "incitando devedores a propostas que faziam do serviço público uma banca de negócios". (fl. 124).
+Nesse sentido (AgRg no HC n. 875.645/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/2/2024).
+Quanto as consequências do delito, foi ressaltado que a ação dos pacientes acabou abalando a confiabilidade do PROCON estatual, uma vez que gerou dúvidas acerca da idoneidade das decisões das Turmas Recursais daquele órgão (fl. 124).
+Sob o tema os seguintes julgados: (AgRg no REsp n. 2.081.305/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024); (HC n. 369.152/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022).
+Na hipótese, o que pretende a embargante, na verdade, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios. Assim, verifica-se que o julgado recorrido não padece de qualquer omissão, contradição ou obscuridade, porquanto examinou fundamentadamente a matéria trazida à sua análise.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
