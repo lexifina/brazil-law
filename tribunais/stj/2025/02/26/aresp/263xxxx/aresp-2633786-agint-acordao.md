@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AGRAVO DE INSTRUMENTO NA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGADA OFENSA AO ART. 1.022, INCISO II E PARÁGRAFO ÚNICO, INCISO II, DO CPC/2015. INEXISTÊNCIA DE VÍCIO DE OMISSÃO. ACÓRDÃO REGIONAL SUFICIENTEMENTE FUNDAMENTADO. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem apreciou todas as questões relevantes com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese, inexistindo a omissão suscitada pela recorrente. Ao revés, apresentou, concretamente, os argumentos que justificaram a sua conclusão.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por o ESTADO DO PIAUÍ, sucessor do Instituto de Assistência Técnica e Extensão Rural do Estado do Piauí - EMATER/PI, contra decisão monocrática de minha lavra que negou provimento ao seu Recurso Especial (fls. 453-456).
+Sustenta a Agravante, em síntese, o seguinte (fl. 464):
+Como se vê, o Tribunal de origem desproveu o agravo de instrumento interposto pelo Estado do Piauí por entender que teria ocorrido o trânsito em julgado da sentença exequenda, vez que haveria decisão do Ministro Gilmar Mendes determinando retorno dos autos ao Tribunal de origem.
+Ocorre, porém, que o acórdão recorrido se encontra eivado de omissão a respeito de ponto que se constitui no cerne do agravo de instrumento originário: o Supremo Tribunal Federal, por decisão do Ministro Marco Aurélio, deu provimento ao agravo de instrumento interposto pelo EMATER-PI, para admitir o recurso extraordinário desta autarquia estadual.
+Deixando de se pronunciar sobre tal fato, o Tribunal a quo não abordou, nem mesmo superficialmente, a principal questão posta no presente agravo de instrumento, que é a impossibilidade de se dar cumprimento definitivo à sentença se ainda se encontra pendente de julgamento de mérito um recurso extraordinário já admitido pelo Supremo Tribunal Federal.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AGRAVO DE INSTRUMENTO NA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGADA OFENSA AO ART. 1.022, INCISO II E PARÁGRAFO ÚNICO, INCISO II, DO CPC/2015. INEXISTÊNCIA DE VÍCIO DE OMISSÃO. ACÓRDÃO REGIONAL SUFICIENTEMENTE FUNDAMENTADO. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem apreciou todas as questões relevantes com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese, inexistindo a omissão suscitada pela recorrente. Ao revés, apresentou, concretamente, os argumentos que justificaram a sua conclusão.
+2. Agravo interno desprovido.
+VOTO
+A decisão deve ser mantida pelos seus próprios fundamentos.
+A Agravante sustenta sustenta omisso e deficiente o julgado recorrido, vícios não sanados no julgamento dos embargos de declaração, porquanto o Tribunal de origem não se debruçou a respeito de ponto central do agravo de instrumento originário: o Supremo Tribunal Federal, por decisão do Ministro Marco Aurélio, deu provimento ao agravo de instrumento interposto pelo EMATER-PI, para admitir o Recurso Extraordinário dessa autarquia estadual.
+Ao prolatar o acórdão recorrido, o tribunal de origem enfrentou a controvérsia no seguinte sentido (fls. 319-324; sem grifos no original):
+Busca o agravante por meio do presente recurso a concessão do efeito suspensivo ativo à decisão agravada, com o objetivo de suspender seus efeitos, sob o argumento de que o magistrado de piso não considerou a inexistência de transito em julgado na decisão.
+Por sua vez a parte agravada defende a manutenção da decisão que prevê o cumprimento de acórdão transitado em julgado que garante o direito adquirido pelos agravantes de implantação em seus contracheques, o anuênio de 1% (um por cento) devidos de 2004, até o ano em vigência.
+O referido acórdão atingiu ao status de coisa julgada, tanto no seu aspecto material quanto formal, fazendo lei entre as partes.
+ ..
+A decisão agravada foi objetiva no sentido de afastar a impugnação ao cumprimento de sentença, reconhecendo o transito em julgado e determinando o imediato cumprimento da sentença de fls. 231/234.
+Avaliando a decisão ora atacada conclui-se que não há qualquer irregularidade a ser atacada pela via recursal de forma que trata-se de mera insatisfação do ente agravante.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas em seu art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado.
+Ilustrativamente:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. MANDADO DE SEGURANÇA. REPETIÇÃO DE INDÉBITO POR MEIO DE PRECATÓRIO, REQUISIÇÃO DE PEQUENO VALOR OU RESTITUIÇÃO ADMINISTRATIVA. IMPOSSIBILIDADE. ICMS-DIFAL. COMPENSAÇÃO. INVIABILIDADE. INEXISTÊNCIA DE LEI LOCAL AUTORIZATIVA. ART. 170 DO CTN.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - O mandado de segurança não é a via adequada para se postular a repetição do indébito por meio de precatório, requisição de pequeno valor ou por restituição administrativa em espécie, servindo, contudo, para se pleitear a restituição ou o ressarcimento do indébito tributário, referente aos últimos cinco anos anteriores à impetração, pela compensação, a ser aferida pela Administração, não se configurando, nessa última hipótese, a utilização do mandado de segurança como ação de cobrança.
+III - É pacífica a orientação neste Superior Tribunal de Justiça de que a inexistência de lei local autorizativa inviabiliza a compensação tributária, nos termos do art. 170 do CTN.
+IV - Agravo Interno improvido. (AgInt no REsp n. 2.168.122/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/12/2024, DJe de 20/12/2024.)
+E depreende-se da leitura do acórdão integrativo que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022, inciso II e parágrafo único, inciso II, do CPC/2015. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, D Je de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Ante o exposto, NEGO PROVIMENTO ao Agravo Interno.
+É o voto.
