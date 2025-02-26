@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por VEX LOGÍSTICA E TRANSPORTES LTDA. contra decisão de inadmissão de seu recurso especial, o qual desafia acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 98):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ORDEM DE PREFERÊNCIA. NÃO ACEITAÇÃO PELO EXEQUENTE. SISBAJUD. POSSIBILIDADE. RECURSO IMPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. O Superior Tribunal de Justiça sedimentou o entendimento no sentido de que o bloqueio de ativos financeiros, quando requerido e deferido na vigência da Lei nº 11.382/2006, que deu nova redação ao artigo 655 do Código de Processo Civil/73 (art. 854 do CPC/15), não constitui medida excepcional e prescinde do exaurimento de buscas de outros bens passíveis de constrição (R Esp 1.184.765 - Tema 425).
+2. A penhora é ato expropriatório da execução forçada e tem como finalidade precípua a satisfação do direito do credor. O art. 805 do CPC consagra o princípio de que a execução deve se dar do modo menos gravoso para o devedor e o art. 797 dispõe expressamente que a execução realiza-se no interesse do credor, preceitos que revelam valores a serem sopesados.
+3. Conforme entendimento consolidado, é legítima a recusa da Fazenda Pública ao oferecimento de bem à penhora em violação à ordem legal de preferência do artigo 11 da Lei 6.830/1980, sendo possível, apenas em casos excepcionais, o afastamento de tal ordem.
+4. Não se tratando de situação excepcional a justificar a quebra da ordem legal de preferência para garantia da execução fiscal, mas pedido formulado no interesse e conveniência da devedora, é legítima a recusa da exequente.
+5. Agravo de instrumento improvido. Agravo interno prejudicado.
+No seu recurso especial, manejado com apoio na alínea "a" do permissivo constitucional, a parte ora agravante aponta a violação do 15, § 4º, do Decreto-Lei n. 1.376/1974, do art. 11, II, da Lei n. 6.830/1980 e dos arts. 805 e 835, II, e § 1º, do CPC/2015.
+Aduz, em síntese, o seguinte (e-STJ fl. 117):
+Restou violado o artigo 15, §4º do referido Decreto-Lei nº 1.376/74, pois ao instituir dos Fundos FINOR e FINAM, dispôs expressamente, que as quotas dos Fundos de Investimento terão validade para fins de caução junto aos órgãos públicos federais, da administração direta ou indireta, pela cotação diária referida no parágrafo seguinte, e por este aspecto, é inegável a viabilidade na utilização deste ativo como meio de garantir a dívida fiscal.
+Ademais, as referidas cotas de fundos se inserem no rol previsto pelo artigo 11, inciso II da Lei Federal nº 6.830/80, e sendo os títulos em questão são certos, líquidos e exigíveis, evidentemente podem ser oferecidos como garantia de juízo em execução fiscal, restando violado também este dispositivo legal.
+Noutro norte, o Código de Processo Civil/2015, em seu art. 835, inc. II, e §1º, preveem a possibilidade de penhora de títulos da dívida pública dos entes federados, sendo que a ordem estabelecida no referido artigo para penhora ou arresto de bens não é absoluta e, sim relativa, podendo ser alterada quando acarretar menor onerosidade ao devedor, consoante prevê o artigo 805 do Código de Processo Civil/2015.
+Cumpre destacar que a nova ordem de bens preferencialmente penhoráveis estabelecida pelo CPC/2015, verifica-se que a premissa do legislador foi intenção de buscar "conciliar os interesses e os direitos contrapostos do exequente e do executado", conforme se vê no §1º, do mencionado art. 835, e ao decidir pela recusa dos títulos em questão, violou- se os dispositivos citados do referido códex.
+Contrarrazões às e-STJ fls. 141/147.
+Recurso especial inadmitido, com base na vedação sumular 7 do STJ (e-STJ fls. 149/150).
+Decisão de inadmissão agravada (e-STJ fls. 152/162).
+Sem contraminuta.
+Passo a decidir.
+A irresignação não merece prosperar.
+O Tribunal de origem acolheu a recusa manifestada pela Fazenda Nacional à penhora sobre debêntures indicados pelo executado porque (e-STJ fl. 103):
+(..) não se trata de situação excepcional a justificar a quebra da ordem legal de preferência na constrição para garantia de execução fiscal, mas pedido formulado no interesse e conveniência da devedora, sendo legítima a recusa pela exequente do crédito em lote de ações e debêntures do FINOR conforme tem decidido a Corte Superior.
+Pois bem.
+No julgamento do REsp 1.337.790/PR, realizado na sistemática dos recursos repetitivos, a Primeira Seção decidiu:
+A Fazenda Pública pode apresentar recusa ao oferecimento de precatório à penhora, além de afirmar a inexistência de preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre o da efetividade da tutela executiva. Exige-se, para a superação da ordem legal prevista no art. 655 do CPC, firme argumentação baseada em elementos do caso concreto  ..  nos termos do art. 9º, III, da Lei 6.830/1980, cumpre ao executado nomear bens à penhora, observada a ordem legal. É dele o ônus de comprovar a imperiosa necessidade de afastá-la, e, para que essa providência seja adotada, mostra-se insuficiente a mera invocação genérica do art. 620 do CPC" (REsp 1.337.790/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 12/06/2013, DJe 07/10/2013).
+Nos termos desse julgado, o oferecimento de bem à penhora fora da ordem preferencial estabelecida no art. 11 da Lei n. 6.830/1980 deve ser concretamente justificado pelo executado, segundo o princípio da menor onerosidade da execução, situação inexistente na situação dos autos.
+Assim, uma vez manifestada a recusa, pelo exequente, descabe, em princípio, negar-lhe eficácia, sob pena de inverter indevidamente aquela ordem legal.
+Nesse diapasão, as seguintes ementas ilustrativas:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA. NOMEAÇÃO DE PRECATÓRIOS. RECUSA DA FAZENDA PÚBLICA JUSTIFICADA NA ORDEM DE PREFERÊNCIA DO ART. 11 DA LEI 6.830/1980. POSSIBILIDADE. ENTENDIMENTO FIRMADO SOB O REGIME DO ART. 543-C DO CPC/1973: RESP 1.090.898/SP, REL. MIN. CASTRO MEIRA, DJE 31.8.2009 E RESP 1.337.790/PR, REL. MIN. HERMAN BENJAMIN, DJE 7.1.2013. AGRAVO REGIMENTAL DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp. 1.090.898/SP, de relatoria do eminente Ministro CASTRO MEIRA (DJe 31.8.2009), e do REsp. 1.337.790/PR, de relatoria do eminente Ministro HERMAN BENJAMIN, (DJe 7.1.2013), ambos julgados como representativo de controvérsia, entendeu que a penhora deve ser efetuada conforme a ordem legal prevista no art. 655 do CPC/1973 e no art. 11 da Lei 6.830/1980. Dessa forma, não obstante o bem ofertado seja penhorável, o exequente pode recusar a sua nomeação, quando fundada na inobservância da ordem legal, sem que isso implique ofensa ao art. 620 do CPC/1973.
+2. Agravo Regimental do Contribuinte a que se nega provimento.
+(AgRg no AREsp 560.177/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 19/08/2019, DJe de 21/08/2019).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. NOMEAÇÃO À PENHORA. RECUSA FAZENDÁRIA. POSSIBILIDADE. ORDEM DE PREFERÊNCIA. OBSERVÂNCIA.
+1. No REsp 1.337.790/PR, repetitivo, a Primeira Seção decidiu que "a Fazenda Pública pode apresentar recusa ao oferecimento de precatório à penhora, além de afirmar a inexistência de preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre o da efetividade da tutela executiva. Exige-se, para a superação da ordem legal prevista no art. 655 do CPC, firme argumentação baseada em elementos do caso concreto  ..  nos termos do art. 9º, III, da Lei 6.830/1980, cumpre ao executado nomear bens à penhora, observada a ordem legal. É dele o ônus de comprovar a imperiosa necessidade de afastá-la, e, para que essa providência seja adotada, mostra-se insuficiente a mera invocação genérica do art. 620 do CPC".
+2. Hipótese em que o recurso fazendário deve ser provido porque a Corte de origem decidiu contrariamente à tese firmada no repetitivo.
+3. Agravo interno não provido.
+(AgInt no REsp 1.542.975/AM, de minha relatoria, PRIMEIRA TURMA, julgado em 01/07/2019, DJe de 02/08/2019).
+O aresto hostilizado, ao acolher a recusa do exequente à nomeação de debêntures realizada pelo executado, em virtude da quebra da ordem de preferência legal da penhora e da falta de comprovação do efetivo malferimento do princípio da menor onerosidade da execução, converge para a orientação consolidada no STJ, pelo que deve ser prestigiado.
+Aplicam-se à hipótese as Súmulas 7 e 83 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais, pois se cuida, na origem, de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
