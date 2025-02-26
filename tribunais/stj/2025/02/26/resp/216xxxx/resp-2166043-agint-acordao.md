@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Teodoro Silva Santos.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA DE PENSIONISTAS E INATIVOS. OMISSÃO DE QUESTÃO CONSTITUCIONAL. COMPETÊNCIA DO STF. OMISSÃO RELACIONADA AO ART. 2.º, CAPUT, DA LEI N. 9.784/1999. INOVAÇÃO RECURSAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Não compete a este Sodalício analisar eventual omissão da Corte local sobre tema de natureza constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+2. Incabível o exame de tese não exposta no recurso especial e invocada apenas no Agravo Interno, pois configura indevida inovação recursal.
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo SINDICATO DOS TRABALHADORES DO PODER JUDICIÁRIO DO ESTADO DE SANTA CATARINA contra a decisão que proferi às fls. 792-797, assim ementada (fl. 792):
+PROCESSO CIVIL. RECURSO ESPECIAL. CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA DE PENSIONISTAS E INATIVOS. OMISSÃO DE QUESTÃO CONSTITUCIONAL. COMPETÊNCIA DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões recursais, a parte recorrente alega que, " d iversamente do que constou no r. despacho agravado, suscitou-se no recurso especial omissões que também poderiam ser enquadradas como de ordem infraconstitucional, como é o caso dos princípios da segurança jurídica, razoabilidade e proporcionalidade, constantes, p. ex., do caput do art. 2º da Lei n. 9.784/99" (fl. 803).
+Também sustenta o seguinte (fl. 803):
+Além disso, há precedentes do C. STF no sentido de que "a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República", o que justificaria, portanto, a interposição de Recurso Especial também no que pertine à negativa de prestação jurisdicional, mesmo que tal preliminar também conste do Recurso Extraordinário interposto (e-STJ, fls. 621-687).
+Requer a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Segunda Turma desta Corte Superior.
+Não foi apresentada resposta ao recurso (fl. 809).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA DE PENSIONISTAS E INATIVOS. OMISSÃO DE QUESTÃO CONSTITUCIONAL. COMPETÊNCIA DO STF. OMISSÃO RELACIONADA AO ART. 2.º, CAPUT, DA LEI N. 9.784/1999. INOVAÇÃO RECURSAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Não compete a este Sodalício analisar eventual omissão da Corte local sobre tema de natureza constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+2. Incabível o exame de tese não exposta no recurso especial e invocada apenas no Agravo Interno, pois configura indevida inovação recursal.
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+A irresignação não prospera.
+Nas razões do apelo nobre, a parte recorrente alegou ofensa aos arts. 11, 489, inciso II, § 1.º, inciso IV, e 1.022, inciso II, todos do CPC.
+Sustentou o seguinte (fls. 693-694; grifos diversos do original):
+Havendo relevantes omissões no v. acórdão proferido, o ora recorrente apresentou a tempo e modo os cabíveis embargos declaratórios, nos quais apontou, em apertada síntese, que:
+a) não houve manifestação do Eg. Colegiado quanto ao argumento de que o direito à previdência é um direito fundamental (art. 7º, XXIV, da CF88), bem como sobre a íntima ligação deste direito ao da dignidade da pessoa humana (arts. 1º, III, e 3º, III, da CF88);
+b) não houve manifestação do Eg. Colegiado quanto à alegada afronta aos princípios da segurança jurídica, proteção à confiança, proporcionalidade e razoabilidade, haja vista que as contribuições previdenciárias dos servidores foram recentemente revistas pela LC 662/2015 (que majorou as alíquotas de 11% para 14%, gradualmente, no período de 2016 a 2018);
+c) não houve pronunciamento do Eg. Colegiado quanto à incidência dos princípios da razoabilidade e proporcionalidade como parâmetros constitucionais da validade das normas, nos termos do art. 5º, caput, da CF88;
+d) não houve manifestação do Eg. Colegiado quanto à alegação de que o aumento da base de cálculo da contribuição previdenciária, agora incidindo sobre o que ultrapassasse 1 (um) salário mínimo, é inconstitucional porque não houve observância dos pressupostos previstos no art. 149, §1º-A, da CF88, na medida em que o Estado de Santa Catarina não comprovou o déficit atuarial;
+e) não houve pronunciamento da Eg. Corte acerca do argumento de que a base de cálculo da contribuição previdenciária, estipulada sobre o valor que ultrapassar 1 (um) salário mínimo não poderia ser definitiva, e sim temporária e facultativa, nos termos do art. 149, §1º-A, da CF88);
+f) por fim, não houve manifestação do Eg. Colegiado acerca da violação aos princípios do equilíbrio atuarial (art. 195, caput, e §5º, da CF88); proibição de confisco (art. 15, IV, CF88); equidade na partição do custeio (art. 194, V, da CF88); irredutibilidade de vencimentos e proventos (arts. 37, XV e 194, V, CF88); proibição de retrocesso social e princípio da previsibilidade tributária.
+1.10. Não obstante ser evidente a necessidade de pronunciamento do Colegiado sobre as questões postas nos embargos, todas elas essenciais à exata compreensão e enquadramento jurídico da lide, preferiu a origem persistir nas omissões, reafirmando as razões de decidir já emitidas anteriormente, atribuindo ao embargante intuito de afrontar o mérito da decisão e não de buscar sua integração  .. .
+Consoante destacado na decisão ora atacada, entende esta Corte que a ela não cabe examinar omissão de questão constitucional, sob o pretexto de violação do art. 1.022 do CPC, já que tal competência seria do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTES SALARIAIS. 28,86%. EXECUÇÃO. INCIDÊNCIA DE JUROS. EFETIVO PAGAMENTO. COISA JULGADA INCONSTITUCIONAL. DESPROVIMENTO DOS AGRAVOS INTERNOS. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..  Também em recurso especial, não cabe ao STJ examinar alegação de suposta omissão de questão de natureza constitucional, sob pena de usurpação da competência do STF: AgInt nos EAREsp 731.395/SP, rel. Min. Francisco Falcão, Corte Especial, DJe 9/10/2018; AgInt no REsp 1.679.519/SE, rel. Min. Sérgio Kukina, Primeira Turma, DJe 26/4/2018; REsp 1.527.216/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe 13/11/2018.
+ ..
+IX - Agravos internos improvidos. (AgInt no AgInt no REsp n. 1.878.576/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/12/2024, DJEN de 10/12/2024; sem grifos no original.)
+DIREITO TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE INTERESSE RECURSAL. OMISSÃO DE MATÉRIA CONSTITUCIONAL. EXAME INVIÁVEL EM RECURSO ESPECIAL. AGRAVO INTERNO PROVIDO.
+ ..
+3. De fato, não compete a este Sodalício analisar eventual omissão da Corte local sobre tema de natureza constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+ ..
+7. Agravo interno provido para reformar a decisão que determinara a devolução do feito à origem para novo julgamento dos embargos declaração. (AgInt no AREsp n. 1.543.801/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 4/12/2024, DJEN de 9/12/2024; sem grifos no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. SUPERVENIÊNCIA DA LEI 14.230/2021. SUPOSTA INCONSTITUCIONALIDADE. MATÉRIA DE CUNHO CONSTITUCIONAL. COMPETÊNCIA DO STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+ ..
+2. "Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário" (REsp 1.836.088/MT, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 15/2/2022, DJe de 22/2/2022.). Dessa forma, compete ao STF a análise de possível omissão quanto à tese de inconstitucionalidade do artigo 16, § 3º, da Lei 8.429/1992.
+ ..
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.326.528/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/6/2024, DJe de 24/6/2024; sem grifos no original.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. REINTEGRA. REDUÇÃO DA ALÍQUOTA. APLICAÇÃO DO PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. OMISSÃO DE QUESTÃO CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Mandado de Segurança, impetrado pelo ora agravante, objetivando, em síntese, assegurar a manutenção do benefício do REINTEGRA - percentual de 2% (dois por cento) -, no período de 1º/06/2018 a 31/12/2018.
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008; REsp 1.672.822/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2017; REsp 1.669.867/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017.
+V. É firme o entendimento desta Corte no sentido de que "não cabe ao STJ, em sede de recurso especial, examinar omissão de questões constitucionais, a pretexto de violação ao art. 535 do CPC, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do recurso extraordinário" (EDcl no AgRg no AREsp 637.679/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6.5.2015)" (STJ, AgRg no AREsp 743.167/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2016).
+VI. Agravo interno improvido. (AgInt no AREsp n. 1.703.671/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 1/3/2021, DJe de 8/3/2021; sem grifos no original.)
+ADMINISTRATIVO. AÇÃO CIVIL. CONCESSÃO DE SERVIÇO PÚBLICO. ENERGIA ELÉTRICA. CORTE NO FORNECIMENTO. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA DE VÍCIOS. AÇÃO PARA AFASTAMENTO DE APLICAÇÃO DE NORMA POR INCONSTITUCIONALIDADE. POSSIBILIDADE. TUTELA ANTECIPADA SEM OITIVA DO PODER PÚBLICO. CABIMENTO. EXCEPCIONALIDADE. CORTE DE ENERGIA ELÉTRICA. DESCABIMENTO. ACÓRDÃO MAIS ABRANGENTE. CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. POSSIBILIDADE DE CORTE DE FORNECIMENTO DE SERVIÇOS PÚBLICOS NÃO ESSENCIAIS.
+I - Trata-se, na origem, de ação civil pública proposta pelo Ministério Público Federal, com pedido de antecipação dos efeitos da tutela, contra Centrais Elétricas Matogrossenses S.A. e Agência Nacional de Energia Elétrica - Aneel.
+II - Na ação requer o Ministério Público que a ré Centrais Elétricas Matogrossenses S.A. seja condenada na obrigação de não fazer, consistente em não proceder à suspensão, interrupção e desligamento do serviço público essencial de energia elétrica nos órgãos públicos federais, estaduais e municipais, e entidades prestadoras de serviço público no Estado de Mato Grosso, por atraso ou falta de pagamento de tarifa; e que a ré Aneel seja condenada na obrigação de fazer, consistente em exercício do poder de polícia sobre os serviços de energia elétrica, passando a fiscalizar, autuar e sancionar a concessionária-ré sempre que promover ou ameaçar, por falta ou atraso no pagamento de tarifa, o corte do fornecimento de energia elétrica dos referidos usuários.
+III - Na sentença, indeferiu-se a petição inicial, sob fundamento de inadequação da via eleita.
+IV - Em grau recursal, o Tribunal a quo antecipou liminarmente os efeitos da tutela, e anulou a sentença.
+V - Recursos especiais interpostos pela Centrais Elétricas Matogrossenses S.A. e da Agência Nacional de Energia Elétrica - Aneel analisados de forma conjunta.
+VI - A alegação de violação de dispositivos constitucionais em recurso especial não tem cabimento, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+VII - Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+ ..
+XVIII - Recursos especiais parcialmente conhecidos e providos nos termos da fundamentação. (REsp n. 1.836.088/MT, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/2/2022, DJe de 22/2/2022; sem grifos no original.)
+Convém assinalar que, " q uando a controvérsia é solucionada com base em princípios ou dispositivos constitucionais, o recurso especial é inviável, sob pena de usurpação da competência reservada pela Constituição ao Supremo Tribunal Federal" (REsp n. 1.578.152/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 2/8/2022, DJe de 10/11/2022).
+Com igual conclusão:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. DISPOSITIVO CONSTITUCIONAL. ANÁLISE DE OFENSA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+2. Não cabe ao Superior Tribunal de Justiça intervir em matéria de competência do STF, tampouco para prequestionar dispositivos e/ou princípios constitucionais, sob pena de violar a rígida distribuição de competência recursal disposta na Carta Magna.
+3. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp n. 1.905.715/DF, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022; sem grifos no original.)
+No mais, trata-se de indevida inovação recursal a alegação de que a suposta omissão estaria relac ionada ao art. 2.º, caput, da Lei n. 9.784/1999, o que impede o conhecimento do agravo interno no ponto.
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ADMINISTRATIVO. TUTELA DE URGÊNCIA. REGULARIZAÇÃO DE ERB"S (ESTAÇÕES DE RÁDIO BASE). RECURSO ESPECIAL CONTRA ACÓRDÃO QUE MANTEVE DECISÃO LIMINAR A QUAL INDEFERIU A SUSPENSÃO DAS MULTAS APLICADAS PELO MUNICÍPIO. AUSÊNCIA DE OMISSÃO OU DEFICIÊNCIA NA FUNDAMENTAÇÃO DO JULGADO. TESES NÃO INVOCADAS NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. FUNDAMENTO CONSTITUCIONAL. REVISÃO. INVIABILIDADE. REQUISITOS AUTORIZADORES À CONCESSÃO DE TUTELA ANTECIPADA. ANÁLISE. DESCABIMENTO. SÚMULA N. 735 DO STF. REEXAME PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+3. Incabível o exame de tese não exposta no recurso especial e invocada apenas no Agravo Interno, pois configura indevida inovação recursal.
+ ..
+7. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no AREsp n. 2.137.460/ES, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 28/10/2024, DJe de 4/11/2024; sem grifos no original.)
+Assim, na ausência de argumentos relevantes que infirmem as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, CONHEÇO EM PARTE do agravo interno e, nessa extensão, NEGO-LHE provimento.
+É o voto.
