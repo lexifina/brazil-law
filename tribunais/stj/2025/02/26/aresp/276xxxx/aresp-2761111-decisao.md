@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo (fls. 310-315) contra a decisão de fls. 302-303, que inadmitiu o recurso especial interposto por SEBASTIÃO CARLOS DA SILVA (fls. 282-291), com fundamento no artigo 105, III, "c", da Constituição da República, em oposição a acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (fls. 258-273).
+O agravante alega que a análise das questões delineadas no recurso especial não encontra óbice na Súmula 208 do STJ, bem como que o recurso não carece de fundamentação e encontra amparo na jurisprudência desta Corte de Justiça.
+No recurso especial inadmitido, aponta violação ao artigo 386, VII, do Código de Processo Penal, sustentando a ausência de provas para a condenação e a ofensa ao princípio do in dubio pro reo.
+Esclarece que a Corte de origem manteve a condenação do recorrente, apesar da ausência de provas claras e inequívocas da autoria delitiva, baseando-se em meros indícios e conjecturas.
+Instado, o recorrido apresentou contrarrazões, pugnando pelo desprovimento do recurso e manutenção da sentença condenatória.
+O recurso especial foi inadmitido na origem, ao que se seguiu a interposição de agravo (fls. 310-315).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não supera o juízo de admissibilidade, porque não foi exaurida a instância ordinária. Como se depreende do acórdão recorrido, o desprovimento da apelação defensiva aconteceu por maioria, com a apresentação de voto divergente mais benéfico ao réu.
+Logo, seria cabível a oposição de embargos infringentes no Tribunal local, consoante o art. 609, parágrafo único, do CPP:
+"Quando não for unânime a decisão de segunda instância, desfavorável ao réu, admitem-se embargos infringentes e de nulidade, que poderão ser opostos dentro de 10 (dez) dias, a contar da publicação de acórdão, na forma do art. 613. Se o desacordo for parcial, os embargos serão restritos à matéria objeto de divergência".
+A defesa, porém, não se valeu dos embargos, interpondo diretamente o recurso especial. Isso impede o conhecimento do recurso, nos termos da Súmula 207/STJ:
+"É inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem".
+Com a mesma orientação, destaco os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. ACÓRDÃO RECORRIDO PROFERIDO POR MAIORIA DE VOTOS. NÃO APRESENTAÇÃO DOS RESPECTIVOS EMBARGOS INFRINGENTES. SÚMULA N. 207 DO STJ. INCIDÊNCIA MANTIDA. RECURSO NÃO PROVIDO - Não tendo sido encerrada a prestação jurisdicional pelo e. Tribunal de origem, conforme consignado no decisum agravado, não há como prosseguir a análise do pedido aqui formulado. Nesse sentido é o teor do enunciado sumular n. 207 deste col. Superior Tribunal de Justiça, que dispõe, verbis: "é inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem". - Agravo regimental não provido". (AgRg no AREsp n. 2.124.596/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE. RECURSO EM SENTIDO ESTRITO NÃO CONHECIDO. ACÓRDÃO PROFERIDO POR MAIORIA DE VOTOS. NÃO INTERPOSIÇÃO DE EMBARGOS INFRINGENTES. SÚMULA N. 207 DO STJ. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO 1. Segundo o entendimento pacificado do Superior Tribunal de Justiça, não se permite o enfrentamento, por esta Corte, de temas constitucionais, ainda que para fins de prequestionamento, em detrimento da competência do Supremo Tribunal Federal (art. 109, I, CF). 2. Nos termos da Súmula n. 207 do STJ, "É inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no Tribunal de origem". 3. No caso dos autos, não houve o devido esgotamento de instâncias, uma vez que o recorrente não opôs embargos infringentes contra o acórdão recorrido, que foi aprovado por maioria de votos desfavoráveis ao réu. 4. Agravo regimental não provido". (AgRg no REsp n. 1.622.169/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/8/2017, DJe de 31/8/2017.).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
