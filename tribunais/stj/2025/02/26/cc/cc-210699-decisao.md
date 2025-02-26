@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 12ª VARA DE FAZENDA PÚBLICA DO RIO DE JANEIRO/RJ, o suscitante, e o JUÍZO DE DIREITO DA 4ª VARA MISTA DE CAJAZEIRAS/PB, o suscitado.
+O JUÍZO DE DIREITO DA 4ª VARA MISTA DE CAJAZEIRAS/PB, local em que foi ajuizada a execução fiscal pelo Município de Cajazeiras/PB, declinou da competência para o processamento do feito, sustentando, em essência, que "a execução fiscal deve ser ajuizada perante o Juiz de Direito da comarca do domicílio do devedor, ou de sua residência ou do lugar em que for encontrado, nos termos do artigo 46, § 5º, do Código de Processo Civil, visando facilitar a defesa do devedor e evitar a expedição de sucessivas cartas precatórias" (e-STJ fl. 55).
+Por seu turno, o JUÍZO DE DIREITO DA 12ª VARA DE FAZENDA PÚBLICA DO RIO DE JANEIRO/RJ, ora suscitante, defende, em síntese, que "A competência para execuções fiscais de dívidas municipais deve ser do local onde ocorreu o fato gerador do tributo (no caso, Cajazeiras)", acrescentando, ainda, que "o Superior Tribunal de Justiça (STJ) e o Supremo Tribunal Federal (STF) já decidiram que a norma do artigo 46, §5º, do CPC deve ser aplicada apenas no âmbito da União e que execuções fiscais de entes municipais e estaduais devem respeitar seus limites territoriais e a origem da dívida" (e-STJ fl. 62).
+Manifestação do Ministério Público Federal pela competência do juízo suscitado. A ementa do parecer (e-STJ fl. 61):
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO FISCAL. IPTU. COMPETÊNCIA RELATIVA. DECLINAÇÃO DA COMPETÊNCIA DE OFÍCIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 33/STJ. PRECEDENTES DO STJ.
+1. A competência em relação à territorialidade é relativa e não pode ser declarada de Ofício. Incidência da Súmula 33 do STJ.
+2. Parecer do MPF para que seja declarado competente o JUÍZO DE DIREITO DA 4A VARA MISTA DE CAJAZEIRAS - PB (o suscitado)
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, penso que assiste razão ao suscitante.
+Os autos, na origem, tratam de execução fiscal proposta pelo Município de Cajazeiras/PB em face de Telemar Norte Leste S.A. (parte ora interessada) para a satisfação dos créditos constantes de CDA.
+Cumpre observar que a competência territorial, por ser relativa, não pode ser declinada, de ofício, pelo juízo da execução, como já sedimentado na Súmula 33 do STJ: "a incompetência relativa não pode ser declarada de ofício".
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. DOMICÍLIO DO DEVEDOR. COMPETÊNCIA TERRITORIAL. INCOMPETÊNCIA RELATIVA NÃO PODE SER DECLARADA DE OFÍCIO. SÚMULA 33/STJ. AUSÊNCIA DE EXCEÇÃO DE INCOMPETÊNCIA. SÚMULA 58/STJ.
+1. O foro competente para o ajuizamento da execução fiscal será o domicílio do réu, consoante a disposição contida no artigo 578, caput, do Código de Processo Civil. Por se tratar de competência relativa, a competência territorial não pode ser declarada ex officio pelo Juízo. Esse entendimento se consolidou com a Súmula 33 do Superior tribunal de Justiça, in verbis: "A incompetência relativa não pode ser declarada de ofício."
+2. Na hipótese de execução fiscal proposta fora do domicílio do devedor, compete exclusivamente ao executado se valer da exceção de incompetência, para afastar a competência de Juízo relativamente incompetente.
+3. Ademais, a posterior mudança de domicílio do executado não influi para fins de alteração de competência, conforme teor da Súmula 58 do Superior Tribunal de Justiça, in verbis: "Proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada." 4. Conflito de competência conhecido para declarar a competência do Juízo Federal de Sinop - SJ/MT, o suscitado.
+(CC 101.222/PR, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de23/03/2009).
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. ALTERAÇÃO DO ENDEREÇO DA EXECUTADA. INCOMPETÊNCIA RELATIVA. DECLARAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULAS 33 E 58/STJ. COMPETÊNCIA DO JUÍZO FEDERAL ONDE FOI PROPOSTA A DEMANDA.
+1. O art. 578 do Código de Processo Civil estabelece que a execução fiscal será ajuizada no foro do domicílio do réu. Não obstante isso, cumpre ressaltar que a competência territorial é relativa, e, portanto, só poderia a incompetência ser arguida por meio de exceção (CPC, art. 112).
+2. Feita a escolha e ajuizada a ação, ficou definida a competência do Juízo Federal da 2ª Vara da Seção Judiciária do Estado de Tocantins (CPC, art. 87), não podendo ser reconhecida ex officio eventual incompetência do Juízo, nos termos do enunciado da Súmula 33/STJ.
+3. Além disso, segundo o entendimento consolidado com a edição da Súmula 58/STJ, "proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada".
+4. Ressalta-se que, em relação à análise de conflitos de competência, o Superior Tribunal de Justiça exerce jurisdição sobre as Justiças Estadual, Federal e Trabalhista, nos termos do art. 105, I, d, da Carta Magna. Desse modo, invocando os princípios da celeridade processual e economia processual, esta Corte Superior pode definir a competência e determinar a remessa dos autos ao juízo competente para a causa, mesmo que ele não faça parte do conflito (CC 47.761/PR, 1ª Seção, Rel. Min. Luiz Fux, DJ de 19.12.2005).
+5. Conflito conhecido para declarar a competência do Juízo Federal da 2ª Vara da Seção Judiciária.
+(CC 53.750/TO, Rel. Min. DENISE ARRUDA, PRIMEIRA SEÇÃO, DJ de 15/05/2006).
+Ante o exposto, com base no art. 34, XXII, do RISTJ, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 4ª VARA MISTA DE CAJAZEIRAS/PB, o suscitado.
+Comuniquem-se.
+Publique-se. Intimem-se.
+EMENTA
