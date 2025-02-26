@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de ELIAN SARAIVA BARBOSA DE SANTANA, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que a paciente foi denunciada como incurso nos arts. 2º, caput e §§ 3º e 4º, II, da Lei n. 12.850/2013 e 317 do Código Penal, sobrevindo decisão que rejeitou a peça inaugural.
+Em grau recursal, o Tribunal de origem deu provimento ao recurso em sentido estrito interposto pela acusação, determinando o regular prosseguimento da ação penal.
+Na presente impetração, busca-se a concessão da ordem, para que seja trancado o inquérito policial, em razão de invocada ausência de justa causa.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Nesta toada, a pretensão defensiva resvala na via estreita do habeas corpus, que impossibilita o revolvimento de matéria fático-probatória nestes autos, consoante jurisprudência sedimentada desta Corte, devendo ser observadas as escorreitas conclusões do Tribunal local, soberano no enfrentamento de fatos e de provas.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO NO TOCANTE AO DELITO DE ASSOCIAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO VEDADO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES. 1/6. PROPORCIONALIDADE. PRIVILÉGIO. INAPLICABILIDADE. CONDENAÇÃO CONCOMITANTE PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA.
+I - Não se conhece de habeas corpus substitutivo de revisão criminal.
+II - Na hipótese de ilegalidade flagrante, concede-se a ordem de ofício. Precedentes.
+III - No presente caso, as instâncias ordinárias fundamentaram devidamente a condenação pelo crime de associação para o tráfico, com fulcro em robusto conjunto probatório, restando configurada a estabilidade e a permanência da associação, bem como a função da agravante e dos demais integrantes, com hierarquia e divisão de tarefas.
+IV - O rito do habeas corpus não admite o revolvimento de matéria fático probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local. (..) Agravo regimental desprovido (AgRg no HC 895457 / SC, QUINTA TURMA, de minha relatoria, DJe 16/05/2024).
+E, ainda, consoante entendimento desta Corte Superior, aplicável ao caso vertente, "a denúncia preenche os requisitos legais previstos no art. 41 do CPP, porquanto expôs o fato criminoso e suas circunstâncias, qualificou o acusado, bem como classificou o delito, trazendo, ainda, o rol de testemunhas, o que possibilita o exercício da ampla defesa, com todos os recursos a ela inerentes, sob o crivo do contraditório" (AgRg no RHC 189730 / SE, QUINTA TURMA, de minha relatoria, DJe 04/11/2024).
+Sendo assim, "a denúncia não é inepta quando atende aos seus aspectos formais, nos termos do artigo 41, c.c. o artigo 395, I, do Código de Processo Penal - CPP, bem como se presentes os pressupostos de existência e validade da relação processual quanto às condições para o exercício da ação penal, segundo o inciso II do mesmo artigo 395 do CPP. Ademais, se estiver acompanhada de lastro probatório mínimo a amparar a acusação, ou seja, da justa causa, nos termos do inciso III do mesmo artigo 395 do CPP, a denúncia deve ser recebida" (AgRg no RHC 181318 / PR, QUINTA TURMA, de minha relatoria, DJe 26/09/2024).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
