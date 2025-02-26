@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. PERCENTUAL DE REDUÇÃO. DESPROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O privilégio disciplinado no art. 33, § 4º, da Lei de Drogas prevê apenas os requisitos necessários para a aplicação da minorante; deixa, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+2. O juiz, ao reconhecer a presença dos requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado.
+3. No caso, o montante de substâncias encontrado com o acusado não foi excessivamente elevado a ponto de, isoladamente, evidenciar a acentuada reprovabilidade da conduta do réu, sobretudo se considerada as circunstâncias em que se deu a prática delitiva. Entendo, assim, ser desproporcional sopesar, no caso ora analisado, apenas essa circunstância para justificar a incidência da minorante no patamar mínimo.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DA PARAÍBA agrava de decisão em que concedi a ordem, a fim de readequar a fração relativa à minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+No regimental, o Parquet salienta que "a Juíza fundamentou a escolha do percentual mínimo de redução, na quantidade (475,90g) e na natureza da sustância apreendida (COCAÍNA) e, passo seguinte, fixou a fração redutora no patamar mínimo (1/6)" (fl. 135).
+Requer, assim, a reconsideração do decisum ou a submissão do feito ao órgão colegiado, para que seja provido o agravo, com a manutenção da pena fixada pelas instâncias ordinárias.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. PERCENTUAL DE REDUÇÃO. DESPROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O privilégio disciplinado no art. 33, § 4º, da Lei de Drogas prevê apenas os requisitos necessários para a aplicação da minorante; deixa, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+2. O juiz, ao reconhecer a presença dos requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado.
+3. No caso, o montante de substâncias encontrado com o acusado não foi excessivamente elevado a ponto de, isoladamente, evidenciar a acentuada reprovabilidade da conduta do réu, sobretudo se considerada as circunstâncias em que se deu a prática delitiva. Entendo, assim, ser desproporcional sopesar, no caso ora analisado, apenas essa circunstância para justificar a incidência da minorante no patamar mínimo.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Observa-se, assim, que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele previsto, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal e, especialmente, o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+No caso, o Tribunal de origem salientou o seguinte ao preservar a pena (fls. 67-68):
+Da simples leitura do decisum vergastado, infere-se ser descabida a reclamação direcionada à terceira fase da dosimetria penal, em face da adoção, pelo juízo de primeiro grau, da fração de redução da reprimenda em 1/6 (um sexto).
+Com efeito, como é cediço, uma vez presentes os requisitos para o reconhecimento da causa de diminuição do tráfico privilegiado, fica a critério do juiz a escolha da fração redutora, através da análise do caso concreto e dos parâmetros fixados em lei.
+ ..
+No presente caso, a magistrada monocrática optou por utilizar a fração de 1/6 (um sexto), justificando sua decisão de forma correta e proporcional, baseando-se em dados concretos extraídos dos autos, especialmente a natureza da droga (qual seja, cocaína, de maior poder deletério) e a quantidade apreendida com o requerente (475,90g), o qual se mostra bastante considerável, à vista da droga em questão, já que se apresenta capaz de abastecer um grande número de usuários.
+Assim, entendo que a defesa não demonstrou flagrante desproporcionalidade que justifique a reforma do édito condenatório impugnado, impondo-se concluir que não há nenhuma ilegalidade no utilizado, mormente por ter sido a decisão devidamente fundamentada.
+Veja-se, portanto, que as instâncias ordinárias fundamentaram a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6 pautando-se nas condições estabelecidas no art. 42 da Lei de Drogas, quais sejam, natureza e quantidade da droga apreendida.
+Embora tais argumentos constituam, de fato, elementos concretos a justificar a eleição da fração do redutor, considero que o montante de substâncias encontrado com o acusado (475,9 g de cocaína) não foi excessivamente elevado a ponto de, isoladamente, evidenciar a acentuada reprovabilidade da conduta do réu. Entendo, assim, ser desproporcional sopesar, no caso ora analisado, apenas essa circunstância para justificar a incidência da minorante no patamar mínimo.
+Ademais, saliento que, no contexto da prisão, não foram apreendidos apetrechos destinados ao preparo e comércio da droga, balança de precisão, rádio transmissor ou anotações relativos ao comércio ilícito habitual.
+À vista do exposto, nego provimento ao agravo regimental.
