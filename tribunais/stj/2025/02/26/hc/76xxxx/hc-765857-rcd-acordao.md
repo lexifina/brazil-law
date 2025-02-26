@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECONHECIMENTO DA PREJUDICIALIDADE DA IMPETRAÇÃO EM VIRTUDE DE DECISÃO PROFERIDA NO RESP Nº 2.036.834/PR. DECLARAÇÃO DE INCOMPETÊNCIA DA JUSTIÇA FEDERAL. REMESSA DOS AUTOS À JUSTIÇA ELEITORAL. ANULAÇÃO DOS ATOS DECISÓRIOS. PERDA DE OBJETO DO HABEAS CORPUS. RECURSO ESPECIAL SEM EFEITO SUSPENSIVO. EFICÁCIA IMEDIATA DA DECISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Pedido de reconsideração formulado contra decisão monocrática que reconheceu a prejudicialidade do habeas corpus, em razão da decisão proferida no Recurso Especial nº 2.036.83 4/PR, a qual declarou a nulidade de todos os atos decisórios praticados na Ação Penal nº 5050568-73.2016.4.04.7000/PR e determinou a remessa dos autos à Justiça Eleitoral do Paraná.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão central consiste em verificar se ainda subsiste interesse no julgamento do habeas corpus, considerando que a decisão no Recurso Especial nº 2.036.834/PR anulou os atos decisórios da ação penal de origem, tornando sem efeito o acórdão impugnado.
+III. RAZÕES DE DECIDIR
+3. Nos termos do art. 995 do CPC, os recursos especial e extraordinário não possuem efeito suspensivo, salvo decisão expressa em sentido contrário, o que não se verifica no caso. Assim, a decisão proferida no Resp nº 2.036.834/PR possui eficácia imediata, não havendo fundamento para a manutenção do habeas corpus.
+4. A anulação dos atos decisórios na Ação Penal nº 5050568-73.2016.4.04.7000/PR, com remessa dos autos à Justiça Eleitoral, esvazia a impetração, tornando prejudicada qualquer discussão sobre a legalidade das decisões anuladas.
+IV. DISPOSITIVO
+5. A gravo regimental desprovido.
+RELATÓRIO
+Cuida-se de pedido de reconsideração apresentado por GUILHERME ESTEVES DE JESUS, contra decisão monocrática por mim proferida que reconheceu a prejudicialidade do presente habeas corpus (e-STJ fls. 1595/1598).
+O agravante sustenta, em síntese, que como a decisão proferida no Resp nº 2.036.834/PR, que declarou a nulidade de todos os atos decisórios praticados na ação penal nº 5050568-73.2016.4.04.7000/PR ainda não transitou em julgado, ainda há interesse no julgamento do presente habeas corpus.
+Requer a reconsideração da decisão agravada ou o provimento de seu recurso pelo colegiado a fim de que seja retomado o julgamento do presente habeas corpus (e-STJ fls. 1603/1605).
+Sem contrarrazões.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECONHECIMENTO DA PREJUDICIALIDADE DA IMPETRAÇÃO EM VIRTUDE DE DECISÃO PROFERIDA NO RESP Nº 2.036.834/PR. DECLARAÇÃO DE INCOMPETÊNCIA DA JUSTIÇA FEDERAL. REMESSA DOS AUTOS À JUSTIÇA ELEITORAL. ANULAÇÃO DOS ATOS DECISÓRIOS. PERDA DE OBJETO DO HABEAS CORPUS. RECURSO ESPECIAL SEM EFEITO SUSPENSIVO. EFICÁCIA IMEDIATA DA DECISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Pedido de reconsideração formulado contra decisão monocrática que reconheceu a prejudicialidade do habeas corpus, em razão da decisão proferida no Recurso Especial nº 2.036.83 4/PR, a qual declarou a nulidade de todos os atos decisórios praticados na Ação Penal nº 5050568-73.2016.4.04.7000/PR e determinou a remessa dos autos à Justiça Eleitoral do Paraná.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão central consiste em verificar se ainda subsiste interesse no julgamento do habeas corpus, considerando que a decisão no Recurso Especial nº 2.036.834/PR anulou os atos decisórios da ação penal de origem, tornando sem efeito o acórdão impugnado.
+III. RAZÕES DE DECIDIR
+3. Nos termos do art. 995 do CPC, os recursos especial e extraordinário não possuem efeito suspensivo, salvo decisão expressa em sentido contrário, o que não se verifica no caso. Assim, a decisão proferida no Resp nº 2.036.834/PR possui eficácia imediata, não havendo fundamento para a manutenção do habeas corpus.
+4. A anulação dos atos decisórios na Ação Penal nº 5050568-73.2016.4.04.7000/PR, com remessa dos autos à Justiça Eleitoral, esvazia a impetração, tornando prejudicada qualquer discussão sobre a legalidade das decisões anuladas.
+IV. DISPOSITIVO
+5. A gravo regimental desprovido.
+VOTO
+Considerando as razões elencadas no pedido de reconsideração, recebo-o como agravo regimental, pois o pedido formulado traduz mero inconformismo com o resultado do julgamento.
+Passo à análise do recurso interno.
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 1595/1598):
+Trata-se de habeas corpus sem pedido liminar impetrado em favor de GUILHERME ESTEVES DE JESUS em que se aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região (Apelação Criminal n. 5050568.73.2016.4.04.7000).
+Insurge-se a defesa em face do seguinte acórdão:
+PENAL. PROCESSUAL PENAL. "OPERAÇÃO LAVA-JATO". PRELIMINARES. COMPETÊNCIA DA 13ª VARA FEDERAL DE CURITIBA. USURPAÇÃO DE COMPETÊNCIA DO STF. COMPETÊNCIA DA JUSTIÇA ELEITORAL. PRINCÍPIO DA INDIVISIBILIDADE DA AÇÃO PENAL. INÉPCIA DA INICIAL. PRINCÍPIOS DA AMPLA DEFESA, CONTRADITÓRIO, PARIDADE DE ARMAS E DEVIDO PROCESSO LEGAL. TESES AFASTADAS. CORRUPÇÃO ATIVA E PASSIVA. LAVAGEM DE DINHEIRO. CONFIGURAÇÃO. CONCURSO DE CRIMES. CRIME DE PERTINÊNCIA À ORGANIZAÇÃO CRIMINOSA. ABSOLVIÇÃO. DOSIMETRIA DAS PENAS. CIRCUNSTÂNCIAS DO ART. 59 DO CÓDIGO PENAL. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. BENEFÍCIOS DECORRENTES DE COLABORAÇÃO. REPARAÇÃO DO DANO. DIRECIONAMENTO À VÍTIMA DIRETA.
+1. A competência para o processamento e julgamento dos processos relacionados à "Operação Lava-Jato" perante o Juízo de origem é da 13ª Vara Federal de Curitiba/PR, não havendo falar em usurpação de competência do Supremo Tribunal Federal ou em ausência de delitos de competência federal.
+2. A conexão constitui um dos critérios de alteração da competência territorial, a qual é relativa e está sujeita à preclusão.
+3. Tratando-se de processo com sentença já proferida cujo objeto são delitos comuns, sem que haja imputação conjunta ou narrativa de crime eleitoral, não há que se falar em competência da Justiça Eleitoral para o processamento e o julgamento do feito.
+4. Inexiste ofensa ao princípio da indivisibilidade da ação penal, uma vez que predomina o entendimento de que na ação penal pública vige o princípio da divisibilidade. Precedentes do STF.
+5. Não prospera a tese de inépcia da denúncia calcada na alegada insuficiência do acervo probatório, pois isto diz respeito ao mérito da demanda. Ademais, com a superveniência de sentença condenatória, resulta preclusa a alegação de inépcia da peça inicial e de ausência de justa causa. Precedentes do STJ.
+6. Se à defesa foi possibilitada manifestação a respeito dos documentos apresentados pelo Ministério Público Federal no prazo que lhe confere o art. 402 do Código de Processo Penal, não há espaço para reconhecimento de nulidade. Incidência do art. 231 do Código de Processo Penal.
+7. As discordâncias sobre a valoração da prova não constituem causa de nulidade por ofensa às garantias processuais do acusado, e devem ser examinadas no capítulo meritório.
+8. Pratica o crime de corrupção passiva, capitulado no art. 317 do Código Penal, aquele que solicita ou recebe, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceita promessa de tal vantagem.
+9. Comete o crime de corrupção ativa, previsto no art. 333 do Código Penal, quem oferece ou promete vantagem indevida a agente público, para determiná-lo a praticar, omitir ou retardar ato de ofício.
+10. Mantida a condenação de quatro agentes pela prática dos crimes de corrupção ativa e passiva quanto aos contratos celebrados por meio da empresa Sete Brasil, com incidência das causas de aumento do art. 317, §1º, e do art. 333, par. único, do Código Penal. Suspensão da condenação e da ação penal quanto a um dos acusados em virtude do acordo de colaboração, como reconhecido na sentença.
+11. Ainda que a propina decorra de múltiplos contratos, há configuração de crime único de corrupção.
+12. A lavagem de ativos é delito autônomo em relação ao crime antecedente (não é meramente acessório a crimes anteriores), já que possui estrutura típica independente (preceito primário e secundário), pena específica, conteúdo de culpabilidade própria e não constitui uma forma de participação post-delictum.
+13. Não há crime único de lavagem de dinheiro quando praticadas diversas operações independentes, em continuidade delitiva, cada uma destinada a ocultar e dissimular a origem dos valores transferidos. Precedentes desta Corte.
+14. Mantida a condenação de quatro agentes pela prática de crimes de lavagem de ativos. Suspensão da condenação e da ação penal quanto a um dos acusados em virtude do acordo de colaboração, como reconhecido na sentença.
+15. Deve ser aplicada a regra do concurso material entre o delito de corrupção passiva e os delitos de lavagem de dinheiro, nos termos do art. 69 do Código Penal, uma vez que cometidos mediante ações e contextos distintos, bem como diante da existência de desígnios autônomos e da afetação de bens jurídicos diversos.
+16. Um importante traço diferenciador do crime de pertinência à organização criminosa do mero concurso eventual de agentes é o propósito de praticar crimes indeterminados. Não havendo prova suficiente de que a conjugação de esforços entre o acusado e os demais agentes, em vez de ocasional e temporária, foi estável e permanente, deve ele ser absolvido da imputação.
+17. "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena." (HC 107.409/PE, 1.ª Turma do STF, Rel. Min. Rosa Weber, un., j. 10.4.2012, D Je-091, 09.5.2012), devendo o ser tomado em conta os princípios da necessidade e eficiência, decompostos nos diferentes elementos previstos no art. 59 do Código penal, principalmente na censurabilidade da conduta.
+18. Mantida a valoração negativa da culpabilidade, circunstâncias e consequências dos delitos de corrupção.
+19. Incabível o reconhecimento da participação de menor importância relativamente ao agente que ocupava posição de destaque no esquema delitivo que envolveu a corrupção de agente público.
+20. O expressivo valor objeto dos atos de lavagem relaciona-se às consequências do delito, pois não diz respeito ao modus operandi, e sim aos reflexos da conduta criminosa. Provimento do recurso ministerial.
+21. Considerando a relevante contribuição de um dos acusados, nesta ação penal, para o esclarecimento da verdade, cabível a redução das penas a eles impostas no patamar de 1/2, com fundamento no art. 1º, § 5º, da Lei nº 9.613/98 e no art. 14 da Lei nº 9.807/1999.
+22. A reparação do dano discutida nesta ação penal está relacionada à pratica do crime de corrupção praticado em detrimento da Administração Pública. É incabível, neste âmbito, direcionar o quantum reparatório à empresa privada.
+23. Eventual prejuízo da Sete Brasil por ausência de pagamento pela Petrobras não tem relação com o crime de corrupção e deve ser objeto - se já não o são - de ação cível de índole administrativa.
+24. Rejeitada a questão de ordem para adiamento do julgamento, (a) parcialmente provido o apelo de GUILHERME ESTEVES DE JESUS para absolvê-lo da prática do crime de pertinência à organização criminosa, com fundamento no art. 386, inc. vii, do cpp; (b) parcial provido o apelo do MPF para valorar negativamente as consequências dos delitos de lavagem de capitais imputados a GUILHERME ESTEVES DE JESUS e RENATO DE SOUZA DUQUE, com a exasperação das penas aplicadas; e (c) negado provimento aos apelos dos réus RENATO DE SOUZA DUQUE, JOÃO VACCARI NETO e da assistente de acusação SETE BRASIL PARTICIPAÇÕES S. A.
+Afirma a defesa, em suma, a ocorrência de "Manipulação seletiva de provas e da não revelação de provas essenciais à defesa pela Procuradoria da República de Curitiba" e de "patente violação às garantias constitucionais ao devido processo legal, à ampla defesa, ao contraditório e à paridade de armas".
+As informações foram prestadas.
+O Ministério Público Federal promoveu a denegação da ordem.
+É o relatório.
+DECIDO.
+A análise dos autos indica que a ordem pretendida aponta como coatora decisão proferida nos autos da Ação Penal nº 5050568-73.2016.4.04.7000/PR.
+Todavia, ao decidir o RECURSO ESPECIAL Nº 2036834 - RS, esta relatoria acolheu preliminar suscitada por corréu do paciente desta "Habeas Corpus", e declarou a incompetência da Justiça Federal, determinando "a remessa dos autos da Ação Penal nº 5050568-73.2016.4.04.7000/PR e seus conexos à Justiça Eleitoral do Estado do Paraná, que deverá decidir sobre o aproveitamento dos atos instrutórios já praticados, anulados, desde logo, os atos decisórios com relação a todos os réus."
+Diante disso, observa-se que o acórdão que ora se aponta como coator não mais subsiste diante da anulação promovida por aquele "decisum", o que indica a perda de objeto da impetração.
+Pelo exposto, declaro prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+Reforço que os recursos extraordinário e especial, por determinação do artigo 995 do Código de Processo Civil, não são dotados de efeito suspensivo. Isso significa que a decisão proferida no Resp nº 2.036.834/PR, que declarou a nulidade de todos os atos decisórios praticados na ação penal nº 5050568-73.2016.4.04.7000/PR apesar de ainda não ter transitado em julgado, possui eficácia imediata.
+Ante o exposto, nego provimento ao recurso.
+É como voto.
