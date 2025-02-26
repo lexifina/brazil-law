@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO E FRAGILIDADE PROBATÓRIA. RECONHECIMENTO FOTOGRÁFICO EM SEDE POLICIAL RATIFICADO EM JUÍZO. PROVA ISOLADA. INEXISTÊNCIA DE OUTROS ELEMENTOS VÁLIDOS E INDEPENDENTES. EXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AUSÊNCIA DE ARGUMENTO APTO A AFASTAR AS RAZÕES CONSIDERADAS NO JULGADO AGRAVADO, O QUAL ESTÁ EM SINTONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO MANTIDA.
+1. No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada.
+2. Embora o Parquet afirme que existem outros elementos que comprovam a autoria delitiva, além do reconhecimento inicial inválido, posteriormente confirmado em juízo, não indicou quais seriam esses elementos; tampouco a sentença e o acórdão proferidos, de maneira que ausentes provas autônomas e independentes que, por si sós, poderiam amparar os reconhecimentos realizados irregularmente para fundamentarem a condenação.
+3. Na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra a decisão de minha lavra que concedeu a ordem de habeas corpus para absolver o réu (fls. 578/581).
+Neste recurso, sustenta o Ministério Público Federal, em suma, que houve o efetivo reconhecimento pessoal do agravante tanto na fase inquisitorial quanto ao longo da instrução processual (fl. 585). Alega, também que existem outras provas aptas a amparar a sentença condenatória, de maneira que inexistiria a nulidade reconhecida (fl. 586).
+Pleiteia, desse modo, o provimento do agravo regimental para que seja restabelecida a condenação do ora agravado (fls. 584/587).
+É o relatório
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO E FRAGILIDADE PROBATÓRIA. RECONHECIMENTO FOTOGRÁFICO EM SEDE POLICIAL RATIFICADO EM JUÍZO. PROVA ISOLADA. INEXISTÊNCIA DE OUTROS ELEMENTOS VÁLIDOS E INDEPENDENTES. EXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AUSÊNCIA DE ARGUMENTO APTO A AFASTAR AS RAZÕES CONSIDERADAS NO JULGADO AGRAVADO, O QUAL ESTÁ EM SINTONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO MANTIDA.
+1. No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada.
+2. Embora o Parquet afirme que existem outros elementos que comprovam a autoria delitiva, além do reconhecimento inicial inválido, posteriormente confirmado em juízo, não indicou quais seriam esses elementos; tampouco a sentença e o acórdão proferidos, de maneira que ausentes provas autônomas e independentes que, por si sós, poderiam amparar os reconhecimentos realizados irregularmente para fundamentarem a condenação.
+3. Na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+4. Agravo regimental improvido.
+VOTO
+A irresignação ministerial não prospera.
+Os argumentos trazidos no agravo regimental não são suficientes para infirmar a decisão agravada, a qual mantenho por seus próprios fundamentos, que ora os transcrevo (fls. 579/580):
+De fato, da leitura da sentença e do acórdão atacado, entendo que as provas são frágeis, já que formadas, basicamente, pelo reconhecimento inicial inválido feito por fotografia em solo policial, e pelo reconhecimento em juízo por apenas uma das vítimas, que pode, inclusive, ter sido induzido pelo primeiro.
+É essencial mencionar que, uma vez que a testemunha ou a vítima reconhece alguém como o autor do delito, há tendência, por um viés de confirmação, a repetir a mesma resposta em reconhecimentos futuros, pois sua memória estará mais ativa e predisposta a tanto (HC n. 712.781/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, D Je 22/3/2022).
+E, conforme orientação do Superior Tribunal de Justiça, ainda que ratificado em juízo, o reconhecimento fotográfico não observou os requisitos formais previstos no art. 226 do CPP e não foi corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa, suficientes para amparar a condenação, verificando-se a ocorrência de manifesta ilegalidade (AgRg no HC n. 782.370/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, D Je 18/5/2023).
+Somado a isso, como apontado no ato coator, o réu, em seu interrogatório (depoimento audiovisual - fl. 247), negou os fatos narrados na denúncia, sustentando que não tinha como praticar o delito em questão, pois mora em Volta Redonda e não sabe chegar no Rio de Janeiro sozinho; e que no dia dos fatos não es- tava no Rio, porque estava trabalhando no mercado popular (fl. 538).
+Embora tais declarações não tenham sido comprovadas, tenho que, no mínimo, servem para fragilizar ainda mais o arcabouço probatório, o qual já se mostrava duvidoso diante da precariedade das provas angariadas.
+Esclareço, ainda, que não houve, in casu, prisão em flagrante, tampouco apreensão de qualquer objeto do crime com o réu nem colheita de imagens de câmera de vigilância.
+Portanto, diante da fragilidade probatória, há, no mínimo, dúvida razoável acerca da autoria por parte do réu da prática delitiva, o que impõe a sua absolvição.
+Pontuo que, embora o Parquet afirme que existem outros elementos que comprovam a autoria delitiva, além do reconhecimento inicial inválido, posteriormente confirmado em juízo, não indicou quais seriam esses elementos; tampouco a sentença e o acórdão proferidos, de maneira que ausentes provas autônomas e independentes que, por si sós, poderiam amparar os reconhecimentos realizados irregularmente para fundamentarem a condenação.
+Dessa forma, na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+Ante o exposto, nego provimento ao agravo regimental.
