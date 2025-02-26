@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PRETENSÃO DE REEXAME DO MÉRITO. EMBARGOS REJEITADOS.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis apenas para sanar obscuridade, contradição ou omissão no julgado, não se prestando ao reexame do mérito da decisão embargada.
+O acórdão embargado analisou de forma clara e fundamentada a validade da fundamentação per relationem utilizada na decisão de busca e apreensão, concluindo que a manifestação processual referenciada continha fundamentação suficiente e acessível às partes.
+Os embargos não indicam qualquer omissão relevante que demande esclarecimento, limitando-se a reiterar a irresignação do embargante com a decisão proferida, o que é incabível nesta via recursal.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por OSWALDO ROQUE DE ALMEIDA contra acórdão desta Turma, que deu provimento ao agravo regimental, denegando a ordem de habeas corpus e reconhecendo a validade da fundamentação per relationem na decisão de busca e apreensão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PRETENSÃO DE REEXAME DO MÉRITO. EMBARGOS REJEITADOS.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis apenas para sanar obscuridade, contradição ou omissão no julgado, não se prestando ao reexame do mérito da decisão embargada.
+O acórdão embargado analisou de forma clara e fundamentada a validade da fundamentação per relationem utilizada na decisão de busca e apreensão, concluindo que a manifestação processual referenciada continha fundamentação suficiente e acessível às partes.
+Os embargos não indicam qualquer omissão relevante que demande esclarecimento, limitando-se a reiterar a irresignação do embargante com a decisão proferida, o que é incabível nesta via recursal.
+Embargos de declaração rejeitados.
+VOTO
+O embargante sustenta a existência de omissão no julgado, alegando que a fundamentação per relationem utilizada na decisão de primeiro grau não seria suficiente para justificar a medida cautelar. No entanto, tal argumentação já foi amplamente analisada e rechaçada pelo acórdão embargado, que concluiu que a manifestação processual referenciada continha elementos concretos e acessíveis, atendendo aos requisitos exigidos pela jurisprudência desta Corte.
+Nos termos do art. 619 do CPP, os embargos de declaração são cabíveis para sanar omissão, obscuridade ou contradição, não sendo meio adequado para rediscussão do mérito da decisão embargada. Nesse sentido, é iterativa a jurisprudência desta Corte Superior:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. AUSÊNCIA DE COMPROVAÇÃO DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. REJEITADOS OS EMBARGOS.
+I. Caso em exame 1. Embargos de declaração opostos por Paulo Henrique Badinhani Mota contra acórdão que não conheceu do agravo regimental em recurso especial por incidência da Súmula nº 182/STJ. A parte embargante alega vícios no acórdão e reitera argumentos do agravo regimental, requerendo efeitos modificativos.
+II. Questão em discussão 2. A questão em discussão consiste em verificar a existência de obscuridade, contradição, omissão ou erro material no acórdão que não conheceu do agravo regimental.
+III. Razões de decidir 1. O art. 619 do CPP c/c art. 263 do RISTJ preceituam que serão cabíveis os embargos de declaração, opostos no prazo legal, quando o objetivo for de esclarecer obscuridade/eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia pronunciar-se o órgão julgador de ofício ou a requerimento ou corrigir erro material, s endo possível, excepcionalmente, a alteração ou modificação ao julgamento proferido.
+2. No caso em apreço, é evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento pretérito que negou provimento ao agravo regimental, pois, nas razões recursais, há somente inconformismo da parte embargante, sem a indicação de ambiguidade, obscuridade, contradição ou omissão por parte desta Colenda Corte de Justiça no acórdão proferido, conforme alude o art. 620, caput, do CPP.
+IV. Dispositivo e tese 6. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.428.583/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. CRIME IMPEDITIVO. OMISSÃO. NÃO OCORRÊNCIA. MERO INCONFORMISMO COM O JULGAMENTO. DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. Na hipótese, o acórdão embargado foi claro ao concluir que a interpretação dada pelas instâncias ordinárias à norma do parágrafo único do art. 11 do Decreto n. 11.302/2022 dissentia do entendimento, à época, da Terceira Seção desta Corte Superior no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos".
+3. A questão posta foi decidida à luz de fundamentos adequados. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+4. Vale lembrar que o julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, desde que demonstre os fundamentos e os motivos que justificaram suas razões de decidir 5. N ão compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal - STF, ex vi art. 102, III, da Constituição da República, sendo certo, ainda, que o habeas corpus não pode ser utilizado como substitutivo para ações de controle de constitucionalidade.
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg no HC n. 876.566/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+No presente caso, inexiste qualquer vício que justifique o acolhimento dos embargos. Na realidade, as supostas omissão e contradição dissimulam mera pretensão do embargante na modificação do julgado que lhe desfavoreceu
+Diante do exposto, voto pela rejeição dos embargos de declaração.
