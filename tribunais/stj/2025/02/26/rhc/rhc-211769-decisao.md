@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Rosilene Rodrigues Simen contra o acórdão proferido pela Oitava Câmara Criminal do Tribunal de Justiça do Rio de Janeiro que denegou o Habeas Corpus criminal n. 0095073-57.2024.8.19.0000, mantendo os termos da sentença condenatória proferida pelo Juízo da 2ª Vara da comarca de Miracema/RJ que condenou a recorrente às penas de 4 anos, 10 meses e 10 dias de reclusão, em regime fechado, como incurso no art. 33, § 4º, da Lei n. 11.343/2006, negado o direito de recorrer em liberdade.
+Neste recurso, a defesa sustenta que a entrada na residência da recorrente foi indevida, sem autorização e sem que seu nome constasse no mandado de busca e apreensão, o que configuraria violação de direitos fundamentais e tornaria a prisão ilegal (fls. 78/80), bem como não estava associado ao investigado Bruner de Oliveira Souza, e que a prisão foi baseada em provas ilícitas (fls. 81/82).
+O recurso também questiona a fundamentação da sentença que aplicou a pena no patamar mínimo de 1/6, argumentando que a quantidade de droga apreendida não pode, isoladamente, justificar a redução mínima do benefício previsto no art. 33, § 4º, da Lei de Drogas (fls. 98/100).
+Além disso, contesta a manutenção da prisão preventiva, alegando ausência de fundamentação concreta e idônea, uma vez que a recorrente é primária, possui bons antecedentes e residência fixa (fls. 102/104).
+Por fim, pede o relaxamento da prisão, a nulidade da busca e apreensão, e a concessão de liberdade à recorrente, argumentando que a prisão preventiva é desnecessária e que existem medidas cautelares alternativas (fls. 108/110).
+É o relatório.
+Das insurgências apresentadas pela defesa, destaca-se que apenas a negativa de recorrer em liberdade foi debatida pela instância ordinária, a qual afastou qualquer ilegalidade a ser corrigida por este Relator, uma vez que a manutenção da medida constritiva foi justificada pela garantia da ordem pública, considerando a apreensão de 3 kg de cocaína (fl. 196).
+Em relação às demais questões, tendo em vista que a Corte estadual não se manifestou sobre elas, sua análise pelo Superior Tribunal de Justiça, neste momento, configuraria indevida supressão de instância.
+A Constituição Federal fixa o rol de competências do Superior Tribunal de Justiça em seu art. 105, de modo que o conhecimento de matérias não debatidas em habeas corpus na origem subverte a estrutura constitucional, caso conhecidas na via eleita neste Tribunal Superior.
+Em suporte: AgRg no RHC n. 183.244/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 16/11/2023; AgRg no HC n. 767.936/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/11/2023; AgRg no HC n. 843.602/MG, de minha relatoria, Sexta Turma, DJe 25/10/2023; e AgRg no HC n. 846.353/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/10/2023.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. NEGATIVA DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. APREENSÃO DE 3 KG DE COCAÍNA. GARANTIA DA ORDEM PÚBLICA. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. TRÁFICO PRIVILEGIADO. FRAÇÃO. TEMAS NÃO DEBATIDOS NAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA.
+Recurso improvido.
