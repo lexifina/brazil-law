@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO DE CIGARROS E TABACO PARA NARGUILE. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE INDICAÇÃO DO ARTIGO QUE CONSIDERA VIOLADO. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de indicação dos artigos tidos por vulnerados ou que tiveram a interpretação divergente não permite verificar se a legislação federal infraconstitucional ficou, ou não, malferida, sendo de rigor a incidência da Súmula 284 do Supremo Tribunal Federal.
+2. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 212/213, de relatoria do Ministro Presidente desta Corte, que não conheceu do recurso em razão da ausência de indicação do dispositivo da legislação infraconstitucional que teria sido contrariado (Súmula n. 284 do STF).
+O agravante se insurge contra essa decisão alegando que "demonstrou que o Tribunal a quo realizou uma interpretação divergente da lei federal e por isso o acórdão deve ser reformado, já que é possível a aplicação do princípio ao caso." (e-STJ fl. 220). Sustenta que o caso em tela comporta a aplicação do aplicação do princípio da insignificância, pois se trata da apreensão de 890 tabacos para narguilé e 300 maços de cigarros e o valor dos tributos elididos em questão fora de R$ 4.997,76 (quatro mil novecentos e noventa e sete reais e setenta e seis centavos).
+Requer a reconsideração do decisum ou o julgamento do recurso pelo órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO DE CIGARROS E TABACO PARA NARGUILE. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE INDICAÇÃO DO ARTIGO QUE CONSIDERA VIOLADO. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de indicação dos artigos tidos por vulnerados ou que tiveram a interpretação divergente não permite verificar se a legislação federal infraconstitucional ficou, ou não, malferida, sendo de rigor a incidência da Súmula 284 do Supremo Tribunal Federal.
+2. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Observa-se que a defesa, de fato, deixou de indicar qual o dispositivo da legislação infraconstitucional que teria sido contrariado, o que atrai o óbice da Súmula n. 284 do STF. Confira-se:
+PROCESSUAL CIVIL E FALIMENTAR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ENCARGOS CONDOMINIAIS. DESPESAS NECESSÁRIAS À ADMINISTRAÇÃO DO ATIVO. CARÁTER EXTRACONCURSAL. SUSPENSÃO DA EXECUÇÃO. INADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O encargo condominial, ainda que anterior ao pedido de quebra, enquadra-se no conceito de despesa necessária à administração do ativo, tratando-se de crédito de natureza extraconcursal, que não se submete aos efeitos da recuperação judicial.
+2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+3. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.348.211/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/10/2023.)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE CONTRADIÇÃO. SÚMULAS 284 DO STF E 7 DO STJ. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Não se verifica a ocorrência de contradição no julgado, na medida em que o acórdão embargado negou provimento ao agravo regimental, diante da incidência, no caso, dos óbices das Súmulas 284 do STF e 7 do STJ. Na hipótese, o embargante, ao interpor o recurso especial, não indicou o artigo de lei federal supostamente violado; e a tese defensiva, acerca da inexigibilidade de conduta diversa, não foi acolhida na origem, de forma fundamentada, razão pela qual entender em sentido diverso demandaria revolvimento fático-probatório, incabível na via eleita.
+3. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp n. 1.961.910/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/3/2022.)
+Ademais, não é mesmo o caso de aplicação do princípio bagatelar, porquanto consta do acórdão recorrido que o recorrente é contumaz na prática delitiva. (e-STJ fl. 160).
+Esta Corte possui entendimento no sentido de que Em se tratando de agente contumaz na prática delitiva, é desinfluente perquirir o valor do tributo não recolhido para fins de aplicação do princípio insignificância, pois a contumácia indica per se uma conduta mais gravosa e de periculosidade social relevante, de modo que a reiteração, em regra, acaba por afastar os requisitos (ut, REsp n. 2.083.701/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 28/2/2024, DJe de 5/3/2024.)
+Registra-se, também, que segundo o mesmo precedente, a contumácia pode ser aferida a partir de procedimentos penais e fiscais pendentes de definitividade. A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. TEMA 1143. REPRESENTATIVO DA CONTROVÉRSIA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE RESTRITA (APREENSÃO DE ATÉ 1.000 MAÇOS). REITERAÇÃO DELITIVA. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior era no sentido de que a importação não autorizada de cigarros constitui crime de contrabando insuscetível de aplicação do princípio da insignificância, não importando a quantidade de maços apreendidos, considerando que o bem jurídico tutelado não se restringe à arrecadação tributária.
+2. Recentemente, a Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.971.993/SP e do REsp n. 1.977.652/SP, Tema n. 1.143, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Sebastião Reis Júnior, ocorrido em 13/9/2023, DJe de 19/9/2023, sob a égide dos recursos repetitivos, firmou posicionamento no sentido de que o princípio da insignificância é aplicável ao crime de contrabando de cigarros quando a quantidade apreendida não ultrapassar 1.000 (mil) maços, seja pela diminuta reprovabilidade da conduta, seja pela necessidade de se dar efetividade à repressão ao contrabando de vulto, excetuada a hipótese de reiteração da conduta, circunstância apta a indicar maior reprovabilidade e periculosidade social da ação.
+3. No presente caso, o Tribunal de origem consignou que não é caso de reconhecer a atipicidade material do fato por incidência do princípio da insignificância, embora tenham sido apreendidos apenas 630 (seiscentos e trinta) maços de cigarros estrangeiros em poder dos réus, pois ambos comercializavam o produto contrabandeado em caráter regular (e-STJ fls. 765), ou seja, reconheceu a habitualidade delitiva.
+4. Assim, ainda que a quantidade de cigarros contrabandeados seja inferior ao limite estabelecido pelo entendimento desta Corte Superior para o reconhecimento da insignificância penal (1.000 maços), não é possível a aplicação desse princípio, uma vez que há reiteração da conduta, o que afasta a mínima ofensividade penal.
+5. Agravo regimental não provido. (AgRg no AgRg no AREsp n. 2.399.291/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 6/10/2023.)
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
