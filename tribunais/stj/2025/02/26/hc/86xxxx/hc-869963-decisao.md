@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FELIPE ANTUNES TELLES e VOLNEI DE LIZ contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, nos autos do Embargos Infringentes e de Nulidades nº 5025629-56.2022.8.24.0039.
+O paciente Felipe Antunes Telles foi condenado, em primeira instância, à pena privativa de liberdade de 1 (um) ano de reclusão, em regime inicialmente aberto, bem como ao pagamento de 10 (dez)dias-multa, pela prática de furto simples, tendo sido o paciente Volnei de Liz absolvido.
+O Tribunal de origem, por maioria, deu provimento à apelação criminal interposta pela acusação para reconhecer a qualificadora de concurso de pessoas e condenar também o paciente Volnei de Liz, aplicando aos pacientes às penas de 2 anos de reclusão, em regime inicial aberto, e 10 dias- multa, pela prática do crime de furto qualificado pelo concurso de pessoas. Improvidos os embargos infringentes .
+Neste writ, requer-se seja reconhecida a ilegalidade do acórdão estadual para reconhecer o "privilégio" do §2º do art. 155, do Código Penal, em favor dos pacientes, aplicando-lhes exclusivamente a pena de multa (com a exclusão da pena de reclusão) ou, subsidiariamente, para reduzir-lhes a pena na fração de 1/3 a 2/3 na terceira fase da dosimetria penal.
+As informações foram prestadas ( fls.385/388, 389/429).
+O Ministério Público Federal ofereceu parecer (fls.434/436).
+RELATADO. DECIDO.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, passo a analisar a existência de eventual constrangimento ilegal.
+Cinge-se a controvérsia dos autos acerca de possível flagrante ilegalidade, consistente na não aplicação da causa de diminuição de pena em razão da configuração de furto privilegiado.
+Duas são as condições para reconhecimento da causa especial de diminuição de pena: primariedade e pequeno valor da res. Como ressaltou a defesa (fl.06 ) a respeito da dos requisitos legais:
+a) a primariedade dos PACIENTES, que foram reconhecidas na própria sentença em relação a FELIPE (Evento 53) e no próprio acórdão ora embargado em relação a VOLNEI (Evento 17), tanto que lhes foi fixado o regime inicial aberto;
+b) o pequeno valor da res, ou seja, uma bateria de caminhão avaliada em R$ 900,00, com valor inferior ao salário mínimo vigente à época do fato (R$ 1.212,00 - Lei n. 14.358/2022, art. 1.º)
+O Ministério Público Federal (fl.436) opinou pela aplicação da causa especial de diminuição da pena prevista no §2º, do artigo 155 do CP, já que ocorreu o reconhecimento do pequeno valor da res furtiva e primariedade dos pacientes.
+Ressalte-se, ainda, que a Súmula 511 do STJ estabelece que : "É possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crime de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva".
+Ante o exposto, não conheço o habeas corpus, mas concedo em parte a ordem de ofício para reconhecer a causa de diminuição de pena prevista no §2º, do artigo 155 do CP em 1/3, redimensionando a pena dos pacientes FELIPE ANTUNES TELLES e VOLNEI DE LIZ para 1(um) ano e 04 ( quatro meses) de reclusão, em regime aberto e 06 dias-multa, no valor de 1/30 do salário mínimo, substituída a reclusão por prestação de serviços comunitários e limitação de fim de semana, na forma do §2º, do artigo 44 do CP.
+Publique-se. Intimem-se.
+EMENTA
