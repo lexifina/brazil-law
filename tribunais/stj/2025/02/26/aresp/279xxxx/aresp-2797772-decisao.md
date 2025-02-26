@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLARA REGINA DA SILVA HELLVIG contra a decisão que inadmitiu o recurso especial com fundamento na falta de prequestionamento dos dispositivos legais invocados, incidência das Súmulas n. 282 e 356 do STF e na ausência de impugnação direta e específica da decisão recorrida, aplicação da Súmula n. 283 do STF (fls. 70-73).
+Nas razões do agravo, a parte recorrente alega que o Tribunal de origem não apreciou a matéria à luz dos dispositivos legais indicados, quais sejam, os artigos 2º e 28 do Código Civil, e que houve erro na decisão ao não permitir o pagamento parcelado da dívida, conforme previsto no art. 805 do CPC (fls. 81-84).
+Na contraminuta, a parte agravada aduz que a decisão deve ser mantida, pois a recorrente não apresentou argumentos suficientes para reformar a decisão, reiterando que a dívida condominial possui natureza propter rem, o que justifica a penhora do imóvel (fls. 89-92).
+O recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de ação de cobrança de cotas condominiais.
+O acórdão recorrido foi assim ementado (fls. 47-47):
+AGRAVO DE INSTRUMENTO. CONDOMÍNIO. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. FASE DE CUMPRIMENTO DE SENTENÇA. PENHORA DO IMÓVEL QUE DEU ORIGEM À DÍVIDA. POSSIBILIDADE DADA A NATUREZA PROPTER REM DA OBRIGAÇÃO CONDOMINIAL. CUIDANDO-SE DE AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS, DADA A NATUREZA PROPTER REM DA OBRIGAÇÃO, POSSÍVEL QUE A PENHORA RECAIA SOBRE O IMÓVEL QUE ORIGINOU O DÉBITO, INDEPENDENTE DE QUEM SEJA O PROPRIETÁRIO REGISTRAL. PRECEDENTES. AGRAVO DE INSTRUMENTO PROVIDO. UNÂNIME.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte alega violação dos seguintes artigos:
+a) 805 do CPC, pois o credor deve optar pelo recebimento da dívida de forma menos onerosa para o devedor, sendo possível o pagamento parcelado (fls. 52-57).
+Requer o provimento para que se reforme o acórdão recorrido, permitindo o pagamento parcelado da dívida e a retirada da penhora sobre o imóvel.
+Nas contrarrazões, a parte recorrida aduz que a decisão deve ser mantida, pois a recorrente não apresentou argumentos suficientes para reformar a decisão, reiterando que a dívida condominial possui natureza propter rem, o que justifica a penhora do imóvel (fls. 63-67).
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na falta de prequestionamento dos dispositivos legais invocados, incidência das Súmulas n. 282 e 356 do STF e na ausência de impugnação direta e específica da decisão recorrida, aplicação da Súmula n. 283 do STF (fls. 70-73).
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, limitando-se a afirmar que infirmou todos os fundamentos do decisium recorrido, tendo sido negado pelo presidente do TJRS, nos termos do art. 932, III, do CPC, cumulado com o enunciado da Súmula n. 182 do STJ e, por analogia, o enunciado da Sumula n. 283 do STF, e que a matéria foi devidamente prequestionada.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
