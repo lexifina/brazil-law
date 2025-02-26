@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por NOTRE DAME INTERMEDICA SAUDE S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 270):
+APELAÇÃO. Plano de saúde. Período contratual de carência para procedimento de parto. Parto de urgência cuja cobertura foi negada pela operadora do plano de saúde. Sentença de procedência, para afastar a exigibilidade do custeio em face dos autores, condenado a ré em danos morais. Inconformismo da parte ré. Não acolhimento. Parte autora, ora apelada, que já era cliente há aproximadamente cinco anos do plano de saúde fornecido pela demandada. Renovação contratual no meio da relação de trato sucessivo, sem que houvesse justo motivo para imposição de novos períodos de carência, em patente violação ao artigo 51, inciso IV, do Código de Defesa do Consumidor. Boa-fé contratual exigível e não observada. Desvantagem exagerada em desfavor da parte hipossuficiente evidente. Recusa indevida. Ilícito civil caracterizado. Sentença mantida. Recurso não provido.
+Os embargos de declaração opostos foram acolhidos para sanar erro material (fls. 279-282).
+No recurso especial, a NOTRE DAME alega que o acórdão recorrido violou os arts. 104, 138, 166, 186, 422, 436 e 987 do Código Civil; o art. 85, §2º, do CPC; os arts. 12, inciso V, e 35 - C, inciso II, e parágrafo único, da Lei n. 9.656/1998.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões (fls. 374-392).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 374-392), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 414-430).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, não analisou, sequer implicitamente, os arts . 12, V, "b", 35-C da Lei n. 9.656/1998, 104, 138, 166, 186 e 927 do CC.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, cito:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais e, caso persistisse tal omissão, imprescindível a alegação devidamente fundamentada de violação do art. 1.022 do CPC, quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Cabe ressaltar que os em bargos opostos pela parte às fls. 275-278 suscitaram apenas questões relacionadas à fixação dos honorários advocatícios.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATU ITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MATÉRIAS NÃO IMPUGNADAS. PRECLUSÃO. ART. 927, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSTOS EMBARGOS DE DECLARAÇÃO. SÚMULAS N. 282 E 356 DO STF. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+(..)
+3. "A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - (..) acarreta a preclusão da matéria não impugnada (..)" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+4. Ausente o enfrentamento da matéria pelo acórdão recorrido e não opostos embargos de declaração com vistas a sanar o vício, inviável o conhecimento da matéria, por falta de prequestionamento.
+Incidência das Súmulas n. 282 e 356 do STF.
+(..)
+(AgInt no AREsp n. 2.428.950/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Consoante a jurisprudência desta Corte, o Código de Defesa do Consumidor não se aplica aos casos em que o produto ou serviço é contratado para a implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo, nos termos da teoria finalista ou subjetiva. Precedentes.
+1.1 A revisão das conclusões do Tribunal de origem, no sentido de que o financiamento obtido foi utilizado para o fomento da economia da empresa recorrente, não se enquadrando como consumidora para efeito da incidência do diploma consumerista, demandaria o reexame da matéria fático-probatória dos autos, providência vedada ante o óbice da Súmula 7/STJ.
+2. "A jurisprudência desta Corte orienta, há muito, que a transação pode ser celebrada sem a assistência de advogado" (AgInt no AREsp 1730181/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJ 17/06/2021). Precedentes.
+3. Em relação aos artigos 515 e 1013 do CPC/15, incidem os enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a matéria contida em tais dispositivos não tiveram o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.939.214/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/2/2022, DJe de 9/3/2022.)
+No tocante ao mérito e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 5 e 7 do Superior Tribunal de Justiça, uma vez que alterar o decidido no acórdão impugnado, de que houve violação do princípio da boa-fé contratual por parte do plano de saúde, exige a análise de cláusulas contratuais e o reexame de fatos e provas, o que é vedado, em recurso especial, pelas Súmulas n. 5 e 7 do STJ.
+A propósito, cito o seguinte precedente:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. INDENIZAÇÃO. DOENÇA PREEXISTENTE. COMPROVAÇÃO. MÁ-FÉ OBJETIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REFORMA DO JULGADO. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA N.º 211 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O conteúdo normativo referente aos arts. 4º, III, 6º, III, 46 e 54, § 4º, todos do CDC; 765 do CC/02 e 373 do CPC, não foi objeto de debate no v. acórdão recorrido, mesmo após a interposição de embargos declaratórios, carecendo, portanto, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais. Aplicável, assim, a Súmula n.º 211 do STJ.
+2. Qualquer outra análise acerca do dever de informação e violação ao princípio da boa-fé objetiva seria inviável em virtude da imprescindível necessidade de reexame da prova e do contrato de seguro, aqui obstada por força das Súmulas n.os 5 e 7, ambas do STJ.
+3. Quanto ao dissídio, em primeiro lugar, a aplicação das Súmulas n. os 5, 7 e 211, todas do STJ, prejudica o exame da pretensão recursal fundada na alínea c do permissivo constitucional. Em segundo lugar, verifica-se que os agravantes indicaram, de forma clara e objetiva, quais os dispositivos legais que porventura foram violados e também não se desincumbiram de demonstrar o necessário cotejo analítico, não atendendo, portanto, os requisitos dos arts. 1.029, § 1º, do CPC, e 255 do RISTJ, o que inviabiliza o exame do apontado dissídio.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.568.061/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ CONTRATUAL. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO IMPROVIDO.
