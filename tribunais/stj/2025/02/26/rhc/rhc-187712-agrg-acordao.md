@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Joel Ilan Paciornik.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Trancamento de inquérito policial. Retroatividade da lei penal mais benéfica. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus, no qual se pleiteava o trancamento de inquérito policial sob alegação de decadência do direito de representação e ausência de condição de procedibilidade.
+2. O Tribunal a quo entendeu que, embora o crime tenha sido praticado antes da vigência da Lei n. 13.964/19, a intimação da vítima para representação seria necessária, conforme a nova legislação, e que o prazo decadencial de 6 meses deveria ser contado a partir da intimação do ofendido.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a retroatividade da Lei n. 13.964/19, que alterou a natureza da ação penal do crime de estelionato, exige a intimação da vítima para representação.
+4. Outra questão é se a ausência de flagrante ilegalidade justifica o trancamento do inquérito policial na fase de investigação, sem a necessidade de exame aprofundado das provas.
+III. Razões de decidir
+5. O Tribunal a quo corretamente considerou que deve ocorrer a retroatividade da Lei n. 13.964/19, com a intimação da vítima para representação, conforme entendimento consolidado pelo Supremo Tribunal Federal.
+6. A análise das alegações da defesa demandaria revolvimento de matéria fático-probatória, o que não é cabível na via eleita do habeas corpus.
+IV. Dispositivo e tese
+7. Agravo não provido.
+Tese de julgamento: "1. A retroatividade da Lei n. 13.964/19 exige a intimação da vítima para representação em crimes de estelionato praticados antes de sua vigência e a partir daí começa a correr o prazo decadencial. 2. O trancamento de inquérito policial é medida excepcional, cabível apenas quando houver flagrante ilegalidade, atipicidade da conduta ou ausência de indícios de autoria e materialidade do delito".
+Dispositivos relevantes citados: Código Penal, art. 171, § 5º; Lei n. 13.964/2019.
+Jurisprudência relevante citada: STF, HC 208.817 AgRg, Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023; STJ, AgRg no RHC 44.336/BA, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PEDRO PAULO OLIVEIRA ZUCCHI contra decisão singular que negou provimento ao recurso em habeas corpus.
+O agravante reitera a necessidade de trancamento do inquérito policial, "ante a ocorrência da decadência do direito de representação e consequente ausência de condição de procedibilidade" (fl. 97).
+Sustenta que "quando a nova lei entrou em vigor, os fatos tinham acabado de acontecer, não havendo, portanto, qualquer investigação em curso. Dessa forma, mostra-se descabida a argumentação da r. decisão e se mostra certa a ocorrência da decadência do direito de representação da vítima" (fl. 95).
+Aduz que "em nenhum momento a defesa alegou que a intimação da vítima não teria se dado de forma idônea. Em segundo, porque o único ponto suscitado pela defesa foi analisado pelas instâncias inferiores e evidentemente não demanda revolvimento de matéria fático-probatória" (fl. 97).
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Trancamento de inquérito policial. Retroatividade da lei penal mais benéfica. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus, no qual se pleiteava o trancamento de inquérito policial sob alegação de decadência do direito de representação e ausência de condição de procedibilidade.
+2. O Tribunal a quo entendeu que, embora o crime tenha sido praticado antes da vigência da Lei n. 13.964/19, a intimação da vítima para representação seria necessária, conforme a nova legislação, e que o prazo decadencial de 6 meses deveria ser contado a partir da intimação do ofendido.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a retroatividade da Lei n. 13.964/19, que alterou a natureza da ação penal do crime de estelionato, exige a intimação da vítima para representação.
+4. Outra questão é se a ausência de flagrante ilegalidade justifica o trancamento do inquérito policial na fase de investigação, sem a necessidade de exame aprofundado das provas.
+III. Razões de decidir
+5. O Tribunal a quo corretamente considerou que deve ocorrer a retroatividade da Lei n. 13.964/19, com a intimação da vítima para representação, conforme entendimento consolidado pelo Supremo Tribunal Federal.
+6. A análise das alegações da defesa demandaria revolvimento de matéria fático-probatória, o que não é cabível na via eleita do habeas corpus.
+IV. Dispositivo e tese
+7. Agravo não provido.
+Tese de julgamento: "1. A retroatividade da Lei n. 13.964/19 exige a intimação da vítima para representação em crimes de estelionato praticados antes de sua vigência e a partir daí começa a correr o prazo decadencial. 2. O trancamento de inquérito policial é medida excepcional, cabível apenas quando houver flagrante ilegalidade, atipicidade da conduta ou ausência de indícios de autoria e materialidade do delito".
+Dispositivos relevantes citados: Código Penal, art. 171, § 5º; Lei n. 13.964/2019.
+Jurisprudência relevante citada: STF, HC 208.817 AgRg, Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023; STJ, AgRg no RHC 44.336/BA, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelas agravantes, devendo a decisão ser mantida por seus próprios fundamentos.
+Confira-se a fundamentação apresentada pelo Tribunal a quo:
+" ..
+No caso tratado, a consumação de eventual crime teria ocorrido antes da entrada em vigor do pacote anticrime, mas os fatos ainda estão sendo apurados. Assim, era mesmo necessária a intimação da vítima para que se procedesse a representação, nos termos da nova lei, sendo, a priori, correto o entendimento do MP da necessidade do prazo decadencial de 6 meses a partir da intimação do ofendido e não da vigência da lei, como quer o impetrante.
+Mesmo que assim não fosse, como bem anotou a Procuradoria, o feito ainda se encontra na fase de investigação, sendo que a capitulação jurídica dos fatos, será aclarada após a colheita de elementos nos autos do inquérito. Após, caberá ao Parquet oferecer a denúncia ou não contra o ora paciente, cuja conduta criminosa ainda está sendo esclarecida e tipificada" (fls. 31/32; grifo nosso).
+De início, registra-se que "o trancamento do inquérito policial, assim como da ação penal, é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria de provas sobre a materialidade do delito" (AgRg no RHC 44.336/BA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 18/12/2020).
+No caso, não verifica-se a existência de flagrante ilegalidade, detectável de plano, que justifique o prematuro trancamento do inquérito policial. O Tribunal a quo ressaltou que, tendo o delito, em tese, sido praticado antes da vigência da Lei n. 13.964/19, mostrou-se necessária a intimação da vítima para preencher a condição de procedibilidade da ação penal, o que teria ocorrido.
+Tal posicionamento não diverge do entendimento desta Corte.
+A defesa, na petição inicial e no agravo regimental, afirma que a questão não seria corretamente resolvida da referida forma (por meio da intimação da vítima). Conforme asseverado na decisão agravada, para acolher tais alegações - no sentido de que não teriam sido respeitados os prazos legais e que a intimação teria sido efetivada de forma inidônea -, não abordadas especificamente na origem, seria necessário o revolvimento da matéria fático-probatória, providência incabível na via eleita.
+Sobre os temas:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. PRETENDIDA APLICAÇÃO RETROATIVA DO ART. 171, §5º, DO CÓDIGO PENAL, INCLUÍDO PELA LEI N. 13.964/2019 (PACOTE ANTICRIME). ENTENDIMENTO DO STF PELA RETROATIVIDADE DA LEI NOVA. NECESSIDADE DE NÃO ESTAR DEMONSTRADO O INTERESSE DA VÍTIMA NA PERSECUÇÃO PENAL. NO CASO CONCRETO, FOI DETERMINADO PELA CORTE ESTADUAL A INTIMAÇÃO DAS VÍTIMAS PARA QUE EXERÇAM, OU NÃO, O DIREITO DE REPRESENTAÇÃO. AGRAVO NÃO PROVIDO.
+1. O Supremo Tribunal Federal pacificou a divergência até então existente entre suas Turmas e, por maioria, proclamou a retroatividade da lei nova, mesmo após o recebimento da denúncia anterior à Lei n. 13.964/2019. Precedente: HC 208.817 AgRg, Relatora Ministra Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023, DJe 2/5/2023.
+2. Neste precedente restou assentado que a retroatividade da lei deve ser aplicada apenas àqueles casos em que não haja demonstração inequívoca do interesse da vítima na persecução penal. Ainda assim, se inexistentes elementos indicativos da vontade da vítima na persecução penal, deve o magistrado proceder à intimação dos ofendidos para que apresentem eventual representação.
+3. O entendimento adotado pelo Tribunal de origem, que reconheceu a retroatividade da norma e determinou a intimação das vítimas para que exerçam o direito de representação, encontra amparo na jurisprudência desta Corte Superior e do próprio Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 2.468.274/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024; sem grifos no original.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO. PRETENDIDA APLICAÇÃO DO § 5º DO ART. 171 DO CÓDIGO PENAL, ACRESCENTADO PELA LEI Nº 13.964/2019 (PACOTE ANTICRIME). CONDIÇÃO DE PROCEDIBILIDADE. REPRESENTAÇÃO DA VÍTIMA QUE DISPENSA FORMALIDADES. PRECEDENTES. TRANCAMENTO. INÉPCIA DA DENÚNCIA. MATÉRIA NÃO DEBATIDA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. INICIAL QUE DESCREVE CONDUTA TÍPICA E TRAZ PROVA DA MATERIALIDADE E INDÍCIOS DE AUTORIA. RECURSO ORDINÁRIO NÃO PROVIDO.
+1. A Lei n. 13.964/2019, de 24 de dezembro de 2019, conhecida como "Pacote Anticrime", alterou substancialmente a natureza da ação penal do crime de estelionato (art. 171, § 5º, do Código Penal), sendo, atualmente, processado mediante ação penal pública condicionada à representação do ofendido, salvo se a vítima for: a Administração Pública, direta ou indireta; criança ou adolescente; pessoa com deficiência mental; maior de 70 anos de idade ou incapaz.
+2. Observa-se que o novo comando normativo apresenta caráter híbrido, pois, além de incluir a representação do ofendido como condição de procedibilidade para a persecução penal, apresenta potencial extintivo da punibilidade, sendo tal alteração passível de aplicação retroativa por ser mais benéfica ao réu. Contudo, além do silêncio do legislador sobre a aplicação do novo entendimento aos processos em curso, tem-se que seus efeitos não podem atingir o ato jurídico perfeito e acabado (oferecimento da denúncia), de modo que a retroatividade da representação no crime de estelionato deve se restringir à fase policial, não alcançando o processo. Do contrário, estar-se-ia conferindo efeito distinto ao estabelecido na nova regra, transformando-se a representação em condição de prosseguibilidade e não procedibilidade.
+Doutrina: Manual de Direito Penal: parte especial (arts. 121 ao 361) / Rogério Sanches Cunha - 12. ed. rev., atual. e ampl. - Salvador: Editora JusPODIVM, 2020, p. 413.
+No mesmo sentido, recentes julgado deste Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+3. No caso, embora a denúncia tenha sido oferecida após a entrada em vigor da Lei nº 13.964/2019, exigindo-se, portanto, a representação das vítimas como condição de procedibilidade da ação penal, conforme pontuou o Tribunal a quo, ficou demonstrada a intenção das vítimas em autorizar a persecução criminal, sendo dispensável a formalidade, conforme já consolidado pelo Superior Tribunal de Justiça (AgRg no REsp 1550571/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 5/11/2015, DJe de 23/11/2015; AgRg na PET no AREsp 1649986/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 23/06/2020, DJe 30/06/2020; AgRg no REsp 1872308/DF, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 15/09/2020, DJe 21/09/2020; AgRg no AREsp 1668091/PR, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 25/08/2020, DJe 04/09/2020, entre outros).
+4. Por outro lado, a ausência de prévio exame das teses defensivas pelo Tribunal de origem desautoriza a análise direta dos temas por esta Corte, sob pena de subversão do sistema recursal e indevida supressão de instância.
+5. O fato de o impetrante haver suscitado o tema na origem não é suficiente para trazê-lo ao debate no Superior Tribunal de Justiça, pois caberia à defesa buscar suprir a prestação jurisdicional omissa opondo embargos de declaração.
+6. Ademais, não se admite, em regra, o trancamento de ação penal por meio de habeas corpus, exceto quando ficar provada, inequivocamente, sem a necessidade de exame valorativo do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade, ou, ainda, a ausência de indícios de autoria ou de prova da materialidade do delito (RHC n. 43.659/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 15/12/2014).
+7. As questões trazidas a debate pelo recorrente dependem de exame verticalizado do conjunto probatório, pois dizem respeito à dinâmica dos fatos e dependem de análise dos elementos de convicção colacionados no curso da instrução. Essa providência, contudo, não é cabível em sede de habeas corpus, de amplitude cognitiva demasiado estreita para propiciar a análise aprofundada do conjunto probatório.
+8. Recurso ordinário não provido.
+(RHC n. 135.683/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/10/2020, REPDJe de 12/11/2020, DJe de 03/11/2020; sem grifos no original.)
+Ante o exposto, voto pelo desprovimento do recurso.
