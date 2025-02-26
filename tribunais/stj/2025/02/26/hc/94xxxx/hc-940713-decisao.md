@@ -1,0 +1,16 @@
+DECISÃO
+ANDERSON MEIRA SANTANA e ALEX SANDRO SANTOS SILVA alegam ser vítimas de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500108-74.2023.8.26.0510.
+Consta dos autos que os pacientes foram condenados pela prática do crime de tráfico de drogas.
+A defesa aduz, como tese principal, que a condenação dos réus teve como suporte depoimentos contraditórios prestados pelos agentes estatais que efetuaram a prisão em flagrante, pelo que pede a absolvição. Também sustenta ilegalidade no reconhecimento fotográfico do paciente Anderson, que ocorreu em violação do disposto no art. 226 do CPP, e não pode servir para fundamentar a condenação.
+Subsidiariamente, pleiteia a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 e a fixação de regime inicial mais brando de cumprimento de pena para o acusado Anderson.
+Não houve pedido de liminar.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem.
+Decido.
+Este habeas corpus foi impetrado em 27/8/2024 e se insurge contra acórdão de apelação proferido em 6/2/2024. Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, verifico que a decisão transitou em julgado em 4/6/2024 (fl. 425 dos autos originários) e, pelos documentos constantes neste processo, não se verifica o ajuizamento de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
