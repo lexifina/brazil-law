@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JAIME NUNES SOARES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na apelação criminal n. 1501693-22.2019.8.26.0052.
+Depreende-se dos autos que o paciente foi absolvido pelo Tribunal do Júri da acusação da prática dos delitos previstos no artigo 121, § 2º, inciso IV, e no artigo 121, § 2º, inciso IV, c. c. o artigo 14, inciso II, na forma do artigo 69, todos do Código Penal.
+Irresignado, o Ministério Público Estadual interpôs apelação, ao final provida pelo Tribunal de origem a fim de submeter o paciente a novo julgamento pelo Tribunal do Júri, bem como para restabelecer a prisão preventiva.
+No presente writ, o impetrante insurge contra o restabelecimento da segregação provisória do paciente. Defende não estarem preenchidos os requisitos necessários para a manutenção da custódia preventiva.
+Requer, inclusive liminarmente, a suspensão do trâmite da ação penal na origem até o julgamento deste mandamus e seja concedido ao paciente salvo conduto para responder em liberdade até o eventual trânsito em julgado da condenação.
+Inteiro teor do acórdão impetrado às fls. 25/34.
+Decisão que indeferiu a liminar requerida às fls. 48/51.
+Informações prestadas pelo Tribunal de origem às fls. 63/76.
+Parecer do MPF, às fls. 87/91, onde se manifesta pelo não conhecimento do writ.
+É o relatório. Decido.
+De início, observo que a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Isto porque o Tribunal impetrado fundamentou o acórdão anulatório de maneira adequada, clara e coerente, subsidiado pelos elementos de prova que guarneceram os autos, em especial, os relatos fornecidos pela vítima sobrevivente, além da investigação realizada pelos agentes policiais que confirmaram as características do automóvel utilizado no dia do crime do qual teriam saídos os disparos que ceifaram a vida de uma das vítimas, elementos estes que se mostraram suficientes, de acordo com o entendimento da Corte local, para caracterizar a sentença como manifestamente contrária à prova dos autos nos termos do art. 593, III, "d", do Código de Processo Penal.
+Válido frisar que a Terceira Seção desta Corte Superior, ao apreciar o HC n. 323.409/RJ, em julgamento realizado em 28/2/2018, acolhendo, por maioria, voto do Ministro FELIX FISCHER, firmou entendimento no sentido de que a anulação da decisão absolutória do Conselho de Sentença - ainda que por clemência - manifestamente contrária à prova dos autos, segundo o Tribunal de Justiça, por ocasião do exame do recurso de apelação interposto pelo Ministério Público baseado no art. 593, inciso III, alínea "d", do Código de Processo Penal não viola a soberania dos veredictos, ou seja, a decisão de clemência será passível de revisão pelo Tribunal de origem quando não houver respaldo fático mínimo nos autos que dê suporte à benesse.
+Acresça-se, ainda, que o Tribunal impetrado fundamentou adequadamente a decisão pela manutenção da custódia cautelar, eis que descrita nos autos a tentativa de coação da principal testemunha do caso, o que revela a adequação e proporcionalidade da medida que visa à conveniência da instrução criminal, atendidos, ainda, os demais requisitos objetivos previstos nos artigos 312 e 313 do CPP.
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
