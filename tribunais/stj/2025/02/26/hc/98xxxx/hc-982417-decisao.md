@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de CARLOS MICHEL DOS SANTOS SOUZA - condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 anos e 6 meses de reclusão, em regime inicial fechado (Ação Penal n. 1501525-97.2023.8.26.0660) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação Criminal n. 1501525-97.2023.8.26.0660), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois indicado fundamento concreto para justificar o afastamento da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, pois a elevada quantidade de drogas apreendidas, aliada às circunstâncias fáticas do delito,  ..  permite aferir o grau de envolvimento do Réu com a criminalidade organizada e/ou a sua dedicação às atividades delituosas e, por consequência, obstar o reconhecimento do tráfico privilegiado (AgRg no HC n. 661.017/SP, Ministra Laurita Vaz, Sexta Turma, DJe 14/5/2021).
+Ademais, não é possível desconstituir a conclusão da Jurisdição ordinária sobre a dedicação da agravante a atividades criminosas e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4 º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+Em relação o regime inicial, a existência de circunstância judicial desfavorável, que ensejou a exasperação da pena-base - quantidade de droga apreendida - é dado suficiente para lastrear o agravamento do regime inicial de cumprimento de pena e a impossibilidade da substituição por restritiva de direitos (AgRg no HC n. 886.712/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/4/2024).
+O quantum de pena aplicado (5 anos e 6 meses de reclusão) impede a substituição da pena privativa de liberdade por pena restritiva de direitos, na forma do art. 44, I, do CP.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. DEVIDAMENTE FUNDAMENTADA. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
