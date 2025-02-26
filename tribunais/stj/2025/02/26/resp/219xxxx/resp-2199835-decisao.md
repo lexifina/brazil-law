@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESPÓLIO DE MÁRCIO BARBOSA GOMES contra a decisão que inadmitiu o recurso especial com fundamento na ausência de prequestionamento quanto à fixação de honorários (Súmula n. 282 do STF) e na necessidade de reexame de matéria fático-probatória (Súmula n. 7 do STJ), além de considerar que a alegação de negativa de prestação jurisdicional não prospera, pois o Tribunal a quo teria decidido a matéria de forma fundamentada, analisando todas as questões necessárias à solução da lide (fls. 1.128-1.134).
+Nas razões do agravo, a parte alega que os requisitos suficientes ao recebimento de recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão de fl. 1.162.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em apelação nos autos de ação de usucapião.
+O acórdão recorrido foi assim ementado (fl. 511):
+PROTOCOLO INTEGRADO. INTERPOSIÇÃO. DO RECURSO NA COMARCA DE ORIGEM. INTEMPESTIVIDADE AFASTADA. USUCAPIÃO. POSSE. SUCESSÃO. HERDEIROS. VOTO VENCIDO. Se o recurso é apresentado na comarca de origem em observância ao prazo previsto no CPC, resta caracterizada a sua tempestividade. Com o falecimento, a posse do de cujus transmite-se para todos os herdeiros com as mesmas características. Se apenas um destes exercer a posse direta, os demais serão possuidores indiretos. Preliminar rejeitada e recurso não provido. VV.: Em sede de usucapião, não há de se falar em composse decorrente de comunhão de herdeiros, quando já verificado o decurso do prazo prescricional para ser requerida a partilha do bem que se pretende usucapir. Provada a posse exclusiva por parte do autor, com "animus domini", somada aos demais requisitos exigidos pela lei material, impõe-se a procedência do pedido, com a declaração do usucapião. (Des. Alberto Aluizio Pacheco de Andrade).
+Os embargos de declaração opostos foram rejeitados (fls. 546-550).
+No recurso especial, a parte alega, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.238, parágrafo único, do CC de 2002, 141 do CPC de 2015 e 942 do CPC de 1973, porque a citação pessoal dos herdeiros de Amilar Barbosa Gomes é desnecessária, visto que o pedido inicial foi deduzido em nome próprio pelo autor, que preencheu os requisitos para configuração da usucapião (fls. 1.104-1.119);
+b) 1.772, § 2º, do CC de 1916 e 487, II, do CPC de 2015, pois não se reconheceu a prescrição de eventual exceção por parte do espólio de Amilar Barbosa Gomes, que faleceu há mais de 28 anos (fls. 1.104-1.119);
+c) 85 do CPC de 2015, visto que não foram fixados honorários sucumbenciais em desfavor do espólio de Belarmina Cesária de Lima, que teve sua pretensão de resistência rechaçada pelo Tribunal (fls. 1.104-1.119);
+d) 489, § 1º, IV, e 1.022, II, do CPC de 2015, pois, no julgamento dos aclaratórios, não foram enfrentados todos os argumentos deduzidos no processo, capazes de, em tese, infirmar a conclusão adotada pelo julgador (fls. 1.104-1.119).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando-se a determinação de citação pessoal dos herdeiros de Amilar Barbosa Gomes, tendo em vista a prescrição de eventual exceção por parte do espólio de Amilar Barbosa Gomes, e fixando-se honorários sucumbenciais em desfavor do Espólio de Belarmina Cesária de Lima. Pede também que o Tribunal de Justiça de Minas Gerais se pronuncie sobre todas as omissões suscitadas em embargos de declaração.
+Não foram apresentadas contrarrazões, conforme a certidão de fl. 1. 127.
+É o relatório. Decido.
+Ante as razões apresentadas pela parte agravante, para melhor exame da matéria, dou provimento ao presente agravo a fim de determinar sua conversão em recurso especial sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
+EMENTA
