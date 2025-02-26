@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido formulado pelo MINISTÉRIO PÚBLICO FEDERAL, em face da decisão proferida pela Quinta Turma deste Tribunal Superior, na qual se proveu parcialmente o agravo regimental para manter o reconhecimento dos pressupostos do acordo de não persecução penal, sem anular a ação penal, determinando que o Ministério Público Federal se manifeste sobre a possibilidade ou não de firmar o acordo com o acusado, in verbis:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. POSSIBILIDADE APÓS A SENTENÇA. NÃO AFETAÇÃO DE DECISÕES JÁ PROFERIDAS. AGRAVO PARCIALMENTE PROVIDO.
+I. Caso em exame 1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que deu provimento a recurso em habeas corpus, anulando a Ação Penal n. 1502510-78.2023.8.26.0559 desde a sentença penal condenatória, para que o Ministério Público se manifeste sobre a possibilidade de acordo de não persecução penal.
+2. O agravante alega que, após oferecida a denúncia, não é possível propor o acordo de não persecução penal, especialmente quando já há condenação, ainda que passível de recurso.
+II. Questão em discussão 3. A questão em discussão consiste em saber se é possível a aplicação do acordo de não persecução penal após a prolação de sentença condenatória, considerando a alteração do enquadramento jurídico ou desclassificação do delito.
+4. A discussão também envolve a aplicação retroativa do art. 28-A do CPP e a possibilidade de o Ministério Público oferecer o acordo em processos já em curso quando da promulgação da Lei 13.964/2019.
+III. Razões de decidir 5. A Quinta Turma do STJ estabeleceu que, em casos de alteração do enquadramento jurídico ou desclassificação do delito, é possível aplicar o acordo de não persecução penal, desde que preenchidos os requisitos legais.
+6. O Plenário do STF, no julgamento do HC 185.913, firmou a tese de que "Nos processos penais em andamento na data da proclamação do resultado deste julgamento, nos quais, em tese, seja cabível a negociação de ANPP, se este ainda não foi oferecido ou não houve motivação para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, após a publicação da ata deste julgamento, manifestar-se motivadamente acerca do cabimento ou não do acordo".
+7. A Suprema Corte definiu, ademais, que o referido "julgamento não afeta, em nenhuma medida, as decisões já proferidas e, ainda, que a deliberação sobre o cabimento, ou não, do ANPP deverá ocorrer na instância em que o processo se encontrar".
+IV. Dispositivo e tese
+8. Agravo parcialmente provido para manter o reconhecimento dos pressupostos do acordo de não persecução penal, sem anular a ação penal, determinando que o Ministério Público Federal se manifeste sobre a possibilidade ou não de firmar o acordo com o acusado" (e-STJ, fls. 356-362)
+Alega o requerente que "deverão ser consideradas as condições objetivas e subjetivas, incluindo o preenchimento dos requisitos, a necessidade e a suficiência do ANPP para reprovação e prevenção do crime, o que poderá ser melhor analisado pelo Membro oficiante em primeiro grau de jurisdição, aonde se realizou toda a instrução processual penal" (e-STJ, fls. 368-369).
+Requer, assim, que seja determinado o retorno dos autos ao Tribunal de origem, com a devida intimação do órgão ministerial em primeiro grau para manifestação sobre o cabimento do Acordo de Não Persecução Penal, nos termos do art. 28-A do CPP.
+É o relatório.
+Decido.
+Defiro o pedido de e-STJ, fls. 368-369, para determinar a remessa dos autos ao juízo criminal para proceder à intimação do Ministério Público a fim de avaliar a proposta de Acordo de Não Persecução Penal (ANPP), no prazo de 15 dias, em conformidade com o estabelecido no art. 217 do RISTJ, aplicado por analogia ao caso.
+Publique-se. Intimem-se.
+EMENTA
