@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual HALLIBURTON SERVIÇOS LTDA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 93):
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FAZENDA PÚBLICA. POSSIBILIDADE DE SUBSTITUIÇÃO DA PENHORA EM QUALQUER FASE DO PROCESSO, INDEPENDENTEMENTE DA ANUÊNCIA DO DEVEDOR. OBSERVÂNCIA DA ORDEM LEGAL. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PRECEDENTES DO STJ.
+1. De acordo com o art. 15, II, da Lei nº 6.830/80, a Fazenda Pública, em qualquer fase do processo, pode requerer a substituição da penhora, bem como o reforço da penhora insuficiente, independentemente da ordem enumerada no art. 11 da LEF.
+2. Nota-se que o legislador permitiu que a Fazenda Pública realize a substituição dos bens penhorados na execução fiscal por outros de maior liquidez, em qualquer fase do processo, independentemente da anuência do devedor.
+3. O Superior Tribunal de Justiça, no julgamento do REsp nº 1.337.790/PR, realizado sob a sistemática dos recursos repetitivos (Tema 578), consolidou o entendimento segundo o qual é legítima a recusa da Fazenda Pública de bem oferecido à penhora quando não observada a ordem prevista nos arts. 655 do CPC e 11 da Lei n. 6.830/80. O princípio da menor onerosidade do devedor, insculpido no art. 620 do CPC, tem de estar em equilíbrio com a satisfação do credor, sendo indevida sua aplicação de forma abstrata e presumida, cabendo ao executado fazer prova do efetivo prejuízo (AgRg no R Esp 1469455/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/02/2015, D Je 09/02/2015).
+4. Caso em que a Exequente pretende substituir a penhora de dois imóveis por ativos financeiros, os quais se encontram em primeiro lugar na ordem legal de nomeação de bens à penhora e possuem maior liquidez em relação aos primeiros. Além disso, a Agravante não comprovou a existência de prejuízo em razão da substituição.
+5. Agravo de instrumento a que nega provimento.
+Os embargos de declaração opostos foram desprovidos (fls. 167/169).
+Nas razões de seu recurso especial, a parte alega, além de dissídio jurisprudencial, violação dos arts. 805, 874, II, do Código de Processo Civil (CPC) e 9º, II, da Lei 6.830/1980. Aponta, para tanto, ser indevida a substituição dos bens penhorados sem a sua intimação para manifestação, e que essa substituição seria medida mais gravosa à executada.
+A parte adversa apresentou contrarrazões (fls. 218/227).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O Tribunal de origem entendeu ser possível a substituição da penhora pela fazenda pública nos autos da execução fiscal independentemente da anuência do devedor. Em complemento, fundamentou que não há demonstração de prejuízo por parte da executada, à luz dos seguintes fundamentos:
+O art. 15 da LEF estabelece as hipóteses em que deve ser deferida, de plano a substituição da garantia ofertada pelo devedor:
+Art. 15 - Em qualquer fase do processo, será deferida pelo Juiz:
+I - ao executado, a substituição da penhora por depósito em dinheiro, fiança bancária ou seguro garantia; e
+II - à Fazenda Pública, a substituição dos bens penhorados por outros, independentemente da ordem enumerada no artigo 11, bem como o reforço da penhora insuficiente.
+Nota-se, do dispositivo supracitado, que o legislador permitiu que a Fazenda Pública realize a substituição dos bens penhorados na execução fiscal por outros de maior liquidez, em qualquer fase do processo, independentemente da anuência do devedor.
+ ..
+Além disso, nos termos do art. 797 do CPC, a execução se realiza no interesse do credor, de forma que, conforme o entendimento firmado pelo STJ, cabe ao executado o ônus da prova quanto ao prejuízo decorrente da substituição da penhora ou quanto à ausência de liquidez do bem penhorado, na hipótese do art. 15, II, da Lei de Execuções Fiscais.
+Nesse sentido, o entendimento firmado pelo Superior Tribunal de Justiça, inclusive em julgamento realizado sob a sistemática dos recursos repetitivos (Tema 578):
+ ..
+Na origem, trata-se de execução fiscal ajuizada em 13/09/2017 para a cobrança de débitos de IRPJ e CSLL relativos ao período de 2009 a 2012.
+Citada, a Executada informou que ofereceu à garantia imóveis nos autos da ação cautelar nº 0165474- 58.2017.4.02.5101, que tramita perante a 6ª Vara Federal da Seção Judiciária do Rio de Janeiro (evento 7), no valor da totalidade do crédito cobrado na execução fiscal nº 0179241-66.2017.4.02.5101, que, à época do ajuizamento da ação (13/03/2017), alcançava R$117.409.968,89 (cento e dezessete milhões, quatrocentos e nove mil, novecentos e sessenta e oito reais e oitenta e nove centavos).
+Contudo, a União Federal não aceitou os bens oferecidos à penhora e requereu o bloqueio de ativos financeiros de titularidade da Executada via BACENJUD (evento 13), o que foi deferido pelo Juízo, sendo o resultado da diligência parcialmente positivo, com o bloqueio de R$ 2.708.206,28 (dois milhões, setecentos e oito mil, duzentos e seis reais e vinte e oito centavos) (evento 16).
+Em 13/03/2018, a título de reforço da penhora já existente, o Juízo determinou a expedição de mandado de penhora e avaliação dos imóveis oferecidos em garantia pela Executada (evento 22), sendo a diligência cumprida parcialmente, com a penhora do imóvel localizado na Av. Professor Aristeu Ferreira da Silva, nº 1000, Bairro Novo Cavaleiros, Macaé, avaliado aproximadamente em R$92.000.00,00 (noventa e dois milhões de reais) (evento 35, OUT29).
+A Executada requereu a substituição de um dos imóveis indicados à penhora (evento 28) que não seriam de sua propriedade, sobre o que não se manifestou a União Federal no prazo assinalado pelo Juízo, que deferiu o pedido incidental formulado pela devedora (evento 41) e determinou a expedição de mandado de avaliação e penhora do imóvel situado no Lote Remembrado 04-A da Quadra L do Loteamento Cabiunas 1º Prolongamento, no 2º Distrito de Macaé/RJ. A diligência teve resultado positivo, com a penhora do bem, avaliado em R$ 30.115.000,00 (trinta milhões e cento e quinze mil reais) (evento 46).
+No evento 63, a União Federal informou que a garantia foi anotada no cadastro da dívida.
+Em 16/11/2018, o Juízo determinou a suspensão da execução fiscal, tendo em vista a oposição de embargos à execução pela Executada (evento 65).
+No evento 69, a Exequente informou ao Juízo a existência de valores a serem levantados pela Executada nos autos da ação de rito ordinário nº 0004570- 79.2008.4.02.5101, em tramitação perante o Juízo da 27ª Vara Federal da Seção Judiciária do Rio de Janeiro.
+Diante disso, requereu a expedição de ofício àquele Juízo solicitando a penhora no rosto dos autos dos valores a serem levantados pela Executada, a título de reforço da penhora já existente, tendo em vista a iliquidez dos bens imóveis, bem como sua notória desvalorização após a grave crise econômica enfrentada pelo Estado do Rio de Janeiro, em especial, no setor de energia, e também em razão dos valores das penhoras já não serem suficientes à garantia integral do crédito tributário em cobrança, o que foi deferido na decisão agravada.
+No caso, como visto, a Exequente pretende substituir a penhora de dois imóveis por ativos financeiros, os quais se encontram em primeiro lugar na ordem legal de nomeação de bens à penhora e possuem maior liquidez em relação aos primeiros.  MCR1  IC2  Além disso, a Agravante não comprovou a existência de prejuízo em razão da substituição. Sendo assim, nos termos do art. 15, II, da LEF, autorizada a substituição da garantia em qualquer fase do processo, a decisão agravada deve ser mantida (fls. 95/98, sem destaques no original).
+A parte recorrente, nas razões do recurso especial, limita-se a alegar violação ao princípio do contraditório por não ter havido intimação acerca da substituição da penhora, bem como violação ao princípio da menor onerosidade.
+Como se vê, as razões recursais estão dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido, de modo que é aplicável ao presente caso, por analogia, o enunciado 284 da Súmula do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito, confiram-se os seguintes julgados desta Corte Superior:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento.
+(AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021, sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020, sem destaques no original.)
+No mais, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
