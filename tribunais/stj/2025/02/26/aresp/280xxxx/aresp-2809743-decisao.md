@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDICO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo em Recurso Especial interposto em: 18/11/2024.
+Concluso ao gabinete em: 13/02/2025.
+Ação: de obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais, ajuizada por ROMUALDO ESMERIO MENEZES, em face da agravante, visando à cobertura de atendimento na modalidade "home care", para tratamento de Esclerose Lateral Amiotrófica.
+Decisão interlocutória: deferiu o pedido de tutela de urgência para determinar que a agravante forneça à parte agravada o atendimento médico na modalidade "home care" (e-STJ, fls. 613/617).
+Acórdão recorrido: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. TUTELA DE URGÊNCIA ANTECIPATÓRIA. DEFERIMENTO EM 1ª INSTANCIA. ATENDIMENTO DOMICILIAR (HOME CARE). REQUISITOS SATISFEITOS PARA A ANTECIPAÇÃO DO PEDIDO. O deferimento da tutela de urgência depende da comprovação da plausibilidade do direito alegado, da existência de perigo de dano, ilícito ou de inefetividade do processo e que a medida seja reversível. Se o consumidor tem suas necessidades cobertas pelo plano de saúde em internação hospitalar, é devida a continuidade do tratamento em âmbito domiciliar. Previsão contratual que exclui o atendimento domiciliar não prevalece ante o princípio da boa-fé objetiva, por ser ofensiva à própria finalidade precípua do contrato. (e-STJ, fl. 663)
+Recurso especial: alega a violação dos arts. 5º, II, IV e XXXVI, da CF/88 e 300, §3º, do CPC. Sustenta a não observância dos requisitos necessários para a concessão da liminar requerida pela pare agravada, quais sejam, a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo, bem como que a referida concessão foi baseada em juízo de verossimilhança, e não de certeza. Além disso destaca que a tutela de urgência de natureza antecipada não deve ser concedida quando houv er perigo de irreversibilidade dos efeitos da decisão (e-STJ, fls. 675/687).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional, de súmula ou ato normativo que não se enquadre no conceito de lei federal
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88
+- Da Súmula 735/STF
+De acordo com a pacífica jurisprudência do STJ, o recurso especial não comporta o exame de decisões de natureza precária, como é o caso de recursos envolvendo a concessão de medidas de urgência, passíveis de modificação ou revogação a qualquer tempo (aplicação, por analogia, da Súmula 735/STF). Nesse sentido: AgInt no Aresp 1.248.498/SP (3ª Turma, DJe de 29/6/2018) e AgInt no Aresp 980.165/BA (4ª Turma, DJe de 9/2/2018).
+Considerando a precariedade da decisão que deferiu o pedido de tutela de urgência, a qual pode ser alterada a qualquer tempo, desaconselha-se o conhecimento e julgamento de recurso especial que verse sobre o tema, exceto quando tratar dos requisitos legais de concessão da tutela antecipada e não exigir o reexame de matéria fática e probatória, o que não se coaduna com a hipótese dos autos.
+Dessa forma, não é possível discutir, em recurso interposto contra decisão que concede a tutela de urgência, a questão de fundo do direito (cobertura de atendimento na modalidade "home care" a paciente com diagnóstico de Esclerose Lateral Amiotrófica) sobre a qual versa a controvérsia.
+Forte nessas razões, CONHEÇO do agravo, para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL, DE SÚMULA OU ATO NORMATIVA DIVERSO DE LEI FEDERAL. DESCABIMENTO. DECISÃO QUE DEFERE OU INDEFERE TUTELA DE URGÊNCIA. RECURSO ESPECIAL. INCABÍVEL.
+1. Ação de obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. O recurso especial não comporta o exame de decisões de natureza precária, como é o caso de recursos envolvendo a análise de medidas de urgência, passíveis de modificação ou revogação a qualquer tempo (aplicação, por analogia, da Súmula 735/STF). Precedentes.
+4. Agravo conhecido. Recurso especial não conhecido.
