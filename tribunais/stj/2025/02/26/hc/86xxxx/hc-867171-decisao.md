@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JANDERSON DESIDÉRIO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente foi preso por meio de prisão temporária, posteriormente convertida em preventiva na data de 18/8/2023, em razão da suposta prática da conduta descrita no art. 33, caput, da Lei n. 11.343/2006.
+A liminar foi concedida por meio de decisão em 6/11/2023 (fls. 1.498-1.501).
+Foram protocolados outros dois pedidos de extensão em benefício dos réus Cristiana Albina da Silva e Sebastião José Desidério, sob a alegação de que se encontravam na mesma situação, os quais foram apreciadas por meio de decisões próprias nos autos.
+É o relatório.
+Esta Corte de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observam-se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024; e HC n. 740.303/ES, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+No caso em exame, verificou-se a ocorrência de ilegalidade flagrante apta a superar esse entendimento, uma vez que nada de ilícito foi encontrado com o paciente.
+O art. 244 do Código de Processo Penal dispõe:
+A busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar.
+Sob essa ótica, a Terceira Seção desta Corte Superior firmou compreensão de que a validade da busca pessoal está condicionada à existência de fundadas suspeitas, amparadas em situação fática que denote, diante das peculiaridades e dinâmica dos acontecimentos próprios da diligência policial, clareza e objetividade quanto à posse, por parte do investigado, de objeto que constitua corpo de delito.
+No caso concreto, ao analisar o conteúdo dos documentos juntados aos autos, verifica-se que do delineamento fático da busca pessoal empreendida em desfavor do paciente não resultou em nenhum bem ilícito ou produto de crime encontrado em seu poder, conforme decisão liminar (fls. 1.498-1.501).
+Nesse sentido, destacam-se os seguintes julgados do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SUPOSTA PRÁTICA DO DELITO DE TRÁFICO DE DROGAS. ALEGAÇÃO DE LEGALIDADE NA ABORDAGEM POLICIAL. DECISÃO QUE DEVE SER MANTIDA. NULIDADE NAS BUSCAS REALIZADAS, PESSOAL E DOMICILIAR. FLAGRANTE ILEGALIDADE. AUSÊNCIA DE FUNDADAS SUSPEITAS OU JUSTA CAUSA PARA A ABORDAGEM PESSOAL. PROVAS ANULADAS. REVOGAÇÃO DA PRISÃO. 1. A abordagem ao réu ocorreu na calçada, próximo à sua residência, no entanto, nada foi encontrado no local, mas, sim, em sua bermuda, e ele alegou ser usuário. Como se trata de pequena quantidade de drogas, e nada foi encontrado no domicílio, mostra-se excessiva a constrição cautelar. 2. Agravo regimental improvido.
+(AgRg no HC n. 903.946/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/2/2025, DJEN de 11/2/2025.)
+Ante o exposto, concedo a ordem em habeas corpus para determinar a liberdade do paciente, cumulada com medidas cautelares diversas da prisão, nos termos da decisão liminar de fls. 1.498-1.501.
+Cientifique -se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
