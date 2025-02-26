@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUIS FIDELIS DE MEDEIROS contra decisão monocrática que conheceu do agravo e negou provimento ao recurso recurso especial (fls. 3518-3521).
+Os embargos de declaração apontam omissão no acórdão recorrido (fls. 3528-3524).
+É o relatório. DECIDO.
+Os embargos de declaração consubstanciam recurso de fundamentação vinculada, de forma que são cabíveis para apontar ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+No caso concreto, o embargante insurge-se contra decisão monocrática que conheceu do agravo e negou provimento ao recurso especial, mantendo decisão do Tribunal de origem que valorou negativamente a circunstância judicial referente à circunstância do crime.
+O embargante afirma que a decisão foi omissa quanto à análise de teses proferidas no agravo, além de não enfrentar os julgados colacionados aos autos pelo réu, padecendo de omissão.
+A decisão recorrida manteve a aplicação da circunstância judicial negativa por entender que os critérios utilizados para o incremento da pena-base foram devidamente fundamentados em circunstâncias do caso concreto pelo Tribunal de origem, em consonância com o entendimento desta Corte.
+As circunstâncias foram avaliadas de forma negativa pelo acórdão, que destacou que a vítima, recém-saída do estabelecimento prisional onde estava custodiada, foi ao encontro de seus familiares (irmão e primo) e, nesse momento, foi atingida por diversos disparos de arma de fogo (fl. 3430), o que exacerbou os elementos inerentes ao tipo penal.
+Reconheço, assim, que o acórdão embargado apresentou fundamentação clara e suficiente, com respaldo na legislação e na jurisprudência consolidada do Superior Tribunal de Justiça, de modo que não vislumbro omissão ou outro vício a ser sanado.
+Ademais, da análise dos excertos acima transcritos, verifico que não prospera o alegado vício da decisão, pois o acórdão vergastado enfrentou a demanda, observando as questões relevantes e imprescindíveis à sua resolução, não padecendo, portanto, de omissão.
+Insta ressaltar, que as razões recursais limitam-se a reiterar os fundamentos expostos nos recursos anteriores, os quais não tiveram êxito perante esta Corte Superior. À conta de omissão, os embargos de declaração revelam o mero descontentamento do embargante com o resultado do julgamento, que lhe foi desfavorável.
+Os embargos de declaração, contudo, não se prestam à tal finalidade, uma vez que consubstanciam recurso destinado ao esclarecimento da decisão embargada (EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023; EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.746.410/ES, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 23/3/2022, DJe de 25/3/2022).
+Ante o exposto, rejeito os embargos de declaração.
+EMENTA
