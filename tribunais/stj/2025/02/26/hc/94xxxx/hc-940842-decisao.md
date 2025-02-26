@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FABRICIO TAVARES VIEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O paciente está preso preventivamente pela suposta prática do crime de organização criminosa (artigo 1º e §1º e artigo 2o e artigo 4o, inciso IV, da Lei 12.850/13). A prisão preventiva foi decretada visando garantir a ordem pública em razão da gravidade da conduta imputada ao paciente.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente denegando a ordem .
+No presente writ, alega que a paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar ponderando as condições pessoais favoráveis do paciente. Requer a revogação da prisão preventiva.
+A liminar foi indeferida(fls180/181.).
+As informações foram prestadas(fls.187/192,193/201 ).
+O Ministério Público Federal opinou pela denegação da ordem (fls.205/208).
+RELATADO. DECIDO.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, passo a analisar a existência de eventual constrangimento ilegal.
+O paciente foi preso preventivamente e denunciado como incurso nas sanções do artigo 1º e §1º e artigo 2o e artigo 4o, inciso IV, da Lei 12.850/13.
+Insurge-se a defesa contra o decreto de prisão preventiva por ausência de fundamentação idônea, bem como existência de circunstâncias pessoais favoráveis.
+Não se trata de hipótese de flagrante ilegalidade no que diz respeito ao decreto de prisão preventiva. Sem possibilidade, portanto, de concessão de ordem de ofício, na forma do parágrafo único, do artigo 647-A do CPP.
+O decreto de prisão foi mantido pelo Tribunal de origem, sendo certo que nos autos da ação penal originária (proc.15282998820228260050) o juiz de primeiro grau, em decisão de 28/11/2024, ao reavaliar o decreto de prisão, manteve a prisão preventiva do paciente e demais corréus, com base nos seguintes fundamentos:
+Tratando-se de espécie de medida cautelar, a prisão preventiva é regida pela cláusula rebus sic stantibus. Por tal motivo, sua manutenção está condicionada à permanência das circunstâncias que determinaram sua aplicação. Eventual alteração do quadro analisado pode determinar a substituição ou até mesmo revogação da medida. Como já anteriormente ressaltado, no caso em tela, existem indícios de autoria e materialidade, tendo em vista os elementos colhidos na fase de investigação. Pesam contra os réus acusações e fortes indícios de integrar organização criminosa, voltada ao tráfico de drogas, e relacionada a outra facção criminosa, que se auto denomina PCC, de modo que a manutenção de sua prisão é fundamental para assegurar a ordem pública, desmantelando-se o esquema criminoso e evitando-se possível reorganização e novas práticas criminosas. Analisando os autos, não há fatos novos e aptos a afastar os fundamentos apontados na decisão que decretou a prisão preventiva dos acusados (fls. 1881/1888), que ratifico em sua integralidade. Diante do exposto e da manifestação ministerial (fls. 5258/5259), cujos fundamentos também adoto como razão de decidir, mantenho a prisão preventiva dos acusados BIANCA SANTOS ANDRADE, IGOR DELIPE GOMES COSTA, FABRICIO TAVARES VIEIRA, JEAN CARLOS DE ALMEIDA SANTOS, JUSSARA SANTOS ANDRADE; RAQUEL ANTO NIO TEODORO DE PORTUGUAL, KATIA GHISLAINE DA ROCHA, PAULO DE OLIVEIRA BARROSO e JOSE JEFERSON SANTOS.
+Ressalto, mais uma vez, que não há flagrante ilegalidade ou abuso de poder a ser sanado pela via do habeas corpus.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
