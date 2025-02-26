@@ -1,0 +1,115 @@
+DECISÃO: Trata-se de reclamação constitucional com pedido de medida liminar, ajuizada por Silvio Rodrigues Alves, contra decisão proferida pelo Tribunal Regional Federal da 5ª Região, nos autos do Processo 0803798-94.2020.4.05.8200.
+
+    Na petição inicial, a parte reclamante aduz, em síntese, que, ao dar prosseguimento à demanda, a autoridade reclamada violou a determinação de suspensão nacional dos processos proferida nos autos do RE-RG 1.276.977/DF (Tema 1.102), paradigma da repercussão geral.
+
+    Requer, assim, que a reclamação seja julgada procedente para cassar a decisão reclamada, a fim de que seja determinado o sobrestamento dos autos de origem até a data da publicação da ata de julgamento dos embargos de declaração opostos pelo INSS nos autos do RE 1.276.977, Rel. Min. Alexandre de Moraes (Tema 1.102).
+
+    Postula, ainda, a concessão dos benefícios da gratuidade de justiça.
+
+    Intimado a promover a escorreita instrução do feito (eDOC 4, ID 56282bbc), o reclamante juntou cópia do ato reclamado (eDOC 5, ID fcf15455).
+
+    É o relatório. Decido.
+
+    Inicialmente, dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+
+    Superada a questão, rememoro que conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência, garantia da autoridade de suas decisões e da observância das Súmulas Vinculantes (arts. 102, I, “l”, e 103-A, § 3º da CF/88). Nesse sentido, o Código de Processo Civil de 2015 também regulamentou a matéria e assentou as seguintes hipóteses de cabimento da reclamação:
+
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+
+    I - preservar a competência do tribunal;
+
+    II - garantir a autoridade das decisões do tribunal;
+
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência. (…)”.
+
+    No presente caso, sustenta-se que o ato reclamado afronta a determinação de sobrestamento nacional dos processos que discutam a matéria referente ao Tema 1.102 da repercussão geral (“Possibilidade de revisão de benefício previdenciário mediante a aplicação da regra definitiva do artigo 29, incisos I e II, da Lei nº 8.213/91, quando mais favorável do que a regra de transição contida no artigo 3º da Lei nº 9.876/99, aos segurados que ingressaram no Regime Geral de Previdência Social antes da publicação da referida Lei nº 9.876/99, ocorrida em 26/11/99”), proferida pelo Min. Alexandre de Moraes, DJe 3.3.2023. Confira-se, pois, o teor da decisão:
+
+    “(...) O Plenário desta CORTE definiu que a suspensão nacional dos processos não é automática, cabendo ao Relator ponderar a conveniência da medida (RE 966177 RG-QO, Min. LUIZ FUX, Tribunal Pleno, DJe 01- 02-2019).
+
+    De fato, o INSS, em 5/5/2023, opôs Embargos de Declaração (doc. 194 – Petição 45.556/2023), apontando omissões no julgado do Tema 1102 e postulou a modulação dos efeitos da decisão.
+
+    Desse modo, é prudente que seja determinada a suspensão dos processos que tramitam nas instância de origem até a decisão definitiva destes declaratórios (doc. 194), haja vista que tramitam nas instâncias inferiores processos versando sobre a matéria analisada no precedente, inclusive com acórdão proferido pelos Tribunais Regionais Federais, o que permitirá a execução provisória dos julgados, até porque alguns tribunais têm determinado a implantação imediata da revisão sem aguardar o trânsito em julgado deste precedente.
+
+    Por outro lado, o relevante impacto social impõe que a tese de repercussão geral seja aplicada sob condições claras e definidas.
+
+    Assim, acolho o pedido do INSS para determinar a suspensão de todos os processos que versem sobre a matéria julgada no Tema 1102, até a data da publicação da ata de julgamento dos Embargos de Declaração (doc. 194) opostos pela autarquia. O julgamento está previsto para a Sessão Virtual do Plenário de 11 a 21 de agosto de 2023.” (Grifo nosso)
+
+    Em consulta ao andamento processual, verifica-se que o julgamento dos embargos de declaração ainda não foi finalizado, de modo que, em tese, ainda persistiriam os efeitos da determinação de suspensão nacional.
+
+    Todavia, cumpre registrar que, em 21.3.2024 (DJe 24.5.2024), o Pleno do Supremo Tribunal julgou o mérito das ADIs 2.110 e 2.111. Na ocasião, assentou a constitucionalidade do art. 3º da Lei 9.876/99, o qual “possui força cogente, não havendo opção aos contribuintes quanto à regra mais favorável, para efeito de cálculo do salário de benefício”. Eis a ementa desse julgado:
+
+    “AÇÕES DIRETAS DE INCONSTITUCIONALIDADE. PRIMEIRA REFORMA DA PREVIDÊNCIA (EMENDA CONSTITUCIONAL N. 20/1998 E LEI N. 9.876/1999). JULGAMENTO CONJUNTO. INCONSTITUCIONALIDADE FORMAL DA LEI N. 9.876/1999. REJEIÇÃO. SALÁRIO-MATERNIDADE. CARÊNCIA. IMPOSSIBILIDADE. FATOR PREVIDENCIÁRIO E AMPLIAÇÃO DO PERÍODO BÁSICO DE CÁLCULO (PBC) DOS BENEFÍCIOS PREVIDENCIÁRIOS. CONSTITUCIONALIDADE. ATESTADO DE VACINAÇÃO E FREQUÊNCIA ESCOLAR PARA RECEBER SALÁRIO-FAMÍLIA. EXIGÊNCIA LEGÍTIMA. REVOGAÇÃO DA LEI COMPLEMENTAR N. 84/1996 PELA LEI N. 9.876/1999. POSSIBILIDADE. AÇÕES DIRETAS CONHECIDAS EM PARTE. PROCEDÊNCIA DO PEDIDO EM RELAÇÃO AOS ARTS. 25 E 26 DA LEI N. 8.213/1991, NA REDAÇÃO DA LEI N. 9.876/1999. IMPROCEDÊNCIA DOS DEMAIS PEDIDOS. 1. É juridicamente possível e conveniente o julgamento conjunto de ações diretas de inconstitucionalidade que foram ajuizadas contra dispositivos das mesmas leis (Leis n. 8.213/1991 e n. 9.876/1999) e tramitaram simultaneamente, estando no mesmo estado de amadurecimento processual. A apreciação em conjunto, por lógica, induz resultados homogêneos, mas não estabelece prejudicialidade entre as demandas, propostas por legitimados diferentes. 2. A alegação de inconstitucionalidade formal por descumprimento do disposto no art. 65, parágrafo único, da Constituição Federal (não retorno do projeto de lei para a Casa iniciadora, após mudanças implementadas na Casa revisora), para ser conhecida, deve vir acompanhada de demonstração analítica das alterações de redação ocorridas. 3. A exigência legal de carência para a percepção do benefício de salário-maternidade pelas seguradas contribuintes individuais e seguradas especiais (caso contribuam e requeiram benefício maior que o valor mínimo) foi reformulada, desde a propositura das ações diretas em julgamento, pela Medida Provisória n. 871/2019 e pela Lei n. 13.846/2019, remanescendo, porém, o período mínimo de 10 (dez) meses para a concessão do benefício. 4. Viola o princípio da isonomia a imposição de carência para a concessão do salário-maternidade, tendo em vista que (i) revela presunção, pelo legislador previdenciário, de má-fé das trabalhadoras autônomas; (ii) é devido às contribuintes individuais o mesmo tratamento dispensado às seguradas empregadas, em homenagem ao direito da mulher de acessar o mercado de trabalho, e observado, ainda, o direito da criança de ser cuidada, nos primeiros meses de vida, pela mãe; e (iii) há um dever constitucional de proteção à maternidade e à criança, nos termos do art. 227 da Constituição de 1988, como sublinhou o Supremo no julgamento da ADI 1.946. 5. A Constituição Federal, a partir da Emenda de n. 20/1998, não mais prevê a forma de cálculo do valor dos benefícios previdenciários, tendo a disciplina da matéria ficado a cargo de lei ordinária. A EC n. 20/1998 também estipulou a utilização do cálculo atuarial como fundamento para a disciplina legal dos benefícios previdenciários. O fator previdenciário, da maneira como estabelecido pela Lei n. 9.876/1999, está em linha com grandezas próprias do cálculo atuarial, de sorte que não interfere na concessão, ou não, do benefício e, por isso, não viola premissas constitucionais. Em verdade, o fator previdenciário apenas pondera o valor do salário de benefício de duas benesses programáveis (aposentadoria por idade e aposentadoria por tempo de contribuição, essa última agora sem status constitucional) em face de algumas grandezas matematicamente relacionadas à higidez financeira do sistema previdenciário. 6. A ampliação, mediante lei, do período básico de cálculo (PBC) dos benefícios, isto é, do conjunto dos salários de contribuição usados no cálculo do salário de benefício, está dentro do raio de atuação legítima do legislador e confere maior fidedignidade à média das contribuições, pois, quanto maior a amostra tomada de um conjunto para estabelecer a média, maior a representatividade desta. A criação de regra de transição para os segurados já filiados ao Regime Geral de Previdência Social (Lei n. 9.876/1999, art. 3º) é constitucional, visto que não viola direitos adquiridos, expressamente ressalvados pela legislação, e possui força cogente, não havendo opção aos contribuintes quanto à regra mais favorável, para efeito de cálculo do salário de benefício. 7. A Lei n. 8.213/1991, no art. 67, consideradas tanto a redação original como a versão modificada pela Lei n. 9.876/1999, instituiu forma indireta de fiscalização de deveres dos pais para com os filhos menores: o de vaciná-los e o de matriculá-los em escola e acompanhar a frequência escolar, o que se incluía naquilo que o art. 384 do Código Civil de 1916, então vigente, chamava de ‘pátrio poder’. Esses deveres paternos colaboram para a concretização de dois importantes direitos constitucionalmente assegurados às crianças: o direito à saúde e o direito à educação (CF, art. 227, caput). 8. Com a edição da EC n. 20/1998, deixou de ser necessária lei complementar para instituir contribuição sobre valores pagos a autônomos, administradores e avulsos. A Lei Complementar n. 84/1996 perdeu, assim, o status de lei complementar, de modo que poderia ser revogada por lei ordinária, como de fato foi pela Lei n. 9.876/1999. 9. Ações parcialmente conhecidas, e, na parte conhecida, pedido julgado parcialmente procedente, quanto à alegada inconstitucionalidade dos arts. 25 e 26 da Lei n. 8.213/1991, na redação da Lei n. 9.876/1999, conforme postulado na ADI 2.110, e improcedente em relação às demais pretensões, declarando-se a constitucionalidade dos dispositivos impugnados.” (ADI 2.110, Rel. Min. Nunes Marques, Tribunal Pleno, DJe 24.5.2024; grifo nosso)
+
+    Quando da apreciação dos embargos de declaração opostos em face da referida decisão, o Pleno assentou que o julgamento de mérito das ADIs 2.110 e 2.111, em 2024, ocasionou a superação da tese do Tema 1.102-RG. O acórdão restou assim ementado:
+
+    “EMBARGOS DE DECLARAÇÃO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. AMICUS CURIAE. ILEGITIMIDADE RECURSAL. CONFEDERAÇÃO SINDICAL AUTORA DA AÇÃO. LEGITIMIDADE. TESES DE REPERCUSSÃO GERAL. AUSÊNCIA DE VINCULAÇÃO. VÍCIOS NÃO CONFIGURADOS. 1. O Supremo consolidou entendimento no sentido da ilegitimidade dos amici curiae para a oposição de embargos de declaração em sede de controle abstrato de constitucionalidade, o que conduz ao não conhecimento dos aclaratórios protocolados pelo Instituto de Estudos Previdenciários (Ieprev) na ADI 2.110. 2. A formalização por entidade que figura como requerente na ação direta de inconstitucionalidade justifica o conhecimento dos embargos de declaração opostos na ADI 2.111 pela Confederação Nacional dos Trabalhadores Metalúrgicos (CNTM). 3. Ao contrário do que alega o embargante, a tese aventada para o Tema n. 1.102 (RE 1.276.977) foi objeto de deliberação, da qual resultou assentado o seguinte: (i) a tese aventada para o Tema n. 1.102 (RE 1.276.977), cuja apreciação se deu em 2022, quer significar a modificação do entendimento adotado pelo Tribunal no ano 2000, quando indeferido o pedido de medida cautelar formalizado nas ações diretas 2.110 e 2.111; e (ii) o julgamento de mérito das ADIs 2.110 e 2.111, em 2024, ocasiona a superação da tese do Tema n. 1.102, tanto mais porque ainda sem trânsito em julgado, restabelecendo-se a compreensão manifestada desde o ano 2000. 4. Embargos de declaração na ADI 2.110 não conhecidos e embargos declaratórios na ADI 2.111 desprovidos. (ADI 2.110 ED, Rel. Min. Nunes Marques, Tribunal Pleno, DJe 16.10.2024; grifo nosso)
+
+    No caso, o Juízo reclamado retirou a suspensão do processo anteriormente decretada e prosseguiu no julgamento, nos seguintes termos:
+
+    “Nos termos do art. 1.021, §1º do CPC, interposto agravo interno, é permitido ao relator se retratar de decisão monocrática, podendo remeter o recurso que gerou a decisão ao conhecimento do órgão colegiado ou, nos casos do art. 932, IV e V, do CPC, proferir novo julgamento monocrático.
+
+    No caso, considerando os recentes julgados sobre a temática tratada nos autos, mostra-se cabível o exercício do juízo de retratação em relação à decisão monocrática que negou provimento ao apelo.
+
+    Na origem, discute-se a possibilidade de revisão de benefício previdenciário mediante a aplicação da regra definitiva do artigo 29, incisos I e II, da Lei nº 8.213/91, quando mais favorável do que a regra de transição contida no artigo 3º da Lei nº 9.876/99, aos segurados que ingressaram no Regime Geral de Previdência Social antes da publicação da referida Lei nº 9.876/99, ocorrida em 26/11/99.
+
+    Sobre a matéria, é imperioso destacar que o Superior Tribunal de Justiça, no julgamento do Tema Repetitivo 999 (RESP 1.596.203/PR), em 11/12/2019, firmou a seguinte tese: "Aplica-se a regra definitiva prevista no art. 29, I e II da Lei 8.213/1991, na apuração do salário de benefício, quando mais favorável do que a regra de transição contida no art. 3º da Lei n.º 9.876/1999, aos Segurados que ingressaram no Regime Geral da Previdência Social até o dia anterior à publicação da Lei n.º 9.876/1999." (STJ. 1ª Seção. REsp 1.596.203-PR, Rel. Min. Napoleão Nunes Maia Filho, julgado em 11/12/2019).
+
+    Posteriormente, em 01/12/2022, o Supremo Tribunal Federal, apreciando o Tema 1.102 da repercussão geral, por unanimidade, fixou a seguinte tese: "O segurado que implementou as condições para o benefício previdenciário após a vigência da Lei 9.876, de 26.11.1999, e antes da vigência das novas regras constitucionais, introduzidas pela EC 103/2019, tem o direito de optar pela regra definitiva, caso esta lhe seja mais favorável". (STF. Plenário. RE 1276977/DF, Rel. Min. Marco Aurélio, redator do acórdão Min. Alexandre de Moraes, julgado em 1/12/2022).
+
+    Na sequência, o Ministro relator Alexandre de Moraes, em decisão proferida nos mesmos autos do RE 1276977/DF, publicada em 31/7/2023, determinou a suspensão de todos os processos que versem sobre o Tema 1.102, até a data de publicação da ata de julgamento dos embargos de declaração opostos pelo INSS no referido processo.
+
+    Essa determinação foi devidamente cumprida em todos os processos da Sétima Turma relativos ao Tema 1.102, gerando o sobrestamento centenas de processos.
+
+    Ocorre que, em 21/3/2024, por ocasião do julgamento das Ações Diretas de Inconstitucionalidade nº 2.110 e 2.111, o Supremo Tribunal Federal superou a tese anteriormente fixada em sede de repercussão geral para o Tema 1.102 (overruling), passando a entender que a regra de transição prevista no art. 3º da Lei nº 9.876/99, que exclui os salários anteriores a julho de 1994 do cálculo da aposentadoria, é de aplicabilidade obrigatória (tem natureza cogente). Assim, a Corte concluiu ser vedado ao segurado escolher uma outra forma de cálculo diferente do art. 3º, ainda que lhe seja mais benéfica.
+
+    No referido julgado, foi estabelecida a seguinte tese: "A declaração de constitucionalidade do art. 3º da Lei 9.876/1999 impõe que o dispositivo legal seja observado de forma cogente pelos demais órgãos do Poder Judiciário e pela administração pública, em sua interpretação textual, que não permite exceção. O segurado do INSS que se enquadre no dispositivo não pode optar pela regra definitiva prevista no artigo 29, incisos I e II, da Lei nº 8.213/91, independentemente de lhe ser mais favorável". (STF. Plenário. ADI 2.110/DF e ADI 2.111/DF, Rel. Min. Nunes Marques, julgado em 21/03/2024).
+
+    Por sua vez, em 27/9/2024, por ocasião do julgamento dos embargos de declaração opostos pelo Instituto de Estudos Previdenciários (Ieprev) e pela Confederação Nacional dos Trabalhadores Metalúrgicos (CNTM), restaram vencidas as teses relativas à desnecessidade de restituição dos valores recebidos pelos segurados, de modulação dos efeitos do acórdão proferido nas ADIs 2.110 e 2.111 e de manutenção da tese fixada para o Tema 1.102 da Repercussão Geral.
+
+    Assim, mostrando-se opostos os entendimentos emitidos pela Corte Suprema no RE 1.276.977 e nas ADIs 2.110 e 2.111, a tese firmada por ocasião do julgamento das ações em controle abstrato de constitucionalidade deve prevalecer sobre aquela posição externada no referido recurso extraordinário, nos termos do que dispõe o art. 102, § 2º, da Constituição Federal ("As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas ações diretas de inconstitucionalidade e nas ações declaratórias de constitucionalidade produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal").
+
+    Diante deste contexto, e considerando os efeitos do julgamento das ADIs 2.110 e 2.111, mostra-se desnecessária a manutenção do sobrestamento dos processos, ainda que, a rigor, não tenha sido levantado o sobrestamento determinado no RE 1276977/DF (Tema 1.102). De toda forma, é possível o sobrestamento posterior dos destes autos perante a Vice-Presidência, que tem competência para sobrestar o feito, nos termos do art. 1.030 do Código de Processo Civil e do art. 18, § 3º, IV, "a", do Regimento Interno deste Tribunal, é da Vice-Presidência desta Corte, quando do exame de admissibilidade do recurso extremo.
+
+    Por outro lado, a aplicação analógica o Código de Processo Civil, art. 932, inciso V, alínea 'b', abre janela para o relator dar provimento ao recurso quando a decisão é contrária ao acórdão proferido pelo Supremo Tribunal Federal nas ADIs 2.110 e 2.111.
+
+    Logo, em observância à decisão do STF, vinculante para todos os órgãos do Poder Judiciário, descabe qualquer discussão sobre a matéria: a ação deve, necessariamente, ser julgada improcedente, rejeitando-se o pedido de revisão de benefício de previdenciário na forma da regra permanente do art. 29, I da Lei 8.213/91, com a redação dada pela Lei n. 9.876/99.
+
+    Considerando que a ação de origem - proposta após o julgamento do Tema 999 pelo Superior Tribunal de Justiça - estava alinhada com precedente qualificado do Superior Tribunal de Justiça, que agasalhara a tese que lastreia a demanda, deve ser afastada a condenação da parte autora em custas e honorários advocatícios sucumbenciais, em face do princípio da causalidade.
+
+    Este o quadro, em juízo retratação (art. 1.021, §1º do CPC), revogo a decisão monocrática agravada, e autorizado pelo art. 932, inciso V, alínea "b", DOU PROVIMENTO À APELAÇÃO DO INSS, para julgar improcedente a ação de origem.” (eDOC 5, ID fcf15455, p. 20-22; grifos nossos)
+
+    Como visto, a decisão proferida após o levantamento da suspensão do processo e a retomada do julgamento fundamentou-se na força vinculante e na eficácia erga omnes da decisão proferida pelo Supremo Tribunal Federal, no âmbito do controle concentrado de constitucionalidade, em data posterior à determinação de sobrestamento proferida nos autos do RE nº 1.276.977 (Tema 1.102).
+
+    Desse modo, não se verifica descumprimento deliberado da ordem de suspensão nacional dos processos, tendo em vista que a autoridade reclamada baseou sua decisão em acórdão vinculante igualmente emanado desta Suprema Corte.
+
+    Sendo assim, não verifico teratologia na decisão proferida pelo tribunal de origem a dar ensejo ao acolhimento do pedido formulado na presente reclamação.
+
+    Nesse mesmo sentido, cito a decisão proferida pelo Min. André Mendonça na Rcl 71.186, DJe 5.9.2024, ementada nos seguintes termos:
+
+    “RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DE ORDEM DE SOBRESTAMENTO DOS PROCESSOS NO ÂMBITO DO RE Nº 1.276.977/DF: INOCORRÊNCIA. ATO FUNDADO NO JULGAMENTO DAS ADIs Nº 2.110/DF E 2.111/DF. TERATOLOGIA: AUSÊNCIA. USO COMO SUCEDÂNEO RECURSAL: IMPOSSIBILIDADE. NEGATIVA DE SEGUIMENTO. PEDIDO LIMINAR PREJUDICADO.”
+
+    Por fim, saliento que é assente na jurisprudência desta Corte que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos.
+
+    Nesse sentido, cito precedentes de ambas Turmas deste Tribunal:
+
+    “Agravo regimental em reclamação. Tema nº 942 da Repercussão Geral. Ausência de esgotamento de instância. Precedentes. Agravo regimental não provido. 1. O esgotamento de instância é requisito de admissibilidade de reclamação constitucional com paradigma em tese de repercussão geral (art. 988, § 5º, inciso II, do CPC), requisito observado somente em decisão colegiada da origem que, em sede de agravo interno, aprecia a negativa de seguimento de recurso extraordinário pela sistemática. Precedentes. 2. Não prospera a alegada negativa de prestação jurisdicional, porquanto há instrumentos recursais para questionar a decisão reclamada. O debate proposto deve se desenvolver pelos meios processuais adequados, não se podendo admitir o uso da reclamação constitucional como sucedâneo de recurso. Precedentes. 3. Agravo regimental ao qual se nega provimento, com aplicação de multa”. (Rcl 56.959 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.3.2023; grifo nosso);
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE EQUÍVOCO NA APLICAÇÃO DO INSTITUTO DA REPERCUSSÃO GERAL NA ORIGEM: NÃO CABIMENTO, NO CASO. USO COMO SUCEDÂNEO RECURSAL: VEDAÇÃO. 1. O Supremo Tribunal Federal decidiu, reiteradamente, pelo não cabimento da reclamação ajuizada com o escopo de corrigir eventuais equívocos na aplicação do instituto da repercussão geral, à exceção de evidente teratologia, o que não se vislumbra no caso. 2. Não se caracterizou usurpação da competência desta Corte, mas, tão somente, o exercício da competência própria do Juízo de origem para inadmitir os recursos relativos às próprias decisões. 3. Revela-se imprópria a formalização de reclamação com intuito de servir como sucedâneo recursal. 4. Agravo regimental ao qual se nega provimento.” (Rcl 53.941 AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 24.3.2023; grifo nosso)
+
+    Dessa forma, inadmissível a presente reclamação.
+
+    Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF).
+
+    Defiro a gratuidade de justiça. Anote-se.
+
+    Publique-se.
+
+    Brasília, 26 de fevereiro de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
