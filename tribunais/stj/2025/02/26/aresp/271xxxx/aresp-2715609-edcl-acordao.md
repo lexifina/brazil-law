@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS PROCESSUAIS. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra decisão que não conheceu de agravo em recurso especial, por ausência de impugnação específica dos fundamentos da decisão recorrida, conforme Súmula 182/STJ.
+2. O agravante foi condenado por integrar organização criminosa armada, com participação de adolescente, e teve seu recurso especial inadmitido por deficiência de fundamentação e pela incidência da Súmula 7/STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se os embargos de declaração são cabíveis para sanar supostos vícios processuais na decisão que não conheceu do agravo em recurso especial.
+III. Razões de decidir
+4. A decisão embargada foi suficientemente fundamentada, não apresentando obscuridade, contradição ou omissão que justificassem a oposição de embargos de declaração.
+5. Os embargos de declaração não se prestam à rediscussão do mérito da decisão embargada, mas apenas à correção de vícios processuais, os quais não foram demonstrados no caso.
+IV. Dispositivo
+6. Embargos de declaração rejeitados.
+Dispositivos relevantes citados: CPC, art. 932, III; RISTJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, EAREsp 746.775/PR, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30/11/2018; STJ, AgRg no AREsp 2.699.289/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2024, REPDJe 20/9/2024, DJe 16/09/2024.
+RELATÓRIO
+Tendo em vista as orientaç ões e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 1.107-1.108):
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 1086-1089):
+Trata-se de agravo regimental, manejado por RODRIGO DO NASCIMENTO LIMA, contra a decisão da Presidência desse Superior Tribunal de Justiça que não conheceu, com base no artigo 21-E, V, c/c artigo 253, parágrafo único, I, ambos do RISTJ, do agravo por ele interposto contra a decisão do Tribunal a quo que inadmitira o seu recurso especial, o que aquela Presidência fez em razão da ausência de impugnação específica dos fundamentos da decisão atacada pelo AREsp.
+Tal como se observa dos autos, o réu, ora agravante, foi condenado como incurso nas sanções do artigo 2º, § 2º e § 4º, I, da Lei 12.850/13, nos termos do artigo 1º, parágrafo único, V, da Lei 8.072/90 (organização criminosa armada, com a participação de adolescente e direcionada à prática de crime hediondo ou equiparado), à pena de 7 anos de reclusão, em regime inicial semiaberto, e 189 dias-multa, por integrar a organização criminosa de alta periculosidade denominada Comando Vermelho (CV), que conta com a utilização de armas de fogo e participação de adolescentes.
+Contra a sentença, tanto o réu como o Parquet interpuseram recurso de apelação, havendo o TJAC negado provimento ao apelo do réu e dado parcial provimento ao apelo do Parquet para negativar, na pena- base, os vetores dos "motivos" e "consequências" do crime e para fazer incidir, na terceira fase, a majorante da participação de adolescentes no grupo criminoso, redimensionando a pena final para 11 anos e 1 mês de reclusão e 360 dias-multa, fixando o regime inicial fechado, por acórdão cuja ementa vai abaixo transcrita:
+ ..
+Irresignado, RODRIGO DO NASCIMENTO LIMA interpôs recurso especial, com arrimo no artigo 105, III, "a", da Constitucional Federal, sustentando negativa de vigência aos artigos 59 e 68, parágrafo único, ambos do Código Penal, e ao artigo 155 do Código de Processo Penal, alegando, de forma sucinta, que a condenação se baseia em meros indícios e que, na pena-base, não foram valoradas de forma correta as vetoriais negativadas, porque inobservadas as condições favoráveis dele.
+O recurso especial foi inadmitido pela Vice-Presidência do TJAC, sob os seguintes fundamentos: 1) deficiência de fundamentação, em razão da "ausência de dialeticidade recursal, visto que o insurgente não enfrentou, de forma específica, os fundamentos adotados pela decisão recorrida", e pela argumentação genérica, apontando-se a incidência no caso da Súmula 182/STJ e; 2) inviabilidade do reexame de fatos e provas na via do recurso especial, apontando-se quanto a isso o óbice da Súmula 7/STJ.
+Contra essa decisão RODRIGO DO NASCIMENTO LIMA interpôs agravo, no qual alegou de forma extremamente sucinta que a pretensão contida no recurso especial não demanda reexame fático- probatório dos autos.
+Autuado o feito nessa Corte Superior, a Presidência, monocraticamente, decidiu não conhecer do agravo, por entender que o agravante não impugnara especificamente os fundamentos da decisão de inadmissão do recurso especial - no caso, a incidência da Súmula 7/STJ e a deficiência de fundamentação, o que atraiu, por sua vez, o óbice da Súmula 182 desse STJ.
+Na sequência, RODRIGO DO NASCIMENTO LIMA interpôs o agravo regimental ora analisado, no qual afirma de forma, data venia, totalmente equivocada e genérica que ".. o único fundamento utilizado pelo TJAC para inadmitir o recurso especial foi que o agravante buscava o "reexame do conjuntado fático-porbatório"", que ".. o que se busca não se trata de rediscussão de prova", que tem demonstrado em julgados apontados as divergências em relação aos fatos em tela e que ".. resta justificado a impugnação do acórdão, conforme preceitua a Súmula 182 do STJ".
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+A parte embargante requer a supressão de vícios processuais, para que, assim, ocorra a reforma da decisão embargada.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS PROCESSUAIS. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra decisão que não conheceu de agravo em recurso especial, por ausência de impugnação específica dos fundamentos da decisão recorrida, conforme Súmula 182/STJ.
+2. O agravante foi condenado por integrar organização criminosa armada, com participação de adolescente, e teve seu recurso especial inadmitido por deficiência de fundamentação e pela incidência da Súmula 7/STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se os embargos de declaração são cabíveis para sanar supostos vícios processuais na decisão que não conheceu do agravo em recurso especial.
+III. Razões de decidir
+4. A decisão embargada foi suficientemente fundamentada, não apresentando obscuridade, contradição ou omissão que justificassem a oposição de embargos de declaração.
+5. Os embargos de declaração não se prestam à rediscussão do mérito da decisão embargada, mas apenas à correção de vícios processuais, os quais não foram demonstrados no caso.
+IV. Dispositivo
+6. Embargos de declaração rejeitados.
+Dispositivos relevantes citados: CPC, art. 932, III; RISTJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, EAREsp 746.775/PR, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30/11/2018; STJ, AgRg no AREsp 2.699.289/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2024, REPDJe 20/9/2024, DJe 16/09/2024.
+VOTO
+Os Embargos de Declaração são tempestivos.
+Contudo, não ficou demonstrado qualquer vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões que motivaram a solução dada ao caso concreto (e-STJ fls. 1.108-1.110):
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 1056-1057):
+Cuida-se de agravo em recurso especial apresentado por RODRIGO DO NASCIMENTO LIMA contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ e deficiência de fundamentação.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Inviável a apreciação de matéria constitucional por esta Corte Superior, ainda que para fins de prequestionamento, porquanto, por expressa disposição da própria Constituição Federal (art. 102, inciso III), se trata de competência reservada ao Supremo Tribunal Federal. Precedentes.
+2. A decisão agravada não conheceu do agravo em recurso especial com fundamento na Súmula n. 182/STJ, porquanto não impugnada especificamente a incidência dos óbices apontados pela Corte a quo como razões de decidir para a inadmissão do recurso especial (e-STJ fls. 413/414). Nas razões do regimental (e-STJ fls. 419/439), por sua vez, a agravante deixou de infirmar especificamente o referido entrave, limitando-se a reiterar o mérito do recurso especial e a alegar, de maneira genérica, a violação a princípios e dispositivos constitucionais, a ocorrência de manifesta ilegalidade e comprometimento inequívoco de seu direito de locomoção (e-STJ fl. 420) e a prescindibilidade de revolvimento do conjunto fático-probatório (e-STJ fl. 422).
+3. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (decisão de não conhecimento do agravo em recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+4. A concessão do writ, de ofício, isto é, por iniciativa dos juízes e Tribunais, deve ocorrer quando detectada, no curso do processo, ilegalidade flagrante, na forma do art. 654, § 2º, do CPP, o que não ocorreu, na espécie, em relação às matérias suscitadas no recurso especial, não se admitindo a sua invocação pela defesa como mecanismo para tentar driblar a não admissão do recurso interposto e, assim, se obter o pronunciamento judicial acerca do mérito recursal. Precedentes.
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.699.289/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2024, REPDJe de 20/9/2024, DJe de 16/09/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+Os presentes embargos, portanto, refletem mera irresignação da parte com o resultado do julgamento, o que revela o seu descabimento.
+Nesse sentido, importa destacar que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
