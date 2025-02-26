@@ -1,0 +1,20 @@
+DECISÃO
+Na origem, trata-se de ação regressiva de ressarcimento de danos em face de Companhia de Eletricidade do Estado Da Bahia - COELBA, . Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 25.385,49 (vinte e cinco mil, trezentos e oitenta e cinco reais e quarenta e nove centavos).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. AÇÃO DE REGRESSIVA DE RESSARCIMENTO DE DANOS. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE RECURSAL, REJEITADA. INTERRUPÇÃO DO SERVIÇO DE ENERGIA ELÉTRICA. ILEGALIDADE RECONHECIDA. RESPONSABILIDADE CIVIL OBJETIVA. DANOS MATERIAIS CONFIGURADOS. SENTENÇA MANTIDA. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. APELAÇÃO CONHECIDA. NEGADO PROVIMENTO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Compulsando os elementos de prova colacionados aos autos, é possível observar que a concessionária Apelante se limitou a juntar ao caderno processual telas do sistema interno da empresa, as quais, pela natureza de documentos unilateralmente produzidos pela Ré, demonstram-se inservíveis como meios de prova.
+Acerca do tema, a Súmula 15, da Agência Nacional de Energia Elétrica dispõe que "Simulações computacionais não são suficientes para afastar a presunção de nexo de causalidade de perturbações na rede com danos elétricos em equipamentos de consumidores."
+Registre-se ainda o posicionamento da jurisprudência, no sentido de que "se o consumidor alega que houve interrupção indevida do fornecimento de energia elétrica, cumpre à concessionária ré comprovar a regularidade dos serviços, o que não pode ser feito com apresentação de cópias de telas sistêmicas, por constituir prova de produção unilateral."
+ ..
+Diante deste cenário, presume-se verdadeira a alegação do Apelado de que houve interrupção do serviço de energia elétrica na data apontada na inicial da Ação Regressiva por ele proposta.
+Depreende-se, portanto, das provas adunadas aos autos, que a Recorrente incorreu em conduta ilícita, o que enseja sua responsabilidade civil objetiva pelos danos causados, na esteira do art. 14 do Código de Defesa do Consumidor.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
