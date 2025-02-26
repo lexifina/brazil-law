@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AUSÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra decisão que rejeitou habeas corpus impetrado em favor de acusado, visando à revogação de prisão preventiva decretada com base em indícios de participação em organização criminosa.
+2. A defesa alega constrangimento ilegal na manutenção da prisão preventiva, argumentando ausência de fundamentação idônea e falta de materialidade do delito, uma vez que não houve apreensão de entorpecentes ou laudo toxicológico.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se os embargos de declaração são cabíveis para sanar suposta omissão na decisão que manteve a prisão preventiva do ora embargante, alegando ausência de fundamentação idônea e falta de materialidade do delito.
+III. Razões de decidir
+4. A jurisprudência do STJ é pacífica no sentido de que a prisão preventiva pode ser mantida com base em indícios de participação em organização criminosa, mesmo na ausência de apreensão de entorpecentes, desde que outros elementos probatórios evidenciem a materialidade do ilícito.
+5. A alegação de omissão nos embargos de declaração não se sustenta, pois a decisão embargada abordou de forma clara e suficiente os fundamentos para a manutenção da prisão preventiva.
+IV. Dispositivo
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 707-708):
+"Trata-se de habeas corpus impetrado em favor de LEANDRO SANTOS DA SILVA, contra acórdão assim ementado (e-STJ fl. 10):
+"HABEAS CORPUS. DIREITO PROCESSUAL PENAL. IRRESIGNAÇÃO CONTRA ORDEM DE PRISÃO PREVENTIVA. NÃO ACOLHIMENTO. FUMUS COMMISSI DELICTI E PERICULUM IN LIBERTATIS CONFIGURADOS. EXISTÊNCIA DE INVESTIGAÇÃO CRIMINAL, NA QUAL FOI DECRETADA A INTERCEPTAÇÃO TELEFÔNICA DO PACIENTE E DE OUTROS ACUSADOS. PRESENÇA DE FORTES INDÍCIOS DE QUE O PACIENTE INTEGRA ORGANIZAÇÃO CRIMINOSA, EXERCENDO, INCLUSIVE, FUNÇÃO DE LIDERANÇA. MANUTENÇÃO DA SEGREGAÇÃO PROCESSUAL. HABEAS CORPUS ADMITIDO. ORDEM DENEGADA."
+Imputa-se ao paciente a suposta prática do crime de previsto no art. 33, caput, e art. 35, c/c art. 40, IV, ambos da Lei n. 11.343/2006 (fl. 54).
+A defesa alega, em síntese: a) A ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente encontra-se despida de fundamentação idônea pois amparada na mera gravidade abstrata do delito e que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP; b) Alega ausência de autoria e materialidade do delito imputado, aduzindo que nestes autos, pelos fatos apontados na denúncia, não há registro de entorpecente apreendido com qualquer um dos 10 réus, bem como ausência do laudo toxicológico (fl. 7-8).
+Ao final, requer a concessão da ordem para que seja trancada a ação penal referente ao delito do art. 33, caput, da Lei n. 11.343/2006, tendo em vista a ausência de materialidade do delito imputado. Subsidiariamente, que seja revogada a prisão cautelar do paciente, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais."
+O embargante alega a existência de omissão, replica as mesmas razões trazidas em sede de agravo regimental e, ao final, requer, sanadas as irregularidades postas e reformada a decisão embargada, a revogação da prisão cautelar.
+O Ministério Público Estadual apresentou impugnação aos embargos (e-STJ fl. 1106/1109).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AUSÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra decisão que rejeitou habeas corpus impetrado em favor de acusado, visando à revogação de prisão preventiva decretada com base em indícios de participação em organização criminosa.
+2. A defesa alega constrangimento ilegal na manutenção da prisão preventiva, argumentando ausência de fundamentação idônea e falta de materialidade do delito, uma vez que não houve apreensão de entorpecentes ou laudo toxicológico.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se os embargos de declaração são cabíveis para sanar suposta omissão na decisão que manteve a prisão preventiva do ora embargante, alegando ausência de fundamentação idônea e falta de materialidade do delito.
+III. Razões de decidir
+4. A jurisprudência do STJ é pacífica no sentido de que a prisão preventiva pode ser mantida com base em indícios de participação em organização criminosa, mesmo na ausência de apreensão de entorpecentes, desde que outros elementos probatórios evidenciem a materialidade do ilícito.
+5. A alegação de omissão nos embargos de declaração não se sustenta, pois a decisão embargada abordou de forma clara e suficiente os fundamentos para a manutenção da prisão preventiva.
+IV. Dispositivo
+6. Embargos de declaração rejeitados.
+VOTO
+Os Embargos de Declaração são tempestivos.
+Contudo, não ficou demonstrado qualquer vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões que motivaram a solução dada ao caso concreto (e-STJ fls. 1000-1004):
+"O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e- STJ, fls. 707-710):
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, D Je de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o " habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+De fato, é pacífica a "jurisprudência desta Corte acerca da manutenção da prisão preventiva em razão da quantidade de droga, contumácia delitiva e fuga do distrito da culpa, circunstâncias que justificam a manutenção da prisão cautelar para a garantia da ordem pública " (AgRg no RHC n. 173.374/BA, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, D Je de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, D Je de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, D Je de 24/3/2023); (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022); (AgRg no HC n. 799.998/MS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/3/2023, grifei); (AgRg no HC n. 806.211/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 761.012/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, D Je de 22/12/2022).
+No mesmo sentido, também é indene de controvérsia neste STJ o fato de que "(..) A presença de condições pessoais favoráveis, como primariedade, emprego lícito e residência fixa, não impede a decretação da prisão preventiva quando devidamente fundamentada. (..)" (AgRg no RHC 175391 / RS, RELATOR Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DATA DO JULGAMENTO 12/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 18/12/2023).
+Some-se a isso o fato de que a existência de organização criminosa impõe a necessidade de interromper a atuação de seus integrantes como garantia da ordem pública (AgRg no HC 793.651/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC 790.898/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, D Je de 28/4/2023).
+Ademais, o trancamento da ação penal em sua fase embrionária é providência excepcionalíssima, submetida à existência de "inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito" (AgRg no HC 843621 / PR, Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/12/2023, DATA DA PUBLICAÇÃO/FONTE D Je 20/12/2023), elementos inexistentes nos autos.
+Alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória no "writ".
+O agravante reafirma que a prisão baseou-se na gravidade abstrata do delito e que para a condenação de alguém pela prática do crime de tráfico de drogas, é necessária a apreensão de drogas e a consequente elaboração ao menos de laudo preliminar.
+COntudo, "A consolidada jurisprudência desta Corte Superior de Justiça já se posicionou quanto à desnecessidade de apreensão de drogas para caracterização do crime de tráfico, desde que outros elementos de prova evidenciem a materialidade do ilícito. No caso, as interceptações telefônicas foram decisivas no sentido de desnudar a articulação para a prática dos crimes imputados. Precedentes." (AgRg no HC 733581 / CE, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 13/09/2022, DATA DA PUBLICAÇÃO/FONTE DJe 21/09/2022)
+Mostra-se irrelevante, portanto, que não tenha sido apreendido entorpecente na posse da paciente quando apurados elementos robustos acerca de sua integração, na condição de partícipe, na difusão do elemento ilícito, conforme apurado através do conteúdo das conversas destacado no acórdão recorrido (e-STJ Fl.12-15).
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático- probatório dos autos, o que impede a atuação excepcional desta Corte."
+Os presentes embargos, portanto, refletem mera irresignação da parte com o resultado do julgamento, o que revela o seu descabimento.
+Nesse sentido, importa destacar que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
