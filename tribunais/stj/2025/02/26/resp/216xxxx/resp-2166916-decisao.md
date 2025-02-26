@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARINA BOTTERO GRIMALDI, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MEDICAMENTO. Recurso da ré. Paciente com câncer. Recomendação médica para tratamento por antineoplásico Lenalidomida, Daratumumabe e Dexametasona. Medicamento necessário para o tratamento. Enquadramento na exceção prevista para medicamento off label, segundo entendimento do C. STJ. Existência de parecer favorável do Nat-Jus. Recusa abusiva. Valor da causa devidamente fixado. Recurso da autora. Honorários sucumbenciais. Condenação sem valor econômico mensurável, diante da obrigação de fazer prolongada. Base de cálculo no valor da causa. Tema 1076 do C. STJ. Sentença mantida. RECURSOS DESPROVIDOS" (e-STJ fls. 852).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 904/908).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022, I, do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios; e
+(ii) art. 85, § 2º do Código de Processo Civil - os honorários de sucumbência devem ser calculados sobre o valor da condenação e não o valor da causa, pois "(..) é possível verificar os valores gastos envolvidos com a compra dos fármacos prescritos, mediante a exibição de notas fiscais, comprovantes de pagamento, entre outros documentos financeiros por parte da Operadora de saúde" (e-STJ fl. 873).
+Contrarrazões às e-STJ fls. 912/917.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto a base de cálculo dos honorários advocatícios de sucumbência, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+Sobre o recurso da autora, não há que se falar em fixação dos honorários com base no valor da condenação. Isso porque a condenação não possui valor econômico mensurável, já que se trata de fornecimento contínuo de medicamentos até a alta médica, sem prazo final.
+Por isso, não é possível calcular, exatamente, o valor do tratamento, razão pela qual o valor da causa atualizado deve ser a base de cálculo dos honorários sucumbenciais, nos termos do art. 85, §2º do CPC e do Tema 1076 do C. STJ.
+(..)
+Em outras palavras, a própria autora reconhece que a obrigação de fazer não possui conteúdo econômico imediatamente aferível e que inexiste parâmetro do montante total do tratamento.
+Por isso, obedecendo a ordem sucessiva e preferencial dos honorários sucumbenciais, a base de cálculo deve ser o valor da causa atualizado. O percentual também foi acertado, por remunerar proporcionalmente o trabalho desempenhado pelos patronos da autora, diante da complexidade da causa e dos demais parâmetros previstos no ordenamento jurídico" (e-STJ fls. 861/862 - grifou-se).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+A respeito do mérito, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, que entende que os honorários advocatícios de sucumbência devem incidir sobre o valor atualizado da causa quando não for possível mensurar o valor da condenação, como ocorre nos casos de fornecimento de tratamento médico continuado, por prazo indefinido.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer, ajuizada em razão da indevida negativa de cobertura de tratamento especializado para dependência química.
+2. A Segunda Seção, no julgamento do REsp 1.746.072/PR, estabeleceu os critérios para o arbitramento dos honorários advocatícios de sucumbência: (i) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (ii. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (ii. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (iii) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+3. Quando o valor da cobertura indevidamente negada é imensurável no momento da fixação dos honorários advocatícios de sucumbência, assim ocorrendo nos tratamentos continuados, por prazo indefinido, o critério para o seu arbitramento, seguindo a ordem de preferência estabelecida pela Segunda Seção, deve ser o do valor da causa ou equidade. Precedentes.
+4. Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+5. Agravo interno no recurso especial não provido."
+(AgInt no REsp 2.129.352/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE INTERNAÇÃO DOMICILIAR (HOME CARE). HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO COM BASE NO VALOR MENSURÁVEL DA CONDENAÇÃO (CPC, ART. 85, § 2º). AGRAVO INTERNO PROVIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. "Segundo a jurisprudência das Turmas que compõem a Segunda Seção, o título judicial que transita em julgado com a procedência dos pedidos de natureza cominatória (fornecer a cobertura pleiteada) e de pagar quantia certa (valor arbitrado na compensação dos danos morais) deve ter a sucumbência calculada sobre ambas as condenações. Quando o valor da cobertura indevidamente negada é imensurável no momento da fixação dos honorários advocatícios de sucumbência, assim ocorrendo nos tratamentos continuados, por prazo indefinido, o critério para o seu arbitramento, seguindo a ordem de preferência estabelecida pela Segunda Seção, deve ser o do valor da causa" (REsp 1.904.603/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 22/02/2022, DJe de 24/02/2022).
+2. Agravo interno provido para negar provimento ao recurso especial da parte autora."
+(AgInt no REsp 1.955.244/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 26/10/2022 - grifou-se)
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem em desfavor da recorrente.
+Publique-se.
+Intimem-se.
+EMENTA
+ RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA.  TRATAMENTO CONTINUADO. PRAZO INDEFINIDO. CONDENAÇÃO IMENSURÁVEL.  BASE  DE  CÁLCULO.  VALOR ATUALIZADO DA CAUSA. ART.  85,  §  2º,  CÓDIGO DE PROCESSO CIVIL.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. O Código de Processo Civil impõe que os honorários advocatícios sucumbenciais sejam fixados no patamar de 10% (dez por cento) a 20% (vinte por cento), subsequentemente calculados sobre o valor (I) da condenação, (II) do proveito econômico obtido ou (III) do valor atualizado da causa, nos termos do art. 85, § 2º, do diploma processual.
+3. O Superior Tribunal de Justiça firmou entendimento no sentido de que os honorários advocatícios de sucumbência devem incidir sobre o valor atualizado da causa quando não for possível mensurar o valor da condenação, como ocorre nos casos de fornecimento de tratamento médico continuado, por prazo indefinido.
+4.  Recurso especial conhecido e  não  provido.
