@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. DIREITO DOS PROCURADORES ESTADUAIS AOS HONORÁRIOS SUCUMBENCIAIS ARBITRADOS EM FAVOR DA PESSOA DE DIREITO PÚBLICO. NECESSIDADE DE REGULAMENTAÇÃO LEGAL ESPECÍFICA PELO ENTE ESTATAL. AGRAVO INTERNO DESPROVIDO.
+1. Ao consignar a ausência de direito dos procuradores estaduais à percepção da verba sucumbencial em razão da inexistência de norma legal que assim disponha, o Tribunal de origem não destoou da jurisprudência desta Corte Superior, segundo a qual, os advogados públicos somente fazem jus aos honorários arbitrados quando vencedora a Fazenda Pública mediante a existência de regulamentação legal específica pelo ente estatal. Precedentes.
+2. Agravo  interno desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto por JOEL FRANCISCO MUNHOZ, MARCOS JOÃO SCHMIDT e JOSÉ TADEU RODRIGUES PENTEADO contra  a decisão  que  conheceu do agravo para negar provimento ao recurso especial.
+Argumenta  a  parte agravante o seguinte:
+(..) é certo que o debate se refere à ao fato de que, desde quando iniciaram o exercício da atividade de advocacia como Procuradores da Autarquia demandada, o artigo 21 da Lei nº 8.906, de 1994, continuou de incidir mesmo após a edição da Lei nº 9.257, de 10 de dezembro de 1997, art. 4º.
+Ou seja, a posterior incidência da norma desse art. 4º da Lei nº 9.257, de 1997, não poderia ter operado a extinção desse direito, após 11 de dezembro de 1997, uma vez que a lei nova jamais poderia alcançar os efeitos futuros  = honorários advocatícios  de fato jurídico  = vínculo negocial publicístico  aperfeiçoado anteriormente à sua própria edição.
+Em outras palavras, o art. 4º da Lei nº 9.527, de 1977, não poderia ter nenhuma retroeficácia, para alcançar os efeitos jurídicos a irradiarem-no período de sua incidência, mas por causa afeta a negócio jurídico integralmente concluso em tempo a ela precedente (fl. 960).
+Impugnação apresentada às fls. 972-975.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. DIREITO DOS PROCURADORES ESTADUAIS AOS HONORÁRIOS SUCUMBENCIAIS ARBITRADOS EM FAVOR DA PESSOA DE DIREITO PÚBLICO. NECESSIDADE DE REGULAMENTAÇÃO LEGAL ESPECÍFICA PELO ENTE ESTATAL. AGRAVO INTERNO DESPROVIDO.
+1. Ao consignar a ausência de direito dos procuradores estaduais à percepção da verba sucumbencial em razão da inexistência de norma legal que assim disponha, o Tribunal de origem não destoou da jurisprudência desta Corte Superior, segundo a qual, os advogados públicos somente fazem jus aos honorários arbitrados quando vencedora a Fazenda Pública mediante a existência de regulamentação legal específica pelo ente estatal. Precedentes.
+2. Agravo  interno desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+O Tribunal de origem decidiu a matéria controvertida nos seguintes termos:
+A r. sentença impugnada, em adequada solução à controvérsia instaurada nos autos, foi fundamentada nos seguintes termos.
+"Não há lei estadual prevendo que deva integrar a remuneração dos servidores ora autores a parcela correspondente ao que foi recolhido aos cofres da autarquia em razão de sucumbência judicial. (..)
+E, se não há lei criando o beneficio, não cabe ao Poder Judiciário instituí-lo.
+A lei Federal 8.960/94, em seu artigo 21, não se aplicam aos ora autores, porquanto não exercem eles a atividade da advocacia, na definição do artigo 3º, § 1º, da referida lei, visto que não já lei criando a Procuradoria do IPEM, não podendo sua ausência ser substituída por mero decreto dividindo internamente o órgão." (cf. fls. 649).
+Consigne-se, ainda, que a respeitável decisão recorrida está em consonância com a jurisprudência deste E. Tribunal de Justiça, conforme os seguintes v. acórdãos a seguir reproduzidos:
+(..)
+Registre-se, por fim, não aproveitar à parte apelante as disposições do Estatuto da Advocacia, justamente porque existe lei federal dispondo em sentido contrário (Lei Federal n. 9.527/97). Isso porque o art. 4º da referida norma legal, que não ofende a Constituição Federal, dispõe sobre questão pontual relativa aos procuradores de entidades estatais da Administração Direta ou Indireta, em contraponto à Lei Federal n. 8.906/94 que estabelece regras atinentes à atividade de advocacia em geral.
+Assim, a respeitável sentença deve ser mantida em sua integralidade por seus próprios e jurídicos fundamentos (fls. 824-828).
+Ao consignar a ausência de direito dos procuradore s estaduais à percepção da verba sucumbencial em razão da inexistência de norma legal que assim disponha, a Corte a quo não destoou da jurisprudência do STJ , segundo a qual, os advogados públicos somente fazem jus aos honorários arbitrados quando vencedora a Fazenda Pública mediante a existência de regulamentação legal específica pelo ente estatal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NOVO JULGAMENTO DO AGRAVO INTERNO. ALTERAÇÃO DE ENTENDIMENTO QUANTO AO TEMA. ADEQUAÇÃO ÀS PREMISSAS ESTABELECIDAS PELO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS SUCUMBENCIAIS EM FAVOR DA PESSOA DE DIREITO PÚBLICO. VERBA AUTÔNOMA PERTENCENTE AO ADVOGADO PÚBLICO. REGULAMENTAÇÃO POR LEI PRÓPRIA. COMPENSAÇÃO COM PRECATÓRIO. IMPOSSIBILIDADE.
+I - Em observância à decisão proferida nos autos da Reclamação n. 65.774/DF (STF), de rigor o novo julgamento do Agravo Interno.
+II - Esta Corte adotava a compreensão de que os honorários advocatícios de sucumbência, devidos quando vencedora a Fazenda Pública, não constituíam direito autônomo dos seus procuradores ou representantes judiciais, porquanto integravam o patrimônio da pessoa de direito público e, por conseguinte, seria legítima a compensação de tais valores com créditos inscritos em precatório.
+III - Entretanto, o Supremo Tribunal Federal, na ADI n. 6.053/DF, fixou as seguintes orientações, de efeito vinculante: i) o pagamento de honorários sucumbenciais aos advogados públicos é constitucional; ii) os honorários de sucumbência fixados na sentença favorável a ente público pertencem a seus advogados ou procuradores, consistindo verba autônoma e destacada de eventual direito material do ente representado; iii) o recebimento da verba é compatível com o regime de subsídios, nos termos do art. 39, § 4º, da Constituição da República; e iv) os honorários sucumbenciais, somados às demais verbas remuneratórias, devem estar limitados ao teto constitucional disposto no art. 37, XI, da Carta Política.
+IV - No âmbito da Reclamação n. 65.774/DF, o Supremo Tribunal Federal consignou, consoante as diretrizes estabelecidas na ADI n. 6.053/DF, que, havendo norma legal regulamentando o direito autônomo dos advogados ou procuradores públicos ao recebimento dos honorários sucumbenciais, está afastada a possibilidade de compensação de tais verbas com débitos do respectivo ente representado.
+V - Em relação ao Distrito Federal, houve regulamentação, por norma legal própria, atribuindo os honorários sucumbenciais, nos processos judiciais que envolvam a Fazenda Pública, aos seus advogados ou procuradores. Portanto, nos termos do que fora decidido pelo Supremo Tribunal Federal, não há que se falar em compensação dessas verbas com eventuais débitos do ente público.
+VI - Agravo interno provido para negar provimento ao Recurso Especial (AgInt no REsp n. 2.087.090/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/9/2024, DJe de 19/9/2024, grifo nosso).
+MANDADO DE SEGURANÇA. ADVOCACIA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 19, DO CPC/2015. NORMA DE EFICÁCIA LIMITADA. AUSÊNCIA DE NORMA MUNICIPAL QUE REGULAMENTE A PERCEPÇÃO DE HONORÁRIOS PELOS PROCURADORES MUNICIPAIS. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+I - O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+II - Na origem, a parte autora, em 22/3/2016, impetrou mandado de segurança contra ato atribuído ao Presidente Executivo do Serviço de Água e Esgoto do Município de Araras - SAEMA, objetivando o direito ao recebimento de honorários advocatícios na condição de advogados públicos.
+III - Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação do art. 489 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+IV - Na esteira da jurisprudência do Superior Tribunal de Justiça, o art.
+85, § 19, do CPC/2015 é claro ao afirmar que os honorários de sucumbência pertencem ao advogado público. Entretanto, na própria redação do § 19 do art. 85 do CPC/2015, há menção acerca da necessidade de regulamentação do próprio direito. Assim, em se tratando de norma de eficácia limitada, seus efeitos estão condicionados à edição de lei regulamentar específica acerca da destinação dos respectivos recursos aos procuradores públicos de cada ente federativo.
+V - À míngua de normativo que regulamente a percepção de honorários por parte dos advogados públicos pertencentes ao Município de Araras, não há como vislumbrar o direito líquido e certo perseguido pelos impetrantes.
+VI - Agravo conhecido para negar provimento ao recurso especial
+(AREsp n. 1.178.070/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/12/2022, DJe de 14/12/2022, grifo nosso).
+Isso posto, nego provimento ao recurso.
