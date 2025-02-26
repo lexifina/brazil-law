@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por ESTADO DE MINAS GERAIS contra a decisão de fls. 285-287 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo especial foi deduzido com base no art. 105, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 222, e-STJ):
+ADMINISTRATIVO - REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO - APELAÇÕES PRINCIPAL E ADESIVA - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ESTADO DE MINAS GERAIS - ACIDENTE DE TRÂNSITO FATAL - ANIMAL NA PISTA - REQUISITOS ENSEJADORES DA RESPONSABILIZAÇÃO DO ESTADO COMPROVADOS - INDENIZAÇÃO DEVIDA - QUANTUM ARBITRADO - RAZOABILIDADE E PROPORCIONALIDADE - HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO DO PERCENTUAL EM SEDE DE LIQUIDAÇÃO DO JULGADO - ART. 85, § 4º, II, DO CPC/15 - SENTENÇA REFORMADA, EM PARTE - RECURSOS DESPROVIDOS.
+1. Uma vez demonstrado nos autos que se trata de rodovia pouco conservada, sem placas de sinalização indicando a presença de animais na pista, a manutenção da sentença que reconheceu o direito das autoras de serem indenizadas pelos danos morais e materiais suportados, em decorrência do falecimento de seu companheiro/pai no acidente, é medida que se impõe.
+2. Deve ser confirmado o quantum indenizatório arbitrado forma equitativa, observados os critérios da razoabilidade e proporcionalidade, bem como as circunstâncias do caso concreto.
+3. Nos moldes do art. 85, §4º, II, do CPC/15, "não sendo líquida a sentença, a definição do percentual, nos termos previstos nos incisos I a V, somente ocorrerá quando liquidado o julgado".
+Nas razões do recurso especial (fls. 264-267, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 884 e 944 do Código Civil de 2002 e 373 do Código de Processo Civil de 2015.
+Sustentou estar configurado o excesso no valor arbitrado a título de indenização por danos morais, em desatenção aos princípios da razoabilidade e da proporcionalidade, motivo pelo qual devem eles serem reduzidos.
+Apontou que a majoração da referida verba pelo Tribunal de origem é indevida, devendo permanecer o valor arbitrado na sentença de parcial procedência do pedido autoral.
+Em juízo de admissibilidade (fls. 285-287, e-STJ), a corte de origem negou o processamento do recurso ante a aplicação da Súmula 7/STJ para revisão das conclusões do acórdão recorrido.
+Irresignado (fls. 304-308, e-STJ), aduz o agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 314-317 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, cumpre esclarecer que, diversamente do alegado pelo recorrente, o Tribunal de origem não majorou o valor da indenização por danos morais fixado na sentença de parcial provimento do pedido autoral.
+Dito isso, destaca-se que, nos termos da orientação deste Tribunal Superior, o valor estabelecido pelas instâncias ordinárias, a título de indenização por dano moral, pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade.
+No caso em análise, constata-se que fixado a título de indenização por danos morais - no importe de R$ 40.000,00 (quarenta mil reais) para cada uma das autoras - encontra-se dentro dos padrões de razoabilidade e proporcionalidade, não configurando quantia desarrazoada ou desproporcional, mas sim adequada ao contexto dos autos.
+Ilustrativamente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DNIT. ACIDENTE DE TRÂNSITO. PRESENÇA DE ANIMAL NA PISTA. NEXO DE CAUSALIDADE. PRESENÇA. INDENIZAÇÃO. VALOR. REVISÃO. IMPOSSIBILIDADE NO CASO DOS AUTOS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Conforme entendimento deste Superior Tribunal de Justiça (STJ) em ações indenizatórias por danos decorrentes de acidente de trânsito em rodovia federal, tanto a União quanto o Departamento Nacional de Infraestrutura de Transportes (DNIT) possuem legitimidade passiva.
+2. Hipótese em que o Tribunal de origem reconheceu a presença de nexo de causalidade entre a omissão estatal e o dano sofrido, além da razoabilidade do valor fixado a título de indenização. Reversão do julgado que demandaria o reexame de provas. Incidência da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.681.265/RN, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/8/2024, DJe de 2/9/2024.)
+PROCESSUAL CIVIL. CIVIL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. ACIDENTE AUTOMOBILÍSTICO. ANIMAL NA PISTA DE ROLAMENTO. VÍTIMA COM ÓBITO. VALOR DA INDENIZAÇÃO. REVISÃO. POSSIBILIDADE.
+I - Na origem, trata-se de ação ajuizada contra o Departamento de Estradas e Rodagens do Estado de São Paulo - DER/SP objetivando o pagamento de indenização por danos materiais e morais, decorrentes do óbito do genitor da autora em acidente de motocicleta, ocasionado pela presença de animal na pista de rolamento.
+II - Na sentença, julgou-se parcialmente procedente o pedido para condenar o réu no pagamento de R$ 250.000,00 (duzentos e cinquenta mil reais) por danos morais. No Tribunal a quo, a sentença foi reformada para reduzir o quantum indenizatório para R$ 50.000,00 (cinquenta mil reais). Nesta Corte, deu-se provimento ao recurso especial para majorar o valor da indenização por danos morais para $ 100.000,00 (cem mil reais).
+III - A controvérsia recursal está centrada no valor indenizatório fixado a título de danos morais decorrentes do óbito do genitor da recorrente, afirmando a recorrente ser ínfimo o valor arbitrado no decisum vergastado.
+IV - Esta Corte de Justiça procede à revisão de verbas indenizatórias em situações bastante excepcionais: quando a verba tenha sido fixada em valor irrisório ou exorbitante. Confiram-se alguns julgados no sentido (g.n.): (AgInt no AREsp n. 904.302/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/4/2017, DJe 11/4/2017 e AgInt no AREsp n. 873.844/TO, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/3/2017, DJe 27/3/2017).
+V - A partir de tal entendimento, é necessário determinar se o valor fixado nos presentes autos seria irrisório, conforme sustentado no recurso interposto. Nesse diapasão, o Tribunal a quo, ao analisar as circunstâncias que envolveram o caso in concreto, entendeu por reduzir a quantia fixada na sentença em R$ 250.000,00 (duzentos e cinquenta mil reais) para R$ 50.000,00 (cinquenta mil reais).
+VI - Ao reduzir o valor fixado na sentença, o acórdão destoa da jurisprudência desta Corte em situações análogas a dos autos. A esse respeito, confiram-se os seguintes julgados: (AgInt no REsp n. 1.565.425/PE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 7/4/2016, DJe 15/4/2016 - valor fixado: R$ 80.000,00, AgRg no REsp n. 1.524.832/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 18/8/2015, DJe 3/9/2015 e AgRg no AREsp n. 552.093/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/9/2014, DJe 24/9/2014).
+VII - Dessa forma, mostra-se o valor fixado pela instância ordinária, reduzido à quinta parte do quantum definido pelo Juízo monocrático, destoante do que vem sendo prestigiado pela jurisprudência, merecendo ser revisto nesta Corte de Justiça.
+VIII - Observado que o entendimento aqui consignado, lastreado na jurisprudência, é prevalente no Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ.
+IX - Agravo interno improvido.
+(AgInt no REsp n. 1.842.689/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/9/2020, DJe de 21/9/2020.)
+Na hipótese ora em análise, o Tribunal de origem ao dirimir a controvérsia, concluiu pela configuração de danos morais indenizáveis, bem como manteve o valor fixado na sentença, nos termos da seguinte transcrição (fls. 223, 225-227, 229 e 233-235, e-STJ):
+Cuida-se de reexame necessário conhecido de ofício e recursos de apelação, principal e adesivo, aviados contra a r. sentença de ordem 43, que, nos autos da ação de indenização por danos morais e materiais, movida por L. P. A. S. e A. A. S. em desfavor do ESTADO DE MINAS GERAIS, julgou parcialmente procedente o pedido inicial para condenar o réu a: (grifos no original)
+(..)
+L. P.A S e A.A.S. ajuizaram a presente demanda em face do ESTADO DE MINAS GERAIS visando ser indenizadas pelos danos morais e materiais decorrentes de acidente automobilístico fatal sofrido no dia 01/10/2016, no km 327 da rodovia 259, sentido Guanhães, pelo seu companheiro/genitor Gilvan Alves Costa, que colidiu sua motocicleta em um cavalo que se encontrava na mesma mão de direção.
+(..)
+Com a devida vênia dos apelantes, vê-se que a sentença merece reparos tão somente quanto aos honorários advocatícios (sem grifos no original).
+Vejamos.
+Inicialmente, sabe-se que o sistema jurídico brasileiro adota a responsabilidade patrimonial objetiva do Estado sob a forma da Teoria do Risco Administrativo, com fundamento legal no art. 37, §6º, da Constituição da República, in verbis:
+(..)
+Todavia, quando o dano decorre de uma omissão do ente público, aplica-se a teoria da responsabilidade subjetiva ou teoria da faute du service. Sobre o tema, ensina Celso Antônio Bandeira de Mello:
+(..)
+Volvendo à lide em apreço, denota-se que, no dia 01/10/2016, por volta das 19h, Gilvan Alves Costa transitava pela rodovia estadual 259, sentido Guanhães, quando, na altura do km 327, colidiu com um cavalo que se encontrava no meio da pista de rolamento.
+(..)
+Pelo que se vê, ao contrário do que faz crer o primeiro apelante, o conjunto probatório dos autos demonstra que se trata de rodovia pouco conservada, com as margens obstruídas pela vegetação e sem placas de sinalização indicando a presença de animais na estrada inobstante a constatação de que a aparição de animais na pista não configura um evento raro.
+Caracterizado, portanto, o nexo de causalidade. Patente a negligência
+Evidente a falha na atuação do réu que, por meio de seus agentes, tinha a obrigação de sinalizar corretamente as rodovias estaduais e conservá-las a contento, garantindo as boas condições das vias, de forma a evitar o lamentável acidente sofrido pelo companheiro/pai, que acabou por tirar-lhe a vida - fato incontroverso no processado (sem grifos no original).
+Insta salientar, por oportuno, que a jurisprudência recente do col. STJ tem orientado neste mesmo sentido, no bojo de demandas versando sobre acidentes automobilísticos envolvendo animais na pista, a saber:
+(..)
+No que tange aos danos materiais - 1/3 (um terço) do salário mínimo para cada autora -, nada a alterar a sentença, eis que fixados em observância aos princípios da razoabilidade e da proporcionalidade.
+Convém registrar, outrossim, que os elementos probatórios do caderno processual indicam que, de fato, a família do de cujus se enquadra como de baixa renda, revelando-se presumida a dependência econômica das postulantes em relação à vítima (sem grifos no original).
+(..)
+Como sabido, o dano moral classifica-se como lesão a interesses não patrimoniais. Surge o dano moral direto quando a lesão atinge o interesse da satisfação ou gozo de um bem jurídico extrapatrimonial e o dano moral indireto quando a lesão tende a prejudicar a satisfação de bens jurídicos patrimoniais.
+(..)
+Na hipótese sub exame, não há dúvidas acerca dos danos morais sofridos pela ex-companheira e filha, em virtude da morte de Gilvan Alves Costa, sobretudo se considerado que o infortúnio poderia ter sido evitado, caso o réu não tivesse sido negligente.
+(..)
+Nesse ínterim, examinando detidamente as circunstâncias do acidente, considero que o valor estabelecido na sentença - R$ 40.000,00 (quarenta mil reais) para cada autora - revela-se condizente com as circunstâncias do caso concreto, atendidos os critérios da proporcionalidade e da razoabilidade, sem resultar em enriquecimento sem causa das demandantes, não havendo falar, portanto, em redução, tampouco em majoração (grifos no original).
+Dessa forma, a revisão das conclusões do acórdão recorrido - acerca da razoabilidade no valor arbitrado a título de indenização por danos morais - demandaria, necessariamente o reexame do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS JULGADA PROCEDENTE. ACIDENTE DE TRÂNSITO FATAL. ANIMAL NA PISTA. REQUISITOS ENSEJADORES DA RESPONSABILIZAÇÃO DO ESTADO COMPROVADOS. INDENIZAÇÃO DEVIDA. VALOR DA INDENIZAÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
