@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. PROCEDIMENTO BIFÁSICO. AUSÊNCIA DE EXCESSO DE PRAZO. PAGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os prazos processuais previstos na legislação pátria devem ser computados de maneira gl obal e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+2. Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, DJe 11/3/2022).
+3. Na hipótese, é possível verificar que o réu está preso desde 14/4/2023 pela suposta prática de homicídio qualificado. Trata-se de procedimento bifásico, com instauração de incidente de insanidade mental em 15/5/2024. De acordo com informações prestadas pelo juízo de primeiro grau, as partes já apresentaram quesitos e, em 23/9/2024, foi determinada a realização no exame no prazo de 45 dias.
+4. Além disso, de acordo com a instância ordinária, "a defesa também levou tempo considerável para apresentar a resposta à acusação".
+5. Assim, não há ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão.
+6. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+PEDRO HENRIQUE TIGRE ALMEIDA interpõe agravo regimental contra decisão de fls. 255-257, em que neguei provimento ao recurso em habeas corpus.
+Nas razões do regimental, a defesa sustenta, em síntese a ocorrência de excesso de prazo para a segregação cautelar.
+Requer, por conseguinte, seja revogada a prisão preventiva.
+Pleiteia a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. PROCEDIMENTO BIFÁSICO. AUSÊNCIA DE EXCESSO DE PRAZO. PAGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os prazos processuais previstos na legislação pátria devem ser computados de maneira gl obal e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+2. Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, DJe 11/3/2022).
+3. Na hipótese, é possível verificar que o réu está preso desde 14/4/2023 pela suposta prática de homicídio qualificado. Trata-se de procedimento bifásico, com instauração de incidente de insanidade mental em 15/5/2024. De acordo com informações prestadas pelo juízo de primeiro grau, as partes já apresentaram quesitos e, em 23/9/2024, foi determinada a realização no exame no prazo de 45 dias.
+4. Além disso, de acordo com a instância ordinária, "a defesa também levou tempo considerável para apresentar a resposta à acusação".
+5. Assim, não há ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão.
+6. Agravo regimental não provido.
+VOTO
+A despeito dos argumentos despendidos pelo agravante, entendo que não lhes assiste razão.
+O requerente foi preso em flagrante em 14/4/2023, pela suposta prática do crime previsto no art. 121, § 2º, IV, do Código Penal.
+Inconformada com o excesso de prazo, defesa impetrou habeas corpus perante o Tribunal a quo, que denegou a ordem nos nos termos a seguir (fl. 21):
+HABEAS CORPUS. PROCESSO PENAL. PACIENTE PRESO EM FLAGRANTE EM 14/04/2023, E POSTERIORMENTE DENUNCIADO COM INCURSO NAS PENAS DO ART. 121, §2º, IV C/C ART. 61, II, "E", AMBOS DO CÓDIGO PENAL. CONVERTIDA PRISÃO EM FLAGRANTE EM PREVENTIVA, SOB O FUNDAMENTO DA GARANTIA DA ORDEM PÚBLICA. 1- ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA, PORQUANTO PACIENTE ESTÁ CUSTODIADO HÁ MAIS DE 01 ANO E QUATRO MESES, SENDO INSTAURADO INCIDENTE DE INSANIDADE MENTAL, NÃO SENDO A DEFESA SEQUER INTIMADA PARA APRESENTAR QUESITOS - NÃO ACOLHIMENTO - A ANÁLISE DO EXCESSO DE PRAZO NÃO SE RESUME À CONTAGEM DO TEMPO, MAS HÁ QUE SE VERIFICAR SE HÁ SITUAÇÕES QUE JUSTIFIQUEM A DELONGA PROCESSUAL E SE CARACTERIZADA A DESÍDIA ESTATAL. NOS INFORMES JUDICIAIS, IMPETRADO NOTICIOU QUE A AÇÃO PENAL ENCONTRA-SE SUSPENSA, SENDO INSTAURADO O INCIDENTE DE INSANIDADE MENTAL, NO QUAL AS PARTES JÁ APRESENTARAM OS QUESITOS E DETERMINADA A REALIZAÇÃO DO EXAME PERICIAL, NO CONJUNTO PENAL DE VITÓRIA DA CONQUITSTA, PELO PRAZO DE 45 DIAS. TRAMITAÇÃO REGULAR. MAGISTRADO VEM IMPULSIONANDO O FEITO DE FORMA IRREGULAR, NÃO RESTANDO CARACTERIZADO A DESÍDIA ESTATAL. 2- ALEGAÇÃO DE AUSÊNCIA DE ELEMENTOS QUE APONTEM QUE O PACIENTE IRÁ DIFICULTAR AS INVESTIGAÇÕES, QUE SE ENCONTRA ENCERRADA, OU QUE IRÁ SE FURTAR À APLICAÇÃO DA LEI PENAL - INACOLHIMENTO - AUTORIDADE COATORA DECRETOU A PRISÃO PREVENTIVA EM DESFAVOR DO PACIENTE PARA SALVAGUARDAR A ORDEM PÚBLICA ,TENDO EM VISTA A GRAVIDADE DO CRIME PERPETRADO CONTRA A SUA MÃE, MOSTRANDO-SE UMA PESSOA VIOLENTA E QUE JÁ RESPONDE A OUTRAS DUAS AÇÕES PENAIS EM TRAMITAÇÃO NA VARA DO JÚRI DA COMARCA DE VITÓRIA DA CONQUISTA, ELEMENTOS APTOS A JUSTIFICAR A MANUTENÇÃO DA SUA CUSTÓDIA CAUTELAR, NÃO SE MOSTRANDO SUFICIENTES A IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. ORDEM DE HABEAS CORPUS DENEGADA
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes- Desembargador convocado do TRF 1ª Região, DJe 11/3/2022).
+Na hipótese, é possível verificar que se trata de procedimento bifásico. com instauração de incidente de insanidade mental em 15/5/2024. De acordo com informações prestadas pelo juízo de primeiro grau, as partes já apresentaram quesitos e, em 23/9/2024, foi determinada a realização no exame no prazo de 45 dias.
+Além disso, observo que "a defesa também levou tempo considerável para apresentar a resposta à acusação".
+Assim, não constato ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão.
+À vista do exposto, nego p rovimento ao agravo regimental.
