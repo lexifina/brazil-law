@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por PEREIRA BARRETO EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA E PGD REALTY S.A. EMPREENDIMENTOS E PARTICIPAÇÕES contra decisão que não admitiu recurso especial.
+O apelo nobre, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de instrumento - Cumprimento de sentença - Rejeição dos argumentos deduzidos pela executada a respeito do descabimento do prosseguimento do incidente diante da necessidade de observância ao plano recuperacional - Crédito não habilitado no juízo da recuperação e incontroverso encerramento da recuperação judicial - Cabimento da continuidade da execução individual do crédito, ainda que de natureza concursal - Necessidade, todavia, de se observar os critérios de pagamento do plano homologado, ante a concursalidade do crédito - Inviabilidade da imposição ao credor de pleitear pelo seu crédito na via administrativa - Encerramento da recuperação judicial e consequente cessação da competência do Juízo universal para deliberar sobre a validade da constrição que recaiu no patrimônio das agravantes - Decisão parcialmente reformada - Recurso provido, em parte" (e-STJ fls. 109)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 158/159).
+Em suas razões (e-STJ fls. 115/134), as recorrentes apontam violação dos artigos 6º, II, 9º, § 1º, 47, 49 e 59 da Lei nº 11.101/2005.
+Sustentam que "por ser concursal, o crédito não pode ser objeto do cumprimento de sentença individual, sem considerar os termos do Plano de Recuperação Judicial" (e-STJ fl. 128).
+Salientam que mesmo com "o encerramento do Processo de Recuperação Judicial, o crédito deve ser pago na moeda e no tempo previsto no Plano de Recuperação Judicial, e não pela totalidade do valor histórico e de modo imediato" (e-STJ fl. 128).
+Afirmam que o crédito da recorrida é quirografário e o seu pagamento deve se dar na forma do Plano de Recuperação Judicial.
+Defendem que reconhecida a concursalidade, os valores constritos devem ser liberados, a teor do que determinou a sentença de encerramento da recuperação judicial.
+Ao final, pleiteiam o provimento do recurso para que seja reformado o acórdão recorrido com a consequente extinção do cumprimento de sentença individual e o levantamento das constrições em favor das recorrentes.
+Após a apresentação das contrarrazões (e-STJ fls. 163/170), o recurso não foi admitido na origem, dando ensejo ao presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Ao dirimir a controvérsia, o aresto aresto atacado acentuou que
+"(..) diante do incontroverso encerramento da recuperação judicial e não habilitado o crédito concursal no juízo da recuperação, viável a continuidade da execução individual, não havendo que se falar na imposição à agravada de pleitear pelo seu crédito na via administrativa, sobretudo porque a hipótese envolve título executivo judicial, caracterizado o direito da exequente de prosseguir com a execução para satisfação do seu crédito.
+(..)
+Todavia, em se tratando de crédito concursal, a homologação do plano de recuperação acarreta novação da dívida, de sorte que a quantia devida pelas agravantes deve se submeter aos critérios de pagamento lá estabelecidos, notadamente no que concerne à periodicidade da quitação e consectários da mora.
+(..)
+No mais, decretado o encerramento da recuperação judicial das agravantes, há extinção da competência do juízo universal para analisar acerca da validade da constrição operada no patrimônio da recuperanda, daí a manutenção dos valores constritos na origem." (e-STJ fl. 110/111- grifou-se)
+Ao rejeitar os embargos de declaração, o tribunal de origem salientou que
+"(..) com o encerramento da recuperação judicial foi autorizado o levantamento das constrições realizadas em favor das Recuperandas e determinada a perseguição do débito pelo exequente de forma autônoma, o que pode ser realizado nos autos do cumprimento de sentença de origem já distribuído e em trâmite regular, donde a possibilidade de utilização das constrições para satisfação do débito do exequente, mediante nova aferição do valor do débito de acordo com as previsões constantes do plano de recuperação judicial" (e-STJ fl. 159- grifou-se).
+A Segunda Seção desta Corte Superior, no julgamento do REsp 1.655.705/SP, sedimentou a orientação de que, tratando-se de crédito concursal, como no caso, o credor não incluído no quadro geral de credores pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito.
+Além disso, restou consignado que o prosseguimento da execução pelo valor integral do crédito iria esvaziar o propósito da recuperação e propiciar a ocorrência de fraudes, de modo que o crédito sofre os efeitos do plano aprovado, diante da novação ope legis.
+Eis a ementa do acórdão:
+"RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. PEDIDO. FATO GERADOR ANTERIOR. SUBMISSÃO. EFEITOS. NOVAÇÃO. CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO. IMPOSSIBILIDADE. HONORÁRIOS. CAUSALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se o crédito se submete aos efeitos da recuperação judicial e, nessa hipótese, se o cumprimento de sentença deve ser extinto.
+3. Nos termos da iterativa jurisprudência desta Corte, consolidada no julgamento de recurso repetitivo, para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+4. Na hipótese, o fato gerador - descumprimento do contrato de prestação de serviços firmado entre as partes - é anterior ao pedido de recuperação judicial, motivo pelo qual deve ser reconhecida a natureza concursal do crédito.
+5. O credor não indicado na relação inicial de que trata o art. 51, III e IX, da Lei nº 11.101/2005 não está obrigado a se habilitar, pois o direito de crédito é disponível, mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, a recuperação judicial ainda não foi extinta por sentença transitada em julgado, podendo o credor habilitar seu crédito, se for de seu interesse, ou apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial, observadas as diretrizes estabelecidas no plano de recuperação aprovado, diante da novação ope legis (art. 59 da LREF).
+8. Nos casos de extinção do processo sem resolução de mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+9. Recurso especial conhecido e provido." (REsp n. 1.655.705/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 25/5/2022)
+Assim, tratando-se de crédito não habilitado, cobrado após o encerramento da recuperação judicial, deve ele se sujeitar aos efeitos desta, de forma que deve ser pago de acordo com o plano de soerguimento e, por consequência, deve ser observada a data limite de atualização monetária prevista no art. 9º, II, da Lei nº 11.101/2005 (data do pedido de recuperação judicial).
+A propósito:
+"RECURSO ESPECIAL. EMPRESARIAL E RECUPERACIONAL. TELEFONIA. COMPLEMENTAÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PEDIDO DE RECUPERAÇÃO JUDICIAL. FATO GERADOR ANTERIOR. CRÉDITO CONCURSAL. HABILITAÇÃO. FACULDADE DO CREDOR. SUJEIÇÃO AOS EFEITOS AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. NOVAÇÃO DO CRÉDITO. OCORRÊNCIA. ATUALIZAÇÃO MONETÁRIA. INCIDÊNCIA DOS LIMITES PREVISTOS NO ART. 9º, II, DA LEI 11.101/05.
+1. Ação de complementação de ações em fase de cumprimento de sentença, impugnada e julgada em 09/03/2020 Recurso especial interposto em: 29/09/2022; conclusos ao gabinete em: 15/12/2022.
+2. O propósito recursal consiste em definir a forma de atualização monetária do crédito, diante da opção do credor em não habilitá-lo na recuperação judicial.
+3. No julgamento do Recurso Especial n. 1.655.705/SP, DJe 25/5/2022, a Segunda Seção do STJ definiu a tese de que a habilitação do credor não é obrigatória, uma vez que o seu crédito é disponível, "mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial".
+4. Segundo o precedente, o credor que não habilitar deverá "apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial"; o marco será a partir da decisão de encerramento da recuperação, término da fase judicial (LREF, arts. 61-63).
+5. Assim, tratando-se de crédito não habilitado a ser cobrado após o encerramento da recuperação judicial, deverá ele se sujeitar aos efeitos da recuperação judicial, devendo ser pago de acordo com o plano de soerguimento e, por consequência lógica, em observância à data limite de atualização monetária - data do pedido de recuperação judicial - prevista no art. 9º, II, da Lei n. 11.101/2005.
+6. Na hipótese, inobstante não estar o crédito habilitado, deverá o mesmo ser submetido aos efeitos da recuperação judicial, respeitando-se, em relação à atualização monetária, a limitação imposta pela lei de regência - corrigidos até a data do pedido de recuperação judicial (LREF, art. 9º, II) - e, no período compreendido entre o pedido de recuperação judicial e a data do efetivo pagamento, nos termos e índices deliberados no plano de soerguimento.
+7. Recurso especial provido." (REsp n. 2.041.721/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/6/2023, DJe de 26/6/2023)
+Nesse contexto, a conformidade do acórdão recorrido com a jurisprudência desta Corte atrai a incidência da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECU PERAÇÃO JUDICIAL. ENCERRADA. PROSSEGUIMENTO. EXECUÇÃO. CRÉDITO CONCURSAL. NÃO HABILITADO. SUBMISSÃO. EFEITOS. PLANO APROVADO. NOVAÇÃO. PRECEDENTES. SÚMU LA Nº 568/STJ.
+1. A Segunda Seção desta Corte Superior sedimentou a orientação de que, tratando-se de crédito concursal, como no caso, o credor não incluído no quadro geral de credores pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito. O crédito sofre os efeitos do plano aprovado, diante da novação ope legis.
+2. Agravo conhecido para negar provimento ao recurso especial.
