@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SAVOY IMOBILIARIA CONST LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - EMBARGOS À EXECUÇÃO FISCAL - IPTU E MULTA POR CONSTRUÇÃO IRREGULAR - NULIDADE DA CDA - NÃO OCORRÊNCIA - CDA SUBSTITUÍDA QUE PREENCHE OS REQUISITOS LEGAIS, ESSENCIAIS E SUBSTANCIAIS PREVISTOS NO ARTIGO 2º DA LEI Nº 6.830/80 E ARTIGO 202 DO CÓDIGO TRIBUTÁRIO NACIONAL - INSUFICIÊNCIA DA PROVA DOCUMENTAL TRAZIDA AOS AUTOS PARA AFASTAR AS PRESUNÇÕES DE CERTEZA E LIQUIDEZ DA DÍVIDA INSCRITA - PRESUNÇÃO DA HIGIDEZ DOS TÍTULOS EXECUTIVOS EXTRAJUDICIAIS, CONFORME ARTIGO 204 DO CÓDIGO TRIBUTÁRIO NACIONAL - AUSÊNCIA DE PREJUÍZO AO EXERCÍCIO DE DEFESA - SENTENÇA MANTIDA - HONORÁRIOS ADVOCATÍCIOS MAJORADOS (ART. 85, § 11, CPC) - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 202, III, do CTN; ao art. 2º, §5º, III, da Lei n. 6.830/1980; e aos arts. 783 e 803, I, do CPC, no que concerne à nulidade do título executivo, visto que a certidão da dívida ativa não contém os elementos básicos nem os atributos necessários para a propositura de uma demanda executiva, como exigibilidade, certeza e liquidez, sob pena de não garantir o direito ao contraditório e à ampla defesa. Argumenta:
+No entanto, a CDA não contém elementos básicos para compreensão acerca da origem do crédito. Não há fundamentação legal para o crédito cobrado.
+A certidão de dívida ativa instruída com a petição inicial sequer menciona quaisquer artigos do código tributário nacional, evidenciando a nulidade da sua cobrança.
+ ..
+A elaboração de CDA sem os requisitos previstos na legislação, que não garante o exercício pleno do direito ao contraditório e à ampla defesa, torna nulo o título executivo. Mas não é só, torna nulo o próprio processo judicial de cobrança, nos termos dos artigos 783 e 803, I, do CPC, pois a certidão de dívida ativa deixa de possuir os atributos necessários para a propositura de uma demanda executiva, quais sejam, a exigibilidade, certeza e liquidez (fls. 179 -180).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Cumpre anotar que, após a decisão de fls. 58/61, o exequente procedeu à substituição da CDA.
+ ..
+Observe-se que, na Certidão de Dívida Ativa que orienta a execução (fls. 66/68) estão devidamente descritas a natureza do crédito, sua origem, o valor, a fundamentação legal do IPTU (art. 5º a 35 da Lei Municipal nº 1.075/1985 Código Tributário Municipal) e da Multa por Construção Irregular (art. 141 da Lei Municipal nº 1.075/1985 Código Tributário Municipal), a forma de cômputo da multa moratória, dos juros e correção monetária com as legislações pertinentes, sendo suficientes para o prosseguimento da execução fiscal (fls. 167-169).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil , majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
