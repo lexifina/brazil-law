@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GAMA FESTAS LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo em recurso especial interposto em: 10/06/2024.
+Concluso ao gabinete em: 11/10/2025.
+Ação: restituição de valor e reparação por danos morais apresentada por CAROLINE RODRIGUES CORDEIRO, em face da agravante, em razão negativa de modificação de data de festa de casamento sem o pagamento da multa contratual, decorrente de contrato de prestação de serviço de buffet.
+Sentença: julgou procedente o pedido para condenar a agravante a restituir o valor pago pela agravada, bem como ao pagamento de danos morais no valor de R$7.000,00.
+Acórdão: negou provimento ao recurso interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. CONTRATO CELEBRADO EM MARÇO DE 2019 PARA PRESTAÇÃO DE SERVIÇOS DE BUFFET EM CASAMENTO QUE SERIA REALIZADO NO DIA 18.09.2020. PRETENSÃO DE RESCISÃO CONTRATUAL COM DEVOLUÇÃO DAS PARCELAS. SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO. MANUTENÇÃO DA SENTENÇA. AUTORA QUE VINHA DESDE O MÊS DE JUNHO/2020, TENTANDO RESOLVER O CONTRATO DIANTE DO SURGIMENTO DA PANDEMIA MUNDIAL DE COVID-19. FATO IMPREVISÍVEL E ALHEIO À VONTADE DAS PARTES, SENDO PERMITIDO AOS CONTRATANTES A RESOLUÇÃO DO CONTRATO, À LUZ DO DISPOSTO NO ART.478 E SEGUINTES DO CÓDIGO CIVIL. NÃO OBSTANTE A VIGÊNCIA DO DECRETO ESTADUAL Nº 47.176, PUBLICADO EM 21 DE JULHO DE 2020, O CERNE DA QUESTÃO É QUE NÃO HÁ COMO COMPELIR OS CONTRATANTES A CELEBRAR UMA FESTA DE CASAMENTO, EM SETEMBRO DE 2020, DIANTE DA POSSIBILIDADE DE PROPAGAÇÃO DO CONTÁGIO, O QUE, EVIDENTEMENTE, EXPORIA EM RISCO A VIDA DOS NOIVOS E DE TODOS OS CONVIDADOS PRESENTES NO EVENTO. NA DATA PROGRAMADA PARA A FESTA (SETEMBRO/2020) SEQUER EXISTIA MEDICAMENTO OU VACINA DESTINADOS A PROTEGER A POPULAÇÃO DO RISCO DE CONTÁGIO. DIREITO A RESTITUIÇÃO DOS VALORES DAS PARCELAS CONTRATADAS, SEM A INCIDÊNCIA DE MULTA. DANO MORAL CONFIGURADO, DIANTE DA RECALCITRÂNCIA DA PRESTADORA DE SERVIÇOS EM SOLUCIONAR O PROBLEMA. APELO DESPROVIDO.
+Recurso especial: alega violação dos arts. 2º da Lei nº 14.046/2020, 5º da Lei nº 14.046/2020, 21 da Lei nº 11.771 de 2008. Além de omissão quanto a aplicabilidade do art. 2º da Lei nº 14.046/2020, insurge-se contra a obrigação de restituição de valores pagos pelo consumidor, bem como a reparação por danos morais fixada, sob o fundamento de que seguiu as diretrizes de remarcação de eventos durante a pandemia, consoante os arts. 2º e 5º, da Lei nº 14.046/2020. Aduz que na época da tentativa de remarcação do evento pela agravada não havia óbice para realização do evento marcado para o dia 18/09/2020, razão pela qual agiu em exercício regular de direito ao ofertar a manutenção do evento.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da deficiência de fundamentação
+Da leitura das razões recursais revela que, quanto à alegação de omissão quanto ao art. 2º da Lei nº 14.046/2020, o recurso especial está deficientemente fundamentado.
+Isso porque, é necessário que a parte agravante indique, com clareza e exatidão, o ponto omisso, obscuro ou contraditório. Além do mais, é preciso que traga também argumentação que permita a identificação da eventual ofensa, bem como indique a violação dos arts. 489 e 1.022 do CPC.
+Deixando de demonstrar em que consistiu a violação dos mencionados artigos, incide a Súmula 284/STF.
+- Do reexame de fatos e provas
+Observa-se que o TJ/RJ, após analisar o acervo probatório reunido nos autos, concluiu:
+Devido ao surgimento da pandemia mundial de COVID-19, em março de 2020, e considerando que, no auge da pandemia, ocorreram milhares de óbitos diariamente no Brasil e no mundo, fato público e notório noticiado pela imprensa, a autora resolveu transferir a data do casamento para o ano 2021, sem a cominação de qualquer penalidade contratual, o que não foi aceito pela ré.
+Diante da recalcitrância da ré em proceder a alteração da data para o ano 2021, a autora solicitou a resolução do contrato, expedindo notificação à empresa ré, em agosto de 2020, a fim de que a prestadora de serviço cancelasse o evento programado para setembro de 2020 (fls.49/53).
+Vale destacar que a autora realizou diversas tentativas de alteração da data, desde junho de 2020, conforme documento encartado às fls.46/48.
+(..) Com efeito, diante da natureza do contrato - prestação de serviços em festa de casamento - e do comportamento da prestadora de serviço, que em nenhum momento se prontificou a alterar a data do casamento para o ano 2021, à autora lhe assiste direito à resolução do contrato, à luz do art.478 do Código Civil e precedente supramencionado do STJ, até porque, não há como submeter os noivos e convidados ao perigo do contágio do vírus.
+(..) Por outro lado, o dano moral restou comprovado diante da recalcitrância da ré em solucionar o pedido da autora e de seu noivo, no sentido de alterar a data do casamento sem a imposição de multa, conforme se verifica em documento encartado às fls.48, o que motivou a autora a notificar a prestadora de serviço e ingressar em juízo para reaver as prestações quitadas. (e-STJ, fl. 517-523)
+Portanto, alterar o decidido no acórdão impugnado, acerca do dever de reparar os danos morais sofridos e de restituir os valores pagos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALOR E REPARAÇÃO POR DANOS MORAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de restituição de valor e reparação por danos morais.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
