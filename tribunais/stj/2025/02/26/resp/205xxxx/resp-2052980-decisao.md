@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 132):
+TRIBUTÁRIO. IPI. SUSPENSÃO. ART. 29 DA LEI Nº 10.637/2002. ESTABELECIMENTO EQUIPARADO A INDUSTRIAL. ART. 27, II, DA IN RFB Nº 948/09. RESTRIÇÃO NÃO PREVISTA EM LEI. ILEGALIDADE RECONHECIDA.
+Tratando-se, o impetrante, de estabelecimento equiparado a industrial, nos termos do art. 9º da Lei nº 7212/2010, faz ele jus à isenção prevista no art. 29 da Lei nº 10637/2002, sendo ilegal a restrição implementada pela IN/RFB nº 948/2009, em seu art. 27, II.
+Os embargos de declaração opostos foram rejeitados.
+A parte recorrente alega violação do art. 1.022, II, do Código de Processo Civil. Narra que, apesar dos embargos de declaração, o Tribunal a quo foi omisso quanto a pontos específicos relacionados à aplicação do art. 29 da Lei 10.637/2002, que trata da suspensão do Imposto sobre Produtos Industrializados (IPI) para determinados produtos e estabelecimentos.
+Sustenta que a parte recorrida não se enquadra nas hipóteses de isenção previstas no referido artigo, uma vez que não basta a comprovação do percentual de 60% da receita bruta, sendo imprescindível que se trate de um estabelecimento industrial para usufruir do benefício tributário. Alega que a decisão recorrida subverte a lógica das fontes do Direito ao permitir que o art. 9º, I, do Decreto nº 7.212/2010 flexibilize exigências legalmente estabelecidas, as quais são repetidas no art. 46 do mesmo decreto.
+Contrarrazões apresentadas às fls. 185/191.
+O recurso foi admitido na origem (fl. 194).
+É o relatório.
+Inexiste a alegada violação dos art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida. Consoante se depreende da análise do acórdão recorrido, o Tribunal a quo apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+O que se verifica é que, contrário à pretensão da parte recorrente, o Tribunal a quo concluiu pela ilegalidade da IN RFB nº 948/2009 por limitar o direito concedido pelo art. 29, § 1º, II, da Lei 10.637/2002. Consignou que essa instrução normativa, ao tratar da suspensão do Imposto sobre Produto Industrializado (IPI), contemplou apenas o "estabelecimento industrial", deixando de abarcar os estabelecimentos equiparados a industrial nos termos do Decreto 7.212/2010.
+Segue trecho extraído do voto condutor do acórdão recorrido que demonstra a efetiva manifestação da instância ordinária (fls. 135/138):
+A impetrante, cuja atividade econômica principal consiste na fabricação e comércio de equipamentos eletrônicos e de processamento de dados (art. 3º do Estatuto Social - p. 3, ESTATUTO3, E1 dos autos originários) é classificada como preponderantemente exportadora devido à origem de suas receitas (art. 29, §3º, Lei 10.637/02).
+Nessa condição, sustenta que faz jus ao benefício de suspensão do IPI na aquisição de determinados insumos de empresas importadoras, equiparadas a empresas industriais, nos termos do art. 29, caput, §1º, inciso II, da Lei nº 10.637/2002, verbis:
+ ..
+Conclui que, uma vez que estabelecimentos importadores são equiparados a estabelecimentos industriais (art. 51, II, do CTN) - seja de forma obrigatória ou por opção, nos termos, respectivamente, dos artigos 9º e 11 do RIPI/2010 - tem direito à suspensão do IPI nas aquisições de insumos que realiza de estabelecimentos equiparados a industrial.
+Alega que, no entanto, a IN RFB nº 948/2009, especialmente por meio de seu art. 27, distinguiu os estabelecimentos importadores dos industriais, excluindo a totalidade daqueles (importadores) de ter o IPI suspenso na venda dos insumos aos preponderantemente exportadores (como a Impetrante), restringindo o referido benefício apenas às hipóteses de aquisição de insumos de estabelecimentos industriais.
+Sustenta, assim, ilegal a limitação imposta pela IN RFB nº 948/2009, porquanto implementou restrição a direito concedido pelo art. 29, § 1º, II, da Lei nº 10.637/2002.
+Com efeito, a Instrução Normativa RFB nº 948/2009 dispõe que:
+ ..
+Observa-se que, ao tratar da suspensão do IPI no desembaraço aduaneiro e na saída do estabelecimento de matérias-primas, produtos intermediários e materiais de embalagem destinados à indústria que se dedique, preponderantemente, à elaboração dos produtos indicados no caput do artigo 29 da Lei nº 10.637/2002, a IN RFB nº 948/2009 contempla apenas o "estabelecimento industrial", sem fazer nenhuma ressalva quanto àqueles que, por expressa determinação legal, estão a ele equiparados para efeito de tributação do IPI (art. 51, II, do CTN, do art. 4º da Lei 4.502/64 e do art. 9º do Decreto nº 7.212/2010).
+Ocorre que o art. 29 da Lei nº 10.637/2002 não estabeleceu nenhuma condição específica que permita concluir legitimamente pela restrição do benefício apenas aos estabelecimentos industriais, com exclusão àqueles a eles legalmente equiparados, o que torna ilegal o disposto no art. 27, II, da Instrução Normativa RFB nº 948/2009, uma vez que criou restrição não prevista na Lei.
+A jurisprudência de ambas as Turmas tributárias desta Corte reconhece a ilegalidade do art. 27, II, da IN/RFB nº 948/2009, entendendo que os estabelecimentos equiparados a industrial, nos termos do art. 9º do Decreto 7.212/2010, também fazem jus ao benefício de suspensão do IPI prevista no art. 29 da Lei nº 10.637/2002:
+ ..
+Dessa forma, a impetrante faz jus a se beneficiar da suspensão do IPI prevista no art. 29, caput e § 1º, I e II, da Lei nº 10.637/2002, sem o óbice previsto no art. 27, II, da Instrução Normativa RFB nº 948/2009, desde que preenchidos os demais requisitos legais previstos no artigo 29 da Lei nº 10.637/2002 (a cujo respeito não se trouxe controvérsia).
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ante o exposto, conheço do recurso especial e a ele nego provimento.
+Publique-se. Intimem-se.
+ EMENTA
