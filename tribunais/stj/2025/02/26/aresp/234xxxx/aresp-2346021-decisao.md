@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FERNANDO AUGUSTO DE OLIVEIRA FELICIANO contra a decisão que inadmitiu o recurso especial com fundamento na ausência de demonstração de vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão, além de a decisão impugnada ter sido proferida diante das provas e circunstâncias fáticas próprias do processo, o que é vedado pela Súmula n. 7 do STJ, conforme fls. 130-131. Ademais, afastou a alegação de ofensa a normas constitucionais.
+Nas razões do agravo, a parte alega:
+a) violação dos arts. 186, 187 e 927 do Código Civil, pois a decisão não reconheceu a prática de ato ilícito e a consequente necessidade de reparação de danos morais (fls. 137-138);
+b) violação dos arts. 6, 14, 20, § 2º, 81 e 104 do Código de Defesa do Consumidor, visto que a decisão não reconheceu a relação de consumo entre o agravante e os agravados, nem a responsabilidade dos agravados pelos danos causados (fls. 138-141).
+Na contraminuta, a parte agravada aduz que o recurso especial não deve ser conhecido, pois busca o reexame de provas, o que é vedado pela Súmula n. 7 do STJ, e que não houve violação aos dispositivos legais indicados, requerendo a manutenção da decisão agravada (fls. 151-156).
+O recurso especial interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de indenização por danos morais.
+O acórdão recorrido foi assim ementado (fl. 90):
+EMENTA RESPONSABILIDADE CIVIL EXTRACONTRATUAL - AÇÃO DE INDENIZAÇÃO POR DANO MORAL - Ilegitimidade ativa configurada na espécie, eis que o autor pleiteia a tutela de direito difuso Extinção da demanda sem resolução do mérito que era medida que se impunha - Críticas e ofensas proferidas pelo segundo réu e que embasam a pretensão do autor foram proferidas de forma generalizada, com reflexos abstratos, motivo pelo qual infere-se que se tratou de violação a direito difuso - Sentença mantida Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fl. 115).
+No recurso especial, a parte recorrente alega, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 186, 187 e 927 do Código Civil, porque a decisão não reconheceu a prática de ato ilícito e a consequente necessidade de reparação de danos morais (fls. 100-101);
+b) 6, 14, 20, § 2º, 81 e 104 do Código de Defesa do Consumidor, porque a decisão não reconheceu a relação de consumo entre o recorrente e os recorridos, nem a responsabilidade dos recorridos pelos danos causados (fls. 101-103).
+Alega que o Tribunal de origem divergiu ao não reconhecer a legitimidade do recorrente para pleitear indenização por danos morais, mesmo diante de ofensas generalizadas que atingem a comunidade LGBT, conforme entendimento de outros tribunais (fls. 104-105).
+Requer o provimento para que se reforme o acórdão recorrido, condenando-se os recorridos a indenizar o recorrente em R$ 100.000,00 pela prática de discurso de ódio com preconceito, ou outro valor que o tribunal entender cabível, além do pagamento das despesas processuais e honorários advocatícios (fl. 111).
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser conhecido, pois busca o reexame de provas, o que é vedado pela Súmula n. 7 do STJ, e que não houve violação aos dispositivos legais indicados, requerendo a manutenção da decisão agravada (fls. 123-129).
+É o relatório. Decido.
+Verifica-se que a tese jurídica apresentada pela recorrente com relação ao não reconhecimento do ato ilícito, à necessidade de reparação de danos morais e a o reconhecimento da relação de consumo ente as partes encontram-se dissociadas dos fundamentos do acórdão recorrido, o que, nos termos da jurisprudência desta Corte, atrai a aplicação da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
