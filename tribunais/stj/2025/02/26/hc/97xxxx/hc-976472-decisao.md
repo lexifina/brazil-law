@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela Defensoria Pública do Estado de São Paulo em favor de DIOGO MARTINS DOS SANTOS, contra acórdão do Tribunal de Justiça de São Paulo que manteve sua condenação a 2 anos de reclusão em regime inicial fechado, pelo crime de furto qualificado.
+O acórdão foi assim ementado:
+Apelação. Artigo 155, § 4º, incisos I e IV, do Código Penal. Pedidos defensivos pleiteando, tão somente, o afastamento da qualificadora referente ao rompimento de obstáculo e fixação de regime prisional mais brando. Impossibilidade. Penas e regime prisional mantidos. Recursos defensivos não providos, expedindo-se mandados de prisão, após o trânsito em julgado.
+Imputa-se ao paciente a prática do crime de furto qualificado pelo rompimento de obstáculo e concurso de agentes (artigo 155, § 4º, incisos I e IV, do Código Penal).
+A defesa alega, em síntese, que: a) a fixação do regime fechado viola o art. 33 do Código Penal; b) é cabível a escolha do regime intermediário, pois a lei não veda ao condenado reincidente, com pena igual ou inferior a quatro anos, iniciar o cumprimento no regime semiaberto; c) a Súmula 269 do STJ prevê essa possibilidade quando favoráveis as circunstâncias judiciais.
+Ao final, requer a concessão da ordem para fixação do regime semiaberto.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux)
+(..) A orientação jurisprudencial deste Tribunal é no sentido de que o " habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+No caso, verifico a existência de manifesta ilegalidade a justificar a concessão da ordem de ofício.
+Com efeito, embora o paciente seja reincidente, a mera reincidência não justifica, por si só, a imposição do regime mais gravoso. Este Superior Tribunal de Justiça consolidou o entendimento, ex vi da Súmula n. 269, que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.
+Na hipótese, a pena-base foi fixada no mínimo legal, demonstrando que as circunstâncias judiciais são favoráveis. A pena definitiva de 2 anos está muito aquém do patamar de 4 anos que poderia justificar regime mais severo.
+Destaque-se, ainda, que o paciente confessou espontaneamente a prática delitiva, tendo sua confissão inclusive sido utilizada para compensar a agravante da reincidência na segunda fase da dosimetria.
+O furto qualificado praticado, embora reprovável, não apresenta gravidade excepcional que demande o regime fechado, tradicionalmente reservado a delitos mais graves, especialmente os praticados com violência ou grave ameaça.
+A imposição do regime fechado apenas pela reincidência viola a proporcionalidade e pode resultar em tratamento mais rigoroso do que o dispensado a autores de crimes mais graves, em ofensa à isonomia.
+O regime semiaberto mostra-se suficiente e adequado à prevenção e repressão do delito.
+Pelo exposto, não conheço do habeas corpus substitutivo, mas concedo a ordem de ofício para fixar o regime semiaberto para o início de cumprimento da pena.
+EMENTA
