@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 231):
+PLANO DE SAÚDE - CIRURGIA INDEVIDAMENTE NEGADA - PATHOS COBERTA PELO CONTRATO - INDICAÇÃO MÉDICA BASTANTE - ROL DA ANS EXEMPLIFICATIVO - LEI Nº 14.454/2022 - COBERTURA OBRIGATÓRIA - SENTENÇA CONFIRMADA - RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação do art. 10, §§ 3º e 4º, da Lei n. 9.656/98; art. 422 do Código Civil; bem como divergência jurisprudencial.
+Sustenta que o Tribunal de origem não teria analisado a questão sob o enfoque do tratamento diferenciado que requer os planos de saúde geridos por autogestão.
+Alega que o médico assistente do agravado indicou, para o tratamento de câncer no fígado, o procedimento de "radioembolização hepática com Y90", tendo sido negado por se tratar de procedimento não previsto no rol da Agência Nacional de Saúde Suplementar (ANS).
+Defende que o rol de procedimentos da ANS é, em regra, taxativo e que a operadora de plano de saúde somente tem a obrigação de custear procedimentos que não constem desse rol, quando houver evidência científica da eficácia e segurança para sua utilização.
+Contrarrazões apresentadas às fls. 404-424.
+Assim delimitada a controvérsia, passo a decidir.
+Na origem, o autor propôs ação de obrigação de fazer objetivando a cobertura do procedimento denominado "radioembolização hepática com Y90", objetivando tratamento de câncer no fígado.
+A sentença julgou procedente o pedido, compelindo a ré ao custeio do tratamento prescrito ao autor.
+Interposta apelação pela ré, o Tribunal de origem manteve a sentença na íntegra.
+Irresignada, a ré interpôs recurso especial, não admitido pelo Tribunal de origem, o que ensejou a interposição do presente agravo.
+Em que pesem as alegações da parte recorrente, não merece reforma o acórdão recorrido.
+O Tribunal de origem, ao analisar a controvérsia, consignou que foi abusiva a recusa de cobertura do procedimento para tratamento do câncer de fígado que acometia o autor, com base nos seguintes fundamentos (fls. 231-232):
+Deveras, a negação perpetrada pela Operadora não merece encômios; os frágeis argumentos brandidos no apelo não se sustentam ante a incontestável cobertura da PATHOS (câncer de fígado) pelo contrato, além da expressa prescrição médica quanto à necessidade do procedimento apontado assim, não há razão em negá-lo. Se a moléstia é coberta pelo pacto, por óbvio todo o tratamento necessário também o é e aqui havia razões médicas para a indicação cirúrgica.
+Singelas alegações de inexistência de cobertura, ou falta de obrigatoriedade, não são suficientes para justificar o indeferimento cometido, pois se o Plano que coloca à disposição do consumidor métodos para a terapêutica, não pode negar cobertura desses, especialmente quando o Esculápio atesta da imprescindível realização, incidindo na hipótese a Súmula n. 102 desta Egrégia Corte: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento de sua natureza experimental ou não estar previsto no rol de procedimentos da ANS".
+Ver, ainda, que a taxatividade do rol da ANS restou superada ante a recente promulgação da Lei Nº 14.454/2022, que fixou a lista como meramente exemplificativa, não mais aplicável a tese fixada pelo Magnífico Superior Tribunal de Justiça e brandida no recurso.
+Não se sustenta, pois, a negativa perpetrada, ainda mais porque o contrato pode dispor sobre as doenças alcançadas, mas não sobre a terapêutica assim, imperioso concluir que a cirurgia deve ser custeada, pois se assim não fora, haveria patente ofensa à própria natureza do contrato.
+Pelo que, em verdade, nenhum reparo merece a sédula sentença, cujos fundamentos acatam-se-nos expressamente para fins de mantença, à luz do Art. 252 do Regimento Interno desta Relação.
+Note-se que, ao garantir à parte autora o direito ao procedimento requerido, o acórdão recorrido decidiu em consonância com a jurisprudência desta Corte no sentido de que, em se tratando de procedimento para o tratamento de câncer, independentemente da natureza do rol da ANS, as operadoras de plano de saúde têm o dever de cobertura , em relação aos quais há apenas uma diretriz na resolução da autarquia. Nesse sentido, confiram-se os seguintes julgados:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. CÂNCER. TRATAMENTO. COBERTURA. NATUREZA DO ROL DA ANS. IRRELEVÂNCIA. RADIOTERAPIA COM TÉCNICA IMRT. CUSTEIO. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. No caso de tratamento oncológico, há apenas uma diretriz na resolução normativa da Agência Nacional de Saúde Suplementar - ANS para o custeio de medicamentos, motivo pelo qual é irrelevante a discussão da natureza taxativa ou exemplificativa do rol de procedimentos da mencionada agência reguladora. Precedentes.
+2. Os planos de saúde possuem o dever de cobertura de procedimentos e exames integrantes do tratamento oncológico. Precedentes.
+2.1. O Tribunal de origem determinou o custeio, pelo plano de saúde, da radioterapia com técnica IMRT, integrante do tratamento de câncer da parte agravada, conforme a prescrição médica, o que não destoa do entendimento desta Corte Superior.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. Agravo interno que se nega provimento.
+(AgInt no REsp n. 2.091.673/PB, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE MEDICAMENTO ONCOLÓGICO. ABUSIVIDADE. ACÓRDÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. "Compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir o procedimento, mas custear as despesas de acordo com a melhor técnica" (AgInt no REsp n. 1.765.668/DF, Terceira Turma, julgado em 29/4/2019, DJe de 6/5/2019).
+2. No âmbito do REsp n. 1.733.013/PR, a Quarta Turma firmou o entendimento (posteriormente ratificado pela Segunda Seção no julgamento dos EREsp n. 1886929 e EREsp n. 1889704) de que o rol de procedimento da ANS não pode ser considerado meramente exemplificativo. Em tal precedente, contudo, fez se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+3 É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Agravo interno improvido.
+(AgInt no REsp n. 1.960.863/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 8/4/2024, DJe de 12/4/2024.)
+Dessa forma, estando o acórdão recorrido em consonância com a jurisprudência deste Tribunal, incide, no caso, a Súmula 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "a" quanto àqueles fundamentados pela alínea "c" do inciso III do art. 105 da Constituição Federal .
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
