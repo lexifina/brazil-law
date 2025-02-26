@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por OSVALDECI BEZERRA DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial.
+Em primeira instância, o agravante foi condenado como incurso no art. 302, § 3º, da Lei n. 9.503/1997 (Código de Trânsito Brasileiro), à pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, e 2 (dois) meses de suspensão de se obter habilitação para dirigir veículo automotor (fls. 222-228).
+O Tribunal de origem negou provimento à apelação da defesa, mantendo a condenação (fls. 303-317).
+O agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal. Em suas alegações recursais, pleiteou o reconhecimento da violação ao art. 44, I e III, do Código Penal e ao princípio da individualização da pena (fls. 323-330).
+O recurso especial foi inadmitido na origem, em razão da ausência de demonstração do dissídio jurisprudencial, bem como diante da pretensão de reexame de provas, conforme óbice da Súmula n. 7/STJ (fls. 351-353).
+Foi interposto o presente agravo em recurso especial, por meio do qual o agravante sustentou que o acórdão recorrido negou vigência a lei federal, especificamente ao princípio da individualização da pena, e que a decisão de inadmissibilidade foi equivocada ao considerar que o recurso pretendia o reexame de provas. Requereu o provimento do agravo para o seguimento do recurso especial (fls. 357-366).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 396-399).
+É o relatório. DECIDO.
+Da minuciosa análise das razões recursais, conclui-se que a parte agravante deixou de apresentar argumentos específicos e detalhados contra a decisão que inadmitiu o recurso especial. Nesse sentido, não observou o teor da Súmula n. 182/STJ, cuja aplicação se dá analogicamente ao caso em tela, uma vez que se limitou a repisar o seu inconformismo.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+O princípio da dialeticidade recursal exige, portanto, que haja uma confrontação clara, concreta e ampla de todos os fundamentos da decisão. Nesse sentido, a jurisprudência consolidada deste Tribunal:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ. 1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ. 2. O novo Código de Proce sso Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada. 3. a interposição descabida de sucessivos recursos (AgRg no EARESP NO RCD nos EDcl no AgRg nos EDcl no AgRg no ARESP N. 1.870.554 - SP) configura abuso do direito de recorrer, autorizando a baixa imediata dos autos. Agravo regimental não conhecido com determinação de certificação do trânsito em julgado e imediata baixa dos autos.
+(STJ - AgRg nos EAREsp: 1870554 SP 2021/0105834-9, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 07/03/2023, CE - CORTE ESPECIAL, Data de Publicação: DJe 14/03/2023)
+No caso dos autos, o agravante não demonstrou o dissídio jurisprudencial, como exigem o art. 1.029, § 1º, do CPC e o art. 255, § 1º, do RISTJ.
+No tocante à Súmula n. 7/STJ, deixou de apontar, especificamente, como seria possível, no caso concreto, à míngua de uma análise fática, alterar as conclusões da Corte de origem para fins de acolhimento dos pedidos contidos no recurso especial.
+Ao não se desincumbir da obrigação de rebater todos os fundamentos da decisão, o agravante incorreu, portanto, em violação à Súmula n. 182/STJ.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento no art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
