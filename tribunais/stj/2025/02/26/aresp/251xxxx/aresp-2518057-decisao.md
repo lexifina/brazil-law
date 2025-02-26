@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual PALHA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a e c, da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 280):
+APELAÇÃO CÍVEL MANDADO DE SEGURANÇA. LEGALIDADE E CONSTITUCIONALIDADE DA RESOLUÇÃO Nº 53/2021 DA SEFA E DO ART. 51, III E § 3º DO DECRETO Nº 7.871 /2017. RESTRIÇÃO ANUAL E MENSAL DE UTILIZAÇÃO DE CRÉDITOS ACUMULADOS DE ICMS ORIUNDOS DE OPERAÇÃO DE EXPORTAÇÃO, VIA SISCRED. PRECEDENTE DO ÓRGÃO ESPECIAL DESTA CORTE - INCIDENTE DE DECLARAÇÃO DE INCONSTITUCIONALIDADE Nº 1.748.097-2. ART. 297 DO RITJPR. PRECEDENTE CONSUBSTANCIADO EM JURISPRUDÊNCIA DOMINANTE DO TRIBUNAL, PARA ORIENTAÇÃO DOS DEMAIS ÓRGÃOS JULGADORES DE PRIMEIRA E SEGUNDA INSTÂNCIA.
+SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fl. 311).
+Nas razões de seu recurso especial, a parte recorrente alega que houve violação ao princípio da não cumulatividade do ICMS e ao princípio da legalidade, além de dissídio jurisprudencial. Em resumo, aponta:
+i. Violação ao art. 25, § 1º, II, da Lei Complementar 87/1996 (Lei Kandir), que prevê que o crédito acumulado em virtude de exportação pode ser transferido a terceiros sem qualquer restrição;
+ii. Violação aos arts. 19 e 23 da Lei Complementar 87/1996, que preveem o princípio da não cumulatividade do ICMS, o qual estaria sendo violado pelas restrições impostas pelo Estado do Paraná;
+iii. Violação ao art. 97, I, do CTN, que dispõe sobre o princípio da legalidade estrita, argumentando que a restrição à transferência e à utilização de crédito de ICMS equivale à instituição de tributo por via indireta;
+iv. Violação ao art. 99 do CTN, que estabelece que o alcance dos decretos se restringe às leis em função das quais são expedidos.
+A parte adversa, o Estado do Paraná, apresentou contrarrazões (fls. 435/440).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+No caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal (arts. 19, 23, e 25, § 1º, II, da LC 87/1996), é incabível o recurso especial pois interposto de acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem afastou a pretensão autoral com amparo no julgamento do Recurso Extraordinário 601.967 pelo Supremo Tribunal Federal, nestes termos (fls. 283/284):
+Tema 346: "(i) Não viola o princípio da não cumulatividade (art. 155, §2º, incisos I e XII, alínea c, da CF/1988) lei complementar que prorroga a compensação de créditos de ICMS relativos a bens adquiridos para uso e consumo no próprio estabelecimento do contribuinte; (ii) Conforme o artigo 150, III, c, da CF/1988, o princípio da anterioridade nonagesimal aplica-se somente para leis que instituem ou majoram tributos, não incidindo relativamente às normas que prorrogam a data de início da compensação de crédito tributário.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. FORMA DE CÁLCULO. ICMS DESTACADO NAS NOTAS FISCAIS VERSUS ICMS A RECOLHER NA COMPETÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. O Tribunal de origem apenas interpretou o precedente do Supremo Tribunal Federal em repercussão geral para aplicá-lo ao caso concreto, razão pela qual não cabe ao Superior Tribunal de Justiça dirimir a controvérsia em sede de Recurso Especial no pertinente à interpretação constitucional do referido RE 574.706 RG/PR, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da Constituição Federal.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp n. 1.578.077/SP, Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região, Primeira Turma, julgado em 19/4/2021, DJe de 29/4/2021, sem destaque no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaque no original.)
+Em seu recurso, a parte recorrente apontou como violados os arts. 97 e 99 do CTN.
+O acórdão recorrido, entretanto, não decidiu a causa por meio da aplicação dos dispositivos legais tidos por violados, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos exatos termos das Súmulas 282 e 356 do Supremo Tribunal Federal (STF), aplicadas por analogia.
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A p ropósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
