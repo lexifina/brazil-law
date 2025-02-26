@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Partido dos Trabalhadores - PT , em face do acórdão do Tribunal Superior Eleitoral assim ementado:
+
+    “AGRAVO REGIMENTAL. PRESTAÇÃO DE CONTAS. PARTIDO POLÍTICO. EXERCÍCIO FINANCEIRO 2018. DESAPROVAÇÃO. DETERMINAÇÃO. DISSÍDIO JURISPRUDENCIAL. NÃO CARACTERIZADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. VERBETE SUMULAR 24 DO TSE. INCIDÊNCIA. PRINCÍPIO DA PROPORCIONALIDADE. NÃO CONFIGURADO. DESPROVIMENTO”
+
+    Na minuta, sustenta-se violação dos arts. 5º, caput, XXII, XXXIX e 93, IX, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Inicialmente, não se visualiza a alegada violação do art. 93, IX, da Carta da República. Tal dispositivo exige que sejam fundamentadas, ainda que sucintamente, todas as decisões dos órgãos do Poder Judiciário, sem determinar, contudo, o exame pormenorizado de todas as alegações das partes, nem a correção dos fundamentos da decisão. No presente caso, o órgão julgador enfrentou as causas de pedir veiculadas, bem como motivou adequadamente sua decisão e solucionou a controvérsia aplicando o direito que entendeu pertinente na hipótese. Nesse sentido:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+
+    Verifica-se, ademais, que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise ou reexame se revelam inviáveis em sede de recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Eleitoral. 3. Cassação de diploma por captação ilícita de recursos em campanha eleitoral. Análise da proporcionalidade da punição. Lei 9.504/1997. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 STF. Precedentes. 4. Inexistência de argumentos capazes de infirmar a decisão agravada. 5. Negado provimento ao agravo regimental.” (ARE 1399072 AgR, Relator(a): GILMAR MENDES, Segunda Turma, DJe 19-05-2023)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. PROPORCIONALIDADE E RAZOABILIDADE DAS SANÇÕES IMPOSTAS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO–PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE 967731 AgR, Relator(a): LUIZ FUX, Primeira Turma, DJe 12-06-2019)
+
+    "Recurso extraordinário representativo da controvérsia. Aplicação retroativa de lei mais benéfica às infrações de trânsito. Exegese das normas de trânsito. Interpretação realizada à luz das normas do Código Brasileiro de Trânsito revogado e do vigente. Matéria eminentemente infraconstitucional. Ausência de repercussão geral. 1. Não apresenta repercussão geral o recurso extraordinário que discute efeitos de normas de trânsito revogadoras e revogadas. 2. É pacífica a jurisprudência da Corte no sentido de que os conceitos dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontram na Constituição Federal, senão na legislação ordinária, mais especificamente na Lei de Introdução às Normas do Direito Brasileiro. 3. Ausência de repercussão geral.” (RE 657.871-RG, Rel. Min. Dias Toffoli, Pleno, DJe 17.11.2014)
+
+    “PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIOS. ÍNDICES DE CORREÇÃO MONETÁRIA RELATIVOS AOS ANOS DE 1997, 1999, 2000, 2001, 2002 E 2003. CONSTITUCIONALIDADE. PERCENTUAIS SUPERIORES AO ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR (INPC). REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DA JURISPRUDÊNCIA. [...] 3. Incabível, em recurso extraordinário, apreciar violação ao art. 5º, XXXV e XXXVI, da Constituição Federal, que pressupõe intermediário exame e aplicação das normas infraconstitucionais pertinentes (AI 796.905-AgR/PE, Rel. Min. Luiz Fux, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 19.8.2011). 4. Agravo a que se conhece para, desde logo, negar seguimento ao recurso extraordinário, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria.” (ARE 808.107-RG, Rel. Min. Teori Zavascki, Pleno, DJe 01.8.2014)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 15.08.2023. PARTIDO POLÍTICO. PRESTAÇÃO DE CONTAS. DESTINAÇÃO DE RECURSOS DO FUNDO PARTIDÁRIO. PRINCÍPIO DA PROPORCIONALIDADE. INAPLICABILIDADE. APLICAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. REVOLVIMENTO DE FATOS E PROVAS. NÃO CABIMENTO DE RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O acórdão impugnado, no recurso extraordinário, decidiu sobre as contas do partido, seguindo o conjunto de precedentes do Tribunal Superior Eleitoral, afirmando inviável aprovar as contas partidárias, ainda que com ressalvas, com base nos princípios da proporcionalidade e razoabilidade, pois o conjunto das falhas somava montante que correspondia a 16,39% do total de receitas declaradas, constituindo-se valor elevado tanto em termos absolutos como percentuais. 2. Eventual divergência em relação ao entendimento adotado pelo tribunal a quo, no que diz respeito às contas partidárias, demandaria o reexame de fatos e provas (vedado pela Súmula 279 do STF) e o exame da legislação infraconstitucional (Lei 9.096/95; Res.-TSE 23.432/2014 e Lei 10.406/2002) 3. Agravo regimental a que se nega provimento.” (ARE 1424038 AgR, Relator Min. Edson Fachin, Segunda Turma, DJe-s/n 04-12-2023)
+
+    “SEGUNDO AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ELEITORAL. PARTIDO POLÍTICO. PRESTAÇÃO DE CONTAS. OBSERVÂNCIA DO DEVER DE FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. TEMA N. 339/RG. VIOLAÇÃO DO ART. 5º, LIV E LV, DA CARTA DA REPÚBLICA. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. TEMA N. 660/RG. REEXAME DE FATOS E PROVAS. ENUNCIADO N. 279 DA SÚMULA DO SUPREMO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA DIRETA À LEI MAIOR. 1. Uma vez observado o dever de fundamentação das decisões judiciais, inexiste contrariedade ao art. 93, IX, da Carta da República (Tema n. 339/RG). 2. A invocação de ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório não tem repercussão geral, por articular a matéria impugnada, em casos tais, ofensa meramente reflexa à Constituição Federal (Tema n. 660/RG). 3. Havendo o Tribunal a quo decidido a questão a partir de interpretação conferida à legislação infraconstitucional de regência, não cabe o recurso extraordinário. 4. Dissentir da conclusão alcançada na origem – quanto à irregularidade das contas prestadas – demandaria revolvimento de elementos fático-probatórios. Incidência do enunciado n. 279 da Súmula do Supremo. 5. Agravo interno desprovido.” (ARE 1350106 AgR-segundo, Rela. Min. Nunes Marques, 2ª Turma, DJe 23-09-2024)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 26 de fevereiro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
