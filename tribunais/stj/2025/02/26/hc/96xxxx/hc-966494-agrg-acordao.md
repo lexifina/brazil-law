@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. INEXISTÊNCIA DE VAGA NO ABERTO. PRISÃO DOMICILIAR, MEDIANTE USO DE TORNOZELEIRA. PEDIDO DE RETIRADA DO EQUIPAMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO IMPROVIDO.
+1- 1- É necessário o monitoramento eletrônico quando a prisão domiciliar para o resgate de pena é concedida, de forma excepcional, nos casos de ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão.  ..  (AgRg no HC n. 750.926/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.).
+2- Pela nova redação do art. 115, da LEP, imposta pela lei n. 14.843/2024, o juiz poderá estabelecer condições especiais para a concessão de regime aberto, entre as quais, a fiscalização por monitoramento eletrônico  .. .
+3- O caso do apenado está inserido nas situações excepcionais da prisão domiciliar (e-STJ, fls. 360/361), ou seja, em que o regime adequado (no caso, o aberto) foi substituído pela prisão domiciliar, por falta de vagas, sendo necessário, assim, o monitoramento eletrônico,
+4- Agravo Regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WEDER DE PAULA COSTA contra decisão monocrática da presidência desta Corte que indeferiu liminarmente o habeas corpus impetrado em seu favor, em que se pleiteou o afastamento da determinação do uso de tornozeleira eletrônica no regime aberto (e-STJ, fls. 392/395).
+Neste recurso, a defesa insiste em que o regime aberto é baseado no senso de responsabilidade do condenado, de modo que o executado deve cumprir a pena fora do estabelecimento e sem vigilância, conforme previsão expressa do art. 36, §1º, do Código Penal, razão pela qual a imposição do uso de tornozeleira eletrônico constitui ilegalidade.
+Em vista do exposto, requer a reconsideração da decisão agravada ou que o feito seja submetido a julgamento perante a Quinta Turma desta Corte (conhecimento e provimento).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. INEXISTÊNCIA DE VAGA NO ABERTO. PRISÃO DOMICILIAR, MEDIANTE USO DE TORNOZELEIRA. PEDIDO DE RETIRADA DO EQUIPAMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO IMPROVIDO.
+1- 1- É necessário o monitoramento eletrônico quando a prisão domiciliar para o resgate de pena é concedida, de forma excepcional, nos casos de ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão.  ..  (AgRg no HC n. 750.926/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.).
+2- Pela nova redação do art. 115, da LEP, imposta pela lei n. 14.843/2024, o juiz poderá estabelecer condições especiais para a concessão de regime aberto, entre as quais, a fiscalização por monitoramento eletrônico  .. .
+3- O caso do apenado está inserido nas situações excepcionais da prisão domiciliar (e-STJ, fls. 360/361), ou seja, em que o regime adequado (no caso, o aberto) foi substituído pela prisão domiciliar, por falta de vagas, sendo necessário, assim, o monitoramento eletrônico,
+4- Agravo Regimental não provido.
+VOTO
+O agravo regimental é tempestivo e rechaçou os fundamentos da decisão combatida, razões pelas quais merece conhecimento.
+No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão.
+Estes foram os fundamentos adotados na decisão agravada (e-STJ, fls. 393/395):
+ ..
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+ ..
+Esse entendimento está de acordo com a jurisprudência firmada nesta Corte de que é razoável o uso de tornozeleira eletrônica quando a prisão domiciliar é concedida para o resgate da pena considerando a ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão.
+ ..
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+A decisão guerreada deve ser mantida.
+Como bem frisou o Tribunal de origem, pela nova redação do art. 115, da LEP, imposta pela lei n. 14.843/2024, o juiz poderá estabelecer condições especiais para a concessão de regime aberto, entre as quais, a fiscalização por monitoramento eletrônico  .. .
+Além disso, o presente caso está inserido nas situações excepcionais da prisão domiciliar (e-STJ, fls. 360/361), ou seja, em que o regime adequado (no caso, o aberto) foi substituído pela prisão domiciliar, por falta de vagas, sendo necessário, assim, o monitoramento eletrônico, conforme firme jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. INEXISTÊNCIA DE VAGA NO ABERTO. PRISÃO DOMICILIAR, MEDIANTE USO DE TORNOZELEIRA. PEDIDO DE RETIRADA DO EQUIPAMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. INCOMPATIBILIDADE DO EQUIPAMENTO COM O USO DE MARCAPASSO. AUSÊNCIA DE CONTRAINDICAÇÃO MÉDICA. RECOMENDAÇÕES DE CUIDADO COM O USO. RECURSO IMPROVIDO.
+1- É necessário o monitoramento eletrônico quando a prisão domiciliar para o resgate de pena é concedida, de forma excepcional, nos casos de ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão. (HC n. 383.654/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 3/10/2017, DJe 9/10/2017)  ..  (AgRg no HC n. 695.943/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.) 2- Assente nesta eg. Corte Superior que, sobre a aplicação da Súmula Vinculante n. 56, em relação à falta de vagas no regime aberto, "sendo certo que a prisão domiciliar monitorada, verificada no caso dos autos, não se afigura mais penosa do que aquela que o paciente vivenciaria no cumprimento da pena em regime aberto (AgRg no HC n. 691963/RS, Sexta Turma, Rel. Min. Sebastião Reis Junior, DJe de 22/10/2021).  ..  (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.) 3-  ..  A defesa foi devidamente intimada a justificar os reiterados descumprimentos das condições do regime aberto. Ademais, não se constata prejuízo ao apenado no regular exercício de sua atividade laboral, haja vista o cumprimento da pena em modo mais brando, com prisão domiciliar noturna e monitoramento eletrônico.
+ ..  AgRg no RHC 124.395/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/10/2020, DJe 21/10/2020) 4- No caso, o apenado teve a prisão domiciliar mediante o uso de tornozeleira eletrônica substituída em razão da falta de vagas no regime em que foi condenado, qual seja, o aberto.
+5- Não ficou demonstrado o risco concreto de saúde em função do uso concomitante do marcapasso com a tornozeleira eletrônica, uma vez que, tomando-se os cuidados necessários, é possível a utilização dos dois aparelhos.
+6- Agravo regimental não provido.
+(AgRg no HC n. 750.926/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. POSSIBILIDADE. FALTA DE VAGAS EM ESTABELECIMENTO PRISIONAL COMPATÍVEL. RECURSO DESPROVIDO.
+1. Na hipótese em que o sentenciado foi progredido ao regime aberto e, ante a ausência de vagas em estabelecimento penal compatível, foi-lhe deferido a prisão domiciliar com monitoramento eletrônico, esta Corte Superior se orienta no sentido de que não há ilegalidade, uma vez que a tornozeleira eletrônica constitui apenas o meio de fiscalização do cumprimento de pena.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 737.045/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. PRISÃO DOMICILIAR. MONITORAMENTO ELETRÔNICO. POSSIBILIDADE. AUSÊNCIA DE VAGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "É assente nesta Corte o entendimento de que a falta de vagas em estabelecimento adequado para o cumprimento da pena em regime aberto não justifica a permanência do condenado em condições prisionais mais severas. Em casos tais, possível é a concessão, em caráter excepcional, da prisão domiciliar, no caso de inexistir no local casa de albergado, enquanto se espera vaga em estabelecimento prisional adequado." (AgRg no REsp n. 1.389.152/RS, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/10/2013, DJe 4/11/2013).
+2. "É necessário o monitoramento eletrônico quando a prisão domiciliar para o resgate de pena é concedida, de forma excepcional, nos casos de ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão." (HC n. 383.654/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 3/10/2017, DJe 9/10/2017) 3. Agravo regimental desprovido.
+(AgRg no HC n. 695.943/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INEXISTÊNCIA DE VAGA NO ABERTO. PRISÃO DOMICILIAR, MEDIANTE USO DE TORNOZELEIRA. PEDIDO DE RETIRADA DO EQUIPAMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. "III. Inexistindo vaga disponível no regime semiaberto, cabe ao Juízo da Execução determinar o cumprimento da pena em regime aberto ou até mesmo em prisão domiciliar, ambas com monitoramento eletrônico. IV. O monitoramento eletrônico é necessário quando concedida, de forma excepcional, a prisão domiciliar para o resgate da reprimenda, nos casos de ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão. (HC 357.239/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/10/2016, DJe 21/10/2016.) 2. É admissível, portanto, o monitoramento eletrônico quando a prisão domiciliar para o resgate de pena é concedida, de forma excepcional, nos casos de ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão.
+3. As limitações impostas pelo uso do monitoramento eletrônico (no caso) não se qualificam como mais graves do que aquelas que o reeducando estaria submetido no regime aberto, caso o sistema prisional apresentasse as adequadas condições. A medida não implica supressão de direito do apenado e garante a necessária vigilância estatal.
+4. Agravo regimental improvido.
+(AgRg no HC n. 683.805/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+Afinal, embora o executado não tenha culpa da ausência de vagas em estabelecimento adequado, é dever dele adaptar-se à disponibilidade de vigilância do Poder Público.
+Por fim, o agravante poderia estar em situação mais penosa, ou seja, no regime aberto, porque segundo expressa determinação legal, deveria ser cumprido em casa de albergado ou estabelecimento adequado, ao qual o apenado deve recolher-se diariamente nos estritos horários estabelecidos e sob rigoroso e diuturno controle prisional, cenário que impõe condições muito mais rígidas do que a prisão domiciliar, com ou sem monitoração eletrônica.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
