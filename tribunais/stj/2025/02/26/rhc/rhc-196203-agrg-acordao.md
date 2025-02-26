@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. PEDIDO DE NULIDADE DE PROVAS. SUPRESSÃO DE INSTÂNCIA. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A alegação defensiva não foi previamente submetida ao crivo do Tribunal de origem. Portanto, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância. Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 15/9/2020, DJe 29/9/2020).
+- Conforme destacado no parecer ministerial, "os elementos probatórios preservados pela Corte local não foram produzidos no inquérito policial inquinado, mas em procedimento administrativo tributário. Nesse panorama, ausente nexo causal entre os elementos informativos produzidos no inquérito policial anulado e as provas que instruem a ação penal originária, as quais foram confeccionadas no bojo de procedimento administrativo tributário", não haveria se falar em nulidade.
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DENISE MAIA LEMOS BORTOLETTO contra decisão monocrática, da minha lavra, que não conheceu do mandamus.
+Consta dos autos que foi instaurado inquérito policial para investigar condutas que já estavam sendo apuradas em ação penal, motivo pelo qual a defesa impetrou prévio mandamus, pugnando pelo trancamento do segundo inquérito. A Corte local concedeu a ordem para trancar o segundo inquérito, declarando a nulidade das provas nele produzidas, com exceção "daquelas que instruem a ação penal em andamento" (e-STJ fl. 370).
+Opostos embargos de declaração, estes foram acolhidos para determinar o cancelamento formal do indiciamento (e-STJ fl. 389).
+No recurso em habeas corpus, a defesa aduziu, em síntese, que deveria ter sido declarada a nulidade de todas as provas produzidas no segundo inquérito policial, incluindo as provas derivadas. Contudo, o recurso não foi conhecido.
+No presente agravo regimental, a defesa afirma, em síntese, que "houve pronunciamento expresso no v. Acórdão Estadual". No mais, reitera o pedido de nulidades.
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. PEDIDO DE NULIDADE DE PROVAS. SUPRESSÃO DE INSTÂNCIA. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A alegação defensiva não foi previamente submetida ao crivo do Tribunal de origem. Portanto, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância. Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 15/9/2020, DJe 29/9/2020).
+- Conforme destacado no parecer ministerial, "os elementos probatórios preservados pela Corte local não foram produzidos no inquérito policial inquinado, mas em procedimento administrativo tributário. Nesse panorama, ausente nexo causal entre os elementos informativos produzidos no inquérito policial anulado e as provas que instruem a ação penal originária, as quais foram confeccionadas no bojo de procedimento administrativo tributário", não haveria se falar em nulidade.
+2. Agravo regimental a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, conforme explicitado na decisão monocrática, a alegação defensiva não foi previamente submetida ao crivo do Tribunal de origem. Portanto, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Reitero, conforme destacado no parecer ministerial, que "os elementos probatórios preservados pela Corte local não foram produzidos no inquérito policial inquinado, mas em procedimento administrativo tributário. Nesse panorama, ausente nexo causal entre os elementos informativos produzidos no inquérito policial anulado e as provas que instruem a ação penal originária, as quais foram confeccionadas no bojo de procedimento administrativo tributário", não haveria se falar em nulidade.
+Assim, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
