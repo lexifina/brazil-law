@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de NELSON DE SOUZA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Depreende-se dos autos que o paciente foi preso, em 27/09/2024, pela prática, em tese, dos delitos de resistência, desobediência, homicídio qualificado tentado, roubo majorado, posse ilegal de arma de fogo, disparo de arma de fogo e da contravenção penal de direção perigosa, sendo a custódia flagrancial homologada e convertida em preventiva-fl. 46.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 13-27.
+No presente writ, alega a defesa que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva.
+Salienta, ainda, que o paciente ostenta condições pessoais favoráveis, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de sustentação oral à fl. 12.
+Sem pedido de liminar.
+As informações foram prestadas às fls. 46-48 e 49-72. O Ministério Público Federal, às fls. 77-88, manifestou-se pela "Não admissão do writ, descabida a concessão de um habeas corpus ex officio".
+É o relatório. DECIDO.
+Primeiramente, quanto ao pedido de sustentação oral, plenamente possível, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema.
+A propósito:
+"A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019" (AgRg nos EDcl no HC n. 937.768/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+Nesse mesmo sentido:(AgRg na PET no HC n. 891.275/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/9/2024, DJe de 1/10/2024.); (AgRg no HC n. 909.965/CE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/9/2024, DJe de 25/9/2024.); (AgRg no HC n. 898.419/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/9/2024, DJe de 20/9/2024.)
+Quanto a alegação acerca da ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, in casu, observa-se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que revelam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, uma vez que o pa ciente, em concurso com outros corréus efetuaram roubo em um hotel subtraindo coisas alheias móveis de diversas vítimas, mediante violência e grave ameaça, com emprego de armas de fogo de uso restrito. Consta que não teriam obedecido às ordens policiais de abordagem,empreendendo fuga, passando a efetuar diversos disparos de arma de fogo contra os policiais militares, até que foram detidos em um Posto de Combustível.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça a respeito:
+"O modus operandi demonstrou frieza e crueldade representando periculosidade in concreto ao meio social"(AgRg no HC n. 940.932/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+"No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
