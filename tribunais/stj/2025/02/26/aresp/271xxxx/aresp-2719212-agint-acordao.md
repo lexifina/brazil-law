@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. AUSÊNCIA  DE  INDICAÇÃO  DO  DISPOSITIVO  DE  LEI  FEDERAL  SUPOSTAMENTE  VIOLADO.  SÚMULA  284/STF, POR ANALOGIA.  FALTA DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL APONTADO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284/STF.
+2. O dissídio jurisprudencial viabilizador do recurso especial não foi demonstrado nos moldes legais pois, além da deficiência do cotejo analítico, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente.
+3.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por  SERFORTE ADMINISTRAÇÃO E SERVIÇOS LTDA  contra  a  decisão  que  não  conheceu  do  recurso  ,  pela  incidência  da  Súmula  284/STF e ausência de comprovação da divergência jurisprudencial.
+Argumenta  a  parte  agravante,  em  síntese,  que "a legislação foi adequadamente citada, que as jurisprudências divergentes, desse próprio STJ, também foi devidamente citada e transcrita, e com isso tudo, ainda foi fornecido os marcos temporais suspensivos e prescricionais, conforme estabelecido com a decisão de primeiro grau" (fl. 225).
+Aduz, ainda, que "basta uma simples leitura do Recurso Especial para se detectar, não só a ocorrência da prescrição intercorrente, como também o atendimento aos pressupostos estatuídos pela sumula 284/STF, já que foram citadas todas as decisões recorridas, citado ainda as normas em que se fundamenta o direito do recorrentes, mormente esculpidas no art. 40 da Lei 6830/80, e muito mais, a própria jurisprudência desse colendo STJ, no Recurso Especial nº 1.340.553 , bem como julgamento dos embargos de declaração desse mesmo Recurso Especial, matéria que deu origem as decisões nos temas 566/571, desse mesmo STJ" (fl. 226).
+Por  fim,  pugna  pela  reconsideração  da  decisão  agravada  ou  pela  submissão  da  questão  ao  Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É  o  relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. AUSÊNCIA  DE  INDICAÇÃO  DO  DISPOSITIVO  DE  LEI  FEDERAL  SUPOSTAMENTE  VIOLADO.  SÚMULA  284/STF, POR ANALOGIA.  FALTA DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL APONTADO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284/STF.
+2. O dissídio jurisprudencial viabilizador do recurso especial não foi demonstrado nos moldes legais pois, além da deficiência do cotejo analítico, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente.
+3.  Agravo  interno  desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA  (Relator):  Conheço  do  recurso,  porquanto  presentes  os  seus  pressupostos  intrínsecos  e  extrínsecos  de  admissibilidade.
+O  agravo  interno  não  merece  prosperar,  pois  a  ausência  de  argumentos  hábeis  para  alterar  os  fundamentos  da  decisão  ora  agravada  torna  incólume  o  entendimento  nela  firmado.
+Com efeito,  cabe  ressaltar  que  a  admissibilidade  do  recurso  especial,  tanto  pela  alínea  a  quanto  pela  alínea  c  do  permissivo  constitucional,  exige  a  clareza  na  indicação  dos  dispositivos  de  lei  federal  supostamente  violados,  assim  como  a  demonstração  efetiva  da  alegada  contrariedade,  sob  pena  de  incidência  da  Súmula  284  /STF,  por  analogia.
+No caso, nas  razões  do  recurso  especial,  de  fato,  a  parte  recorrente  deixou  de  indicar  precisamente  os  disposit ivos  de  lei  federal  que  teriam  sido  violados,  caracterizando,  assim,  deficiência  n a  fundamentação  recursal,  o  que  impede  a  análise  da  controvérsia.
+Nesse sentido:
+O recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão (AgInt no AREsp 2.372.506/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 26/10/2023).
+Ademais, o dissídio jurisprudencial viabilizador do recurso especial não foi demonstrado nos moldes legais pois, além da deficiência do cotejo analítico, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados, que teriam recebido interpretação divergente.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ART. 3º, I, II, 5º, E 6º, I, DA LEI 12.527/2011. INEXISTÊNCIA DE PREQUESTIONAMENTO. DIVERGÊNCIA NÃO DEMONOSTRADA. MANDADO DE SEGURANÇA. LICITAÇÃO. ENVIO DE DOCUMENTAÇÃO. INOBSERVÂNCIA DA FORMA PREVISTA NO EDITAL. AUSÊNCIA DE ABUSO DE DIREITO.
+ ..
+3. Não há preenchimento dos requisitos legais e regimentais para a propositura do Recurso Especial pela alínea "c" do art. 105 da CF. A apontada divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ), como o que se afigura no presente caso, im pede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+ ..
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 2.083.396/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2023, DJe de 18/12/2023).
+Registre-se que, de acordo com a jurisprudência desta Corte, "o prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade" (AgInt no AREsp n. 2.646.727/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/10/2024, DJe de 16/10/2024).
+Isso posto, nego provimento ao recurso.
