@@ -1,0 +1,18 @@
+DECISÃO
+VALDETE MARIA DE JESUS RAMOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia na Apelação Criminal n. 0000311-82.1998.8.05.0248.
+Consta dos autos que a paciente foi condenada à pena de 10 anos e 2 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 157, § 3º, c/c o art. 61, II, "h", ambos do Código Penal.
+A defesa pleiteia, por meio deste writ, seja reconhecida a nulidade do reconhecimento da acusada, uma vez que o ato foi praticado em desacordo com o previsto no art. 226 do CPP.
+Subsidiariamente, requer a rejeição tardia da denúncia, diante da ausência de justa causa para o seu oferecimento, e a declaração de nulidade dos atos praticados em sua defesa por advogado constituído durante a instrução do processo, pois a acusada não firmou procuração outorgando-lhe poderes para defendê-la em juízo.
+Por fim, pede a revisão da pena-base fixada na dosimetria da pena.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 46-49).
+Decido.
+No caso, a defesa se insurge contra acórdão proferido no julgamento de Apelação Criminal, pelo Tribunal de Justiça do Estado da Bahia, que negou provimento ao recurso e, assim, ratificou a sentença condenatória.
+No entanto, conforme exposto pelo próprio impetrante na inicial desta ação e se pode verificar em consulta processual realizada nos assentamentos eletrônicos desta Corte, a defesa interpôs recurso especial contra o acórdão da Apelação Criminal, que não foi admitido na origem. Na sequência, interpôs agravo em recurso especial (AREsp n. 872.913/BA), que foi conhecido por esta Corte para não conhecer do recurso especial. Em seguida, foi interposto agravo regimental, ao qual se negou provimento. O acórdão transitou em julgado em 8/8/2016.
+Este habeas corpus foi impetrado em 29/2/2024, de modo que é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
