@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por ISPL - INDÚSTRIA SULAMERICANA DE PRODUTOS DE LIMPEZA LTDA, com fulcro no art. 105, III, "a", da CFRB, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no qual a parte recorrente pretende o reconhecimento do direito de, no regime não cumulativo de recolhimento, gerar créditos da contribuição ao PIS e da COFINS em relação ao valor pago a título de ICMS por ocasião da aquisição de mercadorias para revenda ou para utilização como insumos. Aponta violação dos arts. 2º e 3º, I, das Leis ns. 10.637/2002 e Lei n. 10.833/2003; arts. 1º a 12, 15, 16 e 21 da Lei n. 14.789/2023; arts. 13 da Lei n. 9.718/1998; e art. 489, § 1º, IV, do CPC/2015.
+O acórdão recorrido está assim ementado (fl. 664):
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS). CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). ICMS INCIDENTE SOBRE A OPERAÇÃO DE AQUISIÇÃO. CREDITAMENTO. IMPOSSIBILIDADE. MP Nº 1.147/2022. MP 1.159/2023. LEI 14.592/2023. CONSTITUCIONALIDADE. ANTERIORIDADE NONAGESIMAL OBSERVADA. 1. O art. 195, §12, da CRFB outorga ao legislador ordinário a liberdade para estipular os critérios e os beneficiários da não cumulatividade das contribuições ao PIS/COFINS, desde que respeitados os demais preceitos constitucionais (Tema 756 do STF).
+2. É constitucional a vedação de apurar créditos das contribuições ao PIS e da COFINS sobre o valor do ICMS que tenha incidido sobre a operação de aquisição, na forma do art. 3º, §2º, inciso III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei nº 14.592/2023.
+3. Constitucional o procedimento adotado pelo Congresso Nacional, no exercício de seu poder legislativo, ao emendar o Projeto de Lei referente à MP nº 1.147/2022 de modo a nela incluir dispositivos inicialmente inseridos na MP nº 1.159/23, ambas vigentes à época. Violação ao art. 62, §10, da CRFB não verificada.
+4. Princípio da anterioridade nonagesimal observado, uma vez que o art. 14, II, da Lei 14.592/2023 convalidou os art. 1º e 2º da Medida Provisória n. 1.159/2023, que tratou da impossibilidade de creditamento do ICMS incidente em operação de aquisição, e esta, por sua vez, em seu art. 3º, previu que a produção dos seus efeitos só se daria a partir do primeiro dia do quarto mês subsequente ao de sua publicação quanto às alterações promovidas pelos art. 1º e 2º, na parte em que alteram o inciso III do § 2º do art. 3º das Leis nº 10.637/2002 e 10.833/2003.
+Contrarrazões a fls. 740-749.
+Juízo positivo de admissibilidade (fl. 757).
+Parecer do Ministério Público Federal a fls. 852-857.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Considerados os teores do acórdão recorrido e das razões do especial, o recurso não pode ser conhecido, pois não é a via recursal adequada à discussão de questões constitucionais nem à impugnação de acórdão cuja fundamentação tem natureza constitucional, nos termos do art. 105, inc. III, da Constituição Federal.
+Noutro ponto, o recurso é inadmissível quanto aos dispositivos legais a respeito dos quais não houve o cumprimento do requisito do prequestionamento e sobre os quais as razões recursais são genéricas. Incidência das Súmulas 282/STF e 356/STF e 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. PIS. COFINS. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
