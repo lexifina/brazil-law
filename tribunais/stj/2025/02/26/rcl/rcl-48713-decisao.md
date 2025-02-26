@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de reclamação ajuizada por LUIZ QUADROS HEITOR DE MENDONÇA visando afastar a aplicação do Tema IAC n. 1 do STJ em decisão proferida pelo Tribunal de Justiça de São Paulo.
+O caso refere-se à contestação do reconhecimento da prescrição intercorrente em um processo de execução iniciado em 1996, originalmente movido pelo Banco Geral do Comércio S.A., posteriormente incorporado pelo Banco Santander (Brasil) S.A., tendo o crédito executado sido, por cessão, transferido ao reclamante. A execução foi extinta com base na prescrição intercorrente, decisão que foi mantida em segunda instância e na fase de admissibilidade do recurso especial.
+Alega o reclamante que o entendimento vinculante do Tema IAC n. 1 do STJ não se aplica ao caso concreto, pois houve suspensão justificada do processo em razão da oposição de embargos de terceiro, o que afastaria a inércia processual. Além disso, argumenta que os executados renunciaram tacitamente à prescrição ao praticarem atos processuais durante o trâmite da execução.
+Diante disso, requer a cassação das decisões que aplicaram indevidamente o Tema IAC n. 1 do STJ ao caso, com o retorno da demanda ao TJSP para novo julgamento sem a vinculação ao referido precedente. Subsidiariamente, pede a admissão do recurso especial interposto.
+É o relatório. Decido.
+Nos termos do art. 988, IV, do CPC, para que se admita a reclamação para garantir a observância de acordão proferido em julgamento de incidente de assunção de competência, exige-se estrita correspondência entre o objeto do ato reclamado e a tese firmada pelo STJ, de modo que a sua inobservância possa ser aferida objetivamente.
+Na espécie, contudo, não se verifica a inobservância das teses firmadas por esta Corte no IAC n. 1. Pelo contrário, o Tribunal reclamado aplicou as referidas teses, concluindo que ocorrera a prescrição intercorrente.
+Conforme consta do julgado, a ação de execução foi ajuizada contra devedor solvente em 1996, tendo por lastro contrato de crédito garantido por nota promissória. O mandado de citação é de junho do mesmo ano. Houve a oposição de embargos de terceiros, que atingiram apenas parte dos bens embargados, uma vez que outros, além daqueles objeto de impugnação nos referidos embargos, já haviam sido contristados. Assim, os embargos de terceiro não resultaram na suspensão automática da demanda executória, não podendo alegar o exequente que não podia agir no sentido de buscar outros bens passíveis de penhora ou executando aqueles já penhorados.
+Daí que a paralisação do feito por 22 anos acarretou a prescrição intercorrente, considerando a prescrição quinquenal, nos termos do art. 206, § 5º, I, do CPC, da pretensão à cobrança de dívidas constantes de instrumento particular objeto da ação executiva.
+Portanto, observa-se que a pretensão do reclamante é discutir a conclusão adotada pelo Tribunal reclamado em relação à hipótese concreta dos autos.
+É certo que a reclamação não tem cabimento como sucedâneo recursal, sendo essa a clara pretensão manifestada pelo reclamante, o que se percebe pelo próprio desenvolvimento da narrativa constante da peça inicial.
+Inexiste, na espécie, hipótese legal de cabimento da presente reclamação, sendo de rigor o indeferimento liminar.
+Ante o exposto, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se.
+EMENTA
