@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GABRIEL TCHAKERIAN apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2289141-80.2021.8.26.0000).
+Os autos dão conta de que o ora paciente foi condenado, por infração ao art. 157, § 2º-A, I, e 311, caput, ambos do Código Penal, à pena de 10 (dez) anos, 9 (nove) meses e 10 (dez) dias, a ser inicialmente cumprida em regime fechado, além de pagamento de 28 (vinte e oito) dias-multa, sendo-lhe negado o direito de recorrer em liberdade (e-STJ fls. 73/80).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem nos termos do acórdão de e-STJ fls. 165/168 (sem ementa).
+No presente writ, a parte impetrante afirma que "a cronologia da detenção do Sr. Gabriel pela autoridade policial é absolutamente confusa e incoerente. Todavia, outros elementos demonstram que não havia elementos que permitissem um juízo de certeza quanto ao crime de roubo que foi imputado ao Paciente" e que "não resta dúvidas de que houve diversas falhas na instrução do processo que levaram a injusta condenação do Sr. Gabriel, que ainda pende de análise de recursos. Ocorre que só existem provas testemunhais imprecisas e contraditórias a subsidiar o libelo acusatório. Não há nada que, no mérito seja de fato contundentes contra o Sr. Gabriel" (e-STJ fls. 8 e 10).
+Além de exaltar os predicados pessoais do paciente, alega que não há fundamentos idôneos para justificar a manutenção da prisão preventiva, bem como sustenta ser "imperioso que seja justificada a razão pela qual a prisão preventiva não pode ser substituída por medida restritiva de direitos, nos termos do art. 282, §6º, do CPP. Isso não ocorreu na sentença condenatória - ma i s um elemento que demonstra a ilegalidade da manutenção da prisão do Paciente" (e-STJ fl. 16).
+Assevera que "o Paciente não cometeu o crime de roubo que lhe é imputado - e isto está sendo provado em sede de apelação -, apesar de ter circulado com motocicleta com o sinal adulterado. Deve, portanto, ser absolvido do primeiro crime. Ocorre que, pela tese da acusação, a adulteração da placa do veículo teve como objetivo a facilitação do exaurimento do roubo. Sendo assim, o primeiro é absorvido pelo segundo - devendo, tecnicamente, prevalecer a imputação apenas contra o primeiro crime. Fato é que, sendo assim, o Paciente teria a sua pena fixada em um limite muitíssimo inferior, que permitiria a progressão de regime em curto prazo - na verdade, se considerarmos a pena mínima de roubo, já teria direito à progressão de regime com 8 (oito) meses, sendo que já está há mais de 7 (sete) meses preso "preventivamente" - verdadeira execução provisória da pena" (e-STJ fl. 23).
+Por isso, requer, inclusive liminarmente, a revogação da prisão preventiva e, alternativamente, a substituição da prisão preventiva por outra medida cautelar diversa.
+A liminar foi indeferida e as informações foram prestadas.
+Parecer do Ministério Público Federal pela denegação da ordem (e-STJ fls. 218/222).
+É, em síntese, o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifiquei que sobreveio julgamento do recurso de apelação contra o qual a defesa interpôs embargos infringentes e, em 25/9/2023, foi certificado o trânsito em julgado da condenação.
+Assim, diante da alteração substancial da situação jurídica do recorrente, não há mais como prosseguir no julgamento desta impetração , que perdeu seu objeto desde o julgamento do recurso de apelação pela instância precedente.
+Tal o contexto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
