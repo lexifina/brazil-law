@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de MICHAEL JUNQUEIRA CHAGAS, apontando como ato coator acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, em julgamento do agravo em execução n. 8006271- 84.2024.8.21.0001.
+Consta dos autos que o Juiz das Execuções Criminais deferiu, em 25/9/2024, o benefício da prisão domiciliar humanitária, tendo em vista doença grave da coluna, necessitando de tratamento e cirurgia, por um prazo inicial de 60 dias, prorrogada depois por mais 60 dias (e-STJ, fls. 42/43 e 44).
+Extrai-se da exordial que o parquet interpôs agravo em execução, perante a Corte de origem, o qual deu provimento ao recurso, para cassar a decisão anterior (e-STJ, fl. 14).
+Nesta  impetração,  a  defesa  relata que o paciente foi acometido por "hérnia de disco", realizou todas as intervenções médicas oferecidas pelo sistema prisional do Rio Grande do Sul, contudo, seu quadro evoluiu para piora.
+Alega que a secretaria de administração penitenciária somente levou o paciente nas três primeiras sessões de fisioterapia, sob a alegação de que não detinha recursos suficientes para garantir o atendimento nas datas agendadas para continuidade do tratamento.
+Assevera que foi necessário intervenção cirúrgica realizada em 19/02/2025, sendo que após a cirurgia, a autoridade coatora simplesmente revogou a custódia domiciliar concedida pelo Juízo singular, sem pelo menos deixar o paciente ser reavaliado após a cirurgia, somente lhe concedendo um prazo máximo de 20 (vinte) dias para se apresentar e dar continuidade a sua execução penal.
+Sustenta que o atestado pelo próprio médico da unidade do sistema prisional descreve que não detinha de tratamento adequado para tratar a doença do custodiado, sugerindo, inclusive, que o mesmo deveria ser colocado em regime domiciliar para tratamento.
+Diante  disso,  requer,  liminarmente  e  no  mérito,  seja o apenado mantido em prisão domiciliar até que seja reavaliado após a cirurgia.
+É  o  relatório. Decido.
+A presente irresignação não pode prosseguir.
+A defesa deixou de juntar aos autos o inteiro teor do acórdão coator, o que impede a análise de mérito por esta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. UTILIZAÇÃO DE DOCUMENTO FALSO. HABEAS CORPUS SUBSTITUTIVO. AUSÊNCIA DE INSTRUÇÃO ADEQUADA. NÃO COMPROVAÇÃO DE FLAGRANTE ILEGALIDADE. RECURSO NÃO PROVIDO.
+I. Caso em exame 1. Agravo regimental interposto por Daniel Pereira da Silva contra decisão que não conheceu de habeas corpus substitutivo, em razão da ausência de elementos que comprovassem a alegada ilegalidade. O agravante pleiteia a reconsideração da decisão ou seu provimento pelo colegiado.
+II. Questão em discussão 2. Há duas questões em discussão: (i) se o habeas corpus substitutivo de recurso próprio pode ser admitido diante da ausência de flagrante ilegalidade; (ii) se a ausência de instrução adequada da inicial, com a falta de documentos essenciais, inviabiliza o conhecimento do pedido.
+III. Razões de decidir 3. A admissibilidade do habeas corpus substitutivo é restrita e depende da demonstração de flagrante ilegalidade, o que não se verifica no caso concreto.
+4. A inicial do habeas corpus não foi instruída com cópia do acórdão do Tribunal de origem, documento essencial para análise do alegado constrangimento ilegal, inviabilizando a concessão de ordem de ofício.
+5. A jurisprudência desta Corte estabelece que o habeas corpus exige prova pré-constituída das alegações, não sendo possível dilação probatória em sede de ação mandamental, especialmente quando ausentes documentos fundamentais para o exame do caso.
+IV. Dispositivo e tese 6. Agravo regimental não provido.
+(AgRg no HC n. 873.342/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO (DUAS VEZES EM CONCURSO MATERIAL). ALEGAÇÕES DE ILEGALIDADE EM RAZÃO DA EXTRAPOLAÇÃO DO LAPSO DE REAVALIAÇÃO NONAGESIMAL, DE AUSÊNCIA DE FUNDAMENTAÇÃO E DE EXCESSO DE PRAZO PARA O JULGAMENTO PELO TRIBUNAL DO JÚRI. AUSÊNCIA DE INSTRUÇÃO DO WRIT COM O ACÓRDÃO QUE EFETIVAMENTE TERIA ANALISADO TAIS TEMAS. CONHECIMENTO. IMPOSSIBILIDADE. DECISÃO AGRAVADA QUE, SUPERANDO O ÓBICE DA INSTRUÇÃO DEFICIENTE, ANALISOU A ALEGAÇÃO DE CONSTRANGIMENTO. SEGREGAÇÃO REAVALIADA E FUNDAMENTADA. PERICULOSIDADE CONCRETA (MODUS OPERANDI), REITERAÇÃO DELITIVA E AMEAÇA AO IRMÃO DE UMA DAS VÍTIMAS. EXCESSO DE PRAZO. PRISÃO EFETIVADA EM 20/2/2021. PRONÚNCIA EM DEZEMBRO DE 2021. JÚRI DESIGNADO PARA DATA PRÓXIMA (4/12/2023). FEITO RELATIVAMENTE COMPLEXO. DOIS ACUSADOS E DOIS FATOS DELITUOSOS A APURAR. RAZOABILIDADE. OBSERVÂNCIA.
+1. Deve ser mantida a decisão monocrática quando evidenciado que, além de o pedido não ter sido suficientemente instruído com documentos que comprovem o debate dos temas levantados pelo Tribunal, não se verifica constrangimento ilegal por ausência de fundamentação da custódia.
+2. É entendimento deste Superior Tribunal que a extrapolação do lapso de reavaliação nonagesimal não redunda na revogação automática da segregação provisória.
+3. Hipótese em que a reavaliação foi realizada e elencada devida fundamentação, consistente no fato de que se encontram presentes os fundamentos e requisitos que embasaram a decisão judicial que decretou a prisão preventiva do acusado, pois ainda subsiste a necessidade de garantir a ordem pública, tendo em vista a gravidade concreta dos fatos noticiados e da reiteração delitiva do pronunciado, bem como de garantir a aplicação da lei penal, tendo em vista o fato de o investigado teria ameaçado o irmão da vítima.
+4. Não há que se falar em constrangimento ilegal por excesso de prazo, pois além de se tratar de feito inicialmente com relativa complexidade, haja vista a existência de dois acusados e dois fatos delituosos a apurar, o ora agravante foi pronunciado em 16/12/2021, e a sessão de julgamento do Tribunal do Júri, ao que consta da página eletrônica do Tribunal de Justiça do Paraná, foi designada para data próxima (4/12/2023). Precedente.
+5. Agravo regimental improvido.
+(AgRg no HC n. 855.575/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
