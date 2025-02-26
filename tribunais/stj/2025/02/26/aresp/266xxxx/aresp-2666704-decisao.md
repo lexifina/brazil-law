@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ELECTRO PLASTIC LTDA EM RECUPERACAO JUDICIAL se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 740):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR PERDAS E DANOS - OBRAS PARA AUMENTO DE FORNECIMENTO DE ENERGIA ELÉTRICA - CONCLUSÃO COM ATRASO - RESCISÃO - IMPOSSIBILIDADE NO CASO CONCRETO - DEMANDA ENERGÉTICA SUPRIDA - AUSÊNCIA DE PREJUÍZO - IMPROCEDÊNCIA MANTIDA. Nos termos do artigo 475 do Código Civil: "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos". No específico caso dos autos, embora com atraso, as obras foram entregues, bem como fora suprida, dentro do prazo avençado, a demanda energética da apelante, o que impõe a manutenção da sentença de improcedência.
+Os embargos de declaração opostos foram rejeitados (fls. 795/800).
+Nas razões de seu recurso especial, a parte ora agravante indica violação aos arts. 247, 389 e 397 do Código Civil (CC), aos argumentos de que a rescisão contratual é evidente, conforme a perícia produzida nos autos, ante o descumprimento atestado pelas próprias instâncias ordinárias consistente na não entrega da demanda enérgica no prazo pactuado, bem como que, por consequência, os valores adimplidos devem ser restituídos, mediante conversão em perdas e danos.
+A parte ora agravada apresentou as contrarrazões (fls. 835/843).
+Sobreveio juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Compulsando os autos, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre a tese de rescisão contratual por inadimplência do objeto do contrato (fls. 743/746):
+No caso dos autos, conforme narrado, as partes firmaram, em 06 de maio de 2015, um contrato para viabilizar o aumento da carga elétrica fornecida para o estabelecimento da apelante, no qual a CEMIG se obrigou a concluir as obras necessárias para tanto em 630 (seiscentos e trinta dias), bem como estabeleceu a possibilidade suspensão conforme o artigo 35 da Resolução Normativa da ANEEL n. 414/2010.
+
+Embora a recorrente tenha realizado o pagamento tempestivo de todas as parcelas pactuadas, as obras que deveriam ser concluídas no dia 10 de março de 2017, somente foram entregues em 24/09/2020, conforme restou apurado no laudo pericial realizado sob o crivo do contraditório (documento n. 131), pelo que a apelante pretendeu a resolução contratual e o pagamento de perdas e danos.
+Inicialmente, registro que diante da conclusão das obras contratadas, não há que se falar em rescisão contratual, sendo impossível o retorno das partes ao estado anterior ao do ajuste, pelo que se revelaria possível apenas eventual condenação da recorrida ao pagamento de indenização pelas perdas e danos advindos do atraso.
+Contudo, conforme ressaltou o perito nomeado pelo juízo, embora tenha ocorrido o atraso na realização das obras, a demanda energética da recorrente foi atendida pela concessionária a partir de janeiro de 2017, ou seja, dentro do prazo estabelecido, valendo destacar o seguinte trecho do laudo:
+
+Outrossim, ao responder o quesito n. 13 apresentado pela apelada, o perito nomeado pelo juízo concluiu que o atendimento em regime precário foi suficiente para anteder as necessidades da demanda da apelante.
+
+Destarte, forçoso concluir pela manutenção da sentença de improcedência, na medida em que a apelante não logrou comprovar que o atraso na conclusão das obras pela concessionária de energia elétrica lhe trouxe quaisquer danos, sendo certo que a demanda energética foi devidamente atendida.
+O Tribunal de origem, após amplo exame dos contextos fáticos e probatórios dos autos e das nuances que o caso apresenta, entendeu que houve adimplemento substancial do contrato pelo atendimento da demanda objeto do pacto, de forma a inexistir fundamento legal para se concluir pela rescisão do contrato e, consequentemente, a pleiteada conversão em perdas e danos.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
