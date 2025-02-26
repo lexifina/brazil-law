@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284 DO STF, POR ANALOGIA. ARTS. 1º E 7º DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1.  A alegada violação ao art. 1.022 do CPC/2015 deu-se de forma genérica, circunstância que impede o conhecimento do recurso especial, no ponto, por deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+2. Os arts. 1º e 7º do CPC/2015 não foram objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por GIREZE COMÉRCIO DE PRODUTOS AGROPECUÁRIOS LTDA. contra  a  decisão  que conheceu do agravo para  não conhecer do recurso especial, com fundamento na aplicação das Súmulas 282, 284 e 356 do STF.
+Argumenta  a  parte agravante,  em  síntese,  que, no tocante à Súmula 284 do STF, que:
+ ..  a análise por esse fundamento se pauta tão somente na análise da violação do art. 1022 do CPC/15; olvidando-se que o manejo no recurso especial se dera por violação aos arts. 1º, 5º, 7º, 489 (por falta de fundamentação distintiva, ou distinguishing), todos do CPC/15, além de posição jurisprudencial consolidada deste E. Tribunal, plasmada na Súmula 121. Todos esses fundamentos foram devidamente aventados em sede de agravo de instrumento, e os que não tiveram pronunciamento expresso pelo tribunal a quo, foram objeto de embargos de declaração com fins de prequestionamento (fl. 414).
+Defende, ainda, que:
+ ..  considerando que houve o enfrentamento pelo juízo a quo dos fundamentos legais retro citados, que também afastou a necessidade de intimação pessoal e do causídico antes da realização do leilão, o que viola os artigos 686, § 3º, e 687 do CPC/1973 (equivalentes aos arts. 889 e 897 do CPC/2015), bem como a adesão ao PERT e a suspensão da exigibilidade do crédito tributário, conforme os artigos 151, VI, do CTN e a Lei nº 11.941/2009, está devidamente caracterizado o preenchimento do prequestionamento no caso concreto (fl. 415).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284 DO STF, POR ANALOGIA. ARTS. 1º E 7º DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1.  A alegada violação ao art. 1.022 do CPC/2015 deu-se de forma genérica, circunstância que impede o conhecimento do recurso especial, no ponto, por deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+2. Os arts. 1º e 7º do CPC/2015 não foram objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+1. Fundamentação Genérica: Súmula 284/STF.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+Conforme jurisprudência:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, re lator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+2. Falta de Prequestionamento: Súmulas 282 e 356/STF.
+No tocante ao prequestionamento, os arts. 1º e 7º do CPC não foram objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+3. Impossibilidade de se avaliar ofensa a enunciado sumular.
+No que se refere à eventual violação à Súmula 121/STJ, consigno que não merece ser conhecido o recurso nesse ponto, pois, nos termos da Súmula 518 desta Corte Superior, para fins do art. 105, III, a, da Constituição República, não é cabível recurso especial fundado em violação de Súmula, por não se enquadrar no conceito de lei federal.
+Isso posto, nego provimento ao recurso.
