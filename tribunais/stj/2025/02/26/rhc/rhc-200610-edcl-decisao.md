@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARNA DOS SANTOS FARIAS contra decisão monocrática de fls. 433-436, de minha lavra, que denegou a ordem de habeas corpus.
+Na hipótese, a embargante aponta omissão e erro material no exame da tese de cabimento da prisão domiciliar, apontando que a embargante é genitora de criança com 10 (dez) anos de idade, e não apenas de crianças com mais de 12 (doze) anos completos.
+Requer, assim, o acolhimento dos aclaratórios para "sanar o erro material e a omissão apontados, reconhecendo-se que a embargante possui filha menor de 12 anos de idade", com a atribuição de efeitos infringentes para fixar o cabimento da "consequente substituição da prisão preventiva pela prisão domiciliar, nos termos do artigo 318, V, do Código de Processo Penal" (fl. 444).
+É o relatório. DECIDO.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+No caso dos autos, verifica-se que, de fato, o julgado baseou-se em premissa inadequada, uma vez que a certidão de nascimento juntada à fl. 76 aponta a recorrente como mãe da menor M S F DE O, nascida em 09/09/2014. A recorrente, portanto, é mãe de criança menor de 12 (doze) anos.
+Todavia, isso não altera o resultado do julgamento, pois, como adiantado na decisão embargada, não há uma conversão automática nas situações elencadas nos incisos do art. 318 do Código de Processo Penal da prisão preventiva em domiciliar, cabendo uma avaliação no caso concreto.
+Vale destacar que o Superior Tribunal de Justiça já fixou ser a prisão domiciliar inadequada nas hipóteses de pessoa integrante de organização criminosa, bem como no caso de pessoa foragida. Confira-se:
+" ..  embora a agravante seja mãe de crianças menores de 12 anos, infere-se que o indeferimento do benefício encontra-se justificado pela situação excepcionalíssima do caso, qual seja, a agravante é acusada de integrar organização criminosa envolvida com crimes de tráfico de drogas e lavagem de dinheiro, sendo noticiado, ainda, que se trata de pessoa reincidente no crime de associação para o tráfico de drogas"
+(AgRg no HC n. 807.952/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/5/2023, DJe de 5/6/2023).
+" ..
+IV - Por outro lado, no que concerne ao pleito de imposição de prisão domiciliar à Agravante em virtude de possuir filho menor, que depende dos seus cuidados; tenho que a negativa de substituição da prisão preventiva por domiciliar está devidamente justificada. Na hipótese, conforme se depreende dos autos, embora a Agravante afirme ser responsável por sua prole, ela se encontra foragida e -está sendo investigada por integrar complexa organização criminosa voltada ao tráfico de drogas-, evidenciando situação excepcionalíssima a impedir a concessão da benesse. Precedente.
+ .. "
+(AgRg no HC n. 917.549/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/8/2024, DJe de 27/8/2024.)
+Neste caso, o acórdão recorrido fixou que a recorrente é suspeita de ocupar cargo de orientadora na organização criminosa Comando Vermelho, bem como de integrar essa organização desde o ano de 2019. A isso se acresce sua condição de foragida em face da decisão pela prisão preventiva exarada em 4/4/2024.
+Diante disso, não se evidencia qualquer ilegalidade na denegação da ordem pela Corte local, pois as circunstâncias excepcionais mencionadas acima evidenciam a inadequação da substituição da prisão preventiva pela prisão domiciliar.
+Ante o exposto, acolho os embargos declaratórios apenas para sanar a apontada omissão na forma da fundamentação acima, sem atribuição de efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
