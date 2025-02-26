@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para alterar a conclusão a que chegaram as instâncias ordinárias de que "o acervo probatório não teve o condão de formar a certeza necessária para sustentar um decreto condenatório em relação ao embargante. Porém, também não se tem presente prova capaz de afastar a possibilidade da prática do crime a ele imputado (extorsão)", com fulcro no art. 386, VII, do CPP (não existir prova suficiente para a condenação), e acolher a pretensão absolutória com fundamento no art. 386, IV, do CPP (estar provado que o réu não concorreu para a infração penal), como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em recurso especial, ante o óbice da Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Sustenta o agravante que "o voto vencido do Tribunal de origem, fls. 1756/1764 teve a mesma conclusão que a defesa, definiu um enquadramento jurídico para a absolvição, diferente do voto vencedor, fls. 1732/1755, uma vez que reconhece ser inadmissível tratar testemunho indireto ("ouvi dizer") como insuficiência de prova" (e-STJ fl. 2722).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para alterar a conclusão a que chegaram as instâncias ordinárias de que "o acervo probatório não teve o condão de formar a certeza necessária para sustentar um decreto condenatório em relação ao embargante. Porém, também não se tem presente prova capaz de afastar a possibilidade da prática do crime a ele imputado (extorsão)", com fulcro no art. 386, VII, do CPP (não existir prova suficiente para a condenação), e acolher a pretensão absolutória com fundamento no art. 386, IV, do CPP (estar provado que o réu não concorreu para a infração penal), como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em recurso especial, ante o óbice da Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+VOTO
+Como se viu da decisão agravada, o réu foi absolvido da imputação do art. 158, §1º, e art. 288 do CP, com fundamento no art. 386, VII, do Código de Processo Penal.
+Interposto recurso de apelação pelo Ministério Público e pela defesa, foram desprovidos, sendo o da defesa por maioria.
+Opostos embargos infringentes, foram rejeitados, em síntese, ao fundamento de que "diversamente do que entendeu o ilustre prolator do douto voto minoritário, não se tem nos autos a existência prova apontando para a não participação do embargante no crime descrito na denúncia. Pela simples leitura do julgado, percebe-se que a absolvição do embargante se deu em razão de não ter provas suficientes da prática delitiva, já que os elementos probatórios vieram da esfera administrativa e a prova oral judicializada se caracterizou por testemunho indireto, ou de "ouvi dizer", insuficiente para expedir um decreto condenatório" (e-STJ fl. 1857).
+Como visto, o Tribunal local, soberano na análise do conjunto fático- probatório, concluiu que "o acervo probatório não teve o condão de formar a certeza necessária para sustentar um decreto condenatório em relação ao embargante. Porém, também não se tem presente prova capaz de afastar a possibilidade da prática do crime a ele imputado (extorsão)" (e-STJ fl. 1857).
+Assim, para alterar a conclusão a que chegaram as instâncias ordinárias de que "o acervo probatório não teve o condão de formar a certeza necessária para sustentar um decreto condenatório em relação ao embargante. Porém, também não se tem presente prova capaz de afastar a possibilidade da prática do crime a ele imputado (extorsão)" (e- STJ fl. 1857), com fulcro no art. 386, VII, do CPP (não existir prova suficiente para a condenação), e acolher a pretensão absolutória com fundamento no art. 386, IV, do CPP (estar provado que o réu não concorreu para a infração penal), como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em recurso especial, ante o óbice da Súmula n. 7/STJ.
+Dessume-se, portanto, das razões recursais que o agravante não trouxe elementos suficientes para reverter a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
