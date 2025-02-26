@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão decisão que acolheu parcialmente impugnação ao cumprimento de sentença, homologou os cálculos apresentados pela Contadoria Judicial e condenou a parte exequente ao pagamento de honorários advocatícios. No Tribunal de origem, a decisão foi mantida. No Superior Tribunal de Justiça, foi interposto o presente agravo interno contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheço do recurso especial.
+II - Verifica-se que o Tribunal de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+III - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de agravo de instrumento contra decisão decisão que acolheu parcialmente impugnação ao cumprimento de sentença, homologou os cálculos apresentados pela Contadoria Judicial e condenou a parte exequente ao pagamento de honorários advocatícios. No Tribunal de origem, a decisão foi mantida.
+No Superior Tribunal de Justiça, foi interposto o presente agravo interno contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheço do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Irresignado, o ora Agravante apresentou agravo de instrumento contra a decisão, pugnando pela sua reforma, sob o fundamento de que o feito executório foi proposto sob a égide do Código de Processo Civil de 1973, através de "Execução de Sentença", nos termos do seu artigo 730, não havendo que se falar em "impugnação ao cumprimento de sentença", sendo indevida a condenação da ora Recorrente ao pagamento de honorários advocatícios. Pugnou-se, na ocasião, reforma do julgado para que se mantivesse a homologação da conta, mas que fosse excluída a condenação em honorários advocatícios, já que não se trata de impugnação ao cumprimento de sentença.
+ ..
+Face ao v. acórdão, a ora agravante interpôs recurso especial, sob o fundamento de ofensa direta ao §1º do art. 85 do CPC e descabimento da condenação do ora Agravante em honorários advocatícios de sucumbência.
+ ..
+A ora Agravante, então, interpôs agravo de instrumento à esta Colenda Corte, com o fito de destrancar o recurso especial indevidamente obstado.
+ ..
+Deve-se refutar a aplicação da súmula 7 desse C. STJ, pois, conforme amplamente demonstrado nas razões recursais, a questão posta, cinge-se em torno da fixação dos honorários advocatícios em sede de cumprimento de sentença, em procedimento não aforado pela parte adversa, mas, tão somente, atualização da conta pela Contadoria do Juízo.
+Diz-se isso, porque, com o trânsito em julgado da ação rescisória, deu-se continuidade àquele feito executório, não o início de uma nova execução.
+ ..
+Ademais, não há que se falar em reconhecimento de excesso de execução no valor de R$ 125.438,64 (cento e vinte e cinco mil, quatrocentos e trinta e oito reais e sessenta e quatro centavos), já que o cálculo homologado foi apresentado pela própria Contadoria do Juízo, não pela parte contrária.
+ ..
+Portanto, não há que se falar em reanálise de qualquer fato ou prova dos autos, pois o fundamento do recurso especial cuida somente da errônea aplicabilidade do § 1º, do art. 85, do CPC, já que foram fixados honorários advocatícios em hipótese não prevista na legislação processual.
+Destarte, com a devida vênia, merece reparo da decisão monocrática agravada, para que seja oportunizado ao ora agravante ter seu recurso especial ao menos apreciado por essa Colenda Corte, eis que obstado de forma equivocada, sob a aplicabilidade da Súmula 7 dessa Colenda Corte, sendo que o recurso traz à baila a análise de matéria puramente de direito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão decisão que acolheu parcialmente impugnação ao cumprimento de sentença, homologou os cálculos apresentados pela Contadoria Judicial e condenou a parte exequente ao pagamento de honorários advocatícios. No Tribunal de origem, a decisão foi mantida. No Superior Tribunal de Justiça, foi interposto o presente agravo interno contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheço do recurso especial.
+II - Verifica-se que o Tribunal de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O Tribunal de origem analisou as alegações da parte com os seguintes fundamentos:
+No presente caso, após a apresentação de cálculo pelo exequente/agravante no valor de R$ 360.563,32 (trezentos e sessenta mil, quinhentos e sessenta e três reais e trinta e dois centavos), sendo R$ 353.575,51 referente às diferenças apuradas, e R$ 6.987,81 dos honorários, o Estado de Goiás apresentou impugnação apontando excesso de execução no importe de e R$ 125.438,64 (cento e vinte e cinco mil, quatrocentos e trinta e oito reais e sessenta e quatro centavos), porquanto os consectários legais da condenação (juros de mora e correção monetária), foram incluídos em desacordo com as determinações legais.
+Isso, a propósito, restou confesso pela própria parte exequente/agravante quando, após a elaboração dos cálculos pela contadoria que encontrara a quantia de R$ 261.724,40 (duzentos e sessenta e um mil, setecentos e vinte e quatro reais e quarenta centavos) a título de débito atualizado, veio o próprio credor e apontou novos cálculos indicando que o valor correto seria de R$ 266.015,85 (duzentos e sessenta e seis mil, quinze reais e oitenta e cinco centavos), através de sua manifestação lançada à mov. 46.
+É perceptível, portanto, que havia um excesso de execução por incorreção do valor da dívida, a qual, caso não alegada pelo devedor, importaria no pagamento do montante inicialmente indicado, daí a irrelevância do credor, após a impugnação, corrigir o valor outrora executado ao patamar devido, pois, neste caso, o trabalho da fazenda pública - de impugnar e demonstrar o valor correto - já foi feito.
+Assim, uma vez reconhecida o excesso de execução por iniciativa do devedor, independentemente do nomen iuris descrito na petição, é devido honorários de sucumbência pela redução do valor da dívida, nos termos do art. 85, §1º, do CPC, não sendo tal penalidade restrita tão somente à impugnação ao cumprimento de sentença.
+ ..
+Por fim, acerca do pleito subsidiário - fixação dos honorários sucumbenciais por equidade na forma do CPC/73 - reafirmo que os atos processuais são regidos pela lei processual em vigor. Assim, tendo sido a decisão proferida sob a vigência do atual diploma, descabido pleito de aplicação do art. 20 do CPC/73, sob pena de violação ao brocado tempus regict actum esculpido no art. 14 do CPC/15.
+Verifica-se que o Tribunal de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, esta Corte possui firme entendimento de que, em regra, não é possível a revisão do valor fixado a título de verba honorária em sede de recurso especial, assim porque implica, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado pela incidência da Súmula n. 7/STJ. O referido óbice pode ser afastado quando for verificado que o valor arbitrado pelas instâncias ordinárias se mostra irrisório ou exorbitante, não sendo essa a hipótese dos autos. Precedentes: AgInt no REsp n. 1.586.656/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024. REsp 1684753/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/09/2017, DJe 10/10/2017; AgInt no AgRg no REsp 1230148/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 08/08/2017, DJe 17/08/2017.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
