@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR. APLICAÇÃO DA SÚMULA 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PRISÃO PREVENTIVA. FUNDAMENTOS CONCRETOS. DEDICAÇÃO AO TRÁFICO DE DROGAS. RISCO À ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Hipótese na qual o Desembargador Relator considerou não estar presente constrangimento ilegal patente na custódia, a justificar o deferimento da liminar, devendo a questão ser melhor analisada por ocasião do exame do mérito.
+3. No caso concreto, a prisão preventiva do agravante, reincidente na prática criminosa, foi decretada com base em indícios concretos que indicam ser ele e outro acusado os destinatários de elevada quantidade de drogas apreendidas (mais de 280 kg de maconha e 11,4 kg de skank), sendo também apontado como líder de organização criminosa voltada ao tráfico de drogas, circunstâncias essas que demonstram a necessidade da custódia para garantia da ordem pública.
+4. Inexistente flagrante ilegalidade, abuso de poder ou teratologia, mantém-se a decisão monocrática que indeferiu liminarmente o habeas corpus.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MURILO DA SILVA SOUZA contra decisão monocrática que indeferiu liminarmente o habeas corpus impetrado em seu favor.
+O agravante foi preso preventivamente pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico, após diligências policiais que resultaram na prisão em flagrante de Gledson Santos Miranda, transportando entorpecentes em veículo.
+A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo, requerendo a revogação da prisão preventiva, sob o argumento de ausência de fundamentos concretos para a medida extrema. O pedido liminar foi indeferido.
+No habeas corpus impetrado perante esta Corte Superior, a defesa reiterou que a custódia cautelar se baseia exclusivamente em inferências sobre mensagens interceptadas e movimentações financeiras genéricas, sem demonstração concreta de periculosidade ou risco processual. Afirmou, ainda, que o agravante possui residência fixa e trabalho e que não há elementos que justifiquem a privação de sua liberdade. Requereu a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares.
+A decisão monocrática ora agravada negou seguimento ao habeas corpus, aplicando a Súmula 691 do STF, sob o fundamento de que não há flagrante ilegalidade que justifique a superação do enunciado. Destacou que há indícios da participação do agravante como líder de associação criminosa, bem como elementos que indicam risco à ordem pública.
+No agravo regimental, a defesa sustenta que a decisão deve ser reformada, pois a aplicação da Súmula 691 desconsidera a ilegalidade manifesta da prisão. Argumenta que a segregação cautelar não se sustenta diante da ausência de prova concreta de autoria e da inexistência de fundamentos individualizados que demonstrem a necessidade da medida. Reitera o pedido de revogação da prisão preventiva ou sua substituição por medidas cautelares diversas.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR. APLICAÇÃO DA SÚMULA 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PRISÃO PREVENTIVA. FUNDAMENTOS CONCRETOS. DEDICAÇÃO AO TRÁFICO DE DROGAS. RISCO À ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Hipótese na qual o Desembargador Relator considerou não estar presente constrangimento ilegal patente na custódia, a justificar o deferimento da liminar, devendo a questão ser melhor analisada por ocasião do exame do mérito.
+3. No caso concreto, a prisão preventiva do agravante, reincidente na prática criminosa, foi decretada com base em indícios concretos que indicam ser ele e outro acusado os destinatários de elevada quantidade de drogas apreendidas (mais de 280 kg de maconha e 11,4 kg de skank), sendo também apontado como líder de organização criminosa voltada ao tráfico de drogas, circunstâncias essas que demonstram a necessidade da custódia para garantia da ordem pública.
+4. Inexistente flagrante ilegalidade, abuso de poder ou teratologia, mantém-se a decisão monocrática que indeferiu liminarmente o habeas corpus.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece provimento.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Em relação às nulidades apontadas, o relator da ação na origem assim se manifestou (e-STJ fl. 17 - grifei ):
+ ..
+Através da análise sumária da impetração, não se verifica nenhuma nulidade ou manifesto constrangimento ilegal a ensejar a concessão da tutela de urgência, cabível apenas quando se demonstrar evidente a ilegalidade do ato impugnado.
+No que se refere aos fundamentos da prisão preventiva, manifestou-se nos seguintes termos (e-STJ fls. 17/18):
+ ..
+Através da análise sumária da impetração, não se verifica nenhuma nulidade ou manifesto constrangimento ilegal a ensejar a concessão da tutela de urgência, cabível apenas quando se demonstrar evidente a ilegalidade do ato impugnado.
+Consta nos autos que, no dia 10 de julho de 2024, Gledson Santos Miranda foi preso em flagrante quando transportava 261 tabletes de maconha, com peso aferido de 280,5 quilos, 10 tabletes de skank  com peso de 11,4 quilos, que seriam transportados para a cidade de Rancharia e os recebedores seriam M. da S. S., ora paciente, e G. R. A.
+Consta, ainda, que o paciente é apontado como líder da associação criminosa, contribuindo com os demais com movimentação financeira considerável a venda de entorpecente.
+Com efeito, ao indeferir o pedido de revogação da prisão preventiva pautou-se, prima facie, em argumentação idônea, diante das circunstancias desfavoráveis o paciente, sendo ele reincidente, conforme certidão acostada aos autos fls. 107/114, assim como a existência de elementos de dedicação à traficância, fatos que indicam a necessidade de uma análise mais detalhada quando ao seu julgamento definitivo.
+Assim, não há flagrante ilegalidade a ser sanada nesta fase preliminar, sendo necessária uma análise mais detida perante a d. Turma Julgadora.
+Como visto, a custódia cautelar foi decretada sob o fundamento de que o paciente e outro acusado seriam os destinatários de quantidade exorbitante de entorpecentes (mais de 280 kg de maconha e 11,4 kg de skank), sendo o agravante apontado como líder de associação criminosa voltada ao tráfico de entorpecentes e reincidente na prática delitiva, elementos estes que indicam a necessidade da segregação cautelar para a garantia da ordem pública.
+A propósito, é pacífico o entendimento jurisprudencial dos Tribunais Superiores no sentido de que "as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade" (AgRg no HC n. 787.386/SP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+Dessa forma, ausente qualquer flagrante ilegalidade ou abuso de poder que justifique a superação da Súmula 691 do STF, não há motivo para reformar a decisão monocrática que indeferiu liminarmente o habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
