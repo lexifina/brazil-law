@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE SÃO PAULO, em que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+APELAÇÕES CÍVEIS. EXECUÇÃO FISCAL. SUBSTITUIÇÃO TRIBUTÁRIA. ILEGITIMIDADE PASSIVA. 1. Exceção de pré-executividade. Cabimento. Súmula 393. Matéria cogente, cognoscível de ofício pelo magistrado, sem necessidade de dilação probatória. 2. Execução fiscal proposta contra o substituído tributário, estabelecimento que recebeu a mercadoria oriunda de outro Estado da Federação, sujeita ao regime de substituição tributária. ICMS-ST não recolhido pelo contribuinte substituto remetente. Impossibilidade de cobrar do substituído as importâncias não recolhidas, diante da ausência de relação jurídico-tributária entre ele e o Estado de São Paulo. Legislação que atribui a sujeição passiva tributária ao substituto. Inteligência dos artigos 8º, inciso IX, "b", da Lei Estadual nº 6.374/89, e 293, inciso II, "b", do RICMS/2000. Aplicação do entendimento externado pelo STJ no REsp 931.727/RS. Precedentes deste E. TJSP. 3. Verba honorária excepcionalmente arbitrada pelo critério equitativo, dada a simplicidade da tese que estancou o feito executivo, a duração do processo e a exorbitância da condenação, conforme autoriza o §8º do art. 85 do CPC. Precedente do STJ. Majoração da verba honorária, nos termos do disposto no art. 85, § 11, do CPC/15. Sentença de extinção da execução fiscal mantida. Recursos não providos.
+Os embargos de declaração foram rejeitados.
+No apelo raro, o ente público recorrente, apontando violação do art. 1.022, I e II, do CPC e do art. 128 do CTN, sustentou, em resumo: (a) a nulidade do acórdão recorrido, por não ter se manifestado sobre a alegação de que há previsão na lei estadual (art. 66-C da Lei n. 6.374/1989) atribuindo responsabilidade tributária ao substituído em relação a tributo não recolhido pelo substituto; (b) diante dessa previsão normativa, que encontra amparo no art. 128 do CTN, está caracterizada a legitimidade passiva da empresa recorrida para responder à execução fiscal.
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial por entender inexistente a alegada negativa de prestação jurisdicional e ausente o requisito do prequestionamento; fundamentação com a qual não concorda o agravante.
+Sem contraminuta.
+Passo a decidir.
+Atendidos os pressupostos próprios, conheço do agravo para, desde logo, examinar o recurso especial.
+Na origem, cuidam os autos de execução fiscal de ICMS.
+O magistrado de primeiro, acolhendo exceção de pré-executividade, extingiu o feito executivo com fundamento na ilegitimidade passiva do devedor.
+Na sequência, o TJSP negou provimento à apelação fazendária, vindo a manter a sentença com a seguinte motivação:
+Cuida-se de execução fiscal voltada à cobrança das diferenças de ICMS-ST não recolhidas pelo substituto processual, promovida em face do substituído, aquele que efetivamente realiza o fato gerador.
+Inicialmente, o Superior Tribunal de Justiça decidiu sobre o cabimento da exceção de pré-executividade na Súmula 393, que assim dispõe: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+É justamente a hipótese dos autos, que cuida de matéria cogente, de ordem pública, que permite o conhecimento de ofício pelo magistrado, alegada sem necessidade de dilação probatória.
+No mais, dispõe a Lei Estadual nº 6.374/89, em seu art. 8º, inciso IX, "b", que:
+ ..
+Acresce-se a previsão do Protocolo ICMS n.º 11/911 firmado entre os Estados de São Paulo e Rio de Janeiro, que prevê que a substituição caberá ao remetente e, ainda, para reforçar esse entendimento há a previsão no art. 293, inciso II, "b", do RICMS/2000, qual seja:
+ ..
+Como se vê, é substituta tributária a empresa distribuidora de bebidas estabelecida no Rio de Janeiro e a empresa executada figura como substituída.
+ ..
+Cumpre registrar, ainda, que a caracterização das figuras na relação jurídico-tributária se dá em razão da decisão no Resp. n.º 931.727/RS, recurso repetitivo, que afastou a responsabilidade solidária do substituído tributário, uma vez que o substituto absorve totalmente o débito, assumindo integralmente os deveres de sujeito passivo, razão pela qual o substituído não pode ser considerado sujeito passivo da relação jurídico- tributária.
+Confira-se a transcrição parcial do entendimento consolidado na Corte Especial:
+ ..
+No mesmo sentido, confira-se:
+ ..
+Pois bem.
+Inicialmente, inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional. A esse respeito, vide: AgInt no REsp 1.949.848/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/12/2021, DJe 15/12/2021; AgInt no AREsp 1.901.723/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/12/2021, DJe 10/12/2021; AgInt no REsp 1.813.698/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 06/12/2021, DJe 09/12/2021; AgInt no AREsp 1.860.227/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2021, DJe 10/12/2021.
+Feita essa consideração, verifica-se que, na hipótese, não há falar em negativa de prestação jurisdicional, pois a fundamentação contida no julgado a quo é clara ao expressar a compreensão de que: (i) a legislação estadual estabelece o substituto como responsável tributário para recolhimento do ICMS devido na operação comercial em exame; (ii) de acordo com o precedente vinculante formado no julgamento do REsp 931.727/RS, não há responsabilidade solidária do contribuinte/substituído que o obrigue ao pagamento do imposto não recolhido pelo substituto.
+Ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação que macule a validade do acórdão recorrido.
+Quanto ao juízo de reforma, o recurso especial não ultrapassa o juízo de admissibilidade.
+Isso porque, primeiro, o fundamento condutor do acórdão recorrido, referente à aplicação de tese firmada no julgamento do REsp 931.727/RS à hipótese dos autos, não foi especificamente impugnada nas razões do recurso especial, o que enseja a aplicação do óbice de conhecimento estampado na Súmula 283 do STF.
+Além disso, verifico que a pretensão recursal do ente público tem por objetivo fazer valer direito supostamente previsto na legislação local. Ocorre que, como é sabido , "por ofensa ao direito local não cabe recurso extraordinário" (Súmula 280 do STF).
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO (art. 253, parágrafo único, II, "a" e "b", do RISTJ).
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
