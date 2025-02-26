@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/02/2025 a 26/02/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. NULIDADE DO CONTRATO TEMPORÁRIO RECONHECIDA. DIREITO A PERCEPÇÃO DE FÉRIAS, DÉCIMO TERCEIRO SALÁRIO E FGTS. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO INTERNO DESPROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. A alteração da conclusão adotada pela Corte de origem - acerca da comprovação do direito da autora à percepção das quantias pleiteadas - demandaria necessariamente o reexame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7 deste Tribunal Superior.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MUNICÍPIO DE SÃO JOÃO contra a decisão de fls. 199-201 (e-STJ), que conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FGTS. NULIDADE DA CONTRATAÇÃO TEMPORÁRIA RECONHECIDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O recurso especial foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio ao acórdão prolatado pelo Tribunal de Justiça do Estado de Pernambuco assim ementado (fls. 130-131, e-STJ):
+AGRAVO INTERNO. CONSTITUCIONAL E ADMINISTRATIVO. MUNICIPIO DE SÃO JOÃO. NULIDADE DO CONTRATO TEMPORÁRIO RECONHECIDA. DIREITO A PERCEPÇÃO DE FÉRIAS E DÉCIMO TERCEIRO SALÁRIO. TEMA REPERCUSSÃO GERAL n.º 551. DIREITO AO FGTS. TEMA REPERCUSSÃO GERAL Nº 916. RECURSO DESPROVIDO. DECISÃO UNÂNIME.
+1. O STF, ao julgar o Recurso Extraordinário n.º 1.066.677, em de repercussão geral (Tema 551), fixou entendimento no sentido de que: "Servidores temporários não fazem jus a décimo terceiro salário e férias remuneradas acrescidos do terço constitucional, salvo (I) expressa previsão legal e/ou contratual em sentido contrário, ou (II) comprovado desvirtuamento da contratação temporária pela Administração Pública, em razão de sucessivas e reiteradas renovações e/ou prorrogações", conforme julgamento publicado na Ata Nº 15, de 22/05/2020. DJE nº 131, divulgado em 27/05/2020.
+2. No caso sob exame, a parte autora prestou serviços à edilidade desde o ano de 2016, com contratos sucessivamente renovados até o fim de novembro de 2020. Restou configurado, assim, o desvirtuamento da avença temporária, o que - à luz do TEMA 551 - garante à parte o direito à percepção de férias acrescidas do terço constitucional e décimo terceiro salário. Nesse contexto, forte no item 2 da tese fixada no Tema 551 do STF, afigura-se desnecessária a existência de previsão legal ou mesmo contratual para o pagamento das referidas parcelas.
+3. Em relação ao FGTS, o STF já havia definido, inclusive em sede de repercussão geral, que - em caso de reconhecimento de nulidade de contrato temporário para atender excepcional interesse público - é devido aos contratados o direito ao levantamento do FGTS (Tema 916).
+4. Assim, reconhecida a nulidade de contrato temporário, é devido aos contratados o direito ao pagamento dos valores de décimo terceiro salário e férias acrescidas do terço constitucional e FGTS.
+5. Recurso desprovido. Decisão unânime.
+Nas razões do recurso especial (fls. 143-150, e-STJ), o recorrente alegou que o acórdão impugnado incorreu em violação ao art. 373 do Código de Processo Civil de 2015.
+Sustentou, em suma, ser indevido o pagamento das verbas pleiteadas pela recorrida, tendo em vista a ausência de comprovação do fato constitutivo de seu direito.
+Em razão do juízo prévio negativo de admissibilidade, o insurgente interpôs agravo, do qual se conheceu para não conhecer do recurso especial, dada a incidência da Súmula 7/STJ para revisão das conclusões do acórdão recorrido.
+Neste agravo interno (fls. 205-213, e-STJ), o agravante pugna pela inaplicabilidade do óbice apontado para o não conhecimento de seu recurso, ao tempo que repisa as mesmas razões trazidas no recurso especial.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Sem impugnação, conforme certificado à fl. 217 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. NULIDADE DO CONTRATO TEMPORÁRIO RECONHECIDA. DIREITO A PERCEPÇÃO DE FÉRIAS, DÉCIMO TERCEIRO SALÁRIO E FGTS. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO INTERNO DESPROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. A alteração da conclusão adotada pela Corte de origem - acerca da comprovação do direito da autora à percepção das quantias pleiteadas - demandaria necessariamente o reexame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7 deste Tribunal Superior.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Conforme asseverado na decisão agravada, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 127-129, e-STJ):
+A contratação temporária, prevista no art. 37, IX, da Constituição Federal, consoante o professor Celso Antônio Bandeira de Melo (Curso de Direito Administrativo), objetiva contemplar situações nas quais a própria atividade a ser desempenhada é temporária, ou a atividade não é temporária, mas o excepcional interesse público demanda que se faça imediato suprimento temporário de uma necessidade, por não haver tempo hábil para realizar concurso.
+(..)
+Consoante decidido pelo Pretório Excelso, diante da natureza de contrato administrativo, a aludida contratação temporária para prestação de serviços de excepcional interesse público não gera vínculo do contratado com o poder público segundo as normas regentes do Direito do Trabalho, o servidor temporário contratado com fundamento no art. 37, IX, da Constituição Federal, não faz jus a eventuais verbas de natureza trabalhista, a exemplo do décimo terceiro salário e férias acrescida do terço constitucional, salvo expressa previsão legal ou contratual em sentido contrário.
+Por sua vez, o MUNICÍPIO DE SÃO JOÃO editou a Lei Municipal nº 669/1997, com as alterações trazidas pela Lei Municipal n.º 819/2006, que limitam a contratação por prazo temporário, dispondo que esta somente poderá ser feita pelo prazo máximo de 02 (dois) anos, podendo haver renovação por mais 01 (um) ano.
+Ocorre que, no caso sob exame, a parte autora prestou serviços à edilidade desde abril 2016, com contratos sucessivamente renovados até o mês de novembro de 2020 (Ids. 18562469; 18562470; 18562471; 18562472 e 18562473). Há inclusive uma declaração da própria edilidade informando e corroborando o período do vínculo da parte autora ("período que compreende 01/04/2016 até a data de 30/11/2020, na função de Recepcionista" - Id 18562468). (grifos no original)
+Como se vê, o período laborado, excedeu o prazo previsto em ambas legislações da edilidade, configurando, assim, o desvirtuamento do contrato temporário.
+Ora, apesar de ter havido, no caso concreto, contratação administrativa temporária, nota-se que a admissão dita transitória prolongou-se por mais de 4 anos em virtude das reiteradas renovações contratuais, o que evidentemente extrapolou os limites proporcionais da excepcionalidade e provisoriedade inerentes ao ingresso temporário no serviço público (art. 37, IX, da CF/88), revelando-se a nulidade da admissão duradoura despida de prévio concurso.
+Restou configurado, assim, o desvirtuamento da avença temporária, o que - à luz do TEMA 551 - garante à parte o direito à percepção de férias acrescidas do terço constitucional e décimo terceiro salário.
+Nesse contexto, forte no item 2 da tese fixada no Tema 551 do STF, afigura-se desnecessária a existência de previsão legal ou mesmo contratual para o pagamento das referidas parcelas, afinal, repise-se, foi reconhecida na origem a nulidade da contratação.
+2. Em relação ao FGTS, o STF já havia definido, inclusive em sede de repercussão geral, que - em caso de reconhecimento de nulidade de contrato temporário para atender excepcional interesse público - é devido aos contratados o direito ao levantamento do FGTS:
+(..)
+Assim, é nulo o contrato de trabalho temporário celebrado com a Administração Pública nos termos do art. 37, IX, da Constituição Federal que desnature a marca da temporalidade, protraindo-se no tempo, seja por meio de renovações consecutivas, seja por aditamentos constantes (grifos no original).
+Como visto, a parte autora/agravada foi contratada temporariamente pela Municipalidade por mais de 4 anos. Portanto, a admissão do recorrente por tempo determinado para fazer frente à necessidade temporária se deu fora do prazo estipulado na lei de regência e deve, assim, ser considerada inválida, já que desrespeitou o modo, a forma e os limites estabelecidos na Constituição da República Federativa do Brasil de 1988 e na legislação municipal (sen grifos no original).
+Dessa forma, o art. 19-A, da Lei nº 8.036/1990 garante ao servidor que tenha o seu vínculo contratual com a Administração Pública declarado nulo o pagamento de verbas a título de FGTS (grifo s no original).
+Nessa senda, à luz do art. 373, II do CPC, caberia ao Município-apelante se desincumbir do ônus de provar a existência de fato extintivo do direito reclamado pela ora recorrida, por meio da comprovação do pagamento de tais verbas, o que não restou configurado nos autos.
+Logo, faz jus a autora-apelada aos depósitos de FGTS, bem como às férias e decimo terceiro pleiteados (sem grifos no original).
+Dessa forma, a revisão da conclusão estadual - acerca da comprovação do direito da autora à percepção das quantias pleiteadas - demandaria necessariamente o reexame do acervo fático-probatório dos autos, o que não se admite no âmbito do recurso especial, dado o óbice das Súmula 7/STJ.
+Por conseguinte, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
