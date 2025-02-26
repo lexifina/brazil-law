@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DA USP contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 36):
+CUMPRIMENTO DE SENTENÇA - NULIDADE DE INTIMAÇÃO - DESCUMPRIMENTO DO ÔNUS DO ART. 272, § 8º, DO CPC - Agravante que pretende a declaração de nulidade de intimação com devolução de prazo para apresentação de recurso - Desacolhimento - Ônus da parte de praticar o ato processual devido na mesma oportunidade em que alega a nulidade da intimação, em prestígio ao princípio da celeridade processual Inteligência do art. 272, § 8º, do CPC - Parte que suscitou falta de intimação de Acórdão que rejeitara embargos de declaração, limitando-se a pedir a devolução do prazo em vez de diretamente interpor o recurso cabível Inadmissibilidade do pedido - Orientação jurisprudencial consolidada por este E. TJSP - Decisão mantida - RECURSO DESPROVIDO.
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 183, § 1º e 274, III, do CPC/2015.
+Contrarrazões às e-STJ fls. 65/70.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Os arts. 183, § 1º e 274, III, do CPC/2015, apontados como violados, não possuem comando capazes de, isoladamente, sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto também a incidência da Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito do tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PEÇA OBRIGATÓRIA NO AGRAVO DE INSTRUMENTO. FUNDAMENTO IMPUGNADO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 282/STF EM SUBSTITUIÇÃO À SÚMULA N. 283/STF. EXECUÇÃO PROVISÓRIA DE MANDADO DE SEGURANÇA. POSSIBILIDADE. SÚMULA 83/STJ. INCIDÊNCIA. LEVANTAMENTO DOS VALORES. CONFIRMAÇÃO DA SENTENÇA CONCESSIVA DA SEGURANÇA. TRÂNSITO EM JULGADO ANTES DO EXAURIMENTO DA PRESTAÇÃO JURISDICIONAL NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. DESNECESSIDADE DE LIQUIDAÇÃO. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+VI - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+VII - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+IX - Agravo Interno improvido. (AgInt no REsp 1.290.187/ES, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 11/09/2017).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
