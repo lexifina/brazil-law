@@ -1,0 +1,62 @@
+DECISÃO
+LUCIANO GONZAGA DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação criminal n. 1502809- 90.2024.8.26.0536.
+Consta dos autos que o paciente foi condenado à pena de 1 ano e 6 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 155, caput, do Código Penal.
+A defesa aduziu, em síntese, a nulidade do ato de reconhecimento a que o acusado foi submetido. Nas palavras do impetrante, "as nulidades alegadas atingem o conjunto total das provas, não havendo idoneidade para o decreto condenatório de primeira e segunda instâncias" (fl. 8).
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 140-145).
+Decido.
+I. Art. 226 do CPP - o reconhecimento de pessoas como meio probatório e o avanço da jurisprudência
+Diz o art. 226 do CPP, no que interessa (grifei):
+Art. 226. Quando houver necessidade de fazer-se o reconhecimento de pessoa, proceder-se-á pela seguinte forma:
+I - a pessoa que tiver de fazer o reconhecimento será convidada a descrever a pessoa que deva ser reconhecida;
+Il - a pessoa, cujo reconhecimento se pretender, será colocada, se possível, ao lado de outras que com ela tiverem qualquer semelhança, convidando-se quem tiver de fazer o reconhecimento a apontá-la;
+ ..
+IV - do ato de reconhecimento lavrar-se-á auto pormenorizado, subscrito pela autoridade, pela pessoa chamada para proceder ao reconhecimento e por duas testemunhas presenciais.
+Esta Corte Superior entendia, até recentemente, que as prescrições contidas no referido dispositivo constituiriam "mera recomendação" e, como tal, o seu eventual descumprimento não ensejaria nulidade da prova.
+Rompendo com essa posição jurisprudencial, a Sexta Turma deste Superior Tribunal, por ocasião do julgamento do HC n. 598.886/SC (Rel. Ministro Rogerio Schietti), realizado em 27/10/2020, conferiu nova interpretação ao art. 226 do CPP, a fim de superar o antigo entendimento e definir que o procedimento legal "não configura mera recomendação do legislador, mas rito de observância necessária, sob pena de invalidade do ato". Estabeleceu-se ali a necessidade de se determinar a invalidade de qualquer reconhecimento formal - pessoal ou fotográfico - que não siga estritamente o que determina o art. 226 do CPP, sob pena de continuar-se a potencializar o concreto risco de graves erros judiciários.
+No âmbito do Supremo Tribunal Federal, a temática também tem se repetido. Exemplificativamente, menciono o HC n. 172.606/SP (DJe 5/8/2019), de relatoria do Ministro Alexandre de Moraes, em que, monocraticamente, se absolveu o réu, em razão de a condenação haver sido lastreada apenas no reconhecimento fotográfico realizado na fase policial.
+Ainda, há de se destacar que, em julgamento concluído no dia 23/2/2022, a Segunda Turma da Suprema Corte deu provimento ao RHC n. 206.846/SP (Rel. Ministro Gilmar Mendes), para absolver um indivíduo reconhecido por fotografia de maneira irregular. Na ocasião, o Ministro relator mencionou outros precedentes do STF em sentido similar e, reportando-se ao que o STJ decidiu no HC n. 598.886/SC, propôs a fixação de três teses, acolhidas à unanimidade pelo colegiado:
+1) O reconhecimento de pessoas, presencial ou por fotografia, deve observar o procedimento previsto no art. 226 do Código de Processo Penal, cujas formalidades constituem garantia mínima para quem se encontra na condição de suspeito da prática de um crime e para uma verificação dos fatos mais justa e precisa.
+2) A inobservância do procedimento descrito na referida norma processual torna inválido o reconhecimento da pessoa suspeita, de modo que tal elemento não poderá fundamentar eventual condenação ou decretação de prisão cautelar, mesmo se refeito e confirmado o reconhecimento em Juízo. Se declarada a irregularidade do ato, eventual condenação já proferida poderá ser mantida, se fundamentada em provas independentes e não contaminadas.
+3) A realização do ato de reconhecimento pessoal carece de justificação em elementos que indiquem, ainda que em juízo de verossimilhança, a autoria do fato investigado, de modo a se vedarem medidas investigativas genéricas e arbitrárias, que potencializam erros na verificação dos fatos.
+Posteriormente, em sessão ocorrida no dia 15/3/2022, esta colenda Sexta Turma, por ocasião do julgamento do HC n. 712.781/RJ (Rel. Ministro Rogerio Schietti), avançou em relação à compreensão anteriormente externada no HC n. 598.886/SC e decidiu, à unanimidade, que, mesmo se realizado em conformidade com o modelo legal (art. 226 do CPP), o reconhecimento pessoal, embora seja válido, não tem força probante absoluta, de sorte que não pode induzir, por si só, à certeza da autoria delitiva, em razão de sua fragilidade epistêmica; se, porém, realizado em desacordo com o rito previsto no art. 226 do CPP, o ato é totalmente inválido e não pode ser usado nem mesmo de forma suplementar, nem para lastrear outras decisões, ainda que de menor rigor quanto ao standard probatório exigido, tais como a decretação de prisão preventiva, o recebimento de denúncia e a pronúncia.
+Pontuou-se, ainda, no referido julgado, que o reconhecimento de pessoas é prova cognitivamente irrepetível, porque o ato inicial afeta todos os subsequentes e a sua repetição, mesmo que em conformidade com o art. 226 do CPP, não convalida os vícios pretéritos.
+Mais recentemente, com o objetivo de minimizar erros judiciários decorrentes de reconhecimentos equivocados, a Resolução n. 484/2022 do CNJ incorporou os avanços científicos e jurisprudenciais sobre o tema e estabeleceu "diretrizes para a realização do reconhecimento de pessoas em procedimentos e processos criminais e sua avaliação no âmbito do Poder Judiciário" (art. 1º).
+Tecidas essas considerações, passo ao exame do caso concreto posto em julgamento.
+II. O caso dos autos
+Ao condenar o réu em primeiro grau, o Juízo singular assim argumentou (fls. 49-51, grifei):
+Como se depreende da prova oral produzida, ficou comprovado o crime de furto consumado e a autoria delitiva.
+A vítima narrou que foi a uma loja na Rua Amador Bueno.
+Estacionou sua bicicleta na vidraça do estabelecimento para que pudesse vê-la enquanto estivesse dentro da loja. Ao sair do comércio, sua bicicleta havia sido subtraída. De imediato, passou uma viatura policial, e comunicou o furto. Poucos minutos após, cerca de 5 a 10 minutos, os policiais encontraram o réu na posse do bem furtado.
+Afirmou que não viu o furtador, tampouco o momento da subtração, mas confirmou, sem sombras de dúvida, que a bicicleta encontrada com o réu é de sua propriedade.
+É certo que, perante a autoridade policial (fl. 6), a vítima asseverou que viu o furtador fugindo com a bicicleta e que, depois da detenção dele, o teria reconhecido.
+Embora a vítima, sob o crivo do contraditório, tenha afirmado que não viu o furtador, as demais provas produzidas nos autos confirmaram a autoria delitiva.
+ ..
+Os testemunhos policiais foram consistentes e coerentes, embora não tenham sido perfeitamente uníssonos.
+Confirmaram que, após a comunicação do furto pela vítima, em poucos minutos, encontraram o réu na posse da res furtiva.
+É certo que os policiais divergiram quanto ao réu ter alegado que a subtração da bicicleta havia se dado por terceira pessoa. Contudo, mencionada divergência não tem o condão de macular o depoimento dos policiais, à medida em que a versão do réu é incompatível com os fatos narrados pela vítima.
+ ..
+Logo, ao contrário do alegado pela Defesa, o conjunto probatório dos autos é seguro quanto à prática do crime pelo acusado, pelo que a condenação pelo crime de furto simples é de rigor.
+O Tribunal de origem, por sua vez, empregou os seguintes fundamentos, no que interessa (fls. 19-20, destaquei):
+Como se vê, o conjunto probatório evidenciou a autoria do furto praticado pelo apelante. Em se tratando de crime patrimonial, a apreensão da coisa subtraída em poder do acusado, em consonância com o conjunto probatório colhido nos autos, é prova suficiente de autoria.
+Os policiais militares confirmaram que poucos minutos depois da subtração, encontraram o réu com a bicicleta, fato sequer negado pelo acusado.
+ ..
+Ressalto que o intervalo entre a subtração e a prisão do réu, na posse do bem, foi inferior a quinze minutos.
+Não convence que, nesse curto espaço de tempo, o "verdadeiro" autor do furto tivesse oportunidade ou motivo para emprestar a bicicleta ao acusado.
+Inviável assim, o acolhimento da tese da insuficiência probatória, ou mesmo da tese de desclassificação do fato para o delito de receptação culposa.
+A divergência no relato da vítima, que em juízo negou ter reconhecido o acusado na fase policial, não é suficiente para infirmar a prova da autoria. Como consignado, a prisão do acusado minutos depois da subtração, na posse da coisa, é suficiente para responsabilizá-lo pela autoria delitiva, pois não trouxe aos autos qualquer justificativa em sentido diverso.
+ ..
+Portanto, de rigor o desfecho condenatório, tal qual lançado.
+Segundo consta dos autos, no dia do ocorrido a vítima deixou a sua bicicleta na parte externa de um estabelecimento comercial e ingressou no local; ao retornar, constatou que o bem havia sido subtraído, razão pela qual acionou a polícia militar. Entre 10 e 15 minutos depois do contato com a equipe policial, a bicicleta foi localizada sob a posse do acusado. Na ocasião, o paciente foi detido e alocado no compartimento de contenção da viatura, oportunidade em que o ofendido foi instado a reconhecê-lo naquelas condições.
+Em Juízo, a vítima afirmou que não viu o momento em que ocorreu a subtração e que somente visualizou o réu quando ele já estava detido no porta-malas da viatura (fls. 16-17).
+Conforme se depreende dos excertos acima, para condenar o acusado, as instâncias ordinárias levaram em consideração o reconhecimento realizado pelo ofendido. Todavia, o ato não observou o rito estabelecido pelo art. 226 do CPP, uma vez que o paciente foi exibido sozinho à vítima e na condição de detido, o que está em manifesta contrariedade ao entendimento consolidado nesta Corte Superior.
+Além disso, sob o crivo do contraditório o ofendido asseverou que não viu a subtração de sua bicicleta, de modo que somente teve contato visual com o paciente quando ele já havia sido preso pelos militares.
+Entretanto, não obstante as considerações feitas anteriormente, entendo que, no caso dos autos, não há como se concluir que a condenação haja sido lastreada, única e exclusivamente, no reconhecimento realizado pela vítima. A leitura da sentença e do acórdão indica que outros elementos foram considerados, como, por exemplo, a localização do bem subtraído na posse do acusado, a imediaticidade da ação policial e os depoimentos dos militares.
+Dessa forma, conquanto não se possa negar validade integral aos depoimentos colhidos nos autos, há de se negar validade à condenação baseada em elemento colhido em desacordo com as regras probatórias.
+Sob tais condições - tanto pela inobservância do procedimento descrito no art. 226 do CPP quanto pela declaração do ofendido em Juízo -, o ato de reconhecimento do paciente deve ser declarado nulo, o que torna imprestável, no caso concreto, a utilização dessa prova para fundamentar a condenação do réu, ainda que de forma suplementar. Não se trata, portanto, de mera diminuição da força probante do ato, mas sim de verdadeira nulidade.
+Com efeito, o que se deve avaliar, é se, descartado por completo o reconhecimento, ainda subsistem provas autônomas e suficientes, por si sós, para lastrear o decreto condenatório.
+Por essa razão, julgo necessário que sejam extirpados dos autos o reconhecimento feito em desacordo com o comando legal e as provas decorrentes desse ato nulo e determinado o retorno do feito ao Juízo singular para que profira nova sentença, sem que os leve em consideração, nem mesmo de forma suplementar.
+III. Dispositivo
+À vista do exposto, concedo parcialmente a ordem a fim de declarar a nulidade do reconhecimento realizado em desfavor do paciente e determinar o re torno do feito ao Juízo singular para que, uma vez extirpada tal prova dos autos, seja proferida nova sentença, a qual não poderá levá-la em consideração nem mesmo de forma suplementar.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
