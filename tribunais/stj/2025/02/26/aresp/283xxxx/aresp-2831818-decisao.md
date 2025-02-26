@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MOISÉS GOMES MAGALHAES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO POR ABANDONO. AUSÊNCIA DE DETERMINAÇÃO DE INTIMAÇÃO PESSOAL. INEXISTÊNCIA DE ADVERTÊNCIA SOBRE A POSSIBILIDADE DE EXTINÇÃO. ERROR IN PROCEDENDO. SENTENÇA CASSADA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 5º da Lei n. 11.419/2006 e ao art. 183, §1º, do CPC, no que concerne à necessidade de reconhecimento da ocorrência de intimação regular da recorrida, porquanto foi realizada por meio do Portal Eletrônico, o que equivale à intimação pessoal da Fazenda Públic a. Argumenta:
+A primeira intimação eletrônica da recorrida para dar andamento no feito ocorreu em 28/01/2022, conforme despacho no evento 51, no qual foi concedido o prazo de 15 (quinze) dias para suprir a falta. Intimação lida automaticamente no evento 53.
+A segunda intimação eletrônica da recorrida para dar andamento no feito ocorreu em 13/11/2022, conforme despacho no evento 58, que concedeu o prazo de 30 (trinta) dias para suprir a falta. Intimação lida automaticamente no evento 61.
+Veja que ocorreu o lapso temporal de aproximadamente 10 (dez) meses entre as duas intimações, a fim de o recorrido suprir a falta do abandono, sob pena de extinção do processo.
+Portanto, nesse quesito, restou demasiadamente comprovado que o magistrado condutor do feito não laborou em error in procedendo, porque intimou o embargado por duas vezes consecutivas (eventos 51 e 58) nos termos do art. 485, do CPC, benevolamente no interstício aproximado de 10 (dez) meses (fls. 278-279).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente, qual seja, de que a intimação realizada por meio do Portal Eletrônico equivale à intimação pessoal da Fazenda Pública.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ademais, em relação à ocorrência de intimação, o Tribunal a quo se manifestou nos seguintes termos:
+No caso, o despacho (mov. 58) que precedeu a extinção por abandono foi proferido nos exatos termos seguintes: "Concedo a última oportunidade à parte exequente, para dar andamento ao feito, no prazo de 30 (trinta) dias, sob pena de extinção." Note-se que o ato judicial acima não determinou que a intimação se desse pessoalmente, o que configura error in procedendo. Explico.
+ ..
+Neste desiderato, a jurisprudência baliza a hipótese de abandono da causa desde que ocorrida a prévia intimação pessoal da parte com advertência expressa das penalidades decorrentes de eventual inação.
+ ..
+Por essa razão, há de se constatar que o magistrado condutor do feito laborou em error in procedendo, vez que não procedeu com a intimação prevista no artigo 485 do CPC, especificamente para essa finalidade, porquanto o recurso merece provimento, devendo a sentença ser cassada (fls. 267-268, grifo meu).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
