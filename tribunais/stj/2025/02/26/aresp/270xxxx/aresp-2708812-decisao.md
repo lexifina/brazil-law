@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interposto por HELIO MARCOS PRATES DOYLE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 212):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONSUMIDOR. BANCO. TRANSAÇÕES FINANCEIRAS NÃO RECONHECIDAS. COMPRA NO CARTÃO DE CRÉDITO. FRAUDE. GOLPE DA CENTRAL TELEFÔNICA. MOTOBOY. CULPA EXCLUSIVA DO CONSUMIDOR OU DE TERCEIROS. CONFIGURAÇÃO
+Rejeitados os embargos de declaração opostos (fl. 259).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, divergência jurisprudencial com arestos desta Corte a respeito do art. 14º, §3º, inciso II, do CDC.
+Alega que "o Recorrente, idoso, foi vítima de golpe do motoboy e os golpistas realizaram uma compra no cartão de crédito do Recorrente em completa divergência com seu padrão de consumo" (fl. 280).
+Foram oferecidas contrarrazões ao recurso especial (fls. 318-325).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 328-330), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 346-354).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A Terceira Turma desta Corte enfrentou matéria correlata no REsp n. 1.995.458/SP, de relatoria da Ministra Nancy Andrighi, que destacou em seu voto que, "embora os consumidores tenham o dever de zelar pela guarda e segurança do cartão magnético e das senhas pessoais, é também dever da instituição financeira verificar a regularidade e a idoneidade das transações realizadas, desenvolvendo meios a dificultar as fraudes, independentemente de qualquer ato dos consumidores".
+Veja-se a ementa do referido julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIBILIDADE DE DÉBITO. CONSUMIDOR. GOLPE DO MOTOBOY. RESPONSABILIDADE CIVIL. USO DE CARTÃO E SENHA. DEVER DE SEGURANÇA. FALHA NA PRESTAÇÃO DE SERVIÇO.
+1. Ação declaratória de inexigibilidade de débito.
+2. Recurso especial interposto em 16/08/2021. Concluso ao gabinete em 25/04/2022.
+3. O propósito recursal consiste em perquirir se existe falha na prestação do serviço bancário quando o correntista é vítima do golpe do motoboy.
+4. Ainda que produtos e serviços possam oferecer riscos, estes não podem ser excessivos ou potencializados por falhas na atividade econômica desenvolvida pelo fornecedor.
+5. Se as transações contestadas forem feitas com o cartão original e mediante uso de senha pessoal do correntista, passa a ser do consumidor a incumbência de comprovar que a instituição financeira agiu com negligência, imprudência ou imperícia ao efetivar a entrega de numerário a terceiros. Precedentes.
+6. A jurisprudência deste STJ consigna que o fato de as compras terem sido realizadas no lapso existente entre o furto e a comunicação ao banco não afasta a responsabilidade da instituição financeira. Precedentes.
+7. Cabe às administradoras, em parceria com o restante da cadeia de fornecedores do serviço (proprietárias das bandeiras, adquirentes e estabelecimentos comerciais), a verificação da idoneidade das compras realizadas com cartões magnéticos, utilizando-se de meios que dificultem ou impossibilitem fraudes e transações realizadas por estranhos em nome de seus clientes, independentemente de qualquer ato do consumidor, tenha ou não ocorrido roubo ou furto.
+Precedentes.
+8. A vulnerabilidade do sistema bancário, que admite operações totalmente atípicas em relação ao padrão de consumo dos consumidores, viola o dever de segurança que cabe às instituições financeiras e, por conseguinte, incorre em falha da prestação de serviço.
+9. Para a ocorrência do evento danoso, isto é, o êxito do estelionato, necessária concorrência de causas: (i) por parte do consumidor, ao fornecer o cartão magnético e a senha pessoal ao estelionatário, bem como (ii) por parte do banco, ao violar o seu dever de segurança por não criar mecanismos que obstem transações bancárias com aparência de ilegalidade por destoarem do perfil de compra do consumidor.
+10. Na hipótese, contudo, verifica-se que o consumidor é pessoa idosa, razão pela qual a imputação de responsabilidade há de ser feita sob as luzes do Estatuto do Idoso e da Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos, sempre considerando a sua peculiar situação de consumidor hipervulnerável.
+11. Recurso especial provido.
+(REsp n. 1.995.458/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+No mesmo sentido, cito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. FRAUDE BANCÁRIA. "GOLPE DO MOTOBOY". USO DE CARTÃO E SENHA. MOVIMENTAÇÕES ATÍPICAS. FALHA NA PRESTAÇÃO DO SERVIÇO. CONCORRÊNCIA DE CAUSAS. CONFRONTO DA GRAVIDADE DAS CULPAS. RETORNO DOS AUTOS À ORIGEM. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Embora os consumidores tenham a incumbência de zelar pela guarda e segurança do cartão pessoal e da respectiva senha, é também dever da instituição financeira verificar a regularidade e a idoneidade das transações realizadas, a ponto de dificultar as fraudes, independentemente de qualquer ato dos consumidores.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.347.579/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Nesse sentido, no aludido "golpe do motoboy" há culpa concorrente, pois "o estelionato não teria êxito se ausente a conduta do consumidor, e, da mesma forma, o crime não ocorreria se a instituição financeira cumprisse com o dever de segurança de impedir transações com aparência de ilegalidade" (AgInt no AREsp n. 2.347.579, Ministro Marco Aurélio Bellizze, DJe de 10/8/2023).
+No presente caso, verifica-se que a responsabilidade do banco recorrido foi afastada tão somente por ter sido o recorrente vítima do "golpe do motoboy", motivo pelo qual o Tribunal de origem entendeu pela configuração da culpa exclusiva da vítima (fl. 218):
+33. A atitude do autor de seguir orientações de um estranho, disponibilizando dados pessoais e senha sem checar, por outros meios, a veracidade das orientações recebidas, revela falta de cautela mínima esperada do homem médio diante das circunstâncias. De todos, em qualquer situação, contexto ou circunstância, são exigíveis prudência e precaução. O Direito não socorre os imprudentes nem os descuidados.
+34. A diminuição do risco operacional pela instituição financeira, com a utilização de sistemas para evitar a captura de dados sensíveis e eventuais fraudes, compõe apenas uma parte do todo para driblar a atuação de terceiros. Contudo, no caso concreto, não se pode afastar a responsabilidade do próprio usuário pelo fornecimento dos dados (entrega do cartão de crédito e do aparelho celular), elementos que contribuíram diretamente para o evento danoso narrado na petição inicial (culpa exclusiva da vítima).
+Portanto, o Tribunal de origem decidiu em desconformidade com a orientação da Terceira Turma desta Corte, conforme acima destacada, visto que o fato de ter sido o recorrente vítima do chamado "golpe do motoboy" não implica culpa exclusiva da vítima. Do mesmo modo, o fato de que o correntista possuía limite para realização das transações claramente discrepantes não ilide a responsabilidade da instituição financeira.
+Embora os consumidores tenham o dever de zelar pela guarda e segurança do cartão magnético e das senhas pessoais, é também dever da instituição financeira verificar a regularidade e a idoneidade das transações realizadas, desenvolvendo meios a dificultar as fraudes.
+Configura o descumprimento do dever de segurança das instituições financeiras a vulnerabilidade do sistema bancário, frágil o suficiente para viabilizar o êxito deste tipo de golpe, pois falha na adoção de medidas que lhe incumbiam e estavam ao seu alcance.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para declarar a inexigibilidade das transações fraudulentas não reconhecidas pelo recorrente e determinar a devolução dos valores porventura já pagos pelo consumidor.
+Em consequência do resultado do recurso, inverto a sucumbência e fixo os honorários advocatícios em 15% sobre o valor da condenação.
+Publique-se. Intimem-se.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIBILIDADE DE DÉBITO. GOLPE DO MOTOBOY. RESPONSABILIDADE CIVIL. USO DE CARTÃO E SENHA. DEVER DE SEGURANÇA. FALHA NA PRESTAÇÃO DE SERVIÇO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
