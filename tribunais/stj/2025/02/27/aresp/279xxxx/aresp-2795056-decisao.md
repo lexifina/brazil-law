@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por WALACI COSENDEY DE MENDONÇA e outra, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" , da Constituição Federal.
+Ação: de usucapião extraordinária ajuizada pelos agravantes, em face de CAMPING CLUBE DO BRASIL, na qual sustentam que são possuidores do imóvel em litígio.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pelos agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS INICIAIS. INSURGÊNCIA DOS AUTORES.
+1) Tese de cerceamento de defesa. Rejeição. Desnecessidade de produção de prova pericial, haja vista a existência de elementos probatórios suficientes à resolução da controvérsia fática posta no processo. Posse que é reconhecível a partir de fatos, de modo que seu exercício, natureza e tempo de duração, em muitas situações, é comprovado por meio de testemunhos e declarações de informantes, a qual foi deferida e realizada. Prova pericial, por outro lado, que apenas seria apta a constatar o estado atual do bem, mas não o efetivo exercício de posse pelos Autores e seu antecessor ou o abandono pelo Réu, razão pela qual sua realização se mostraria inútil e somente serviria à postergação e encarecimento da prestação jurisdicional.
+2) Pretensão de reconhecimento da aquisição da propriedade por usucapião extraordinária. Não acolhimento. Documentos apresentados que provam, no máximo, ter existido negócio jurídico entre os Autores e o cedente de uma suposta posse, disso não decorrendo, contudo, a demonstração do exercício de posse pelo sedizente transmitente sobre o bem, pelo prazo legal. Fragilidade, ademais, da prova oral produzida. Elementos probatórios que indicam que o antecessor dos Autores não exercia posse, mas mera detenção, o que impede a soma dos períodos. Impossibilidade de reconhecimento do exercício de posse mansa, pacífica, ininterrupta e exercida com animus domini pelo lapso necessário à prescrição aquisitiva. Ônus de comprovar os fatos constitutivos de seu direito, nos termos do artigo 373, I do CPC, não cumprido pelos Autores.
+3) Sentença mantida. Fixação de honorários recursais com base no artigo 85, § 11 do CPC.
+RECURSO CONHECIDO E DESPROVIDO. (e-STJ, fls. 1.402/1.403)
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "não assiste razão a fundamentação para a negativa de seguimento do recurso, pois, o despacho denegatório não se amolda na súmula 5 e 7 do STJ."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 20 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
