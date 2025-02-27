@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARIA EDUARDA SILVA MENEZES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Consta dos autos que a paciente foi presa em flagrante, convertida a custódia em preventiva em 6/9/2024, pela suposta prática da conduta descrita nos arts. 33 e 35, caput, da Lei n. 11.343/06.
+A impetrante alega que a decisão que manteve a prisão preventiva da paciente é equivocada, pois se baseia em uma condenação anterior que não existe, já que a acusada foi absolvida no P rocesso n. 202355000487 por insuficiência de provas.
+Sustenta que a prisão preventiva carece de fundamentação concreta e que as condições pessoais favoráveis da paciente, como a primariedade, não foram consideradas.
+Defende que não houve individualização do material apreendido e que a residência onde a droga foi encontrada não era da paciente.
+Aduz que a quantidade de drogas aprendidas não é relevante e destaca que o delito de tráfico não envolve violência ou grave ameaça.
+Menciona que a paciente sofre de ansiedade generalizada e possui vício em drogas, razão pela qual a revogação da prisão permitirá um tratamento melhor.
+Argumenta que a aplicação de medidas cautelares alternativas seria suficiente para garantir a ordem pública.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a substituição da custódia por medidas cautelares alternativas.
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+No presente caso, não se evidencia a ocorrência de ilegalidade manifesta, conforme se depreende da fundamentação a ser exposta a seguir.
+A prisão cautelar foi assim mantida (fls. 53-54, sublinhei):
+Outrossim, compulsando concretamente os autos, observa-se que os acusados foram presos em flagrante por terem em depósito, dentro de sua residência, uma bolsa plástica e um tablete que continham cocaína, bem como encontraram 163g de crack, a fim de que fossem de ilicitamente comercializadas. Ainda, ressalto que a acusada Maria Eduarda Silva Menezes foi condenada por tráfico de drogas nos autos da ação penal de número 202355000487, aguardando apreciação o recurso de apelação. Nesse sentido, é importante destacar que, diante da conduta criminosa dos acusados, o Poder Judiciário precisa atuar para evitar a reiteração de tais crimes nesta urbe, mormente para garantir a pacificação social.
+ ..
+Nesse contexto, observo que o narrado nos autos revela, em análise perfunctória, o modus operandi elevado desvalor da ação. Pois, afora a grande quantidade de substâncias apreendidas (163g de crack e 1280g cocaína) em posse dos réus, as drogas estavam dividas em tabletes, pinos, bolsas e saquinhos, bem como estavam acompanhadas de 2 (duas) balanças de precisão e 6 (seis) aparelhos celulares, ou seja, utensílios usualmente destinados ao suporte para o tráfico.
+A leitura da decisão que manteve a prisão revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos 163 g de crack e 1.280 g de cocaína.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Destaca-se que houve a apreensão de crack e de cocaína, isto é, de entorpecentes com elevado potencial lesivo.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024 - grifo nosso.)
+Ressalte-se que, apesar de a defesa alegar que a paciente foi absolvida em outros autos, a apreensão de expressiva quantidade de drogas de elevado potencial lesivo, por si só, justifica a manutenção do cárcere.
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
