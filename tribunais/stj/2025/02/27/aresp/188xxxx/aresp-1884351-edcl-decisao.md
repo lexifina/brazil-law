@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração no agravo em recurso especial que envolvem a discussão de tema afetado à sistemática dos recursos repetitivos (Tema n. 1301/STJ), conforme acórdão publicado em 16/12/2024 nos seguintes feitos: REsp 2.178.751/PR e REsp 2.179.119/PR.
+Na ocasião, foi determinada a suspensão do processamento de todos os processos pendentes que versem sobre a mesma matéria e tramitem no território nacional. Eis a ementa de um dos acórdãos:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. FCVS. COBERTURA SECURITÁRIA. DANOS NO IMÓVEL. VÍCIOS CONSTRUTIVOS. MULTIPLICIDADE DE DEMANDAS EM QUE SE DISCUTE A MESMA QUESTÃO JURÍDICA CONTROVERTIDA. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. SUSPENSÃO DOS RECURSOS QUE TRATAM DA MATÉRIA AFETADA.
+1. A multiplicidade de recursos especiais, em que se discute a existência de cobertura securitária para os danos decorrentes de defeitos na construção dos imóveis financiados pelo SFH e vinculados ao FCVS, recomenda a afetação da controvérsia para julgamento sob a sistemática dos recursos repetitivos, nos termos dos arts. 1.036 a 1.041 do CPC.
+2. Delimitação da questão controvertida: "Possibilidade, ou não, de se excluir da cobertura securitária os danos decorrentes de vícios construtivos em imóveis financiados no âmbito do Sistema Financeiro de Habitação e vinculados ao FCVS".
+3. Determinação de suspensão do processamento dos recursos especiais e agravos em recursos especiais interpostos perante os tribunais de segunda instância ou em tramitação no STJ.
+4. Afetação do recurso especial como representativo da controvérsia jurídica repetitiva para julgamento pela Primeira Seção deste Superior Tribunal de Justiça.
+(ProAfR no REsp n. 2.178.751/PR, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 10/12/2024, DJEN de 16/12/2024.)
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia sejam sobrestados no Tribunal de origem, até o final do julgamento qualificado. Isso, a fim de viabilizar o juízo de conformação, nos termos dos arts. 1.040 e 1.041, ambos do Código de Processo Civil. Nesse sentido: REsp n. 2.128.835, Ministro Paulo Sérgio Domingues, DJe de 2/8/2024.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo .
+Ante o exposto, torno sem efeito as decisões anteriores proferidas no Superior Tribunal de Justiça e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema 1.305), realize o juízo de adequação, em observância aos artigos 1.039 a 1.041 do Código de Processo Civil. Fica prejudica da a análise do recurso.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA AFETADA. TEMA 1.301/STJ. DEVOLUÇÃO À ORIGEM.
