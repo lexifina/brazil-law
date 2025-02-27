@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCIANO SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0004530-05.2024.8.26.0520 ).
+A controvérsia tratada nos autos foi devidamente sintetizada no parecer ministerial acostado às e-STJ fls. 135/142, cujo relatório ora transcrevo:
+Cuida-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado pela Defensoria Pública paulista, em benefício de LUCIANO SILVA , contra o acórdão prolatado pela 5ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJ/SP), que negou provimento ao Agravo em Execução n.º 0004530- 05.2024.8.26.0520, mantendo a decisão do Juízo da Execução da Comarca de Cachoeira Paulista/SP, a qual indeferiu pedido de retificação do cálculo de pena formulado em favor do ora paciente, e confirmando a interrupção do prazo aquisitivo para livramento condicional, na data da prática de falta grave, utilizada como marco inicial de contagem do tempo necessário para obtenção de livramento condicional (autos nº 0001002-94.2023.8.26.0520).
+A impetração sustenta a existência de constrangimento ilegal, arguindo, em síntese, que a falta grave não interrompe o prazo para o livramento condicional. Afirma que, segundo o entendimento jurisprudencial consolidado nesse Superior Tribunal de Justiça, "a falta grave não interrompe o prazo para obtenção de livramento condicional" (STJ, Súmula nº 441), devendo ser considerada para início da contagem do prazo do benefício a data da prisão, e não a data do delito mais recente do paciente". Pede, ao fim, a concessão da ordem, para que seja retificado o cálculo de penas do paciente no que tange à obtenção do livramento condicional, afastando-se o marco de interrupção referente à data do cometimento da falta grave (e-fls. 02-06).
+O Presidente dessa Corte Especial de Justiça solicitou informações ao Tribunal de segunda instância e ao juízo de origem (e-fl. 109).
+Com informações (e-fls. 117-119 e 121-130), vieram, os autos, a esta Procuradoria-Geral da República para parecer.
+Ao final, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício, "para obstar a interrupção do lapso temporal para concessão do benefício de livramento condicional em virtude da prática da falta grave" (e-STJ fl. 142).
+É o relatório.
+Decido.
+O presente writ está prejudicado, em face da perda superveniente do objeto.
+Com efeito, o Juízo da execução informou, nos presentes autos, que, "em relação aos fundamentos da impetração,  ..  por decisão datada de 24 de janeiro de 2025, foi acolhida a tese defensiva para reconhecer que a falta grave não deve ser considerada como fato interruptivo da fluência do tempo previsto em lei para o alcance do direito ao benefício do livramento condicional" (e-STJ fl. 118).
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno desta Corte (RISTJ), julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
