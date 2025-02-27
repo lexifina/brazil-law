@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela C.BRASIL SERVIÇOS DE LIMPEZA CONSERVAÇÃO E TRANSPORTES LTDA., com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 3.383):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. LIMITAÇÃO. 20 SALÁRIOS MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. TEMA 1.079/STJ.
+1. A limitação da base de cálculo das contribuições a terceiros em 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei n. 6.950/81, foi revogada pelo Decreto-Lei n. 2.318/86 juntamente com o caput do mesmo artigo, porquanto não é possível que remanesça em vigência parágrafo de lei estando revogado o artigo correspondente.
+2. Ao julgar o Tema 1.079 dos recursos repetitivos, o STJ decidiu que "a partir da entrada em vigor do art. 1º, I, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários".
+A parte recorrente aponta ofensa ao art. 4º, parágrafo único, da Lei n. 6.950/1981, ao art. 35 da Lei n. 4.863/1965, ao art. 2º, § 1º da Lei de Introdução às Normas de Direito Brasileiro (LINDB), ao art. 3º do Decreto-Lei n. 2.318/1986 e ao art. 1.037, inciso II do Código de Processo Civil.
+Sem contrarrazões (e-STJ fls. 3.445 e 3.447).
+Ao recurso especial foi negado seguimento em relação à matéria julgada pelo Tema 1.079 do STJ e admitida quanto ao remanescente (e-STJ fls. 3.450/3.451).
+O Ministério Público Federal opina pelo não conhecimento do recurso especial (e-STJ fls. 3.468/3.473).
+Passo a decidir.
+O Tribunal de origem, em autos de mandado de segurança, julgou improcedente o pedido do impetrante, que objetivava obstar que a base de cálculo para fins de apuração das contribuições devidas a terceiros e outras entidades ultrapasse o limite de 20 (vinte) salários mínimos vigentes no país.
+O acórdão que negou provimento à apelação consignou que (e-STJ fls. 3.881/3.882):
+Contribuições Sociais. Limitação a 20 vezes o maior salário-mínimo vigente.
+A jurisprudência desta Corte é iterativa no sentido de que a limitação de 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei n.º 6.950/81, foi revogada juntamente com o caput do referido art. 4º, pelo Decreto-Lei n.º 2.318/86, por não ser possível subsistir em vigor o parágrafo estando revogado o artigo correspondente.
+Nesse sentido, registro precedentes desta Corte: (TRF4, AC 5006468-73.2011.4.04.7205, SEGUNDA TURMA, Relatora LUCIANE A. CORRÊA MÜNCH, juntado aos autos em 14/11/2012; TRF4, AG 5004412-36.2020.4.04.0000, SEGUNDA TURMA, Relator RÔMULO PIZZOLATTI, juntado aos autos em 18/03/2020).
+Ademais, a 1ª Seção do Superior Tribunal de Justiça finalizou o julgamento dos R Esp 1898532 e R Esp 1905870, na sessão de julgamento de 13-03-2024 (publicado no D Je 02/05/2024), sob o rito dos recursos repetitivos, cujo objeto era definir se o limite de 20 salários-mínimos seria aplicável à apuração da base de cálculo das contribuições destinadas a terceiras entidades ou fundos, nos termos do artigo 4º da Lei nº 6.950/1981, com alterações pelos artigos 1º e 3º do Decreto-Lei nº 2.318/1986, fixando as seguintes teses do Tema n.º 1079:
+i) o art. 1º do Decreto-Lei n. 1.861/1981 (com a redação dada pelo Decreto-Lei n. 1.867/1981) determinou que as contribuições devidas ao SENAI, SESI, SESC e SENAC passariam a incidir até o limite máximo das contribuições previdenciárias;
+ii) o art. 4º e parágrafo único, da superveniente Lei n. 6.950/1981, ao quantificar o limite máximo das contribuições previdenciárias, também definiu o teto das contribuições parafiscais arrecadadas por conta de terceiros, fixando-o em 20 (vinte) vezes o maior salário mínimo vigente;
+iii) o art. 1º, I, do Decreto-Lei n. 2.318/1986, revogou expressamente a norma específica que estabelecia teto para as contribuições parafiscais devidas em favor do SENAI, SESI, SESC e SENAC, assim como seu art. 3º aboliu explicitamente o teto para as contribuições previdenciárias; e
+iv) a partir da entrada em vigor do art. 1º, I, do Decreto-Lei n. 2.318/1986, portanto, o recolhimento das contribuições destinadas ao SENAI, SESI, SESC e SENAC não está submetido ao limite máximo de vinte salários mínimos. Outrossim, os efeitos da decisão foram modulados para resguardar apenas os contribuintes que ingressaram com medida judicial ou administrativa até a data do início do julgamento (25/10/2023) e que, até lá, tenham obtido pronunciamento favorável, restringindo-se a limitação da base de cálculo, porém, até a publicação do acórdão (02/05/2024).
+No caso dos autos, é inaplicável a modulação de efeitos da decisão, porquanto não foi deferida ao contribuinte liminar e/ou tutela de urgência favorável.
+De acordo com o art. 927, III, do Código de Processo Civil, os juízes e os tribunais ordinários estão vinculados aos acórdãos proferidos pelo STJ em julgamento de recurso especial repetitivo.
+Dessarte, concluiu-se que não há limite de 20 salários-mínimos para empresas calcularem as contribuições a terceiros a partir da entrada em vigor do art. 1º, I, do Decreto-Lei n. 2.318/1986.
+Pois bem.
+Verifica-se que as teses vinculadas à limitação da base de cálculo da contribuição de terceiros devidas ao SESI, SESC, SENAI e SENAC, foram julgadas conforme o Tema 1.079/STJ, não cabendo recurso a esta instância ordinária.
+Quanto a matéria remanescente, contribuição de terceiros devida ao INCRA, não foi prequestionada, não obstante a oposição de embargos de declaração, o que atrai a incidência do óbice da Súmula 211 do STJ na espécie, não havendo que falar em prequestionamento implícito.
+Cabe registrar que, "não havendo sido apreciada a questão suscitada nas razões da Apelação, mesmo após a oposição dos Embargos Declaratórios, a parte recorrente deveria vincular a interposição do Recurso Especial à violação do art. 1.022 do CPC/2015 e, não, aos dispositivos apontados como violados, mas não apreciados, tal como ocorreu, na espécie" (AgInt no REsp 1.728.453/CE, Rel. Ministra Assusete Magalhães, Segunda Turma,, julgado em 03/03/2020, DJe 10/03/2020).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem fixação de honorários recusais, por se tratar de recurso interposto em autos de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
