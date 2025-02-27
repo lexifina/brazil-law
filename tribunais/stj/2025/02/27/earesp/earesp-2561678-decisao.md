@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por LEGACY PARTICIPAÇÕES LTDA. (LEGACY), na demanda em que contende com GAO CAR GARAGEM LTDA. (GAO CAR), contra o acórdão prolatado pela Quarta Turma do STJ, da relatoria do Ministro RAUL ARAÚJO, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. CONCORRÊNCIA DESLEAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. NÃO VERIFICADA. OMISSÃO. INEXISTÊNCIA. ELEMENTOS COMUNS DA MARCA. UTILIZAÇÃO POR OUTRAS PESSOAS JURÍDICAS. FLEXIBILIZAÇÃO DA GARANTIA DE EXCLUSIVIDADE. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Compete à Justiça Estadual processar e julgar a ação de abstenção de uso de marca por particular contra particular, fundada na prática de concorrência desleal, se não houver debate acerca da nulidade do registro no INPI.
+2. Não há que se falar em ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+3. Marcas com signos comuns, de uso corriqueiro na exploração de determinado objeto negocial, sem suficiente forma distintiva, podem conviver com outras semelhantes, em razão da flexibilização da exclusividade do registro.
+4. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial (e-STJ, fl. 505).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a dissenso quanto (1) a competência da Justiça Estadual processar e julgar a ação de abstenção de uso de marca; e (2) a exclusividade de uso de marca garantida pelo art. 129 da Lei de Propriedade Industrial.
+O embargante indicou como paradigma o acórdão da Terceira Turma prolatado no REsp nº 1.826.832/MG, relator Ministro PAULO DE TARSO SANSEVERINO, j. 25/5/2021, DJe de 1/6/2021 (e-STJ, fls. 518/545).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+Cinge-se a controvérsia em dirimir suposto dissenso jurisprudencial quanto (1) a competência da Justiça Estadual processar e julgar a ação de abstenção de uso de marca; e (2) a exclusividade de uso de marca garantida pelo art. 129 da Lei de Propriedade Industrial.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+A divergência não pode ser conhecida diante da ausência de similitude fática entre os acórdãos confrontados.
+Quanto à competência, o acórdão embargado entendeu que compete à Justiça Estadual processar e julgar a ação de abstenção de uso de marca por particular contra particular, fundada na prática de concorrência desleal, se não houver debate acerca da nulidade do registro no INPI. O acórdão paradigma, por sua vez, analisou situação fática diversa, em que o registro da marca foi anulado administrativamente pelo INPI e posteriormente restabelecido.
+No que se refere à exclusividade do uso da marca "G GARAGE INN" em contraposição à marca da embargada, "GAO CAR ESTACIONAMENTOS", o acórdão embargado concluiu que "G" para designar serviços de estacionamento de veículos remete a garagem e configura marca com signo comum, de uso corriqueiro, sem suficiente forma distintiva, razão por que pode conviver com outras semelhantes.
+O acórdão paradigma analisou o uso da marca "BRISTOL" para designar serviços de hotelaria por outra empresa do mesmo ramo, que utilizou referida marca na forma das expressões "REDE BRISTOL", "BRISTOL HOTELS" ou "BRISTOL HOTÉIS", "B BRISTOL" e "REDE BRISTOL HOTÉIS", "B BRISTOL HOTELS". Portanto, uma marca idêntica à da empresa detentora do registro estava sendo utilizada por outra empresa para designar exatamente os mesmos serviços.
+Não há, pois, nessa oportunidade, como se alterar e reavaliar os critérios do acórdão embargado para concluir, segundo pretende o embargante, que era o caso de reconhecer a exclusividade da marca "G GARAGE INN" em detrimento da marca "GAO CAR ESTACIONAMENTOS".
+Permanece hígido o entendimento de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Em suma, é o caso de rejeitar os embargos de divergência diante da ausência de similitude fática entre os acórdãos confrontados.
+Nessas condições, nos termos do art. 266, do RISTJ, INDEFIRO LIMINARMENTE os presentes embargos de divergência.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. EMBARGOS REJEITADOS LIMINARMENTE.
