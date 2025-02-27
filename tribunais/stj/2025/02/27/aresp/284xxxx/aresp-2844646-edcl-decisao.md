@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ANTONIO MARCOS DOS SANTOSCUNHA contra a decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+Ora, revela-se de clareza solar que o entendimento sumulado pelo Pretório Excelso concerne exclusivamente à necessidade de fundamentação adequada e inteligível nos recursos extraordinários, não se prestando, sob qualquer prisma, à análise da admissibilidade de recurso especial no âmbito do Superior Tribunal de Justiça. Logo, a invocação da referida súmula configura patente error in procedendo, a macular o decisum com vício insanável, pois se ampara em fundamento flagrantemente inaplicável à espécie, acarretando, por conseguinte, efeitos deletérios à parte recorrente, que se vê privada do regular processamento de seu recurso por motivo indevidamente invocado.
+Ademais, a decisão embargada incorre em contradição ao exigir impugnação específica de fundamento absolutamente inaplicável ao presente feito. Ora, sendo a Súmula 284 do STF despida de pertinência para a inadmissibilidade do recurso especial, não se pode exigir que o recorrente a tenha combatido no agravo, sob pena de se imputar-lhe a obrigação de refutar argumento juridicamente equivocado, o que se traduz em exigência manifestamente irrazoável e incompatível com os princípios do devido processo legal e da ampla defesa.
+Por fim, também se constata omissão na medida em que o r. decisum deixou de enfrentar adequadamente a questão atinente à aplicabilidade da Súmula 7 do STJ, que, a despeito de sua incidência em sede de Recurso Especial, deve ser analisada de forma circunscrita à realidade fática dos autos, evitando-se sua utilização indiscriminada para obstar o conhecimento de recursos que efetivamente discutem violação de norma infraconstitucional sem revolvimento de matéria probatória. (fl. 643-644)
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: súmula 284/STF.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
