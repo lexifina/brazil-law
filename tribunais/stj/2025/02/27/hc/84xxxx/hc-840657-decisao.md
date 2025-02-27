@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDRE GONCALVES contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, nos autos do HC n. 0083929- 28.2020.8.19.00
+O Paciente foi condenado à pena de 101 anos, 7 meses e 5 dias de reclusão, em regime fechado, e 8.230 dias-multa, no valor unitário mínimo legal, pela prática dos crimes previstos nos arts. 33, caput (seis vezes), 33, caput, c/c 40, VI, e 35 c/c 40, VI, todos da Lei n. 11.343/0206, e art. 333, caput (seis vezes), do Código Penal.
+Sustenta o impetrante a nulidade das interceptações telefônicas e das provas delas derivadas, ao argumento de que não foi juntada aos autos a integralidade das mídias colhidas quando da captação dos áudios e diálogos interceptados. Requer, liminarmente e no mérito, a declaração de nulidade das interceptações telefônicas, com o seu desentranhamento dos autos, e o consequente relaxamento da prisão do paciente.
+O pedido liminar foi indeferido às fls. 1136-1138.
+Informações prestadas às fls. 1145-1438.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 1442-1444).
+É o relatório.
+DECIDO.
+O Tribunal de origem assentou não conhecer do pleito de desentranhamento de documentos e reconhecimento de ilicitude das provas por entender não ser o habeas corpus a via adequada, devendo tal matéria ser analisada em recurso próprio.
+Ademais, restou consignado no acórdão, ao se reportar às informações prestadas pelo Juízo de primeiro grau (fl. 618):
+Relatou que, a Defesa do paciente questiona a ilicitude das provas e, em 26/11/2020, proferiu a seguinte decisão:" fls. 4528/4545. O feito já consta com sentença condenatória, motivo pelo qual a prestação jurisdicional se encontra esgotada em 1ª instância. A defesa do réu já apresentou recurso, faltando apenas as razões recursais, inclusive de início foi dito que apenas apresentaria as razões na instância superior (fls. 3705/3706). Todas as mídias, todos os volumes e apensos e eventuais documentos foram disponibilizados ao patrono do réu, conforme certidões de fls. 4520/4523. Desta forma, deve ser indeferido o pleito defensivo, tendo em vista que as arguições devem ser suscitadas perante à instância superior, estando esgotada a prestação jurisdicional. Ademais, qualquer defesa quanto à existência de nulidade absoluta ou quanto ao mérito da demanda deve ser formulada perante o Egrégio Tribunal de Justiça. Assim, pela derradeira vez, determino a apresentação das razões recursais pela defesa de André Gonçalves, sob pena de ser enviada à 2ª instância o feito sem as razões, cf. anteriormente requerido (fls. 3705/3706). Publique-se, com urgência, pois se trata de processo com réus presos." (Grifei.)
+Assim, consignado o acesso integral da defesa a todas as mídias, todos os volumes e apensos e eventuais documentos, entender de forma diversa exigiria revolvimento fático-probatório, i nviável em sede de habeas corpus. De outro lado, para o reconhecimento de nulidade no processo penal, seja ela absoluta ou relativa, é imprescindível a demonstração do prejuízo sofrido, nos termos do art. 563 do Código de Processo Penal, o que não ocorreu no caso concreto.
+Ressalte-se que, conforme consignado no acórdão impugnado, as interceptações telefônicas foram autorizadas fundamentadamente em autos de outro processo no qual tiveram origem, tendo inclusive dado ensejo à sentença condenatória, não se verificando ilegalidade manifesta a ser sanada na via estreita do habeas corpus.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
