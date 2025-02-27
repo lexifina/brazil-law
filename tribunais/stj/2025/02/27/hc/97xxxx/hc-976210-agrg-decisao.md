@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo regimental interposto por SERGIO LUIZ DA SILVA ALVES contra a decisão de e-STJ fls. 870/871, por meio da qual a Presidência indeferiu liminarmente o writ, nos seguintes termos:
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de SERGIO LUIZ DA SILVA ALVES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi condenado às penas de 6 (seis) anos e 6 (seis) meses de reclusão no regime inicial fechado e de pagamento de 600 (seiscentos) dias-multa, como incurso no art. 33 da Lei n. 11.343/2006.
+A impetrante sustenta constrangimento ilegal, pois entende ser ínfima a quantidade de droga, defendendo a absoluta ausência de prova da traficância.
+Segundo alega que "não há descrição clara do que foi trocado, nem se foi efetivamente comprovada a entrega de entorpecentes"; "não foram encontrados materiais típicos da traficância"; e também que "o paciente não foi flagrado em ato de comercialização ou abordagem direta de terceiros com a intenção de distribuir a substância" (fl. 9 ).
+Aduz que o paciente "deve ser absolvido ou, subsidiariamente, desclassificada a conduta" (fl. 14).
+Requer, liminarmente e no mérito, a reforma do acórdão impugnado.
+É o relatório.
+Decido.
+A impetração não merece prosseguir, pois "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+Neste recurso, sustenta a defesa a existência de ilegalidade flagrante a permitir a concessão de habeas corpus de ofício; no mais, reitera os argumentos contidos na inicial do writ.
+Requer, assim, o provimento do agravo a fim de que seja concedida a ordem anteriormente pleiteada.
+É o relatório. Decido.
+De fato, consoante bem pontuado na decisão recorrida, a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Contudo, não se pode perder de vista a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Penso ser essa a situação dos autos.
+No caso, da leitura da sentença e do acórdão impugnado, vê-se que os únicos elementos utilizados para justificar a condenação do paciente foram a apreensão da ínfima quantidade de droga, 0,85g (oitenta e cinco centigramas) de crack, bem como o depoimento dos policiais que realizaram a abordagem após avistarem o paciente e outro indivíduo "fazendo negociação com entorpecentes ao passar um para o outro" (e-STJ fl. 564), tendo eles afirmado que o paciente já era conhecido dos meio policial por seu envolvimento com a traficância.
+C omo se sabe, a condenação pelo delito de tráfico pressupõe prova robusta, que indique, sem espaço para dúvida, a existência do crime e a prova de autoria, situação que compreendo não ocorrer na espécie, de modo inequívoco, a permitir a certeza necessária a justificar o édito condenatório.
+É que, consoante constou do voto vencido proferido no acórdão que negou provimento à apelação defensiva, os policiais teriam relatado "em juízo que não foi possível identificar quem entregava o que para quem, tampouco recordaram a quantidade que cada um trazia consigo".
+Ademais, não foram apreendidos outros petrechos relativos à traficância, tais como cadernos de anotações, balança de precisão e embalagens.
+Portanto, o contexto sugere cenário probatório insuficiente a permitir que o réu deva ser condenado nos moldes da acusação formulada, devendo prevalecer o voto vencido proferido pelo Desembargador José Conrado Kurtz de Souza quando do julgamento do recurso de apelação, cujos fundamentos transcrevo a seguir (e-STJ fls. 889/890):
+Com a vênia do eminente Relator, dou parcial provimento ao apelo para desclassificar a conduta do réu para os lindes do Art. 28 da Lei nº 11.343/2006.
+Não verifico elementos suficientes a comprovar a destinação dos entorpecentes apreendidos. Consta nos autos a apreensão de 04 pedras de crack, pesando aproximadamente 0,85g.
+Nos termos do Art. 28, § 2º, da Lei nº 11.343/2006, para análise da conduta do réu quanto ao uso próprio, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente.
+A tese acusatória vem amparada na narrativa dos Brigadianos de que, em patrulhamento de rotina, visualizaram o réu entregando algo para o indivíduo José, o que ensejou a abordagem e a revista pessoal, ocasião em que foram apreendidas drogas no local.
+Ainda, o réu seria conhecido da guarnição por ser usuário de drogas que pratica o tráfico de entorpecentes para sustentar seu vício (mídia da fl. 279).
+Todavia, a quantidade de drogas não pode ser tida como significativa, tendo em vista que se trata de menos de 0,85g, como referido, razão pela qual inviável afirmar, de modo direto, a destinação comercial. Embora os Brigadianos tenham referido que visualizaram um indivíduo entregando algo para o outro, relataram em juízo que não foi possível identificar quem entregava o que para quem, tampouco recordaram a quantidade que cada um trazia consigo (mídia da fl. 245).
+Certo que usuários comumente trazem consigo pequenas quantidades para o comércio e usam o tráfico como meio de sustentar o próprio vício. No entanto, no caso, o panorama flagrado deixa dúvida sobre a destinação comercial e a prova judicial não foi suficiente a esclarecer a dúvida que favorece o réu.
+Deste modo, não ficaram suficientemente esclarecidas as circunstâncias da prisão em flagrante do réu, e, portanto, não havendo elementos que confortem certeza quanto à traficância, descabida a manutenção de sua condenação em relação ao crime de tráfico de drogas, em atenção ao princípio in dubio pro reo.
+Admitida a posse da droga, inexistente prova segura do tráfico, opera-se a desclassificação, incidindo a regra processual do Art. 383, § 2º, do Código de Processo Penal.
+O prazo prescricional para o delito descrito no Art. 28 da Lei nº 11.343/2006 é o de 02 anos, conforme Art. 30 da Lei nº 11.343/2006.
+A denúncia foi recebida em 06/03/2013. Inexistente marco interruptivo do prazo prescricional entre a data do recebimento da denúncia e a data da publicação da sentença (09/07/2019), transcorridos mais de dois anos, deve ser declarada extinta a punibilidade.
+Ante o exposto, voto por dar parcial provimento ao apelo defensivo para desclassificar a conduta do réu para os lindes do Art. 28 da Lei nº 11.343/2006 e, de ofício, declarar extinta a punibilidade pela prescrição da pretensão punitiva com base no Art. 30 da Lei nº 11.343/2006 e Art. 107, IV, do Código Penal. (Grifei.)
+Portanto, compreendo que revelou-se incontroversa apenas a posse do entorpecente apreendido, sendo necessária a desclassificação para a figura prevista no art. 28 da Lei n. 11.343/2006.
+Ante o exposto, reconsidero a decisão agravada para não conhecer do habeas corpus, contudo concedo a ordem de ofício para desclassificar a conduta do paciente, nos termos acima delineados, cabendo ao Juízo das execuções a adequação da reprimenda ou a possível declaração de extinção de punibilidade em vista do cumprimento da pena.
+Publique-se. Intimem-se.
+EMENTA
