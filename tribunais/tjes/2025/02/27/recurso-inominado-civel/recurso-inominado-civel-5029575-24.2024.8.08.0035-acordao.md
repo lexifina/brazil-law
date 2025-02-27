@@ -1,0 +1,71 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5029575-24.2024.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ESTADO DO ESPIRITO SANTO
+RECORRIDO: MARIA CRISTINA MARCELINO SARTORI
+RELATOR(A):
+THIAGO ALBANI OLIVEIRA GALVEAS
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5029575-24.2024.8.08.0035
+
+Recorrente: ESTADO DO ESPÍRITO SANTO;
+
+Recorridos: MARIA CRISTINA MARCELINO SARTORI;
+
+V O T O S
+
+DR. THIAGO ALBANI OLIVEIRA GALVEAS – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA:
+JUIZADO DA FAZENDA PÚBLICA. AÇÃO DE OBRIGAÇÃO DE FAZER COM TUTELA ANTECIPADA. FORNECIMENTO DE MEDICAMENTO CANABIDIOL. MEDICAMENTO SEM REGISTRO NA ANVISA. ALEGA A PARTE AUTORA QUE É ACOMETIDA A MAIS DE UMA DÉCADA POR FIBROMIALGIA, E APÓS FALHAREM DIVERSOS TRATAMENTOS, TEVE BOA RESPOSTA AO TRATAMENTO À BASE DE CANADIBIOL, CONFORME LAUDO MÉDICO ACOSTADO AOS AUTOS.
+
+SENTENÇA QUE JULGOU PROCEDENTE A PRETENSÃO INICIAL CONDENANDO O ESTADO RECORRENTE A PROVIDENCIAR E FORNECER O MEDICAMENTO PLEITEADO.
+
+RECURSO INOMINADO INTERPOSTO PELO ESTADO DO ESPÍRITO SANTO PUGNANDO PELA REFORMA DA SENTENÇA DIANTE DA NÃO OBSERVÂNCIA DOS REQUISITOS DO TEMA 106 DO STJ, ASSIM COMO QUE A OBRIGAÇÃO SEJA DIRECIONADA PARA O MUNICÍPIO EM RAZÃO DO TEMA 793/STF. ADUZ AINDA, QUE A NEGATIVA DO FORNECIMENTO SE DEU EM VIRTUDE DO MEDICAMENTO NÃO POSSUIR REGISTRO NA ANVISA.
+
+RECURSO CONHECIDO E IMPROVIDO. A AUSÊNCIA DE PREVISÃO DO MEDICAMENTO PLEITEADO NAS LISTAS DE MEDICAMENTOS FORNECIDOS PELO SUS NÃO É MOTIVO SUFICIENTE PARA O AFASTAMENTO DA PROCEDÊNCIA DO PEDIDO. SOBRE ESTE ASPECTO, O SUPERIOR TRIBUNAL DE JUSTIÇA DEFINIU, NO TEMA 106: “A CONCESSÃO DOS MEDICAMENTOS NÃO INCORPORADOS EM ATOS NORMATIVOS DO SUS EXIGE A PRESENÇA CUMULATIVA DOS SEGUINTES REQUISITOS: (I) COMPROVAÇÃO, POR MEIO DE LAUDO MÉDICO FUNDAMENTADO E CIRCUNSTANCIADO EXPEDIDO POR MÉDICO QUE ASSISTE O PACIENTE, DA IMPRESCINDIBILIDADE OU NECESSIDADE DO MEDICAMENTO, ASSIM COMO DA INEFICÁCIA, PARA O TRATAMENTO DA MOLÉSTIA, DOS FÁRMACOS FORNECIDOS PELO SUS; (II) INCAPACIDADE FINANCEIRA DE ARCAR COM O CUSTO DO MEDICAMENTO PRESCRITO; (III) EXISTÊNCIA DE REGISTRO NA ANVISA DO MEDICAMENTO.”
+
+A COMPROVAÇÃO DA NECESSIDADE MÉDICA DO REQUERENTE E DA INDISPENSABILIDADE DO MEDICAMENTO ENCONTRA-SE JUSTIFICADA NOS AUTOS. LOGO, IRRETOCÁVEL A SENTENÇA GUERREADA.
+
+POR FIM, O C. SUPREMO TRIBUNAL FEDERAL, A PARTIR DO JULGAMENTO NO RE Nº 855.178/SE, CONSAGROU O TEMA 793 DA REPERCUSSÃO GERAL, NOS SEGUINTES TERMOS: “OS ENTES DA FEDERAÇÃO, EM DECORRÊNCIA DA COMPETÊNCIA COMUM, SÃO SOLIDARIAMENTE RESPONSÁVEIS NAS DEMANDAS PRESTACIONAIS NA ÁREA DA SAÚDE, E DIANTE DOS CRITÉRIOS CONSTITUCIONAIS DE DESCENTRALIZAÇÃO E HIERARQUIZAÇÃO, COMPETE À AUTORIDADE JUDICIAL DIRECIONAR O CUMPRIMENTO CONFORME AS REGRAS DE REPARTIÇÃO DE COMPETÊNCIAS E DETERMINAR O RESSARCIMENTO A QUEM SUPORTOU O ÔNUS FINANCEIRO”. NO CASO DOS AUTOS, APESAR DE O MEDICAMENTO NÃO TER REGISTRO NA ANVISA, TEVE SUA IMPORTAÇÃO AUTORIZADA PELA AGÊNCIA, COMO FEZ PROVA A AUTORA (ID11542870).
+
+Ademais, nos termos do entendimento vinculante do STF, firmado no julgamento do RE 1165959 (Tema 1161 da Repercussão Geral), “
+Cabe ao Estado fornecer, em termos excepcionais, medicamento que, embora não possua registro na ANVISA, tem a sua importação autorizada pela agência de vigilância sanitária, desde que comprovada a incapacidade econômica do paciente, a imprescindibilidade clínica do tratamento e a impossibilidade de substituição por outro similar constante das listas oficiais de dispensação de medicamentos e os protocolos de intervenção terapêutica do SUS
+”.
+
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. SEM CUSTAS PROCESSUAIS. CONDENAÇÃO DA PARTE RECORRENTE EM HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% (DEZ POR CENTO) SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO, OU, NÃO HAVENDO, SOBRE O VALOR DA CAUSA.
+
+Fabiano Cuzini Scarpini
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. THIAGO ALBANI OLIVEIRA GALVEAS – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
