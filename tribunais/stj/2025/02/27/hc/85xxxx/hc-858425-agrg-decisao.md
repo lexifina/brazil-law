@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática de minha relatoria que concedeu ordem de habeas corpus "para determinar que o percentual estabelecido no art. 112, VII, da Lei de Execução Penal deve recair apenas sobre a totalidade das penas unificadas por condenações por crimes da mesma natureza (crime hediondo ou equiparado), para fins de progressão de regime e livramento condicional do apenado, cabendo ao Juízo da execução alterar os cálculos".
+O agravante alega que "por tratar-se de característica do próprio apenado, e não de cada condenação isolada, a reincidência deve ser aplicada de maneira global, pelo Juízo das Execuções, sobre a totalidade das penas somadas, independentemente da natureza dos delitos praticados" (e-STJ fls. 192-197).
+Decido.
+Assiste razão ao agravante.
+De fato, em recente julgamento a Quinta Turma do Superior Tribunal de Justiça fixou as seguintes teses: "1. A reincidência é uma circunstância pessoal que interfere na integralidade da execução penal. 2. A condição de reincidente deve se estender sobre a totalidade das penas somadas, não sendo possível a aplicação de percentuais diversos para cada condenação" (AgRg no HC n. 790.968/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/12/2024, DJEN de 20/12/2024).
+No mesmo sentido já se posicionou a Sexta Turma desta Corte, ao consignar que "no caso, o entendimento do Tribunal de origem está em consonância com a jurisprudência do STJ, uma vez que a condição de reincidente é de caráter pessoal do condenado, e não específico de cada condenação, de modo que, unificadas as sanções, a reincidência deve incidir sobre a totalidade das penas. (AgRg no HC n. 839.506/SC, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 18/4/2024)" (AgRg no AREsp n. 1.994.967/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/5/2024, DJe de 13/5/2024).
+Ante o exposto, dou provimento ao agravo regimental para reconsiderar a decisão anterior e denegar a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
