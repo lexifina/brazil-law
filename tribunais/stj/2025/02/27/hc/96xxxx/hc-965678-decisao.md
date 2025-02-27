@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DEBORA CAROLINE GARCIA NUNES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA na correição parcial criminal n. 5061906-23.2024.8.24.0000.
+Consta dos autos que a paciente foi denunciada pela suposta prática do crime previsto no art. 121, § 2º, incisos II, III e IV, do Código Penal.
+A Defesa requereu ao Juízo de primeiro grau a juntada dos antecedentes criminais, sentenças criminais e boletins de ocorrências registradas em desfavor da vítima, o que foi indeferido.
+Inconformada, a Defesa interpôs correição parcial criminal perante o Tribunal de origem, que foi rejeitado.
+Neste writ, sustenta que houve cerceamento de defesa devido ao indeferimento do pedido para juntada de documentos referentes ao histórico criminal da vítima, o que compromete a plenitude da defesa perante o Tribunal do Júri.
+Requereu, em liminar e no mérito, a concessão do presente writ, para que sejam acostadas aos autos as certidões de antecedentes criminais da vítima, sentenças criminais e boletins de ocorrência nos quais o ofendido figure como autor ou averiguado, através de consulta integral no cadastro da vítima no SISP, e, caso não seja esse o entendimento, a concessão da medida liminar para a suspender o processo até o julgamento de mérito deste habeas corpus.
+Decisão indeferindo o pedido liminar (fls. 77-78).
+As informações foram prestadas (fls. 83-114).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (fls. 118-123).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC n. 180.365, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020; AgR no HC n. 147.210, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Na espécie, embora a parte impetrante não tenha adotado a via processual adequada, cumpre analisar as razões da impetração, de forma a verificar a ocorrência de eventual ilegalidade manifesta a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, transcrevo os argumentos alinhavados pelo Tribunal de origem (fls. 10-13, grifamos):
+No presente caso, mesmo reconhecendo que os fundamentos apresentados pela Corrigente são relevantes, conforme bem destacado pela Magistrada de origem, a apuração dos fatos se concentra na conduta de homicídio atribuída à Corrigente, e não na investigação da vida pregressa da vítima.
+Cumpre salientar que incumbe ao magistrado exercer seu livre convencimento motivado. Nesse contexto, o juiz detém a autoridade para decidir quais provas são úteis e pertinentes ao deslinde da causa, optando por sua produção. Da mesma forma, possui o poder de indeferir aquelas provas que considerar meramente irrelevantes, impertinentes ou protelatórias, conforme preceitua o §1º do art. 400 do Código de Processo Penal.
+Esse poder discricionário do magistrado é fundamental para assegurar a eficiência e a celeridade processual, evitando que o processo seja sobrecarregado com provas desnecessárias que não contribuam para o esclarecimento dos fatos.
+É relevante ressaltar, de plano, que inexiste direito absoluto à produção probatória, cabendo ao Magistrado presidente do Júri indeferir, de forma fundamenta, os requerimentos de provas irrelevantes, impertinentes ou protelatórias, conforme disposto no § 2º do art. 411 do Código Processo Penal.
+Em situações excepcionalíssimas, entretanto, é possível, inclusive, em sede de habeas corpus, uma vez constatada a flagrante ilegalidade no indeferimento da indispensável prova postulada e não havendo necessidade do cotejo aprofundado dos elementos fático-probatórios contidos nos autos, a correção do vício.
+Como se sabe, a Constituição Federal estabeleceu, no âmbito do júri, a plenitude de defesa (art. 5º, XXXVIII, a).
+É certo que, muito embora a vida pregressa da vítima não seja objeto de persecução no processo de origem, seu histórico criminal poderá, em tese, amparar tese defensiva a ser ventilada em eventual julgamento pelo plenário.
+Conforme assentado no julgamento, pelo Supremo Tribunal Federal, do RHC n. 213705/SC (relatora Ministra Cármen Lúcia, julgado em 26/4/2022, publicação em 28/4/2022, grifamos),
+ A acerca da leitura de antecedentes em Plenário, explica Guilherme de Souza Nucci: Folha de antecedentes do réu ou da vítima: tornou-se costume, em muitos casos, a exibição aos jurados da folha de antecedentes do réu, quando contém registros, feita pela acusação, ou a folha de antecedentes da vítima, também quando desabonadora, feita pela defesa. É certo que as partes têm direito de explorar a personalidade das pessoas envolvidas na infração penal, mostrando o grau de agressividade tanto de um, como de outro, quando os antecedentes autorizem tal conclusão. (Código de processo penal comentado, 14ª ed. Rio de Janeiro: Forense. 2015. p. 996- grifou-se).
+Dessa forma, embora o histórico criminal do ofendido não exclua, por si só, a responsabilidade penal do autor do fato, não se pode descartar, de antemão, a pertinência de sua exploração argumentativa em plenário, sob pena de cerceamento da, como reza a Carta Cidadã, plenitude de defesa.
+Destaco que as instâncias ordinárias reconheceram (fls. 10-13, grifamos) que os fundamentos apresentados pela Corrigente são relevantes.
+Em caso semelhante, no julgamento do HC n. 980.099/SP (relator Ministro Joel Ilan Paciornik, DJEN de 14/2/2025), decidiu-se que (grifamos),
+Especificamente no âmbito do Tribunal do Júri, a Constituição Federal estabeleceu a plenitude de defesa (art. 5º, XXXVIII, a), possibilitando ao réu, dentre outros, utilizar todos os argumentos necessários para subsidiar a formação do convencimento do julgador.
+A efetividade dessa garantia pressupõe, também, o amplo acesso ao arcabouço cognitivo dos autos, bem como a faculdade de propor a produção de provas.
+No caso, ao que tudo indica, a vida pregressa da vítima não é objeto de investigação no feito. No entanto, necessário registrar que a defesa não tem acesso ao histórico criminal da vítima por conta própria, e que referido histórico pode amparar eventual tese defensiva a ser alegada em plenário.
+Logo, de rigor a concessão da ordem, de ofício, a fim de determinar ao Juízo de primeiro grau que certifique os antecedentes criminais da vítima, bem como que realize a consulta integral do cadastro dela no SISP.
+No mesmo sentido, a decisão monocrática proferida pelo eminente Ministro Rogério Schietti Cruz, no julgamento do RHC n. 181.336, DJe de 13/12/2023.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Contudo, concedo liminarmente a ordem, de ofício, para determinar seja certificado nos autos da ação penal os antecedentes criminais atualizados do ofendido, bem como realizada a consulta integral do cadastro no SISP.
+Publique-se.
+Intimem-se.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para determinar ao Juízo de primeiro grau que certifique os antecedentes criminais da vítima, bem como realize a consulta integral do cadastro dela no SISP, cabendo ao Juiz presidente do Tribunal do Júri, em plenário, se for o caso, zelar pela observância do disposto no art. 474-A do CPP.
+Oficie-se ao órgão de origem, com urgência, para ciência e cumprimento.
+Publique-se. Intimem-se.
+EMENTA
