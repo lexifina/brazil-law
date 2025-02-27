@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Habeas Corpus sem pedido de liminar impetrado em favor de JONES FREITAS SOARES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS.
+Em linhas gerais, o impetrante alega que o paciente sofre constrangimento ilegal, uma vez que ele não foi regularmente intimado para a audiência de instrução e julgamento, o que resultou na perda da chance de ser interrogado pelo Juiz. Segundo o impetrante, o mandado de intimação foi expedido errado, por culpa do Judiciário, e esse erro resultou na nulidade.
+Ao cabo da exposição, o impetrante requer a nulificação do processo a partir da audiência de instrução e julgamento (e-STJ fls. 3-14).
+O Juízo de Direito e o TJTO prestaram as informações de estilo (e-STJ fls. 98-111 e 112-120).
+O Ministério Público Federal opinou pela denegação do habeas corpus (e-STJ fls. 122-124).
+É o relatório.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+No caso, seria cabível, em tese, a interposição do recurso ordinário, razão pela qual não há possibilidade de impetração de habeas corpus.
+De qualquer forma, quanto às relatadas controvérsias e nulidades, uma vez que o Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, eis que julgou incabível a suscitação delas em habeas corpus, o STJ fica impedido de se manifestar diretamente sobre as matérias, sob pena de incorrer em indevida supressão de instância.
+Convém observar que, consoante a jurisprudência, o prévio exame das matérias pelas instâncias ordinárias constitui requisito indispensável para posterior apreciação no STJ, ainda quando se cuide de matéria de ordem pública.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL E DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. NULIDADE. QUEBRA DA CADEIA DE CUSTÓDIA. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado pelo Tribunal de Justiça do Estado do Rio de Janeiro por tráfico de entorpecentes, após recurso de apelação do Ministério Público.
+2. A defesa alega quebra da cadeia de custódia do material entorpecente, ausência de lacre ou mecanismo de preservação e que a quantidade apreendida não indica traficância. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, especialmente quando não há manifestação do Tribunal de origem sobre as matérias alegadas.
+4. Outra questão é a possibilidade de análise de alegações de quebra de cadeia de custódia e ausência de lacre, que não foram debatidas pelo Tribunal de origem, sem incorrer em supressão de instância. III. RAZÕES DE DECIDIR
+5. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade que cause constrangimento ilegal.
+6. A ausência de manifestação do Tribunal de origem sobre as matérias alegadas impede a análise direta pelo STJ, sob pena de supressão de instância.
+7. A jurisprudência do STJ e do STF é no sentido de que o habeas corpus não é instrumento adequado para reexaminar pressupostos de admissibilidade de recursos ou matérias não debatidas nas instâncias ordinárias.
+IV. HABEAS CORPUS NÃO CONHECIDO. (HC n. 850.656/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/2/2025, DJEN de 17/2/2025, grifou-se.)
+DIREITO PROCESSUAL PENAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. RECURSO EM HABEAS CORPUS. INTEMPESTIVIDADE. RECURSO NÃO CONHECIDO. I. CASO EM EXAME
+1. Recurso em habeas corpus interposto fora do prazo legal de 5 dias corridos, conforme art. 30 da Lei n. 8.038/1990. O recorrente foi intimado do acórdão em 15/02/2023, mas protocolou o recurso apenas em 22/02/2023. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o recurso em habeas corpus pode ser conhecido, apesar de sua interposição fora do prazo legal.
+3. A questão também envolve a análise da alegação de nulidade da ação penal por alegada impossibilidade de crime de ICMS ser julgado pela justiça estadual. III. RAZÕES DE DECIDIR
+4. O recurso é manifestamente intempestivo, pois foi interposto após o prazo legal de 5 dias, não preenchendo os requisitos gerais de admissibilidade.
+5. A jurisprudência desta Corte de Justiça é no sentido de que a segunda-feira de carnaval, a quarta-feira de cinzas, dias da Semana Santa que antecedem a Sexta-Feira da Paixão, Corpus Christi e Dia do Servidor Público são considerados feriados locais para fins de comprovação da tempestividade recursal. Precedentes.
+6. A tese de nulidade da ação penal não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi debatida pela Corte de origem, sob pena de supressão de instância.
+IV. RECURSO EM HABEAS CORPUS NÃO CONHECIDO. (RHC n. 179.811/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/2/2025, DJEN de 17/2/2025, grifou-se.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE NULIDADE DA DECISÃO DE PRONÚNCIA POR AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA E MATERIALIDADE. FUNDAMENTAÇÃO CONCRETA E ADEQUADA. PRINCÍPIO IN DUBIO PRO SOCIETATE. REQUISITOS DO ART. 413 DO CPP OBSERVADOS. DEFICIÊNCIA NA INSTRUÇÃO DO HABEAS CORPUS.
+SUPRESSÃO DE INSTÂNCIA. DECISÃO AGRAVADA MANTIDA.1. Na fase de pronúncia, exige-se apenas a demonstração de indícios suficientes de autoria e materialidade, sendo o Conselho de Sentença o órgão competente para o julgamento final. É nessa etapa que se aplicam os princípios da admissibilidade processual, com interpretação em favor da sociedade, havendo elementos probatórios mínimos e pertinentes.
+2. A decisão de pronúncia deve ser fundamentada com indicação clara dos elementos que demonstrem a materialidade do crime e indícios suficientes de autoria, observando-se o princípio in dubio pro societate, decorrente de elementos probatórios mínimos e coerentes.
+3. A deficiência na instrução do habeas corpus e a ausência de apreciação da tese pela instância de origem impedem o conhecimento pela Corte Superior, sob pena de supressão de instância.4. Agravo regimental não provido. (AgRg no HC n. 967.819/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025, grifou-se.)
+Por outro lado, a concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+No caso concreto, o juízo de primeiro declarou o acerto da revelia e o exaurimento das tentativas de intimação do paciente (e-STJ fls. 117).
+Isso quer dizer que não há flagrante ilegalidade, pelo contrário, há declaração judicial de que o devido processo legal foi respeitado.
+Por esses fundamentos, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
