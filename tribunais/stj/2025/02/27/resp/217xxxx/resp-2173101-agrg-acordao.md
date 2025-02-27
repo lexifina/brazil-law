@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. APROVAÇÃO PARCIAL NO ENCCEJA. RAZÕES DISSOCIADAS. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. VINCULAÇÃO DO SENTENCIADO A ATIVIDADES REGULARES DE ENSINO NO INTERIOR DO ESTABELECIMENTO PRISIONAL RECONHECIDA NA ORIGEM. FUNDAMENTO NÃO REBATIDO. SÚMULA 283/STF. QUESTIONAMENTO DE PREMISSA FÁTICA AFIRMADA NO ACÓRDÃO RECORRIDO. INDEVIDA INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso, o Tribunal de origem alinhado à orientação desta Corte Superior afirma a possibilidade de remição parcial de penas proporcional ao número de matérias em que o sentenciado foi aprovado no ENCCEJA.
+2. As razões expendidas no recurso especial estão dissociadas da fundamentação adotada pela Corte de origem, o que revela deficiência recursal e impede o conhecimento do recurso. Inteligência da Súmula 284/STF.
+3. A Corte estadual expressamente afirma que o sentenciado estava vinculado a atividades regulares de ensino no interior do estabelecimento prisional e vem frequentando o ensino médio desde pelo menos 24/11/2022, ressaltando que o tempo de estudo poderá ser devidamente contabilizado depois de requisição perante o juízo de primeira instância. O referido fundamento que ampara a conclusão do acórdão recorrido não foi rebatido nas razões do recurso especial, o que atrai a incidência do óbice da Súmula 283/STF.
+4. A alegação de que o agravante não estaria matriculado em ensino regular configura indevida inovação recursal, pois não foi arguida nas razões do recurso especial, sendo apresentada apenas em sede de agravo regimental.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VILSON DE OLIVEIRA contra a decisão monocrática que negou seguimento ao recurso especial, ao fundamento de que as razões recursais estavam dissociadas da fundamentação adotada pelo acórdão recorrido, atraindo, assim, o óbice da Súmula 284/STF, e de que a defesa não impugnou o fundamento de que o sentenciado estava vinculado a ensino regular no interior do estabelecimento prisional, incidindo, portanto, a vedação prescrita na Súmula 283/STF.
+O agravante sustenta que não há deficiência recursal, alegando que o fundamento utilizado pelo TJSP para afastar a remição parcial da pena foi expressamente impugnado no recurso especial. Argumenta, ainda, que não estaria vinculado a ensino regular, de modo que a Resolução n. 391/2021 do CNJ seria aplicável ao caso concreto.
+Requer, assim, a reconsideração da decisão agravada para determinar a remição parcial da pena proporcionalmente às matérias aprovadas no ENCCEJA, ou, subsidiariamente, a submissão do agravo ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. APROVAÇÃO PARCIAL NO ENCCEJA. RAZÕES DISSOCIADAS. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. VINCULAÇÃO DO SENTENCIADO A ATIVIDADES REGULARES DE ENSINO NO INTERIOR DO ESTABELECIMENTO PRISIONAL RECONHECIDA NA ORIGEM. FUNDAMENTO NÃO REBATIDO. SÚMULA 283/STF. QUESTIONAMENTO DE PREMISSA FÁTICA AFIRMADA NO ACÓRDÃO RECORRIDO. INDEVIDA INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso, o Tribunal de origem alinhado à orientação desta Corte Superior afirma a possibilidade de remição parcial de penas proporcional ao número de matérias em que o sentenciado foi aprovado no ENCCEJA.
+2. As razões expendidas no recurso especial estão dissociadas da fundamentação adotada pela Corte de origem, o que revela deficiência recursal e impede o conhecimento do recurso. Inteligência da Súmula 284/STF.
+3. A Corte estadual expressamente afirma que o sentenciado estava vinculado a atividades regulares de ensino no interior do estabelecimento prisional e vem frequentando o ensino médio desde pelo menos 24/11/2022, ressaltando que o tempo de estudo poderá ser devidamente contabilizado depois de requisição perante o juízo de primeira instância. O referido fundamento que ampara a conclusão do acórdão recorrido não foi rebatido nas razões do recurso especial, o que atrai a incidência do óbice da Súmula 283/STF.
+4. A alegação de que o agravante não estaria matriculado em ensino regular configura indevida inovação recursal, pois não foi arguida nas razões do recurso especial, sendo apresentada apenas em sede de agravo regimental.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece provimento.
+A decisão agravada negou seguimento ao recurso especial sob dois fundamentos principais:
+As razões do recurso especial, por estarem adstritas à defesa da tese de que a aprovação parcial no ENCCEJA pode ser considerada para fins de remição da pena pelo estudo, revelam-se dissociadas da fundamentação exposta no acórdão recorrido, que expressamente reconhece tal possibilidade. Assim sendo, deficiência recursal representa óbice ao conhecimento do recurso, nos moldes da Súmula 284/STF;
+O agravante não enfrentou o fundamento de que estava vinculado a atividades regulares de ensino no interior do estabelecimento prisional, circunstância que afastaria a aplicação da Resolução n. 391/2021 do CNJ, o que caracteriza inobservância do princípio da dialeticidade recursal e atrai, por analogia, a vedação prevista na Súmula 283/STF.
+O ponto central do agravo regimental reside na tentativa de afastar a premissa fática estabelecida pelo Tribunal de origem, segundo a qual "o sentenciado estava vinculado a atividades regulares de ensino no interior do estabelecimento prisional, tanto que vem frequentando o ensino médio desde pelo men os 24/11/2022" (e-STJ fl. 65). No entanto, essa alegação configura inovação recursal, pois não foi arguida nas razões do recurso especial e apenas foi suscitada em sede de agravo regimental, o que torna inviável seu acolhimento nesta fase processual.
+Vale lembrar que, nos termos da jurisprudência desta Corte, não se admite a inovação recursal em agravo regimental, especialmente quando nova alegação contraria expressamente a premissa fática estabelecida pelo acórdão recorrido.
+Dessa forma, ao aplicar corretamente os óbices das Súmulas 284 e 283 do Supremo Tribunal Federal, a decisão agravada encontra-se devidamente fundamentada, não havendo razões para sua reforma.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
