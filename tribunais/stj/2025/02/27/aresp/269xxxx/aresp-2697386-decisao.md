@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo de EBERT FERNANDO RAMOS MAGALHAES contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0000.23.284145-2/001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 12 da Lei n. 10.826/03 (posse irregular de munição de uso permitido), à pena de 1 ano de detenção, em regime inicial semiaberto, além do pagamento de 10 dias-multa (fl. 241).
+O recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO - ABSOLVIÇÃO PELO PRINCÍPIO DA INSIGNIFICÂNCIA - INVIABILIDADE - ABRANDAMENTO DO REGIME PRISIONAL PARA O ABERTO - IMPOSSIBILIDADE. Comprovadas a autoria e a materialidade do crime tipificado no art. 12 da Lei nº 10.826/2003, por prova produzida judicialmente e, ainda que as munições tenham sido apreendidas desacompanhadas de arma de fogo, deve ser mantida a condenação. Demonstrada a reprovabilidade do comportamento do agente, inviável a aplicação do princípio da insignificância. Deve prevalecer o regime inicial semiaberto ao reincidente condenado à pena de detenção não superior a 04 (quatro) anos (art. 33, §§ 2º, "c", "a contrario sensu", e 3º, CP)." (fl. 306)
+Em sede de recurso especial (fls. 323/334), a defesa apontou interpretação divergente do art. 12 da Lei n. 10.826/03, ao argumento de que o entendimento do Tribunal de origem diverge da jurisprudência do Superior Tribunal de Justiça - STJ, do Supremo Tribunal Federal - STF e do próprio TJMG, notadamente quanto ao reconhecimento da atipicidade material da conduta.
+Asseverou que há de ser aplicado o princípio da insignificância à espécie, porquanto foram apreendidas duas munições, desacompanhadas de arma de fogo, na sua residência, circunstância que, conforme entendimento deste Sodalício, enseja o reconhecimento da atipicidade material do fato. Sustentou, ademais, que a reincidência não obsta a aplicação do referido princípio à espécie.
+Pugnou, dessarte, pelo provimento da pretensão recursal para que o ora agravante seja absolvido em razão da atipicidade material da sua conduta.
+Contrarrazões do Ministério Público do Estado de Minas Gerais - MPMG (fls. 338/343).
+O recurso especial foi inadmitido no TJMG em razão da não comprovação do dissídio jurisprudencial (fls. 346/347).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 353/357).
+Contraminuta do MPMG (fls. 361/363).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do agravo em recurso especial (fls. 376/377).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+A princípio, verifica-se ser inviável o conhecimento do recurso especial no tocante à interposição com fundamento na alínea "c" do permissivo constitucional, uma vez que a defesa não procedeu ao necessário confronto analítico entre os julgados, nos termos dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ.
+Destarte, o recurso especial não deve ser conhecido nesse ponto, pois não foi feito o cotejo analítico entre os julgados, com a devida demonstração da similitude fática entre eles e da aplicação de distinta solução jurídica. Não se considera comprovado o dissídio jurisprudencial com mera transcrição de ementa ou trecho esparso do acórdão paradigma, que não permite a constatação da alegada semelhança entre os julgados.
+Nesse sentido, citam-se precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO PELO TRIBUNAL A QUO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. PELITO DE ABSOLVIÇÃO. SÚMULA 7/STJ. TRÁFICO PRIVILEGIADO INCOMPATÍVEL COM A CONDENAÇÃO POR ASSOCIAÇÃO AO TRÁFICO. SÚMULA 83/STJ. AUSÊNCIA DO NECESSÁRIO COTEJO ANALÍTICO ENTRE OS ACÓRDÃOS APONTADOS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+10. Por fim, não obstante a interposição do recurso especial fundado em dissídio jurisprudencial, o recorrente não realizou o cotejo analítico entre os acórdãos confrontados, limitando-se a transcrever trecho do acórdão recorrido e a ementa do acórdão tido como paradigma. Como é cediço na jurisprudência desta Corte Superior, não se pode conhecer de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os acórdãos confrontados, a fim de evidenciar a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementa. Requisitos previstos no art. 255, §1º, do Regimento Interno do Superior Tribunal de Justiça e do art. 1.029, § 1º, do CPC. Divergência jurisprudencial não demonstrada.
+11. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.458.142/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 383 DO CPP. MUTATIO LIBELLI. NÃO OCORRÊNCIA. CASO DE EMENDATIO LIBELLI. DENÚNCIA QUE DESCREVE MOLDURA FÁTICA COMPATÍVEL COM O DELITO DO ART. 313-A DO CP. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Conforme disposição dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ, quando o recurso interposto estiver fundado em dissídio pretoriano, deve a parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico, demonstrando de forma clara e objetiva suposta incompatibilidade de entendimentos e similitude fática entre as demandas, o que não ocorreu na hipótese.
+6. No caso dos autos, a parte limitou-se a indicar julgado desta Corte Superior relacionado a outra ação penal decorrente da mesma operação deflagrada para investigar fraudes na concessão de benefícios previdenciários sem, no entanto, realizar o devido cotejo analítico para demonstrar a similitude fática entre os julgados e a adoção de teses divergentes.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 1.441.689/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Ante o exposto, conheço do agravo para, com fundamento no art. 932, III, do Código de Processo Civil - CPC, não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
