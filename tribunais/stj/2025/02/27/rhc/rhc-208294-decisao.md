@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, sem pedido liminar, interposto por DIHEYSON ADALBERTO FURLAN CUNHA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (HC n. 0094901-02.2024.8.16.0000).
+Consta nos autos que o recorrente está preso preventivamente pela suposta prática dos crimes previstos no artigo 12 da Lei n. 10.826/2003 e no artigo 33 da Lei n. 11.343/2006.
+Neste recurso, a parte recorrente sustenta a ilegalidade da busca domiciliar realizada pelos policiais, sendo o caso de reconhecer a nulidade da prisão em flagrante e deferir o trancamento da ação penal.
+Alega que os requisitos da prisão preventiva não estão presentes e que medidas cautelares diversas seriam suficientes, conforme previsto no art. 319 do Código de Processo Penal.
+Aponta que a segregação cautelar do réu foi decretada com base na gravidade abstrata do delito, notadamente porque não restou demonstrada de forma concreta de que modo a ordem pública estaria em risco.
+Aduz que a quantidade de droga, ainda que elevada, não demonstra, por si só, a gravidade concreta do delito ou o periculum libertatis do recorrente (fl. 117).
+Salienta que possui condições pessoais favoráveis.
+Assevera que a prisão processual não pode ensejar o cumprimento antecipado da pena.
+Requer o provimento do recurso para determinar o trancamento da ação penal ou, subsidiariamente, a concessão de liberdade provisória com medidas cautelares diversas da prisão.
+O Ministério Público Federal, às fls. 141/144, opinou pelo parcial conhecimento do recurso em habeas corpus e, nessa extensão, pugnou pelo não provimento da insurgência.
+É o relatório.
+DECIDO.
+De início, constato que a tese de trancamento da ação penal pela nulidade das provas obtidas após a abordagem da polícia militar não foi apreciada no acórdão impugnado. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância.
+No ponto, colhe-se do acórdão guerreado (fl. 82):
+Analisando os pressupostos de admissibilidade, verifico que a ordem comporta parcial conhecimento. Isso porque o pedido de trancamento da ação penal está pautado na tese de ilegalidade na busca domiciliar realizada pelos agentes, sendo que a análise do tema exigiria uma incursão mais aprofundada no conjunto fático-probatório, inviável pela estreita via do writ.
+No mais, o Tribunal de origem manteve a segregação cautelar do acusado, consignando, in verbis (fls. 83/87, grifamos):
+Ao decretar a prisão preventiva do paciente, a autoridade aqui indicada como coatora fundamentou a sua decisão nos seguintes termos (mov. 25.1):
+3. No caso dos autos, em consonância com o entendimento do Ministério Público (mov. 16.1), entendo que restaram preenchidos os requisitos para decretação da custódia preventiva.
+De início, vislumbram-se indícios suficientes de autoria e prova da materialidade delitiva, configurando-se o fumus comissi delicti, os quais sobressaem do Auto de Prisão em Flagrante (mov. 1.4), do Boletim de Ocorrência (mov. 1.6), do Auto de Exibição e Apreensão (mov. 1.10), do Auto de Constatação Provisória de Droga (mov. 1.11), do Auto de Constatação Provisório de Eficiência e Prestabilidade de Arma de Fogo (mov. 1.12), das Imagens (mov. 1.14/1.16), bem como dos elementos orais colhidos até o momento.
+Presentes, de igual modo, os requisitos constantes do artigo 313, inciso I, do Código de Processo Penal, vez que a soma das penas máximas abstratamente cominadas aos delitos supostamente praticados superam o patamar de 04 (quatro) anos.
+Com relação ao artigo 312 do Código de Processo Penal, também há necessidade da custódia para garantia da ordem pública, havendo periculum in mora, isso porque os fatos em concreto demonstram a sua periculosidade.
+Vale rememorar: o estabelecimento em que se deu a prisão e abordagem do autuado já havia sido indicada à equipe policial como sendo local utilizado para a prática do crime de tráfico de drogas. Na ocasião, (563 gramas de cocaína), além de diversos apetrechos típicos da comercialização clandestina substâncias entorpecentes (balanças de precisão, papel com anotações contábeis, e dinheiro em espécie), auto de exibição e apreensão de mov. 1.10.
+Do auto de exibição e apreensão ainda há menção à apreensão, em poder do autuado, de uma arma de fogo e 47 munições.
+Vê-se, assim, que não se utiliza a mera gravidade abstrata para fundamentar a custódia, mas sim o desvalor concreto do delito praticado, que transborda do normal à espécie.
+Nada obstante a primariedade do autuado (mov. 11.1), considera-se que a quantidade de drogas apreendidas em seu poder ampara suficientemente a custódia preventiva, tendo em vista especialmente a natureza da droga (mais de 500g de cocaína). Some-se a isso o fato de ter havido prévia denúncia indicando que o flagranteado realizava a venda de entorpecentes em seu estabelecimento comercial (mov. 1.23), de modo que a gravidade do delito extrapola aquela normal ao tipo penal, eis que a venda vinha se realizando no "bar do Nilton", de propriedade do próprio custodiado.
+Acrescento que, para além da movimentação de droga em estabelecimento comercial e da grande quantidade de entorpecente apreendido - de natureza altamente lesiva -, foram encontrados quarenta e sete projetis sem calibre( (auto de mov. 1.10 ), mais uma arma de fogo exposta na parede do estabelecimento, o que também transborda da gravidade ínsita aos delitos de posse de arma e de munição, ainda mais ao se considerar que o local da apreensão é de propriedade do réu e supostamente funcionava como ponto de venda dos entorpecentes. Nesse sentido, é o entendimento pacífico da jurisprudência pátria de que as condições pessoais eventualmente favoráveis ao acusado não asseguram, por si sós, o direito de responder ao processo em liberdade:
+(..)
+Diante de tais circunstâncias, observa-se que a imposição de medidas cautelares diversas da prisão (art. 319 do CPP) revelar-se-ia inócua no caso vertente, impondo-se a manutenção da ordem prisional, no ponto.
+Ante todo o exposto, como medida necessária para a garantia da ordem pública, DEFIRO o pedido formulado pelo i. representante do Ministério Público, e ,DECRETO a prisão preventiva de NILTON DIAS SIQUEIRA o que faço com fulcro no artigo 312, caput, e 313, inciso I, ambos do Código de Processo Penal.
+Constata-se que a decisão está devidamente fundamentada em dados precisos e constantes dos autos.
+O fumus commissi delicti (prova da existência do crime e indício suficiente de autoria) está demonstrado por todos os documentos que instruem o inquérito.
+Por sua vez, o periculum libertatis (perigo da permanência do sujeito em liberdade) evidencia-se, ao menos neste momento, para a garantia da ordem pública.
+Aqui, vale lembrar o escólio de Eugênio Pacelli de Oliveira, ao indicar que a garantia da ordem pública dirige-se "à proteção da própria comunidade, coletivamente considerada, no pressuposto de que ela seria duramente atingida pelo não aprisionamento de ." Ainda, a "autores de crimes que causassem intranquilidade social noção de ordem pública como risco ponderável da repetição da ação delituosa objeto do processo, acompanhado do ."exame acerca da gravidade do fato e de sua repercussão  1
+A garantia da ordem pública se justifica em razão da gravidade concreta do delito pois, conforme o Boletim de Ocorrência nº 2024/1045735 (mov. 1.6) o paciente foi preso em, flagrante, enquanto mantinha em depósito uma grande quantidade de drogas (563 gramas de cocaína), substância de alto valor comercial e nociva a saúde pública, além de diversos apetrechos típicos da comercialização clandestina de substâncias entorpecentes (balanças de precisão, papel com anotações contábeis, e dinheiro conforme auto de exibição e apreensão de mov. 1.10.) e uma arma de fogo e 47 munições.
+Neste sentido, o STJ admite que a gravidade concreta do delito de tráfico, aferida com base na quantidade de substância apreendida, justifique a prisão preventiva para garantir a ordem pública.
+(..)
+Dessa forma, entendo que os fundamentos lançados no decreto preventivo se afiguram aptos a alicerçar a segregação cautelar.
+E, concluindo-se pela imprescindibilidade da prisão preventiva, resta clara a insuficiência das medidas cautelares alternativas para o acautelamento da ordem pública.
+(..)
+Por fim, destaco que a segregação cautelar não se trata de antecipação da pena como apontado pelo impetrante, tendo em vista que esta tem a finalidade retributiva, pela prática do fato criminoso, enquanto a prisão preventiva, de natureza cautelar, presta-se a garantir a efetividade do processo penal, o que, no presente caso, se faz pelo resguardo da ordem pública.
+Por estas razões, não se constata a existência de qualquer constrangimento ilegal, revelando-se necessária, ao menos por ora, a manutenção da custódia cautelar de Nilton Dias Siqueira.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do recorrente, evidenciada a partir da quantidade de droga apreendida.
+Tal circunstância demonstra a potencial periculosidade do agente e é apta a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..)
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA. Agravo regimental improvido.
+(AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de me didas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, conheço em parte do recurso em habeas corpus e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
