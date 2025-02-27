@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CARLOS MARCELO MACHADO, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento do Agravo de Execução Penal n. 8000315-94.2024.8.24.0004/SC.
+Infere-se dos autos que o Juízo da Execução realizou soma de penas e estabeleceu nova data-base de cálculo de benefícios do sentenciado.
+Irresignada, a defesa interpôs agravo que foi desprovido pela Quinta Câmara do Tribunal de Justiça do Estado de Santa Catarina, conforme acórdão assim ementado:
+"RECURSO DE AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE REALIZOU A SOMA DE PENAS E MANTEVE A DATA DA ÚLTIMA PROGRESSÃO COMO DATA-BASE. INSURGÊNCIA DO REEDUCANDO.
+POSTULADA A ALTERAÇÃO DA DATA-BASE PARA DATA DA ÚLTIMA PRISÃO. AVENTADA AFRONTA AO TEMA REPETITIVO N. 1006 DO STJ. INACOLHIMENTO. REEDUCANDO QUE INICIOU O RESGATE DA PENA EM 24-10-2019 E PREENCHEU OS REQUISITOS PARA PROGRESSÃO AO REGIME SEMIABERTO EM 3-3-2024, ANTES DA SUPERVENIÊNCIA DA NOVA CONDENAÇÃO. SOMA DE PENAS QUE, NOS TERMOS DO TEMA REPETITIVO N. 1006 DO STJ, NÃO ENSEJA A ALTERAÇÃO DA DATA-BASE. ADEMAIS, TERMO INICIAL PARA PROGRESSÃO DE REGIME QUE DEVE SER A DATA EM QUE PREENCHIDOS OS REQUISITOS OBJETIVO E SUBJETIVO PARA A PROGRESSÃO ANTERIOR. TEMA REPETITIVO N. 1165 DO STJ. DECISUM MANTIDO.
+RECURSO CONHECIDO E DESPROVIDO." (fl. 18).
+No habeas corpus, em síntese, a defesa argumenta a configuração de constrangimento ilegal, pois não foi observado entendimento jurisprudencial do Superior Tribunal de Justiça de que a unificação de penas não ensejaria a alteração da data-base para a concessão de benefícios no curso da execução penal.
+Relata incidentes na execução de pena do paciente e afirma erro de cálculo na data-base.
+Pugna pelo deferimento de liminar para suspender os efeitos de decisão que redefiniu a data-base. No mérito, requer a concessão da ordem para assegurar ao paciente a contagem da data-base desde o início do cumprimento de pena, em 24/10/2019.
+É o relatório.
+Decido.
+O writ, conquanto impetrado por profissional legalmente habilitado, está deficientemente instruído. Não foi juntada aos autos a cópia integral da decisão do juízo da execução que teria originado o constrangimento alegado no writ impetrado perante a Corte de origem e, em sequência, neste Tribunal Superior.
+Cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido, confiram-se os seguintes precedentes, entre outros (grifos nossos):
+RECURSO EM HABEAS CORPUS. FEMINICÍDIO TENTADO. CUSTÓDIA PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INSTRUÇÃO DEFICIENTE QUE OBSTA O EXAME DA TESE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. NÃO CONFIGURAÇÃO. RECOMENDAÇÃO N. 62/2020 DO CNJ. SUBSTITUIÇÃO DA CAUTELA EXTREMA POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. A defesa não instruiu o presente recurso com cópia das decisões que trataram da prisão preventiva do réu (conversão do flagrante em custódia provisória, indeferimento de concessão da liberdade provisória e pronúncia), circunstância que inviabiliza o exame da suscitada ausência de motivação idônea para impor a cautela extrema.
+2. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+3. Não se constata desídia estatal na condução do feito, uma vez que a realização da sessão de julgamento pelo Tribunal do Júri está prevista para data próxima, a denotar o prognóstico de conclusão do procedimento bifásico dos crimes dolosos contra a vida cerca de 1 ano e 9 meses após a prisão em flagrante do réu.
+4. Ante a crise mundial da Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades, inclusive do Poder Judiciário. Nesse sentido, salienta a Recomendação n. 62, de 17 de março de 2020, do Conselho Nacional de Justiça a importância da "adoção de medidas preventivas à propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos estabelecimentos do sistema prisional e do sistema socioeducativo".
+5. Todavia, o aresto combatido foi claro ao afirmar, além do fato de o delito haver sido praticado mediante violência contra a vítima, a ausência de comprovação de que o acusado integra o grupo de risco da Covid-19, bem como da impossibilidade de receber tratamento médico adequado no estabelecimento prisional em caso de eventual contágio.
+Para alterar essa conclusão seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+6. Recurso conhecido em parte e não provido.
+(RHC 132.620/AM, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 18/12/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DO WRIT. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO DE DECRETOU A PRISÃO TEMPORÁRIA E DA DECISÃO QUE A CONVERTEU EM PREVENTIVA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - A decisão monocrática que nega provimento a recurso ordinário não viola o princípio da colegialidade, eis que conforme previsão no Regimento Interno desta Corte, é permitido ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, negar provimento nas hipóteses em que houve entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Precedentes.
+II - O agravante não juntou aos autos cópia da r. decisão que decretou a sua prisão temporária, e a decisão que a converteu em preventiva no momento da interposição do recurso, tampouco no presente agravo regimental, alegando, ainda, a sua desnecessidade, impedindo, em virtude da instrução deficiente, a exata compreensão da controvérsia, sendo pacífica a jurisprudência desta Corte de Justiça no sentido de que é ônus do impetrante a correta instrução dos autos, sob pena de não conhecimento do mandamus ou de seu recurso ordinário. Precedentes.
+III - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Agravo Regimental desprovido.
+(AgRg no RHC 130.798/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/09/2020.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
