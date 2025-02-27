@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu recurso especial interposto por FAZENDA NACIONAL, sob os fundamentos de incidência  da Súmula  83 deste STJ e de ausência de violação do art. 1.022 do CPC.
+Argumenta  a  parte agravante,  em  síntese,  que o acórdão é omisso, porquanto deixou de apreciar algumas questões de direito (fl. 342).
+Pugna pela inaplicabilidade da Súmula 83 do STJ, porquanto não há consenso nesta Corte sobre a questão debatida nos autos. Ademais, o caso em análise se adequaria ao Tema 358/STJ (fl. 344).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284/STF, aplicável, por analogia, no âmbito desta Corte.
+Ademais, as alegações deduzidas pela agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência  da Súmula  83/STJ.
+O Tema 358/STJ, utilizado pela agravante para impugnar a referida Súmula, assenta que: "A Lei 8.212/91, com a redação dada pela Lei 9.528/97, determina que o descumprimento da obrigação acessória de informar, mensalmente, ao INSS, dados relacionados aos fatos geradores da contribuição previdenciária, é condição impeditiva para expedição da prova de inexistência de débito (art. 32, IV e § 10)."
+Entretanto, a causa de pedir examinada pelo Tribunal de origem possui especificidades que a distinguem da relação de direito processual examinada por esta Corte quando do julgamento daquele Tema. Nesse sentido, trago excertos do acórdão recorrido:
+No caso dos autos, observando os documentos apontados no Ev. 01, OUT3, os quais comprovam que o produtor rural pessoa física comercializou sua produção com cooperativas e outras pessoas jurídicas, não se verifica a hipótese prevista no artigo 30, inciso X, da Lei nº 8.212/91. Registro que a transferência ao produtor rural da referida obrigação acessória só ocorreu com a edição do Ato Declaratório Executivo CODAC nº 06, de 4 de maio de 2018, e, assim, em relação aos fatores geradores ocorridos antes da vigência do referido Ato, não pode ser obstada a expedição da certidão de regularidade fiscal.
+Em casos análogos, esta Corte entende que "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+ EMENTA
