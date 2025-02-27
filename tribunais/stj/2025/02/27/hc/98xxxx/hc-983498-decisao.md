@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DOUGLAS DURÕES DE LIMA, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (apelação n. 1.0000.24.396624-9/001).
+Consta dos autos que o paciente foi condenado como incurso no crime de tráfico de drogas, às penas de 6 (seis) anos e 3 (três) meses de reclusão, em regime inicial semiaberto, além de 625 (seiscentos e vinte e cinco) dias-multa.
+Daí o presente writ, no qual o impetrante invoca a ocorrência de constrangimento ilegal, porquanto a condenação do paciente teria sido embasada em provas ilícitas, obtidas mediante busca pessoal realizada sem fundadas suspeitas, em violação ao art. 244 do CPP.
+Explica que "o ora paciente foi abordado, com a inexistência de fundadas suspeitas para a realização de buscas pessoais, levadas a cabo apenas por denúncias anônimas e pelo simples fato do ora paciente ter se afastado do local com a aproximação da guarnição policial, sendo perseguido pelos agentes públicos. Nesse sentido, a consequente fuga do ora paciente e a apreensão de drogas posteriores não convalida o ato anteriormente praticado pelos policiais" (fls. 4-5).
+Requer, inclusive liminarmente, suspender a execução das penas. No mérito, o reconhecimento da nulidade, com a consequente absolvição.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da suposta busca pessoal ilegal.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ainda, também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que (fl. 11):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - PRELIMINAR DE NULIDADE - PROCEDIMENTO BASEADO APENAS EM DENÚNCIAS ANÔNIMAS - REJEIÇÃO - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS - ISENÇÃO DE CUSTAS PROCESSUAIS - DESCABIMENTO - RECURSO MINISTERIAL - RECONHECIMENTO DOS MAUS ANTECEDENTES DO ACUSADO E CONSEQUENTE DECOTE DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO §4º DO ART. 33 DA LEI DE DROGAS - NECESSIDADE - RECURSO DEFENSIVO DESPROVIDO E RECURSO MINISTERIAL PROVIDO.
+1. Conforme esclarecido pelos policiais militares que participaram da ocorrência, o que foi por eles confirmado sob o crivo do contraditório, eles receberam informações da prática do tráfico de drogas próximo à uma universidade, de modo que se dirigiram ao local e, após observarem que o modus operandi dos suspeitos era compatível com as denúncias e, portanto, diante da existência de fundadas razões para a busca pessoal, realizaram a abordagem dos indivíduos.
+2. Restando devidamente comprovadas nos autos a materialidade e a autoria do delito de tráfico de drogas, diante das firmes e coerentes declarações prestadas pelos policiais militares responsáveis pelo atendimento da ocorrência, imperiosa a manutenção da condenação firmada em primeira instância, por seus próprios fundamentos.  ..
+Esses fatores, considerados em conjunto, levaram o Tribunal à conclusão de que o paciente deveria sofrer a reprimenda nos moldes exatos em que fora impost a.
+Com efeito, para que fosse possível desconstituir essas premissas, devidamente fundamentadas em fatos concretamente extraídos dos autos, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+A esse respeito:
+ ..  De tal modo, não é possível na via eleita desconstituir referida conclusão, porquanto demandaria indevido revolvimento de fatos e provas  ..  (AgRg no HC n. 904.707/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+ ..  A reforma das conclusões a que chegaram as instâncias ordinárias constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito  ..  (AgRg no HC n. 903.566/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
