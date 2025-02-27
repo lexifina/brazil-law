@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 875/879) opostos à decisão desta relatoria que indeferiu pedido e suspensão do processo (e-STJ fls. 871/872).
+A embargante alega que a decisão necessita de esclarecimentos, arrazoando que (e-STJ fls. 618/619):
+Vale ressaltar que em casos idênticos, nos quais já haviam sido proferidas decisões de não conhecimento do Agravo em Recurso Especial, estando estes em fase de Agravo Interno, esta Eg. Corte já determinou o retorno dos autos ao Tribunal de origem em razão da afetação da matéria jurídica à sistemática dos recursos especiais repetitivos, como por exemplo no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2369160 - RJ (2023/0169155-0), no qual o Min. Herman Benjamin tornou sem efeito a decisão de não conhecimento do Agravo em Recurso Especial em virtude também da Súmula 182/STJ, julgando prejudicado o Agravo Interno e determinando a devolução dos autos à Corte regional.
+ ..
+Para que não reste dúvida quanto à identidade da matéria de direito tratada no Agravo e à afetada para julgamento sob a sistemática dos recursos repetitivos, tem-se que a definição da alteração introduzida pela Lei nº 13.465/2017 ao art. 39, II, da Lei nº 9.514/97, se esta tem aplicação restrita aos contratos celebrados sob a sua vigência, não incidindo sobre os contratos firmados antes da sua entrada em vigor, será aplicável ao direito vindicado pela Agravante, pois caso não aplicável a Lei nº 13.465/2017 ao contrato de alienação fiduciária da Agravante, será possível purgar a mora a qualquer momento, até a assinatura do auto de arrematação, nos termos do art. 34 do Decreto-Lei 70/66, independentemente da consolidação da propriedade em nome do credor.
+Foi apresentada impugnação à fls. 907/908 (e-STJ).
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando existir, na decisão, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015, casos não observados.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo é possível apenas em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Destaca-se que a decisão embargada considerou que não "há discussão sobre o mérito da demanda, nem sobre o Tema Repetitivo n. 1.288/STJ, que tratará sobre: "Definir se a alteração introduzida pela Lei nº 13.465/2017 ao art. 39, II, da Lei nº 9.514/97 tem aplicação restrita aos contratos celebrados sob a sua vigência, não incidindo sobre os contratos firmados antes da sua entrada em vigor, ainda que constituída a mora ou consolidada a propriedade, em momento posterior ao seu início de vigência"" (e-STJ fl. 871). Circunscreve-se a decisão objeto do agravo interno da parte ora embargante a respeito da aplicação da Súmula n. 182/STJ (e-STJ fl. 871).
+Assim, não se constata nenhum dos casos de cabimento dos embargos declaratórios. A embargante pretende tão somente o rejulgamento do recurso, o que não se admite na presente via recursal.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
