@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por REAL EMPREENDIMENTOS S.A. contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ (fls. 330-332).
+No agravo em recurso especial, a parte agravante refuta os fundamentos de inadmissibilidade do recurso especial.
+Contraminuta às fls. 353-354.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação nos autos de ação monitória decorrente de locação de imóvel.
+O acórdão recorrido foi assim ementado (fl. 231):
+APELAÇÃO CÍVEL. LOCAÇÃO. MONITÓRIA. VALOR PRETENDIDO EM AÇÃO DE EXECUÇÃO. CLÁUSULAS PENAIS MORATÓRIA E COMPENSATÓRIA. CUMULAÇÃO E INCIDÊNCIA SOBRE O MESMO FATO GERADOR. NADA OBSTANTE INEXISTA ILEGALIDADE NA ESTIPULAÇÃO DE CLÁUSULAS PENAIS MORATÓRIA E COMPENSATÓRIA, AS MULTAS NÃO PODEM SER APLICADAS DE FORMA CUMULADA EM DECORRÊNCIA DO MESMO FATO GERADOR, SOB PENA DE CONFIGURAR BIS IN IDEM. NESTE CONTEXTO, EM RAZÃO DE AS PRETENSÕES DE RESCISÃO CONTRATUAL - TRAZIDA EM AÇÃO DE EXECUÇÃO - E DA MORATÓRIA, AMBAS FUNDADAS NO INADIMPLEMENTO PRATICADO PELOS RÉUS, PODE SER EXIGIDA A MULTA MORATÓRIA ESTIPULADA NO CONTRATO. SENTENÇA MANTIDA.
+Os embargos de declaração opostos foram rejeitados (fls. 261-265).
+No recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 4º e 54 da Lei n. 8.245/1991.
+Alega que as multas moratória e compensatória possuem fatos geradores distintos; a multa compensatória é devida pela devolução antecipada do imóvel, enquanto a multa moratória refere-se ao inadimplemento de aluguéis e encargos locatícios, sendo, portanto, possível a cobrança de ambas sem configurar bis in idem.
+Colaciona julgado do Superior Tribunal de Justiça visando demonstrar divergência jurisprudencial quanto à possibilidade de cumulação de multas moratória e compensatória quando há fatos geradores distintos.
+Requer o provimento para que se determine o regular processamento e julgamento do recurso especial, reconhecendo a negativa de vigência aos dispositivos da legislação federal e a contrariedade à jurisprudência pátria.
+Nas contrarrazões, a parte recorrida aduz que o recurso interposto não merece prosperar, devendo prevalecer o acórdão proferido em segunda instância; requer o não conhecimento do recurso (fls. 323-325).
+É o relatório. Decido.
+A recorrente aponta violação dos arts. 4º e 54 da Lei n. 8.245/1991, que tratam, respectivamente, da impossibilidade do locador rever o imóvel durante o prazo de vigência do contrato e da prevalência das condições livremente pactuadas nos contratos de locação entre lojistas e empreendedores de shopping center, argumentando que as multas cobradas possuem fatos geradores distintos.
+Ocorre que referidos artigos de lei não têm comando normativo para amparar a tese recursal desenvolvida, o que atrai a incidência, por analogia, da Súmula n. 284 do STF, assim expressa: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL E NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+2. Na forma da jurisprudência pacificada por esta Corte Superior, a cobrança de juros capitalizados em periodicidade anual ou inferior à anual nos contratos de mútuo não é permitida quando não houver expressa pactuação.
+3. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Confiram-se ainda estes julgados: AgInt no REsp n. 1.409.884/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/8/2022, DJe de 12/8/2022; AgInt no AREsp n. 2.013.867/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/9/2022, DJe de 9/9/2022; EDcl no AgInt no REsp n. 1.581.336/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/3/2022, DJe de 31/3/2022.
+De qualquer forma, mesmo que superado esse óbice, melhor sorte não assistiria à recorrente.
+Isso porque a Corte de origem, soberana na análise dos fatos e provas dos autos e na interpretação de cláusulas contratuais, concluiu que as multas, por possuírem o mesmo fato gerador, não poderiam ser aplicadas cumulativamente.
+Confira-se, a propósito, excerto do acórdão (fl. 234, destaquei):
+Nada obstante inexista ilegalidade na estipulação de cláusulas penais moratória e compensatória, as multas não podem ser aplicadas de forma cumulada em decorrência do mesmo fato gerador, sob pena de configurar bis in idem.
+Desse modo, para rever a conclusão adotada na origem e acatar a tese recursal de que as multas possuem fatos geradores distintos, seria imprescindível o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, medidas vedadas em recurso especial, em face dos óbices das Súmulas n. 5 e 7 do STJ.
+Além do mais, a tese recursal de que multa compensatória é devida pela devolução antecipada do imóvel e a moratória refere-se ao inadimplemento de aluguéis e encargos locatícios, não foi objeto de debate no acórdão recorrido, a despeito da oposição dos embargos de declaração, de modo que não houve o indispensável prequestionamento.
+Caso, portanto, de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+De acordo com a reiterada jurisprudência do Superior Tribunal de Justiça, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N.º 282 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A matéria referente aos arts. 884 do CC/2002 e 503 do NCPC não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 282 do STF, aplicável por analogia.
+ ..
+4. Agravo interno não provido. (AgInt no AgInt no AREsp n. 2.052.990/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182 DO STJ. NÃO INCIDÊNCIA. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. AGRAVO DE INSTRUMENTO. PERDA DE OBJETO. SUPERVENIENTE PROLAÇÃO DE SENTENÇA NO FEITO ORIGINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULAS 283 E 284/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+4. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência, por analogia, das Súmulas 283 e 284 do STF.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial. (AgInt no AREsp n. 2.028.056/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 22/9/2022.)
+Ademais, somente a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto, previsto no art. 1.025 do CPC, desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC, situação que autoriza o STJ a reconhecer o vício e, superando a supressão de instância, analisar o pedido.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PEDIDO DE DEVOLUÇÃO DE CAPITAL APORTADO EM EMPRESA AO ARGUMENTO DE FRAUDE. OFENSA ATRAVÉS DE MENSAGENS PARTICULAR DE WHATSAPP PARA OUTREM. ÔNUS DA PROVA. ART. 373, I DO CPC/2015. DANOS NÃO PROVADOS. FALTA DE PREQUESTIONAMENTO. ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211 do STJ).
+2. ""A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4.4.2017, DJe 10.4.2017).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória. Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.989.881/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ademais, a incidência de óbice sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do arbitramento pelas instâncias ordinárias no patamar máximo previstos no § 2º do referido artigo.
+Publique-se. Intimem-se.
+EMENTA
