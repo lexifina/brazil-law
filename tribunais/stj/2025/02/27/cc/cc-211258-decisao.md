@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juizado Especial Cível Adjunto à Vara Federal da Subseção Judiciária de Ituiutaba/MG, como suscitante, e o Tribunal Regional do Trabalho da 3ª Região, o suscitado, nos autos de ação reclamatória trabalhista movida por empregado público contra a Empresa Brasileira de Correios e Telégrafos.
+Segundo a vestibular da ação subjacente, a parte autora ingressou nos quadros dos Correios por força de decisão judicial proferida em mandado de segurança por ele impetrado no ano de 2009, o que resultou na sua contratação em 19/7/2016. Sucede que o tempo de tramitação da ação mandamental, consoante argumenta o impetrante, deixou de ter computado, para fins de cálculo dos valores de anuênios a ele devidos, direito que busca ver judicialmente reconhecido.
+A demanda foi originariamente proposta perante a Justiça do Trabalho (1ª Vara do Trabalho de Ituiutaba/MG), cujo Magistrado averbou a incompetência daquela especializada, por sentença posteriormente ratificada pelo Tribunal ora suscitado (fls. 218/220), ao fundamento segundo o qual, na ação de origem, se discute verba de natureza administrativa. O Magistrado da Justiça Federal, por sua vez, ressaltou que as "demandas que pleiteiam o pagamento de verbas trabalhistas, cuja origem seja decorrente de vínculo celetista, devem ser ajuizadas e tramitar perante a Justiça do Trabalho por tratar-se de competência absoluta da Justiça do Trabalho" (fl. 290), suscitando o presente incidente processual.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66, II, e 953, I, do CPC.
+Quanto ao mérito, o Supremo Tribunal Federal, no julgamento do RE n. 655.283, sob o rito da Repercussão Geral, firmou a orientação segundo a qual a natureza do ato de demissão de empregado público é constitucional-administrativa, e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão (Tema n. 606 da Repercussão Geral). Essa compreensão é aplicável às ações nas quais se discutem os atos de admissão, como ilustra o seguinte julgado:
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA ENTRE JUSTIÇA DO TRABALHO E JUSTIÇA COMUM. AÇÃO BUSCANDO A NULIDADE DA CONTRATAÇÃO PELO REGIME ESTATUTÁRIO. RELAÇÃO ENTRE SERVIDOR E ENTE DE DIREITO PÚBLICO INTERNO. NATUREZA JURÍDICO-ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM.
+ ..
+IV - A jurisprudência desta Corte, acompanhando o STF, no sentido de que, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário ou de caráter jurídico-administrativo, a competência para análise das controvérsias trabalhistas será da Justiça Comum (estadual ou Federal).
+V - A Justiça Comum é também competente para deliberar acerca da validade da norma local que cria ou modifica regime jurídico de natureza estatutária para os servidores públicos.
+VI - Esta Corte Superior firmou entendimento no sentido de que a Justiça do Trabalho é incompetente para apreciar os feitos em que se questionam os critérios utilizados na seleção e admissão de pessoal nos quadros de entidade parceira do Poder Público, mesmo que a contratação se dê nos moldes da Consolidação das Leis do Trabalho, porquanto tal matéria diz respeito à fase pré-admissional, na qual não há falar em relação de trabalho propriamente dita, nos termos do art. 114 da Constituição federal, com redação dada pela EC n. 45/2004.
+VII - Agravo interno desprovido.
+(AgInt no CC n. 194.853/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 31/10/2023, DJe de 7/11/2023.)
+Por outro lado, a jurisprudência deste Tribunal Superior se encontra firmada acerca da competência da Justiça laboral para dirimir litígios entre empregados públicos vinculados a empresas públicas e a sociedades de economia mista. Confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO PROMOVIDA CONTRA SOCIEDADE DE ECONOMIA MISTA MUNICIPAL. REGIME JURÍDICO PRIVADO. EMPREGO PÚBLICO. RELAÇÃO TRABALHISTA REGIDA PELA CLT.
+1. Compete à Justiça do Trabalho processar e julgar reclamação trabalhista promovida por empregado público contra sociedade de economia mista municipal.
+2. Exercício de emprego público submetido ao regime celetista, dada a personalidade de direito privado da entidade ré, definida pelo art. 173, § 1º, II, da CF.
+3. Conflito conhecido para declarar competente a Justiça do Trabalho.
+(CC n. 125.666/RS, relator Ministro Raul Araújo, Segunda Seção, julgado em 9/9/2015, DJe de 6/10/2015.)
+No caso ora sob crivo, o autor da ação subjacente foi admitido pelos Correios, por força de decisão judicial, encontrando-se superada essa controvérsia, cujo julgamento, inclusive, coube à Justiça comum. Assim, o que agora se discute na ação subjacente são direitos tipicamente trabalhistas de empregado público, fundados em acordo coletivo de trabalho, o que atrai a competência da Justiça do Trabalho.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda o Tribunal Regional do Trabalho da 3ª Região, ora suscitado.
+Retifique-se a autuação.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
