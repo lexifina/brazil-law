@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO.
+O agravado LUCAS EMANOEL DA SILVA SOUSA foi denunciado como incurso nas sanções dos artigos 329, 129, caput, e 129, § 1º, inciso I, c/c art. 70, todos do Código Penal e absolvido em primeiro grau com base no art. 386, incisos V e VII do Código de Processo Penal (fls. 166-169).
+O Tribunal negou provimento ao apelo ministerial, mantendo a absolvição (fls. 228-241).
+Os embargos de declaração foram desprovidos (fls. 271-280).
+O MPPI interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, sustentando a violação aos artigos 329, 129, caput, 129, § 1º, inciso I, do Código Penal, c/c art. 70 do mesmo diploma legal e 619, do Código de Processo Penal (fls. 287-302).
+O recurso foi inadmitido na origem, ante o óbice da Súmula n. 7, STJ (fls. 312-317).
+Em razões de agravo, o recorrente sustentou a desnecessidade de reexame fático (fls. 320-334).
+O Ministério Público Federal, por sua vez, opinou pelo não conhecimento do recurso especial (fls. 362-364).
+É o relatório. DECIDO.
+Da análise dos autos, verifico que o agravado foi denunciado como incurso nos arts. 329, 129, caput, e 129, § 1º, inciso I, c/c art. 70, todos do Código Penal, pela suposta prática de resistência e lesão corporal de natureza leve e grave, em concurso. Em primeiro grau, o réu foi absolvido, com base no art. 386, incisos V e VII do Código de Processo Penal.
+Interposto recurso de apelação pela acusação, o Tribunal de origem negou-lhe provimento, mantendo a absolvição do agravado, em acórdão assim ementado (fl. 229-230):
+"(..) 1. Em que pese a importância da palavra dos agentes públicos, verifica-se que a versão do réu encontra guarida no depoimento judicial de testemunha compromissada, a qual presenciou os fatos e descreveu um suposta ação truculenta dos militares que realizam a abordagem no réu. Assim, em que pesem os indícios de que o ora apelante praticou os crimes de resistência e lesões corporais contra os agentes policiais, não ficou esclarecido se estes agiram com excesso injustificado na abordagem, já que não se pode exigir de um indivíduo, em situações anormais de revista pessoal, uma reação com ânimo calmo e refletido. Sendo certo que a tipificação contida no art. 329 do Código Penal1 descaracteriza-se perante a ocorrência de ação ilegal, e não havendo certeza da legalidade aparente na ordem policial para que o apelante fosse revistado, não há que se falar em crime de resistência e, consequentemente, do dolo de lesionar os agentes policiais. Além disso, as lesões corporais sofridas, comprovadas por meio de laudo pericial, se mostraram compatíveis com o esforço empreendido para conter o acusado. Portanto, já que o arcabouço probatório é insuficiente para atestar a intenção do réu em opor resistência e lesionar as vítimas, bem como não se pode afastar a possibilidade de o acusado ter agido em legítima defesa em contexto de ação ilegal, a manutenção da absolvição é medida de rigor, com base no princípio do in dubio pro reo.
+2. Recurso conhecido e improvido."
+Observo, portanto, que Tribunal reconheceu a inexistência de elementos de prova suficientes para fundamentar o decreto condenatório do recorrente.
+Para alterar a conclusão do acórdão impugnado acerca da existência de provas suficientes da autoria e materialidade e elemento subjetivo dos delitos, seria imprescindível reexaminar as circunstâncias fáticas do caso, providência inviável em sede de recurso especial, c onforme dispõe a Súmula n. 7, STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso I, alínea "b", do RISTJ.
+Publique-se. Intime-se.
+EMENTA
