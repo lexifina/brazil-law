@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCOS ANTONIO RUSSO contra decisão, da lavra deste signatário, acostada às fls. 224/227, que conheceu do presente incidente e, por conseguinte, declarou a competência do r. juízo da 3ª Vara de Falências e Recuperações Judiciais de São Paulo responsável pela apreciação do Processo de Falência de Massa Falida de Transbrasil S/A (processo n.º 0079104-04.2001.8.26.0100) para a prática de quaisquer atos constritivos/executórios sobre o patrimônio da empresa falida e de seus ex-controladores concernentes à reclamação trabalhista nº 0005500-26.2003.5.02.00782, em curso no juízo da 78ª Vara do Trabalho de São Paulo/SP, bem como para exercer o controle sobre bens e valores pertencentes ao suscitante que eventualmente ainda permaneçam bloqueados/arrecadados nos referidos autos.
+Em suas razões, o embargante aponta que "(..) o conflito de competência foi ofertado pelo autor ANTONIO CELSO CIPRIANI e a decisão estendeu os efeitos a todos os réus pessoas físicas na ação trabalhista em trâmite no Egrégio Tribunal Regional do Trabalho da 2ª Região (São Paulo), incorrendo, desta maneira, em possível julgamento extra petita."
+Requer, assim, o acolhimento da insurgência. (fls. 236/239)
+Impugnação juntada às fls. 245/246.
+É o relatório.
+Decisão.
+Os presentes embargos de declaração não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido: EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Consoante asseverado no r. decisum ora embargado: i) é pacífica orientação da Segunda Seção no sentido de ser o Juízo onde se processa a recuperação judicial e/ou falência, o competente para examinar a manutenção e/ou eventual prosseguimento de atos de constrição/expropriação que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial; ii) a hipótese dos autos revela que o r. juízo laboral autorizou a realização de atos constritivos em face de patrimônio do ora suscitante , compete ao r. juízo da 3ª Vara de Falências e Recuperações Judiciais de São Paulo responsável pela apreciação do Processo de Falência de Massa Falida de Transbrasil S/A (processo n.º 0079104-04.2001.8.26.0100) a prática de quaisquer atos constritivos/executórios sobre o patrimônio da empresa falida e de seus ex-controladores concernentes à reclamação trabalhista nº 0005500-26.2003.5.02.00782, em curso no juízo da 78ª Vara do Trabalho de São Paulo/SP, bem como para exercer o controle sobre bens e valores pertencentes ao suscitante que eventualmente ainda permaneçam bloqueados/arrecadados nos referidos autos.
+Não há, portanto, omissão a justificar o acolhimento do presente apelo recursal em epígrafe.
+2. Do exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
