@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por ADRIANO NASCIMENTO DOS SANTOS VALENTE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que denegou a ordem pleiteada no HC n. 8045182-18.2024.8.05.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante, em 25/07/2023, em razão da suposta prática do crime do art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal.
+A Magistrada homologou a custódia flagrancial e concedeu a liberdade provisória a ADRIANO.
+O Ministério Público estadual interpôs recurso em sentido estrito, tendo a Autoridade de primeiro grau, em 26/10/2023, realizado o juízo de retratação e decretado a prisão preventiva do recorrente.
+O mandado prisional foi cumprido em 30/12/2023.
+Em 04/06/2024, o recorrente foi condenado pelo cometimento do delito em tela à pena de 06 (seis) anos e 08 (oito) meses de reclusão, em regime prisional fechado, e ao pagamento de 17 (dezessete) dias-multa. Foi negada a possibilidade de recorrer em liberdade, sendo mantida a prisão cautelar.
+Contra a negativa ao direito de recorrer em liberdade, a Defesa impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 692-701.
+Sustenta o recorrente que: a) a decisão que decretou sua prisão preventiva carece de fundamentação idônea, uma vez que não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal; b) há indícios de que o recorrente agiu sob coação de terceiros, tendo sido ameaçado e agredido para praticar o crime; e c) devem ser aplicadas medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+Ao final, pugna pelo provimento do recurso, a fim de que seja revogada a prisão preventiva, com a expedição de alvará de soltura em seu favor. Alternativamente, requer a substituição da prisão preventiva por medidas cautelares diversas, com preferência para a prisão domiciliar, com ou sem monitoramento eletrônico.
+O pedido liminar foi indeferido às fls. 746-748.
+Informações processuais às fls. 753-758.
+O Ministério Público Federal opinou pelo desprovimento do recurso às fls. 765-768.
+É o relatório.
+DECIDO.
+De início, anoto que o Magistrado sentenciante destacou ser imprescindível à preservação da ordem pública a manutenção da custódia cautelar do recorrente, pois
+ ..  persistem os motivos ensejadores da decretação da custódia, esta amparada na necessidade de se garantir a ordem pública e o "modus operandi" da conduta demonstra alto grau de periculosidade, sendo inviável a concessão de sua liberdade neste momento.
+Até o presente momento, não veio aos autos qualquer fato novo a ensejar a possibilidade de modificação do entendimento anterior deste Juízo que decretou a custódia preventiva  .. , fazendo-se, ainda, presentes todos os pressupostos e requisitos.
+Vê-se que o Juízo de primeiro grau, ao negar a possibilidade de ADRIANO recorrer em liberdade, fez remissão à permanência dos fundamentos que ensejaram a decretação da custódia preventiva.
+O Tribunal a quo corroborou esse entendimento ao consignar:
+ ..  No concernente ao específico fundamento do recolhimento cautelar, nota-se que o Juízo de primeiro grau invocou a necessidade de preservação da ordem pública (CPP, art. 312) , lastreando a formação do seu convencimento na periculosidade do agente, estereotipada no modus operandi, em face da gravidade em concreto da empreitada criminosa.
+O registro lançado na decisão combatida não se assemelha à ausência de fundamentação idônea para o recolhimento, porquanto expressamente indicados os elementos de convicção do Julgador para assim proceder, vinculados à concretude da ação e suas características, diante da grave natureza do delito praticado supostamente, com grave ameaça a uma família, na presença de uma criança de apenas 04 (quatro) anos, aliado ao emprego de arma de fogo, em concurso de agentes e com disparo de arma de fogo deflagrado contra a guarnição.
+Pois  bem,  com  suporte  nessas  informações,  verifico  que  a  motivação  utilizada  pelas  instâncias  ordinárias  para  embasar  a  preservação custódia  cautelar  e negar a possibilidade de o  recorrente  apelar em liberdade é  idônea -destaque para o modus operandi utilizado na empreitada delitiva, revelador do potencial alto grau de periculosidade do agente -,  encontrando  amparo  na  jurisprudência  deste  Tribunal, com se pode observar:
+A prisão preventiva é cabível mediante decisão devidamente fundamentada e com base em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal. Na hipótese, a custódia cautelar está devidamente fundamentada na garantia da ordem pública, dada a gravidade concreta dos crimes, a periculosidade do agente e o modus operandi. (RHC n. 158.318/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022; grifamos).
+"Se as circunstâncias concretas da prática do crime indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria" (HC n. 126.756/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 23/6/2015, publicado em 16/9/2015) (AgRg no RHC 158.669/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/02/2022, DJe 21/02/2022; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024, e Ag Rg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Por fim, sob pena de incorrer em indevida supressão de instância, esta Corte não pode conhecer da tese de que haveria indícios de que o recorrente teria agido sob coação de terceiros, haja vista que o Tribunal estadual não emitiu juízo de valor sobre esse tema.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+(..)
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+Ante o exposto, conheço parcialmente do recurso ordinário em habeas corpus e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
