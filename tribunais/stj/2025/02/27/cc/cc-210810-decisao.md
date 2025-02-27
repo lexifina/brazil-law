@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o JUÍZO DA 3ª VARA DO TRABALHO DE BETIM - MG e suscitado o JUÍZO DE DIREITO DA VARA CÍVEL CRIMINAL E DE EXECUÇÕES PENAIS DE BRUMADINHO - MG.
+O suscitado declinou de sua competência para a Justiça do Trabalho, aduzindo, em resumo, que (e-STJ fl. 98):
+Trata-se de ação ajuizada visando à indenização por dano moral e material decorrente da relação de trabalho. Portanto, verifico que se trata de demanda que deve ser julgada pela Justiça do Trabalho, competente de maneira absoluta para o seu processo e julgamento, nos termos do art. 114, VI, da Constituição Federal.  nesse sentido o entendimento do e. TJMG.
+O suscitante, por sua vez, considerou que (e-STJ fls. 105/106):
+Contudo, analisando os termos da petição inicial (Id: e178ed7), constata-se que os pedidos formulados pela senhora Patrícia Natália de Souza, autora da presente ação, não se fundam, salvo melhor juízo, na hipótese prevista no inciso VI do art. 114 da Constituição da República (VI. as ações de indenização por dano moral ), uma vez que não é empregada e/ou patrimonial, decorrentes da relação de trabalho nem tampouco sucessora de empregado da ré, VALE SA.
+Assim, não se enquadrando os pedidos formulados pela autora da presente ação em nenhum dos incisos elencados no art. 114 da Constituição da República e nem tampouco nas hipóteses da Súmula Vinculante 22 do STF ("A Justiça do Trabalho é competente para processar e julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho propostas por empregado contra empregador, inclusive aquelas que ainda não possuíam sentença de mérito em primeiro grau quando da promulgação da Emenda Constitucional 45/2004") e Súmula 392 do TST ("DANO MORAL E MATERIAL. RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO (redação alterada em sessão do Tribunal Pleno realizada em Nos27.10.2015) - Res. 200/2015, DEJT divulgado em 29.10.2015 e 03 e 04.11.2015 termos do art. 114, inc. VI, da Constituição da República, a Justiça do Trabalho é competente para processar e julgar ações de indenização por dano moral e material, decorrentes da relação de trabalho, inclusive as oriundas de acidente de trabalho e doenças a ele equiparadas, ainda que propostas pelos dependentes ou sucessores do " - destaques no original); suscito conflito negativo de trabalhador falecido. competência, determinando o processamento junto ao Colendo Superior Tribunal de Justiça, nos termos do art. 105, I, , da Constituição da República e dos arts. 66, II c/c 953 do Código de Processo Civil.
+O Ministério Público Federal manifestou-se nos seguintes termos (e-STJ fl. 111):
+CONFLITO DE COMPETÊNCIA. AÇÃO DE REPARAÇÃO POR DANOS MORAIS AJUIZADA POR PARENTE NÃO SUCESSOR NEM DEPENDENTE DE EMPREGADO DA EMPRESA RÉ. NATUREZA TRABALHISTA NÃO EXISTENTE. COMPETÊNCIA DO JUÍZO CÍVEL. PRECEDENTE DA SEGUNDA SEÇÃO.
+- Parecer pelo conhecimento do conflito, declarando- se a competência do JUÍZO DE DIREITO DA VARA CÍVEL CRIMINAL E DE EXECUÇÕES PENAIS DE BRUMADINHO - MG, o suscitado.
+É o relatório.
+Decido.
+Inicialmente, os pedidos e a causa de pedir definem a quem caberá apreciar e julgar o feito, segundo a competência material, conforme a jurisprudência desta Corte Superior, in verbis:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS COMUM E TRABALHISTA. RESPONSABILIDADE CIVIL. ACIDENTE DURANTE A JORNADA DE TRABALHO. EMPRESA RÉ ESTRANHA À RELAÇÃO LABORAL. CAUSA DE PEDIR IMEDIATA. DEVER DE INDENIZAR DECORRENTE DA LEGISLAÇÃO CIVIL. ARTS. 186, 927 E 950 DO CÓDIGO CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Consoante a jurisprudência sedimentada nesta Corte Superior, a competência em razão da matéria se define a partir da natureza jurídica da controvérsia, que se afere da análise do pedido e da causa de pedir veiculados na inicial.
+2. A delimitação da causa petendi, para fins de definição da competência ratione materiae, não pode resultar apenas da análise da causa de pedir mediata (ou remota) da ação, mas especialmente de sua causa de pedir imediata (ou próxima), ou seja, da aferição da natureza dos fundamentos jurídicos que justificam o pedido.
+3. Compete à Justiça Comum, e não à Justiça especializada, processar e julgar a ação reparatória proposta contra parte com a qual o autor não possua nenhuma relação trabalhista, quando fundada na existência do dever de indenizar decorrente das disposições da legislação civil ou das normas de proteção ao consumidor, ainda que, em tese, os fatos narrados na inicial possam corresponder a acidente laboral.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível da Comarca de São Mateus/ES, o suscitado."
+(CC n. 121.723/ES, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 26/2/2014, DJe 28/2/2014.)
+No presente caso, fica afastada a competência do Juízo do Trabalho, uma vez que se discute reparação material e moral decorrente de dano ambiental, no caso o rompimento da barragem da mina do Córrego do Feijão, conforme se extrai da causa de pedir da ação (e-STJ fls. 27/39):
+Não se pode perder de vista que o dano ambiental, no caso desses autos, é notório e incontroverso, tendo sido reconhecido pela própria Requerida, e cabe a ela a integral reparação pelos danos ambientais e socioeconômicos decorrentes do evento danoso que, é evidente dizer, tem responsabilização objetiva.
+ ..
+É público e notório que a Requerida não promoveu a contento os estudos de impactos ambientais, pois não conseguiu, nem mesmo, definir de forma segura a área de influência do seu empreendimento, ou seja, não delimitou uma área de segurança em caso de rompimento e medidas efetivas de segurança no caso de rompimento.
+Sendo assim, a omissão foi a grande causa da tragédia, visto que segundo depoimentos amplamente noticiados na mídia, até mesmo os engenheiros foram pressionados a certificarem que a barragem estava dentro dos parâmetros normais, quando já se sabia que havia graves problemas nela, e, consequentemente, o risco iminente de rompimento.
+Não bastasse isso, a Requerida em atitude comprovadamente irresponsável e em descompasso com as normas e princípios que norteiam a proteção ao meio ambiente ecologicamente equilibrado, não alertou a população sobre os problemas que haviam na barragem, nem ao menos no dia do rompimento foi tocada a sirene para alertar as pessoas, pegando a todos de surpresa.
+ ..
+Portanto, a parte Requerente PUGNA para que seja declarada a responsabilidade objetiva da Requerida, não apenas em relação aos danos ambientais, mas em face de todos os danos causados a terceiros decorrentes da tragédia ambiental ocorrida.
+ ..
+Ex positis, demonstrado o bom direito que possui a parte Requerente, bem como o manifesto prejuízo sofrido, REQUER seja julgada procedente a presente ação para:
+ ..
+III. Reconhecer a responsabilidade objetiva da Requerida pelos danos causados com o rompimento da barragem de Brumadinho - MG;
+IV. Condenar a Requerida a indenizar por danos morais a parte Requerente no valor de R$ 500.000,00 (quinhentos mil reais);
+V. Condenar a Requerida a indenizar por danos materiais a parte Requerente no valor de R$ 3.000,00 (três mil reais);
+Nesse contexto, não havendo relação laboral ou obrigação de pagamento de verbas trabalhistas ou discussão sobre a arrematação realizada na Justiça do trabalho, e sim obrigação cível, cabe, em tese, ao Juízo comum julgar a demanda , e não declinar de sua competência. A propósito:
+CONFLITO DE COMPETÊNCIA - CONTRATO DE EMPREITADA - AÇÃO DE COBRANÇA C/C REPARAÇÃO POR DANOS MORAIS - RELAÇÃO DE NATUREZA EMINENTEMENTE CIVIL - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO - CONFLITO CONHECIDO PARA DECLARAR COMPETENTE A JUSTIÇA COMUM.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente incidente, pois apresenta controvérsia acerca do exercício da jurisdição entre juízos vinculados a Tribunais diversos, nos termos do artigo 105, I, "d", da Constituição Federal.
+2. A competência para o julgamento da demanda é fixada em razão da natureza da causa, que é definida pelo pedido e pela causa de pedir deduzidos na exordial. Precedentes.
+3. Na hipótese dos autos, tendo em vista o pedido e a causa de pedir contidos na demanda, o primeiro correspondente ao recebimento do valor avençado em contrato de empreitada entabulado entre os ora interessados, e o segundo consistente na inadimplência do contratante-demandado, estes são elementos que atraem a competência da justiça comum estadual para processar e julgar a ação de cobrança em voga, porquanto não configurada a relação de trabalho.
+Precedentes específicos da Segunda Seção.
+4. Conflito conhecido para declarar a competência do r. juízo da 3ª Vara Cível do Foro Regional I - Santana/SP.
+(CC n. 197.329/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 27/9/2023, DJe de 4/10/2023.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL. JUSTIÇA DO TRABALHO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONTRATO DE PRESTAÇÃO DE SERVIÇO FIRMADO ENTRE PESSOAS JURÍDICAS. CAUSA DE PEDIR. PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL.
+1. Compete à Justiça Comum Estadual processar e julgar ação de indenização por danos materiais e morais, na hipótese em que a parte autora, pessoa jurídica, afirma ter firmado contrato de prestação de serviço firmado com a ré.
+2. A demanda deriva de relação jurídica de cunho eminentemente civil, porquanto a causa de pedir e o pedido deduzidos na exordial não se referem à existência de relação de trabalho entre as partes.
+3. Agravo interno a que se nega provimento.
+(AgInt no CC n. 146.394/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 14/9/2016, DJe de 21/9/2016.)
+Diante do exposto, CONHEÇO do presente conflito negativo de competência, para DECLARAR COMPETENTE o JUÍZO DE DIREITO DA VARA CÍVEL CRIMINAL E DE EXECUÇÕES PENAIS DE BRUMADINHO - MG.
+Publique-se e intimem-se.
+EMENTA
