@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de MANOEL ANDRE CRUZ, contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, nestes termos ementado (fls. 88-91):
+"EMENTA. AGRAVO. EXECUÇÃO PENAL. VISITAÇÃO PERIÓDICA AO LAR. INTERNO QUE CUMPRE CES EM REGIME SEMIABERTO DESDE 12/08/2015 E JÁ CUMPRIRA 60 (SESSENTA POR CENTO) DE SUA REPRIMENDA PENAL, RESTANDO A CUMPRIR 04 (QUATRO) ANOS, 07 (SETE) MESES E 25 (VINTE E CINCO) DIAS DE PRIVAÇÃO DE LIBERDADE. EM QUE PESE OSTENTAR EXCEPCIONAL COMPORTAMENTO E CUMPRIMENTO DO REQUISITO OBJETIVO, NÃO VEIO AOS AUTOS DA CES E DO PRESENTE RECURSO DOCUMENTO IDÔNEO QUE VIABILIZE A CONCESSÃO DO BENEFÍCIO E A EVENTUAL FISCALIZAÇÃO DE SEU FIEL CUMPRIMENTO, HAJA VISTA QUE A MERA INDICAÇÃO MANUSCRITA DE CIDADE E BAIRRO, SEM IDENTIFICAÇÃO CORRETA DO IMÓVEL A SER VISITADO TORNA INCOMPATÍVEL OGOZO DO BENEFÍCIO COM OS OBJETIVOS DA PENA. CONSIDERE-SE, POR SER OPORTUNO,QUE NOS AUTOS DA CES AINDA HÁ RENÚNCIA AO GOZO DE PAD PARA QUE O INTERNO POSSA USUFRUIR DO TRABALHO EXTRAMUROS DEFERIDOPELO JUÍZO SINGULAR, DESDE OBSERVADO O RETORNO ÀUNIDADE DE CUSTÓDIA. DOCUMENTAÇÃO INIDÔNEA DE ENDEREÇO QUE RECOMENDA, POR ORA, A MANUTENÇÃO DA DECISÃO DENEGATÓRIA DE VPL, SEM PREJUÍZO DE SUA REAPRECIAÇÃO PELO JUÍZO DE ORIGEM, QUANDO JUNTADOS DOCUMENTOS IDÔNEOS PARA EVENTUAL FISCALIZAÇÃO DO FIEL CUMPRIMENTO DO BENEFÍCIO. RECURSO DESPROVIDO."
+Daí o presente writ, no qual a d. Defesa aduz que a saída temporária foi negada de forma genérica, sem argumentação idônea, apenas amparada na gravidade abstrata do crime e da longa pena a cumprir.
+Explica que: "o paciente é analfabeto, nascido em 06/08/1958, possui 64 (sessenta e quatro) anos, sendo considerado como pessoa idosa, na forma do artigo 1.º do Estatuto do Idoso. Por esse motivo, enquadra-se em grupo de risco da COVID-19, conforme reconhecido pelo artigo 2.º, § 3.º, da Portaria Interministerial n.º07/MJSP/MS/2020, não registra faltas disciplinares, possui comportamento carcerário EXCELENTE, buscou a ressocialização por meio de atividade laborativa exercida na FUNDAÇÃO SANTA CABRINI, na função de auxiliar de serviços gerais, com horário de trabalho de 08h00min às 17h00min, de segunda a sexta-feira, autorizando-se a saída duas horas antes e retorno duas horas depois, demonstrando incomum senso de responsabilidade e disciplina, bem como o exame criminológico favorável, não acusando a existência de qualquer óbice de natureza social, psicológica ou psiquiátrica" (fls. 9-10). Requer, inclusive liminarmente, a retificação da decisão a quo, com a concessão da saída temporária. No mérito, a confirmação da liminar, com a ordem definitiva.
+Indeferido o pedido de liminar (e-STJ fls. 103-105).
+Informações prestadas (e-STJ fls. 110-111; 190-205).
+Parecer do MPF pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem. (e-STJ fls. 215-220).
+Com a vinda de informações (e-STJ fls. 239-240; 282), foi informado que o paciente se encontra em LIVRAMENTO CONDICIONAL desde 02/02/2023, sendo certo que o término de sua pena está previsto para 16/10/2026.
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Isso porque, segundo informações, verifica-se que o Juízo das execuções deferiu ao paciente o livramento condicional, desde 02/02/2023, benefício mais amplo que o pretendido na presente impetração.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
