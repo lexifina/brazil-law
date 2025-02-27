@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por NADJANE DE OLIVEIRA MOURA com fulcro no permissivo constitucional contra acórdão proferido pelo TJ/SE assim ementado (e-STJ fl. 609):
+APELAÇÕES CÍVEIS - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE ANTECIPAÇÃO DE TUTELA C/C DANO MORAL - PACIENTE PORTADORA DE TRANSTORNO PSIQUIÁTRICO GRAVE E REFRATÁRIO, NECESSITANDO DO MEDICAMENTO DENOMINADO SPRAVATO (ESCETAMINA) DE 28mg - IPESAÚDE - AUTOGESTÃO - NÃO INCIDÊNCIA DO CDC - SÚMULA 608 DO STJ, LEI Nº 9.656/98 E NORMAS DO CÓDIGO CIVIL - PLEITO DE 1º APELO:
+CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS -NÃO CONFIGURAÇÃO DE DANO MORAL - PRECEDENTES DESTA CORTE - 2º APELO:
+PRELIMINAR - AUSÊNCIA DE INTERESSE DE AGIR - AFASTADA - NO MÉRITO - ALEGAÇÃO DE QUE NÃO HÁ OBRIGATORIEDADE EM FORNECER O MEDICAMENTO, POIS NÃO HOUVE PEDIDO ADMINISTRATIVAMENTE - NEGATIVA DE FORNECIMENTO DO MEDICAMENTO CUJA NECESSIDADE RESTOU DEMONSTRADA PELOS RELATÓRIOS MÉDICOS E NOTA TÉCNICA DO NATJUD - SENTENÇA MANTIDA - RECURSOS CONHECIDOS E IMPROVIDOS - UNÂNIME.
+Em suas razões, o recorrente aponta violação dos arts. 6º, IV, e 51, XV, do Código de Defesa do Consumidor; 186 c/c art. 927 do Código Civil/2002.
+Defende, em síntese, que faz jus ao pagamento de indenização por danos morais, em decorrência da negativa indevida do plano de saúde em fornecer o tratamento médico indicado para a doença que lhe acomete.
+Sem contrarrazões.
+O apelo nobre recebeu juízo positivo de admissibilidade.
+Passo a decidir.
+Extrai-se dos autos que o Tribunal de origem manteve a sentença de improcedência parcial dos pedidos, entendendo que a recusa do plano de saúde em custear determinado tratamento, sem a comprovação de qualquer prejuízo, não enseja reparação por danos morais, anotando, no que interessa (e-STJ fl. 611):
+No tocante ao pleito de indenização por danos morais, registre-se que o mero inadimplemento contratual não configura, por si só, desgaste emocional e psicológico, capaz de violar os direitos da personalidade, mas meros transtornos, que não têm a repercussão suficiente para causar dor moral.
+Nesse sentido, sem desmerecer o dissabor vivido pela autora, entendo não ter havido, efetivamente, dano à sua integridade moral que pudesse justificar a reparação pleiteada, tendo em vista que a aflição sentida pela Requerente foi provocada pela própria situação vivenciada e não pela negativa do plano de saúde.
+Assim, inexistente o dano moral, comungo do posicionamento adotado na sentença de 1º grau, no sentido de mantê-la em seus termos, considerando improcedente tal pleito.
+Assim, c umpre ressaltar que dissentir da conclusão a que chegou a Corte de origem, de modo a se reconhecer o abalo moral alegado, implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. FALTA DO SERVIÇO. FORNECIMENTO DE MEDICAMENTO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de responsabilidade contra a administração pelo não fornecimento de medicamento. Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido. Nesta Corte não se conheceu do recurso diante da incidência do enunciado n. 7 da Súmula do STJ.
+II - A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida. A Corte a quo analisou as alegações da parte com os seguintes fundamentos: "52. Na responsabilidade objetiva, em que a culpa não é perquirida, faz-se necessária a prova do nexo causal entre a conduta (ação/omissão) e o resultado, com ônus da prova imposto à parte autora (CPC, art. 373, I). 53. Não é possível verificar, com segurança, o agravamento da doença, nem se eventual agravamento decorreu da suposta omissão estatal. Há elementos que indicam que, durante o período do não uso do medicamento, o grau da doença manteve-se moderado. 54. Essa conclusão afasta o nexo de causalidade e, por conseguinte, a responsabilidade do Estado e o direito à indenização por dano moral" (fl. 210).
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 2.066.339/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2022, DJe de 26/9/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. NEGATIVA DE FORNECIMENTO DE MEDICAMENTO. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cuida-se de ação de procedimento ordinário proposta por beneficiária do Instituto de Assistência dos Servidores Públicos do Estado de Goiás - IPASGO, com o fim de obter medicamento que lhe fora negado administrativamente, por não constar da lista de tratamento do Instituto réu. Pleiteou, também, a condenação do requerido ao pagamento de indenização por danos morais.
+2. Verifica-se q ue a Instância a quo afastou a condenação por danos morais a partir da análise de premissas fáticas. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.862.893/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/9/2021, DJe de 1/10/2021.)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
