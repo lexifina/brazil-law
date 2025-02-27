@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de VANDO DE ANDRADE SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL no julgamento do Habeas Corpus Criminal n. 1411702-11.2024.8.12.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 10/7/2024, posteriormente convertido em prisão preventiva, e restou denunciado pela suposta prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fls. 86/87):
+" ..  - HABEAS CORPUS - PACIENTE DENUNCIADO PELA SUPOSTA PRÁTICA DE TRÁFICO DE DROGAS - NÃO CONHECIMENTO DE TESES RELATIVAS AO MÉRITO DA INSTRUÇÃO PROCESSUAL - PRISÃO PREVENTIVA - MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA - RISCO À ORDEM PÚBLICA - POSSIBILIDADE DE REITERAÇÃO DELITIVA - OPERAÇÃO DE "BOCA DE FUMO" - REINCIDÊNCIA - COMERCIALIZAÇÃO DE ENTORPECENTES DE NATUREZA ALTAMENTE DELETÉRIA - IRRELEVÂNCIA DE PREDICADOS PESSOAIS FAVORÁVEIS - HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+Não se conhece, em sede de habeas corpus, de matérias que demandam incursão na seara fática-probatória, já que esse instrumento não comporta dilação probatória, tampouco discussão acerca do mérito da quaestio, a qual exige o cotejo de provas e observância ao princípio do contraditório.
+A necessidade de acautelar a ordem pública, tendo em vista os fortes indícios de possibilidade de reiteração delitiva (paciente reincidente com outras condenações por tráfico de drogas) e pela gravidade concreta da conduta delituosa supostamente praticada pelo paciente, que em tese mantinha atividade de "boca de fumo", constitui indicativo de periculosidade social e demonstra a necessidade da permanência da constrição de liberdade. O funcionamento de "boca de fumo" com comercialização de entorpecente com elevado poder deletério e natureza altamente nociva à saúde pública e aos usuários - independentemente da quantidade de droga apreendida - indica risco real para a sociedade e para a ordem pública."A constrição provisória é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP). (..) 3. A imposição da constrição processual em nada fere o princípio da presunção de inocência quando lastreada em elementos concretos dos autos que demonstram o perigo que a liberdade do agravante pode representar para a ordem pública. Precedentes.(STJ - AgRg no HC 618.887/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/04/2021, DJe 14/04/2021).
+As eventuais condições pessoais favoráveis da paciente não têm condão de afastar a prisão preventiva, quando esta se mostra necessária e respaldada nos art. 312 e 313 do Código de Processo Penal.
+O Superior Tribunal de Justiça tem entendido que "é indevida a aplicação de medidas cautelares diversas da prisão quando esta encontra-se justificada na gravidade concreta do delito e na periculosidade social do réu, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública" (HC 315.151/RS, Rel. Ministro JORGE MUSSI, Quinta Turma, j. 28/4/2015, DJe de 25/5/2015).
+Ordem parcialmente conhecida e, nessa parte, denegada."
+No presente writ, a defesa sustenta a ausência de provas quanto à materialidade delitiva, pois as drogas localizadas na via pública não pertenciam ao paciente, destacando que não foram encontrados em seu poder quaisquer objetos que demonstrassem a finalidade de mercancia dos entorpecentes.
+Afirma que o paciente seria apenas usuário de drogas, conforme já reconhecido em processos criminais anteriores.
+Defende que não foi apresentada fundamentação idônea para a manutenção da segregação cautelar do paciente, reputando ausentes os requisitos autorizadores da prisão preventiva, elencados no art. 312 do Código de Processo Penal - CPP.
+Ressalta as condições pessoais favoráveis do acusado e a possibilidade de aplicação das medidas cautelares alternativas à hipótese dos autos.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+Liminar indeferida às fls. 99/101.
+Informações prestadas às fls. 104/105, 111/113.
+O Ministério Público Federal opinou pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem, em parecer acostado às fls. 127/133.
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Segundo informações obtidas na página eletrônica da Corte Estadual, nos autos da Ação Penal n. 0901700-33.2024.8.12.0002, em 13/12/2024, o Juízo Singular revogou a prisão preventiva do paciente, mediante a imposição de medidas cautelares alternativas, ocasião em que foi expedido alvará de soltura em seu favor .
+Constata-se, portanto, a perda superveniente do objeto do presente writ.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prej udicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
