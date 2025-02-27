@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto contra julgado da Presidência que, com amparo no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheceu do agravo em razão da incidência da Súmula n. 182 do STJ, porquanto não fora devidamente impugnada a decisão de inadmissibilidade do apelo extremo.
+O acórdão recorrido foi assim ementado (fl. 158):
+APELAÇÃO - AÇÃO INDENIZATÓRIA - CONTRATO DE TRANSPORTE - FURTO DE CELULAR - FATO DE TERCEIRO - DANOS MATERIAIS E MORAIS - I - Sentença de improcedência - Recurso do autor - II - Autor vítima de furto ocorrido nas dependências da empresa ré - O furto do qual foi vítima o autor é ato de terceiro que não implica em responsabilidade do transportador - Fato de terceiro que se equipara a caso fortuito externo, causa excludente de responsabilidade do transportador - Inexistência, no caso, de dissídio com a Súmula nº 187 do STF, que não é aplicável quando o ato de terceiro é equiparável, para o transportador, a caso fortuito ou de força maior, pela inevitabilidade do fato - Fato alheio à atividade da transportadora - Agir de terceiro que rompeu o nexo de causalidade entre a conduta da ré e o dano suportado pelo autor - Configurada exclusão de responsabilidade civil da transportadora - Indevido o pagamento de indenização a título de danos morais ou materiais - Ação indenizatória improcedente - Sentença mantida III - Honorários advocatícios majorados, com base no art. 85, §11, do NCPC, de R$5.511,73 para R$5.900,00, observada a gratuidade processual concedida ao apelante - Apelo improvido.
+No recurso especial, sustenta o recorrente violação dos seguintes artigos:
+a) 144 da Constituição Federal, pois a segurança pública é um direito do cidadão brasileiro, "que deve ser ainda mais assegurado nos serviços de transporte relacionados com mobilidade urbana" (fl. 186);
+b) 730 e 927, parágrafo único, do Código Civil, visto que, na prestação de serviço de transporte, a obrigação de reparar o dano independe de culpa;
+c) 14 e 22, parágrafo único, do CDC, pois a falha do fornecimento do serviço prestado pela recorrida enseja dano indenizável.
+É o relatório. Decido.
+Constata-se que estão presentes os requisitos de admissibilidade do agravo em recurso especial. Assim, considerando as circunstâncias do caso e a necessidade de uma análise mais detalhada do objeto do recurso especial, é necessário proceder à reautuação do feito.
+Devidamente impugnada a decisão que inadmitiu o apelo extremo, com fundamento no art. 253, parágrafo único, II, d, do RISTJ, reconsidero a decisão de inadmissão do apelo para conhecer do agravo e determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
