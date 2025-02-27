@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de WANDERLEI TREVISAN contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido nos autos da Apelação Criminal n. 1501493-48.2021.8.26.0568.
+Consta nos autos que o Paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa (fl. 22). Interposta apelação defensiva, a Corte local deu parcial provimento ao recurso para fixar o regime prisional semiaberto, mantida no mais a sentença (fl. 34).
+Neste writ, a Defesa busca, em suma, a revaloração da ilicitude das provas derivadas da interceptação ilegal (fl. 4).
+Requer, inclusive liminarmente, o conhecimento do writ ou, subsidiariamente, a concessão da ordem de ofício para reconhecer a ilicitude das provas obtidas por meio do mandado de busca e apreensão domiciliar, requerido em razão de escuta telefônica sem autorização judicial, nos termos da Teoria dos Frutos da Árvore Envenenada (fl. 11).
+O pedido liminar foi indeferido (fls. 37-39).
+As informações foram prestadas (fls. 44-68)
+O Ministério Público Federal opinou pela denegação da ordem.
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento da Primeira Turma do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, cumpre analisar a existência de eventual ameaça ou coação à liberdade de locomoção do paciente, a fim de evitar prejuízo à sua defesa.
+Passarei, assim, ao exame das razões deste writ.
+Sobre o tema da presente impetração, assim decidiu o Tribunal a quo (fls. 24-34 -0 grifamos):
+O pedido de mandado de busca domiciliar foi assim fundamentado: "Desenvolvendo atividade de combate ao tráfico de drogas, esta unidade policial recebeu informes e produziu indícios de que Wanderlei está envolvido no tráfico de drogas, constando que o mesmo armazena tais substâncias ilícitas nos endereços acima, locais onde se reúne com traficantes" (fls. 01 do apenso próprio). Ademais, não se pode olvidar que a escuta mencionada pelo policial tenha ocorrido em meio à investigação de outro traficante, não tendo por alvo o Apelante. Seja como for, a dita interceptação telefônica não fundamentou a decisão judicial que autorizou a busca domiciliar (fls. 101), tampouco foi utilizada como elemento de convicção na sentença recorrida. Aliás, sequer foi citada pelo juízo "a quo".
+Constata-se, pelos fragmentos transcritos, que as instâncias ordinárias consignaram não ter a busca domiciliar, regularmente autorizada, resultado de dados obtidos na prévia interceptação telefônica  esta também amparada pela competente autorização judicial. Ao contrário, o mandado de busca e apreensão decorreu de justa causa demonstrada por outras frentes de investigação, autônomas em relação à referida interceptação.
+À luz da jurisprudência consolidada desta Corte Superior, a ilicitude da prova, por efeito reflexo, atinge necessariamente aquelas dela derivadas (Teoria dos Frutos da Árvore Envenenada), salvo se inexistir qualquer vínculo causal com a prova ilícita (Teoria da Fonte Independente) ou, mesmo que presente tal vínculo, caso a prova fosse obtida de qualquer forma, como resultado inevitável das atividades investigativas regulares e lícitas (Teoria da Descoberta Inevitável) (EDcl no RHC n. 72.074/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 4/12/2017).
+A regra de exclusão das provas derivadas das ilícitas, consubstanciada na teoria da descoberta inevitável, originária do direito norte-americano, foi recepcionada no sistema jurídico brasileiro pelo artigo 157, §§ 1º e 2º, do Código de Processo Penal.
+Assim, havendo sido afastada pelas instâncias ordinárias qualquer ligação entre a prova cuja ilegalidade sustenta a impetrante e a busca domiciliar, não merece prosperar a pretensão deduzida neste writ.
+Para chegar a conclusão distinta, necessário serial revolver toda a prova produzida no Juízo de primeiro grau, o que não é cabível em sede de habeas corpus.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
