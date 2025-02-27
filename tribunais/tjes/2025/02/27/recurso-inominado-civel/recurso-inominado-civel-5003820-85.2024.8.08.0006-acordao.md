@@ -1,0 +1,62 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003820-85.2024.8.08.0006
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ESTADO DO ESPIRITO SANTO
+RECORRIDO: BRENDA DA SILVA MEDEIROS e outros (3)
+RELATOR(A):
+THIAGO ALBANI OLIVEIRA GALVEAS
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5003820-85.2024.8.08.0006
+
+Recorrente: ESTADO DO ESPÍRITO SANTO;
+
+Recorridos: BRENDA DA SILVA MEDEIROS E OUTROS;
+
+V O T O S
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+DR. THIAGO ALBANI OLIVEIRA GALVEAS – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recursos conhecidos por preencherem os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CRIME EM INSTITUIÇÃO DE ENSINO NO LITORAL DE ARACRUZ-ES. ATIRADOR QUE INVADIU ESCOLA E PROMOVEU CHACINA. AUTORES QUE SÃO ALUNOS E ESTAVAM PRESENTES NA ESCOLA NA OCASIÃO, E TIVERAM CONTATO COM AS VÍTIMAS LOGO APÓS O OCORRIDO. PLEITO DE INDENIZAÇÃO EM RAZÃO DO RISCO AO QUAL FORAM EXPOSTOS, E TRAUMAS GERADOS.
+
+REQUERIDO QUE SE DEFENDE ADUZINDO INICIALMENTE A AUSÊNCIA DE PROVA QUE OS AUTORES DE FATO ESTIVERAM NA ESCOLA NO DIA DOS FATOS. BUSCANDO COMPROVAR ESSA AFIRMAÇÃO, TROUXERAM DOCUMENTO DA SECRETARIA DE EDUCAÇÃO ONDE CONSTA A INFORMAÇÃO DE QUE NA OPORTUNIDADE NÃO FORA REALIZADA CHAMADA DE PRESENÇA. O CITADO DOCUMENTO NÃO FORA IMPUGNADO EM RÉPLICA. ALÉM DISSO, SUSTENTAM TESE DE FORTUITO EXTERNO, POR HAVER SEGURANÇA NA ENTRADA PRINCIPAL, E CADEADOS NA PORTA DOS FUNDOS. UTILIZAÇÃO DE ALICATE ESPECIAL PELO CRIMINOSO QUE TERIA INVIABILIZADO AS CHANCES DE DEFESA. JUÍZO DE ORIGEM QUE ENTENDEU SER ÔNUS DO ESTADO COMPROVAR QUE OS AUTORES NÃO ESTARIAM LÁ NO DIA DO CRIME, AFIRMANDO AINDA A RESPONSABILIDADE DO PODER PÚBLICO, POR NÃO EXISTIR VIGILÂNCIA NA PARTE DE TRÁS DA ESCOLA, DE MODO QUE FICOU CARACTERIZADA A FALHA NA SEGURANÇA, E O CONSEQUENTE DEVER DE INDENIZAR. CONDENAÇÃO DO ESTADO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO IMPORTE DE R$ 8.000,00 (OITO MIL REAIS) PARA CADA AUTOR. RECURSO DO ESTADO PEDINDO PELA REFORMA DA SENTENÇA, COM A IMPROCEDÊNCIA DO PEDIDO INDENIZATÓRIO, OU REDUÇÃO DO SEU VALOR.
+
+ANÁLISE. ENTENDO QUE ASSISTE RAZÃO AO ESTADO QUANDO AFIRMA SER ÔNUS DA PROVA DOS AUTORES COMPROVAR QUE DE FATO ESTAVAM PRESENTES NO DIA DOS FATOS. ANTE A PROVA PRODUZIDA PELO PODER PÚBLICO DE QUE NÃO HOUVE CHAMADA NAQUELE DIA (DOCUMENTO NÃO IMPUGNADO), CABERIA AOS AUTORES COMPROVAR QUE ESTAVAM NA ESCOLA, O QUE PODERIA SER FEITO, POR EXEMPLO, COM A PRODUÇÃO DE PROVA TESTEMUNHAL. NA AUSÊNCIA DE COMPROVAÇÃO QUANTO A TER PRESENCIADO O CRIME, ENTENDO QUE A SENTENÇA DEVE SER REFORMADA PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS.
+
+SEM CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS E CUSTAS ANTE O PROVIMENTO DO RECURSO.
+
+Fabiano Cuzini Scarpini
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. THIAGO ALBANI OLIVEIRA GALVEAS – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
