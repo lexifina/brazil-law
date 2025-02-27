@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 283/286) opostos à decisão desta relatoria que não conheceu do agravo em recurso especial (e-STJ fls. 276/279).
+A parte emb argante sustenta que "a decisão monocrática não conheceu o recurso das ora embargantes alegando a ausência de ataque à negativa recursal, mais especificamente quanto a não incidência da Súmula 07 do C. STJ, em relação à afronta ao artigo 1.015 do CPC. Ocorre que, diferentemente do alegado, as ora embargantes expressamente atacaram tal fundamento, junto ao agravo interno apresentado na origem, conforme se denota do e-STJ fls. 232 e seguintes" (e-STJ fl. 284).
+Impugnação não apresentada (e-STJ fl. 290).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos vícios mencionados, o que não se evidencia no caso em exame.
+Conforme constou da decisão ora embargada, o Tribunal de origem negou seguimento ao recurso especial, tendo em vista o Tema n. 988 do STJ, e o inadmitiu devido à ausência de afronta ao art. 1.022 do CPC/2015, bem como por incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 211/220).
+Na petição do agravo em recurso especial (e-STJ fls. 240/264), a parte não impugnou todos os fundamentos da decisão de inadmissibilidade, o que atraiu a aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ, porquanto deixou de combater especificamente a incidência da Súmula n. 7 do STJ.
+Ressalte-se que a impugnação apresentada apenas em sede de embargos declaratórios não é suficiente para afastar o óbice verificado.
+A Corte Especial do STJ, no julgamento dos EAREsp n. 746.775/PR, ocorrido na sessão de 19/9/2018 (Relator para acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018), firmou o entendimento de que, nas razões do agravo em recurso especial, o agravante deve rechaçar todos os motivos elencados na decisão de inadmissibilidade, sendo que a ausência de impugnação de um deles, ainda que referente a capítulo autônomo da decisão, enseja o não conhecimento do recurso. Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. CONFIRMAÇÃO. SÚMULA 168 E 182/STJ. AGRAVO DESPROVIDO.
+1. A Corte Especial, por ocasião do julgamento dos EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC (Relator para acórdão o Ministro Luis Felipe Salomão, DJe 30/11/2018), por maioria, firmou orientação no sentido de que, na interposição do agravo de que trata o art. 1.042 do CPC de 2015 (antigo art. 544 do CPC de 1973), deve o agravante impugnar todos os fundamentos, autônomos ou não, da decisão que não admitiu o recurso especial na origem.
+2. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (Súmula 182/STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl nos EAREsp n. 2.291.059/SP, Relator Ministro Raul Araújo, Corte Especial, julgado em 23/4/2024, DJe de 3/5/2024.)
+Além disso, a decisão ora embargada esclareceu que, nos termos da jurisprudência desta Corte, "o Código de Processo Civil de 2015 estabelece o cabimento de agravo interno, a ser julgado pelo colegiado do tribunal de origem (arts. 1.021 e 1.030, I, b, e § 2º), para impugnar a decisão que nega seguimento a recurso especial com fundamento em tese firmada em julgamento de casos repetitivos. É inadmissível o agravo em recurso especial em que a parte agravante insiste em rediscutir matéria julgada em harmonia com tese definida em recurso repetitivo, sendo cabível apenas o agravo interno no tribunal de origem. A interposição de agravo em recurso especial (art. 1.042, caput, do CPC) contra decisão que nega seguimento a recurso especial porque o acórdão recorrido está em conformidade com o entendimento firmado em julgamento de recurso repetitivo configura erro grosseiro, não cabendo a aplicação do princípio da fungibilidade recursal" (AgInt no AREsp n. 2.539.708/SP, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+ EMENTA
