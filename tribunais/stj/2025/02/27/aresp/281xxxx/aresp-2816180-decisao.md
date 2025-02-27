@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FERRAGEM BENFER COMERCIO LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. APELAÇÃO. AÇÃO MONITORIA. CONTRATOS BANCÁRIOS. CUMULAÇÃO DE CORREÇÃO MONETÁRIA E JUROS. POSSIBILIDADE. TARIFAS BANCÁRIAS. PESSOA JURÍDICA. LEGALIDADE. HONORÁRIOS MANTIDOS SUCUMBÊNCIA MÍNIMA DA APELADA. APELAÇÃO DESPROVIDA (fl. 229).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 85, § 2º, e 86 do CPC, no que concerne à necessidade de inversão da verba honorária, com a fixação dos honorários advocatícios em favor da parte recorrente, sustentando que não houve a correta fixação da referida verba honorária ante o seu decaimento mínimo na demanda. Traz a seguinte argumentação:
+O presente Recurso Especial mostra-se pertinente nos termos da alínea "a" do inciso III, artigo 105 da Constituição Federal de 1988, na medida em que, como restará demonstrado, a decisão recorrida contrariou expressamente o art. 86, do Código de Processo Civil, ao não fixar honorários advocatícios em favor do recorrente, mesmo diante de seu decaimento mínimo na demanda.
+O recurso tem como objetivo resguardar a aplicação correta de lei federal, mais precisamente, o Código de Processo Civil, no que dispõe acerca dos honorários sucumbenciais que não foram corretamente fixados e distribuídos entre os litigantes.
+O acórdão recorrido manteve a sentença, todavia, verifica-se que foram acolhidos praticamente todos os pleitos revisionais dos embargos monitórios, determinando o recálculo da dívida.
+ ..
+O artigo 86 do CPC determina que, havendo sucumbência parcial, as despesas e os honorários advocatícios devem ser distribuídos proporcionalmente ao decaimento de cada parte. No caso dos autos, o recorrente obteve sucesso na maior parte dos pedidos formulados nos embargos monitórios, restando evidente que deveria ser fixada verba honorária em seu favor, proporcionalmente ao decaimento mínimo.
+Ao não fixar honorários advocatícios em favor do patrono da recorrente, configura verdadeira afronta ao art. 86 do CPC, uma vez que o processo foi julgado parcialmente procedente, tendo sido acolhida a maioria dos pedidos da parte recorrente.
+ ..
+Os dispositivos violados (art. 85, §2º e art. 86, do CPC) constituem regra mandamental que impõe a fixação dos honorários distribuídos proporcionalmente entre aos litigantes, o que não se verificou no caso dos autos.
+A parte recorrente flagrantemente obteve êxito na maioria dos seus pedidos iniciais. No cotejo entre os embargos monitórios, sentença e acórdão verifica-se que houve decaimento mínimo dos Recorrentes, visto que obteve êxito em seus principais pleitos.
+Assim, necessário seja dada vigência a Lei federal com o redimensionamento do ônus da sucumbência para correta distribuição dos honorários e custas processuais, não estando adequado não atribuir honorário ao patrono dos recorrentes (fls. 275- 277).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Por fim, o requerimento para redimensionar a verba sucumbencial fixada também merece ser rechaçada, visto que, diversamente do alegado pela apelante, esta não obteve êxito em grande parte dos seus pedidos, tendo sido acolhidas apenas duas pretensões, diante de inúmeras alegações e pedidos constantes dos embargos monitórios, tais como: inépcia da inicial, ocorrência de prescrição, afastamento de capitalização de juros, cumulação de juros remuneratórios, moratórios, multa e correção monetária, exclusão de taxa de operação de crédito, tarifas de registro de processamento, tarifas de serviços bancários e demais taxas ou tarifas administrativas, descaracterização da mora, repetição do indébito (evento 10, PET1).
+Assim sendo, verifico hipótese de sucumbência mínima da CEF, sendo certo que neste caso, os honorários serão fixados em sua totalidade em desfavor da outra parte, no caso do apelante, nos termos do artigo 86, parágrafo único do CPC (fls. 236- 237, grifo meu).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
