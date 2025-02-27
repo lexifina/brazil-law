@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS BEZERRA DE ARAUJO contra decisão que inadmitiu o recurso especial, oriundo de acórdão exarado pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado (e-STJ fl. 431):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. INVIABILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. CIRCUNSTÂNCIAS DO CRIME. MAUS ANTECEDENTES. FRAÇÃO DE AUMENTO. PRIMEIRA FASE. 1/6 (UM SEXTO). PERDIMENTO DE BENS. VEÍCULO EMPREGADO NO TRÁFICO DE DROGAS. RECURSO DO RÉU PARCIALMENTE PROVIDO. RECURSO DO TERCEIRO INTERESSADO DESPROVIDO.
+Consta dos autos que o agravante fora condenado, pelo Juízo singular, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, à pena privativa de liberdade de 08 (oito) anos e 09 (nove) meses de reclusão, em regime inicial fechado, acrescida do pagamento de 875 (oitocentos e setenta e cinco) dias-multa, oportunidade em que, ex vi do art. 387, § 1º, do CPP, fora-lhe concedido o direito de recorrer em liberdade (e-STJ fls. 303-308).
+Opostos embargos de declaração, pelo apenado, o Juízo sentenciante rejeitou o afã integrativo (e-STJ fls. 336-337).
+Na sequência, a Corte de origem deu parcial provimento ao apelo defensivo para - após diminuir a pena-base do sentenciado - redimensionar as sanções impostas a 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão e 749 (setecentos e quarenta e nove) dias-multa, mantido o édito condenatório nos demais termos (e-STJ fl. 461).
+Opostos embargos de declaração, pelo condenado, o Tribunal distrital rejeitou o afã integrativo (e-STJ fls. 520-542).
+Nas razões do recurso especial, corroborado por divergência jurisprudencial (e-STJ fl. 563), a Defesa aponta, de forma cumulativa:
+a) degeneração dos arts. 28 e 33, ambos da Lei de Drogas, sob o argumento de que, a teor do laudo pericial colacionado aos autos, não restou evidenciado, de forma inequívoca, o tráfico ilícito de entorpecentes no caso em apreço (e-STJ fl. 554);
+b) ofensa ao art. 59 do CP (e-STJ fl. 554), diante do direito à redução da pena corporal no mínimo legal (e-STJ fl. 557);
+c) negativa de vigência do art. 33, § 4º, da Lei n. 11.343/2006, pois o recorrente não pertence a nenhuma organização criminosa, bem como não é reincidente específico (e-STJ fl. 554).
+Neste cenário, com arrimo no princípio do in dubio pro reo (e-STJ fl. 561), pugna pela absolvição do increpado ou, de forma subsidiária, pela alvitrada desclassificação delitiva (e-STJ fl. 556) ou, ainda, pelo redimensionamento da pena-base no mínimo legal, seguido da concessão da minorante do tráfico privilegiado, com o consequente arrefecimento do regime prisional fixado para o meio aberto (e-STJ fl. 566).
+Contrarrazões pelo Parquet (e-STJ fls. 589-591).
+O Tribunal a quo inadmitiu o apelo especial com base na incidência da Súmula n. 7/STJ e na aplicação da Súmula n. 83/STJ (e-STJ fls. 595-597).
+Ao cabo, fora interposto agravo em recurso especial pela Defesa técnica (e-STJ fls. 621-692).
+Parecer do Ministério Público Federal, na forma dos arts. 62 e 64, X, ambos do RISTJ, pelo não conhecimento do agravo em recurso especial (e-STJ fls. 746-751).
+É o relatório.
+DECIDO.
+De início, ao se cotejar a decisão de inadmissibilidade a quo e as razões do presente agravo (e-STJ fls. 321-638), depreende-se a ausência de (específica e pormenorizada) impugnação à Súmula n. 83/STJ, consignada pela Corte local nos seguintes termos (e-STJ fl. 596, grifamos):
+Ademais, o entendimento sufragado pela turma julgadora se encontra em fina sintonia com a iterativa jurisprudência da Corte Superior, de modo a atrair ao apelo o veto do enunciado 83 da Súmula do STJ. Nesse sentido: "A configuração da reincidência e dos maus antecedentes impede o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por ausência do cumprimento dos requisitos legais. No presente caso, o agravante ostenta condenações anteriores, que foram utilizadas para a avaliação negativa dos antecedentes penais e da reincidência, o que inviabiliza a incidência da minorante do art. 33, §4º, da Lei nº 11.343/06" (AgRg no AREsp n. 2.584.151/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024).
+Na ocasião, constata-se que a parte agravante limitou-se a reiterar (ipsis litteris) as mesmas razões de inadmissão do apelo raro, com impugnação parcialmente dissociada e direcionada (precipuamente) ao acórdão recorrido, e não ao decisum (ora) agravado (e-STJ fl. 596).
+Impugnação (deficiente, desidratada e inepta) que não atende, por certo, aos ditames normativos de regência da via recursal eleita.
+Com efeito, não se considera infirmado - pela inteligência da Súmula n. 182/STJ - o óbice encartado na Súmula n. 83/STJ quando o agravante não colaciona, em suas razões, julgados paradigmas com pertinência temática e contemporâneos, com eficácia prospectiva, necessários ao (efetivo) cotejo analítico com o aresto objurgado e consectária aferição de eventual dissonância jurisprudencial.
+Assim, ao agravante
+incumbiria  ..  apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie (AgRg no AREsp n. 1.664.424/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/9/2024, DJe de 9/10/2024, grifamos).
+Nesta linha de raciocínio:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL.  .. . AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA INSUFICIÊNCIA DE PROVAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PALAVRA DA VÍTIMA. ESPECIAL RELEVÂNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. SÚMULA N. 83/STJ.
+ ..
+III - A superação da Súmula n. 83, STJ, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar a modificação do julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos.
+IV - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n. 182, STJ. Precedentes.
+Agravo regimental não conhecido.
+(AgRg no REsp n. 2.094.487/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024, grifamos).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. AGRAVO EM RECURSO ESPECIAL QUE NÃO FOI CONHECIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O agravo em recurso especial não foi conhecido em razão da ausência de impugnação dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+3. Inadmitido o recurso especial com fundamento na Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+4. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que no agravo em recurso especial não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 2.571.050/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 23/10/2024, DJe de 25/10/2024, grifamos).
+Destarte, conforme (oportunamente) sublinhado pela douta Procuradoria-Geral da República (e-STJ fls. 750-751, grifamos):
+ a  impugnação do enunciado da Súmula 83/STJ deve ser realizada com indicação de precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, visando a demonstrar inaplicabilidade dos arestos ou orientação jurisprudencial recente em sentido contrário. Todavia, não se desincumbiram os agravantes de tais ônus, o que enseja o não conhecimento das insurgências  ..
+Assim, incide na espécie, por analogia, o enunciado da Súmula 182/STJ, autorizando o não conhecimento dos agravos em recurso especial.
+No ponto, a Corte Especial do Superior Tribunal de Justiça pacificou orientação no sentido de que, a falta de (correspondente e estratificado) ataque a "todos" os fundamentos da decisão que inadmitiu o recurso especial obsta - por ausência de "dialeticidade - o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+A propósito:
+ o  provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018, grifamos).
+No mesmo norte:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (no caso, Súmulas 7 e 83 do STJ), incidindo, portanto, o óbice da Súmula 182 do STJ.
+3. "Não ultrapassado o juízo de admissibilidade dos recursos, inviável a análise das questões de mérito neles deduzidas" (AgRg no AREsp 1.534.025/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.628.916/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024, grifamos).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. RECURSO QUE NÃO INFIRMOU, DE FORMA ESPECÍFICA, O FUNDAMENTO DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL (SÚMULA 83/STJ). VERIFICAÇÃO. OCORRÊNCIA. INADMISSIBILIDADE. IDÔNEA APLICAÇÃO DA SÚMULA 182/STJ. VIOLAÇÃO DO ART. 69, VII, DO CPP. PEDIDO DE DECLÍNIO DE COMPETÊNCIA. RESTRIÇÃO AO FORO ESPECIAL POR PRERROGATIVA DE FUNÇÃO. PREFEITO MUNICIPAL. APLICAÇÃO DE ENTENDIMENTO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (QO NA AP N. 937).
+1. O recurso especial não foi conhecido em razão do óbice constante da Súmula 83/STJ.
+2. A insurgência não merece prosperar, haja vista o agravante não ter atacado, de forma específica, o fundamento da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+3. O simples confronto entre os fundamentos da decisão agravada e as razões do agravo interno permitem afirmar que a parte agravante apresentou impugnação genérica, sem atacar especificamente os fundamentos da decisão agravada.  .. . A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.". (AgRg no REsp n. 1.486.448/RJ, Ministro Mauro Campbell Marques, Segunda Turma, DJe 1º/2/2022).
+ ..
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.011.402/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/5/2024, DJe de 10/5/2024, grifamos).
+Ante o exposto, não conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
