@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  recurso  especial  manejado  por  C.S.M. Indústria e Comércio de Fogões Ltda.  com  fundamento  no  art.  105,  III,  a  e  c,  da  CF,  contra  acórdão  proferido  pelo  Tribunal  Regional Federal da 4ª Região,  assim  ementado  (fl.  205):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. LIMITAÇÃO. 20 SALÁRIOS MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. TEMA 1.079/STJ.
+1. A limitação da base de cálculo das contribuições a terceiros em 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei n. 6.950/81, foi revogada pelo Decreto-Lei n. 2.318/86 juntamente com o caput do mesmo artigo, porquanto não é possível que remanesça em vigência parágrafo de lei estando revogado o artigo correspondente.
+2. Ao julgar o Tema 1.079 dos recursos repetitivos, o STJ decidiu que "a partir da entrada em vigor do art. 1º, I, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários".
+A parte recorrente aponta, além de dissídio jurisprudencial, violação ao art. 4º, parágrafo único, da Lei 6.950/81. Sustenta, em resumo, que as contribuições ao Sebrae, ao INCRA e ao Salário-Educação apuradas sobre a folha de salários fiquem limitadas ao montante 20 salários mínimos vigentes no país.
+Contrarrazões apresentadas às fls. 260/265.
+Parecer do Ministério Público Federal às fls. 294/301.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, com relação ao art. 4º, parágrafo único, da Lei 6.950/81, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal de que as contribuições ao Sebrae, ao INCRA e ao Salário-Educação apuradas sobre a folha de salários fiquem limitadas ao montante 20 salários mínimos vigentes no país, e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgInt no REsp n. 2.154.627/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/9/2024, DJe de 3/10/2024; AgInt no AREsp n. 2.288.113/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024; AgInt no AREsp n. 2.524.167/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Nesse panorama, fica prejudicado o exame do apelo especial na parte em que suscita divergência jurisprudencial, pois o não conhecimento do recurso quanto às razões invocadas pela alínea a diz respeito ao mesmo dispositivo legal e tese jurídica atinentes ao dissídio.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
