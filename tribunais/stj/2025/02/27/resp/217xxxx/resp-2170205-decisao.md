@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDSON LEANDRO MARTIGNAGO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Embargos de Declaração Criminal nº 0001653-83.2023.8.16.0107 ).
+Consta dos autos que o recorrente foi pronunciado pela prática dos delitos previstos no arts. 121, caput e 129, §1º, inc. I, ambos do Código Penal.
+O Tribunal de origem negou provimento ao recurso da Defesa, em acórdão assim ementado (e-STJ fls. 1152/1192):
+RECURSO EM SENTIDO ESTRITO - PRONÚNCIA - - HOMICÍDIO ERÉU EDSON LESÃO CORPORAL - PEDIDO DE DESCLASSIFICAÇÃO PARA OS DELITOS DISPOSTOS NOS ART. 302 E 303 DO CTB - INVIABILIDADE DE DESCLASSIFICAÇÃO NESTA FASE PROCESSUAL DIANTE DA DÚVIDA RAZOÁVEL ACERCA DA ADMISSÃO DA PRODUÇÃO DO RESULTADO MORTE, EIS QUE HÁ VERTENTE A INDICAR QUE O ACUSADO DIRIGIA EM EXCESSO DE VELOCIDADE E SOB O EFEITO DE BEBIDA ALCOÓLICA - PEDIDO SUBSIDIÁRIO DE EXCLUSÃO DA QUALIFICADORA DO PERIGO COMUM - ACOLHIMENTO - CASO CONCRETO QUE NÃO SE SUBSUME À HIPÓTESE DE PERIGO COMUM CONCLUSÃO ENDOSSADA PELA PROCURADORIA-GERAL DE JUSTIÇA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO - RÉ SIRLEI- ART. 348, CAPUT DO CP (FAVORECIMENTO PESSOAL) - PLEITO PELA IMPRONÚNCIA POR AUSÊNCIA DE JUSTA CAUSA - NÃO ACOLHIMENTO - PROVAS COLIGIDAS DURANTE O QUE SE MOSTRAM SUFICIENTES PARA OJUDICIUM ACCUSATIONIS ENCAMINHAMENTO DO FEITO AO PLENÁRIO - RECURSO CONHECIDO E DESPROVIDO.
+A defesa apresentou embargos de declaração, que foram rejeitados (e-STJ fls. 1254/1260.
+Neste recurso especial, o recorrente alega violação aos arts. 302 e 303 do CTB e arts. 18,I e II do CP e ainda ao art. 413, §1º, do CPP, ao argumento de que não se trata de homicídio doloso.
+Afirma que a conduta deve ser desclassificada para homicídio culposo no trânsito.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (e-STJ fls. 1473/1475).
+É o relatório.
+Decido.
+Conforme relatado, busca a defesa a desclassificação do delito.
+O Tribunal de origem, ao analisar o recurso defensivo, consignou que (e-STJ fls. 1156):
+No mérito, a defesa do réu EDSON LEANDRO MARTIGNAGO requer a reforma da r. decisão de pronúncia para o fim de desclassificar as infrações para os delitos descritos nos artigos 302 e 303 do Código de Trânsito Brasileiro, eis que a denúncia descreve tão somente a embriaguez, e os demais elementos são desprovidos de indícios mínimos que indicassem que o recorrente teria assumido o risco de causar o resultado morte. A defesa da ré SIRLEI DE LURDES PERI, por sua vez, pugna pela impronúncia da acusada, visto que ausentes indícios mínimos de autoria e prova da materialidade do delito.
+Sem razão. Vejamos.
+Em relação à materialidade, ela é inconteste, e restou consubstanciada pelo Boletim de Ocorrência sob nº 1068924210502140108 (mov. 6.1), pelo relatório de investigação (evento 1.3), pelo relatório complementar (evento 1.4), pelo Laudo do Exame de Necropsia nº 41.833/2021 (evento 6.22), pelas imagens da câmera de vídeomonitoramento da praça de pedágio (mov. 6.26), análise do telefone celular apreendido em poder da genitora do réu (mov. 16.3), além de toda a prova colhida durante a instrução judicial.
+Além disso, havendo a comprovação do resultado lesivo de todos os crimes descritos na denúncia, torna- se inviável a impronúncia dos acusados por falta de prova de autoria do delito, de modo que as digressões defensivas em relação à participação ou não dos acusados na conduta delituosa devem ser apresentadas na análise meritória da autoria, perante o Juízo constitucionalmente competente para analisá-lo, qual seja, o Tribunal do Júri.
+Verifica-se que o Tribunal de origem, ao analisar a prova produzida, entendeu estarem presentes indícios suficientes de autoria, mantendo a pronúncia do réu.
+Desse modo, se o Tribunal de origem afirmou expressamente, com base na análise do caderno probante do feito, em especial os depoimentos testemunhais, a existência de indícios suficientes de autoria, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+As condições para a pronúncia foram devidamente observadas, uma vez que os indícios de autoria e a materialidade do delito restaram evidenciados, não sendo juridicamente viável desclassificar ou afastar a pronúncia na ausência de certeza jurídica sobre a não ocorrência do dolo homicida.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
