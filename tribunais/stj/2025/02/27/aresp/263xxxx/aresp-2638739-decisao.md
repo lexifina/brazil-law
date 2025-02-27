@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDO DE RECUPERACAO DE ATIVOS - FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 416-417):
+APELAÇÃO CÍVEL Nº 1520-06.2022.8.16.0033Ap
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. SENTENÇA DE PROCEDÊNCIA DOS EMBARGOS. INSURGÊNCIA DO EMBARGADO. ALEGAÇÃO DE PENHORABILIDADE DE PARCELA DO IMÓVEL SUB JUDICE. NÃO ACOLHIMENTO. RECONHECIMENTO DA CONDIÇÃO DE BEM DE FAMÍLIA (ART. 1º, LEI Nº 8.009/90), DESTINADO À RESIDÊNCIA DA VIÚVA, GENITORA DOS EXECUTADOS. IMÓVEL INDIVISÍVEL. IMPENHORABILIDADE QUE RECAI SOBRE A INTEGRALIDADE DO BEM. INVIABILIDADE DE PENHORA SOBRE PARCELA DO BEM, SOB PENA DE DESCARACTERIZAÇÃO E CONSEQUENTE VIOLAÇÃO À PROTEÇÃO LEGAL. ALEGAÇÃO DE QUE SE TRATA DE IMÓVEL DE ALTO PADRÃO, SOBRE O QUAL NÃO INCIDIRIA TAL PROTEÇÃO. NÃO ACOLHIMENTO. FATO QUE NÃO RETIRA O CARÁTER DE BEM DE FAMÍLIA. PROTEÇÃO LEGAL QUE SÓ PODE SER AFASTADA NOS CASOS PREVISTOS NOS ARTS. 3º E 4º DA LEI Nº 8.009/1990. DECISÃO ESCORREITA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RECURSO DESPROVIDO. AGRAVO DE INSTRUMENTO Nº 38711-53.2023.8.16.0000 AI
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE REJEITOU A ALEGAÇÃO DE FRAUDE À EXECUÇÃO. INSURGÊNCIA DO EXEQUENTE. ALEGAÇÃO DE QUE OS EXECUTADOS FRAUDARAM A EXECUÇÃO AO RENUNCIAREM A DIREITO DE HERANÇA SOBRE PARCELA DO IMÓVEL EM DISCUSSÃO. NÃO ACOLHIMENTO. APARTAMENTO DESTINADO À MORADIA DE SUA GENITORA. CONDIÇÃO QUE NÃO FOI ALTERADA COM A RENÚNCIA AO DIREITO DE HERANÇA DECORRENTE DO FALECIMENTO DO GENITOR DOS EXECUTADOS. IMÓVEL QUE MANTEVE A CONDIÇÃO DE BEM DE FAMÍLIA, PROTEGIDO PELA IMPENHORABILIDADE. NÃO CARACTERIZAÇÃO DE FRAUDE À EXECUÇÃO. PRECEDENTES DO STJ E DESTA CORTE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 433-437).
+No recurso especial, alega que o acórdão contrariou as disposições contidas no art. 792, IV, do CPC, pois "ao renunciarem à herança em favor da mãe, os devedores Sérgio e Maurício, em verdade, objetivavam blindar, o único patrimônio que têm, dos diversos credores que acumulam" (fl. 448), o que caracterizaria fraude a credores.
+Assevera ofensa ao art. 1º da Lei n. 8009/90 dado que "a impenhorabilidade do bem de família e garantem o direito de ação com duração razoável do processo, à luz dos princípios da razoabilidade e proporcionalidade, permite a penhora de imóvel de valor vultoso, ainda que destinado à moradia do devedor" (fl. 459).
+Afirma violação do art. 85, § 10, do CPC sustentando que a recorrida deveria arcar com o ônus da sucumbência, pois "se acredita que há fraude à execução na doação dos devedores à sua mãe, verdade é que fora também esta  Deana/Recorrida  quem deu causa à sua propositura da demande de Embargos de Terceiro" (fl. 460).
+Foram oferecidas contrarrazões ao recurso especial (fls. 477-500).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 501-504), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 530-556).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Quanto à alegação de violação dos arts. 85, § 10, e 792, IV, do CPC e à tese a ele vinculada (inversão do ônus da sucumbência e a renúncia à herança configuraria fraude à credores), observa-se que não foram devidamente prequestionados, o que atrai a incidência da Súmula n. 211 do STJ.
+Para a configuração do questionamento prévio não é necessário que o Tribunal de origem mencione expressamente o dispositivo infraconstitucional tido como violado. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso especial, o que não ocorreu no caso dos autos.
+Nesse sentido, cito o seguinte precedente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. BENEFÍCIO DE GRATUIDADE DE JUSTIÇA. INDEFERIMENTO DO PEDIDO. RENOVAÇÃO EM RECURSO DE APELAÇÃO. NECESSIDADE DE COMPROVAÇÃO DE MUDANÇA DA SITUAÇÃO ECONÔMICO-FINANCEIRA DA PARTE. ENTENDIMENTO DESTA CORTE SUPERIOR. INCIDÊNCIA DO ÓBICE DA SÚMULA 83/STJ. REVOLVIMENTO FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Esta Corte Superior possui entendimento de que, apesar de o pedido de gratuidade da justiça poder ser formulado em recurso, caso tenha sido negado anteriormente, é imprescindível a comprovação da mudança na situação econômico-financeira da parte, o que não ocorreu na hipótese. Precedentes.
+2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidência da Súmula n. 83 do STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.274.066/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023.)
+Mesmo que assim não fosse, rever a conclusão do Tribunal de origem quanto à configuração ou não de fraude a credores assim como a inversão do ônus da sucumbência demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+No que concerne à alegação de que imóveis de alto padrão não seriam abarcados pela impenhorabilidade do bem de família é de se observar que "O Superior Tribunal de Justiça possui entendimento no sentido de que para que seja reconhecida a impenhorabilidade do imóvel, prevista na Lei nº 8.009/1990, basta que o imóvel sirva como residência da família, sendo irrelevante se ele é ou não de elevado valor" (AgInt no AREsp n. 2.629.196/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO - INSURGÊNCIA RECURSAL DO DEMANDANTE.
+1. Segundo a jurisprudência desta Corte Superior, os imóveis residenciais de alto padrão ou de luxo não estão excluídos, em razão do seu valor econômico, da proteção conferida aos bens de família. Incidência da Súmula 83 do STJ.
+2. Agravo interno provido para reconsiderar a decisão singular da Presidência desta Corte e, de plano, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.664.129/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/12/2024, DJEN de 13/12/2024.)
+Assim, como bem esposado pelo TJPR, "não há divergência acerca da condição de bem de família do imóvel objeto da discussão" (fl. 435), portanto o bem é impenhorável independentemente do seu valor.
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial na parte conhecida.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 14% sobre o valor da causa.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EMBARGOS DE TERCEIRO. INVERSÃO DO ÔNUS DA PROVA E CONFIGURAÇÃO DE FRAUDE A CREDOR. MATÉRIA NÃO PREQUESTIONADA PELA CORTE DE ORIGEM. SÚMULA N. 211/STJ. BEM DE FAMÍLIA DE ALTO VALOR. IMPENHORABILIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO NA PARTE CONHECIDA.
