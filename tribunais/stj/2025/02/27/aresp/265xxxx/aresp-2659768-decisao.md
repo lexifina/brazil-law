@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 352):
+"APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANO MORAL E TUTELA DE URGÊNCIA. INSCRIÇÃO DO NOME DA AUTORA NO SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL (SCR). SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES. RECURSO DA PARTE RÉ. PRELIMINAR DE DELIMITAÇÃO DA LIDE. MATÉRIA QUE SE CONFUNDE COM O MÉRITO, DEVENDO COM ELE SER ANALISADA. MÉRITO. AVENTADA EXISTÊNCIA E VALIDADE DA CONTRATAÇÃO DO EMPRÉSTIMO. INSUBSISTÊNCIA. RÉ QUE DEIXOU DE APRESENTAR SUBSTRATO PROBATÓRIO DA RELAÇÃO CONTRATUAL QUESTIONADA, ÔNUS QUE LHE INCUMBIA (ART. 373, II, DO CPC). ALEGADA LICITUDE DA INSCRIÇÃO NO SCR, SOB O FUNDAMENTO DE QUE NÃO POSSUI CARÁTER RESTRITIVO. REJEIÇÃO. SISTEMA QUE POSSUI NATUREZA DE CADASTRO RESTRITIVO DE CRÉDITO. ATUAÇÃO ILÍCITA DEMONSTRADA. DANO MORAL IN RE IPSA. DEVER DE INDENIZAR CONFIGURADO. IRRESIGNAÇÃO MÚTUA EM RELAÇÃO A O QUANTUM INDENIZATÓRIO. PRETENDIDA MINORAÇÃO PELA RÉ E MAJORAÇÃO PELA AUTORA. ELEVAÇÃO PARA R$ 10.000,00 (DEZ MIL REAIS), EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE, BEM COMO AOS PRECEDENTES DESTA CORTE EM CASOS ANÁLOGOS. ADEQUAÇÃO DA SENTENÇA NESTE PARTICULAR. HONORÁRIOS RECURSAIS CABÍVEIS. RECURSO DA RÉ CONHECIDO E DESPROVIDO. RECURSO DA AUTORA CONHECIDO E PARCIALMENTE PROVIDO."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 381-384).
+Nas razões do recurso especial, a parte agravante alegou violação dos arts. 186, 187, 188, I, 421, 422, e 927 do Código Civil de 2002, bem como a existência de divergência jurisprudencia.
+Sustentou, em síntese, que "a Recorrente apresentou argumentos/trechos de documentos que conferem validade/legitimidade à contratação 095000157142 na medida em que apresentou argumentos/trechos de documentos que conferem validade/legitimidade à contratação 095000157142 na medida em que comprovou a realização da contratação por meio eletrônico e a concessão do crédito em favor da Recorrida"; a inexistência de danos morais, uma vez que "trata-se de um DEVER LEGAL por parte da Recorrente, a inclusão do nome da Recorrida no SCR-BACEN não se configura como ato ilícito e não pode de forma alguma justificar a condenação em danos morais, situação que vem sendo reconhecida pelo Poder Judiciário".
+Foram apresentadas contrarrazões (e-STJ, fls. 516-517).
+É o relatório. Decido.
+Quanto à validade do contrato e a caracterização de danos morais, o Tribunal de origem, consignou o seguinte (e-STJ, fls. 347-350):
+"A preliminar confunde-se com o mérito, razão pela qual com ele será analisada.
+Na hipótese, a autora ingressou com ação declaratória de inexistência de débito c/c dano moral e tutela de urgência, sustentando, em suma, que teve seu nome inscrito indevidamente no Sistema de Informação de Crédito do Banco Central (SCR), porquanto não possuía débitos com a ré.
+A sentença, como visto, julgou procedentes os pleitos inaugurais para declarar inexistente o débito discutido nos autos, determinar a retirada do nome da autora do cadastro do SCR, bem como condenar a ré ao pagamento de R$ 5.000,00 (cinco mil reais) a título de indenização por danos morais.
+(..)
+De plano, cumpre salientar que o Sistema de Informações de Crédito (SCR) é gerido pelo Banco Central e alimentado mensalmente pelas instituições financeiras, o que permite a supervisão bancária e a adoção de medidas preventivas, aumentando a eficácia de avaliação dos riscos inerentes à atividade.
+E conquanto alegue a recorrente a ausência de caráter restritivo do apontamento, sabe-se que a inscrição de débito no referido sistema equipara-se à inserção de dados em cadastro de restrição ao crédito.
+Nesse sentido, a jurisprudência já sedimentou que "a inscrição no Sisbacen é semelhante àquelas realizadas nos cadastros restritivos, porquanto inviabiliza a concessão de crédito ao consumidor" (AgRg no AREsp 652.943/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, j. em 15-9-2015).
+A parte ré sustenta a licitude do apontamento, porquanto afirma ser decorrente da inadimplência da parte autora referente ao contrato de empréstimo n. 095000157142, firmado em 13/08/2018.
+Ocorre que, compulsando o caderno processual, vê-se que a recorrente não trouxe prova da existência da dívida em questão, um vez que os contratos de empréstimo apresentados não se encontram assinados (evento 12, Contrato 7 e Contrato 9, autos de origem).
+A demandada afirma que referida contratação ocorreu por meio totalmente digital, todavia, deixou de acostar informações como endereço do IP, da geolocalização, biometria facial (selfie), digitalização de documento pessoal, utilização de senha pessoal e usuário.
+À vista disso, resta evidente que a apelante não se desincumbiu de comprovar fato extintivo, modificativo ou impeditivo do direito da autora, ônus que lhe incumbia, a teor do art. 373, II, do CPC.
+De mais a mais, conforme bem consignou o Togado de piso, " ..  ainda que a ré tivesse êxito na demonstração da validade do contrato de empréstimo que deu origem à inscrição, o que não é o caso dos autos, infere-se através de suas próprias argumentações que a suposta dívida foi liquidada ainda em março/2020 e, portanto, a sua permanência no respectivo banco de dados até 23/12/2022 (data da consulta realizada - Evento 1 - DOCUMENTACAO5 e DOCUMENTACAO6) demonstra-se absolutamente irregular."
+Nesse cenário, mostra-se indevida a cobrança dos débitos e, em consequência, ilícito o registro do nome da requerente no Sistema de Informações de Crédito do Banco Central (SCR).
+(..)
+Nesse rumo, impõe-se o reconhecimento de que a inscrição foi indevida e que houve ato ilícito passível de indenização.
+(..)
+In casu, sendo o SCR instituição restritiva de crédito, a sua inscrição indevida gera dano moral in re ipsa.
+(..)
+Assim, tendo em vista os princípios da razoabilidade e da proporcionalidade, bem como a extensão do dano, entendo razoável majorar o quantum indenizatório ao importe de R$ 10.000,00 (dez mil reais), seguindo o entendimento deste Sodalício em casos análogos." (Sem grifo no original).
+Desse modo, a modificação do entendimento lançado no v. acórdão recorrido, quanto a inexistência de dívida e a ocorrência de danos morais, demandaria o revolvimento de suporte fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é inviável na sede estreita do recurso especial, a teor do que dispõe as Súmulas 5 e 7 do Superior Tribunal de Justiça.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C NULIDADE CONTRATUAL E RESTITUIÇÃO E INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. AUSÊNCIA DE INFORMAÇÕES CLARAS E PRECISAS. VIOLAÇÃO DO DEVER DE INFORMAÇÃO CONSTATADO. REVISÃO. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO PREJUDICADO. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA N. 83 DO STJ.
+1. A reforma do julgado quanto à regularidade do contrato mostra-se inviável, pois seria necessário o revolvimento do conjunto fático-probatório bem como das cláusulas contratuais, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+2. A jurisprudência do STJ estabeleceu que, nas ações revisionais de contrato de empréstimo pessoal nas quais se discute a legalidade das cláusulas pactuadas, a contagem do prazo prescricional decenal tem início a partir da data da assinatura do contrato. Incidência da Súmula n. 83/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.668.346/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/12/2024, DJEN de 5/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA C/C RESTITUIÇÃO DO INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de inexistência de débito c/c pedido de anulação de contrato, restituição de valores e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais, em recurso especial, é inadmitido, ante o óbice das Súmulas 5 e 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.538.999/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Por fim, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional.
+Nessa linha de intelecção, destacam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. CONFIGURAÇÃO DO DANO IMATERIAL. QUANTUM INDENIZATÓRIO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. DISSÍDIO PREJUDICADO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões do acórdão recorrido, que concluiu pela configuração do dano imaterial, em razão da existência de prejuízos à agravada causados pela indevida interrupção do tratamento médico, exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+2. Consolidou-se no STJ o entendimento de que, em âmbito de recurso especial, os valores fixados a título de indenização por danos morais, porque arbitrados com fundamento nas peculiaridades fáticas de cada caso concreto, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade. É o caso.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.351.877/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente de 17% para 20% sobre o valor da condenação.
+Publique-se.
+EMENTA
