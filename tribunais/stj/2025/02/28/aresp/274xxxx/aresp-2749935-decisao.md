@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por SULTEPA CONSTRUÇÕES E COMÉRCIO LTDA E OUTROS contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO INTERNO. DECISÃO MONOCRÁTICA EM AGRAVO DE INSTRUMENTO. RAZÕES DE AGRAVO INTERNO QUE NÃO ATACAM O FUNDAMENTO DA DECISÃO RECORRIDA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AUSENTE PRESSUPOSTO DE ADMISSIBILIDADE RECURSAL.
+CONFORME DISPOSTO NO ART. 1.021, § 1º DO CÓDIGO DE PROCESSO CIVIL, NA PETIÇÃO DE AGRAVO INTERNO, O RECORRENTE IMPUGNARÁ ESPECIFICADAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA, O QUE, A TODA EVIDENCIA, NÃO RESTOU ATENDIDO NO PRESENTE CASO, VISTO QUE O AGRAVANTE APENAS REEDITOU AS ALEGAÇÕES EXPENDIDAS NO AGRAVO DE INSTRUMENTO, SEM ATACAR PONTUALMENTE OS FUNDAMENTOS DA DECISÃO MONOCRÁTICA RECORRIDA. LOGO, RESTA CARACTERIZADA IRREGULARIDADE FORMAL DA PRESENTE INSURGÊNCIA, A IMPEDIR O SEU CONHECIMENTO.
+AGRAVO INTERNO DESPROVIDO." (e-STJ, fl.800)
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 6º, 188 e 277, do CPC, sustentando, em síntese, que "há evidente enfrentamento das razões postas na decisão monocrática, caracterizando a admissibilidade do recurso em adequação ao princípio da dialeticidade.(..)ainda que se cogitasse da hipótese de reprodução dos argumentos postos na petição inicial, da leitura do texto é perfeitamente compreensível os motivos para reformar a sentença, atendendo ao ditado pelos arts. 188 e 277 do Código de Processo Civil" (e-STJ, fl. 827)
+É o relatório. Decido.
+No que tange à alegação violação dos arts. 6º, 188 e 277, do CPC, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento do teor dos dispositivos legais citados, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja, o prequestionamento (Enunciados Sumulares n. 282 e n. 356 do C.STF). Por oportuno, leiam-se estes julgados:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático- probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
