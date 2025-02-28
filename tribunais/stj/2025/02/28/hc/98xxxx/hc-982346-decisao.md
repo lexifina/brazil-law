@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de LINCOLN DE SOUZA SIMÕES, em que se aponta como autoridade coatora a o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/06, à pena de 6 anos, 6 meses e 22 dias de reclusão no regime inicial fechado, além da pena pecuniária de 657 dias-multa.
+A defesa alega que a prisão foi efetuada por guardas civis municipais, que teriam atuado fora de suas atribuições, o que levaria à exclusão da prova da autoria e da materialidade, e à subsequente absolvição (fl. 5).
+Argumenta que não há testemunhas imparciais ou qualquer outro elemento probatório que confirme a suposta transação de drogas, tornando temerário basear uma condenação exclusivamente na palavra dos agentes públicos (fl. 5).
+Alega ainda que a acusação se fundamenta exclusivamente na palavra de um suposto comprador, cuja identidade sequer foi esclarecida nos autos, e que não há gravações, trocas de mensagens ou qualquer outro meio de prova que demonstre que o réu realizava a venda de entorpecentes (fl. 6).
+Sustenta que a busca pessoal realizada pela GCM foi ilegal, pois não houve fundada suspeita que a justificasse, e que a GCM não possui competência constitucional para realizar investigações ou atuar na repressão geral do delito (fls. 7-8).
+No mérito, a defesa requer a concessão da ordem para declarar nulas as provas obtidas por meio da busca pessoal ilegal, absolvendo-se o paciente nos termos do art. 386, II ou V, do CPP (fl. 13).
+É o relatório.
+Consta do acórdão impugnado o seguinte relato e fundamentação (fls. 16-17):
+O reclamo defensivo é voltado à absolvição, sob a tese pautada na insuficiência probatória. Pleito subsidiário destinado à desclassificação para a figura do art. 28 da Lei Antidrogas e redução da pena e atenuação do regime prisional (fls. 165/177).
+(..)
+A denúncia atribui ao réu a conduta ocorrida em 22/10/2023, alusiva a trazer consigo drogas variadas, distribuídas entre cocaína e maconha (pouco mais de 400 gramas), além da quantia de R$ 252,00. A pretensão recursal não merece acolhida. Com efeito, tanto a materialidade quanto a autoria delitiva restaram incontestes a partir do robusto acervo probatório reunido nos autos. Os guardas municipais Edilson e Emerson pontuaram as circunstâncias da ocorrência, declinando a visualização de típica cena de venda de drogas envolvendo duas pessoas (uma entrega algo a outra e recebe outra coisa na sequência) com abordagem primeiramente do comprador da droga, o qual indicou de quem e qual valor dispendeu. Houve apoio então de outra viatura, ocasião em que na aproximação o réu jogou a sacola com drogas no chão e em sua posse localizaram ainda a quantia em dinheiro.
+Já a negativa do réu restou isolada e desprovida de suporte fático-probatório. Diante de tal cenário fático-probatório, imperiosa se revela a manutenção da condenação pelo delito de tráfico de drogas, sem qualquer margem, ademais, para a desclassificação pleiteada, porquanto testemunhada a venda de drogas promovida pelo apelante.
+Conforme se verifica do excerto citado, a matéria debatida nesta impetração, relativa à ilegalidade da atuação da guarda municipal para fins de prevenção de delitos, na forma em que veiculada, não foi apreciada no ato judicial impugnado, o que impede o conhecimento do pedido pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA DECLARADA NULA. NECESSIDADE DE REALIZAÇÃO DE NOVA AUDIÊNCIA DE INSTRUÇÃO DE JULGAMENTO. IMPEDIMENTO DO JUÍZO DE PRIMEIRO GRAU E DESEMBARGADORES QUE ATUARAM ORIGINARIAMENTE NO FEITO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DO JUÍZO DE CONHECIMENTO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito defensivo relativo à declaração de impedimento dos julgadores não foi analisado pelas instâncias ordinárias, o que obsta a análise diretamente por este Tribunal Superior, sob pena de indevida supressão de instância, sendo certo que o incidente de impedimento ou suspeição deve ser requerido junto ao Juízo que conduzirá o processo, mediante demonstração do justo impedimento, a teor do disposto no Código de Processo Penal. Precedentes.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 805.331/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024 - grifo próprio.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MATÉRIAS DEDUZIDAS NO WRIT QUE NÃO FORAM APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não tendo sido abordada, pelo Tribunal de origem, a nulidade vergastada sob o ângulo pretendido na impetração, resta inviável seu conhecimento per saltum por esta Corte Superior. Supressão de instância inadmissível.
+2. Precedentes de que, até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+3. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 906.517/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024 - grifo próprio.)
+Ademais, é pacífico o entendimento do Superior Tribunal de Justiça de que o habeas corpus, porquanto vinculado à demonstração de plano da ilegalidade alegada, exige provas pré-constituídas dos elementos fáticos essenciais para a apreciação do pedido, sendo ônus da parte impetrante juntar a documentação necessária no momento da impetração.
+No caso, note-se que a impetrante não trouxe aos autos cópia da petição de apelação, a fim de demonstrar que a matéria suscitada foi objeto de questionamento perante a Corte local, o que impede a análise da controvérsia nessa sede mandamental por deficiência de instrução.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
