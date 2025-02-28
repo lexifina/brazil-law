@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por ANEI ALVES DA CONCEICAO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (HC n. 1418908-76.2024.8.12.0000).
+Depreende-se dos autos que a parte recorrente é acusada pela suposta prática do delito previsto no art. 2º, da Lei 12.850/2013.
+O prévio writ teve a ordem denegada nos termos da ementa abaixo (fl. 493):
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PEDIDO DE EXPEDIÇÃO DE OFÍCIO AO JUÍZO DA COMARCA DE PRIMAVERA DO LESTE/MT. AUSÊNCIA DE COMPROVAÇÕES MÍNIMAS. SUSPENSÃO DA AÇÃO PENAL INCABÍVEL. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA.
+I - Mostra-se inadequado o pedido de expedição de ofício ao Juízo da Comarca de Primavera do Leste/MT quando a defesa não apresentou sequer o extrato da Ação Penal. Observa-se, também, que não há qualquer negativa de acesso aos autos por parte daquele Juízo, sendo certo, ademais, que se a paciente fosse ré da referida ação, com certeza teria advogado constituído, possuindo acesso aos autos.
+II - Não comprovada a necessidade de expedição de oficio ao juízo de Primavera do Leste/MS, bem como não havendo qualquer ilegalidade ou abuso de poder no ato atacado, por consequência, também não há que se falar em suspensão da Ação Penal n.º 0030875-18.2015.8.12.000.
+III - Com o parecer, ordem denegada.
+A Defesa alega, em síntese, que foi indevidamente indeferido o pedido de expedição de ofício para solicitação de cópia dos autos da Ação Penal de n. 0002250-53.2016.8.11.0037 que tramita na Comarca Primavera do Leste/MT.
+Salienta que o acesso aos autos seria relevante para permitir a verificação e aplicação das regras de prevenção/conexão em relação aos processos da intitulada "Operação Ouro de Ophir".
+Requer, liminarmente, a suspensão do trâmite da ação penal n. 030875- 18.2015.8.12.0001 e, no mérito, o provimento do recurso ordinário para que seja determinada a expedição de ofício ao Juízo da Comarca de Primavera do Leste/MS, solicitando que seja compartilhado uma via integral dos autos 0002250-53.2016.8.11.0037.
+É o relatório. DECIDO.
+Da leitura dos autos, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, qual seja, o direito da defesa de acessar os autos n. 0002250-53.2016.8.11.0037 a fim de verificar a obediência às regras de prevenção. A Corte local considerou que não houve comprovação do extrato da ação penal que se pretende acessar e nem de que o pedido defensivo tenha sido efetivamente formulado e indeferido pelo juízo.
+Confira-se o excerto do acórdão proferido pelo Tribunal estadual, verbis (fl. 495):
+De fato, em análise aos elementos constantes nos autos, observa-se que a defesa, até o momento, não apresentou o extrato da Ação Penal, supostamente, distribuída ao juízo de Primavera do Leste/MS.
+Ademais, os e-mails juntados pela defesa, ainda não comprovam que tenha formulado pedido aquele juízo, tampouco que este tenha sido indeferido. Por fim, é certo que se a paciente fosse ré da referida ação, com certeza teria advogado constituído, possuindo acesso aos autos.
+Assim, não comprovada a necessidade de expedição de oficio ao juízo de Primavera do Leste/MS, bem como não havendo qualquer ilegalidade ou abuso de poder no ato atacado, por consequência, também não há que se falar em suspensão da Ação Penal n.º 0030875-18.2015.8.12.000.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que:
+"o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Com relação à comprovação documental das alegações, é certo que o habeas corpus e o seu recurso ordinário não constituem medida adequada e cabível para o deslinde de temas que exigem dilação probatória . Desse modo, não pode o Superior Tribunal de Justiça averiguar, ainda mais em sede de habeas corpus, se a defesa se desincumbiu do ônus de comprovar suas alegações.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
