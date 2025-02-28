@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por RBB REPRESENTACOES COMERCIAIS LTDA. contra decisão que negou seguimento ao recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 884):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E CANCELAMENTO DE APONTAMENTO DE TÍTULO A PROTESTO. PROCEDÊNCIA À ORIGEM. RECURSO DA PARTE RÉ. TÍTULO EMITIDO SEM JUSTA CAUSA. INEXISTÊNCIA DE NEGÓCIO SUBJACENTE A JUSTIFICAR A EMISSÃO DO PROTESTO. ALEGAÇÃO DA RÉ QUE O TÍTULO FOI EMITIDO EM RAZÃO DE PRESTAÇÃO DE SERVIÇO. AUSÊNCIA DE PROVA DE RELAÇÃO NEGOCIAL A EMBASAR A EMISSÃO DO TÍTULO. DISTRIBUIÇÃO DINÂMICA DA PROVA (ART. 373, §1º, DO CÓDIGO DE PROCESSO CIVIL/2015). FACILIDADE DE PRODUÇÃO PELA PARTE AUTORA. NÃO ACOLHIMENTO. EMPRESA RÉ QUE POSSUI MELHORES CONDIÇÕES DE CUMPRIR O ENCARGO PROBATÓRIO. ÔNUS DA PROVA PERTENCENTE A DEMANDADA. RECURSO CONHECIDO E DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 890-896), a parte recorrente sustentou violação aos arts. 369 e 373, § 1º, do CPC/15, alegando ser necessária nova distribuição do ônus da prova, porquanto a produção de provas que a sentença exigiu é impossível e caracteriza prova diabólica.
+Oferecidas as contrarrazões às fls. 906-917 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 960-961, e-STJ), o que ensejou o manejo do presente agravo (fls. 967-974, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 979-987 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. O Tribunal de origem, ao apreciar a controvérsia, constatou o seguinte (e-STJ, fl. 882):
+Com efeito, verifica-se que não houve nenhuma relação negocial subjacente entre as partes, a amparar a emissão do título. A mera alegação da ré quanto a prestação de serviços à empresa autora não é suficiente para justificar a emissão do título, sendo imprescindível a apresentação da nota fiscal/fatura da efetiva prestação do serviço (AC n. 2015.004515-8, de Itajaí, rel. Saul Steil, Primeira Câmara de Direito Civil, j. 07-4-2016). A ausência de prova de negócio jurídico subjacente ou existência de nota fiscal/fatura mercantil ou de prestação de serviço a amparar a emissão da do título, leva à segura conclusão de que efetivamente não houve negociação precedente entre as partes.
+(..)
+Ademais, tocante à distribuição dinâmica do ônus da prova, sua utilização é realizada em determinadas situações, no intento de afastar-se a rigidez estática do encargo pro batório, adotando critério mais flexível. A doutrina o denomina, pois, de ônus dinâmico da prova, atribuindo-o, de maneira diversa do sistema ordinário da lei, à parte que realmente esteja em condições de melhor esclarecer os fatos relevantes da demanda (CPC/2015, art. 373, § 1º). Ou seja: cabe o ônus da prova à parte que apresentar maior facilidade em produzi-la. (AC n. 0028191-71.2012.8.24.0008, de Blumenau, desta Relatoria, Quinta Câmara de Direito Civil, j. 30-6-2020). Nessas condições, atento à pretensão inicial e à controvérsia estabelecida, incontestável que a parte requerida/apelante é quem detém melhores condições de trazer e apresentar os elementos necessários à solução do litígio, mormente em razão de possuir maior capacidade técnica para formar a convicção do Julgador.
+Com efeito, não há que se rediscutir a distribuição do ônus da prova em sede de recurso especial. Isso porque "a Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017).
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ACIDENTE FERROVIÁRIO. MORTE. ART. 1.022 DO NCPC. INOCORRÊNCIA DE FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. INAPLICABILIDADE. ART. 343 DO NCPC. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ QUANTO A INVERSÃO DO ÔNUS PROBATÓRIO E A ALEGADA CULPA EXCLUSIVA DA VÍTIMA, QUE NÃO FOI RECONHECIDA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO PARCIALMENTE NÃO PROVIDO.
+(..)
+3. Nos termos do art. 373, I e II, do NCPC, incumbe ao autor o ônus da prova quanto ao fato constitutivo do direito alegado, ao passo que cabe ao réu o ônus de demonstrar a ocorrência de algum fato impeditivo, modificativo ou extintivo do direito do autor.
+4. Não é possível reverter a conclusão do Tribunal estadual, para acolher a pretensão recursal, a respeito do ônus probatório, pois essa providência demandaria o revolvimento dos fatos da causa. Incidência da Súmula nº 7 do STJ.
+(..)
+8. Agravo interno parcialmente provido.
+(AgInt no AREsp 1644649/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ADIMPLEMENTO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. A ausência de indicação do dispositivo de lei violado ou de interpretação controvertida caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF.
+2. Conforme entendimento desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15, sem incursão no conjunto probatório dos presentes autos. Incidência da Súmula 7/STJ.
+3. Rever as conclusões a que chegou a Corte de origem quanto à ausência dos documentos aptos a comprovar a relação jurídica entre as partes, bem como fato constitutivo de direito, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 desta Corte.
+4. Nos termos da jurisprudência deste STJ, ausente a comprovação documental do negócio jurídico alegado pelo autor, não ha falar em extinção sem julgamento de mérito, mas sim em improcedência da ação, uma vez que, no procedimento ordinário, vocacionado à ampla produção de provas, é possível alcançar-se o mérito da questão em face de outros elementos probatórios produzidos nos autos. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1560693/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020)
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
