@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRE CARLOS BEZERRA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 1502110-31.2022.8.26.0161 (fls. 392/401), que negou provimento ao recurso da defesa, e condenou o réu às penas de 2 anos, 10 meses e 4 dias de reclusão, no regime fechado, e 6 dias-multa, pela prática do delito do art. 157, § 2º, II, c/c o art. 14, II, ambos do CP.
+No recurso especial (fls. 410/415), a defesa requereu, em síntese, o provimento do recurso, para reconhecer a negativa de vigência aos arts. 6º, incisos II e III e 118 ambos do Código de Processo Penal, ou remeter os autos ao Tribunal de Justiça de São Paulo para que o faça.
+Inadmitido o recurso na origem (fls. 428/430), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 436/450).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 469/470), em parecer com a seguinte ementa:
+ARESP. PENAL E PROCESSO PENAL. CRIME DE ROUBO. SÚMULA 284/STF. SÚMULAS 282 E 356 DO STF. SÚMULA 7/STJ. - A impugnação da defesa não merece acolhida, em face da aplicação da decisão que deixou de admitir o recurso especial. - Parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Conheço do agravo, porquanto presentes os pressupostos para sua admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Todavia, o recurso especial não merece ser conhecido.
+Da leitura das razões não se permite inferir, com a suficiência necessária, as razões para reforma do acórdão de origem. Em suas razões, aponta de forma genérica a ofensa ao art. 6º, II e III do CPP (fls. 413/414):
+Assim, frontalmente vulnerado - pela altamente deficitária atuação da polícia investigativa - o disposto no artigo 6º, incisos II e III do CPP - já expressamente prequestionado nas razões de apelação, pois que, além de ter por dever colher todas as provas que servirem para o esclarecimento do fato e suas circunstâncias, a autoridade policial deverá, logo que tiver conhecimento da prática de infração penal, aprender os instrumentos e todos os objetos que tiverem relação com o fato, os quais não poderiam sequer ser restituídos - caso tivessem sido apreendidos - enquanto interessassem à prova, a revelar total menoscabo também ao previsto no artigo 118, do CPP, também neste ato expressamente prequestionado.
+Ora, Excelências, os instrumentos e objetos apreendidos que interessam à prova do crime e respectiva autoria deverão acompanhar os autos do inquérito policial - artigo 6º, incisos II e III, do CPP -, justamente porque tal providência permitirá ao juiz e às partes seu exame, quer diretamente, quer por perícia (sindicabilidade), e não poderão ser restituídos enquanto interessarem à prova (artigo 118 do CPP).
+Foram essas as razões do especial, sem que nenhuma alusão específica ao caso dos autos, relativamente à forma pela qual se deu a vulneração aos dispositivos de lei apontados. Ou seja, a alusão genérica, nos autos, à afronta a dispositivo de lei vulnerado, sem o cotejo analítico com as circunstâncias específicas do caso dos autos, não permite a compreensão das razões do recurso, fazendo incidir o enunciado da Súmula 284/STF ao caso presente.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. RAZÕES DE RECURSO ESPECIAL QUE NÃO PERMITEM A COMPREENSÃO DA CONTROVÉRSIA. AUSÊNCIA DE FUNDAMENTAÇÃO ESPECÍFICA ACERCA DA VULNERAÇÃO DOS DISPOSITIVOS APONTADOS. SÚMULA 284/STF.
+Agravo conhecido para não conhecer do recurso especial.
