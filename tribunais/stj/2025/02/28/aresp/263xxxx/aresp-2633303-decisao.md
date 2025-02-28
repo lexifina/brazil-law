@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por MAIRI BRISOLA contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 236):
+APELAÇÕES CÍVEIS. AÇÃO INDENIZATÓRIA. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DE AMBAS AS PARTES. RECURSO DA PARTE RÉ. SUSCITADA A REFORMA DO JULGADO PARA EXCLUIR A CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS. PARTE RÉ QUE PROFERIU OFENSAS E XINGAMENTOS ÀS AUTORAS. RESPONSABILIDADE DE INDENIZAR BEM EVIDENCIADA. PLEITO IMPROCEDENTE. RECURSO DAS AUTORAS. PLEITEADA A MAJORAÇÃO DO VALOR DA INDENIZAÇÃO. NECESSIDADE DE MAJORAÇÃO DO VALOR, COM BASE NA EXTENSÃO DO DANO. PARCIAL REFORMA DO JULGADO NO PONTO. HONORÁRIOS RECURSAIS. VIABILIDADE. REQUISITOS CUMULATIVOS PREENCHIDOS. MAJORAÇÃO DA VERBA HONORÁRIA NOS TERMOS DA FUNDAMENTAÇÃO. RECURSO DA RÉ CONHECIDO E DESPROVIDO. RECURSO DA PARTE AUTORA CONHECIDO E PROVIDO EM PARTE.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 489, § 1º, III, do Código de Processo Civil/2015, sustentando a ausência de fundamentação do Tribunal de origem para fins de fixação da indenização por danos morais no valor de R$ 6.000,00 (seis mil reais) para cada recorrida.
+Afirma a negativa de vigência do art. 944 do Código Civil, uma vez que é notória inadequação ao se definir o valor da condenação.
+Contrarrazões apresentadas.
+O recurso não foi admitido em virtude da ausência de violação ao art. 489 do CPC/2015 e do óbice da Súmula 7 do STJ.
+Nas razões deste agravo, a parte agravante impugnou os fundamentos da decisão agravada.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Quanto à suposta violação do art. 489, § 1º, III, do CPC/2015, sustentando a ausência de fundamentação do Tribunal de origem para fins de fixação da indenização por danos morais no valor de R$ 6.000,00 (seis mil reais) para cada recorrida, não merece prosperar o recurso especial, uma vez que, no caso, a questão relativa ao valor fixado foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre o assunto, ainda que em sentido contrário à pretensão da recorrente. Confira-se:
+Na situação sob enfoque, restou configurado o dano moral sofrido pelas autoras, diante da conduta ofensiva e depreciativa perpetrada por parte da ré.
+Procedendo-se à análise das peculiaridades da circunstância, constata-se serem as lesadas auxiliares de serviços gerais, litigando no feito sob o manto da assistência judiciária gratuita.
+Por outro viés, a demandada é analista do seguro social, servidora federal, nomeada em caráter efetivo há mais de 15 anos e lotada para serviços de recursos humanos (evento 7, OUT3).
+Portanto, ao considerar as particularidades do litígio, a condição econômica de ambas as partes, a amplitu de do dano sofrido e a responsabilidade pelo ressarcimento, entende-se pela reforma do julgado.
+Visando a valoração equânime ao dano sofrido pelas autoras, entendo pela readequação do valor indenizatório ao patamar de R$ 6.000,00 para cada autora, de modo a não gerar excessiva valoração e tampouco, desvalia ao patrimônio moral das ofendidas  ..  (fl. 240).
+Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Por sua vez, não há como ser acolhida a pretensão de redução do valor fixado, uma vez que a revisão pelo STJ de indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade, o que não se verifica no caso em tela, atraindo, quanto ao tema, a Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
