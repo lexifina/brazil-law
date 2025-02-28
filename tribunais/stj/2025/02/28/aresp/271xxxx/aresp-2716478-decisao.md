@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por CONDOMÍNIO RESIDENCIAL JOÃO MANOEL contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. DECISÃO DE PENHORA DOS DIREITOS CREDITÓRIOS DO IMÓVEL ALIENADO FIDUCIARIAMENTE. RECURSO DA PARTE EXEQUENTE. 1. ALEGADA A OCORRÊNCIA DE PRECLUSÃO PRO JUDICATO. RECHAÇAMENTO. NOVA DECISÃO PROFERIDA APÓS O COMPARECIMENTO E A MANIFESTAÇÃO DA CAIXA ECONÔMICA FEDERAL, CREDORA FIDUCIÁRIA, SOBRE A PENHORA DE BEM DE SUA PROPRIEDADE. INOCORRÊNCIA DE PRECLUSÃO, NO CASO. DECISUM MANTIDO. 2. RECURSO CONHECIDO E DESPROVIDO.
+Em suas razões de recurso especial, a parte agravante alega violação ao art. 505, do CPC/2015, sustentando, em síntese, isto: (I) "(..) observa-se que o desacerto da decisão agravada está consubstanciado no fato de que o juiz singular decidiu novamente matéria que já havia sido objeto de decisão na mesma lide. E conforme salientado, nos termos do art. 505 do CPC, nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide, salvo nas hipóteses previstas nos incisos do mencionado dispositivo" (fl. 155); (II) "Não havia fatos novos a ensejar a modificação da decisão primeira, até porque a controvérsia existente sobre a matéria ao tempo da prolatação da decisão já existia - possibilidade de penhora da própria unidade, independente do gravame da alienação fiduciária, junto ao STJ" (fl. 157).
+É o relatório. Decido.
+Com relação à alegação de manutenção da penhora sobre a integralidade do imóvel e não apenas sobre os direitos contratuais, o eg. Tribunal de origem entendeu isto:
+O agravante sustenta a ocorrência de preclusão consumativa, haja vista o Juízo de origem ter decidido anteriormente pela possibilidade de penhora do imóvel alienado fiduciariamente. Sobreleva que a possibilidade de rediscussão da matéria está limitada às hipóteses do art. 505 do Código de Processo Civil, as quais não se adequam ao caso concreto.
+Contudo, razão não lhe assiste.
+Não se vislumbra a preclusão consumativa, uma vez que o posicionamento adotado na decisão do EVENTO 79 - de que a penhora deve recair apenas sobre os direitos aquisitivos do imóvel alienado fiduciariamente - deu-se em virtude do pedido da Caixa Econômica Federal, na qualidade de credora fiduciária, de levantamento da constrição de bem de sua propriedade (EVENTO 76, PG). No momento da prolação dos interlocutórios anteriores (EVENTOS 49 e 59, PG) a Instituição Financeira não se encontrava cadastrada nos autos como interessada e não teve oportunidade de manifestar-se.
+Sem maiores delongas, veja-se julgado deste Sodalício: (..)
+Ocorre que a parte recorrente - nas razões do recurso especial - não rebateu, de forma específica e suficiente, a referida fundamentação, o que atrai, na hipótese, a incidência, por analogia, das Súmulas nº 283 e 284 do Supremo Tribunal Federal. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3.A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido."
+(AgRg no AREsp 293.137/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, , julgado em 21/10/2014, DJe 29/10/2014)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
