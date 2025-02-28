@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por IMPORT PEÇAS PARA TRATORES LTDA EPP -ENCERRADA contra decisão que negou seguimento ao recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado (e-STJ, fl. 228):
+EMBARGOS À EXECUÇÃO - TÍTULO EXTRAJUDICIAL - LOCAÇÃO - CONTRATO - PRORROGADO POR PRAZO INDETERMINADO - TÍTULO EXECUTIVO EXTRAJUDICIAL VÁLIDO - SENTENÇA REFORMADA - IMPROCEDÊNCIA DO FEITO - RECURSO PROVIDO. "O entendimento atual do Superior Tribunal de Justiça é no sentido de que a prorrogação por prazo indeterminado do contrato de locação não lhe retira a sua eficácia como título executivo extrajudicial" (STJ, REsp n. 833.619/SP, 5ª Turma, Rela. Min. Laurita Vaz, j. 11.05.2010). Nos termos do art. 85, caput e §1º, do CPC, a sentença condenará o vencido a pagar honorários ao advogado do vencedor, que serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 318-326).
+Nas razões do especial (e-STJ, fls. 348-366), a parte recorrente sustentou violação aos arts. 783 e 784 do CPC/15, defendendo que a execução não está fundada em título executivo e que o Tribunal de origem considerou eficazes contratos de locação verbais.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 379-381, e-STJ), o que ensejou o manejo do presente agravo (fls. 399-414, e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com amparo no acervo probatório e no contrato firmado entre as partes, a Corte estadual concluiu pela exigibilidade do título executivo, nos seguintes termos (e-STJ, fl. 231):
+In casu, pelo que se denota dos autos, inclusive do feito executivo, tenho, com a devida vênia, que a execução se faz legítima, não havendo que se falar na inexigibilidade do título executado.
+Digo isso, porque ao contrário do quanto alegado pela embargante, ora apelada, e, com o devido respeito, erroneamente confirmado pela condutora do feito, de que não houve a prorrogação do contrato de locação, o certo é que houveram diversas notificações extrajudiciais encaminhadas pelo embargado, ora apelante aos locadores/fiadores (id. 66577857 - pág. 129/144 - feito executivo), o que por si só, demonstra a prorrogação do contrato de locação estabelecido entre as partes, bem como da sublocação.
+Ademais, a embargante, ora recorrida não logrou êxito em demonstrar que desocup ou o imóvel quando do término contratual e muito menos que não o sublocou.
+Na verdade, este Tribunal já julgou questão semelhante, envolvendo as mesmas partes, também em embargos à execução, diga-se de passagem, em que a validade do título executivo extrajudicial foi devidamente reconhecida, senão vejamos, verbis:
+Como se vê, no presente caso, a adoção de entendimento diverso da Corte estadual, a fim de se reconhecer eventual inexistência de título executivo apto a dar prosseguimento à execução, conforme pretendido, demandaria revisar o posicionamento do Tribunal de origem quanto à interpretação do teor do referido documento, o que exigiria o reexame do acervo fático-probatório dos autos. Sendo assim, nos termos da jurisprudência desta Corte, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CRÉDITO FIXO. LIQUIDEZ, CERTEZA E EXIGIBILIDADE DO TÍTULO EXECUTIVO. CERCEAMENTO DE DEFESA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMUL A N. 7 DO STJ. TRIBUNAL DE ORIGEM. RECURSO ESPECIAL. SEGUIMENTO NEGADO. AGRAVO EM RECURSO ESPECIAL. RECURSO INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. ERRO GROSSEIRO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Rever a convicção formada pelo tribunal de origem acerca da liquidez, certeza e exigibilidade de título executivo demanda reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+2. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+3. É inadmissível o agravo em recurso especial em que a parte agravante insiste em rediscutir a matéria que tenha sido julgada em harmonia com tese definida em recurso repetitivo, sendo cabível o agravo interno no Tribunal de origem .
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.955.129/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. CONTRATO DE PARCERIA RURAL. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. EXIGIBILIDADE DO TÍTULO EXECUTIVO EXTRAJUDICIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte possui entendimento no sentido de que: " O Estatuto da Terra prevê a necessidade de notificação do arrendatário seis meses antes do término do prazo ajustado para a extinção do contrato de arrendamento rural, sob pena de renovação automática.".REsp 1277085/AL, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/09/2016, DJe 07/10/2016). Incidência da Súmula 83 do STJ.
+2. O reexame dos fundamentos do acórdão recorrido que ensejaram o reconhecimento da liquidez, certeza e exigibilidade dos títulos que embasam a execução, exigiria a análise fático - probatória dos autos, o que é inviável por esta via especial, ante o óbice da Súmula 7 desta Corte, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.786.844/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
