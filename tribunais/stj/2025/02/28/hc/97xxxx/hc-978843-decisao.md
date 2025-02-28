@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, ajuizado em benefício de JONATAN FERREIRA DE SOUZA TELES - condenado como incurso no art. 157, § 2º, II, e § 2º-A, I, do Código Penal, ao cumprimento de 8 anos de reclusão, em regime inicial fechado, e ao pagamento de 20 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro (Apelação n. 0218895-56.2019.8.19.0001), não comporta processamento.
+Com efeito, busca a impetração o reconhecimento de que o ora paciente foi vítima de coação moral irresistível ou, ao menos, de que a sua participação no delito foi mínima e não houve dolo de participação no crime mais grave. Em liminar, pugna pelo sobrestamento dos processos correspondentes aos Recursos Especial e Extraordinário interpostos em face do acórdão coator (fl. 23); e, ao final, pede a absolvição com base no art. 386, VI ou VII, do CPP, ou a aplicação do art. 29, § 2º - aplicar a pena cominada ao delito de furto (fl. 23) - ou § 1º - fazer incidir a redução  ..  em seu patamar máximo (fl. 23) - do Código Penal.
+Ocorre que, como informado pelo próprio impetrante e confirmado na página eletrônica do Tribunal estadual, o writ foi impetrado concomitantemente à interposição de recurso especial, a evidenciar ofensa ao princípio da unirrecorribilidade e utilização abusiva da via eleita, o que torna inadmissível o conhecimento do pedido.
+Ademais, não se percebe a ocorrência de constrangimento ilegal manifesto, considerando-se a impossibilidade de aprofundado reexame de provas para reverter a conclusão da Corte a quo de que as teses aqui suscitadas pela defesa não encontram amparo na prova dos autos, havendo suficiente material para a condenação nos termos em que realizada.
+Pelo exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO OU APLICAÇÃO DO ART. 29 DO CP (PENA REFERENTE AO FURTO OU DIMINUIÇÃO EM 1/3 PELA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA). INTERPOSIÇÃO SIMULTÂNEA DE RECURSO ESPECIAL CONTRA O MESMO ACÓRDÃO DO TRIBUNAL A QUO. INADMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
