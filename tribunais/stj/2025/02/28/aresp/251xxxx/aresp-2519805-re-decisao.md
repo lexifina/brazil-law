@@ -1,0 +1,68 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental, mantendo a decisão que não conheceu do agravo em recurso especial, em razão do óbice da Súmula 182/STJ.
+O julgado recorrido recebeu a seguinte ementa (fl. 6.780):
+AGRAVOS REGIMENTAIS NOS AGRAVOS EM RECURSOS ESPECIAIS. ASSOCIAÇÃO CRIMINOSA, FALSIDADE IDEOLÓGICA, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E PARTICULAR, USO DE DOCUMENTO FALSO E ADVOCACIA ADMINISTRATIVA. DEFICIÊNCIA NA IMPUGNAÇÃO À DECISÃO QUE NÃO ADMITIU OS RECURSOS ESPECIAIS. VERBETE 182 DA SÚMULA DO STJ.
+1. Nas petições de agravos de fls. 6.608-6.612, 6.613-6.625, 6.626- 6.638 e 6.599-6.606, não se demonstrou, de forma satisfatória, como seria possível acolher os argumentos dos recorrentes sem o reexame de fatos e provas, haja vista que as defesas técnicas, no geral, repetiram argumentos já expostos nas petições de recursos especiais.
+2. O agravante Wilson Moura Santos apontou o dissídio jurisprudência (art. 105, III, c, CF), mas não apresentou o devido cotejo analítico.
+3. A ausência de impugnação adequada aos fundamentos apresentados pelo Tribunal de origem, para não admitir o recurso especial, nos termos do art. 932, III do Código de Processo Civil (CPC), obsta o conhecimento do agravo, porque o propósito desse recurso é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso anterior, por meio de impugnação específica de cada um deles.
+4. Agravos regimentais improvidos.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 6.835-6.840).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LIV, LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que as decisões proferidas pelas instâncias ordinárias e pelo Superior Tribunal de Justiça não apresentaram fundamentação adequada e individualizada, utilizando-se de argumentos genéricos e padronizados, o que contraria o princípio constitucional da motivação das decisões judiciais. Além disso, menciona a violação ao devido processo legal, ao contraditório e à ampla defesa, ante a ausência de enfrentamento dos argumentos apresentados.
+Requer, assim, a admissão e o provimento do recurso.
+Apresentadas contrarrazões (fls. 6.868-6.880).
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não conheceu do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 6.783-6.785):
+A decisão agravada foi fundamentada nos seguintes termos (fls. 6.717-6.719):
+Trata-se de agravos interpostos por Bruno Barbosa de Oliveira (fls. 6.608-6.612), Douglas Souza Santos (fls. 6.613-6. 625), Raonny Almeida Santos (fls. 6.626-6.638) e Wilson Moura Santos (fls. 6.599-6.606), contra decisão que não admitiu os recursos especiais interpostos contra o acórdão assim ementado (fls. 6.339-6.342):
+APELAÇÕES CRIMINAIS - CRIMES DE ASSOCIAÇÃO CRIMINOSA (ART. 288, DO CP), FALSIFICAÇÃO IDEOLÓGICA (ART. 299, DO CP), FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E PARTICULAR (ARTS. 297 E 298, AMBOS DO CP), USO DE DOCUMENTO FALSO (ART. 304, DO CP) E ADVOCACIA ADMINISTRATIVA (ART. 321, DO CP) - SENTENÇA CONDENATÓRIA.
+ ..
+Os agravante foram condenados: a) Bruno Barbosa de Oliveira pelo crime previsto no art. 299, por 3 vezes, em concurso material de crimes, do Código Penal (CP); b) Douglas Souza Santos pelos crimes previstos no art. 288, art. 297, caput, por duas vezes, art. 298, caput, por duas vezes, e art. 321, todos do CP; c) Raonny Almeida Santos pelo crime previsto no art. 299, por duas vezes, do CP; e, d) Wilson Moura Santos pelos crimes previstos nos arts. 288, 297, por doze vezes, do CP.
+O Tribunal de origem negou provimento aos recursos de apelação das defesas técnicas, e rejeitou os embargos de declaração opostos.
+O agravante Bruno Barbosa de Oliveira interpôs recurso especial com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, alegando violação ao art. 185 e 188 do Código de Processo Penal e arts. 69 e 70 do Código Penal, e requer a aplicação da regra do concurso formal.
+Os agravantes Douglas Souza Santos e Raonny Almeida Santos interpuseram recursos especiais com fundamento no art. 105, inciso III, alíneas a, da Constituição Federal, alegando violação ao art. 158 do Código de Processo Penal e aos artigos 69 e 70 do Código Penal, e pretendem a absolvição, por ausência de prova de materialidade, ou, subsidiariamente, a aplicação da regra do concurso formal.
+Por fim, o agravante Wilson Moura Santos interpôs recurso especial com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, alegando ofensa artigos 386, do Código de Processo Penal e ao artigo 13 do Código Penal, e pede a absolvição.
+É o relatório.
+Decido.
+Os recursos especiais não foram admitidos, pois o Tribunal de origem entendeu (fls. 6.590-6.591):
+ ..
+Nesse contexto, a irresignação dos recorrentes conduz, inevitavelmente, à análise dos fatos carreados aos autos, no intuito de discutir mais uma vez o que já fora decidido nas instâncias ordinárias, o que é incompatível em sede da presente súplica excepcional, cuja função é preservar a autoridade e a unidade do direito, através de julgamento estritamente baseado em questões legais.
+Portanto, analisar a pretensão dos recorrentes, sugerindo que o STJ reveja a ótica do Tribunal é inserir , petitório de reanálise dos autos para reexaminar o conjunto fático-probatório, o que é vedado pela Súmula nº 07 do Tribunal Superior, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Veja-se os seguintes julgados:
+ ..
+Os recursos especiais não foram admitidos, pois neles pretende-se rediscutir fatos e provas, a fim de absolver os agravantes, ou aplicar a regra do concurso formal de crimes, o que encontra óbice no enunciado n. 7 da Súmula desta Corte Superior.
+Conforme consta no parecer do Ministério Público, "as razões recursais não rebatem especificamente os argumentos apresentados na decisão agravada para obstar o seguimento do recurso especial, o que reforça a necessidade de inadmissão do presente agravo" (fl. 6.711).
+Nas petições de agravos de fls. 6.608-6.612, 6.613-6.625, 6.626-6.638 e 6.599-6.606, não se demonstrou, de forma satisfatória, como seria possível acolher os argumentos dos recorrentes sem o reexame de fatos e provas, haja vista que as defesas técnicas, no geral, repetiram argumentos já expostos nas petições de recursos especiais.
+O agravante Wilson Moura Santos apontou o dissídio jurisprudência (art. 105, III, c, CF), mas não apresentou o devido cotejo analítico.
+A ausência de impugnação adequada aos fundamentos apresentados pelo Tribunal de origem para não admitir o recurso especial, nos termos do art. 932, inc. III do Código de Processo Civil (CPC), obsta o conhecimento do agravo, porque o propósito desse recurso é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso anterior, por meio de impugnação específica de cada um deles.
+Incumbe ao agravante demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada (art. 932, III, do CPC, c/c art. 3º do CPP). E, por isso, no presente caso, aplica- se o óbice do enunciado n. 182 da Súmula do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+Não há motivo para reformar a decisão agravada, porque as razões recursais não rebatem especificamente os argumentos apresentados na decisão agravada para obstar o seguimento do recurso especial, o que reforça a necessidade de inadmissão do presente agravo.
+Nas petições de agravos de fls. 6.608-6.612, 6.613-6.625, 6.626-6.638 e 6.599- 6.606, não se demonstrou, de forma satisfatória, como seria possível acolher os argumentos dos recorrentes sem o reexame de fatos e provas, haja vista que as defesas técnicas, no geral, repetiram argumentos já expostos nas petições de recursos especiais.
+O agravante Wilson Moura Santos apontou o dissídio jurisprudência (art. 105, III, c, CF), mas não apresentou o devido cotejo analítico.
+A ausência de impugnação adequada aos fundamentos apresentados pelo Tribunal de origem para não admitir o recurso especial, nos termos do art. 932, III do Código de Processo Civil (CPC), obsta o conhecimento do agravo, porque o propósito desse recurso é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso anterior, por meio de impugnação específica de cada um deles.
+Incumbe ao agravante demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada (art. 932, III, do CPC, c/c o art. 3º do CPP). E, por isso, no presente caso, aplica-se o óbice do enunciado 182 da Súmula do STJ.
+Ante o exposto, nego provi mento aos agravos regimentais (fls. 6.724-6.732 e 6.733-6.760).
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado à correta aplicação de óbices processuais pelo STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
