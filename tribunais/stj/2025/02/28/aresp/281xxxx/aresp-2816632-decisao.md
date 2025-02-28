@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15) interposto por CREFISA S/A - CREDITO, FINANCIAMENTO E INVESTIMENTO, contra decisão que não admitiu o recurso especial da insurgente.
+O apelo extremo, manejado com amparo nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 963, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL. SENTENÇA QUE JULGOU PROCEDENTES OS PEDIDOS INICIAIS. INSURGÊNCIA DA PARTE RÉ. PEDIDO DE LIMITAÇÃO DOS JUROS REMUNERATÓRIOS A UMA VEZ E MEIA A TAXA MÉDIA DE MERCADO NÃO CONHECIDO. INOVAÇÃO RECURSAL. SENTENÇA QUE DEVE SER MANTIDA DIANTE DA POSSIBILIDADE DE REVISÃO DOS CONTRATOS. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS VERIFICADOS. JUROS REMUNERATÓRIOS. LIMITAÇÃO À MÉDIA DE MERCADO NOS CASOS EM QUE NÃO HOUVER PREVISÃO CONTRATUAL ACERCA DA TAXA APLICÁVEL OU QUANDO A TAXA PACTUADA FOR ABUSIVA. ENTENDIMENTO DO STJ. SÃO ABUSIVAS AS TAXAS CONTRATADAS QUE SUPEREM DE FORMA CONSIDERÁVEL A MÉDIA DO MERCADO. PARÂMETRO. SÉRIE CORRESPONDENTE À MODALIDADE CONTRATUAL REVISADA. MANUTENÇÃO DA SENTENÇA. RECURSO DE APELAÇÃO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração foram desacolhidos (fls. 994-999, e-STJ).
+Nas razões de recurso especial (fls. 1004-1040, e-STJ), a insurgente alega, além de dissídio jurisprudencial, que o acórdão recorrido violou o artigo 421 do CC, aduzindo a impossibilidade de alteração das cláusulas contratuais, bem como a redução da taxa de juros remuneratórios tendo com base apenas a taxa média.
+Foram apresentadas contrarrazões (fls. 1140-1152, e-STJ).
+Em juízo prévio de admissibilidade, a Corte de origem negou seguimento ao apelo nobre, e o admitiu quanto quanto às demais teses (fls. 1153-1158, e-STJ). Inconformada, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 1218-1827, e-STJ.
+Foi apresentada contraminuta (flS. 1236-1246, e-STJ).
+Também foi interposto agravo interno, o qual foi desprovido (fls. 1218-1213, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Conforme se observa, a recorrente interpôs agravo interno contra decisão de inadmissibilidade que negou seguimento ao recurso especial com base na aplicação do Tema n. 27 do STJ, julgado sob o rito do recurso repetitivo.
+Ocorre que, conforme entendimento desta Corte, interposto o agravo interno contra decisão que negou seguimento ao recurso especial e tendo o referido recurso sido apreciado pelo Tribunal de origem nos termos do entendimento consolidado sob o rito dos repetitivos, não cabe nova discussão acerca da matéria, que encontra-se, portanto, preclusa.
+2. No mais, na parte não admitida, o Tribunal de origem entendeu pela aplicação da Súmula 7/STJ.
+2.1 Com efeito, a jurisprudência desta Corte é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto n.º 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF (cf. REsp n.º 1.061.530/RS, de 22.10.2008, julgado pela Segunda Seção segundo o rito dos recursos repetitivos).
+A aferição de eventual abusividade dos juros remuneratórios ajustados entre as partes se dá por força do art. 51, inc. IV, do CDC.
+Para essa tarefa, a orientação deste Tribunal Superior toma por base os parâmetros referentes à taxa média de mercado praticada pelas instituições financeiras do país, mas não a erigindo como um teto das contratações.
+Logo, para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso.
+Na hipótese, a Corte local consignou a discrepância significativa entre os juros remuneratórios estabelecidos entre as partes e a taxa média de mercado divulgadas pelo BACEN, para operações similares, à época da contratação, além da ausência de prova apta a justificar a adequação dos juros à modalidade de operação controvertida.
+A Corte estadual entendeu que havia abusividade na taxa de juros remuneratórios aplicada, consoante se extrai do seguinte trecho do aresto impugnado (e-STJ, fls. 967-968):
+À luz da jurisprudência construída neste Tribunal, a abusividade dos juros pode ser auferida em comparação com a taxa média de mercado calculada pelo BACEN, que serve como parâmetro de tendência das taxas de juros.
+No tocante ao parâmetro adotado pelo magistrado a quo para aferir a abusividade da taxa de juros remuneratórios pactuada, a taxa média de juros é aquela divulgada pelo Bacen através das séries temporais organizadas e divulgadas no SGS - Sistema Gerador de Séries Temporais, disponibilizado em: https://www3. bcb. gov. br/sgspub/consultarvalores /consultarValoresSeries. do method=consultarValores. Assim, considerando que a demanda tem por objeto vários contratos, elabora-se um quadro comparativo entre as taxas médias de mercado retiradas do site do Banco Central do Brasil e as taxas pactuadas nos contratos revisados:
+(..)
+Vale registrar que a taxa média de juros utilizada como comparativo foi aquela divulgada pelo Bacen na série 20742, denominada "Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado", e na série 25464, denominada " Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado".
+Adiante, não se ignora a argumentação do Recorrente em relação à impossibilidade de se adotar, como único e exclusivo critério, a taxa média divulgada pelo BACEN. Veja-se que, por óbvio, a taxa média representa o valor médio de uma distribuição e por isso não leva em consideração as diversas variantes que uma instituição bancária utiliza na definição das taxas de juros que serão oferecidas a seus clientes.
+(..)
+A este respeito, importa notar que, a despeito da argumentação tecida pela Recorrente quanto à necessidade de se considerar outros critérios para verificação de eventual abusividade, esta não apontou quaisquer particularidades que, in casu , pudessem justificar as taxas de juros em valores demasiadamente superiores à média do mercado.
+Assim, a Corte local analisou a taxa de juros remuneratórios no contrato celebrado de maneira fundamentada, restando configurada a abusividade alegada com base nos elementos concretos dos autos, de maneira que rever tal entendimento demandaria promover a interpretação das cláusulas contratuais, bem como o reexame do arcabouço fático probatório dos autos, providências vedadas na via eleita, a teor dos óbices das Súmulas 5 e 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE. NÃO CARACTERIZAÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. O Tribunal de origem, mediante a análise da prova dos autos e os parâmetros definidos no Recurso Especial Repetitivo n. 1.061.530/RS a respeito dos juros remuneratórios em contratos bancários, afastou a alegação de abusividade da taxa cobrada, afirmando, inclusive, a contratação abaixo da média de mercado divulgada pelo Bacen. Desse modo, a alteração do desfecho conferido ao processo atrai o óbice das mencionadas súmulas.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1312897/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/09/2019, DJe 03/10/2019)  grifou-se
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. REVISÃO. SÚMULA 7/STJ. DESCARACTERIZAÇÃO DA MORA. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+1. O STJ consolidou o seguinte entendimento em julgamento de demanda repetitiva: "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados." (REsp 1.112.879/PR, Rel. Ministra Nancy Andrighi, Segunda Seção, Dje de 19.5.2010)
+2. Na hipótese, o Tribunal de origem reconheceu a abusividade da taxa de juros remuneratórios ao avaliar o contexto fático e probatório dos autos, razão pela qual a revisão da conclusão adotada esbarra no óbice descrito na Súmula 7/STJ.
+3. "O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios) descaracteriza a mora". (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, DJe de 10.3.2009).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1412287/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/09/2019, DJe 18/09/2019)  grifou-se
+Incide, no ponto, o óbice da Súmula 7/STJ.
+Do mesmo modo, impossível apreciar a alegada divergência interpretativa, também porque a incidência da Súmula 7/STJ é óbice para a análise do apontado dissídio, na medida em que falta identidade entre o paradigma apresentado e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+3. Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço parcialmente do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85 , § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
