@@ -1,0 +1,45 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo decisão que não conheceu do agravo em recurso especial.
+O julgado recorrido rece b eu a seguinte ementa (fl. 928):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. INTERRUPÇÃO DO PRAZO. INOCORRÊNCIA.
+1. É intempestivo o agravo em recurso especial que é interposto fora do prazo recursal de 15 (quinze) dias úteis, a contar da publicação da decisão agravada (recurso interposto sob a égide do CPC/15).
+2. O único recurso cabível da decisão de admissibilidade do recurso especial é o respectivo agravo, razão pela qual a oposição de embargos de declaração não tem o condão de interromper o prazo recursal.
+3. Agravo não provido.
+A parte recorrente alega que a discussão proposta no recurso extraordinário possui repercussão geral e que há contrariedade, no acórdão recorrido, aos arts. 5º, XXXII, XXXV e LV; 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido violação ao dever de fundamentação das decisões judiciais, alegando que o acordão recorrido deixou de se manifestar sobre as teses defensivas suscitadas nos recursos interpostos contra a decisão de inadmissão do recurso especial, notadamente sobre a alegação de efeito interruptivo do prazo recursal em decorrência da interposição de embargos de declaração.
+Requer, assim, a concessão de efeito suspensivo, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não examinou o mérito do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 931-932):
+A decisão agravada não conheceu do agravo em recurso especial doa parte agravante, nos termos da seguinte fundamentação (e-STJ, fls. 878/879):
+"Por meio da análise do recurso de BRIGITTE BEATRIZ CALEGARI KAUCHE AMARAL, verifica-se que a parte recorrente foi intimada da decisão agravada em 10.05.2024, sendo o Agravo somente interposto em 08.07.2024.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Segundo a orientação jurisprudencial desta Corte Superior, a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, os Embargos de Declaração opostos em face da decisão que inadmitiu o Recurso Especial não são o recurso adequado ou cabível à espécie. Nesse sentido, o AgInt no AR Esp 1526806/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, D Je de 13.4.2020.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso."
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Compulsando os autos, verifica-se que a agravante foi intimada da decisão de inadmissibilidade do recurso especial no dia 09/05/2024 (e-STJ fl. 800), e a petição do agravo somente foi protocolizada em 08/07/2024 (e-STJ fls. 855/856), ou seja, fora do prazo legal.
+De fato, o entendimento do Superior Tribunal de Justiça está consolidado no sentido de que a oposição de embargos de declaração contra decisão de inadmissibilidade do recurso especial não tem o condão de interromper o prazo recursal para interposição de agravo em recurso especial.
+Nesse sentido: AgInt nos EDcl no AREsp 1.132.241/RJ, 3ª Turma, DJe de 19/12/2017; Aglnt no AREsp 1.009.335/SP, 3ª Turma, DJe de 21/03/2017; RCD no AREsp 855.524/SP, 4ª Turma, DJe de 19/09/2016.
+A decisão agravada, portanto, não merece reforma.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado às questões de mérito e à correta aplicação de óbices processuais pelo STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No mais, no tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Por fim, diante da negativa de seguimento ao recurso extraordinário, o pleito de atribuição de efeito suspensivo fica prejudicado.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
