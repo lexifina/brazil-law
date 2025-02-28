@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto por EMMANOEL MESSYAS SILVA contra a decisão, da minha lavra, em que indeferi liminarmente o habeas corpus impetrado em seu favor. Eis a ementa do decisum agravado (fl. 457):
+HABEAS CORPUS. USO DO WRIT COMO SUCEDÂNEO DE RECURSO ESPECIAL. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL AINDA EM CURSO NA ORIGEM. INADMISSIBILIDADE. HOMICÍDIO QUALIFICADO. EXCLUSÃO DE QUALIFICADORAS (MEIO QUE DIFICULTOU A DEFESA DA VÍTIMA/MOTIVO TORPE). IMPOSSIBILIDADE. INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. FUNDAMENTOS DA PRISÃO PREVENTIVA. ANÁLISE REALIZADA NO RHC N. 190.763. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+O agravante aduz que a jurisprudência admite o uso em caráter excepcional para evitar constrangimento ilegal e reitera que as qualificadoras de motivo torpe e recurso que dificultou a defesa da vítima são manifestamente improcedentes e carecem de provas concretas, bem como que a prisão preventiva foi mantida com base em fundamentos abstratos, sem demonstrar a necessidade real da medida.
+Pede, ao final, a reconsideração da decisão agravada, a fim de reconhecer a insuficiência de provas para a aplicação das qualificadoras previstas nos incisos I e IV do § 2º do art. 121 do Código Penal, excluindo-as, e para revogar a prisão preventiva do agravante, concedendo-lhe liberdade provisória, aplicando, se necessário, medidas cautelares diversas da prisão (Processo n. 0700230-96.2023.8.02.0055, da 3ª Vara Criminal de Santana do Ipanema/AL).
+Sucede, no entanto, que sobreveio o julgamento do ora agravante pelo Tribunal do Júri. Na oportunidade, ele foi condenado pela prática do delito descrito no art. 121, § 2º, I e IV, do Código Penal, à pena de 17 anos, 6 meses de reclusão, inicialmente, em regime fechado.
+Tal o contexto, não há espaço para discutir, neste recurso, o afastamento das qualificadoras. Com efeito, de acordo com a jurisprudência deste Tribunal Superior, a superveniência de sentença condenatória prejudica a pretensão de nulidade da sentença de pronúncia (AgRg no HC n. 870.923/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 9/12/2024).
+Também não há como discutir, novamente, os fundamentos da prisão cautelar, sobretudo porque o entendimento do Supremo Tribunal Federal, exarado no Tema 1.068, é de que a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada.
+Ante o exposto, julgo prejudicado o presente agravo regimental (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. HOMICÍDIO QUALIFICADO. EXCLUSÃO DE QUALIFICADORAS. FUNDAMENTOS DA PRISÃO PREVENTIVA. SUPERVENIENTE CONDENAÇÃO PELO TRIBUNAL DO JÚRI. PERDA DO OBJETO.
+Agravo regimental prejudicado.
