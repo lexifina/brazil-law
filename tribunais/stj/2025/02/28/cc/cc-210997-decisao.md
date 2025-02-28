@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 3ª UNIDADE JURISDICIONAL DA FAZENDA PÚBLICA DO JUIZADO ESPECIAL DE BELO HORIZONTE - MG e o TRIBUNAL REGIONAL DO TRABALHO DA 3ª REGIÃO.
+Inicialmente, o TRIBUNAL REGIONAL DO TRABALHO DA 3ª REGIÃO declinou de sua competência em razão dos seguintes fundamentos (fls. 311-314):
+"A d. Sexta Turma conheceu do recurso ordinário interposto pela reclamante  Declarou, de ofício, a incompetência absoluta da Justiça do Trabalho, determinando a remessa dos autos à Justiça Comum Estadual, juízo competente para a análise da matéria, na forma do art. 64, § 3º, do CPC.  Infere-se dos autos que a reclamante foi admitida  sem concurso público, de forma precária,  com violação ao artigo 37, II, da CF  Assim, não compete à Justiça do Trabalho apreciar a presente demanda, que envolve o recebimento de diferenças salariais, FGTS e multa normativa, decorrentes de inadequado enquadramento sindical, pois a competência material a ela atribuída no inciso I do art. 114 da CR, com a redação conferida pela EC 45/2004  foi mitigada pelo STF, por meio da ADI 3.395-6/DF."
+Recebidos os autos, o JUÍZO DE DIREITO DA 3ª UNIDADE JURISDICIONAL DA FAZENDA PÚBLICA DO JUIZADO ESPECIAL DE BELO HORIZONTE - MG suscitou o presente conflito defendendo que (fls. 401-404):
+"In casu, o que se discute é a relação trabalhista advinda de vínculo celetista, que foi indicado pela própria Autora na exordial, relação esta regida pelas normas da CLT  Compulsando os autos verifica-se que o regime jurídico que regia a relação trabalhista entre a parte autora e o Ente réu era celetista, tendo sido assinada a Carteira de Trabalho da contratada  razão pela qual deve ser reconhecida a competência da Justiça do Trabalho para o julgamento da presente ação."
+Parecer do MPF, às fls. 410-413, opinando pelo julgamento do feito, prescindindo-se de opinião meritória do Parquet.
+É, no essencial, o relatório.
+Consoante dispõe o Regimento Interno desta Corte Superior, a competência das Seções e das respectivas Turmas é fixada em função da natureza da relação jurídica litigiosa (art. 9º, caput , do RISTJ).
+A controvérsia posta em debate diz respeito à direito público em geral - concurso público -, o que denota a competência de uma das turmas integrantes da Primeira Seção desta Corte Superior para julgar o feito, de acordo com o art. 9º, §1º, XIV, do RISTJ.
+Confiram-se, a propósito, outros recentes julgados oriundos daquele órgão colegiado, envolvendo a mesma empresa pública: CC n. 201.568, Ministro Afrânio Vilela, DJEN de DJe 13/05/2024; CC n. 199.039, Ministro Sérgio Kukina, DJEN de DJe 20/12/2023; CC n. 195.455, Ministra Regina Helena Costa, DJe de 21/3/2023; CC n. 193.555, Ministra Regina Helena Costa, DJe de 17/2/2023; CC n. 190.542, Ministro Gurgel de Faria, DJe de 2/9/2022; CC n. 169.380, Ministro Napoleão Nunes Maia Filho, DJe de 5/12/2019.
+No mesmo sentido, as seguintes decisões monocráticas: CC n. 199.039, Ministra Nancy Andrighi, DJEN de DJe 12/12/2023; CC n. 159.650, Ministro Marco Buzzi, DJEN de DJe 10/05/2021.
+Assim sendo, determino a redistribuição do presente conflito de competência a um dos Ministros da Primeira Seção deste Tribunal.
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. COMPETÊNCIA INTERNA DA PRIMEIRA SEÇÃO DO STJ. REDISTRIBUIÇÃO DO CONFLITO.
