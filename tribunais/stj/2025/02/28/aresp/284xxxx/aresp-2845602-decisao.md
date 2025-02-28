@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por JONATAS GABRIEL DOS SANTOS ROSA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 180):
+TRÁFICO DE DROGAS RECURSO DEFENSIVO: absolvição e desclassificação inadmissibilidade palavras dos agentes da lei corroboradas por demais elementos acostados aos autos materialidade e autoria suficientemente demonstradas condenação mantida NÃO PROVIDO. TRÁFICO DE DROGAS RECURSO DEFENSIVO: INDIVIDUALIZAÇÃO DA PENA: observância do critério trifásico correta circunstância legal presente observância da Súmula 231 do STJ redutor não aplicado requisitos legais não preenchidos IMPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 195/200), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 33, §2º, alínea "b", do CP. Sustenta a fixação do regime semiaberto para o cumprimento da pena.
+Apresentadas contrarrazões (e-STJ fls. 205/210), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 214/215), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo pelo conhecimento e provimento do agravo em recurso especial, a fim de que seja modificado o regime prisional para o semiaberto (e-STJ fls. 246/248).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso encontra-se prejudicado.
+O acusado impetrou o HC n. 979.963/SP, o qual requeria, entre outros, o mesmo pedido do presente recurso  fixação do regime semiaberto para o cumprimento da pena -, que, em decisão monocrática, não foi conhecido, contudo, concedida a ordem para fixar o regime semiaberto. Abaixo, trecho da decisão:
+Quanto à fixação do regime prisional, sabe-se que a jurisprudência desta Corte firmou-se no sentido de que é necessária a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na primariedade do acusado e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado.
+Nessa linha, foi editada a Súmula n. 440/STJ, segundo a qual, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Na mesma esteira, há os enunciados n. 718 e n. 719 da Súmula do Supremo Tribunal Federal, os quais indicam, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No presente caso, não obstante a pena-base tenha sido fixada no mínimo legal, o regime mais gravoso foi fixado e mantido, sem fundamento concreto que justificasse o agravamento do regime.
+Dessa forma, tendo em vista que a pena não é superior a 8 anos de reclusão, o paciente é primário, as circunstâncias judiciais lhe são favoráveis, o regime semiaberto se mostra mais adequado, nos termos do art. 33, § § 2º e 3º, do Código Penal.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS. REGIME PRISIONAL. PENA SUPERIOR A QUATRO E NÃO EXCEDENTE A OITO ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU PRIMÁRIO. QUANTIDADE NÃO EXPRESSIVA DO ENTORPECENTE. MODO INTERMEDIÁRIO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. AUSÊNCIA DO PREENCHIMENTO DO REQUISITO OBJETIVO. MANIFESTA ILEGALIDADE PARCIALMENTE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art. 33, § 4º, da Lei n. 11.343/2006).
+3. Concluído pela instância antecedente, com fulcro na variedade dos entorpecentes apreendidos - 81,5g maconha e 30,7g cocaína -, na própria confissão do agente e nos registros de atos infracionais análogos aos delitos de homicídio e de furto que o paciente se dedica a atividade criminosa, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+4. Conforme entendimento do Superior Tribunal de Justiça, o registro de atos infracionais é elemento idôneo para afastar a figura do tráfico privilegiado, quando evidenciar a propensão do agente a práticas criminosas. Precedentes.
+5. Na identificação do modo inicial de cumprimento de pena, o magistrado deve observar às regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, também o art. 42 da Lei de Drogas.
+6. Embora o Tribunal a quo tenha se valido das circunstâncias do art. 42 da Lei de Drogas para estabelecer o regime mais grave, não sendo expressiva a quantidade de droga apreendida 54 invólucros de maconha (81,5g) e 42 tubos plásticos de cocaína (30,7g), verificada a primariedade do réu e a análise favorável das circunstâncias judiciais, o modo semiaberto é o mais adequado para o início do cumprimento da pena de 5 anos de reclusão.
+7. É inadmissível a substituição da pena privativa de liberdade por restritivas de direito, pela falta do atendimento do requisito objetivo, nos termos do art. 44, I, do Código Penal.
+8. Habeas corpus não conhecido. Ordem, concedida, de ofício, para fixar regime inicial semiaberto.
+(HC 447.045/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/08/2018, DJe 15/08/2018)
+Ante o exposto, com base no art. 34, inciso XX, do RISTJ, não conheço o habeas corpus. Contudo, concedo a ordem, de ofício, apenas para fixar o regime semiaberto.
+Intimem-se.
+Assim, fica prejudicado o presente recurso.
+Ante o exposto, com base no art. 34, inciso XI, do RISTJ, julgo prejudicado o recurso.
+Intimem-se.
+EMENTA
