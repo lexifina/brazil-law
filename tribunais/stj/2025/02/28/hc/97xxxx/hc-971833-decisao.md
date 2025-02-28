@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCELO FUZATO DE OLIVEIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1500404-52.2023.8.26.0557.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 3ª Vara da Comarca de Bebedouro, pela prática do delito capitulado no artigo 33 da Lei 11.343/06, à pena de 5 anos de reclusão, no regime inicial fechado, cumulada com multa pecuniária equivalente a 500 dias-multa (fls. 26-42).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que negou provimento (fls. 11-25).
+Na presente impetração, alega-se que a fixação do regime fechado foi baseada na gravidade abstrata do delito, em afronta à Súmula 440 do STJ, e que não foi aplicada a detração, o que, se considerado, reduziria a pena a menos de 4 anos (fl. 4-5). Aponta-se a ocorrência de constrangimento ilegal pela ausência de fundamentação idônea para a fixação do regime inicial fechado, contrariando as Súmulas 718 e 719 do STF e a Súmula 440 do STJ (fl. 5-6), assim como o descumprimento do artigo 65, III, "d" do Código Penal pela não aplicação da atenuante da confissão espontânea, e do artigo 387, § 2º do CPP, pela negativa à detração (fl. 6-8).
+Pugna-se, liminarmente e no mérito, pela concessão da ordem para declarar a nulidade da decisão impugnada, dadas as ilegalidades e afronta aos dispositivos legais (fl. 10) e, subsidiariamente, pela substituição da prisão preventiva por medidas cautelares do artigo 319 do CPP e a expedição de alvará de soltura clausulado (fl. 10).
+O pedido de liminar foi indeferido (fls. 79-80).
+As informações foram devidamente prestadas (fls. 86 e 91-26).
+O Ministério Público Federal opinou pela concessão parcial da ordem (fls. 128-134).
+É o relatório. DECIDO.
+A controvérsia nos autos refere-se a uma possível ilegalidade flagrante, consubstanciada pelo estabelecimento do regime inicial fechado, pela negativa à atenuante da confissão espontânea e negativa à detração.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem ofício, em observância ao §2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor análise, os fundamentos empregados na decisão colegiada impugnada (fls. 11-25):
+ ..
+Na primeira fase, as penas-base foram impostas no mínimo legal de 05 anos de reclusão, mais o pagamento de 500 dias-multa, para os três corréus.
+Na segunda fase, as penas permaneceram no mesmo patamar.
+Em que pese o sustentado pela defesa de Marcelo, não era mesmo o caso de reconhecimento da confissão espontânea, porque parcial. Com efeito, não admitiu o apelante integral e sinceramente a conduta, buscando minimizar sua conduta e afastar a participação dos corréus, em versão dissociada do conjunto probatório. Por outro lado, José Augusto completou 21 anos na data do crime (nasc. em 23.06.2002), pelo que não é de ser reconhecida a atenuante da menoridade relativa.
+De todo modo, fixada a pena nesta fase no mínimo legal, eventual reconhecimento de atenuantes não teria reflexo na reprimenda, a teor da súmula 231 do C. STJ.
+Na terceira fase, em que pese as alegações defensivas, reputo que nenhum dos corréus faz jus à minorante do artigo 33, §4º, da Lei 11.343/06, como bem decidido pelo juízo a quo.
+Referida causa de diminuição se destina, por essência, a crimes de tráfico cujas circunstâncias evidenciem um menor desvalor da conduta, o que não é o caso dos autos. A elevada quantidade de droga - superior a 4.865g de maconha apresentando elevado potencial de difusão e comercialização, ao lado dos apetrechos relacionados ao tráfico habitual (balança para medição e faca com resquícios) e as circunstâncias da prisão em flagrante que contou com tentativa de fuga do local dos fatos -, são elementos que, em cotejo com as demais circunstâncias, impedem o reconhecimento do tráfico privilegiado, evidenciando a dedicação dos réus à atividades criminosas.
+ ..
+Não há falar no abrandamento do regime pretendido pelas defesas. A gravidade concreta da conduta dos apelantes, com apreensão de grande quantidade de droga, além das demais circunstâncias da espécie já mencionadas para o afastamento do privilégio, não permitem a fixação de regime mais brando, pois insuficiente para a resposta estatal adequada e para as finalidades de retribuição e prevenção das penas, a teor do disposto nos artigos 59, inciso III e 33, §3º, do Código Penal e 42 da Lei 11.343/06.
+Em relação ao pleito de abrandamento pelo cômputo do período de segregação provisória, é certo que o Juízo das Execuções Penais ostenta melhores condições para analisar o instituto da detração, porque detém, com exatidão, todas as informações relativas à situação do réu, inclusive eventual unificação de penas etc., e, assim, pode verificar, com a acuidade necessária, as circunstâncias do caso concreto e a possibilidade de substituição do regime prisional.
+ ..
+De plano, verifico a presença de ilegalidade flagrante na negativa à atenuante da confissão espontânea, porquanto o fundamento empregado pelo acórdão, no sentido de que ela foi parcial, é inidôneo. A atenuante da confissão espontânea está prevista no artigo 65, inciso III, alínea "d" do Código Penal Brasileiro, que estabelece que a pena deve ser atenuada quando o agente confessa espontaneamente a autoria do crime perante a autoridade.
+A Súmula 545 do Superior Tribunal de Justiça (STJ) também reforça que a confissão, mesmo que parcial ou qualificada, deve ser considerada para a atenuação da pena, desde que tenha servido de base para a condenação. Portanto, a negativa da atenuante com base na parcialidade da confissão é inidônea. A esse respeito:
+DIREITO PENAL. AGRAVO REGIMENTAL. ATENUANTE DA CONFISSÃO ESPONTÂNEA. CONFISSÃO PARCIAL E QUALIFICADA . AGRAVO NÃO PROVIDO.
+ ..
+III . Razões de decidir
+4. A decisão agravada concluiu que a aplicação da atenuante em 1/12 é adequada, considerando a confissão parcial e qualificada, em que o agravante admitiu parte da conduta e alegou legítima defesa.
+5. A jurisprudência do STJ permite a aplicação da atenuante em patamar inferior a 1/6 em casos de confissão parcial ou qualificada, respeitando os princípios da individualização da pena e da proporcionalidade .
+6. A argumentação da defesa, baseada na preponderância da atenuante da confissão espontânea, não afasta a fundamentação da decisão monocrática.
+ ..
+(AgRg no AREsp n. 2521377-SC, minha relatoria, Data de Julgamento: 08/10/2024, QUINTA TURMA, DJe 11/10/2024)
+Com efeito, nos termos do § 2º do artigo 654 do Código de Processo Penal, reconheço a atenuante da confissão espontânea, realizada de forma parcial, e estabeleço a fração de 1/12 (um doze avos) na segunda etapa da dosimetria da pena, sem repercussão na pena definitiva em virtude do entendimento consubstanciado pela Súmula 231 do Superior Tribunal de Justiça.
+Em relação ao regime inicial prisional fechado, tenho que ele guarda razão de proporcionalidade com a gravidade concreta da conduta, dada a elevada quantidade de entorpecente apreendida - superior a 4.865g de maconha -, não utilizada para exasperar a pena-base, mas utilizada como um dos fundamentos para afastar a causa especial de diminuição de pena do § 4º do artigo 33 da Lei 11.343/2006.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que a existência de circunstância judicial desfavorável justifica a fixação do regime inicial imediatamente mais gravoso, o fechado, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+E, no que tange à detração, com o advento da Lei 12.736/2012, o juiz, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. O § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar.
+A Lei 12.736/2012 não afastou a competência concorrente do juízo da execução penal para a detração, nos termos do artigo 66 da Lei n. 7.210/1984, sempre que no processo de conhecimento não houver adotado tal providência.
+Na hipótese dos autos, é irrelevante o reconhecimento da detração penal, nos termos do artigo 387, § 2º, do Código de Processo Penal, considerando o estabelecimento do regime inicial prisional fechado.
+Corroborado tal posicionamento:
+ ..
+5. O regime inicial fechado foi corretamente estabelecido com base na pena aplicada e nas circunstâncias judiciais desfavoráveis, conforme o art. 33, § 2º, a e § 3º, do CP.
+6 . A detração do tempo de prisão cautelar não altera o regime inicial, uma vez que as circunstâncias do caso justificam a manutenção do regime mais gravoso, independentemente do tempo já cumprido.
+7. O pedido de redução da pena de multa, fundamentado em suposta inconstitucionalidade do montante fixado pela Lei de Drogas, não pode ser apreciado no âmbito de recurso especial, dado o caráter constitucional da matéria.
+IV . AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp 2322802-SP, relatora Ministra DANIELA TEIXEIRA, Data de Julgamento: 27/11/2024, QUINTA TURMA, DJe 06/12/2024)
+De todo modo, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Quanto à pretensão de ver substituída a prisão preventiva por medidas cautelares diversas da prisão, não verifico a modificação dos fundamentos adotados pelo Tribunal de Apelação, porquanto fundamentados em elementos concretos.
+Ante o exposto, não conheço do habeas corpus. Concedo parcialmente a ordem, de ofício, para reconhecer a atenuante da confissão espontânea, s em modificação na pena definitiva, ficando mantida a condenação.
+Publique-se. Intimem-se.
+EMENTA
