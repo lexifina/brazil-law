@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CONDOMINIO EDIFICIO AMAZONAS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+AGRAVO INTERNO - APELAÇÃO CÍVEL - DECISÃO MONOCRÃTICA - REVOGAÇÃO DA ASSISTÊNCIA JUDICIÁRIA - AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA - RECURSO NÀO PROVIDO. ANTE A AUSÊNCIA DE FUNDAMENTO CAPAZ DE DESCONSTIMIR A SITUAÇÃO JURÍDICA, AS RAZOES PRESENTES NESTE AGRAVO INTERNO NÀO TÊM O PODER DE MODIFICAR O ENTENDIMENTO EXTERNADO NA DECISÃO MONOCRÁTICA ANTES PROFERIDA.
+Quanto à controvérsia, a parte recorrente alega violação e divergência jurisprudencial atinente à interpretação dos arts. 98 e 99, § 2º, do CPC, no que concerne à concessão da gratuidade de justiça, tendo em vista a hipossuficiência financeira do condomínio recorrente, trazendo a seguinte argumentação:
+Portanto, não há discussão quanto à incapacidade do recorrente de arcar com as custas do processo, há, sim, o entendimento de que o condomínio recorrente, embora não tenha capacidade de recolher o preparo recursal, "pode obter o numerário para pagar as despesas processuais por meio de rateio entre os condôminos." Contudo, não existe este requisito no art. 98 e 99, § 2º do CPC. Basta a comprovação da incapacidade de arcar com as custas processuais, requisito cujo preenchimento restou reconhecido pelo acórdão a quo.
+Com efeito, o juiz relator e o recorrente não divergem quanto à situação financeira do condomínio, uma vez que não há sobras em razão do fato de que as despesas equivalem às arrecadações, configurando-se nítida situação de incapacidade financeira.
+ ..
+Ao reconhecer que a comprovada situação de incapacidade financeira se mantém, e, ainda assim, revogar a gratuidade da justiça, fica evidente que o acórdão violou o art. 98 e 99, § 2º do CPC e contrariou o entendimento do próprio TJMS e do STJ quanto à interpretação dos mencionados dispositivos (fls. 532-535)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Conforme relatado, trata-se de agravo interno interposto contra decisão proferida às fls. 488-490 que revogou o benefício da assistência judiciária.
+Da detida análise dos autos, verifico que a pretensão da recorrente não merece guarida, t endo em vista que não houve arguição de fato novo capaz de justificar a retificação da decisão, tampouco foi anexado ao caderno probatório qualquer tipo de documento que possuísse tal potencial.
+Portanto, em que pese o inconformismo da agravante, entendo por manter a decisão atacada, pelos seus próprios fundamentos  .. . (fl. 521).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 22.5.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19.12.2019; AgInt no AgInt no REsp 1.731.585/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 26.9.2018; e AgInt no AREsp 1.149.255/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 13.4.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
