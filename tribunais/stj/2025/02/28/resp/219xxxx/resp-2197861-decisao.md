@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ADUFPB/SEÇÃO SINDICAL contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região (fls. 1797-1805).
+Embargos de declaração rejeitados.
+O recorrente alega, em suma, que "no caso concreto, considerando que não se verifica nenhuma das exceções previstas no art. 85, § 8º, do CPC/2015 e autorizativas da fixação dos honorários por apreciação equitativa, é de rigor o arbitramento da verba sucumbencial observando-se os limites determinados nos §§ 2º e 3º do mesmo dispositivo legal" (fl. 2.144).
+É o relatório. Passo a decidir.
+O Supremo Tribunal Federal, ao analisar o RE 1.412.069/PR, reconheceu a existência de repercussão geral da seguinte questão: "Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes" (Tema 1.255/STF).
+O Superior Tribunal de Justiça, assim como o Supremo Tribunal Federal, versando o recurso sobre temas submetidos ao rito da repercussão geral, tem determinado o retorno dos processos para os Tribunais de origem, para que se aguarde o julgamento do recurso extraordinário representativo da controvérsia. A propósito: EDcl no AgInt no REsp 1.996.056/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe 4/11/2022; EDcl no AgInt no REsp 1.869.378/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe 25/5/2023; ARE 1.244.038 AgR-segundo-EDv-AgR-ED, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 10/12/2020; ARE 1.144.360 AgR-ED, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 19/2/2019; e ARE 1.181.843 AgR- ED, Rel. Min. Roberto Barroso, Primeira Turma, DJe 23/6/2020.
+No mesmo sentido, confiram-se as seguintes decisões: AREsp 2.352.013/SP, Ministro Sérgio Kukina, DJe 15/08/2023; REsp 2.089.637/RS, Ministra Regina Helena Costa, DJe 15/08/2023; REsp 2.088.969/SP, Ministra Regina Helena Costa, DJe 15/08/2023, dentre outros julgados.
+Ante o exposto, determino a devolução dos autos ao Tribunal a quo, com a devida baixa nesta Corte, para que o exame do recurso especial ocorra somente após o pronunciamento definitivo do STF em sede de repercussão geral e após observados os procedimentos previstos nos arts. 1.040 e seguintes do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
