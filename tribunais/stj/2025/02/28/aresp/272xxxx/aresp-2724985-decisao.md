@@ -1,0 +1,74 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por COMÉRCIO DE PRODUTOS AGRÍCOLAS FERRARIN LTDA. contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fl. 72):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. TUTELA PROVISÓRIA ANTECIPADA EM CARÁTER ANTECEDENTE. AFASTAMENTO DA PRELIMINAR DE ILEGITIMIDADE ATIVA, POIS NÃO HÁ IMPEDIMENTO À AMPLIAÇÃO DO POLO ATIVO DA AÇÃO, A PARTIR DE PRETENSÃO FORMULADA NO ADITAMENTO À PETIÇÃO INICIAL, PORQUANTO NÃO EVIDENCIADA A MODIFICAÇÃO DO PEDIDO OU DA CAUSA DE PEDIR DA DEMANDA. ENTENDIMENTO NA LINHA DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE NO CASO CONCRETO. HIPOSSUFICIÊNCIA TÉCNICA DAS AGRAVADAS. RECHAÇADA A ARGUIÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO ATACADA. DESNECESSÁRIA A MANIFESTAÇÃO SOBRE O PLEITO DE REALIZAÇÃO DE AUDIÊNCIA, NOS TERMOS DO ARTIGO 357, §3º, DO CÓDIGO DE PROCESSO CIVIL, POIS O PEDIDO DE PRODUÇÃO DE PROVA ORAL FOI DEFERIDO PELO JULGADOR DE PISO, JÁ TENDO SIDO REALIZADA AUDIÊNCIA DE INSTRUÇÃO NO FEITO ORIGINÁRIO, ONDE, INCLUSIVE, FOI POSSIBILITADA A CONCILIAÇÃO AOS LITIGANTES, CUJA TENTATIVA NÃO RESTOU EXITOSA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 82-116), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) art. 303, § 1º, I, do CPC/15, defendendo que o Tribunal de origem desconsiderou a alteração do pedido (acréscimo do pleito de danos morais) ao permitir a alteração do polo ativo da demanda com a inclusão da Sra. Darusa Alves do Nascimento;
+b) arts. 2º e 6º do CDC e 373, I, do CPC, alegando não ser cabível a inversão do ônus da prova, porquanto o maquinário foi adquirido pela recorrida como implemento da atividade que exerce, logo, estão ausentes a hipossuficiência e verossimilhança das alegações que autorizam a incidência da legislação consumerista ao presente caso.
+Apontou, ainda, divergência jurisprudencial.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 135-137, e-STJ), o que ensejou o manejo do presente agravo (fls. 149-160, e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Inicialmente, no tocante à apontada ofensa ao art. 303, § 1º, I, do CPC/15, a parte recorrente sustentou que o Tribunal de origem desconsiderou a alteração do pedido (acréscimo do pleito de danos morais) ao permitir a alteração do polo ativo da demanda com a inclusão da Sra. Darusa Alves do Nascimento.
+Entretanto, constata-se da leitura do acórdão recorrido que o Tribunal de origem não se manifestou sobre a tese de que houve acréscimo do pleito de danos morais, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Saliente-se, ainda, que a agravante não opôs embargos declaratórios contra o acórdão estadual, a fim de provocar o pronunciamento do Colegiado sobre a tese suscitada.
+Incidem, portanto, os óbices dispostos nas Súmulas 282 e 356 do STF.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGADA.
+(..)
+3. Quanto à alegação de que os honorários advocatícios devem ser fixados por equidade (art. 85, § 8º, do CPC/15), observa-se que tal tese não foi analisada pelo Tribunal local, carecendo de prequestionamento. Ademais, deixou a insurgente de apontar, na petição do recurso especial, eventual violação do artigo 1022 do CPC/15, no ponto, razão pela qual incide, na espécie, as Súmulas 282 e 356 do STF; e 211 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1890401/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2021, DJe 04/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. VIOLAÇÃO DO ART. 6º DA LINDB. INSTITUTO DE NATUREZA CONSTITUCIONAL. 2. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO DEMONSTRANDO FUNDAMENTAÇÃO DEFICIENTE. ARGUMENTO NÃO ATACADO. SÚMULA 182 DO STJ. 3. LITISCONSÓRCIO PASSIVO NECESSÁRIO. APLICAÇÃO DO TETO REGULAMENTAR. NECESSIDADE DE APORTE. CORREÇÃO MONETÁRIA. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULAS 282 E 356 DO STF. 4. FÓRMULA PARA O CÁLCULO DE BENEFÍCIO. CONTROVÉRSIA SOBRE DISPOSIÇÕES DO REGULAMENTO. INTERPRETAÇÃO CONFERIDA PELA CORTE DE ORIGEM. APLICAÇÃO DO ART. 31 DO REGULAMENTO DE BENEFÍCIOS DA PETROS. SÚMULAS 5 E 7 DO STJ. 5. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. As matérias ou as teses relacionadas aos artigos apontados não foram enfrentadas pelo acórdão recorrido, o que obsta o conhecimento do recurso especial. Nesse ponto, incidem as Súmulas n. 282 e 356 do STF.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1250115/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INCÊNDIO. PORTO DO GUARUJÁ. INDEFERIMENTO DE PROVAS REQUERIDAS. ALEGADO CERCEAMENTO DE DEFESA. ACÓRDÃO RECORRIDO APOIADO NAS PREMISSAS FÁTICAS CONSTANTES DOS AUTOS. IMPOSSIBILIDADE DE SUA REVISÃO NA VIA ESPECIAL. APLICAÇÃO DA SÚMULA N. 7 DO STJ. ALEGADA VIOLAÇÃO AOS ARTIGOS 4º, VII E 14, DA LEI N. 6.938/1981. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STJ E 356/STJ. NÃO CABIMENTO DE INDENIZAÇÃO POR DANOS MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. INCIDÊNCIA, UMA VEZ MAIS, DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A Corte regional não apreciou à alegada afronta aos artigos 4º, VII e 14, da Lei 6.938/1981 e a parte recorrente não opôs embargos de declaração objetivando suprir eventual omissão, não estando presente o necessário prequestionamento. Incidência dos enunciados previstos nas Súmulas 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1559180/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/02/2020, DJe 11/02/2020)
+2. Outrossim, no que tange à suposta contrariedade aos arts. 2º e 6º do CDC e 373, I, do CPC, a recorrente alega não ser cabível a inversão do ônus da prova, por não se tratar de relação consumerista.
+O Tribunal de origem, ao apreciar a controvérsia, consignou o seguinte (e-STJ, fl. 70):
+De outra banda, a empresa agravante também manifesta descontentamento em razão de o julgador de origem ter invertido o ônus da prova, aplicando, ao caso em comento, as disposições do Código de Defesa do Consumidor, arguindo, ainda, a nulidade da decisão, diante da ausência de fundamentação e por conta da falta de delimitação das questões de fato e de direito. Assinalo que também não há reparos a serem feitos na decisão atacada com relação aos pontos supramencionados.
+Em primeiro lugar, diversamente do sustentado pela recorrente, verifica-se que o julgador de piso esclareceu que a legislação consumerista se faz aplicável à hipótese dos autos, porque as autoras, na qualidade de produtoras rurais, devem ser consideradas destinatárias finais, pois utilizam a colheitadeira que é objeto de discussão na lide no desempenho da atividade agrícola, não havendo falar em ausência de fundamentação.
+Em segundo lugar, há de se ressaltar que, efetivamente, mostra-se viável a aplicação das disposições do Código de Defesa do Consumidor, inclusive no que concerne à possibilidade de inversão do ônus probatório, exatamente como decidido pelo magistrado de origem, pois, ainda que as demandantes tenham adquirido o maquinário agrícola para incremento da atividade produtiva, há que se analisar a questão sob o prisma da hipossuficiência técnica das autoras, que, ao que tudo indica, não dispõem de conhecimentos na área de engenharia mecânica para identificarem os defeitos apresentados pela máquina.
+Veja-se que foi acordado com a empresa ré o conserto do motor da colheitadeira, no entanto, a requerente alega que o maquinário nunca chegou a cumprir a finalidade a que se destina, do que se avalia a hipossuficiência técnica das demandantes e, nessa mesma linha, a maior facilidade de a demandada produzir provas no sentido de que procedeu ao reparo adequado do bem, eximindo-se da responsabilização por eventuais falhas que inviabilizam a utilização a contento da máquina agrícola.
+Nos termos da jurisprudência pacífica do STJ, é possível a aplicação das normas de proteção ao consumidor à pessoa física ou jurídica que, mesmo não sendo destinatária final do produto ou serviço, tenha reconhecida sua situação de vulnerabilidade.
+Ademais, a inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+Logo, uma vez que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, impõe-se o óbice da Súmula n. 83 do STJ.
+Outrossim, eventual alteração da conclusão do acórdão recorrido quanto à caracterização da relação de consumo e da necessidade de inversão do ônus da prova, demandaria, necessariamente, a análise de fatos e provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO DA PRESIDÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 505 DO CPC. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. MERCADO DE AÇÕES. INVERSÃO DO ÔNUS PROBATÓRIO. VULNERABILIDADE. HIPOSSUFICIÊNCIA. VIOLAÇÃO DO ART. 6º, VIII, DO CDC. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. Não há violação do art. 505 do CPC, na hipótese em que o Tribunal a quo reanalisa a matéria objeto do acórdão e dos atos processuais subsequentes por ele proferidos e cassados pelo STJ.
+3. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor. Precedentes.
+4. Rever as conclusões do Tribunal de origem, a fim de a caracterização da vulnerabilidade do recorrido, deixando de aplicar a regra da inversão do ônus da prova, demandaria o necessário reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.091.099/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/11/2024, DJe de 26/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INVERSÃO DO ÔNUS DA PROVA. CÓDIGO DE DEFESA DO CONSUMIDOR. HIPOSSUFICIÊNCIA. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de indenização por danos materiais e morais.
+2. O art. 6º, inciso VIII, do CDC prescreve ser direito básico do consumidor a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências.
+3. Analisar se foram preenchidos, na origem, os requisitos necessários à inversão do ônus da prova, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.463.803/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+3. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a ausência de prequestionamento e a incidência da Súmula 7 do STJ constituem óbices também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA. (..) 4. "A incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018). 5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1307496/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE CONTRATO DE LOCAÇÃO. EXECUÇÃO PROVISÓRIA DO JULGADO. 1. ART. 73 DA LEI N. 8.245/1991, FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1.1. DEFICIÊNCIA NAS RAZÕES RECURSAIS. SÚMULA 284/STF. 2. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 3. ARBITRAMENTO DE HONORÁRIOS. NÃO CABIMENTO. SÚMULA 83/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Outrossim, a ausência de prequestionamento inviabiliza o recurso especial também pela alínea c do permissivo constitucional, estando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. A jurisprudência desta Corte está sedimentada no sentido de não ser cabível, na execução provisória, o arbitramento de honorários advocatícios em favor do exequente.
+4. Agravo interno desprovido.
+(AgInt no REsp 1612607/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/04/2019, DJe 06/05/2019)
+4. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
