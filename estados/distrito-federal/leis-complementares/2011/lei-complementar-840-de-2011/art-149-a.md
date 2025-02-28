@@ -1,0 +1,9 @@
+## Seção IX
+## Da Licença-Maternidade e da Licença-Paternidade (Alterado(a) pelo(a) Lei Complementar 1013 de 21/07/2022)
+Art. 149-A. A servidora gestante ocupante de cargo efetivo faz jus a licença-maternidade pelo prazo de 180 dias, sem prejuízo da remuneração, a contar do dia do parto. (Acrescido(a) pelo(a) Lei Complementar 1013 de 21/07/2022)
+Nota: Nos termos da ADI 7538, o STF conferiu interpretação extensiva para estender o benefício da licença-maternidade aos servidores públicos (biológicos ou adotantes) que exerçam a paternidade solo, conforme os parâmetros do Tema 1.182 de Repercussão Geral.
+§ 1º A licença de que trata o caput pode ser antecipada em até 28 dias, considerando-se a data prevista para o parto, mediante prescrição médica. (Acrescido(a) pelo(a) Lei Complementar 1013 de 21/07/2022)
+§ 2º Em caso de natimorto ou de nascimento com vida seguido de óbito, a servidora reassumirá suas funções após 30 dias da data do evento, caso seja considerada apta. (Acrescido(a) pelo(a) Lei Complementar 1013 de 21/07/2022)
+§ 3º A servidora tem direito a 30 dias da licença de que trata este artigo, no caso de aborto atestado por médico oficial. (Acrescido(a) pelo(a) Lei Complementar 1013 de 21/07/2022)
+§ 4º A servidora comissionada, sem vínculo efetivo com a administração, faz jus a licença-maternidade, sendo que as despesas relativas aos últimos 60 dias correm às expensas do Distrito Federal. (Acrescido(a) pelo(a) Lei Complementar 1013 de 21/07/2022)
+§ 5º Se o período da licença-maternidade coincidir com o da fruição de férias ou de licença-prêmio, estas devem ser automaticamente alteradas pela administração para a data imediatamente posterior ao término daquela, se outra data não houver sido requerida pela servidora. (Acrescido(a) pelo(a) Lei Complementar 1013 de 21/07/2022)

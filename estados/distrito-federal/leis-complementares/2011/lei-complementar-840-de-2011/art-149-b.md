@@ -1,0 +1,3 @@
+Art. 149-B. Aplica-se o disposto no art. 149-A, no que couber, à servidora que adotar ou obtiver guarda judicial. (Acrescido(a) pelo(a) Lei Complementar 1013 de 21/07/2022)
+Nota: Nos termos da ADI 7538, o STF conferiu interpretação extensiva para estender o benefício da licença-maternidade aos servidores públicos (biológicos ou adotantes) que exerçam a paternidade solo, conforme os parâmetros do Tema 1.182 de Repercussão Geral.
+Parágrafo único. A licença de que trata este artigo é deferida somente mediante apresentação de termo judicial de guarda à adotante ou à guardiã. (Acrescido(a) pelo(a) Lei Complementar 1013 de 21/07/2022)
