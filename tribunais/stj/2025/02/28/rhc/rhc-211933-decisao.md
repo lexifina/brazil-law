@@ -1,0 +1,15 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por RUAN KAIQUE CHAVES FRANCISCO - preso preventivamente pela prática, em tese, do crime de tráfico de drogas, em razão da apreensão de 44 g de maconha (fl. 132) -, impugnando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.538176-9/000), não comporta provimento.
+Busca o recorrente revogação ou substituição da prisão preventiva por medidas cautelares alternativas, com o argumento de ausência dos pressupostos autorizadores da segregação cautelar.
+É o relatório.
+O Juízo de primeiro grau, no que foi acompanhado pela Corte local, decretou a prisão preventiva considerando os seguintes fundamentos (fl. 133 - grifo nosso):
+A decretação da prisão preventiva do investigado Ruan, por outro lado, revela-se imprescindível diante da gravidade dos fatos apurados. Conforme o relato do depoente, a revista realizada no interior da cela onde Ruan estava custodiado resultou na apreensão de uma porção de substância análoga à maconha, diretamente em sua posse. Este fato evidencia, por ora, não apenas a prática de conduta ilícita, mas também a reiteração do autuado em atividades relacionadas ao tráfico de drogas, conduta que compromete gravemente a ordem pública, sobretudo dentro de um ambiente penitenciário, onde a manutenção e circulação de substâncias entorpecentes configuram um risco significativo à segurança interna e à disciplina do sistema prisional.
+Ademais, o investigado já se encontrava sob custódia pela prática de delitos similares, o que denota não apenas a reiteração criminosa, mas também o desprezo pelas medidas anteriormente impostas pelo Poder Judiciário. Tal circunstância reforça a necessidade de sua segregação cautelar, com o objetivo de evitar a perpetuação de práticas ilícitas e resguardar a integridade do ambiente carcerário.
+Desse modo, a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o recorrente estava sob custódia pela prática de delitos similares quando do fato ensejador do flagrante, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+No mesmo sentido, mutatis mutandis, cito os seguintes julgados: AgRg no HC n. 826.470/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/8/2023; e AgRg no HC n. 812.539/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/4/2023.
+Nesse contexto, considerada a gravidade concreta do delito e a reiteração delitiva que recomenda a manutenção da custódia ante tempus, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. RISCO CONCRETO DE REITERAÇÃO DELITIVA. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES.
+Recurso improvido.
