@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANDRE ASAREEL CHIQUESI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente de suposta prática do delito capitulado no art. 171, § 2º-A, do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, que possui predicados pessoais favoráveis, encontra-se despida de fundamentação idônea e não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal.
+Defende ser cabível a substituição da prisão preventiva por domiciliar, tendo em vista que o paciente "foi submetido a cirurgia bariátrica em 18/12/2024 (..) e, em razão disso, necessita seguir uma dieta rigorosamente balanceada" além de ser pai de criança que depende de seus cuidados.
+Requer, ao final, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais, ou sua substituição pela prisão domiciliar.
+Liminar indeferida às fls. 183-184.
+Informações prestadas às fls. 190-193 e 194-217.
+O Ministério Público Federal em parecer, às fls. 220-227, manifestou-se pelo não conhecimento da ordem.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o paciente possui registros de diversas outras ocorrências pela prática de crimes patrimoniais (estelionato), em data recente - fl. 146, circunstâncias aptas a justiticar a segregação cautelar imposta.
+Sobre o tema:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 960.341/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 24/2/2025.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Quanto ao pedido de substituição da prisão preventiva pela domiciliar em decorrência do paciente ser pai de criança menor de 12 anos, sendo o único responsável pelos seus cuidados, observo não assistir razão à defesa.
+Ressalta-se que "a prisão domiciliar no caso do homem com filho de até 12 anos incompletos, não possui caráter absoluto ou automático, podendo o Magistrado conceder ou não o benefício, após a análise, no caso concreto, da sua adequação" (AgRg no HC n. 914.866/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+No presente caso, como b em destacado pela corte de origem, "o paciente não se enquadra nas hipóteses legais previstas no artigo 318, incisos II e III, do Código de Processo Penal" (fl. 179), não havendo, assim, a ilegalidade apontada pela defesa.
+Sobre o tema, colaciono o seguinte precedente desta Corte Superior:
+"O fato de ser o paciente pai de crianças menores de 12 anos não determina sua colocação em regime de prisão domiciliar, pois restringiu-se a evidenciar a sua condição de pai da criança, juntamente com a sua ocupação profissional, sem, no entanto, apresentar prova de ser imprescindível para o seu cuidado, assim como o cumprimento das despesas habituais relacionadas ao vínculo familiar estabelecido" (AgRg no HC n. 907.910/BA, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 24/6/2024.)
+Nesse sentido: AgRg no HC n. 870.527/PE, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 27/6/2024; AgRg no HC n. 889.299/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 26/6/2024 e AgRg no HC n. 905.573/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Consignou o acórdão recorrido que "não obstante a cirurgia a que foi submetido, em 18/12/24, poucos dias depois, o acusado esteve no estabelecimento vítima e praticou as condutas que lhe foram atribuídas na denúncia, em duas oportunidades, o que, por certo, não teria feito caso precário seu estado de saúde" - fl. 178.
+Destacou, ainda, a decisão que decretou a segregação cautelar que "não há elementos nos autos que comprovem que a unidade prisional não possui condições de garantir o correto tratamento médico" - fl. 147.
+Cumpre registrar que "a ausência de comprovação de extrema debilidade por motivo de saúde e de impossibilidade de tratamento no sistema prisional impede a substituição da prisão preventiva por domiciliar" (AgRg no RHC n. 205.294/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 23/12/2024).
+A propósito:
+Não há comprovação inequívoca de que a agravante esteja extremamente debilitada, nem impossibilidade de tratamento no estabelecimento prisional" (AgRg no RHC n. 205.979/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 23/12/2024.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
