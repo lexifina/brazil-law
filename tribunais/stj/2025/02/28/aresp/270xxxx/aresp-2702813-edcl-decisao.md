@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNIMED DO CEARÁ - FEDERAÇÃO DAS SOCIEDADES COOPERATIVAS MÉDICAS DO ESTADO DO CEARÁ LTDA em face de decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negou-lhe provimento, por incidência das Súmulas 83 e 7 do STJ, bem como da Súmula 282/STF.
+Nas razões dos embargos de declaração (fls. 498-501), sustenta-se que houve omissão na decisão embargada, uma vez que houve "Violação do art. 1.037 tendo em vista que quando da tramitação do processo, não foi atendida a ordem de suspensão e assim, o processo seguiu sem que fosse oportunizada a produção de prova pelas partes. Vejamos: (..) não há que se falar em revolvimento de provas, pois sequer oportunizadas, cabendo ressaltar que o julgamento do tema 1069 ocorreu no curso da demanda e o ônus processual somente foi conhecido após a fixação da tese.".
+Aduz, ainda, que é patente a "Inadequação da aplicação do tema 1069 tendo em vista que o não restou preservado o contraditório e ampla defesa. A conclusão que se pode chegar é que presumiu-se a natureza reparadora do procedimento, pois até onde se sabe, o magistrado não tem expertise técnica para determinar tal aspecto baseando-se unicamente no documento unilateral apresentado pela parte adversa nos autos. Quanto a existência de uma prescrição médica, é necessário que se diga, inclusive, que qualquer demanda de saúde necessariamente é subsidiada com documentos médicos, nem por isto se presume um grau de responsabilidade da parte adversa quanto ao fornecimento do tratamento indicado. Nesse sentido, sem qualquer propósito de rediscutir o mérito apontado na decisão objurgada, mas para completa análise do mérito recursal, a parte embargante para que a decisão proferida também passe a considerar os pontos sobre os quais ocorreu a omissão apontada."
+Impugnação apresentada às fls. 505-515.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+"A irresignação não comporta provimento.
+O Tribunal de origem, analisando as circunstâncias do caso, consignou pelo dever de cobertura das cirurgias indicadas pelo médico assistente, afirmando que possuem caráter reparador, sendo consequência do tratamento realizado a partir da cirurgia bariátrica, não havendo caráter meramente estético. A título elucidativo, confira-se:
+(..)
+De acordo com a o entendimento fixado no Tema 1069/STJ, "É de cobertura obrigatória pelos planos de saúde a cirurgia plástica de caráter reparador ou funcional indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida". Nesse sentido:
+(..)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ. Ademais, alterar o entendimento firmando, quanto ao caráter reparador das cirurgias indicadas, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. Outrossim, não comporta acolhimento o pedido relativo ao afastamento dos danos morais, porquanto não houve manifestação pelo Tribunal de origem acerca do tema, carecendo, portanto, do devido prequestionamento da matéria. Incidência da Súmula 282/STF."
+Desse modo, revela-se nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios. A propósito, nesse sentido, confiram-se os seguintes precedentes:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUÉIS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 535, incisos I e II, do CPC/73 ou 1.022 do Código de Processo Civil de 2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+(..)
+4. Embargos de declaração rejeitados." (EDcl no AgInt no AREsp 1083820/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2018, DJe 17/12/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+(..)
+3. Embargos de declaração rejeitados, com fixação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do § 2º do art. 1.026 do CPC/2015."
+(EDcl nos EDcl no AgInt no REsp 1320651/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2018, DJe
+10/09/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
+EMENTA
