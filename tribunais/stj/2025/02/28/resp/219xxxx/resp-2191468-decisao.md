@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 120):
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. Decisão que não possibilitou a fixação de honorários advocatícios sucumbenciais em sede de cumprimento de sentença não impugnado, no qual houve a determinação de expedição de RPV - Irresignação dos exequentes Decisão que merece subsistir - Impossibilidade de condenação ao pagamento de honorários advocatícios pela mera instauração do cumprimento de sentença - Inteligência do art. 535, caput e § 3º, inc. II, do CPC - Precedentes do C. STJ e desta E. Corte Bandeirante - Decis ão Mantida - RECURSO IMPROVIDO.
+Embargos de declaração rejeitados
+A parte recorrente alega violação dos artigos 85, §§ 1º e 7º, do CPC/2015, 1º-D da Lei nº 9.494/1997, bem como divergência jurisprudencial, sob o argumento de que a jurisprudência do Superior Tribunal de Justiça é pacífica ao reconhecer a possibilidade de fixação de honorários em execuções contra a Fazenda Pública, mesmo na ausência de impugnação, quando o crédito está sujeito ao regime de RPV.
+Sem contrarrazões.
+A vice-presidência do Tribunal de origem, às fls. 254-255, determinou o retorno dos autos ao órgão julgador para exame de eventual juízo de retratação relativamente ao Tema 1.190/STJ, sendo, no entanto, mantido o entendimento anteriormente externado, consoante acórdão de fls. 261-268, assim ementado:
+AGRAVO DE INSTRUMENTO JUÍZO DE RETRATAÇÃO - Retorno do processo para readequação à tese fixada pelo E. STJ no julgamento dos recursos que deram origem ao Tema 1190 Descabimento - Decisum que não guarda nenhum conflito com o deliberado em sede de julgamento de recurso especial repetitivo - Desnecessidade de retratação - ACÓRDÃO MANTIDO.
+Juízo positivo de admissibilidade às fls. 196-198.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O Tribunal de origem concluiu pelo não cabimento dos honorários advocatícios no cumprimento de sentença contra a Fazenda Pública, nos seguintes termos (fls.123-133, grifei):
+ ..
+somente será cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública se ausente o pagamento da requisição de pequeno valor, no prazo de dois meses previsto no parágrafo 3º, inc. II, do referido dispositivo legal, ipsis litteris:
+ ..
+Portanto, a fixação de honorários advocatícios com fulcro no art. 85, § 1º, do Código de Processo Civil não se aplica de forma automática aos cumprimentos de sentença contra a Fazenda Pública.
+Por conseguinte, não merece prosperar o entendimento no sentido de que o arbitramento dos honorários advocatícios em desfavor da fazenda Pública decorre do princípio da causalidade, ou seja, pelo fato de ter sido necessário dar início ao cumprimento de sentença.
+Outrossim, em que pese constar (expressamente) no art. 85, § 7º, do Código de Processo Civil apenas o afastamento da condenação fazendária ao pagamento da verba honorária em execução não impugnada que enseje a expedição de precatório, o âmago da diferença entre RPV e precatório cinge-se tão somente ao valor do pagamento, que implicará em determinada forma de quitação. Ou seja, ambos consubstanciam ordens de pagamento desfavoráveis à Fazenda Pública e sujeitas a procedimentos especiais para seu adimplemento (ainda que um desses procedimentos seja mais simplificado do que o outro).
+ ..
+Destarte, o entendimento de que são devidos honorários advocatícios pela Fazenda Pública, em sede de cumprimento de sentença, tão somente em razão de sua instauração, encontra-se em total descompasso com a intepretação sistemática do Código de Processo Civil em vigor.
+ ..
+Logo, de rigor a manutenção da a r. decisão agravada, nos termos acima alinhavados.
+Em sede de juízo de retratação, manteve-se o julgado nos seguintes termos (fls. 263-268, grifei):
+Diante do julgamento do Tema nº 1190 do E. STJ, DJe 01.07.2024, nos moldes do artigo 1.040, inciso II, do Código de Processo Civil, o Presidente da Seção de Direito Público deste E. Tribunal de Justiça determinou a devolução dos autos a esta Turma Julgadora para eventual adequação da fundamentação e/ou manutenção da decisão (fls. 237/238).
+É, em síntese, o relatório.
+ ..
+Pois bem. Como já consignado no v. acórdão de fls. 119/134, é inadequado o arbitramento de honorários advocatícios em razão, unicamente, da sistemática que envolve os pagamentos a que estão sujeitos o Poder Público, não havendo se falar em causalidade apenas pela razão de ser necessário dar início ao cumprimento de sentença. Requisição de pequeno valor e precatório são, ambos, ordens de pagamentos a serem cumpridas pela Fazenda Pública devedora da obrigação, diferenciáveis em razão dos valores exequendos e do procedimento de adimplemento, sendo indevida a fixação de honorários nos casos em que haja a expedição de RPV, ainda que não impugnada pela Administração Pública.
+Resta evidenciado que a decisão colegiada foi proferida no mesmo sentido da tese fixada no Tema nº 1190 do E. STJ, que considerou incabível a diferenciação entre precatório e requisição de pequeno valor para fins de arbitramento de honorários em cumprimento de sentença não resistida.
+De mais a mais, nos termos da modulação realizada na tese repetitiva, o entendimento deverá ser aplicado aos feitos iniciados após a publicação do acórdão, o que se deu em 01.07.2024, data posterior, portanto, ao início do trâmite destes autos.
+Porém, considerando-se a vinculação do Tema nº 1190 somente a partir de sua publicação, os julgamentos anteriores a essa data poderiam ser mantidos por seus próprios fundamentos, especialmente por não se vislumbrar incompatibilidade entre o entendimento desta C. Câmara e aquele proferido pelo E. Superior Tribunal de Justiça.
+Nessa medida, com todo o respeito e data máxima vênia, os fundamentos do acórdão não estão em conflito com os paradigmas apontados, de forma que nada há a alterar em decorrência do quanto deliberado pelo E. STJ nos recursos que deram origem ao Tema nº 1190.
+Em relação ao tema, esta Corte Superior, ao julgar os Recursos Especiais 2.031.118/SP, 2.029.675/SP e 2.029.636/SP, pelo rito dos recursos repetitivos, fixou a seguinte tese: "Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV" (Tema 1.190).
+Ressalte-se que, em razão da modulação dos efeitos da mencionada tese, esta se aplica apenas aos cumprimentos de sentença iniciados após a publicação do acórdão.
+No presente caso, considerando que a publicação do acórdão relativo ao Tema 1.190 ocorreu em 01/07/2024 e que o cumprimento da sentença teve início em data anterior, deve-se aplicar a modulação dos efeitos. Assim, incide o entendimento de que é cabível a fixação de honorários advocatícios de sucumbência na execução de sentença contra a Fazenda Pública sujeita à expedição de RPV, ainda que não embargada.
+Ante o exposto, dou provimento ao recurso especial, determinando o retorno dos autos à origem para fixação dos honorários advocatícios, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PAGAMENTO POR RPV. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. INCIDÊNCIA. RECURSO ESPECIAL PROVIDO.
