@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por Jocicley Morais Fernandes contra a decisão do Tribunal de Justiça do Amazonas que inadmitiu recurso especial (fundado no art. 105, III, a, da Constituição Federal) dirigido contra o acórdão prolatado na Apelação Criminal n. 514536-65.2023.8.04.0001 (fls. 365/374).
+Nas razões do recurso especial, a defesa apontou violação dos arts. 157 e 244 do CPP, requerendo seja o presente recurso conhecido e provido para determinar a nulidade das provas ilícitas obtidas mediante revista pessoal e emprego de tortura, a consequente, absolvição do recorrente, à luz dos 157 e 244, ambos do Código de Processo Penal (fl. 394).
+A Corte de origem inadmitiu o recurso com suporte nos óbices das Súmulas 7 e 83/STJ (fls. 415/417).
+Contra a decisão a defesa interpôs o presente agravo (fls. 424/434).
+O Ministério Público Federal manifesta-se pelo conhecimento do agravo para negar provimento ao recurso especial (fls. 463/469).
+É o relatório.
+O agravo deve ser conhecido, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+No que se refere à tese de ilicitude das provas obtidas em busca pessoal levada a efeito sem fundadas razões, tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do RHC n. 158.580/BA, assentou que a busca pessoal, sem mandado judicial, exige justa causa (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+No caso, o Tribunal de origem, soberano na análise das circunstâncias fático-probatórias do feito, concluiu (fl. 368 - grifo nosso):
+ ..
+Do dispositivo transcrito, infere-se que, se motivada por fundada suspeita de que o indivíduo esteja em posse de material ilícito, a busca pessoal prescinde de mandado judicial. E no caso dos autos, tenho que a medida restou legitimada por fundadas razões, ensejando justa causa à sua realização. Nesse contexto, extrai-se dos autos que os policiais militares, em patrulhamento de rotina, receberam uma denúncia via "Linha Direta" de que havia alguns indivíduos comercializando substância entorpecente na Rua Marcos Cavalcante, Comunidade Alfredo Nascimento, Bairro Cidade de Deus e, chegando ao local, a equipe avistou três indivíduos que, de imediato, tentaram empreender, momento em que deixaram cair dinheiro e uma balança de precisão. Alcançados, foi realizada a revista pessoal, sendo encontradas, além de mais uma balança, as substâncias entorpecentes descritas no auto de exibição e apreensão de fls. 35/36 e que, levadas à perícia, testaram positivas para maconha e cocaína (fls. 41/47). Assim, restou comprovado que a busca pessoal foi realizada diante de fundada suspeita de que o Apelante ocultava consigo objetos utilizados na prática de crime ou destinado a fins ilícitos, em plena observância da norma prevista nos artigo 244, do Código de Processo Penal.
+ ..
+Pontua-se que, da moldura fática estabelecida no acórdão atacado, a abordagem dos policiais se deu não apenas em virtude de uma denúncia anônima, mas pela tentativa de fuga, com imediata perseguição, bem como pelo descarte de uma balança de precisão.
+Desse modo, tem-se que os fatos reconhecidos no acórdão atacado indicam fundada suspeita apta a justificar a busca pessoal, diante das circunstâncias que a antecederam.
+Registra-se que, no caso, há elementos concretos que fundamentem a busca pessoal, afastando alegação de nulidade, nos termos dos precedentes: AREsp n. 2.459.539/RS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 8/8/2024; AgRg no HC n. 870.402/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/5/2024; AgRg no HC n. 797.464/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/8/2023; e AgRg no HC n. 894.442/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 29/10/2024.
+No mesmo sentido: a fuga do paciente ao avistar a equipe policial constitui elemento suficiente para configurar fundada suspeita, justificando a abordagem e a realização de busca pessoal, conforme jurisprudência consolidada desta Corte Superior (RHC n. 158.580/BA e AgRg no HC n. 913.025/SP) - (HC n. 809.094/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024).
+Por fim, tampouco diviso ilegalidade flagrante que justifique a concessão de habeas corpus de ofício.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA. DENÚNCIA ANÔNIMA, DESCARTE DE OBJETOS E FUGA. CIRCUNSTÂNCIAS APTAS A JUSTIFICAR A BUSCA PESSOAL. NULIDADE NÃO EVIDENCIADA.
+Agravo conhecido para negar provimento ao recurso especial.
