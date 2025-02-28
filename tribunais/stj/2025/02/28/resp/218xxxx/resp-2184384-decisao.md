@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por LSL TRANSPORTES DA AMAZONIA LTDA contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, no qual discute a incidência da contribuição ao PIS e da COFINS sobre a receita proveniente da prestação de serviços ocorrida dentro da Zona Franca de Manaus.
+Com contrarrazões, o recurso foi admitido.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Pois bem.
+Cumpre ressaltar que a matéria debatida foi afetada ao rito dos recursos repetitivos, nos termos do art. 1.037 do CPC/2015, nos autos dos Recursos Especiais 2.093.050/AM e 2.093.052/AM (Tema 1.239/STJ, Rel. Min. Gurgel de Faria), tendo havido a ampliação da questão controvertida, aprovada pela 1ª Seção, em 13/11/2024, nos seguintes termos: "definir se a contribuição ao PIS e à COFINS incidem sobre a receita decorrente de vendas de mercadorias de origem nacional ou nacionalizada e advinda de prestação de serviço para pessoas físicas ou jurídicas no âmbito da Zona Franca de Manaus".
+Há determinação de suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ cujos objetos coincidam com o da matéria afetada.
+Com efeito, pela sistemática do julgamento dos recursos repetitivos disposta nos arts. 1.036 a 1.041 do CPC/2015, reconhecida a repercussão geral pelo Supremo Tribunal Federal, ou afetado recurso especial para julgamento como repetitivo pelo Superior Tribunal de Justiça, o processo ficará suspenso até o julgamento do tema.
+Ademais, o Tribunal de origem não terá exaurido a sua jurisdição até o julgamento do mérito dos representativos, quando exercerá o juízo de conformidade entre o acórdão por ele proferido e a tese firmada pelo STF ou STJ.
+Assim, em observância ao princípio da economia processual e à própria finalidade do CPC, é de rigor determinar o retorno dos autos à origem, onde deverão ficar sobrestados até a publicação do acórdão paradigma do tema repetitivo. Ante o exposto,
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, nos termos do art. 256-L, II, do RISTJ, a fim de que, após a publicação do acórdão proferido sob a sistemática dos recursos repetitivos, seja realizado o juízo de adequação quanto ao Tema n. 1.239/STJ, e em observância aos arts. 1.030 e 1.040 do CPC: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS E COFINS. PRESTAÇÃO DE SERVIÇOS A EMPRESAS SITUADAS NA ZONA FRANCA DE MANAUS. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1.239/STJ. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
