@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE CATUNDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+APELAÇÕES. INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE ABERTURA DE CRÉDITO FIRMADO COM A CEF. DESCONTO EFETIVADO DIRETAMENTE NA FOLHA DE PAGAMENTO. EMPRÉSTIMO CONSIGNADO. AUSÊNCIA DE REPASSE. INSERÇÃO DO NOME DA SERVIDORA NO ROL DOS DEVEDORES. DANO CARACTERIZADO. DANO CONFIGURADO. VERBA INDENIZATÓRIA SEGUNDO AS PECULIARIDADES DOS AUTOS. APELOS CONHECIDOS. DESPROVIDO O APELO DO MUNICÍPIO E PROVIDO EM PARTE O DA AUTORA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 373, I, do CPC, no que concerne à ausência de provas do direito alegado pela parte recorrida, porquanto não demostrada a conduta lesiva supostamente praticada pelo recorrente. Argumenta:
+O autor propôs a presente Ação Reparatória em desfavor do Município de Catunda buscando obter provimento jurisdicional no sentido de que lhe seja pago indenização por danos morais em razão de suposta cobrança indevida e inscrição em cadastros de proteção ao crédito.
+ ..
+Afirma que a cobrança indevida sub oculis é referente à suposta "dívida", que tem por origem um empréstimo consignado realizado pelo autor com a Caixa Econômica Federal no qual seriam descontados os valores mensais devidos em folha de pagamento (doc. em anexo) pela Prefeitura Municipal de Catunda e automaticamente repassados a CEF, quitando desta forma o débito existente, o que não foi repassado à respectiva instituição financeira.
+Sentenciado, decidiu o Juízo a quo condenar a municipalidade ao pagamento de indenização por danos morais, no valor de R$ 1.000,00 (um mil reais). A sentença aduz, in suma, que houve a comprovação da negativação do nome da parte autora pela instituição financeira, nada obstante a consignação tenha sido regularmente retirada na remuneração referente ao mesmo período.
+ ..
+Interpostas apelações por ambos os litigantes, o TJCE negou provimento ao apelo do Município e deu provimento ao recurso do autor majorando a condenação em danos morais para o valor de R$ 2.000,00 (dois mil reais). Ao mais, manteve inalterada a sentença recorrida, aduzindo in suma que uma vez comprovada à conduta lesiva imputada à Administração Pública, bem como demonstrados os pressupostos da responsabilização (fato ilícito administrativo, dano e nexo causal), impõe-se o reconhecimento da responsabilidade civil objetiva da municipalidade, nos moldes do art. 37, § 3º, da CF/1988. Eis e ementa do julgado:
+ ..
+Neste caso, ao contrário do apontado pelo respeitoso acordão, o autor não faz jus ao percebimento dos danos morais deferidos na espécie, tendo em vista que não comprovou as suas alegações. Senão vejamos.
+ ..
+As alegações do cometimento de ato ilícito pelo Município de Catunda não passam de meras afirmações postas na inicial sem qualquer esteio probatório. Conforme se verifica da documentação acostada aos autos, o autor, em nenhum momento algum, demonstrou a conduta lesiva supostamente sofrida. Tal alegação não passa de mera afirmação posta na inicial sem qualquer esteio probatório.
+Ora Exa., como de conhecimento curial, compete ao autor a prova dos fatos constitutivos do direito por ele alegado. Inocorrendo, deve ser julgado improcedente o pedido formulado na exordial. Nestes termos, o art. 373, I, do CPC/2015, ora violado, litteris:  ..  - (fls. 168-171).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Na verdade, e ao contrário do defendido pelo Município de Catunda, restou devidamente comprovado o desconto havido na folha de pagamento da autora, alusivo ao mês de outubro de 2017, sem o repasse devido à instituição bancária, ônus que lhe competia, circunstância que ensejou a inserção do nome da promovente no rol dos devedores (fl. 144).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
