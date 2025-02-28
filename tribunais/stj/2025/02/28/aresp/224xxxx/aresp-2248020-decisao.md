@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo interposto por LINKNET TECNOLOGIA E TELECOMUNICAÇÕES LTDA. contra a decisão vista às fls. 307-309, por meio da qual o recurso especial foi inadmitido.
+O agravante sustenta, em síntese, que as questões de mérito não foram devidamente analisadas e discutidas, argumentando que o "acórdão recorrido não se pronunciou sobre a questão atinente, por exemplo, à exigência da restituição integral dos valores repassados em contrapartida aos serviços prestados nos contratos 39/2005 e 54/2005", além de não ter sido enfrentada a questão atinente a nulidade da execução sem título líquido, certo e exigível, que pode ser arguida a qualquer tempo. Aduz que a decisão agravada transpôs o juízo de admissibilidade e ingressou no mérito do próprio recurso, violando o disposto no art. 1030, V, do CPC, e afirma violação ao art. 1.022 do CPC.
+Prossegue argumentando que a conclusão a que chegou o acórdão recorrido não decorreu da análise do conjunto fático-probatório, mas da equivocada interpretação dada à Lei Federal, não se aplicando ao caso o enunciado da Súmula 7/STJ.
+Pede o provimento do recurso.
+Contraminuta às fls. 365-375.
+É o relatório.
+Passo a decidir.
+O agravante se insurge contra a decisão por meio da qual o recurso especial foi inadmitido com fundamento na ausência de violação do art. 489, §1º e 1.022, parágrafo único, do CPC, e pelos enunciados das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+O recurso não merece prosperar.
+As alegações deduzidas pela agravante são insuficientes para ser consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência  da Súmula  5 deste Superior Tribunal de Justiça.
+O recorrente, aliás, deixa de impugnar a incidência do referido óbice, a despeito da extensa remissão aos argumentos do recurso especial, o que, todavia, não afasta o defeito de fundamentação.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+A propósito:
+PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PERSEGUIÇÃO, TORTURA OU PRISÃO DURANTE O REGIME MILITAR. PEDIDOS IMPROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação em que se pleiteia a indenização por danos materiais e morais decorrentes de perseguição, tortura ou prisão durante o regime militar. Na sentença, julgaram-se os pedidos improcedentes pela ocorrência da prescrição. No Tribunal a quo, a sentença foi reformada para afastar a prescrição e julgar os pedidos improcedentes. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na incidência da Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido óbice.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido (AgInt no AREsp n. 2.096.513/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+Também é entendimento desta Corte que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade (EAREsp n. 701.404/SC, Corte Especial, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018).
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
