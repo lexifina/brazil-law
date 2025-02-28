@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto por WILSON MIRANDA MARINHO contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. Direito do Consumidor. Cartão de crédito consignado. Falha na prestação de serviços não comprovada. Conjunto fático-probatório que não corrobora a versão autoral. Provas dos autos que demonstram que o autor recebeu depósito bancário, obtendo inegável proveito econômico. Insustentável a alegação de fraude, não sendo verossímil que o fraudador tenha indicado a conta da vítima para recebimento do valor emprestado. Descontos realizados no exercício regular de um direito. Ausência de danos extrapatrimoniais. Jurisprudência deste E. Tribunal de Justiça. Sentença que se reforma integralmente. RECURSO PROVIDO.
+Os embargos de declaração foram acolhidos sem atribuição de efeitos infringentes.
+Nas razões do recurso especial, o agravante alega violação aos arts. 371, I e II, 373, 932, 1.010, I do Código de Processo Civil de 2015, 186, 927, do Código Civil, 14, do CDC, bem como divergência jurisprudencial, sustentando, em síntese, isto: (a) os requisitos do art. 1.010, I, do CPC/2015 não foram cumpridos; (b) houve fraude em que o ora recorrente foi vítima e a instituição financeira não adotou as medidas de cautela pertinentes; (c) os descontos indevidos geram o dever de indenizar.
+É o relatório. Passo a decidir.
+De início, nas razões recursais, o recorrente apontou violação dos arts. 932, 1.010, I do Código de Processo Civil de 2015. Entretanto, não desenvolveu argumentação que evidenciasse tais ofensas, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+No que tange à suposta violação dos demais dispositivos invocados, a Corte de origem concluiu, diante do contexto fático-probatório contido nos autos, que restaram comprovadas a existência de contrato lícito firmado entre o agravante e a instituição financeira e a informação que recebeu depósito bancário obtendo inegável proveito econômico, in verbis:
+O cerne do recurso consiste em saber se houve falha na prestação dos serviços, a fim de justificar o acolhimento das pretensões de cancelamento do cartão de crédito consignado e de ressarcimento do valor que foi descontado do contracheque da parte.
+O contrato impugnado na presente demanda é o de n. 56554153, cuja averbação ocorreu aos 08/07/2019, tratando-se de cartão de crédito consignado, com previsão de débito, mensalmente, de valor mínimo de R$ 261,75.
+Referido contrato (cartão de crédito consignado), como é de conhecimento público, pode ser utilizado nas funções crédito (o que é mais usual) ou débito, nos limites das margens de crédito que são concedidas pela empresa/instituição operadora do cartão de crédito.
+A modalidade de contrato, da espécie cartão de crédito consignado, encontra previsão no artigo 2º, § 1º e § 2º, I, "a", da Lei n. 10.820/2003:
+(..)
+Referida modalidade de contrato consiste no desconto, diretamente em folha de pagamento/contracheque (consignação), do valor para pagamento mínimo da fatura, devendo o saldo devedor remanescente do cartão de crédito, na hipótese de ser utilizada a margem de crédito, ser pago pela via convencional (lotéricas, caixas eletrônicos, agências bancárias, aplicativos, etc.).
+Ao contrário do sustentado pelo autor, o conjunto probatório constante dos autos não confirma os fatos narrados na exordial, visto que os documentos apresentados são insuficientes para alicerçar o alegado desconhecimento da contratação.
+A parte ré apresentou o contrato assinado (índex 240), bem como há a declaração por parte da autora, em sede de exordial, que houve depósito na conta corrente em dezembro de 2020.
+(..)
+Convém ressaltar que é de grande estranheza que o depósito em sua conta corrente tenha ocorrido em 2020 e o autor somente tenha ingressado em juízo em março de 2022.
+Embora não tenha ocorrido prova grafotécnica, a fim de avaliar a assinatura apresentada no contrato impugnado, todo o conjunto probatório dos autos demonstra que o autor obteve crédito, e, posteriormente, em sede judicial, busca a desconstituição da dívida, conduta que não se amolda com o princípio da boa-fé objetiva e que deve nortear os contraentes em todas as fases do negócio jurídico.
+(..)
+Não há, assim, qualquer irregularidade na contratação, sendo insustentável a alegação de fraude, não sendo verossímil que o fraudador tenha indicado exatamente a conta do apelado - em tese, vítima - para recebimento do valor emprestado. Não há, em verdade, fraude, quando o único beneficiado é a própria vítima.
+Caso contrário, haveria evidente enriquecimento sem causa por parte da apelado, sobretudo porque não há registro de que o valor depositado em sua conta corrente tenha sido restituído ao banco, ou mesmo depositado em juízo.
+Repisa-se, embora a autora afirme que não contratou o empréstimo por meio de cartão de crédito, o conjunto probatório dos autos não corrobora suas alegações, notadamente pelo proveito econômico que auferiu.
+Assim, deve ser reconhecida a validade do contrato, e, consequentemente, dos descontos correspondentes às respectivas parcelas, não se admitindo a pretensão do apelado de declaração de inexistência de débito.
+Diante da inocorrência de falha na prestação do serviço do apelante, não há danos morais a reparar, sendo que os descontos foram realizados no exercício regular de um direito, pois correspondem à legítima contraprestação pelo fornecimento do crédito.
+Em razão da ausência de falha na prestação do serviço, resta prejudicada a análise do descabimento da devolução em dobro dos valores pagos pelo autor.
+Assim, a modificação dos entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos e análise de cláusulas contratuais, o que é inviável na sede estreita do recurso especial, a teor do que dispõem as Súmula 5 e 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C REPARAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. EQUIPARAÇÃO AO CONTRATO DE EMPRÉSTIMO CONSIGNADO. NÃO CABIMENTO. CONTRATAÇÃO DE CARTÃO DE CRÉDITO LEGÍTIMA. REVISÃO DESSE ENTENDIMENTO. SÚMULAS 5 E 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Conforme assentado no acórdão recorrido, o contrato em questão não induz à conclusão de que seu objeto seria de empréstimo consignado, sujeito às menores taxas de juros do mercado. Diante disso não há como acolher a pretensão da parte autora de limitação da taxa de juros remuneratórios pela taxa média de mercado aplicada ao empréstimo pessoal consignado público, uma vez que a contratação cartão de crédito em questão se mostra legítima, tendo efetivamente utilizado do serviço contratado.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n.
+5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1518630/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/10/2019, DJe 05/11/2019 - g.n)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
