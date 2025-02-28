@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WALTER FONTANIVE JUNIOR contra decisão exarada pela il. Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 132):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. TELEFONIA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA. ORIGEM DA DÍVIDA DEVIDAMENTE DEMONSTRADA. ALEGAÇÕES AUTORAIS CARENTES DE RESPALDO PROBATÓRIO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+APELO DESPROVIDO.
+Nas razões recursais, o agravante indica violação aos arts. 373, I, II e § 1º, do NCPC, 6º e 14, do Código de Defesa do Consumidor, 186 e 927, do Código Civil, bem como divergência jurisprudencial, argumentando isto: (I) "(..) muito embora dito que aplicada a inversão do ônus probante, os julgadores não reconheceram a hipossuficiência do reclamante ante a produção de prova que competia a estes autos, em notória afronta ao Código Consumerista, mais precisamente artigo 6º, VIII" (fl. 146); (II) houve ilicitude da parte recorrida ao inscrever o nome do autor no cadastro de inadimplentes, causando prejuízos a sua honra objetiva; (III) "A norma civilista prevê que aquele que agindo de forma ilícita, causar dano a outrem, tem o dever de repará-lo, sendo exatamente o que pretende este recorrente" (fl. 147).
+É o relatório. Passo a decidir.
+Com efeito, o eg. TJ-RS, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, concluiu, entre outros fundamentos, que "(..) mostra-se frágil a verossimilhança das alegações autorais quanto à comprovação da contratação e origem do débito, sob a justificativa de que não fora apresentado o contrato devidamente firmado pelas partes". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 130-131):
+Ao quanto importa contextualizar, cuida-se de ação de inexigibilidade de débito cumulada com indenização por danos morais, em que a parte apelante sustenta desconhecer a dívida de R$ 69,90 inserida pela ré no Serasa.
+No caso dos autos, mostra-se frágil a verossimilhança das alegações autorais quanto à comprovação da contratação e origem do débito, sob a justificativa de não fora apresentado o contrato devidamente firmado pelas partes, ao passo que os documentos são unilaterais.
+Isso porque, a mera impugnação realizada pela parte autora desacompanhada de qualquer razão ou indicação mínima acerca da inautenticidade das informações prestadas, por si só, não afastam a força probante dos documentos apresentados, os quais há muito são considerados como fonte fidedigna de provas nesta Câmara:
+(..)
+Para além disso, no presente caso, a parte requerida esclareceu que a dívida R$ 69,90 corresponde à linha telefônica de (091 - 99289.8240), referente à conta de n.º 0403392534, esta igualmente discriminada na restrição apresentada:
+(..)
+Assim, entendo que os documentos juntados demonstram a licitude da dívida.
+Outrossim, quando à divergência do código de área apresentado, o qual corresponde à outra região do país, tenho que a parte autora não demonstrou que à época em que a linha telefônica encontrava-se ativa, residia em Porto Alegre, porquanto sequer coligiu aos autos seu comprovante de endereço. Portanto, ausente respaldo probatório, resta fragilizada a verossimilhanças das alegações autorais.
+Sendo assim, ainda que considerada a inversão do ônus da prova a que faz alusão o diploma protetivo do consumidor, tem-se que a requerida se desincumbiu do ônus que lhe competia, demonstrando haver agido em exercício regular de direito, ao exigir o quanto lhe é devido por conta do uso dos serviços contratados entre ela e a parte autora e, consequentemente, em inscrever o nome desta última na plataforma de negociação Serasa Limpa Nome, ante o inadimplemento, motivo pelo qual descabe falar em cobrança indevida e danos morais, dela decorrentes. (g. n.)
+Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula n. 7/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
