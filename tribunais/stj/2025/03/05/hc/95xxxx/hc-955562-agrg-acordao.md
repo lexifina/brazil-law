@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO NÃO JUSTIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Com a Lei n. 10.792/2023, o exame criminológico deixou de ser obrigatório para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+2. Após a Lei n. 14.843/2024, aplicável aos crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+3. Com base nessas premissas, deve ser mantida a concessão do habeas corpus, pois as instâncias de origem determinaram o estudo de periculosidade utilizando-se de fundamentação inidônea, não relacionada ao período de resgate da pena, mas na gravidade abstrata dos delitos praticados e na longa pena a cumprir.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO agrava da decisão que concedeu o habeas corpus ao paciente.
+O Parquet estadual assere que "a regra exige uma análise que deve ser feita caso a caso, aferindo-se, assim, requisitos subjetivos, o que, note-se, já era exigível do Juiz da execução criminal mesmo antes da alteração da redação pela Lei nº 14.843/2024. Esta apenas voltou a prever que a aferição passa pela realização da perícia multidisciplinar, denominada exame criminológico" (fl. 57).
+Nesse sentido, afirma que " a  natureza da regra é, assim, de caráter procedimental, não de natureza material, sem relação com o tipo ou gravidade da infração penal cometida e, assim, é norma de aplicação imediata, ex vi do disposto no artigo 2º do Código de Processo Penal, sem que haja violação a irretroatividade da norma penal mais gravosa, seja porque ausente o caráter penal da norma, seja porque a possibilidade de se determinar o exame criminológico já existia" (fl. 57).
+Requer a reconsideração da decisão ora agravada ou o provimento do agravo, a fim de que seja restabelecido o acórdão proferido pela Corte local.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO NÃO JUSTIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Com a Lei n. 10.792/2023, o exame criminológico deixou de ser obrigatório para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+2. Após a Lei n. 14.843/2024, aplicável aos crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+3. Com base nessas premissas, deve ser mantida a concessão do habeas corpus, pois as instâncias de origem determinaram o estudo de periculosidade utilizando-se de fundamentação inidônea, não relacionada ao período de resgate da pena, mas na gravidade abstrata dos delitos praticados e na longa pena a cumprir.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Mantenho a decisão agravada.
+Consoante dito, com a Lei n. 10.792/2023, o exame criminológico deixou de ser requisito obrigatório para fins de progressão de regime, mas não foi proibido ou suprimido pelo legislador e, por isso, subsistiu a possibilidade de sua determinação judicial, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+Atualmente, após a Lei n. 14.843/2024, e para os crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+No caso concreto, foi violada a Súmula n. 439 do STJ. É ilegal a indicação da "gravidade abstrata do delito pelo qual foi o paciente condenado, sem que em nenhum momento se fizesse referência a elementos atuais e concretos colhidos no decorrer da execução criminal" (AgRg no HC n. 792.891/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/6/2023, DJe de 3/7/2023).
+Na origem, o Juiz da VEC destacou que "em que pese o preenchimento do requisito objetivo, o sentenciado cumpre pena por crime grave, cometido mediante violência ou grave ameaça e possui considerável período de pena por cumprir" (fl. 33). Todavia, a gravidade abstrata dos delitos e a longa pena a cumprir não justificam a determinação da realização do exame criminológico. Essa exigência somente poderá fundar-se em fatos relacionados à execução penal, que revelem alguma dúvida sobre a capacidade de adaptação do reeducando ao regime mais brando, mormente por ele não ostentar prática de falta grave recente (fl. 24).
+Aplica-se ao caso o entendimento de que:
+ ..  A teor da Súmula n. 439 deste Superior Tribunal, admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+2. As instâncias ordinárias não fundamentaram de maneira idônea a necessidade da perícia, pois, a teor dos precedentes desta Corte, a gravidade abstrata do crime objeto da execução  ..  e a mínima vigilância do regime prisional aberto não são aspectos negativos relacionados à execução penal, a denotar a necessidade de aferição mais minuciosa do mérito subjetivo do apenado.
+3. Agravo regimental não provido" (AgRg no RHC 116.291/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/09/2019, DJe 30/09/2019; sem grifos no original.)
+ ..  Na hipótese, o Tribunal a quo entendeu pela necessidade de realização de exame criminológico em razão da reincidência do Apenado, da gravidade abstrata do delito (homicídio) e da longa pena a cumprir. Todavia, nos termos da jurisprudência desta Corte Superior, fundamentos abstratos e genéricos, como os apresentados pela Corte de origem, não justificam a exigência de exame criminológico, bem como a análise do preenchimento do requisito subjetivo somente poderá fundar-se em fatos praticados durante a execução penal.
+2. Agravo regimental desprovido." (AgRg no HC 544.604/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020).
+À vista do exposto, nego provimento ao agravo regimental.
