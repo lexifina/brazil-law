@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de MARCOS LUAN PAULINO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+AGRAVO EM EXECUÇÃO - REGIME ABERTO - PRISÃO DOMICILIAR EXCEPCIONAL - DESCUMPRIMENTO DAS CONDIÇÕES - CÔMPUTO COMO PENA CUMPRIDA - INVIABILIDADE - AUSÊNCIA DE SUSPENSÃO DA PRISÃO DOMICILIAR - IRRELEVÂNCIA - EXTINÇÃO DA PUNIBILIDADE - NÃO CABIMENTO - 1. O regime aberto, por se tratar do regime mais brando e se caracterizar pela reduzida vigilância estatal, pressupõe um maior senso de responsabilidade do sentenciado, nos termos do artigo 114, inciso II, da Lei de Execução Penal (LEP). - 2. O período de descumprimento das condições do regime aberto não pode ser computado como pena cumprida, conforme reiterados precedentes do Superior Tribunal de Justiça (STJ). - 3. A ausência de suspensão da prisão domiciliar é irrelevante para que se desconsidere, como pena cumprida, o lapso temporal em que o sentenciado deixou de cumprir as condições fixadas pelo Juízo da execução. - 4. Não se aplica a Súmula 617 do STJ, nem a disciplina dos artigos 90 do Código Penal e 146 da LEP, por se referirem especificamente ao livramento condicional. - 5. Não cabe a extinção da punibilidade pelo integral cumprimento da pena, quando o sentenciado não cumpriu a sanção imposta em sua totalidade, devendo ser afastada qualquer espécie de cumprimento ficto.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, pois decorreu o lapso temporal necessário ao término da pena do paciente sem que houvesse qualquer notícia do descumprimento das condições impostas ao regime aberto, e sem decisão de suspensão ou revogação da prisão domiciliar, devendo o tempo ser contado como tempo efetivamente cumprido, com a consequente extinção da pena.
+Requer, assim, seja declarada a extinção da pena do reeducando.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Com a devida vênia àqueles que entendem de forma diversa, o referido período de descumprimento das condições do regime aberto não pode ser computado como pena cumprida.
+Considere-se que o regime aberto - justamente por se tratar do regime mais brando e se caracterizar pela reduzida vigilância estatal - pressupõe um maior senso de responsabilidade pelo sentenciado, nos termos do artigo 114, inciso II, da Lei de Execução Penal (LEP).
+O descumprimento das condições impostas pelo Juízo da execução - e aceitas pelo sentenciado - inviabiliza a contagem daquele período como pena cumprida. A regra é o regular cumprimento da pena, sendo vedado o seu cômputo ficto.
+ ..
+Como a regra é o regular cumprimento da pena, a desconsideração do período em que o sentenciado deixou de cumprir as condições impostas independe da existência de previsão legal nesse sentido. Portanto, para o afastamento da regra (ou seja, para que seja computado como pena cumprida o período de descumprimento) é que se exige a existência de previsão legal, e não o contrário.
+ ..
+Registra-se, nesse prumo, que a ausência de suspensão da prisão domiciliar é irrelevante para que se desconsidere, como pena cumprida, o lapso temporal em que o sentenciado deixou de cumprir as condições fixadas pelo Juízo da execução (fls. 11- 12).
+Segundo jurisprudência firmada nesta Corte, não é possível considerar como pena cumprida o período em que o apenado descumpriu as condições impostas ao regime aberto, ainda que não haja decisão anterior reconhecendo a inobservância das condições ou suspendendo cautelarmente o regime, sendo inaplicável o teor da Súmula n. 617 do STJ, que trata de situação diversa, específica para as hipóteses de concessão de livramento condicional, motivo pelo qual incabível a extinção da pena do reeducando pelo cumprimento da pena remanescente.
+Nesse sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXTINÇÃO DA PUNIBILIDADE. DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO DOMICILIAR. IMPOSSIBILIDADE.
+1. Se o apenado não compareceu em juízo para o cumprimento das condições impostas, relativas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida, a despeito de inexistir decisão anterior de sustação cautelar do referido regime.
+2."A situação posta nos autos refere-se ao descumprimento de condições impostas ao apenado em regime aberto, situação distinta daquelas que justificam a aplicação do verbete sumular n. 617/STJ, específico para as hipóteses de concessão de livramento condicional, o que impede a sua incidência" (AgRg no HC n. 606.027/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/2/2021, DJe de 10/2/2021).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.110.055/MG, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 23.6.2023.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. DESCUMPRIMENTO DE CONDIÇÕES DO REGIME ABERTO. AUSÊNCIA DE COMPARECIMENTO PERIÓDICO EM JUÍZO. TIPICIDADE DOS FATOS NARRADOS. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - É assente nesta eg. Corte Superior que "Se o apenado descumpre as condições do regime aberto ou não comparece para dar cumprimento às condições impostas, não há falar em extinção da pena pelo cumprimento da pena remanescente, o qual sequer se inicia efetivamente em tais casos" (HC n. 380.077/PR, Sexta Turma, Rel. Min. Néfi Cordeiro, DJe de 6/11/2017).
+III - Escorreito o posicionamento adotado pelo eg. Tribunal a quo, ao não considerar como pena efetivamente cumprida o período de 18/11/2018 a 28/5/2019, no qual o apenado se furtou ao comparecimento periódico em juízo - se quedando incurso em falta grave: descumprimento das condições impostas no regime aberto, prevista no art. 50, V, da Lei de Execuções Penais.
+Habeas Corpus não conhecido.
+(HC n. 659.468/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 30.8.2021.)
+Ainda nesse sentido: AgRg no HC n. 643.021/SP, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 31.8.2021; AgRg no HC n. 606.027/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 10.2.2021; HC n. 482.915/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27.6.2019.
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
