@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Amapá, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local no Agravo em Execução Penal n. 0003791-79.2024.8.03.0000, assim ementado (fl. 91):
+PENAL. AGRAVO EM EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. IRRETROATIVIDADE DA LEI MAIS GRAVOSA. INDULTO NATALINO. DECRETO Nº 11.302/2022. CRIME IMPEDITIVO COMO ÓBICE À CONCESSÃO DO DIREITO. 1) Com o advento da Lei nº 14.843/2024, passou a ser vedada a concessão do direito à saída temporária aos condenados por crimes hediondos ou com violência ou grave ameaça contra pessoa, porém, por se tratar de lei nova mais gravosa ao apenado, demonstra-se incabível a sua aplicação aos que praticaram crime antes da inovação legislativa, ante prevalência do princípio da irretroatividade da lei penal mais prejudicial, previsto expressamente no art. 5º, XL, da Constituição Federal. Decisão STF; 2)Nos termos da Jurisprudência do Supremo Tribunal Federal e Superior Tribunal de Justiça, "o crime impeditivo do indulto, fundamentado no Decreto Presidencial nº 11.302/2022, deve ser considerado tanto no concurso de crimes quanto em razão da unificação de penas". Precedente TJAP; 3) Recurso provido em parte.
+No recurso especial, o recorrente aponta a violação do art. 112, § 2º, da Lei de Execução Penal, sob a tese de que a proibição de concessão de saída temporária a condenado por crime hediondo, introduzida pela Lei n. 14.843/2024, deve ser aplicada imediatamente.
+Argumenta que o Pacote Anticrime, mais precisamente, a Lei 13.964/2019, já dispunha que a saída temporária é vedada aos apenados condenados por crimes hediondos com resultado morte, e, nesse sentido, a Lei 14.843/2024, apresentou algumas alterações, mas preservou essa proibição, o que, portanto, não há que se considerar como eventual ofensa ao princípio da irretroatividade penal mais gravosa (fl. 125).
+Ressalta que a concessão de benefícios na execução penal não constitui um direito adquirido do apenado, mas sim uma faculdade concedida mediante o preenchimento de requisitos estritamente legais e circunstanciais. No caso dos condenados por crimes hediondos, essa concessão se torna ainda mais restrita, uma vez que o legislador, atento à gravidade e à ofensividade desses delitos, estabeleceu limitações expressas (fl. 126).
+Ao final da peça recursal, requer o provimento da insurgência para restabelecer a decisão de primeira instância que indeferiu o pedido de saída temporária.
+Oferecidas contrarrazões (fls. 141/153), o recurso especial foi admitido na origem (fls. 159/161).
+O Ministério Público Federal opina pelo não provimento da insurgência (fls. 180/183).
+É o relatório.
+O recurso não comporta provimento.
+Quanto à aplicação da Lei n. 14.843/2024 ao caso dos autos, o Tribunal de origem consignou o seguinte (fls. 93/94 - grifo nosso):
+ ..  Quanto ao direito à saída temporária, denoto que o referido direito foi indeferido com base na alteração legislativa promovida pela Lei nº 14.843, editada em 11/04/2024, responsável por modificar a redação do §2º do art. 112 da Lei de Execução Penal, a saber:
+ ..
+Ocorre, todavia, que a aplicação da referida norma de forma imediata implica em flagrante ofensa aos princípios da irretroatividade da lei penal mais gravosa, bem como ao da individualização da pena, assegurados expressamente pelo art. 5º, XL e XLVI, da Constituição Federal, porquanto obstaculizou o direito à saída temporária, instrumento de extrema relevância na ressocialização almejada pela lei de execução penal.
+Além disso, a referida garantia constitucional também encontra amparo no sistema interamericano de direitos humanos, conforme se extrai do art. 9º da Convenção Americana de Direitos Humanos, incorporada ao nosso ordenamento jurídico por meio do Decreto nº 678:
+ ..
+A propósito, o Supremo Tribunal Federal, em decisão monocrática do Ministro André Mendonça, adotou entendimento semelhante, estipulando expressamente que a Lei nº 14.843 não se aplica aos apenados que cometeram crimes antes da inovação legal, tudo em estrita observância ao princípio da irretroatividade da norma mais prejudicial, pronunciamento judicial monocrático que transitou em julgado no dia 10 de junho de 2024 (HC nº 240770 - Dje 29/05/2024).
+Não ignoro que, desde a Lei nº 13.964/2019, já era proibida a concessão de saída temporária ao condenado por crime hediondo com resultado morte, no entanto, em consulta ao SEEU, constatei que o único crime dessa natureza foi praticado pelo agravante no ano de 2010, devendo-se observar, portanto, o entendimento esposado ao norte.
+Assim, considerando que o fundamento utilizado para indeferir a saída temporária se demonstrou inidôneo, compreendo ser o caso de anular a decisão nesse ponto, com a determinação de devolução dos autos ao Juízo de origem para examinar o pedido do apenado, devendo-se ater aos requisitos objetivos e subjetivos previstos nos arts. 122 e 123.
+ ..
+Como se observa, o acórdão recorrido encontra-se em consonância com o entendimento desta Corte Superior, segundo a qual a Lei n. 14.483/2024, que conferiu nova redação ao art. 112, § 2º, da Lei de Execução Penal, passando a proibir a concessão do benefício de saída temporária aos condenados por crimes hediondos, não se aplica ao caso cujo o delito foi praticado antes de sua entrada em vigor, por se tratar de novatio legis in pejus.
+A corroborar, colaciono os seguintes julgados desta Corte Superior:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. LEI Nº 14.843/2024. ALTERAÇÕES NA LEI DE EXECUÇÕES PENAIS. IMPOSSIBILIDADE DE RETROATIVIDADE EM PREJUÍZO DO APENADO. FLAGRANTE ILEGALIDADE. CONCESSÃO DA ORDEM DE OFÍCIO. I. CASO EM EXAME
+ ..
+III. RAZÕES DE DECIDIR
+3. A jurisprudência consolidada das Cortes Superiores entende que modificações legislativas que agravem as condições de execução da pena não devem ser aplicadas retroativamente, sob pena de violação ao princípio da irretroatividade da lei penal mais gravosa, conforme previsto no art. 5º, XL, da Constituição Federal.
+4. A exigência de exame criminológico para progressão de regime, bem como a vedação de saída temporária imposta pela Lei nº 14.843/2024, constituem novatio legis in pejus, pois criam novos obstáculos e condições mais rigorosas para a obtenção de benefícios da execução penal.
+5. Precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal afirmam que a retroatividade de normas mais gravosas em execução penal é inconstitucional e ilegal, aplicando-se apenas aos crimes cometidos após a vigência da lei nova.
+6. Diante da flagrante ilegalidade na aplicação retroativa da Lei nº 14.843/2024, impõe-se a concessão da ordem de ofício para restabelecer a decisão do magistrado das execuções, que albergou o direito do paciente às saídas temporárias, sem a exigência de exame criminológico.
+IV. HABEAS CORPUS NÃO CONHECIDO, COM CONCESSÃO DA ORDEM DE OFÍCIO.
+(HC n. 946.689/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN 17/12/2024 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO. REMÉDIO NÃO CONHECIDO. POSSIBILIDADE DE CONCESSÃO DA ORDEM SE CONSTATADA FLAGRANTE ILEGALIDADE. SAÍDA TEMPORÁRIA. LEI N. 14.843/24. IRRETROATIVIDADE. REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte vem entendendo que, por se tratar de lei penal mais gravosa, a Lei n. 14.843/24, no que se refere às disposições acerca do benefício da saída temporária, não pode ser aplicada retroativamente. Dessarte, cogente o restabelecimento da decisão do Juízo da Execução que deferira o benefício da saída temporária ao ora agravante.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 951.093/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 9/12/2024 - grifo nosso).
+Observo, ainda, que não há falar em aplicação da referida proibição desde a edição do Pacote Anticrime (Lei n. 13.964/2019), por se tratar de condenado a crime hediondo com resultado morte, tendo em vista que a única condenação do recorrido por crime dessa natureza remonta a 2010, como apontado pelo Tribunal de origem. Ou seja, inaplicável tal disposição à luz do princípio da irretroatividade da lei penal mais gravosa.
+Logo, não há reparo a ser feito na decisão do Tribunal de origem.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 112, § 2º, DA LEP. NOVA REDAÇÃO CONFERIDA PELA LEI N. 14.843/2024. SAÍDA TEMPORÁRIA. CRIMES HEDIONDOS. PROIBIÇÃO. NOVATIO LEGIS IN PEJUS. INAPLICABILIDADE, NO CASO. DELITO PRATICADO ANTES DA VIGÊNCIA DA NOVA LEI. PRECEDENTES
+Recurso especial improvido.
