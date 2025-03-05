@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação do art. 1.022, I e II, do CPC, (b) aplicação das Súmulas n. 7 do STJ e 282 e 284 do STF e (d) falta de comprovação do dissídio jurisprudencial (e-STJ fls. 1.450/1.453).
+O acórdão recorrido está assim ementado (e-STJ fls. 1.086/1.087):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR RESPONSABILIDADE MÉDICA E HOSPITALAR. ÓBITO DO PACIENTE. SENTENÇA DE PARCIAL PROCEDÊNCIA. CONDENAÇÃO DOS RÉUS AO PAGAMENTO DE DANOS MATERIAIS, PENSÃO POR MORTE E DANOS MORAIS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. APELAÇÃO DA RÉ SOCIEDADE HOSPITALAR ANGELINA CARON. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO HOSPITALAR. DESPESAS COM FUNERAL. DESNECESSIDADE DE COMPROVAÇÃO. PENSÃO POR MORTE DEVIDA. DANOS MORAIS CARACTERIZADO. MINORAÇÃO DO DANO MORAL. IMPOSSIBILIDADE. VALOR QUE SE MOSTRA RAZOÁVEL E PROPORCIONAL. PLEITO PARA FIXAR OS JUROS DE MORA DO DANO MORAL A PARTIR DA SENTENÇA. IMPOSSIBILIDADE. APLICAÇÃO DO ARTIGO 405 DO CÓDIGO CIVIL. RECURSO CONHECIDO E NÃO PROVIDO.
+2. APELAÇÃO DOS ADVOGADOS DOS AUTORES. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. REGRA GERAL. CRITÉRIO OBJETIVO (ART. 85, § 2º/CPC). NÃO CABIMENTO DE FIXAÇÃO EQUITATIVA (8º, ART. 85/CPC). REFORMA DA SENTENÇA. RECURSO CONHECIDO E PROVIDO.
+3. APELAÇÃO DA RÉ SIMONE VIANA BRAGA. INADEQUAÇÃO DAS PREMISSAS APONTADAS PELO JUÍZO A QUO. TESE AFASTADA. NEGLIGÊNCIA. ATENDIMENTO AO PACIENTE SEM A REALIZAÇÃO DE EXAMES COMPLEMENTARES. ÓBITO DO PACIENTE. NEXO DE CAUSALIDADE ENTRE A ATITUDE NEGLIGENTE E O RESULTADO. RESPONSABILIDADE SUBJETIVA DAS PROFISSIONAIS MÉDICAS EM IGUAL GRADUAÇÃO. SOLIDARIEDADE ENTRE OS RÉUS. SENTENÇA MANTIDA. RECUSO CONHECIDO E DESPROVIDO.
+4. APELAÇÃO DA RÉ PRISCILLA DAL PRÁ CAMPOS. ALEGA TER ATUADO DE FORMA ZELOSA COM RELAÇÃO AO PACIENTE. AUSÊNCIA DE SOLICITAÇÃO DE EXAMES COMPLEMENTARES. CULPA NÃO ELIDIDA. REDUÇÃO DO QUANTUM FIXADO PARA OS DANOS MORAIS. INDENIZAÇÃO POR DANOS MORAIS ESTABELECIDA DE ACORDO COM AS PECULIARIDADES DE CADA CASO CONCRETO. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Os sucessivos embargos de declaração foram rejeitados (e-STJ fls. 1.207/1.210 e 1.236/1.239).
+Nas razões do recurso especial (e-STJ fls. 1.301/1.319), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou violação dos seguintes dispositivos, além de dissídio jurisprudencial:
+(i) art. 944 do CC e 1.022 do CPC, alegando que seja declarada omissão do acórdão aduzindo que o "TJPR lançou mão de novo da resposta (padronizada) de que o propósito seria de "mera rediscussão da matéria"; e, com isso, intensificou a gravidade do desrespeito ao art. 944, do CC, além de ter violado, paralelamente, outra vez, os preceitos do art. 1.022, do CPC" (e-STJ fls. 1.307/1.308),
+(ii) arts. 485, § 3º e 493 do CPC, por entender que, "apesar de se tratar de uma ação indenizatória por meio da qual, precisamente, postula-se pela reparação de danos causados em atendimento pelo Sistema Único de Saúde - SUS, por pessoa jurídica de direito privado prestadora de serviço público, a e. Corte a quo se recusou a reconhecer a ilegitimidade das pessoas físicas apostas no polo passivo" (e-STJ fls. 1.304/1.305).
+Foram oferecidas contrarrazões (e-STJ fls. 1.429/1.436 e 1.437/1.449).
+No agravo (e-STJ fls. 1.457/1.475), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.479/1.493 e 1.515/1.527).
+É o relatório.
+Decido.
+Diante do princípio da unirrecorribilidade e da ocorrência da preclusão consumativa, não merece conhecimento o primeiro recurso interposto pela mesma parte contra a mesma decisão.
+Com relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+A modificação do valor da indenização por danos morais é admitida, em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, manteve a indenização dos danos morais conforme lançada na sentença (e-STJ fl. 1.097):
+Ainda no tocante aos danos morais, as Apelantes/rés Hospital e Priscilla alegaram que eventualmente se entenda que houve alguma falha na prestação de serviços médicos, o valor mostra-se excessivo de R$ 80.000,00 (oitenta mil reais) para cada um dos autores, devendo ser reduzido.
+Cabe destacar que o valor arbitrado pelo Juízo "a quo" está dentro dos parâmetros fixado por este Tribunal em casos análogos de morte da vítima.
+Para alterar tais fundamentos, seria imprescindível o reexame do conjunto fático-probatóri o dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Por fim, a simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+O Tribunal de origem, ao analisar o recurso de apelação, não fez menção aos arts. 485, § 3º, e 493 do CPC, indicado nas razões recursais, conforme se infere do voto condutor do acórdão recorrido.
+Assim, incidente no caso o óbice das Súmulas n. 282 e 356 do STF.
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
