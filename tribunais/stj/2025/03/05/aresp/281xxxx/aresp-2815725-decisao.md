@@ -1,0 +1,22 @@
+DECISÃO
+Na origem, trata-se de execução definitiva contra a fazenda pública do Distrito Federal. Na sentença, determinou-se o prosseguimento da execução. No Tribunal a quo, a sentença foi mantida . O valor da causa foi fixado em R$ 172.618,20.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS contra acórdão com o seguinte resumo de ementa:
+CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO. COMPENSAÇÃO COM PRECATÓRIO. MULTA DO ART. 1.021, § 4º, DO CPC. SANÇÃO PROCESSUAL. DÉBITO DE NATUREZA NÃO TRIBUTÁRIA. AUSÊNCIA DE PREVISÃO LEGAL AUTORIZADORA. REGIME JURÍDICO DE DIREITO PÚBLICO. LEGALIDADE ESTRITA. PRINCÍPIO DA ISONOMIA. IMPOSSIBILIDADE. ARTIGO. 100, §§ 9º E 10, DA CF, COM REDAÇÃO DADA PELA EC 62/2009. ART. 105 DO ADCT. RECURSO CONHECIDO E NÃO PROVIDO.
+1. A compensação de créditos e débito fazendário deve observar a legalidade estrita (art. 5, II, da CF).
+2. Ausente previsão legal autorizadora, inviável a efetivação da compensação de crédito inscrito em precatório com o débito oriundo da condenação em honorários de sucumbência.
+3. Recurso conhecido e não provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+In casu, não há lei que autorize a compensação como requerida e não estão preenchidos inclusive os requisitos dispostos no art. 105 do ADCT e na Lei Complementar distrital n. 938/2012 para o reconhecimento da compensação ainda que por analogia, se assim fosse possível. Isso porque não se pode ampliar as hipóteses de compensação entre créditos de precatórios e débitos existentes com o Distrito Federal, sob pena de ferir a legalidade estrita que rege a Administração Pública.
+ ..
+Outrossim, apresenta-se fundamental lei específica autorizadora, porque o encontro de contas, entre o crédito de precatório e o débito, efetivando o processo de compensação, pode gerar impactos contábeis ao ente federativo. Como outrora exposto, na parte ainda vigente do artigo 54 da Lei n. 4.320/64 há vedação para compensação quanto às receitas e às rendas de origem não tributária.
+Ressalta-se que a lei complementar distrital n. 976/2020 tão somente admitiu a compensação com os débitos tributários. Registra-se ainda que o credor pode optar por receber seu crédito em dinheiro, haja vista ser a forma de pagamento preferencial insculpida no artigo 835 do CPC.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
