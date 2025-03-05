@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por WESTROCK, CELULOSE, PAPEL E EMBALAGENS LTDA contra v. acórdão do eg. Tribunal de Justiça Estado de São Paulo (TJ-SP), assim ementado:
+RECURSOS DE APELAÇÃO INTERPOSTOS DE PARTE A PARTE CONTRA R. SENTENÇA PELA QUAL FOI JULGADA PARCIALMENTE PROCEDENTE AÇÃO DECLARATÓRIA, C.C. COBRANÇA, E COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS - ALEGAÇÃO DE INCORREÇÃO, COM PEDIDO DE REFORMA.
+CONTRARRAZÕES APRESENTADAS PELA AUTORA COM PRELIMINAR DE NÃO CONHECIMENTO DOS RECURSOS INTERPOSTOS PELAS CORRÉS INCONFORMISMO APRESENTADO QUE IMPUGNA AS QUESTÕES DECIDIDAS PELA R. SENTENÇA PRELIMINAR AFASTADA RECURSO CONHECIDO.
+RECURSO DAS CORRÉS ALEGAÇÃO DE INCORREÇÃO, COM PRELIMINAR DE CERCEAMENTO DE DEFESA, PORQUE JULGADA ANTECIPADAMENTE A LIDE AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS QUE SE ENCONTRA EM TRÂMITE - PROVA DE CARATER ESSENCIAL JULGAMENTO ANTECIPADO INJUSTIFICADO CERCEAMENTO DE DEFESA PLENAMENTE CARACTERIZADO R. SENTENÇA ANULADA, PARA QUE OUTRA, APÓS A REGULAR INSTRUÇÃO DO FEITO VENHA A SER PROFERIDA - ANÁLISE DO MÉRITO, BEM COMO DO RECURSO DE APELAÇÃO IMTERPOSTO PELA AUTORA QUE SE MOSTRAM PREJUDICADOS RECURSO DAS CORRÉS PROVIDO R. SENTENÇA ANULADA.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 3151-3157.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 932, III, 1.007, caput, §2º e 5º, 489, §1º, IV e 1.022, II, do CPC/2015. Sustenta, em síntese, que: a) o acórdão estadual padece de omissão; e b) não houve recolhimento do preparo de forma adequada, devendo ser reconhecida a deserção e o não conhecimento da apelação apresentada pela parte recorrida.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o eg. TJSP analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Noutro ponto, o Tribunal de origem, analisando as circunstâncias do caso, consignou que não restou configurada a deserção, devendo ser mantido o provimento dado à apelação da parte recorrida, como se vê do trecho abaixo transcrito:
+No mais, e quanto a questão de fundo, é de se ter por certo o valor recolhido a título de preparo recursal pelas ocupantes do polo passivo da lide (fls. 3.070/3.071), observou ao quanto resultou certificado a fls. 3.037, sendo importante anotar ainda que para apuração do valor devido as inconformadas apresentaram a planilha de fls. 3.072, planilha essa idêntica àquela utilizada pelo Cartório de 1º Grau (fls. 3.036), circunstâncias essas que afastam, quando não fulminam, qualquer possibilidade de se vir a acolher a pretensão como deduzida pela embargante através de suas incosistentes razões de inconformismo, devendo assim ser mantido inalterado o quanto foi decidido pelo Acórdão guerreado.
+Diante de tal situação, de rigor entender que o Acórdão como proferido tenha dado adequada e correta solução a demanda, porque proferido com plena observância de seus limites, motivo pelo qual deve a Decisão Colegiada como lançada aos autos ser integralmente mantida, manutenção esta que se dá com o mais pleno e adequado suporte em seus próprios, e legítimos fundamentos.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu que "o valor recolhido a título de preparo recursal pelas ocupantes do polo passivo da lide (fls. 3.070/3.071), observou ao quanto resultou certificado a fls. 3.037, sendo importante anotar ainda que para apuração do valor devido as inconformadas apresentaram a planilha de fls. 3.072, planilha essa idêntica àquela utilizada pelo Cartório de 1º Grau (fls. 3.036), circunstâncias essas que afastam, quando não fulminam, qualquer possibilidade de se vir a acolher a pretensão como deduzida pela embargante através de suas incosistentes razões de inconformismo, devendo assim ser mantido inalterado o quanto foi decidido pelo Acórdão guerreado."
+Nesse contexto, a pretensão de modificar o entendimento firmado demandaria o revolvimento da acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. APELAÇÃO DESERTA. AUSÊNCIA DE RECOLHIMENTO DO PREPARO TOTAL. REVISÃO. SÚMULA N. 7/STJ. OFENSA LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF. AGRAVO INTERNO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+2. Rever a conclusão do Tribunal de origem - acerca da ocorrência de deserção - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula desta Corte Superior.
+3. Analisar a questão referente ao preparo da apelação interposta no tribunal de origem impõe a análise de legislação local, o que atrai a incidência da Súmula nº 280/STF. Precedentes.
+4. A interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa dos arts. 1.021, § 4º, do CPC, devendo ser analisado caso a caso.
+6. De acordo com a orientação jurisprudencial do Superior Tribunal de Justiça, não cabe a majoração dos honorários recursais em julgamento de agravo interno.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.401.130/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/12/2023, DJe de 18/12/2023.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
