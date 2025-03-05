@@ -1,0 +1,9 @@
+DECISÃO
+JOAO VITOR DOS SANTOS alega sofrer constrangimento ilegal em decorrência de delonga atribuída ao Juízo de primeira instância para o encerramento da Ação Penal n. 1500739-92.2024.8.26.0571, tendo em vista a manutenção de sua prisão preventiva.
+Depreende-se dos autos que o paciente foi condenado ao cumprimento de 9 anos e 4 meses de reclusão, em regime inicial fechado, mais multa, pela prática do delito previsto no art. 157, § 2º, II, e § 2º-A, I, por três vezes, em concurso formal de crimes, na forma do artigo 70, todos do Código Penal.
+Assere a defesa que " f oi interposto recurso de apelação contra sentença, a Procuradoria Geral de Justiça, já se manifestou, e em 25/10/2024, foi para o relator, que segue sem movimentação até o presente momento" (fl. 4).
+De fato, consoante a jurisprudência do Superior Tribunal de Justiça, " o  excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento, bem como a pena imposta na sentença condenatória" (AgRg no HC n. 723.899/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/4/2022).
+Todavia, no que tange ao suposto excesso de prazo, em consulta ao sítio eletrônico da Corte de origem, a despeito do prolongado andamento do feito, o processo já foi encaminhado ao processamento de autos de Grupos e Câmaras do Tribunal de Justiça de São Paulo, dado que já retornou do gabinete do Desembargador revisor, de modo que se avizinha seu julgamento em mesa.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus, com recomendação de celeridade no trâmite processual, com o consequente julgamento do referido recurso.
+Publique-se e intimem-se.
+EMENTA
