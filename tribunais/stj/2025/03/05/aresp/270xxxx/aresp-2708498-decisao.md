@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por PATRICIA GONZAGA MENDES, contra o acórdão assim ementado:
+APELAÇÕES CÍVEIS - DIREITO CIVIL E DO CONSUMIDOR - AÇÃO REVISIONAL - CONTRATOS DE EMPRÉSTIMOS CONSIGNADOS E COM DESCONTO EM CONTA CORRENTE - INCIDÊNCIA DO CDC - TAXA DE JUROS REMUNERATÓRIOS ACIMA DO LIMITE AUTORIZADO PELO STJ VERIFICADOS EM ALGUNS CONTRATOS - MANUTENÇÃO DA SENTENÇA - SEGUROS PRESTAMISTAS PERMITIDOS - LIMITAÇÃO AO PERCENTUAL DE 30% EXCLUSIVOS AOS CONSIGNADOS - CAPITALIZAÇÃO DE JUROS NÃO VERIFICADA - RECURSOS CONHECIDOS, PARCIALMENTE PROVIDO O DO REQUERIDO E DESPROVIDO O DO AUTOR, POR UNANIMIDADE.
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, a parte agravante alega violação dos arts. 833, IV, 1.010, I e III, 1.013, § 1º, do CPC e 1º da Lei 10.820/2003, o que não foi admitido, por aplicação da Súmula 83/STJ, dando origem ao inconformismo em exame.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial. Assevera que "em TODOS os julgados utilizados como fundamento a sua decisão de inadmissibilidade do recurso especial da ora Agravante não há qualquer menção a interpretação do relator de que: "Em recente julgado, entende que não há analogia entre o empréstimo para desconto em folha e a prestação do mútuo firmado com a instituição financeira administradora da conta corrente"" (fls. 791-192).
+Contraminuta apresentada (fls. 818-833).
+Observo que houve a interposição de recurso especial pela parte ora agravada, ao qual foi negado seguimento.
+É o relatório.
+Passo a decidir.
+As alegações deduzidas pela agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência  da Súmula  83/STJ.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+No que diz respeito à Súmula 83/STJ, "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+Nesse sentido:
+ADMINISTRATIVO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. SERVIDOR PÚBLICO. CUMULAÇÃO DE CARGOS. DECISÃO DE INADMISSIBILIDADE.
+FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA. 1. O Tribunal de origem inadmitiu o Recurso Especial, ante a incidência da Súmula 7/STJ e 83/STJ.
+2. Nas razões do Agravo, a parte agravante deixou de impugnar a decisão recorrida no que se refere à incidência da Súmula 83/STJ. O STJ entende que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro Marco Aurélio Belizze, Terceira Turma, julgado em 18/10/2016, DJe 28/10/2016).
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo em Recurso Especial que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Incumbia à agravante demonstrar, no Agravo, que a orientação jurisprudencial não foi pacificada no mesmo sentido do acórdão recorrido, ou então comprovar que o precedente indicado, por constituir situação diversa, não teria aplicação ao caso dos autos.
+5. "É inviavel o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Inteligência da Súmula 182 do STJ.
+6. Agravo Interno não provido (AgInt no AREsp n. 1.119.082/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2017, DJe de 19/12/2017).
+Observo que, ainda que a parte agravante tenha mencionado pretenso distinguishing entre os arestos colacionados na decisão de trancamento e a tese recursal, não apresentou decisões mais recentes do que os paradigmas utilizados, tampouco realizou o cotejo entre as decisões, de modo a assentar a divergência.
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
