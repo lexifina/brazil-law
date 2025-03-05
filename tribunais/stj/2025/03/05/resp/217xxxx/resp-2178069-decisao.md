@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por KRIKOR KAYSSERLIAN, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de instrumento. Inventário. Decisão que homologa laudo pericial e determina a ex-inventariante a imediata restituição dos valores apurados pela perícia contábil.
+Cabimento. Inexistência de violação à coisa julgada.
+Decisão anterior, que postergara a restituição dos valores após a partilha, que considerou situação momentânea, em que o exato montante a ser restituído ainda carecia de apuração definitiva. Valores que pertencem ao espólio, não podendo permanecer sob o poder exclusivo do agravante, que já foi inclusive destituído do cargo de inventariante por atuação desidiosa. Pretensão do agravante, ademais, que prejudica os interesses de herdeiro incapaz. Decisão mantida. Recurso improvido." (e-STJ fl.319)
+Embargos de declaração rejeitados (e-STJ fls. 356/363)
+Em suas razões recursais, a recorrente aponta violação dos arts. 489, §1º, IV e 1.022, II, e 505 do CPC, sustentando, em síntese, que: 1) o acórdão recorrido foi omisso sobre a impugnação ao julgamento virtual para processo com pedido de encaminhamento ao julgamento presencial e sobre a impossibilidade de alteração da para restituição dos valores da conta sub judice, uma vez que há decisão transitada em julgado sobre o tema; e 2) é impossível a alteração da decisão transitada em julgado, que fixou a data para restituição dos valores depositados na conta em discussão após a partilha, uma vez que não houve qualquer modificação no contexto fático da demanda.
+Apresentadas contrarrazões às fls. 382/389 (e-STJ)
+É o relatório. Passo a decidir.
+Inicialmente, não prospera a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+No que diz respeito ao à impugnação ao julgamento virtual para processo com pedido de encaminhamento ao julgamento presencial, constou expressamente no acórdão recorrido:
+"2. Inicialmente, cumpre destacar que, em se tratando de agravo de instrumento no qual não cabe sustentação oral no julgamento (art. 937, VIII, do CPC), nada impede a imediata adoção do julgamento virtual, em que pese a oposição do agravante, em razão da ausência de prejuízo." (e-STJ fls. 320)
+Logo, não há que se falar em omissão sobre o tema.
+Quanto à possibilidade de alteração da para restituição dos valores da conta sub judice, assim decidiu a Corte a quo:
+"De resto, inexiste preclusão "pro judicato", pois a determinação de restituição após a partilha foi circunstancial, em razão da necessidade de apuração do valor exato que o agravante deveria restituir ao espólio, necessidade que já não existe, pois homologado o laudo pericial contábil que realizou a referida apuração." (e-STJ fls. 323)
+Como visto, a Corte de origem consignou expressamente que houve é impossível a alteração da decisão transitada em julgado, que fixou a data para restituição dos valores depositados na conta em discussão após a partilha, uma vez que não houve modificação no contexto fático da demanda, uma vez que homologado o laudo pericial contábil que realizou a apuração do valor a restituir, não há mais necessidade de aguardar o final da partilha.
+A modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM E PELA DECISÃO AGRAVADA. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INSTRUÇÃO PROBATÓRIA. PRECLUSÃO PRO JUDICATO. INEXISTÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. FALTA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido e a decisão agravada pronunciam-se, de forma clara e suficiente, acerca das questões suscitadas nos autos.
+2. "A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido da inaplicabilidade da preclusão pro judicato em matéria probatória, cabendo às instâncias ordinárias, enquanto destinatárias da prova, a análise soberana acerca da necessidade de sua produção" (AgInt no AREsp n. 1.772.666/MT, Relator, Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/5/2021, DJe 18/6/2021), o que foi observado pela Corte local.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. "Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias" (AgInt no AREsp n. 1.457.765/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2019, DJe 22/8/2019), o que ocorreu.
+5. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+6. No caso, a Corte de origem concluiu pela necessidade da prova pericial para o deslinde da controvérsia, motivo por que determinou, de ofício, sua realização. Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável em recurso especial.
+7. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+8. Divergência jurisprudencial não demonstrada, ante a incidência das Súmulas n. 284 do STF e 7 e 83 do STJ.
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.785.219/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO DE PROVA ANTERIORMENTE DEFERIDA. OFENSA AO ART. 471 DO CPC/73. INOCORRÊNCIA. PRECLUSÃO PRO JUDICATO INEXISTENTE EM QUESTÕES PROBATÓRIAS. PRECEDENTES. USURPAÇÃO DE COMPETÊNCIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 182/STJ CULPA CONCORRENTE DA VÍTIMA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Não ofende o art. 471 do CPC/1973 o indeferimento de prova, ainda que anteriormente deferida. Inexistência de preclusão pro judicato.
+Em questões probatórias, não há preclusão para o magistrado.
+2. Fundamento da decisão agravada, acerca da usurpação de competência, que não foi impugnado no agravo interno. Incidência da Súmula n. 182 do STJ.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que não existiu culpa concorrente da vítima. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 508.604/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/3/2018, DJe de 27/3/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REAPRECIAÇÃO DO PEDIDO DE PRODUÇÃO DE PERÍCIA PARA FINS DE APURAÇÃO DO VALOR DEVIDO EM SEDE DE LIQUIDAÇÃO. NECESSIDADE COMPROVADA. ALTERAÇÃO DO SUPORTE FÁTICO. AUSÊNCIA DE PREJUÍZO A PARTE. PRECLUSÃO PRO JUDICATO INEXISTENTE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. É inviável o recurso especial quando ausente o prequestionamento, sequer implícito, do dispositivo da legislação federal apontado como violado. A matéria objeto da irresignação deveria ter sido alvo de prequestionamento pelo Tribunal de origem, mesmo após a oposição dos embargos de declaração. Todavia, como persistiu a omissão, deveria a agravante alegar, nas razões do recurso especial, violação ao art. 535 do CPC, ônus do qual não se incumbiu. Incide, na espécie, pois, o óbice da Súmula 211 do STJ.
+2. No caso, o eg. Tribunal de origem deferiu a produção de perícia, anteriormente negada, por entender que houve alteração posterior do estado de fato, bem como comprovada necessidade de produção dessa prova para fins de apuração do quantum debeatur em sede de liquidação de sentença. Em tais circunstâncias, não há falar em preclusão "pro judicato", pois, em questões probatórias, não há preclusão para o magistrado. Precedentes.
+3. A modificação de tal entendimento encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 756.694/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/11/2015, DJe de 11/12/2015.)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
