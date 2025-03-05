@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  Município  de  Embu  das  Artes,  desafiando  decisão  da  Presidente  da  Seção  de  Direito  Público  do  Tribunal  de  Justiça  do  Estado  de  São  Paulo,  que  negou seguimento ao apelo raro quanto aos Temas 566, 567, 568, 569, 570 e 571 do STJ, e no que remanesce,  não  admitiu  recurso  especial  , aos seguintes fundamentos: (I) inexistência de desrespeito aos dispositivos de lei federal invocados como violados; e (II) incidência da Súmula 7/STJ.
+A  parte  agravante,  em  suas  razões,  sustenta,  em  síntese,  que:  (i)  "houve uma clara exposição dos motivos que ensejaram sua interposição, bem como houve a demonstração objetiva de quais eram os dispositivos legais afrontados, a saber: art. 219, § 1% do CPC/ 73 e art. 8% § 2% da Lei 6.830/80" (fl. 111); e (ii) "não busca provocar a reanálise das provas contidas nos autos, mas busca somente que a legislação federal seja respeitada e aplicada" (fl. 111).
+É O RELATÓRIO. SEGUE A F UNDAMENTAÇÃO.
+Verifica-se  que  o  inconformismo  não  ultrapassa  a  barreira  do  conhecimento,  pois  a  parte  agravante  deixou  de  impugnar  a  totalidade  dos  motivos  adotados  pelo  Tribunal  de  origem  para  negar  trânsito  ao  apelo  especial.
+No  caso,  a  parte  agravante  deixou  de  rebater,  de  modo  específico,  os seguintes motivos utilizados pela Corte de origem para inadmitir o recurso, a saber, incidência da Súmula 7/STJ.
+Conquanto  a  parte  agravante  tenha  sustentado  genericamente  que  "não busca provocar a reanálise das provas contidas nos autos, mas busca somente que a legislação federal seja respeitada e aplicada" (fl. 111),  quedou-se  em  demonstrar  particularidade  do  caso  concreto  suficiente  para  afastar  o  óbice  apontado,  deixando,  portanto,  de  impugnar  especificamente  o  fundamento  adotado  pela  decisão  agravada  para  inadmitir  o  recurso  especial.
+Incide,  desse  modo,  por  analogia,  a  Súmula  182/STJ  ("É  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  recorrida").
+Essa  foi  a  linha  de  entendimento  confirmada  pela  Corte  Especial  do  STJ  ao  julgar  os  EAREsp  701.404/SC  e  os  EAREsp  831.326/SP,  Rel.  Min.  João  Otávio  de  Noronha,  Rel.  p/  acórdão  Ministro  Luis  Felipe  Salomão,  DJe  de  30/11/2018.
+ANTE  O  EXPOSTO,  nos  termos  do  art.  932,  III,  do  CPC,  não  conheço  do  agravo  em  recurso  especial.
+Publique-se.
+EMENTA
