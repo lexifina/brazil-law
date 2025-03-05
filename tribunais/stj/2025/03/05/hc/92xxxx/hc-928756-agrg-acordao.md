@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO PARA A PRÁTICA CRIMINOSA. TRÁFICO DE DROGAS, SEQUESTRO E CÁRCERE PRIVADO. MATERIALIDADE. ANÁLISE INVIÁVEL PELA VIA ELEITA. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. CAUTELARES ALTERNATIVAS À PRISÃO. NÃO CABIMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+2. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória, desde que estejam presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+3. A custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois o paciente, mediante violência e grave ameaça com o uso de armas de fogo, teria se associado a outros indivíduos para o sequestro e cárcere privado de um agente da segurança pública, que sofreu maus tratos e foi obrigado a ingerir droga (cocaína), apenas não tendo sido executado diante da intervenção policial.
+4. Essas circunstâncias, ao indicarem a gravidade concreta da conduta delituosa, justificam a prisão cautelar para garantir a ordem pública.
+5. Ausência de constrangimento ilegal quando a segregação preventiva é decretada em face do modus operandi empregado na prática do delito.
+6. Não recomendável a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+7. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão de fls. 74-78, que denegou a ordem de habeas corpus e manteve a prisão preventiva do paciente decretada.
+Nas razões deste recurso, a defesa aduz que o agravante está privado de sua liberdade desde 14/9/2023 e que a audiência de instrução e julgamento está designada para 8/4/2025, não estando presentes os requisitos da prisão preventiva.
+Acrescenta que, na primeira audiência, realizada em 1º/12/2023, a vítima não reconheceu o paciente como autor do delito. Invoca o princípio da presunção de inocência e defende a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Busca a reconsideração da decisão para que seja revogada a prisão preventiva do paciente ou a submissão do recurso ao colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO PARA A PRÁTICA CRIMINOSA. TRÁFICO DE DROGAS, SEQUESTRO E CÁRCERE PRIVADO. MATERIALIDADE. ANÁLISE INVIÁVEL PELA VIA ELEITA. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. CAUTELARES ALTERNATIVAS À PRISÃO. NÃO CABIMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+2. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória, desde que estejam presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+3. A custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois o paciente, mediante violência e grave ameaça com o uso de armas de fogo, teria se associado a outros indivíduos para o sequestro e cárcere privado de um agente da segurança pública, que sofreu maus tratos e foi obrigado a ingerir droga (cocaína), apenas não tendo sido executado diante da intervenção policial.
+4. Essas circunstâncias, ao indicarem a gravidade concreta da conduta delituosa, justificam a prisão cautelar para garantir a ordem pública.
+5. Ausência de constrangimento ilegal quando a segregação preventiva é decretada em face do modus operandi empregado na prática do delito.
+6. Não recomendável a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+7. Agravo regimental improvido.
+VOTO
+Consoante relatado, a defesa pretende a reconsideração da decisão agravada, com a revogação da prisão preventiva do agravante ou a sua substituição por medidas cautelares diversas da prisão.
+De início, verifica-se que, no procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+No mais, destaca-se que, apesar de o tema relacionado aos fundamentos da custódia cautelar já ter sido debatido no HC n. 873.146/SP, inexiste teratologia ou manifesta ilegalidade para justificar a concessão da ordem de ofício. Nesse contexto, a decisão que denegou o recurso em habeas corpus foi assim fundamentada (fls. 74-78):
+Inicialmente, cumpre destacar que o paciente foi denunciado porque, em 16/7/2022, teria se associado a outros indivíduos para cometer crimes diversos, com o uso de armas de fogo, dentre os quais a subtração de bens, tráfico de drogas e a privação da liberdade da vítima, membro da Guarda Civil Municipal de Itu, mediante sequestro, bem como cárcere privado, causando-lhe grave sofrimento físico e moral em razão dos maus tratos (fls. 52-56).
+A prisão preventiva foi requerida pelo Ministério Público para garantia da ordem pública, diante da periculosidade social do paciente, que ostentaria antecedentes criminais relacionados a crimes patrimonial e de tráfico de drogas (fl. 49).
+A custódia cautelar foi decretada pelo Juízo de primeiro grau, nos termos seguintes (fl. 17):
+Verifica-se que o indiciado foi denunciado por crimes muito graves, alguns deles considerados hediondos ou equiparados, demonstrando a periculosidade do autor. Além de a materialidade ser inequívoca, há sérios indícios de autoria, uma vez que a vítima reconheceu o denunciado e demais coautores, estando os demais presos preventivamente pelos autos nº 1500737-11/2022. Neste contexto, não sobram dúvidas de que a custódia cautelar é necessária: assegurará a futura instrução, possibilitando a oitiva da vítima e testemunhas sem influência negativa, bem como evitará que a lei penal deixe de ser aplicada ao final. A providência também é imprescindível para garantia da ordem pública, já tão desgastada com delitos desta natureza.
+Por sua vez, o Tribunal de origem assim examinou a questão (fls. 58- 60):
+Em recente julgamento (HC2271923-68.2023.8.26.0000), esta Turma Julgadora já proclamava a necessidade da prisão preventiva e, em consequência, sua legalidade, tal como se extrai do trecho do voto condutor, de minha lavra, verbis:
+A prisão é necessária, pesem os argumentos apresentados pela combativa impetrante.
+Deveras, a r. decisão que a decretou surge devidamente fundamentada, embora sucinta em sua explanação.
+Ora, basta dizer que o paciente integraria facção criminosa e que a vítima, no caso, foi conduzida por ele e seus comparsas a um "tribunal do crime", logrando escapar com vida em razão de eficaz intervenção policial.
+Assim, não parece razoável supor que cautelares menos invasivas sejam capazes de neutralizar sua periculosidade, o que faz da prisão a medida cautelar mais adequada ao caso.
+Finalmente, ainda que a prisão domiciliar para o pai de crianças menores de idade seja, em tese, admissível, ela somente poderia ser concedida em situações excepcionalíssimas, o que não é o caso dos autos, em que os crimes foram praticados mediante inusitada violência e grave ameaça à pessoa.
+Finalmente, vejo que a ação penal se desenvolve com rapidez e segurança, havendo audiência de instrução e julgamento designada para o dia 1º de dezembro vindouro.
+Posto isso, ausente ilegalidade de qualquer ordem, meu voto conclui pela denegação da ordem.
+Por outro lado, o fato de a vítima não ter apontado o paciente como um dos autores do crime não tem o condão de o socorrer neste momento, já que, em tese, há nos autos outros elementos de convicção que o apontam como coautor, o que, aliás, possibilitou o recebimento da denúncia. Em face do exposto, persistindo o quadro de legalidade da prisão, proponho novamente a denegação da ordem.
+A leitura do decreto prisional e da decisão que o manteve revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois o paciente, mediante violência e grave ameaça com o uso de armas de fogo, teria se associado a outros indivíduos para o sequestro e cárcere privado de um agente da segurança pública, que sofreu maus tratos e foi obrigado a ingerir droga (cocaína), apenas não tendo sido executado diante da intervenção policial.
+Essas circunstâncias, ao indicarem a gravidade concreta da conduta delituosa, justificam a prisão cautelar para garantir a ordem pública.
+ ..
+Além disso, é pacífico o entendimento do Superior Tribunal de Justiça de que não se configura constrangimento ilegal quando a segregação preventiva é decretada em face do modus operandi empregado na prática do delito.
+ ..
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, D Je de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Conforme apontado na decisão impugnada, o agravante foi denunciado porque, em 16/7/2022, mediante violência e grave ameaça praticada com o uso de armas de fogo, teria se associado a outros indivíduos para o sequestro e cárcere privado de um agente da segurança pública, que sofreu maus tratos e foi obrigado a ingerir droga (cocaína), apenas não tendo sido executado diante da eficiente intervenção policial.
+Tais circunstâncias, de extrema gravidade, reforçam a necessidade da manutenção da custódia cautelar para garantia a ordem pública, não havendo constrangimento ilegal em face do modus operandi empregado na prática do delito.
+Além disso, a ordem pública merece proteção diante da periculosidade do agravante, que ostenta antecedentes criminais relacionados a crimes patrimonial e de tráfico de drogas.
+A propósito, confira-se:
+DIREITO PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. SEQUESTRO. CÁRCERE PRIVADO. HABEAS CORPUS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS DELITOS. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA E RISCO À INSTRUÇÃO CRIMINAL. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. ORDEM DENEGADA. I. CASO EM EXAME
+1. Habeas corpus impetrado pela defesa, visando à revogação da prisão preventiva dos pacientes, acusados de homicídio qualificado, sequestro e cárcere privado. A defesa alega a ausência dos requisitos legais para a manutenção da custódia cautelar e requer a concessão da ordem para obtenção da liberdade. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a prisão preventiva está fundamentada nos requisitos exigidos pelo art. 312 do CPP, considerando a gravidade concreta dos delitos e a necessidade de garantia da ordem pública; (ii) analisar a possibilidade de substituição da prisão preventiva por medidas cautelares diversas, conforme previsto no art. 319 do CPP. III. RAZÕES DE DECIDIR
+3. A prisão preventiva, sendo medida excepcional, é compatível com o princípio da presunção de inocência, desde que justificada por elementos concretos que evidenciem a necessidade de resguardar a ordem pública, evitar a reiteração criminosa ou assegurar a integridade da instrução criminal.
+4. No caso, a gravidade concreta dos delitos imputados aos pacientes - homicídios qualificados, sequestro e cárcere privado, cometidos com extrema violência - e o modus operandi dos crimes demonstram a periculosidade dos agentes. As vítimas sobreviventes reconheceram os acusados em sede policial, e as circunstâncias do crime indicam a existência de risco à ordem pública e à instrução criminal, justificando a prisão preventiva.
+5. A manutenção da custódia cautelar encontra-se fundamentada na necessidade de evitar intimidações às vítimas sobreviventes e assegurar que a ordem pública não seja abalada pelos atos violentos praticados pelos pacientes. As medidas cautelares diversas da prisão, previstas no art. 319 do CPP, mostram-se insuficientes para resguardar esses interesses.
+6. A análise do Tribunal de origem está em conformidade com a jurisprudência desta Corte, que reitera a necessidade de prisão preventiva em casos de crimes graves com alto grau de periculosidade, quando a soltura dos acusados pode representar risco à sociedade ou à instrução processual. IV. DISPOSITIVO
+7. Ordem denegada.
+(HC n. 887.886/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024.)
+Por fim, a aplicação de medidas cautelares alternativas à prisão não é suficiente para resguardar a ordem pública, diante do quanto apontado.
+Verifica-se, pois, que não há elementos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
