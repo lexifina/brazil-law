@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por SULAMÉRICA SEGURO SAÚDE em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA ASTREINTES - INSURGÊNCIA EM FACE DA DECISÃO QUE ACOLHEU A IMPUGNAÇÃO NULIDADE PELA FALTA DE INTIMAÇÃO RECHAÇADA MITIGAÇÃO DO DISPOSTO NA SÚMULA 410 DO SUPERIOR TRIBUNAL DE JUSTIÇA EXECUTADA INTIMADA NA PESSOA DO ADVOGADO POSSIBILIDADE EXECUÇÃO QUE DEVE PROSSEGUIR - DESCUMPRIMENTO DAS OBRIGAÇÕES IMPOSTAS DENTRO DO PRAZO CONCEDIDO - VALOR FIXADO A TÍTULO DE MULTA QUE SE MOSTRA RAZOÁVEL, SE CONSIDERADO O PODERIO ECONÔMICO DO PLANO DE SAÚDE E O DESCUMPRIMENTO DA ORDEM JUDICIAL AUSENTE EXCESSO DE EXECUÇÃO - IMPUGNAÇÃO DA EXECUTADA REJEITADA HONORÁRIOS ADVOCATÍCIOS NÃO DEVIDOS DECISÃO REFORMADA RECURSO PROVIDO."
+A recorrente aponta ofensa aos arts. 1.022, Parágrafo Único, inciso I, e 489, inciso VI, do Código de Processo Civil, bem como dissídio jurisprudencial.
+Sustenta que o Tribunal de origem não se manifestou quanto ao conteúdo do Enunciado n. 410 da Jurisprudência do STJ, que exige a intimação pessoal do devedor para cumprir obrigação de fazer/não fazer, sob pena de não incidência das astreintes.
+Postula, ainda, o afastamento da multa cominatória, citando precedente desta Corte.
+Sem contrarrazões.
+É o relatório.
+Na origem, o eg. TJSP manteve a condenação da parte ao pagamento de multa cominatória, apontando que é desnecessária, para a exigibilidade da multa, a intimação pessoal da parte. Concluiu, assim, que "a agravada foi intimada da decisão que concedeu a tutela, na pessoa dos seus patronos (fls. 253/254 dos autos de origem), devendo ser considerada válida referida intimação.".
+Não houve, portanto, omissão da Corte de origem, mas tão só decisão contrária à pretensão da parte.
+No mérito, contudo, a conclusão do Tribunal de origem não está de acordo com a jurisprudência do STJ. "Segundo a orientação jurisprudencial desta Corte, é necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil (EREsp n. 1.360.577/MG, relator p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 7/3/2019)" (AgInt nos EDcl no REsp n. 1.834.125/AM, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de afastar a condenação da parte ora recorrente ao pagamento da multa cominatória.
+Publique-se.
+EMENTA
