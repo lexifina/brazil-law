@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVAS DE AUTORIA E MATERIALIDADE INSUFICIENTES. ABSOLVIÇÃO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1- In casu, as instâncias ordinárias condenaram os pacientes em razão de apreensão de drogas em local de rota de tráfico.
+2 - A apreensão da droga em local rota de tráfico, por si só, insta consignar, não indica a realização do tipo inserto no art. 33 da Lei n. 11.343/06.
+3 - Nenhuma outra prova foi produzida, além do depoimento dos policiais que relataram a apreensão de inexpressiva quantidade de droga.
+4 - Ausência de provas do delito de tráfico de drogas, o que conduz à absolvição dos pacientes.
+5 - Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental em habeas corpus interposto pelo Ministério Público do Estado de Pernambuco contra decisão de minha lavra em que concedi a ordem para absolver os pacientes do crime de tráfico de drogas em decisum assim relatado (e-STJ fls. 275/281):
+Trata-se de habeas corpus impetrado em benefício de WANDERSON CLEITON DE SANTANA e EDUARDO RUFINO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal n.0001340-11.2016.8.17.0570).
+Depreende-se dos autos que os pacientes foram condenados pelo crime de tráfico de drogas, previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 8 (oito) anos de reclusão, mais pagamento de 700 (setecentos) dias-multa, em regime inicial fechado.
+Nos termos da peça acusatória, os pacientes traziam consigo " (..) 09 (nove) invólucros da substância popularmente conhecida por maconha, 01 (uma) pedra da substância popularmente conhecida por CRACK" (e-STJ fl. 67-68). Contra o édito condenatório insurgiu-se a defesa.
+O Tribunal de origem negou provimento ao recurso de apelação, mantendo incólume a sentença condenatória, nos termos do acórdão assim ementado (e-STJ fls. 25-39):
+EMENTA: PENAL E PROCESSO PENAL. APELA ÇÃ O CRIMINAL. TR Á FICO DE DROGAS IL Í CITAS (ART. 33 DA LEI Nº 11.343/06). PRELIMINAR PARA APELAR EM LIBERDADE. REJEITADA. PRESEN Ç A DOS FUNDAMENTOS DA PRISÃO PREVENTIVA. GARANTIA DA APLICA Ç ÃO DA LEI PENAL E ORDEM P Ú BLICA. M É RITO. AUTORIA DO TR Á FICO DE DROGAS COMPROVADA. DEPOIMENTOS DOS POLICIAIS RESPONS Á VEIS PELO FLAGRANTE ASSOCIADOS À S CIRCUNSTÂNCIAS DO FATO. DOSIMETRIA. MOTIVA Ç ÃO V Á LIDA PARA FIXA ÇÃ O DA PENA-BASE ACIMA DO M Í NIMO LEGAL. MANUTENÇÃ O DO QUANTUM DE 08 (OITO) ANOS DE RECLUS Ã O. CAUSA ESPECIAL DE DIMINUI Ç ÃO DE PENA (ART. 33, PAR Á GRAFO 4º, DA LEI DE DROGAS). INAPLIC Á VEL. AUS Ê NCIA DOS REQUISITOS LEGAIS. REGIME DE CUMPRIMENTO DA PENA INICIAL FECHADO JUSTIFICADO. ART. 33, 3º DO CP. PENAS DE MULTA PROPORCIONAIS À S SANÇÕES CORPORAIS. CONDENAÇÃO NAS CUSTAS PROCESSUAIS. IMPOSIÇÃO LEGAL. ART. 804 DO C Ó DIGO DE PROCESSO PENAL. CONDIÇÕES FINANCEIRAS DO R É U A SEREM AVALIADAS NA EXECUÇÃO DO JULGADO. RECURSOS IMPROVIDOS. DECISÃO UNÂNIME. I - Pedido para pelar em liberdade. As prisões preventivas dos réus foram decretadas, quando da prolação da sentença, sob o fundamento correto de que, anteriormente, as prisões em flagrante tinham sido convertidas em medida cautelar consistente em comparecer semanalmente em juízo para justificar e informar as atividades, determinação esta que nunca foi cumprida, o que demonstra que os réus não pretendem se submeter a aplicação da lei penal. Ademais, em face da garantia da ordem pública, deveras ameaçado pela atividade de delinquência desenvolvida pelos réus, as prisões cautelares estão motivadas. Preliminar rejeitada. II - Mérito. A autoria do tráfico de drogas foi demonstrada por meio dos depoimentos testemunhais harmônicos e isentos, respeitado o princípio do contraditório, associados às próprias circunstâncias caracterizadoras do fato. Os recorrentes foram flagrados ao jogarem uma bolsa contendo drogas diversificadas: 01 (uma) pedra de crack e 09 (nove) big-bigs. E ainda, a prisão em flagrante foi efetuada em local conhecido como rota de tráfico de drogas. Incabível a absolvição. III - Dosimetria. Apesar de afastar a circunstância judicial da culpabilidade, mantenho as dos antecedentes, conduta social e consequências do delito como desfavoráveis aos réus, o que torna o quantum da pena-base de 08 (oito) anos de reclusão aplicado pelo magistrado a quo razoável, proporcional e adequado. IV - Incabível o reconhecimento da causa de diminuição do art. 33, §4º da Lei nº 11.343/06, pois os réus não demonstraram o exercício de atividade lícita e a conduta social de ambos revela que se dedicam a atividades criminosas. V - Regime de cumprimento da pena inicial fechado justificado, em face das circunstâncias judiciais desfavoráveis dos réus, de acordo com o art. 33, §3º do CP, assim como as penas de multa aplicadas, por considerá-las proporcionais às sanções corporais. VI - A condenação nas custas processuais é uma imposição legal estabelecido no art. 804 do CPP. A suspensão do referido pagamento, entretanto, pode ser concedida ao réu na fase de execução do julgado. VII - Apelos improvidos. Decisão unânime.
+No presente habeas corpus, sustenta a defesa a ausência de provas para a condenação no delito de tráfico de drogas.
+Alega, ainda, nulidade da busca pessoal, porquanto desprovida de fundadas suspeitas aptas a justificar a diligência.
+Subsidiariamente, impugna a exasperação da pena-base e assinala estarem presentes os requisitos necessários à incidência da causa especial de diminuição do tráfico de drogas, prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Diante dessas considerações, requer o reconhecimento da ilicitude das provas e a consequente absolvição do réu.
+Subsidiariamente, o redimensionamento da pena-base e a aplicação da minorante do tráfico de drogas em sua fração máxima.
+A liminar foi indeferida (e-STJ fls. 84-88).
+As informações foram prestadas (e-STJ fls. 95-98).
+O Ministério Público Federal manifestou-se pela concessão parcial da ordem e habeas corpus apenas para afastar, em relação a Wanderson, o aumento da pena- base em razão dos maus antecedentes e, em relação aos dois pacientes, afastar a valoração negativa das consequências do crime.(e-STJ fls. 267-272).
+No presente agravo, alega o Ministério Público Federal que não há ilegalidade para a concessão da ordem Requer a reconsideração da decisão ou o seu enfrentamento pelo colegiado (e-STJ fl. 290/297).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVAS DE AUTORIA E MATERIALIDADE INSUFICIENTES. ABSOLVIÇÃO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1- In casu, as instâncias ordinárias condenaram os pacientes em razão de apreensão de drogas em local de rota de tráfico.
+2 - A apreensão da droga em local rota de tráfico, por si só, insta consignar, não indica a realização do tipo inserto no art. 33 da Lei n. 11.343/06.
+3 - Nenhuma outra prova foi produzida, além do depoimento dos policiais que relataram a apreensão de inexpressiva quantidade de droga.
+4 - Ausência de provas do delito de tráfico de drogas, o que conduz à absolvição dos pacientes.
+5 - Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada.
+Na decisão combatida verifiquei que não foram indicadas provas suficientes para a imposição de condenação aos pacientes como incursos no art. 33 da Lei n. 11.343/2006.
+O Tribunal de origem, ao condenar os pacientes pelo delito de tráfico de entorpecentes, assim consignou (e-STJ fls. 30):
+"(..) Por outro lado, a certeza quanto à autoria do tráfico de drogas é corroborada pelos depoimentos uníssonos das testemunhas do flagrante, em juízo, à fl. 13E, que relataram ter presenciado o momento em que os réus estavam saindo de um canavial, em uma moto, e, quando viram os policiais, apreenderam fuga jogaram uma sacola contendo as drogas apreendidas.(..) Assim, in casu, configurou-se a autoria do crime de tráfico de drogas por meio dos depoimentos testemunhais harmônicos e isentos, respeitado o princípio do contraditório, associados às próprias circunstâncias caracterizadoras do fato. Os recorrentes foram flagrados ao jogarem uma bolsa contendo drogas diversificadas: 01 (uma) pedra de crack e 09 (nove) big-bigs de maconha. E ainda, conforme relatado pelos policiais que trabalham na região, a prisão em flagrante foi efetuada em local conhecido como rota de tráfico de drogas.(..) "
+Consta do voto condutor que os réus "foram flagrados ao jogarem uma bolsa contendo drogas diversificadas: 01 (uma) pedra de crack e 09 (nove) big-bigs de maconha. E ainda, conforme relatado pelos policiais que trabalham na região, a prisão em flagrante foi efetuada em local conhecido como rota de tráfico de drogas". (e-STJ fl. 32).
+Vê-se que o único elemento utilizado para justificar a condenação, além da apreensão da droga em poder dos pacientes, foi o depoimento prestado em juízo pelos policiais que efetuaram a prisão em flagrante.
+Contudo, ainda que a palavra dos agentes policiais, como regra, autorize a imposição do decreto condenatório, nota-se que, no caso em exame, as declarações não permitem concluir que os acusados tenham praticado o delito que lhe foi imputado na denúncia.
+Isso porque nada mais foi visto pelos policiais que contribuísse para delinear a dinâmica delitiva.
+Conforme consta dos autos, os agentes policiais viram os réus em uma motocicleta e flagraram um dos réus jogarem uma bolsa. Após buscas no local, localizaram a sacola contendo as drogas apreendidas.
+A apreensão da droga em local rota de tráfico, por si só, insta consignar, não indica a realização do tipo inserto no art. 33 da referida lei, notadamente se considerada a quantidade que foi encontrada - 09 (nove) invólucros da substância popularmente conhecida por maconha, 01 (uma) pedra da substância popularmente conhecida por CRACK.
+Os pacientes, ao serem inquiridos, impende registrar, negaram a prática do crime de tráfico de drogas, não sendo possível imputar a ambos a prática do delito.
+Ante o exposto, nego provimento ao regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
