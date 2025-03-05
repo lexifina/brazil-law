@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que deu parcial provimento à apelação (sem ementa).
+O paciente foi condenado à pena de 3 anos, 1 mês e 10 dias de reclusão, em regime inicial semiaberto, e à pena de pagamento de 7 dias-multa pela prática do crime de tentativa de roubo majorada (art. 157, § 2º, inciso VII, do CP c.c. art. 14, inc. II, do CP).
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois lhe foi imposto regime inicial mais gravoso do que o indicado pelo quantum da pena tão somente em razão da gravidade abstrata do delito.
+Ao final, requer a concessão da ordem para que seja fixado o regime aberto como inicial de cumprimento de pena.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, visualizo flagrante ilegalidade capaz de fundamentar a concessão da ordem de ofício.
+O regime inicial de cumprimento de pena é definido pelo quantum da pena aplicada a partir dos parâmetros dispostos no art. 33, §2º do CP. No entanto, é possível a fixação de regime inicial mais gravoso do que aquele indicado pelo quantum da pena, desde que as circunstâncias do art. 59 do CP apontem e justifiquem essa fixação (§3º do art. 33 do CP).
+A partir desta estrutura do ordenamento brasileiro, esta Corte editou a súmula 440, que diz: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". Portanto, na medida em que os critérios do art. 59 do CP não foram considerados desfavoráveis ao agente, não se poderá fixar regime mais gravoso do que o indicado pelo quantum da pena com base em argumentos de gravidade abstrata do delito, será preciso indicar elementos concretos do caso que justifiquem a imposição do regime mais gravoso.
+No caso em questão, o paciente foi condenado à pena de 3 anos, 1 mês e 10 dias. De acordo com o art. 33, §2ª, c, do CP, essa pena corresponde à fixação do regime inicial aberto para os indivíduos primários. Ademais, a pena-base do paciente foi fixada no mínimo legal, o que significa dizer que nenhum vetor foi considerado desfavorável ao paciente.
+No entanto, ao fixar o regime inicial de cumprimento de pena, o Tribunal assim se manifestou:
+ .. . Quanto ao regime inicial de cumprimento de pena, mostra-se já beneficiado o apelante com o regime inicial semiaberto, apesar de se tratar o roubo de ilícito penal grave, que toda vez que é perpetrado fomenta ainda mais a crescente intranquilidade social, além da periculosidade concreta do agente que o pratica, sendo incompatível solução menos rigorosa, mas trata-se de recurso exclusivo da defesa  ..  (e-STJ fl. 315).
+Extrai-se do trecho acima que, mesmo a pena-base tendo ficado no mínimo legal, o Tribunal fixou regime mais gravoso do que o indicado pelo quantum da pena tão somente pela gravidade abstrata do delito, ou seja, pelo fato de que se trata de um crime que "fomenta a falta de tranquilidade social" e que indica "periculosidade concreta do agente que o pratica", em evidente afronta ao comando normativo da súmula 440 do STJ e, principalmente, ao texto legal.
+Pelo exposto, não conheço do habeas corpus substitutivo, mas concedo a ordem do ofício para fixar o regime aberto como inicial para cumprimento de pena, sendo mantidos os demais termos da sentença e do acórdão condenatórios.
+Comunique-se, com urgência , o teor desta decisão ao Tribunal e ao juízo de origem.
+Ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
