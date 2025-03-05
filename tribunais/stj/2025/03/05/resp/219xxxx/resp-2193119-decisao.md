@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por VANDEVALDO GOMES NUNES, com respaldo na alínea "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 166):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. DEMORA EXCESSIVA DA ADMINISTRAÇÃO PARA CONCEDER BENEFÍCIO DE APOSENTADORIA. RESPONSABILIDADE CIVIL. DANO MATERIAL NÃO CONFIGURADO. INDENIZAÇÃO. NÃO CABIMENTO. IMPROVIMENTO.
+1. Trata-se de apelação interposta por VANDEVALDO GOMES NUNES (Id. 4058101.31923818) a desafiar sentença que, resumidamente, julgou improcedente o pedido autoral, extinguindo o processo com resolução do mérito (art. 487, I, CPC). (id. 4058101.31650245).
+2. Em sua apelação, o recorrente apoia sua pretensão, resumidamente, nos seguintes argumentos: direito a indenização por danos patrimoniais/materiais nos casos de demora injustificada da administração pública em concluir o processo administrativo de requerimento de aposentadoria, em face de uma demora excessiva de mais de um ano para concluir um processo administrativo de requerimento de aposentadoria (Id. 4058101.31923818).
+3. O cerne da controvérsia é a aplicação da regra do art. 37, § 6º, da Constituição Federal, a qual, adotando a Teoria do Risco Administrativo, impõe ao Poder Público o dever de ressarcir os danos causados a terceiros, independentemente da comprovação de culpa. Entretanto, embora a teoria do risco administrativo dispense o ônus da comprovação de culpa, para gerar responsabilidade do Estado, permanece necessária a comprovação de três pressupostos básicos: o evento danoso, a qualidade de agente na prática do ato e o nexo causal entre eles, sendo certo que a ausência de qualquer desses elementos inibe a obrigação de indenizar.
+4. No direito brasileiro, a regra é que os danos sejam comprovados pelo suposto ofendido para que se justifique o arbitramento judicial de indenização. A mera alegação de danos sem nenhuma comprovação é insuficiente para o reconhecimento de pretensão indenizatória, posto a postulação de danos materiais tem de ser fundamentada com a prova da lesão, não tendo a parte autora se desvencilhado dessa obrigação.
+5. In casu , ao revés, se o apelante recebesse o benefício de aposentadoria retroativo à data do requerimento administrativo, iria receber valores em duplicidade, isto é, seriam pagos salários e proventos referentes ao mesmo período, configurando-se, portanto, enriquecimento ilícito previsto no art. 884 do Código Civil.
+6. Não há como se configurar a existência de ato ilícito, idôneo a ensejar o pagamento de indenização por danos materiais, já que, consoante o já afirmado, o apelante continuou percebendo a sua remuneração.
+7. Apelação improvida.
+8. Honorários advocatícios nos termos da sentença, com majoração da verba sucumbencial em 1% (um por cento), nos termos do art. 85, §11, do CPC, ficando a exigibilidade da parcela suspensa, nos moldes do art. 98, § 3º, do CPC/2015.
+Rejeitados os aclaratórios (e-STJ fls. 222/227).
+Nas suas razões, a parte recorrente aponta divergência jurisprudencial respeitante aos arts. 5º, LXXVIII, 37 da Constituição Federal, e 49 da Lei n. 9.784/1999, sustentando fazer jus à indenização, em virtude da demora injustificada da Administração para solução do pedido de aposentadoria.
+Contrarrazões às e-STJ fls. 291/311.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 313/314.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Em relação à suposta contrariedade dos arts. 5º, LXXVIII, e 37 da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+No que toca ao art. 49 da Lei n. 9.784/199, dispositivo legal apontado como objeto de divergência jurisprudencial , registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso, na instância excepcional, pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
