@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. PRESUNÇÃO DE IMPRESCINDIBILIDADE DOS CUIDADOS MATERNOS. COMPROVAÇÃO NECESSÁRIA. PENA DEFINITIVA. AGRAVO REGIMENTAL NÃO PROVIDO .
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, no qual se pleiteava o restabelecimento de decisão de primeiro grau que concedeu prisão domiciliar à recorrente, sob o argumento de presunção de imprescindibilidade dos cuidados maternos aos filhos menores de 12 (doze) anos.
+2. A decisão impugnada considerou que, embora a Lei de Execução Penal preveja a prisão domiciliar para reeducandos em regime aberto, excepcionalmente, pode-se conceder o benefício a presas dos regimes fechado e semiaberto, desde que a medida seja proporcional, adequada e necessária, e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência.
+3. A jurisprudência desta Corte é orientada no sentido de que, para a concessão de prisão domiciliar, deve ser demonstrado que as crianças precisam de cuidados que só a genitora é capaz de suprir, especialmente em casos de cumprimento definitivo da pena.
+4. A decisão impugnada está em conformidade com o entendimento firmado nesta Corte, não havendo situação excepcional que justifique a concessão da benesse, pois não ficou demonstrada a imprescindibilidade da agravante para com os cuidados de seus filhos menores. Precedentes.
+5. A modificação das premissas fáticas delineadas pelas instâncias de origem enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+6. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUANA APARECIDA RIBEIRO BELEM contra a decisão monocrática proferida pela Presidência que indeferiu liminarmente o habeas corpus.
+Em suas razões recursais, a agravante alega, em apertada síntese, que o fundamento consignado na decisão agravada
+se revela em descompasso com o entendimento de julgados recentes deste STJ, (..) especialmente porque as duas turmas julgadoras das matérias penais, processuais penais e de execução penal encontram-se em sintonia quanto a temática de que existe PRESUNÇÃO DE IMPRESCINDIBILIDADE dos cuidados maternos aos filhos menores de 12 anos de idade ou portadores de deficiência (fl. 120).
+Assim, argumenta a Defesa que a recorrente
+é a única pessoa quem pode cuidar dos filhos de maneira que lhes ofereçam a melhor criação, isso porque, para além de uma das crianças ter apenas 06 anos de idade e ser muito apegada a mãe, o mais velho, de 13 anos de idade, portador de TDAH e TEA carece exclusivamente dos cuidados da mãe porque não é apto a captar ou realizar comandos cotidianos sem o auxílio dela (fl. 127).
+Requer, ao final, o provimento do presente agravo regimental.
+Decorrido o prazo para o Ministério Público Federal e para o Ministério Público estadual, não houve manifestação (fls. 148 e 149).
+Documento juntado (fl. 151).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. PRESUNÇÃO DE IMPRESCINDIBILIDADE DOS CUIDADOS MATERNOS. COMPROVAÇÃO NECESSÁRIA. PENA DEFINITIVA. AGRAVO REGIMENTAL NÃO PROVIDO .
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, no qual se pleiteava o restabelecimento de decisão de primeiro grau que concedeu prisão domiciliar à recorrente, sob o argumento de presunção de imprescindibilidade dos cuidados maternos aos filhos menores de 12 (doze) anos.
+2. A decisão impugnada considerou que, embora a Lei de Execução Penal preveja a prisão domiciliar para reeducandos em regime aberto, excepcionalmente, pode-se conceder o benefício a presas dos regimes fechado e semiaberto, desde que a medida seja proporcional, adequada e necessária, e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência.
+3. A jurisprudência desta Corte é orientada no sentido de que, para a concessão de prisão domiciliar, deve ser demonstrado que as crianças precisam de cuidados que só a genitora é capaz de suprir, especialmente em casos de cumprimento definitivo da pena.
+4. A decisão impugnada está em conformidade com o entendimento firmado nesta Corte, não havendo situação excepcional que justifique a concessão da benesse, pois não ficou demonstrada a imprescindibilidade da agravante para com os cuidados de seus filhos menores. Precedentes.
+5. A modificação das premissas fáticas delineadas pelas instâncias de origem enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+6. Agravo regimental não provido.
+VOTO
+Analisando os requisitos de admissibilidade do agravo regimental, verifico que a irresignação não prospera.
+Conforme exposto na decisão atacada, a agravante objetiva o restabelecimento da decisão de primeiro grau que lhe concedeu a prisão domiciliar, sob o argumento de que a imprescindibilidade dos cuidados maternos aos filhos menores de 12 (doze) anos é presumida, não sendo necessária a respectiva comprovação.
+No entanto, conforme a decisão impugnada, embora exista previsão normativa na LEP estabelecendo que a prisão domiciliar somente seria cabível para os reeducandos em cumprimento de pena em regime aberto,
+excepcionalmente, se admite a concessão do benefício às presas dos regimes fechado e semiaberto quando verificado pelo juízo da execução penal, no caso concreto - em juízo de ponderação entre o direito à segurança pública e a aplicação dos princípios da proteção integral da criança e da pessoa com deficiência -, que tal medida seja proporcional, adequada e necessária e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência, salvo se a periculosidade e as condições pessoais da reeducanda indiquem que o benefício não atenda os melhores interesses da criança ou pessoa com deficiência (RHC n. 145.931/MG, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 16/3/2022)
+Ademais, tratando-se de cumprimento definitivo da pena, deve ser demonstrado que as crianças precisam de cuidados que só a genitora é capaz de suprir (AgRg no HC n. 783.051/SC, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22.6.2023; AgRg no HC n. 798.935/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 857.447/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 18.10.2023, e AgRg no HC n. 740.642/SC, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22.6.2023).
+Nessa linha, o acórdão impugnado está em conformidade com o entendimento firmado nesta Corte, não havendo situação excepcional que justifique a concessão da benesse, tendo em vista estar fundamentado no fato de que não ficou demonstrado a imprescindibilidade da agravante para com os cuidados de seus filhos menores de 12 (doze) anos de idade, especialmente de seu filho portador da Síndrome do Espectro Autista e Transtorno do Déficit de Atenção com Hiperatividade (fls. 19/20).
+Outrossim, a modificação as premissas fáticas delineadas pelas instâncias de origem ensejam o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus (AgRg no HC n. 798.935/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 735.878/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 16.5.2022, e AgRg no HC n. 675.667/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 8.10.2021).
+Nesse contexto,  na  ausência  de  argumento  relevante  que  infirme  as  razões  consideradas  no  julgado  ora  agravado,  que  está  em  sintonia  com  a  jurisprudência  desta  Corte  Superior  de  Justiça,  deve  ser  mantida  a  decisão  impugnada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
