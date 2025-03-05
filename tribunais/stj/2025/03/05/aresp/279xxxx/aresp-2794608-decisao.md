@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WILLIAM SOARES ALVES e PEDRO ALVES SOBRINHO à decisão de fls. 342-346 que negou provimento ao agravo em recurso especial, e, majorou, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Em suas razões, os embargantes sustentam que há equívoco na decisão embargada, uma vez que os recorrentes não foram condenados em honorários para o advogado do recorrido no acórdão do TJRJ. Ao contrário, foi a parte ré (Agência Funerária) que foi condenada ao pagamento de honorários ao advogado dos ora embargantes, considerando que houve provimento do recurso dos apelantes (autores).
+Explicam que, diferentemente do decidido na decisão embargada, não há que se falar em "majoração" dos honorários arbitrados em desfavor dos ora recorrentes pois, repise-se, estes não foram condenados previamente.
+Sustentam ainda a ocorrência de omissão, uma vez que também invocaram a existência de solidariedade legal que pudesse responsabilizar a parte ré pelas condições precárias do cemitério.
+Requerem, portanto, seja reconsiderada a decisão embargada e, sanada a contradição apontada, para extirpar a condenação em "majoração dos honorários advocatícios", considerando que os recorrentes não foram previamente condenados na instância ordinária e também seja sanada omissão de modo a enfrentar a suscitada solidariedade entre a agência funerária ré e a municipalidade que administra o cemitério, em relação às condições degradantes do cemitério e consequente responsabilidade da agência funerária ré (fl. 350).
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+Como bem exposto pela parte embargante, o Tribunal de origem ante o provimento parcial da apelação por ela interposta, condenou a apelada "a pagar a cada um dos Apelantes o valor de R$ 2.000,00 (dois mil reais) a título de danos morais. Condena-se ainda a Apelada ao pagamento das despesas processuais e dos honorários advocatícios fixados em R$ 2.000,00 (dois mil reais), na forma do art. 85, § 8º do CPC" (fl. 242).
+De fato, não foram arbitrados honorários recursais para a parte ora embargante no acórdão recorrido.
+Dessa forma, acolho os embargos de declaração com efeitos infringentes para sanar a contradição e deixar de majorar os honorários recursais ante a inexistência de prévia fixação pelo Tribunal a quo.
+Quanto à alegada omissão, referente à alegada existência de solidariedade legal que pudesse responsabilizar a parte ré pelas condições precárias do cemitério, não merece prosperar.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Registre-se que o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhuma omissão que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Concluiu, por meio de análise dos fatos e provas e da interpretação de cláusulas contratuais, que a responsabilidade pela limpeza das dependências do cemitério é culpa exclusiva da administração do Cemitério Municipal de Magé.
+Nesse contexto, foi devidamente demonstrado na decisão ora embargada que o acolhimento das teses defendidas no recurso especial implicaria, necessariamente, a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios.
+A irresignação, portanto, caracteriza mero inconformismo com o resultado do julgamento, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgados em 20/8/2014, DJe de 28/8/2014; e AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgados em 29/8/2022, DJe de 1º/9/2022).
+Assim, não há irregularidade sanável por meio dos presentes embargos, no que concerne a alegada omissão.
+Ante o exposto, acolho os embargos de declaração com efeitos infringentes apenas para deixar de majorar os honorários recursais.
+Publique-se. Intimem-se.
+EMENTA
