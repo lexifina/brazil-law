@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARILIA CAMPOS DE PAULA e TELMO RICARDO ABRAHAO SCHORR com respaldo nas alíneas "a" e "c" do permissivo constitucional contra acórdão do TRIBUNAL DE JUSTIC A DO ESTADO DO RIO GRANDE DO SUL assim ementado (e-STJ fl. 119):
+PROCESSUAL CIVIL. PROCESSO DE EXECUÇÃO. TÍTULO JUDICIAL.
+IMPUGNAÇÃO E HONORÁRIOS ADVOCATÍCIOS. CPC/73. DESCABIMENTO. SÚMULA 519, STJ. TEMA 408, STJ. ARTIGO 14, CPC/15.
+Sob a égide do CPC/73, a impugnação em execução de sentença ou no cumprimento desta não autorizava imposição de honorária sucumbencial, tal como estampado na Súmula 519, STJ, e, depois, no Tema 408 daquela Corte.
+A posterior alteração do trato normativo advinda com o CPC/15 não retroage para apanhar situações albergadas pela legislação revogada, cumprindo respeitar-se segurança jurídica detalhada em o artigo 14 do vigente estatuto processual civil.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Rejeitados os aclaratórios (e-STJ fls. 483/487), após decisão de minha lavra (e-STJ fls. 427/430).
+Nas suas razões, a parte recorrente aponta violação do art. 85, §§ 1º, 3º e 7º, do CPC/2015, sustentando o cabimento de honorários nas execuções contra a Fazenda Pública impugnadas, bem como ser devida a verba em relação ao crédito pago por RPV.
+Contrarrazões às e-STJ fls. 556/574.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 578/580.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Entendeu o Tribunal a quo pela inaplicabilidade das disposições do CPC/2015, uma vez que a impugnação à execução foi apresentada e julgada sob a égide do CPC/1973, bem como que a verba pretendida, inclusive no pertinente à RPV, seria vedada pelo art. 1º-D da Lei n. 9.494/1997 (e-STJ fls. 485/486, com destaques no original):
+Note-se que o referido preceito legal  art. 1º-D da Lei n. 9.494/1997  autoriza a fixação de honorários advocatícios apenas nas execuções embargadas, o que não corresponde à realidade fático-jurídica retratada nos autos, uma vez recebida a incidental oposta pelo IPE-PREV como mera impugnação em junho de 2015 (Evento 6 - PROCJUDIC7, fl. 233, autos de 1o grau), ausente oportuna irresignação recursal quanto a tal decisão.
+Daí a ausência de fixação de honorários advocatícios na decisão que julgou a referida impugnação a 10.07.2015 (Evento 6 - PROCJUDIC8, fls. 270 a 272, autos de 1o grau), acolhidos embargos declaratórios aviados pela autarquia previdenciária, decisão de 13.09.2015 (Evento 6 - PROCJUDIC8, fl. 276 e verso, autos de 1o grau), voltando os ora embargantes a se manifestarem nos autos apenas em petição datada de 16.05.2016, oportunidade em que expressaram concordância com os cálculos apresentados pelo IPE-PREV (Evento 6 - PROCJUDIC10, fl. 308, autos de 1o grau).
+Veja-se que tal panorama jurídico apenas veio a se alterar com a vigência do novo Código de Processo Civil, que em seu artigo 85, § 7o, passou a admitir, a contrario sensu, o cabimento de honorários advocatícios em cumprimento de sentença impugnado, assim estatuindo:
+ ..
+Ocorre que, como já consignado na decisão embargada, a alteração trazida pelo atual Código de Processo Civil não retroage para alcançar atos processuais praticados ainda na vigência do anterior diploma processual, especialmente considerando-se o disposto em o artigo 14, CPC/15: "A norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada."
+ ..
+Mesmíssimo entendimento se aplica ao pleito de fixação de honorários advocatícios, relativamente à expedição da RPV, assente no artigo 85, §§ 1o e 3o, CPC/15, ante a impossibilidade, reitero, de retroação das disposições do atual Código de Processo Civil para alcançar execuções de sentença aforadas ainda na vigência do Código de Processo Civil de 1973, igualmente não autorizando entendimento diverso o disposto no artigo 1o-D, Lei no 9.494/97, porquanto, como já dito, os embargos opostos pela autarquia previdenciária foram recebidos como impugnação, a afastar a incidência do referido preceito legal.
+No mais, reitero que, quanto à jurisprudência do Superior Tribunal de Justiça arrolada pelos embargantes, evidentemente não corresponde à hipótese dos autos, que apresenta dado fundamental, como destacado no acórdão: a sentença foi proferida quando vigente o anterior estatuto processual, assim como sua execução, e respectivos embargos, recebidos como impugnação, restou deflagrada sob a vigência do Código de Processo Civil revogado.
+Com isso, restam igualmente afastadas alegações, com nítido intuito de rediscussão, quanto à consideração da atividade profissional, assim como invocação dos princípios da sucumbência e causalidade, já que em relação a tais argumentos apresenta-se satisfatória a observância do direito intertemporal aplicável à espécie, em especial o disposto no artigo 14, CPC/15, não incidindo quanto à questão sub judice a regra do artigo 1.046, CPC/15.
+As razões do recurso especial, contudo, deixaram de impugnar a aludida fundamentação adotada pela Corte local, tornando inviável o conhecimento do apelo nobre, nos termos das Súmulas 283 e 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
