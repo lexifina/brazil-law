@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que inadmitiu recurso especial interposto por BANCO J. SAFRA S.A com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+EMENTA : AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO JUDICIAL. AGENTE POLICIAL INATIVO. BLOQUEIO DE 25% DOS RENDIMENTOS NA FONTE PAGADORA. PROVENTOS COMPROMETIDOS COM EMPRÉSTIMOS. MEDIDA QUE NÃO PRESTARIA À FINALIDADE A QUE SE DESTINA COMPROVADO AINDA O COMPROMETIMENTO DA APOSENTADORIA COM A MANUTENÇÃO DAS DESPESAS FAMILIARES. 1. Em que pese o Superior Tribunal de Justiça atualmente admita o bloqueio on-line de salário para débito diverso de alimentos, limitado a 30% (trinta por cento), o que se verifica, no particular, é que eventual retenção mensal da remuneração do ora Recorrente não se prestaria à efetiva amortização da divida. 2.
+Considerando, pois, que a medida constritiva postulada pelo Exequente, definitivamente, não alcançaria a finalidade pretendida, já que o quantum retido seria facilmente absorvido pelos consectários legais da condenação, outra conclusão não há senão em prol da reforma da decisão agravada, reconhecendo-se a ineficácia da medida, máxime, uma vez comprovado em sede de recurso que a aposentadoria de agente policial do agravante encontra-se comprometida com as despesas familiares. 3. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. DECISÃO REFORMADA.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 1186-1196.
+Nas razões do recurso especial, a parte recorrente alega a existência de dissídio jurisprudencial, em relação ao art. 833 do CPC/2015, sustentando, em síntese, que deve ser restabelecida a penhora sobre os proventos do devedor.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Como sabido, a admissibilidade do recurso especial pela alínea c do permissivo constitucional exige, para a correta demonstração da divergência jurisprudencial, o cotejo analítico dos julgados confrontados, expondo-se as circunstâncias que identificam ou assemelham os casos, a fim de demonstrar a similitude fática entre o acórdão impugnado e o paradigma, bem como a existência de soluções jurídicas díspares, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ.
+Nessa linha de intelecção, confiram-se os seguintes precedentes exarados por esta eg. Corte:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE AGRAVANTE.
+(..)
+2. No caso, o recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1896023/SC, Rel. MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO VERIFICADA. AUSÊNCIA DE SIMILITUDE FÁTICA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial pela alínea  c  do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente e demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015). No caso, inexiste similitude fática.
+2. Dissídio jurisprudencial não comprovado, ante a incidência da Súmula n. 211 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1894157/DF, Rel. MINISTRO ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM DEVOLUÇÃO DE QUANTIA PAGA E INDENIZAÇÃO POR LUCROS CESSANTES. LUCROS CESSANTES QUE NÃO SÃO DEVIDOS. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO NÃO PROVIDO.
+(..)
+3. Ademais, nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, quando não demonstrada, como no caso em apreço, a similitude fática entre as hipóteses confrontadas, inviabilizando a análise da divergência de interpretação da lei federal invocada.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 1.367.519/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 26/3/2019, DJe de 1/4/2019 - g. n.)
+No caso, o recurso especial (fls. 1202-1207, e-STJ) foi manejado com arrimo na alínea c do permissivo constitucional, apontando divergência pretoriana, porém não foi demonstrada a similitude fático-jurídica nos vv. acórdãos em comparação, haja vista que, ao indeferir o pedido de penhora dos proventos da parte recorrida, o Tribunal de origem consignou que, em que pese a possibilidade de penhora pela jurisprudência, "dadas as particularidades do caso, o bloqueio parcial da remuneração (aposentadoria) do Recorrente não se prestaria à efetiva amortização da dívida e, nessa exata medida, não alcançaria a finalidade pretendida, considerando ainda o demonstrado comprometimento financeiro familiar, outra conclusão não há, senão pela reforma da decisão agravada. De consequência, determino o imediato desbloqueio e restituição da totalidade dos valores, caso já alcançados pela constrição judicial." (fl. 1155-1156, e-STJ).
+Nesse panorama, tem-se que o apelo não merece prosperar, ante a ausência de demonstração de similitude fática entre os arestos em comparação.
+Assim, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
