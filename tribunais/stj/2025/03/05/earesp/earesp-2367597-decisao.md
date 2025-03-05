@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por ASPR CONTABILIDADE INTEGRADA LTDA. contra o acórdão da Terceira Turma assim ementado (fl. 646):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL. CORRETAGEM DE SEGUROS. ENVIO DE PROPOSTA À SEGURADORA. RECUSA. RELAÇÃO CONTRATUAL. NÃO PERFECTIBILIZAÇÃO. ART. 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ARTS. 2º, 3º, 18, 34 E 35, INCISO I, DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. AUSÊNCIA DE COMANDO NORMATIVO INFIRMADOR. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SIMILITUDE FÁTICA ENTRE ARESTOS CONFRONTADOS. AUSÊNCIA.
+1. Não viola o art. 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. A falta de prequestionamento da matéria relacionada com os dispositivos legais apontados pela parte recorrente como malferidos (no caso, os arts. 2º, 3º, 18, 34 e 35, inciso I, do Código de Defesa do Consumidor), a despeito da oposição de declaratórios, impede o conhecimento do recurso especial no ponto, a teor da Súmula nº 211/STJ.
+3. Revela-se deficiente a fundamentação do recurso especial que indica como malferido dispositivo legal desprovido de comando normativo capaz de desconstituir o acórdão hostilizado (Súmula nº 284/STF).
+4. A ausência de similitude fática entre o acórdão recorrido e aqueles apontados como paradigmas nas razões recursais obsta o conhecimento do recurso especial interposto com esteio na alínea "c" do permissivo constitucional.
+5. Agravo interno não provido.
+Aduz a embargante que há divergência com acórdão paradigma da Quarta Turma (EDcl no AgInt no REsp n. 1.973.869/SP) relativamente à tese de que a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto, previsto no art. 1.025 do CPC, desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+Requer o provimento dos embargos de divergência.
+É o relatório. Decido.
+Os embargos não reúnem condições de processamento, porquanto não há similitude entre os arestos confrontados.
+Note-se que o acórdão embargado concluiu que não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC de 2015 e a falta de prequestionamento, com incidência das Súmulas n. 211 do STJ e 284 do STF em relação às teses invocadas pela parte recorrente que não são debatidas pela corte a quo por concluir serem suficientes para a solução da controvérsia outros fundamentos utilizados pelo colegiado.
+Já o acórdão paradigma versa sobre hipótese em que se reconheceu a tese de ocorrência de prequestionamento ficto na situação em que a parte recorrente, após o manejo dos embargos de declaração na origem, também apontou, nas razões do recurso especial, violação do art. 1.022 do CPC.
+Verifica-se que os arestos confrontados analisaram contextos fáticos totalmente distintos e cercados de peculiaridades próprias.
+Para que se viabilizem os embargos de divergência, é necessária a demonstração da similitude das circunstâncias fáticas em face das quais se deu o julgamento e de soluções jurídicas diversas.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
