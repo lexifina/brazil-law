@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5 e 7 do STJ e 284 do STF, além de ausência de divergência jurisprudencial (e-STJ fls. 1.192/1.195).
+O acórdão recorrido está assim ementado (e-STJ fls. 841/842):
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO PESSOAL. SENTENÇA DE PROCEDÊNCIA. RECURSOS DE AMBAS AS PARTES.
+APELO DA RÉ. PRELIMINARES. TESE DE CERCEAMENTO DE DEFESA ANTE A AUSÊNCIA DE REALIZAÇÃO DE PERÍCIA CONTÁBIL. DESACOLHIMENTO. ANÁLISE DE EVENTUAL ABUSIVIDADE VIABILIZADA PELOS DOCUMENTOS JÁ CONSTANTES DOS AUTOS. ACERVO PROBATÓRIO SUFICIENTE AO DESLINDE DA CONTROVÉRSIA. PREFACIAL REPELIDA.
+INVOCADA A NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. INSUBSISTÊNCIA. FUNDAMENTOS CONCISOS, PORÉM SUFICIENTES. SITUAÇÃO QUE NÃO SE COADUNA A NENHUMA DAS HIPÓTESES DO ART. 489, § 1º, DO CPC. MÁCULA INEXISTENTE. COMANDO SENTENCIAL HÍGIDO.
+AVENTADO EXERCÍCIO ABUSIVO DA ADVOCACIA PELO CAUSÍDICO DA REQUERENTE. PRETENDIDA A EXPEDIÇÃO DE OFÍCIO AO NUMOPEDE E À OAB, BEM COMO A INTIMAÇÃO DA AUTORA PARA CONFIRMAR A CONTRATAÇÃO DO PATRONO. REJEIÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO MÍNIMA DAS SUPOSIÇÕES LEVANTADAS. AUTORA REPRESENTADA MEDIANTE INSTRUMENTO PROCURATÓRIO IDÔNEO. EVENTUAIS INFRAÇÕES ÉTICAS QUE PODEM SER DENUNCIADAS PELA PRÓPRIA PARTE PERANTE OS ÓRGÃOS ADMINISTRATIVOS COMPETENTES. PROVIDÊNCIAS DESCABIDAS.
+PREJUDICIAL DE MÉRITO. PRESCRIÇÃO VENTILADA COM ESTEIO NO PRAZO QUINQUENAL DO ART. 27 DO CDC. NÃO OCORRÊNCIA. APLICAÇÃO DO PRAZO DECENAL DO ART. 205 DO CÓDIGO CIVIL. OBRIGAÇÃO CONTINUADA. TERMO INSTAURADO A PARTIR DO VENCIMENTO DA ÚLTIMA PARCELA, E NÃO DA CELEBRAÇÃO DAS AVENÇAS. AUSÊNCIA DE JUNTADA DE PARCELA DOS CONTRATOS REVISANDOS. IMPOSSIBILIDADE DE AVERIGUAR O INÍCIO DO CÔMPUTO PRESCRICIONAL. PRESUNÇÃO DE VERACIDADE DOS FATOS AVENTADOS PELA AUTORA. DICÇÃO DO ART. 400 DO CPC. PRETENSÃO LÍDIMA. EIVA NÃO CONFIGURADA TAMBÉM QUANTO AOS CONTRATOS CARREADOS AO FEITO. CITAÇÃO PERFECTIBILIZADA ANTES DO TRANSCURSO DO DECÊNIO LEGAL. ART. 240, § 1º, DO CPC. PRESCRIÇÃO NÃO CONFIGURADA EM NENHUMA DAS OPERAÇÕES. PREJUDICIAL AFASTADA.
+MÉRITO. JUROS REMUNERATÓRIOS. PEDIDO DE MANUTENÇÃO DAS TAXAS CONTRATADAS. REJEIÇÃO. RELAÇÃO DE CONSUMO. MITIGAÇÃO DO PRINCÍPIO DO PACTA SUNT SERVANDA. OBSERVÂNCIA DAS TAXAS MÉDIAS DIVULGADAS PELO BACEN APENAS A TÍTULO REFERENCIAL. JUROS PACTUADOS, AINDA ASSIM, EXORBITANTES. AUSÊNCIA DE JUSTIFICATIVA PLAUSÍVEL PELA CREDORA. ÔNUS QUE LHE INCUMBIA. ART. 373, INC. II, DO CPC. ILEGALIDADE ASSENTADA. LIMITAÇÃO NECESSÁRIA. INVIABILIDADE DE CONSTATAÇÃO DOS PERCENTUAIS PRATICADOS NOS CONTRATOS NÃO JUNTADOS. ADOÇÃO, NESTES CASOS, DAS MÉDIAS DE MERCADO POR FORÇA DA SÚMULA N. 530 DO STJ. PRESUNÇÃO DE ABUSIVIDADE, ADEMAIS, ASSENTADA NO ART. 400 DO CPC. DECISÃO PRESERVADA NOS PONTOS. VINDICADA A ADEQUAÇÃO DA SÉRIE TEMPORAL UTILIZADA PARA NORTEAR A REVISÃO DO ENCARGO NOS PACTOS DE RENEGOCIAÇÃO. ACOLHIMENTO. CONTRATOS VINCULADOS A EMPRÉSTIMOS PESSOAIS NÃO CONSIGNADOS. IMPOSITIVA A APLICAÇÃO DAS MÉDIAS PREVISTAS PARA A OPERAÇÃO DE ORIGEM, CONFORME ACEPÇÃO DO BANCO CENTRAL. PRECEDENTES DESTA CORTE. SENTENÇA RETOCADA.
+REPETIÇÃO DO INDÉBITO. PRETENSO AFASTAMENTO DA OBRIGAÇÃO. INVIABILIDADE. CONSTATAÇÃO DE ABUSIVIDADES NO CONTRATO. IMPOSITIVA DEVOLUÇÃO, NA FORMA SIMPLES, DOS VALORES PAGOS A MAIOR. HIPÓTESE DE ENGANO JUSTIFICÁVEL. ART. 42, PARÁGRAFO ÚNICO, DO CDC. DECISÃO ESCORREITA.
+APELO DA AUTORA. JUROS REMUNERATÓRIOS. INSURGÊNCIA VOLTADA EXCLUSIVAMENTE À ADOÇÃO DAS MÉDIAS REFERENTES A COMPOSIÇÃO DE DÍVIDAS. INAPLICABILIDADE DE TAL PARÂMETRO ADREDE ASSENTADA NO JULGAMENTO DA APELAÇÃO INTERPOSTA PELA RÉ. RECLAMO PREJUDICADO.
+HONORÁRIOS RECURSAIS INCABÍVEIS.
+RECURSO DA RÉ CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DA AUTORA PREJUDICADO.
+O s embargos de declaração foram rejeitados (e-STJ fls. 1.012/1.017).
+Nas razões do recurso especial (e-STJ fls. 1.037/1.076), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) art. 421 do CC, pois (e-STJ fl. 1.045):
+ ..  o D. Juízo a quo acolheu os argumentos apresentados pela parte adversa, invalidando um ato jurídico perfeito, utilizando como justificativa a suposta configuração de abusividade da taxa de juros praticada no contrato tendo como referência as "taxas médias de mercado" publicadas pelo Banco Central e desconsiderando completamente
+(ii) dos arts. 355, I e II, e 356, I e II, do CPC/2015, porque (e-STJ fls. 1.062/1.064):
+ ..  entende a Recorrente ser imprescindível a realização da prova pericial contábil para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato e/ou substituição por outro percentual, principalmente considerando que na prática os julgadores estão, em sua maioria, limitando-se a seguir com a utilização da "taxa média de mercado" como ferramenta de aferição quanto a suposta abusividade da taxa de juros fixada e para definir o novo percentual a ser aplicado.
+ ..  ao julgar o feito antecipadamente, sem possibilitar a produção da prova pericial contábil expressamente requerida, o D. Juízo a quo violou o disposto no art. 355, incisos I e II e no art. 356, incisos I e II, ambos do CPC/2015, impossibilitando o exercício do contraditório e da ampla defesa e, por conseguinte, CERCEANDO O DIREITO DE DEFESA DA ORA RECORRENTE.
+(iii) arts. 80, VII, e 1.026, § 2º, do CPC, sustentando (e-STJ fl. 1.058):
+(..) os embargos de declaração opostos pela Recorrente não podem ser considerados manifestamente protelatórios e, portanto, não é possível a aplicação da multa.
+Foram oferecidas contrarrazões (e-STJ fls. 1.182/1.189).
+O agravo (e-STJ fls. 1.203/1.212) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.221/1.228).
+É o relatório.
+Decido.
+Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando o caráter abusivo dos juros remuneratórios no caso concreto (e-STJ fls. 834/869):
+Conforme se verifica, embora as taxas divulgadas pelo BACEN não sirvam como um padrão estanque para o estabelecimento das taxas de juros remuneratórios, podem ser utilizadas como parâmetro pelo julgador para perquirir eventual abusividade praticada pela instituição financeira que não deve estabelecer taxa demasiadamente distante dos valores praticados pelo mercado.
+Não subsiste, a propósito, o argumento de que as taxas referenciais estabelecidas pela autarquia não contemplariam o perfil de clientela da instituição ré, cuja atividade preponderante seria a concessão de crédito a negativados.
+(..)
+Logo, não há óbice à adoção da média de mercado como forma de balizar a constatação de ilegalidades na pactuação dos juros, independentemente, giza-se, da espécie contratual versada.
+(..)
+E, porquanto a demandada não logrou justificar, mediante documentação hábil, a adoção de taxas em muito discrepantes dos parâmetros consignados pelo Banco Central, é medida incontornável a limitação dos juros remuneratórios por si exigidos.
+(..)
+Por outro lado, no que toca ao contrato de renegociação, diante da alteração empreendida na série revisional cabível, a decisão deve ser reformada para que os juros remuneratórios sejam estabelecidos à taxa mensal de 4,88%, e não no patamar de 3,41% fixado em primeira instância.
+Concernente aos contratos não apresentados pela ré, igualmente escorreita a solução emprestada pelo julgador originário ao limitar os respectivos juros às médias de mercado.
+É que, ante a impossibilidade de averiguação dos percentuais efetivamente contratados, devem ser estes limitados às médias referenciadas pelo Banco Central ao tempo das celebrações, salvo se constatado, em liquidação, que os índices praticados sejam mais favoráveis ao consumidor, nos exatos moldes da sobredita Súmula n. 530 do STJ.
+O entendimento está de acordo com a jurisprudência desta Corte. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MÉRITO. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+ ..  3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009)
+4. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+5. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.427.734/RS, de minha relatoria, Quarta Turma, julgado em 26/02/2024, DJe 29/02/2024.)
+Ainda, desconstituir a convicção formada pelas instâncias originárias quanto às peculiaridades do contrato e à ausência de prova por parte da recorrente e, assim, acolher os argumentos do recurso especial é inviável, em razão das Súmulas n. 5 e 7 do STJ.
+Quanto ao cerceamento de defesa, a Corte local entendeu (e-STJ fls. 828/829):
+No que toca ao julgamento antecipado, verifica-se que as provas coligidas aos autos corroboram os fatos discutidos na controvérsia, ao passo que a pretensão probatória da apelante é desnecessária, considerando que a identificação de eventuais irregularidades nos contratos não requer o prolongamento do feito com abertura da fase de instrução processual.
+(..)
+É justamente a determinação do art. 355 do CPC, cujo inciso I preconiza que o juiz julgará antecipadamente a lide quando "não houver necessidade de produção de outras provas"; em adição, a codificação processual, em seu art. 370, parágrafo único, adverte que "o juiz indeferirá, em decisão fundamentada, as diligências inúteis ou meramente protelatórias".
+(..)
+Nesse contexto, toda a fundamentação da sentença apresenta-se com clareza e lucidez suficientes quando aponta as evidências e provas dos fatos alegados, sempre embasada na documentação já constante do processo.
+Fixadas tais premissas, arremata-se que o julgamento antecipado do litígio não redundou em cerceamento de defesa, pois, reitera-se, a perícia judicial seria de todo inócua à apreciação da matéria suscitada.
+Assim, modificar o entendimento do acórdão impugnado e reconhecer a existência de cerceamento de defesa pelo julgamento antecipado da lide e pela desnecessidade de produção de prova pericial, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por fim, a interposição dos aclaratórios, na Corte de origem, decorreu do exercício do direito de insurgir-se da parte, que se valeu desse meio de modo a tentar prequestionar matéria relevante para futuro recurso especial. Dessa forma, deve-se afastar a multa aplicada.
+Ante o exposto, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, afastando a multa imposta no julgamento dos embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
