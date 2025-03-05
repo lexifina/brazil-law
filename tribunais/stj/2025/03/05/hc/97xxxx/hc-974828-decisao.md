@@ -1,0 +1,16 @@
+DECISÃO
+VALDECIR BORGES DA COSTA LEÃO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 0001903-35.2016.8.24.0012.
+Consta dos autos que o paciente foi condenado, pela prática do crime de roubo majorado e organização criminosa - art. 157, §2º, I, II e V, do Código Penal e 2º, caput, c/c, §§2º e 3º, da Lei n. 12.850/2013.
+A defesa pleiteia, por meio deste writ, o reconhecimento de crime único, haja vista que a Corte local considerou o concurso formal impróprio.
+O Ministério Público Federal manifestou-se pelo não conhecimento ho habeas corpus.
+Decido.
+Este habeas corpus foi impetrado em 15/1/2025 e se insurge contra acórdão de apelação criminal que transitou em julgado em 28/4/2022. O teor do ofício acostado aos autos pela instância ordinária assinala que "não foram praticados outros atos relevantes em relação ao paciente" (fl. 1.843).
+Diante desse cenário, não conheço do writ, uma vez que a impetração visa substituir o ajuizamento de revisão criminal.
+A jurisprudência desta Corte Superior não conhece da açã constitucional manejada (substitutivo de revisão criminal), uma vez que não houve inauguração da competência deste Tribunal.
+Consoante o art. 105, I, "e", da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, somente as revisões criminais e as ações rescisórias de seus próprios julgados.
+Nesse sentido, vale citar os seguintes julgados colegiados desta Corte: AgRg no HC n. 903.400/RS, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 17.6.2024; AgRg no HC n. 885.889/RS, Rel. Ministro Ribeiro Dantas, 5ª T. , DJe 13.6.2024; AgRg no HC n. 852.988/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 12.6.2024; AgRg no HC n. 908.528/MG, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 28.5.2024; AgRg no HC n. 883.647/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 15.5.2024; AgRg no HC n. 887.735/PE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 25.4.2024; HC n. 790.768/SP, Rel. Ministra Daniela Teixeira, 5ª T., DJe 10.4.2024; AgRg no HC n. 757.635/SC, Rel. Ministro Teodoro Silva Santos, 6ª T., DJe 15.3.2024; AgRg no HC n. 825.424/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 3.7.2024; AgRg no HC n. 820.174/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 15.8.2024; AgRg no HC n. 913.826/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 3.7.2024.
+Além disso, não se verifica no julgado impugnado ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+Por fim, ainda que assim não fosse, nota-se a preclusão temporal do pleito de arguição de nulidade ou de negativa de materialidade e de autoria, haja vista que "a jurisprudência deste Tribunal Superior, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021) (AgRg no HC n. 860.367/SC, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 13/9/2024).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
