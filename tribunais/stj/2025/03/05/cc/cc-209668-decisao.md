@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de conflito de competência estabelecido entre o JUÍZO DE DIREITO DA VARA REGIONAL EMPRESARIAL DE NOVO HAMBURGO - RS (JUÍZO DA RECUPERAÇÃO) e o JUÍZO DE DIREITO DA 21ª VARA CÍVEL DE SÃO PAULO - SP (JUÍZO CÍVEL COMUM).
+A questão, na origem, envolve embargos à execução opostos por AELBRA EDUCAÇÃO SUPERIOR - GRADUAÇÃO E PÓS-GRADUAÇÃO SA - EM RECUPERAÇÃO JUDICIAL (RECUPERANDA) contra BANCO INDUSVAL SA (BANCO).
+A ação foi distribuída perante o Juízo paulista que declinou da competência ao Juízo gaúcho, onde tramita a recuperação judicial da AELBRA (e-STJ, fl. 1.440).
+Recebidos os autos, o Juízo gaúcho suscitou o conflito, sob o fundamento de não haver nada a atrair a competência do Juízo recuperacional, sendo sua competência limitada a análise da essencialidade de bens eventualmente constritos, em cooperação com os demais juízos comuns (e-STJ, fls. 1.510/1.511).
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República, Dr. ANTONIO CARLOS ALPINO BIGONHA, se manifestou pela declaração de competência do Juízo suscitado (e-STJ, fls. 3.051/3.054).
+É o relatório.
+DECIDO.
+Conheço do conflito com fundamento no artigo 105, I, "d", da Constituição da República, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos.
+De acordo com o art. 6º da Lei nº 11.101/05, o deferimento da recuperação judicial suspende o curso de todas as ações e execuções ajuizadas contra o devedor.
+Esta norma consagra o princípio da universalidade do juízo da falência e da recuperação judicial, pelo qual todas as ações de interesse da massa falida ou da empresa em recuperação judicial são atraídas pelo juízo universal.
+O art. 49 da Lei 11.101/2005 prevê que estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos, o que conduz à conclusão de que a submissão de um determinado crédito à recuperação judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, bastando que se refira a obrigações contraídas anteriormente ao pedido.
+De acordo com o art. 59 da Lei 11.101/05, a aprovação do plano de recuperação judicial implica novação das antigas obrigações do devedor que, extintas, são substituídas por aquelas previstas no indigitado plano.
+Assim, esta Corte tem decidido que o crédito derivado de atos praticados em período anterior ao pedido de recuperação judicial, concursal, portanto, deve se submeter à forma de satisfação preconizada perante o Juízo universal, a despeito de a decisão condenatória eventualmente ter sido proferida e/ou transitada em julgado em momento posterior.
+O entendimento foi consolidado pela Segunda Seção do Superior Tribunal de Justiça no julgamento do Tema nº 1051, firmando a tese de que para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+Confira-se o precedente:
+RECURSO ESPECIAL REPETITIVO. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. EXISTÊNCIA. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ART. 49, CAPUT, DA LEI Nº 11.101/2005. DATA DO FATO GERADOR.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de reparação de danos pela cobrança indevida de serviços não contratados. Discussão acerca da sujeição do crédito aos efeitos da recuperação judicial.
+3. Diante da opção do legislador de excluir determinados credores da recuperação judicial, mostra-se imprescindível definir o que deve ser considerado como crédito existente na data do pedido, ainda que não vencido, para identificar em quais casos estará ou não submetido aos efeitos da recuperação judicial.
+4. A existência do crédito está diretamente ligada à relação jurídica que se estabelece entre o devedor e o credor, o liame entre as partes, pois é com base nela que, ocorrido o fato gerador, surge o direito de exigir a prestação (direito de crédito).
+5. Os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência.
+6. Em atenção ao disposto no art. 1.040 do CPC/2015, fixa-se a seguinte tese: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+7. Recurso especial provido.
+(REsp n. 1.843.332/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, j. 9/12/2020, DJe de 17/12/2020)
+Na hipótese dos autos, o Juízo da recuperação entendeu que, além de se tratar de crédito extraconcursal, a recuperação já está encerrada por sentença ainda não transitada, não cabendo declínio de competência da execução individual, mas cooperação entre os juízos quanto a eventuais atos constritivos em observância a essencialidade de bens da recuperanda, se o caso (e-STJ, fl. 1.510).
+Assim, uma vez afastada a possibilidade de o valor compor o plano de recuperação judicial, a execução deve prosseguir no juízo da execução, ressalvada a prática de atos constritivos que deverá ser submetida ao controle no juízo universal.
+Confira-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. LIMINAR CONCEDIDA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. A deliberação acerca da natureza concursal ou extraconcursal do crédito se insere na competência do Juízo universal, cabendo-lhe, outrossim, decidir acerca da liberação ou não de bens eventualmente penhorados e bloqueados, uma vez que se trata de juízo de valor vinculado à aferição da essencialidade do bem em relação ao regular prosseguimento do processo de recuperação.
+4. Agravo interno não provido.
+(AgInt no CC nº 178.571/MG, Relator Ministro LUIS FELIPE SALOMÃO, Segunda Seção, j. 15/2/2022, DJe de 18/2/2022)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO IMPROVIDO.
+1. São incompatíveis com a recuperação judicial os atos de execução proferidos por outros órgãos judiciais de forma simultânea com o curso da recuperação ou da falência das empresas devedoras, de modo a configurar conflito positivo de competência.
+2. Tratando-se de crédito constituído depois de ter o devedor ingressado com o pedido de recuperação judicial (crédito extraconcursal), está excluído do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005). Porém, a jurisprudência desta Corte tem entendido que, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, o controle dos atos de constrição patrimonial relativos aos créditos extraconcursais deve prosseguir no Juízo universal.
+3. Franquear o pagamento dos créditos posteriores ao pedido de recuperação por meio de atos de constrição de bens sem nenhum controle de essencialidade por parte do Juízo universal acabará por inviabilizar, a um só tempo, o pagamento dos credores preferenciais, o pagamento dos credores concursais e, mais ainda, a retomada do equilíbrio financeiro da sociedade, o que terminará por ocasionar na convolação da recuperação judicial em falência, em prejuízo de todos os credores, sejam eles anteriores ou posteriores à recuperação judicial.
+4. Agravo regimental improvido.
+(AgRg nos EDcl no CC n. 136.571/MG, relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, j. 24/5/2017, DJe de 31/5/2017)
+O crédito constituído após o deferimento do pedido de recuperação judicial, por ser extraconcursal, não se submete aos seus efeitos, sendo facultado a credora propor a respectiva execução, que se processa pelas regras ordinárias aplicáveis a qualquer outro feito executivo e perante o juízo competente, a quem cabe promover todos os atos processuais, exceto a apreensão e a alienação de bens.
+Em suma, compete ao JUÍZO CÍVEL COMUM o processamento da execução e seus incidentes e ao juízo da recuperação judicial acompanhar os atos expropriatórios, de modo a preservar tanto o direito creditório quanto a viabilidade do plano, mesmo nas hipóteses de créditos extraconcursais.
+Nessas condições, CONHEÇO do conflito para declarar competente o JUÍZO DE DIREITO DA 21ª VARA CÍVEL DE SÃO PAULO - SP, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO INDIVIDUAL. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO CÍVEL COMUM PARA PROSSEGUIR COM A EXECUÇÃO, DEVENDO SUBMETER AO JUÍZO DA RECUPERAÇÃO JUDICIAL OS ATOS DE CONSTRIÇÃO INCIDENTES SOBRE O PATRIMÔNIO DA EMPRESA RECUPERANDA.
