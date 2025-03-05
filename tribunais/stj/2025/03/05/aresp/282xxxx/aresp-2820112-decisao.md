@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de instrumento interposto em face de decisão que, nos autos de ação previdenciária em fase de cumprimento de sentença, homologou o novo cálculo elaborado pelo INSS e não fixou honorários advocatícios, ao argumento de não ter sido apresentada impugnação pela autarquia. No Tribunal a quo, negou-se provimento ao recurso.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO INVERTIDA. CÁLCULO REFEITO DO INSS ACOLHIDO. IMPUGNAÇÃO INEXISTENTE. HONORÁRIOS ADVOCATÍCIOS INDEVIDOS. ART. 85,§7º, DO CÓDIGO DE PROCESSO CIVIL.
+1. Como regra, a legislação processual vigente é clara ao indicar o cabimento de honorários advocatícios em sede de execução de sentença, havendo ou não, resistência do devedor, em virtude do princípio da causalidade, diante da ausência de pagamento espontâneo.
+2. Situação peculiar é verificada, porém, na hipótese de execução contra a Fazenda Pública, conforme artigo 85, §7º do Código de Processo Civil:"Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada."
+3. Embora verificada a correção do erro apontado na conta do INSS em sede de execução invertida, incabível a fixação honorários advocatícios, considerando que, à míngua de apresentação de cálculo pela parte credora, a impugnação prevista no artigo 535 do CPC também não existiu, prevalecendo a regra da não condenação da Fazenda Pública na sucumbência.
+4. Agravo de instrumento desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No caso concreto, observo que o INSS foi intimado a apresentar seus cálculos, em sede de execução invertida, e assim o fez (ID 255936603 da ação originária).
+Instada, a parte exequente impugnou o valor, discordando quanto à data de início dos juros, a aplicação da Selic e a base de cálculo utilizada na conta (ID 258420102). Todavia, não elaborou o cálculo previsto no artigo 534 do Código de Processo Civil.
+Manifestando-se sobre a petição do exequente, o INSS reconheceu erro de digitação no termo inicial dos juros e discordou dos outros temais suscitados. Forneceu novo cálculo (R$ 553.072,06) e obteve a concordância do credor, desaguando na decisão de acolhimento ora agravada (I Ds 272045111, 272158131 e 280490022).
+Nesse contexto, embora verificada a correção do erro apontado na conta do INSS em sede de execução invertida, incabível a fixação honorários advocatícios, considerando que, à míngua de apresentação de cálculo pela parte credora, a impugnação prevista no artigo 535 do CPC também não existiu, prevalecendo a regra da não condenação da Fazenda Pública na sucumbência.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permi tir a exata compreensão da controvérsia."
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
