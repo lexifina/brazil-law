@@ -1,0 +1,37 @@
+DECISÃO
+JOAO VICTOR PEREIRA ANTONIO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2311809-40.2024.8.26.0000.
+Em suas razões, a defesa sustenta, em síntese, que a decisão que decretou a prisão preventiva do paciente - acusado da prática do delito de receptação - seria carente de fundamentação idônea.
+Afirma que apenas o fato de não haver sido encontrado para citação é insuficiente para justificar a segregação cautelar.
+Requer, assim, a revogação da prisão preventiva do acusado, ainda que com a imposição de medidas cautelares menos gravosas.
+Indeferida a liminar (fls. 84-85) e prestadas as informações (fls. 93-97 e 98-121), foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus (fls. 123-125).
+Decido.
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática do crime previsto no art. 180 do Código Penal. A prisão preventiva foi decretada pelo Juiz de primeiro grau, em 12/6/2024, com amparo na seguinte fundamentação (fls. 54-55, grifei):
+Inicialmente, devidamente procurado nos endereços constantes dos autos, bem como, regularmente citado por edital (fls.259/260), deixou o acusado JOÃO VICTOR PEREIRA ANTÔNIO de atender ao chamamento judicial, nem constituiu defensor, de modo que, com base no disposto no art. 366, do Código de Processo Penal determino a suspensão do feito.
+Em face da não localização do acusado em epígrafe, determino que seja elaborado o cálculo prescricional.
+Todavia, tendo em vista que será realizada audiência de instrução do processo em relação ao corréu LÁZARO EDUARDO CARVALHO VARJÃO, com a oitiva da vítima e das testemunhas arroladas pelas partes, por economia processual, defiro a produção antecipada e conjunta de provas.
+No mais, quanto ao corréu JOÃO VICTOR PEREIRA ANTÔNIO, é certo que a prisão preventiva é sempre provisória e instrumental, bem como faz parte de um sistema de providências que visam assegurar o bom andamento do processo e a execução da sentença. Para sua decretação a lei brasileira se contenta com a prova da existência do crime e indícios de autoria, numa das hipóteses estabelecidas no artigo 312 do Código de Processo Penal.
+No caso em análise, o acusado foi denunciado e está sendo processado como incurso 180, caput, do Código Penal, pois, em tese, em data indeterminada, mas entre os dias 10 e 24 de junho de 2021, na cidade de Iracemápolis e Comarca de Limeira, o denunciado JOÃO VICTOR, recebeu e ocultou, em proveito próprio, o veículo Fiat/Punto Essence 1.6, modelo 2012, de cor preta, placa FBB9923 (ostentando as placas falsas FBT8J97), pertencente a Ramison de Sá Lima, o qual consiste em "duble" de outro veículo com as mesmas características de propriedade de Tania Mara de Freitas Vicente, sabendo ser produto de crime.
+No entanto, durante as investigações, bem como após o oferecimento da denúncia o réu JOÃO VICTOR não foi localizado a fim de prestar esclarecimentos ou se defender das acusações.
+Logo, a prisão preventiva do acusado se revela necessária para garantia da ordem pública, por encontrar-se foragido, fato que está impedindo o prosseguimento da instrução processual e a regular aplicação da lei penal.
+Depreende-se, portanto, que tal circunstância apenas evidencia a necessidade da decretação da prisão preventiva, objetivando, garantir a instrução criminal e a aplicação da lei penal, prejudicados pela não localização do acusado.
+Diante do exposto, com fundamento nos artigos 311 e 312, do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA do acusado JOÃO VICTOR PEREIRA ANTÔNIO.
+O Tribunal de origem ratificou a decisão de primeiro grau.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O Magistrado de primeiro grau decretou a prisão preventiva do acusado, cerca de três anos após o crime, com base tão somente no fato de ele não haver sido encontrado para a citação. Importante ressaltar, ainda, que o paciente já não havia sido localizado na fase de inquérito, tudo a indicar que ele nem sequer sabia da existência do processo criminal.
+Destarte, segundo o entendimento desta Corte Superior, "a simples não localização do réu para responder ao chamamento judicial ou o fato de encontrar-se em local incerto e não sabido não constitui motivação suficiente para o encarceramento provisório, quando dissociado de qualquer outro elemento real que indique a sua condição de foragido. Não cabe deduzir que, frustrada a notificação ou a citação editalícia no processo penal, o acusado estaria evadido" (AgRg no RHC n. 167.214/TO, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/10/2022, grifei).
+Nesse mesmo sentido:
+ ..
+3. Não obstante a decisão primeva e o acórdão combatido tenham justificado a necessidade da custódia cautelar para assegurar a aplicação da lei penal, uma vez que o Réu não foi localizado, mesmo após várias tentativas, constato que não foi indicado nenhum elemento concreto que evidenciasse a intenção do Recorrente de se furtar ao processo.
+4. A 6.ª Turma do Superior Tribunal de Justiça entende "que o perigo para a aplicação da lei penal não deflui do simples fato de se encontrar o réu em lugar incerto e não sabido. Não há confundir evasão com não localização" (STJ, RHC 50.126/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 19/10/2015.).
+5. Recurso ordinário em habeas corpus provido para revogar o decreto de prisão preventiva do Recorrente, se por al não estiver preso, sem prejuízo de nova decretação ou da imposição de medidas cautelares alternativas, desde que devidamente fundamentadas.
+(RHC n. 104.362/RN, Rel. Ministra Laurita Vaz, 6ª T., DJe 19/8/2019, destaquei)
+HABEAS CORPUS. PRISÃO PREVENTIVA DECRETADA 6 ANOS APÓS OS FATOS. FUNDAMENTO. NÃO LOCALIZAÇÃO DO RÉU. REVELIA. ELEMENTO INIDÔNEO. EVIDÊNCIA DE ILEGALIDADE. LIMINAR CONFIRMADA.
+1. A simples ausência do réu, citado por edital, não é fundamento bastante para decretar a prisão cautelar, pois o desaparecimento do agente do distrito da culpa não leva, necessariamente, à conclusão de que pretenda ele se furtar à aplicação da lei penal. Precedentes.
+2. Na espécie, a custódia do paciente foi decretada, mais de 6 anos após os fatos, somente em razão da revelia, o que configura nítido constrangimento ilegal.
+3. Ordem concedida, confirmando-se a liminar deferida, para cassar o acórdão atacado e restabelecer a decisão do Juízo de primeiro grau, que indeferiu o pedido do Ministério Público de decretação da prisão cautelar do ora paciente (Processo n.
+0013566-19.2010.8.26.0405, da 4ª Vara Criminal da comarca de Osasco).
+(HC n. 371.642/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 19/3/2019, grifei)
+À vista do exposto, concedo a ordem para tornar sem efeito a decisão que decretou a prisão preventiva do paciente, sem prejuízo da decretação de nova prisão ou da imposição de medidas cautelares alternativas, desde que devidamente fundamentadas pelo Juízo de origem .
+Publique-se e intimem-se.
+EMENTA
