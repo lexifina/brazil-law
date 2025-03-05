@@ -1,0 +1,11 @@
+DECISÃO
+O paciente alega sofrer constrangimento ilegal em decorrência de decisão proferida por desembargador do Tribunal a quo no Habeas Corpus n. 5000162-37.2025.8.08.0000, em que foi mantida sua prisão preventiva.
+Asseriu a defesa, perante a Corte de origem, que "o Paciente se encontra preso no presente feito, em regime fechado cautelarmente, mesmo tendo sido condenado em um regime menos gravoso (SEMIABERTO)" (fl. 13).
+Todavia, salientou o Tribunal local que "não há sequer uma decisão do magistrado sobre o ponto advertido pelo impetrante quanto a irregularidade procedimental, não podendo, neste caso, me afastar do entendimento jurisprudencial sobre o tema:  ..  Não se afere que as teses articuladas no presente HC tenham sido direcionadas previamente ao MM Juiz de Direito "a quo", sendo indevida a pretendida análise per saltum dos fatos articulados, que tende a suprimir uma instância" (fls. 14-15).
+A esse respeito, deve-se frisar que a Corte de origem não se debruçou sobre a matéria aventada. Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste mandamus.
+Nesse passo, por todos:
+ ..  nota-se que a Corte originária não analisou as referidas questões. Impossibilidade de análise desses pontos da impetração pelo STJ, sob pena de atuar em indevida supressão de instância, com a consequente ampliação inconstitucional da competência recursal ordinária (CF, art, 105, II)  ..  (HC n. 486.103/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019, grifei).
+ ..  A Corte estadual não analisou a tese ora trazida pela defesa no presente mandamus consubstanciada em nulidade decorrente da falta de manifestação do juízo primevo acerca das teses defensivas apresentadas na resposta à acusação. Limitou-se o Tribunal de origem a concluir que a matéria "é sanável por recurso próprio, do qual o Habeas Corpus não pode funcionar como sucedâneo" (fl. 335). Dessa forma, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância  ..  (RHC n. 86.893/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/11/2018, destaquei).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
