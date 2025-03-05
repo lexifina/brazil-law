@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTONIA CONCEICAO ABBAMONTE em face de decisão desta relatoria (fls. 1485-1487), que conheceu do agravo para não conhecer do recurso especial.
+A embargante alega que a decisão é omissa ao deixar de reconhecer a negativa de prestação jurisdicional por parte do Tribunal a quo quanto ao exame dos seguintes pontos: o acórdão deferiu o levantamento do valor da remuneração devida ao inventariante dativo sem observar que a) "o pagamento acordado é dos herdeiros e não do espólio" (fl. 1496); b) "o desconto sobre um bem da sobrepartilha fere a divisão acordada (dada a pendência de ação de pena de sonegados)" (fl. 1496); e c) "o desconto foi deferido contra um bem da sobrepartilha dado em garantia" (fl. 1496).
+A parte embargante também sustenta haver erro material, pois a decisão embargada incorretamente afirmou que a representação dativa se estendeu por mais de duas décadas, quando, na verdade, o inventariante dativo somente foi nomeado em 04/12/2015 (fl. 1498).
+Por fim, requer o afastamento da Súmula 211/STJ, argumentando que houve o devido prequestionamento da matéria discutida no recurso especial.
+Não foi apresentada impugnação.
+É o relatório.
+De acordo com o art. 1.022 do CPC/15, cabem embargos de declaração em face da decisão que incorre em omissão, contradição, obscuridade ou erro material.
+Com razão parcial a embargante, porquanto constatada a existência de erro material na decisão embargada, relativamente à seguinte redação:
+"No que se refere à pretensão de obstar o levantamento autorizado de parcela dos honorários devidos ao inventariante dativo, o v. acórdão recorrido foi expresso em reconhecer que o valor é devido em razão de acordos anteriores, nos quais os honorários foram expressamente reconhecidos. Além disso, o eg. Tribunal de origem foi expresso em reconhecer que a representação dativa se dá ao longo de mais de duas décadas, em processos em que se debate a partilha de patrimônio vultoso, até o momento sem levantar nenhuma remuneração. É o que se extrai do seguinte trecho do v. acórdão recorrido (e-STJ fls. 1.202-1.204):" (g.n.)
+Portanto, onde se lê "Além disso, o eg. Tribunal de origem foi expresso em reconhecer que a representação dativa se dá ao longo de mais de duas décadas, em processos em que se debate a partilha de patrimônio vultoso, até o momento sem levantar nenhuma remuneração." (fl. 1486), deve constar "Além disso, o eg. Tribunal de origem foi expresso em reconhecer que o litígio sobre a partilha de patrimônio vultoso se estende há aproximadamente duas décadas, não sendo razoável que a inventariança prossiga por anos sem a devida remuneração.".
+Nos demais pontos, a decisão embargada encontra-se suficientemente fundamentada constando as razões pelas quais se entendeu pela ausência de negativa de prestação jurisdicional e pela falta de prequestionamento, com aplicação da Súmula 211/STJ.
+Diante do exposto, acolho parcialmente os embargos de declaração, com efeitos integrativos, para sanar o erro material detectado, sem alterar o resultado do julgamento.
+Publique-se.
+EMENTA
