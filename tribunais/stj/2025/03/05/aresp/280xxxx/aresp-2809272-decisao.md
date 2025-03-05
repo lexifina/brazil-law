@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, com fundamento nas alíneas "a" e "c", do permissivo constitucional, apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 508/509):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO PESSOAL. 1. PRESCRIÇÃO DECENAL. INOCORRÊNCIA.
+TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. PRECEDENTES DO STJ E DESTA CORTE 2. REVISÃO DE CLÁUSULAS CONTRATUAIS.
+POSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA BOA-FÉ OBJETIVA OU DA . RELATIVIZAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA DA AUTONOMIA DA VONTADE. 3. JUROS REMUNERATÓRIOS. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. POSSIBILIDADE. ABUSIVIDADE COMPROVADA.
+4. REPETIÇÃO DO INDÉBITO. DEVIDA NA FORMA SIMPLES. 5. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO RECURSAL. OBSERVÂNCIA DO ARTIGO 85, §11 DO CPC.
+1. "O termo inicial do prazo prescricional decenal da ação revisional de ". (TJPR - 15ª Câmara contrato bancário é a data da assinatura do contrato Cível - 0003349-86.2022.8.16.0044 - Apucarana - Rel.: DESEMBARGADOR HAYTON LEE SWAIN FILHO - J. 12.03.2023).
+Diante da mitigação do princípio em face de práticas pacta sunt servanda contratuais abusivas vedadas pelo nosso ordenamento jurídico, é possível a modificação das cláusulas que estabeleçam prestações desproporcionais, bem como a intervenção do Poder Judiciário nas relações jurídicas travadas entre particulares, visando restabelecer o equilíbrio contratual.
+2. Estando devidamente demonstrado o excesso considerável das taxas de juros remuneratórios praticada no contrato revisado, a sua limitação é medida que se impõe.
+3. A repetição do indébito é possível se verificada a cobrança de encargos ilegais, tendo em vista o princípio que veda o enriquecimento sem causa do credor, cabendo compensação com eventual saldo devedor.
+4. O ônus de sucumbência deve ser distribuído considerando o aspecto quantitativo e o jurídico em que cada parte decai de suas pretensões.
+Apelação Cível não provida.
+Opostos embargos de declaração, foram rejeitados às fls. 631/639.
+Nas razões recursais, a insurgente aponta, além de divergência jurisprudencial, violação aos arts. 421 do CC, ao argumento da impossibilidade de revisão da taxa dos juros remuneratórios tão somente pela taxa média do Banco Central.
+É o relatório. Decido.
+Quanto aos juros remuneratórios, cabe averiguar se o tão só fato de estes extrapolarem a taxa média praticada pelo mercado financeiro em operações de mesma espécie, no período de celebração do pacto, indicaria a existência de cobrança abusiva.
+Ao julgar o recurso representativo da controvérsia que pacificou a questão acerca da índole abusiva dos juros remuneratórios (REsp 1.061.530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe de 10/3/2009), a em. Min. Relatora consignou, no que toca ao parâmetro a ser considerado para inferir se os juros contratados são abusivos ou não, o seguinte:
+"Descartados índices ou taxas fixos, é razoável que os instrumentos para aferição da abusividade sejam buscados no próprio mercado financeiro.
+Assim, a análise da abusividade ganhou muito quando o Banco Central do Brasil passou, em outubro de 1999, a divulgar as taxas médias, ponderadas segundo o volume de crédito concedido, para os juros praticados pelas instituições financeiras nas operações de crédito realizadas com recursos livres (conf. Circular nº 2957, de 30.12.1999).
+(..)
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros.
+A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos."
+Vê-se, assim, que a circunstância de a taxa de juros remuneratórios, praticada pela instituição financeira, exceder a taxa média de mercado, não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras, tal como entendeu o eg. Tribunal de origem.
+Portanto, para considerar aviltantes os juros remuneratórios praticados, é imprescindível que se proceda à demonstração cabal de sua natureza abusiva, em cada caso específico.
+No caso dos autos, segundo os fatos definitivamente delineados no acórdão recorrido, o Tribunal de origem concluiu pela configuração de significativa discrepância entre a taxa pactuada e a taxa média de mercado para operações da mesma espécie, considerando-se as peculiaridades envolvidas, in verbis (fls. 518/521):
+No caso, consoante disposto na inicial, a parte autora requereu a revisão de um total de 10 (dez) contratos de empréstimos pessoais firmados com a instituição ré, quais sejam:
+Número do contrato Valor Taxa de juros remuneratórios contratadas 030500025130 R$ 1.500,00 16,50% a.m e 525,04% a.a 030500026028 R$ 2.454,27 19,00% a.m e 706,42% a.a 030500028358 R$ 3.000,00 17,00% a.m e 558,01% a.a 030500029390 R$ 5.258,34 18,50% a.m e 666,69% a.a 032940020647 R$ 1.540,50 19,00% a.m e 706,42% a.a 030500042996 R$ 2.500,00 19,00% a.m e 706,42% a.a 030500024192 R$ 830,01 22,00% a.m e 987,22% a.a 032940021719 R$ 2.233,01 19,00% a.m e 706,42% a.a
+030500023210 R$ 1.000,00 22,00% a.m e 987,22% a.a 030500048005 R$ 1.907,95 18,00% a.m e 628,76% a.a
+Por outro lado, da simples análise das taxas divulgadas pelo Bacen, para operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado, como no caso, verifica-se que os juros contratados excederam consideravelmente a média de mercado . Vejamos:
+(..)
+Como se vê, as taxas de juros pactuadas foram bem superiores à taxa média divulgada pelo Bacen para operações semelhantes.
+Assim, diante da demonstração da abusividade das taxas contratadas, devem ser limitados os juros à média de mercado, de acordo com a média divulgada pelo Bacen, conforme tabela acima exposta.
+Como se constata, os juros contratados superam, em muito, o índice médio do Bacen, assim, evidenciada a significativa discrepância entre a taxa pactuada e a média de mercado, caracterizada, portanto, a abusividade dos juros remuneratórios.
+Desse modo, constatada a conformidade do acórdão recorrido com a jurisprudência desta Corte, é inviável o provimento do recurso especial no tópico, nos termos da Súmula 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
