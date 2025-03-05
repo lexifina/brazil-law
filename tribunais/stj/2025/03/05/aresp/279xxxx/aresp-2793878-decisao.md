@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por MARIA OTONILIA DE JESUS, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - VAZAMENTO DE ÓLEO NAS MARGENS E NAS ÁGUAS DO RIO SERGIPE - SENTENÇA QUE JULGOU IMPROCEDENTE A DEMANDA AUTORAL - ALEGAÇÃO DE DANO AMBIENTAL E PREJUÍZO À ATIVIDADE DE PESCADOR ARTESANAL - AUSÊNCIA DE COMPROVAÇÃO DE ATIVIDADE PESQUEIRA PROFISSIONAL ARTESANAL E DA POTENCIAL DEGRADAÇÃO AMBIENTAL E, CONSEQUENTEMENTE, DE DANO REFLEXO A TERCEIROS. 1. Caso concreto em que não existe nenhum elemento de prova apto a comprovar a alegação da parte autora de que era pescadora no período indicado na petição inicial, não constando, por exemplo, nenhum registro de recebimento de seguro defeso ou de inscrição junto ao Registro Geral de Atividade Pesqueira (RGP) e no Cadastro Técnico Federal (CTF), conforme previsão do art. 24 da Lei 11.959 /2009. 2. Empresa requerida que demonstrou a recuperação da área atingida em 15 (quinze) dias, sem cessação da atividade pesqueira ou impactos significativos à fauna. 3. A responsabilidade civil por dano ambiental é objetiva, informada pela teoria do risco integral, bastando para a sua configuração a comprovação do dano e do nexo causal - Não comprovada a efetiva degradação a o m e i o a m b i e n t e e , consequentemente, o dano reflexo a terceiros, não há falar em reparação por danos materiais e morais. 4. Manutenção da Sentença. Recurso conhecido e desprovido. Unanimidade." (fls. 529-530)
+Os embargos declaratórios foram rejeitados.
+Em suas razões do recurso especial, a agravante alega violação aos arts. 186 e 927 do CC; e 14 § 1º da Lei 6.938/81, além de divergência jurisprudencial, sustentando, em síntese, fazer jus à indenização a título de danos materiais e moral, em decorrência dos danos ambientais em questão, suportados por ser pescadora artesanal.
+É o relatório.
+Decido.
+A irresignação não prospera.
+Na hipótese, o Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu que não restou comprovado o fato constitutivo do direito da parte autora, no que tange ao pleito indenizatório por danos materiais e moral, conforme se insere do seguinte excerto do aresto estadual:
+" ..
+Assim, não restando comprovada a atividade pesqueira da autora, nem que o acidente provocou a ela qualquer tipo de dano, não merece prosperar o recurso para que seja reconhecida existência de danos materiais (lucros cessantes) e morais.
+ ..
+Sendo assim, não tendo sido comprovado nos autos o cometimento de nenhum dano pela parte demandada em face da autora, não há como ser reformada a r. sentença que julgou improcedente o pedido inicial." (fls. 536-537)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulado, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
