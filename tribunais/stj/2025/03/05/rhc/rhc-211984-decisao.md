@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Andressa Goncalves Rodrigues contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que denegou a ordem no HC n. 5363224-98.2024.8.21.7000/RS (fls. 57/59), mantendo a prisão preventiva decretada pelo Juízo de Direito da Vara Criminal da comarca de Frederico Westphalen/RS, em razão da suposta prática do crime de extors ão qualificada (Processo n. 5005896-87.2024.8.21.0049/RS - fls. 15/18). O acórdão foi assim ementado (fl. 59):
+HABEAS CORPUS. CRIMES CONTRA O PATRIMÔNIO. EXTORSÃO QUALIFICADA. REPRESENTAÇÃO DA AUTORIDADE POLICIAL. DECRETAÇÃO DA PRISÃO PREVENTIVA. CORRÉU BENEFICIADO COM A CONCESSÃO DA LIBERDADE PROVISÓRIA. PEDIDO DE EXTENSÃO DE EFEITOS.
+Legalidade. A legalidade da segregação preventiva da paciente já foi devidamente analisada e atestada por esta colenda Câmara Criminal nos autos do habeas corpus n. 5233245- 83.2024.8.21.7000.
+Extensão dos Efeitos. Impossibilidade. A paciente, em tese, foi responsável por iniciar o contato com o ofendido através de redes sociais, manter as conversas por 17 dias e atraí-lo para o local do fato sob o pretexto de falso encontro amoroso com duas mulheres. Outrossim, ao que tudo indica, também participou das agressões e é a proprietária da conta para qual foi exigida a transferência de valores. Dessarte, em que pese a primariedade da paciente, verifica-se que ela foi a responsável por realizar as etapas iniciais da empreitada, que possibilitaram a efetiva prática da extorsão - a qual não se consumou em virtude da fuga do ofendido -, além de ter participado ativamente ao longo de toda a ação criminosa. Assim, tem-se que as circunstâncias que permearam a conduta da paciente afiguram- se mais gravosas, o que inviabiliza a extensão dos efeitos da decisão que concedeu a liberdade provisória a um dos corréus.
+HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA PARTE, DENEGADO.
+A recorrente pretende a extensão dos benefícios concedidos ao corréu, que teve sua liberdade provisória deferida. Aduz ser primária, com bons antecedentes, ao contrário do corréu. Sustenta que a gravidade dos fatos não é suficiente para mantê-la presa. Alega ter tido participação de menor importância no crime.
+Assim, requer, no âmbito liminar e no mérito, a revogação da custódia, ainda que com a aplicação de medidas cautelares alternativas.
+Estes autos foram a mim distribuídos por prevenção (RHC n. 206.601/RS).
+É o relatório.
+De pronto, verifico que o recurso não deve ser conhecido.
+Com efeito, "por razões óbvias de competência", não cabe a análise da pretendida extensão, à ora recorrente, dos efeitos de decisão da origem que concedeu a liberdade ao corréu.
+Ora, nos termos do art. 580 do Código de Processo Penal, o pedido de extensão deve ser formulado no Juízo ou no Tribunal prolator da decisão cujos efeitos se pretendam estender; logo, por raciocínio lógico, exclusivamente a esse órgão jurisdicional recai a competência legal para decidir sobre o seu deferimento ou não (AgRg no HC n. 511.679/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/6/2019, DJe 2/8/2019) - (EDcl no AgRg no HC n. 707.767/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 4/4/2022) - (AgRg no HC n. 639.731/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/8/2022 - grifo nosso).
+Quanto aos fundamentos da prisão preventiva, verifico que o Tribunal de origem não conheceu do habeas corpus ali impetrado, nestes termos (fl. 57):
+Conheço em parte do habeas corpus.
+Isso porque a legalidade da segregação preventiva da paciente já foi devidamente analisada e atestada por esta colenda Câmara Criminal nos autos do habeas corpus n. 5233245-83.2024.8.21.7000, em sessão de julgamento realizada no dia 24 de setembro de 2024, quando a ordem foi denegada à unanimidade.  ..
+Ademais, já examinei a idoneidade da fundamentação da custódia cautelar da recorrente ao negar provimento ao RHC n. 206.601/RS, em 29/10/2024, que se insurgia, justamente, contra o acórdão proferido pelo Tribunal de origem no mencionado HC n. 5233245-83.2024.8.21.7000/RS.
+Constata-se, assim, tratar-se de mera reiteração de pedido, o que não é admitido no âmbito desta Corte.
+A propósito, confira-se: AgRg no HC n. 746.274/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/6/2022.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXTORSÃO QUALIFICADA (RESTRIÇÃO DA VÍTIMA). PRISÃO PREVENTIVA. PRETENSÃO DE EXTENSÃO DO BENEFÍCIO DE LIBERDADE PROVISÓRIA CONCEDIDO A CORRÉU PELA INSTÂNCIA ORDINÁRIA. IMPOSSIBILIDADE DE APRECIAÇÃO NO ÂMBITO DESTA CORTE SUPERIOR. INCOMPETÊNCIA. FUNDAMENTAÇÃO DA CUSTÓDIA CAUTELAR. MATÉRIA NÃO ANALISADA PELO ACÓRDÃO IMPUGNADO . MERA REITERAÇÃO DE PEDIDO CONSTANTE EM ANTERIOR RECURSO ORDINÁRIO (RHC N. 206.601/RS). PRECEDENTE.
+Recurso não conhecido.
