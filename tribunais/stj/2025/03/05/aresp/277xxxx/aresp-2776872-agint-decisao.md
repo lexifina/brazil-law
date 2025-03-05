@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, agravo interno, interposto pela UNIÃO contra decisão que conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula 182 do STJ.
+Argumenta a parte ag ravante que "adotou todas as medidas processuais adequadas para assegurar o trânsito de seu recurso especial ao Tribunal Superior, assim como vem fazendo em todos os inúmeros agravos em recurso especial idênticos, que são interpostos sobre essa matéria com base nos mesmos fundamentos jurídicos, os quais vêm sendo conhecidos e providos sem aplicação do referido obstáculo por essa Corte" (fl. 300).
+Ao final, requer a reconsideração da decisão agravada ou o provimento do recurso.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Considerando a relevância dos argumentos esposados pela parte agravante, reconsidero a decisão agravada e passo a nova análise do recurso.
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o recurso especial em epígrafe, foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, no Tema 1.305/STJ, cuja questão submetida a julgamento é: "Definir: a) se a União deve figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS; b) a (in)existência de litisconsórcio passivo necessário entre os entes federativos para integrarem a lide; e c) se é possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar".
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, reconsidero a decisão de fls. 288-289 e determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade lim itada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Petição RTPAUT 00105248/2025 (fls. 319-321) prejudicada.
+Intimem-se.
+ EMENTA
