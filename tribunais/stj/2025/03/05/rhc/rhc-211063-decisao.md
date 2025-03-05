@@ -1,0 +1,16 @@
+DECISÃO
+R. L. DE A. S. e R. L. S. D. alegam ser vítimas de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, que não conheceu do HC n. 0631524-84.2024.8.06.0000.
+A defesa pretende, por meio deste recurso (fl. 147):
+I. a concessão de liminar e tutela de urgência, para autorizar os pacientes a realizar a importação de sementes, transporte e cultivo de exemplares, concomitantemente, da planta  Cannabis  em sua residência, para fins medicinais, exclusivamente;
+II. que seja conhecido e provido o presente Recurso Ordinário Constitucional, para que haja a devida reforma, concedendo salvo-conduto definitivo para autorizar os pacientes a realizarem a importação, transporte e cultivo concomitante de exemplares da planta "Cannabis" em sua residência, para fins medicinais, sem qualquer constrangimento e punição, em especial, para que as autoridades encarregadas, Polícia Federal, Polícia Civil e/ou Polícia Militar, sejam impedidas de proceder a prisão em flagrante da paciente pela produção artesanal de Cannabis Sativa para fins medicinais, bem como se abstenham de investigar, repreender, apreender e destruir sementes, plantas e insumos destinados à fabricação e eventualmente encontrados na residência, desde que na quantidade requerida; bem como requer salvo conduto para o envio do óleo extraído da cannabis sativa para análise cromatográfica em Laboratórios de Farmácia, públicos ou privados, ou de Instituições de Ensino e Pesquisa.
+A liminar foi indeferida.
+O Ministério Público Federal manifestou-se pela "concessão da ordem de ofício, para que seja concedido aos pacientes salvo-conduto, autorizando-lhes o cultivo de cannabis sativa, em sua residência, para uso exclusivo próprio, enquanto durar o tratamento, nos termos de autorização médica" (fl. 173).
+Decido.
+Sobre a matéria posta em discussão, não se desconhece que, na sessão do dia 14/6/2022, no julgamento do REsp n. 1.972.092/SP (Rel. Ministro Rogerio Schietti), a Sexta Turma trouxe nova posição - chancelada à unanimidade - e reconheceu a possibilidade de concessão de habeas corpus preventivo (salvo-conduto) a fim de obstar a repressão criminal do cultivo de cannabis sativa para fins medicinais (DJe 30/6/2022).
+Nos mesmos moldes, concluiu o órgão fracionário ao julgar o RHC n. 147.169/SP, de relatoria do Ministro Sebastião Reis Júnior (DJe 20/6/2022), e o AgRg no RHC n. 153.768/MG, de relatoria da Ministra Laurita Vaz (DJe 1º/7/2022).
+A Quinta Turma deste Superior Tribunal, por sua vez, aderiu a tal orientação no julgamento do HC n. 779.289/DF (Rel. Ministro Reynaldo Soares da Fonseca, DJe 28/11/2022).
+A Terceira Seção, então, consolidou o entendimento de ambas as Turmas no julgamento do HC n. 802.866/PR (Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 3/10/2023).
+Contudo, no caso, os recorrentes, em sua petição inicial, nem sequer especificaram a quantidade de plantas que pretendem ser autorizados a cultivar, a fim de satisfazerem suas necessidades mensais de consumo de Cannabis para fins medicinais, a evidenciar que o writ não foi suficientemente instruído com os elementos necessários para o eventual deferimento do pedido.
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
