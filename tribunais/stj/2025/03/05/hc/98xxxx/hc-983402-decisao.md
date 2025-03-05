@@ -1,0 +1,22 @@
+DECISÃO
+FABRICIO POUCA DO CARMO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Agravo em Execução n. 1.0395.20.440001-8/001.
+A defesa busca seja cassada a decisão que determinou a regressão cautelar da paciente, em razão do descumprimento de condições impostas para o cumprimento de pena no regime aberto.
+Decido.
+Infere-se dos autos que o paciente cumpriu pena, em regime aberto, de 27/12/2019 a 8/7/2022. Diante do descumprimento das condições impostas na prisão domiciliar, foi regredido ao regime fechado.
+Diante da notícia de que o apenado "não apresentou carta de emprego, nem compareceu em juízo para justificar suas atividades, encontrando-se em local incerto e não sabido, não sendo localizado para intimação no endereço informado" (fl. 192), o Magistrado da execução, a despeito das escusas apresentadas pela defesa, determinou a regressão cautelar daquela para o regime fechado.
+A fim de cassar o referido decisum e, em consequência, manter o reeducando no regime aberto, a defesa interpôs agravo em execução, ao qual o Tribunal estadual negou provimento, sob os seguintes fundamentos:
+O Agravante cumpria prisão domiciliar quando, em 09/06/2022, foi regredido cautelarmente ao regime fechado, em razão do descumprimento das condições do benefício, tendo em vista que não apresentou carta de emprego, nem compareceu em juízo para justificar suas atividades, encontrando-se em local incerto e não sabido, não sendo localizado para intimação no endereço informado.
+Posteriormente, considerando a prática da falta grave, o magistrado manteve a interrupção no cumprimento da pena a partir de 09/06/2022, com expedição de mandado de prisão, até a recaptura do detento.
+Ora, o descumprimento das condições fixadas na concessão da prisão domiciliar impede o cômputo do respectivo período como pena efetivamente cumprida.
+Como bem ressaltou a douta Procuradoria-Geral de Justiça, o período em que o sentenciado permaneceu foragido após a regressão cautelar, com mandado de prisão em aberto, descumprindo as condições da prisão domiciliar, não pode ser computado como tempo de pena cumprida.
+Em relação ao pedido de retificação da data-base para a progressão de regime e reestabelecido o regime aberto, assiste parcial razão à Defesa.
+A revogação do livramento condicional e a eventual unificação das penas em razão da superveniência de condenação penal, seja por fato anterior ou posterior ao período de prova do livramento condicional, não autoriza a fixação de nova data-base, por ausência de previsão legal.
+ ..
+Impossível, por outro lado, o restabelecimento do regime aberto pois, diante de nova condenação, devem ser unificadas as penas (fls. 192-193, grifei).
+O caso comporta solução antecipada, visto que encontra amparo em pacífica jurisprudência desta Corte, além da questão se restringir, exclusivamente, em discussão jurídica relativa à possibilidade de computar como pena cumprida o período em que o reeducando deixa de cumprir as condições impostas em audiência admonitória.
+Impossível computar o intervalo de descumprimento do regime aberto como pena efetivamente cumprida. O Juiz da VEC registrou a interrupção da execução em 9/6/2022. A decisão não é ilegal, pois o reeducando "não apresentou carta de emprego, nem compareceu em juízo para justificar suas atividades, encontrando-se em local incerto e não sabido, não sendo localizado para intimação no endereço informado" e, em tese, estava cientificado de que a transgressão dessa condição acarretaria a suspensão do benefício, com a regressão cautelar de regime e consequente recolhimento ao cárcere.
+Deveras: "Se o apenado descumpre as condições do regime aberto ou não comparece para dar cumprimento às condições impostas, não há falar em extinção da pena pelo cumprimento da pena remanescente, o qual sequer se inicia efetivamente em tais casos. Precedente do STJ. (HC 380.077/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017)" (HC n. 482.915/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 27/6/2019).
+A propósito: "Se o paciente não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida" (AgRg no HC n. 606.027/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJe de 10/2/2021).
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
