@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. ANULAÇÃO DA DECISÃO QUE DETERMINOU O ARQUIVAMENTO DO INQUÉRITO POLICIAL. RECURSO ESPECIAL QUE APONTA OFENSA AO ARTIGO 40 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICES DA SÚMULA 211 DO STJ E DAS SÚMULAS 282 E 356 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A tese de suposta ofensa ao artigo 40 do Código de Processo Penal não foi debatida nem enfrentada pelo Tribunal de origem, o que impede o conhecimento da matéria diretamente pelo Superior Tribunal de Justiça, ante a ausência de prequestionamento, sendo certo que a defesa não opôs embargos de declaração em face do acórdão objeto do recurso especial. Dessa forma, incidem os óbices da Súmula 211 do STJ e das Súmulas 282 e 356 do STF.
+2. "A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF" (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022).
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ROBSON CAMPOS DOS SANTOS e SERGIO SANTOS GOMES contra decisão monocrática de minha relatoria que não conheceu do recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE que deu provimento ao apelo ministerial, para anular a decisão que determinou o arquivamento do inquérito policial, a fim de que os autos retornem ao Ministério Público para que se manifeste sobre os resultados das diligências requeridas pelo Parquet e juntadas aos autos.
+O recorrente requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls. 341-351).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. ANULAÇÃO DA DECISÃO QUE DETERMINOU O ARQUIVAMENTO DO INQUÉRITO POLICIAL. RECURSO ESPECIAL QUE APONTA OFENSA AO ARTIGO 40 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICES DA SÚMULA 211 DO STJ E DAS SÚMULAS 282 E 356 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A tese de suposta ofensa ao artigo 40 do Código de Processo Penal não foi debatida nem enfrentada pelo Tribunal de origem, o que impede o conhecimento da matéria diretamente pelo Superior Tribunal de Justiça, ante a ausência de prequestionamento, sendo certo que a defesa não opôs embargos de declaração em face do acórdão objeto do recurso especial. Dessa forma, incidem os óbices da Súmula 211 do STJ e das Súmulas 282 e 356 do STF.
+2. "A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF" (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022).
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+Conforme bem ressaltado pelo Ministério Público Federal em seu parecer, "o Tribunal a quo não se manifestou sobre a tese de suposta ofensa ao artigo 40 do CPP, restando ausente, portanto, o requisito do prequestionamento, a incidir o enunciado 211 desta Corte Superior. É possível extrair tal conclusão das próprias razões do recurso especial, ao reconhecerem que " ..  o r. acórdão sequer enfrentou o argumento principal elencado pela defesa dos recorrentes, afirmando apenas que em suas contrarrazões os apelados requereram o improvimento do recurso"." (e-STJ fl. 330).
+De fato, o recurso especial é centrado na tese de que "a decisão do TJSE contraria a entendimento consolidado pela 3ª Seção do STJ, que enfrentou as divergências sobre a matéria, e fortes na convicção de que a mens legis ("espírito da lei") do art. 40 do CPP torna DESNECESSÁRIA, nos processos judiciais eletrônicos, a remessa das cópias e documentos para o oferecimento da denúncia, os recorrentes resolvem apresentar as suas razões do Recurso Especial" (e-STJ fl. 241).
+Ocorre que essa tese não foi debatida nem enfrentada pelo Tribunal de origem, o que impede o conhecimento da matéria diretamente pelo Superior Tribunal de Justiça, ante a ausência de prequestionamento, sendo certo que a defesa não opôs embargos de declaração em face do acórdão objeto do recurso especial. Dessa forma, incidem os óbices da Súmula 211 do STJ e das Súmulas 282 e 356 do STF. Nesse sentido: "A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF" (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
