@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por IVONETE LOPES DO COUTO, fundado no art. 105, III, "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fls. 735/736):
+APELAÇÕES CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REVISÃO CONTRATUAL. EMPRÉSTIMO CONSIGNADO.
+O SIMPLES FATO DA TAXA DE JUROS SER ELEVADA NÃO DENOTA ABUSIVIDADE, MORMENTE PORQUE VIGE O PRINCÍPIO DA LIBERDADE DE CONTRATAR, NÃO ESTANDO O MUTUÁRIO ADSTRITO A UMA INSTITUIÇÃO FINANCEIRA.
+A PRETENSÃO DE DESCONSIDERAÇÃO DAS TAXAS MÁXIMAS ACARRETA A IMPOSSIBILIDADE DE SE OBTER UMA TAXA MÉDIA.
+A ADOÇÃO DA TAXA MÉDIA DE JUROS DIVULGADA PELO BANCO CENTRAL APENAS SE JUSTIFICA NA HIPÓTESE DE NÃO TEREM SIDO FIXADOS JUROS NO CONTRATO, CIRCUNSTÂNCIA QUE NÃO SE VERIFICA.
+A FIXAÇÃO DE JUROS REMUNERATÓRIOS SUPERIORES A 12% AO ANO, POR SI SÓ, NÃO INDICA ABUSIVIDADE. INTELIGÊNCIA DA SÚMULA Nº 382 DO STJ.
+CONTRATO DE ALTO RISCO. CONTUMÁCIA NA CONTRATAÇÃO DE EMPRÉSTIMOS. MANTIDA IMPROCEDÊNCIA DA AÇÃO. REFORMA DA DECISÃO. AÇÃO IMPROCEDENTE.
+RECURSO DE APELAÇÃO DA PARTE AUTORA PREJUDICADO.
+RECURSO DE APELAÇÃO DA PARTE RÉ PROVIDO.
+Em suas razões recursais, a parte recorrente alegou, além de divergência jurisprudencial, violação aos arts. 1º e 4º, IX da Lei Federal n. 4.595/64, 39, V, 51, IV, 52, II, todos do Código de Defesa do Consumidor, sustentando, em síntese, a necessidade de reforma do acórdão recorrido, por caminhar em sentido contrário à jurisprudência deste Tribunal Superior, não reconhecendo a abusividade das taxas de juros pactuadas nos contratos de empréstimo pessoal objeto da demanda. Defende a necessidade de fixação das taxas de juros segundo a média de mercado divulgada pelo BACEN.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório. Decido.
+Quanto aos juros remuneratórios, cabe averiguar se o tão só fato de estes extrapolarem a taxa média praticada pelo mercado financeiro em operações de mesma espécie, no período de celebração do pacto, indicaria a existência de cobrança abusiva.
+Ao julgar o recurso representativo da controvérsia que pacificou a questão acerca da índole abusiva dos juros remuneratórios (REsp 1.061.530/RS, relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 10.3.2009), a em. Min. relatora consignou, no que toca ao parâmetro a ser considerado para inferir se os juros contratados são abusivos ou não, o seguinte:
+"Descartados índices ou taxas fixos, é razoável que os instrumentos para aferição da abusividade sejam buscados no próprio mercado financeiro.
+Assim, a análise da abusividade ganhou muito quando o Banco Central do Brasil passou, em outubro de 1999, a divulgar as taxas médias, ponderadas segundo o volume de crédito concedido, para os juros praticados pelas instituições financeiras nas operações de crédito realizadas com recursos livres (conf. Circular nº 2957, de 30.12.1999).
+(..)
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros.
+A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos."
+Vê-se, assim, que a circunstância de a taxa de juros remuneratórios, praticada pela instituição financeira, exceder a taxa média de mercado, não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras, tal como entendeu o eg. Tribunal de origem.
+Portanto, para considerar aviltantes os juros remuneratórios praticados, é imprescindível que se proceda à demonstração cabal de sua natureza abusiva, em cada caso específico.
+No caso dos autos, segundo os fatos definitivamente delineados no acórdão recorrido, o Tribunal de origem concluiu pela não configuração de discrepância entre a taxa pactuada e a taxa média de mercado para operações da mesma espécie apta a autorizar limitação, considerando-se as peculiaridades envolvidas, litteris:
+" Na hipótese em análise, não verifico abusividade na taxa de juros pactuada em 4.63% ao mês, tampouco, discrepância em relação às taxas praticadas pelo mercado.
+Destaco que foi concedido crédito de alto risco, considerando as condições peculiares do autor, que não oferecem garantia suficiente de pagamento, justificando a prática de taxas de juros menos vantajosas.
+Isso porque, ao analisar os documentos juntados aos autos é possível constatar o alto comprometimento financeiro da autora, denotando a sua contumácia na contratação de empréstimos pessoais.
+Vejamos:
+Dito isso, estando os descontos lastreados em contrato regularmente constituído, havendo utilização do crédito disponibilizado pelo autor/apelante e ausente irregularidade na contratação, mostra-se correta a exigência da contraprestação, não havendo amparo legal ao pedido de revisão da cláusula contratual pactuada, o que determina a reforma do julgado e, por corolário lógico, prejudicado o recurso da parte autora."
+Desse modo, constatada a conformidade do acórdão recorrido com a jurisprudência desta Corte, é inviável o provimento do recurso especial no tópico, nos termos da Súmula 83/STJ.
+Publique-se.
+EMENTA
