@@ -1,0 +1,48 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MUNICÍPIO DE MOSSORÓ, com fundamento na incidência  da Súmula  83 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois o aresto violou o art. 131, III, do CTN; o art. 4º da Lei nº 6.830/80; e o art. 110 do CPC.
+Assevera, ainda, pela inaplicabilidade da Súmula 83 do STJ, uma vez que os julgados colacionados não se referem ao entendimento da Corte Especial ou de uma das suas Seções, assim como pela impossibilidade de aplicação desse entendimento ao presente caso, verificando-se manifesto caso de distinguishing.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+De início, extrai-se dos autos que a Fazenda Pública agravante busca, em síntese, a reforma do acórdão recorrido, a fim de que seja reconhecido que o devedor restou devidamente citado por intermédio dos seus herdeiros, de forma que seja autorizado o redirecionamento da execução para o espólio.
+1 - Da incidência da Súmula 83 do STJ
+Nesse sentido, quanto à suscitada violação ao art. 131, III, do CTN; ao art. 4º da Lei nº 6.830/80; e ao art. 110 do CPC, o Município de Mossoró sustenta que o espólio tem legitimidade passiva ad causam para figurar no polo passivo da ação fiscal, sendo pessoalmente responsável pelos tributos devidos pelo de cujus até a data da abertura sucessão.
+Para tanto, embora tenha acostado nos autos entendimento deste Superior Tribunal de Justiça, alegou de maneira genérica que a jurisprudência utilizada como fundamento no acórdão recorrido não é pacífica e que esta Corte Superior já se manifestou no sentido de ser possível que a execução seja redirecionada para o espólio quando citado o devedor antes de seu falecimento.
+Em casos análogos, esta Corte entende que "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+Observa-se, todavia, que os fundamentos utilizados pelo Tribunal a quo estão em harmonia com o entendimento deste Tribunal Superior no que tange à impossibilidade de redirecionamento da execução ao espólio sem antes comprovada a citação válida do contribuinte executado (fl. 72):
+A jurisprudência entende que a execução não pode ser redirecionada ao espólio, pois o executado faleceu sem ter sido citado. As duas Turmas do STJ que analisam a matéria tributária (Primeira e Segunda Turmas) entendem que o redirecionamento da execução contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal (AgInt no R Esp 1.681.731/PR - Relatora Ministra Regina Helena Costa - Primeira Turma, j. em 07/11/2017; R Esp n. 1.738.519/PR - Relator Ministro Herman Benjamin - Segunda Turma - julgado em 7/6/2018; R Esp n. 1.835.711/SC - Relator Ministro Herman Benjamin - Segunda Turma - julgado em 5/11/2019; R Esp 1.826.150/RS - Relator Ministro Herman Benjamin - Segunda Turma - julgado em 10/9/2019).
+Este Superior Tribunal de Justiça, inclusive, já assentou o entendimento contemporâneo acerca da matéria, de forma que cito os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CITAÇÃO. INOCORRÊNCIA. REDIRECIONAMENTO EM DESFAVOR DE ESPÓLIO. IMPOSSIBILIDADE.
+1. A conformidade do acórdão recorrido com a jurisprudência do STJ, no sentido de que o redirecionamento da execução fiscal em desfavor do espólio somente é admitido se o óbito do devedor original ocorrer depois de realizada a citação, enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+2. "Não se justifica tratamento diferenciado quando o redirecionamento é requerido contra o espólio do devedor pessoa física e quando a medida pleiteada se dá em face de espólio de sócio falecido, então na condição de responsável tributário" (REsp 1.773.154/RJ, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2018, DJe 19/12/2018).
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.807.879/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022. - grifo nosso)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR. REDIRECIONAMENTO. ESPÓLIO. SÓCIOS JÁ FALECIDOS. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+2. O entendimento da Corte regional está em conformidade com a jurisprudência do STJ, tendo em vista que, para fins de redirecionamento contra o espólio, nas hipóteses em que a morte ocorra no curso do processo de execução, é necessário que tenha havido a prévia citação válida do devedor (ou do responsável tributário, como na hipótese dos autos).
+3. Não se justifica tratamento diferenciado quando o redirecionamento é requerido contra o espólio do devedor pessoa física e quando a medida pleiteada se dá em face de espólio de sócio falecido, então na condição de responsável tributário.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.773.154/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2018, DJe de 19/12/2018. - grifo nosso)
+Assim sendo, uma vez não demonstrada a distinção fática ou jurídica, nem mesmo eventual superação do entendimento jurisprudencial deste Tribunal Superior, deve-se incidir, na espécie, a aplicação da Súmula 83 do STJ.
+2 - Da incidência da Súmula 7 do STJ
+Ademais, vislumbra-se que para se chegar à conclusão acerca da inexistência de regular citação do executado, o Tribunal de origem levou em consideração os documentos que instruem os autos de origem e as circunstâncias do caso concreto. Vejamos (fls. 71-72):
+ ..  De acordo com a certidão de id. 23527524, o Oficial de Justiça deixou de " ..  proceder a citação do executado Antônio Nunes de Miranda uma vez que o mesmo não foi capaz de compreender o conteúdo do presente mandado, em razão da idade avançada e estado de saúde debilitado".
+No despacho de id. 23527526, o juiz determinou a juntada de documentação que comprovasse a incapacidade civil do executado.
+ ..  O juiz considerou que a intimação não restou válida, já que não houve comprovação da incapacidade civil do recorrido, bem como o responsável por exercer a sua curatela (id. 23527532), e determinou a intimação do exequente para se manifestar acerca das informações trazidas.
+Em nova diligência, a Oficiala de Justiça recebeu a informação dos herdeiros do recorrido de que esse havia falecido em 12/03/2023. Como prova, foi juntada certidão de óbito, conforme certidão de id. 23527536.
+ ..  A execução fiscal foi ajuizada em 03/11/2020, mas o executado faleceu no curso de demanda e não chegou a ser citado. O óbito da parte executada ocorreu em 12/03/2023, conforme certidão de óbito de id. 23527536.
+É certo, todavia, que o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Portanto, observa-se que a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. FALECIMENTO DO DEVEDOR APÓS A SUA CITAÇÃO NO CURSO DA EXECUÇÃO FISCAL. REDIRECIONAMENTO CONTRA O ESPÓLIO. CABIMENTO. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. FUNDAMENTO DO ACÓRDÃO DE ORIGEM NÃO IMPUGNADO. INCIDÊNCIA DAS SÚMULAS 7/STJ E 283 DO STF. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. PROVIMENTO NEGADO.
+1. O acórdão recorrido encontra apoio na orientação consolidada nesta Corte Superior de que o redirecionamento da execução fiscal contra o espólio ou sucessores é cabível quando o falecimento do devedor originário ocorrer após a sua citação válida.
+2. O acolhimento da alegação de que não houve citação do devedor antes de seu falecimento implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.601.771/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
