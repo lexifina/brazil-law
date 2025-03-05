@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso em Habeas Corpus com pedido de liminar interposto por ANDERSON DA COSTA DE JESUS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos a prisão em flagrante do recorrente, posteriormente convertida em custódia preventiva, decorrente da suposta prática do delito capitulado no art. 33 da Lei 11.343/2006.
+Em suas razões, o recorrente sustenta que possui predicados pessoais favoráveis e que a sua segregação processual encontra-se despida de fundamentação idônea por ter sido amparada na mera gravidade abstrata do delito.
+Alega, ainda, que "o decreto segregatício é totalmente genérico no que tange ao periculum libertatis, simplesmente pela ínfima quantidade de entorpecente apreendido, equivalente a (5.4g de substância similar a crack), nada mais!" (e-STJ fl. 83)
+Pugna pelo provimento do recurso para revogar a sua prisão preventiva, com a imposição de medidas cautelares alternativas positivadas no art. 319 do mesmo diploma legal.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso ordinário (e-STJ fls. 143-147).
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+Consta dos autos que o paciente teve sua prisão temporária decretada em 12-9-2024 (doc. 8, do Inquérito Policial n. 5000329-76.2024.8.24.0539).
+Durante o cumprimento do mandado de prisão temporária e do mandado de busca e apreensão expedidos, houve a apreensão de 5,4 g de crack na casa do paciente, o que ensejou sua prisão em flagrante.
+Na audiência de custódia, foi decretada a prisão preventiva do paciente (doc. 18 do IP n. 5000700-40.2024.8.24.0539):
+2.2.2. No que tange ao conduzido Anderson, verifico que é caso de conversão da prisão em flagrante em preventiva.
+Na espécie, revelam-se insuficientes qualquer das medidas cautelares diversas da prisão, uma vez que os fatos narrados no auto de prisão em flagrante evidenciam periculosidade concreta que impõem a decretação da segregação cautelar.
+O(s) delito(s) supostamente praticado(s) preenche(m) o requisito do art. 313, I, do Código de Processo Penal, uma vez que doloso(s) e com previsão de pena máxima superior a 4 anos.
+Ademais, conforme certidão de cumprimento do mandado de busca e apreensão, também decorrente da investigação pela suposta prática dos crimes de tráfico e associação para o tráfico, houve a apreensão de 23 porções de droga, equivalentes a 5.4g de substância similar a crack, pronta para a venda, no bolso do investigado Anderson.
+Desta feita, ao considerar a apreensão de drogas com o acusado, que já é investigado também pela prática de tráfico de drogas, há elementos suficientes a indicar a materialidade e autoria delitivas.
+Na espécie, impõe-se a decretação da prisão do conduzido para a garantia da ordem pública, pois há prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado, mormente a possibilidade de reiteração delitiva.
+Além disso, revela maior periculosidade na espécie o fato de a droga ter sido localizada na residência das partes, local em que supostamente ocorreria o tráfico e no qual haveria duas crianças.
+Desta forma, extrai-se periculosidade concreta dos fatos, de modo que é patente que a ordem pública sofre risco se o conduzido for posto(a) imediatamente em liberdade.
+Diante do contexto dos autos, reputo insuficiente a imposição de medidas cautelares diversas da prisão, ao menos neste momento.
+A gravidade da ocorrência indica que a ordem pública não estará salvaguardada apenas com a imposição de medidas cautelares.
+Diante do exposto, uma vez que satisfeitos os requisitos legais e presente o fumus commissi delicti e o periculum libertatis, para a garantia da ordem pública, CONVERTO A PRISÃO EM FLAGRANTE DO CONDUZIDO ANDERSON DA COSTA DE JESUS EM PRISÃO PREVENTIVA, nos termos do art. 310, II, do Código de Processo Penal.
+Pois bem.
+Ainda que, de fato, o paciente não tenha praticado crime violento e no momento do cumprimento dos mandados de busca e apreensão e prisão temporária tenha sido apreendida pequena quantidade de drogas, as investigações realizadas nos autos n. 5000329-76.2024.8.24.0539 evidenciam a materialidade e indícios de autoria do delito de tráfico de entorpecentes pelo paciente, em associação com os demais corréus, há mais de 1 ano, a denotar que não se tratava de prática circunstancial.
+Nesse sentido, destaco que foi apreendido, junto com o paciente, substância, a qual, segundo laudo pericial (doc. 21 da ação de n. 5000885-78.2024.8.24.0539) é ilícita.
+Ademais, a análise das mensagens dos celulares apreendidos demonstram que o paciente vinha praticando o tráfico de drogas em associação com sua companheira, sua cunhada e seu concunhado, pelo menos desde 2023, o que é possível constatar a partir dos relatórios de investigação policial, juntados nos docs. 29, 32 e 33 da ação penal.
+Destarte, entendo haver elementos suficientes, por ora, para referendar a decisão impugnada, mantida a prisão preventiva do paciente, mormente porque o desenvolvimento de atividade criminosa não eventual, especialmente o tráfico de drogas, é tido como evidência de maior risco de reiteração criminosa, pois, de fato, denota possível dedicação ao crime, especialmente, porque, no caso em análise, o paciente desenvolvia tais atividades há bastante tempo, inclusive no interior de sua casa, em companhia de pessoas de seu convívio familiar que já eram conhecidas do meio policial, especialmente Bruna, sua cunhada.
+A propósito:
+(..)
+Ademais, é necessário reforçar entendimento já sedimentado por esta Corte, no sentido de que os bons predicados como primariedade, endereço fixo e emprego lícito não são capazes de afastar a necessidade da prisão, quando demonstrado o periculum libertatis decorrente do risco de reiteração criminosa.
+Anoto, ainda, que, uma vez delimitado pelo Juiz que a prisão é necessária para impedir a recalcitrância, não há necessidade de apontar, de forma minuciosa, que não são cabíveis outras medidas cautelares.
+Até porque "havendo fundamentos concretos para justificar a custódia cautelar, por consequência lógica, torna-se incabível sua substituição por medidas cautelares alternativas à prisão, por serem insuficientes". (HC 511.348/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/02/2020, D Je 21/02/2020).
+Além disso, é pacífico que a prisão preventiva, instituto previsto pela legislação processual penal, não configura antecipação de pena, mas segregação destinada ao acautelamento da ordem social, econômica e à garantia do processo penal e suas decisões.
+Ante o exposto, voto no sentido de conhecer do writ e denegar a ordem. (Grifos acrescidos)
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu pela manutenção da custódia cautelar em razão da insuficiência das medidas cautelares diversas, apontando que os elementos constantes dos autos indicam possível prática habitual do tráfico de drogas pelo recorrente, em associação com os demais corréus, há pelo menos um ano.
+Além disso, apontou-se de forma idônea que a liberdade do paciente representa, por ora, risco de reiteração criminosa. Com efeito, em que pese a pouca quantidade de entorpecente localizada quando do cumprimento dos mandados de busca e apreensão, as investigações realizadas nos autos 5000329-76.2024.8.24.0539, com menção à análise de mensagens nos celulares apreendidos, denotam possível dedicação ao crime, conforme constou de forma pormenorizada na decisão combatida.
+Portanto, o presente caso não deve ser analisado tão somente sob o prisma da primariedade do recorrente e da pouca quantidade de entorpecente apreendida em sua residência, mas considerando-se todo o contexto investigativo e elementos de prova daí angariados, que sugerem a prática habitual do tráfico de drogas pelo menos desde o ano de 2023, em associação com outras pessoas, inclusive de seu núcleo familiar.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
