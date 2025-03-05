@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. PRISÃO EM FLAGRANTE. GUARDA MUNICIPAL CIVIL. PATRULHAMENTO. NULIDADE DE PROVAS DECORRENTES DE BUSCA PESSOAL REALIZADA INFUNDADAMENTE POR GUARDA MUNICIPAL. AUSÊNCIA DE CONTRADIÇÃO OU OMISSÃO.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público Federal ao acórdão que negou provimento ao seu agravo regimental, assim ementado (fl. 171):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. PRISÃO EM FLAGRANTE. GUARDA MUNICIPAL CIVIL. PATRULHAMENTO. NULIDADE DE PROVAS DECORRENTES DE BUSCA PESSOAL REALIZADA INFUNDADAMENTE POR GUARDA MUNICIPAL. AUSÊNCIA DE SITUAÇÃO FLAGRANCIAL EVIDENTE. INEXISTÊNCIA DE PERTINÊNCIA DA ATUAÇÃO DOS AGENTES COM A FINALIDADE INSTITUCIONAL DA GUARDA. ILICITUDE. MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA DO STF. IMPOSSIBILIDADE.
+Agravo regimental improvido.
+Aduz o embargante que, malgrado eventuais posições porventura abalizadas em contrário existentes, inexistir irregularidade alguma em busca pessoal e prisão em flagrante delito (de crime hediondo) promovida por guardas municipais por achar-se a conduta oficial amparada no artigo 301 do CPP, segundo o qual qualquer do povo pode e autoridades policiais e seus agentes devem prender quem quer que seja encontrado em flagrante delito, o que indene a dúvidas ocorreu in casu, em que ambas instâncias jurisdicionais ordinárias competentes produziram e examinaram o contexto probatório e decidiram em uníssono com cabal obediência de princípios e cânones do devido processo legal penal pátrio sob contraditório e ampla defesa, manter condenação do réu paciente por indelevelmente comprovado narcotráfico (fls. 185/186).
+Sustenta, também, que o acórdão ora embargado vulnerou a norma constitucional insculpida no artigo 5º, inciso LXI, da CF/88, que estabelece que "ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei". O prequestionamento da matéria constitucional constitui pressuposto inafastável à admissão de eventual recurso extraordinário, a rigor das Súmulas 282 e 356/STF e do artigo 1025 do novo CPC/2015, que consagra a tese de prequestionamento ficto ao estabelecer regra contrária à vetusta jurisprudência então dominante em Cortes Superiores  ..  (fl. 187).
+Nesses termos, requer o seguinte (fl. 188):
+ ..
+Ante o exposto, o MINISTÉRIO PÚBLICO FEDERAL respeitosamente requer sejam por Vossa(s) Excelência(s) providos estes embargos declaratórios para que, suprindo graves contradição e omissão, integre-se a v. decisão com o prequestionamento expresso e específico de matéria constitucional em liça, o artigo 5º, inciso LXI da CF/88, a bem da Justiça e da efetiva, segura, justificada e consequente prestação jurisdicional penal.
+Pede, uma vez publicado o acórdão e intimadas as partes, dê-se ciência pessoal legal ao Parquet federal segundo artigo 18, inciso II, alínea h, da Lei Complementar nº 75/934 e em respeito à autoridade do veredito plenário e unânime do STF ao julgar em 30/09/2014 a Reclamação nº 17.694/RS5.
+ ..
+Dispensou-se a apresentação de contrarrazões.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. PRISÃO EM FLAGRANTE. GUARDA MUNICIPAL CIVIL. PATRULHAMENTO. NULIDADE DE PROVAS DECORRENTES DE BUSCA PESSOAL REALIZADA INFUNDADAMENTE POR GUARDA MUNICIPAL. AUSÊNCIA DE CONTRADIÇÃO OU OMISSÃO.
+Embargos de declaração rejeitados.
+VOTO
+Nos limites estabelecidos pelo art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade e eliminar contradição ou ambiguidade eventualmente existentes no julgado combatido.
+Este Superior Tribunal consolidou jurisprudência de que a contradição ou a obscuridade não implicam que o Tribunal deva acolher a tese apresentada pelo recorrente: o fato de a solução adotada pelo Tribunal não ser a que satisfaça o recorrente em nada invalida a decisão atacada (EDcl no REsp n. 1.359.810/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/12/2017).
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÕES E CONTRADIÇÕES. OBJETO DO WRIT. PRECEDENTE FAVORÁVEL. ALEGAÇÕES QUANTO AO ADITAMENTO DA APELAÇÃO. INEXISTÊNCIA. ACÓRDÃO COM FUNDAMENTAÇÃO CLARA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do CPP, cabem embargos de declaração para sanar obscuridade ou contradição ou, ainda, para suprir omissão verificada no julgado, a respeito de tema sobre o qual deveria ter se manifestado.
+2. Não se verifica omissão quanto ao objeto da ação constitucional, constando expressa referência no acórdão. A existência de precedente favorável à alegação do embargante não gera contradição no acórdão, constituindo dado externo, e o vício se materializa com a análise das questões internas consignados no corpo da decisão.
+ ..
+3. Embargos de declaração rejeitados. (EDcl no AgRg no HC n. 548.222/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/05/2020 - grifo nosso).
+Diante disso, no caso, o acórdão embargado foi claro ao afirmar que (fls. 174/175):
+ ..
+Ademais, cabível a concessão da ordem a favor do ora agravado, pois, nos termos da jurisprudência deste Superior Tribunal, constata-se a ilegalidade da atuação da Guarda Municipal, agindo como se fosse polícia investigativa e ostensiva, em flagrante desrespeito às suas atribuições constitucionais. Isso porque os guardas municipais, durante patrulhamento em local supostamente conhecido como ponto de tráfico de drogas (embora não se tenha notícia de equipamento ou serviço municipal a ser resguardado na região), seguiram o paciente apenas pelo fato de que ele começou a correr e, efetuada a busca pessoal, nada de ilícito foi encontrado. Após a abordagem, um dos guardas promoveu buscas na área e encontrou pequenas porções de drogas que teriam sido dispensadas pelo suspeito durante a fuga. Portanto, não se vislumbra sequer a presença de fundada suspeita a ensejar eventual abordagem policial, tampouco situação absolutamente excepcional a legitimar a atuação dos guardas municipais, porquanto não demonstrada concretamente a existência de relação clara, direta e imediata com a proteção do patrimônio municipal (AgRg no HC n. 771.705/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, D Je 4/10/2022).
+Outrossim, não estava evidente situação de flagrância, que só foi descoberta após a realização de diligências ostensivas e investigativas, perseguição e busca pessoal, típicas da atividade policial. Igualmente: AgRg no RHC n. 173.998/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, D Je 30/3/2023.
+Finalmente, não ficou evidenciada, no caso, situação excepcional a legitimar a atuação dos guardas municipais, porquanto não demonstrada concretamente a existência de relação clara, direta e imediata com a proteção do patrimônio municipal (R Esp n. 1.977.119/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, D Je 23/8/2022).
+ ..
+Na verdade, o que transparece dos presentes aclaratórios é o mero inconformismo da parte com o resultado do julgamento, não sendo possível, nesta via, rediscutir o entendimento adotado.
+Inclusive, não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal (AgRg nos EDcl no HC n. 861.280/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe de 28/10/2024.)
+Ante o exposto, rejeito os embargos de declaração.
