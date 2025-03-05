@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO NÃO VE RIFICADO. COMPLEXIDADE DA AÇÃO PENAL, ENVOLVENDO MULTIPLICIDADE DE RÉUS E DE CRIMES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior é firme na compreensão de que a aferição da violação à garantia constitucional à razoável duração do processo não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+2. No caso apresentado, se está diante de complexa ação penal, com pluralidade de réus, sendo 12 ao total, e múltiplos crimes em contexto de organização criminosa.
+3. O Superior Tribunal de Justiça entende que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada. Além disso, é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+4. Na hipótese, o paciente, ora agravante, é apontado como membro operacional de alta relevância que circula entre duas organizações criminosas em tese existentes e possuiria elo com todos os investigados.
+5. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MAR HUAN LAMUNIER RODRIGUES DE ASSIS contra a decisão monocrática de e-STJ fls. 1811/1816, por meio da qual deneguei a ordem de habeas corpus.
+Depreende-se dos autos que o paciente encontra-se preso preventivamente desde 16/4/2023 e foi denunciado pela prática, em tese, dos crimes previstos nos arts. 2º, caput, c/c o § 4º, incisos IV e V, da Lei n. 12.850/2013; 33, caput, c/c o art. 40, inciso I e V, ambos da Lei n. 11.343/2006; e 35, caput, c/c o art. 40, incisos I e V, da Lei n. 11.343/2006, todos na forma do art. 69 do Código Penal.
+O Tribunal de origem denegou a ordem (e-STJ fls. 20/43).
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea, não havendo justificativa para sua manutenção.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis.
+Argumenta estar configurado constrangimento ilegal pelo excesso de prazo para o encerramento do feito, pontuando que o paciente está preso há mais de 500 dias sem que a denúncia tenha sido recebida.
+Destaca a "ausência de tratamento isonômico aos réus será devidamente abordada em tópico próprio nesse Habeas Corpus, mas urge salientar que, os réus que tiveram as Defesas analisadas e o consequente início da instrução processual, estão em liberdade, enquanto aquele que a denúncia sequer foi recebida, permanece preso preventivamente há quase 500 dias" (e-STJ fl. 9).
+Salienta que "a situação processual do Paciente se assemelha àquela julgada no AgRg no HC n. 867.252/RS no qual essa c. Turma concedeu parcialmente a ordem de habeas corpus para substituir a prisão preventiva de um acusado de participação em Organização Criminosa por excesso de prazo. Sendo que, no presente caso, a situação é ainda mais grave!" (e-STJ fl. 10), já que nem sequer houve o recebimento da denúncia.
+Pontua que se imputa "ao Paciente o crime de tráfico de drogas e associação ao tráfico pela simples apreensão de 21g e 1,6g de material entorpecente (maconha) localizados com outros alvos, que se localizavam em outros Estados da Federação, QUANDO DA DEFLAGRAÇÃO DA FASE OSTENSIVA DA OPERAÇÃO DENOMINADA "MATCH POINT"! Com o Paciente, que foi localizado no Estado de São Paulo, nada foi encontrado" (e-STJ fl. 16).
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+A liminar foi indeferida (e-STJ fls. 1.769/1.771).
+As informações foram prestadas (e-STJ fls. 1.777/1.782).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 1.804/1.807).
+Às e-STJ fls. 1811/1816, deneguei a ordem.
+Nesta oportunidade, a defesa reitera os pedidos deduzidos na inicial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO NÃO VE RIFICADO. COMPLEXIDADE DA AÇÃO PENAL, ENVOLVENDO MULTIPLICIDADE DE RÉUS E DE CRIMES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior é firme na compreensão de que a aferição da violação à garantia constitucional à razoável duração do processo não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+2. No caso apresentado, se está diante de complexa ação penal, com pluralidade de réus, sendo 12 ao total, e múltiplos crimes em contexto de organização criminosa.
+3. O Superior Tribunal de Justiça entende que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada. Além disso, é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+4. Na hipótese, o paciente, ora agravante, é apontado como membro operacional de alta relevância que circula entre duas organizações criminosas em tese existentes e possuiria elo com todos os investigados.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não obstante os argumentos defensivos, tenho que o recurso de agravo regimental não merece prosperar.
+Passo ao exame da alegação de que há excesso de prazo na segregação cautelar. E, ao fazê-lo, verifico não assistir razão à defesa.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que o ora paciente está custodiado há mais de 500 dias, e a defesa alega que não há previsão para o encerramento da instrução criminal.
+Na origem, a ordem foi denegada, firmado o entendimento de que o excesso de prazo não estava configurado, em acórdão assim ementado (e-STJ fl. 20):
+HABEAS CORPUS. OPERAÇÃO MATCH POINT. TRÁFICO INTERNACIONAL DE DROGAS E LAVAGEM DE DINHEIRO. DUAS ORGANIZAÇÕES CRIMINOSAS, COM ESTRUTURA E LIDERANÇAS DISTINTAS, ATUANDO EM CONJUNTO. REVOGAÇÃO DA PRISÃO PREVENTIVA. EXTENSÃO DE BENEFÍCIO CONCEDIDO A CORRÉUS LIBERTOS. INEXISTÊNCIA DE SIMILITUDE FÁTICA. ELO DE LIGAÇÃO ENTRE OS DOIS GRUPOS, SEM GRAU DE SUBORDINAÇÃO. POSIÇÃO QUE NÃO SE EQUIPARA A ATUAÇÃO DE MENOR ENVERGADURA. IMPOSSIBILIDADE. MANUTENÇÃO DA CUSTÓDIA. EXCESSO DE PRAZO. INOCORRÊNCIA.
+Consignou o voto condutor do acórdão impugnado (e-STJ fls. 21/22):
+2. A denúncia é clara ao consignar que o paciente "integra pessoalmente, a organização criminosa liderada por Sverrir Thor Gunnarsson e Marco Dias Bittencourt e Silva, bem como a organização criminosa liderada pelos irmãos Marcelo Henrique Corissa e José Corissa Neto", não podendo ser beneficiado pela substituição excepcionalmente concedida ao líder de um dos grupos criminosos, ou pela extensão de benefício concedido aos respectivos subordinados.
+3. A prisão domiciliar excepcionalmente concedida ao líder de um dos braços criminosos decorreu de um conjunto de fatores e de circunstâncias personalíssimas que o paciente não apresenta, e foi estendida a alguns subordinados por "não ser adequado que integrantes de menor envergadura na estrutura da organização criminosa tenham situação processual distinta de integrantes de alto escalão", mas a posição do paciente no contexto revelado, atuando junto às lideranças de ambos os grupos, não se equipara a atuação de menor envergadura.
+4. Embora a lei estabeleça prazos mínimos para formação da culpa na hipótese de réu preso, tem-se, à luz do principio da razoabilidade, que não consubstancia constrangimento ilegal o extrapolamento do prazo legal nos casos em que os fatos demonstram acentuada complexidade, pluralidade de réus/investigados ou quando evidenciada existência de organização criminosa.
+5. A complexidade e magnitude do esquema revelado, com duas organizações criminosas atuando em conjunto; as dezenas de feitos relacionados em 1º e 2º graus, com inúmeras decisões já proferidas; a pluralidade de réus e investigados; e a multiplicidade de imputações e fatos criminosos justificam a excepcional dilação do prazo, especialmente por estar o magistrado que preside a causa atento e diligente aos prazos e à situação de réus presos, não se verificando mora injustificada na condução do feito de origem, que, apesar da complexidade, apresenta célere tramitação, o que afasta o alegado constrangimento ilegal.
+Sobre a matéria, trago à baila excerto do parecer do Ministério Público Federal (e-STJ fl. 1.807):
+O acórdão não merece reforma.
+A alegação de excesso de prazo deve ser conhecida à luz do princípio constitucional da razoabilidade e da razoável duração do processo e, no caso em exame, o processo segue sua tramitação regular.
+Em que pese o paciente esteja preso preventivamente desde o dia 16/04/2023, vale destacar excerto do acórdão recorrido, no qual o TRF esclarece acerca da complexidade dos fatos apurados e da regular tramitação do feito Cite-se:
+(..) 4. Embora a lei estabeleça prazos mínimos para formação da culpa na hipótese de réu preso, tem-se, à luz do princípio da razoabilidade, que não consubstancia constrangimento ilegal o extrapolamento do prazo legal nos casos em que os fatos demonstram acentuada complexidade, pluralidade de réus/investigados ou quando evidenciada existência de organização criminosa.
+5. A complexidade e magnitude do esquema revelado, com duas organizações criminosas atuando em conjunto; as dezenas de feitos relacionados em 1º e 2º graus, com inúmeras decisões já proferidas; a pluralidade de réus e investigados; e a multiplicidade de imputações e fatos criminosos justificam a excepcional dilação do prazo, especialmente por estar o magistrado que preside a causa atento e diligente aos prazos e à situação de réus presos, não se verificando mora injustificada na condução do feito de origem, que, apesar da complexidade, apresenta célere tramitação, o que afasta o alegado constrangimento ilegal."
+Como se vê, o processo está em andamento e o Juízo de origem tem sido diligente no impulsionamento do feito.
+Nesse aspecto, insta salientar que o processo trata de investigação complexa, com pluralidade de réus, sendo 12(doze) investigados, envolvendo organização criminosa voltada para o tráfico de drogas, o que justifica a dilação de prazo para julgamento.
+A prisão preventiva, outrossim, deve ser mantida, a fim de garantir a ordem pública, haja vista a gravidade da conduta e a maior periculosidade do paciente, o qual é apontado "como membro operacional de alta relevância que circula entre as duas organizações criminosas (sic) em tese existentes e possuiria elo com todos os investigados. Ao longo das investigações, foram verificados encontros entre MAR-HUAN, tanto com os líderes da organização capitaneada pelos irmãos CORISSA, como também como narcotraficante islandês SVERRIR THOR, líder de outra organização criminosa" (fl. 743)"
+Não há, portanto, constrangimento ilegal a ser sanado pela via do habeas corpus.
+Assim, não obstante o pedido suscitado pela defesa, não identifico manifesta ilegalidade a justificar a concessão da ordem.
+Isso, porque, conforme informações prestadas pelo Juízo de origem, trata-se de ação penal com pluralidade de réus, sendo 12 ao total, e múltiplos crimes em contexto de organização criminosa.
+Em consulta ao andamento processual, tem-se que, após a apresentação da defesa prévia de todos os acusados, o representante ministerial foi intimado para se manifestar, apresentando peça de rejeição das preliminares defensivas em 11/8/2024, estando os autos atualmente conclusos para recebimento da denúncia (e-STJ fl. 1.780).
+Ademais, o paciente, ora requerente, é apontado "como membro operacional de alta relevância que circula entre as duas organizações crimonosdas (sic) em tese existentes e possuiria elo com todos os investigados. Ao longo das investigações, foram verificados encontros entre MAR-HUAN, tanto com os líderes da organização capitaneada pelos irmãos CORISSA, como também como narcotraficante islandês SVERRIR THOR, líder de outra organização criminosa" (e-STJ fl. 73).
+Cumpre salientar, por fim, que condições pessoais favoráveis, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória, consoante se observa na hipótese dos autos.
+Considerando a fundamentação acima expendida, reputo indevida a aplicação de medidas cautelares diversas da prisão, uma vez que se mostram insuficientes para o resguardo da ordem pública.
+Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Assim, não vislumbrei o alegado constrangimento ilegal apto a ensejar a concessão da ordem, entendimento que mantenho nesta oportunidade.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
