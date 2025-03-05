@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por MATEUS MACHADO BERGAMASCHI, em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL LOCAÇÃO EM "SHOPPING CENTER" Título executivo líquido, certo e exigível Art. 784, inc. VIII, do CPC Contrato de locação que dá embasamento às cobranças, associado à planilha suficientemente individualizada Ausência de qualquer irregularidade na representação da exequente, ora agravada Negado provimento." (fl. 893)
+Nas razões do recurso especial, o recorrente aponta ofensa ao art. 784, VII, do NCPC, sustentando, em síntese a "iliquidez dos valores executados, uma vez que não há nos autos documentos hábeis para comprovar a fidedignidade dos valores cobrados."
+Contrarrazões às fls. 922-938.
+É o relatório.
+Ao analisar a tese de inexequibilidade do título, o eg. TJSP consignou, in verbis:
+"No que se refere à certeza, dela não deve ser exigida a impossibilidade de discussão quanto à existência da obrigação, mas "a necessária definição dos elementos subjetivos (sujeitos) e objetivos (natureza e individualização do objeto) do direito exequendo representado no título executivo.
+A certeza, portanto, teria por finalidade identificar os legitimados ativos e passivos na execução, precisar a espécie de execução certa, fazer, não fazer, entrega de coisa e determinar sobre qual bem se farão incidir os atos executivos" (Daniel Amorim Assumpção Neves, In "Novo Código de Processo Civil comentado artigo por artigo, Juspodivm, p. 1228).
+Quanto à liquidez, ela se traduz no "conhecimento da quantidade de bens devidos ao credor. Uma obrigação é líquida (a) quando já se encontra perfeitamente determinada a quantidade dos bens que lhe constituem o objeto ou (b) quando essa quantidade é determinável mediante a realização de meros cálculos aritméticos, sempre sem necessidade de buscar elementos ou provas necessários ao conhecimento do quantum" (Cândido Dinamarco, In "Instituições de Direito Processual Civil", v. IV, 3ªEd., Malheiros, pp. 231/232). E, por fim, a exigibilidade é a ausência de impedimentos à eficácia da obrigação, permitindo-se que o direito seja exercido pelo credor.
+In casu, todas essas qualidades depreendem-se do contrato de locação celebrado, documento suficiente a justificar a existência das dívidas, bem como da planilha apresentada pela parte exequente, que detalham a proveniência de todas as despesas." (fl. 895)
+Fica nítido, portanto, que eventual reforma do acórdão de 2º grau demandaria verificar se o contrato de locação juntado aos autos, bem como os demais documentos que instruem a inicial, instrumentalizam ou não obrigação líquida, certa e exigível - providência que, contudo, é vedada pelas Súmulas 5 e 7/STJ, ante a necessidade de revolvimento do acervo fático-probatório dos autos, bem como a interpretação de cláusulas contratuais.
+Ante o exposto, conheço do agravo para negar conhecimento ao recurso especial.
+Publique-se.
+EMENTA
