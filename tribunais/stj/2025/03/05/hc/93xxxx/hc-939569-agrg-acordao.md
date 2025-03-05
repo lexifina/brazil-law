@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E DUPLO HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AUSÊNCIA DE DESÍDIA DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+2. Na hipótese, não se verifica a desproporcionalidade do período de custódia preventiva do réu, especialmente porque é possível verificar nos autos que as instâncias ordinárias deram regular tramitação ao feito, que cuida de ação penal complexa, com três réus - que têm defensores distintos -, com a participação de dois adolescentes, envolvimento de três vítimas e que apura delito supostamente ocorrido em contexto de conflito de facção do crime organizado com agentes de polícia.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JORGE FABRICIO DOS SANTOS CORREA interpõe agravo regimental contra a decisão de fls. 107-110, em que deneguei a ordem de habeas corpus, por não constatar excesso de prazo para o julgamento do feito.
+Nas razões recursais, a defesa reitera a alegação de excesso de prazo da constrição cautelar ao afirmar que o acusado está segregado além do limite de tempo razoável e não há motivos determinantes para mantê-lo encarcerado de forma provisória.
+Requer o provimento do agravo para que seja relaxada a prisão preventiva do acusado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E DUPLO HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AUSÊNCIA DE DESÍDIA DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+2. Na hipótese, não se verifica a desproporcionalidade do período de custódia preventiva do réu, especialmente porque é possível verificar nos autos que as instâncias ordinárias deram regular tramitação ao feito, que cuida de ação penal complexa, com três réus - que têm defensores distintos -, com a participação de dois adolescentes, envolvimento de três vítimas e que apura delito supostamente ocorrido em contexto de conflito de facção do crime organizado com agentes de polícia.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Colhe-se dos autos que o paciente foi preso preventivamente, no dia 27/7/2023, pela suposta prática dos crimes de homicídio qualificado e duplo homicídio qualificado tentado.
+O Tribunal de origem afastou a alegação de excesso de prazo com amparo na seguinte fundamentação (fls. 34-35, grifei):
+De acordo com as informações (e-doc. 61) prestadas pelo Juízo de piso, a prisão preventiva do paciente foi decretada em 03/03/2023 e na mesma data foi expedido mandado de prisão; o paciente foi preso em 27/07/2023; no dia 30/07/2023 foi realizada a audiência de custódia; em 09/08/2023, a Defesa apresentou o pedido de revogação da prisão preventiva de Jorge; o MP se manifestou contrariamente em 25/08/2023; no dia 28/08/2023 a autoridade apontada como coatora indeferiu o pleito defensivo; em 26/11/2023 foi apresentada resposta à acusação; no dia 19/01/2024 foi proferida decisão que manteve o recebimento da denúncia e designou audiência de instrução e julgamento para 20/05/2024; a AIJ foi redesignada para o dia 14/06/2024 e o feito encontra-se aguardado o cumprimento de diligências.
+E diante deste cenário percebe-se que a quantidade de crimes imputados aos réus, a quantidade de réus, a quantidade de vítimas envolvidas e outras complexidades do caso concreto podem ter acarretado um pequeno desaceleramento da marcha processual, mas não se chega a observar inércia do aparato judicial, desídia do julgador ou prazos mortos a implicar constrangimento ilegal do paciente.
+Afirmei, no decisum ora agravado, que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Baseado nessas premissas, consignei que não se constata desídia do Juízo natural da causa na condução do processo, a ensejar a intervenção desta Corte Superior.
+Além disso, colhe-se do acórdão combatido e dos demais documentos juntados aos autos que os fatos ocorreram em 25/2/2023, a prisão preventiva ocorreu no dia 27/7/2023, a resposta à acusação foi apresentada em 26/11/2023 e o recebimento da denúncia foi confirmado em 19/1/2024.
+O acórdão do Tribunal de origem ressaltou a complexidade do feito, com três réus - que têm defensores distintos -, com a participação de dois adolescentes e envolvimento de três vítimas. Destacou, ainda, que o delito ocorreu em contexto de conflito de facção do crime organizado com agentes de polícia.
+Assim, o prazo de pouco mais de um ano de segregação cautelar não se mostra desproporcional, principalmente por se tratar de feito submetido ao rito especial do Tribunal do Júri.
+Como já mencionado, não há indícios de que as instâncias ordinárias tenham agido com desídia na condução do processo, de modo que eventual dilação do prazo de tramitação do feito pode ser atribuída à complexidade da causa e às diversas intercorrências processuais.
+Esta Corte estabelece que "a ilegalidade da prisão por excesso de prazo somente pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 700.977/RS, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, 6ª T., DJe 20/6/2022, grifei).
+Dessa forma, fica afastada, por hora, a alegação de excesso de prazo, pois não foi demonstrada demora irrazoável e injustificada para o término da instrução criminal. Os recentes andamentos processuais demonstram que as instâncias ordinárias vêm impulsionando o prosseguimento do processo, o que ocorre em consonância com a complexidade do feito.
+À vista do exposto, nego provimento ao agravo regimental.
