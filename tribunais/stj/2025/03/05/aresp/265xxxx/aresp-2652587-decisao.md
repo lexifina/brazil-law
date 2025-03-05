@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por WALTER DE CASTRO e ENEIDA HUBNER DE CASTRO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 788):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO. HOMOLOGAÇÃO DO VALOR DA AVALIAÇÃO DO BEM IMÓVEL, A SER ATUALIZADO, E NOMEAÇÃO DE LEILOEIRO PARA PROCEDER O LEILÃO E PRACEAMENTO. INSURGÊNCIA DOS EXECUTADOS. DO DECISUM RELATOR. RECURSO INADMISSÍVEL (CPC, ART. 932, III). AUSÊNCIA DE IMPUGNAÇÃO À ÉPOCA E CONCORDÂNCIA EXPRESSA COM A RATIFICAÇÃO DO AUTO DE AVALIAÇÃO REALIZADO PELO OFICIAL DE JUSTIÇA. ATO CONTRADITÓRIO INCOMPATÍVEL COM O DIREITO DE RECORRER (CPC, ART. 1.000). PRECLUSÃO LÓGICA E CONSUMATIVA OPERADAS. PRECEDENTES. ADEMAIS, PRETENSÃO DE ATUALIZAÇÃO MONETÁRIA GENÉRICA SOBRE O VALOR DE AVALIAÇÃO HOMOLOGADO. COMANDO RECORRIDO NESSE EXATO SENTIDO. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO INTERNO DOS EXECUTADOS/AGRAVANTES. NÃO ACOLHIMENTO. RAZÕES DA INSURGÊNCIA QUE NÃO TRAZEM QUALQUER FUNDAMENTO NOVO SUFICIENTE PARA O CONHECIMENTO DO AGRAVO DE INSTRUMENTO. DECISÃO DO RELATOR MANTIDA. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas no art. 873, II e III, do CPC, pois o imóvel levado à leilão, em 7/3/2023, deveria ter sido reavaliado, dado que "a avaliação foi feita durante a pandemia covid-19 em um momento mercadológico totalmente irreal, e transcorridos mais de 28 meses, o sensato e correto, seria fazer nova avaliação, acompanhando a evolução mercadológica" (fl. 815).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 843-847).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 848-852), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fls. 867 e 868).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuidam os autos de Execução de Título Extrajudicial em que foi determinado o leilão de bem imóvel pertencente a Walter de Castro - sucedido pelo seu Espólio - para a satisfação de três notas promissórias emitidas em favor do de cujus. Requer a agravante a reavaliação do bem, sob o fundamento do demasiado prazo entre a avaliação e a hasta pública e o momento conturbado em que foi realizada (Pandemia de Covid-19).
+Nesse contexto de ideias, sem censura a decisão agravada. Observa-se que as razões do apelo nobre limitam-se a suscitar uma nova reavaliação e não impugnam o fundamento central do acórdão de que sob a "discussão a respeito do valor de avaliação do imóvel, operou- se a preclusão lógica e consumativa" (fl. 798), o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA INTERNA. RELATIVA. PRECLUSÃO. SUSPENSÃO. JULGAMENTO. NÃO APLICAÇÃO. HIPÓTESE. RECURSO. ADMISSIBILIDADE. FALTA PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULAS NºS 283 E 284/STF.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a competência interna disciplinada no Regimento Interno do Superior Tribunal de Justiça é relativa, de modo que eventual incompetência do órgão ao qual distribuído o recurso deve ser alegada antes do início do respectivo julgamento, sob pena de preclusão.
+2. Na hipótese, não se justifica a suspensão do feito até o julgamento dos CC nº 140.456/RS e nº 148.188/DF, pendentes de apreciação pela Corte Especial e nos quais se discute se a competência para julgamento da matéria em pauta é da Primeira ou da Segunda Seção, porque o recurso não ultrapassou os pressupostos de admissibilidade.
+3. A subsistência de fundamento não atacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+4. Encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado, é de se aplicar, por analogia, o óbice previsto na Súmula nº 284/STF.
+5. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos. Súmula nº 211/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.377.269/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONCORDÂNCIA EXPRESSA DA PARTE COM A RATIFICAÇÃO DO AUTO DE AVALIAÇÃO REALIZADO PELO OFICIAL DE JUSTIÇA. ATO CONTRADITÓRIO INCOMPATÍVEL COM O DIREITO DE RECORRER. FUNDAMENTO SUFICIENTE PARA MANTER A DECISÃO NÃO REFUTADO PELA PARTE. SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
