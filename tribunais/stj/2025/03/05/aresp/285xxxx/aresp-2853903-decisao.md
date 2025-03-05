@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra v. acórdão do eg. Tribunal de Justiça do Rio Grande do Sul (TJ-RS), assim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. 1
+. Das demais provas anexadas ao processo. A prova documental é suficiente, tendo em vista que demonstra a taxa de juros aplicada, a média do Bacen da época, bem como a peculiaridade do caso.
+2. Da alteração da taxa. A taxa utilizada na sentença foi do código 25465, conforme pretendido pela parte ré.
+3 . Da ausência de intimação para provas. Dispensável a produção de prova pericial quando o magistrado entender como suficiente a prova documental existente no processo, nos termos do art. 370 do Código de Processo Civil.
+4. Do abuso do direito de demandar. Não é dever do magistrado de primeiro grau, tampouco do Tribunal de Justiça analisar a quantidade de ações ajuizadas por uma parte.
+5. Da Nulidade da Sentença. Não vislumbro vício da sentença recorrida, porquanto analisou os fatos expostos e direito alegado, concluindo pela procedência dos pedidos.
+6 . Da limitação dos juros remuneratórios. No caso, os juros remuneratórios fixados destoam gritantemente das taxas médias de mercado previstas pelo BACEN para negócios similares, o que se presta, por si só, a amparar o seu pedido de revisão do encargo.
+RECURSO DESPROVIDO." (fl. 715)
+Os embargos de declaração opostos foram rejeitados (fls. 745/746).
+Nas razões do recurso especial (fls. 752/783), a parte recorrente aponta ofensa ao artigo 421 do Código Civil de 2002, ao artigo 927 do Código de Processo Civil de 2015 e ao artigo 51, §1º, do Código de Defesa do Consumidor, além de divergência jurisprudencial, sustentando, em síntese, a ausência de caráter abusivo dos juros remuneratórios contratados em comparação à taxa média de mercado.
+Devidamente intimada, a parte recorrida não apresentou contrarrazões, conforme certidão de fl. 933.
+É o relatório. Decido.
+Quanto aos juros remuneratórios, cabe averiguar se só fato de estes extrapolarem a taxa média praticada pelo mercado financeiro em operações de mesma espécie, no período de celebração do pacto, indicaria a existência de cobrança abusiva.
+Ao julgar o recurso representativo da controvérsia que pacificou a questão acerca da índole abusiva dos juros remuneratórios (REsp 1.061.530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe de 10/3/2009), a em. Min Relatora consignou, no que toca ao parâmetro a ser considerado para se inferir se os juros contratados são abusivos ou não, o seguinte:
+"Descartados índices ou taxas fixos, é razoável que os instrumentos para aferição da abusividade sejam buscados no próprio mercado financeiro.
+Assim, a análise da abusividade ganhou muito quando o Banco Central do Brasil passou, em outubro de 1999, a divulgar as taxas médias, ponderadas segundo o volume de crédito concedido, para os juros praticados pelas instituições financeiras nas operações de crédito realizadas com recursos livres (conf. Circular nº 2957, de 30.12.1999).
+(..)
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros.
+A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos."
+Vê-se, assim, que a circunstância de a taxa de juros remuneratórios, praticada pela instituição financeira, exceder a taxa média de mercado, não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras, tal como entendeu o eg. Tribunal de origem.
+Portanto, para considerar aviltantes os juros remuneratórios praticados, é imprescindível que se proceda à demonstração cabal de sua natureza abusiva, em cada caso específico.
+No caso dos autos, segundo os fatos definitivamente delineados no acórdão recorrido, o Tribunal de origem concluiu que os juros remuneratórios deveriam ser limitados porque a taxa contratada superou de forma evidentemente excessiva a taxa média de mercado:
+"No caso, os juros remuneratórios fixados em contrato (19,00% ao mês) destoam gritantemente das taxas médias de mercado previstas pelo BACEN para negócios similares (3,32% ao mês), o que, neste caso, entendo que se presta, por si só, a amparar o seu pedido de revisão do encargo. Ademais, representam percentuais absurdamente altos e que, por si só, já denotam a abusividade na contratação, resultando evidentes prejuízos ao consumidor.
+Isso posto, constatada abusividade nos juros remuneratórios, entendo que a sentença de primeiro grau não merece reforma no ponto." (fl. 713)
+Nesse contexto, verifica-se que o entendimento es posado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Majoram-se os honorários advocatícios sucumbenciais de R$1.200,00 para R$1.320,00.
+Publique-se.
+EMENTA
