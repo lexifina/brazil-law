@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ILICITUDE DE PROVAS. PLEITO DE ABSOLVIÇÃO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Agravo regimental improvido.
+RELATÓRIO
+Iago Medrado Farias ingressa com agravo regimental inconformado com a decisão de fls. 773/775, assim ementada:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ILICITUDE DE PROVAS. PLEITO DE ABSOLVIÇÃO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ não conhecido.
+Consta do processo que o paciente foi absolvido, em primeiro grau de jurisdição, e condenado, no julgamento do recurso de apelação, como incurso no art. 14 da Lei n. 10.826/2003, à pena de 2 anos de reclusão e 10 dias-multa, no regime aberto (fl. 754).
+Alega o agravante que resta evidente a nulidade das provas advindas de busca pessoal arbitrária. Reitera que as provas produzidas são inegavelmente ilícitas, vez que a ação policial foi realizada sem a presença da necessária "fundada suspeita", mormente porque efetuada ao receberem denúncia de que indivíduos estavam comercializando drogas na região, e ao visualizarem "um veículo em atitude suspeita e o motorista inquieto", razão pela qual resolveram abordá-lo. Destarte, não foi identificada qualquer irregularidade no veículo e, ainda assim, os policiais resolveram abordar o paciente em via pública, com base em denúncia anônima, e ante um suposto "nervosismo" por si manifestado quando avistou a viatura policial, o que não caracteriza fundadas suspeitas para busca pessoal e veicular (fl. 788).
+Impugnação do Ministério Público estadual (fls. 808/813).
+Parecer do Ministério Público Federal (fls. 815/817):
+Habeas corpus. Agravo regimental. Porte de arma de fogo. Condenação em sede de apelação. Alegação de ilicitude da prova por ausência de fundada suspeita para a abordagem pessoal do paciente no momento do flagrante. As razões do agravo regimental não infirmam os fundamentos da decisão agravada, os quais atestam a higidez da abordagem pessoal e prisão do paciente pelos milicianos, dada a evidência de fundadas suspeitas consubstanciadas por denúncia de que indivíduos (já conhecidos da polícia por envolvimento com o tráfico de drogas) comercializavam drogas na região em um veículo Sandero, que era Uber. Ao avistar a polícia, um dos indivíduos tentou se esconder com uma blusa na cabeça (para evitar o seu reconhecimento). Quando os policiais pararam o veículo e procederam a abordagem, foi encontrada uma arma de fogo dentro da mochila do paciente e as porções de drogas. Havia, pois, fundadas razões para a abordagem pessoal do paciente, tal como concluiu a decisão agravada, ao negar conhecimento ao pedido. Ausência de manifesta ilegalidade. Parecer pelo não conhecimento ou denegação do writ, confirmando-se a decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ILICITUDE DE PROVAS. PLEITO DE ABSOLVIÇÃO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Agravo regimental improvido.
+VOTO
+O inconformismo não prospera.
+As razões do agravo regimental não são suficientes para infirmar a fundamentação da decisão ora agravada, na linha de que ficou evidenciada nos autos a existência de justa causa para a abordagem do paciente, destacada a presença de elementos concretos e objetivos de pungente quadro delitivo flagrancial (fl. 774):
+ ..  a ação policial pautou-se em fundadas razões acerca da prática do delito por parte do réu, já que conforme se extrai especialmente da prova oral jurisdicionalizada, os policiais militares estavam em patrulhamento e, após receberem denúncia de que indivíduos (do qual já tinham informações anteriores de envolvimento no tráfico de drogas) estava comercializando drogas na região, intensificaram o patrulhamento. Eles estavam num veículo da marca Sandero, que era Uber.
+Quando perceberam a viatura, um deles, tentou se esconder com uma blusa na cabeça (para não ser reconhecido). Ao parar o veículo, procederam a abordagem, encontrando uma arma de fogo e as porções de droga, sendo que a arma estava dentro da mochila do Iago.
+Nota-se que possivelmente houve um equívoco quanto à análise da situação fática por parte do juiz sentenciante, pois o contexto dos autos difere sensivelmente da situação narrada na respeitável sentença, já que, verificada a presença de elementos concretos e objetivos de pungente quadro delitivo flagrancial, escorreita se mostra a atuação dos policiais militares ao decidirem pela abordagem pessoal e subsequentes buscas pessoal.
+Ademais, este Superior Tribunal admite como fundada suspeita a existência de denúncia que individualiza as características de suposto autor do crime, a justificar a busca pessoal sem mandado (AgRg no HC n. 904.734/SP, da minha lavra, Sexta Turma, DJe 6/9/2024).
+No mesmo sentido: a fuga do paciente ao avistar a equipe policial constitui elemento suficiente para configurar fundada suspeita, justificando a abordagem e a realização de busca pessoal, conforme jurisprudência consolidada desta Corte Superior (RHC n. 158.580/BA e AgRg no HC n. 913.025/SP) - (HC n. 809.094/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Entender que os fatos não se deram exatamente da forma como apresentados no acórdão impugnado seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Nego provimento ao agravo regimental.
