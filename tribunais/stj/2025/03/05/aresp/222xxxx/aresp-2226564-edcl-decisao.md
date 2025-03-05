@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por DIRCEIA NAVROSKI E OUTROS, em face de despacho da lavra deste signatário (fls. 842, e-STJ), que nada apreciou quanto à petição de fls. 823-832 (e-STJ), tendo em vista a potencial supressão de instância e ofensa ao duplo grau de jurisdição.
+Daí os presentes aclaratórios (fls. 848-849, e-STJ), no qual a parte insiste na análise de seus fundamentos.
+Sem impugnação.
+É o relatório.
+Decido. Os aclaratórios não merecem sequer conhecimento.
+1. Consoante a consolidada jurisprudência desta Corte, os despachos de mero expediente são atos judiciais desprovidos de conteúdo decisório, e deles não cabe recurso, na forma do art. 1.001 do CPC. In litteris, com a clareza do dispositivo legal:
+Art. 1.001. Dos despachos não cabe recurso.
+Nesse sentido, ainda, julgados deste Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO CONTRA DESPACHO QUE DETERMINA A REDISTRIBUIÇÃO DO FEITO. DESCABIMENTO. 1. Os despachos de mero expediente são atos judiciais desprovidos de conteúdo decisório que têm por função impulsionar o feito, daí por que, nos termos do disposto no art. 1.001 do CPC/2015, deles não cabe recurso. 2. Hipótese em que a irresignação formulada objetiva impugnar, pela via inadequada do agravo interno, o despacho que determinou a redistribuição dos autos por se tratar de matéria afeta à competência da Primeira Seção do STJ. Agravo interno não conhecido. (AgInt no AgInt no REsp n. 1.992.114/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. DESPACHO SEM CARGA DECISÓRIA. IRRECORRIBILIDADE ART. 1.001 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.1. Ação de despejo. 2. A jurisprudência do STJ firmou o entendimento de que os despachos de mero expediente são atos judiciais desprovidos de conteúdo decisório que têm por função impulsionar o feito, daí por que, nos termos do art. 1.001 do Código de Processo Civil, deles não cabe recurso. Precedentes. 3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial. 4. Agravo interno não provido. (AgInt no AgInt nos EDcl no AREsp n. 2.199.840/PA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+Tratando-se os presentes aclaratórios de irresignação contra despacho que, vale dizer, está isento de qualquer mácula de fundamentação, não merece o recurso sequer conhecimento.
+Repise-se que todos os pedidos formulados pela parte na petição de fls. 823-840 (e-STJ) jamais foram avaliados em momento algum nestes autos, cabendo a sua formulação na origem. A insistência em sua análise nesta Corte Superior, em manifesta supressão de instância e em violação ao duplo grau de jurisdição, poderá ser reconhecida como litigância de má-fé, aplicável multa de até 10% do valor da causa (art. 81 do CPC).
+Eventual condenação nesse sentido não exclui a possibilidade, igualmente, de que a manifesta inadmissibilidade de agravo interno enseje a condenação em multa de até 5% do valor da causa.
+Feitas essas observações, e não obstante o não conhecimento dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatório, pressuposto para aplicação da medida, descabida a sua incidência neste momento processual.
+No entanto, desde já se adverte que a reiteração de embargos de declaração que sequer merecem conhecimento, consoante a literalidade do código instrumental e a remansosa jurisprudência desta Corte, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+2. Do exposto, não conheço dos embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
