@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por UNIMED BELÉM - COOPERATIVA DE TRABALHO MÉDICO, em face de decisão que não admitiu recurso especial (fls. 487-492, e-STJ).
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Pará, assim ementado (fls. 382-408, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. FORNECIMENTO DE MEDICAMENTO PARA USO DOMICILIAR. NEGATIVA DO PLANO DE SAÚDE. PRECEDENTES DO STJ FAVORÁVEIS AO FORNECIMENTO DA MEDICAÇÃO NA FORMA PRESCRITA PELO MÉDICO QUE ACOMPANHA O PACIENTE. RECURSO CONHECIDO E DESPROVIDO, À UNANIMIDADE. 1. Discussão gira em torno do alcance da cobertura do plano de assistência à saúde fornecido pela ré ao autor, portador de doença de Parkinson, para abranger medicamento de uso domiciliar. 2. STJ entende ser lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. 3. Foi demonstrada a utilidade do medicamento por meio de laudo médico, sendo coerente acolher a indicação do profissional que assiste à paciente por ser melhor conhecedor da patologia devido ter contato direto com a enferma, acompanhando a evolução da doença. Por isso, acredita-se que ele é mais capacitado para ministrar os meios/procedimentos adequados ao tratamento específico. 4. Na hipótese dos autos, em nenhum momento a operadora do plano de saúde alegou inexistir cobertura da doença da autora e seu tratamento, não sendo justificável a recusa da recorrente ao tratamento indicado pelo médico que acompanha o paciente. 5. Tampouco restou cristalinamente demonstrado que o medicamento não se encontra nas exceções abarcadas pela ANS. Ônus do Apelante. 6. Inegável que, no caso, em que o medicamento pleiteado visava o tratamento de doença grave (mal de parkinson), sendo que já tentada a utilização de outros fármacos, sem sucesso, a recusa causou situação de aflição à paciente que necessitava da medicação para a conservação de sua vida e saúde. 7. Recurso conhecido, e desprovido, à unanimidade. Honorários advocatícios majorados para 15% sobre o valor da condenação nos termos do art. 85, §11º do CPC.
+Nas razões do recurso especial (fls. 409-426, e-STJ), a recorrente aponta violação aos seguintes artigos:
+(i) 1º, §1º, e 10, VI da Lei nº 9.656/1998, pois é descabida a cobertura de medicamentos para uso domiciliar;
+Contrarrazões às fls. 478-486, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, com amparo na Súmula 83/STJ.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que o supracitado óbice não subsistiria.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. Segundo a jurisprudência desta Corte, é lícita a negativa de cobertura de medicamentos de uso domiciliar, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim:
+CONSUMIDOR. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRANSTORNO DE CRESCIMENTO. MEDICAMENTO. SOMATROPINA. USO DOMICILIAR. NEGATIVA LÍCITA DE COBERTURA. AGRAVO INTERNO DESPROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim.
+Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+2. No caso em exame, o medicamento somatropina não se inclui nas hipóteses de inclusão legal de cobertura de medicamento de uso domiciliar, razão pela qual, em não se tratando de medicamento de administração intravenosa, a recusa de custeio ao tratamento, por parte do plano de saúde, não pode ser considerada abusiva.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.547.650/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024.)
+No caso em tela, a Corte local, a despeito de consignar a natureza domiciliar do fármaco, determinou sua cobertura pelo plano, ainda que não se tratasse de medicamento antineoplásico, destinado a tratamento em home care ou listado em diretrizes específicas da ANS.
+Nesse contexto, de rigor o provimento do apelo, com o afastamento do dever de cobertura.
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para dar provimento ao recurso especial. Por conseguinte, julga-se improcedente a ação.
+Invertam-se os ônus sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
