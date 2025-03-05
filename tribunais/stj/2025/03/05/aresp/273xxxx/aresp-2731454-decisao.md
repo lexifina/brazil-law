@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da Súmula n. 7 do STJ e da ausência de demonstração da ofensa aos dispositivos legais (e-STJ fls. 546/548).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 501):
+INDENIZATÓRIA - Procedência parcial do pedido para fixar a indenização por danos morais em R$ 30.000,00 - Inconformismo das partes - Acolhimento parcial apenas do recurso do autor - Paciente que contraiu grave infecção hospitalar em decorrência de sua permanência nas dependências do hospital - Superbactéria presente exclusivamente em ambiente hospitalar - Responsabilidade civil objetiva - Hospital requerido que não adotou todos os meios de assepsia durante a internação do paciente - Descumprimento do ônus probatório previsto no art. 373, inc. II, do Código de Processo Civil - Dever de indenizar por dano moral - Majoração da indenização para R$ 80.000,00 - Princípios da razoabilidade e proporcionalidade - Sentença reformada em parte - Recurso do autor parcialmente provido e recurso da ré desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 518/520).
+Nas razões do recurso especial (e-STJ fls. 523/531), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais: arts. 1.022, II, do CPC/2015, 186, 884, 927 e 944, parágrafo único, do CC/2002 e 14, § 3º, I e II, do CDC.
+Insurge-se contra a conclusão da Corte local de que "o valor fixado de R$ 30.000,00 comporta majoração para R$ 80.000,00, montante que bem atende aos princípios da razoabilidade/proporcionalidade" (e-STJ fl. 504).
+A parte afirma:
+(i) violação do art. 1.022, II, do CPC/2015, pois "a agora recorrente opôs embargos de declaração suscitando, dentre outras teses, tema que não foi apreciado pelo v. acórdão regional, qual seja, a exorbitância do valor fixado, à luz dos artigos 884 e 944 do Código Civil. Não obstante à oposição dos aclaratórios, a Corte a quo valeu- se de argumentos genéricos para rejeitá-los" (e-STJ fl. 526);
+(ii) ofensa aos arts. 186 e 927 do CC/2002 e 14, § 3º, I e II, do CDC, porque "a recorrente desenvolveu sua atividade de maneira regular e escorreita, sequer deveria haver espaço para sua responsabilização à luz dos artigos 186 e 927 do Código Civil e artigo 14, § 3º, I e II, do CDC, data vênia, eis que não se verificou qualquer nexo causal entre a prestação de serviços hospitalares e os resultados ocorridos" (e-STJ fl. 529);
+(iii) descumprimento ao art. 884 do CC/2002, uma vez que "não se pode de forma aleatória, data vênia, arbitrar vultosas indenizações à parte recorrida, por entender o Tribunal a quo que o serviço prestado pela parte recorrente teria, indubitavelmente, sido a causa de todos os danos sofridos por ela, sob pena de ensejar enriquecimento ilícito" (e-STJ fl. 530); e
+(iv) contrariedade ao art. 944, parágrafo único, do CC/2002, sob o fundamento de que o v. acórdão recorrido arbitrou "valor a título de danos não condizente com o suposto grau de culpa da ora recorrente, e que o referido valor se revela exorbitante" (e-STJ fl. 530).
+No agravo (e-STJ fls. 551/557), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 563/570 (e-STJ).
+É o relatório.
+Decido.
+A controvérsia tem origem em infecção hospitalar que acometeu o demandante, após realização de cirurgia para tratamento de "estenose do canal raquiano e artrose facetaria, além de  ..  cisto sinovial" (e-STJ fl. 438).
+O Juízo de origem condenou o hospital a pagar indenização por danos morais, fixando o "montante indenizatório em R$ 30.000,00 (trinta mil reais)" (e-STJ fl. 441).
+A Corte local reformou parcialmente a sentença, porque "o valor fixado de R$ 30.000,00 comporta majoração para R$ 80.000,00, montante que bem atende aos princípios da razoabilidade/proporcionalidade" (e-STJ fl. 504).
+(I) Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação ao quantum indenizatório, o Tribunal de origem manifestou que, "em razão do sofrimento pelo qual passou o autor, o valor fixado pelo magistrado de 1º grau não repara adequadamente o dano extrapatrimonial sofrido nas dependências do hospital" (e-STJ fl. 504).
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+(II e III) O Tribunal de origem fundamentou o acórdão recorrido no art. 373, II, do CPC/2015, entre outros, uma vez que "era ônus do hospital requerido comprovar que adotou todos os meios de assepsia durante a internação do paciente e que não teria dado causa à infecção ocasionada ao paciente, do qual não se desincumbiu" (e-STJ fl. 503)
+Contudo, no recurso especial, a parte sustenta somente questões de direito material, deixando assim de atacar o fundamento processual do art. 373, II, do CPC/2015.
+Não houve, portanto, impugnação de todos os fundamentos do acórdão recorrido. Incide no caso a Súmula n. 283 do STF.
+Ademais, o Tribunal de origem concluiu, com base na análise do conjunto fático-probatório, que "a História da Moléstia Atual exposta no laudo pericial demonstra, de forma induvidosa, que o autor passou por uma série de agruras que resultaram nos danos indicados na petição inicial" (e-STJ fl. 503 - grifei).
+Modificar o entendimento do acórdão impugnado, nesse ponto, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+(IV) A modificação do valor da indenização por danos morais é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AR Esp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, D Je 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A quantia estabelecida pelas instâncias de origem - R$ 80.000,00 (oitenta mil reais) - não enseja a intervenção do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
