@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, recurso especial interposto por INDÚSTRIA E COMÉRCIO DE ÓLEOS FLORESTA LTDA. contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+TRIBUTÁRIO. CRÉDITOS DE PIS-PASEP E COFINS SOBRE O ICMS DESTACADO NAS NOTAS FISCAIS DE AQUISIÇÃO. REGIME NÃO CUMULATIVO. IMPOSSIBILIDADE.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta, além de negativa de prestação jurisdicional, o "o direito à apuração e tomada dos créditos das contribuições ao PIS e COFINS incluindo o ICMS incidente na operação de entrada, afastando -se a vedação contida na MP 1.159/2023 e na Lei nº 14.592/2023" (fl. 292).
+Contrarrazões apresentadas às fls. 302-325.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 1.022, II, CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fl. 206):
+Os valores de ICMS destacados nas notas fiscais de aquisição não geram créditos a descontar na apuração das bases de cálculo das contribuições para PIS-PASEP e COFINS no regime não cumulativo, diante da previsão expressa do inciso III do parágrafo 2º do artigo 3º, dispositivo idêntico nas Leis 10.637/2002 e 10.833/2003, incluídos pela Lei 14.592/2023. Constitucionalidade afirmada. Precedentes.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+No mais, o recurso especial não deve ser conhecido, pois, embora o recorrente aponte a existência de violação a normas infraconstitucionais, o acórdão recorrido apreciou a questão sob o enfoque predominantemente constitucional, requerendo análise de dispositivos constitucionais e de jurisprudência do Supremo Tribunal Federal.
+Confira-se parte do aresto de origem (fl. 260):
+A Constituição outorga ao legislador ordinário autonomia para definir quais setores de atividade econômica se beneficiarão do regime jurídico não cumulativo das contribuições para PIS- PASEP e COFINS (§ 12 do art. 195 da Constituição, tese 756.I de repercussão geral do STF) e, consequentemente, que podem computar créditos na apuração da base de cálculo dos referidos tributos.
+O regime jurídico não cumulativo das contribuições para PIS-PASEP e COFINS é disciplinado pelas LL 10.637/2002 e 10.833/2003. Os arts. 1º e 2º da MP 1.159/2023, sua incorporação nos arts 6º e 7º da MP 1.147/2022, e a posterior conversão desta na L 14.592/2023 conferiram nova redação ao inc. III do § 2º do art. 3º, dispositivo idêntico nas LL 10.637/2002 e 10.833/2003, estabelecendo que Não dará direito a crédito o valor do ICMS que tenha incidido sobre a operação de aquisição.
+Em que pese as alegações sustentadas pela contribuinte, não há inconstitucionalidade na referida modificação, nem afronta ao principio da não cumulatividade das contribuições. Como referido, o legislador ordinário tem autonomia outorgada pela Constituição para definir quais atividades econômicas estarão enquadradas no regime não cumulativo das contribuições, quanto o próprio regramento da referida tributação e o que dará direito a crédito ou não. A tese 34 de repercussão geral do Supremo Tribunal Federal, que tratou da ampliação da base de cálculo e majoração da alíquota da contribuição COFINS pela L 10.833/2003, resultante da conversão da MP 135/2003, orienta por ser constitucional a previsão em lei ordinária que introduz a sistemática da não- cumulatividade a COFINS dado que observa os princípios da legalidade, isonomia, capacidade contributiva global e não-confisco.
+A tese 756 de repercussão geral do Supremo Tribunal Federal assim estabelece:
+ ..
+Observada a autonomia do legislador ordinário para delimitar os limites do sistema não cumulativo de apuração das contribuições para PIS-PASEP e COFINS, não é viável enquadrar o ICMS destacado nas notas fiscais de aquisição como crédito a descontar, uma vez que a legislação de regência, presumida constitucional, expressamente determina que o referido imposto não dará direito a crédito. A previsão estabelecida pelo legislador ordinário não contraria preceitos constitucionais, como a matriz constitucional das contribuições ao PIS e COFINS e os princípios da razoabilidade, da isonomia, da livre concorrência e da proteção à confiança (tese 756.I de repercussão geral do Supremo Tribunal Federal).
+Conforme exposição de motivos, a MP 1.159/2023 (e posteriormente a L 14.592/2023) adequou o regime não cumulativo das contribuições para PIS-PASEP e COFINS disciplinado pelas LL 10.637/2002 e 10.833/2003 à tese 69 fixada pelo Supremo Tribunal Federal (RE 574.706) com a preocupação urgente no significativo impacto econômico sobre o financiamento da Seguridade Social:
+ ..
+Observa-se, portanto, atendido o requisito de urgência e relevância da MP 1.159/2003. No ponto, ressalta-se ainda que ao judiciário só cabe o controle jurisdicional sobre esse tipo de medida em situações excepcionais, sob pena de ferir o princípio de separação dos poderes, conforme já decidiu o Supremo Tribunal Federal: eventual controle de urgência e relevância pelo Poder Judiciário só se faz possível em situações excepcionalíssimas, de evidente excesso ou abuso, sob risco de se romper com o princípio da separação dos poderes (stf, Tribunal Pleno, ADI 4.980/DF, DJe 17maio2022).
+Os valores de ICMS destacados nas notas fiscais de aquisição, portanto, não geram créditos a descontar na apuração da base de cálculo das contribuições para PIS-PASEP e COFINS pelo regime não cumulativo, diante da previsão expressa do inc. III do § 2º do art. 3º, dispositivo idêntico nas LL 10.637/2002 e 10.833/2003, incluído pela L 14.592/2023, conforme precedentes deste Tribunal:
+ ..
+A forma de apuração de tributo descrita em lei deve ser mantida.
+Desta forma, portanto, não compete o exame da pretensão recursal na via do apelo especial por este Superior Tribunal de Justiça, sob pena de usurpação dos poderes conferidos à Suprema Corte.
+Nesse sentido é o entendimento desta Corte Superior:
+TRIBUTÁRIO E PROCESSUAL CIVIL. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. RECURSO ESPECIAL. NÃO CABIMENTO.
+1. O Tribunal de origem solucionou a contenta sob a ótica constitucional concluindo que "não há inconstitucionalidade alguma nos artigos 1º e 2º, da Medida Provisória 1.159/2023, e dos arts. 6º e 7º, da Lei 14.592/2023, os quais conferiram a nova redação ao art. 3º, § 2º, III, das Leis 10.637/02 e 10.833/03" (fl. 331), escapando sua revisão, assim, da competência desta Corte em sede de recurso especial.
+2. Agravo interno não provido (AgInt no REsp 2.152.343/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/10/2024, DJe de 21/10/2024).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
