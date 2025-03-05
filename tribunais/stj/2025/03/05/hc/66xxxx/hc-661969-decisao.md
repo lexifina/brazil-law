@@ -1,0 +1,26 @@
+DECISÃO
+MARCO ANTÔNIO OMETTO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da Terceira Região no Agravo em Execução Penal n. 5003801-19.2020.4.03.6109.
+Consta dos autos que o paciente foi condenado a 2 anos e 11 meses de reclusão, em regime inicial aberto, com substituição por penas restritivas de direitos, mais multa, pela prática do crime previsto no art. 168-A, § 1º, I, do Código Penal.
+A defesa aduz que o débito fiscal que justificou a ação penal correlata foi extinto em decorrência da prescrição reconhecida em decisão judicial transitada em julgado cujos efeitos devem repercutir no âmbito criminal para ensejar a perda superveniente de justa causa.
+Requer, assim, a concessão da ordem para que seja extinto o processo de execução penal.
+O Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 127-135).
+Decido.
+Esta Corte, ao julgar o Tema Repetitivo n. 1.166, fixou a tese de que "o crime de apropriação indébita previdenciária, previsto no art. 168-A, § 1º, I, do Código Penal, possui natureza de delito material, que só se consuma com a constituição definitiva, na via administrativa, do crédito tributário, consoante o disposto na Súmula Vinculante n. 24 do Supremo Tribunal Federal" (REsp n. 1.982.304/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 17/10/2023, DJe de 20/10/2023).
+O entendimento consolidado do Supremo Tribunal Federal e deste Superior Tribunal exige que a constituição definitiva do crédito tributário seja prévia à instauração da ação penal, sob pena de ausência de condição de procedibilidade. Essa exigência decorre do princípio da separação dos Poderes, que atribui à administração tributária a competência para apurar e constituir o crédito tributário, cabendo ao Judiciário apenas a análise de sua existência quando devidamente constituído.
+No caso em exame , a controvérsia a ser dirimida consiste em verificar se a superveniente prescrição do crédito tributário repercute na seara criminal e retira a justa causa para o prosseguimento da execução da sentença penal condenatória.
+O reconhecimento da extinção do crédito tributário pela prescrição (art. 156, V, do CTN) pressupõe a ocorrência do lançamento definitivo do tributo. Caso este não seja praticado a tempo, a inércia do Fisco enseja a decadência do seu direito, efeito que é diverso daquele operado com a prescrição e que incide apenas sobre a perda do direito de exigir a satisfação do débito fiscal do sujeito passivo da obrigação tributária. Em outros termos, a prescrição do crédito tributário não desconstitui a constituição definitiva do tributo, mas apenas afeta a pretensão decorrente desse direito.
+Com base nessa compreensão, a jurisprudência desta Corte tem firme orientação de que a superveniente prescrição do crédito tributário - como ocorreu na espécie - não repercute no âmbito criminal. Nesse sentido, cito os seguintes julgados:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. PRESCRIÇÃO DO CRÉDITO FISCAL. PRETENDIDA EXTINÇÃO DA AÇÃO PENAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O elemento do tipo penal do crime de sonegação fiscal exige que o crédito tributário e, por consequência, a obrigação tributária tenham sido constituídos de forma regular e definitiva, motivo pelo qual a superveniência de prescrição do crédito tributário na esfera administrativa não afasta a persecução penal, regulada de forma independente e por prazos prescricionais próprios" (AgRg no REsp n. 1.872.334/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 1/12/2020, DJe de 7/12/2020).
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.399.578/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2023, DJe de 19/12/2023, grifei)
+ ..
+PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO. EXTINÇÃO DA PUNIBILIDADE. INVIABILIDADE.
+Nos termos da jurisprudência deste Sodalício, a prescrição superveniente do crédito tributário não influencia a persecução penal, tendo em vista que "embora constitua a prescrição uma causa de extinção do crédito tributário (CTN, art. 156, V), tal circunstância não implica que a obrigação tributária não tenha nascido regularmente, gerando, a seu tempo, o dever de pagamento do tributo e, consequentemente, a consumação do delito" (REsp 1597580/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/06/2016, DJe 30/06/2016).
+ ..
+(AgRg nos EDcl no AREsp n. 1.265.734/ES, relator Ministro Jorge Mussi, Quinta Turma, julgado em 6/12/2018, DJe de 14/12/2018, destaquei)
+Com efeito, mantido inalterado o lançamento tributário que subsidiou a constituição da materialidade delitiva, não há que se falar em ausência superveniente de justa causa. Mesmo que não exigível do sujeito passivo, o crédito tributário foi constituído, o que, nos termos da jurisprudência consolidada desta Corte, é suficiente para ensejar a consumação do crime de apropriação indébita previdenciária.
+Assim, não há ilegalidade a ser amparada nesta ação constitucional, visto que o entendimento empregado pelas instâncias ordinárias está devidamente alinhado à compreensão adotada nesta Corte.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
