@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo d. Juízo de Direito da 1ª Vara Cível de Guarulhos/SP, em face do d. Juízo da 7ª Vara do Trabalho de Guarulhos/SP.
+O conflito foi estabelecido nos autos de Reclamação Trabalhista movida por motorista em face de empresa de transporte requerendo o reconhecimento e pagamento de verbas trabalhistas, próprias.
+Requereu o autor, ainda, para o que interessa ao presente, "o reconhecimento do vínculo empregatício com a reclamada, tendo em vista que o reclamante laborou cumprindo todos os requisitos do artigo 3º da CLT, quais sejam, com habitualidade, subordinação e mediante salário, com consequente anotação do contrato de trabalho na CTPS, bem como o pagamento das verbas contratuais e rescisórias ora pleiteadas na demanda" (na fl. 10).
+A empresa de transporte ofereceu contestação afirmando que o autor era motorista autônomo contratado sob os auspícios da Lei 11.442/2007.
+O d. Juízo do Trabalho declarou a incompetência da Justiça do Trabalho, apenas porque "conforme comprovante de fl. 113, o autor está registrado junto à ANTT como TAC - Transportador Autônomo de Cargas" (na fl. 3).
+Remetidos os autos à Justiça comum, o d. Juízo Cível de Guarulhos/SP também declarou-se incompetente, pois, segundo defende, "nos termos do art. 114 da Constituição Federal, compete à Justiça do Trabalho processar e julgar as ações oriundas da relação de trabalho" (na fl. 69), destacando, ainda, que, "ainda que se alegue a inexistência de relação jurídica de trabalho entre as partes, cabe à justiça especializada decidir acerca de eventual fraude a dispositivos da CLT, consoante disposto no mencionado acórdão" (na fl. 70).
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+No mérito, o conflito de competência não está configurado em face da deficiência na argumentação do d. Juízo do Trabalho, o suscitado.
+Com efeito, a Constituição Federal, no art. 93, IX, prevê que todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões sob pena de nulidade.
+Na hipótese dos autos, o d. Juízo do Trabalho suscitado, silenciando-se acerca do pedido de reconhecimento de relação de emprego, declarou sua incompetência apenas porque o autor da reclamatória "está registrado junto à ANTT como TAC - Transportador Autônomo de Cargas" (na fl. 3), como se esse fato tivesse o condão de elidir toda a fundamentação tecida pela inicial, especialmente, sem qualquer tipo de cognição, ainda que não exauriente, sobre sobre os meios de prova indicados pelas partes.
+Desse modo, os autos devem retornar ao d. Juízo do Trabalho para que, em obediência à precípua função constitucional de investigar e declarar a existência de relação de emprego, ainda que travestida sobre o manto do contrato autônomo, sempre de modo mais favorável ao suposto empregado, decida, fundamentadamente, sobre a existência da alegada relação. Após, cabe-lhe julgar a ação ou remetê-la à Justiça comum.
+Ante o exposto, não conheço do conflito de competência determinando o retorno dos autos ao d. Juízo da 7ª Vara do Trabalho de Guarulhos/SP, para a providência acima lançada.
+Publicar.
+EMENTA
