@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por ROGERIO POCO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 241):
+BANCÁRIOS - Ação declaratória de inexigibilidade de desconto consignado c/c repetição do indébito e condenação em danos morais - Sentença de parcial procedência - Alegação de conversão de empréstimo consignado em empréstimo pessoal não contratado - Inocorrência - CCB firmada de refinanciamento de CCB, ambas da mesma modalidade - Banco que procedeu ao desconto do valor de empréstimo em conta corrente - Possibilidade expressamente autorizada no contrato ante a impossibilidade de desconto no benefício previdenciário - Inteligência da Resolução BACEN 4.771, de 19/12/2019 - Ausência de irregularidade - Ação improcedente - Sentença substituída - Decaimento adequado - Recurso provido.
+Rejeitados os embargos de declaração opostos (fls. 277-281).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa aos arts. 489, 1.022 e 1.025 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou a disposição contida no art. 47 do CDC, alegando que contratou empréstimo consignado, mas o banco recorrido alterou unilateralmente a forma de cobrança para débito automático em conta-corrente, comprometendo sua subsistência. Afirma que a prática é abusiva, burlando as normas de consignação e impondo encargos excessivos ao consumidor.
+Pugna pelo provimento do recurso para anular o acórdão ou, caso superada a preliminar, reformá-lo para reconhecer a ilegalidade da modificação contratual e determinar a devolução dos valores descontados.
+Foram oferecidas contrarrazões ao recurso especial (fls. 285-296).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 297-299), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 327-337).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação dos arts. 489 e 1.022 do CPC
+Inicialmente, não há falar em ofensa aos arts. 489, 1.022 e 1.025 do CPC, uma vez que o Tribunal de origem, de forma clara e fundamentada, manifestou-se sobre os pontos alegados como omissos, consignando que não houve conversão de empréstimo consignado em empréstimo pessoal, mas apenas o exercício de uma possibilidade contratualmente autorizada de débito em conta-corrente, diante da impossibilidade de desconto diretamente no benefício previdenciário do INSS.
+É o que se extrai dos seguintes trechos (fls. 146-148):
+O Banco réu, ora apelante, apresentou "Cédula de Crédito Bancário Empréstimo Pessoal Consignação e/ou Retenção INSS Refinanciamento" nº 360.388.072, firmada pelo autor apelado em 10/01/2019 para refinanciar o contrato nº 340.677.881 (fls. 157/162), e "Cédula de Crédito Bancário Empréstimo Pessoal Consignação e/ou Retenção INSS Refinanciamento" nº 340.677.881, firmada pelo autor apelado em 15/02/2018 para refinanciar o contrato nº 338.486.159 (fls. 165/170).
+Consta da cláusula 5 da CCB nº 360.388.072 (fls. 160):
+"5 Dos débitos
+5.1 As prestações devidas por esta Cédula serão pagas mediante o desconto na renda mensal dos benefícios previdenciários de aposentadoria ou de pensão por morte, concedidos ao Emitente. Para tanto, o INSS foi devidamente autorizado e instruído pelo Emitente a fazer as devidas retenções e a repassar o valor ao credor.
+5.2 Não sendo possível ao INSS promover o repasse do valor integral dos benefícios previdenciários, ou a consignação das prestações diretamente na renda mensal dos aludidos benefícios do Emitente, e até que se torne possível superar os problemas operacionais que obstem ou dificultem a adoção desse procedimento, o Emitente autoriza o Credor, em caráter irrevogável e irretratável, a efetuar o débito na Consta indicada no Quadro 1-2 para pagamento das prestações. Caso não haja saldo suficiente na referida Conta para liquidação das prestações, fica desde já autorizado pelo Emitente, em caráter irrevogável e irretratável, a realizar o débito em qualquer Conta ou aplicação financeira mantida por ele junto ao Credor, inclusive, autoriza o Credor, a utilizar eventuais saldos credores de titularidade do Emitente mantidas perante o Credor".
+Verifica-se que a Cédula firmada tem por objeto refinanciamento de Cédula anterior, ambas firmadas na mesma modalidade, sendo indicada a conta corrente nº103466-9, mantida junto à agência nº 94, dígito 9, "Casa Verde USP", para débitos em caso de inviabilidade perante o INSS (fls. 157).
+Os extratos apresentados pelo apelado às fls. 43/44 provam que é nessa conta em que está o apelante procedendo aos descontos mensais das parcelas devidas.
+E o "Extrato de Empréstimos Consignados" apresentado pelo apelado às fls. 33/34, emitido em 27/10/2021, indica como margem consignável disponível o importe de R$ 1,05.
+Do contexto, verifica-se que não houve conversão de empréstimo consignado em empréstimo pessoal, mas tão somente exercício da possibilidade autorizada em contrato de débito em conta corrente quando não for possível o desconto diretamente do benefício junto ao INSS, conduta amparada pela Resolução BACEN 4.771, de 19/12/2019:
+ ..
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+- Súmula n. 284 do STF
+Quanto à alegação de afronta ao art. 47 do CDC, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar o artigo de lei que entende violado sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que também atrai os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF. (AgInt no AREsp n. 2.044.724/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/9/2022.)
+2. A mera citação genérica de dispositivo de lei tido como violado desarticulada de fundamentação vinculada à norma não enseja o cabimento de recurso especial. Nos termos da jurisprudência, o recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+ ..  (AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/6/2022.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, na parte conhecida, negar-lhe pr ovimento.
+- Honorários recursais
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. CONTRATO BANCÁRIO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. CONTRARIEDADE AO ART. 47 DO CDC. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
