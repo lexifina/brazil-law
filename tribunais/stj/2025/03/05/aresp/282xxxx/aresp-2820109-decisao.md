@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento na ausência de violação dos arts. 489 e 1.022, do CPC.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois:
+ ..  demonstrou a ausência dos requisitos legais para acolhimento da pretensão da parte autora, uma vez que não é possível ao Judiciário determinar a manutenção do auxílio-doença até a efetiva reabilitação profissional propriamente dita, apenas podendo deflagrar o início do processo, por meio de perícia de elegibilidade, já que a análise da possibilidade de readaptação é multidisciplinar, considerando não somente critérios médicos, mas também sociais, pessoais, etc.
+Todavia, tal argumento, suficiente para infirmar a conclusão do julgado, não foi enfrentado em momento algum pelo E. Tribunal (fl. 383).
+Assevera, ainda, que:
+ ..  suscitou argumentos contrários ao acolhimento da pretensão da parte autora, capazes de infirmar o entendimento adotado pelo julgador, no sentido de que o INSS não se opôs ao encaminhamento da parte autora à reabilitação, mas sim buscou estabelecer os contornos da reabilitação profissional , buscando-se o pronunciamento desse Egrégio Tribunal acerca das peculiaridades do procedimento, cujo ponto de partida é a perícia de elegibilidade (fl. 382).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+A jurisprudência do STJ orienta-se no sentido de que há violação ao art. 1.022 do CPC, quando o Tribunal de origem, a despeito da oposição de embargos de declaração, não se manifesta sobre questão relevante ao deslinde da controvérsia.
+Da análise dos autos, verifica-se que a parte ora recorrente, em sede de embargos de declaração, questionou a necessidade de pronunciamento específico acerca dos contornos a serem estabelecidos para a reabilitação profissional, sob os seguinte fundamentos (fls. 301-302):
+Veja-se as os títulos da fundamentação do recurso de apelação.
+EMENTA: REABILITAÇÃO PROFISSIONAL. AO JUDICIÁRIO CABE APENAS DETERMINAR A DEFLAGRAÇÃO DO PROCEDIMENTO DE REABILITAÇÃO PROFISSIONAL ATRAVÉS DE PERÍCIA DE ELEGIBILIDADE. TEMA 177 DA TNU. DA IMPOSSIBILIDADE DE CONDICIONAR OS RESULTADOS DA REABILITAÇÃO PROFISSIONAL. TEMA 177 DA TURMA NACIONAL DE UNIFORMIZAÇÃO DO PROCESSO DE REABILITAÇÃO. ANÁLISE MULTIFATORIAL. DO PODER-DEVER DE REVISÃO DOS BENEFÍCIOS PREVIDENCIÁRIOS PELO INSS.
+Os fundamentos recursais do INSS dizem respeito às características intrínsecas à reabilitação profissional promovida pelo ente ancilar, buscando-se o pronunciamento desse Egrégio Tribunal acerca das peculiaridades do procedimento, cujo ponto de partida é a perícia de elegibilidade.
+Em suma, ao condicionar a DCB do benefício à reabilitação da parte autora, retira-se da Autarquia a possibilidade de análise da elegibilidade à reabilitação. Isso porque, dentre outras hipóteses, a análise da possibilidade de readaptação é multidisciplinar, levando em conta não somente critérios médicos, mas também sociais, pessoais etc., e seu sucesso depende de múltiplos fatores que são apurados no curso do processo, incluindo os cursos disponíveis à Autarquia para fins de reabilitação.
+Embora se trate de processo ordinário, traz-se ao conhecimento do Tribunal, a título de referência, o teor do Tema 177 da TNU, no qual enfrentada a matéria dos contornos da reabilitação profissional:
+Não obstante, o Tribunal de origem rejeitou os embargos opostos com fundamentação genérica, sem o efetivo enfrentamento das questões cujo conhecimento havia-lhe sido devolvido. Nesse contexto, sendo constatado que o Tribunal de origem deixou de enfrentar a argumentação supra, mostra-se impositivo reconhecer a ocorrência de violação ao art. 1.022, II, do CPC, porquanto a análise da matéria mostra-se relevante para o deslinde da controvérsia.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e c, do RISTJ, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, para que sejam enfrentadas as questões suscitadas.
+Intimem-se.
+EMENTA
