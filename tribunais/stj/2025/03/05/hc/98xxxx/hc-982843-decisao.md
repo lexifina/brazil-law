@@ -1,0 +1,13 @@
+DECISÃO
+CLOVIS ALVES DA SILVA alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento do HC n. 3000387-90.2025.8.26.0000.
+A defesa busca o deferimento do pedido de progressão prisional formulado em favor do paciente, independentemente da realização de exame criminológico, pois reputa preenchidos os requisitos necessários para a concessão do referido benefício.
+Decido.
+O habeas corpus é substitutivo de agravo em execução, também interposto na origem e ainda não julgado pela instância a quo. Não está inaugurada a competência desta Corte, nos termos do art. 105, da CF, para exame do incidente antes do esgotamento da instância ordinária.
+Deveras: "O exame pelo Superior Tribunal de Justiça de matéria ainda não apreciada pelo Juiz ou pelo Tribunal de origem, enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 753.181/SP, rel. Rel. Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+Inexiste ilegalidade no acórdão. O writ originário deixou de ser conhecido, justificadamente, pois "não se presta o habeas corpus para apressar ou antecipar julgamento favorável a que se pretenda", além de não haver identificado "qualquer constrangimento que, por ilegalidade manifesta, se pudesse reparar nesta sumária via" (fl. 65).
+O manejo do habeas corpus não dispensa a racionalidade no uso dos instrumentos postos à disposição da parte, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada e correta se vê comprometido com o concomitante emprego de dois meios de impugnação com igual pretensão, contra o mesmo ato judicial.
+Sob essa perspectiva, já interposto o agravo em execução contra a decisão do Juiz da VEC, a impetração de habeas corpus perante idêntico órgão julgador, para igual pretensão de reforma do julgado, não deve ser admitida. O exame da questão idêntica formulada pela defesa deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual. A utilização de habeas corpus para resolver incidentes da execução penal é de caráter subsidiário; somente será possível se não veiculado o recurso próprio.
+Destaque-se que, demonstradas a plausibilidade jurídica do pedido e o perigo da demora da prestação jurisdicional, a defesa poderá pleitear, no bojo do agravo em execução, em antecipação de tutela, a concessão urgente da pretensão recursal.
+À vista do exposto, indefiro liminarmente o processamento deste writ, com fulcro no art. 210 do RISTJ.
+Publique-se e intimem-se.
+EMENTA
