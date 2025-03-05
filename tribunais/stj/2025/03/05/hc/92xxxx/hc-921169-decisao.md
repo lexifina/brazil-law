@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUSTAVO DOS REIS SOUZA DAMASCENO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que negou provimento ao recurso de apelação da defesa.
+Consta dos autos que o paciente foi condenado em primeira instância pelo suposto cometimento das condutas descritas no art. 129, §9º, do Código Penal, absolvendo-o quanto ao delito do art. 147, do CP, com fulcro no art. 386, VII, do CPP.
+Sustenta a impetrante, em síntese, que não houve fundamento idôneo para a valoração negativa das circunstâncias judiciais relativas à culpabilidade, à conduta social, aos motivos do crime e as circunstâncias do crime na primeira fase da dosimetria da pena.
+Requer, liminarmente e no mérito, que seja concedida a ordem para que seja reformado o acórdão que manteve a valoração negativa das circunstâncias judiciais e, por conseguinte, reduzir a pena-base.
+Por meio da decisão de fls. 297-298, o pedido liminar foi indeferido. Após, juntadas as informações prestadas pela origem e parecer do Ministério Público Federal, opinando pela concessão da ordem de habeas corpus de ofício (fls. 324-330).
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior (grifei):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+Portanto, a impetração não pode ser conhecida.
+Por outro lado, passo a analisar o objeto do habeas corpus sob a ótica da possibilidade de concessão da ordem de ofício.
+Consoante já relatado, a pretensão recursal volta-se para obter a reforma da sentença, com a consequente revisão da pena base, a fim de que seja minorada.
+Conforme se depreende da sentença proferida, a dosimetria da pena foi fundamentada, na primeira fase, da seguinte forma (fl. 117):
+ ..
+É penalmente imputável e agiu livre de influências que pudessem alterar sua potencial capacidade de conhecer a ilicitude de sua ação e de determinar-se de acordo com ela. Possui antecedentes que serão analisados posteriormente, para se evitar bis in idem. Sua conduta social é reprovável, pois têm envolvimento em outros delitos. Sua personalidade é comum. Os motivos do crime são reprováveis eis que envolve não aceitar o fim do relacionamento. Quanto as circunstâncias, verifico que o delito foi praticado na residência da vítima. As consequências do crime são as próprias do delito. O comportamento da vítima, pelo que consta nos autos, não facilitou a ação do réu. Em assim sendo, considerando que as circunstâncias judiciais são em maiorias desfavoráveis ao réu, fixo-lhe, a pena-base da pena privativa de liberdade em 05 (cinco) meses de detenção;
+ ..
+O Tribunal de Justiça, por sua vez, assim fundamentou o acórdão (fls. 269-271):
+ ..
+Inicialmente, concluo que o exercício da persuasão racional do magistrado levada a efeito, a partir dos elementos probatórios presentes nos autos, revelam que a sentença não está merecer reparo.
+Os critérios de fixação da pena base derivam da persuasão racional do Magistrado, com discricionariedade limitada aos elementos probatórios presentes nos autos.
+Portanto, o que se tem é que a valoração atribuída pelo Juízo primevo, quando da aplicação do art.59, do CP não desagua em ilegalidade manifesta ou desproporcionalidade flagrante, não se fazendo necessário o reparo visado pelo recorrente.
+ ..
+Assim, o cálculo de pena realizado na sentença se encontra em harmonia e coerência com os preceitos legais acima referenciados, refletindo aplicação proporcional e razoável destes, não havendo que se revisar para se reduzir a reprimenda corporal ao apelante.
+ ..
+Foram considerados, para a exasperação da pena-base, a existência de quatro circunstâncias judiciais negativas: culpabilidade, conduta social, motivos do crime e circunstâncias em que praticado.
+Considerando a pena final aplicada nessa fase da dosimetria, de 5 meses de detenção, tem-se que para cada circunstância judicial negativa, foi aplicada a exasperação de 15 dias, quantidade de pena proporcional e adequada ao crime.
+Em análise a cada circunstância judicial valorada de forma negativa, entendo que assiste razão do Ministério Público Federal.
+Isso porque, muito embora as circunstâncias judiciais relacionadas com os motivos do crime e as circunstâncias em que praticado tenham sido valoradas negativamente de forma concreta, o mesmo não ocorre em relação à análise da culpabilidade e conduta social.
+Veja-se que o fato de o réu ser penalmente imputável e ter agido livre de influências não possui qualquer relação com a culpabilidade, mas se refere a imputabilidade do agente.
+Em outras palavras, tais condições não importam em uma maior reprovabilidade do comportamento, mas sim na própria possibilidade de se responsabilizar criminalmente o réu.
+Também em relação à conduta social, inviável manter a exasperação, já que fundamentada no possível envolvimento do acusado com outros delitos, o que vai de encontro com a jurisprudência desta Corte, que nem sequer admite a valoração negativa nesse vetor quando existentes maus antecedentes.
+A propósito:
+RECURSO ESPECIAL ADMITIDO COMO REPRESENTATIVO DA CONTROVÉRSIA. JULGAMENTO SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. PENAL. DOSIMETRIA. ART. 59 DO CÓDIGO PENAL. UTILIZAÇÃO DE CONDENAÇÕES PENAIS PRETÉRITAS PARA VALORAR NEGATIVAMENTE A PERSONALIDADE E CONDUTA SOCIAL DO AGENTE. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1. No art. 59 do Código Penal, com redação conferida pela Lei n.º 7.209/1984, o Legislador elencou oito circunstâncias judiciais para individualização da pena na primeira fase da dosimetria, quais sejam: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias; as consequências do crime; e o comportamento da vítima.
+2. Ao considerar desfavoráveis as circunstâncias judiciais, deve o Julgador declinar, motivadamente, as suas razões, que devem corresponder objetivamente às características próprias do vetor desabonado. A inobservância dessa regra implica ofensa ao preceito contido no art. 93, inciso IX, da Constituição da República.
+3. A conduta social diz respeito à avaliação do comportamento do agente no convívio social, familiar e laboral, perante a coletividade em que está inserido. Conforme o Magistério de Guilherme de Sousa Nucci (in Código Penal Comentado, 18.ª ed. rev., atual. e ampl; Rio de Janeiro: Forense, 2017, p. 389), "conduta social não é mais sinônimo de antecedentes criminais. Deve-se observar como se comporta o réu em sociedade, ausente qualquer figura típica incriminadora".
+4. Rogério Greco diferencia detalhadamente antecedentes criminais de conduta social. Esclarece o Autor que o Legislador Penal determinou essa análise em momentos distintos porque "os antecedentes traduzem o passado criminal do agente, a conduta social deve buscar aferir o seu comportamento perante a sociedade, afastando tudo aquilo que diga respeito à prática de infrações penais". Especifica, ainda, que as incriminações anteriores "jamais servirão de base para a conduta social, pois abrange todo o comportamento do agente no seio da sociedade, afastando-se desse seu raciocínio seu histórico criminal, verificável em sede de antecedentes penais" (in Curso de Direito Penal, 18.ª ed., Rio de Janeiro: Impetus, 2016, p. 684).
+5. Quanto à personalidade do agente, a mensuração negativa da referida moduladora ""deve ser aferida a partir de uma análise pormenorizada, com base em elementos concretos extraídos dos autos  .. " (HC 472.654/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/2/2019, DJe 11/3/2019)" (STJ, AgRg no REsp 1918046/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/04/2021, DJe 19/04/2021).
+6. "São exemplos de fatores positivos da personalidade: bondade, calma, paciência, amabilidade, maturidade, responsabilidade, bom humor, coragem, sensibilidade, tolerância, honestidade, simplicidade, desprendimento material, solidariedade. São fatores negativos: maldade, agressividade (hostil ou destrutiva), impaciência, rispidez, hostilidade, imaturidade, irresponsabilidade, mau-humor, covardia, frieza, insensibilidade, intolerância (racismo, homofobia, xenofobia), desonestidade, soberba, inveja, cobiça, egoísmo.  .. . Aliás, personalidade distingue-se de maus antecedentes e merece ser analisada, no contexto do art. 59, separadamente" (NUCCI, Guilherme de Souza. Op. cit., p. 390).
+7. "A jurisprudência desta Suprema Corte (e a do Superior Tribunal de Justiça) orienta-se no sentido de repelir a possibilidade jurídica de o magistrado sentenciante valorar negativamente, na primeira fase da operação de dosimetria penal, as circunstâncias judiciais da personalidade e da conduta social, quando se utiliza, para esse efeito, de condenações criminais anteriores, ainda que transitadas em julgado, pois esse específico aspecto (prévias condenações penais) há de caracterizar, unicamente, maus antecedentes" (STF, RHC 144.337-AgR, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, julgado em 05/11/2019, DJe 22/11/2019).
+8. Em conclusão, o vetor dos antecedentes é o que se refere única e exclusivamente ao histórico criminal do agente. "O conceito de maus antecedentes, por ser mais amplo do que o da reincidência, abrange as condenações definitivas, por fato anterior ao delito, transitadas em julgado no curso da ação penal e as atingidas pelo período depurador, ressalvada casuística constatação de grande período de tempo ou pequena gravidade do fato prévio" (STJ, AgRg no AREsp 924.174/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/12/2016, DJe 16/12/2016).
+9. Recurso especial provido, para redimensionar a pena do Recorrente, nos termos do voto da Relatora, com a fixação da seguinte tese: Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente.
+(REsp n. 1.794.854/DF, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 23/6/2021, DJe de 1/7/2021, grifei)
+Assim, excluídas duas circunstâncias judiciais negativas, a pena deve ser redimensionada para 4 meses de detenção.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus, mas concedo a ordem de ofício para, excluídas as circunstâncias judiciais desfavoráveis relacionadas com a culpabilidade e conduta social, redimensionar a pena para 4 meses de detenção.
+Comunique-se, com urgência.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
