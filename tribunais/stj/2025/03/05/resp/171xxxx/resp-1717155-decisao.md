@@ -1,0 +1,12 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+De acordo com os autos, os ora recorridos interpuseram, em janeiro de 2014, agravo de instrumento contra decisão que indeferiu o pedido de antecipação dos efeitos da tutela na Ação Declaratória 3000171-10.2013.8.26.0111, em trâmite na 1ª Vara Cível da Comarca de Cajuru.
+No acórdão recorrido, publicado em 21/08/2014, o Tribunal de origem deu provimento ao agravo de instrumento, ao fundamento de estarem "presentes os requisitos aptos a suspender, por ora, a exigibilidade do referido TAC, devendo, no entanto, os agravantes se abster, de imediato, de intervir, de qualquer modo, nas áreas de preservação permanente e de reserva legal indicadas no requerimento endereçado à CBRN (fls. 192/193)" (fl. 308).
+Tendo em vista o tempo transcorrido desde a publicação do acórdão recorrido e o disposto nos arts. 10 e 77, I, do CPC, as partes foram intimadas a informar se a mencionada ação declaratória já teria julgada e se teriam interesse no julgamento deste agravo em recurso especial.
+O recorrente apresentou petição informando que a "ação declaratória ajuizada pelo Parquet na origem, que deu en sejo ao presente recurso especial ainda pendente de julgamento, transitou em julgado em 29 de julho de 2024", de modo que "houve a perda superveniente do interesse recursal, devendo o processo ser extinto, nos termos do artigo 485, VI, do CPC" (fl. 603).
+É o relatório. Decido.
+De fato, com a prolação de sentença, transitada em julgado, julgando a ação declaratória ajuizada pelos recorridos, houve a perda do objeto do recurso especial, que busca a reforma de acórdão que deferiu pedido de antecipação dos efeitos da tutela. Nesse sentido: AgInt no REsp n. 1.372.122/PB, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023; DESIS no AREsp n. 1.600.304/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/4/2021, DJe de 19/4/2021.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial, por perda superveniente do seu objeto.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
