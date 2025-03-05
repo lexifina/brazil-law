@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Minas Gerais, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 255):
+REMESSA NECESSÁRIA CONHECIDA DE OFÍCIO - ART. 19, DA LEI N. 4.717/1965 - APLICAÇÃO ANALÓGICA - RECURSO DE APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - PROTEÇÃO AO MEIO AMBIENTE - INTERVENÇÃO EM ÁREA DE RESERVA FLORESTAL - DANO AMBIENTAL - CONSTATAÇÃO - POSSIBILIDADE DE RECUPERAÇÃO NATURAL - VALOR PECUNIÁRIO DO DANO - AUSÊNCIA - INDENIZAÇÃO EM DINHEIRO - DECABIMENTO - SENTENÇA REFORMADA EM PARTE.
+- Está sujeita à remessa necessária a sentença que concluir pela carência ou pela improcedência de ação civil pública, com base na aplicação analógica da primeira parte do art. 19 da Lei de Ação Popular.
+- Conforme preleciona o art. 225 da CF/88, todos têm direito ao meio ambiente ecologicamente equilibrado, impondo-se ao Poder Público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações.
+- Constata a ocorrência de dano ambiental proveniente de intervenção em área de reserva florestal, deve o responsável ser condenado a reconstituir o patrimônio ambiental lesado.
+- O Colendo Superior Tribunal de Justiça tem entendimento consolidado de que é possível a cumulação de obrigações de fazer, de não fazer e de indenizar nos casos que envolvam lesão ao meio ambiente. Porém, deve se aferir no caso concreto a necessidade de cumprimento da obrigação de pagar quantia.
+- Nesse sentido, não há que se falar na condenação em pagamento de indenização no caso de ausência de valoração dos referidos danos ambientais em pecúnia, além de restar comprovada a possibilidade de recuperação natural da área degradada.
+Os embargos de declaração foram rejeitados às fls. 285-290.
+O recorrente sustenta preliminarmente ofensa ao artigo 1.022, II, do CPC, ao argumento de que requereu indenização pelo dano interino ao meio ambiente, ainda que a área degradada esteja em estágio de regeneração, mas a Corte de origem não tratou do tema. No mérito, argumenta que o acórdão recorrido violou os artigos 4º, VII, e 14, § 1º, da Lei n. 6.938/1981, pois o Órgão julgador a quo não acolheu o pedido de indenização pecuniária pelo dano ao meio ambiente ocorrido entre a lesão e a sua integral reparação.
+Sem contrarrazões.
+Parecer do Ministério Público Federal pelo não provimento do recurso, nos seguintes termos (fl. 327):
+RECURSO ESPECIAL. NÃO É ADMISSÍVEL O RECURSO ESPECIAL QUANDO IDENTIFICADA A DEFICIÊNCIA NA FUNDAMENTAÇÃO. ORIENTAÇÃO DO TRIBUNAL DE ORIGEM QUE SE ADEQUA À ORIENTAÇÃO DO STJ. REANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO RECORRIDA FUNDADA EM MAIS DE UM FUNDAMENTO BASTANTE PARA SUSTENTAR A DECISÃO ATACADA. REANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. PARECER PELO NÃO PROVIMENTO.
+É o relatório. Decido.
+O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Na origem, cuida-se de ação civil pública ajuizada pelo Ministério Público do Estado de Minas Gerais contra o réu, ora recorrido, em razão de desmatamento irregular de vegetação nativa em reserva legal na Fazenda Samambaia, que está contida no Bioma Mata Atlântica.
+Segundo consta no acórdão recorrido, a sentença julgou parcialmente procedente a ação, conforme se colhe da seguinte passagem (fl. 250):
+A sentença julgou parcialmente procedentes os pedidos iniciais, confirmando a liminar concedida (Id. 1949894883) para:
+I) Condenar o réu à obrigação de fazer consistente em não mais intervir no imóvel denominado "Fazenda Samambaia", situado na Zona Rural do Município de Águas Vermelhas/MG, de forma ilegal, especialmente em área remanescente do Bioma da Mata Atlântica, conforme coordenadas indicadas no B.O. que acompanha a inicial;
+II) Condenar o réu à obrigação de fazer consistente em recuperar a área degradada, conforme coordenadas indicadas no B.O, devendo elaborar PTRF - Projeto de Reconstituição da Flora, acompanhado do respectivo cronograma de execução, bem como do ART - Anotação de Responsabilidade Técnica, a ser submetido ao órgão ambiental competente, no prazo de 180 dias, e implementar o PTRF conforme aprovação do órgão ambiental.
+Em caso de descumprimento das obrigações acima fixadas, arbitrou multa diária no valor de R$500,00, limitada a R$50.000,00.
+Condenou o réu ao pagamento das custas e despesas processuais.
+Sem condenação em honorários de sucumbência por figurar o Ministério Público no polo ativo da demanda.
+Por conseguinte, extinguiu o processo, com resolução de mérito, nos termos do art. 487, inciso I, do CPC.
+A indenização pecuniária, por sua vez, não foi acolhida pela Corte de origem. Parte da fundamentação que afasta o pedido informa que a vegetação está em estágio inicial de regeneração, razão pela qual não é o caso de indenização em dinheiro (fl. 263).
+Feita essa síntese, passa-se ao exame do apelo especial.
+O recorrente pretende, preliminarmente, a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração, sob o argumento de que remanesce omissão quanto à fixação do dano ambiental interino.
+É dizer, questionou em sede de apelação (fl. 199) a necessidade de se fixar a compensação financeira entre o período em que o meio ambiente foi privado de seus atributos até a recuperação total da área degradada. Essa indagação foi renovada em sede de embargos de declaração (fl. 276), todavia a Corte de origem não se manifestou a respeito.
+Com efeito, a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, II, do CPC, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido em sede de embargos de declaração, a fim de que a Corte de origem se manifeste sobre o pedido e a existência de dano ambiental interino.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. OFENSA AO ART. 1.022, II, DO CPC. INDAGAÇÃO A RESPEITO DA OCORRÊNCIA DE DANO AMBIENTAL INTERINO. OMISSÃO CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
