@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. PROPORCIONALIDADE. SUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à segregação cautelar, é necessária a fundamentação concreta, sob as balizas do art. 312 do CPP.
+2. O Magistrado de primeiro grau embasou sua decisão em elementos concretos e idôneos - ao fazer menção a o risco de reiteração delitiva, deduzida a partir do registro de condenação anterior pela prática do mesmo delito (término da execução há mais de 5 anos) -, mas não demonstrou, satisfatoriamente, a insuficiência de outras medidas menos gravosas que a prisão preventiva.
+3. A despeito da reprovabilidade social do comportamento atribuído ao réu, os fatos de a conduta a ele imputada ser desprovida de violência ou grave ameaça e de ele ser réu primário se afiguram justificativas bastantes pelas quais se torna proporcional a imposição de medidas alternativas à custódia preventiva.
+4 . Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agrava da decisão de fls. 359-369, em que concedi parcialmente a ordem de habeas corpus para substituir a prisão preventiva do acusado por medidas cautelares alternativas.
+Em suas razões, o Parquet sustenta que "a segregação cautelar do agravado, a partir do contexto fático dos autos, se encontra devidamente razoável e proporcional para se resguardar a ordem pública, diante da gravidade concreta do delito" (fl. 379).
+Requer seja reconsiderada a decisão ou submetido o feito ao órgão colegiado, a fim de que seja restabelecida a segregação cautelar do acusado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. PROPORCIONALIDADE. SUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à segregação cautelar, é necessária a fundamentação concreta, sob as balizas do art. 312 do CPP.
+2. O Magistrado de primeiro grau embasou sua decisão em elementos concretos e idôneos - ao fazer menção a o risco de reiteração delitiva, deduzida a partir do registro de condenação anterior pela prática do mesmo delito (término da execução há mais de 5 anos) -, mas não demonstrou, satisfatoriamente, a insuficiência de outras medidas menos gravosas que a prisão preventiva.
+3. A despeito da reprovabilidade social do comportamento atribuído ao réu, os fatos de a conduta a ele imputada ser desprovida de violência ou grave ameaça e de ele ser réu primário se afiguram justificativas bastantes pelas quais se torna proporcional a imposição de medidas alternativas à custódia preventiva.
+4 . Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+O paciente foi preso em flagrante, no dia 17/7/2024, na posse de 76,11g de maconha, 1,15g de crack e 147,8g de cocaína. O Magistrado de primeira instância decretou a prisão preventiva ao ressaltar o seguinte (fls. 65-67, grifei):
+Com posterior vista dos autos (ID: 10267409735), o Ministério Público requereu a homologação da do conduzido, alegando terem sido preenchidas as condições legais para a sua prisão em flagrante realização.
+Em seguida, requereu a com a aplicação de medidas cautelares concessão da liberdade provisória, alternativas à prisão, sob o fundamento de que as informações obtidas não revelam a presença dos requisitos elencados nos artigos 312 e 313 do CPP, sendo suficiente a concessão da liberdade provisória.
+ ..
+Analisando as CACs de IDs: 10267131266 e 10267118172, embora não se constate a reincidência, observa-se que o conduzido foi condenado à pena de 07 (sete) anos de reclusão, pelo crime de tráfico de droga, tendo alcançado o término da execução de pena há 05 anos e 01 mês, aproximadamente (11/06/2019).
+Ao contrário do que sustentou o Ministério Público, embora o conduzido seja tecnicamente primário, o contexto dos fatos, em conjunto com as informações carreadas aos autos, me permitem visualizar o perigo gerado pela liberdade do conduzido (periculum libertatis).
+Quanto aos requisitos do artigo 312 do CPP, tenho que a segregação cautelar do réu conferirá proteção à ordem pública na medida em que, ao menos em três oportunidades, o conduzido viu-se envolvido em ocorrências de tráfico de drogas, onde em uma delas restou constatada a efetiva prática delitiva, justificadando-se a sua condenção, situação esta que se soma às diversas denúncias anônimas realizada por cidadãos locais, bem como evidenciado pelo setor de inteligência da Polícia Militar (65º BPM).
+De igual forma, tenho como necessária a segregação cautelar para garantia da aplicação da lei penal.
+Ter sido condenado à elevada pena (07 anos de reclusão) bem como tendo cumprido árduo caminho na execução penal até alcançar a sua liberdade não foram situações suficientes a afastar o denunciado de nova conduta tida como criminosa, pelo que, após isso, e como dito, já se viu envolvido em, pelo menos, mais duas oportunidades em que se alega transgressão ao artigo 33 da Lei 11.343/06.
+Esta constatação, inclusive, mostra-se em contraponto à alegação ministerial de ausência das hipóteses do artigo 312 do CPP.
+Em relação aos requisitos objetivos do artigo 313 do CPP, embora desaparecida a reincidência, permanece a prática de crime cuja pena máxima transborada os mencionads 04 anos de privação de liberdade(artigo 313, inciso I do CPP),condição suficiente ao declínio da aplicação da medida última.
+Em suma, restou demonstrada a reiteração delitiva do réu, sobretudo em razão da mesma prática criminosa, o que justifica a sua segração (sic).
+O Tribunal de origem ratificou a decisão de primeiro grau.
+Na decisão agravada, assentei que, quanto à validade da prisão, a jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à segregação cautelar, é necessária a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Com efeito, registrei que o Juízo singular embasou sua decisão em elementos concretos e idôneos - notadamente o risco de reiteração delitiva, deduzida a partir do registro de condenação anterior pela prática do mesmo delito (término da execução há mais de 5 anos) -, mas não demonstrou, satisfatoriamente, a insuficiência de outras medidas menos gravosas que a preventiva.
+Assim, as circunstâncias apresentadas, por si sós, não poderiam ensejar a imposição da prisão preventiva se outras medidas menos invasivas se mostram suficientes e idôneas para os fins cautelares, especialmente para o objetivo de evitar a prática de novas infrações penais (art. 282, I, CPP).
+Embora não se ignorem os efeitos deletérios do crime de tráfico de drogas, bem como o caráter de hediondez da presente ação ilícita, o fato de não haver menção à apreensão de elevada quantidade de drogas ou de outras circunstâncias concretas que pudessem indicar a necessidade da medida extrema, bem como a conduta imputada ao paciente ser desprovida de violência ou grave ameaça e sua condição de primariedade, a meu ver, se afiguram justificativas bastantes pelas quais se torna proporcional a imposição de medidas alternativas à custódia preventiva para fazer jus à efetividade acauteladora penal no caso sub judice.
+Assevero que a providência mais gravosa deve ser adotada como ultima ratio para fins de preventiva efetividade penal, razão pela qual se exigem intervenções e atitudes mais ousadas das autoridades, inclusive do Poder Judiciário, a fim de fortalecer, sobremaneira, o princípio da não culpabilidade e eleger, com primazia, medidas alternativas à prisão processual, com o propósito de não agravar a precariedade do sistema penitenciário.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
