@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por CONSÓRCIO INTERVIAS., contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA Decisão agravada determinou a inclusão de Malex Comercial de Peças, Acessórios e Mecânica Ltda. EPPM e LM Comercial Mecânica e Transportes Eireli nos autos do incidente de desconsideração da personalidade jurídica - Não demonstrado a configuração do grupo econômico Não comprovado o preenchimento dos requisitos para a desconsideração da personalidade jurídica RECURSO DA REQUERIDA IMPROVIDO
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 135-137.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 1022 do CPC/2015 e 50 do Código Civil. Sustenta, em síntese, que: a) há omissão no acórdão estadual; e b) os requisitos para a desconsideração da personalidade estão presentes no caso, devendo ser deferida.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. TJ-SP analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Noutro ponto, quanto aos requisitos para a desconsideração da personalidade jurídica, o Tribunal de origem assim decidiu a controvérsia:
+"Certo que a eventual evidência de confusão patrimonial entre pessoas jurídicas é apta a permitir, em tese, a desconsideração indireta da personalidade jurídica (para possibilitar a expropriação de bens das empresas integrantes de grupo econômico que se vale dessa condição para eludir credores).
+Porém, as fichas cadastrais (fls.27/30 e 34/35 dos autos originários) demonstram que constituída a empresa Malex Comercial em 20 de novembro de 1996, pelos então sócios Mauro e Alexandre (que são irmãos), o que, a princípio, justifica a utilização do termo "Malex" (junção das primeiras sílabas dos nomes dos sócios) no nome empresarial e a utilização do antigo endereço de uma empresa por outra, destacando-se que constituída a empresa Malex Transportadora (Executada) somente em 05 de dezembro de 2005, pelos então sócios Alexandre e Liliana, com a saída de Alexandre do quadro societário da empresa Malex Comercial após cinco meses (em 09 de maio de 2006 mais de dois anos antes do acidente que funda a ação de regresso).
+Logo, a ordem cronológica de constituição das empresas e os objetos sociais tornam verossímil a alegação da Agravante de que "a saída do sócio Alexandre se deu porque este almejava voos mais altos, o que não houve a concordância com Mauro, que quis continuar no ramo de conserto de peças" (fls.12), ressaltando-se que a existência de múltiplas empresas titularizadas por membros da mesma família não é suficiente para o reconhecimento do intuito de fraudar credores.
+Assim, as alegações de que o antigo sócio da Empresa Malex Comercial (Alexandre Pinto Baumgartner) integra o atual quadro societário da Executada Malex Transportes e de que as empresas exercem atividades similares com o nome empresarial "Malex" não demonstram, por si, a configuração do pretenso grupo econômico, e tampouco comprovam a confusão patrimonial salientando-se que inexiste prova de transferência de bens ou execução de contratos de uma empresa por outra, bem como que as empresas têm quadros societários diversos desde 2006.
+Ademais, observo que incumbe ao Exequente, quando da apresentação do pedido de desconsideração, "demonstrar o preenchimento dos pressupostos legais específicos para desconsideração da personalidade jurídica", nos termos do artigo 134, parágrafo quarto, do Código de Processo Civil, o que não ocorreu.
+Dessa forma, porque não comprovado o preenchimento dos requisitos para a desconsideração da personalidade jurídica, de rigor o provimento do recurso.
+Ante o exposto, dou provimento ao recurso, para afastar a decisão agravada, quanto ao deferimento do pedido de desconsideração da personalidade jurídica da empresa "Malex Comercial de Peças, Acessórios e Mecânica Ltda."."
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu pela impossibilidade de desconsideração da personalidade jurídica, "porque não comprovado o preenchimento dos requisitos para a desconsideração da personalidade jurídica"
+Nesse contexto, a pretensão de modificar o entendimento firmado demandaria o revolvimento da acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ, pelas alíneas "a" e "c" do permissivo constitucional. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PRECLUSÃO DE MATÉRIAS. EFEITO INTER PARTES. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. ABUSO DA PERSONALIDADE JURÍDICA. AUSÊNCIA. REEXAME. SÚMULA 7/STJ. HONORÁRIOS DE SUCUMBÊNCIA NO INCIDENTE PROCESSUAL. DESCABIMENTO. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. No caso, o Tribunal de origem rejeitou o pedido de desconsideração da personalidade jurídica, anotando que os negócios jurídicos de compra e venda de quotas sociais da empresa executada, imputados ao recorrido, não revelaram "ânimo deliberado de provocar lesão e nem se apura o propósito de ludibriar", motivo pelo qual não se verifica o desvio de finalidade. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. "A condenação a verba honorária é incabível em incidente de desconsideração de personalidade jurídica, ante a ausência de previsão legal específica" (AgInt no REsp 1.930.160/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 22/4/2024, DJe de 24/4/2024).
+4. Agravo interno provido para, em novo julgamento, conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 2.565.565/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/10/2024, DJe de 22/10/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. REEXAME. SÚMULAS N. 7 E 83/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Acórdão de origem que está em conformidade com a jurisprudência do Superior Tribunal de Justiça. Aplicação do verbete n. 83 da Súmula.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.460.949/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/8/2024, DJe de 14/8/2024.)
+Com essas considerações, conclui-se que o recurso não comporta provimento.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
