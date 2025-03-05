@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. EXIGÊNCIA NÃO FUNDAMENTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Deve ser mantida a decisão agravada, que reconheceu a inobservância da Súmula n. 439 do STJ, uma vez que o Juiz da VEC determinou o exame criminológico para fins de progressão de regime com base na gravidade do crime e no tempo de pena a cumprir, inidôneos para justificar tal medida.
+2. O Magistrado examinou o incidente na vigência da Lei n. 14.843/2024, mas não aplicou retroativamente o art. 112, § 1º, da Lei de Execução Penal à execução em curso. Assim, no julgamento do habeas corpus, não é possível acrescentar fundamento e aplicar a nova legislação com o intuito de corrigir a ilegalidade apontada pela defesa e legitimar a decisão que restringiu indevidamente o direito de locomoção do condenado.
+3. Agravo regimental não provido.
+RELATÓRIO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe agravo regimental contra a decisão de fls. 59-61, que concedeu a ordem de habeas corpus para afastar a exigência do exame criminológico para a análise do pedido de progressão de regime.
+Para o agravante, o art. 112, § 1º, da Lei de Execução Penal tem aplicação imediata às execuções de pena em curso e, por esse motivo, deve ser mantida a decisão de primeiro grau.
+Busca, portanto, que seja revogada "a ordem de habeas corpus concedida" (fl. 74).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. EXIGÊNCIA NÃO FUNDAMENTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Deve ser mantida a decisão agravada, que reconheceu a inobservância da Súmula n. 439 do STJ, uma vez que o Juiz da VEC determinou o exame criminológico para fins de progressão de regime com base na gravidade do crime e no tempo de pena a cumprir, inidôneos para justificar tal medida.
+2. O Magistrado examinou o incidente na vigência da Lei n. 14.843/2024, mas não aplicou retroativamente o art. 112, § 1º, da Lei de Execução Penal à execução em curso. Assim, no julgamento do habeas corpus, não é possível acrescentar fundamento e aplicar a nova legislação com o intuito de corrigir a ilegalidade apontada pela defesa e legitimar a decisão que restringiu indevidamente o direito de locomoção do condenado.
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+A Lei n. 10.792/2023 estabeleceu que o exame criminológico deixou de ser exigência obrigatória para a progressão de regime, mas não excluiu ou proibiu sua realização. Assim, esta Corte passou a reconhecer que o legislador tornou facultativa e condicionada à decisão judicial a determinação do exame, apenas quando fundamentada a sua necessidade. Nesse sentido foram editadas as Súmulas Vinculante n. 26 e n. 439 do STJ.
+No caso em análise, o Juiz da VEC avaliou a situação do apenado considerando a Lei n. 10.792/2023, sem fazer referência à Lei n. 14.843/2024 nem aplicar à execução em curso o art. 112, § 1º, da Lei de Execução Penal, que estabelece: "em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+Foi ilegal a exigência do exame criminológico sem a indicação de fatos concretos que justificassem tal medida e não é possível acrescentar fundamentação (aplicação da lei penal mais gravosa) em habeas corpus para legitimar a decisão de primeiro grau, sob pena de agravar, de forma indireta, a situação do apenado.
+Deveras, é incabível o acréscimo de fundamento, em habeas corpus, para corrigir a ilegalidade apontada pela defesa e legitimar a falta de motivação da decisão constritiva ao direito de locomoção do condenado. Com efeito:
+ ..  A jurisprudência desta Corte Superior é firme em assinalar que o acréscimo de fundamentos na via do habeas corpus, pelo Tribunal local, não se presta a suprir a ausente motivação do Juízo natural, sob pena de, em ação concebida para a tutela da liberdade humana, legitimar-se o vício do ato constritivo ao direito de locomoção do paciente.
+ ..
+(AgRg no HC n. 903.795/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.
+A resolução do habeas corpus, portanto, considerou a legislação utilizada pelo Juiz da VEC no caso concreto, no processo originário. O Magistrado não aplicou o art. 112, § 1º, da LEP, e a decisão transitou em julgado para o Ministério Público. Era dever da autoridade judicial explicitar o seu convencimento quanto à necessidade do exame criminológico, o que não ocorreu.
+A decisão de fls. 34-35, nos moldes em que foi prolatada, violou a Súmula n. 439 do STJ, pois é ilegal a indicação da "gravidade abstrata do delito pelo qual foi o paciente condenado, sem que em nenhum momento se fizesse referência a elementos atuais e concretos colhidos no decorrer da execução criminal" (AgRg no HC n. 792.891/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/6/2023, DJe de 3/7/2023).
+Embora o juiz tenha argumentado que o "sentenciado cumpre pena por crime hediondo, cometido mediante violência ou grave ameaça à pessoa e possui considerável período de pena por cumprir" (fl. 34), a gravidade abstrata dos delitos e a longa pena não justificam a determinação do exame criminológico. Essa exigência não foi fundada em fatos relacionados à execução penal, que revelassem alguma dúvida sobre a capacidade de adaptação do reeducando ao regime mais brando.
+Portanto, deve ser mantida a concessão da ordem. Aplica-se ao caso o entendimento de que:
+ ..  A teor da Súmula n. 439 deste Superior Tribunal, admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+2. As instâncias ordinárias não fundamentaram de maneira idônea a necessidade da perícia, pois, a teor dos precedentes desta Corte, a gravidade abstrata do crime objeto da execução  ..  e a mínima vigilância do regime prisional aberto não são aspectos negativos relacionados à execução penal, a denotar a necessidade de aferição mais minuciosa do mérito subjetivo do apenado.
+3. Agravo regimental não provido" (AgRg no RHC 116.291/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/09/2019, DJe 30/09/2019; sem grifos no original.)
+ ..  Na hipótese, o Tribunal a quo entendeu pela necessidade de realização de exame criminológico em razão da reincidência do Apenado, da gravidade abstrata do delito (homicídio) e da longa pena a cumprir. Todavia, nos termos da jurisprudência desta Corte Superior, fundamentos abstratos e genéricos, como os apresentados pela Corte de origem, não justificam a exigência de exame criminológico, bem como a análise do preenchimento do requisito subjetivo somente poderá fundar-se em fatos praticados durante a execução penal.
+2. Agravo regimental desprovido." (AgRg no HC 544.604/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020).
+À vista do exposto, nego provimento ao agravo regimental.
