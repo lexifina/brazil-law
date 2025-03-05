@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas cor pus interposto em face de acórdão assim ementado:
+EMENTA: "HABEAS CORPUS" - TRÁFICO DE DROGAS - SENTENÇA CONDENATÓRIA - DIREITO DE RECORRER EM LIBERDADE - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA PREVENTIVA - GARANTIA DA ORDEM PÚBLICA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. Apontados elementos concretos que evidenciam a imprescindibilidade da decretação da custódia preventiva para a garantia da ordem pública, notadamente em razão da reiteração criminosa do paciente, não há nenhum constrangimento ilegal a ser sanado pela via eleita.
+O recorrente foi condenado, pela prática do delito previsto no artigo 33, caput, c/c artigo 40, III, ambos da Lei nº 11.343/06, às penas de 06 anos, 02 meses e 20 dias de reclusão, em regime fechado, e 625 dias-multa.
+A defesa alega, em síntese, a ausência dos requisitos que autorizam a custódia cautelar e a inexistência de fundamentação idônea para o decreto preventivo.
+Requer o provimento de liminar e confirmação no mérito para revogar o decreto de prisão cautelar, concedendo ao recorrente o direito de recorrer em liberdade, com a substituição da prisão preventiva por medidas cautelares diversas, nos termos do art. 319 do CPP (e-STJ fl. 196).
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação (e-STJ fl. 178-181):
+Li atentamente as razões da impetração, as informações prestadas, a documentação acostada, o parecer da Procuradoria-Geral de Justiça e entendo que a ordem, neste quesito, deve ser denegada, pelos motivos que passo a expor.
+Como é cediço, a ação de impugnação (Habeas Corpus) não se destina a analisar o mérito de uma sentença ou a empreender um exame acurado e minucioso das provas constantes dos autos. É medida urgente, de cognição sumária, para fazer cessar uma coação ou abuso à liberdade de ir, vir e ficar. Assim, por não comportar dilação probatória, a liberdade somente pode ser restituída, por esta estreita via, quando evidenciado o constrangimento ilegal.
+Pois bem.
+Conforme dispõe o artigo 312 do Código de Processo Penal "A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.".
+No presente caso, verifica-se que o capítulo decisório que negou ao paciente o direito de recorrer em liberdade se funda em elementos concretos, aptos a subsidiar a custódia cautelar, tendo a douta autoridade coatora consignado que os requisitos para manutenção da preventiva estavam presentes, notadamente em razão de sua reiteração delitiva, vez que possui registros criminais desde a menoridade, inclusive pela prática de atos infracionais análogos ao tráfico de drogas.
+A respeito da possibilidade de decretação da prisão preventiva com fundamento em atos infracionais anteriores já decidiram os Tribunais Superiores:
+(..)
+Pelas mesmas razões, verifico que é incabível, in casu, a substituição da prisão do paciente por alguma outra medida cautelar, conforme disposto no artigo 282, § 6º, do Código de Processo Penal, pois, além de estarem presentes os requisitos do artigo 312 do CPP, as circunstâncias concretas acima narradas demonstram a inadequação de tais medidas ao caso concreto.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu pela manutenção da custódia cautelar do recorrente considerando que os requisitos para manutenção da preventiva estavam presentes, notadamente em razão de sua reiteração delitiva, vez que possui registros criminais desde a menoridade, inclusive pela prática de atos infracionais análogos ao tráfico de drogas.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Ante o exposto, nego pr ovimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
