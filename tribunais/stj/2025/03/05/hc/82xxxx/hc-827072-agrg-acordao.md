@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. BIS IN IDEM. INOCORRÊNCIA. CONTINUIDADE DELITIVA. TRÂNSITO EM JULGADO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora não esteja prevista expressamente na Constituição Federal de 1988, a garantia do ne bis in idem é um limite ao poder estatal, derivada da coisa julgada (CF, art. 5º, XXXVI) e decorrente de compromissos internacionais assumidos pelo Brasil, como a Convenção Americana de Direitos Humanos (art. 8º, n. 4) e o Pacto Internacional sobre Direitos Civis e Políticos (art. 14, n. 7).
+2. No caso, a inexistência de bis in idem entre os fatos fora devidamente demonstrada pelas instâncias de origem, dissociando cada uma das condutas do paciente, sendo certo que o reexame das circunstâncias fáticas implicaria revisão do conjunto probatório dos autos, o que é inviável na via estreita do habeas corpus.
+3. Quanto à continuidade delitiva, não se vislumbra ilegalidade, tendo em vista a competência do juízo da execução para analisar a matéria, em razão do trânsito em julgado (Nesse sentido: AgRg no AREsp n. 1.493.043/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/5/2020; AgRg no AREsp n. 1.181.721/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 27/4/2018.RHC n. 29.646/RJ, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/10/2015).
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto CRISTIAN LUCAS TOMAZINI GARCIA contra decisão de e-STJ fls. 101/104, por meio da qual deneguei a ordem de habeas corpus.
+Depreende-se dos autos que o agravante fora definitivamente condenado pela prática de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06) às penas de 7 (sete) anos de reclusão e 700 (setecentos) dias-multa.
+Irresignada, a Defesa ajuizou revisão criminal, objetivando "reconhecer a conexão entre os fatos e anular a condenação proferida nos autos nº 0900176-85.2017.8.12.0021, da 2ª Vara Criminal de Três Lagoas-MS, os quais deveriam ser julgados no processo nº 0003184.95-2017.8.12.0021, também da 2ª Vara Criminal de Três Lagoas-MS, em continuidade delitiva, nos termos do art. 71, do Código Penal."
+Sustentou que "O Paciente foi preso em suposto flagrante pelo processo n. 0003184.95-2017.8.12.0021 no dia 06/04/2017. Ocorre que, após a prisão em flagrante e consequente denúncia no processo n. 0003184.95-2017.8.12.0021, da 2ª Vara Criminal de Três Lagoas-MS, o Ministério Público ofereceu nova denúncia, nos autos n. 0900176- 85.2017.8.12.0021, também da 2ª Vara Criminal de Três Lagoas-MS, por fatos diretamente conexos àqueles apurados na primeira ação penal (0003184.95- 2017.8.12.0021), evidenciando flagrante bis in idem. Inclusive, as duas denúncias citam a mesma investigação e os mesmíssimos fatos, restando evidente que, de modo estratégico, foram instaurados dois processos para apreciar um mesmo contexto fático."
+O tribunal de origem não conheceu da revisão criminal (e-STJ fls. 317/323).
+No habeas corpus impetrado perante esta Corte Superior pediu "seja concedida a ordem de habeas corpus para reconhecer a continuidade delitiva entre os crimes de tráfico praticados durante a associação, anulando-se a condenação decorrente dos autos n. 0900176-85.2017.8.12.0021, da 2ª Vara Criminal de Três Lagoas-MS".
+Nesta oportunidade, a defesa reitera a existência de constrangimento pessoal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. BIS IN IDEM. INOCORRÊNCIA. CONTINUIDADE DELITIVA. TRÂNSITO EM JULGADO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora não esteja prevista expressamente na Constituição Federal de 1988, a garantia do ne bis in idem é um limite ao poder estatal, derivada da coisa julgada (CF, art. 5º, XXXVI) e decorrente de compromissos internacionais assumidos pelo Brasil, como a Convenção Americana de Direitos Humanos (art. 8º, n. 4) e o Pacto Internacional sobre Direitos Civis e Políticos (art. 14, n. 7).
+2. No caso, a inexistência de bis in idem entre os fatos fora devidamente demonstrada pelas instâncias de origem, dissociando cada uma das condutas do paciente, sendo certo que o reexame das circunstâncias fáticas implicaria revisão do conjunto probatório dos autos, o que é inviável na via estreita do habeas corpus.
+3. Quanto à continuidade delitiva, não se vislumbra ilegalidade, tendo em vista a competência do juízo da execução para analisar a matéria, em razão do trânsito em julgado (Nesse sentido: AgRg no AREsp n. 1.493.043/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/5/2020; AgRg no AREsp n. 1.181.721/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 27/4/2018.RHC n. 29.646/RJ, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/10/2015).
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não assiste razão ao agravante, uma vez que não trouxe novos argumentos suficientes para modificar a decisão ora agravada.
+Com efeito, embora não esteja prevista expressamente na Constituição Federal de 1988, a garantia do ne bis in idem é um limite ao poder estatal, derivada da coisa julgada (CF, art. 5º, XXXVI) e decorrente de compromissos internacionais assumidos pelo Brasil, como a Convenção Americana de Direitos Humanos (art. 8º, n. 4) e o Pacto Internacional sobre Direitos Civis e Políticos (art. 14, n. 7).
+No caso, o Tribunal de origem rechaçou a tese de bis in idem pelos seguintes fundamentos (e-STJ 320/321):
+"Verifico que o requerente foi condenado pela prática do delito descrito no artigo 33, caput , da Lei 11.343/2006, nos seguintes processos:
+Autos n. 0900176-85.2017.8.12.0021 Fato: 21/2/2017 - Três Lagoas "ter em depósito" na residência de Lucas da Silva Cardoso- Rua Manoel Jorge, 2.498 - Bairro Santos Dumont 5 porções de cocaína (20,6 gramas) 1 tablete de crack ( 249 gramas)
+Autos n. 0001649-34.2017.8.12.0021 Fato: 22/2/2017 - Três Lagoas "ter em depósito" na residência de Douglas Maxsuel Oliveira de Lima -Rua José Pinto Carriço, 635 -Bairro Santos Dumont 1 tablete de maconha (305 gramas) 7 tabletes de cocaína 6,725kg (6 quilos e 725 gramas)
+Autos n. 0003184-95.2017.8.12.0021 Fato: 6/4/2017 - Três Lagoas "ter em depósito" na residência localizada à Rua Elvírio Mário Mancini, 2.302, Bairro São Jorge. 11 tabletes de crack (11 quilos e 135 gramas)
+Inicialmente se destaca que o requerente foi condenado pela prática de tráfico de drogas em dias e locais distintos, não havendo múltiplas condenações pelo mesmo fato.
+(..)
+Registre-se que a questão de eventual bis in idem já havia sido rechaçada: 1) Autos n. 0004511-41.2018.8.12.0021- Exceção de Litispendência: alegação de bis in idem entre os processos 0900176-85.2017.8.12.0021 e 0003184- 95.2017.8.12.0021 julgada improcedente, sem recurso. 2) Apelação Criminal n. 0001649-34.2017.8.12.0021 -alegação de bis in idem em relação ao processo 0900176-85.2017.8.12.0021: "Inexiste bis in idem ou litispendência com processo diverso se, embora verificada a semelhança no modus operandi, as práticas criminosas são autônomas, com datas, comparsas e fatos criminosos em si diversos, o que serve apenas para comprovar a contumácia do apelante nos seus intentos delituosos.(TJMS; A Cr 0001649-34.2017.8.12.0021; Terceira Câmara Criminal; Rel. Des. Jairo Roberto de Quadros; DJMS 27/10/2020; Pág. 120)".
+Conforme anteriormente consignado, a inexistência de bis in idem entre os fatos fora devidamente demonstrada pelas instâncias de origem, dissociando cada uma das condutas do paciente, sendo certo que o reexame das circunstâncias fáticas implicaria revisão do conjunto probatório dos autos, o que é inviável na via estreita do habeas corpus.
+Por fim, quanto à continuidade delitiva, não se vislumbrou ilegalidade, tendo em vista a competência do juízo da execução para analisar a matéria, em razão do trânsito em julgado (Nesse sentido: AgRg no AREsp n. 1.493.043/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/5/2020; AgRg no AREsp n. 1.181.721/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 27/4/2018.RHC n. 29.646/RJ, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/10/2015).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
