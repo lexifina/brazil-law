@@ -1,0 +1,16 @@
+DECISÃO
+ELIAS DO NASCIMENTO MARTINS alega ser vítima de coação ilegal em decorrência de condenação imposta pelo Juízo da 1ª Vara Federal da Seção Judiciária do Espírito Santo, nos autos da Ação Penal n. 0009470-51.2007.4.02.5001
+Consta dos autos que o paciente foi condenado a 5 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 297, caput, do Código Penal.
+A Defensoria Pública da União, depois de manifestação do próprio paciente, formalizou pedido de nulidade da condenação, sob o fundamento de que os delegados federais responsáveis pela investigação haveriam praticado crime de prevaricação. Sustenta que a pessoa considerada vítima deveria figurar como codenunciada, uma vez que tinha conhecimento da falsificação do visto americano e do passaporte.
+Como pedido subsidiário, requer a redução da pena mediante reanálise das condições judiciais previstas no art. 59 do Código Penal.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do habeas corpus (fls. 115-118).
+Decido.
+Este habeas corpus se insurge contra sentença proferida pelo Juízo da 1ª Vara Federal da Seção Judiciária do Espírito Santo.
+O paciente sugere haver interposto recurso de apelação contra a sentença perante o Tribunal Regional Federal da 2ª Região. No entanto, não foi possível localizar nenhum registro do julgamento deste recurso, seja nos autos, seja mediante consulta ao sistema processual do tribunal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
