@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EQUATORIAL GOIÁS DISTRIBUIDORA DE ENERGISA S/A contra decisão exarada pela il. Vice-Presidência do eg. Tribunal de Justiça do Estado de Goiás (TJ-GO), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 303):
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPARAÇÃO POR DANOS. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. RELAÇÃO JURÍDICA NÃO COMPROVADA. TELAS SISTÊMICAS. DÉBITO INEXISTENTE. NEGATIVAÇÃO INDEVIDA. DANOS MORAIS IN RE IPSA. VALOR ARBITRADO. SENTENÇA MANTIDA. 1. É ônus da concessionária de energia a comprovação de regularidade da contratação de serviços pelos consumidores e, por conseguinte, da origem das cobranças por ela realizadas. 2. A apresentação de tela sistêmica desacompanhada de qualquer outro elemento probatório, caracteriza-se como prova unilateral, não sendo válida para demonstrar vínculo obrigacional. 3. Quando ausente comprovação da relação jurídica entre as partes, é medida impositiva a declaração da inexistência dos débitos daí decorrentes. 4. Declarada a inexistência do débito, ilícita se torna a inscrição do nome do consumidor em órgão de proteção do crédito e a simples inscrição indevida implica o dano moral indenizável, independentemente de comprovação (in re ipsa). APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 413-431).
+Nas razões do apelo nobre (fls. 435-448), EQUATORIAL GOIÁS DISTRIBUIDORA DE ENERGISA S/A aponta, preliminarmente, ofensa ao art. 1.022 do CPC/15, afirmando que o eg. TJ-GO não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, indica violação aos arts. 186, 188, I e 927 do Código Civil e ao art. 373, I, do CPC/15, ao argumento, entre outros, de que o eg. TJ-GO "(..) desconsiderou que a recorrida deixou de demonstrar a verossimilhança da causa apresentada ao Estado Juiz. Inobservado o referido ônus, a recorrida não poderia se valer da presunção de veracidade das suas alegações em detrimento da recorrente. Como cediço, apesar de a verossimilhança não exigir prova aprofundada da alegação autoral, exige-se a apresentação de indícios de que o fato alegado seja verdadeiro. Ocorre que a recorrida não apresentou tais indícios de que residiria em outro endereço à época do lançamento dos débitos objeto deste feito, imputando o ônus da prova diabólica à recorrente" (fls. 444).
+Aduz, também, que "(..) não houve comprovação idônea por parte da recorrida acerca da inexistência de relação jurídica com a recorrente nem do nexo de causalidade entre os danos que alega e a suposta conduta da recorrente da qual decorrería o fato gerador do dano" (fls. 445).
+Defende que sua conduta "(..) ao efetuar a cobrança de dívida cm atraso configura-se exercício regular do direito, sendo que a repressão imposta pelo tribunal de origem ao referido direito redunda em violação ao art. 188, 1, do CC" (fls. 445).
+Assevera, ainda, que a "(..) recorrida sequer narrou qual percalço maior teria experimentado em virtude da cobrança regular do consumo de energia elétrica inadimplido. O que a recorrida requer nada mais é do que a banalização do instituto do dano moral, o que em momento algum deverá prosperar" (fls. 446).
+Intimada, WERLUCY DUARTE FARIA apresentou contrarrazões (fls. 591-601), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 604-607), motivando o agravo em recurso especial (fls. 611-628) em testilha.
+Também foi oferecida contraminuta (fls. 759-769), pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+Inicialmente, rejeita-se a alegada violação ao art. 1.022 do CPC/15, uma vez que o eg. Tribunal de Justiça do Estado de Goiás (TJ-GO) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se os recentes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ATENDIMENTO AOS REQUISITOS LEGAIS EM ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. NECESSIDADE DE NOVA PERÍCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ
+1. Não há que se falar em ofensa ao art. 1.022 do CPC/2015 se o Tribunal de origem se pronunciou suficientemente sobre as questões postas em debate, apresentando fundamentação adequada à solução da controvérsia, sem incorrer em nenhum dos vícios mencionados no referido dispositivo de lei.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.839.573/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024 - g. n.)
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.663.815/DF, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024 - g. n.)
+Melhor sorte não socorre ao apelo no tocante à suscitada ofensa aos arts. 186, 188, I e 927 do Código Civil e ao art. 373, I, do CPC/15.
+No caso, o eg. TJ-GO, com arrimo no acervo fático-probatório carreado aos autos, concluiu que foi indevida a inscrição do nome da ora Agravada em cadastro de proteção do crédito, gerando danos morais in re ipsa, fixando o quantum indenizatório em R$ 5.000,00 (cinco mil reais). A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual:
+"Cinge-se a controvérsia em analisar a regularidade dos débitos cobrados da parte autora que ensejaram a negativação de seu nome.
+Extrai-se da inicial que a requerente descobriu que seu nome foi negativado pela requerida, em razão de duas dívidas que não contraiu, nos valores de R$ 51,65 e R$ 55,93, por não possuir relação contratual com a concessionária de energia no estado da Bahia, de onde são provenientes os débitos, motivo pelo qual requereu seja declarada a inexistência dos débitos e indenização por danos morais.
+A magistrada singular julgou procedente a demanda, declarando a inexistência dos débitos e condenando a requerida ao pagamento de indenização por dano moral, na quantia de R$ 5.000,00.
+(..)
+Contudo, a referida inversão do ônus probandi não é aplicada de forma automática, devendo estar presente a verossimilhança das alegações do consumidor, o qual deve, ao menos minimamente, comprovar o fato constitutivo de seu direito.
+Nessa senda, ao garantir a inversão do ônus, nos casos em que o consumidor cumpre com seu início de prova, a lei consumerista considera a hipossuficiência técnica do consumidor, visto que possui maior dificuldade de produção da prova, estando o fornecedor, na maioria das vezes, em melhores condições de apresentá-la.
+Em análise ao caderno processual, nota-se que a parte autora demonstrou que seu nome foi incluído pela parte ré no cadastro de proteção ao crédito, nas datas de 13/01/2019 e 13/03/2019, em razão de débitos provenientes de duas faturas distintas (mov. 01, arq. 07), negativações estas que têm como origem o CDL de Salvador/BA.
+Nesse contexto, caberia à concessionária de energia elétrica comprovar a relação jurídica entre as partes e, consequentemente, a regularidade das cobranças que acarretaram a negativação da parte autora, conforme preleciona o art. 373, II, do CPC, o que não ocorreu.
+Ressalta-se que, embora a concessionária ré alegue a legalidade das cobranças, afirmando que são oriundas do consumo de energia elétrica na unidade consumidora cadastrada em nome da parte autora, não apresentou nenhuma prova apta a demonstrar a relação jurídica entre as partes, como cadastro/contrato assinado, cópias de documentos da consumidora, etc., limitando-se a acostar telas sistêmicas e faturas, as quais, desacompanhadas de qualquer outro elemento probatório, caracterizam-se como provas unilaterais, inválidas aos fins pretendidos.
+Cumpre salientar que, não obstante a apelante alegue que comprovou por meio da matrícula do imóvel que a unidade consumidora ensejadora da dívida é de titularidade da autora, não evidenciada essa prova nos autos.
+Dessarte, não comprovado o vínculo obrigacional entre as partes, é medida impositiva a declaração da inexistência dos débitos inseridos nos cadastros de inadimplentes em nome da autora pela concessionária ré, decorrentes de consumo de energia elétrica, referentes aos contratos/faturas nº 2019005197207 e 2018059864142.
+(..)
+Desse modo, reconhecida a irregularidade das dívidas cobradas e declarada a inexistência dos débitos, ilícita é a inclusão do nome da parte autora nos cadastros de inadimplentes, devendo a concessionária de energia responder pelos danos causados pela negativação indevida por ela promovida , situação que enseja o pagamento de indenização por danos morais, independentemente de comprovação de culpa ou dano adicional (in re ipsa).
+(..)
+Logo, escorreita a sentença atacada que julgou procedente os pedidos iniciais" (fls. 307-312)
+No caso, não se infere violação aos referidos dispositivos legais, na medida em que o entendimento do eg. TJ-GO coaduna com a jurisprudência desta eg. Corte.
+Com efeito, o STJ possui jurisprudência pacífica no sentido de que, nas hipóteses de inscrição indevida em órgão de restrição ao crédito, como a dos autos, o dano moral opera-se in re ipsa, isto é, decorre do próprio fato da referida inscrição, sendo desnecessária a sua comprovação. Neste sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZATÓRIA. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGADO FUNDAMENTADO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. INDENIZAÇÃO POR DANOS MORAIS. CABIMENTO. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. QUANTUM INDENIZATÓRIO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A jurisprudência desta Corte Superior entende que a reparação por dano moral em casos de inscrição indevida em cadastro de inadimplentes dispensa a prova da ofensa ao direito da personalidade, por se tratar de dano in re ipsa (presumido).
+4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+5. Agravo interno não provido."
+(AgInt no AREsp n. 2.612.713/GO, relator MINISTRO MOURA RIBEIRO, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024 - g. n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. SÚMULA N. 7 DO STJ AFASTADA. NOVA ANÁLISE. INDENIZAÇÃO. DANOS MORAIS. PROTESTO INDEVIDO. INSCRIÇÃO INDEVIDA NO CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Nos casos de protesto indevido de título e de inscrição indevida em cadastro de proteção ao crédito, o dano moral é considerado in re ipsa.
+2. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.513.837/GO, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024 - g. n.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROTESTO JUDICIAL INTERRUPTIVO DE PRESCRIÇÃO. NATUREZA DE JURISDIÇÃO VOLUNTÁRIA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. DEFERIMENTO DE PROTESTO JUDICIAL NÃO CONTÉM JUÍZO MERITÓRIO SOBRE A OBRIGAÇÃO. A CORTE A QUO DECIDIU DE ACORDO COM A JURISPRUDÊNCIA CONSOLIDADA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+(..)
+3. Indubitável a incidência, no caso, da Súmula n. 83 do STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", à qual se aplicam as hipóteses das alíneas "a" e "c" do art. 105, inciso III, da Constituição Federal.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.089.161/RJ, relator MINISTRO HUMBERTO MARTINS, Terceira Turma, julgado em 8/4/2024, DJe de 12/4/2024 - g. n.)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+2. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 2.257.915/CE, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023 - g. n.)
+Impende salientar, ainda, que o eg. STJ firmou orientação no sentido de que somente é possível revisar o montante da indenização a título de danos morais, quando o valor fixado for exorbitante ou irrisório. No caso, o quantum indenizatório foi arbitrado em R$ 5.000,00, (cinco mil reais) montante que não é exorbitante, nem desproporcional, pois encontra-se dentro dos parâmetros adotados por esta Corte Superior em casos análogos. Nesse sentido, confiram-se:
+"DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 284/STF E 7/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. DANOS MORAIS. VALOR ADEQUADO. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A Corte de origem concluiu que, em razão da prática de fraude de terceiro e consequente inscrição do nome do consumidor nos órgãos de proteção ao crédito, esse faz jus à indenização a título de danos morais.
+2. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$5.000,00 (cinco mil reais) não se mostra irrisório nem desproporcional aos danos suportados pela parte autora, que, conforme consta no acórdão, teve seu nome inscrito indevidamente em órgão de proteção ao crédito.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.203.867/ES, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 6/3/2023, DJe de 21/3/2023 - g. n.)
+"RECURSO ESPECIAL. DANO MORAL. CADASTRO DE INADIMPLENTES. TÍTULO QUITADO. INSCRIÇÃO INDEVIDA. INDENIZAÇÃO. AFASTAMENTO OU REDUÇÃO. INVIABILIDADE. SÚMULA Nº 7/STJ. DANO MATERIAL. MÚTUO. NEGÓCIO FRUSTRADO. VALOR OBJETO DO CONTRATO NÃO APERFEIÇOADO. RESSARCIMENTO. EFETIVO PREJUÍZO. AUSÊNCIA. DANO EMERGENTE. INEXISTÊNCIA.
+1. A inscrição ou manutenção indevida do nome do devedor no cadastro de inadimplentes acarreta, conforme jurisprudência reiterada deste Tribunal, o dano moral in re ipsa, ou seja, dano vinculado à própria existência do fato ilícito, cujos resultados são presumidos.
+Precedentes.
+2. O caso concreto não comporta a excepcional revisão do valor da indenização fixada por danos morais, com o afastamento do óbice previsto na Súmula nº 7/STJ, pois a quantia de R$ 5.000,00 (cinco mil reais) não se revela exorbitante para reparar o emitente de título de crédito que, mesmo quitado, foi inscrito em serviço de proteção ao crédito e utilizado como fundamento para negativa de financiamento bancário.
+(..)
+6. Recurso especial parcialmente provido."
+(REsp n. 1.369.039/RS, relator MINISTRO RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
