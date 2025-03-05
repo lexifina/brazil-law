@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. ACÓRDÃO EM CONFORMIDADE COM A SÚMULA N. 439 DO STJ. HISTÓRICO CONTURBADO DA EXECUÇÃO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência entende que o atestado de boa conduta carcerária não assegura automaticamente a progressão de regime. O juiz das execuções pode realizar uma análise criteriosa sobre o requisito subjetivo do benefício e justificar a dúvida sobre a capacidade de adaptação do condenado ao regime menos severo.
+2. O acórdão do Tribunal de origem está conforme o entendimento deste Superior Tribunal, que admite a determinação de exame criminológico, nos termos da Súmula n. 439 do STJ, diante de histórico carcerário problemático durante a execução.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ADILSON PEREIRA interpõe agravo regimental contra a decisão da Presidência desta Corte Superior, por meio da qual indeferiu liminarmente o habeas corpus.
+Em suas razões, o agravante sustenta que o decisum impugnado "deixou de considerar a inexistência de faltas disciplinares atuais, o que demonstra claro comportamento favorável à ressocialização da paciente" (fl. 114).
+Requer a reconsideração da decisão impugnada e, subsidiariamente, o provimento do regimental, a fim de que seja concedida a ordem de habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. ACÓRDÃO EM CONFORMIDADE COM A SÚMULA N. 439 DO STJ. HISTÓRICO CONTURBADO DA EXECUÇÃO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência entende que o atestado de boa conduta carcerária não assegura automaticamente a progressão de regime. O juiz das execuções pode realizar uma análise criteriosa sobre o requisito subjetivo do benefício e justificar a dúvida sobre a capacidade de adaptação do condenado ao regime menos severo.
+2. O acórdão do Tribunal de origem está conforme o entendimento deste Superior Tribunal, que admite a determinação de exame criminológico, nos termos da Súmula n. 439 do STJ, diante de histórico carcerário problemático durante a execução.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de sua manutenção, pelos próprios fundamentos.
+De pronto, ressalto que " é  assente nesta Corte Superior que o regimental deve trazer novos argumentos hábeis a infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos" (AgRg no RHC n. 167.626/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/10/2022).
+Na hipótese, nenhuma alegação nova, distinta das arrazoadas no writ, foi deduzida, no agravo, razão por que mantenho a decisão monocrática intacta.
+No caso em tela, o Tribunal de origem considerou precipitada a progressão ao regime semiaberto e determinou a realização do exame criminológico, pois "durante o cumprimento da expiação, o reeducando apresentou comportamento desviante, cometendo 02 (duas) faltas de natureza grave (sendo a última reabilitada em 02/12/2.023) e 01 (uma) falta de natureza média" (fl. 26).
+O estudo de periculosidade não foi suprimido pelo legislador como meio de prova para a formação do convencimento judicial. Mesmo com a emissão de atestado de boa conduta carcerária, se existir comportamento desabonador durante o resgate da pena, admite-se a determinação do exame criminológico (ou até mesmo o indeferimento da progressão), pois se compreende que o Poder Judiciário não é mero órgão chancelador de documento administrativo, emitido pela unidade penal. Caso contrário, não haveria a judicialização do processo de resgate das penas.
+A teor da Súmula n. 439 do STJ, "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+In casu, o histórico carcerário conturbado da execução justificou a determinação do exame criminológico. De acordo com o Tribunal estadual, o reeducando possui em seu histórico carcerário o registro de duas faltas disciplinares, duas graves - 20/4/2019 e 2/12/2022 - e uma média - 26/9/2019.
+O acórdão está conforme a Súmula n. 439 do STJ, o que autoriza a solução monocrática do writ. Ilustrativamente:
+ ..
+1. A despeito de o exame criminológico não ser requisito obrigatório  .. , em hipóteses excepcionais, os tribunais superiores vêm admitindo a sua realização para a aferição do mérito do apenado. Aliás, tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte Superior de Justiça.
+2. No caso dos autos, as instâncias ordinárias, ao determinarem a realização de exame criminológico, lograram fundamentar a necessidade do referido exame invocando elementos concretos dos autos, sobretudo, o fato de que o sentenciado "registra 06 faltas disciplinares graves em seu prontuário  ..  denotando tratar-se de indivíduo que não se submete ao regramento mais básico que lhe fora imposto no cárcere" (e-STJ fls. 62 e 64), o que evidencia a idoneidade da fundamentação utilizada, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem.
+3. Agravo regimental desprovido.
+(AgRg no HC 695.981/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 25/02/2022, destaquei)
+ ..  2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439, in verbis: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. No caso dos autos, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do subjetivo, em face do histórico prisional conturbado (cometimento de faltas disciplinares de natureza grave e média), de modo que não se verifica constrangimento ilegal na exigência de realização de exame criminológico  ..
+ ..
+(AgRg no HC 639.495/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 17/08/2021, grifei)
+Deveras: "A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Ministro FELIX FISCHER, julgado em 28/6/2016)" (AgRg nos EDcl no HC 673.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 28/06/2021, destaquei).
+Confira-se: "No caso concreto, conforme já esclarecido na decisão agravada, não foi demonstrada qualquer flagrante ilegalidade, em especial, porque, na decisão que determinou a realização de exame criminológico, considerou-se, para além da gravidade abstrata dos crimes e da longa pena a cumprir, o histórico prisional conturbado do agravante, que ostenta falta grave (não retornou de saída temporária)" (AgRg no HC 651.435/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 27/04/2021, grifei).
+Ainda: "Impende registrar que "A noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos" (AgRg no HC 660.197/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/08/2021, DJe 25/08/2021)" (AgRg no HC 693.575/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 04/10/2021).
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Dese mbargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
