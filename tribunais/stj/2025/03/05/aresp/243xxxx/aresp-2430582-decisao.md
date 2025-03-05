@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 7 e 211 do STJ (e-STJ fls. 493/494).
+O acórdão do TJMG traz a seguinte ementa (e-STJ fl. 341):
+EMENTA: EMBARGOS À EXECUÇÃO - CÉDULA DE CRÉDITO RURAL - EXCESSO À EXECUÇÃO - MULTA E JUROS MORATÓRIOS - CONFIGURADO - CAPITALIZAÇÃO DIÁRIA - IMPOSSIBILIDADE - HONORÁRIOS. Restando evidenciado nos autos, por meio de prova pericial contábil, o excesso à execução, o decote da quantia cobrada a maior é medida que se impõe. Conforme dispõe a súmula 93 do STJ, a legislação sobre cédulas de crédito rural, comercial e industrial admite o pacto de capitalização de juros, sendo, por outro lado, vedada a capitalização diária de juros. Os honorários advocatícios devem ser fixados em quantia compatível com a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para seu serviço.
+Os embargos de declaração foram rejeitados (e-STJ fls. 372/376).
+No recurso especial (e-STJ fls. 379/395), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente aduziu dissídio jurisprudencial e ofensa:
+(i) ao art. 489, II, do CPC/2015, afirmando haver negativa de prestação jurisdicional,
+(ii) ao art. 476 do CC/2002, defendendo que, "nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro. Dessa forma, não pode o banco recorrido exigir o adimplemento do contrato se esse fez incidir capitalização não contratada" (e-STJ fl. 386),
+(iii) ao art. 803, I, do CPC/2015, sustentando que "a descaracterização da mora que fulmina o título executivo é, portanto, matéria de ordem pública cognoscível de ofício pelo magistrado" (e-STJ fl. 386),
+(iv) ao art. 786, parágrafo único, do CPC/2015, alegando que "a eventual substituição da capitalização diária pela semestral não importa em meros cálculos aritméticos. Deste modo, a alegada abusividade, consistente do descumprimento de cláusula atinente ao período de normalidade contratual, descaracteriza a mora, em razão da consequente iliquidez, tornando o título, portanto, inexigível" (e-STJ fl. 386),
+(v) ao art. 927, III, do CPC/2015 , porque a Corte a quo teria ignorado o Tema Repetitivo n. 28/STJ, e
+(vi) ao art. 85, § 2º, do CPC/2015, ante o equívoco do acórdão recorrido no referente à substituição da base de cálculo da verba honorária definida na sentença - valor da causa - para proveito econômico.
+Ao final, requereu a reforma do aresto impugnado, a fim de "reconhecer que a descaracterização da mora é decorrência lógica da constatação de abusividade de capitalização no período da normalidade, não havendo que se falar em inovação recursal e, consequentemente sejam julgados procedentes os embargos à execução para que seja determinada a extinção do feito executivo sem resolução de mérito, ante a sua manifesta iliquidez, incerteza e inexigibilidade, fulminando a execução, nos termos do art. 803, I, c/c art. 485, IV, do Código de Processo Civil" (e-STJ fl. 389).
+Foram ofertadas contrarrazões (e-STJ fls. 467/473).
+No agravo (e-STJ fls. 497/507), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 516/529).
+É o relatório.
+Decido.
+As contradições, omissões e obscuridades que fundamentaram a alegação de negativa de prestação jurisdicional sustentada pela parte recorrente são genéricas, porque não discriminam a forma em que o acórdão recorrido teria incorrido nos apontados vícios.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+A propósito: "a mera assertiva de que o Tribunal local, mesmo após a oposição dos embargos de declaração, não se manifestou quanto às questões postas constitui alegação genérica de violação, caso em comento, configurando fundamentação deficiente a atrair a incidência do teor da Súmula 284/STF" (AgRg no AREsp n. 587.074/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/3/2016, DJe 6/4/2016).
+A Corte a quo assentou que o pedido do recorrente no referente à descaracterização de sua mora configuraria inovação recursal (e-STJ fl. 375).
+Para infirmar tal entendimento, a parte recorrente invocou os arts. 476 do CC/2002 e 485, IV, 786, parágrafo único, e 803, I, do CPC/2015, os quais, todavia, não possuem o alcance normativo pretendido, pois que nada dispõem da matéria processual aqui referida.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a incidência da Súmula n. 284/STF. Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto ao art. 927, III, do CPC/2015 sob o enfoque pretendido pelo recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem não debateu o conteúdo dos arts. 476 do CC/2002 e 85, § 2º, 786, parágrafo único, e 803, I, do CPC/2015 sob o ponto de vista do recorrente, a despeito dos aclaratórios opostos. Inafastáveis, dessa maneira, as Súmulas n. 282 do STF e 211 do STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais o recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
