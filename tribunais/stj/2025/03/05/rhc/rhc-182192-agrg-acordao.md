@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. NECESSIDADE DE EXAME APROFUNDADO DE PROVAS. INVIABILIDADE NA VIA ELEITA. DECISÃO MANTIDA. AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1. O trancamento da ação penal pela via do habeas corpus é medida excepcional, somente admissível quando emerge dos autos, sem necessidade de exame valorativo do conjunto fático-probatório, a atipicidade da conduta, a ausência de indícios de autoria e materialidade delitiva, ou ainda a extinção da punibilidade.
+2. No caso, a denúncia descreve fatos que, em tese, configuram crime previsto na Lei n. 8.137/1990, havendo indícios suficientes de autoria e materialidade delitiva nesta fase inicial da persecução penal.
+3. As alegações de ausência de justa causa e inépcia da denúncia confundem-se com o mérito da ação penal, demandando análise aprofundada do conjunto probatório, inviável na via estreita do habeas corpus.
+4. O exame superficial das provas pré-constituídas foi devidamente realizado na decisão agravada, não se constatando ilegalidade flagrante apta a justificar a concessão da ordem.
+5. Não se pode impedir o Estado, antecipadamente, de exercer a função jurisdicional, coibindo-o de realizar o levantamento dos elementos de prova para a verificação da verdade dos fatos, o que somente se admite em hipóteses excepcionais não evidenciadas no caso concreto.
+6. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por NELSON APARECIDO DA SILVA ANDRADE contra decisão monocrática, de relatoria do Ministro Teodoro Silva Santos, que negou provimento ao recurso.
+No presente regimental, a Defesa repisa argumentos já postos na impetração que objetivava a cassação da decisão de recebimento da denúncia, alegando coação ilegal e ameaça à liberdade de locomoção do paciente.
+Insiste a parte agravante na possibilidade de exame das provas pré-constituídas nos autos de habeas corpus, argumentando que: a) a legislação brasileira não prevê dilação probatória em habeas corpus, mas isso não impede o exame de provas já constantes dos autos; b) há entendimento do STJ no sentido de que em habeas corpus a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade; c) não procedem censuras a que se faça exame de provas em habeas corpus, sendo vedada apenas a simples apreciação probatória; d) o habeas corpus impetrado foi devidamente instruído com cópias integrais do inquérito policial, denúncia, respostas à acusação e decisão de recebimento da denúncia, permitindo a análise das teses de ausência de justa causa e inépcia da denúncia; e) é cabível a impetração de habeas corpus para impugnar decisão de recebimento de denúncia que comporte ato coator, como ausência de justa causa.
+Postula, assim, a reconsideração da decisão agravada para que seja reconhecida a possibilidade de exame das provas pré-constituídas nos autos e, nessa extensão, que sejam conhecidas as teses de ausência de justa causa e inépcia da denúncia. Caso contrário, requer que o agravo regimental seja submetido ao Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. NECESSIDADE DE EXAME APROFUNDADO DE PROVAS. INVIABILIDADE NA VIA ELEITA. DECISÃO MANTIDA. AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1. O trancamento da ação penal pela via do habeas corpus é medida excepcional, somente admissível quando emerge dos autos, sem necessidade de exame valorativo do conjunto fático-probatório, a atipicidade da conduta, a ausência de indícios de autoria e materialidade delitiva, ou ainda a extinção da punibilidade.
+2. No caso, a denúncia descreve fatos que, em tese, configuram crime previsto na Lei n. 8.137/1990, havendo indícios suficientes de autoria e materialidade delitiva nesta fase inicial da persecução penal.
+3. As alegações de ausência de justa causa e inépcia da denúncia confundem-se com o mérito da ação penal, demandando análise aprofundada do conjunto probatório, inviável na via estreita do habeas corpus.
+4. O exame superficial das provas pré-constituídas foi devidamente realizado na decisão agravada, não se constatando ilegalidade flagrante apta a justificar a concessão da ordem.
+5. Não se pode impedir o Estado, antecipadamente, de exercer a função jurisdicional, coibindo-o de realizar o levantamento dos elementos de prova para a verificação da verdade dos fatos, o que somente se admite em hipóteses excepcionais não evidenciadas no caso concreto.
+6. Agravo regimental não provido.
+VOTO
+Em que pese a argumentação traçada pelo agravante, o recurso não prospera.
+De fato, as questões trazidas foram suficientemente tratadas e rebatidas na decisão agravada, cujos fundamentos persistem.
+Como bem destacado na decisão impugnada, o trancamento da ação penal pela via do habeas corpus é medida excepcional, somente admissível quando emerge dos autos, sem necessidade de exame valorativo do conjunto fático-probatório, a atipicidade da conduta, a ausência de indícios de autoria e materialidade delitiva, ou ainda a extinção da punibilidade.
+No caso em tela, não se verifica nenhuma dessas hipóteses excepcionais. A denúncia descreve fatos que, em tese, configuram o crime previsto no art. 1º, I e II, da Lei n. 8.137/1990, havendo indícios suficientes de autoria e materialidade delitiva nesta fase inicial da persecução penal.
+As alegações de ausência de justa causa e inépcia da denúncia confundem-se com o próprio mérito da ação penal, demandando análise aprofundada do conjunto probatório, o que é inviável na via estreita do habeas corpus. Tais questões devem ser debatidas no curso da instrução criminal, sob o crivo do contraditório e da ampla defesa.
+Ademais, não se pode impedir o Estado, antecipadamente, de exercer a função jurisdicional, coibindo-o de realizar o levantamento dos elementos de prova para a verificação da verdade dos fatos, o que somente se admite em hipóteses excepcionais não evidenciadas no caso concreto.
+Quanto à alegação de possibilidade de exame de provas pré-constituídas em habeas corpus, observo que tal análise foi devidamente realizada na decisão agravada, não se constatando ilegalidade flagrante apta a justificar a concessão da ordem. O que se veda é o exaurimento da análise probatória nos estritos limites do writ, o que não se confunde com o exame superficial das provas pré-constituídas para verificação de eventual constrangimento ilegal, procedimento que foi adotado no caso em tela.
+Ante o exposto, mantendo a decisão monocrática por seus próprios fundamentos, nego provimento ao agravo regimental.
+É o voto.
