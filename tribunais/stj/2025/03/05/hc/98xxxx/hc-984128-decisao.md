@@ -1,0 +1,42 @@
+DECISÃO
+EDSON XAVIER DA SILVA alega sofrer coação ilegal pelo Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0088562-43.2024.8.19.0000).
+Nesta Corte, sustenta a defesa a falta de fundamentação idônea para manter a prisão processual do acusado, pela suposta prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal. Aduz, ainda, a ausência de contemporaneidade da medida cautelar.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de providências alternativas.
+Decido.
+Expõem os autos que o Magistrado de primeiro grau assim decretou a prisão preventiva do paciente:
+Conforme documentos constantes nos autos está presente o fumus comissi delicti é evidente, restando certa a existência do crime e presentes indícios mais do que suficientes de autoria, como se depreende dos elementos de prova até então colhidos, notadamente os depoimentos de testemunhas civis.
+No que tange à indispensabilidade da prisão, periculum libertatis, trata-se, em tese, de hipótese de extermínio da vítima DIEGO AMBROSINO INÁCIO, fato este ocorrido no dia 04/08/2020, no Bairro Independência, nesta cidade de Mendes/RJ, isso com base em depoimentos colhidos, vídeos e fotos obtidos junto a estabelecimentos comerciais, quando foi identificado o veículo utilizado para a prática deste crime em investigação como sendo JEEPCompass, cor prata, placa QNE 2A28, flagrado pelas câmeras de uma mercearia próxima local, bem como pelas imagens obtidas junto à concessionária que administra a Rodovia BR 393.
+Também foram fornecidos elementos pela Polícia Civil do Estado de Minais gerais à Autoridade Policial da 97ª DP/Mendes, indicando que esse homicídio teria sido cometido por criminosos residentes naquele Estado, eis que a vítima já teria atuado no mundo do crime e deixado desafetos, em especial em sua terra natal, qual seja, Viçosa, dentre eles EDSON XAVIER DA SILVA, vulgo "PRETO".
+Relatório encaminhado pela polícia civil de Minas Gerais , juntado às fls. 219/231, indica que o denunciado THIAGO FIDELIS é comparsa do criminoso ÉDSON XAVIER DA SILVA.
+Trata-se de conduta grave praticada em plena luz do dia, havendo notícias que eles fariam parte de violenta ORCRIM constituída no Estado de Minas Gerais, situações que denotam a periculosidade dos denunciados que, em liberdade, colocam em risco a ordem pública e a paz social.
+ ..
+A prisão cautelar também se faz necessária por conveniência da instrução criminal, eis que necessária a oitivas das testemunhas arroladas que, com os denunciados em liberdade, podem ser colocadas em risco, serem ameaçadas ou sofrerem influência que a impeçam de esclarecer a verdade, o que importará grandíssimo e irremediável prejuízo para a produção das provas em Juízo e, por via de consequência, para a consecução de sua imperiosa responsabilização penal.
+Acresça-se, ainda em sede de analise dos pressupostos da prisão preventiva, que o denunciado ÉDSON XAVIER "PRETO, conforme documentos dos autos, é apontado como criminoso do Estado de Minas Gerais, líder de ORCRIM, e teria fugido da cidade de Viçosa, o que, por certo, já indicia que poderá também fugir para se furtar ao cumprimento da lei penal na hipótese de eventual condenação.
+Desta forma, presente o periculum libertatis previsto na primeira parte do artigo 312 do Código de Processo Penal, sendo a decretação da prisão preventiva necessária para garantir a ordem pública, a aplicação da lei penal e assegurar a realização profícua e remansosa da instrução criminal (fls. 54-55, grifei).
+A Corte estadual denegou o writ lá impetrado, nos termos do acórdão de fls. 13-42.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, relator Min. Rogerio Schietti, 6ª T., DJe 16/5/2022).
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessas premissas, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+Com efeito, o Juiz de direito destacou a gravidade concreta do delito, ao realçar o modus operandi empregado na ação delituosa, pois o crime, em tese, haveria sido cometido com grave violência e em concurso de pessoas, integrantes de organização criminosa. Ainda, ficou registrado o risco de reiteração delitiva, pois "é apontado como criminoso do Estado de Minas Gerais, líder de ORCRIM, e teria fugido da cidade de Viçosa, o que, por certo, já indicia que poderá também fugir para se furtar ao cumprimento da lei penal na hipótese de eventual condenação".
+Assim, considerou-se necessária e adequada para o acautelamento da ordem pública a imposição da medida extrema.
+É pacífico o entendimento desta Corte de que o modus operandi da conduta, com o emprego de extrema violência contra a vítima, é apto a justificar a segregação cautelar.
+Nesse sentido:
+ ..
+5. No caso, a prisão preventiva foi decretada  ..  em razão da periculosidade do paciente, evidenciada pela gravidade concreta dos crimes, notadamente o excepcional modus operandi - crime violento praticado por quatro agentes com arma de fogo, em que teriam atingido de forma fatal uma das vítimas.  ..
+(AgRg no HC 631.424/PE, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 17/12/2020)
+ ..
+Segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a prisão preventiva, tendo como escopo o resguardo da ordem pública.
+(AgRg no RHC 131.158/PR, Rel. Ministro Ribeiro Dantas, 5.ª T., DJe 23/11/2020, grifei)
+ ..
+O modus operandi empregado na prática delitiva autoriza a segregação processual, pois o Paciente, acompanhado de outros 3 (três) indivíduos, subtraiu violentamente bens das vítimas e disparou arma de fogo contra uma delas, causando-lhe traumatismo no crânio.
+(HC 598.476/PR, Rel. Ministra Laurita Vaz, 6ª T., DJe 29/09/2020, destaquei)
+A decisão constritiva da liberdade do insurgente ressaltou, ainda, a significativa periculosidade do agente diante da fuga, circunstância que considerou apta a justificar a cautela máxima, além da extrema gravidade dos fatos narrados.
+A jurisprudência desta Corte Superior entende que "a fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória" (AgRg no RHC n. 133.180/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/8/2021).
+A "contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva e não ao momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal (AgR no HC n. 190.028, Ministra Rosa Weber, Primeira Turma, DJe 11/2/2021.)" (AgRg no HC n. 834.873/PR, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 14/3/2024, grifei)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado, inclusive, por ter já sido pronunciado.
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe de 22/9/2022).
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
