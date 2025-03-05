@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por UNIMED DE RIBEIRÃO PRETO - COOPERATIVA DE TRABALHO MÉDICO, em face de decisão que não admitiu recurso especial (fls. 1745-1748, e-STJ).
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 13855-1390, e-STJ):
+Ação de obrigação de fazer Sentença de procedência Insurgência da requerida Autora portadora de fibrose pulmonar bronquiolocêntrica Prescrição de tratamento com o medicamento "Nintedanibe" 150mg Requerida que se recusa a fornecer o medicamento em decorrência de alegação de exclusão legal e contratual Falecimento da autora Hipótese em que o direito constitutivo da pretensão é personalíssimo Processo extinto, sem exame do mérito, com apoio no artigo 485, inciso IX, do CPC Distribuição da sucumbência, contudo, que pode remanescer em desfavor da parte ré, com fulcro no princípio da causalidade Recurso prejudicado. Recurso de apelação prejudicado, mantida a sucumbência fixada em primeiro grau..
+Opostos embargos de declaração, esses foram rejeitados (fls. 1703-1708, e-STJ).
+Nas razões do recurso especial (fls. 1392-1419, e-STJ), a recorrente aponta violação aos seguintes artigos:
+(i) 300 e 302 do CPC/2015 e 10, § 4º, e 12 da 9.656/98, e 4º, III, da Lei 9.961/00, pois seria o caso de reversão da sentença de primeiro grau, ante a aplicação da jurisprudência do STJ sobre o tema. Destaca a ausência do dever de cobertura do medicamento;
+Contrarrazões às fls. 1712-1734, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob os fundamentos de que: a) não ocorreu prequestionamento; b) não houve negativa de prestação jurisdicional; b) a simples transcrição de dispositivo de lei não autoriza o conhecimento de recurso especial; c) incidiria ao caso o enunciado nº 7 da Súmula do STJ; d) não restou comprovado o dissídio jurisprudencial.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Da análise do acórdão recorrido, percebe-se que o Tribunal local não apreciou as teses e dispositivos legais apontados como violados no presente recurso especial.
+Com o objetivo de sanar tal omissão e, concomitantemente, prequestionar a matéria, nota-se que a recorrente apresentou embargos declaratórios, nos quais suscitou a ausência do dever de cobertura, na forma da jurisprudência do STJ. Contudo, ainda assim, o tema não foi discutido pelo Tribunal a quo, o qual se limitou a afirmar a inexistência de omissões, obscuridades ou contradições no julgado embargado, ressaltando o fato de que os honorários deveriam ser suportados por quem deu causa ao manejo da ação.
+Nesse contexto, em ordem a viabilizar a discussão da matéria nas instâncias extraordinárias, cabia aos recorrentes aduzir em seu recurso especial, igualmente, violação ao art. 1.022 do CPC/2015, o que, todavia, não ocorreu.
+Com efeito, entende esta Corte que o excepcional reconhecimento do prequestionamento ficto, nos termos do art. 1.025 do CPC/2015, pressupõe a ocorrência de violação ao art. 1.022 do CPC/2015, derivada da existência de omissões, contradições ou obscuridades relevantes no acórdão recorrido.
+Logo, em situações tais, deve o recorrente, de modo fundamentado, apontar a presença de tais vícios de fundamentação no acórdão recorrido, sob pena de não atender aos requisitos constitucionais de admissibilidade do recurso especial. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Se, mesmo após o julgamento dos embargos de declaração, o eg. Tribunal a quo continuar omisso quanto à matéria que se pretendia prequestionar, é dever do recorrente, no recurso especial, apontar violação ao art. 1.022 do CPC de 2015 (art. 535 do CPC de 1973). Ausente esta alegação no apelo nobre, o recurso esbarra no óbice da Súmula 211/STJ.
+2. Na espécie, os temas referentes aos artigos apontados como violados - arts. 130 e 330, I, do CPC/1973 - não foram prequestionados, atraindo a incidência da Súmula 211/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 712.600/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/06/2018, DJe 29/06/2018)  grifou-se
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+(..)
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei. 05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido.
+(REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017)
+Nesses termos, dada a inexistência de prequestionamento, sequer ficto, dos dispositivos cuja violação é arguida pelos recorrentes, mostra-se impossível a admissão do recurso especial, nos moldes da Súmula 211/STJ.
+2. Ainda que assim não fosse, não seria viável o acolhimento do apelo.
+No caso em tela, a Corte local assentou que, diante da perda superveniente do objeto da ação, os honorários advocatícios sucumbenciais deveriam ser suportados pela ora recorrente, a qual teria dado causa ao manejo da ação. Veja-se (fl. 1388, e-STJ):
+O óbito do beneficiário do pedido de obrigação de fazer, consistente no fornecimento de medicamento para realização do tratamento recomendado (fls. 22/23), implica no perecimento superveniente do interesse de agir, restando prejudicada a apreciação do mérito da causa.
+Sendo personalíssimo e intransmissível o direito posto em julgamento o falecimento enseja a imediata extinção do feito, sem resolução do mérito, nos termos do art. 485, IX do CPC/2015: "O juiz não resolverá o mérito quando: (..) IX em caso de morte da parte, a ação for considerada intransmissível por disposição legal".
+Destarte, embora a solução seja a extinção do feito sem exame do mérito, a operadora de saúde continua sendo responsável pelo pagamento dos honorários advocatícios, uma vez que deu causa para que o autor viesse a Juízo pleitear o tratamento de que necessitava, assumindo o risco inerente a toda demanda judicial.
+Trata-se de posicionamento alinhado à jurisprudência do STJ, a qual elenca o princípio da causalidade como orientador da sucumbência nas hipóteses em que há a extinção prematura do feito. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. DECISÃO MANTIDA.
+1. "Em função do princípio da causalidade, nas hipóteses de extinção do processo sem resolução do mérito, decorrente de perda de objeto superveniente ao ajuizamento da ação, a parte que deu causa à instauração do processo deverá suportar o pagamento dos honorários advocatícios" (AgRg no REsp n. 1.001.516/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/12/2014, DJe 06/2/2015).
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 305.251/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/9/2019, DJe de 3/10/2019.)
+Ademais, rever a conclusão da Corte local, quanto à responsabilidade pelo início da ação demandaria revolvimento de matéria probatória. Veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIO EM AUTOMÓVEL USADO. INVERSÃO DO ÔNUS DA PROVA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. ENUNCIADO ADMINISTRATIVO N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. "A sucumbência é analisada em relação ao princípio da causalidade, o qual permite afirmar que quem deu causa à propositura da ação deve arcar com os honorários advocatícios, mesmo ocorrendo a superveniente perda do objeto e, consequente, extinção do feito" (AgRg no Ag n. 1149834/RS, Relator Ministro VASCO DELLA GIUSTINA, DESEMBARGADOR CONVOCADO DO TJ/RS, TERCEIRA TURMA, julgado em 24/8/2010, DJe 1/9/2010).
+4. A análise da pretensão recursal sobre a aplicação do princípio da causalidade e a redistribuição dos ônus sucumbenciais demanda o vedado reexame de provas, a atrair a incidência do óbice da Súmula n. 7/STJ.
+5. Publicada a decisão de inadmissibilidade do recurso especial na vigência do CPC/2015, mostra-se possível o arbitramento de honorários sucumbenciais recursais, na forma prevista no art. 85, § 11, do CPC/2015, conforme o Enunciado Administrativo n. 7 desta Corte.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.303.761/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/2/2020, DJe de 20/2/2020.)
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
