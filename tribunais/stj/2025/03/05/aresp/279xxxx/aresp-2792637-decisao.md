@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto por MARIANE COUTINHO DE SOUZA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio d e Janeiro assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. PROCEDÊNCIA. PROCEDIMENTO BIFASICO. ETAPA DESTINADA A APRECIAR SE INCUMBE À RÉ, COMPANHEIRA DO FALECIDO PAI DO AUTOR/AGRAVADO, O DEVER DE PRESTAR CONTAS DECORRENTE DO MANDATO OUTORGADO, NO PERÍODO EM QUE SEU GENITOR JÁ APRESENTAVA SINAIS DE INCAPACIDADE PARA GERIR ATOS DA VIDA CIVIL. COMPETÊNCIA DO JUÍZO CIVEL POR SE TRATAR DE DEMANDA DECORRENTE DO EXERCÍCIO DO MANDATO E NÃO DO PERÍODO EM QUE A CONVIVENTE PRATICOU ATOS INERENTES À CURADORIA OU À INVENTARIANÇA. GRATUIDADE DE JUSTIÇA DEFERIDA AO DEMANDANTE/ORA RECORRIDO EM RAZÃO DA DOCUMENTAÇÃO APRESENTADA. INICIAL APTA, EIS QUE DELA SE COMPREENDE OS FATOS E FUNDAMENTOS JURIDÍCOS, DELIMITANDO-SE A CAUSA DE PEDIR E PEDIDO, NO QUE DIZ RESPEITO À PRETENSÃO FORMULADA. PRESENÇA DO INTERESSE DE AGIR. NECESSIDADE E ADEQUAÇÃO. CABIMENTO DO PLEITO, EIS QUE INCUMBE AO MANDATÁRIO O DEVER DE PRESTAR CONTAS DO MUNUS EXERCIDO, QUE NÃO SE EXTINGUE COM A MORTE DO MANDATÁRIO, TRANSFERINDO-SE AOS SEUS HERDEIROS. ART. 668, DO CÓDIGO CIVIL MANUTENÇÃO DA SOLUÇÃO DE 1º GRAU. RECURSO CONHECIDO E DESPROVIDO " (e-STJ fl. 97).
+Os embargos de declaração opostos foram acolhidos, tendo o acórdão recebido a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. PROCEDÊNCIA. PROCEDIMENTO BIFASICO. DEVER DE PRESTAR CONTAS DECORRENTE DO MANDATO OUTORGADO, NO PERÍODO EM QUE O GENITOR DO AUTOR/AGRAVADO/EMBARGADO JÁ APRESENTAVA SINAIS DE INCAPACIDADE PARA GERIR ATOS DA VIDA CIVIL. ART. 668, DO CÓDIGO CIVIL HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL CORRETAMENTE FIXADO, DE ACORDO COM O VALOR ATRIBUÍDO À CAUSA. TEMA 1076, DO C. STJ. OMISSÃO SANADA. RECURSO CONHECIDO E PROVIDO, MANTENDO-SE A SOLUÇÃO DE 1º GRAU" (e-STJ fl. 117).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 85 §8º, e 1.022 do Código de Processo Civil.
+De início, aduz que o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, especialmente no que diz respeito à fixação dos honorários advocatícios.
+Além disso, defende a possibilidade de fixar os honorários advocatícios por equidade na primeira fase da prestação de contas, considerando que não houve condenação e o proveito econômico é inestimável.
+Após as contrarrazões (e-STJ fls. 253/257), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.--
+No tocante às omissões apontadas no acórdão estadual, o tribunal de origem ao decidir os embargos de declaração, concluiu que "o caso concreto ora em debate não se encontra dentro da possibilidade de arbitramento de honorários por equidade, devendo, portanto, ser mantido o percentual mínimo fixado de 10% sobre o valor da causa, como determinado pelo juízo em 1º grau" (e-STJ fl. 119).
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC -, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido."
+(AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022. - grifou-se)
+No mais, o acórdão recorrido está de acordo com a jurisprudência da Corte Especial do Superior Tribunal de Justiça que, no julgamento dos Recursos Especiais Repetitivos nºs 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP (Tema nº 1.076), firmou as seguintes teses:
+(i) a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor (a) da condenação, (b) do proveito econômico obtido, ou (c) do valor atualizado da causa, e
+(ii) apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação, (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou (b) o valor da causa for muito baixo.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PROVEITO ECONÔMICO INESTIMÁVEL. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. ART. 85, § 8º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. POSSIBILIDADE. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A Corte Especial do Superior Tribunal de Justiça, no julgamento dos recursos especiais repetitivos vinculados ao Tema nº 1.076, decidiu que a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados.
+3. O art. 85, § 2º, do CPC/2015 constitui a regra geral no sentido de que os honorários sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+4. É admitido o arbitramento de honorários por equidade (art. 85, § 8º, do CPC/2015) quando, havendo ou não condenação, (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou (b) o valor da causa for muito baixo.
+5. Na espécie, a revisão dos fundamentos do acórdão estadual demandaria o reexame do conjunto fático-probatório, procedimento inadmissível EM recurso especial em virtude do óbice da Súmula nº 7/STJ.
+6. Agravo interno não provido."
+(AgInt no AREsp 2.022.316/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 24/10/2022)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE EXEQUENTE.
+1. Segundo a tese firmada pela Corte Especial deste Superior Tribunal de justiça quanto ao alcance da norma prevista no art. 85, § 8º, do CPC/15, TEMA 1076, "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+2. Nos termos da compreensão firmada pelas Turmas que compõem a Segunda Seção desta Colenda Corte, em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa. Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AgInt no AgInt nos EDcl no AREsp 1.613.332/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/9/2022)
+Com efeito, incabível, nos termos da pacífica jurisprudência do Superior Tribunal de Justiça acima colacionada, a adoção da equidade para arbitrar os honorários de sucumbência nos casos em que os valores da condenação, da causa ou o proveito econômico da demanda forem elevados.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO ELEVADO. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Incabível, nos term os da pacífica jurisprudência do Superior Tribunal de Justiça acima colacionada, a adoção da equidade para arbitrar os honorários de sucumbência nos casos em que os valores da condenação, da causa ou o proveito econômico da demanda forem elevados.
+3. Agravo conhecido para negar provimento ao recurso especial.
