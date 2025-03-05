@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 210/211):
+PROCESSUAL CIVIL - Ação declaratória de nulidade contratual e repetição de indébito - Incidência de juros remuneratórios sobre as tarifas anteriormente declaradas ilegais - Sentença - Reconhecimento da prescrição decenal a contar da assinatura do contrato - Irresignação da parte autora - Direito pessoal - Incidência do art. 205, "caput" do Código Civil - Prazo prescricional decenal - Entendimento firmado pelo STJ e precedentes deste tribunal - Termo inicial em relação ao pedido declaratório da assinatura do contrato - Acolhimento a prejudicial de mérito em relação à declaratória que prejudica a análise do prazo prescricional em relação ao pleito de ressarcimento, que em razão do princípio da "actio nata", fluiria da data da lesão patrimonial, ou seja, do pagamento da última parcela - Manutenção da sentença - Desprovimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 268/288).
+Nas razões do recurso especial (e-STJ fls. 310/325), fundamentado no art. 105, III, "a" e "c" da CF, o recorrente alega violação dos arts. 502 do CPC/2015 e 92, 184 e 884 do CC/2002, sustentando a inexistência de coisa julgada.
+Afirma que "a causa de pedir daquela demanda foi a ilegalidade das tarifas cobradas, portanto, a obrigação principal, não sendo objeto daquele litígio a obrigação assessória, ou seja, os consectários de juros contratuais incidentes tais tarifas" (e-STJ fl. 315).
+Sustenta que a cobrança dos juros não integrou o pedido da primeira ação, "até porque esta matéria não poderia ser discutida em Juizado Especial, por necessitar de perícia contábil" (e-STJ fl. 320).
+Defende que deve ser evitado o enriquecimento sem causa da instituição financeira. Declara que o "Ordenamento Civil Pátrio, em seu art. 184, disciplina que uma vez declarada nula, inválida, a obrigação principal, da mesma sorte implica a nulidade, invalidade, da obrigação acessória" (e-STJ fl. 320).
+Requer que, de acordo com o entendimento sedimentado no TJPB, "sejam declaradas nulas as cláusulas que institui a incidência dos juros sobre as tarifas declaradas ilegais, por consequência, que seja determinado a devolução em dobro dos valores auferidos com os consectários de juros" (e-STJ fl. 325).
+Foram apresentadas contrarrazões (e-STJ fls. 328/335).
+Admitido o recurso na origem, foi determinada a subida dos autos a esta Corte para apreciação do especial (e-STJ fls. 339/342).
+É o relatório.
+Decido.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+O TJPB reconheceu que, "como há pedido de declaração de nulidade de cobrança contratual c/c repetição de indébito, incide primeiramente o prazo prescricional decenal em relação ao primeiro pedido declaratório, em que o "dies a quo" é a data da assinatura do contrato encartada no ID 14966248. Como a presente ação somente foi ajuizada em 11 de outubro de 2019, ou seja, após o prazo prescricional de 10 anos, forçoso manter-se a sentença que acolheu a prejudicial de mérito" (e-STJ fls. 228/229).
+Portanto, as razões apresentadas encontram-se dissociadas do decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, a Súmula n. 284/STF.
+Além disso, considerando o reconhecimento da prescrição, o conteúdo dos arts. 502 do CPC/2015 e 92, 184 e 884 do CC/2002 n ão foi analisado pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Nada obstante, é de se destacar que a tese recursal está em desconformidade com a atual jurisprudência da Quarta Turma do STJ, a teor dos seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. RECONSIDERAÇÃO. AGRAVO INTERNO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada. Novo exame do feito.
+2. A discussão em apreço cinge-se a definir se a declaração de ilegalidade de tarifas bancárias, com a consequente devolução dos valores cobrados indevidamente, determinada em ação anteriormente ajuizada no âmbito do Juizado Especial Cível, forma coisa julgada em relação ao pedido de repetição de indébito dos juros acessórios da obrigação principal.
+3. Esta Corte vem decidindo que "o acessório (juros remuneratórios incidentes sobre a tarifa) segue o principal (valor correspondente à própria tarifa), razão pela qual o pedido de devolução de todos os valores pagos referentes à tarifa nula abrange, por dedução lógica, a restituição também dos respectivos encargos, sendo incabível, portanto, nova ação para rediscutir essa matéria" (REsp 1.899.115/PB, Relator Ministro Marco Aurélio Bellizze, Terceira Turma).
+4. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp n. 2.045.088/PB, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 15/5/2023, DJe de 22/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRATO BANCÁRIO. CARÁTER ABUSIVO DA INCIDÊNCIA DE JUROS SOBRE TARIFAS BANCÁRIAS TAMBÉM ABUSIVAS. COISA JULGADA. MATÉRIA DEDUTÍVEL EM DEMANDA ANTERIOR. REFORMA DO ACÓRDÃO RECORRIDO. AGRAVO INTERNO IMPROVIDO.
+1. Debateu-se, na decisão agravada, se a coisa julgada formada em ação de repetição de indébito anterior, fundada na cobrança indevida de tarifas bancárias, impediria o ajuizamento de nova demanda, agora postulando a repetição de indébito relativamente aos juros incidentes sobre as mesmas tarifas.
+2. O STJ já fixou o entendimento de que "A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir. 3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de juros remuneratórios em razão da incidência destes sobre tarifas bancárias declaradas abusivas em sentença com trânsito em julgado, que determinou a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo" (REsp n. 1.989.143/PB, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/12/2022, DJe de 13/12/2022).
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.179.839/PB, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/4/2023, DJe de 2/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AUTORA.
+1. Consoante entendimento das Turmas que compõem a 2ª Seção desta Corte, o pedido de devolução dos valores referentes às tarifas bancárias - declaradas abusivas em outra demanda ajuizada em sede de juizado especial cível - abrange, por corolário lógico, os juros remuneratórios, pois estes são acessórios àqueles (principal), havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o reconhecimento da coisa julgada. Precedentes.
+ ..
+3. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.002.685/PB, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/3/2023, DJe de 31/3/2023.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS ADMINISTRATIVAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. PEDIDO FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. Discute-se a possibilidade de ajuizamento de nova demanda para restituição de quantia paga a título de juros remuneratórios incidentes sobre tarifas consideradas abusivas em ação de repetição de indébito julgada procedente e transitada em julgado.
+2. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de juros remuneratórios em razão da incidência destes sobre tarifas bancárias declaradas abusivas em sentença com trânsito em julgado, que determinou a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo.
+4. Recurso especial provido.
+(REsp n. 1.989.143/PB, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/12/2022, DJe de 13/12/2022.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intim em-se.
+EMENTA
