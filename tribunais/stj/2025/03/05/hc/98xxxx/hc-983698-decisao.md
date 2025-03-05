@@ -1,0 +1,12 @@
+DECISÃO
+CICERO JUSCENELLY MOREIRA DO NASCIMENTO alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará na Apelação Criminal n. 0200058-82.2022.8.06.0041.
+A defesa aponta ilegalidade na negativa de substituição da pena por restritiva de direitos, tendo em vista que "em seu registro criminal há um único feito criminal pretérito, referente a fato ocorrido há mais de 14 anos, não sendo razoável a negativa dos pedidos" (fl. 5).
+Decido.
+Este habeas corpus se insurge contra acórdão de apelação transitado em julgado, com termos de baixa datado de 2/12/2024, pelos documentos constantes dos autos, não se verifica o ajuizamento de revisão criminal e o "trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe de 15/3/2024).
+Deveras, " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+A coisa julgada, assim como o habeas corpus, também é garantia constitucional e tem o objetivo de garantir a estabilidade e a segurança jurídica, essenciais à eficácia do sistema judiciário. Além disso, o princípio do juiz natural prevê que ninguém será julgado senão pela autoridade competente.
+Ressalto que "a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência" (AgRg no AREsp n. 2.565.957/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024).
+No caso, o órgão com atribuição para a revisão criminal da condenação finda é o Tribunal de Justiça. A defesa está escolhendo um juízo não pré-constituído na forma da lei para julgar o pedido. Ademais, a pretensão de desclassificação não foi analisada em segundo grau. Desse modo, qualquer juízo desta Corte sobre o tema implicaria supressão de instância e violação das regras constitucionais de repartição de competências (art. 105 da CF).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
