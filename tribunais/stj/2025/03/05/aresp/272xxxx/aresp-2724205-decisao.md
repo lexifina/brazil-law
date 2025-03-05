@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por BRASILSEG COMPANHIA DE SEGUROS contra v. acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+RECURSOS DE APELAÇÃO - AÇÃO DE COBRANÇA DE SEGURO DE VIDA - RECUSA DE PAGAMENTO SOB A ALEGAÇÃO DE DOENÇA PREEXISTENTE - AUSÊNCIA DE EXAME MÉDICO PRÉVIO - SÚMULA 609/STJ - INDENIZAÇÃO SECURITÁRIA DEVIDA - RECURSOS DESPROVIDOS.
+Nos termos da Súmula 609/STJ, não pode a seguradora se eximir do pagamento da indenização ao argumento de que o segurado era portador de moléstia preexistente se não exigiu deste, exames médicos prévios à contratação.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 445-450.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. s 422, 757, 760, 765 e 766 do Código Civil. Sustenta, em síntese, que: a) o seguro prestamista tem como beneficiário o Banco do Brasil SA; e b) restou evidenciada a má-fé do segurado ao realizar seguro de vida com doença preexistente não informada.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+Trata-se de matéria, inclusive, já sumulada por aquela Corte: "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé " (Súmula 609). do segurado Na espécie, conforme prontuário médico de 30/05/2019, conquanto seja observada a existência de doença pulmonar preexistente no segurado, a seguradora não exigiu a realização de exames previamente à contratação do seguro prestamista, contentando-se com a declaração do segurado sobre seu estado de saúde.
+Anota-se, ainda, que conforme documentos colacionados aos autos, o falecimento do segurado ocorreu em virtude de complicações decorrentes da Covid-19, a qual era completamente desconhecida no cenário brasileiro à época do referido prontuário, de forma que não se pode cogitar que o segurado tivesse conhecimento do risco de morte em data próxima.
+Logo, como bem pontuado na sentença, "não pode a seguradora se eximir do pagamento da indenização, alegando que o segurado era portador de ". moléstia preexistente, se não exigiu deste exame clínico prévio Outro não é o entendimento deste Sodalício:
+(..)
+E, como corolário lógico, restando demonstrado que a indenização securitária era devida e foi indevidamente negada, obrigando a parte interessada a ingressar em juízo para ver seu direito reconhecido, não há falar, como pretende fazer crer o Banco Apelante, em necessidade de inversão do ônus sucumbencial, inexistência de falha na prestação do serviço ou ausência de ato ilícito a amparar sua condenação.
+Outrossim, sem razão a alegação da seguradora de desrespeito às estipulações contratuais com a determinação do pagamento das coberturas contratadas diretamente à parte Autora, visto que assim fora previsto no formulário de pagamento de indenização (Ids. 197782161 e 197782169), onde é indicado que a quitação se daria mediante depósito em conta poupança de sua titularidade.
+Por derradeiro, em relação aos honorários advocatícios, logrando a parte Autora/Apelada êxito na maior parte de seus pedidos, descabida a aplicação do disposto no parágrafo único do CPC em seu desfavor, como pretendido pela Seguradora Apelante, assim como é descabido o arbitramento da verba por equidade, como alegado pelo Banco Recorrente, à luz da determinação do STJ no Tema 1076.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem consignou que não restou comprovada a má-fé do segurado, além do que não houve cobrança de exames prévios pela seguradora. Assentou, ainda, que, quanto ao destinatário do seguro, "fora previsto no formulário de pagamento de indenização (Ids. 197782161 e 197782169), onde é indicado que a quitação se daria mediante depósito em conta poupança de sua titularidade"
+Nesse contexto, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Consoante a jurisprudência desta Corte, a legislação vigente (art. 932 do CPC/15 c/c Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade. Precedentes.
+2. De acordo com a jurisprudência desta Corte Superior, consolidada na Súmula 609/STJ, "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado." Incidência da Súmula 83/STJ.
+2.1. Para derruir a convicção a que chegou o Tribunal estadual acerca da comprovação da má-fé do insurgente na contratação do seguro, seria necessário o reexame do contexto fático-probatório dos autos, de modo que reformar tal entendimento encontra óbice no enunciado da Súmula n. 7 desta Corte.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.033.791/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO PRESTAMISTA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VENDA CASADA. INFORMAÇÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste negativa de prestação jurisdicional quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e revisão das cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que as informações foram prestadas e não houve venda casada. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.925.718/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+Por fim, a incidência da Súmula 7/STJ pela alínea "a" também obsta o recurso especial pela alínea "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso especial não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 12% para 13% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
