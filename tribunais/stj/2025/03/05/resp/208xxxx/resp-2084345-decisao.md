@@ -1,0 +1,26 @@
+DECISÃO
+DOUGLAS UBIRAJARA DIAS FERNANDES interpõe recurso especial com base no art. 105, III, "a", da CF, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502770-46.2022.8.26.0348.
+Consta dos autos que o recorrente foi condenado à pena de 5 anos, 5 meses e 10 dias de reclusão, no regime inicial fechado, mais multa, pela prática do crime previsto no art. 157, caput, do Código Penal.
+Nas razões recursais, foi apontada a violação dos arts. 226 e 386, VII, do Código de Processo Penal e 33, § 2º, e 59, do Código Penal.
+A defesa aduz, inicialmente, que a condenação teve por base apenas reconhecimentos nulos, realizados em desacordo com o art. 226 do CPP, sem outras provas idôneas da autoria delitiva. Subsidiariamente, alega a existência de vícios na dosimetria, quanto à fixação da pena-base e do regime inicial de cumprimento da pena.
+Apresentadas as contrarrazões, a Corte de origem admitiu parcialmente o recurso especial (fls. 323-324).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 355-363).
+Decido.
+I. Admissibilidade
+De início, constato a tempestividade do recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal.
+Contudo, em relação à tese de violação do art. 226 do CPP, observo que a Corte de origem não se manifestou expressamente sobre tal tema, o que impossibilita que este Superior Tribunal analise a questão diretamente, sob pena de indevida supressão de instância.
+Também não deve ser conhecida a alegação de desrespeito ao art. 157 do CPP, com correspondente pedido de absolvição em razão da fragilidade do acervo probatório. Isso porque, para desconstituir a conclusão alcançada pelo Tribunal a quo - como pretende a defesa -, seria necessário realizar aprofundado reexame de provas, o que, no entanto, é inviável nos estreitos limites de cognição do recurso especial. Assim, em relação ao tópico supracitado, incide o óbice previsto na Súmula n. 7 do STJ.
+Ato contínuo, ratifico a decisão de inadmissibilidade proferida pela Corte estadual, relativa à tese de violação do art. 59 do Código Penal, uma vez que o recorrente formula pedido genérico, sem impugnar adequadamente as razões invocadas no acórdão para a fixação da pena-base acima do mínimo legal, o que implica a deficiência da fundamentação necessária a autorizar o seu processamento, nos termos do art. 1.029 do Código de Processo Civil.
+Por fim, em relação ao alegado desrespeito ao art. 33 do Código Penal, verifico o preenchimento dos requisitos constitucionais, legais e regimentais para seu processamento. Houve prequestionamento desse tema objeto da impugnação e exposição dos dispositivos de lei presumidamente contrariados, além dos fatos e do direito, de modo a permitir o exame da aventada questão jurídica controversa, somente em relação a este último tópico.
+II. Regime inicial
+Ao estabelecer o regime prisional de cumprimento de pena, o Tribunal assim fundamentou sua decisão (fls. 227-228, grifei):
+Sopesadas as circunstâncias judiciais do artigo 59, do Código Repressivo, fixo a básica acima do mínimo legal, na fração de 1/6, em razão dos maus antecedentes ostentados pelo increpado, consoante certidões de fls.103/107.
+Na fase intermediária, presente a circunstância agravante da reincidência, devidamente comprovada pela certidão de fls.105 (feito nº 0001807-31.2016.8.26.0540), majoro a reprimenda no patamar de 1/6.
+Na fase derradeira, sem causas de aumento ou diminuição.
+Destarte, a reprimenda do increpado resulta definitiva em 5 anos, 5 meses e 10 dias de reclusão e pagamento de 12 dias- multa, no valor mínimo legal. O regime a ser adotado deve ser o inicial fechado, pois referido regime é o mais adequado ao agente que comete crime de roubo, pois tal delito atormenta a sociedade, colocando-a em verdadeiro pânico, de maneira que criminoso desta natureza, que não hesita em ameaçar e colocar em risco a vida dos cidadãos honestos e trabalhadores, deve ser tratado com todo o rigor da lei. Além disso, o acusado ostenta reincidência.
+Então , apesar de usar fundamentos relativos à gravidade abstrata do delito, observo que o regime inicial de cumprimento de pena do acusado foi estabelecido, também, em razão da quantidade de pena privativa de liberdade (entre 4 e 8 anos) e de sua condição pessoal de reincidente , o que está em consonância com o art. 33, § 2º, "b", do Código Penal e com a jurisprudência deste Tribunal Superior:
+ ..  De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"  ..  Na hipótese, em pese tenha sido imposta reprimenda entre 4 e 8 anos de reclusão, tratando-se de réu com circunstâncias judiciais desfavoráveis, não há que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", c/c § 3º, do Código Penal  ..  (AgRg no AREsp n. 2.385.009/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/9/2023).
+III. Dispositivo
+À vista do exposto, conheço parcialmente do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
