@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/02/2025 a 05/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. PROVA DE AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DE REVOLVIMENTO PROBATÓRIO. DOSIMETRIA. MAUS ANTECENDENTES. NÃO INCIDÊNCIA DO DIREITO AO ESQUECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pleito defensivo pretende o revolvimento fático-probatório da matéria, na medida em que a absolvição do paciente, na espécie, demandaria a análise da questão com lastro em cognição exauriente, o que é incabível na via estreita do habeas corpus.
+2. Extinção da pena que se deu há apenas seis anos quando do cometimento dos novos fatos criminosos, sendo de rigor a manutenção do reconhecimento dos maus antecedentes.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por DEISY RODRIGUES contra decisão monocrática de minha relatoria, que denegou a ordem de habeas corpus manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que manteve condenou o acusado às penas de a 07 anos, 09 meses e 10 dias de reclusão, em regime inicial fechado, além de 777 dias-multa, por infração ao disposto no art. 33, caput, c/c o art. 40, inciso VI, da Lei n. 11.343/2006 (e-STJ fl. 935/954).
+O agravante pretende o restabelecimento da sentença absolutória em razão da ausência de provas de autoria e o afastamento da circunstância judicial de maus antecedentes (e-STJ fls. 1185/1190).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. PROVA DE AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DE REVOLVIMENTO PROBATÓRIO. DOSIMETRIA. MAUS ANTECENDENTES. NÃO INCIDÊNCIA DO DIREITO AO ESQUECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pleito defensivo pretende o revolvimento fático-probatório da matéria, na medida em que a absolvição do paciente, na espécie, demandaria a análise da questão com lastro em cognição exauriente, o que é incabível na via estreita do habeas corpus.
+2. Extinção da pena que se deu há apenas seis anos quando do cometimento dos novos fatos criminosos, sendo de rigor a manutenção do reconhecimento dos maus antecedentes.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir os fundamentos que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais."
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo."
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal."
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024)."
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+No entanto, não se vislumbra a alegada flagrante ilegalidade em relação à condenação da paciente às penas do art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006.
+Isso porque a análise do acervo probatório atinente à materialidade e à autoria do delito de tráfico de drogas já foi realizada pelas instâncias ordinárias. Nesse sentido, colhe-se trecho do v. acórdão impugnado pela defesa:
+"Também a restou patente, pelo próprio auto de prisão em flagrante (Num. 13576184 - Págs. 5/16), pelos depoimentos incriminatório dos policiais militares, colhidos tanto na fase inquisitiva como na esfera judicial, bem como por todo o contexto probatório integrante do caderno processual.
+Os policiais militares que conduziram os acusados à delegacia, Marcelo Nunes e Robertano Florencio da Silva Segundo, em seus depoimentos prestados na fase inquisitorial e em juízo, retrataram o fato narrado na exordial acusatória"
+Nesse contexto, tem-se que o pleito defensivo pretende o revolvimento fático-probatório da matéria, na medida em que a absolvição do paciente, na espécie, demandaria a análise da questão com lastro em cognição exauriente, o que é incabível na via estreita do habeas corpus. Tal é o entendimento consolidado desta Corte Superior. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. NULIDADE. INVASÃO DE DOMICÍLIO. FUNDADAS RAZÕES PARA O INGRESSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, submetido à sistemática da repercussão geral, firmou o entendimento de que a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados".
+2. O Ministro Rogerio Schietti Cruz, ao discorrer acerca da controvérsia objeto desta irresignação no REsp n. 1.574.681/RS, bem destacou que "a ausência de justificativas e de elementos seguros a legitimar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, pode fragilizar e tornar írrito o direito à intimidade e à inviolabilidade domiciliar" (Sexta Turma, julgado em 20/4/2017, DJe 30/5/2017).
+3. No caso, não há violação ao art. 157 do CPP, porquanto os policiais, para averiguação de denúncias anônimas de tráfico de drogas, organizaram operação e realizaram campanas em frente ao imóvel em questão, visualizando o recorrente realizar operação suspeita no local. Tais elementos, em seu conjunto, configuraram a justa causa para a entrada no imóvel, que resultou na apreensão de 32,400Kg (trinta e dois quilos e quatrocentos gramas) de maconha.
+Estão hígidas, em vista disso, as provas produzidas.
+4. Verifica-se a existência de situação emergencial que inviabilizaria o prévio requerimento de mandado judicial, evidenciando-se a existência de razões suficientes para mitigar a garantia constitucional da inviolabilidade de domicílio, estando atendidas a contento as premissas jurisprudenciais estabelecidas pelos tribunais superiores quanto à questão da entrada forçada de agentes de segurança em domicílio, afastando-se a ilicitude de prova apontada pela defesa.
+5. Ademais, a apreciação da questão, além do quanto ao qual o Tribunal de origem deu conhecimento, demandaria revolvimento do conjunto fático-probatório, o que é inadmissível na via estreita do habeas corpus.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 871.880/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024 - negritos aditados)
+DIREITO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. CIRCUNSTÂNCIAS CONCRETAS E IDÔNEAS. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. BIS IN IDEM NÃO CONFIGURADO. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se pleiteava a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, alegando-se que o paciente não se dedicava a atividades criminosas. II. QUESTÃO EM DISCUSSÃO
+2. Se os elementos fáticos comprovam a dedicação do paciente a atividades criminosas, afastando o benefício do tráfico privilegiado; III. RAZÕES DE DECIDIR
+3. A aplicação da minorante do tráfico privilegiado (§ 4º do art. 33 da Lei n. 11.343/2006) exige que o réu seja primário, de bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa. No presente caso, o afastamento do benefício foi baseado em elementos concretos, em razão da quantidade e variedade das drogas apreendidas, bem como em razão da "perícia realizada no aparelho telefônico do réu deu conta da existência de diversas mensagens de texto que comprovam a sua estreita ligação com o narcotráfico, que indicam a dedicação do paciente à traficância.
+4. O habeas corpus não é a via adequada para o revolvimento de provas, sendo necessária a análise do conjunto fático-probatório, o que é inviável nessa via processual, em conformidade com a jurisprudência da Corte.
+IV. AGRAVO REGIMENTAL DESPROVIDO."
+(AgRg no HC n. 923.666/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024 - negritos aditados)
+Assim, inexistente flagrante ilegalidade em tal ponto deduzido no presente writ, incabível é o conhecimento do remédio constitucional quanto ao ponto.
+Quanto ao reconhecimento dos maus antecedentes, não se desconhece o direito ao esquecimento consagrado por esta Corte.
+De fato, o Superior Tribunal de Justiça passou a compreender que a avaliação dos antecedentes, por fatos muito antigos, deve ser feita de forma casuística, em atenção aos princípios da proporcionalidade e da razoabilidade, à luz da teoria do direito ao esquecimento, levando-se em consideração o lapso temporal transcorrido entre extinção da pena anteriormente imposta e a prática do novo delito.
+Nesse sentido:
+"A excepcional possibilidade de relativização das condenações antigas, para o fim de afastar a configuração de maus antecedentes, com fundamento na teoria do direito ao esquecimento, ante o princípio da proporcionalidade, se aplica à hipótese dos autos, haja vista que a condenação penal anterior, utilizada pela Corte local para amparar a valoração negativa da vetorial antecedentes, teve a extinção de punibilidade em 2005 (e-STJ fl. 312), ao passo que a conduta apurada nos presentes autos foi cometida em 2019 (eSTJ fl. 364), tendo transcorrido, portanto, mais de 10 anos entre os referidos marcos, o que evidencia a indevida perpetuidade na valoração dos antecedentes na pena da recorrente. Decote da vetorial antecedentes que se revela de rigor."
+(AgRg no AREsp n. 2.720.836/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2024, DJe de 14/10/2024)"
+No presente caso, porém, como apontando pela própria defesa a extinção da pena teria se dado há apenas seis anos quando do cometimento dos novos fatos criminosos, ou seja, apenas um ano após o período depurar, sendo de rigor a manutenção do reconhecimento dos maus antecedentes.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
