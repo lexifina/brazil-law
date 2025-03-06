@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MAICON JONATAN CUSTODIO DE OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do Habeas Corpus Criminal n. 1.0000.24.388607-4/000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 18/8/2024, posteriormente convertido em prisão preventiva, pela suposta prática do crime tipificado no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/06.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 25):
+""HABEAS CORPUS" - TRÁFICO DE DROGAS - REVOGAÇÃO DAS PRISÕES PREVENTIVAS - IMPOSSIBILIDADE - PENA EM PERSPECTIVA - IMPROPRIEDADE DA VIA - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA - FIXAÇÃO DE MEDIDAS CAUTELARES DIVERSAS - INVIABILIDADE - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. - A manutenção das custódias cautelares dos pacientes é medida que se impõe, vez que presentes os pressupostos e requisitos da medida extrema, dispostos nos art. 312 e art. 313, ambos do Código de Processo Penal e, além disso, a decisão que converteu os flagrantes em prisões preventivas encontra-se propriamente motivada pela autoridade apontada como coatora, nos termos do que prevê o art. 93, inciso IX da Constituição da República c/c o art. 315 do CPP. - A alegação de que, em caso de eventuais condenações, as penas fixadas serão mais brandas do que o atual recolhimento "in carcere", confunde-se com o mérito da ação penal, por demandar análise aprofundada e valorativa da matéria fático-probatória, até mesmo porque não há como se prever a reprimenda a ser aplicada, sendo imprópria a via eleita. - As condições pessoais favoráveis, isoladamente, não têm o condão de afastar a necessidade das prisões preventivas, sobretudo quando presentes outros elementos que demonstrem eventual "periculum libertatis" dos pacientes, em especial a gravidade concreta da conduta supostamente perpetrada. - A fixação de medidas cautelares diversas da prisão, insertas no art. 319 do CPP, é insuficiente para a efetiva garantia da ordem pública, diante da justificada necessidade das constrições cautelares."
+No presente writ, a defesa sustenta a ilegalidade da conversão do flagrante em preventiva, alegando que a decisão está amparada apenas na gravidade abstrata do delito e em conceitos genéricos como "clamor público" e "credibilidade da justiça", sem correlacionar essas questões ao caso concreto, violando, assim, o art. 312 do Código de Processo Penal - CPP, bem como o princípio constitucional da presunção de inocência.
+Argumenta, outrossim, que não há elementos concretos que justifiquem a manutenção da prisão preventiva, sendo ausentes os requisitos de perigo à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Aduz, ainda, a falta de conexão entre o paciente e as drogas apreendidas, tendo em vista que durante a abordagem policial não foi encontrada nenhuma substância ilícita com o acusado e que o material apreendido estava em um lote vago, com acesso a qualquer pessoa.
+Ressalta as condições pessoais favoráveis e invoca o princípio da homogeneidade, afirmando que, mesmo em caso de eventual condenação, o paciente pode ser beneficiado com a minorante do tráfico privilegiado, o que resultaria na substituição da pena privativa de liberdade por restritivas de direitos, evidenciando, desse modo, a desproporcionalidade da medida extrema.
+Por fim, afirma ser possível a substituição da prisão preventiva por cautelares diversas, previstas no art. 319 do CPP.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+A liminar foi indeferida às fls. 101/103.
+As informações foram prestadas às fls. 109/126 e 130/140.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 144/147).
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Consulta ao andamento processual dos autos da Ação Penal n. 0012916-13.2024.8.13.0382 (PJe) evidencia a superveniência de sentença condenatória, tendo sido deferido ao paciente a substituição da pena privativa de liberdade por duas restritivas de direitos, bem como a expedição de alvará de soltura em 14/2/2025, ocasionando a perda superveniente do objeto da impetração.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
