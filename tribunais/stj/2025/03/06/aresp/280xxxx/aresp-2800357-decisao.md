@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ENPLAN ENGENHARIA E CONSTRUTORA LTDA., fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 30/09/2024.
+Concluso ao gabinete em: 05/02/2025.
+Ação: de regresso, ajuizada por FERNANDO RICARDO SAMPAIO EDWARDS, em face de ENPLAN ENGENHARIA E CONSTRUTORA LTDA., ENPLAN EMPREENDIMENTOS IMOBILIÁRIOS LTDA., HORIZONTES EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. e SAN GIMIGNANO EMPREENDIMENTOS E PARTICIPAÇÕES S.A. (e-STJ fls. 1-17).
+Sentença: julgou improcedente a ação e extinto o processo, com resolução do mérito, condenou o autor ao pagamento de custas e despesas processuais (e-STJ fls. 479-483).
+Acórdão: reverteu a Sentença e acolheu integralmente os pedidos do autor, nos termos da seguinte ementa:
+Ação regressiva de reembolso de despesas condominiais e impostos prediais vencidos, aforada depois de obtida em juízo a adjudicação compulsória e a imissão na posse de imóvel alvo de compromisso de venda e compra - Decisão de improcedência - Preliminares rejeitadas - Hipótese de incidência dos arts. 346, III, 349, 931 e 942 do Código Civil - Direito à sub-rogação legal - Incorrência de prescrição trienal ou quinquenal - Obrigações propter rem, por força dos arts. 34 e 130 do Código Tributário Nacional, art. 1.345 do Código Civil e Tema Repetitivo 886 do Superior Tribunal de Justiça - Legitimidade concorrente - Responsabilidade solidária do proprietário do terreno, incorporador, construtor, intervenientes e comercializadores munidos de propósitos comuns - Inteligência dos arts. arts. 29, 30, 31, "a", "b" e §§ 1º e 3º, da Lei 4.591/64 - Dissimulação da realidade entre os idealizadores e os participantes ostensivos atuantes para o sucesso do empreendimento - Verificação de propósitos lucrativos comuns e vínculos empresariais entre as companhias e seus membros envolvidos na operação - Sentença revertida - Recurso provido (e-STJ fls. 586-589).
+Recurso especial de ENPLAN ENGENHARIA E CONSTRUTORA LTDA: alega dissídio em relação aos arts. 934 do CC e arts. 320 e 932, III, do CPC.
+Argumenta que o acórdão recorrido diverge de precedentes sobre a necessidade de comprovação de pagamento para ação de regresso.
+Sustenta que a apelação não impugnou especificadamente os fundamentos da sentença. Argumenta que houve repetição dos argumentos da inicial, sem impugnação específica da sentença recorrida.
+Pede provimento para reforma do acórdão recorrido, alegando a impossibilidade de seguimento da ação de regresso (e-STJ fls. 592-602).
+RELATADO O PROCESSO, DECIDE-SE.
+Da divergência jurisprudencial - ausência de cotejo analítico
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+Necessário frisar que a "mera transcrição de ementas sem o devido cotejo analítico impede conhecimento do recurso especial pela alínea "c" do permissivo constitucional" (REsp 2.129.680/RJ, Terceira Turma, DJe de 10/04/2024).
+Na hipótese, verifica-se que há apenas a transcrição de trecho da ementa no segundo paradigma trazido, sem o devido cotejo analítico (e-STJ fl. 600). Nesse sentido: AgInt no REsp 2.165.387/SP, Primeira Turma, DJe de 20/12/2024; AgInt no AREsp 2.630.311/RS, Segunda Turma, DJe de 2/12/2024; AgInt no AREsp 2.503.857/PE, Terceira Turma, DJe de 12/12/2024; AgInt no AREsp 2.702.961/RJ, Quarta Turma, DJe de 09/12/2024; AgRg no AREsp 2.607.121/SP, Quinta Turma, DJe de 09/12/2024; AgRg no AREsp 2.399.599/GO, Sexta Turma, DJe de 29/08/2024.
+Da fundamentação deficiente - Súmula 284/STF
+É o entendimento deste STJ no sentido de que "o recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal. Se nas razões de recu rso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt no AREsp 2.028.892/PR, 3ª Turma, DJe de 17/10/2022). Na mesma toada, confira-se ainda: AgInt no REsp 2.002.098/SE, 3ª Turma, DJe de 20/10/2022; AgInt no REsp 1.403.320/SE, 4ª Turma, DJe de 17/10/2022; AgInt no AREsp 1.881.444/GO, 4ª Turma, DJe de 26/9/2022; AgInt no REsp 2.059.072/DF, Dje 29/11/2024.
+No particular, a ausência do acórdão recorrido e de acórdão paradigma para ilustrar o dissídio jurisprudencial suscitado quanto ao art. 932, III, do CPC, demonstra fundamentação deficiente (e-STJ fl. 601). Dessa forma, inafastável, pois, a incidência por analogia da Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente em 11% sobre o valor da condenação (e-STJ fl. 589) para 13%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1021, § 4º, e 1026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REGRESSO. DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Ação de Regresso.
+2. Na hipótese, o dissídio jurisprudencial não foi demonstrado, uma vez que a parte recorrente se limitou a citar as ementas de acórdãos trazido como paradigmas, sem realizar o necessário cotejo analítico e demonstrar a similitude fática.
+3. A ausência de indicação dos acórdãos paradigmas para ilustrar a divergência impede o conhecimento do recurso. Aplicação por analogia da Súmula 284/STF.
+4. Agravo conhecido. Recurso Especial não conhecido.
