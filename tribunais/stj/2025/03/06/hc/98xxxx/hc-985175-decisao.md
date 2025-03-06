@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RIAN WESLLEY CONDADO BATASTA, em que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE (apelação criminal n. 801801-61.2023.8.20.5600).
+Consta nos autos que o paciente foi condenado à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, a ser cumprida inicialmente em regime fechado, bem como ao pagamento de 520 (quinhentos e vinte) dias-multa, pelo delito de tráfico de drogas (art. 33, caput, da Lei nº. 11.343/2006.
+Na presente impetração, a defesa invoca a nulidade por violação de domicílio.
+Assere que policiais "receberam uma denúncia anônima de popular sobre um indivíduo de camisa azul em uma bicicleta que estaria supostamente praticando assaltos na região. Ao realizarem diligências, os policiais avistaram o paciente, que supostamente correspondia às características informadas, e alegaram que, ao perceber a presença policial, ele teria arremessado algo ao chão e demonstrado nervosismo. Durante a revista pessoal, foram encontradas duas porções de maconha na bermuda do paciente e a quantia de R$ 280,00. Após varredura no local, os policiais teriam localizado outras porções de droga no chão, próximo à bicicleta" (fl. 3).
+E que "é incontroverso que os policiais militares adentraram a residência do paciente sem mandado judicial. A justificativa para o ingresso foi o suposto consentimento do morador, que, de acordo com os próprios agentes em seus depoimentos, teria indicado voluntariamente sua residência e autorizado a entrada dos policiais, após ter sido abordado na rua e terem sido encontradas duas porções de maconha em sua posse. Segundo a versão policial, o paciente teria confessado informalmente a propriedade das drogas e indicado que em sua residência haveria mais substâncias ilícitas, conduzindo voluntariamente os policiais até lá, onde seu pai e irmão teriam franqueado a entrada da guarnição. No entanto, conforme relatado pelo paciente em seu interrogatório judicial, ele somente indicou sua residência e "permitiu" a entrada dos policiais após ter sido coagido e ameaçado pelos agentes. Tal situação enquadra-se perfeitamente na hipótese de consentimento inválido, conforme pacífica jurisprudência desse E. Superior Tribunal de Justiça" (fl. 5).
+Requer, inclusive liminarmente, sobrestar os efeitos da condenação até o julgamento definitivo. No mérito, absolver o paciente. Subsidiariamente, determinar ao Tribunal de Justiça do Rio Grande do Norte que profira nova decisão.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da suposta invasão de domicílio.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ainda, também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que (fl. 12):
+PENAL. PROCESSUAL PENAL. EMENTA APELAÇÃO CRIMINAL. CONDENAÇÃO PELO CRIME DO ART. 33, CAPUT, DA LEI Nº 11.343/2006. RECURSO DEFENSIVO.
+PRETENSA NULIDADE DA PROVA EM RAZÃO DA VIOLAÇÃO DE DOMICÍLIO, SUSCITADA PELA DEFESA.
+NÃO ACOLHIMENTO. EXISTÊNCIA DE FUNDADAS RAZÕES. FLAGRANTE DELITO. DINÂMICA DELITIVA QUE INDICAVA A PRÁTICA DE CRIME NO LOCAL. JURISPRUDÊNCIAS DO STJ E DESTA CORTE.
+RECURSO CONHECIDO E DESPROVIDO.
+Esses fatores, considerados em conjunto, levaram o Tribunal à conclusão de que o paciente deveria sofrer a reprimenda nos moldes exatos em que fora impost a.
+Com efeito, para que fosse possível desconstituir essas premissas, devidamente fundamentadas em fatos concretamente extraídos dos autos, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+A esse respeito:
+ ..  De tal modo, não é possível na via eleita desconstituir referida conclusão, porquanto demandaria indevido revolvimento de fatos e provas  ..  (AgRg no HC n. 904.707/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+ ..  A reforma das conclusões a que chegaram as instâncias ordinárias constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito  ..  (AgRg no HC n. 903.566/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
