@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de reclamação apresentada por Itaú Unibanco S.A., com fundamento no art. 105, I, alínea "f", da Constituição Federal, e no art. 988, I, III e IV, do Código de Processo Civil, em face de acórdão proferido pelo Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), nos autos do agravo interno em recurso especial nº 0342134-10.2013.8.19.0001.
+A reclamação ajuizada busca preservar a competência e a autoridade das decisões do Superior Tribunal de Justiça, alegando que o TJRJ aplicou indevidamente a tese firmada no Tema 434 do STJ e desrespeitou a Súmula 98 desta Corte Superior, o que teria obstado o correto processamento do recurso especial do reclamante.
+Nos autos da ação originária, os requeridos, integrantes do Grupo Ingá, ajuizaram demanda indenizatória contra o Itaú, sustentando prejuízos decorrentes de fraude praticada por ex-gerente da instituição financeira. Nos termos da petição inicial desta reclamação, o Itaú foi condenado, sem a produção de prova pericial contábil, ao pagamento de valores milionários.
+Em sede de apelação, a 24ª Câmara Cível do TJRJ manteve a sentença, sem enfrentar o pedido de nulidade para realização da prova pericial. O Itaú opôs embargos de declaração, os quais foram rejeitados com aplicação de multa por embargos protelatórios (art. 1.026, § 2º, do CPC), apesar de seu caráter de prequestionamento.
+Diante disso, o Itaú interpôs recurso especial, que teve o seu seguimento negado quanto à multa aplicada, sob o fundamento de que a decisão estaria em conformidade com o Tema 434 do STJ, e não foi admitido pelo TJRJ quanto às outras matérias.
+Por isso, foram apresentados agravo interno e agravo em recurso especial.
+Alega o reclamante que a hipótese dos autos não se enquadra no Tema 434 do STJ, pois este trata de multa aplicada em agravo interno contra decisão singular, enquanto no caso concreto a multa foi imposta nos primeiros embargos de declaração opostos contra o acórdão.
+Argumenta, ainda, que o TJRJ deixou de aplicar a Súmula 98 desta Corte Superior, que dispõe que "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Sustenta, assim, que houve indevida aplicação de tese firmada em recurso repetitivo e que a decisão do TJRJ impede o exercício da competência do STJ para apreciar a controvérsia.
+Assim posta a questão, passo a decidir.
+Observando os autos, verifico que, além do agravo interno rejeitado pelo Tribunal de Justiça do Rio de Janeiro, foi interposto o agravo em recurso especial nº 1.813.843/RJ, também sob minha relatoria.
+Nesse recurso, proferi decisão enfrentando diversos aspectos do acórdão recorrido, incluindo a multa imposta pelo TJRJ em razão da oposição dos embargos de declaração. Ao analisar a questão, afastei a condenação do Itaú ao pagamento da penalidade prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Diante dessa decisão, a reclamada Auto Lotação Ingá LTDA interpôs agravo interno, no qual apresentei voto sustentando que a penalidade aplicada ao Itaú não poderia ser mantida. Isso porque, conforme a Súmula 98 deste Superior Tribunal de Justiça, embargos de declaração opostos com notório propósito de prequestionamento, como no caso, não possuem caráter protelatório e não justificam a imposição da multa.
+Após a apresentação do meu voto, o Ministro Marco Buzzi pediu vista.
+Nesse contexto, independentemente do desfecho do julgamento, fica evidente que a controvérsia sobre a legalidade da multa imposta pelo TJRJ nos embargos de declaração já está sendo debatida no AREsp nº 1.813.843/RJ, caracterizando a perda de objeto da presente reclamação.
+Em face do exposto, julgo prejudicada a reclamação, com fundamento nos arts. 485, VI, e 932, III, do CPC, bem como no art. 34, XI, do RISTJ.
+Intimem-se.
+EMENTA
