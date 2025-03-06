@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por THIAGO VITAL DE OLIVEIRA SANTOS e MICHAEL TEODORO SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS no julgamento do HC n. 0801809-24.2024.8.02.0000.
+Consta dos autos que os recorrentes foram "presos em 24/01/2023 (Michael) e 03/02/2023 (Thiago) em razão de cumprimento de mandado de prisão, nos autos que apuram a pratica do crime de homicídio qualificado, tipificado no art. 121, § 2º, incisos II e IV, do Código Penal. Inconformada, a defesa impetrou habeas corpus perante o E. Tribunal de Justiça de Alagoas, alegando excesso de prazo na formação da culpa. Ao julgar o writ, a colenda Câmara Criminal do Tribunal de Justiça de Alagoas denegou a ordem" (fl. 301), nos termos do acórdão assim ementado:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. SUPOSTO CONSTRANGIMENTO ILEGAL DECORRENTE DO EXCESSO DE PRAZO PARA A FINALIZAÇÃO DA INSTRUÇÃO PROCESSUAL. PECULIARIDADES DO CASO. DENÚNCIA EM DESFAVOR DE MAIS DE UM RÉU. NECESSIDADE DA REALIZAÇÃO DE DILIGÊNCIAS E PERÍCIA DE MÍDIA CONTENDO GRAVAÇÕES DO FATO CRIMINOSO. AUSÊNCIA DE DESÍDIA DO JUÍZO A QUO. PRISÕES REANALISADAS E MANTIDAS PARA A GARANTIA DA ORDEM PÚBLICA. AUDIÊNCIA DE INSTRUÇÃO DESIGNADA PARA DATA PRÓXIMA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM CONHECIDA E DENEGADA. UNANIMIDADE.
+1. Na hipótese, os pacientes foram denunciados pela suposta prática do crime de homicídio qualificado mediante o emprego de arma de fogo, tipificado no art. 121, § 2º, II e IV, do Código Penal, que vitimou a pessoa Carlos da Silva, no dia 15.11.2022, nesta Capital, tendo a prisão sido decretada, no dia 20.01.2023, sob o fundamento da garantia da ordem pública. Consta nos autos que a prisão do denunciado Michael Teodoro Souza fora efetivamente cumprida em 24.01.2023, sendo o réu Thiago Vital de Oliveira Santos preso no dia 03.02.2023.
+2.Quanto ao legando excesso de prazo, o entendimento jurisprudencial das Cortes Superiores se dá no sentido de que o constrangimento ilegal por excesso de prazo na formação da culpa deve ser encarado à luz do princípio da razoabilidade.
+3. Ao prestar informações nos autos de habeas corpus, o juízo apontado como coator esclareceu que, diante do decurso de tempo e da urgência haja vista se tratar de processo cujos réus se encontram presos, determinou-se a expedição de ofício ao diretor do Instituto de Criminalística, fixando prazo para que seja encaminhado laudo pericial da mídia contendo imagens de câmeras de segurança do local dos fatos devidamente concluído, sendo a audiência de instrução designada para ocorrer em 07.05.2024, para realização do interrogatório dos réus, aqui pacientes, encontrando-se o feito no aguardo do ato em questão para dar prosseguimento à primeira fase do Júri. No caso, não se verifica desídia da autoridade judicial na condução da demanda, não havendo, portanto, constrangimento ilegal a ser reconhecido através do presente remédio heroico.
+4. Ordem denegada." (fl. 286)
+Os recorrentes sustentam "ser longe do razoável aceitar que alguém permaneça preso cautelarmente por aproximadamente 423 (quatrocentos de vinte e três) dias sem que tenham sido submetidos a julgamento popular. Trata-se de evidente afronta aos princípios constitucionais do estado de inocência e da razoável duração do processo, valores caros ao nosso Estado Democrático de Direito" (fl. 302).
+Requerem, em liminar e no mérito, o relaxamento da prisão.
+Decisão i ndeferindo o pedido de liminar às fls. 326/328.
+As informações foram prestadas às fls. 335/359 e 361/366.
+O  Ministério  Público  Federal  -  MPF  manifestou-se  pelo não provimento do recurso  (fls.  372/375).
+É  o  relatório.
+Decido.
+O recurso em habeas corpus está prejudicado.
+Consulta ao andamento processual dos autos da Ação Penal n. 0745165-29.2022.8.02.0001 (e-SAJ), em trâmite perante a 8ª Vara Criminal de Maceió (AL), evidencia a superveniência de decisão de pronúncia, em 6/8/2024, ocasionando a perda do objeto da impetração.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE DECISÃO DE PRONÚNCIA. NOVO TÍTULO PRISIONAL. PREJUDICIALIDADE DA IRRESIGNAÇÃO. ADEMAIS, DECRETO PRISIONAL NÃO JUNTADO AOS AUTOS. RECURSO DESPROVIDO.
+1. "A superveniência de novo título, no caso, a sentença de pronúncia, torna prejudicado o recurso em habeas corpus que busca a revogação da prisão preventiva por ausência dos requisitos autorizadores da medida. Jurisprudência do STJ" (AgRg nos EDcl no RHC n. 176.184/GO, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023).
+2. De toda sorte, a despeito do inconformismo defensivo no ponto, nem sequer há como se aferir se os motivos que levaram à prisão do agravante, expressamente invocados na decisão de pronúncia, são idôneos, uma vez que o decreto prisional não foi juntado aos autos pela defesa, a quem compete a devida instrução do habeas corpus e que se deteve a juntar o decisum que revisou a necessidade da medida extrema (art. 316, parágrafo único, do Código de Processo Penal).
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+3. Agravo regimental desprovido."
+(AgRg no RHC n. 191.795/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
