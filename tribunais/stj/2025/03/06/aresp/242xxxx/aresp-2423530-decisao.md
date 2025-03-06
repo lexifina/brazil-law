@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual FAZENDA VELHA LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 346):
+EMBARGOS À EXECUÇÃO FISCAL - Nulidade da certidão de dívida ativa - Descabimento - Hipótese em que o título executivo preenche os requisitos legais de regularidade, atraindo presunção relativa de certeza e liquidez - Desnecessidade de apontamento específico do dispositivo legal em que se funda a cobrança, bastando a menção da lei que o contém - Desnecessidade de se apontar processo administrativo de lançamento de IPTU - Ausência de prejuízo remoto ou comprovado à defesa - Legitimidade já discutida e reconhecida em sede de exceção de pré-executividade - Discussão diz respeito a utilização, pelo Município, de juros e correção monetária superior à SELIC - Impossibilidade - Recurso parcialmente provido.
+Em suas razões recursais, a parte aponta ofensa aos arts. 1.228 e 1.238 do Código Civil, ao art. 337, XI, do Código de Processo Civil (CPC) e aos arts. 16 e 17 da Lei 6.830/1980. Argumenta (fls. 345/353):
+Portanto, é indubitável que o transcurso do prazo de mais de duas décadas, desde a transferência da posse, oriunda do compromisso de compra e venda, firmado em 1986 (fls. 196/199) até a ocorrência dos fatos geradores, nos exercícios de 2011 a 2014, exercida pelo compromissário comprador com animus domini, afasta a responsabilidade tributária da ora Recorrente, que não mais possuía propriedade do aludido imóvel, dada a manifesta ocorrência de prescrição aquisitiva em seu desfavor, devendo, assim, ser reformado o v. acórdão recorrido, para garantir a vigência dos Arts. 1.228 e 1.238, ambos do Código Civil.
+Contraminuta às fls. 443/458.
+O recurso não foi admitido, razão por que foi interposto o presente agravo (fls. 426/427).
+É o relatório.
+Na origem, foi ajuizada ação de execução fiscal pelo município ora agravado.
+Preenchidos os requisitos de admissibilidade do agravo, passo ao exame do recurso especial.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim se manifestou sobre a análise de ilegitimidade da parte recorrente (fl. 347):
+De fato, primeiro, deve-se reconhecer que a ilegitimidade do recorrente já foi analisada e julgada em sede de exceção de pré- executividade oposta pelo ora apelante no bojo da execução fiscal. Lá foi discutida a matéria de legitimidade para figurar no polo passivo, tendo sido decidido pelo não acolhimento da tese do executado, sendo reconhecida sua legitimidade. Da decisão não foi oferecido recurso, de maneira que a decisão fica imutável.
+A agravante a em seu recurso especial alega não possuir responsabilidade tributária relativamente aos créditos tributários executados na Execução Fiscal embargada, pois não mais detinha a condição de contribuinte, à época da ocorrência dos fatos geradores, já que não era mais proprietária do imóvel.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias
+EMENTA
