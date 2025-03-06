@@ -1,0 +1,17 @@
+DECISÃO
+O presente writ, com pedido de liminar, impetrado em benefício de ROMARIO ANTONIO TIMM DOS SANTOS, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, o qual denegou a ordem na parte conhecida do HC n. 5377833-86.2024.8.21.7000, não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente pelo Juízo singular, ao argumento de constrangimento ilegal em razão do excesso de prazo na formação da culpa e da ausência de fundamentação idônea e dos requisitos necessários para a manutenção da custódia preventiva . Aduz que o paciente é o único responsável pelos cuidados dos pais que são idosos. Pede, ainda, a substituição da custódia preventiva por medidas cautelares alternativas.
+Os autos vieram a mim conclusos por prevenção do HC 946.237/RS, dentre outros.
+É o relatório.
+Inicialmente, em relação à ausência de fundamentação da segregação cautelar e ao fato do paciente ser o único responsável pelos cuidados dos pais que são idosos, tem-se que as questões não foram enfrentadas no acórdão combatido, incorrendo a sua análise, aqui e agora, em indevida supressão de instância.
+Já em relação ao excesso de prazo, inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta ao paciente.
+Com efeito, em homenagem ao princípio da razoabilidade, é admissível certa variação, de acordo com as peculiaridades de cada caso, de modo que o constrangimento deve ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Poder Judiciário. Precedentes (AgRg no HC n. 786.537/PE, Ministra Daniela Teixeira, Quinta Turma, DJe 8/3/2024).
+In casu, da leitura do acórdão ora impugnado, não enxergo nenhum constrangimento ilegal. O Tribunal a quo ressaltou que o feito de origem, no momento, aguarda audiências de instrução já designadas pelo juízo, em datas próximas inclusive, frente a complexidade da ação penal, que envolve diversos acusados (fl. 12).
+Cabe destacar ainda que as audiências de instrução e julgamento foram designadas para os dias 11/3/2025, 25/3/2025 e 1/4/2025 (fl. 13).
+Na espécie, não obstante o período em que o paciente se encontra segregado (9/6/2024 - fl. 65), até o momento, não há situação incompatível com o princípio da razoável duração do processo. Não há notícia de ato procrastinatório por parte das autoridades públicas, não está demonstrada a desídia Estatal e, ao que parece, trata-se de feito complexo (8 réus) e que transcorre de forma regular. Sem contar que as audiências de instrução e julgamento, como dito, foram designadas para datas próximas.
+Nesse contexto, tenho que não ficou demonstrada a existência de ilegalidade a justificar a concessão da ordem neste momento.
+Em face do exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. FATO DO PACIENTE SER O ÚNICO RESPONSÁVEL PELOS CUIDADOS DOS PAIS IDOSOS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPULSIONAMENTO DO FEITO DE FORMA REGULAR. INSTRUÇÃO PROCESSUAL EM ANDAMENTO. COMPLEXIDADE DO FEITO. DIVERSOS RÉUS. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRECEDENTES.
+Inicial indeferida liminarmente.
