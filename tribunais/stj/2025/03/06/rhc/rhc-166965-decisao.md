@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por HUGO LEONARDO SOUSA MARI contra acórdão do Tribunal Regional Federal da 1ª Região proferido no HC n. 1006002-32.2022.4.01.0000.
+O Tribunal de origem denegou a ordem ao entendimento de que não houve violação aos princípios do contraditório e da ampla defesa, sendo possível a juntada de documentos após o oferecimento da denúncia e a apresentação da resposta à acusação, desde que garantido o acesso da defesa.
+O Paciente foi denunciado pela suposta prática dos crimes previstos no art. 2º, § 4º, V, da Lei n. 12.850/2013 (organização criminosa) e art. 1º, caput, § 1º, I, e § 2º, II, da Lei n. 9.613/1998 (lavagem de dinheiro), em concurso material.
+No presente recurso, sustenta violação ao contraditório e à ampla defesa, requerendo seja determinado que se aguarde a juntada de todos os elementos de prova pendentes aos autos para posterior intimação da defesa para apresentar resposta à acusação.
+A liminar foi indeferida às fls. 401-404.
+Informações prestadas às fls. 412-468.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 470-477).
+É o relatório.
+DECIDO.
+O recurso não merece provimento.
+Sobre a questão, registrou o Tribunal de origem (fls. 300-301):
+Do exame exauriente dos documentos que instruem os autos, verifica-se, de plano, que os precedentes judiciais do Supremo Tribunal Federal (Rcl 43.007) e do Superior Tribunal de Justiça (RHC 114.683) que tratam da negativa de acesso aos elementos instrutórios vinculados a procedimentos penais, não se aplicam ao caso em que a impetração pretende a concessão de ordem para renovação do prazo para complementação ou reapresentação de nova resposta à acusação, sobretudo quando já há autorização de amplo e integral acesso a todos os elementos probatórios que instruem os autos da ação penal originária, em harmonia com a Súmula Vinculante nº 14 da Corte Suprema.
+No mais, diferente do que defende a impetração, não há ilegalidade na juntada de novos documentos após o oferecimento da denúncia e a apresentação da resposta da defesa. O Ministério Público é o titular da ação penal (art. 129, I, CP) e pode ofertar a denúncia quando entender presentes os requisitos do art. 41 do Código de Processo Penal, sem que isso impeça o prosseguimento das investigações e das diligências suscetíveis de gerar novos elementos de provas a serem juntados ao processo de acordo com a capacidade operacional da atividade policial, desde que a defesa tenha ciência e acesso aos elementos instrutórios coligidos nos autos.
+ ..
+Nessas condições, inexiste violação aos princípios constitucionais do contraditório e da ampla defesa, tampouco constrangimento ilegal decorrente da decisão que concede integral acesso a todos os elementos de provas constantes nos autos e indefere o pedido de complementação da resposta à acusação, requerido em razão de novos documentos juntados aos autos após o oferecimento da denúncia e apresentação da defesa prévia. Com efeito, a marcha processual é ordinariamente para frente sem que tenha que retornar ao ponto anterior por conta de documentos instrutórios juntados ao processo, sobretudo quando as partes são intimadas para conhecimento dos novos documentos.
+O acórdão não merece reparos. Com efeito, foi assegurado ao recorrente amplo acesso aos documentos juntados aos autos. A marcha processual deve seguir em sentido único, não havendo que se falar em retorno a fases já superadas, desde que garantido o exercício da ampla defesa e do contraditório, como ocorreu no caso.
+O recorrente poderá se manifestar sobre os documentos juntados no momento processual oportuno, inclusive em sede de alegações finais, não havendo demonstração de efetivo prejuízo à defesa.
+Nesse sentido, a jurisprudência desta Corte, inclusive citada pelo acórdão impugnado:
+PENAL E PROCESSUAL PENAL. AÇÃO PENAL ORIGINÁRIA. OPERAÇÃO FAROESTE. CERCEAMENTO DE DEFESA. ACESSO A POSTERIOR ACORDO DE COLABORAÇÃO PREMIADA DE CORRÉU. AUSÊNCIA DE PREJUÍZO. CONSTATAÇÃO, PELO MINISTÉRIO PÚBLICO, DA EXISTÊNCIA DE INDÍCIOS DE AUTORIA E MATERIALIDADE DE CRIMES. OFERECIMENTO DA DENÚNCIA. INVESTIGAÇÕES NÃO CONCLUÍDAS. ÓBICE INEXISTENTE. DOCUMENTOS NOVOS JUNTADOS DURANTE A INSTRUÇÃO PROCESSUAL. POSSIBILIDADE. AUSÊNCIA DE NULIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de agravo regimental interposto por Adailton Maturino dos Santos e Geciane Souza Maturino dos Santos, no qual se pleiteia a anulação de todos os atos processuais, desde a data da homologação do acordo de colaboração premiada de corréu.
+2. O acordo de colaboração premiada não deu origem à Operação Faroeste, mas, ao contrário, foi a evolução da investigação que motivou um dos investigados a se tornar colaborador da Justiça.
+3. Não há, nos autos desta ação penal, nenhuma pretensão acusatória fundamentada nos relatos do colaborador.
+4. Diante de uma aparente engrenagem criminosa complexa, o Ministério Público Federal adotou a linha estratégica de "fatiar" a acusação, formalizando várias denúncias autônomas, algumas das quais contendo menção expressa à colaboração premiada, o que não é o caso da presente ação penal.
+5. Nada obstante, os recorrentes já possuem acesso integral aos autos da colaboração premiada, sem que, até o presente momento, tenham sido capazes de indicar situação concreta de prejuízo à defesa apta a afastar a aplicação do princípio pas de nullité sans grief.
+6. Não há obrigatoriedade, legal ou jurisprudencial, de conclusão do inquérito antes de iniciada a ação penal. O titular da ação penal é livre para oferecer denúncia criminal tão logo entenda presentes indícios de autoria e materialidade dos fatos investigados, ainda que as investigações ainda estejam em andamento. Precedente.
+7. Tanto as respostas à acusação, quanto a análise da denúncia pela Corte Especial, foram realizadas com base nos documentos até então existentes nos autos. Eventuais documentos juntados após a formalização da relação processual penal servirão apenas para instruir a ação penal.
+8. É admissível a juntada de nova prova aos autos durante a instrução criminal. Precedente.
+9. Os denunciados tiveram acesso franqueado à integralidade de todos os procedimentos relacionados à presente ação penal desde o seu nascedouro.
+10. Os relatórios de inteligência da Polícia Federal juntados aos autos após o recebimento da denúncia constituem documentos novos, que têm sido produzidos conforme a capacidade operacional de análise da autoridade policial. Tão logo são juntados aos autos, os recorrentes obtêm pleno acesso a todo o seu conteúdo, de maneira a possibilitar o exercício absoluto do direito de defesa, razão pela qual não há que se falar em violação ao princípio do contraditório e da ampla defesa.
+11. Agravo regimental a que se nega provimento.
+(AgRg na APn n. 940/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 16/6/2021, DJe de 23/6/2021.)
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
