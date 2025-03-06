@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 111/112):
+AÇÃO RESCISÓRIA - PRETENSÃO DE DESCONSTITUIÇÃO DE ACÓRDÃO, SOB O FUNDAMENTO DE ERRO DE FATO E VIOLAÇÃO MANIFESTA À NORMA JURÍDICA. CAUSA DE PEDIR DESTA AÇÃO RESCISÓRIA QUE FAZ REFERÊNCIA À LEGALIDADE DA COBRANÇA DA TARIFA DE ESGOTO E ERRONEA AVALIAÇÃO DO LAUDO PERICIAL, QUE TERIA CONCLUÍDO PELA PRESTAÇÃO DE UMA DAS FASES
+- JULGADO ORIUNDO DA 26ª CÂMARA CÍVEL DESTA CORTE DE JUSTIÇA QUE ENFRENTOU, TÃO SOMENTE, A TEMÁTICA DEVOLVIDA NA APELAÇÃO, QUE SE LIMITOU A IMPUGNAR O CAPÍTULO DA SENTENÇA REFERENTE À REVISÃO DAS CONTAS DE CONSUMO E LEGALIDADE DOS VALORES, POR AUSÊNCIA DE FALHAS NO HIDRÔMETRO INSTALADO NO DOMICÍLIO DA USUÁRIA
+- CAPÍTULO DA SENTENÇA PROFERIDA PELA 9ª VARA DE FAZENDA PÚBLICA RELATIVO À NULIDADE DA COBRANÇA DE TARIFA DE ESGOTO QUE NÃO RESTOU DEVOLVIDO POR OCASIÃO DA INTERPOSIÇÃO DA APELAÇÃO, FAZENDO COISA JULGADA QUINZE DIAS APÓS A SENTENÇA, PROFERIDA EM DEZEMBRO DE 2015
+- CAPÍTULO AUTÔNOMO DA SENTENÇA QUE TRANSITOU EM JULGADO SOB A ÉGIDE DO CPC DE 1973. INEGÁVEL TER SE OPERADO A DECADÊNCIA DESTA DEMANDA RESCISÓRIA - TRANSCURSO DO BIÊNIO PREVISTO NO ARTIGO 495 DO CPC/73, QUE PREVIA QUE "O DIREITO DE PROPOR AÇÃO RESCISÓRIA SE EXTINGUE EM 2 (DOIS) ANOS, CONTADOS DO TRÂNSITO EM JULGADO DA DECISÃO."
+- IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA DO 975 DO CPC VIGENTE, QUE DISPÕE QUE "O DIREITO À RESCISÃO SE EXTINGUE EM 2 (DOIS) ANOS CONTADOS DO TRÂNSITO EM JULGADO DA ÚLTIMA DECISÃO PROFERIDA NO PROCESSO". ENTRADA EM VIGOR DO ATUAL ESTATUTO PROCESSUAL EM 18/03/2016
+- CONSUMAÇÃO DA DECADÊNCIA DO CAPÍTULO AUTÔNOMO DA SENTENÇA DESDE JANEIRO DE 2016 - ARTIGO 207 DO CC/02 E DA JURISPRUDÊNCIA ITERATIVA DO SUPREMO TRIBUNAL FEDERAL E DESSA CORTE DE JUSTIÇA ESTADUAL
+- PRETENSÃO DE RESCISÃO DE ACÓRDÃO QUE SEQUER TRATOU DA TEMÁTICA INVOCADA COMO CAUSA DE PEDIR DESTA DEMANDA AUTÔNOMA DE IMPUGNAÇÃO. LITIGÂNCIA DE MÁ-FÉ QUE SE RECONHECE, POR COMPORTAMENTO PROCESSUAL ABUSIVO. EXEGESE DO ARTIGO 80, I DO CPC
+- DECADÊNCIA QUE SE RECONHECE. EXTINÇÃO DO PROCESSO, COM RESOLUÇÃO DE MÉRITO, NA FORMA DO ART. 487, II, DO CPC.
+Os embargos de declaração opostos foram acolhidos apenas para afastar a litigância de má-fé (fls. 161/171).
+Em suas razões recursais, a parte recorrente alega violação ao art. 495 do Código de Processo Civil (CPC) de 1973, uma vez que o Tribunal de Justiça do Estado do Rio de Janeiro declarou o trânsito em julgado parcial da sentença.
+Ao final, requer o conhecimento e provimento do recurso especial, para que seja reconhecida "a inocorrência de decadência e, superada a questão da tempestividade, determinar o julgamento do mérito da ação rescisória" (fls. 188/189).
+A parte adversa apresentou contrarrazões (fls. 212/224).
+O recurso não foi admitido na origem (fls. 228/234). A parte interpôs o agravo pertinente (fls. 248/262).
+À fl. 338, considerando as circunstâncias que envolvem a lide e a necessidade de melhor exame do objeto do recurso especial, determinei a conversão do presente processo em recurso especial.
+É o relatório.
+Na origem, trata-se de ação rescisória ajuizada pela parte ora recorrente, mediante a afirmação de que houve erro de fato, pois "a decisão rescindenda considerou inexistente fato efetivamente ocorrido, e que o laudo pericial acostado aos autos denota que o serviço fora efetivamente prestado" (fl. 115).
+Ao decidir a controvérsia, o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO extinguiu o processo, com resolução de mérito, com base na decadência do pleito de rescisão formulado. O acórdão foi fundamentado da seguinte forma (fls. 120/121):
+Logo, cotejando a análise da petição inicial desta rescisória, em que o autor requer a rescisão do acórdão proferido pela 26ª Câmara Cível, alegando erro de fato e violação às normas jurídicas, invocando, inclusive, entendimento cristalizado em recurso repetitivo 1.339.313/RJ e reapreciação do laudo pericial produzido no curso do feito, que teria concluído pela existência de uma das fases, com o teor da apelação e do acórdão, tem- se que esta demanda acarretou, em verdade, verdadeira aventura jurídica, na medida em que o conteúdo devolvido por ocasião da interposição da apelação não abrangeu o pedido formulado na ação rescisória.
+ ..
+Logo, se conclui que a temática referente à nulidade da tarifa de esgoto, com fundamento na ausência de uma das fases, indubitavelmente, restou irrecorrida, transitando em julgado após a prolação da sentença, em 10/12/2015.
+Considerando que este capítulo autônomo da sentença transitou em julgado em dezembro de 2015, sob a égide do CPC de 1973, inegável, portanto, ter se operado a decadência desta demanda rescisória, tendo em conta o transcurso do biênio previsto no artigo 495 do CPC/731, que previa que "o direito de propor ação rescisória se extingue em 2 (dois) anos, contados do trânsito em julgado da decisão."
+Isso porque o atual CPC entrou em vigor em 18/03/20162, não se podendo pretender a aplicação do regramento constante no artigo 975, que dispõe que "o direito à rescisão se extingue em 2 (dois) anos contados do trânsito em julgado da última decisão proferida no processo".
+Assim, tendo em vista que o prazo decadencial de dois anos flui inexoravelmente, sem que se preveja suspensão ou interrupção, tem-se como consumada a decadência desde janeiro de 2016, nos moldes do artigo 207 do CC/02 e da jurisprudência iterativa dessa Corte de Justiça Estadual, verbis:  .. .
+Dessa forma, para o Tribunal de origem, teria ocorrido o trânsito em julgado parcial da sentença, quanto à temática referente à nulidade da tarifa de esgoto com fundamento na ausência de uma das fases, tendo em vista que a COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE não abordou o tema na apelação que interpôs.
+Verifico que o acórdão recorrido está em desconformidade com a jurisprudência do Superior Tribunal de Justiça (STJ), fixada no sentido de que o trânsito em julgado material por capítulos não é admissível, pois a ação é una e indivisível.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. COISA JULGADA PARCIAL. TRÂNSITO EM JULGADO POR CAPÍTULOS. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 1.022 E 489 DO CPC. NÃO OCORRÊNCIA.
+ ..
+2. É firme a jurisprudência do STJ no sentido de impossibilidade de fracionamento da sentença, com trânsito em julgado parcial, motivo pelo qual o trânsito em julgado material somente ocorre quando esgotadas todas as possibilidades de interposição de recurso. Precedentes: Aglnt no REsp. 1.489.328/RS, Rel. Min. BENEDITO GONÇALVES, DJe 17.9.2018 e AgRg no REsp. 1.258.054/MG, Rel. Min. REGINA HELENA COSTA, DJe 30.6.2016.2. Agravo Interno do INSS desprovido.(AgInt no REsp 1.553.568-RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 5/3/2020)
+3. Agravo Interno não provido.
+(AgInt no REsp n. 2.091.821/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. EXPEDIÇÃO DE PRECATÓRIO. DESCABIMENTO. INEXISTÊNCIA DE VALORES INCONTROVERSOS. JUROS DE MORA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO DE NORMA CONSTITUCIONAL. NÃO CABIMENTO. USURPAÇÃO DE COMPETÊNCIA DO STF. TRÂNSITO EM JULGADO PARCIAL. INVIABILIDADE. PRECEDENTES. SÚMULA 83/STJ. PROVIMENTO NEGADO.
+ ..
+3. É firme a jurisprudência desta Corte de impossibilidade de fracionamento da sentença, com trânsito em julgado parcial, motivo pelo qual o trânsito em julgado material somente ocorre quando esgotadas todas as possibilidades de interposição de recurso.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.127.463/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023.)
+Assim, o capítulo da sentença referente à nulidade da tarifa de esgoto com fundamento na ausência de uma das fases transitou em julgado somente na data em que o acórdão da ação originária transitou em julgado, sendo impossível que a contagem do prazo decadencial para a propositura da ação rescisória tenha início com o fim do prazo da apelação.
+Ante o exposto, dou provimento ao recurso especial e determino o retorno dos autos à origem, para que, superada a discussão sobre o prazo decadencial, seja dado prosseguimento ao julgamento da ação rescisória.
+Publique-se. Intimem-se.
+ EMENTA
