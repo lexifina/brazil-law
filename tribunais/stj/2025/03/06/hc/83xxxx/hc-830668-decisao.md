@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em prol de ERIVALDO ARAUJO DE MOURA em face de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, no bojo da APELAÇÃO CRIMINAL 039665-48.2012.8.06.0167.
+Na hipótese, o impetrante sustenta a ocorrência de constrangimento ilegal na exasperação da pena-base, alegando ocorrência de bis in idem, bem como na negativa de aplicação da fração máxima pela tentativa, em razão da condenação como incurso no art. 121, §2º, I e IV c/c art. 14, II do Código Penal, à pena de 12 (doze) anos e 08 (oito) meses de reclusão, a ser cumprida inicialmente em regime fechado, e se requer, em caráter liminar e no mérito, a concessão da ordem " ..  no que tange a primeira fase da aplicação da pena, na segunda, pois somente foi pronunciado por tentativa de homicídio duplamente qualificado e a aplicação da redutora de 2/3, no art. 14, II do CP." (fl. 5).
+Liminar indeferida às fls. 32-33.
+Informações prestadas às fls. 38-41.
+O Ministério Público Federal opinou pelo não conhecimento do writ às fls. 48-52.
+É o relatório. Decido.
+O presente habeas corpus não merece ser conhecido por ausência de regularidade formal, qual seja, a adequação da via eleita.
+A impetração investe contra acórdão, proferido em recurso de apelação. Substitui, pois, recurso próprio, o que lhe inviabiliza o conhecimento.
+A 3ª Seção, no HC 535.063/SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não há circunstância excepcional que recomende superar esse entendimento.
+Ressalte-se ainda que, conforme informações prestadas pelo Juízo de origem, às fls. 38-41, a sentença transitou em julgado desde 12 de abril de 2022 (fls. 39).
+Com efeito, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do Superior Tribunal de Justiça, prevista no artigo 105, I, "e", da Constituição Federal, restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+Diante dessa situação, não deve ser conhecido o presente habeas corpus, porquanto fora manejado como substitutivo de revisão criminal.
+Anoto que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Nessa linha:
+" ..  como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido"  .. " (HC 288.978/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, Rel. para acórdão Min. Rogerio Schietti Cruz, DJe 21/5/2018).
+" ..  4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.  .. " (AgRg no HC n. 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019). " ..
+Nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". 5. Com o advento do trânsito em julgado da sentença condenatória, após o exame dos sucessivos recursos defensivos, compete à defesa, caso entenda cabível e se o desejar, ajuizar revisão criminal no Tribunal de Justiça, com vistas à revisão do julgado.  .. " (AgRg no HC n. 751.787/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/4/2023).
+Cito, também, a orientação do Supremo Tribunal Federal: AgRg no HC n. 134.691/RJ, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 1º/8/2018; AgRg no HC n. 144.323/SP, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 30/8/2017; e HC n. 199.284/SP, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 16/8/2021.
+Demais a mais, "a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 25/10/2021).
+De todo modo, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
