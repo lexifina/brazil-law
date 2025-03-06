@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o TRIBUNAL REGIONAL FEDERAL DA 4A REGIÃO (Juízo suscitante) e o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Juízo suscitado).
+O conflito decorre de mandado de segurança impetrado contra o representante legal do Instituto Nacional do Seguro Social (INSS) da Superintendência Regional Sul, em que a parte autora objetiva o pronunciamento quanto ao pedido de concessão de benefício previdenciário de aposentadoria rural por idade.
+A ação foi proposta no Juízo de Direito da Comarca de Nova Fátima/RS, por competência delegada, que julgou procedente o pedido formulado pela parte autora (fls. 277/280).
+Ao examinar o recurso de apelação interposto, a Décima Turma do Tribunal Regional Federal da 4ª Região, de ofício, determinou a remessa dos autos ao Tribunal de Justiça do Estado do Paraná nos termos do acórdão assim ementado (fl. 346):
+PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. DURAÇÃO DO PROCESSO ADMINISTRATIVO. EXCESSO DE PRAZO. AUTORIDADE COATORA. INSS. AUTARQUIA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. PROCESSAMENTO PERANTE A JUSTIÇA ESTADUAL. INCOMPETÊNCIA. REMESSA DO FEITO PARA O JUÍZO FEDERAL DE PRIMEIRO GRAU PARA PROCESSAMENTO E JULGAMENTO DA DEMANDA.
+1. A competência para o julgamento de mandado de segurança é estabelecida em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis), sendo irrelevante a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante.
+2. Mesmo com o novo entendimento firmado pelo Superior Tribunal de Justiça quanto à possibilidade de aplicação da hipótese de eleição de foro (do domicílio do impetrante em lugar daquele em que situada a sede funcional da autoridade coatora), prevista no artigo 109, § 2º, da Constituição Federal, que é aplicável também para os casos em que há impetração de mandado de segurança, tem-se que tal escolha cinge-se apenas quanto à possibilidade de eleição entre juízos com competência federal. Precedente do STJ.
+3. Caso em que a ação mandamental deveria ter sido ajuizada perante a justiça federal.
+4. Este Tribunal não é competente para julgar remessa necessária e apelação de sentença proferida pelo juízo estadual, quando fora das hipóteses de competência delegada.
+5. Remessa, de ofício, dos autos ao Tribunal de Justiça do Estado de Santa Catarina, que detém a competência para anular a sentença proferida pelo juízo estadual de primeiro grau, restando prejudicado o exame da remessa necessária e da apelação.
+Ao receber o feito, o Tribunal de Justiça do Estado do Paraná, em decisão monocrática do relator, declinou da competência para o Tribunal Regional Federal da 4ª Região em razão de que "o mandado de segurança tramitou perante a Justiça Estadual, pois, consoante se depreende dos autos, a tramitação se deu perante a Vara da Competência Delegada da Comarca de Nova Fátima. ..  Assim, considerando que a autarquia apelante pretende a reforma de decisão proferida pela Vara da Competência Delegada, o presente recurso deve ser remetido ao entendo que Tribunal Regional Federal da 4ª Região, razão pela qual se declina da competência para o processamento e julgamento do feito" (fls. 391/392).
+Por sua vez, o Tribunal Regional Federal da 4ª Região suscitou o presente conflito de competência nos termos da seguinte ementa (fl. 416):
+PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. AUTORIDADE COATORA FEDERAL. PROCESSAMENTO DO FEITO PERANTE A JUSTIÇA ESTADUAL. INCOMPETÊNCIA DO JUÍZO DE ORIGEM NÃO PRONUNCIADA PELO TRIBUNAL DE JUSTIÇA ESTADUAL. CONFLITO NEGATIVO DE COMPETÊNCIA SUSCITADO.
+1. A competência para o julgamento de mandado de segurança é estabelecida em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis), sendo irrelevante a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante.
+2. Hipótese em que não pronunciada a incompetência do juízo de origem pelo Tribunal de Justiça estadual.
+3. Suscita-se conflito negativo de competência perante o Superior Tribunal de Justiça, para fins de definição acerca da competência para o julgamento da remessa necessária e apelação, bem como para fins de eventual reconhecimento de nulidade do processamento do feito ajuizado perante o juízo estadual.
+O Ministério Público Federal opinou a favor de que fosse declarada a competência do Tribunal Regional Federal da 4ª Região, ora suscitante (fls. 431/434).
+É o relatório.
+Conheço do conflito porque se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, conforme preceitua o art. 105, I, d, da Constituição Federal.
+A jurisprudência do Superior Tribunal de Justiça (STJ) está consolidada no sentido de que o critério para a fixação da competência para o processamento e o julgamento do mandado de segurança é estabelecido em razão da função ou da categoria funcional da autoridade indicada como coatora. A matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante são dados irrelevantes.
+Nesse sentido, confiram-se:
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA IMPETRADO CONTRA DIRIGENTE DE SUBSIDIÁRIA DE SOCIEDADE DE ECONOMIA MISTA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Esta Corte firmou entendimento segundo o qual o critério para se estabelecer a competência para o julgamento do mandado de segurança é definido em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis). Nessa senda, mostra-se despicienda a matéria versada na impetração, a natureza do ato impugnado ou a pessoa do impetrante.
+2. No caso, figura no polo passivo do mandamus a sociedade anônima Liquigás, subsidiaria direta da Petrobras (sociedade de economia mista federal), que, em tese, exerce função federal delegada, porquanto suas atribuições decorrem e são, em princípio, controladas diretamente pelo poder estatal ao qual estão vinculadas. Precedentes.
+3. Conflito conhecido para declarar competente a Justiça Federal.
+(CC n. 150.945/SP, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017, sem destaque no original.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA CONTRA ATO DE PRESIDENTE DE AUTARQUIA FEDERAL.  .. . CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO FEDERAL SUSCITADO. AGRAVO INTERNO DO INEP DESPROVIDO.
+1. A competência para conhecer e processar Mandado de Segurança encontra-se expressamente delimitada na CF/1988, e é aferida a partir da categoria funcional da autoridade apontada como coatora; assim, no conflito entre Justiça Estadual e Federal, ela é absoluta quando se tratar de writ impetrado contra Autoridade Federal, ou no exercício de delegação federal.
+ ..
+4. Agravo Interno do INEP desprovido.
+(AgInt no CC n. 150.371/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 27/5/2020, DJe de 9/6/2020.)
+No presente caso, em se tratando de mandado de segurança impetrado contra autoridade federal, incide o art. 109, inciso VIII, da Constituição Federal, que define a competência da Justiça Federal para processar e julgar o feito.
+Ante o exposto, conheço do conflito para declarar a competência da Justiça Federal .
+Publique-se. Comunique-se.
+EMENTA
