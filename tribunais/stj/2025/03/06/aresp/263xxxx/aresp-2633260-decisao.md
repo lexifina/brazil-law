@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ENERPREV PREVIDÊNCIA COMPLEMENTAR DO GRUPO ENERGIAS DO BRASIL contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 49):
+EMPRÉSTIMO CONTRATADO JUNTO A PLANO DE BENEFÍCIO PREVIDENCIÁRIO - COBRANÇA - FASE DE CUMPRIMENTO DE SENTENÇA - PRETENSÃO DE PENHORA DE PERCENTUAL DE REMUNERAÇÃO MENSAL DO EXECUTADO - IMPOSSIBILIDADE - IMPENHORABILIDADE LEGAL - EXEGESE DO ART. 833, IV, DO CPC - INAPLICABILIDADE AO CASO DAS EXCEÇÕES PREVISTAS NO § 2º DO ALUDIDO DISPOSITIVO LEGAL - DECISÃO MANTIDA
+O primeiro recurso especial interposto foi provido para determinar nova análise do pedido em virtude do julgamento dos EREsp nº 1.874.222/DF, no qual a Corte Especial deste Superior Tribunal de Justiça firmou o entendimento de que é admissível a relativização da regra de impenhorabilidade prevista no art. 833, IV, do CPC/2015, desde que a medida constritiva não comprometa a subsistência digna do devedor e de sua família e que sejam inviáveis outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+O Tribunal de origem manteve o acórdão recorrido, sob o fundamento de que a penhora prejudicaria o sustento do executado e sua família, que comprovou possuir três dependentes. Confira-se:
+AGRAVO EM RECURSO ESPECIAL. REAPRECIAÇÃO. Determinação de reapreciação da questão com base no EREsp nº 1.874.222/DF. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. Pedido de penhora de percentual do salário do agravante. Impenhorabilidade de tal verba, nos termos do artigo 833, inciso IV, do CPC vigente. Caso dos autos em que, de fato, não seria razoável determinar a penhora de parcela dos vencimentos percebidos pelo executado, dada a sua natureza alimentar, e por não se verificar, "in casu", qualquer das excepcionalidades previstas no artigo 833, §2º, do CPC. Ademais, penhora que prejudicaria o sustento do executado e sua família, que comprovou possuir três dependentes. Precedentes do C. Superior Tribunal de Justiça e do Egrégio TJSP. Manutenção da decisão objurgada que se impõe. Em sede de juízo de retratação, nos termos do artigo 1.030, inciso II, do Código de Processo Civil, fica mantido o acórdão, pois em consonância com o decidido pelo C. STJ na ocasião do julgamento do EREsp nº 1.874.222/DF.
+Opostos embargos de declaração, foram rejeitados (fls. 166/169 e-STJ).
+Nas razões do recurso especial, o recorrente alega, em síntese, que o acórdão recorrido violou os arts. 1.022, II, 833, IV, § 2º, ambos do CPC/2015.
+Quanto à suposta ofensa ao art. 1.022, II, do CPC/2015, a parte sustenta que houve omissão no acórdão recorrido ao não apreciar o pedido de fixação de percentual razoável para penhora da remuneração do devedor.
+Argumenta que o acórdão recorrido teria violado o art. 833, IV e § 2º, do CPC/2015 ao não reconhecer a possibilidade de penhora parcial dos rendimentos do devedor, mesmo quando superiores a um salário mínimo.
+Alega que a jurisprudência do STJ admite tal penhora, o que teria sido demonstrado, no caso, por elementos probatórios que indicam a capacidade financeira do devedor.
+Haveria, por fim, a necessidade de fixação dos honorários advocatícios no patamar mínimo previsto no art. 85 do CPC/2015.
+O recurso especial não foi admitido com fundamento na ausência de violação ao art. 1.022 do CPC/2015, uma vez que as questões foram devidamente apreciadas pelo Tribunal de origem (fls. 188/189).
+Nas razões do seu agravo, a parte agravante impugna os fundamentos da decisão de admissibilidade, reiterando a alegação de omissão no acórdão recorrido e a necessidade de aplicação da jurisprudência do STJ sobre penhora de rendimentos (fls. 192/202).
+Não foi apresentada contraminuta ao agravo.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de agravo de instrumento interposto pela agravante contra decisão que indeferiu o pedido de penhora de 30% da remuneração mensal do agravado, em fase de cumprimento de sentença de empréstimo contratado junto a plano de benefício previdenciário.
+A decisão de primeiro grau indeferiu o pedido de penhora com base na impenhorabilidade das verbas salariais, conforme art. 833, IV, do CPC/2015.
+O Tribunal de origem manteve a decisão, entendendo que a penhora prejudicaria o sustento do executado e sua família, não se aplicando as exceções previstas no art. 833, IV, do CPC/2015. Confira-se:
+Com efeito, não seria razoável determinar a penhora do salário percebido pelo recorrido, dada a sua natureza alimentar, e porque não comprovada qualquer das excepcionalidades previstas no artigo 833, §2º, do CPC.
+ ..
+No entanto, de acordo com recente jurisprudência do STJ, por ocasião do julgamento do ER Esp nº 1.874.222/DF, admite-se a relativização da regra do 833, IV, desde que a medida constritiva não comprometa a subsistência digna do devedor, e inviáveis outros meios executórios:
+ ..
+De acordo com a documentação acostada (fls. 39) verifica-se que além dos rendimentos do executado serem muito inferiores a 40 salários-mínimos, este possui ainda três dependentes, de modo que a penhora de 30% dos seus rendimentos prejudicaria o sustento de toda a família.
+Destarte, revelando-se inafastável a aplicação do disposto no artigo 833, inciso IV, do novel Código de Ritos, que reprisa, na verdade, o que já rezava o artigo 649, inciso IV, do CPC de 1973, a hipótese é de manutenção da decisão profligada  ..  (fls. 151/155).
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, expressamente, sobre A impossibilidade da penhora do salário do recorrido. Sendo assim, não há que se falar em omissão no tocante a esses pontos, nem, portanto, em violação ao art. 1.022 do CPC/2015.
+Quanto a mais, alterar a conclusão a que chegou o Tribunal de origem, no que se refere à impossibilidade do deferimento da penhora porque esta prejudicaria o sustento do executado e sua família, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de arbitrar honorários sucumbenciais/recursais, considerado que não houve condenação a respeito na origem, nos termos do que previsto nos §§ 2º e 11 do art. 85 do CPC/2015.
+Intimem-se.
+EMENTA
