@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por Departamento Estadual de Pavimentação e Saneamento contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Acre assim ementado (e-STJ, fl. 470-471):
+DIREITO CIVIL. REME SSA NECESSÁRIA. AÇÃO DE COBRANÇA. AQUISIÇÃO DE PRODUTOS SEM PROCEDIMENTO LICITATÓRIO. ALEGAÇÃO DE CONTRATAÇÃO IRREGULAR AFASTAMENTO. COMPROVAÇÃO DA ENTREGA DOS PRODUTOS. SUFICIÊNCIA DO ACERVO PROBATÓRIO. DEVER DE PAGAMENTO. CONDENAÇÃO. FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. TAXA SELIC. REMESSA NECESSÁRIA PARCIALMENTE PROCEDENTE.
+1. Para aquisição de bens e serviços a atender necessidade da administração pública, a regra é a celebração de contrato administrativo, por meio licitatório e nos moldes estabelecidos na lei que rege a matéria.
+2. In concreto, verifica-se que o regular procedimento licitatório não fora observado para fins de aquisição de produtos (tijolos), destinados à pavimentação de ruas públicas no loteamento Rosa Linda e, ao que tudo indica, a avença fora realizada de forma verbal entre o Autor e o ex-chefe do Poder Executivo do Estado do Acre.
+3. Não obstante, há que se levar em consideração que a vedação do enriquecimento sem causa refreia a Administração Pública de se omitir em indenizar o particular, por produtos fornecidos, sob o argumento da ausência de licitação e não observância de requisitos formais da contratação, havendo essa possibilidade (recusa de pagamento) somente nos casos em que há má-fé do fornecedor, circunstância não observada nos autos.
+4. Assim, constatada suficiência no acervo probatório, carreado pela parte autora do crédito pleiteado, porquanto comprovada a realização do negócio jurídico com a efetiva disponibilização dos produtos e, de outro lanço, não comprovado pela Ré o adimplemento de qualquer pagamento a respeito ou demonstrado impeditivo legal ao cumprimento da contrapartida financeira, deve a Administração Pública suportar o custo dos produtos disponibilizados pelo particular.
+5. Ponderando que a sentença foi proferida após a promulgação da Emenda Constitucional 113/2021, a saber, 24 de novembro de 2022, merece reforma a sentença no que toca a atualização monetária, devendo ser aplicada a taxa Selic.
+6. Remessa Necessária parcialmente procedente.
+Nas razões do recurso especial (e-STJ, fls. 495-510), o recorrente apontou violação ao art. 373, I e II, do CPC/2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que a autora não se desincumbiu do ônus de provar a existência da avença e a efetiva entrega dos tijolos para obras de pavimentação do Bairro Rosa Linda, ou seja, do fato constitutivo do direito alegado ao recebimento dos pagamentos.
+Pleiteou, assim, a reforma do acórdão recorrido, a fim de que seja julgada improcedente a ação de cobrança, com a condenação da recorrida aos pagamento de honorários advocatícios e das custas processuais.
+Foram apresentadas contrarrazões (e-STJ, fls. 540-560).
+O recurso especial não foi admitido na origem (e-STJ, fls. 561-564), o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De acordo com o disposto no art. 373, I, do CPC/2015, cabe ao autor da demanda a instrução da petição com as provas necessárias para demonstração da violação ao direito pleiteado.
+No caso vertente, as instâncias ordinárias consignaram que as provas carreadas aos autos pela autora são capazes de justificar o crédito pleiteado na ação de cobrança, sob os seguintes fundamentos (e-STJ, fls. 477-478, sem grifo no original):
+24. Na situação em análise, denota-se que o Réu DEPASA não alcançou êxito em demonstrar que as provas apresentadas pela Autora, inclusive testemunhal, a justificar o percebimento dos valores pleiteados, são desprovidas de veracidade ou não aptas a validar o alegado crédito. Alias, há que se levar em consideração que a vedação do enriquecimento sem causa refreia a Administração Pública de se omitir em indenizar o particular, por produtos fornecidos, sob o argumento da ausência de licitação e não observância de requisitos formais da contratação, havendo essa possibilidade (recusa de pagamento) somente nos casos em que há má-fé do fornecedor, circunstância não observada nos autos.
+( )
+25. Desta feita, constatada suficiência no acervo probatório, carreado pela parte Autora do crédito pleiteado, porquanto comprovada a efetiva disponibilização dos insumos e, de outro lanço, não comprovado pelo Réu o adimplemento de qualquer pagamento a respeito ou demonstrado impeditivo legal para tanto, deve a Administração Pública suportar o custo dos produtos disponibilizados pelo particular, como sentenciado.
+A questão foi decidida mediante análise das provas produzidas nos autos. Logo, para infirmar as conclusões do acórdão recorrido, seria imprescindível o reexame de provas, medida inadmissível nesta instância extraordinária, conforme prevê a Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA RÉ.
+(..)
+3. Nos termos da jurisprudência desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15 sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7/STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.575.962/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Por fim, a análise do dissídio jurisprudencial fica prejudicada pela aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e o acórdão paradigma. Isso porque as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DAS CONCLUSÕES DO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
