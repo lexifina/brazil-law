@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS DIMAS DE FARIAS JUNIOR, contra a decisão do Tribunal Regional Federal da 4ª Região que não admitiu o recurso especial.
+O agravante foi condenado como incurso nas sanções do art. 334-A, § 1º, inciso I, do Código Penal, c/c os arts. 2º e 3º do Decreto-Lei n. 399/1968, à pena de 2 (dois) anos de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, consistente em prestação de serviços à comunidade e prestação pecuniária no valor de R$ 2.400,00 - dois mil e quatrocentos reais (fls. 200-207).
+Inconformado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 45, § 1º, do Código Penal (fls. 214-220).
+O recurso foi inadmitido devido à Súmula n. 7, STJ (fls. 241-243).
+Neste agravo, a defesa sustenta que a análise da pretensão recursal não demanda o reexame de provas, pois a questão controvertida é eminentemente jurídica (fls. 251-257).
+A Procuradoria Regional da República requereu o desprovimento do agravo (fls. 261-265) e a Procuradoria-Geral da República opinou pelo não conhecimento ou desprovimento daquele (fls. 281-283).
+É o relatório. DECIDO.
+Compulsando os autos, verifico que o cerne da controvérsia consiste em discutir a legalidade da fixação da pena pecuniária em valor superior ao previsto no art. 45, § 1º, do Código Penal, sem a indicação de fundamentação específica.
+Nada obstante, ao tratar do tema, o Tribunal a quo se limitou a manter "o regime inicial aberto e a substituição da pena, conforme fixados" (fl. 206), sem debater, portanto, a questão supramencionada com o viés proposto pelo recorrente na via especial. Ademais, a defesa não opôs embargos de declaração para esclarecer o referido ponto. Logo, o apelo nobre não deve ser conhecido pela ausência de prequestionamento.
+A propósito:
+"(..) 3. Inviável o conhecimento do pedido de redução da prestação pecuniária, tendo em vista que a matéria não foi debatida perante a Corte de origem. Não preenchido, portanto, o requisito do prequestionamento.
+4. Ademais, "conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg no AREsp n. 2.198.104/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+5. Agravo regimental improvido." (AgRg no REsp n. 2.041.062/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+"(..) 3. Acerca do valor fixado para a prestação pecuniária substitutiva, não se verifica o requisito do prequestionamento, pois não houve debate de forma específica na origem nem a oportuna provocação do exame da quaestio por meio de embargos de declaração (Súmulas n. 282 e 356/STF). (..)" (AgRg no REsp n. 1.887.927/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/4/2021, DJe de 13/4/2021.)
+"(..) Tese de julgamento: "1. Inviável a superação do óbice da ausência de prequestionamento quando o acórdão recorrido não aprecia a tese sob o viés pretendido pela defesa. (..)" (AgRg no AREsp n. 2.641.607/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025.)
+"(..) 2. Para que seja atendido o requisito recursal do prequestionamento, é necessário haver o debate prévio da questão federal, pela Corte a quo, sob o enfoque suscitado nas razões do recurso especial, o que não ocorreu no caso concreto. (..)" (REsp n. 1.959.871/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/4/2023, DJe de 2/5/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO. PLEITO ABSOLUTÓRIO E DE APLICAÇÃO DO REDUTOR DA PENA. INVIABILIDADE. FUNDAMENTAÇÃO IDÔNEA. SÚMULA N. 7, STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
