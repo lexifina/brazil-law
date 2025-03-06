@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pela autora em face de acórdão assim ementado:
+Ação declaratória de inexistência de relação jurídica c. c. repetição do indébito e indenização por danos morais Contratação de empréstimo consignado fraudado em nome da autora com o Banco réu, com desconto das prestações no benefício previdenciário Sentença de procedência Aplicação do Código de Defesa do Consumidor Responsabilidade objetiva do Banco por danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias (súmula 479 do STJ) Réu não se desincumbiu de comprovar a regularidade da contratação (art. 6º, VIII, do CDC) Inexistência de prova da efetiva relação jurídica entre as partes Débitos inexigíveis Sentença mantida Recurso do réu negado. Repetição em dobro do indébito Entendimento fixado pelo STJ no EAR Esp 600.663/RS, submetido ao rito dos recursos especiais repetitivos, segundo o qual a repetição em dobro, nas relações consumeristas, deve ocorrer independentemente da natureza do elemento volitivo, desde que a cobrança indevida consubstancie conduta contrária à boa-fé objetiva Débitos efetuados no benefício previdenciário da autora para pagamento do empréstimo consignado fraudado Conduta contrária à boa-fé objetiva Restituição devida de forma simples com relação ao descontos anteriores à publicação do referido acórdão e de forma dobrada quanto aos descontos posteriores Sentença reformada em parte Recurso do Banco provido em parte. Danos morais Inocorrência Contrato fraudulento com crédito do capital em conta corrente da autora, dele se utilizando e beneficiando Ausência de reclamação administrativa anterior, com ajuizamento de ação quase dois anos após os fatos Apesar da ilícita contratação do empréstimo, não se evidencia abalo à honra e imagem da autora Sentença reformada Recurso do Banco réu provido, prejudicado o recurso da autora. Recurso do Banco réu provido em parte, prejudicado o apelo da autora.
+Os embargos de declaração opostos a esse acórdão não foram providos.
+Alega-se que o acórdão recorrido contrariou os artigos 6º e 14 da Lei 8.078/1990 (Código de Defesa do Consumidor - CDC); os artigos 186 e 927 da Lei 10.406/2002 (Código Civil - CC/2002) e os artigos 2º, 3º, 4º, 5º, 10 e 79 da Lei 10.741/2003 porque afastou a condenação da ré (instituição financeira) ao pagamento de indenização por danos morais.
+Inicialmente, anoto que aborrecimentos comuns do dia a dia, dissabores normais e próprios do convívio social não são suficientes para originar dano moral indenizável. Eis precedentes que ilustram esse entendimento:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. MERO ABORRECIMENTO. SÚMULA 83/STJ. OFENSA À HONRA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. É pacífica a jurisprudência desta Corte no sentido de que os aborrecimentos comuns do dia a dia, os meros dissabores normais e próprios do convívio social não são suficientes para originar danos morais indenizáveis. Incidência da Súmula 83/STJ.
+2. No caso, a revisão do concluído pelo Tribunal a quo, no sentido de que não houve ofensa à honra, em decorrência do envio, não solicitado, de cartão de crédito, demandaria o revolvimento do acervo fático-probatório dos autos, situação que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 604.582/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/11/2015, DJe de 7/12/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. MERO ABORRECIMENTO. DANO MORAL. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA DO STJ. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ.
+1. O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte.
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 432.443/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/02/2014, DJe 06/03/2014)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ENVIO DE CARTÃO DE CRÉDITO SEM SOLICITAÇÃO DO CONSUMIDOR. AUSÊNCIA DE NEGATIVAÇÃO OU COBRANÇA INDEVIDA. DANOS MORAIS NÃO CONFIGURADOS. MERO ABORRECIMENTO. AGRAVO DESPROVIDO.
+1. É pacífica a jurisprudência desta Corte no sentido de que os aborrecimentos comuns do dia a dia, os meros dissabores normais e próprios do convívio social não são suficientes para originar danos morais indenizáveis. Incidência da Súmula 83/STJ.
+2. No caso, a revisão do concluído pelo Tribunal a quo, no sentido de que não houve ofensa à honra, em decorrência do envio, não solicitado, de cartão de crédito, demandaria o revolvimento do acervo fático-probatório dos autos, situação que encontra óbice na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1655212/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/02/2019, DJe 01/03/2019)
+No caso, o Tribunal de origem entendeu que, não obstante a irregularidade (ilicitude) da contratação discutida na demanda (empréstimo consignado, em nome de pessoa física, com pagamento mediante desconto de parcelas na remuneração), do fato não decorreu abalo aos direitos de personalidade. Leia-se:
+Apesar da contratação fraudada do contrato, com a declaração de inexistência de relação jurídica das partes com base no contrato nº 614995584, entendo inexistir danos morais no caso.
+A contratação indevida, embora abusiva, não denegriu a honra e imagem da autora, de modo a causar-lhe abalo aos direitos de personalidade.
+O empréstimo consignado fraudulento foi celebrado em julho de 2020 (fls. 89/91), descontando-se, desde então, parcelas mensais em folha de pagamento da aposentadoria da autora (fls. 22/24 e 31/33).
+O crédito do capital mutuado em conta corrente da autora é fato incontroverso e comprovado pelo documento de fl. 88.
+A autora tomou ciência dos descontos, mas não há notícia de reclamação administrativa anterior, movendo ação judicial somente em junho de 2022.
+Não há indícios mínimos de prova de comprometimento da vida financeira da requerente, na medida que o empréstimo impugnado acarretou o crédito em sua conta no valor de R$1.385,80, quando, a partir então, iniciaram-se os descontos em seu benefício previdenciário.
+A autora se utilizou e se beneficiou do valor do empréstimo fraudado, sem que dispusesse, tão logo tomou conhecimento do crédito do empréstimo em sua conta, em devolvê-lo ao Banco de forma extrajudicial ou depositá-lo em juízo com a propositura da ação, de forma a agir de boa-fé como reclamava o caso.
+Dessa forma, os fatos retratados não passam de mero aborrecimento ou dissabor, que não ingressaram na esfera do dano moral, capaz de traduzir em responsabilidade do réu por isso.
+Assente na jurisprudência do STJ: "o mero dissabor não pode ser alçado ao patamar do dano moral, mas somente aquela agressão que exacerba a naturalidade dos fatos da vida, causando fundadas aflições ou angústias no espírito de quem ela se dirige" (R Esp nº 403.919/MG, Quarta Turma, Relator o Senhor Ministro Cesar Asfor Rocha, DJ de 04/8/03).  ..
+Por isso não se evidencia danos morais no caso, provendo-se o recurso do Banco réu quanto ao tema, prejudicado o recurso da autora.
+Esse modo de entender não diverge da jurisprudência do Superior Tribunal de Justiça (STJ), acima demonstrada. Incide, assim, a Súmula 83 do STJ.
+Para além da aplicação desse óbice, penso que a reforma do acórdão recorrido demandaria reexame de matéria fática, o que é inviável em recurso especial. Nessa direção:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO. DANOS MORAIS. AUSÊNCIA DE PROVA DO ABALO À HONRA. REEXAME FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. O suporte jurídico que lastreou o acórdão ora hostilizado emergiu da análise de fatos e provas pelas instâncias ordinárias. Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação da situação fática, o que é vedado em sede de recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 347.831/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/3/2014, DJe 25/3/2014)
+Aplica-se a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
+EMENTA
