@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JOAO ANTONIO SANTOS DE OLIVEIRA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (Revisão Criminal n. 8066281-44.2024.8.05.0000).
+Depreende-se dos autos que o ora paciente foi condenado à pena de 20 anos de reclusão, em regime inicial fechado, e ao pagamento de 10 dias-multa, pela prática do crime do art. 157, § 3º, do CP.
+Com o trânsito em julgado da condenação, a defesa ajuizou revisão criminal perante o Tribunal a quo, da qual não se conheceu, nos termos da ementa de e-STJ fl. 17:
+REVISÃO CRIMINAL. LATROCÍNIO. INEFICIÊNCIA DA DEFESA TÉCNICA. NÃO CONFIGURAÇÃO. PLEITO DE DESCLASSIFICAÇÃO PARA AMEAÇA. AUSÊNCIA DE PROVA NOVA. MANUTENÇÃO DA CONDENAÇÃO. REAPRECIAÇÃO DE PROVAS JÁ ANALISADAS. REVISÃO NÃO CONHECIDA.
+1. A revisão criminal não se presta como sucedâneo recursal, cabendo apenas em situações excepcionalíssimas previstas no art. 621 do CPP.
+2. Não restando comprovada a deficiência de defesa técnica e ausente prova nova que corrobore a tese do requerente, não há elementos para alteração do julgado.
+3. Pedido revisional rejeitado.
+Daí o presente writ, no qual sustenta a defesa a nulidade decorrente da deficiência da defesa técnica, em especial porque não angariou informações pertinentes "para elucidar o animus do Paciente, tão quanto esclarecer a sua participação  ..  houve desídia na interposição do recurso de Apelação, fazendo a Sentença Condenatória Transitar em julgado em relação ao Paciente" (e-STJ fl. 11).
+Assere estar configurada a hipótese de cooperação dolosamente distinta, prevista no § 2º do art. 29 do CP, diante da inexistência do liame subjetivo para caracterizar a coautoria delitiva, uma vez que o paciente não teve a intenção de contribuir para a perpetração do crime de latrocínio, já que ele apenas dirigiu o carro para que fosse efetuada uma cobrança. Conclui que ele poderia ser responsabilizado apenas pelo delito de ameaça (art. 147 do CP).
+Alega "a i nexistência de prévio ajustes das ações entre o Paciente e os corréus, que estavam munidos com arma de fogo, sendo surpreendido com a ação e com o resultado provocado por ela. Não havendo então, prova suficiente nos autos que demonstre o conhecimento da participação e cooperação do Paciente com toda a empreitada dos outros corréus" (e-STJ fl. 5).
+Acrescenta que o resultado morte decorreu de conduta exclusiva do corréu.
+Diante dessas considerações, pede a anulação do édito condenatório ou, sucessivamente, a incidência do "artigo 29, §2º, sendo que o Paciente anuiu com a prática de crime menos grave, tendo sua conduta da aquiescência inicial se adequado ao tipo penal previsto no artigo 147, CP, logo devendo ser desclassificado o crime para o de ameaça, diante do vício de consentimento praticado no momento da execução do crime" (e-STJ fl. 14).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoç ão.
+Entretanto, tal não é o caso do presente writ, especialmente porque a análise das insurgências demandariam sensível incursão na seara fático-probatória dos autos, providência sabidamente incompatível com os estreitos limites de cognição do habeas corpus, bem como porque o impetrante não instruiu devidamente os autos, faltando documentação imprescindível para o exame dos temas suscitados, como a sentença condenatória.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-s e.
+ EMENTA
