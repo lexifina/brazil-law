@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto pelo PROSEGUR BRASIL S.A. TRANSPORTADORA DE VALORES E SEGURANCA contra decisão do Tribunal Regional Federal 2ª Região, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 116):
+DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. GRUPO ECONÔMICO. FALTA DE INTERESSE SUPERVENIENTE. PERDA DO OBJETO. RECURSO NÃO CONHECIDO.
+1 - O agravo de instrumento se insurge contra a decisão proferida na execução fiscal nº 0519063- 38.2007.4.02.5101, a qual manteve a agravante no polo passivo, considerando a formação de grupo econômico.
+2 - No entanto, após a interposição do presente recurso, foram propostos embargos à execução fiscal nº 0175765-20.20174.02.5101, cujos pedidos constantes neste agravo de instrumento integram os pedidos dos referidos embargos, e com as mesmas alegações, como segue:
+3 - Há, portanto, de se reconhecer a perda superveniente do interesse de agir. O interesse de agir deve estar presente durante todo o processo, desde o início até o seu final; não sendo assim, como neste caso, é preciso reconhecer-se a perda da condição de ação que é o interesse jurídico, consequência imediata e inevitável da perda do objeto da ação.
+4 - Agravo não conhecido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 171/174).
+No recurso especial (e-STJ fls. 187/234), o recorrente alega violação dos arts. 489, § 1º, IV, e 1.022, II, 932, III, 485, VI, do CPC/2015, arts. 2º, §§ 5º e 6º, da LEF, 3º, 113, § 1º, 121, 124, 128, 129, 132, 133, 134, 135, 156, V, 173, I, 174, caput e parágrafo único, inciso I, 202 e 203, todos do CTN, art. 50 do Código Civil, art. 2º da Lei n. 9.784/1999 e art. 59, II, do Decreto n. 72.235/1972.
+Aponta omissão do acórdão recorrido, pois este " ..  não enfrentou detidamente todas as questões relevantes e imprescindíveis à discussão, especialmente a ausência de perda do objeto do agravo de instrumento e a necessidade de sobrestamento dos autos até o desfecho do Tema nº 1.209/STJ" (e-STJ fl. 197).
+No mérito, argui ofensa ao art. 124, I e II, do CTN. Alega que " ..  diante da situação concreta da Recorrente, não há qualquer fundamento que justifique a responsabilidade solidária às obrigações tributárias da empresa Transpev Processamento, sob a alegação equivocada de que supostamente formariam grupo econômico entre si" (e-STJ fl. 214).
+Entende terem sido violados os arts. 132, 133, 134 e 135 do CTN, pois " ..  o fato de a Recorrente ter comprado ativos da Transpev Transporte não leva à conclusão de que ela pertença ao grupo econômico controlado pela Tracthor Participações, uma vez que nenhum dos elementos inerentes ao conceito "grupo econômico" está presente no caso concreto" (e-STJ fl. 219). Por este motivo, não poderia ser responsabilidade por débitos da Transpev e qualquer ato neste sentido afrontaria os arts. 124 e 133 do CTN, 5º, II, da Constituição Federal, bem como no art. 97 do CTN.
+Alega estar prescrito o direito da recorrida de exigir os débitos da Transportador Ourique (executada original), uma vez que " ..  se passaram muito mais de 5 (cinco) anos entre a constituição definitiva dos créditos (09/02/1999) e o ajuizamento da Execução Fiscal (12/06/2007), bem como o despacho de citação da Transportadora Ourique (10/07/2007). A demora aqui ocorrida somente pode ser atribuída à União Federal (Fazenda Nacional)" (e-STJ fl. 222). Da mesma maneira argui estar prescrita a po ssibilidade de redirecionamento da execução fiscal à recorrente.
+Por fim, aponta possível nulidade na CDA, com fundamento na violação dos arts. 2º, §§ 5º e 6º, da LEF e arts. 202 e 203 do CTN, ante a ausência de inclusão da recorrente na CDA desde sua formalização.
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo, com fundamento no art. 1.030, V, do CPC/2015, em razão da incidência da Súmula 83 do STJ (e-STJ fls. 319/325).
+No agravo em recurso especial (e-STJ fls. 304/351), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+Passo a decidir.
+O recurso especial ataca acórdão que, em sede de agravo de instrumento, rejeitou a exceção de pré-executividade, a qual objetiva a exclusão do ora recorrente da execução fiscal.
+Ocorre que, após a interposição do referido agravo de instrumento, foram opostos embargos na execução fiscal (ação principal) que ventilou temas constantes neste recurso. Sobreveio sentença que julgou extinto o processo, sem resolução de mérito, conforme art. 485, V, do CPC, no que refere aos pedidos de reconhecimento da ilegitimidade passiva da Embargante e de declaração da prescrição, e julgou extinto o processo, com resolução de mérito, nos termos do artigo 487, I do CPC, em relação aos demais pedidos.
+Segundo o entendimento desta Corte Superior, a superveniência de sentença de mérito prejudica o exame do recurso especial interposto contra acórdão que, em sede de agravo de instrumento, mantém ou cassa decisão deferitória ou indeferitória de liminar ou de antecipação de tutela.
+Isso porque "as medidas liminares, editadas em juízo de mera verossimilhança, objetivam ajustar provisoriamente a situação das partes, desempenhando no processo função de natureza temporária. Sua eficácia se encerra com a superveniência da sentença, provimento tomado à base de cognição exauriente, apto a dar tratamento definitivo à controvérsia" (AgRg no Ag 1.322.825/SP, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 03/02/2011).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MILITAR. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. DECLARAÇÃO DE NULIDADE DE ATO ADMINISTRATIVO. PORTARIA QUE CONCEDE ANISTIA POLÍTICA. LEI 10.559/2002. LIMINAR DEFERIDA PARA SUSPENDER OS EFEITOS DA PORTARIA. PROLAÇÃO DE SENTENÇA DE MÉRITO NA ORIGEM. PERDA SUPERVENIENTE DO OBJETO. PRECEDENTES. AGRAVO REGIMENTAL PREJUDICADO.
+1. A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento. Precedentes.
+2. Agravo regimental prejudicado.
+(AgRg no REsp 1413651/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/11/2015, DJe 18/12/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RADIODIFUSÃO. CONCLUSÃO DE PROCESSOS ADMINISTRATIVOS. MORA. APLICAÇÃO DE MULTA DIÁRIA. SUPERVENIÊNCIA DE SENTENÇA DE EXTINÇÃO. PERDA DO OBJETO.
+1. A jurisprudência desta Corte Superior firmou entendimento no sentido de que resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento de decisão que defere ou indefere liminar ou antecipação de tutela, quando se verifica a prolação da sentença de mérito.
+2. Agravo Regimental a que se nega provimento.
+(AgRg no REsp 1380276/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/05/2015, DJe 01/06/2015)
+Ante o exposto, julgo PREJUDICADO o recurso (art. 34, XI, do RISTJ).
+Sem fixação de honorários recursais, pois não houve condenação da parte recorrente ao pag amento da verba honorária.
+Publique-se. Intimem-se.
+EMENTA
