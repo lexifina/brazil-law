@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de VALDEIR BARRAVIEIRA DE OLIVEIRA PINTO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2010885-68.2025.8.26.0000).
+Depreende-se dos autos que o Juízo de primeiro grau deferiu medidas cautelares em desfavor do ora paciente e de seu corréu, tais como, mandados de busca e apreensão, acesso aos dados dos aparelhos apreendidos e bloqueio de conta corrente aparentemente utilizada para operacionalizar o tráfico de drogas.
+Posteriormente, o paciente e o corréu foram denunciados pela suposta prática dos delitos de tráfico de drogas e associação para o tráfico de drogas.
+Impetrado prévio habeas corpus perante o Tribunal de origem, a ordem foi denegada, em acórdão assim ementado (e-STJ fl. 16):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PELOS MESMOS FINS. IMPETRAÇÃO VISANDO O TRANCAMENTO DA AÇÃO PENAL OU RECONHECIMENTO DE NULIDADE. ORDEM DENEGADA.
+1. Os impetrantes argumentam com a nulidade das provas obtidas de forma inadequada, ocorrendo quebra da cadeia de custódia. Buscam assim o trancamento da ação penal diante do desentranhamento das provas.
+2. Descabimento da impetração. Inadmissibilidade do reexame da matéria fática na via estreita do writ. O Habeas Corpus não é a via adequada para trancamento de ação penal, salvo em casos de manifesta ilegalidade ou atipicidade da conduta, não comprovados na espécie. Decisão impugnada bem fundamentada, expostas as razões de decidir para satisfazer a exigência constitucional (art. 93, IX, da CF). Ausência de nulidade latente no processo. Exame da questão que será mais bem avaliada na sentença, após a realização da audiência de instrução, cabendo a interposição de apelação em caso de inconformismo. Constrangimento ilegal não caracterizado.
+Ordem denegada.
+Neste writ, alega a defesa nulidade das provas por quebra da cadeia de custódia, notadamente diante do relatório policial acerca dos dados obtidos do aparelho de telefonia celular do corréu do paciente.
+Aduz, nesse sentido, que "o procedimento realizado para extrair os dados no referido aparelho celular não possui o condão de resguardar o Código Hash, extremamente necessário para estabelecer a confiabilidade da prova digital" (e-STJ fl. 9).
+Diante dessas considerações, requer (e-STJ fl. 13):
+1. Após fazer uma análise detalhada dos autos, digne-se a SUSPENDER o andamento da Ação Penal, em sede liminar, eis que clarividente a nulidade das provas obtidas;
+2. No mérito, o TRANCAMENTO DA AÇÃO PENAL nº 1501908- 13.2024.8.26.0637, em trâmite na Vara Criminal da Comarca de Tupã/SP, em face da manifesta NULIDADE, perpetrada pela polícia civil e ratificada pelo juiz, devendo ainda, ser desentranhadas todas as provas do processo, nos termos do art. 157, do CPP, absolvendo o acusado nos termos do art. 386, inciso VII, do Código de Processo Penal.
+É, em síntese, o relatório.
+Decido.
+Sobre o tema, o Tribunal de origem consignou que "inexiste nulidade latente quanto à forma de obtenção das provas constantes dos aparelhos celulares dos envolvidos, tendo em vista que decorreram de prévia autorização judicial, com elaboração de relatório sobre os dados obtidos. Vale ressaltar que não foi impugnada de forma específica pela Defesa qualquer irregularidade ou incompatibilidade dos dados relatados, mas apenas acena contra a forma de disposição no relatório policial.  ..  Fato é que a questão relativa à alegada falta de provas será mais bem avaliada na sentença, após a realização da audiência de instrução e julgamento, oportunidade em que serão verificadas as circunstâncias do fato, o que demanda a análise aprofundada de elementos probatórios" (e-STJ fl. 21).
+Primeiramente, observo que o acesso aos dados telefônicos foi devidamente autorizado pelo Magistrado processante.
+Ademais, a avaliação relativa à eventual quebra na cadeia de custódia deve ocorrer tão somente após a conclusão do iter procedimental, quando da prolação da sentença, realizado o devido cotejo de todas as provas produzidas nos autos.
+Dessarte, haja vista o atual momento processual da ação penal, o entendimento das instâncias ordinárias encontra-se em conformidade com a compreensão do Superior Tribunal de Justiça sobre o tema, porquanto se "mostra mais adequada a posição que sustenta que as irregularidades constantes da cadeia de custódia devem ser sopesadas pelo magistrado com todos os elementos produzidos na instrução, a fim de aferir se a prova é confiável" (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1º/2/2022).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
