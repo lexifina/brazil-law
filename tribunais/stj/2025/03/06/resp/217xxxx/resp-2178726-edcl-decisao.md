@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por C&P SOLUCOES LTDA à decisão de fls. 587/588, que não conheceu do recurso.
+Sustenta a parte embargante:
+Superada a questão da tempestividade do recurso, cumpre ressaltar que os embargos não são protelatórios, pois visa tão somente eliminar contradição na decisão embargada, a qual não conheceu do R Esp, aplicando a recorrente os efeitos da Súmula 284 do STF, por entender que houve ausência de indicação precisa dos dispositivos legais que teriam sido violados ou a indicação de quais dispositivos seriam objeto de dissídio interpretativo, levando a crer que a embargante ingressou com o R Esp pela alínea "a" do art. 105 da CF/88 (negativa de vigência da lei federal), quando na realidade a embargante ingressou com o R Esp pela alínea "c" do art. 105 da CF/88 (divergência de interpretação jurisprudencial entre o TRF 1 e o STJ).
+ ..
+Com todo respeito a Vossa Excelência, trata-se de uma empresa de pequeno porte e que aguardou por quase 14 (quatorze) anos para um provimento final meritório. A embargante humildemente informa que o R Esp está adequado e atende as exigências legais dispostas na Constituição Federal de 1988, em especial, no que concerne ao disposto no art. 105, III, alínea "c", com a demonstração do cotejo analítico entre o acórdão proferido pela E. Oitava Turma do TRF 1 e o entendimento consolidado por este Colendo Tribunal, em especial, da Súmula 425 - STJ / Recurso Repetitivo Tema 117 (R Esp 1.112.467/DF).
+ ..
+Cumpre destacar que, apesar do TRF 1 reconhecer o posicionamento desta Egrégia Corte Superior, em especial, quanto ao julgamento do R Esp 1.112.467/DF sob o regime do art. 543-C do CPC (recursos repetitivos), no qual alicerçou o entendimento no sentido de que não é de se exigir das sociedades empresárias prestadoras de serviço optantes pelo SIMPLES a retenção da contribuição previdenciária de 11% (onze por cento) sobre o valor da nota fiscal/fatura emitida, o Tribunal a quo (TRF 1) criou uma nova tese afirmando que, em decorrência da promulgação e vigência da LC 123/06, a Lei Federal 9.317/96 foi revogada, e, que, o art. 13 da LC 123/06 prevê o recolhimento mensal em documento único de todos os impostos, dentre estes a contribuição previdenciária patronal para a seguridade social de que trata o art. 22 da Lei 8.212/91, com exceção das microempresas e empresas de pequeno porte que se dediquem a atividades de prestação de serviços referidas em seu art. 18, § 5-C, VI da LC 123/06.
+ ..
+11. Por fim, conforme a sistemática dos recursos repetitivos concernentes ao art. 543-C do CPC, o R Esp 1.112.467/DF tornou-se o acórdão paradigma absoluto para resolução de casos semelhantes, o qual não foi reconhecido pelo TRF 1, preferindo o Tribunal a quo inovar a tese do que reconhecer a uniformização jurisprudencial deste Egrégio Superior Tribunal de Justiça - STJ (fls. 594/600).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide a Súmula n. 284/STF, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do Recurso Especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante, na petição do Recurso Especial, menciona genericamente alguns artigos sem, contudo, apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+Observe que a parte embargante pretende o exame de mérito do Recurso Especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Desse modo , não há que se cogitar da ocorrência de omissão, pois o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 11.3.2021).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
