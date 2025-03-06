@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de NEILO FERREIRA E SILVA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente teve a prisão preventiva decretada, pela prática, em tese, das condutas capituladas no art. 121, § 2º, incisos I, III e IV, na forma do artigo 18, inciso I, segunda parte; artigo 121, § 2º, incisos I, III, IV, na forma dos artigos 14, inciso II, e 18, inciso I, segunda parte, por 15 (quinze) vezes; artigo 250, inciso II, alínea c, todos do Código Penal, e artigo 201, § 1º, inciso III, e § 6º, da Lei nº 14.597, de 2023; todos na forma dos artigos 29, caput, e artigo 69, ambos do Código Penal.
+Irresignada, a defesa, impetrou prévio writ perante o Tribunal de origem, que, denegou a ordem, em acórdão assim ementado:
+ ..  Habeas Corpus. Homicídio qualificado tentado por quinze vezes. Homicídio qualificado consumado. Briga de torcida. Incêndio. Pleito de revogação da prisão cautelar. "Fumus comissi delicti" e "periculum libertatis" demonstrados. Extrema gravidade das condutas. Necessidade de garantia à ordem pública, instrução criminal e aplicação da lei penal. Constrangimento ilegal não caracterizado. Ordem denegada.  ..  (fl. 19)
+No presente writ, a defesa, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+No caso em tela a decisão que decretou a prisão preventiva do paciente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade e pelo modus operandi da conduta.
+Por oportuno, transcrevo trechos do acórdão hostilizado do Tribunal de origem:
+ ..  Em análise à decisão acima, constata-se que a prisão preventiva foi decretada, em especial, com fundamento na gravidade concreta dos crimes, ressaltando-se que o paciente pertenceria à torcida organizada Mancha Verde e que, em conjunto com os demais denunciados, mediante ação coordenada e premeditada, em rodovia de grande circulação de veículos, estaria envolvido nas graves ações criminosas descritas na denúncia, dentre elas, a morte de uma pessoa e a ofensa à integridade física de 15 pessoas, com assunção de risco do resultado homicida dessas vítimas.  ..  (fls. 24-25)
+A propósito:
+ ..  A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. ..  (AgRg no RHC n. 175.703/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22/6/2023)
+ ..  No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso.  ..  (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023)
+Presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP, não há que se falar em violação ao princípio de presunção de inocência. Demais disso:
+ ..  A imposição da constrição processual em nada fere o princípio da presunção de inocência quando lastreada em elementos concretos dos autos que demonstram o perigo que a liberdade do agravante pode representar para a ordem pública. Precedentes  ..  (AgRg no HC 618.887/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/04/2021, DJe 14/04/2021).
+Ademais, cumpre consignar que a inversão do que restou decidido pelas instâncias ordinárias, demandaria, impreterivelmente, revolvimento de matéria fático-probatória, procedimento vedado na estreita via do habeas corpus, ainda mais quando não se demonstrou de plano a existência das alegações do paciente, e não há manifesta ilegalidade ou teratologia identificadas.
+Nesse sentido:
+ ..  O paciente não demonstrou a sua imprescindibilidade aos cuidados das menores. Rever tal posicionamento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via mandamental  ..  (AgRg no HC n. 754.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023)
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ -SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 24/09/2019, T6 -SEXTA TURMA, Data de Publicação: DJe 03/10/ 2019).
+No mais:
+ ..  Condições subjetivas favoráveis ao agravante não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes  ..  (AgRg no HC 640.821/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 30/03/2021, DJe 08/04/2021).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Assim:
+ .. .  É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu  ..  (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/04/2021, DJe 30/ 04/2021).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem em habeas corpus.
+Cientifique-se o representante do Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
