@@ -1,2 +1,0 @@
-Art. 51. Os recursos do FS para aplicação nos programas e projetos a que se refere o art. 47 deverão ser os resultantes do retorno sobre o capital.
-Parágrafo único. Constituído o FS e garantida a sua sustentabilidade econômica e financeira, o Poder Executivo, na forma da lei, poderá propor o uso de percentual de recursos do principal para a aplicação nas finalidades previstas no art. 47, na etapa inicial de formação de poupança do fundo.
