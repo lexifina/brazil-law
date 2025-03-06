@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de AMADEU DA COSTA NETO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o paciente foi condenado como incurso nas penas do art. 334-A, § 1º, inciso I, do Código Penal c/c artigos 2º e 3º do Decreto-Lei nº 399/68 (Legislação sobre fiscalização de cigarros de procedência estrangeira), à pena total de 05 (cinco) anos de reclusão (pena máxima), em regime inicial fechado, nos termos do artigo 33, §2º, alínea "a" e §3º do Código Penal; posteriormente, a prisão preventiva foi substituída por medidas cautelares diversas, com a colocação e fiscalização de tornozeleira eletrônica por outro estado da federação.
+Irresignada, a defesa, impetrou prévio habeas corpus perante o Tribunal local, com o pleito pela revogação das medidas cautelares anteriormente aplicadas, que fora negado, em acórdão assim ementado:
+ ..  HABEAS CORPUS. PENAL. PROCESSUAL PENAL. "OPERAÇÃO CONTORNO NORTE". CRIMES DE TRÁFICO E CONTRABANDO PRATICADOS POR ORCRIM. ART. 334-A, § 1º, I, DO CP. LEI N. 12.850/2013. REVOGAÇÃO DO MONITORAMENTO ELETRÔNICO ANTE A DESPRORPOCIONLAIDADE DA DECISÃO QUE DETERMINA A INSTALAÇÃO EM OUTRO ESTADO. REQUISITOS DA CAUTELAR PRESENTES. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. RISCO AO MEIO SOCIAL. PROPORCIONALIDADE DA MEDIDA.
+1. Permanecem presentes os requisitos ensejadores da fixação das cautelares, no caso concreto, para a garantia da ordem pública, que está efetiva e concretamente ameaçada, pois com base nos elementos coligidos constata-se que o paciente teve o monitoramento eletrônico decretado no âmbito da investigação da prática em tese dos crimes previstos no art. 334- A, § 1º,do CP, dentre outros, e pela Leis nº 12.850/2013, perpetrados por grupo altamente organizado envolvendo o contrabando de enormes quantidades de cigarros e, por conseguinte, a movimentação de altas somas de dinheiro, sendo que a ora paciente seria um dos líderes da ORCRIM.
+2. Considerando-se a incessante prática de ações voltadas para o contrabando, e considerando-se a multirreincidência e a posição de liderança imputada ao paciente, evidente que o risco à ordem pública segue concreto e atual, não sendo plausível a dispensa do uso de tornozeleira eletrônica.
+3. Nos termos da Lei nº 12.403/2011, não há nos autos qualquer elemento indicativo de que monitoramento eletrônico possa ser afastado ou, ainda, substituído por medidas cautelares alternativas. As medidas fixadas na origem permanecem necessárias, inclusive para afastar os riscos à garantia da ordem pública e à aplicação da lei penal.
+4. Não se mostra desproporcional a medida determinada, inclusive porque imperativo que o ora paciente dê início ao cumprimento da medida cautelar diversa da prisão imposta que pende de cumprimento desde junho/2024.
+5. Denegada a ordem de habeas corpus.  ..  (fl. 21)
+Em suas razões, a defesa, alega, constrangimento ilegal na exigência de colocação e fiscalização de tornozeleira eletrônica por outro estado, diverso do domicílio do paciente.
+Requer que seja concedida a ordem para "que o Paciente não tenha de se deslocar do Estado de São Paulo até o Estado do Paraná, a fim de instalação da tornozeleira eletrônica e, por outro lado, se o agendamento já foi cumprido e o aparelho já foi instalado, que seja determinada a sua retirada, para que o Paciente retorne, imediatamente, a Barueri/SP, até que sobrevenha o julgamento de mérito do presente writ."
+A liminar foi indeferida (fls. 47-49).
+As informações foram prestadas (fls. 52-55 e 56-65).
+A defesa juntou nova petição reiterando o pedido de concessão da ordem (fls. 67-71).
+Em parecer, o Ministério Público Federal opinou pelo não conhecimento da ordem (fls. 76).
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+O presente versava sobre alegação de constrangimento ilegal na exigência de colocação e fiscalização de tornozeleira eletrônica por outro estado, diverso do domicílio do paciente.
+Conforme se extrai das informações prestadas pela origem, houve a instalação da tornozeleira "na Subseção Judiciária de Guaíra/PR (evento 82.1 da Cautelar)" (fl. 63), sendo, inclusive, expedida carta precatória para que a fiscalização do comparecimento semanal se desse na Subseção Judiciária de Barueri/SP - "(evento 84.1 da Cautelar)."
+Em seguida, foi noticiada alteração fática na situação ora analisada, qual seja, a emissão de "alerta de rompimento da cinta da tornozeleira do monitorado AMADEU DA COSTA NETO - 5007973-69.2024.4.04.7003 no dia 08/02/2025 às 17:17:18, conforme relatório em anexo" (evento 87.1 da Cautelar)".
+Desse modo, alterada a situação fática, e não sendo tal alteração analisada pela autoridade apontada como coatora, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intimem-se.
+EMENTA
