@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THALIS AUGUSTO DE OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado de São Paulo no HC n. 2374894-97.2024.8.26.0000.
+O Tribunal de origem denegou a ordem de habeas corpus, mantendo a prisão preventiva do Paciente, decretada pela suposta prática dos crimes previstos nos arts. 155, § 4º, IV, e 311, caput, na forma do art. 69, todos do Código Penal.
+O impetrante sustenta ilegalidade na prisão em flagrante realizada por guardas municipais, que teriam atuado fora de suas atribuições constitucionais. Alega também ausência dos requisitos autorizadores da prisão preventiva, ressaltando que o paciente é primário e que o delito foi cometido sem violência. Requer, liminarmente e no mérito, o reconhecimento da ilicitude da abordagem e a revogação da custódia preventiva ou sua substituição por medidas cautelares alternativas.
+O pedido liminar foi indeferido às fls. 81-82.
+Informações prestadas às fls. 89-93, 94-108 e 112-114.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, no mérito, por sua denegação (fls. 115-118).
+É o relatório.
+DECIDO.
+Sobre a prisão em flagrante realizada pela Guarda Municipal, o termo da audiência de custódia consignou (fls. 65-66):
+Os autuados THALIS RYAN DE SOUSA e JHONATAN RYAN DE SOUSA foram detidos em flagrante delito, sendo que nenhuma irregularidade existiu no flagrante, já que estava o autuado em uma das situações previstas no artigo 302, do CPP. Os guardas detiveram o autuado em flagrante e, justamente porque estavam próximos ao local dos fatos e ante a noticia de crime recente, não era outra a atuação esperada dos guardas municipais. Mesmo porque, eles integram a segurança pública. Segundo o expediente, guardas municipais receberam informações de que o catalisador do veículo de uma vítima tinha sido subtraído do interior do estacionamento do supermercado. A vítima tinha conseguido as imagens que exibiam um veículo que encostava ao seu. Uma vez que estavam próximos ao local dos fatos, os guardas lograram êxito em encontrar os autuados em poder de um veículo em cujo interior foram encontrados dois catalisadores, além de ferramentas.
+Nesse caso, a situação de flagrante delito é justa causa para atuação da Guarda Municipal no caso concreto. Nesse sentido: AgRg no HC n. 871.486/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 15/10/2024, DJe de 23/10/2024; HC n. 917.341/PE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024.
+Quanto à prisão preventiva, o Tribunal a quo registrou a existência de fundamentação adequada e sua necessidade, destacando o seguinte trecho da decisão do Juízo de primeiro grau (fls. 74-75):
+Em que pese a pouca gravidade do fato em discussão, uma vez que o crime não se revestiu de maiores gravidades, chama a atenção o fato dele ter se envolvido em delito semelhante, na comarca de Indaiatuba/SP para o qual, inclusive, responde a processo (1501516.47.2022.8.26.0248). Houve, ainda, envolvimento em furto posterior, para o qual foi beneficiado com ANPP. Tais circunstâncias revelam que o autuado insiste em praticar delitos e que, uma vez solto, a ordem pública está em risco.
+A jurisprudência desta Corte é firme no sentido de que maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 749.474/SP, rel. Ministro Antônio Saldanha Palheiro, DJe 10/10/2022).
+Demonstrado o periculum libertatis do agente pela reiteração delitiva, e presentes os requisitos dos arts. 312 e 313 do CPP, não há constrangimento ilegal a ser sanado.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
