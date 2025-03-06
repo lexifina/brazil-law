@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl.56):
+APELAÇÃO - Ação declaratória de nulidade de contrato cumulada com indenização por dano moral - Descontos em benefício previdenciário referentes à reserva de margem consignável (RMC) para cartão de crédito - Sentença de improcedência - Recurso da parte autora.
+NULIDADE DA CONTRATAÇÃO- Requerido comprovou a celebração da avença por meio de contrato de adesão devidamente assinado - Realização de um saque autorizado e outros dois complementares - Utilização do cartão para realização de compras - Demora do autor de mais de seis anos para se insurgir contra a contratação que não condiz com o dever de lealdade - Ainda que pairasse alguma incerteza sobre a real pactuação ou a livre manifestação de vontade, o que não se verifica, tem-se que a conduta do demandante em suscitar a ocorrência de vício do consentimento depois de tanto tempo permitiria a aplicação do instituto da "supressio" - Conduta da parte autora durante a vigência do contrato que demonstra interesse na avença e concordância com o produto ofertado - Inexistência de demonstração de vício do consentimento apto a acarretar nulidade do contrato - Sentença mantida - RECURSO DESPROVIDO.
+O recorrente interpôs recurso especial sem apresentar as razões do recurso.
+Contrarrazões apresentadas.
+O Tribunal de origem, ao realizar o juízo de admissibilidade, não admitiu o recurso especial, considerando que a petição de interposição foi protocolada sem as razões do recurso, caracterizando deficiência na fundamentação, de maneira que incidiu o óbice da Súmula 284/STF.
+A parte recorrente interpôs agravo em recurso especial alegando que a jurisprudência do STJ mitiga formalismos excessivos, permitindo a apresentação posterior das razões do recurso sem prejuízo ao mérito.
+Contraminuta apresentada.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, a decisão que não admitiu o recurso especial aplicou a Súmula 284/STF, tendo em vista a ausência das razões do recurso no momento da interposição. Confira-se (e-STJ, fls. 371/372):
+I. Trata-se de recurso especial interposto por WILSON ROBERTO DOS SANTOS CARVALHO, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra o V. Acórdão proferido na C. 24ª Câmara de Direito Privado.
+II. O recurso não reúne condições de admissibilidade.
+A correta formação do processo eletrônico constitui responsabilidade do advogado ou procurador, nos termos do art. 1.197 das Normas da Corregedoria Geral da Justiça - Tomo I.
+No caso, o recorrente protocolou, em 23.05.2024, apenas a petição de interposição do recurso especial (fls. 333), sem apresentar as razões recursais, contrariando o disposto no art. 1.029, III, do CPC.
+Assim, a pretensão deduzida fica prejudicada, em virtude da insuficiência dos elementos apresentados para caracterizar a ocorrência de quaisquer das hipóteses constitucionais de admissibilidade do recurso sub examine.
+Em face da deficiente fundamentação, impõe-se a aplicação da Súmula 284 do E. Supremo Tribunal Federal, adotada pelo E. Superior Tribunal de Justiça.
+Ressalto, ainda, ser incabível o recebimento da petição de fls. 335/347 como aditamento ao recurso especial interposto, em razão da preclusão consumativa (AgInt no AREsp 798888/PR, Rel. Min. Raul Araújo, in DJe de 23.5.2017).
+III. Pelo exposto, INADMITO o recurso especial, com base no art. 1.030, V, do CPC.
+IV. Alerto que esta Presidência não conhecerá de eventuais embargos declaratórios opostos contra a presente decisão. Isto porque o E. Superior Tribunal de Justiça já consagrou entendimento no sentido de que os embargos de declaração opostos contra decisão de inadmissão de recurso especial não têm o condão de interromper ou suspender o prazo recursal, uma vez que o único recurso cabível contra tal despacho é o agravo em recurso especial (nesse sentido: AgInt no AREsp 1599563/RJ, 3ª Turma, Relator Ministro Ricardo Villas Bôas Cueva, in DJe de 03.11.2021; AgInt no AREsp 1875740/RJ, 4ª Turma, Relator Ministro Luis Felipe Salomão, in DJe de 28.10.2021; AgInt nos EDcl no EAREsp 1632917/SP, Corte Especial, Relator Ministro João Otávio de Noronha, in DJE de 11.03.2021 e AgInt no AREsp 1703448/RS, 4ª Turma, Relatora Ministra Maria Isabel Gallotti, in DJe de 11.02.2021).
+Verifico que a petição de interposição do recurso especial foi protocolada desacompanhada das razões do recurso, configurando deficiência de fundamentação apta a atrair a incidência dos termos da Súmula nº 284/STF.
+A jurisprudência desta Corte segue no sentido de que a ausência de razões do recurso configura vício insanável, incapaz de ser sanado pela apresentação posterior, não sendo aplicável a hipótese do art. 932, parágrafo único, do CPC. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS EXTRAORDINÁRIOS. AUSÊNCIA DE RECURSO ESPECIAL A SER ANALISADO NO STJ. REMESSA DOS AUTOS AO STF.
+1. Esta Corte tem entendimento no sentido de que a ausência das razões recursais configura vício insanável, ficando impossibilitada a parte interessada de apresentá-las em momento posterior, dada a incidência da preclusão consumativa, não sendo, por isso mesmo, hipótese de aplicação do art. 932, parágrafo único, do CPC.
+2. No caso concreto, a falha ainda é mais grave, pois não se trata de interposição do especial, com razões incompletas ou sem o respectivo arrazoado, mas de total inexistência de recurso especial. Foram interpostos, apenas e tão somente, dois recursos extraordinários, devendo, portanto, os autos serem remetidos ao STF, a quem compete julgar as vias recursais efetivamente apresentadas nos autos.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AgInt nos EDcl no AREsp 1974252/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão dos benefícios da justiça gratuita.
+Intimem-se.
+EMENTA
