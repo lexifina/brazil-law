@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THIAGO HENRIQUE SILVA SAMPAIO e TAMYRES NASCIMENTO MOTA contra acórdão do Tribunal de Justiça do Estado de Goiás proferido na Apelação Criminal n. 5163475-85.2022.8.09.0087.
+O Tribunal de origem negou provimento à apelação da defesa, mantendo a condenação dos Pacientes pelos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006.
+Os Pacientes foram condenados às penas de 8 anos e 10 meses de reclusão, em regime inicial fechado, e 1200 dias-multa (THIAGO) e 10 anos de reclusão, em regime inicial fechado, e 1200 dias-multa (TAMYRES).
+A impetração alega nulidade da busca pessoal e da entrada em domicílio, por ausência de justa causa. Subsidiariamente, requer o reconhecimento do tráfico privilegiado, a fixação de regime mais brando e a substituição da pena privativa de liberdade por restritivas de direitos.
+O pedido liminar foi indeferido às fls. 1323-1327.
+Informações prestadas às fls. 1332-1360 e 1362-1365.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 1368-1379).
+É o relatório.
+DECIDO.
+O presente habeas corpus foi impetrado como substitutivo de recurso próprio/revisão criminal.
+Esta Corte Superior pacificou orientação no sentido de que não cabe habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+No caso, não se verifica flagrante ilegalidade.
+Segundo o acórdão recorrido, após o recebimento de informações do serviço de inteligência da PM relatando a mudança do casal THIAGO HENRIQUE SILVA SAMPAIO e TAMYRES NASCIMENTO MOTA de Itumbiara para Morrinhos, intensificaram o patrulhamento na região, visualizaram dois indivíduos do lado de fora, que se assustaram com a viatura e dispensaram uma sacola próximo ao lixo (fl. 1.182).
+Os policiais constataram que a sacola continha drogas e adentraram na residência, onde apreenderam 30 (trinta) tabletes de maconha totalizando 27,275kg (vinte e sete quilogramas, duzentos e setenta e cinco gramas), 01 (uma) porção de cocaína, pesando 505g (quinhentos e cinco gramas), 01 (uma) porção de crack, com massa de 500g (quinhentos gramas), além de 01 (uma) balança de precisão (fl. 1.182).
+Nesse quadro, não há falar em invasão ilegal de domicílio, tendo em vista a existência de fundadas razões para o ingresso domiciliar pelos policiais, o qual foi precedido de informações do serviço de inteligência, dispensa em via pública de uma sacola com drogas e fuga dos agentes em direção ao imóvel. Nesse sentido, em caso análogo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. TRANCAMENTO. NULIDADE. INVASÃO DE DOMICÍLIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, submetido à sistemática da repercussão geral, firmou o entendimento de que a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados".
+2. O trancamento da ação penal, é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria de provas e materialidade do delito.
+3. Na hipótese, o Tribunal a quo rejeitou a pretensão de trancamento da ação penal, relatando que os policiais se dirigiram ao local em razão de diversas denúncias de tráfico de drogas, e que, após percebê-los ali, o paciente dispensou uma sacola com drogas e empreendeu fuga para o interior da residência, gritando "é a polícia, corre!". Tais circunstâncias, em conjunto, configuram, ao menos em análise perfunctória, fundadas razões suficientes para o ingresso domiciliar.
+4. Os pormenores do caso somente serão esclarecidos durante a instrução processual, momento apropriado para a análise aprofundada dos fatos narrados pelo titular da ação penal pública, pois a certeza quanto aos fatos e seus contornos jurídicos apenas virá com a prolação da sentença condenatória ou absolutória.
+5. O momento processual da ação penal não autoriza o reconhecimento de nulidade probatória por esta Corte Superior pela via estreita do habeas corpus. Faz-se prematuro afirmar a invalidade das provas produzidas, na presente via, sob o risco de se incorrer em indevida supressão de instância.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 785.658/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Quanto ao pleito de aplicação do § 4º do art. 33 da Lei n. 11.343/2006, é entendimento assente nesta Corte que a condenação concomitante por associação para o tráfico de entorpecentes obsta a aplicação da minorante prevista no art. 33, § 4.º, da Lei de Drogas (STJ, AgRg no HC n. 737.933/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/5/2022, DJe de 23/5/2022). No mesmo sentido: AgRg no AREsp n. 2.775.935/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025.
+Assim , a quantidade e variedade das drogas apreendidas, somadas à vinculação dos pacientes a organizações criminosas, impedem o reconhecimento do tráfico privilegiado e justificam a fixação do regime inicial fechado, bem como a vedação à substituição da pena privativa de liberdade por restritiva de direitos.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
