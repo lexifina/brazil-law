@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por DANILO ISIDIO DA SILVA contra a decisão do Tribunal de Justiça do Estado de Santa Catarina que não admitiu o recurso especial, devido à Súmula n. 7, STJ (fls. 327-328).
+Em sede de apelação, foi mantida a condenação do agravante por infração ao disposto no art. 33, caput, da Lei n. 11.343/06, contudo, redimensionada a pena para 6 (seis) anos, 6 (seis) meses e 22 (vinte e dois) de reclusão, em regime inicial fechado, além do pagamento de 656 (seiscentos e cinquenta e seis) dias-multa (fls. 284-290).
+Inconformado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 157 do Código de Processo Penal (fls. 302/310).
+No presente agravo, a defesa sustenta que a questão não demanda reanálise de provas, mas apenas a correta valoração de fatos incontroversos. Para reforçar seu pedido, colaciona julgado da Sexta Turma que reconheceu a insuficiência dos depoimentos policiais quando desacompanhados das gravações da câmera corporal usada na abordagem (fls. 335-339).
+Em contrarrazões, o Ministério Público do Estado de Santa Catarina pugna pela manutenção da decisão agravada (fls. 344-348).
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (fls. 371-373).
+É o relatório. DECIDO.
+Embora o recorrente sustente que "inexistiam circunstâncias aptas a indicar a justa causa para o ingresso de policiais na residência sem prévia autorização judicial", a Câmara de origem, "a partir da análise dos elementos fático-probatórios formulados na presente demanda, reconheceu a legitimidade da referida medida" (fl. 327), de modo que eventual modificação do julgado demandaria o reexame de fatos e provas.
+Nesse aspecto, caberia à defesa demonstrar, de modo concreto, que a análise da legitimidade da busca domiciliar visa tão somente ao reenquadramento jurídico dos fatos, o que não ocorreu. Isso porque as razões recursais apenas alegam, genericamente, que não há suporte para a incidência do referido enunciado sumular, sem efetuar o devido cotejo entre as razões recursais e as premissas fáticas.
+A propósito:
+"(..) 2. É firme o entendimento desta Corte Superior no sentido de que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016)." (AgRg no AREsp n. 2.672.166/SE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 6/9/2024)
+Ademais, observo que o recurso especial está fundado na negativa de vigência à lei federal, e não em dissídio jurisprudencial, o que impede a análise do mencionado precedente da Sexta Turma - até porque não foi efetuado o cotejo analítico para demonstrar a efetiva similitude dos casos.
+Houve, portanto, manifesta ofensa ao princípio da dialeticidade, por ausência de demonstração do desacerto da decisão agravada, o que atrai a Súmula n. 182, STJ: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+"Não havendo impugnação específica dos fundamentos da decisão que deixou de admitir o apelo nobre, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior." (AgRg no AREsp n. 2.657.583/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 16/8/2024)
+Ante  o  exposto,  não  conheço  do  agravo,  nos  termos  do  art.  253,  parágrafo  único,  inciso  I,  do  RISTJ.
+P ublique-se.  Intimem-se.
+EMENTA
