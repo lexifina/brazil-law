@@ -1,0 +1,49 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (eDOC 1, p. 135):
+
+    “EMENTA - DIREITO À SAÚDE. INTERNAÇÃO EM LEITO DE UTI. ATIVISMO JUDICIAL CONTIDO. 1. Sem que o postulante tenha demonstrado minimamente que foi preterido na ordem de prioridade das filas do SUS ou que teve negada a vaga em UTI imotivadamente, não há falar em intervenção judicial para assegurar vaga em UTI, sob pena de atuação não igualitária e substituição do administrador público na implementação de políticas em curso, privilegiando um em detrimento de muitos. 2. Apelo conhecido e improvido. Unanimidade.”
+
+    No recurso extraordinário interposto com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 196 e 198 da Constituição Federal.
+
+     Nas razões recursais, sustenta-se, em suma, que o direito à saúde restou violado ante a recusa de internação em leito de UTI da rede pública ou conveniada (eDOC 1, pp. 141-211).
+
+    Em 7.12.2018, determinei o retorno dos autos para o órgão de origem com o fim de eventual juízo de retratação relativo ao Tema 6 da sistemática de repercussão geral (eDOC 4).
+
+    A Vice-Presidência do Tribunal de origem, em juízo de retratação, manteve o entendimento impugnado com as seguintes considerações (eDOC 7):
+
+    “No caso dos autos, o recorrente ajuizou demanda objetivando internação em leito de UTI.
+
+    Ocorre que o Tema 6 do STF tratou da possibilidade de fornecimento de medicamento não incorporado à lista do SUS, por meio de decisão judicial.
+
+    Vejamos a redação da tese fixada no referido tema: “1. A ausência de inclusão de medicamento nas listas de dispensação do Sistema Único de Saúde - SUS (RENAME, RESME, REMUME, entre outras) impede, como regra geral, o fornecimento do fármaco por decisão judicial, independentemente do custo. 2. É possível, excepcionalmente, a concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, desde que preenchidos, cumulativamente, os seguintes requisitos, cujo ônus probatório incumbe ao autor da ação: (a) negativa de fornecimento do medicamento na via administrativa, nos termos do item '4' do Tema 1234 da repercussão geral; (b) ilegalidade do ato de não incorporação do medicamento pela Conitec, ausência de pedido de incorporação ou da mora na sua apreciação, tendo em vista os prazos e critérios previstos nos artigos 19-Q e 19-R da Lei nº 8.080/1990 e no Decreto nº 7.646/2011; c) impossibilidade de substituição por outro medicamento constante das listas do SUS e dos protocolos clínicos e diretrizes terapêuticas; (d) comprovação, à luz da medicina baseada em evidências, da eficácia, acurácia, efetividade e segurança do fármaco, necessariamente respaldadas por evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados e revisão sistemática ou meta-análise; (e) imprescindibilidade clínica do tratamento, comprovada mediante laudo médico fundamentado, descrevendo inclusive qual o tratamento já realizado; e (f) incapacidade financeira de arcar com o custeio do medicamento. 3. Sob pena de nulidade da decisão judicial, nos termos do artigo 489, § 1º, incisos V e VI, e artigo 927, inciso III, § 1º, ambos do Código de Processo Civil, o Poder Judiciário, ao apreciar pedido de concessão de medicamentos não incorporados, deverá obrigatoriamente: (a) analisar o ato administrativo comissivo ou omissivo de não incorporação pela Conitec ou da negativa de fornecimento da via administrativa, à luz das circunstâncias do caso concreto e da legislação de regência, especialmente a política pública do SUS, não sendo possível a incursão no mérito do ato administrativo; (b) aferir a presença dos requisitos de dispensação do medicamento, previstos no item 2, a partir da prévia consulta ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), sempre que disponível na respectiva jurisdição, ou a entes ou pessoas com expertise técnica na área, não podendo fundamentar a sua decisão unicamente em prescrição, relatório ou laudo médico juntado aos autos pelo autor da ação; e (c) no caso de deferimento judicial do fármaco, oficiar aos órgãos competentes para avaliarem a possibilidade de sua incorporação no âmbito do SUS”.
+
+    Como se pode observar, o Tema 6 do STF tratou de matéria diversa da discutida nos autos, razão pela qual não é possível a sua aplicação ao caso. Em caso semelhante, assim se posicionou a Min. Cármen Lúcia, vejamos: “A matéria tratada nos autos não tem identidade com o Tema 6 da repercussão geral. Na espécie em exame, discute-se a responsabilidade do Estado pelas despesas hospitalares decorrentes da internação do paciente em leito de unidade de terapia intensiva – UTI em hospital particular e, naquele paradigma, fornecimento de medicamento de alto custo” (STF - RE: 1347968 RS 0011370-34.2021.8.21.7000, Relator: CÁRMEN LÚCIA, Data de Julgamento: 26/10/2021, Data de Publicação: 27/10/2021).”
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    A Câmara julgadora, no julgamento do recurso, consignou, à época dos fatos (eDOC 1, p. 137):
+
+    “(...) Com isso, não se está a negar a gravidade do quadro de saúde do Apelante, que à época da propositura da ação aguardava na fila de espera por vaga em leito de UTI local ou da rede conveniada. O que se está a dizer é que concede 'ordem judicial que implique alteração na ordem da fila geral ocasionará muito mais prejuízos que benesses,, na medida em que pode existir outro paciente na fila com mesmo grau de risco ou superior, a sofrer discrímen ocasionado pela indevida interferência judicial nas filas de espera do SUS, sem qualquer prova da ingerência estatal no caso em análise.
+
+    Assim, sem que o Apelante tenha demonstrado minimamente que foi preterido na ordem de prioridade das filas, ordem esta regulamentada pela Resolução 2.156/2016' do Conselho Federal de Medicina, ônus que lhe competia enquanto fato constitutivo do, direito (CPC/20 15, art. 373 1), não há falar em intervenção do Judiciário nas políticas públicas de saúde, sobretudo porque o magistrado não detém conhecimentos técnicos para aferir situações de urgências médicas. (...)”
+
+    Ademais, conforme registrado em juízo de retratação, o Tribunal de origem asseverou que o caso em exame não se amoldava ao entendimento firmado no Tema 6 da sistemática de repercussão geral, por se tratar de pleito à vaga em UTI.
+
+    No ponto, verifico que eventual divergência em relação ao entendimento adotado pelo juízo de origem demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. MATÉRIA CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. INADMISSIBILIDADE. ENUNCIADOS N. 282 E 356 DA SÚMULA DO SUPREMO. TRANSFERÊNCIA PARA LEITO DE UTI DA REDE PÚBLICA HOSPITALAR. DETERMINAÇÃO JUDICIAL. OMISSÃO DO PODER PÚBLICO. TRATAMENTO EM HOSPITAL PRIVADO. DESPESAS. CUSTEIO. RESPONSABILIDADE DO PODER PÚBLICO. REEXAME DE FATOS E PROVAS. INADEQUAÇÃO. VERBETE N. 279 DA SÚMULA DO SUPREMO. 1. Não cabe recurso extraordinário quando a matéria constitucional articulada não foi debatida na origem, ante a ausência do necessário prequestionamento. Incidência dos enunciados n. 282 e 356 da Súmula do Supremo. 2. Dissentir da conclusão alcançada pelo Colegiado de origem – quanto à configuração da responsabilidade do Estado pelo custeio das despesas hospitalares em instituição privada ante omissão no atendimento de ordem judicial de transferência para UTI da rede pública – demandaria revolvimento de elementos fático-probatórios. Incidência do enunciado n. 279 da Súmula do Supremo. 3. Agravo interno desprovido.” (RE 1.432.504 AgR, Rel. Nunes Marques, Segunda Turma, DJe 21.08.2024)(grifei)
+
+    “DIREITO ADMINISTRATIVO. DIREITO À SAÚDE. NECESSIDADE DE INTERNAÇÃO EM LEITO DE UTI. VERIFICAÇÃO DOS REQUISITOS PARA PAGAMENTO DAS DESPESAS PELA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. OFENSA REFLEXA NÃO VIABILIZA O APELO EXTREMO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, bem como o revolvimento do quadro fático delineado, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 4. Agravo interno conhecido e não provido.” (ARE 1.427.579 AgR, Rel. Rosa Weber (Presidente), Tribunal Pleno, DJe 17.08.2023). (grifei).
+
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, b, do CPC e art. 21, §1º, RISTF.
+
+    Publique-se. Intime-se.
+
+    Brasília, 6 de março de 2025
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
