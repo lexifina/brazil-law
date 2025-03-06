@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de BRUNO DA SILVA MITTMANN, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos da Apelação Criminal n. 5103556-31.2024.8.21.0001.
+O Paciente foi condenado à pena de 6 (seis) anos de reclusão, em regime inicial semiaberto, em razão da prática dos delitos capitulados no art. 16, § 1º, IV, e no art. 14, caput, da Lei n. 10.826/2003, e no art. 180, caput, do CP, na forma do art. 69, caput, do CP.
+A impetrante alega afronta às garantias previstas no art. 5º, XI, da CF, artigos 386, II, e 244, do CPP, bem como ao entendimento firmado pelo Superior Tribunal de Justiça, sustentando que a materialidade do delito foi consubstanciada por meio ilícito, qual seja, violação de domicílio sem prévia ordem judicial. Requer, liminarmente e no mérito, o reconhecimento da nulidade da prova obtida e a consequente absolvição do paciente.
+O pedido liminar foi indeferido às fls. 547-548.
+Informações prestadas às fls. 555-581.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus às fls. 587-588.
+É o relatório.
+DECIDO.
+Inicialmente, verifica-se que o presente habeas corpus foi impetrado em substituição ao recurso cabível, motivo pelo qual não deveria ser conhecido, em consonância com a jurisprudência consolidada desta Corte e do Supremo Tribunal Federal.
+Contudo, em razão da relevância da matéria trazida à discussão, relacionada à potencial violação de domicílio, examino o mérito da pretensão sob o prisma da eventual ocorrência de constrangimento ilegal passível de ser sanado pela concessão de habeas corpus de ofício.
+Na espécie, a controvérsia cinge-se à legalidade da apreensão das armas de fogo na posse do Paciente, que teria ocorrido, conforme alega a impetrante, em contexto de violação de domicílio.
+Extrai-se do acórdão impugnado, especificamente do voto condutor, que o Tribunal de origem rejeitou a tese defensiva de nulidade da prova, consignando que (fl. 13):
+Conforme narrativa desenvolvida pelos policiais em juízo, ratificando os informes colhidos na seara administrativa, tenho que a abordagem foi efetuada adequadamente. Observa-se que os agentes receberam informações de que havia indivíduos armados na região amedrontando os moradores. Em averiguação no local indicado, o vizinho contatou a guarnição indicando que havia alguém escondido nos fundos do pátio. Ato contínuo, dirigiram-se ao local referido, que parceria "residência abandonada" e já utilizada para o tráfico, e visualizaram o acusado saindo do imóvel, ocasião em que ele se assustou ao perceber a guarnição e efetuaram a abordagem. Em revista pessoal, apreenderam a pistola na cintura do acusado, e nos bolsos o revólver e o carregador sobressalente.
+O Tribunal a quo assentou ainda que (fl. 13):
+Ou seja, os policiais efetuaram a abordagem sem que fosse necessário ingressar no imóvel, ademais, sequer restou comprovado que esse se tratava de moradia do acusado ou de terceiros, e, inclusive, segundo o PM Vinícius, se tratava de local abandonado, possivelmente utilizado como ponto para o tráfico e/ou uso de entorpecentes, não abrangido pela inviolabilidade domiciliar.
+Com efeito, o delineamento fático estabelecido pelas instâncias ordinárias revela que não houve violação de domicílio. A abordagem do paciente ocorreu quando ele estava saindo do imóvel, em espaço público, sendo localizado em sua posse os armamentos. Ademais, como bem destacado pelo acórdão recorrido, não se tratava de residência habitada, mas de local abandonado supostamente utilizado para práticas ilícitas.
+A jurisprudência desta Corte é firme no sentido de que local abandonado não é contemplado pela proteção constitucional da inviolabilidade de domicílio. Nesse sentido: HC n. 932.817/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024; HC n. 860.929/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024.
+Destaque-se, ainda, que o contexto fático anterior à abordagem  denúncias prévias de indivíduos armados na localidade, indicação do morador da região de que o indivíduo estava se ocultando no local, e o espanto do acusado ao visualizar a guarnição policial  permitiu a conclusão acerca da ocorrência de crime, justificando a abordagem imediata pelos agentes públicos.
+Desse modo, verifico que a conclusão do Tribunal a quo, no sentido de que não houve ilicitude na obtenção das provas, encontra-se em consonância com a jurisprudência desta Corte.
+Ademais, a alteração do contexto fático-probatório estabelecido pelas instâncias ordinárias demandaria inevitável revolvimento do acervo probatório, procedimento incompatível com a via estreita do habeas corpus.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
