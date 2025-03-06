@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (e-STJ fl. 170):
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL. ENCERRAMENTO DA FALÊNCIA. AUSÊNCIA DE BENS. REDIRECIONAMENTO DA EXECUÇÃO. SÓCIOS. AUSÊNCIA DE COMPROVAÇÃO.
+1. Inexiste nos autos qualquer indício que pudesse evidenciar a ocorrência das circunstâncias previstas no art. 135, III, do CTN aptas a ensejar o redirecionamento da execução aos sócios, tal como a dissolução irregular da sociedade, devendo ser ressaltado que a falência é hipótese legal e regular de dissolução.
+2. A massa falida responde pelas obrigações da empresa executada até o encerramento da falência, sendo autorizado o redirecionamento da execução fiscal aos administradores somente em caso de comprovação da sua responsabilidade subjetiva, incumbindo ao Fisco a prova de gestão praticada com dolo ou culpa, o que não ocorreu no presente caso.
+3. A insuficiência de bens para garantia da execução fiscal não autoriza a suspensão da execução, a fim de que se realize diligência no sentido de se verificar a existência de codevedores do débito fiscal, que implicaria em apurar a responsabilidade dos sócios da empresa extinta (art. 135 do CTN), revelando hipótese não abrangida pelos termos do art. 40 da Lei nº 6.830/80.
+4. Agravo de instrumento desprovido.
+Após provimento ao recurso especial, fls. 222/223, o qual determinou uma nova apreciação da matéria articulada nos aclaratórios, a Corte a quo proferiou novo julgamento, com a seguinte ementa (fl. 259):
+TRIBUTÁRIO E PROCESSUAL CIVIL. RETORNO DOS AUTOS POR DETERMINAÇÃO DO STJ PARA REJULGAMENTO DOS EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. REDIRECIONAMENTO DA EXECUÇÃO. SÓCIOS. AUSÊNCIA DE COMPROVAÇÃO. PRESCRIÇÃO PARA O REDIRECIONAMENTO DA EXECUÇÃO. ANÁLISE PREJUDICADA.
+1. Os presentes autos retornaram a este órgão julgador originário, por força de decisão, da lavra do Ministro Benedito Gonçalves, do Superior Tribunal de Justiça, que deu provimento ao recurso especial interposto pela agravante, para, anulando o acórdão proferido em sede de embargos de declaração, determinar o rejulgamento dos embargos, para que fossem apreciadas as questões articuladas nos aclaratórios, quais sejam: "(i) impossibilidade de proferir decisão além dos limites propostos pelo recorrente, incidindo em julgamento extra ou ultra petita, tendo em vista que o pedido da agravante se limitou à questão da prescrição do pedido de redirecionamento da execução fiscal. Por outro lado, o acórdão está fundamentado em questão diversa, qual seja, que houve a dissolução regular da empresa; e (ii) conforme reconhecido, o processo de falência foi extinto sem resolução do mérito. Nesta toada, a Executada não é falida. Destarte, não havendo que se falar em extinção da sociedade empresária em decorrência da falência."
+2. A verificação da existência ou não de dissolução irregular da sociedade é prejudicial à análise da prescrição para o redirecionamento da execução fiscal, devendo aquela ser apreciada em primeiro lugar. Ademais, o agravado alegou, em contrarrazões, que a sociedade executada sofreu processo regular de falência e que não se poderia cogitar de dissolução irregular.
+3. Não há que se falar em julgamento extra ou ultra petita, a justificar a análise da prescrição para o redirecionamento da execução fiscal, visto que não restou comprovada a ocorrência da dissolução irregular da sociedade.
+4. Isso porque, a despeito de as duas ações de falências, ajuizadas em face da agravada, terem seus processos julgados extintos, sem resolução do mérito, por ausência de condições da ação, no ano de 2009, verifica-se a tramitação de uma outra ação de falência, que teve a quebra decretada no ano de 1982, com o seu encerramento declarado em 13/04/2016.
+5. Dessa forma, à época do redirecionamento da execução fiscal, o encerramento da falência já havia sido declarado pelo juízo da 5ª. Vara Empresarial do Rio de Janeiro.
+6. Ressalte-se que a falência é hipótese legal e regular de dissolução da sociedade, sendo certo que não restou comprovada qualquer das circunstâncias previstas no art. 135, III, do CTN.
+7. A massa falida responde pelas obrigações da empresa executada até o encerramento da falência, sendo autorizado o redirecionamento da execução fiscal aos administradores somente em caso de comprovação da sua responsabilidade subjetiva, incumbindo ao Fisco a prova de gestão praticada com dolo ou culpa, o que não ocorreu no presente caso.
+8. Diante a inexistência de dissolução irregular, resta prejudicada a análise da prescrição para o redirecionamento da execução fiscal.
+9. Embargos de declaração parcialmente providos, sem alteração da conclusão.
+O recorrente sustenta ofensa aos artigos 141, 492, 1013, do CPC/15, e 1.044 do CC/02, sob os seguintes argumentos:
+(a) Ocorrência de julgamento extra petita; e
+(b) não ocorrência de dissolução regular da sociedade.
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 279.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Observa-se que o Tribunal de Origem, no julgamentos dos aclaratórios, às fls. 255/260, resolveu a controvérsia nos seguintes termos:
+"Cabe destacar, inicialmente, que a verificação da existência ou não de dissolução irregular da sociedade é prejudicial à análise da prescrição para o redirecionamento da execução fiscal, devendo aquela ser apreciada em primeiro lugar.
+Ademais, o agravado alegou, em contrarrazões, que a sociedade executada sofreu processo regular de falência e que não se poderia cogitar de dissolução irregular.
+Não há que se falar em julgamento extra ou ultra petita, a justificar a análise da prescrição para o redirecionamento da execução fiscal, visto que não restou comprovada a ocorrência da dissolução irregular da sociedade.
+Isso porque, a despeito de as duas ações de falências (processos nº 1982.001.504006-4 e nº 1982.001.504004-0), ajuizadas em face da agravada, terem seus processos julgados extintos, sem resolução do mérito, por ausência de condições da ação, no ano de 2009 (evento 147, fls. 54/59 do pdf, dos autos da execução fiscal), verifica-se a tramitação de outra ação de falência (Processo nº 0009841-47.1982.8.19.0001 - número antigo 1982.001.503510-0), distribuída na 5ª. Vara Empresarial do Rio de Janeiro, que teve a quebra decretada no ano de 1982, com o seu encerramento declarado em 13/04/2016, conforme consulta ao site do Tribunal de Justiça do Estado do RJ.
+Logo, à época do redirecionamento da execução fiscal, conforme petição datada de 14/06/2016 (evento 147, fls. 63/66 do pdf, dos autos do feito executivo), o encerramento da falência já havia sido declarado pelo juízo da 5ª. Vara Empresarial do Rio de Janeiro.
+Ressalte-se que a falência é hipótese legal e regular de dissolução da sociedade, sendo certo que não restou comprovada qualquer das circunstâncias previstas no art. 135, III, do CTN.
+ ..
+Dessa forma, ante a inexistência de dissolução irregular, resta prejudicada a análise da prescrição para o redirecionamento da execução fiscal." (grifo meu)
+Ocorre que a parte recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula n. 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
