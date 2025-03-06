@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se  de  agravo  contra  decisão  que  negou  seguimento  a  recurso  especial  interposto  em  face  de  acórdão  assim  ementado  (fl.  403):
+
+APELAÇÕES - AÇÃO DE IMISSÃO NA POSSE - IMPUGNAÇÃO À GRATUIDADE DA JUSTIÇA CONCEDIDA À RÉ - CAPACIDADE FINANCEIRA DELA NÃO DEMONSTRADA - BENEFÍCIO CONCEDIDO - ILEGITIMIDADE ATIVA - TEORIA DA ASSERÇÃO - DESOCUPAÇÃO DO IMÓVEL - PRAZO AJUSTADO ENTRE AS PARTES ULTRAPASSADO - ALUGUÉIS DEVIDOS - PAGAMENTO DE ALUGUEL PELA AUTORA PARA RESIDIR EM OUTRO IMÓVEL - NÃO COMPROVAÇÃO - RESSARCIMENTO NÃO DEVIDO - DÉBITOS CONDOMINIAIS EM ABERTO - DEVER DE PAGAMENTO PELA RÉ ENQUANTO OCUPAVA O IMÓVEL - DANO MORAL - NÃO COMPROVAÇÃO - DEVER DE REPARAÇÃO AFASTADO - LITIGÂNCIA DE MÁ-FÉ - ART. 80 DO CPC - NÃO PREENCHIMENTO DAS HIPÓTESES. Não demonstrada pela autora a capacidade financeira da ré, ônus que lhe competia, deve ser mantida a gratuidade da justiça concedida a esta. O Código de Processo Civil adotou a teoria da asserção, segundo a qual a análise da legitimidade da parte realiza-se em abstrato, conforme os fatos narrados na petição inicial. Ultrapassado o prazo ajustado entre as partes sem que o bem fosse desocupado, é obrigada ao pagamento de aluguel como forma de ressarcimento da parte autora pela privação do uso do seu imóvel. Não comprado o pagamento de aluguel pela autora para residir em outro imóvel em razão da ocupação do imóvel por ela adquirido, pela ré, inviável a condenação desta ao ressarcimento a esse título. Cabível a condenação da ré ao pagamento dos débitos condominiais em aberto referentes ao período em que ela ocupava o imóvel. Não comprovado o dano moral sofrido pela autora em razão na demora da devolução do imóvel por ela adquirido, pela ré, deve ser mantida a sentença de improcedência do pedido inicial de condenação da ré a reparação a esse título. A má-fé processual não se presume, exigindo-se prova de sua ocorrência.
+
+Opostos  embargos  de  declaração,  foram  rejeitados.
+Nas  razões  do  recurso  especial,  a  parte  agravante  aponta  violação  dos  arts.  7º, 9º e 10, 141, 320, 435, 492 e 966, VIII, § 1º, todos  do  Código  de Processo Civil; além de dissídio jurisprudencial.
+Sustenta  a nulidade do feito por julgamento extra petita, em razão do deferimento de pedido alheio à matéria discutida nos autos, qual seja, o ressarcimento dos débitos condominiais.
+Aduz  que houve cerceamento de defesa, violação do princípio da não surpresa e da regra do ônus probatório, bem como defende que  a juntada tardia de documentos somente pode ocorrer quando se tratar de documento novo, o que, definitivamente, não se aplica ao caso dos autos.
+Por fim, afirma que houve erro de fato, de modo que o acórdão recorrido, ao deferir o pagamento de débitos condominiais, desconsidera a extemporaneidade dos documentos e o cerceamento de defesa decorrente da ausência de manifestação da parte ré.
+Contrarrazões  apresentadas.
+O  recurso  não  foi  admitido  na  origem,  nos  termos  da  decisão  de  fls.  515-517.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Na  origem,  cuida-se  de  ação de imissão na posse,  em que a parte autora visa à consolidação da posse no imóvel objeto do litígio, adquirido em leilão judicial, até então ocupado pela ré. Além disso, pleiteia o pagamento dos alugueis referentes ao período em que ocorrida a ocupação indevida do bem. A  sentença  em  primeira  instância  julgou  parcialmente procedentes os pedidos.
+Em  sede  de  apelação,  o  Tribunal  de  origem  deu parcial provimento ao recurso da autora e negou  provimento  ao  recurso  da parte ré.
+Com efeito, na parte que interessa, confira-se o seguinte trecho do acórdão (fl.  413):
+Já no que se refere ao condomínio do imóvel discutido, há prova suficiente nos autos de débito em aberto no período correspondente a ocupação do bem pela ré (ordens 71/72). Assim sendo, considerando que o imóvel era ocupado pela ré, e não pela autora e, ainda, que somente após imitir-se na posse do imóvel que cabe à autora o pagamento da parcela, cabível a condenação da ré ao pagamento dos débitos condominiais incidentes sobre o imóvel até a data de sua desocupação (08/07/2022), com base nos documentos de ordens 71/72.
+Em sede de embargos de declaração, a Corte local asseverou que (fls. 457-458):
+Na peça exordial, a autora, ora embargada, afirmou que a ré utilizou-se do imóvel discutido de forma indevida, sem pagar alugueis e condomínio. Pugnou, ao final, pela condenação da ré ao pagamento de taxa de ocupação do imóvel discutido.
+Tem-se, no entanto, que ao invés de condenar a parte ré ao pagamento de uma taxa de ocupação, de forma genérica, houve sua condenação ao pagamento de aluguel, cujo valor será apurado em liquidação de sentença, além de condomínio.
+Aplica-se, no caso, o disposto no art. 322, §2º, do CPC, segundo o qual "a interpretação do pedido considerará o conjunto da postulação e observará o princípio da boa-fé".
+(..)
+Ressalta-se, ainda, caber ao magistrado aplicar o direito aos fatos trazidos pelas partes no processo.
+Não houve alegação anterior, pela ora embargante, da extemporaneidade dos documentos de ordens 71/72, tratando-se de matéria trazida apenas no presente recurso, via inadequada para tanto.
+Oportuno mencionar que, em hipóteses excepcionais, é permitida a juntada extemporânea de documentação relevante para a formação do livre convencimento motivado do magistrado, desde que não haja má-fé na juntada e que seja observado o princípio do contraditório.
+Não há, no caso, julgamento com base em erro de fato, mas sim em desconformidade com a pretensão da parte ora embargante.
+No  caso,  nota-se  que,  para  afastar  as  conclusões  contidas  no  acórdão  recorrido  quanto  às questões alegadas no presente recurso,  seria  imprescindível  nova  análise  do  conjunto  fático-probatório  dos  autos,  providência  que  esbarra  no  óbice  da  Súmula  7  desta  Corte.
+Cumpre registrar, por fim, que os recursos interpostos com fundamento no art. 105, III, alínea "c", da Constituição Federal atraem, regularmente, a incidência da Súmula 7/STJ, quando necessário examinar o contexto fático-probatório dos autos.
+Em  face  do  exposto,  nego  provimento  ao  agravo  em  recurso  especial.
+Nos  termos  do  art.  85,  §  11,  do  CPC/15,  majoro  em  10%  (dez  por  cento)  a  quantia  já  arbitrada  a  título  de  honorários  em  favor  da  parte  recorrida,  observados  os  limites  estabelecidos  nos  §§  2º  e  3º  do  mesmo  artigo,  ônus  suspensos  no  caso  de  beneficiário  da  Justiça  gratuita.
+Intimem-se.
+EMENTA
