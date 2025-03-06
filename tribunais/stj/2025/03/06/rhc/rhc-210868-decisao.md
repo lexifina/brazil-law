@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado em favor de UEVITON JUNIO RAMOS DOS SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.25.001249-9/000).
+Extrai-se dos autos que o recorrente foi condenado pela prática dos crimes previstos nos arts. 329 do Código Penal, 33, §4º, da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003, à pena de 02 (dois) anos e 06 (seis) meses de reclusão, 1 (um) ano e 2 (dois) meses de detenção e 260 (duzentos e sessenta) dias-multa, em regime inicial semiaberto.
+Neste recurso, a Defesa sustenta que a manutenção da prisão preventiva é incompatível com o regime semiaberto fixado na sentença condenatória.
+Argumenta, ainda, que a manutenção da segregação cautelar do apenado não está amparada em fundamentos concretos.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva a fim de que o recorrente possa aguardar em liberdade o trânsito em julgado da ação penal.
+Indeferida a liminar às fls. 466/468.
+Informações acostadas aos autos às fls. 474/479.
+Parecer ministerial opinando pelo improvimento do recurso (fls. 485/487).
+É o relatório.
+DECIDO.
+O recurso não deve ser provido.
+No caso, o Juízo de primeiro grau, ao manter a prisão preventiva do recorrente, ressaltou o seguinte (fls. 214/229; grifamos):
+Mantenho a prisão preventiva decretada, porquanto permanecem os fundamentos que a ensejaram (ID 10314109029 - pp. 12-14), que ora reitero, considerando a gravidade do caso em questão e a necessidade de garantir a ordem pública, uma vez o crime foi praticado mediante violência contra os policiais militares, o que atrai maior gravidade à ação, aliado à guarda de entorpecentes de naturezas diversas (crack e maconha), além de arma de fogo, circunstâncias que, em conjunto, refletem periculosidade intensa, com insensibilidade ao cumprimento da lei.
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar com a recomendação de adequação da custódia ao regime fixado na sentença (fls. 285/299; grifamos):
+No caso sub judice, verifico que, diante dos argumentos expostos alhures, não resta dúvida quanto à existência de fundamentação idônea exarada no trecho da sentença em apreço, ainda que contrária à pretensão da parte impetrante, haja vista que o decreto de prisão preventiva se encontra devidamente fundamentado no fato de que "o crime foi praticado mediante violência contra os policiais militares, o que atrai maior gravidade à ação, aliada à guarda de entorpecentes de naturezas diversas (crack e maconha), além de arma de fogo".
+Ademais, o Juiz de primeiro grau deixou devidamente consignado que o quadro fático que deu ensejo à prisão do acusado se mantém inalterado, motivo pelo qual ratificou a decisão que decretou a prisão preventiva do paciente, pelos seus próprios fundamentos.
+Sendo assim, ainda que a prisão preventiva seja uma medida acautelatória a ser utilizada como última hipótese, certo é que em casos excepcionais, como o dos autos, a ordem pública e a garantia da aplicação da lei penal, deve prevalecer sobre a liberdade individual.
+(..)
+Imperioso destacar que não há incompatibilidade da manutenção da prisão preventiva no caso de réu condenado a pena a ser cumprida em regime diverso do fechado, devendo ser observada pelo magistrado, tão somente, a adequação da segregação provisória ao regime fixado na sentença condenatória.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada a partir da ação violenta em detrimento de policiais militares e dos demais delitos perpetrados no mesmo contexto.
+Inicialmente, calha salientar que o STJ já decidiu que "a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses nas quais o acusado permaneceu preso durante toda a instrução criminal, como ocorre na espécie, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, §1º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma, como no caso concreto" (AgRg no HC 821.102/TO, C Turma, DJe de 13/6/2023).
+Ademais, sabe-se que não há incompatibilidade entre a prisão preventiva e o regime de cumprimento de pena semiaberto, não se podendo inferir interpretação contrária dos termos do disposto no § 1º do art. 387 do CPP. Sendo assim, a manutenção da custódia não está obrigatoriamente atrelada ao regime fixado pelo magistrado, mas sim à subsistência dos motivos que ensejaram a decretação da prisão.
+No caso, como bem ressaltado pelo agente ministerial "o juízo quanto à preventiva mostra-se coerente com outros tópicos da sentença, a exemplo da dosimetria da pena. E se a preventiva pode se mostrar faticamente mais severa que as condições do regime prisional inicial semiaberto, cumpre à defesa pedir pela imediata colocação do réu em estabelecimento prisional adequado ao semiaberto", o que inclusive já ocorreu no caso em tela, segundo as informações prestadas e diante da recomendação exarada no acórdão do Tribunal de origem.
+Desse modo, não havendo que se falar em ilegalidade manifesta e tendo sido concretamente demonstrada a necessidade da manutenção da prisão nos autos, não se mostra possível a revogação da custódia, principalmente por já ter ocorrido a adequação do estabelecimento prisional ao regime de pena fixado para o recorrente.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
