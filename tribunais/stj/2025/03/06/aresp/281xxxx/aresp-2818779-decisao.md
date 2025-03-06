@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se  de  agravo  manifestado  contra  decisão  que  negou  seguimento  a  recurso  especial  interposto  em  face  de  acórdão  com  a  seguinte  ementa:
+AGRAVO  DE  INSTRUMENTO.  Execução  por  quantia  certa  contra  devedor  solvente  (verba  honorária  sucumbencial).  Magistrado  que  rejeitou  a  exceção  de  pré-executividade  ofertada  pela  executada/agravante.  Razoabilidade.  Decisão  que  determinou  a  penhora  de  15%  dos  proventos  oriundos  da  aposentadoria  da  executada,  ora  agravante  que  restou  preclusa.  Prescrição  intercorrente.  Inocorrência.  Inexistência  de  desídia  do  agravado.  Lapso  transcorrido  que  não  ultrapassou  05  anos.  Inteligência  do  art.  206,  parágrafo  5º,  inciso  I,  do  Código  Civil.  Decisão  mantida.  Precedentes.  Recurso  improvido  na  parte  em  que  conhecido.
+Alegou-se,  no  especial,  violação  dos  artigos  833,  IV,  e  921,  §  1º,  do  Código  de  Processo  Civil  sob  os  argumentos  de  que,  por  ser  excepcional,  a  penhora  de  proventos  ou  salários  somente  pode  ser  deferida  caso  não  comprometa  a  subsistência  do  devedor e de  que  já  transcorreu  o  prazo  da  prescrição  intercorrente.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Quanto  à  penhora,  a  questão  está  preclusa.
+Leia-se:
+"De  outro  lado,  não  cabe  mais  qualquer  discussão  a  respeito  da  penhora  de  15%  dos  rendimentos  líquidos  da  executada/agravante,  tendo  em  vista  que  a  decisão  é  aquela  digitalizada  às  fls.  731  (dos  autos  principais),  publicada  no  D  Je  de  31.10.2023  (fls.  733),  contra  a  qual  não  houve  recurso  no  tempo  e  modo  devidos,  portanto  preclusa,  razão  pela  qual  não  conheço  do  recurso  nessa  parte"  (e-STJ,  fl.  98).
+O  referido  fundamento  deixou,  todavia,  de  ser  impugnado  pela  parte,  o  que  atrai  as  disposições  do  verbete  n.  283  da  Súmula  desta  Corte.
+No  que  toca  à  prescrição  intercorrente,  concluiu-se  que  "não  se  observa  paralisação  injustificada  do  processo  executivo,  por  omissão  da  parte  exequente.  Ao  revés,  a  alegação  de  desídia  por  parte  da  agravante,  não  se  coaduna  com  os  atos  processuais  praticados  pela  parte  exequente"  (e-STJ,  fl.  99).
+O  entendimento  está  de  acordo  com  a  jurisprudência  desta  Casa,  que  exige,  para  a  configuração  da  prescrição,  o  decurso  do  prazo  e  a  inércia  do  credor.
+A  saber:
+CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  DA  PRESIDÊNCIA.  RECONSIDERAÇÃO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  EXECUÇÃO  POR  QUANTIA  CERTA.  PRESCRIÇÃO  INTERCORRENTE.  NÃO  OCORRÊNCIA  DE  DESÍDIA  POR  PARTE  DO  EXEQUENTE.  SÚMULA  83/STJ.  REEXAME  FÁTICO  DOS  AUTOS.  SÚMULA  7/STJ.  AGRAVO  INTERNO  PROVIDO  PARA  CONHECER  DO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  ESPECIAL  DESPROVIDO.
+1.  Decisão  agravada  reconsiderada,  uma  vez  que  ficou  demonstrado  que  houve  a  impugnação  específica  dos  fundamentos  da  decisão  de  inadmissibilidade  do  recurso  especial.
+2.  Não  há  que  se  falar  em  ofensa  ao  art.  1.022  do  CPC  quando  o  Tribunal  de  origem  aprecia,  com  clareza,  objetividade  e  de  forma  motivada,  as  questões  que  delimitaram  a  controvérsia,  ainda  que  não  acolha  a  tese  da  insurgente.
+3.  A  Corte  local  foi  clara  ao  afirmar  que:  a)  "o  reconhecimento  da  prescrição  está  relacionado  à  desídia  da  exequente  na  busca  do  crédito  (transcurso  do  tempo  e  inércia),  o  que  inexiste  no  caso,  pois  o  credor  se  mostrou  diligente  nos  atos  indispensáveis  à  movimentação  processual,  não  deixando  o  processo  parado  injustificadamente  por  mais  de  03  anos";  b)  "inviável  presumir  que  o  credor  tenha  dado  como  quitada  a  dívida  da  embargante  como  pretendido".
+4.  Esta  Corte  Superior  possui  entendimento  jurisprudencial  de  que  a  prescrição  intercorrente  da  pretensão  executiva  pressupõe  inércia  injustificada  do  credor.  Incidência  da  Súmula  83/STJ.
+5.  A  pretensão  recursal,  com  o  escopo  de  alterar  as  conclusões  do  acórdão  recorrido,  para  o  fim  de  demonstrar  a  inércia  injustificada  por  parte  do  credor,  demandaria  o  reexame  de  fatos  e  provas,  situação  vedada  na  via  estreita  do  recurso  especial,  ante  o  óbice  da  Súmula  7/STJ.
+6.  Agravo  interno  provido  para  conhecer  do  agravo  e  negar  provimento  ao  recurso  especial.
+(AgInt  no  AREsp  n.  2.715.732/RS,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  16/12/2024,  DJEN  de  20/12/2024.)
+Inafastável,  assim,  a  incidência  do  verbete  n.  83  da  Súmula  desta  Casa.
+Em  face  do  exposto,  nego  provimento  ao  agravo  em  recurso  especial.
+Intimem-se.
+EMENTA
