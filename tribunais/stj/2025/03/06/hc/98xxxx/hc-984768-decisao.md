@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de CLAUDIO JOSE PERES DA SILVA JUNIOR - condenado como incurso nos crimes de roubo majorado e lesão corporal leve (Ação Penal n. 0933565-19.2023.8.19.0001) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, não comporta processamento.
+Com efeito, busca a impetração o reconhecimento da incompetência da Justiça estadual para processar e julgar o paciente, ao argumento de que o crime de lesão corporal foi praticado contra policial rodoviário federal, a atrair a Súmula 147 deste Superior Tribunal.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o Tribunal consignou que, como se vê da Denúncia, os agentes da polícia rodoviária federal não estavam no local no exercício de sua função precípua. Os Agentes foram prestar auxílio a seu colega de farda que, por sua vez, foi buscar sua prima, uma das vítimas de roubo que, no caminho até a delegacia, identificou o grupo que a abordou, dentre eles, o réu. A abordagem ao réu contou, ainda, com o apoio dos funcionários do BRT, tendo havido resistência do réu que mordeu a mão de um dos policiais rodoviários federais que ali estavam prestando auxílio a seu colega de farda (fl. 18).
+Assim, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO E LESÃO CORPORAL LEVE. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. INCOMPETÊNCIA DO JUÍZO ESTADUAL. DELITO PRATICADO CONTRA POLICIAL RODOVIÁRIO FEDERAL QUE NÃO ESTARIA NO EXERCÍCIO DE SUAS FUNÇÕES. ALCANÇAR CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
