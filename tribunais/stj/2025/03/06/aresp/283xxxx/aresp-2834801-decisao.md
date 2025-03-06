@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto pela ré contra a decisão que:
+A) negou seguimento ao seu recurso especial, " ..  com relação ao artigo 2º, § 2º do Decreto Lei nº 911/69, nos termos do art. 1.030, I, "b", do CPC,  .. ";
+B) não admitiu o recurso especial " ..  quanto à violação à súmula 72,  .. ".
+O recurso especial foi apresentado em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO COM PEDIDO LIMINAR. EFEITO SUSPENSIVO - REQUISITOS - PROBABILIDADE DO DIREITO E PERIGO DE DANO - NÃO ATENDIDOS. PROVA DA CONSTITUIÇÃO EM MORA - NOTIFICAÇÃO EXTRAJUDICIAL ENCAMINHADA AO ENDEREÇO CONSTANTE NO CONTRATO - VALIDADE - TEMA 1132 DO STJ - DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO. Em recentíssimo julgado publicado em 20/10/2023, no Superior Tribunal de Justiça, no Recurso Especial n. 1951888/RS, submetido ao rito dos recursos repetitivos, firmou-se a tese de que "Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros". Para a comprovação da mora do devedor fiduciário, basta o encaminhamento da correspondência ao endereço fornecido no contrato, o que restou comprovado na hipótese dos autos.
+No recurso especial, alega-se que o acórdão recorrido contrariou o artigo 2º do Decreto-Lei 911/1969 porque, ao confirmar a decisão que deferiu a liminar de busca e apreensão, ignorou a invalidade da notificação da mora da devedora. A devedora sustenta que a noticação não atendeu aos requisitos legais, pois deixou de especificar as parcelas vencidas. Afirma que o acórdão recorrido diverge da jurisprudência de outros tribunais.
+Inicialmente, anoto que o agravo interno é o recurso adequado (correto) para impugnar decisão que, com fundamento no artigo 1.030, inciso I, alínea "b", da Lei 13.105/2015 (Código de Processo Civil - CPC/2015), nega seguimento a recurso especial. Nessa linha de entendimento:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL COM FUNDAMENTO NO ARTIGO 1.030, I, B, DO CPC DE 2015. CABIMENTO DE AGRAVO INTERNO NOS TERMOS DO ARTIGO 1.030, § 2º, CPC DE 2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ARTIGO 1.042 DO CPC DE 2015. ERRO GROSSEIRO. INAPLICÁVEL O PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o qual prevê no art. 1.030, I, "b", § 2º, do CPC de 2015, que cabe agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão em conformidade com entendimento do STJ em recurso repetitivo.
+2. A parte agravante interpôs agravo em recurso especial previsto no art. 1.042, caput, do CPC de 2015 e não o agravo interno perante o Tribunal local, não sendo admitida, consoante a lei e jurisprudência do STJ, a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.083.826/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 18/08/2017)
+Conforme assinalado na decisão ora agravada, o acórdão recorrido, ao se posicionar sobre a comprovação da mora da devedora, seguiu a orientação firmada no julgamento de recursos especiais repetitivos. Assim, o presente agravo é inadmissível no que tange a esse ponto, porque caracterizada a hipótese de cabimento de agravo interno perante o Tribunal de origem.
+Para além da aplicação desse óbice, registro que o provimento judicial que analisa a concessão de liminar, por possuir caráter precário, passível, portanto, de alteração no curso do processo principal, não é considerado de última instância para efeito de interposição de recurso especial. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL CONTRA ACÓRDÃO QUE DEFERE MEDIDA LIMINAR EM CAUTELAR. IMPOSSIBILIDADE. SÚMULA 735/STF. REQUISITOS. SÚMULA 7/STJ.
+1. O STJ, em sintonia com o disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou não liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Precedentes.
+2. A análise do recurso quanto à ausência dos requisitos da liminar de busca e apreensão também depende de reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.298.258/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/2/2015, DJe de 9/2/2015.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TUTELA DE URGÊNCIA. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO. ART. 919, §1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 735 STF POR ANALOGIA. NÃO ESGOTAMENTO DAS VIAS ORDINÁRIAS. REQUISITOS NÃO PREENCHIDOS. SÚMULA 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento dessa Corte é de que as decisões que concedem ou indeferem liminares, bem como efeito suspensivo a embargos do devedor (cf. STJ, Segunda Turma, RESp n. 1.676.515/DF, Rel. Ministro Herman Benjamin, DJe de 3.8.2021), ainda são passíveis de alteração no curso do processo principal, não podendo, por isso, ser consideradas de única ou última instância a ensejar a interposição dos recursos constitucionais. Precedentes.
+2. Aplicação, por analogia, do óbice da Súmula 735 do STF, no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+3. Tribunal de origem reputou que não houve o preenchimento dos requisitos para tutela de urgência. Ausência da probabilidade do direito invocado.
+4. Rever as conclusões adotadas pelo Tribunal de origem quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame de provas, o que é vedado em razão da incidência da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.130.128/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TUTELA PROVISÓRIA. SENTENÇA SUPERVENIENTE. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. PRECEDENTES. REQUISITOS DA ANTECIPAÇÃO DE TUTELA. SÚMULA N. 735/STF. PRETENSÃO DE REEXAME DA MATÉRIA FÁTICA. SÚMULA N. 7/STJ.
+ .. .
+2. Ademais, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula n. 735 do STF. Precedentes.
+3. Rever a conclusão a respeito do preenchimento dos requisitos da tutela de urgência demandaria revolvimento de fatos e provas, o que encontra óbice na Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.232.728/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+No caso, o agravo de instrumento, não provido pela Corte estadual, desafiou decisão que, em ação de busca e apreensão, concedeu liminarmente a busca e apreensão do bem (veículo automotor).
+O Tribunal local, além de consignar que a notificação foi enviada para o endereço indicado no contrato, sendo o aviso de recebimento " ..  assinado pela pessoa chamada Clenildo.  .. ", assinalou a regularidade da mensagem veiculada na notificação. Veja-se:
+Ainda, apesar da alegação da agravante de que "a notificação não contempla as parcelas vencidas que embasam a ação (janeiro a março de 2024), resultando na ausência de constituição válida em mora, requisito indispensável para a busca e apreensão", visualiza- se que a notificação extrajudicial informa que "não acusamos recebimento da parcela com vencimento em 10/11/2023 e as demais subsequentes, referentes ao contrato acima referido, ficando V. Sa. constituído em mora, nos termos do art. 2º, parágrafo 2º do Decreto-Lei 911/69, com alteração da Lei 13.043/14." (f. 31).
+Veja-se:
+ ..
+Logo, válida a notificação extrajudicial enviada por carta registrada ao endereço que consta no contrato entabulado entre as partes, razão pela qual não comporta reforma a decisão agravada.
+Nesse quadro, entendo que o recurso especial esbarra na orientação cristalizada na Súmula 735 do Supremo Tribunal Federal (STF).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
