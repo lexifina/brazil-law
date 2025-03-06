@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela CAIXA ECONÔMICA FEDERAL à decisão monocrática de minha lavra que não conheceu do recurso especial, com a seguinte ementa (fl. 549):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. VÍCIOS DE CONSTRUÇÃO. DEVER DE INDENIZAR. PRETENSÃO DE RECONHECIMENTO DA ILEGITIMIDADE PASSIVA DA CAIXA SEGURADORA S/A. ALEGAÇÃO DE AUSÊNCIA DE COBERTURA CONTRATUAL PARA VÍCIOS DE CONSTRUÇÃO. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS N. 5 E 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A embargante sustenta ocorrência de omissão e erro material na decisão embargada, aduzindo, em suma, que (fls. 557-558):
+Trata-se de ação movida por mutuária do SFH para fins de cobertura securitária por invalidez permanente. O Tribunal a quo, decidindo pela legitimidade da Caixa para figurar no polo passivo da demanda, laborou em equívoco ao considerar a a apólice pública do SH RAMO 66 quando na verdade restou demonstrado que se trata de apólice privada RAMO 68.
+O equívoco foi denunciado em embargos de declaração, com repetição destes na origem, sendo inacolhidos com imposição de multa. A matéria de nulidade por ofensa aos arts. 535 e 538, parágrafo único, do CPC/73 é o objeto do recurso especial, precedente ao mérito.
+ ..
+A r. decisão embargada, fulcrando-se na definição do tema 1011/STF, determinou a devolução do autos ao Tribunal de origem para o reexame previsto no art. 1.040/CPC.
+ ..
+Com as considerações supra, requer o provimento dos embargos de declaração para, suprindo a omissão ou corrigindo o erro material, decidir em primeiro plano sobre a natureza da apólice de seguro e/ou nulidade dos acórdãos recorrido para, somente depois determinar o retorno dos autos ao Tribunal de origem para reexame à luz do Tema 1011/STF.
+Requer, ao final, o acolhimento dos presentes embargos.
+Sem impugnação (fl. 565).
+É o relatório.
+Decido.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento da decisão, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+No caso, não procede a alegação de vícios de omissão e erro material no decisum ora impugnado (fls. 594-554) que, de modo coerente e fundamentado, pontuou que:
+a) as razões do recurso especial não desenvolveram tese para demonstrar os motivos pelos quais teria ocorrido violação ao art. 535, inc. II, do CPC/73, atraindo a incidência da Súmula n. 284 do STF;
+b) para modificar a conclusão adotada pela Corte de origem, inclusive no que diz com a natureza da apólice, seria necessário a revisitação de prova presente nos autos, bem como interpretar cláusula constante da relação contratual, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+Com efeito, acerca da natureza da apólice, a Corte de origem expressamente consignou que "até a publicação da Medida Provisória 1.671/98, vedava-se, no âmbito do Sistema Financeiro da Habitação, a contratação de financiamentos-segurados por apólice de mercado, sendo, por isso, obrigatória a cobertura pela apólice pública do SFH" (fl. 330; sem grifos no original).
+E, para alterar o julgado, da forma como pretendida pela parte ora embargante, seria necessário o revolvimento do conjunto fático-probatório dos autos e de cláusulas contratuais.
+Na verdade, há mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados. (EDcl no REsp n. 1.876.549/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/8/2022, DJe de 31/8/2022.)
+De outro lado, deve-se suprir a omissão no julgado quanto à tese de não incidência da multa por oposição de embargos de declaração.
+No ponto, o tribunal regional, ao julgar os segundos embargos de declaração opostos assim se manifestou (fl. 350):
+Inexiste a omissão apontada, sendo os presentes embargos mera reiteração dos anteriormente interpostos, defendendo, a pretexto de erro de fato, que a CEF é parte ilegítima para figurar na relação processual, rediscutindo toda matéria a respeito da natureza da apólice de seguro habitacional do contrato objeto da presente demanda.
+Ocorre que o primeiro acórdão proferido, ao apreciar o recurso de apelação interposto pela ora embargante, já analisou a matéria, significando dizer, então, que a questão da legitimidade da CEF já foi decidida. Se o acórdão embargado, ao lançar a sua compreensão da controvérsia, não foi feliz, deixando de aplicar a melhor solução à espécie, cabe á parte sucumbente, caso não se conforme com a conclusão daquele, interpor, a tempo e modo, o recurso adequado.
+No caso, evidencia-se o emprego nitidamente prótelatório dos embargos de declaração, com o propósito de eternizar desnecessariamente a discussão da questão objeto do recurso, de sorte ser cabível a imposição de multa, nos termos do parágrafo único do art. 538 do CPC, podendo ser elevada em caso de reiteração da conduta.
+Nesse contexto, a revisão da conclusão do acórdão recorrido sobre o caráter meramente protelatório dos embargos de declaração apresentados demandaria o revolvimento do material fático-probatório dos autos, providência vedada no âmbito do recurso especial diante do óbice da Súmula n. 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO POPULAR. CONTRATAÇÃO DE SERVIÇOS ADVOCATÍCIOS. INEXIGIBILIDADE DE LICITAÇÃO. NOTÓRIA ESPECIALIDADE E SINGULARIDADE DO SERVIÇO. ANÁLISE DOS REQUISITOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. EMBARGOS PROTELATÓRIOS. MULTA DO ART. 538 DO CPC/1973. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. HONORÁRIOS DE SUCUMBÊNCIA. REVISÃO. INDEFERIMENTO.
+1.  ..
+4. Modificar a conclusão a que chegou a Corte a quo, acerca da natureza meramente protelatória dos embargos de declaração, demandaria o reexame do acervo fático-probatório dos autos, o que é inviável, em recurso especial, nos termos da Súmula 7/STJ.
+5. Quanto aos ônus de sucumbência, não merece guarida a pretensão do insurgente no sentido de afastá-los ou ver reconhecida a sucumbência recíproca.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.299.168/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/8/2021, DJe de 14/9/2021.)
+ADMINISTRATIVO. IMPROBIDADE. EXISTÊNCIA DO ELEMENTO SUBJETIVO. MATÉRIA FÁTICO-PROBATÓRIA. MULTA. EMBARGOS DE DECLARAÇÃO. PROTELATÓRIOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação de Improbidade Administrativa proposta pelo Município de São João/PR objetivando a condenação do recorrente, por infração aos artigos 10, incisos X, XI, XII e 11, inciso I, da Lei 8.429/1992, por ter efetuado o pagamento de obra de pavimentação de ruas realizada a menor. (fls. 1038-1039 e 1193).
+2.  ..
+4. Quanto à ofensa ao artigo 538, parágrafo único, do CPC, com relação à multa aplicada, por entender o Tribunal a quo que os segundos Embargos de Declaração eram protelatórios, esclareço que modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+5. Agravo Regimental não provido. (AgRg no Ag n. 1.405.036/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/11/2016, DJe de 17/11/2016.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. OBRIGAÇÃO DE NÃO FAZER E INDENIZAÇÃO POR DANOS MORAIS. DETERMINAÇÃO JUDICIAL DE REDUÇÃO DO NÚMERO DE VEÍCULOS DE FROTA DE TRANSPORTE PÚBLICO. DIVULGAÇÃO DE INFORMAÇÃO AOS USUÁRIOS AFETADOS QUE CAUSOU DANO À EMPRESA TAMBÉM PRESTADORA DO SERVIÇO DE TRANSPORTE. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. EMBARGOS DE DECLARAÇÃO CONSIDERADOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. ART. 538 DO CPC.
+1. Ainda que sejam rejeitados os embargos de declaração, se a questão recursal é devidamente enfrentada pelo Tribunal de origem, com emissão de pronunciamento fundamentado, ainda que em sentido contrário à pretensão da recorrente, não há se falar em ofensa ao art. 535 do CPC.
+2. O acolhimento da pretensão recursal a fim de afastar as conclusões do aresto estadual acerca da configuração do dano moral demandaria incontornável incursão no conjunto fático-probatório dos autos, o que esbarra na Súmula n. 7 do STJ.
+3. O exame da suposta ofensa ao art. 538, parágrafo único, do CPC também atrai a incidência da Súmula n. 7 do STJ pois, ao aplicar a multa, o Tribunal a quo reconheceu o intuito manifestamente protelatório dos embargos de declaração, que não buscavam correção de vícios.
+4. Agravo regimental a que se nega provimento. (AgRg no REsp n. 1.262.877/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/3/2016, DJe de 21/3/2016.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. 1. ALEGAÇÃO DE OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. 2. AFASTAMENTO DA MULTA PREVISTA NO ART. 538, PARÁGRAFO ÚNICO, DO CPC. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. 3. RECURSO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo que se falar em ofensa ao art. 535, II, do CPC.
+2. Na hipótese, o Tribunal estadual, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 538, parágrafo único, do CPC, encontra óbice na Súmula 7 desta Corte.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp n. 1.288.725/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/2/2016, DJe de 5/2/2016.)
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração, sem efeitos modificativos, apenas para, sanando a omissão, integrar na decisão de fls. 549-554 a fundamentação supra.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. VÍCIOS DE CONSTRUÇÃO. DEVER DE INDENIZAR. OMISSÃO. MULTA DO ART. 538 DO CPC. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
