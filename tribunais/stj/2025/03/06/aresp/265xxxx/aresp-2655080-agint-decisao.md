@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 130/131, proferida pela Ministra Presidente do STJ, que não conheceu do agravo em recurso especial.
+À vista dos fundamentos expostos nas razões do agravo interno, reconsidero a decisão ora agravada e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Agravo de instrumento. Ação de obrigação de fazer. Plano de saúde. Cumprimento de sentença. Decisão rejeitou a impugnação ofertada, mantendo o valor exequendo.
+Insurgência do executado, sob alegação de necessidade prévia de liquidação do título judicial e excesso de execução.
+Liquidez do título judicial. Condenação do executado ao pagamento de danos materiais e morais, por negativa de cobertura de procedimento cirúrgico de emergência.
+Sentença confirmada em grau recursal. Decisão parcialmente reformada em sede de Agravo interposto em Recurso Especial para limitar o reembolso das despesas aos preços da tabela da operadora de saúde.
+Desnecessária prévia liquidação do título. Meros cálculos aritméticos com base em tabela contratual da própria executada. Obrigação líquida, certa e exigível.
+Excesso de execução. Impugnação apresentada sem acompanhamento dos cálculos que a devedora entende correto. Inteligência do artigo 525, §4º, do CPC. Inviável acolhimento da alegação de excesso por impugnação genérica. Cálculos apresentados sem inclusão da condenação ao reembolso. Decisão mantida.
+Agravo desprovido.
+Em seu recurso especial, a parte agravante sustentou que o acórdão negou provimento ao seu recurso, mantendo a condenação ao pagamento de indenização por danos materiais e morais devido à negativa de cobertura de procedimento cirúrgico de emergência, sob a justificativa de período de carência. Alega que a decisão ofende o artigo 783 do Código de Processo Civil, que exige título líquido, certo e exigível para execução, e o artigo 509 do mesmo diploma legal, que requer liquidação para quantias ilíquidas. Além disso, alega divergência jurisprudencial com o Tribunal de Justiça de Minas Gerais, que entende ser necessária a liquidação da sentença em casos semelhantes.
+O juízo de admissibilidade considerou o recurso especial intempestivo, nos seguintes termos:
+A intimação do V. Acórdão foi disponibilizada no DJe em 04.10.2023, considerando-se a data da publicação o primeiro dia útil subsequente, 05.10.2023. O prazo recursal começou a fluir em 06.10.2023, exaurindo-se em 30.10.2023, em razão do feriado e suspensão do expediente nos dias 12 e 13.10.2023 (Nossa Senhora da Aparecida e Emenda do feriado).
+A petição de recurso foi apresentada, todavia, em 31.10.2023, em desatenção ao disposto no artigo 1.003, §5º, do CPC.
+A esse respeito, oportuno destacar o entendimento do E.
+Superior Tribunal de Justiça no sentido de que é intempestivo o recurso protocolado pela parte em processo diverso: "É responsabilidade da parte observar o correto procedimento para apresentação de recursos e petições perante os tribunais. No caso, é intempestivo o recurso especial juntado aos autos fora do prazo legal, quando equivocadamente foi protocolado pela parte em processo diverso, instância errada, ou mesmo, como petição inicial" (EDcl no AREsp 2.386.882/SP, Relatora Ministra Maria Thereza de Assis Moura, in DJe de 31.08.2023) (fls. 97-98).
+No agravo em recurso especial, a parte sustentou o seguinte:
+Desta forma, cumpre à Recorrente novamente demonstrar que o recurso em questão foi tempestivo, tendo em vista o presente recurso visa atacar o acórdão de fls. 54/59, sendo tal decisão publicada em 05/10/2023.
+Assim, considerando que a publicação ocorreu em 05/10/2023, e iniciando a contagem no prazo no primeiro dia útil subsequente, ou seja, em 06/10/2023, tem-se que o prazo para interposição do Agravo de Instrumento, que é de 15 dias úteis, finalizou em 30/10/2023, considerando a suspensão de prazos no dia 12/10/2023 e 13/10/2023, conforme provimento CSM nº 2.678/2022 do Tribunal de Justiça de São Paulo.
+Dessa forma, é necessário apontar que o recurso foi interposto em 30/10/2023, ou seja, de forma TEMPESTIVA, um dia antes último dia do prazo de 15 dias. A única ocorrência foi que, por um equívoco da parte, o recurso fora protocolado erroneamente, de modo que a Recorrente IMEDIATAMENTE veio aos autos comunicar o ocorrido.
+Logo, conclui-se que o recurso foi interposto de forma TEMPESTIVA, em 30/10/2023, de modo que a mencionada decisão merece reforma (fl. 109).
+Com efeito, não se discute, no caso em exame, a existência da suspensão de prazo nos dias 12 e 13 de outubro de 2023, incontroversa, conforme exposto no próprio juízo de admissibilidade. A controvérsia diz respeito ao dia em que foi protocolada a petição de recurso especial.
+O exame dos autos revela que a petição foi protocolada em 31 de outubro, conforme atesta a marca do documento recebido eletronicamente, aposta à margem direita da petição, assim redigida: "Este documento e documento é cópia do original, assinado digitalmente por PAULO ROBERTO VIGNA e Tribunal de Justiça do Estado de São Paulo, protocolado em 31/10/2023 às 14:11, sob o número WPRO23013994177".
+Não há nos autos nenhum outro documento a indicar que o protocolo teria sido efetuado no dia anterior, o qual - conforme confessa a própria parte agravante - era o último dia do prazo para interpor o recurso especial. Dessa forma, inviável a reforma da decisão de admissibilidade, figurando-se a intempestividade do recurso especial.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
