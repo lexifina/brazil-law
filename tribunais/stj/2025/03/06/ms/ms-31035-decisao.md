@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado contra omissão atribuída à Ministra de Estado da Saúde, em razão da não remoção da parte autora, menor impúbere internada desde o nascimento, para outra unidade de atendimento vinculada ao Sistema Único de Saúde, considerada mais adequada ao tratamento médico exigido por sua peculiar condição de saúde.
+Segundo a vestibular, a autora foi diagnosticada com Síndrome de Berdon, ao nascer, permanecendo internada na Fundação Hospitalar Santo Antônio, Município de Blumenau, e a despeito das diversas solicitações de transferência feita pelos médicos locais, encontra-se na quinta posição da fila de espera, no âmbito do Programa Nacional do Intestino Curto (fl. 3). Afirma enfrentar risco de morte em razão de sucessivas infecções, que sempre demandam procedimentos cirúrgicos.
+Noticia a vestibular, ainda, ter a parte autora ajuizado ação perante a Justiça estadual, julgada improcedente em face do Estado de Santa Catarina, porque o tema de fundo envolveria o Sistema Nacional de Transplantes, mantido pelo Ministério da Saúde. Para além disso, narra ter regredido para a 22ª posição da lista de espera, com total ausência de transparência por parte da Central de Regulação de Transferência.
+Pleiteia, assim, ordem judicial assecuratória de abertura de vaga com a "determinação IMEDIATA de transferência da impetrante para um centro de referência em reabilitação intestinal (Hospital das Clínicas de São Paulo/SP, Hospital Sírio-Libanês/SP ou Hospital de Clínicas de Porto Alegre/RS)" (fl. 14).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Nos termos do art. 105, I, b, da CF, compete a este Superior Tribunal de Justiça, originariamente, processar e julgar "os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Na linha do art. 6º, § 3º, da Lei n. 12.016/2009 e consoante firme orientação jurisprudencial do STJ, "a autoridade coatora, para fins de impetração de mandado de segurança, é aquela que pratica ou ordena, de forma concreta e específica, o ato ilegal, ou, ainda, aquela que detém competência para corrigir a suposta ilegalidade, conforme o art. 6º, § 3º, da Lei 12.016/2009" (AgInt no RMS n. 63.582/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 7/6/2021, DJe de 10/6/2021).
+No caso dos autos, a despeito de a exordial indicar como autoridade coatora a Ministra de Estado da Saúde, inexiste ato ou omissão a ela imputável, o que deixa ver sua ilegitimidade passiva para a causa.
+Nesse exato sentido, apreciando caso fronteiriço, assim decidiu o eminente Ministro Francisco Falcão:
+De início, merece registro que, é competência desta Corte o julgamento de mandado de segurança impetrado contra ato ou omissão de Ministro de Estado, nos termos do art. 105, I, "b", da Constituição Federal.
+De fato, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os Mandados de Segurança impetrados "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Outrossim, nos termos do art. 6º, § 3º da Lei 12.016/09, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+Nesse contexto, ressalta-se que " ..  para fins de impetração de mandado de segurança, a autoridade coatora é aquela que pratica o ato impugnado. A competência da autoridade coatora não decorre da posição hierárquica ou administrativa, mas sim da prática do ato.
+(STJ, RMS 39.739/GO, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 02/03/2016)".
+No caso em questão, nos termos do que delimitada na inicial, a insurgência diz respeito à transferência da menor do hospital em que se encontra internada para o hospital de Brasília, e nada evidencia que decorra de ato praticado, tampouco omissão, atribuída à Ministra de Estado da Saúde.
+Com efeito, apesar de indicar a Ministra de Estado da Saúde como autoridade coatora, a vestibular não aponta qualquer conduta a ela imputável. Em tal hipótese, mostra-se ausente a legitimidade passiva da referida autoridade e, em consectário, a competência deste Tribunal Superior.
+(MS n. 30.426, Ministro Francisco Falcão, DJEN de DJe de 16/8/2024.)
+É caso, assim, de reconhecimento da impertinência subjetiva da autoridade impetrada à lide, com a consequente extinção do feito sem resolução de mérito.
+ANTE O EXPOSTO, reconheço a ilegitimidade passiva da Ministra de Estado da Saúde, pelo que extingo o feito sem resolução de mérito, nos termos do art. 485, VI, do CPC.
+Custas pela parte impetrante, ficando a execução suspensa, conforme o art. 98, § 3º, do CPC.
+Sem honorários advocatícios, nos termos do art. 25 da Lei n. 12.016/2009 e da Súmula n. 105/STJ.
+Intimem-se.
+EMENTA
