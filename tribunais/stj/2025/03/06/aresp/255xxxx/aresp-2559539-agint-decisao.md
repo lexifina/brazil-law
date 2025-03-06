@@ -1,0 +1,105 @@
+DECISÃO
+Trata-se de agravo interno interposto pela COMPANHIA DE ELETRICIDADE DO AMAPÁ CEA contra decisão da Presidência do Superior Tribunal de Justiça que conheceu do respectivo agravo em recurso especial, a fim de não conhecer do apelo nobre (fls. 1291-1297).
+Os embargos de declaração opostos foram rejeitados (fls. 1394-1397).
+Sustenta a parte agravante, no agravo interno (fls. 1406-1430), que, ao contrário do consignado na decisão agravada, houve impugnação quanto a todos os fundamentos do aresto proferido pela Corte de origem e, por conseguinte, não é aplicável à hipótese a Súmula n. 283 do STF.
+Aponta que todas as questões veiculadas no apelo nobre foram devidamente prequestionadas.
+Foi apresentada impugnação (fls. 1433-1483).
+É o relatório.
+Decido.
+Dada a relevância das alegações veiculadas no presente recurso, reconsidero a decisão agravada e passo ao exame do recurso interposto.
+Consta dos autos que o Juízo de primeiro grau julgou parcialmente procedente o pedido de liquidação de sentença formulado pelo ora Agravado, a fim de fixar como valor indenizatório, a título de danos morais, o montante de R$ 4.000,00 (quatro mil reais), nos termos do provimento judicial de fls. 272-276.
+A parte agravante interpôs apelação (fls. 284-297).
+O Tribunal a quo, por maioria, não conheceu do apelo (fls. 780-803).
+A propósito, a ementa do referido julgado (fl. 780):
+CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - LIQUIDAÇÃO DE SENTENÇA - RECURSO INADEQUADO - IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE - ERRO GROSSEIRO. 1) Consoante jurisprudência consolidada do Superior Tribunal de Justiça, a decisão proferida em liquidação de sentença que não extingue a execução deve ser atacada por meio de agravo de instrumento, e não apelação cível. 2) A mesma Corte Superior adota o entendimento no sentido de que não é possível a aplicação do princípio da fungibilidade em casos de interposição do recurso incabível em liquidação de sentença em virtude da ausência de dúvida objetiva, caracterizando erro grosseiro. 3) Apelação não conhecida.
+Os embargos de declaração opostos foram rejeitados (fls. 963-979).
+Sustenta a parte agravante, nas razões do apelo nobre, além da existência de dissídio pretoriano, contrariedade aos arts. 9º, 10, 203, § 1º, 489, § 1º, inciso VI, 1.009 e 1.022 do CPC/2015; aos arts. 95 e 97 do Código de Defesa do Consumidor; aos arts. 186, 502 e 927 do Código Civil.
+Aponta que houve negativa de prestação jurisdicional, por parte do Tribunal de origem, quando do julgamento dos embargos declaratórios.
+Alega que o aresto atacado carece de fundamentação adequada.
+Pondera que a decisão por meio da qual o juízo de primeiro grau julga ação individual ajuizada com fulcro no art. 97 do CDC é sentença e, portanto, o recurso cabível para reformá-la é a apelação.
+Argumenta que, em sendo a demanda proposta para a obtenção de indenização com esteio em responsabilidade extracontratual, a discussão acerca do dano, do nexo de causalidade e do ato de terceiro se dá no bojo de ação individual, sendo certo que a decisão daí proveniente, além de constitutiva de direitos, põe fim à fase cognitiva, isto é, tem natureza jurídica de sentença e, assim, deve ser impugnada pela interposição de apelação.
+Aduz que, mesmo adotando-se o entendimento de que o recurso cabível é o agravo de instrumento, tal como fez a Corte a quo, é aplicável o princípio da fungibilidade, tendo em vista a patente dúvida objetiva acerca do recurso apropriado, consubstanciada, inclusive, pelo fato de que a decisão a que chegou o Tribunal de Justiça do Estado do Amapá foi tomada por maioria de votos.
+Esclarece que:
+ ..  compete a cada autor individual demonstrar o dano e o nexo de causalidade para obter direito a indenização, eis que a excepcionalíssima possibilidade de incidência do provimento jurisdicional para além das partes presentes nos autos limita ao reconhecimento da responsabilidade da ré por danos decorrentes de um mesmo contexto fático. (fl. 1.008).
+Afirma que as instâncias ordinárias adotaram compreensão que não se coaduna com o bom direito, porquanto unificaram o valor da indenização para todo e qualquer indivíduo da coletividade abrangido pelo acórdão proferido na ação civil pública, sem qualquer distinção ou produção de elementos probantes, sendo certo que tal proceder não se encontra preconizado no aresto da mencionada demanda coletiva.
+Assere que ocorreu violação da coisa julgada, pois os provimentos judiciais proferidos pelas instâncias ordinárias conferiram à decisão prolatada na ação civil pública teor diferente do que, de fato, foi determinado pelo Poder Judiciário quando da apreciação daquele feito coletivo. Vale ressaltar que no respectivo acórdão não houve referência a danos morais ou materiais.
+Esclarece que a condenação, na hipótese dos autos, deve se dar por meio da fixação das responsabilidades pelos prejuízos eventualmente causados a cada demandante individual; o acórdão proferido na ação civil pública não contém comando no sentido de reconhecer direito dos consumidores a indenizações; e os danos e o respectivo nexo causal deveriam ser individualizados durante a instrução de posteriores demandas individuais.
+Portanto, "a imposição de uma leitura que confere ao acórdão da ACP um conteúdo de indenização uniforme a toda a coletividade no valor de R$4.000,00 (quatro mil reais) se mostra passível de reforma pela via estreita da ação rescisória mesmo após o trânsito em julgado" (fl. 1014).
+Defende a ocorrência de afronta ao princípio que veda a surpresa nos provimentos judiciais, pois não foi conferido à ora Agravante o direito de se manifestar sobre o não cabimento da apelação.
+Foram apresentadas contrarrazões (fls. 1105-1136). O recurso especial não foi admitido (fls. 1205-1213). Foi interposto agravo (fls. 1226-1244).
+A Presidência do Superior Tribunal de Justiça, por meio da decisão de fls. 1291-1297, conheceu do respectivo agravo em recurso especial, a fim de não conhecer do apelo nobre.
+Os embargos de declaração opostos foram rejeitados (fls. 1394-1397).
+Inicialmente, esclareço que o acórdão recorrido não possui as omissões suscitadas pela parte agravante. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+No caso, existe mero inconformismo da Agravante com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Ademais, o acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. O que se denota é apenas, uma vez mais, é irresignação da Agravante com o desfecho do julgamento que contrário às respectivas pretensões. Portanto, não há ofensa ao art. 489 do Código de Processo Civil. Nesse sentido: AgInt no REsp n. 2.044.805/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023; AgInt no AREsp n. 2.172.041/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.
+Por outro lado, não há falar em afronta ao princípio da não surpresa, porquanto, nos termos da jurisprudência desta Corte Superior de Justiça, esse vício não ocorre em hipóteses tais como a presente, "porquanto as questões relativas à análise dos pressupostos processuais e das condições da ação constituem decorrência lógica da propositura da demanda inicial, que são analisados à luz da teoria da asserção, a partir da narrativa da petição inicial" (AgInt no AREsp n. 2.250.065/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2023, DJe de 25/10/2023).
+No mesmo sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. NÃO OCORRÊNCIA DE DECISÃO SURPRESA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+ ..
+3. A jurisprudência desta Corte é no sentido de que "descabe alegar surpresa se o resultado da lide encontra-se previsto objetivamente no ordenamento disciplinador do instrumento processual utilizado e insere-se no âmbito do desdobramento causal, possível e natural, da controvérsia. Cuida-se de exercício da prerrogativa jurisdicional admitida nos brocados iura novit curiae da mihi factum, dabo tibi ius" (AgInt no AREsp n. 1.215.746/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/4/2020, DJe de 24/4/2020).
+Agravo interno improvido. (AgInt no AREsp n. 2.466.391/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 8/4/2024, DJe de 12/4/2024.)
+No que concerne ao pleito pela possibilidade de conhecimento da apelação interposta na origem, os votos majoritários do acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 795-799; 801-803; sem grifos no original):
+O Exmo Sr. Desembargador JAYME FERREIRA (3º Vogal) - Pedi vista dos autos para melhor analisar a matéria em julgamento, após as sustentações orais realizadas pelos patronos das partes, as quais me trouxeram dúvidas quanto a aspectos dos feitos ressaltados durante a sessão de julgamento.
+ ..
+Tratam os feitos em julgamento de apelações cíveis interpostas pela Companhia de Eletricidade do Amapá em face de sentenças proferidas pelo Juízo da Vara Única da Comarca de Pedra Branca do Amapari que julgou parcialmente procedente o pedido de liquidação de sentença e arbitrou os danos morais devidos aos apelados em R$4.000,00 (quatro mil reais).
+Em que pese a decisão unânime da turma julgadora original no sentido de conhecer das apelações, ouso divergir desse entendimento em razão de que a jurisprudência aponta no sentido de que o recurso cabível no caso é o agravo de instrumento.
+Nesse sentido recente decisão do Superior Tribunal de Justiça, que restou assim ementada:
+ ..
+Note-se que o entendimento daquela Corte se estende, inclusive à impossibilidade de aplicação do princípio da fungibilidade.
+ ..
+Observo que o e. Relator conheceu dos apelos, baseando sua decisão em decisão também proferida pelo e. Superior Tribunal de Justiça, cuja ementa apresenta o seguinte teor:
+ ..
+Ocorre que tal decisão é bem clara ao definir o cabimento de apelação, mas somente quando a decisão atacada puser fim à execução.
+No mesmo sentido decisão mais recente daquela Corte, verbis :
+ ..
+Ocorre que, ao contrário do que afirmou o e. Relator, não é este o caso dos autos.
+A decisão recorrida se limitou a arbitrar o valor da indenização devida pela Apelante, não extinguindo o feito.
+Eis o teor do dispositivo da sentença:
+"ANTE O EXPOSTO, JULGO PARCIALMENTE PROCEDENTE O PEDIDO DE LIQUIDAÇÃO DE SENTENÇA, para ARBITRAR, como valor indenizatório, ao liquidante, a título de danos morais, R$4.000,00  quatro mil reais."
+Somente a partir do arbitramento do valor da indenização é que os Apelados poderiam requerer as providências necessárias para a satisfação do crédito exequendo, prosseguindo com o cumprimento da sentença, do qual a liquidação é apenas uma fase inicial.
+Como a decisão proferida não extinguiu o crédito, para o que será necessária a continuidade do feito até o efetivo pagamento da indenização, ou a ocorrência de qualquer outra causa extintiva, certamente não pôs fim ao cumprimento da sentença.
+Assim, evidenciado se tratar de decisão meramente interlocutória, na esteira da jurisprudência do Superior Tribunal de Justiça, o recurso cabível no caso seria o agravo de instrumento, não sendo possível conhecer das apelações interpostas por ser incabível na hipótese a aplicação do princípio da fungibilidade.
+Diante do exposto, NÃO CONHEÇO das apelações interpostas.
+ ..
+O Excelentíssimo Senhor Desembargador JOÃO LAGES (1º Vogal) - Sr. Presidente. Eminentes pares.
+São pertinentes as considerações do eminente Des. JAYME FERREIRA quanto ao não cabimento do recurso de apelação.
+De fato, cabe agravo de instrumento por se tratar de liquidação de sentença por arbitramento.
+Adianto que reconsidero meu voto no juízo de admissibilidade.
+Vejam que na vigência do Código de Processo Civil de 1973, a previsão já era o cabimento de agravo contra a decisão de liquidação. (art. 475-H, CPC/73).
+No atual sistema processual, o CPC/2015 destinou um capítulo específico para a liquidação de sentença (art. 509 e seguintes), com destaque ao §4º do art. 509, que dispõe: "§ 4º Na liquidação é vedado discutir de novo a lide ou modificar a sentença que a julgou".
+Por sua vez, o parágrafo único do art. 1.015, dispõe: "Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário."
+Ora, nesses processos da CEA, embora o ato judicial tenha sido salvo no sistema como "sentença", esse equívoco não pode transmudar a natureza de decisão interlocutória.
+Isso porque os atos judiciais são aqueles previstos no art. 203 do CPC/2015: "Os pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos."
+Dispõe o §1º, do art. 203: "Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487 , põe fim à fase cognitiva do procedimento comum, bem como extingue a execução."
+Por sua vez, o §2º: "Decisão interlocutória é todo pronunciamento judicial de natureza decisória que não se enquadre no § 1º."
+Assim, nos casos ora em análise, não se tratando de sentença que pôs fim ao processo, mas de ato judicial que arbitrou dano moral na fase de liquidação de sentença coletiva, trata-se de decisão interlocutória. Logo, não cabe apelação, mas sim agravo.
+Ante o exposto, retifico meu voto no juízo de admissibilidade para acompanhar o eminente vogal Des. Jayme Ferreira pelo NÃO CONHECIMENTO das apelações.
+É como voto.
+ ..
+O Excelentíssimo Senhor Desembargador GILBERTO PINHEIRO (4º Vogal) - Após ouvir atentamente o voto do ilustre vogal, Des. Jayme Ferreira, cheguei à idêntica conclusão.
+ ..
+Assim, passo à análise da admissibilidade dos recursos postos à apreciação.
+Trata-se de apelações cíveis interpostas pela Companhia de Eletricidade do Amapá em face de sentenças proferidas pelo Juiz de Direito da Vara Única da Comarca de Pedra Branca do Amapari/AP, que julgou parcialmente procedente o pedido de liquidação de sentença, para arbitrar danos morais em favor dos apelados, no importe de R$ 4.000,00 (quatro mil reais).
+Conforme farta jurisprudência, inclusive do STJ, o recurso cabível contra decisões proferidas em sede de liquidação de sentença não é a apelação cível, mas sim o agravo de instrumento. Neste sentido:
+ ..
+Posto isto, acompanho a divergência e não conheço dos recursos.
+Como se vê, o entendimento adotado pela Corte a quo está em harmonia com a jurisprudência do Superior Tribunal de Justiça, fixada no sentido de que o recurso cabível contra decisão interlocutória, proferida em liquidação de sentença e que não põe fim ao processo, tal como ocorre na hipótese dos autos, é o agravo de instrumento, nos termos do art. 1.015 do CPC/2015, sendo a interposição de apelação considerada erro grosseiro, o que impede a aplicação do princípio da fungibilidade.
+A propósito:
+PROCESSUAL CIVIL. CONSUMIDOR. AÇÃO CIVIL PÚBLICA. LIQUIDAÇÃO DE SENTENÇA. NÃO HÁ VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 7, 83 E 211/STJ. INCIDÊNCIA DAS SÚMULAS N. 282 E 356/STF. AUSENTE O PREQUESTIONAMENTO DA MATÉRIA.
+ ..
+VIII - Ademais, o entendimento do Tribunal de origem está em consonância com a Jurisprudência desta Corte Superior no sentido de que o recurso cabível de decisão em liquidação de sentença que não põe fim ao processo é o agravo de instrumento, sendo erro grosseiro a interposição de outro recurso. Nesse sentido: AgInt no AREsp n. 1.730.760/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/5/2021, DJe de 1/7/2021; AgInt no REsp n. 1.810.830/PA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/5/2020, DJe de 13/5/2020.
+IX - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+X - Agravo interno improvido. (AgInt nos EDcl no AREsp n. 2.549.552/AP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. DECISÃO INTERLOCUTÓRIA EM FASE EXECUTIVA. RECURSO DE APELAÇÃO. NÃO CABIMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE.
+1. Segundo entendimento consolidado nesta Corte, o recurso cabível contra decisão que resolve impugnação ao cumprimento de sentença, mas sem extinguir a execução, é o agravo de instrumento, conforme determinado no art. 1.015, parágrafo único, do CPC. Nesta hipótese, a interposição de apelação configura erro grosseiro, impossibilitando a incidência do princípio da fungibilidade recursal. Precedente: AgInt no AREsp 1.406.353/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/10/2019, DJe 25/10/2019.
+2. Agravo interno não provido. (AgInt no AgInt no AREsp n. 2.175.345/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA. APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INVIABILIDADE.
+1. O Tribunal de origem decidiu em dissonância com a jurisprudência desta Corte Superior, que entende que "a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser combatida por meio de Apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, por meio de Agravo de Instrumento" (REsp 1.803.176/SP, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 21/05/2019)"
+2. Hipótese em que o recurso cabível seria o agravo de instrumento, de modo que a interposição de apelação contra decisão que não extingue a execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.742.103/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/3/2022, DJe de 22/3/2022.)
+Por fim, mantida, como corolário lógico da fundamentação plasmada neste decisum, a conclusão da Corte de origem pelo não conhecimento da apelação da ora Agravante por ser recurso incabível na espécie, ficam prejudicados a análise e o pronunciamento acerca das demais questões de mérito veiculadas no apelo nobre.
+Ante o exposto, DO U PROVIMENTO ao agravo interno para, RECONSIDERANDO a decisão de fls. 1291-1297, CONHECER do agravo, a fim de CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 276), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTENTE. PLEITO PELO RECONHECIMENTO DE AFRONTA AO PRINCÍPIO DA NÃO SURPRESA. INSUBSISTENTE. DECISÃO EM LIQUIDAÇÃO DE SENTENÇA QUE NÃO PÕE FIM AO PROCESSO. RECURSO CABÍVEL: AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICÁVEL. PREJUDICADAS AS DEMAIS QUESTÕES DE MÉRITO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO, A FIM DE CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
