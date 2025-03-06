@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por MATHEUS LOUZADO MAZZO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra a decisão de fls. 871-872, integrada pelo acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que rejeitou os embargos de declaração opostos e cuja ementa guarda os seguintes termos (fl. 933):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO.
+Embargante busca efeitos infringentes aos embargos de declaração. Impossibilidade. Inexistência de defeitos (erro material, omissão, contradição ou obscuridade) que autorizam embargos declaratórios devem estar contidos no próprio ato judicial e não devem ser decorrentes de interpretações diversas que poderiam levar a outra solução do litígio. Embargante não apontou defeito a ensejar o acolhimento do recurso.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Aduz a parte agravante que "a decisão Monocrática do Desembargador-Relator, de fls. 871/878, foi mantida pelo Plenário da 27ª Câmara de Direito Privado, do Tribunal de São Paulo, de fls. 932/934, de modo que o RECURSO ESPECIAL FOI INTERPOSTO EM FACE DE DECISÃO COLEGIADA E NÃO DE DECISÃO MONOCRÁTICA, SENDO, ADMISSÍVEL SUA SUBIDA PARA CONHECIMENTO E PROVIMENTO JUNTO AO SUPERIOR TRIBUNAL DE JUSTIÇA" (fl. 1.001).
+A parte agravada apresentou contraminuta às fls. 1.028-1.052.
+Indeferido o pedido de efeito suspensivo (fls. 1.076-1.077).
+É, no essencial, o relatório.
+Ultrapassados os requisitos de admissibilidade do agravo, passo ao exame do recurso especial.
+Conforme o art. 105, inciso III, da Constituição Federal, compete ao STJ "julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios" nas condições que elenca.
+A expressão "única ou última instância" indica que o recurso especial somente é cabível quando esgotadas as vias recursais ordinárias. Isso porque a finalidade do recurso especial é a preservação da legislação federal infraconstitucional, o que não se confunde com um terceiro grau de jurisdição ordinária.
+Da análise dos autos, observa-se que o recurso especial foi interposto contra decisão monocrática proferida por membro da Corte de origem (fls. 871-872), a despeito do julgamento colegiado dos embargos de declaração (fls. 932-934).
+Ademais, percebe-se que o Tribunal de origem não recebeu os embargos de declaração como agravo interno, nos termos do art. 1.024, § 3º, do CPC, limitando-se a rejeitá-los com fundamento na suficiência da decisão embargada.
+Logo, não houve o esgotamento da jurisdição ordinária, como dispõe o art. 1.021 do CPC, que prevê a interposição de agravo ao órgão colegiado, requisito indispensável para a abertura da instância especial:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+Desse modo, considerando o entendimento consolidado nesta Corte, no sentido de que a oposição de embargos de declaração contra decisão monocrática, ainda que julgados pelo órgão colegiado do Tribunal de origem, não exaure a instância ordinária, é inadmissível o presente recurso especial, nos termos da Súmula n. 281/STF. Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 281/STF. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, revela-se inadmissível o processamento de recurso especial interposto contra decisão monocrática, porquanto um dos pressupostos para sua admissibilidade é o exaurimento das instâncias ordinárias.
+2. Esta Corte Superior entende que, "para fins de exaurimento de instância, quando há pretensão de propor recurso especial após a decisão monocrática, somente é cabível agravo interno, sendo insuficiente, para esse fim, os embargos de declaração, ainda que decididos pelo órgão colegiado" (AgInt no AREsp n. 2.105.073/SE, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+3. Incidência da Súmula 281 do Supremo Tribunal Federal.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.608.166/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024, grifo meu.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 281/STF. MULTA DO ART. 1.021 DO CPC. INAPLICABILIDADE. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça possui o entendimento de que os embargos de declaração opostos contra decisão monocrática, ainda que decididos pelo órgão colegiado do Tribunal a quo, não exaurem a prestação jurisdicional da instância ordinária. Aplicação, por analogia, da Súmula 281 do Supremo Tribunal Federal (STF).
+2. A condenação da parte agravante ao pagamento da multa prevista no art. 1.021, § 4º, do Código de Processo Civil pressupõe que o agravo interno seja manifestamente inadmissível ou que sua improcedência seja tão evidente que a simples interposição do recurso é tida como protelatória. A aplicação da multa não é automática e não decorre do desprovimento do agravo interno em votação unânime.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.622.403/RO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/8/2024, DJe de 2/9/2024, grifo meu.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO MONOCRÁTICA DE RELATOR NO TRIBUNAL DE ORIGEM. JULGAMENTO COLEGIADO. INTERPOSIÇÃO DE AGRAVO INTERNO. NECESSIDADE. NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 281/STF. INCIDÊNCIA.
+1. A Corte Especial, ao apreciar o AgRg no REsp 1.231.070/ES, consolidou o entendimento de que, em regra, o julgamento colegiado dos aclaratórios opostos contra decisão monocrática não acarreta o exaurimento da instância ordinária. Portanto, não basta que o órgão fracionário aprecie eventual ofensa ao art. 1.022 do CPC, sendo indispensável que proceda ao exame da controvérsia originária, a qual se pretenda veicular no recurso especial. Hipótese em que não foi atendido tal requisito legal, apto a viabilizar o trânsito do especial apelo, o que atrai a incidência, por analogia, da Súmula 281 do STF.
+2. O Superior Tribunal de Justiça firmou entendimento de que os embargos de declaração opostos contra decisório monocrático, ainda que decididos pelo órgão colegiado do Sodalício de origem, não exaurem a prestação jurisdicional da instância ordinária.
+Precedentes: AgInt no AREsp 2.073.062/SP, Relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgInt no AREsp 2.049.602/SP, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022;
+AgInt no AREsp 1.730.605/RJ, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/10/2021, DJe de 14/10/2021; AgInt no AREsp 1.869.325/SP, Relator Ministro Manoel Erhardt, Desembargador Convocado do TRF 5, Primeira Turma, julgado em 27/9/2021, DJe de 29/9/2021; AgInt no AREsp 909.635/PI, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 2/5/2017; AgInt no AREsp 620.308/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 2/2/2017, DJe de 13/2/2017; REsp 1.446.261/PR, Relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/4/2014, DJe de 6/5/2014.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.578.161/MT, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/8/2024, DJe de 22/8/2024, grifo meu.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. SÚMULA N. 281/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
