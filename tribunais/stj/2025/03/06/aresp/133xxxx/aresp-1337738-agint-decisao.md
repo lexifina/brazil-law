@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 2586/2587, proferida pelo Ministro Presidente do STJ, que não conheceu do agravo em recurso especial.
+A parte agravante sustenta, em síntese, que é possível a comprovação da ocorrência de feriado local, em momento posterior à interposição do recurso especial.
+À vista dos fundamentos expostos e do que decidiu a Corte Especial, no AREsp n. 2.638.376/MG, reconsidero a decisão ora agravada e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO CIVIL PÚBLICA Cancelamento de contrato de plano de saúde coletivo Homologação de acordo firmado entre Ministério Público e a ré, com anuência do sindicato Recursos que questionam apenas a incidência de reajuste, constante do acordo Legitimidade do Ministério Público para propor a ação como substituto processual que não autoriza a prática de atos que importem em disposição do direito material do substituído Não aplicação de deliberações que prejudiquem o direito dos associados Possibilidade de rediscussão dos índices cobrados pela empresa de saúde em ação própria Recursos não conhecidos.
+A parte agravante sustenta a violação dos arts. 6º, 39 e 51, do Código de Defesa do Consumidor; 3º e 10 , § 3º, do Estatuto do Idoso; 421 e 422 e do Código Civil.
+Incidem, todavia, os enunciados 282 e 356 da Súmula do STF quanto às normas indicadas pelo recorrente, pois são estranhas ao julgado recorrido, a elas faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Além disso, a parte agravante não impugnou, nas razões de seu inconformismo, o fundamento do acórdão recorrido, segundo o qual natureza meramente homologatória da sentença retira o interesse processual dos recorrentes. Tal fundamento é suficiente por si só para manter o acórdão, que, por consequência, não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Outrossim, a parte não se insurgiu contra o fundamento segundo o qual a parte pode discutir interesses individuais em ação própria, sem que o acordo celebrado sirva de empecilho para tal desiderato. Dessa forma, incide, mais uma vez, o óbice da já citada Súmula 283/STF.
+Em face do exposto, nego provimento ao agravo em recurso especial. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos em virtude da gratuidade de Justiça.
+Intimem-se.
+EMENTA
