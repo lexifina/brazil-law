@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Nelio Wagner de Oliveira Silveira contra o acórdão de fls. 399-412 (e-STJ), proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSO CIVIL. APOSENTADORIA. RECONHECIMENTO DE TEMPO DE SERVIÇO ESPECIAL. CERCEAMENTO DE DEFESA. RUÍDO. LIMITES DE TOLERÂNCIA. REAFIRMAÇÃO DA DER. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. 1. Não há cerceamento de defesa, em razão do indeferimento do pedido de realização de perícia, quando há elementos suficientes nos autos para análise da especialidade dos períodos reclamados. 2. O limite de tolerância para o agente físico ruído é de 90 (noventa) decibéis, no período entre 6 de março de 1997 e 18 de novembro de 2003 (Tema nº 694 do Superior Tribunal de Justiça). 3. A reafirmação da data de entrada do requerimento administrativo (DER), antes inclusive admitida pela administração previdenciária (IN 77/2015), tem lugar também no processo judicial, uma vez verificado o preenchimento dos requisitos para a concessão do benefício, como fato superveniente, após o ajuizamento da ação ou da própria decisão recorrida, de ofício ou mediante petição da parte. 4. Se o segurado se filiou à Previdência Social antes da vigência da Emenda Complementar nº 20, de 15 de dezembro de 1998, e conta tempo de serviço posterior a esta data, deve-se examinar, para o fim de conceder-lhe o benefício mais vantajoso, o preenchimento dos requisitos para a aposentadoria por tempo de serviço, consideradas as regras anteriores à sua promulgação, para a aposentadoria por tempo de contribuição, pelas regras permanentes do novo regime então instituído, e, ainda, para a aposentadoria por tempo de contribuição, proporcional ou integral, pelas regras de transição.
+Nas razões do recurso especial (e-STJ, fls. 421-446), aponta o insurgente a existência de dissídio jurisprudencial na interpretação do art. 485, IV, do CPC/2015. Sustenta, em síntese, que a ação deveria ser extinta sem resolução do mérito.
+Sem contrarrazões (e-STJ, fl. 447).
+Admitido o processamento do recurso na origem (e-STJ, fls. 454-455), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Da acurada análise da decisão recorrida, verifica-se que o tribunal de origem negou provimento à apelação do recorrente, a qual foi interposta contra sentença que julgou parcialmente procedente a ação.
+Veja-se às fls. 410 e 411 (e-STJ):
+Desprovido o recurso interposto pelo autor da sentença de parcial procedência do pedido, devem os honorários de advogado ser majorados, com o fim de remunerar o trabalho adicional do procurador da parte adversa em segundo grau de jurisdição.
+Em face do que foi dito, voto no sentido de negar provimento à apelação da parte autora e, de ofício, majorar os honorários advocatícios e determinar a averbação imediata, via CEAB.
+Considerando a procedência parcial da ação, sem razão o recorrente quando defende que o feito deveria ser extinto sem resolução do mérito.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA EXECUÇÃO EM AÇÃO RESCISÓRIA. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. ACLARATÓRIOS REJEITADOS.
+1. Os embargos opostos pelo INSS, conexos à presente execução, foram julgados parcialmente procedentes para determinar que o percentual de 10% (dez por cento), arbitrado a título de honorários sucumbenciais, incida apenas sobre o valor da condenação, sendo excluídos aqueles valores supostamente pagos na via administrativa aos substituídos, à falta de comprovação de seu efetivo recebimento.
+2. O afastamento da incidência da verba honorária sobre os valores pagos administrativamente constituiu hipótese de acolhimento do pedido (ainda que parcial), nos moldes previstos no art. 487, I, do CPC (daí a menção a tal dispositivo no acórdão ora embargado, que alude ao julgamento com resolução do mérito). Portanto, descabe cogitar-se de omissão em relação a outros dispositivos da lei processual civil que tratam da extinção sem resolução do mérito, porquanto não pertinentes à espécie.
+3. Inexistente o vício apontado nos moldes preconizados pelo art. 1.022 do CPC, não merecem acolhida os aclaratórios opostos, notadamente quando manifestamente impugnativos, intento esse incompatível com a via eleita.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na ExeAR n. 1.169/CE, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 14/4/2021, DJe de 22/4/2021.)
+Diante do exposto, conheço do recurso especial e nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do INSS em 5% (cinco por cento) sobre o montante já arbitrado, observados os limites legais e a gratuidade de justiça deferida ao recorrente.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. O FEITO DEVE SER EXTINTO SEM RESOLUÇÃO DO MÉRITO. IMPROCEDÊNCIA. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
