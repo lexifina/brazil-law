@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 422):
+APELAÇÃO CÍVEL. CARTÃO DE CRÉDITO. CONSIGNADO. NULIDADE CONTRATUAL. AUSÊNCIA. RECURSO DA INSTITUIÇÃO FINANCEIRA, PROVIDO. RECURSO DA CONSUMIDORA, PREJUDICADO. 1. Embora a requerente tenha afirmado que não contratou o referido serviço, há nos autos registro de recebimento do empréstimo, no valor de R$ 1.211,18, bem como o efetivo saque. 2. Com efeito, inobstante o magistrado tenha afirmado que há divergência das assinaturas, os documentos anexados (contrato, documento pessoal e instrumento procuratório) trazem o mesmo padrão de escrita. 3. Sendo assim, as provas dos autos demonstram que não há, no caso concreto, nenhum vício na contratação capaz de ensejar a nulidade do contrato, tampouco conduta abusiva ou falha na prestação do serviço da instituição financeira. 4. Recurso interposto pelo BANCO BMG S/A, provido.
+Recurso interposto pela consumidora, prejudicado.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 6º, 368, 429, II, do Código de Processo Civil, ao art. 6º, incisos VI, VIII e XI, do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Sustenta que não houve comprovação quanto à titularidade da assinatura constante no contrato de empréstimo apresentado pelo Recorrido.
+Afirma que cabe à instituição bancária o ônus de provar a autenticidade do contrato, na hipótese em que o consumidor impugnar a autenticidade da assinatura do negócio.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Na origem, cuida-se de ação de obrigação de fazer c/c cobrança e indenização por danos morais proposta por Izamar de Oliveira Leandro contra Banco BMG S/A, na qual pretende o reconhecimento da inexistência de relação jurídica referente à contratação de cartão de crédito consignado.
+A sentença julgou procedente o pedido do autor para declarar a inexistência da relação jurídica, determinando a restituição dos valores descontados e o pagamento de indenização por danos morais no valor de R$ 6.000,00 (seis mil reais).
+A Corte local, ao analisar a apelação da parte ré, deu provimento ao recurso para julgar improcedentes os pedidos da parte autora, considerando que as provas dos autos demonstraram nenhum vício na contratação capaz de ensejar a nulidade do contrato. Confira-se (e-STJ, fls. 423/425):
+Na origem, Izamar de Oliveira Leandro ajuizou ação de obrigação de fazer c/c cobrança e indenização por danos morais contra Banco BMG S/A sustentando que tomou conhecimento da existência de diversos empréstimos e descontos de cartões consignados em sua aposentadoria, os quais teriam sido contratados sem a sua anuência.
+Pois bem. Os recursos serão analisados de forma conjunta, tendo em vista que toda a matéria foi devolvida ao conhecimento deste Tribunal de Justiça.
+O vínculo consumerista é evidente e o serviço prestado pela instituição financeira está enquadrado no art. 3º, § 2º, do CDC, que dispõe que "serviço é qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária, financeira, de crédito e securitária, salvo as decorrentes das relações de caráter trabalhista.".
+Além disso, a Súmula 297, do STJ, estabelece que "o Código de Defesa do Consumidor é aplicável às instituições financeiras".
+No caso concreto, o magistrado de primeiro grau destacou que:
+"  a demandada acosta aos autos contrato supostamente assinado pela parte autora, ensejador das amortizações lançadas sobre seu extrato de benefício. Todavia, a assinatura ali aposta difere daquela constante no documento pessoal da autora, que instrui a exordial, bem como do instrumento procuratório e requerimento de gratuidade processual,  .".
+No entanto, da detida análise dos autos, observo que, embora a requerente tenha afirmado que não contratou o referido serviço, há nos autos registro de recebimento do empréstimo, no valor de R$ 1.211,18, bem como o efetivo saque.
+Com efeito, inobstante o magistrado tenha afirmado que há divergência das assinaturas, os documentos anexados (contrato, documento pessoal e instrumento procuratório) trazem o mesmo padrão de escrita.
+Sendo assim, as provas dos autos demonstram que não há, no caso concreto, nenhum vício na contratação capaz de ensejar a nulidade do contrato, tampouco conduta abusiva ou falha na prestação do serviço da instituição financeira.
+No mesmo sentido:
+(..) 3. Embora a autora alegue que jamais pretendeu contratar um cartão de crédito, almejando apenas um contrato de empréstimo pessoal, a avença acostada aos autos (fls.41/42), de forma expressa, trata de termo de adesão cartão de crédito consignado Banco BMG, no qual a autora anuiu com a fixação de valor consignado para pagamento do valor mínimo indicado na fatura. 4. Verifica-se, ademais, que a apelante efetivamente utilizou o cartão de crédito, existindo indicações de saques disponibilizados pela operadora. 5. Recurso conhecido e desprovido. (TJES, Classe: Apelação Cível, 014190028853, Relator: JÚLIO CESAR COSTA DE OLIVEIRA, Órgão julgador: PRIMEIRA CÂMARA CÍVEL, Data de Julgamento: 15/02/2022, Data da Publicação no Diário: 11/04/2022)
+Pelas razões expostas, conheço e dou provimento ao recurso interposto pelo Banco BMG S/A para, reformando a sentença, julgar improcedentes os pedidos iniciais. Julgo prejudicado o recurso interposto por Izamar de Oliveira Leandro.
+Em razão da inversão dos ônus sucumbenciais, condeno a requerente ao pagamento das custas e honorários advocatícios, estes no valor de R$ 1.000,00 (um mil reais), cuja exigibilidade se encontra suspensa, por força da gratuidade da justiça outrora deferida.
+É como voto.
+No caso, verifico que a revisão das premissas adotadas no acórdão recorrido quanto à ausência de vício na contratação capaz de ensejar a nulidade do contrato demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, providência vedada em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão dos benefícios da justiça gratuita.
+Intimem-se.
+EMENTA
