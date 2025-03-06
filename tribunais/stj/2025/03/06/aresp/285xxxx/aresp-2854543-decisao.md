@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão do Eg. Tribunal de Justiça do Estado de Santa Catarina, que inadmitiu o recurs o especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+No recurso especial, a parte agravante sustenta violação do art. 421 do Código de Processo Civil. Aduz, em suma, que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abusividade.
+Alega, outrossim, contrariedade aos arts. 355, I e II, e 356, I e II, do Código de Processo Civil, por cerceamento de defesa, na medida em que imprescindível a realização da prova pericial contábil para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato e/ou substituição por outro percentual.
+Por fim, alega a existência de dissídio jurisprudencial acerca da questão.
+Requer o provimento do recurso "de forma a rechaçar contrariedades a Lei Federal e evitar decisões conflitantes e dar uniformidade de interpretação à jurisprudência pátria" (fl. 738).
+Contrarrazões às fls. 899-915, pela manutenção da negativa de seguimento ao recurso especial, bem como pela majoração de honorários de sucumbência.
+É o relatório.
+DECIDO.
+Atendidos os requisitos da tempestividade e da impugnação específica, passo ao exame do recurso especial.
+De início, cumpre esclarecer que "A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp nº 1.061.530/RS, Relatora Ministra Nancy Andrighi, submetido ao regime dos recursos repetitivos, firmou posicionamento do sentido de que: (1) as instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto nº 22.626/1993) - Súmula 596/STF; (2) a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; (3) são inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591, c/c o art. 406 do CC/2002; e, (4) é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, haja vista as peculiaridades do julgamento em concreto" (AgInt no AREsp n. 1.148.927/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/3/2018, DJe de 4/4/2018).
+Nesse contexto, "É admitida a revisão das taxa de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil" (AgInt no AREsp n. 2.615.818/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/9/2024, DJe de 11/9/2024).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. HIPÓTESE. ABUSIVIDADE. RECONHECIMENTO. ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. ERRÔNEA. VALORAÇÃO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, considerando as peculiaridades do julgamento em concreto.
+2. Na hipótese, o tribunal de origem, após a análise do conjunto fático-probatório dos autos e das cláusulas contratuais, considerou abusivos os juros remuneratórios, cuja revisão esbarra nas Súmulas nºs 5 e 7/STJ.
+3. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. A errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre da falha na aplicação da norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.177.306/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023)
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. RECONVENÇÃO. REVISÃO DO CONTRATO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. ABUSIVIDADE DA TAXA CONTRATADA. DEMONSTRAÇÃO CABAL. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. TARIFA DE CADASTRO. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando ficar caracterizada a relação de consumo e a abusividade for devidamente demonstrada diante das peculiaridades do caso concreto.
+2. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o curso de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+3. É inviável limitar a taxa de juros remuneratórios pactuada em contrato quando a corte de origem não tenha considerado cabalmente demonstrada sua abusividade com base nas peculiaridades do caso concreto. Incidência das Súmulas n. 5 e 7 do STJ.
+4. A tarifa de cadastro pactuada é válida, podendo ser cobrada apenas no início do relacionamento contratual, conforme o Tema n. 620 do STJ.
+5. Afasta-se eventual abuso na pactuação da tarifa de cadastro apenas na hipótese em que é cabalmente demonstrada abusividade no caso concreto, como ocorre na avaliação dos juros remuneratórios, isto é, mediante a análise das circunstâncias do caso, comparando-se os preços cobrados no mercado, o tipo de operação e o canal de contratação.
+6. Para o reconhecimento da abusividade das tarifas administrativas, não se admitem a referência a conceitos jurídicos abstratos nem a convicção subjetiva do magistrado.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 2.007.638/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/5/2023, DJe de 1º/6/2023).
+Na hipótese, o Tribunal de origem dirimiu a questão com base nos seguintes fundamentos (fl. 668):
+No caso, infere-se que os juros remuneratórios foram pactuados em 22% ao mês e 987,22% ao ano, enquanto a taxa média de mercado para o período (setembro de 2020) foi de 4,50% ao mês e 69,53% ao ano (Séries temporais 25464 e 20742- Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado), aplicáveis ao caso.
+Depreende-se, pois, que os juros remuneratórios contratados superam expressivamente a taxa média de mercado.
+Além disso, inexiste substrato probatório a amparar a alegada inexistência de abusividade do encargo ajustado em patamar em muito superior às diretrizes do Bacen, notadamente porque não fez prova de custo extraordinário na captação de ativos financeiros para a liberação dos valores, tampouco de exponencial risco de crédito que não fosse inerente à modalidade da contratação, cujo ônus probatório era de incumbência da casa bancária, conforme regramento do art. 373, II, do CPC.
+Com lastro na atual jurisprudência do Superior Tribunal de Justiça, em razão da ausência de provas por parte da casa bancária sobre "a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas (STJ, R Esp n. 2.009.614/SC, rela. Mina. Nancy Andrighi, j. 27-9-2022), não há como concluir pela ausência de abusividade do encargo no patamar contratado, restando, portanto, caracterizada a desvantagem exagerada em relação à parte consumidora.
+Desacolhe-se o recurso, portanto, para manter a sentença quanto à limitação dos juros remuneratórios à taxa méd ia com o acréscimo de 10%, sob pena de reformatio in pejus, uma vez que apenas a casa bancária recorreu.
+Opostos embargos de declaração, foram assim apreciados (fl. 689):
+Os embargos de declaração não merecem amparo, uma vez que não se observa n o decisum vergastado qualquer omissão, contradição, obscuridade ou erro material, requisitos essenciais para a oposição da presente modalidade recursal, conforme dispõe o artigo 1.022 do NCPC, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+O intuito dos aclaratórios é, portanto, o esclarecimento ou a complementação da decisão, sendo vedada a mera rediscussão de matérias previamente analisadas.
+Conforme a fundamentação do acórdão recorrido, as taxas de juros contratadas em relação ao pacto em discussão na lide foram excessivamente superiores às médias de mercado divulgadas pelo Banco Central do Brasil para a época da pactuação, restando caracterizada a abusividade das referidas taxas.
+Com efeito, conforme se extrai do acórdão, a taxa de juros mensal pactuada foi de 22,00%, enquanto que a taxa do BACEN para o mês de referência foi fixada em 4,50%.
+Considerou o Tribunal de origem, ainda, que "inexiste substrato probatório a amparar a alegada inexistência de abusividade do encargo ajustado em patamar em muito superior às diretrizes do Bacen".
+Nesse contexto, não há como afastar a conclusão do acórdão recorrido - acerca da abusividade da taxa de juros remuneratórios contratados, as quais importaram em desvantagem excessiva ao consumidor - sem a interpretação das cláusulas contratuais pactuadas e revolvimento fático-probatório, o que não se admite na via do recurso especial, conforme enunciados das Súmulas n. 5 e 7/STJ.
+Além disso, a incidência da Súmula n. 7/STJ torna prejudicado o exame do apontado dissídio jurisprudencial.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE EFEITO SUSPENSIVO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO.
+1. Ação de execução de título extrajudicial.
+2. Não demonstrada a excepcionalidade, não há que se falar em efeito suspensivo do recurso.
+3. Alterar o decidido no acórdão impugnado no que se refere à tese atinente à alegação de necessidade de nova avaliação do bem objeto de penhora, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedente desta Corte.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.398.976/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024)
+Quanto à tese de violação dos arts. 355 e 356 do CPC, diante do alegado cerceamento de defesa, a Corte de origem destacou que "se trata de matéria eminentemente de direito, cuja prova documental se encontra nos autos, sendo despicienda a realização de outras provas além do pacto já anexado." (fl. 666):
+Com efeito, cabe ao magistrado, como destinatário da prova, verificar a existência de provas suficientes nos autos para ensejar o julgamento antecipado da lide ou indeferir a produção de provas consideradas desnecessárias, conforme o princípio do livre convencimento motivado ou da persuasão racional, não restando configurado, no caso, o apontado cerceamento de defesa.
+Nesse entendimento:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. ALIENAÇÃO FIDUCIÁRIA. AVALIAÇÃO. IMÓVEIS. REEXAME DE CLÁUSULAS CONTRATUAIS E DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. INCIDÊNCIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. LEI N. 9.514/1997. NOTIFICAÇÃO POR EDITAL. VALIDADE. REEXAME DO ACERVO FÁTICOPROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+
+3. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+4. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 2.619.522/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 23/9/2024, DJe de 25/9/2024).
+O acórdão recorrido, no ponto, encontra-se em consonância com a jurisprudência desta Corte, o que atrai a incidência da Súmula 83/STJ. Além disso, a inversão das conclusões do acórdão acerca da desnecessidade da prova pericial demandaria revolvimento fático-probatório, incabível na via eleita, conforme a Súmula n. 7/STJ.
+Diante do exposto, conheço do agravo para conhecer em parte e, nessa extensão, negar provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
