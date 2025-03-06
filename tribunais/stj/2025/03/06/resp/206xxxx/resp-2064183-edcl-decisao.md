@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AUTO POSTO RONALDÃO LTDA E FILIAL contra decisão monocrática, da relatoria da Ministra Assusete Magalhães, que conheceu parcialmente do recurso especial e, nesta parte, negou-lhe provimento (fls. 489-496).
+As partes embargantes alegam, em síntese, que: a) ao contrário do que consta da decisão recorrida, o recurso especial impugnou o fundamento referente à alteração do art. 74 da Lei n. 9.430/96 no item 4.3; b) a decisão recorrida padece de vício, eis que omitiu-se quanto ao fato de que a Lei n. 11.457/2007 fora devidamente impugnada: a) é inquestionável que o caso trata de matéria unicamente de direito, devidamente impugnada no apelo nobre, motivo pelo qual não incidem as Súmulas n. 283 e 284 do STF (fls. 501-504).
+Decurso do prazo para impugnação certificado à fl. 513.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, cabem embargos de declaração para suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material no julgado. Não identificados os aludidos vícios, não se presta o recurso integrativo para rediscutir questões que já foram objeto de exame no acórdão embargado.
+No ponto que o recurso especial não foi conhecido, a decisão contra a qual se insurge a embargante foi proferida nos seguintes termos:
+ ..
+No mais, o Tribunal de origem consignou que "a Lei n. 13.670/18, ao introduzir o art. 26-A à lei n.º 11.457/2007, alterou o art. 74 da Lei nº 9.430/96, permitindo a compensação de créditos tributários somente aos contribuintes que utilizarem o E-social para apuração das referidas contribuições, desde que restrita a débitos e créditos posteriores à utilização do e-social, proibindo, desta forma, a compensação dos créditos e débitos apurados em período anterior ao ingresso do sujeito passivo no referido sistema digital" (fl. 379e).
+Entretanto, as razões do Recurso Especial não atacam tais fundamentos, tendo a parte recorrente se limitado a manifestar seu inconformismo com o resultado que lhe foi desfavorável, pelo que incidem, na espécie, as Súmulas 283 e 284 do STF, por analogia.
+Nesse contexto, à luz do princípio da dialeticidade, não basta à parte recorrente manifestar o inconformismo e a vontade de recorrer; precisa impugnar todos os fundamentos suficientes para sustentar o acórdão recorrido, demonstrando, de maneira discursiva, por que o julgamento proferido merece ser modificado.
+Na esteira da jurisprudência dessa Corte, a interposição do recurso especial à moda de apelação, deixando a parte recorrente de efetivamente demonstrar no que consistiu a violação da lei federal e de infirmar especificamente os fundamentos do acórdão, limitando-se a reiterar as razões dos recursos anteriores, atrai a incidência das Súmulas nºs 283 e 284 do Supremo Tribunal Federal (STJ, AgRg no AgRg no AREsp 171.093/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 26/08/2013).
+No mesmo sentido:
+ ..
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e, nessa parte, nego-lhe provimento (fls. 495/496e).
+Da leitura do excerto, observo que a decisão embargada não padece de mácula omissiva, eis que consignou expressamente que o fundamento utilizado pelo Tribunal de origem como alicerce do acórdão recorrido não foi impugnado pela parte recorrente.
+Nesses termos, a tentativa de rediscutir questão que já fora devidamente analisada e decidida não é admissível na presente via, pois caracteriza mera inconformidade com a decisão final da lide.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com Fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CRÉDITOS DE PIS E COFINS. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO APELO NOBRE. SÚMULAS N. 283 E 284 DO STF. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA DE VÍCIO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
