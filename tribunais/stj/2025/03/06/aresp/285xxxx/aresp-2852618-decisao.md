@@ -1,0 +1,54 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/12/2024.
+Concluso ao gabinete em: 25/02/2025.
+Ação: revisional de contrato proposta por ANA FABIANA MARQUES FERREIRA, em face da agravante, em razão de excesso na cobrança de juros remuneratórios, decorrente de contrato de empréstimo.
+Sentença: julgou parcialmente procedentes os pedidos para o fim de limitar os juros remuneratórios do contrato à taxa média de mercado à época da contratação, condenando a agravante à devolução dos valores cobrados em excesso, bem como a descaracterização da mora e a repetição simples do indébito.
+Acórdão: negou provimento ao recurso interposto pela agravante, com nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REVISÃO CONTRATUAL. CONTRATO DE CRÉDITO PESSOAL NÃO CONSIGNADO.
+PRELIMINARES:
+1. OPOSIÇÃO AO JULGAMENTO VIRTUAL. NÃO MERECE ACOLHIMENTO A PRELIMINAR GENÉRICA DE OPOSIÇÃO AO JULGAMENTO VIRTUAL, PORQUE NÃO REITERADA NO MOMENTO OPORTUNO, DE ACORDO COM O REGIMENTO INTERNO DESTA CORTE.
+2. CERCEAMENTO DE DEFESA. NÃO ESTÁ CARACTERIZADO O CERCEAMENTO DE DEFESA EM RAZÃO DO JULGAMENTO ANTECIPADO DA LIDE. O PROCESSO ESTÁ DEVIDAMENTE INSTRUÍDO, COM A AVENÇA REVISANDA, SENDO DESNECESSÁRIA A PROVA PERICIAL.
+3. CERCEAMENTO DE DEFESA. A ALEGADA OMISSÃO QUANTO AO DOCUMENTO REIVINDICADO PELA RÉ-APELANTE NÃO CARACTERIZA CERCEAMENTO DE DEFESA. O DOCUMENTO EM QUESTÃO RETRATA O ESCORE DA AUTORA EM PERÍODO MUITO POSTERIOR À DATA DA CONTRATAÇÃO, NÃO SERVINDO PARA A FINALIDADE PRETENDIDA PELA RÉ-APELANTE.
+4. ABUSO DO DIREITO DE DEMANDAR E LITIGÂNCIA DE MÁ-FÉ. O SIMPLES FATO DE A AUTORA TER DISTRIBUÍDO AÇÕES JUDICIAIS NÃO É SUFICIENTE PARA CARACTERIZAR ABUSO DO DIREITO DE DEMANDAR, TAMPOUCO LITIGÂNCIA DE MÁ-FÉ DA PARTE AUTORA.
+MÉRITO:
+1. ÔNUS DA PROVA. A RELAÇÃO ENTRE AS PARTES É DE CONSUMO, IMPONDO A FACILITAÇÃO DA DEFESA DOS DIREITOS DO CONSUMIDOR, ESPECIALMENTE COM A INVERSÃO DO ÔNUS DA PROVA. NO CASO CONCRETO, A AUTORA SE DESINCUMBIU DO ÔNUS DE FAZER PROVA MÍNIMA DE SUAS ALEGAÇÕES, EM ESPECIAL SOBRE A ABUSIVIDADE DOS JUROS, SENDO CABÍVEL A INVERSÃO DO ÔNUS DA PROVA NO CASO CONCRETO. NO PONTO, COMPETE À RÉ COMPROVAR AS CIRCUNSTÂNCIAS QUE LEVARIAM À CONCLUSÃO DE QUE AS TAXAS DE JUROS PRATICADAS NÃO SÃO ABUSIVAS.
+2. JUROS REMUNERATÓRIOS. A JURISPRUDÊNCIA DO STJ DEFINIU QUE A TAXA MÉDIA DE MERCADO INFORMADA PELO BANCO CENTRAL DO BRASIL NÃO É UM LIMITADOR DE JUROS REMUNERATÓRIOS, MAS UM REFERENCIAL DAS TAXAS PRATICADAS NO PAÍS, PARA DETERMINADO TIPO DE CONTRATO, EM DETERMINADO PERÍODO. NO CASO, A TAXA DE JUROS REMUNERATÓRIOS ESTIPULADA NO CONTRATO FIRMADO ENTRE AS PARTES ULTRAPASSA, EM MUITO, A TAXA MÉDIA AFERIDA PELO BACEN PARA A MESMA ESPÉCIE CONTRATUAL, FATO QUE, ALIADO A OUTROS ELEMENTOS DOS AUTOS, AUTORIZA A SUA REVISÃO.
+3. REPETIÇÃO DO INDÉBITO. COMPROVADA A ABUSIVIDADE NA TAXA DE JUROS REMUNERATÓRIOS PACTUADA, VAI DETERMINADA A REPETIÇÃO SIMPLES DO INDÉBITO. PRECEDENTE DO STJ.
+4. DESCARACTERIZAÇÃO DA MORA . DIANTE DA DECLARAÇÃO DE ABUSIVIDADE DE CLÁUSULA REMUNERATÓRIA DO CONTRATO É DE SER DECLARADA DESCARACTERIZA A MORA ATÉ O RECÁLCULO DO CONTRATO.
+5. SUCUMBÊNCIA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA SENTENÇA, EM FUNÇÃO DO DESPROVIMENTO DO RECURSO DA PARTE RÉ.
+PRELIMINARES REJEITADAS.
+RECURSO DESPROVIDO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 421 do Código Civil, 355, incisos I e II e art. 356, incisos I e II e 927 do Código de Processo Civil, 51, § 1º, do Código de Defesa do Consumidor, bem como divergência jurisprudencial. Insurge-se, em síntese, contra a limitação dos juros remuneratórios, sustentando ausência de abusividade da taxa pactuada e aduz o cerceamento de defesa, em razão da necessidade de realização da prova pericial contábil.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Conquanto se saiba que a jurisprudência do STJ entende que, o simples fato de os juros remuneratórios contratados serem superiores à taxa média de mercado, por si só, não configura abusividade, no caso dos autos, observa-se que o TJ/RS, após analisar o acervo probatório reunido nos autos, concluiu que:
+No caso concreto, o contrato sob revisão previu taxa de juros remuneratórios de 18,00% ao mês e de 628,76% ao ano (evento 1, CONTR6). As taxas médias mensal (código 25464) e anual (código 20742) informadas pelo BACEN para esta modalidade de contrato, na ocasião de sua assinatura eram de 4,88% ao mês e 77,05% ao ano.
+Conforme já referido, a parte autora firmou com a ré um contrato de crédito pessoal não consignado, mas com desconto em conta-corrente. Sendo assim, a própria forma de pagamento (débito em conta- corrente) ainda que não seja uma garantia formal, consiste em forma de pagamento que notadamente reduz os riscos de inadimplemento, o que impacta na taxa de juros remuneratórios contratada, de modo a reduzi-la.
+Para mais disto, não há nos autos qualquer circunstância que justifique a fixação exagerada da taxa de juros remuneratórios para o caso concreto, porque não comprovado elevado risco de inadimplemento do consumidor, o custo do dinheiro para o fornecedor, na ocasião, bem como porque não demonstrado o baixo índice de relacionamento comercial, ou ausência dele, entre o consumidor e a instituição financeira.
+Por oportuno, registro que o risco de inadimplemento exige a análise pormenorizada da renda do consumidor, o nível de comprometimento de sua renda, o histórico de (in)adimplemento de contratos firmados dentre outras informações coletadas na fase pré-pactual. Neste particular, o documento juntado pela ré para indicar o escore da consumidora, como já destacado em preliminar, data de 10/08/2023, e não da época em que firmado o contrato, não se prestando para comprovar o alegado risco de inadimplemento na época da contratação.
+Ainda no ponto, o custo de captação do dinheiro não foi esclarecido pela instituição financeira no caso concreto. Resta, portanto, inviabilizada sua consideração como circunstância que justifique a prática de juros remuneratórios no patamar contratado.
+Em suma, está evidenciada a prática de juros remuneratórios abusivos no caso concreto, colocando o consumidor em desvantagem exagerada, sendo de rigor a limitação dos juros remuneratórios na taxa média de mercado. (e-STJ, fl. 636)
+No tocante ao cerceamento de defesa, o Tribunal fundamentou que:
+Ainda em preliminar, não merece acolhimento a alegação recursal de cerceamento de defesa deduzida pela ré-apelante. Neste particular, afirma que o julgamento depende de produção de prova pericial, mas que o Juízo de origem proferiu sentença em julgamento antecipado da lide, sem oportunizar a produção de provas.
+Aliás, o Juízo de origem expressamente referiu a desnecessidade de produção de prova pericial, em razão da matéria eminentemente de direito, verbis:
+"A matéria comporta julgamento imediato consoante artigo 355, I do CPC, eis que desnecessária a produção de outras provas."
+Além disso, analisando a contestação da ré (evento 15, CONT1) o pedido de produção de prova pericial é totalmente desarrazoado, pois relaciona diversos elementos que a ré pretende provar, mas todos eles dependem de prova documental, e não pericial. Neste particular, deveria a ré ter juntado aos autos, já com a contestação, as provas documentais que estavam ao seu alcance. Por fim, nos pedidos finais na peça defensiva, consta apenas um pedido genérico de produção de provas documental e testemunhal.
+Em que pese o esforço argumentativo da ré-recorrente, o fato é que a avença revisanda já está juntada aos autos, não sendo necessária nova dilação probatória, tampouco necessária a produção de prova pericial para a apreciação do pedido de revisão contratual. (e-STJ, fls. 631-632)
+Portanto, alterar o decidido no acórdão impugnado no tocante à ausência de cerceamento de defesa, bem como à abusividade das taxas de juros remuneratórios, exige o reexame do contexto fático e probatório valorado pelas instâncias ordinárias, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência da similitude fática. Ressalte-se que é necessário que se aponte e explicite como os casos são semelhantes e qual é a proximidade fática e jurídica entre os julgados comparados, de forma consistente, o que não foi realizado na hipótese. Nesse sentido: AgInt no REsp n. 1.961.625/SP, Terceira Turma, DJe de 12/9/2022 e AgInt no AREsp n. 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$1.200,00 (e-STJ fls. 638) para R$ 2.500,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. DISSÍDIO PREJUDICADO.
+1. Ação revisional de contrato.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
