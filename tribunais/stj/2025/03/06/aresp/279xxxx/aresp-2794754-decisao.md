@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ZONA NOVA CENTER CONSTRUÇÃO E DECORAÇÃO LTDA contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS DE TERCEIROS. AÇÃO EXTINTA POR PERDA DO OBJETO. DESISTÊNCIA DA PENHORA PELA PARTE EMBARGADA. ART. 485, VI, DO CPC. EXTINÇÃO DA AÇÃO POR FATO SUPERVENIENTE. AUSÊNCIA DO INTERESSE PROCESSUAL CONSUBSTANCIADO NO BINÔMIO NECESSIDADE/UTILIDADE. PRINCÍPIO DA CAUSALIDADE. ART. 90 DO CPC. HONORÁRIOS RECURSAIS.
+APELAÇÃO DESPROVIDA. UNÂNIME." (Fl. 185).
+Nas razões do recurso especial, a parte recorrente alega ofensa ao art. 90 do Código de Processo Civil e divergência jurisprudencial, sustentando, em síntese, que a condenação às verbas sucumbenciais deve ser invertida, pois "em virtude da ausência de legitimidade e interesse de agir, os embargos foram propostos de forma infundada, de modo que quem deu causa ao manejo indevido foi o próprio recorrido, atraindo para si os encargos sucumbenciais." (Fl. 198). Também afirma que a penhora é um procedimento processual legítimo que visa garantir a satisfação do crédito em execução, sem comprometer os direitos do credor hipotecário.
+Contrarrazões às fls. 228-234.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Na hipótese, os embargos de terceiro foram extintos sem resolução de mérito devido à desistência do gravame pela parte embargada/exequente após a citação. Como consequência, a embargada foi condenada ao pagamento das custas processuais e dos honorários advocatícios.
+O Tribunal de origem confirmou a condenação da embargada ao pagamento dos ônus sucumbenciais, fundamentando-se no princípio da causalidade. A Corte a quo consignou que a desistência da penhora, após a oposição dos embargos de terceiro, eliminou o interesse de agir na relação processual, in verbis:
+"Extrai-se dos autos que o Banco do Estado do Rio Grande do Sul apresentou embargos de terceiros em 04.04.2023, com base nos artigos 674 e 675, ambos do Código de Processo Civil, em razão da penhora realizada nos autos da ação de execução nº 5000001-73.2018.8.21.0141 proposta por ZONA NOVA CENTER CONSTRUÇÃO E DECORAÇÃO LTDA. em face de OHR EMPREENDIMENTO IMOBILIARIO LTDA, sobre as unidades imobiliárias 92.520 e 92.251, do Registro de Imóveis de Canoas, consistentes nas casas 01 e 02 localizadas no condomínio horizontal de residências Atlantis (Pateo Marbella), situado em Xangri-lá/RS. Para tanto, referiu que a parte executada, OHR EMPREENDIMENTO IMOBILIARIO LTDA e o BANRISUL firmaram contrato de financiamento para a construção das unidades, com garantia hipotecária, na data de 08.04.2014 (evento 1).
+A parte embargada apresentou contestação e informou a desistência da penhora sobre os imóveis manifestada nos autos da execução (evento 16).
+Nesse cenário, o juízo de origem julgou extinto os embargos de terceiro por perda do objeto por fato superveniente, no caso, a desistência da penhora por parte da embargada.
+Descabe acolher a pretensão da parte apelante quanto a solução da lide.
+A desistência da penhora por parte da embargante afasta o interesse de agir na relação processual sub judice, esvaziando o binômio utilidade e necessidade do pronunciamento judicial.
+(..)
+Efetivamente que a parte embargante havia interesse na prestação jurisdicional quando da oposição dos embargos de terceiros (04.04.2023), entretanto, em razão de fato superveniente, desistência da penhora pela parte embargada, informada nos autos em 27.05.2023, houve a perda do objeto, impondo-se sua extinção sem resolução do mérito.
+Nesse cenário, incumbe à parte embargada arcar com os ônus da sucumbência, posto que deu causa ao ajuizamento dos embargos de terceiros, que restaram extintos em razão da desistência da penhora.
+Com efeito, quem deu causa ao ajuizamento da ação que restou extinta em razão da desistência, deve arcar com as despesas processuais, consoante art. 90 do Código de Processo Civil: (..)" (Fls. 182-183, g.n.).
+Conforme firme jurisprudência da Corte Superior, na hipótese de extinção da ação por falta de interesse processual decorrente da perda superveniente do objeto, há que se considera, na fixação da verba honorária, a incidência do princípio da causalidade.
+Na hipótese dos autos, a perda superveniente do objeto e a extinção dos embargos de terceiro ocorreram após a angularização processual, em decorrência da desistência do gravame pela parte agravada.
+Nesse contexto, a condenação da embargante ao pagamento de honorários de sucumbência revela-se acertada, tendo em vista o princípio da causalidade. Nesse sentido:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO, ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. DESISTÊNCIA DA PENHORA. RESPONSABILIDADE DA PARTE QUE DEU CAUSA AO PROCESSO. AUSÊNCIA DE CITAÇÃO NA AÇÃO DE EMBARGOS DE TERCEIRO. ÔNUS SUCUMBENCIAIS AFASTADOS.
+1. Embargos de terceiro, ajuizado em 10/12/2019, da qual foi extraído o presente recurso especial, interposto em 1/4/2022 e concluso ao gabinete em 29/1/2024.
+2. O propósito recursal consiste em determinar quem deve arcar com os ônus sucumbenciais na hipótese de perda do objeto de embargos de terceiro em virtude da desistência de penhora nos autos principais.
+3. A condenação ao pagamento de honorários advocatícios é uma consequência objetiva da extinção do processo, sendo orientada, em caráter principal, pelo princípio da sucumbência e, subsidiariamente, pelo da causalidade.
+4. O §10 do art. 85 do CPC/2015, concretizando o princípio da causalidade, preceitua que, na hipótese de perda do objeto, os honorários serão devidos por quem deu causa ao processo.
+5. Se os pedidos formulados nos embargos de terceiro forem julgados improcedentes, responde o embargante pelos ônus sucumbenciais em virtude do princípio da sucumbência.
+6. Se os pedidos formulados nos embargos de terceiro forem julgados procedentes, a situação é diversa, devendo o intérprete analisar cada hipótese concreta sob a ótica do princípio da causalidade, em virtude da insuficiência do princípio da sucumbência.
+7. Na hipótese de perda superveniente do objeto de embargos de terceiro em razão de pedido de desistência de penhora formulado nos autos principais, os ônus sucumbenciais devem ser suportados pela parte que deu causa ao processo, em atenção ao princípio da causalidade.
+8. A hipótese em julgamento possui peculiaridade que deve ser considerada, pois, na espécie, não houve a citação da parte embargada nos autos dos embargos de terceiro, não tendo se angularizado a relação jurídica processual, motivo pelo qual não se revela razoável imputar à embargada o dever de arcar com os ônus sucumbenciais de processo do qual sequer era parte. Por outro lado, tampouco revela-se razoável imputar a referida obrigação à parte embargante, vítima de aprisionamento material indevido de seu patrimônio, se por um comportamento seu não deu causa à constrição indevida.
+9. Se a desistência da penhora ocorrer antes da citação da parte embargada, o processo deve ser extinto sem resolução de mérito em virtude da perda superveniente do objeto, mas sem qualquer condenação em ônus sucumbenciais.
+10. Na hipótese dos autos, merece reforma o acórdão recorrido, pois os embargos de terceiro devem ser extintos em virtude da perda do objeto, mas sem qualquer condenação em ônus sucumbenciais.
+11. Recurso especial parcialmente provido tão somente para afastar a condenação do embargante, ora recorrente, ao pagamento das custas processuais."
+(REsp n. 2.129.984/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/8/2024, DJe de 29/8/2024)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor da parte contrária no importe de 10% sobre o valor já arbitrado nas instâncias ordinárias.
+Publique-se.
+EMENTA
