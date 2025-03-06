@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL - SENAI, pedindo integração quanto ao fato de o tema relacionado à legitimidade ativa ad causam ter sido submetido à julgamento, na sistemática dos recursos repetitivos (EREsp 1997816/RJ e EREsp 1793915/RJ - TEMA 1275).
+Impugnação apresentada pela parte embargada.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Entretanto, o recurso integrativo também tem sido admitido para a determinação de sobrestamento do feito na instância de origem, na hipótese em que o tema recursal estiver submetido a julgamento na sistemática dos recursos repetitivos, com o fim de oportunizar o juízo de conformação, nos termos dos arts. 1.039 e 1.040 do Código de Processo Civil - CPC/2015.
+Considerado o cabimento dos embargos declaratórios, deve-se observar que a Primeira Seção deste Tribunal Superior decidiu afetar o EREsp 1997816/RJ e o EREsp 1793915/RJ à sistemática dos recursos repetitivos com o fim de apreciar o tema referente à legitimidade ativa do Serviço Nacional de Aprendizagem Industrial - SENAI para a constituição e cobrança de contribuição, cuja respectiva receita lhe é destinada, e do respectivo adicional (contribuição de intervenção no domínio econômico).
+Nesse contexto, os autos devem retornar ao Tribunal Regional Federal para que o recurso fique sobrestado até o exercício do juízo de conformação com a tese a ser definida nos precedentes qualificados.
+Ante o exposto, acolho os embargos de declaração para tornar sem efeito a decisão embargada; e determino a devolução dos autos ao Tribunal Regional Federal, com a respectiva baixa, para que, após o exercício do juízo de conformação com a tese definida pela Primeira Seção deste Tribunal Superior, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Fica prejudicado o recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TEMA A SER APRECIADO NA SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM. EMBARGOS ACOLHIDOS.
