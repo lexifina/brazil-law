@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FABRÍCIO BEZERRA DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo de Execução Penal n. 0021633-07.2024.8.26.0041.
+Consta dos autos que o paciente foi condenado pela prática do delito tipificado no art. 147, caput, c/c o art. 61, II, f, do Código Penal, à pena de 1 (um) mês e 5 (cinco) dias de detenção, em regime inicial semiaberto.
+Extrai-se, ainda, dos autos, que o Juízo das Execuções determinou a expedição de mandado de prisão sem a intimação prévia do paciente para que se apresentasse e desse início ao cumprimento da pena no regime semiaberto.
+Irresignada, a Defesa interpôs agravo de execução penal, porém o Tribunal de origem negou provimento ao recurso e manteve a decisão de origem, nos termos do acórdão que restou assim ementado (fl. 7):
+"EMENTA: DIREITO PENAL. AGRAVO EM EXECUÇÃO PENAL. EXECUÇÃO DA PENA. RECURSO DESPROVIDO.
+I. Caso em Exame:
+1. Agravo em execução penal interposto por Fabricio Bezerra dos Santos contra decisão que determinou a expedição de mandado de prisão para cumprimento de pena em regime semiaberto. O agravante busca a reforma da decisão para que seja previamente intimado, conforme Resolução 417 do CNJ, antes do início do cumprimento da pena.
+II. Questão em Discussão:
+2. A questão em discussão consiste em determinar se é necessária a intimação prévia do sentenciado para o cumprimento da pena em regime semiaberto, quando há confirmação de vaga no estabelecimento prisional adequado.
+III. Razões de Decidir:
+3. O juízo de primeira instância verificou a existência de vaga no regime semiaberto, conforme o "Comunicado CG nº 628/2022", dispensando a intimação prévia.
+4. Jurisprudência da Câmara entende pela desnecessidade de intimação prévia quando há confirmação de vaga, não configurando constrangimento ilegal.
+IV. Dispositivo e Tese:
+5. Recurso desprovido. Tese de julgamento: 1. A intimação prévia do sentenciado não é necessária quando há confirmação de vaga no regime semiaberto. 2. A decisão agravada adotou todas as providências acautelatórias necessárias. Jurisprudência Citada: TJSP, Habeas Corpus nº 2208680-53.2023.8.26.0000, Rel. Des. Cesar Augusto Andrade de Castro, j. 12.09.2023; TJSP, Habeas Corpus nº 2192180-09.2023.8.26.0000, Rel. Des. Fátima Gomes, j. 31.08.2023. "
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto, ao manter a decisão do Juízo de primeiro grau, o Tribunal de origem deixou de cumprir os requisitos da Resolução n. 474/2022 do CNJ, que exige a designação de audiência admonitória para condenados em regime semiaberto e aberto, conforme a Súmula Vinculante n. 56 do STF.
+Requer, assim, liminarmente e no mérito, a suspensão dos efeitos do mandado de prisão e a a intimação pessoal do paciente para início do cumprimento da pena.
+A liminar foi indeferida (fls. 24/25).
+Informações prestadas pelo Juízo de primeiro grau (fls. 29/30) e pela autoridade coatora (fls. 34/35).
+Parecer do Ministério Público Federal pela concessão da ordem, de ofício, para determinar o recolhimento do mandado de prisão expedido e a intimação do paciente para dar início ao cumprimento da pena (fls. 51/57).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+O paciente sustenta a ocorrência de constrangimento ilegal, pois foi determinada a expedição de mandado de prisão para que se apresentasse e desse início ao cumprimento da pena no regime semiaberto sem a sua prévia intimação, contrariando o que dispõe a Resolução n. 474/2022 do Conselho Nacional de Justiça.
+Com efeito, após a Resolução n. 474, de 9/9/2022, do Conselho Nacional de Justiça - CNJ, o art. 23 da Resolução 417 do CNJ passou a ter a seguinte redação:
+"Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante nº 56."
+Desse modo, observando-se a orientação do CNJ, deve ser determinada, antes da expedição de mandado de prisão, a prévia intimação do apenado condenado em regime semiaberto.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO. REGIME SEMIABERTO. RESOLUÇÃO N. 417/2021. INOBSERVÂNCIA. AGRAVO REGIMENTAL PROVIDO.
+1. O Conselho Nacional de Justiça estabeleceu que, uma vez transitada em julgado a condenação em regime semiaberto ou aberto, o sentenciado será intimado para recolhimento espontâneo, previamente à expedição de mandado de prisão, sem prejuízo, em caso de falta de vagas, da observância das providências estabelecidas no RE 641.320/RS.
+2 Ao interpretar a Resolução n. 417/2021 do CNJ, o julgador precisa ter cuidado para não criar brechas que possibilitem resistência à execução. Em hipótese de apenado em local incerto, será necessária a determinação da prisão (conforme o art. 674 do CPP e o art. 105 da LEP) para evitar a prescrição e garantir a efetividade da sentença.
+3. A afirmação de vagas pelo Juiz da VEC não afasta a necessidade de intimação do condenado para dar início à execução, pois a lotação das unidades prisionais é dinâmica e não há registro de mudança de endereço, sem prévia comunicação ao juízo.
+4. Agravo regimental provido para determinar o recolhimento do mandado de prisão, não cumprido, para observância do art. 23, da Resolução n. 417/2021, sem prejuízo de: a) nova expedição da ordem na hipótese de inexistência de endereço atualizado nos autos para intimação e b) de manutenção do encarceramento se o condenado já estiver alojado em estabelecimento penal compatível com o regime semiaberto.
+(AgRg no HC n. 890.182/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECONSIDERAÇÃO. CONDENAÇÃO EM REGIME INICIAL SEMIABERTO. EXPEDIÇÃO DE MANDADO DE PRISÃO. RESOLUÇÃO 474/CNJ. NECESSIDADE DE INTIMAÇÃO PRÉVIA DO APENADO APÓS EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA.
+Agravo regimental provido. Concedida a ordem para determinar o recolhimento do mandado de prisão expedido, determinando ao Juízo das execuções que proceda à prévia intimação do apenado para dar início ao cumprimento de sua pena no regime semiaberto.
+(AgRg no HC n. 892.741/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 18/4/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO DEFINITIVA POR RECEPTAÇÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. EXPEDIÇÃO DE MANDADO DE PRISÃO PARA INÍCIO DO CUMPRIMENTO DA PENA. PEDIDO DE PRISÃO DOMICILIAR. MATÉRIAS NÃO DISCUTIDAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONDENAÇÃO TRANSITADA EM JULGADO ANTES DA PUBLICAÇÃO DA RESOLUÇÃO N. 474/2022 DO CNJ. SÚMULA 182/STJ. AGRAVO DESPROVIDO COM RECOMENDAÇÃO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - O art. 674 do CPP e o art. 105 da LEP são expressos no sentido de que a guia de recolhimento para a execução penal somente será expedida após o trânsito em julgado da sentença que aplicar pena privativa de liberdade. Nesse compasso, insta consignar que o processo de execução penal definitiva, como regra geral, só terá início com a autuação e registro da guia de recolhimento.
+III - Convém registrar que, após a edição da Resolução n. 474/2002 do Conselho Nacional de Justiça, a Quinta e Sexta Turmas desta Corte, em alteração de entendimento anteriormente sedimentado, passaram a admitir a intimação do condenado a cumprir pena em regime inicial aberto ou semiaberto, para que dê início ao cumprimento da pena sem que necessariamente seja expedido e cumprido o mandado de prisão.
+IV - No caso dos autos, a condenação transitou em julgado na data de 26/03/2019 (fl. 55), portanto, em data anterior à vigência da Resolução 474/2022 do CNJ, publicada no DJe de 12/09/2022, razão pela qual a instância originária sequer analisou a possibilidade de sua aplicação, como se extrai do ato indigitado de coator (HC n. 2058857-39.2022.8.26.0000, julgado em 10/05/2022 - fls. 53-60) ou mesmo a possibilidade de concessão de qualquer benefício (como prisão domiciliar), objetos da presente impetração, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.
+Precedentes.
+V - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior.
+Agravo regimental desprovido, com recomendação de intimação do condenado, nos termos da Resolução n. 474/2002 do Conselho Nacional de Justiça, caso o mandado de prisão ainda não tenha sido cumprido.
+(AgRg no HC n. 742.084/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 6/11/2023.)
+PENAL. EXECUÇÃO PENAL. HABEAS CORPUS. CONDENAÇÃO EM REGIME INICIAL SEMIABERTO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA CONDICIONADA AO CUMPRIMENTO DO MANDADO PRISIONAL. ART. 105 DA LEP. MITIGAÇÃO.
+ADVENTO DA RESOLUÇÃO N. 474/CNJ. INTIMAÇÃO PRÉVIA. ORDEM CONCEDIDA.
+1. O entendimento por muito tempo sedimentado do Superior Tribunal de Justiça, nos termos do art. 105 da Lei de Execução Penal, indicava que a expedição de guia de execução definitiva dependia do prévio recolhimento do apenado ao cárcere. Admitindo-se, contudo, exceções em casos pontuais.
+2. Com a alteração do art. 23 da Resolução n. 417/CNJ, promovida pela Resolução n. 474 do mesmo órgão, passou-se a mitigar a imposição do art. 105 da LEP para os casos nos quais o regime inicial for o intermediário ou o aberto.
+3. Tratando-se de paciente condenado à pena de 2 anos e 8 meses de reclusão em regime inicial semiaberto e diante da nova resolução do Conselho Nacional de Justiça, deve ser expedida intimação para início de cumprimento da pena, não havendo necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada.
+4. Ordem concedida para determinar, com fulcro na Resolução n. 474 do Conselho Nacional de Justiça, o recolhimento do mandado de prisão expedido, determinando ainda ao Juízo das Execuções que proceda à intimação do apenado para dar início ao cumprimento de sua pena. (HC n. 757.739/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 11/11/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME MENOS GRAVOSO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. GUIA DE RECOLHIMENTO. EXPEDIÇÃO. MANDADO DE PRISÃO PENDENTE. RESOLUÇÃO N. 474 CONSELHO NACIONAL DE JUSTIÇA - CNJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL PROVIDO.
+1. O Tribunal de origem não examinou os requisitos legais para a concessão de benefícios prisionais. Tal circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+2. Esta Corte já vinha admitindo a expedição da guia de recolhimento, antes do cumprimento do mandado prisional, todavia em casos específicos e excepcionais, em situações nas quais a prisão do sentenciado possa vir a ser excessivamente gravosa, o que não é a hipótese dos autos.
+3. Após a Resolução N. 474, de 9/9/2022, do Conselho Nacional de Justiça, houve modificação do art. 23 da Resolução 417 do CNJ, que passou a ter a seguinte redação: "Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante nº 56".
+4. Deve ser recolhido o mandado de prisão, caso ainda esteja em aberto, devendo ser observada a nova orientação do CNJ, com a prévia intimação do apenado condenado em regime semiaberto antes da expedição do mandado de prisão.
+5. Agravo regimental provido.
+(AgRg no HC n. 796.267/SP, de minha Relatoria, Quinta Turma, DJe de 25/4/2023; sem grifos no original.)
+Destarte, evidenciado o constrangimento ilegal, uma vez que o paciente, em razão do mandado de prisão expedido em desacordo com a Resolução n. 474/CNJ, corre risco iminente de ser preso em regime prisional mais gravoso do que o fixado no édito condenatório.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus, mas concedo a ordem, de ofício, para determinar que o apenado seja intimado antes da expedição do mandado de prisão, nos termos da Resolução n. 474/CNJ, caso a ordem de prisão ainda não tenha sido cumprida.
+Publique-se.
+Intimem-se.
+ EMENTA
