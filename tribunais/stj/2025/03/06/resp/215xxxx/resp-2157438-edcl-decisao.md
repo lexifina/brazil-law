@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HERNANI PAULINO DUTRA à decisão de fls. 598/599, de minha relatoria, que determinou a devolução dos autos à origem para que o processo permanecesse suspenso até o julgamento definitivo do Tema 1.124 pelo Superior Tribunal de Justiça (STJ).
+Nas razões de seus embargos de declaração, a parte embargante alega omissão e contradição no julgado uma vez que (fls. 603/604):
+1. A controvérsia posta nos autos trata de pedido de revisão de benefício previdenciário, fundamentado em documentos apresentados e analisados na esfera administrativa, conforme destacado no acórdão do Tribunal Regional Federal da 2ª Região.
+2. A decisão embargada determinou a suspensão do feito, sob a alegação de que a matéria se encontra submetida ao julgamento do Tema 1124, que versa sobre:
+"Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS."
+3. Contudo, a decisão de admissibilidade do recurso especial, ao contrário do que constou na decisão ora embargada, já havia reconhecido expressamente que o caso não se enquadra na hipótese do Tema 1124, conforme se demonstrará.
+Requer que os embargos sejam acolhidos "para sanar as omissões e contradições apontadas, reconhecendo-se que o Tema 1124 não é aplicável ao presente caso. A atribuição de efeitos infringentes aos embargos, para afastar a suspensão dos autos e permitir o regular prosseguimento do feito. Caso assim não entenda este Egrégio Tribunal, requer-se que a matéria seja devidamente esclarecida, de forma a evitar prejuízo à parte embargante e garantir a correta aplicação do direito" (fl. 606).
+Não houve impugnação ao recurso (fl. 615).
+É o relatório.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+A parte alega omissão e contradição no julgado ao argumento de que "ao desconsiderar o afastamento expresso do Tema 1124 na decisão de admissibilidade e no acórdão regional, a decisão embargada incorreu em contradição, já que aplicou ao caso um tema que não é pertinente à controvérsia dos autos" (fl. 605).
+Não há que se falar em contradição na decisão embargada.
+De início, cabe registrar que, conforme entendimento do Superior Tribunal de Justiça (STJ), o juízo de admissibilidade realizado pelo Tribunal de origem não vincula esta Corte Superior, a quem compete nova apreciação dos pressupostos do recurso a ela remetido.
+O recurso especial interposto pelo INSS (fls. 515/521) versa sobre "IMPOSSIBILIDADE DE RECONHECIMENTO DE TEMPO ESPECIAL COM BASE EM DOCUMENTO JUNTADO PELO SEGURADO APENAS EM JUÍZO" (fl. 515). Dessa forma, havendo o reconhecimento nas razões do recurso de questão abrangida pelo Tema Repetitivo, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma
+No caso dos autos, a decisão embargada determinou a devolução dos autos porquanto a questão debatida no feito - "caso superada a ausência do interesse de agir, definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS, se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária" - encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento dos REsps 1.905.830/SP, 1.912.784/SP e 1.913.152/SP, de relatoria da Ministra Maria Thereza de Assis Moura, sob o rito dos recursos repetitivos (Tema 1.124/STJ).
+Ademais, consoante entendimento consolidado nesta Corte, a decisão de sobrestamento, com determinação de retorno dos autos ao Tribunal de origem a fim de que lá seja exercido o juízo de conformidade (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, sendo, portanto, irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não é o caso dos autos.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. TEMA AFETADO E JULGADO EM SEDE DE RECURSO REPETITIVO PELO STJ. CASO DOS AUTOS. PERTINÊNCIA TEMÁTICA. DEVOLUÇÃO DO FEITO AO TRIBUNAL A QUO PARA FINS DE JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTES.
+1. O ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.030, I, b, II, 1.040 e 1.041 do CPC/2015), não possui carga decisória e, por isso, trata-se de provimento irrecorrível. Precedentes.
+2. Agravo interno não conhecido. (AgInt no AREsp n. 1.227.445/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TEMA COM REPERCUSSÃO GERAL RECONHECIDA PELO STF. DEVOLUÇÃO DO FEITO AO TRIBUNAL A QUO PARA FINS DE JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTES.
+1. O ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória e não acarreta prejuízo às partes, por isso, se trata de provimento irrecorrível. Precedentes.
+2. Agravo interno não conhecido.
+(AgInt no REsp n. 1.615.887/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/2/2019, DJe de 12/2/2019.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
+EMENTA
