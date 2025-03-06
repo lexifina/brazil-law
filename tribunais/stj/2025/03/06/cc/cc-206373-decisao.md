@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido de liminar, apresentado por GOLD BLUE EMPREENDIMENTOS IMOBILIARIOS SPE LTDA., GOLDFARB INCORPORACOES E CONSTRUCOES LTDA. e PDG REALTY S.A. EMPREENDIMENTOS E PARTICIPACOES em que apontam como suscitados o JUÍZO DE DIREITO DA 1A VARA DE FALENCIAS E RECUPERAÇÕES JUDICIAIS E CONFLITOS RELACIONADOS A ARBITRAGEM DO FORO CENTRAL DE SÃO PAULO - SP e o JUÍZO DE DIREITO DA 7A VARA CÍVEL DE GOIÂNIA - GO.
+Em suas razões, as partes suscitantes defendem que (fls. 4-14):
+Visa a Suscitante obter, liminarmente e em definitivo, o conhecimento do presente Conflito de Competência, para que esta Egrégia Corte Superior declare e determine que o MM. Juízo da 1ª Vara de Falências e Recuperações Judiciais e Conflitos Relacionados à Arbitragem do Foro Central da Comarca da Capital do Estado de São Paulo é o único competente para decidir sobre o prosseguimento das diversas ações sujeitas ao processo de Recuperação Judicial, e que são movidas em face da Suscitante e do Grupo PDG, nos específicos termos do artigo 52, inc. III, da Lei nº 11.101/2005.
+ ..
+Pois bem. Há de esclarecer que perante o 2º Suscitado tramita a ação de rescisão contratual compedido de indenização por danos materiais e morais promovida por Cicero Ferreira De Lima Filho E Evanilde De Jesus Ferreira, em face das suscitantes, cujo crédito possui o fato gerador constituído em data anterior àquela em que se apresentou judicialmente o pedido de soerguimento(março de 2012-data do fato gerador), de modo que se submete ao quanto previsto no art. 49 da Lei nº 11.101/2005.
+ ..
+Nobres Julgadores, o D. Juízo da 7ª Vara Cível da Comarca de Goiânia do Estado de Goiás -GO, após ser cientificado expressamente nos aludidos autos da execução de título judicial do plano recuperatório, do qual faz parte a Suscitante, entendeu por deferir a pesquisa SISBAJUD, com base nos cálculos apresentados pelos Suscitados, o que por sua vez, gerou o ora suscitado CONFLITO DE COMPETÊNCIA POSITIVO. Vejamos a decisão conflitante:
+ ..
+Fato é que a decisão ensejadora do desacertado prosseguimento de atos executórios do 2º Suscitado fora proferida por juízo absolutamente incompetente, em afronta à COMPETÊNCIA ABSOLUTA DO JUÍZO UNIVERSAL, ora 1º Suscitado.
+Por meio da decisão de fls. 106-109, deferi o pedido de liminar para suspender, até a definitiva solução do presente conflito, os atos executórios promovidos contra o patrimônio das empresas suscitantes, bem como designei o JUIZO DE DIREITO DA 1A VARA DE FALENCIAS E RECUPERAÇÕES JUDICIAIS E CONFLITOS RELACIONADOS A ARBITRAGEM DO FORO CENTRAL DE SÃO PAULO - SP para decidir acerca das medidas urgentes.
+Informações prestadas pelo JUÍZO DE DIREITO DA 1A VARA DE FALENCIAS E RECUPERAÇÕES JUDICIAIS E CONFLITOS RELACIONADOS A ARBITRAGEM DO FORO CENTRAL DE SÃO PAULO - SP às fls. 114-119.
+Informações prestadas pelo JUÍZO DE DIREITO DA 7A VARA CÍVEL DE GOIÂNIA - GO às fls. 712-716.
+Parecer do MPF, às fls. 718-723, opinando pela competência do JUÍZO DE DIREITO DA 1A VARA DE FALENCIAS E RECUPERAÇÕES JUDICIAIS E CONFLITOS RELACIONADOS A ARBITRAGEM DO FORO CENTRAL DE SÃO PAULO - SP.
+É, no essencial, o relatório.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, sob a égide tanto do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal.
+Nesse contexto, ressalta-se que esta Corte Superior também tem se manifestado no sentido de que, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do Juízo da Recuperação Judicial para decidir sobre o patrimônio da empresa.
+Na espécie, verifica-se que o JUÍZO DE DIREITO DA 7A VARA CÍVEL DE GOIÂNIA - GO determinou a penhora de bens das empresas recuperandas (fl. 101), violando, assim, a competência do Juízo recuperacional.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 1A VARA DE FALENCIAS E RECUPERAÇÕES JUDICIAIS E CONFLITOS RELACIONADOS A ARBITRAGEM DO FORO CENTRAL DE SÃO PAULO - SP para quaisquer exames relativos a pagamento de débitos das suscitantes e constrição dos seus patrimônios.
+Os valores eventualmente constritos pelo JUÍZO DE DIREITO DA 7A VARA CÍVEL DE GOIÂNIA - GO deverão ser colocados à disposição do Juízo da Recuperação Judicial, a quem competirá analisar eventuais pedidos de levantamento.
+Comunique-se aos juízos suscitados acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO. INVASÃO DE COMPETÊNCIA DO JUÍZO RECUPERACIONAL. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DA RECUPERAÇÃO JUDICIAL.
