@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Andréa Maria Bastos Junqueira Barreira com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 55):
+Agravo de Instrumento. Cumprimento de sentença. Valor das diárias. Sentença condenou a ré ao pagamento das diárias não quitadas, tomando-se por base o mês de cada pagamento. Exequente utilizou somente o valor da diária atualizado para março de 2016. Decisão mantida. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 67-72).
+Nas razões do recurso especial (e-STJ, fls. 77-87), o recorrente apontou, além de dissídio jurisprudencial, a violação aos arts. 503, 505, 506, 507, 508 e 509, § 4º, do Código de Processo Civil de 2015; e 6º, § 3º, da Lei de Introdução às Normas do Direito Brasileiro.
+Sustentou, em síntese, que o acórdão recorrido não observou o cumprimento da decisão judicial transitada em julgado estampada no título executivo judicial, alterando a base de cálculo estipulada na sentença, relativo à utilização do valor de diárias.
+Ponderou que o Tribunal de origem alterou o critério de liquidação das diárias fixadas no título executivo judicial, "ao estabelecer que as mesmas deverão ser calculadas tomando-se por base não mais o "salário vigente na época do pagamento", mas sim os valores das diárias, devidamente corrigidas a partir das respectivas datas que deveriam ter sido pagas", o que configura ofensa à coisa julgada (e-STJ, fl. 84).
+Postulou, ao final, a reforma do acórdão recorrido, a fim de "reconhecer e determinar que no cálculo das diárias seja adotado como base o "salário vigente na época do pagamento", nos exatos termos do título executivo transitado em julgado" (e-STJ, fls. 86-87).
+As contrarrazões foram apresentadas às fls. 91-93 (e-STJ).
+O recurso especial não foi admitido pela Corte originária, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Na origem, versam os autos sobre ação de cobrança de diárias de Membro do Ministério Público de São Paulo, ora em fase de execução.
+Preliminarmente, quanto ao art. 6º, § 3º, da LINDB, nota-se que, não obstante a oposição dos embargos declaratórios, a Corte de origem não enfrentou a questão, deixando de cumprir o requisito indispensável do prequestionamento.
+Em verdade, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, e o seu descumprimento obsta o conhecimento do recurso especial pela incidência da Súmula n. 211/STJ.
+Ilustrativamente (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRECATÓRIO. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. RESOLUÇÃO DO CNJ. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. PROVIMENTO NEGADO.
+1. Verifica-se que inexiste a alegada violação do art. 489 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia.
+Ressalta-se que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+2. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça (STJ).
+3. Consoante orientação do Superior Tribunal de Justiça, "a interpretação das pretensões levadas a juízo demanda análise lógico-sistêmica das manifestações das partes. A identificação pelo julgador de pedidos, ainda que implícitos, nas petições não enseja violação ao princípio da adstrição ou congruência" (AREsp 1.945.714/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/5/2022, DJe de 20/6/2022).
+4. "Incabível a indicação de ofensa a dispositivo inserto em portaria ou resolução, porquanto tais regramentos não se caracterizam como "lei federal", a teor do disposto do art. 105, III, da Constituição Federal" (AgInt no REsp 2.051.285/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.896.528/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+Ao analisar a situação jurídica dos autos, o TJSP declinou a seguinte fundamentação para desprover o agravo de instrumento (e-STJ, fls. 55-56, sem grifos no original ):
+O Estado foi condenado ao pagamento das diárias não quitadas, tomando-se por base o mês de cada pagamento (fls. 61/66 dos autos da origem). Dessa forma, conforme cuidou de pontuar o ínclito Juízo singular, na decisão agravada, devem ser considerados os valores das diárias, devidamente corrigidas a partir das respectivas datas que deveriam ter sido pagas e aplicando-se os juros de mora a partir da data de citação.
+Se o título executivo determinou que as diferenças referentes às diárias vencidas deveriam ser corrigidas monetariamente a partir da data em que ocorreu o pagamento a menor (fls. 65 dos autos de origem), então ele considerou tanto o salário vigente na época do pagamento quanto as datas em que os pagamentos deveriam ter sido efetuados.
+Dessa forma, de rigor a manutenção da decisão agravada. Pelo exposto, nego provimento ao recurso.
+Nesse contexto, a revisão das conclusões alcançadas na origem quanto ao critério de cálculo das diárias estabelecido no título executivo demandaria o reexame do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DIÁRIAS. ART. 6º, §3º, DA LINDB. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. CRITÉRIO DE CÁLCULO DAS DIÁRIAS. TÍTULO EXECUTIVO. REVISÃO DO JULGADO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
