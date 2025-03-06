@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  MARCONDES JACOMO - ESPÓLIO contra  a  decisão  que  inadmitiu  o  recurso  especial.
+ O  apelo  extremo,  com  fundamento  no  art.  105,  III,  alíneas  "a" e "c",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  do Tocantins  assim  ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ILEGITIMIDADE DO APELANTE AFASTADA. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. DANO MATERIAL. RECOMPOSIÇÃO. POSSIBILIDADE. DANO MORAL. PRESENÇA. QUANTUM INDENIZATÓRIO. CRITÉRIOS DE FIXAÇÃO OBSERVÂNCIA. SENTENÇA MANTIDA. APELO IMPROVIDO.
+1- Sabe-se que tem legitimidade para figurar no polo passivo da demanda aquele que faz parte da relação jurídica de direito material deduzida no processo. Embora a inventariante do requerido afirme que ele não tinha conhecimento tecnológico e não sabia peticionar eletronicamente, não há nenhuma prova nos autos que confirme tal alegação. Por outro lado, consta nos processos nºs 50182446920138272729, 50183130420138272729 e 50182420220138272729, que o ajuizamento se deu por Marcondes. Além disso, o nome deste patrono consta na procuração assinada pelos autores. 2- No caso em testilha, almeja a parte autora uma indenização por danos morais e materiais sob o argumento de que teria sofrido prejuízos financeiros em razão dos advogados contratados não terem dado andamento às ações peticionadas.
+3- Os autores comprovam os fatos constitutivos de seu direito, pois foram juntados dois comprovantes de transferência para a conta do requerido João Batista, nos valores de R$5.000,00 (evento 1, ANEXO9, p.3) e de R$6.600,00 (evento 1, ANEXO9, p.4).
+4- Além disso, constam os comprovantes de pagamentos das custas do TJGO e do TJTO (evento 1, ANEXO9, pp.10-11 e ANEXO11, p.3) e em consulta ao sistema e-proc foram encontrados os processos judiciais nº 50182446920138272729, 50183130420138272729 e 50182420220138272729 e 50149934320138272729, todos ajuizados pelo requerido Marcondes e sentenciados sem resolução de mérito após diversas intimações para comprovar o pagamento das despesas iniciais, sem resposta pelo patrono, o que deixa patente a desídia dos requeridos.
+5- Em casos desta natureza, recomenda-se que o julgador se paute pelo juízo da equidade, levando em conta as circunstâncias de cada caso, devendo o quantum da indenização corresponder à lesão e não a ela ser equivalente, porquanto impossível, materialmente, nesta seara, alcançar essa equivalência.
+6- Portanto, o ressarcimento pelo dano moral, decorrente de ato ilícito, é uma forma de compensar a dor causada e não deve ser usado como fonte de enriquecimento ou abusos.
+7- A sua fixação deve levar em conta o estado de quem o recebe e as condições de quem paga. Nesse sentido, entendo que o valor de R$ 5.000,00 (cinco mil reais) para cada um dos autores, é razoável para fazer jus às funções compensatórias e punitivas da indenização por dano moral, mostrando-se suficiente para proporcionar satisfação econômica na justa medida do abalo sofrido.
+8- Sentença mantida. Apelo improvido."  (e-STJ fls. 944/945)
+No  recurso  especial (e-STJ fls. 964/975),  além do dissídio interpretativo, o  recorrente  alega que "não há prova de que o valor de R$ 5.000,00 (evento 1, ANEXO9, p.3) e de R$ 6.600,00 (evento 1, ANEXO9, p.4) foram depositados em conta de MAR- CONDES ou em conta por ele indicado. Este sequer tinha conhecimento da realização dos depósitos pelo Recorridos" (e-STJ fl. 967).
+Oferecidas  as  contrarrazões (e-STJ fls. 999/1011),  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+DECIDO.
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não merece  prosperar .
+Com efeito, a deficiência na fundamentação recursal ficou evidenciada, visto que o recorrente não indicou especificamente quais os artigos de lei federal teriam sido contrariados pelo aresto recorrido, embora tenha se insurgido quanto à motivação da decisão, inviabilizando a compreensão da controvérsia posta nos autos.
+Consectariamente, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Além disso, se a divergência não é notória e as razões de recurso especial não trazem a indicação de dispositivo de lei federal, com demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. SÚMULA 284/STF. APLICAÇÃO ANALÓGICA. CABIMENTO. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL EM QUE SE FUNDA O RECURSO. SÚMULA 284/STF. FALTA DE APONTAMENTO DO DISPOSITIVO LEGAL VIOLADO OU OBJETO DE INTERPRETAÇÃO DISSONANTE. SÚMULA 284/STF. DIVERGÊNCIA NOTÓRIA. NÃO OCORRÊNCIA. DANOS MORAIS. EXORBITÂNCIA NÃO EVIDENCIADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É plenamente cabível a aplicação analógica, por esta Corte Superior, do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+2. A recorrente não indicou, no apelo especial, a alínea do dispositivo constitucional na qual se fundamenta o reclamo, circunstância que impede o seu conhecimento, segundo o teor do verbete sumular n. 284/STF.
+3. Para o cabimento do recurso especial, é imprescindível que sejam apontados, de forma clara, os preceitos legais objeto de ofensa ou interpretação dissentânea, sob pena de inadmissão. Incidência do enunciado n. 284 da Súmula da Suprema Corte.
+4. A divergência jurisprudencial apontada não é notória, razão pela qual não há falar em flexibilização da exigência de indicação do dispositivo legal objeto de interpretação dissonante.
+5. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que a alteração do valor estabelecido pelas instâncias ordinárias, a título de danos morais, só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo.
+6. No feito em análise, a quantia indenizatória não pode ser considerada exorbitante, de modo que a sua revisão demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do STJ.
+7. Agravo interno desprovido."
+(AgInt no AREsp 1.824.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/6/2021, DJe de 21/6/2021 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA. FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. FALTA. INDICAÇÃO.DISPOSITIVO. APONTADO. VIOLADO.
+1. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+2. Não sendo notória a divergência, e se nas razões de recurso especial não há indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+3. Agravo conhecido para não conhecer do recurso especial.
