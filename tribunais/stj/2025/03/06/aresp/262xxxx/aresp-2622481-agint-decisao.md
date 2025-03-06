@@ -1,0 +1,11 @@
+DECISÃO
+Em virtude das razões tecidas no agravo interno, reconsidero a decisão exarada pelo Ministro Presidente (fls. 594/595) e passo ao exame do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE HONORÁRIOS. MULTA CONTRATUAL. EMBARGOS À EXECUÇÃO RECEBIDOS SEM EFEITO SUSPENSIVO. AUSÊNCIA DE GARANTIA DO JUÍZO. SENTENÇA DE PROCEDÊNCIA DOS EMBARGOS E EXTINÇÃO DA EXECUÇÃO. MANUTENÇÃO. RECURSO CONHECIDO E NÃO PROVIDO. À UNANIMIDADE.
+A parte agravante sustenta que o acórdão estadual é omisso, e que "nos casos de procedência dos embargos à execução a extinção do feito executivo somente deve ocorrer após o trânsito em julgado da sentença de procedência dos embargos à execução" (fl. 490).
+Relativamente à alegada violação aos arts. 489, § 1º, IV, e 1.022, I, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Quanto ao mais, a insurgência encontra obstáculo no verbete sumular n. 284/STF, porque o art. 1.012 do CPC, citado como ofendido pela agravante, estabelece expressamente o efeito suspensivo que deve ser atribuído à apelação. Ocorre que a parte quer fazer estender esse feito após o julgamento da apelação, já em fase de recurso especial. A conclusão buscada pela embargante não decorre logicamente da legislação invocada como ofendida, o que dificulta a compreensão da controvérsia oferecida a debate no recurso especial.
+Finalmente, indefiro o pedido de expedição de alvará para levantamento de valores, requerido pela parte agravada (fls. 645/659) , eis que tal solicitação depende da averiguação de elementos de fato que devem ser verificados na instância de origem.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
