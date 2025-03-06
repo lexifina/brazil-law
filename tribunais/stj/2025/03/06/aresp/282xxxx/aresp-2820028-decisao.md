@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por THIAGO MACIEL NEIVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DE SUSTAÇÃO DE PROTESTO C.C. DANOS MORAIS - Sentença de improcedência- Recurso do autor - Irregularidade na representação processual - Ausência de tempestiva apresentação de instrumento procuratório, após concessão de prazo - Inteligência do art. 76, § 2º, I, do CPC - Não conhecimento do recurso que se impõe - Recurso do patrono da ré - Legitimidade concorrente do advogado para, em nome próprio, postular a alteração/majoração da verba honorária que lhe é de direito - Fixação dos honorários por equidade - Impossibilidade - Valor da causa que não constitui quantia irrisória a justificar a incidência do §8º do art. 85, do CPC - Tema 1076 do C. STJ - Sentença reformada neste ponto - RECURSO DO AUTOR NÃO CONHECIDO - RECURSO DO PATRONO DA RÉ PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 272, § 2º, e 274 do CPC, no que concerne à nulidade do feito diante da ausência de intimação em nome do advogado constituído nos autos, trazendo a seguinte argumentação:
+O v. ACÓRDÃO de fls. 754/759 não conheceu o recurso do Apelante, ora Recorrente, por não ter sido regularizada sua representação processual no sentido de não ter sido juntado aos autos a procuração assinada por este ao novo advogado constituído
+Ocorre que o Apelante, ora Recorrente, já havia constituído outro patrono nos autos, Dr. Fábio de Souza Ramos (OAB/SP nº 183.373), o qual requereu sua habilitação nos autos em 13.09.2023, conforme fls. 761:
+ ..
+Ou seja, mesmo com o pedido de habilitação nos autos pelo novo patrono, datada de 13.09.2023, a publicação do v. ACÓRDÃO, datada de 24.10.2023, ainda não constava o nome do novo patrono, ferindo, portanto, o disposto no artigo 274 do Código de Processo Civil, que prevê, "in verbis":
+ ..
+Ora, não havendo intimação em nome do novo advogado constituído nos autos, com procuração devidamente assinada pelo Recorrente, outorgando-lhe poderes ao patrono (fls. 761/762), há uma violação, além do artigo 274 do Código de Processo Civil, ao artigo 272, §2º do mesmo diploma legal, que assim prevê:
+ ..
+O parágrafo 2º do artigo 272 é expresso ao dizer que, não constando o nome dos advogados das partes em publicações, é passível de NULIDADE do ato processual, situação que se amolda ao presente caso, posto que causa uma grave violação e prejuízo ao contraditório e à ampla defesa, direitos fundamentais esculpidos pela Constituição Federal, em seu artigo 5º, inciso LV.
+ ..
+Assim, ante ao exposto, o v. ACÓRDÃO de fls. 754/759 deverá ser ANULADO, posto que encoberto por um vício ensejador de nulidade absoluta, qual seja, a não intimação em nome do novo patrono constituído nos autos, conforme procuração acostada nos autos às fls. 762, e segundo a inteligência dos artigos 272, §2º e 280, ambos do Código de Processo Civil/2015 (fls. 746/791).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a aprecia ção, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
