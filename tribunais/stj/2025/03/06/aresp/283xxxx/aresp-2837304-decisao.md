@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por THACIA DA SILVA COSTA contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 214):
+APELAÇÃO Ação de indenização por danos morais e material. Fraude em conta corrente. Operações não reconhecidas e contestadas perante a instituição financeira e sua plataforma digital. Decisão de procedência. Aplicação do CDC por hipossuficiência técnica. Culpa, existência de nexo causal. Ausência de comprovação da culpa exclusiva do consumidor. Má-prestação do serviço diante do excesso de número e valor das transações, além do perfil do cliente. Obrigação de indenizar pelos danos materiais devido a movimentação na conta da autora sem sua anuência, que consagra o dever de restituição. Sentença confirmada por seus próprios fundamentos nos termos do art. 252 do RITJSP. Desprovimento. Indenização por dano moral - Descabimento devido à culpa concorrente da autora para o evento danoso. Provimento. Recurso parcialmente provido.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 263-272).
+Nas razões do especial (e-STJ, fls. 223-230), a parte recorrente sustentou violação aos artigos 186, 927 e 944 do Código Civil, defendendo que a recorrida deve ser condenada ao pagamento de danos morais, ao argumento de que a fraude somente se concretizou por ausência dos cuidados e mecanismos de segurança que se esperam dos Bancos, em patente falha na prestação de seus serviços.
+Apontou, ainda, divergência jurisprudencial.
+Oferecidas as contrarrazões às fls. 276-279 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 280-282, e-STJ), o que ensejou o manejo do presente agravo (fls. 285-297, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 300-302 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. No caso, o Tribunal de origem, soberano na análise dos fatos e provas dos autos, manteve a sentença que reconheceu a responsabilidade da instituição financeira, mas afastou o direito à indenização por danos morais, nos seguintes termos (e-STJ, fl. 216):
+Nesse passo, deve o banco ser responsabilizado pela má prestação do serviço, sendo de rigor a manutenção da indenização por dano material.
+Já no tocante ao dano moral, cabe frisar que, no caso em tela, a autora foi negligente e imprudente, em contato telefônico recebido quando terceiros se passaram por funcionários do banco, e realizou os comandos solicitados, sem nenhuma averiguação junto ao gerente, contribuindo e também concorrendo para o golpe de terceiros, apesar da ampla publicidade de alerta contra tais golpes. Nesse passo, descabe fixação de indenização por dano moral, devido a culpa concorrente da autora para o golpe, já que a falha na prestação do serviço, por si só, não gera presunção de dano moral. Ademais, não há provas de que seu nome tenha sido inserido em cadastro de órgão de proteção ao crédito. Imperioso destacar que houve fraude por terceiros, com concorrência de ambas as partes para o prejuízo em tela.
+Como se vê, o Tribunal estadual afastou os danos morais ante o reconhecimento de que a autora não tomou as cautelas possíveis para evitar o dano alegado e forneceu os dados para que os estelionatários acessassem sua conta via aplicativo e realizassem as transferências, contribuindo para o sucesso do golpe, além de não ter ocorrido inserção de seu nome em cadastro de órgão de proteção ao crédito.
+De acordo com a jurisprudência firmada nesta Corte Superior, a fraude bancária, ensejadora da transferência de valores da conta corrente, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar demonstrada a existência de falha na prestação do serviço bancário.
+Logo, uma vez que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, impõe-se o óbice da Súmula n. 83 do STJ.
+Ademais para derruir as conclusões adotadas na Corte de origem quanto à ocorrência de danos morais, seria necessário o reexame do acervo fa tico-probatório, o que encontra óbice na Súmula 7 do STJ.
+No mesmo sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR E PROCESSO CIVIL. FRAUDE BANCÁRIA. CORRENTISTA VÍTIMA DE GOLPE. INDENIZAÇÃO POR DANOS MORAIS NÃO CONFIGURADO PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. SÚMULA N. 7/STJ.
+1. Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados.
+2. A tese da inversão dos ônus da prova não foi objeto do recurso de apelação, não tendo sido, portanto, apreciada pelo Tribunal de origem. Nesse contexto, não debatido o tema pela Corte de origem, é firme o entendimento de que fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância.
+3. O acórdão recorrido está em harmonia com a jurisprudência desta E. Corte, segundo a qual, a fraude bancária, ensejadora da transferência de valores da conta corrente, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar demonstrada a existência de falha na prestação do serviço bancário.
+4. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, não verificou a prática de conduta ilícita do banco réu a ensejar a violação dos direitos de personalidade do autor. Desse modo, a alteração das conclusões a que chegaram as instâncias ordinárias demandaria o reexame do acervo fático-probatório dos autos, inviável em recurso especial em razão do óbice da Súmula 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRAUDE BANCÁRIA. DANO MORAL. DEMONSTRAÇÃO. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. "A fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.371.787/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias em desfavor da ora recorrente, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
