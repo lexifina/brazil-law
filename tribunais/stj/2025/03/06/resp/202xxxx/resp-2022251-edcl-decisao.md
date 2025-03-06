@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo SINDICATO DAS INDUSTRIAS QUIMICAS DO SUL CATARINENSE contra a decisão de minha relatoria de fls. 249/253.
+A parte embargante alega que a decisão embargada foi omissa ao considerar aplicável a Súmula 284 do STF, uma vez que o Recurso Especial menciona expressamente a violação de dispositivos do CTN, que é uma lei federal com status de lei complementar. Alega que os artigos 46, 47 e 51 do CTN tratam de questões fundamentais sobre o imposto sobre produtos industrializados (IPI) e que, mesmo que implicitamente, deveriam ter sido analisados pelo Tribunal de origem.
+Reconhecida a omissão quanto ao prequestionamento da matéria e à análise dos dispositivos legais mencionados, entende que deve haver o saneamento dos vícios de omissão apontados, com o conhecimento do Recurso Especial interposto e seu consequente julgamento.
+Não foi apresentada impugnação pela parte embargada.
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Na decisão recorrida, o recurso especial não foi conhecido com base nos seguintes fundamentos: (a) incidência da Súmula 284 do STF, visto que não houve a indicação do dispositivo de lei federal que teria sido violado pelo Tribunal a quo, vinculado à tese recursal de que seria desnecessária a apresentação de prova pré-constituída em mandado de segurança coletivo; e (b) ausência de prequestionamento dos arts. 46, 47 e 51 do CTN, dispositivos legais esses que não foram apreciados pelo Tribunal a quo, não tem sido opostos embargos de declaração com tal finalidade.
+Ao contrário do que sugere a parte embargante não é possível o conhecimento da matéria por meio da aplicação do prequestionamento ficto.
+O art. 1.025 do CPC/2015 dispõe que se "consideram incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existente erro, omissão, contradição ou obscuridade".
+A regra processual exige, portanto, não apenas (a) a alegação de violação do art. 1.022 do CPC/2015, mas também (b) a efetiva constatação, por esta Corte Superior, de omissão da instância ordinária para fins de admissão do prequestionamento ficto, o que não ocorreu no caso dos autos.
+Nesse sentido: AgInt no AREsp 1.224.882/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 7/6/2018, DJe 19/6/2018; AgInt no REsp 1.707.780/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2018, DJe 23/5/2018; AgInt no AREsp n. 2.072.402/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022; e AgInt no AREsp n. 2.074.550/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. O recurso integrativo não se presta à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
