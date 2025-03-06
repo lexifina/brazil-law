@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por TIM S.A. contra acórdão assim ementado (fl. 321):
+Cumprimento de sentença. Sentença que transitou em julgado. Pedido de suspensão do incidente. Evocação da pendência de julgamento de ação trabalhista. Descabimento. Situação que não corresponde a qualquer das hipóteses de suspensão da execução previstas no artigo 921 do CPC, aplicável também ao cumprimento de sentença. Recurso provido.
+Opostos embargos de declaração, foram rejeitados (fls. 335/339).
+Nas razões do recurso especial, a recorrente alega, em síntese, que o acórdão recorrido violou o art. 313, V, "a", do Código de Processo Civil/2015 e o art. 884 do Código Civil.
+Quanto à suposta ofensa ao art. 313, V, "a", do CPC/2015, sustenta que a sentença proferida pela Justiça Trabalhista, na que se discute a relação empregatícia, constitui elemento de prejudicialidade externa ao prosseguimento do cumprimento de sentença cível na qual a recorrida pleiteia verbas decorrentes do mesmo contrato de prestação de serviços.
+Argumenta, também, que a decisão do Tribunal de origem resultou em afronta ao art. 884 do Código Civil, ao permitir que a recorrida seja beneficiada duplamente, caracterizando enriquecimento ilícito.
+Além disso, alega que a prejudicialidade entre as ações cível e trabalhista é evidente, o que teria sido demonstrado, no caso, pela existência de demandas simultâneas envolvendo o mesmo contrato de prestação de serviços.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de recurso oriundo de agravo de instrumento interposto pela ora recorrida contra decisão que suspendeu o cumprimento de sentença até o deslinde de ação trabalhista.
+Nas razões do seu agravo de instrumento, a ora recorrida argumentou que a sentença cível transitou em julgado, enquanto a reclamação trabalhista segue em fase recursal, não sendo a hipótese do art. 313, V, "a", do CPC/2015.
+O Tribunal de origem deu provimento ao agravo, entendendo que a pendência da ação trabalhista não autorizava a suspensão do cumprimento de sentença já transitada em julgado, pois não correspondia a nenhuma das hipóteses de suspensão previstas no art. 921 do CPC/2015. Confira-se:
+A demandada, ora agravada, requereu fosse suspenso o curso do incidente de cumprimento de sentença sob a notícia de que pendia de julgamento ação trabalhista aforada pela requerente.
+A Juíza deferiu o pedido, o que motivou o presente agravo.
+No entanto, respeitado o entendimento da douta Magistrada, caso não é de se abonar tal decisão.
+Com efeito, o Código de Processo Civil assim dispõe sobre a suspensão da execução, regime que também se aplica ao incidente de cumprimento de sentença por força da previsão do artigo 513 do mesmo diploma:
+ ..
+Aqui, no entanto, nada disso ocorria.
+Logo, ante a falta de previsão legal a pendência de ação trabalhista não autorizava a suspensão do cumprimento de sentença de embargos à execução  ..  (fl. 322).
+No julgamento dos embargos de declaração constou, ainda, que (i) a sentença cível já havia transitado em julgado; e (ii), enquanto não for desconstituída a coisa julgada, o vigor executivo da sentença não é afetado pelo que vier a ser decidido pelo Juiz da seara trabalhista. Confira-se:
+Como se confere a fls. 320 e seguintes, o acórdão textualmente indicou as razões pelas quais concluiu que o recurso havia de ser provido para o fim lá indicado, isto é, afastar a suspensão processual ordenada na origem.
+Assim, o acórdão consignou que a pendência da ação trabalhista não impedia a continuidade do cumprimento de sentença porque aquela situação não correspondia a qualquer das hipóteses indicadas no artigo 921 do do Código de Processo Civil
+De lembrar, anda, que como registrou o acórdão referido incidente se escudava em sentença passada em julgado, (fls. 321).
+Ora, não precisavam os julgadores lembrar aos litigantes que, em casos tais, enquanto não for desconstituída a coisa julgada o vigor executivo da sentença não é afetado pelo que vier a ser decidido pelo Juiz da seara trabalhista  ..  (fl. 337).
+Como se vê, o acórdão recorrido está em consonância com a orientação que se firmou na jurisprudência desta Corte, uma vez que, no caso dos autos, já havia sentença transitado em julgado e, portanto, a não incidência das hipóteses do art. 921 do CPC/2015, incidindo, portanto, o óbice da Súmula 83 do STJ.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SENTENÇA ARBITRAL. CUMPRIMENTO DE SENTENÇA. ART. 515, VII, DO CPC/15. VIOLAÇÃO DO ART. 1.022 DO CPC/15. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO DO ACÓRDÃO EMBARGADO. AUSÊNCIA. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/15. NÃO OCORRÊNCIA. PREJUDICIALIDADE EXTERNA NA FASE DE CUMPRIMENTO DE SENTENÇA. TRÂMITE CONCOMITANTE DE AÇÃO ANULATÓRIA E AÇÃO PENAL. SUSPENSÃO DO PROCEDIMENTO. ART. 313, V, "A", E § 4º, DO CPC/15. PRAZO MÁXIMO DE UM ANO. FLEXIBILIZAÇÃO. POSSIBILIDADE. PRIMAZIA DA ISONOMIA E DA SEGURANÇA JURÍDICA. PRECEDENTES. PARTICULARIDADES DA SITUAÇÃO EM CONCRETO. RETOMADA DO PROCEDIMENTO A PARTIR DO JULGAMENTO E RESOLUÇÃO DA QUESTÃO PREJUDICIAL. ANÁLISE PELO JUÍZO DE ORIGEM. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+ ..
+4. Prejudicialidade Externa. Dispõe o Código de Processo Civil que se suspende o processo quando a sentença de mérito depender do julgamento de outra causa ou da declaração de existência ou de inexistência de relação jurídica que constitua o objeto principal de outro processo pendente (art. 313, V, "a"). No mesmo sentido, se o conhecimento do mérito depender de verificação da existência de fato delituoso, o juiz pode determinar a suspensão do processo até que se pronuncie a justiça criminal (art. 315).
+5. Precedentes desta Corte no sentido de que "a paralização do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consonante as circunstâncias do caso concreto".
+6. Diante da existência de prejudicialidade externa, a jurisprudência desta Corte admite a flexibilização do prazo máximo de suspensão do procedimento conforme as peculiaridades da hipótese em concreto, não ficando limitado ao período de 1 (um) ano imposto pelos arts. 313, V, "a", e § 4º, e 315, § 2º, do CPC/15. Precedentes.
+7. Necessidade de compatibilizar a busca pela celeridade processual com o respeito à segurança jurídica, à isonomia e à eficiência do Judiciário. O processo deve ser suspenso até que ocorra a devida análise do tema e o julgamento da questão prejudicial, ainda que não seja de maneira definitiva (com trânsito em julgado) - e sem prejuízo de nova suspensão diante das particularidades da situação em concreto.
+8. Hipótese em que o Tribunal de origem decidiu por manter o procedimento de cumprimento de sentença arbitral suspenso até o trânsito em julgado da ação penal subordinante, uma vez que o resultado desta pode comprometer diretamente o andamento daquela, e, eventualmente, tornar inexequível o título e inexigível o valor que o recorrente pretende levantar.
+9. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido tão somente para determinar que o processo permaneça suspenso até ulterior decisão sobre a questão prejudicial no Juízo Criminal, sem prejuízo de nova suspensão diante das particularidades da situação em concreto.
+(REsp n. 2.039.989/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/4/2023, DJe de 27/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OFENSA AOS ARTS. 489, § 1º, E 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. DECLÍNIO DE COMPETÊNCIA. PREJUDICIALIDADE EXTERNA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. EXISTÊNCIA DE CONEXÃO. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1. Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. O entendimento do STJ é de que deve ser reconhecida conexão em razão de prejudicialidade externa entre ações em que o resultado de uma possa produzir efeitos na outra.
+4. O Tribunal de origem reconheceu a existência da conexão entre a presente ação e outra em que se discute a validade de locação por simulação de conjunto de imóveis, considerando o risco de haver decisões conflitantes.
+5. A modificação das conclusões do acórdão recorrido a respeito da existência de prejudicialidade externa demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.115.494/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 13/10/2022.)
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
