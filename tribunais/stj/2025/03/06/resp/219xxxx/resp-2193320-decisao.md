@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por Guilherme Giovanni Pinheiro, com fundamento no art. 105, III, "a" da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO DE EXECUÇÃO PENAL. DECISÃO QUE INDEFERIU O PEDIDO DE DECLINAÇÃO DA COMPETÊNCIA PARA A EXECUÇÃO DA PENA DE MULTA PARA O JUÍZO ESTADUAL ONDE JÁ TRAMITA A EXECUÇÃO PENAL DA PENA PRIVATIVA DE LIBERDADE. COMPETÊNCIA DO JUÍZO FEDERAL.
+1. A Súmula nº 192 do Superior Tribunal de Justiça é interpretada de forma restrita, de modo que a expressão "execução das penas impostas" está limitada à execução da pena privativa de liberdade e seus incidentes, não alcançando a execução dos demais itens da condenação.
+2. A competência do juízo estadual limita-se à execução de penas privativas de liberdade, não alcançando a execução de penas pecuniárias, cujo inadimplemento pode gerar a inscrição em dívida ativa em favor da União.
+3. A execução da pena privativa de liberdade - assim como os incidentes relacionados - é declinada ao juízo do local onde está sendo cumprida a pena pela maior facilidade de acompanhamento. O mesmo não se dá, porém, com a pena de multa e das custas processuais - imposições pecuniárias - que em caso de descumprimento será executada perante o juízo federal da execução, pois quanto a ela não há declinação da competência e existente nítido interesse da União (art. 109, inc. I, da Constituição).
+4. Agravo de execução desprovido. (e-STJ fl. 54)
+A defesa aponta a violação do art. 51 do Código Penal, da Súmula 192 do STJ, e do entendimento adotado no CC n. 168.815/PR, alegando que a pena de multa deve ser executada pelo Juízo da Execução Estadual em concomitância com a execução da pena privativa de liberdade.
+Apresentadas contrarrazões, o Tribunal a quo admitiu o recurso especial, manifestando-se o Ministério Público Federal provimento do recurso especial (e-STJ fls. 155/159).
+É o relatório. Decido.
+O recurso merece prosperar.
+Sobre a controvérsia, concluiu o Tribunal de origem que "a competência para a execução da pena é do juízo indicado na lei local de organização judiciária e, na sua ausência, o da sentença. Isso equivale a dizer que, no caso concreto, o juízo federal é o competente para a execução da pena, cabendo a ele examinar, no processo de execução penal, eventual declinação de competência à Justiça Estadual para a execução da pena privativa de liberdade. (e-STJ fl. 50)
+A Terceira Seção do Superior Tribunal de Justiça, contudo, sedimentou o entendimento de que "A execução da pena de multa deve seguir no Juízo das Execuções Penais, que é o Juízo Estadual, no caso de haver cumprimento de pena privativa de liberdade em presídio estadual aplicada cumulativamente com a multa (CC 168.815/PR, Rel. Ministro Rogério Schietti, Terceira Seção, DJe 16/6/2020) (CC n. 179.037/PR, Rel. Ministro Joel Ilan Paciornik, 3ª Seção, DJe 27/9/2021). No mesmo sentido:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA DE MULTA. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES PENAIS. UNICIDADE DA EXECUÇÃO. IMPOSSIBILIDADE DE CISÃO DA EXECUÇÃO DAS PENAS. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. A execução penal é una, não sendo possível cindir o processo executivo para que a execução da pena privativa de liberdade seja processada perante o Juízo das Execuções Penais de um estado da federação e a execução da pena de multa imposta na mesma condenação penal seja processada em Juízo de estado diverso.
+2. A execução da pena de multa compete ao mesmo Juízo que executa a pena privativa de liberdade cumulativamente imposta.
+3. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DO 1.º JUIZADO DA VARA DE EXECUÇÕES CRIMINAIS DE NOVO HAMBURGO/RS. (CC n. 189.130/SC, Rel. Ministra Laurita Vaz, 3ª Seção, DJe 28/9/2022).
+Portanto, a competência para a execução da pena de multa cumulativamente imposta na sentença deve permanecer com o Juízo da execução da sanção privativa de liberdade, de modo que não haja a cisão da execução penal, conforme o referido entendimento jurisprudencial.
+Incide, portanto, a Súmula n. 568 do STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante".
+Ante o exposto, dou provimento ao recurso especial para reconhecer a competência do juízo estadual para execução da pena de multa.
+Intimem-se.
+EMENTA
