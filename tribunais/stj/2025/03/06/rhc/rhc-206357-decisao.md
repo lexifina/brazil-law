@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se  de  recurso  em  habeas  corpus  interposto  por  IGOR  VIEIRA  DE  JESUS,  contra  acórdão  proferido  pelo  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  no  julgamento  do  Habeas  Corpus  Criminal  n.  2270156-58.2024.8.26.0000.
+Extrai-se  dos  autos  que  o  Juízo  da  Unidade  Regional  de  Departamento  Estadual  de  Execução  Criminal  DEECRIM  4ª  RAJ,  da  Comarca  de  Campinas/SP,  homologou  a  conclusão  da  sindicância  instaurada  contra  o  recorrente  e  determinou  a  regressão  do  sentenciado,  ora  recorrente,  ao  regime  fechado,  nos  termos  da  decisão  de  fls.  288/290.
+Irresignada,  a  defesa  impetrou  habeas  corpus  perante  o  Tribunal  de  origem,  que  denegou  a  ordem  nos  termos  do  acórdão  que  restou  assim  ementado  (fl.  318):
+"HABEAS  CORPUS  -  Pedido  de  absolvição  de  falta  disciplinar  de  natureza  grave  por  insuficiência  probatória  e  por  falta  de  dolo  -  Conhecimento  -  Impossibilidade  -  Via  inadequada  -  Necessidade  de  exame  do  conjunto  fático  -  probatório,  o  que  é  vedado  nesta  angusta  via  -  Inexistência  de  ilegalidade  flagrante,  a  justificar  o  conhecimento  do  presente  writ.
+Ordem  não  conhecida".
+Nas  razões  do  presente  recurso,  a defesa  sustenta  a  perseguição  sofrida  pelo  recorrente  durante  o  cumprimento  da  pena  e  que  a  expressão  utilizada  pelo  recorrente,  quando  da  revista,  não  teria  o  condão  de  desrespeitar  o  agente  penitenciário,  mas  uma  gíria  para  a  negativa  a  uma  pergunta.
+Alega  a  ilegalidade  no  reconhecimento  da  falta  grave  "diante  da  evidente  perseguição  sofrida  pelo  recorrente  durante  a  execução  da  pena,  que  veio  a  ser  taxado  de  pertercer  ao  grupo  LGBTQ ,  posteriormente  com  a  acusação  de  estar  portando  uma  nota  de  02  reais  e  depois  evoluiu  para  a  acusação  de  falta  grave,  apenas  por  ter  utilizado  o  termo  "cê  é  louco"  para  responder  negativamente  à  pergunta  que  lhe  fora  feita,  sem  qualquer  objetivo  ou  finalidade  de  desrespeitar  agente  penitenciário."  (fl.  332).
+Sustenta  que  os  princípios  da  proporcionalidade  e  da  razoabilidade  não  foram  observados.
+Requer  a  revogação  da  prisão  preventiva,  ainda  que  mediante  aplicação  de  medidas  cautelares  diversas  da  prisão.
+Não  houve  pedido  de  liminar.
+Parecer  do  Ministério  Público  Federal  opinando  pelo  não  provimento  do  recurso  às  fls.  700/704.
+É  o  relatório.
+Decido.
+Embora  reunidos  os  requisitos  de  admissibilidade  recursal,  no  mérito,  a  irresignação  não  prospera,  como  explicitado  a  seguir.
+Conforme  relatado,  o  recorrente  busca  o  afastamento  do  reconhecimento  da  falta  grave  e  o  restabelecimento  do  regime  semiaberto.
+ O Juízo  da  Unidade  Regional  de  Departamento  Estadual  de  Execução  Criminal  DEECRIM  4ª  RAJ,  da  Comarca  de  Campinas/SP decidiu a questão da seguinte forma:
+"Fls. 226/261: O procedimento disciplinar se desenvolveu regularmente e não há vícios a serem sanados. As provas dos autos são coerentes com a conclusão do procedimento disciplinar e a sanção aplicada se afigura suficiente à reprovação da conduta ocorrida na data de 28.09.2023, que caracteriza a falta grave tipificada no artigo 46, inciso VI, do RIP.
+A falta disciplinar está caracterizada e comprovada pelo depoimento dos servidores (fls. 243/246), que foram taxativos e uníssonos em afirmar que, durante procedimento de revista do reeducando, ele foi indagado sobre o conteúdo que estava no chão, que teria caídos das vestes dele, ocasião em que ele disse "você é louco senhor" por três vezes, de forma desrespeitosa.
+O sentenciado, por sua vez, negou os fatos, aduzindo que o funcionário se equivocou nas palavras, tendo dito a ele "vc é louco senhor", haja vista que a nota de dois reais não lhe pertencia.
+A versão defensiva, contudo, não merece acolhimento, pois em total desacordo com a prova produzida, encontrando-se isolada nos autos.
+Com efeito, da prova oral infere-se, com a segurança necessária, que o executado praticou mesmo a falta grave que lhe foi imputada. Aliás, como consabido, os depoimentos dos servidores gozam de fé pública, não se desincumbindo a Defesa técnica de provar que referidos servidores foram parciais ou nutriram algum interesse em prejudicar o executado injustamente." (fl. 288).
+O Tribunal a quo, por seu turno, manteve a referida decisão,  nos  seguintes  termos:
+"Examinando-se  os  documentos  que  instruem  a  presente  impetração  e  aqueles  que  foram  acostados  nos  autos  originários,  verifica-se  que  é  caso  de  não  conhecimento  da  presente  impetração,  uma  vez  que  a  análise  da  tese  defensiva  de  que  não  há  provas  suficientes  para  embasar  a  anotação  da  falta  disciplinar,  bem  como  aquela  voltada  a  determinar  o  dolo  do  paciente,  exigem  exame  aprofundado  de  fatos  e  provas  constantes  dos  autos  de  sua  execução,  o  que  é  vedado  na  angusta  via  do  habeas  corpus.
+Observa-se,  por  oportuno,  que  apenas  estaria  admitido  o  conhecimento  do  presente  writ,  caso  se  verificasse,  de  pronto,  a  existência  de  flagrante  ilegalidade,  o  que  não  ocorreu  no  caso  concreto.
+Neste  sentido,  colacionam-se  as  seguintes  decisões:
+ .. "  (fl.  319).
+O aresto combatido está em consonância com a orientação jurisprudencial desta Corte Superior de Justiça, segundo a qual "A reavaliação da natureza da falta disciplinar, visando sua desclassificação ou absolvição, exigiria o reexame de provas e fatos, o que é inviável na via estreita do habeas corpus, conforme precedentes desta Corte." (HC n. 930.581/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJe de 17/12/2024 ).
+No mesmo sentido:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. REGULAR PAD. ABSOLVIÇÃO. PROVAS SUFICIENTES. IMPUTAÇÃO ADEQUADA. PERDA DE 1/5 (UM QUINTO) DOS DIAS REMIDOS. FUNDAMENTAÇÃO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Verifica-se que o eg. Tribunal de origem, ao analisar as provas produzidas nos autos, entendeu que o paciente descumpriu seus deveres legais, sobretudo o de permanecer recolhido em domicílio, tendo em vista que restou encontrado em via pública, em horário que deveria estar recolhido em sua residência, o que constitui falta grave, a teor do art. 50, V, da Lei de Execuções Penais, não sendo a hipótese, pois, de absolvição da conduta.
+III - Rever o entendimento do eg. Tribunal a quo, para afastar a falta grave imputada ao paciente, demandaria, necessariamente, amplo reexame da matéria fático probatória, procedimento incompatível com a estreita via do habeas corpus.
+IV - Segundo reiterada jurisprudência desta eg. Corte de Justiça, a perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a Lei de Execução Penal, nos seus arts. 57 e 127. Na hipótese, a perda dos dias remidos, no patamar de 1/5 (um quinto), fundamentou-se em argumentação idônea, estando o v. acórdão em pleno acordo com a jurisprudência desta eg. Corte Superior e a lei vigente.
+Habeas corpus não conhecido."
+(HC n. 729.524/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+Portanto, a revisão do julgado a fim de concluir que inexistem elementos suficientes quanto à prática da falta grave, demandaria revolvimento do conjunto fático-probatório dos autos, o que não se afere possível na via de cognição estreita do habeas corpus.
+Ante  o  exposto  ,  nos  termos  do  art.  34,  XX,  do  Regimento  Interno  desta  Corte,  nego  provimento  ao  recurso  ordinári  o  em  habeas  corpus.
+Publique-se.
+Intimem-se.
+EMENTA
