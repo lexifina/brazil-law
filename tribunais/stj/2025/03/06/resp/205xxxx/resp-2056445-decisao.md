@@ -1,0 +1,60 @@
+DECISÃO
+
+Trata-se  de  recurso  especial  interposto  em  face  de  acórdão  assim  ementado  (fl.  706):
+APELAÇÃO CÍVEL - FALTA DE INTERESSE DE AGIR - REJEIÇÃO - PLANO DE SAÚDE - COBERTURA DE TRATAMENTO - IMPRESCINDÍVEL - ROL DE PROCEDIMENTOS DA ANS - EXISTÊNCIA - URGÊNCIA E EMERGÊNCIA - REEMBOLSO DE DESPESAS - NECESSIDADE - OBSERVÂNCIA DA TABELA DA UNIMED
+O interesse processual verifica-se não apenas na utilidade, mas especificamente na necessidade do processo como meio apto à aplicação do direito objetivo no caso concreto.
+Os contratos de planos de saúde estão submetidos ao Código de Defesa do Consumidor. Assim, a interpretação das cláusulas contratuais deve ocorrer de maneira mais favorável ao consumidor.
+A autora obteve êxito em comprovar aludida urgência e necessidade, haja vista os relatórios médicos e documentos juntados pelo requerente que demonstram a imprescindibilidade do tratamento indicado à paciente.
+O direito tutelado trata-se de direito à saúde, direito fundamental garantido pela Constituição, não podendo ser limitado por restrições contratuais.
+Estabelece o art. 35-C da Lei 9.656/98 ser obrigatória a cobertura do atendimento nos casos de urgência e emergência e, embora exista delimitação no contrato acerca da área de abrangência do plano de saúde, observada hipótese de urgência, incumbe à operadora prestar o atendimento e disponibilizar o tratamento ao paciente.
+O reembolso dos danos materiais deve seguir os parâmetros Tabela de Preços e Honorários praticados pela Unimed-BH com os seus prestadores.
+A negativa indevida de cobertura de tratamento dá ensejo à indenização por danos morais porque gera inquietação, humilhação e perplexidade, em momento extremamente delicado. A fixação do quantum indenizatório deve ser procedida com moderação, sem esquecer os princípios da razoabilidade e da proporcionalidade.
+A recusa na prestação de serviços que não traz maiores consequências na medida em que não há notícias de que o tratamento não foi realizado, ao contrário.
+Opostos embargos de declaração, foram rejeitados.
+Nas  razões  do  recurso  especial,  a  parte  recorrente  aponta  violação  dos  arts.  11, 489, II, § 1º, IV e V, e 1.022, II, do Código de Processo Civil; arts. 389, 884 e 944 do Código Civil; bem como divergência jurisprudencial.
+Sustenta que, mesmo após a interposição de embargos de declaração, o acórdão recorrido não teria declinado os fundamentos de direito pelos quais teria limitado o valor do reembolso e que os precedentes postos no acórdão, divergem do caso concreto.
+Alega que "o acórdão recorrido divergiu de precedente do Superior Tribunal de Justiça, que reconheceu o reembolso integral em favor do paciente, após inadimplemento contratual da operadora de plano de saúde, como ocorreu no caso concreto, em que a recorrida descumpriu o prazo legal para providenciar o tratamento urgente e, posteriormente, recusou-se a reembolsá-lo".
+Foram  apresentadas  contrarrazões às fls. 798-804.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Na  origem,  a  autora  propôs  ação  objetivando  o reembolso do valor de R$40.508,11 despendido em tratamento de um tumor maligno no olho esquerdo. Postulou, ainda, pelo pagamento de indenização por danos morais.
+A  sentença  julgou  parcialmente  procedentes  o  s  pedidos,  condenando a ré a indenizar a autora pelos danos materiais sofridos no valor de R$40.508,11 e a fornecer o restante do tratamento pleiteado, de acordo com o relatório médico.
+Interposta  apelação  por ambas as partes,  o  Tribunal  de  origem  deu parcial provimento ao recurso da ré, para determinar que o reembolso das despesas assumidas pela beneficiária seja conforme a tabela de preços e honorários praticados pela Unimed-BH com os seus prestadores. Ainda, deu provimento ao recurso da autora, para condenar a ré ao pagamento de indenização por danos morais no valor de R$10.000,00.
+Irresignada,  a  autora interpôs o presente  recurso  especial.
+Inicialmente, com relação à suposta ofensa aos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+O  Tribunal  de  origem,  ao  analisar novamente  a  controvérsia,  consignou o que segue  (fls.  714-724):
+ ..  o plano de saúde não pode se recusar a custear o tratamento quando coberta pelo contrato a patologia diagnosticada no beneficiário do plano.
+Pois bem. Na situação dos autos, é incontroversa a existência do plano e sua vigência, e ainda, deve-se considerar que há previsão do procedimento denominado braquiterapia oftálmica no Rol De Procedimentos E Eventos Em Saúde - 2016 da Agência Nacional de Saúde (f. 116 documento de ordem 21), bem como do exame de Retinografia (fl. 118 doc. 21) e ultrassonografia biomicroscópica ocular (fl. 112 doc. ordem 21) e ainda, de tomografia de coerência óptica (fl 114 documento 21).
+Nesse contexto, resta perquirir se a autora faz jus ao ressarcimento dos valores por ela suportados no custeio dos procedimentos.
+A ré sustenta a negativa de cobertura do procedimento, sob o argumento de que o procedimento em questão foi realizado fora da área de abrangência do plano que corresponde apenas ao estado de Minas Gerais.
+A cláusula terceira, que dispõe sobre o local da prestação de serviços, estabelece que:
+ ..
+Com efeito, estabelece o art. 35-C da Lei 9.656/98 ser obrigatória a cobertura do atendimento nos casos de urgência e emergência e, embora exista delimitação no contrato acerca da área de abrangência do plano de saúde, observada hipótese de urgência, incumbe à operadora prestar o atendimento e disponibilizar o tratamento ao paciente.
+A Lista de Hospitais e Serviços de Tabela Própria e/ou Alto Custo foi anexada às fls. 26 do doc. cód. 57 e dela não consta o Hospital Albert Eistein onde foi realizada a braquiterapia oftálmica pela autora, tampouco constam a Clínica Oftalmológica São Lucas Ltda., a Fleury S/A, onde a autora realizou a ultrassonografia biomicroscópica, tampouco a Oncologia Ocular Consultoria e Serviços Ltda. (cód. ordem 13).
+Consta dos documentos médicos da autora (cód.12) a solicitação dos procedimentos de radioterapia em questão (braquiterapia oftálmica com iodo 125; ultrassonografia biomicroscópica; retinografia e tomografia de coerência óptica), já que estava acometida de "Melanoma de Coróide", considerada como neoplasia maligna.
+Nesse aspecto, tal como mencionado na sentença, tem-se que a autora obteve êxito em comprovar aludida urgência e necessidade, haja vista os relatórios médicos e documentos juntados pelo requerente que demonstram a imprescindibilidade do tratamento indicado à paciente.
+Ainda, a autora comprovou que realizou o pedido do tratamento urgente à ré no dia 16/12/2016 (doc. ordem 59), não tendo a requerida comprovado que respondeu à requerente dentro do prazo legal de 21 (vinte e um) dias, art. 3º, XI da Resolução Normativa nº 259/2011 da ANS, admitindo-se a realização do procedimento conforme orientação do especialista em casos de comprovada urgência.
+Em decorrência da demora da ré em providenciar a realização dos procedimentos solicitados pelo médico da autora, alternativa não teve a não ser se submeter ao tratamento por meio do que lhe foi indicado pelo seu médico particular, em razão da urgência do tratamento em questão.
+Ocorre que o plano de saúde é obrigado a suportar as despesas realizadas pelo segurado fora dos limites contratados, em situação de emergência e urgência, em que ele - segurado - estiver, desde que fora dos limites contratados.
+No caso dos autos, a autora ao tomar ciência de sua doença, optou por realizar o seu tratamento fora dos limites da área contratada, não podendo o plano de saúde arcar com a integralidade das referidas despesas.
+Desta forma, prudente a manutenção da sentença que julgou procedentes os pedido inicial consistente no reembolso das despesas médicas da autora com o tratamento em questão, de acordo com relatório médico acostado ao doc. ordem 12 e de acordo com as notas fiscais (ordem nº 13).
+No que concerne ao pedido de limitação do reembolso conforme a Tabela de Preços e Honorários praticados pela Unimed-BH com os seus prestadores, como pretende a ré, tem-se que razão lhe assiste.
+O reembolso dos danos materiais deve seguir os parâmetros da tabela de procedimentos adotada pela requerida, conforme jurisprudência do STJ:
+ ..
+Constata-se que a decisão da Corte local está alinhada com a jurisprudência deste Superior Tribunal, no sentido de que o reembolso das despesas médicas, decorrentes de atendimento de emergência, deve ser limitado aos valores previstos nas tabelas estabelecidas em contrato. Confira-se:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. SÚMULA 182/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO. PLANO DE SAÚDE. REEMBOLSO. ATENDIMENTO MÉDICO-HOSPITALAR REALIZADO FORA DA REDE CREDENCIADA. POSSIBILIDADE. SITUAÇÕES EXCEPCIONAIS. LEI 9.656/98, ART. 12, VI. ATENDIMENTO DE EMERGÊNCIA. REEMBOLSO LIMITADO À TABELA DO PLANO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, e à luz do disposto no art. 12, VI, da Lei 9.656/1998, o reembolso de despesas médico-hospitalares realizadas pelo beneficiário do plano de saúde, com internação em estabelecimento não conveniado, em casos excepcionais (situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada), deve ser limitado aos preços e tabelas efetivamente contratados com a operadora de saúde.
+2. No caso, considerada a hipótese de emergência expressamente reconhecida pelo acórdão estadual, o reembolso das despesas efetuadas com o tratamento realizado em estabelecimento não credenciado deve ser limitado aos valores que seriam pagos caso o atendimento ocorresse em um de seus estabelecimentos credenciados.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.664.433/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/11/2024, DJEN de 6/12/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. ATENDIMENTO DE EMERGÊNCIA. HOSPITAL NÃO CREDENCIADO. REEMBOLSO. LIMITAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ. INFORMAÇÃO AO CONSUMIDOR. PROVAS. CONTRATO. REEXAME. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É firme a orientação do Superior Tribunal de Justiça no sentido de que, nas hipóteses em que não se afigurar possível a utilização dos serviços credenciados, como é o caso das situações emergenciais, o reembolso poderá ser limitado aos preços e às tabelas efetivamente contratados com o plano de saúde. Precedentes.
+3. Na hipótese, rever a conclusão do aresto impugnado para atestar a falta de ciência da parte agravante acerca das tabelas próprias do plano encontra os óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.946.918/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/5/2022, DJe de 25/5/2022.)
+Assim, considerando que o acórdão recorrido é no mesmo sentido da orientação firmada por esta Corte Superior, não merece reparo, por incidir o óbice da Súmula 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "a" quanto àqueles fundamentados pela alínea "c" do art. 105, III, da Constituição Federal.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
