@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de AGUINALDO BATISTA DO CARMO, alegando constrangimento ilegal por parte do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no HC n. 1.0000.24.443197-9/000 .
+Consta dos autos que o paciente foi preso em flagrante, na data de 28 de setembro de 2024, pela suposta prática do crime previsto suspeito da prática do crime previsto no art. 121, §2º, incisos II e IV, c.c. o art. 14, inciso II, ambos do Código Penal, tendo sido o flagrante convertido em prisão preventiva.
+Neste writ, a defesa alega que o paciente não possui registros criminais anteriores nem histórico de comportamento delituoso, sendo trabalhador lícito com residência fixa e raízes na comunidade onde reside.
+Argumenta que a decisão que converteu a prisão em flagrante em preventiva foi baseada em presunções genéricas sobre a periculosidade do acusado, sem elementos concretos que justificassem a segregação cautelar, baseando-se apenas na gravidade abstrata do delito.
+Ressalta que o paciente possui as condições pessoais favoráveis.
+Defende ter havido violação ao princípio da presunção de inocência.
+Destaca que a aplicação de medidas cautelares previstas no artigo 319 do CPP seria suficiente para assegurar o regular andamento do processo, sem a necessidade de privação da liberdade.
+Aduz que a decisão de conversão da prisão em flagrante em preventiva já estava minutada antes mesmo da audiência mencionada, evidenciando um juízo de culpabilidade mostrado pela Juíza a quo anteriormente ao ato processual (fl. 05).
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva, garantindo ao paciente o direito de responder em liberdade, com ou sem a aplicação de medidas cautelares alternativas diversas da prisão.
+O pedido liminar foi indeferido às fls. 126-128.
+Informações processuais às fls. 131-146.
+O Ministério Público Federal opinou pelo não conhecimento do writ mas, caso conhecido, pela denegação da ordem às fls. 148-156.
+É o relatório.
+DECIDO.
+De início, para melhor entender a controvérsia, reputo relevante reproduzir excertos da denúncia (fls. 21-23; grifamos):
+ ..  Consta do incluso inquérito policial que no dia 28 de setembro de 2024, por volta das 02h10, na rua Capitão Américo Taveira, 41, Centro, no local denominado "Barbudos", nesta cidade e comarca de Ervália/MG, o denunciado tentou matar Roger José de Souza, por motivo fútil e mediante recurso que dificultou sua defesa.
+Conforme consta do caderno investigatório, no dia, horário e local mencionado alhures, o denunciado estava no estabelecimento comercial denominado "Barbudos", tendo o ofendido chegado na companhia de sua namorada Laiane Aparecida da Costa.
+Neste momento, Aguinaldo cumprimentou a vítima, que retribuiu logo em seguida o aceno e solicitou sua refeição. Na oportunidade, Aguinaldo convidou Roger para tomar uma cerveja, tendo este recusado.
+Insatisfeito, o acusado proferiu os dizeres à vítima: "cê tá desfazendo de mim  Tá pensando que você é melhor do que os outros ". Ato contínuo, o acusado afirmou que mataria o ofendido, apontando a arma em sua direção e efetuando um disparo, que acertou as costas de Roger.
+Para se defender, o ofendido rumou em direção ao atirador, tendo sido alvo de outro disparo, agora na mão direita. Mesmo baleado, a vítima conseguiu conter o agressor, imobilizando-o. Na oportunidade ele foi desarmado pelas pessoas que estavam no local, razão pela qual não consumou seu intento homicida.
+O ofendido percebeu que estava lesionado e, de imediato, solicitou a ajuda de sua namorada para deslocar ao nosocômio local, onde foi atendido de pronto e encaminhado para o Hospital Santa Isabel, na cidade de Ubá/MG.
+A futilidade do motivo é evidenciada pela recusa da vítima em tomar uma cerveja proposta pelo acusado.
+O recurso que dificultou a defesa da vítima consistiu na utilização e nos disparos de arma de fogo pelo acusado contra a vítima, que não possuía nenhuma condição, à altura do ataque, para se defender.
+Com sua conduta, o denunciado sujeitou-se às sanções do art. 121, §2º, incisos II e IV na forma do art. 14, inciso II do Código Penal,  ..
+Pois bem. O Juízo de primeiro grau, ao decretar a custódia cautelar e depois, ao preservá-la em relação ao paciente, evidenciou a necessidade do cárcere com o intuito de garantir a ordem pública haja vista a gravidade concreta da conduta investigada ao descrever o modus operandi empregado na empreitada delitiva e potencial alto grau de periculosidade do agente (fl. 103; grifamos):
+ ..  Calha acentuar que o aludido panorama, que justificou a adoção da providência extrema, não sofreu alterações, descabendo cogitar, portanto, de revogação/substituição da prisão preventiva, regida pela cláusula "rebus sic standibus".
+Registre-se, na esteira da manifestação do Ministério Público ao ID 10316712855, que o suspeito e a vítima iniciaram uma discussão e o conduzido sacou uma arma de fogo, efetuando disparos contra o contendor. O ofendido foi atingido na mão e no ombro. O intento supostamente homicida teria se frustrado por razões alheias à vontade do agente, isto é, pela intervenção das pessoas que se encontravam no local dos fatos e pronto socorro.
+A realização de disparos de arma de fogo como resposta a desentendimento supostamente banal e na presença de outras pessoas, contra indivíduo desarmado, sinalizam, em princípio, para a personalidade desajustada do capturado e para o risco que a sua liberdade representa para a manutenção da paz social e para o resguardo da integridade física do ofendido.
+Dessa forma, o acervo fático-probatório reunido até então confere lastro à decisão que impingiu, ao investigado, o encarceramento preventivo, não sendo o caso de revogá-lo ou substitui-lo por medidas alternativas à prisão.
+Em consequência, INDEFIRO o pedido de revogação da prisão preventiva.
+O Tribunal estadual corroborou a legitimidade do decreto prisional à fl. 20, consignando que a decisão se mostra suficientemente motivada, pois a douta autoridade apontada como coatora declinou os motivos que justificavam o acautelamento provisório do paciente, tendo em vista as circunstâncias que revestem o caso (fl. 18).
+Com suporte nas informações supra coletadas nas decisões das instâncias ordinárias, tenho que as circunstâncias nelas destacadas justificam a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública
+Nesse sentido:
+A prisão preventiva é cabível mediante decisão devidamente fundamentada e com base em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal. Na hipótese, a custódia cautelar está devidamente fundamentada na garantia da ordem pública, dada a gravidade concreta dos crimes, a periculosidade do agente e o modus operandi. (RHC n. 158.318/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022; grifamos).
+"não há ilegalidade na custódia devidamente fundamentada na periculosidade do agente para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017) (AgRg no HC n. 743.425/SE, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Insta registrar que a imposição da prisão preventiva no caso em apreço, não ofende o princípio da presunção de inocência, pois a custódia não decorreu da simples gravidade abstrata do delito, mas está fundamentada em indícios de autoria e materialidade delitivas, bem como em elementos concretos que demonstram o perigo que a liberdade do paciente pode representar para a ordem pública.
+Por fim, anoto que, sob pena de incorrer em indevida supressão de instância, esta Corte não pode conhecer da tese que sustenta que decisão de converter a prisão flagrancial em preventiva já estaria previamente pronta, o que revelaria um pré-julgamento do caso pela Magistrada singular. Isso porque o Tribunal de origem não emitiu juízo de valor sobre esse tema.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+(..)
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+Ante o exposto, conheço parcialmente da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
