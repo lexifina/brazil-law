@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 286):
+REEXAME NECESSÁRIO E RECURSO DE APELAÇÃO EM AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL - RIO MIRANDA - SENTENÇA DE PARCIAL PROCEDÊNCIA - PEDIDO DE DEMOLIÇÃO JULGADO IMPROCEDENTE - EDIFICAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE - DESPROPORÇÃO DA MEDIDA - HIPÓTESE DE EXCEÇÃO DISPOSTA NO NOVO CÓDIGO FLORESTAL - RECURSOS CONHECIDOS E NÃO PROVIDOS CONTRA O PARECER DA PGJ.
+1) O texto constitucional, no seu art. 225, assegura que todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações.
+2) O art. 61-A e §12 do Código Florestal vigente permite a continuidade de atividades agrossilvipastoris, de ecoturismo e de turismo rural consolidadas em área de preservação permanente até 22/07/2008.
+3) Recurso conhecido e desprovido, sentença confirmada em reexame necessário.
+Os embargos de declaração opostos foram rejeitados (fls. 315/321).
+Nas razões de seu recurso especial, a parte recorrente alega violação aos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil (CPC), apontando omissão quanto "à demolição de casas de lazer edificadas em área de preservação permanente, bem como a recuperação da vegetação ciliar antes existente" (fl. 333).
+Aduz a ocorrência de contrariedade aos arts. 3º, II, VIII, IX e X, 4º, I, 8º e 61-A da Lei 12.651/2012, aos arts. 3º, IV, 4º, VII, e 14, § 1º, da Lei 6.938/1981 bem como ao art. 3º da Lei 6.766/1979.
+Argumenta que as edificações existentes na área de preservação permanente se destinam ao lazer, de maneira que não estão abrangidas pelas hipóteses previstas em lei, não sendo possível sua consolidação no local pelo transcurso do tempo.
+Demonstra, ainda, divergência jurisprudencial.
+Requer o provimento do recurso especial para "reformar parcialmente o acórdão recorrido, a fim de condenar a recorrida na obrigação de retirar as edificações existentes na área de preservação permanente, recuperar a área degradada, bem como ao pagamento de indenização por danos ambientais" (fl. 368).
+A parte adversa não apresentou contrarrazões (fl. 545).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de ação civil pública ajuizada pela parte ora recorrente em que requer a demolição de imóvel construído em área de proteção permanente (APP), com a finalidade exclusiva de lazer.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fls. 301/305):
+Nesse aspecto, salienta-se que os embargos sub examine são opostos porque esse Sodalício não enfrentou todos os argumentos deduzidos no processo capazes de, em tese, infirmar as conclusões por ele adotadas, haja vista não ter se pronunciado sobre os precedentes do Superior Tribunal de Justiça em casos análogos ao presente, bem como sobre os dispositivos aplicáveis ao caso, o que se faz necessário até mesmo para fins de prequestionamento.
+Insta destacar que a presente demanda, embora com objeto diverso, tem a mesma questão de fundo de outras ações civis públicas propostas pelo Ministério Público envolvendo o Rio Miranda.
+Com efeito, à guisa de ilustração, o Ministério Público em Segunda Instância colacionou arestos recentes do Superior Tribunal de Justiça dentre dezenas de outros sobre situações idênticas à dos presentes autos (fls. 265-268), nos quais a referida Corte Superior restabeleceu as decisões de primeira instância que determinaram a demolição de casas de lazer edificadas à margem do Rio Ivinhema, bem como a recuperação da vegetação ciliar antes existente.
+ ..
+O que se verifica, in casu, é que a omissão do acórdão assenta-se em ponto essencial da discussão aventada nos autos, produzindo reflexos sobre toda a decisão embargada. Isso porque, como anotado alhures, o acórdão deu provimento ao recurso de apelação, ao argumento de que "a lei permite a continuidade da atividade desenvolvida (turismo de pesca)," (f. 289), sem, no entanto, considerar a natureza de rancho de pesca, a qual trata de atividade desenvolvida para o singelo objetivo de permitir a poucos privilegiados a prática de pescaria e do desporto náutico.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL decidiu o seguinte (fl. 317):
+Depreende-se que foram adotadas como razão de decidir:
+Com efeito, o pleito do Ministério Público estadual não se mostra adequado ao caso, devendo o desfecho proferido pelo juízo a quo ser mantido por seus próprios e jurídicos fundamentos. E isso, porque a despeito de ser incontroverso na hipótese que o requerido, ora apelado, detêm o domínio de imóvel, que margeia o Rio Miranda, com edificação em área de preservação permanente, que, por isso, causou a supressão da vegetação local, denota-se que a mesma existe, aproximadamente, há mais de 40 (quarenta) anos, tendo baixo impacto ambiental. Ademais, verifica-se que não há exploração comercial no local que, inclusive, denota ser pouco utilizado - local de lazer do proprietário e sua família que residem em outro estado da federação.
+Ainda complementa:
+Assim, considerando que a lei permite a continuidade da atividade desenvolvida (turismo de pesca), conclui-se que o pleito de remoção/demolição com o fito de impelir que os apelados procedam a recuperação da área mostra-se despropositada no caso. Pertinente registrar, ainda, que além da edificação constante do imóvel do apelado causar baixo impacto ambiental, sabe-se por experiência em outros feitos com a mesma causa de pedir nos quais restou realizada perícia técnica, que a demolição da edificação como a de propriedade dos apelados não restauraria a área, considerando o longo lapso temporal - no mínimo uma década, visto que antecede o ano de 2008. In casu não se está a anistiar infrações ao meio ambiente, não se podendo perder de vista que eventual ação no intuito de promover a recuperação da região poderia causar ainda mais problemas ao meio ambiente, sendo que a concessão das medidas pleiteadas de remoção e demolição acabariam por ferir os princípios da razoabilidade e da proporcionalidade. Isso porque restou demonstrado que a complexidade da situação e o alto impacto social desaconselham a demolição peremptória da edificação realizada no imóvel do apelado, que certamente representaria medida desproporcional.
+Tratando-se de mero inconformismo com o aresto, não poderia utilizar a presente via recursal para rediscussão da matéria amplamente debatida e superada nesta instância.
+O Tribunal de origem decidiu que as edificações deviam ser mantidas porque a atividade desenvolvida possuía baixo impacto ambiental.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ao solucionar a controvérsia, o Tribunal de origem estabeleceu o que segue (fl. 288):
+E isso, porque a despeito de ser incontroverso na hipótese que o requerido, ora apelado, detêm o domínio de imóvel, que margeia o Rio Miranda, com edificação em área de preservação permanente, que, por isso, causou a supressão da vegetação local, denota-se que a mesma existe, aproximadamente, há mais de 40 (quarenta) anos, tendo baixo impacto ambiental.
+Ademais, verifica-se que não há exploração comercial no local que, inclusive, denota ser pouco utilizado - local de lazer do proprietário e sua família que residem em outro estado da federação.
+Foi reconhecido que tinha havido supressão da vegetação local, e que o imóvel existente na APP configurava local de lazer do proprietário e de sua família.
+Assim, o acórdão recorrido diverge do entendimento do Superior Tribunal de Justiça (STJ) de que edificações em APP se dão de forma totalmente excepcional, somente nas hipóteses de utilidade pública, de interesse social ou de baixo impacto ambiental previstas no Código Florestal, que não abrange casas de veraneio destinadas ao lazer individual.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANO AMBIENTAL. CONSTRUÇÃO DE EDIFICAÇÕES. CASA DE VERANEIO. MARGEM DE RIO. ÁREA DE PRESERVAÇÃO PERMANENTE. FATO CONSUMADO. INAPLICABILIDADE EM MATÉRIA AMBIENTAL. SÚMULA 613/STJ. ÁREA NON AEDIFICANDI.
+ ..
+2. A conclusão da instância ordinária dissentiu da iterativa jurisprudência desta Corte, consubstanciada na Súmula n. 613: "Não se admite a aplicação da teoria do fato consumado em tema de Direito Ambiental".
+3. A APP é caracterizada como faixa de terreno onde é vedada a construção, cuja exploração econômica direta, desmatamento ou ocupação humana se dão de forma totalmente excepcional e em numerus clausus, somente nas hipóteses de utilidade pública, de interesse social ou de baixo impacto ambiental previstas nesta Lei, mediante rigoroso procedimento de licenciamento administrativo.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.769.681/MS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+ADMINISTRATIVO. AMBIENTAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. RANCHO DE PESCA EM ÁREA DE PRESERVAÇÃO PERMANENTE. USO NÃO COMERCIAL INCONTROVERSO. SÚMULA 7/STJ. INAPLICABILIDADE. ENQUADRAMENTO COMO ATIVIDADE TURÍSTICA. IMPOSSIBILIDADE. USO PARA O LAZER PRIVADO. CASA DE VERANEIO. EXCEÇÃO DO ART. 61-A DO CÓDIGO FLORESTAL. AFASTAMENTO. RECURSO ESPECIAL CONHECIDO E PROVIDO. AGRAVO INTERNO PROVIDO.
+ ..
+2. No âmbito jurídico e de políticas públicas, a caracterização do turismo pressupõe o desenvolvimento de atividades econômicas, não podendo ser confundido ou igualado com o mero lazer privado do proprietário do imóvel.
+3. A jurisprudência desta Corte repudia a inclusão nas exceções do art. 61-A do Código Florestal de casas de veraneio, equiparáveis ao rancho de pesca particular do caso em análise.
+4. A supressão de vegetação nativa em área de preservação permanente foi reconhecida pela origem, sendo forçosa a demolição do imóvel irregular e a indenização integral do dano ambiental, tanto permanente quanto intercorrente, em valores a serem apurados individualmente em liquidação.
+5. Agravo interno provido.
+(AgInt no REsp n. 1.884.722/MS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+Além disso, a Súmula 613 do STJ fixa que " n ão se admite a aplicação da teoria do fato consumado em tema de Direito Ambiental", de maneira que não merece ser mantido o argumento de que a edificação existe há mais de 40 anos.
+Nesse sentido, confiram-se os seguintes julgados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. INEXISTÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. OBRIGAÇÃO DE FAZER. LIGAÇÃO DE ENERGIA ELÉTRICA EM RESIDÊNCIA LOCALIZADA EM ÁREA DE PRESERVAÇÃO PERMANENTE - APP. OFENSA À COISA JULGADA. RECURSO ESPECIAL PROVIDO.
+ ..
+5. O STJ não admite, em tema de Direito Ambiental, a incidência da teoria do fato consumado (Súmula 613). Confira-se a posição do Supremo Tribunal Federal: "A teoria do fato consumado não pode ser invocada para conceder direito inexistente sob a alegação de consolidação da situação fática pelo decurso do tempo. Esse é o entendimento consolidado por ambas as turmas desta Suprema Corte. Precedentes: RE 275.159, Rel. Min. Ellen Gracie, Segunda Turma, DJ 11/10/2001; RMS 23.593-DF, Rel. Min. Moreira Alves, Primeira Turma, DJ de 2/2/01; e RMS 23.544-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ de 21.6.2002" (RE 609.748/RJ AgR, Rel. Min. Luiz Fux, Primeira Turma, j. em 23/8/2011).
+6. Recurso Especial provido.
+(REsp n. 1.989.227/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/6/2024, DJe de 24/6/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EDIFICAÇÃO DE CASA DE VERANEIO EM ÁREA DE PRESERVAÇÃO PERMANENTE. MARGENS DO RIO IVINHEMA/MS. IMPOSSIBILIDADE. ART. 61-A DA LEI N. 12.651/12. NÃO INCIDÊNCIA.
+ ..
+2. Os efeitos do art. 61-A, da Lei n. 12.651/12, não retroagem para permitir a manutenção de edificações de veraneio em Área de Preservação Permanente.
+3. A teoria do fato consumado não se aplica em casos de ilícitos ambientais.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.998.251/MS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de condenar IRACI RIBEIRO DA SILVA à obrigação de retirar as edificações existentes na área de preservação permanente e recuperar a área degradada; determino o retorno dos autos à origem para que seja verificada a necessidade de pagamento de indenização pelos danos ambientais.
+Publique-se. Intimem-se.
+ EMENTA
