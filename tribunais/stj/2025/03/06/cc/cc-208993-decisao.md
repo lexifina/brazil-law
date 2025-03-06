@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE ACAILANDIA - MA (Juízo suscitante) e o JUIZO FEDERAL DA 1A VARA DE IMPERATRIZ - SJ/MA (Juízo suscitado).
+O incidente processual decorre de ação de reintegração de posse com demolitória ajuizada pela Ferrovia Norte Sul S.A. em desfavor de particular em que a parte autora objetiva a desocupação da faixa de domínio de ferrovia federal.
+O JUIZO FEDERAL DA 1A VARA DE IMPERATRIZ - SJ/MA, para quem a ação foi distribuída, se declarou incompetente para processar e julgar o processo por entender que "a demanda foi proposta por pessoa jurídica de direito privado contra particulares, razão pela qual este juízo carece de competência para apreciação, nos termos do dispositivo constitucional acima mencionado" (fl. 266).
+Por sua vez, o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE ACAILANDIA - MA suscitou o presente conflito em razão de que "a parte demandada encontra-se ocupando fração de terreno da faixa de domínio da União, situação que atrai a competência da Justiça Federal, conforme jurisprudência colacionada, sendo cediço que a incompetência absoluta pode ser reconhecida, inclusive, de ofício, em qualquer grau de jurisdição" (fl. 272).
+O Ministério Público Federal opinou pela competência da Justiça Estadu al (fls. 281/285).
+É o relatório.
+Nos termos da Súmula 150 do Superior Tribunal de Justiça, "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas".
+O enunciado 254 da Súmula do Superior Tribunal de Justiça, por sua vez, estabelece que "a decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual".
+Na espécie, o Juízo federal afastou o interesse da União na controvérsia, o que acarretou a declinação da competência à Justiça comum. O julgado assim dispôs (fl. 266):
+No caso presente, a demanda foi proposta por pessoa jurídica de direito privado contra particulares, razão pela qual este juízo carece de competência para apreciação, nos termos do dispositivo constitucional acima mencionado.
+O simples fato de a autora ostentar a condição de subconcessionária de serviço público federal, como no caso, não atrai a competência da justiça federal para apreciação do feito, por desatendimento ao comando constante na Carta Magna.
+Nesse contexto, não cabendo à Justiça estadual o reexame da conclusão do Juízo suscitado quanto ao desinteresse federal na causa, deve ser estabelecida a competência do juízo local, ora suscitado. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REINTEGRAÇÃO DE POSSE. CHAMAMENTO DA UNIÃO AO PROCESSO. DESNECESSIDADE. INTERESSE DE ENTIDADES FEDERAIS AFASTADO PELA JUSTIÇA FEDERAL. REEXAME. IMPOSSIBILIDADE. SÚMULAS 150 E 254 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Consoante inteligência do art. 109, I, da Carta Política, como regra, a competência da Justiça Federal, em matéria cível, é estabelecida em razão da pessoa, abrangendo as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+III - Nos termos do enunciado sumular 150 desta Corte, compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.
+IV - In casu, o Juízo federal afastou o interesse da União e da ANTT na lide, fato que corrobora a competência da Justiça Estadual para o julgamento da lide.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no CC n. 183.648/MA, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 17/5/2022, DJe de 19/5/2022.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONFLITO NEGATIVO INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. INTERESSE JURÍDICO DA UNIÃO AFASTADO PELA JUSTIÇA FEDERAL. IMPOSSIBILIDADE DE REEXAME DA REFERIDA DECISÃO PELO JUÍZO ESTADUAL. INCIDÊNCIA SÚMULAS 150, 224 E 254/STJ. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL. JULGAMENTO DE PLANO. POSSIBILIDADE. ARTIGO 955, PARÁGRAFO ÚNICO, DO CPC/15. SÚMULA 568/STJ. HIPÓTESES DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO. NÃO EVIDENCIADAS NO PRESENTE CONFLITO. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se de conflito negativo de competência suscitado pelo ora agravante em face do Juízo Federal da Vara de Passos - SJ/MG e do Juízo de Direito da 2ª Vara Cível de Piumhi/MG, na ação de reintegração de posse ajuizada por Furnas Centrais Elétricas, S/A.
+2. Com fundamento na orientação contida no artigo 955, parágrafo único, inciso I, do CPC/15, e na Súmula 568/STJ, cabível o julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão discutida.
+3. Nos termos do artigo 178, do CPC/15, o Ministério Público será intimado para intervir como fiscal da ordem jurídica nas hipóteses previstas em lei ou na Constituição Federal e nos processos que envolvam interesse público ou social e litígios coletivos pela posse de terra rural ou urbana, o que não ocorre no caso.
+4. Tendo o Juízo Federal reconhecido a ilegitimidade da União para figurar no polo passivo do litigio, é de rigor o processamento e julgamento da demanda pelo Juízo Estadual.
+5. Aplicação do entendimento firmado nas Súmulas 150, 224 e 254 do STJ.
+6. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no CC n. 179.360/MG, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 29/6/2021, DJe de 1/7/2021.)
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE ACAILANDIA - MA.
+Publique-se. Comunique-se.
+ EMENTA
