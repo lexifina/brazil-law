@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 634):
+PLANO DE SAÚDE. AÇÃO REVISIONAL C/C REPETIÇÃO DE INDÉBITO. REAJUSTE ANUAL. SINISTRALIDADE. PARCIAL PROCEDÊNCIA. APELO DA RÉ. NÃO ACOLHIMENTO. Evidenciada a abusividade dos índices aplicados de forma unilateral e sem transparência pela requerida. Ausência de bases atuariais a comprovar a necessidade do reajuste. Ônus probatório que cabia à ré. Violação ao dever de informação e à boa-fé contratual. Precedentes citados. Manutenção da sentença. Honorários majorados em 2% (art. 85, §11, CPC).
+RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 680/683).
+Em suas razões (e-STJ fls. 645/667), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais: arts. 35-E, § 2º, da Lei n. 9.656/1998, 20 da LINDB, 421 e 478 do CC/2002, 489, § 1º, IV, e 1.022, II, do CPC/2015.
+Insurge-se contra a seguinte conclusão da Corte local (e-STJ fl. 640).
+Inequívoco que a cláusula que prevê o reajuste anual não possui a clareza necessária, eis que sua redação impede a verificação, pelo consumidor, da lisura dos índices aplicados, deixando-o assim em situação de desvantagem, o que fere também o princípio da vulnerabilidade contido no Código de Defesa do Consumidor, aplicável à espécie por força da Súmula 608 do Superior Tribunal de Justiça5. Por conseguinte, referida disposição contratual não pode ser aceita, por violar o dever de informação (art. 6.º, III, do CDC) e o princípio da boa-fé objetiva.
+A parte recorrente afirma:
+(i) violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, visto que a Corte local "deixou de enfrentar os argumentos de observância à liberdade de contratar, consequencialismo da decisão proferida" (e-STJ fl. 651);
+(ii) ofensa ao art. 421 do CC/2002, porquanto "o contrato representa a manifestação da vontade livre das partes, já que estas têm plena liberdade de contratar ou não, ressaltando-se, no entanto, que a partir da celebração do contrato, suas disposições refletem a autorregulação dos interesses dos contratantes. Ora, viola a liberdade contratual exercida entre estes a conclusão adotada pelo v. acórdão vergastado" (e-STJ fl. 653);
+(iii) desrespeito ao art. 20 da LINDB, visto que, "Ao determinar o afastamento de obrigação de obrigação legalmente constituída, o Poder Judiciário cria uma situação de imprevisibilidade que, ao final, traz prejuízo para toda a massa de beneficiários" (e-STJ fl. 656);
+(iv) contrariedade ao art. 35-E, § 2º, da Lei n. 9.656/1998, pois:
+a. o contrato objeto da presente demanda é da modalidade COLETIVO POR ADESÃO, motivo pelo qual não são aplicáveis os índices de reajustes previstos pela ANS, porquanto estipulados para planos de modalidade diversa (individuais) (e-STJ fl. 656);
+b. o art. 13 da RN 171/2008 editada pela ANS, dispõe que, para os planos coletivos de assistência à saúde (adesão ou empresariais), os percentuais de reajustes financeiros anuais aplicados aos contratos apenas deverão ser informados à ANS , para avaliação e controle a posteriori, não exigindo qualquer limitação máxima do índice (e-STJ fl. 657);
+(v) v iolação do art. 478 do CC/2002, porque "a "solução" adotada pelo E. Tribunal de Justiça de São Paulo não pode ser mantida, pois implica em redução expressiva do valor da mensalidade, com aumento de custos sem o necessário aumento da receita, causando a impossibilidade de manutenção do contrato" (e-STJ fl. 658); e
+(vi) dissídio jurisprudencial, sustentando que "o entendimento exarado pelo E. Tribunal de Justiça de São Paulo encontra-se em pleno desacordo com a jurisprudência deste Tribunal Superior" (e-STJ fl. 664 ).
+Contrarrazões apresentadas (e-STJ fl. 687/714) .
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A controvérsia tem origem no aumento da mensalidade do plano de saúde coletivo por adesão entre 2016 e 2022, com base na cláusula de reajuste por sinistralidade e financeiro. O usuário do plano de saúde alegou que não lhe foram apresentados os critérios e a metodologia utilizados para o cálculo das mensalidades.
+Pleiteou a substituição dos índices de reajuste aplicados pela operadora entre 2016 e 2022 pelos índices estabelecidos pela ANS, além da restituição dos valores pagos a maior "desde outubro de 2019" (e-STJ fl. 17).
+O Juízo de origem julgou parcialmente procedentes os pedidos para (e-STJ fl. 497):
+1) condenar a ré na obrigação de fazer consistente em recalcular as mensalidades do autor no período de 2019 a 2022, substituindo os índices aplicados a título de reajuste por sinistralidade por aqueles a serem apurados em perícia atuarial em liquidação de sentença, salvo se não forem benéficos ao autor. Caso a ré não se desincumba do ônus probatório que a ele fica imposto, deverão ser adotados, subsidiariamente, os índices previstos pela ANS para os contratos individuais/familiares.
+2) condenar a ré a restituir os valores pagos em excesso pelo autor, de forma simples e observada a prescrição trienal, corrigidos monetariamente pela Tabela Prática do E. TJSP desde cada desembolso e acrescidos de juros de mora de 1% ao mês desde a citação, tudo a ser apurado em regular liquidação de sentença.
+O Tribunal a quo negou provimento à apelação da operadora, mantendo a
+sentença.
+(I) Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido se pronuncia, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+As teses sobre a liberdade contratual e o consequencialismo não foram devolvidas por meio da apelação, tendo sido alegadas posteriormente, em inovação recursal, razão pela qual não há falar em omissão do Tribunal de origem nesses pontos.
+Desse modo, não assiste razão à parte recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+(II) O Tribunal de origem concluiu que (e-STJ fl. 641 - grifei):
+Embora o princípio da pacta sunt servanda seja de observância salutar, considerando a liberdade contratual (autonomia da vontade e sua força obrigatória) ele não é absoluto e deve ser interpretado em consonância com as normas de ordem pública, bem como com os princípios norteadores das relações contratuais - função social (art. 421 do CC) e boa-fé (art. 422 do CC) - visando à preservação do ajuste e à efetivação do pretenso objetivo.
+Essa conclusão está de acordo com a jurisprudência pacífica do STJ, no sentido de que as cláusulas gerais da boa-fé e da função social autorizam a revisão dos contratos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL CUMULADA COM COBRANÇA E INDENIZATÓRIA. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE CONTRADIÇÃO. PACTA SUNT SERVANDA. POSSIBILIDADE DE MITIGAÇÃO. DANO MATERIAL, MULTA CONTRATUAL E DANO MORAL. SÓCIO. DIREITO PRÓPRIO COMO ALHEIO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A contradição apta a ensejar a oposição dos declaratórios é aquela contida no próprio decisum, isto é, nos tópicos internos da decisão, e não em cotejo com outros atos judiciais ou posicionamento de outras Cortes de Justiça, situação que impede o conhecimento do apelo nobre por suposta violação do art. 1.022 do CPC.
+2. A jurisprudência desta Corte Superior é firme no sentido de que o princípio do pacta sunt servanda pode ser relativizado, principalmente diante dos princípios da boa-fé objetiva, da função social dos contratos e do dirigismo contratual.
+3. Somente o titular da relação jurídica material pode pleitear, em juízo, tutela jurisdicional, com o escopo de resguardar determinada posição jurídica, conteúdo dessa relação.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.137.625/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/4/2023, DJe de 2/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PACTA SUNT SERVANDA. POSSIBILIDADE DE MITIGAÇÃO. PRECEDENTES. DESCUMPRIMENTO CONTRATUAL. CULPA EXCLUSIVA DA CONSTRUTORA. SÚMULAS 5 E 7/STJ. DIREITO À RESTITUIÇÃO INTEGRAL DAS PARCELAS. ENTENDIMENTO CONSOLIDADO NO STJ. DANO MORAL. OCORRÊNCIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que o princípio do pacta sunt servanda pode ser relativizado, principalmente diante dos princípios da boa-fé objetiva, da função social dos contratos e do dirigismo contratual.
+2. Tendo a Corte de origem concluído que o descumprimento contratual decorreria de culpa exclusiva da construtora, eventual conclusão no sentido de afastar a sua responsabilidade esbarraria no óbice dos Enunciados n. 5 e 7/STJ.
+3. Formada a convicção de que a rescisão contratual decorreu de culpa exclusiva da recorrente, a restituição das parcelas pagas pela promissária compradora deve se dar de forma integral, conforme entendimento consolidado nesta Corte Superior.
+4. A alteração das conclusões adotadas pela Corte de origem acerca da ocorrência do dano moral demandaria, necessariamente, reexame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto no Enunciado n. 7 deste Tribunal Superior.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.214.641/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/3/2018, DJe de 26/3/2018.)
+Ademais, a Corte a quo entendeu que "a cláusula que prevê o reajuste anual não possui a clareza necessária, eis que sua redação impede a verificação, pelo consumidor, da lisura dos índices aplicados, deixando-o assim em situação de desvantagem, o que fere também o princípio da vulnerabilidade" (e-STJ fl. 640).
+Dessa forma, verifica-se que o Tribunal a quo julgou a lide com respaldo em ampla análise contratual, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da Súmula n. 5 do STJ.
+De fato, para afastar o entendimento da Corte estadual seria necessário estudar o contrato em sua integralidade. Imprescindível, portanto, interpretar todas cláusulas, a ordem em que se encontram, as obrigações previstas e as concessões mútuas.
+(III) A oposição de embargos de declaração na origem visando prequestionar teses não suscitadas anteriormente não configura prequestionamento, mas pós-questionamento, o que não é admitido pela jurisprudência do STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CONFIGURAÇÃO DA MORA NO CONTRATO DE CÉDULA DE CRÉDITO RURAL. MATÉRIA ALEGADA APENAS EM EMBARGOS DE DECLARAÇÃO. INDEVIDO PÓS-QUESTIONAMENTO. CONTRATO DE CRÉDITO FIXO. MORA DESCARACTERIZADA.
+1. A oposição de embargos de declaração, com a finalidade de prequestionar tema não arguido anteriormente, configura indevido pós-questionamento, incidindo, na hipótese, o óbice da Súmula n. 282 do STF.
+2. A cobrança do crédito com acréscimos indevidos, no período de normalidade contratual, como por exemplo, a capitalização mensal dos juros no contrato de crédito fixo, não tem o efeito de constituir o devedor em mora.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 774.766/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/9/2016, DJe de 8/9/2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. 1. MATÉRIAS NÃO PREQUESTIONADAS. INCIDÊNCIA DA SÚMULA 211 DO STJ. 1.1. RAZÕES DE APELAÇÃO SILENTES QUANTO ÀS QUESTÕES SOMENTE SUSCITADAS NO BOJO DOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. 1.2. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART.
+1.022 DO CPC/2015. PRECEDENTE. 2. AGRAVO INTERNO IMPROVIDO. 1. No que se refere à nulidade ocorrida pela juntada do laudo pericial confeccionado em outro processo sem a participação do recorrente e à necessidade de diminuição do valor da indenização, tendo em vista a verificação de culpa leve, percebe-se que as questões não foram prequestionadas pela Corte de origem, mesmo após a oposição de embargos de declaração com essa finalidade, de modo que se mostra inviável seu debate na via do recurso especial, nos termos da jurisprudência consolidada na Súmula 211 do STJ.
+1.1. "A oposição de Embargos de Declaração após a formação do acórdão, com o escopo de que seja analisado tema não arguido anteriormente no processo, não configura prequestionamento, mas pós-questionamento, razão pela qual a ausência de manifestação do Tribunal sobre a questão não caracteriza negativa de prestação jurisdicional" (AgInt no AREsp 885.963/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/9/2016, DJe 11/10/2016).
+1.2. Ainda que assim não fosse, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+2. Agravo interno improvido.
+(AgInt no AREsp n. 1.043.549/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/6/2017, DJe de 1/8/2017.)
+(IV) Apesar de opostos embargos de declaração, a tese de contrariedade ao
+art. 35-E, § 2º, da Lei n. 9.656/1998 não foi expressamente indicada nas razões do recurso nem enfrentada pelo Tribunal.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a Súmula n. 211/STJ.
+(V) O Tribunal de origem concluiu pela abusividade da "cláusula que prevê o reajuste anual", sob o fundamento de que referida disposição contratual (e-STJ fl. 640):
+ ..  não possui a clareza necessária, eis que sua redação impede a verificação, pelo consumidor, da lisura dos índices aplicados, deixando-o assim em situação de desvantagem, o que fere também o princípio da vulnerabilidade contido no Código de Defesa do Consumidor, aplicável à espécie por força da Súmula 608 do Superior Tribunal de Justiça5. Por conseguinte, referida disposição contratual não pode ser aceita, por violar o dever de informação (art. 6.º, III, do CDC).
+Contudo, no recurso especial, apontando contrariedade ao art. 478, a parte sustenta somente que "a impossibilidade de manutenção do contrato" por "redução expressiva da mensalidade, com aumento de custos sem o necessário aumento da receita" (e-STJ fl. 658).
+Verifica-se que não houve impugnação de todos os fundamentos do acórdão recorrido. Incide, portanto, no caso a Súmula n. 283 do STF.
+(VI) Para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Diante do exposto, CONHEÇO EM PARTE do recurso e, nessa extensão, NEGO-LHE provimento.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos
+§§ 2º e 3º do referido dispositivo.
+Publique-se e intim em-se.
+EMENTA
