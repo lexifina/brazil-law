@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Igor Freitas da Silva Rocha, em que se aponta como autoridade coatora a Quinta Câmara Criminal do Tribunal de Justiça de São Paulo, que denegou a ordem no Habeas Corpus criminal n. 2003485-03.2025.8.26.0000, mantendo a prisão preventiva imposta ao paciente pelo Juízo da Vara Criminal da comarca de Marília/SP, pela suposta prática do crime de tráfico de drogas.
+Neste writ, sustenta a defesa constrangimento ilegal na manutenção da constrição cautelar, visto que carente de fundamentação concreta a justificar a medida. Alega que a quantidade de drogas apreendidas não é expressiva, não justificando a prisão preventiva (fls. 2/4).
+Discorre sobre as condições pessoais do paciente e a desproporcionalidade da imposição da medida mais severa, destacando que medidas cautelares alternativas seriam suficientes.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva, com a expedição do respectivo alvará de soltura.
+É o relatório.
+Pelo decreto prisional, infere-se que a medida constritiva foi devidamente fundamentada na necessidade de garantia da ordem pública e na conveniência da instrução criminal. Tais fundamentos estão substanciados na apreensão de 105 microtubos contendo cocaína (123,68 g) e 8 porções de maconha (46,38 g) - (fls. 11/14).
+O Tribunal de Justiça manteve a constrição cautelar, destacando que (fls. 29/30):
+ ..
+Verifica-se, desse modo, que, além da materialidade, dos indícios de autoria e dos requisitos previstos no artigo 312 do Código de Processo Penal, a decretação da prisão ampara-se, também, na gravidade do delito, anotando-se que apesar de a gravidade do crime, por si só, não ser suficiente para amparar a segregação, ela deve ser apreciada no momento da decretação da prisão preventiva.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+E, de fato, para esta Corte Superior, a quantidade, a variedade e a natureza da droga apreendida, bem como o risco de reiteração delitiva, podem servir para o Magistrado reconhecer a gravidade concreta da ação e a dedicação do agente a atividades criminosas, elementos capazes de justificar a necessidade da custódia preventiva para a garantia da ordem pública (HC n. 466.654/PR, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018).
+Contudo, in casu, verifico ser desproporcional a imposição de prisão preventiva, considerando a primariedade do paciente, o crime foi cometido sem violência, e a quantidade de droga apreendida não se mostra expressiva a justificar a medida mais gravosa - 123,68 g de cocaína e 46,38 g de maconha (fls. 11/14). Portanto, a gravidade da infração deve ser avaliada com base na quantidade e no contexto das drogas apreendidas.
+A prisão preventiva deve ser a ultima ratio, ou seja, aplicada somente quando outras medidas cautelares não forem adequadas para garantir a ordem pública, a aplicação da lei penal ou a conveniência da instrução criminal.
+A decisão de manter a prisão preventiva deve ser fundamentada na necessidade, adequação e proporcionalidade da medida em relação aos fatos e circunstâncias do caso.
+Ante o exposto, concedo liminarmente a ordem para cassar o acórdão impugnado e substituir a prisão preventiva imposta ao ora paciente por medidas cautelares, incluindo o monitoramento eletrônico, além de outras medidas que o Juízo de origem entender necessárias, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto, nos termos desta decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. 123,68 G DE COCAÍNA. 46,38 G DE MACONHA. PRIMARIED ADE. SUBSTITUIÇÃO POR OUTRAS CAUTELARES. PROPORCIONALIDADE E ADEQUAÇÃO.
+Ordem concedida, liminarmente, nos termos do dispositivo.
