@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de RODRIGO MOURA SILVA, apontando como autoridade coatora a 7ª Câmara de Coordenação e Revisão do Ministério Público Federal (Procedimento MPF n. JF-CPS-5009967-45.2021.4.03.6105-IP)
+Extrai-se dos autos que o membro do Ministério Público Federal em primeira instância promoveu o arquivamento do inquérito policial que havia sido instaurado contra o paciente, pela suposta prática dos delitos de corrupção passiva, prevaricação, advocacia administrativa, violação de sigilo funcional e porte de droga para consumo pessoal, com base na prescrição e na falta de elementos para configurar os referidos crimes.
+A magistrada de primeira instância homologou parcialmente o arquivamento, mas discordou quanto à posse de entorpecentes, apontando indícios de tráfico de drogas e remetendo os autos à 7ª Câmara do MPF, que homologou apenas parcialmente o arquivamento e indicou a possibilidade de denúncia pelo crime de tráfico internacional de entorpecentes, conforme a seguinte ementa (fls. 28/29):
+"CONTROLE EXTERNO DA ATIVIDADE POLICIAL. INQUÉRITO POLICIAL. REVISÃO DE ARQUIV AMENTO. POLÍCIA FEDERAL. INVESTIGAÇÃO SOBRE POSSÍVEL PRÁTICA DOS CRIMES DE VIOLAÇÃO DE SIGILO FUNCIONAL (ART. 325 DO CP) E PREVARICAÇÃO (ART. 319 DO CP), SUPOSTAMENTE PRATICADOS POR DELEGADO FEDERAL. AUSÊNCIA DE ELEMENTOS DE CONVICAÇÃO ACERCA DA PRÁTICA DELITIVA.
+O IPL foi instaurado para investigar possíveis ilícitos penais praticados por Delegado Federal, no âmbito da Operação Black Flag, da Polícia Federal, que apura possíveis crimes contra o Sistema Financeiro Nacional e lavagem de dinheiro.
+O DPF teria supostamente revelado informações sigilosas da operação para favorecer investigados, com os quais mantinha relações de amizade.
+Encerradas as investigações, a autoridade policial concluiu pela ausência de elementos de convicção da ocorrência dos delitos investigados.
+Ressaltou, contudo, haver provas de que o DPF transportou entorpecentes da Europa para o Brasil, tanto para consumo próprio como para repasse a pessoas próximas, havendo, contudo indícios da prática do crime previsto no art. 40, I, a Lei nº 11.343/2006 (tráfico internacional de drogas).
+O Membro oficiante promoveu o arquivamento do IPL, requerendo ao Magistrado o envio de cópia dos autos à autoridade responsável pela apuração disciplinar no âmbito da Polícia Federal.
+Quanto aos crimes de corrupção passiva, prevaricação, advocacia administrativa e violação de sigilo funcional não há nos autos justificativa para a continuidade da persecução penal, seja pela ausência de elementos de convicção de suas práticas, seja pela prescrição das penas previstas em abstrato.
+Todavia, presentes indícios suficientes da prática do delito de tráfico internacional de drogas, deve ser oferecida denúncia em desfavor do investigado.
+PELA HOMOLOGAÇÃO PARCIAL DA PROMOÇÃO DE ARQUIV AMENTO, DEVENDO A PERSECUÇÃO PENAL CONTINUAR EM RELAÇÃO À PRÁTICA DE TRÁFICO ILÍCITO DE ENTORPECENTES."
+No presente writ, a defesa sustenta a ausência de materialidade delitiva do crime de tráfico de drogas, pois não houve apreensão de entorpecentes, afirmando que decisões recentes da Terceira Seção e de ambas as Turmas Criminais do Superior Tribunal de Justiça reforçam a necessidade de apreensão da substância para comprovação da materialidade delitiva.
+Do mesmo modo, argumenta que as mensagens encontradas no celular do paciente não indicam a destinação comercial das substâncias mencionadas, sugerindo, no máximo, posse para consumo próprio, o que configuraria a prática do delito previsto no art. 28 da Lei n. 11.343/06, e não tráfico ilícito de entorpecentes.
+Aduz, ainda, que a remessa dos autos pela magistrada de primeira instância à Câmara de Revisão do MPF, após discordância quanto ao arquivamento, violou o princípio acusatório, conforme a Lei n. 13.964/19 e decisões do Supremo Tribunal Federal, afirmando que a referida lei conferiu ao Ministério Público a competência para decidir sobre o arquivamento, limitando a interferência judicial.
+Por fim, pugna pelo trancamento do inquérito policial por ausência de justa causa e a consequente suspensão da persecução penal, com base na atipicidade das condutas investigadas e na falta de provas para o prosseguimento das investigações.
+Requer, em liminar e no mérito, a concessão da ordem para que seja trancado o inquérito policial.
+O pedido de liminar foi indeferido nos termos da decisão de fls. 50/52.
+As informações foram prestadas pela instância de origem às fls. 57/84 e 89/90.
+O Ministério Público Federal emitiu parecer opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem às fls. 92/95.
+É o relatório.
+Decido.
+O presente writ não deve ser conhecido.
+Ao analisar de forma acurada os autos, nota-se que o Superior Tribunal de Justiça não possui competência para a análise de decisões prolatadas pela Câmara de Coordenação e Revisão do Ministério Público Federal, ante a ausência de previsão no art. 105, I, c, da Constituição Federal.
+Observe-se, ainda, que sequer houve incidente sobre a questão ventilada neste habeas corpus junto ao Tribunal de origem, conforme informações prestadas à fl. 89.
+Conforme precedente deste Superior Tribunal de Justiça, "Impetrado o habeas corpus contra ato proferido por Câmara de Coordenação e Revisão do Ministério Público Federal, não se constata a competência do Superior Tribunal de Justiça para apreciar o pedido" (RCD no HC n. 920.154/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/11/2024, DJe de 8/11/2024).
+Ainda sobre a questão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIDO LIMINARMENTE. INCOMPETÊNCIA. WRIT IMPETRADO DIRETAMENTE NO STJ CONTRA ATO DA CÂMARA DE COORDENAÇÃO E REVISÃO DO MINISTÉRIO PÚBLICO MILITAR. CRIME MILITAR. ART. 251 DO CPM. INCIDÊNCIA DO ACORDO DE NÃO PERSECUÇÃO PENAL NA JUSTIÇA MILITAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+1. A atuação, por força do art. 28-A, § 14, do CPP, da Câmara de Coordenação e Revisão do Ministério Público Militar, por meio dos Sub-Procuradores Gerais de Justiça Militar que a integram, em ação penal militar em trâmite no primeiro grau de jurisdição, por si só, não desloca a competência diretamente para o Superior Tribunal de Justiça para o processamento e julgamento de habeas corpus contra a decisão que manteve o não oferecimento do acordo de não persecução penal no âmbito da Justiça Militar.
+2. Em semelhante hipótese, esta Corte Superior, no julgamento do Agravo Regimental no Habeas Corpus n. 550.851/DF de minha relatoria consignou que a atuação do Procurador-Geral de Justiça do MPDFT (membro do Ministério Público da União com atuação em Tribunais) em processos de primeiro grau, por analogia ao art. 28 do CPP, sobre temas que a Corte local nem sequer tenha se manifestado, não desloca a competência para o julgamento do mandamus, diretamente, perante esta Corte Superior.
+3. O pleito não reúne condições de acolhimento, pois o referido dispositivo de lei federal infraconstitucional, nos termos do que mencionado na petição anteriormente apresentada (art. 28-A, do CP - acordo de não persecução penal), não foi objeto de específico debate perante o eg. Colegiado a quo  ..  (AgRg na PET no AREsp 1668089/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 20/10/2020, DJe de 29/10/2020).
+4. Agravo regimental improvido.
+(AgRg no HC n. 628.595/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/12/2020, DJe de 17/12/2020.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
