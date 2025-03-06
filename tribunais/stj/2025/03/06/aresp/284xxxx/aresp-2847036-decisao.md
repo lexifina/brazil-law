@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por SINDICATO DOS ESTABELECIMENTOS DE SERVIÇOS DE SAÚDE DO ESTADO DO CEARÁ contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, no qual discute as bases de cálculo do IRPJ, recolhido no regime do lucro presumido, e da CSLL, na hipótese em que há prestação de serviços hospitalares.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na súmula 284 do STF, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fl. 237):
+Esta Corte não desconhece as peculiaridades do processo coletivo, em que a tutela dos interesses poderá ser realizada em momentos distintos, o primeiro, quando da obtenção de uma sentença genérica, o segundo, em sua liquidação (que poderá ser individual ou coletiva). Ocorre que, em se tratando do rito especial de mandado de segurança, a norma de regência exige expressamente a violação ou ameaça de violação a direito líquido e certo por parte da autoridade imputada como coatora. No caso concreto, a impetrante não se desincumbe do ônus de demonstrar em que consistiria o ato reputado ilegal. Isso porque, se limita a instigar interpretação acerca da expressão "serviços hospitalares" presente no art. 15, §1º, III, "a" da Lei nº 9.249/95, sem, contudo, apontar, concretamente, em que consistiria a atuação ilegítima. Assim, o que se verifica é a tentativa de atribuir, pela presente ação mandamental, compreensão prévia do conteúdo de texto normativo, obtendo desta Corte Regional posicionamento que coincida com aquele que considera mais adequado para a concretização dos interesses de seus filiados. Vale ponderar, ainda, que embora se reconheça a possibilidade de mandado de segurança invocar a inconstitucionalidade/ilegitimidade da norma como fundamento para o pedido (Tema 430 de repetitivos), a ausência do preenchimento dos requisitos necessários ao devido processamento da ação mandamental inviabiliza a análise meritória.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fl. 357).
+Pois bem.
+Do que se observa, está correta a decisão de inadmissão do especial, pois as razões recursais não veiculam impugnação específica à fundamentação adotada pelo órgão julgador a quo.
+De fato, a petição recursal foi redigida com o destaque para a omissão do órgão julgador quanto ao benefício fiscal da Lei n. 9.249/1995; porém, o tema não foi tratado no acórdão recorrido (nem na sentença), uma vez que o processo foi extinto sem julgado do mérito.
+No contexto, portanto, as Súmulas 282, 283 e 284 do STF são óbices ao conhecimento do recurso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
