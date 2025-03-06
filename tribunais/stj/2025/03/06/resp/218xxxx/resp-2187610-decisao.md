@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 231):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. LIMITAÇÃO. 20 SALÁRIOS MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. TEMA 1.079/STJ.
+1. A limitação da base de cálculo das contribuições a terceiros em 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei n. 6.950/81, foi revogada pelo Decreto-Lei n. 2.318/86 juntamente com o caput do mesmo artigo, porquanto não é possível que remanesça em vigência parágrafo de lei estando revogado o artigo correspondente.
+2. Ao julgar o Tema 1.079 dos recursos repetitivos, o STJ decidiu que "a partir da entrada em vigor do art. 1º, I, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários".
+Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+Primeiramente, a recorrente sustenta a necessidade de suspender o feito até o trânsito em julgado do Tema 1.079/STJ.
+Alega violação dos artigos 489, §1º, IV e 1.022 do CPC/2015, ao argumento de que "não houve qualquer menção sobre os fundamentos aventados pela Embargante no tocante à manutenção do sobrestamento ou sobre os fundamentos que respaldam a necessidade de ressalva expressa quanto a análise das contribuições envolvidas no caso concreto e aquelas abrangidas pelo Tema 1.079, sendo esse, inclusive, o objeto dos Embargos de Declaração pendentes de julgamento no referido paradigma" (fl. 289).
+Acrescenta a existência de ofensa aos arts. 314 e 1.037, II, do CPC/2015, sob a tese de que, como havia decisão determinando a suspensão dos processos que versassem sobre o Tema 1.079/STJ, não poderia o Tribunal a quo ter dado andamento ao processo.
+Alega, além de dissídio jurisprudencial, a contrariedade ao art 4º, parágrafo único, da Lei n. 6.950/81, pois "é evidente que ainda permanece vigente o limite à base de cálculo das contribuições parafiscais (destinadas a outras entidades ou terceiros), principalmente àquelas destinadas ao Salário-Educação, ao SEBRAE e ao INCRA" (fl. 298).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 367-368.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Quanto ao pedido de suspensão do feito, observa-se que esta Corte, no dia 11/09/2024, julgou os aclaratórios do REsp 1.898.532/CE, relativo ao Tema 1.079/STJ, com a seguinte ementa:
+DIREITO TRIBUTÁRIO E INTERTEMPORAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. AUSÊNCIA DE OMISSÕES E OBSCURIDADE.
+I - Embargos de declaração opostos em face de acórdão que negou provimento ao recurso especial julgado sob a sistemática repetitiva, no qual se determinou a modulação dos efeitos das teses vinculantes firmadas.
+II - A questão em discussão consiste em saber se há omissões e obscuridade que justifiquem alterar os critérios empregados pelo acórdão para promover a modulação dos efeitos do julgamento.
+III - A fundamentação adotada no acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+IV - Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.898.532/CE, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 11/9/2024, DJe de 17/9/2024.)
+Dessa forma, não há que se falar em suspensão do feito.
+Além do mais, esta Corte tem posicionamento consolidado segundo o qual é "possível a aplicação imediata dos precedentes firmados em julgamentos submetidos à sistemática do recurso repetitivo ou da repercussão geral, não sendo necessário aguardar o trânsito em julgado." (AgInt no A Esp n. 2.635.267/MT, relator Ministro Raul Araújo, Quarta Turma, DJe de 29/11/2024).
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. ICMS-ST NA BASE DE CÁLCULO PIS/COFINS. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM ENTENDIMENTO FIRMADO NO JULGAMENTO DO TEMA REPETITIVO 1.231/STJ. INCIDÊNCIA DA SÚMULA 168/STJ.
+1. A Primeira Seção do STJ, no julgamento do REsp 2.075.758/ES, Tema 1.231, sob o rito dos feitos repetitivos, firmou entendimento de que " o s valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS- substituição (ICMS-ST) não geram créditos para as contribuições ao PIS/PASEP e COFINS não cumulativas".
+2. Acórdão embargado proferido pela Segunda Turma desta Corte em consonância com a orientação firmada no Tema 1.231/STJ. Possibilidade de aplicação imediata do entendimento firmado em recurso repetitivo, não sendo necessário aguardar o trânsito em julgado. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 2.071.321/RS, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 25/11/2024.)
+A recorrente, ao deduzir a tese no sentido da necessidade de observância do valor-limite de 20 salários-mínimos, para fins de apuração de folha de salários e recolhimento das contribuições destinadas ao salário-educação, deixou de impugnar o fundamento do acórdão recorrido segundo o qual (fl. 263):
+Ademais, no que tange ao salário-educação, essa contribuição possui regras próprias de incidência (art. 15 da Lei nº 9.424/1996), ou seja, alíquota de 2,5% sobre o total de remunerações pagas ou creditadas, a qualquer título, aos segurados empregados. Com efeito, regulada por lei especial (específica) e posterior a limitação disciplinada pela Lei nº 6.950/81, inaplicável à base de cálculo o teto de 20 salários-mínimos.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese/ao caso a Súmula 283/STF.
+Além disso, não é possível conhecer do recurso especial que apresenta suposta violação do 4º, parágrafo único, da Lei n. 6.950/81, pois o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. TEMA 1.079. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. REVOGAÇÃO DO ART. 4º DA LEI N. 6.950/81. SALÁRIO EDUCAÇÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
