@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manejado em desfavor de acórdão do Tribunal Regional Federal da 3ª Região , assim ementado (e-STJ, fl. 450):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. ART. 966, V, DO CPC. PENSÃO POR MORTE. INSTITUIDOR EM GOZO DE BENEFÍCIO POR FORÇA DE TUTELA POSTERIORMENTE REVOGADA. MANUTENÇÃO DA QUALIDADE DE SEGURADO. SÚMULA 343/STF.
+1. Prevalece o entendimento de que a concessão de benefício por incapacidade assegura a manutenção da qualidade de segurado, ainda que decorrente de decisão provisória. Orientação que se pauta na impossibilidade de se prejudicar os interesses da parte em situação na qual lhe é vedado o retorno ao trabalho e inexigível o recolhimento de contribuições previdenciárias.
+2. Não se admite o ajuizamento de ação rescisória sob o fundamento de violação a dispositivo de lei quando a matéria for de interpretação jurisprudencial controvertida nos tribunais (Súmula 343/STF).
+3. Pedido inicial improcedente.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 477-490).
+Nas razões recursais, a parte recorrente alegou, além de divergência jurisprudencial, violação aos arts. 11, 296, 489, II, 966, V e 1.022, I, do CPC e 15, 18, II, a, 24, parágrafo único, 25 e 74 da Lei n. 8.213/1991, sustentando negativa de prestação jurisdicional; impossibilidade de se considerar, para fins de manutenção da qualidade de segurado, o período de recebimento de benefício oriundo de decisão precária, já que a consequência lógica da revogação do provimento jurisdicional é o retorno das partes ao estado em que se encontravam; ser possível a rescisão do julgado sempre que a decisão de mérito proferida houver violado manifestamente norma jurídica.
+Defendeu que a qualidade de segurado, em virtude do período de graça, não deve ser verificada a partir do momento em que cessa o recebimento do benefício deferido por tutela antecipada, mas sim do último recebimento ou recolhimento efetuado antes da concessão da tutela provisória.
+Asseverou que (e-STJ, fl. 516) "desconsiderando o benefício recebido em razão de tutela antecipada revogada, está ausente a qualidade de segurada da falecida quando do evento morte, levando a improcedência do pedido de concessão do benefício de pensão por morte formulado na demanda primitiva".
+Afirmou que a questão debatida nos presentes autos não se mostrava controvertida junto aos Tribunais Superiores à época em que proferida a r. sentença rescindenda.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 538-542).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional, sem razão o recorrente, uma vez que as questões deduzidas no processo foram resolvidas satisfatoriamente, não se identificando vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional, conforme se verifica dos acórdãos às fls. 419-433 e 477-490 (e-STJ).
+Assim, estando devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em sua negativa.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AUXILIAR EM ADMINISTRAÇÃO DA FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA - FUB. ALEGADO DESVIO DE FUNÇÃO. SUPOSTO EXERCÍCIO DE CHEFIA DE ADMINISTRAÇÃO EM HOTEL DE TRÂNSITO. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA INEXISTÊNCIA DO CARGO DE CHEFIA NA UNIDADE, À ÉPOCA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 339/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+3. A pretensão autoral ainda encontra obstáculo na Súmula 339/STF:
+"Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia".
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.161.539/DF, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Quanto ao mérito, o Tribunal de origem concluiu por não ser cabível o ajuizamento de ação rescisória sob o fundamento de violação a dispositivo de lei quando se tratar de matéria de interpretação jurisprudencial controvertida nos tribunais (Súmula 343 do STF) .
+Veja-se (e-STJ, fls. 423-432):
+A autarquia previdenciária argumenta que o auxílio-doença concedido por força de antecipação da tutela à não pode servir à demonstração de suade cujus qualidade de segurada no momento do óbito. Isso porque a tutela foi posteriormente revogada, ante a ausência de comprovação da incapacidade para o trabalho, nos autos da ação judicial em que deferida.
+ ..
+Por sua vez, a sentença rescindenda assim tratou do tema:
+"Os documentos de (fls.27/30) comprova  sic  que a de cujus contribuiu com a previdência social até a competência de 11/2010, e mais, fora deferido à mesma o benefício de auxílio doença em face de tutela antecipada, registrado sob o número 1.266.503.714-0 com inicio em 01/11/2010 e cessado em 08/01/2015 com o falecimento da Sra. Telma, que fora concedido no processo de nº 0006468-15.2010.826.0168.
+Ao contrário do que alega a autarquia ré, a de cujus indiscutivelmente manteve sua qualidade de segurada quando do recebimento do benefício de auxílio doença em face de tutela antecipada, levando em consideração que na época em que fora concedido o benefício, a falecida estava contribuindo com a previdência social, ou seja, é de presumir que a de cujus só parou de contribuir quando começou a perceber o benefício de auxílio doença, uma vez que a mesma vinha contribuindo há anos sem interrupções conforme fls.27/30, vindo no curso do processo falecer tendo como causa da morte Choque Séptico.
+Dessa forma, conforme emerge dos autos e dos fatos narrados, tais elementos, interpretados conjuntamente, têm o condão de comprovar que a falecida, esposa do autor era segurada da previdência social.
+Em suma, estando demonstrado nos autos a condição de segurada da de cujus, a data de seu óbito e a condição de dependentes do autor, a procedência do pedido é a medida que se impõe".
+Segundo o Art. 15, da Lei 8.213/91, na redação vigente à época dos fatos, mantém a qualidade de segurado, independentemente de contribuições, sem limite de prazo, quem está em gozo de benefício.
+De acordo com o extrato do CNIS, no período de 01/11/2010 até 08/01/2015, data de falecimento da instituidora da pensão por morte, a de cujus usufruiu do benefício de auxílio-doença previdenciário, cessado em razão do óbito.
+Nos termos do Art. 18, inciso II, alínea "a", e do Art. 74, da Lei 8.213/91, com a redação dada pela Lei 9.528/97, fará jus à pensão por morte o conjunto dos dependentes do segurado que falecer, aposentado ou não, a contar da data do óbito, quando requerida até trinta dias depois deste.
+Quanto à matéria debatida, prevalece o entendimento de que a concessão de benefício por incapacidade assegura a manutenção da qualidade de segurado, ainda que decorrente de decisão provisória. Orientação que se pauta na impossibilidade de se prejudicar os interesses da parte em situação na qual lhe é vedado o retorno ao trabalho e inexigível o recolhimento de contribuições.
+Ilustram essa vertente os seguintes julgados, com destaques nossos em negrito:
+ ..
+Com efeito, na data do falecimento, mantinha-se entre a e ade cujus autarquia previdenciária uma relação de trato sucessivo que lhe auferia a condição de segurada da Previdência Social, ainda que em virtude de decisão judicial precária posteriormente reformada. Enquanto perdurou o benefício, seus efeitos jurídicos foram preservados, inclusive para fins de superveniente concessão de pensão por morte.
+Dessa forma, afigura-se razoável a compreensão adotada pelo julgado.
+Importa ressaltar que não se desconhece a existência de posicionamento contrário, in verbis:
+ ..
+Porém, não é cabível o ajuizamento de ação rescisória sob o fundamento de violação a dispositivo de lei quando se tratar de matéria de interpretação jurisprudencial controvertida nos tribunais.
+Nesse sentido, o enunciado nº 343 da Súmula do e. Supremo Tribunal Federal:
+"Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+Destarte, inarredável a improcedência do pedido formulado na inicial, por não estar caracterizada a hipótese de violação manifesta de norma jurídica.
+O apelo especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que a parte recorrente demonstre de forma clara as razões pelas quais entende que os dispositivos apontados foram malferidos pela decisão recorrida, sob pena de inadmissão.
+Na hipótese, a parte sustentou a impossibilidade de se considerar, para fins de manutenção da qualidade de segurado, o período de recebimento de benefício oriundo de decisão precária; e ser possível a rescisão do julgado sempre que a decisão de mérito proferida houver violado manifestamente norma jurídica. Limitou-se, ainda, a, apenas, afirmar que a questão debatida nos presentes autos não se mostrava controvertida junto aos Tribunais Superiores à época em que proferida a sentença rescindenda, sem contudo demonstrar tal alegação.
+Atentando-se aos argumentos trazidos pela parte recorrente e ao fundamento adotado pela Corte estadual, verifica-se que este foi utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foi suficientemente rebatido no recurso, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA COLETIVA. PRESTAÇÃO CONTINUADA. FAZENDA PÚBLICA. PRESCRIÇÃO. OCORRÊNCIA. DEFICIÊNCIA RECURSAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DOS ENUNCIADOS N. 283 E 284, AMBOS DO STF.
+(..)
+III - O fundamento do acórdão recorrido, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+IV - Esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+V - Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+VI - Agravo interno improvido. (AgInt no AREsp 1.775.664/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 10/06/2021)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do
+advogado da parte recorrida em R$ 300,00 (trezentos reais) sobre o valor fixado na origem, ressalvado, se for o caso, o benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 966, V, DO CPC. PENSÃO POR MORTE. INSTITUIDOR EM GOZO DE BENEFÍCIO POR FORÇA DE TUTELA POSTERIORMENTE REVOGADA. MANUTENÇÃO DA QUALIDADE DE SEGURADO. SÚMULA N 343/STF. FUNDAMENTOS DO ACÓRDÃO A QUO NÃO COMBATIDOS. SÚMULAS N. 283 E 284/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
