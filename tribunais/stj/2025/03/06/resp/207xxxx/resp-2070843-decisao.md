@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 326):
+APELAÇÃO - Plano de Saúde - Ação de Obrigação de Fazer c. c. Indenização por Danos Morais - Pretensão de compelir a empresa ré a custear os tratamentos denominados "Linfadenectomia Pélvica Laparoscópica" e "Prostatavesiculectomia Radical Laparoscópica para a cura de adenocarcinoma da próstata que acomete o autor - Sentença de parcial procedência - Inconformismo do ré , alegando que não pode ser compelida a custear tratamento médico não previsto no rol editado pela ANS - Descabimento - Caso em que não cabe à ré determinar o tratamento mais adequado para a cura da enfermidade que acomete o autor - Prevalência do tratamento prescrito pelo médico do autor - Rol mínimo da ANS que não pode ser utilizado para afastar a cobertura de tratamento previsto em contrato, pela possibilidade de não estar atualizado com relação aos tratamentos comprovadamente eficazes - Recurso desprovido.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 10, I, § 4º, da Lei n. 9.656/98; bem como divergência jurisprudencial.
+Argumenta, em síntese, não possuir a obrigação legal ou contratual de custear o procedimento solicitado, considerando que não se encontra previsto no rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS), tendo este natureza taxativa.
+Alega que "o tratamento reclamado não é o único disponível para o mal que lhe acomete, existindo opção de tratamento seguindo as determinações regulatórias da ANS, cuja cobertura nunca foi negada pela operadora".
+Foram apresentadas contrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+Na origem, o autor propôs ação de obrigação de fazer objetivando a cobertura do procedimento prescrito pelo médico assistente, denominado prostatavesiculectomia radical laparoscópica e linfanectomia pélvica laparoscó pica assistida por robô, haja vista o diagnóstico de câncer de próstata.
+A sentença julgou parcialmente procedente o pedido, compelindo a ré ao custeio dos tratamentos médicos prescritos ao autor.
+Interposta apelação pela parte ré, o Tribunal local negou provimento ao recurso.
+Irresignada, a ré interpôs o presente recurso especial.
+O Tribunal de origem, ao analisar a controvérsia, consignou que foi abusiva a recusa de cobertura do procedimento para tratamento do câncer de próstata que acometia o autor, com base nos seguintes fundamentos (fls. 327-329):
+Tendo as partes, portanto, celebrado contrato com previsão de cobertura de despesas relativas à assistência médico-hospitalar, sob a égide do Código de Defesa do Consumidor, não poderia a ré, ora apelante, negar ao autor, portador de "portador de adenocarcinomia de próstata", os tratamentos denominados "Linfadenectomia Pélvica Laparoscópica" e "Prostatavesiculectomia Radical Laparoscópica", prescritos pelo médico que o assiste, sob o argumento de ausência de previsão contratual e de se tratar de medicamento que não consta no rol da ANS.
+Ora, se o contrato celebrado entre as partes não exclui a cobertura para a patologia que acomete a autora, não pode a operadora de saúde ré excluir o tratamento prescrito como adequado à sua cura.
+Na hipótese dos autos, ficou demonstrado que o autor, acometido de adenocarcinomia de próstata, necessita dos tratamentos oncológicos prescritos pelo seu médico (cfr. fls. 61).
+Com efeito, cabe ao médico que acompanha o paciente, e não ao plano de saúde, determinar qual o tratamento ou o medicamento utilizado para a solução da moléstia, de modo que, havendo prescrição médica e sendo a moléstia abrangida pelo contrato, a recusa da ré é ilegal.
+Frise-se, por oportuno, que o rol mínimo da ANS, que muitas vezes não está atualizado com relação aos tratamentos comprovadamente eficazes, não pode ser utilizado para afastar a cobertura de tratamento previsto em contrato.
+A corroborar o acerto da decisão, confira-se a Súmula nº 102, editada pela Seção de Direito Privado deste Egrégio Tribunal de Justiça:
+Súmula 102. Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento de sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS.
+ ..
+É de rigor, pois, a manutenção "in totum" da sentença recorrida.
+Verifica-se que, ao garantir à parte autora o direito ao procedimento requerido, o acórdão recorrido decidiu em consonância com a jurisprudência desta Corte no sentido de que, em se tratando de procedimento para o tratamento de câncer, independentemente da natureza do rol da ANS, as operadoras de plano de saúde têm o dever de cobertura, em relação aos quais há apenas uma diretriz na resolução da autarquia. Nesse sentido, confiram-se os seguintes julgados:
+AUSÊNCIA. SÚMULA N. 182/STJ. PLANO DE SAÚDE. CÂNCER. CIRURGIA. NATUREZA DO ROL DA ANS. IRRELEVÂNCIA. CUSTEIO. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. REEMBOLSO INTEGRAL. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+(..)
+4. Para a jurisprudência do STJ, no caso de tratamento oncológico, há apenas uma diretriz na resolução normativa da Agência Nacional de Saúde Suplementar - ANS para o custeio de medicamentos, motivo pelo qual é irrelevante a discussão da natureza taxativa ou exemplificativa do rol de procedimentos da mencionada agência reguladora. Precedentes.
+5. Os planos de saúde possuem o dever de cobertura de procedimentos e exames integrantes do tratamento oncológico. Precedentes.
+5.1. O Tribunal de origem determinou o custeio, pelo plano de saúde, da cirurgia integrante do tratamento de câncer da parte agravada (prostatectomia robótica), conforme a prescrição médica, o que não destoa do entendimento desta Corte Superior.
+6. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+7. O usuário faz jus ao reembolso integral das despesas médicas, quando comprovado o inadimplemento contratual do plano de saúde relativo à recusa do custeio do tratamento prescrito pelo médico assistente. Precedentes.
+7.1. A Corte local condenou a empresa agravante ao reembolso integral das despesas médicas, ante sua recusa indevida da cobertura médica. Caso de aplicação da Súmula n. 83/STJ.
+8. Agravo interno parcialmente conhecido e, na parte conhecida, desprovido.
+(AgInt no REsp n. 2.108.528/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE MEDICAMENTO ONCOLÓGICO. ABUSIVIDADE. ACÓRDÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. "Compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir o procedimento, mas custear as despesas de acordo com a melhor técnica" (AgInt no REsp n. 1.765.668/DF, Terceira Turma, julgado em 29/4/2019, DJe de 6/5/2019).
+2. No âmbito do REsp n. 1.733.013/PR, a Quarta Turma firmou o entendimento (posteriormente ratificado pela Segunda Seção no julgamento dos EREsp n. 1886929 e EREsp n. 1889704) de que o rol de procedimento da ANS não pode ser considerado meramente exemplificativo. Em tal precedente, contudo, fez se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+3 É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Agravo interno improvido.
+(AgInt no REsp n. 1.960.863/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 8/4/2024, DJe de 12/4/2024.)
+Dessa forma, estando o acórdão recorrido em consonância com a jurisprudência deste Tribunal, incide, no caso, a Súmula 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "a" quanto àqueles fundamentados pela alínea "c" do inciso III do art. 105 da Constituição Federal .
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
