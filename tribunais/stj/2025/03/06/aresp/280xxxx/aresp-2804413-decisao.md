@@ -1,0 +1,31 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+APELAÇÃO CRIMINAL. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. RECURSO DO RÉU. NULIDADE DA BUSCA PESSOAL. JUSTA CAUSA. FUNDADA SUSPEITA EVIDENCIADA. NULIDADE DAS PROVAS. INOCORRÊNCIA. PRELIMINAR REJEITADA. MÉRITO. AUTORIA E MATERIALIDADE DEMONSTRADAS. ARTIGODESCLASSIFICAÇÃO PARA A CONDUTA DO 28 (CONSUMO PESSOAL) OU 33 3º LEIDO ARTIGO , § , DA ANTIDROGAS (USO COMPARTILHADO). IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+1. Tratando-se de crimes de natureza permanente, como o tráfico de entorpecentes, a busca pessoal é legítima se amparada em fundadas razões, devidamente justificada pelas circunstâncias do caso concreto.
+2. Tendo os agentes policiais se deparado com situação de flagrante delito verificada em busca pessoal, encontrando-se resguardados pela exceção prevista na Constituição Federal, não há que se falar em ilicitude nas provas colhidas.
+3. Evidenciada a materialidade e a autoria quanto à prática do crime de tráfico de drogas, consubstanciadas em oitivas e documentos colhidos nas fases inquisitiva e processual, incabível a alegação de insuficiência probatória, devendo ser mantida a sentença condenatória.
+4. Não há que se falar em desclassificação do crime de tráfico de drogas para o delito do artigo Lei 11.343 artigo 33 3º, do 28 da nº /06 (uso pessoal) ou para o delito previsto no , § mesmo diploma legal (uso compartilhado), quando demonstrado nos autos que, no momento do flagrante, houve a apreensão considerável de substância vulgarmente conhecida como maconha, logo após a difusão ilícita da droga a terceiro comprador. Ademais, o fato de ser o réu usuário de entorpecentes não afasta a prática do crime previsto no art. 33, caput, da Lei de Drogas.
+5. Apelação conhecida, preliminar rejeitada e, no mérito, não provida. (e-STJ fl. 604)
+A defesa aponta a violação dos arts. 240, § 2º, e 244, ambos do Código de Processo Penal, alegando, em síntese, a nulidade da busca pessoal, considerando que "o recorrente se encontrava em frente a um portão apenas conversando e que a quantidade da droga apreendia (24,93g de maconha) nem mesmo configura ato delituoso" (e-STJ fl. 638).
+Contrarrazões às e-STJ fls. 664/666.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 716/723.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 6 anos de reclusão, em regime semiaberto, pelo cometimento do crime do art. 33 da Lei n. 11.343/2006.
+A defesa alega a existência de nulidade decorrente da abordagem pessoal, realizada sem a necessária justa causa.
+Sem razão, porquanto a abordagem, como se extrai do acórdão recorrido, decorreu do fato do réu se encontrar, em juízo de probabilidade, em atividade de traficância, diante das condutas dos indivíduos em frente a um portão e a imediata tentativa de fuga (e-STJ fl. 611).
+Veja-se que o cenário acima descrito e que ensejou a abordagem apoia-se em situação que requer a diligente ação policial. A propósito:
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. JUSTA CAUSA. ABSOLVIÇÃO. SÚMULA 7/STJ. MINORANTE. REINCIDÊNCIA. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação por tráfico de drogas. O agravante alega nulidade da busca pessoal e insuficiência probatória para a condenação, além de pleitear a aplicação da minorante do tráfico privilegiado.
+II. Questão em discussão2. A questão em discussão consiste em saber se a busca pessoal realizada pelos policiais foi ilícita e se há insuficiência probatória para a condenação por tráfico de drogas.
+3. A questão também envolve a análise da possibilidade de aplicação da minorante do tráfico privilegiado, considerando a reincidência do agravante.
+III. Razões de decidir4. A busca pessoal foi considerada lícita, pois a fuga do agravante ao avistar os policiais justificou a abordagem, sendo corroborada por mandado de prisão em aberto.
+5. A condenação por tráfico de drogas foi mantida com base em depoimentos de policiais e nas circunstâncias da apreensão, que demonstraram a destinação das substâncias ao tráfico.
+6. A aplicação da minorante do tráfico privilegiado foi afastada devido à reincidência específica do agravante, em conformidade com o art. 33, § 4º, da Lei n. 11.343/2006.
+IV. Dispositivo e tese7. Agravo regimental não provido.
+Tese de julgamento: "1. A fuga ao avistar policiais justifica a abordagem e busca pessoal. 2. Depoimentos de policiais, quando em harmonia com outras provas, são suficientes para condenação por tráfico de drogas. 3. A reincidência específica impede a aplicação da minorante do tráfico privilegiado."
+Dispositivos relevantes citados: CPP, art. 156; CPP, art. 202; CPP, art. 206; CP, art. 33, §2º, "a" e "b"; Lei n. 11.343/2006, art. 33, §4º.Jurisprudência relevante citada: STJ, AgRg no AREsp 875.769/ES, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 07.03.2017; STJ, AgRg nos EDcl no REsp 1.441.671/SC, Rel. Min. Felix Fischer, Quinta Turma, julgado em 17.05.2018. (AgRg no AREsp n. 2.786.043/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025).
+Além disso, esta Corte decidiu já decidiu que não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso (ut, AgRg no HC n. 822.922/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/8/2023).
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
