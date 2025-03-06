@@ -1,1 +1,0 @@
-Art. 57. O estatuto do fundo de investimento definirá, inclusive, as políticas de aplicação, critérios e níveis de rentabilidade e de risco, questões operacionais da gestão administrativa e financeira e regras de supervisão prudencial de investimentos.

@@ -1,2 +1,0 @@
-Art. 50. A política de investimentos do FS tem por objetivo buscar a rentabilidade, a segurança e a liquidez de suas aplicações e assegurar sua sustentabilidade econômica e financeira para o cumprimento das finalidades definidas nos arts. 47 e 48.
-Parágrafo único. Os investimentos e aplicações do FS serão destinados preferencialmente a ativos no exterior, com a finalidade de mitigar a volatilidade de renda e de preços na economia nacional.
