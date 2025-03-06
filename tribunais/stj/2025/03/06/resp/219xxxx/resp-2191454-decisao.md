@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A. em face de acórdão assim ementado (fl. 3.713):
+APELAÇÃO - EXECUÇÃO - INÉRCIA DO EXEQUENTE - PRESCRIÇÃO INTERCORRENTE - OCORRÊNCIA. Configurada a inércia do exequente, deve ser reconhecida a prescrição intercorrente
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 489 e 1.022, ambos do Código de Processo Civil/2015 sustentando a omissão do Tribunal de origem quanto à tese de que o vencimento antecipado da obrigação, no caso de descumprimento do acordado, constituiria mera faculdade do credor, não alterando o termo inicial do prazo prescricional.
+Aduz que o Tribunal de origem, "embora tenha reconhecido a celebração do acordo nos autos, o d. juízo de piso entendeu que houve o descumprimento da avença" e "o exequente não praticou os atos que lhe competiam a fim de obter a satisfação de seu crédito, deixando o processo paralisado até o protocolo da petição de fl. 302, em 09/08/2018" (fl. 3.877).
+Alega a negativa de vigência dos arts. 192 e 199, II, do Código Civil e do art. 922 do CPC/2015, uma vez que o vencimento antecipado da dívida livremente pactuado entre as partes consubstancia uma faculdade ao credor (como tal renunciável), e não uma imposição, mantendo-se para efeito de prescrição, o termo ordinariamente indicado no contrato.
+Defende que, no caso dos autos, "a suspensão pactuada entre as partes e ratificada pelo juiz foi originariamente fixada até a data do vencimento ordinário, qual seja, 01/08/2019, não havendo que se falar em início do prazo de fluência da prescrição intercorrente antes da mencionada data, nos termos do artigo 792 do CPC de 1973, atual 922 do CPC de 2015" (fl. 3.888).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Cuida-se de "ação de execução" movida por Banco do Brasil S/A contra Julenice Paes Fontoura Abreu e outros em abril de 1993.
+A parte recorrida apresentou exceção de pré-executividade alegando a ocorrência de prescrição intercorrente, sob o fundamento de que, após o descumprimento do acordo celebrado entre as partes, o exequente foi intimado, em 11 de fevereiro de 2010, para dar andamento à execução, sendo que o excepto demorou oito anos e seis meses para promover o andamento.
+Na sua impugnação, a parte recorrente alegou que, em razão da celebração de acordo entre as partes, foi estipulado o novo prazo para vencimento da Escritura Pública de Confissão de Dívida com Garantia Hipotecária, Pignoratícia e Fidejussória nº 92/00006-1 para o dia 1/8/2019 de modo que, até o vencimento do acordo não haveria obrigação legal de andamento do feito.
+A sentença reconheceu a prescrição intercorrente.
+No presente recurso, a parte recorrente aponta violação dos arts. 489 e 1.022, ambos do CPC/2015, sustentando a omissão do Tribunal de origem quanto à tese de que o vencimento antecipado da obrigação, no caso de descumprimento do acordado, constituiria mera faculdade do credor, não alterando o termo inicial do prazo prescricional.
+Com razão.
+De fato, em seus embargos de declaração, a parte recorrente requereu a manifestação do Tribunal de origem quanto à existência de acordo entre as partes no qual a "dívida foi recomposta, pactuando-se o vencimento do valor composto, acrescidos dos encargos básicos, em parcela única, para o dia 01/08/2019 (Cláusula segunda, § 2º e Cláusula quinta)" e, portanto, que "independentemente da suposta inércia alegada na sentença, até a data de 01/08/2019 sequer houve a fluência de qualquer prazo prescricional, uma vez que o termo inicial da prescrição, nos termos da pacífica jurisprudência do C. STJ é o vencimento ordinário da avença" (fls. 3.746/3.752).
+Da acurada análise do acórdão que julgou os aclaratórios, verifica-se que o Tribunal de origem não tratou sobre o tema, visto que apenas consignou que de "uma simples análise da peça recursal, constata-se que o acórdão embargado não apresenta qualquer omissão, contradição, obscuridade ou erro material" (fls. 3.850/3.854).
+O tema também não foi tratado no acórdão recorrido, uma vez que o Tribunal de origem apenas manteve a sentença consignando que (i) o prazo da prescrição intercorrente "começa a fluir do momento em que o autor deixou de movimentar o processo, quando isso lhe cabia"; e (ii) é possível o reconhecimento da prescrição intercorrente, quando o exequente permanecer inerte pelo período superior ao da prescrição do direito material, contando-se do fim do prazo estipulado para suspensão do processo ou do transcurso de um ano, caso não fixado prazo (fls. 3.714/3.718).
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal de origem a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Em face do exposto, dou parcial provimento ao recurso especial determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Intimem-se.
+EMENTA
