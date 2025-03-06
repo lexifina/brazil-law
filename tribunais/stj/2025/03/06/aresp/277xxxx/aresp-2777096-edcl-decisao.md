@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por LAUDISEIA DAVI DE LIMA à decisão que acolheu os Embargos de Declaração anteriormente interpostos, afastando a majoração de honorários recursais.
+Sustenta a parte embargante:
+ ..  data máxima vênia, não foi esta a tese defendida pela Sra. LAUDISEIA nos Embargos de Declaração constantes no Evento 35. A Sra. LAUDISEIA não argumentou que a majoração dos honorários advocatícios teria sido indevida; pelo contrário, o aumento é absolutamente legal e devido, considerando o trabalho adicional realizada pela advogada em grau de recurso, como impõe o art. 85, §11º do CPC: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Em seus aclaratórios anteriormente opostos (Evento 35) a Sra. LAUIDISEIA buscou apenas esclarecimento sobre a forma de acréscimo da majoração da verba honorária estabelecida pela r. Decisão de Evento 32 ("15% sobre o valor já arbitrado"). Por considerar o texto obscuro e a fim de prevenir futuras discussões e o prolongamento do litígio, a Sra. LAUIDISEIA questionou a a este honrado MM. Juízo se o aumento deveria ser aplicado de forma absoluta ou de forma proporcional. Perseguiu a confirmação de que a majoração de 15% pontos percentuais absolutos deve ser interpretada como acréscimo direto ao percentual original (10%), resultando em honorários de 25% sobre a base de cálculo (valor da condenação), limitados aos 20% impostos pelo CPC, sem aplicação de cálculos proporcionais.
+Foi este o objeto dos Embargos de Declaração do Evento 35: confirmar que a ampliação em quinze pontos percentuais absolutos significa adicionar diretamente 15% ao percentual original dos honorários (10%), observando-se os limites legais em todo caso.
+Dessa forma, como os honorários iniciais eram de 10%, passam para 25% sem cálculos proporcionais, apenas somando os pontos à base inicial, ficando limitados a 20% conforme determina o CPC.
+Portanto, data máxima vênia, emerge com clareza obscuridade e omissão na r. Decisão de Evento 42, ora embargada, que não enfrentou a tese dos aclaratórios do Evento 35.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Assiste razão à parte embargante.
+Conforme dicção do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, " ..  nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Neste processo, ao dar provimento ao recurso de Apelação, fls. 995/1000, o acórdão inverteu o ônus da sucumbência estabelecida na Setença de fls. 746/57. E, considerando que o acórdão impugnado em recurso especial foi publicado já na vigência do atual Código de Processo Civil, é devida majoração de honorários recursais.
+Quanto aos valores, os honorários recursais foram majorados em desfavor da parte agravante no importe de 15% sobre o montante já arbitrado. Não se trata de somar as porcentagens. Os honorários sucumbenciais fixados nas instâncias ordinárias servirão apenas como base de cálculo sobre a qual incidirão os 15% ora majorados.
+Ante o exposto, acolho os Embargos de Declaração para tornar sem efeito a decisão de fls. 1145/6, que acolheu os Embargos de Declaração de fls. 1135/7, e afastou a majoração dos honorários sucumbenciais, em desfavor da parte ora embargada e mantenho a majoração determinada na decisão de fls. 1130/2.
+Publique-se.
+Intimem-se.
+ EMENTA
