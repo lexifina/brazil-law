@@ -1,0 +1,19 @@
+DECISÃO
+IGOR DE CASTRO LUCAS alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no Agravo em Execução n. 08393-63.2024.8.26.0521.
+A defesa busca o restabelecimento da decisão proferida pelo Juízo da execução, que deferiu ao paciente a progressão ao regime semiaberto, independentemente da realização de exame criminológico.
+Deferida a liminar e dispensada as informações, o Ministério Público Federal opinou pela concessão da ordem, de ofício.
+Decido.
+Acerca do tema em debate, ressalto que, com a Lei n. 10.792/2023, o exame criminológico deixou de ser obrigatório para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+Somente após a Lei n. 14.843/2024, aplicável aos crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+No caso, o paciente praticou o crime de roubo circunstanciado em 24/4/2015 (fl. 22), ou seja, antes da inovação legislativa. A Lei de Execução Penal trata da individualização da pena na fase do cumprimento da sentença e leis penais mais gravosas não podem ser aplicadas retroativamente.
+O condenado iniciou o cumprimento da reprimenda em 19/9/2023 e, atualmente, está no regime semiaberto, por força de decisão proferida pelo Juízo da execução. A decisão foi cassada pelo Tribunal estadual, que determinou seu retorno ao modo mais gravoso, a fim de que seja submetido a exame criminológico para aferição da presença do requisito subjetivo. Para tanto, consignou o que segue (fls. 8-9):
+ ..  a progressão de regime não constitui um direito absoluto e automático, estando condicionada, dentre outros fatores, ao mérito do condenado, cuja aferição por meio de exame criminológico é mais eficiente do que, exclusivamente, por simples atestado de boa conduta carcerária.
+Justamente nesse contexto - e, ao contrário do sustentado na Origem - a alteração legislativa se presta a densificar o princípio da individualização.
+Em se tratando de norma processual, vige o princípio tempus regit actum - positivado no CPP, art. 2º - de modo que a realização de exame criminológico passa a ser de imperiosa, como na hipótese, cuja decisão impugnada foi proferida aos 27/8/2024 (fls. 16/18), após a edição da lei questionada.
+Diante do exposto, dá-se provimento ao recurso, para cassar a progressão, determinando-se retorno ao fechado e realização de exame criminológico para futura reapreciação.
+Aplica-se ao caso a compreensão de que "a simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico, na linha da orientação jurisprudencial desta Corte. Precedentes do STJ" (AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+O Tribunal estadual determinou o exame criminológico sem a indicação de fundamento idôneo, relacionado à execução penal, na medida em que se limitou a indicar a imediata vigência da Lei n. 14.843/2024.
+A motivação não explica a dúvida sobre a falta de capacidade do apenado de ajustar-se, com autodisciplina e senso de responsabilidade, ao novo regime.
+À vista do exposto, concedo a ordem de habeas corpus, para cassar a determinação de exame criminológico, estabelecer a irretroatividade do art. 112, § 1º, da LEP ao caso concreto e, em consequência, restabelecer a decisão de origem, que concedeu ao paciente a progressão ao regime semiaberto.
+Publique-se e intimem-se.
+EMENTA
