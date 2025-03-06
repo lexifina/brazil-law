@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por VALDERI ALVES DOS SANTOS, em adversidade à decisão que inadmitiu o recurso especial manejado com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos presentes autos que o agravante em cumprimento de pena, teve os pedidos de livramento condicional e progressão ao regime semiaberto indeferidos, em razão do não preenchimento do requisito subjetivo.
+Irresignada, a defesa interpôs agravo em execução, ao qual o Tribunal a quo negou provimento, nos termos do acórdão cuja ementa é a seguinte (e-STJ fl. 123):
+Agravo em execução. Livramento condicional ou progressão ao regime semiaberto. Ausência de mérito. Não provimento ao recurso.
+Nas razões do recurso especial (e-STJ fls. 140/160), alega a parte recorrente violação dos artigos 83 do Código Penal e 112 da Lei de Execuções Penais.
+Argumenta que "fora negado o benefício do livramento condicional ao Recorrente, mesmo satisfazendo os requisitos necessários para tanto, bem como pela não concessão de progressão de regime" (e-STJ fl. 144).
+Acrescenta que "O V. Acórdão baseia-se em histórico genérico e não atualizado do Recorrente. A boa conduta carcerária e o cumprimento dos requisitos objetivos deveriam ser suficientes para a progressão de regime e concessão do livramento condicional, configurando violação expressa ao disposto nos artigos 83 do Código Penal e 112 da Lei de Execuções Penais " (e-STJ fl. 146).
+Ao final, requer o provimento do recurso especial para deferir o pedido de livramento condicional ao recorrente ou, subsidiariamente, a progressão para o regime intermediário.
+Apresentadas as contrarrazões (e-STJ fls. 165/174), o Tribunal a quo inadmitiu o recurso especial (e-STJ fls. 177/179), dando ensejo à interposição do agravo ora apreciado (e-STJ fls. 182/201).
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo não conhecimento do agravo em recurso especial (e-STJ fls. 227/230).
+É o relatório. Decido.
+Da análise dos autos, extrai-se que a decisão agravada (e-STJ fls. 177/179) inadmitiu o recurso especial interposto pelo recorrente, considerando que (i) não foram atacados todos os argumentos do acórdão impugnado e (ii) para se chegar a solução diversa do agravo em execução seria necessário o reexame de prova (Súmula n. 7/STJ).
+Não obstante, ver ifico que, nas razões do agravo ora apreciado (e-STJ fls. 182/201), a parte agravante deixou de apresentar impugnação específica e detalhada ao entrave apontado pelo Tribunal de origem na decisão de inadmissibilidade, limitando-se a alegar, de forma genérica, que não é o caso de aplicação da Súmula n. 7/STJ, pois o que se discute é a interpretação equivocada da norma. No mais, apenas reitera as teses de mérito do recurso especial.
+Ora, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, é inafastável a incidência do enunciado n. 182 da Súmula do STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, os seguintes julgados:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+II - In casu, o presente inconformismo limitou-se a afirmar que a quantidade de droga não é pode modular o grau de diminuição do tráfico privilegiado, bem como que ações em andamento não podem afastar a diminuição no grau máximo.
+III - Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente o fundamento lançado no decisum agravado, qual seja: "O delito em questão - tráfico ilícito de entorpecentes - foi cometido quando o paciente fruía de liberdade provisória. Assim, tal circunstância demonstra o desapreço do acusado pela ordem jurídica, a revelar comportamento arredio à organização social e à autoridade do Poder Judiciário. Desse modo, verifica-se que há fundamento idôneo, por si só, a amparar a modulação realizada pelas instâncias ordinárias". Nessa senda, as razões expendidas no bojo do presente contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Agravo regimental não conhecido. (AgRg no HC 721.664/SC, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 5/4/2022, DJe 12/4/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. REALIZAÇÃO DE TATUAGEM EM AMBIENTE PRISIONAL. FALTA DISCIPLINAR GRAVE. ATIPICIDADE: INEXISTÊNCIA. DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. REEXAME DE PROVAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). In casu, o agravante não apresentou nenhum argumento para rebater os fundamentos que ensejaram o não conhecimento da impetração.
+ ..
+7. Agravo regimental desprovido. (AgRg no HC 725.349/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/3/2022, DJe 14/3/2022).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, a agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (in casu, Súmula 7 do STJ), incidindo, portanto, o óbice da Súmula 182 do STJ.
+ ..
+4. Agravo regimental desprovido. (AgRg no AR Esp 2019163/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/2/2022, DJe 2/3/2022).
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
