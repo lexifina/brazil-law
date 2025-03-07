@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por JT GOBEL REPRESENTAÇÕES LTDA, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1199, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - CONTRATO REPRESENTAÇÃO COMERCIAL - INDENIZAÇÃO RESCISÓRIA - INDEVIDA - COMERCIALIZAÇÃO DE PRODUTOS SIMILARES AO DA REPRESENTADA - PRÁTICA CONCORRÊNCIA DESLEAL - PREVISÃO CONTRATUAL - RESCISÃO MOTIVADA - MULTA POR LITIGÂNCIA DE MÁ-FÉ - NÃO COMPROVADA - SENTENÇA MANTIDA.
+- A abertura de empresa para a comercialização de produtos concorrentes e similares aos da representada, por parte do sócio administrador da representante, configura-se concorrência desleal e violação da boa -fé contratual entre as partes.
+- Havendo violação ao contrato celebrado entre as partes capaz de motivar a rescisão contratual requerida pela representante, afasta -se a indenização prevista no art. 27, "j", da Lei nº 4.886/65.
+- Se não restou comprovado nos autos, de forma clara e induvidosa, que a autora adotou conduta maliciosa ou desleal em relação ao processo, não há falar-se em sua condenação em litigância de má -fé, motivo pelo qual não autorizada a aplicação das penalidades legais.
+Os embargos declaratórios opostos foram rejeitados (fls. 1230-1234, e-STJ).
+Nas razões do recurso especial (fls. 1237-1244, e-STJ), a parte insurgente apontou violação aos artigos 27, "j", da Lei nº 4.886/65 e 49-A do CC, alegando o cabimento da indenização, uma vez que a rescisão contratual não poderia ser motivada por atos de concorrência desleal praticados por um sócio, mas apenas pela pessoa jurídica recorrente.
+Não houve contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 1253-1256, e-STJ), dando ensejo na interposição do presente agravo (fls. 1259-1265, e-STJ), visando destrancar aquela insurgência.
+Não houve contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A parte insurgente alega violação aos artigos 27, "j", da Lei nº 4.886/65 e 49-A do Código Civil. Sustenta, em síntese, o cabimento da indenização, uma vez que a rescisão contratual não poderia ser motivada por atos de concorrência desleal praticados por um sócio, mas apenas pela pessoa jurídica recorrente.
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 1202-1203, e-STJ):
+Embora a comercialização de produtos similares aos da representada, aqui Ré/Apelada, tenham ocorrido por parte do sócio administrador da Autora/Apelante, resta evidente a configuração de concorrência desleal e violação da boa-fé contratual entre as partes.
+Isso porque o sócio administrador da Autora/Apelante possuía conhecimento amplo à atividade e estratégias internas adotadas pela Ré/Apelada, havendo, portanto, confusão entre ambas as empresas administradas pelo Sr. Edvaldo Fernandes Teixeira, sendo impossível averiguar suposta desconsideração da personalidade jurídica da Autora/Apelante.
+Sobre o tema acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que a recorrente deu causa à rescisão contratual. Concluiu, ainda, que embora a comercialização de produtos similares aos da representada tenha ocorrido por parte do sócio administrador da insurgente, isso configura concorrência desleal e violação da boa-fé contratual entre as partes.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+CIVIL E EMPRESARIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATOS DE REPRESENTAÇÃO COMERCIAL. RESCISÃO SEM JUSTA CAUSA. SUCESSÃO EMPRESARIAL. RECONHECIMENTO NAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "A caracterização da sucessão empresarial não exige a comprovação formal da transferência de bens, direitos e obrigações à nova sociedade, admitindo-se sua presunção quando os elementos indiquem que houve o prosseguimento na exploração da mesma atividade econômica, no mesmo endereço e com o mesmo objeto social" (AgInt no REsp 1.837.435/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/5/2022, DJe de 7/6/2022).
+2. Na hipótese, o Tribunal de origem reconheceu a ocorrência de sucessão empresarial, bem como considerou que a rescisão contratual se operou sem justo motivo, sobretudo porque não houve verificação de desídia da outra parte.
+3. Rever as convicções da Corte de origem, acerca da ocorrência de sucessão empresarial e da ausência de justa causa para a rescisão contratual, demanda reexame de cláusulas contratuais e do suporte fático-probatório dos autos, o que é vedado em recurso especial, em razão da incidência das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.368.427/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AUTORA.
+1.Para rever a conclusão do Tribunal de origem acerca da inexistência de abusividade na rescisão contratual, seria imprescindível promover o reexame do contexto fático-probatório dos autos, bem ainda dos termos contratuais, providências inviáveis a esta Corte Superior ante os óbices das Súmulas 5 e 7 do STJ.
+2. O acolhimento do inconformismo recursal, no sentido de verificar se o contrato de prestação de serviço de consultoria para fidelização de clientes tinha o mesmo objeto do contrato de representação comercial, demandaria a desconstituição das conclusões estabelecidas pela Corte de origem, o que não é possível sem a análise das cláusulas contratuais e do conjunto fático e probatório dos autos, atraindo os óbices das Súmulas 5 e 7/STJ.
+3. Para alterar as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a apontada ilegitimidade passiva ad causam, seria imprescindível a interpretação de cláusulas do contrato celebrado entre as partes e a incursão no conjunto fático e probatório dos autos, providências que atraem os óbices estabelecidos pelas Súmulas 5 e 7 do STJ.
+Precedentes.
+4. Consoante jurisprudência desta Corte Superior, a pretensão do representante comercial autônomo para cobrar comissões nasce mês a mês com o seu não pagamento no prazo legal e está sujeita ao prazo quinquenal previsto no art. 44 da Lei 4.886/65. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.583.482/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL  AÇÃO CONDENATÓRIA  DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+2. Esta Corte Superior entende que  A utilização de marca como palavra-chave para direcionar o consumidor do produto ou serviço para o link de seu concorrente configura-se como meio fraudulento para desvio de clientela, porquanto permite a concorrência parasitária e a confusão do consumidor.  (REsp n. 2.096.417/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/2/2024, DJe de 7/3/2024.) Incidência da Súmula 83/STJ.
+3. Na hipótese, o Tribunal constatou que houve indevida utilização da marca pertencente à recorrida, e concluiu restar configurada a concorrência desleal. Sendo assim, verifica-se que a matéria foi apreciada à luz dos elementos de fato e de prova acostados aos autos, de modo que a revisão das premissas alcançadas acerca do uso indevido da marca encontra óbice na Súmula 7 do STJ.
+4. Esta Corte Superior de Justiça tem entendimento no sentido de que a incidência do referido enunciado sumular impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.126.996/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. AÇÃO DECLARATÓRIA. ABSTENÇÃO DE USO DE MARCA. OFENSA AOS ARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA DE OMISSÃO, CONTRARIEDADE E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MÉRITO. TRIBUNAL LOCAL QUE, COM BASE NOS FATOS DA CAUSA, RECONHECEU ESTAR COMPROVADA A EXISTÊNCIA DE QUESTÃO PREJUDICIAL, QUAL SEJA, A INOCORRÊNCIA DE CONCORRÊNCIA DESLEAL APTA A ENSEJAR A COBRANÇA DE MULTA. REFORMA. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Este agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em razão do princípio da unirrecorribilidade recursal, que estabelece que para cada provimento judicial admite-se apenas um recurso, deve ser reconhecida a preclusão consumativa daquele que foi deduzido por último, porque electa una via non datur regressus ad alteram.
+3. Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária aos interesses da parte, tal como na hipótese dos autos. Precedentes.
+4. A Corte estadual, com base no substrato fático da causa, reconheceu estar comprovada a existência de questão prejudicial, qual seja, a inocorrência de concorrência desleal por parte de WANEL e outra apta a configurar ato ilícito passível de cobrança de multa.
+De modo que rever tal entendimento encontra óbice no enunciado da Súmula nº 7 do STJ. Precedentes.
+5. Não há falar em violação do princípio da segurança jurídica quando o Tribunal estadual, ao examinar a controvérsia discutida nos autos, opta por uma das teses possíveis ao julgamento da causa, fundamentando suas razões adequadamente, não ensejando, assim, qualquer nulidade, por carência de fundamentação, tal como determina o art. 371 do NCPC.
+6. Ausência de argumentos bastantes e suficientes para infirmar os fundamentos da decisão agravada.
+7. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.939.292/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art . 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
