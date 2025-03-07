@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se  de  agravo  em  recurso  especial  interposto  pelo ESTADO DO PARANÁ,  contra  inadmissão,  na  origem,  de  recurso  especial  fundamentado  na alínea  "a"  do  inciso  III  do  artigo  105  da  Constituição  Federal,  manejado  contra  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ,  assim  ementado  (fls.  196-203):
+APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. DECISÃO QUE JULGOU EXTINTO O FEITO EM RAZÃO DA PRESCRIÇÃO. INSURGÊNCIA. TRÂNSITO EM JULGADO DA SENTENÇA CONDENATÓRIA. MARCO QUE SE DÁ COM O TRANSCURSO DO PRAZO RECURSAL E NÃO COM A CERTIFICAÇÃO. PRECEDENTES DO STJ. TERMO INICIAL DO PRAZO FIXADO JÁ NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONTAGEM DE PRAZO QUE DEVE CONSIDERAR OS DIAS ÚTEIS. ARTIGO 219 E 220 DO CPC. PRAZO QUINQUENAL. SÚMULA 150 DO SUPREMO TRIBUNAL FEDERAL. DECRETO Nº 20.910/1932. PANDEMIA DO CORONAVÍRUS. LEI FEDERAL N. 14.010/2020. SUSPENSÃO ENTRE JUNHO E OUTUBRO DE 2020. AÇÃO TEMPESTIVA. PRESCRIÇÃO AFASTADA. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 221-226):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SUSPENSÃO DOS PRAZOS PROCESSUAIS. PANDEMIA DO CORONAVÍRUS. LEI FEDERAL N. 14.010/2020. ALEGADA OMISSÃO. NÃO OCORRÊNCIA. DECISÃO FUNDAMENTADA. PRECEDENTES DESTE TRIBUNAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA. FINALIDADE DE REDISCUSSÃO. IMPOSSIBILIDADE. DEVIDA APRECIAÇÃO DA MATÉRIA. DECISÃO QUE EXAMINOU A SITUAÇÃO CONFLITUOSA E DEU-LHE O TRATAMENTO JURÍDICO QUE A CÂMARA ENTENDE COMPATÍVEL. VIA INADEQUADA PARA REFORMA DO JULGADO. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+- A via dos embargos de declaração não se presta para rediscussão de matéria devidamente decidida, mas sim para sanar eventual obscuridade, contradição ou omissão, nos termos do que dispõe o artigo 1.022, do código de processo civil.
+Em  seu  recurso  especial  de  fls.  230-238, o  recorrente sustenta  violação  do art. 1.022, II do CPC, considerando que houve omissão no acórdão recorrido que não enfrentou a alegação de afastamento da aplicação do art. 3º da Lei da Pandemia no caso concreto.
+Defende que o Tribunal a quo aplicou o artigo 3º da Lei 14.010/2020 para suspender o prazo prescricional, sem considerar que a referida lei se aplica apenas a relações de direito privado, conforme explicitado no artigo 1º da mesma lei.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 244-245):
+(..)
+Nesse contexto, destaca-se que "As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta" (AgInt no AREsp 1768573/ SP, Rel. Min. MARCO BUZZI, Quarta Turma, DJe 16/12/2022).
+(..).
+Em  seu  agravo,  às  fls.  248-256,  o  agravante  sustenta que a Corte de origem  não se manifestou sobre a aplicação exclusiva da Lei Federal nº 14.010/2020 às relações de direito privado, conforme o artigo 1º da referida lei, em que pese a omissão ter sido apontada nos embargos de declaração.
+É  o  relatório.
+A insurgência não merece prosperar.
+Quanto à alegada violação ao art. 1.022, II do CPC, tem-se que a questão suscitada foi decidida fundamentadamente pela origem, manifestando-se o acórdão recorrido sobre todos os argumentos da parte que poderiam, em tese, infirmar a conclusão adotada, não havendo falar em nulidade qualquer, nos seguintes termos (fls. 222-224):
+Em suas razões, o ESTADO DO PARANÁ sustenta, em síntese, a inaplicabilidade da Lei 14.010/2020 (Lei da Pandemia), em especial o artigo 3º, que trata da suspensão dos prazos processuais no período da pandemia do CORONAVÍRUS.
+Afirma que tal regramento é aplicável somente nas relações de Direito Privado, e não ao caso em apreço.
+Assim, requer a reforma do acórdão, com efeitos infringentes.
+(..)
+No caso, a decisão embargada analisou de forma suficientemente fundamentada a matéria alegada, conforme os precedentes deste Tribunal e do Supremo Tribunal Federal.
+No tocante a aplicação do dispositivo legal apontado, o acórdão expressamente entendeu que seria possível sua utilização no caso concreto, para contagem do prazo prescricional.
+O acórdão, portanto, analisou a matéria alegada nos autos, de modo que não se verifica omissão, contradição ou obscuridade .
+Registre-se que a mera insatisfação com o conteúdo da decisão proferida não enseja o cabimento dos embargos de declaração. Com efeito, o fato de o Tribunal haver decidido o recurso de forma diversa da defendida pela recorrente, elegendo fundamentos distintos daqueles por ela propostos, não configura omissão ou ausência de fundamentação. Nesse sentido: AgInt no AREsp n. 2.347.060/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgInt no REsp n. 2.130.408/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Ademais, "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentam. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (AgInt no AREsp n. 1.570.205/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2023, DJe de 19/4/2024).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios na instância de origem, determino sua majoração, em 10% do valor arbitrado, a teor do contido no § 11 do artigo 85 do Código de Processo Civil, com observância dos limites estabelecidos nos §§ 2º e 3º do mencionado dispositivo e de eventual isenção ou concessão de justiça gratuita.
+Publique-se.
+Intime-se.
+EMENTA
+CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA E  PROCESSO  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL . VIOLAÇÃO AO ARTIGO 1.022, II, DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
