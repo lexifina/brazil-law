@@ -1,0 +1,13 @@
+DECISÃO
+DANILO ADAMI CRUZ DA SILVA opõe embargos de declaração contra a decisão de fls. 377-379, em que concedi a ordem de habeas corpus para revogar a prisão preventiva decretada em desfavor do corréu RAFAEL NUNES DE LIMA nos presentes autos.
+Aduz que a decisão foi contraditória, pois o embargante está na mesma situação fática do corréu e não há supressão de instância na espécie, uma vez que a decisão constritiva foi única para ambos os réus.
+Requer seja sanado o vício apontado, com a concessão de efeitos infringentes ao recurso.
+Decido.
+Na hipótese, observo que, de fato, há contradição que necessita ser sanada.
+Por ocasião do pedido de extensão da substituição da prisão preventiva, consignei o seguinte (fls. 377-379):
+ ..  Observo que o postulante Danilo, quando da análise do mérito deste habeas corpus, impetrado por RAFAEL NUNES DE LIMA, ocasião na qual concedi a ordem para substituir a sua prisão preventiva por providências cautelares a ela distintas, estava sob o gozo da liberdade provisória. Todavia, a defesa informa que, "após a polícia localizar conversas do requerente com Rafael Nunes de Lima, Paciente no presente Writ, sem qualquer mudança na situação analisada pelo Magistrado da audiência de custódia, a Autoridade Policial requereu a decretação das prisões preventivas de Rafael e de Danilo, o que foi deferido pela Magistrada de piso" (fl. 366). Não se descura ser o habeas corpus ação constitucional de natureza mandamental a fim de, precipuamente, afastar eventual ameaça ao direito de ir e vir, motivo pelo qual a compreensão desta Corte de Justiça é a da inviabilidade do seu manejo para tutelar direito que não seja o de locomoção. Contudo, na espécie, o novo título judicial, ora informado pela defesa, não foi objeto de análise pelo Tribunal estadual e nem sequer foi ventilado na inicial do habeas corpus, circunstâncias que, portanto, impedem a apreciação dos pleitos no âmbito deste Tribunal Superior, sob pena de atuar em indevida supressão de instância  .. .
+A contradição está configurada ao se afirmar que, na espécie, haveria supressão de instância. De fato, trata-se de decreto preventivo único em desfavor do embargante e do corréu. Assim, o Tribunal de origem analisou o pedido de revogação da prisão provisória.
+Todavia, Danilo não está em idêntica situação fática e jurídica do corréu Ricardo: por ocasião da prisão deste, Danilo estava sob o gozo da liberdade provisória. Assim, não houve o necessário atendimento do princípio da isonomia contemplado no art. 580 do Código de Processo Penal.
+À vista do exposto, dou provimento aos embargos de declaração para sanar a contradição verificada, sem atribuir-lhes efeitos infringentes.
+Publique-se e intimem-se.
+EMENTA
