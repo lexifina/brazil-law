@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de MAIKON FÉLIX DA SILVA, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado do Acre.
+Consta dos autos que o paciente foi condenado como incurso no art. 304 (nos moldes do art. 298), c/c art. 61, inciso I, todos do Código Penal, à pena de 02 (dois) anos de reclusão.
+Na presente impetração, busca-se a concessão da ordem, para que seja redimensionada a dosimetria da pena.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Conforme cediço, esta Corte Superior sedimentou entendimento no sentido de que, "em relação ao quantum de aumento na primeira fase da dosimetria, "a análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito." (AgRg no REsp 143.071/AM, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 6/5/2015). Isso significa que não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor" (AgRg no HC 919409 / RN, QUINTA TURMA, de minha relatoria, DJe 16/09/2024).
+Nesta ordem de ideias, as referidas frações da exasperação, comumente adotadas por este Tribunal, "não inviabilizam o aumento da pena-base em frações superiores, desde que haja fundamentação apta e suficiente a justificar o incremento da sanção penal" (AgRg no HC 851.355/RJ, SEXTA TURMA, Rel. Ministra Laurita Vaz, DJe de 02/10/2023).
+Com efeito, é pacífica a orientação de que "a dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, cabendo revisão apenas em casos de flagrante ilegalidade ou desproporcionalidade" (AgRg no REsp 1977793 / SP, QUINTA TURMA, de minha relatoria, DJe 20/12/2024).
+No que toca à pena-base fixada, verifico existir fundamentação concreta para o incremento da sanção penal a partir da discricionariedade motivada do julgador, inexistindo ilegalidade de mais de uma condenação a título de maus antecedentes na primeira fase da dosimetria da pena.
+Sendo assim, "uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para reduzir a reprimenda-base estabelecida ao acusado" (AgRg no HC 927292 / ES, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Não remanesce, portanto, qualquer coação ilegal decorrente do ato judicial atacado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
