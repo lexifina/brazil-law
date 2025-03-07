@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de REINALDO CARAM no qual se aponta como autoridade coatora o TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO - RS (HC n. 0061796-61.2025.3.00.0000).
+Depreende-se dos autos que o paciente foi condenado, como incurso nos arts 168, § 1º, inciso III, e 299, do Código Penal, à pena de 3 anos, 2 meses e 15 dias de reclusão, em regime inicial aberto. A pena privativa de liberdade foi substituída por duas restritivas de direitos.
+Após o trânsito em julgado, foi ajuizada revisão criminal, que foi julgada improcedente em acórdão assim ementado (e-STJ fl. 35):
+PROCESSO PENAL. REVISÃO CRIMINAL. ADMISSIBILIDADE. PROVA NOVA. INSUFICIENTE PARA ATESTAR A INOCÊNCIA DO REQUERENTE. REDISCUSSÃO DE MATÉRIA DE FATO JÁ AMPLAMENTE ANALISADA. IMPROCEDÊNCIA.
+1. A revisão criminal não serve para reavaliação ampla dos fatos, das provas e do Direito que levaram à condenação criminal. A segurança jurídica exige a estabilidade da coisa julgada e os casos não podem ser indefinidamente discutidos. As hipóteses estritas de cabimento da revisão previstas no art. 621 do Código de Processo Penal devem ser observadas.
+2. A prova nova ora apresentada pelo requerente, além de buscar rediscussão de matéria de fato já amplamente analisada e sopesada, não é robusta e decisiva acerca da inocência do réu, e não desconstitui a validade das provas anteriormente produzidas.
+3. As alegações demonstram o inconformismo do requerente com relação ao mérito de sua condenação, sem que tenha demonstrado que o decreto condenatório contrariou a evidência dos autos ou o texto expresso de lei, ou apresentado provas novas que efetivamente demonstrem a inocência do condenado.
+4. Revisão criminal julgada improcedente.
+Nesta impetração, busca a defesa a absolvição do paciente, ao argumento de que sobreveio prova nova: "O recente encontro do contrato de honorários advocatícios que justifica a atuação do executado e comprova a inexistência dos ilícitos que lhe foram imputados, constituindo prova substancial para a absolvição de Reinaldo Caram" (e-STJ fl. 8).
+É o relatório.
+Preliminarmente, deve-se asseverar que, conforme ressaltado pela defesa na petição inicial, a condenação do paciente transitou em julgado em 25/6/2024.
+Nesse contexto, não se pode olvidar que o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+No caso, após o trânsito em julgado da condenação, a defesa ajuizou pedido de revisão criminal, que foi julgado improcedente pelo TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO - RS. Por conseguinte, contra esse acórdão seria cabível, em tese, recurso especial, não utilizado pela defesa, o que evidencia a indevida utilização do habeas corpus como substitutivo de recurso próprio, o que esta Corte tem constantemente repudiado.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PLEITO DE REVISÃO DA CONDENAÇÃO PROFERIDA PELO TRIBUNAL DO JÚRI TRANSITADA EM JULGADO. IMPOSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. Após o trânsito em julgado, a defesa buscou a exclusão da qualificadora do motivo fútil e a diminuição da pena por meio do ajuizamento de revisão criminal que foi indeferida. Delineadas essas balizas, verifico não ser o caso de se admitir a presente impetração, pois o habeas corpus está sendo usado para desconstituir sentença condenatória já transitada em julgado, o que esta Corte tem pacificamente repelido.
+2. Ademais, contra o acórdão prolatado no julgamento da revisão criminal seria, em tese, cabível o recurso especial, não interposto.
+3. A decisão que se busca reformar foi proferida pelo Conselho de Sentença e, nos termos do art. 5º , XXVIII, c, da Constituição Federal, é soberana. Assim, somente se evidenciada flagrante ilegalidade o veredicto do Tribunal do Júri poderá ser excepcionalmente afastado, o que não é a situação dos autos.
+4. Por fim, não se revela possível rever a conclusão dos jurados pelos motivos já expostos, bem como por não se admitir dilação probatória na via eleita.
+5. Agravo Regimental desprovido.
+(AgRg no HC n. 912.053/SP, de minha relatoria, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+Ainda que assim não fosse, vê-se que a tese defensiva, manifestada neste writ e na revisão criminal ajuizada na origem, revela-se despropositada, conforme consignado no voto condutor do acórdão ora atacado (e-STJ fl. 38):
+Inicialmente, cabe destacar que a alegação do requerente configura verdadeira inovação argumentativa. Em nenhum momento, ao longo da ação penal, o réu ou sua Defesa alegaram que os valores supostamente apropriados eram devidos ao réu pelo pagamento dos honorários, não tendo sequer mencionado que tais honorários perfaziam o montante de 20 salários mínimos.
+Ao longo da instrução, a defesa do acusado foi no sentido de que repassou a totalidade dos valores para Ignes (ou pelo menos a maior parte deles) e de que o recibo juntado era verdadeiro, tendo a Defesa, inclusive, anexado declaração escrita da testemunha Marcos Antonio - que afirmou ter presenciado o momento que a vítima Ignes recebeu os valores.
+É dizer, em nenhum momento, ao longo da instrução, foi alegado que tal contrato de honorários teria sumido e que os honorários nele previstos alcançavam tão alto montante de 20 salários mínimos - valor maior do que a integralidade do recebido por Ignes em virtude dos atrasados da aposentadoria.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
