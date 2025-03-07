@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por ANNA PAULA RIBEIRO PEREIRA DANIELLO DIAS, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 574, e-STJ):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. ADJUDICAÇÃO COMPULSÓRIA. NÃO CABIMENTO. NULIDADE DO NEGÓCIO JURÍDICO. PROMESSA DE COMPRA E VENDA CELEBRADA MEDIANTE PROCURAÇÃO REVOGADA. VALORES PAGOS EM FAVOR DE TERCEIRO. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Trata-se de Agravo Interno interposto com vistas à reforma da decisão a fim de que seja reconhecido o direito à adjudicação do imóvel pela agravante.
+2. Acerca da questão, cumpre rememorar que são requisitos para a adjudicação compulsória a existência de obrigação derivada de contrato de compra e venda de imóvel, a quitação do preço pelo promitente comprador e a recusa ilegítima do promitente comprador em concluir o negócio mediante o registro da transferência perante à serventia competente.
+3. In casu, no entanto, não se verifica a presença destes requisitos, pois, à época do negócio jurídico em comento (fls. 13/17), a procuração pública utilizada para representar a Sra. Maricelsa Martins Pinheiro, encontrava-se revogada (fls. 131/132), cujo ato implica na cessação dos efeitos jurídicos do instrumento de mandato, nos termos do art. 682, I do Código Civil. Dessa forma, considerando que a manifestação de vontade realizada no ato foi feita por pessoa sem poderes para tanto, é medida que se impõe reconhecer a nulidade do Contrato de Promessa de Compra e Venda em comento.
+4. Não se ignora o argumento de inoponibilidade da revogação ao terceiro de boa-fé (Art. 686, CC), no entanto, insta salutar que a referida garantia se aplica tão somente aos atos praticados pelo mandatário destituído dos poderes de representação, o que não é o caso dos autos, uma vez que a assinatura da Sra. Mary Celine claramente diverge da reconhecida em seu documento de identificação (fl. 99).
+5. Somando-se a isso, incabível eventual adoção da teoria da aparência, pois de acordo com o depoimento prestado pelo Sr. Antônio José Nunes Dias Leitão nos autos nº 0114543-59.2009.8.06.0001, ele foi o responsável por intermediar o negócio jurídico em comento, além disso, figura como o beneficiado dos pagamentos acostados às fls. 299/302, deste autos.
+6. Recurso conhecido e não provido.
+Os embargos declaratórios opostos foram rejeitados (fls. 451-455, e-STJ).
+Nas razões do recurso especial (fls. 526-544, e-STJ), a parte insurgente apontou violação aos seguintes artigos: a) 686 e 689, do Código Civil, ao argumento da validade dos atos praticados pelo mandatário em nome do mandante, uma vez que a revogação do mandato não foi comunicada de forma válida, o que não poderia prejudicar terceiros de boa-fé.
+Contrarrazões às fls. 554-562 e 564-568, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 572-577, e-STJ), dando ensejo na interposição do presente agravo (fls. 586-603, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 612-616 e 619-623, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A parte insurgente alega violação aos artigos 686 e 689, do Código Civil, ao argumento da validade dos atos praticados pelo mandatário em nome do mandante, uma vez que a revogação do mandato não foi comunicada de forma válida, o que não poderia prejudicar terceiros de boa-fé.
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 409-415, e-STJ):
+Na espécie, a referida procuração pública fora revogada pela Outorgante Maricelsa Martins Pinheiro, também por instrumento público, em 26 de janeiro de 2006 (pág. 134).
+E a pedido da Sra. Mary Celine Martins Pinheiro, a mesma que assinou o Contrato de Compra e Venda em nome de Maricelsa Martins Pinheiro, fora enviada Notificação, via Cartório, em 22 de maio de 2006, para revogação da procuração pública, dirigida ao Sr. Manoel Pinheiro de Sousa Neto, anuente do Instrumento de Venda e Compra (pág. 133).
+Ou seja, quando da assinatura do Contrato de Compra e Venda em 27 de setembro de 2007, tanto a Promitente Vendedora Mary Celine Martins Pinheiro, quanto o anuente Manoel Pinheiro de Sousa Neto, tinham plena e inequívoca ciência de que a procuração pública, datada de 19 de janeiro de 2006, não mais subsistia e, ainda sim, assinaram o Instrumento de Venda e Compra, com a Promitente Vendedora Mary Celine Martins Pinheiro não detendo mais qualquer poder de representação em relação à outra Promitente Vendedora Maricelsa Martins Pinheiro.
+ ..
+Com efeito, como foi revogada a procuração também por instrumento público em 26 de janeiro de 2006, Mary Celine Martins Pinheiro não poderia mais contratar com a Apelante em nome da Sra. Maricelsa Martins Pinheiro.
+Assim, mesmo considerando que a Autora, terceira, firmara o pacto de compra e venda do imóvel de boa-fé, este somente teria eficácia caso a mandatária Mary Celine Martins Pinheiro também estivesse de boa-fé, ou seja, se esta desconhecesse da revogação do mandato, o que, em absoluto, pode-se sequer cogitar, consoante as constatações e aferições suso referidas.
+Esta é a ressalva quanto aos atos do mandatário, prevista no art. 689 do CC:
+ ..
+E como a revogação do mandato foi por ato público, exatamente para conhecimento de terceiros, a Apelante sequer pode alegar ausência de ciência da revogação.
+ ..
+Com efeito, a luz do devido processo legal, a solução para a Autora na busca pela remediação de seu prejuízo inegável, certificado pela prova documental acostada às fls dos autos e às quais remete devidamente o Julgador, é valer-se, se assim entender, de Ação de Perdas e Danos em desfavor da Procuradora (Mandatária) já desconstituída, identificada nestes autos, e que, ainda assim, firmou o instrumento contratual sob epígrafe, ou contra quem a represente legalmente, que , em comportamento lesivo ao estatuto jurídico da ora Apelante, realizou o negócio jurídico sob exame, eivado do vício insanável retro reportado.
+Sobre o tema acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que o contrato de compra e venda assinado por Mary Celine Martins Pinheiro não tem eficácia, pois a procuração que lhe conferia poderes para representar Maricelsa Martins Pinheiro havia sido revogada em 26 de janeiro de 2006. Concluiu, ainda, que tanto a mandatária quanto o anuente estavam cientes da revogação e que a parte insurgente não pode alegar desconhecimento da revogação, uma vez que esta foi realizada por ato público, de modo que não cabe a aplicação da teoria da aparência.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CREDOR PUTATIVO. PAGAMENTO. EFICÁCIA. BOA-FÉ OBJETIVA E TEORIA DA APARÊNCIA. NÃO CARACTERIZAÇÃO. REVISÃO DO JULGADO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte manifesta-se no sentido de que, "para que o erro no pagamento seja escusável, o devedor deverá ser diligente, sendo necessária a presença de elementos suficientes para que ele seja, de fato, induzido e convencido de que o recebente aparente é o verdadeiro credor" (REsp 2.009.507/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 5/3/2024, DJe de 11/3/2024).
+2. O Tribunal de origem consignou, mediante a análise dos documentos constantes nos autos, que não ficou caracterizado o pagamento realizado de boa-fé a credor putativo. Assim, eventual alteração de tal entendimento, como pretendida, demandaria o revolvimento do acervo fático-probatório, esbarrando no óbice previsto na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.605.067/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/11/2024, DJEN de 6/12/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 1. VALIDADE DOS TÍTULOS. TEORIA DA APARÊNCIA. TERCEIRO DE BOA-FÉ. EXCESSO DE MANDATO NÃO CONFIGURADO. REVER AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA DE ORDEM PÚBLICA. IMPRESCINDIBILIDADE. SÚMULA 211/STJ. AUSÊNCIA DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. 3. AGRAVO DESPROVIDO.
+1. A Teoria da Aparência leva em consideração a boa-fé do terceiro para estabelecer a responsabilidade da sociedade e, por conseguinte, o excesso de mandato (art. 1.015, parágrafo único, do CC) somente pode ser oposto a terceiro quando comprovada sua má-fé.
+1.1. Acórdão recorrido asseverou que o terceiro agiu de boa-fé e que o negócio jurídico beneficiou diretamente a sociedade empresarial.
+Rever tais conclusões demandaria o reexame de provas. Súmula 7/STJ.
+2. É tranquila a jurisprudência desta Corte no sentido de que até mesmo as matérias de ordem pública necessitam do prequestionamento para serem analisadas em âmbito de recurso especial. 2.1. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.243.432/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/5/2018, DJe de 18/5/2018.)
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
