@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança, com pedido liminar, interposto pelo INSTITUTO DE PREVIDENCIA DO ESTADO DO RIO GRANDE DO SUL contra acórdão do Tribunal de Justiça daquele Estado assim ementado (e-STJ fl. 326):
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. DIREITO PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA. DECISÃO PROFERIDA PELO MAGISTRADO DA CÂMARA DE CONCILIAÇÃO E PAGAMENTOS DE PRECATÓRIOS. ATO COMBATIDO PELO MANDAMUS QUE SE TRATA DE DECISÃO ADMINISTRATIVA. CABIMENTO DE RECURSO COM EFEITO SUSPENSIVO. ART. 5º, I, DA LEI Nº 12.016/09.
+1. A insurgência do impetrante é contra ato da Presidência deste Egrégio Tribunal de Justiça, consubstanciado em decisão proferida por magistrado da Câmara de Conciliação e Pagamento de Precatórios, em razão de competência delegada, que desafia recurso próprio previsto no art. 405 do RITJRS. De resto, a alegação de que não há o efeito suspensivo previsto na regra não impressiona. O agravante poderia interpor o recurso e pedir o efeito suspensivo nos termos do art. 56, XXXI, do mesmo Regimento Interno.
+2. Incabível a impetração de mandado de segurança na hipótese dos autos, a teor da regra disposta no art. 5º, I, da Lei nº 12.016/09. Mandamus utilizado como sucedâneo recursal.
+Impossibilidade.
+3. Decisão monocrática mantida.
+Agravo interno desprovido.
+Os aclaratórios foram rejeitados.
+Na origem, o ora recorrente impetrou o mandado de segurança contra ato do Juiz da Câmara de Conciliação e Pagamento de Precatórios (em competência delegada pelo Presidente deste Tribunal de Justiça do Estado do Rio Grande do Sul), consubstanciado na reabertura de créditos em nome dos credores ante a inclusão de juros moratórios relativos ao Tema 96 da sistemática da repercussão geral do STF.
+Alegou, em síntese, a ocorrência de preclusão para a determinação, de ofício, do "pagamento de diferenças de juros verificada mais de 5 anos depois do pagamento de parcela preferencial em favor da parte então credora e procuradora do precatório, pagamento esse que, no caso, importou na quitação do crédito desta inscrito no requisitório" (e-STJ fl. 11). Aduziu, ainda, a incidência da prescrição da pretensão para a cobrança do crédito.
+No presente recurso, defende o cabimento do mandado de segurança, tendo em vista que contra a decisão administrativa atacada é cabível recurso desprovido de efeito suspensivo. Repisa, ainda, as alegações da inicial.
+Ao final, busca o provimento do recurso e a concessão da ordem.
+Deferido o pedido de antecipação da tutela recursal (e-STJ fls. 431/433).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fls. 443/446).
+Passo a decidir.
+Esta Corte tem entendimento de que, "na forma do art. 5º, I, da Lei n. 12.016/2009, é inadmissível o mandado de segurança em face de ato do qual caiba recurso administrativo com efeito suspensivo" (AgRg no MS 21.332/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 13/12/2017, DJe de 18/12/2017).
+Na hipótese, contrariamente ao explicitado pelo Tribunal de origem, verifica-se que o recurso administrativo cabível contra o ato atacado no writ é desprovido de efeito suspensivo, conforme o disposto no art. 405 do Regimento Interno do Tribunal de origem, sendo inaplicável o disposto no art. 56, XXXI, do referido Regimento, já que dirigido à matéria jurisdicional (e não administrativa).
+Assim, cabível o remédio constitucional. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO3/STJ. PROCESSO ADMINISTRATIVO DISCIPLINAR. PERDA DE DELEGAÇÃO DE SERVENTIA EXTRAJUDICIAL. INTERPOSIÇÃO DE RECURSO ADMINISTRATIVO SEM EFEITO SUSPENSIVO. TRANSCURSO DO PRAZO DECADENCIAL.
+1. A interposição de recurso administrativo sem efeito suspensivo não impede o transcurso do prazo decadencial para a impetração da ação de mandado de segurança. Inteligência dos arts. 5.º, inciso I, e 23 da Lei 12.016/2009.
+2. Agravo conhecido para dar provimento ao recurso especial.(AREsp 1.641.471/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2020, DJe de 18/12/2020.).
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. WRIT IMPETRADO CONTRA ATO ADMINISTRATIVO DA PRESIDÊNCIA DO TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO. BLOQUEIO DO PAGAMENTO DE PRECATÓRIO COMPLEMENTAR. PENDÊNCIA DE JULGAMENTO DE RECURSOS. CONTROVÉRSIA EM TORNO DA EFETIVA SOMA A SER PAGA AO CREDOR EXPROPRIADO. CABIMENTO DO WRIT. DECISÃO FUNDAMENTADA. INEXISTÊNCIA DE ILEGALIDADE OU ABUSO.
+1. Trata-se, na origem, de mandado de segurança impetrado contra alegado ato ilegal do Presidente do Tribunal Regional Federal da 3ª Região, consistente na decisão proferida nos autos do Ofício Precatório 2001.03.00.020774-5, que manteve suspenso o pagamento de seus valores, até julgamento, com trânsito em julgado e respectivas baixas, das Apelações Cíveis n. 233611-91.1988.4.03.6100, n. 0029913-27.1989.4.03.6100 e n. 0007543-63.2003.4.03.6100 e de seus apensos, além do Agravo de Instrumento sob o n. 0001735-29.2012.4.03.0000, que tramitam naquela Corte federal.
+2. Como asseverado no opinativo do douto Parquet federal, "de acordo com a jurisprudência do e. STJ, os atos praticados em sede de processamento de precatório possuem natureza administrativa, e, portanto, admitem a impugnação via mandamus".
+3. Ao contrário do afirmado pela impetrante, ora recorrente, ainda existe controvérsia judicial acerca dos valores referentes ao mencionado precatório complementar.
+4. Não se descortinando, por ora, a certeza e liquidez em torno de qual seria a efetiva e incontroversa quantia a ser liberada em favor da parte credora, não há falar em concessão da ordem mandamental.
+5. Recurso ordinário não provido.
+(RMS n. 46.686/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/10/2020, DJe de 24/11/2020.)
+Registre-se, por oportuno, que, nos termos do art. 1.027, § 2º, c/c o art. 1.013, § 3º, ambos os dispositivos do CPC/2015, a chamada teoria da causa madura também se aplica aos recursos em mandado de segurança, o que autoriza o prosseguimento do julgamento da impetração, desde que esteja perfectibilizada a relação processual. Nesse sentido: RMS 52.177/AP, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 25/11/2021; RMS 59.709/RS, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 19/05/2020, DJe 25/06/2020.
+No caso, houve o indeferimento da petição inicial, não sendo processado o writ. Assim, não é possível aplicar a teoria da causa madura.
+Ante o exposto, nos termos do art. 34, XVIII, "c", do RISTJ, confirmando a liminar anteriormente deferida, DOU PARCIAL PROVIMENTO ao recurso ordinário para cassar o aresto recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que o mandado de segurança tenha regular processamento e julgamento.
+Publique-se. Intimem-se.
+EMENTA
