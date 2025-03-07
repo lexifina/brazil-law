@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ANGELITA MARCHI VENANCIO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea"a", da Constituição Federal.
+Ação: declaratória de nulidade contratual e inexistência de relação jurídica cumulada com repetição de indébito e indenização por dano moral, ajuizada pela agravante em face de BANCO PAN S.A.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa (e-STJ, fls. 580):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL E INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA. EMPRÉSTIMO CONSIGNADO E TERMO DE ADESÃO A CARTÃO DE CRÉDITO COM ABATIMENTO DE RESERVA DE MARGEM CONSIGNÁVEL (RMC). DEFENDIDA A ILEGALIDADE DO CONTRATO. REJEIÇÃO. CONTRATAÇÃO DEVIDAMENTE COMPROVADA NOS AUTOS. OBSERVÂNCIA DA LEGISLAÇÃO DE REGÊNCIA. AUSÊNCIA DE PROVA MÍNIMA DO ALEGADO VÍCIO DE CONSENTIMENTO. ÔNUS PROBATÓRIO QUE COMPETIA À PARTE DEMANDANTE E DO QUAL NÃO SE DESINCUMBIU, A TEOR DO ART. 373, I, DO CPC E DA SÚMULA N. 55 DESTA CORTE. PREVALÊNCIA DO ENTENDIMENTO FIRMADO PELO GRUPO DE CÂMARAS DE DIREITO COMERCIAL (APELAÇÃO CÍVEL N. 5040370-24.2022.8.24.0000). MANUTENÇÃO DA MODALIDADE AVENÇADA PELA PARTE AUTORA. PRÁTICA ABUSIVA NÃO EVIDENCIADA. INEXISTÊNCIA DE QUALQUER ATO ILÍCITO NA ESPÉCIE. REQUISITOS DA RESPONSABILIDADE CIVIL NÃO PREENCHIDOS. INDENIZAÇÃO POR DANOS MORAIS E RESTITUIÇÃO DE VALORES DESCABIDAS. SENTENÇA MANTIDA. Provar, sabidamente, é indispensável para o êxito da causa. Se aquele que tem o ônus de demonstrar o fato constitutivo do seu direito não consegue se desincumbir satisfatoriamente de tal encargo, e se a prova atinente aos seus interesses não vem aos autos por qualquer outro meio, não há como proclamar um édito de procedência em seu favor (TJSC, Apelação Cível n. 0801943-70.2013.8.24.0082, da Capital - Continente, rel. Des. Jorge Luis Costa Beber, Primeira Câmara de Direito Civil, j. 14-09-2017). PREQUESTIONAMENTO. TEMÁTICAS SUSCITADAS DEVIDAMENTE EXAMINADAS. APRECIAÇÃO DESNECESSÁRIA DE TODOS OS ARGUMENTOS E DISPOSITIVOS APONTADOS PELA PARTE QUANDO INCAPAZES DE INFIRMAR A CONCLUSÃO ADOTADA PELO JULGADOR. HONORÁRIOS RECURSAIS. ART. 85, §§ 1º E 11, DO CPC/15. MAJORAÇÃO DEVIDA. CRITÉRIOS CUMULATIVOS PREENCHIDOS (STJ, EDCL NO AGINT NO RESP 1.573.573/RJ). SUSPENSA A EXIGIBILIDADE EM FACE DA JUSTIÇA GRATUITA CONCEDIDA. RECURSO CONHECIDO E DESPROVIDO.
+Decisão de admissibilidade do TJ/SC: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) ausência de violação do art. 489 do CPC;
+ii) ausência de violação do art. 1.022 do CPC;
+iii) incidência das Súmulas 5 e 7, ambas do STJ; e,
+iv) deficiência de fundamentação (Súmula 284/STF).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que a análise da matéria independe do revolvimento fático-probatório e da análise das cláusulas contratuais, bem como que as razões recursais não são deficitárias.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) ausência de violação do art. 489 do CPC;
+ii) ausência de violação do art. 1.022 do CPC;
+iii) deficiência de fundamentação (Súmula 284/STF).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fl. 579) para 18%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
