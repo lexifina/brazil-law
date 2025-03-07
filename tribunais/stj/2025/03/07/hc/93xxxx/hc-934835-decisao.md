@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de KELLEN MACHADO LOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do Recurso em Sentido Estrito n. 0007647-31.2024.8.16.0019.
+Extrai-se dos autos que a paciente foi pronunciada, pela suposta prática do crime tipificado no art. 121, §2º, I, III e IV, c/c art. 14, II, na forma dos arts. 29 e 73, todos do Código Penal (e-STJ fl. 41).
+Irresignada, a defesa interpôs recurso em sentido e strito Rese perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (e-STJ fl. 99):
+"RECURSO EM SENTIDO ESTRITO -TRIBUNAL DO JÚRI - TENTATIVA DEHOMICÍDIO E DESOBEDIÊNCIA - ARTIGO 121, §2º, INCISO I, III E IV, C/C ARTIGO14, II E ARTIGO 330, TODOS DO CÓDIGO PENAL - DECISÃO DE PRONÚNCIA - MANIFESTAÇÃO DO PROMOTOR DE JUSTIÇA PELOINSURGÊNCIADA DEFESA - NÃO CONHECIMENTO DO RECURSO -ALEGADA OFENSA AO PRINCÍPIO DADIALETICIDADE -RECONHECIMENTO - ARRAZOADO QUE NÃO IMPUGNOUESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO GUERREADA - APRESENTAÇÃO DE ARGUMENTOS GENÉRICOS, SEM O OFERECIMENTO DE UMCONTRAPONTO AOS FUNDAMENTOS DA DECISÃO RECORRIDA - AUSÊNCIA DEINDICAÇÃO DE "ERROR IN JUDICANDO" OU "IN PROCEDENDO" DO DECISUMVERGASTADO - PRECEDENTES. RECURSO NÃO CONHECIDO"
+No presente writ, a defesa sustenta ilegalidade do acórdão que decidiu pelo não conhecimento do recurso da defesa pela violação do princípio da dialeticidade, alegando que a não apreciação do mérito do recurso acarretaria prejuízo à liberdade de locomoção da paciente e à sua defesa.
+Aduz que a jurisprudência esta Corte Superior orienta que a mera reiteração de argumentos já suscitados em outros momentos processuais não impede, por si só, o conhecimento do recurso, pois não configura ofensa ao princípio da dialeticidade.
+Assevera que o princípio da dialeticidade deve ser relativizado por não se impor como óbice ao conhecimento do recurso em sentido estrito, a fim de que prevaleça o duplo grau de jurisdição.
+Acrescenta que, de toda sorte, "a irresignação recursal em análise, que não foi conhecida pelo TJPR, esclareceu o desacerto da decisão de pronúncia e apresentou os motivos de fato e de direito para sua reforma, em total observância ao princípio da dialeticidade." (e-STJ fl. 09).
+Requer, em liminar e no mérito, a concessão da ordem para que o recurso em sentido estrito interposto pela defesa seja conhecido, com determinação de exame de seu mérito pela Corte de origem.
+O pedido liminar foi indeferido (e-STJ fls. 110/112).
+O Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fls. 118/119).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração nem sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Primeiramente, como se observa a peça processual do Rese (e-STJ fls. 43/58) questionado nesta impetração, o recurso consistiu em quatro tópicos: "1) Fatos", com breve recapitulação da primeira fase do rito do júri; "2) Ocorrido em Audiência de Instrução e Julgamento", com transcrição integral dos depoimentos das testemunhas, sem quaisquer observações acerca do que por elas fora dito; "3) Mérito 3.1- Reforma da Decisão de Pronúncia -Ausência de Indícios de Autoria Produzidos em Contraditório Judicial", no qual a recorrente transcreveu trecho da pronúncia, apresentou argumentos gerais sobre rebaixamento do standard probatório e, quanto ao caso concreto, expôs "como já mencionado em alegações finais, não foram acostados aos autos indícios de autoria suficientes e aptos a embasar a decisão de pronúncia"; a parte final, "4. Pedidos."
+Portanto, a partir da leitura atenta do Rese, há de se reconhecer que não houve uma palavra sequer quanto aos motivos pelos quais a defesa entendia que a prova considerada na pronúncia seria insuficiente quanto aos indícios de autoria da paciente.
+Desta forma, não foi atendido ao princípio da dialeticidade, o qual impõe ao recorrente expor, clara e expressamente, as razões de seu inconformismo com o ato judicial recorrido, conforme jurisprudência do STJ:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FRAUDE PROCESSUAL E ESTELIONATO. NULIDADE. REITERAÇÃO. ABUSO DO DIREITO DE RECORRER. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA.
+1. De acordo com o entendimento deste Tribunal Superior, "à luz do princípio da dialeticidade, constitui ônus do recorrente, além da exposição das razões de fato e de direito de forma clara e precisa, também a demonstração da ilegalidade deduzida nas razões recursais, de sorte a impugnar os fundamentos da decisão/acórdão recorridos" (AgRg no REsp n. 1.854.348/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/6/2020, DJe de 23/6/2020). Precedentes.
+2. Nesse contexto, "o ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus" (AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+ ..
+7. Agravos regimentais não conhecidos (e-STJ fls. 91/103 e 119/123).
+(AgRg no HC n. 957.293/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+A rigor, a repetição de argumentos não atenderia ao princípio da dialeticidade mas, no caso, a defesa vai além ao pretender que a breve remissão às alegações finais  sem nem ao menos haver reprodução  supra a ausência de argumentos do Rese.
+A técnica da fundamentação per relationem tem sido admitida nas decisões judiciais, e não nas petições das partes e, ainda assim, demanda incorporação da fundamentação originária na decisão que a aproveita.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. HOMICÍDIO QUALIFICADO TENTADO. ALEGADA NULIDADE DA DECISÃO PRONÚNCIA, POIS SUSPOSTAMENTE BASEADA EM DEPOIMENTOS DE "OUVI DIZER" E EM PROVA NÃO JUDICIALIZADAS. DEPOIMENTOS TESTEMUNHAIS PRESTADOS EM JUÍZO QUE CORROBORAM PARA CONVICÇÃO DOS JURADOS. NÃO CONHECIMENTO DO RECURSO SUBSTITUTIVO DE RECURSO PRÓPRIO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE ANÁLISE DA MATÉRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foram trazidos argumentos novos para a desconstituição da decisão agravada, limitando-se a reiterar as razões do habeas corpus, já examinadas e rechaçadas pela decisão monocrática, atraindo a Súmula n. 182/STJ, por violação ao princípio da dialeticidade.
+ ..
+4. Agravo regimental não provido.
+(AgRg no HC n. 848.840/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+ ..
+EXCESSO DE LINGUAGEM NA DECISÃO DE PRONÚNCIA. MATÉRIA NÃO SUSCITADA PELA DEFESA EM SEDE RECURSAL. RECURSO EM SENTIDO ESTRITO. EFEITO DEVOLUTIVO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE CONHECIMENTO.
+1. O efeito devolutivo do recurso em sentido estrito encontra limites nas razões expostas pelo recorrente, em respeito ao princípio da dialeticidade que rege os recursos no âmbito processual penal pátrio, por meio do qual se permite o exercício do contraditório pela parte que defende os interesses adversos, garantindo-se, assim, o respeito à cláusula constitucional do devido processo legal.
+2. Da análise dos autos, verifica-se que o acórdão que julgou o recurso em sentido estrito interposto pela defesa não fez qualquer menção ao alegado excesso de linguagem na decisão de pronúncia, questão que deveria ter sido arguida no momento oportuno e perante o juízo competente, no seio do indispensável contraditório, circunstância que evidencia a impossibilidade de sua análise diretamente por este Sodalício, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Precedentes.
+3. Habeas corpus não conhecido.
+(HC n. 318.757/MG, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do Tj/pe), Quinta Turma, julgado em 6/8/2015, DJe de 18/8/2015.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. AGRAVO NÃO CONHECIDO. "CARONA INTELECTUAL". AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E PORMENORIZADA. INCIDÊNCIA DA SÚMULA 182/STJ. 2. ALEGADA UTILIZAÇÃO DA TÉCNICA PER RELATIONEM. NÃO VERIFICAÇÃO. AUSÊNCIA DE ARGUMENTAÇÃO PRÓPRIA. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O agravo em recurso especial dos agravantes não foi conhecido, uma vez que o causídico se limitou a pegar "carona intelectual" no agravo interposto por corréu, consignando que, "mesmo que recurso de um ou outro réu não houvesse, o deferimento de qualquer deles levaria a aplicação de extensão de julgado, na forma do art. 580, do CPP". Nesse contexto, a petição recursal dos agravantes esbarrou no óbice do enunciado n. 182/STJ, porquanto não houve a impugnação específica e pormenorizada de todos os fundamentos da decisão agravada, o que inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+2. A alegação do causídico, no sentido de que se valeu da técnica per relationem não condiz com a realidade dos autos, uma vez que não agregou de argumentação própria, se limitando, simplesmente, a remeter à leitura da petição do advogado de corréus. Como é de conhecimento, "é válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios" (RHC n. 94.488/PA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2018, DJe 2/5/2018).
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.861.328/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021.)
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. FUNDAMENTAÇÃO "PER RELATIONEM". AUSÊNCIA DE NULIDADE. AUSÊNCIA DE IMPUGNAÇÃO À MOTIVAÇÃO ADOTADA NA ORIGEM. DESATENDIMENTO DO ÔNUS DA DIALETICIDADE.
+1. A fundamentação no julgado é clara e suficiente, dispensando outras digressões "per relationem" - as quais, por si só, não importam em nulidade. Precedentes.
+2. O princípio da dialeticidade obriga a parte que recorre impugnar, especificamente, os fundamentos do acórdão que objurga, contrapondo-se às razões de decidir já expressadas. Precedentes.
+3. Agravo interno não provido.
+(AgInt no RMS n. 52.158/MS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/2/2017, DJe de 1/3/2017.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
