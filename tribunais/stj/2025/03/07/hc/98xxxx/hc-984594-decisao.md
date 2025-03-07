@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de MARIO PALADINO FILHO no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2000751-79.2025.8.26.0000.
+Depreende-se dos autos que o Juízo da execução indeferiu o pedido de indulto formulado com base no Decreto Presidencial n. 11.846/2023 (e-STJ fls. 64/67).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que ficou assim ementado (e-STJ fl. 17):
+Habeas Corpus - Execução - Via eleita que, a priori, não se presta à discussão de questões que devem ser suscitadas em recurso ordinário Indulto humanitário - Ausência de preenchimento dos requisitos estabelecidos pelo Decreto nº 11.846/2023 - Possibilidade de assistência médica adequada no estabelecimento prisional - Pleito de concessão de prisão domiciliar a sentenciado em regime semiaberto - Hipótese que não se encaixa no disposto no art. 117, da Lei de Execução Penal - Não comprovada a excepcionalidade do caso concreto que demonstre a imprescindibilidade da medida - Constrangimento ilegal não evidenciado - Ordem denegada.
+Daí o presente reclamo, no qual alega a defesa a extrema debilidade no estado de saúde do paciente, devendo ser concedido induto natalino, nos termos do Decreto n. 11.846/2023.
+Requer, em liminar e no mérito, a concessão de indulto.
+É o relatório.
+Decido.
+Cinge-se a presente controvérsia acerca da viabilidade de concessão de prisão domiciliar ou indulto nos termos do Decreto n. 11.846/2023.
+As instâncias ordinárias compreenderam não terem sido preenchidos os requisitos objetivos para concessão da benesse.
+No caso, colho do acórdão recorrido (e-STJ fls. 20/22):
+Não obstante, da análise dos autos não é possível vislumbrar qualquer ilegalidade a determinar a concessão da prisão domiciliar.
+O MM. Magistrado bem fundamentou sua r. decisão, nos seguintes termos:
+De fato, tratando-se de condenado solto, e na esteira de todo o argumentado pelo Ministério Público, cumpria à Defesa a prova de que o sentenciado preenche todos os requisitos do art. 2º, XI, a e b, do Decreto nº 11.846/23, ônus do qual não se desincumbiu, sobretudo em relação à apresentação de laudo médico oficial atestando a enfermidade e a impossibilidade de tratamento adequado. A documentação apresentada foi produzida por entidades particulares, o que não basta à concessão da indulgência.
+Ante o exposto, INDEFIRO o pedido de indulto com base no Decreto Presidencial nº 11.302/22. Nada, contudo, que não impeça a reanálise da questão tão logo haja sua inclusão em uma das unidades prisionais do Estado, oportunidade na qual, finalmente, obter-se-á aludido laudo médico oficial.
+O artigo 2º, inciso XI, alíneas "a" e "b", do Decreto nº 11.846/23 prevê:
+Art. 2º - Concede-se o indulto coletivo às pessoas, nacionais e migrantes:
+(..)
+XI - condenadas, por crime praticado sem violência ou grave ameaça a pessoa:
+a) acometida com paraplegia, tetraplegia, monoplegia, hemiplegia, ostomia, amputação, paralisia, cegueira ou outra deficiência física que acarrete comprometimento análogo, desde que tais condições não sejam anteriores à prática do delito e que se comprovem por laudo médico oficial ou, na falta desse, por médico designado pelo juízo da execução;
+b) acometida por doença grave e permanente ou crônica, que apresentem grave limitação ambulatorial ou severa restrição para participação regular nas atividades oferecidas na unidade prisional, ou, ainda, que exijam cuidados contínuos que não possam ser adequadamente prestados no estabelecimento penal ou por meio do sistema público de saúde, desde que comprovadas a doença e a inadequação por laudo médico oficial ou, na falta desse, por médico designado pelo juízo da execução; e (..).
+Conforme constou do relatório de saúde do Paciente que, "ao ser submetido a entrevista individual de saúde, não informou ser portador de qualquer doença, afirmou ter realizado cirurgia no quadril há mais de 2 anos. Em 16.01.2025 foi submetido a atendimento de enfermagem no ambulatório desta unidade prisional, apresentou-se em bom estado geral de saúde, contactuando, deambulando sem auxílio, negou doenças crônicas e uso de medicamento de uso contínuo, queixou de dor esporádica no quadril, recebeu medicação para alívio da dor. Ressalto que foi solicitado junto à Coordenadoria de Saúde da Pasta, consulta médica na especialidade ortopedia, aguardando agendamento" (fls. 129/133).
+Assim, não se vislumbra configurada qualquer das hipóteses das alíneas do inciso XI do artigo 2º do Decreto nº 11.846/23.
+Com efeito, não restou comprovada a existência de deficiência física ou doença grave e permanente ou crônica, que apresentem grave limitação ambulatorial ou severa restrição para participação regular nas atividades oferecidas na unidade prisional, ou, ainda, que exijam cuidados contínuos que não possam ser adequadamente prestados no estabelecimento penal ou por meio do sistema público de saúde.
+Ainda, ficou comprovado que o Paciente vem recebendo os cuidados médicos de que necessita na unidade prisional.
+Ora, o decreto presidencial é claro ao indultar os condenados acometidos "por doença grave permanente, que, simultaneamente, imponha severa limitação de atividade e exija cuidados contínuos que não possam ser prestados no estabelecimento penal". No caso dos autos, as instâncias ordinárias salientaram inexistir severa limitação e que os cuidados médicos são oferecidos no cárcere de forma satisfatória .
+No mesmo sentido, mutatis mutandis:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO HUMANITÁRIO. CONCESSÃO DA BENESSE. IMPOSSIBILIDADE. REQUISITOS NÃO PREENCHIDOS. TRATAMENTO MÉDICO OFERECIDO PELO ESTABELECIMENTO PRISIONAL. APROFUNDADA ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. INSURGÊNCIA DESPROVIDA.
+1. O Decreto Presidencial n. 8.380/2014, ao prever a possibilidade de concessão do indulto humanitário aos pacientes acometidos de doenças graves, estabeleceu como requisito para o seu deferimento a comprovação da gravidade do estado de saúde do condenado e a impossibilidade de o tratamento ser realizado na unidade prisional.
+2. No caso em exame, o Tribunal de origem, analisando as informações contidas nos autos, entendeu inexistir fundamento para a concessão do indulto humanitário, por estar o apenado em pleno tratamento médico oferecido pela unidade prisional necessário à preservação da sua saúde, tendo passado por consulta médica, na qual foram solicitados novos exames e ajustados seus medicamentos. Além disso, apesar de o paciente ser portador de doença grave, estaria lhe sendo oferecido tratamento e acompanhamento adequados no estabelecimento prisional, afastando-se, portanto, qualquer alegação de gravidade passível de justificar a medida.
+3. Afigura-se inviável, por meio deste mandamus, a modificação dos fundamentos utilizados pelo Tribunal a quo para afastar a possibilidade de concessão do indulto pleiteado, pois a referida análise necessitaria de uma imersão mais aprofundada do contexto fático-probatório, providência impossível de ser realizada por meio da impetração de habeas corpus, cujo procedimento sumário impede qualquer revolvimento de provas.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 421.877/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 24/4/2018, DJe de 4/5/2018.)
+Ante o exposto, indefiro liminarmente o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
