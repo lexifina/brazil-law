@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de ISRAEL APARECIDO CORREA, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente responde a ação penal ante a suposta prática do crime previsto no artigo 157, §2º, incisos I, II e V do Código Penal, por fatos ocorridos em 16 de março de 2000, tendo a denúncia sido recebida em 12/04/2000 e o processo permanecido suspenso, nos termos do artigo 366, do Código de Processo Penal, desde 20/03/2001.
+Impetrado habeas corpus nº 2201022-41.2024.8.26.0000, por meio do qual a defesa pleiteada a extinção da punibilidade pela prescrição virtual, a ordem foi denegada.
+Na presente impetração, busca-se a concessão da ordem, para o que seja reconhecida a prescrição vindicada, com revogação da prisão preventiva do paciente.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Quanto à tese de prescrição virtual, não há de ser acolhida, consoante Súmula 438 desta Corte Superior: "É inadmissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética, independentemente da existência ou sorte do processo penal".
+Com efeito, "firmou-se no Superior Tribunal de Justiça o entendimento no sentido de que falta amparo legal à denominada prescrição em perspectiva, antecipada ou virtual, fundada em condenação apenas hipotética. Assim, na falta de previsão legal, não se há falar em prescrição em perspectiva da pretensão punitiva do Estado, conforme dispõe o verbete n. 438 da Súmula desta Corte" (AgRg no RHC n. 193.000/RJ, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/4/2024, DJe de 12/4/2024).
+No mais, a pretensão defensiva resvala na via estreita do habeas corpus, que impossibilita o revolvimento de matéria fático-probatória nestes autos, consoante jurisprudência sedimentada desta Corte, devendo ser observadas as escorreitas conclusões do Tribunal local, soberano no enfrentamento de fatos e de provas.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO NO TOCANTE AO DELITO DE ASSOCIAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO VEDADO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES. 1/6. PROPORCIONALIDADE. PRIVILÉGIO. INAPLICABILIDADE. CONDENAÇÃO CONCOMITANTE PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA.
+I - Não se conhece de habeas corpus substitutivo de revisão criminal.
+II - Na hipótese de ilegalidade flagrante, concede-se a ordem de ofício. Precedentes.
+III - No presente caso, as instâncias ordinárias fundamentaram devidamente a condenação pelo crime de associação para o tráfico, com fulcro em robusto conjunto probatório, restando configurada a estabilidade e a permanência da associação, bem como a função da agravante e dos demais integrantes, com hierarquia e divisão de tarefas. IV - O rito do habeas corpus não admite o revolvimento de matéria fático probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local. (..) Agravo regimental desprovido (AgRg no HC 895457 / SC, QUINTA TURMA, de minha relatoria, DJe 16/05/2024).
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
