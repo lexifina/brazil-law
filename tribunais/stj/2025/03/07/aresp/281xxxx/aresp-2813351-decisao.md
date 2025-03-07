@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BRADESCO SAUDE S/A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO Ação de Obrigação de Fazer em fase de cumprimento de sentença Decisão que rejeitou a impugnação ofertada, mantendo as astreintes anteriormente fixadas - Inconformismo da executada - Descabimento Hipótese em que a executada vem reiteradamente descumprindo a obrigação que lhe foi imposta de forma a ensejar a manutenção da multa arbitrada - Impossibilidade de redução, pois atendidos os princípios da razoabilidade e proporcionalidade - Recurso desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 884 do CC e ao art. 537, § 1º, do CPC, no que concerne à exorbitância do montante arbitrado a título de astreintes, indo de encontro com os princípios da razoabilidade e da proporcionalidade, bem como gera o enriquecimento ilícito da parte beneficiada, trazendo a seguinte argumentação:
+3. Busca-se através deste especial a redução da exorbitante multa por descumprimento de liminar mantida pelo v. acórdão recorrido no valor de R$ 105.702,17 (cento e cinco mil, setecentos e dois reais e dezessete centavos).
+ ..
+5. Não há dúvida de que o caso em tela se enquadra perfeitamente à jurisprudência deste e. Corte, uma vez que, d.m.v, o v. acórdão recorrido permitiu a execução de astreintes em dezenas de milhares de reais, que foge dos padrões de razoabilidade e proporcionalidade, devendo ser, portanto, revista.
+ ..
+6. Este recurso é interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, em virtude da violação ao disposto no art. 884 do Código Civil e art. 537, § 1º, Código de Processo Civil, segundo o qual poderá o juiz modificar, de ofício, o valor ou a periodicidade da multa, caso verifique que se tornou insuficiente ou excessiva.
+ ..
+8. E é justamente no intuito de evitar que a aplicação da multa se destoe do seu fim-último, qual seja, de compelir a parte a cumprir com a obrigação estipulada, é que dispõe o art. 537, § 1º do Código de Processo Civil acerca da possibilidade da modificação do seu valor pelo juiz. Tudo isto para garantir que haja equilíbrio de prestações entre as partes, evitando-se qualquer possível enriquecimento ilícito de uma delas, comportamento este rechaçado pelo nosso ordenamento jurídico, nos termos do art. 884 do Código Civil.
+9. No caso concreto, a multa aplicada no valor de R$ 105.702,17 (!) é evidentemente exagerada quando se considera as particularidades do caso, sobretudo porque o v. acórdão recorrido desconsiderou que a Seguradora fielmente cumpriu a r. Decisão liminar proferida nos autos principais, bem como que não houve nenhum prejuízo à recorrente, diante do eventual atraso do pagamento das despesas médico-hospitalares.
+ ..
+11. Sem adentrar no evidente equívoco do v. acórdão recorrido ao manter uma multa de R$ 105.702,17 (cento e cinco mil, setecentos e dois reais e dezessete centavos) e simplesmente desconsiderar que a seguradora em nenhum momento agiu com desídia para cumprir a r. liminar deferida, bem como que a recorrida não apenas realizou o procedimento indicado na inicial sem qualquer obstáculo e sem gastar um único centavo sequer, como também não foi prejudicada por um eventual - e inexistente - atraso no cumprimento da obrigação, o e. Tribunal a quo deixou de lado a necessária proporcionalidade e modicidade que devem nortear a aplicação da multa cominatória, indo de encontro com a finalidade do instituto e criando evidente enriquecimento ilícito para a recorrida.
+ ..
+17. Se, por um lado, ninguém dissente que o valor cominado a título de multa por descumprimento deve ser suficiente para cumprir seu mister, evitando o inadimplemento, por outro, não se pode fechar os olhos para os efeitos negativos gerados pela fixação de astreintes em valores que não guardam a devida correlação com a obrigação a ser cumprida.
+ ..
+23. Por fim, a jurisprudência é firme ao determinar a redução da multa cominatória quando esta se mostra dissociada do valor da obrigação principal e manifestamente excessiva, tal como ocorre no caso concreto, como se vê dos julgados abaixo destacados a título meramente exemplificativo:
+ ..
+24. O v. acórdão recorrido autorizou a cobrança de multa por descumprimento no absurdo e desproporcional valor de R$ 105.702,17 (cento e cinco mil, setecentos e dois reais e dezessete centavos).
+25. Em outras palavras, a recorrida poderá embolsar R$ 105.702,17(!) a título de multa em razão do controvertido descumprimento da obrigação imposta nos autos do processo principal, que não lhe gerou qualquer prejuízo. Ao contrário disso, a recorrida se beneficiará e enriquecerá às custas da seguradora por uma suposta negativa de custeio do tratamento, jamais comprovada (fls. 209/217).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Não há que se falar em desproporcionalidade da multa fixada, isso porque a agravante vem reiteradamente descumprindo a obrigação de fazer de realizar a cirurgia no hospital credenciado de que necessita a autora, de modo que o objetivo da multa é compelir a ré ao cumprimento da obrigação de fazer, eis que se mantém inerte.
+Nesse sentido, é de se considerar que as astreintes têm por finalidade coagir o réu a cumprir a obrigação imposta, devendo observar os princípios da razoabilidade e a proporcionalidade no montante fixado.
+Ademais, as astreintes não fazem coisa julgada material, podendo ser modificadas, a requerimento da parte ou de ofício, seja para aumentar ou diminuir o valor da multa.
+Na hipótese dos autos, revela-se adequado o valor fixado, diante da evidente recalcitrância injustificada da executada que não comporta redução (fls. 203).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
