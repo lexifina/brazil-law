@@ -1,0 +1,24 @@
+DECISÃO
+REGINALDO ALBUQUERQUE BRAGA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará (Embargos de Declaração n. 0800004-32.2022.8.06.0182).
+Consta nos autos que o réu foi condenado a 1 ano, 4 meses e 25 dias de reclusão, em regime aberto, pela prática do crime previsto no art. 171 do Código Penal.
+Neste writ, a defesa sustenta que "o processo padece de nulidade absoluta, ante a ausência de representação das vítimas, conforme preconiza o art. 564, III, do CPP" (fl. 6). Ao final, pleiteia que seja julgado nulo o recebimento da denúncia.
+A liminar foi indeferida e o Ministério Público Federal opinou pela denegação do habeas corpus.
+Decido.
+O Tribunal de origem, ao rechaçar o pleito defensivo, registrou o seguinte (fls. 15-20, grifei):
+Cuidam-se de Embargos de Declaração opostos por Reginaldo Albuquerque Braga, contra o Acórdão proferido pela 1ª Câmara Criminal do Egrégio Tribunal de Justiça do Estado do Ceará (fls. 1.896/1.910), no julgamento da Apelação Criminal de nº 0800004-32.2022.8.06.0182, conhecida e desprovida.
+Nas razões recursais (fls. 01/13), requer o embargante a nulidade da denúncia, por ausência de representação do ofendido, bem como aponta contradições no indeferimento do pleito absolutório formulado, uma vez que as provas carreadas aos autos não comprovariam a autoria e materialidade delitiva.
+ ..
+Apreciando, inicialmente, o pleito de nulidade da denúncia formulado pelo embargante, verifica-se que a sua fundamentação está baseada na ausência de representação das vítimas para a propositura da ação penal.
+Sabe-se que após o advento da Lei nº 13.964/2019, o art. 171, §5º, do Código Penal passou a exigir a representação da vítima para a propositura da ação, deixando de ser pública incondicionada para ser pública condicionada à representação. A Denúncia apresentada pelo Ministério Público em 18 de março de 2022 indica a prática delitiva entre os anos de 2012 e 2017.
+Verifica-se, contudo, que a tese de nulidade está sendo arguida pela primeira vez na oposição do presente recurso, quando o processo judicial já consta com duas decisões condenatórias proferidas, não tendo sido ventilada na Defesa Prévia (fls. 1.428/1.434), nem em sede de apresentação de Memoriais Finais (fls. 1.737/1.754), ou no Recurso de Apelação (fls. 1.817/1.835).
+A alegação da nulidade apenas nesta fase processual admite o reconhecimento da preclusão, em consonância com o entendimento esposado pelo Superior Tribunal de Justiça, segundo o qual "em homenagem ao art. 563 do CPP, não se declara a nulidade do ato processual - seja ela relativa, seja absoluta - se a arguição do vício: a) não foi suscitada em prazo oportuno e b) em consonância com o princípio pas de nullité sans grief, não vier acompanhada da prova do efetivo prejuízo para a parte, hipótese destes autos" (AgInt no HC 465.962/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1º/10/2018).
+Desta forma, configura-se o que se denominou nulidade de algibeira, quando, em inobservância à lealdade e boa-fé processual, a parte, conhecendo o vício processual, deixa de argui-lo, para fazê-lo em momento que considera oportuno. Sobre o assunto, o Tribunal de Justiça do Estado do Ceará já se manifestou rechaçando tal prática.
+ ..
+Desta forma, rejeita-se a nulidade arguida pelo embargante, tendo em vista a ocorrência da preclusão ocorrida, decorrente da ausência de manifestação a respeito do tema em momento anterior.
+Na hipótese dos autos, diversas foram as oportunidades nas quais poderia o paciente haver arguido a falha procedimental, mas não o fez, tendo sido apenas suscitada nos embargos de declaração.
+Nessa perspectiva, registro que "a jurisprudência deste STJ não tolera a chamada nulidade de algibeira - aquela que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada, como estratégia, numa perspectiva de melhor conveniência futura" (AgRg no AREsp n. 2.106.665/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 10/8/2022).
+Lembro, ainda, que " a  jurisprudência desta Corte evoluiu para considerar que no processo penal mesmo as nulidades absolutas exigem prejuízo e estão sujeitas à preclusão" (RHC n. 43.130/MT, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/6/2016). Significa dizer que, em respeito à segurança jurídica e à lealdade processual, tem-se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão (AgRg no HC n. 527.449/PR, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 5/9/2019; AgRg no HC n. 593.029/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/6/2022).
+Diante dessas premissas, constato que o vício procedimental aventado neste writ está acobertado pelo manto da preclusão; não há, pois, ilegalidade a ser sanada.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
