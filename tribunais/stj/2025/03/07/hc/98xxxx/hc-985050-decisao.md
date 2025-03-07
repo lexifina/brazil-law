@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CLAUBER DANGLAR VAZ DE MOURA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal n. 5001774-27.2020.8.21.0031/RS).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006 c/c o art. 61, I, do Código Penal, à pena de 7 anos e 6 meses de reclusão, a ser cumprida no regime inicial fechado, em decorrência da apreensão de menos de 1g (um grama) de crack.
+A apelação defensiva foi desprovida pelo Tribunal de origem (e-STJ fls. 11/13).
+Daí o presente writ, no qual alega a defesa que houve indevida exasperação da pena-base sem fundamentação idônea, contrariando o disposto no art. 59 do Código Penal e a jurisprudência do Superior Tribunal de Justiça (e-STJ fls. 4/7).
+Requer, desse modo, inclusive liminarmente, a concessão de habeas corpus para cassar o acórdão impugnado, visando à correção na dosimetria da pena (e-STJ fls. 9/10).
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Esse é o caso dos autos, no qual vislumbro flagrante ilegalidade apta a atrair a concessão da ordem de ofício. Senão vejamos.
+Não se olvida da reiterada orientação do Superior Tribunal de Justiça segundo a qual "a apreciação negativa dos vetores contidos no art. 42 da Lei de Drogas (quantidade e natureza do entorpecente) justifica a exasperação da pena-base  .. " (AgRg no AREsp n. 625.887/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 6/10/2016, DJe 19/10/2016). Contudo, na espécie, entendo que a quantidade de entorpecente apreendida - menos de 1g (um grama) de crack - não se mostra elevada o suficiente para justificar o aumento da pena-base.
+Nesse mesmo sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 114,83 G DE COCAÍNA E 647,41 G DE MACONHA. ALEGAÇÃO DA ACUSAÇÃO DE QUE A QUANTIDADE DE DROGAS É SUFICIENTE PARA ELEVAÇÃO DA PENA. AUSÊNCIA DE ILEGALIDADE NA DECISÃO.
+1. A nocividade da droga é própria do tipo penal, pois, qualquer que seja, a substância entorpecente será prejudicial à sociedade, de maneira geral. A quantidade de drogas não se mostra extremamente elevada para aumentar a pena-base, de modo que acertada a decisão agravada.
+2. Agravo regimental improvido. (AgRg no HC 682.972/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO MANIFESTAMENTE DESPROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a quantidade e a natureza da substância entorpecente constituam circunstâncias preponderantes a serem consideradas na dosimetria da pena - a teor do que estabelecido no art. 42 da Lei n. 11.343/2006 - e não obstante o crack seja, de fato, dotada de alto poder viciante, a quantidade de drogas apreendidas com o agravante não foi tão elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais circunstâncias para justificar a exasperação da pena-base.
+2. Agravo regimental não provido.
+(AgRg no HC 669.398/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/10/2021, DJe 28/10/2021, grifei.)
+Desse modo, procedendo-se ao decote da vetorial referente à natureza/quantidade da droga e mantendo-se as demais diretrizes adotada nas origem, a pena do paciente deve ser reduzida para 7 anos de reclusão.
+Ante o exposto, não conheço do presente habeas corpus. Contudo, concedo a ordem de ofício, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
