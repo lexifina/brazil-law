@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno manejado por Marcel Cerqueira Cesar Machado, desafiando decisão da Presidência do STJ (fls. 700/701) que não conheceu do recurso especial, por entender que esse se encontra intempestivo, pois "a parte recorrente foi intimada do acórdão recorrido em 15.02.2024, sendo o Recurso Especial interposto somente em 08.03.2024" (fl. 700).
+Irresignada, a parte opôs embargos de declaração (fls. 706/720), que foram rejeitados e, após, interpôs o agravo interno, sustentando que "o próprio Tribunal a quo reconheceu o seu erro e refez a certidão, anulando a anterior e certificando nos autos, às fls. 739, a nova certidão, o que ensejou o pedido de reconsideração a este juízo, por ser questão de justiça, ainda não apreciado o que impôs, por cautela, a interposição do presente Agravo Interno" (fl. 752).
+A parte agravada apresentou impugnação às fls. 765/769.
+É O RELATÓRIO.
+Melhor compulsando os autos, exercendo juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito.
+Isso porque, conforme asseverado pelo ora agravante em sua insurgência a respeito da aparente intempestividade, e reconhecido pelo próprio Tribunal por meio da certidão de fl. 739, o acórdão objeto do recurso especial foi disponibilizado no Diário de Justiça Eletrônico na data de 15/2/2024, e não em 14/2/2024, sendo o recurso interposto aos 8/3/2024 tempestivo, portanto.
+Cabe registrar que, recentemente, a Corte Especial deste Sodalício acolheu a Questão de Ordem suscitada nos autos do AREsp n. 2.638.376/MG, para adotar entendimento flexível quanto à aplicação da Lei nº 14.939/2024, passando essa ser aplicada "também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense".
+Nessa linha, conquanto não se trate no caso concreto de ausência de comprovação da ocorrência de feriado local no ato de interposição do recurso, com mais razão alcança a referida flexibilização na hipótese de erro material cometido e, posteriormente, formalmente admitido e sanado pela Corte Estadual.
+Por sua vez, considerando-se que os pressupostos de admissibilidade do agravo se encontram presentes, bem com a complexidade da matéria sub judice, cabível o seu provimento para que seja apreciado o apelo nobre.
+ANTE O EXPOSTO, reconsidero a decisão de fls. 700/701, tornando-a sem efeito. Ademais, dou provimento ao agravo para convertê-lo em recurso especial.
+Publique-se.
+EMENTA
