@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado pela Federação dos Sindicatos de Servidores Municipais do Estado do Rio Grande do Sul contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 233):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. DIREITO PÚBLICO. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. FICHAS FINANCEIRAS DOS SERVIDORES PÚBLICOS MUNICIPAIS. AÇÃO AJUIZADA PELA FEDERAÇÃO DOS SINDICATOS DOS SERVIDORES MUNICIPAIS DO ESTADO. ILEGITIMIDADE ATIVA RECONHECIDA. JURISPRUDÊNCIA DO STF. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 373, I e 374, II do CPC. Sustenta que "o acórdão vergastado reconheceu a ilegitimidade ativa ad causam da federação para a substituição da categoria dos servidores municipais, pois não teria demonstrado a ausência de registro do sindicato local no Ministério do Trabalho e Emprego (MTE), ônus que seria atribuído a si (art. 373, inciso I, do CPC).  ..  Ao contrário do que é afiançado no voto, no sentido de que competiria à parte Autora comprovar a inexistência de sindicato de primeiro grau, trata-se, na verdade, de prova impossível de ser realizada pela parte autora por meio de qualquer documento, haja vista tratar-se de fato negativo, ou de verdadeira "prova diabólica"" (fls. 245/246).
+Ressalta que "entende-se que foi esclarecida a inexistência de sindicato de primeiro grau (o que atrairia a incidência do art. 374, inciso II, do CPC), ao invés de ser adotada a regra da distribuição de prova prevista no art. 373, inciso I, do CPC - como determinou o TJRS - o caso deveria ser de aplicação do inciso II do mesmo dispositivo legal, posto que competiria ao Município de Cidreira/RS a demonstração de fato impeditivo, modificativo ou extintivo do direito autoral, isto é, de que havia sim sindicato organizado em âmbito de primeiro grau." (fl. 246).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, as matérias pertinentes aos arts. 373, I e 374, II do CPC não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
