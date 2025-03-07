@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por JOAO MARIANO VALADARES NETO e OUTROS, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 126, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INVENTÁRIO. DECISÃO HOMOLOGATÓRIA. PRECLUSÃO. DIVERGÊNCIA NA LISTA DE BENS DO PLANO DE PARTILHA COM O DEMONSTRATIVO DE CÁLCULO DO ITCD. QUESTÃO CONTÁBIL PASSÍVEL DE SER SOLUCIONADA NA ESFERA ADMINISTRATIVA. DECISÃO CASSADA.
+1. Consabido que até mesmo as matérias de ordem pública estão sujeitas à preclusão consumativa, porquanto é vedado à parte rediscutir no processo as questões já decididas a cujo respeito se operou a preclusão. Inteligência do art. 507 do CPC.
+2. Uma vez preclusa a decisão homologatória de acordo, a mera divergência do plano de partilha acordado com o Demonstrativo de Cálculo do ITCD não implica revogação do decisum, notadamente se a questão contábil é passível de retificação na esfera administrativa sem causar prejuízo ao erário. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 155-165, e-STJ).
+Nas razões do recurso especial (fls. 175-191, e-STJ), a parte insurgente apontou violação aos seguintes artigos: a) 1.022, incisos I e II, do CPC, ao argumento da existência de omissão acerca da alegada incompatibilidade entre o plano de partilha e o demonstrativo de cálculo do imposto causa mortis e doação; b) 507 do CPC, alegando a inexistência de preclusão consumativa em relação à incompatibilidade entre o plano de partilha homologado e o demonstrativo de cálculo do imposto causa mortis e doação.
+Contrarrazões às fls. 206-230, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 233-236, e-STJ), dando ensejo na interposição do presente agravo (fls. 245-266, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 271-294, e-STJ.
+Parecer do Ministério Público Federal pugnando pelo prosseguimento do feito, prescindindo-se da opinião meritória do Parquet (fls. 311-312, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a parte insurgente alega violação ao artigo 1.022, I e II, do CPC, ao argumento da existência de omissão acerca da alegada incompatibilidade entre o plano de partilha homologado e o demonstrativo de cálculo do imposto causa mortis e doação.
+Acerca da controvérsia, o Tribunal local, em sede de aresto complementar, assim decidiu (fl. 159, e-STJ):
+Na espécie, a parte embargante alega ter o julgamento sido omisso em relação ao fundamento trazido nas contrarrazões de evento nº 17, capaz de afastar a alegada preclusão e levar ao desprovimento do agravo de instrumento, assim o não julgamento prévio da divergência do plano de partilha com o Demonstrativo de Cálculo nº 0695-2017 TRI, não havendo falar-se em rejulgamento de questão que sequer havia sido analisada.
+Ao final, requer o conhecimento e o provimento dos presentes embargos no intuito de sanar o vício apontados.
+Entrementes, reputo não assistir-lhe razão.
+Isso porque, sabe-se, a omissão que enseja o acolhimento dos embargos de declaração consiste na falta de manifestação expressa sobre fundamento de fato ou de direito essencial para a solução da lide, certo que não há omissão quando o magistrado, ao decidir, não se manifesta sobre cada um dos argumentos lançados pela parte, mas apenas sobre aqueles que considera suficientes para a sua solução.
+A par disso e conforme consignado no voto condutor do acórdão embargado, a questão extrajudicial atinente à ao Demonstrativo de Cálculo do ITCD deve compatibilizar-se com o plano de partilha já homologado em juízo, e não o contrário, de sorte que eventual divergência ou omissão quanto a alguns bens que compõe o monte partível deverá ser decidida em sobrepartilha ou em nova deliberação somente em relação à parte que não foi objeto da decisão homologatória de evento 150, já preclusa.
+Não se vislumbra a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbra omissão, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação ao artigo 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em seguida, alega vulneração ao artigo 507 do CPC, alegando a inexistência de preclusão consumativa em relação à incompatibilidade entre o plano de partilha homologado e o demonstrativo de cálculo do imposto causa mortis e doação.
+Sustenta, em síntese, que se a matéria "não fora tratada pelo Tribunal no julgamento do agravo nº 5452895-31, tampouco enfrentada pelo juízo de primeiro, não há como se concluir pela preclusão consumativa, justamente porque esta não foi submetida a julgamento" (fl. 188, e-STJ).
+Sobre o tema, a Corte de origem assim consignou (fls. 120-123, e-STJ):
+Após detida análise dos autos, tenho que o inconformismo da parte recorrente merece acolhida.
+Isso porque as decisões proferidas nos eventos 150 e 234 deliberaram sobre matérias distintas, passíveis de compatibilização, não havendo falar-se agora em inviabilidade de manutenção da decisão pretérita, já preclusa.
+Com efeito, a primeira decisão indeferiu a desistência unilateral do acordo e o homologou naquele mesmo ato, ao passo que o decisum hostilizado reconheceu a divergência do plano de partilha acordado com o Demonstrativo de Cálculo do ITCD, confeccionado na seara administrativa. À evidência, a solução dessa questão contábil não exige a desconstituição do acordo homologado judicialmente, mas tão somente a retificação do procedimento administrativo objetivando adequar o valor do imposto devido, sem causar prejuízo ao erário, notadamente porque se remanescerem bens a partilhar, estes sim, poderão ser objeto de nova deliberação judicial, incidindo também o ITCD respectivo.
+A propósito, no intuito de resguardar os interesses da Fazenda Pública, a decisão de evento 150 dos autos originários salientou que a homologação do "acordo não põe fim à demanda, a qual deve prosseguir quanto ao pagamento do ITCD complementar, a fim de que sejam efetivamente partilhados os bens deixados pelo inventariado". Destarte, condicionada a efetivação da partilha ao prévio recolhimento do imposto devido, afigura-se despicienda a aquiescência da ESTADO DE GOIÁS quanto aos termos do acordo de evento 70, considerando inclusive que eventuais bens ali não contemplados ainda podem ser objeto de deliberação no juízo de origem ou sobrepartilha.
+ ..
+Nesses termos, não me ocorrem dúvidas de que a decisão objurgada deve ser cassada, com o restabelecimento dos efeitos da decisão homologatória proferida na movimentação 150.
+Sobre o tema acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que já ocorreu a preclusão da decisão que homologou o acordo judicial, não sendo mais cabível a sua desconstituição.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTE DE ERRO MÉDICO. LIQUIDAÇÃO POR ARTIGOS DEFINIDA NA ORIGEM. PRETENSÃO DE LIQUIDAÇÃO POR ARBITRAMENTO. COISA JULGADA AFASTADA NA ORIGEM. RECONHECIMENTO DA PRECLUSÃO E DA COISA JULGADA. SÚMULA 7/STJ. SÚMULA 344/STJ. ALEGADA IMPOSSIBILIDADE DE LIQUIDAÇÃO POR ARTIGOS. PRETENSÃO DE REEXAME DE PROVAS.
+1. Não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+2. Reconhecer a preclusão e, por consequência, a coisa julgada da decisão que havia estabelecido a liquidação por arbitramento, nos termos do art. 507 do CPC, como pretende a agravante, demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+3. Acórdão recorrido em harmonia com a jurisprudência desta Corte ao afastar a coisa julgada em caso de alteração na forma de liquidação, nos termos da Súmula 344/STJ, segundo a qual "A liquidação por forma diversa da estabelecida na sentença não ofende a coisa julgada".
+4. O Tribunal a quo, mediante a análise dos documentos dos autos, manteve o acórdão que restaurou a forma de liquidação definida na sentença. Modificar o referido entendimento e acolher a necessidade de liquidação por arbitramento, reconhecendo a "impossibilidade" da liquidação por artigos, ensejaria o reexame de matéria fático-probatória. Súmula 7/STJ.
+5. Não cabe a esta Corte rever os fundamentos que levaram as instâncias ordinárias a decidir qual a forma de liquidação, por ser necessária incursão no contexto fático-probatório dos autos, como já explicitado.
+6. Por fim, "consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt nos EDcl no REsp n. 1.662.160/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 2.031.819/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
