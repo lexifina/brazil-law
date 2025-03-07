@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ASSOCIACAO PROTETORA DOS ANIMAIS DE AMERICANA SAO FRANCISCO DE ASSIS-A.P.A.A.S.F.A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO CIVIL PÚBLICA PROPOSTA POR ENTIDADE PROTETORA DE ANIMAIS. PRETENSÃO DE IMPOR AOS RÉUS A OBRIGAÇÃO DE NÃO REALIZAR PROVAS DE LAÇOS, VAQUEJADAS E OUTRAS MODALIDADES QUE ENVOLVAM A PERSEGUIÇÃO, LAÇO E DERRUBADA DE ANIMAIS. PARCIAL PROCEDÊNCIA. APELAÇÃO INTERPOSTA PELA CORRÉ. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. ADMISSIBILIDADE. PRESENÇA DOS REQUISITOS DO ARTIGO 947 DO CPC. MATÉRIA RELEVANTE. DIVERGÊNCIA NAS CÂMARAS DE DIREITO AMBIENTAL DESTA EG. CORTE. NECESSIDADE DE UNIFORMIZAÇÃO JURISPRUDENCIAL. MÉRITO. ATIVIDADES ALÇADAS AO PATAMAR DE MANIFESTAÇÕES CULTURAIS E DEVIDAMENTE REGULAMENTADAS PELA CF (ARTIGO 225, §7º) E POR LEIS FEDERAIS E ESTADUAIS (13.873/2019, 10.519/2002, 10.539/99 E 11.977/2005). ARCABOUÇO NORMATIVO PÁTRIO NÃO CONSIDERA A PRÁTICA, POR SI SÓ, "MAUS TRATOS", CIRCUNSTÂNCIA ESTA QUE DEVE SER DEMONSTRADA NO CASO CONCRETO. PROVAS PERMITIDAS DESDE QUE ATENDIDOS TODOS OS REQUISITOS LEGAIS. APELAÇÃO. RAZÕES RECURSAIS ACOLHIDAS. APELADA NÃO COMPROVOU QUALQUER IRREGULARIDADE NOS EVENTOS REALIZADOS PELA REQUERIDA, CONFORME LHE COMPETIA (ARTIGO 373,1, DO CPC). PRETENSÃO GENÉRICA DE PROIBIÇÃO, POR SI SÓ, INDEVIDA, NOS TERMOS DA FUNDAMENTAÇÃO SUPRA. APELO PROVIDO PARA JULGAR IMPROCEDENTE A AÇÃO. TESE FIXADA: "AS PROVAS DE LAÇO, VAQUEJADAS E OUTRAS MODALIDADES QUE IMPLIQUEM EM LAÇADA E DERRUBADA DE ANIMAIS, CONSIDERADAS MANIFESTAÇÕES CULTURAIS, NÃO SÃO PROIBIDAS DESDE QUE REALIZADAS DE ACORDO COM OS REQUISITOS PREVISTOS NAS LEIS DE REGÊNCIA, VEDADA A PRÁTICA DE MAUS TRATOS".
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 489, § 1º, VI, do CPC, no que concerne à fata de fundamentação do acórdão, trazendo a seguinte argumentação:
+O acórdão recorrido, proferido por órgão fracionário do tribunal a quo, ao autorizar a realização de vaquejadas e determinar que não podem ser proibidas, afastou a incidência do artigo 20 da Lei do Estado de São Paulo que veda expressamente a realização de vaquejadas, touradas e simulacros de touradas, a saber:
+ ..
+Ao fazê-lo deixou de aplicar o entendimento da Súmula Vinculante 10 do E. STF, que dispõe que:
+ ..
+O inciso VI do § 1 o do artigo 489 do CPC dispõe que:
+ ..
+O tribunal a quo não demonstrou que o entendimento da Súmula Vinculante 10 do E. STF foi superado, até porque o entendimento da referida súmula segue em vigência. Portanto, o acórdão recorrido não possui fundamentação.
+Ante o exposto requer seja dado provimento ao Recurso Especial para declarar a nulidade do acórdão recorrido e determinar que o tribunal a quo profira novo acórdão sem afastar a incidência do artigo 20 da Lei nº 11.977/05 do estado de São Paulo.
+(fls. 1476-1477).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 211/STJ, porquanto a questão não foi examinada pela Corte de origem, a despeito da oposição de Embargos de Declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, Rel. Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19.10.2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, Rel. Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29.8.2005; AgInt no AREsp n. 1.264.021/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º.3.2019; AgInt no AREsp n. 953.171/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 23.8.2022; AgInt no AREsp n. 1.506.939/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26.8.2022; AgRg no AREsp 1.647.409/SC, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º.7.2020; AgRg no REsp n. 1.850.296/PR, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 18.12.2020; AgRg no REsp n. 2.004.417/MT, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
