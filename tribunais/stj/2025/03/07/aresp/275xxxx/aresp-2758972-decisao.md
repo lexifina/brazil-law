@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por RXM IMPORTAÇÃO E EXPORTAÇÃO LTDA, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 570, e-STJ):
+AÇÃO DE COBRANÇA. TRANSPORTE MARÍTIMO. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO DESPROVIDA.
+CONDIÇÃO DA AÇÃO. LEGITIMIDADE DE PARTE. Rejeita-se a alegação de ilegitimidade ativa da autora para a cobrança dos valores relacionados ao atraso na devolução dos contêineres. Igualmente, não se verificou ilegitimidade passiva. Não se discutiu nos autos a propriedade dos contêineres, mas sim a responsabilidade civil decorrente do atraso na devolução dos mesmos, a qual foi demonstrada pela documentação apresentada nos autos.
+NULIDADE DA SENTENÇA. REJEIÇÃO. FUNDAMENTAÇÃO ADEQUADA. A r. sentença recorrida está adequadamente fundamentada. A existência de uma sucinta, concisa e objetiva fundamentação não traduz ausência de fundamentação. Alegação rejeitada.
+CONTRATO DE TRANSPORTE. SOBRE-ESTADIA. DEVOLUÇÃO COM ATRASO DOS CONTÊINERES. PRESCINDIBILIDADE DO TERMO DE RESPONSABILIDADE PELA DEVOLUÇÃO DE CARGA. CONVENÇÃO PARA PAGAMENTO EM MOEDA ESTRANGEIRA. POSSIBILIDADE. Ação de cobrança. Sentença de procedência. Recurso da ré. A apresentação do Termo de Responsabilidade pela Devolução de Carga não era imprescindível para promoção de ação de cobrança das despesas de sobre-estadia. Os documentos de conhecimento de embarque juntados pela autora demonstraram a regularidade daquela contratação (fls. 135/155). Além disso, nas faturas de demurrage (invoices), havia a distinção dos valores cobrados, dos preços das diárias e todas as informações necessárias para a regular cobrança dos valores (fls. 170/182). A responsabilidade contratual pela devolução dos contêineres e as implicações oriundas do inadimplemento constituem praxe comercial internacional e tanto a parte autora quanto a parte ré têm ciência dos valores. Previsão de pagamento em moeda estrangeira. Possibilidade. Precedentes. Ação julgada procedente.
+SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 633-637, e-STJ).
+Nas razões do recurso especial (fls. 590-614, e-STJ), a parte insurgente apontou violação ao artigo 373, I do Código de Processo Civil, alegando a não observância da correta distribuição do ônus da prova, impondo à recorrente a obrigação de comprovar fatos que competiriam à parte adversa, a qual não teria desincumbido do seu ônus.
+Contrarrazões às fls. 641-655, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 656-658, e-STJ), dando ensejo na interposição do presente agravo (fls. 661-679, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 682-696, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A parte insurgente alega violação ao artigo 373, I do Código de Processo Civil. Sustenta, em síntese, que a decisão recorrida não observou a correta distribuição do ônus da prova, impondo à recorrente a obrigação de comprovar fatos que competiriam à parte adversa, a qual não teria desincumbido do seu ônus.
+Acerca da comprovação do direito alegado pela demandante, o Tribunal local, em sede de acórdão complementar, assim decidiu (fls. 634-635, e-STJ):
+Os documentos de conhecimento de embarque juntados pela autora demonstraram a regularidade daquela contratação (fls. 135/155). Além disso, nas faturas de demurrage (invoices), havia a distinção dos valores cobrados, dos preços das diárias e todas as informações necessárias para a regular cobrança dos valores (fls. 170/182).
+Dessa maneira, não há que se falar em cobrança abusiva, pois a demurrage tem natureza de indenização prefixada pelas partes.
+No mais, a ré falhou em provar que devolveu os contêineres dentro do prazo de free time, limitando-se a uma impugnação genérica.
+Em suma, a Turma julgadora analisou todo conjunto probatório, embora tenha dado uma interpretação distinta daquela defendida pela parte embargante.
+As notas fiscais e demais elementos dos autos revelaram, com segurança, as datas de retirada dos cofres, verificando-se a falta de devolução no prazo contratado. A tabela juntada e considerada no julgamento correspondia sim às datas mencionadas, até porque alinhadas com demais elementos de prova - incluindo-se conhecimentos de transporte (fls. 134/155), reservas de praça (fl. 75/133).
+Aliás, a embargante não trouxe provas de que as datas de retiradas estavam incorretas. Cabia-lhe indicar com precisão e demonstração as datas que entendia corretas.
+Sobre o tema acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que os documentos apresentados pela autora comprovam a regularidade da contratação e da cobrança de demurrage, enquanto a ré não conseguiu provar a devolução dos contêineres no prazo, resultando na rejeição da alegação de cobrança abusiva.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SOBRE-ESTADIAS DE CONTÊINERES. DEMURRAGES. NATUREZA JURÍDICA DE INDENIZAÇÃO. LEGITIMIDADE PASSIVA DA RECORRENTE RECONHECIDA PELO TRIBUNAL DE ORIGEM. CULPA PELO ATRASO DEMONSTRADA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal a quo, com fundamento na prova documental juntada aos autos, concluiu pela legitimidade da recorrente para figurar no polo passivo da presente demanda judicial e por sua responsabilidade pelo atraso na devolução dos contêineres.
+2. Para se alterar a conclusão do col. Tribunal de origem, seria necessário se proceder ao reexame de documentos, contratos e termos de compromissos firmados entre as partes, bem como do conjunto fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação das Súmulas 5 e 7 do STJ.
+3. As demurrages têm natureza jurídica de indenização, e não de cláusula penal, o que afasta a incidência do art. 412 do Código Civil" (REsp 1.286.209/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 08/03/2016, DJe de 14/03/2016).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 740.480/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2017, DJe de 27/3/2017.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRANSPORTE MARÍTIMO. AÇÃO DE COBRANÇA DE SOBRE-ESTADIA DE CONTÊINERES (DEMURRAGE). TERMO DE RESPONSABILIDADE NÃO ACOSTADO AOS AUTOS. AUSÊNCIA DE PROVAS DO DIREITO ALEGADO. INCIDÊNCIA DAS SÚMULAS 5 E 7, DO STJ. RECURSO NÃO PROVIDO.
+1. Tendo o Tribunal de origem considerado, com base nos elementos informativos do processo, que a autora, ora agravante, não apresentou as provas necessárias para demonstrar o fato constitutivo do seu direito, nos termos do art. 333, I, do Código de Processo Civil de 1973, a revisão do julgado é obstada pelas Súmulas n. 5 e 7 do STJ, diante da necessidade de reexame do conjunto fático-probatório e contratual dos autos.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.422.638/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/9/2019, DJe de 15/10/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. OMISSÃO. ART. 1.022 DO CPC. NÃO CONFIGURADOS. DIREITO CIVIL. TRANSPORTE MARÍTIMO DE CARGAS. RECEBIMENTO DE CONTÊINERES. DEMURRAGE. RESPONSABILIDADE PELO PAGAMENTO. MORA ACCIPIENS. CONFIGURADA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. PRECEDENTES. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A controvérsia do caso envolve a determinação da responsabilidade pelo pagamento do valor correspondente à sobre-estadia de contêineres, taxa também denominada de "demurrage".
+2. Embora o acórdão recorrido não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente. Precedentes.
+3. A mora do credor se caracteriza pela ausência de colaboração para recebimento da prestação, seja pela recusa expressa, seja por meio da criação de obstáculos à sua realização pelo devedor, sempre que tenha havido oferta de cumprimento pelo devedor. A configuração da mora do credor dispensa prova da má-fé e transfere a ele os riscos da prestação.
+4. Modificar as premissas e conclusões a que chegou o Tribunal de origem, verificando se efetivamente houve culpa da credora-agravante no não recebimento dos contêineres ou se configurou apenas a da parte agravada - sendo que o próprio Tribunal já afastou esta última hipótese -, demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.257.279/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023.)
+Ademais, acerca da distribuição do ônus da prova, "Conforme entendimento desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15, sem incursão no conjunto probatório dos presentes autos. Incidência da Súmula 7/STJ." (AgInt nos EDcl no AREsp 1753984/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2022, DJe 31/03/2022).
+Veja-se ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. ALEGADA VIOLAÇÃO AOS ARTIGOS 341 E 374, DO CPC DE 2015. AUSÊNCIA DE PREQUESTIONAMENTO. TRIBUNAL DE ORIGEM RECONHECEU QUE A PARTE AUTORA NÃO SE DESINCUMBIU DE SEU ÔNUS PROBATÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte regional não apreciou à alegada afronta aos artigos 341 e 374, do CPC de 2015 e a parte recorrente não opôs embargos de declaração objetivando suprir eventual omissão, não estando presente o necessário prequestionamento. Incidência dos enunciados previstos nas Súmulas 282 e 356 do STF.
+2. O acolhimento da pretensão recursal, a fim de verificar a alegações relacionadas ao ônus da prova, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Ademais, "a Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1.665.411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe 13/9/2017).
+4. Agravo interno não provido.
+(AgInt no AREsp 1919346/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2021, DJe 15/12/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+4. Consoante entendimento pacificado pelo STJ, não há como aferir eventual ofensa ao artigo 333 do CPC/73 (art. 373 do CPC/15) sem que se verifique o conjunto probatório dos presentes autos, a pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ.
+5. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1103790/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por fim, tendo em vista a fixação dos honorários sucumbenciais no percentual máximo estabelecido no § 2º do art. 85 do CPC, deixo de majorá-los nesta oportunidade.
+Publique-se.
+Intimem-se.
+EMENTA
