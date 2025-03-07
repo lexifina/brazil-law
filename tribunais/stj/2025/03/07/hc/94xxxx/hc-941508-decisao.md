@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor do paciente LUCAS HENRIQUE RISSATO, tendo ap ontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que, após absolvição em primeiro grau, o paciente foi condenado pelo Tribunal de origem como incurso no art. 157, §3º, inciso II do Código Penal, à pena de 20 anos de reclusão, em regime inicial fechado, e ao pagamento de 10 dias-multa, no mínimo unitário legal. Por ocasião do julgamento em grau recursal, a instância inferior entendeu por bem decretar a prisão preventiva do paciente.
+Na presente impetração, busca-se a concessão da ordem, para que seja revogada a prisão preventiva do paciente e, subsidiariamente, seja substituída por medidas cautelares diversas da prisão.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Conforme se depreende dos fundamentos utilizados pelo Tribunal de origem para decretar a prisão preventiva do paciente, "Lucas foi agora condenado por crime hediondo (latrocínio), praticado contra policial militar, delito este que causa grande exasperação da ordem pública e verificando que o mesmo foi praticado com premeditação e intuito de roubar outra motocicleta, sendo que os dois roubadores estavam ocupando a moto roubada dois dias antes, para garantia da ordem pública e para assegurar a aplicação da lei penal" (fls. 13/33).
+Na espécie, reputo presentes, portanto, o fumus comissi delicti e o periculum libertatis, de sorte que a custódia cautelar é essencial para que se acautele a ordem pública, com fulcro no art. 312 do Código de Processo Penal, diante da prova da materialidade do crime e da autoria delitiva, bem assim em razão da gravidade concreta adotada e do modus operandi levado a efeito pelo paciente, que agiu em concurso de agentes, de modo premeditado e em aparente reiteração delitiva, tendo ceifado a vida de agente da lei.
+Com efeito, diante da necessidade de resguardo da ordem pública, não se afigura aconselhável, por ora, a substituição da custódia cautelar por nenhuma das medidas cautelares diversas da prisão enumeradas no art. 319 do Código de Processo Penal.
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
