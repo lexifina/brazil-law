@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de José Henrique de Oliveira, em que se aponta como autoridade coatora a Décima Terceira Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n. 1500272-30.2024.8.26.0631, mantendo a pena imposta ao paciente pelo Juízo da 2ª Vara Criminal da Comarca de Jaguariúma/SP, pela prática do crime de tráfico de drogas, em 6 anos e 8 meses de reclusão, em regime fechado.
+Neste writ, a defesa sustenta que o paciente é primário, possui bons antecedentes e não integra organização criminosa, requisitos necessários para a aplicação do redutor de pena (fls. 5/6). Argumenta, ainda, que a quantidade e a natureza das drogas não devem ser utilizadas para afastar o tráfico privilegiado, conforme entendimento deste Superior Tribunal.
+Reitera que o paciente não possui antecedentes criminais e que não há provas de sua dedicação a atividades criminosas ou de sua participação em organização criminosa (fls. 9/ 10).
+Requer, assim, a concessão liminar da ordem para que, seja reduzida a pena aplicada ao requerente de 1/6 (um sexto) a 2/3 (dois terços), nos moldes do artigo 33, § 4º, da Lei nº 11.343/2006, por se tratar de réu com bons antecedentes, que não se dedicava a atividade criminosa e por ser réu primário ao tempo do fato e, de consequência, alterar o regime prisional de cumprimento de pena (fl. 11).
+É o relatório.
+Infere-se dos autos que o Tribunal de Justiça de São Paulo, ao negar provimento ao recurso, considerou que a quantidade e a variedade de drogas apreendidas, além das circunstâncias do crime, justificam a manutenção da pena e do regime fechado, entendendo que o paciente se dedicava a atividades criminosas e integrava organização criminosa (fls. 57/58).
+Segundo o entendimento desta Corte, meras ilações sobre a habitualidade, além da quantidade e a natureza das drogas apreendidas, isoladamente, não são suficientes para afastar o redutor do tráfico privilegiado. Confiram-se: STJ, AgRg no HC n. 650.949/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 25/10/2021; STJ, AgRg no AREsp n. 1.281.468/BA, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 6/12/2018.
+Desse modo, forçoso reconhecer a possibilidade de aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, visto que o paciente é primário e possui bons antecedentes.
+Fixadas essas premissas e obedecidas as demais diretrizes estabelecidas pelas instâncias de origem, passo ao redimensionamento da pena do paciente.
+Mantenho a pena fixada na primeira e segunda fases da dosimetria na origem, em 6 anos e 8 meses de reclusão. Na terceira fase, reduzo em 2/3, em razão da minorante (art. 33, § 4º, da Lei n. 11.343/2006), resultando a reprimenda definitiva em 2 anos e 3 meses de reclusão. Considerando o quantum da pena, a primariedade do réu, cabível o abrandamento do regime inicial para o aberto.
+Ante o exposto, concedo liminarmente a ordem, a fim de, reconhecendo o tráfico privilegiado e aplicando a causa especial de redução de pena, redimensionar a pena do paciente, fixando-a em 2 anos e 3 meses de reclusão, em regime inicial aberto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. HABEAS CORPUS . TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. POSSIBILIDADE. HABITUALIDADE COM BASE EM PRESUNÇÃO E ILAÇÕES. QUANTIDADE DE DROGA NÃO EXPRESSIVA. PRECEDENTES. PENA REDIMENSIONADA. FIXAÇÃO DO REGIME ABERTO.
+Ordem concedida liminarmente, nos termos do dispositivo.
