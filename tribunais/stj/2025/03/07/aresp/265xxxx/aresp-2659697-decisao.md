@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DE PROMISSÃO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 65):
+APELAÇÃO - EXECUÇÃO FISCAL - IPTU - Exercícios de 2017 a 2021 - Insurgência do Município exequente em face da sentença que extinguiu a execução fiscal - Impossibilidade de substituição do polo passivo - Devedor falecido antes do ajuizamento da ação - Inteligência da Súmula 392 do STJ - Sentença mantida, por seus próprios fundamentos - Recurso improvido.
+Nas razões de seu recurso especial, a parte alega, em síntese, que foram violados os arts. 113, § 2º, 142 e 203, todos do Código Tributário Nacional (CTN), na medida em que o Tribunal de origem decidiu pelo acerto da sentença de primeiro grau que extinguiu a execução fiscal (art. 924, III, do CPC), considerando a impossibilidade de substituição do polo passivo da demanda ante a constatação do falecimento do autor antes do ajuizamento da ação.
+Requer o provimento do recurso "para efeitos de reformar o Acórdão aqui impugnado e promover sua alteração, fazendo com que o processo venha a ser extinto, sem resolução de mérito, com expressa ressalva da possibilidade de nova constituição do crédito tributário por meio do processo administrativo de lançamento em desfavor do Contribuinte apropriado, caso não se observe a ocorrência da prescrição intercorrente" (fl. 80).
+A parte adversa não apresentou contrarrazões (fl. 81).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nas razões do recurso especial, a parte recorrente defende a possibilidade de se redirecionar o processo contra o espólio do sujeito passivo falecido antes do ajuizamento da ação, sendo o caso de se reconhecer como medida mais apropriada a extinção do processo sem resolução do mérito, possibilitando nova distribuição do feito com a correta identificação do contribuinte apropriado no processo administrativo de lançamento.
+A irresignação não merece acolhimento.
+Trata-se de execução fiscal ajuizada contra HELENA SIQUEIRA CESAR cuja extinção se deu, com fulcro no art. 924, III, do CPC, ante a ilegitimidade passiva do executado em razão de seu óbito, ocorrido em 4/4/2019, antes da triangulação processual (fls. 50/52).
+É assente na jurisprudência desta Corte o entendimento de que somente é possível o redirecionamento da execução fiscal contra o espólio quando o falecimento do contribuinte ocorrer após ele ter sido devidamente citado nos autos da execução.
+Neste caso, o entendimento do Tribunal de origem de impossibilidade de redirecionamento está em conformidade com o posicionamento desta Corte, que, conforme já mencionado, somente considera viável a substituição da CDA pelo sucessor do falecido quando o falecimento se dá no curso do processo, após a formalização da triangularização da lide, por meio da citação válida, o que não ocorreu neste caso.
+Confiram-se os seguintes precedentes extraídos da Primeira e da Segunda Turmas do STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CITAÇÃO. INOCORRÊNCIA. REDIRECIONAMENTO EM DESFAVOR DE ESPÓLIO. IMPOSSIBILIDADE.
+1. A conformidade do acórdão recorrido com a jurisprudência do STJ, no sentido de que o redirecionamento da execução fiscal em desfavor do espólio somente é admitido se o óbito do devedor original ocorrer depois de realizada a citação, enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+2. "Não se justifica tratamento diferenciado quando o redirecionamento é requerido contra o espólio do devedor pessoa física e quando a medida pleiteada se dá em face de espólio de sócio falecido, então na condição de responsável tributário" (REsp 1.773.154/RJ, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2018, DJe 19/12/2018).
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.807.879/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FALECIMENTO DO CONTRIBUINTE ANTERIOR À CITAÇÃO. REDIRECIONAMENTO AO ESPÓLIO. IMPOSSIBILIDADE. SÚMULA 83/STJ.
+1. Como realçado anteriormente, o Tribunal estadual assim decidiu (fls. 253-257, e-STJ, grifei): "(..) A despeito da extensa argumentação do agravante quanto à possibilidade de estabelecimento de analogia entre esses precedentes e a situação dos autos, assim como no que tange às peculiaridades do IPTU, há, aqui, a circunstância do óbito da parte executada antes da citação, o que, como já registrado na decisão recorrida, determina solução jurídica própria, de acordo com firme orientação tanto do STJ quanto deste Sodalício. (..)".
+2. Com efeito, "somente é possível o redirecionamento da execução fiscal em face do espólio quando o falecimento do contribuinte ocorrer após ele ter sido devidamente citado nos autos da execução, o que não ocorreu no caso dos autos" (REsp 1.832.608/PR, rel. Ministro Og Fernandes, Segunda Turma, DJe 24.9.2019). Precedentes do STJ.
+3. Dissídio pretoriano prejudicado.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.999.140/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2022, DJe de 30/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. FALECIMENTO DO DEVEDOR ANTES DA CITAÇÃO VÁLIDA. REDIRECIONAMENTO EM FACE DO ESPÓLIO. IMPOSSIBILIDADE.
+1. O redirecionamento da execução fiscal ao espólio somente é possível quando o óbito do contribuinte ocorrer depois de sua citação, o que não ocorreu na espécie, em que o devedor faleceu antes mesmo do ajuizamento da demanda. Precedentes: AgInt no REsp n. 1.955.336/PB, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 25/3/2022; AgInt no REsp n. 1.945.451/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 22/3/2022; REsp n. 1.862.606/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/10/2021, DJe de 5/11/2021; REsp n. 1.804.997/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/5/2019; AgRg no AREsp n. 731.447/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/8/2015, DJe de 31/8/2015.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.998.759/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
