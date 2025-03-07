@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JULIANA BARBOSA CABRAL DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (HC n. 0001457- 63.2024.8.17.9480).
+A prisão preventiva da paciente foi decretada pela suposta prática dos crimes previstos nos arts. 155, § 1º e § 4º, I, II e IV, 304 c/c 297, do Código Penal, e no art. 14 da Lei n. 10.826/2003, todos c/c art. 29 do Código Penal, e art. 2º, § 2º, da Lei nº 12.850/2013. Impetrado prévio writ na origem, foi a ordem denegada.
+A defesa alega constrangimento ilegal em razão de nulidades decorrentes de quebra na cadeia de custódia e violação ao direito ao silêncio. Argumenta que a paciente foi coagida a fornecer a senha do aparelho celular pelos policiais e o seu interrogatório foi feito de maneira ilegal, sem a presença de um advogado ou de um especialista na área médica psiquiátrica, uma vez que a paciente estava dopada e a autoridade policial foi avisada que sofria de quadro depressivo e necessitava de acompanhamento. Alega ausência de fundamentação idônea na decisão que decretou a prisão .
+A liminar foi indeferida (fls.317/318).
+As informações foram prestadas (fls.325/989,990/1654,1659/1692).
+O Ministério Público Federal ofereceu parecer (fls.1695/1701).
+RELATADO.DECIDO.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No dia 9/5/2024, nos autos do processo originário, foi prolatada decisão recebendo denúncia contra a paciente e outros 18(dezoito) corréus pela prática dos crimes previstos nos artigos. 155, § 1º e § 4º, I, II e IV, 304 c/c 297, do Código Penal, e no art. 14 da Lei n. 10.826/2003, todos c/c art. 29 do Código Penal, e art. 2º, § 2º, da Lei nº 12.850/2013, bem como a conversão da prisão temporária em preventiva.
+A impetrante reitera, no presente writ, os argumentos apresentados no habeas corpus junto ao Tribunal de origem, cuja ordem foi denegada (fls.1659/1692).
+O exame de matéria probatória e análise detalhada das circunstâncias fáticas, não é possível na via estreita do habeas corpus. Ressalto as informações (fl.329) prestadas pelo juiz de primeiro grau no sentido de que se trata de feito de alta complexidade, não só diante do volume "do material probatório produzido até o momento, como também diante da pluralidade de réus" e defesas técnicas distintas. Todos os vícios apontados pela impetrante demandam produção de provas, devendo ser valoradas no curso da instrução criminal, sob crivo do contraditório.
+Ressaltou o Ministério Público Federal, em parecer (fl.1701), a necessidade de manutenção da prisão "em razão do envolvimento com complexa e estruturada organização criminosa especializada em crimes contra o patrimônio, atuante na prática de roubo majorado e furto qualificado de grandes cargas e depósitos, além de falsificações e lavagem de dinheiro, valendo-se os integrantes da Orcrim de armas de fogo, carros roubados, clonados/adulterados e documentos falsos".
+Não vislumbro ilegalidade no ato impugnado. Não se trata de hipótese prevista no §2, do artigo 6 54, do CPP.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
