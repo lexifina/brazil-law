@@ -1,0 +1,25 @@
+DECISÃO
+Reconsidero e torno sem efeito a decisão de fls. 102-103, ante a juntada de documentos pela defesa.
+JOÃO FRANCISCO BIAGGIO DE SOUZA, suspeito de tráfico de drogas, alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que indeferiu o pedido de revogação de sua prisão preventiva, o qual reitera a esta Corte, sob o argumento de que a medida não está fundamentada e é desproporcional ao caso concreto.
+Decido.
+Em 7/1/2025, o Juiz assim decretou a prisão preventiva do paciente (fls. 208 e seguintes):
+Há indícios suficientes de autoria e materialidade da infração penal imputada ao(s) indiciado(s). Segundo os autos, os policiais receberam denúncia via 190, dando conta de que havia um indivíduo conhecido como Joãozinho, o qual possui uma mercearia ao lado da Escola Estadual São João da Escócia, vem sendo usado como biqueira, sendo comum serem avistados usuários no local, por militares durante patrulhamento.
+De acordo com o condutor, a pessoa de Matheus Biaggio, irmão do flagrado, se encontra presa pela prática de tráfico de drogas no local.
+Diante da suspeita, foi montada operação para verificar a veracidade das denúncias, tendo os militares se deslocado ao local, que já estava sendo monitorado a distância pelo setor de inteligência, momento e que adentraram no comércio, contudo João não estava no caixa, sendo que ele foi visto na casa ao lado através da janela do comércio, estando ele na garagem.
+Após ser dada ordem de parada a João, ele correu para o fundo da casa, momento e que dispensou uma sacola verde pela janela dos fundos. Essa ação de atira o objeto pela janela foi vista pelos militares da seção de inteligência.
+Em seguida, os policiais entraram na residência, durante busca foi localizado um saco de latas de alumínio, no mesmo local, onde João correu inicialmente. Nesse saco foram localizados cinco embalagens plásticas conhecidas como ziplock, as quais continham em seu interior substância análoga a maconha, prontas para o comércio.
+Na cozinha foi localizado dentro de uma caixa, balança de precisão em funcionamento, com forte odor e resquícios de substância análoga a maconha. O local onde João jogou a sacola verde é um terreno à janela a sacola no chão, em seu interior foi localizado um tablete grande de substância análoga a maconha, uma bucha de substância a maconha.
+O flagrado ao ser questionado assumiu a propriedade do material apreendido, relatando que estaria praticando tráfico de drogas, com alegação de que após a prisão de seu irmão Matheus Biaggio, o comércio teria ficado com muitas dívidas e ele utilizaria a prática criminosa para arrecadar dinheiro.
+Ao ser ouvido perante a autoridade policial, o flagrado afirmou ser apenas usuário de drogas negando a prática delitiva.
+Além da presença de indícios suficientes de autoria e materialidade delitivas, uma vez que o local seria conhecido pela prática de tráfico de drogas. Ademais, o flagrado teria confessado a prática delitiva aos militares, vindo a negar posteriormente, sendo necessária a colheita de mais elementos para verificar os fatos narrados nos autos.
+O fato de ser usuário drogas, em nada impede a prática do delito.
+Ademais, a defesa não trouxe qualquer elemento suficiente que possa justificar a revogação da medida e aplicação de outra medida cautelar diversa da prisão. Assim, fundamentando a prisão cautelar nos artigos 311 e 312 do Código de Processo Penal, em garantia da ordem pública, CONVERTO A PRISÃO EM FLAGRANTE DELITO EM PRISÃO PREVENTIVA  ..
+Não houve ajuizamento da denúncia.
+Verifico a possibilidade de pronta solução do habeas corpus, por decisão monocrática do relator, com fundamento na jurisprudência desta Corte.
+Com efeito, "é dever do magistrado explicitar o seu convencimento quanto à necessidade da segregação cautelar. Tal fundamentação somente será, a seu turno, válida se forem indicados os motivos concretos pelos quais se decreta ou se mantém a prisão" (AgRg no HC n. 903.795/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+No caso, é manifesto o constrangimento ilegal imposto ao paciente, uma vez que o Juiz se limitou a narrar a dinâmica da prisão em flagrante e não houve nenhuma análise do risco que a liberdade do suspeito representa para a ordem pública, a conveniência da instrução criminal ou para assegurar eventual aplicação da lei penal.
+O simples registro de que o suspeito negou, na delegacia, a confissão informal feita no momento do flagrante é insuficiente para justificar a prisão preventiva. Essa alegação não está respaldada por provas (documento assinado, testemunhas ou gravações) nem demonstra intenção de destruir provas, de se esquivar da aplicação da lei penal, nem configura risco de reiteração delitiva.
+Ressalto que o direito de negar a prática delitiva, ou de permanecer em silêncio, está relacionado à garantia da não autoincriminação, sendo atribuição exclusiva do Estado comprovar a culpa do réu durante o processo penal .
+À vista do exposto, concedo o habeas corpus para revogar o decreto de prisão preventiva.
+Publique-se. Intimem-se.
+EMENTA
