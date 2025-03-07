@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC), interposto por CAIO CESAR DI ELIAS, contra decisão que não admitiu recurso especial, ante a aplicação da Súmula 07 do STJ.
+Nas razões de agravo, a insurgente busca o destrancamento do reclamo.
+Contraminuta apresentada às fls. 547/551 (e-STJ) pela casa bancária.
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Observa-se das razões do agravo, que a parte recorrente não refutou analiticamente como lhe deveria o fundamento de inadmissão da decisão agravada.
+1.1. A decisão de inadmissibilidade na origem pontuou expressamente que:
+Ademais, rever a conclusão de que a parte recorrida não teria renunciado ao seu direito de recorrer, bem como acerca correta distribuição ou satisfação do ônus da prova, nos moldes como pretendido, demandaria necessária incursão no conjunto fático-probatório dos autos, o que, contudo, é vedado em âmbito de recurso especial, a teor do enunciado 7 da Súmula do Superior Tribunal de Justiça.
+Com efeito, "Rever os fatos processuais dos autos ou alterá-los de modo diverso daquele consignado pela Corte de origem requer revolvimento do conjunto fático-probatório, inadmissível ante a Súmula 7/STJ" (AgInt nos E Dcl no AR Esp 1578093/SP, Rel. Ministro Herman Benjamin, Segunda Turma, D Je 05/10/2020 - Grifei).
+No mesmo sentido: " ..  a revisão das premissas firmadas pela Corte de origem demandaria reanálise dos fatos discutidos na lide, o que é defeso nesta fase recursal (Súmula 7/STJ)" (AgInt no AR Esp n. 1.484.941/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, D Je de 10/9/2019).
+No ponto, já manifestou a Corte Superior que: "A intervenção do Superior Tribunal de Justiça quanto à satisfação do ônus probatório e à valoração das provas encontra óbice na Súmula nº 7/STJ, o que impede a análise da violação do art. 373, I, do CPC/2015 no recurso especial." (AgInt no AR Esp 1.516.630/PE, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, D Je 27/11/2019)
+Da mesma forma, "a Súmula 7 do STJ incide quanto à alegação de desrespeito ao art. 373, I e II, do CPC." (AgInt no AR Esp 1884816/GO, Rel. Ministro Herman Benjamin, Segunda Turma, D Je 16/12/2021)
+Ainda, pela pertinência: "A desconstituição do entendimento estadual - para concluir que o autor não teria comprovado seu direito ou que a parte ré teria demonstrado a existência de fato extintivo, impeditivo ou modificativo - demandaria a reanálise fático-probatória, o que é obstado na via extraordinária, por incidir o enunciado n. 7 da Súmula do STJ." (AgInt no AR Esp 1.310.650/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, D Je de 25/06/2020.)
+Sua fundamentação se deu pela leitura das razões de decidir do acórdão ora recorrido:
+O conjunto probatório em nada auxilia a tese inaugural.
+A inicial não trouxe o boleto fraudado, mas se pode verificar no documento do evento 1.9 que o beneficiário não era a apelante e sim Pagseguro Internet S. A. Igualmente, não há demonstração da origem do boleto, tampouco que o mesmo tenha sido emitido pelo credor.
+A documentação processual apenas indica que o autor recebeu o título através do e-mail "aymore@portalfinanciarassessoria.com", para quitar a parcela do financiamento, sem, contudo, ter certeza da legitimidade da oferta, muito menos se certificar quanto à mesma.
+Cumpria ao "homem médio" o dever de cautela e não se fiar em proposta aparentemente recebida por e-mails com domínios duvidosos. Tocava ao consumidor desconfiar de boletos com beneficiários diversos do que se deve e sem entrar em contato pelo site do banco.
+Queda claro, pela prova documental, que o boleto não foi emitido pelo credor fiduciário e sim por terceiro. Em que moldes precisamente desconhece-se.
+É, sem dúvida, a ausência de cautela e imprudência do consumidor que dão azo ao quadro posto, hipótese prevista pela Legislação Consumerista, art. 14, § 3º, II.
+Nessa senda, competia ao autor produzir provas mínimas acerca de suas afirmações, a fim de legitimar seu interesse na presente demanda, pois está ao seu alcance a demonstração das supostas irregularidades.
+O argumento de que efetuou o pagamento de um boleto e, por essa razão se justificaria o direito de quitar sua dívida, demonstra ser insuficiente como meio probante a legitimar sua pretensão, pois como já referido, não há como se estabelecer no presente caso uma relação de causalidade entre o ato lesivo do agente e o dano ou prejuízo sofrido pela vítima. Logo, é descabida a aplicação da Súmula 479 do STJ, no caso concreto.
+Ademais, não há prova de que algum canal oficial da credora fiduciária tenha sido acessado pelo consumidor. Calha ressaltar que a decisão judicial não pode assentar-se em alicerces frágeis ou em mera suposição. Tenho, nesse linear, que o quadro nebuloso somente vem em desfavor da parte autora.
+Destarte, ausente prova de que o credor tenha praticado qualquer ato ilícito, é incogitável a procedência da pretensão da demandante.
+Da simples leituras dos autos, observa-se que a convicção decisória foi firmada exclusivamente a partir das provas realizadas na instrução probatória da demanda.
+Logo, a aplicação da Súmula 07 do STJ foi correta e devidamente motivada.
+Esta, inclusive, é a jurisprudência desta Corte Superior:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FORTUITO EXTERNO. REEXAME DE PROVAS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento ao agravo nos próprios autos, o qual inadmitiu o recurso especial com base na Súmula n. 7 do STJ, em razão da necessidade de reexame de provas.
+2. Ação de resolução contratual cumulada com indenização por danos materiais e morais, em que se alega falha na prestação de serviço por instituição financeira, decorrente de fraude em boleto bancário.
+3. O Tribunal de origem reformou a sentença de primeiro grau, julgando improcedentes os pedidos.
+II. QUESTÃO EM DISCUSSÃO
+4. Consiste em saber se a instituição financeira pode ser responsabilizada por danos decorrentes de fraude em boleto bancário, caracterizada como fortuito externo, e se há dano moral in re ipsa.
+III. RAZÕES DE DECIDIR
+5. A Corte de origem concluiu pela inexistência de falha na prestação de serviço, considerando que o evento danoso foi causado por terceiro, caracterizando fortuito externo, o que afasta a responsabilidade da instituição financeira.
+6. A revisão das conclusões do Tribunal de origem demandaria reexame de provas, o que é vedado em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+7. A alegação de dano moral in re ipsa ficou prejudicada em virtude da conclusão pela inexistência de falha na prestação de serviço.
+IV. DISPOSITIVO E TESE
+8. Agravo interno desprovido.
+Tese de julgamento: 1. A caracterização de fortuito externo afasta a responsabilidade da instituição financeira por fraudes em boletos bancários. 2. A revisão de matéria fática é vedada em recurso especial, conforme a Súmula n. 7 do STJ.
+(AgInt no AREsp n. 2.603.867/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/12/2024, DJEN de 13/12/2024.)
+O recurso almeja apenas o reexame de todo o caderno probatório da demanda, restando, portanto, dissociado da função uniformizadora do recurso especial, a atrair o teor da Súmula 7/STJ. Ressalte-se, ademais, que o recurso especial tem sido reiteradamente desrespeitado quanto à sua função uniformizadora, sendo utilizado como se fosse uma segunda apelação para viabilizar uma terceira revisão do caso individual, como aqui se tem.
+1.2. Como já foi dito, o Tribunal de origem, em juízo de inadmissibilidade, pontuou expressamente que o recurso almeja apenas o reexame de todo o caderno probatório da demanda, restando, portanto, dissociado da função uniformizadora do recurso especial,  a  atrair  o  teor  da  Súmula  7/STJ.  Todavia,  nas  razões  do  agravo,  a  parte  insurgente  repisou  os  argumentos  do  apelo  extremo  e  sustentou  -  apenas com o argumento retórico da revaloração das provas  -  a  inaplicabilidade  da  Súmula  7/STJ,  deixando  de  atender  a  dialeticidade  recursal.
+Massivamente o Superior Tribunal de Justiça tem sido abarrotado de demandas que distorcem a finalidade do recurso especial, em que a revisão casuística de fatos são ventilados com a roupagem de revaloração jurídica para viabilizar um nova reapreciação da lide individual. Não é possível dar guarida a essas pretensões.
+A  propósito,  com  relação  à  Súmula  7/STJ,  esta  eg.  Quarta  Turma,  nos  autos  do  AGInt  no  ARESp  n.  1.490.629/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  DJe  25/08/2021,  firmou  o  entendimento  de  que  "a  alegação  genérica  de  que  o  tema  discutido  no  recurso  especial  representa  matéria  de  direito  (incluídas  aí  as  hipóteses  de  qualificação  jurídica  dos  fatos  e  valoração  jurídica  das  provas),  e  não  fático-probatória,  não  é  apta  a  impugnar,  de  modo  específico,  o  fundamento  da  decisão  atacada.  Ao  revés,  deve  a  parte  agravante  refutar  o  citado  óbice  mediante  a  exposição  da  tese  jurídica  desenvolvida  no  recurso  especial  e  a  demonstração  da  adoção  dos  fatos  tais  quais  postos  nas  instâncias  ordinárias.".
+Eis  a  ementa  do  referido  julgado:
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  AOS  FUNDAMENTOS  DA  DECISÃO  PROFERIDA  PELO  TRIBUNAL  DE  ORIGEM.  PRINCIPIO  DA  DIALETICIDADE.  ART.  932,  III,  DO  CPC  DE  2.015.  INSUFICIÊNCIA  DE  ALEGAÇÃO  GENÉRICA.
+1.  À  luz  do  princípio  da  dialeticidade,  que  norteia  os  recursos,  compete  à  parte  agravante,  sob  pena  de  não  conhecimento  do  agravo  em  recurso  especial,  infirmar  especificamente  os  fundamentos  adotados  pelo  Tribunal  de  origem  para  negar  seguimento  ao  reclamo.
+2.  O  agravo  que  objetiva  conferir  trânsito  ao  recurso  especial  obstado  na  origem  reclama,  como  requisito  objetivo  de  admissibilidade,  a  impugnação  específica  aos  fundamentos  utilizados  para  a  negativa  de  seguimento  do  apelo  extremo,  consoante  expressa  previsão  contida  no  art.  932,  III,  do  CPC  de  2.015  e  art.  253,  I,  do  RISTJ,  ônus  da  qual  não  se  desincumbiu  a  parte  insurgente,  sendo  insuficiente  alegações  genéricas  de  não  aplicabilidade  do  óbice  invocado.
+3.  Esta  Corte,  ao  interpretar  o  previsto  no  art.  932,  parágrafo  único,  do  CPC/2015  (o  qual  traz  disposição  similar  ao  §  3º  do  art. 1.029  do  do  mesmo  Código  de  Ritos),  firmou  o  entendimento  de  que  este  dispositivo  só  se  aplica  para  os  casos  de  regularização  de  vício  estritamente  formal,  não  se  prestando  para  complementar  a  fundamentação  de  recurso  já  interposto.
+4.  Agravo  interno  não  provido.  (AgInt  no  AREsp  1490629/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  05/08/2021,  DJe  25/08/2021)  grifou-se
+1.3. Tem-se,  assim,  que  a  recente  jurisprudência  desta  Corte,  à  luz  do  princípio  da  dialeticidade,  que  norteia  os  recursos,  é  no  sentido  de  que  deve  a  parte  recorrente  impugnar  especificamente  o  fundamento  suficiente  para  manter  o  decisum  recorrido,  de  maneira  a  demonstrar  que  o  juízo  de  admissibilidade  do  Tribunal  de  origem  merece  ser  modificado,  ante a sua impropriedade, o  que  não  se  vislumbra  no  recurso  em  questão.
+Desta  forma,  irrefutável  a  incidência  da  Súmula  182  do  STJ,  porquanto  inexistiu  ataque  específico  a  todos  os  fundamentos  da  decisão  que  obstou  a  ascensão  do  recurso  especial  ao  Superior  Tribunal  de  Justiça.
+2.  Ante  o  exposto,  não  conheço  do  reclamo.
+Publique-se. Intimem-se.
+EMENTA
