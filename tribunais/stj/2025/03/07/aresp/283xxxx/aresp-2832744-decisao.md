@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SECULLUM SEGURANÇA ELETRÔNICA LTDA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/08/2024.
+Concluso ao gabinete em: 26/02/2025.
+Ação: redibitória c/c indenização por danos materiais e compensação por danos morais, ajuizada por SECULLUM SEGURANÇA ELETRÔNICA LTDA e AMBRÓSIO BORTONO CORREA em face de COMERCIAL DE VEÍCULOS DELTA LTDA e FIAT AUTOMÓVEIS S/A, em fase de cumprimento de sentença.
+Sentença: considerou cumprida a obrigação imposta na sentença e julgou extinta a fase executiva.
+Acórdão: não conheceu dos recursos de apelação interpostos por ambas as partes, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO PARCIAL. PROSSEGUIMENTO DO FEITO.NATUREZA INTERLOCUTÓRIA. RECURSO INADEQUADO. NÃO CONHECIMENTO. Consoante precedentes do STJ, as decisões interlocutórias proferidas após a fase cognitiva devem ser impugnadas por agravo de instrumento na forma do ad. 1.015, Parágrafo único, do C1 2 C115, não havendo possibilidade de aplicação do princípio da fungibilidade, por se tratar de erro grosseiro. " (e-STJ, fl. 1.209)
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: alega, além de dissídio jurisprudencial, violação dos arts. 487, 488, 489, l e IV, 1.022, II, e 1.099 do CPC, sustentando: i) omissão e negativa de prestação jurisdicional; ii) que deve ser levado em consideração o princípio da fungibilidade; iii) ser cabível o recurso de apelação na hipótese dos autos; iv) que deve ser afastado o formalismo, considerando o princípio da instrumentalidade das formas.
+RELATADO O PROCESSO, DECIDE-SE.
+Verifica-se que a petição de recurso especial não tem a assinatura do patrono da agravante, o que foi constatado pela Corte de origem, que negou seguimento ao recurso especial em juízo de admissibilidade, nos seguintes termos:
+"O recurso especial não veio assinado pelo(a) patrono(a) da parte recorrente. Intimado(a) da irregularidade, foi dado prazo para sua regularização, todavia, no prazo que lhe foi concedido, o referido(a) representante não cumpriu o determinado, conforme análise das razões, tendo apenas juntado, às fls. 9721973, instrumento de procuração, sem contudo, ratificar ou assinar a petição recursal de fls. 906/ 958. De acordo com a jurisprudência do Tribunal de destino, é inexistente o recurso interposto sem assinatura original do procurador da parte." (e-STJ, fl. 1.320)
+Com efeito, analisando os autos, verifica-se que, de fato, a Dra. Márcia Ellen Cambraía Itaborahy Lott, subscritora do recurso especial, não assinou a petição do recurso. Nesse contexto, intimada para sanar o vício, quedou-se inerte sem o cumprimento do que lhe foi determinado.
+Quanto ao ponto, a jurisprudência desta Corte é firme no sentido de que a ausência de assinatura do advogado na peça apresentada constitui vício sanável, de forma que se deve proceder à abertura de prazo para corrigir a irregularidade.
+Contudo, descumprido o comando para regularização da representação processual, o recurso apócrifo é considerado inexistente, ocasionando seu não conhecimento, nos termos do art. 76, § 2º, I, do CPC, nesse sentido: AgInt no AREsp 1.547.466/GO, 3ª Turma, DJe 18/12/2019; AgInt no AREsp 1.329.881/MT, 1ª Turma, DJe 11/12/2019; AgInt no AREsp 1465537/SP, 2ª Turma, DJe 08/11/2019; RCD no REsp 1.781.736/MG, 4ª Turma, DJe 19/11/2019; AgInt no AREsp 1.691.485/PE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 21/10/2020; AgInt no AREsp 1.372.728/PE, QUARTA TURMA, julgado em 21/10/2019, DJe 28/10/2019.
+Outrossim, esta Corte também possui entendimento no sentido de que a aplicação do princípio da instrumentalidade das formas, conforme invocado pela parte agravante não serve de argumento, pois encontra limite no princípio da segurança jurídica. Nesse sentido: AgInt no REsp 1.602.592/PB, TERCEIRA TURMA, DJe de 18/02/2022; REsp 1.442.887/BA, Rel. Terceira Turma, julgado em 6/5/2014, DJe de 14/5/2014; AgRg no AREsp 518587/SC , Quarta Turma, julgado em 24/06/2014, DJe de 01/08/2014.
+Forte nessas razões, CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários, pois não fixados na origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REDIBITÓRIA. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CUMPRIMENTO DE SENTENÇA. PETIÇÃO DE RECURSO ESPECIAL. AUSÊNCIA DE ASSINATURA. CONCESSÃO DE PRAZO PARA REGULARIZAR O VÍCIO FORMAL. DESCUMPRIMENTO. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. INAPLICABILIDADE. PRECEDENTES.
+1. Ação redibitória c/c indenização por danos materiais e compensação por danos morais, em fase de cumprimento de sentença.
+2. A ausência de assinatura do advogado na peça apresentada constitui vício sanável, de forma que se deve proceder à abertura de prazo para corrigir a irregularidade.
+3. Contudo, descumprido o comando para regularização da representação processual, o recurso apócrifo é considerado inexistente, ocasionando seu não conhecimento, nos termos do art. 76, § 2º, I, do CPC.
+4. A aplicação do princípio da instrumentalidade das formas encontra limite no princípio da segurança jurídica. Precedentes.
+5. Agravo conhecido para não conhecer o recurso especial.
