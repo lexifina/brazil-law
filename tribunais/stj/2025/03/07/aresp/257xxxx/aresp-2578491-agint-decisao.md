@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão assim ementada (fl. 963):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS RECURSAIS. BASE DE CÁLCULO. PRECEDENTES. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Os agravantes buscam o provimento recursal "para o fim de que dê provimento ao Recurso Especial manejado, reconhecendo-se que a modificação do critério de arbitramento dos honorários de sucumbência recursais fixados pela própria Corte configura violação aos efeitos da res judicata e aos artigos 502, 503 e 505, caput e incisos I e II do CPC, e com isso, que se DETERMINE que, no cômputo da verba sucumbencial devida aos Agravantes, seja OBSERVADA a majoração dos honorários recursais no percentual de 1% (um por cento) sobre o valor da condenação, nos exatos termos do aresto que foi objeto de cumprimento de sentença, AFASTANDO, via de consequência, o entendimento de majoração dos honorários deveria se dar em "1 % sobre outro percentual anteriormente fixado"" (fl. 986).
+Com impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, exerço o juízo de retratação facultado pelo art. 259 do Regimento Interno desta Corte, e torno sem efeito a decisão de fls. 963-965.
+A pretensão merece prosperar.
+No caso em voga, o Tribunal de origem sedimentou que a base de cálculo para aplicação dos honorários recursais seria o valor concreto fixado pela instância anterior, observados, quanto ao limite máximo, os parâmetros do artigo 85, §§ 2º e 3º, do CPC/2015, e não sobre o valor da condenação, como fixado no título executivo.
+Vejamos (fls. 74-79 - com destaques apostos):
+ .. Conforme relatado, trata-se de Agravo de Instrumento interposto em desfavor da decisão (EP. 119) proferida pelo Juízo da 2ª Vara da Fazenda Pública da Comarca de Boa Vista, nos autos de Cumprimento de Sentença n.º 9002945-19.2022.8.23.0000, que determinou a adequação do cálculo de atualização da obrigação, em razão da existência de inconsistências.
+Na origem, trata-se de cumprimento de sentença referente aos honorários advocatícios, onde o juízo a quo, discordando dos cálculos apresentados pelo exequente, ora agravante, proferiu a decisão recorrida fixando a forma como deveria incidir a majoração determinada em grau recursal, em atenção ao disposto no art. 85, §11, do CPC.
+Em análise aos autos de origem, verifica-se que a sentença (EP. 41), julgou improcedentes os Embargos Monitórios, arbitrando os honorários advocatícios em 2% (dois por cento) sobre o valor da condenação, conforme art. 85, §3º, V e §4º, I, do Código de Processo Civil.
+Contudo, em sede de Apelação Cível, houve a reforma da sentença para adequação da fixação dos honorários ao disposto no §5º, do art. 85, do CPC, fixando-os nos percentuais mínimos de cada faixa do §3º do mesmo dispositivo legal, quais sejam, 10%, 8%, 5% e 3% respectivamente. Em seguida, em atenção ao §11, também do art. 85 do CPC, os honorários foram majorados em 1% (um por centos).
+Interposto Agravo em Recurso Especial pelo Estado de Roraima, foram novamente majorados os honorários nos seguintes termos: "caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, §11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça".
+In casu, cinge-se a controvérsia sobre qual seria a base de cálculo para a majoração dos honorários fixados em grau recursal.
+Com efeito, consoante entendimento pacífico em nosso ordenamento jurídico, a base de cálculo para a majoração da verba honorária em sede recursal é o valor anteriormente fixado e não o valor da condenação ou o valor da causa, uma vez que os honorários recursais não têm existência independente dos honorários fixados na origem.
+ ..
+Assim, o percentual estabelecido no julgamento da Apelação Cível, deve incidir sobre o valor apurado na sentença de 1º grau, acrescido ainda do percentual de 15% fixado pelo Superior Tribunal de Justiça, no julgamento do Recurso Especial, conforme bem explicitado pelo juízo singular na decisão recorrida.
+Ocorre que a jurisprudência desta Corte Superior consolidou o entendimento pela impossibilidade de modificação, em sede de execução ou cumprimento da sentença, de critérios, percentuais e base de cálculo dos honorários advocatícios fixados no título executivo, sob pena de violação à coisa julgada.
+Nesse sentido, com grifos nossos:
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. VERBA HONORÁRIA FIXADA NA AÇÃO DE CONHECIMENTO. IMPOSSIBILIDADE DE ALTERAÇÃO NOS EMBARGOS À EXECUÇÃO. COISA JULGADA.
+1. Não há ofensa ao art. 1.022 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe foram submetidas e aprecia integralmente a controvérsia posta nos autos.
+2. A jurisprudência do Superior Tribunal de Justiça é firme "no sentido de que os critérios, os percentuais e a base de cálculo da verba honorária sujeitam-se aos efeitos da coisa julgada, razão pela qual são insuscetíveis de modificação na execução ou na fase de cumprimento da sentença" (REsp n. 2.054.617/PI, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/6/2023, DJe de 26/6/2023).
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.051.229/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIOS DE CÁLCULO. FASE DE EXECUÇÃO. MODIFICAÇÃO. IMPOSSIBILIDADE. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. PREENCHIMENTO.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Sob a égide do CPC/2015, os parâmetros para a fixação dos honorários advocatícios estão estabelecidos em seu art. 85.
+3. Hipótese em que a sentença transitada em julgado condenou o Município ao pagamento da verba honorária no percentual mínimo do valor do proveito econômico obtido, a ser apurado em liquidação, nos termos do art. 85, §3º, do NCPC, tendo o magistrado, na fase de execução, adotado outros critérios para fixar a quantia, utilizando-se do juízo da equidade previsto no art. 85, § 8º, do mesmo diploma legal, em interpretação dissonante com o título executivo, contrariando, por conseguinte, os arts. 502, 505, 509, § 4º, do CPC/2015.
+ ..
+6. Agravo interno desprovido.
+(AgInt no REsp n. 1.879.336/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/2/2021, DJe de 9/3/2021.)
+Na hipótese, resta claro que o título executivo, acobertado pela coisa julgada e, portanto, insuscetível de modificação em sede executiva, majora os honorários em 1% taxativamente sobre o valor da condenação.
+Vejamos (fl. 511):
+Assim, o Acórdão acostado no EP. nº 82, fixa os honorários advocatícios nos percentuais mínimos de cada faixa do art. 85, § 3º, do CPC (10%, 8%, 5% e 3% respectivamente) e os majora em 1% (um por cento) SOBRE o valor da condenação .. .
+Sendo assim, resta evidente que o acórdão recorrido encontra-se em dissonância com o entendimento desta Corte Superior.
+Ante o exposto, torno sem efeito a decisão de fls. 963-965, para dar provimento ao agravo interno, a fim de conhecer do agravo e prover o recurso especial, com o escopo de que a majoração dos honorários advocatícios ocorra em 1% sobre o valor da condenação, nos exatos termos do aresto que foi objeto do cumprimento de sentença, sob pena de violação à coisa julgada.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. ALTERAÇÃO DA BASE DE CÁLCULO PROTEGIDA PELA COISA JULGADA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO, A FIM DE DAR PROVIMENTO AO RECURSO ESPECIAL.
