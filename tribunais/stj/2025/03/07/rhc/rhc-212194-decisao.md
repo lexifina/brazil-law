@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por HALLEY HANDROSKOWY MAGALHAES MARTINS contra acórdão do Tribunal de Justiça do Estado do Ceará (HC n. 0639487-46.2024.8.06.0000).
+Depreende-se dos autos que o recorrente encontra-se preso preventivamente, desde 29/2/2024, pela suposta prática dos delitos tipificados nos arts. 121, § 2º, III, IV, VIII e IX, e 121, § 2º, IV e VIII, ambos do Código Penal.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 1.447/1.448):
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. HABEAS CORPUS. DUPLO HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INEXISTÊNCIA DE DESÍDIA ESTATAL. APLICAÇÃO DO PRINCÍPIO DA RAZOABILIDADE. COMPLEXIDADE DO FEITO. DOIS RÉUS E SETE PROCESSOS INCIDENTAIS. SÚMULA Nº 15, DO TJCE. INSTRUÇÃO CRIMINAL JÁ INICIADA. TESE DE AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PREVENTIVO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. GRAVIDADE CONCRETA DO DELITO. SÚMULA Nº 52, DO TJCE. APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS AO CÁRCERE. INSUFICIÊNCIA. ORDEM CONHECIDA E DENEGADA, com recomendação.
+I. CASO EM EXAME
+1. Trata-se de habeas corpus com pedido de liminar, impetrado em favor de Halley Handroskowy Magalhães Martins, preso preventivamente pela suposta prática do delito capitulado no art. 121, § 2.º, incisos III, IV, VIII e IX, e no art. 121, § 2.º, incisos IV e VIII, na forma dos arts. 29 e 69, todos do Código Penal, apontando como autoridade coatora o Juiz de Direito da Vara Única Criminal da Comarca de Eusébio.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão consistem em: (i) determinar se há excesso de prazo para a formação da culpa; (ii) estabelecer se o decreto de prisão preventiva carece de fundamentação idônea, (iii) se as medidas cautelares alternativas ao cárcere são suficientes para garantia da ordem pública e (iv) se houve omissão judicial quanto à reavaliação periódica da prisão preventiva, conforme exigido pelo art. 316, parágrafo único, do CPP.
+III. RAZÕES DE DECIDIR
+3. Primeiramente, em relação à tese de excesso de prazo, entendo que esta não merece acolhimento. Em que pese o paciente tenha sido preso em 29.02.2024, não se verifica inércia do Poder Judiciário ou atuação temerária do Ministério Público; ademais, já teve início a instrução criminal e o feito encontra-se aguardando a resposta das determinações contidas na decisão proferida em audiência, para poder finalizar o ato instrutório e dar início a fase dos memoriais escritos e, em seguida, prolatação de sentença.
+4. Outrossim, vale destacar que a tramitação é compatível com a complexidade da causa. Trata-se de feito complexo, em que se apura delito cometido por dois denunciados, com a determinação de expedição de notificações e citações, apresentações de defesas, envio de malotes digitais, ofícios, certidões, prestações de informações em Habeas Corpus, interposição de embargos de declaração, com 07 (sete) processos incidentais (sendo um deles incidente de insanidade mental), diligências em andamento, além de envolver crimes de intensa gravidade, não havendo notícias de que esteja ocorrendo morosidade ou retardo excessivo na implementação dos atos processuais, tampouco desídia ou inércia na prestação jurisdicional.
+5. Em relação à tese de ausência de fundamentação idônea do decreto preventivo, entendo igualmente que não merece acolhimento. Da análise da decisão que manteve a prisão preventiva, observa-se que o magistrado de origem justificou suficientemente a decretação da custódia cautelar do paciente para a garantia da ordem pública e por conveniência instrução criminal, considerando elementos concretos que bem demonstram a gravidade da conduta perpetrada pelo agente, pois os homicídios foram consumados em concurso de agentes, de forma cruel e premeditada, mediante recursos que dificultaram a defesa das vítimas, sendo uma menor de 14 anos. Na oportunidade o paciente junto com o corréu abordaram as vítimas e realizaram diversos disparos de arma de fogo.
+6. Em relação à suposta extemporaneidade da revisão periódica da prisão preventiva, observa-se que a segregação foi objeto de reavaliação pelo Juízo competente na data de 13/12/2024, em decisão do Pedido de Relaxamento da Prisão Preventiva por excesso de prazo, formulada no apenso nº 0012379-60.2024.8.06.0075, tendo a autoridade impetrada indeferido o pleito e mantido a prisão do paciente, ante a inexistência de fatos novos capazes de modificar os elementos que a justificaram.
+7. Na mesma toada, inviável revela-se a substituição da prisão por medidas cautelares diversas, previstas no art. 319 do CPP, já que estas seriam insuficientes para assegurar a ordem púbilca, no presente caso.
+8. Acrescenta-se que, em consulta ao Sistema CANCUN (Consulta de Antecedentes Criminais Unificada), verifica-se que o paciente responde a um inquérito policial militar: processo nº 0280897-54.2021.8.06.0001 (abuso de autoridade)
+9. No entanto, faz-se necessário recomendar ao magistrado de origem que envide esforços no sentido de instar o retorno do ofício encaminhado para a Unidade Prisional, para que sejam enviadas as informações solicitadas.
+IV. DISPOSITIVO E TESE
+10. Ordem conhecida e denegada.
+Neste recurso, a defesa alega excesso de prazo para a formação da culpa, já que o acusado encontra-se encarcerado desde 29/2/2024.
+Ressalta que "o decurso processual vem sendo retardado por motivos alheios ao suplicante, tais como a ausência de escolta, questões de saúde de corréu e a necessidade de redesignações sucessivas, fatores que demonstram uma evidente morosidade" (e-STJ fl. 1.471).
+Pontua que "o recorrente tem, até o presente momento, contribuído de maneira diligente e irrepreensível para o andamento célere desse processo, colaborando com todos os trâmites e não dando causa a quaisquer intercorrências que pudessem resultar em atrasos. Já se submeteu ao interrogatório e, em respeito ao processo, encontra-se à disposição para que a instrução seja concluída com a maior brevidade possível" (e-STJ fl. 1.474).
+Afirma ser suficiente, no caso, a aplicação de outras medidas cautelares, consoante o disposto no art. 319 do Código de Processo Penal.
+Dessa forma, requer, liminarmente e no mérito, o relaxamento da prisão, ainda que mediante a imposição de medidas alternativas.
+É o relatório.
+Decido.
+Insurge-se a defesa contra o excesso de prazo para a formação da culpa.
+Passo, por fim, a examinar a alegação de que há excesso de prazo na segregação cautelar.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que o ora recorrente está custodiado desde 29/2/2024, e a defesa alega que não há previsão para a formação da culpa.
+Na origem, a ordem foi denegada, firmado o entendimento de que o excesso de prazo não estava configurado. Consignou o voto condutor do acórdão impugnado (e-STJ fls. 1.450/1.455, grifei):
+Primeiramente, acerca da alegação de excesso de prazo para a formação da culpa, entendo que não merece prosperar. A duração razoável do processo é uma garantia fundamental (LXXVIII, do art. 5º, da Constituição Federal, com a redação dada pela Emenda Constitucional nº 45/2004), que assume ainda mais relevância nos processos criminais.
+Com efeito, o princípio da razoável duração do processo não impõe tempo exato para a conclusão dos feitos ou atos processuais. Todavia imprescindível é verificar, em cada processo, a razoabilidade do tempo decorrido, consideradas suas peculiaridades, bem como as intercorrências fáticas e também jurídicas que interfiram na regular tramitação do feito, as quais podem conduzir a uma maior delonga na conclusão da instrução, sem, contudo, configurar ilegalidade.
+Ao que passo à cronologia dos atos processuais:
+O paciente foi preso dia 29.02.2024.
+Parecer ministerial, requerendo a declinação de competência ao Juízo Criminal da Comarca do Eusébio/CE em 29.08.2023.
+Decisão interlocutória, declarando a incompetência do Juízo e determinando a distribuição dos autos ao Juízo do Eusébio/CE em 01.09.2023.
+Denúncia ofertada em desfavor do corréu Paulo Roberto Rodrigues de Mendonça em 16/10/2023 e recebida em 31/10/2023.
+Aditamento da Denúncia apresentada em relação ao acusado Halley Handroskowy Magalhães Martins, no dia 16/04/2024 (fls. 756/765) Citação do paciente em 03 de junho de 2024 (fl. 807)
+Resposta à acusação do réu Paulo Roberto Rodrigues de Mendonça em 20 de julho de 2024 e do réu Halley Handroskowy Magalhães Martins em 25 de julho de 2024 (fls. 966/1011).
+Decisão interlocutória, rejeitando as preliminares arguidas e determinando a designação de audiência de instrução em 30.07.2024 (fls. 1012/1018).
+O réu Paulo Roberto Rodrigues de Mendonça, através do seu advogado, apresentou embargos de declaração criminal com efeitos infringentes em 02.08.2024 (fls. 1035/1079).
+O réu Halley Handroskowy Magalhães Martins, através do seu advogado, apresentou embargos de declaração criminal com efeitos modificativos em 06.08.2024 (fls. 1086/1096).
+Decisão interlocutória, recebendo os embargos e determinando vista dos autos à parte embargada em 12.08.2024 (fl. 1116).
+O advogado do réu Paulo Roberto Rodrigues de Mendonça ingressou com pedido de adiamento da audiência em 21.08.2024. Foi proferido despacho em 22.08.2024, indeferindo o pedido (fl. 1166).
+A audiência designada para o dia 27.08.2024 não se realizou em virtude do não comparecimento dos réus e o ato foi redesignado para o dia 19.09.2024, às 09:00h (fls. 1180/1181).
+O Ministério Público, em 29.08.2024, ofereceu manifestação sobre os embargos de declaração opostos pelos réus Paulo Roberto Rodrigues de Mendonça e Halley Handroskowy Magalhães Martins (fls. 1194/1197).
+Decisão que conhece e nega provimento dos embargos de declaração em 05.09.2024 (fls. 1200/120).
+A audiência designada para dia 19.09.2024 foi realizada e determinada para o dia 15.10.2024 a sua continuação.
+O advogado do réu Paulo Roberto Rodrigues de Mendonça, em 15.10.2024, ingressou com pedido de adiamento da audiência.
+Aberto a audiência, foi acolhido o pedido do causídico, sendo o ato adiado para o dia 22.10.2024 às 13:30.
+Audiência realizada em 22.10.2024, com a oitiva das testemunhas e interrogatório do paciente, restando prejudicado em relação ao corréu Paulo Roberto Rodrigues de Mendonça, sendo determinada a expedição de ofício para a Unidade prisional, na qual o antedito réu encontrava-se recolhido (fl. 1452/1453).
+O processo encontra-se, atualmente, aguardando as respostas das determinações contidas na decisão proferida em audiência, proceder à oitiva do corréu faltante, para dar início à fase dos memoriais escritos, e final sentença.
+Com efeito, não se verifica desídia ou inércia da prestação e nem atuação temerária da acusação. Outrossim, ainda que as disposições legais tragam a previsão de determinados prazos para a finalização dos atos processuais, o tempo de duração do procedimento não corresponderá à mera soma aritmética de tais prazos, servindo apenas como parâmetro geral, contanto que a dilação não venha a se tornar desarrazoada.
+No presente caso, embora a segregação cautelar do paciente perdure por 11 (onze) meses o feito tem curso regular, compatível com a complexidade dos crimes apurados, dois homicídios qualificados.
+Como é cediço, o princípio da razoável duração do processo não impõe tempo exato para a conclusão dos feitos ou atos processuais. Todavia imprescindível é verificar, em cada processo, a razoabilidade do tempo decorrido, consideradas suas peculiaridades, bem como as intercorrências fáticas e também jurídicas que interfiram na regular tramitação do feito, as quais podem conduzir a uma maior delonga na conclusão da instrução, sem, contudo, configurar ilegalidade.
+Na hipótese, vê-se que se trata de processo complexo, em que se apura delito cometido por dois denunciados, com a determinação de expedição de notificações e citações, apresentações de defesas, envio de malotes digitais, ofícios, certidões, prestações de informações em Habeas Corpus, interposição de embargos de declaração, com 07 (sete) processos incidentais (sendo um deles incidente de insanidade mental), diligências em andamento, além de envolver crimes de intensa gravidade, não havendo notícias de que esteja ocorrendo morosidade ou retardo excessivo na implementação dos atos processuais, tampouco desídia ou inércia na prestação jurisdicional. ..
+Desta feita, muito embora a prisão cautelar do paciente já perdure por 11 (onze) meses, verifica-se que não existe desídia por parte do Estado/Juiz na condução do processo, que vem impulsionando o feito constantemente, sendo mais prudente aguardar o retorno de informações solicitadas para a Unidade Prisional, em que esta recolhido o réu Paulo Roberto, e a finalização da audiência de instrução e julgamento.
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, já que se encontra, atualmente, aguardando as respostas das determinações contidas na decisão proferida em audiência, a fim de proceder à oitiva do corréu faltante, para dar início à fase dos memoriais escritos, com a prolação da sentença, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO TENTADO E HOMICÍDIO QUALIFICADO TENTADO. (I) PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. (II) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PLURALIDADE DE RÉUS. EXPEDIÇÃO DE CARTAS PRECATÓRIAS. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. (III) CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. (IV) MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIENTES PARA RESGUARDAR A ORDEM PÚBLICA.
+ ..
+5. "A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC-331.669/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/3/2016, DJe 16/3/2016).
+6. Em não se verificando a alegada desídia da autoridade judiciária na condução da demanda, não há falar em constrangimento ilegal. Ao revés, nota-se que o Magistrado singular procura imprimir à ação penal andamento regular.
+ ..  (HC n. 369.976/MG, de minha relatoria, SEXTA TURMA, julgado em 6/12/2016, DJe 16/12/2016.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. REQUISITOS E FUNDAMENTAÇÃO. AGRAVO NÃO PROVIDO.
+ ..
+5. Não há excesso de prazo na instrução processual, pois o processo segue tramitando regularmente, sem evidências de desídia atribuível ao Poder Judiciário, considerando a complexidade do caso e a pluralidade de réus.
+ ..
+IV. Dispositivo e tese
+8. Agravo não provido.  ..  (AgRg no HC n. 959.628/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+No mais, frise-se que as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO. QUALIFICADO. FUGA. ENTENDIMENTO DIVERSO. REVOLVIMENTO FÁTICO-PROBATÓRIO. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA. CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+6. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+7. Agravo regimental improvido. (AgRg no HC n. 954.426/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO. AUSÊNCIA DE ILEGALIDADE. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NA HIPÓTESE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+4. Agravo regimental não provido. (AgRg no HC n. 952.172/PE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+Ante todo o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
