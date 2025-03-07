@@ -1,0 +1,56 @@
+DECISÃO
+Examina-se recurso especial interposto por MÁRCIA CASSINI DA SILVA e ALINE CASSINI DE AMORIM, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 24/07/2024.
+Conclusos ao gabinete em: 05/03/2025.
+Ação: de imissão na posse com pedido de tutela de urgência em caráter liminar movida por SOLANO BICALHO e TAMARA SAMARA LIMA CAVALCANTE.
+Decisão interlocutória: deferiu o pedido de tutela de urgência para a imissão dos autores/recorridos na posse do imóvel.
+Acórdão: conheceu parcialmente do agravo de instrumento interposto pelas recorrentes e, na parte conhecida, negou-lhe provimento, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. PRELIMINAR SUSCITADA DE OFÍCIO. NÃO CONHECIMENTO DE PARTE DO RECURSO. REFORMA PARCIAL DA DECISÃO NA PRIMEIRA INSTÂNCIA. IMISSÃO NA POSSE. IMÓVEL DADO EM GARANTIA FIDUCIÁRIA. CONTROVÉRSIA ATINENTE AO PROCEDIMENTO DA CONSOLIDAÇÃO DA PROPRIEDADE. IMPOSSIBILIDADE DE ANÁLISE NO PROCESSO DE IMISSÃO. PRECEDENTES DESTE EG. TJMG. - Imperioso concluir pela prejudicialidade parcial do recurso quando o Magistrado condutor do feito reforma em parte a decisão agravada. - A ação de imissão na posse tutela a posse de coisa que se encontra na posse de outrem, invocando para tanto um fato jurídico que lhe dá direito à tomada da coisa. - Dada a via estreita da ação possessória, não se mostra cabível discussões acerca de eventuais irregularidades no procedimento de consolidação da propriedade pelo credor fiduciário. Referida discussão - nulidade da consolidação da propriedade - deverá ser perquirida em ação própria com a devida instrução probatória, em observância aos princípios norteadores da norma processual vigente. - O ajuizamento de ação anulatória em que se discute o contrato de alienação fiduciária e o leilão dele decorrente não tem o condão de obstar a imissão do adquirente na posse do bem, ante a ausência de prejudicialidade externa. (fls. 1346/1355, e-STJ).
+Embargos de declaração: opostos pelas recorrentes, foram desacolhidos (fls. 1388/1392, e-STJ).
+Recurso especial: alega violação do artigo 313, inciso V, alínea "a" do Código de Processo Civil. Sustenta que o pedido liminar de imissão na posse formulado pelos recorridos, que adquiriram o imóvel em leilão, não observou a existência de processo movido pelas recorrentes contra a instituição financeira, credora fiduciária, no qual se discute a nulidade dos atos expropriatórios, e que, ao afastar a prejudicialidade externa, o Tribunal de origem deixou de reconhecer que poderá ocorrer a anulação do leilão. Aduz ser necessária, nesse contexto, a suspensão da ação de imissão na posse até o julgamento de mérito do outro processo. Requer a concess ão de efeito suspensivo e, ao final, o provimento (fls. 1429/1433, e-STJ).
+Juízo de admissibilidade: o TJMG admitiu o recurso especial e, na mesma ocasião, deferiu o pedido de efeito suspensivo (fls. 1533/1535, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 735/STF
+Considerando a precariedade da decisão que deferiu a tutela provisória, a qual pode ser alterada a qualquer tempo, desaconselha-se o conhecimento e julgamento de recurso especial que verse sobre o tema, exceto quando tratar dos requisitos legais de concessão da tutela antecipada e não exigir o reexame de matéria fática e probatória, o que não se coaduna com a hipótese dos autos.
+Nesse sentido: AgInt no Aresp 1.248.498/SP, 3ª Turma, DJe de 29/6/2018 e AgInt no Aresp 980.165/BA, 4ª Turma, DJe 9/2/2018.
+No particular, verifica-se que o acórdão recorrido negou provimento ao agravo de instrumento interposto à decisão do Juízo de primeiro grau que deferiu o pedido liminar de imissão na posse pelos recorridos.
+Dessa forma, impossível discutir, em recurso interposto contra decisão que defere a tutela provisória, a questão de fundo do direito. A título exemplificativo, veja-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TUTELA DE URGÊNCIA. PRETENSÃO DE SUSPENDER O PROCEDIMENTO DE COBRANÇA EXTRAJUDICIAL MOVIDO PELO AGRAVADO REFERENTE AO IMÓVEL ALIENADO FIDUCIARIAMENTE. IMPOSSIBILIDADE. SÚMULA 735/STF. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento, o qual buscava o deferimento de tutela de urgência negada pelas instâncias ordinárias.
+2. A decisão monocrática manteve o indeferimento da tutela antecipada, com base na incidência das Súmulas 735 do STF e 7 do STJ, e na suficiência da fundamentação do acórdão recorrido.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a decisão monocrática que negou provimento ao recurso especial, com base na impossibilidade de reexame de fatos e provas e na suficiência da fundamentação do acórdão recorrido, deve ser reconsiderada.
+4. A parte agravante alega que a prestação jurisdicional foi deficiente e que a Súmula 735 do STF não impede o exame de questões atinentes à tutela de urgência em recurso especial.
+III. RAZÕES DE DECIDIR
+5. O Tribunal de origem decidiu a matéria de forma fundamentada, não havendo negativa de prestação jurisdicional.
+6. O julgador não está obrigado a analisar todos os argumentos invocados pela parte quando já encontrou fundamentação suficiente para dirimir o litígio.
+7. A jurisprudência do STJ não admite recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, conforme a Súmula 735 do STF.
+8. A análise dos requisitos para concessão da tutela de urgência demandaria reexame de fatos e provas, o que é vedado pela Súmula 7 do STJ.
+IV. AGRAVO INTERNO IMPROVIDO.
+(AgInt no AREsp 2693992/RS, Terceira Turma, DJe de 20/02/2025)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. PRAZO DE INTIMAÇÃO DE PAUTA. INEXISTÊNCIA DE NULIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. TUTELA PROVISÓRIA. OBRIGAÇÃO DE INSTALAR PLACAS DE ENERGIA FOTOVOLTAICA. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 735/STF E 7/STJ.
+ ..
+4. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada a reintegração de posse dos imóveis objeto da lide principal.
+5. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.240.258/MT, Quarta Turma, DJe de 20/10/2023)
+- Da Súmula 7/STJ
+Ainda que assim não fosse, a jurisprudência desta Corte é firme no sentido de que "a verificação dos requisitos necessários para a concessão da liminar demanda o reexame de matéria de fato, o que não é cabível no âmbito do recurso especial (Súmula nº 7/STJ)" (AgRg no AREsp n. 345.830/RJ, Terceira Turma, julgado em 26/11/2013, DJe de 29/11/2013).
+Especificamente no que tange à questão da prejudicialidade externa e consequente necessidade de suspensão da ação de imissão na posse enquanto pendente de julgamento a ação que visa à anulação dos atos expropriatórios sobre o imóvel objeto de alienação fiduciária, suscitada no recurso especial, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMISSÃO NA POSSE. ALIENAÇÃO FIDUCIÁRIA. PROPRIEDADE. CONSOLIDAÇÃO. PREJUDICIALIDADE EXTERNA. MATÉRIA DE FATO. SÚMULA Nº 7/STJ. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. SUSPENSÃO. INOCORRÊNCIA. PRECEDENTES.
+1. A ausência de impugnação específica de fundamento do acórdão recorrido atrai a aplicação da Súmula nº 283/STF.
+2. Na hipótese, a verificação da prejudicialidade externa demanda o reexame das circunstâncias fáticas dos autos, o que é defeso na instância especial. Súmula nº 7/STJ.
+3. Esta Corte traçou orientação no sentido de que o art. 265, IV, "a", do Código de Processo Civil/1973 não impõe o sobrestamento da ação de imissão de posse enquanto se discute, em outra demanda, a anulação de ato de transferência do domínio. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 974060/MS, Terceira Turma, DJe de 27/10/2017)
+Logo, por qualquer ângulo que se examine, o recurso especial não ultrapassa a barreira da admissibilidade.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC. Por consequência, fica revogado o efeito suspensivo deferido na origem.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no acórdão recorrido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE IMISSÃO NA POSSE. PEDIDO LIMINAR. DEFERIMENTO PELO JUÍZO DE ORIGEM. SÚMULA 735/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. Ação de imissão na posse.
+2. Nos termos da Súmula 735/STF, aplicada por analogia, não cabe recurso especial contra acórdão que defere medida liminar. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Recurso especial não conhecido.
