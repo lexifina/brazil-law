@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar interposto por JEILSON ALVES DE SOUSA contra o acórdão de n. 2287714-43.2024.8.26.0000 do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o recorrente foi preso temporariamente pela suposta prática do delito previsto no art. 121, § 2º, IV, c/c os arts. 14, II, 18, I (parte final), e 29 do Código Penal, sobrevindo decisão que converteu a custódia em preventiva.
+A defesa sustenta que, de acordo com o art. 4º do Código Penal, considera-se praticado o crime no momento da conduta, independentemente do momento do resultado.
+Afirma que o acusado não poderia ser processado e julgado pela Justiça Comum pois era menor de idade no momento da prática do crime.
+Explica que, de acordo com a denúncia, o delito teria sido praticado no dia 19/05/2024, às 4h12, quando o acusado tinha 17 anos de idade, pois nasceu no dia 19/05/2006, às 20h30.
+Alega não estarem presentes os requisitos necessários para a decretação da prisão preventiva, notadamente por se tratar de réu primário e com bons antecedentes.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória ao recorrente.
+O pedido liminar foi indeferido às fls. 126-127.
+Informações processuais às fls. 132-134.
+O Ministério Público Federal opinou pelo não provimento do recurso às fls. 138-141.
+É o relatório.
+DECIDO.
+De início, para melhor entender a controvérsia, reputo relevante reproduzir excertos da denúncia (fls. 30-33; grifamos):
+ ..  Segundo o apurado, no dia dos fatos, a vítima JOHNNY compareceu até uma Tabacaria junto com sua companheira Maria Jessika, local onde também estavam os denunciados  corréu 1 ,  recorrente  e  corréu 2 .
+Consta que, em dado momento, iniciou-se uma discussão entre a vítima e o denunciado  corréu 2 , por motivos não bem esclarecidos, mas supostamente por conta de uma dívida anterior do denunciado com a vítima ou desentendimento entre as companheiras destes, Maria Jessika e Andressa Felizardo Theodoro, conforme depoimentos de fls. 33 e 164, e que em certo momento  corréu 1  também teria entrado nesta discussão, criando-se grande tumulto no local.
+Em seguida,  corréu 1  deixou o estabelecimento, foi em direção a seu veículo Honda Civic, de cor prata, que estava estacionado do outro lado da rua, adentrou o veículo e fez o retorno em alta velocidade, momento em que, propositadamente, e assumindo o risco de matar a vítima, JOHNNY, a atropelou, enquanto esta estava no meio da via, conforme fls. 12/13.
+Após o atropelamento, a vítima foi abordada por  recorrente  e  corréu 2 , enquanto  corréu 1  novamente retornou com o veículo, desta feita tentando atropelar a mesma por uma segunda vez, conforme fls. 15/16.
+Outrossim, o denunciado  corréu 1 , engatou marcha a ré em seu veículo e, num terceiro momento, lançou novamente seu veículo contra a vítima, conforme fls. 17/18.
+Na sequência, a vítima conseguiu se levantar para se defender das agressões físicas de  recorrente  e  corréu 2 , quando se afastou para o meio da via e novamente acabou atropelada pelo veículo conduzido por  corréu 2 , uma vez mais, conforme imagens de fls. 19/20.
+Todo o momento dos atropelamentos foi registrado por câmeras de segurança, conforme link de fls. 20.
+Após o último evento/atropelamento, a vítima saiu em disparada, tentando fugir de seus algozes, pela Rua João Moya Hernandes, contudo, acabou perseguida por  recorrente  e  corréu 2 , além do veículo conduzido por  corréu 1 , sendo a vítima prensada contra um muro e, após ter desmaiado, os denunciados  recorrente  e  corréu 2  ainda desferiram chutes e socos contra a vítima, inclusive na região da cabeça, conforme fls. 20 e depoimento da testemunha Maria Jessika a fls. 31.
+Após os fatos, os denunciados se evadiram, não sendo mais localizados, sendo decretada a prisão temporária deles, conforme r. decisão de fls. 45/46.
+Em decorrência dos fatos, foi elaborado laudo de exame de corpo de delito e constatado que a vítima sofreu lesões corporais de natureza leve, conforme laudo de fls. 170/171.
+Os denunciados  recorrente  e  corréu 2  concorreram para a prática criminosa, na medida em que agrediram fisicamente a vítima, com socos e chutes, inclusive na região da cabeça, enquanto esta já estava desfalecida.
+O crime foi cometido mediante recurso que dificultou a defesa da vítima, já que o denunciado  corréu 1  atropelou a vítima, por mais de uma vez, momento sem que esta não esperava por tal conduta, sendo colhida de surpresa.
+Os denunciados  recorrente  e  corréu 2  também agiram mediante recurso que dificultou a defesa da vítima, já que desferiram socos e chutes na mesma, enquanto esta já se encontrava desmaiada, não oferecendo resistência.
+O crime somente não se consumou por circunstâncias alheias às suas vontades, em razão do socorro médico havido, bem como em razão da vítima não sofrer traumas importantes, a despeito da série de atropelamentos, e socos e chutes enquanto já estava desfalecida.
+Diante do exposto, denuncio  corréu 1 ,  recorrente , vulgo "Filho do Calango" e  corréu 2 , vulgo "Gordinho" , como incursos nas penas do artigo 121, 2º., IV, c.c. os artigos 29, 18, I (parte final) e 14, II, todos do Código Penal,  .. .
+O Juízo de primeiro grau, ao receber a denúncia, converteu a custódia temporária do recorrente em preventiva, destacando a preservação do recorrente no cárcere era essencial à garantia da ordem pública, haja vista a especial reprovabilidade das condutas praticadas reveladora do potencial alto grau de periculosidade do agente (fl. 36).
+O Tribunal de origem, corroborando a idoneidade do decreto prisional, salientou estar presente na hipótese o periculum libertatis pois
+ n o caso, a gravidade da imputação e as circunstâncias em que praticado o suposto delito ("modus operandi") denotam agressividade e periculosidade social, fazendo-se necessária a prisão cautelar para garantia da ordem pública potencialmente ofendida.
+Tais circunstâncias justificam a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública
+Nesse sentido:
+A jurisprudência desta Corte Superior é firme ao asseverar que, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade concreta da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal) (AgRg no HC 704.584/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/03/2022, DJe 16/03/2022; grifamos).
+Impende consignar, por oportuno, que, conforme orientação jurisprudencial desta Corte, o modo como o crime é cometido, revelando a gravidade em concreto da conduta praticada, constitui elemento capaz de demonstrar o risco social, o que justifica a decretação da prisão preventiva para garantia da ordem pública. (HC 581.811/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 04/08/2020, DJe 10/08/2020; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Por fim, não merece prosperar a tese do recorrente de que a Justiça comum seria incompetente para apreciar a causa - segundo a alegação, a denúncia indica que o delito investigado teria sido praticado às 04h12 do dia 19/05/2024, quando contava com apenas 17 anos de idade, uma vez que teria nascido no dia 19/05/2006, às 20h30 -, pois adequada e suficientemente refutada pela Corte estadual nos seguintes termos (fl. 106; grifamos):
+ ..  De início, vale anotar que a alegação de incompetência do juízo vem fundada em suposta menoridade do paciente ao tempo do fato.
+Isso porque, em tese, praticou a conduta em apuração aos 19/5/2024, às 4h12min, em horário anterior ao de seu nascimento, ocorrido às 20h40min de 19/5/2006.
+No entanto, em matéria penal, os prazos não se dão por hora, de forma que a menoridade cessa no primeiro instante do dia em que o indivíduo completa 18 anos, independentemente do horário de nascimento.
+Sobre o tema:
+CRIMINAL. INIMPUTABILIDADE ETARIA. MENORIDADE. - CONTAGEM DOS ANOS. INCENSURABILIDADE DA ASSERÇÃO RECORRIDA, POSTA EM QUE "CONSIDERA-SE PENALMENTE INIMPUTAVEL O AGENTE QUE PRATICA O CRIME NO DIA EM QUE ESTA COMPLETANDO DEZOITO ANOS DE IDADE, INOBSTANTE TENHA SIDO O ILICITO COMETIDO EM HORARIO ANTERIOR AO DE SEU NASCIMENTO". (ART. 27 DO CP, ART. 2. DA LEI 8069/90, C.C. ART. 228 DA C.F.). (RHC n. 3.358/RJ, relator Ministro José Dantas, Quinta Turma, julgado em 21/2/1994, DJ de 7/3/1994, p. 3669.)
+Também alinhado a esse robusto entendimento está o parecer ministerial, com o qual estou de acordo (fl. 139; grifamos):
+No tocante ao juízo competente, em razão da suposta menoridade penal, sabe-se que em matéria penal, os prazos não se dão por hora, de forma que a menoridade cessa no primeiro instante do dia em que o indivíduo completa 18 anos, independentemente do horário de nascimento. Logo, a argumentação sobre o horário de nascimento é indiferente na seara penal.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+ EMENTA
