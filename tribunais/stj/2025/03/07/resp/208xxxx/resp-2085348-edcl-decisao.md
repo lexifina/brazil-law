@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAURICIO DAL ADNOL à decisão de fls. 655 -659, que negou provimento ao recurso especial.
+Em suas razões, a parte embargante sustenta omissão na decisão embargada em relação ao fato de que a natureza de bem de família do imóvel penhorado já havia sido reconhecida pelas instâncias ordinárias, não sendo caso, pois, de incidência da Súmula n. 7 do STJ.
+Defende que, "existindo outros imóveis, são eles que deverão ser penhorados, anulando-se a penhora do bem de família já citado" (fl. 665).
+Não foi apresentada impugnação aos embargos, conforme a certidão de fl. 672.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não ocorreu na espécie.
+No caso, o Tribunal de origem assim decidiu (fl. 499):
+Também, descabida a proteção do bem de família ao imóvel de matrícula nº 88.879 do Registro de Imóveis de Passo Fundo, penhorado nos autos.
+Isso porque o art. 1º da Lei 8.009/90, considera bem de família, "um único imóvel utilizado pelo casal ou pela entidade familiar para moradia permanente", nos termos do art. 5º do referido diploma legal.
+Esse não é o caso dos autos, em que está demonstrada a propriedade de outros imóveis pelo agravante (evento 20 dos autos de origem), o qual sequer se desincumbiu satisfatoriamente do ônus de demonstrar que este bem seja utilizado para a residência permanente dele e de sua família.
+No julgamento dos embargos de declaração, assim se manifestou (fls. 540-541):
+No que tange à proteção do bem de família, cabe atentar ser irrelevante a alegação do embargante a respeito da suposta incontrovérsia entre as partes quanto ao fato de o imóvel ser utilizado como residência dele e que a referência em sentido contrário no acordão violaria o princípio da congruência.
+Nesse ponto, corrijo o erro material diante da ausência de impugnação especifica do embargado a respeito do tema, retirando do voto o trecho "o qual sequer se desincumbiu satisfatoriamente do ônus de demonstrar que este bem seja utilizado para a residência permanente dele e de sua família" (evento 17, RELVOTO1), utilizado apenas como reforço argumentativo.
+Todavia, isso em nada altera a conclusão do julgado, pois a possibilidade de penhora do bem está fundada no fato de não se tratar do único imóvel dele, já que "está demonstrada a propriedade de outros imóveis pelo agravante (evento 20 dos autos de origem)", como já referido na decisão embargada.
+No tocante à violação do art. 1º da Lei n. 8.009/1990, considerando os trechos do acórdão ora transcritos, o Tribunal local, instância soberana na análise das provas, concluiu que o embargante não se desincumbira do ônus de demonstrar que o imóvel penhorado era a residência da família; assim, não comprovara a impenhorabilidade do bem.
+Desse modo, para adotar conclusões diversas das que foram assentadas no acórdão de origem e reconhecer que foi comprovado que o imóvel penhorado é a residência da família, seria imprescindível o reexame de matéria fático-probatória dos autos, medida inviável em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+A corroborar tal entendimento, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORABILIDADE. IMÓVEL NÃO CONSIDERADO BEM DE FAMÍLIA. PROVA INSUFICIENTE. REVISÃO DESSE ENTENDIMENTO. IMPOSSIBILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O acórdão recorrido consignou: "Dispõe o art. 1º da Lei nº 8.009/90, acerca da impenhorabilidade do bem de família.  ..
+Assim, em sendo objeto de constrição judicial, a demonstração de que o imóvel se destina à residência da família é ônus que cabe ao embargante.  ..  A jurisprudência do Egrégio Superior Tribunal de Justiça já firmou entendimento no sentido da desnecessidade de se comprovar que o referido bem é o único imóvel de sua propriedade, sem prejuízo, contudo, de que a penhora recaia sobre outros bens do executado que não a sua residência.  ..  No caso dos autos, contudo, o embargante não se desincumbiu do ônus de demonstrar que o imóvel penhorado seja a residência da família. Com efeito, embora regularmente instada a promover a substituição dos documentos de fl. 106 e 107 por outros legíveis, não se manifestou no prazo legal.
+Ademais, ainda que assim não fosse, referida documentação que acompanhou a inicial, por si só, não é suficiente para caracterizar a impenhorabilidade prevista no artigo 1º da Lei nº 8.009/90. Do exposto, nego provimento ao agravo de instrumento". (fls. 185-187, e- STJ, grifos acrescidos)
+2. O Tribunal de origem, conforme acima transcrito, soberano na análise do conjunto fático-probatório constante dos autos, concluiu ter sido a prova insuficiente. Sendo assim, não se comprovou que o imóvel objeto da lide seria bem de família e, portanto, impenhorável nos termos do art. 1º da Lei 8.009/90.
+3. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, em razão da incidência do enunciado da Súmula 7 do STJ.
+4. Para modificar o entendimento firmado no acórdão recorrido, verificando se foi ou não provado que o imóvel penhorado é gravado como bem de família, é preciso exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme a Súmula 7/STJ.
+5. Agravo Interno não provido. (AgInt no AR Esp n. 1.885.600/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/12/2021, DJe de 1º/2/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. TESE DE IMPENHORABILIDADE DO BEM AFASTADA PELO COLEGIADO ESTADUAL. AUSÊNCIA DE RESIDÊNCIA NO IMÓVEL E DE DEPENDÊNCIA DA RENDA OBTIDA COM O BEM PARA SUA SUBSISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. AGRAVO INTERNO DESPROVIDO.
+1. O colegiado estadual concluiu que o imóvel objeto da constrição não é utilizado para a residência da entidade familiar do devedor, tampouco gera renda para sua subsistência, o que afastaria a sua pretendida impenhorabilidade. Para derruir a convicção formada, seria necessário o reexame de fatos e provas, procedimento obstado na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+2. Agravo interno a que se nega provimento. (AgInt no AR Esp n. 2.140.311/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/11/2022, D Je de 18/11/2022.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se
+EMENTA
