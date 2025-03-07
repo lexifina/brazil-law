@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial, interposto por MARIA JOSE ROCHA MOTA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fls. 291/292):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. CONTRIBUINTE INDIVIDUAL E FACULTATIVO. CONTRIBUIÇÕES A DESTEMPO. AUSÊNCIA DE CARÊNCIA. CONCESSÃO DO BENEFÍCIO. IMPOSSIBILIDADE. RECURSO DO INSS PARCIALMENTE PROVIDO. RECURSO DA PARTE PREJUDICADO.
+1. Apelações interpostas pelo INSS e pela parte autora contra sentença do juízo de origem que julgou procedente o pedido inicial para reconhecer o direito à aposentadoria por idade à demandante desde a data do segundo requerimento administrativo, em 21/06/2022 (NB 2061611936), bem como o pagamento das parcelas atrasadas desde a referida data, de acordo com as regras de transição (EC 103/2019), com a aplicação de juros de mora e correção monetária, de acordo com o Manual de Orientação de Procedimentos para Cálculo na Justiça Federal, Resolução 267/2013 do CJF.
+2. Trata-se de pedido de concessão de aposentadoria por idade mediante a comprovação do recolhimento de contribuições na qualidade de contribuinte individual e segurado facultativo.
+3. Na data do primeiro requerimento administrativo, 28/12/2018, a parte autora contava apenas com o tempo de contribuição de 14 anos, 9 meses e 28 dias, com a carência de 177 contribuições e com 63 anos e 18 dias de idade, não tendo completado os requisitos necessários à concessão do benefício requestado. Na data do segundo requerimento administrativo, realizado em 31/10/2022, a segurada contava com 15 anos de contribuição, 67 anos de vida, mas apenas 178 contribuições mensais. Nos termos da lei, o tempo de contribuição é o período total que o contribuinte passou recolhendo para o INSS, enquanto a carência é o período que o beneficiário precisa ter contribuído efetivamente para ter acesso aos benefícios.
+4. A competência de 08/2018, que foi recolhida em atraso no dia 05/06/2020 e após a perda da qualidade de segurado em 16/08/2019 (fim do período de graça de 6 meses contado da competência anterior válida para carência de 12/2018) e a competência de 01/2019, também foi recolhida em atraso no dia 26/06/2020, após a perda da qualidade de segurado em 16/08/2019 (fim do período de graça de 6 meses contado da competência anterior válida para carência de 12/2018). Não deve ser contabilizadas para a carência.
+5. A parte autora não tem o direito à concessão do benefício de aposentadoria por idade, uma vez que não cumpre a carência mínima de 180 contribuições (faltavam 2 carências).
+6. O INSS alega que as competências de 02/2014 a 09/2018 foram recolhidas com alíquotas reduzidas (segurado facultativo - 11%) e não devem ser contabilizadas para fins de concessão do benefício pleiteado. Entretanto, segundo o artigo 21 da Lei nº 8.213/91, a alíquota reduzida para segurado facultativo é possível e só não dá direito à concessão do benefício de aposentadoria por tempo de contribuição.
+7. Sugere a autarquia federal que algumas contribuições feitas no período entre 2004 e 2011 foram recolhidos a destempo. Ocorre que essas competências são válidas para fins de carência, uma vez que o recolhimento tempestivo foi presumido (responsabilidade do tomador de serviço), nos termos do artigo 98 da Portaria Dirben nº 991/2022.
+8. Irresignação da parte autora quanto à reafirmação da DER prejudicada.
+9. Apelação do INSS parcialmente provida para julgar improcedente a demanda. Apelação do particular prejudicada.
+10. Inversão do ônus da sucumbência. Condenação da parte autora ao pagamento dos honorários de sucumbência fixados em 10% (dez por cento) sobre o valor da causa, suspensos em razão da gratuidade judiciária.
+Os embargos de declaração opostos foram rejeitados nestes termos (fl. 351):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. APOSENTADORIA. DOCUMENTOS COMPROBATÓRIOS. AUSÊNCIA. OMISSÃO/ERRO MATERIAL. NÃO OCORRÊNCIA. EMBARGOS CONHECIDOS E IMPROVIDOS.
+1. Embargos de declaração opostos pelo particular em face do acórdão prolatado nestes autos, em que esta eg. Terceira Turma deu parcial provimento à apelação do INSS para julgar improcedente a demanda em razão da ausência de período de carência necessário à concessão do benefício pleiteado.
+2. A parte autora sustenta que o acórdão combatido é omisso em relação a não contabilização da competência do mês de 09/2004. Alega, também, a ocorrência de erro material no que diz respeito à existência de mais de 120 contribuições mensais como contribuinte individual, posto que em 31/01/2004 já possuía mais de 120 contribuições sem que perdesse a qualidade de segurado nesse período.
+3. Alega o embargante que não houve a contabilização da competência do mês de 09/2004 para fins de carência. Ocorre que esse fato não restou comprovado nos autos. A parte autora apresentou um suposto guia de recolhimento como sendo seu, mas que não consta nem o NIT e nem o nome do contribuinte, de forma que não se pode delimitar a quem se refere. De igual forma, também não há comprovação nos autos de que antes de 31/01/2004 já havia mais de 120 (cento e vinte) contribuições, consoante alega em suas razões de embargos.
+4. Na verdade, com a alegação de que houve omissão, pretende a Embargante, simplesmente, que esta Turma proceda à reapreciação da matéria. Entretanto, não há, no presente caso, possibilidade de que se entenda de outra forma que não a adotada na decisão embargada.
+5. Embargos de declaração conhecidos e improvidos.
+Em suas razões recursais, a parte recorrente aponta, além do dissídio jurisprudencial, ofensa ao art. 15, § 1º, da Lei 8.213/1991 e ao art. 98 da Portaria DIRBEN 991/2022, ao fundamento de que faz jus à percepção da aposentadoria por idade, visto que (fls. 378/379)
+ ..
+a legislação citada é clara quando dispõe sobre o direito adquirido à extensão do período de graça em decorrência do recolhimento de 120 contribuições mensais de forma ininterrupta.
+Conforme observa-se do Acórdão em comento, a competência 09.2004 de que fora devidamente paga na condição de Contribuinte Individual da Empresa Bethel Refeições LTDA-ME, vide comprovação no ID: 4058500.7049154 (fls. 03 e 04), deveria ter sido considerada válida para fins de carência, uma vez que o recolhimento tempestivo foi presumido (responsabilidade do tomador de serviço), vide art. 98 da Portaria Dirben nº 991/2022.
+Além disso as competências de 08.2018 e 01.2019 deveriam ter sido consideradas para fins de carência tendo em vista que a Autora possuía o direito adquirido à extensão do período de graça em decorrência do recolhimento de 120 contribuições mensais de forma ininterrupta.
+Registre-se que, apenas com o reconhecimento do período das competências 08.2018 e 01.2019 que deveriam ter sido consideradas para fins de carência, a autora contabiliza com mais de 15 anos de tempo de contribuição, logo, período mais que suficiente para a concessão da sua aposentadoria por idade.
+ ..
+O r. Acordão fere gravemente os direitos da Recorrente e traz consequências jurídicas, haja vista que seu benefício ora concedido anteriormente, já foi CESSADO pela Autarquia Previdenciária, tendo como último pagamento recebido em 01.06.2024 e a Autora já não tem mais seu benefício mensalmente que possui natureza alimentar e é sua única fonte de sobrevivência.
+Assim, restou amplamente demonstrada a necessidade de reforma do r. Acórdão para que seja reconhecida a violação à Lei Federal nº 8.213/91, previsto no § 1º, do art. 15, que dispõe sobre o direito à prorrogação do período de graça uma vez recolheu mais de 120 contribuições sem interrupção, vide entendimento sedimentado também através do tema 255 da TNU, além da legislação citada ser clara quando dispõe sobre o direito adquirido à extensão do período de graça em decorrência do recolhimento de 120 contribuições mensais de forma ininterrupta, de modo que requer que seja afastada a conclusão diversa da literalmente exposta na Lei supra.
+Dessa forma, o reconhecimento supra, levará Vossas Excelências à conclusão de que foram preenchidos todos os requisitos desde 31.08.2021, tendo em vista que, desde a referida data, a mesma já teria preenchido os requisitos necessários para concessão do benefício previdenciário.
+Não foram apresentadas contrarrazões (fl. 388).
+O recurso foi admitido na origem (fls. 390/392).
+É o relatório.
+De início, em relação à alegada ofensa ao art. 98 da Portaria DIRBEN 991/2022, registro que, consoante pacífica jurisprudência desta Corte Superior, o conceito de tratado ou lei federal, inserto no art. 105, inciso III, alínea a, da Constituição Federal, deve ser considerado em seu sentido estrito, sendo inadmissível o recurso especial que aponte como violado aquele ato normativo.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. FILHA DE MILITAR. REINCLUSÃO EM FUNDO DE SAÚDE DA AERONÁUTICA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL A QUO. NECESSIDADE DE INTERPRETAÇÃO DE NORMAS INFRALEGAIS. IMPOSSIBILIDADE. PRECEDENTES.
+ ..
+III - Conforme entende a jurisprudência do Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas, atos administrativos normativos e instruções normativas.
+ ..
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.865.474/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/2/2021, DJe de 12/2/2021, sem destaques no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INSTRUÇÃO NORMATIVA. ANÁLISE. INVIABILIDADE. IMPOSTO DE RENDA RETIDO NA FONTE (IRRF). NEGOCIAÇÃO DE ORTN"S ANTES DO VENCIMENTO. DISCIPLINA DE INCIDÊNCIA. INAPLICABILIDADE.
+ ..
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+ ..
+6. Recurso especial conhecido em parte e, nessa extensão, provido, a fim de restabelecer os efeitos da sentença.
+(REsp n. 1.404.038/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/6/2020, DJe de 29/6/2020, sem destaques no original.)
+Quanto à questão de fundo, destaco que, para o Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. É o caso dos autos.
+No caso em questão, o Tribunal de origem decidiu que "não há comprovação nos autos de que antes de 31/01/2004 já havia mais de 120 (cento e vinte) contribuições, consoante alega em suas razões de embargos" (fl. 350), contudo as razões recursais encontram-se dissociadas de tais fundamentos, limitando-se a parte recorrente a sustentar que "possuía o direito adquirido à extensão do período de graça em decorrência do recolhimento de 120 contribuições mensais de forma ininterrupta" (fl. 378).
+Por essa razão, incide no presente caso, por analogia, o enunciado 284 da Súmula do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito, confiram-se os seguintes julgados desta Corte Superior:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento.
+(AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021, sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020, sem destaques no original.)
+Por fim, em relação ao dissídio jurisprudencial, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
