@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BANCO SANTANDER (BRASIL) S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. SENTENÇA TERMINATIVA. DETERMINAÇÃO DE EMENDA Â INICIAL. DESCUMPRIMENTO. CORRETO PROCEDIMENTO ADOTADO PELO JUÍZO SENTENCIANTE. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. APELO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 5º, 6º, 7º, 8º, 9º e 10 do CPC, no que concerne à validade da emenda à inicial para acostar os documentos pertinentes aos autos, com o reconhecimento de que "a emenda foi devidamente realizada, alcançando a finalidade pretendida e não causando prejuízo ao processo" (fl. 211) , trazendo a seguinte argumentação:
+Excelências, a Ação de Busca e Apreensão teve sua inicial indeferida, sendo julgada extinta sem resolução do mérito, contudo, houve violação frontal aos artigos 5º, 6º, 7º 8º, 9º e 10, todos do Código de Processo Civil, uma vez que o RECORRENTE cumpriu a determinação e sanou o vício inicialmente contido, emendando a inicial com os documentos pertinentes.
+ ..
+Como se sabe, sob o prisma dos princípios da proporcionalidade, cooperação, economia processual e razoabilidade, o cumprimento da determinação da emenda a inicial atende aos fins necessários para recebimento da inicial, não cabendo a manutenção da sentença.
+Nesse sentido, certamente houve violação dos artigos norteadores ao sistema processual atual, uma vez que fere diretamente a boa-fé e a cooperação dos sujeitos do processo (artigos 5º e 6º do CPC).
+ ..
+Aliás, Eméritos Ministros, a manutenção da decisão recorrida apenas corroborará com o inadimplemento dos devedores, mostrando afronta ao artigo 7º do CPC, que trata acerca da paridade de tratamento (fl. 212).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento dos artigos de lei federal apontados como violados, porquanto não ocorreu o devido e necessário debate a respeito destes dispositivos no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual é "inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração" (AgInt no REsp n. 1.858.639/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31.8.2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.883.703/ES, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 1º.9.2022; REsp n. 1.666.862/CE, Rel. Ministro Francisco Falcão, Rel. para acórdão Ministro Og Fernandes, Segunda Turma, DJe de 8.9.2022; AgRg no AREsp n. 2.089.384/RN, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22.8.2022; AgInt no AREsp n. 2.101.047/MA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.8.2022; AgInt no AREsp n. 2.033.678/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.8.2022; AgInt no AREsp n. 1.812.402/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17.6.2022; AgInt no AREsp n. 743.795/RN, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 28.4.2022.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Na hipótese vertente, o magistrado sentenciante agiu com a máxima prudência, concedendo o prazo de 15 (quinze) dias para a emenda à inicial, consoante se infere do ato judicial acostado ao autos (Id. nº 13106933), que requereu nos seguintes termos: "a) juntar documento que comprove a mora do promovido, na forma do art. 2º, § 2.º, do DL n. 911/69; b) indicar o local de destino do bem a ser apreendido e o nome do depositário, com sua qualificação e respectivo telefone; c) retificar o valor da causa, passando a constar a somo dos valores das parcelas vencidas e vincendas, juntando planilha de cálculo".
+No entanto, o promovente/recorrente não juntou nenhuma documentação, sequer apresentou as informações requisitadas, tampouco retificou o valor da causa, ou seja, o prazo legal decorreu sem manifestação da Instituição Financeira.
+ ..
+Nesse diapasão, não tendo a parte autora cumprido a determinação de emenda da inicial, correta se revela a sentença terminativa fundamentada no artigo 485, I, c/c 321, parágrafo único, do CPC (fls. 171-173).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
