@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão de fls. 1.063/1.066e, que não conheceu do recurso especial.
+Sustenta a parte embargante haver erro material na decisão embargada, pois "o processo em mesa remonta a uma Ação Civil Pública ajuizada pelo MPF-SE, a qual, em regra, não sujeita as partes ao pagamento de custas, emolumentos e honorários advocatícios, por força do art. 18, da Lei n. 7.347/1985, exceto caso comprovada má-fé, o que não é o caso dos autos. Desta maneira, sem mais delongas, entendendo presente um erro material na Decisão proferida em 03/02/25, roga a Recorrente/Embargante pelo conhecimento e provimento dos presentes Aclaratórios, sanando-se o vício apontado, para fins de destacar, no comando judicial, o descabimento de condenação em honorários advocatícios, na forma da Lei" (fls. 1.070/1.071e).
+Com impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Do exame dos autos, verifica-se que a sentença, mantida pelo Tribunal de origem, dispôs, expressamente, quanto aos honorários advocatícios: "Sem custas processuais e nem honorários advocatícios, na forma do art. 18, da Lei n. 7.347/1985" (fl. 678e).
+De seu lado, a decisão embargada registrou, quanto aos honorários advocatícios, que, "caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015)" (fl. 1.066e).
+Diante desse quadro, não houve efetiva condenação ao pagamento de honorários advocatícios.
+Contudo, considerando que o Ministério Público Federal, a fls. 1.075/1.078e, manifesta-se pelo acolhimento dos embargos de declaração, e, também, para evitar tumulto processual, acolho os embargos de declaração, para excluir, da decisão embargada, o seguinte trecho: "Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015)" (fl. 1.066e).
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
