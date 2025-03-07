@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por BELCAR CAMINHOES E MAQUINAS LTDA, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 503, e-STJ):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. INCLUSÃO DO EXECUTADO NA CENTRAL NACIONAL DE INDISPONIBILIDADE DE BENS. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA 77 DO TJGO.
+1. A Central Nacional de Indisponibilidade de Bens - CNIB, regulada pelo Provimento nº 39/2014, do Conselho Nacional de Justiça, objetiva dar eficácia, efetividade às decisões judiciais e administrativas de indisponibilidades de bens, divulgando-as para os Tabeliães de Notas e Oficiais de Registro de Imóveis de todo o território nacional e para outros usuários do sistema, bem como proporcionar segurança aos negócios imobiliários de compra e venda e de financiamento de imóveis e de outros bens.
+2. Verificado que o CNIB não se trata de um banco de dados para localização de bens de devedores, nos termos da Súmula 77 do TJGO, a manutenção da decisão unipessoal agravada é medida impositiva.
+3. Impõe-se o desprovimento do agravo interno que não traz em suas razões qualquer novo argumento que justifique a modificação da decisão agravada.
+4. AGRAVO INTERNO CONHECIDO, PORÉM DESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 525-535, e-STJ).
+Nas razões do recurso especial (fls. 538-547, e-STJ), a parte insurgente apontou violação aos seguintes artigos: a) 1022, II, do CPC, ao argumento da existência de omissão acerca do esgotamento dos atos constritivos típicos, para fins de utilização da CNIB (Central Nacional de Indisponibilidades) como ato constritivo atípico; b) 139, IV, do CPC, alegando a necessidade de utilização do CNIB como medida constritiva atípica, após o esgotamento dos meios típicos.
+Não houve contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 559-561, e-STJ), dando ensejo na interposição do presente agravo (fls. 564-568, e-STJ), visando destrancar aquela insurgência.
+Não houve contraminuta.
+É o relatório.
+Decido.
+A irresignação, em parte, merece prosperar.
+1. De início, a parte insurgente alega violação ao artigo 1022, II, do CPC, ao argumento da existência de omissão acerca do esgotamento dos atos constritivos típicos, para fins de utilização da CNIB (Central Nacional de Indisponibilidades) como ato constritivo atípico.
+Acerca da utilização do CNIB como medida constritiva, o Tribunal local assim decidiu (fl. 499, e-STJ):
+Ressai dos autos que a decisão recorrida indeferiu a pesquisa via sistema CNIB, visto que o sistema não tem como finalidade a pesquisa e a existência de bens em nome da parte devedora (Conforme Súmula Nº 77 do TJGO).
+Neste linear, conforme explicitado na decisão recorrida, sabe-se que o Conselho Nacional de Justiça (CNJ), por meio do Provimento 39/2014, instituiu e regulamentou o funcionamento da Central Nacional de Indisponibilidade de Bens (CNIB), com vistas a recepcionar comunicações de inalienabilidade de bens imóveis não individualizados, cujas ordens devem observar as hipóteses expressamente previstas em lei.
+Acrescente-se, por oportuno, que os principais objetivos da CNIB são dar eficácia, efetividade às decisões judiciais e administrativas de indisponibilidades de bens, divulgando-as para os Tabeliães de Notas e Oficiais de Registro de Imóveis de todo o território nacional e para outros usuários do sistema. E, ainda, proporcionar segurança aos negócios imobiliários de compra e venda e de financiamento de imóveis e de outros bens, portanto, não se trata de banco de dados para localização de bens.
+Em suma, conforme disposição expressa da Súmula 77 deste egrégio Tribunal de Justiça, "A decretação de indisponibilidade de bens, por meio da Central Nacional de Indisponibilidade de Bens - CNIB, destina-se a dar efetividade às referidas medidas previstas em leis específicas, não se prestando à pesquisa de existência de bens do devedor em execução forçada."
+Não se vislumbra a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbra omissão, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação ao artigo 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em seguida, alega vulneração ao artigo 139, IV, do CPC, alegando a necessidade de utilização do CNIB como medida constritiva atípica, após o esgotamento dos meios típicos.
+Sustenta "a recorrente que a utilização da CNIB se afigura como medida constritiva incomum e que deve ser admitida após esgotados aqueles usualmente utilizados, de acordo com o entendimento deste Tribunal Superior" (fl. 543, e-STJ).
+Sobre o tema, a Corte de origem consignou que conforme disposição expressa da Súmula 77 do egrégio Tribunal de Justiça do Estado de Goiás, "A decretação de indisponibilidade de bens, por meio da Central Nacional de Indisponibilidade de Bens - CNIB, destina-se a dar efetividade às referidas medidas previstas em leis específicas, não se prestando à pesquisa de existência de bens do devedor em execução forçada." (fl. 499, e-STJ).
+Na hipótese, a conclusão adotada pela Corte de origem está dissonante do entendimento deste Tribunal Superior, que entende pela possibilidade de utilização da Central Nacional de Indisponibilidade de Bens (CNIB) nas demandas cíveis, de maneira subsidiária, isto é, desde que exauridos os meios executivos típicos.
+Nesse sentido, o seguinte julgado:
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INDISPONIBILIDADE DOS BENS. CNIB. POSSIBILIDADE. MEDIDA ATÍPICA. SUBSIDIARIEDADE. MANUTENÇÃO DO ACÓRDÃO RECORRIDO.
+1. Execução de título extrajudicial, da qual foi extraído o presente recurso especial, interposto em 29/1º/2023 e concluso ao gabinete em 3/5/2024.
+2. O propósito recursal consiste em decidir se é cabível a utilização da Central Nacional de Indisponibilidade de Bens (CNIB) em execução de título extrajudicial ajuizada por particular.
+3. O art. 185-A do Código Tributário Nacional estabelece que "na hipótese de o devedor tributário, devidamente citado, não pagar nem apresentar bens à penhora no prazo legal e não forem encontrados bens penhoráveis, o juiz determinará a indisponibilidade de seus bens e direitos".
+4. Com fundamento nos art. 185-A do CTN e art. 30, III, da Lei 8.935/94, o Conselho Nacional de Justiça instituiu a Central Nacional de Indisponibilidade de Bens (CNIB) com a finalidade de receber e divulgar, aos usuários do sistema, as ordens de indisponibilidade que atinjam patrimônio imobiliário indistinto (Provimento 39/2014).
+5. A partir da declaração de constitucionalidade do art. 139, IV, do CPC pelo Supremo Tribunal Federal (ADI 5.941/DF, DJe 9/2/2023), bem como com amparo no princípio da efetividade da jurisdição (arts. 4º e 6º do CPC), as Turmas que compõem a Segunda Seção desta Corte têm decidido pela possibilidade de utilização da Central Nacional de Indisponibilidade de Bens (CNIB) nas demandas cíveis, de maneira subsidiária, isto é, desde que exauridos os meios executivos típicos, nos termos do REsp n. 1.963.178/SP, Terceira Turma, DJe de 14/12/2023 e REsp n. 1.969.105/MG, Quarta Turma, DJe 19/9/2023.
+6. No particular, deve ser mantido o acórdão estadual que, após o retorno negativo das diligências realizadas por meio dos Sistemas SisbaJud e RenaJud, determinou a indisponibilidade dos bens dos recorrentes via CNIB.
+7. Recurso especial conhecido e desprovido.
+(REsp n. 2.141.068/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/6/2024, DJe de 21/6/2024.)
+No entanto, considerando que a análise da pertinência das medidas constritivas atípicas demandaria a reavaliação dos fatos e provas dos autos, o que não é permitido nesta Corte, mostra-se imperioso o retorno dos autos à instância inferior para que decida novamente o feito, nos termos do entendimento desta Corte.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para determinar o retorno dos autos ao Tribunal de origem para que analise a pertinência da utilização da CNIB de forma subsidiária, desde que esgotados os meios executivos típicos.
+Publique-se.
+Intimem-se.
+EMENTA
