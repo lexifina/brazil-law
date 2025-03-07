@@ -1,0 +1,42 @@
+DECISÃO
+JULIO CESAR FERREIRA DOS SANTOS agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500281-51.2023.8.26.0558.
+O agravante foi condenado, pelos crimes previstos nos arts. 12, 14 e 16 da Lei n. 10.826/2003, à sanção total de 3 anos e 6 meses de reclusão mais 21 dias-multa e 1 ano de detenção mais 10 dias-multa, em regime inicial semiaberto.
+Nas razões do recurso especial, a defesa apontou violação dos arts. 172 do Código Penal, 2º, I e II, da Lei n. 9.296/1996, 12, 14 e 16 da Lei n. 10.826/2003. Sustentou ilegalidade na interceptação telefônica, a absolvição por atipicidade da conduta e, alternativamente, a aplicação do princípio da consunção.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 2.387-2.392, pelo não conhecimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou, quanto aos pontos impugnados pelo agravante (fls. 2.246-2.259):
+ ..  Ademais, tampouco se vislumbra a nulidade da interceptação telefônica que deu ensejo à ordem de busca e apreensão da qual resultou a localização dos diversos materiais ilícitos ora em questão, pois, conforme se observa no processo nº 1002646-55.2023.8.26.0132, houve autorização devidamente fundamentada em indícios de envolvimento dos investigados em delitos de posse e comércio de armas de fogo, organização e associação criminosa e contra o meio ambiente (prática de caça ilegal), no Município da Estância de Ibirá e outros da região (fls. 226/230, 259/261 379/380, 818/819, 829/830 e 837/856 daqueles autos).
+ ..
+É da denúncia que, após duas quinzenas de monitoramento telefônico dos principais alvos do Procedimento Investigatório Criminal n. 94.0565.0000002-2023-6 (dentre eles, os ora réus), com o objetivo de apuração de organização criminosa/associação criminosa voltada à prática de crimes contra o meio ambiente (caça predatória), compra e venda de armas de fogo irregulares e adulterações de armamentos, de forma reiterada e clandestina, na região de São José do Rio Preto-SP ("Operação Arapuca"), foi dado cumprimento a mandados de busca e apreensão e de prisão temporária expedidos nos autos nº 100264655.2023.8.26.0132.
+Durante as buscas, os policiais localizaram, dentro de um saco, armazenado na serralheira, uma espingarda, tipo "chumbeira", desmontada, e, dentro de uma caixa som, 9 (nove) munições intactas calibre .38.
+Tomando ciência de que o imóvel contíguo à serralheria é de propriedade da genitora do acusado JÚLIO (Sra. Alzira Bordin Ferreira dos Santos) e de que se trata de um terreno com três edículas construídas e destinadas à locação (imóvel de número 746, na mesma rua), estando uma, porém, vazia, os policiais decidiram vasculhá-lo, com o consentimento do locatário da primeira edícula do terreno (Sr. Ednilson Pedro) e da própria Alzira.
+Durante a busca no interior do imóvel desabitado, foram localizadas 2 (duas) espingardas e 2 (duas) carabinas - uma das carabinas estava modificada -, além várias munições de diversos calibres, um silenciador e material de recarga, como pólvora, espoletas e esferas de chumbos, prontos para confecção de munições. Também localizaram um supressor de ruído ("silenciador"), acessório de uso restrito na forma da determinação regulamentar (art. 15, §2º, II, "a" do Decreto nº 10.030, de 30 de setembro de 2019).
+Consta da denúncia também que, indagado, o acusado JÚLIO informou que a espingarda tipo "chumbeira" e as 9 (nove) munições intactas calibre .38 que estavam escondidas dentro de sua oficina seriam de um falecido tio de sua companheira (versão corroborada por Ângela), nada dizendo, todavia, sobre eventual autorização para sua posse.
+ ..
+Como visto, depreende-se da prova dos autos ser incontroverso que todo o material bélico foi encontrado no local de trabalho de Júlio César e em cômodo contíguo pertencente a pessoa de sua família, e que Ewerton confessa ser o proprietário dos objetos apreendidos, com exceção da luneta, que Júlio César afirma ser sua.
+Júlio César, todavia, nega que tivesse conhecimento de que os armamentos, acessórios e munições estavam nos locais a que tinha acesso cotidianamente.
+Ewerton, em seu interrogatório judicial, apresentou afirmação contraditória, dizendo que Júlio teria expressamente autorizado que guardasse no local "seu material para caça", mas que esse não teria conhecimento exatamente do que seria.
+Ora, quais então seriam os materiais para caça de animais, que não armamentos, munições e acessórios localizados para seu abate: Não foram sequer mencionados.
+Aliás, os diálogos extraídos das interceptações telefônicas deixam claro que Júlio não só tinha exato conhecimento do material que guardava, como eventualmente saía em socorro de Ewerton para auxiliá-lo nas caçadas, e mesmo, após transações realizadas por Ewerton, vê-se ainda que esse direcionava o endereço de Júlio para entrega das armas:
+ ..
+E como bem salientado em sentença, a corroborar o conhecimento de Júlio acerca da presença dos armamentos, temos que Júlio declarou em seu interrogatório judicial que a luneta "era de uma espingardinha de chumbo que a molecada pegava para brincar" e que, posteriormente, ele a guardou no saco, onde estava acondicionada a espingarda apreendida, não sendo verossímil que tenha guardado a luneta sem ver a arma de fogo que já estava naquele saco.
+E, por fim, quanto às munições encontradas na caixa de som, Júlio também afirmou que a usava em churrascos, não se podendo supor que a tenha manipulado sem notar as diversas munições em seus interior.
+Inviável, dessa feita, admitir a sua ignorância e ausência de dolo, como pretende a defesa.
+Por tais razões, deve ser mantida a condenação de ambos pelos crimes narrados na exordial.
+Acerca a carabina calibre 22 considerada ineficaz, tal conclusão não descaracteriza o crime tipificado no art. 14 da Lei 10.826/2003, imputado a ambos os réus, diante da eficácia das demais armas de fogo e munições, conforme atestado pelos laudos periciais produzidos em juízo (fls. 172/178, 241/244 e 245/249).
+Deve ainda remanescer a condenação de Júlio nos moldes da denúncia, visto que responde pelo material encontrado em seu local de trabalho (art. 12 da Lei 10.826/2003) e também pelas demais armas de fogo, munições e acessórios localizados na casa contígua (desabitada e pertencente à mãe dele) (art. 14), para além do porte de acessório de uso restrito (art. 16).
+No mais, é assente na jurisprudência a ausência de consunção ou crime único entre os tipos previstos nos artigos 14 e 16, em virtude da autonomia entre os delitos e da diversidade da tutela jurídica, dado que a figura do artigo 16 protege, para além da paz e segurança públicas, a seriedade dos cadastros do Sistema Nacional de Armas.
+No tocante à alegada nulidade da decisão que autorizou a interceptação telefônica, é inviável a avaliação quanto à ausência ou à insuficiência dos indícios de prática delitiva, por parte do acusado, para justificar a medida, em vista da necessidade de incursão probatória, procedimento vedado, em recurso especial, conforme o disposto na Súmula n. 7 do STJ.
+Na mesma linha, é inadmissível a análise de pretendida absolvição por atipicidade da conduta, em vista do já citado óbice da Súmula n. 7 do STJ, uma vez que envolveria redefinir circunstâncias da posse e o local de apreensão das armas (dependência de terceiro).
+Além disso, sobre a imprestabilidade de um dos artefatos em produzir disparos, não seria motivo suficiente para afastar a condenação, uma vez que houve a apreensão das munições.
+Por fim, também é incabível a absorção entre crimes distintos do estatuto do desarmamento, haja vista a compreensão de se tratarem de bens jurídicos distintos a serem tutelados. Logo, o recurso é inadmissível pela incidência do óbice previsto na Súmula n. 83 do STJ. Confira-se:
+ ..
+3. A jurisprudência do STJ entende ser incabível aplicar o princípio da consunção entre os crimes dos arts. 12, 14 e 16 da Lei n. 10.826/2003, por tutelarem bens jurídicos distintos, sobretudo quando praticados em contextos diversos. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 777.162/RJ, relator Ministro Rogerio Schietti, 6ª T., DJe 30/8/2023.)
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
