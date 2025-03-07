@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de GILDAZIO LEANDRO DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2389012-78.2024.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado pelo Tribunal do Júri à pena de 16 anos e 1 mês de reclusão em regime inicial fechado, como incurso no art. 121, § 2º, I e VI, c/c art. 14, II, e no art. 121, caput, todos do Código Penal, em concurso formal impróprio, nos moldes do art. 70 do CP (e-STJ, fls. 6-7).
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão de fls. 23-28 (e-STJ), assim ementado:
+""Habeas Corpus" Homicídios qualificados, um consumado e outro tentado Paciente condenado pelo Tribunal do Júri Ilegalidade aventada por não poder a regra do art. 492, I, "e", CPP, retroagir em seu prejuízo Não acolhimento O STF já assentou, em sede de repercussão geral, a possibilidade de execução antecipada da pena em casos como o que ora se analisa Nulidade por ausência de intimação e citação do paciente rejeitada, por ele se encontrar em local incerto e não sabido Questão que deve ser apreciada, com maior profundidade, em sede de apelação Desproporcionalidade e extemporaneidade da prisão preventiva Descabimento Fatos graves "in concreto" e paciente foragido, a indicar a necessidade da medida Precedente do C. STJ Ordem denegada"
+Neste writ, a defesa alega, em síntese, que houve determinação de cumprimento antecipado da pena antes do trânsito em julgado, o que configura constrangimento ilegal, pois o art. 492, I, "e", do CPP não pode retroagir para alcançar fatos ocorridos em 2015, antes da vigência da Lei n. 13.964/2019 (e-STJ, fls. 10-11).
+Sustenta a nulidade absoluta da sessão de julgamento do Tribunal do Júri por ausência de intimação pessoal do réu, o que teria suprimido a autodefesa e contrariado o devido processo legal (e-STJ, fls. 12-15).
+Afirma que o paciente é primário, possui ocupação lícita e residência fixa, e que a prisão preventiva foi decretada sem os requisitos legais, sendo desproporcional e irrazoável (e-STJ, fls. 6-20).
+Requer a concessão da ordem, inclusive liminarmente, para que seja revogada a prisão preventiva. No mérito, pleiteia a decretação da nulidade dos autos ab initio ou determinado novo julgamento, nos termos do art. 564, III, incisos "e" e "g" e inciso IV, do CPP.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente quanto à alegada nulidade de ausência de intimação do paciente, verifica-se que a questão não foi objeto de julgamento no acórdão impugnado, na medida em que a Câmara Criminal entendeu que a matéria deva ser apreciada com maior profundidade em sede de apelação, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte Superior:
+"(..).
+4. Quanto ao pleito de substituição da prisão preventiva pela domiciliar, sua análise implicaria supressão de instância, tendo em vista que a matéria não foi examinada pelo Tribunal de origem.
+(..)."
+(AgRg no HC n. 950.835/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025).
+"(..).
+5. A alegada violação aos princípios da ampla defesa e do contraditório, sob o argumento de que "a defesa técnica, por não ter sido regularmente intimada da data de realização da sessão de julgamento, foi impedida de exercer um de seus direitos mais fundamentais: o de realizar a sustentação oral perante o tribunal" (e-STJ fl. 179), não foi debatida pelo Tribunal de origem, o que impede sua análise por esta Corte Superior, sob pena de indevida supressão de instância.
+6. Agravo regimental desprovido."
+(AgRg no RHC n. 206.031/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Quanto à execução imediata da pena, a Lei n. 13.964/19 introduziu o art. 492, I, e, ao Código de Processo Penal, em que consta o que se segue:
+" Em seguida, o presidente proferirá sentença que:
+I - no caso de condenação:
+e) mandará o acusado recolher-se ou recomendá-lo-á à prisão em que se encontra, se presentes os requisitos da prisão preventiva, ou, no caso de condenação a uma pena igual ou superior a 15 (quinze) anos de reclusão, determinará a execução provisória das penas, com expedição do mandado de prisão, se for o caso, sem prejuízo do conhecimento de recursos que vierem a ser interpostos; "
+Recentemente, o Supremo Tribunal Federal fixou a seguinte tese de repercussão geral, no Tema 1068: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+Vale ressaltar que o entendimento vinculante deve ser aplicado de imediato, tendo em vista a ausência de modulação temporal de efeitos da decisão.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. PRESCRIÇÃO NÃO CONSUMADA. INTERRUPÇÃO PELO ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 619 DO CPP. PLEITO ABSOLUTÓRIO. SÚMULA 7/STJ. VALORAÇÃO DE DOCUMENTOS COLHIDOS NA FASE EXTRAJUDICIAL. POSSIBILIDADE, DESDE QUE SUBMETIDOS AO CONTRADITÓRIO. OFENSA AO ART. 155 DO CPP NÃO CONFIGURADA. DOSIMETRIA DA PENA. EXASPERAÇÃO PROPORCIONAL NA PRIMEIRA FASE. AUSÊNCIA DE DIREITO SUBJETIVO DO RÉU À APLICAÇÃO DE UM CRITÉRIO MATEMÁTICO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo o atual entendimento das Cortes Superiores, o acórdão confirmatório da condenação interrompe o prazo prescricional. Ao contrário do que diz a defesa, tal orientação não se aplica somente aos casos posteriores ao julgamento do HC 176.473/RR pelo STF, tendo em vista a ausência de modulação temporal de efeitos daquela decisão.
+2. Não há ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+3. O pleito absolutório por suposta ausência de provas esbarra no óbice da Súmula 7/STJ.
+4. Não viola o art. 155 do CPP a valoração de documentos colhidos pelo INSS na esfera extrajudicial, desde que submetidos ao crivo do contraditório, como no presente caso.
+5. Na primeira fase da dosimetria da pena, não há direito do subjetivo do réu à adoção de alguma fração específica de exasperação para cada circunstância judicial desfavorável, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias.
+6. Agravo regimental desprovido.
+(AgRg no REsp n. 1.951.442/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021.)
+AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO CONTRA DECISÃO DE CONCESSÃO LIMINAR DA ORDEM DE HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DE PENA IMPOSTA PELO TRIBUNAL DO JÚRI. PENA SUPERIOR A 15 ANOS DE RECLUSÃO. ART. 492, I, E DO CPP. ALTERAÇÃO PROMOVIDA PELA LEI N. 13.964/2019 (PACOTE ANTICRIME). APLICABILIDADE IMEDIATA. ENTENDIMENTO DO STF. TEMA 1.068 DA REPERCUSSÃO GERAL. QUANTUM DA PENA. IRRELEVÂNCIA.
+1. A jurisprudência do Supremo Tribunal Federal, em diversas oportunidades, tem declarado a nulidade das decisões que afastam a aplicação do art. 492, I, e, do Código de Processo Penal, por violação da Súmula Vinculante 10 e da cláusula de reserva de Plenário, pois tal afastamento configura controle difuso de constitucionalidade que demanda a manifestação do órgão pleno ou do órgão especial.
+2. A jurisprudência recente do Superior Tribunal de Justiça já vinha se alinhando ao entendimento do STF, aplicando a execução imediata da pena imposta pelo Tribunal do Júri. Precedentes.
+3. No julgamento do RE n. 1.235.340/SC (Tema 1.068 da Repercussão Geral), finalizado em 12/9/2024, o STF deu interpretação conforme à Constituição ao art. 492 do CPP, excluindo o limite mínimo de 15 anos para a execução da condenação imposta pelo Tribunal do Júri, firmando a tese de que a soberania dos veredictos autoriza a imediata execução da pena, independentemente do total da pena aplicada.
+4. Diante do posicionamento vinculante do STF e da recente orientação do STJ, torna-se inviável a concessão de habeas corpus que contrarie tais precedentes, devendo-se aplicar imediatamente a prisão ao réu condenado pelo Tribunal do Júri.
+5. Agravo regimental provido.
+(AgRg no HC n. 788.126/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), relator para acórdão Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2024, DJe de 27/9/2024.)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intime-se.
+ EMENTA
