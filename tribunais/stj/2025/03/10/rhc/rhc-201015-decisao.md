@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por WELLINGTON REZENDE DICKEL contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o recorrente foi condenado às penas de 6 anos de reclusão no regime inicial fechado e de pagamento de 510 dias-multa; e de 1 ano de detenção no regime aberto e de 10 dias-multa, como incurso nas sanções dos arts. 33, caput, da Lei n. 11.343/2006; 180 do Código Penal; e 12 da Lei n. 10.826/2003.
+A condenação transitou em julgado em 30/7/2022 (fl. 189).
+O recorrente defende que faz jus à minorante do tráfico privilegiado, na fração de 2/3, argumentando que a quantidade de drogas apreendida e a ausência de ocupação lícita não impedem a incidência do benefício.
+Aduz que, com a redução da pena, serão devidos o abrandamento do modo carcerário e a substituição da sanção privativa de liberdade por restritivas de direitos.
+Requer, liminarmente e no mérito, o redimensionamento de sua reprimenda, a mitigação do modo prisional e a conversão da pena privativa de liberdade em restritivas de direitos.
+Indeferido o pedido de liminar, prestadas as informações, o Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+O Superior Tribunal de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observam-se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024; e HC n. 740.303/ES, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+O Tribunal de origem não conheceu do agravo interno lá manejado indicando expressamente que o afastamento da minorante do tráfico privilegiado, com amparo na quantidade e natureza das drogas, estava em consonância com o entendimento da época e que a retroatividade da mudança da jurisprudência não é admitida nem mesmo em sede de revisão criminal.
+No caso dos autos, tem-se que a condenação do recorrente transitou em julgado em 30/7/2022 (fl. 189) e que, apenas após essa data, esta Corte Superior consolidou o entendimento de que a quantidade e a natureza do entorpecente, por si sós, não evidenciam a habitualidade delitiva do réu e, por conseguinte, não obstam a incidência do privilégio.
+Logo, o recorrente busca dar aplicação retroativa ao entendimento firmado pelo Superior Tribunal de Justiça, o que não pode ser admitido, em virtude do princípio da segurança jurídica.
+Nesse sentido já se posicionou o Superior Tribunal Justiç a:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. REVISÃO CRIMINAL NÃO CONHECIDA PELO TRIBUNAL DE ORIGEM. ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL APÓS O TRÂNSITO EM JULGADO DA AÇÃO PENAL CONDENATÓRIA. IRRETROATIVIDADE. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO NÃO PROVIDO.
+1. É firme o entendimento desta Corte Superior de que a mudança no entendimento jurisprudencial após o trânsito em julgado da condenação, ainda que mais benéfico ao réu, não autoriza o ajuizamento revisão criminal.
+2. Hipótese em que o Tribunal de origem não conheceu do pedido revisional, por entender que a alteração jurisprudencial acerca validade de ações penais em curso para afastar o redutor do art. 33, § 4º, da Lei de Drogas, após o trânsito em julgado, ainda que mais benéfica ao réu, não permite à parte ajuizar revisão criminal com o propósito de anular ou modificar a coisa julgada, em atenção ao princípio da segurança jurídica.
+3. Agravo regimental não provido.
+(AgRg no HC n. 913.360/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024, grifo próprio.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PLEITO ABSOLUTÓRIO. ALTERAÇÃO JURISPRUDENCIAL APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. IRRETROATIVIDADE DO ENTENDIMENTO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Compreende o Superior Tribunal de Justiça que "a mudança de entendimento jurisprudencial posterior ao trânsito em julgado da condenação, assim como no caso, não autoriza o ajuizamento de revisão criminal visando à sua aplicação retroativa. Nessa linha de intelecção, uma vez que a alteração jurisprudencial que definiu a necessidade de standard probatório objetivo para abordagem pessoal foi o RHC n. 158.580/BA, da relatoria do Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 25/4/2022, é posterior ao julgado que se pretende rescindir, não há falar, assim, em retroatividade de entendimento jurisprudencial" (AgRg no HC n. 908.692/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/5/2024.)
+2. Agravo regimental não provido.
+(AgRg no HC n. 918.044/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024, grifo próprio.)
+Ante o exposto, não conheço do recurso em habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE. NÃO CONHECIMENTO.
