@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de KAWAN PETERSON JACINTO DA CUNHA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+DIREITO PENAL. AGRAVO. EXECUÇÃO. FALTA DISCIPLINAR. NULIDADE. INEXISTÊNCIA. CONDUTA DOTADA DE TIPICIDADE. PROVA SUFICIENTE DA OCORRÊNCIA DA FALTA. IMPOSSIBILIDADE DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. PERDA DOS DIAS REMIDOS MANTIDA NA FRAÇÃO MÁXIMA. RECURSO IMPROVIDO.
+I. Caso em Exame Agravo em Execução interposto por Kawan Peterson Jacinto da Cunha contra decisão que reconheceu a gravidade de falta disciplinar por desobediência ocorrida em 15/11/2024. Argui nulidade por inobservância do artigo 118, §2º, da LEP. No mérito, pleiteia a absolvição pela atipicidade ou pela falta de provas, ou a desclassificação. Subsidiariamente, pugna que se afaste a perda dos dias remidos ou que seja reduzida a um (1) dia.
+II. Questão em Discussão
+2. A questão em discussão consiste em determinar (i) se há nulidade, (ii) se a conduta é atípica, (iii) se há provas da prática de falta grave, (iv) se é possível a desclassificação, (v) se é possível afastar ou reduzir a perda dos dias remidos.
+III. Razões de Decidir
+3. A oitiva nos termos do artigo 118, §2º, da LEP, só é necessária quando o reconhecimento da conduta faltosa acarrete regressão, o que não é o caso dos autos. 4. A conduta amolda-se àquela prevista no artigo 50, inciso VI, c. c. o artigo 39, inciso II, da LEP, e há provas suficientes da desobediência, não se cogitando de atipicidade, absolvição ou desclassificação. 5. Perda de 1/6 dos dias remidos mantida.
+IV. Dispositivo e Tese
+5. Recurso improvido.
+Tese de julgamento: 1. Inexiste nulidade que implique na nulidade da decisão. 2. A conduta é dotada de tipicidade e há provas suficientes de sua ocorrência. 3. A perda dos dias remidos é mantida pela fração de 1/6.
+Legislação Citada: LEP, art. 50, inciso VI; art. 39, inciso II; art. 112, §6º; art. 118, §2º.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, pois a conduta do paciente não pode ser enquadrada como falta grave, por não estar prevista no rol taxativo do art. 50 da Lei de Execução Penal, sendo que, considerando os critérios de proporcionalidade, razoabilidade e lesividade, deve ser considerada materialmente atípica, ou, ao menos, desclassificada para falta de natureza média.
+Requer, em suma, a absolvição ou a desclassificação da falta disciplinar.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+De atipicidade não se cogita, porque desobediência é prevista como falta grave expressamente na LEP (art. 50, VI, c. c. art. 39, II).
+O Agravante desobedeceu, por mais de uma vez, a determinação do funcionário para retornar à cela, conduta que não pode receber contornos de mera displicência, pois a rigor desobedeceu, consciente e deliberadamente, à determinação do funcionário. Se de fato pretendesse ir para outro raio que o favorecesse, deveria ter solicitado a transferência pelas vias regulares.
+Inviável, por outro lado, a absolvição ou desclassificação (que é subsidiária e só tem guarida quando a conduta não esteja prevista nos artigos 50 e 52, da LEP, do que não se cogita no caso em exame) (fl. 94).
+Segundo entendimento firmado nessa Corte, a não obediência de ordens recebidas dos agentes da unidade prisional constitui falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DESOBEDIÊNCIA. FALTA GRAVE. JURISPRUDÊNCIA PACÍFICA DESTA CORTE. JULGAMENTO CORRETO E INDIVIDUALIZADO. RECURSO IMPROVIDO.
+1- Este C. Tribunal entende, de forma unânime e pacífica, que a desobediência constitui uma infração de natureza grave prevista no art. 39, inciso II, c/c art. 50, VI, da LEP. Precedente: AgRg no HC 679.421/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/10/2021, DJe 08/10/2021.
+2- Segundo a LEP: Art. 39. Constituem deveres do condenado:  ..  II - obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se; Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:  ..  VI - inobservar os deveres previstos nos incisos II e V, do artigo 39, desta Lei.
+3- O fato foi julgado de forma correta, respeitando as garantias e direitos, em respeito ao princípio do devido processo legal, porque foi devidamente provado pelo depoimento dos agentes de segurança, que se reveste de presunção de veracidade, bem como não houve cerceamento de defesa, não havendo que falar, assim, em ofensa à individualização da conduta. O que ocorre é que, muitas vezes, as condutas de vários detentos são iguais (de negar a ordem recebida), não significando dizer que elas não foram individualizadas, uma vez que todos foram julgados separadamente.
+4-  ..  Não se trata de hipótese de sanção coletiva, que ocorreria se todos os reeducandos do estabelecimento prisional fossem responsabilizados, não sendo este o caso dos autos. Não se trata de aplicação de sanção coletiva, mas sim de infração de autoria coletiva, uma vez que foi apurada a falta disciplinar, com a responsabilização de inúmeros apenados, gerando punição individualizada de todos os envolvidos.  ..  (HC 673.816/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 26/10/2021, DJe 28/10/2021).
+5-  ..  a análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  ..  (HC n. 259.028/SP, Quinta Turma, Rel. Min. LAURITA VAZ, DJe de 7/3/2014).  ..  (AgRg no HC 550.207/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020).
+6- Agravo Regimental não provido. (AgRg no HC n. 728.505/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25.3.2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. EXAME TOXICOLÓGICO. RECUSA. DESCUMPRIMENTO DE ORDENS. REGULAMENTO DISCIPLINAR DA UNIDADE PRISIONAL. APAC. AGRAVO DESPROVIDO.
+1. O descumprimento pelo reeducando de ordens emanadas por agentes da unidade prisional configura infração disciplinar de natureza grave, nos termos do art. 50, inciso VI, da LEP. Precedentes do STJ.
+2. A recusa do paciente em realizar exame toxicológico na unidade prisional da APAC contraria norma disciplinar interna, com a qual o reeducando anuiu, e configura falta grave por desobediência à ordens da administração da unidade.
+2. Agravo regimental desprovido. (AgRg no HC n. 801.580/MG, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 31.5.2023.)
+De igual sorte: AgRg no HC n. 783.146/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 10.3.2023; AgRg no HC n. 764.761/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 14.12.2022; AgRg no AREsp n. 1.897.536/MG, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe de 8.8.2022.
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Ademais, a reforma do julgado, a fim de absolver ou desclassificar a falta disciplinar, exigiria o reexame do conjunto fático-probatório dos autos, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023; AgRg no HC n. 748.272/MS, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16.2.2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
