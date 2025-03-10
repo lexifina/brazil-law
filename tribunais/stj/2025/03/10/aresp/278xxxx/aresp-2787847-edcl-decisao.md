@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CARLOS HENRIQUE MONGUILHOTT e RAQUEL DE MELLO ZABOT MONGUILHOTT à decisão que rejeitou os Embargos de Declaração opostos às fls. 659/674.
+Em suas razões, sustenta a parte embargante que:
+Ao analisar o pedido de nulidade, o Excelentíssimo Presidente do C.STJ decidiu "Em relação à questão da nulidade de intimação da decisão (fls. 648/649) que rejeitou os Embargos de Declaração de fls. 635/638 e da subsequente interposição de Agravo Interno, determino o retorno dos autos à origem para que o Tribunal de Justiçado Estado de Santa Catarina realize as providências que julgar necessárias para analisar, se for o caso, o Agravo Interno que a parte alega estar pendente de julgamento."
+Acontece que, com a devida venia, a r. decisão é omissa sobre o acolhimento ou não da nulidade e o mais importante sobre os efeitos (ex tunc ou ex nunc), todavia determinou o retorno dos autos do E. TJSC.
+ ..
+Excelência, caso não conste expressamente os efeitos do retorno dos autos os Embargantes a depender da decisão do Tribunal originário poderão ficar sem o recurso pertinente sobre a temática.
+Isso porque, se reconhecida a nulidade com efeito ex tunc o processo retroagirá até o ato nulo, ou seja, remessa sem intimação e por sua vez com efeito ex nunc da presente decisão. Por sua vez, se o retorno dos autos for com efeito ex tunc e/ou ex nunc o cenário processual também se alterará.
+Assim sendo, requer seja reconhecida a omissão e por consequência haja expressa manifestação sobre o acolhimento ou não da nulidade aventada e seus efeitos (ex tunc ou ex nunc), bem como haja expressa manifestação sobre os efeitos do retorno dos autos ao Tribunal de origem (ex tunc ou ex nunc) (fls. 692/693).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+A parte embargante opôs novos Embargos de Declaração, alegando que a decisão objeto dos primeiros Aclaratórios deixou de se pronunciar acerca da nulidade ocorrida quando os autos foram remetidos ao STJ, sem que a parte fosse intimada da última decisão proferida pelo Tribunal de Justiça Estadual às fls. 648/649, que rejeitou os Embargos de Declaração (fls. 635/638) opostos ao juízo negativo de retratação da decisão que não admitiu o Recurso Especial. Além disso, posteriormente foi interposto Agravo Interno contra a decisão de fls. 648/649, pendente de julgamento até a presente data.
+Passo às seguintes considerações.
+A decisão (fls. 655/656) que não conheceu do Agravo em Recurso Especial, objeto dos primeiros Embargos de Declaração opostos nesta Corte de Justiça (fls. 659/674) , limitou-se devidamente à análise da peça do Agravo, quando não havia sido suscitada a questão da nulidade de intimação, que, diga-se de passagem, apenas veio a ser arguida por intermédio da via inadequada dos Embargos de Declaração de fls. 659/674.
+Diante de tal cenário, a decisão ora recorrida (fls. 687/688) foi clara, ao mencionar que:
+ ..  não se vislumbra omissão na decisão embargada, dado que, em relação ao recurso de Agravo em Recurso Especial, observa-se que a parte agravante deixou de impugnar especificamente um dos fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: Súmula 83/STJ (art. 889, I, do CPC) (fl. 688 - Grifos acrescidos).
+Dado que a decisão restrita à análise do Agravo em Recurso Especial estava completa, a decisão recorrida corretamente rejeitou os Embargos de Declaração de fls. 659/674, por não vislumbrar os vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material), previstos no art. 1.022 do Código de Processo Civil.
+Por outro lado, quanto ao pedido de nulidade, restou consig nado na decisão embargada que:
+Em relação à questão da nulidade de intimação da decisão (fls. 648/649) que rejeitou os Embargos de Declaração de fls. 635/638 e da subsequente interposição de Agravo Interno, determino o retorno dos autos à origem para que o Tribunal de Justiça do Estado de Santa Catarina realize as providências que julgar necessárias para analisar, se for o caso, o Agravo Interno que a parte alega estar pendente de julgamento (fl. 688).
+No caso, não cabe a este Tribunal Superior o enfrentamento e a declaração da nulidade requerida pela parte, porquanto os atos reputados como nulos foram praticados diretamente na segunda instância e, frise-se, somente ao Tribunal de Justiça do Estado de Santa Catarina cabe apurar a ausência de intimação da decisão que rejeitou os Embargos de Declaração, analisar o Agravo Interno pendente de julgamento e sopesar o prejuízo sofrido pela parte.
+Frente ao resultado e aos desdobramentos dessa análise, o Tribunal a quo será o competente para adotar as medidas que entender necessárias quanto à validade dos demais atos processuais praticados, inclusive, se o caso, a perda do objeto da decisão que não conheceu do Agravo em Recurso Especial.
+Ante o exposto, acolho parcialmente os presentes Embargos de Declaração, para prestar os esclarecimentos acima e acrescentar que o Tribunal a quo deverá apreciar, além do Agravo Interno pendente de julgamento, a questão da nulidade, com os efeitos dela advindos, suscitada pela parte. Quanto aos demais termos, mantenho íntegra a decisão embargada de fls. 687/688.
+Publique-se.
+Intimem-se.
+ EMENTA
