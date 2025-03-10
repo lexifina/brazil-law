@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALISSON ANDRADE DA SILVA PINTO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que deu parcial provimento ao apelo defensivo, mantendo sua condenação pelo crime de roubo majorado.
+A defesa requer a concessão da ordem para que "seja declarada a absolvição do paciente" (e-STJ fls. 3-13).
+Não houve pedido liminar (e-STJ fl. 124).
+As informações foram prestadas (e-STJ fls. 127-218).
+O Ministério Público Federal manifestou-se "pelo não conhecimento do habeas corpus, ressaltando a inexistência de ilegalidade no acórdão estadual" (e-STJ fls. 222-229).
+É o relatório. Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus, haja vista que "o habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita" (AgRg no HC n. 574.814/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2020, DJe de 17/6/2020).
+A questão foi muito bem analisada no parecer do Ministério Público Federal, cujos fundamentos abaixo adoto como razões de decidir (e-STJ fls. 228-229):
+Como visto, as instâncias ordinárias, soberanas quanto à análise das provas e dos fatos, decidiram estar comprovada a prática do roubo circunstanciado pelo paciente (e demais corréus), notadamente pelo reconhecimento do acusado em Juízo e pelos depoimento das vítimas e testemunhas, dentre elas os policiais que realizaram a prisão em flagrante, os quais corroboraram os elementos constantes do inquérito policial.
+Como se sabe, nos termos da jurisprudência do Superior Tribunal de Justiça, " n os crimes patrimoniais como o descrito nestes autos, a palavra da vítima é de extrema relevância, sobretudo quando reforçada pelas demais provas dos autos" , e ainda, " o  depoimento dos policiais constitui elemento hábil à comprovação delitiva, mormente na espécie dos autos, em que, como assentado no aresto a quo, inexiste suspeita de imparcialidade dos agentes" (AgRg no AREsp n. 1.250.627/SC, relator Ministro Jorge Mussi, Quinta Turma, julgado em 3/5/2018, DJe de 11/5/2018).
+Assim, para se acolher a pretendida absolvição seria necessário reapreciar todo o conjunto fático-probatório dos autos, providência incabível na via estreita do habeas corpus.
+A propósito, " c onstatado que a condenação se encontra devidamente fundamentada nas provas colhidas nos autos, a pretensa revisão do julgado, com vistas à absolvição dos recorrentes, não se coaduna com a estreita via do habeas corpus, dada a necessidade de profundo reexame de fatos e provas" (AgRg no HC n. 705.205/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 13/9/2022, DJe de 16/9/2022).
+Ausente, portanto, constrangimento ilegal a ser sanado por essa Corte Superior.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
