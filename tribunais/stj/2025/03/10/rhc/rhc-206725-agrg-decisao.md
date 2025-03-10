@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão de fls. 233-236, que deu provimento ao recurso em habeas corpus para substituir a prisão preventiva do agravado por medidas cautelares diversas da prisão.
+Consta dos autos que o agravado foi preso em flagrante em 1º/9/2024, convertida a custódia em preventiva, pela suposta prática das condutas descritas nos arts. 311, § 2º, III, do Código Penal e 14 da Lei n. 10.826/2003.
+No writ, o agravado sustentou que a segregação processual não apresentou fundamentação idônea e que não estavam presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP. Defendeu a ausência dos indícios mínimos de autoria e materialidade e destacou as condições pessoais favoráveis.
+Nas razões deste recurso, o agravante aduz que a prisão preventiva encontra-se devidamente fundamentada na gravidade concreta do delito e na periculosidade do agravado.
+Alega que a decisão do Magistrado de primeiro grau não foi genérica, apontando que o modus operandi da prática delitiva e as circunstâncias do flagrante revelam a periculosidade dos envolvidos e a gravidade concreta do delito.
+Busca a reconsideração da decisão para que seja restabelecida a prisão preventiva da parte agravada ou a submissão do recurso ao colegiado.
+Intimada para apresentar impugnação às razões recursais do MPF, a parte agravada deixou o prazo transcorrer in albis (fl. 259).
+É o relatório.
+Considerando as razões do Ministério Público Federal, reconsidero a decisão agravada.
+No procedimento do habeas corpus, bem como em seu consectário recursal, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+No caso, a decisão que decretou a prisão preventiva do ora agravado teve a seguinte fundamentação (fls. 128-129, grifo acrescido):
+As circunstâncias narradas no APFD apontam que os integrantes da guarnição policial, receberam informações acerca um possível roubo com sequestro, apontando que os autores estavam em um Fiat/Siena branco e estavam planejando cometer o crime à noite no Bairro Ribeiro de Abreu.
+Os policiais posicionaram-se estrategicamente na Estrada do Sanatório, quando avistaram um veículo com as mesmas características noticiadas, ocasião em que emanaram ordem de parada, porém, o condutor do veículo avançou contra os policiais, que diante da injusta agressão, realizaram disparos de arma de fogo.
+Nesse momento, os policiais realizaram perseguição do veículo, quando lograram êxito em interceptar o automóvel, momento em que o condutor dispensou uma arma de fogo e uma mochila.
+Realizada a abordagem do condutor do veículo, ele foi identificado como o autuado Marco Junio Monteiro de Souza.
+Os militares recuperaram a arma de fogo dispensada pelo autuado, bem como a mochila, contendo em seu interior máscaras, rádios comunicadores, bastão de choque e braçadeiras plásticas, comumente utilizadas em crimes.
+Em entrevista com os policiais, o autuado admitiu que pretendia realizar o roubo com dois comparsas na oficina de Marcelo, onde a vítima supostamente guardava dinheiro.
+Durante as diligências, os policiais constataram que o veículo utilizado pelo autuado estava com a placa adulterada, sendo que a placa original, pertencia a outro veículo do pai do autuado.
+Os militares ainda entraram em contato com o proprietário da oficina, que identificou o autuado como ex-funcionário e mencionou ter observado a presença suspeita de dois indivíduos anteriormente no local.
+Pelo relato constante dos autos, reputo presentes os indícios da autoria e materialidade delitivas.
+A gravidade concreta dos fatos corrobora a necessidade da conversão da prisão em flagrante em preventiva, para a garantia da ordem pública e da instrução criminal, eis que a FAC e CAC do autuado
+É cediço que o somatório das penas máximas privativas de liberdade cominadas em abstrato, individualmente, aos delitos imputados ao agente no presente APFD excedem a quatro anos, preenchendo-se, portanto, o requisito objetivo contemplado pelo artigo 313, I, do CPP.
+Porém, a FAC e CAC do autuado Marco Junio Monteiro de Souza apontam sua primariedade.
+Diante do exposto, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA DO AUTUADO MARCO JUNIO MONTEIRO DE SOUZA, nascido em 07/12/2003, nos termos do artigo 313, I, do CPP.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois o acusado desobedeceu ordem de parada avançando com o veículo contra os policiais, que, somente após perseguição e mediante disparos de arma de fogo, conseguiram interceptar o automóvel.
+Momentos antes de ser abordado, o réu teria dispensado uma arma de fogo e uma mochila contendo máscaras, rádios comunicadores, bastão de choque e braçadeiras plásticas, comumente utilizadas em crimes. O acusado admitiu que planejava roubar com dois comparsas a oficina do Marcelo, local em que a vítima guardava dinheiro, tendo os policiais constatado durante as diligências que a placa do veículo utilizada pelo flagranteado era adulterada, pertencendo a placa original a outro automóvel do pai do autuado.
+Essas circunstâncias, uma vez que evidenciam a gravidade concreta da conduta delituosa, justificam a imposição da prisão cautelar como meio de assegurar a ordem pública. É pacífico o entendimento do Superior Tribunal de Justiça de que não se configura constrangimento ilegal quando a segregação preventiva é decretada em face do modus operandi empregado na prática do delito.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONTRABANDO. DESOBEDIÊNCIA. DIRIGIR VEÍCULOS NA VIA PÚBLICA PONDO EM PERIGO A SEGURANÇA ALHEIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. TENTATIVA DE FUGA NO MOMENTO DA ABORDAGEM POLICIAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. DESPROPORCIONALIDADE DA MEDIDA. INVIABILIDADE DE ANÁLISE.
+1. Consta, do decreto prisional, fundamentação idônea, pois destacou-se a tentativa de fuga do investigado do distrito da culpa, a despeito da ordem de parada emanada da autoridade policial, inclusive com manobras bruscas e direção perigosa, sendo necessários disparos de arma de fogo para que o veículo parasse.
+2. A tentativa de fuga, no momento da abordagem policial, após a prática criminosa, inclusive com resistência física, perseguição em alta velocidade, e troca de tiros com agentes policiais, são circunstâncias fáticas que justificam a prisão preventiva.
+3. A existência de predicados pessoais favoráveis não garante, de forma automática, a liberdade do acusado, especialmente quando presentes os pressupostos e requisitos da prisão preventiva.
+4. "O argumento de desproporcionalidade da custódia cautelar à provável futura pena do agravante não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual" (AgRg no HC n. 766.319/RR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022).
+5. Agravo regimental improvido.
+(AgRg no HC n. 822.453/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ante o exposto, reconsidero a decisão agravada (fls. 233-236) e, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
