@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PEDRO ROBERTO PETER BENIAMINO, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+O paciente foi condenado à pena de 2 anos e 4 meses de reclusão em regime inicial aberto, pela prática do delito descrito no art. 168-A, caput, do Código Penal, com a pena corpórea substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária mensal, no valor de R$ 200,00 (duzentos reais), pelo prazo de 28 meses (Processo n. 0005346-25.2015.4.03.6130, da 1ª Vara da 44ª Subseção Judiciária - Barueri/SP).
+A Quinta Turma daquela Corte negou provimento ao apelo defensivo em 29/11/2022 (fls. 27/44). E a condenação transitou em julgado para a defesa em 3/2/2023.
+Neste writ, o impetrante alega que a sentença condenatória transitou em julgado para a acusação em 10/9/2019 e que a execução da pena foi iniciada em 18/10/2024, após o decurso do prazo prescricional de 4 anos, conforme o art. 109, V, c/c o art. 110, caput, e § 1º, do Código Penal, e a Súmula 497/STF, que não considera o aumento da continuidade delitiva para fins de prescrição.
+Sustenta que a prescrição da pretensão executória ocorreu, uma vez que o trânsito em julgado para a acusação ocorreu antes de 12/11/2020, data a partir da qual o Supremo Tribunal Federal, no ARE n. 848.107, com repercussão geral, estabeleceu que o termo inicial para a prescrição executória se dá com o trânsito em julgado para ambas as partes.
+Requer a imediata a suspensão do PEC n. 7000015-80.2024.4.03.6144 até o julgamento final do habeas corpus, para evitar que o paciente, de 74 anos, cumpra pena prescrita, o que poderia prejudicar sua saúde. No mérito, pleiteia o reconhecimento da prescrição da pretensão executória. Subsidiariamente, caso o pedido de habeas corpus não seja conhecido, requer a concessão da ordem de ofício, diante da manifesta ilegalidade.
+Depois de indeferido o pedido liminar, o Ministério Público Federal opinou pelo não conhecimento do writ.
+É o relatório.
+Diz a jurisprudência desta Corte que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação (AgRg no HC n. 885.105/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/9/2024).
+Ademais, no caso, é nítido o intento de dupla supressão de instância. A questão não foi submetida, primeiro, ao Juízo da execução, muito menos ao Tribunal a quo.
+Sem contar que, conforme reiterada jurisprudência do Superior Tribunal de Justiça, o anterior exame da pretensão defensiva pelas instâncias ordinárias constitui requisito indispensável para sua análise nesta instância, mesmo quando suscitada questão de ordem pública (AgRg no HC n. 815.503/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/8/2023).
+É na mesma linha a manifestação do Subprocurador-Geral da República Augusto Aras, isto é, de indicar que a jurisprudência desse eg. Superior Tribunal de Justiça é no sentido de não se admitir a impetração de habeas corpus como sucedâneo de revisão criminal (fls. 80/81) e de que a matéria trazida na impetração sequer foi objeto de exame pelo Tribunal Federal no acórdão que se pretende rescindir e nem mesmo pelo juízo executório, quem deveria primeiro conhecer do pleito (fl. 81).
+Por essas razões, não conheço deste habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO DA VIA ELEITA. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. RECONHECIMENTO DA PRESCRIÇÃO. DUPLA SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. PARECER ACOLHIDO.
+Writ não conhecido.
