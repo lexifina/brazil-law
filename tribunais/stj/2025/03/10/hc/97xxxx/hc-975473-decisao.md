@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ROBSON LOPES ABI contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que denegou a ordem em habeas corpus que impugna decisão que determinou a imediata execução da pena imposta pelo Tribunal do Júri (HC n. 0012719-83.2025.3.00.0000) .
+A defesa requer a concessão da ordem "assegurando o direito do Paciente de não ser compelido ao cumprimento da pena antes do trânsito em julgado da sentença penal condenatória, como estabelece o CF/ ART. 5º/ LVII, confirmando assim a necessidade de observância da presunção de inocência" (e-STJ fls. 2-15).
+A liminar foi indeferida (e-STJ fls. 31-32).
+As informações foram prestadas (e-STJ fls. 38-119).
+O Ministério Público Federal manifestou-se "pelo não conhecimento da ordem ou, no mérito, pela sua denegação" (e-STJ fls. 123-128).
+É o relatório.
+Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus, haja vista que "o Supremo Tribunal Federal, no julgamento do RE n. 1.235.340, com repercussão geral (Tema 1068), firmou a tese de que "a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada"" (AgRg no RHC n. 202.283/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024).
+Com efeito, esta Corte já decidiu que "o art. 492 do CPP é norma processual, podendo retroagir aos casos praticados antes de sua vigência. Ademais, ao examinar o Tema 1068, a Suprema Corte não estabeleceu modulação de efeitos do entendimento sufragado, podendo, pois, a orientação firmada ser aplicada aos casos anteriores à vigência da norma. Assim, diante desse recente julgamento pelo Supremo Tribunal federal, estabelecendo que a norma prevista na alínea "e" do inciso I do art. 492 do CPP é válida e está em plena vigência, independentemente da pena aplicada, não há constrangimento ilegal na determinação da execução provisória da pena imposta" (RHC n. 210.097, Ministro Reynaldo Soares da Fonseca, DJEN de DJEN 10/02/2025).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
