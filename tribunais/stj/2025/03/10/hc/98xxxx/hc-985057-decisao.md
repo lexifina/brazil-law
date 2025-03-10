@@ -1,0 +1,17 @@
+DECISÃO
+O presente writ, impetrado em benefício de JEISSYANE CRISTINA SILVA BRAGA e HUGO ALVES SERATO - condenados como incursos no crime de tráfico de drogas (Ação Penal n. 0047186-10.2023.8.13.0702) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta aos pacientes, ao argumento de que o Juiz sentenciante, ao negar aplicação da minorante do § 4º do art. 33 da Lei n. 11.343/2006, não apresentou fundamentação idônea (fl. 4).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o Magistrado singular afastou o redutor com fundamento no fato de que as variadas e grandes quantidades de drogas depositadas na casa e o transporte de expressiva quantidade de maconha em veículo fazem certo que as drogas eram distribuídas a outros traficantes (venda no atacado). Isso, associado ao fato de que os acusados possuíam também em depósito em sua residência matérias secundárias para a produção ilícita, consistentes de rolos de filme plástico, rolos de fita adesiva, sacos do tipo e adesivos, e dezip-lock instrumentos consistentes de duas balanças de precisão, faca, uma pistola-metralhadora artesanal e munições de arma de fogo, comumente utilizados para separar, pesar, embalar e lacrar as drogas e identificar a organização criminosa que as distribui e realizar a segurança dos traficantes e execução de possíveis desafetos. Portanto, os acusados estavam se dedicando à atividade criminosa de tráfico de drogas, de natureza permanente, e de forma estabelecida, motivo pelo qual não têm direito à causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/2006 (fl. 66).
+A combinação de elementos concretos dos autos, consistentes na apreensão de g rande quantidade e variedade de drogas, aliada à posse de instrumentos típicos do tráfico, são circunstâncias capazes de denotar a dedicação a atividades criminosas.
+A propósito:
+ ..
+4. A aplicação do redutor do tráfico privilegiado, nos termos do § 4º do art. 33 da Lei n. 11.343/06 depende da primariedade do réu, da inexistência de dedicação a atividades criminosas e da não integração em organizações criminosas, requisitos que devem ser analisados de forma concreta e individualizada.
+5. No caso, a não aplicação da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006 foi devidamente justificada, destacando o Tribunal de origem que o local da apreensão das drogas (119,6g de cocaína e 164,9g de maconha) é conhecido como ponto de venda de entorpecentes, comandado por organização criminosa, conhecida como "C.T.A. - COMANDO TERRORISTA ALKIMIM". Além disso, ressaltou que foi apreendida uma balança de precisão com o paciente, o qual já tinha sido preso pela mesma prática delitiva dias antes e na companhia do mesmo adolescente, ostentando, ainda, passagens por atos infracionais.
+ ..
+(HC n. 941.447/MG, Ministra Daniela Teixeira, Quinta Turma, DJe 21/10/2024
+- grifo nosso).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. MINORANTE DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO À ATIVIDADE CRIMINOSA COMPROVADA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
