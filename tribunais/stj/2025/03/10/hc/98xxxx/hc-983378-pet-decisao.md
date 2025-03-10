@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão que indeferiu liminarmente o habeas corpus (e-STJ fls. 2077/2080).
+A def esa pretende a "reconsideração da liminar".
+Informa que o julgamento virtual foi concluído, com a reforma da sentença a fim de condenar todos os pacientes, devendo ser reconhecida a nulidade do referido julgamento, aguardando-se o julgamento do mérito deste writ, para nova inclusão do julgamento de origem em pauta, presencial ou virtual.
+É o relatório. Decido.
+Não é possível o conhecimento deste pedido, ante a preclusão consumativa e a incidência do princípio da unirrecorribilidade das decisões judiciais.
+Observa-se que o requerente apresentou dois pedidos de reconsideração, de idêntico teor e contra a mesma decisão. O primeiro (Petição n. 00153978/2025) foi protocolizado em 25/2/2025 (e-STJ fls. 2081/2084) e o segundo (Petição n. 00159936/2025) em 26/ 2/2025 (e-STJ fls. 2088/2105). A segunda petição, portanto, não merece ser conhecida, conforme entendimento jurisprudencial firmado nesta Corte Superior de Justiça.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. PRECLUSÃO CONSUMATIVA. ALTERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE DO JULGADOR NA ANÁLISE DOS FATOS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO. 1. Esta Corte Superior possui entendimento pacífico no sentido de que a interposição de vários recursos pela mesma parte contra a mesma decisão inviabiliza o exame daqueles que tenham sido protocolizados por último, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões.  ..  (AgRg no AREsp 934.588/AL, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 10/4/2018, DJe 25/4/2018)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 182/STJ. EMBARGOS DE DECLARAÇÃO. PRESCRIÇÃO NÃO VERIFICADA. INTERPOSIÇÃO DE DOIS RECURSOS. NÃO CONHECIMENTO DO ÚLTIMO INTERPOSTO. AGRAVO REGIMENTAL NÃO CONHECIDO. AGRAVO REGIMENTAL NÃO PROVIDO. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. A ausência de impugnação específica dos fundamentos da decisão combatida atrai a incidência da Súmula nº 182 desta Corte. 2. A interposição de mais de um recurso contra a mesma decisão impossibilita o conhecimento daquele interposto por último, diante da preclusão consumativa e da observância ao princípio da unirrecorribilidade das decisões.  ..  (AgRg no AREsp 770.627/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 7/11/2017, DJe 14/11/2017)
+Diante do exposto, não conheço deste pedido de reconsideração.
+Intimem-se.
+EMENTA
