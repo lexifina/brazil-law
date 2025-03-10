@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ULTRAMAR FERNANDES DE OLIVEIRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CONTRATO DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO. EMPRÉSTIMO CONSIGNADO. INSTRUÇÃO NORMATIVA 28 DO INSS - JUROS REMUNERATÓRIOS. LEGALIDADE. SOMENTE É POSSÍVEL A REVISÃO DOS JUROS REMUNERATÓRIOS PACTUADOS, NOS TERMOS DO ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA, QUANDO SEJA DEMONSTRADA A ABUSIVIDADE DECORRENTE DE DISCREPÂNCIA SIGNIFICATIVA ENTRE O PERCENTUAL PRATICADO E A TAXA MÉDIA DE MERCADO DIVULGADA PELO BANCO CENTRAL DO BRASIL PARA OPERAÇÕES DE MESMA NATUREZA NA DATA DA CONTRATAÇÃO. NÃO HAVENDO NOS AUTOS A COMPROVAÇÃO DE QUE O PERCENTUAL DA TAXA DE JUROS EFETIVAMENTE COBRADO DIVERGE DO CONTRATADO, DESCABE A ALEGAÇÃO DE ILEGALIDADE, QUANDO HÁ OBSERVÂNCIA DA INSTRUÇÃO NORMATIVA Nº 28 DO INSS, APLICÁVEL AOS EMPRÉSTIMOS CONSIGNADOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 369 do CPC, no que concerne à configuração de cerceamento de defesa em razão da impossibilidade de produção de prova pericial, trazendo a seguinte argumentação:
+Segundo o artigo supramencionado as partes têm o direito de empregar todos os meios legais, bem como os moralmente legítimos, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz.
+Contudo, para a comprovação das alegações trazidas na exordial, referente aos juros cobrados, se faz necessário a concessão da prova pericial contábil, tendo em vista que a ilegalidade só é possível ser demonstrada através de cálculos contábeis, uma vez que a taxa de juros descrita no contrato não espelha a verdade.
+ ..
+Portanto, resta clarificado que o referido acórdão violou o artigo 369 do Código de Processo Civil, pois não possibilitou ao recorrente o direito de empregar todos os meios de provas legais permitidos, motivo pelo qual deve ser reformado (fls. 764-765).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Conheço do recurso, pois presentes os pressupostos de admissibilidade. Preliminar de indeferimento de perícia.
+Sem razão a apelante, eis que, é perfeitamente dispensável, nesta ação, a prova pericial, por se tratar de matéria exclusivamente de direito. Depois, possível diferença de valores deverá ser enfrentada na fase de liquidação de sentença e, se necessário, naquele momento poderá ser realizada tal prova, não havendo que se falar e cassação da sentença (fl. 754).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
