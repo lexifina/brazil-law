@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DUVILIO CODATO CIONI, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/PR.
+Recurso especial interposto em: 28/09/2024.
+Concluso ao gabinete em: 06/12/2024.
+Ação: ação revisional de conta corrente com pedido de repetição de indébito, ajuizada pelo recorrente em face de ITAÚ UNIBANCO S.A., na qual pretende a revisão das taxas de juros, tarifas e seguros cobrados em sua conta corrente, alegando a ausência de contratação específica e a cobrança de juros acima da taxa média de mercado (e-STJ fls. 1-35)
+Sentença: julgou parcialmente procedentes os pedidos iniciais, determinando a aplicação da taxa média do Banco Central para os juros remuneratórios e afastando a capitalização de juros, ambas por ausência de pactuação expressa, com a repetição simples do indébito (e-STJ fls. 1.045-1.054).
+Acórdão: negou provimento à apelação interposta pelo recorrente e deu parcial provimento à apelação interposta pelo recorrido, para afastar a limitação dos juros remuneratórios à taxa média de mercado, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS (1) E (2). "AÇÃO REVISIONAL DE CONTA CORRENTE COM PEDIDO DE REPETIÇÃO DO INDÉBITO PELO PROCEDIMENTO COMUM". CONTRATO DE ABERTURA DE CONTA CORRENTE. SENTENÇA. PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+1. CONTRARRAZÕES À APELAÇÃO (1). PLEITO DE NÃO CONHECIMENTO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. NÃO ACOLHIMENTO. RAZÕES RECURSAIS (1) QUE ATENDEM ADEQUADAMENTE ÀS DISPOSIÇÕES DO ART. 1.010, II A IV, DO CPC. INSURGÊNCIA (1) CONHECIDA.
+2. APELAÇÃO (1) DO AUTOR: 2.1. TAXAS, TARIFAS BANCÁRIAS E ENCARGOS. ILEGALIDADE. TESE AFASTADA. VALIDADE DAS COBRANÇAS LANÇADAS ATÉ 29.04.2008, NA VIGÊNCIA DA RESOLUÇÃO N.º 2.303/96 DO BACEN, QUE SÃO CONSIDERADAS LEGAIS, INDEPENDENTEMENTE DE CONTRATAÇÃO. 2.2. COBRANÇA DE SEGUROS. VENDA CASADA. OCORRÊNCIA. AUSÊNCIA DE OPÇÃO DE ESCOLHA AO CONSUMIDOR PARA CONTRATAR EMPRESA DE OUTRO GRUPO ECONÔMICO (RESP REPETITIVO Nº 1.639.320/SP). ABUSIVIDADE CONSTATADA. COBRANÇA AFASTADA. PRECEDENTES.
+3. APELAÇÃO (2) DO BANCO RÉU. . AUSÊNCIA DE3.1 COMPROVAÇÃO MÍNIMA DE VEROSSIMILHANÇA DAS ALEGAÇÕES AUTORAIS. INOVAÇÃO RECURSAL. MATÉRIA NÃO DEDUZIDA NO JUÍZO DE ORIGEM. NÃO CONHECIMENTO. .3.2 JUROS REMUNERATÓRIOS. LEGALIDADE. TESE ACOLHIDA. CONTRATO DE ABERTURA DE CONTA CORRENTE. AUSÊNCIA DE PRÉVIA ESTIPULAÇÃO DAS ALÍQUOTAS. IRRELEVÂNCIA. CONTRATAÇÃO DOS JUROS EM TAXA FLUTUANTE. PREVISÃO TÍPICA DESSA MODALIDADE CONTRATUAL QUE NÃO CONDUZ, NECESSARIAMENTE, À ABUSIVIDADE. INAPLICABILIDADE DA SÚMULA N.º 530/STJ. . DISTINGUISHING PRECEDENTES. CASO EM QUE HOUVE APENAS AFIRMAÇÃO GENÉRICA DE NÃO TEREM SIDO PACTUADAS AS TAXAS DE JUROS DIANTE DA NÃO EXIBIÇÃO DO CONTRATO DE CONTA CORRENTE E QUE AS COBRADAS SERIAM ACIMA DA MÉDIA DE MERCADO. IMPUTAÇÃO DO.3.3 PAGAMENTO (CC, ART. 354). CABIMENTO. NORMA COGENTE. TESE FIXADA PELA SEÇÃO CÍVEL DESTA CORTE ESTADUAL POR OCASIÃO DO JULGAMENTO DO N.º 1620630-7. EFEITOIRDR VINCULANTE. PRECEDENTES. INCIDÊNCIA DA TAXA A.3.4 SELIC PARTIR DA CITAÇÃO. ACOLHIMENTO. CORREÇÃO MONETÁRIA NO MOMENTO ANTERIOR À CITAÇÃO PELO , DESDE AIPCA-E DATA DE CADA PAGAMENTO INDEVIDO, E, A PARTIR DA CITAÇÃO, EXCLUSIVAMENTE PELA TAXA , NA FORMASELIC SIMPLES, E NÃO CAPITALIZADA (STJ, RESP REPETITIVO N.º 1.102.552/CE). PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS.3.5 SUCUMBENCIAIS. BASE DE CÁLCULO. FIXAÇÃO COM FULCRO NO ART. 85, § 6º-A, DO CPC. NÃO CABIMENTO. INAPLICABILIDADE AO CASO DESSE DISPOSITIVO LEGAL. SENTENÇA QUE ARBITROU A VERBA HONORÁRIA EM 10% SOBRE O VALOR DA CONDENAÇÃO (CPC, ART. 85, § 2º, I A IV), OBSERVADA A SUCUMBÊNCIA RECÍPROCA.
+4. ÔNUS DE SUCUMBÊNCIA. SENTENÇA PARCIALMENTE REFORMADA. ALTERAÇÃO DO ESTADO DE DECAIMENTO DOS PEDIDOS DAS PARTES VERIFICADO POR OCASIÃO DA SENTENÇA. REDISTRIBUIÇÃO DESSES ÔNUS ENTRE AS PARTES.
+5. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. NÃO INCIDÊNCIA. INTELIGÊNCIA DO ART. 85, § 11, DO CPC.
+APELAÇÃO (1). CONHECIDA E PARCIALMENTE PROVIDA APELAÇÃO
+(2) PARCIALMENTE CONHECIDA E PARCIALMENTE PROVIDA (e-STJ 1-151-1.173).
+Recurso especial: alega violação aos arts. 6º, incisos II e III, 39, inciso VI, e 47 do CDC, 112 e 113 do CC, além de divergência jurisprudencial, sustentando a ilegalidade da cobrança das taxas e tarifas bancárias sem contratação específica e a ilegalidade da cobrança de taxa de juros em patamar superior à média de mercado, quando inexiste contratação de qualquer taxa de juros, diante do enunciado da Súmula 530 do Superior Tribunal de Justiça.
+Prévio juízo de admissibilidade: o TJ/PR admitiu o recurso especial (fls. 1384, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca arts. 6º, incisos II e III, 39, inciso VI, e 47 do CDC e 112 e 113 do CC, indicados como violados, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ.
+Ressalta-se, ademais, que a jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que o reconhecimento do prequestionamento ficto, nos termos do art. 1.025 do CPC, pressupõe a alegação de ofensa ao art. 1022 do CPC e o reconhecimento de sua violação, o que não ocorreu no particular.
+Nesse sentido, confira-se: AgInt no AREsp 2.472.032/RJ, Terceira Turm a, julgado em 8/4/2024, DJe de 11/4/2024 e AgInt no AREsp 2.274.066/SP, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023.
+- Da divergência jurisprudencial
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Ademais, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC e 255, § 1º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial, mantendo-se os ônus sucumbenciais fixados pelas instâncias ordinárias.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação revisional de contrato bancário.
+2. A interposição de recurso especial não é cabível quando ocorre violação de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4.Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial não conhecido.
