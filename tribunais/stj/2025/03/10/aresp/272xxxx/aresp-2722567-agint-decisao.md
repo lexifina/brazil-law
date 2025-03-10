@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo intern o manejado pelo Consórcio Metropolitano de Transportes, desafiando decisão de fl. 591, que negou provimento ao agravo, por entender que deve ser considerado intempestivo o agravo em recurso especial.
+Irresignada, a parte agravante sustenta que o recurso foi interposto dentro do prazo legal considerando a comprovação posterior de sua tempestividade em razão de feriado local e suspensão do expediente forense.
+O prazo para apresentar impugnação transcorreu in albis (fl. 610).
+É O RELATÓRIO.
+Com efeito, a Corte Especial deste Sodalício, ao julgar a QO no AREsp 2.638.376/MG, no dia 5/2/2025, acolheu questão de ordem proposta no sentido de aplicar os efeitos da Lei n. 14.939/2024, relativos à possibilidade de comprovação posterior de feriado local, também aos recursos interpostos antes de sua vigência.
+Nesse contexto, tendo a parte agravante demonstrado às fls. 603/604 a ocorrência da suspensão do prazo, exercendo juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, e passo novamente à análise do recurso:
+Trata-se de agravo manejado pelo Consórcio Metropolitano de Transportes contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 504):
+Mandado de segurança Impetração por operador da Reserva Técnica Operacional-RTO/ORCA, credenciado pela EMTU, visando o imediato restabelecimento dos "validadores" de bilhetagem eletrônica, os quais foram abruptamente desligados pelo Consórcio Metropolitano de Transportes-CMT Sentença concessiva da segurança Legitimidade passiva verificada Exegese do artigo 1º, § 1º, da Lei 12.016/09 Litisconsórcio passivo necessário afastado Ato não emanado pela EMTU Concessão da ordem que em nada lhe afetará a esfera jurídica, podendo agir por si própria Mérito Apenas a EMTU ostenta legitimidade para, em observância a decisões vinculantes, no caso o Tema n.º 854 do STF, determinar o desligamento dos validadores dos veículos que são objeto de autorizações por ela concedidas - Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, IV e 1.022, I do CPC ao argumento que o acórdão foi omisso a respeito de argumentos relevantes ao deslinde do feito.
+Adiante, alega ofensa aos arts. 926 e 927 do CPC, pois o acórdão recorrido deixou de observar as decisões proferidas pelo STF, notadamente do Tema de Repercussão Geral nº 854.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não provimento do agravo interno (fls. 622/627).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso merece acolhida pelo art. 1.022, do CPC/2015, pois a parte
+recorrente alega em seu recurso especial o seguinte (fls.533):
+Como visto, o Recorrente opôs Embargos de Declaração, apontando a omissão no julgado, diante da desconsideração ao fato de que o ato perpetrado pelo Recorrente, de desligamento dos validadores dos operadores da RTO, não possui o condão de paralisar as atividades desempenhadas pelo Recorrido, tratando-se de conduta adotada para fins de dar cumprimento à decisão do E. STF, que culminou na edição do Tema 854, dentro das atribuições de competência do CMT.
+Ainda, o E. Tribunal de origem não considerou a natureza complementar do serviço de transporte público prestado pelo Recorrido, sem a devida licença prévia, e o atestado da EMTU de ausência de impacto do ato cometido no transporte público da RMSP, tendo chancelado o direito do Recorrido à prestação de serviço declaradamente inconstitucional pelo E. STF, valendo-se de equipamento particular que não o pertence.
+Entretanto, o Tribunal de origem quedou silente sobre tais argumentos, em franca violação ao art. 1.022, do CPC/2015, porquanto não prestada a jurisdição de forma integral.
+Nesse vértice, vejam-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. É firme o entendimento do STJ de que, "tratando-se de questão relevante para o deslinde da causa, a ausência de manifestação sobre ela caracteriza ofensa ao art. 535 do CPC/1973. Verificada tal ofensa, em sede de recurso especial, impõe-se a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão" (AgInt no AREsp 868.604/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/09/2016).
+2. Caso concreto em que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para a solução da controvérsia, em franca violação ao art. 1.022 do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.650.218/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/9/2018, DJe 9/10/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. DECADÊNCIA TRIBUTÁRIA. ALEGATIVA DE EXISTÊNCIA DE DOCUMENTOS QUE COMPROVAM PAGAMENTO PARCIAL A ATRAIR A INCIDÊNCIA DO ART. 150, § 4º, DO CTN. QUESTÃO JURÍDICA RELEVANTE. ACÓRDÃO RECORRIDO. OMISSÃO. NULIDADE.
+ ..
+2. Na espécie, assiste razão à parte recorrente no ponto em que sustenta violação do art. 535, II, do CPC, pois uma análise detida das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos do contribuinte, revela que houve omissão no acórdão recorrido quanto à alegativa de que há informações constantes dos autos que seriam relevantes ao deslinde da controvérsia, notadamente aquelas que comprovariam a existência de pagamento parcial do tributo a atrair a orientação jurisprudencial pacificada no STJ no sentido de que a decadência tributária, nessas hipóteses, tem início com a ocorrência do fato gerador, e não a partir do primeiro dia do exercício seguinte.
+3. Não havendo o Tribunal a quo se pronunciado a respeito dessas alegativas, caracteriza-se afronta ao art. 535 do CPC, impondo-se a anulação da decisão proferida nos embargos, a fim de que outra seja proferida com apreciação da questão.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.633.154/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 5/12/2017).
+Dessarte, diante do acolhimento da questão preliminar, fica prejudicada a análise dos demais pedidos recursais.
+ANTE O EXPOSTO, reconsidero a decisão de fl. 591, tornando-a sem efeito. Ademais, conheço do agravo e dou parcial provimento ao recurso especial por afronta ao art. 1.022, do CPC/2015, para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+ EMENTA
