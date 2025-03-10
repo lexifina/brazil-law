@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIS FERNANDO ASSIS DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi pronunciado pela prática, em tese, do crime previsto no art. 121, § 2º, I, III e VI, c/c o art. 14, II, do Código Penal.
+A impetrante, no entanto, sustenta a nulidade da decisão de pronúncia, ao argumento de que estaria fundada apenas em elementos de informação colhidos na fase do inquérito policial, sem que tenham sido consideradas provas judicializadas suficientes para corroborá-los, sobretudo no que se refere aos indícios de autoria.
+Defende que as provas testemunhais produzidas em Juízo seriam apenas de "ouvir dizer", as quais não serviriam, portanto, para embasar o envio do paciente a julgamento popular.
+Afirma, assim, a violação dos arts. 155 e 414 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a cassação do acórdão impetrado e a impronúncia do paciente.
+Por meio da decisão de fls. 698-700, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 706-710), bem como a manifestação do Ministério Público Federal, opinando pelo não conhecimento do habeas corpus (fls. 715-720).
+É o relatório.
+O Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado. Observam-se, a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024.
+Ademais não se está diante da ocorrência de flagrante ilegalidade apta a superar esse entendimento.
+O Tribunal de origem ressaltou, no acórdão do recurso em sentido estrito, que estão presentes os requisitos para a submissão do paciente ao julgamento pelo plenário do júri. Veja-se (fls. 82-83):
+Da análise da prova oral produzida sob o crivo do contraditório, observo que Juízo a quo, de forma acertada, entendeu pela existência de indícios de autoria.
+A decisão de pronúncia acertadamente destaca a existência de duas versões para os fatos, a primeira no sentido de que o acusado ateou fogo na residência enquanto a vítima dormia no local, tendo, assim, intenção de matá-la, e uma segunda versão na qual a própria vítima, alterando seu depoimento em juízo, menciona que o acusado teria ateado fogo em colchões após uma briga do casal, fogo esse que teria sido controlado por ambos, não havendo que se falar em intenção de feminicídio no caso.
+Por sua vez, a testemunha Carlos, ouvida em juízo, repetiu seu depoimento prestado em sede policial, tendo afirmado, em síntese, que o incêndio teria sido de grande proporções, bem como que no dia e horário dos fatos, teria avistado o acusado pulando uma janela da residência da vítima e fugindo do local. A testemunha também refere que a vítima foi retirada do interior da residência em chamas pelos vizinhos, tendo a casa ficado completamente destruída pelo fogo, relato esse que encontra respaldo no relatório de local de crime anexado aos autos (evento 1, OUT11).
+A testemunha Natiele relatou que reside em frente a residência da vítima e que quando viu a casa pegando fogo entrou no local e socorreu a ofendida, que estava em estado de choque, retirando-a da residência (150.1).
+Nesse sentido, tenho que a tese acusatória descrita na denúncia é corroborada pelos depoimentos da vítima em sede policial e pelas testemunhas, em especial pelos relatos de Carlos e Natiele. Destarte, como bem apontado na decisão de pronúncia, verifico, portanto, a presença de indícios de autoria delitiva, tendo em vista que, os relatos dão conta de uma discussão entre a vítima e o acusado, tendo o acusado, ao que tudo indica, ateado fogo na residência com a vítima dentro, causando-lhe perigo de vida.
+Diante disso, compreendo que a decisão de pronúncia demonstra a presença de indícios suficientes de autoria em relação ao recorrente, devendo a avaliação acerca de eventuais divergências de teses, bem como a valoração das provas existentes, ser realizada pelo juízo constitucionalmente competente para tanto, isto é, o conselho de sentença do tribunal do júri.
+Destaco, ainda, que a vedação do artigo 155 do Código de Processo Penal não afasta a possibilidade de o juiz utilizar as provas produzidas no inquérito policial para pronunciar ou condenar o réu, desde que não as utilize de forma exclusiva. A norma é expressa nesse sentido:
+ ..
+No caso, os elementos informativos colhidos na investigação foram corroborados na fase judicial, em especial pelo depoimento judicial das testemunhas Carlos e Natiele.
+Com efeito, diversamente do alegado pela defesa, a sentença de pronúncia não foi fundamentada apenas em testemunhos indiretos, tendo sido demonstrados indícios suficientes de autoria, sendo certo que as questões relacionadas ao mérito serão apresentadas em plenário e avaliadas pelos jurados.
+Gize-se que, nesta fase processual, não cabe a análise aprofundada da prova, limitando-se o Magistrado, única e exclusivamente, a proclamar admissível a acusação, deixando a cargo do Tribunal Popular o exame das teses defensivas.
+Com efeito, para que o Juiz profira uma decisão de pronúncia, é necessário, em primeiro lugar, que esteja convencido da materialidade do fato e da existência de indícios suficientes de autoria ou da participação do acusado no crime, conforme disposto no art. 413, do Código de Processo Penal.
+Verifica-se, pois, que diante da presença da materialidade e de indícios de autoria, repise-se, fundamentados na prova oral produzida na audiência de instrução, outro não poderia ser o desfecho, senão a pronúncia.
+Pacífico na doutrina e na jurisprudência que a decisão de pronúncia se refere apenas à admissibilidade da acusação e, portanto, seus pressupostos não podem ser equiparados àqueles necessários para a prolação de um juízo de mérito (STF, ARE 986.566 AgR; STJ, AgRg no AREsp 1.193.119/BA).
+Assim, à luz do artigo 5º, XXXVIII, "d", da Constituição Federal, caberá ao Conselho de Sentença, Juiz natural da causa, formar seu convencimento acerca da autoria imputada aos recorrentes, bem como sobre as teses apresentadas pela Defesa.
+O propósito da sentença de pronúncia não é a condenação, mas apenas concluir o juízo de admissibilidade da acusação (iudicium accusationis).
+Impossível, dessa forma, se falar em impronúncia porque esta somente tem lugar quando inexistente prova da materialidade ou de indícios suficientes de que a(s) pessoa(s) denunciada(s) seja(m) o(s) autor(es) do delito contra a vida, ou na hipótese de isenção de pena ou exclusão do crime, o que não ocorre no caso presente.
+Portanto, correta a sentença de pronúncia, diante da presença da prova da materialidade e indícios de autoria.
+O acórdão consignou que a sentença de pronúncia utilizou elementos produzidos tanto na fase policial quanto em Juízo capazes de apontar a autoria delitiva do paciente, devendo as versões do Ministério Público e da defesa ser apreciadas pelo Tribunal do Júri, órgão competente e soberano para o julgamento dos crimes contra a vida.
+O entendimento do Tribunal de Justiça está em consonância com a jurisprudência desta Corte Superior, no sentido de que a pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria, não dema ndando juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas serão dirimidas durante a segunda fase do procedimento do júri. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO, RESISTÊNCIA, DESOBEDIÊNCIA E DESACATO. DECISÃO DE PRONÚNCIA BASEADA EM ELEMENTOS COLHIDOS NA FASE INQUISITORIAL E NA FASE JUDICIAL. INDÍCIOS MÍNIMOS DE AUTORIA. REVISÃO DO ACÓRDÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. A decisão de pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se tão somente pelo exame da ocorrência do crime e de indícios de sua autoria.
+2. No caso, a pronúncia não se baseou somente na prova obtida na fase inquisitorial, mas também nas provas produzidas judicialmente, sobretudo na prova oral, inclusive no que diz respeito aos crimes conexos.
+3. A alteração do entendimento das instâncias ordinárias, de modo a despronunciar o acusado, demandaria ampla dilação probatória, incabível na via estreita do habeas corpus.
+4. Agravo regimental improvido.
+(AgRg no HC n. 848.629/RS, Sexta Turma, de minha relatoria, DJe de 3/10/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.
+HOMICÍDIO QUALIFICADO. LEGÍTIMA DEFESA . IMPOSSIBILIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+ ..
+5. A decisão de pronúncia é um juízo de admissibilidade, cabendo ao Tribunal do Júri a análise aprofundada das provas.
+6. A exclusão de qualificadoras só é possível se manifestamente improcedentes, o que não se verifica no caso.
+IV. Dispositivo e tese 7. Agravo regimental desprovido.
+(AgRg no REsp n. 2.143.622/AL, Quinta Turma Turma, relatora Ministra Daniela Teixeira, DJe de 2/10/2024.)
+Ademais, a revisão das premissas fáticas consideradas pelas instâncias antecedentes na formulação do juízo de admissibilidade da acusação demandaria reexame probatório incompatível com a estreita via cognitiva do habeas corpus.
+Diante de tais considerações, portanto, não se constata a existência de nenhuma flagrante ilegalidade passível de ser sanada pela concessão da ordem, ainda que de ofício.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
