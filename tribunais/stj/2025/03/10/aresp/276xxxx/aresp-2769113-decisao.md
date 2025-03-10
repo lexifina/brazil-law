@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por AUGUSTUS PASSAGENS E TURISMO LTDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea"a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19 de agosto de 2024.
+Concluso ao gabinete em: 20 de dezembro de 2024.
+Ação: TEKHELIUS PRESTAÇÃO DE SERVIÇOS LTDA. ajuizou tutela provisória de urgência de natureza cautelar contra a agravante, alegando que ela, responsável pela intermediação de locação de veículos, quitou valores devidos à locadora Movida por acidente causado por preposto da autora, emitindo duplicata e protestando-a, o que a autora considerou indevido. Requereu a sustação do protesto e a declaração de inexigibilidade do título, além de indenização por danos morais.
+Sentença: julgou procedentes os pedidos, determinando a sustação definitiva do protesto, declarando a inexigibilidade do débito e condenando a ré ao pagamento de R$ 10.000,00 (dez mil reais) por danos morais, além de custas e honorários advocatícios fixados em 15% sobre o valor da condenação.
+Acórdão: conheceu parcialmente do recurso e, na extensão, negou-lhe provimento, nos termos da seguinte ementa (e-STJ, fls. 340-341):
+APELAÇÃO CÍVEL. TUTELA PROVISÓRIA DE URGÊNCIA DE NATUREZA CAUTELAR REQUERIDA EM CARÁTER ANTECEDENTE. SENTENÇA DE PROCEDÊNCIA.
+RECURSO DO RÉU.
+QUESTÃO PRÉVIA. AUSÊNCIA DE DANOS MORAIS, REGULARIDADE DA COBRANÇA REGRESSIVA COM FUNDAMENTO NOS ARTIGOS 869 E 870 DO CÓDIGO CIVIL E PEDIDO DE DECLARAÇÃO DO DEVER DE RESSARCIMENTO. TESES NÃO FORMULADAS PERANTE O JUÍZO DE PRIMEIRO GRAU. INOVAÇÃO RECURSAL. ÓBICE AO CONHECIMENTO, SOB PENA DE VIOLAÇÃO AO PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO E DE INCORRER EM SUPRESSÃO DE INSTÂNCIA.
+MÉRITO.
+PEDIDO DE EXTINÇÃO DO FEITO. TESE DE NÃO OBSERVÂNCIA DO PRAZO PARA ADITAMENTO DA PETIÇÃO INICIAL, NOS MOLDES DO ARTIGO 303, § 2º DO CPC. INSUBSISTÊNCIA. PEDIDO DE "TUTELA PROVISÓRIA DE URGÊNCIA DE NATUREZA CAUTELAR REQUERIDA EM CARÁTER ANTECEDENTE" RECEBIDO COMO "PROCEDIMENTO DE TUTELA ANTECIPADA REQUERIDA EM CARÁTER ANTECEDENTE". DETERMINAÇÃO DE ADITAMENTO DA PETIÇÃO INICIAL NO PRAZO DE QUINZE DIAS, A CONTAR DA DECISÃO QUE DEFERIU A TUTELA PROVISÓRIA. PRAZO DECORRIDO "IN ALBIS". INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO PELA PARTE CONTRÁRIA. PRAZO PARA ADITAMENTO DA INICIAL. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA FIRMADO NO RESP 1.766.376/TO. TERMO INICIAL CONTADO DO TÉRMINO DO PRAZO PARA INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO PELA PARTE CONTRÁRIA. NECESSIDADE, ADEMAIS, DE INTIMAÇÃO ESPECÍFICA DA PARTE AUTORA. REQUISITOS NÃO VERIFICADOS NO CASO CONCRETO. POSTERIOR RETRATAÇÃO DO JUÍZO. ADITAMENTO DA PETIÇÃO INICIAL RECEBIDO.
+PLEITO DE MANUTENÇÃO DO PROTESTO CAMBIAL PROMOVIDO PELA AUTORA/RECORRENTE, RELATIVO A UMA DUPLICATA MERCANTIL EMITIDA UNILATERALMENTE COM FUNDAMENTO EM ALEGADO DIREITO DE REGRESSO REFERENTE A PREJUÍZOS DECORRENTES DE PARCERIA COMERCIAL ENTRE AS PARTES (ACIDENTE AUTOMOBILÍSTICO). DUPLICATA MERCANTIL, CARTULAR OU VIRTUAL, QUE, PARA FINS ESTRITAMENTE CAMBIÁRIOS, DEVE ESTAR VINCULADA A UMA NOTA FISCAL FATURA DE COMPRA E VENDA MERCANTIL OU PRESTAÇÃO DE SERVIÇOS. EMISSÃO DA DUPLICATA PAUTADA EM MERA PRETENSÃO RESSARCITÓRIA. INEXISTÊNCIA DE AJUSTE PRÉVIO ENTRE AS PARTES. OBRIGAÇÃO VOLUNTARIAMENTE ASSUMIDA PELA RECORRENTE. AUSÊNCIA DE RESPONSABILIDADE SOLIDÁRIA. RELAÇÃO ENTRE AS PARTES QUE NÃO SE AMOLDA ÀS HIPÓTESES DO ARTIGO 20 DA LEI N. 12.974/2014 E TAMPOUCO AO ARTIGO 346, III, DO CPC/2015. DUPLICATA SEM LASTRO COMERCIAL. PROTESTO INDEVIDO.
+PLEITO DE MINORAÇÃO DO "QUANTUM" INDENIZATÓRIO. NÃO ACOLHIMENTO. MONTANTE QUE DEVE SER FIXADO EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. CUNHO PUNITIVO E PEDAGÓGICO. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. VALOR FIXADO PELO JUÍZO DE ORIGEM DE ACORDO COM OS PATAMARES REITERADAMENTE ESTABELECIDOS POR ESTE COLEGIADO.
+"A fixação do quantum devido a título de indenização pelo abalo moral sofrido, deflui do prudente arbítrio do julgador, ao examinar determinadas circunstâncias relevantes existentes nos autos, não podendo ser fixado em cifras extremamente elevadas, que importem enriquecimento sem causa por parte do lesado, nem ser irrisório, a ponto de não servir de inibição ao lesante." (AC n. 2002.009481-7, de Lages, rel. Des. Sérgio Roberto Baasch Luz, j. em 17/06/2004).
+HONORÁRIOS RECURSAIS. DESACOLHIMENTO DO RECURSO QUE AUTORIZA A MAJORAÇÃO DA VERBA HONORÁRIA ESTIPULADA EM SENTENÇA. INCIDÊNCIA DA REGRA DO ARTIGO 85, § 11, DO CPC.
+RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação aos artigos 304, 346, III, 869 e 870 do Código Civil, sustentando que houve sub-rogação e gestão de negócios, e que a decisão do Tribunal de origem não enfrentou adequadamente essas questões. Alega que a cobrança regressiva é legítima, pois a agência de turismo pagou a dívida em favor da autora, sub-rogando-se no crédito. Requer, assim, o conhecimento e provimento do recurso especial, para declarar a responsabilidade da Recorrida ao ressarcimento do valor que lhe aproveitou.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/SC quanto à inovação recursal no que tange à alegada violação dos arts. 869 e 870 do Código Civil, bem como quanto ao fundamento de que a existência do débito era incerto, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 304, 869 e 870 do Código Civil, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, 3ª Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, 4ª Turma, DJe de 2/5/2024.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à regularidade do protesto e à responsabilidade da agravada pelo ressarcimento dos valores despendidos pela agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 17% sobre o valor da condenação (e-STJ fls. 339) para 20%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TUTELA PROVISÓRIA DE URGÊNCIA DE NATUREZA CAUTELAR REQUERIDA EM CARÁTER ANTECEDENTE. SENTENÇA DE PROCEDÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Tutela provisória de urgência de natureza cautelar requerida em caráter antecedente.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial não conhecido.
