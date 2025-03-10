@@ -1,0 +1,15 @@
+DECISÃO
+O presente writ, impetrado em benefício de ROBERT KEVYN DA SILVA E SILVA (pronunciado pela suposta prática do delito descrito no art. 121, § 2º, II, c/c o art. 14, II, três vezes, ambos do CP) contra ato coator do Tribunal de Justiça do Espírito Santo (Recurso em Sentido Estrito n. 0001044-60.2021.8.08.0021), não tem cabimento.
+Busca a impetração, em breve síntese, o reconhecimento de nulidade da sentença de pronúncia exarada pelo Juízo da 1ª Vara Criminal da comarca de Guarapari/ES, alegando, para tanto, excesso de linguagem.
+Processado sem pedido liminar, depois das informações (fls. 498/519), o writ recebeu parecer desfavorável do Ministério Público Federal (fls. 536/540).
+É o relatório.
+Este writ foi impetrado em substituição ao recurso adequado a ser dirigido a esta Casa, ademais é nítido intento de subverter o sistema recursal, com violação do princípio da unirrecorribilidade.
+Com efeito, a violação do princípio da unirrecorribilidade não se restringe unicamente aos casos de tramitação simultânea de recursos e habeas corpus contra o mesmo ato. À exceção da interposição conjunta de recurso especial e extraordinário, que obedece a regramento próprio, verifica-se a ofensa ao referido princípio quando única decisão ou acórdão é impugnado por duas vias distintas  ..  (AgRg no HC n. 824.855/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/10/2024).
+Na espécie, de acordo com as informações do Tribunal de Justiça, houve a interposição de recurso especial contra o mesmo acórdão aqui atacado, o qual foi inadmitido na origem. Houve também a interposição de agravo, ainda não encaminhado ao STJ.
+Ao lado disso, inexiste constrangimento ilegal a ser reparado. Afinal, pela rápida leitura da pronúncia e do acórdão impugnado, percebe-se que Juiz e Corte estadual decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Afinal, não se cogita a presença de excesso de linguagem da pronúncia, ofensivo ao art. 413, § 1º, do CPP, quando as instâncias ordinárias não adentraram em juízo de certeza, apenas fundamentando-se na existência de prova da materialidade do crime e indícios suficientes de autoria, inclusive em resposta à tese contrária da defesa (AgRg no AREsp n. 2.369.413/RO, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/11/2023).
+Como expôs a Subprocuradora-Geral da República Sonia Maria de Assunção Macieira, não se vislumbra a existência de excesso de linguagem na decisão de pronúncia, pois apenas foram mencionados os elementos de prova justificadores dos indícios da autoria a autorizar o encaminhamento do acusado a julgamento pelo Tribunal do Júri, sem qualquer esboço de juízo de certeza acerca das provas (fl. 540).
+Considerando o parecer ministerial e a jurisprudência, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. SENTENÇA DE PRONÚNCIA. ALEGADO EXCESSO DE LINGUAGEM. DESVIRTUAMENTO DO USO DO WRIT. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Habeas corpus denegado.
