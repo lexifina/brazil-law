@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ADENILSON DE JESUS e VANESSA FERREIRA TAVARES DA CRUZ no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2389827-75.2024.8.26.0000).
+Depreende-se dos autos que foi decretada a prisão preventiva dos pacientes pela suposta prática do delito tipificado no art. 121, § 2º, I, III e IV, do Código Penal.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 27):
+PENAL PROCESSO PENAL HABEAS CORPUS HOMICÍDIO QUALIFICADO. 1. REVOGAÇÃO DA PRISÃO PREVENTIVA - PROVA DA EXISTÊNCIA DO CRIME E INDÍCIOS DE AUTORIA - DECISÃO FUNDAMENTADA. 2. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. 3. CONCESSÃO DE PRISÃO DOMICILIAR PARA A PACIENTE.
+1. Decisão que decreta prisão preventiva devidamente fundamentada, não conduz a constrangimento ilegal, em havendo prova da existência do crime e indício suficiente de autoria, a justificar a medida extrema, mas necessária, para garantia da ordem pública, conveniência da instrução criminal e garantia da aplicação da lei penal.
+2. As medidas cautelares diversas da prisão se mostram insuficientes ao caso.
+3. A Paciente não comprovou sua imprescindibilidade nos cuidados dos filhos menores, não havendo constrangimento ilegal a ser reparado.
+ORDEM DENEGADA.
+Neste writ, a defesa alega que o decreto prisional carece de fundamentação idônea, já que pautado em argumentos genéricos e na gravidade abstrata do delito, além de não estarem presentes os requisitos autorizadores da custódia, nos termos do art. 312 do CPP.
+Pontua que "o fato de estarem foragidos não podem subsidiar a manutenção da prisão preventiva" (e-STJ fl. 16).
+Destaca as condições pessoais favoráveis dos agentes e afirma ser suficiente a aplicação de outras medidas cautelares, consoante o disposto o art. 319 do citado diploma processual.
+Ressalta que a paciente Vanessa faz jus à prisão domiciliar, por possuir três filhos, com 12, 10 e 8 anos de idade, respectivamente.
+Dessa forma, requer (e-STJ fls. 24/25):
+a) LIMINARMENTE, que seja garantida a liberdade dos pacientes, ainda com a imposição de medidas cautelares diversas da prisão, até o julgamento definitivo desse writ, pois é patente o constrangimento ilegal; ou alternativamente, a concessão liminar da prisão domiciliar à paciente Vanessa;
+b) NO MÉRITO, a concessão da ordem de habeas corpus para que esse col. Tribunal substitua a prisão preventiva dos pacientes por medidas cautelares alternativas previstas no artigo 319, do CPP, ou, alternativamente, a prisão domiciliar em favor da paciente Vanessa.
+É o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 31/32, grifei):
+Mostra-se de rigor a decretação da prisão preventiva dos acusados ADENILSON DE JESUS e VANESSA FERREIRA TAVARES DA CRUZ, por dois motivos. Primeiro, porque os réus cometeram, em princípio, fato gravíssimo, considerado hediondo (aliás, o mais grave do Código Penal, já que visa garantir a inviolabilidade do direito à vida, garantia constitucional Const. Federal, art. 5º, "caput"). Não se pode ignorar que o autor de fatos dessa natureza demonstra, com a sua conduta, personalidade totalmente contrária aos preceitos morais, reveladora de absoluto descaso para com a vida alheia; em especial no caso vertente, considerando-se a conduta concretamente praticada, levada a cabo mediante torpeza e crueldade incomuns, além de perpetrada na presença da mulher do ofendido. Ademais, os delitos praticados mediante violência ou grave ameaça à pessoa estão, na atualidade, causando acentuada intranquilidade social, exigindo, portanto, rigoroso combate, resgatando-se, em benefício da sociedade ordeira, bem assim da vítima e/ou seus de familiares, a paz social. Os cidadãos de Ribeirão Preto não estão alheios à criminalidade avassaladora de início apontada; ao contrário, nossa cidade apresenta expressivo quadro de criminalidade, mormente delitos contra a vida. Assim, deixar em liberdade pessoa que cometeu fato hediondo, como, em tese, os acusados em questão, constitui afronta aos interesses da sociedade, aumentando ainda mais a insegurança geral, além de desacreditar a Justiça na comunidade local, incentivando, por conseguinte, o cometimento de infrações penais graves
+ ..
+Em síntese: imperiosa a decretação da prisão cautelar dos acusados, como garantia da ordem pública. Segundo, porque, caso não sejam presos imediatamente, certamente os réus tomarão rumo ignorado, em face do grave fato que lhes atribuídos, cuja conduta impedirá a entrega da prestação jurisdicional, em face da regra inserta no artigo 366 do Código de Processo Penal. Ou seja, a decretação da prisão preventiva revela-se necessária não só para garantia da ordem pública, conforme explicitado acima, mas também por conveniência da instrução criminal e para assegurar eventual aplicação da lei penal. É de observar-se, de outra parte, que há nos autos prova da existência de crime, doloso e punido com pena privativa de liberdade máxima superior a 4 (quatro) anos, suficientes indícios de autoria por parte dos réus e perigo concreto à sociedade, caso permaneçam em liberdade. Presentes, pois, todos os requisitos exigidos pelos artigos 312 e 313 do Estatuto Processual Penal. Além disso, considerando-se a gravidade do ato praticado, concretamente considerada, bem assim a concreta possibilidade de fuga do distrito da culpa, revela-se incabível, no caso vertente, a substituição da prisão preventiva em comento por outra medida cautelar (Cód. de Proc. Penal, art. 282, 6º), porque insuficiente para impedir que os acusados voltem a delinquir ou tomar rumo ignorado, impedindo ou dificultando sobremaneira a entrega da prestação jurisdicional. Imprescindível, então, diante desse quadro, a decretação da prisão preventiva dos acusados, como garantia da ordem pública, por conveniência da instrução criminal e para assegurar eventual aplicação da lei penal.
+Posto isso, DECRETO a PRISÃO PREVENTIVA dos réus ADENILSON DE JESUS e VANESSA FERREIRA TAVARES DA CRUZ, com fundamento nos artigos 312 e 313 do Código de Processo Penal, como garantia da ordem pública, por conveniência da instrução criminal e para assegurar eventual aplicação da lei penal.
+Em consulta ao endereço eletrônico do Tribunal de Justiça, em 20/2/2025, foi indeferido o pedido de interrogatório virtual dos pacientes. Para tanto, o MM Juiz destacou que, in verbis:
+Com efeito, decretada a prisão preventiva dos acusados e ainda em vigência, encontram-se eles foragidos há mais de dois meses, não lhes sendo lícito, portanto, participarem da audiência de forma virtual, como pretendem.
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, consistente, em tese, na prática do delito de homicídio triplamente qualificado por motivo torpe, com emprego de meio cruel e mediante recurso que dificultou a defesa da vítima.
+Consta do decreto prisional que o crime teria sido praticado na presença da esposa do ofendido.
+Além disso, o mandado de prisão encontra-se em aberto, pois os acusados estão em local incerto e não sabido.
+Tais circunstâncias evidenciam a gravidade concreta das condutas e demonstram, por ora, a necessidade das segregações como forma de acautelar a ordem pública, bem como para garantir a aplicação da lei penal e a instrução criminal.
+Nesse mesmo sentido, guardadas as devidas peculiaridades:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO. AUSÊNCIA DE ILEGALIDADE. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NA HIPÓTESE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Hipótese em que as instâncias ordinárias apresentaram fundamentação idônea para a imposição da prisão cautelar do agravante como forma de resguardar a ordem pública  ..
+2. Ademais, (a)s instâncias ordinárias classificaram o réu como foragido, o que reforça a necessidade da cautela para garantir a aplicação da lei penal (AgRg no HC n. 904.633/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+3. Tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+4. Agravo regimental não provido. (AgRg no HC n. 952.172/PE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL RECURSO NO HABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI. AGRAVANTE FORAGIDO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+2. No caso, a custódia cautelar está fundamentada na gravidade concreta do delito, tendo em vista a suposta prática de homicídio qualificado por motivo fútil, com recurso que dificultou a defesa da vítima.
+3. Além disso, a prisão é necessária para garantir a aplicação da lei penal, considerando as informações de que o agravante teria fugido do local do crime e de que atualmente se encontra foragido.
+ ..
+6. Agravo regimental improvido. (AgRg no RHC n. 203.236/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE HOMICÍDIO DOLOSO QUALIFICADO, PORTE ILEGAL DE ARMA DE FOGO E PORTE DE DROGAS PARA CONSUMO PESSOAL. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA NÃO VERIFICADA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. RÉU FORAGIDO. GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+4. No caso, a prisão preventiva foi mantida pelo Tribunal estadual por entender ser necessária a medida para garantir a ordem pública, para conveniência da instrução processual e assegurar a aplicação da lei penal, enfatizando que o acusado encontra-se foragido.
+Portanto, mostra-se legítimo, no caso, o decreto de prisão preventiva, uma vez ter demonstrado, com base em dados empíricos, ajustados aos requisitos do art. 312 do Código de Processo Penal.
+5. Agravo regimental a que se nega provimento. (AgRg no HC n. 971.169/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025, DJEN de 19/2/2025.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Ao ensejo:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública, notadamente porque os acusados estão foragidos.
+Confira-se:
+DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA PRISÃO. GRAVIDADE CONCRETA DO DELITO. RISCO À APLICAÇÃO DA LEI PENAL. RECORRENTE FORAGIDO. FUNDAMENTAÇÃO IDÔNEA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. RECURSO DESPROVIDO.
+ ..
+6.Medidas cautelares diversas da prisão se mostram inadequadas e insuficientes, diante da gravidade do delito e do comportamento do paciente, que se manteve foragido durante toda a instrução processual.
+IV. DISPOSITIVO
+7.Recurso em habeas corpus desprovido. (RHC n. 200.922/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJEN de 12/12/2024.)
+Por fim, quanto ao pleito de concessão da prisão domiciliar em relação à paciente Vanessa, o colegiado estadual assim se manifestou (e-STJ fl. 33):
+Com relação ao pedido de prisão domiciliar para a Paciente VANESSA, também, não merece melhor sorte, embora alegue ter 3 filhos menores de 12 anos de idade incompletos, não comprovou sua imprescindibilidade nos cuidados deles.
+E nos termos do Parecer da d. Procuradoria Geral de Justiça:
+".. Relevante consignar, por oportuno, que para a concessão da prisão domiciliar, com fundamento nos incisos III e VI do art. 318 do Código de Processo Penal, não basta a prova de parentesco, sendo necessária a comprovação de que há um vínculo de dependência entre o necessitado e o preso, por ser esta a única pessoa capaz de cuidar dele. Havendo outros familiares que possam assumir os cuidados da criança, não se deve permitir a medida .." (fls. 257).
+Nos termos do art.318-A, I, do CPP:
+A prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que:
+I - não tenha cometido crime com violência ou grave ameaça a pessoa  ..
+No caso, o delito imputado à paciente envolve violência contra pessoa, razão pela qual não cabe a concessão da prisão domiciliar.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONDENAÇÃO POR HOMICÍDIO QUALIFICADO. PRISÃO DOMICILIAR. MÃE DE CRIANÇAS MENORES DE 12 ANOS DE IDADE. IMPOSSIBILIDADE. CRIME COMETIDO COM VIOLÊNCIA OU GRAVE AMEAÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento adotado pelo Tribunal de origem adequa-se às situações excepcionais que justificam o indeferimento da prisão domiciliar, uma vez que a paciente foi condenada pela prática de homicídio qualificado, ou seja, crime cometido com violência à pessoa.
+2. Agravo regimental desprovido. (AgRg no HC n. 883.177/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ante todo o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
