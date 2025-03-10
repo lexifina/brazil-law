@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Walter Antonio Marques - condenado por tráfico de influência, usurpação de função pública e integrar organização criminosa a 12 anos, 6 meses e 20 dias de reclusão, e a 51 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 915/928 e 1.105/1.223), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena - na condenação proferida na Ação Penal n. 0001968-29.2017.8.26.0177 (fls. 74/453, Vara Única da comarca de Embu-Guaçu/SP), alterada em grau de apelação -, com:
+a) o afastamento da exasperação da pena-base ou, subsidiariamente, a aplicação da fração de 1/6 na primeira fase, sustentando que a fundamentação utilizada para majorar a pena-base dos crimes imputados ao paciente e à corré Ivanir foi idêntica, então, em prestígio à isonomia, a fração adotada na exasperação deve ser a mesma (fl. 11); e
+b) a aplicação da atenuante da confissão na fixação das penas, aduzindo que o interrogatório do paciente foi utilizado para fundamentar a autoria e a materialidade dos delitos (fls. 12/18).
+Sem pedido liminar.
+Entretanto, não se evidencia o alegado constrangimento ilegal, pois:
+a) não há ilegalidade na fundamentação da negativação dos vetores culpabilidade - que atuou com grande comprometimento com a testemunha Sérgio Fernandes e dolo intenso e manifesto no sentido de fazer tabula rasa das determinações judiciais, continuando a atuar livremente, junto aos assuntos da Municipalidade (fl. 376) - e conduta social - que se revelou danosa, ainda mais considerando que o denunciado era visto como pessoa autoritária, temida e poderosa no município (fl. 377) -, pois calcada em elementos concretos dos autos;
+b) a pretensão de alteração da fração de aumento na primeira fase para 1/6 não pode ser conhecida, pois é objeto de recurso especial interposto pelo ora paciente (REsp n. 2.177.953/SP), ainda não julgado, uma vez que a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato (AgRg no HC n. 919.252/SP, de minha relatoria, Sexta Turma, DJe 12/9/2024); e
+c) a pretensão de aplicação da atenuante da confissão não foi apreciada pela Corte estadual no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE INFLUÊNCIA, USURPAÇÃO DE FUNÇÃO PÚBLICA E INTEGRAR ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. PRIMEIRA FASE. NEGATIVAÇÃO DOS VETORES CULPABILIDADE E CONDUTA SOCIAL. ELEMENTOS CONCRETOS DOS AUTOS. POSSIBILIDADE. PRETENSÃO DE ALTERAÇÃO DA FRAÇÃO DE EXASPERAÇÃO. MATÉRIA OBJETO DE RECURSO ESPECIAL INTERPOSTO PELO PACIENTE. NÃO CONHECIMENTO. SEGUNDA FASE. ATENUANTE DA CONFISSÃO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
