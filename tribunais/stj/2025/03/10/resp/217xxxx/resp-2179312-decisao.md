@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no qual alega violação do art. 174 do Código Tributário Nacional - CTN e sustenta não ter ocorrido a prescrição da pretensão de redirecionamento de processo executivo fiscal.
+Sem contrarrazões da parte recorrida, o recurso foi admitido.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 212-213):
+Com efeito, verifica-se que a executada foi citada em 24/0212000 (fl.06) e Fazenda Estadual, por sua vez, só requereu a inclusão na lide dos sócios da devedora no dia 04 de abril de 2010 (fls. 153/155).
+Portanto, verifica-se o decurso de mais de 5 (cinco) anos entre a efetiva citação da empresa executada e o pedido de direcionamento da execução fiscal em face dos sócios, o que efetivamente revela a ocorrência da prescrição do crédito tributário em relação aos sócios da empresa, nos termos do art. 174 do Código Tributário Nacional.
+Interposto recurso especial, com a definição de tese em precedente qualificado, os autos retornaram ao órgão julgador para juízo de conformação, ocasião em que não houve retratação (fls. 241-242):
+No v. acórdão de fls. 187-189 (Voto nº 10028, DES. ISABEL COGAN) ficou decidido que a prescrição se operou em decorrência do lapso temporal de 10 anos entre a citação da empresa (no ano de 2000) e a solicitação do redirecionamento aos sócios (ano de 2010).
+No REsp em questão ficou decidido que "a decretação da prescrição para o redirecionamento impõe seja demonstrada a inércia da Fazenda Pública, no lustro que se segui à citação da empresa originalmente devedora ou ao ato inequívoco" indicador do intuito de inviabilizar a satisfação do crédito pelos sócios gerentes.
+Desta forma, não há modificações a serem feitas no v. acórdão, uma vez que houve demonstração de lapso de 10 anos sem atuação Estatal, recaindo no item III do Resp (inércia).
+Pois bem.
+A Primeira Seção deste Tribunal Superior, em 8 de maio de 2019, no julgamento do REsp 1.201.993/SP, repetitivo, definiu tese a respeito do prazo prescricional para o redirecionamento do processo executivo fiscal, segundo o qual o prazo de 5 anos para o redirecionamento da execução fiscal ao sócio-gerente deve ser contado da citação da pessoa jurídica, na hipótese em que o ato ilícito do art. 135, inc. III, do CTN for precedente a esse ato processual; todavia, se o ato ilícito for posterior à citação, o prazo prescricional se inicia a partir da "data da prática de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário" (tema 444).
+No caso dos autos, o acórdão recorrido revela parcial contrariedade à tese firmada pela Primeira Seção no precedente qualificado.
+De fato, se, à época, não foi praticado ato ilícito, nem ocorrida a dissolução irregular, não há como reconhecer a prescrição da pretensão de redirecionamento ao sócio; aliás, qualquer ato interrupto da prescrição da pretensão de cobrança contra a pessoa jurídica interrompe a prescrição contra o devedor solidário. Na situação, bastava ao juízo da execução, se o caso, o indeferimento do pedido de redirecionamento por ausência de hipótese legal autorizadora.
+No contexto, portanto, o recurso deve ser provido e o acórdão cassado, com o retorno dos autos ao juízo da execução para a retomada da tramitação do processo executivo, com nova análise do pedido de redirecionamento do processo executivo fiscal, à luz das provas dos autos e da tese firmada no REsp 1.201.993/SP.
+Ante o exposto, dou provimento recurso especial, casso o acórdão recorrido e determino o retorno dos autos à 2ª vara da Fazenda Pública da Comarca de São Bernardo do Campo, no Estado de São Paulo, para a retomada do processo executivo fiscal.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO A SÓCIO-GERENTE APÓS CINCO ANOS DA CITAÇÃO DA PESSOA JURÍDICA. ACÓRDÃO RECORRIDO PELA PRESCRIÇÃO. CONTRARIEDADE À TESE FIRMADA EM PRECEDENTE QUALIFICADO. RECURSO PROVIDO.
