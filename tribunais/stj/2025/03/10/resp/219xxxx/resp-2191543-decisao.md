@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE MEDICINA DO ESTADO DO RIO DE JANEIRO, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 126):
+ADMINISTRATIVO E TRIBUTÁRIO. EXECUÇÃO FISCAL. CREMERJ. ANUIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO LEGAL DOS INDÍCES DE ATUALIZAÇÃO MONETÁRIA (TAXA SELIC). VÍCIO INSANÁVEL. APELAÇÃO DESPROVIDA.
+1. Segundo se infere da CDA, cuida-se de cobrança de anuidades relativas aos exercícios de 2014 a 2017, com fundamento no artigo 16, alínea c, da Lei nº 3.268/57 e artigo 6º da Lei nº 12.514/11.
+2. Embora tenha sido observado o princípio da legalidade, uma vez que a CDA menciona o correto fundamento legal da dívida, verifica-se que o débito foi corrigido pela variação do INPC-IBGE, e não pela Taxa SELIC, que, como se sabe, é o índice oficial de correção monetária e juros aplicados a todos os créditos públicos federais, nos termos dos artigos 30 e 37-A da Lei nº 10.522/02.
+3. A Primeira Seção do STJ, ao apreciar o Resp.1.073.846/SP, Min. Luiz Fux, DJe de 18.12.2009, aplicando a sistemática dos recursos repetitivos, pacificou orientação no sentido de que "a Taxa SELIC é legítima como índice de correção monetária e de juros de mora, na atualização dos débitos tributários pagos em atraso, ex vi do disposto no artigo 13, da Lei 9.065/95".
+4. Do mesmo modo, o Supremo Tribunal Federal, nos autos do RE 582.461/SP, com repercussão geral reconhecida, julgado sob relatoria do Ministro Gilmar Mendes, consignou que a Taxa Selic se trata de índice oficial, motivo pelo qual sua aplicação não contraria qualquer preceito constitucional (RE 582.461, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 18/05/2011, REPERCUSSÃO GERAL - MÉRITO DJe-158 DIVULG 17-08-2011 PUBLIC 18-08-2011 EMENT VOL-02568-02 PP-00177).
+5. No caso em tela, consta na CDA índice diverso da Taxa SELIC para atualização do crédito, ou seja, em desacordo com o disposto no art. 202 do Código Tributário Nacional (CTN) e no art.2º, §5º, inciso IV, da Lei 6.830/80 (Lei de Execuções Fiscais - LEF), o que caracteriza vício insanável.
+6. Em casos assim, revela-se inviável a emenda ou a substituição da CDA, tendo-se em vista que o vício refere- se ao próprio lançamento do crédito. É de aplicar-se, na espécie, a orientação firmada pelo eg. Superior Tribunal de Justiça, sob o rito dos recursos repetitivos (REsp 1045472/BA, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 25/11/2009, D Je 18/12/2009).
+7. Apelação desprovida.
+Embargos de declaração rejeitados (e-STJ fls. 207/210).
+Em suas razões de recurso especial, a parte aponta a existência de dissenso pretoriano e a violação do art. 2º, § 8º, da Lei n. 6.830/1980. Argumenta, em suma, a possibilidade de readequação da Certidão de Dívida Ativa para correção do indexador da correção monetária, do INPC para a SELIC.
+Sem contrarrazões.
+Juízo de retratação negativo (e-STJ fls. 259/264).
+Recurso especial admitido (e-STJ fls. 276/277).
+Passo a decidir.
+A pretensão recursal merece prosperar.
+No caso, o Tribunal de origem assentou que a CDA presente nos autos é nula, não podendo ser, pois, emendada ou substituída, porquanto baseada em indexadores diversos dos legalmente previstos, fato a macular a regularidade do próprio ato administrativo de lançamento tributário.
+Ocorre que o acórdão regional recorrido está em desconformidade com a orientação jurisprudencial do Superior Tribunal de Justiça, a entender pela "possibilidade de alteração da CDA, desde que haja simples operação aritmética para expurgar a parcela indevida, como no presente caso, em que houve apenas a adequação no cálculo dos juros de mora (substituição para a Selic)" (AgInt no AREsp 1.254.709/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 31/08/2020, DJe de 04/09/2020).
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. TR. ILEGALIDADE. UTILIZAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA. DESNECESSIDADE DE ANULAÇÃO DA CDA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.
+1. A indicada afronta do art. 1º do Decreto-Lei 1.025/1969 e dos arts. 161, 202 e 203 do CTN não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O STJ preconiza, seguindo a orientação do Supremo Tribunal Federal na ADIN 493-0, pela inaplicabilidade da TR como índice de correção monetária dos créditos ou débitos tributários, por constituir taxa nominal de juros, devendo ser aplicado, na vigência da Lei 8.177/91, o INPC, e, a partir de janeiro/92, a UFIR. Incide a TR apenas como taxa de juros sobre débitos fiscais, mesmo após a modificação da Lei 8.177/91 pela Lei 8.218/91.
+3. O acórdão recorrido deve ser reformado para ser excluída da CDA a utilização da TR para fins de correção monetária do crédito tributário, contudo a substituição do índice de correção monetária constante da certidão de dívida ativa não induz à sua anulação, pois não afeta sua liquidez e certeza.
+4. Recurso Especial parcialmente conhecido e, nessa parte provido.
+(REsp 1.587.881/SP, Rel. MINISTRO HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/05/2016, DJe 31/05/2016).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para determinar o regular prosseguimento da execução fiscal, com a intimação da exequente, ora recorrente, para proceder à adequação da CDA, com a alteração do indexador utilizado na atualização do débito executado.
+Publique-se. Intimem-se.
+EMENTA
