@@ -1,0 +1,26 @@
+DECISÃO
+SILVIO RAMON FALCON, acusado por roubo circunstanciado, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que manteve sua custódia preventiva, a qual pretende ver revogada nesta oportunidade.
+O caso comporta o julgamento antecipado, visto que se adequa à pacífica orientação desta Corte sobre o tema, a qual é contrária a pretensão defensiva.
+De fato, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado,  ..  está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas" (AgRg no HC n. 736.796/SC, relator Min. Rogerio Schietti, DJe 16/5/2022).
+No caso, observa-se que o Magistrado de primeiro grau decretou a prisão preventiva, por meio de decisão assim fundamentada (fls. 17-18, destaquei):
+ ..
+O Parquet requereu que seja decretada a prisão preventiva do denunciado (fl. 99). Inteira razão lhe assiste. O presente feito trata de crime gravíssimo, punido com reclusão, cometido mediante violência física contra a vítima. Ademais, o denunciado encontra-se em local incerto e não sabido há anos. O temor psicológico causado na vítima pelo estado de liberdade do denunciado indubitavelmente fere a boa aplicação da instrução criminal. Há prova de materialidade do fato e indícios suficientes de autoria. Portanto, presentes os requisitos dos artigos 312 e 313 do Código de Processo Penal, expeça-se mandado de prisão preventiva, devendo a Autoridade Policial observar o teor do Comunicado CG nº 1474/2020, comunicando-se imediatamente este Juízo quando do cumprimento do mandado de prisão.
+Conforme a compreensão deste Superior Tribunal, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP. No caso, embora suscinta, a decisão constritiva logrou apontar suficientes as razões para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+Com efeito, o Juiz de direito destacou não só a gravidade concreta do delito, ao realçar o modus operandi empregado na ação delituosa, com o emprego de violência contra a vítima, situação apta a justificar a segregação cautelar. Nesse sentido:
+ ..
+5. No caso, a prisão preventiva foi decretada  ..  em razão da periculosidade do paciente, evidenciada pela gravidade concreta dos crimes, notadamente o excepcional modus operandi - crime violento praticado por quatro agentes com arma de fogo, em que teriam atingido de forma fatal uma das vítimas.  ..
+(AgRg no HC 631.424/PE, relator Ministro Reynaldo Soares da Fonseca, DJe 17/12/2020)
+ ..
+Segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a prisão preventiva, tendo como escopo o resguardo da ordem pública.
+(AgRg no RHC 131.158/PR, relator Ministro Ribeiro Dantas, DJe 23/11/2020, grifei)
+ ..
+O modus operandi empregado na prática delitiva autoriza a segregação processual, pois o Paciente, acompanhado de outros 3 (três) indivíduos, subtraiu violentamente bens das vítimas e disparou arma de fogo contra uma delas, causando-lhe traumatismo no crânio.
+(HC 598.476/PR, relatora Ministra Laurita Vaz, DJe 29/09/2020, destaquei)
+Além disso e não menos importante, é o destaque dado ao fato de que o paciente se encontra foragido. circunstâncias apta a justificar a cautela máxima. A jurisprudência desta Corte Superior entende que "a fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória" (AgRg no RHC n. 133.180/SP, Rel. Ministra Laurita Vaz, DJe 24/8/2021). E ainda:
+ ..  contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva e não ao momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal (AgR no HC n. 190.028, Ministra Rosa Weber, Primeira Turma, DJe 11/2/2021.)" (AgRg no HC n. 834.873/PR, Rel. Ministro Sebastião Reis Júnior, DJe 14/3/2024, grifei)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado. Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, relator Ministro Sebastião Reis Júnior, 6ª T., 22/9/2022).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem de habeas corpus, in limine.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
