@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEXANDRE MESSIAS DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.24.249418-5/000).
+Consta dos autos que o paciente foi denunciado pela prática do delito previsto no art. 180, caput, e no art. 311, § 2º, III, na forma do art. 69, todos do Código Penal. Consta que o paciente ostenta condição de foragido e, requerida sua participação em audiência, por videoconferência, o pedido foi negado. A defesa, irresignada, impetrou prévio writ (e-STJ fls. 11/14).
+No presente mandamus, a defesa sustenta, em síntese, que possível a participação do paciente  foragido  em audiência por meio de videoconferência.
+Assevera que a negativa de participação na audiência do modo pleiteado ofende o contraditório e a ampla defesa, causando evidente prejuízo ao paciente.
+Requer, liminarmente o afastamento de qualquer pretensão acerca de eventual revelia, garantindo ao Paciente, ALEXANDRE MESSIAS DA SILVA, o direito de participar da audiência instrutória, como consequência ANULANDO eventual audiência realizada sem a presença do mesmo, ou seu desmembramento no que tange a sua figura, tudo a fim de que este possa exercer o contraditório perante o juízo competente (e-STJ fl. 8). No mérito, que seja reconhecida a nulidade da decisão que decretou a revelia do paciente e afastou o direito de participar da audiência de instrução.
+É o relatório. Decido.
+De plano, verifico que o inteiro teor do acórdão impugnado não foi juntado, o que revela a deficiente instrução do writ. Como é cediço, "a ação de habeas corpus exige a apresentação de prova pré-constituída, incumbindo ao impetrante instruí-la suficiente e adequadamente, sob pena de inviabilizar a apreciação do constrangimento ilegal alegado" (AgRg no HC n. 799.608/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023).
+No mesmo sentido:
+RECURSO DE AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA NOS AUTOS DO INTEIRO TEOR DO ACÓRDÃO DE ORIGEM. COMPREENSÃO DA CONTROVÉRSIA IMPOSSIBILITADA. INSTRUÇÃO INICIAL DEFICIENTE E INADEQUADA DO WRIT. CONSTRANGIMENTO ILEGAL QUE NÃO PODE SER EVIDENCIADO. SÚMULA 182/STJ. AGRAVO DESPROVIDO. I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada. II - No caso concreto, como já decidido anteriormente, não existe nos autos sequer o respectivo inteiro teor do acórdão do eg. Tribunal de origem, indigitado de ato coator. III - Apesar da irresignação defensiva, o documento de fls. 21-22 consiste em uma simples ementa - o que não permite a exata compreensão da controvérsia, em razão da ausência de instrução adequada. IV - Assente nesta Corte Superior que, "Identificada a falta de juntada aos autos do acórdão da Corte Estadual que efetivamente abordou o mérito constante no presente habeas corpus, resta evidenciada instrução deficiente a impedir continuidade na análise do pleito liberatório" (AgInt no HC n. 388.816/MA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/6/2017). V - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior. Agravo regimental desprovido. (AgRg no HC n. 771.255/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. DESCLASSIFICAÇÃO PARA ROUBO. INSTRUÇÃO DEFICIENTE. PRETENSÃO REVISIONAL. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, em razão da ausência de cópia de eventual acórdão proferido pelo Tribunal de origem, peça imprescindível para análise do writ.
+2. A condenação transitou em julgado em 14/10/2011, e a utilização do habeas corpus para desconstituir decisões das instâncias ordinárias configura pretensão revisional, usurpando a competência do Tribunal de origem, conforme arts. 105, inciso I, alínea "e", e 108, inciso I, alínea "b", da Constituição da República.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível o conhecimento do habeas corpus, mesmo após o trânsito em julgado da condenação, e se a ausência de documentação essencial inviabiliza a análise do pedido.
+III. Razões de decidir
+4. A ausência de cópia do acórdão do Tribunal de origem inviabiliza o conhecimento do habeas corpus, pois a impetração deve ser fundamentada em prova pré-constituída.
+5. O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal após o trânsito em julgado, sob pena de usurpação da competência do Tribunal de origem.
+6. A preclusão da matéria e o respeito à coisa julgada impedem a análise de pedido de desclassificação de conduta após o trânsito em julgado, em observância ao princípio da segurança jurídica.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de documentação essencial inviabiliza o conhecimento do habeas corpus. 2. O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal após o trânsito em julgado. 3. A preclusão da matéria impede a análise de desclassificação de conduta após o trânsito em julgado, em respeito à coisa julgada e à segurança jurídica."
+Dispositivos relevantes citados: CR/1988, art. 105, I, "e"; art. 108, I, "b".Jurisprudência relevante citada: STJ, AgRg no HC 628.646/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 23/02/2021; STJ, AgRg no HC 738.138/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 06/03/2023.
+(AgRg no HC n. 953.536/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONTRABANDO. PENA ACESSÓRIA DE INABILITAÇÃO DO DIREITO DE DIRIGIR. INSTRUÇÃO DEFICIENTE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente a impetração substitutiva de recurso próprio diante da deficiente instrução do autos, que não vieram acompanhados do suposto ato coator.
+Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. É assente o dever de o impetrante instruir a petição de habeas corpus com os elementos imprescindíveis ao exame do alegado constrangimento ilegal, sob pena de não conhecimento. A juntada parcial do acórdão impugnado realizada após a interposição do recurso não supre a deficiente instrução do feito.
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 941.151/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. NULIDADE. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente o inteiro teor do acórdão hostilizado, não há como se conhecer do writ em razão de sua instrução deficiente.
+2. Ademais, "é inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto" (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022).
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 936.782/AC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
