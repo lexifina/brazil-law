@@ -1,0 +1,17 @@
+DECISÃO
+CRISTIANE DE SOUZA AUGUSTO alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no Habeas Corpus n. 5035216-54.2024.8.24.0000/SC.
+A defesa busca, em síntese, a declaração da nulidade da decisão do juízo de primeiro grau que deferiu a quebra de sigilo de dados telefônicos dos corréus. Requer, enfim, o trancamento da ação penal por ausência de justa causa.
+Interposto recurso no habeas corpus, o Ministério Público Federal manifestou-se pelo não provimento (fls. 77-80).
+Decido.
+O Tribunal a quo denegou o habeas corpus (fls. 39-47), em acórdão assim ementado:
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXTRAÇÃO DE DADOS DE APARELHOS TELEFÔNICOS APREENDIDOS. AUTORIZAÇÃO JUDICIAL. DECISÃO SUFICIENTEMENTE MOTIVADA. INEXISTÊNCIA DE ILEGALIDADE OU AFRONTA ÀS GARANTIAS CONSTITUCIONAIS DA INTIMIDADE E DA VIDA PRIVADA.
+1 Embora a privacidade e intimidade, consagradas universalmente nos países democráticos, constituam direitos fundamentais da personalidade e estão intimamente ligadas ao exercício pleno das liberdades individuais, na ordem constitucional não há direitos absolutos, cujo exercício seja juridicamente ilimitado, na medida em que podem ser necessárias limitações, observados os parâmetros constitucionais e legais, com o objetivo de salvaguardar o interesse social, a compatibilização das garantias e liberdades.
+2 Motivada a quebra do sigilo telefônico, inclusive com a especi cação da justi cativa e dos objetivos da medida, voltada à elucidação da atividade proscrita supostamente desenvolvida pelos acusados, não se pode falar em carência de fundamentação, tampouco em desvassa indiscriminada dos dados armazenados em aparelhos de telefonia celular, em prejuízo à garantia constitucional da intimidade (art. 5º, X, da Constituição Federal), senão daqueles de interesse probatório.
+3 "Nos termos do Marco Civil da Internet, bem como da jurisprudência desta Corte, "Apesar de o artigo 22, III, da Lei n. 12.965/2014 determinar que a requisição judicial de registro deve conter o período ao qual se referem, tal quesito só é necessário para o  uxo de comunicações, sendo inaplicável nos casos de dados já armazenados que devem ser obtidos para  ns de investigações criminais" (HC n. 587.732/RJ, relator Ministro Ne  Cordeiro, Sexta Turma, julgado em 20/10/2020, DJe de 26/10/2020)" (STJ, AgRg no RHC n. 182.391/SC, rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, j. em 11/12/2023).
+PEDIDO DE ORDEM CONHECIDO E DENEGADO.
+Verifico que o habeas corpus - e, por conseguinte, o recurso respectivo -, não veio acompanhado de nenhum documento essencial a fim de comprovar as alegações trazidas, tais como as peças relativas à investigação e as medidas judiciais correlatas questionadas, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima a recorrente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória, o que se estende ao recurso nele interposto.
+É cogente aos impetrantes - sobretudo quando se tratar de advogados constituídos - apresentarem elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado no writ.
+À vista do exposto, não conheço do recurso.
+Publique-se e intimem-se.
+EMENTA
