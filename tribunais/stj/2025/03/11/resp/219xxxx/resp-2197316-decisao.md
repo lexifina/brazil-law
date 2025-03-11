@@ -1,0 +1,67 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por AMELIA CARRENHO STEFANINI contra acórdão prolatado, por unanimidade, pela 12ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo em julgamento de apelação, assim ementado (fl. 1.394/1.402e):
+DESAPROPRIAÇÃO - Utilidade pública Município de m Tupã - Justa indenização fixada de acordo com laudo prévio elaborado por perito de confiança do Juízo - Princípio da contemporaneidade - Expropriante que não pode ser onerada pela instrução deficiente e demora no curso do processo - Valor da justa indenização que deverá corresponder ao valor de mercado do bem apurado à época da primeira avaliação judicial. JUROS MORATÓRIOS E COMPENSATÓRIOS - Indevidos, pois a imissão de posse ocorreu depois do depósito integral, que equivale a pagamento antecipado. SUCUMBÉNCIA - Honorários advocatícios elevados de 1% para 5%, sobre a diferença da oferta e a indenização - 3 Sentença alterada, nesse ponto - Recurso de apelação, pro- vido, em parte.
+Opostos Embargos de Declaração, foram rejeitados (fls. 1.417/1.420e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além do dissídio jurisprudencial, aponta-se a violação aos arts. 15-A, § 1º, do Decreto-lei n. 3.365/1941.
+Alega que, em sede de desapropriação por utilidade pública, foi realizado o depósito prévio de 20% (vinte por cento) em conta judicial.
+Destaca que o pedido foi julgado procedente, sem a condenação do Recorrido ao pagamento de juros moratórios ou compensatórios e, interposto apelação, o Tribunal de origem deu provimento apenas para majorar os honorários de sucumbência, mantidas as disposições quanto a não aplicação de juros moratórios ou compensatórios.
+Sustenta a incidência de juros compensatórios nos 20%, ainda que previamente à imissão na posse depositados, porque só liberados após o trânsito em julgado.
+Com contrarrazões (fls. 1.490/1.496), o recurso foi inadmitido (fls. 1.498/1.500e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 1.532e).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 1.538/1.539e).
+Feito breve relato, decido.
+Nos termos do art. 932, IV, do estatuto processual, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator poderá, mediante decisão monocrática, conceder ou negar provimento a recurso ou a pedido quando houver tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), entendimento firmado em incidente de assunção de competência (art. 947), súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+De início, o Plenário do Supremo Tribunal Federal, no julgamento do mérito da ADI 2.332, realizado em 17.5.2018, confirmou a orientação anteriormente proferida na Medida Cautelar de que o caput do art. 15-A do Decreto-Lei n. 3.365/1941 deve ser interpretado conforme a Constituição, de modo que os juros compensatórios devem incidir sobre a diferença entre 80% (oitenta por cento) do preço ofertado pelo expropriante e o valor fixado na sentença judicial.
+A interpretação parte da premissa de que o desapropriado fez o levantamento de 80% (oitenta por cento) do valor da oferta, razão pela qual os juros devem incidir sobre os 20% (vinte por cento) restantes indisponíveis de levantamento até o trânsito em julgado da ação expropriatória.
+No caso, as instâncias ordinárias atestam que seriam indevidos os juros compensatórios sobre os valores depositados, porquanto a imissão de posse ocorreu depois do depósito integral, que equivale a pagamento antecipado.
+Assim, a Expropriante depositou o valor parcial da indenização, de " ..  R$ 3 324.378,77 (trezentos e vinte e quatro mil, trezentos e setenta e oito reais e G m setenta e sete centavos); depois da elaboração do laudo que apurou o valor indenizatório total de R$ 460.650,64 (quatrocentos e sessenta mil, seiscentos e cinquenta reais e sessenta e quatro centavos), o Município procedeu ao depósito do valor complementar de R$ 226.843,83, em julho de 2011" (fls. 1.400/1.401e).
+Ademais, a " ..  imissão provisória na posse do imóvel ocorreu apenas em 15 de agosto de 2011 (fl. 198), ou seja, houve pagamento integral do valor indenizatório" (fl. 1.401e), disponibilizando, por conseguinte, o levantamento do valor de 80% ao expropriado, que não se efetivou por circunstâncias alheias a sua vontade.
+Portanto, não é possível a aplicação desses juros sobre a parcela disponibilizada ao expropriado (80%), tendo em conta a contraprestação pecuniária já ofertada pelo ente público em decorrência da perda antecipada da posse, tampouco sobre o totalidade da indenização fixada na sentença.
+De outro lado, é devida a incidência dos juros compensatórios quanto à parcela referente aos 20% da indenização impossível de levantamento de imediato pelo expropriado, que será disponibilizada somente após o trânsito em julgado da ação.
+A propósito:
+ADMINISTRATIVO. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS. BASE DE CÁLCULO. VALOR INDISPONÍVEL. FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. ACÓRDÃO DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. No caso dos autos, o Tribunal de origem dirimiu, fundamentadamente, as
+questões que lhe foram submetidas e apreciou integralmente a controvérsia
+posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao
+interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A jurisprudência do Superior Tribunal de Justiça trilha no sentido de que,
+ainda que tenha havido o depósito integral do valor da indenização, antes
+mesmo da imissão na posse, o expropriado somente poderá levantar 80% do
+referido montante, pelo que os juros compensatórios devem incidir sobre a
+parcela de 20% da indenização indisponível.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.188.279/PA, relator Ministro Sérgio Kukina, Primeira
+Turma, julgado em 27/3/2023, DJe de 3/4/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDÃO ADMINISTRATIVA. CONSTITUIÇÃO. CUMPRIMENTO DE SENTENÇA. DÉBITO. VALOR APRESENTADO PELO EXEQUENTE. PROCEDÊNCIA DO PEDIDO. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. JUROS E CORREÇÃO MONETÁRIA. BASE DE CÁLCULO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão
+que, nos autos da ação de constituição de servidão administrativa, em fase de cumprimento de sentença, determinou à parte agravante que apresentasse memória descritiva e atualizada de cálculo do débito, conforme os termos e parâmetros destacados na decisão agravada.
+II - No Tribunal a quo, a decisão foi parcialmente reformada para reconhecer
+que os valores utilizados pelo exequente/agravante, para a incidência dos juros compensatórios, da correção monetária e dos juros moratórios, estão
+escorreitos, bem como para reconhecer que a forma de incidência dos juros
+compensatórios está de acordo com o estipulado na sentença exequenda, pois calculado à taxa de 6% ao ano, a partir da imissão na posse, calculado sobre a diferença verificada entre 80% do preço ofertado em juízo e o valor do bem fixado na sentença. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação dos arts. 489 e 1.022, ambos do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - A respeito da apontada negativa de vigência aos arts. 489, §1º, I, IV e V, e 1.022, II e III, ambos do CPC/2015, não se vislumbra pertinência na alegação, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação da recorrente
+evidentemente limitada ao fato de estar diante de decisão contrária a seus
+interesses, o que não viabiliza o referido recurso declaratório.
+V - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da
+violação dos mencionados artigos processuais, conforme pacífica
+jurisprudência do Superior Tribunal de Justiça: (AgInt no REsp n. 1.643.573/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/11/2018, DJe 16/11/2018 e AgInt no REsp n. 1.719.870/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/9/2018, DJe 26/9/2018).
+VI - O aresto recorrido está em perfeita harmonia com a jurisprudência desta Corte Superior, no sentido de que a base de cálculo dos juros compensatórios nas ações de desapropriação deve ser a diferença entre os 80% do preço ofertado administrativamente e o valor do bem definido judicialmente para a indenização, na sentença.
+VII - Ainda que tenha havido o depósito integral do valor da indenização antes mesmo da imissão na posse, o expropriado poderá levantar somente 80% do referido valor, no que os juros compensatórios incidem sobre parcela de 20% da indenização indisponível. Confiram-se os seguintes julgados relacionados: (AgInt no AREsp n. 493.438/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/5/2019, DJe de 20/5/2019 e REsp n. 1.397.476/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/4/2015, DJe de 1/7/2015).
+VIII - A correção monetária incidente sobre o percentual de 80% não levantado pelo expropriado, por opção dele, em nada altera a base de cálculo dos juros compensatórios da indenização, a uma, por ausência de previsão legal para tanto e, a duas, porque, ainda que o recorrido tivesse realizado o levantamento de parte da indenização, provavelmente o valor correspondente estaria sendo corrigido monetariamente em outra instituição financeira.
+IX - Agravo interno improvido.
+(AgInt no AREsp n. 2.099.631/GO, relator Ministro Francisco Falcão,
+Segunda Turma, julgado em 10/10/2022, DJe de 13/10/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. IMISSÃO NA POSSE. AVALIAÇÃO PRÉVIA. DEPÓSITO COMPLEMENTAR. DISCREPÂNCIA ENTRE O VALOR OFERTADO INICIALMENTE E O APURADO NA PERÍCIA PROVISÓRIA. LEVANTAMENTO APENAS DA QUANTIA INCONTROVERSA. JUROS COMPENSATÓRIOS. BASE DE CÁLCULO.
+1. O Plenário do Supremo Tribunal Federal, no julgamento do mérito da ADI 2.332, realizado em 17/05/2018, confirmou a orientação anteriormente proferida na Medida Cautelar de que o caput do art. 15-A do Decreto-lei n. 3.365/1941 deve ser interpretado conforme a Constituição, de modo que os juros compensatórios devem incidir sobre a diferença entre 80% (oitenta por cento) do preço ofertado pelo expropriante e o valor fixado na sentença judicial.
+2. A interpretação parte da premissa de que o desapropriado fez o levantamento de 80% (oitenta por cento) do valor da oferta (somado aos depósitos complementares, caso havidos), razão pela qual os juros devem incidir sobre os 20% (vinte por cento) restantes indisponíveis de levantamento até o trânsito em julgado da ação expropriatória.
+3. Hipótese em que a expropriante depositou o valor integral da indenização fixada na sentença (oferta inicial somada aos depósitos complementares), antes mesmo da imissão provisória na posse, disponibilizando o levantamento parcial desse montante ao expropriado (80%), nos termos do art. 33, § 2º, do Decreto-lei n. 3.365/1941, que não se efetivou por circunstâncias alheias a sua vontade, notadamente porque o Juiz de primeiro grau entendeu necessário aguardar o julgamento do recurso de apelação interposto pela Concessionária, ora agravada.
+4. Se a impossibilidade de levantamento integral dos 80% (oitenta por cento) do valor apurado na perícia provisória decorreu de decisão judicial, pautada em critérios de prudência e cautela devido à discrepância entre o valor inicialmente ofertado e o encontrado pelo expert oficial, não há razão para condenar a parte expropriante ao pagamento de juros compensatórios sobre a parcela que disponibilizou ao expropriado, inclusive com rendimentos bancários, como contraprestação pela perda antecipada da posse.
+5. De outro lado, segundo a jurisprudência desta Corte de Justiça, ainda que tenha havido o depósito integral do valor da indenização, antes mesmo da imissão na posse, a legislação especial autoriza o expropriado a levantar somente 80% do referido montante, de modo que os juros compensatórios devem incidir sobre a parcela de 20% que permanece indisponível até o trânsito em julgado da sentença.
+6. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.294.323/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/5/2024, DJe de 27/5/2024.)
+Diante do exposto, é caso de reconhecer a possiblidade de incidência dos juros compensatórios somente sobre os 20% (vinte por cento) indisponíveis de levantamento pelo expropriado.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, § 4º, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para reformar o acórdão, a fim de reconhecer a possiblidade de incidência dos juros compensatórios somente sobre os 20% (vinte por cento) indisponíveis de levantamento pelo expropriado.
+Publique-se e intimem-se.
+EMENTA
