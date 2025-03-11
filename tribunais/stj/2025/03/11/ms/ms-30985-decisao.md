@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por Priscilla Celes Maciel de Lima contra ato atribuído ao Ministro de Estado da Pesca e Agricultura, consubstanciado na exigência de que ela não tivesse sido contratada nos últimos 24 meses para exercer função temporária na administração pública federal, nos termos do art. 9º, III, da Lei n. 8.745/1993.
+Segundo a inicial, a parte autora foi contratada como professora substituta na Universidade Federal Rural de Pernambuco, entre março de 2023 e setembro de 2024. Em seguida, participo u de processo seletivo simplificado promovido pelo Ministério da Pesca e Agricultura, regido pelo Edital n. 01/2024, concorrendo para a vaga de "ATCI Engenharia de Pesca ou Oceanografia/Oceanologia" (fl. 3), obtendo aprovação, mas que não logrou celebrar o contrato, em razão da exigência de que não tivesse realizado contratação nos últimos vinte e quatro meses, nos termos da Lei n. 8.745/1993.
+Presente esse cenário, busca no presente writ ordem judicial assecuratória do afastamento da referida exigência, porque seu pretérito vínculo se deu com ente diverso, nos termos da jurisprudência desta Corte, que transcreve na vestibular.
+A tutela liminar foi deferida pela Presidência (fls. 39/41), "para afastar a proibição de que o candidato contratado não poderá ter sido contratado nos últimos 24 meses, presente no edital convocatório".
+Nas informações, a autoridade impetrada sustenta sua ilegitimidade passiva, porque não cabe a ela a prática dos atos relativos à admissão de pessoal, e, em consectário, a incompetência do STJ para julgar a causa. No mérito, defende a higidez da conduta administrativa, ante a previsão estabelecida no art. 9º, III, da Lei n. 8.745/1993.
+O parecer do Ministério Público Federal, de lavra do eminente Subprocurador-Geral da República Eitel Santiago de Brito Pereira, vem pela concessão da ordem.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De partida, deve-se averbar a competência deste Tribunal Superior, nos termos do art. 105, I, b, da CF, porque subjetivamente pertinente a autoridade impetrada à lide, pois o ato vergastado é de sua autoria (Edital n. 003/2024 - fls. 13/14). A exigência impeditiva da contratação, cujos efeitos a parte autora busca afastar, consta expressamente no referido edital, assinado pelo Ministro de Estado ora impetrado.
+Quanto ao mérito, a jurispru dência deste Sodalício se encontra firmada no sentido da possibilidade de nova contratação temporária, sob o regime da Lei n. 8.745/1993, se para órgão ou ente distinto. Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. CONTRATAÇÃO TEMPORÁRIA. OBSERVÂNCIA DO INTERSTÍCIO ENTRE A CONTRATAÇÃO ANTERIOR E OUTRA. DESENQUADRAMENTO. CASO CONCRETO. EXCEÇÕES LEGAIS. IMPOSSIBILIDADE DE CONTRATAÇÃO. CONSTITUCIONALIDADE DO PRECEITO LEGAL. RE 635.648/CE. REPERCUSSÃO GERAL. TESE DE DESRESPEITO À CLÁUSULA DE RESERVA DE PLENÁRIO. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+ ..
+3. "É compatível com a Constituição Federal a previsão legal que exija o transcurso de 24 (vinte e quatro) meses, contados do término do contrato, antes de nova admissão de professor temporário anteriormente contratado". Inteligência do RE 635.648/CE, relator o Em. Ministro Edson Fachin, julgado sob a sistemática da repercussão geral.
+4. Não se insere nessa regra a contratação feita com distinção de órgãos públicos contratantes.
+5. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 1.284.624/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/6/2019, DJe de 18/6/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO TEMPORÁRIO. NOVA CONTRATAÇÃO. VEDAÇÃO. CARGO E ÓRGÃO DIVERSOS. SÚMULA 83 DO STJ.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O art. 9º, III, da Lei n. 8.745/1993 não admite a celebração de novo contrato temporário antes de decorridos 24 meses do encerramento do anterior, vedação que não alcança a hipótese em apreço, tendo em vista que se trata de novel vínculo firmado com órgão público diverso do anterior.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 475.263/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/9/2017, DJe de 6/12/2017.)
+ADMINISTRATIVO. SERVIÇO PÚBLICO. CONTRATAÇÃO TEMPORÁRIA. ART. 9º, III, DA LEI N. 8.745/1993. VEDAÇÃO PARA NOVA CONTRATAÇÃO APENAS, NA MESMA ATIVIDADE, A QUEM TENHA MANTIDO CONTRATO DE IGUAL NATUREZA HÁ MENOS DE 24 MESES.
+1. A vedação prevista no art. 9o, III, da Lei n. 8.745/1993, que proíbe nova contratação temporária do servidor, antes de decorridos 24 meses do encerramento do contrato anterior celebrado com apoio na mesma lei, deve ser interpretada restritivamente, de acordo com a finalidade para qual foi criada, ou seja, impedir a continuidade do servidor temporário no exercício de funções públicas permanentes, em burla ao princípio constitucional que estabelece o concurso público como regra para a investidura em cargos públicos.
+2. Na hipótese de contratação de servidor temporário para outra função pública, por outro órgão, sem relação de dependência com aquele que o contratara anteriormente, precedida por processo seletivo equiparável a concurso público, não se aplica a vedação do art. 9º, inciso III, da Lei n. 8.745/1993, por referir-se a cargo distinto do que foi ocupado anteriormente.
+Recurso especial improvido.
+(REsp n. 1.433.037/DF, relator Ministro Humberto Martins, Segunda Turma, julgado em 25/2/2014, DJe de 12/3/2014.)
+No caso dos autos, é incontroverso que a contratação anterior se deu com ente diverso - a Universidade Federal Rural de Pernambuco -, o que afasta o impedimento ao novo pacto, agora a ser celebrado com a União, por meio do Ministério da Pesca e da Agricultura.
+ANTE O EXPOSTO, concedo a segurança, em ordem a afastar a proibição, no caso concreto, de que a impetrante não tenha sido contratada nos anteriores 24 meses, se relativa a órgão ou ente diverso presente no edital de convocação.
+Custas pela parte impetrante, ficando a execução suspensa, conforme art. 98, § 3º, do CPC.
+Sem honorários adv ocatícios, nos termos do art. 25 da Lei n. 12.016/2009 e da Súmula n. 105/STJ.
+Intimem-se.
+EMENTA
