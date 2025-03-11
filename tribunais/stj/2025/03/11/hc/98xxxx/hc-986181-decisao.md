@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Josiel Cardoso de Souza - condenado por homicídio qualificado a 13 anos e 20 dias de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 9/21), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena - na condenação proferida na Ação Penal n. 5020709-30.2020.8.21.0027 (fls. 48/50, da 1ª Vara Criminal da comarca de Santa Maria/RS), alterada em grau de apelação -, com a alteração da fração de participação de menor importância para 1/3, alegando que a participação do paciente se resumiu a servir de motorista do veículo utilizado para conduzir o executor até o local do fato, não participando diretamente do homicídio (fls. 6/7).
+Inicialmente, tem-se que não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a modificação da conclusão do acórdão hostilizado acerca da utilização da fração de 1/6 para a causa de diminuição de pena da participação de menor importância - fundamentada no fato de que a conduta do réu, embora reconhecido que contribuiu para a produção do resultado de forma menos enfática, foi, ao mesmo tempo, substancial para a ocorrência do crime gravíssimo (tendo contribuído no ato de executar a vítima) e não ínfima ou totalmente irrelevante (fl. 20) - demandaria reexame probatório, inviável na via eleita (AgRg no HC n. 865.449/SC, Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, DJe 26/6/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS IMPETRADO NO PRAZO RECURSAL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. HOMICÍDIO QUALIFICADO. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
