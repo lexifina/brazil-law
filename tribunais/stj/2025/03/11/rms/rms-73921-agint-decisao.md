@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interno interposto por Fábio de Sousa Santos contra a decisão à fl. 656, mediante a qual a Presidência desta Corte não conheceu de recurso ordinário em mandado de segurança tido por intempestivo, pois "a parte recorrente foi intimada do acórdão recorrido em 24/01/2024, sendo o recurso em mandado de segurança interposto somente em 21/02/2024".
+Nas razões do agravo interno, fls. 661/671, o agravante defende a tempestividade da interposição, ao argumento de que "o Tribunal de Justiça do Estado da Bahia publicou o Decreto Judiciário nº 16, de 10 de janeiro de 2024, dispondo que nos dias 08, 09, 12, 13 e 14 de fevereiro de 2024 não haveria expediente forense" (fl. 665). Alega também que "o §6º, do art. 1.003, do CPC, prescreve outra imposição normativa que não aquela reproduzida no decisum, qual seja: que, se o recorrente, na interposição do recurso, não comprovar que houve feriado local, "o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico""(fl. 666), razões pelas quais requer a reforma do juízo negativo de admissibilidade.
+Agravo tempestivo.
+Representação regular (fl. 17).
+Custas recolhidas (fl. 511).
+É o relatório. Passo à fundamentação.
+Como relatado, insurge-se o agravante contra o juízo negativo de admissibilidade do recurso ordinário em mandado de segurança efetuado pela Presidência desta Corte, em razão da tardia apresentação do apelo, sem oportuna comprovação de feriado local.
+A irresignação, hoje, merece acolhimento.
+Com efeito, a decisão agravada se achou ancorada na agora superada jurisprudência deste STJ, cujo entendimento era o de que, não se tratando de feriados nacionais, como, no caso, aqueles que antecedem ou se seguem ao feriado da terça-feira de carnaval, eventual suspensão do expediente forense na origem deveria ser comprovada no momento da interposição do recurso, não se revelando possível a tardia regularização do feito.
+Essa tese, repita-se, recentemente repensada, encontrou eco em antigos julgados, como, dentre outros tantos, o seguinte acórdão:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. IPTU. RECURSO INTEMPESTIVO. AUSÊNCIA DE DEMONSTRAÇÃO DA SUSPENSÃO DO EXPEDIENTE FORENSE NO TRIBUNAL DE ORIGEM. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, quando do julgamento do REsp 1.813.684/SP e da Questão de Ordem que lhe seguiu, reafirmou o entendimento de que o feriado local deve ser comprovado no ato da interposição do recurso correspondente, devendo ser observada, exclusivamente acerca do feriado da segunda-feira de carnaval, a modulação dos efeitos dessa decisão, nos termos do art. 927, § 3º, do CPC, a fim de que a interpretação consolidada acerca do tema seja aplicada somente após a publicação do acórdão respectivo, ocorrida, na hipótese vertente, em 18/11/2019.
+2. Segundo entendimento do Superior Tribunal de Justiça, o Dia do Servidor Público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a Sexta-Feira da Paixão e também o Dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.633.138/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 16/12/2024).
+Todavia, em razão da alteração legislativa promovida pela Lei n. 14.939, de 30 de julho de 2024, na redação do art. 1.003, § 6º, do CPC (para permitir comprovação posterior de feriados locais), deliberou a Corte Especial do STJ, por apertada maioria na sessão de 05 de fevereiro de 2025, pela aplicação da novel norma processual aos feitos em curso, ainda que abarcando recursos interpostos contra decisões publicadas antes da sua vigência. Essa orientação foi firmada na QO no AREsp 2.638.376/MG, rel. Min. Antônio Carlos Ferreira, acórdão pendente de publicação.
+Assim, merece reparo o juízo negativo de admissibilidade recursal efetuado pela Presidência do STJ, ora reexaminado em sede de agravo interno.
+ANTE O EXPOSTO, com fundamento nos arts. 1.021, § 2º, do CPC e 34, XVIII, "c", do RISTJ, dou provimento ao agravo interno para, em juízo de retratação, tornar sem efeito a decisão de fl. 656.
+Publicada a presente decisão, voltem-me conclusos os autos, para novo exame.
+Publique-se.
+EMENTA
