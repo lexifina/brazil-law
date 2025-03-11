@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por MÁRCIO ANSELMO RIBEIRO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fls.548):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO DE SEGURO DE VIDA EM GRUPO. SENTENÇA DE PROCEDÊNCIA. RECURSO DA SEGURADORA DEMANDANDA. 1 . ALMEJADO AFASTAMENTO DA CONDENAÇÃO AO PAGAMENTO DA INDENIZAÇÃO SECURITÁRIA. PLEITO ACOLHIDO. INCAPACIDADE DECORRENTE DE DOENÇA. NÃO CONSTATADA A PERDA DA AUTONOMIA DO SEGURADO PARA REALIZAÇÃO DE ATIVIDADES DIÁRIAS HABITUAIS (EXISTÊNCIA INDEPENDENTE). SITUAÇÃO QUE NÃO CONFIGURA NENHUMA DAS HIPÓTESES DE COBERTURA PREVISTAS NA APÓLICE - INVALIDEZ PERMANENTE POR ACIDENTE (IPA) E INVALIDEZ FUNCIONAL PERMANENTE E TOTAL POR DOENÇA (IFPD). INTERPRETAÇÃO RESTRITIVA DO CONTRATO QUE NÃO AFRONTA AS NORMAS DO CÓDIGO DE DEFESA DO CONSUMIDOR, BEM COMO OBSERVA A TEMÁTICA 1068 DO STJ. SENTENÇA REFORMADA. 2. ÔNUS SUCUMBENCIAIS READEQUADOS. 3. HONORÁRIOS RECURSAIS INDEVIDOS. 4 . RECURSO CONHECIDO E PROVIDO. 5. APELO ADESIVO, EM CONSEQUÊNCIA, PREJUDICADO.
+Rejeitados os embargos de declaração opostos (fls. 583-587).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489, § 1º IV e 1.022 I, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, especialmente acerca de cláusula específica do contrato de seguro.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigo 51, IV, do Código de Defesa do Consumidor, pois sustenta que a cláusula contratual que exige uma pontuação elevada para a concessão da indenização por invalidez é abusiva, na medida em que impõe uma condição praticamente inalcançável, configurando-se um bis in idem, já que o segurado paga por duas coberturas, mas só pode receber uma (fls. 611-612).
+Foram oferecidas contrarrazões ao recurso especial (fls. 623-628).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 631-634), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 649-658).
+É, no essencial, o relatório.
+Inicialmente, verifica-se que o Tribunal a quo negou seguimento ao recurso especial do agravante, nos termos do art. 1.030, inciso I, alínea "b", do CPC/2015, em razão da aplicação do entendimento firmado no REsp n. 1.845.943/SP (Tema 1.068/STJ).
+Nessa esteira, destaca-se que a Terceira Turma deste Superior Tribunal, no julgamento do AREsp n. 959.991/RS, relator Ministro Marco Aurélio Bellizze, em 16/8/2016, assentou que, quando a Corte de origem inadmitir o recurso especial com base em recurso repetitivo, a interposição de agravo em recurso especial constituirá erro grosseiro.
+Observa-se, ainda, que a decisão de admissibilidade do recurso especial foi publicada quando já se encontrava em vigor o Código de Processo Civil de 2015, o qual prevê, em seu artigo 1.030, § 2º, que, uma vez negado seguimento ao recurso especial na instância de origem ante a conformidade do entendimento exarado pelo acórdão recorrido com aquele firmado em julgamento repetitivo por esta Corte Superior, a irresignação da parte deve se dar por meio de agravo interno, previsto no art. 1.021 do CPC/2015.
+Contudo, percebe-se que, em face da decisão que inadmitiu o recurso especial com base no art. 1.030, inciso I, alínea "b", do CPC/2015, foi interposto agravo em recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. FUNDAMENTO. TESE REPETITIVA. DECISÃO DE ADMISSIBILIDADE. RECURSO CABÍVEL. AGRAVO INTERNO. INTERPOSIÇÃO. AUSÊNCIA. ERRO GROSSEIRO. CONFIGURAÇÃO. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA Nº 182/STJ. MULTA. ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE.
+1. Nos termos da jurisprudência desta Corte, se o recurso especial teve seu seguimento negado na origem com base no artigo 1.030, inc.I, alínea "b" ou no artigo 1.040, inc. I, do Código de Processo Civil, o recurso cabível seria o agravo interno de que trata do § 2º do dispositivo legal em comento.
+2. A interposição de agravo em recurso especial, nesses casos, caracteriza-se como erro grosseiro.
+3. Constatada a ausência de impugnação, nas razões do agravo em recurso especial, dos fundamentos da decisão atacada, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+4. O Superior Tribunal de Justiça firmou entendimento no sentido de que a aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.5. Indispensável que o agravo interno se mostre manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.651.621/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+Na hipótese, portanto, como a decisão agravada foi publicada já na vigência do atual Código de Processo Civil, fica inviabilizada a aplicação do princípio da fungibilidade, uma vez que não há dúvidas objetivas acerca do recurso cabível.
+Dess arte, mostra-se cristalino que o presente recurso não merece conhecimento, por ser inadmissível a interposição de agravo em recurso especial obstado com base em recursos repetitivos.
+Ademais, também não se conhece da alegada violação aos arts. 489 e 1.022, uma vez que as razões do recurso, também neste aspecto, buscam a prevalência de tese já rejeitada no julgamento do paradigma repetitivo supramencionado.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO. TESE REPETITIVA. DECISÃO DE ADMISSIBILIDADE. RECURSO CABÍVEL. AGRAVO INTERNO. INTERPOSIÇÃO. AUSÊNCIA. ERRO GROSSEIRO. CONFIGURAÇÃO. AGRAVO NÃO CONHECIDO.
