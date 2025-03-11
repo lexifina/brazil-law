@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por MRV ENGENHARIA E PARTICIPAÇÕES S.A. à decisão desta relatoria que conheceu do recurso especial de CAROLINA YUMI TAKEUCHI e OUTRO e deu-lhe provimento (e-STJ fls. 468/471).
+Nas razões dos presente s aclaratórios, a embargante sustenta haver omissão na decisão, pois não teria sido determinada a liquidação de sentença para comprovação dos valores pagos a título de juros de obra, bem como não se teria esclarecido os índices de correção monetária que eventualmente seriam aplicáveis.
+Sem impugnação (e-STJ fls. 480/481).
+É o relatório.
+DECIDO.
+Prospera, em parte, a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se, desde logo, que a decisão embargada não padece de nenhum dos vícios ensejadores dos embargos de declaração enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+A controvérsia foi devidamente solucionada com a utilização do direito cabível à hipótese, inexistindo omissão a ser sanada, mesmo porque as questões que suscita o ora embargante não foram devolvidas ao conhecimento desta Corte Superior por meio do recurso especial interposto pela parte embargada.
+Todavia, no que se refere aos consectários da obrigação de restituição, entre os quais o índice de correção monetária e juros de mora, de fato, vê-se que a questão não foi definida na decisão embargada, embora deveria ser apreciada de ofício.
+Com efeito, afastou-se a prescrição reconhecida pelo Tribunal de origem, de modo que a embargante deverá restituir aos embargados os valores pagos a título de taxa de evolução de obra. Essa restituição deve ser realizada com incidência da Taxa Selic, a ser aplicada desde a data de cada desembolso relativo às cobranças indevidas.
+Nesse sentido:
+"CIVIL. RECURSO ESPECIAL. INTERPRETAÇÃO DO ART. 406 DO CÓDIGO CIVIL. RELAÇÕES CIVIS. JUROS MORATÓRIOS. TAXA LEGAL. APLICAÇÃO DA SELIC. RECURSO PROVIDO.
+1. O art. 406 do Código Civil de 2002 deve ser interpretado no sentido de que é a SELIC a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa "em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional".
+2. A SELIC é taxa que vigora para a mora dos impostos federais, sendo também o principal índice oficial macroeconômico, definido e prestigiado pela Constituição Federal, pelas Leis de Direito Econômico e Tributário e pelas autoridades competentes. Esse indexador vigora para todo o sistema financeiro-tributário pátrio.
+Assim, todos os credores e devedores de obrigações civis comuns devem, também, submeter-se ao referido índice, por força do art. 406 do CC.
+3. O art. 13 da Lei 9.065/95, ao alterar o teor do art. 84, I, da Lei 8.981/95, determinou que, a partir de 1º de abril de 1995, os juros moratórios "serão equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC para títulos federais, acumulada mensalmente".
+4. Após o advento da Emenda Constitucional 113, de 8 de dezembro de 2021, a SELIC é, agora também constitucionalmente, prevista como única taxa em vigor para a atualização monetária e compensação da mora em todas as demandas que envolvem a Fazenda Pública. Desse modo, está ainda mais ressaltada e obrigatória a incidência da taxa SELIC na correção monetária e na mora, conjuntamente, sobre o pagamento de impostos devidos à Fazenda Nacional, sendo, pois, inconteste sua aplicação ao disposto no art. 406 do Código Civil de 2002.
+5. O Poder Judiciário brasileiro não pode ficar desatento aos cuidados com uma economia estabilizada a duras penas, após longo período de inflação galopante, prestigiando as concepções do sistema antigo de índices próprios e independentes de correção monetária e de juros moratórios, justificável para uma economia de elevadas espirais inflacionárias, o que já não é mais o caso do Brasil, pois, desde a implantação do padrão monetário do Real, vive-se um cenário de inflação relativamente bem controlada.
+6. É inaplicável às dívidas civis a taxa de juros moratórios prevista no art. 161, § 1º, do CTN, porquanto este dispositivo trata do inadimplemento do crédito tributário em geral. Diferentemente, a norma do art. 406 do CC determina mais especificamente a fixação dos juros pela taxa aplicável à mora de pagamento dos impostos federais, espécie do gênero tributo.
+7. Tal entendimento já havia sido afirmado por esta Corte Especial, por ocasião do julgamento do EREsp 727.842/SP, no qual se deu provimento àqueles embargos de divergência justamente para alinhar a jurisprudência dos Órgãos Colegiados internos, no sentido de que "a taxa dos juros moratórios a que se refere o referido dispositivo é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, por ser ela a que incide como juros moratórios dos tributos federais" (Rel. Min. TEORI ALBINO ZAVASCKI, julgado em 8/9/2008 e publicado no DJe de 20/11/2008). Deve-se reafirmar esta jurisprudência, mantendo-a estável e coerente com o sistema normativo em vigor.
+8. Recurso especial provido."
+(REsp n. 1.795.982/SP, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Raul Araújo, Corte Especial, julgado em 21/8/2024, DJe de 23/10/2024.)
+Assim, diante da ausência de apreciação quanto a questões sujeitas à apreciação de ofício, qual seja, os consectários decorrentes da restituição devida, acolho em parte os aclaratórios para determinar a incidência da taxa Selic a ser aplicada desde a data de cada desembolso, até a data da efetiva restituição.
+Ante o exposto, acolho em parte os embargos de declaração, sem efeitos modificativos .
+Publique-se.
+Intimem-se.
+EMENTA
