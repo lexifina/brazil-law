@@ -1,0 +1,54 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO PARA FORNECIMENTO DE MEDICAMENTO (ENOXAPARINA). RÉUS SOLIDÁRIOS. RATEIO PROPORCIONAL DA VERBA HONORÁRIA. INTELIGÊNCIA DO ART. 87, § 2º, DO CPC. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Trata-se de Agravo em Recurso Especial interposto pela Defensoria Pública do Estado de Mato Grosso do Sul, contra a decisão que, na origem, inadmitiu o Especial pelo óbice da Súmula 7/STJ, por reputar que a pretensão de rever o percentual fixado para a sucumbência de dois réus solidários, assim como os limites objetivos e subjetivos da coisa julgada, esbarrariam na impossibilidade de rever fatos e provas, na via do recurso especial.
+O acórdão impugnado tem a seguinte ementa:
+EMENTA - APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - AÇÃO DE OBRIGAÇÃO DE FAZER - FORNECIMENTO DE MEDICAMENTO - RETORNO DA VICE-PRESIDÊNCIA - TEMA 1.002, DO STF - FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS EM FAVOR DA DEFENSORIA PÚBLICA QUANDO REPRESENTA A PARTE VENCEDORA EM DEMANDA AJUIZADA CONTRA QUALQUER ENTE PÚBLICO, INCLUSIVE AQUELE QUE A INTEGRA - JUÍZO DE RETRATAÇÃO EXERCIDO - RECURSO DA DEFENSORIA PÚBLICA PROVIDO.
+Conforme entendido pelo STF, no julgamento do tema 1.002, extraído do RE n. 1.140.005/RJ, "é devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra".
+Considerando que o acórdão proferido por esta Câmara Cível está dissonante do entendimento sedimentado na Corte Suprema, necessário o juízo de retratação para condenar o Estado de Mato Grosso do Sul ao pagamento de honorários sucumbenciais em favor da Defensoria Pública Estadual.
+Excerto do voto condutor: Diante do exposto, em juízo de retratação, conheço do recurso interposto e dou-lhe provimento a fim de, reformando em parte a sentença, estender a condenação ao pagamento da verba honorária fixada ao Estado de Mato Grosso do Sul, à razão de 50% para cada um dos requeridos-vencidos.
+Os Embargos de Declaração opostos foram rejeitados.
+Em suas razões, a recorrente alega ofensa à coisa julgada e violação ao art. 87, § 1º, do Código de Processo Civil, sob o argumento de que tal dispositivo afasta a solidariedade entre os vencidos, no que respeita à verba honorária.
+Defende que novo valor, de forma complementar, seja fixado para o Estado de MS, de forma que fique incólume o valor já fixado para os honorários do Município de Maracaju.
+Houve contrarrazões.
+É o relatório. Decido.
+O recurso não comporta provimento.
+Vem da jurisprudência deste STJ que, de acordo com a inteligência do art. 87, §§ 1º e 2º, do CPC/2015, havendo solidariedade entre litisconsortes vencidos, a verba honorária será rateada entre eles, proporcionalmente, até porque ela é fixada tendo em vista o objeto discutido e não o número de vencedores ou vencidos. Confiram-se os precedentes:
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. RESPONSABILIDADE PELO PAGAMENTO DAS DESPESAS E HONORÁRIOS ADVOCATÍCIOS. DISCUSSÃO ACERCA DA SOLIDARIEDADE ENTRE OS LITISCONSORTES VENCIDOS NA DEMANDA. SENTENÇA QUE NÃO DISTRIBUIU, DE FORMA EXPRESSA, A RESPONSABILIDADE PROPORCIONAL DAS VERBAS DE SUCUMBÊNCIA. RECONHECIMENTO DA SOLIDARIEDADE QUE SE IMPÕE, A TEOR DO ART. 87, §§ 1º E 2º, DO CPC/2015. BENEFÍCIO DA JUSTIÇA GRATUITA CONCEDIDA A DOIS DOS TRÊS LITISCONSORTES. IRRELEVÂNCIA. PLEITO DE MAJORAÇÃO DOS HONORÁRIOS, COM BASE NO ART. 85, § 11, DO CPC/2015. IMPOSSIBILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. O propósito recursal consiste em dizer se há solidariedade entre os litisconsortes sucumbentes na condenação das custas e honorários advocatícios, considerando que dois dos três vencidos litigam sob o benefício da justiça gratuita, além de saber se é possível a majoração dos honorários recursais na espécie.
+2. O art. 87, § 1º, do Código de Processo Civil de 2015 estabelece que a sentença deverá distribuir expressamente a responsabilidade proporcional pelo pagamento das despesas processuais e dos honorários advocatícios entre os vencidos na demanda.
+3. Não havendo, contudo, essa distribuição proporcional, os vencidos responderão de forma solidária pelas respectivas verbas sucumbenciais, conforme dispõe o § 2º do art. 87 do CPC/2015. A solidariedade, portanto, passa a ter previsão em lei, com a nova redação trazida pelo diploma processual vigente.
+4. Na hipótese, a sentença não distribuiu entre os litisconsortes, de forma expressa, a responsabilidade proporcional pelo pagamento das verbas de sucumbência, impondo-se, assim, reconhecer a solidariedade entre os vencidos.
+5. Reconhecida a solidariedade na condenação da verba honorária sucumbencial, aplica-se a norma do art. 275 do Código Civil, que permite ao credor exigir de um ou de alguns dos devedores, parcial ou totalmente, a dívida comum. Logo, não havia qualquer óbice à recorrente em executar o valor integral correspondente aos honorários advocatícios exclusivamente contra a ora recorrida.
+6. e 7. (..)
+8. Recurso especial provido parcialmente
+.
+(REsp 2.005.691/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/9/2022, DJe de 29/9/2022.).
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS. PLURALIDADE DE VENCIDOS E DE VENCEDORES. RATEIO DA VERBA SUCUMBENCIAL. ART. 87 DO CPC.
+1. Nos termos do art. 87 do CPC: a) havendo mais de um integrante no polo ativo, o valor fixado a título de honorários será distribuído proporcionalmente entre os vencidos no termos em que determinado na sentença ou, no silêncio desta, de forma solidária; b) o valor dos honorários será rateado pelos integrantes do litisconsórcio vencedor. Em outras palavras, a regra do rateio na distribuição dos ônus sucumbenciais se aplica tanto à pluralidade de autores quanto à de réus, tendo em vista que tal verba é fixada em relação ao objeto discutido e não em relação ao número de vencedores ou vencidos. Precedentes  AREsp n. 1.711.300, Ministra Maria Isabel Gallotti, DJe de 09/10/2020 .
+2. Embargos de declaração parcialmente acolhidos sem efeitos infringentes.
+( EDcl nos EDcl na DESIS no AgInt na Rcl nº 37.445/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 18/5/2021, DJe de 25/5/2021.).
+Rememore-se a redação do art. 87, do CPC/2015:
+"Art. 87. Concorrendo diversos autores ou diversos réus, os vencidos respondem proporcionalmente pelas despesas e pelos honorários.
+§ 1º A sentença deverá distribuir entre os litisconsortes, de forma expressa, a responsabilidade proporcional pelo pagamento das verbas previstas no caput".
+§ 2º Se a distribuição de que trata o § 1º não for feita, os vencidos responderão solidariamente pelas despesas e pelos honorários".
+Ainda que assim não fosse, melhor sorte não ficaria à recorrente, porque também vem da jurisprudência deste STJ que a discussão sobre a proporção em que autor e réu saíram vencedores ou vencidos na demanda, em razão de sucumbência mínima ou recíproca, esbarra no óbice da Súmula 7/STJ. Com essa compreensão:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência deste Superior Tribunal, o valor estabelecido pelas instâncias ordinárias, a título de danos morais, pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões da razoabilidade e proporcionalidade, situação não evidenciada no presente caso, de modo que a sua revisão encontra óbice na Súmula 7/STJ.
+2. A apreciação, em recurso especial, do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.259.976/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023.).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO. CAPITULO AUTÔNOMO. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. VERIFICAÇÃO. REEXAME DE PROVA.IMPOSSIBILIDADE
+1. 2. 3. (..)
+4. "A jurisprudência desta Corte possui entendimento de que a aferição do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial por envolver aspectos fáticos e probatórios dos autos, o que é vedado pela Súmula 7 desta Corte" (EDcl no AgInt no REsp n. 1.780.421/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/11/2023, DJe de 13/11/2023.)
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.926.337/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+PROCESSUAL CIVIL. DIREITO INTERNACIONAL. CONVENÇÃO DA HAIA SOBRE OS ASPECTOS CIVIS DO SEQUESTRO INTERNACIONAL DE CRIANÇAS. COOPERAÇÃO JURÍDICA INTERNACIONAL ENTRE BRASIL E ITÁLIA . GUARDA CONJUNTA DE MENOR EXERCIDA PELO CASAL EM TERRITÓRIO ITALIANO. RETENÇÃO ILÍCITA NO BRASIL POR GENITORA BRASILEIRA. BUSCA, APREENSÃO E RESTITUIÇÃO. PROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DA SÚMULA N. 7/STJ.
+I, II, III, IV (..)
+V - Eis a tese fixada: "1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra; 2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição."
+VI - Consoante a jurisprudência desta Corte, "É inviável a apreciação, em sede de recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, a teor do disposto na Súmula 7 do STJ" (AgInt nos EDcl no REsp n. 2.001.322/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/4/2023, DJe de 11/4/2023). No mesmo sentido: AgInt no AREsp n. 2.090.303/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023, e AgInt no REsp n. 1.374.977/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/5/2023, DJe de 29/5/2023.
+VII - Agravo interno improvido.
+(AgInt no REsp n. 2.082.084/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Por fim, no mesmo sentido do AREsp em análise, para caso da mesma Defensoria Pública de MS, representando outra parte, contra o mesmo Estado do MS, sobre a mesma matéria, menciono o AREsp n. 2.763.157, Ministro Gurgel de Faria, DJE de 23/12/2024.
+Do exposto, conheço do Agravo, para negar provimento ao Recurso Especial.
+Publique-se. Intimem-se.
+EMENTA
