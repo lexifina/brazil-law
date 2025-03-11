@@ -1,0 +1,79 @@
+DECISÃO
+GEFSON NOGUEIRA DE CAMARGOS agrava decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0471.19.005222- 8/001.
+Consta dos autos que o recorrente foi condenado às penas de 2 anos de reclusão e 1 ano de detenção, em regime inicial aberto, mais multa, pela prática dos crimes previstos nos arts. 12 e 14, ambos da Lei n. 10.826/2003.
+Nas razões de recurso especial, foi apontada violação dos arts. 240, §1º, e 315, §2º, III, e 619, do Código de Processo Penal.
+A defesa argumenta, em síntese, a nulidade da decisão que concedeu a medida cautelar de busca e apreensão, por entender que a mesma carece de justa causa e de fundamentação idônea.
+Apresentadas as contrarrazões (fls. 983-989), a Corte de origem não admitiu o recurso em razão da incidência da Súmula n. 7 do STJ (fls. 996-999), o que ensejou a interposição do presente agravo.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 1073-1084).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou adequadamente os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivo por que avanço na análise de mérito da controvérsia.
+II. Contrariedade ao art. 619 do CPP
+O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade do ato judicial embargado, sobre tema relevante para a solução da controvérsia, suscitado em momento oportuno.
+No caso dos autos, conforme decidido pelo Tribunal a quo, não havia omissão nem contradição a ser sanada, porque o questionamento da defesa dizia respeito à sua discordância em relação ao mérito da decisão embargada, e não à existência dos vícios previstos no art. 619 do CPP.
+Por esta razão, não constato a existência da apontada violação do art. 619 do CPP.
+III. Nulidade da decisão que autorizou a busca e apreensão domiciliar
+Consoante imposição do art. 93, IX, primeira parte, da Constituição da República de 1988, "todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade", exigência que funciona como garantia da atuação imparcial e secundum legis (sentido lato) do órgão julgador. Presta-se a motivação das decisões jurisdicionais a servir de controle, da sociedade e das partes, sobre a atividade intelectual do julgador, para que verifiquem se este, ao decidir, considerou todos os argumentos e as provas produzidas pelas partes e se bem aplicou o direito ao caso concreto.
+Depreende-se dos autos que a Polícia Militar representou pela expedição de mandado de busca e apreensão domiciliar no âmbito de investigação que apurava suposto crime de posse/porte ilegal de arma de fogo.
+O Juízo singular deferiu o pedido sob a seguinte motivação (fl. 11, grifei):
+" ..  Verifico que chegou ao conhecimento da Polícia Militar denúncias de que o representado teria armas de fogo em sua residência, as quais vem sendo armazenadas em desacordo com a legislação vigente.
+Segundo apurado, o representado é rotineiramente visto transitando em via pública com uma arma arma de fogo, aparentemente pistola, em sua cintura, utilizando-a para ameaçar e intimidar pessoas, havendo notícias de que ele comercializaria armas de fogo munições, bem como praticaria caça ilegal de animais da fauna silvestre.
+A par das garantias constitucionais, sendo necessário colher provas que sustentem materialidade e autoria de crime, tenho que a medida pleiteada é a necessária, obviamente, com observância às formalidades legais.
+Diante do exposto, defiro o pedido formulado pela Polícia Militar, a fim de CONCEDER A ORDEM DE BUSCA E APREENSÃO na residência do Gefson Nogueira de Camargos, situada na Rua José Anunciacão Lara, nº 43, apartamento 104, bloco B, bairro Nossa Senhora das Graças, Pará de Minas/MG.
+Ao afastar a tese defensiva, assim argumentou (fls. 560-563):
+" ..  A defesa do acusado suscitou preliminarmente a nulidade das buscas realizadas na residência do acusado ao fundamento de que: 1) a diligência foi executada exclusivamente pela Polícia Militar, autoridade sem atribuição para investigar infrações comuns; 2) a medida cautelar foi o primeiro ato de investigação realizado para apurar os fatos, contrariando o que dispõe o art. 240, § 1 0, do CPP; 3) não houve a comprovação efetiva da realização dedenúncia anônima e de informações referentes a como os denunciantes teriam descoberto as informações relatadas e nem de elementos que confirmassem tais informações previamente á representação; 4) a decisão que deferiu as buscas não foi fundamentada em fatos concretos.
+No caso, a excepcional realização de atos típicos da polícia judiciária pela Polícia Militar, no interesse da justiça e na busca da verdade, não ofende a Constituição Federal ou a Lei e, portanto, não invalida a prova produzida.
+A interpretação do art. 144, § 4º, da Constituição Federal deve se dar de forma extensiva, de modo que não constitui nulidade o requerimento e posterior cumprimento, pela Polícia Militar, de mandado de busca e apreensão, que foi expedido por autoridade competente.
+Ademais, ressalto que não há óbice à expedição de mandado de busca e apreensão cuja investigação teve início em face de denúncia anônima.
+Dessa forma, procedidas tão somente as primeiras diligências pela Polícia Militar, cumprindo-se regular mandado de busca e apreensão expedido por autoridade judicial competente e prendendo-se em flagrante delito o acusado, com remessa do caso à Polícia Civil, para as investigações que se fizessem necessárias, não há falar em usurpação de função da polícia judiciária, mas apenas em exercício de repressão à criminalidade.
+ ..
+Logo, no caso em análise, em observância ao art. 144, § 5º, da Constituição Federal a atuação da Polícia Militar foi legítima, configurada como policiamento ostensivo e em atendimento à preservação da ordem pública, não havendo que se falar, assim, em ilicitude da prova produzida.
+Ademais, os delitos imputados ao acusado consistem em crimes permanentes, o que torna dispensável a expedição de mandado de busca e apreensão, bem como legitima o acesso dos agentes públicos, independentemente de autorização.
+Assim, afasto a preliminar suscitada e passo ao exame do mérito.
+A Corte estadual, ao rechaçar a apontada nulidade da decisão que determinou a busca e apreensão em desfavor do réu, assim fundamentou (fls. 720-724, grifei):
+" ..  Como segundo tópico, também em preliminar, o apelante insistiu em seu pedido de nulidade processual, afirmando que o mandado de busca e apreensão teria sido deferido sem justa causa, ofendendo o § 1º, do art. 240, do CPP, devendo, portanto, ser desprezadas as provas derivadas. Ademais, registrou estranhar que o pedido de busca e apreensão tenha sido o primeiro ato investigatório.
+Respeitosamente, ad. Defesa não examinou o apenso 01 dos autos.
+A Sétima Companhia da Polícia Militar foi informada de que o recorrente andava ostentando armas de fogo na cintura, pela região onde morava, ameaçando e intimidando pessoas, e que praticava crime ambiental, promovendo a caça predatória de animais silvestres, comercializando, inclusive,carne de tatus e capivaras que abatia.
+O serviço de inteligência da Polícia Militar passou a investigar, verificando que o apelante possuía duas armas registradas em seu nome, porém ambas em desconformidade com a legislação vigente, já que os registros estavam vencidos há mais de um ano.
+Na sequência, os militares foram até o bairro onde o recorrente residia, passando a entrevistar vários vizinhos, sendo possível confirmar as denúncias anônimas, no sentido de que o apelante ostentava armas de fogo nas ruas por onde passava, ameaçando e intimidando pessoas, comercializava armas e munições, bem como a carne de animais silvestre que abatia.
+Que os vizinhos entrevistados, temendo por represálias, pediram anonimato, primando por segurança, resguardando a intimidade e a vida privada.
+A notitia criminis inqualificada ou "denúncia anônima" é circunstância que motiva investigação policial, durante a qual poderão, eventualmente, ser coletadas provas que confirmem o seu teor. Ademais, as notícias anônimas são perfeitamente admitidas em nosso ordenamento jurídico e consideradas aptas a deflagrar procedimentos de averiguação, desde que não sejam manifestamente infundadas.
+O pedido de expedição de mandado de busca e apreensão, assinado pelo Comandante do Batalhão (ff. 02-03), contou com o parecer favorável do Ministério Público, tendo o Promotor dê Justiça analisado a pretensão sob o ângulo jurídico-formal, vislumbrando justa causa para a realização da diligência (f. 08).
+Em decisão bastante sucinta mas satisfatoriamente fundamentada o Juízo de Origem autorizou a diligência, expedindo-se o mandado de busca e apreensão, tendo a justa causa se confirmado ante a apreensão dos objetos materiais de crimes insertos no Estatuto do Desarmamento (ff. 25-26).
+ ..
+Logo, rejeita-se a preliminar, inexistindo ofensa ao §1º, do art. 240, do CPP.
+Como terceiro tópico, ainda em preliminar, apelante permaneceu insistindo em atacar o mandado de busca e apreensão buscando elidir as provas colhias na diligência, registrando a não comprovação da denúncia anônima que lhe deu ensejo, questionando como os denunciantes teriam descoberto as informações relatadas concluindo por ressaltar a inexistência de elementos que confirmassem tais informações previamente à representação.
+Quando os argumentos são pueris, difícil afastar a fundamentação.
+Claro que a denúncia anônima existiu, sendo prescindível sua comprovação, até porque os policiais não possuem a capacidade de adivinhação, tampouco engendrariam esforços para investigar uma fantasia, levando em frente um devaneio contra uma pessoa inocente.
+A descoberta ocorreu por vacilo do próprio apelante, que exibia armas de fogo na cintura pelas ruas do bairro em que mora, constrangendo pessoas, havendo informação nos autos de que ele possivelmente comercializava armas e munições, bem como a carne de animais silvestres que ilegalmente abatia.
+Seus vizinhos, por óbvio, inconformados com o comportamento socialmente reprovável do apelante, levou a informação da conduta desairosa ao comando da Sétima Companhia de Polícia Militar, dando início às investigações, realizando os militares trabalhos de campo, colhendo informações.
+Com tal panorama, ininteligivel a conclusão defensiva de que inexistiam elementos que confirmassem as condutas delituosas previamente à representação que deu azo ao mandado de busca e apreensão.
+Logo, rejeita-se a preliminar.
+Como quarto tópico, também em preliminar, o apelante atacou a decisão que deferiu a medida cautelar de busca e apreensão, por ausência de fundamentação em fatos concretos do processo entendendo violados os artigos 315, § 2º, III, do CPP, e 93, IX, CR/88 devendo ser a ordem judicial, o mandado e as provas decorrentes desentranhadas nos autos.
+A questão já foi analisada e decida, em tópicos anteriores deste voto.
+Cansativa repetição, ao disfarce de novos argumentos.
+O fato de a defesa não concordar com a fundamentação não pode resultar na nulidade da decisão.
+A decisão atacada é formal e materialmente válida. Embora sucinta. satisfatoriamente fundamentada (f. 09).
+A decisão esclareceu quem formulou o pedido, qual a causa de pedir, fazendo remissão a documentos e ao parecer favorável do Ministério Público (f. 08).
+O magistrado consignou ser de conhecimento que o então investigado era visto transitando armado em via pública, que ameaçava e intimidava pessoas, que possivelmente comercializava armas e munições e praticava caça ilegal de animais silvestres.
+O mandado de busca e apreensão foi expedido para endereço certo, em desfavor de pessoa determinada, com prazos legais de cumprimento e de comunicação de resultado ao Juízo.
+Devidamente datada a assinada a decisão por magistrado competente, não há, assim, coma acolher a tese nulidade por ausência de fundamentação.
+ ..
+Logo, não há nulidade da decisão por ausência de fundamentação quando evidenciados os motivos que conduziram o magistrado na formação do seu convencimento, em atenção ao art. 93 IX, da CR/88.
+A defesa sustenta que a cautelar foi concedida unicamente com base em denúncia anônima, sem que tenha sido realizada qualquer diligência investigatória prévia por parte da Polícia Militar antes da formalização da representação.
+Argumenta, ainda, que a decisão é desprovida de fundamentação concreta e carece de elementos que justifiquem a necessidade da busca e apreensão domiciliar.
+Entretanto, conforme a premissa fática delimitada pela Corte Estadual, o Serviço de Inteligência da Polícia Militar investigou os fatos e constatou que o acusado possuía duas armas de fogo registradas em seu nome, mas ambas estavam com os registros vencidos há mais de um ano.
+Além disso, os militares deslocaram-se até o bairro onde o acusado residia para verificar a denúncia anônima. Durante a diligência, vizinhos informaram que o recorrente ostentava armas de fogo nas ruas, ameaçava e intimidava pessoas, além de comercializar armas, munições e carne de animais silvestres que abatia.
+Não estamos, portanto, diante de busca e apreensão derivada de simples informação apócrifa de crime. Agentes policiais confirmaram que o acusado possuía armas de fogo com o registro vencido. O Juiz, em sua decisão, também menciona as informações apuradas pelos militares na localidade em que residia o acusado.
+O Tribunal de origem rejeitou as teses defensivas em acórdão devidamente fundamentado. Foram indicados os motivos que se prestaram a justificar a concessão da medida cautelar, no caso concreto
+Apesar das considerações do recorrente, é comum que, em casos semelhantes, os advogados apresentem argumentos similares, como falta de fundamentação, ausência de justa causa ou nulidade da medida, especialmente quando se questiona a validade de uma busca e apreensão. Também as considerações judiciais, que variam de acordo com as particularidades de cada caso concreto, podem resultar em conclusões parecidas, que afastam as ilegalidades apontadas.
+No caso, não há falar em inequívoca ausência de justa causa. Um conjunto de circunstâncias autorizou, em decisão devidamente motivada, a conclusão segundo a qual a busca e apreensão se justificava com os fins investigativos indicados pela autoridade policial.
+Diante do cenário narrado, noto que havia motivos concretos e explicitados na decisão para que o juízo competente autorizasse o cumprimento da diligência, pois trata-se de investigação de posse/porte ilegal de arma de fogo que, embora iniciada por denúncia anônima, foi corroborada por investigações prévias realizadas pelos policiais.
+Nos termos do art. 240, § 1º, "d", do Código de Processo Penal, a ordem judicial que autorizar a realização de busca domiciliar deverá estar amparada em fundadas razões aptas a justificar a apreensão de objetos, como armas, munições, e quaisquer instrumentos usados na prática de crime ou destinados a fim delituoso.
+Verifica-se que a medida foi autorizada em atenção a todos os requisitos legais pertinentes, porquanto fundada em elementos indiciários concretos, obtidos em procedimentos investigativos prévios, que forneceram suporte para demandar essa medida, a fim de elucidar o crime no qual o insurgente poderia estar envolvido.
+Inviável, portanto, proclamar-se a nulidade pretendida.
+IV. Dispositivo
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
