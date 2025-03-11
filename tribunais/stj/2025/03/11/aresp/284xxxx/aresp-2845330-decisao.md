@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo ESTADO DE RORAIMA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, assim resumido:
+AGRAVO INTERNO - DECISÃO MONOCRÁTICA - OFENSA AO PRINCÍPIO DA DIALETICIDADE - RAZÕES RECURSAIS QUE NÃO CONTRAPÕEM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA - DESPROVIMENTO - DECISÃO MANTIDA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 803, I, parágrafo único, do Código de Processo Civil, no que concerne à possibilidade de análise de matéria de ordem pública em qualquer fase do processo, trazendo a seguinte argumentação:
+A Exma. relatora entendeu haver ausência de dialeticidade nos autos do Recurso de Apelação, sendo a decisão mantida no acórdão que analisou o Agravo Interno, sob o fundamento de que a matéria não se apresenta como de ordem pública. In verbis:
+Aliás, a matéria não se apresenta como de ordem pública, como menciona o recorrente haja vista que a despesa ser, ou não, de exercício anterior, diz respeito apenas ao procedimento interno de pagamento da dívida pelo agravante, o que nada interfere na adequada formação e desenvolvimento válido da ação de cobrança para reconhecimento do débito.
+Ocorre que, conforme será visto a seguir, não há que se falar em inovação recursal.
+Conforme demonstrado em sede de agravo interno, a inscrição em despesas de exercícios anteriores, exclui a alegação de inadimplemento do Estado, isso porque o trâmite para o pagamento estaria de acordo com previsto na Lei nº 4.320/64.
+Maxima venia, embora o r. acórdão entenda que o fundamento do recurso de apelação em "nada interfere na adequada formação e desenvolvimento válido da ação de cobrança para reconhecimento do débito", o Estado de Roraima buscou demonstrar que o regular cumprimento dos arts. 36 e 37 da Lei nº 4.320/64, afasta a exigibilidade do título por meio de ação de cobrança, devendo o título ser pago na forma da lei. In verbis:
+ ..
+A doutrina de Marina Mesquita é bastante específica ao tratar do tema, esclarecendo a possibilidade de análise de matéria de ordem pública em qualquer momento do processo:
+ ..
+Não havendo razão, assim, para o Acórdão deixar de apreciar a tese suscitada no recurso de apelação.
+Máxima vênia, resta evidente que o acórdão merece reparos, tendo em vista que, conforme o disposto no art. 803 do CPC, o título executivo inexigível é considerado nulo.
+Nesses termos, trata-se de matéria de ordem pública, o que impõe a atuação do juiz, independentemente de provocação das partes, nos termos do parágrafo único do referido artigo:
+ ..
+Portanto, diante do exposto, não há que se falar em ausência de dialeticidade no recurso de apelação (fls. 48-49).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Vislumbra-se nos autos que a agravante tenta a desconstituição da decisão monocrática ao argumento de que houve a impugnação específica aos fundamentos da sentença da qual apelou, sendo imperioso o conhecimento do recurso.
+Todavia, analisando novamente a peça recursal, denota-se que a ora agravante, mais uma vez, se restringe a repetir os argumentos lançados nas razões de apelação, insistindo na tese de que em se tratando de despesa de exercício anterior, a seguir o rito da Lei n.º 4.320/64, o pedido deve ser julgado improcedente, quando a sentença impugnada reconheceu a existência da dívida em razão da comprovação da contratação e entrega dos equipamentos de informática adquiridos pelo recorrente.
+Assim, constata-se, claramente, que a sentença julgou procedente a ação de cobrança em virtude da entrega do objeto contratual, enquanto os argumentos recursais se restringem a mencionar que o pedido deve ser julgado improcedente por ser a dívida de exercício anterior, descumprindo o princípio da dialeticidade recursal a inviabilizar o exame do apelo interposto (fl. 35).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ainda que assim não fosse, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão, a teor dos dispositivos tidos por violados, não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
