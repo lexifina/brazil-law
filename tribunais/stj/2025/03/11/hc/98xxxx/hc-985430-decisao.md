@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de EDUARDO JUNIO DA COSTA, por meio do qual a defesa, mais uma vez, vem ao Superior Tribunal de Justiça buscar o reconhecimento da nulidade da prova emprestada juntada à Ação Penal n. 0010275-25.2020.8.13.021, da 1ª Vara Cível, Criminal e da Infância e da Juventude da comarca de Pedro Leopoldo/MG, e a consequente determinação de seu desentranhamento dos autos.
+Ocorre que o writ ora formulado é mera reiteração do HC n. 939.106/MG, uma vez que há identidade de partes e da causa de pedir, os dois feitos impugnam o mesmo acórdão (Recurso em Sentido Estrito n. 1.0000.23.158708-0/001).
+Com efeito, é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido (AgRg no HC n. 796.091/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/6/2023)
+Nesse sentido, por exemplo: AgRg no HC n. 765.097/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 6/3/2024; e AgRg no HC n. 391.116/PE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 7/4/2017.
+Afora isso, ainda que o tema tenha sido suscitado nas razões do recurso em sentido estrito, não foi efetivamente debatido no acórdão impugnado e a defesa nem sequer opôs embargos de declaração para sanar eventual omissão do Tribunal de origem. Como resultado, esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em  ..  supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal (AgRg no HC n. 902.634/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/4/2024). Ainda, o AgRg no HC n. 740.448/SC, Ministro Otávio de Almeida Toledo (Desembargador convocado do TJSP), Sexta Turma, DJe 21/6/2024).
+Por fim, não é demais lembrar que esta Corte tem entendimento no sentido de que o inconformismo da parte prejudicada deve ser alegado no momento oportuno, sob pena de preclusão, mesmo em se tratando de nulidade absoluta (AgRg no AREsp n. 2.210.999/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/9/2023).
+Assim, por se tratar de reiteração de pedido já examinado, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE DA PROVA EMPRESTADA. REITERAÇÃO DE PEDIDOS. INADMISSIBILIDADE. PRECEDENTES. AUSÊNCIA DE DEBATE DO TEMA NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Petição inicial indeferida liminarmente.
