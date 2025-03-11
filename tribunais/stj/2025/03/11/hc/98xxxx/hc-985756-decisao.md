@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Reinan Felix da Silva, em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de Pernambuco, que denegou o Habeas Corpus criminal n. 0057844-83.2024.8.17.9000, mantendo a prisão preventiva imposta ao paciente pelo Juízo Plantonista da Audiência de Custódia Polo Recife/PE pela suposta prática do crime de tráfico de drogas.
+Neste writ, a defesa argumenta que a prisão preventiva foi decretada sem pedido expresso do Ministério Público, contrariando a Lei n. 13.964/2019, que impede a decretação de prisão de ofício pelo juiz.
+Discorre sobre as condições pessoais do paciente, sua primariedade, endereço fixo e ocupação lícita, e que as medidas cautelares seriam suficientes para garantir a ordem pública (fl. 3).
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva, com a expedição do respectivo alvará de soltura.
+É o relatório.
+Infere-se dos autos que o Juízo singular homologou o flagrante e converteu a prisão em flagrante em prisão preventiva, com fundamento na garantia da ordem pública, evidenciada pela quantidade de drogas apreendidas (fls. 81/83). Apesar do parecer do Ministério Público, que, na audiência de custódia, manifestou-se favoravelmente à substituição da prisão preventiva por prisão domiciliar, o Juízo singular manteve a prisão preventiva.
+No julgamento do habeas corpus, a Corte estadual destacou que (fls. 12/16):
+ ..  não merece guarida a alegação de que houve indevida decretação ex officio da prisão preventiva do réu.
+Isto porque, conforme os próprios impetrantes consignaram na inicial em apreço, o Ministério Público e a Defesa requereram "a liberdade provisória com aplicação de outras medidas cautelares diversas da prisão".
+Sabe-se que, após o advento da Lei nº 13.964/2019 (Pacote Anticrime), que alterou o artigo 282, parágrafo 4º, e o artigo 311, ambos do Código de Processo Penal, passou a ser vedado ao julgador, de ofício, decretar a prisão preventiva ou mesmo converter de ofício prisão em flagrante em preventiva, independentemente da gravidade em abstrato do crime.
+Segundo entendimento do STJ, o qual se filia esta Relatoria, a manifestação do Parquet pela aplicação de medidas alternativas diversas ao cárcere, permite ao juiz avaliar a pertinência das referidas cautelares e, nessa condição, impor a mais adequada e suficiente ao caso, inclusive a mais grave, qual seja, a prisão preventiva, sem se falar em prisão cautelar de ofício.
+ ..
+Conforme se observa dos autos, houve pedido expresso, no caso, para que fossem concedidas medidas cautelares, situação na qual cabe ao Poder Judiciário a escolha de qual dessas medidas melhor se adequa ao caso, ainda que entenda necessária a imposição de medida cautelar mais gravosa que a requerida pelo órgão ministerial.
+ ..
+Sendo assim, ainda que a imposição de cautelas pessoais dependa de prévia provocação, uma vez formulado o pedido, a opção dentre as medidas existentes é escolha que compete ao juiz da causa, sob pena de, em última análise, transformar o julgador em mero chancelador das manifestações ministeriais.
+De mais a mais, a prisão cautelar não viola o princípio da presunção de inocência, quando amparada em seus requisitos autorizadores, pois não importa em juízo de culpabilidade antecipado, visando, apenas, acautelar a atividade estatal. Nesse contexto, não resta evidenciado constrangimento ilegal a amparar a concessão da ordem.
+Pois bem, a jurisprudência desta Corte é no sentido de que é possível ao magistrado decretar medida cautelar diversa daquela requerida pelo Ministério Público, no caso, a cautelar máxima de prisão preventiva, o que não representa atuação ex officio, inexistindo, portanto, flagrante constrangimento ilegal.
+Nesse sentido: AgRg no RHC n. 195.540/PA, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/6/2024, DJe 14/6/2024; e AgRg no RHC n. 194.94 4/BA, Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe 23/5/2024.
+De outra banda, verifico ser desproporcional a imposição de prisão preventiva, considerando a primariedade do paciente, que o crime foi cometido sem violência e o fato de a quantidade de droga apreendida não se mostrar expressiva - 2,605 g de maconha e 2,855 g de crack (fl. 91) -, a justificar a medida mais gravosa. Portanto, a gravidade da infração deve ser avaliada com base na quantidade e no contexto das drogas apreendidas.
+A prisão preventiva deve ser a ultima ratio, ou seja, aplicada somente quando outras medidas cautelares não forem adequadas para garantir a ordem pública, a aplicação da lei penal ou a conveniência da instrução criminal. A decisão de manter a prisão preventiva deve ser fundamentada na necessidade, adequação e proporcionalidade da medida em relação aos fatos e circunstâncias do caso.
+Ante o exposto, concedo liminarmente a ordem, apenas, para cassar o acórdão impugnado e substituir a prisão preventiva imposta ao ora paciente por medidas cautelares, a serem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto, nos termos desta decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DECRETAÇÃO DE OFÍCIO. NÃO OCORRÊNCIA. PRIMARIEDADE E QUANTIDADE DE DROGAS NÃO EXORBITANTES. SUBSTITUIÇÃO POR CAUTELARES. POSSIBILIDADE E ADEQUAÇÃO.
+Ordem concedida liminarmente nos termos do dispositivo.
