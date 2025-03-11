@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a Vara do Único Ofício da Comarca de Maravilha/AL, como suscitante, e a 11ª Vara Federal de Santana do Ipanema/AL, a suscitada, nos autos de ação envolvendo direito à saúde, com pleito de fornecimento de medicamentos.
+A demanda foi originariamente proposta perante a Justiça estadual, que declinou da competência para a Justiça Federal, por entender necessária a participação da União na lide (fls. 45/47). O Magistrado da Vara Federal, por sua vez, averbou a impertinência subjetiva do ente federal e, em consectário, determinou o retorno dos autos à origem (fls. 58/59).
+Por causa dessa controvérsia restou suscitado, pelo Juízo estadual (fls. 60/68), o presente incidente processual.
+O parecer do Ministério Público Federal, de lavra da eminente Subprocuradora-Geral da República Maria Iraneide Olinda Santoro Facchini, vem pelo reconhecimento da competência da Justiça Federal.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66, II, e 953, I, do CPC.
+Quanto ao mérito, tem-se um conflito de competência cuja ação subjacente foi proposta em data anterior ao julgamento pelo STF do Tema 1.234 da Repercussão Geral, pelo que alcançado pela modulação de efeitos nele promovida. Assim, em se tratando de medicamento incorporado ao SUS e oncológico, deve ser aplicado o item I das teses fixadas por ocasião da tutela provisória concedida no referido tema, assim redigido:
+(i) nas demandas judiciais envolvendo medicamentos ou tratamentos padronizados: a composição do polo passivo deve observar a repartição de responsabilidades estruturada no Sistema Único de Saúde, ainda que isso implique deslocamento de competência, cabendo ao magistrado verificar a correta formação da relação processual, sem prejuízo da concessão de provimento de natureza cautelar ainda que antes do deslocamento de competência, se o caso assim exigir;
+Nesse diapasão e na linha do entendimento prevalecente na Primeira Seção, tratando-se de medicamento oncológico, incorporado ao SUS, deve ser reconhecida a competência da Justiça Federal, como averbou o MPF em seu judicioso parecer. Nesse mesmo sentido:
+DIREITO PROCESSUAL CIVL E ADMINISTRATIVO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. FORNECIMENTO DE MEDICAMENTO INCORPORADO AO SUS E REGISTRADO NA ANVISA. OBSERVÂNCIA AO PRONUNCIAMENTO LIMINAR DO STF NO TEMA 1234.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Trata-se de conflito negativo no qual se discute a competência para o processamento e o julgamento de ação visando o fornecimento de medicamento oncológico registrado na ANVISA e incorporado às politicas públicas de saúde por meio da Portaria SCTIE/MS n. 91, de 27.12.2018.
+2. A esse respeito, o STF determinou que, até o julgamento final do RE 1.366.243/SC (Tema 1.234), nas demandas judiciais envolvendo medicamentos padronizados, a composição do polo passivo deve observar a repartição de responsabilidades estruturada no SUS, ainda que isso implique deslocamento de competência. Caso o processo já tenha sentença prolatada (até 17.4.2023) devem permanecer no ramo da Justiça sentenciante até o trânsito em julgado e respectiva execução.
+3. Nesse panorama, considerando que a hipótese versa sobre medicamento oncológico padronizado, com aquisição centralizada pelo Ministério da Saúde, e não há sentença prolatada nos autos, a demanda deve tramitar perante a Justiça Federal.
+4. Agravo interno não provido.
+(AgInt nos EDcl no CC n. 198.453/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 20/8/2024, DJe de 22/8/2024.)
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda a 11ª Vara Federal de Santana do Ipanema/AL, ora suscitada.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
