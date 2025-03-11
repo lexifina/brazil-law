@@ -1,0 +1,7 @@
+DECISÃO
+De início, torno sem efeito as decisões proferidas às fls. 245-249 e 253-257, e julgo prejudicado a petição de fls. 269-275.
+No caso, o cerne da questão ora submetida a julgamento diz respeito à legitimidade do sindicato para atuar na condição de substituto processual do servidor público federal falecido antes da propositura de ação de conhecimento.
+Ocorre que a Primeira Seção, nos autos do RESp n. 2.144.140/CE, Relatora Ministra Maria Thereza de Assis Moura, por unanimidade, afetou o processo ao rito dos recursos repetitivos (RISTJ, art. 257-C) para delimitar a seguinte tese controvertida: "Saber se os sucessores do servidor falecido antes da propositura da ação coletiva podem executar a sentença condenatória." e, igualmente por unanimidade, nos termos do art. 1.037,II, do CPC/15, suspendeu o processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ.
+Assim, por enquanto, julgo prejudicado os recursos especiais, e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão do recurso representativo de controvérsia, o Tribunal de origem proceda novo julgamento da questão, nos termos do art. 1.040 e seguinte do mesmo CPC/15.
+Publique-se. Intimem-se.
+EMENTA
