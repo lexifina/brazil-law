@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por LIFE VITORIA CONSULTORIA E CORRETORA DE SEGUROS LTDA do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO (fl. 566):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXCLUSÃO DO PIS E DA COFINS DA BASE DE CÁLCULO DO IRPJ E DA CSLL. SISTEMÁTICA DO LUCRO PRESUMIDO. IMPOSSIBILIDADE. ENTENDIMENTO DO STF. RE  574.706. INAPLICABILIDADE. STJ. TEMA 1008. RECURSO REPETITIVO. ICMS. FUNDAMENTOS IDÊNTICOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. PREQUESTIONAMENTO.
+1. Inexistem os vícios apontados no acórdão embargado, sendo certo que omissão haveria caso não ocorresse a apreciação das questões de fato e de direito relevantes para o deslinde da causa.
+2. O voto é expresso ao afastar a tese firmada pelo Supremo Tribunal Federal no RE nº 574.706/PR, destacando que, no referido julgado, o STF procedeu à análise de uma exigência tributária específica, sendo descabida a sua aplicação automática, principalmente quando em discussão tributo diverso; que o acolhimento do pedido de exclusão do PIS e da COFINS da base de cálculo do IRPJ e da CSLL importaria indevida dupla dedução, na medida em que no arbitramento do lucro presumido como um percentual da receita bruta já são consideradas as despesas, não havendo que se falar, por conseguinte, em violação ao princípio da capacidade contributiva, e que os fundamentos para a inclusão do PIS e da COFINS na base de cálculo do IRPJ e CSLL são idênticos aos utilizados em relação ao ICMS (Tema nº 1008).
+3. Com base em alegações de omissão deseja a embargante modificar o julgado por não-concordância, sendo esta a via inadequada.
+4. A jurisprudência do STJ é pacífica no sentido de que "se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte" (STJ, Aglnt no AREsp nº2.202.324, rei. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 23.6.2022). No mesmo sentido: "O julgador não está obrigado a rebater, um a um, todos os argumentos da parte. Para a resolução da controvérsia, basta a manifestação a respeito das questões relevantes e imprescindíveis para esse fim" (STJ, Aglnt no AREsp nº 1.901.286, rel. Ministro Og Fernandes, Segunda Turma, DJe 24.6.2022).
+5. Para fins de prequestionamento, basta que a questão tenha sido debatida e enfrentada no corpo do acórdão, sendo desnecessária a indicação de dispositivo legal ou constitucional.
+6. Embargos de declaração conhecidos e desprovidos.
+O recurso foi admitido na origem (fl. 656).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1312), e foi assim delimitada:
+"Definir se as contribuições PIS/COFINS compõem a base de cálculo do IRPJ/CSLL quando apurados na sistemática do lucro presumido"
+(Recursos Especiais 2.151.904/RS, 2.151.907/RS e 2.151.903/RS relator Ministro Paulo Sérgio Domingues).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia , o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
