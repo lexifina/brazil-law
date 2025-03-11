@@ -1,0 +1,12 @@
+DECISÃO
+Em 22/08/2024 foi prolatada a decisão de fls. 308/310 por intermédio da qual foi julgado prejudicado o recurso especial do Distrito Federal e determinado o retorno dos autos para juízo de conformação ou manutenção do acórdão frente ao que viesse a ser decidido pela Suprema Corte no RE 1.412.069 - Tema 1255/STF.
+Em 19/11/2024, a Presidência do Tribunal de Justiça do Distrito Federal e dos Territórios, remeteu novamente os autos a esta Corte ao entendimento de que a tese aventada no recurso especial - adoção da tabela da OAB para a fixação dos honorários advocatícios em favor da Defensoria Pública - difere da matéria a ser discutida por meio do Tema 1255.
+É O BREVE RELATÓRIO.
+Procede o retorno dos autos ao Superior Tribunal de Justiça, porém é caso de realização de juízo de conformação por razões diversas.
+No caso, mel hor compulsando os autos, verifica-se que o recurso especial envolve questão que será tratada por intermédio do Tema Repetitivo 1.313/STJ, que submeterá a seguinte questão a julgamento: "Saber se, nas demandas em que se pleiteia do Poder Público o fornecimento de prestações em saúde, os honorários advocatícios devem ser fixados com base no valor da prestação ou do valor atualizado da causa (art. 85, §§ 2º, 3º e 4º, III, CPC), ou arbitrados por apreciação equitativa (art. 85, parágrafo 8º, do CPC) ".
+Isto porque a discussão sobre a possibilidade de fixação de honorários por equidade ou pelo benefício financeiro é prejudicial à utilização do art. 85, § 8º-A do CPC, conforme se depreende da leitura do referido dispositivo legal, in verbis:
+§ 8º-A. Na hipótese do § 8º deste artigo, para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior. (Incluído pela Lei nº 14.365, de 2022)
+Assim, mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+EM RAZÃO DO EXPOSTO, determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido por esta Corte Superior.
+Publique-se.
+EMENTA
