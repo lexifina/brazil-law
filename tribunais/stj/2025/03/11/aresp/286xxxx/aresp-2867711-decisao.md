@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 147):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO (CSLL) E IMPOSTO DE RENDA PESSOA JURÍDICA (IRPJ) APURADOS EM REGIME DE LUCRO PRESUMIDO. BASE DE CÁLCULO. EXCLUSÃO DO ICMS. DESCABIMENTO.
+É descabida a pretensão de ter excluído o ICMS da base de cálculo da Contribuição Social sobre o Lucro Líquido (CSLL) e do Imposto de Renda Pessoa Jurídica (IRPJ), apurados pelo lucro presumido, seja porque não se aplica extensivamente ao caso a tese firmada pelo Supremo Tribunal apenas em relação à contribuição ao PIS e à COFINS, seja porque essa forma de apuração dos tributos, pela sua natureza, já leva em consideração todas as possíveis deduções. Precedentes desta Corte.
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação dos artigos 1.022 do CPC/2015, 518 e 224 do Decreto n. 3.000/99, 15 e 20 da Lei n. 9.249/95, ao argumento de que "os valores arrecadados a título de ICMS, PIS e de COFINS não têm natureza de faturamento e nem de receita, mas de simples "ingresso de caixa", tendo em vista que jamais se incorporarão ao patrimônio da pessoa jurídica, não podendo, em razão disso, compor a base de cálculo do IRPJ e da CSLL, apurados no regime do lucro presumido" (fl. 190).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Com efeito, observa-se que a Primeira Seção deste Tribunal Superior decidiu afetar os REsps 2.151.903/RS, 2.151.904/RS e 2.151.907/RS (Rel. Min. Paulo Sérgio Domingues) à sistemática dos recursos repetitivos a fim de fixar a seguinte tese: "Definir se as contribuições PIS/COFINS compõem a base de cálculo do IRPJ/CSLL quando apurados na sistemática do lucro presumido", tendo sido determinada a suspensão do processamento dos recursos especiais e agravos em recurso especial em trâmite no território nacional.
+Desse modo, em observância ao princípio da economia processual, é possível ao relator determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido nos autos do recurso representativo da controvérsia, devendo tal recurso ser apreciado na forma prevista nos arts. 1039 a 1041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. PIS E COFINS. BASE DE CÁLCULO DO IRPJ E DA CSLL. SISTEMÁTICA DO LUCRO PRESUMIDO. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. DEVOLUÇÃO À ORIGEM.
