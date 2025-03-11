@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RENAN AUGUSTO GOMES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo em Execução n. 0027205-41.2024.8.26.0041.
+Consta dos autos que o paciente formulou pedido no Juízo de primeiro grau visando à remição da pena pela leitura e resenha devidamente aprovada, mas a pretensão foi indeferida pelo Juízo.
+Inconformada, a Defesa interpôs recurso, porém, por maioria, o Tribunal local negou-lhe provimento e manteve a decisão de origem.
+Neste writ, a impetrante pretende a análise do requerimento que foi indeferido nas instâncias inferiores ao argumento de que o paciente preencheu todos os requisitos exigidos para a concessão do benefício.
+Aduz que, conforme preconiza o artigo 126 e seguintes da Lei de Execuçao Penal, bem como a Resolução n. 391/2021, do CNJ, o custodiado tem direito de reduzir o tempo de cumprimento da pena contando que se dedique rotineiramente ao trabalho e/ou estudo (fl. 5). Cita, ainda, a Orientação Técnica DMF/CNJ nº 0 1, de 04 de julho de 2022, a respeito da remição de pena pelas práticas sociais educativas.
+Ao final, requer, liminarmente e no mérito, que seja determinada a aplicação da remição de pena pelo estudo-leitura realizado pelo paciente, na proporção de 04 (quatro) dias para cada obra, em razão da leitura e aprovação da respectiva obra literária
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Ademais, consoante entendimento desta Corte Superior,
+o dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta (AgRg no HC 530.261/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/09/2019).
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, cumpre analisar a existência de eventual ameaça ou coação à liberdade de locomoção do paciente, a fim de evitar prejuízo à sua defesa.
+Passarei, assim, ao exame das razões deste writ.
+O Juiz de Execução, ao indeferir o pedido de remição por leitura, assim se manifestou (fl. 34):
+No artigo 126 da Lei de Execução Penal estão previstas duas hipóteses de remição de pena: pelo trabalho e pelo estudo. A remição pela leitura, formatada pela Portaria 276/2012 do DEPEN (Departamento Penitenciário Nacional) não encontra respaldo legal.
+Assim, ante a ausência de previsão legal, torna-se inviável o acolhimento do pedido.
+(..).
+Ao julgar o agravo em execução penal, o Tribunal de origem manteve a decisão de primeiro grau nos seguintes termos (fls. 16/17 - grifamos):
+O recurso não merece acolhimento.
+Realmente, os documentos juntados aos autos dão conta de que o agravante concluiu a leitura do livro "O homem que calculava", apresentando resenha e obtendo parecer favorável de membros da comissão de avaliação do estabelecimento em que se encontra recolhido (fls. 14/7).
+E não há dúvidas de que a leitura é meio de reinserção social do reeducando, servindo de instrumento de crescimento intelectual e combate à ociosidade no ambiente prisional.
+Não se desconhece, por certo, o teor da Portaria Conjunta nº 276/2012 e a Recomendação nº 44/2013 do CNJ, preconizando a valorização das atividades de caráter complementar para fins de remição.
+Entretanto, ainda assim, o pleito não era de ser acolhido, eis que a simples leitura de um livro não pode ser equiparada à atividade de ensino de que trata o art. 126, § 1º, I, da LEP, descabendo ao juiz criar o que a norma legal não o fez; pena de usurpar a função legislativa.
+Nesse sentido, inclusive, a Súmula 341 do STJ: "A frequência a curso de ensino formal é causa de remição de parte do tempo de execução de pena sob regime fechado ou semiaberto" (grifo nosso).
+(..)
+Destarte, dá-se provimento ao recurso, para que fique cassada a remição concedida.
+Como se vê, as instâncias ordinárias afastaram a pretensão da Defesa ao fundamento de falta de previsão legal, que não pode ser suprida por recomendação editada pelo Conselho Nacional de Justiça (CNJ).
+Tal entendimento, entretanto, conflita com a pacífica jurisprudência do Superior Tribunal de Justiça, que se firmou no sentido de que,
+a partir da interpretação in bonam partem do art. 126 da Lei de Execução Penal, admite-se a remição da pena pela leitura conforme estabelecem a Portaria conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, e a Recomendação n. 44/2013 do Conselho Nacional de Justiça (HC n. 413.501/SP, rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/06/2018, DJe de 1º/08/2018).
+Com efeito, a remição de pena pode ocorrer mediante trabalho, estudo e, de forma mais recente, pela leitura, conforme modificação instituída pela Lei n. 12.433/2011, que alterou a redação dos arts. 126, 127 e 128 da Lei de Execução Penal, disciplinada pela Recomendação n. 391/2021, do Conselho Nacional de Justiça (CNJ), que revogou expressamente a Recomendação CNJ n. 44/2013.
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 126 DA LEP. REMIÇÃO DA PENA PELA LEITURA. POSSIBILIDADE. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM DISSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. PARECER DO MINISTÉRIO PÚBLICO FEDERAL ACOLHIDO COMO RAZÕES DE DECIDIR. JURISPRUDÊNCIA DO STJ. DETERMINADO O RETORNO DOS AUTOS À ORIGEM PARA APLICAÇÃO DA REMIÇÃO DA PENA.
+Agravo regimental provido para conhecer do agravo e dar provimento ao recurso especial. Determinado o retorno dos autos à origem para que seja reconhecida a remição da pena pela leitura. (AgRg no AREsp n. 2.747.335/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/12/2024, DJEN de 16/12/2024)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO DE PENAS. LEITURA. ANALOGIA IN BONAM PARTEM. LIMITE ANUAL MÁXIMO ATINGIDO. IMPOSSIBILIDADE DE CONCESSÃO POSTERIOR. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Sobre o tema, " c onforme jurisprudência desta Corte Superior, "a norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento, em razão de atividades que não estejam expressas no texto legal (REsp 744.032/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 5/6/2006)" (AgRg no HC n. 549.304/SC, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/3/2020)" (AgRg no HC n. 820.914/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 11/10/2023.)
+2. Entretanto, nos termos do art. 5º, V, da Resolução Nº 391 de 10/05/2021, " t erão direito à remição de pena pela leitura as pessoas privadas de liberdade que comprovarem a leitura de qualquer obra literária, independentemente de participação em projetos ou de lista prévia de títulos autorizados, considerando-se que:  ..  V - para cada obra lida corresponderá a remição de 4 (quatro) dias de pena, limitando-se, no prazo de 12 (doze) meses, a até 12 (doze) obras efetivamente lidas e avaliadas e assegurando-se a possibilidade de remir até 48 (quarenta e oito) dias a cada período de 12 (doze) meses".
+3. Agravo regimental não provido. (AgRg no HC n. 923.012/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Ante o exposto, não conheço do habeas corpus, mas, considerando a flagrante ilegalidade, concedo liminarmente a ordem, de ofício, para determinar ao Juízo das Execuções que novamente analise a possibilidade de concessão da remição ao apenado, afastando a fundamentação anteriormente adotada, bem como primando pela observância da Recomendação n. 391/2021 do CNJ, nos termos da jurisprudência desta Corte Superior.
+Comunique-se, com urgência, o teor desta decisão tanto ao Juízo das Execuções quanto ao Tribunal de Justiça.
+Cientifique-se o Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
