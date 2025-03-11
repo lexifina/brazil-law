@@ -1,0 +1,53 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO - EM LIQUIDACAO EXTRAJUDICIAL, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/07/2024.
+Concluso ao gabinete em: 25/09/2024.
+Ação: revisional de contrato, ajuizada por ELIS REGINA RIBEIRO CORREA, em face da agravante, visando reduzir encargos que julga abusivos.
+Sentença: julgou procedentes os pedidos para limitar os juros remuneratórios à taxa média de mercado, descaracterizar a mora e autorizar a repetição simples do indébito.
+Acórdão: negou provimento à apelação interposta pela agravante (e-STJ, fl. 226).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão do STJ: determinando retorno dos autos para novo julgamento (fls. 497/499, e-STJ).
+Acórdão: negou provimento à apelação interposta, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. NOVO JULGAMENTO NOS LIMITES DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+I. NOVO JULGAMENTO, EM RAZÃO DA DECISÃO LANÇADA PELO STJ.
+II. MANTIDOS OS JUROS REMUNERATÓRIOS DE ACORDO COM A TAXA MÉDIA DE MERCADO.
+III. MANUTENÇÃO DO ACÓRDÃO PROFERIDO NO EV. 07.
+EM JUÍZO DE RETRATAÇÃO, NEGARAM PROVIMENTO AO RECURSO DA PARTE RÉ E DERAM PARCIAL PROVIMENTO AO APELO DA PARTE AUTORA. UNÂNIME. (fl. 542, e-STJ)
+Embargos de declaração: opostos pela agravante, foram rejeitados (fls. 569/574, e-STJ).
+Recurso especial: alega violação dos arts. 1.022, II, CPC e 51, IV, § 1º, III, da Lei 8.078/90, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que a Corte local não atendeu as diretrizes traçadas pelo leading case das ações revisionais bancárias REsp 1.061.530/RS, na medida em que não procedeu a avaliação de todas as circunstâncias, tendo se limitado a proceder comparação entre taxas e a realizar simples e superficial menção de peculiaridades pontuais da contratação, insuficientes ao atendimento da exigência de demonstração cabal da abusividade.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da suspensão do feito
+De início, em suas razões de recurso especial, alega a parte agravante que teve decretada a sua liquidação extrajudicial, através do Ato do Presidente do Banco Central nº 1.360 de 15/02/2023, nomeando como liquidando o Sr. Cornélio Farias Pimentel, e, com base no artigo 18 da Lei 6.024/74, que dispõe sobre a intervenção e liquidação extrajudicial, requerer a suspensão do presente processo.
+No entanto, acerca do referido pedido em decorrência da decretação de liquidação extrajudicial, a jurisprudência desta Corte se firmou no sentido de que a regra contida no art. 18, a, Lei 6.024/1974 deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito, a qual interferirá na formação do título executivo, que será passível de habilitação no processo de liquidação, sem implicar a redução do acervo patrimonial da massa objeto de liquidação (REsp 1.298.237/DF, Terceira Turma, DJe 25/05/2015).
+Ainda nesse sentido: AgInt no REsp 1.969.577/ES, Quarta Turma, DJe 31/03/2023; AgInt no REsp 1.985.667/ES, Quarta Turma, DJe 15/08/2022; AgInt no REsp 1.783.833/SP, Terceira Turma, DJe 27/10/2020; AgInt no AREsp 1.526.212/SP, Terceira Turma, DJe 12/06/2020.
+Assim, por ora, não merece acolhimento o pedido de suspensão do feito.
+- Da gratuidade da justiça
+Segue a parte agravante, em suas razões de recurso especial, e requer o deferimento da Assistência Judiciária Gratuita, alegando que, analisando-se a documentação financeira e contábil acostada aos autos, não restam dúvidas acerca da total incapacidade da parte agravante de arcar as custas processuais em 7000 processos em que é demandada, restando configurada a sua condição de hipossuficiência.
+Nessa linha, quanto ao pedido de concessão dos benefícios da gratuidade da justiça, está Corte já estabeleceu que a simples decretação de liquidação extrajudicial não tem o condão de, por si só, induzir ao reconhecimento da hipossuficiência financeira da pessoa jurídica. Nesse sentido: AgInt no AREsp 1.978.978/GO, Quarta Turma, DJe 29/04/2022 e AgInt no AREsp 1.323.108/ES, Terceira Turma, DJe 14/06/2019.
+Além disso, cumpre ressaltar que o benefício da gratuidade da justiça pode ser requerido a qualquer tempo e fase processual, contudo sua concessão não possui efeito retroativo. Nesse sentido: AgInt no AREsp 1.718.508/ES, Terceira Turma, DJe 27/11/2020; AgInt nos EDcl no AREsp 1.064.017/SC, Quarta Turma, DJe 20/05/2019; AgInt no AREsp 862.843/PR, Terceira Turma, DJe 28/08/2017.
+Na presente hipótese, mesmo com as alegações apresentadas pela parte agravante, houve o recolhimento das custas, inclusive sendo o fato ressaltado pela parte agravante, alegando, para tanto, que inobstante tenha conseguido proceder com tal recolhimento, neste momento, reitera a necessidade de que lhe seja concedido o benefício da assistência judiciária gratuita.
+Nesse sentido, não há que se falar em concessão do benefício requerido, ante a conduta da parte agravante que demonstra haver possibilidade de pagamento das custas devidas, mesmo diante da argumentação apresentada.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da abusividade dos juros remuneratórios pactuados, levando-se em consideração as condições da parte agravada e a taxa estipulada pelo BACEN, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "os argumentos expostos são genéricos e não se prestam a justificar a cobrança de juros remuneratórios em patamares elevados", bem como de que "o contrato de empréstimo revisado encontra-se em dia e sem notícia de inadimplência no curso do negócio. Ou seja, mesmo o risco de inadimplemento não se encontra no caso concreto, notadamente pela segurança decorrente da consignação em folha de pagamento", pontua que "não há situações concretas, nos autos, que justifiquem tamanha desconformidade entre os juros contratados e os operados no mercado de crédito por instituições financeiras congêneres", e em arremate assevera que "conclui-se ser improcedente o pedido de análise das peculiaridades do caso concreto que justificam a manutenção dos juros remuneratórios pactuados, pois essas circunstâncias não foram expostas pela instituição financeira" exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º do CPC e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente, em R$ 200,00 (duzentos reais), ressalvada a eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. LIQUIDAÇÃO EXTRAJUDICIAL. DECRETAÇÃO. SUSPENSÃO. NÃO CABIMENTO. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 1022 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação revisional de contrato.
+2. A regra contida no art. 18, a, Lei 6.024/1974 deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito. Na hipótese, não há que se falar em suspensão do feito por conta da decretação da liquidação extrajudicial. Precedentes.
+3. Não há que se falar em concessão da gratuidade requerida, uma vez que a parte efetuou o devido pagamento das custas. Comportamento, por ora, contrário ao benefício requerido.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 1022 do CPC.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7 desta Corte, acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do permissivo constitucional.
+8. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
