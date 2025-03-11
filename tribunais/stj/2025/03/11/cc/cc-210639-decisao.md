@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 5ª Vara Federal da Seção Judiciária do Amazonas, como suscitante, e o Juízo da 43ª Zona Eleitoral do Estado de Amazonas, o suscitado, nos autos de "representação eleitoral" (fl. 11) por descumprimento de Termo de Ajustamento de Conduta firmado durante o período de campanha eleitoral, para fins de cobrança de multa no valor de R$ 10.000,00.
+A demanda foi originariamente proposta perante a Justiça eleitoral, que declinou da competência em favor da Justiça Federal, por entender que se tratando "de composição de natureza civil, formulada por pessoas dotadas de capacidade jurídica e tendo como escopo o resguardo da saúde pública, é preciso considerar que tanto a sua execução quanto a resolução das controvérsias decorrentes de sua aplicação competem à Justiça Comum estadual (e não à Eleitoral)". (fl. 25)
+Para o Juízo suscitante, contudo, o caso é de competência da Justiça especializada, pelo que restou suscitado o presente incidente processual.
+O parecer do Ministério Público Federal, de lavra do eminente Subprocurador-Geral da República Rodolfo Tigre Maia, vem pelo reconhecimento da competência da Justiça Eleitoral.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66, II, e 953, I, do CPC.
+Quanto ao mérito, consoante averbado no parecer ministerial, a jurisprudência deste Sodalício se orienta pelo reconhecimento da competência da Justiça Eleitoral para as ações nas quais se cobram multas de natureza eleitoral, inclusive aquelas decorrente de Termo de Ajustamento de Conduta - TAC. Confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO. SÚMULA 374/STJ, POR ANALOGIA. MULTA PROVENIENTE DO NÃO CUMPRIMENTO DE TERMO DE AJUSTAMENTO DE CONDUTA. COMPETÊNCIA DA JUSTIÇA ELEITORAL.
+1. Na espécie dos autos, estabeleceu-se no Termo de Ajustamento de Conduta que as Coligações, ora Recorridas, não utilizariam de fogos de artifício de qualquer espécie na propaganda política na eleição ocorrida no ano de 2008. E, na hipótese de descumprimento do que foi acordado, seria aplicada multa de R$ 20.000,00 (vinte mil reais), destinada ao Fundo de Reaparelhamento do Poder Judiciário. Sob a alegação de que teria havido o descumprimento do referido acordo, o Ministério Público do Estado de Goiás, através da Promotoria da Justiça Eleitoral, requer a execução da multa.
+2. Nos termos do art. 367, inciso IV, do Código Eleitoral, compete ao Juízo Eleitoral conhecer de execução fiscal que versa sobre dívida reconhecida pela Justiça Especializada. Nesse sentido: CC 77.503/MS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA SEÇÃO, julgado em 28/11/2007, DJ 10/12/2007 p. 276, CC 46901/PR, Rel. Ministra DENISE ARRUDA, PRIMEIRA SEÇÃO, julgado em 22/02/2006, DJ 27/03/2006 p. 138;
+CC 22539/TO, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 25/08/1999, DJ 08/11/1999 p. 69.
+3. Nessa linha, tendo o Termo de Ajustamento de Conduta pactuado entre o Ministério Público Estadual e a Coligação em comento natureza eminentemente eleitoral, a competência para o processamento da referida ação é da Justiça Especializada.
+4. Conflito conhecido para declarar a competência do Tribunal Regional Eleitoral do Estado de Goiás, o suscitante.
+(CC n. 123.828/GO, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 12/9/2012, DJe de 18/9/2012.)
+Dita compreensão vem sendo reafirmada em julgados monocráticos dos Ministros integrantes da Primeira Seção. Ilustrativamente, citam-se: CC n. 175.184, Rel. Min. Gurgel de Faria, DJEN de DJe 01/10/2020; CC n. 163.123, Ministro Benedito Gonçalves, DJEN de DJe 05/03/2020; CC n. 163.133, Ministro Gurgel de Faria, DJEN de DJe 16/04/2019; CC n. 159.519, Ministro Sérgio Kukina, DJEN de DJe 21/08/2018.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda Juízo da 43ª Zona Eleitoral do Estado de Amazonas, ora suscitado.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
