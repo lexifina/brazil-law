@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDGAR VITORIO SILVA HOETMER apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (APC n. 1500696-51.2023.8.26.0229).
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/06, à pena de 5 anos de reclusão, em regime fechado, e 500 dias-multa. Irresignada, a defesa interpôs recurso de apelação, ao qual a Corte de origem negou provimento (e-STJ fls. 17/27).
+No presente mandamus, a defesa sustenta a nulidade da prova, pois decorrente de abordagem realizada pela guarda civil municipal fora de suas atribuições constitucionais. Assim, a prova é ilícita, devendo ser desentranhada dos autos, com a consequente absolvição do paciente.
+Salienta que a situação não era de flagrante delito, tendo os guardas municipais realizado verdadeira atividade investigativa.
+Pugna, liminarmente, que o paciente aguarde em liberdade o julgamento do presente writ. No mérito, que seja reconhecida a nulidade das provas, com a consequente absolvição do paciente.
+É o relatório. Decido.
+Busca a defesa o reconhecimento da ilicitude da prova, pois decorrente de indevida atuação da guarda civil municipal, com a consequente absolvição do paciente.
+A alegação defensiva não foi previamente submetida ao crivo do Tribunal de origem. Portanto, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Com efeito, verifica-se que a Corte local ao examinar a autoria do delito pelo paciente, referiu-se aos depoimentos dos guardas municipais envolvidos na ação - intitulados sólidos, coesos e harmônicos - salientando se tratar de meio idôneo de prova, inexistindo nos autos qualquer indício de incriminação falsa ou leviana por parte dos agentes. Contudo, não se analisou se indevida a ação da guarda municipal, o que, não obstante, é o objeto do presente writ.
+Nesse contexto, verifica-se do relatório do julgado, que a defesa efetivamente não pleiteou o exame da aludida matéria, confira-se (e-STJ fls. 18/19):
+A defesa pleiteia, preliminarmente, que seja concedida ao réu o direito de recorrer em liberdade. No mérito, pugna pela absolvição por insuficiência probatória. Alternativamente, requer a desclassificação do crime de tráfico para o delito previsto no artigo 28 da Lei 11.343/06. Subsidiariamente, pleiteia o redimensionamento da pena, com aplicação da atenuante da menoridade relativa; o reconhecimento do redutor previsto no artigo 33, § 4º, da Lei 11.343/06; o abrandamento do regime prisional, com aplicação da detração penal; e a redução da pena de multa (fls. 181/195).
+Assim, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
