@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada: (fl. 134)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+O embargante sustenta que "a decisão embargada deixou de fixar os honorários recursais devidos pela parte adversa, desatendendo, assim, ao comando do art. 85, §11 do CPC, caracterizando a omissão do julgado para o qual se pretende a integração do julgado." (fl. 138)
+Com impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, infere-se dos autos que ao julgar o agravo de instrumento interposto pelo ora embargado, o Tribunal de origem não fixou honorários sucumbenciais, não sendo cabível, portanto, tal majoração.
+Esta Corte, a propósito, orienta-se no sentido de que "os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo (o CPC/2015 fala em "majoração") ao ônus estabelecido previamente, motivo pelo qual, na hipótese de descabimento ou na de ausência de fixação anterior, não há falar em honorários recursais" (AREsp 1.050.334/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/4/2017).
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTROVÉRSIA DIRIMIDA PELO TRIBUNAL A QUO MEDIANTE FUNDAMENTAÇÃO SUFICIENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. SÚMULA 7/STJ. REVALORAÇÃO DE PROVA. NÃO CARACTERIZAÇÃO. DISSÍDIO JURISPRUDENCIAL. INEXISTÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando a Corte de origem resolve, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+Não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Não prospera a alegação de revaloração de prova, pois o acórdão recorrido firmou seu entendimento quanto à prescrição com base no conteúdo do título exequendo, sendo inviável rever tal título a fim de infirmar aquela decisão, ante o óbice imposto pela Súmula 7/STJ.
+Precedentes.
+3. Quanto ao dissídio jurisprudencial, o Tribunal de origem afirmou não terem sido fixados os honorários de sucumbência no decisório agravado, que sua análise dos autos levaria à imposição deles à parte ora agravante, mas, em razão de não ter havido recurso do INSS quanto a esse tema, deixou de fazê-lo. Essa a razão de o acórdão recorrido estar alinhado à jurisprudência deste Superior Tribunal, que entende ser esse contexto motivo para não fixar honorários, a fim de evitar a reformatio in pejus. Precedentes.
+4. Assim, também, o pleito de fixação de honorários recursais, pois ausente prévia fixação de verba honorária pelas instâncias originárias. Precedentes.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.250.976/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/11/2024, DJEN de 29/11/2024.) (grifo meu)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC2015. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211 DO STJ. REAFIRMAÇÃO DA DER. JUROS DE MORA. INCIDÊNCIA A PARTIR DO TÉRMINO DO PRAZO DE 45 DIAS PARA A IMPLANTAÇÃO DO BENEFÍCIO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. PRECEDENTES. HONORÁRIOS RECURSAIS (ART. 85, § 11, DO CPC/2015). MAJORAÇÃO FASTADA.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não se conhece da suposta afronta ao artigo 1.022, II, do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta do necessário prequestionamento. Incidindo a Súmula 211 do STJ e, por analogia, as Súmulas 282 e 356 do STF.
+4. A jurisprudência do STJ é no sentido de que admitida a reafirmação da DER (Data de Entrada do Requerimento), haverá fixação de juros de mora caso o INSS não efetive a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até 45 (quarenta e cinco) dias. Orientação firmada pela Primeira Seção, sob o rito dos recursos repetitivos, no julgamento dos Embargos de Declaração no Recurso Especial n. 1.727.063/SP, de relatoria do Min. Mauro Campbell Marques. Precedentes.
+5. Inviável a majoração da verba honorária sucumbencial, nos termos do art. 85, §11, do CPC/2015, quando não houver condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Agravo interno parcialmente provido para afastar a majoração da verba honorária. (AgInt no REsp n. 1.938.482/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/9/2021, DJe de 30/9/2021.) (grifo meu)
+Ante o exposto, acolho os embargos de declaração apenas para fins de esclarecimento, sem efeitos modificativos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. IMPOSSIBILIDADE. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS NA ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
