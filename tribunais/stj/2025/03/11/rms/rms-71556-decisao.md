@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Laura Mardini Davi contra acórdão, assim ementado (fls. 1.555-1.568):
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CARGO DE ANALISTA ARQUITETO. EDITAL Nº 02/2021 DA SECRETARIA DE PLANEJAMENTO, GOVERNANÇA E GESTÃO DO RIO GRANDE DO SUL. ALEGADA NULIDADE DAS QUESTÕES DE NºS 32, 40 E 56 DA PROVA OBJETIVA DE CONHECIMENTOS ESPECÍFICOS. DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO.
+1. O julgamento, em repercussão geral, do Tema nº 485 da Repercussão Geral pelo STF (RE nº 632853) - fixando a tese de que os critérios adotados por banca examinadora de concurso público não podem ser revistos pelo Poder Judiciário - não afastou a possibilidade de intervenção do Poder Judiciário em face de demonstrada ilegalidade ou na verificação da compatibilidade do conteúdo das questões do certame com o previsto no respectivo edital.
+2. Caso em que, nas questões 32, 40 e 56 do concurso público para provimento do cargo de Analista Arquiteto, aberto pelo Edital nº 02/2021, não se verifica a ocorrência, aferível mediante a produção de prova pré-constituída, como exige o procedimento especial da lei do mandado de segurança, de erro grosseiro, ilegalidade ou incompatibilidade com o previsto no edital respectivo.
+SEGURANÇA DENEGADA.
+A recorrente, em suas razões, narra que está inscrita no concurso público promovido pela Secretaria de Planejamento, Governança e Gestão do Estado do Rio Grande do Sul para o cargo de Analista Arquiteto, regulado pelo Edital de Abertura n. 02/2021. Reitera, ipsis literis, os argumentos da inicial do mandando de segurança no sentido de que:
+i) "a questão n. 32 da parte de Conhecimentos Específicos violou expressamente a Lei Estadual nº. 15.266/2019, ao cobrar conteúdo não previsto no edital, bem como por conter flagrante ilegalidade";
+ii) "a questão n. 40 da parte de Conhecimentos Específicos, também, viola expressamente a Lei n. 15.266/2019, visto que contém irregularidades que comprometem seu conteúdo e impossibilita o candidato de localizar a alternativa correta, razão pela qual faz-se necessária sua anulação";
+iii) "a questão n. 56 da parte de Conhecimento Específicos também viola expressamente o Estatuto do Concurso Público do Rio Grande do Sul (Lei n. 15.266/2019), porquanto se refere à matéria estranha às atribuições do cargo de analista arquiteto, e sequer deveria ser objeto do presente certame".
+Requer, assim, o provimento do recurso, "para anular o gabarito das referidas questões, determinando que sejam atribuídos os respectivos pontos à parte autora, reclassificando-a na lista dos habilitados para a próxima etapa para que ela possa prosseguir no concurso e possa ter a sua redação corrigida, bem como possa participar das próximas etapas".
+Contrarrazões às fls. 1.613-1.622.
+O Ministério Público Federal oficia pelo desprovimento do recurso (fls. 1.629-1.635).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, "b", do RISTJ e pela Súmula 568/STJ.
+Como se vê, a impetrante, ora recorrente, pretende a anulação das questões 32, 40 e 56 da prova teórico-objetiva realizada no concurso público para provimento do cargo de Analista Arquiteto, aberto pelo Edital n. 02/2021, da Secretaria de Planejamento, Governança e Gestão do Estado Rio Grande do Sul.
+O acórdão recorrido, dentre outros fundamentos, denegou a segurança, asseverando que "a circunstância de o edital não ter discriminado as fontes normativas do conteúdo da prova objetiva de conhecimentos específicos, decididamente, não importou em qualquer ilegalidade". Confira-se::
+ ..  a circunstância de o edital não ter discriminado as fontes normativas do conteúdo da prova objetiva de conhecimentos específicos, decididamente, não importou em qualquer ilegalidade.
+O que se fez constar no programa do edital, precisamente em seu Anexo IX, foi a temática relacionada à "Acessibilidade a Edificações, Espaço e Equipamentos Urbanos" , devidamente cobrada na questão impugnada, e isso se mostra suficiente para a validade da prova objetiva, na exata medida em que permitiu que o candidato melhor preparado estudasse as normativas técnicas pertinentes à matéria prevista no programa e cobrada na questão.
+Ademais, a afirmação constante da alternativa "E", no sentido de que "Rampas com inclinação i<5% não precisam ser sinalizadas", está de pleno acordo com o que expressamente estabelecem os itens 6.4 e 6.4.4 da NBR nº 16.537, que assim dispõem:
+omissis
+Por oportuno, saliento que a NBR 16.537 tem por escopo "estabelecer critérios e parâmetros técnicos observados para a elaboração do projeto e instalação de sinalização tátil no piso, seja para construção ou adaptação de edificações, espaços e equipamentos urbanos às condições de acessibilidade para a pessoa com deficiência visual ou surdo-cegueira", o que, sem a menor dúvida, tem total pertinência com a temática relacionada à "Acessibilidade a Edificações, Espaço e Equipamentos Urbanos" , expressamente prevista no programa do edital.
+Assim, não há dúvida acerca da validade da questão impugnada pela autora.
+ ..
+Conforme o gabarito oficial, a alternativa "D" é a que deveria ter sido assinalada pelo candidato.
+A impetrante, todavia, entende que a assertiva I também está correta, de sorte que que a alternativa certa, no seu entender, é a de letra "E".
+Também aqui a argumentação da autora não prospera.
+Por tal passo, convém atentar para a justificativa apresentada pela Banca Examinadora ao desprover os recursos administrativos manejados contra o gabarito preliminar:
+omissis
+E, de fato, a própria impetrante transcreveu a seguinte passagem da obra literária - da autoria de Vicente Del Rio - cobrada pelo Examinador e que, como facilmente se percebe, destoa da assertiva I da questão ora impugnada, verbis,
+omissis
+Ou seja, o Examinador, na assertiva I, omitiu a característica consistente na "escala temporal", também destacada pelo geógrafo Goodey, autor mencionado na obra a que se refere o enunciado da questão nº 40, razão por que não se pode concluir que essa assertiva esteja mesmo correta.
+A questão pode envolver avaliação difícil e sutil, mas tampouco está longe de poder conduzir à perplexidade o candidato melhor preparado. Neste cenário, deve prevalecer a insindicabilidade do critério adotado impessoal e isonomicamente pela Banca, conforme decorre do enunciado do Tema 485 da Repercussão Geral, firmado pelo Supremo Tribunal Federal.
+ ..
+É inegável que essa norma técnica se refere à temática "Sistemas estruturais", devidamente contemplada no programa do Anexo IX do Edital, a possibilitar, então, que o candidato melhor preparado estudasse a normativa pertinente à matéria cobrada pelo Examinador.
+Resulta, pois, igualmente improcedente a arguição de nulidade da questão de n. 56.
+Com essas razões, não me restam dúvidas de que deve ser denegada a segurança.
+Ocorre que a recorrente não impugnou, especificamente, esses fundamentos, aptos, por si só a manter o o resultado do julgamento, desatendendo ao ônus da dialeticidade, o que atrai a incidência da Súmula 283/STF, por analogia.
+Com efeito, esta Corte Superior tem reiteradamente decidido no sentido de que "no recurso ordinário interposto contra acórdão denegatório de mandado de segurança também se impõe à parte recorrente o ônus de impugnar especificadamente os fundamentos adotados no acórdão, sob pena de não
+conhecimento por descumprimento da dialeticidade" (AgInt nos EDcl no RMS 29.098/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2.5.2017). No mesmo sentido: AgInt nos EDcl no RMS n. 71.540/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.
+Além disso, como bem ressaltado pelo Ministério Público Federal, em seu parecer, em uma análise dos autos, constata-se que as questões impugnadas têm previsão no edital do concurso público, e que a recorrente pretende que o Judiciário se substitua à banca examinadora para avaliá-las novamente, bem como as respectivas respostas, o que não se mostra possível, consoante jurisprudência desta Corte. A propósito, destaca-se julgado da colenda Primeira Turma, em que se analisou idêntica questão (mesmo concurso):
+PROCESSUAL CIVIL. CONCURSO PÚBLICO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CRITÉRIOS DE CORREÇÃO ADOTADOS PELA BANCA EXAMINADORA. INVIABILIDADE DO PEDIDO. TEMA 485/STF.
+APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O Supremo Tribunal Federal firmou, em julgamento submetido à sistemática da repercussão geral, tese segundo a qual os critérios adotados pela banca examinadora não podem ser revistos pelo Poder Judiciário, ressalvando-se o juízo de sua compatibilidade com a previsão do edital.
+III - Não é possível a revisão de questões de concurso público, mesmo de caráter jurídico, o controle judicial limita-se ao juízo de compatibilidade do conteúdo das questões com o previsto no edital do certame.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo interno improvido. (AgInt no RMS n. 70.959/RS, Rel. Ministra Regina Helena Costa, DJe: 7/12/2023, grifei)
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. FUNDAMENTOS DO ACÓRDÃO. AUSÊNCIA DE IMPUGNAÇÃO. CONCURSO PÚBLICO. CARGO DE ANALISTA ARQUITETO. EDITAL Nº 02/2021 DA SECRETARIA DE PLANEJAMENTO, GOVERNANÇA E GESTÃO DO RIO GRANDE DO SUL. ANULAÇÃO DE QUESTÕES. CONTROLE JURISDICIONAL DO ATO ADMINISTRATIVO QUE AVALIA QUESTÕES EM CONCURSO PÚBLICO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA BANCA EXAMINADORA. PRECEDENTES. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
