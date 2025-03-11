@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de Agravo interposto por BANCO BRADESCO FINANCIAMENTOS S.A, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de BANCO BRADESCO FINANCIAMENTOS S.A, verifica-se que incide a Súmula n. 284/STF, porquanto há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "De outro lado, verifica-se que, embora a parte recorrente tenha indicado violação à MP 2.180-35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". (AgInt no REsp n. 1.468.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 30.3.2020.)
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.641.118/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 25.6.2020; AgInt no AREsp n. 744.582/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1.6.2020; AgInt no AREsp n. 1.305.693/DF, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 31.3.2020; AgInt no REsp n. 1.475.626/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 4.12.2017; AgRg no AREsp n. 546.951/MT, Rel. Ministro Felix Fischer, Quinta Turma, DJe de 22.9.2015; e REsp n. 1.304.871/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1º.7.2015.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+EMENTA
