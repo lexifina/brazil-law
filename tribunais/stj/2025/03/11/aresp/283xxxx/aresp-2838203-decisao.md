@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo manejado por Sérgio Luiz Chiquetto contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 54):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. COMPETÊNCIA. DECLINAÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+Conforme constou na decisão agravada, ressalvada a questão da competência do juízo, as alegações vertidas na exceção de pré-executividade não foram analisadas. Dessa forma, em que pese seja admitida a fixação de honorários de sucumbência em exceção de pré-executividade, na hipótese houve apenas a declinação de competência, sem decisão sobre as questões alegadas pela parte excipiente, razão pela qual não é cabível o arbitramento de honorários advocatícios.
+Opostos embargos declaratórios, foram rejeitados (fls. 81).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos:
+I. art. 1022, I e II, do CPC, sob o argumento de que o acórdão foi contraditório e omisso ao não se pronunciar de forma clara sobre a questão posta nos autos, especialmente em relação à não aplicação dos dispositivos infraconstitucionais suscitados.
+II. art. 85 do CPC, pois a decisão de origem fixou a aplicação do princípio da causalidade ao fixar honorários em percentual de acordo com a situação dos autos, e houve resistência do recorrido que deu causa à ocorrência de nulidade. "O v. acórdão afrontou o artigo 85 do CPC ao afirmar:  Assim, deve ser dado provimento ao presente recurso, para afastar a condenação da exequente em honorários advocatícios constante na decisão do ev. 175 dos autos de origem" (fl. 97).
+Foram ofertadas contrarrazões às fls. 63-65.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não comporta conhecimento.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com relação ao art. 85 do CPC, tem-se por inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido.
+No caso dos autos, aduz o recorrente, em suma, que deve prevalecer a fixação de honorários arbitradas na decisão que declinou da competência porquanto ali estariam os autos por exclusiva causa da parte contrária.
+Contudo, o Tribunal a quo solucionou a controvérsia asseverando a impossibilidade de prevalência da condenação ao pagamento de honorários por essa ter sido feita no bojo em decisão precária , logo após substituída por decisão da Corte de Segundo Grau. Veja-se seus termos (fl. 55):
+Conforme constou na decisão agravada, ressalvada a questão da competência do juízo, as alegações vertidas na exceção de pré-executividade não foram analisadas.
+Dessa forma, em que pese seja admitida a fixação de honorários de sucumbência em exceção de pré-executividade, na hipótese houve apenas a declinação de competência, sem decisão sobre as questões alegadas pela parte excipiente, razão pela qual não é cabível o arbitramento de honorários advocatícios.
+Além disso, recebidos os autos na 2ª Vara Federal de Porto Alegre, foi proferida decisão determinando a devolução do feito à 23ª Vara Federal da mesma cidade (ev. 194), sendo então suscitado conflito negativo de competência (ev. 200).
+O incidente foi autuado neste Tribunal sob o número 5044616-88.2021.4.04.0000 e o julgamento declarou a competência do Juízo Substituto da 2ª Vara Federal de Porto Alegre, suscitado.
+Destarte, vê-se que a decisão que fixou os honorários advocatícios ao declarar a incompetência do juízo teve caráter precário e a questão foi decidida nesta Corte, no julgamento do conflito de competência acima citado.
+Assim, deve ser dado provimento ao presente recurso, para afastar a condenação da exequente em honorários advocatícios constante na decisão do ev. 175 dos autos de origem.
+Diante do exposto, voto por dar provimento ao agravo de instrumento.
+Assim, os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, não servindo para infirmá-los, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nessa linha de raciocínio, citam-se os seguintes julgados: AgInt no REsp n. 2.141.648/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/11/2024, DJe de 19/11/2024; AgInt nos EDcl no AREsp n. 2.489.961/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/10/2024, DJe de 28/10/2024; AgInt no REsp n. 1.844.995/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/9/2024, DJe de 13/9/2024.
+Sobre o tema, confiram-se, ainda:
+AGRAVO INTERNO. PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO AOS ART. 489 E 1.022 DO CPC. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS OMITIDOS NO TÍTULO JUDICIAL. IMPOSSIBILIDADE DE COBRANÇA EM EXECUÇÃO. SÚMULA 453/STJ. POSSIBILIDADE DE AJUIZAMENTO DE AÇÃO AUTÔNOMA. ART. 85, § 18, DO CPC. SÚMULA 453/STJ.
+1. Não há ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. A manutenção de fundamento não atacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+3. Esta Corte possui entendimento sumulado de que "os honorários sucumbenciais, quando omitidos em decisão transitada em julgado, não podem ser cobrados em execução ou em ação própria" (Súmula 453/STJ). A expressão final do enunciado sumular ("ou em ação própria") ficou superada. Isso ocorre porque o art. 85, § 18, do CPC permite o ajuizamento de ação autônoma para definir e cobrar os honorários sucumbenciais omitidos em decisão já transitada em julgado.
+4. Ademais, extrai-se do acórdão recorrido e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/STJ.
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Apelo pela alínea "a" do permissivo constitucional.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.555.469/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/8/2024, DJe de 20/8/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CONFIGURADA. PRECLUSÃO AFASTADA. RAZÕES DISSOCIADAS. SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. Inexiste violação do art. 489 do Código de Processo Civil quando a prestação jurisdicional é dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de carência de fundamentação.
+2. Afasta-se a preclusão aventada pois, no caso concreto, a base de cálculo dos honorários foi objeto de debate desde a sua fixação, tendo havido interposição dos recursos cabíveis no momento oportuno.
+3. Consoante orientação do Superior Tribunal de Justiça, "configura-se a preclusão lógica e temporal quando a parte não interpõe o competente recurso contra decisão que lhe foi desfavorável, deixando de impugnar a matéria no momento processual oportuno" (AgInt Acordo no REsp 1.382.078/SC, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 27/11/2018, DJe de 4/12/2018).
+4. Inafastável o óbice da Súmula 284 do Supremo Tribunal Federal (STF) no caso concreto, pois, além das razões do recurso especial se apresentarem dissociadas da fundamentação adotada no acórdão recorrido, os dispositivos suscitados não possuem comando normativo apto a sustentar a tese defensiva da parte ora agravante.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.199.601/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/6/2024, DJe de 26/6/2024)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
