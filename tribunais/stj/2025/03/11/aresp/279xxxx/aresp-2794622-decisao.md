@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pela União contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, inciso III, alínea "a", da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 264):
+ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CIVIL. PRESCRIÇÃO. CONVÊNIO. PRESTAÇÃO DE CONTAS. LEI 9.873/99.
+1. A Lei nº 8.443/92, que regula o processo e julgamento no âmbito do Tribunal de Contas, dispõe sobre o dever do gestor público prestar contas por valores recebidos ou repassados pelo ente que administra, contudo não estabelece regra específica de prescrição/decadência em caso de inércia continuada em relação ao exercício de tal direito.
+2. Em recente precedente o STJ (MS 32.201/DF, Primeira Turma, julgado em 21/03/2017), o Supremo Tribunal Federal adentrou no exame específico da prescrição da pretensão punitiva no exercício do poder sancionador pelo TCU, afirmando ser aplicável o prazo previsto na Lei nº 9.873/99.
+3. O art. 1º da Lei nº 9.873/99 estabelece que o prazo prescricional se inicia "da data da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado".
+4. Aplicadas as normas da Lei 9.873/99, conclui-se pela prescrição da pretensão.
+Embargos de Declaração não acolhidos.
+No recurso especial, o recorrente alega que o acórdão recorrido violou o artigo 1.022, II, do CPC, no que diz respeito às causas interruptivas da prescrição ventiladas no recurso de apelação e nos embargos declaratórios, notadamente invocando a aplicação expressa do art. 2º, inciso II, da Lei n. 9.873/1999.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+O recorrente pretende a anulação, em sede de embargos de declaração, do acórdão proferido pela Corte de origem, sob o argumento de que houve omissão e negativa de prestação jurisdicional da Corte regional acerca dos seguintes questionamentos indispensáveis para a adequada solução da controvérsia, a saber: se manifestar sobre as causas interruptivas da prescrição ventiladas no recurso de apelação e nos embargos declaratórios, acerca da invocada aplicação expressa do art. 2º, inciso II, da Lei n. 9.873/1999.
+Ocorre que, ao julgar o recurso integrativo, a Corte regional, de fato, não apreciou a tese suscitada e imprescindível a integral solução da controvérsia. Diante disso, a pretensão recursal merece acolhida em relação a omissão apontada do acórdão recorrido, pois a parte recorrente, nas razões deduzidas nos embargos declaratórios (fls. 269-272), bem assim nos argumentos apresentados no presente apelo especial (fls. 300-305), pugnou expressamente acerca da questão indicada como omissa.
+Observa-se que as questões suscitadas guardam correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional. Assim, a falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016; AgInt no AREsp 612.758/MG, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministra Regina Helena Costa, Primeira Turma, DJe 18/12/2020.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a referida matéria, ora articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONVÊNIO. PRESTAÇÃO DE CONTAS. PRESCRIÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO CARACTERIZADA. MATÉRIA NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO PROVIDO.
