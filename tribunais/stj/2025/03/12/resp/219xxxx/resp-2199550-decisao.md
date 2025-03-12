@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DO PARANÁ com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, o ente público interpôs agravo de instrumento em face de decisão proferida em cumprimento de sentença que rejeitou a impugnação apresentada e homologou os cálculos apresentados.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ deu parcial provimento ao agravo de instrumento em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. SERVIDOR PÚBLICO. EQUIPARAÇÃO SALARIAL. VERBA DE REPRESENTAÇÃO PREVISTA NA LEI ESTADUAL N. 9422/1990 RECONHECIDA À SERVIDORA EM PROCESSO TRANSITADO EM JULGADO. PARCELA QUE, NOS TERMOS DA LEGISLAÇÃO, COMPÕE OS VENCIMENTOS DA SERVIDORA. PRECEDENTES. INSURGÊNCIA QUANTO AOS ÍNDICES DE CORREÇÃO MONETÁRIA E JUROS DE MORA. (TEMA Nº 905/STJ). NECESSIDADE DE OBSERVÂNCIA DO NOVO ENTENDIMENTO SOBRE O TEMA. APLICAÇÃO DE JUROS DE MORA NOS TERMOS DO ART. 1º-F DA LEI FEDERAL 9.494/97. CORREÇÃO MONETÁRIA PELO IPCA-E. DECISÃO AGRAVADA PARCIALMENTE REFORMADA. AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos pelo ente público foram parcialmente acolhidos, com efeitos modificativos, conforme a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM FACE DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO. EQUIPARAÇÃO SALARIAL. CONSECTÁRIOS LEGAIS. JUROS MORATÓRIOS. ÍNDICES DE REMUNERAÇÃO OFICIAL DA CADERNETA DE POUPANÇA. PERTINÊNCIA. TEMAS Nº 810 E 1.170 DO STF. ARTIGO 1º- F DA LEI Nº 9.494/1997, COM REDAÇÃO CONFERIDA PELA LEI Nº 11.960/2009. INCIDÊNCIA A PARTIR DA VIGÊNCIA DA REFERIDA LEGISLAÇÃO. EMBARGOS CONHECIDOS E PARCIALMENTE ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+Posteriormente, os embargos de declaração opostos pelo particular foram parcialmente acolhidos, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM FACE DA FAZENDA PÚBLICA. SERVIDORA PÚBLICA. EQUIPARAÇÃO SALARIAL. CONSECTÁRIOS LEGAIS. CORREÇÃO MONETÁRIA. OMISSÃO. VERIFICAÇÃO. PREVALÊNCIA DA COISA JULGADA. INCIDÊNCIA DOS ÍNDICES CONTIDOS NO TÍTULO JUDICIAL EXEQUENDO. MÉDIA IGP-DI/INPC. EMBARGOS CONHECIDOS E ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+O ente público opôs novos embargos de declaração que foram rejeitados.
+No presente recurso especial, o recorrente aponta violação do art. 1.022, II, do CPC, aduzindo que o acórdão recorrido restou omisso acerca da aplicação do Tema 1.170 do STF, sobre a ausência de violção à coisa julgada na aplicação imediata da legislação superveniente que altera o índica de correção monetária.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O Supremo Tribunal Federal nos autos do RE 1505031, de Relatoria do Ministro Presidente, julgado sob o rito da repercussão geral, fixou a tese correspondente ao Tema 1.361 no sentido de que o trânsito em julgado de decisão de mérito com previsão de índice específico de juros ou de correção monetária não impede a incidência de legislação ou entendimento jurisprudencial do STF supervenientes, nos termos do Tema 1.170/RG .
+Ao tratar do julgamento do recursos extraordinários, o Código de Processo Civil de 2015 assim estabeleceu em seus arts. 1.030, 1.040, II, e 1.041, in verbis:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+Art. 1.040. Publicado o acórdão paradigma:
+ ..
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;  ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.
+§ 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+Dos dispositivos acima transcritos, denota-se que cabe ao Ministro Relator, com o julgamento do paradigma, determinar a devolução dos autos ao Tribunal de origem, para que seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial.
+Desse modo, prestigia-se o propósito racionalizador da sistemática dos recursos representativos de controvérsia que estabelece ser de competência dos Tribunais de origem, de forma exclusiva e definitiva, a adequação do caso em análise à tese firmada no julgamento de recurso com repercussão geral, de modo a inviabilizar a interposição de qualquer outro recurso subsequente a esta Corte que trate da mesma matéria.
+O referido entendimento restou assentado no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, com a atribuição de competência ao relator para "determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis".
+No mesmo diapasão, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. MATÉRIA OBJETO DE RECURSO ESPECIAL REPETITIVO. DEVOLUÇÃO AO TRIBUNAL A QUO.
+1. Julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos sobre a mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõem os arts. 1.040 do CPC/2015 e 34, XXIV, do RISTJ.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 729.327/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 05/02/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DA SISTEMÁTICA DOS RECURSOS REPETITIVOS. INSURGÊNCIA DA AUTORA.
+1. Em havendo a matéria sido julgada sob o rito dos recursos repetitivos, no caso tema nº 667, necessária a devolução dos autos à Corte de origem para o devido juízo de retratação, nos termos dos artigos 1.040 e 1.041 do CPC
+2. Agravo interno desprovido.
+(AgInt no AREsp 523.985/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+Ante o exposto, julgo prejudicado o recurso interposto e determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, em conformidade com a previsão do art. 1.040, c.c. o §2º do art. 1.041, ambos do CPC/2015: a) na hipótese da decisão recorrida coincidir com a orientação do Supremo Tribunal Federal, seja negado seguimento ao recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou b) caso o acórdão recorrido contrarie a orientação do Supremo Tribunal Federal, seja exercido o juízo de retratação e considerado prejudicado o recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; c) finalmente, mantido o acórdão divergente, o recurso especial seja remetido ao Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
