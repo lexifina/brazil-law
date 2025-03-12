@@ -1,0 +1,24 @@
+DECISÃO
+O presente writ, impetrado em benefício de YURI FELIPE ZART e de PABLO RICARDO ZART - condenados como incursos no crime de tráfico de drogas (fls. 27/37) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal n. 5002726-03.2022.8.21.0074), não comporta acolhimento.
+Com efeito, busca a impetração a desclassificação do crime de tráfico de drogas para a conduta de posse de entorpecente para consumo pessoal, ao argumento de que a posse de pequena quantidade de entorpecente (34 g de cocaína), sem outros elementos que comprovem a destinação comercial, autoriza a desclassificação para a conduta do art. 28 da Lei n. 11.343/2006, conforme entendimento do STJ e STF (fl. 7).
+Sustenta que a prova condenatória se resume ao relato dos policiais que cumpriram o mandado de busca e apreensão, sem qualquer prova concreta de comercialização de drogas pelos pacientes (fl. 9). Afirma, ainda, que os réus são primários e ostentam bons antecedentes, o que presume que não se dedicam ao tráfico de drogas (fl. 11).
+Ocorre que, além de se tratar de writ destinado a revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento.
+Consta da sentença que (fl. 32 - grifo nosso):
+A questão relativa à suposta dependência química dos réus não descaracteriza traficância no caso concreto, até por ser relativamente comum a figura do usuário que recorre a essa atividade para sustento de seu vício.
+A quantidade de droga apreendida também evidencia que a destinação não era o consumo próprio, o que inviabiliza a pretendida desclassificação para o delito do art. 28 da Lei n.º 11.343/2006.
+Ainda que não se trate de quantia expressiva no contexto atual do tráfico de drogas, crime largamente difundido e que movimenta uma quantidade importante de entorpecentes e dinheiro, a droga apreendida seria evidentemente demasiada para uso pessoal.
+Conforme relatado pela polícia, a cocaína apreendida poderia render cerca de R$ 3.400,00 aos acusados, já que cada grama é vendido por aproximadamente R$ 100,00.
+Tais fatos foram considerados pelo aresto impugnado para afastar a desclassificação pretendida, ao consignar que a prisão não adveio do acaso, mas de diversas denúncias que originaram o MBA cumprido, que acarretou o flagrante. Assim, têm-se, além da apreensão de significativa quantidade de entorpecentes, diversas delações anteriores ao encontro da substância tóxica. Não fosse o bastante, a versão de Yuri não é crível e se contrapõe às circunstâncias do flagrante, pois observe-se que dois policiais referiram que a mãe dos imputados tentou ocultar parte do entorpecente da Polícia (fl. 19).
+Portanto, as circunstâncias da apreensão da droga - denúncias e prévia investigação que constatou a procedência das informações, com a expedição de mandado de busca e apreensão, localização do entorpecente, a forma de acondicionamento e a tentativa da mãe dos pacientes de esconder os entorpecentes - levaram as instâncias originárias a concluírem pela mercancia ilícita, de modo que, para concluir em sentido contrário seria necessário o revolvimento probatório dos autos, providência inviável na via célere do habeas corpus.
+A propósito:
+ ..
+4. O art. 28, § 2º, da Lei 11.343/2006, prevê parâmetros para diferenciar a posse para uso próprio e o tráfico de drogas, considerando fatores como quantidade, natureza da substância, local dos fatos e circunstâncias pessoais do agente.
+5. No caso, embora a quantidade de droga apreendida seja pequena (4, 1 g de maconha), o contexto da apreensão, incluindo a presença de uma balança de precisão e os depoimentos que indicam o envolvimento do paciente com o narcotráfico, foram suficientes para justificar a condenação por tráfico, conforme fundamentado pelas instâncias ordinárias.
+6. A revaloração dos elementos probatórios que apontam para o tráfico de drogas, inclusive a existência de aparato típico do comércio ilícito de entorpecentes, impede a desclassificação do delito, sendo necessária incursão no acervo fático-probatório, o que é inviável em sede de habeas corpus.
+IV. HABEAS CORPUS DENEGADO.
+(HC n. 827.365/SC, Ministra Daniela Teixeira, Quinta Turma, DJe de 21/10/2024 - grifo nosso).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS PARA CONSUMO PRÓPRIO. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO DOS ELEMENTOS DE PROVA. CIRCUNSTÂNCIAS (DENÚNCIA, PRÉVIA INVESTIGAÇÃO, EXPEDIÇÃO DE MANDADO DE BUSCA E APREENSÃO E A LOCALIZAÇÃO DA DROGA) QUE DENOTAM A TRAFICÂNCIA A DESPEITO DA REDUZIDA QUANTIDADE DE ENTORPECENTE APREENDIDA (34 G DE COCAÍNA). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
