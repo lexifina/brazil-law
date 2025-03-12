@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE CANELA da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que inadmitiu recurso especial, dirigido contra o acórdão prolatado no Agravo de Instrumento n. 5138131-54.2023.8.21.7000. Transcrevo a ementa (fls. 71-83):
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE RECONHECIDA DE OFÍCIO. TEMA REPETITIVO Nº 566 DO STJ. ART. 40 DA LEI Nº 6.830/80. HONORÁRIOS. DESCABIMENTO, EM RAZÃO DO PRINCÍPIO DA CAUSALIDADE. 1 . COMPULSANDO OS ATOS PROCESSUAIS OCORRIDOS DURANTE A TRAMITAÇÃO DO FEITO É POSSÍVEL VERIFICAR A OCORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE, O QUE IMPÕE QUESTÃO PREJUDICIAL À ANÁLISE DO MÉRITO RECURSAL, MAS QUE PODE SER ANALISADA DE OFÍCIO PELO JULGADOR, POR SE TRATAR DE MATÉRIA DE ORDEM PÚBLICA. 2. CONFORME ENTENDIMENTO SEDIMENTADO NO STJ, EM SEDE DE RECURSO REPETITIVO (RESP. Nº 1.340.553), A CONTAGEM DA PRESCRIÇÃO INTERCORRENTE INICIA A PARTIR DO MOMENTO EM QUE A FAZENDA PÚBLICA TOMA CONHECIMENTO DA NÃO LOCALIZAÇÃO DO DEVEDOR OU DA INEXISTÊNCIA DE BENS DESTE. 3. NO CASO, DOS MARCOS TEMPORAIS DO PROCESSO, QUAIS SEJAM, O PEDIDO DE SUSPENSÃO DO FEITO, ANTE A NÃO LOCALIZAÇÃO DA PARTE EXECUTADA, EM 11/08/2011, A CITAÇÃO DESTA, EM 28/08/2017, RESTA EVIDENTE QUE OCORREU A PRESCRIÇÃO INTERCORRENTE, TENDO EM VISTA QUE ATÉ A CITAÇÃO DA PARTE EXECUTADA JÁ HAVIA TRANSCORRIDO MAIS DE 06 (SEIS) ANOS - CONSIDERADO O PRAZO DE 01 (UM) ANO DE SUSPENSÃO AUTOMÁTICA SOMADO AOS OUTROS 05 (CINCO) DO PRAZO PRESCRICIONAL (NOS TERMOS DO RESP 1.340.553/RS, JULGADO PELO RITO DOS RECURSOS REPETITIVOS - TEMA 566 STJ), TENDO EM VISTA A INEXISTÊNCIA DE QUALQUER CAUSA SUSPENSIVA OU INTERRUPTIVA DO PRAZO PRESCRICIONAL NESTE ÍNTERIM. 4. ADEMAIS, TEM-SE QUE A SUSPENSÃO DO FEITO EXECUTIVO, DETERMINADA NA AÇÃO ORDINÁRIA AJUIZADA PELA EXECUTADA, SE DEU EM MOMENTO POSTERIOR À OCORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE, DE MODO QUE EM NADA MODIFICA O SEU RECONHECIMENTO. 5. POR OUTRO LADO, NÃO HÁ COMO CONDENAR O ENTE PÚBLICO AO PAGAMENTO DE HONORÁRIOS, POR FORÇA DO PRINCÍPIO DA CAUSALIDADE, TENDO EM VISTA QUE, QUANDO AJUIZADA A EXECUÇÃO FISCAL, O CRÉDITO FISCAL NÃO SE ENCONTRAVA PRESCRITO, MOSTRANDO-SE HÍGIDA A COBRANÇA. AGRAVO DE INSTRUMENTO PREJUDICADO. PRESCRIÇÃO INTERCORRENTE RECONHECIDA DE OFÍCIO. EXECUÇÃO FISCAL EXTINTA. UNÂNIME.
+Os embargos de declaração foram rejeitados.
+No seu recurso especial, o MUNICÍPIO DE CANELA alega negativa de vigência ao art. 40, § 4º, da Lei n. 6.830/80 e à Súmula n. 314 do Superior Tribunal de Justiça.
+Contrarrazões às fls. 160-168, e-STJ.
+O recurso especial foi inadmitido às fls. 200-204.
+Houve a interposição de agravo (fls. 390-398).
+É o relatório.
+Decido.
+A decisão que negou seguimento ao recurso especial do Município de Canela (fls. 200-204) teve como fundamento o art. 1.030, inciso I, alínea b, do Código de Processo Civil.
+O único recurso cabível seria o agravo interno, dirigido ao próprio Tribunal de origem, conforme previsão expressa do art. 1.030, § 2º, daquele mesmo diploma normativo, o que ocorreu no caso dos autos.
+Salienta-se que, no ponto, é inviável a aplicação do princípio da fungibilidade, pois, diante da clareza da norma processual, não há dúvida objetiva acerca do recurso cabível, constituindo erro grosseiro a interposição do recurso inadequado.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO DE NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. ÚNICO RECURSO CABÍVEL. AGRAVO INTERNO PREVISTO NO ART. 1.030, § 2º, DO CPC. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO CABIMENTO.
+1. O único recurso cabível da decisão que nega seguimento aos recursos às instâncias superiores (STJ e STF), em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos ou da repercussão geral, é o agravo interno, a teor do expressamente previsto no art. 1.030, § 2º, do CPC.
+2. A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o que inviabiliza a aplicação do princípio da fungibilidade, uma vez que não há mais dúvidas objetivas acerca do recurso cabível.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.148.444/PB, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do agravo interposto pelo Município de Canela.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. VIA RECURSAL INADEQUADA. AGRAVO NÃO CONHECIDO.
