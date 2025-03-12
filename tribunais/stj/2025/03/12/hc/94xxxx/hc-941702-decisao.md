@@ -1,0 +1,25 @@
+DECISÃO
+JOHNATAN LUAN OLIVEIRA SANTOSA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça de Sergipe no Habeas Corpus n. 202443639.
+Consta dos autos que o paciente foi denunciado pela prática de uma suposta ameaça contra sua companheira.
+A defesa aduz a nulidade da citação sob o argumento de que foi realizada via WhatsApp para um número que não pertence ao paciente, mas sim à sua mãe; a foto do perfil do WhatsApp utilizado para a citação não é do paciente, mas de duas mulheres (sua mãe e irmã); não há registro da data da comunicação e não foram adotadas medidas para confirmar a identidade do paciente.
+Requer a concessão de liminar para suspender o processo até o julgamento do mérito do habeas corpus e, no mérito, a declaração de nulidade da citação e dos atos subsequentes, com reabertura do prazo para apresentação de resposta à acusação, garantindo o contraditório e a ampla defesa.
+Indeferida a liminar, o Ministério Público Federal apresentou parecer pela denegação da ordem (fls. 104-107).
+Decido.
+O Juízo singular, ao apreciar a questão, assim se manifestou (fls. 59-60, destaquei):
+Nada obstante ao pleito defensivo infere-se dos autos que não há que se falar em ato nulo no que concerne à citação do réu pelo aplicativo de mensagens Whatsapp, fls. 143, pois é necessário salientar que já existe entendimento do STF/STJ em aceitar válida a citação via àquele aplicativo desde que haja demonstração inequívoca de que de fato o réu teve ciência da ação judicial, o que restou comprovado a partir do envio de sua carteira de identidade, fls. 144/145 e mais ainda, quando procurou atendimento perante defensoria pública, a qual prestou o seu papel institucional apresentando a Resposta à Acusação no prazo legal.
+O Tribunal de origem, ao apreciar o habeas corpus, assim se pronunciou (fls. 22-23, destaquei):
+No caso concreto, apesar do paciente alegar que houve cerceamento em sua defesa, haja vista o indeferimento pelo Juízo de Origem de reabertura de prazo para oferecer resposta à acusação, mesmo diante da suposta nulidade decorrente do ato citatório do paciente, observo dos autos de origem que o paciente restou devidamente citado por meio do mandado de nº 202388509079, em 16/12/2023, por meio do aplicativo de mensagem chamado Whatsapp, no qual foi apresentada imagem do documento de identificação no registro geral com a foto do paciente.
+Inicialmente, oportuno registrar a validade da citação por meio do aplicativo em questão, a propósito, o Conselho Nacional de Justiça, por meio da Resolução nº 354/2020, orientou a forma de comunicação digital dos atos processuais, estabelecendo que, "nos casos em que cabível a citação e a intimação pelo correio, por oficial de justiça ou pelo escrivão ou chefe de secretaria, o ato poderá ser cumprido por meio eletrônico que assegure ter o destinatário do ."ato tomado conhecimento do seu conteúdo".
+Portanto, partindo das premissas fáticas delineadas pelas instâncias ordinárias a respeito da citação por aplicativo de mensagens, não identifico nesta via estreita nenhuma ilegalidade, uma vez que assentando que o acusado tomou ciência inequívoca da acusação, tanto que enviou seus documentos pessoais pelo aplicativo e procurou a Defensoria Pública para apresentar resposta à acusação, o que foi efetivamente realizado, a evidenciar a ausência de prejuízo.
+Neste mesmo sentido tem sido o entendimento desta Corte. Ilustrativamente:
+O entendimento do Tribunal de origem consoa com o do Superior Tribunal de Justiça no sentido de que, "embora não haja óbice à citação por WhatsApp, é necessária a certeza de que o receptor das mensagens se trata do Citando(a)" (AgRg no RHC n. 143.990/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/3/2023, DJe de 20/3/2023).
+(AgRg no HC 840886/ES, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 3/5/2024)
+ ..
+3. O uso do WhatsApp para citação penal é admitido desde que assegurada a autenticidade do destinatário, o que foi verificado no caso, com a confirmação do número de telefone, a resposta do réu e o seu pedido para ser representado pela Defensoria Pública. A citação foi realizada de acordo com as normas excepcionais vigentes durante a pandemia (AgRg no HC nº 685.286/PR).
+4. A nulidade processual, tanto relativa quanto absoluta, requer demonstração de prejuízo concreto à parte, conforme o princípio pas de nullité sans grief (CPP, art. 563). No caso em análise, não foi comprovado qualquer prejuízo para a defesa, visto que o réu teve ciência inequívoca da acusação e foi representado adequadamente pela Defensoria Pública em todos os atos processuais subsequentes.
+5. A jurisprudência do STJ admite a citação por meios eletrônicos em situações excepcionais, como a pandemia de COVID-19, desde que não haja prejuízo à defesa e o ato atinja sua finalidade de dar ciência ao réu (AgRg no REsp nº 2.089.247/PR).
+IV. AGRAVO REGIMENTAL DESPROVIDO
+(AgRg no HC n. 806.819/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024.)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
