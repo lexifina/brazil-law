@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. APOSENTADORIA ESPECIAL. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis para o fim de esclarecer obscuridade, corrigir contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento.
+2. No caso dos autos, as razões deduzidas evidenciam o exclusivo intuito de rejulgamento da causa, finalidade com a qual não se coadunam os aclaratórios.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por MARIA LUCIA PEREIRA DIAS DALMASO ao acórdão desta Segunda Turma assim ementado (fl. 798, e-STJ):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO PROFERIDO EM SEDE DE AÇÃO RESCISÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIO DE OMISSÃO. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INCABÍVEL. USURPAÇÃO DE COMPETÊNCIA DO STF. RECURSO ESPECIAL CONTRA RESCISÓRIA IMPROCEDENTE. RESTRIÇÃO ÀS HIPÓTESES DE CABIMENTO DA AÇÃO. RAZÕES RECURSAIS QUE NÃO APONTAM VIOLAÇÃO AO ART. 966 DO CPC/2015 (ART. 485 DO CPC/1973). REDISCUSSÃO DO ACÓRDÃO RESCINDENDO. INVIABILIDADE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Na linha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+2. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+3. Esta Corte Superior possui entendimento no sentido de que não lhe cabe, na via especial, a análise de violação de dispositivos constitucionais, sob pena de usurpação da competência constitucionalmente atribuída ao Supremo Tribunal Federal.
+4. O recurso especial contra acórdão em rescisória tida como improcedente deve se restringir às hipóteses de cabimento da ação, sob pena de incidir no óbice da Súmula 284/STF, caso se volte contra os fundamentos do acórdão rescindendo, como o presente feito.
+5. Agravo interno do particular que se nega provimento.
+Em suas razões (fls. 813-818, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, ao argumento de que não foram analisados todos os pontos trazidos no recurso especial que propiciariam seu provimento.
+Sem impugnação, conforme certificado à fl. 826 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. APOSENTADORIA ESPECIAL. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis para o fim de esclarecer obscuridade, corrigir contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento.
+2. No caso dos autos, as razões deduzidas evidenciam o exclusivo intuito de rejulgamento da causa, finalidade com a qual não se coadunam os aclaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, apenas têm cabimento quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado, situações não observadas na espécie.
+O acórdão proferido por este colegiado decidiu a controvérsia com base em fundamentação sólida, sem omissões ou contradições. Na verdade, apenas se resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+Nessa linha:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. FORNECIMENTO DE ENERGIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 283/STF. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento. Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido:
+EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp n. 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp n. 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp n. 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+II - As alegações de omissão da parte se referem ao mérito da controvérsia, que não foi analisado nesta Corte. O fato de o acórdão reproduzir o mesmo texto dos fundamentos, relacionados aos óbices de admissibilidade do recurso, aplicados na decisão de admissibilidade, não importa em violação dos arts. 489 e 1021, § 3º, do CPC/2015, pois a alteração do texto referente aos óbices não modificaria o fato de que os fundamentos de admissibilidade são os mesmos.
+III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade;
+eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+IV - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+V - Reitera-se que não se pode acolher o pedido de suspensão do feito, em virtude da afetação da matéria de fundo para julgamento sob a sistemática dos recursos representativos de controvérsia, porquanto o recurso especial nem sequer superou a barreira do conhecimento, de modo que o julgamento do mérito do recurso afetado não influenciará na apreciação deste apelo. Nesse contexto, este Tribunal entende não ser possível a suspensão dos autos (AgInt no AREsp n. 2.395.752/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023).
+VI - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+VII - Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VIII - Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp n. 2.569.973/AP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2024, DJe de 9/12/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, nos termos do disposto no art. 1.022 do CPC/2015.
+2. Situação em que não há qualquer omissão no julgado embargado, pois a questão em debate não tem relação com o Tema 1.178 do STJ.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.611.013/MS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/11/2024, DJe de 29/11/2024.)
+Cabe rememorar que a ora embargante, em desfavor do acórdão proferido pelo Tribunal Regional Federal da 3ª Região, interpôs recurso especial (fls. 693-718, e-STJ), o qual não foi admitido (fls. 726-729, e-STJ), ensejando o manejo do agravo em recurso especial (fls. 732-739, e-STJ), do qual se conheceu para não conhecer do recurso especial.
+Nas razões do recurso especial, a recorrente alegou: (i) violação dos arts. 489 e 1.022 do CPC/2015, ante a omissão do colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão recorrida; e (ii) necessidade de revisão de seu benefício previdenciário, por meio de ação rescisória, para fins de reconhecimento de tempo especial, no período do 22/1/1976 a 15/5/1998, em que laborou em empresa com risco de explosão, conforme laudo técnico pericial realizado em ação trabalhista.
+O acórdão embargado manteve a decisão monocrática que conheceu do agravo para não conhecer do recurso especial, pelos seguintes fundamentos: a) a alegação de violação aos arts. 489 e 1.022 do CPC/2015 foi realizada por meio de argumentos genéricos, caracterizando a deficiência na fundamentação do reclamo, atraindo a aplicação da Súmula 284/STF; b) impossibilidade de interposição de recurso especial para análise de eventual vulneração a dispositivos constitucionais, tendo em vista a competência para tal exame ser atribuída ao Supremo Tribunal Federal; c) a divergência jurisprudencial não foi comprovada nos termos exigidos pelo art. 1.029 do CPC/2015; e d) incidência da Súmula 284/STF, por deficiência na fundamentação do reclamo .
+Constata-se, por consequência, que o acórdão embargado solucionou a questão de forma satisfatória, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional, pretendendo a parte, na verdade, a rediscussão do julgado, o que não autoriza a oposição dos embargos.
+Ressalta-se, inclusive, que a embargante apenas reitera as razões já expostas em seu agravo interno e rechaçadas por esta Segunda Turma.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Com esses fundamentos, rejeito os embargos de declaração.
+É como voto.
