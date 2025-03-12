@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSTITUTO DE PREVIDÊNCIA E ASSISTÊNCIA DO MUNICÍPIO DE BELÉM, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Pará, assim ementado (fl. 224):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL/REEXAME NECESSÁRIO. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO, MANTENDO A SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE A AÇÃO DE OBRIGAÇÃO DE FAZER. IMPROCEDÊNCIA. CONSTATADA A ILEGALIDADE DA EXIGÊNCIA DE FINANCIAMENTO PARA CUSTEAR O TRATAMENTO DE HEMODIÁLISE. RECURSO CONHECIDO E IMPROVIDO.
+1. Impõe-se a manutenção da decisão monocrática agravada, eis que devidamente demonstrado a nulidade dos contratos de financiamento, para fins de tratamento de hemodiálise.
+2. Agravo Interno a que se nega provimento.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 247-251, o recorrente sustenta, de forma genérica, que, ao prolatar o acórdão recorrido, o Tribunal a quo "não levou em consideração tratar-se o PABSS de plano de saúde de autogestão e equivocou-se na aplicação do direito ao contrariar o § 3º do art. 10 da Lei Federal nº 9.656/1998, que dispõe sobre os planos e seguros privados de assistência à saúde" (fl. 249).
+Continua, afirmando que "o PABSS é um plano de saúde ofertado exclusivamente aos servidores públicos do Município de Belém e é regulado pela Lei Municipal nº 7.984/1999 e pelo Decreto Municipal nº 37.522/2000, não se confundindo com a universalidade do SUS e nem com as particularidades de um plano e/ou seguro privado de assistência à saúde, como o fez o acórdão recorrido" (fl. 250).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fl. 272):
+Pois bem, na hipótese vertente, o alegado dispositivo da Lei 9.656/1998 (Lei dos Planos de Saúde) não foi objeto de pronunciamento do acórdão recorrido, que decidiu a causa com base na legislação municipal que rege o plano de saúde do PABS (IASB), qual seja, a Lei municipal nº 7.984/1999 e decreto municipal nº 37.522/2000, bem como fundado em dispositivos constitucionais, suficientes e não impugnados através do competente recurso extraordinário, razão pela qual, o recurso especial não merece ascensão pelo óbice da súmula 280 do STF e da súmula 126 do STJ.
+Em seu agravo, às fls. 277-286, o agravante alega que, no caso em tela, "não se discute a aplicação de previsão constitucional ou direito nela garantido. O que se pretende é a análise da violação de dispositivos infraconstitucionais, decorrentes da aplicação do CDC ao caso concreto. Inaplicável ao caso a Súmula 126 do STJ" (fl. 279).
+Aduz que "não se verifica, ainda, o óbice da Súmula 280 do STF, já que o recurso especial não foi interposto com o objetivo de discutir a aplicação de legislação municipal, mas sim para afastar violação ao disposto nos artigos 10, § 3º, e 16, VIII, da Lei nº 9.656/98; artigos 3º, § 2º, e 51 da Lei 8.078/90; ART. 489, § 1º, III e IV, do CPC" (fl. 279).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) - incidência do enunciado 280 da Súmula do STF, em razão do não cabimento de recurso especial por ofensa a direito local e (ii) - incidência do enunciado 126 da Súmula do STJ, uma vez que o acórdão recorrido foi "fundado em dispositivos constitucionais, suficientes e não impugnados através do competente recurso extraordinário" (fl. 272).
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, todos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO E CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
