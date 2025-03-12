@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de petição apresentada pela HAPVIDA ASSISTÊNCIA MÉDICA S/A, à fl. 757e, com pedido de renúncia e extinção do processo, "no contexto de requerimento de adesão à transação extraordinária de que tratam o art. 22 da Lei nº 14.973/2024, a Portaria Normativa AGU nº 150/2024 e o Edital de Transação por Adesão nº 1/2024, no qual serão incluídos os débitos objeto do presente processo".
+Observa que, "conforme Parecer nº 00002/2024/CGE/SUBCOP/PGF/AGU, emitido em 01/11/2024, a renúncia ora pleiteada está CONDICIONADA propriamente à efetiva celebração da transação acerca dos débitos objeto desta ação. Dessa forma, o presente pedido de extinção do processo com resolução de mérito, nos termos do art. 487, inciso III, alínea "c", do CPC, tem como condição indispensável a aceitação e confirmação pela PGF/AGU da transação a ser entabulada" (fl. 757e).
+Tendo em vista que o subscritor da petição em análise possui poderes especiais, inclusive para "renunciar à pretensão formulada no feito" (fl. 759e), resta prejudicada a análise dos embargos de declaração no agravo interno no recurso especial, que se tornaram incompatíveis com a intenção manifestada nos autos.
+Diante desse quadro, recebo o pedido como desistência recursal e determino, após a certificação do trânsito em julgado, a devolução dos autos à origem, para acompanhamento da formalização do acordo a ser entabulado entre as partes e homologação do pedido de renúncia e extinção do processo.
+Publique-se. Intimem-se.
+EMENTA
