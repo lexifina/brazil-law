@@ -1,0 +1,17 @@
+DECISÃO
+ALEXANDRA CECILIA DA SILVA GOMES interpõe agravo interno contra julgado da Presidência que, com amparo no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula n. 284 do STF.
+A agravante pugna pela suspensão do feito diante da admissão do IAC no REsp n. 2.113.084/RJ, que trata exatamente da controvérsia dos presentes autos.
+Subsidiariamente, defende a não incidência da Súmula n. 284 do STF, pois os dispositivos violados foram devidamente indicados no apelo extremo.
+Requer, assim, a suspensão do feito ou o provimento do presente recurso a fim de que do recurso especial se conheça e, nessa extensão, seja provido.
+É o relatório. Decido.
+Consoante alegado pela parte nas razões recursais, a controvérsia debatida no agravo interno restringe-se ao ajuizamento de ação de execução por título extrajudicial individualmente ajuizada, tendo como fundamento termo de compromisso firmado entre a Defensoria Pública do Estado de Minas Gerais e a Vale S.A., como decorrência do rompimento da barragem de rejeitos da mina do Córrego do Feijão, no Município de Brumadinho, Estado de Minas Gerais.
+Verifica-se que o recurso especial possui como objeto questão que foi admitida em incidente assunção de competência relativo ao Tema IAC n. 18, no qual se busca definir a "caracterização do Termo de Compromisso firmado entre a Defensoria Pública do Estado de Minas Gerais e a Vale S.A. como título executivo extrajudicial para o ajuizamento de ações individuais e a legitimidade das vítimas para sua execução" (REsp n. 2.113.084/MG).
+Dessa forma, para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem, conforme dispõe o art. 256-L do RISTJ:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Registre-se que, segundo a orientação jurisprudencial do STJ, o ato judicial que determina o sobrestamento e o retorno dos autos à corte de origem a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não tem carga decisória, por isso é provimento irrecorrível.
+Nesse sentido: AgInt no REsp n. 1.140.843/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe de 30/10/2018; AgInt nos EDcl nos EREsp n. 1.126.385/MG, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017; AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2017, DJe de 4/9/2017; e AgInt no REsp n. 1.661.811/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.
+Ante o exposto, com fundamento no art. 259, § 6º, do RISTJ, conheço do agravo interno e reconsidero a decisão de fls. 2.280-2.285 para determinar a restituição dos autos ao Tribunal de origem a fim de que fiquem sobrestados até o julgamento definitivo da matéria acolhida em IAC (Tema n. 18) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Publique-se. Intimem-se.
+EMENTA
