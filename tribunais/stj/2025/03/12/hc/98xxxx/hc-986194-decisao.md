@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUAN FELIPE ALVES PEREIRA, contra decisão monocrática de relator que não conheceu do writ originário (fls. 6-7).
+Narra a defesa que o paciente "encontra-se preso preventivamente desde o dia 05/12/2024, em cumprimento a mandado de prisão expedido pela 5ª Auditoria da Justiça Militar, nos autos do Pedido de Prisão Preventiva nº 0801180-67.2024.9.26.0010. A medida foi inicialmente fundamentada na suposta prática dos crimes militares de lesão corporal dolosa (art. 209, § 1º, do Código Penal Militar - CPM), prevaricação (art. 319, CPM) e/ou peculato (art. 303, CPM)" (fl. 3).
+Alega que, "Posteriormente, a Correged oria da Polícia Militar concluiu o IPM, indiciando o paciente por tentativa de homicídio (art. 205 c/c art. 121 do CPM), enquanto outros seis agentes foram indiciados por crimes diversos, como prevaricação e lesão corporal. Contudo, em 19/12/2024, o Juízo da 5ª Auditoria Militar reconheceu a incompetência da Justiça Militar Estadual para processar o caso, diante da natureza da infração (homicídio tentado), declinando a competência ao Tribunal do Júri da Justiça Comum Estadual, nos termos do art. 82, § 2º, do Código de Processo Penal Militar (CPPM) e do art. 125, § 4º, da CF/88" (fl. 3).
+Afirma que, "Apesar da declinação, a prisão preventiva foi mantida, sob a justificativa genérica de "gravidade dos fatos" e "preservação da disciplina militar", sem que fossem apresentados elementos concretos do caso que justificassem a segregação cautelar. O paciente permanece preso há mais de 85 dias (até a presente data, 01/03/2025), sem oferecimento de denúncia formal ou início da instrução criminal, configurando flagrante excesso de prazo" (fl. 3).
+No presente writ, a defesa sustenta a ausência de fundamentos válidos para a prisão preventiva do paciente, bem como excesso de prazo na formação da culpa.
+Nesse sentido, aduz que o decreto prisional apontou somente a gravidade dos crimes e disciplina militar, "sem indicar elementos concretos que justifiquem a segregação" (fl. 6), e que se encontra "preso desde 05/12/2024, totalizando mais de 85 dias até a presente data (01/03/2025), sem que tenha sido oferecida denúncia ou iniciada a instrução criminal. Tal demora viola o princípio da razoável duração do processo (art. 5º, LXXVIII, CF/88) e configura excesso de prazo injustificado" (fl. 4).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente e, subsidiariamente, a substituição da prisão pelas medidas cautelares previstas no art. 319 do CPP.
+É o relatório.
+Decido.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pela defesa.
+Na hipótese, o impetrante não colacionou aos autos a cópia da decisão que decretou a prisão preventiva, de forma que a ausência de peça essencial ao deslinde da controvérsia impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ.
+A propósito, os seguintes precedentes:
+PROCESSO PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, TRÁFICO DE DROGAS COM AS CAUSAS DE AUMENTOS DE PENA DO ART. 40, IV, V E VI, DA LEI N. 11.343/13, E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NÃO CONHECIMENTO DO HABEAS CORPUS. INSTRUÇÃO DEFICITÁRIA. APENAS PETIÇÃO INICIAL. IMPOSSIBILIDADE JURÍDICA DE ACESSO A "LINK EXTERNO" PARA FINS DE VISUALIZAÇÃO DAS PROVAS. OS DOCUMENTOS NECESSÁRIOS AO JULGAMENTO DO PROCESSO PRECISAM ESTAR JUNTADOS AOS AUTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A defesa se insurge contra a decisão monocrática que não conheceu do habeas corpus, por instrução deficitária.
+2. O rito do habeas corpus, e do recurso ordinário a ele inerente, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem, o que não ocorreu, na espécie. Apesar de impetrado por advogado, os autos compõem-se apenas da petição inicial.
+3. "A jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+ ..  5. Agravo regimental conhecido e não provido.
+(AgRg no HC n. 895.072/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. TRÁFICO PRIVILEGIADO. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo à parte apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+2. A tese defensiva restringe-se a suposto erro na dosimetria da pena, alegando o impetrante, em suma, que o paciente era tecnicamente primário à época do cometimento dos fatos, razão por que faz jus à minorante do tráfico privilegiado e à incidência da atenuante da confissão espontânea, sem qualquer compensação.
+3. No caso, o writ carece de prova pré-constituída, porque desprovido de cópia da própria sentença condenatória e do acórdão que julgara a apelação na ação subjacente, peças essenciais para que se verifique eventual constrangimento ilegal trazido na impetração.
+4. Ademais, "a documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente deve estar presente nos autos no momento da impetração do habeas corpus, não se admitindo a juntada posterior de peças processuais, tampouco que a instrução seja feita por outros meios, como links ou consulta ao processo na página eletrônica do Tribunal de origem. Precedentes" (RHC n. 122.600/RS, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 5/3/2020).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 837.638/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Além disso, verifica-se que o habeas corpus foi impetrado contra decisão monocrática de relator, não tendo havido o devido exaurimento da instância antecedente, o que obsta o conhecimento da impetração.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU LIMINARMENTE O HC IMPETRADO NA CORTE DE ORIGEM. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNICAS ORDINÁRIAS E DE MANIFESTAÇÃO SOBRE O MÉRITO DO PEDIDO. SUPRESSÃO DE INSTÂNCIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E APELAÇÃO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AUSÊNCIA DE PATENTE ILEGALIDADE NA DECISÃO QUE INDEFERIU LIMINARMENTE A IMPETRAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por Tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ. Situação em que o habeas corpus aqui impetrado se volta contra decisão monocrática de Relator.
+2. Não se revela teratológica a decisão do Desembargador Relator do habeas corpus impetrado na Corte de origem por entender que "o habeas corpus não deve ser utilizado como via substitutiva de recursos previstos em lei, no caso a apelação criminal, até porque a utilização do writ como sucedâneo de recurso próprio avilta o princípio do amplo contraditório, porque suprimidas as etapas previstas para o recurso cabível".
+3. A ausência de prévia deliberação sobre o mérito da controvérsia pelas instâncias ordinárias impede a manifestação desta Corte a respeito do tema, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 947.602/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
