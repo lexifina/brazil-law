@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de MATHEUS HENRIQUE MARTINS DE LIMA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1500467-34.2021.8.26.0594.
+Consta dos autos que o paciente foi declarado inimputável, na forma do artigo 45 da Lei n. 11.343/2006, sendo julgada improcedente o pedido contido na denúncia, com a absolvição imprópria da acusação de prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 e no art. 180, caput, do Código Penal, impondo-lhe medida de segurança de tratamento ambulatorial, por tempo indeterminado, observado o prazo mínimo de dois anos.
+O Tribunal local negou provimento ao recurso interposto pela Defesa e deu provimento ao recurso interposto pelo Ministério Público para estabelecer a internação do paciente pelo prazo de 02 (dois) anos, com submissão a exame de verificação de periculosidade anualmente.
+Neste habeas corpus, a defesa busca a aplicação de tratamento ambulatorial, conforme havia sido determinado na sentença.
+Explica que o nível de periculosidade e o laudo no caso recomendam o tratamento ambulatorial.
+Requer, inclusive liminarmente, suspender a medida de internação. No mérito, a concessão definitiva da ordem, para que o paciente não seja internado.
+A liminar foi indeferida (fls. 37-38).
+O Ministério Público Federal emitiu parecer opinando pelo não conhecimento do habeas corpus (fls. 76-80).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão do estabelecimento de internação do paciente pelo prazo de 02 (dois) anos para fins de cumprimento de medida de segurança.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Entretanto, no caso concreto, vislumbro a presença de coação ilegal que impõe a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+O juiz de primeiro grau estipulou tratamento ambulatorial pelo prazo mínimo de dois anos com base no parecer do perito, que entendeu que o tratamento em meio externo seria o mais indicado para o paciente.
+Transcrevo o trecho da sentença (fl. 18):
+" ..
+No caso específico dos autos, a medida a ser imposta consistirá em tratamento ambulatorial, pelo prazo mínimo de dois anos, como sugerido pelo médico perito, em que pese estar-se diante de imputação de fato previsto como crime apenado com reclusão. Isso porque, pelo que se conclui do laudo da perícia médica, o tratamento em meio externo é o mais indicado para o réu, o que autoriza a imposição de medida de segurança diversa da internação."
+Ocorre que o Tribunal local, ao analisar o recurso do Ministério Público, considerou inviável a aplicação de tratamento ambulatorial considerando que os crimes aos quais o paciente foi condenado - tráfico de entorpecentes e receptação - são apenados com reclusão.
+Assim, a Corte local entendeu necessário impor a internação do paciente pelo prazo de 02 (dois) anos unicamente em razão dos crimes praticados e da natureza da pena cominada, sem qualquer tipo de análise acerca da periculosidade do paciente.
+É certo que o Superior Tribunal de Justiça tem precedente no sentido de que em delitos puníveis com reclusão, é facultado ao magistrado escolher o tratamento mais adequado ao inimputável, não havendo flagrante ilegalidade na decisão de internação (HC n. 829.113/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.).
+Entretanto, a imposição da medida de segurança de internação, mesmo nas hipóteses de delito punível com reclusão, deve ser devidamente fundamentada, com atenção especial à periculosidade do agente.
+No caso, ao decidir pela internação da paciente, a Corte local não fundamentou a necessidade de imposição da medida mais gravosa, já que, como dito, considerou a gravidade abstrata dos delitos e o tipo de pena imposto. Além do mais, desconsiderou, sem qualquer embasamento fático diverso, a conclusão da perícia no que tange à sugestão para imposição de tratamento ambulatorial.
+Concluo, portanto, pela ocorrência de constrangimento ilegal quanto à determinação da internação do paciente sem motivação idônea:
+Neste sentido, cito precedente:
+" ..
+3. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência 998.128/MG, firmou o entendimento de que, à luz dos princípios da adequação, da razoabilidade e da proporcionalidade, em se tratando de delito punível com reclusão, é facultado ao magistrado a escolha do tratamento mais adequado ao inimputável, nos termos do art. 97 do Código Penal, não devendo ser considerada a natureza da pena privativa de liberdade aplicável, mas sim a periculosidade do agente.
+4. Considerando que a medida de internação foi aplicada ao paciente em razão da gravidade do delito praticado e do fato de a pena corporal a ele imposta ser de reclusão, sem que nada de concreto tenha sido explicitado acerca de sua eventual periculosidade social, sendo certo que se trata de agente primário, sem qualquer envolvimento anterior com a prática delitiva, ou notícia de que tenha reiterado no crime, é cabível o abrandamento da medida de segurança, sendo suficiente e adequado o tratamento ambulatorial.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para aplicar ao paciente a medida de segurança de tratamento ambulatorial, a ser implementada pelo Juízo da Execução."
+(HC n. 617.639/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/2/2021, DJe de 12/2/2021.)
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça. Todavia, concedo a ordem de ofício a fim de impor ao paciente o tratamento ambulatorial para cumprimento da medida de segurança, nos exatos termos da sentença condenatória.
+Publique-se. Intimem-se.
+EMENTA
