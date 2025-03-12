@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por EDSON CESAR BERTOLI, para impugnar acórdão lavrado pelo Tribunal de Justiça do Estado do Paraná, que denegou a ordem vindicada nos autos do habeas corpus nº 0016022-15.2023.8.16.0000.
+Consta dos autos que o recorrente teve sua prisão preventiva decretada ante a prática, em tese, dos delitos previstos no artigo 2º c/c art. 1º, § 1º, ambos da Lei n. 12.850/13; no artigo 180, §§ 1º e 2º, do Código Penal, por diversas vezes, na forma do art. 71 do Código Penal; no artigo 15 da Lei n. 7.802/89, por diversas vezes, na forma do art. 71 do Código Penal; no artigo 1º, § 1º, incisos I e II, e § 4º, da Lei n. 9.613/98; todos nos termos do art. 69 do Código Penal
+No presente recurso, requer a defesa a declaração de nulidade da decisão que deferiu a interceptação telefônica e telemática.
+Parecer do Ministério Público Federal pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório. DECIDO.
+O recurso deve ser conhecido, porquanto presentes os requisitos de admissibilidade recursal.
+No mérito, contudo, tenho que inexiste fundamento jurídico hábil a amparar a pretensão recursal.
+Entende esta Corte Superior, em situações análogas àquela verificada nos autos, que "a quebra do sigilo telefônico, in casu, foi motivada, pelo Juízo singular, de forma adequada e suficiente, com atenção aos comandos dos arts. 5º da Lei n. 9.296/1996 e 93, IX, da Constituição da República. Não prospera a pretensão anulatória quanto à possível arbitrariedade no deferimento da medida cautelar. Tal qual concluiu a Corte estadual, havia, na hipótese, investigação formalmente instaurada, que apontou para a indispensabilidade do procedimento extremo, além do fumus comissi delicti e do periculum in mora" (AgRg nos EDcl no REsp 1348412/SC, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 19/5/2020) .
+De se ver, ademais, que, à luz de entendimento desta Corte Superior, "mesmo nos casos de sigilo telefônico, medida bem mais gravosa do que a destes autos, não se exige a fundamentação exaustiva na decisão que a determina, podendo o magistrado decretar a quebra mediante fundamentação concisa e sucinta" (AgRg nos EDcl no RHC 189698 / SC, QUINTA TURMA, de minha relatoria, DJe 20/06/2024), com base em indícios concretos de prática delitiva e na necessidade das medidas para a investigação.
+No caso dos autos, reputo ser adequada e suficiente a fundamentação adotada pelas instâncias inferiores, que indicou a indispensabilidade da medida, sendo certo que, para se concluir para ausência de diligências prévias, seria necessária a incursão em aspectos fáticos, o que é vedado na via esteira escolhida pela parte interessado.
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, com fundamento no art. 34, XVIII, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
