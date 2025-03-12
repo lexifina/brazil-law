@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVER DA PARTE DE, AO INGRESSAR COM O AGRAVO DO ART. 1.042 DO CPC/2015, IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. EXIGÊNCIA CUJO DESCUMPRIMENTO ACARRETA O NÃO CONHECIMENTO DO AGRAVO. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de não conhecer do agravo em recurso especial, tendo em vista que realmente não houve efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESTADO DA PARAIBA contra decisão proferida pela Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial por ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial (e-STJ, fls. 240-241).
+Alega a parte agravante, em suma, que impugnou de forma pormenorizada a decisão que não admitiu seu recurso especial (e-STJ, fls. 247-250).
+Ausente as contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVER DA PARTE DE, AO INGRESSAR COM O AGRAVO DO ART. 1.042 DO CPC/2015, IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. EXIGÊNCIA CUJO DESCUMPRIMENTO ACARRETA O NÃO CONHECIMENTO DO AGRAVO. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de não conhecer do agravo em recurso especial, tendo em vista que realmente não houve efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+3. Agravo interno desprovido.
+VOTO
+Apesar do inconformismo manifestado pela parte agravante, está correta e deve ser confirmada a decisão proferida pela Presidência desta Corte Superior.
+Ora, é dever da parte agravante combater especificamente a totalidade dos fundamentos da decisão agravada, demonstrando o desacerto da deliberação que obstou a subida do recurso especial, sob pena de aplicação do art. 932, III, do Código de Processo Civil de 2015.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da Súmula n. 123/STJ, constitui atribuição do Tribunal de origem examinar os pressupostos específicos e constitucionais relativos ao mérito da controvérsia objeto do recurso especial.
+2. A jurisprudência desta Corte aplica, por analogia, a Súmula n. 182/STJ ao agravo em recurso especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.596.723/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICA E FUNDAMENTADAMENTE, A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, NA ORIGEM. IMPUGNAÇÃO GENÉRICA. REITERAÇÃO DAS RAZÕES DO APELO NOBRE. INSUFICIÊNCIA. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. CORRETA A DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECERA DO AGRAVO. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, ante o óbice da Súmula 182/STJ, porquanto o agravante não infirmara, especifica e fundamentadamente, o óbice da Súmula 7/STJ, aplicado, na origem, para inadmitir o apelo nobre.
+II. Consoante pacífica jurisprudência desta Corte, cumpre ao agravante infirmar, especifica e fundamentadamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC e Súmula 182/STJ, por analogia). Nesse sentido: AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. Nos termos da jurisprudência desta Corte, quando o recurso especial não é admitido pelo Tribunal de origem com base na Súmula 7/STJ, é dever da parte agravante demonstrar, no agravo em recurso especial, sob pena de preclusão, que a referida Súmula não se aplica ao caso, evidenciando de que forma a violação aos dispositivos federais, suscitada nas razões recursais, não depende de reanálise do conjunto fático-probatório dos autos - deixando claro, por exemplo, que todos os fatos estão devidamente consignados no acórdão recorrido -, sendo insuficiente a mera alegação no sentido da inaplicabilidade da Súmula 7/STJ ou de que o exame da controvérsia dispensa reexame probatório, por revelar-se como combate genérico e não específico. Ou seja, "Para afastar a incidência da Súmula 182/STJ, não basta que o recorrente tenha explicitado, de maneira genérica, a desnecessidade do reexame das provas dos autos para a análise da tese suscitada no apelo nobre. Faz-se necessário que o agravante, analiticamente, contraste as conclusões do acórdão combatido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJ foi aplicada indevidamente" (STJ, AgInt no AREsp 1.160.579/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/04/2018).
+IV. No caso, por simples cotejo entre o decidido, pelo juízo prévio de admissibilidade da origem, e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica e fundamentada ao referido óbice sumular, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015, bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia. Decisão da Presidência do STJ que não merece censura.
+V. Agravo interno improvido.
+(AgInt no AREsp n. 2.584.143/ES, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/10/2024, DJe de 22/10/2024.)
+A decisão da Presidência desta Corte não conheceu do agravo interposto sob o argumento de que os fundamentos da decisão de inadmissibilidade do apelo especial não foram todos rebatidos naquele recurso, conforme se vê do seguinte trecho (e-STJ, fl. 240):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de interesse recursal e Súmula 280/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de interesse recursal.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+E a análise das razões do agravo em recurso especial revela que a parte agravante efetivamente não rebateu o fundamento relacionado ao óbice por ausência d e interesse recursal
+Considerando, pois, que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado na decisão da Presidência do STJ, deve ser ratificada a decisão de não conhecimento do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
