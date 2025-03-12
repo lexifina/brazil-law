@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por FELIPE AUGUSTO FARIA DA SILVA contra decisão que inadmitiu recurso especial manejado em face de acórdão do tribunal de justiça de origem, com juízo negativo de admissibilidade fundado na incidência da Súmula n. 7 (fls. 477-482).
+Em primeira instância, o acusado foi absolvido da acusação do delito do artigo 33, caput, da Lei nº 11.343/06, desclassificando-se a imputação para aquela do art. 28 da Lei Antidrogas.
+Interposta a apelação pela acusação, o tribunal de origem deu provimento para condenar o réu pelo delito do artigo 33, caput, da Lei nº 11.343/06 à pena de 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, em regime aberto, e 193 (cento e noventa e três) dias-multa (fls. 413-427).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alegou violação ao art. 28 da Lei n. 11.343/2006 e art. 155 do Có digo de Processo Penal (fls. 454-465).
+Com a inadmissão na origem, houve a interposição do agravo, aduzindo-se a necessidade de provimento para que seja examinado o recurso especial.
+O Ministério Público Federal apresentou parecer pelo não provimento do recurso (fls. 517-520).
+É o relatório. DECIDO.
+Agravo tempestivo e com impugnação adequada. Há admissibilidade, ao que passo ao exame do recurso especial.
+Conforme relatado, o apelo nobre foi inadmitido pelo tribunal de origem em razão da necessidade de reexame de provas, incidindo a Súmula n. 7 do STJ.
+No caso, há correção da decisão recorrida, uma vez que incide a Súmula 7 do STJ, por haver necessidade de exame da matéria fático-probatória, sobre a alegação de desclassificação da imputação de tráfico de drogas para porte para consumo próprio.
+O acórdão do tribunal de origem constou (fl. 422):
+Não obstante a negativa da destinação mercantil da droga por parte do apelado, o certo é que sua versão se encontra isolada nestes autos e a narrativa de aquisição para consumo próprio de relevante quantidade de entorpecente sustentada por ele não encontra respaldo na dinâmica dos fatos narrados pelos agentes públicos acima nominados. Além disso, impende ressaltar que as declarações dos policiais militares responsáveis pelas diligências que levaram à apreensão do entorpecente, bem como à prisão de Felipe Augusto foram confirmadas em juízo pelo policial militar André José da Silva.
+Como é sabido, nos crimes de tráfico de drogas, é comum e usual o agente negar a autoria do delito e utilizar-se de outros artifícios para se esquivar da condenação, v. g. como se passar por um simples usuário, apesar de todas as evidências contrarias. De todo modo, na espécie, o simples fato de o apelado ser usuário não torna a conduta atípica, pois inúmeros são os casos de agentes que, além de praticarem a conduta análoga ao crime de tráfico de entorpecentes, utilizam as drogas para o consumo, sendo comum a figura do usuário-traficante.
+ ..
+Portanto, conforme se extrai dos depoimentos uníssonos dos policiais militares, associados à apreensão de três porções de maconha (140,65 gramas) e R$ 1.370,00 em dinheiro, ainda que o apelado negue que realizava o tráfico e que a porção da droga encontrada em seu poder era destinada ao seu consumo, deve ser reconhecido que todas as provas produzidas nestes autos apontam a autoria do crime de tráfico de drogas para a sua pessoa.
+Percebe-se, portanto, que a análise probatória levou à conclusão da atividade de traficância.
+Sobre o tema, tem-se a jurisprudência consolidada desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO DEVIDAMENTE FUNDAMENTADA NAS PROVAS COLHIDAS NOS AUTOS. PRETENSÃO DE DESCLASSIFICAÇÃO DO DELITO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Conforme a jurisprudência desta Corte, "nos termos do art. 28, § 2º, da Lei 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente" (AgRg no HC n. 762.132/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022).
+2. Estando a condenação devidamente fundamentada, com amparo no material probatório colhido nos autos, por meio de prova testemunhal e das circunstâncias do flagrante, que comprovaram a prática de conduta que se enquadra no crime de tráfico de drogas, destacando-se, não somente a apreensão de drogas de natureza variada (maconha e rophynol) e de papéis para embalar a droga, mas que os policiais teriam recebido denúncia de seguranças particulares supermercado, indicando que o acusado estaria traficando no estacionamento do local, o que já teria ocorrido outras vezes, a pretensão de desclassificação do delito demandaria o reexame de provas, vedado pela Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.356.130/AL, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 5/3/2024, DJe de 8/3/2024.)
+Neste contexto, a Súmula n. 7 do STJ impede o reexame do acervo fático-probatório, sendo correta a decisão de origem que referiu a existência do óbice ao seguimento do recurso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do RISTJ.
+Publique-se. Intimem -se.
+EMENTA
