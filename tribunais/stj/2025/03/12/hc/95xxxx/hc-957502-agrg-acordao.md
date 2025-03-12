@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de recurso próprio. Inadmissibilidade. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, utilizado como substituto de recurso próprio, em face de sentença que condenou o agravante à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 900 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o inciso VI do art. 40 da Lei nº 11.343/2006.
+2. A parte agravante alega nulidade da busca veicular, realizada sem fundadas suspeitas, e defende que a não apresentação da CNH configura apenas infração administrativa, não autorizando a busca veicular, resultando na ilicitude das provas obtidas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substituto de recurso próprio e se a busca veicular decorrente da não apresentação da CNH para evitar a captura, já que existia mandado de prisão em aberto em face do condutor, configura ilegalidade apta a ensejar a nulidade das provas obtidas.
+III. Razões de decidir
+4. O habeas corpus não é admitido como substituto de recurso próprio, salvo em casos de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.
+5. Não se vislumbra coação ilegal que justifique a concessão da ordem de ofício, uma vez que as instâncias ordinárias estabeleceram que havia fundadas suspeitas da ocorrência de crime, respaldando a busca veicular.
+6. A análise de teses que demandem incursão no acervo fático-probatório é imprópria na via do habeas corpus, conforme iterativa jurisprudência do STJ.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. O habeas corpus não é admitido como substituto de recurso próprio, salvo em casos de flagrante ilegalidade. 2. A busca veicular respaldada por fundadas suspeitas não configura ilegalidade apta a ensejar a nulidade das provas obtidas".
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33, caput, c/c art. 40, VI; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, julgado em 27.03.2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ADENILSON RIBEIRO RODRIGUES em face de decisão proferida, às fls. 50-53, que indeferiu liminarmente o habeas corpus.
+Consta dos autos que o agravante foi sentenciado à pena de 09 (nove) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 900 (novecentos) dias-multa, pela prática do crime capitulado no art. 33, caput, c/c o inciso VI do art. 40 da Lei Federal nº 11.343/2006 (fl. 43).
+Nas razões do agravo, às fls. 58-68, a parte recorrente reitera os argumentos sustentados na inicial acerca da nulidade da busca veicular, a qual ocorreu sem fundadas suspeitas.
+Defende que a não apresentação da CNH "configura tão somente infração administrativa, que não autoriza a busca veicular, resultando na ilicitude das provas obtidas em decorrência da medida, bem como das demais provas que dela decorrerem em relação de causalidade" (fl. 65).
+Requer o conhecimento e provimento do presente recurso a fim de ser reformada a decisão atacada e a ordem de impetração concedida.
+O Ministério Público do Estado da Bahia apresentou as contrarrazões às fls. 94-102.
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de recurso próprio. Inadmissibilidade. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, utilizado como substituto de recurso próprio, em face de sentença que condenou o agravante à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 900 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o inciso VI do art. 40 da Lei nº 11.343/2006.
+2. A parte agravante alega nulidade da busca veicular, realizada sem fundadas suspeitas, e defende que a não apresentação da CNH configura apenas infração administrativa, não autorizando a busca veicular, resultando na ilicitude das provas obtidas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substituto de recurso próprio e se a busca veicular decorrente da não apresentação da CNH para evitar a captura, já que existia mandado de prisão em aberto em face do condutor, configura ilegalidade apta a ensejar a nulidade das provas obtidas.
+III. Razões de decidir
+4. O habeas corpus não é admitido como substituto de recurso próprio, salvo em casos de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.
+5. Não se vislumbra coação ilegal que justifique a concessão da ordem de ofício, uma vez que as instâncias ordinárias estabeleceram que havia fundadas suspeitas da ocorrência de crime, respaldando a busca veicular.
+6. A análise de teses que demandem incursão no acervo fático-probatório é imprópria na via do habeas corpus, conforme iterativa jurisprudência do STJ.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. O habeas corpus não é admitido como substituto de recurso próprio, salvo em casos de flagrante ilegalidade. 2. A busca veicular respaldada por fundadas suspeitas não configura ilegalidade apta a ensejar a nulidade das provas obtidas".
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33, caput, c/c art. 40, VI; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, julgado em 27.03.2020.
+VOTO
+Em que pesem os argumentos contidos nas razões recursais, o agravo não comporta provimento, porquanto a parte agravante não trouxe argumentos capazes de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, que deve ser mantida, máxime porque embasada em julgados desta Corte Superior de Justiça.
+Conforme disposto na decisão agravada, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+" ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  .. " (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+" ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024).
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática estabelecida pelas instâncias ordinárias indica que havia fundadas suspeitas da ocorrência de crime, a respaldar a busca veicular. Confiram- se os seguintes excertos:
+"Aduz o Ministério Público que, "na ocasião, Adenilson Ribeiro Rodrigues não apresentou aos agentes públicos os documentos pessoais, inclusive a carteira de habilitação, a fim de evitar sua captura, já que existe mandado de prisão em aberto expedido em seu desfavor, conforme demonstra o documento juntado à fl. 32, limitando-se a entregar aos militares o CRLV do automóvel; motivo por que, dada a fundada suspeita, os policiais realizaram buscas no interior do veículo e encontraram as drogas acima discriminadas dentro de uma mochila pertencente a Gabriel Rodrigues Amaral, segundo apurado pelos agentes. Nesse contexto, os militares prenderam Gabriel Rodrigues Amaral, o colocaram no interior da viatura policial, e solicitaram que Adenilson Ribeiro Rodrigues os acompanhasse, guiando o Chevrolet/Agile LTZ, placa NTS 9750, até o posto da Polícia Rodoviária Estadual, situado naquela rodovia, próximo à entrada desta cidade. Todavia, Adenilson Ribeiro Rodrigues, ao ingressar no próprio veículo, junto com os demais passageiros, subitamente empreendeu fuga, com destino a Feira de Santana, e escapou da abordagem policial. Descobriu-se também, sobretudo a partir do termo de interrogatório de Gabriel Rodrigues Amaral, que as drogas em questão foram transportadas entre Itacaré e as imediações de Feira de Santana, distantes aproximadamente 350 quilômetros, conforme demonstra o mapa extraído do aplicativo Google Maps, que segue em anexo; no interior do referido veículo, que estava sendo ocupado por três crianças, estratégia, aliás, costumeiramente utilizada no tráfico de drogas intermunicipal para despistar a fiscalização policial; o que demonstra, ante esse contexto fático global, um modus operandi profissional, não eventual, bem como o envolvimento, ainda que indireto, de crianças na prática do crime, o que configura a hipótese prevista no inciso VI do art. 40 da Lei 11.343/06."
+ ..
+Conforme os depoimentos dos policiais rodoviários estaduais, Gabriel Rodrigues Amaral e Adenilson Ribeiro Rodrigues estavam em companhia de duas crianças, tendo o segundo empreendido fuga, em alta velocidade, após ter sido solicitado a acompanhar a viatura até o posto rodoviário estadual para que os procedimentos do flagrante fossem adotados com a devida segurança para as crianças" (sentença, fls. 39-41).
+Outrossim, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório, como no caso das circunstâncias fáticas que envolveram a situação do flagrante. Sobre o tema:
+" ..
+4. Na hipótese, conforme destacado pela Corte local, soberana na análise dos fatos e provas, está bem delimitada, pelo acervo probatório produzido na origem, e que não pode ser revisto no mandamus, notadamente no bojo de condenação transitada em julgado e mantida pela Corte local em sede de revisão criminal, a justa causa para a ação dos policiais, posto que o réu encontrava-se no interior de uma casa abandonada, supostamente utilizada para o tráfico de drogas pelo acusado, momento em que, já no interior do imóvel, os agentes públicos depararam-se com o paciente, que foi abordado. Em revista pessoal, foi apreendida a quantia de R$ 115,00 (cento e quinze reais) em seu poder, além de 12 (doze) porções de crack.
+5. Ademais, Verificada justa causa para a realização da abordagem policial, tomando-se como base o quadro fático delineado pelas instâncias antecedentes, alcançar conclusão em sentido diverso demandaria o reexame do conjunto fático-probatório, incabível na via do habeas corpus (HC 230232 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 02-10-2023, PROCESSOELETRÔNICO DJe-s/n, DIVULG 06-10-2023, PUBLIC 09-10-2023).
+6. Por fim, para se concluir de maneira diversa da Corte de origem e acolher a pretensão desclassificatória, nos moldes da pretensão defensiva, seria necessário proceder ao revolvimento das provas produzidas nos autos, o que não se mostra cabível na estreita via do habeas corpus, notadamente nos autos de condenação transitada em julgado e mantida em sede de Revisão Criminal.
+7. Agravo regimental a que se nega provimento" (AgRg no HC n. 874.205/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024).
+" ..
+3. "Desconstituir as conclusões da instância ordinária a respeito da dinâmica do flagrante demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus". (AgRg no HC n. 708.314/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/10/2022, D Je de 19/10/2022.)
+4. Incabível a análise da questão do reconhecimento do tráfico privilegiado por se tratar de matéria estranha à inicial, constituindo indevida inovação recursal trazida apenas nas contrarrazões ao agravo regimental, de modo que dela não se deve conhecer.
+5. Agravo regimental provido para reconsiderar a decisão anterior e denegar o habeas corpus" (AgRg no HC n. 750.295/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023 ).
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
