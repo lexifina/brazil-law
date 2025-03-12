@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICIPIO DE CATUNDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+RECURSO APELATÓRIO EM AÇÀO DE REPARAÇÃO DE DANOS MORAIS. EMPRÉSTIMO CONSIGNADO REALIZADO NA CAIXA ECONÔMICA FEDERAL. CONSIGNAÇÃO COM SERVIDOR DO MUNICÍPIO DE CATUNDA. DESCONTO NA FOLHA DE PAGAMENTO. AUSÊNCIA DE REPASSE PELO MUNICÍPIO. NEGATIVAÇÃO EM CADASTRO DE INADIMPLENTES. RESPONSABILIDADE OBJETIVA DA ADMINISTRAÇÃO PÚBLICA. DANOS MORAIS CONFIGURADOS. INDENIZAÇÃO DEVIDA. QUANTUM MANTIDO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA REFORMADA DE OFÍCIO.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 373, I, do CPC, no que concerne à ausência de comprovação do alegado dano moral, porquanto o autor não apresentou provas do cometimento de ato ilícito pelo Município, trazendo a seguinte argumentação:
+Neste caso, ao contrário do apontado pelo respeitoso acordão, o(a) autor(a) não faz jus ao percebimento dos danos morais deferidos na espécie, tendo em vista que não comprovou as suas alegações. Senão vejamos.
+O empréstimo consignado realizado pelo autor com a CAIXA ECÔNOMICA FEDERAL, no qual eram efetuados os descontos dos valores mensais devidos em folha de pagamento (doc. em anexo) pela PREFEITURA MUNICIPAL DE CATUNDA, eram feitos de forma automática a CAIXA ECONÔMICA FEDERAL, quitando desta forma o débito existente.
+Na espécie, não houve comprovação do dano ocorrido, eis que o autor não informou qual o período que supostamente encontra-se inadimplente, não apresentou nenhum aviso ou carta de comunicação de cobrança, ou se o seu nome foi, de fato, incluso no cadastro de devedores pelo motivo alegado na inicial.
+As alegações do cometimento de ato ilícito pelo Município de Catunda não passam de meras afirmações postas na inicial sem qualquer esteio probatório. Conforme se verifica da documentação acostada aos autos, o autor, em nenhum momento algum, demonstrou a conduta lesiva supostamente sofrida. Tal alegação não passa de mera afirmação posta na inicial sem qualquer esteio probatório.
+ ..
+Neste caso, o acordão viola o art. 373, I, do CPC, na medida em que mantém a condenação ao pagamento de danos morais ao recorrido, sendo que, em nenhum momento algum, restou demonstrado o dano moral supostamente sofrido.
+No que pertine aos danos morais, em que pese à jurisprudência dispensar a sua comprovação material, os fatos devem ser demonstrados para que o ofendido tenha direito ao ressarcimento, o que inocorreu na espécie: (fls. 163-164).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Depois desse contexto, voltando para o caso concreto, consta dos elementos carreados que o Município de Catunda e a Caixa Econômica Federal - CEF firmaram convênio para concessão de empréstimo aos servidores municipais, sob garantia de consignação em folha de pagamento.
+Os documentos demonstram que, de fato, os valores relativos ao empréstimo tomado pela apelada junto à CEF, eram descontados mensalmente em sua folha de pagamento, fl. 26. Contudo, a mesma foi incluída nos Cadastros de Inadimplentes, fl. 25.
+Diante das provas constantes dos autos, deve-se reconhecer que, apesar de ter sido descontadas dos vencimentos da servidora as parcelas do empréstimo, a municipalidade não repassou, no prazo fixado, a respectiva importância à credora (CEF).
+Assim, a relação de causa e efeito entre a conduta omissiva e o dano suportado pela apelada é evidente, sendo notório, ainda, o descumprimento de um dever contratual pela Administração Municipal, de forma a configurar a ilicitude do ato, desonerando-se a promovente do seu ônus de comprovar a veracidade dos fatos, conforme art. 373, inciso I, do CPC.
+Em que pese o nome da autora ter sido encaminhado ao SERASA pela Caixa Econômica Federal, essa providência foi tomada em razão da falta de repasse das parcelas, ou seja, pelo descumprimento das obrigações assumidas pelo ente público municipal.
+In casu, evidente a omissão do apelante, revelando-se patente o direito da apelada à indenização pretendida, tendo em vista os transtornos e a intranquilidade originados em razão da falha na prestação de serviço pelo órgão municipal. (fls. 25-26, grifo meu).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 9.12.2013; AgInt no AREsp 1.534.079/ES, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 26.8.2020; AgInt nos EDcl no AREsp 1.341.969/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26.8.2020; AgInt no AREsp 1.581.658/PB, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18.8.2020; e AgInt no AREsp 1.528.011/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 1º.7.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
