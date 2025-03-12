@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Andreia Pinheiro Goncalves, em que se aponta como autoridade coatora a Décima Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus criminal n. 2378420-72.2024.8.26.0000, mantendo a prisão preventiva da paciente imposta pelo Juízo da 24ª Vara Criminal do Foro Central Criminal da comarca de São Paulo/SP, ao proferir a sentença condenatória em seu desfavor pela prática do crime de tráfico de drogas.
+Neste writ, sustenta a defesa a ausência de fundamentação concreta a justificar a medida constritiva e que há incompatibilidade entre a prisão preventiva e o regime semiaberto, destacando, ainda, que a paciente é primária, com apenas 19 anos de idade, e que o tráfico de drogas ocorreu dentro de um contexto de "mula".
+Enfatiza a necessidade de respeito aos princípios da proporcionalidade e da razoabilidade, reiterando a primariedade da paciente, sem antecedentes criminais, e ressalta que ela confessou o delito, demonstrando arrependimento e desejo de colaborar com a justiça.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva, com a expedição do respectivo alvará.
+É o relatório.
+Infere-se dos autos que a paciente foi condenada à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, pela prática do crime de tráfico interestadual de drogas, com a consequente negativa do direito de recorrer em liberdade.
+Nesse sentido, a defesa apresenta sua irresignação. Sustenta, em suma, a ausência de fundamentos idôneos e suficientes que justifiquem a imposição da medida constritiva da liberdade, apontando a desproporcionalidade da decisão, tendo em vista que a paciente é primária, com apenas 19 anos de idade, e que a quantidade de drogas apreendidas - 941,5 g de cocaína - não é exorbitante, conforme a fl. 107.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+E, segundo o art. 387, § 1º, do Código de Processo Penal, o Juiz deve fundamentar a decretação ou a manutenção da custódia por ocasião da sentença condenatória. Dessa forma, deve ser demonstrada, nessa fase, com fundamento em dados concretos dos autos, a existência de pelo menos um dos fundamentos da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+No caso, o Juízo de primeiro grau, ao proferir a sentença condenatória, negou à paciente o direito de recorrer em liberdade, nestes termos (fl. 65):
+Por via de consequência, a liberdade da acusada, ao menos neste momento processual, se mostra comprometedora à ordem pública, fundamento pelo qual mantenho a prisão preventiva, na forma dos artigos 312, 313 c/c artigo 387, parágrafo 1º, dispositivos do Código de Processo Penal.
+O acórdão impugnado manteve a medida constritiva imposta pelo Magistrado de piso (fls. 30/31).
+Desse modo, tanto o Juízo de primeiro grau, ao proferir a sentença condenatória, quanto o Tribunal de Justiça, mantendo a custódia da paciente, pontuaram a persistência dos motivos e requisitos da preventiva.
+Ora, conforme reiteradamente decidido pelo Superior Tribunal de Justiça, ao decretar ou manter a prisão preventiva, cabe ao julgador vincular o seu decisum a fatores reais de cautelaridade, o que não ocorreu na espécie, como se vê dos trechos supratranscritos.
+Ante o exposto, concedo liminarmente a ordem para revogar a prisão preventiva decretada em desfavor da paciente, na Ação Penal n. 0019572-49.2024.8.26.0050, em trâmite na 24ª Vara Criminal do Foro Central Criminal da comarca de São Paulo/SP, determinando sua substituição por outras medidas cautelares previstas no art. 319 do Código de Processo Penal, a serem estabelecidas pelo Juízo de primeiro grau, a quem incumbirá a fiscalização e também a eventual decretação de nova prisão, em caso de descumprimento de qualquer uma das obrigações impostas ou por superveniência de motivos novos e concretos para tanto, nos termos do art. 312 do Código de Processo Penal.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. CONDENAÇÃO. NEGATI VA DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO ABSTRATA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
