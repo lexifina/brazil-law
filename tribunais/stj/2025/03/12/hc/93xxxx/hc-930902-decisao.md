@@ -1,0 +1,108 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de WALLACE COSTA DO CARMO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo de Execução Penal n. 0007863-89.2024.8.26.0996.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal, reconhecendo a prática de falta grave, determinou a perda de 1/3 dos dias remidos, com reinício da contagem de prazo para progressão.
+O Tribunal de origem negou provimento ao agravo de execução penal interposto pela defesa, nos termos do acórdão que restou assim ementado (fl. 20):
+"Procedimento Administrativo Disciplinar - Preliminares - Nulidades - Ausência de oitiva judicial e Violação ao princípio da ampla defesa e do contraditório ante ausência do sentenciado nas audiências para oitiva dos depoimentos das testemunhas - Inocorrência - Sentenciado ouvido durante o procedimento administrativo, assistido por defensor - Inteligência do artigo 118, § 2º da LEP - Prejuízo não demonstrado - Preliminares rejeitadas.
+Execução penal - Falta grave - Desobediência e Desrespeito - Pleito de absolvição ou desclassificação para falta média - Impossibilidade - Grave indisciplina devidamente comprovada nos autos.
+Recurso não provido."
+No presente writ, a defesa sustenta que foi reconhecida a falta grave sem a prévia oitiva do paciente em juízo.
+Aduz que a suposta conduta do apenado foi comprovada somente com o depoimento dos agentes estatais, sem a juntada das imagens do circuito de segurança.
+Requer, em liminar e no mérito, o afastamento da falta grave ou a desclassificação para falta média.
+A liminar foi indeferida às fls. 196/197. Informações prestadas às fls. 203/207 e 210/234. O Ministério Público Federal opinou pelo não conhecimento do habeas corpus às fls. 236/240.
+É o relatório.
+Decido.
+Conforme anteriormente mencionado na decisão de fls. 93/94, e em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade.
+Da atenta leitura dos autos, verifica-se que o reconhecimento da falta grave foi precedido de procedimento administrativo disciplinar em que o paciente foi ouvido pela autoridade penitenciária na presença de defensor, o que torna válida a sua caracterização.
+Sobre o tema (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ.
+INFRAÇÃO RECONHECIDA EM REGULAR PROCESSO ADMINISTRATIVO DISCIPLINAR.
+OBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA EM SEDE ADMINISTRATIVA COM PRESENÇA DE ADVOGADO. NOVA OITIVA EM SEDE JUDICIAL. DESNECESSIDADE. PRECEDENTES. A BSOLVIÇÃO.
+DESCLASSIFICAÇÃO. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INVIÁVEL NA VIA DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foram trazidos argumentos novos para a desconstituição da decisão agravada, limitando-se a reiterar as razões do habeas corpus, já examinadas e rechaçadas pela decisão monocrática, atraindo a Súmula n. 182/STJ, por violação ao princípio da dialeticidade.
+2. Diante da observância do contraditório, da ampla defesa e do devido processo legal, no curso do processo administrativo disciplinar da apenada, resta desnecessária nova oitiva, perante autoridade judicial, de modo que não há falar em nulidade.
+Precedentes.
+3. Para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela agravante, para análise de tese de insuficiência probatória, com a consequente absolvição, ou ainda, para desclassificar a falta grave imputada para uma de natureza média ou leve, seria necessário amplo reexame da matéria fático- probatória, procedimento incompatível com a estreita via do habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 913.958/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 3/9/2024, DJe de 6/9/2024; sem grifos no original.)
+Ademais, quanto à ausência do paciente na tomada de depoimento dos agentes penitenciários e dos demais detentos, as instâncias ordinárias destacaram que a defesa não expôs o quê, exatamente, o apenado teria dito de diferente, caso tivesse assistido pessoalmente a oitiva das testemunhas. Ou seja, não houve explicitação plausível e concreta do prejuízo.
+Assim, o julgamento pelo Tribunal de Justiça está em conformidade com entendimento do STJ acerca da indeclinável necessidade de prova do prejuízo para se configurar cerceamento de ampla defesa e contraditório, notadamente diante da atuação de defesa técnica no PAD, o que se deu no caso concreto.
+Confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NULIDADE NO PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - PAD. INVERSÃO DA OITIVA DAS TESTEMUNHAS E DO APENADO. INOCORRÊNCIA. FALTA GRAVE. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. RECURSO NÃO PROVIDO.
+1. No tocante à nulidade no PAD, "Não há obrigatoriedade de que o interrogatório do sentenciado ocorra no último ato da instrução, bastando que seja sempre respeitado o contraditório e a ampla defesa, além da presença de um defensor" (AgRg no HC 369.712/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/5/2018, DJe de 1/6/2018).
+2. Ademais, a Corte de origem asseverou que o apenado estava assistido por advogado que, inclusive, acompanhou a sua oitiva e apresentou as alegações finais, não tendo apontado nenhuma nulidade no referido procedimento.
+3. Segundo entendimento deste STJ, em relação aos pleitos de absolvição e desclassificação da falta disciplinar, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta instância.
+4. Agravo regimental não provido.
+(AgRg no HC n. 763.134/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. ALEGAÇÃO DE PRESCRIÇÃO DE FALTA GRAVE APURADA EM PROCESSO ADMINISTRATIVO DISCIPLINAR. PRAZO TRIENAL. ART. 109, INCISO VI, DO CÓDIGO PENAL. NÃO OCORRÊNCIA. ALEGAÇÕES DE NULIDADE POR AUSÊNCIA DE AUDIÊNCIA DE JUSTIFICAÇÃO PARA HOMOLOGAÇÃO DE FALTA GRAVE E POR AUSÊNCIA DO SINDICADO NAS OITIVAS DE TESTEMUNHAS. NULIDADES AFASTADAS. SANÇÃO COLETIVA INEXISTENTE. FALTA DE PROVAS E DESCLASSIFICAÇÃO DA FALTA GRAVE PARA MÉDIA. INVIABILIDADE NA VIA DO HABEAS CORPUS. RECURSO IMPROVIDO.
+1. Inicialmente, no que tange à prescrição, as Turmas que compõem a Terceira Seção desta Corte firmaram a diretriz de que, em razão da ausência de legislação específica, a prescrição da pretensão de se apurar falta disciplinar, cometida no curso da execução penal, deve ser regulada, por analogia, pelo prazo do art. 109 do Código Penal, com a incidência do menor lapso previsto, atualmente de três anos, conforme dispõe o inciso VI do aludido artigo.  ..  (AgRg no HC n. 734.508/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+2. Esta Corte possui orientação no sentido de ser desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, inclusive com a participação da defesa técnica (HC n. 333.233/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 6/11/2015).
+3. "Quanto à necessidade de a defesa técnica do paciente presenciar os depoimentos das testemunhas e o do próprio sentenciado, prestados no procedimento administrativo disciplinar instaurado para a apuração de falta grave, este Superior Tribunal de Justiça já se pronunciou em diversas ocasiões no sentido de que é imprescindível a demonstração de prejuízo para reconhecimento de eventual nulidade, ônus do qual não se desincumbiu a combativa defesa - em consonância com o princípio pas de nullité sans grief, consagrado no art. 563 do Código de Processo Penal" (AgRg no HC n. 736.555/RJ, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022).
+4. Não se configura sanção coletiva se o executado é descrito, pelos agentes penitenciários presentes no momento do evento, como um dos participantes da falta e tem sua conduta devidamente individualizada.
+5. Esta Corte vem entendendo que ""A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave  .. . A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral" (HC n. 391170, Rel. Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017).
+6. "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Rel. Ministra LAURITA VAZ, DJe de 7/3/2014).
+7. Agravo regimental não provido.
+(AgRg no HC n. 778.949/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022.)
+Em relação ao reconhecimento da infração disciplinar, confira-se a fundamentação apresentada pelo Tribunal a quo (fls. 29/30 e 32/35):
+"Há nos autos provas suficientes que tornam cabal a autoria e materialidade do fato, mormente quando somados aos depoimentos dos agentes penitenciários.
+Considerando os depoimentos dos servidores, tem-se claro que a conduta praticada pelo ora agravante é típica e se adequa à infração disciplinar de natureza grave prevista nos artigos 50, incisos I e VI, da Lei das Execuções Penais.
+Note-se que o caso concreto revela a gravidade necessária para o enquadramento da conduta como falta disciplinar de natureza grave, não havendo que se falar em absolvição por insuficiência probatória.
+Não há motivos para se duvidar da narrativa ofertada pelos agentes de segurança penitenciários perante a Autoridade apuradora, porquanto nossos Tribunais desde há muito vêm conferindo credibilidade ao depoimento de agentes da lei, que por essa condição não podem ser tidos e havidos como suspeitos ou parciais.
+Vale ressaltar que a condição de agentes penitenciários não retira de suas declarações o valor da prova oral produzida, de sorte que não teriam qualquer interesse ou motivo para imputarem falsa e injustamente a prática de tal falta disciplinar a agravante.
+ ..
+Dessa forma, evidenciado está que o agravante adotou conduta reveladora de absoluta ausência de autodisciplina e senso de responsabilidade, faltando com respeito e obediência aos agentes.
+A conduta praticada pelo sentenciado, então, se enquadra nos artigos 50, incisos I e VI da Lei das Execuções Penais, que a classifica como de natureza grave.
+Não se pode tolerar tal atitude refratária e sediciosa dos reclusos, uma vez que capaz de conflagrar toda população carcerária a colocar em risco o ambiente prisional.
+Os servidores foram uníssonos ao afirmarem que o agravado aderiu ao tumulto, com a intenção de subverter a ordem e a disciplina do estabelecimento prisional.
+Embora o apenado negue a conduta, ele mesmo aponta para a ocorrência do tumulto.
+Dessa forma, evidenciado está que o agravante aderiu ao movimento subversivo iniciado pelos sentenciados Robinson Cabral Batista da Silva e Rodrigo da Silva Toledo, conforme declarado pelos agentes penitenciários.
+Ainda, não se pode confundir "sanção coletiva" com "autoria coletiva".
+A primeira, de fato, é vedada pelo ordenamento jurídico.
+A segunda, entretanto, se configura quando é devidamente apurada a falta e reconhecida a responsabilização de vários apenados na autoria de conduta que configura falta grave e, diante das circunstâncias da infração, acarreta a punição individualizada de todos os envolvidos
+Dessa forma, evidenciado que o agravante, juntamente com outros moradores da Unidade Prisional, participou de movimento de subversão da ordem e disciplina.
+A conduta praticada pelo sentenciado se enquadra no artigo 50, inciso I e VI, ambos da Lei de Execução Penal, que a classifica como de natureza grave.
+Não se pode tolerar tal atitude refratária e sediciosa dos reclusos, uma vez que capaz de conflagrar toda população carcerária a colocar em risco o ambiente prisional.
+Portanto, a prática de falta grave restou plenamente comprovada, não havendo que se falar em insuficiência probatória.
+Sendo assim, não é o caso de absolvê-lo, porquanto o caso concreto revela a gravidade necessária para o enquadramento da conduta como falta disciplinar de natureza grave, não havendo que se falar em desclassificação para indisciplina média.
+Correto o reinício do lapso para concessão de benefício da progressão de regime, na medida que encontra pacificado o entendimento de que o condenado que for punido por falta grave começa novo período a partir da data da infração disciplinar ou de sua cessação.
+Quanto à perda dos dias remidos em sua fração mínima, o artigo 127 da LEP dispõe que "em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar".
+No presente caso, a decisão do Juízo de 1º Grau, declarou a perda de 1/3 dos dias remidos e justificou a decisão, nos termos do artigo 57 da Lei de Execução Penal.
+O patamar eleito para perda dos dias remidos foi consequência do reconhecimento de falta de natureza grave.
+Ademais, o rigor da punição tem como escopo desestimular a prática de condutas semelhantes, de modo a manter o nível de disciplina na unidade prisional.
+Em conclusão, nenhum reparo merece a decisão do Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Presidente Prudente 5ª RAJ."
+Nesse contexto, não há que se duvidar das palavras dos agentes do Estado, até porque assegurados os direitos do preso, que foi interrogado na presença de defensor, e ausentes indícios de falsa incriminação de inocente.
+Conforme se extrai dos trechos acima, o Tribunal de origem entendeu que restou caracterizada a falta grave (art. 50, I e VI, da Lei de Execução Penal), expondo circunstâncias que devidamente justificam suas conclusões.
+Nesse cenário, o acolhimento da tese defensiva, no sentido de que o apenado não praticou falta grave ou, subsidiariamente, a desclassificação para falta média, demanda o revolvimento fático-probatório dos autos, providência inviável em sede de habeas corpus.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO.EXECUÇÃO PENAL. FALTA GRAVE. HOMOLOGAÇÃO. SANÇÕES. REGRESSÃO DE REGIME. ALTERAÇÃO DA DATA-BASE PARA PROGRESSÃO. PERDA DOS DIAS REMIDOS. CONSECTÁRIOS LEGAIS. FUNDAMENTAÇÃO SUFICIENTE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, nos termos do entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - In casu, as instâncias ordinárias, mediante exame do conteúdo probatório dos autos e das declarações fornecidas pelo paciente, entenderam que as justificativas apresentadas não eram suficientes para afastar o reconhecimento da falta grave capitulada no art. 50, inciso II, da LEP (fuga).
+III - Dessa forma, desconstituir o entendimento firmado pelas instâncias originárias para afastar a falta grave que foi imputada ao paciente, não se verificando ilegalidade manifesta, demandaria amplo revolvimento da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus. Precedentes.
+IV - Consoante o entendimento firmado por esta Corte Superior de Justiça, a prática de falta grave determina a regressão de regime, a alteração da data-base para a progressão e a perda de até 1/3 (um terço) dos dias remidos. Súmulas nº 534, 535 e 441 desta Corte.
+Precedentes.
+V - No que concerne à perda dos dias remidos, trata-se de sanção legalmente determinada, nos termos do art. 127 da Lei de Execuções Penais.
+VI - A natureza especialmente grave da falta disciplinar - fuga - justifica a perda de dias remidos, tendo sido bastante a fundamentação deduzida no caso concreto.
+Habeas corpus não conhecido.
+(HC 472.152/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 19/2/2019; sem grifos no original.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.INADEQUAÇÃO DA VIA ELEITA. DESOBEDIÊNCIA AO AGENTE PENITENCIÁRIO.ART. 50, I e VI, C/C O ART. 39, II e V, AMBOS DA LEP. FALTA GRAVE.CARACTERIZAÇÃO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a desobediência aos agentes penitenciários constitui-se em falta grave, a teor do art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execuções Penais.
+3. Incensurável, portanto, a Corte de origem, que reformou a decisão do Juízo das Execuções Criminais, para que a referida falta seja considerada de natureza grave, anotando-se, pois, no prontuário da reeducanda.
+4. Ressalte-se, por oportuno, que "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 7/3/2014).
+5. Inexistência, portanto, na espécie, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+6. Habeas corpus não conhecido.
+(HC 348.141/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 26/8/2016; sem grifos no original.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. MÉRITO. REVOLVIMENTO FÁTICO-PROBATÓRIO.NULIDADE DA SINDICÂNCIA. PRECLUSÃO. SUPRESSÃO DE INSTÂNCIA. OITIVA JUDICIAL. PRESCINDIBILIDADE. REGRESSÃO DE REGIME NÃO DECLARADA NO CASO CONCRETO. CONSECTÁRIOS LEGAIS. PERDA DE 1/3 (UM TERÇO) DOS DIAS REMIDOS. FUNDAMENTAÇÃO CONCRETA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, nos termos do entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem, de ofício.
+II - Desconstituir o entendimento firmado pelas instâncias originárias para afastar ou desclassificar a falta grave que foi imputada ao paciente, não se verificando ilegalidade manifesta, demandaria amplo revolvimento da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus.
+Precedentes.
+III - Inviável o exame do pedido de nulidade da sindicância na apuração da falta grave, pois não analisado na origem, sem insurgência defensiva, sob pena de supressão de instância.
+IV - "A orientação deste Superior Tribunal se firmou no mesmo sentido do acórdão estadual, de que é prescindível nova oitiva do apenado antes da homologação judicial da falta grave se ele foi previamente ouvido em procedimento administrativo disciplinar, no qual foram observados os direitos à ampla defesa e ao contraditório (AgRg no HC n. 367.421/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/8/2017)" (REsp n. 1.765.936/RS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 02/04/2019).
+V - "Verifica-se a regularidade da decisão do Juízo da execução penal, em dispensar a audiência de justificação, notadamente em razão da ausência de regressão de regime prisional, portanto, em conformidade com jurisprudência do Superior Tribunal de Justiça" (REsp n. 1.765.936/RS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 02/04/2019).
+VI - "Segundo reiterada jurisprudência desta Corte de Justiça, a perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a LEP, nos arts. 57 e 127" (HC n. 493.065/RS, Quinta Turma, de minha relatoria, DJe de 22/04/2019).
+VII - No caso concreto, a natureza especialmente grave da falta disciplinar, com suas peculiaridades, consignada concretamente na decisão, justifica a perda de 1/3 (um terço) dos dias remidos.
+Habeas corpus não conhecido.
+(HC 498.827/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 20/5/2019; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
