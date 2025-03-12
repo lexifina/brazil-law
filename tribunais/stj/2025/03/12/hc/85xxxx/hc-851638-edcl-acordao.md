@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Embargos de declaração. Alegação de omissão. Rejeição.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão da Quinta Turma do Superior Tribunal de Justiça que negou provimento ao agravo regimental. O embargante alega omissão no acórdão, afirmando que as teses apresentadas pela defesa não foram todas analisadas e que os fundamentos da decisão monocrática foram apenas reproduzidos no julgamento do agravo regimental.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve omissão no acórdão embargado, por não ter analisado todas as teses apresentadas pela defesa e por ter reproduzido os fundamentos da decisão monocrática no julgamento do agravo regimental.
+III. Razões de decidir
+3. Os embargos de declaração possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão, ou erro material a ser corrigido, não constituindo recurso de revisão da matéria discutida nos autos.
+4. A Quinta Turma do Superior Tribunal de Justiça apreciou a matéria de forma exauriente, nos limites do habeas corpus, entendendo que a denúncia descreveu suficientemente os fatos imputados, estabelecendo vínculo mínimo entre o delito e a autoria, suficiente para o exercício do direito de defesa.
+5. As alegações do embargante buscam a rediscussão do julgado, o que é inviável em sede de embargos de declaração, pois as questões foram afastadas pelos fundamentos apresentados no julgado embargado.
+6. A fundamentação do acórdão recorrido reitera os argumentos da decisão monocrática, pois as teses defensivas se repetiram em sede de agravo regimental e já tinham sido enfrentadas e rechaçadas na análise do habeas corpus.
+7. O julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, desde que demonstre os fundamentos e motivos que justificaram suas razões de decidir, não indicando omissão ou contradição no acórdão.
+IV. Dispositivo e tese
+8. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Os embargos de declaração não se prestam à rediscussão do julgado, devendo demonstrar ambiguidade, obscuridade, contradição, omissão ou erro material. 2. A repetição de fundamentos em decisão colegiada não caracteriza omissão quando as teses já foram enfrentadas e rechaçadas. 3. O julgador não é obrigado a abordar expressamente todas as alegações do recurso, desde que justifique suas razões de decidir."
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: STJ, EDcl no AgRg nos EAREsp 2.060.783/RN, Rel. Min. Sebastião Reis Júnior, Terceira Seção, j. 12.04.2023; STJ, EDcl nos EDcl no AgRg nos EDcl nos EAREsp 1.746.410/ES, Rel. Min. Antonio Saldanha Palheiro, Terceira Seção, j. 23.03.2022; STJ, AgRg no RMS 60.927/SC, Rel. Min. Reynaldo Soares da Fonseca, j. 17.09.2019.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BENEDITO RODRIGUES DE OLIVEIRA NETO, contra acórdão da Quinta Turma do Superior Tribunal de Justiça que, por unanimidade, negou provimento ao agravo regimental.
+O embargante sustenta omissão, pois o acórdão teria deixado de analisar todos os argumentos constantes no agravo regimental, além de que teria constituído em mera repetição da decisão monocrática agravada, pois alega que os fundamentos teriam sido apenas reproduzidos. Assim, pugna para que a omissão seja sanada e as razões do agravo regimental analisadas na íntegra (fls. 175-183).
+É o relatório.
+EMENTA
+Direito processual penal. Embargos de declaração. Alegação de omissão. Rejeição.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão da Quinta Turma do Superior Tribunal de Justiça que negou provimento ao agravo regimental. O embargante alega omissão no acórdão, afirmando que as teses apresentadas pela defesa não foram todas analisadas e que os fundamentos da decisão monocrática foram apenas reproduzidos no julgamento do agravo regimental.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve omissão no acórdão embargado, por não ter analisado todas as teses apresentadas pela defesa e por ter reproduzido os fundamentos da decisão monocrática no julgamento do agravo regimental.
+III. Razões de decidir
+3. Os embargos de declaração possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão, ou erro material a ser corrigido, não constituindo recurso de revisão da matéria discutida nos autos.
+4. A Quinta Turma do Superior Tribunal de Justiça apreciou a matéria de forma exauriente, nos limites do habeas corpus, entendendo que a denúncia descreveu suficientemente os fatos imputados, estabelecendo vínculo mínimo entre o delito e a autoria, suficiente para o exercício do direito de defesa.
+5. As alegações do embargante buscam a rediscussão do julgado, o que é inviável em sede de embargos de declaração, pois as questões foram afastadas pelos fundamentos apresentados no julgado embargado.
+6. A fundamentação do acórdão recorrido reitera os argumentos da decisão monocrática, pois as teses defensivas se repetiram em sede de agravo regimental e já tinham sido enfrentadas e rechaçadas na análise do habeas corpus.
+7. O julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, desde que demonstre os fundamentos e motivos que justificaram suas razões de decidir, não indicando omissão ou contradição no acórdão.
+IV. Dispositivo e tese
+8. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Os embargos de declaração não se prestam à rediscussão do julgado, devendo demonstrar ambiguidade, obscuridade, contradição, omissão ou erro material. 2. A repetição de fundamentos em decisão colegiada não caracteriza omissão quando as teses já foram enfrentadas e rechaçadas. 3. O julgador não é obrigado a abordar expressamente todas as alegações do recurso, desde que justifique suas razões de decidir."
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: STJ, EDcl no AgRg nos EAREsp 2.060.783/RN, Rel. Min. Sebastião Reis Júnior, Terceira Seção, j. 12.04.2023; STJ, EDcl nos EDcl no AgRg nos EDcl nos EAREsp 1.746.410/ES, Rel. Min. Antonio Saldanha Palheiro, Terceira Seção, j. 23.03.2022; STJ, AgRg no RMS 60.927/SC, Rel. Min. Reynaldo Soares da Fonseca, j. 17.09.2019.
+VOTO
+Conforme relatado, o embargante sustenta, em síntese, que haveria omissão no acórdão, pois as teses apresentadas pela defesa não teriam sido todas analisadas, além de que os fundamentos da decisão monocrática teriam sido reproduzidos no julgamento do agravo regimental.
+Da análise dos autos, não entrevejo, todavia, omissão a ser sanada.
+Como se sabe, os embargos de declaração possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+A matéria foi apreciada pela Quinta Turma do Superior Tribunal de Justiça de forma exauriente e nos estritos limites de cognição do habeas corpus. Isso porque, a partir dos elementos dos autos e na estrita observância dos limites da via eleita, o órgão colegiado entendeu que a denúncia descreveu de forma suficiente os fatos imputados ao recorrente, pois estabeleceu um vínculo mínimo entre o delito apurado e a autoria, o que é suficiente para o exercício do direito de defesa. Ademais, eventual análise mais aprofundada das alegações defensivas implicaria no enfrentamento do próprio mérito da causa, o que não é possível neste momento processual e nem por meio do writ.
+Como se vê, as alegações do embargante, em verdade, não se relacionam com nenhuma omissão, mas buscam a rediscussão do julgado por via oblíqua, providência inviável em sede de aclaratórios, porque trazem questões, obviamente, afastadas pelos fundamentos apresentados no julgado embargado (EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023; EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.746.410/ES, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 23/3/2022, DJe de 25/3/2022).
+De outro lado, registro que a fundamentação constante no acórdão recorrido reitera os argumentos da decisão monocrática, pois as teses defensivas se repetiram em sede de agravo regimental e já tinham sido devidamente enfrentadas e rechaçadas quando da análise do habeas corpus. Nesse sentido:
+"PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE OMISSÃO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. 2. CONFIRMAÇÃO DA DECISÃO MONOCRÁTICA. ALEGADA CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE ALEGAÇÕES NOVAS. 3. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+2. O julgador não é obrigado a desenvolver fundamentação inédita, por ocasião do julgamento do agravo regimental, que se limita a reiterar a argumentação já rechaçada por meio de decisão monocrática. De fato, "se o recorrente insiste na mesma tese, repisando as mesmas razões já apresentadas em recurso anterior, ou se fica limitado a produzir novos argumentos que não se revelam capazes de abalar as razões de decidir já explicitadas pelo julgador, não há como se vislumbrar nulidade na repetição, em sede de regimental, dos mesmos fundamentos já postos na decisão monocrática impugnada". (AgRg no RMS 60.927/SC, da minha relatoria, julgado em 17/09/2019, DJe 24/09/2019).
+3. Embargos de declaração rejeitados" (EDcl no AgRg no AgRg no AREsp n. 1.940.991/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Por fim, destaco que consoante jurisprudência deste Tribunal Superior, o julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, desde que demonstre os fundamentos e os motivos que justificaram suas razoes de decidir, de modo que o fato de não haver expressa abordagem de cada alegação não indica, por si só, omissão ou contradição no acórdão. Nesse sentido: EDcl no AgRg no HC 401.360/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/11/2017, DJe 24/11/2017)" (AgRg nos EDcl no AREsp 1646439/AC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/8/2020; EDcl no AgRg no HC n. 671.019/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 2/3/2022.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
