@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo SINDICATO DOS SERVIDORES PUBLICOS FEDERAIS EM SAUDE,TRABALHO, PREVIDENCIA E ACAO SOCIAL DO ESTADO DO PARANA, contra decisão da lavra do Ministro Herman Benjamin, então relator, que não conheceu do recurso especial da FUNASA e deu parcial provimento ao recurso especial do SINDISPREV/PR, com a inversão do ônus sucumbencial, consoante a seguinte fundamentação (fls. 802-804):
+1. Recurso Especial da FUNASA Não se pode conhecer da tese relativa à ocorrência da prescrição do fundo de direito, uma vez que a controvérsia foi decidida na origem de acordo com a jurisprudência pacífica do Superior Tribunal de Justiça.
+Cito precedentes:  ..
+Aplica-se, assim, a Súmula 83/STJ.
+2. Recurso Especial do SINDISPREV/PR
+Inicialmente, o recorrente sustenta que o art. 1.022, I, do CPC foi contrariado por haver obscuridade no acórdão recorrido, "tendo em vista que, ante o acolhimento do pedido subsidiário do Sindicato, as Rés permanecem sendo a parte sucumbente ou, pelo menos, caracteriza-se a existência de sucumbência proporcional, aplicando-se, em ambas as hipóteses, o artigo 86 do CPC (§ único e caput, respectivamente)" (fl. 578-579).
+Entretanto, não há vício de fundamentação no julgado ou deficiência na prestação jurisdicional. O fato de a Corte regional haver decidido a lide de forma contrária à tese defendida, com a utilização de argumentos diversos daqueles por ela propostos, não configura causa passível de exame mediante a oposição de Embargos Declaratórios. O simples descontentamento da parte com o decisum não tem o condão de torná-los cabíveis.
+Por outro lado, assiste razão ao recorrente quando alega o caráter genérico da GACEN. A propósito:  ..
+Logo, o aresto impugnado merece reforma na parte em que afastou a natureza genérica do pagamento da referida gratificação.
+3. Conclusão
+Diante do exposto, não conheço do Recurso Especial da FUNASA e dou parcial provimento ao Recurso Especial do SINDISPREV/PR, com a inversão do ônus sucumbencial.
+Publique-se.
+Intimem-se.
+O embargante alega, às fls. 812-815, em síntese, que a " decisão contém omissão e obscuridade acerca da inversão do ônus sucumbencial, o que implicou a sua fixação em percentual sobre o valor da causa, tendo em vista que não foi exposto o fundamento legal do arbitramento da verba honorária, bem como se configuram obscuras as razões pelas quais os honorários foram arbitrados em percentual sobre o valor da causa, e não sobre o valor da condenação ou do proveito econômico" (fl. 812).
+Requer-se o acolhimento dos aclaratórios para: "a) suprir as omissões demonstradas, indicando o fundamento legal da fixação dos honorários, bem como estabelecendo o índice de correção monetária e a taxa juros de mora aplicáveis sobre os valores devidos; e b) sanar a obscuridade apontada, esclarecendo-se as razões pelas quais a verba honorária foi arbitrada sobre o valor da causa, e não sobre o valor da condenação ou do proveito econômico em percentual a ser definido quando liquidado o julgado, tendo em vista o disposto no art. 85, §§ 3º e 4º, inciso II, do CPC e na tese firmada no julgamento do Tema 1.076/STJ" (fl. 815).
+As contrarrazões foram apresentadas às fls. 836-838
+É o relatório.
+Decido.
+Os embargos declaratórios não comportam conhecimento, por serem manifestamente incabíveis/inadmissíveis.
+Consoante preceitua o artigo 1.022 do Código de Processo Civil, o recurso de embargos de declaração, medida processual de contornos bastante rígidos, tem como pressuposto a existência na decisão embargada de omissão, contradição, obscuridade ou erro material.
+A propósito, tem-se que "a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes". (EDcl nos EDcl no Aglnt no AREsp n. 2.109.076/MG, rei. Min. Afrânio Vilela, Segunda Turma, DJe de 23/9/2024).
+Por sua vez, "o vício da obscuridade que autoriza a oposição de embargos é aquele que ocorre quando há falta de clareza na fundamentação do julgado, tornando difícil sua exata interpretação". (EDcl no AgRg no AREsp n. 2.013.144/SC, rel. Min. João Otávio de Noronha, Quinta Turma, DJe de 11/4/2022.
+N a hipótese vertente, o embargante alega que houve omissão, mas não especifica quais pedidos formulados deixaram de ser apreciados na decisão unipessoal. Além disso, não demonstra o trecho do julgado que estaria sem clareza, incompreensível ou confuso, a ponto de atrair o defeito processual da obscuridade.
+Desse modo, tem-se por manifestamente deficiente a fundamentação recursal do recurso integrativo, já que não delineia concretamente onde e como na decisão embargada se materializaria eventual vício processual de omissão e de obscuridade , fato este a importar em não conhecimento do recurso aclaratório, ante a incidência do enunciado 284 da Súmula do Supremo Tribunal Federal, por analogia, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+De fato, nos termos da jurisprudência do STJ, "é deficiente a fundamentação dos embargos de declaração que não indica o ponto omisso, obscuro ou contraditório do acórdão, o que atrai a incidência da Súmula 284/STF". (AgRg no AREsp n. 856.844/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe de 6/4/2017). Com efeito, "a jurisprudência desta Corte Superior é firme no sentido de não merecer conhecimento a petição dos embargos declaratórios cuja deficiência na sua fundamentação dificulte o alcance da controvérsia. Incidência da Súmula n. 284/STF, por analogia". (EDcl no AgInt nos EAREsp n. 526.387/SP, rel. Min. Jorge Mussi, Corte Especial, DJe de 3/8/2018). Na mesma linha de intelecção:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ART. 1.023 DO CPC. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp n. 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe de 15/3/2017). Nesse sentido: EDcl no MS n. 28.073/DF, relator Ministro Raul Araújo, Corte Especial, julgado em 9/8/2022, DJe de 15/8/2022.
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+(EDcl na Rcl n. 42.281/SC, rel. Min. Afrânio Vilela, Primeira Seção, DJe de 7/5/2024)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DE QUALQUER UM DOS VÍCIOS DO ART. 1.022 DO CPC/2015. NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. ART. 1.023, CAPUT, DO CPC/2015. SÚMULA 284/STF. EMBARGOS NÃO CONHECIDOS.
+1. Os embargos de declaração são cabíveis apenas quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que são inadmissíveis para promover novo julgamento da causa.
+2. "A jurisprudência desta eg. Corte firmou-se no sentido de que a não indicação de um dos vícios previstos no art. 1.022 do CPC/2015, nos termos do exigido no art. 1.023, caput, do CPC/2015, inviabiliza a compreensão da controvérsia a ser sanada nos embargos de declaração, caracterizando deficiência de fundamentação (Súmula 284/STF)" (EDcl no AgInt no AREsp 837.383/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/05/2019, DJe de 24/05/2019).
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt no REsp n. 1.734.412/PB, rel. Min. Raul Araújo, Quarta Turma, DJe de 27/3/2023)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI . RECURSO QUE NÃO PROMOVE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DISSOCIAÇÃO LÓGICA. NÃO CONHECIMENTO .
+1. O Superior Tribunal de Justiça tem a diretriz de que, se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo julgado recorrido, a insurgência é deficiente na sua argumentação, circunstância que atrai a aplicação, por analogia, do enunciado de Súmula 284 da excelsa Corte Suprema (AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 29.04.2021; AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 25.11.2020).
+2. Agravo interno não conhecido.
+(AgInt no PUIL n. 2.406/DF, rel. Min. Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, DJe de 5/5/2022)
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO INTEGRATIVO. INCIDÊNCIA DA SÚMULA N. 284/STF, POR ANALOGIA. NÃO CONHECIMENTO DOS DECLARATÓRIOS.
+1. Limitam-se as razões recusais a buscar revolver aspectos da demanda decidida na Corte Paulista pelo indeferimento da petição inicial de embargos à arrematação e que sequer chegaram a ser examinados neste Superior Tribunal de Justiça.
+2. No acórdão embargado não foi conhecido o agravo interno, por desatenção ao princípio da dialeticidade, inexistindo qualquer argumento do ora embargante quanto a essa motivação.
+3. A jurisprudência desta Corte Superior é firme no sentido de não merecer conhecimento a petição dos embargos declaratórios cuja deficiência na sua fundamentação dificulte o alcance da controvérsia. Incidência da Súmula n. 284/STF, por analogia.
+4. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EAREsp n. 526.387/SP, rel. Min. Jorge Mussi, Corte Especial, DJe de 3/8/2018)
+"EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE QUALQUER UM DOS VÍCIOS ELENCADOS NO ART. 535 DO CPC. RAZÕES RECURSAIS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO ATACADO. SÚMULA 284/STF
+1. O embargante não demonstra nenhuma omissão, contradição ou obscuridade na decisão recorrida e opõe embargos de declaração cujas razões estão dissociados das contidas no acórdão embargado.
+2. O agravo regimental não foi conhecido ante sua intempestividade. Todavia, o embargante aduz que era o caso de conhecimento do seu recurso, porquanto foram infirmados todos os fundamentos da decisão que inadmitiu seu apelo especial, não sendo o caso de aplicação da Súmula 182/STJ.
+3. Destarte, é evidente a deficiência de fundamentação dos embargos de declaração na hipótese, o que traz o óbice da Súmula 284 do STF, que se aplica por analogia ao caso. Precedentes.
+Embargos de declaração não conhecidos".
+(EDcl no AgRg no AREsp 628.103/MG, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 22/04/2015).
+Ressalte-se, ademais, que a inversão do ônus da sucumbência é uma consequência lógica do provimento do recurso especial, a qual foi expressamente mencionada na decisão combatida, não havendo que se falar em omissão ou obscuridade no ponto.
+Por fim, eventual oposição de novos embargos declaratórios, com argumentação infundada e descabida, como a presente, será penalizada com aplicação da multa prevista no artigo 1.026, §2º, do Código de Processo Civil.
+Ante o exposto, por serem manifestamente incabíveis/inadmissíveis, n ão conheço dos embargos declaratórios.
+Publique-se.
+Intime-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTEGRATIVO QUE NÃO APONTA ONDE RESIDE O VÍCIO DE OMISSÃO E OBSCURIDADE NO JULGADO. FUNDAMENTAÇÃO RECURSAL MANIFESTAMENTE DEFICIENTE. SÚMULA 284/STF. ACLARATÓRIOS NÃO CONHECIDOS.
