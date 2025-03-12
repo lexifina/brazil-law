@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado por B. A. MEIO AMBIENTE LTDA. - EM RECUPERAÇÃO JUDICIAL, em face do r. juízo de direito da vara de cartas precatórias de Belém/PA, em que processa a Recuperação Judicial da suscitante, e o r. juízo da 20ª Vara Cível do Foro Central de São Paulo/SP, onde tramita a demanda n.º 010276-98.2022.8.26.0100, movida por VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S. A, em seu desfavor.
+Aduz a suscitante, em síntese, que o Juízo suscitado determinou a realização de atos executórios consubstanciados na devolução de bens móveis - caminhões - nos autos da mencionada ação ordinária n.º 010276-98.2022.8.26.0100, na qual figura como requerida, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que possam afetar o processo de soerguimento. Cita, em favor de sua tese, julgados deste STJ.
+Requer a concessão de liminar objetivando o sobrestamento dos atos executivos supracitados, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial. Às fls. 329/331, o pedido liminar foi deferido a fim de sobrestar os atos constritivos.
+Às fls. 1134/1137, o mérito do presente conflito foi julgado e declarada a competência do r. juízo da Vara de Precatórios de Belém/PA onde se processa a recuperação judicial da suscitante (Processo n.º 0044484-89.2012.8.14.0301) para o exame acerca das medidas constritivas e/ou expropriatórias na ação em curso perante 20ª Vara Cível do Foro Central de São Paulo/SP (processo n.º 010276- 98.2022.8.26.0100)
+No petitório de fls. 1375/1409, a interessada VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S/A noticiou a retomada dos veículos automotores objeto do presente conflito de competência. Agravo interno às fls. 1147/1339.
+Às fls. 1413/1416, a suscitante afirma que remanesce o interesse no julgamento de mérito do conflito "de forma a consolidar o entendimento sobre a competência do Juízo Universal da Recuperação Judicial para a prática de atos constritivos contra a empresa suscitante."
+É o relatório.
+Decisão.
+O presente conflito de competência está prejudicado, ante a perda superveniente de objeto.
+1. Consoante destacado pela exordial, a suscitante aduziu que o Juízo suscitado determinou a realização de atos executórios consubstanciados na devolução de bens móveis - caminhões - nos autos da ação ordinária n.º 010276-98.2022.8.26.0100.
+Às fls. 1134/1137, o mérito do presente conflito foi julgado e, com fundamento em consolidada orientação jurisprudencial da eg. Segunda Seção, restou declarada a competência do r. juízo da Vara de Precatórios de Belém/PA onde se processa a recuperação judicial da suscitante (Processo n.º 0044484-89.2012.8.14.0301) para o exame acerca das medidas constritivas e/ou expropriatórias na ação em curso perante 20ª Vara Cível do Foro Central de São Paulo/SP (processo n.º 010276- 98.2022.8.26.0100).
+A teor do fato novo posterior superveniente, segundo a qual os bens foram retomados (fls. 1375/1409), em realidade, o objeto do presente conflito de competência está prejudicado, ante à sua perda superveniente de objeto, não se olvidando que, eventuais decisões conflitantes futuras entre os juízos, poderão, atendidos os critérios legais, ser objeto de conflito de competência.
+2. Do exposto, com fundamento no art. 21, do RISTJ, julga-se prejudicado o presente conflito de competência ante a perda superveniente de objeto.
+Fica pr ejudicado, igualmente, o exame do agravo interno de fls. 1147/1339.
+Publique-se. Intimem-se. Oficiem-se. Após, arquivem-s e.
+EMENTA
