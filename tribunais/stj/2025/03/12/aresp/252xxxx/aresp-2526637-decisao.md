@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DE SALVADOR se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA assim ementado (fls. 347/361):
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. EDITAL Nº 001/2019 PREFEITURA DO MUNICÍPIO DE SALVADOR. CARGO GUARDA CIVIL MUNICIPAL. PRELIMINAR. ILEGITIMIDADE P A S S I V A D O P R E FEIT O D E S A L V A D O R . R E J E I T A D A . AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NÃO ACOLHIDA. MÉRITO. INSCRIÇÃO REALIZADA NAS VAGAS RESERVADAS PARA NEGROS E PARD O S . C O M I S S Ã O D E HETEROIDENTIFICAÇÃO. CANDIDATO NÃO APTO. EXCLUSAO DO CERTAME. IMPETRANTE QUE NÃO APONTOU EXISTÊNCIA DE VÍCIO ESPECÍFICO NO ATO DA COMISSÃO. ARGUIÇÃO GENÉRICA DE ILEGALIDADE DA INSTITUIÇÃO DA COMISSÃO D E H E T EROIDENTIFICAÇÃO. CONSTITUCIONALIDADE RECONHECIDA PELO PRETÓRIO EXCELSO. EXCLUSÃO DO CANDIDATO DO CERTAME. IMPOSSIBILIDADE. DIREITO DE PERMANECER NA VAGAS DESTIN ADAS À AMPLA CONCORRÊNCIA. JURISPRUDÊNCIA TJBA. AGRAVO INTERNO PREJUDICADO. SEGURANÇA PARCIALMENTE CONCEDIDA.
+Os embargos de declaração opostos foram rejeitados (fls. 412/417).
+Nas razões de seu recurso especial, a parte recorrente alega:
+(1) que houve violação aos arts. 489, §1º, IV e VI; e 1.022, II do Código de Processo Civil (CPC), ao argumento de que o Tribunal de origem foi omisso quanto à matéria discutida. Aduz que "A legitimidade do Prefeito só existiria se, e somente se, a parte impetrante fosse considerada aprovada, convocada para a última etapa e, realizados todos os exames pré-admissionais, houvesse negativa injusta de nomeação - único ato cuja competência é do Gestor Máximo da cidade" (fl. 435);
+(2) que o acórdão recorrido não observou o disposto no e 927, IV, do Código de Processo Civil (CPC), que determina "que os juízes e os tribunais observarão:  ..  os enunciados das súmulas do Supremo Tribunal Federal em matéria constitucional e do Superior Tribunal de Justiça em matéria infraconstitucional". Se o mandado de segurança tem sede constitucional, é preciso observar o que o STF diz a respeito da legitimação para figurar como autoridade coatora" (fl. 435).
+Requer o provimento de seu recurso.
+A parte adversa não apresentou contrarrazões (fls. 459/460).
+O recurso não foi admitido, razão por que foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fl. 399):
+Nessa senda, é forçoso reconhecer que a decisão embargada, data venia, deveras, encontra-se eivada de um erro de fato/de percepção/material, cujo saneamento, em observância ao princípio da adstrição (art. 492), ensejará a denegação da segurança, uma vez que: -i- esse eg. Órgão Julgador - ao asseverar a inexistência de ilegalidade na combinação dos critérios da hétero e da autoidentificação - como corolário, chancelou a legalidade do ato que excluiu a parte impetrante da lista de negros; e, -ii- conforme demonstrado, a parte impetrante, em verdade, não se insurgiu contra sua pretensa exclusão na lista de ampla concorrência e não demonstrou, com prova pré-constituída, que possui pontuação suficiente para tanto.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA decidiu o seguinte (fls. 416/417):
+O acórdão concessivo parcial da segurança, foi claro ao garantir ao impetrante, o direito de participar da lista da ampla concorrência, entretanto em momento algum o julgado caminhou no sentido de desconsiderar pontuação obtida pela parte no certame.
+Por óbvio que, na ausência de nota suficiente para avançar nas demais etapas do certame dentro da ampla concorrência, caberá ao organizador do concurso, proceder de acordo com as normas previstas no edital.
+No que diz respeito a prova pré-constituída, cuidou o demandante de trazer os autos documentação necessária ao enfrentamento das razões suscitadas.
+Portanto, a hipótese é de não acolhimento das razões recursais.
+O acórdão recorrido asseverou que, na ausência de nota suficiente para avançar nas demais etapas do certame dentro da ampla concorrência, caberá ao organizador do concurso proceder de acordo com as normas previstas no edital.
+Vê-se que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Em seu recurso, a parte recorrente apontou ainda como violado o art. 927, IV, do Código de Processo Civil (CPC).
+O acórdão recorrido, entretanto, não decidiu a causa por meio da aplicação do dito dispositivo legal tido por violado, e nos embargos de declaração opostos não foi alegada a violação.
+Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos exatos termos das Súmulas 282 e 356 do Supremo Tribunal Federal (STF), aplicadas por analogia.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
