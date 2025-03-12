@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. BUSCA PESSOAL E QUEBRA DE SIGILO TELEFÔNICO. PRINCÍPIO DA COLEGIALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que denegou ordem em habeas corpus, sustentando nulidade das provas oriundas de flagrante em razão de busca pessoal sem fundadas suspeitas e sem autorização judicial, bem como nulidade das provas obtidas mediante acesso ao celular do agravante.
+2. A defesa alega cerceamento de defesa pela decisão monocrática, violando o princípio da colegialidade, e requer o provimento do agravo para anulação das provas e reconhecimento de cerceamento de defesa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca pessoal e a quebra de sigilo telefônico, realizadas sem autorização judicial e baseadas em denúncias anônimas, configuram nulidade das provas obtidas e se a decisão monocrática viola o princípio da colegialidade.
+III. Razões de decidir
+4. A decisão monocrática do relator não afronta o princípio da colegialidade, pois a possibilidade de interposição de agravo regimental permite que a matéria seja apreciada pela Turma.
+5. A busca pessoal e veicular foi realizada com base em denúncias anônimas confirmadas por diligências prévias e por apreensão de drogas, caracterizando fundada suspeita conforme o art. 244 do CPP.
+6. A ausência de autorização judicial para acesso a dados do celular não configura nulidade, pois a condenação se baseou em outros meios de prova independentes, não havendo demonstração de prejuízo concreto.
+7. A análise de provas suficientes à comprovação da autoria delitiva não é apropriada em sede de habeas corpus, conforme jurisprudência iterativa do STJ.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A decisão monocrática do relator não viola o princípio da colegialidade quando há possibilidade de agravo regimental. 2. Denúncias anônimas confirmadas por diligências prévias e por apreensão de drogas caracterizam fundada suspeita para busca pessoal e veicular. 3. A ausência de autorização judicial para acesso a dados do celular não configura nulidade se a condenação se baseia em provas independentes e não há demonstração de prejuízo concreto."
+Dispositivos relevantes citados: CPC, art. 932, III; CPP, art. 244; CPP, art. 563.
+Jurisprudência relevante citada: STJ, AgRg no HC 831.827/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 30/6/2023; STJ, AgRg no HC 799.404/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 29/6/2023; STJ, AgRg no HC 813.772/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/5/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EMERSON JOSÉ NEVES DE LIRA contra decisão de minha lavra, acostada às fls. 533-541, na qual deneguei a ordem no presente habeas corpus.
+Neste regimental, a Defesa contesta a decisão agravada sustentando o cabimento da impetração de habeas corpus no presente caso.
+No mais, reitera os argumentos sustentados na inicial, de nulidade das provas oriundas do flagrante em razão da busca pessoal realizada sem fundadas suspeitas e sem autorização judicial, bem como de nulidade das provas obtidas mediante acesso ao celular do agravante, sendo ilícitas as provas delas derivadas.
+Sustenta, ainda, cerceamento de defesa em razão da decisão monocrática proferida, com subsequente violação do princípio da colegialidade.
+Requer, assim, se não exercido o juízo de retratação, seja submetido o agravo ao Colegiado para julgamento e provimento, nos moldes pugnados nas razões recursais.
+Intimado  a  apresentar  contrarrazões,  o  Ministério  Público  do  Estado  de Mato Grosso do Sul pugnou pelo desprovimento do recurso (fls. 621-628).
+De  outro  lado,  o  Ministério  Público  Federal  deixou transcorrer in albis o prazo concedido para manifestação  (fl. 630).
+Por manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. BUSCA PESSOAL E QUEBRA DE SIGILO TELEFÔNICO. PRINCÍPIO DA COLEGIALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que denegou ordem em habeas corpus, sustentando nulidade das provas oriundas de flagrante em razão de busca pessoal sem fundadas suspeitas e sem autorização judicial, bem como nulidade das provas obtidas mediante acesso ao celular do agravante.
+2. A defesa alega cerceamento de defesa pela decisão monocrática, violando o princípio da colegialidade, e requer o provimento do agravo para anulação das provas e reconhecimento de cerceamento de defesa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca pessoal e a quebra de sigilo telefônico, realizadas sem autorização judicial e baseadas em denúncias anônimas, configuram nulidade das provas obtidas e se a decisão monocrática viola o princípio da colegialidade.
+III. Razões de decidir
+4. A decisão monocrática do relator não afronta o princípio da colegialidade, pois a possibilidade de interposição de agravo regimental permite que a matéria seja apreciada pela Turma.
+5. A busca pessoal e veicular foi realizada com base em denúncias anônimas confirmadas por diligências prévias e por apreensão de drogas, caracterizando fundada suspeita conforme o art. 244 do CPP.
+6. A ausência de autorização judicial para acesso a dados do celular não configura nulidade, pois a condenação se baseou em outros meios de prova independentes, não havendo demonstração de prejuízo concreto.
+7. A análise de provas suficientes à comprovação da autoria delitiva não é apropriada em sede de habeas corpus, conforme jurisprudência iterativa do STJ.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A decisão monocrática do relator não viola o princípio da colegialidade quando há possibilidade de agravo regimental. 2. Denúncias anônimas confirmadas por diligências prévias e por apreensão de drogas caracterizam fundada suspeita para busca pessoal e veicular. 3. A ausência de autorização judicial para acesso a dados do celular não configura nulidade se a condenação se baseia em provas independentes e não há demonstração de prejuízo concreto."
+Dispositivos relevantes citados: CPC, art. 932, III; CPP, art. 244; CPP, art. 563.
+Jurisprudência relevante citada: STJ, AgRg no HC 831.827/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 30/6/2023; STJ, AgRg no HC 799.404/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 29/6/2023; STJ, AgRg no HC 813.772/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/5/2023.
+VOTO
+Inicialmente, sobre o princípio da colegialidade, cumpre consignar que o artigo 932, III, do Código de Processo Civil, aplicável por força do artigo 3º do Código de Processo Penal, estabelece como incumbência do Relator "não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Na mesma linha, o RISTJ, no artigo 34, "b", dispõe que o Relator pode decidir monocraticamente, negando provimento a recurso, quando contrário à jurisprudência dominante acerca do tema.
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema" (Corte Especial, DJe 17/ 3/2016).
+A decisão monocrática proferida por Relator, portanto, em regra, não afronta o princípio da colegialidade, e nem mesmo o princípio do devido processo legal e tampouco configura cerceamento de defesa, quando todas as questões são amplamente debatidas.
+Certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, afastando eventual vício suscitado pela parte agravante.
+Sobre o tema:
+1. A prolação de decisão unipessoal pelo Ministro Relator não representa violação do princípio da colegialidade, pois está autorizada pelo art. 34, inciso XX, do Regimento Interno desta Corte em entendimento consolidado pela jurisprudência do Superior Tribunal de Justiça por meio do enunciado n. 568 de sua Súmula.  ..  (AgRg no HC n. 831.827/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/6/2023, DJe de 30/6/2023.)
+Prosseguindo, em que pese a argumentação da combativa Defesa, fato é que a questão da eventual nulidade da busca pessoal não pode ser avaliada diretamente por esta Corte Superior sem qualquer pronunciamento a respeito pelas instâncias de origem, sob pena de supressão de instância.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+A esse respeito, o Superior Tribunal de Justiça entende que:
+" ..  como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta" (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Nada obstante, no caso concreto, de acordo com o que consta do julgamento da apelação criminal (fls. 131-158), os policiais receberam denúncias especificadas sobre um carregamento de drogas, que sairia da cidade de Coronel Sapucaia, entre os dias 14 e 15 de outubro de 2014, em que estariam envolvidos os veículos Fiat Strada, S10 preta, Saveiro e Crossfox.
+Tais denúncias detalhadas teriam sido confirmadas pela apreensão de drogas em dois desses carros, após o que os policiais solicitaram apoio à Polícia Militar de Caarapó/MS para prender eventuais batedores de estrada, ocasião em que abordaram o veículo Cross Fox, conduzido pelo réu Emerson e que tinha como passageiros os corréus Geanderson e Douglas.
+Portanto, a abordagem do agravante somente ocorreu depois que já havia a confirmação das denúncias específicas, inclusive com a apreensão de mais de dois mil quilos de maconha em dois carros diferentes.
+Destarte, não se pode concluir pela ausência de fundadas suspeitas na busca pessoal e veicular efetuada em desfavor do agravante, nem que a abordagem tenha sido efetuada tão somente e diretamente por força de denúncias especificadas.
+Outrossim, no tocante à aventada ilicitude da quebra do sigilo telefônico do acusado, tal como expressou o Tribunal estadual, não constam dos autos a referida medida, sendo certo que o celular sequer foi apreendido. Ademais, não se verifica no julgamento da apelação a utilização de elemento extraído especificamente do celular do agravante como fundamento para o édito condenatório. Portanto, outros elementos probatórios foram considerados para a condenação do agravante, razão pela qual não se constata a existência de prejuízo com o eventual acesso a registro telefônico pelos policiais.
+A propósito, a jurisprudência a respeito, mutatis mutandis:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 289, §1º, DO CP. ACESSO A MENSAGENS ARMAZENADAS EM WHATSAPP. AUSÊNCIA DE AUTORIZAÇÃO JUDICIAL. PERMISSÃO DO ACUSADO. LICITUDE DA PROVA. NULIDADE NÃO CONFIGURADA. CONDENAÇÃO POR OUTROS MEIOS DE PROVA. AUSÊNCIA DE PREJUÍZO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Mesmo que assim não fosse, da leitura da sentença condenatória e do acórdão recorrido, observa-se que a prática delitiva foi demonstrada também por outros meios de prova, robustos e independentes das mensagens de WhatsApp acessadas no celular apreendido, tendo a Corte de origem concluído que a denúncia foi baseada em diversas outras provas autônomas, que comprovam a materialidade e a autoria do delito de moeda falsa praticado pelos dois réus, o que, aliás, foi bem delineado na sentença, inviabilizando assim, qualquer nulidade (e-STJ fls. 3461). Assim, ainda que se reconhecesse, in casu, o acesso indevido a conversas de WhatsApp coletadas no telefone celular de um dos acusados, os autos dão conta da presença de outros elementos que atestam a autoria do delito e que se mostram suficientes a sustentar a condenação.
+4. A jurisprudência desta Corte Superior se firmou no sentido de que, no campo da nulidade no processo penal, vigora o princípio pas de nulité sans grief, previsto no art. 563, do CPP, segundo o qual, o reconhecimento de nulidade exige a comprovação de efetivo prejuízo. Acerca dessa temática, foi editada pelo Supremo Tribunal Federal a Súmula 523, que assim dispõe: "No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu".
+5. Desse modo, ainda que se reconhecesse que os dados do celular do corréu foram coletados pela polícia sem a devida autorização judicial, tal fato, por si só, não inquinaria de nulidade o feito, uma vez que, no presente caso, a defesa não logrou demonstrar prejuízo em razão do alegado vício, visto que a condenação se sustenta por outros meios de prova constantes dos presentes autos.
+6. Agravo regimental não provido" (AgRg no AREsp n. 1.779.821/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/4/2021, DJe de 13/4/2021).
+" ..
+NULIDADE. ACESSO A DADOS DO CELULAR DO ACUSADO. AUSÊNCIA DE MANDADO JUDICIAL PRÉVIO. PARTICULARIDADES DO CASO CONCRETO. EXCEPCIONALIDADE. CONDENAÇÃO FUNDADA EM PROVAS AUTÔNOMAS. FONTES INDEPENDENTES. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO CONCRETO. PAS DE NULLITÉ SANS GRIEF.  .. .
+8. Não bastasse isso, como é cediço, este Superior Tribunal de Justiça possui entendimento pacífico no sentido de que o reconhecimento de eventual nulidade, relativa ou absoluta, exige a comprovação de efetivo prejuízo, vigorando o princípio pas de nulité sans grief, previsto no art. 563, do CPP. Na espécie, a defesa não logrou demonstrar prejuízo em razão do alegado vício, visto que a condenação se sustenta por outros meios de prova constantes dos presentes autos.
+ ..
+12. Agravo regimental não provido" (AgRg no AREsp n. 1.573.424/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/9/2020, DJe de 15/9/2020).
+Por fim, conforme anteriormente assinalado, a eventual existência ou não de provas suficientes à comprovação da autoria delitiva não é tema apropriado para o exame em sede de habeas corpus. É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória ou de negativa de autoria, em razão da necessidade de incursão no acervo fático-probatório.
+Nesse sentido:
+" ..  1. O enfrentamento da tese relativa à negativa de autoria é incompatível com a via estreita do habeas corpus, ante a necessária incursão probatória, devendo tal análise ser realizada pelo Juízo competente para a instrução e julgamento da causa.  .. " (AgRg no HC n. 806.652/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/4/2023, DJe de 26/4/2023).
+Confira-se também: AgRg no HC n. 814.843/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023; AgRg no HC n. 771.324/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; e AgRg no HC n. 772.855/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Dessarte, no presente agravo regimental não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser m antido o ato judicial por seus próprios fundamentos. Acerca do tema:
+" ..  1. É assente nesta Corte que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.  .. " (AgRg no HC n. 659.003/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023 ).
+Ante todo o exposto, nego provimento ao agravo regimental.
+É o voto.
