@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por Alex Santos Menezes contra a decisão proferida pelo Tribunal de Justiça do Estado de Sergipe que, em juízo de admissibilidade, não admitiu o recurso especial por ele apresentado. O recurso especial inadmitido na origem, por sua vez, impugnou o acórdão prolatado na Apelação Criminal n. 202400361566, que condenou o réu como incurso nas penas do art. 157, § 2º, II, do Código Penal (fls. 351/363).
+Nas razões do recurso especial (fls. 366/370), escoradas no art. 105, III, a e c, da Constituição Federal de 1988, a defesa apontou contrariedade entre o acórdão e o art. 16 do Código Penal. Nesse sentido, o recorrente sustentou que houve a reparação integral do dano antes do recebimento da denúncia e, ainda, que o delito não envolveu violência praticada contra a vítima, tampouco o emprego de arma de fogo, razões pelas quais deveria ser aplicada a causa de diminuição de pena pertinente ao arrependimento. Ao final, postulou a reforma do acórdão, com a redução da sanção penal fixada.
+Apresentadas contrarrazões (fls. 374/381), o Tribunal local não admitiu o recurso especial, por incidência da Súmula 7/STJ (fls. 384/389). Daí o presente agravo (fls. 395/400).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 429/343).
+É o relatório.
+O agravo em recurso especial preenche os requisitos de admissibilidade. Contudo, tenho que não assiste razão ao recorrente.
+O recurso especial veiculou tese no sentido de que a reprimenda aplicada ao recorrente pela prática do delito de roubo majorado haveria de ser reduzida em função de seu arrependimento posterior. Nessa esteira, a defesa aduziu que houve a reparação do dano antes do recebimento da denúncia e, ainda, que o delito não envolveu violência ou ameaça exercida com arma de fogo, fatores que, segundo o recorrente, viabilizariam a diminuição de pena prevista no art. 16 do Código Penal.
+Pois bem: o acórdão condenatório de fls. 351/363 é claro ao indicar que o réu praticou o delito de roubo majorado pelo concurso de agentes. Consequentemente, afastou-se a figura do arrependimento posterior, tendo em vista que a grave ameaça é elemento ínsito ao tipo penal do art. 157 do Código Penal.
+A toda evidência, a redução de pena pretendida pela defesa pressupõe a alteração da tipificação do fato e do arcabouço fático delineado pelas instâncias ordinárias, o que necessariamente envolveria reexame de fatos e provas vedado pela Súmula 7/STJ (AgRg no AREsp n. 2.583.279/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/9/2024; e AgRg no AREsp n. 2.354.330/RN, Ministro Jesuíno Rissato, Sexta Turma, DJe 7/12/2023).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. PRETENSÃO À DIMINUIÇÃO DA REPRIMENDA EM VIRTUDE DE ARREPENDIMENTO POSTERIOR. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
