@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ARTUR RIBEIRO MARTINS, contra decisão que não admitiu o recurso especial.
+O apelo extremo, manejado com amparo na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 1089, e-STJ):
+- APELAÇÕES CÍVEIS - AÇÃO ANULATÓRIA DE CONTRATO - RECURSO DO REQUERIDO - NÃO CONHECIDO - FALTA DE LEGITIMIDADE RECURSAL E DE DIALETICIDADE - RECURSO DO AUTOR - ANULAÇÃO DO EMPRÉSTIMO E CONDENAÇÃO DO BANCO - IMPOSSIBILIDADE - CIÊNCIA DO EMPRÉSTIMO - UTILIZAÇÃO DO MÚTUO - TRANSFERÊNCIA A TERCEIRO PARA REALIZAÇÃO DE NEGÓCIO JURÍDICO E UTILIZAÇÃO DO SALDO RESIDUAL - ACEITAÇÃO TÁCITA DO EMPRÉSTIMO - PROIBIÇÃO DO VENIRE CONTRA FACTUM PROPRIUM - VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO - RECURSO DO REQUERIDO NÃO CONHECIDO - RECURSO DO AUTOR CONHECIDO E DESPROVIDO.
+1. Ainda que a assinatura aposta no contrato de empréstimo não seja proveniente do punho do consumidor, não há dúvidas de que os valores disponibilizados pela instituição financeira foram por ele utilizados. Houve, no caso, inequívoco aceite tácito, consistente na utilização dos valores disponibilizados na sua conta corrente e o pagamento das prestações do empréstimo, quando deveria, por coerência, ter consignado o montante em Juízo e requerido a imediata suspensão dos descontos.
+2. Não pode o apelante beneficiar-se de crédito "indevidamente" disponibilizado em sua conta corrente e, após, socorrer-se do Judiciário para pleitear a sua devolução e indenização por danos morais. Entender em sentido contrário seria o mesmo que incorrer em "venire contra factum proprium", que consiste na vedação ao comportamento contraditório.
+Opostos embargos de declaração (fls. 1101/1104, e-STJ), esses foram rejeitados.
+Nas razões do especial (fls. 1119/1126, e-STJ), o agravante apontou violação ao artigo 489, § 1º do Código de Processo Civil/15 e Súmula 479 do STJ. Sustentou, em síntese, negativa de prestação jurisdicional, por não terem sido supridas as omissões suscitadas nos aclaratórios em relação à distinção ou superação da tese firmada em julgamento de casos repetitivos (tema 466), que originou a Súmula 479 do STJ.
+Contrarrazões às fls. 1157/1168, e-STJ.
+Em juízo de admissibilidade (fls. 1171/1177, e-STJ), negou-se o processamento do recurso especial, sob os seguintes fundamentos: i) ausência de negativa de prestação jurisdicional; ii) incidência da Súmula 83 do STJ.
+Daí o agravo (fls. 1183/1185, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o insurgente refutara os óbices aplicados pela Corte estadual.
+Sem contraminuta (fl. 1197, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, no que tange à alegada violação ao artigo 489 do CPC/15, não merece acolhimento a insurgência, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+Aduziu o agravante a ocorrência de negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem teria sido omisso, haja vista que teria deixado de se manifestar sobre à distinção ou superação da tese firmada em julgamento de casos repetitivos (tema 466), que originou a Súmula 479 do STJ.
+Contudo, da leitura dos autos, constata-se que referida tese foi expressamente examinada pela Corte a quo, consoante se denota dos seguintes trechos (fls. 1115/1116, e-STJ):
+A decisão impugnada não padece de nenhum vício, porquanto é bastante clara e precisa em todos os pontos necessários para o deslinde da controvérsia.
+O que se observa nas razões dos embargos é a evidente tentativa de rediscutir a matéria amplamente analisada no julgamento do Apelo.
+Com efeito, não há qualquer omissão no Julgado, que foi bastante claro no seu posicionamento a respeito da impossibilidade de responsabilização da instituição financeira no específico caso posto, com expressa distinção do caso posto quanto à Súmula 479 do STJ, o que se verifica de simples leitura do Acórdão recorrido (destacou-se):
+"Como visto, conforme se depreende dos relatos do Autor, este detinha conhecimento a respeito do negócio jurídico a ser entabulado, bem como tomou ciência de que o valor do mútuo foi devidamente depositado em sua conta bancária - tanto é que logo em seguida efetuou a transferência de parte desse montante para a outra empresa Requerida nestes autos.
+Calha ressaltar que a transferência foi corroborada pelo Requerente em seu depoimento pessoal, oportunidade em que afirmou ter enviado o valor de R$ 38.503,19 para a conta da requerida Reali e se utilizado do saldo remanescente de aproximadamente R$ 10.000,00 (f. 977).
+Nessa senda, não é possível sustentar o desconhecimento da operação, como pretende o Apelante, haja vista que tanto seus relatos como o seu comportamento perante o recebimento da cifra em conta de sua titularidade exprimem o contrário.
+Destaco a ponderação do Magistrado sentenciante, a qual aqui se utiliza como reforço argumentativo: "a utilização da importância disponibilizada em sua conta corrente configurou aceitação tácita do negócio jurídico, considerando que tal conduta é incompatível com a alegação de desconhecimento do pacto. Ressalte-se que o comportamento contraditório do requerente, ao pleitear a nulidade do contrato e agir em posição jurídica contrária ao que pretende, viola o princípio boa-fé objetiva".
+Mesmo que a assinatura aposta no contrato de empréstimo não seja proveniente do punho do consumidor, não há dúvidas de que os valores disponibilizados pela instituição financeira foram por ele utilizados.
+Embora não se desconheça o entendimento firmado na Súmula nº 479 do STJ sobre a responsabilidade objetiva das instituições financeiras em caso de fraude bancária, o caso dos autos possui peculiaridades que o diferem dos demais, pois a quantia relacionada ao mútuo supostamente fraudado foi disponibilizada e utilizada pelo apelante.
+Houve, no caso, inequívoco aceite tácito, consistente na utilização dos valores disponibilizados na sua conta corrente e o pagamento das prestações (durante pelo menos nove meses) do empréstimo, quando deveria, por coerência, ter consignado o montante em Juízo e requerido a imediata suspensão dos descontos.
+Não pode o apelante beneficiar-se de crédito "indevidamente" disponibilizado em sua conta corrente e, após, socorrer-se do Judiciário para pleitear a sua devolução e indenização por danos morais. A rigor, se o crédito foi concedido e utilizado, não se pode falar em descontos indevidos.
+Assim, tendo recebido o importe de R$ 48.128,98 e dele, confessadamente, se utilizado da forma como desejou, configurado está o aceite da relação jurídica iniciada com o Banco, e não há como, agora, pretender o Autor ver anulado o empréstimo.
+Entender em sentido contrário, conforme pretende o Apelante, significaria incorrer em "venire contra factum proprium", que consiste na vedação ao comportamento contraditório."
+Portanto, verifica-se que a controvérsia foi integralmente solucionada pelo Tribunal de origem, com fundamento suficiente, não estando caracterizada a ofensa ao artigo 1022 do CPC/15, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - INDEFERIMENTO DE CITAÇÃO POR MEIO ELETRÔNICO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO EXEQUENTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+(..)
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.417.241/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/4/2024, DJe de 3/6/2024.)
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial e, com base no art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pelo Tribunal de origem, observadas as regras da gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
