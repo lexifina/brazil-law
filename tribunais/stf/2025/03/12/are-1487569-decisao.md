@@ -1,0 +1,45 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Maria Cecilia Bazzo, em face do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+    “AÇÃO DE COBRANÇA Servidora pública municipal Psicopedagoga Alegação de que ingressou no serviço público decorrente de aprovação em concurso público regido pela LCM 27/2003 que previa carga horária de 30 horas semanais e referência administrativa 8 Posterior alteração legislativa promovida pela LCM 32/2004 que modificou a carga horária para 40 horas semanais mantendo a mesma referência salarial Demanda ajuizada em 23/09/2021 Prescrição da pretensão de cobrança de eventuais diferenças salariais pretéritas Ausência, ademais, de direito adquirido a regime jurídico – Sentença mantida Recurso não provido.”
+
+    Instado a adequar o acórdão ao Tema nº 514 da Repercussão Geral, o Tribunal local promoveu juízo de retratação negativo, nos seguintes termos:
+
+    “REPERCUSSÃO GERAL Julgamento do ARE nº 660.010/PR pelo STF Art. 1.030, II, do novo CPC Tese fixada no sentido de que “A ampliação de jornada de trabalho sem alteração da remuneração do servidor consiste em violação da regra constitucional da irredutibilidade de vencimentos” Acórdão que reconheceu que havia previsão no edital do Concurso público de carga horária de 40 horas semanais para o cargo que a autora foi aprovada e que a posterior redução de jornada de trabalho foi feita a pedido da servidora, com readequação dos vencimentos em razão da diminuição do número de horas semanais trabalhadas Orientação adotada pelo acórdão proferido por esta Câmara que não é contrária à tese firmada nos julgamentos do Tema de Repercussão Geral nº 514 Manutenção do julgamento anterior.”
+
+    Na minuta, sustenta-se violação dos art. 37, XV, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    O Tribunal de origem decidiu a demanda sob os seguintes fundamentos:
+
+    “Na hipótese dos autos, o acórdão considerou que o Edital do Concurso Público nº 01/2003, de 17 de setembro de 2003, ofertava vaga de Psicopedagogo com referência remuneratória administrativa 8 e com carga horária de 40 horas semanais (fls. 19/23), condições das quais a autora tinha pleno conhecimento e foram por ela aceitas antes mesmo de participar do certame. A autora, no entanto, após aprovação e posse ao cargo, iniciou suas atividades desempenhando jornada de 30 horas para o cargo, a qual foi ajustada aos termos do edital com o advento da LCM 32/2004, sem que tenha ocorrido qualquer questionamento. O julgado também considerou que, posteriormente, em março/2017 a autora pleiteou administrativamente a redução de sua carga horária para 30 horas semanais, o que foi deferido pela Administração municipal, com a redução proporcional dos vencimentos (fls. 26/27), ausente irregularidade em tal conduta, pois, a remuneração deve ser proporcional à carga horária desempenhada pelo servidor e, nos termos da LCM 32/2004, a jornada normal para o cargo de psicopedagoga era de 40 horas semanais, a qual correspondiam os vencimentos. Portanto, reconheceu que, quanto ao período posterior a março de 2017 não assiste razão à parte autora, uma vez que a redução da carga horária foi por ela pleiteada e sua remuneração adequada à diminuição de sua jornada de trabalho, de modo que não se vislumbra ilegalidade na conduta da Administração Municipal. E, para o período anterior, eventuais diferenças no ano de 2004, estão evidentemente prescritas, tendo em vista que a ação de cobrança ajuizada pela parte autora foi ajuizada em 23/09/2021. Desse modo, o acórdão de fls. 371/375 não contraria o entendimento sedimentado pelo STF no julgamento do ARE nº 660.010/PR, Tema nº 514, porque a jornada de 40 horas semanais já era de conhecimento da autora no momento em que decidiu participar do Concurso Público nº 01/2003, de 17 de setembro de 2003, para provimento ao cargo Psicopedagogo e, posterior redução de jornada para 30 horas semanais foi pleiteada pela própria servidora e deferido pela Administração Municipal com adequação de sua remuneração à jornada de trabalho inferior à prevista pela Lei Municipal vigente (LCM 32/2004), razão pela qual não há o que se adequar.”
+
+    No julgamento do Tema 514 da Repercussão Geral, esta Corte definiu a seguinte tese: “I - A ampliação de jornada de trabalho sem alteração da remuneração do servidor consiste em violação da regra constitucional da irredutibilidade de vencimentos; [...]”
+
+    Da análise dos autos, constata-se que o Tema 514 da Repercussão Geral (RE 660.010-RG, Rel. Min. Dias Toffoli) não guarda identidade com o caso dos autos, uma vez que não houve ampliação da jornada de trabalho.
+
+    Nesse contexto, a revisão das premissas adotadas pelo Tribunal de origem demandaria o exame da moldura fática delineada, da legislação infraconstitucional local aplicável (Lei Complementar Municipal 32/2004) bem como do Edital do Concurso Público nº 01/2003, de 17 de setembro de 2003, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279, 280 e 454/STF: “para simples reexame de prova não cabe recurso extraordinário”, “por ofensa a direito local não cabe recurso extraordinário” e “simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+
+    EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. ALTERAÇÃO DE JORNADA DE TRABALHO. REMUNERAÇÃO. ALEGADA VULNERAÇÃO AOS ARTIGOS 5º, II, XXXVI, 7º, IV, 37, XV, e 132 DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional. Precedentes: ARE 844.039-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 24/08/2015; ARE 1.271.280-AgR, Tribunal Pleno, DJe de 25/09/2020; e ARE 1.238.534-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/09/2020. 2. O recurso extraordinário é incompatível com o exame de direito local, ex vi, do enunciado 280 da Súmula do Supremo Tribunal Federal. 3. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1292544 AgR, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno, DJe-021 03-02-2021)
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor público municipal. Jornada de trabalho. Fatos e provas. Cláusulas do edital. Reexame. Impossibilidade. Legislação local. Ofensa reflexa. Precedentes. 1. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos, bem como da legislação local e das cláusulas que regem o concurso público. Incidência das Súmulas nºs 279, 280 e 454/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1224012 AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe-233 25-10-2019)
+
+    “AGRAVO INTERNO EM AÇÃO RESCISÓRIA. 2. DIREITO ADMINISTRATIVO. 3. ALTERAÇÃO DA JORNADA DE TRABALHO. 4. LEIS 11.907/2009 E 8.112/1990. 5. Análise da legislação infraconstitucional. 6. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 7. Agravo interno desprovido. 8. Majoração dos honorários advocatícios (art. 85, § 11, do CPC).” (AR 2612-AgR, Rel. Min. Gilmar Mendes, Plenário, DJe 19.12.2019)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 12 de março de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
