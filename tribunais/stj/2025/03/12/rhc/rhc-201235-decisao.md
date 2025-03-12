@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto por MARCELO BARBOSA contra decisão monocrática proferida no Tribunal de Justiça de Santa Catarina, no bojo do Habeas Corpus n. 5036065-26.2024.8.24.0000.
+Em síntese, alega a defesa que a autoridade teria suspendido a progressão do regime considerando falta grave, em tese cometida pelo paciente, sem o devido contraditório e audiência de justificação.
+Destacaram, ademais, que o eventual cometimento de falta grave não vincula o Juízo, razão pela qual o pedido deveria ser prontamente analisado.
+Assim, impetrou habeas corpus requerendo o deferimento de liminar para que fosse determinado a progressão do paciente ao regime semiaberto através da imposição de penas restritivas de direito e o monitoramento eletrônico e, no mérito, pugnou pela concessão da ordem para que fosse deferido o pedido de progressão.
+O writ, foi julgado, sendo negada a ordem pleiteada (fls. 36-37).
+No presente recurso, o recorrente alega que, embora preenchidos requisitos objetivo e subjetivo para progressão de regime, o Juízo das execuções suspendeu o exame do benefício. Destaca, ainda, não haver provas da ocorrência da infração.
+Assim, requer a imediata cassação da suspensão imposta em relação a progressão de regime, determinando a substituição do regime fechado, por medidas cautelares diversa previstas no art. 319 do CPP, que deverão ser fixadas, exclusivamente, até audiência do PAD (fls. 42-47).
+Contrarrazões ao recurso apresentadas pelo Ministério Público do Estado de Santa Catarina (fls. 52-53).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 61-66).
+É o relatório. DECIDO.
+A defesa insurge-se contra decisão monocrática de Desembargador Relator do Tribunal de Justiça de Santa Catarina, que não conheceu do habeas corpus impetrado.
+In casu, verifica-se que o Tribunal de origem não analisou a controvérsia, trazida para análise diretamente perante o Superior Tribunal de Justiça.
+Ocorre que, nesta Corte, possuímos o entendimento de que "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Nesse contexto, ausente manifestação do Tribunal a quo, incabível a análise do presente recurso, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e I I, da CF; e art. 13, I e II, do RISTJ).
+Vejamos:
+"As teses relativas a policiais civis terem interrogado o paciente sem advogado e a suposta ofensa ao direito ao silêncio não foram examinadas pela Corte de origem, conforme se verifica do inteiro teor do acórdão impetrado, razão pela qual o writ não pode ser, nesse ponto, reconhecido, sob pena de indevida supressão de instância. Registre-se que "os termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade". (AgRg no AREsp n. 1.813.448/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022) (AgRg no HC n. 821.390/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT).
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que: "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ante todo o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
