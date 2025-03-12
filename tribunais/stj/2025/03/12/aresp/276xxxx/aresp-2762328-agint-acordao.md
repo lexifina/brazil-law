@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. IMPOSSIBILIDADE DE INCURSÃO NO QUADRO FÁTICO- PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+2. A revisão das premissas que levaram as instâncias ordinárias a concluir pela necessidade de juntada documental para regularizar o feito esbarra no óbice da Súmula 7 do STJ, dada a impossibilidade de incursão no quadro fático-probatório nesta estreita via recursal.
+3. "Quanto à multa aplicada, incide o óbice da Súmula n. 7 do STJ, tendo em vista que o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração demandaria a incursão no acervo fático-probatório dos autos, incabível na via estreita do recurso especial" (AgInt no AREsp n. 2.039.366/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/10/2024, DJe de 17/10/2024).
+4. "A incidência de óbices sumulares quanto à interposição do recurso especial pela alínea a do permissivo constitucional impede seu conhecimento pela divergência jurisprudencial sobre a mesma questão" (AgInt no AREsp n. 1.843.629/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024).
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto pelo SINDICATO DOS PROFESSORES NO DISTRITO FEDERAL contra decisão que conheceu do agravo para não conhecer do recurso especial (fls. 791-793).
+A parte agravante refuta os óbices de admissibilidade aplicados no decisum monocrático ora recorrido, razão pela qual pleiteia a sua reconsideração ou, caso assim não se entenda, a submissão do agravo ao julgamento colegiado desta Turma.
+Contrarrazões às fls. 835-838.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. IMPOSSIBILIDADE DE INCURSÃO NO QUADRO FÁTICO- PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+2. A revisão das premissas que levaram as instâncias ordinárias a concluir pela necessidade de juntada documental para regularizar o feito esbarra no óbice da Súmula 7 do STJ, dada a impossibilidade de incursão no quadro fático-probatório nesta estreita via recursal.
+3. "Quanto à multa aplicada, incide o óbice da Súmula n. 7 do STJ, tendo em vista que o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração demandaria a incursão no acervo fático-probatório dos autos, incabível na via estreita do recurso especial" (AgInt no AREsp n. 2.039.366/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/10/2024, DJe de 17/10/2024).
+4. "A incidência de óbices sumulares quanto à interposição do recurso especial pela alínea a do permissivo constitucional impede seu conhecimento pela divergência jurisprudencial sobre a mesma questão" (AgInt no AREsp n. 1.843.629/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024).
+5. Agravo interno a que se nega provimento.
+VOTO
+O agravo interno não merece prosperar.
+De início, no tocante à alegação de contrariedade aos arts. 105, § 4º, 927, III, e 1.009 do CPC, 81 do CDC e 21 da Lei n. 7.347/1985, registre-se que o presente recurso especial carece do requisito constitucional do prequestionamento. Incidem as súmulas 282 do STF, por analogia, e 211 do STJ.
+Como cediço, "o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+De mais a mais, a discussão contida no acórdão recorrido não diz respeito à legitimidade do sindicato para promover o cumprimento da sentença coletiva, mas à necessidade de regularização processual  em relação à qual, aliás, entendeu-se pelo deferimento do pedido de dilação de prazo nos seus termos "ou, ao menos, a concessão de prazo um pouco menos alargado do que o postulado", decisão que, por óbvio, beneficia o ora recorrente.
+A revisão das premissas que levaram as instâncias ordinárias a concluir pela necessidade de juntada documental para regularizar o feito esbarra no óbice da Súmula 7 do STJ, dada a impossibilidade de incursão no quadro fático-probatório nesta estreita via recursal.
+Igualmente, "quanto à multa aplicada, incide o óbice da Súmula n. 7 do STJ, tendo em vista que o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração demandaria a incursão no acervo fático-probatório dos autos, incabível na via estreita do recurso especial" (AgInt no AREsp n. 2.039.366/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/10/2024, DJe de 17/10/2024).
+Registre-se, por derradeiro, que "a incidência de óbices sumulares quanto à interposição do recurso especial pela alínea a do permissivo constitucional impede seu conhecimento pela divergência jurisprudencial sobre a mesma questão" (AgInt no AREsp n. 1.843.629/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
