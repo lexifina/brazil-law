@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EQUITHERM COMÉRCIO E SERVIÇOS LTDA. contra a decisão de fls. 100-104, que inadmitiu recurso especial com fundamento na ausência de violação legal.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de cumprimento de sentença (Agravo de Instrumento n. 5033446-93.2023.8.21.700).
+O julgado foi assim ementado (fl. 49):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO HOMOLOGATÁRIO DE CÁLCULO PERICIAL. INEXISTE NULIDADE DA DECISÃO PROFERIDA COM BASE NA TÉCNICA DE M O T I VA Ç Ã O PER RELATIONEM. A PARTE AGRAVANTE, IRRESIGNADA, INSISTE NA TESE DE QUE O PERITO DESCONSIDEROU INUMERAS APROPRIAÇÕES DE VALORES, REALIZADOS MEDIANTE AUTOTUTELA NA CONTA CORRENTE, DISFARÇADAS DE LANÇAMENTOS. OCORRE, TODAVIA, QUE, ALÉM DE NÃO ESPECIFICAR QUAIS SERIAM TAIS LANÇAMENTOS, NÃO HOUVE DISPOSIÇÃO DO DECISUM ACERCA DE EVENTUAL DE DIREITO À REPETIÇÃO DO INDÉBITO POR LANÇAMENTOS INDEVIDOS NA CONTA CORRENTE. ALIÁS, SEQUER ISSO FOI DISCUTIDO NA FASE DE CONHECIMENTO, A QUAL ABORDOU APENAS A REVISÃO DE CLÁUSULAS CONTRATUAIS.
+NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+UNÂNIME.
+Nas razões do recurso especial, a parte recorrente alega violação dos arts. 489, II, III, do CPC, 5º, LV, 93, IX, da Constituição Federal, por não terem sido enfrentados os argumentos deduzidos no processo a respeito da nulidade do laudo pericial e da impossibilidade da sua homologação.
+Requer o provimento do recurso para anular o acórdão e determinar que novo julgamento seja realizado.
+Contrarrazões pelo não conhecimento ou pelo desprovimento do recurso especial (fls. 86-94).
+É o relatório. Decido.
+Trata-se, na origem, de agravo de instrumento interposto contra decisão que rejeitou impugnação e homologou os cálculos periciais realizados em cumprimento de sentença (fl. 45).
+O Tribunal a quo negou provimento ao recurso, concluindo que as questões abordadas na impugnação foram suficientemente enfrentadas no laudo pericial homologado (fls. 45-50).
+Sobreveio recurso especial em que se alega que houve negativa de prestação jurisdicional quanto à valoração jurídica dos argumentos apresentados e da prova produzida.
+I - Violação dos arts. 5º, LV, 93, IX, da Constituição Federal
+Não cabe a esta Corte analisar eventual violação dos arts. 5º, LV, 93, IX, da Constituição Federal, ao argumento de que o acórdão recorrido teria afrontado os princípios da ampla defesa e da obrigatoriedade de fundamentação.
+Isso porque é inviável ao Superior Tribunal de Justiça intervir em matéria da competência do Supremo Tribunal Federal, ainda que para prequestionar questões constitucionais, sob pena de contrariar as rígidas atribuições recursais previstas na Carta Magna (EDcl no AgInt nos EDcl no AREsp AREsp n. 2.431.807/PR, de minha relatoria, Quarta Turma, julgado em 22/8/2024, DJe de 22/8/2024).
+II - Violação do art . 489, II, III, do CPC
+Afasta-se a alegada negativa de prestação jurisdicional, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A questão apontada, envolvendo a definição quanto à valoração dos argumentos e da prova produzida, foi expressamente analisada, além de ter sido justificada, fundamentadamente, a conclusão adotada, pela rejeição dos argumentos apresentados pela ora agravante acerca da incorreção do laudo pericial; da ausência de especificação particularizada dos lançamentos questionados; e da inexistência de disposição no título acerca de eventual direito à repetição do indébito por lançamentos indevidos na conta corrente.
+Confira-se, a propósito, o acórdão proferido no julgamento do recurso de agravo de instrumento que, afastando a impugnação ao laudo pericial e entendendo pela suficiência dos elementos produzidos, manteve a decisão que rejeitou impugnação e homologou os cálculos periciais realizados em cumprimento de sentença (fls. 46-48).
+As questões abordadas nas impugnações da parte ora agravante foram enfrentadas no laudo pericial homologado pelo julgador da causa. Aduza-se que inexiste nulidade da decisão proferida com base na técnica de motivação per relationem, como é cediço:  ..
+No mérito, também é caso de desprovimento do recurso.
+No caso, tem-se cumprimento de sentença proferida em ação de cobrança de crédito bancário, em cujo dispositivo constou (evento 3, PROCJUDIC10 - p. 22):  ..
+Em grau recursal, houve provimento parcial do apelo da parte ora agravante, para limitar a incidência da comissão de permanência:  ..
+No curso do cumprimento de sentença, realizado laudo por perito judicial, a parte ora agravante apresentou impugnação aos cálculos periciais, argumentando que o perito teria desconsiderado extrato de contas e outros documentos que comprovaram a desconsideração das inúmeras apropriações de valores efetuadas mediante autotutela e/ou disfarces de lançamentos, diretamente na conta corrente do recorrente.
+Razão não lhe assiste, todavia.
+Veja-se que, como observado pelo juiz da causa, o profissional, após sucessivas impugnações dos executados - e, consequentemente, elaboração de sucessivos laudos complementares -, ratificou seus cálculos iniciais. Como se observa nos laudos complementares, os questionamentos da parte ora agravante foram refutados (evento 3, PROCJUDIC14 - pp. 39-41/ evento 3, PROCJUDIC15- pp. 04-07/ evento 3, PROCJUDIC15 - pp. 24-26/ evento 16, LAUDO1/ evento 27, LAUDO1).
+Não obstante, a parte agravante, irresignada, insiste na tese de que o perito desconsiderou apropriações de valores, realizados mediante autotutela, na conta corrente, disfarçadas de lançamentos.
+Ocorre, todavia, que, além de não especificar quais seriam tais lançamentos, não houve disposição do decisum acerca de eventual de direito à repetição do indébito por lançamentos indevidos na conta corrente. Aliás, sequer isso foi discutido na fase de conhecimento, a qual abordou apenas a revisão de cláusulas contratuais.
+Como se não bastasse, o julgador da causa ainda propiciou à parte ora agravante, em razão de suas várias impugnações, a possibilidade de nomeação de novo perito (evento 40, PET1), desde que os respectivos honorários fossem por ela arcados. Em resposta, limitou-se a reiterar suas impugnações e cálculos realizados por seu assistente (evento 40, PET1).
+Por tudo isso, vai mantida a decisão agravada.
+Sobre a valoração dos argumentos apresentados e da prova produzida, transcrevo, ainda, os fundamentos da decisão proferia em primeiro grau (fl. 45):
+Trata-se de impugnação aos cálculos apresentados pelo exequente, por meio da qual alegam os executados que não foram obedecidos os parâmetros fixados pelo Juízo.
+Nomeado perito contábil, o profissional, após sucessivas impugnações dos executados - e, consequentemente, elaboração de sucessivos laudos complementares -, ratificou seus cálculos iniciais.
+Neste cenário, considerando que o laudo foi elaborado em conformidade com os critérios estabelecidos pelo Juízo, com os quesitos - iniciais e complementares - apresentados pelas partes e com os extratos trazidos pelo exequente, HOMOLOGO-O, declarando que os executados devem ao exequente a quantia de R$ 533.043,14, atualizada até 26/02/2019.
+Como visto, a matéria foi suficientemente analisada, não padecendo o acórdão recorrido do vício alegado; sendo certo que a definição quanto ao acerto do entendimento apontado diz respeito ao próprio mérito da controvérsia, tema sobre o qual não houve a interposição de recurso.
+Por outro lado, se a conclusão ou os fundamentos utilizados não foram corretos na opinião da parte recorrente, não quer dizer que não existam ou que configurem qualquer outro vício. Afinal, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte (AgRg no Ag n. 56.745/SP, relator Ministro Cesar Asfor Rocha, julgado em 16/11/1994, DJ de 12/12/1994).
+Esclareça-se ainda que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Igualmente não viola o art. 489 do CPC, nem importa deficiência na prestação jurisdicional, o acórdão que adota fundamentação suficiente para decidir a controvérsia posta, ainda que diversa da pretendida pela parte recorrente, não sendo possível confundir julgamento desfavorável com ausência de fundamentação (AgInt no AREsp n. 2.179.308/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024; AgInt nos EDcl no AREsp n. 1.528.474/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024, DJe de 17/5/2024).
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
