@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por GIULIANO TROMBETTA AMARAL, em favor próprio, contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que não conheceu do habeas corpus originário, que porta a seguinte ementa (fls. 281-287):
+"PROCESSUAL PENAL. HABEAS CORPUS. ACÓRDÃO DE TURMA RECURSAL. PEDIDO DE ABSOLVIÇÃO. NÃO CABIMENTO. AUSÊNCIA DE TERATOLOGIA, FLAGRANTE ILEGALIDADE OU ABUSO DE PODER. NÃO CONHECIMENTO DO WRIT.
+1. As Turmas Criminais do TJDFT não são instâncias revisoras de decisões das Turmas Recursais dos Juizados Especiais Criminais, só podendo intervir para cassar suas decisões em casos excepcionais, quando houver manifesta teratologia, flagrante ilegalidade, comprovado abuso de poder ou contrariedade a entendimento pacífico deste Tribunal ou dos Tribunais Superiores.
+2. Não despontando, no caso, qualquer situação capaz de justificar o remédio constitucional, não há como conhecer do habeas corpus.
+3. Habeas corpus não conhecido."
+O recorrente foi condenado pela prática da contravenção penal de vias de fato (art. 21 do Decreto-lei 3.668/41), por duas vezes, à pena de 30 (trinta) dias de prisão simples, a ser cumprida em regime aberto, substituída por uma pena restritiva de direitos.
+Em sua peça de ingresso, sustenta a possibilidade de conhecimento do habeas corpus originário e, ao final, requer o acolhimento do pedido de absolvição da contravenção penal de vias de fato.
+Instado a se manifestar, o Ministério Público Federal oficiou pelo não conhecimento do recurso ordinário em parecer cuja ementa transcrevo a seguir (fls. 343-344):
+"RECURSO EM HABEAS CORPUS. VIAS DE FATO. PLEITO ABSOLUTÓRIO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DISTRITAL. NÃO CONHECIMENTO. PEDIDO DISSOCIADO DAS RAZÕES RECURSAIS. INVIABILIDADE DE COMPREENSÃO DA CONTROVÉRSIA.
+1. Preliminarmente, não há de ser conhecido o presente recurso ordinário, porquanto o Tribunal de Justiça do Distrito Federal e dos Territórios não analisou a tese defensiva de absolvição, ante a inviabilidade de conhecimento do writ originário. Logo, a pretensão recursal busca obter pronunciamento desse Superior Tribunal de Justiça sobre matéria não apreciada no acórdão ora questionado, situação que resultaria em indevida supressão de instância.
+2. Ainda que superado o óbice ao conhecimento, constata-se que as razões do recurso ordinário encontram-se dissociadas do pedido de absolvição, inviabilizando a exata compreensão da controvérsia e sua respectiva análise.
+3. Parecer pelo não conhecimento do recurso ordinário."
+É o relatório. DECIDO.
+Preliminarmente, verifico que o presente recurso ordinário em habeas corpus não merece ser conhecido.
+O Tribunal de origem não analisou a tese defensiva de absolvição por atipicidade da conduta, tendo em vista que não conheceu do habeas corpus originário, ao fundamento de que as Turmas Criminais do TJDFT não são instâncias revisoras das decisões das Turmas Recursais dos Juizados Especiais Criminais, só podendo intervir para cassar suas decisões em casos excepcionais, quando houver manifesta teratologia, flagrante ilegalidade, comprovado abuso de poder ou contrariedade a entendimento pacífico daquele Tribunal ou dos Tribunais Superiores.
+Dessa forma, a pretensão recursal busca obter pronunciamento deste Superior Tribunal de Justiça sobre matéria não apreciada no acórdão ora questionado, situação que resultaria em indevida supressão de instância.
+O Superior Tribunal de Justiça entende que, "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta" (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Ademais, como bem apontado pelo Ministério Público Federal, ainda que superado o óbice ao conhecimento, constata-se que as razões do recurso ordinário encontram-se dissociadas do pedido de absolvição, inviabilizando a exata compreensão da controvérsia e sua respectiva análise.
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
