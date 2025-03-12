@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo. PRISÃO PREVENTIVA. NEGATIVA DE AUTORIA. REITERAÇÃO DE PEDIDOS. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, por ser inviável, em sede de habeas corpus, o exame de questões relativas à negativa de autoria e por se tratar de reiteração de pedido analisado em outro habeas corpus.
+2. O agravante alega ser possível o exame das questões suscitadas sem necessidade de reexame fático-probatório.
+3. O agravante sustenta que houve alteração nas condições iniciais da prisão preventiva e que a questão central debatida no habeas corpus anterior era a concessão de prisão domiciliar, não a revogação da prisão preventiva.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível a análise, em sede de habeas corpus, de questões relativas à ausência de autoria e se há alteração nas condições que justificam a prisão preventiva do agravante.
+III. Razões de decidir
+5. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal é pacífica no sentido de que não cabe habeas corpus substitutivo de recurso ordinário, salvo em caso de flagrante ilegalidade.
+6. A análise de questões relacionadas à negativa de autoria, que demandam reexame do conjunto fático-probatório, é incabível na via estreita do habeas corpus.
+7. As condições para a prisão preventiva do agravante já foram analisadas em habeas corpus anterior, não havendo alteração que justifique a revogação da prisão preventiva.
+IV. Dispositivo e tese
+8. Agravo regimental im provido.
+Tese de julgamento: "1. Não cabe habeas corpus substitutivo de recurso ordinário, salvo em caso de flagrante ilegalidade. 2. A análise de negativa de autoria que demanda reexame fático-probatório é incabível em habeas corpus. 3. A reiteração de pedido já julgado por este Tribunal Superior c onstitui óbice ao conhecimento do habeas corpus.
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 316.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10/6/2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27/3/2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JULIANO PERA, de decisão na qual não conheci do habeas corpus (e-STJ, fls. 627-629).
+Alega o agravante que o Tribunal de origem apreciou todos as teses defensivas relativas à negativa de autoria, "de modo que a análise do habeas corpus impetrado demanda estritamente a verificação da ratio decidendi do acórdão impugnado", prescindindo completamente de reexame fático-probatório.
+Nesse contexto, defende que houve alteração nas condições iniciais em que foi decretada a prisão preventiva.
+Por fim, sustenta não ser o caso de reiteração de pedidos, visto que a questão central debatida no HC n. 913.169/SC era a concessão de prisão domiciliar e não a revogação prisão preventiva em si.
+Requer, assim, a reconsideração do decisum ou a submissão do feito ao colegiado, a fim de revogar a prisão preventiva, aplicando-se medidas cautelares diversas da prisão.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo. PRISÃO PREVENTIVA. NEGATIVA DE AUTORIA. REITERAÇÃO DE PEDIDOS. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, por ser inviável, em sede de habeas corpus, o exame de questões relativas à negativa de autoria e por se tratar de reiteração de pedido analisado em outro habeas corpus.
+2. O agravante alega ser possível o exame das questões suscitadas sem necessidade de reexame fático-probatório.
+3. O agravante sustenta que houve alteração nas condições iniciais da prisão preventiva e que a questão central debatida no habeas corpus anterior era a concessão de prisão domiciliar, não a revogação da prisão preventiva.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível a análise, em sede de habeas corpus, de questões relativas à ausência de autoria e se há alteração nas condições que justificam a prisão preventiva do agravante.
+III. Razões de decidir
+5. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal é pacífica no sentido de que não cabe habeas corpus substitutivo de recurso ordinário, salvo em caso de flagrante ilegalidade.
+6. A análise de questões relacionadas à negativa de autoria, que demandam reexame do conjunto fático-probatório, é incabível na via estreita do habeas corpus.
+7. As condições para a prisão preventiva do agravante já foram analisadas em habeas corpus anterior, não havendo alteração que justifique a revogação da prisão preventiva.
+IV. Dispositivo e tese
+8. Agravo regimental im provido.
+Tese de julgamento: "1. Não cabe habeas corpus substitutivo de recurso ordinário, salvo em caso de flagrante ilegalidade. 2. A análise de negativa de autoria que demanda reexame fático-probatório é incabível em habeas corpus. 3. A reiteração de pedido já julgado por este Tribunal Superior c onstitui óbice ao conhecimento do habeas corpus.
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 316.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10/6/2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27/3/2020.
+VOTO
+O agravo não comporta conhecimento.
+A decisão recorrida deve ser mantida por seus próprios fundamentos, porque ela está em consonância com a jurisprudência deste Tribunal Superior.
+Como cediço, esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passou à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Na hipótese, destacou-se, inicialmente, ser incabível, na via estreita do habeas corpus, a análise das questões suscitadas pela defesa relacionadas à negativa de autoria, por demandar o reexame do conjunto fático e probatório dos autos, conforme reiterado entendimento desta Corte Superior. Nessa linha: RHC 94.361/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 5/4/2018, DJe 18/4/2018; RHC 94.868/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/4/2018, DJe 18/4/2018; e HC 414.900/MT, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 3/4/2018, DJe 9/4/2018.
+Salientou-se, ademais, que questões relativas à presença dos pressupostos legais para custódia cautelar do paciente já foram objeto de análise por este Tribunal Superior nos autos do HC n. 913.169/SC, de minha relatoria, julgamento em 29/5/2024, nos quais se entendeu que " a prisão preventiva foi justificada pela gravidade da conduta e pelo fundado receio de reiteração delitiva, visto que o paciente possui ação penal em trâmite, bem como pela grande quantidade de entorpecente comercializado".
+Tal circunstância constitui óbice ao conhecimento do writ, ainda que a questão central debatida tenha sido a possibilidade de concessão de prisão domiciliar, visto que se analisou, no caso, o preenchimento dos pressupostos legais para o decreto preventivo do agravante.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. POSSIBILIDADE DE JULGAMENTO MONOCRÁTICO. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO COM NUMERAÇÃO RASPADA. PRISÃO PREVENTIVA. REQUISITOS DA CUSTÓDIA CAUTELAR. REITERAÇÃO DE PEDIDO FORMULADO NO RHC 164.239/RS. IMPOSSIBILIDADE DE CONHECIMENTO DA MATÉRIA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PROCESSO COM REGULAR TRAMITAÇÃO. PLURALIDADE DE RÉUS. INSTRUÇÃO ENCERRADA. AUTOS CONCLUSOS PARA PROLAÇÃO DA SENTENÇA. INCIDÊNCIA DA SUMULA N. 52 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AUSÊNCIA DE DESÍDIA DO MAGISTRADO. AGRAVO DESPROVIDO.
+1. Os arts. 932 do Código de Processo Civil - CPC c/c o 3º do CPP e 34, XI e XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ e o enunciado n. 568 da Súmula do Superior Tribunal de Justiça - STJ, permitem ao relator negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com Súmula ou com jurisprudência dominante nos Tribunais superiores, não importando em cerceamento de defesa ou violação ao princípio da colegialidade, notadamente diante da possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre no caso, que permite que a matéria seja apreciada pelo Colegiado, embora não permita a sustentação oral, afastando eventual vício.
+2. No que se refere aos requisitos autorizadores da prisão preventiva e sua substituição por medidas cautelares, destaca-se que foi formulado pedido idêntico em benefício da mesma agravante/recorrente no RHC 164.239/RS, de minha Relatoria, no qual neguei provimento, em decisão publicada em 25/5/2022. Embora o acórdão impugnado seja diverso, em ambos os processos a agravante/recorrente é a mesma e se insurge contra a fundamentação da custódia cautelar decretada nos autos da Ação Penal n. 5001784-54.2021.8.21.0090. Nesse contexto, é inadmissível o conhecimento das questões referentes aos fundamentos da custódia cautelar, tendo em vista a impossibilidade de reiteração de pedidos, conforme a jurisprudência pacífica deste Tribunal.
+3. Constitui entendimento consolidado do Superior Tribunal de Justiça - STJ que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+In casu, verifica-se que não se constata flagrante ilegalidade por excesso de prazo na formação da culpa quando o processo segue regular tramitação. Extrai-se das informações prestadas pelas instâncias ordinárias, bem como do andamento processual da ação originária no site do Tribunal estadual, que a insatisfação da agravante com a relativa delonga na conclusão do feito não pode ser atribuída ao Juízo, mas às suas peculiaridades, considerando a complexidade do processo, no qual se apura a prática dos delitos de tráfico de drogas, associação ao tráfico de entorpecentes e posse de arma de fogo, com pluralidade réus - 4 -, representados por advogados distintos, demandando a realização de diversas diligências.
+A Corte estadual ressaltou que foram realizadas audiências de instrução e julgamento em 6/7/2022 e em 4/10/2022, e aguardava-se o retorno de precatória e interrogatório. Destacou, ainda, que houve realização de nova audiência, a fim de serem ouvidas as testemunhas faltantes, restando apenas a oitiva de testemunha de defesa por precatória e interrogados os réus, de modo que o feito se encaminha para o final.
+Em consulta ao site do TJ/RS, verifica-se que, em 18/1/23, na audiência, o Juízo de primeiro grau iniciaria o interrogatório dos réus Andresa e Vinicio, todavia o sistema Webex utilizado pelo Tribunal de Justiça para as audiências apresentou problemas que não foram sanados ainda que se utilizando de internet e computador particular do Magistrado, ficando frustrada a presente audiência. Em 31/1/2023, considerando a Resolução n. 481/2022 do Conselho Nacional da Justiça, que determinou a retomada das audiências de maneira presencial, o Juiz primevo determinou que a audiência designada para 9/2/2023 fosse feita de forma presencial, todavia, a agravante deveria fazer por videoconferência visto que, estava presa em Comarca diversa, momento em que fosse interrogada.
+Em nova consulta ao site do TJ/RS, verifica-se que na audiência ocorrida em 9/2/2023 o Magistrado a quo declarou encerrada a instrução, tendo as partes apresentado as alegações finais em 15/2/2023. Em 15/3/2023 os autos foram conclusos para julgamento.
+Estando, portanto, encerrada a instrução processual, atrai-se ao caso a incidência da Súmula n. 52 deste Superior Tribunal de Justiça, que prevê: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+4. Agravo regimental desprovido."
+(AgRg no RHC n. 174.284/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
