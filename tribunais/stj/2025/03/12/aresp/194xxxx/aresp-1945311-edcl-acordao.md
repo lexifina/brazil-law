@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E CONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. SUPOSTA OFENSA A DISPOSITIVO CONSTITUCIONAL. VIA IMPRÓPRIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando norm ativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CLAUDIO ALANO COHEN BEZERRA E OUTROS contra acórdão de minha relatoria que conheci parcialmente do agravo interno e, nessa extensão, neguei-lhe provimento, nos termos da seguinte ementa (fls. 1379-1380):
+PROCESSO CIVIL E CONSTITUCIONAL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO DO DISTRITO FEDERAL. REAJUSTE. TERCEIRA PARCELA NÃO IMPLEMENTADA. FALTA DE DOTAÇÃO ORÇAMENTÁRIA. INEFICÁCIA DA NORMA. APLICAÇÃO DA TESE FIXADA EM REPERCUSSÃO GERAL (TEMA N. 864). ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICADA. SUPOSTA VIOLAÇÃO AOS PRINCÍPIOS DO ART. 6º DA LINDB. IMPOSSIBILIDADE NA VIA ELEITA. HONORÁRIOS POR EQUIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. NÃO INFIRMADO OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO PAR CIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Nas razões do interno, não foi impugnado o fundamento da decisão agravada pertinente ao necessário reexame do conjunto fático-probatório e da alegada ofensa aos arts. 8º e 85, §§ 2º e 8º, do CPC/2015, o que faz, incidir, no ponto, o óbice da Súmula n. 182 do STJ.
+2. Não obstante o recurso especial alegue violação aos arts. 489, § 1º, III e IV, e 1.022, incisos I e II, do CPC/2015, não foi verificada omissão, contradição, obscuridade, tampouco a relevância da análise dessas questões para o caso concreto.
+3. "Os princípios contidos na Lei de Introdução às Normas do Direto Brasileiro (LINDB) não podem ser analisados em recurso especial, pois são institutos de natureza constitucional." (AgInt nos E Dcl no AREsp n. 2.487.387/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, D Je de 29/8/2024.) Assim, o acórdão recorrido decidiu a questão com lastro em fundamento eminentemente constitucional: Tema n. 864 da Repercussão Geral e art. 169, § 1º, da Constituição Federal.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+Sustenta a parte Embargante que o acórdão embargado "é omisso no que diz respeito às violações suscitadas quanto aos artigos 489, § 1º, III e IV, e 1.022, I e II, do CPC e artigo 6º, § 2º da LINDB, como se verá adiante" (fls. 1388-1389):
+6. No caso, contudo, o r. acórdão merece revisitação, porquanto se extrai que o TJDFT proferiu julgamento com base em erro de premissa de fato, motivo pelo qual a sua cassação, para que outro seja proferido, seria medida adequada e justa, ante o entendimento equivocado de que o Embargado não dispunha de dotação orçamentária para pagamento do reajuste conferido à categoria de servidores da saúde do Distrito Federal, que contempla cerca de 32.828 funcionários públicos, quando, na verdade, o reajuste aqui perquirido é aquele relativo à categoria de músicos da Orquestra Sinfônica do Teatro Nacional Cláudio Santoro, que possui apenas cerca de 74 músicos.
+7. Tal premissa é de suma importância, pois o julgamento contrário dos recursos foi baseado em um suposto impacto financeiro negativo de uma categoria (da saúde) que possui dezenas de milhares de servidores a mais do que aquela aqui perseguida (de músicos).
+ ..
+9. Ora, as premissas alçadas nesta ação e no apelo não possuem qualquer conexão com a relação jurídica supracitada, porque, em verdade, versam acerca do reajuste concedido à carreira de músicos do Distrito Federal, cuja legislação de regência (Lei nº 5.193/2013) e categoria (músicos) são completamente distintas.
+ ..
+11. Posto isto, há de ser reconhecida as violações concernentes aos artigos 489, § 1º, III e IV, e 1.022, I e II, do CPC, de modo que seja cassado o r. acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, para que outro seja proferido, viabilizando a análise do caso à luz do reajuste conferido à categoria de músicos da Orquestra Sinfônica do Teatro Nacional, com a plena entrega da prestação jurisdicional, por ser medida de justiça!
+Argumenta que a manutenção do aresto embargado implica afronta ao art. 6º da LINDB .
+Foi apresentada resposta ao recurso integrativo (fl. 1401-1403).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E CONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. SUPOSTA OFENSA A DISPOSITIVO CONSTITUCIONAL. VIA IMPRÓPRIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando norm ativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que,
+ ..  em relação à violação do art. 6º da LINDB, não há como acolher a irresignação, pois: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, com o advento da Constituição Federal de 1988, os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro foram alçados a status constitucional, motivo pelo qual esta Corte não pode apreciar eventual violação do referido preceito."
+Assim, tendo em vista o mencionado empecilho processual ao conhecimento do agravo interno anterior , insubsistente a alegação de que existem omissões no tocante à análise das matérias de mérito contidas no bojo do apelo nobre, tal como pretendido pela parte embargante.
+Reitere-se que "descabe falar em omissão do julgado sobre argumentos vinculados ao mérito do recurso se este nem mesmo ultrapassou a fase de admissibilidade" (EDcl no AgRg nos EDcl nos EAREsp n. 1.958.942/PR, relator Ministro Og Fernandes, Corte Especial, julgado em 7/3/2023, DJe de 15/3/2023).
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+Advirto, desde logo, que a eventual oposição de embargos de declaração com o único propósito de red iscutir o resultado do julgamento de mérito poderá ensejar a aplicação de multa, nos termos do art. 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
