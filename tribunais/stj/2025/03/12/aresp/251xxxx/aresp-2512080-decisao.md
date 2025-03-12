@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LÍGIA GALDINA DINIZ SEPE contra a decisão que inadmitiu o recurso especial em face de não servir de suporte à ofensa a dispositivos constitucionais, ausência de violação dos artigos, aplicação da Súmula n. 7 do STJ em relação à pena de litigância de má-fé e não demonstração da similitude entre os acórdãos recorrido e paradigma no tocante ao reclamo pela alínea c do permissivo constitucional.
+Nas suas razões, a agravante sustenta que a decisão de inadmissibilidade, limitou-se a um padrão utilizado pelo TJSP, que a questão é apenas de direito, não havendo necessidade de reexame de provas e que houve violação dos dispositivos arrolados no apelo especial.
+A contraminuta ao recurso foi apresentada às fls. 1.635-1643.
+O presente caso tem origem em embargos de terceiros c/c embargos à execução opostos pela parte ora recorrente que, consoante sentença de fls. 567-573, foram julgados extintos, sem resolução de mérito, com fundamento no art. 485, IV, do Código de Processo Civil.
+Interposta apelação cível (Processo n. 1009341-86.2020.8.26.0566), o Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso em acórdão assim mentado (fl. 649):
+EMBARGOS DE TERCEIRO. EXTINÇÃO, SEM JULGAMENTO DO MÉRITO (ART. 485, IV, NCPC). INTEMPESTIVIDADE. CONDENAÇÃO DOS EMBARGANTES NO PAGAMENTO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ (3% SOBRE O VALOR DA CAUSA). MANUTENÇÃO. A SUSPENSÃO DETERMINADA EM AÇÃO RESCISÓRIA FOI SOMENTE PARA O CUMPRIMENTO DE SENTENÇA, NÃO SUSPENDENDO O PRAZO PARA OPOSIÇÃO DE EMBARGOS DE TERCEIRO, AÇÃO DE NATUREZA AUTÔNOMA. CIÊNCIA INEQUÍVOCA DO LITÍGIO PELOS EMBARGANTES, OS QUAIS, REPRESENTADOS PELO MESMO ADVOGADO DO EXECUTADO, JÁ TINHAM OPOSTO ANTERIORES EMBARGOS DE TERCEIRO. NESSES MENCIONADOS EMBARGOS, FOI RECONHECIDA A FRAUDE NA VENDA DO IMÓVEL ORA EM DISCUSSÃO. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. ART. 80, II, NCPC. APELAÇÃO DOS EMBARGANTES NÃO PROVIDA.
+Não foram opostos embargos de declaração.
+No recurso especial, fundado no art. 105, III, a e c, da CF, a parte alega violação dos seguintes dispositivos:
+a) arts. 5º, LV, da CF, que assegura à recorrente o direito ao contraditório, à ampla defesa e ao devido processo legal;
+b) arts. 7º, 8º, 9º e 10 do CPC, que tratam do princípio do contraditório e da paridade de tratamento;
+c) arts. 80, 486, 488, 674, 675, parágrafo único, 676, 677, 678, 679, 681, 792, § 4º, do CPC, trazendo, com realce, esta argumentação (fl. 709):
+O v. Acórdão contrariou e negou vigência aos artigos 674 e 675 do Código de Processo Civil que permite a interposição dos Embargos de Terceiros em qualquer tempo do processo, enquanto não houver transitado em julgado a sentença, o Art. 80 do Código de Processo Civil por condenar a Recorrente em Litigância de má-fé, sem indicar qual foi a verdade dos fatos alterada pela Recorrente e, o art. 792, parágrafo 4º., aplicável somente aos casos de impugnação de fraude a execução, e os arts. 486 e 488 do CPC, porque não houve julgamento do mérito do processo e, portanto, não considerou a impugnação concreta dos direitos da Embargante que tratou expressamente de questões de mérito do processo e que deveria ter sido julgada em primeira e segunda instância.
+Aduz que a decisão de primeira instância e o acórdão recorrido não reconheceram o direito da agravante de ver o julgamento do mérito dos embargos de terceiros, que são tempestivos, e que a extinção do feito, sem julgamento do mérito, por alegação de intempestividade, contrariou a expressa determinação do art. 488 do CPC.
+Aduz que o Tribunal de origem divergiu da jurisprudência do STJ, que reconhece ao terceiro o direito de interposição de embargos até o trânsito em julgado da sentença.
+Requer o provimento para que se anule o acórdão e a sentença de primeira instância, determinando o retorno dos autos ao Tribunal de Justiça de São Paulo para julgamento do mérito dos embargos de terceiros.
+Nas contrarrazões, a parte recorrida assevera que o recurso especial não deve ser conhecido por ausência de prequestionamento sobre parte dos dispositivos arrolados e ante a necessidade de revolvimento fático da matéria, devendo ser mantida a decisão agravada que obstou a análise do recurso especial.
+Indeferida o pedido de tutela provisória, consoante decisão de fls. 1.693-1.694, e rejeitados os embargos de declaração opostos, a parte interpôs o agravo interno.
+É o relatório. Decido.
+A irresignação não reúne condições de êxito.
+Ressalte-se, desde já, que o recurso especial não comporta conhecimento quanto à arguição de contrariedade a normas constitucionais, por não ser a via adequada para tal propósito.
+Em relação à sugerida violação dos arts. 7º, 8º, 9º, 10, 486, 488, 674, 675, parágrafo único, 676, 677, 678, 679 e 681 do CPC, não há como acolher a pretensão recursal veiculada sobre tais dispositivos, uma vez que não foram objeto de análise no acórdão proferido na apelação cível, tampouco cuidou-se a parte ora recorrente de opor os embargos de declaração para provocar o pronunciamento da Corte de origem.
+Ausente, portanto, o indispensável prequestionamento, impõe-se a incidência das Súmulas n. 282 e 356 do STF.
+No tocante à suscitada ofensa aos arts. 80 e 792, § 4º, do CPC, faz-se primordial reproduzir do acórdão recorrido os trechos abaixo (fls. 655-657):
+III) Em que pese o inconformismo dos embargantes, correta a solução dada pela r. sentença, ao reconhecer a intempestividade dos embargos de terceiro, posto que inobservado o prazo do art. 792, §4º, do NCPC.
+Também deve ser mantida a condenação dos embargantes nas penas por litigância de má-fé, conforme os fundamentos a seguir expostos.
+Não vinga a alegação dos ora apelantes, no sentido de que o prazo para oposição dos embargos de terceiro estaria suspenso em razão de determinação do Des. Araldo Telles na ação rescisória nº 2100561-71.2018.8.26.0000.
+Isso porque, como bem destacou o MM. Juiz de origem, e como já decidido por esta 1ª Câmara Reservada de Direito Empresarial quando do julgamento da AP nº 1006880-15.2018.8.26.0566 (Rel. Des. Azuma Nishi, j. em 05/08/2020), o sobrestamento determinado foi somente do cumprimento de sentença, visando impedir o prosseguimento de atos de constrição em face da parte executada:
+ ..
+Anota-se, inclusive, que a mencionada apelação nº 1006880-15.2018.8.26.0566 refere-se a outros embargos de terceiro opostos pelos ora apelantes Ligia Galdina Diniz e Juliano Marcelo Sepe, também em 2018, envolvendo o mesmo imóvel matriculado sob o nº 7.795, e com as mesmas alegações ora deduzidas.
+Como se vê, a invocada suspensão do cumprimento de sentença determinada na ação rescisória, não impediu que outros embargos de terceiro opostos pelos ora apelantes tivesse prosseguimento, inclusive com o julgamento de mérito do mencionado recurso de apelação.
+ ..
+Trata-se, inclusive, de típica hipótese de aplicação do princípio do venire contra factum proprium, pois, quando intimados do cumprimento de sentença ora em apreço, já tinham oposto outros embargos de terceiro, envolvendo a mesma questão, sendo que a suspensão do cumprimento de sentença só foi determinado na rescisória em 06/08/2018.
+Não bastasse isso, também é relevante reiterar que tal suspensão foi exclusivamente para o incidente executivo, não abrangendo prazo processual para oposição de embargos de terceiro, ação de natureza autônoma.
+Tais circunstâncias, inclusive, corroboram a conclusão de que os ora apelantes litigam de má-fé (inclusive, anota-se que foram condenados no pagamento de multa por ato atentatório à dignidade de justiça no AI nº 2040974-79.2022.8.26.0000, 1ª Câmara Reservada de Direito Empresarial, Rel. Des. Alexandre Lazzarini, j. em 03/05/2022).
+Ao contrário do que alegam, os recorrentes tinham plena ciência do litígio, tanto que já tinham oposto outros embargos de terceiro, representados pelo mesmo advogado, que é irmão de Lígia, filho de Yeda, esta casada com o devedor Irineu Máximo Diniz.
+ ..
+É evidente, portanto, que tentam alterar a verdade dos fatos, a fim de que seus intempestivos embargos de terceiro fossem admitidos, configurando a prática de litigância de má-fé, nos termos do art. 80, II, do NCPC.
+Daí porque, também deve ser mantida a multa por litigância de má-fé.
+Nesse contexto, a revisão das conclusões fixadas pelo Tribunal a quo, de modo a acolher a teses recursais trazidas a esta instância superior pela parte agravante, tornar-se-ia necessário o reexame das premissas fático-processuais em que se emparam o acórdão da apelação cível, providência inviável em recurso especial em face da Súmula n. 7 do STJ.
+Esse óbice sumular, com realce ao reconhecimento da litigância de má-fé (art, 80, II, do CPC) pela instância de origem, revela-se de cabível e reiterada aplicação nos casos da espécie, segundo se extrai dos precedentes a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. MULTA POR LITIGÂNCIA DE MÁ-FÉ. ART. 80, II, DO CPC. ALTERAÇÃO DA VERDADE DOS FATOS. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ.
+1. Nos termos dos arts. 80, inciso II, e 81 do CPC, deve responder por litigância de má-fé a parte que alterar a verdade dos fatos.
+2. Modificar a conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do acervo fático- probatório dos autos, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7 do STJ.
+Agravo interno improvido. (AgInt no AREsp n. 2.623.213/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO CUMULADA COM REPETIÇÃO DE INDÉBITO. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+3. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da parte ora agravante, que alterou a verdade dos fatos com o intuito de locupletar-se ilicitamente.
+4. A modificação da conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 1.952.778/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2022, DJe de 5/4/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Fica prejudicado o exame do agravo interno de fls. 1.718-1.724, interposto contra a decisão de indeferimento do pedido de tutela provisória.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+EMENTA
