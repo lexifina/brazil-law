@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS DE AUTORIA E MATERIALIDADE. NECESSIDADE PARA O AVANÇO DAS INVESTIGAÇÕES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Diante da ausência de previsão legal de pedido de reconsideração e verificada a observância do prazo para interposição do recurso cabível contra decisão monocrática terminativa, em atenção ao princípio da instrumentalidade das formas, conheço do presente pedido como agravo regimental.
+2. A prisão temporária d o paciente foi decretada com fundamento na existência de indícios concretos de autoria e materialidade do crime de tráfico de entorpecentes, nos termos do art. 33 da Lei n. 11.343/06.
+3. A decisão impugnada demonstrou a necessidade da medida cautelar para a continuidade das investigações, evidenciando risco de interferência no curso do procedimento investigatório.
+4. A jurisprudência consolidada desta Corte não admite a substituição da prisão temporária por domiciliar apenas com fundamento na existência de filhos menores, sendo necessária a comprovação da imprescindibilidade dos cuidados paternos, o que não foi demonstrado no caso concreto.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de pedido de reconsideração formulado por JONATHAN FERNANDO ORTULAN contra decisão monocrática, que não conheceu da impetração, por entender que não havia constrangimento ilegal a ser sanado por esta Corte (e-STJ fls. 252/259).
+O agravante teve sua prisão temporária decretada no contexto de investigação por suposta prática do crime previsto no art. 33 da Lei n. 11.343/06. A decisão foi fundamentada na necessidade da custódia para o avanço das investigações, diante da existência de indícios de autoria e prova da materialidade, conforme apontado pelo juízo de primeiro grau e confirmado pelo Tribunal de Justiça do Estado de São Paulo.
+Nas razões recursais, sustenta o agravante a ausência de indícios concretos de autoria, alegando que o verdadeiro responsável pelos entorpecentes já teria se apresentado às autoridades e assumido a posse do material ilícito. Afirma, ainda, que não estava presente no local no momento da apreensão e que a droga foi encontrada em imóvel distinto de seu estabelecimento comercial (Adega), no qual exercia atividade lícita de venda de bebidas, possuindo alvará de funcionamento e notas fiscais regulares.
+Ressalta que possui residência fixa, ocupação lícita e filhos menores, argumentando que sua manutenção em liberdade não traria risco à investigação.
+Alega, ademais, que sua prisão se fundamenta em preconceito relacionado a antecedentes criminais passados, embora estivesse cumprindo todas as condições impostas em seu livramento condicional.
+Requer, assim, a reconsideração da decisão monocrática para a revogação da prisão temporária, com a eventual aplicação de medidas cautelares diversas previstas no art. 319 do CPP. Subsidiariamente, postula a conversão da prisão em prisão domiciliar, com base no art. 318, VI, do CPP.
+É o relatório.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS DE AUTORIA E MATERIALIDADE. NECESSIDADE PARA O AVANÇO DAS INVESTIGAÇÕES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Diante da ausência de previsão legal de pedido de reconsideração e verificada a observância do prazo para interposição do recurso cabível contra decisão monocrática terminativa, em atenção ao princípio da instrumentalidade das formas, conheço do presente pedido como agravo regimental.
+2. A prisão temporária d o paciente foi decretada com fundamento na existência de indícios concretos de autoria e materialidade do crime de tráfico de entorpecentes, nos termos do art. 33 da Lei n. 11.343/06.
+3. A decisão impugnada demonstrou a necessidade da medida cautelar para a continuidade das investigações, evidenciando risco de interferência no curso do procedimento investigatório.
+4. A jurisprudência consolidada desta Corte não admite a substituição da prisão temporária por domiciliar apenas com fundamento na existência de filhos menores, sendo necessária a comprovação da imprescindibilidade dos cuidados paternos, o que não foi demonstrado no caso concreto.
+5. Agravo regimental não provido.
+VOTO
+Primeiramente, diante da ausência de previsão legal de pedido de reconsideração e verificada a observância do prazo para interposição do recurso cabível contra decisão monocrática terminativa, em atenção ao princípio da instrumentalidade das formas, conheço do presente pedido como agravo regimental.
+Isso posto, a insurgência não merece prosperar.
+A decisão agravada corretamente não conheceu do habeas corpus, uma vez que a via eleita não se presta a substituir recurso próprio, conforme reiterada jurisprudência desta Corte Superior.
+No caso concreto, o paciente teve sua prisão temporária decretada em razão da existência de fundados indícios de autoria e materialidade do crime previsto no art. 33 da Lei n. 11.343/06. O juízo processante fundamentou a necessidade da custódia como meio de assegurar o avanço das investigações, diante das evidências de que o paciente estaria envolvido com a prática ilícita de tráfico de drogas.
+A decisão que determinou a prisão temporária baseou-se em elementos concretos, tais como: (i) apreensão de significativa quantidade de entorpecentes, incluindo 143 tabletes de maconha e barras de crack, além de arma de fogo com numeração suprimida, munições e balanças de precisão, indicando atividade ilícita organizada; (ii) presença de documentos do paciente nos locais onde as substâncias foram encontradas, reforçando os indícios de sua participação nos fatos; (iii) necessidade da prisão para viabilizar diligências investigativas ainda pendentes, conforme apontado pelas instâncias anteriores; e (iv) risco de interferência no curso da investigação, tendo em vista que, no momento do cumprimento do mandado de busca e apreensão, o paciente não foi localizado.
+A defesa alega que o verdadeiro responsável pelo material ilícito teria assumido a posse dos entorpecentes, mas tal circunstância, além de demandar aprofundado exame probatório, não afasta os demais elementos que justificaram a decretação da medida cautelar.
+Ademais, no tocante ao pedido de substituição da prisão temporária por prisão domiciliar, a jurisprudência desta Corte é firme no sentido de que a mera existência de filhos menores não justifica automaticamente a concessão do benefício, sendo imprescindível a comprovação de que o paciente é o único responsável pelos cuidados das crianças, o que não restou demonstrado nos autos.
+Assim, a decisão impugnada encontra-se devidamente fundamentada e alinhada à jurisprudência consolidada, não havendo ilegalidade flagrante ou manifesta coação ilegal a ser sanada nesta via processual.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
+É como voto.
