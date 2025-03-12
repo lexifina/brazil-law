@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAYKON PEREIRA GOBBO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferido na Apelação Criminal n. 0000400-59.2021.8.16.0130.
+Consta nos autos que o Paciente foi condenado como incurso no art. 35, caput, da Lei n. 11.343/2006, c.c. o art. 40, inciso IV, da Lei n. 11.343/2006, às penas de 4 (quatro) anos e 1 (um) mês de reclusão, em regime inicial semiaberto, e 816 (oitocentos e dezesseis) dias-multa (fl. 94).
+O Tribunal de origem deu parcial provimento ao recurso de apelação interposto pelo Paciente a fim de reduzir suas penas para 3 (três) anos e 6 (seis) meses de reclusão, em regime inicial aberto, mais 817 (oitocentos e dezessete) dias-multa, substituída a pena privativa de liberdade por sanções restritivas de direitos (fl. 51).
+Neste writ, a parte impetrante alega, de início, a nulidade dos relatórios de aparelho telefônico, aduzindo que (fl. 16):
+a forma como se deu a confecção dos relatórios de seq. 1.2, 105.14 e 105.16, referente a extração de conversas de aplicativo Whatsapp supostamente dos réus Alex, Alan e Romário, respectivamente, fere a cadeia de custódia disposta no artigo 158-A do CPP, devendo a prova ser considerada nula e desentranhada dos autos, nos termos do art. 157 do CPP, nos termos do art. 564, IV CPP, eis que evidente o prejuízo e constrangimento ilegal sofrido pelo Paciente, uma vez que sua condenação encontra-se pautada em provas nulas.
+Sustenta que não foram demonstrados os requisitos da estabilidade e permanência necessários para a configuração do delito de associação para o tráfico ilícito de drogas.
+Requer, desse modo, a concessão liminar da ordem para (fl. 27):
+A. Seja reconhecida a violação dos art. 157, 158-A, 158-C, art. 564, IV, todos do CPP, declarando a nulidade e o desentranhamento dos registros telefônicos ante a ausência de profissional capaz de realizar perícia;
+B. Seja reconhecida a violação ao art. 35 da Lei de Drogas, e consequentemente, seja o Paciente absolvido do delito de associação criminosa com fulcro no art. 386, VII do CPP e princípio do in dubio pro reo;
+Indeferida a liminar (fls. 99-100), vieram informações (fls. 108-145), ao que se seguiu a manifestação do Ministério Público Federal a fls. 147-153, opinando pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+De plano, em consulta ao site desta Corte, verifico que o AREsp nº 2292678/PR, interposto contra a decisão que não admitiu o Recurso Especial, apresentado contra o acórdão ora combatido, transitou em julgado na data de 03/04/2023 e a presente impetração foi ajuizada em 26/06/2023.
+Com efeito, pretende  o  impetrante  rediscutir  matéria  relacionada  à condenação transitada em julgado,  apresentando  verdadeira  revisão  criminal  travestida  de  habeas  corpus.
+Diante  dessa  situação,  não  deve  ser  conhecido  o  writ,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+De  fato,  nos  termos  do  art.  105,  inciso  I,  alínea "e",  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça,  originariamente,  as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados.
+Quanto ao ponto,  cito  os  seguintes  precedentes  das  Turmas  que  compõem  a  Terceira  Seção  desta  Corte:
+PENAL.  AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS  E  ASSOCIAÇÃO  PARA  O  MESMO  FIM.  NÃO  CONHECIMENTO  DO  WRIT  SUBSTITUTIVO  DE  REVISÃO  CRIMINAL.  SUPRESSÃO  DE  INSTÂNCIA.  IMPOSSIBILIDADE  DE  ANÁLISE  DA  MATÉRIA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O  Superior  Tribunal  de  Justiça,  em  diversas  ocasiões,  já  assentou  a  impossibilidade  de  impetração  de  habeas  corpus  em  substituição  à  revisão  criminal,  quando  já  transitada  em  julgado  a  condenação  do  réu,  compreendendo  "não  deve  ser  conhecido  o  writ  que  se  volta  contra  acórdão  condenatório  já  transitado  em  julgado,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte"  (HC  n.  730.555/SC,  relator  Ministro  Olindo  Menezes,  Desembargador  Convocado  do  TRF  1ª  Região,  Sexta  Turma,  julgado  em  9/8/2022,  DJe  de  15/8/2022).  Na  hipótese  dos  autos,  a  condenação  do  agravante  transitou  em  julgado  de  há  muito,  com  baixa  definitiva  ao  Juízo  de  origem,  tendo  o  acórdão  sido  proferido  em  março  de  2013.
+ ..
+4.  Agravo  regimental  desprovido.
+(AgRg  no  HC  n.  846.952/RJ,  relator  Ministro  ANTONIO  SALDANHA  PALHEIRO,  Sexta  Turma,  julgado  em  27/11/2023,  DJe  de  30/11/2023) .
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  DECISÃO  MONOCRÁTICA.  REGIME  FECHADO.  IMPETRAÇÃO  CONTRA  SENTENÇA  COM  TRÂNSITO  EM  JULGADO.  IMPOSSIBILIDADE.  AUSÊNCIA  DE  NOVOS  ARGUMENTOS  APTOS  A  DESCONSTITUIR  A  DECISÃO  AGRAVADA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+I  -  É  assente  nesta  Corte  Superior  de  Justiça  que  o  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  sob  pena  de  ser  mantida  a  decisão  vergastada  pelos  próprios  fundamentos.
+II  -  "O  exame  das  alegações  dos  impetrantes  se  mostra  processualmente  inviável,  uma  vez  que  transmuta  o  habeas  corpus  em  sucedâneo  de  revisão  criminal,  configurando,  assim,  usurpação  da  competência  do  Tribunal  de  origem,  nos  termos  dos  arts.  105,  I,  "e"  e  108,  I,  "b",  ambos  da  Constituição  Federal"  (HC  n.  483.065/SP,  Quinta  Turma,  Rel.  Min.  Ribeiro  Dantas,  DJe  de  11/11/2019).
+III  -  Ao  Superior  Tribunal  de  Justiça  é  vedado  apreciar  mandamus  impetrado  contra  sentença  transitada  em  julgado  na  instância  ordinária,  pois,  nesse  caso,  haveria  usurpação  da  competência  do  Tribunal  de  origem,  nos  termos  dos  artigos  105,  inciso  I,  alínea  "e",  e  artigo  108,  inciso  I,  alínea  "b",  ambos  da  Constituição  da  República.  Precedentes.
+Agravo  regimental  desprovido.
+(AgRg  no  HC  n.  832.975/PR,  relator  Ministro  MESSOD  AZULAY  NETO,  Quinta  Turma,  julgado  em  15/8/2023,  DJe  de  22/8/2023).
+A  melhor  orientação,  portanto,  é  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado - o que não ocorrera na espécie.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
