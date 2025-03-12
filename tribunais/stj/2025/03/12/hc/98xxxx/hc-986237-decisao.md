@@ -1,0 +1,16 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Lucas Correia Brito - condenado por tráfico de drogas a 9 anos de reclusão, em regime inicial fechado, e ao pagamento de 900 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 11/26), comporta, de pronto, parcial acolhimento.
+Com efeito, busca a impetração a absolvição em razão da ilicitude na prova obtida com a abordagem policial ou, subsidiariamente, reduzir a fração da reincidência para 1/6 - referente à condenação proferida na Ação Penal n. 1502002-63.2020.8.26.0228 (fls. 27/40 - da 14ª Vara Criminal da comarca de São Paulo/SP - Foro Central Criminal Barra Funda).
+O presente writ é inadmissível, pois a via eleita foi indevidamente utilizada como forma de revisar, mais uma vez, a condenação imposta ao paciente após regular e suficiente instrução probatória.
+Além disso, o acórdão a quo não trouxe discussão a respeito da suposta nulidade decorrente da abordagem policial, de modo que inviável a sua análise nesta Corte Superior, sob pena de supressão de instância.
+Contudo, verifica-se a presença de ilegalidade flagrante a justificar a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+No caso, há ilegalidade na segunda fase da dosimetria, porque o acórdão hostilizado não apresentou fundamentação suficiente a justificar a fração de 1/5 pela incidência da reincidência, uma vez que a jurisprudência do STJ, no julgamento do Tema Repetitivo 1.172, estabelece que a reincidência específica como único fundamento só justifica o agravamento da pena em fração superior a 1/6 em casos excepcionais e com fundamentação concreta (HC n. 775.399/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 11/11/2024).
+Necessário, então, redimensionar a pena corporal imposta ao paciente Lucas: na primeira fase, mantida a pena-base fixada em 7 anos e 6 meses de reclusão, e 750 dias-multa (fl. 22). Na segunda fase, aplica-se a agravante da reincidência em 1/6, passando a reprimenda para 8 anos e 9 meses de reclusão, e 875 dias-multa. Na terceira fase, sem alterações (fl. 91), tem-se a pena definitiva em 8 anos e 9 meses de reclusão, e 875 dias-multa.
+Finalmente, considerando a pena fixada e a reincidência do agente, não há ilegalidade na fixação do regime inicial fechado.
+Em razão disso, concedo liminarmente a ordem impetrada, em parte, a fim de redimensionar a pena imposta ao paciente Lucas Correia Brito para 8 anos e 9 meses de reclusão, e 875 dias-multa, mantido o regime inicial fechado, referente à condenação proferida na Ação Penal n. 1502002-63.2020.8.26.0228 (da 14ª Vara Criminal da comarca de São Paulo/SP - Foro Central Criminal Barra Funda).
+Comunique-se, com urgência, ao Juízo competente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS . TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. EXISTÊNCIA, ENTRETANTO, DE COAÇÃO ILEGAL MANIFESTA. ILEGALIDADE NO FLAGRANTE. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA DA PENA. REVISÃO PARCIAL. ILEGALIDADE NA AGRAVANTE DE REINCIDÊNCIA.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
