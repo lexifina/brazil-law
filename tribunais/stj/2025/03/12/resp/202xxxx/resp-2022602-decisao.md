@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLAUDIO ANOR POTTER e OUTROS, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 2.657):
+AÇÃO CIVIL PÚBLICA. RETRIBUIÇÃO POR TITULAÇÃO. PROGRESSÃO FUNCIONAL. SUSTAÇÃO. DIPLOMA EXPEDIDO EM UNIVERSIDADE ESTRANGEIRA. NECESSIDADE DE REVALIDAÇÃO. PRESCRIÇÃO. DECADÊNCIA. QUESTÕES JÁ DECIDIDAS AO LONGO DO PROCESSO. DEVOLUÇÃO DE VALORES. IMPOSSIBILIDADE.
+1. Algumas questões decididas em sede de agravo de instrumento, consoante se infere, por exemplo, do disposto no artigo 503 do CPC, podem ter contornos de definitividade ou "com força de lei", não podendo voltar a ser discutidas em fases posteriores do processo. Precedentes.
+2. Deve ser afastada a obrigação de devolução dos valores percebidos, pois o contexto dos autos indica não ter havido má-fé por parte dos servidores. Precedentes.
+3. Julgamento em consonância com o artigo 942 do CPC. Apelação parcialmente provida.
+A esse acórdão foram opostos embargos de declaração, os quais restaram parcialmente acolhidos, sem efeitos modificativos (fls. 2.725/2.732).
+Sustenta a parte recorrente, em preliminar, que embora seus "embargos  tenham sido  parcialmente acolhidos para fins de prequestionamento, subsistem as omissões neles apontadas, conforme estabelece o artigo 489, parágrafo 1º, incisos I, III, IV e V, VI, do Código de Processo Civil, de modo que, caso a matéria não seja considerada suficientemente prequestionada, deve ser reconhecida a nulidade do acórdão recorrido, com a devida baixa dos autos ao Tribunal de origem para novo julgamento dos aclaratórios" (fl. 2.757).
+Lado outro, aponta contrariedade aos seguintes dispositivos legais:
+a) art. 21 da Lei n. 4.717/1965, ao argumento de que, como reconhecido pelo próprio MPF, a subjacente ação civil pública não se volta contra um suposto ato de improbidade administrativa, motivo pelo qual, "consequentemente, não há de falar em imprescritibilidade" (fl. 2.758).
+E complementa (fls. 2.761/2.762):
+Assim considerando, ao afastar, por maioria, a incidência do prazo prescricional de 5 (cinco) anos para Ação Civil Pública que trata de mero ilícito civil, o acordão recorrido destoa da jurisprudência do Superior Tribunal de Justiça no sentido de que "Ressalvada a hipótese de ressarcimento de dano ao erário fundado em ato de improbidade, prescreve em cinco anos a ação civil pública disciplinada na Lei 7.347/85", o que também já foi decidido em sede de repercussão geral no Tema 666/STF, e, com isso, nega vigência ao artigo 21 da Lei nº 4.717/65, que deve ser aplicado por analogia em casos como o presente.
+Uma vez que a Ação Civil Pública foi ajuizada após o decurso de 5 (cinco) anos da concessão da Retribuição por Titulação e/ou Progressão Funcional, já se encontrava consumado o prazo prescricional, devendo, com fundamento no artigo 21 da Lei nº 4.717/65, a ação ser extinta, com exame de mérito.
+b) art. 2º da Lei n. 9.784/1999, sob a assertiva de que (fl. 2.763):
+No caso destes autos, discute-se ato de validação de diplomas que ocorreu no ano de 2005, sendo que o pagamento da Retribuição por Titulação, que há mais de 16 anos se encontra no contracheque de alguns dos recorrentes, pode representar cerca de 50% de suas respectivas remunerações como professores. Há, portanto, uma clara ruptura na segurança jurídica dos autores e na confiança legítima destes para com a Administração, exatamente pelo decurso de tão prolongado período de tempo em que o Poder Público se mantive inerte.
+Deve-se, portanto, diante da moldura fática delineada nas instâncias ordinárias, acolher a tese de irredutibilidade dos vencimentos dos recorrentes, para preservação da segurança jurídica prevista no artigo 2º da Lei nº 9.784/99, haja vista que a decisão de primeiro grau, ao determinar o fim do pagamento da Retribuição por Titulação, suprimiu quase 50% da remuneração dos apelantes, prejudicando-os na subsistência de suas famílias.
+c) art. 54 da Lei n. 9.784/1999, tendo em vista que a pretensão deduzida pelo Parquet federal já foi alcançada pela decadência. Isso porque "o reconhecimento do diploma se deu no ano de 2005, ou seja, há mais de 10 anos de sua primeira impugnação, lembrando que a RT foi deferida em fevereiro de 2009 por força de lei, há mais de 05 anos após a abertura do PAD" (fl. 2.764).
+Requer, assim, o provimento do recurso especial.
+Contrarrazões às fls. 2.836/2.858.
+Recurso admitido na origem (fls. 2.996/3.001).
+O Ministério Público Federal, em parecer da ilustre Subprocuradora-Geral da República DENISE VINCI TULIO, opinou pelo parcial conhecimento do apelo nobre e, nessa extensão, pelo seu desprovimento (fls. 3.209/3.215).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Do compulsar dos autos, percebe-se que o recurso especial do Instituto Federal de Educação, Ciência e Tecnologia, interposto às fls. 2.795/2.812, foi sobrestado na origem, conforme determina o art. 1.030, III, do CPC, por tratar de questão jurídica contida no Tema n. 692/STJ, que será apreciado conforme o rito dos recursos especiais repetitivos.
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, acrescida pelo sobrestamento na origem, é o caso de se ter por prejudicado o exame da presente irresignação no momento.
+ANTE O EXPOSTO, julgo prejudicada a análise do recurso especial interposto por CLAUDIO ANOR POTTER e OUTROS, que será apreciado oportunamente, após a solução do Tema n. 692/STJ .
+Publique-se.
+EMENTA
