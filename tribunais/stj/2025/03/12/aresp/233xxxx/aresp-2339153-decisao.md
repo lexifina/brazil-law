@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por OI S.A. - EM RECUPERACAO JUDICIAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o recurso especial foi interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 474):
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. SUBSCRIÇÃO DEFICITÁRIA DAS AÇÕES DE TELEFONIA. FASE DE CUMPRIMENTO DE SENTENÇA. MAGISTRADO DE ORIGEM QUE JULGOU EXTINTA A EXECUÇÃO. INSURGÊNCIA DA EXECUTADA/IMPUGNANTE.
+ARGUIÇÃO DE QUE O CONTADOR JUDICIAL UTILIZOU VALOR PATRIMONIAL DA AÇÃO (VPA) DIVULGADO EM MOMENTO DISTINTO AO DA DATA DA ASSINATURA DO CONTRATO CELEBRADO ENTRE AS PARTES. INSURGÊNCIA QUE NÃO MERECE PROSPERAR. EMPRESA TELEBRÁS. BALANCETE TRIMESTRAL. EXPERT QUE EMPREGOU CORRETAMENTE O VALOR VIGENTE NO MÊS DA CONTRATAÇÃO.
+CONTRATO CELEBRADO EM DATA ANTERIOR A 23-3-1990. ALEGADA IMPOSSIBILIDADE DE SER INCLUÍDO O DESDOBRAMENTO ACIONÁRIO DA TELEFONIA FIXA. TESE INSUBSISTENTE. AINDA QUE O CONTRATO TENHA SIDO PACTUADO ANTERIORMENTE A 23-3-1990, FAZ JUS O ACIONISTA ÀS VERBAS REFERENTES ÀS TRANSFORMAÇÕES ACIONÁRIAS OCORRIDAS EM MOMENTO POSTERIOR, CONFORME PREVISTO NA ASSEMBLEIA GERAL DA TELEBRÁS. PRECEDENTE DESTA CÂMARA. RECURSO NÃO PROVIDO NO PONTO.
+INSURGÊNCIAS RELACIONADAS ÀS TRANSFORMAÇÕES ACIONÁRIAS, A VALORAÇÃO DAS AÇÕES E AOS DIVIDENDOS DA EMPRESA TELEBRÁS. ALEGAÇÕES GENÉRICAS QUE NÃO MERECEM PROSPERAR. LEGITIMIDADE DA RECORRENTE, ADEMAIS, QUE FOI RECONHECIDA NA FASE DE CONHECIMENTO DA AÇÃO. INVIABILIDADE DE REDISCUSSÃO, SOB PENA DE VIOLAÇÃO À COISA JULGADA. PRECEDENTE DESTA CORTE DE JUSTIÇA.
+PRETENSÃO DE QUE A INCIDÊNCIA DOS DIVIDENDOS SEJA LIMITADA. ENTENDIMENTO FIXADO NO JULGAMENTO DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N. 1.301.989/RS, NO SENTIDO DE QUE O TERMO FINAL É A DATA DO TRÂNSITO EM JULGADO DA AÇÃO DE CONHECIMENTO. LIMITAÇÃO TEMPORAL QUE, IN CASU, FOI OBSERVADA. TESE QUE NÃO COMPORTA GUARIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 515-518).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 502, 503 e 508 do CPC, por entender que o Tribunal de origem afrontou a coisa julgada ao determinar a utilização do VPA do trimestre anterior à data da integralização do contrato, contrariando o título executivo que determinou a utilização do VPA divulgado no balancete da data da assinatura.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 563-564), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 580-584).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação do art. 1.022 do CPC
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, manifestou-se de forma clara e suficiente quanto à regularidade dos cálculos elaborados no que se refere ao valor patrimonial da ação (VPA) previsto para o mês de celebração do contrato (fl. 477):
+De início, pondera a recorrente que a contadoria do juízo, "de forma totalmente equivocada considera-se o Valor Patrimonial da Ação (VPA) no valor de Cz$ 3,563, VPA esse referente ao primeiro trimestre de 1987, ou seja, utiliza o VPA apurado no trimestre anterior da efetiva assinatura, critério que não atende a decisão liquidanda, tampouco a orientação consagrada no egrégio Superior Tribunal de Justiça, visto que o VPA na data da assinatura, conforme balancete mensal correspondia a Cz$ 5,942" (evento 83, doc. 1, p. 7, autos de origem).
+Pois bem.
+No caso ora em análise, verifica-se que o contrato discutido nos autos foi celebrado em 27/5/1987 e, ao confeccionar o cálculo dos valores devidos, o contador judicial utilizou o Valor Patrimonial da Ação (VPA) equivalente a Cz$ 3,563000 (evento 32, doc. 62, autos de origem).
+Convém anotar, entretanto, que os balancetes da empresa Telebrás, emitente das ações, eram divulgados de forma trimestral, de sorte que o balancete vigente na data da celebração do contrato hostilizado (5/1987), correspondente a Cz$ 3,563000, englobou os meses de março/abril/maio daquele ano, consoante se infere da "Planilha para cálculo de diferença de subscrição de ações de Telefonia - BRT", elaborada pela Assessoria de Custas da Corregedoria-Geral de Justiça.
+Assim, não se verifica a alegada incongruência, porquanto, como visto, o contador judicial utilizou, na composição do VPA, o balancete vigente na data da assinatura da avença, em observância ao disposto no título judicial exequendo.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+- Do reexame de fatos e provas. Súmula n. 7/STJ
+Ademais, quanto à alegada violação dos arts. 502, 503 e 508 do CPC e à ofensa à coisa julgada em decorrência de suposta incorreção do valor patrimonial da ação aplicado, o Tribunal de origem manifestou-se nos seguintes termos (fl. 477):
+De início, pondera a recorrente que a contadoria do juízo, "de forma totalmente equivocada considera-se o Valor Patrimonial da Ação (VPA) no valor de Cz$ 3,563, VPA esse referente ao primeiro trimestre de 1987, ou seja, utiliza o VPA apurado no trimestre anterior da efetiva assinatura, critério que não atende a decisão liquidanda, tampouco a orientação consagrada no egrégio Superior Tribunal de Justiça, visto que o VPA na data da assinatura, conforme balancete mensal correspondia a Cz$ 5,942" (evento 83, doc. 1, p. 7, autos de origem).
+Pois bem.
+No caso ora em análise, verifica-se que o contrato discutido nos autos foi celebrado em 27/5/1987 e, ao confeccionar o cálculo dos valores devidos, o contador judicial utilizou o Valor Patrimonial da Ação (VPA) equivalente a Cz$ 3,563000 (evento 32, doc. 62, autos de origem).
+Convém anotar, entretanto, que os balancetes da empresa Telebrás, emitente das ações, eram divulgados de forma trimestral, de sorte que o balancete vigente na data da celebração do contrato hostilizado (5/1987), correspondente a Cz$ 3,563000, englobou os meses de março/abril/maio daquele ano, consoante se infere da "Planilha para cálculo de diferença de subscrição de ações de Telefonia - BRT", elaborada pela Assessoria de Custas da Corregedoria-Geral de Justiça.
+Assim, não se verifica a alegada incongruência, porquanto, como visto, o contador judicial utilizou, na composição do VPA, o balancete vigente na data da assinatura da avença, em observância ao disposto no título judicial exequendo.
+Alterar o decidido no acórdão impugnado, no que se refere à ofensa à coisa julgada e à regularidade do VPA adotado nos cálculos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ. Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 554 DO CPC/73) - TELEFONIA - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE PROVEU O AGRAVO REGIMENTAL PARA CONHECER DO AGRAVO E, DE PLANO, NEGAR PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA DA AGRAVANTE.
+1. Inviável o acolhimento da pretensão do recorrente no sentido de alterar o critério para o cálculo do valor patrimonial das ações, na medida em que importaria violação ao princípio da imutabilidade da coisa julgada. Precedentes.
+2. O recurso especial não é instrumento adequado para o reexame de provas, notadamente para verificar se os cálculos elaborados no procedimento de cumprimento de sentença incorreram em excesso frente ao título executivo formado. Incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AgRg no AREsp n. 651.012/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/5/2018, DJe de 28/5/2018, grifo meu.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+- Honorários recursais
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intime-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTENTE. COISA JULGADA. VALOR PATRIMONIAL DA AÇÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
