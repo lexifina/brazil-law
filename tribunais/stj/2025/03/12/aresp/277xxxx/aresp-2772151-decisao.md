@@ -1,0 +1,50 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por BRF S.A., com fundamento na incidência  da Súmula  7 do STJ, bem como em razão da análise de divergência jurisprudencial restar prejudicada.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois o aresto violou os arts. 85, 86, 371 e 479 do CPC; e o art. 20, §1º, da Lei Complementar 87/1996.
+Assevera, ainda, que a análise da controvérsia não pressupõe reexame de prova, mas sua correta valoração jurídica, assim como aduz que a contrariedade à lei federal foi evidenciada pela divergência com as soluções conferidas pelo Superior Tribunal de Justiça
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+De início, extrai-se dos autos que a agravante busca, preliminarmente, a anulação do acórdão recorrido, a fim de que se determine a remessa dos autos ao Tribunal a quo para adequada apreciação da prova pericial.
+Sucessivamente, pugna pela reforma do acórdão recorrido, reconhecendo o direito de manter os créditos relativos aos insumos intermediários apurados pela perícia como indispensáveis ao exercício de sua atividade e, consequentemente, a anulação do Auto de Lançamento que consubstancia o crédito inscrito em dívida ativa.
+1 - Da incidência da Súmula 7 do STJ
+Nesse contexto, a despeito de a agravante sustentar pela violação aos arts. 371 e 479 do CPC e o art. 20, §1º, da Lei Complementar 87/1996, consoante se depreende da leitura dos autos, o Tribunal a quo concluiu, fundamentadamente, acerca do afastamento do direito aos créditos de ICMS com base na prova pericial, em observância à documentação acostada nos autos.
+É certo que o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Dessa forma, uma vez que, no presente caso, a inversão do julgado implicaria, necessariamente, o reexame do acervo fático-probatório dos autos, torna-se inviável a via escolhida.
+Em situações análogas esta Corte Superior decidiu:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. PIS E COFINS. DESCONTOS INCONDICIONAIS. REVALORAÇÃO DE PROVA PERICIAL. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CORTE DE ORIGEM ENTENDEU OS DESCONTOS COMO CONDICIONADOS. RECURSO NÃO PROVIDO.
+ ..  4. Quanto à suposta contrariedade aos arts. 371 e 479 do CPC/2015, verifica-se que não pode o STJ proceder à revaloração da prova pericial, porquanto tal postura demandaria revolvimento do acervo probatório dos autos. Desiderato não permitido ante o óbice da Súmula 7/STJ. Nesse sentido: AgInt no AREsp 1.919.353/SP, Rel. Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, DJe de 18.3.2022.
+5. Ademais, esta Corte Superior possui orientação de que o julgador não está adstrito à conclusão do laudo pericial, em atenção ao princípio do livre convencimento do juiz. Cuida-se de valoração da prova, prevalecendo, em última análise, a inteligência ministrada pelo Tribunal de origem. Como dito acima, impossível a sua revaloração por esta Corte Superior, por incidir a Súmula 7 do STJ.
+A propósito: AgRg no AREsp 8.590/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º.7.2011; REsp 1.004.078/SE, Rel. Ministro Fernando Gonçalves, Quarta Turma, DJe 19.5.2008; e AgRg no REsp 439.574/MG, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, DJ 5.5.2003, p. 307.
+ ..  7. Agravo Interno não provido.
+(AgInt no REsp n. 2.088.921/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023. - grifo nosso)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. DIVERGÊNCIAS QUANTO À APURAÇÃO DE CRÉDITOS DO ICMS. INCIDÊNCIA DAS SÚMULAS N. 7/STJ, SÚMULA N. 280/STJ E SÚMULA N. 211/STJ.
+ ..  II - Quanto à matéria de fundo, lastreada em laudo pericial, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.
+Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - O fato das instâncias ordinárias, em determinados momentos afirmarem pela insuficiência das provas, está em consonância com os princípios do processo civil, porquanto caberia ao autor comprovar o fato constitutivo de seu direito, sob pena de, mesmo após o regular trâmite instrutória (assegurada a ampla defesa e contraditório), o juiz decidir conforme o art. 371 do CPC/2015, a depender do convencimento do magistrado. O julgamento ocorreu secudum eventum probationis.
+ ..  V - Agravo interno improvido.
+(AgInt no AREsp n. 2.112.006/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023. - grifo nosso)
+Do mesmo modo, no que tange à alegada violação aos arts. 85 e 86 do CPC, denota-se que para se à conclusão acerca dos parâmetros de compatibilidade para a fixação da verba sucumbencial, faz-se imperiosa a análise dos fatos e circunstâncias relacionados à matéria.
+Assim sendo, observa-se que a alteração da conclusão do Tribunal a quo, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+A propósito :
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. DEFINIÇÃO DA LEI APLICÁVEL. LEGISLAÇÃO VIGENTE QUANDO DA PROLAÇÃO DA SENTENÇA. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS. DESCABIMENTO. QUANTUM FIXADO CONSOANTE APRECIAÇÃO EQUITATIVA DO MAGISTRADO A QUO. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..  7. O quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+8. Em situações excepcionalíssimas, o STJ afasta a incidência do referido enunciado sumular, para permitir a revisão dos honorários advocatícios quando o montante arbitrado se revelar manifestamente ínfimo ou exorbitante.
+9. O Tribunal de origem consignou: "Além disso, o montante arbitrado em R$ 5.000,00 (cinco mil reais) é razoável e proporcional à natureza da causa (exclusão por ilegitimidade passiva) e ao tempo de tramitação do feito (ajuizamento em 2015)." (fl.919, e-STJ).
+10. Considerando as circunstâncias do acórdão recorrido, não se verifica excepcionalidade a justificar a alteração do quantum fixado. Incidência da Súmula 7 do STJ.
+11. Agravo Interno não provido.
+(AgInt no REsp n. 1.731.260/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023. - grifo nosso)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 557, CAPUT, DO CPC. QUESTÃO SUPERADA PELO PRONUNCIAMENTO DO ÓRGÃO COLEGIADO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CANCELAMENTO DA CERTIDÃO DA DÍVIDA ATIVA. PEDIDO DE DESISTÊNCIA DA EXECUÇÃO FISCAL HOMOLOGADO. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE MAJORAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..  IV. Em princípio, descabe ao STJ, à luz do CPC/73, revisar valores de sucumbência fixados nas instâncias ordinárias, pois eles são arbitrados em consideração àquilo que se desenvolveu no processo e mediante juízo de equidade, circunstâncias que não podem ser reavaliadas nesta Corte, nos termos da Súmula 7/STJ.
+V. Na hipótese, o Tribunal de origem, atento às circunstâncias a que se refere o art. 20, § 4º, do CPC/73, entendeu que a verba honorária foi fixada de forma razoável e proporcional, considerando sobretudo o trabalho desenvolvido pelos advogados da parte e a baixa complexidade da demanda. Tal contexto não autoriza a majoração pretendida, de maneira que não há como acolher a pretensão da recorrente, em face da Súmula 7/STJ. Nesse sentido: STJ, AgRg no AREsp 532.550/RJ, Rel. p/ acórdão Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2015; AgRg no AgRg no REsp 1.451.336/SP, Rel. p/ acórdão Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 1º/07/2015.
+VI. Agravo Regimental improvido.
+(AgRg no REsp n. 1.566.885/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2016, DJe de 25/5/2016. - grifo nosso)
+Em vista disso: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+2 - Da divergência jurisprudencial
+Por fim, resta claro que a análise do dissídio jurisprudencial se encontra prejudicada, tendo em vista que o óbice aplicado ao recurso especial pela alínea "a" prejudica o exame do especial manejado pela alínea "c" do permissivo constitucional para questionar a mesma matéria.
+Não é outro o entendimento desta Turma de direito público: AgInt nos EDcl no AREsp 2.152.218/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/11/2023, DJe de 10/11/2023; AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023; e AgInt no AREsp 2.079.504/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 10% (dez por cento), com fundamento no art. 85, § 11, do CPC.
+Configurada a sucumbência recíproca do art. 86 do CPC, as custas e o valor total dos honorários advocatícios, incluindo o valor dos honorários recursais, deverão ser suportados na proporção do decaimento das partes, apurando-se os respectivos valores em liquidação, vedada a compensação, nos termos do art. 85, § 14, do CPC
+Intimem-se.
+EMENTA
