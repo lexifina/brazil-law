@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MUNICÍPIO DE CARAPICUÍBA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 18):
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL IPTU - Exercícios de 2.016 a 2.019 - Objeção prévia de executividade acolhida - Isenção tributária concedida por lei municipal - Imunidade recíproca reconhecida em relação ao IPTU - CF, art. 150, VI, letra "a", parágrafos 2º e 3º - HONORÁRIOS ADVOCATÍCIOS - Decisão que não observou o disposto no art. 85, §§ 2º e 3º, do CPC - Valor que se mostra exagerado diante da simplicidade da matéria controvertida e do pequeno valor da causa - Recurso provido, em parte.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 69):
+EMBARGOS DE DECLARAÇÃO - ART. 1.022, CPC - Inexistência de omissão, contradição, obscuridade ou erro material, que desvirtua a natureza integrativa e esclarecedora do recurso - Embargos rejeitados.
+Em seu recurso especial, às fls. 29-38, a recorrente sustenta violação ao art . 179 do CTN, ao argumento de que "a alegação de isenção veio desacompanhada de qualquer comprovação de pedido administrativo de isenção realizado pela executada para o imóvel em questão."
+Além disso, assevera que o acórdão recorrido violou o art. 373, I e II, do CPC, na medida em que "deixou de incumbir ao Executado prova de seu direito à isenção como fato impeditivo, modificativo ou extintivo do direito do Exequente em cobrar o IPTU" (fl. 37).
+Aduz, ainda, contrariedade ao enunciado da Súmula 393/STJ considerando que a exceção de pré-executividade não poderia ser o instrumento processual para análise de isenção debatida nos autos, pela necessidade de dilação probatória (fl. 35).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 94-95):
+O recurso não merece trânsito.
+Isso porque os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma legal enunciada, isso sem falar que rever a posição da Turma Julgadora importaria em reexame de elementos fáticos, bem como na análise de direito local. Incidindo, respectivamente, as Súmulas nº 7 do Superior Tribunal de Justiça e nº 280 do Supremo Tribunal Federal.
+Impende registrar, por derradeiro, que recurso especial interposto com fulcro no art. 105, III, "a", da Carta Magna não se presta à análise de ofensa à Súmula apontada nas razões, vez que referida alínea tem por fundamento principal a contrariedade ou negativa de vigência de tratado ou lei federal. Incide, portanto, o óbice da Súmula 518 da Corte Superior.
+Em seu agravo, às fls. 98-104, a agravante defende a não aplicação da Súmula 7 justamente porque o debate "cinge-se exatamente na ausência de provas quanto à isenção tributária e o cerceamento de defesa do Município, vez que a Municipalidade se viu impedida de produzir demais provas nos estreitos lindes da exceção de pré- executividade manejada pela Companhia Recorrida em primeira instância" (fl. 101).
+Sustenta que o recurso especial não debate ofensa a direito local, mas sim a violação de artigos do Código Tributário Nacional e do Código de Processo Civil, afastando a aplicação da Súmula 280 do STF (fl. 103).
+Por fim, esclarece que, a alegação de contrariedade à Súmula 393/STJ, "se presta a reforçar a violação dos artigos 373, I e II, do CPC" (fl. 103).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a agravante não impugnou suficientemente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em quatro fundamentos distintos: (i) - deficiência na fundamentação para infirmar as conclusões do acórdão impugnado, situação a atrair a incidência d o enunciado 284 da Súmula do STF à espécie, por analogia; (ii) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório; (iii) - incidência, por analogia, do enunciado 280 da Súmula do STF, tendo em vista não caber recurso especial por ofensa a direito local; e (iv) - incidência do enunciado 518 da Súmula do STJ, uma vez que não é cabível recurso especial fundado em alegada violação de enunciado de Súmula.
+Entretanto, em sede de agravo em recurso especial a recorrente deixou de infirmar especificamente e a contento, todos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, a agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceitu am os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+TRIBUTÁRIO  E  PROCESSO  CIVIL.  AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUN DAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
