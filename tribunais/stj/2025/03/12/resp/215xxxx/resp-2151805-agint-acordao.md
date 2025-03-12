@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. ALIENAÇÃO DE VEÍCULO. INFRAÇÕES DE TRÂNSITO. RESPONSABILIDADE SOLIDÁRIA DO ANTIGO PROPRIETÁRIO. ART. 134 DO CTB. RECURSO ESPECIAL PARCIALMENTE PROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência deste Superior Tribunal, a não comunicação da transferência de propriedade do veículo ao órgão competente atrai a responsabilidade solidária do alienante por eventuais infrações de trânsito cometidas após a tradição, nos termos do art. 134 do CTB. O aludido entendimento somente pode ser mitigado na situação descrita na Súmula 585 do STJ: "A responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação."
+2. O Tribunal a quo divergiu da orientação jurisprudencial do STJ ao reconhecer a impossibilidade de imputar ao antigo proprietário a responsabilidade pelas infrações de trânsito cometidas após a alienação do veículo. Portanto, a responsabilidade solidária do alienante deve perdurar até o momento da comunicação da venda ao respectivo órgão de trânsito. Precedentes do STJ.
+3.  Agravo  interno  des provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por WAGNER PINTOR RODRIGUES contra  a  decisão  que  deu parcial provimento ao recurso especial, em razão de o acórdão recorrido estar em dissonância com a jurisprudência do STJ, no sentido de reconhecer a possibilidade de imputar ao antigo proprietário a responsabilidade pelas infrações de trânsito posteriores à venda do veículo.
+Argumenta  a  parte agravante que:
+ ..  NÃO SE FURTOU EM TRAZER JULGADOS DESTE E. STJ, QUE INTERPRETOU A NORMA INFRACONSTITUCIONAL, na PORMENORIZADA exposição, em suas Contrarrazões no Recurso Especial, argumentando que a interpretação do disposto no art. 134, do CTB, pode, ou deve, SER MITIGADA QUANTO À SOLIDARIEDADE NAS MULTAS, após a alienação e com comprador identificado, caso em tela (fl. 440).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. ALIENAÇÃO DE VEÍCULO. INFRAÇÕES DE TRÂNSITO. RESPONSABILIDADE SOLIDÁRIA DO ANTIGO PROPRIETÁRIO. ART. 134 DO CTB. RECURSO ESPECIAL PARCIALMENTE PROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência deste Superior Tribunal, a não comunicação da transferência de propriedade do veículo ao órgão competente atrai a responsabilidade solidária do alienante por eventuais infrações de trânsito cometidas após a tradição, nos termos do art. 134 do CTB. O aludido entendimento somente pode ser mitigado na situação descrita na Súmula 585 do STJ: "A responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação."
+2. O Tribunal a quo divergiu da orientação jurisprudencial do STJ ao reconhecer a impossibilidade de imputar ao antigo proprietário a responsabilidade pelas infrações de trânsito cometidas após a alienação do veículo. Portanto, a responsabilidade solidária do alienante deve perdurar até o momento da comunicação da venda ao respectivo órgão de trânsito. Precedentes do STJ.
+3.  Agravo  interno  des provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+No caso, o Tribunal a quo afastou a responsabilidade solidária do alienante do veículo, concluindo pela mitigação do disposto no art. 134 do CTB pela comprovação da efetiva tradição do bem, com fundamento no entendimento da Súmula 324 do TJRJ, segundo a qual:
+As multas por infrações cometidas por adquirente de veículo devidamente identificado, ainda que não efetivada a comunicação, não podem ser imputadas ao alienante.
+Todavia, conforme consta da decisão agravada, a não comunicação da transferência de propriedade do veículo ao órgão competente atrai a responsabilidade solidária do alienante por eventuais infrações de trânsito, nos termos do art. 134 do CTB.
+O aludido entendimento somente pode ser mitigado na situação descrita na Súmula 585 do STJ: "A responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação."
+No mesmo sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ALIENAÇÃO DE VEÍCULO. INFRAÇÕES DE TRÂNSITO. RESPONSABILIDADE SOLIDÁRIA DO ANTIGO PROPRIETÁRIO. ART. 134 DO CTB. AGRAVO INTERNO NÃO PROVIDO.
+1. A Primeira Seção desta Corte, por ocasião do julgamento do PUIL 1.556/SP, firmou orientação no sentido de que "a responsabilidade solidária do ex-proprietário, prevista no art. 134 do CTB, somente pode ser mitigada na hipótese da Súmula 585 do STJ: "A responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação".
+2. Esta Corte entendeu que, no caso de alienação de veículo, a parte alienante deve comunicar a transferência de propriedade do bem ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito.
+3. Agravo interno não provido (AgInt no REsp 2.078.565/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+A propósito, ainda: AgInt no PUIL 3.248/SP, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 28/3/2023, DJe de 31/3/2023; AgInt no AREsp 2.277.297/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/9/2023, DJe de 14/9/2023; AgInt no REsp 2.013.787/MS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023.
+Nesse contexto, a jurisprudência desta Corte afasta a responsabilidade do antigo proprietário por débitos referentes ao IPVA (Súmula 585 do STJ), mas confirma o seu dever de comunicar ao órgão competente a transferência da propriedade do veículo para terceiro, sob pena de responder solidariamente por infrações de trânsito cometidas após a alienação.
+No caso, o Tribunal a quo divergiu da orientação jurisprudencial do STJ ao reconhecer a impossibilidade de imputar ao antigo proprietário a responsabilidade pelas infrações de trânsito posteriores à venda do veículo.
+A responsabilidade solidária do alienante do veículo deve perdurar até o momento da comunicação da venda ao respectivo órgão de trânsito. Nesse sentido: AgInt no AREsp 1.964.367/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/11/2022, DJe de 12/12/2022; REsp 1.935.790/CE, relatora Ministra Assusete Magalhães, Segunda Tur ma, julgado em 24/8/2021, DJe de 31/8/2021.
+Isso posto, nego provimento ao recurso.
