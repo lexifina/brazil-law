@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA que inadmitiu o recurso especial interposto por ESTADO DE RONDÔNIA, contra acórdão assim ementado:
+Agravo interno. Execução fiscal. Crédito tributário. Auto de infração. Constituição definitiva. Ausência de recurso administrativo. Ausência de suspensão ou interrupção. Prescrição. Recurso não provido. O prazo prescricional para a Fazenda Pública ajuizar execução fiscal, de crédito tributário, começa a fluir da data da sua constituição definitiva. Inexistindo impugnação do crédito na via administrativa, e não havendo qualquer causa suspensiva ou interruptiva, o cômputo prescricional começa a fluir a partir 31º dia após a lavratura do auto de infração correspondente, ficando configurado o crédito definitivo. Transcorridos o prazo quinquenal entre a constituição definitiva do crédito e o ajuizamento da execução, imperioso reconhecer a extinção do crédito objeto da execução pela prescrição (fl. 42).
+Os embargos de declaração foram rejeitados.
+Em sede de recurso especial, interposto com fulcro no art. 105, III, a e c, da Constituição Federal, o Estado de Rondônia alega que "ao reconhecer a prescrição com fulcro no art. 174 do Código Tributário Nacional, negou vigência aos arts. 109 e 114, do Código Penal, contrariando, inclusive, a pacífica jurisprudência deste STJ" (fl. 103), que estabelece a aplicação do prazo prescricional do Código Penal para execução das multas penais.
+Sobreveio juízo negativo de admissibilidade nos seguintes termos: a) ausência de violação aos arts. 114 e 109 do CP, pois o acórdão recorrido não emitiu juízo de valor sobre os dispositivos legais cuja ofensa se aduz, configurando ausência de prequestionamento, a teor da Súmula 211/STJ; b) a revisão do entendimento acerca da prescrição demandaria reexame do conjunto fático-probatório, o que é vedado na via estreita do Recurso Especial, por força da Súmula 7/STJ.
+Interposto agravo em recurso especial, o agravante aduz que: a) quanto a ausência de prequestionamento dos arts. 114 e 109 do CP, a tese sustentada foi enfrentada no acórdão recorrido, à luz do art. 1.025 do CPC, que trata do prequestionamento ficto; b) a incidência da Súmula 7/STJ foi indevida, pois a questão debatida é eminentemente jurídica, envolvendo a correta interpretação das normas que disciplinam a prescrição de multas penais, sem demandar reexame de fatos e prova (fls. 118-135).
+Assevera, ainda, que: "a questão sobre a qual se controverte é somente jurídica, a saber, se para crédito decorrente de multa penal devem ser aplicáveis os prazos prescricionais do Código Penal ou, contrariamente, como entendeu o tribunal recorrido, o prazo é aquele previsto no CTN" (fl. 122).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+No caso, observo que agravante impugnou todos os termos da decisão que inadmitiu o recurso especial, indicando objetivamente os dispositivos violados, bem como tratou expressamente da tese de não incidência dos óbices das Súmulas 7 e 211 deste Superior Tribunal.
+Isso posto, conheço do agravo e converto-o em recurso especial.
+Intimem-se.
+EMENTA
