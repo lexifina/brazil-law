@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FABIO EDUARDO DE ARAUJO CAMPOS DINIZ, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (apelação n. 5751622-64.2022.8.09.0011).
+Consta dos autos que o paciente foi condenado "nas sanções do artigo 157, § 2º, inciso II, do Código Penal, à pena privativa de liberdade de 5 (cinco) anos e 4 (quatro) meses de reclusão, a ser cumprida em regime inicialmente semiaberto, e ao pagamento de 40 (quarenta) dias-multa, à razão mínima" (fl. 3).
+Daí o presente writ, no qual o impetrante invoca a ocorrência de constrangimento ilegal, porquanto a condenação do paciente teria sido embasada em provas ilícitas, obtidas mediante busca pessoal realizada sem fundadas suspeitas, em violação ao art. 244 do CPP.
+Além disso, teria havido a ofensa ao art. 226 do CPP.
+Explica que "o paciente foi abordado por uma equipe policial que realizava patrulhamento de rotina, por apresentar "nervosismo" ao avistar os agentes. Realizada busca pessoal, foi encontrado em seu poder 2 (dois) aparelhos celulares de propriedade da vítima Henrique Chediak Siqueira, produtos de ação delituosa ocorrida dias antes" (fl. 7).
+Assere que, "Em sede policial, foi apresentada à vítima uma única fotografia do paciente, sem que ao menos fosse confrontada com fotografias de outros indivíduos com características físicas similares. Ademais, não consta nos autos o termo do referido procedimento. Em juízo, o "reconhecimento" foi reiterado" (fl. 7).
+Requer, inclusive liminarmente, "a suspensão dos efeitos da condenação, até julgamento do mérito do writ; ao final, requer a concessão da ordem para, reconhecendo que o v. acórdão coator atenta contra a liberdade de locomoção do paciente: a) reconhecer a ilicitude da busca pessoal e consequentemente, à míngua de provas lícitas, absolver o paciente das imputações que lhe foram dirigidas, com fundamento no artigo 386, incisos V e VII, do Código de Processo Penal, ou, subsidiariamente, determinar o retorno dos autos à origem a fim de que se proceda à análise de eventual arcabouço probatório remanescente para se proferir nova decisão; b) declarar nulo o reconhecimento pessoal realizado ao arrepio do artigo 226 do Código de Processo Penal, vale dizer, na modalidade show-up, absolvendo- se o paciente por não existir prova válida da autoria em relação ao crime de roubo. Não sendo esse o entendimento, requer a concessão da ordem para o desentranhamento da prova consubstanciada no reconhecimento nulo, com o retorno dos autos à origem para novo julgamento com eventual prova remanescente. Na hipótese de não ser conhecida a presente impetração, espera seja concedida a ordem de ofício, porquanto flagrante o constrangimento ilegal a que submetido o paciente" (fls. 21-22).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da suposta busca pessoal ilegal e de ofensa ao art. 226 do CPP.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ainda, também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indicava que (fl. 29):
+ ..  1- Procedida à abordagem e busca pessoal, ante a existência de fundadas suspeitas quanto à prática de crime, aferidas de forma objetiva, inexiste ilegalidade a ser reparada.
+2- O reconhecimento fotográfico realizado sem o cumprimento das formalidades prescritas no artigo 226 do CPP não tem o condão de nulificar o processo, tampouco o meio de prova, quando há outros elementos de convicção a respaldar a condenação.
+3- Se o conjunto probatório carreado ao feito demonstra de forma satisfatória a materialidade e a autoria do crime de roubo majorado pelo concurso de agentes, incabíveis os pleitos absolutório e desclassificatório, devendo ser mantido o édito condenatório.
+4- Se o agente não era menor de 21 (vinte e um) anos ao tempo do fato, inaplicável a atenuante da menoridade relativa.
+5- Atenuantes não podem conduzir a pena abaixo do mínimo legal, à inteligência da súmula 231 do Superior Tribunal de Justiça.
+6- Incomportável a exclusão da majorante do concurso de pessoas quando praticada a ação em pluralidade de agentes, sendo prescindível a identificação do comparsa.
+7- Não comporta redução a pena de multa já fixada aquém da corpórea.
+8- O prequestionamento deve ser reconhecido tão somente para fins de interposição de recurso em instância superior.
+9- Recurso conhecido e desprovido.
+Esses fatores, considerados em conjunto, levaram o Tribunal à conclusão de que o paciente deveria sofrer a reprimenda nos moldes exatos em que fora impost a.
+Com efeito, para que fosse possível desconstituir essas premissas, devidamente fundamentadas em fatos concretamente extraídos dos autos, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+A esse respeito:
+ ..  De tal modo, não é possível na via eleita desconstituir referida conclusão, porquanto demandaria indevido revolvimento de fatos e provas  ..  (AgRg no HC n. 904.707/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+ ..  A reforma das conclusões a que chegaram as instâncias ordinárias constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito  ..  (AgRg no HC n. 903.566/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
