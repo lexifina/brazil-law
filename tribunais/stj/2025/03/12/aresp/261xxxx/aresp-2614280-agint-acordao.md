@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR DA EXTINTA FUNDAÇÃO ZOOBOTÂNICA DO DISTRITO FEDERAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. BENEFÍCIO-ALIMENTAÇÃO. NECESSIDADE DE ANÁLISE PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A questão em discussão consiste em saber se o exequente, que não fazia parte do quadro dos servidores do Distrito Federal à época do reconhecimento do direito, possui legitimidade para postular o cumprimento da sentença coletiva.
+2. A análise da legitimidade ativa do exequente demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo DISTRITO FEDERAL contra decisão de minha lavra que conheceu "do agravo para não conhecer do recurso especial" (fls. 317-321).
+Inconformada, a parte agravante reprisa os argumentos, sustentando que (fls. 333-334):
+Vê-se, portanto, que a premissa fática está registrada e estabelecida: o exequente não fazia parte do quadro dos servidores do Distrito Federal à época em que a sentença reconheceu a estes o direito ora perseguido, mas sim fazia parte do quadro dos servidores da extinta Fundação Zoobotânica do Distrito Federal.
+Assim, é necessária apenas a revaloração jurídica dos fatos já devidamente registrados e incontroversos nos autos.
+Logo, o óbice do enunciado 7 da Súmula do STJ não é aplicável ao presente caso.
+Em relação às Súmulas n. 282 e 356, ambas do STF, aduz a parte agravante que "não pretende recorrer desse capítulo decisório - o qual é completamente autônomo em relação à parte da legitimidade ativa, que se sustenta por si só" (fl. 335).
+Pugna, assim, pela reconsideração da decisão agravada e requer conhecimento e provimento deste agravo para reformar a decisão agravada e dar provimento ao recurso especial.
+Devidamente intimada, a parte agravada ofereceu contraminuta (fls. 341-345).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR DA EXTINTA FUNDAÇÃO ZOOBOTÂNICA DO DISTRITO FEDERAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. BENEFÍCIO-ALIMENTAÇÃO. NECESSIDADE DE ANÁLISE PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A questão em discussão consiste em saber se o exequente, que não fazia parte do quadro dos servidores do Distrito Federal à época do reconhecimento do direito, possui legitimidade para postular o cumprimento da sentença coletiva.
+2. A análise da legitimidade ativa do exequente demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Ao decidir sobre se o exequente fazia parte ou não do quadro dos servidores do Distrito Federal à época em que a sentença reconheceu a estes o direito ora perseguido, a Corte a quo, com base no acervo fático-probatório dos autos, adotou os seguintes fundamentos (fl. 102):
+O fato de o exequente não figurar no quadro dos servidores do Distrito Federal à época em que a sentença reconheceu o direito material perseguido, não subtrai dele o direito reconhecido em favor dos servidores do Distrito Federal, nem o torna parte ilegítima para postular o cumprimento da sentença. Inteligência da Lei Distrital nº 2.294/99 que dispôs acerca da situação dos servidores que faziam parte dos quadros das extintas fundações públicas do Distrito Federal, integrando-os ao quadro de pessoal do Distrito Federal.
+Assim, considerando a fundamentação do acórdão recorrido acima transcrita, os argumentos utilizados pela parte recorrente - no sentido de que o exequente não fazia parte do quadro dos servidores do Distrito Federal à época em que a sentença reconheceu a estes o direito ora perseguido, mas sim fazia parte do quadro dos servidores da extinta Fundação Zoobotânica do Distrito Federal - somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatória.
+Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. IMPOSSIBILIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INTERPRETAÇÃO DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. "Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF" (AgInt no AREsp n. 2.359.404/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/6/2024, DJe de 20/6/2024).
+2. "O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+3. Infirmar o entendimento alcançado pelo Tribunal a quo - que reconheceu a possibilidade de compensação do débito executado com os reajustes posteriores, sem que haja violação da coisa julgada - demandaria, necessariamente, reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial (Súmula 7 do STJ).
+4. Verifica-se que o Tribunal de origem, para decidir a controvérsia, interpretou a legislação local (Leis Distritais 38/1989 e 117/1990 e Decretos 12.728/1990 e 12.947/1990), o que torna inviável o recurso especial, em razão da incidência, por analogia, da Súmula 280 do STF.
+5. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.131.600/DF, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SUSPENSÃO DO FEITO. INVIABILIDADE. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. SUPOSTA OFENSA AO ART. 1.022, INCISO II, DO CPC/2015. INCIDÊNCIA DA SÚMULA N. 284 DO STF. CONTRARIEDADE AOS ARTS. 43, 186, 884 E 927, TODOS DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. ALEGAÇÃO DE OFENSA À COISA JULGADA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "É firme o entendimento no âmbito desta Corte, no sentido de que a afetação de controvérsia pelo Tribunal de origem, ao rito do IRDR, não implica o sobrestamento dos processos em curso no STJ, mas apenas aqueles em trâmite nos Tribunais de origem (STJ, AgInt no REsp 2.019.640/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2022)" (AgInt no REsp n. 2.074.937/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+2. Não obstante o recurso especial alegue violação do art. 1.022 do Código de Processo Civil, não especifica adequadamente quais os pontos do acórdão recorrido em relação aos quais haveria omissão, contradição, obscuridade, tampouco a relevância da análise dessas questões para o caso concreto. Portanto, o conhecimento desse capítulo recursal é obstado pela falta de delimitação da controvérsia, atraindo a aplicação da Súmula n. 284 do STF.
+3. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a suposta ofensa aos arts. 43, 186, 884 e 927, todos do Código Civil, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+4. Tendo em vista a fundamentação do acórdão atacado quanto à ilegitimidade ativa da parte recorrente, verifica-se que os argumentos expostos no apelo nobre somente poderiam ser acolhidos mediante o necessário reexame de matéria fática, não cabendo a esta Corte Superior, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, nos termos da Súmula n. 7 do STJ.
+5. Agravo interno desprovido. (AgInt no REsp n. 2.098.330/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
