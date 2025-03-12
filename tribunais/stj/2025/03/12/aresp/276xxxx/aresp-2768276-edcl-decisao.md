@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de NOVOS Embargos de Declaração opostos por VICTORIA BRASIL EMPREENDIMENTOS IMOBILIARIOS LTDA à decisão de fls. 877/880, que não conheceu do recurso.
+Sustenta a parte embargante:
+Todavia, conforme amplamente demonstrado nos documentos anexados, TODOS os tribunais brasileiros, incluindo o Superior Tribunal de Justiça, declararam ponto facultativo no dia 30/05/2024 e 31/05/2024 (vide matéria do portal JusBrasil anexa). O STJ, por meio da Portaria STJ/GP N. 2, de 04 de janeiro de 2024, expressamente suspendeu o expediente neste dia, o que comprova que o prazo processual estava suspenso e deveria ser computado adequadamente.
+Portanto, ao desconsiderar essa suspensão, a decisão incorre em erro material passível de correção por meio dos presentes embargos. Conclui-se, assim, que o prazo processual deve ser corretamente restabelecido, garantindo a análise do recurso.
+ ..
+Com a recente alteração legislativa promovida pela **Lei n. 14.939/2024**, que alterou o art. 1.003, § 6º, do CPC, não se exige mais a comprovação de feriados locais no ato da interposição do recurso.
+Embora a decisão embargada tenha invocado o princípio do tempus regit actum para limitar a aplicação da nova regra às intimações ocorridas a partir de 31/07/2024, a situação aqui discutida trata de uma norma processual interpretativa que apenas reforça um entendimento já consolidado nos tribunais.
+A exigência de comprovação de um ponto facultativo amplamente reconhecido é um formalismo excessivo, contrariando o princípio da instrumentalidade do processo. Assim, é razoável que a nova regra tenha aplicação imediata a todos os casos ainda em curso. Dessa forma, impõe-se a revisão da decisão para que seja considerada a tempestividade do recurso interposto.
+ ..
+O art. 932, parágrafo único, do CPC, consagra a primazia do julgamento de mérito, estabelecendo que, antes de considerar inadmissível um recurso, o Relator deve conceder prazo para que a parte sane eventuais vícios formais.
+A Lei 14.939/2024, ao modificar o art. 1.003, §6º, do CPC, reafirma essa diretriz ao permitir a comprovação posterior da tempestividade quando os autos eletrônicos já contiverem a informação necessária.
+Portanto, a interpretação conjunta dos arts. 932, parágrafo único, 1.003, §6º, 4º, 6º, 139, IX, e 1.029, §3º, do CPC conduz à conclusão de que a não comprovação do feriado local no ato da interposição não pode implicar na negativa de análise do recurso.
+A boa-fé processual e a segurança jurídica também reforçam essa necessidade, pois a admissibilidade do recurso nas instâncias inferiores gera a presunção de sua tempestividade (art. 1.030, V, do CPC). Assim, impõe-se a reforma da decisão para assegurar o devido exame do recurso especial (fls. 884/886).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não procede a alegação de que é desnecessária a comprovação do feriado local por ser período absolutamente conhecido, tratando-se, portanto, de fato notório. A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso, providência que não foi cumprida.
+A propósito, confira-se este precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. DIA DE CORPUS CHRISTI. INEXISTÊNCIA DE FERIADO NACIONAL. AUSÊNCIA DE NOTORIEDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. Esta Corte adota o entendimento de que o Dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar no ato da interposição do recurso, por documento idôneo, a suspensão do expediente forense no Tribunal estadual, o que não ocorreu na hipótese.
+ ..
+5. A existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional.
+6 . Agravo interno não provido
+(AgInt nos EDcl no AREsp 1465673/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 25.5.2020.)
+Ressalte-se que em observância ao princípio do tempus regit actum, o entendimento da Lei n. 14.939/2024 só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Ademais, não há que se falar na aplicação do art. 932, parágrafo único, do CPC, porquanto somente é utilizado para os vícios sanáveis, e à época, o vício ainda era considerado insanável, sendo vedada a comprovação posterior da tempestividade. Do mesmo modo, o princípio da primazia do mérito.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. ABERTURA DE PRAZO. DESCABIMENTO. SANEAMENTO DE VÍCIOS FORMAIS SOMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial foi protocolado na vigência do NCPC, a atrair a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. Esta Corte adota o entendimento de que o Dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar nos autos, por documento idôneo, a suspensão do expediente forense no Tribunal de origem, o que não ocorreu na hipótese.
+4. Não obstante o princípio da primazia do mérito, o próprio Código de Processo Civil de 2015 estabeleceu expressa obrigatoriedade de comprovação de feriado local ou suspensão do expediente, regra específica que prevalece sobre a regra geral (ex specialis derrogat lex generalis).
+5. O prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade.
+6. Agravo interno não provido.
+(AgInt no AREsp 1522409/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 21.11.2019.)
+Outrossim, conforme já consignado na decisão embargada, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o Agravo e o Recurso Especial interpostos são endereçados ao Presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 14.5.2020 e o AgInt no AREsp 1514470/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5.12.2019.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Diante do exposto, rejeito os Embargos de Declaração e, outra conclusão não se faz possível, senão a de que a reiteração de embargos de declaração opostos com o intuito de modificar o julgado revela caráter manifestamente protelatório, razão pela qual aplico a multa de 2% sobre o valor da causa, nos termos do art. 1.026, § 2º, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+ EMENTA
