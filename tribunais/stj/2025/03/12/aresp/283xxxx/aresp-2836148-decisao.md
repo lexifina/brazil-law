@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por DAVIDSON MARCOS DE SOUZA e BRUNO DA SILVA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+"EMENTA: EMBARGOS INFRINGENTES EM APELAÇÃO CRIMINAL JÚRI - HOMICÍDIO QUALIFICADO PRIVILEGIADO (ART. 121, %1 0 E 20 , IV, DO CÓDIGO PENAL) - CONTRADIÇÃO ENTRE AS RESPOSTAS DOS QUESITOS DE AUTORIA E ABSOLUTÓRIO - TESE ÚNICA DE NEGATIVA DE AUTORIA - ANULAÇÃO DO JÚRI EM RELAÇÃO AO CORRÉU ABSOLVIDO - NECESSIDADE. - Se a decisão proferida pelo Conselho de Sentença se apresenta inidônea, tendo os jurados respondido positivamente ao quesito relativo à autoria e ao quesito genérico da absolvição, quando a única tese sustentada pela Defesa fora a de negativa de autoria, tal decisão se encontra claramente contraditória, devendo ser cassada em relação ao corréu absolvido, de modo a submetê-lo a novo julgamento pelo Júri Popular. v. v. - "O art. 483, inciso III, do Código de Processo Penal traduz uma liberalidade em favor dos jurados, os quais podem absolver o acusado por razões de íntima convicção, mesmo após. terem reconhecido a materialidade e autoria delitivas, e mesmo na hipótese de a única tese sustentada pela defesa ser a de negativa de autoria". Precedente STJ."
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 1370-1384).
+Contraminuta apresentada (e-STJ fls. 1388-1390).
+O Ministério Público Federal opinou pelo "conhecimento do agravo e o não conhecimento do recurso especial" (e-STJ fls. 1411-1418).
+É o relatório.
+Decido.
+Assiste razão ao Ministério Público Federal quando aduz em seu parecer que (e-STJ fl. 1415):
+"Nas razões do recurso especial, defesa alegou ofensa ao artigo 155 do Código de Processo Penal. Argumentou que a decisão foi fundamentada em provas exclusivamente de "ouvir dizer", o que contraria o disposto no mencionado dispositivo.
+No entanto, em momento algum o Tribunal de Justiça analisou tal alegação de que depoimento indireto foi utilizado como fundamento para a condenação. Logo, recurso especial não pode ser conhecido no que diz com alegação de ofensa ao artigo 155 do Código de Processo Penal por ausência de prequestionamento."
+Não assiste razão ao agravante quando alega ofensa ao artigo 593, III, "d", do Código de Processo Penal. Na realidade, esse dispositivo legal autoriza que o Tribunal de apelação anule o julgamento quando entender que a decisão dos jurados foi manifestamente contrária à prova dos autos.
+Não cabe a esta Corte, todavia, reapreciar as razões invocadas pelo Tribunal de origem para anular o julgamento, uma vez que a Súmula 7/STJ desautoriza o reexame de fatos e provas em sede de recurso especial.
+Com efeito, "a Terceira Seção do STJ firmou o entendimento de que a anulação da decisão absolutória do Conselho de Sentença, ainda que por clemência, manifestamente contrária à prova dos autos, segundo o Tribunal de Justiça, por ocasião do exame do recurso de apelação interposto pelo Ministério Público (art. 593, III, d, do Código de Processo Penal), não viola a soberania dos veredictos. Precedentes. Rever o posicionamento adotado no acórdão impugnado demandaria ampla análise de fatos e provas, o que não é possível nos autos" (AgRg no RHC n. 158.164/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/8/2022, DJe de 22/8/2022).
+Sendo assim, a pretensão de revisão do julgado esbarra nos óbices das Súmulas 7 e 83 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
