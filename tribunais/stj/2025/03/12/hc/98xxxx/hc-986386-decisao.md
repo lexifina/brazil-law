@@ -1,0 +1,22 @@
+DECISÃO
+RAFAEL JOSE DOS SANTOS alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2045927-81.2025.8.26.0000.
+Nesta Corte, a defesa busca o direito paciente de recorrer em liberdade da sentença que o condenou à pena de 2 anos e 8 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática de crime de furto qualificado mediante fraude contra pessoa idosa. Aduz que a manutenção da prisão preventiva não foi concretamente fundamentada na sentença, razão pela qual pugna pela soltura.
+Decido.
+No caso, o paciente foi preso em flagrante, juntamente com outras três pessoas, pela suposta prática dos crimes de estelionato qualificado pela vítima idosa e associação criminosa. Ao convolar o flagrante em prisão preventiva, o Juízo singular justificou a medida, para resguardar a ordem pública, pelos seguintes fundamentos (fls. 52-53, grifei):
+Verifica-se a necessidade da conversão da prisão em flagrante em preventiva em relação a todos os investigados. Isto porque o crime praticado é de extrema gravidade, acaba por vitimar pessoas extremamente vulneráveis e, por certo, os mesmos já se encontravam associados, inclusive para em Americana prosseguirem na prática deste delito. Verifica-se então, que acaso soltos, todos eles, independente da primariedade, irão expor a ordem pública e expor outras vítimas práticas delitivas. Motivo pelo qual se vê mais do que preenchido os requisitos para assegurar e a prisão.  ..  O investigado Rafael, é reincidente também na prática do crime de porte de armas, conforme a FA de folhas 122/126.
+Ao final da instrução criminal, o paciente foi condenado à pena de 2 anos e 8 meses de reclusão, em regime inicial semiaberto, mais multa, como incurso no art. 155, §4º, II, e §4º-C, II, do Código Penal. Na ocasião, a Magistrada sentenciante manteve a prisão, "pois a reincidência revela reiteração criminal, havendo a necessidade de garantir a ordem pública" (fl. 79).
+A Corte estadual manteve a segregação cautelar e ressaltou "já ter sido o paciente transferido a estabelecimento prisional adequado ao cumprimento da pena no regime prisional inicial semiaberto" (fl. 24).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Inicialmente, releva salientar que a jurisprudência consolidada desta Corte Superior considera válida, para manter a prisão preventiva em sentença condenatória ou decisão de pronúncia, a referência aos fundamentos exarados no decreto de custódia cautelar. A propósito:
+ ..
+1. A jurisprudência consolidada desta Corte Superior considera válida, para manter a prisão preventiva em sentença condenatória ou decisão de pronúncia, a referência aos fundamentos exarados no decreto de custódia cautelar. Precedentes.
+ ..
+5. Agravo não provido.
+(AgRg no HC n. 776.127/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/4/2023, DJe de 19/4/2023, grifei)
+As circunstâncias descritas pelas instâncias ordinárias justificam, a um primeiro olhar, a negativa do recurso em liberdade, diante do risco de reiteração delitiva, evidenciado pela reincidência do paciente - com condenação definitiva anterior por porte de arma.
+Ademais, é sólida a orientação deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena" (AgRg no HC n. 779.532/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022).
+No mesmo sentido: "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, DJe 16/2/2023).
+Por fim, registro que o acórdão impugnado, inclusive, esclareceu que o paciente já foi transferido para estabelecimento penal compatível com o regime semiaberto.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
