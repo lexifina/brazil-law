@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ASSOCIAÇÃO DOS AMIGOS DE ITATIAIA, às fls. 1791-1797, contra acórdão por mim relatado que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fl. 1778-1782):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA MOVIDA PELA ASSOCIAÇÃO DOS AMIGOS DE ITATIAIA. SUSPENSÃO DAS DESAPROPRIAÇÕES LEVADAS A EFEITO PELO ICMBIO. INDEFERIMENTO DA LIMINAR. ACÓRDÃO REGIONAL QUE DECIDE PELA AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS PARA CONCESSÃO DA TUTELA ANTECIPADA. OMISSÃO JURISDICIONAL. NÃO OCORRÊNCIA. RECURSO ESPECIAL CONTRA DECISÃO TUTELA DE URGÊNCIA. SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. DISCUSSÃO QUE NECESSARIAMENTE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 735 DO STF E N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em relação aos arts. 489, § 1º, inciso IV e 1.022, inciso II, parágrafo único, inciso II, ambos do CPC, deve-se ressaltar que o acórdão recorrido não possui omissão ou ausência de prestação jurisdicional suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável.
+2. O presente caso versa sobre decisão de indeferimento de tutela de urgência em primeira instância, de forma que a Súmula n. 735 do STF deve ser aplicada analogicamente ao recurso especial, segundo a qual " n ão cabe recurso extraordinário contra acórdão que defere medida liminar".
+3. A discussão acerca da presença ou não dos elementos autorizadores da tutela de urgência exigiria amplo reexame das provas presentes nos autos, o que encontra óbice na Súmula n. 7 do STJ.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+Sustenta a parte embargante, em síntese, que o acórdão recorrido foi omisso, visto que "deixou de observar que a hipótese em tela é uma das exceções que permitem a mitigação da Súmula n. 735 do STF, porquanto o v. acórdão recorrido local negou o deferimento de tal medida - mesmo com a estreita observância aos requisitos da probabilidade do direito e do perigo de dano" (fl. 1792). Ademais, alega não incidir a Súmula n. 7 do STJ, visto que os fatos estão delineados nas decisões de segunda instância.
+Foram apresentadas respostas ao recurso integrativo (fls. 1805-1808 e 1813-1815).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que:
+Ademais, a decisão que deu origem ao agravo de instrumento na origem foi proferida em sede de ação de conhecimento, na qual se denegou a medida liminar pleiteada na exordial. A Corte de origem, de forma fundamentada, concluiu pela ausência da probabilidade do direito da Agravante, razão pela qual manteve a decisão denegatória de tutela de urgência prolatada pelo Juízo de primeiro instância.
+Diante disso, deve ser aplicado o disposto na Súmula n. 735 do STF, segundo a qual, mutatis mutandis, " n ão cabe recurso extraordinário contra acórdão que defere medida liminar".
+ ..
+Friso que a jurisprudência admite a discussão, em sede de apelo nobre, de decisão em tutela antecipada, somente nos casos de eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015), e não violação à norma que diga respeito ao mérito da causa.
+Diferentemente do alegado pelo agravante, não é o que ocorre no presente caso, visto que ele não trouxe, em seu recurso especial, alegação de afronta ao art. 300 do CPC, mas aos arts. 22, § 2º, da Lei n. 9985/2000, dos arts. 4º e 5º, do Decreto n. 4.340/2002 e dos arts. 489, § 1º, inciso IV e 1.022, inciso II, parágrafo único, inciso II, ambos do CPC.
+Por fim, a discussão acerca da presença ou não dos elementos autorizadores da tutela de urgência exigiria amplo reexame das provas presentes nos autos, o que encontra óbice na Súmula n. 7 do STJ, conforme destacado na jurisprudência acima colacionada.
+Assim sendo, encontra-se devidamente fundamentada a conclusão de que incide no presente caso o óbice da Súmula n. 735 do STJ, salientando que o presente caso não se enquadra na exceção jurisprudencial que admite a discussão, em sede de apelo nobre, de decisão em tutela antecipada, visto que o recorrente não trouxe, em seu recurso especial, alegação de afronta ao art. 300 do CPC.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
