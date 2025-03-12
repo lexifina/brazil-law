@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por FRANCISCO SIMÕES DE MELLO NETO e JOSIANE VALERIA DA SILVA SIMÕES contra acórdão do Tribunal de Justiça do Estado do Mato Grosso assim ementado (fl. 1.843):
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. ART. 485, IV C/C ART. 76, §1º, I C/C ART. 111, PARÁGRAFO ÚNICO, TODOS DO CPC. NÃO CONSTITUIÇÃO DE ADVOGADOS POR UM AUTOR. NÃO CITAÇÃO DE UM DOS REQUERIDOS PELA OUTRA PARTE. EXCESSO DE ZELO DESTE JUÍZO. REALIZAÇÃO DE DIVERSAS INTIMAÇÕES VIA AR E ELETRONICAMENTE. PARTES QUE NÃO SE INCUMBIRAM DE SEUS DEVERES. EXTINÇÃO MANTIDA. RECURSO DESPROVIDO.
+1- Agravante que renunciou aos poderes e, intimado via AR e por email, não constituiu novos patronos. Outro agravante que não promoveu com a citação de um dos requeridos e, intimado pelos mesmos meios, nada disse.
+2- Diversas intimações direcionadas em todos os e-mails fornecidos nos autos e em dois endereços diferentes, mas sem resposta pelas partes, não havendo erro no procedimento ou violação à cooperação.
+3- "São pressupostos processuais de existência da relação processual: a) jurisdição; b) citação; c) capacidade postulatória (CPC 104 § 2º), apenas quanto ao autor; d) petição inicial. São pressupostos processuais de validade da relação processual: a) petição inicial apta; (v. CPC 330); b) citação válida; c) capacidade processual (legitimatio ad processum) (CPC 70 e 71); d) competência do juiz (inexistência de incompetência absoluta: material ou funcional); e) imparcialidade do juiz (inexistência de impedimento do juiz ( in, Comentários ao Código de Processo Civil, Revista dos - CPC 144 e 147) (..)" Tribunais, São Paulo, 2015, p. 1111).
+Nas razões recursais, os recorrentes argumentam que a decisão que extinguiu o processo foi prematura e apresentam vários pontos para justificar a necessidade de reforma do julgado que pôs fim ao mandado de segurança sem resolução do mérito.
+Destacam a ausência de intimação pessoal de Josiane Valéria da Silva Simões para dar prosseguimento ao processo, conforme exigido pelo art. 485, § 1º, do CPC.
+Sustentam que as cartas enviadas pelo cartório não supriram essa necessidade, pois foram remetidas a um endereço incorreto, o que invalidou a intimação.
+Apontam a inobservância do prazo de 2 a 6 meses para a citação do espólio de Benedito Sérgio Simões, conforme previsto no art. 313, § 1º, do CPC.
+Aduzem que a decisão de extinguir o processo foi proferida antes do decurso desse prazo, o que configura uma irregularidade processual.
+Invocam o princípio da cooperação das partes e da primazia do julgamento de mérito, previstos nos arts. 4º, 6º, 282, § 2º, e 317 do CPC.
+Ponderam que a extinção do processo sem resolução do mérito foi precipitada e que o Tribunal a quo deveria ter priorizado a decisão de mérito, especialmente considerando que a desídia no andamento processual foi atribuída aos antigos advogados, e não aos próprios recorrentes.
+Contestam a extinção do processo por ausência de regularização da representação processual de Francisco Simões de Mello Neto, pois não houve comprovação adequada da notificação de renúncia dos antigos advogados, o que invalidaria a extinção do processo por falta de representação.
+Requerem a cassação do acórdão recorrido e o retorno dos autos ao Tribunal de Justiça de Mato Grosso para prosseguimento do julgamento do mérito do mandado de segurança. Também pedem a regularização da representação processual e a citação do espólio de Benedito Sérgio Simões, conforme os prazos legais.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+No presente caso, o mandado de segurança foi impetrado contra ato do Juiz de Direito da 2ª Vara da Comarca de Alto Araguaia na Ação de Interdito Proibitório n. 1000462-67.2018.8.11.0020.
+Verifica-se que o acórdão justificou a extinção do processo com base na ausência de citação e de regularização da representação processual.
+Em relação a Francisco, o Tribunal considerou válida a intimação para regularizar a representação, uma vez que foram feitas várias tentativas de intimação, tanto por meio eletrônico quanto por AR, sem sucesso. Destacou que Francisco não comprovara que o e-mail utilizado para a notificação não era seu e que, mesmo após diversas tentativas de intimação, ele não regularizara a representação.
+Quanto a Josiane, a Corte de origem observou que seus advogados não comprovaram a notificação de renúncia e não promoveram a citação de Benedito, terceiro interessado no processo. Ressaltou que, apesar das tentativas de intimação pessoal, as cartas retornaram com a informação "ausente". Assim, concluiu que não havia os pressupostos de constituição e de desenvolvimento válido e regular do processo, nos termos do art. 485, IV, do CPC, e que a ausência de diligência para sanar esses vícios justificava a extinção do processo sem resolução do mérito.
+Dessa forma, o Tribunal negou provimento ao agravo interno e manteve a decisão que extinguira o mandado de segurança sem resolução do mérito.
+Nesse contexto, tendo a Corte de origem, em decisão que não foi objeto de impugnação, concluído pela a necessidade de providências a serem realizadas pela parte e não tendo sido providenciado o ato citatório pelos impetrantes, tampouco a regularização da representação, é de rigor a extinção do processo sem resolução do mérito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. LITISCONSORTE NECESSÁRIO. CITAÇÃO. DESÍDIA DOS IMPETRANTES. EXTINÇÃO DO PROCESSO.
+1. Reconhecida a existência de litisconsórcio necessário pela Corte de origem em decisão que não fora objeto de impugnação, e não providenciado o ato citatório pelos impetrantes, é de rigor a extinção do processo sem resolução do mérito com supedâneo no art. 47 do CPC.
+2. Precedentes da Excelsa Corte e deste Egrégio Superior Tribunal de Justiça acerca da desnecessidade de intimação pessoal da parte para que se proceda à extinção do feito.
+3. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no RMS n. 39.040/TO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 11/12/2012, DJe de 14/12/2012, destaquei .)
+Ante o exposto, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
