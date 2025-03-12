@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de RODRIGO MARCONDES CHACAO, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 01 ano de reclusão, em regime inicial aberto, por infração ao artigo 129, § 1º, inciso I, do Código Penal.
+A defesa ajuizou Ação de Justificação Criminal, a qual foi indeferida.
+Na presente impetração, busca-se a concessão da ordem, para que a prova pretendida seja produzida, oficiando-se aos Institutos de Ortopedia, para viabilizar futuro ajuizamento de revisão criminal.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual, por si só, não deve ser conhecida (AgRg no HC 936880 / SP, QUINTA TURMA, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Conforme cediço, "a ação de justificação criminal, procedimento que se destina à obtenção de prova nova com a finalidade de subsidiar eventual ajuizamento de revisão criminal, não se propõe à reabertura da instrução criminal, reinquirição de testemunha já ouvida no processo, ou retificação do depoimento da vítima, notadamente quando a prova que se quer produzir não se caracteriza como nova. Nesse viés, nos moldes do entendimento jurisprudencial do STJ, possibilitar a reinquirição de testemunhas ou arrolamento de outras que, quisesse a defesa, poderia tê-las arrolado no prazo legal, implicaria instaurar-se a rediscussão do mérito da sentença penal condenatória transitada em julgado, fora das hipóteses legalmente previstas" (AgRg no HC n. 849.287/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Na espécie, o Tribunal de origem assentou que as provas cuja produção se pretende não são, em essência, novas, tampouco há demonstração de que fossem desconhecidas ao tempo do processo penal o riginário, não sendo a Justificação Criminal mero instrumento para reabertura da instrução criminal de feito transitado em julgado, com a finalidade de rediscussão do mérito, entendimento que se coaduna com a orientação desta Corte Superior.
+De mais a mais, "para discutir o indeferimento de provas e o processamento da Justificação Criminal seria necessária a reanálise do conjunto fático-probatório, medida incompatível com a via estreita do habeas corpus" (AgRg no HC 949488 / SP, Quinta Turma, Rel. Ministra DANIELA TEIXEIRA, DJEN 09/12/2024).
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
