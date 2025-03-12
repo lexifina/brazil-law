@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCIO BISPO DOS SANTOS contra  decisão  que  inadmitiu  recurso  especial  manejado  em  face  de  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Informam  os  autos  que  o  ora  agravante  foi  condenado,  em  primeiro  grau,  às  penas  de 07 anos, 02 meses e 20 dias de reclusão, em regime inicial semiaberto, e o pagamento de 500 dias-multa, calculados à razão de 1/30 (um trinta avos) do salário-mínimo vigente à época da prática do fato, pela prática de conduta tipificada no artigo 33, caput, da Lei 11.343/06  (fls.  175-181).
+Em  segunda  instância,  o  Tribunal  de  origem  ,  por  unanimidade,  negou  provimento  ao  apelo  interposto  pela  defesa  (fls.  255-261).
+No recurso especial (fls. 267-273), interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, a Defesa alegou a violação ao artigo 59 do Código Penal.
+Por fim, pugna pelo conhecimento e provimento do recurso especial nos seguintes termos:
+"(..) Diante do que foi exposto, requer que esse Colendo Superior Tribunal de Justiça conheça do presente recurso especial e que, em seguida, lhe DÊ PROVIMENTO, com a finalidade de reformar o acórdão a quo, para afastar a avaliação demeritória das circunstâncias com a consequente diminuição da pena base."
+Apresentadas as contrarrazões (fls. 280-283), sobreveio juízo negativo de admissibilidade fundado na incidência das Súmula 07, do STJ (fls. 285-287).
+Nas razões do agravo em recurso especial (fls. 293-297), postula o agravante o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público de Alagoas apresentou contraminuta ao agravo em recurso especial (fls. 303-306).
+O  Ministério  Público  Federal  apresentou  manifestação  pelo  conhecimento do agravo e não conhecimento do recurso especial  (fls.  326-327).
+É o relatório. DECIDO.
+Tendo  em  vista  os  argumentos  expendidos  pela  parte  agravante  para  refutar  o  fundamento  da  decisão  de  admissibilidade  da  origem,  conheço  do  agravo  e  passo  a  examinar  o  recurso  especial.
+No recurso especial, a controvérsia dos autos diz respeito à análise da dosimetria da pena, a fim de excluir a valoração negativa das circunstâncias do crime.
+O Tribunal de origem manteve a dosimetria da pena-base realizada pelo juízo de primeiro grau (aumento de pena pelo reconhecimento da vetorial das circunstâncias do crime).
+Confira-se:
+"(..) Por conseguinte, requer a defesa o redimensionamento da pena-base, pleiteando a fixação da mesma no mínimo legal. Importante ressaltar que o magistrado, dentro dos limites mínimo e máximo da pena prevista em abstrato deve fixar a pena-base, movido pelo seu livre convencimento, observando primordialmente os critérios da proporcionalidade e razoabilidade, inclusive, a fixação de um critério matemático é totalmente rechaçado pela jurisprudência majoritária.
+Baseada nos critérios da proporcionalidade e razoabilidade, quando da análise dos limites previstos pelo legislador no tipo penal (cinco a quinze anos), deve ser levado em consideração não só o número das circunstâncias judiciais valoradas de forma negativa na primeira fase, como também as peculiaridades do caso concreto.
+Em relação às circunstâncias do crime, percebe-se que o magistrado a quo indicou que o apelante estava com elevada quantidade de material entorpecente, circunstância gravíssima que justifica a valoração desfavorável desta circunstância e a exasperação da pena-base.
+Assim, entendo que não merece prosperar o pleito do redimensionamento da pena-base, tendo em vista a valoração negativa das circunstâncias do delito, sendo corretamente fundamentada pelo Juízo de 1º grau."
+Registro, inicialmente, que esta Corte possui firme entendimento no sentido de que a dosimetria da pena se insere num juízo de discricionariedade do magistrado, observado o livre convencimento motivado, sendo passível de revisão somente em caso de flagrante ilegalidade ou desproporcionalidade (AgRg no HC n. 869.056/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023).
+Ao analisar o caso concreto, considerando que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, entendo que deve ser alterada a pena-base aplicada ao recorrente, sobretudo porque houve desproporcionalidade no aumento procedido na primeira fase da dosimetria, à luz da jurisprudência deste STJ.
+Na presente hipótese, tenho que a quantidade de droga efetivamente apreendida (170g de maconha) com o recorrente não se revela expressiva a ponto de justificar um incremento na pena base, em observância ao disposto no art. 42 da Lei 11.343/2006 e no art. 59, do CP.
+Ratificam a conclusão aqui encampada, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. CAUSA ESPECIAL DE FUNDAMENTAÇÃO DIMINUIÇÃO INIDÔNEA. DE PENA. PENA-BASE. ACRÉSCIMO. FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. São condições para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+2. A existência de ações penais em andamento e de condenações sem trânsito em julgado não pode justificar a negativa da causa especial de redução de pena do art. 33, § 4.º, da Lei n. 11.343/2006. Precedentes.
+3. A pequena quantidade de drogas apreendidas, na espécie, não justifica a exasperação da pena-base.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 702.714/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO INIDÔNEA. PEQUENA QUANTIDADE DE DROGA APREENDIDA. CONSTRANGIMENTO ILEGAL EVIDENTE. CONCESSÃO DA ORDEM DE OFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos crimes de tráfico de drogas, é consabido que o Juiz deve considerar, com preponderância sobre o previsto no art. 59 do Código Penal - CP, a natureza e a quantidade da substância entorpecente, consoante o disposto no art. 42 da Lei n. 11.343/2006. No caso, a natureza e a quantidade das drogas apreendidas (378 g de maconha) não constituem uma quantia expressiva, a afastar a elevação da pena-base, por não extrapolarem o tipo penal.
+2. Agravo regimental desprovido."
+(STJ - AgRg no HC: 801897 MG 2023/0041077-0, Relator: JOEL ILAN PACIORNIK, Data de Julgamento: 24/04/2023, T5 - QUINTA TURMA, Data de Publicação: DJe 26/04/2023, grifei)
+Considerando a fundamentação exposta, é imperioso revisar a dosimetria da pena do agravante para o delito previsto no art. 33, caput, da Lei n. 11.343/06:
+Na primeira fase, de ofício, mantenho a pena-base no mínimo legal, qual seja, 5 (cinco) anos de reclusão, além de 500 (quinhentos) dias-multa, ante a inexistência de circunstâncias judiciais desfavoráveis. Na segunda etapa, não foram reconhecidas circunstâncias atenuantes ou agravantes. No último estágio, não foram reconhecidas causas de aumento ou de diminuição. Portanto, torno definitiva a pena de 5 (cinco) anos de reclusão, além do pagamento de 500 (quinhentos) dias-multa. Mantenho inalterados os demais termos.
+Assim, considerando que o acórdão recorrido está em desconformidade com a jurisprudência desta Corte Superior de Justiça sobre o tema, incide, no caso, a Súmula n. 568, STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conforme artigo 253, parágrafo único, inciso II, alínea c , do RISTJ, conheço do agravo, para conhecer e dar provimento ao recurso especial para afastar o incremento na pena base, redimensionando a pena, nos termos acima descritos.
+Publique-se. Intimem-se.
+EMENTA
