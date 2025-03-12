@@ -1,0 +1,1 @@
+Artigo 20-A - A análise do pedido de ocupação da instalação, colocação e inscrição de anúncios de qualquer natureza dentro da faixa de domínio do Departamento de Estradas de Rodagem - DER será iniciada mediante o pagamento da análise técnica indispensável, na forma e nas condições do regulamento. (NR)

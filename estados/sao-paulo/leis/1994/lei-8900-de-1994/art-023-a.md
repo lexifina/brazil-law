@@ -1,0 +1,1 @@
+Artigo 23-A - Caso a instalação seja implantada dentro da faixa de domínio do Departamento de Estradas de Rodagem - DER, a autorização será onerosa, cabendo ao proprietário efetuar o pagamento de remuneração pelo uso da faixa de domínio, nas condições do regulamento. (NR)
