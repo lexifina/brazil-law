@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO SECURITÁRIA. FINANCIAMENTO DO SFH. RISCO DE DESABAMENTO DO IMÓV EL. NÃO IMPUGNADOS DE FORMA ESPECÍFICA ALGUNS DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, alguns dos fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TRADITIO COMPANHIA DE SEGUROS contra decisão por meio da qual não foi conhecido o respectivo agravo em recurso especial (fls. 2487-2488).
+Consta dos autos que o Juízo de primeiro grau deferiu o pedido de tutela de urgência para pagamento de aluguéis em virtude de risco de desmoronamento do imóvel formulados pelos ora Agravados (fls. 855-862).
+O Tribunal de origem deu parcial provimento ao agravo de instrumento (fls. 2342-2349), nos termos da seguinte ementa (fl. 2348):
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. FINANCIAMENTO DO SFH. RISCO DE DESMORONAMENTO DO IMÓVEL. TUTELA PROVISÓRIA DE URGÊNCIA. PAGAMENTO DE ALUGUÉIS EM FAVOR DO MUTUÁRIO. PRELIMINAR DE LITISPENDENCIA DE UMA AUTORA. CONSTATAÇÃO. REFERIDA PARTE ENCONTRA-SE RECEBENDO ALUGUEL EM PROCESSO AJUIZADO ANTERIORMENTE. LITISPENDÊNCIA RECONHECIDA. MÉRITO. CABIMENTO DA RESPONSABILIDADE DA SEGURADORA. DECORRÊNCIA LÓGICA DA NECESSIDADE DE DESOCUPAÇÃO DOS BENS OBJETO DA COBERTURA SECURITÁRIA. SÚMULA 57/TJPE. VERBA LOCATÍCIA. RAZOABILIDADE NO VALOR DE R$ 1.500,00 (UM MIL E QUINHENTOS REAIS). DECISÃO MANTIDA NESTE PARTICULAR. REFORMA SOMENTE QUANTO AO RECONHECIMENTO DA LITISPENDÊNCIA DA PARTE CRISTIANE DA CONCEICAO PIMENTEL.
+Sustentou a ora Agravante, nas razões do apelo nobre, além da existência de dissídio pretoriano, a violação dos arts. 45 e 124 do CPC/2015; dos arts. 757, 784 do Código Civil; do art. 1º-A da Lei n. 12.409/2011 e dos arts. 1º, § 1º, e 3º da Lei n. 13.000/2014.
+Argumenta que a competência para processar e julgar o feito pertence à Justiça Federal, devido à necessidade de intervenção da Caixa Econômica Federal, conforme estabelecido no julgamento do RE n. 827.996/PR, sob o rito da Repercussão Geral (Tema n. 1.011 do STF).
+Aduziu que " ..  a obrigação da Recorrente de indenizar o segurado é decorrente de previsão contratual, onde são estipulados os riscos indenizáveis, os riscos excluídos de forma expressa, bem como o valor do prêmio a ser pago pelo segurado em contrapartida à prestação da Seguradora. Não se trata de responsabilidade aquiliana, mas de assunção dos riscos contratualmente pactuados" (fl. 2373).
+Afirmou que não existe " ..  obrigação qualquer quanto ao pagamento de alugueis em outro imóvel, posto ser o objeto do seguro habitacional a garantia do pagamento dos encargos mensais do financiamento, ou sua quitação em caso de morte do mutuário, devendo a quota-parte da renda familiar destinada ao pagamento do financiamento ser direcionada ao pagamento de aluguel em outro imóvel enquanto perdurar a reforma" (fl. 2374).
+Pontuou que, conforme é possível se depreender do contrato firmado entre as partes, a obrigação da ora Agravante se restringe, caso exista, a recuperar o imóvel e não de levar a efeito despesas para ofertar moradia aos ora Agravados ou de pagar-lhes indenização.
+Apontou que não foi demonstrado nos autos que os ora Agravados se encontram em situação de adimplência, tampouco foram apresentadas informações sobre o contrato.
+Foram apresentadas contrarrazões (fls. 2407-2420). O recurso especial não foi admitido (fls. 2422-2424). Foi interposto agravo (fls. 2425-2433).
+A Presidência do Superior Tribunal de Justiça, por meio da decisão (fls. 2487-2488), não conheceu do agravo em recurso especial.
+Pondera a parte agravante, nas razões do presente agravo interno (fls. 2492-2497), que, ao contrário do consignado na decisão agravada, houve impugnação a todos os fundamentos do provimento judicial que não admitiu o apelo nobre na origem. Portanto, não é aplicável, à espécie, a Súmula n. 182 do STJ.
+Alegou que a decisão agravada não considerou adequadamente a necessidade de intervenção da Caixa Econômica Federal e a competência da Justiça Federal, conforme decidido no RE n. 827996-PR pelo STF.
+Não foram apresentadas respostas ao agravo interno (fls. 2501-2505).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO SECURITÁRIA. FINANCIAMENTO DO SFH. RISCO DE DESABAMENTO DO IMÓV EL. NÃO IMPUGNADOS DE FORMA ESPECÍFICA ALGUNS DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, alguns dos fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO não admitiu o apelo nobre com esteio na seguinte fundamentação: a) prejudicialidade do recurso especial (" ..  a questão da competência absoluta é prejudicial em relação às questões afeitas à legitimidade ativa ad causam dos mutuários ou seus sucessores  .. ", conforme consta à fl. 2423); e b) incidência da Súmula n. 735 do STF.
+Todavia, a parte agravante, no agravo em recurso especial, deixou de se insurgir, especificamente, contra a fundamentação relacionada à aplicação da Súmula n. 735 do STF à hipótese dos autos.
+Nessas condições, são aplicáveis o comando normativo contido no art. 932, inciso III, do Código de Processo Civil, bem como a Súmula n. 182 do STJ, litteris: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ressalto que a Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
