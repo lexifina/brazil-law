@@ -1,0 +1,52 @@
+DECISÃO
+Cuida de agravo (art. 1.042 do CPC/15), interposto por IAMARA APARECIDA DA SILVA FRANCISCO, LUIZ CARLOS FRANCISCO, contra decisão que não admitiu o recurso especial.
+O apelo nobre, fundamentado no artigo 105, III, alíneas "a" e "c", do permissivo constitucional, desafia acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 218-226, e-STJ):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Título executivo judicial que declarou a rescisão contratual de compra e venda de lote com reintegração de sua posse à vendedora mediante restituição de 80% do valor pago pelos compradores inadimplentes, com fixação de taxa de fruição pelo período em que utilizaram o imóvel, limitados ao decênio anterior à propositura da demanda e responsabilização por eventuais débitos incidentes sobre o bem durante a posse dos agravantes. Recorrentes revéis na ação de conhecimento. Pretensão de indenização pelas acessões erigidas no lote que não comportam apreciação neste momento. Preclusão. Pedido que deveria ter sido formulado em sede de contestação para viabilização da formação de contraditório e dilação probatória. Necessidade de buscar reembolso pela via própria. Decisão mantida. RECURSO IMPROVIDO.
+Nas razões de recurso especial (fls. 229-249, e-STJ), a insurgente apontou, além da divergência jurisprudencial, violação aos seguintes artigos:
+a) 458, I, e 535, II, do CPC/1973, pois o acórdão recorrido não se manifestou sobre o excesso de execução e a coisa julgada;
+b) 475-G e 463, I, do CPC/1973, ao argumento de que o valor indicado na fase de cumprimento de sentença já foi quitado no momento de imissão na posse do imóvel;
+c) 884 do CC, na medida em que o valor do bem imóvel recebido pela parte contrária é superior ao valor da dívida, constituindo enriquecimento sem causa;
+d) 320 e 330 do CC, sob o fundamento de que, no caso concreto, a prova da quitação da sua dívida é a certidão do oficial de justiça dada no ato de imissão na posse, afastando a eficácia do título executivo na presente hipótese.
+Em razão do juízo negativo de admissibilidade na origem, fora interposto o presente agravo (fls. 259-268, e-STJ), visando destrancar o processamento da insurgência.
+Contraminuta às fls. 272-274, e-STJ.
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+1. No que tange à alegada ofensa aos artigos 458 e 535 do CPC/1973, observa-se que não foram opostos embargos de declaração na origem, a fim de possibilitar que fossem sanadas as supostas omissões, o que inviabiliza a pretensão recursal.
+Isto porque, para que possa ser reconhecida a negativa de prestação jurisdicional, é necessário, dentre outros requisitos, que tenham sido opostos os aclaratórios na origem - de forma esgotar a instância, possibilitando que fossem sanados os vícios pela Corte de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO E AMBIENTAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 493 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ENUNCIADO N. 211 DA SÚMULA DO STJ.  ..  II - A parte recorrente aponta a violação do art. 1.022 do CPC/2015 (art. 535 do CPC/1973) sem a anterior e necessária oposição de embargos declaração sobre o tema, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, o Superior Tribunal de Justiça já se manifestou que: "Os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF" (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018). III - Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.367.247/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 6/10/2016; REsp n. 1.728.189/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/11/2018; e AgRg no AREsp n. 338.282/PR, relator Ministro João Otávio De Noronha, Terceira Turma, DJe de 11/11/2013; AgRg no AREsp n. 99.038/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/9/2012.  ..  (AgInt no AREsp 1479968/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/09/2019, DJe 16/09/2019 - sem grifos no original )
+Inafastável, no ponto, o teor da Súmula 284/STF, aplicável por analogia.
+2. No mérito, a recorrente sustenta violação aos arts. 475-G e 463, I, do CPC/1973, 320, 330 e 884 do CC, ao argumento de que a certidão de imissão de posse do oficial de justiça é prova de quitação da dívida e ainda, que o imóvel imitido em posse tem valor muito superior ao da dívida, devendo ser devolvida a diferença, sob pena de enriquecimento sem causa da parte contrária.
+No ponto, o Tribunal de origem concluiu que (fl. 221-223, e-STJ, sem grifos no original):
+Como se viu deste instrumento, já houve a satisfação de parcela significativa do débito dos agravantes com a entrega do lote objeto da demanda, remanescendo dúvida acerca da possibilidade ou não de compensação com o valor atribuído à edificação construída pelos executados e incorporada ao terreno.
+E quanto a isso, razão não assiste aos recorrentes.
+Pela sentença copiada a fls. 7/10 dos autos de origem, os agravantes, revéis, foram condenados a devolver o lote vendido pela agravada a eles com a devolução de 80% do valor pago por estes. Eles também foram obrigados a arcar com eventuais débitos tributários incidentes sobre o bem e pagamento de taxa de fruição pelo período em que usufruíram do imóvel sem o pagamento das parcelas, tudo isso visando o restabelecimento do estado anterior ao contrato desfeito a ambas as partes.
+No acórdão copiado a fls. 16/26 do feito originário, a sentença foi mantida, tendo apenas sido alterada a data inicial dos juros de mora incidentes sobre o valor a ser restituído aos compradores inadimplentes e estabelecido o prazo decenal para a cobrança da taxa de fruição.
+Além disso, apesar de ambas as decisões judiciais enfatizarem a necessidade de se evitar o enriquecimento sem causa, nada foi disposto a respeito da indenização pela acessão construída no lote objeto da demanda. E nem poderia.
+A pretensão indenizatória deduzida pelos executados nesse momento de cumprimento de sentença afronta o título judicial já transitado em julgado e, portanto, com força executiva. O pleito indenizatório, como se sabe, se volta a direitos patrimoniais disponíveis dos agravantes, cujo silêncio após sua citação tornou preclusa a oportunidade de alegá-lo e requerê-lo durante o trâmite da ação principal.
+A necessidade de análise deste pedido na ação de conhecimento decorre da indispensabilidade de produção de provas visando a existência da boa-fé tipificada no art. 1.255 do Código Civil, que permite o reembolso pela construção erigida em terreno alheio conforme requerido pelos agravantes neste momento.
+Uma vez não formulado este pedido em momento oportuno, a preclusão em relação a ele é patente, impedindo seu deferimento na estreita via do cumprimento de sentença ou até mesmo deste agravo, devendo, se o caso, ser objeto de ação própria.
+Desta feita, observa-se que a Corte de origem, soberana na análise do conjunto fático-probatório dos autos, consignou que a análise do enriquecimento sem causa e do valor da indenização não é possível nesse momento processual, ante a preclusão da matéria pela revelia da parte ora recorrente.
+In casu, para derruir as referidas conclusões contidas no decisum recorrido, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. FALHA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 284/STF. INADMISSIBILIDADE. DECISÃO MANTIDA.
+ ..
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu pela legalidade dos atos processuais, por ausência de prejuízo da parte interessada e ainda pela preclusão da indicação do rol das testemunhas e dos quesitos necessários à prova pericial. Alterar esse entendimento demandaria o reexame probatório, o que é vedado em recurso especial.
+5.  ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.544.185/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA PARTE ADVERSA. AGRAVO INTERNO PARCIALMENTE PROVIDO PARA AFASTAR A PREJUDICIALIDADE E, DE PLANO, CONHECER EM PARTE DO APELO EXTREMO DA VIRAGO E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+ ..
+1.3. A revisão das conclusões do acórdão recorrido, com o intuito de verificar a existência ou não de preclusão consumativa, somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+ ..
+3. Agravo interno parcialmente provido para afastar a prejudicialidade do apelo extremo da virago, e, de plano, conhecer em parte o seu recurso e, nessa extensão, negar-lhe provimento.
+Mantida a decisão quanto ao parcial provimento do recurso especial da parte adversa.
+(AgInt nos EDcl no AgRg no AREsp n. 562.197/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/5/2024, DJe de 3/6/2024.)  grifou-se
+Inafastável, portanto, a incidência do enunciado da Súmula 7/STJ.
+Advirta-se, por derradeiro, que eventual interposição de recurso manifestamente inadmissível ou protelatório poderá ensejar, conforme o caso, a aplicação de multa calculada sobre o valor atualizado da causa (arts. 1.021, § 4º e 1.026, § 2º, CPC/2015).
+3. Do exposto, conheço do agravo para negar provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
