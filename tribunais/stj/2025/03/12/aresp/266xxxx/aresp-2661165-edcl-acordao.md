@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. ERRO MATERIAL. ACOLHIMENTO PARCIAL.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos parcialmente acolhidos, apenas para sanear erro material.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ADILSON RODRIGUES contra acórdão de minha relatoria que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fl. 331):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+Sustenta a parte Embargante que o acórdão impugnado olvidou-se a respeito de questão relevante capaz de afastar o referido óbice sumular, qual seja, que (fl. 343): "o referido acórdão foi omisso ao deixar de considerar as impugnações específicas e dialéticas feitas no agravo em recurso especial e alegar . Isso porque, a decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO (processo de nº 5006028-35.2020.4.02.5001, fls. 42)".
+Alegou, ainda, a existência de erro material, argumentando que "o embargante insurge quanto à existência de erro material quando o acórdão atacado faz alusão à folha 473 dos presentes autos, o qual demonstrou a suposta existência de fundamentação genérica por parte do Embargante" (fl. 346), e que "inexiste tal documentação nos autos, uma vez que o feito é composto por 340 páginas e não 473, demonstrando mais uma vez a necessidade de revisão detalhada do acórdão guerreado" (Ibidem).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. ERRO MATERIAL. ACOLHIMENTO PARCIAL.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos parcialmente acolhidos, apenas para sanear erro material.
+VOTO
+Os embargos de declaração devem ser parcialmente acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia e conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Outrossim, no aresto embargado foi explicitamente assinalado o seguinte:
+Nos termos da decisão agravada, o agravo em recurso especial não foi conhecido porque deixou de ser impugnada a incidência da Súmula n. 7 do STJ, fundamento este utilizado pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO para não admitir o apelo nobre.
+Portanto, inarredável a incidência da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+ ..
+No que concerne à Súmula n. 7 do STJ, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório, conforme se observa da fl. 473.
+Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC/2015).(fls. 332-333).
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Contudo, procede o argumento em relação ao erro material. A menção às fls. 473 não correspondem à realidade dos autos. Evidencia-se erro de digitação, pois às fls. 273 há início à menção da tentativa de impugnação do óbice da Súmula n. 7/STJ. Colaciono excerto da fundamentação do ora embargante:
+Com efeito, a análise do Recurso Especial não provoca o reexame do conjunto probatório, porquanto para a conclusão da violação à Lei Federal basta constatar se houve divergência da aplicação aos termos do dispositivo.
+In casu, no pro"prio documento de pag. 02, que a Agravada acostou no evento 47 dos autos de nº 5006028-35.2020.4.02.5001, demonstra claramente que o Recorrente na o possui nenhuma inscriça o em parcelamento, como tambe"m, na pág. 04 do mesmo documento, comprova que o tal parcelamento sequer fora efetuado.
+Inobstante a isso, é indubitável que os créditos tributários foram acobertados pela prescrição, diante do parcelamento de ofício imposto pela agravada, o que torna claro que esta não logrou em comprovar que o parcelamento havia sido solicitado pelo Agravante, inclusive, sequer comprovou que o mesmo existiu, acostando aos autos documentos completamente controversos e antagônicos às suas alegações.
+Sendo assim, verificada a inocorrência das causas de suspensão e interrupção da exigibilidade do crédito tributário, mais precisamente, a inobservância do art. 174, parágrafo único, IV do CTN, por parte da Recorrida, o juiz ad quo, brilhantemente em sua sentença, reconheceu a prescrição integral dos créditos tributários e, consequentemente, extinguiu a execução fiscal, declarando a extinção dos referidos créditos tributários.
+Dessa forma, restou claro na primeira instância, que não houve interrupção do prazo prescricional uma vez que não houve o reconhecimento da dívida por parte do contribuinte conforme se exige (art. 174, parág. único, IV do CTN).
+Logo, não se busca o reexame do conjunto probatório, ou nova discussão sobre as provas trazidas aos autos, uma vez que resta claro no presente caso que a discussão é apenas jurídica e não fática. O que se fez foi apenas um comparativo acerca do ato inequívoco previsto no artigo acima e a ausência deste no presente feito. Tal comparação é fundamental para elucidação do artigo e reconhecimento de violação a este! (fl. 273-274)
+Ressalte-se que estes trechos foram referenciados quando da prolação da decisão monocrática de fls. 293-296.
+Deve-se, portanto, reconhecer o erro material no acórdão referido, fazendo constar no voto condutor do acórdão o que segue (fl. 333):
+No que concerne à Súmula n. 7 do STJ, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório, conforme se observa das fls. 273-274.
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração, apenas para sanear erro material, nos termos da fundamentação supra.
+É como voto.
