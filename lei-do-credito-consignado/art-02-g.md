@@ -1,0 +1,3 @@
+Art. 2º-G Fica instituído o Comitê Gestor das Operações de Crédito Consignado que, entre outras atribuições, poderá estabelecer os parâmetros para os elementos, os termos e as condições do contrato e para a operacionalização e a execução das operações de crédito consignado de empregados de que trata o art. 1º.
+§ 1º O Comitê de que trata o caput será constituído por representantes da Casa Civil da Presidência da República, do Ministério do Trabalho e Emprego e do Ministério da Fazenda.
+§ 2º O Poder Executivo federal regulamentará as competências, a forma de funcionamento e as demais atribuições do Comitê Gestor das Operações de Crédito Consignado de que trata este artigo.
