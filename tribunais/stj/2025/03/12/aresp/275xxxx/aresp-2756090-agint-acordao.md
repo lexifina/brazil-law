@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/03/2025 a 12/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO INFIRMADO O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nas razões do interno, não foram impugnados os fundamentos da decisão agravada, o que faz incidir o óbice da Súmula n. 182 do STJ;
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 622-625) interposto pelo MUNICÍPIO DO RIO DE JANEIRO contra decisão da Presidência do Superior Tribunal de Justiça (fls. 608-609), por meio da qual não foi conhecido o agravo em recurso especial.
+O recurso especial foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no Apelação Cível n. 0002474-82.2013.8.19.0001, assim ementado (fls. 280-290):
+APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. OBRAS DO CORREDOR TRANSCARIOCA. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DO MUNICÍPIO DO RIO DE JANEIRO QUE SE CINGE AOS JUROS COMPENSATÓRIOS E MORATÓRIOS. MONTANTE INDENIZATÓRIO FIXADO DE ACORDO COM O LAUDO PERICIAL. OMISSAO NA SENTENÇA EM RELAÇÃO AOS JUROS COMPENSATÓRIOS, OS QUAIS DEVEM SER FIXADOS EM 6% AO ANO SOBRE A DIFERENÇA APURADA ENTRE 80% DO PREÇO OFERTADO E O VALOR DO BEM FIXADO NA SENTENÇA, A CONTAR DA IMISSÃO PROVISÓRIA NA POSSE ATÉ O EFETIVO PAGAMENTO DA INDENIZAÇÃO, NOS TERMOS DO ARTIGO 15-B DO DECRETO-LEI Nº 3.365/41. APLICAÇÃO DO ENTENDIMENTO FIRMADO PELO STF NA ADI 2332. JUROS MORATÓRIOS DEVIDOS E ADEQUADAMENTE FIXADOS NA SENTENÇA. RECURSO CONHECIDO AO QUAL SE DÁ PARCIAL PROVIMENTO.
+Opostos Embargos de Declaração (fls. 304-306) que foram rejeitados (fls. 333- 341).
+Sustenta a parte agravante que (fls. 623-624):
+O i. Min. Relator entendeu pelo não conhecimento do agravo em recurso especial do Município do Rio de Janeiro, sob o argumento de que a parte agravante deixou de impugnar especificamente a inadmissão do recurso especial com base na Súmula 284 do STF. Ocorre que o fundamento foi impugnado de forma precisa.
+Isto porque, em sede de agravo em recurso especial, o Município demonstrou, cabalmente, a inaplicabilidade da Súmula 284 do STF como fundamento de inadmissão do recurso especial, na medida em que, tanto no recurso especial como no agravo, as violações a dispositivos de lei federal infraconstitucional foram claramente identificadas e correlacionadas com a questão jurídica em debate, não havendo que se falar em deficiência de fundamentação ou impossibilidade de compreensão da controvérsia.
+Em suma, a decisão da 3ª Vice-Presidência inadmitiu o recurso especial, ao argumento de que não houve prequestionamento, no tocante a alegação de omissão quanto à ausência de comprovação de renda, consubstanciando inovação recursal e supressão recursal e que, desse modo, o apelo especial não logrou atacar propriamente os fundamentos do acórdão recorrido.
+Ocorre que, a questão ventilada no recurso especial, em suma, é a violação incorrida pelo v. acórdão do Tribunal Local aos art. 15-A do DL 3.365/41, que teve a constitucionalidade ratificada no julgamento da ADI 2.332 e aos arts. 927 e 1022 do CPC/2015, ao entender pela fixação de juros compensatórios, desconsiderando a ausência de comprovação de perda de renda.
+ ..
+Desta feita, como se pode depreender não houve assertiva genérica, todos os fundamentos da decisão combatida foram refutados de forma precisa, bem como, o Município do Rio de Janeiro não se limitou a transcrever os argumentos do instrumento recursal, realizando o confronto específico dos pressupostos, razão pela qual não há que se falar em ausência de dialeticidade nem incidência por analogia a Súmula nº 182 do E. STJ.
+Foi apresentada resposta ao agravo interno (fls. 632-639).
+O Ministério Público Federal apresentou parecer no sentido do não provimento do agravo interno (fls. 664-665).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO INFIRMADO O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nas razões do interno, não foram impugnados os fundamentos da decisão agravada, o que faz incidir o óbice da Súmula n. 182 do STJ;
+2. Agravo interno não conhecido.
+VOTO
+Inicialmente, esclareço que o art. 1.021, § 1º, do Código de Processo Civil/2015, em harmonia com o princípio da dialeticidade, estabelece que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Na espécie, o agravo em recurso especial não foi conhecido por ausência de impugnação específica de um dos fundamentos da decisão que inadmitiu o apelo nobre, qual seja, a incidência da Súmula n. 284 do STF.
+Todavia, no agravo em recurso especial, não houve impugnação específica quanto à aplicação da Súmula n. 284 do STF. Em nenhum momento se impugnou o fundamento de que as razões do recurso especial estavam dissociadas do acórdão recorrido, o que justificaria a incidência da referida súmula.
+Observa-se, em verdade, a alegação genérica de que "em que pese à redação sumular 211 do Superior Tribunal de Justiça e 284 do Supremo Tribunal Federal, forçoso recordar que sua edição ocorreu sob a égide de outro diploma legal que, atualmente, se encontra revogado. Portanto, a aplicação da súmula exige sua releitura a partir das mudanças legais e jurisprudenciais do ordenamento pátrio" (fl. 555).
+No entanto, cabia à parte agravante demonstrar, de forma clara e suficiente, que impugnou especificamente, no agravo em recurso especial, todos os fundamentos que levaram à inadmissão do recurso especial. Contudo, isso não foi feito.
+Nessas condições, são aplicáveis o comando normativo contido no art. 932, inciso III, do Código de Processo Civil, bem como a Súmula n. 182 do STJ, litteris: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC. 6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ressalto que a Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É o voto.
