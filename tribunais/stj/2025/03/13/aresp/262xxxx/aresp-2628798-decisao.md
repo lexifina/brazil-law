@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por S F S contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 250):
+TRANSPORTE AÉREO. Ação de indenização por danos morais e materiais. Impossibilidade de pouso no aeroporto de destino que fez com que a aeronave retornasse à origem. Sentença de parcial procedência, condenando a parte ré ao pagamento de indenização por danos morais, no valor de R$3.000,00 para cada autor. Irresignação da parte ré. Recurso adesivo da parte autora. Cabimento em parte do recurso adesivo. Retorno da aeronave à origem que fez com que os autores tivessem que aguardar por quase treze horas no aeroporto. Fato incontroverso. Alegação de que o pouso não foi possível por más condições climáticas que não foi comprovada pela parte ré. Inexistência de excludente de responsabilidade. Falha na prestação de serviço. Descaso posterior com os passageiros que caracteriza o dever de indenizar. Parte ré que não comprovou a assistência aos autores durante o período em que tiveram que esperar o próximo voo. Responsabilidade da empresa aérea reconhecida. Tenra idade de um dos autores que não afasta a configuração do dano moral, agravando, ao invés, a reprovabilidade da conduta da companhia aérea, tendo em vista a hipervulnerabilidade da criança. Dano moral configurado. Dano "in re ipsa". Quantum indenizatório que comporta majoração para o importe de R$10.000,00 por autor, estando em consonância com os princípios da proporcionalidade e da razoabilidade, bem como com as peculiaridades do caso. Atualização monetária desde a sentença. Juros de mora corretamente fixados desde a citação, por se tratar de responsabilidade contratual. Sucumbência recíproca configurada, ante a rejeição do pedido de indenização por dano material, não impugnada em recurso. Sentença proferida sob a égide do CPC/73, sendo correta a compensação de honorários. Recurso da ré não provido e recurso adesivo dos autores provido em parte.
+Rejeitados os embargos de declaração opostos (fls. 267-272).
+No recurso especial, o recorrente alega que o acórdão contrariou as disposições contidas nos arts. 186, 403, 884, 886, 927, 944 e 946 do Código Civil, sustentando que o quantum indenizatório (R$ 40.000,00) é excessivo e desproporcional, desconsiderando a ocorrência de fortuito externo (mau tempo).
+Pugna pela redução da indenização com base nos princípios da razoabilidade e proporcionalidade.
+Sem contrarrazões ao recurso especial (fl. 294).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 303-304), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 323-325).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Do reexame de fatos e provas. Súmula n. 7/STJ
+Com efeito, o Tribunal de origem, após ampla análise do conjunto fático-probatório, concluiu que a companhia aérea falhou na prestação do serviço, o que caracterizou dano moral indenizável, justificando a majoração da indenização para R$ 10.000,00 por passageiro, totalizando R$ 40.000,00, em observância aos princípios da razoabilidade e proporcionalidade.
+Confira-se excerto do acórdão (fls. 253-256):
+ ..
+Assim, a ré responde objetivamente por eventuais danos que possam ser causados a seus passageiros, ou seja, sua responsabilidade independe de culpa pelos danos causados, e somente não seria responsabilizada pelo descumprimento do contrato em caso de comprovação das excludentes legais.
+A alegação genérica de que o mau tempo acarretou o impossibilitou o pouso no aeroporto de destino, obrigando a aeronave a retornar a São Paulo, sem provas concretas, não se mostra apta a ilidir a responsabilidade da companhia aérea.
+Ainda que assim não fosse, mesmo que estivessem comprovadas as intercorrências climáticas prejudiciais ao voo da parte autora, tal fato não afastaria, "in casu", a responsabilidade da ré já que no caso em que companhia aérea, além de atrasar desarrazoadamente o voo do passageiro, deixe de prestar-lhe assistência durante o período de atraso, furtando-se de fornecer tanto informações claras acerca do prosseguimento da viagem (em especial, relativamente ao novo horário de embarque e ao motivo do atraso) quanto em relação à alimentação e hospedagem, tal como ocorreu "in casu", caracteriza-se o dano moral indenizável in re ipsa, independentemente da causa originária do atraso do voo. (STJ, Informativo 550, 3ª Turma. REsp 1.280.372-SP, Rel. Min. Ricardo Villas Bôas Cueva, julgado em 7/10/2014).
+De rigor ressaltar que a parte autora teve que aguardar quase treze horas no aeroporto, sendo que um dos passageiros era uma criança de três anos, após terem chegado ao aeroporto de saída às 4h30 da manhã, fatos incontroversos, o que extrapola o limite do mero aborrecimento.
+No caso em tela, a parte autora apenas recebeu um vale - alimentação para o almoço, quando a obrigação da companhia aérea era de fornecer alimentação compatível com o período de espera, além de acomodação adequada, sendo a parte autora domiciliada em Campinas SP, conforme disposto na Resolução n º 141/2010 da ANAC:
+ ..
+Não há que se falar, ainda, que a tenra idade da autora Geovana, à época dos acontecimentos, afaste a configuração do dano moral, tendo, pelo contrário, condão de agravar a reprovabilidade da conduta da parte requerida, posto ter causado dano imaterial a sujeito duplamente vulnerável, em razão da idade e da condição de consumidor.
+Nesse sentido, seguem os ensinamentos da doutrina:
+ ..
+Inequívoco, pois, o dano moral sofrido pela parte autora.
+Quanto ao valor da indenização, para atender aos princípios da razoabilidade e da proporcionalidade na fixação o "quantum" a ser pago como indenização pelo dano moral causado, deve-se ter em conta os fatos que ensejaram o abalo à vítima, o nível econômico do ofendido e o porte econômico do ofensor.
+Isso porque o arbitramento deve ser significativo de modo a não só compensar a dor, a angústia, o vexame, o abalo psicológico da vítima, mas também a penalizar o causador do dano, considerados, pois, a sua contribuição para o sofrimento daquela, o grau de sua culpa e sua capacidade econômica.
+Desse modo, tem-se que a fixação não pode ser excessiva, de modo a causar enriquecimento sem causa à vítima, nem tampouco irrisória, o que contribuiria para a sensação de impunidade do prestador de serviços e, consequentemente, estímulo à repetição de fatos como aquele descrito nos autos.
+ ..
+A quantia indenizatória de R$3.000,00 para cada um dos autores, fixada pelo d. Juízo de origem, comporta majoração para o importe de R$10.000,00 para cada autor, quantia que se mostra mais adequada para atender à finalidade sancionadora e reparadora, tendo em vista as peculiaridades do caso, observados os princípios da proporcionalidade e razoabilidade, estando, ainda, em consonância com os precedentes desta C. Câmara para casos semelhantes.
+ ..
+Alterar o decidido no acórdão impugnado, no que se refere à fixação do quantum indenizatório, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Assim, é assente nesta Corte o entendimento de que "a revisão do valor fixado a título de danos morais somente é permitida quando irrisório ou exorbitante o valor. Ausente tais circunstâncias, a análise encontra óbice na Súmula nº 7 do STJ" (AgInt no AREsp n. 1.269.703/RJ, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 1/6/2020, DJe de 4/6/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+- Honorários recursais
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 12).
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. REVISÃO DE ELEMENTOS FÁTICOS E PROBATÓRIOS. VEDAÇÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
