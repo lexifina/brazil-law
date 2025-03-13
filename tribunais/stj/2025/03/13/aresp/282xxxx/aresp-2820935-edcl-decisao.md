@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por EDILAINE ROSA FURUZONO à decisão de fls. 260/261, que não conheceu do recurso.
+Sustenta a parte embargante:
+No entanto Excelência, conforme pode-se constatar na peça constante às fls. 232/240 dos presentes autos, tanto a convergência quanto a divergência do acórdão prolatado pelos d. Desembargadores a quo em relação a jurisprudência desta Colenda Corte foi exaustivamente ventilada.
+Consonante o quanto relatado acima, a ilustração a seguir, retirada do Agravo em Recurso Especial, demonstra que a ora Embargante comprovou que o v. acórdão prolatado pelos d. Desembargadores a quo está em total desacordo com o entendimento desta Colenda Corte Superiora, visto que o v. acórdão permitiu a cobrança dos juros remuneratórios pactuados no contrato objeto do litígio, mesmo este tendo sido imposto pelo Embargado em percentual 02 (duas) vezes maior que a taxa de juros média de mercado informada pelo Banco Central, vejamos:
+ ..
+Nesses termos Excelência, restou nítida a contradição e obscuridade na r. decisão ora recorrida, na medida em que o Agravo em Recurso Especial deixou de ser reconhecido devido a ora Embargante não ter indicado de forma precisa a contradição ao dissídio jurisprudencial, o que, na verdade, fora realizado exaustivamente pela Embargante, uma vez que esta demonstrou que ambos os acórdãos foram prolatados em ações que tratavam da declaração de abusividade da taxa de juros remuneratórios cobrados em percentual muito superior à taxa média de mercado divulgada pelo Banco Central, mas que o d. acórdão prolatado pelo Egrégio Tribunal de Justiça do Rio Grande do Sul deu interpretação totalmente divergente à d. decisão proferida pelo EGRÉGIO TRIBUNAL DE JUSTIÇA DE SÃO PAULO (fls. 265/268).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ao contrário do que alega a parte embargante e conforme consignado expressamente na decisão embargada incide a Súmula n. 284/STF, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do Recurso Especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que se mostra inviável a adequação posterior dos pressupostos processuais do recurso especial na medida em que tais requisitos necessariamente devem ser preenchidos em concomitância com a sua interposição.
+Nesse sentido:(AgRg no AREsp 1393027/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 26.09.2019), (AgRg no REsp n. 1.848.188/RS, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 19.2.2020) e (AgRg no REsp n. 1.378.020/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 5.12.2014.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
