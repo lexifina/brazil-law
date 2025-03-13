@@ -1,0 +1,44 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo ESTADO DO RIO DE JANEIRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (fls. 105-116), assim ementado:
+MANDADO DE SEGURANÇA. IPVA. PAGAMENTO EFETUADO NO ESTADO DE SÃO PAULO. COBRANÇA EM DUPLICIDADE PELO ESTADO DO RIO DE JANEIRO. IMPOSSIBILIDADE. FATO GERADOR DA OBRIGAÇÃO TRIBUTÁRIA QUE OCORREU EM 1º DE JANEIRO DE 2013, NO ESTADO DE SÃO PAULO.
+- Como cediço, o art. 155, III da Constituição Federal dispõe ser de competência dos Estados à instituição do imposto sobre propriedade de veículos automotores (IPVA).
+- Em se tratando de IPVA, o lançamento se opera de ofício, no primeiro dia de cada exercício em razão da propriedade de veículo automotor, ocorrendo nesta oportunidade a constituição definitiva do crédito tributário.
+- Cumpre ainda ressaltar que a Lei Estadual RJ 2.877/97 define em seu artigo 1º, § 2º os elementos temporais do IPVA e estabelece como norma geral que o fato gerador e o lançamento de ofício do IPVA se darão no dia 1º de janeiro de cada exercício.
+- In casu, o nascimento da obrigação tributária referente ao exercício de 2013 ocorreu em 1º de janeiro de 2013, restando comprovado que o proprietário do veículo, à época, já havia efetuado o pagamento do imposto no Estado de São Paulo.
+- Inconcebível, pois, a cobrança do IPVA também pelo Estado do Rio de Janeiro, sob pena de bitributação, consoante os reiterados precedentes deste Egrégio Tribunal.
+ORDEM CONCEDIDA.
+A parte recorrente opôs embargos de declaração contra a decisão recorrida, tendo sido estes negados (fls. 158-167).
+Em seguida, interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado os arts. 1º e 6º, § 3º, da Lei n. 12.016/2009; arts. 485, VI, e 1.022, II, ambos do CPC, bem como dissídio jurisprudencial.
+Posteriormente, houve o sobrestamento do recurso especial para aguardar o julgamento do tema n. 708/STF (226-229) e, determinação para que fosse exercido o juízo de retratação (fls. 242-244).
+Juízo de retratação que não foi exercido (fls. 270-279).
+O recurso especial foi inadmitido em relação aos arts. 1º e 6º, § 3º, da Lei n. 12.016/2009 e art. 485, VI, do CPC, bem como o dissídio jurisprudencial, por incidência da Súmula n. 83/STJ (fls. 292-297), tendo a parte interposto o presente agravo.
+É o relatório.
+Passo a decidir.
+A Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do recurso especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014).
+Ademais, a decisão de inadmissibilidade "genericamente fundamentada que não permite o enfrentamento específico por parte da agravante torna inexigível a impugnação do respectivo fundamento para a conversão do agravo em recurso especial" (AgRg no AREsp n. 142.531/AL, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/6/2012, DJe de 27/6/2012).
+No caso, o Tribunal de origem reconheceu a legitimidade passiva do Secretário de Fazenda do Estado do Rio de Janeiro para figurar em mandado de segurança que discute a cobrança de crédito de IPVA, nos seguintes termos: "Quanto à ilegitimidade passiva sustentada o recurso não merece prosperar, haja vista que o Secretario de fazenda possui legitimidade para figurar na relação processual, em razão de seu poder decisório" (fl. 110).
+Ocorre, contudo, que o Superior Tribunal de Justiça tem se pronunciado no sentido de que o Secretário de Fazenda do Estado não é parte legítima para figurar como autoridade coatora em mandados de segurança em que se discute a exigibilidade de tributos, não havendo falar, de outro lado, na possibilidade de encampação nem em eventual poder hierárquico sobre seus subordinados, uma vez que sua presença indevida no mandamus altera a competência para o julgamento da ação.
+Nesse sentido, confira-se:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ICMS-DIFAL. SECRETÁRIO DE ESTADO DE FINANÇAS. ILEGITIMIDADE PASSIVA. TEORIA DA ENCAMPAÇÃO. INAPLICABILIDADE. MODIFICAÇÃO DA COMPETÊNCIA PARA PROCESSAMENTO DO MANDADO DE SEGURANÇA. VEDAÇÃO. SÚMULA 628/STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento pacífico quanto à ilegitimidade passiva do Secretário Estadual da Fazenda para figurar no polo passivo de mandado de segurança em que veiculada pretensão de cobrança de tributos estaduais. Precedentes.
+2. Não se aplica ao caso a teoria da encampação, porquanto a presença indevida do Secretário de Estado no polo passivo do mandado de segurança ensejou a modificação da competência jurisdicional.
+Inaplicabilidade da Súmula 628/STJ.
+3. Agravo interno desprovido.
+(AgInt no RMS n. 69.840/RO, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/6/2024, DJe de 21/6/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO EM MANDADO DE SEGURANÇA. SECRETÁRIO DE ESTADO DA FAZENDA. ILEGITIMIDADE PASSIVA. TEORIA DA ENCAMPAÇÃO. INAPLICABILIDADE. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO. NÃO OCORRÊNCIA. REGRAS DE COMPETÊNCIA. OBSERVÂNCIA.
+1. O Superior Tribunal de Justiça tem se pronunciado no sentido de que o Secretário de Fazenda do Estado não é parte legítima para figurar como autoridade coatora em mandados de segurança em que se discute a exigibilidade de tributos, não havendo falar, de outro lado, na possibilidade de encampação nem em eventual poder hierárquico sobre seus subordinados, uma vez que sua presença indevida no mandamus altera a competência para o julgamento da ação.
+2. Os recursos em mandado de segurança dirigidos ao Superior Tribunal de Justiça são apreciados em sede de jurisdição ordinária, o que enseja o conhecimento de ofício de questões de ordem pública, entre elas a alusiva às condições da ação, no caso, especificamente, a relacionada com a legitimidade passiva da autoridade apontada como coatora.
+3. "A decisão que averigua os requisitos legais e constitucionais para a admissão do recurso não viola o art. 10 do CPC/15, pois "a aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa" (EDcl no REsp 1.280.825/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 27/06/2017, DJe de 1º/08/2017)" .
+4. Afastadas as alegações de desrespeito aos princípios da economia, celeridade e efetividade processuais, uma vez que a autoridade desses princípios pressupõe o respeito às normas processuais, incluídas aí, por certo, as regras de competência.
+5. Agravo interno não provido.
+(AgInt no RMS n. 67.607/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/11/2022, DJe de 12/12/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. PRETENSÃO VOLTADA CONTRA O LANÇAMENTO DO IMPOSTO. SECRETÁRIO DE ESTADO DA TRIBUTAÇÃO DO RIO GRANDE DO NORTE. ILEGITIMIDADE PASSIVA. 1. O
+Superior Tribunal de Justiça tem-se pronunciado no sentido de que o Secretário de Estado da Fazenda não é parte legítima para figurar como autoridade coatora em mandados de segurança em que se discute a constituição e a cobrança de tributos, não havendo falar, de outro lado, na possibilidade de encampação nem em eventual poder hierárquico sobre seus subordinados, uma vez que sua presença indevida no mandamus altera a competência para o julgamento da ação mandamental.
+2. Hipótese em que o writ, discutindo a base de cálculo do ICMS, foi impetrado contra o Secretário de Estado da Tributação do Rio Grande do Norte com objetivo de impedir o lançamento do imposto sobre os valores referentes ao Encargo de Uso de Sistema de Distribuição (EUSD), à Tarifa de Uso de Sistema de Distribuição (TUSD) e à Tarifa de Uso de Sistema de Transmissão (TUST).
+3. Agravo interno não provido.
+(AgInt no RMS n. 55.681/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/8/2018, DJe de 6/9/2018.)
+De modo que o acórdão recorrido destoa da jurisprudência desta egrégia Corte, motivo pelo qual deve ser provido o recurso.
+Isso posto, com fundamento no art. 932, V, do CPC, bem como na Súmula n. 568/STJ e art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo, para dar provimento ao recurso especial, a fim de extinguir o processo sem resolução de mérito.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
