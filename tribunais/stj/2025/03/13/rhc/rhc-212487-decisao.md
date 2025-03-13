@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Ronnie Aurelio de Paula contra acórdão proferido pela Sexta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus criminal n. 2389991-40.2024.8.26.0000, mantendo a prisão preventiva imposta ao recorrente pelo Juízo da 2ª Vara Criminal da comarca de Guarulhos/SP, pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico de drogas.
+Neste recurso, a defesa argumenta a insuficiência da fundamentação da prisão preventiva, destacando que o decreto prisional se baseou unicamente na quantidade de drogas apreendidas, sem analisar os requisitos do art. 312 do Código de Processo Penal (fl. 114). Alega, ainda, a ausência de habitualidade criminosa e de risco à ordem pública, respaldada por provas documentais e testemunhais que demonstram a conduta social irrepreensível do recorrente (fl. 115).
+Adicionalmente, sustenta que a apresentação voluntária do recorrente à autoridade policial reflete sua intenção de colaborar com a Justiça, afastando qualquer risco de fuga ou obstrução da aplicação da lei penal (fl. 117).
+A defesa também enfatiza o impacto familiar da prisão, especialmente para os filhos do recorrente, que dependem dele financeiramente e emocionalmente, em ofensa ao princípio da proteção integral à infância e juventude (fl. 116).
+Por fim, destaca as condições pessoais do recorrente, como a primariedade, residência fixa e vínculo empregatício (fl. 115).
+Requer, assim, o provimento do recurso para revogar a prisão preventiva, concedendo-lhe liberdade provisória ou aplicando medidas cautelares alternativas.
+É o relatório.
+Infere-se do decreto prisional (fl. 57):
+ ..
+segundo narrou a denúncia, está-se diante de conduta de tráfico de drogas, praticada com particular modus operandi, visto que os acusados para fazer o transporte das drogas teriam se valido de uma ambulância, escondendo em seu interior enorme quantidade de entorpecentes (77,42 kg de "maconha").
+Além disso, foi apreendida quantidade muito maior de entorpecentes em um quarto no estacionamento onde esse veículo estava estacionado no momento da abordagem policial, que no total alcança 1,4 toneladas de "maconha" (fls. 27/28 e 179/181).
+A descrita operação, a vultuosa quantia de entorpecentes apreendida e os maus antecedentes do réu (fls. 196/201) são indícios a denotar habitualidade criminosa e periculosidade social que justificam a sua segregação cautelar.
+Desse modo, a custódia cautelar do implicado atende ao devido processo substancial, revelando-se necessária para preservar a ordem pública, tão afligida no cotiado desta urbe pela criminalidade, e igualmente adequada para garantir a tranquilidade social e a paz pública. São essas as razões que, no caso em apreço, mostra- se insuficiente a imposição de qualquer outra medida cautelar para o fim pretendido
+Mantendo a medida constritiva, asseverou a Corte estadual (fls. 216/217):
+ ..  Há indícios de autoria e materialidade, de modo que a custódia preventiva se justifica para garantia da ordem pública e da aplicação da lei penal, caso venha a ser comprovada a imputação, mostrando-se insuficiente a aplicação das medidas cautelares diversas (art. 319).
+ ..
+A prisão cautelar abrange um juízo de risco e não de certeza. Dessarte, basta haver probabilidade de dano à ordem pública, à instrução criminal e à aplicação da lei penal para que se possa manter a custódia, situação que pode vir assentada em dados empíricos da própria causa em discussão (STF, HC nº 101.300, Rel. Min. AYRES BRITTO; HC nº 103.378, Rel. Min. CÁRMEN LÚCIA; HC nº 93.283, Rel. Min. EROS GRAU).
+Note-se que a prisão preventiva do recorrente está devidamente fundamentada na garantia da ordem pública, em razão da gravidade concreta do delito, conforme narrado na denúncia. Para o transporte das drogas, foi utilizada uma ambulância, escondendo no seu interior 77,42 kg de maconha. Além disso, foi apreendida uma quantidade muito maior de entorpecentes, totalizando 1,4 toneladas de maconha, em um quarto no estacionamento onde o veículo estava estacionado no momento da abordagem policial.
+A operação realizada, a quantidade expressiva de drogas apreendidas e os maus antecedentes do réu evidenciam sua habitualidade criminosa e periculosidade social, justificando a necessidade de segregação cautelar. A custódia é imprescindível para preservar a ordem pública, comprometida pela criminalidade na região, e garantir a tranquilidade social.
+Dada a gravidade do crime e o risco de reiteração, evidenciado pela reincidência do réu, a imposição de medidas cautelares alternativas é insuficiente. A prisão preventiva, portanto, é essencial para interromper a continuidade delitiva e garantir a eficácia da instrução criminal, estando corretamente fundamentada nos autos.
+A corroborar: AgRg no HC n. 948.676/RS, Sexta Turma, Ministro Og Fernandes, DJEN de 2/12/2024; AgRg no HC n. 960.893/SP, Quinta Turma, Ministro Reynaldo Soares da Fonseca, DJEN de 18/2/2025.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. APREENSÃO DE 1,4 TONELADAS DE MACONHA. REINCIDÊNCIA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE SOCIAL DO RECORRENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso improvido.
