@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por V B dos S e OUTRAS contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado:
+"AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DPVAT. PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO. PRESCRIÇÃO. OCORRÊNCIA. REFORMA DA SENTENÇA. PROVIMENTO DO RECURSO APELATÓRIO. MANUTENÇÃO DO DECISUM AGRAVADO. DESPROVIMENTO DO REGIMENTAL.
+- (Súmula nº 405/STJ)."A ação de cobrança do seguro obrigatório (DPVAT) prescreve em três anos"
+- É de três anos o prazo prescricional da ação de cobrança do seguro obrigatório, contados, no caso, da data do óbito do segurado.
+-Súmula nº 229 do STJ - "O pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão."
+- No caso dos autos, é incontroverso que o pedido administrativo foi realizado em 14 de agosto de 2019 (Id nº 13064393 - Pág. 31), suspendendo-se o prazo prescricional até a negativa de pagamento, que se deu em 17 de março de 2020 (Id nº 13064393 - Pág. 56).
+- Entre a data do óbito do segurado (19/11/16) e o requerimento administrativo (14/08/2019), transcorreram 2 anos, 08 meses e 24 dias, restando 3 meses e 6 dias. E entre o requerimento (14/08/2019) e a negativa (17/03/2020) houve a suspensão do prazo prescricional, conforme a Súmula 229 do STJ.
+- O prazo prescricional suspenso volta a correr pelo tempo restante, não se confundindo com a interrupção, na qual o prazo é reiniciado.
+- Na hipótese, a contagem do lapso continua em 18 de março de 2020 pelo tempo restante (3 meses e 6 dias), vencendo em junho/2020. Observe-se que a presente ação foi proposta apenas em 15 de março de 2021, ou seja, quando já transcorrido o prazo prescricional trienal (art. 206, § 3º, IX, do CC), mesmo descontando-se o período de suspensão do prazo durante o processo administrativo.
+- " APELAÇÃO. RESPONSABILIDADE CIVIL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DE DANOS PESSOAIS. DPVAT. Sentença que reconhece a prescrição. Prazo prescricional que se iniciou com a ciência do caráter permanente da lesão, ocorrida oito meses após o acidente (04/02/2012), conforme constado em perícia judicial (Súmulas nºs 278 e 573 do STJ). Prazo prescricional que foi suspenso durante o processo administrativo, cancelado por falta de documentação (Súmula nº 229 do STJ). Autor que não nega ter recebido as cartas juntadas pela Seguradora sobre o pedido de documentos e prazo de cancelamento da indenização. Pedido administrativo efetuado em 14/11/2014 e negado/cancelado em 27/05/2015. Negativa do pedido administrativo que não interrompe o prazo prescricional, apenas suspende (Súmula nº 229 do STJ). Causa suspensiva do prazo prescricional, que não se confunde com a interrupção da prescrição (art. 202, VI, do CC) quando há pagamento parcial da indenização. Ação ajuizada em 07/02/2017, após o lapso prescricional trienal, nos termos do artigo 206, § 3º, IX, do CC, mesmo considerando o início do prazo oito meses após o acidente (ciência do caráter permanente da lesão. Perda total da visão de um olho) e o período de suspensão do processo administrativo. Prescrição confirmada. Sentença mantida. Honorários majorados. RECURSO DESPROVIDO. (TJSP; AC 1000372-27.2017.8.26.0198; Ac. 13191770; Franco da Rocha; Trigésima Quarta Câmara de Direito Privado; Rel. Des. L. G. Costa Wagner; Julg. 16/12/2019; DJESP 19/12/2019; Pág. 3715)"
+- Inexistindo argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, sua manutenção é medida que se impõe" (e-STJ fls. 278/279).
+No recurso especial, as recorrentes alegam, além de divergência jurisprudencial, violação dos arts. 189 e 206, § 1º, II, "b", do Código Civil, sustentando que
+"(..) não há (..) falar em prescrição quando (..) sequer foram cientificadas a respeito da decisão que iria gerar o direito, pois não tinham ciência do fato gerador da pretensão, para que assim pudessem acionar judicialmente a pretensão dentro do prazo prescricional trienal" (fl. 306 e-STJ).
+Afirmam, ainda, que "a seguradora simplesmente não notificou as beneficiárias acerca da decisão de arquivamento do pedido, exatamente para que o prazo trienal escoasse por completo, e a pretensão das mesmas restasse prejudicada" (fl. 306 e-STJ).
+Com contrarrazões (fls. 317/324 e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem, ao prover apelação interposta pela ora recorrida, manifestou-se no seguinte sentido:
+"(..)
+De início, cumpre analisar se de fato a pretensão inicial foi fulminada pela prescrição.
+Segundo consta dos autos, as autoras pretendem indenização pelo Seguro DVAT em decorrência da morte por acidente de trânsito de Miguel Clementino da Silva, em 19 de novembro de 2016 ( Id nº. 13064371 - Pág. 1), genitor e esposo das requerentes.
+É sabido que a prescrição fulmina a pretensão, ou seja, é a perda do direito, devido ao decurso do prazo, de exigir de outrem uma ação ou omissão, originada a partir da violação de um direito material subjetivo.
+O prazo prescricional para ações da natureza da presente demanda é de 03 (três) anos, de acordo com o disposto no art. 206, § 3º, inciso IX, do Código Civil de 2002, e nos termos da Súmula 405 do Superior Tribunal de Justiça, que assim dispõem:
+(..)
+Além disso, tratando-se de morte do segurado, o prazo prescricional trienal começa a contar do óbito. Vejamos o seguinte julgado do Superior Tribunal de Justiça:
+(..)
+Ademais, nos termos da Súmula nº 229 do STJ - "O pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão."
+In casu, é incontroverso que o pedido administrativo foi realizado em 14 de agosto de 2019 (Id nº 13064393 - Pág. 31), suspendendo-se o prazo prescricional até a negativa de pagamento, que se deu em 17 de março de 2020 (Id nº 13064393 - Pág. 56).
+Logo, entre a data do óbito do segurado (19/11/16) e o requerimento administrativo (14/08/2019), transcorreram 2 anos, 08 meses e 24 dias, restando 3 meses e 6 dias. E entre o requerimento (14/08/2019) e a negativa (17/03/2020) houve suspensão do prazo prescricional, conforme a Súmula 229 do STJ.
+Ora, o prazo prescricional suspenso volta a correr pelo tempo restante, não se confundindo com a interrupção, na qual o prazo é reiniciado.
+Na hipótese, a contagem do lapso continua em 18 de março de 2020 pelo tempo restante (3 meses e 6 dias), vencendo em junho/2020.
+Observe-se que a presente ação foi proposta apenas em 15 de março de 2021, ou seja, quando já transcorrido o prazo prescricional trienal (art. 206, § 3º, IX, do CC), mesmo descontando-se o período de suspensão do prazo durante o processo administrativo.
+Ademais, ainda que o cancelamento do pleito tenha sido supostamente indevido, como alega a parte autora, e que houve pedido de recadastramento, é indiscutível que o novo requerimento só ocorreu quanto a pretensão já estava prescrita, em setembro de 2020, não havendo que se falar em nova suspensão de prazo já fulminado.
+(..)
+Ainda acerca da questão, acosto alguns arestos dos Tribunais Pátrios dispondo que o cancelamento do pedido é considerado a negativa da seguradora e o termo inicial do prazo prescricional. In verbis
+(..)
+Consoante exposto no ora vergastado, in casu, é indubitável que a pretensão está prescrita.
+Ora, considerando o prazo prescricional trienal a ser contado a partir do óbito do segurado, bem como tendo em vista o período em que o prazo ficou suspenso entre o pedido administrativo e a negativa da seguradora (cancelamento do pedido), vê-se que o lapso trienal venceu em junho/2020 e a presente ação apenas foi proposta em 15 de março de 2021, quando já transcorrido o prazo prescricional previsto no art. 206, § 3º, IX, do CC.
+Ademais, a alegação presente no agravo interno de que as autoras não tiveram ciência da negativa da seguradora (cancelamento do pedido), de modo que o prazo prescricional não poderia voltar a correr não merece conhecimento, pois se trata de inovação recursal, apenas arguida por ocasião desse regimental.
+Outrossim, frise-se, por amor ao debate, que as autoras na exordial afirmaram que "foi encaminhado pela Seguradora reconhecendo, assim, que houve ciência da resposta negativa da parte resposta de que o pedido teria sido CANCELADO", agravada.
+Ora, as próprias promoventes acostaram à petição inicial o documento de Id nº 13064374, datado de 17 de março de 2020, informando o cancelamento do pedido administrativo pela Seguradora" (fls. 281/286, e-STJ).
+Com efeito, rever o entendimento firmado pelas instâncias ordinárias para discutir a efetiva suspensão do prazo prescricional na hipótese e/ou a ciência acerca da negativa da seguradora sobre o pedido administrativo (cancelamento) demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Nessa linha de consideração, os seguintes julgados:
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB ÉGIDE NO NCPC. ACIDENTE DE VEÍCULO. SEGURO OBRIGATÓRIO. DPVAT. AÇÃO DE COBRANÇA. PEDIDO ADMINISTRATIVO. SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ RECUSA DA SEGURADORA. CIÊNCIA DO SEGURADO. DATA. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7 STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta Corte firmou o entendimento de que o prazo prescricional para a indenização securitária fica suspenso enquanto a seguradora analisa a comunicação do sinistro, voltando a fluir a partir da resposta definitiva acerca do pagamento da indenização.
+3. Reconhecida pelo Tribunal mineiro, com base no acervo fático-probatório dos autos, que a prescrição estava suspensa e que não houve a comprovação da negativa da seguradora, o exame da pretensão recursal no sentido de verificar a existência de resposta administrativa negativa, após a qual teria se reiniciado o cômputo do prazo prescricional, demandaria o reexame das provas, o que é vedado em recurso especial, pela vedação da Súmula nº 7 desta Corte.
+4. Agravo interno não provido" (AgInt no AR Esp n. 1.956.380/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/2/2022, D Je de 23/2/2022)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA E ACIDENTES PESSOAIS. APÓLICE COLETIVA. PRESCRIÇÃO. PRAZO ÂNUO. TERMO INICIAL. CONHECIMENTO INEQUÍVOCO DA INCAPACIDADE LABORAL. PEDIDO ADMINISTRATIVO. SUSPENSÃO DO PRAZO PRESCRICIONAL. DATA DA CIÊNCIA DA RECUSA DE PAGAMENTO. PROSSEGUIMENTO DA CONTAGEM. INVERSÃO DO JULGADO. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte Superior consolidou-se no sentido de que, nos termos do art. 178, § 6º, II, do Código Civil de 1916 (correspondente ao art. 206, § 1º, II, do CC/2002), a ação do segurado em grupo contra a seguradora prescreve em um ano, contado da data em que tiver conhecimento inequívoco da sua incapacidade laboral (Súmulas nºs 101 e 278/STJ).
+2. Consoante a Súmula nº 229/STJ, o pedido administrativo do pagamento de indenização à seguradora apenas suspende o prazo de prescrição até que o segurado tenha ciência da decisão.
+3. Chegar a conclusão diversa acerca da data da ciência inequívoca da invalidez permanente e do termo inicial do prazo de prescrição, aferidos com base nas provas dos autos, encontra óbice na Súmula nº 7/STJ.
+4. Agravo regimental não provido" (AgRg no REsp n. 1.475.589/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2015, DJe de 6/8/2015).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.5
+EMENTA
