@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por COMERCIAL DE VEÍCULOS ARARANGUAENSE LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMÓVEIS ARREMATADOS PELO EXEQUENTE EM 2014, COM PEDIDO DE NÃO EXIBIÇÃO DO PREÇO (COMPENSAÇÃO). INSURGÊNCIA CONTRA A ARREMATAÇÃO PELA FAZENDA PÚBLICA POR MEIO DE SIMPLES PETICIONAMENTO NOS AUTOS, ALEGANDO QUE POSSUI CRÉDITO PREFERENCIAL. DECISÃO EM QUE SE RECONHECEU QUE A EXISTÊNCIA DE CRÉDITO PREFERENCIAL OBSTA A POSSIBILIDADE DE NÃO EXIBIÇÃO DO PREÇO, DETERMINANDO- SE QUE O EXEQUENTE/ARREMATANTE EFETUE O DEPÓSITO EM JUÍZO DO VALOR CORRIGIDO DA ARREMATAÇÃO, SOB PENA DE SER ELA TORNADA SEM EFEITO. RECURSO DA PESSOA JURÍDICA CO-EXECUTADA. AVENTADA A NECESSIDADE DE AJUIZAMENTO DE AÇÃO AUTÔNOMA PARA VEICULAR A IMPUGNAÇÃO À ARREMATAÇÃO. IMPROCEDÊNCIA. IMPUGNAÇÃO FORMULADA APÓS A ASSINATURA DO AUTO DE ARREMATAÇÃO PELO JUIZ, PELO ARREMATANTE E PELO LEILOEIRO, PORÉM, ANTES DA EXPEDIÇÃO DA CARTA DE ARREMATAÇÃO. CONTEXTO EM QUE INEXISTE ÓBICE AO RECONHECIMENTO DE NULIDADE DE OFÍCIO PELO JUIZ OU A REQUERIMENTO DA PARTE INTERESSADA NOS PRÓPRIOS AUTOS DA EXECUÇÃO. EXEGESE DO DISPOSTO NO ARTIGO 694 DO CÓDIGO DE PROCESSO CIVIL DE 1973. INAPLICABILIDADE DA REGRA QUE ADMITE A NÃO EXIBIÇÃO DO PREÇO PELO CREDOR ARREMATANTE QUANDO HÁ CONCORRÊNCIA DE PENHORAS SOBRE O BEM, COM PREFERÊNCIA DE OUTRO CREDOR NO PRODUTO DA ARREMATAÇÃO (STJ. RESP N. I.540.742/G0, RELATOR MINISTRO RAUL ARAÚJO, QUARTA TURMA, JULGADO EM 7/3/2023, DJE DE 10/3/2023) RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 14 e 903, § 4º, ambos do CPC, no que concerne à impossibilidade de anulação de alienação judicial em atendimento a petição simples, tendo em vista que o CPC/2015, já vigente à época do pedido, prescreve que o pleito em referência deve ser articulado por meio de ação autônoma. Argumenta:
+Trata-se - na origem - de uma arrematação em que o Exequente arrematou os imóveis quando ainda era o CPC de 1973.
+A União ora Recorrido, já sob a vigência do NCPC, em petição avulsa postulou o desfazimento do lance ao argumento de que havia crédito preferencial a ser previamente satisfeito, não podendo o Exequente usar seu crédito.
+ ..
+O TJSC entendeu que na época a alienação judicial poderia ser anulada por meio de simples petição, tal como fez o Recorrido.
+ ..
+O NCPC determina que qualquer desfazimento de alienação judicial, seja qual a modalidade for, tem que ser pela via ordinária quando já assinado o auto, ora o caso dos autos.
+ ..
+E na época do pedido do Recorrido que visava à anulação do lance, como bem falado e igualmente incontroverso (vide abaixo), já vigorava o novo CPC, por isso é certo dizer que o pleito avulso do adversário sequer poderia ser conhecido; que dirá provido!
+Eventual vício deveria ser discutido em ação ordinária, o que não se viu, vindo o Regional transgredir assim o artigo 903, extensivo ao seu parágrafo 4.º, do CPC (fls. 107-110).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
