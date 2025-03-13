@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por BRENO HUDSON DE CERQUEIRA SANTOS, contra decisão que não admitiu recurso especial. O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 1197, e-STJ):
+INDENIZAÇÃO POR DANO MORAL - ERRO MÉDICO - RESPONSABILIDADE DE TODOS INTEGRANTES DA CADEIA CONSUMERISTA - FALHA NA PRESTAÇÃO DO SERVIÇO DO HOSPITAL E DA OPERADORA DO PLANO DE SAÚDE E DO MÉDICO (DEMONSTRAÇÃO DA CULPA), DIANTE DA PROVA DOCUMENTAL E TESTEMUNHAL - REALIZAÇÃO DE VASECTOMIA AO INVÉS DA FRENULOPLASTIA QUE FOI SOLICITADA PELO PRÓPRIO MÉDICO CIRURGIÃO - PROCEDIMENTO REVERTIDO POSTERIORMENTE COM SUCESSO - FIXAÇÃO DO QUANTUM EM R$ 10.000,00 PARA O HOSPITAL, R$ 5.000,00 PARA O PLANO DE SAÚDE E R$ 5.000,00 PARA O MÉDICO - MANUTENÇÃO - APELOS CONHECIDOS E DESPROVIDOS - UNÂNIME.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 1211-1213, e-STJ.
+A parte recorrente aponta violação aos arts. 944 do Código Civil. Sustenta, em síntese, que os danos morais foram fixados em patamar irrisório, requerendo, portanto, sua majoração.
+Contrarrazões apresentadas às fls. 1303-1318, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 1363-1373 , e-STJ).
+É o relatório.
+Decido.
+1. Insurge-se o recorrente quanto ao valor da indenização por danos morais fixada pelo Tribunal a quo, ao argumento de que o acórdão feriu os princípios da razoabilidade e proporcionalidade ao impor o pagamento de R$ 20.000,00 (vinte mil reais), apontando violação ao artigo 944 do Código Civil.
+Com efeito, não obstante o grau de subjetivismo que envolve o tema da fixação da indenização, uma vez que não existem critérios determinados e fixos para a quantificação do dano moral, reiteradamente tem-se pronunciado esta Corte no sentido de que a reparação do dano deve ser fixada em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido.
+Com a apreciação reiterada de casos dessa natureza, concluiu-se que a intervenção desta Corte ficaria limitada aos casos em que o quantum fosse ínfimo ou exagerado, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição. No caso em tela, consideradas as circunstâncias e peculiaridades do caso, o Tribunal local assim concluiu:
+Por fim, quanto ao valor da indenização, observo que o magistrado foi prudente na fixação, pois considerou a relevância de participação a quo de cada um dos responsáveis como R$ 10.000,00 para o hospital que errou ao indicar o procedimento diverso; o plano de saúde em R$ 5.000,00 pois integrante da cadeia consumerista pela escolha e autorização do serviço com o médico aqui demandado; e este profissional que realizou a cirurgia diversa da que ele mesmo solicitou, ficando condenado ao pagamento de R$ 5.000,00. Pelo lado do autor, a quantia de R$ 20.000,00 é razoável para reparar sua dor, especialmente considerando que a reversão foi exitosa e não ficou com sequelas.
+Referido valor, de fato, consideradas as circunstâncias fáticas, não destoa daqueles reputados razoáveis e proporcionais por esta Corte, em situações semelhantes, de modo a não haver justificativa para afastamento do óbice inserto na Súmula 7 do STJ. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO. DANO MORAL CONFIGURADO. QUANTUM. RAZOABILIDADE. RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Para derruir a análise do Tribunal recorrido sobre a configuração dos danos morais, bem como o montante fixado, é necessária a revisitação do conjunto fático-probatório, o que não encontra amparo na estreita via do recurso especial, a teor da Súmula n. 7 do STJ.
+Precedentes.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.647.913/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)  Indenização por dano moral: R$ 30.000,00 (trinta mil reais) .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL - INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. O Tribunal local estipulou o valor indenizatório a título de danos morais por erro médico com base na razoabilidade e no grau de culpa dos envolvidos. Para alterar tais conclusões seria necessário o revolvimento de aspectos fáticos e das provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.692.149/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/12/2024, DJEN de 13/12/2024.)  Indenização por dano moral: R$ 10.000,00 (dez mil reais) .
+Desta forma, considerando que o valor fixado pelo Tribunal Estadual a título de danos morais não se mostra excessivo, em relação ao reputado razoável por esta Corte em situações semelhantes, conclui-se que a pretensão dos recorrentes esbarra no óbice da Súmula 7 desta Corte, óbice que também impede a análise do dissídio jurisprudencial.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para, de plano, não conhecer do recurso especial interposto por BRENO HUDSON DE CERQUEIRA SANTOS. Por fim, não havendo fixação de honorários sucumbenciais em desfavor do recorrente pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
