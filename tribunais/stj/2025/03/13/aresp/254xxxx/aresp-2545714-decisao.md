@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EDSON LUIZ GAVA à decisão de e-STJ fls. 470/477 que conheceu do agravo para conhecer parcialmente do recurso especial para, nessa extensão, negar-lhe provimento.
+Nas razões dos embargos (e-STJ fls. 480/490), a parte embargante alega que os vícios constantes do acórdão recorrido permanecem na decisão embargada, tendo em vista "não houve e não há pedido para "o pagamento em dobro de indenização pela cobrança de dívida já paga". O pedido é certo e delimitado". (e-STJ fl. 482).
+Além disso, considerando que o débito cobrado pela embargada foi declarado inexistente e não houve recurso da parte contra essa decisão, a apelação do ora embargante teve como objeto o capítulo da sentença que não apreciou o pedido de indenização, já que o sentenciante afirmou que o autor deveria formular o pedido em via própria e por meio da via adequada.
+Afirma que o acórdão sequer relatou a ciência da embargada acerca da existência de ação anterior que declarou a inexistência do débito e optou prosseguir com ação monitória, insistindo na cobrança, omissão que viola os arts. 489 e 1.022 do CPC.
+Aduz que o recurso não encontraria óbice na Súmula nº 7/STJ, caso estivessem presentes no acórdão "os elementos essenciais, a saber, o relatório completo, a suma dos pedidos, o registro das principais ocorrências havidas no processo" e o tribunal da origem "enfrentasse todos os argumentos deduzidos no processo" (e-STJ fl. 486).
+Desse modo, alega que há duas inconsistências na decisão embargada: i) não se debate no recurso especial a configuração da má-fé da embargada e sim, o fato de que o débito perseguido na monitória já havia sido declarado inexistente em ação anterior e, ii) a configuração da omissão está na ausência de relatório completo acerca das principais ocorrências do processo e dos pedidos do embargante, sem os quais fica impossível "fazer a subsunção dos fatos/enquadramento legal e, assim, extrair a norma concreta e aplicação da regra ao caso específico" (e-STJ fl. 487).
+Salienta que, inconteste a má-fé da embargada, ante a continuidade da ação, mesmo tendo sido advertida em audiência de que o débito foi declarado inexistente em outra ação, "aplica-se ou não a norma do artigo 940 do Código Civil " (e-STJ fl. 487)
+Ao final, requer o acolhimento dos embargos com efeitos infringentes.
+Devidamente intimada, a parte embargada ofereceu impugnação (e-STJ fls. 493/505), pleiteando a aplicação da multa por recurso protelatório.
+É o relatório.
+DECIDO
+A irresignação não merece acolhida.
+Consoante o disposto no art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão acerca da qual deveria se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no art. 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válida e (c) corrigir o erro material.
+Na hipótese, a alegada negativa de prestação jurisdicional foi afastada porque o pedido de indenização, fundamentado no art. 940 do Código Civil, não foi provido tendo em vista que não foi comprovada da má-fé da ora embargada.
+Naquela oportunidade, transcreveu-se trecho do acórdão recorrido, segundo o qual
+" (..) a própria sentença reconheceu a controvérsia acerca da origem da dívida, acolhendo o pedido da parte embargante a partir do cotejo entre as informações dos autos, e aquelas obtidas a partir de outra ação judicial, tendo por objeto valores lançados em outro cartão de crédito de titularidade da embargante, obtido após a "clonagem" do cartão anterior, descaracterizando, assim, a má-fé necessária à imposição da sanção prevista no art. 940, do CC" (e-STJ 472)
+Consoante se pode extrair dos fundamentos do aresto atacado, há expressa manifestação acerca da existência de outra ação e da controvérsia acerca do débito perseguido. Desse modo, não há falar em omissão ou ausência de fundamentação do julgado recorrido.
+Além disso, o acolhimento da pretensão recursal para infirmar a conclusão do tribunal de origem de que não restaram demonstrados os pressupostos para a aplicação da sanção prevista no art. 940 do CC exigiria o revolvimento das circunstâncias fáticas dos autos, o que é defeso em recurso especial, a teor da Súmula nº 7/STJ.
+Desse modo, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+Por fim, não é cabível a multa pleiteada em contrarrazões, porquanto não se verifica, neste momento, o caráter protelatório do recurso, tornando desnecessária sua aplicação.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. USO INDEVIDO DE IMAGEM. VALOR DA INDENIZAÇÃO. FIXAÇÃO PROPORCIONAL. MONTANTE NÃO IRRISÓRIO, NEM EXORBITANTE. REVISÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO. PROPÓSITO DE PREQUESTIONAMENTO. INTUITO PROTELATÓRIO. AUSÊNCIA. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO. SÚMULA 98/STJ. .
+1. Nos termos da jurisprudência do STJ, o valor da compensação dos danos morais é matéria que, em regra, não pode ser revisada no âmbito do recurso especial, ante a necessidade de reexame da fatos e provas dos processo, a atrair o óbice da Súmula 7/STJ, ressalvada apenas as hipóteses de montante irrisório ou exorbitante, distanciando-se dos padrões de proporcionalidade e de razoabilidade, verificados segundo as peculiaridades de cada hipótese concreta.
+2. O mero inconformismo da parte embargada com a oposição de embargos de declaração não autoriza a imposição da multa prevista no § 2º do art. 1.026 do CPC/2015, uma vez que, no caso, não se encontra configurado o caráter manifestamente protelatório, requisito indispensável à imposição da sanção.
+3. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.102.050/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023 - grifou-se)
+Ante o exposto, rejeito os embargos de declaração, com advertência de que a reiteração de recurso com objetivo claramente protelatório estará sujeita à multa prevista no art. 1.026, § 2º, do CPC.
+Publique-se.
+Intime-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISCIONAL AFASTADA. INDENIZAÇÃO. ART. 940 DO CC. MÁ-FÉ NÃO CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. MULTA. ART. 1.026 DO CPC. ADVERTÊNCIA.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Na hipótese, não é cabível a multa pleiteada em contrarrazões, porquanto não se verifica, neste momento, o caráter protelatório do recurso, tornando desnecessária sua aplicação.
+3. Embargos de declaração rejeitados.
