@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por VALDINEI DE MORAES MACHADO com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO , assim ementado, in verbis:
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. SENTENÇA ILÍQUIDA. CPC/2015. NOVOS PARÂMETROS. CONDENAÇÃO OU PROVEITO ECONÔMICO INFERIOR A MIL SALÁRIOS MÍNIMOS. REMESSA NECESSÁRIA DESCABIDA. PENSÃO POR MORTE. DEPENDENTE FILHO MAIOR INVÁLIDO. AUSÊNCIA DE CITAÇÃO DE COMPANHEIRA NÃO CONHECIDA NOS AUTOS. ANULAÇÃO DO PROCESSO. NÃO CABIMENTO. HABILITAÇÃO DA COMPANHEIRA COMO PARTE INTERESSADA COM EFEITOS A PARTIR DO MOMENTO EM QUE SE TORNA CONHECIDA NOS AUTOS. FILHO MAIOR E INVÁLIDO NA DATA DO ÓBITO. PENSÃO POR MORTE DEVIDA A CONTAR DA DATA DO REQUERIMENTO ADMINISTRATIVO. INEXISTÊNCIA DE INVALIDEZ NA DATA DO REQUERIMENTO. AUSÊNCIA DE DIREITO À PENSÃO POR MORTE. REVOGAÇÃO DA TUTELA ANTECIPADA DEFERIDA. INVERSÃO DA SUCUMBÊNCIA. CONDENAÇÃO DA PARTE AUTORA EM CUSTAS E EM HONORÁRIOS, COM EXIGIBILIDADE SUSPENSA EM RAZÃO DA GRATUIDADE DE JUSTIÇA.
+No presente recurso especial, o recorrente aponta como violados os arts. 16, III, c/c, § 4º, da Lei n. 8.213/91, sustentando, em síntese, que nos termos do referido dispositivo, a dependência econômica, na hipótese em questão, é presumida nos termos da lei.
+Argumenta, em adição, que o recorrente dependia diretamente do suporte econômico do segurado, uma vez que a deficiência que possui é totalmente incapacitante e anterior à morte de seu pai, instituidor do benefício.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O Ministério Público Federal ofereceu parecer pelo não conhecimento do recurso especial:
+Recurso especial. Previdenciário. Pensão por morte. Filho maior inválido. Cessação da invalidez. O recurso indicou como violado o inciso errado do art. 16, da Lei 8.213: discute-se pensão por morte em favor de filho inválido (inc. I), ao invés de irmão inválido (inc. III).
+O tribunal de origem decidiu a questão com base no art. 77, § 2o, III, da Lei 8.213, que extingue o direito à pensão com a cessação da invalidez do filho: o recurso, no entanto, nada argumenta sobre o ponto, razão de aplicação da Súmula 283 do STF, pois o acórdão se assenta em fundamento não impugnado pela parte interessada.
+Impossibilidade de apreciação do argumento de erro na afirmação do tribunal de origem de que o requerimento de pensão por morte fôra protocolado somente depois da cessação da invalidez: trata-se de matéria nova, não submetida ao tribunal de origem, cuja solução dependeria de análise de provas.
+Parecer pelo não conhecimento do recurso especial.
+É o relatório. Decido.
+Acerca do tema controvertido, o Tribunal de origem assim se manifestou:
+8. O autor logra êxito em comprovar a sua qualidade de dependente na data do óbito, na condição de filho maior inválido, já que recebia aposentadoria por invalidez à época do falecimento do instituidor da pensão, sendo a dependência econômica presumida, não afastada pelo INSS nos presentes autos.
+9. A prova da invalidez se resume ao gozo pelo autor do benefício de aposentadoria por invalidez na data do óbito. Ocorre que tal benefício por incapacidade foi cessado em decorrência de perícia que atestou o fim da invalidez em data posterior ao óbito.
+10. O direito do autor à pensão por morte deixa de existir na data em que fora atestado o fim da sua invalidez, em exame pericial comprovado nos autos pelo INSS.
+11. Na forma do art. 74, II, da Lei nº 8.213/1991, com a redação vigente na data do óbito, a pensão por morte deve ser concedida ao autor a contar da data do requerimento administrativo do benefício. Entretanto, este foi protocolado após ter sido atestado o fim da invalidez do demandante, de forma que não subsiste o direito à pensão por morte do autor.
+Verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que não subsiste o direito à pensão por morte do autor.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Na linha do parecer ministerial:
+O tribunal de origem decidiu a questão com base no art. 77, § 2o, III da Lei 8.213, que extingue o direito à pensão com a cessação da invalidez do filho.
+O recurso, no entanto, nada argumenta sobre o ponto. Limita-se a dizer que a dependência econômica das pessoas indicadas no art. 16, I, da Lei 8213, é presumida. Ocorre que o acórdão concordou com o recorrente quanto a esse ponto, tendo registrado que: "comprovada a qualidade de dependente do autor em relação ao instituidor da pensão na data do óbito, na qualidade de filho maior inválido, sendo presumi- da a dependência econômica, não afastada pelo INSS nos presentes autos" (f. 342).
+Assim, incide a Súmula 283, pois o acórdão se assenta em funda- mento não impugnado pelo interessado.
+Finalmente, não pode ser aqui conhecido o argumento de erro do tribunal de origem, ao afirmar que o requerimento de pensão por morte fôra protocolado após a cessação da invalidez: trata-se de matéria nova, não submetida ao tribunal de origem, cuja solução depende- ria de análise de provas.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro em 1% (um) ponto percentual os honorários advocatícios fixados no acórdão recorrido (CPC/2015, art. 85, § 11).
+Publique-se. Intimem-se.
+EMENTA
