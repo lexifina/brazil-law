@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA, com fundamento na intempestividade do recurso especial.
+Em suas razões recursais, a parte agravante sustenta que "o que se delimita da decisão guerreada é a flagrante violação do contido no art. 1.026, caput, do CPC/2015" (fl. 419).
+Assevera, ainda, que "a jurisprudência é assente no sentido de que os embargos de declaração interrompem o prazo para interposição de outros recursos, exceto nos casos em que não conhecidos por intempestividade" (fl. 422).
+Contraminuta apresentada (fls. 459-467)
+É o relatório.
+Passo a decidir.
+De início, conheço do agravo e passo à análise do recurso especial, interposto com fulcro no art. 105, III, a da Constituição.
+O Tribunal de origem, ao analisar os embargos de declaração opostos pelo ora recorrente, proferiu acórdão com a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO, EM AGRAVO INTERNO, EM PEDIDO DE SUSPENSÃO DE LIMINAR. PRETENDIDA REAPRECIAÇÃO DA MATÉRIA, JÁ DECIDIDA, EXAUSTIVAMENTE, EM SEDE DE AGRAVO INTERNO. IMPRESTABILIDADE DOS EMBARGOS, COMO SUCEDÂNEO RECURSAL. EMBARGOS NÃO CONHECIDOS.
+I. Trata-se de embargos de declaração, opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA, em face de decisório colegiado deste Tribunal Pleno, que negou provimento ao agravo interno nº 8024158-70.2020.8.05.0000, anteriormente, aviado pelo Parquet, objurgando a decisão que deferiu o pedido de suspensão dos efeitos da medida liminar, concedida, nos autos da ação cível, tombada, sob o nº 8000478-57.2020.8.05.0032.
+II. Transparece, a mais não poder, a intenção do insurgente de posicionar estes embargos, como sucedâneo recursal hábil, a ressuscitar toda e qualquer discussão jurídica, tal qual panaceia para o seu inconformismo, colimando rediscutir matéria que resplandece, a todas as luzes, no acórdão, exprobrado, nestes embargos, a ponto de pretender modificá-lo, em sua essência e substância. Não podem ser ampliados os raios de efeito dos embargos, com o desiderato de se alcançar o erro in judicando, elastério que refoge, às completas, à sua natureza jurídico-processual. A breve trecho, dir-se-á que quem quer que haja lido o acórdão, profligado nestes embargos, com atenção mínima que seja, concluirá, sem equivocidade alguma, que, nele, não se há de excogitar de qualquer ambiguidade, omissão, contradição ou obscuridade. Ponha-se, em relevo, que, em senso contrário ao quanto grafado pelo embargante, o decisum exprobrado enfrentou, ex abundantia, toda a matéria trazida à tela dos debates judiciais.
+III. EMBARGOS NÃO CONHECIDOS. (fl. 279)
+Diante do exposto, é possível concluir que o Tribunal Estadual não conheceu dos embargos de declaração, por imbuídos de caráter meramente infringente.
+Portanto, os aclaratórios não interrompem o prazo recursal. Embora a parte agravante argumente que o acórdão proferido em sede de embargos de declaração, de fato, enfrentou o seu mérito, não opôs novos aclaratórios para suscitar essa contradição na parte dispositiva.
+O entendimento desta Corte Superior é no sentido de que: "Não interrompem o prazo para a interposição de outros recursos os embargos de declaração opostos intempestivamente, bem como aqueles que sejam considerados manifestamente incabíveis ou que, imbuídos de caráter meramente infringente, sejam intentados sem a indicação, em seu arrazoado, de nenhum dos vícios que, nos termos da lei processual, autorizam sua oposição".
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FUNGIBILIDADE RECURSAL. RECEBIMENTO COMO AGRAVO INTERNO. RECURSO ESPECIAL. INTEMPESTIVIDADE. NÃO CONHECIMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. INTEMPESTIVIDADE RECONHECIDA. PRAZO PARA INTERPOSIÇÃO DE RECURSOS POSTERIORES. NÃO INTERRUPÇÃO.
+1. Em homenagem ao princípio da fungibilidade recursal, é possível receber embargos de declaração, imbuídos de caráter exclusivamente infringente, como agravo interno, desde que concedido ao embargante prazo de 5 dias para a complementação de suas razões recusais (art. 1.024, §3º, do CPC).
+2. Não interrompem o prazo para a interposição de outros recursos os embargos de declaração opostos intempestivamente, bem como aqueles que sejam considerados manifestamente incabíveis ou que, imbuídos de caráter meramente infringente, sejam intentados sem a indicação, em seu arrazoado, de nenhum dos vícios que, nos termos da lei processual, autorizam sua oposição. Precedentes.
+3. No caso, não interrompido pela oposição dos aclaratórios da parte ora agravada o prazo recursal deflagrado com a publicação do acórdão recorrido, revela-se intempestivo o recurso especial interposto pelos ora agravantes, porquanto esvaído o prazo de 15 (quinze) dias de que trata o art. 1.003, § 5º, do Código de Processo Civil.
+4. Embargos de declaração recebidos como agravo interno. Agravo interno não provido. (EDcl no AREsp n. 1.384.083/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS POR INOVAÇÃO RECURSAL. ACLARATÓRIOS MANIFESTAMENTE INCABÍVEIS. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL. AGRAVO DESPROVIDO.
+1. Embargos de declaração que apresentam apenas inovação recursal de teses não devem ser conhecidos, pois a pretensão é manifestamente incabível.
+2. Consoante precedentes, embargos de declaração manifestamente incabíveis não interrompem o prazo para a interposição do recurso cabível, no caso, do recurso especial.
+3. A análise de ofício pelo julgador da tese inovada pela Defesa não é impositiva, pois decorre da percepção do julgador a respeito de eventual constrangimento ilegal, razão pela qual o uso dos embargos de declaração exclusivamente para tal fim não se legitima.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.828.896/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/3/2022, DJe de 21/3/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C RESTITUIÇÃO DE VALORES C/C COMPENSAÇÃO POR DANOS MORAIS. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. AUSÊNCIA DE SUSPENSÃO E INTERRUPÇÃO DO PRAZO RECURSAL.
+1. Ação de declaratória c/c restituição de valores c/c compensação por danos morais.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo nobre.
+4. Em se tratando de embargos de declaração não conhecidos, não há nem a suspensão nem a interrupção do prazo para a interposição de recursos. Precedente.
+5. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 1.671.408/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2020, DJe de 29/10/2020.)
+Isso posto, conheço do agravo, para não conhecer do recurso especial, por intempestivo.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
