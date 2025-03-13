@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ABNER CAMARGO GONCALVES em face da decisão que indeferiu liminarmente os Embargos de Divergência em virtude da incidência da Súmula 315/STJ; bem como pela ausência de apontamento de divergência.
+Em suas razões, sustenta a parte embargante que: " ..  a decisão de Vossa Excelência, com todos os respeitos, merece reforma ampla. Neste ato junto alguns julgados da 5ª e 6ª Turma do STJ sobre julgados repetitivos e idênticos com o do Reclamante, ora embargante. O artigo 1041/1044 do NCPC é o princípio legal para discutir os Embargos Divergentes." (fls. 335)
+Alega outrossim a incompetência a presidência.
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes Aclaratórios.
+É o relatório.
+Decido.
+A delegação de competência à Presidência do Superior Tribunal de Justiça para julgamento dos feitos manifestamente inadmissíveis está prevista no Regimento Interno, de acordo com as regras internas de distribuição de competência.
+Nos termos do art. 21-E, V, do RISTJ, entre as atribuições do Presidente antes da distribuição está " ..  não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida".
+Ademais, " ..  não viola o princípio do juiz natural a decisão proferida pela Presidente desta Corte que, no exercício de competência atribuída pelo Regimento Interno e resolução, não conhece de recurso anteriormente à distribuição aos Ministros, porquanto sujeita a posterior controle dos órgãos fracionários deste Tribunal Superior, diante da eventual interposição de agravo interno. Precedentes da 1ª, 2ª e 4ª Turmas desta Corte". (AgInt no AREsp 1228566/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 26.6.2019.)
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Dispõe o art. 266 do Regimento Interno do Superior Tribunal de Justiça que " ..  cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal".
+Também os incisos I e III do art. 1.043 do Código de Processo Civil estabelecem que é embargável a decisão do órgão fracionário que, " ..  em Recurso Extraordinário ou em Recurso Especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal".
+Conforme transcrito nos dispositivos acima, os Embargos de Divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, nas hipóteses como a presente, na qual a petição recursal deixa de indicar qualquer divergência jurisprudencial. Os documentos de fls. 338/401 não são válidos em virtude da preclusão.
+Com efeito, os Embargos de Divergência, caracterizados como recurso de fundamentação vinculada, devem, necessariamente, demonstrar o confronto de teses entre o acórdão embargado e aquele apontado com paradigma, não sendo possível sua interposição com intuito de mera rediscussão do quanto já decidido em sede de Recurso Especial.
+A propósito, o seguinte julgado da Corte Especial do Superior Tribunal de Justiça:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INDEFERIMENTO LIMINAR. DIVERGÊNCIA NÃO DEMONSTRADA. ART. 932, PARÁGRAFO ÚNICO, DO CPC. INAPLICABILIDADE. COMPROVAÇÃO DA DIVERGÊNCIA. SUBSTÂNCIA DO ATO. AGRAVO NÃO PROVIDO.
+1. Conforme entendimento consolidado nesta Corte, "a ausência de demonstração da divergência alegada no recurso uniformizador - nos moldes exigidos pelo art. 1.043, § 4º, do CPC e pelo art. 266, § 4º, do RISTJ - constitui claramente vício substancial, resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015 para complementação de fundamentação." (AgInt nos EAREsp 1238270/RS, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 13/10/2020, DJe 27/10/2020).
+3. Agravo regimental não provido.
+(AgRg nos EDv nos EAREsp 1592200/SC, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 09.12.2020, DJe 15.12.2020)
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgInt nos EDcl no AREsp n. 883535/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
