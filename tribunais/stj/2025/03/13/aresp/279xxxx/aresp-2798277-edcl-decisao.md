@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por NOVA SAO JOAO PARTICIPACOES SOCIETARIAS LTDA à decisão de fl. 401, que não conheceu do recurso.
+Sustenta a parte embargante:
+Data maxima vênia, denota-se da r. decisão de fls., que houve inequívoca omissão no julgado. Vejamos.
+Consta na r. decisão a seguinte assertiva:
+ ..
+Ora, o acórdão recorrido foi disponibilizado em 27/06/2024 e publicado em 28/06/2024. Dessa forma, a contagem do prazo recursal iniciou-se em 01/07/2024.
+Ocorre que, em 08 e 09 de julho de 2024, houve a suspensão dos prazos processuais em razão de feriado no estado de São Paulo, que celebra a Revolução Constitucionalista de 1932 (doc. anexo). Considerando essa suspensão, o prazo final de 15 (quinze) dias úteis para interposição do Recurso Especial se encerrou em 23/07/2024, de modo que o recurso foi protocolado tempestivamente nesta data.
+Entretanto, a decisão embargada desconsiderou a suspensão dos prazos em 08 e 09 de julho, reconhecendo a intempestividade do Recurso Especial.
+Não obstante, tal entendimento carece de esclarecimento e revisão, motivo pelo qual são opostos os presentes embargos.
+A Embargante, por ocasião da interposição do recurso, mencionou expressamente a ocorrência do referido feriado e, nesse sentido, conforme disposto no artigo 1.003, §6º do CPC, os tribunais têm o dever de intimar as partes para que apresentem documentos comprobatórios de feriados locais ou suspensão de prazos, caso tal medida seja considerada necessária para a correta análise da tempestividade:
+ ..
+essa maneira, considerando que os dias 08 e 09 de julho de 2024 foram feriados, nos quais os prazos processuais estiveram suspensos e, com base na contagem dos prazos, descontando os feriados mencionados, verifica-se que o recurso foi interposto dentro do período legal, sendo, portanto, tempestivo (fls. 405/406).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No código atual, o prazo para a interposição de Agravo e de Recurso Especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Quanto à questão da comprovação de feriado, nos termos do que permite a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), cumpre registrar que em observância ao princípio do tempus regit actum, o entendimento só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Na hipótese, como essa intimação ocorreu ainda na vigência da redação anterior do artigo, a comprovação deveria ter sido feita no ato da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19.12.2017.)
+Ademais, não há que se falar na aplicação do art. 932, parágrafo único, do CPC, porquanto somente é utilizado para os vícios sanáveis, e à época, o vício ainda era considerado insanável, sendo vedada a comprovação posterior da tempestividade.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. ABERTURA DE PRAZO. DESCABIMENTO. SANEAMENTO DE VÍCIOS FORMAIS SOMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial foi protocolado na vigência do NCPC, a atrair a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. Esta Corte adota o entendimento de que o Dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar nos autos, por documento idôneo, a suspensão do expediente forense no Tribunal de origem, o que não ocorreu na hipótese.
+4. Não obstante o princípio da primazia do mérito, o próprio Código de Processo Civil de 2015 estabeleceu expressa obrigatoriedade de comprovação de feriado local ou suspensão do expediente, regra específica que prevalece sobre a regra geral (ex specialis derrogat lex generalis).
+5. O prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade.
+6. Agravo interno não provido.
+(AgInt no AREsp 1522409/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 21.11.2019.)
+É certo que o feriado nacional não precisa ser comprovado. Porém, os dias 08.07.2024 e 09.07.2024 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+No mais, o STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27.4.2020; e AgInt nos EDcl no AREsp 1379051/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 3.10.2019.
+Registre-se ainda que a Corte Especial, por maioria, acolheu a questão de ordem para reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita aos recursos interpostos até 17/11/2019 e alcança apenas o feriado de segunda-feira de carnaval, ou seja, não se aplica aos demais feriados, inclusive aos feriados locais. (QO no REsp 1813684/SP, Rel. Ministra Nancy Andrighi, Corte Especial, DJe de 28.2.2020.) Assim, só a segunda-feira de carnaval até 2019 poderia ser comprovada posteriormente, excluindo-se qualquer outro feriado, como no caso dos autos.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
