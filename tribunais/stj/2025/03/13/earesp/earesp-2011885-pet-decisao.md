@@ -1,0 +1,7 @@
+DECISÃO
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, no Tema 1305/STJ, cuja questão submetida a julgamento é: "Definir: a) se a União deve figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS; b) a (in)existência de litisconsórcio passivo necessário entre os entes federativos para integrarem a lide; e c) se é possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar." (REsp 2.176.896/DF, REsp 2.176.897/DF, REsp 2.182.157/DF e REsp 2.184.221/DF)
+Nesse contexto, observo que há determinação de suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a mesma matéria e tramitem no território nacional, nos termos do art. 1.037, II, do CPCP/15.
+Dessa maneira, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar a solução da questão.
+Isso posto, determino o sobrestamento do feito na Coordenadoria de Processamento de Feitos em Direito Público desta Corte até a conclusão do julgamento do Tema 1305/STJ.
+Intimem-se.
+EMENTA
