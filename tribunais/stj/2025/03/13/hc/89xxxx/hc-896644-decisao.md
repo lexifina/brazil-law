@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de RODRIGO CARLOS COSTA em que se aponta como autoridade coatora a Décima Sexta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (e-STJ fl. 3).
+Na peça, a defesa informa que o paciente foi condenado à pena de 6 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, 7 meses de detenção, em regime inicial semiaberto, e ao pagamento de 30 dias-multa, como incurso nos arts. 157, § 2º, II; 330 e 307 do Código Penal (e-STJ fl. 4).
+Alega que houve nulidade no reconhecimento do paciente, realizado sem observância das formalidades legais previstas no art. 226 do Código de Processo Penal e na Resolução do CNJ n. 484/22, o que torna o reconhecimento nulo e vicia todas as provas posteriores (e-STJ fls. 5/7).
+Afirma que, em juízo, a vítima não reconheceu o paciente como autor do crime, e que o reconhecimento realizado na fase policial não pode embasar a condenação (e-STJ fls. 6/7).
+Sustenta que o paciente foi condenado pelo crime de falsa identidade, mas que a indicação de qualificação diversa não foi realizada perante a autoridade policial, afastando a incidência da Súmula n. 522 do STJ (e-STJ fl. 8).
+Defende que, no mínimo, deve ser reconhecida a desistência voluntária ou o arrependimento posterior, com redução da pena em 2/3 (e-STJ fl. 8).
+Alega que houve aumento indevido da pena-base, caracterizando excessivo aumento em vista de única circunstância desfavorável, além da desproporcionalidade em relação a cada crime (e-STJ fls. 9/12).
+No mérito, a defesa requer a absolvição do paciente quanto aos delitos de roubo e falsidade ideológica, nos termos do art. 386, VII, do Código de Processo Penal e a redução das penas-base do paciente (e-STJ fl. 13).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ quanto à nulidade do reconhecimento realizado, porquanto havia notícias declinando a placa do veículo que estaria sendo utilizado pelo agente para cometer roubos na região, veículo este em que o paciente foi flagrado pela polícia e no qual tentou se evadir.
+Consigne-se, por oportuno, que, dada a análise meramente perfunctória da matéria no presente writ, não se encontra esgotada a discussão acerca da tese, que pode vir a ser novamente enfrentada no recurso cabível sem incorrer em reiteração de pedido.
+De outro lado, a exasperação da pena-base não apresentou fundamentação idônea, motivo pelo qual a sanção deve retornar às basais.
+No mesmo sentido o parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fl. 106):
+É que, quanto aos crimes de falsa identidade e desobediência, observa-se que as instâncias ordinárias estabeleceram frações bem mais gravosas que 1/6, mas sem a devida fundamentação. Contudo, tal agir não está em sintonia com a jurisprudência sedimentada desse c. Sodalício Superior, de que a fixação do patamar mínimo sancionatório, não deve seguir um critério matemático engessado, uma vez que é possível a adoção de fração de 1/6 para cada circunstância judicial negativa, 1/8 sobre o intervalo entre as penas mínima e máxima ou até mesmo outra fração, desde que proporcional e justificado:  ..
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para, na linha do parecer ministerial, fixar as basais no mínimo legal, devendo o Juízo das execuções proceder aos ajustes na pena.
+Publique-se. Intimem-se.
+EMENTA
