@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DILSON PORFIRIO PINHEIRO TELES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/10/2024.
+Concluso ao gabinete em: 07/03/2025.
+Ação: de inventário dos bens deixados por José Porfírio Teles, na qual figura como inventariante o ora agravante.
+Decisão interlocutória: determinou que "não há a necessidade de remeter os autos à Contadoria Judicial para confecção das custas complementares à inicial, bastando que o inventariante informe o valor da causa, sendo que o cartório expedirá a respectiva guia com base no valor da causa informado e considerando as custas já pagas anteriormente. Desse modo, proceda-se a exclusão da pretensa companheira sobrevivente Terezinha" (e-STJ fl. 182).
+Acórdão: conheceu em parte do agravo de instrumento interposto pela parte ora agravante e, nessa extensão, negou-lhe provimento, nos termos da seguinte ementa (e-STJ fl. 188):
+"EMENTA: AGRAVO DE INSTRUMENTO. INVENTÁRIO. HONORÁRIOS ADVOCATÍCIOS . MATÉRIA NÃO APRECIADA NO DECISUM FUSTIGADO. SUPRESSÃO DE INSTÂNCIA. EXCLUSÃO DE TERCEIRA INTERESSADA. MATÉRIA PRECLUSA. DECISÃO MANTIDA. 1. O agravo de instrumento é recurso secundum eventum litis, devendo limitar-se ao exame do acerto ou desacerto do que foi decidido pelo juiz a quo, não cabendo, por conseguinte, ao juízo ad quem, a análise de matéria estranha ao ato judicial vituperado, sob pena de, na hipótese, suprimir um grau de jurisdição. 2. Em virtude da decisão recorrida não se pronunciar a respeito de honorários advocatícios, não pode esta Corte Revisora analisá-la em sede de agravo de instrumento, sob pena de supressão de instância, razão pela qual o recurso não merece conhecimento quanto ao ponto. 3. Da dicção do art. 507 do CPC extrai-se que "é vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão". Com efeito, é impossível discussão de eventual condenação de terceira interessada ao pagamento de custas processuais a título de sucumbência, por tratar de matéria já abarcadas pelo manto da coisa julgada (art. 505, caput, da lei processual). AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega a existência de dissídio jurisprudencial, sustentando, em síntese, que: (i) deve ser a parte ora agravada ser condenada a arcar com os ônus sucumbenciais, tendo em vista que sua intervenção no processo de inventário foi infrutífera e tumultuária; (ii) os honorários de sucumbência e custas processuais são matérias de ordem pública, imunes à preclusão, que podem ser apreciadas de ofício em qualquer grau de jurisdição.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Mauricio Vieira Bracks, opina pelo não provimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da divergência jurisprudencial
+A falta de indicação do dispositivo legal supostamente violado no recurso especial apresentado com base na alínea "c" revela deficiência em sua fundamentação, o que impede a sua análise por esta Corte Superior. Incide, na hipótese, a Súmula 284 do STF. Nesse sentido: REsp 2.076.294/PR, 3ª Turma, DJe 19/12/2023 e AgInt no AREsp 2.331.105/GO, 4ª Turma, DJe 21/12/2023.
+É imprescindível que no recurso especial sejam apontadas com precisão as violações aos dispositivos legais indicados como infringidos. A parte interessada deve evidenciar de forma clara e objetiva os dispositivos supostamente violados, além de apresentar as razões que justifiquem a alegada violação.
+Adicionalmente, é essencial que se descreva detalhadamente como o dispositivo legal foi infringido, pois isso possibilitará ao STJ analisar a questão em conjunto com os elementos constantes nos autos. No entanto, na presente hipótese, essa correlação entre a violação apontada e os fatos do processo não foi devidamente estabelecida, o que faz incidir a Súmula 284 do STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. DISSÍDIO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de inventário.
+2. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+3. Agravo conhecido. Recurso especial não conhecido.
