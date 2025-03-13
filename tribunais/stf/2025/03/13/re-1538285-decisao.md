@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Alice Alves Morais Representada por Fabiana Alves Ribeiro., em face do acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+
+    “APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. ALUNO MATRICULADO NA REDE PÚBLICA DE ENSINO. ESCOLA EM PERÍODO INTEGRAL. UNIDADE PRÓXIMA AO LOCAL DE TRABALHO DA GENITORA. TRANSFERÊNCIA. INVIABILIDADE. RECURSO CONHECIDO E NÃO PROVIDO. 1. Cinge-se a controvérsia em buscar providência judicial para amparar o pedido da apelante de remanejamento para instituição de ensino mais próxima do local de trabalho de sua genitora, mediante ensino integral. 2. A garantia de acesso à educação prevista no texto constitucional não se traduz em direito subjetivo de a parte exigir do Estado a matrícula na escola por ela indicada, tampouco que funcione em tempo integral. Precedentes. 3. Recurso conhecido e não provido.”
+
+    Na minuta, sustenta-se violação do art. 208, IV, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso comporta provimento.
+
+    Da análise dos autos verifica-se que o entendimento acolhido no acórdão impugnado não está alinhado à jurisprudência desta Suprema Corte. No julgamento do Tema nº 548 de repercussão geral, o Plenário do Supremo Tribunal Federal fixou a seguinte tese: “1. A educação básica em todas as suas fases - educação infantil, ensino fundamental e ensino médio - constitui direito fundamental de todas as crianças e jovens, assegurado por normas constitucionais de eficácia plena e aplicabilidade direta e imediata. 2. A educação infantil compreende creche (de zero a 3 anos) e a pré-escola (de 4 a 5 anos). Sua oferta pelo Poder Público pode ser exigida individualmente, como no caso examinado neste processo. 3. O Poder Público tem o dever jurídico de dar efetividade integral às normas constitucionais sobre acesso à educação básica.” Eis a ementa do paradigma:
+
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. REPERCUSSÃO GERAL RECONHECIDA. GARANTIA DE VAGA EM CRECHE OU PRÉ-ESCOLA ÀS CRIANÇAS DE ZERO A CINCO ANOS DE IDADE. AUTOAPLICABILIDADE DO ART. 208, IV, DA CF/88. PRINCÍPIOS DA SEPARAÇÃO DOS PODERES E DA RESERVA DO POSSÍVEL. VIOLAÇÃO. INOCORRÊNCIA. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO. 1. A educação infantil representa prerrogativa constitucional indisponível, que assegura às crianças de zero a cinco anos de idade a primeira etapa do processo de educação básica mediante o atendimento em creche e o acesso à pré-escola (art. 208, IV, da Constituição Federal). 2. O Estado tem o dever constitucional de garantir o efetivo acesso e atendimento em creches e unidades de pré-escola, sob pena de configurar-se inaceitável omissão estatal e violação a direito subjetivo, sanável pela via judicial. Precedentes: ARE 639.337-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 15/9/2011; AI 592.075-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 4/6/2009, e RE 384.201-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJ de 3/8/2007. 3. O Poder Judiciário pode impor à Administração Pública a efetivação de matrícula de crianças de zero a cinco anos de idade em estabelecimento de educação infantil, sem haja violação ao princípio constitucional da separação dos poderes. 4. Ex positis, voto no sentido de, no caso concreto, NEGAR PROVIMENTO ao recurso extraordinário interposto pelo Município de Criciúma. (...)” (RE 1008166, Relator(a): LUIZ FUX, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 20-04-2023)
+
+    Além disso, esta Suprema Corte tem decidido que é direito da criança ser matriculada em estabelecimentos próximos à sua residência ou ao trabalho dos responsáveis, conferindo a máxima efetividade ao direito fundamental esculpido no art. 208, IV, da Constituição da República, observe:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. MATRÍCULA EM ESCOLA PRÓXIMA À RESIDÊNCIA DA CRIANÇA. DIREITO FUNDAMENTAL À EDUCAÇÃO. INDEVIDA INTERVENÇÃO DO PODER JUDICIÁRIO EM MATÉRIA RESERVADA À ADMINISTRAÇÃO. VIOLAÇÃO À SEPARAÇÃO DOS PODERES. INEXISTÊNCIA. 1. O acórdão do Tribunal de origem revela-se em dissonância com a jurisprudência do SUPREMO TRIBUNAL FEDERAL, que tem dado máxima efetividade ao disposto no art. 208 da Constituição Federal, assegurando à criança vaga em creche ou pré-escola próxima à sua residência. 2. Agravo interno a que se nega provimento.” (ARE 1337654 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, DJe 11-11-2021)
+
+    “DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. DETERMINAÇÃO DE ABERTURA DE VAGAS EM CRECHE OU PRÉ-ESCOLA ÀS CRIANÇAS DE ZERO A CINCO ANOS. REPERCUSSÃO GERAL. TEMA 548 DA REPERCUSSÃO GERAL. APLICAÇÃO IMEDIATA DOS ENTENDIMENTOS FIRMADOS PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. PRECEDENTES. 1. Não viola o princípio da separação dos Poderes a atuação, pelo Poder Judiciário, no sentido de impor à Administração Pública a obrigação de efetivar matrículas de crianças de zero a cinco anos de idade em estabelecimento de educação infantil (RE 1.008.166-RG - Tema 548). 2. A existência de precedente firmado pelo Plenário desta Corte autoriza o julgamento imediato de causas que versem sobre o mesmo tema, independente da publicação ou do trânsito em julgado do paradigma. Precedentes. 3. Agravo interno a que se nega provimento.” (AI 795.968-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 03.05.2023)
+
+    “RECURSO EXTRAORDINÁRIO – CRIANÇA DE ATÉ CINCO ANOS DE IDADE – ATENDIMENTO EM CRECHE – EDUCAÇÃO INFANTIL – DIREITO ASSEGURADO PELO PRÓPRIO TEXTO CONSTITUCIONAL (CF, ART. 208, IV, NA REDAÇÃO DADA PELA EC Nº 53/2006) – COMPREENSÃO GLOBAL DO DIREITO CONSTITUCIONAL À EDUCAÇÃO – DEVER JURÍDICO CUJA EXECUÇÃO SE IMPÕE AO PODER PÚBLICO (CF, ART. 211, § 2º) – O PAPEL DO PODER JUDICIÁRIO NA IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS PREVISTAS NA CONSTITUIÇÃO E NÃO EFETIVADAS PELO PODER PÚBLICO – A FÓRMULA DA RESERVA DO POSSÍVEL NA PERSPECTIVA DA TEORIA DOS CUSTOS DOS DIREITOS: IMPOSSIBILIDADE DE SUA INVOCAÇÃO PARA LEGITIMAR O INJUSTO INADIMPLEMENTO DE DEVERES ESTATAIS DE PRESTAÇÃO CONSTITUCIONALMENTE IMPOSTOS AO PODER PÚBLICO – SUCUMBÊNCIA RECURSAL – (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO.” (RE 1101106 AgR, Relator(a): CELSO DE MELLO, Segunda Turma, DJe 09-08-2018)
+
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para que se efetive a matrícula do recorrente em instituição de ensino, preferencialmente em tempo integral, próxima à sua residência ou próxima ao local de trabalho de seus responsáveis. Tal dever poderá ser executado pelo Distrito Federal em instituição pública ou, alternativamente, em instituição particular (no caso de inexistência de vaga pública), a expensas do Ente Federado.
+
+    Publique-se.
+
+    Brasília, 13 de março de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
