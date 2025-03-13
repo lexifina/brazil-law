@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por LORIVAL RODRIGUES e OUTROS contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO. DECISÃO MONOCRÁTICA. AUSÊNCIA DE OMISSÃO OU DE INEXIATIDÃO MATERIAL NO JULGADO.
+- Restou devidamente explicado que o Resp. 1.903.939/MT (que explica sobre os prazos em dobro na hipótese de diferentes procuradores) não se aplica ao caso e isso foi deduzido como reforço argumentativo não se tratando de texto de outro caso ou erro de colagem, mas sim, trata-se de parte da ratio decidendi. Justamente tratou-se do Resp supra tendo em vista da argumentação que, ao fim e ao cabo, desagua (mais de uma vez) no reconhecimento da inaplicabilidade do artigo 229 do CPC, conforme ocorreu no julgamento do agravo de instrumento de nº 70084616945, no desacolhimento dos embargos de declaração de nº 70085411247 e 70085676120.
+- Todas as questões ora veiculadas foram objeto de enfrentamento nos autos do recurso de agravo de instrumento nº 70084616945 e as inexatidões materiais ventiladas pela parte deduzem, em verdade, a pretensão de rejulgamento da matéria. Foi devidamente explicado que o prazo final de 15 dias úteis para a interposição do agravo de instrumento nº 70084616945 acabou por findar em 05 de março de 2020. Isso já considerado o feriado de carnaval. Contudo, o presente recurso foi interposto em 01 de outubro de 2020, portanto, intempestivo e não há falar em aplicabilidade do artigo 229 CPC. Decisão monocrática mantida.
+AGRAVO INTERNO DESPROVIDO. UNÂNIME" (e-STJ fl. 9.251).
+No especial (e-STJ fls. 9.284/9.318), os recorrentes apontam, além de divergência jurisprudencial, violação aos seguintes dispositivos legais com as respectivas teses:
+(i) artigo 489, §1º, IV, do Código de Processo Civil - pois o Tribunal local incorreu em negativa de prestação jurisdicional ao deixar de enfrentar todos os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador, referentes às seguintes omissões: (i.i) fatos novos em relação à suspeição de magistrada que participou do julgamento do agravo interno interposto contra a decisão monocrática que não conheceu do agravo de instrumento; (i.ii) não obstante tenha considerado o agravo de instrumento interposto pelos ora agravantes intempestivo, a apelação da ré Botosso Serviços Administrativos Ltda. foi considerada tempestiva. Afirma a existência de nota de expediente em que se pode concluir pela existência de litisconsórcio passivo no caso dos autos, o que atrai a aplicação do artigo 229 do CPC;
+(ii) artigos 118, 124 e 229 do CPC - o TJRS não aplicou o prazo em dobro para recorrer, apesar da existência de litisconsórcio passivo com procuradores distintos em processo físico. A decisão ignorou que havia partes e advogados distintos, o que ensejaria a aplicação do prazo em dobro, conforme jurisprudência do STJ;
+(iii) artigo 103, parágrafo único, da Lei nº 11.101/2005 - os recorrentes, como assistentes litisconsorciais, têm o direito de interpor recursos cabíveis, o que foi negado pela decisão recorrida ao não reconhecer o litisconsórcio passivo e o direito ao prazo em dobro.
+(iv) artigo 313, VI, do CPC - o aresto recorrido não considerou a suspensão dos prazos processuais devido à pandemia de Covid-19, o que afetou a contagem do prazo para interposição do agravo de instrumento visto que houve suspensão do expediente forense entre 16/03/2020 e 21/09/2020, mas a decisão não reconheceu essa suspensão.
+Afirmam que o aresto proferido na origem adotou interpretação divergente da jurisprudência do Superior Tribunal de Justiça sobre o enfrentamento de fundamentos que infirmam a conclusão e sobre a aplicação do prazo em dobro em processos físicos com litisconsórcio passivo.
+Ao final, requerem o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 9.579/9.596), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame direto do recurso especial.
+A discussão dos autos gira em torno da tempestividade do agravo de instrumento interposto pela parte ora recorrente, da aplicação do prazo em dobro para recorrer devido ao litisconsórcio passivo com procuradores distintos e da alegação de nulidade da decisão por falta de enfrentamento de argumentos capazes de infirmar a conclusão adotada pelo julgador.
+De início, observa-se que não foram opostos embargos de declaração contra o acórdão recorrido.
+Tal fato inviabiliza a análise da apontada violação do art. 489, § 1º, IV, do CPC, porquanto torna impossível a compreensão da controvérsia, situação que atrai o óbice da Súmula nº 284/STF à espécie.
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AFRONTA AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. LEGITIMIDADE. INTERESSE. PREJUDICIALIDADE EXTERNA. ERRO MATERIAL. FALTA DE PREQUESTOINAMENTO. ARBITRAMENTO DE ALUGUÉIS. OCUPAÇÃO EXCLUSIVA POR EX-CÔNJUGE. IMÓVEL NÃO PARTILHADO. POSSIBILIDADE. PRECEDENTES. INCIDÊNCIA DAS SÚMULAS N. 284 DO STF E 83 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência do STJ, "o óbice da Súmula n. 284/STF impede o seguimento do recurso especial fundamentado em suposta violação do art. 535 do CPC/1973  correspondente ao art. 1.022 do CPC/2015 , na hipótese em que o recorrente não opôs embargos de declaração na origem, para ver sanado eventual vício do acórdão recorrido" (AgRg no AREsp 809.394/RJ, de minha relatoria, QUARTA TURMA, julgado em 7/6/2016, DJe 13/6/2016).
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.899.276/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/6/2022, DJe 27/6/2022)
+Quanto aos artigos 118, 124 e 313, VI, do CPC e 103, parágrafo único, da Lei nº 11.101/2005, verifica-se que referidos preceitos legais não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+"EMBARGOS DE DECLARAÇÃO CONHECIDO COMO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGADA VIOLAÇÃO AOS ARTS. 26 E 29 DA LEI 10.931 E 789 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ATRAÇÃO DO ENUNCIADO 282/STF. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INTERNO AO QUAL SE NEGA PROVIMENTO."
+(EDcl no REsp 1.789.134/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 30/11/2020, DJe de 3/12/2020 - grifou-se)
+No mais, o Tribunal de origem entendeu pela inaplicabilidade do prazo em dobro para recorrer previsto no artigo 229 do CPC em razão dos recorrentes figurarem nos autos apenas como terceiros interessados, não como litisconsortes.
+Tal entendimento está em conformidade com a jurisprudência desta Corte Superior, conforme ilustra o seguinte precedente:
+"AGRAVO INTERNO. RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTEMPESTIVIDADE DO RECURSO. SUSPENSÃO DO PRAZO. COMPROVAÇÃO POSTERIOR EM AGRAVO INTERNO. IMPOSSIBILIDADE PARA RECURSOS INTERPOSTOS A PARTIR DA VIGÊNCIA DO CPC/2015. PRAZO EM DOBRO. TERCEIRO INTERESSADO. AUSÊNCIA DE LITISCONSÓRCIO. INAPLICABILIDADE PRECEDENTES.
+(..)
+4. "Não havendo litisconsórcio com a parte, não há que se falar em prazo processual em dobro. Precedentes" (AgInt no AREsp 1597911/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/8/2020, DJe 14/8/2020).
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.948.319/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022)
+Incidência da Súmula nº 568/STJ ao ponto.
+Ademais, o acolhimento da pretensão recursal para alterar a premissa fática estabelecida pelo acórdão recorrido e, assim, entender pela condição de litisconsortes dos recorrentes demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do artigo 85, § 11, do Código de Processo Civil, considerando que o acórdão recorrido é proveniente de julgamento de agravo de instrumento sem o arbitramento de honorários advocatícios.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA Nº 284/STF. ARTIGOS 118, 224 E 313, VI, DO CÓDIGO DE PROCESSO CIVIL E 103, PARÁGRAFO ÚNICO, DA LEI Nº 11.101/2005. VIOLAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. TERCEIRO INTERESSADO. ARTIGO 229 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE. SÚMULA Nº 568/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A ausência de oposição de embargos de declaração na origem inviabiliza a análise da apontada violação do art. 489 do Código de Processo Civil no recurso especial, pois torna impossível a compreensão da controvérsia, situação que atrai o óbice da Súmula nº 284/STF à espécie.
+2. A matéria em discussão não está prequestionada, não tendo sido sequer suscitada em declaratórios, atraindo a incidência da Súmula nº 282/STF.
+3. A regra do artigo 229 do CPC não se aplica ao terceiro interessado, o que enseja a manutenção da decisão que reconheceu a intempestividade do agravo de instrumento. Súmula nº 568/STJ.
+4. Ademais, alterar a premissa fática estabelecida no acórdão para entender que os recorrentes seriam litisconsortes passivos esbarra no óbice da Súmula nº 7/STJ.
+5. Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e negar-lhe provimento.
