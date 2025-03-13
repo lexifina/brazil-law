@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MARIA ADELAIDE CASSAR DE BARROS à decisão de fls. 963/964, que não conheceu do recurso.
+Sustenta a parte embargante:
+Trata-se de decisão que inadmitiu o agravo em recurso especial interposto, em razão da falta de procuração "e/ou cadeia completa de substabelecimento conferindo poderes ao Dr. LEONARDO LEITE MOREIRA, subscritor do Recurso Especial".
+De acordo com a decisão proferida, foi comunicado haver irregularidade na representação processual do recurso, tendo o prazo para sanar o vício transcorrido in albis. Desta maneira, conforme disposto na decisão de indeferimento, o recurso não foi instruído com a documentação necessária, prevista na Súmula 115, do Superior Tribunal de Justiça.
+Ocorre que, é inverídica a informação de ter ocorrido a intimação dos advogados para juntada de substabelecimento, tendo transcorrido sem apresentação dos documentos necessários, visto que não houve intimação dos advogados subscritos no presente recurso.
+Ainda, nos termos da decisão proferida, o Tribunal a quo percebeu a irregularidade na representação processual, intimando a parte para sanar, o que não procede, observada a decisão do Tribunal a quo.
+ ..
+Desta maneira, verifica-se que a intimação ocorrida após a interposição do recurso foi endereçada a parte agravada, através de seu advogado para apresentação de contrarrazões, como se verifica a seguir, tendo transcorrido in albis.
+ ..
+Desta maneira, a embargante realiza a juntada do substabelecimento, a fim de dar prosseguimento ao Recurso interposto (fls. 969/970).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao Dr. Leonardo Leite Moreira, subscritor do Recurso Especial.
+Mesmo a parte recorrente tendo sido intimada, na origem, para regularizar a representação processual (fls. 906, 907 e 909), não o fez, porquanto deixou o prazo transcorrer in albis.
+Veja-se que, ao contrário do alegado, consta às fls. 906, 907 e 909 intimação em nome dos representantes das partes, Dr. Leonardo Leite Moreira e Dr. Lawrence Rozemberg Couto Queiroz. Portanto, não há que se falar em nulidade pela falta de intimação.
+Ainda que assim não fosse, cumpre registrar que a suposta nulidade deveria ter sido arguida na primeira oportunidade que a parte teve de se manifestar nos autos, no caso, na petição de Agravo em Recurso Especial. No entanto, a parte nela nada alegou sobre tal fato.
+Veja que a parte somente trouxe os referidos argumentos e o instrumento de substabelecimento agora, em sede destes aclaratórios, após o não conhecimento do recurso por esta Corte, que não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1575724/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 05.04.2021; e AgInt no AREsp 1580827/RJ, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 11.12.2020).
+Ressalte-se ainda que o entendimento desta Corte é no sentido de que "A ausência de intimação deve ser alegada na primeira oportunidade em que a parte tem de se manifestar nos autos, uma vez que a suscitação tardia da nulidade, somente após a ciência do resultado desfavorável, configura a chamada Nulidade de Algibeira" (EDcl no AgInt no AREsp n. 2.156.802/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.)
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO EVIDENCIADA. ACÓRDÃO ESTADUAL FUNDAMENTADO. PEDIDO DE PUBLICAÇÃO EXCLUSIVA. NULIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO NA PRIMEIRA OPORTUNIDADE. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO PROVIDO PARA, EM RECONSIDERAÇÃO, CONHECER DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Não ficou demonstrada a alegada ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela recorrente, adotou fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." 3. Na hipótese dos autos, o Tribunal de origem consignou que, apesar do pedido para intimação em nome de todos os advogados, desde o despacho inicial as intimações foram realizadas apenas em nome de um deles, sem que houvesse menção a prejuízo durante o andamento do feito. Assim, a alegação de nulidade, apenas quando ultrapassados dois anos do trânsito em julgado da sentença, em verdade, caracteriza a chamada nulidade de algibeira.
+4. Outrossim, a jurisprudência desta Corte se firmou no sentido de que não há obrigatoriedade de publicação em nome de todos os advogados relacionados na petição que requer a intimação exclusiva, mas tão somente de um deles (AgInt no AREsp 1.759.293/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1.304.498/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/08/2019; e AgInt nos EDcl no REsp 1.703.603/MG, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14/08/2018).
+5. Agravo interno provido para reconsiderar a decisão e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+(AgInt no AREsp n. 2.599.066/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 16.9.2024.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
