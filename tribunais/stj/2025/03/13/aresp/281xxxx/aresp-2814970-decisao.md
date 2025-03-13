@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ROBERTO JOSE RIBEIRO DE MELLO JUNIOR contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/10/2024 .
+Concluso ao gabinete em: 29/01/2025.
+Ação: de rescisão contratual cumulada com danos morais e pedido de tutela provisória de urgência contra FERNANDO CONTARINI FERREIRA, L.F. MOTORS - AUTOMÓVEIS J.H. LTDA., BANCO ITAUCARD S/A e ANDERSON FABIANO, alegando que firmou "Termo de acordo comercial" com os primeiros requeridos, que não honraram o pagamento de R$ 70.000,00 pela venda de um veículo, e que houve financiamento pelo Banco Itaucard S/A sem o conhecimento do autor.
+Sentença: os pedidos foram julgados procedentes em parte, condenando Fernando Contarini Ferreira e L.F. Motors a pagarem ao autor R$ 70.000,00, multa de 30% sobre o débito e R$ 10.000,00 por danos morais. O pedido foi julgado improcedente em relação ao Banco Itaucard S/A e Anderson Fabiano, por não haver conluio. (e-STJ, fls. 133)
+Acórdão: negou provimento ao recurso de apelação interposto pela parte agravante, nos termos da seguinte ementa (e-STJ, fls. 209):
+"APELAÇÃO. RESCISÃO CONTRATUAL. COMPRA E VENDA DE AUTOMÓVEL. INDENIZAÇÃO. DANOS MORAIS. 1- O autor deixou seu automóvel em março de 2020 para venda no estabelecimento comercial LF Motors de propriedade de Fernando Contarini Ferreira e, por contrato escrito, estipulou o preço de R$ 70.000,00 a ser pago por eles em sete parcelas iguais. 2- O contrato firmado entre o autor e os réus LF Motors e Fernando Contarini Ferreira não foi cumprido porque os réus LF Motors e Fernando não pagaram o valor de R$ 70.000,00 previsto no contrato e por tal razão o recibo de pagamento permaneceu na posse do autor. 3- Automóvel que foi adquirido por terceiro de boa-fé, mediante financiamento obtido em estabelecimento bancário. 4- Impossibilidade de se atribuir responsabilidade civil ao banco financiador e ao adquirente de boa-fé porque não imputado a eles qualquer conluio, devendo prevalecer os termos do contrato firmado entre o autor e os réus LF Motors e Fernando. 5- Sentença que julgou procedentes em parte os pedidos e condenou os réus Fernando Contarini Ferreira e LF Motors a pagar ao autor o valor de R$ 70.000,00 pelo preço do automóvel estipulado na avença, multa contratual de 30% e R$ 10.000,00 pelos danos morais ocasionados. 6- Ação julgada improcedente em face dos réus Banco Itaú e Anderson Fabiano por não ficar demonstrada sua responsabilização pelos danos suportados pelo autor. 7- Honorários sucumbenciais fixados em primeira instância em desfavor do autor no patamar mínimo que não comportam redução. 8- Majoração da verba sucumbencial honorária devida pelo apelante sucumbente, nos termos do artigo 85, § 11º do CPC e do Tema 1059 do STJ. 9- Sentença mantida per relationen, nos termos do artigo 252 do RITJSP. Recurso de apelação não provido."
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos artigos 308 e 1.267 do Código Civil, artigo 14, §1º, I e II, do Código de Defesa do Consumidor, e das Súmulas 297 e 479 do STJ, buscando o reconhecimento da responsabilidade objetiva e solidária do Banco Itaucard S/A e Anderson Fabiano.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 308 e 1.267 do Código Civil, artigo 14, §1º, I e II, do Código de Defesa do Consumidor, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, 3ª Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, 4ª Turma, DJe de 2/5/2024.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do reexame de fatos e provas
+Por fim, alterar o decidido no acórdão impugnado, no que se refere ao reconhecimento da responsabilidade objetiva e solidária do Banco Itaucard S/A e Anderson Fabiano, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fls. 217) para 18%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. VIOLAÇÃO DE DE SÚMULA. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual c/c compensação por danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial não conhecido.
