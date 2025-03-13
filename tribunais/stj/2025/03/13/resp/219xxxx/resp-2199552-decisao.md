@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado por Victor Machado Magnus com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 231):
+Administrativo. Auto de infração de trânsito. Dupla notificação. Remessa da notificação da imposição de penalidade ao proprietário do veículo e ao condutor. Necessidade. IRDR Tema 23. Modulação dos efeitos.
+1. Nos termos da Súmula 312 do STJ, no processo administrativo para imposição de multa de trânsito, são necessárias as notificações da autuação e da aplicação da pena decorrente da infração.
+2. De acordo com o IRDR Tema 23, "É obrigatória a remessa da notificação de imposição de penalidade de multa (NIP) para o proprietário do veículo e para o condutor infrator quando estes forem pessoas distintas."
+3. Em 16/11/2023, a Segunda Seção deste Regional proferiu julgamento acolhendo parcialmente os embargos de declaração opostos pela União e pelo DNIT, para determinar a modulação dos efeitos do referido acórdão de julgamento do IRDR a contar da data da conclusão do julgamento do incidente, "o que, além de prestigiar a segurança jurídica, permitirá à Administração Pública a adoção das providências pertinentes para adequação de seu sistema".
+4. Hipótese em que a infração foi cometida em data anterior a 16/11/2023, sendo inaplicável o entendimento firmado no referido IRDR.
+5. Apelo do autor desprovido.
+A parte recorrente aponta violação aos arts. 257 e 282 do Código de Trânsito Brasileiro, ao argumento de que a notificação de autuação e de imposição de penalidade foram encaminhadas exclusivamente à proprietária do veículo, com endereço distinto do autor, ora recorrente, então expressamente identificado como infrator, o que afronta a garantia constitucional ao contraditório e à ampla defesa. Acrescenta que "o v. acórdão ao impor um marco temporal para reconhecimento da ilegalidade nata do procedimento que notória e incontroversamente contraria os dispositivos legais que disciplinam o procedimento administrativo para imposição de penalidade por infração de trânsito, afronta não só a legislação correlata, como, também, o entendimento sedimentado pelas Cortes Superiores." (fl. 258).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida. Com efeito, observa-se dos autos que o Tribunal de origem não se manifestou sobre a alegação ofensa aos arts. 257 e 282 do Código de Trânsito Brasileiro, nos moldes em posta no presente apelo. Tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF. Na mesma linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. INFRAÇÃO DE TRÂNSITO. ANULAÇÃO DA PENALIDADE. DUPLA NOTIFICAÇÃO. AUSÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. O Código de Trânsito Brasileiro exige que o infrator seja notificado na ocasião da lavratura do auto de infração (art. 280, VI, do CTB), para a apresentação da defesa prévia, bem como no momento da aplicação da pena, a fim de que se defenda e ofereça o recurso cabível (art. 281 do mesmo Código).
+2. Hipótese em que a Corte a quo declarou a nulidade do procedimento administrativo para a imposição de multa de trânsito, em razão de os agravados não terem sido notificados da homologação do auto de infração, de modo que a inversão do julgado demandaria o reexame de prova, inviável em sede de recuso especial, em face da Súmula 7 do STJ.
+3. Não enfrentada no acórdão recorrido a ofensa ao art. 282, § 1º, do CTB - "a notificação devolvida por desatualização do endereço do proprietário do veículo será considerada válida para todos os efeitos" -, carece o apelo nobre do indispensável prequestionamento, a teor do disposto na Súmula 282 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.055.293/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/2/2018, DJe de 15/3/2018.)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
