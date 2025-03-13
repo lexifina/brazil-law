@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por JOÃO PAULO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.25.036242-3/000).
+Depreende-se dos autos que o Juízo de primeira instância indeferiu o pedido de indulto formulado pelo paciente com base no Decreto Presidencial n. 12.338/2024, por não ter sido preenchido o requisito objetivo para tanto (e-STJ fls. 66/68).
+Impetrado habeas corpus na origem, a Corte estadual não conheceu do writ, nos termos de acórdão assim ementado (e-STJ fl. 85):
+HABEAS CORPUS - EXECUÇÃO PENAL - INDULTO - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. Tendo em vista a necessidade de se preservar a utilidade do writ como instrumento de tutela da liberdade de locomoção, prevalece na jurisprudência o entendimento de que não se admite a impetração de habeas corpus em substituição ao recurso adequado. A concessão da ordem em HC substitutivo de recurso próprio ou de revisão criminal fica adstrita, portanto, às hipóteses de flagrante ilegalidade constatável sem a necessidade de revolvimento fático-probatório, o que não se verifica nos autos.
+Nas razões recursais, a defesa alega, em síntese, que o apenado faz jus ao indulto natalino, porque "cumpriu 1/6 da pena até 25/12/2025, uma vez que 1/6 de 20 (meses) é 3 (três) meses e 10 dias" (e-STJ fl. 21).
+É o relatório.
+Decido.
+No caso dos autos, o Juízo da execução indeferiu o pedido de indulto formulado pelo paciente com base no Decreto Presidencial n. 12.338/2024, consignando, para tanto, que (e-STJ fls. 66/67):
+O artigo 9º, inciso VII, do referido Decreto concede o indulto coletivo às pessoas condenadas a pena privativa de liberdade sob o regime aberto ou substituída por pena restritiva de direitos, na forma prevista no - Código Penal, ou beneficiadas com a art. 44 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 suspensão condicional da pena, que tenham cumprido, até 25 de dezembro de 2024, um sexto da pena, se não reincidentes, ou um quinto da pena, se reincidentes.
+O sentenciado não ostenta condenação por crime impeditivo.
+Afastado o referido óbice, cumpre averiguar se o sentenciado atende aos requisitos objetivo e subjetivo para a obtenção do indulto.
+A análise ocorrerá na guia de recolhimento de seq. 1.1.
+Na guia de recolhimento em questão (autos n. 0034426-82.2016.8.13.0699), o sentenciado foi incurso nas iras do art. 33, §4º, da Lei 11.343/06 (tráfico privilegiado), sendo-lhe cominada pena de 01 (um) ano e 08 (oito) meses de reclusão, em regime aberto, e 166 (cento e sessenta e seis) dias-multa, substituída por restritivas de direitos.
+Assim, a situação fático processual do sentenciado se emolda ao disposto no artigo 9º, inciso VII, do Decreto Presidencial n. 12.338/24, transcrito adiante:
+Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+VII - a pena privativa de liberdade sob o regime aberto ou substituída por pena restritiva de direitos, na forma prevista no art. 44 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, ou beneficiadas com a suspensão condicional da pena, que tenham cumprido, até 25 de dezembro de 2024, um sexto da pena, se não reincidentes, ou um quinto da pena, se reincidentes;
+Dentro desse contexto, não observando a condição de reincidência, deveria comprovar, até 25 de dezembro de 2024, o cumprimento de 1/6 (um sexto) da pena, nos moldes do artigo º, inciso VII, do Decreto 12.338/24.
+À vista da "Linha do Tempo Detalhada", depreende-se que, na data apontada, o sentenciado havia cumprido somente 16% (dezesseis) por cento da reprimenda, de modo que não faz jus ao indulto da pena.
+Quanto ao requisito subjetivo, diante do não cumprimento do requisito objetivo, deixo de analisá-lo.
+Por sua vez, a Corte local, embora não tenha conhecido do habeas corpus originário, destacou que "a situação do paciente está sendo devidamente acompanhada pelo juízo primevo, a quem compete a análise do pleito, não sendo demostrada nenhuma irregularidade na execução da pena", de forma que "não se verifica, de plano, flagrante e manifesta ilegalidade a configurar ofensa, ainda que indireta, ao direito de ir e vir do paciente" (e-STJ fls. 88/89).
+Verifica-se que não é possível o conhecimento do presente recurso.
+Isso porque, para se inverter a premissa fixada pelo Juízo da execução de que, em 25/12/2024, o recorrente havia cumprido somente 16% (dezesseis por cento) da pena, e para s e averiguar a alegação defensiva a respeito do preenchimento do requisito objetivo para a concessão do indulto, seria necessário o reexame do conjunto fático-probatório dos autos da execução, procedimento inconciliável com os estreitos limites da via do habeas corpus.
+Nesse sentido, mutatis mutandis:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.172/2013. INDEFERIMENTO. NÃO PREENCHIMENTO DO REQUISITO TEMPORAL. 1/3 (UM TERÇO) DA PENA ATÉ 25/12/2013. ALEGAÇÃO DE INCORREÇÃO NO CÁLCULO DE PENA. TESE REFUTADA PELAS INSTÂNCIAS ORDINÁRIAS. AFASTAR A CONCLUSÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. A despeito da alegação da defesa de que o apenado teria cumprido mais de 1/3 (um terço) de sua pena até a data da publicação do Decreto n. 8.172/2013, ou seja, 25/12/2013, tal informação foi refutada pelas instâncias ordinárias, que atestaram o não preenchimento do requisito objetivo exigido pelo decreto concessivo.
+2. O cálculo de pena do sentenciado não foi impugnado no momento de sua homologação, de forma que a discussão acerca de sua correção refoge ao âmbito da ação constitucional de habeas corpus, que não admite o revolvimento de matéria fático-probatória.
+3. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, e não concedeu a ordem de ofício, em razão da ausência de constrangimento ilegal a ser sanado.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 505.032/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 17/9/2019, DJe de 30/9/2019.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. CRIME DE ASSOCIAÇÃO CRIMINOSA. PENA DE 4 (QUATRO) ANOS E 2 (DOIS) MESES DE RECLUSÃO, EM REGIME INICIAL SEMIABERTO. PLEITO DE RECONHECIMENTO DO INDULTO COM BASE NO DECRETO PRESIDENCIAL N.º 8.940/2016. REQUISITO OBJETIVO NÃO COMPROVADO NA ORIGEM. INVERSÃO DO ENTENDIMENTO DEMANDA REEXAME PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Magistrada de primeira instância consignou que, para aplicação do indulto nos termos do Decreto Presidencial n.º 8.940/2016, "é imprescindível que o sentenciado tenha cumprido parte da pena, no caso 1/6, no regime semiaberto e frequentando curso ou trabalhado, o que não ficou demonstrado nos autos" e, neste aspecto, o Tribunal estadual não vislumbrou "ilegalidade flagrante".
+2. No caso, inverter o decidido pelas instâncias ordinárias, como defende o Agravante, com o reexame dos documentos que supostamente comprovam o trabalhado realizado no lapso temporal exigido pelo Decreto Presidencial n.º 8.940/2016, é inviável no âmbito de cognição sumária do habeas corpus.
+3. Na expressão da jurisprudência, o habeas corpus "não se mostra juridicamente adequado quando utilizado com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento" (HC 124.693 AgR, Rel. Minintro CELSO DE MELLO, Segunda Turma, julgado em 03/03/2015, DJe-077 de 27/04/2015).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 448.507/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2019, DJe de 9/9/2019.)
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
