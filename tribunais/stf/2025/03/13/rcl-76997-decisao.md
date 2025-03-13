@@ -1,0 +1,55 @@
+Trata-se de reclamação, com pedido de liminar, proposta por Juliano Salustiano Pinto, por alegada omissão do Ministro Relator do Agravo em Recurso Especial 2.357.168/PR, interposto nos autos do Processo 5021569-05.2019.4.04.7001, para garantia da autoridade da decisão do Supremo Tribunal Federal no Recurso Extraordinário 647.885/RS – Tema 732 da Repercussão Geral.
+
+    O recurso especial em questão é de autoria da parte adversa nos autos de origem, a Ordem dos Advogados do Brasil, Seção do Paraná – OAB/PR.
+
+    O reclamante narra que:
+
+    [...]
+
+    Quando da análise de admissibilidade prévia realizada pelo Presidente da Seção de Direito Público do TRF 4ª, ambos os recursos [especial e extraordinário] foram inadmitidos, ensejando a interposição de agravos contra as decisões que os inadmitiram pela OAB.
+
+    O C. Superior Tribunal de Justiça desde a data da subida dos autos em 03/05/23 até presente momento ainda não decidiu pelo não conhecimento do agravo em recurso especial, aplicando julgamento e tema 732 do STF: Tema STF 732 - É inconstitucional a suspensão realizada por conselho de fiscalização profissional do exercício laboral de seus inscritos por inadimplência de anuidades, pois a medida consiste em sanção política em matéria tributária (doc. 1, p. 3 – grifei).
+
+    Argumenta que:
+
+    [...] o Tribunal a quo, ao deixar de inadmitir e julgar prejudicado os recursos da OAB, determinando a baixa dos autos, com base em julgamento do tema 732 de repercussão geral, contrariou a tese jurídica firmada no julgamento de mérito do recurso extraordinário submetido à sistemática da repercussão geral em questão RE 647.885/RS (doc. 1, p. 3-4).
+
+    Ao final, requer:
+
+    I – liminarmente, a concessão de medida cautelar consistente na suspensão do curso do processo nº imperioso [sic] se faz a determinação de aplicação da tese já reconhecida em REPERCUSSÃO GERAL RE 647.885/RS (Tema 732), nos autos do processo nº 5021569 - 05.2019.4.04.7001/PR, e por conseguinte que sejam tidos por prejudicados os recursos interposto pela OAB, sob o manto da repercussão geral acima, que seja determinada a baixa dos autos pelo STJ ante a prejudicialidade dos recursos interpostos pela OAB, e consequente julgamento definitivo de mérito do tema 732 do STF, liminarmente, determinando a aplicação da tese vinculante e baixa dos autos para prosseguimento do processo.
+
+    II – a cassação da decisão exorbitante ou a determinação de medida adequada à solução da controvérsia, com aplicação ao caso da REPERCUSSÃO GERAL RE 647.885/RS (Tema 732), nos autos do processo nº 5021569 - 05.2019.4.04.7001/PR , para o fim de que seja corretamente aplicada a tese jurídica firmada no STF, em sede de repercussão geral, julgou o Leading Case RE 647.885, Tema 732, devolvendo os autos ao Tribunal de origem para o devido andamento do processo [...] (doc. 1, p. 8 – sem os grifos do original).
+
+    É o relatório. Decido.
+
+    Preliminarmente, observo que a ação está apta a ser julgada. Por esse motivo, deixo de requisitar as informações e de enviar o feito à Procuradoria-Geral da República (arts. 52, parágrafo único, e 161, parágrafo único, ambos do Regimento Interno do Supremo Tribunal Federal – RISTF).
+
+    A demanda é improcedente, pois o reclamante não demonstrou a ocorrência de nenhuma das hipóteses de cabimento de reclamação para o Supremo Tribunal Federal.
+
+    Em consulta ao site do Superior Tribunal de Justiça, verifico que o agravo em recurso especial ainda não foi apreciado naquela instância.
+
+    Em outras palavras, a insurgência do reclamante volta-se contra a inércia do Juízo reclamado em julgar o agravo em recurso especial, não havendo, portanto, um ato reclamado a ser analisado pelo Supremo Tribunal Federal.
+
+    O ato que ensejou o agravo ao Superior Tribunal de Justiça foi a decisão do Tribunal Regional da 4ª Região que inadmitiu o recurso especial, por estar o acórdão da apelação em consonância com o Tema 732 da Repercussão Geral (doc. 4, p. 707). A decisão recorrida no recurso especial, portanto, foi favorável ao ora reclamante, nos termos do que pedido nesta reclamação.
+
+    Logo, não há, nos autos de origem, nenhum ato contrário ao interesse do reclamante a ser examinado nesta reclamação, não cabendo ao Supremo Tribunal Federal interferir no julgamento dos recursos de competência dos demais Tribunais antes mesmo que tenha ocorrido o exercício da respectiva jurisdição.
+
+    Por fim, a jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que a competência para aplicar a sistemática da repercussão geral é do Tribunal de origem, não ficando configurada a usurpação de competência desta Suprema Corte. Nesse sentido:
+
+    AGRAVO REGIMENTAL NA RECLAMAÇÃO. RECURSO EXTRAORDINÁRIO. INADMISSÃO. TEMA 181. REQUISITOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE CORTES DIVERSAS. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. ATRIBUIÇÃO PRÓPRIA DOS TRIBUNAIS DE ORIGEM. ART. 1.030, § 2º, DO CPC. USURPAÇÃO DE COMPETÊNCIA DO STF NÃO VERIFICADA. TERATOLOGIA. AUSÊNCIA DE COMPROVAÇÃO. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Não está configurada a alegada usurpação de competência. Ao desprover o agravo, mantendo a decisão que, mediante a aplicação de entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral, inadmitiu o recurso extraordinário, a autoridade reclamada se utilizou de atribuição própria (art. 1.030, § 2º, do CPC) não havendo que se cogitar de usurpação da competência desta Corte. 2. A reclamação constitucional não se revela instrumento processual adequado para se questionar o acerto de decisão do Tribunal de origem que, aplicando ao caso concreto precedente desta Corte em sede de repercussão geral, inadmite recurso extraordinário. Precedentes. 3. Somente há viabilidade de revisão do ato reclamado se for demonstrada a existência de teratologia ou de peculiaridade que torne flagrantemente incorreta a aplicação do tema de repercussão geral invocado. Essa, porém, não é a hipótese dos autos, pois, nos estritos termos da norma de regência da ação reclamatória, constata-se a existência de harmonia entre as razões do apelo extremo apresentadas pela recorrente e a fundamentação da decisão que o inadmitiu. 4. Agravo regimental a que se nega provimento (Rcl 63.552 AgR/DF, Rel. Min. Edson Fachin, Segunda Turma, DJe 8/3/2024 – grifei).
+
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. AUSÊNCIA DE TERATOLOGIA. NÃO INDICAÇÃO DE PARADIGMA VINCULANTE. INADMISSIBILIDADE DO USO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. AGRAVO DESPROVIDO. I. CASO EM EXAME 1. Reclamação Constitucional ajuizada contra decisão proferida pelo Tribunal Superior do Trabalho, que negou seguimento ao recurso extraordinário interposto em razão da ausência de repercussão geral. 2. A reclamante alega que a decisão hostilizada violou a competência do STF para julgar recurso extraordinário e que o dever da Corte Trabalhista seria remeter o recurso interposto ao Supremo Tribunal Federal e não decidir matéria que não é de sua competência. II. QUESTÃO EM DISCUSSÃO 3. A presente Reclamação Constitucional discute se ao negar seguimento ao recurso extraordinário e não remetê-lo a esta Corte, a autoridade reclamada teria usurpado a competência deste Supremo Tribunal Federal. III. RAZÕES DE DECIDIR 4. À semelhança do que ocorre com o Habeas Corpus, a Reclamação Constitucional não se presta à análise verticalizada de fatos e provas ou para funcionar como sucedâneo recursal. Precedentes: Rcl 63510 AgR, Rel. Ministro Dias Toffoli, Segunda Turma; Rcl 59821 AgR, Rel. Ministro Dias Toffoli, Segunda Turma; Rcl 28203 AgR, Rel. Ministro Edson Fachin, Segunda Turma; Rcl 17170 AgR, Rel. Ministra Rosa Weber, Primeira Turma; Rcl 43201 ED-AgR, Rel. Ricardo Lewandowski, Segunda Turma; Rcl 57949 AgR, Rel. Ministro Dias Toffoli, Primeira Turma; Rcl 40247, Rel. Ministra Rosa Weber, Primeira Turma; Rcl 55068 ED-AgR, Rel. Ministro Gilmar Mendes, Segunda Turma; Rcl 63001 AgR, Rel. Ministra Cármen Lúcia, Primeira Turma. 5. No presente caso, a reclamante expõe seu inconformismo com a decisão impugnada, não demonstrando, com clareza, a existência de ilegalidade ou teratologia da decisão, nem mesmo indica um paradigma eventualmente violado, o que impede a apreciação desta reclamação. 6. A decisão impugnada, ao manter a inadmissão de recurso extraordinário com fundamento na sistemática da repercussão geral, exerceu competência própria quanto à aferição dos pressupostos recursais. 7. Esta Corte tem posição consolidada no sentido de ser incabível recurso ou outra via processual ao Supremo Tribunal contra decisão que tenha aplicado a sistemática da repercussão geral. 8. É inviável, nesta via reclamatória, o exame de eventual afronta a dispositivos legais e constitucionais, sob pena de desvirtuamento do instituto. IV. DISPOSITIVO 9. Agravo regimental a que se nega provimento (Rcl 68.544 AgR/DF, Rel. Min. Flávio Dino, Primeira Turma, DJe 12/7/2024 – grifei).
+
+    DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL (TEMA 181). AUSÊNCIA DE TERATOLOGIA. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. I. Caso em exame 1. Agravo regimental interposto contra decisão que julgou improcedente a reclamação proposta para assegurar a autoridade de acórdão do Supremo Tribunal Federal, alegando violação de competência decorrente da aplicação equivocada da sistemática da repercussão geral pelo Tribunal de origem. II. Questão em discussão 2. A questão em discussão consiste em verificar se houve usurpação de competência do Supremo Tribunal Federal em decorrência da aplicação equivocada da sistemática da repercussão geral pelo Tribunal de origem e, consequentemente, se a reclamação constitucional é cabível para corrigir eventual erro na aplicação de tal sistemática. III. Razões de decidir 3. O Supremo Tribunal Federal admite a reclamação apenas para corrigir eventuais equívocos na aplicação da sistemática da repercussão geral em situações de manifesta teratologia, o que ora não se verifica . 4. No presente caso, no julgamento dos embargos de divergência, o Superior Tribunal de Justiça reconheceu a presença do óbice processual previsto na Súmula 315/STJ, em decorrência da prévia aplicação da Súmula 7/STJ pela decisão que apreciou o agravo em recurso especial, o que atrai a incidência do entendimento firmado no julgamento do Tema 181/STF. 5. A reclamação não pode ser utilizada como sucedâneo recursal. IV. Dispositivo e tese 6. Agravo desprovido (Rcl 73.502 AgR/SP, da minha relatoria, Primeira Turma, DJe 21/2/2025).
+
+    Posto isso, julgo improcedente a reclamação (art. 161, parágrafo único, do RISTF).
+
+    Sem condenação em honorários, pois não houve angularização processual.
+
+    Publique-se.
+
+    Brasília, 13 de março de 2025.
+
+    Ministro Cristiano Zanin
+
+    Relator
