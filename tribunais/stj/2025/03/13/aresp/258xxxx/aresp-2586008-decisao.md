@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por FABIANA ESTRELA GUEDES contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fls. 558/559):
+"Apelação - Ação declaratória de nulidade c. c. indenização por danos materiais e morais - Falsificação de rubrica da autora em instrumento de alteração de contrato social - Sentença que julgou procedente a ação para determinar o cancelamento do registro da alteração do contrato social perante a JUCESP e condenar duas corrés à restituição dos valores pagos pela autora, referente à aquisição das quotas sociais, bem como ao pagamento de indenização por danos morais - Inconformismo - Preliminar de cerceamento de defesa - Rejeição - Juiz que é destinatário mediato das provas e pode indeferir as que forem inúteis ou meramente protelatórias - Exegese do art. 370, par. único, do CPC - Falsificação de rubricas - Prova exclusivamente pericial - Inteligência do art. 473, II, do CPC - Perícia grafotécnica que atestou a falsidade das rubricas apostas no instrumento de alteração de contrato social - Nulidade do instrumento que se impõe - Restituição das partes ao status quo ante - Condenação das rés/apeladas à devolução dos valores recebidos pelo negócio jurídico declarado nulo - Danos morais configurados - Abuso contratual que ultrapassa o mero aborrecimento cotidiano e é fonte de abalo moral - Sentença mantida - Majoração dos honorários recursais (art. 85, §11, do CPC) - RECURSO IMPROVIDO. Apelação - Pedido de desistência formulado pela ré/apelante - Possibilidade, a qualquer tempo e sem anuência da parte recorrida - Inteligência do art. 998 do CPC - Desistência homologada - RECURSO PREJUDICADO. Apelação - Ação declaratória de nulidade c. c. indenização por danos morais e materiais - Sentença que julgou improcedente a ação em face de uma das corrés (VANESSA) e deixou de fixar as verbas sucumbenciais - Inconformismo - Alegação de necessidade de fixação dos honorários advocatícios, diante da omissão da sentença - Recurso interposto pelo causídico, em substituição ao recurso interposto pela parte - Admissibilidade - Legitimidade concorrente da parte e do patrono constituído no que se refere a honorários sucumbenciais - Precedentes das C. Câmaras Reservadas de Direito Empresarial deste E. Tribunal de Justiça - Condenação da autora/apelada que se impõe - Fixação de honorários advocatícios, que, inclusive, pode se dar de ofício, por ser decorrência legal dos ônus sucumbenciais - Inteligência do art. 85, caput, do CPC - Arbitramento dos honorários em 10% do valor atribuído à causa, que deverá ser atualizado desde a data da distribuição da ação até a data do efetivo pagamento, de acordo com a tabela prática do E. Tribunal de Justiça do Estado de São Paulo - Sentença reformada neste ponto - RECURSO PROVIDO."
+Os embargos de declaração opostos foram rejeitados conforme a seguinte ementa (e-STJ fl. 573):
+"Embargos de declaração -- Acórdão embargado que, dentre outras providências, fixou honorários sucumbenciais em favor do patrono da corré VANESSA - Alegação de contradição entre o acórdão embargado e a sentença proferida na origem, exclusivamente quanto ao julgamento da apelação interposta pelo patrono da corré VANESSA - Descabimento - Contradição que deve existir no próprio r. decisum - Inexistência do vício alegado - Ausência de preclusão lógica, porquanto os honorários advocatícios podem ser fixados, inclusive, de ofício, por decorrência lógica dos ônus sucumbenciais - Embargante que pretende alterar o quanto decidido por ser contrário aos seus interesses - Inadmissibilidade - Recurso que não se presta à rediscussão do julgado - Caráter infringente inadmissível na espécie - Prequestionamento - Desnecessidade, a teor do que preconiza o art. 1.025 do CPC - EMBARGOS REJEITADOS."
+No recurso especial, a recorrente alega violação aos seguintes dispositivos legais: 85, § 11 e 998, ambos do Código de Processo Civil, ao argumento de que indevida a fixação da verba honorária de sucumbência. Por fim, requer o provimento do recurso especial.
+Após o prazo para contrarrazões, o recurso especial não foi admitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece conhecimento .
+O Tribunal de Justiça, ao julgar o recurso de apelação, asseverou o seguinte (e-STJ fls. 563/564):
+"(..)
+Após a desistência de fls. 521, o patrono da ré VANESSA entendeu por interpor recurso de apelação, em nome próprio, para a fixação dos honorários sucumbenciais, considerando que a ação foi julgada improcedente em favor de sua cliente, sem que o D. Juízo de origem fixasse os honorários advocatícios.
+É de conhecimento que a parte e o advogado possuem legitimidade concorrente para discussão de honorários sucumbenciais (Agravo de Instrumento nº 2035451-86.2022.8.26.0000, Relator NATAN ZELINSCHI DE ARRUDA, 2ª Câmara de Direito Empresarial, j. 09/08/2022; e Agravo de Instrumento nº 2137688-38.2021.8.26.0000, Relator AZUMA NISHI, 1ª Câmara de Direito Empresarial, j. 04/02/2022) e, em razão disso, é o caso de conhecimento deste recurso.
+Aliás, importante ser considerado que a fixação dos honorários advocatícios de sucumbência pode, inclusive, se dar de ofício, por tratar-se de mera consequência legal em razão da sucumbência.
+In casu, a r. sentença impugnada julgou improcedente o feito em relação à ré VANESSA, mas deixou de fixar as verbas sucumbenciais, o que seria de rigor, de acordo com o art. 85, caput, do CPC.
+E, em razão disso, CONDENO a parte autora, ora apelada, ao pagamento de honorários de sucumbenciais em favor do patrono da parte ré VANESSA, que ora fixo em 10% do valor da causa (art. 85, §2º, do CPC), que deverá ser devidamente atualizado, de acordo com a tabela prática deste E. Tribunal de Justiça, desde a data da distribuição da ação até a data do efetivo pagamento."
+Dessa forma, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça no sentido que fixada a verba honorária em acordo com o estabelecido no art. 85, § 2º, do CPC, não há se falar em ilegalidade.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. HONORÁRIOS DE SUCUMBÊNCIA. CRITÉRIO DO ART. 85, § 2º, DO CPC. FIXAÇÃO POR EQUIDADE. NÃO CABIMENTO. PARCIAL ACOLHIMENTO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão.
+2. A verba honorária foi estabelecida nos moldes do art. 85, § 2º, do Código de Processo Civil/2015 (10% sobre o valor da causa), não estando caracterizada, portanto, nenhuma ilegalidade.
+3. Nos termos do art. 86, parágrafo único, do CPC, "se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários".
+4. Embargos de declaração acolhidos em parte."
+(EDcl no AgInt no REsp n. 1.823.059/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025)
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Salienta-se que a referida Súmula é aplicável a ambas as alíneas do permissivo constitucional.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ARREMATAÇÃO. PENHORA. IMÓVEL. INTIMAÇÃO. CÔNJUGE. NECESSIDADE. NULIDADE.
+1. Recaindo a penhora sobre bem imóvel, é imprescindível a intimação do cônjuge do devedor, independentemente do regime de bens.Precedentes.
+2. Estando o acórdão recorrido em harmonia com a jurisprudência do Superior Tribunal de Justiça, incide a Súmula nº 568/STJ, aplicável por ambas as alíneas autorizadoras.
+3. Agravo interno não provido."
+(AgInt no REsp n. 1.909.273/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2024, DJe de 1/3/2024)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. ILEGALIDADE. AUSÊNCIA.
+1. Fixada a verba honorária em acordo com o estabelecido no art. 85, § 2º, do CPC, não há se falar em ilegalidade.
+2. Agravo em recurso especial conhecido para não conhecer do recurso especial.
