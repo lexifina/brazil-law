@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIÃO, fundado na alínea a do inciso III do art. 105 da Constituição Federal, contra acórdão prolatado pelo Tribunal Regional Federal da 1ª Região assim ementado (e-STJ, fls. 211-212):
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86% (LEIS 8.622/93 E 8.627/93). MEDIDA PROVISÓRIA 1.704/68. ACORDO ADMINISTRATIVO. PRESCRIÇÃO. NÃO OCORRÊNCIA. ATUALIZAÇÃO MONETÁRIA DAS PARCELAS PAGAS DEVIDA.
+1. A decisão recorrida foi proferida sob a vigência do CPC de 1973, de modo que não se aplicam as regras do CPC atual.
+2. Não há que se falar em prescrição do fundo de direito e nem de qualquer parcela vencida anteriormente aos 05 (cinco) anos da data do ajuizamento da demanda, uma vez que o início do prazo prescricional para a cobrança de correção monetária quando celebrado acordo para pagamento parcelado se dará a partir da data do pagamento da última parcela.
+3. A obrigação adquirida pela parte ré, ainda que faticamente divisível, possui a natureza de uma obrigação una, cuja extinção somente se operou quando do adimplemento da última parcela, distinguindo-se, assim, das chamadas obrigações de execução continuada - prestações sucessivas - cuja prescrição aplicável tem um tratamento diferenciado.
+4. Portanto, somente após a quitação da obrigação, que ocorreu com o pagamento da última parcela, é que a parte autora se tornou credora da diferença apurada entre o valor devido e o que foi efetivamente pago, surgindo daí o direito/interesse de pleitear a incidência da correção monetária oficial e juros de mora não computados.
+5. Tendo o marco inicial do prazo prescricional começado a fluir da data do adimplemento da obrigação, que ocorreu em dezembro/2005, quando do pagamento da última parcela prevista no acordo administrativo firmado entre as partes e tendo sido a ação proposta em 28/05/2010, não há que se falar em prescrição.
+6. A Medida Provisória nº 1.704/98, e suas sucessivas reedições, estabelecia que em caso de realização de acordo administrativo os valores devidos a título do reajuste de 28,86% seriam pagos a partir de 1999, em até sete anos, desde que firmado o acordo individual por parte do servidor.
+7. A jurisprudência reconheceu o direito à correção monetária dos valores pagos administrativamente de forma parcelada a título de reajuste de 28,86%, nos termos do art. 1º da Lei nº 6.899/81, a partir da data em que deveria ter sido efetuado o pagamento de cada parcela. Precedente: REsp nº 990.284/RS.
+8. Apelação da União Federal e reexame necessário desprovidos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 247-255).
+Nas razões do recurso especial (e-STJ, fls. 262-272), a recorrente aponta violação aos arts. 489, III, § 1º, III, e 1.022 do CPC/2015; e 1º do Decreto 20.910/1932.
+Sustenta, preliminarmente, negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido.
+Defende que o termo inicial do prazo prescricional para cobrança da correção monetária, quando celebrado acordo para pagamento parcelado das diferenças do reajuste de 28, 86%, incide a partir do vencimento de cada parcela, e não da última parcela paga.
+Pleiteia, assim, a reforma do acórdão recorrido.
+Admitido o recurso especial na origem, os autos ascenderam a esta Corte.
+Brevemente relatado, decido.
+No tocante à alegação de negativa de prestação jurisdicional, destaca-se que a parte ora recorrente limitou-se a defender genericamente a ocorrência de violação dos arts. 489 e 1.022 do CPC/2015, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo STJ.
+Veja-se:
+ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. JUÍZO DE IMPROCEDÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC. INDICAÇÃO DOS VÍCIOS. AUSÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ILEGITIMIDADE DE PARTE. PRELIMINAR AVENTADA APENAS NA FASE DE CUMPRIMENTO DE SENTENÇA. COMPORTAMENTO CONTRADITÓRIO. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS 284 E 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. "É deficiente a fundamentação de recurso especial em que a alegação de ofensa ao art. 1022 do CPC/2015 se faz de forma genérica, sem a demonstração exata do ponto omisso, contraditório ou obscuro constante do acórdão recorrido, incidindo, por analogia, o óbice da Súmula n. 284/STF" (REsp n. 2.035.645/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/8/2024, DJe de 15/8/2024).
+2. Ausência de impugnação de fundamento do acórdão recorrido, que levou em conta o comportamento contraditório do recorrente, por não ter alegado sua ilegitimidade durante toda a fase de conhecimento do processo principal.
+3. A deficiência na motivação e a falta de impugnação de fundamento autônomo atrai a incidência, por analogia, das Súmulas 284 e 283 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.489.009/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+No tocante ao termo inicial do prazo prescricional, o Tribunal de origem consignou o seguinte (e-STJ, fls. 209-210, sem grifo no original):
+3. Esclareço, inicialmente, que no caso em apreço não há que se falar em prescrição do fundo de direito e nem de qualquer parcela vencida anteriormente aos 05 (cinco) anos da data do ajuizamento da demanda, uma vez que o início do prazo prescricional para a cobrança de correção monetária, quando celebrado acordo para pagamento parcelado, dar-se-á a partir da data do pagamento da última parcela.
+4. Com efeito, a obrigação adquirida pela ré, ainda que faticamente divisível, possui a natureza de uma obrigação una, cuja extinção somente se operou quando do adimplemento da última parcela, distinguindo-se, assim, das chamadas obrigações de execução continuada - prestações sucessivas - cuja prescrição aplicável tem um tratamento diferenciado.
+5. Portanto, somente após a quitação da obrigação, que ocorreu com o pagamento da última parcela, é que o autor se tornou credor da diferença apurada entre o valor devido e o que foi efetivamente pago, surgindo daí o direito/interesse de pleitear a incidência da correção monetária.
+( )
+7. Na hipótese dos autos, tendo o marco inicial do prazo prescricional começado a fluir da data do adimplemento da obrigação, que ocorreu em dezembro/2005, quando do pagamento da última parcela prevista no acordo administrativo firmado entre as partes e tendo sido a ação proposta em 28/05/2010, não há que se falar em prescrição.
+Com efeito, o acórdão recorrido encontra-se em perfeita consonância com a jurisprudência desta Corte no sentido de que o início do prazo prescricional para a cobrança de correção monetária começa a fluir a partir da data do pagamento da última parcela prevista no acordo administrativo firmado entre as partes, referente às diferenças do reajuste de 28, 86%.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. PARCELAMENTO DO VALOR DEVIDO. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO DA ÚLTIMA PARCELA. PROVIMENTO NEGADO.
+1. Verifica-se que o Superior Tribunal de Justiça (STJ) possui entendimento no sentido de que ""é no vencimento da última prestação que o prejudicado passa a ter interesse em reivindicar qualquer diferença (princípio da actio nata), não correndo a prescrição durante o parcelamento". (REsp 1.179.785/PE, Rel. Ministro Og Fernandes, Sexta Turma, julgado em 27/09/2012, DJe 24/10/2012)" (AgInt no PUIL 2.267/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 8/2/2023, DJe de 13/2/2023).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.351.954/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. TERMO INICIAL DO PRAZO PRESCRICIONAL. PAGAMENTO DA ÚLTIMA PARCELA. ACÓRDÃO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL DESPROVIDO.
