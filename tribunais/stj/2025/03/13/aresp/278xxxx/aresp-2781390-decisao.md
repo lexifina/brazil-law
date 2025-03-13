@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por FELIPE ARAUJO AVILA e OUTRO contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ALIENAÇÃO FIDUCIÁRIA. FINANCIAMENTO IMOBILIÁRIO. INTIMAÇÃO DOS FIDUCIANTES PARA PURGAR A MORA. COMPROVADA. LEILÃO EXTRAJUDICIAL. PROCEDIMENTO REGULAR. REQUISITOS DA LEI N.º 9.514/1997 CUMPRIDOS. RESTITUIÇÃO DE PARCELAS PAGAS. IMPOSSIBILIDADE. JUROS REMUNERATÓRIOS. IGPM. ABUSIVIDADE NÃO DEMONSTRADA. COMISSÃO DE PERMANÊNCIA. AUSENTE. SENTENÇA MANTIDA.
+1. O art. 26, da Lei nº 9.514/1997, em seus parágrafos 1 o , 3 o , 4 o e 7 o , previa expressamente a necessidade de intimação pessoal do devedor fiduciante, pelo oficial do registro de imóveis competente, para oportunizar-lhe a purgação da mora, no prazo de 15 (quinze) dias. Estando ele em local incerto e não sabido, passa-se à intimação por edital, que, se também restar infrutífera, autoriza a averbação da consolidação da propriedade do imóvel em nome do credor fiduciário.
+Nada obstante os Apelantes aleguem desrespeito ao art. 26 da Lei supracitada, razão não lhes assiste, já que o insucesso da notificação para purgarem a mora se deu porque o endereço constante do contrato não foi por eles atualizado.
+2. Sobre o rito a ser obedecido para o leilão de imóvel adquirido com alienação fiduciária, o art. 27, da Lei 9.514/97 estabelece que u ma vez consolidada a propriedade em seu nome, o fiduciário, no prazo de trinta dias, contados da data do registro de que trata o § 7º do artigo anterior, promoverá público leilão para a alienação do imóvel. (..) as datas, horários e locais dos leilões serão comunicados ao devedor mediante correspondência dirigida aos endereços constantes do contrato, inclusive ao endereço eletrônico. No caso concreto, restou devidamente cumprido pelo Apelante o requisito previsto na lei de regência de intimação do devedor fiduciante quanto ao procedimento do leilão extrajudicial. Desse modo, correta a sentença que declarou a validade do procedimento de leilão extrajudicial.
+3. Da análise dos autos, verifico a presença dos requisitos elencados pelo Superior Tribunal de Justiça no Tema 1095 para aplicação da Lei nº 9.517/97 quando da resolução de contrato por culpa do devedor, quais sejam, registro do contrato com cláusula de alienação fiduciária, inadimplemento do devedor fiduciário e adequada constituição em mora. Portanto, incabível a pretensão de restituição dos valores pagos.
+4. O percentual de juros de 0,94% (zero vírgula noventa e quatro por cento) ao mês, não pode ser considerado abusivo, já que está em conformidade com os parâmetros utilizados em contratos como o que ora se analisa.
+5. Não se vislumbra abusividade na cobrança de juros remuneratórios cumulados com correção monetária pelo IGPM, considerando que os juros têm a finalidade de remunerar o capital concedido para o financiamento destinado à aquisição do imóvel e o IGPM, a seu turno, tem por propósito a atualização da moeda frente a sua desvalorização.
+6. Inexiste pactuação de comissão de permanência para o período de anormalidade contratual no contrato em análise. À vista disso, não há que se falar em abusividade de encargo que sequer está presente no pacto firmado entre as partes.
+7. Em razão do desprovimento do apelo, necessária a majoração dos honorários sucumbenciais (CPC, art. 85, § 11) em favor do patrono do Apelado, os quais arbitro em 15% (quinze por cento) sobre o valor atualizado da causa.
+APELAÇÃO CONHECIDA E DESPROVIDA" (e-STJ fls. 688/690).
+Os embargos de declaração interpostos foram rejeitados (e-STJ fls. 709/716).
+No recurso especial (e-STJ fls. 721/728), os recorrentes alegam violação dos artigos 27 e 39, da Lei nº 9.514/1997.
+Sustentando, em síntese, que "o v. acórdão proferido pelo Tribunal de Justiça de Goiás violou os referidos dispositivos mencionados porque dispensou a notificação pessoal da devedora fiduciante acerca das datas dos leilões realizados em sede de execução da garantia fiduciária, impossibilitando a purgação da mora" (e-STJ fl. 724).
+Após a apresentação das contrarrazões (e-STJ fls. 744/754), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De fato, a jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que, "no âmbito do Decreto-Lei n. 70/1996, é imprescindível a intimação pessoal do devedor acerca da realização do leilão extrajudicial, ainda que tenha havido a prévia intimação para purgação da mora" (AgInt no REsp 1.970.116/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022).
+Na hipótese, todavia, o Tribunal de origem reconheceu que houve ciência inequívoca dos recorrentes da data da realização do leilão, consoante observa-se do seguinte trecho do acórdão recorrido:
+"(..)
+A sentença apelada julgou improcedentes os pedidos iniciais, reconhecendo a validade da notificação dos Apelantes para purgarem a mora.
+De se observar que deve ser aplicada, in casu, a versão da Lei nº 9.514/1997 que estava vigente à época dos fatos, isto é, antes das alterações promovidas pela Lei nº 14.711/2023.
+Dito isso, o art. 26, da Lei nº 9.514/1997, em seus parágrafos 1 o , 3 o , 4 o e 7º, previa expressamente a necessidade de intimação pessoal do devedor fiduciante, pelo oficial do registro de imóveis competente, para oportunizar-lhe a purgação da mora, no prazo de 15 (quinze) dias. Estando ele em local incerto e não sabido, passa-se à intimação por edital, que, se também restar infrutífera, autoriza a averbação da consolidação da propriedade do imóvel em nome do credor fiduciário.
+Veja-se:
+Art. 26. Vencida e não paga a dívida, no todo ou em parte, e constituídos em mora o devedor e, se for o caso, o terceiro fiduciante, será consolidada, nos termos deste artigo, a propriedade do imóvel em nome do fiduciário.
+§ 1º Para os fins do disposto neste artigo, o fiduciante, ou seu representante legal ou procurador regularmente constituído, será intimado, a requerimento do fiduciário, pelo oficial do competente Registro de Imóveis, a satisfazer, no prazo de quinze dias, a prestação vencida e as que se vencerem até a data do pagamento, os juros convencionais, as penalidades e os demais encargos contratuais, os encargos legais, inclusive tributos, as contribuições condominiais imputáveis ao imóvel, além das despesas de cobrança e de intimação.
+(..)
+§ 3º A intimação far-se-á pessoalmente ao fiduciante, ou ao seu representante legal ou ao procurador regularmente constituído, podendo ser promovida, por solicitação do oficial do Registro de Imóveis, por oficial de Registro de Títulos e Documentos da comarca da situação do imóvel ou do domicílio de quem deva recebê-la, ou pelo correio, com aviso de recebimento.
+(..)
+§ 4º Quando o fiduciante, ou seu cessionário, ou seu representante legal ou procurador encontrar-se em local ignorado, incerto ou inacessível, o fato será certificado pelo serventuário encarregado da diligência e informado ao oficial de Registro de Imóveis, que, à vista da certidão, promoverá a intimação por edital publicado durante 3 (três) dias, pelo menos, em um dos jornais de maior circulação local ou noutro de comarca de fácil acesso, se no local não houver imprensa diária, contado o prazo para purgação da mora da data da última publicação do edital. (Redação dada pela Lei nº 13.043, de 2014)
+(..)
+§ 7o Decorrido o prazo de que trata o § 1o sem a purgação da mora, o oficial do competente Registro de Imóveis, certificando esse fato, promoverá a averbação, na matrícula do imóvel, da consolidação da propriedade em nome do fiduciário, à vista da prova do pagamento por este, do imposto de transmissão inter vivos e, se for o caso, do laudêmio.
+No caso em apreço, verifico que foi tentada a intimação pessoal dos Apelantes pela serventuária do cartório de registro de imóveis, no endereço informado no contrato de alienação fiduciária, conforme mov. 173, arq. 3.
+Não encontrados os devedores no local, procedeu-se à intimação editalícia, em jornal de grande veiculação da região, conforme a documentação apresentada na mov. 173, arq. 4.
+Nada obstante os Apelantes aleguem desrespeito ao art. 26 da Lei supracitada, razão não lhes assiste, já que o insucesso da notificação para purgarem a mora se deu porque o endereço constante do contrato não foi por eles atualizado.
+Assim, ao deixarem de atualizar o endereço junto ao Apelado e ao cartório de registros competente, os Apelantes assumiram o risco de não serem localizados para fins de intimação.
+(..)
+Portanto, não há que se falar em nulidade da notificação dos devedores fiduciantes para purgação da mora, devendo, neste ponto, a sentença ser mantida." (e-STJ fls. 682/684 - grifou-se).
+Nesse cenário, rever a conclusão do tribunal de origem, que atestou a ciência inequívoca da parte devedora da data do leilão extrajudicial exigiria, por parte do Superior Tribunal de Justiça, o reexame de matéria fática, procedimento vedado na estreita via do recurso especial, consoante entendimento da Súmula nº 7/STJ.
+A esse respeito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LEILÃO EXTRAJUDICIAL. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REEXAME DE PROVAS. PURGA DA MORA. VALOR INSUFICIENTE. SÚMULA 7/STJ. AUSÊNCIA DE INTIMAÇÃO. NULIDADE. NÃO OCORRÊNCIA. CIÊNCIA INEQUÍVOCA. PRECEDENTES.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. A Jurisprudência do STJ é firme no sentido de que não se decreta a nulidade do leilão, por ausência de intimação pessoal, se ficar demonstrada a ciência inequívoca do agravante.
+3. Agravo interno a que se nega provimento" (AgInt no AgInt no AREsp 1463916/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/12/2019, DJe 09/12/2019).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. ALIENAÇÃO JUDICIAL DE BEM. INTIMAÇÃO POR EDITAL. VALIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Impõe-se ao recorrente, mesmo nos recursos especiais por dissídio jurisprudencial, a correta indicação do dispositivo de Lei federal a que fora dada interpretação divergente pelo Tribunal a quo, atraindo a incidência do óbice da Súmula 284 do STF a deficiência de fundamentação.
+2. O devedor deverá ser intimado pessoalmente do dia e hora da alienação judicial de seus bens (Súmula 121 do STJ), admitindo-se a intimação por edital quando impossível a intimação pessoal e quando esgotadas todos os meios de localização do devedor.
+3. Hipótese em que o conhecimento do recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, pois Tribunal a quo, atento ao conjunto fático-probatório, decidiu a validade da intimação por edital em razão de o executado estar se ocultando e ter havido tentativa de intimação pessoal anterior frustrada, o que está em conformidade com o pacífico entendimento jurisprudencial deste Tribunal Superior.
+4. Agravo interno desprovido" (AgInt no AREsp n. 1.340.641/MS, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/4/2021, DJe de 5/5/2021).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. LEILÃO EXTRAJUDICIAL. DEVEDOR FIDUCIANTE. NOTIFICAÇÃO PESSOAL. CIÊNCIA INEQUÍVOCA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça se encontra consolidada no sentido de ser necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997.
+2. No caso concreto, rever a conclusão do tribunal de origem, que atestou a ciência inequívoca da parte devedora da data do leilão extrajudicial, esbarra no óbice da Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
