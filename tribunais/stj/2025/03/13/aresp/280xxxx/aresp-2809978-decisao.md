@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por CAF Brasil Industria e Comercio SA e Construcciones y Auxiliar De Ferrocarriles SA, desafiando decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) ausência de violação aos arts. 926 e 1.022 do CPC; e (II) aplicação da Súmula 83/STJ.
+Nas razões do agravo, a parte agravante alega, em síntese, que: (I) "o v. Acórdão sequer analisou o fundamento jurídico impresso nas razões recursais da Agravante, o que caracterizou ofensa direta ao artigo 489, parágrafo 1º e artigo 1.022, ambos do Código de Processo Civil" (fl. 655); e (II) "nos termos da jurispru dência pacífica do E. STF (Tema nº 808 e 962 da Repercussão Geral), cuja aplicação ao presente caso se mostra necessária pela regra do artigo 926 do Código de Processo Civil, os juros moratórios possuem natureza manifestamente indenizatória e, assim, não configuram hipótese de incidência para retenção do Imposto de Renda sobre os valores classificados como danos emergentes" (fl. 657).
+Sem contraminuta (fl. 692).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base, para além da ausência de violação aos arts. 926 e 1.022 do CPC, a Súmula 83/STJ (consonância do acórdão recorrido com a jurisprudência do STJ), caberia à recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
