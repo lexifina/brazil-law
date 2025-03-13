@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão do Tribunal Federal da 4ª Região, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. REJULGAMENTO. OCUPAÇÃO DE FAIXA DE DOMÍNIO FERROVIÁRIO. AÇÃO DE REINTEGRAÇÃO DE POSSE. LEGITIMIDADE ATIVA EXCLUSIVA DA CONCESSIONÁRIA. AUSÊNCIA DE INTERESSE DO DNIT NO FEITO. DECLÍNIO DA COMPETÊNCIA PARA A JUSTIÇA ESTADUAL. CABIMENTO. ART. 109 DA CF/88. ROL EXAUSTIVO. 1. A partir da interpretação do artigo 109, inciso I, da Constituição da República, formou-se no âmbito desta Corte pacífica jurisprudência no sentido de que, em ações de reintegração de posse, inexistindo interesse do DNIT para intervenção no feito, a competência para julgar a demanda pertence à Justiça Estadual. 2. Embargos declaratórios providos, com a atribuição de efeitos infringentes, para que seja desprovido o agravo de instrumento e, com isso, declinada a competência do processo de origem para a Justiça Estadual.
+No especial obstaculizado, o ora agravante apontou violação dos arts. 8º, I e IV, da Lei n. 11.483/2007 e 82 da Lei n. 10.233/2001.
+Contrarrazões apresentadas às e-STJ fls. 299/312.
+A decisão a quo inadmitiu o recurso especial ante a incidência das Súmulas 83 e 7 do STJ, fundamento com o qual não concorda a parte agravante.
+Contraminuta às e-STJ fl. 355/361.
+Passo a decidir.
+De início, cumpre registrar que o agravo em recurso especial deve atacar especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ, sob pena de não conhecimento. Confira-se o teor dos dispositivos citados:
+Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+ ..
+§ 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada.
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+Aliás, a Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: a) o acórdão impugnado harmoniza-se com a jurisprudência consolidada no Superior Tribunal de Justiça, incidindo, na espécie, o óbice da Súmula 83 do STJ, e b) a questão suscitada implica revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula 7 do STJ.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente todos os fundamentos da decisão agravada.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Quanto à Súmula 83 do STJ, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Na hipótese, o agravante limitou-se a reiterar a argumentação desenvolvida em sede de recurso especial, afirmando, genericamente, que "os acórdãos apontados como paradigmas não condizem com a circunstância dos autos", sem fazer o devido cotejo analítico para comprovar a inaplicabilidade de tais precedentes ao caso concreto.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal.
+Por fim, importante ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp n. 2.107.891/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp n. 2.164.815/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp n. 2.098.383/BA, relator Ministro Manoel Erhardt (desembargador c onvocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
