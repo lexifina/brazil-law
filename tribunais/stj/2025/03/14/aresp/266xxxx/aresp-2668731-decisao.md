@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por ANGELICA DOS SANTOS PEREIRA e CLEITON APARECIDO DOS SANTOS, contra decisão que inadmitiu recurso especial manejado em face de acórdão do tribunal de justiça de origem.
+As partes agravante foram condenadas pelo delito do artigo 157, §§ 1º e 2º, inciso II, do Código Penal, respectivamente, a 9 (nove) anos, 5 (cinco) meses e 23 (vinte e três) dias de reclusão, em regime inicial fechado, e ao pagamento de 22 (vinte e dois) dias-multa; e a 5 (cinco) anos e 4 (quatro) meses de reclusão, no regime semiaberto, além de 13 (treze) dias-multa.
+Interposta a apelação pela defesa, houve o conhecimento e provimento parcial pelo tribunal de justiça de origem, para redimensionar a pena de ANGELICA a 7 (sete) anos, 3 (três) meses e 3 (três) dias e ao pagamento de 16 dias-multa (fls. 326-345).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alegou violação dos artigos 41 do Código de Processo Penal e 489, §1º, do Código de Processo Civil, bem como dos artigos 65, III, "d", 155 e 157 do Código Penal (fls. 383-395).
+O recurso não foi admitido na origem, em razão do óbice da Súmula n. 7 do STJ (fls. 417-419).
+No agravo, a parte recorrente aduz a necessidade de provimento para que seja examinado o recurso especial interposto (fls. 425-429).
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso (fls. 450-451).
+É o relatório. DECIDO.
+Agravo tempestivo e com impugnação adequada, ao que passo ao exame da admissibilidade do recurso especial.
+Conforme relatado, o recurso especial foi inadmitido pelo tribunal de origem em razão da necessidade de reexame de provas.
+De fato, em relação a quase toda a matéria do recurso, não há admissibilidade em razão da incidência da Súmula 7 do STJ, uma vez que há a necessidade de exame da matéria fático-probatória. O acórdão do Tribunal de Justiça considerou que a denúncia está adequadamente narrada em cotejo com os elementos dos autos, bem como que o juízo de primeiro grau examinou adequadamente a questão durante o processo.
+Também houve a conclusão, pela segunda instância, de que o juízo de primeiro grau analisou todas as teses relevantes para a sentença, não tendo sido reconhecida qualquer nulidade ou omissão no enfrentamento das alegações defensivas.
+Neste contexto, a Súmula n. 7 do STJ impede o reexame do acervo fático-probatório, sendo correta a decisão de origem que referiu a existência do óbice ao seguimento do recurso.
+Entretanto, em relação à última questão posta, relativa à incidência da atenuante, observa-se que o acórdão foi expresso em reconhecer que ambos os agravantes confessaram a prática da subtração, negando apenas o emprego de violência. Em tal situação, pelo próprio relato do acórdão, tem-se pela ocorrência de confissão parcial, reconhecida pelo STJ como idôneo a entrar no cômputo da segunda fase da dosimetira.
+Sobre o tema, tem-se a jurisprudência consolidada desta Corte:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. ROUBO. ART . 157, § 1.º, DO CÓDIGO PENAL. RÉU QUE ADMITE A SUBTRAÇÃO E NEGA A GRAVE AMEAÇA PARA ASSEGURAR A IMPUNIDADE. CONFISSÃO QUALIFICADA . ATENUAÇÃO OBRIGATÓRIA. SÚMULA N. 545 DO SUPERIOR TRIBUNAL DE JUSTIÇA. COMPENSAÇÃO INTEGRAL COM A AGRAVANTE DA REINCIDÊNCIA . POSSIBILIDADE. PENA REDIMENSIONADA. REGIME INICIAL SEMIABERTO. POSSIBILIDADE . AGRAVO DESPROVIDO.
+1. Conforme o entendimento sedimentado na Súmula n. 545 do Superior Tribunal de Justiça, "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art . 65, III, d, do Código Penal".
+2. No caso, ainda que o Paciente tenha declarado em juízo conjuntura que pareça a descrição de simples subtração - o que configuraria crime diverso -, é certo que tal conduta também constitui elementar do delito de roubo, por se tratar de crime complexo, consistente na prática de furto associada à violência ou grave ameaça.
+3 . A jurisprudência desta Corte Superior firmou-se no sentido de que deve ser promovida a compensação entre a agravante da reincidência e a atenuante da confissão espontânea, ainda que a última tenha sido apenas parcial.
+4. Verifica-se que não pesa contra o Paciente a multirreincidência, sendo de rigor a compensação integral entre a confissão espontânea e a agravante da reincidência, motivo pelo qual a pena do Paciente deve ser reduzida em 1/6 (um sexto) na segunda fase da dosimetria.
+5 . Por fim, considerando que a reprimenda total é igual a quatro anos, o caso reclama a aplicação da Súmula n. 269 desta Corte, segundo a qual " é  admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+6. Agravo regimental desprovido .
+(STJ - AgRg no HC: 758892 MG 2022/0230798-5, Data de Julgamento: 28/11/2022, T6 - SEXTA TURMA, Data de Publicação: DJe 02/12/2022)
+Tendo o acórdão reconhecido apenas a agravante da reincidência, bem como que teria havido uma única condenação anterior, é caso de compensação total nos termos da jurisprudência do STJ.
+Com isso, considerando-se a mudança na segunda fase (sem repercussão na pena de CLEITON, em razão da Súmula n. 231 do STJ), tem-se a nova dosimetria em relação a ANGÉLICA: pena-base em 5 (cinco) anos e 4 (quatro) meses de reclusão e 13 (treze) dias-multa. Sem alterações na segunda fase (agravante compensada com atenuante). Na terceira fase, aumento de 1/3 (um terço), totalizando 7 (sete) anos, 1 (um) mês e 10 (dez) dias, e 16 (dezesseis) dias-multa .
+Ante o exposto, conheço do agravo para dar provimento parcial ao recurso especial, redimensionando-se a pena de ANGÉLICA DOS SANTOS PEREIRA para 7 (sete) anos, 1 (um) mês e 10 (dez) dias, e 16 (dezesseis) dias-multa, mantidos os demais termos do acórdão.
+Publique-se. Intimem-se.
+EMENTA
