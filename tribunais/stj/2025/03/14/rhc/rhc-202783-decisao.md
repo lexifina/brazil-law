@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+"Habeas corpus" Desacato Paciente condenada em primeira instância Turma Recursal Criminal do Colégio Recursal dos Juizados Especiais que, em votação unânime, negou provimento recurso de apelação, mantendo na íntegra a r. sentença Pretensão à cassação do julgado Inadequação da via eleita Impossibilidade de utilização indiscriminada do habeas corpus como sucedâneo dos recursos ou ações impugnativas cabíveis em espécie A via processual adequada para a impugnação de acórdão prolatado pelas Turmas Recursais dos Juizados Especiais é o Recurso Extraordinário, conforme dispõe a Súmula 640 do STF Recurso extraordinário já interposto pela paciente e que está pendente de apreciação, com identidade nas teses veiculadas no Recurso Extraordinário e no presente "Habeas Corpus" Violação ao princípio da unirrecorribilidade Impetração indeferida liminarmente.
+Imputa-se ao recorrente a prática do crime previsto no art. 331 do Código Penal (crime de desacato).
+A defesa alega, em síntese: a) que a recorrente foi condenada por fatos não descritos na denúncia, o que caracteriza a sentença "extra petita"; b) que a decisão ignorou a manifestação do Ministério Público pela absolvição da recorrente; c) erro processual do Tribunal de origem ao indeferir o habeas corpus sem garantir o contraditório.
+Ao final, requer o provimento do recurso para cassar o acórdão da Turma Recursal Criminal e garantir à recorrente o devido processo legal, com possibilidade de absolvição.
+Parecer do MPF pelo não conhecimento do recurso (e-STJ fls. 87/89).
+É o relatório.
+Decido.
+O recorrente sustenta o cerceamento de defesa ante a decisão do Tribunal de origem que teria indeferido o habeas corpus sem garantir o prévio contraditório.
+No caso sob apreciação, a Corte local indeferiu liminarmente o habeas corpus originário por inadequação da via, destacando que a defesa do paciente interpôs recurso extraordinário, pendente de análise.
+Sobre o ponto, a Corte de origem assim entendeu (e-STJ fl. 48/49):
+Por sentença proferida em 07 de maio de 2024, a paciente foi condenada pela prática do crime previsto no artigo 331, do Código Penal, à pena privativa de liberdade de 08 meses de detenção, em regime semiaberto (fls. 17/20).
+A paciente apelou e no julgamento realizado em 10 de julho de 2024, a Turma Recursal Criminal do Colégio Recursal dos Juizados Especiais, em votação unânime, negou provimento recurso de apelação, mantendo na íntegra a r. sentença (fls. 36/44).
+Pela via deste mandamus a paciente pretende a "cassação" da decisão proferida por órgão colegiado deste E. Tribunal de Justiça.
+Todavia, o remédio constitucional do "habeas corpus" tem a finalidade de sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção, mas não é possível a sua utilização indiscriminada como sucedâneo dos recursos ou ações impugnativas cabíveis em espécie.
+A via processual adequada para a impugnação de acórdão prolatado pelas Turmas Recursais dos Juizados Especiais é o Recurso Extraordinário, conforme dispõe a Súmula 640 do STF ("É cabível recurso extraordinário contra decisão proferida por juiz de primeiro grau nas causas de alçada, ou por turma recursal de juizado especial cível e criminal"), o qual, aliás, já foi interposto pela defesa da paciente, conforme consulta aos autos de origem.
+Ressalta-se que o recurso extraordinário está pendente de apreciação e há identidade nas teses veiculadas no Recurso Extraordinário e no presente "Habeas Corpus".
+Nas razões do recurso ordinário, a defesa limitou-se a alegar, de modo genérico, que "Não se identificou com precisão o procedimento adotado pela 8ª Câmara de Direito Criminal ao, de forma colegiada, indeferir liminarmente o Habeas Corpus, conforme dispõe o art. 248, do Regimento Interno do TJ/SP, sem que ouvida a D. representante do Ministério Público, bem como sem que viabilizada à Defesa a possibilidade de oposição ao julgamento virtual para fins de sustentação oral, nos termos do artigo 1º, da Resolução 549/2011, com redação estabelecida pela Resolução 772/2017, ambas do Órgão Especial deste Egrégio Tribunal de Justiça".
+Além disso , consta dos autos petição apresentada pela defesa do recorrente manifestando oposição ao julgamento virtual em 24 de julho de 2024, ou seja, um dia após o julgamento da decisão ora impugnada (e-STJ fl. 51).
+Ressalte-se, ainda, que, pelo princípio da dialeticidade, o recorrente tem o ônus de impugnar especificamente os fundamentos da decisão recorrida, sob pena de não conhecimento do recurso.
+Destaco:
+RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. RAZÕES RECURSAIS EM PARTE DISSOCIADAS DA MOTIVAÇÃO DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. NÃO CONHECIMENTO DO RECURSO NA HIPÓTESE DE AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO IMPUGNADA. DOSIMETRIA. EMPREGO DE ARMA DE GROSSO CALIBRE (ESPINGARDA). ELEMENTO ACIDENTAL QUE JUSTIFICA A FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. AFASTAMENTO, PELO TRIBUNAL A QUO, DA DESVALORAÇÃO DE TRÊS CIRCUNSTÂNCIAS JUDICIAIS. REDUÇÃO PROPORCIONAL DA PENA-BASE QUE DEVE SER OPERADA. LEADING CASE: EDV NOS ERESP 1.826.799/RS. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. Se as razões do recurso ordinário em habeas corpus não infirmam as conclusões do Tribunal de origem - ou seja, estão total ou parcialmente dissociadas dos fundamentos do decisum de segundo grau - há violação do princípio da dialeticidade.
+ ..
+4. Recurso parcialmente conhecido e, nessa extensão, provido em parte, para reduzir a pena de 18 (dezoito) para 15 (quinze) anos, mantidos os demais termos da sentença.
+(RHC n. 156.531/PB, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/9/2022, DJe de 29/9/2022, grifei.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA. POSSIBILIDADE. NULIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO DESPROVIDO.
+1. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019).
+2. A ausência de impugnação específica de todos os fundamentos do acórdão recorrido inviabiliza o conhecimento do recurso ordinário em habeas corpus. Princípio da dialeticidade que se impõe na interposição de recursos.
+3. Agravo desprovido.
+(AgRg no RHC n. 156.039/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022, grifei.)
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+EMENTA
