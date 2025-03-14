@@ -1,0 +1,23 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do HC n. 768.275/PR (fl. 2.353).
+Trata-se de agravo interposto por Maria Eduarda Delgado Leal contra a decisão do Tribunal de Justiça do Paraná que inadmitiu recurso especial (fundado no art. 105, III, a e c, da Constituição Federal) dirigido contra o acórdão prolatado na Apelação Criminal n. 0005014-97.2022.8.16.0025 (fls. 1.924/1.982).
+Nas razões do recurso especial, a defesa argumenta que houve bis in idem na dosimetria da pena, pois a natureza e quantidade da droga foram valoradas em duas etapas, e que deveria ser reconhecido o tráfico privilegiado, considerando que a agravante é primária e sem antecedentes. Assim, requer o provimento do recurso para que seja aplicada em favor da condenada, a diminuição de pena prevista no parágrafo 4º do artigo 33 da Lei 11.343/2006 (fl. 2.191).
+A Corte de origem inadmitiu o recurso com suporte nas Súmulas 7 e 83/STJ, quanto ao pleito de aplicação da minorante; pela Súmula 284/STF, no que tange à exasperação da pena-base; e por falta de demonstração de dissídio jurisprudencial (fls. 2.213/2.216).
+Contra a decisão a defesa interpôs o presente agravo (fls. 2.226/2.235).
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo (fls. 2.356/2.360).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre com fundamento nos seguintes óbices: Súmula 284/STF; Súmulas 7 e 83/STJ; e falta de comprovação do dissídio jurisprudencial.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, com a especificidade necessária, nenhum dos fundamentos acima apontados, especialmente o relacionado à necessidade de comprovar o dissídio jurisprudencial, nos termos exigidos por esta Corte.
+Não há indicação do quadro fático reconhecido pelo Tribunal de origem, quanto aos demais tópicos recursais, nem a roupagem jurídica que entende ser cabível à hipótese, limitando-se a discorrer, genericamente, sobre a insuficiência probatória, com precedentes jurisprudenciais que respaldariam, em seu entendimento, as teses contidas no recurso especial.
+A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que, para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa (AgRg no AREsp n. 2.024.908/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023).
+No mesmo sentido: AgRg no AREsp n. 2.295.325/SP, Ministra Laurita Vaz, Sexta Turma, DJe 9/5/2023; AgRg no AREsp n. 2.364.704/PR, Ministra Laurita Vaz, Sexta Turma, DJe 30/8/2023; e AgRg no AREsp n. 2.198.230/DF, Ministro Messod Azulay Neto, Quinta Turma, DJe 25/8/2023.
+De resto, a presente insurreição praticamente resume-se a transcrever o teor das razões expostas no recurso especial inadmitido. Assim, tal como posta, a argumentação defensiva não supre o requisito indispensável da impugnação específica, de modo que o presente agravo se mostra inviável ante a incidência da Súmula 182/STJ.
+Nesse sentido, confira-se: AgRg no AREsp 2.147.805/SC, de minha relatoria, Sexta Turma, DJe 14/10/2022; e AgRg no Ag n. 714.709/MG, Ministra Nancy Andrighi, Terceira Turma, DJe 19/12/2005.
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ), pois não impugnou, de forma adequada, a fundamentação lançada na decisão agravada.
+Em face do exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE DOS FUNDAMENTOS DA DECISÃO. INADMISSIBILIDADE. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL (ART. 932, III, DO CPC, E ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ). INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
