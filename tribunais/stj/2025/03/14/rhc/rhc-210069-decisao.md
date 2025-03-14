@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar interposto por KLEBER MARQUES ROCHA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada, pela prática, em tese, dos crimes previstos nos arts. 171, caput, c/c o71, caput, e 288, caput, todos do Código Penal e no art. 1º, caput, § 1º, II, da Lei n. 9.613/1998.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva, denegando a ordem em acórdão de fls. 649-660.
+No presente recurso alega a defesa, em síntese, a falta de fundamentação à manutenção da prisão, defendendo que o recorrente ostenta condições pessoais favoráveis.
+Requer, ao final, a revogação da prisão preventiva.
+Liminar indeferida às fls. 1419-1420.
+Informações prestadas às fls. 1426-1443 e 1445-1448.
+O Ministério Público Federal em parecer, às fls. 1451-1463, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+No presente caso, a análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista a suposta integração do recorrente em organização criminosa voltada para a prática de crimes de estelionato, movimentando vultosa quantidade de dinheiro, a saber, um total de R$ 7.135.014,81 (sete milhões, cento e trinta e cinco mil, quatorze reais e oitenta e um centavos), importe este que supostamente teria sido distribuído entre os integrantes do grupo ao longo das investigações, exercendo o acusado, em tese, um papel de liderança na associação criminosa, sendo responsável pela captação de contas bancárias para movimentação de valores fraudulentos, colaborando para a execução dos golpes - fl. 655.
+Destacou a corte de origem que o modus operandi do crime era conhecido como "golpe do novo número, se baseando no simples contato com as vítimas por intermédio de redes sociais, induzindo-as, mediante fraude, a repassar-lhes valores por meio de contas bancárias de terceiras pessoas, a fim de dificultar a origem e destinação de mencionados valores" - fl. 659.
+Ora, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso.
+Sobre o tema, trago o seguinte precedente desta Corte Superior de Justiça:
+"No caso, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva, pois, conforme consignado pelas instâncias ordinárias, o ora agravante, acusado pela suposta prática de estelionato contra idoso, estaria a ser investigado pelo cometimento de outros delitos semelhantes em outros municípios e com o mesmo modus operandi aplicando o chamado "golpe do falso mecânico".
+Diante desse contexto, houve acusação de sua participação em organização criminosa responsável pela prática de diversos estelionatos em pelo menos sete municípios diferentes.
+É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do agravante indica que a ordem pública não estaria acautelada com sua soltura.
+O fato de o agravante ter condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte" (AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.)
+No mesmo sentido: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+De mais a mais, a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos que autorizem a sua imposição.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
