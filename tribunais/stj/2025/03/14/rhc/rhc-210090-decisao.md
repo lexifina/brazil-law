@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LEANDRO TOMAZONI, para impugnar acórdão lavrado pelo Tribunal de Justiça do Estado do Paraná, que denegou a ordem vindicada nos autos do habeas corpus nº 0094627-38.2024.8.16.0000.
+Consta dos autos que tramita, em desfavor do recorrente, ação penal em que lhe é imputada a prática do crime previsto no artigo 163, parágrafo único, inciso IV, do Código Penal.
+No presente recurso, requer a defesa seja trancada a ação penal, por falta de justa causa.
+Parecer do Ministério Público Federal pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório. DECIDO.
+O recurso deve ser conhecido, porquanto presentes os requisitos de admissibilidade recursal.
+No mérito, contudo, tenho que inexiste fundamento jurídico hábil a amparar a pretensão recursal.
+Nesta toada, a pretensão defensiva resvala na via estreita do habeas corpus, que impossibilita o revolvimento de matéria fático-probatória nestes autos, consoante jurisprudência sedimentada desta Corte, devendo ser observadas as escorreitas conclusões do Tribunal local, soberano no enfrentamento de fatos e de provas.
+A propósito, mutatis mutandis:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO NO TOCANTE AO DELITO DE ASSOCIAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO VEDADO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES. 1/6. PROPORCIONALIDADE. PRIVILÉGIO. INAPLICABILIDADE. CONDENAÇÃO CONCOMITANTE PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA.
+I - Não se conhece de habeas corpus substitutivo de revisão criminal.
+II - Na hipótese de ilegalidade flagrante, concede-se a ordem de ofício. Precedentes.
+III - No presente caso, as instâncias ordinárias fundamentaram devidamente a condenação pelo crime de associação para o tráfico, com fulcro em robusto conjunto probatório, restando configurada a estabilidade e a permanência da associação, bem como a função da agravante e dos demais integrantes, com hierarquia e divisão de tarefas.
+IV - O rito do habeas corpus não admite o revolvimento de matéria fático probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local. (..) Agravo regimental desprovido (AgRg no HC 895457 / SC, QUINTA TURMA, de minha relatoria, DJe 16/05/2024).
+Nesta ordem de ideias , consoante entendimento desta Corte Superior, aplicável ao caso vertente, "a denúncia preenche os requisitos legais previstos no art. 41 do CPP, porquanto expôs o fato criminoso e suas circunstâncias, qualificou o acusado, bem como classificou o delito, trazendo, ainda, o rol de testemunhas, o que possibilita o exercício da ampla defesa, com todos os recursos a ela inerentes, sob o crivo do contraditório" (AgRg no RHC 189730 / SE, QUINTA TURMA, de minha relatoria, DJe 04/11/2024).
+Sendo assim, "a denúncia não é inepta quando atende aos seus aspectos formais, nos termos do artigo 41, c.c. o artigo 395, I, do Código de Processo Penal - CPP, bem como se presentes os pressupostos de existência e validade da relação processual quanto às condições para o exercício da ação penal, segundo o inciso II do mesmo artigo 395 do CPP. Ademais, se estiver acompanhada de lastro probatório mínimo a amparar a acusação, ou seja, da justa causa, nos termos do inciso III do mesmo artigo 395 do CPP, a denúncia deve ser recebida" (AgRg no RHC 181318 / PR, QUINTA TURMA, de minha relatoria, DJe 26/09/2024).
+Desta feita, "o trancamento de ações penais e inquéritos policiais pela via estreita do habeas corpus é medida excepcional, somente admitida quando houver demonstração inequívoca, de atipicidade da conduta, absoluta carência de indícios de autoria, inexistência de prova da materialidade, quando a denúncia for manifestamente inepta ou, ainda, quando se constatar a superveniência de causa extintiva da punibilidade" (AgRg no RHC 197125 / SC, QUINTA TURMA, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 21/06/2024), o que não se vislumbra no caso vertente.
+Na espécie, o Tribunal de origem concluiu que não foi demonstrada, de forma cristalina, a ausência de justa causa para o exercício da ação penal, não cabendo o exame aprofundado de provas na via estreita escolhida.
+Ante o exposto, com fundamento no art. 34, XVIII, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
