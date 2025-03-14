@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por GENARO DOS SANTOS COSTA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE assim ementado (fl. 174):
+APELAÇÃO CÍVEL. AÇÃO ACIDENTÁRIA C/C TUTELA ANTECIPADA. PLEITO DE CONCESSÃO DE APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA. NÃO CABIMENTO. PROVA PERICIAL QUE ATESTA A INCAPACIDADE PARCIAL E PERMANENTE PARA O EXERCÍCIO DE ATIVIDADE ANTERIORMENTE EXERCIDA SENDO POSSÍVEL O TRABALHO COM RESTRIÇÃO DE SOBRECARGA NA COLUNA LOMBAR. CONCESSÃO DE BENEFÍCIO DE AUXÍLIO-ACIDENTE. MANUTENÇÃO DO COMANDO SENTENCIAL. RECURSO CONHECIDO E DESPROVIDO. DECISÃO UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (fl. 268).
+Em suas razões recursais, a parte recorrente aponta, além do dissídio jurisprudencial, ofensa aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil (CPC), bem como ao art. 62, § 1º, da Lei 8.213/1991, ao fundamento de que faz jus à concessão da aposentadoria por invalidez acidentária, argumentando que (fl. 191)
+ ..  incapacidade do apelante perdura desde 25/06/2006 e corroborando com a conclusão do Senhor perito de que se encontra incapacitado definitivamente para a atividade habitual e parcialmente para toda e qualquer atividade e que não está eleito ao programa de reabilitação profissional do INSS e ainda somando-se a idade de 55 anos, o baixo nível de escolaridade fundamental completo e a atividade exercida de montador de palcos, inclusive com a especificidade do Senhor Perito de que apresenta com limitação funcional para qualquer atividade braçal ou que tenha que ficar muito tempo agachado ou em pé, não justifica a reabilitação profissional diante das peculiaridades do caso concreto e do fator social relevante.
+A parte adversa apresentou contrarrazões (fls. 211/214).
+O recurso foi admitido na origem (fls. 217 /221).
+É o relatório.
+A questão debatida nestes autos foi analisada pelo Superior Tribunal de Justiça quando do julgamento dos Recursos Especiais 2.082.395/SP e 2.098.629/SP, de minha relatoria, sob o rito de recursos repetitivos, oportunidade em que foi firmada a seguinte tese quanto ao Tema 1.246/STJ:
+É inadmissível recurso especial interposto para rediscutir as conclusões do acórdão recorrido quanto ao preenchimento, em caso concreto em que se controverte quanto a benefício por incapacidade (aposentadoria por invalidez, auxílio-doença ou auxílio-acidente), do requisito legal da incapacidade do segurado para o exercício de atividade laborativa, seja pela vertente de sua existência, de sua extensão (total ou parcial) e/ou de sua duração (temporária ou permanente).
+De acordo com o disposto no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, em situações em que o recurso versa sobre a mesma controvérsia objeto de recursos representativos de controvérsia já julgados, os autos devem retornar ao Tribunal de origem para que seja providenciado o juízo de conformação:
+Art. 34. São atribuições do relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Ressalto que a Primeira Seção desta Corte Superior tem posicionamento consolidado de não ser "necessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em recurso repetitivo ou com repercussão geral" (AgInt no PUIL 1.494/RS, relator Ministro Herman Benjamin, Primeira Seção, DJe de 9/9/2020).
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do Código de Processo Civil.
+Publique-se. Intimem-se.
+ EMENTA
