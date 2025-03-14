@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por UNIMED BELÉM - COOPERATIVA DE TRABALHO MÉDICO contra a decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, impugna o acórdão proferido pelo Tribunal de Justiça do Estado do Pará assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE ANULAÇÃO DE CLÁUSULA CONTRATUAL C/C PEDIDO DE LIMINAR C/C RESTITUIÇÃO DE INDÉBITO - SENTENÇA DE PROCEDÊNCIA - PRELIMINAR DE NULIDADE DE SENTENÇA POR CERCEAMENTO DE DEFESA - DESNECESSIDADE DE PRODUÇÃO PROBATÓRIA, ALÉM DA DOCUMENTAL JÁ TRAZIDA AOS AUTOS PELAS PARTES LITIGANTES - PRELIMINAR REJEITADA - MÉRITO - MUDANÇA DE FAIXA ETÁRIA - REAJUSTE ABUSIVO DO PLANO DE SAÚDE NO PERCENTUAL DE 92,92% - AUSÊNCIA DE RAZOABILIDADE E DESCONFORME À RESOLUÇÃO N. 63/03 DA AGÊNCIA NACIONAL DE SAÚDE. JURISPRUDÊNCIA DESTA CORTE DE JUSTIÇA - REVISÃO - POSSIBILIDADE - LIMITAÇÃO DO REAJUSTE NO PERCENTUAL DE 40,11% - PATAMAR RAZOÁVEL - OPERADORA DE PLANO DE SAÚDE VENCIDA - MÚNUS SUCUMBENCIAIS - PRINCÍPIO DA SUCUMBÊNCIA - SENTENÇA ESCORREITA - RECURSO CONHECIDO E DESPROVIDO.
+Preliminar de Nulidade de Sentença por Cerceamento de Defesa 1 - Hipótese em que a matéria em debate prescinde de produção probatória, além da documental já trazida aos autos pelas partes litigantes, mormente tratar-se de exame da abusividade ou não do reajuste por faixa etária, fato que se reforça pela própria ausência de indicação pela apelante de qual seria a prova alegadamente indispensável ao deslinde da causa. Preliminar Rejeitada.
+Mérito 2 - A Lei n. 9.565/1998 (Lei dos Planos de Saúde) e a Resolução n. 63/03 da ANS, permitem a mudança do valor da mensalidade de acordo com a idade do beneficiário, desde que não ocorra de forma abusiva, posição corroborada pela jurisprudência do STJ (AgRg no AREsp 599.346/RS).
+3 - No caso em exame, a modificação do critério de cálculo das contribuições mensais, com o reajuste do plano de saúde da autora/apelada, no percentual de 92,92% (noventa e dois, virgula noventa e dois por cento), após ter completado 59 anos, revela-se excessivo e desarrazoado, caracterizado abusividade apta a justificar sua revisão.
+4 - A jurisprudência deste Tribunal de Justiça entende que o reajuste em razão da mudança de faixa etária do consumidor deve ser balizado pelo critério de razoabilidade e atendendo às condições fixadas pela ANS, na Resolução n. 63/03.
+5 - Assim, considerando que o reajuste de 92,92% (noventa e dois, virgula noventa e dois por cento), foge aos parâmetros legais e aos critérios de razoabilidade, abusiva é a cláusula contratual que o estabeleceu, revelando-se, adequado e proporcional o estabelecimento do percentual de reajuste por mudança de faixa etária, em 40,11% (quarenta, virgula onze por cento), conforme definido pelo juízo primevo.
+6 - Por fim, insta esclarecer que, em atenção ao princípio da sucumbência, recai a parte vencida na demanda suportar os ônus sucumbenciais quando esta não for beneficiaria da gratuidade de justiça, razão pela qual é incabível a alegação da operadora de plano de saúde, ora apelante, de que a sua condenação ao pagamento das custas processuais e honorários advocatícios deve ser afastada.
+7 - Recurso de Apelação Conhecido e Desprovido, na esteira do parecer da Douta Procuradoria de Justiça, mantendo a decisão vergastada em todas as suas disposições." (e-STJ fls. 324/325)
+A recorrente aponta ofensa aos arts. 15 e 16 da Lei n. 9.656/98.
+Defende a validade da cláusula do contrato de plano de saúde que prevê o reajuste por faixa etária, tendo em vista que observa as regras expedidas pela Agência Nacional de Saúde Suplementar - ANS e não acarreta prestação manifestamente excessiva ao beneficiário.
+Sem contrarrazões (e-STJ fl. 383).
+O apelo extremo foi obstado na origem, dando ensejo à interposição deste agravo.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Na origem, trata-se de ação declaratória de nulidade da cláusula do plano de saúde que permitiu o aumento das prestações em 92,94% (noventa e dois vírgula noventa e quatro por cento), quando o beneficiário completou 59 anos de idade.
+O Tribunal de origem manteve a procedência do pedido. Reconheceu ser possível o reajuste da prestação do plano de saúde por faixa etária, quando expressamente previsto no ajuste, mas entendeu que, no caso, o percentual aplicado é manifestamente abusivo. Cita-se trecho pertinente do aresto:
+"Com efeito, no caso em exame, entendo que a modificação do critério de cálculo das contribuições mensais, com o reajuste do plano de saúde da autora/apelada, no percentual de 92,92% (noventa e dois, virgula noventa e dois por cento), após ter completado 59 anos, revela- se excessivo e desarrazoado, caracterizado abusividade apta a justificar sua revisão.
+Tal fato, autoriza o provimento buscado pela autora sua exordial, a fim de inibir a incidência do reajuste abusivo, embora previsto contratualmente, posto que o perigo de dano é inverso, ou seja, em prejuízo ao consumidor.
+Nesse sentido, a jurisprudência deste Tribunal de Justiça entende acerca da possibilidade de reajuste em razão da mudança de faixa etária do consumidor, todavia, que este deve ser balizado pelo critério de razoabilidade e atendendo às condições fixadas pela ANS, na Resolução n. 63/03 (..)" (e-STJ fl. 333)
+O acórdão deve ser mantido. Deve-se consignar que, nos termos do Tema n. 952/STJ, admite-se a declaração de nulidade da cláusula de reajuste por faixa etária, nos planos de saúde, quando "sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso".
+Nesse aspecto, portanto, o acórdão está em conformidade com o entendimento sedimentado no STJ.
+Além disso, eventual reforma do acórdão recorrido demandaria desta Corte apurar se, diante das cláusulas do negócio jurídico e das circunstâncias de fato da causa, o reajuste de 92,94% (noventa e dois vírgula noventa e quatro por cento) é ou não manifestamente excessivo.
+Incidem, portanto, os óbices das Súmulas n. 5 e 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. REAJUSTE POR FAIXA ETÁRIA. TRIBUNAL A QUO ENTENDEU PELA AUSÊNCIA DE COMPROVAÇÃO DE QUE A APLICAÇÃO DOS ÍNDICES DE AUMENTO SERIAM CAPAZES DE GERAR MENSALIDADES NOS VALORES COBRADOS PELA AGRAVANTE. REVISÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 7 E 5 DO STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que a ora agravante não comprovou as alterações contratuais nem os índices de reajuste que poderiam justificar os valores cobrados na mensalidade da ora agravada. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso, demandaria o reexame de matéria fático-probatória e análise de cláusulas contratuais, inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ.
+2. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 1.431.066/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2019, DJe de 4/9/2019.)
+Ante o exposto, conheço do agravo para não conhecer o recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pelo/a ora recorrente, devem ser majorados para R$ 3.500,00 (três mil e quinhentos reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. CLÁUSULA DE CONTRATO DE PLANO DE SAÚDE. REAJUSTE POR FAIXA ETÁRIA. PROCEDÊNCIA DO PEDIDO. REEXAME. SÚMULAS N. 5 E 7/STJ.
+1. No caso, rever a conclusão do Tribunal de origem, acerca do caráter abusivo da cláusula de reajuste por faixa etária, no contrato de plano de saúde, encontra óbice nas Súmulas n. 5 e 7/STJ.
+2. Agravo em recurso especial conhecido para não conhecer o recurso especial.
