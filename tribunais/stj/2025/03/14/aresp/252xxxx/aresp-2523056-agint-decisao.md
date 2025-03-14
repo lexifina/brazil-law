@@ -1,0 +1,73 @@
+DECISÃO
+Cuida-se de agravo interno interposto por LEANDRO ROSLANIEC e ROSELAINE ROSLANIEC contra decisão da Presidência desta Corte Superior que não conheceu do recurso especial (fls. 786-790).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim resumido (fl. 619):
+USUCAPIÃO. POSSE DECORRENTE DE COMPROMISSO DE COMPRA E VENDA. MARCO INICIAL DA PRESCRIÇÃO AQUISITIVA. BEM DADO EM ALIENAÇÃO FIDUCIÁRIA À CEF PELO PROPRIETÁRIO REGISTRAL. NÃO COMPROVAÇÃO DE POSSE MANSA E PACÍFICA. 1. Durante a execução do contrato de compromisso de compra e venda, não pode ser reconhecido o animus domini, caracterizador necessário da posse para fins de usucapião. 2. A alienação fiduciária ocorreu antes da verificação do período necessário à perfectibilização do usucapião, interrompendo a posse ad usucapionem. 3. Manutenção da sentença.
+Em suas razões recursais, as partes agravantes defendem que (fls. 797-800):
+Como acima exposto, a decisão monocrática não conheceu do Recurso Especial então manejado em razão de suposto óbice criado pela súmula 284 do STF. Lemos:
+ ..
+Ocorre que, com a máxima vênia do entendimento já consignado, temos que os argumentos jurídicos delineados no Recurso Especial atacaram, de forma específica, o entendimento lançado no arresto impugnado, sendo que as razões do R Esp permitem, de forma clara, a exata compreensão da controvérsia então trazida a baila, ou seja, a presença dos requisitos dispostos no art. 1.240 ao CC para a configuração do usucapião especial urbano, com ênfase no "animus domini".
+ ..
+Pela acima exposto, e com a máxima vênia, é possível perceber que as razões do Recurso Especial atacaram, de forma específica, os fundamentos utilizados no arresto então impugnado, sendo impossível falarmos que, no caso telado, a fundamentação do Recurso Especial é deficiente ao ponto de "não permitir a exata compreensão da controvérsia".
+Assim sendo, a Súmula 284 do STF não pode ser aplicada ao caso telado, pois o Recurso Especial manejado permite a exata compreensão da controvérsia, sendo que o mesmo atacou, de forma clara, as razões dispostas no arresto então impugnado, as quais dizem respeito aos requisitos dispostos no art. 1.240 ao CC para a configuração do usucapião especial urbano, com ênfase no "animus domini".
+ ..
+Dito Isso Excelências, e com o devido respeito ao entendimento já exarado, necessária afastar o óbice da súmula 284 do STF ao caso telado, visto que as razões recursais permitem a exata compreensão da controvérsia, sendo que as mesmas atacaram, de forma clara, as razões dispostas no arresto então impugnado, tudo segundo o acima exposto.
+É, no essencial, o relatório.
+Com razão a parte agravante quanto à não incidência da súmula 284/STF, motivo pelo qual, exercendo o juízo de reconsideração facultado pelo art. 259 do Regimento Interno do STJ, torno sem efeito a decisão de fls. 786-790.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A irresignação recursal não merece prosperar.
+No recurso especial, as partes recorrentes alegam violação do art. 1240 do Código Civil sustentando que (fls. 710-713):
+No caso telado é fato incontroverso que os ora recorrentes não são proprietários de outros imóveis, que a área é menor de 250,00 m  e que utilizam o dito imóvel para moradia desde a assinatura do contrato de compra e venda firmado em 05/05/2011. Tal assertiva está expressa na sentença proferida pelo juízo singular, a qual foi "transcrita" no aresto impugnado. Lê-se:
+ ..
+Assim, a questão jurídica (e não fática) que inda resta controversa é a presença do "animus domini" e a implementação, sem interrupção, do prazo da prescrição aquisitiva a luz da interpretação do art. 1.240 do CC. Lemos no acórdão então proferido:
+ ..
+No caso telado o aresto impugnado, ao consignar que o marco inicial da prescrição aquisitiva se dá no momento da quitação do contrato de compra e venda (06/2015) e não na assinatura do mesmo (05/2011) bem como que o registro/averbação do gravame na matrícula do imóvel (02/2014) interrompe o prazo da prescrição aquisitiva, acabou provocando grave e evidente lesão ao disposto no art. 1.240 do CC. Lemos:
+ ..
+Em primeiro lugar é necessário destacar que neste feito estamos tratando de um contrato de compra e venda e não de uma promessa de compra e venda que dependeria de um ajuste futuro. Ao assinarem o referido documento, nos parece lógico que as partes tinham por concretizada a compra e venda da fração ideal do referido imóvel, sendo evidente que desde a assinatura do referido instrumento (05/2011) existe a posse com "animus domini" do ora recorrentes. Tanto assim é verdade que o contrato firmado restou gravado com cláusula de irrevogabilidade e irretratabilidade.
+Ademais é sabido que o instituto do usucapião se alicerça em situação fática, de modo que o mero registro de operação bancária em 02/2014, sem ciência/anuência dos legítimos possuidores do imóvel, não pode configurar marco interruptivo da prescrição aquisitiva, haja vista que se trata de mero ato formal/registral, o qual não representa, nem em tese, oposição à posse com "animus domini" exercida pelos ora recorrentes desde 05/05/2011.
+Ora Excelências, se os recorrentes jamais tiveram ciência prévia dos gravames que estavam sendo averbados na matrícula do imóvel ou mesmo da consolidação da propriedade em favor da CEF, nos parece lógico que não podemos aceitar o argumento de qual fato (mero registro) tenha o condão de retirar o "animus domini" dos mesmos ou configurar ato de oposição. Salvo melhor juízo, o ato de oposição precisa ser concreto e realizado de forma prática, o que não ocorreu no caso telado. Tanto assim é verdade que os recorrentes ainda residem no referido imóvel sem qualquer oposição da CEF.
+ ..
+Diante das peculiaridades do caso telado, resta incontestável que desde a assinatura do contrato de compra e venda em 05/2011 os recorrentes sempre possuíram a referida área como sua, utilizando a mesma para sua moradia sem qualquer interrupção ou oposição até a presente data (2023), o que preenche claramente os requisitos objetivos dispostos no art. 1.240 do CC.
+Assim sendo, considerando que o registro do gravame na matrícula do imóvel não interrompe o prazo prescricional ou mesmo configura ato de oposição, temos que o marco inicial da prescrição aquisitiva se dá na assinatura do contrato em 05/2011, portanto implementado, em muito, o lapso temporal de 05 anos exigido pelo art. 1.240 do CC, razão pela qual o presente Recurso Especial deve ser julgado procedente.
+No que concerne à alegada violação, assim consignou a Corte local (fls. 622-625):
+A modalidade de usucapião discutida nos autos está prevista no artigo 1.240 do Código Civil, que assim dispõe:
+ ..
+Assim o magistrado de origem deslindou a controvérsia:
+ ..
+Os autores pretendem o reconhecimento da aquisição da propriedade da fração ideal de 222,80m  do imóvel de matrícula n. 8.379, do Registro de Imóveis de Bento Gonçalves, nos termos previstos no art. 1.240 do Código Civil:
+ ..
+No caso concreto, ainda, os autores afirmam a ocupação do imóvel desde 05/05/2011, quando Nelio Roslaniec firmou contrato de compra e venda do bem, sendo vendedora Inez Beatriz Warpechowski Pawlowski (evento 1, contr12).
+A prova carreada não deixa dúvida de que os autores utilizam o imóvel como moradia habitual, desde a elaboração do contrato com a proprietária, em 05 de maio de 2011 (evento 1, contr12).
+Contudo, a ocupação do imóvel não pode ser considerada como utilização do bem com animus domini. Conquanto tivessem firmado contrato de promessa de compra e venda, tal instrumento se constitui em expectativa de direito enquanto ainda não cumpridas as suas cláusulas. Nesse sentido, no STJ:
+ ..
+Não há dúvida de que os autores utilizavam o bem com a intenção de perfectibilizar a compra, mas o contrato não estava integralmente cumprido quando da entrega do imóvel à CEF, por meio da alienação fiduciária em garantia. Isso porque os termos do contrato previam o pagamento parcelado (evento 1, contr12) e, não obstante o contrato tenha sido omisso quanto à quantidade de parcelas, os recibos juntados pelos autores indicam pagamentos até junho de 2015 (out17), e a planilha juntada ao evento 1, out19, indica a quitação em julho de 2015.
+Ou seja, o início da posse com animus domini só poderia ser considerado a partir do momento do integral cumprimento do contrato de promessa de compra e venda, ou seja, após julho de 2015. Nesse momento é que se pode cogitar da conversão da posse imprópria em posse própria, pois é o momento a partir do qual o possuidor passa a se comportar como se dono fosse., que é o fenômeno da interversio possessionis.
+Contudo, o imóvel foi objeto de alienação fiduciária, instituída em face de dívida tomada por Imagem Informática Ltda-ME, sendo avalista a então proprietária do bem, Inez Beatriz Warpechowski Pawloski. A CEF consolidou a propriedade em seu favor, conforme averbação efetivada em 31/10/2019 na matrícula do bem (evento 1, matrimóvel9).
+No ponto, importa salientar que o bem não foi objeto de financiamento pelo SFH, assim sequer se cogitando sua qualificação como bem público impassível de usucapião.
+Por outro lado, a alienação fiduciária foi registrada em 25/02/2014, antes, assim, do momento em que os autores poderiam exercer a posse com o animus domini.
+Calha referir que, em que pese a dúvida suscitada pela CEF acerca do cumprimento do contrato tenha fundamento, uma vez que parte dos recibos juntados pelos autores refere pagamento de empréstimo da casa, não se mostra necessário esclarecer esse ponto, visto que, mesmo que se comprove a devida quitação, ela apenas ocorreu após a alienação fiduciária.
+Como se observa, então, não havia transcorrido o prazo de 05 anos entre o contrato particular e a alienação fiduciária.
+A Corte Regional já decidiu que a garantia constituída após o início da posse não prevalece caso consumado o lapso temporal da prescrição aquisitiva:
+ ..
+Contrariu sensu, se a alienação fiduciária ocorrer antes da verificação do período necessário à perfectibilização do usucapião, tem-se como interrompida a posse ad usucapionem. Com ainda mais razão, sequer se pode considerar o prazo da prescrição aquisitiva quando a alienação se deu antes mesmo do início da posse com o animus domini.
+Ou seja, quando a CEF adquiriu a propriedade fiduciária do bem, não havia propriedade constituída por usucapião para os autores, nem mesmo o cumprimento integral do contrato de promessa de compra e venda - do qual sequer havia anotação na matrícula do imóvel -, não podendo ser oposta a posse dos autores em face da adquirente de boa-fé.
+Ainda que os autores pudessem confirmar que o contrato de promessa de compra e venda tenha sido integralmente cumprido em julho de 2015, a partir de quando sua posse se caracterizaria como ad usucapionem, não teria transcorrido o prazo de 5 anos entre essa data e a consolidação da propriedade (10/2019) e o início dos procedimentos de venda.
+Assim, não se verificam, os requisitos necessários à aquisição da propriedade pelos autores, impondo-se a improcedência da ação.
+Eventuais direitos decorrentes da promessa de compra e venda frustrada não podem ser opostos à CEF, devendo ser tratados entre os particulares contratantes.
+ ..
+No caso, restou comprovado que quando a CEF adquiriu a propriedade fiduciária do bem descrito na inicial, em 25/02/2014, ainda não havia propriedade constituída por usucapião para os autores, pois ainda estava pendente a quitação do contrato de compra e venda firmado entre o genitor da autora e a Sra. Ines Beatriz Warpechowski Pawlowski, que foi celebrado em 05/05/2011, e cuja quitação ocorreu em 06/2015.
+Logo, a sentença deve ser mantida, pois não comprovada a posse mansa e pacífica pela autora. Destaco que a juntada de declaração de quitação de taxa condominial ou contas com endereço do imóvel não servem como prova de animus domini.
+ ..
+Ante o exposto, voto por negar provimento à apelação. (grifei)
+Diante do quadro delineado, verifica-se que a reforma do decidido naturalmente demanda a revisão das premissas firmadas pela Corte de origem diante do contexto fático-probatório constante dos autos, hipótese vedada em virtude do óbice da Súmula n. 7/STJ.
+Nesse sentido, mutatis mutandis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS PARA CONFIGURAÇÃO DA USUCAPIÃO ESPECIAL URBANA. INCIDÊNCIA DA SÚMULA 7/STJ. INAPLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. MULTA PROCESSUAL. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem - quanto ao não preenchimento dos requisitos necessários para configuração da usucapião especial urbana - demandaria necessariamente novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, consoante o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+3. Não deve ser acolhido o requerimento para que seja imposta a multa prevista no § 2º do art. 1.026 do Código de Processo Civil de 2015, uma vez que o mero inconformismo com a decisão não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório do recurso.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.212.601/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/3/2023, DJe de 30/3/2023, grifei.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro para 12% os honorários advocatícios fixados na origem (fls. 498 e 625), observada a eventual e anterior concessão da gratuidade judiciária.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. TRIBUNAL DE ORIGEM QUE NÃO RECONHECEU O PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS PARA CONFIGURAÇÃO DA USUCAPIÃO ESPECIAL URBANA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
