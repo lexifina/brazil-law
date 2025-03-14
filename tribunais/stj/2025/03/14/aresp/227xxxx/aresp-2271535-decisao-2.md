@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por LILIAN MARQUES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 1.347-1.358):
+APELAÇÃO CÍVEL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO TÍTULO EXECUTIVO FORMADO NO BOJO DE AÇÃO CONDENATÓRIA. RESPONSABILIDADE CIVIL. SÚMULA 150 DO STF. REPARAÇÃO CIVIL. PRAZO DE TRÊS ANOS, ART. 206, § 3º, V, CÓDIGO CIVIL. TRÂNSITO EM JULGADO. AUSÊNCIA DE INTERRUPÇÃO DO LAPSO PRESCRICIONAL. RECONHECIMENTO DA PRESCRIÇÃO DA EXECUÇÃO EM RELAÇÃO ÀS VERBAS DE CUNHO INDENIZATÓRIO (DANOS MORAIS E DANOS MATERIAIS). APELAÇÃO DA EXECUTADA. AUSÊNCIA DE PRESCRIÇÃO EM RELAÇÃO A MULTA APLICADA NA OBRIGAÇÃO DE FAZER. MULTA DEVIDA. TRATANDO DE OBRIGAÇÃO DE FAZER DE CARÁTER INDIVISÍVEL É A DATA DA INTIMAÇÃO DO ÚLTIMO EXECUTADO QUE DEVE SER CONSIDERADA COMO TERMO INICIAL PARA A APLICAÇÃO DA MULTA. EXCESSO DE EXECUÇÃO. AUSÊNCIA. PEDIDO DE MINORAÇÃO DO VALOR DA MULTA. DESCABIMENTO. DECISÃO MANTIDA. RECURSOS DESPROVIDOS.
+Verifica-se que o trânsito em julgado ocorreu em 18.05.2005, a parte apelante somente requereu o cumprimento da sentença em 02.07.2008.
+Como a presente pretensão de execução das verbas é de reparação civil, ou seja, prescreve em 3 anos, tem-se que correta a decisão do juízo em aplicá-la. Veja, a apelante poderia ter requerido o cumprimento de sentença (execução das verbas indenizatórias) logo após o trânsito em julgado, eis que a situação de que a apelada não ter sido intimada da decisão proferida em sede recursal (antecipação de tutela) em nada alteraria a execução das verbas indenizatórias, pois tal situação interferia somente no início da contagem do pagamento da multa fixada.
+Destaca-se que não se pode afirmar que pelo fato de a pretensão principal (execução das verbas de cunho indenizatório - danos materiais e danos morais), terem sido declaradas prescritas, não se possa executar unicamente a multa aplicada na obrigação de fazer, eis que as pretensões não dependem umas das outras. A parte tem a faculdade, por exemplo, de executar somente a multa aplicada em obrigação de fazer. Desta forma, afasto esta alegação.
+Quanto a redução das astreintes, verifica-se que foi aplicada multa dia no valor de R$ 150,00 (cento e cinquenta reais) dia, e tal valor atende aos princípios da proporcionalidade e da razoabilidade, tendo em vista que os executados não cumpriram com as determinações e a demanda se estende desde 1998. Por conseguinte, mantenho a sentença em todos os seus termos, salientado que os valores referentes ao dano moral e ao patrimonial, devem ser excluídos do cálculo realizado pelo contador eis que reconhecida a prescrição, mantendo-se assim somente a multa nos referidos cálculos. Destaco que tal posição é consequência lógica da decisão, motivo pelo qual não pode ser declarado como excesso de execução.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente aduz, no mérito, que não houve prescrição intercorrente porquanto os danos perpetrados pela parte contrária subsistiam até o momento da execução.
+Sem contrarrazões ao recurso especial.
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.413-1.414, o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.464-1.467).
+É, no essencial, o relatório.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial adesivo por considerá-lo prejudicado ante a inadmissibilidade do recurso especial da parte contrária, ocorre, entretanto, que a parte agravante deixou de impugnar especificamente a incidência do referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confiram-se os seguintes julgados:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial. Agravo em recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.501/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 25/11/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA STJ. ARTIGO 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL CPC. CORREÇÃO DAS DEFICIÊNCIAS EM SEDE DE AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. INVIABILIDADE. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "É inviável o agravo regimental ou interno que deixa de atacar especificamente todos os fundamentos da decisão agravada, consoante o disposto no art. 1.021, § 1º, do CPC e na Súmula 182 do STJ. Precedentes" (AgRg nos EAREsp 1206558/RS, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 18/9/2018).
+2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.929.489/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/11/2021.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado do proveito econômico.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO
