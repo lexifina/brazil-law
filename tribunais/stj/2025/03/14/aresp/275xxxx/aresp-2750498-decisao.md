@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MAURO MEIRELLES COSTA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a", da Constituição Federal.
+Ação: ordinária movida pelo agravante contra CAIXA ECONÔMICA FEDERAL, CONSTRUTORA ANDRADE ALMEIDA LTDA.
+Acórdão: negou provimento ao agravo interno que não conheceu da apelação do agravante, nos termos da seguinte ementa:
+"AGRAVO INTERNO. APELAÇÃO NÃO CONHECIDA. RAZÕES DISSOCIADAS. AÇÃO DE COBRANÇA. SUPOSTOS VALORES NÃO RECEBIDOS EM VENDA DE TERRENOS POSTERIORMENTE UTILIZADO EM PROGRAMAS SOCIAIS DE MORADIA. AGRAVO INTERNO NÃO PROVIDO. - Sustenta que se trata de ação para cobrança de supostos valores não recebidos na venda de terrenos que foram posteriormente utilizados para construção de prédios cujos apartamentos fazem parte de programas sociais de moradia. - É cediço que a apelação que deduz irresignação dissociada dos fundamentos da sentença que hostiliza, bem como divorciada das questões debatidas, revela-se, a toda evidência, em débito inadmissível para com o requisito objetivo do recurso estabelecido, especificamente, no art. 1.010, caput, II ou III, do CPC. Definidos tais parâmetros, e tendo em vista o desenvolvimento processual relatado, verifica-se que o recurso interposto não ataca as razões de decidir positivadas no ato judicial alvejado, ressentindo-se, assim, de requisito objetivo de regularidade formal, vez que não atendida a literal exigência de dedução, em suas razões, dos fundamentos de fato e de direito, ou das razões do pedido de reforma ou de decretação de nulidade, imprescindíveis à devolução da causa a este Tribunal. - Agravo interno não provido". (e-STJ Fls. 512)
+Decisão de admissibilidade do TJ/RJ: inadmitiu o recurso especial em razão dos seguintes fundamentos (e-STJ Fls. 554):
+i. necessidade de reexame de contexto fático-probatório (Súmula 7 do STJ);
+Agravo em recurso especial: nas razões do presente recurso, alega violação dos arts. 205 do CC; 319, III e IV; 321; 330, § 2º; 1.010, I a IV; e 1.021, § 1º, do CPC, fundamentação acerca do mérito propriamente dito. Alega genericamente não incidir a Súmula 7/STJ uma vez que as controvérsias são exclusivamente jurídicas. (e-STJ Fls. 562/565)
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. necessidade de reexame de fatos e provas.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 351) para 15%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
