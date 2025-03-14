@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 33):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. READEQUAÇÃO DA RENDA MENSAL DE BENEFÍCIO ANTERIOR À CONSTITUIÇÃO FEDERAL AOS TETOS DAS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA Nº 5037799-76.2019.4.04.0000.
+1. O cumprimento de sentença deve se ater aos estritos limites do título executivo, sob pena de ofensa à coisa julgada. 2. Inobstante ainda tramite embargos de declaração, as Turmas Previdenciárias desta Corte têm considerado que o IAC 5037799-76.2019.4.04.0000 é mecanismo processual de observância obrigatória e vinculante, prescindindo do trânsito em julgado para aplicação imediata. 3. No caso dos autos, a decisão agravada cumpre o decidido no título judicial determinando a readequação do limite de pagamento da RMI do benefício previdenciário em face dos tetos (MVT, MVT, EC nº 20/98 e EC nº 41/2003), assim compreendidos como os fatores externos à elaboração da RMI e dos quais sobreveio limitação de pagamento do salário-de-benefício.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 51-60, o recorrente sustenta que:
+Conforme adiantado acima, o r. acórdão recorrido está baseado em uma tese central equivocada, o que pode facilmente ser demonstrado. Com efeito, o r. acórdão recorrido parte do entendimento de que os novos valores do teto previdenciário, estabelecidos pelas Emendas Constitucionais 20/1998 e 41/2003 devem substituir os limitadores antigos, a partir da entrada em vigor do novo limitador, aplicável tanto ao salário-de-benefício como à renda mensal para pagamento. O problema é que o acórdão dilatou o conceito de "limitadores" de forma a alcançar um elemento de cálculo que jamais limitou o salário-de-benefício ou a renda dos benefícios: o menor valor-teto. Este, apenas em razão de seu nome (que aliás somente veio a ser adquirido em 1976), foi "condenado" juntamente com o Maior Valor-Teto (o verdadeiro e único limitador na época), a ter seus efeitos sobre a renda defenestrados, extintos, a partir da data das Emendas Constitucionais 20/1998 e 41/2003.
+(..)
+Essa decisão viola frontalmente a norma de regência dos benefícios concedidos antes da Constituição de 1988, a Lei 5.890/1973, art. 3º, §4º; art. 5º, II, b; e Dec. 89.312/1984, art. 21, §4º; art. 23, II, b, porque apaga os seus efeitos a partir em razão da simples elevação do valor do teto em 1998 ou 2003. (fls. 54-55).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fl. 241):
+O recurso não merece trânsito, porquanto a questão suscitada implicaria reexame da matéria fático-probatória, notadamente no que o acórdão acabou por confirmar a decisão agravada que se manifestou pela existência de coisa julgada, o que vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial.
+Em seu agravo, às fls. 250-254, o agravante aduz, em síntese, que "não é o caso de aplicação da Súmula 7 do STJ, na medida em que a questão defendida no Recurso Especial é eminentemente jurídica, não sendo necessário, portanto, o revolvimento do conteúdo fático-probatório" (fl. 252).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, o fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
