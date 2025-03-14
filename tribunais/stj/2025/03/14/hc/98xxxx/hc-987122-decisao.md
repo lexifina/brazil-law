@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUAN PIGARI, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Narra a impetrante que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 7 anos de reclusão, em regime inicial fechado, e 700 dias-multa pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 e, ao julgar o pelo defensivo, a Corte estadual deu parcial provimento ao recurso para redimensionar as sanções do paciente a 5 anos e 10 meses de reclusão, além de 583 dias-multa, mantidos os demais termos de sua condenação.
+Neste writ (e-STJ, fls. 2/11), a impetrante afirma que o paciente sofre constrangimento ilegal na segunda fase da dosimetria de sua pena, pois não foi aplicada a atenuante da confissão espontânea, muito embora tenha admitido a posse das drogas que foi utilizada como fator determinante para sua condenação (e-STJ, fl. 6). Ademais, assevera que a confissão impõe a atenuação da pena, ainda que tenha sido parcial, extrajudicial, informal ou não espontânea (e-STJ, fl. 7).
+Diante disso, requer, liminarmente e no mérito, o redimensionamento de suas sanções ante o reconhecimento da incidência da atenuante da confissão espontânea.
+É o relatório. Decido.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir. No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que somente foi juntada aos autos a cópia do acórdão de apelação, e ainda referente a réu diverso (Vinícius Ricardo Vilas Boas Faria) .
+É cogente ao impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que, "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
