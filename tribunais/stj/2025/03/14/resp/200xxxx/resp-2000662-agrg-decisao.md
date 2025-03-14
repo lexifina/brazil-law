@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo regimental por meio do qual ANTÔNIO EDMILSON LIMA JÚNIOR requer a reforma da decisão agravada para declarar a perda de objeto do recurso especial, porquanto a 2ª Câmara de Coordenação e Revisão do Ministério Público Federal já havia reexaminado o pedido de celebração do acordo de não persecução penal e o feito seguiu tramitando regularmente, de modo que o provimento do apelo nobre poderá implicar tumulto processual (fls. 303-311.
+Intimado, o Ministério Público Federal opinou pelo provimento do agravo, conforme parecer de fls. 323-325:
+(..) O agravante tem razão.
+No caso, antes da decisão do recurso especial, os autos foram remetidos à 2ª CCR, onde foi mantida a decisão de não propositura de acordo de não persecução penal, com posterior andamento processual e sentença condenatória, estando o processo neste momento em fase de apelação criminal, conforme colhido do sítio eletrônico do TRF/5ª Região.
+Colho da decisão de recebimento da denúncia após a apreciação da 2ª CCR/MPF:
+O réu impetrou o HC nº 0810854-09.2021.4.05.0000 junto ao TRF da 5º Região sem pedido de liminar.
+Após a realização de audiência de instrução, apresentação de memoriais e prolação de sentença condenatória, o TRF da 5ª Região, nos autos do habeas corpus nº 0810854-09.2021.4.05.0000, prolatou acórdão no qual anulou o recebimento da denúncia oferecida nesta Ação Penal sob o fundamento de que é o Ministério Público possui o dever de oportunizar ao investigado, antes de ofertar a denúncia, e, diante da recusa em propor o ANPP, provocar a revisão pelo órgão superior na forma do § 14º do art. 28-A do CPP, o que ensejou o registro, em apartado, do feito Petição Criminal nº 0800576- 59.2022.4.05.8100.
+Nos autos do referido feito, a 2ª Câmara de Coordenação e Revisão do Ministério Público Federal decidiu pela inviabilidade da propositura de ANPP e, com o retorno, este juízo determinou a retomada da ação penal de nº 0808586-29.2021.4.05.8100 com a conclusão para nova apreciação quanto ao recebimento da denúncia, diante da anulação da decisão anterior por meio do habeas corpus nº 0810854-09.2021.4.05.0000 (decisão por cópia no id. 4058100.25506695). (https://pje. trf5. jus. br/pjeconsulta/ConsultaPublica/DetalheProcessoConsultaP ublica/documentoSemLoginHTML. seam idProcessoDocumento=432954eb98 2b39a1a1a98c5ebc18744b).
+Desta feita, imperioso o provimento do agravo regimental, a fim de reconhecer a perda de objeto do apelo extremo."
+Considerando os argumentos apresentados pelas partes, bem como a necessidade de se evitar tumulto na ação penal, reconsidero a decisão anterior para julgar prejudicado o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
