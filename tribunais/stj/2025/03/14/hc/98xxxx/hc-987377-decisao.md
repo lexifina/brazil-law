@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de BRUNO PEREIRA FLORENCIO contra o acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação Criminal n. 1508060-43.2024.8.26.0228), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente em razão de nulidade da busca pessoal realizada sem fundada suspeita e por guardas municipais, ao argumento de que a atuação desses agentes foi motivada por mero critério subjetivo e discriminatório, sem qualquer lastro objetivo, o que viola o princípio da legalidade e a garantia de inviolabilidade da pessoa humana (art. 5º, X, da CF) - fl. 5.
+Defende a ausência de materialidade e autoria diante da fragilidade dos fatos alegados, uma vez que os guardas se limitaram a relatar a abordagem, sem descrever a conduta específica do paciente (fl. 6).
+Por fim, aduz, ainda, a desproporcionalidade da fixação da pena-base, pois a única vetorial negativa - maus antecedentes - resultou em um aumento significativo da pena (1/5).
+Ocorre que, em consulta ao Sistema Integrado de Atividade Judiciária deste Superior Tribunal, verifiquei a anterior impetração dos Habeas Corpus n. 926.917/SP e n. 979.390/SP, em benefício do mesmo paciente, contra o mesmo acórdão (Apelação Criminal n. 1508060-43.2024.8.26.0228) e com pretensões idênticas (absolvição por nulidade da busca pessoal realizada sem fundada suspeita pelos guardas municipais - HC n. 926.917/SP; e insuficiência probatória e desproporcionalidade da pena-base fixada - HC n. 979.390/SP).
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido (AgRg no HC n. 950.631/SP, Ministra Daniela Teixeira, Quinta Turma, julgado em 19/2/2025, DJEN 24/2/2025).
+No mesmo sentido: AgRg no HC n. 933.288/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; AgRg no RHC n. 124.697/MG, Ministro Felix Fischer, Quinta Turma, DJe 17/4/2020; entre inúmeros outros.
+Quer dizer, é categórico o entendimento do Superior Tribunal de Justiça a respeito da impossibilidade de reiteração de pedidos já apresentados nesta Casa.
+Ademais, como já ressaltado em decisão anterior, a Ação Penal n. 1508060-43.2024.8.26.0228, objeto deste writ, transitou em julgado na data de 5/8/2024 e a via do habeas corpus se mostra inadmissível, pois utilizada como sucedâneo de revisão criminal, sendo certo que compete ao Superior Tribunal de Justiça o julgamento de revisão criminal de seus próprios julgados, o que não é o caso dos autos.
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. INSUFICIÊNCIA PROBATÓRIA E DOSIMETRIA DA PENA. NULIDADE DA BUSCA E APREENSÃO REALIZADA POR GUARDAS MUNICIPAIS. PRETENSÕES IDÊNTICAS ÀS FORMULADAS NOS HABEAS CORPUS N. 979.390/SP E N. 926.917/SP, RESPECTIVAMENTE. MERA REITERAÇÃO DE PRÉVIOS REMÉDIOS CONSTITUCIONAIS. INADMISSIBILIDADE.
+Inicial indeferida liminarmente.
