@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de TAYMISON FELIPE DIOGO SABINO - condenado por roubo circunstanciado a 8 anos, 10 meses e 20 dias de reclusão, e a 21 dias-multa -, atacando-se o acórdão proferido pelo Tribunal de Justiça de São Paulo (fls. 48/53 - Revisão Criminal n. 0022256-97.2024.8.26.0000), não comporta processamento.
+Com efeito, a impetração busca a revisão da dosimetria da pena imposta na condenação proferida na Ação Penal n. 1503282-65.2021.8.26.0024 (fls. 19/32, da 3ª Vara da comarca de Andradina/SP), mantida em grau de apelação (fls. 33/43), ao argumento de ser ilegal a incidência de duas majorantes previstas na parte especial do Código Penal sem a respectiva fundamentação: uma vez que o número de cúmplices (3) e a quantidade de supostas armas de fogo (2) não agravam sobremaneira a conduta (fl. 5).
+Sem pedido liminar.
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta contribui para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN 17/12/2024; e AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a Corte estadual, no acórdão hostilizado, apresentou fundamentação específica para aplicação cumulativa das causas de aumento de pena do concurso de pessoas (art. 157, § 2º, II, do CP) e emprego de arma (art. 157, § 2º-A, I, do CP): tenho que pela gravidade da ação, que envolveu três agentes, e emprego de duas armas, mostra-se mais consentâneo e proporcional a incidência do concurso de agentes em 1/3 e da arma de fogo em 2/3 (fl. 53).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
