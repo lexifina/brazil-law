@@ -1,0 +1,24 @@
+DECISÃO
+DYONATHAN SOARES DE MORAIS alega sofrer constrangimento ilegal no seu direito de locomoção em virtude de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás na Apelação n. 5042365-83.2021.8.09.0175.
+A defesa entende não haver motivação idônea para justificar a valoração negativa da culpabilidade e dos motivos do crime.
+Pleiteia o redimensionamento da pena-base.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+Decido.
+Segundo os autos, o paciente foi condenado a 7 anos e 4 meses de reclusão, em regime semiaberto, por incursão no art. 129, § 3º, do CP.
+Na ocasião, as vetoriais em discussão foram sopesadas contra o réu sob a seguinte motivação (fls. 741-742):
+Culpabilidade, considerando as diretrizes do artigo 59 do Código Penal, observo que o réu agiu com desprezo frente ao bem jurídico tutelado, além do que ela poderia ter escolhido por não trilhar na senda do crime, porém exteriorizou uma atitude extremamente covarde, perversa e violenta ao atentar contra a vida da vitima, utilizando- se fúria excessiva, evidenciando-se, em seu modo de agir, um intenso grau de culpabilidade".
+Motivo, deve ser considerado negativamente, na medida em que os fatos ocorreram por discussão entre o réu e a vitima.
+O Tribunal a quo deu parcial provimento ao apelo defensivo e fixou a sanção em 6 anos de reclusão. Constou do acórdão, no que interessa (fls. 16-17, grifei):
+O Presidente do Conselho de Sentença, desclassificou o crime de Homicídio Qualificado para lesão corporal seguida de morte tipificada no art. 129 §3 do Código Penal Brasileiro (Pena - reclusão, de quatro a doze anos), na definição da reprimenda aflitiva, fixou a base punitiva de 11 (onze) anos de reclusão, reconhecendo como desfavoráveis a culpabilidade, os antecedentes criminais e os motivos do crime. Sendo que, indicado como fundamento para o demérito da culpabilidade, o fato de que o acusado "exteriorizou uma atitude extremamente covarde, perversa e violenta ao atentar contra a vida da vitima, utilizando-se fúria excessiva, evidenciando-se, em seu modo de agir, um intenso grau de culpabilidade", aos antecedentes criminais, por se tratar de reincidente, a existência na certidão de antecedentes criminais de sentença transitada em julgado (mov. 274), e, por último, para os motivos do crime, em razão dos fatos terem ocorridos por discussão entre o réu e a vítima.
+Sendo que, indicado como fundamento para o demérito da culpabilidade, o fato de que o acusado "exteriorizou uma atitude extremamente covarde, perversa e violenta ao atentar contra a vida da vitima, utilizando-se fúria excessiva, evidenciando-se, em seu modo de agir, um intenso grau de culpabilidade", aos antecedentes criminais, por se tratar de reincidente, a existência na certidão de antecedentes criminais de sentença transitada em julgado (mov. 274), e, por último, para os motivos do crime, em razão dos fatos terem ocorridos por discussão entre o réu e a vítima.
+Diante das razões expostas, verifica-se equívoco na fixação da pena-base, especialmente no critério de aumento proporcional às circunstâncias judiciais desfavoráveis. O critério adotado foi o de 1/8 (um oitavo) sobre o intervalo da pena mínima e máxima prevista para o delito, que é de 04 (quatro) a 12 (doze) anos de reclusão. Entretanto, ao fixar a pena-base em 11 (onze) anos de reclusão, restou configurado excesso punitivo. Considerando que o intervalo de 1/8 (um oitavo) corresponde a 01 (um) ano de aumento, e que foram 03 (três) as vetoriais negativadas, o acréscimo proporcional deveria ser de 03 (três) anos sobre a pena mínima. Assim, necessário o recuo da pena-base para 07 (sete) anos de reclusão, corrigindo o excesso constatado.
+Em que pese o inconformismo da defesa, a leitura dos trechos acima colacionados evidencia que a Corte estadual nada aduziu em relação aos fundamentos usados para a valoração negativa das circunstâncias judiciais em discussão. O que se vê, é que, em relação à pena-base, o acórdão tão somente transcreveu as considerações feitas pelo Juiz de primeiro grau e não teceu nenhuma observação em relação a elas. Em seguida, por entender que a fixação da reprimenda havia sido desproporcional, alterou o apenamento.
+Averiguado, portanto, que o Tribunal a quo não se manifestou em relação às teses defensivas, não há como delas conhecer, a fim de não se incorrer em indevida supressão de instância.
+Nesse sentido:
+ ..
+4. Por fim, com relação ao pedido de redução da pena-base, tem-se que a Corte de origem não se manifestou a respeito do tema, o que impossibilita a análise diretamente por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+5. Habeas corpus parcialmente conhecido e denegado.
+(HC n. 777.205/PB, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/5/2023, DJe de 5/5/2023.)
+A vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
