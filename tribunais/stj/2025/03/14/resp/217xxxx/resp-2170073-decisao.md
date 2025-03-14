@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 416):
+TRIBUTÁRIO. REGIME ESPECIAL DE ADMISSÃO TEMPORÁRIA. AÇÃO CAUTELAR. AERONAVE DO TIPO BALÃO DIRIGÍVEL. SUSPENSÃO DO IMPOSTO DE IMPORTAÇÃO E DO IPI. INAPLICABILIDADE DA LEI 9.430/1996 E DECRETO Nº 2.889/98. REGIME ANTERIOR DO DECRETO LEI 37/1966 E SEU REGULAMENTO. ARRENDAMENTO OPERACIONAL DE AERONAVE. PRESENTES OS REQUISITOS PARA DEFERIMENTO DA CAUTELAR PEDIDA.
+1. A ação cautelar visa a proteção do objeto do processo principal, necessitando para o seu deferimento a presença da plausibilidade do direito invocado e o perigo de dano.
+2. No caso concreto, a importação da aeronave tipo balão dirigível se deu antes da edição do Decreto nº 2.889/1998 que regulamentou a Lei nº 9.430/1996. Em tal situação o STJ e este Tribunal já pacificaram o entendimento de que não se aplica esta nova legislação.
+3. O regime especial de admissão temporária, nos moldes estabelecidos pelo Decreto Lei 37/1966 e regulamentado pelo Decreto 91.030/1985 consiste na suspensão dos tributos sobre a importação temporária de bens, excetuando do regime os bens objeto de arrendamento mercantil.
+4. O contrato de arrendamento operacional foi pactuado pelas partes nos moldes previstos no Código Brasileiro de Aeronáutica, sendo diverso do contrato de arrendamento mercantil disciplinado pela Lei nº6.099/1974, que possui requisitos objetivos e subjetivos específicos, tendo sido expressamente reconhecido como arrendamento operacional pelo Ministério da Aeronáutica.
+5. A empresa contribuinte possui direito ao regime especial de admissão temporária da aeronave importada, pois preenchidos os requisitos previstos na legislação em vigor quando do desembaraço aduaneiro. Plausibilidade do direito reconhecida.
+6. O perigo de dano é evidente para a empresa que se vê privada da utilização comercial do bem importado, necessário à realização dos seus fins sociais.
+7. Apelação provida.
+Os embargos de declaração opostos foram rejeitados.
+A parte recorrente aponta, inicialmente, violação dos arts. 458 e 535, II, do CPC/73, porquanto (fl. 442): "opôs Embargos de Declaração perante a E. Corte Regional, para o fim de ver sanada omissão quanto a questões federais relevantes, sobretudo quanto à perda de objeto da presente ação cautelar".
+Sustenta, ainda, que: "impõe-se o reconhecimento da perda do objeto da presente ação cautelar, porquanto, o pedido inicial foi julgado improcedente. Dispõem os artigos 798 e 808 do CPC"; e, "com o julgamento de mérito da ação principal, por mandamento legal, impõe-se a perda do objeto da presente ação cautela" (fl. 448).
+Pugna para que: "o acórdão recorrido seja cassado, relativamente às omissões destacadas pela Fazenda Nacional nos seus embargos de declaração, e seja determinado o retomo dos autos ao Tribunal de origem para nova manifestação sobre as matérias omitidas, efetivando-se integralmente a prestação jurisdicional"; ou, " reformando-se o acórdão recorrido, para a decretação da perda de objeto da presente ação cautelar" (fl. 450).
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fls. 474-477.
+É o relatório. Passo a decidir.
+A insurgência merece prosperar.
+Com efeito, a recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que a omissão apontada não fora sanada na origem.
+Em relação à alegada violação aos arts. 458 e 535, II, do CPC/73 - quanto à omissão quanto à perda de objeto da presente ação cautelar - observa-se que o acórdão combatido, a despeito da oposição dos embargos de declaração, não se pronunciou sobre a matéria, limitando-se a indicar que " ..  a fundamentação das decisões judiciais, prevista no texto constitucional, não impõe ao Magistrado a obrigatoriedade de responder a todos os questionamentos impostos pelas partes, bastando à fundamentação suficiente ao deslinde da questão".
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação, ou manifestação contraditória, a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento por ofensa ao artigo 1.022, II, do CPC, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Por fim, tendo em vista o provimento do recurso especial, fica prejudicada a análise da petição interposta por ESPÓLIO DE ELTON CALIXTO, que deverá ser analisada nas instâncias ordinárias.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem analise as questões levantadas nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1.022 DO CPC/2015 (ART. 535 DO CPC/73). OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
