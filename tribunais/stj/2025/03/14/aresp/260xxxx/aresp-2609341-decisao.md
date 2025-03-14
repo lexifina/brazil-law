@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 211):
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS JULGADA PARCIALMENTE PROCEDENTE PARA CONDENAR O RÉU AO RESSARCIMENTO DE R$ 131.148,43 A TÍTULO DE DANOS MATERIAIS (MENOR QUE O VALOR PRETENDIDO DE POUCO MAIS DE R$200.000,00) DANO MORAL NÃO RECONHECIDO - relação de consumo inversão do ônus da prova pela verossimilhança da versão da apelada dever do apelante de demonstrar que não houve movimentação indevida da conta, ônus do qual se descurou responsabilidade objetiva do prestador de serviço na hipótese dever de zelar pela segurança do serviço prestado artigo 14 do CDC ato de terceiro que não elide a responsabilidade do apelante caso fortuito interno precedente do STJ julgado em regime de processo repetitivo sentença mantida nesta parte.
+DANO MATERIAL prova do efetivo débito irregular em conta do apelado em pouco mais de R$200.000,00 restituição do valor de R$ 131.148,43, que corresponde ao valor ainda não estornado pelo banco administrativamente sentença mantida neste aspecto. Resultado: recurso desprovido.
+Sem embargos de declaração opostos.
+No recurso especial, a parte recorrente aduz que o acórdão contrariou as disposições contidas nos arts. 884 e 945 do Código Civil e 14, § 3º, I e II, do CDC.
+Aponta a inexistência de fraude nas transações realizadas por meio eletrônico mediante a liberação do validador habilitado pelo recorrido a terceiros.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 283-286).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 308-310), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 371-389).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Na espécie, o Tribunal de origem manifestou-se nos seguintes termos (fls. 214-215):
+A fraude, conquanto tenha ocorrido através de cliques em links enviados por terceiros à funcionária do apelado, permitiu a transferência de pouco mais de duzentos mil reais em duas datas distintas e para vários destinatários, parte do valor que já foi estornada pelo banco em reconhecimento da isenção de culpa do município.
+Cediço que a cada dia que passa, a população é bombardeada por notícias a respeito das mais diversas fraudes ocorridas junto ao sistema bancário em geral. Dentre elas estão as transferências de numerário via Internet e os saques e contratações indevidas nos caixas eletrônicos, perpetrados por meio de golpes variados.
+Quem realmente tem condição de provar a autenticidade ou a fraude das operações realizadas é mesmo a instituição financeira. Só ela detém as informações exatas em relação aos horários, terminais e instrumentos utilizados nesses procedimentos.
+De outra banda, salta aos olhos a dificuldade de o correntista produzir prova negativa, qual seja, a de que não realizou o lançamento impugnado.
+Como dito, competiria ao banco apelante comprovar a veracidade de suas assertivas. Conforme anotado, o banco apelante atribuiu a operação questionada integralmente à funcionária do apelado ao clicar em "link" que lhe foi encaminhado por terceiros. Ora, tratava-se de fato impeditivo do direito do apelado, cuja prova cumpria ao banco apelante, nos termos do art. 373, inciso II do CPC de 2015.
+De passagem, há que se ressaltar que o sistema do banco apelante não é inexpugnável. Reputar assim o sistema bancário se apresenta como pretensão demasiada, notadamente ao se considerar que sistemas tidos como invulneráveis são vez ou outra invadidos por "hackers". A título de exemplo, de serem mencionadas as invasões havidas no site do The New York Times, do Yahoo, da Microsoft e WorldCom, da rede Seven-Eleven, do Twiter do presidente dos Estados Unidos, Barack-Obama, da Nasdaq (onde foi perpetrada a subtração de quantia superior a cem mil dólares) e, inclusive, do Pentágono.1 Desta forma, é perfeitamente possível imaginar que houve a quebra do sistema do apelante, com a consequente obtenção da senha e invasão da conta do apelado.
+A conclusão é inevitável: a falta de provas a respeito da propalada perpetração da operação por parte da funcionária do apelado, acaba por tornar incontornável que se credite ao apelante a responsabilização pelo débito indevido.
+Para arrematar, cabe esclarecer que apesar de certa discussão no início, pacificou-se o entendimento de que o fato de terceiro apto a afastar a responsabilidade deve equiparar-se ao caso fortuito externo, isto é, aquele impossível de ser previsto, evitado e que não se liga à atividade do prestador de serviço. No caso dos autos, trata-se de caso fortuito interno, o qual decorre do risco do negócio desempenhado pela instituição financeira.
+ ..
+Nesse sentido, o Superior Tribunal de Justiça, ao analisar a celeuma em regime de processo repetitivo (artigo 543-C do CPC de 1973), decidiu que os bancos respondem objetivamente pelos danos causados por golpes de terceiros.
+ ..
+Sobre o tema, foi publicada a Súmula n. 479 do STJ de seguinte redação: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias".
+ ..  não há como afastar a responsabilidade do apelante pelo dano sofrido pelo apelado. Dano este devidamente comprovado pelo extrato e documentos de fls.31/41 que demonstram os débitos indevidos dos valores já discriminados e ocorridos na conta do apelado.
+Assim, incide o óbice da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, confira-se:
+O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita - Súmula n. 7/STJ. (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula 7/STJ. Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido, cito:
+A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula n. 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido. (AgInt no AREsp n. 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp n. 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp n. 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. TRANSFERÊNCIAS INDEVIDAS EM CONTA-CORRENTE. LINK FORNECIDO POR TERCEIRO. RESPONSABILIDADE OBJETIVA DO BANCO. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
