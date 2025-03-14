@@ -1,0 +1,31 @@
+DECISÃO:
+
+    Trata-se de habeas corpus impetrado contra decisão monocrática proferida no âmbito do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 960281/SP (DOC 10).
+
+    Afirma o impetrante que o Juízo de primeiro grau determinou o recolhimento da apenada para cumprir pena definitiva de 3 anos e 6 meses de reclusão, pela prática do crime previsto no art. 35, caput, da Lei 11.343/2006, em regime fechado.
+
+    Alega que a paciente sofre constrangimento ilegal, pois o Juízo de origem não examinou o pedido de conversão do regime fechado para o domiciliar nem o pedido de detração, que poderia resultar na fixação do regime aberto em razão do tempo de pena a cumprir.
+
+     Sustenta que a paciente deveria cumprir pena em regime domiciliar por ser mãe de criança recém-nascida, além de possuir outros filhos que dependem de seus cuidados. Além disso, alega que a detração da pena poderia implicar o cumprimento da sanção em regime menos gravoso.
+
+    Requer a concessão da ordem, liminarmente, a fim de que seja reconhecida a nulidade da decisão impugnada e seja deferido o cumprimento de pena em prisão domiciliar, com a consequente expedição da guia de execução e a detração do tempo de pena já cumprido.
+
+    A liminar foi deferida para: “i) conceder à paciente o cumprimento de pena (relativa à ação criminal 1001683-02.2021.8.26.0590) em prisão domiciliar até o julgamento definitivo deste writ; ii) determinar que seja expedida guia de execução, independentemente do recolhimento prévio em estabelecimento prisional; iii) determinar que o Juízo da Execução Criminal examine os pedidos de detração de pena e fixação do regime inicial aberto, bem como o pleito subsidiário de concessão de cumprimento de pena em regime domiciliar por razões humanitárias.”
+
+    A Segunda Turma referendou a liminar em acórdão assim ementado:
+
+    EMENTA: DIREITO PENAL E PROCESSUAL PENAL. REFERENDO EM MEDIDA CAUTELAR EM HABEAS CORPUS. CUMPRIMENTO DE PENA EM REGIME DOMICILIAR. MÃE DE CRIANÇAS MENORES DE 12 ANOS. REGIME FECHADO. DETRAÇÃO DA PENA. NECESSIDADE DE OBSERVÂNCIA DAS REGRAS DE BANGKOK E DOS DIREITOS DAS CRIANÇAS. LIMINAR REFERENDADA. I. CASO EM EXAME • Habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça que indeferiu liminarmente o writ e manteve decisão do juízo de primeiro grau, que condicionou a apreciação de pedidos de prisão domiciliar e detração da pena à prisão prévia da apenada, condenada à pena de 3 anos e 6 meses de reclusão, em regime fechado, pela prática do crime de associação ao tráfico de drogas (art. 35, caput, da Lei 11.343/2006). A defesa pleiteia o cumprimento da pena em regime domiciliar, em razão de a paciente ser mãe de crianças menores de 12 anos, uma delas recém-nascida, e o reconhecimento da detração para eventual fixação de regime inicial menos gravoso. II. QUESTÃO EM DISCUSSÃO • Há duas questões em discussão: (i) verificar se a decisão que condicionou a apreciação dos pedidos de prisão domiciliar e detração da pena à prisão prévia da apenada configura constrangimento ilegal; (ii) examinar se a concessão de prisão domiciliar, em razão da condição de mãe de crianças menores de 12 anos, está respaldada pelas diretrizes normativas e constitucionais aplicáveis. III. RAZÕES DE DECIDIR • Condicionar o exame dos pedidos de prisão domiciliar e detração de pena ao encarceramento prévio da paciente configura negativa de acesso à Justiça, contrariando as diretrizes das Regras de Bangkok e os compromissos internacionais assumidos pelo Brasil no âmbito dos direitos humanos. • As Regras de Bangkok, elaboradas pelas Nações Unidas, recomendam a priorização de alternativas ao encarceramento para mulheres responsáveis por crianças, visando proteger tanto os direitos das mães quanto os direitos fundamentais das crianças. • A aplicação do art. 227 da Constituição Federal, que estabelece a prioridade absoluta dos direitos das crianças, justifica a concessão de medidas que impeçam a separação abrupta entre mães e filhos menores, especialmente em períodos como a gestação, puerpério e aleitamento materno. • Precedentes do Supremo Tribunal Federal reconhecem a possibilidade de prisão domiciliar, por razões humanitárias, mesmo para condenados em regime fechado, considerando a tutela da dignidade da pessoa humana e situações excepcionais que envolvam a saúde e o bem-estar da prole. • A demora na apreciação dos pedidos da defesa pode gerar danos irreversíveis às crianças, em afronta ao princípio da dignidade da pessoa humana e ao dever do Estado de proteger os direitos da infância. IV. DISPOSITIVO E TESE • Liminar referendada. Tese de julgamento: • A negativa de apreciação de pedidos de prisão domiciliar e detração de pena, condicionada à prisão prévia da apenada, configura violação ao direito de acesso à Justiça e às diretrizes das Regras de Bangkok. • A condição de mãe de criança recém-nascida justifica a concessão de prisão domiciliar, em caráter excepcional e humanitário, com base nosprincípios da dignidade da pessoa humana e da prioridade absoluta dos direitos da criança. Dispositivos relevantes citados: CF/1988, arts. 1º, III; 5º, XLV e XLIX; 227; CPP, art. 318; Lei 11.343/2006, art. 35; Regras de Bangkok, regra 2.2. Jurisprudência relevante citada: STF, HC 143.641/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 20.02.2018; STF, HC 203249 AgR, Rel. Min. Nunes Marques, Redator p/ acórdão Min. Gilmar Mendes, DJe 02.12.2021; STF, RHC 94.358, Rel. Min. Celso de Mello, Segunda Turma, j. 29.04.2008; STF, HC 139157, Rel. Min. Marco Aurélio, Primeira Turma, DJe 08.10.2018
+
+    Em consulta ao sítio eletrônico do TJSP, verifico que, em 02.02.2025, o Juízo da Vara das Execuções Criminais do Foro de São Vicente/SP deu cumprimento à referida decisão, atualizando o cálculo da pena e aplicando a detração. Em decorrência, julgou extinta a pena privativa de liberdade imposta à paciente, nos autos da ação penal 1001683-02.2021.8.26.0590, diante do integral cumprimento.
+
+    Ante o exposto, considerando a alteração do quadro processual, julgo prejudicado este habeas corpus, com fulcro no artigo 21, IX, do RISTF.
+
+    Publique-se.
+
+    Brasília, 14 de março de 2025.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
