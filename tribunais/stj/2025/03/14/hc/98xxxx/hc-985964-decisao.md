@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PERIKLISON ARANTES BISCASSI no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1500109-49.2022.8.26.0557).
+Depreende-se dos autos que o paciente foi condenado a 5 anos e 10 meses de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, ante a apreensão de cerca de 56g (cinquenta e seis gramas) de maconha e 2g (dois gramas) de cocaína (e-STJ fls. 202/209).
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo para afastar a elevação da pena-base e reconhecer a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, redimensionando a pena para 1 ano e 8 meses de reclusão, em regime inicial aberto, substituída por uma restritiva de direitos (e-STJ fls. 11/21).
+Daí o presente writ, no qual alega a defesa, em síntese, que a materialidade do delito de tráfico de drogas não foi comprovada, pois o laudo definitivo, imprescindível para a configuração do delito, não teria sido juntado aos autos.
+Sustenta, nesse sentido, que "o Magistrado se valeu de laudo químico-toxicológico sem a descrição de laudo definitivo que estaria acostado às folhas 120/122, para embasar a condenação do paciente o Colendo Tribunal de São Paulo que julgou o recuso apelatório do paciente entendeu pela licitude em basear a materialidade somente pelo laudo toxicológico" (e-STJ fl. 6).
+Requer, ao final, a concessão da ordem para absolver o paciente.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ.
+Com efeito, a leitura do acórdão proferido pela Corte de origem denota que " a materialidade do delito está comprovada nos autos pelo boletim de ocorrência lavrado, constante das folhas 7/9; pelo auto de exibição e apreensão de folhas 11/12; pelo laudo de constatação de folhas 14/16; pelo comprovante de depósito de folha 97; e pelo laudo de exame químico toxicológico definitivo de folhas 120/122 (este conclusivo de que as substâncias apreendidas e vinculadas aos presentes autos são efetivamente drogas, isto é, maconha e cocaína)" - e-STJ fl. 13, grifei.
+Para infirmar tal conclusão, nos moldes em que proposta a presente demanda, seria imprescindível incursão no acervo fático-probatório do writ, desiderato incompatível com os limites de cognição da via eleita, cumprindo asseverar que a esta Corte compete apenas a revisão de seus próprios julgados.
+Não configurado, portanto, flagrante constrangimento ilegal, a negativa de seguimento ao writ é medida que se impõe.
+Ante o exposto, ind efiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
