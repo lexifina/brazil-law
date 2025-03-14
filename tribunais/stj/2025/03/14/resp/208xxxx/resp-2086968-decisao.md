@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que negou provimento ao recurso em sentido estrito para manter a rejeição da denúncia dos recorridos pela suposta prática dos crimes tipificados no art. 34, caput, c/c. o art. 36, ambos da Lei n. 9.605/1998 (fls. 133-140).
+Nas razões recursais, o recorrente alega que a decisão recorrida negou vigência ao art. 34 da Lei n. 9.605/1998, porquanto a exordial acusatória teria apresentado elementos suficientes à instauração da ação penal (fls. 150-167).
+Em contrarrazões, os recorridos pugnam pelo não conhecimento do recurso, devido à Súmula n. 7, STJ, e à falta de prequestionamento (fls. 174-183 e 186-196).
+A Procuradoria-Geral da República opinou pelo provimento do recurso especial (fls. 216-222).
+É o relatório. DECIDO.
+Compulsando os autos, verifico que a rejeição da denúncia foi mantida pelo Tribunal a quo, sob os seguintes fundamentos (fls. 137-139):
+"No caso concreto, verifica-se que a denúncia não se ampara em elementos suficientes à comprovação acerca da existência de fundados indícios de materialidade e de autoria. Como bem observou a magistrada a quo, a peça acusatória ancora-se apenas no monitoramento da embarcação via satélite, realizado por meio do Sistema PREPS. A embarcação não foi abordada, de modo que não houve, de consequência, a apreensão de pescado; tampouco foram ouvidas testemunhas acerca do fato, a fim de corroborar a ocorrência da prática delitiva e de identificar o seu autor. A propósito, verifica-se que a informação de que não houve abordagem da embarcação constou expressamente da decisão adotada em sede administrativa, que destacou (processo 5008193- 68.2018.4.04.7200/SC, evento 35, INQ2, p. 93):
+(..)
+k) Uma vez não foi feito, por parte do agente autuante, o acompanhamento do desembarque do pescado deste cruzeiro, para a valoração da multa não foi considerada a quantidade de pescado capturado;
+(..)
+n) a caracterização da atividade de pesca está demonstrada com as imagens do PREPS, não sendo possível sua abordagem ficou descartada a apreensão de pescado e da embarcação"
+Ainda que o delito previsto no art. 34 da Lei nº 9.605/98 tenha natureza formal, a imputação da prática de tal crime deve se escorar em elementos que permitam a conclusão de que foram praticados atos de pesca, de modo que a mera imagem de satélite demonstrando o trajeto percorrido pela embarcação não constitui indício suficiente da materialidade delitiva. A conclusão de que foram praticados atos de pesca decorre de mera conjectura, que não se presta, na seara penal, a autorizar a instauração de ação penal.
+Assim, não obstante prevaleça, nesta fase processual, o interesse da sociedade na apuração da prática criminosa, não se revela viável permitir o processamento de ação penal que se ampara em um único elemento, desprovido de força suficiente para a caracterização da existência de justa causa.
+Saliento que se trata de fato ocorrido em 2017, de modo que se afigura altamente improvável que novas provas sobrevenham caso seja processada a ação penal."
+Assim, o cerne da controvérsia consiste em aferir se os elementos que instruíram a denúncia eram suficientes para demonstrar a materialidade do crime tipificado no art. 34 da Lei n. 9.605/1998, a saber:
+"Art. 34. Pescar em período no qual a pesca seja proibida ou em lugares interditados por órgão competente:
+Pena - detenção de um ano a três anos ou multa, ou ambas as penas cumulativamente.
+Parágrafo único. Incorre nas mesmas penas quem:
+I - pesca espécies que devam ser preservadas ou espécimes com tamanhos inferiores aos permitidos;
+II - pesca quantidades superiores às permitidas, ou mediante a utilização de aparelhos, petrechos, técnicas e métodos não permitidos;
+III - transporta, comercializa, beneficia ou industrializa espécimes provenientes da coleta, apanha e pesca proibidas."
+Inicialmente, destaco que não é o caso de se aplicar a Súmula n. 7, STJ, pois o deslinde da questão prescinde do revolvimento de elementos fático-probatórios.
+Segundo a jurisprudência desta Corte, a ausência de apreensão de pescado, por si só, não implica a atipicidade do crime em comento. Todavia, no caso concreto, não houve a abordagem da embarcação, de modo que os relatórios do órgão ambiental apenas demonstram o trajeto percorrido pela embarcação em certas áreas pesqueiras.
+Embora o Ministério Público Federal afirme que "foi possível constatar que a embarcação se encontrava em atividade típica de pesca" e que "há padrões de movimentação da embarcação que diferenciam a atividade pesqueira da mera atividade de navegação" (fl. 165), não há a indicação de lastro probatório mínimo que apoie tais afirmações, pois os relatórios de movimentação da embarcação são insuficientes para demonstrar a ocorrência da pesca e, portanto, a própria materialidade do delito.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. CONFORMIDADE COM O ENTENDIMENTO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. MODIFICAÇÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. NECESSIDADE DE EXAME DE FATOS E PROVAS. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. Esta Corte Superior possui entendimento no sentido de não se exigir prova conclusiva acerca da autoria ou da materialidade delitiva para o recebimento da inicial acusatória, sendo certo, ademais, que se faz necessária a presença de lastro probatório mínimo para instauração da persecutio criminis, motivo pelo qual, reconhecida a sua ausência, compete ao julgador rejeitar a denúncia.
+2. Neste caso, o magistrado singular, secundado pelo Colegiado estadual, concluiu não haver elementos capazes de justificar a instauração de procedimento criminal em desfavor do agravado, considerando a falta de elementos indiciários capazes de dar suporte ao juízo positivo de materialidade delitiva. 3. Eventual modificação de tal entendimento depende de aprofundada incursão no conjunto de fatos e provas, providência vedada em recurso especial a teor do verbete sumular n. 7/STJ.
+4. Agravo improvido." (AgRg no AREsp n. 989.279/MS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/11/2018, DJe de 17/12/2018.)
+Considerando que o recurso especial deixou de impugnar especificamente o fundamento segundo o qual "a mera imagem de satélite demonstrando o trajeto percorrido pela embarcação não constitui indício suficiente da materialidade delitiva" (fl. 138), a aplicação da Súmula n. 283, STF, é medida que se impõe.
+Nesse sentido:
+"(..) A ausência de impugnação a fundamentos autônomos e suficientes do acórdão recorrido atrai a aplicação da Súmula n. 283 do STF. (..)"(AgRg no AREsp n. 2.744.898/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025.)
+"(..) A defesa deixou de impugnar todos os fundamentos do acórdão recorrido, suficientes para a sua manutenção, o que reclama a incidência, por analogia, da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". (..)" (AgRg no AREsp n. 2.471.428/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2024, DJe de 17/6/2024.)
+Diante do exposto, e nos termos do art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
