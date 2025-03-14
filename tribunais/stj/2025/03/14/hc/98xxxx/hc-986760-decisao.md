@@ -1,0 +1,28 @@
+DECISÃO
+ANTONIO MARIO DE OLIVEIRA VILETE alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no Agravo em Execução n. 1.0000.24.333858-9/001.
+A defesa busca seja cassada a decisão do Juízo da execução, para considerar como tempo de pena efetivamente cumprido o período em que o paciente permaneceu em prisão domiciliar, qual seja, de 13.07.2023 a 06.08.2023.
+Decido.
+Infere-se dos autos que o paciente foi beneficiado com a progressão ao regime aberto, a ser cumprido na modalidade domiciliar. Diante do descumprimento das condições impostas, o Magistrado de origem reconheceu a prática de falta disciplinar de natureza grave e, em consequência, determinou a regressão ao regime fechado, a perda de 1/3 dos dias remidos e "o lançamento de interrupção no cumprimento da pena, a contar da data da primeira falta grave cometida, ou seja, 13/07/2023 (seq. 181.5), até a data de sua recaptura" (fl. 16).
+A defesa, inconformada com a determinação de interrupção no cumprimento da reprimenda, interpôs agravo em execução, ao qual o Tribunal estadual negou provimento, sob os seguintes fundamentos (fls. 10-13):
+Quanto ao pedido de consideração como pena cumprida do período de 13.07.2023 a 06.08.2023, razão não assiste à parte agravante.
+Isso porque, além de o sentenciado haver permanecido em descumprimento de condições do regime, observa-se que se encontrava em situação de fuga.
+Considere-se que o regime aberto - justamente por se tratar do regime mais brando e se caracterizar pela reduzida vigilância estatal - pressupõe um maior senso de responsabilidade pelo sentenciado, nos termos do artigo 114, inciso II, da Lei de Execução Penal (LEP).
+O descumprimento das condições impostas pelo Juízo da execução inviabiliza a contagem daquele período como pena cumprida. A regra é o regular cumprimento da pena, sendo vedado o seu cômputo ficto.
+A disciplina das condições do regime aberto se distingue daquela estabelecida para o livramento condicional
+Em relação ao livramento condicional, há regra legal expressa no artigo 90 do CP estabelecendo que "se até o seu término o livramento não é revogado, considera-se extinta a pena privativa de liberdade". No mesmo sentido, o artigo 146 da LEP dispõe que será "julgada extinta a pena privativa de liberdade, se expirar o prazo do livramento sem revogação".
+Prevalece a regra de que deve ser exigido o regular cumprimento da pena, e isso significa que a desconsideração do período em que o reeducando deixou de cumprir as condições impostas independe da existência de previsão legal. Portanto, para o afastamento da regra (ou seja, para que seja computado como pena cumprida o período de descumprimento) é que se exige a existência de previsão legal, e não o contrário.
+Dada a ausência de previsão legal autorizando a contagem do período de descumprimento como pena cumprida para o sentenciado que cumpre a sua pena no regime aberto, não se aplica a Súmula 617 do Superior Tribunal de Justiça (STJ), nem a disciplina dos artigos 90 do Código Penal e 146 da Lei de Execução Penal.
+Nesse prumo, a ausência de suspensão da prisão domiciliar é irrelevante para que se desconsidere, como pena cumprida, o lapso temporal em que o sentenciado deixou de cumprir as condições fixadas pelo Juízo da execução.
+ ..
+Nesse quadro, o período em que o agravante esteve em fuga, uma vez que havia mandado de prisão expedido em seu desfavor, não pode ser considerado como tempo de pena cumprida (sequencial 196.1 - SEEU).
+Registre-se que a fuga interrompe a execução da pena e o reinício ocorre a partir da data da última prisão, que deve ser a data-base para a contagem do prazo para novos benefícios.
+ ..
+Nesse contexto, o período compreendido entre 13.07.2023 a 06.08.2023, em que o sentenciado se furtou do cumprimento da pena, não deve efetivamente ser computado no cálculo do tempo de pena cumprida.
+A decisão agravada está em conformidade com os precedentes dos tribunais superiores e deste egrégio Tribunal de Justiça, devendo ser mantida em sua integralidade.
+O caso comporta solução antecipada, visto que encontra amparo em pacífica jurisprudência desta Corte, além da questão se restringir, exclusivamente, em discussão jurídica relativa à possibilidade de computar como pena cumprida o período em que o reeducando deixa de cumprir as condições impostas em audiência admonitória.
+Impossível computar o intervalo de descumprimento do regime aberto como pena efetivamente cumprida. O Juiz da VEC registrou a interrupção da execução em 13/7/2023. A decisão não é ilegal, pois o reeducando descumpriu o recolhimento domiciliar e, em tese, estava cientificado de que a transgressão dessa condição acarretaria a suspensão do benefício, com a regressão cautelar de regime e consequente recolhimento ao cárcere.
+Deveras: "Se o apenado descumpre as condições do regime aberto ou não comparece para dar cumprimento às condições impostas, não há falar em extinção da pena pelo cumprimento da pena remanescente, o qual sequer se inicia efetivamente em tais casos. Precedente do STJ. (HC 380.077/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017)" (HC n. 482.915/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 27/6/2019).
+A propósito: "Se o paciente não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida" (AgRg no HC n. 606.027/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJe de 10/2/2021).
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
