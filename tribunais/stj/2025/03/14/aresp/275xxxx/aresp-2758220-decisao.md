@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONSELHO FEDERAL DE ENGENHARIA E AGRONOMIA - CONFEA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão exarado pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 398):
+CONSTITUCIONAL. ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA. REGISTRO. ENGENHEIRO AGRIMENSOR. DIPLOMA REVALIDADO POR UNIVERSIDADE PÚBLICA BRASILEIRA. LEI 5.194/66. LEI 9.436/96. IMPOSIÇÃO DE RESTRIÇÕES PELO CONFEA. ILEGALIDADE. (6)
+1. Há que considerar os requisitos legais, porém sem ofender o direito subjetivo da parte impetrante ao livre exercício das suas atividades profissionais. No teor da Lei 5.194/66 e da Lei 9.436/96 exige-se, apenas, que o diploma expedido por instituição de ensino superior estrangeira seja revalidado por universidade pública brasileira.
+2. Observados os requisitos legais, a parte impetrante possui direito ao livre exercício profissional. Sendo vedado ao CONFEA, para a emissão do registro profissional, a imposição de restrições ou o estabelecimento de critérios sem previsão legal.
+3. Na espécie, o diploma do apelado foi revalidado pela Universidade de Brasília. Portanto, concluiu o magistrado a quo com acerto, verbis: "Sendo assim, exsurge daí seu direito subjetivo à inscrição no Conselho profissional respectivo, em cujas atribuições legais não consta a análise do acerto ou não da revalidação do diploma pela instituição de ensino superior". (AC 0006961- 30.2007.4.01.3400/ DF, Rel. DESEMBARGADOR FEDERAL REYNALDO FONSECA, Rel. Conv. JUÍZA FEDERAL MARIA CECÍLIA DE MARCO ROCHA (CONV.), SÉTIMA TURMA, e-DJF1 p.859 de 06/02/2015).
+4. Apelação e remessa oficial não providas.
+Em seu recurso especial de fls. 409-427, o recorrente afirma que o acórdão recorrido violou os artigos 2º, 7º, 9º, 10 , 55 e 58 da Lei 5.194/66 e, "em especial a alínea "f" , do art. 27 e o §3º, do art. 55, da Lei 5.194/66, com base nos quais o Confea editou a Resolução 1007/2003, a qual disciplinou os requisitos para o registro profissional, em especial os art. 4º ao 7º" (sic).
+Alega que o Tribunal a quo desconsiderou os diversos dispositivos legais previamente mencionados, que estabelecem requisitos e documentos necessários para o registro profissional.
+O Tribunal de origem, às fls. 435-436, não admitiu o recurso especial sob os seguintes argumentos:
+(..)
+No que se refere à matéria de fundo objeto da presente controvérsia recursal, o STJ vem entendendo pela incidência da súmula 7 daquela corte que assim preleciona: "A PRETENSÃO DE SIMPLES REEXAME DE PROVA NÃO ENSEJA RECURSO ESPECIAL"; e da aplicação por analogia da súmula 280 do Supremo Tribunal Federal que versa: "POR OFENSA A DIREITO LOCAL NÃO CABE RECURSO EXTRAORDINÁRIO." É o caso dos autos, por demandar análise da Resolução 1007/2003 do CONFEA.
+(..)
+Ante o exposto, não admito o recurso especial.
+Em seu agravo, às fls. 440-449, o agravante afirma não ser o caso de reexame de provas e, ainda, que o "acórdão recorrido negou vigência a comandos legais expressos, que indicam a necessidade de averiguação de capacidade técnica, o que é feito por meio de documentação detalhada da formação. Ao exame judicial cabe verificar se tais medidas são compatíveis com a condição estabelecida pelo legislador".
+Quanto à aplicação da Súmula 280 do STF, por analogia, registra que "o requisito legal referente à capacidade técnica, somente é passível de aferição mediante a análise curricular do egresso, motivo pelo qual a Resolução nº 1.007/2003 do Confea, em caráter de subordinação, desenvolvimento e complementariedade ao caput do art. 2º da Lei nº 5.194/66, somente repete e detalha exigências já previstas em lei".
+É o relatório.
+A insurgência não pode ser conhecida.
+Verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou todos os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) incidência do enunciado 7 da Súmula do STJ, em razão da contenda demandar reexame fático e probatório dos autos; e (ii) aplicação, por analogia, do enunciado 280 da Súmula do STF, em razão do não cabimento de recurso especial por ofensa a direito local.
+Todavia, no seu agravo, a parte deixou de infirmar adequada e detalhadamente o argumento da decisão de inadmissibilidade baseado no óbice da Súmula 7 do STJ. Logo, este fundamento da decisão agravada, à míngua de impugnação específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da d ialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime- se.
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU A FUNDAMENTAÇÃO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
