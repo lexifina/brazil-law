@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BRUNO DE LIMA LUZ e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PROMESSA DE COMPRA E VENDA GRATUIDADE PROCESSUAL REVOGAÇÃO DO BENEFÍCIO AUSÊNCIA DE RECURSO ADEQUADO SEM RECOLHIMENTO DAS CUSTAS INICIAIS INCIDÊNCIA DO ART. 507 DO CPC SENTENÇA DE EXTINÇÃO MANTIDA. APELAÇÃO NÃO PROVIDA.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 2º e 4º, § 1º, da Lei n. 1.060/1950, no que concerne à ocorrência de nulidade processual, diante da revogação da gratuidade de justiça sem a intimação para manifestação dos recorrentes, trazendo a seguinte argumentação:
+O v. Acordão é equivocado e merece reforma visto que seu fundamento, qual seja, r. sentença de fls. 283, revela ocorrência de nulidade processual a qual tem por fundamento a ausência de abertura de prazo para manifestação da impugnação ofertada, fato este que antecede a fase de rediscussão da matéria. (fl. 551).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 10, 98 e 99, § 2º, do Código de Processo Civil, no que concerne à necessidade de deferimento da gratuidade da justiça quando demonstrada a sua hipossuficiência, trazendo a seguinte argumentação:
+Dessa forma, houve clara afronta ao artigo 99, § 2º do Código de Processo Civil, pois não foi determinado que a Recorrente se manifestasse da impugnação do benefício apresentada em contestação, em especial quanto ao preenchimento dos pressupostos para a concessão da gratuidade.
+De tal forma, não há que se falar que os Recorrentes não comprovaram o estado de hipossuficiência, pois foi cumprido o requisito, sem que houvesse no caso em tela qualquer demonstração de suficiência que fundamentasse a decisão do Douto Juízo a quo para indeferimento.
+Assim, não havendo prova em contrário da alegada hipossuficiência o comando do art. 99 do CPC, é de que de ofício será deferida a assistência judiciária.
+Vale mais uma vez lembrar que o pedido de tal benefício, pode ser intentado a qualquer tempo, nos termos do § 1º do artigo 99 do CPC.
+Dessa forma, restou amplamente demonstrada a necessidade de concessão do benefício da assistência judiciária aos Recorrentes, uma vez que a lei prevê devidamente sua concessão, além desta ter devidamente comprovado que está passando por serias dificuldades. (fl. 560).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, em relação ao art. 2º da Lei n. 1.060/1950, não é cabível a interposição de Recurso Especial fundado em dispositivo de lei federal não vigente, seja em razão de a questão fática ou jurídica ter surgido após a sua revogação, seja por ser anterior à sua entrada em vigor.
+Nesse sentido: REsp 1.425.740/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.2.2016; AgRg no AREsp 605.044/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.2.2015; REsp 726.446/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 29.4.2011.
+No mais, quanto à primeira e à segunda controvérsias, o Tribunal a quo se manifestou nos seguintes termos:
+Não vislumbro a presença de qualquer vício no julgado.
+A Turma Julgadora, analisando a questão posta foi clara ao destacar que:
+"Os apelantes requereram, na inicial, os benefícios da justiça gratuita, alegando que não possuem recursos suficientes para pagamento das custas, despesas processuais e honorários de advogado.
+O MM. Juiz "a quo", após a apresentação dos documentos reunidos às fls. 113/120 e 121/128, deferiu a gratuidade processual postulada.
+No entanto, o d. Juízo, por decisão de fl. 283, acolheu a impugnação da ré e revogou o benefício, razão pela qual determinou o recolhimento das custas em 15 dias, sob pena de extinção do feito sem resolução do mérito.
+Conforme consignado na r. sentença, deveriam os interessados interpor agravo de instrumento daquela decisão, no entanto, preferiram peticionar no feito, requerendo a reconsideração do r. despacho interlocutório (fls. 286/290).
+Em que pesem os argumentos dos autores, era mesmo caso de extinção do processo diante do não recolhimento das custas, tendo em vista que os ora apelantes não atenderam a determinação para providenciar o recolhimento das custas e despesas processuais no prazo legal." (fls. 533).
+Não há que se cogitar de nulidade da r. decisão de fls. 283. Nada obstante devidamente intimados, deixaram os interessados transcorrer "in albis" o prazo para recorrer da referida decisão.
+A alegação de irregularidade deve ser feita na primeira oportunidade, cuidando-se, portanto, de matéria preclusa.
+Registro que os embargos de declaração devem atender a requisitos, quais sejam, esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento (artigo 535 do Código Civil de 1.973 e artigo 1.022 do Código de Processo Civil). Tais requisitos não foram identificados por mim no caso concreto. (fl. 541-542, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
