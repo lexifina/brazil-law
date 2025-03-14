@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MARCELA VASSOLER ZUCA FRANCA contra decisão monocrática da Presidência desta Corte (e-STJ fls. 1176-1177), que não conheceu do recurso especial manejado em face de acórdãos do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que mantiveram sua condenação pelo crime de homicídio culposo.
+A parte recorrente requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls. 1182-1188).
+É o relatório.
+Decido.
+Reconsidero a decisão da Presidência e passo a analisar o recurso especial inadmitido.
+Assiste razão à agravante quando alega que "a r. sentença guerreada que restou convalidada pelo e. Tribunal Estadual aumentou a pena-base da recorrente na fração de 2/3 (dois terços) em razão de uma única circunstância judicial negativa".
+De fato, a sentença condenatória exasperou a pena-base em 2/3 apenas com base no vetor da culpabilidade, o que extrapola aquilo que seria razoável, tendo o Relator da apelação, que acabou ficando vencido, reconhecido a "exasperação de forma exagerada, daí porque há que ser reduzida para a fração de aumento de 2/3, para 1/3" (e-STJ fl. 1027). Impõe-se, portanto, a redução da fração de aumento da pena-base para 1/6, segundo a jurisprudência consolidada nesta Corte.
+Noutro giro, a sentença condenatória afastou a existência de confissão nos seguintes termos: "Na segunda fase de dosimetria, não há atenuantes nem agravantes a serem consideradas. Simplesmente não se avalia que houve uma confissão judicial da ré que seguiu se dizendo inocente, e até continuou atribuindo ao ofendido condutas ou condição realmente não provadas pela prova técnica, quando sempre e de novo a ele se referiu como usuário de entorpecentes" (e-STJ fl. 886).
+Sendo assim, tendo as instâncias ordinárias afastado a existência de uma confissão, a desconstituição dessa premissa exigiria nova incursão no conjunto fático-probatório constante dos autos, o que sabidamente é incabível em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+Por fim, observo que a substituição da pena privativa de liberdade por sanções restritivas de direitos foi obstada a pretexto de uma culpabilidade reputada "bastante intensa" (e-STJ fl. 886), fundamento que, por si só, é inidôneo para justificar a imposição de uma pena privativa de liberdade.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, exasperando a pena-base em 1/6 e, mantidos os demais critérios da sentença condenatória, redimensiono a pena da recorrente MARCELA VASSOLER ZUCA FRANCA para 1 ano, 6 meses e 20 dias de detenção em regime aberto, substituída por duas penas restritivas de direitos (art. 44, § 2º, do Código Penal), a serem definidas pelo juízo da execução.
+Publique-se. Intimem-se.
+ EMENTA
