@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ROGER RODRIGO DE CAMARGO ARISTIMUNHA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, em decorrência do julgamento da apelação criminal n. 0900873-68.2024.8.12.0019.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara Criminal da Comarca de Ponta Porã, na ação penal n. 0900873-68.2024.8.12.0019, pela prática do delito previsto no artigo 33, caput, da Lei 11.343/06, à pena de 05 (cinco) anos e 10 (dez) meses de reclusão e pagamento de 583 (quinhentos e oitenta e três) dias-multa, em regime fechado (fls. 34-38).
+A defesa interpôs apelação criminal ao Tribunal de Justiça do Estado do Mato Grosso do Sul, que negou provimento ao recurso (fls. 22-26).
+Na presente impetração, alega-se que houve indevida exasperação da pena-base em razão da quantidade de droga apreendida, configurando bis in idem, pois o mesmo fator foi utilizado para afastar o tráfico privilegiado na terceira fase da dosimetria (fls. 11-12). Sustenta-se que o paciente é primário, de bons antecedentes, e que não há prova idônea de que se dedicava a atividades criminosas ou integrava organização criminosa, sendo indevido o afastamento do benefício do tráfico privilegiado (fls. 8-9). Afirma-se que o paciente atuou de maneira eventual como "mula do tráfico", não se dedicando a atividades criminosas, e que a quantidade de droga não afasta o reconhecimento da minorante do tráfico privilegiado (fls. 14-15).
+Requer-se, ao final, a concessão da ordem para reconhecer a incidência da causa especial de diminuição de pena do §4º do artigo 33 da Lei 11.343/2006, com o consequente redimensionamento da pena e do regime inicial prisional.
+O Ministério Público Federal opinou pela denegação (fls. 60-64).
+É o relatório. DECIDO.
+A controvérsia nos autos refere-se a uma possível ilegalidade flagrante, consubstanciada na negativa à causa especial de diminuição de pena do §4º do artigo 33 da Lei 11.343/2006.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem ofício, em observância ao §2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor compreensão, os fundamentos empregados na decisão colegiada impugnada (fls. 22-26):
+ ..
+A dedicação a atividades criminosas pode ser demonstrada por outras provas que não a pura e simples condenação anterior. Nem mesmo o desempenho de atividade remunerada lícita, fosse esse o caso, impediria a concomitante dedicação a atividades criminosas do réu, como é o caso dos autos em que o acusado foi surpreendido com considerável quantidade de maconha, a qual estava sendo transportada para esta Capital.
+Ademais, embora primário e de bons antecedentes, é certo que a prova evidencia sua participação, ainda que indiretamente, na "cadeia do crime", ao menos colaborando com organização criminosa e causando males incomensuráveis a toda sociedade, o que torna inviável a concessão da benesse prevista no art. 33, § 4º, da Lei n.º 11.343/06.
+Sabidamente, a referida causa de diminuição visa beneficiar os traficantes de primeira viagem que, seduzidos pela oferta do dinheiro fácil, acabam ingressando na vida criminosa, vez ou outra com pequenas quantidades de droga, capaz de lhe assegurar a própria subsistência, o que não ocorre no caso em tela como já esclarecido.
+ ..
+Feitas essas considerações, resta claro que o réu não têm direito à benesse prevista no art. 33, § 4º, da Lei n.º 11.343/06. No mais, inalterada a sentença, sem razão o pleito para abrandamento de regime inicial de cumprimento de pena, eis que presente a preponderante negativa da grande quantidade de droga, nos termos do art. 33, § 3º, do Código Penal.
+ ..
+O que se observa na presente impetração é que a defesa utiliza o habeas corpus como se fosse um segundo recurso de apelação, buscando um efeito devolutivo amplo incompatível com esse remédio constitucional, com o objetivo de reanalisar todos os fatos e provas já examinados pelo Tribunal de Apelação.
+A jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de que o habeas corpus não é o meio adequado para se buscar a reclassificação da conduta, uma vez que essa pretensão exige o reexame de fatos e provas. A esse respeito:
+ ..
+1. O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+No caso concreto, as instâncias originárias concluíram pela integração do paciente em organização criminosa em razão da participação com outras pessoas em complexa logística para o transporte de elevada quantidade de entorpecente - 596,3 quilos de Cannabis Sativa L. (fl. 35) - não havendo dúvidas que o paciente não é uma mera "mula" do tráfico ou um criminosos eventual, apesar de tecnicamente primário.
+De toda sorte, não vislumbro nenhuma ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
