@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE SÃO LUIS/MA contra acórdão prolatado, por unanimidade, pela 2ª Câmara de Direito Público do Tribunal de Justiça do Estado do Maranhão, no julgamento de apelação, assim ementado (fls. 399/430e):
+DIREITO ADMINISTRATIVO E CONSTITUCIONAL. APELAÇÃO CÍVEL. AÇÃO DE TUTELA DE URGÊNCIA C/C PEDIDO DE LIMINAR. DESOCUPAÇÃO DE IMÓVEIS EM ÁREA DE RISCO. OBRIGAÇÃO DO MUNICÍPIO DE PROMOVER REMOÇÃO E ASSEGURAR O DIREITO À MORADIA SEGURA. SENTENÇA NÃO ULTRA PETITA. MANUTENÇÃO DA DECISÃO. DESPROVIMENTO.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 98, § 3º, do Código de Processo Civil.
+Alega que o acórdão isentou os Recorridos ao pagamento dos honorários de sucumbência, dada a concessão dos benefícios da Justiça gratuita.
+Sustenta que deve haver a suspensão da exigibilidade da obrigação até que se altere a condição financeira do beneficiário e a isenção, portanto, não encontra amparo legal.
+Com contrarrazões (fls. 438/442e), o recurso foi admitido (fls. 444/447e).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 472/477e).
+Feito breve relato, decido.
+Por primeiro, nos termos do art. 932, III e IV, do estatuto processual, combinado com os arts. 34, XVIII, a e b, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, respectivamente, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como a negar provimento a recurso ou a pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+O art. 98, § 3º, do Código de Processo Civil disciplina:
+Art. 98. A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei.
+(..)
+§ 3º Vencido o beneficiário, as obrigações decorrentes de sua sucumbência ficarão sob condição suspensiva de exigibilidade e somente poderão ser executadas se, nos 5 (cinco) anos subsequentes ao trânsito em julgado da decisão que as certificou, o credor demonstrar que deixou de existir a situação
+O Tribunal de origem assim decidiu a controvérsia (fls. 399/430e):
+Por fim, o Município também recorreu quanto à ausência de condenação dos réus em honorários sucumbenciais. Entretanto, o art. 98, § 3o do CPC é claro ao prever que, quando a parte é beneficiária da justiça gratuita, a exigibilidade dos honorários fica suspensa até que se demonstre alteração na situação econômica do beneficiário. No presente caso, os réus são pessoas de baixa renda, comprovadamente vulneráveis, e a justiça gratuita lhes foi concedida com base nessa situação. Portanto, a decisão de não condenar os réus em honorários está corretamente fundamentada, não havendo o que reformar nesse ponto.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual é possível a fixação dos honorários de sucumbência quando a parte recorrida for beneficiária da gratuidade da justiça, sob condição de exigibilidade, nos termos do art. 98, § 3º, do Código de Processo Civil.
+Nesse contexto:
+AGRAVO INTERNO DA UNIÃO. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. CABIMENTO. AGRAVO PROVIDO.
+1. É devida a fixação de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, em caso de indeferimento liminar, não conhecimento integral ou desprovimento dos embargos de divergência, sendo dispensada a comprovação do trabalho adicional do advogado do embargado, quando se tratar de recurso interposto contra acórdão publicado na vigência do CPC de 2015 e houver condenação em honorários advocatícios desde a origem.
+Nesse sentido: AgInt nos EAREsp 762.075/MT, Rel. p/ acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 7/3/2019.
+2. No caso, o arbitramento dos honorários advocatícios sucumbenciais pelo Juízo a quo e as subsequentes majorações pelo TRF da 2ª Região e pelo STJ não ensejaram fossem alcançados os limites percentuais de que tratam os §§ 2º, 3º, 4º, III, e 6º do artigo 85 do CPC de 2015.
+Desse modo, é devida a majoração dos honorários advocatícios na forma do § 11 do referido dispositivo legal, em razão do indeferimento liminar dos embargos de divergência e do preenchimento dos requisitos acima delineados.
+3. O beneficiário da justiça gratuita não tem direito à isenção da condenação nas verbas de sucumbência, sendo assegurada por lei apenas a suspensão do pagamento pelo prazo prescricional de cinco anos, caso persista a impossibilidade de satisfação da dívida, nos termos do art. 12 da Lei 1.060/50 e do art. 98, §§ 2º e 3º, do CPC/2015.
+4. Agravo interno provido, determinando-se a majoração dos honorários advocatícios em 1%, ressalvando-se a concessão de assistência judiciária gratuita à autora (art. 98, § 3º, do CPC de 2015).
+(AgInt nos EDcl nos EDv nos EAREsp n. 1.653.223/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 11/5/2021, DJe de 17/5/2021.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. SITUAÇÃO DE MISERABILIDADE NÃO COMPROVADA. REQUISITOS NÃO PREENCHIDOS. ALTERAÇÃO DO JULGADO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Hipótese em que a Corte de origem, com apoio no contexto fático-probatório constante dos autos, concluiu não estar configurado o requisito de miserabilidade a justificar a concessão do benefício assistencial pleiteado. Para acolher a pretensão recursal e adotar entendimento diverso, seria necessário o reexame de fatos e provas constantes nos autos, o que é inviável em recurso especial nos termos da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+2. A parte beneficiária da gratuidade de justiça tem a seu favor a suspensão da exigibilidade dos honorários recursais, nos termos do art. 98, § 3º, CPC. O beneficiário da justiça gratuita não é isento do pagamento de honorários, apenas a exigibilidade do respectivo pagamento deve ficar suspensa até que cesse a situação de hipossuficiência, respeitado o prazo prescricional da condenação.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.035.906/MS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para condenar a parte recorrida a responder pelas obrigações decorrentes da sucumbência, condenação esta sob condição suspensiva de exigibilidade, observada a previsão da parte final do art. 98, § 3º, do Código de Processo Civil.
+Publique-se e intimem-se.
+EMENTA
