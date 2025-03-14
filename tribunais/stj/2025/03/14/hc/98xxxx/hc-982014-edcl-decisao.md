@@ -1,0 +1,15 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO opõe embargos de declaração contra decisão de minha relatoria, em que concedi a ordem de habeas corpus a fim de aplicar a minorante do tráfico.
+O embargante aponta erro material na decisão embargada, que gerou premissa equivocada na qual se baseou a concessão da ordem.
+Requer, assim, o acolhimento dos embargos, para que seja sanado o vício apontado e, por conseguinte, afastada a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas.
+Decido.
+Com a razão o Ministério Público.
+Ao contrário do que mencionei em decisão embargada, em poder do embargado foram apreendidas (fl. 56):
+ ..  drogas consistentes em 562,73g (quinhentos e sessenta e dois gramas e setenta e três centigramas) de tetrahidrocannabinol (THC/maconha), acondicionados em 135 (cento e trinta e cinco segmentos plásticos); 2.938.56g (dois mil novecentos e trinta e oito gramas e cinquenta e seis centigramas) de tetrahidrocannabinol (THC/maconha), acondicionados em 03 (três) segmentos plásticos vedados por fitas adesivas; 177,68g (cento e setenta e sete gramas e sessenta e oito centigramas) de cocaína, acondicionados em 1.324 (mil trezentos e vinte e quatro) microtubos plásticos; 39,63g (trinta e nove gramas e sessenta e três centigramas) de cocaína sob a forma de "crack", acondicionados em 97 (noventa e sete) microtubos plásticos (conforme boletim de ocorrência de fls. 3/8, auto de exibição e apreensão a fls. 23/24 e laudo de constatação de fls. 41/46)
+Além disso, conforme denúncia, foram localizadas na residência do acusado Afonso, R$ 408,00, "duas balanças de precisão, dois cadernos de anotações e seis rádios transmissores" (fl. 57).
+Esclareço que, para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+Ademais, sanado o erro material, é caso de negativa de incidência da minorante do tráfico. Isso porque, de acordo com a jurisprudência deste Superior Tribunal, "Podem ser considerados como outros elementos para afastar a minorante o modus operandi, a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições - especialmente quando o tráfico foi praticado no contexto de delito de armas ou quando, de modo fundamentado, ficar evidenciado o envolvimento do agente com organização criminosa" (AgRg no HC n. 749.116/RJ, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 28/10/2022, destaquei).
+Desse modo, verifica-se que o contexto fático dos autos é suficiente para levar à conclusão de que o réu seria dedicado a atividades criminosas, haja vista a apreensão de petrechos do tráfico.
+À vista do exposto, acolho os embargos de declaração, para, atribuindo-lhe efeitos infringentes, sanar o equívoco apontado e, por conseguinte, denegar a ordem.
+Publique-se e intimem-se.
+EMENTA
