@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALBERTO YOUSSEF e RAFAEL ANGULO LOPEZ contra decisão monocrática de minha relatoria que não conheceu do agravo em recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado:
+"EMBARGOS INFRINGENTES E DE NULIDADE. ABSOLVIÇÃO SUMÁRIA. INSURGÊNCIA MINISTERIAL. APELAÇÃO CRIMINAL PARCIALMENTE PROVIDA. PROSSEGUIMENTO DA AÇÃO PENAL QUANTO AO CRIME DE CORRUPÇÃO ATIVA. TESES DE INÉPCIA DA DENÚNCIA, ATIPICIDADE DA CONDUTA E AUSÊNCIA DE JUSTA CAUSA. REQUISITOS DO ART. 41 DO CPP ATENDIDOS. MANUTENÇÃO DO ACÓRDÃO. IMPROVIMENTO DOS EMBARGOS.
+1. Preenchidos os requisitos do art. 41, do CPP no que se refere à descrição do fato delituoso com todas as suas circunstâncias, além da indicação dos agentes e a classificação do crime, afasta-se a alegação de inépcia de denúncia formulada em favor dos embargantes.
+2. O crime de corrupção ativa (art. 333, do CP) configura-se com o oferecimento de vantagem indevida a servidor público, ainda que de forma indireta, sendo irrelevante a entrega ou aceitação da oferta, por se tratar de crime formal. Nesse sentido, revela-se incabível a tese de que o crime de corrupção ativa demandaria a prática de ato de ofício por parte do servidor público ou mesmo nexo com a prática do crime na modalidade passiva. Os crimes de corrupção ativa e passiva são autônomos, podendo coexistir de forma independente, com cada agente respondendo pela conduta praticada isoladamente.
+3. A utilização de verbos que não sejam idênticos aos núcleos do tipo incriminador, não enseja, por si só, o reconhecimento da tese de atipicidade da conduta, quando da leitura e interpretação da denúncia se extrai a conclusão quanto ao enquadramento legal do crime imputado (art. 333, do CP).
+4. Afasta-se a tese de atipicidade do crime de corrupção ativa por imputação de fatos posteriores ao exaurimento do referido delito (post factum impunível), considerando que os embargantes supostamente aderiram à conduta do agente corruptor, como intermediários, devendo responder como coautores ou partícipes do delito em comento. Precedentes.
+5. Extrai-se dos autos a presença de suporte probatório suficiente para embasar a denúncia quanto ao crime de corrupção ativa imputado aos embargantes, em especial os depoimentos colhidos na fase pré-processual, aliados às informações obtidas junto aos órgão públicos envolvidos na investigação (TJMA e Secretaria de Estado de Transparência e Controle), os quais dão conta do oferecimento e entrega de vantagem indevida para viabilização de acordo para pagamento de precatório, em prejuízo ao erário estadual. Tese de ausência de justa causa para a denúncia rejeitada.
+6. Embargos Infringentes e de Nulidade conhecidos e não providos."
+Os embargantes alegam que "a decisão ora embargada deixou de analisar integralmente as razões contidas no Agravo, as quais, repise-se, rebatem e rechaçam pormenorizadamente cada um dos fundamentos invocados pelo Juízo a quo para inadmitir o Recurso Especial" (e-STJ fls. 3747-3758).
+É o relatório.
+Decido.
+Não vislumbro os apontados vícios na decisão embargada .
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de inconformismo da parte.
+Não há nenhuma situação que dê amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de declaração revelam, em verdade, o mero inconformismo da parte com o resultado do julgamento, legítimo, mas impróprio nesta via recursal.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
