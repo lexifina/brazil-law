@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO MARANHÃO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado (fls. 1.066/1.067):
+AGRAVO INTERNO. DECISÃO DE RETRATAÇÃO FACE POSSÍVEL OFENSA A TESE FIXADA EM RECURSO REPETITIVO. COMPETÊNCIA DO ÓRGÃO COLEGIADO. ARTIGO 1.030, II CPC. OBSERVÂNCIA. RECURSO EXTRAORDINÁRIO Nº 837311 (TEMA 784). PRETERIÇÃO ARBITRÁRIA E IMOTIVADA RECONHECIDA. AGRAVO CONHECIDO E DESPROVIDO NO MÉRITO.
+I. Conforme dispõe o artigo 1.030, II DO CPC, recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos.
+II. Embora se conheça a tese firmada no julgamento de Recurso Extraordinário nº 837311, tem-se que o Acórdão combatido delimitou-se à hipótese de preterição arbitrária e imotivada, diante da criação de vagas que atingiram a colocação dos candidatos, o que leva a não retratação do anterior julgado.
+III. Agravo Interno desprovido.
+A parte recorrente sustenta a violação do art. 1.030, II, do Código de Processo Civil (CPC). Alega (fl. 1.074):
+Observa-se que os autos retornaram à Presidência do TJ/MA sem que o juízo de retratação tenha sido realizado pelo órgão fracionário competente. A decisão monocrática ora agravada e o Acórdão então recorrido, apenas concluíram que o julgado outrora fixado supostamente não violaria a tese firmada no Tema 784 do STF.
+Todavia, sabe-se que cabe ao órgão colegiado prolator do acórdão recorrido realizar o juízo de retratação e não ao desembargador monocraticamente. A câmara colegiada teve, então, mais uma vez a oportunidade de corrigir o aludido vício, porém, decidiu por reiterar os termos da decisão monocrática ora agravada, mantendo existente, ainda, o vício ora elencado pelo Estado.
+Com efeito, registra-se que o julgamento do recurso de apelação e dos embargos de declaração foi realizado pelos Senhores Desembargadores da Segunda Câmara Cível do Tribunal de Justiça do Estado do Maranhão.
+Embora a regra processual prescreva que cabe ao órgão julgador realizar o juízo de retratação, no presente caso, o Excelentíssimo Desembargador relator realizou indevidamente tal juízo de forma monocrática, deixando de encaminhar os autos para o órgão colegiado competente.
+Requer o acolhimento da pretensão recursal, para reformar-se o acórdão recorrido, julgando-se improcedente a demanda.
+A parte adversa apresentou contrarrazões (fls. 1.081/1.093).
+O recurso foi admitido na origem (fls. 1.095/1.099).
+É o relatório.
+Nos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fl. 1.060/1.061):
+Inicialmente, registro que o julgamento monocrático proferido por esta relatoria está perfeitamente de acordo com o entendimento desta Corte e dos Tribunais Superiores, respeitando a ordem processual e a matéria fática trazida nos autos, não se contrapondo em momento algum com os princípios do contraditório e ampla defesa, utilizando a melhor solução para o caso em concreto.
+Destarte, a apreciação unipessoal, pelo relator, do mérito do recurso, quando obedecidos todos os requisitos para a sua admissibilidade, bem como observada a jurisprudência dominante não encontra óbice legal, valendo ressaltar, que a reapreciação da matéria pelo órgão colegiado, no julgamento de agravo interno, supera eventual violação ao aludido princípio, sem que tal situação caracterize violação ao devido processo legal ou ofensa ao princípio da colegialidade.
+E que com a edição da súmula 568 do STJ, em 17/03/2016, não restam mais dúvidas quanto ao posicionamento monocrático do relator quando houver entendimento dominante acerca do tema.
+ ..
+Assim sendo, analisando detidamente a decisão agravada, constato que inexistem vícios na decisão recorrida a ensejar a modificação do julgado, porquanto, a fundamentação adotada é clara e suficiente para respaldar a conclusão alcançada.
+O que percebo é a intenção do agravante em rediscutir matérias já apreciadas anteriormente, como a preterição imotivada apta a determinar a nomeação dos Agravados, tendo claro caráter de rediscussão do julgado.
+Mantenho meu entendimento de que, no presente caso, não cabe a aplicação da tese assentada no Tema 784 (RE 837.311).
+Repito que, embora se conheça a tese firmada no julgamento do Recurso Extraordinário nº 837311, tenho que o acórdão combatido delimitou-se à hipótese de preterição arbitrária e imotivada diante da criação de vagas que atingiram a colocação dos candidatos.
+Firme nas razões, tenho que o julgado não fere a tese firmada no Tema 784, haja vista ter havido, tão somente, preterição imotivada apta a determinar a nomeação.
+Portando, não havendo no agravo interno argumentos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, enseja o seu não provimento - sem destaque no original
+Na peça recursal, todavia, a parte recorrente não se insurge contra aquele fundamento, qual seja, de que "a reapreciação da matéria pelo órgão colegiado, no julgamento de agravo interno, supera eventual violação ao aludido princípio, sem que tal situação caracterize violação ao devido processo legal ou ofensa ao princípio da colegialidade" (fl. 1.060), limitando-se a afirmar, em síntese, que: "Embora a regra processual prescreva que cabe ao órgão julgador realizar o juízo de retratação, no presente caso, o Excelentíssimo Desembargador relator realizou indevidamente tal juízo de forma monocrática, deixando de encaminhar os autos para o órgão colegiado competente" (fl. 1.074).
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
