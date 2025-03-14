@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais (fls. 403/405) que não admitiu recurso especial, ao seguinte fundamento: "A alegada afronta ao disposto no artigo 1.022 do CPC não viabiliza o trânsito do recurso. O Superior Tribunal de Justiça possui entendimento de que não lhe compete examinar omissão de matéria constitucional, sob pena de usurpar a competência do Supremo Tribunal Federal na verificação do juízo de admissibilidade dos recursos extraordinários" (fl. 404), fazendo menção a julgado do STJ a respeito (AREsp nº 1.303.124/SP, Rel. Min. Francisco Falcão, DJe de 26/09/2019).
+Nas razões de agravo em recurso especial, a parte alega, em síntese, que "o que  ..  busca com a interposição deste apelo especial não é que esse e. Superior Tribunal de Justiça examine a omissão quanto a matéria constitucional, e sim, quanto a ofensa da Corte local por negar a suprir as omissões do julgado, vez que rejeitou os embargos opostos pela agravante" (fl. 490).
+Contraminuta às fls. 507/516.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi adequadamente impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, tendo a inadmissão sido ancorada na constatação de que "O Superior Tribunal de Justiça possui entendimento de que não lhe compete examinar omissão de matéria constitucional, sob pena de usurpar a competência do Supremo Tribunal Federal na verificação do juízo de admissibilidade dos recursos extraordinários" (fl. 404), fazendo, inclusive, menção a julgado do STJ, a singela alegação do agravante de que "o que  ..  busca com a interposição deste apelo especial não é que esse e. Superior Tribunal de Justiça examine a omissão quanto a matéria constitucional, e sim, quanto a ofensa da Corte local por negar a suprir as omissões do julgado, vez que rejeitou os embargos opostos pela agravante" (fl. 490) não se mostra suficiente para combatê-la. Inteligência da Súmula 284/STF.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
