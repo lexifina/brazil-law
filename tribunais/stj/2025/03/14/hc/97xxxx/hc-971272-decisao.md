@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JEFFERSON OLIVEIRA SALES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA.
+Consta dos autos que em 28/8/2024 o paciente foi preso em flagrante como incurso no art. 33 da Lei n. 11.343/2006, sobrevindo decisão que converteu a custódia em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 108-113.
+No presente writ, a defesa sustenta que o decreto constritivo careceria de fundamentação idônea, não estando presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+Afirma que a quantidade de entorpecente apreendido seria ínfima.
+Argumenta que o réu está encarcerado desde 28/8/2024, lapso temporal que seria desproporcional e revelaria o excesso de prazo da segregação antecipada.
+Alega que a medida extrema poderia ser substituída por cautelares diversas, notadamente diante dos predicados pessoais favoráveis do acusado.
+Requer a revogação da prisão preventiva do paciente, ou, subsidiariamente, a sua substituição por medidas cautelares diversas.
+Pedido de liminar indeferido às fls. 130-131.
+Informações prestadas às fls. 136-149. O Ministério Público Federal manifestou às fls. 154-162, "pelo não conhecimento do habeas corpus".
+É o relatório. DECIDO.
+Primeiramente, quanto ao alegado excesso de prazo na instrução criminal, da leitura do acórdão objurgado verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Sobre o tema, os seguintes precedentes: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+Quanto a segregação cautelar, no caso em tela, tenho que a decisão que decretou a prisão preventiva do paciente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pelo risco de reiteração delitiva, uma vez que infere-se da certidão de antecedentes criminais do paciente que:
+"ele figura como réu nos autos da Ação Penal n. 0801050-31.2021.815.0541 (Vara Única de Pocinhos-PB), pela suposta prática do crime previsto no art. 33, caput, da Lei Federal n. 11.343/06, bem como nos autos da Ação Penal n. 0828100-03.2021.815.0001 (4ª Vara Criminal de Campina Grande/PB), pela suposta prática do crime previsto no art. 157, § 1º, inciso II, § 2º-A, inciso I, do CP. Em paralelo, figura como investigado nos autos do Inquérito Policial n. 0801003-57.2021.815.0541 (Vara Única de Pocinhos/PB) pela suposta prática do crime previsto no art. 157, § 1º, inciso II, § 2º-A, inciso I, do CP. Tramita, ainda, em seu desfavor a MPU n. 0800591-24.2024.815.0541, cujo tipo penal de referência é o art. 129, § 13, do CP" - fl. 29.
+Circunstâncias que denotam sua contumácia delitiva e a necessidade da manutenção da segregação cautelar.
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
