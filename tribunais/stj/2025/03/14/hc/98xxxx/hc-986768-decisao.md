@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JAIME DOS SANTOS, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (agravo em execução penal n. 5005227-93.2024.8.19.0500).
+Consta que foi indeferido o pedido de concessão do benefício de progressão de regime prisional ao paciente, mediante fundamentação concreta (recaptura apenas em 2022 - fl. 13).
+Sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto o paciente teria preenchido todos os requisitos, objetivos e subjetivos, necessários à concessão do benefício de progressão de regime.
+Afirma que não haveria fundamentação idônea para o indeferimento.
+Alega que as faltas foram reabilitadas e que a decisão não apontou nenhum fato capaz de obstar a progressão de regime.
+Requer, liminarmente e no mérito, seja concedido o benefício executório.
+É o relatório. DECIDO.
+No caso, o presente habeas corpus não comporta sequer conhecimento, em razão da reiteração de pedidos no HC n. 973.791/RJ.
+Além disso, o acórdão impugnado é antigo e desatualizado.
+Não obstante tenha havido a repetição de impetração anterior nesta Corte, em face até mesmo de igual ato coator, as razões de mérito para já foram exaustivamente esposadas no feito conexo, tendo em conta a fundamentação da origem ancorada em elementos extraídos da própria execução penal.
+Vejamos o que fora consignado na decisão do feito conexo, em 24/2/2025:
+ ..  In casu, verifica-se que a decisão e o acórdão consideraram que, para além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, não está presente o requisito subjetivo para a progressão de regime, com base em elementos concretos extraídos da execução penal.
+Aqui, os julgados, na ordem (fls. 16 e 13-14):
+ ..  Verifica-se que o caso analisado, pelas suas singularidades, demanda especial rigor na aferição dos requisitos subjetivos e concessão de benefícios que propiciarão maior contato do apenado com a sociedade.
+Como bem destacou o MP, o apenado descumpriu as condições do LC concedido e teve seu benefício revogado, nos termos da decisão de seq. 1.26, mantida em sede de agravo em execução, conforme acórdão juntado na seq. 136.2.
+Assim, deve-se reconhecer que o apenado não possui comportamento satisfatório e que, se posto em liberdade, mesmo que sob a forma de prisão albergue domiciliar, poderá novamente frustrar os objetivos da execução penal, deixando de cumprir as condições de seu benefício além do risco concreto de vulnerar a ordem pública em virtude de eventual reiteração criminosa. (grifei)
+ ..  Não obstante o cumprimento do lapso temporal necessário à progressão para o regime aberto em 28/08/2023, há de se observar no caso concreto que ao apenado fora concedido o benefício do livramento condicional em 25/09/2015, o qual veio a ser revogado por decisão datada de 08/01/2020, em decorrência do descumprimento das condições impostas, sendo ele recapturado somente em 04/08/2022, isto é, mais de dois anos após a data da decisão revogatória, o que, de fato, enseja severas dúvidas quanto ao seu efetivo processo de ressocialização.
+Somado a isso, ao contrário do que se sustenta, o apenado foi classificado em 05/08/2023 na Unidade SEAPEB no índice de comportamento "Ótimo", e não "Excepcional", conforme doc. 146, mas isso tampouco vincula o magistrado à progressão do regime, quando não há fundados indícios de que irá se ajustar, com autodisciplina e senso de responsabilidade, ao novo regime, nos termos do artigo 114 da LEP.
+Ora, considerando a gravidade dos crimes cometidos, a evasão anterior e que o regime pretendido é cumprido sem vigilância alguma, é de se exigir da Autoridade judiciária responsável pela execução da pena extrema cautela, tal como ocorreu no caso em questão.
+Registre-se, por oportuno, que, em casos como este, em que o remanescente a ser cumprido é demasiadamente longo - mais de 38% da pena a cumprir -, a progressão do regime, ao invés de se compatibilizar com os objetivos da pena, transmuda-se, na realidade, em estímulo para eventual nova evasão. (grifei)
+Afere-se, pois, que a negativa de benesse, no caso concreto, se deu por fundamentação idônea, circunstância que evidencia a ausência de ilegalidade ou arbitrariedade na decisão.
+Diante desse cenário, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a reiteração de pedidos, o seguinte julgado deste STJ:
+ ..  No presente caso, não constatada nenhuma flagrante ilegalidade, tem-se que o presente recurso ordinário em habeas corpus não passou de mera reiteração de pedidos no HC n. 719.739/GO, inclusive, impetrado com os mesmos argumentos em geral e em face do mesmo v. acórdão de origem (HC n. 5449889-09.2021.8.09.0000). Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017) (AgRg no RHC n. 161.259/GO, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+Corroborando: AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019; AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 1º/3/2019; e AgRg no AREsp n. 2.355.597/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023.
+Trata-se de hipótese, inclusive, que ocorre até mesmo quando a repetição é realizada contra acórdãos diferentes ou em tipos de recursos e ações diversos (AgRg no RHC n. 156.181/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/2/2022; e EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.249.797/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/6/2023).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
