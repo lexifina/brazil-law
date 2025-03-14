@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de JONATHAN DAMASCENO FERNANDES - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 1502073-46.2022.8.26.0535) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, comporta pronto acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 2ª Vara Criminal da comarca de Guarulhos/SP, ao argumento de ilegalidade na exasperação da pena-base, sem fundamentação, e na utilização de percentual superior a 1/6 em razão da agravante da reincidência, sem justificativa para tanto.
+De fato, em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, do atento exame dos autos, observo a ocorrência do ilegal constrangimento.
+O Magistrado singular, corroborado pelo Tribunal de origem, não logrou fundamentar adequadamente a negativação da circunstância judicial da personalidade, tendo se limitado a referir à sua personalidade deformada (que o leva reiteradamente a violar a lei) e mendaz (pois preferiu mentir em Juízo, contando uma história estúrdia, demonstrando total falta de arrependimento pela nefasta conduta) (fl. 76). Quanto ao acréscimo decorrente da agravante da reincidência, o Magistrado singular aplicou o percentual de 1/2 e o Tribunal reduziu para 1/3, com base apenas no fato de se tratar de reincidência específica, providência inadmissível por este Superior Tribunal.
+Redimensionando-se a reprimenda imposta, temos:
+Reduzindo proporcionalmente a pena-base, em razão do afastamento de uma das três circunstâncias consideradas negativas, fixo-a em 5 anos e 8 meses de reclusão, e 566 dias-multa. Na segunda etapa, incide a agravante da reincidência em 1/6, ficando a pena em 6 anos, 7 meses e 10 dias de reclusão, e 660 dias-multa. Na terceira fase, incide a majorante da participação de menor em 1/6, resultando a pena em 7 anos, 8 meses e 16 dias de reclusão, e 770 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais. Mantido o regime inicial fechado.
+Em face do exposto, concedo liminarmente a ordem impetrada para redimensionar a pena imposta ao paciente em 7 anos, 8 meses e 16 dias de reclusão, e 770 dias-multa, no regime inicial fechado.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. EXISTÊNCIA. SUPERAÇÃO DO ÓBICE QUE SE IMPÕE. DOSIMETRIA DA PENA. REPRIMENDA-BASE. NEGATIVAÇÃO DA PERSONALIDADE SEM FUNDAMENTAÇÃO. AGRAVANTE DA REINCIDÊNCIA. PERCENTUAL SUPERIOR A 1/6 SEM JUSTIFICATIVA. REDIMENSIONAMENTO QUE SE IMPÕE.
+Ordem liminarmente concedida.
