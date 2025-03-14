@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado por Rumo Malha Sul S.A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 31):
+AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE. RUMO MALHA SUL S.A. ART. 109, I, CF. COMPETÊNCIA. JUSTIÇA FEDERAL. ANTT E DNIT. AUSÊNCIA DE INTERESSE NO FEITO. ASSISTÊNCIA. IMPOSIÇÃO DE INGRESSO DE ASSISTENTES. IMPOSSIBILIDADE.
+1. A competência da Justiça Federal para processar e julgar as ações em que figura a União ou entes de sua administração indireta (autarquias, fundações e empresas públicas) é absoluta e se estabelece, em razão das pessoas envolvidas no processo (ratione personae), conforme o art. 109, inciso I, da Constituição Federal.
+2. Ademais, a assistência é modalidade de intervenção de terceiros voluntária (artigos 50 a 55 do CPC/1973 e 119 a 124 do CPC/2015), não cabendo a imposição de ingresso de assistentes, ainda que, eventualmente, possa existir interesse federal envolvido.
+3. Assim, manifestado o desinteresse da ANTT e do DNIT, não remanesce pessoa sujeita à jurisdição federal, razão pela qual deve ser mantida a decisão agravada no ponto em que declinou da competência em favor da Justiça Estadual.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 119 e 124, do CPC; 8º, I, e 22 da Lei n. 11.483/2007, 82, XVII e § 4º, da Lei n. 10.233/2001; 5º, parágrafo único, da Lei n. 9.469/97; 98 e 99 do Código Civil. Sustenta que: (I) todos os bens da antiga RF FSA são bens públicos da União e pertencem ao DNIT por força de lei, o qual, portanto, deve participar das ações possessórias nas quais se discute a respeito dos referidos imóveis; (II) evidencia-se, ainda, o interesse da Agência Nacional de Transportes Terrestres - ANTT, uma vez que cabe a ela o controle patrimonial dos bens operacionais na atividade ferroviária; e (III) "as entidades públicas não são meros assistentes no caso concreto e, portanto, NÃO CONSTITUI HIPÓTESE DE INCIDÊNCIA DOS ARTIGOS 119 E 124 DO CPC." (fl. 63).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+A matéria pertinente aos arts. 8º, I, e 22 da Lei n. 11.483/2007, 82, XVII e § 4º, da Lei n. 10.233/2001; 5º, parágrafo único, da Lei n. 9.469/97; 98 e 99 do Código Civil não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, a questão da competência foi decidida com base em fundamentos eminentemente constitucionais, conforme se constata do seguinte trecho do voto condutor do acórdão (fl. 29):
+A competência da Justiça Federal para processar e julgar as ações em que figura a União ou entes de sua administração indireta (autarquias, fundações e empresas públicas) é absoluta e se estabelece, em razão das pessoas envolvidas no processo (ratione personae), conforme o art. 109, inciso I, da Constituição Federal.
+Assim, não cabe analisar o tema em sede de recurso especial, porquanto a providência implicaria usurpação da competência do Supremo Tribunal Federal.
+Quanto aos arts. 119 e 124 do CPC, colhem-se do acórdão recorrido os seguintes fundamentos (fl. 29):
+Ademais, a assistência é modalidade de intervenção de terceiros voluntária (119 a 124 do CPC/2015), não cabendo a imposição de ingresso de assistentes, ainda que, eventualmente, possa existir interesse federal envolvido.
+Verifica-se, no ponto, a ausência de interesse recursal da parte agravante dada a circunstância de que o acórdão recorrido afastou a imposição de ingresso dos entes públicos na condição de assistentes.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
