@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO JULIO ANDRADE contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SERGIPE que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 202400334767 (fls. 317/336), com a seguinte ementa:
+APELAÇÃO CRIMINAL - FURTO (ART. 155, § 4º, INCISO II, DO CP) - RECURSO EXCLUSIVO DA DFESA - TESE DE INEXISTÊNCIA DE PROVAS E PEDIDO DE DESCLASSIFICAÇÃO PARA CRIME DE FAVORECIMENTO PESSOAL - INVIABILIDADE - PROVAS COLIGIDAS NOS AUTOS QUE DEMONSTRAM A AUTORIA E MATERIALIDADE PARA O CRIME DE FURTO MAJORADO - TESE DE AUSÊNCIA DE INCIDÊNCIA DA QUALIFICADORA DESTREZA - NÃO ACATAMENTO - SUBTRAÇÃO QUE OCORREU SEM QUE VÍTIMA E TERCEIROS PERCEBESSEM A AÇÃO CRIMINOSA - DEMONSTRAÇÃO DE CONHECIMENTO DO RÉU EM DESTRANCAR O VEÍCULO ESPECÍFICO - RECURSO CONHECIDO E DESPROVIDO.
+1. De acordo com o acervo probatório dos autos, a sentença penal condenatória delineou, com precisão, os diversos vetores que demonstram a materialidade do delito e a autoria do réu;
+2. A materialidade do delito exsurge do Inquérito policial n. 2339/2023 (p. 07/21 da ação penal), onde consta o Boletim de Ocorrência n. 00009022/2023-A02 (p. 09 da ação penal) e o Relatório Policial (p. 20/22 da ação penal), além dos depoimentos colhidos na fase de investigação e durante a instrução penal;
+3. No que pertine à autoria delitiva, a prova existente nos autos evidencia, sem qualquer dúvida, ante a confissão do réu;
+4. Quanto ao afastamento da qualificadora de furto cometido com destreza, ficou evidenciado que a vítima estacionou o veículo em rua movimentada e o trancou, mas o réu acionou a tranca e logrou êxito em destravar a porta do automóvel, sem que a sua ação fosse percebida pela vítima e transeuntes, de modo que logrou êxito em subtrair os bens descritos na denúncia, tendo, ainda, demonstrado conhecimento sobre o funcionamento daquele modelo de veículo especificamente, o que ensejou o sucesso na empreitada criminosa;
+5. Recurso conhecido e desprovido.
+No recurso especial (fls. 337/342), a defesa requereu, em síntese, a exclusão da qualificadora da destreza, a compensação da atenuante da confissão espontânea com a agravante da reincidência, bem como o reconhecimento da causa de diminuição do arrependimento posterior.
+Inadmitido o recurso na origem (fls. 357/363), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 369/374).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 399/403), em parecer com a seguinte ementa:
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL COM FUNDAMENTO NO ARTIGO 105, III, "A" DA CF. REFORMA DE DECISÃO QUE INADMITIU RECURSO ESPECIAL. IMPROCEDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS. SÚMULA Nº 182/STJ. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula 7 do Superior Tribunal de Justiça e ausência de prequestionamento dos argumentos lançados nas razões do recurso.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+O agravante não impugnou os demais fundamentos de inadmissão do recurso especial.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
