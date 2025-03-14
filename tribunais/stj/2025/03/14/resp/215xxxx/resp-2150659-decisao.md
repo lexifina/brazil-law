@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JOCELAINE APARECIDA RODRIGUES com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no julgamento da Apelação Criminal n. 5008128-25.2022.4.04.7009.
+Consta dos autos que a recorrente foi absolvida sumariamente da acusação de ter praticado o crime tipificado no art. 334-A, § 1º, I, do Código Penal - CP (contrabando de cigarros), haja vista a atipicidade da conduta reconhecida em razão da aplicação do princípio da insignificância (fls. 152/158).
+Recurso da acusação foi provido para determinar o prosseguimento do feito. O acórdão ficou assim ementado:
+"DIREITO PENAL. CONTRABANDO. CIGARROS. ART. 334-A, §1º, INCISO I, DO CÓDIGO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. QUANTIDADE DE CIGARROS SUPERIOR AO PARÂMETRO DE 1.000 MAÇOS. SENTENÇA ANULADA. RETORNO À ORIGEM.
+1. Seguindo a nova orientação da Terceira Seção do Superior Tribunal de Justiça, que firmou a tese jurídica quanto ao Tema Repetitivo nº 1143, no âmbito dos REsp 1971993/SP e 1977652/SP, o critério agora a ser adotado para o reconhecimento da insignificância no delito de contrabando é a apreensão de no máximo 1.000 (mil) maços e desde que não seja constatada a reiteração da conduta. Os efeitos da decisão foram modulados para que a tese seja aplicada apenas aos feitos ainda em curso na data em que encerrado o julgamento, sendo inaplicáveis aos processos com trânsito em julgado.
+2. É típica a conduta do agente que transporta 1.010 (mil e dez) maços de cigarros estrangeiros indevidamente internalizados no território nacional.
+3. Conquanto a carga apreendida extrapole em pequena medida o limite recentemente estipulado pelo STJ, é de se considerar que se trata de critério objetivo já bastante elastecido, não comportando novas flexibilizações injustificadas, sob pena de se considerar inofensivas condutas que atingem relevantes bens jurídicos tutelados pela norma penal.
+4. Apelação criminal provida. Determinado o retorno dos autos à origem para prosseguimento do exame do mérito" (fl. 234).
+Em sede de recurso especial (fls. 241/253), a defesa apontou a violação ao art. 334-A, § 1º, I, do Código Penal, considerando que "a decisão recorrida afastou a aplicação do princípio da insignificância para afastar a tipicidade da conduta, pois a recorrente estava transportando 1.010 (mil e dez) maços de cigarros, ou seja, 10 (dez) maços de cigarros além do limite mínimo para a atipicidade da conduta" (fl. 245).
+Aduz ser "inconcebível que uma conduta que não gera a persecução do Estado na esfera administrativo-fiscal seja objeto de persecução penal, sobretudo porque, na esteira do já disposto nesta peça processual, o direito penal deve apenas atuar quando evidentemente não há a proteção suficiente dos outros ramos do direito" (fl. 247).
+Requer o restabelecimento da sentença.
+Contrarrazões (fls. 258/263).
+Admitido o recurso no TRF4 (fls. 294/295), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 313/318).
+É o relatório.
+Decido.
+Acerca da pretensão recursal, asseverou o Tribunal a quo:
+" ..
+Por outro lado, verifica-se que a ré foi  agrada transportando 1.010 (mil e dez) maços de cigarros de procedência estrangeira, desacompanhados de documentação hábil a comprovar sua regular internalização no território nacional, quantidade que supera o parâmetro recentemente estipulado pelo STJ - o que, por si só, afasta a aplicação do princípio da insignificância. Tal circunstância não é afetada pelo fato de a carga apreendida extrapolar em pequena medida o mencionado limite, sobretudo considerando tratar-se de critério objetivo já bastante elastecido, não comportando novas flexibilizações, sob pena de se considerar inofensivas condutas que atingem relevantes bens jurídicos tutelados pela norma penal.
+Assim, deve ser provida a apelação criminal do Ministério Público Federal para afastar a aplicação do princípio da insignificância, anulando-se a sentença" (fl. 232).
+Denota-se do excerto acima colacionado que o Tribunal de origem afastou o princípio da insignificância levando em consideração a quantidade de maços de cigarro apreendidos (1.010). Tal posicionamento está em consonância com a jurisprudência desta Corte.
+A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.971.993/SP e do REsp n. 1.977.652/SP, sob o rito dos recursos repetitivos, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Sebastião Reis Júnior, DJe de 19/9/2023, firmou entendimento no sentido consolidado no Tema n. 1143, segundo o qual " o  princípio da insignificância é aplicável ao crime de contrabando de cigarros quando a quantidade apreendida não ultrapassar 1.000 (mil) maços, seja pela diminuta reprovabilidade da conduta, seja pela necessidade de se dar efetividade à repressão ao contrabando de vulto, excetuada a hipótese de reiteração da conduta, circunstância apta a indicar maior reprovabilidade e periculosidade social da ação".
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO DE MIL MAÇOS DE CIGARROS. REITERAÇÃO DELITIVA. NÃO OCORRÊNCIA. HABITUALIDADE. INEXISTÊNCIA. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. NOVO ENTENDIMENTO DESTA CORTE. TEMA REPETITIVO N. 1.143. RESP N. 1.977.652/SP. RECURSO PROVIDO.
+I - "O princípio da insignificância é aplicável ao crime de contrabando de cigarros quando a quantidade apreendida não ultrapassar 1.000 (mil) maços, seja pela diminuta reprovabilidade da conduta, seja pela necessidade de se dar efetividade à repressão ao contrabando de vulto, excetuada a hipótese de reiteração da conduta, circunstância apta a indicar maior reprovabilidade e periculosidade social da ação." (REsp n. 1.977.652/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 13/9/2023, DJe de 19/9/2023), o que, in casu, ocorreu.
+II - Agravo regimental provido para restabelecer o acórdão absolutório proferido pelo TRF da 3ª Região.
+(AgRg no REsp n. 2.050.395/SP, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 15/12/2023; sem grifos no original.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. CONTRABANDO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. NÃO INCIDÊNCIA DO TEMA REPETITIVO N. 1.143 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Mesmo sob a ótica do novo entendimento firmado no Tema Repetitivo n. 1.143 do STJ, o princípio da insignificância não é aplicável ao caso dos autos, uma vez que a quantidade de cigarros apreendida é superior a mil maços.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 2.083.453/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023; sem grifos no original.)
+Incidente, po rtanto, a Súmula n. 83/STJ.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
