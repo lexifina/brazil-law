@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de petição (00177088/2025) na qual se alega, em síntese (e-STJ fl. 1.680):
+Face as circunstâncias, uma vez o novo entendimento do STF sobre o marco inicial da prescrição executória não retroage em relação a trânsitos em julgado para acusação anterior a 11/11/2020, e que neste caso o transitou em 26/01/2015, e que de lá para cá já transcorreu mais de 10 anos, quando o necessário era apenas 8 (oito), resta incontestável a prescrição.
+Posto isto, se requer seja declarada a prescrição da pretensão executória, e julgada extinta a punibilidade do agente na forma do art. 107, IV do CP.
+É o relatório.
+Decido.
+No que se refere ao reconhecimento da prescrição da pretensão executória, tem-se que assiste razão à defesa em relação à impossibilidade de aplicação do precedente da Suprema Corte que entendeu haver necessidade de trânsito em julgado para ambas as partes. Isso porque o trânsito em julgado para acusação aconteceu em data anterior à fixada no julgado do STF, conforme a certidão de e-STJ fl. 993.
+A propósito:
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. MODULAÇÃO DE EFEITOS PELO STF (TEMA 788/STF). APLICAÇÃO A PROCESSOS COM TRÂNSITO EM JULGADO PARA A ACUSAÇÃO ATÉ 11/11/2020. RECONHECIMENTO DA PRESCRIÇÃO. EXTINÇÃO DA PUNIBILIDADE. RECURSO PROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão que rejeitou o reconhecimento da prescrição da pretensão executória, ao considerar como marco inicial da contagem do prazo o trânsito em julgado da condenação para ambas as partes, ocorrido em 2/2/2022, e não o trânsito em julgado para a acusação, ocorrido em momento anterior (27/8/2015). II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se o termo inicial da prescrição da pretensão executória deve ser fixado na data do trânsito em julgado para a acusação ou para ambas as partes, considerando a modulação de efeitos estabelecida pelo STF no Tema 788. III. RAZÕES DE DECIDIR
+3. O Supremo Tribunal Federal, ao julgar as ADCs 43, 44 e 54 (Tema 788/STF), fixou que a prescrição da pretensão executória tem como termo inicial o trânsito em julgado da condenação para ambas as partes. Contudo, em decisão de modulação de efeitos (julgada em 3/7/2023), determinou que tal entendimento não se aplica aos processos cujo trânsito em julgado para a acusação ocorreu até 11/11/2020, prevalecendo, nesses casos, a data do trânsito em julgado para a acusação como marco inicial da prescrição.
+4. No caso concreto, o trânsito em julgado para a acusação ocorreu em 27/8/2015, antes da data fixada na modulação (11/11/2020), devendo prevalecer tal marco inicial para contagem do prazo prescricional.
+5. Considerando a pena aplicada de 3 anos, 2 meses e 12 dias, atrai-se a aplicação do art. 109, IV, do Código Penal, que fixa o prazo prescricional em 8 anos, reduzido à metade nos termos do art. 115 do Código Penal, em razão da idade superior a 70 anos da recorrente, resultando em prazo prescricional de 4 anos.
+6. Como o trânsito em julgado para a acusação ocorreu em 27/8/2015, o prazo prescricional de 4 anos transcorreu integralmente antes da presente data, configurando a prescrição da pretensão executória.
+7. A manutenção da execução penal em tais circunstâncias violaria o princípio da segurança jurídica e os preceitos fixados pelo Supremo Tribunal Federal no Tema 788/STF. IV. RECURSO ESPECIAL PROVIDO PARA RECONHECER A PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA E, CONSEQUENTEMENTE, DECLARAR EXTINTA A
+PUNIBILIDADE DE ZOE DOMINGUES DE FREITAS E CASTRO, COM FUNDAMENTO NO
+ART. 107, IV, DO CÓDIGO PENAL.
+(REsp n. 2.084.413/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E POSSE ILEGAL DE MUNIÇÕES DE USO RESTRITO. OMISSÃO. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. DATA DO TRÂNSITO EM JULGADO PARA ACUSAÇÃO TENDO EM VISTA O MARCO TEMPORAL FIXADO PELO STF. IMPOSSIBILIDADE DE DECLARAÇÃO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NECESSIDADE DE MAIORES INFORMAÇÕES. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. No tocante ao pedido de reconhecimento da prescrição da pretensão executória, tem-se que assiste razão à defesa em relação à impossibilidade de aplicação do precedente da Suprema Corte (Tema 788 - ARE n. 848.107) que entendeu pela necessidade de trânsito em julgado para ambas as partes. Isso porque o trânsito em julgado para acusação aconteceu em data anterior à fixada no julgado do STF (12/11/2020).
+3. Contudo, não é possível analisar a prescrição da pretensão executória perante esta Corte Superior, tendo em vista a necessidade de maiores informações não constantes nos presentes autos.
+4. Embargos parcialmente acolhidos para esclarecer que a prescrição da pretensão executória deve ser calculada a partir do trânsito em julgado para a acusação.
+(EDcl no AgRg no AREsp n. 2.245.299/SP, de minha relatoria, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024.)
+Assim, no presente caso, o trânsito em julgado da decisão para a acusação ocorreu em 26/1/2015 (e-STJ fl. 993), de modo que, condenado o recorrente à pena inferior a 4 anos de reclusão, por crimes de falsificação de documentos, a prescrição da pretensão executória ocorreu em 2023, nos termos do art. 109, IV, do Código Penal.
+An te o exposto, declaro extinta, pelo advento da prescrição da pretensão executória, a punibilidade do recorrente em relação aos crimes ora imputados.
+Publique-se. Intimem-se.
+EMENTA
