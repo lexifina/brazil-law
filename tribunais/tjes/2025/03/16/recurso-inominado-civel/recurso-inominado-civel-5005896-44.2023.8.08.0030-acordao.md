@@ -1,0 +1,88 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005896-44.2023.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DIEGO SCHULZ FANTIN
+RECORRIDO: FL BRASIL HOLDING, LOGISTICA E TRANSPORTE LTDA.
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DIREITO DO CONSUMIDOR. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA NÃO COMPROVADA. COBRANÇA DEVIDA. CONTRATAÇÃO DO SERVIÇO POR PARTE DO AUTOR DEMONSTRADA. PAGAMENTO NÃO REALIZADO. REGULARIDADE DA NEGATIVAÇÃO. SENTENÇA MANTIDA. PEDIDOS INICIAIS JULGADOS IMPROCEDENTES. RECURSO IMPROVIDO. LITIGÂNCIA DE MÁ-FÉ CARACTERIZADA. INDEFERIMENTO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n.° 5005896-44.2023.8.08.0030
+
+Recorrente: DIEGO SCHULZ FANTIN
+
+Recorrida: FL BRASIL HOLDING, LOGISTICA E TRANSPORTE LTDA.
+
+Relator: DR. DOUGLAS DEMONER FIGUEIREDO
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Quanto ao pedido de concessão da AJG,
+indefiro,
+tendo em vista que
+a concessão a quebra do princípio da boa-fé processual, em razão da prática de litigância de má-fé.
+
+EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DIREITO DO CONSUMIDOR. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA NÃO COMPROVADA. COBRANÇA DEVIDA. CONTRATAÇÃO DO SERVIÇO POR PARTE DO AUTOR DEMONSTRADA. PAGAMENTO NÃO REALIZADO. REGULARIDADE DA NEGATIVAÇÃO. SENTENÇA MANTIDA. PEDIDOS INICIAIS JULGADOS IMPROCEDENTES. RECURSO IMPROVIDO. LITIGÂNCIA DE MÁ-FÉ CARACTERIZADA. INDEFERIMENTO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. (1). DA LIDE.
+TRATA-SE DE AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E OBRIGAÇÃO DE FAZER, AO ARGUMENTO QUE TEVE O NOME NEGATIVADO, SEM QUE A PARTE AUTORA TIVESSE QUALQUER RELAÇÃO COM A REQUERIDA.
+LIMINAR DEFERIDA.
+
+(2). ANTÍTESE.
+A PARTE REQUERIDA ALEGA QUE AS COBRANÇAS SÃO DEVIDAS, UMA VEZ QUE PRESTOU SERVIÇO DE TRANSPORTE DE MERCADORIAS PARA SEREM ENTREGUES NO ENDEREÇO DA PARTE AUTORA, FICANDO CIENTE DE QUE DEVERIA ARCAR COM AS CUSTAS DO FRETE, REQUERENDO, ASSIM, A CONDENAÇÃO DA PARTE AUTORA EM LITIGÂNCIA DE MÁ-FÉ. FAZ, AINDA, PEDIDO CONTRAPOSTO, PARA COBRAR OS VALORES REFERENTES À PRESTAÇÃO DO SERVIÇOS.
+(3). DISPOSITIVO DA SENTENÇA.
+“ISTO POSTO, JULGO IMPROCEDENTE o pedido inicial, pelo que, REVOGO a liminar de ID 26471530. JULGO PROCEDENTE o pedido contraposto, pelo que, CONDENO, a parte autora, a pagar, ao requerido, o valor de R$ 231,03 (duzentos e trinta e um reais e três centavos), a títulos de danos materiais, devidamente atualizados com juros e correção monetária, a partir da data 31/08/2023, aplicando-se a taxa SELIC. CONDENO, ainda, o autor, ao pagamento de multa, por litigância de má-fé, que arbitro em 10% sobre o valor da causa, em favor da requerida, devidamente atualizado com juros e correção monetária desde a presente data, aplicando-se a taxa SELIC. CONDENO, por fim, o autor, em custas processuais e honorários advocatícios, que arbitro em 20% sobre o valor da causa, devidamente atualizado com juros e correção monetária desde a presente data, aplicando-se a taxa SELIC. INDEFIRO assistência judiciária em favor da parte autora, por ser incompatível com a litigância de má-fé. Publique-se. Registre-se e intimem-se. ”.
+(4). RECURSO DA PARTE AUTORA.
+BOA-FÉ DO REQUERENTE, TENDO EM VISTA A SUA CIÊNCIA ACERCA DA NEGATIVAÇÃO SOMENTE NA PEÇA CONTESTATÓRIA. AUTOR QUE É APENAS O DESTINATÁRIO DOS PRODUTOS. INEXISTÊNCIA DE CONTRATO FIRMADO COM O RECORRIDO. PLEITO DE PROVIMENTO AO RECURSO MANEJADO PARA QUE SEJA JULGADO TOTALMENTE PROCEDENTE O PEDIDO EXORDIAL.
+(5). CONTRARRAZÕES DA PARTE RÉ.
+EM SÍNTESE, REQUER SEJA MANTIDA INALTERADA A SENTENÇA DE IMPROCEDÊNCIA.
+(6). DO MÉRITO.
+A PRIORI
+, CUMPRE-ME DESTACAR QUE A DEMANDA VERSA SOBRE DIREITO DO CONSUMIDOR, INCIDINDO, PORTANTO, AS NORMAS CONSTANTES DA LEI N.º 8.078/1990, SENDO A AUTORA CONSUMIDORA NA FORMA DO ART. 2.º E O REQUERIDO FORNECEDOR NA FORMA DO ART. 3.º, AMBOS DO ALUDIDO DIPLOMA LEGAL. POIS BEM. ANALISANDO DETIDAMENTE OS AUTOS, ENTENDO QUE A SENTENÇA NÃO CARECE DE REFORMA. O COMPROVANTE DE NEGATIVAÇÃO DOS DADOS DO AUTOR, FOI JUNTADO PELO MESMO, EM SUA INICIAL (ID.: 7865996) E, CONFORME BEM APONTADO PELO JUÍZO
+A QUO
+, O TOMADOR DO SERVIÇO É O REQUERENTE, BEM COMO, A CARACTERÍSTICA DO SERVIÇO POSSUI A MODALIDADE PADRÃO
+FOB
+(RESPONSABILIDADE DO AUTOR QUANTO AO TRANSPORTE E PAGAMENTO DO SERVIÇO). PORTANTO, TENDO SIDO EFETIVAMENTE CUMPRIDA A PRESTAÇÃO DO SERVIÇO, É LÍCITA A NEGATIVAÇÃO EM DESFAVOR DO AUTOR, ORA RECORRENTE. DE IGUAL MODO, ENTENDO PELA PRÁTICA DE LITIGÂNCIA DE MÁ-FÉ POR PARTE DO AUTOR, VISTO QUE O COMPROVANTE ANEXO AOS AUTOS DEMONSTRA QUE FOI PRÓPRIO RECORRENTE QUE RECEBEU O BOLETO PARA PAGAMENTO DO FRETE (ID.: 7866030).
+(7).
+RECURSO CONHECIDO E IMPROVIDO.
+(8). SENTENÇA MANTIDA NOS TERMOS SUPRACITADOS. (9). POR FORÇA DA SUCUMBÊNCIA RECURSAL, CONDENO O RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS BEM COMO DOS HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE 10% (DEZ) POR CENTO SOBRE O VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 85, §2° DO CPC.
+IN
+DEFERIMENTO AO PEDIDO DE GRATUIDADE DE JUSTIÇA, ANTE A CONFIGURAÇÃO DA PRÁTICA DE LITIGÂNCIA DE MÁ-FÉ POR PARTE DO RECORRENTE
+.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+DOUGLAS DEMONER FIGUEIREDO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
