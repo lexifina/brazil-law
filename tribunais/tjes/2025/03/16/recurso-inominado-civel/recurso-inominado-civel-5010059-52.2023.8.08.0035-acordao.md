@@ -1,0 +1,87 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5010059-52.2023.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: FRANCOISE AMARAL FONSECA
+RECORRIDO: M R DE C R PESSOA LTDA
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA/VOTO. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DIREITO DO CONSUMIDOR. VÍCIO DO PRODUTO. NÃO FUNCIONAMENTO DE CARREGADOR PORTÁTIL. TROCA INEFICAZ. RECUSA DE CANCELAMENTO DA COMPRA E ESTORNO. DANOS MATERIAIS PROCEDENTES. RESTITUIÇÃO DO VALOR PAGO (R$ 130,00). RECURSO INOMINADO INTERPOSTO PELA AUTORA PARA CONCESSÃO DE DANO MORAL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA REFORMADA PARA CONDENAR O REQUERIDO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 500,00, FIXADO DE ACORDO COM OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SEM CUSTAS E HONORÁRIOS.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos nº 5010059-52.2023.8.08.0035
+Recorrente: FRANÇOISE AMARAL FONSECA
+
+Recorrido: M R DE C R PESSOA LTDA. - TECH SHOW
+
+Relator: DR. DOUGLAS DEMONER FIGUEIREDO
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+EMENTA/VOTO. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DIREITO DO CONSUMIDOR. VÍCIO DO PRODUTO. NÃO FUNCIONAMENTO DE CARREGADOR PORTÁTIL. TROCA INEFICAZ. RECUSA DE CANCELAMENTO DA COMPRA E ESTORNO. DANOS MATERIAIS PROCEDENTES. RESTITUIÇÃO DO VALOR PAGO (R$ 130,00). RECURSO INOMINADO INTERPOSTO PELA AUTORA PARA CONCESSÃO DE DANO MORAL. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. (1). DA LIDE.
+TRATA-SE DE AÇÃO ORDINÁRIA PROPOSTA POR FRANÇOISE AMARAL FONSECA EM FACE DE M R DE C R PESSOA LTDA., NA QUAL ALEGA QUE, EM 07/01/2023, ADQUIRIU UM CARREGADOR PORTÁTIL - PRODUTO
+POWER BANK BASIKE/PINEG
+JUNTO A REQUERIDA, PAGANDO PELO PRODUTO O VALOR DE R$ 130,00. RELATA QUE, A LOJA ENTREGOU JUNTO COM O PRODUTO “POLÍTICA DE GARANTIA”, ONDE O AFIRMA QUE O CLIENTE DEVE COMPARECER À LOJA PARA RECLAMAR DO VÍCIO, DENTRO DO PRAZO DE TROCA DE 7 (SETE) DIAS, COM GARANTIA DE 90 (NOVENTA) DIAS. NARRA QUE, AO TENTAR UTILIZAR O PRODUTO, ESTE NÃO FUNCIONOU E, APÓS COMPARECER A LOJA E TER SIDO EFETUADO A TROCA, O PRODUTO SUBSTITUTO APRESENTOU O MESMO DEFEITO, TENDO A REQUERIDA SE RECUSADO A EFETUAR O CANCELAMENTO DA COMPRA E ESTORNO DOS VALORES. ASSIM, REQUER, A CONDENAÇÃO DA REQUERIDA A RESTITUIR, EM DOBRO, O VALOR DE R$ 130,00, BEM COMO, AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 10.000,00.
+(2). DISPOSITIVO DA SENTENÇA.
+“
+Ante o exposto, JULGO PROCEDENTE EM PARTE os pedidos formulados por FRANCOISE AMARAL FONSECA, para CONDENAR a requerida M R DE C R PESSOA LTDA: I) a restituir o valor de R$ 130,00 (cento e trinta reais), que deverá ser corrigido pelos fatores de atualização monetária publicados pela Corregedoria Geral de Justiça do Tribunal de Justiça do Estado do Espírito Santo desde o evento danoso (pagamento – 07/01/2023) e juros de mora de 1% ao mês incidentes a partir da citação, nos termos do art. 405 do Código Civil; Declaro resolvido o mérito, nos termos do artigo 487, inciso I, do CPC.
+O pagamento deverá ser efetuado no prazo de 15 dias (úteis), contados do trânsito em julgado, e independentemente de nova intimação, obrigatoriamente, em conta judicial do BANCO BANESTES, nos termos da Lei Estadual 4.569/91 e Artigo 8º da Lei Estadual 8.386/06, para os fins do Ato Normativo Conjunto 036/2018, do TJES. Em caso de depósito voluntário, desde logo DEFIRO a expedição do respectivo Alvará de Levantamento, cabendo a parte autora indicar nos autos os dados bancários. Sem custas e honorários advocatícios, nos termos do artigo 55 da Lei nº. 9.099/95.”
+(3). RECURSO DA PARTE AUTORA.
+EM SÍNTESE, PUGNA PELA REFORMA DA R. SENTENÇA PROFERIDA NOS AUTOS PARA CONDENAR A RECORRIDA EM DANOS MORAIS NO IMPORTE DE R$ 10.000,00 (DEZ MIL REAIS).
+(4). CONTRARRAZÕES NÃO APRESENTADAS PELA PARTE REQUERIDA. (5). DO MÉRITO.
+TRATA-SE DE RECURSO INOMINADO INTERPOSTO PELA AUTORA, ORA RECORRENTE, EM FACE DE CAPÍTULO DA SENTENÇA QUE JULGOU IMPROCEDENTE O SEU PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. POIS BEM, O JUÍZO
+A QUO
+ENTENDEU QUE O CASO NÃO COMPORTA INDENIZAÇÃO POR DANOS MORAIS, SOB A JUSTIFICATIVA DE QUE NÃO HOUVE OFENSA A DIREITO DA PERSONALIDADE. ENTRETANTO, É POSSÍVEL VERIFICAR DOS AUTOS QUE O DESCASO DA REQUERIDA EM RESOLVER O CONFLITO DE FORMA ADMINISTRATIVA RESTOU COMPROVADO, O QUE ACARRETOU DANOS. DESSE MODO, EM RELAÇÃO A INDENIZAÇÃO POR DANOS MORAIS, ENTENDO QUE ESTA É DEVIDA, UMA VEZ QUE, CONFORME INFERE-SE DOS AUTOS, A DEMORA DE MAIS DE 30 (TRINTA) DIAS PARA REALIZAÇÃO DO ESTORNO DA COMPRA, APESAR DA POSTURA ILEGAL DA EMPRESA RÉ NÃO ENTENDO QUE HAJA LESÃO A JUSTIFICAR CONDENAÇÃO EM DANOS MORAIS. SENTENÇA MANTIDA POR SEUS P ́ROPRIOS FUNDAMENTOS.
+
+(6).
+DIANTE DO EXPOSTO,
+CONHEÇO
+O RECURSO INOMINADO INTERPOSTO POR
+FRANÇOISE AMARAL FONSECA
+E, NO MÉRITO,
+NEGO
+PROVIMENTO
+, SENTENÇA MANTIDA
+POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+(7).
+CUSTAS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO EM R$ 1.000,00, MAS SUSPENSO EM RAZÃO DA GRATUIDADE (HIPOSSUFICIENTE). .
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+DOUGLAS DEMONER FIGUEIREDO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
