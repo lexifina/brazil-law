@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDILMAR CORDEIRO DE TOLEDO, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1.454):
+RECURSO ADMINISTRATIVO - PROCESSO ADMINISTRATIVO DISCIPLINAR - INFRAÇÃO DISCIPLINAR - TITULAR DE TABELIONATO - PRELIMINARES: NULIDADE DO PAD - GRAU ESCOLARIDADE PRESIDENTE DA COMISSÃO - INOBSERVÂNCIA DOS REQUISITOS NA INSTAURAÇÃO DA PORTARIA - REJEIÇÃO - ALTERAÇÃO DA REPRIMENDA APLICADA - INVIABILIDADE - GRAVIDADE ELEVADA - CONDENAÇÕES ANTERIORES - RECURSO CONHECIDO E NÃO PROVIDO.
+- Tendo em vista que o Presidente da Comissão Processante tem o mesmo grau de escolaridade do recorrente, não há o que se falar em nulidade do PAD.
+- A descrição contida na Portaria se afigura suficiente para assegurar ao servidor o exercício do contraditório e ampla defesa.
+- Deve ser mantida a pena de perda de delegação em razão da gravidade dos fatos e da existência de inúmeras condenações anteriores.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 1.496):
+ÓRGÃO ESPECIAL - RECURSO ADMINISTRATIVO - EMBARGOS DE DECLARAÇÃO - AMBIGUIDADE - CONTRADIÇÃO - OBSCURIDADE - OMISSÃO - INOCORRÊNCIA - EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- O cabimento dos embargos de declaração em matéria criminal está disciplinado no artigo 619 do Código de Processo Penal.
+- Consoante entendimento que vem sendo recentemente firmado pelo colendo Superior Tribunal de Justiça, a regra insculpida no § 1º do art. 489 do CPC/2015 apenas ratifica a jurisprudência consolidada soba égide da revogada Lei Processual Civil de 1973, no sentido de que o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, tampouco a examinar minuciosamente, um a um, os dispositivos invocados, os documentos apresentados e as teses levantadas, devendo, apenas, referir-se aos princípios e normas que entende ser aplicáveis ao caso concreto e que sejam capazes de modificar a conclusão da decisão recorrida.
+- Inexistindo obscuridade, contradição, omissão ou erro material no acórdão hostilizado, a demandar correção, devem ser rejeitados os embargos de declaração, que não se prestam ao reexame de tese jurídica albergada no julgamento.
+Em seu recurso especial, às fls. 1.506-1.521, o recorrente sustenta violação ao art. 1.022 do Código de Processo Civil, uma vez que, "na espécie, houve negativa de prestação jurisdicional, na medida em que o col. Órgão Especial que julgou o recurso administrativo não se manifestou sobre os vícios de contradição apontados nos embargos declaratórios" (fl. 1.519).
+Ademais, afirma que "ao deixar de examinar relevantes pontos viciados apontados pelo processado, que poderiam levar a outro desfecho do processo, estamos diante à violação do art. 489, inciso IV, do Código de Processo Civil" (fl. 1.520).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 1.532-1.533):
+O presente recurso especial tem por objeto acórdão do Órgão Especial deste Tribunal que negou provimento a recurso administrativo para manter a penalidade imposta ao ora recorrente em sede do processo administrativo disciplinar, o qual foi instaurado pela Juíza de Direito Diretora do Foro da Comarca de Ervália, com o fito de apurar a responsabilidade funcional do recorrente pela suposta prática de irregularidades no exercício das funções que lhe foram delegadas.
+Consoante entendimento pacificado pelo Superior Tribunal de Justiça (STJ), "não cabe recurso especial contra decisão proferida em procedimento administrativo, afigurando-se irrelevantes a existência de litigiosidade ou o fato de o julgamento emanar de órgão do Poder Judiciário, em função atípica" (REsp nº 1.570.6551GO, Rel. Mm. Antônio Carlos Ferreira, DJe de 09/12/2016).
+Em seu agravo, às fls. 1.540-1.553, o agravante alega que a "decisão que inadmitiu o recurso especial interposto pelo ora agravante é fundada em jurisprudência sem caráter vinculante do Superior Tribunal de Justiça" (fl. 1.541). "Isso significa que a respeitável decisão que inadmitiu o apelo especial não vincula o tribunal superior, que pode, no juízo definitivo de admissibilidade do recurso especial, rever a questão, o admitindo pelo fundamento não aceito na origem" (fl. 1.542).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento de que "não cabe recurso especial contra decisão proferida em procedimento administrativo" (fl. 1.533).
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, o referido fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
