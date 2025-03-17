@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. TEMA 1.199 DA REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO. DESNECESSIDADE.
+1. Autos devolvidos a e sta Turma pela Vice-Presidência do STJ para juízo de conformação ao decidido por ocasião do julgamento do Tema 1.199, submetido ao regime da repercussão geral, notadamente o aspecto alusivo à necessidade da indicação do dano efetivo ao erário nos casos de frustração a certame licitatório.
+2. No caso, inexiste qualquer providência a se adotar, considerando que o julgado recorrido levou em conta e indicou expressamente o elemento subjetivo da conduta ímproba (dolo) e o montante relativo ao dano causado ao erário, não cuidando, portanto, de dano presumido.
+3. Agravo interno desprovido. Juízo de retratação não exercido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PAULO SÉRGIO ALMEIDA LEITE contra decisão por mim proferida, às e-STJ fls. 2.382/2.384, em que conheci do agravo para não conhecer do recurso especial, à vista da incidência da Súmula 7 do STJ.
+O ora agravante interpôs recurso extraordinário contra o acórdão de e-STJ fls. 2.461/2.462, tendo a Vice-Presidência desta Corte Superior, por despacho proferido às e-STJ fls. 2.671/2.678, diante do julgamento do Tema 1.199 pelo STF, submetido ao regime da repercussão geral, e do entendimento amplo que vem sendo conferido ao tema na Suprema Corte, determinado o encaminhamento dos autos a esta Turma, para novo exame a respeito do efetivo dano ao erário, conforme vem exigindo atualmente o STF.
+Às e-STJ fls. 2.686/2687, o MP/SP sustenta que a posição adotada pela Primeira Turma não se afastou do entendimento do STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. TEMA 1.199 DA REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO. DESNECESSIDADE.
+1. Autos devolvidos a e sta Turma pela Vice-Presidência do STJ para juízo de conformação ao decidido por ocasião do julgamento do Tema 1.199, submetido ao regime da repercussão geral, notadamente o aspecto alusivo à necessidade da indicação do dano efetivo ao erário nos casos de frustração a certame licitatório.
+2. No caso, inexiste qualquer providência a se adotar, considerando que o julgado recorrido levou em conta e indicou expressamente o elemento subjetivo da conduta ímproba (dolo) e o montante relativo ao dano causado ao erário, não cuidando, portanto, de dano presumido.
+3. Agravo interno desprovido. Juízo de retratação não exercido.
+VOTO
+Conforme relatado, o Vice-Presidente desta Corte Superior determinou o encaminhamento do presente feito a esta Turma, para novo exame a respeito do efetivo dano ao erário, conforme vem exigindo atualmente o STF.
+Inicialmente, cumpre consignar que a eg. Primeira Turma, em setembro/2024, em decorrência da edição da Lei n. 14.230/2021, firmou entendimento a respeito da necessidade da demonstração do dano efetivo ao erário, nos casos de frustração a certame licitatório, não mais sendo admitido o dano presumido. O julgamento referido foi assim sumariado:
+ADMINISTRATIVO. ATO ÍMPROBO. DANO PRESUMIDO. ALTERAÇÃO LEGAL EXPRESSA. NECESSIDADE DE EFETIVO PREJUÍZO. MANUTENÇÃO DA JURISPRUDÊNCIA DO STJ. IMPOSSIBILIDADE.
+1. Em sessão realizada em 22/2/2024, a Primeira Seção, por unanimidade, cancelou o Tema 1.096 do STJ, o qual fora outrora afetado para definir a questão jurídica referente a "definir se a conduta de frustrar a licitude de processo licitatório ou dispensá-lo indevidamente configura ato de improbidade que causa dano presumido ao erário (in re ipsa)".
+2. Após o referido cancelamento, ressurgiu a necessidade desta Primeira Turma enfrentar a seguinte controvérsia jurídica: com a expressa necessidade (tratada nas alterações trazidas pela Lei 14.320/2021) de o prejuízo ser efetivo (não mais admitindo o presumido), como ficam os casos anteriores (à alteração legal), ainda em trâmite, em que a discussão é sobre a possibilidade de condenação por ato ímprobo em decorrência da presunção de dano
+3. Os processos ainda em curso e que apresentem a supracitada controvérsia devem ser solucionados com a posição externada na nova lei, que reclama dano efetivo, pois sem este (o dano efetivo), não há como reconhecer o ato ímprobo.
+4. Não se desconhece os limites impostos pelo STF, ao julgar o Tema 1199, a respeito das modificações benéficas trazidas pela Lei 14.320/2021 às ações de improbidade ajuizadas anteriormente, isto é, sabe-se que a orientação do Supremo é de que a extensão daquele tema se reservaria às hipóteses relacionadas à razão determinante do precedente, o qual não abrangeu a discussão ora em exame.
+5. In casu, não se trata exatamente da discussão sobre a aplicação retroativa de alteração normativa benéfica, já que, anteriormente, não havia norma expressa prevendo a possibilidade do dano presumido, sendo este (o dano presumido) admitido após construção pretoriana, a partir da jurisprudência que se consolidara no STJ até então e que vinha sendo prolongadamente aplicada.
+6. Esse entendimento (repita-se, fruto de construção jurisprudencial, e não decorrente de texto legal) não pode continuar balizando as decisões do STJ se o próprio legislador deixou expresso não ser cabível a condenação por ato ímprobo mediante a presunção da ocorrência de um dano, pois cabe ao Judiciário prestar a devida deferência à opção que seguramente foi a escolhida pelo legislador ordinário para dirimir essa questão.
+7.Recurso especial desprovido. Embargos de declaração prejudicados.
+(REsp n. 1.929.685/TO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+No caso, em que pese o julgado recorrido tenha se dado em momento anterior ao novo entendimento da eg. Primeira Turma (e-STJ fls. 2.461/2.462), naquela oportunidade já foram indicados o elemento subjetivo da conduta (dolo) e o montante relativo ao dano causado ao erário, consoante excerto que transcrevo (e-STJ fl. 2. 465):
+Com relação à questão de fundo, vale transcrever a manifestação do Tribunal de origem a respeito da conduta e o elemento subjetivo do ora agravante:
+Desta forma, a contratação de empresa de comunicação para prestar serviços que a própria Administração Pública possua recurso humano para o desempenho desta função, notadamente com a estruturação de Secretaria de Comunicação, cujo dispêndio de R$ 80.081,00 (oitenta mil, e oitenta e um reais) (fl. 44) se mostra, de fato, atentatório aos cofres públicos, com nítida subsunção à legislação de regência (Lei nº 8.429/92, art. 10, "caput"), uma vez que constatada a perda patrimonial por ato doloso dos réus (Grifei).
+Saliente-se que não se tratou de caso em que o dano foi considerado presumido por irregularidade do procedimento de contratação. A Corte de origem entendeu presente o efetivo prejuízo pelo fato de que ter sido contratado um terceiro para prestar serviço que já era realizado pelo próprio quadro de servidores do município, implicando em gasto objetivamente desnecessário e, portanto, ensejando prejuízo ao erário .
+Considerando, portanto, a indicação do efetivo dano causado ao erário, inexiste qualquer descompasso com o entendimento adotado pela Suprema Corte.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
