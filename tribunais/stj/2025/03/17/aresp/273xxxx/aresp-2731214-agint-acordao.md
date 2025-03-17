@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL. APLICAÇÃO DO CPC/15. PROCURAÇÃO E/OU SUBSTABELECIMENTO. AUSÊNCIA. REGULARIZAÇÃO POSTERIOR. VIABILIDADE. DESCUMPRIMENTO. JUNTADA EXTEMPORÂNEA. IMPOSSIBILIDADE. PRECLUSÃO TEMPORAL. CONDIÇÃO DE SÓCIO DE ESCRITÓRIO DE ADVOCACIA. IRRELEVÂNCIA.
+1. É inexistente recurso interposto por advogado sem procuração nos autos, conforme enuncia a Súmula 115/STJ.
+2. Nos termos do art. 76, §2º, I, do CPC/15, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/15), não promove o saneamento do vício no prazo concedido.
+3. Não há falar em violação dos princípios da primazia do julgamento de mérito e da instrumentalidade das formas, considerando que o referido postulado foi observado na concessão de prazo para regularizar o vício. A juntada extemporânea do instrumento de representação não é bastante para corrigir a deficiência processual, visto que ocorrida preclusão temporal. Precedentes.
+4. A condição de sócio do escritório contratado, por si só, não confere ao advogado a habilitação postulatória necessária para defender os interesses da parte em juízo, uma vez que a outorga de poderes por meio da procuração se faz por ato personalíssimo, entre o cliente e o seu constituinte, sendo imprescindível a individualização dos profissionais designados para atuar na causa. Precedentes.
+5. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por ITAU UNIBANCO S.A contra decisão unipessoal, proferida pelo Ministro Presidente do STJ, que não conheceu do recurso que interpusera, em virtude da irregularidade da representação processual.
+Em suas razões, o agravante defende a regularidade de sua representação processual. Sustenta que: i) o advogado subscritor do recurso, embora não esteja mencionado nominalmente no substabelecimento anexado aos autos, é sócio patrimonial do escritório de advocacia contratado pela parte, o que lhe confere legitimidade presumida para atuar no processo; ii) não obstante ter havido a regularização da representação processual após escoado o prazo concedido para tanto, não causou prejuízo algum à marcha do processo, devendo-se privilegiar a efetividade processual e a primazia da decisão de mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL. APLICAÇÃO DO CPC/15. PROCURAÇÃO E/OU SUBSTABELECIMENTO. AUSÊNCIA. REGULARIZAÇÃO POSTERIOR. VIABILIDADE. DESCUMPRIMENTO. JUNTADA EXTEMPORÂNEA. IMPOSSIBILIDADE. PRECLUSÃO TEMPORAL. CONDIÇÃO DE SÓCIO DE ESCRITÓRIO DE ADVOCACIA. IRRELEVÂNCIA.
+1. É inexistente recurso interposto por advogado sem procuração nos autos, conforme enuncia a Súmula 115/STJ.
+2. Nos termos do art. 76, §2º, I, do CPC/15, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/15), não promove o saneamento do vício no prazo concedido.
+3. Não há falar em violação dos princípios da primazia do julgamento de mérito e da instrumentalidade das formas, considerando que o referido postulado foi observado na concessão de prazo para regularizar o vício. A juntada extemporânea do instrumento de representação não é bastante para corrigir a deficiência processual, visto que ocorrida preclusão temporal. Precedentes.
+4. A condição de sócio do escritório contratado, por si só, não confere ao advogado a habilitação postulatória necessária para defender os interesses da parte em juízo, uma vez que a outorga de poderes por meio da procuração se faz por ato personalíssimo, entre o cliente e o seu constituinte, sendo imprescindível a individualização dos profissionais designados para atuar na causa. Precedentes.
+5. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do recurso do agravante, nos termos da seguinte fundamentação:
+Por meio da análise do recurso de ITAU UNIBANCO S.A, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. Caio Lucio Montano Brutton.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Ressalte-se que a petição de fls. 500/526, trazida aos autos em razão da determinação oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Depreende-se dos autos que o agravante, apesar de regularmente intimado para regularizar a representação processual no prazo de 5 dias (e-STJ fl. 494), não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor dos recursos, Dr. Caio Lucio Montano Brutton.
+O agravo em recurso especial não foi conhecido pela Presidência desta
+Corte em razão da incidência da Súmula 115/STJ. Conforme salientado pela decisão agravada, o agravante não realizou a regularização da representação processual no prazo concedido.
+Nos termos do art. 76, § 2º, I, do CPC/2015, não se conhece do recurso
+quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/15), não promove o saneamento do vício no prazo concedido.
+Desse modo, não há como afastar a aplicação da Súmula 115/STJ.
+Ressalta-se que, segundo orientação jurisprudencial do STJ, não há falar em violação dos princípios da primazia do julgamento de mérito e da instrumentalidade das formas, considerando que o referido postulado foi observado na concessão de prazo para regularizar o vício; ademais, a juntada extemporânea do instrumento de representação não é bastante para corrigir a deficiência processual, visto que ocorrida preclusão temporal (AgInt no AREsp n. 2.611.799/RO, 3ª Turma , DJe de 13/11/2024; AgInt no REsp n. 2.089.326/PR, 3ª Turma, DJe de 2/5/2024; AgInt nos EDcl no AREsp n. 2.559.877/SP, 4ª Turma, DJe de 7/11/2024; e AgRg no AREsp n. 2.153.005/SP, 6ª Turma, DJe de 23/6/2023).
+Além disso, ao contrário do alegado pelo agravante, a condição de sócio do escritório contratado, por si só, não confere ao advogado a habilitação postulatória necessária para defender os interesses da parte em juízo, uma vez que a outorga de poderes por meio da procuração se faz por ato personalíssimo, entre o cliente e o seu constituinte, sendo imprescindível a individualização dos profissionais designados para atuar na causa. Nesse sentido: AgInt no AREsp n. 2.464.711/SP, 3ª Turma, DJe de 19/6/2024; AgRg no AREsp n. 2.480.596/PE, 5ª Turma, DJe de 14/6/2024; e AgInt no AREsp n. 1.150.846/MS, 6ª Turma, DJe de 8/3/2018).
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
