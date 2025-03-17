@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ITAÚ VIDA E PREVIDÊNCIA S.A. contra o v. acórdão, proferido pela eg. Quarta Turma, assim ementado (e-STJ, fl. 224):
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. DEPÓSITO DE GARANTIA DO JUÍZO. INCIDÊNCIA DOS CONSECTÁRIOS DA MORA. INCIDÊNCIA DO TEMA N. 677/STJ. MANUTENÇÃO DA DECISÃO QUE DEU PROVIMENTO AO RECURSO ESPECIAL. PRECLUSÃO LÓGICA. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. O atual entendimento desta Corte Superior é de que, "Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial" (Tema 677/STJ, com redação conferida pela Corte Especial, em revisão de tese, no julgamento do REsp 1.820.963/SP, DJe de 16/12/2022).
+2. "É vedado à parte inovar em suas razões recursais, em sede de agravo interno, trazendo novas questões não suscitadas oportunamente no recurso especial ou nas contrarrazões ao recurso especial, tendo em vista a configuração da preclusão consumativa" (AgInt no REsp 1.825.928/MG, Relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+3. Agravo interno a que se nega provimento.
+Nas razões dos aclaratórios (e-STJ, fls. 237-241), a parte embargante afirma que houve omissão no julgado, afirmando que: a) "diferente do que essa C. Corte entendeu, o Banco teve o cuidado de prequestionar o tema, mesmo tendo sido o v. acórdão recorrido favorável à sua pretensão. Nesse contexto, tendo o Banco oposto Embargos de Declaração e o Tribunal local deixado de se manifestar sobre a preclusão lógica, no mínimo, o acórdão proferido pelo TJSP deveria ser anulado, em razão da violação ao art. 1.022 do CPC/15"; e b) "Caso se entenda que não é possível a análise imediata da preclusão lógica na forma do art. 1.034, parágrafo único do CPC, impõe-se, ao menos, a anulação do v. acórdão recorrido, para que o Eg. TJSP examine o fundamento principal do recurso do Banco 3 . O que não pode acontecer, com máximo de respeito, é que permaneça sem análise o principal fundamento veiculado no agravo de instrumento do Banco, a tempo e modo, sob pena de grave cerceamento de defesa".
+Impugnação apresentada às fls. 242-248.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, a parte embargante aponta omissão no acórdão proferido por esta Quarta Turma, afirmando que: a) "diferente do que essa C. Corte entendeu, o Banco teve o cuidado de prequestionar o tema, mesmo tendo sido o v. acórdão recorrido favorável à sua pretensão. Nesse contexto, tendo o Banco oposto Embargos de Declaração e o Tribunal local deixado de se manifestar sobre a preclusão lógica, no mínimo, o acórdão proferido pelo TJSP deveria ser anulado, em razão da violação ao art. 1.022 do CPC/15"; e b) "Caso se entenda que não é possível a análise imediata da preclusão lógica na forma do art. 1.034, parágrafo único do CPC, impõe-se, ao menos, a anulação do v. acórdão recorrido, para que o Eg. TJSP examine o fundamento principal do recurso do Banco 3 . O que não pode acontecer, com máximo de respeito, é que permaneça sem análise o principal fundamento veiculado no agravo de instrumento do Banco, a tempo e modo, sob pena de grave cerceamento de defesa".
+Com efeito, no julgamento do agravo interno, assim ficou assentado no acórdão embargado (e-STJ, fls. 227-231):
+"A irresignação não merece prosperar.
+Cinge-se a controvérsia acerca da imediata aplicação da tese fixada no Tema 677 dos Recursos Repetitivos, que firmou a seguinte tese, após revisão ocorrida em 19/10/2022:
+(..)
+O Tribunal de Justiça de São Paulo, analisando a controvérsia dos autos, afastou a incidência da referida tese repetitiva, consignando que, "ao tempo da realização do depósito judicial vigia a tese anteriormente firmada pelo E. Superior Tribunal de Justiça, sendo certo que o devedor agiu de acordo com a regra a ser obedecida, não podendo ser tomado de surpresa por alteração de entendimento". A título elucidativo, confira-se (fls. 49-54, e-STJ):
+(..)
+Vê-se, portanto, que a conclusão exarada pelo Tribunal de Justiça está em sentido contrário ao da jurisprudência desta Corte, que, conforme acima assentado, se consolidou nos seguintes termos: "Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial" (Tema 677/STJ, com redação conferida pela Corte Especial, em revisão de tese, no julgamento do REsp 1.820.963/SP, DJe de 16/12/2022).
+(..)
+Ademais, conforme consignado na decisão ora agravada, os embargos de declaração opostos ao acórdão que fixou a tese repetitiva foram rejeitados, ocasião na qual houve reafirmação de que "o acórdão embargado é hialino acerca da necessidade e pertinência de alterar a redação do Tema 677/STJ, tendo sido afastada a necessidade de modulação dos efeitos da decisão, o que não revela qualquer falta de racionalidade interna ou contradição" (cf.
+EDcl no REsp 1.820.963/SP, Relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 3/4/2024, DJe de 18/4/2024).
+Assim, nesse ponto, a decisão ora agravada deve ser confirmada por seus próprios fundamentos.
+Por fim, não merece conhecimento a alegada tese de que a matéria estaria preclusa, uma vez que não houve o necessário prequestionamento. Por sua vez, da análise das contrarrazões de fls. 108-129, não se verifica a apresentação da tese de preclusão lógica.
+Com efeito, de acordo com a jurisprudência desta Corte, "É vedado à parte inovar em suas razões recursais, em sede de agravo interno, trazendo novas questões não suscitadas oportunamente no recurso especial ou nas contrarrazões ao recurso especial, tendo em vista a configuração da preclusão consumativa" (AgInt no REsp 1.825.928/MG, Relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Outrossim, "O prequestionamento não emerge da comprovada manifestação dos temas de direito federal nas razões ou contrarrazões dos recursos ordinários, mas da sua efetiva apreciação pelo acórdão recorrido" (AgInt no REsp 1.957.909/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 21/3/2022, DJe de 30/3/2022).
+Na hipótese, em que pese a apresentação da tese nas razões do agravo de instrumento (fls. 1-17), não houve manifestação do Tribunal de origem acerca do fato de que a matéria estaria preclusa, havendo, apenas, afastamento da revisão ocorrida na Tese repetitiva de n. 677/STJ, aplicando-se o entendimento da época em que efetuado o depósito para garantia do juízo.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto." (grifou-se)
+Evidencia-se, pois, que os embargos de declaração em apreço representam mera tentativa de rediscutir temas devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+Como dito, os aclaratórios constituem recurso de estritos limites processuais cujo cabimento requer estejam presentes os pressupostos legais insertos no art. 1.022 do CPC/2015.
+Tal recurso, portanto, é incompatível com a pretensão de se obter efeitos infringentes.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, rejeito os embargos de declaração.
+É como voto.
