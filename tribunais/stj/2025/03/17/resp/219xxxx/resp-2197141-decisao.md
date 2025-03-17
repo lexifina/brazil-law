@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 2876):
+TRIBUTÁRIO. CONTRIBUIÇÕES "A TERCEIROS" OU "PARAFISCAIS", BASE DE CÁLCULO, LIMITAÇÃO A VINTE SALÁRIOS MÍNIMOS. TESE 1079 STJ.
+Não há limitação a vinte salários mínimos do salário-de-contribuição que dá base de cálculo para apuração das contribuições "a terceiros". Inteligência da tese 1079 de recursos especiais repetitivos do Superior Tribunal de Justiça.
+Embargos de declaração com provimento negado.
+A recorrente alega violação dos arts. 1.022, II e 489, §1º, IV, ambos do CPC/15, argumentando, à fl. 565, que embora tenha a Recorrente informado que o Tema 1079/STJ pende de trânsito em julgado, podendo ser alterada a sua modulação, o Tribunal recorrido nada consignou a esse respeito.
+Aduz ofensa aos arts. 926 e 927, §3º, ambos do CPC, alegando, à fl. 564, que além de não ter sido observado o dever de uniformização de entendimento segundo a jurisprudência dominante (art. 926 do CPC), a modulação de efeitos se deu em prejuízo ao interesse social e à segurança jurídica (art. 927, § 3º do CPC).
+Sustena contrariedade aos arts. 4º da Lei 6.950/1981 e 3º do Decreto-Lei 2.318/86, apontando, às fls. 561-563, que:
+Contudo, conforme evidenciado em sede recursal, o referido entendimento contraria a própria mens legis e a literalidade da disposição legal. Isso porque, a nova legislação não revogou a aplicação da limitação para as contribuições parafiscais, uma vez que esta estava disciplinada no parágrafo único do mencionado artigo, que segue vigente.
+Na verdade, o que ocorreu foi a derrogação da eficácia do artigo, isso porque a tese firmada se limitou a dispor sobre as contribuições devidas ao Sesi, ao Senai, ao Sesc e ao Senac. Por outro lado, nada versou sobre as contribuições feitas ao Sebrae, Incra e Salário Educação. Vejamos a tese definida:
+ ..
+De fato, a orientação estabelecida pelo STJ, culminou por afastar a limitação ao valor máximo de vinte salários-mínimos vigentes, contudo, unicamente às contribuições para o Sesi, Senai, Sesc e Senac, que foram objeto do julgamento proferido. Assim, essa decisão não abrange as demais contribuições discutidas neste processo e que estão claramente mencionadas nos autos, a saber: as contribuições para o Salário Educação, Incra e Sebrae.
+Contrarrazões às fls. 648-657.
+Juízo positivo de admissibilidade às fls. 674-675.
+Parecer do MPF às fls. 2981-2984.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Afasta-se a alegada violação do artigo 1.022 do CPC/15, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que o acórdão recorrido assim consignou no tocante a alegada omissão (fl. 498, com grifo nosso):
+ ..
+Restaram ressalvados, conforme modulação de efeitos decidida no julgamento, apenas os casos de contribuintes que iniciaram processos administrativos ou judiciais até a data de início do julgamento do tema 1079 e têm decisões favoráveis a seus interesses. As empresas nessa situação poderão utilizar-se da referida decisão até a publicação do acórdão do julgado que resolveu o tema 1079. O respectivo acórdão foi publicado em 2maio2024, iniciando-se desde então sua eficácia, conforme o disposto no art. 1.040 do CPC. Eventual pendência de embargos de declaração não impede o julgamento por esta Corte de processos com discussão relacionada às teses em que publicado o acórdão, como já decidiu o Superior Tribunal de Justiça:
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/15.
+Igualmente, afasta-se a alegada ofensa ao art. 489, §1º, IV, do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Lado outro, no que diz respeito aos arts. 926 e 927 (e às teses a eles vinculadas), verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Sublinha-se que, de acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+Finalmente, no que diz respeito aos arts. 4º da Lei 6.950/1981 e 3º do Decreto-Lei 2.318/86, a recorrente sustenta que o dispositivo em exame não foi revogado, permanecendo válido, pelo que em relação ao salário educação, INCRA e SEBRAE, o limite de 20 salários-mínimos não foi alterado, ficando mantido.
+Ocorre que esta Corte Superior já assentou em sede de recurso representativo de controvérsia (Tema 1079/STJ) que:
+"i) o art. 1º do Decreto-Lei 1.861/1981 (com a redação dada pelo DL 1.867/1981) definiu que as contribuições devidas ao Sesi, ao Senai, ao Sesc e ao Senac incidem até o limite máximo das contribuições previdenciárias;
+ii) especificando o limite máximo das contribuições previdenciárias, o art. 4º, parágrafo único, da superveniente Lei 6.950/1981, também especificou o teto das contribuições parafiscais em geral, devidas em favor de terceiros, estabelecendo-o em 20 vezes o maior salário mínimo vigente; e
+iii) o art. 1º, inciso I, do Decreto-Lei 2.318/1986, expressamente revogou a norma específica que estabelecia teto limite para as contribuições parafiscais devidas ao Sesi, ao Senai, ao Sesc e ao Senac, assim como o seu art. 3º expressamente revogou o teto limite para as contribuições previdenciárias;
+iv) portanto, a partir da entrada em vigor do art. 1º, 1, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários."
+Daí se retira que a alegação da parte quanto à ausência de revogação do limite de 20 salários previsto nos arts. 4º da Lei 6.950/1981 e 3º do Decreto-Lei 2.318/86 não se sustenta, tendo esta Corte Superior reconhecido expressamente a perda de eficácia do dispositivo.
+Nesse contexto, evidencia-se que não é possível conhecer do recurso especial que apresenta suposta violação de tais dispositivos, pois eles não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
