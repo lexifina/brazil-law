@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. . O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 946/1.096) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, o agravante alega ter demonstrado a ofensa ao art. 1.022, II, do CPC/2015. Insurge-se contra a aplicação da Súmula n. 283/STF, aduzindo ter impugnado todos os fundamentos do acórdão recorrido. Afirma que a discussão proposta no especial encerra matéria eminentemente jurídica, o que afastaria a Súmula n. 7/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+O agravado apresentou contrarrazões (e-STJ fls. 1.100/1.105).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. . O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 939/942):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ e ausência de demonstração do dissídio jurisprudencial (e-STJ fls. 899/901).
+O acórdão recorrido está assim ementado (e-STJ fl. 600):
+APELAÇÃO CÍVEL. AGRAVO INTERNO. TUTELA PROVISÓRIA DE URGÊNCIA. CAUTELAR ANTECEDENTE. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. NOTIFICAÇÃO EXTRAJUDICIAL POR HORA CERTA. MORA COMPROVADA. ENDEREÇO DO CONTRATO. OFICIAL DE CARTÓRIO. FÉ PÚBLICA. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. 1. Caracterizada a inadimplência da obrigação garantida por imóvel com cláusula de alienação fiduciária, deve o credor fiduciário adotar os procedimentos previstos na Lei nº 9.514/97, especialmente a constituição do devedor em mora, para assim consolidar a propriedade do bem, passando a ter o direito de alienar a coisa dada em garantia. 2. Pelo relato das certidões extrajudiciais, em cumprimento ao disposto no § 3º-A do artigo 26 da Lei nº 9.514/97, necessário se fez a notificação por hora certa, pois demonstrada a tentativa de ocultação do devedor, sendo forçoso convir que as justificativas apresentadas pelo recorrente não se mostraram suficientes a macular o recebimento da notificação e, via de consequência, sua ciência em relação ao teor do documento e respectiva constituição em mora, doravante porque direcionada ao endereço constante no contrato firmado entre as partes. 3. A notificação é valida, pois a atividade foi praticada por oficial de cartório extrajudicial, que goza de fé pública, sendo suficiente constar na certidão a afirmação de que havia cópia da planilha de débito em anexo para torná-la legítima, cedendo, apenas, diante de prova produzida em contrário, o que não ocorreu. 4. Evidenciada a sucumbência recursal, impende majorar a verba honorária anteriormente arbitrada, nos moldes do artigo 85, §11, do CPC. 5. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. AGRAVO INTERNO PREJUDICADO.
+Os embargos de declaração opostos pelo agravante foram rejeitados e os do agravado, acolhidos, nos termos da seguinte ementa (e-STJ fl. 749):
+DUPLO EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. TUTELA PROVISÓRIA DE URGÊNCIA. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. HONORÁRIOS RECURSAIS. CORREÇÃO DE ERRO MATERIAL. 1. Os embargos de declaração são recurso de natureza peculiar, cujo objetivo é esclarecer o real sentido de decisão eivada de obscuridade, contradição ou omissão, ou ainda para corrigir erro material, portanto, somente em hipóteses excepcionais é possível conferir-lhes efeito infringente. 2. Não se verifica no julgado o vício apontado pelo segundo embargante que, na verdade, pretende a rediscussão da matéria, decidida de maneira suficiente e fundamentada por esta Corte. 3. Verificado erro material no decisum, consubstanciado na expressão equivocada do beneficiário dos honorários recursais, é de rigor a sua correção, nos termos do disposto no artigo 1.022 do Código de Processo Civil. 4. EMBARGOS DE DECLARAÇÃO CONHECIDOS. PRIMEIROS EMBARGOS ACOLHIDOS. SEGUNDOS EMBARGOS REJEITADOS.
+Nas razões do recurso especial (e-STJ fls. 761/783), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(a) art. 26, § 3º, da Lei n. 9.514/1997, porque, "quando da notificação realizada no procedimento nº 1672647 do Cartório de 1º Protesto, Registro de Títulos e Documentos de Pessoas Jurídicas de Goiânia/GO não residia no imóvel em razão da separação do casal, não tendo a intimação ocorrido de maneira válida" (e-STJ fl. 776), e
+(b) art. 26, §§ 3º-A e 3º-B, da Lei n. 9.514/1997 e 252, 253 e 254 do CPC/2015, pois "os funcionários somente poderão receber qualquer notificação quando se tratar de condomínios edilícios ou conjuntos imobiliários o que não é o caso, visto que o endereço constante é de uma casa, não possuindo o terreno qualquer outro imóvel" (e-STJ fl. 779).
+Indicou julgados do STJ a fim de demonstrar a divergência de entendimentos.
+Sem contrarrazões (e-STJ fl. 896).
+No agravo (e-STJ fls. 905/920), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 925/929).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem assim decidiu a controvérsia (e-STJ fls. 592/593):
+Pelo relato das certidões extrajudiciais, em cumprimento ao disposto no § 3º- A do artigo 26 da Lei nº 9.514/97, necessário se fez a notificação por hora certa, pois demonstrada a tentativa de ocultação do devedor, sendo forçoso convir que as justificativas apresentadas pelo recorrente não se mostraram suficientes a macular o recebimento da notificação e, via de consequência, sua ciência em relação ao teor do documento e respectiva constituição em mora, doravante porque direcionada ao endereço constante no contrato firmado entre as partes.
+Nesse sentido, apesar de o apelante defender a ausência de notificação pessoal e alegar que não morava mais no imóvel, pois havia separado de sua esposa e passado a residir em outro lugar, comporta mencionar que caberia ao devedor o ônus da manutenção atualizada de seus dados pessoais perante o agente financeiro.
+A conclusão a que chegou a Corte local acerca da necessidade de que a notificação fosse feita por hora certa, bem como da regularidade do procedimento, decorreu do exame do acervo fático-probatório dos autos. Decidir de outro modo demandaria reexame de elementos fáticos, o que é inviável no âmbito do especial, por força do que dispõe a Súmula n. 7/STJ.
+Além disso, descabida a alegação de que, somente em condomínios edilícios, funcionários poderiam receber qualquer notificação, haja vista que, no caso, a notificação se deu por hora certa.
+Ademais, não foi impugnado o fundamento do acórdão recorrido de que caberia ao devedor o ônus de manter seus dados pessoais atualizados perante o agente financeiro. Aplicável, portanto, a Súmula n. 283/STF.
+Por fim, quanto ao dissídio jurisprudencial, é firme o entendimento desta Corte de que o conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige indicação do dispositivo de lei objeto de interpretação divergente, assim como demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas. No caso, tais requisitos não foram atendidos.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+Conforme exposto, o Tribunal de origem, mediante o exame do acervo fático-probatório dos autos, concluiu ter sido demonstrada a tentativa de ocultação do devedor, o que autorizava a citação por hora certa, procedimento que ocorreu de forma regular.
+Alterar esse entendimento demandaria rever fatos e provas, o que encontra óbice na Súmula n. 7/STJ.
+Além disso, não foi impugnado o fundamento do acórdão recorrido de que caberia ao devedor o ônus de manter seus dados pessoais atualizados perante o banco. Aplicável, portanto, a Súmula n. 283/STF.
+Destaco que a violação do art. 1.022 do CPC/2015, trazida nas razões do agravo interno, não foi objeto do especial e tampouco da decisão agravada.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
