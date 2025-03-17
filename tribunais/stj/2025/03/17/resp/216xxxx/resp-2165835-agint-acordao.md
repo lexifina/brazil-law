@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ADEQUAÇÃO DOS CÁLCULOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte de origem assentou a observância dos preceitos legais quando da elaboração e atualização do débito, concluindo assim pela adequação dos cálculos apresentados pela contadoria judicial. A revisão de tal conclusão requer a incursão nos fatos e provas dos autos. Incidência da Súmula 7/STJ. P recedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 259):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. ADEQUAÇÃO DOS CÁLCULOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO NÃO CONHECIDO.
+O agravante alega que não é caso de incidir a Súmula 7/STJ, ao argumento de que "o tema primordial do reclamo não demanda revolvimento de fatos e provas, mas tão somente análise de matéria de direito, diante da patente violação ao artigo art. 4º, da lei da usura, bem como precedentes do STJ" (fl. e-STJ, 271).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ADEQUAÇÃO DOS CÁLCULOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte de origem assentou a observância dos preceitos legais quando da elaboração e atualização do débito, concluindo assim pela adequação dos cálculos apresentados pela contadoria judicial. A revisão de tal conclusão requer a incursão nos fatos e provas dos autos. Incidência da Súmula 7/STJ. P recedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, a Corte a quo assentou que foram observados os preceitos legais quando da elaboração e atualização do débito, concluindo pela adequação dos cálculos apresentados pela contadoria judicial, aos seguintes fundamentos (fl. e-STJ, 82):
+ ..  há que se destacar também que foram observados os preceitos legais citados quando da elaboração e atualização do débito pela Contadoria Judicial - COJUN, posto ter observado a incidência da Taxa SELIC a partir de dezembro do ano de 2021 até 29 de agosto de 2023, em relação ao valor consolidado do débito, principal corrigido somado aos juros (Processo no 00037366220208272729, Evento no 86, PARECER/CALC1). (Grifei).
+Desse modo, em que pese a argumentação da parte agravante, verifica-se que para se realizar a revisão da conclusão a que chegou o Tribunal de origem sobre a questão, mister o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ilustrativamente, mutatis mutandis:
+AGRAVO INTERNO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. ADEQUAÇÃO DOS CÁLCULOS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Para alterar a conclusão das instâncias de origem, de que os cálculos homologados estão de acordo com o determinado no título executivo, seria imprescindível exceder os fundamentos do acórdão atacado e adentrar no exame das provas, o que é vedado em recurso especial, a teor da Súmula nº 7 do Superior Tribunal de Justiça.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.597.130/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/2/2017, DJe de 1/3/2017.) (Grifei).
+PROCESSUAL CIVIL. TRIBUTÁRIO. OMISSÃO INEXISTENTE. RECONHECIMENTO DA CONSTITUCIONALIDADE DA TAXA DE FISCALIZAÇÃO DOS MERCADOS DE TÍTULOS E VALORES MOBILIÁRIOS. MODIFICAÇÃO. INVIABILIDADE. COMPETÊNCIA DO STF. CDA. FUNDAMENTO DECLARADO INCONSTITUCIONAL. ADEQUAÇÃO DOS CÁLCULOS. PROSSEGUIMENTO DA EXECUÇÃO. POSSIBILIDADE. EXEGESE DO ENTENDIMENTO FIRMADO NO RESP 1.115.501/SP (ART. 543-C DO CPC). RECONHECIMENTO DA LICITUDE DOS CÁLCULOS DOS CONSECTÁRIOS LEGAIS. MODIFICAÇÃO. SÚMULA 7/STJ.
+1. Não há a alegada violação do art. 535 do CPC, visto que o Tribunal de origem efetivamente abordou a questão da nulidade da execução e, consequentemente, da CDA, deixando consignado que a Taxa de Fiscalização dos Mercados de Títulos e Valores Mobiliários é constitucional, bem como ressaltou que nenhuma mácula revestia o título executivo, pois a correção monetária obedeceu aos parâmetros legais.
+2. A alegação fundada na afronta ao art. 77 do CTN e, consequentemente, na inexigibilidade da Taxa de Fiscalização dos Mercados de Títulos e Valores Mobiliários não comporta conhecimento, haja vista o fundamento eminentemente constitucional do acórdão, assentado na "constitucionalidade da taxa" à luz de entendimento já pacificado no STF.
+3. Ao contrário do que aduz o recorrente, inexiste "matéria de índole infraconstitucional" apta à modificação do julgado, porquanto incontestes os termos do acórdão no sentido de que "Não há que se falar em inconstitucionalidade da Taxa de Fiscalização mobiliária, uma vez que o Supremo Tribunal Federal reconheceu a sua constitucionalidade".
+4. Desprovida de lógica jurídica a pretensão da agravante em ver reconhecida a ilegalidade da exação quando a Suprema Corte já lhe revestiu de constitucionalidade.
+5. A empresa contribuinte, ora agravante, aduz que a inconstitucionalidade da TR como índice de correção dos créditos tributários, declarada pelo STF, macularia o título executivo, porquanto ilíquido, incerto e inexigível. Contudo, convém relembrar que a Primeira Seção, no julgamento do REsp 1.115.501/SP, Rel. Ministro Luiz Fux, julgado em 10.11.2010 (DJe 30.11.2010), pela sistemática do art. 543-C do CPC e da Resolução 8/2008 do STJ, consolidou o entendimento segundo o qual a ulterior declaração de inconstitucionalidade de lei pode não macular a exigibilidade do crédito tributário, porquanto eventual excesso contido no título pode ser expurgado, permitindo ao órgão fazendário o prosseguimento da execução pelo valor remanescente.
+6. Assim, subsiste a presunção de liquidez e certeza do título executivo, devendo apenas ser readequado o valor cobrado à luz do parâmetro constitucional, o que respalda a conclusão da Corte de origem de que, "em virtude da extinção do BTN e a declaração da inconstitucionalidade da TR pelo STF, restou implícito que os tributos ou qualquer dívida não poderiam ser quitados sem a devida correção monetária, evitando-se assim, o enriquecimento indevido do devedor, ante a inflação galopante à época. Portanto, a UFIR e o INPC eram os indexadores de atualização monetária que passaram a vigorar no período".
+7. Se o Tribunal a quo conclui que os valores contidos na CDA refletem o efetivo valor devido a título da exação em comento, "uma vez que ficou comprovado não haver nenhuma irregularidade na utilização dos índices de correção monetária levada a efeito sobre o tributo em comento", a revisão de tal inferência esbarra no óbice da Súmula 7/STJ.
+Agravo regimental improvido. (AgRg no REsp n. 1.407.719/PE, relator Ministro Humberto Martins, Segunda Turma, julgado em 19/5/2015, DJe de 26/5/2015.) (Grifei).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
