@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. VERBAS REMUNERATÓRIAS. IMPENHORABILIDADE. ART. 833, IV, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CUMPRIMENTO DE SENTENÇA. VERBA DE NATUREZA ALIMENTAR E PRESTAÇÃO ALIMENTÍCIA. DISTINÇÃO. ART. 833, § 2º, DO CPC/2015. EXCEÇÃO NÃO CONFIGURADA.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento dos recursos especiais nº 1.954.380/SP e 1.954.382/SP, sob o rito dos recursos representativos de controvérsia, firmou orientação no sentido de que "a verba honorária sucumbencial, a despeito da sua natureza alimentar, não se enquadra na exceção prevista no § 2º do art. 833 do CPC/2015 (penhora para pagamento de prestação alimentícia)" (Tema 1.153/STJ).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO SOCIAL - BNDES contra a decisão que negou provimento ao recurso especial.
+Em suas razões, o agravante alega, repisando argumentação anterior, que os honorários advocatícios possuem natureza alimentar, conforme entendimento do Supremo Tribunal Federal, razão porque seria possível a constrição na hipótese, especialmente porque a execução se arrasta há mais de uma década, configurando abuso de direito processual dos executados.
+Sustenta, ainda, que a tese fixada no Tema Repetitivo 1.153/STJ não se aplica ao caso concreto, pois a penhora dos ativos financeiros não compromete o mínimo existencial dos devedores.
+Devidamente intimada, a parte contrária apresentou impugnação (fls. 218/224 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. VERBAS REMUNERATÓRIAS. IMPENHORABILIDADE. ART. 833, IV, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CUMPRIMENTO DE SENTENÇA. VERBA DE NATUREZA ALIMENTAR E PRESTAÇÃO ALIMENTÍCIA. DISTINÇÃO. ART. 833, § 2º, DO CPC/2015. EXCEÇÃO NÃO CONFIGURADA.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento dos recursos especiais nº 1.954.380/SP e 1.954.382/SP, sob o rito dos recursos representativos de controvérsia, firmou orientação no sentido de que "a verba honorária sucumbencial, a despeito da sua natureza alimentar, não se enquadra na exceção prevista no § 2º do art. 833 do CPC/2015 (penhora para pagamento de prestação alimentícia)" (Tema 1.153/STJ).
+2. Agravo interno não provido.
+VOTO
+A insurgência não merece prosperar.
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos recursos especiais nº 1.954.380/SP e 1.954.382/SP (Rel. Ministro Ricardo Villas Bôas Cueva, DJe de 17/9/2024) sob o rito dos recursos representativos de controvérsia, firmou orientação no sentido de que "a verba honorária sucumbencial, a despeito da sua natureza alimentar, não se enquadra na exceção prevista no § 2º do art. 833 do CPC/2015 (penhora para pagamento de prestação alimentícia)" (Tema 1.153/STJ).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. EXECUÇÃO. PENHORA DO TOTAL DA MOVIMENTAÇÃO FINANCEIRA. NATUREZA ALIMENTAR DA VERBA EM EXECUÇÃO QUE NÃO A EQUIPARA À PRESTAÇÃO ALIMENTÍCIA. PRECEDENTE DA CORTE ESPECIAL. PENHORA DE 10% DE VENCIMENTOS LÍQUIDOS MENSAIS. POSSIBILIDADE. MITIGAÇÃO. GARANTIA DA SUBSISTÊNCIA DA PESSOA E FAMÍLIA. REVISÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+2. A Corte Especial deste egrégio Tribunal Superior orientou-se no sentido de que a verba honorária, muito embora tenha natureza alimentar, não ostenta natureza alimentícia para efeito de aplicação do art. 833, § 2º, do NCPC (REsp 1.815.055/SP, Rel. Ministra NANCY ANDRIGHI, Corte Especial, DJe 26/8/2020).
+3. No caso em exame, o Tribunal local concluiu pela existência de situação excepcional apta a permitir a mitigação da regra da impenhorabilidade, autorizando a constrição de 10% dos vencimentos líquidos mensais da parte agravada e concluiu ser incabível o bloqueio da totalidade de sua verba salarial, pois comprometeria seu sustento e de sua família. Alterar esse entendimento demandaria reexame do contexto fático-probatório dos autos, vedado em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Agravo interno não provido" (AgInt no AREsp n. 2.586.068/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. NOVO EXAME DO FEITO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. VERBAS REMUNERATÓRIAS. IMPENHORABILIDADE. ART. 833, IV, DO CPC. VERBA DE NATUREZA ALIMENTAR E PRESTAÇÃO ALIMENTÍCIA. DISTINÇÃO. ART. 833, § 2º, DO CPC. EXCEÇÃO NÃO CONFIGURADA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROVIDO.
+1. Decisão agravada reconsiderada, na medida em que a pretensão posta no recurso especial não depende do revolvimento de matéria fático-probatória, mas mera revaloração do substrato descrito no acórdão estadual. Inaplicabilidade da Súmula 7/STJ. Novo exame do feito.
+2. O Tribunal de origem concluiu que, "por se tratar de verba de natureza alimentar, admite-se a relativização da impenhorabilidade dos vencimentos, proventos, salários e aposentadorias quando a constrição for utilizada para o pagamento de honorários advocatícios contratuais e sucumbenciais".
+3. O referido entendimento, contudo, está em dissonância com o adotado nos recursos especiais julgados pelo rito dos repetitivos pela Corte Especial do Superior Tribunal de Justiça - REsp 1.954.380/SP e REsp 1.954.382/SP -, ambos de relatoria do Ministro RICARDO VILLAS BÔAS CUEVA, em recente julgamento realizado aos 5/6/2024, em que foi fixada a seguinte tese: "a verba honorária sucumbencial, a despeito da sua natureza alimentar, não se enquadra na exceção prevista no § 2º do art. 833 do CPC/2015 (penhora para pagamento de prestação alimentícia)".
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e dar provimento ao recurso especial" (AgInt no AREsp n. 2.539.629/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/9/2024, DJe de 16/9/2024).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisã o impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
