@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto JOELSON DOS SANTOS RAMOS contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula 7 deste STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial, que não merece prosperar.
+Nas razões do recurso especial, o recorrente aponta violação aos arts. 106, II, 108, III e 109, todos da Lei 6.880/1980, ainda, ao art. 35, II, b, do Decreto 9.580/1918, argumentando que:
+ ..  a reforma do Recorrente foi efetivada com os proventos do grau hierárquico por ele ocupado, PROPORCIONAIS AO TEMPO DE SERVIÇO, com fundamento no art. 106, II c/c art. 108, VI e art. 111, I, da Lei nº 6.880/804. Isso porque a Administração Militar não considerou o nexo de causalidade entre a incontroversa incapacidade definitiva do Recorrente e o serviço militar e, por essa razão, o reformou com os proventos proporcionais à graduação de Terceiro-Sargento (posto ocupado na ativa), trazendo-lhe enormes prejuízos financeiros e em total contrariedade aos fatos e direitos discutidos nestes autos (fl. 994).
+Afirma que:
+ ..  tem direito à retificação do ato de reforma, porquanto é flagrante a sua condição de incapacidade definitiva para o serviço militar que possui nexo de causalidade com o acidente sofrido em ato de serviço, fatos incontroversos nos autos, posto que reconhecido pelo Tribunal a quo, o que torna completamente absurda a reforma do Recorrente, promovida pela Administração Militar, com os proventos proporcionais (fl. 996).
+Por fim, defende que "a isenção do Imposto de Renda é consectário lógico- jurídico da reforma concedida ao Recorrente, em razão de doença oriunda de acidente sofrido em ato de serviço, nos termos da legislação aplicável à espécie" (fl. 1007).
+O Tribunal de origem decidiu a questão com base nos seguintes fundamentos:
+No caso, do que se vê das inspeções de saúde militar (fls. 135 e seguintes), o autor sofre de duas hérnias de disco avançadas, que culminaram em procedimento cirúrgico e colocação de 06 (seis) parafusos na coluna lombar. A sindicância de fl. 236 concluiu que a enfermidade tem relação de nexo causal com o serviço militar, concluindo pela ocorrência de acidente em serviço, vez que o militar era integrante da Banda de Música e tocava o instrumento "Tuba em Si Bemol", que pesava 15 quilos, o que gerou a discopatia, que se agravou ao longo dos anos, conforme se vê das inspeções de saúde realizadas nos anos 2008 a 2011 (fl. 135).
+Frise-se que, no caso do autor, restou incontroverso que a doença tem nexo de causalidade com o serviço militar (Sindicância de fl. 236). Assim, cumpre repisar que o autor, na condição de militar de carreira, estará amparado pela Lei 6.880/80, art. 108, III, visto que restou comprovado que a doença ocorreu em razão de acidente em serviço.
+ ..
+Do que se vê dos documentos juntados aos autos, restou comprovada a incapacidade do autor para o serviço militar. Não há elementos nos autos que comprove a incapacidade total e permanente da parte autora para qualquer trabalho, seja militar ou civil.
+O art. 110, § 1º, do Estatuto do Militar, já transcrito acima, dispõe que a incapacidade definitiva fica configurada quando o militar for considerado inválido, isto é, impossibilitado total e permanentemente para qualquer trabalho. Tal circunstância não restou plenamente esclarecida nos autos, o que afasta a pretensão de reforma, com proventos integrais e em grau hierárquico imediato (Segundo Tenente), nos termos do art. 110, § 1º, da Lei n. 6.880/80.
+ ..
+Da isenção de Imposto de Renda
+Por ocasião do julgamento do RESP 1116620/BA, pelo rito dos recursos repetitivos (Tema n. 250), firmou a seguinte tese: "conteúdo normativo do art. 6º, XIV, da Lei nº 7.713/88, com as alterações promovidas pela Lei nº 11.052/2004, (..) é explícito em conceder o benefício fiscal em favor dos aposentados/inativos PORTADORES DAS SEGUINTES MOLÉSTIAS GRAVES: moléstia profissional, tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, síndrome da imunodeficiência adquirida, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída depois da aposentadoria ou reforma.
+Por conseguinte, o rol contido no referido dispositivo legal é taxativo ("numerus clausus"), vale dizer, restringe a concessão de isenção às situações nele enumeradas. Comprovado por laudo pericial oficial que o autor sofre doença diversa das enumeradas pelo art. 6º, XIV, da Lei n. 7.713/88, não há falar em isenção de IRPJ (fls. 908-910).
+A pretensão da parte recorrente relativa à violação dos arts. 106, II, 108, III e 109, todos da Lei 6.880/1980, ainda, ao art. 35, II, b, do Decreto 9.580/1918, encontra óbice na Súmula 7/STJ.
+Isso porque, para alterar as conclusões do órgão julgador - "não há elementos nos autos que comprove a incapacidade total e permanente da parte autora para qualquer trabalho, seja militar ou civil" e que "comprovado por laudo pericial oficial que o autor sofre doença diversa das enumeradas pelo art. 6º, XIV, da Lei n. 7.713/88, não há falar em isenção de IRPJ" - seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+ EMENTA
