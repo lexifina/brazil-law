@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 339):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O agravante alega que "(..), o tema é crucial para o deslinde do feito, uma vez que afeta diretamente ao crédito fiscal em disputa neste caso. (..) É que a matéria afeta a própria existência do direito vindicado pela outra parte, pois diz respeito aos marcos prescricionais que deveriam ter extinto o crédito fiscal. Entretanto, nada disso foi examinado com precisão na origem, o que indica omissão de ponto fundamental para resolução da controvérsia em substancial afronta aos art. 1022/CPC." (fls. 346-347). Defende que em caso de negativa ao seu pleito, sejam subtraídos ou minorados os honorários recursais "(..), pois o montante estabelecido no TJMS já é suficientemente expressivo para prestigiar os cânones previstos no § 2º, do art. 85 do CPC. No tópico, é também de se ter em conta que não houve grande trabalho adicional do causídico da parte contrária, ora recorrida, na forma do que preceitua o § 11, do art. 85 do CPC, mas apenas o regular labor, sem nenhum demérito, ínsito à defesa contra a interposição de um recurso excepcional." (fl. 349).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, no que diz respeito à alegação de violação dos arts. 489, §1º, incs. II, III e IV, e 1022, inc. II, do CPC/2015, mantém-se o não provimento do recurso especial.
+Veja-se que a parte acusou a ofensa ao argumento de que a Corte local não se manifestou a respeito das seguintes questões: a) fato de que não se trata de cobrança de valor declarado e não pago, mas de execução que objetiva a cobrança dos valores não declarados como devidos pelo contribuinte, conforme se observa da CDA, com valores idênticos ao da diferença apurada em cada competência; b) houve, na realidade, lançamento suplementar, o qual, nos termos da jurisprudência do STJ, deve ocorrer no prazo de 5 anos da data do fato gerador; c) tendo em vista a data dos fatos geradores e a data de constituição definitiva do crédito em 18/01/2006, não se verifica a ocorrência de prescrição, por não ter transcorrido o prazo de 5 anos até a data da distribuição da presente execução fiscal em 20/07/2010.
+Não obstante, retira-se do acórdão recorrido (fls. 224-227):
+"Conforme relatado, insurge-se o Apelante contra a sentença que reconheceu a prescrição do crédito tributário, referente a cobrança de ICMS indevidamente creditado nos meses de outubro/2004, dezembro/2004 e março/2005.
+Cinge-se a controvérsia em analisar o termo inicial do prazo prescricional, já que a parte Apelante defende a necessidade de um lançamento suplementar, enquanto que na sentença restou decidido que deve ser a partir da apresentação da declaração nos tributos sujeitos ao lançamento por homologação.
+Pois bem.
+Examinando-se detidamente os elementos existentes, verifica-se que a sentença está correta e não comporta reparos.
+Inicialmente, importante ressaltar que em se tratando de imposto sujeito a lançamento por homologação, cabe ao contribuinte o dever de antecipar o pagamento sem prévio exame do fisco, nos termos do art. 150, do CTN .
+Assim, a entrega da declaração pelo sujeito passivo da relação relação tributária reconhecendo seu débito fiscal é suficiente para a constituição do crédito tributário, consoante orientação contida na Súmula n. 436, do STJ, confira-se:
+(..)
+Deste modo, com a entrega da declaração e o reconhecimento de débito fiscal pelo contribuinte, considera-se constituído o crédito tributário e iniciado o curso do prazo prescricional de 05 (cinco) anos para cobrança.
+A esse respeito, confira-se a regra inserta no art. 174, do CTN:
+(..)
+No caso dos autos, não há dúvidas que a constituição do crédito tributário cobrado ocorreu com a declaração apresentada pelo Recorrido, nos meses de outubro e dezembro de 2004, bem como referente ao mês de março de 2005, conforme se infere dos documentos de f. 111-156.
+Com efeito, o prazo prescricional para cobrança do crédito tributário ocorreu, respectivamente, em outubro e dezembro de 2009 e março de 2010, todavia, a presente execução fiscal somente foi ajuizada em 19/07/2010, conforme se vê do protocolo constante da inicial, confira-se:
+(..)
+Portanto, a nosso ver agiu com o acerto o Juízo a quo, já que corretamente reconheceu a ocorrência de prescrição. A propósito, transcreve-se parte da fundamentação lançada no decisium recorrido:
+".. De acordo com a Súmula nº 436 do STJ, "A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco." Com isso, a teor do que prescreve o enunciado de súmula nº 436 do STJ, a constituição definitiva do crédito tributário ocorreu com a declaração prestada pelo sujeito passivo nos meses de outubro e dezembro do ano de 2004 e março de 2005.
+Isso significa que o ente tributante não precisaria realizar qualquer outro procedimento tendente ao lançamento do crédito tributário declarado e não pago, podendo, de imediato, realizar a inscrição em dívida ativa.
+Insta salientar que a lavratura do Termo de Transcrição de Débito (TTD), com previsão nos arts. 86 e 87 do Código Tributário Estadual, com redação vigente à época dos fatos geradores, não constitui causa suspensiva ou interruptiva do prazo prescricional, pois o instituto da prescrição é regulado pela Lei nº 5.172/66 (Código Tributário Nacional) que, embora trata-se de lei ordinária, foi recepcionado pela Constituição Federal de 1.988 com status de lei complementar, estabelecendo normas gerais de direito tributário, incluindo-se as situações jurídicas que suspendem ou interrompem o prazo prescricional, de acordo com o disposto no art. 146, III, "b", da Carta Magna.
+Com isso, embora o direito tributário configure matéria atinente à competência concorrente (art. 24, I, da CF), é vedado aos Estados estabelecer novas hipóteses de suspensão e interrupção do crédito tributário, vez que se tratam de normas gerais de competência legislativa da União (art. 24, §1º, da CF), salvo na ausência de legislação, na qual é possível aos Estados legislar de maneira suplementar (art. 24, §3º, da CF), o que não é o caso da prescrição tributária.
+Ademais, a "transcrição" do crédito tributário declarado e não pago pelo sujeito passivo não pode ser entendido como nova hipótese de lançamento - até porque nem poderia - mas sim, como uma ferramenta de controle estatal quanto ao crédito tributário pendente de adimplemento. O que reforça essa tese, é o fato de que o próprio legislador estadual, em 24 de dezembro de 2014, por meio da Lei nº 4.625, alterou a redação dos arts. 86 e 87 do Código Tributário Estadual, retirando a necessidade de lavratura do TTD, acompanhando o entendimento sedimentado da Súmula 436 do STJ.
+Desse modo, tendo por constituído definitivamente o crédito tributário na data em que prestada a declaração pelo contribuinte - meses de outubro e dezembro do ano de 2004 e março de 2005 - o termo final do lustro prescricional se daria em outubro e dezembro de 2009 e março de 2010, o que evidentemente não foi observado pelo excepto, considerando que a distribuição desta ação ocorreu apenas em 20/07/2010.
+Portanto, há que ser declarada a prescrição do crédito tributário exigido através da CDA nº 3366/2009".
+Registre-se, ainda, que não restou demonstrada a ocorrência de nenhuma causa interruptiva da prescrição (parágrafo único, do art. 174, do CTN).
+Portanto, buscando-se evitar tautologia jurídica e considerando, ainda, que o Apelante não apresentou nenhum argumento novo capaz de infirmar a conclusão adotada na sentença, o caso é de improvimento do apelo."
+Diante do assentado, verifica-se que a Corte de origem pronunciou-se a respeito do direito aplicável ao caso dos autos por meio de fundamentação que guarda correspondência com a conclusão do acórdão, sendo de ressaltar que a resolução do conflito de interesses por meio da aplicação do direito que o colegiado entendeu adequado à hipótese não traduz negativa ou ausência de prestação jurisdicional .
+Finalmente, no tocante aos honorários recursais, conforme estabelecido na decisão ora agravada, em tendo sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, devem ser majorados em 10% os honorários advocatícios, observados os limites e parâmetros dos §§2º, 3º e 11 do art. 85 do CPC/2015 e eventual gratuidade da justiça (§3º do art. 98 do CPC/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
