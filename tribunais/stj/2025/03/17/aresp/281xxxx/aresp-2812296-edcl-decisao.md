@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por LAGOA DA ANTA EMPREENDIMENTOS HOTELEIROS LTDA à decisão de fls. 786/787, que não conheceu do recurso.
+Sustenta a parte embargante:
+Entretanto, da análise do dispositivo acima, é possível verificar que não restou claro se a majoração de 15% determinada por este Superior Tribunal de Justiça deve ser somada diretamente ao percentual de honorários já arbitrado na sentença do juízo a quo, ou se essa majoração de 15% deve incidir sobre o valor resultante do cálculo do primeiro percentual arbitrado.
+Essa obscuridade gera dúvidas quanto à correta aplicação dos honorários advocatícios, pois, caso o percentual arbitrado por esta instância superior seja somado ao percentual fixado pelo juízo a quo, o limite previsto no §2º do art. 85 do CPC seria extrapolado, já que ultrapassaria os 20% legalmente previstos, levando em consideração que a sentença de primeira instância fixou honorários em 15% (quinze por cento) sobre o valor da condenação. In verbis:
+ ..
+Ou seja, é necessário que fique claro que o percentual fixado pelo STJ deve incidir apenas no valor resultante do cálculo dos 15% (quinze por cento) fixados em sentença, afastando, assim, qualquer possível erro nos cálculos do processo de execução.
+Apenas a termos exemplificativos, levando em consideração que o valor da condenação totaliza R$ 10.000,00 (dez mil reais), os 15% (quinze por cento) de honorários previstos na sentença corresponderia ao montante de R$ 1.500, 00 (mil e quinhentos reais) e sobre este último valor é que se deve incidir a majoração em 15% (quinze por cento) prevista por esta instância, respeitando, assim, o limite percentual previsto da legislação processual.
+Ante o exposto, diante da obscuridade existente no dispositivo da decisão embargada, requer-se a manifestação clara e expressa deste Superior Tribunal de Justiça sobre o critério de cálculo da majoração dos honorários, devendo restar consignado que o percentual da majoração dos honorários aqui previsto deve incidir apenas sobre o valor resultante do cálculo do percentual de honorários já fixado na sentença do juízo a quo, respeitando-se o limite estabelecido no §2º do art. 85 do CPC (fls. 792/793).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Ressalte-se que os honorários recursais foram fixados em desfavor da parte recorrente de forma clara, no importe de 15% sobre o montante já arbitrado, ou seja, os honorários sucumbenciais fixados nas instâncias ordinárias, seja de forma equitativa, seja em percentual sobre o valor da condenação, da causa ou do proveito econômico obtido, servirão como base de cálculo sobre a qual incidirão os 15% da majoração, observados, sempre que aplicáveis, os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
