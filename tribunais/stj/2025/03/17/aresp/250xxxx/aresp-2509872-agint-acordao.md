@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE ATIVA. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto ESTADO DO PARANÁ da decisão de minha relatoria de fls. 267/271.
+A parte recorrente alega o seguinte (fls. 281/283):
+A decisão recorrida não merece prosperar, haja vista a flagrante violação ao artigo 1.022, inciso II, do Código de Processo Civil de 2015.
+Com efeito, observe-se que o Tribunal de origem não apreciou ponto fundamental da defesa do Estado, qual seja, a não autorização dos substituídos quando da propositura da ação, bem como a condição de associados.
+ ..
+Assim, não havendo manifestação, apesar de instado para tal, o Juízo a quo violou o artigo 1.022, inciso II, do CPC/2015. A jurisprudência do STJ está pacificada acerca da nulidade de acórdão omisso, exatamente por violação ao indicado dispositivo legal
+ ..
+É de ser devolvido os presentes autos à origem para que seja reapreciado os embargos declaratórios para que sejam fundamentados os pontos ali apontados, para que a decisão possa estar completa, em obediência ao princípio da segurança jurídica e da fundamentação das decisões.
+ ..
+Inaplicável, como trazido na decisão ora agravada, a hipótese da súmula n. 07 do STJ, como óbice, uma vez que no caso em comento, o Estado do Paraná apontou a existência de um erro de premissa fática no julgamento que negou provimento ao agravo de instrumento: ausência de legitimidade da AMAI para o ajuizamento da demanda, dado que os substituídos à época do ajuizamento, não detinham esta condição por não haver autorização expressa para que a AMAI postulasse no nome deles.
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 288/290).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE ATIVA. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece prosperar.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, e não há no julgado nenhum erro material, omissão, contradição ou obscuridade.
+Ao contrário do que afirma a parte agravante, o TJ/PR se manifestou expressamente sobre o assunto (fl. 82):
+Na casuística, é de bom alvitre pontuar que na ata assemblear há autorização para propositura das ações de conhecimento (seq. 1.3 - ação de conhecimento nº 0010931- 83.2010.8.16.0004), restando, dessa forma, inequívoca a vontade de seus associados quanto à propositura das ações.
+Ademais, sobreleva destacar que a ação diz respeito aos associados listados na exordial, tendo o Estado do Paraná, ora agravante, desde o início do processo, pleno conhecimento dos representados, não havendo, portanto, qualquer prejuízo para sua defesa e nem representantes estranhos à lide principal.
+Outrossim, a legitimidade ativa da Associação é reconhecida por diversos julgamentos desta E. Corte de Justiça, no sentido de que a AMAI detém legitimidade ativa para propositura e execução de título judicial a respeito da devolução das contribuições previdenciárias.
+Destaco que julgamento diverso do pretendido pela parte, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA.  ..  REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ.  ..  PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+ ..
+3. O acolhimento da tese recursal de que a petição apresentada pelo sindicato se tratava apenas de requerimento de exibição de documentos, e não de cumprimento de sentença, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.111.222/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/12/2024, DJEN de 5/12/2024.)
+No mérito, no que se refere à suposta ofensa aos arts. 515 e 783 do CPC, o Estado sustenta que "é incontroverso que o grupo de servidores públicos representado pela Associação recorrida não outorgou à mesma autorização expressa para o manejo da ação coletiva (fase de conhecimento)" (fl. 158).
+Entretanto, consta no acórdão recorrido que "é de bom alvitre pontuar que na ata assemblear há autorização para propositura das ações de conhecimento (seq. 1.3 - ação de conhecimento nº 0010931- 83.2010.8.16.0004)" (fl. 82).
+Adotar entendimento diverso implicaria o reexame do conjunto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial nesse ponto por incidência da Súmula 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. TEMA 476/STJ. DISTINGUISHING. AUSÊNCIA DE OMISSÃO. ANÁLISE DO ALCANCE DO TÍTULO EXECUTIVO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de Agravo Interno contra decisão monocrática que conheceu parcialmente do Recurso Especial e negou-lhe provimento, ante o óbice da Súmula 7/STJ e a ausência de violação do art. 489, §1º, IV, do CPC (fls. 1.200-1.203, e-STJ).
+2. Conforme consignado na decisão ora agravada, não há falar em ofensa ao art. 489, §1º, IV, do CPC. A despeito da alegação da parte agravante sobre a ausência de efetiva distinção entre o Tema 476/STJ e o presente caso, verificou-se que o Tribunal de origem realizou o distinguishing no seguinte trecho (fl. 1.094, e-STJ): "Este Órgão colegiado enfrentou devidamente a questão que lhe foi posta à apreciação, analisando o direito envolvido e adotando entendimento claro e expresso no sentido de não vislumbrar amparo legal à desconstituição do julgado rescindendo, sob o fundamento de violação à norma jurídica, uma vez que, a despeito do aparente confronto entre o acórdão rescindendo e o decidido pelo colendo STJ recurso representativo de controvérsia (REsp 1.235.513/AL) distinção havida no , o julgado tem esteio em entre o caso concreto e o recurso paradigma, qual seja, o fundamento processual no qual cada julgado se arrimou. Isso porque o STJ baseou-se na preclusão para evitar a violação à coisa julgada e esta Corte Regional, no alcance da utilidade buscada (reajuste de 28,86%) para vedar o enriquecimento ilícito".
+3. Quanto à incidência da Súmula 7/STJ, observa-se que a parte não apresentou elementos capazes de afastá-la. A discussão acerca do alcance do título executivo e da possibilidade de compensação demanda o reexame do conjunto fático-probatório. Nesse sentido, as seguintes decisões: AgInt no REsp 1.536.365/PR, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 5/4/2018; REsp 1.899.639, Rel. Min. Benedito Gonçalves, DJe de 28/10/2021; e REsp 1.972.442, Rel. Min. Benedito Gonçalves, DJe de 12/05/2022.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.998.469/PE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/11/2022.)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. COMPENSAÇÃO DE VALOES DO VALOR DEVIDO A TÍTULO DE REAJUSTE DE 28,86%. IMPOSSIBILIDADE. VIOLAÇÃO À COISA JULGADA. TEMA N. 476/STJ. QUESTÕES PASSÍVEIS DE COMPENSAÇÃO OU EXCESSO DE EXECUÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - O acórdão recorrido está em conformidade com orientação desta Corte segundo a qual não é possível a compensação do valor devido a título de reajuste de 28,86% com eventuais aumentos concedidos em decorrência de evolução funcional.
+V - Esta Corte, em sede de recurso especial representativo de controvérsia (Tema 476), firmou entendimento no sentido de possibilitar a alegação de compensação em sede de execução apenas quando baseada em fato que não era passível de ser invocado no processo cognitivo, sob pena de violação à coisa julgada.
+VI - In casu , rever a conclusão alcançada pelo tribunal de origem, a fim de verificar a existência de questões passíveis de compensação ou excesso de execução, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+VII - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+VIII - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IX - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+X - Agravo Interno improvido.
+(AgInt no REsp 1.989.403/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de DJe 13/10/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
