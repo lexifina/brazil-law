@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUCAS DA ROCHA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado, pelo Juízo de primeiro grau, à pena de 4 anos de reclusão, em regime inicial aberto, e ao pagamento de 10 dias-multa, pela prática do crime previsto no art. 157, caput, do Código Penal .
+O Ministério Público interpôs apelação, a qual foi provida a fim de fixar o regime fechado para o início do cumprimento da pena privativa de liberdade.
+Sustenta a impetrante que o acórdão é nulo, pois se trata de decisão contrária aos princípios da proporcionalidade, individualização, razoabilidade e humanidade das penas. Afirma que o acórdão não apreciou devidamente as teses elencadas pela defesa e decidiu de forma não fundamentada.
+Alega que o paciente é primário e era menor de 21 anos na época dos fatos, além de já terem decorrido 8 anos desde que o delito foi cometido (2017), razão pela qual não se justificaria a aplicação do regime inicial fechado.
+Requer, liminarmente e no mérito, a concessão da ordem em favor do paciente para anular o acórdão e determinar a manutenção do regime inicial aberto.
+Por meio da decisão de fls. 36 e 37, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 44 e 45), bem como a manifestação do Ministério Público Federal, opinando pela concessão parcial da ordem para fixar o regime semiaberto para início de cumprimento de pena (fls. 50-54).
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior (grifei):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+A existência de flagrante ilegalidade, contudo, autoriza a concessão parcial da ordem pretendida de ofício.
+O Tribunal local fundamentou a dosimetria da pena do paciente nos seguintes termos, conforme se observa do voto condutor do acórdão (fls. 29-31, grifei):
+Sopesadas as diretrizes estabelecidas no artigo 59 do Código Penal, a Magistrada a quo fixou as penas bases no mínimo legal, em 04 anos de reclusão e 10 dias-multa, no piso, porquanto, reputaram- se ausentes circunstâncias judiciais desfavoráveis.
+Contudo, conforme anotado pela acusação, o dolo do acusado foi intenso, extrapolando e muito o tipo penal, além de graves as consequências do ilícito, uma vez que conforme relatado pela vítima, com a conduta praticada pelo acusado, ela foi arremessada ao solo, o que lhe causou lesões na perna, cabendo anotar, ainda, que o celular subtraído foi utilizado para a invasão da conta bancária da vítima, pelo qual efetuaram transações bancárias.
+Como se vê, as circunstâncias e consequências do crime são exacerbadas, destacando-se aqui que o emprego de violência real contra vítima denota maior periculosidade do agente, a demandar maior rigor na aplicação da lei. Nesse sentido: "O emprego de violência real no crime de roubo, inclusive causando ferimentos na vítima, é fundamento apto para justificar a fixação da pena-base em patamar acima do mínimo legal." (REsp 1.760.809/SP, 6ª Turma, rel. Min. Laurita Vaz, julg. 05.02.2019, D Je 26.02.2019).
+Não se olvida, ainda, que a subtração do telefone celular também exige maior na fixação da pena, tratando-se de bem de uso essencial, de significativo valor econômico e intrínseco, enquanto repositório de informações sensíveis, inclusive bancárias e do cotidiano da vítima, a extrapolar o previsto no tipo penal.
+ ..
+Assim, as penas devem ser majoradas em 1/6, obtendo-se 04 anos e 08 meses de reclusão e 11 dias-multa, no piso.
+Na segunda fase, reconhecida a atenuante da menoridade relativa, as penas retornam ao mínimo legal, vale dizer, 04 anos de reclusão e 10 dias-multa, no piso.
+Na terceira fase, ausentes causas de aumento e de diminuição, as penas permanecerem inalteradas, tornadas definitivas à míngua de outras causas modificadoras.
+Quanto ao regime prisional, observadas as circunstâncias judiciais desfavoráveis, o regime inicial de cumprimento deve mesmo ser o mais gravoso fechado, atentando-se aos princípios da necessidade e da suficiência (artigos 33 e 59 do Código Penal), revelando o agente periculosidade exacerbada na consecução do ilícito.
+Conforme bem obtemperado pelo douto Procurador de Justiça oficiante "tratando-se da prática de crime, em que a vida e a integridade física da vítima ficam mais vulneráveis ante o destemor do agente, que mediante violência praticou o roubo, além das já citadas circunstâncias judiciais desfavoráveis, necessária a aplicação do regime prisional fechado, nos termos do artigo 33, §3, do Código Penal." (fl. 298).
+Este tipo de crime vem assolando nossa sociedade, que já não possui condições de viver sossegadamente, não havendo ofensa às Súmulas 718 e 719, ambas do Colendo Supremo Tribunal Federal, porquanto, a fixação do regime decorre dos fatos concretos, devidamente comprovados nos autos, e não da simples opinião do julgador.
+Ora, quem pratica delito tão audacioso como o roubo, denota inegável periculosidade e revela que não tem mérito para o ingresso, desde logo, ao regime menos rigoroso em especial no caso em tela, em que desfavoráveis as circunstâncias judiciais.
+Também se afigura descabido falar em substituição da pena corporal por restritivas de direitos ou "sursis", porque não recomendáveis e porque os requisitos legais não se veem como satisfeitos (artigos 44 e 77 do Código Penal), dada a violência empregada e o montante da pena aplicada, superior a quatro anos, o que afasta a aplicação de tais benesses.
+De fato, o reconhecimento de duas circunstâncias judiciais negativas justifica a imposição de regime prisional mais gravoso que o previsto no art. 33, § 2º, c, do CP, conforme § 3º do mesmo artigo.
+Contudo, sendo o paciente primário e considerando a pena imposta de 4 anos, o regime a ser aplicado deve ser aquele imediatamente superior ao previsto para a pena aplicada, sendo suficiente, no caso, o regime semiaberto. Nesse sentido (grifei):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. PENA-BASE. MOTIVO. CIRCUNSTÂNCIAS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese em apreço, não houve ilegalidade ou manifesta desproporcionalidade na exasperação da pena basilar, pois os motivos do crime foram apreciados de maneira negativa assente nas características do caso concreto, considerando a informação de que o paciente vinha sendo ameaçado e que portava arma de fogo com a finalidade de fazer justiça com as próprias mãos, invés de comunicar os fatos à Autoridade Competente.
+2. A fundamentação adotada levou em conta a maior reprovabilidade da origem propulsora da vontade criminosa, justificando maior censura na exasperação do vetor motivos do crime na primeira fase da dosimetria.
+3. Quanto às circunstâncias do crime, a pena-base foi exasperada com fundamentação idônea, pois, além da arma, foram apreendidas na posse do paciente 08 (oito) munições, o que denota maior gravidade da sua conduta, justificando a negativação da referida vetorial.
+4. Quanto ao incremento basilar para cada circunstância judicial negativada, também não há desproporcionalidade na exasperação operada no caso concreto, considerando a elevação no patamar de 1/8 (um oitavo) para cada circunstância judicial valorada.
+5. No que diz respeito ao regime de cumprimento de pena, embora a reprimenda aplicada não seja superior a 04 (quatro) anos, a pena-base foi fixada acima do mínimo legal em razão da negativação de duas circunstâncias judiciais, o que autoriza a fixação do regime intermediário, consoante jurisprudência desta Corte de Justiça.
+6. Agravo regimental não provido.
+(AgRg no HC n. 916.299/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA DA PENA E REGIME INICIAL DE CUMPRIMENTO. CULPABILIDADE EXACERBADA. ELEVADO VALOR DOS BENS SUBTRAÍDOS. REGIME SEMIABERTO PARA INÍCIO DO CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE. PENA ABAIXO DE 4 (QUATRO) ANOS. RÉU PRIMÁRIO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. INTELIGÊNCIA DO ART. 33, § 3º, DO CÓDIGO PENAL. RECURSO ESPECIAL DESPROVIDO.
+I. Caso em exame 1. Agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul que não admitiu o recurso especial. O recurso especial alega violação aos artigos 33, § 2º, "c", e 59 do Código Penal, em razão da negativação da culpabilidade e da fixação do regime semiaberto para o início do cumprimento da pena.
+II. Questão em discussão 2. A questão em discussão consiste em saber se a intensidade do dolo e o elevado valor do prejuízo causado constituem fundamento válido para negativar o vetor da culpabilidade e a fixação do regime semiaberto, mesmo com a pena fixada em quatro anos e não tendo o réu antecedentes criminais.
+III. Razões de decidir 3. As instâncias ordinárias valoraram a culpabilidade do recorrente com base na intensidade do dolo e no prejuízo causado, o que está em conformidade com a jurisprudência do STJ. De fato, a ação criminosa direcionada contra duas residências distintas e o elevado valor do prejuízo causado às vítimas, são elementos indicativos de maior reprovabilidade da conduta, justificando a exasperação da pena por esse motivo.
+4. A presença de circunstância judicial desfavorável, aliada à fixação da pena-base acima do patamar mínimo legal, justifica a imposição do regime semiaberto, conforme o art. 33, §§ 1º, 2º e 3º, do Código Penal.
+5. A jurisprudência do Superior Tribunal de Justiça admite a fixação de regime mais gravoso quando há circunstância judicial desfavorável, mesmo que a pena seja inferior a 4 anos e o réu seja primário e de bons antecedentes.
+IV. Dispositivo e tese 6. Recurso especial desprovido.
+(AREsp n. 2.520.194/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025.)
+Ante o exposto, não conheço do habeas corpus, mas concedo parcialmente a ordem de ofício para fixar o regime inicial de cumprimento da pena do paciente como sendo o semiaberto.
+Comunique-se. Publique-se. Intimem-se.
+ EMENTA
