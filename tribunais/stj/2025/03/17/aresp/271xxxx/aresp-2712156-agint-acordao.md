@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 805/812) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 786/791).
+Em suas razões, a parte agravante alega que "o debate travado nos autos não exige reexame de matéria fático-probatória ou análise de cláusulas contratuais, mas sim a aplicação adequada da legislação infraconstitucional e a harmonização com o entendimento jurisprudencial predominante desta Corte" (e-STJ fl. 811).
+No mérito, defende a retenção mínima de 25% (vinte e cinco por cento) das quantias pagas pelos adquirentes, mesmo ocorrendo o atraso na entrega das chaves.
+Ao final, pleiteia a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação, requerendo o arbitramento de honorários recusais (e-STJ fls. 817/823).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+VOTO
+A insurgência não merece conhecimento.
+O agravo em recurso especial foi decidido nos seguintes termos (e-STJ fls. 786/791):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por GAFISA S.A. e SPE PARQUE ECOVILLE EMPREENDIMENTOS IMOBILIÁRIOS LTDA., contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 5 e 7 do STJ (e-STJ fls. 574/578).
+O acórdão do TJPR traz a seguinte ementa (e-STJ fls. 446/448):
+APELAÇÕES CÍVEIS. DIREITO CIVIL. AÇÃO RESCISÓRIA. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. DESCUMPRIMENTO DE CLÁUSULA RELATIVA AO PRAZO PARA A ENTREGA DO EMPREENDIMENTO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DAS EMPRESAS RÉS (1). PEDIDO DE AFASTAMENTO DA APLICAÇÃO DA LEGISLAÇÃO CONSUMERISTA. IMPOSSIBILIDADE. TÍPICA RELAÇÃO DE CONSUMO ENTRE AS PARTES. ARGUMENTOS GENÉRICOS SOBRE CAUSAS DE INADIMPLEMENTO CONTRATUAL. FORÇA MAIOR E IMPREVISIBILIDADE NÃO VERIFICADAS. RISCOS, ADEMAIS, ASSUMIDOS PELAS EMPRESAS EM RAZÃO DA NATUREZA DA ATIVIDADE IMOBILIÁRIA. PRETENSÃO DE RETENÇÃO PARCIAL DE VALORES ADIMPLIDOS. IMPOSSIBILIDADE. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. MANUTENÇÃO DA CONDENAÇÃO À RESTITUIÇÃO INTEGRAL DAS PARCELAS. APLICAÇÃO DA SÚMULA Nº 543 DO SUPERIOR TRIBUNAL DE JUSTIÇA. TERMO INICIAL DOS JUROS DE MORA INCIDENTES SOBRE O VALOR A SER RESTITUÍDO. DATA DA CITAÇÃO. INTELIGÊNCIA DO ART. 405 DO CÓDIGO CIVIL. AFASTAMENTO DA INVERSÃO DA MULTA MORATÓRIA. IMPOSSIBILIDADE. APLICAÇÃO DO TEMA Nº 971/STJ. EXCLUSÃO DA CONDENAÇÃO AO PAGAMENTO DE DANOS EMERGENTES. PERTINÊNCIA. VEDAÇÃO À CUMULAÇÃO DE CLÁUSULA PENAL COM PERDAS E DANOS. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO PARCIALMENTE PROVIDO. APELAÇÃO DOS AUTORES (2). RESTITUIÇÃO DAS VERBAS DE TAXA DE CORRETAGEM E HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. INVIABILIDADE. APLICAÇÃO DO TEMA Nº 938/STJ E ENTENDIMENTO JURISPRUDENCIAL DA CORTE SUPERIOR. DANOS MORAIS. SUPOSTO CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRODUÇÃO PROBATÓRIA QUE SERIA INÓCUA DIANTE DAS ALEGAÇÕES GENÉRICAS DOS REQUERENTES. MERO ATRASO NA ENTREGA DO IMÓVEL QUE, POR SI SÓ, NÃO ENSEJA REPARAÇÃO FINANCEIRA. PRECEDENTES. VERBA HONORÁRIA. MANUTENÇÃO DO ARBITRAMENTO NO PERCENTUAL MÍNIMO. OBSERVÂNCIA AO ART. 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL. NECESSIDADE, CONTUDO, DE REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL. PARCIAL PROVIMENTO AO APELO. RECURSOS (1) E (2) PARCIALMENTE PROVIDOS.
+a) Não há falar em afastamento da aplicação do Código de Defesa do Consumidor ao caso porquanto evidenciada a típica relação de consumo entre as partes.
+b) Consoante a Súmula nº 543 do Superior Tribunal de Justiça, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+c) Tendo em vista que a rescisão contratual se deu por culpa das promitentes vendedoras, é de se afastar a pretensão de retenção parcial dos valores pagos, conforme o entendimento do Superior Tribunal de Justiça.
+d) "A jurisprudência desta Corte orienta que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação" (STJ. AgInt no AREsp 1761193/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe 13/04/2021).
+e) "No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial" (STJ. REsp n. 1.614.721/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/5/2019, DJe de 25/6/2019).
+f) "Independentemente do caráter da cláusula penal, se moratória ou compensatória, não cabe a cumulação com indenização por perdas e danos, seja na modalidade lucros cessantes ou danos emergentes" (STJ. AgInt no REsp 1699271/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe 18/12/2020).
+g) "1.1. Validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem" (STJ. REsp n. 1.599.511/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 24/8/2016, DJe de 6/9/2016).
+h) "1. Não integra a indenização o valor dos honorários contratuais estabelecidos entre a parte autora e seu patrono para o ajuizamento da demanda" (STJ. AgInt no AREsp n. 1.187.693/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2018, DJe de 4/12/2018).
+i) As alegações genéricas sobre danos morais decorrentes da rescisão contratual tornam desnecessária a produção probatória requerida, motivo pelo qual não há cerceamento de defesa na espécie.
+j) "A jurisprudência desta Corte é firme no sentido de que, em regra, o atraso na entrega do imóvel constitui mero inadimplemento contratual o que, por si só, não gera dano moral indenizável" (STJ. AgInt no REsp 1918358/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021).
+k) É de se manter o percentual arbitrado a título de honorários advocatícios porquanto observado o art. 85, § 2º, do Código de Processo Civil. Contudo, tendo em vista a extensão da sucumbência das partes, impõe-se a redistribuição do ônus na hipótese.
+No recurso especial (e-STJ fls. 485/502), fundamentado no art. 105, III, "a" e "c", da CF, as recorrentes apontaram violação dos arts. 104, 421, 422, 482 e 884 do CC/2002, alegando ser lícito reter 40% (quarenta por cento) dos valores pagos pela parte recorrida, porque o atraso na entrega das chaves estaria justificado por caso fortuito ou força maior.
+Subsidiariamente, afirmaram existir dissídio jurisprudencial, porque os precedentes desta Corte Superior admitiriam a retenção de 25% (vinte e cinco por cento) do montante pago pelos adquirentes, ante a rescisão culposa do contrato, justificando, assim, que, no caso concreto, a retenção de valores ocorresse no patamar aqui referido.
+Foram ofertadas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 538/551).
+No agravo (e-STJ fls. 708/717), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando o pedido de fixação de honorários recursais (e-STJ fls. 721/732).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto aos arts. 104, 421, 422, 482 e 884 do CC/2002 sob o enfoque apresentado pela parte recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A jurisprudência desta Corte é firme no sentido de que o direito à retenção de parte do montante das parcelas pagas somente é assegurado às construtoras quando a rescisão decorre da desistência ou da inadimplência do adquirente do imóvel. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR. RESTITUIÇÃO DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. MÁ-FÉ. NÃO OCORRÊNCIA. INVERSÃO DA CLÁUSULA PENAL. REVISÃO. SÚMULAS 5 E 7 DO STJ.
+1. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.124.791/MG, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. 1. ARTS. 394 E 395 DO CC/02. IMPOSSIBILIDADE DE ANÁLISE. INOVAÇÃO RECURSAL. 2. ATRASO DA OBRA. RESCISÃO CONTRATUAL. EXCLUDENTE DE RESPONSABILIDADE NÃO CONFIGURADA. REEXAME FÁTICO-PROBATÓRIO E ANÁLISE E INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. 3. DEMORA NA ENTREGA DO IMÓVEL POR CULPA DA INCORPORADORA. RESTITUIÇÃO DOS VALORES. POSSIBILIDADE. SÚMULA N. 345 DO STJ. 4. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. A resolução do contrato pela demora na entrega do imóvel, por culpa da incorporadora, demanda a restituição dos valores pagos pela adquirente integralmente. Súmula n. 543 do STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp 889.388/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 22/8/2016.)
+O Tribunal de origem, com base nos elementos de prova, concluiu que o atraso na entrega do imóvel decorreu de culpa exclusiva das recorrentes. Confira-se o seguinte excerto (e-STJ fls. 462/465):
+Na espécie, contudo, as apelantes (1) se valem de argumentos genéricos sobre as condições do setor imobiliário durante a pandemia da Covid-19 como fundamento para a alegada força maior.
+Deixaram, todavia, as recorrentes (1)de comprovar, efetivamente, que o descumprimento da cláusula contratual de entrega do empreendimento no prazo avençado ocorreu em razão da superveniência de impactos em sua atividade.
+Demais disso, a oscilação de preços de matéria prima e as variantes que influenciam os empreendimentos imobiliários nada mais são do que riscos comuns à atividade de construção e incorporação de imóveis.
+ ..
+Logo, correta a sentença ao declarar a rescisão contratual e impor integralmente às recorrentes (1)a obrigação de restituírem aos autores os valores adimplidos.
+Quanto à pretensão de retenção de 25% (vinte e cinco por cento) do montante total pago pelas requerentes, registre-se que o entendimento jurisprudencial invocado pelas apelantes (1) diz respeito às hipóteses em que o promitente comprador deu causa ao rompimento da relação contratual - o que, como visto, não ocorreu na hipótese.
+ ..
+Da análise dos julgados, vê-se que a rescisão contratual unilateral promovida pelo promitente comprador que possibilita a retenção em favor do promitente vendedor deve decorrer de ato imotivado.
+Significa dizer que a iniciativa do promitente comprador se dá de maneira injustificada. Todavia, na espécie, como dito, o atraso na entrega do empreendimento pelas próprias apelantes (1) é que levou à rescisão contratual.
+Para dissentir dessa conclusão, a fim de descaracterizar o inadimplemento contratual das empresas, seria necessário revolver o conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Diante de tal premissa fática, verifica-se que o acórdão recorrido decidiu conforme a jurisprudência pacífica desta Corte Superior, ao manter a condenação das empresas à devolução integral dos valores pagos pela parte recorrida, motivo pelo qual incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. DECISÃO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. APELAÇÃO. EFEITOS. RECEBIMENTO. HARMONIA DE ENTENDIMENTO. SÚMULA 83 DO STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGOS 932, III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+(..)
+2. Nos termos do art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o único fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo do recurso, o desacerto da decisão recorrida.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.152.930/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/10/2018, DJe 16/10/2018.)
+O entendimento da Corte local, confirmando a responsabilidade da parte agravante pela rescisão do compromisso de compra e venda imobiliário e rejeitando, por conseguinte, o pedido das empresas de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos compradores, foi mantido com base nas Súmulas n. 282 e 356 do STF e 7 e 83 do STJ e no fundamento da inaptidão da divergência interpretativa (Súmula n. 284/STF), por ausência de cotejo analítico e de indicação das normas objeto de interpretação divergente.
+A parte agravante apenas rechaçou especificamente a Sumula n. 7/STJ, o que atrai a Súmula n. 182/STJ, sendo omissa a respeito dos demais fundamentos adotados para solucionar a questão jurídica referida.
+Conforme o entendimento desta Corte Superior, "o agravo Interno é recurso que apenas prorroga, no mesmo grau de jurisdição, a discussão travada no recurso especial, o caso concreto não comporta a aplicação do art. 85, § 11, do CPC/2015" (EDcl no AgInt no AREsp n. 2.161.136/MG, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/6/2023, DJe de 28/6/2023).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DA RELAÇÃO CONTRATUAL C/C REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO. PROVA DA CONTRATAÇÃO. REALIZAÇÃO DE PERÍCIA. DESNECESSIDADE. CERCEAMENTO DE DEFESA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISDIÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios do art. 85, § 11, do CPC.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.311.636/CE, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 19/6/2023, DJe de 21/6/2023.)
+Fixados honorários recurs ais após o desprovimento do agravo em recurso especial da parte agravante, descabe cogitar de nova incidência do referido encargo no agravo interno, por inexistência de nova instância recursal.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
