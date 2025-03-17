@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. INSCRIÇÃO DO MUNICÍPIO NO SIAFI/CADIN. SUSPENSÃO. REPASSE DE RECURSOS. AÇÕES SOCIAIS. INTERPRETAÇÃO RESTRITA.
+1. De acordo com entendimento pacificado no âmbito da jurisprudência do STJ, a interpretação da expressão "ações sociais" não pode ser ampla ao ponto de incluir hipóteses não apontadas pelo legislador (art. 26 da Lei n. 10.522/2002).
+2. No caso, a decisão agravada, ao afastar a realização de pavimentação asfáltica e requalificação de lagoa do conceito de ações sociais, seguiu o entendimento desta Corte. Precedente: AgInt no REsp 1.832.197/BA, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 21/11/2019, DJe 27/11/2019.
+3 . Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo MUNICÍPIO DE IRARÁ/BA para desafiar decisão de minha lavra, proferida às e-STJ fls. 1.410/1.413, em que dei provimento aos recursos especiais interpostos pelo ESTADO DA BAHIA e pelo MINISTÉRIO PÚBLICO/BA, para julgar improcedente o pedido municipal.
+No presente agravo interno, sustenta o recorrente, em síntese, que as obras de pavimentação de ruas e requalificação da Lagoa Madalena possuem caráter social, de modo a autorizar a dispensa das certidões negativas expedidas pelos órgãos de controle.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Impugnações.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. INSCRIÇÃO DO MUNICÍPIO NO SIAFI/CADIN. SUSPENSÃO. REPASSE DE RECURSOS. AÇÕES SOCIAIS. INTERPRETAÇÃO RESTRITA.
+1. De acordo com entendimento pacificado no âmbito da jurisprudência do STJ, a interpretação da expressão "ações sociais" não pode ser ampla ao ponto de incluir hipóteses não apontadas pelo legislador (art. 26 da Lei n. 10.522/2002).
+2. No caso, a decisão agravada, ao afastar a realização de pavimentação asfáltica e requalificação de lagoa do conceito de ações sociais, seguiu o entendimento desta Corte. Precedente: AgInt no REsp 1.832.197/BA, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 21/11/2019, DJe 27/11/2019.
+3 . Agravo interno desprovido.
+VOTO
+Compulsando os autos, verifico que a decisão recorrida não merece ajuste.
+Sobre a possibilidade de suspensão da inscrição do município inadimplente no SIAFI e CAUC, nos termos da Lei n. 10.522/2002 e LC n. 101/2000, para fins de repasses destinados à execução de ações sociais e/ou ações em faixa de fronteira, "a interpretação da expressão "ações sociais" não pode ser ampla ao ponto de incluir hipóteses não apontadas pelo legislador, haja vista que, se assim procedesse qualquer atuação governamental em favor da coletividade, seria possível de enquadramento nesse conceito" (AgRg no REsp 1.439.326/PE, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 24/02/2015, DJe 02/03/2015).
+No caso, consta do acórdão recorrido o seguinte (e-STJ fl. 672):
+Assim, é incabível ao convênio solicitado a aplicação da restrição do art. 25 da Lei de Responsabilidade Fiscal, uma vez tratar-se de transferência de recursos ao Município destinada à execução de ações sociais, no caso, consistem na pavimentação asfáltica para retirar da zona de precariedade 42 (quarenta e duas) ruas, que, atualmente, se apresentam com ausência de infraestrutura para a comunidade, num Município de 29 mil habitantes que tem depende essencialmente dos repasses de verbas.
+No mesmo sentido, a requalificação da Lagoa Madalena é obra de interesse social que busca sanear situação de abandono que prejudica a saúde pública e o meio ambiente.
+Examinando o excerto supratranscrito, vê-se que a improcedência do pedido se impõe, conforme consignado na decisão agravada.
+Com efeito, a orientação desta Corte é no sentido de que "a drenagem profunda de águas pluviais e a pavimentação de via pública, nada obstante sua importância para o desenvolvimento urbano e para o bem-estar da comunidade, não se amoldam ao conceito de ação social previsto no art. 26 da Lei n. 10.522/2002". (AgInt no REsp 1.832.197/BA, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 21/11/2019, DJe 27/11/2019).
+Nesse mesmo sentido, destaco:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REPASSE DE VERBA PELA UNIÃO. INSCRIÇÃO DA MUNICIPALIDADE NO SIAFI/CAUC. PAVIMENTAÇÃO DE VIAS PÚBLICAS. CONTROVÉRSIA SOBRE A ABRANGÊNCIA DO CONCEITO DE "AÇÕES SOCIAIS". ART. 26 DA LEI N. 10.522/2002. INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. FUNDAMENTO AUTÔNOMO INATACADO. PRECLUSÃO CONSUMATIVA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AGRAVO INTERNO CONTRA DECISÃO FUNDAMENTADA NAS SÚMULAS 83 E 568/STJ (PRECEDENTE JULGADO SOB O REGIME DA REPERCUSSÃO GERAL, SOB O RITO DOS RECURSOS REPETITIVOS OU QUANDO HÁ JURISPRUDÊNCIA PACÍFICA SOBRE O TEMA). MANIFESTA IMPROCEDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A tese relativa à inobservância do devido processo legal não foi oportunamente suscitada, embora oportunizada a apresentação de contrarrazões ao Recurso Especial, o que configura inadmissível inovação recursal.
+III - Acórdão recorrido contrário ao entendimento consolidado nesta Corte, segundo o qual, a pavimentação e o cascalhamento de vias públicas não podem ser enquadrados no conceito de ação social previsto no art. 26 da Lei n. 10.522/2002.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação.
+VI - Considera-se manifestamente improcedente e enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão fundamentada em precedente julgado sob o regime da Repercussão Geral, sob o rito dos Recursos Repetitivos ou quando há jurisprudência pacífica de ambas as Turmas da 1ª Seção acerca do tema (Súmulas n. 83 e 568/STJ).
+VII - Agravo Interno improvido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(AgInt no REsp 1.721.615/BA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/04/2018, DJe 25/04/2018).
+Confiram-se, ainda: REsp 1.527.308/CE, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 16/06/2015, DJe 05/08/2015; AgRg no REsp 1.457.430/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 03/12/2015, DJe 15/12/2015; REsp 13.72.942/AL, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 01/04/2014, DJe 11/04/2014.
+De rigor, portanto, a manutenção da decisão recorrida.
+Assim, NEGO PROVIMENTO ao agravo interno.
+É como voto.
