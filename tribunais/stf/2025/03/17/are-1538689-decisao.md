@@ -1,0 +1,71 @@
+DECISÃO:
+
+    Vistos.
+
+    Sindicato dos Trabalhadores em Saúde, Trabalho e Previdência Social do Estado de Mato Grosso - SINDSPREV/MT interpõe agravo contra a decisão que não admitiu recurso extraordinário manejado em face de acórdão proferido pela Segunda Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+
+    “APELAÇÃO - AÇÃO DECLARATORIA DE REPRESENTATIVIDADE SINDICAL - TRABALHADORES DA ÁREA DA SAÚDE, TRABALHO, PREVIDÊNCIA E ASSISTÊNCIA SOCIAL - NECESSIDADE DE ESPECIFICAÇÃO - SERVIDOR PÚBLICO FEDERAL - CATEGORA ESPECÍFICA - REPRESENTAÇÃO PELO SINDICATO DOS SERVIDORES PÚBLICOS FEDERAIS DE MATO GROSSO - SINDSEP (MT) - PRINCÍPIO DA UNICIDADE SINDICAL EMPREGADOS PÚBLICOS - REPRESENTAÇÃO PELO SINDICATO DOS TRABALHADORES EM SAÚDE, SEGURIDADE; TRABALHO E PREVIDÊNCIA SOCIAL EM MATO GROSSO - SINDSPREV/MT PRINCÍPIO DA ESPECIFICIDADE - RECURSO PARCIALMENTE PROVIDO.
+
+    Considerando que o SINDSEP (MT) é o único Sindicato com previsão, tanto estatutária quanto perante o Ministério do Trabalho, para a representação específica dos servidores públicos federais em sentido estrito no Estado de Mato Grosso, a representativa da citada categoria, mesmo daqueles que exercem seus cargos nas áreas da Saúde, Trabalho, Previdência e Assistência Social, incluindo Instituto da Seguridade Social, Ministério da Saúde, Delegacia Regional do Trabalho e FUNASA - Fundação Nacional da Saúde, por força do princípio da unicidade sindical, deve ser a ele reconhecida.
+
+    Por outro lado, diante da previsão específica para representação dos trabalhadores que exercem suas atividades, no Estado de Mato Grosso, nas áreas acima e entidades acima indicadas, os empregados públicos, ou seja, aqueles regidos pela regime celetista, federais e estaduais, devem ser representados pelo SINDSPREV/MT.”
+
+    Opostos dois embargos de declaração, ambos foram rejeitados.
+
+    Sustenta o recorrente, nas razões de seu apelo extremo, violação do art. 8°, inciso III, da Constituição Federal.
+
+    Alega que o “acórdão delineado claramente fere o princípio da unicidade sindical, especialmente ao declarar o SINDSEP/MT como entidade sindical legítima para representar todos os sindicalizados da categoria dos servidores públicos federais, deixando a encargo do SINDSPREV/MT apenas os empregados públicos, regidos pelo regime celetista”.
+
+    Aponta que “na sua fundamentação o acórdão recorrido busca firmar a legitimidade a partir da análise técnica das palavras adotadas nos estatutos quanto às suas respectivas representatividades, mas não se atenta que o estatuto do SINSPREV/MT, datado de 8 de novembro de 1988, foi cadastrado nos órgãos oficiais antes da promulgação CRFB/88, diferentemente do estatuto do SINDSEP/MT, cadastrado após a edição da carta republicana, em 22 de fevereiro de 1990”.
+
+    Busca o provimento do recurso “reconhecendo-se como legítima a representação sindical do Recorrente em relação a categoria dos servidores públicos federais, em sentido estrito, da Saúde, Trabalho Previdência e Assistência Social (Ministério do Desenvolvimento Social), inclusive os vinculados ao Instituto Nacional do Seguro Social (INSS); Ministério da Saúde; Ministério do Trabalho (extinto) ex-Delegacia e Superintendência Regional do Trabalho; e da Fundação Nacional de Saúde (FUNASA) e seus órgãos sucessores.
+
+    Decido.
+
+    A irresignação não merece prosperar, haja vista que o recorrente não apresentou tópico de repercussão geral da matéria devidamente fundamentada nos aspectos econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa frente às questões constitucionais invocadas no recurso extraordinário.
+
+    Com efeito, é dever da parte recorrente demonstrar de forma devidamente fundamentada, expressa e clara as circunstâncias que poderiam configurar a relevância das questões constitucionais suscitadas no recurso extraordinário, o que não ocorreu no caso em tela.
+
+    Nesse ponto o recorrente na petição do apelo extremo limitou-se a consignar que:
+
+    “II. DA REPERCUSSÃO GERAL
+
+    - § 3° art. 102 da Constituição Federal
+
+01. A Emenda Constitucional 45, de 8 de dezembro de (Reforma do Poder!Judiciário), trouxe ao mundo jurídico o requisito da Repercussão Geral no Recurso Extraordinário. Desta feita, a referida Emenda Constitucional acrescentou o parágrafo 3°, ao artigo 102 da Constituição Federal de 1988, in verbis:
+
+    "§ 3° No recurso extraordinário o recorrente deverá demonstrar a repercussão geral das questões constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admissão do recurso; somente podendo recusá-lo pela manifestação de dois terços de seus membros.
+
+    02. No caso em tela são de suma relevância as questões jurídicas, econômicas e sociais que ultrapassam os interesses subjetivos das partes litigantes, posto que os reflexos jurídicos na ordem jurídica são palpáveis quando considerada a abrangência da legitimidade do Sindicato Recorrente, e principalmente, o número de servidores públicos federais representados pelo Sindicato em questão.”
+
+    A mera afirmação genérica de existência de repercussão geral, desacompanhada de robusta fundamentação da relevância econômica, política, social ou jurídica da questão constitucional, não é suficiente para o conhecimento do recurso extraordinário, nos termos do art. 102, § 3º, da Constituição Federal e do art. 1.035 do CPC/2015. Nesse sentido:
+
+    “DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. INDIVIDUALIZAÇÃO DA PENA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 2. Deficiência na fundamentação, em recurso extraordinário interposto sob a égide do CPC/2015, da existência de repercussão geral da questão constitucional suscitada. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015. O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo. A afirmação genérica da existência de repercussão geral ou a simples indicação de tema ou precedente desta Suprema Corte são insuficientes para o atendimento do pressuposto. 3. Agravo interno conhecido e não provido” (ARE nº 1.321.091/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 28/5/21 - grifo nosso).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. DISCUSSÃO DE ÂMBITO INFRACONSTITUCIONAL. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). FALTA DE FUNDAMENTAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 339). SUBSISTÊNCIA DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - É ônus da parte recorrente apresentar a preliminar, formal e fundamentada, de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias que evidenciem, no caso concreto, a transcendência dos interesses subjetivos da causa, para que seja atendido o requisito previsto no art. 102, § 3°, da CF e no art. 1.035 do CPC, o que não foi observado pela parte recorrente. III - O Supremo Tribunal Federal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660 - ARE 748.371-RG/MT). IV - No julgamento do AI 791.292-QO-RG/PE (Tema 339), relatado pelo Ministro Gilmar Mendes, reconheceu-se a repercussão geral e reafirmou-se a orientação no sentido de que a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique, de forma clara, as razões de seu convencimento. V - Agravo regimental a que se nega provimento.” (ARE nº 1.263.035/MG-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 22/5/20).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIMES DE TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ARTIGO 33 DA LEI 11.343/2006 E ARTIGO 12 DA LEI 10.826/2003. DEFICIÊNCIA NA FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL. ARTIGO 1.035, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015 C/C ARTIGO 327, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA CRIMINAL. INEXISTÊNCIA DE REPERCUSSÃO PRESUMIDA. PRECEDENTES. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. ALEGADA VIOLAÇÃO AOS ARTIGOS 5º, LIII E LVII, E 129, I, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO JUIZ NATURAL, DA PRESUNÇÃO DE INOCÊNCIA E DO SISTEMA ACUSATÓRIO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. ALEGADA OFENSA AO SISTEMA ACUSATÓRIO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO INTERNO DESPROVIDO.” (ARE nº 1.264.183/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 26/5/20).
+
+    Ademais, para infirmar as conclusões do aresto recorrido acerca da abrangência da representatividade do sindicato seria imprescindível a analise da legislação infraconstitucional aplicável à espécie e o reexame de fatos e provas constantes dos autos. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Incidência da Súmula nº 279 desta Corte. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. CONTRIBUIÇÃO SINDICAL. COMPETÊNCIA. LEGITIMIDADE ATIVA PARA REPRESENTAÇÃO DE ASSOCIADOS. UNICIDADE SINDICAL. BASE TERRITORIAL. EXTENSÃO. 1. Nos termos da jurisprudência da Corte, a competência da Justiça do Trabalho para o julgamento das ações que discutem contribuição sindical, sob a égide da EC 45/2004, não alcança os processos em trâmite na Justiça Comum com sentença de mérito proferida em data anterior à promulgação da referida emenda constitucional. Precedentes. 2. Constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, em relação à discussão acerca da delimitação da validade ou não da extensão da base territorial do sindicato com base em ato do Poder Público, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo. Precedentes. 3. Agravo regimental a que se nega provimento.” (ARE nº 1.395.289/MG-AgR, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 09/02/2023).
+
+    “Embargos de declaração no agravo regimental no recurso extraordinário com agravo. 2. Direito Processual Civil. 3. Base territorial de sindicato. Princípios da unicidade e especialidade sindical. Legitimidade extraordinária de sindicato para substituir sindicalizado de base territorial diversa. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 5. Ausência de omissão, contradição, obscuridade ou erro material. Não caracterização. 6. Embargos de declaração rejeitados” (ARE nº 1.299.762/SP-AgR-ED, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 04/04/2022).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. LEGITIMIDADE ATIVA PARA REPRESENTAR SEUS ASSOCIADOS. UNICIDADE SINDICAL. ESPECIALIDADE. BASE TERRITORIAL. 1. O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não ostenta repercussão geral. Precedente: RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.08.2013. 2. Constata-se que eventual divergência ao entendimento adotado pelo juízo a quo, em relação aos elementos de base territorial, unicidade sindical e especialidade, demandaria o reexame de fatos e provas e o da legislação infraconstitucional, aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Precedentes. 3. Agravo regimental a que se nega provimento” (RE nº 921.561/RS-AgR, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 10/12/2015).
+
+    “Agravo regimental no recurso extraordinário. Constitucional. Sindicato. Representação. Base territorial. Categoria diferenciada. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 280 e 279 desta Corte. 2. Agravo regimental não provido.” (RE nº 589.456/ES-AgR, Primeira Turma, de minha Relatoria, DJe de 06/03/2013)
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 17 de março de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
