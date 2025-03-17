@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CESAR AUGUSTO VIEIRA SENA - denunciado como incurso nas penas do art. 35, caput, c/c o art. 40, VI, da Lei n. 11.343/2006, com prisão temporária convertida em preventiva, mas o mandado de prisão não foi cumprido, encontrando-se na condição de foragido (fls. 12/32) -, em que se aponta como autoridade coatora a Segunda Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (Habeas Corpus n. 2042007-02.2025.8.26.0000).
+A defesa sustenta que o paciente tem direito de prestar depoimento em audiência virtual de instrução, debates e julgamento, designada para o dia 19/3/2025, mesmo na condição de foragido, e que o indeferimento do pedido pelo juiz monocrático constitui cerceamento da ampla defesa (fls. 4/5).
+Afirma que a condição de réu foragido não impede o exercício da defesa, e que a exigência de atualização de endereço e apresentação em juízo para cumprimento do mandado de prisão não encontra respaldo legal (fls. 6/7).
+Alega que negar ao foragido a oportunidade de ser interrogado virtualmente constitui violação dos princípios da ampla defesa e do contraditório, e que a urgência da questão justifica a concessão de liminar para evitar prejuízo ao paciente (fls. 9/10).
+No mérito, a defesa requer a concessão de medida liminar para permitir que o paciente seja interrogado em audiência virtual, até o julgamento do habeas corpus (fls. 10/11).
+É o relatório.
+Quanto à possibilidade de o paciente, que se encontra foragido, participar de audiência por meio de videoconferência, não merece acolhimento.
+Melhor esclarecendo, no caso, contravindo os argumentos dispostos neste writ, afigura-se inviável acolher-se a pretensão, sobretudo porque - sobre a impossibilidade de participação de paciente foragido, por videoconferência, em ato formal da instrução processual - contrária à jurisprudência deste Superior Tribunal, qual seja, a jurisprudência desta Corte Superior de Justiça é uníssona no sentido de não ser possível o reconhecimento de nulidade na não realização de interrogatório de réu foragido que possui advogado constituído nos autos, não sendo legítimo que o paciente se aproveite dessa situação para ser interrogado por videoconferência, o que configuraria verdadeiro desprezo pelas determinações judiciais, uma vez que deveria estar preso. Em outras palavras, "a ninguém é dado beneficiar-se da própria torpeza " (AgRg no HC n. 825.382/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/9/2023).
+De mais a mais, o estado de foragido do paciente não lhe garante o direito a participar da audiência por meio remoto. Inclusive, ressalta-se, não há qualquer impedimento ou dificuldade de o ora paciente participar do referido ato de forma presencial. A não ser, a evidente pretensão de permanecer escondido da Justiça.
+Nesse sentido: AgRg no RHC n. 153.351/SP, Ministro Ribeiro Dantas, Quinta
+Turma, DJe 1º/4/2022; AgRg no RHC n. 166.325/MG, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/12/2022, DJe 13/12/2022 e HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018.
+Ante o exposto, indefiro liminarmente o writ.
+Publique -se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. LEGISLAÇÃO EXTRAVAGANTE. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. PACIENTE FORAGIDO. DEPOIMENTO EM AUDIÊNCIA VIRTUAL DE INSTRUÇÃO, DEBATES E JULGAMENTO. IMPOSSIBILIDADE. CONSTRANGIMEN TO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
