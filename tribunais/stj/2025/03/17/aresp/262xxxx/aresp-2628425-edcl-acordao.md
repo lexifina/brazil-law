@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegada contradição no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Panair do Brasil Ltda. desafiando acórdão prolatado pela eg. Primeira Turma, assim ementado (fl. 566):
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS ADOTADOS PELA DECISÃO LOCAL QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico e individualizado, todos os fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial. Incidência da Súmula 182 do STJ. Nesse sentido: EAREsp 701.404/SC, Corte Especial, relator para acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018.
+2. Agravo interno não provido.
+A parte embargante alega que o aresto embargado incorreu em omissão, sustentando, em síntese, que " o  que a ora embargante pretendeu e ainda pretende, através do presente, é que sejam, pelo menos, apontados os fundamentos que levaram tanto à Ilma relatora do Resp em tela, quanto esta Turma, à alegação genérica de que os todos os termos do acórdão do tribunal de origem não foram combatidos pela ora embargante, considerando que, todos eles, sem exceção, foram devidamente demonstrados, sobretudo com o uso de doutrinas, normas legais, julgados e a própria sentença, cujo mérito captou, perfeitamente as violações reclamadas pela Embargante" (fl. 581).
+Sustenta, ademais, que "a ora embargante reclama da falta de valor atribuído pelo tribunal de origem, sobretudo, de um laudo pericial técnico, em sede de Resp, todos os demais pontos são eximidos, de acordo com o entendimento acima, de serem impugnados, restando-lhes apenas a preclusão e não o julgamento, com todo o respeito, equivocado, e sem fundamento, de que não foram atacados. O único ponto a ser considerado é a falta de atribuição e análise correta do valor da prova. Nada mais. Um laudo pericial, um julgado anterior do mesmo caso, uma sentença totalmente assertiva e justa, não podem ser descartados como inexistentes num feito de apropriação de valores por parte da União por três vezes" (fl. 583).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegada contradição no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada, os quais a parte embargante sustenta existirem no decisum embargado.
+No caso dos autos, verifica-se que o acórdão embargado não incorreu em omissão ao manter decisório unipessoal que entendeu pela incidência do empeço sumular 182/STJ, tendo em vista que, nas razões do agravo em recurso especial interposto, a parte agravante deixou de impugnar todos os fundamentos utilizados pelo decisum agravado para entender pela inadmissibilidade do apelo nobre, deixando de atacar, de maneira específica, a incidência da Súmula 284/STF à espécie, aplicada ante a inexistência de demonstração precisa da violação aos dispositivos legais invocados como malferidos.
+A decisão objurgada foi, ademais, límpida ao registrar que, no tocante à ausência de refutação do referido obstáculo sumular, o decisório que negou trânsito ao especial apelo destacou, claramente, que as deficientes razões recursais do apelo raro "não evidenciam, de modo claro, possível contrariedade ou negativa de vigência a tratado ou lei federal por parte do acórdão recorrido, a permitir a conclusão de que o recurso se insira na alínea a do art. 105, III, da Constituição Federal, cuja fundamentação do recurso se limita a alegar que a conclusão adotada no v. acórdão impugnado teria levado à bitributação" (fl. 1.032).
+Contudo, no agravo em recurso especial, limitou-se a parte ora embargante a sustentar a não incidência da Súmula 7/STJ, sob a justificativa de que "mais do que necessária a revaloração das provas deste feito, é uma questão de justiça. Essa revaloração situa-se na análise da questão de direito, portanto, trata do cotejo do valor que foi atribuído à prova pela instância inferior e do que lhe é atribuído por lei, sob pena de incorrer, como ocorreu, o endosso pelo Judiciário, da incidência da bitributação arbitrária" (cf. fl. 370), o que, a toda evidência, não combate a incidência, à espécie, do supracitado empeço sumular 284 do Pretório Excels o, capaz de desconstituir a aplicação do óbice 182 desta Corte.
+Como se vê, não existe omissão no julgado embargado capaz de abrir pórtico para o cabimento dos embargos aclaratórios. Aliás, da própria fundamentação do recurso aclaratório apresentado pelo embargante, vê-se que sua intenção é apontar a existência de error in judicando, propósito este incompatível com a via integrativa.
+Confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância d a parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, rel. Ministro Og Fernandes, Primeira Seção, julgado em 22/8/2018, DJe 28/8/2018.)
+Por fim, a latere, acrescente-se ser firme o entendimento desta Corte de que, " s e o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp 1.559.725/PE, rel. Ministro Og Fernandes, Primeira Seção, DJe de 30/8/2017).
+Inexistente, pois, qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
