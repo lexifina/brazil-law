@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MAURO GOMES GRESELE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+TÍTULOS DE CRÉDITO (CÉDULA DE CRÉDITO BANCÁRIO). AÇÃO DE EXECUÇÃO. PEDIDO DE DESCONSIDERAÇÃO DIRETA E INVERSA DA PERSONALIDADE JURÍDICA. REJEIÇÃO. REFORMA. PRESENÇA DOS REQUISITOS INDISPENSÁVEIS À PRETENDIDA DESCONSIDERAÇÃO (CONFUSÃO PATRIMONIAL DECORRENTE DE DESVIO DE FINALIDADE). ..  AGRAVO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 50, §§ 3º e 4º, do CC, no que concerne à ilegalidade da desconsideração da personalidade jurídica, tendo em vista que não estão presentes os requisitos autorizadores para tanto, trazendo a seguinte argumentação:
+Ora, no caso em exame o pedido de desconsideração se ampara basicamente numa mera possibilidade de fraude à execução pela insolvência da parte executada. Não há qualquer indício de confusão patrimonial, mas a mera alegação identidade de sócios entre diferentes empresas, o que, em si, não teria o condão sequer de sinalizar um grupo econômico quanto mais o abuso de direito.
+Neste diapasão, concordar com o r. decisão do agravo de instrumento, para que o recorrente responda com seu patrimônio pelos débitos exigidos é confrontar o que já foi definido pela legislação e pelos órgãos julgadores, pois a lei pátria é clara e objetiva em relação aos requisitos para o deferimento da desconsideração da personalidade jurídica.
+Notam-se o verdadeiro desespero da recorrida, pelo fato de que a pessoa que firmou contrato com eles, simplesmente desapareceu, e assim buscam incessantemente outro culpado para arcar com uma dívida do desaparecido e assim não ficarem no prejuízo.
+ ..
+Seria necessário a recorrida ter efetivamente comprovado fraude e abuso de direito por parte dos sócios. Não há desvio de finalidade quanto ao seu objeto social. Não há igualmente confusão patrimonial, o que poderia ser provado por exemplo apurando-se que a sociedade paga dívidas de sócios ou registra bens do sócio em nome da sociedade. Nenhuma prova nesse sentido foi produzida. Não se justificando assim, sob qualquer ponto de vista, a desconsideração da personalidade jurídica (fl. 1040).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Em que pese a empresa requerida afirme que inexiste a propalada confusão patrimonial; que é tão-somente locatária da loja de conveniência; e que certamente ocorreu um equívoco no momento da venda; a verdade é que ela não juntou um documento sequer que pudesse comprovar o fato impeditivo do direito do exequente.
+Respeitado o entendimento do nobre magistrado a quo, restou demonstrado de forma suficientemente estreme de dúvidas que os sócios vêm utilizando as empresas com desvio de finalidade e com o objetivo de blindar o patrimônio da coexecutada; e que desse desvio resulta confusão patrimonial entre as empresas.
+O procedimento utilizado é assaz conhecido no meio Judiciário: enquanto a executada vende seus produtos aos consumidores, eles são induzidos a efetuar o pagamento nas maquinetas instaladas na loja de conveniência, de modo que o crédito resultante da venda com cartão é destinado a esta última.
+Assim fazendo, a executada, em conluio com a requerida, desviam a garantia e burlam a trava bancária imposta pelo exequente, fraudando o credor.
+Em suma, diante da confusão patrimonial resultante do desvio da finalidade, deve ser acolhido o pedido de desconsideração direta e inversa da requerida, incluindo-se ela e seu sócio no polo passivo da execução (fl. 1029).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
