@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. SERVIDORES DO EX-TERRITÓRIO DE RONDÔNIA. TRANSPOSIÇÃO FUNCIONAL PARA QUADRO EM EXTINÇÃO DA ADMINISTRAÇÃO FEDERAL. FUNDAMENTOS NÃO IMPUGNADOS E RAZÕES DISSOCIADAS. SÚMULAS 283/STF E 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. Configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo. Incidência da Súmula 284/STF.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl.487):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDORES DE EX-TERRITÓRIO TRANSPOSIÇÃO FUNCIONAL PARA QUADRO EM EXTINÇÃO DA ADMINISTRAÇÃO FEDERAL. PAGAMENTO DE DIFERENÇAS REMUNERATÓRIAS. MARCOS TEMPORAIS FIXADOS NA LEI REGULAMENTADORA. DIREITO ADQUIRIDO. SERVIDOR JÁ TRANSPOSTO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA 283/STF. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante refere que o acórdão recorrido "ignorou a vedação peremptória legal e constitucional à pretensão de pagamentos retroativos" (fl. 504).
+Enfatiza que "não há margem para a aplicação de qualquer vantagem ou remuneração no que diz respeito ao período anterior à publicação do deferimento do termo de opção" (fl. 504).
+Por fim, aduz que "ao determinar o pagamento de diferenças remuneratórias ao transposto, a decisão ofende o pacto federativo", destacando que a Corte Regional acabou por violar o art. 2º da Lei nº 12.800/2013, tal como apontado de forma integral e clara pela União, razão pela qual os óbices das súmulas 283 e 284 devem ser afastados.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. SERVIDORES DO EX-TERRITÓRIO DE RONDÔNIA. TRANSPOSIÇÃO FUNCIONAL PARA QUADRO EM EXTINÇÃO DA ADMINISTRAÇÃO FEDERAL. FUNDAMENTOS NÃO IMPUGNADOS E RAZÕES DISSOCIADAS. SÚMULAS 283/STF E 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. Configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo. Incidência da Súmula 284/STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Conforme constou da decisão ora agravada, o recurso especial não apresentou argumentação contra a fundamentação relativa ao direito adquirido dos servidores à observância dos marcos temporais fixados na norma regulamentadora na hipótese em que a opção pela transposição foi manifestada anteriormente à vigência da EC 79/2014, razão pela qual os efeitos financeiros da transposição retroagem a 1º/01/2014.
+A propósito, assim constou do acórdão proferido pela Corte a quo (fl. 321):
+ ..  Segundo a normatização da matéria, os servidores que optaram pela transposição enquanto válidos os critérios temporais resultantes da aplicação conjunta da Emenda Constitucional nº 60/2009 e do art. 2º da Lei nº12.800/2003, com sua redação original, têm direito adquirido à observância dos marcos temporais fixados na norma regulamentadora ("a partir de 1º de março de 2014, em relação aos integrantes das Carreiras de magistério, e a partir de 1º de janeiro de 2014, nos demais casos"); por outro lado, como a vedação ao pagamento de valores pretéritos ao ato de enquadramento apenas surgiu com a EC nº 79/2014, esse regramento somente é aplicável aos servidores que formalizaram a opção na vigência dessa norma constitucional" (AC 1000732-37.2022.4.01.4103, relator Desembargador Federal Morais da Rocha, Primeira Turma, P Je de 01/06/2023). No caso, a opção foi manifestada em 06/05/2013, anteriormente à vigência da EC 79/2014, razão pela qual os efeitos financeiros da transposição retroagem a 1º/01/2014. (Grifei).
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ainda, quanto à eventual ofensa à lei federal verifica-se que, de fato, o recorrente não particularizou as alegações de forma clara e específica, de modo que seus argumentos não guardam correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Logo, é caso de manter-se a aplicação da Súmula 284/STF à hipótese.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DIALETICIDADE. AUSÊNCIA. SÚMULA 182/STJ. APLICAÇÃO. TAC. REVISÃO DE CLÁUSULAS. SÚMULAS 5 E 7/STJ.
+1.Trata-se de Agravo Interno contra o não conhecimento do Agravo em Recurso Especial. O decisum afirmou a ausência de dialeticidade e confirmou juízo prelibador pela incidência das Súmulas 5 e 7/STJ.
+2. Impugnar genericamente as Súmulas 5 e 7/STJ, sem refutar específica e fundamentadamente, os fundamentos do decisum que inadmite o Recurso Especial atrai a aplicação da Súmula 182/STJ. Na mesma linha: AgInt no AREsp 1.505.281/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2019.
+3. Ademais, a jurisprudência do STJ considera deficiente a fundamentação quando a parte deixa de atacar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas das motivações utilizadas pela Corte de origem. Incidência, por analogia, das Súmulas 283 e 284/STF.
+4. Agravo Interno não provido. (AgInt no AREsp n. 2.421.461/SE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 29/5/2024.) (Grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. TRANSPOSIÇÃO DOS CARGOS DE AGENTE FISCAL PARA AUDITOR FISCAL. LCE 92/2002. CARREIRAS DISTINTAS. NECESSIDADE DE REALIZAÇÃO DE CONCURSO PARA PROVIMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ACOLHIMENTO. COMPLEMENTAR ESTADUAL N. 92/2002. ARTIGO 156. INCONSTITUCIONALIDADE DECLARADA PELO ÓRGÃO ESPECIAL DO TJPR. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO NÃO ATACADA. ÓBICE DAS SÚMULAS 283 E 284 DO STF.
+1. Caso em que os ora agravantes desde a origem se insurgem contra sentença que acolheu a impugnação ao cumprimento de sentença, a fim de reconhecer a ilegitimidade ativa e, por conseguinte, julgar extinta a execução, nos termos do inciso IV do art. 485 do CPC/2015.
+2. Os recorrentes, ao indicarem afronta à coisa julgada (arts. 502, 503, 507 e 508 do CPC/2015), deixaram de impugnar os fundamentos do acórdão recorrido aptos, por si sós, a manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou. Incide, ao caso, a Súmula 283/STF.
+3. Mesmo que, por hipótese, pudesse a questão ser analisada, cabe consignar que esta Corte superior firmou compreensão no sentido de que "a inconstitucionalidade da Lei Complementar Estadual 92/2002 declarada pelo Órgão Especial daquele Egrégio Tribunal de Justiça tornou-se esta completamente ineficaz desde o seu nascimento, dela não decorrendo qualquer garantia a embasar o pleito (RMS 55.657/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/11/2018).
+4. Agravo interno não provido. (AgInt no AREsp n. 1.612.776/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/11/2020, DJe de 2/12/2020.) (Grifei).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
