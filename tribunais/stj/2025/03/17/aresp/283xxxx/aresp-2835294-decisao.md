@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por GELDANE DA SILVA ARAUJO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E EMENTA: APELAÇÃO. MORAIS. QUEDA DE POSTE SOBRE VEÍCULO ESTACIONADO EM VIA PÚBLICA. DANOS MATERIAIS ADIMPLIDOS NO CURSO DO PROCESSO. EXTINÇÃO DO PROCESSO NESSE PONTO. DEPRECIAÇÃO DO VEÍCULO. ÔNUS DA PROVA. ART. 373, INCISO I DO CPC. NÃO DESINCUMBÊNCIA. INDENIZAÇÃO PELA DEPRECIAÇÃO INDEVIDA. DANOS MORAIS. NÃO CARACTERIZADO. MULTA PELO DESCUMPRIMENTO DA TUTELA DE URGÊNCIA. PEDIDO DE EXECUÇÃO. IMPOSSIBILIDADE. CUMPRIMENTO DA OBRIGAÇÃO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO.
+1. Inexistindo provas de que o conserto do veículo ocasionou sua concreta desvalorização, é descabido o pedido indenizatório co ituito de reparar a mencionada depreciação.
+2. - "Quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há que falar em dano moral, uma vez que se trata de circunstância a ensejar mero aborrecimento ou dissabor, mormente quando mero descumprimento contratual" (Superior Tribunal de Justiça, AgRg no AREsp 123011SP2011/0286455-0, DJe 20/03/2015).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 186, 927 do CC e ao art. 14 do CDC, no sentido de que é cabível à compensação por danos morais, em razão da responsabilidade objetiva da parte ora recorrida atinente ao evento danoso, bem como a demonstração de que a queda do poste de luz sobre o veículo da parte ora recorrente ultrapassa a barreira do mero aborrecimento e dissabor, trazendo a seguinte argumentação:
+Conforme se depreende dos autos, a autora ajuizou a presente ação pretendendo indenização pelos danos materiais e morais sofridos em decorrência da queda de um poste sobre o seu veículo.
+ ..
+Entretanto, conforme passaremos a expor e já debatido amplamente em todo o processo, os danos morais indenizáveis no presente caso são evidentes, devendo o réu ser responsabilizado pelos danos causados, a luz dos dispositivos federias violados.
+ ..
+Não há dúvidas de que é imensurável o abalo que a autora passou por ver o carro naquela situação, pois a mesma precisava demais do veículo, já que viaja toda a semana para a cidade de Campina Grande para assistir as aulas do curso na UFCG, não podendo ficar sem o veículo.
+No mais, a autora soube terceiros que moram próximo ao local do evento que já fora solicitada outras vezes a remoção do poste, vez que o mesmo se encontrava "torto", ou seja, faltou por parte da ENERGISA a precaução, prevenção, compliance, no momento em que não atendera as reclamações realizadas pelos moradores da região, que poderia ter evitado esse prejuízo para a requerente.
+Desta feita, em razão do enorme e grosseiro erro cometido pela empresa ré, o que restou para a demandante foi o ajuizamento da demanda, vez que a promovida não se certificou do mínimo de segurança para evitar a queda do poste.
+ ..
+Nesse viés, importante trazer a lume o teor do art. 14 do Código de Defesa do Consumidor, segundo o qual "o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos". Configurando a responsabilidade objetiva da ré.
+Configurados o dano e a responsabilidade da empresa ré, resta analisar o quantum indenizatório, que além de dever compensar o abalo sofrido pela autora, deve, sobre- tudo, primar pelo caráter punitivo e educativo da medida. De forma, que a condenação não deve ser estipulada em valor ínfimo, pois se o for, não estará trazendo efeito punitivo, sobre- tudo para uma empresa de grande porte, como a ré.
+Assim sendo, há de considerar que de um lado temos uma simples consumidora e do outro uma empresa de Energia de abrangência nacional com capital social bastante elevado, de forma que uma condenação ínfima não trará efeitos educativos e não desestimulará a empresa ré a cometer novos atos semelhantes no futuro (fls. 270/274).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O dano moral também não restou demonstrado, haja vista que, para a reparação moral, é necessária a demonstração da ofensa aos direitos de personalidade, dentre eles, a integridade moral, psicológica, a honra e outros.
+Não há nos autos prova de situação de constrangimento ou humilhação sofrida em razão dos fatos narrados, mormente quando constatado que a Apelada disponibilizou a assistência necessária à Apelante, inclusive, carro reserva.
+A simples violação a direito, a mera prática de uma conduta antijurídica que não cause dano, quer de ordem material, que de ordem moral, não é passível, por si só, de reparação civil.
+Na verdade, os fatos narrados na exordial estão incluídos entre aqueles inerentes aos percalços da vida, sendo descabida a indenização a título de danos morais (fls. 264).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto para dissentir da conclusão do acórdão recorrido, quanto à qualificação dos fatos como mero dissabor ou suscetíveis de gerar danos morais, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte", (AgRg no AREsp n. 448.372/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13.11.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.652.952/MG, Rel. Ministro Moura Rribeiro, Terceira Turma, DJe de 26.8.2020; AREsp 1.605.195/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.2.2020; e AgInt no AREsp 964.314/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27.3.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
