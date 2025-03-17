@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos por EDUARDO GONCALVES, contra acórdão de fls. 278/289 (e-STJ), de relatoria deste signatário, que manteve a higidez do decisum singular de fls. 210/217 (e-STJ).
+O acórdão ora embargado, proferido pela Quarta Turma do STJ em sede de agravo interno, restou assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Impossibilidade de se analisar, na presente esfera recursal, suposta violação a dispositivos constitucionais, por se tratar de matéria reservada à análise do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+2. Incidência do óbice contido na Súmula 284/STF quanto à suposta ofensa ao art. 489, § 1º, VI, do CPC/15, por deficiência de fundamentação, tendo em vista a ausência de oposição de embargos declaratórios em face do acórdão recorrido, na origem.
+3. A ausência de enfrentamento do conteúdo normativo inserto nos arts. 489, § 1º, VI, 805, do CPC/15; 818 e 827, do CC pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Na hipótese, não foram opostos embargos de declaração perante a instância de origem a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. Incidência das Súmulas 282 e 356/STF.
+4. Incide no óbice contido na Súmula 7/STJ a pretensão voltada para rever os fundamentos que embasaram a aplicação da multa por litigância de má-fé, nos termos do art. 1.026, § 2º, do CPC/15.
+5. Agravo interno desprovido.
+Em suas razões de fls. 295/311 (e-STJ), a pretexto de apontar a ocorrência de omissões a macularem o aresto hostilizado, a parte embargante contestou os fundamentos que o embasaram, requerendo a reforma do julgado. Assevera, para tanto, que apesar do decidido, o acórdão embargado não considerou a argumentação exposta no agravo interno.
+Impugnação às fls. 269/272 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem acolhimento, visto que o embargante não demonstrou a existência de qualquer vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Como é cediço, nos estreitos lindes do artigo 1.022, CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, confira-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ACÓRDÃO DESTE ÓRGÃO FRACIO NÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA. 1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado. 2. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no REsp 1743741/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. POSSIBILIDADE. PRECEDENTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. AGRAVO INTERNO NÃO PROVIDO. (..) 3. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente. 4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 5. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. 6. Agravo interno não provido. (AgInt no AREsp 1825577/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. DANOS MORAIS. INOCORRÊNCIA. EXISTÊNCIA DE INSCRIÇÃO NEGATIVA LEGÍTIMA ANTERIOR. SÚM. 385/STJ. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. DECISÃO MANTIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, do CPC, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso. 2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do CPC, pois o acórdão de origem embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão, inclusive, quanto à fixação da verba honorária e os seus fundamentos jurídicos, no presente caso. 3. Analisar se havia ou não outra inscrição desabonadora no cadastro de inadimplentes no momento da propositura da ação demandaria o revolvimento fático probatório dos autos, o que é vedado em sede de recurso especial (Súm 7/STJ). No presente caso, não se trata apenas de revaloração jurídica dos fatos da condicionante da Súm. 385/STJ. 4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp 1865878/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 03/03/2021)
+Segundo entendimento consolidado desta Corte Superior, configura omissão relevante e impugnável por meio de embargos de declaração a não apreciação, pela manifestação jurisdicional, de tese ou matéria expressamente suscitada pela parte processual e cujo exame, se fosse realizado, poderia alterar o resultado da controvérsia.
+No caso, não há infringência ao artigo art. 1.022, CPC/2015, em razão da suficiente fundamentação exarada no acórdão embargado, tendo esta Colenda Quarta Turma do STJ decidido a controvérsia de forma fundamentada, sendo clara na sustentação das razões do desprovimento do agravo interno interposto.
+É o que se extrai do seguinte excerto do acórdão impugnado (fls. 281/289, e-STJ):
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de derruir a fundamentação expedida no decisum monocrático.
+1. Conforme decidido, apesar dos argumentos deduzidos pelo recorrente, impende consignar que o recurso especial não se presta ao exame de suposta violação a dispositivos constitucionais, por se tratar de matéria reservada à análise do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Neste sentido:
+(..)
+2. Quanto à alegada ofensa ao art. 489, § 1º, VI, do CPC/15, fundada em alegada deficiência de fundamentação, incide o óbice contido na Súmula 284/STF, tendo em vista a ausência de oposição de embargos declaratórios em face do acórdão recorrido, proferido em sede de agravo de instrumento.
+Neste sentido:
+(..)
+3. De outra sorte, em um exame acurado dos fundamentos que embasaram o acórdão recorrido, verifica-se que o conteúdo normativo inserto nos dispositivos de lei tidos por violados - arts. 489, § 1º, VI, 805, do CPC/15; 818 e 827, do CC. - não foi objeto de exame pela instância ordinária, tampouco foram opostos embargos de declaração a fim de suscitar a discussão dos temas neles veiculados, razão pela qual incide, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, de seguinte teor:
+Súmula 282 - "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Súmula 356 - "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito de prequestionamento".
+Nestes termos:
+(..)
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta aplicação da legislação federal, o que não é o caso dos autos.
+4. Por fim, à luz dos elementos fático-probatórios insertos nos autos, compreendeu o Tribunal de origem que a oposição dos segundos embargos declaratórios pela parte, com o mero intuito de rediscutir o acerto do julgado, evidenciaria conduta procrastinatória, o que fundamentaria a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+(..)
+Assim sendo, para superar as premissas sobre as quais se apoiou o Tribunal a quo, para afastar a multa aplicada com amparo no art. 1.026, § 2º, do CPC/15, mister seria o revolvimento dos elementos fático probatórios constantes dos autos, hipótese vedada na presente esfera recursal, ante o óbice da Súmula 7/STJ.  grifou-se
+2. Depreende-se, portanto, que longe de apontar vícios de fundamentação no decisum embargado, pretende a parte insurgente, em verdade, rediscutir o acerto da decisão recorrida, não se revelando os embargos declaratórios meio processual adequado para tanto.
+O insucesso de sua pretensão não pode ser confundido com ausência de enfrentamento de suas razões.
+Fica advertida a parte que o próximo recurso com caráter protelatório dará ensejo à aplicação de multa nos termos do art. 1.026, § 3º, do CPC/15.
+3. Ante o exposto, rejeito os embargos de declaração.
+É como voto.
