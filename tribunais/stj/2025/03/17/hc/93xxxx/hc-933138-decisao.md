@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RAFAEL COUTINHO DE ALMEIDA DJIGHALIAN em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que, na execução penal, foi indeferido o pedido de remição da pena formulado em favor do paciente.
+O impetrante sustenta que o apenado faria jus à remição da pena, pois teria sido aprovado no Exame Nacional do Ensino Médio (ENEM PPL 2022 e 2023).
+Ressalta que, a despeito de não servir como certificado de conclusão do ensino médio, a aprovação pode ser utilizada para remição.
+Alega que o fato de o paciente ter concluído o ensino superior antes do início da execução da pena não pode obstaculizar o referido benefício.
+Nesse sentido, defende que o " ..  lapso temporal entre a conclusão do curso superior e a sua aprovação no ENEM afasta qualquer conjectura de conhecimento prévio apto a afastar os esforços do Paciente" (fl. 11).
+Requer, liminarmente e no mérito, que seja reconhecida a remição da pena pela aprovação do paciente no ENEM PPL 2022 e 2023.
+O pedido liminar foi indeferido às fls. 46-47.
+As informações foram prestadas às fls. 57-68.
+O Ministério Público Federal, às fls. 70-72, manifestou-se pelo não conhecimento do writ.
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior (grifei):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+Portanto, não se pode conhecer da impetração. Contudo, procedo à análise do feito, a fim de verificar a ocorrência de eventual constrangimento ilegal.
+A controvérsia cinge-se à possibilidade de remição da pena em decorrência da aprovação no Exame Nacional do Ensino Médio, mesmo o paciente tendo concluído o ensino superior antes do início da execução da pena.
+O Juízo da execução, ao indeferir o pedido de remição, assim se manifestou (fls. 18-20):
+A remição por estudo passou a ser estimulada pela Resolução Nº 391 de 10/05/2021, que em seu artigo 3º, paragrafo único, dispõe: "Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, comisso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (ENCCEJA ou outros) e aprovação no Exame Nacional do Ensino Médio - ENEM, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50%(cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4º da Resolução no 03/2010 do Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto no art. 126, § 5º, da LEP.
+O propósito da Recomendação em menção é estender aos internos que não tenham concluído de forma regular o Ensino Médio, de forma isonômica, o acréscimo do benefício entabulado no artigo 126, § 5º, da Lei de Execuções Penais, já conferido pela lei àqueles internos que, realizando estudos, concluem ensino fundamental, médio ou superior durante o cumprimento da pena. Noutras palavras, confere-se paridade ou igualdade formal entre aqueles que, estudando, concluem, por vias regulares, ensino fundamental, médio ou superior durante o cumprimento da pena, com aqueles que, mesmo estudando por conta própria, sem que obtenham certificado de instituição própria de ensino, logrem aprovação em exames como o Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) ou Exame Nacional do Ensino Médio (ENEM).
+No caso em tela, conforme consta na guia de recolhimento (fls. 01), o(a) sentenciado(a) já ostentava o conhecimento relativo ao ensino SUPERIOR quando ingressou no sistema prisional.
+Para que haja remição, é necessário comprovar o desempenho de atividade de estudo ou trabalho durante o cumprimento da pena, não sendo suficiente mera aferição de conhecimento prévio.
+Em outras palavras, a Resolução tem o condão de estender o benefício da remição para aqueles que sejam aprovados no exame do ENEM como forma de beneficiar aquele que estuda por contra própria durante o cumprimento da pena, e não aquele que já havia adquirido o conhecimento cobrado no exame anteriormente.
+Do contrário, seria como beneficiar o interno com o beneplácito legal toda vez que realizasse o ENEM e lograsse aprovação, prestigiando-o por mais vezes em detrimento daquele que o tenha concluído, por meio de instituição regular de ensino e durante o cumprimento da pena o Ensino Médio, causando discrimen que a recomendação outrora tratou de refutar.
+O Tribunal de origem manteve o indeferimento do benefício, nos seguintes termos (fls. 24-26):
+No caso vertente, o agravante antes da prática delitiva e início do cumprimento da sanção, já havia colado grau em curso de nível superior.
+Diante da premissa fática, portanto, não se encontram presentes os requisitos do artigo 126, § quinto, da Lei de Execuções Penais, o qual, de forma expressa, exige que a conclusão do ensino fundamental, médio ou superior ocorra durante o cumprimento da pena, por que destoa do escopo da norma (Recomendação 44/2013, posteriormente substituída pela Resolução 391/2021) de recompensar e capacitar o esforço do sentenciado, que ainda não tenha concluído os seus estudos, pois o aprendizado para conclusão da educação básica ocorre apenas uma vez, não sendo no caso concreto devida a remição da pena pelo estudo, por ausência do preenchimento do requisito legal.
+ ..
+Assim, conclui-se que a decisão atacada deve ser mantida, não havendo que se falar em ofensa aos princípios da razoabilidade ou da proporcionalidade.
+Nos termos da Resolução do CNJ n. 391/2021, a pessoa privada de liberdade que, por meio de estudos por conta própria, obtiver aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e no Exame Nacional do Ensino Médio faz jus ao benefício da remição.
+Assim, não se desconhece o entendimento desta Corte Superior no sentido de admitir a remição por aprovação no ENEM ou no ENCCEJA aos apenados que concluíram o ensino médio antes do ingresso no sistema penitenciário, situação diversa da hipótese dos autos, uma vez que o paciente ostentava conhecimento atinente ao nível superior quando iniciou a expiação da pena.
+Consoante consignado alhures, as instâncias ordinárias indeferiram o pedido de remição da pena pela aprovação no ENEM, em razão de o paciente ter iniciado a execução da pena após a conclusão do ensino superior.
+Dessa forma, as decisões de origem estão em consonância com a jurisprudência desta Corte Superior de Justiça segundo a qual, " s e existe prova de que o sentenciado tinha instrução superior antes de ingressar no sistema carcerário, o êxito nas provas do Enem revela estudo prévio do ensino médio e não o realizado, por contra própria, durante os regimes fechado e semiaberto. A iniciativa de realizar espécie de vestibular ainda poderá ser premiada, pois, com o resultado do exame e matrícula em faculdade, a remição será calculada com base em carga horária muito maior, tantas vezes quantas forem frequentadas as aulas de graduações ou cursos de requalificação profissional" (AgRg no REsp n. 2.093.461/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/11/2023, DJe de 4/12/2023).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO. APROVAÇÃO NO ENEM. APENADO PORTADOR DE DIPLONA DE NÍVEL SUPERIOR ANTES DE INGRESSAR NO SISTEMA PRISIONAL.
+1. O Conselho Nacional de Justiça, por meio da Recomendação n. 44/2013, posteriormente substituída pela Resolução n. 391/2021, estabeleceu a possibilidade de concessão de remição de pena à pessoa privada de liberdade, que, por meio de estudos por conta própria, vier a ser aprovada nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no ENEM.
+2. E o Superior Tribunal de Justiça, no julgamento do EREsp n. 1.979.591/SP (DJe de 13/11/2023), da Terceira Seção, consolidou entendimento de que é admitida a remição da pena, por aprovação no ENEM ou no Encceja, dos apenados que ingressaram no sistema penitenciário após a conclusão do ensino médio.
+3. No caso, contudo, o apenado, ao ingressar no sistema prisional, era portador de diploma de nível superior. Em hipóteses tais, não há aquisição de novos conhecimentos, razão pela qual não há que se falar em remição por aprovação no ENEM, sob pena de destoar do escopo da norma.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 896.787/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. REMIÇÃO. APROVAÇÃO NO ENEM. APENADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR. IMPOSSIBILIDADE.
+1. O Conselho Nacional de Justiça, por meio da Recomendação n. 44/2013, posteriormente substituída pela Resolução n. 391/2021, estabeleceu a possibilidade de remição de pena à pessoa privada de liberdade que, por meio de estudos por conta própria, vier a ser aprovada nos exames que certificam a conclusão do ensino fundamental ou médio (ENCCEJA ou outros) e aprovação no Exame Nacional do Ensino Médio - ENEM.
+2. No caso, contudo, o ora agravante, ao ingressar no sistema prisional, era portador de diploma de nível superior. Em hipóteses tais, não há aquisição de novos conhecimentos, razão pela qual não há que se falar em remição, por aprovação no ENEM, sob pena de destoar do escopo da norma.
+3. Ora, " e ntender de outra forma permitiria que alguém com nível superior obtivesse remições por realizar o ENCEJJA do ensino fundamental (133 dias), o ENCEJJA de ensino médio (100 dias) e, ainda, o ENEM (100 dias), o que resultaria no abatimento de 333 dias de sua pena, quando é manifesto que não houve dedicação no cárcere para aquisição do conhecimento" (EDcl no HC n. 716.072/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022).
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 828.464/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. SENTENCIADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento do Tribunal a quo encontra-se no mesmo sentido da jurisprudência desta Corte Superior de Justiça, segundo a qual, tendo o apenado concluído o ensino médio e superior antes do início do cumprimento da pena, incabível a remição penal por aprovação no Exame Nacional do Ensino Médio (ENEM), visto que tal situação destoa do escopo da norma (Recomendação n. 44/2013 - posteriormente substituída pela Resolução n. 391/2021). .
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.083.985/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
