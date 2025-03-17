@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. Consoante a jurisprudência desta Corte, a legislação vigente (art. 932 do CPC/15 c/c Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+Precedentes.
+2. "A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial a respeito do fato." (REsp n. 2.084.837/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2024, DJe de 24/6/2024.) Incidência da Súmula 83/STJ.
+3. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por EVANIR PEDROSO DORNELES em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fl. 567):
+AGRAVO INTERNO EM AÇÃO RESCISÓRIA. DIREITO PRIVADO NÃO ESPECIFICADO. ALEGAÇÃO DE ERRO DE FATO E FATO NOVO NÃO VERIFICÁVEL DO EXAME DOS AUTOS. INADEQUAÇÃO DA DEMANDA, DIANTE DO ROL EXAUSTIVO PARA AÇÕES RESCISÓRIAS. NÃO INCURSÃO DAS ALEGAÇÕES DO AUTOR NOS INCISOS V E VIII DO ART. 966 DO CPC. REPETIÇÃO DE ARGUMENTOS DEVIDAMENTE ENFRENTADOS. A ação rescisória não se presta como nova forma de recurso, após transitada em julgado decisão desfavorável, sendo medida excepcional, caso verificada alguma das hipóteses taxativas previstas no art. 966 do CPC. No caso em apreço, a parte autora não atende ao requisito legal, de sorte que a petição inicial vai indeferida. AGRAVO INTERNO DESPROVIDO. INDEFERIMENTO DA INICIAL MANTIDO. EXTINÇÃO DA AÇÃO MANTIDA.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 580-610), a parte recorrente sustentou violação aos arts. 784, III, 803, I e 966, § 1º, do CPC/15, alegando a ocorrência de erro de fato quanto aos elementos do título executivo, razão pela qual a ação rescisória deve ser julgada procedente.
+Apontou, ainda, divergência jurisprudencial
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 791-794, e-STJ), o que ensejou o manejo do presente agravo (fls. 802-846, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 862-866), este signatário negou provimento ao recurso especial em razão da incidência das Súmulas 83/STJ, 282/STF e 356/STF.
+No presente agravo interno (e-STJ, fls. 865-912), o ora agravante aponta ofensa ao princípio da colegialidade, combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 917-920 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. Consoante a jurisprudência desta Corte, a legislação vigente (art. 932 do CPC/15 c/c Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+Precedentes.
+2. "A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial a respeito do fato." (REsp n. 2.084.837/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2024, DJe de 24/6/2024.) Incidência da Súmula 83/STJ.
+3. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. De início, cumpre esclarecer que, consoante a jurisprudência firmada nesta Corte, a legislação vigente (art. 932 do CPC/15 c/c Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+Nesse mesmo sentido, confiram-se os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO QUANTO A UM PONTO. EXISTÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM A CONCESSÃO DE EFEITOS MODIFICATIVOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. No caso, existente hipótese de omissão quanto a um ponto do julgado, estando preenchida uma hipótese do art. 1.022 do NCPC.
+4. O art. 932 do NCPC autoriza que o relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada desta Corte, conforme ocorreu no caso.
+5. De igual forma, segundo a Súmula nº 568 do STJ, o relator, no STJ, pode, monocraticamente, dar ou negar provimento a recurso com fundamento em entendimento dominante da referida Corte quanto ao tema.
+6. Embargos de declaração parcialmente acolhidos apenas para sanar omissão quanto a um ponto, sem a concessão de efeitos modificativos.
+(EDcl no AgInt no AREsp 1642173/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2020, DJe 22/10/2020)
+2. Consoante asseverado na decisão singular, o Tribunal de origem indeferiu a petição inicial da rescisória por entender não estar configurado o alegado erro de fato nos seguintes termos (e-STJ, fl. 570):
+No julgado adrede, restaram explanadas as hipóteses de cabimento da rescisória, ocasião em que se esclareceu que o erro de fato propalado pelo legislador é aquele em que o julgamento considera como existente fato não ocorrido ou admite como inexistente fato ocorrido. Entretanto, em quaisquer dos dois casos, é imprescindível a inocorrência de enfrentamento da controvérsia a respeito do ponto fático. No caso em apreço, esses requisitos não estão sequer minimamente demonstrados e a repetição de argumentos na seara do agravo interno corrobora tal conclusão. A cessão de cotas societárias e o suposto fato novo que redundaria na alegada impenhorabilidade de imóvel, cuja constrição o demandante pretende levantar, foram matérias devidamente enfrentadas, sobre as quais sobrevieram decisões colegiadas fundamentadas nas razões de fato e de direito que novamente são trazidas à colação. Nessa medida, não há qualquer hipótese ensejadora da relativização da coisa julgada ou da preclusão, mas mera irresignação que não foi veiculada no tempo e modo oportunos.
+Conforme a jurisprudência reiterada desta Corte Superior, "A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial a respeito do fato." (REsp n. 2.084.837/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2024, DJe de 24/6/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO RESCISÓRIA. INÉPCIA DA PETIÇÃO INICIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE DOCUMENTO NOVO, VIOLAÇÃO LITERAL A DISPOSITIVO LEGAL, ERRO DE FATO E DOLO. RESCISÓRIA COMO SUCEDÂNEO RECURSAL. PRETENSÃO DE REDISCUSSÃO DOS FATOS. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que "o documento novo, apto a amparar o pedido rescisório, é aquele que já existia ao tempo da sentença rescindenda, mas não pode ser utilizado pela parte interessada na demanda originária, seja porque ignorava a sua existência, seja porque dele não pode fazer uso em tempo. Exige-se, ainda, em qualquer caso, que o documento seja capaz de, por si só, assegurar o pronunciamento judicial favorável ao autor da rescisória" (AR 5.254/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe de 30/5/2022).
+2. O cabimento da ação rescisória fundada no art. 966, V, do CPC/2015 "pressupõe violação, frontal e direta, da literalidade da norma jurídica, de forma que seja possível extrair a ofensa literal da norma do próprio conteúdo do julgado que se pretende rescindir, entendimento mantido por esta Corte Superior sob a égide do atual Código de Processo Civil" (AgInt na AR 6.562/DF, Relator Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe de 16/12/2019).
+3. Segundo entendimento jurisprudencial do STJ, "a ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre o fato" (AgInt na AR 6.991/BA, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 7/3/2024).
+4. A firme jurisprudência do STJ é no sentido de que a pretensão rescisória fundada em dolo da parte vencedora "exige que a decisão a ser rescindida decorra diretamente da conduta dolosa da parte vencedora, a qual, com sua má-fé, tenha dificultado concretamente a atuação da parte prejudicada, o que não ocorrerá se os demais elementos dos autos confirmarem o acerto da decisão rescindenda" (AR 5.223/SP, Relator Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 25/8/2022).
+5. A Segunda Seção do STJ entende que "a ação rescisória não é instrumento processual apto a corrigir eventual injustiça da decisão rescindenda, má interpretação dos fatos, reexaminar as provas ou complementá-las" (AR 6.052/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe de 14/2/2023).
+6. Agravo interno provido, para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.958.417/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. REQUISITOS NÃO VERIFICADOS NO TRIBUNAL DE ORIGEM. INVERSÃO DO JULGADO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. RECURSO NÃO PROVIDO.
+1. Consoante entendimento jurisprudencial desta Corte, a ação rescisória não é o meio adequado para a correção de suposta injustiça da sentença, para a reapreciação dos fatos ou para o reexame de provas produzidas. Tampouco serve para complementar provas. Desse modo, para justificar a procedência da demanda rescisória, a violação à lei deve ser de tal modo evidente que afronte o dispositivo legal em sua literalidade.
+2. Firmou-se no STJ o entendimento de que a ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou que tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.368.456/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Dessa forma, verifica-se que a Corte de origem decidiu de acordo com o entendimento do Superior Tribunal de Justiça, o que atrai a incidência do enunciado da Súmula n. 83 do STJ, aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. Consoante restou consignado, constata-se da leitura do acórdão recorrido que o Tribunal de origem não decidiu acerca dos arts. 784 e 803 do CPC/15, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Saliente-se, ainda, que a agravante não opôs embargos declaratórios contra a decisão impugnada, a fim de provocar o pronunciamento do Colegiado sobre a matéria tratada nos dispositivos mencionados. Incidem, portanto, os óbices dispostos nas Súmulas 282 e 356 do STF.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGADA.
+(..)
+3. Quanto à alegação de que os honorários advocatícios devem ser fixados por equidade (art. 85, § 8º, do CPC/15), observa-se que tal tese não foi analisada pelo Tribunal local, carecendo de prequestionamento. Ademais, deixou a insurgente de apontar, na petição do recurso especial, eventual violação do artigo 1022 do CPC/15, no ponto, razão pela qual incide, na espécie, as Súmulas 282 e 356 do STF; e 211 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1890401/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2021, DJe 04/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. VIOLAÇÃO DO ART. 6º DA LINDB. INSTITUTO DE NATUREZA CONSTITUCIONAL. 2. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO DEMONSTRANDO FUNDAMENTAÇÃO DEFICIENTE. ARGUMENTO NÃO ATACADO. SÚMULA 182 DO STJ. 3. LITISCONSÓRCIO PASSIVO NECESSÁRIO. APLICAÇÃO DO TETO REGULAMENTAR. NECESSIDADE DE APORTE. CORREÇÃO MONETÁRIA. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULAS 282 E 356 DO STF. 4. FÓRMULA PARA O CÁLCULO DE BENEFÍCIO. CONTROVÉRSIA SOBRE DISPOSIÇÕES DO REGULAMENTO. INTERPRETAÇÃO CONFERIDA PELA CORTE DE ORIGEM. APLICAÇÃO DO ART. 31 DO REGULAMENTO DE BENEFÍCIOS DA PETROS. SÚMULAS 5 E 7 DO STJ. 5. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. As matérias ou as teses relacionadas aos artigos apontados não foram enfrentadas pelo acórdão recorrido, o que obsta o conhecimento do recurso especial. Nesse ponto, incidem as Súmulas n. 282 e 356 do STF.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1250115/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018)
+De rigor, portanto, a manutenção da decisão agravada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
