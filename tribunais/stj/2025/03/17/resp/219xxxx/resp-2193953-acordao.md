@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, conhecer parcialmente do recurso e, nessa parte, dar-lhe parcial provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. PROCESSUAL CIVIL. CONTRATO. PLANO DE SAÚDE COLETIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. REAJUSTE. SINISTRALIDADE. ABUSIVIDADE. CONSTATAÇÃO. REEXAME DO CONJUNTO PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. APLICAÇÃO DE ÍNDICE DA ANS. IMPOSSIBILIDADE. APURAÇÃO. LIQUIDAÇÃO DE SENTENÇA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. A revisão das conclusões da Corte de origem quanto à abusividade no reajuste por sinistralidade praticados pela operadora do plano de saúde demandaria o revolvimento do acervo fático-probatório dos autos e nova interpretação das cláusulas do regulamento do plano de saúde, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõem as Súmulas nºs 5 e 7/STJ.
+3. A constatação de abusividade não importa na anulação da respectiva cláusula do contrato, sendo imprescindível a readequação do reajuste a parâmetros mais justos, a fim de preservar o equilíbrio contratual.
+4. Inaplicáveis os índices da Agência Nacional de Saúde Suplementar - ANS, previstos para os planos de saúde individuais, aos contratos de plano de saúde de natureza coletiva. Precedentes.
+5. Verificada abusividade no reajuste por sinistralidade praticado pela operadora do plano de saúde, mister a apuração do percentual adequado na fase de cumprimento de sentença, a fim de restabelecer o equilíbrio contratual por meio de cálculos atuariais.
+6. Recurso especial parcialmente provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE S.A, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PLANO DE SAÚDE. Reajustes por sinistralidade. Abusividade configurada no presente caso.
+Apesar da ausência de submissão dos contratos coletivos aos índices dos contratos individuais, deve ser comprovado que os percentuais aplicados pela ré observam os termos contratuais. Não juntou a ré, porém, documentos idôneos que demonstrassem a regularidade dos reajustes impugnados.
+De rigor, portanto, a limitação dos respectivos percentuais àqueles autorizados pela ANS para planos individuais, bem como a restituição das quantias pagas a maior.
+Cabível a adequação da sentença apenas para suprir a omissão quanto ao período no qual deve ser recalculado o valor da mensalidade. RECURSO PARCIALMENTE PROVIDO" (e-STJ fls. 677-681).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 726-728).
+No recurso especial, a recorrente alega, preliminarmente, nulidade do acórdão recorrido, ante a persistência de omissões apontadas nos embargos de declaração rejeitados, em afronta aos artigos 489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil.
+Sustenta ofensa ao artigo 421 do Código Civil, ante a liberdade de contratar e a livre manifestação de vontade das partes, sendo devidos os reajustes por sinistralidade.
+Argumenta que o Tribunal estadual não se atentou às consequências jurídicas da decisão proferida, consoante previsto no artigo 20 da Lei de Introdução às Normas do Direito Brasileiro (LINDB).
+Defende inaplicáveis, à espécie, os índices previstos pela ANS, os quais possuem como destinatárias tão somente as apólices individuais, nos termos dos artigos 35-E, §2º, da Lei nº 9.656/1998 e 478 do Código Civil, tidos por violados.
+Quanto ao ponto, suscita dissídio jurisprudencial.
+Contrarrazões apresentadas às e-STJ fls. 733-747.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. PROCESSUAL CIVIL. CONTRATO. PLANO DE SAÚDE COLETIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. REAJUSTE. SINISTRALIDADE. ABUSIVIDADE. CONSTATAÇÃO. REEXAME DO CONJUNTO PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. APLICAÇÃO DE ÍNDICE DA ANS. IMPOSSIBILIDADE. APURAÇÃO. LIQUIDAÇÃO DE SENTENÇA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. A revisão das conclusões da Corte de origem quanto à abusividade no reajuste por sinistralidade praticados pela operadora do plano de saúde demandaria o revolvimento do acervo fático-probatório dos autos e nova interpretação das cláusulas do regulamento do plano de saúde, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõem as Súmulas nºs 5 e 7/STJ.
+3. A constatação de abusividade não importa na anulação da respectiva cláusula do contrato, sendo imprescindível a readequação do reajuste a parâmetros mais justos, a fim de preservar o equilíbrio contratual.
+4. Inaplicáveis os índices da Agência Nacional de Saúde Suplementar - ANS, previstos para os planos de saúde individuais, aos contratos de plano de saúde de natureza coletiva. Precedentes.
+5. Verificada abusividade no reajuste por sinistralidade praticado pela operadora do plano de saúde, mister a apuração do percentual adequado na fase de cumprimento de sentença, a fim de restabelecer o equilíbrio contratual por meio de cálculos atuariais.
+6. Recurso especial parcialmente provido.
+VOTO
+Inicialmente, a recorrente sustenta omissão do acórdão no que tange à liberdade contratual da operadora de plano de saúde e ao consequencialismo da decisão proferida.
+Quanto às alegadas omissões, o TJSP esclareceu ser "inaceitável a sujeição do consumidor a critérios obscuros de variação de preço, pois tal situação afronta o Código de Defesa do Consumidor e a Lei nº 9.656/98, que asseguram o direito de informação e exigem a indicação, com clareza, dos critérios de reajuste e revisão das contraprestações" (e-STJ fl. 680).
+Destacou que "não se trata de equiparar os contratos coletivos aos individuais, mas apenas de adotar o único parâmetro idôneo de que se tem notícia no presente caso, garantindo que a mensalidade não fique sem atualização, mas que também não fique o consumidor submetido a situação de excessiva desvantagem" (e-STJ fl. 680).
+Assim, a matéria foi sobejamente enfrentada pela Corte Regional, conquanto em sentido contrário aos interesses da recorrente, o que não se confunde com negativa de prestação jurisdicional.
+Não se vislumbra, portanto, omissão na fundamentação do acórdão impugnado, que solucionou fundamentadamente a causa, ainda que sob ângulo diverso do pretendido pela ora recorrente.
+Em verdade, a pretensão cinge-se a promover o rejulgamento do feito, o que refoge às hipóteses de cabimento dos embargos de declaração.
+Por outro lado, alega a ora recorrente a legalidade do reajuste, ao argumento de manutenção do equilíbrio econômico-financeiro do contrato.
+Todavia, o Tribunal estadual, ao analisar as circunstâncias fático-probatórias e as cláusulas contratuais, assentou a abusividade no reajuste por sinistralidade praticados pela operadora do plano de saúde, ante os seguintes fundamentos:
+"Sem razão a ré ao pretender ver reconhecida a regularidade dos reajustes impugnados pelo autor.
+Isso porque não produziu provas idôneas que demonstrassem a adoção de critérios seguros de apuração dos índices de aumento.
+Limitou-se a ré à juntada de extratos pormenorizados elaborados por ela própria, representando, portanto, documentos unilaterais sem força probante. Além disso, juntou a ré relatórios de empresa de auditoria contratada por ela própria, a qual, portanto, não é imparcial e não possui aptidão para gerar documentos dotados de força probante; ademais, consta expressamente desses relatórios não ser possível garantir que os estudos tenham sido realizados com base em informações completas e adequadas.
+E não há que se falar em desnecessidade de dados adicionais. Se os reajustes ocorrem em virtude da variação de custos bem como em virtude da sinistralidade, deveria a ré ter demonstrado tais bases de cálculo, cumprindo ressaltar que há diversas formas de se comprovar a regularidade dos índices aplicados sem juntar centenas de documentos e sem violar o sigilo de dados.
+Impossível, portanto, concluir pela regularidade dos índices de reajuste anual impugnados pelo autor" (e-STJ fls. 679/680).
+Assim, o acolhimento das alegações recursais, para afastar o caráter abusivo do reajuste adotado, demandaria o revolvimento do acervo fático-probatório dos autos e nova interpretação das cláusulas do regulamento do plano de saúde, procedimentos inviáveis ante a natureza excepcional da via eleita, conforme dispõem as Súmulas nºs 5 e 7/STJ.
+Por outro lado, a constatação de abusividade, tal como ocorrido no caso dos autos, não importa na anulação da respectiva cláusula do contrato, sendo imprescindível a readequação do reajuste a parâmetros mais justos, a fim de preservar o equilíbrio contratual.
+Cumpre ressaltar, nessa toada, que, nos termos da jurisprudência firmada por esta Corte Superior, inaplicáveis os índices da Agência Nacional de Saúde Suplementar - ANS, previstos para os planos de saúde individuais, aos contratos de plano de saúde de natureza coletiva.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE POR SINISTRALIDADE E POR VARIAÇÃO DE CUSTOS (VCMH). CONTRATO COM MENOS DE 30 BENEFICIÁRIOS. DEMONSTRAÇÃO DOS CRITÉRIOS PARA ALCANCE DO ÍNDICE DE REAJUSTE PRETENDIDO. REEXAME DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. SÚMULAS N. 5 e 7 DO STJ. APLICAÇÃO DE ÍNDICE DA ANS. NÃO CABIMENTO. RESOLUÇÃO NORMATIVA ANS N. 309/2012. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. É lícita a cláusula de contratos de plano de saúde coletivo que estabelece reajuste em razão da variação de custos ou do aumento da sinistralidade, devendo o magistrado, diante do caso concreto, verificar eventual abusividade do reajuste efetivamente aplicado.
+2. O reajuste anual de planos coletivos não está vinculado aos índices definidos pela ANS, cabendo à referida agência apenas monitorar, naqueles casos, a evolução dos preços praticados no mercado a fim de prevenir abusos.
+3. Reconhecida pelo tribunal de origem, com base na análise do contrato de plano de saúde e das provas, a abusividade do percentual aplicado para reajuste pela variação de custos ou pelo aumento da sinistralidade, a revisão da questão em recurso especial é inviável por incidência das Súmulas n. 5 e 7 do STJ.
+4. É reconhecida a vulnerabilidade dos contratos coletivos com menos de 30 beneficiários, devendo a operadora do plano de saúde formar um agrupamento com todos esses contratos para o cálculo do percentual de reajuste que será aplicado (Resolução Normativa ANS n. 309/2012).
+5. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.142.615/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE COLETIVO. REAJUSTE POR SINISTRALIDADE E POR VCMH. ABUSIVIDADE CONSTATADA. CÁLCULOS ATUARIAIS. CUMPRIMENTO DE SENTENÇA.
+1. Ação cominatória c/c indenização por danos materiais.
+2. Segundo a jurisprudência do STJ, é possível o reajuste de contratos de plano de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade. Precedentes
+3. No plano de saúde coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais. Precedentes.
+4. Uma vez reconhecida a abusividade do percentual de reajuste aplicado, é necessária a apuração do índice adequado na fase de cumprimento de sentença, a fim de restabelecer o equilíbrio contratual, por meio de cálculos atuariais.
+5. Agravo interno não provido."
+(AgInt no REsp 2.102.563/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. ÍNDICE DE REAJUSTE DA MENSALIDADE ABUSIVO E DESPROPORCIONAL. SÚMULA 7/STJ. IMPOSSIBILIDADE DE APLICAÇÃO DA FORMA DE REAJUSTE PREVISTA PELA ANS PARA OS CONTRATOS INDIVIDUAIS. REFORMA DO ACÓRDÃO. NECESSIDADE DE ESPECIFICAÇÃO DO ÍNDICE ADEQUADO EM CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DE ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+1. A segunda instância firmou que se trataria de plano de saúde coletivo com reduzido número de membros, inferior a 30 (trinta) participantes, bem como a existência de cálculo de reajuste abusivo, em descompasso com a razoabilidade. Nesse contexto, estabeleceu o decisum a aplicabilidade ao caso da RN n. 309/2012. Súmulas 5 e 7/STJ.
+2. Esta Corte Superior possui orientação no sentido de que, no plano coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo falar, portanto, em aplicação dos índices previstos aos planos individuais. Precedentes.
+3. O acórdão "que reconhece a abusividade apenas dos reajustes aplicados no caso em concreto, diante da não comprovação da necessidade e da ausência de informações claras a respeito dos índices praticados, mas mantendo a validade da cláusula prevista no contrato, deve remeter à liquidação de sentença a apuração do valor adequado" (AgInt na PET no AREsp n. 1.814.573/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022).
+4. Agravo interno desprovido."
+(AgInt no REsp 2.069.977/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/9/2023, DJe de 22/9/2023).
+Na hipótese, verificada abusividade no reajuste por sinistralidade praticado pela operadora do plano de saúde, mister a apuração do percentual adequado na fase de cumprimento de sentença, a fim de restabelecer o equilíbrio contratual por meio de cálculos atuariais.
+Ante o exposto, conheço parcialmente do recurso para dar-lhe parcial provimento para determinar a apuração, na fase de cumprimento de sentença, do adequado aumento a ser computado na mensalidade do plano de saúde, à luz de cálculos atuariais voltados à aferição do efetivo incremento do risco contratado, mantido o reconhecimento da abusividade dos percentuais constatado pelo Tribunal local.
+Deixo de majorar os honorários advocatícios, conforme determina o art. 85, § 11, do CPC/2015, em virtude do parcial provimento do recurso especial.
+É o voto.
