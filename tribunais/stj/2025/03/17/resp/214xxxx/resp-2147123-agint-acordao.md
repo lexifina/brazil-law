@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por ANTÔNIO CARLOS THIESEN em face de decisão monocrática da lavra deste signatário que deu parcial provimento ao recurso especial para sanar a negativa de prestação jurisdicional.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (e-STJ, fl. 1364):
+APELAÇÃO CÍVEL. AÇÃO DE INTERDITO PROIBITÓRIO CONVERTIDA EM AÇÃO DE REINTEGRAÇÃO DE POSSE. SENTENÇA DE EXTINÇÃO POR ILEGITIMIDADE PASSIVA. INSURGÊNCIA DA PARTE AUTORA. ALEGAÇÕES DE PROVA EM OUTROS FEITOS. RAZÕES RECURSAIS QUE ABORDA TEMA ESTRANHO AOS AUTOS. INSURGÊNCIA NÃO CONHECIDA NO PONTO. ALEGAÇÃO DE SENTENÇA NULA, PORQUE DEVERIA SER UNA, EM CONJUNTO COM FEITO CONEXO. VEDAÇÃO AO PRINCÍPIO DO NEMO POTEST VENIRE CONTRA FACTUM PROPRIUM. PREFACIAL AFASTADA. MÉRITO. ALEGAÇÃO DE POSSE SOBRE ÁREA. INSUBSISTÊNCIA. EXERCÍCIO DA POSSE NÃO ESCLARECIDA. INCONGRUÊNCIA DAS ALEGAÇÕES. AUSÊNCIA DOS REQUISITOS DO ART. 561 DO CPC, NOTADAMENTE DO EFETIVO EXERCÍCIO DE POSSE ANTERIOR. ÔNUS QUE INCUMBIA AO DEMANDANTE, A TEOR DO DISPOSTO NOS ARTIGOS 373, I E 561, CAPUT, DO CPC. ALEGAÇÃO DE PROPRIEDADE DO BEM. IRRELEVÂNCIA PARA O DESLINDE DA QUESTÃO. PROTEÇÃO POSSESSÓRIA INVIÁVEL. REFORMA DA SENTENÇA PARA JULGAR O MÉRITO DA AÇÃO IMPROCEDENTE. MANUTENÇÃO DOS ÔNUS DE SUCUMBÊNCIA. HONORÁRIOS RECURSAIS. ARBITRAMENTO. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 1417-1419).
+Em suas razões recursais (e-STJ, fls. 1427-1464), sustentou a parte recorrente a existência de violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões e contradições supostamente perpetradas pelo acórdão embargado, notadamente acerca da comprovação do exercício da posse por meio da prova emprestada e da confissão dos recorridos, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) arts. 9º, 10, 369 e 370 do CPC/15, aduzindo que o Tribunal de origem desconsiderou a decisão proferida em sede de primeiro grau que autorizou a prova emprestada e determinou o julgamento conjunto da ação possessória com a ação indenizatória.
+Contrarrazões apresentadas às fls. 1538-1547 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 1572-1574 (e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (e-STJ, fls. 1590-1594), este signatário negou provimento ao recurso especial em razão da ausência de prequestionamento.
+Em sede de embargos de declaração, a parte agravante apontou a existência de omissões e requereu a reforma do decisium.
+Às fls. 1618-1622 (e-STJ), este signatário acolheu os aclaratórios com efeitos infringentes e reconsiderou a decisão anterior, reconhecendo a negativa de prestação jurisdicional quanto ao pedido de afastamento da multa aplicada pelo Tribunal de origem.
+No presente agravo interno (e-STJ, fls. 1626-1692), a ora agravante se insurge reiterando a existência de omissão acerca da comprovação do exercício da posse por meio da prova emprestada e da confissão dos recorridos.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante restou consignado na decisão monocrática, o Tribunal de origem, não obstante a existência de omissão no acórdão, tenha rejeitado os embargos de declaração, razão assiste ao agravante, conforme será exposto.
+Com efeito, a recorrente requereu, em sede de embargos de declaração, que a Corte de origem se pronunciasse sobre a (i) comprovação do exercício da posse por meio de prova emprestada, produzida no bojo da ação indenizatória; (ii) existir delimitação da área esbulhada e (iii) o afastamento da multa aplicada por embargos protelatórios.
+Quanto aos pontos (i) e (ii), não há omissão a ser sanada, porquanto o acórdão recorrido enfrentou expressamente as referidas teses, embora decidindo de forma contrária ao pretendido pelo ora agravante.
+Confira-se, a seguir, os seguintes excertos do acórdão (e-STJ, fl. 1369-1370):
+Reconhece-se, assim, que o recorrente pleiteia o reconhecimento de nulidade por ato que defendeu de forma contrária em momento anterior. Além disso, importante ressaltar que ambos os feitos tiveram, sim, a instrução em conjunto, de modo que ambas as sentenças não necessariamente precisam ser únicas.
+(..)
+A problemática do caso consiste justamente no fato de que em nenhum momento a parte autora comprovou atos de posse sobre a área. A compra e venda de terreno, título de cessão de direito de posse, a sobreposição de áreas e a divergência na localização dos lotes nas escrituras não comprovam a efetiva posse da parte autora no bem em questão. O que se verifica, em verdade, da conjugação dos fatos com os pedidos das razões do recurso, é que a parte pretende fundamentar o seu pedido possessório na existência de um direito de propriedade, o que é inadmissível. Em reexame da prova, nota-se que as manifestações do autor são permeados de contradições e ambiguidades. E a própria configuração da área cuja posse se requer proteção ainda é incerta, uma vez que o demandante se limitou a mencionar a aquisição de três partes de terreno, em datas diferentes, mas que em nenhum momento conseguiu vincular a prova produzida com a porção da terra que se diz esbulhada. Os documentos acostados não comprovam que estão relacionados ao bem em questão ou, ainda, não servem para tal desiderato. Nenhum dos documentos conseguiu especificar a região do imóvel em questão ou a demonstração de qualquer ato da parte autora como se dono fosse. Ao contrário, juntou-se documentação repetida de outras ações que se contradiz com o alegado na petição inicial. É difícil de se crer que, na percepção do homem médio, uma pessoa que compra terreno e se faz mesmo de dono não produza qualquer documentação referente aos atos exercidos durante os anos, seja em relação ao pagamento de impostos, regularização em prefeitura ou, ainda, relacionada a manutenção da própria área. Demais disso, os fatos alegados na petição inicial, assim como das alegações finais são incongruentes e se contradizem, inclusive, com o depoimento prestado pela testemunha Oswaldo Godel Hauptli, uma vez que os demais depoimentos em nada acresceram à prova do caso. Sobre isso, aliás, importante constar que nenhuma das testemunhas (ou informantes) fizeram referencia da presença da parte do local ou de que era conhecida na região como dona. Especificamente a referências de data s, aquisição dos lotes, instalação de energia elétrica, construção de benfeitoria e a própria sucessão na compra e venda, em cada manifestação, pode-se observar a divergência nos fatos elencados pela parte autora.
+Entretanto, da leitura do acórdão que julgou os embargos de declaração, verifica-se que, de fato, a questão relativa ao pedido de afastamento da multa aplicada por considerar os embargos protelatórios, suscitada nos embargos de fls. 1380-1388, e-STJ, não foi analisada pelo Tribunal de piso.
+Esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1.022 do Novo Código de Processo Civil, quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de pontos relevantes para o deslinde do feito.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE RECONHECEU A NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Configurada a ocorrência de negativa de prestação jurisdicional, impõe-se o reconhecimento da ofensa ao artigo 489, §1º, IV, do CPC/2015, com anulação do acórdão proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem, para que sejam sanados os vícios apontados. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1877486/TO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/11/2021, DJe 24/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECLAMO INTERPOSTO PELA PARTE ADVERSA QUANTO À NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Embora o julgador não esteja obrigado a responder um a um dos argumentos sustentados pela parte postulante, ao fundamentar sua decisão, não deve se omitir acerca de pontos essenciais ao bom andamento do processo, sob pena de violar o art. 1022 do CPC/15.
+1.1. Na hipótese, tendo o Tribunal a quo deixado de analisar questão imprescindível ao deslinde da controvérsia, adequada a determinação de retorno dos autos para o saneamento da omissão.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1111044/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/08/2018, DJe 03/09/2018)
+Assim, considerando que a referida tese foi posta à apreciação do Tribunal a quo, sem que houvesse, contudo, quando do julgamento dos embargos declaratórios, pronunciamento judicial a respeito, devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
