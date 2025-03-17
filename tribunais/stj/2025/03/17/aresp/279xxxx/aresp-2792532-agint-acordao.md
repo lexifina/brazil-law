@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  AUSÊNCIA.  IMPUGNAÇÃO.  ART.  932,  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  INOVAÇÃO  RECURSAL.  PRECLUSÃO.  MULTA.  ART.  1.021,  §  4º,  DO  CPC.  INAPLICABILIDADE.
+1.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  Código  de  Processo  Civil).
+2.  A  impugnação  tardia  dos  fundamentos  da  decisão  combatida,  somente  quando  da  interposição  de  agravo  interno,  além  de  caracterizar  inovação  recursal,  vedada  pela  preclusão,  não  tem  a  capacidade  de  afastar  a  aplicação  do  entendimento  consolidado  na  Súmula  nº  182/STJ.
+3.  A  Segunda  Seção  do  Superior  Tribunal  de  Justiça  decidiu  que  a  aplicação  da  multa  prevista  no  art.  1.021,  §  4º,  do  CPC  não  é  automática  por  não  se  tratar  de  mera  decorrência  lógica  da  rejeição  do  agravo  interno.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ALEX  SAMPAIO  DE  MIRANDA  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  agravo  em  recurso  especial  em  virtude  da  falta  de  impugnação  específica  dos  fundamentos  da  decisão  denegatória  do  apelo  nobre,  atraindo,  assim,  a  aplicação  do  disposto  no  art.  932,  III,  do  Código  de  Processo  Civil  (e-STJ  fls.  520/521).
+Em  suas  razões  (e-STJ  fls.  525/531),  o  agravante  alega  ter  enfrentado  todos  os  fundamentos  da  decisão  de  inadmissibilidade  de  forma  pormenorizada.
+Aduz  que  os  argumentos  do  recurso  especial  foram  apresentados  de  forma  clara  e  objetiva,  não  havendo  falar  em  incidência  da  Súmula  nº  284/STF.
+Sustenta  a  inaplicabilidade  da  Súmula  nº  7/STJ  ao  presente  caso,  visto  que  não  pretende  o  reexame  de  provas,  mas,  sim,  sua  revaloração,  prática  admitida  pelo  Superior  Tribunal  de  Justiça.
+Reiterando  as  alegações  referentes  ao  mérito  do  recurso  especial,  afirma-se  a  necessidade  de  exame  da  ofensa  ao  art.  987  do  Código  Civil,  estando  a  sociedade  de  fato  devidamente  comprovada.
+Ao  final,  requer  a  submissão  do  feito  ao  colegiado.
+A  parte  contrária  apresentou  contrarrazões  às  e-STJ  fls.  535/539,  postulando  pela  aplicação  da  multa  prevista  no  art.  1.021,  §  4º,  do  Código  de  Processo  Civil.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  AUSÊNCIA.  IMPUGNAÇÃO.  ART.  932,  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  INOVAÇÃO  RECURSAL.  PRECLUSÃO.  MULTA.  ART.  1.021,  §  4º,  DO  CPC.  INAPLICABILIDADE.
+1.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  Código  de  Processo  Civil).
+2.  A  impugnação  tardia  dos  fundamentos  da  decisão  combatida,  somente  quando  da  interposição  de  agravo  interno,  além  de  caracterizar  inovação  recursal,  vedada  pela  preclusão,  não  tem  a  capacidade  de  afastar  a  aplicação  do  entendimento  consolidado  na  Súmula  nº  182/STJ.
+3.  A  Segunda  Seção  do  Superior  Tribunal  de  Justiça  decidiu  que  a  aplicação  da  multa  prevista  no  art.  1.021,  §  4º,  do  CPC  não  é  automática  por  não  se  tratar  de  mera  decorrência  lógica  da  rejeição  do  agravo  interno.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+O  art.  932,  III,  do  Código  de  Processo  Civil  impõe  ao  relator  não  conhecer  do  recurso  "(..)  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida".
+No  caso,  a  decisão  atacada  consignou  que  o  agravo  em  recurso  especial  não  refutou  o  fundamento  referente  à  incidência  da  Súmula  nº  284/STF  em  relação  ao  art.  1.022  do  CPC,  não  sendo  este  o  momento  adequado  para  tanto  por  constituir  inovação  recursal,  vedada  pela  preclusão  consumativa.
+Confira-se:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  APLICAÇÃO  DO  PRINCÍPIO  DA  DIALETICIDADE.  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  PRECLUSÃO  CONSUMATIVA.
+1.  A  ausência  de  impugnação  específica,  na  petição  de  agravo,  da  integralidade  dos  fundamentos  da  decisão  que  não  admite  o  recurso  especial,  impossibilita  o  conhecimento  do  recurso.
+2.  A  impugnação  tardia,  em  sede  de  agravo  interno,  de  fundamentos  apontados  pela  decisão  de  inadmissibilidade  do  recurso  especial  proferida  pelo  Tribunal  estadual,  não  é  capaz  de  desconstituir  os  fundamentos  da  decisão  agravada,  em  razão  da  preclusão  consumativa.
+3.  AGRAVO  INTERNO  DESPROVIDO."
+(AgInt  no  AREsp  1.230.522/MG,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  DJe  29/10/2018  -  grifou-se)
+Cumpre  destacar  que  a  impugnação  da  decisão  de  inadmissibilidade  do  recurso  deve  ser  clara  e  suficiente  para  demonstrar  o  equívoco  na  sua  negativa,  o  que  não  ocorreu  na  espécie,  visto  que  o  agravante  apenas  se  insurgiu  quanto  ao  ponto  da  decisão  denegatória  referente  à  incidência  da  Súmula  nº  7/STJ.
+Essa  Corte  Superior  pacificou  o  entendimento  de  que  é  dever  do  agravante  atacar  especificamente  todos  os  fundamentos  da  decisão  agravada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo,  não  bastando  para  tanto  a  impugnação  genérica,  parcial  ou  a  reiteração  das  razões  do  recurso  anterior.
+A  propósito,  o  julgamento  dos  EAREsp  746.775/PR  reafirmou  a  necessidade  de  impugnação  específica  de  todos  os  fundamentos  da  decisão  que  inadmitir  o  recurso  especial  por  ser  incindível.
+Eis  a  ementa  do  acórdão:
+"PROCESSO  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA.  IMPUGNAÇÃO  ESPECÍFICA  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  ART.  544,  §  4º,  I,  DO  CPC/1973.  ENTENDIMENTO  RENOVADO  PELO  NOVO  CPC,  ART.  932.
+1.  No  tocante  à  admissibilidade  recursal,  é  possível  ao  recorrente  a  eleição  dos  fundamentos  objeto  de  sua  insurgência,  nos  termos  do  art.  514,  II,  c/c  o  art.  505  do  CPC/1973.  Tal  premissa,  contudo,  deve  ser  afastada  quando  houver  expressa  e  específica  disposição  legal  em  sentido  contrário,  tal  como  ocorria  quanto  ao  agravo  contra  decisão  denegatória  de  admissibilidade  do  recurso  especial,  tendo  em  vista  o  mandamento  insculpido  no  art.  544,  §  4º,  I,  do  CPC,  no  sentido  de  que  pode  o  relator  "não  conhecer  do  agravo  manifestamente  inadmissível  ou  que  não  tenha  atacado  especificamente  os  fundamentos  da  decisão  agravada"  -  o  que  foi  reiterado  pelo  novel  CPC,  em  seu  art.  932.
+2.  A  decisão  que  não  admite  o  recurso  especial  tem  como  escopo  exclusivo  a  apreciação  dos  pressupostos  de  admissibilidade  recursal.  Seu  dispositivo  é  único,  ainda  quando  a  fundamentação  permita  concluir  pela  presença  de  uma  ou  de  várias  causas  impeditivas  do  julgamento  do  mérito  recursal,  uma  vez  que  registra,  de  forma  unívoca,  apenas  a  inadmissão  do  recurso.  Não  há,  pois,  capítulos  autônomos  nesta  decisão.
+3.  A  decomposição  do  provimento  judicial  em  unidades  autônomas  tem  como  parâmetro  inafastável  a  sua  parte  dispositiva,  e  não  a  fundamentação  como  um  elemento  autônomo  em  si  mesmo,  ressoando  inequívoco,  portanto,  que  a  decisão  agravada  é  incindível  e,  assim,  deve  ser  impugnada  em  sua  integralidade,  nos  exatos  termos  das  disposições  legais  e  regimentais.
+4.  Outrossim,  conquanto  não  seja  questão  debatida  nos  autos,  cumpre  registrar  que  o  posicionamento  ora  perfilhado  encontra  exceção  na  hipótese  prevista  no  art.  1.042,  caput,  do  CPC/2015,  que  veda  o  cabimento  do  agravo  contra  decisão  do  Tribunal  a  quo  que  inadmitir  o  recurso  especial,  com  base  na  aplicação  do  entendimento  consagrado  no  julgamento  de  recurso  repetitivo,  quando  então  será  cabível  apenas  o  agravo  interno  na  Corte  de  origem,  nos  termos  do  art.  1.030,  §  2º,  do  CPC.
+5.  Embargos  de  divergência  não  providos."
+(EAREsp  746.775/PR,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Relator  para  acórdão  Ministro  LUIS  FELIPE  SALOMÃO,  Corte  Especial,  julgado  em  19/9/2018,  DJe  de  30/11/2018)
+Nesse  contexto,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Por  fim,  relativamente  à  multa  prevista  no  art.  1.021,  §  4º,  do  CPC,  requerida  nas  contrarrazões,  a  Segunda  Seção  decidiu  que  a  aplicação  da  referida  penalidade  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica  da  rejeição  do  agravo  interno.
+No  caso  concreto,  não  se  vislumbra  intenção  abusiva  ou  protelatória  na  interposição  de  recurso  previsto  em  lei,  necessário,  inclusive,  para  esgotar  esta  instância,  requisito  indispensável  à  interposição  de  eventual  recurso  extraordinário.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
