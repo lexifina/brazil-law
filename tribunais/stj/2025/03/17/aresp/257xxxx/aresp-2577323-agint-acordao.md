@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. AUSÊNCIA DE PROVA DA QUITAÇÃO DA DÍVIDA. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ANTÔNIO GOMES DE MELO e outra  contra  decisão  singular  de  minha  lavra  na  qual  neguei  provimento  ao  agravo em  recurso  especial  em  virtude  da ausência de negativa de prestação jurisdicional e do  óbice  da s  Súmula s 5 e 7  do  STJ (fls. 508/511).
+Nas  razões  do  presente  agravo,  a parte agravante afirma que não há que falar nos óbices indicados tendo em vista que as razões contidas no recurso especial dizem respeito somente a uma questão de direito, sem nenhum tipo de incursão fática ou reanálise de provas e que o próprio acórdão enfatiza todo o contexto negocial.
+Afirma que, considerando a correta subsunção normativa ao caso concreto, inarredável a premissa de que o óbice indicado na decisão denegatória não incide na espécie, visto que os elementos processuais necessários à averiguação do erro de procedimento objeto do apelo nobre encontram-se suficientemente delineados na origem de maneira incontroversa.
+A  impugnação  foi  apresentada  às  fls.  527/543.
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. AUSÊNCIA DE PROVA DA QUITAÇÃO DA DÍVIDA. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+O  recurso  não  merece  prosperar.
+Como  constou  na  decisão  agravada,  o Tribunal de origem consignou, no acórdão do julgamento dos embargos de declaração, que (i), em que pese a juntada do recibo, o caso apresenta características que revelam que houve verdadeira novação/substituição de garantia entre os litigantes em razão do contrato de confissão de dívida assinado; (ii) em 30/12/2015, foram firmados entre as partes dois documentos: recibo de quitação do contrato de compra e venda de máquinas agrícolas com reserva de domínio e contrato de confissão e parcelamento de dívida com reserva de domínio, ambos com mesmo objeto, qual seja, colheitadeira de cana; (iii) conquanto sustentem os recorrentes que houve a quitação da dívida, não apresentaram nenhum documento capaz de desconstituir a dívida por eles confessada, embora tenham tido várias oportunidades para tanto e lhes fosse possível realizar tal prova. Confira-se:
+No presente caso, embora os embargantes aleguem que o acórdão não analisou a tese de "quitação da dívida", verifico que houve a apreciação aprofundada da questão. Vejamos:
+"No caso, o apelante sustenta que houve a quitação da dívida, o que seria comprovado pelo recibo emitido pelo apelado e colacionado por ocasião da oposição dos embargos monitórios. Porém, em que pese a juntada do recibo (evento 52), o caso apresenta características que revelam que houve verdadeira novação/substituição de garantia entre os litigantes em razão do contrato de confissão de dívida assinado pelo embargado.
+Isso porque, em 30 de dezembro de 2015, foram firmados entre as partes dois documentos: recibo de quitação do contrato de compra e venda de máquinas agrícolas com reserva de domínio e contrato de confissão e parcelamento de dívida com reserva de domínio, ambos com mesmo objeto, qual seja, colheitadeira de cana.
+A tese do autor/apelado de que emitiu a quitação do contrato de compra e venda do maquinário agrícola apenas para liberar a máquina para garantia para um financiamento realizado pelos apelantes, ganha amparo pelo contrato de confissão e parcelamento de dívida com reserva de domínio (evento 60), onde consta como objeto:
+"Cláusula 2 a . O devedor confessa dever ao credor a quantia de R$ 562.500,00 (quinhentos e sessenta e dois mil e quinhentos reais), decorrente do item abaixo citado, comprometendo-se a pagar tal valor conforme preconizado na Cláusula 3 a do presente instrumento. 1- Contrato; Nota promissória do contrato de compra e venda de equipamentos/máquinas com reserva de domínio, firmado em 26 de junho de 2015  tem como objeto: a) 01 (uma) colhedora de cana marca John Deere modelo 3520 ano 2013 chassi n. 1NW3520TPDT121094 usada;"
+Assim, conquanto sustentem os recorrentes que houve a quitação da dívida, não apresentaram nenhum documento capaz de desconstituir a dívida por eles confessada, embora tenha tido várias oportunidades para tanto e lhe fosse possível realizar tal prova. Inclusive, os apelantes não refutam o acordo firmado e não juntam esclarecimentos suficientes capazes de levar à extinção da dívida, como, por exemplo, forma de pagamento da referida dívida.
+Por outro lado, a apelada desconstituiu a prova apresentada pelo requerido através da apresentação do instrumento de confissão de dívida, confirmando a força executiva das notas promissórias e do contrato de compra de venda (evento 1) (..).
+À vista do exposto, não logrando a parte ré demonstrar qualquer fato capaz de afastar a obrigação de pagamento que emana das notas promissórias que instruem a inicial, tem-se que as cártulas são suficientes à procedência do pedido, revelando-se acertada a rejeição dos Embargos Monitórios e a constituição do título executivo judicial"  ..  (e-STJ, fls. 386/387).
+Como se vê, não há fato incontroverso quanto à quitação da dívida, como afirmado nas razões do presente recurso, tendo o Tribunal de origem concluindo que a agravada desconstituiu a prova apresentada pela parte agravante por meio da apresentação do instrumento de confissão de dívida, confirmando a força executiva das notas promissórias e do contrato de compra de venda, bem como a ausência de comprovação de quitação da dívida.
+Assim, a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos e do contrato firmado entre as partes, providência que esbarra no óbice das Súmulas 5 e 7 do STJ.
+Nesse  contexto,  não  havendo  argumentos  aptos  a  infirmar  os  fundamentos  da  decisão  agravada,  esta  deve  ser  integralmente  mantida.
+Em  face  do  exposto,  nego  provimento  ao  agravo  interno.
+É  como  voto.
