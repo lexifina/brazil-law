@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. OMISSÃO DA ADMINISTRAÇÃO. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO DE FUNDO DE DIREITO NÃO CONFIGURADA. SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O Tribunal de origem decidiu em conformidade com a jurisprudência desta Corte Superior, a qual firmou entendimento no sentido de que, nas ações em que se discute progressão funcional de servidor, quando não houver recusa formal da Administração para a implementação do direito postulado, a relação é de trato sucessivo; portanto, a prescrição atingirá somente as parcelas vencidas anteriores ao quinquênio que antecede o ajuizamento da ação. Incidência da Súmula 83/STJ.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo ESTADO DO TOCANTINS contra decisão assim ementada (fl. 481, e-STJ):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR ESTADUAL. MILITAR. REENQUADRAMENTO FUNCIONAL. OMISSÃO DA ADMINISTRAÇÃO. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO DE FUNDO DE DIREITO NÃO CONFIGURADA. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR DE JUSTIÇA. SÚMULA 83/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O agravante alega que "ao contrário do que restou sustentado na decisão ora agravada o recurso do ente público impugnou todos os fundamentos da decisão exarada pelo Eg. Tribunal de Justiça do Estado do Tocantins, que afastou a preliminar de prescrição e determinou o regular prosseguimento do feito para a análise do pedido do ora Agravado, impugnação essa que se deu de forma direta, específica e pormenorizada, não havendo que se falar na incidência do enunciado da Súmula 283 do STF. Isso porque, ao sustentar que o termo inicial da prescrição coincide com a edição da Lei Estadual que realizou novo enquadramento dos Militares Estaduais, o Estado refutou de forma suficiente o fundamento do acórdão recorrido de que teria havido omissão da Administração em promover o enquadramento almejado pelo servidor, não havendo que se falar em incidência do óbice estabelecido pela Súmula 283/STF. " (fl. 492, e-STJ).
+Sustenta, ainda, que " o entendimento do Colegiado de origem não está em harmonia com a orientação jurisprudencial dessa Corte Superior sobre a matéria" (fl. 494, e-STJ), de forma que "não há que se falar em incidência da Súmula 83 do STJ, a impedir o conhecimento do reclamo" (fl. 496, e-STJ).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. OMISSÃO DA ADMINISTRAÇÃO. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO DE FUNDO DE DIREITO NÃO CONFIGURADA. SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O Tribunal de origem decidiu em conformidade com a jurisprudência desta Corte Superior, a qual firmou entendimento no sentido de que, nas ações em que se discute progressão funcional de servidor, quando não houver recusa formal da Administração para a implementação do direito postulado, a relação é de trato sucessivo; portanto, a prescrição atingirá somente as parcelas vencidas anteriores ao quinquênio que antecede o ajuizamento da ação. Incidência da Súmula 83/STJ.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Quanto ao mérito, a parte agravante, repisando suas alegações recursais, insiste na tese de que houve a prescrição do fundo de direito, olvidando que, de acordo com o acórdão recorrido, o caso concreto traz uma peculiaridade, qual seja: não ter havido recusa expressa do direito por parte da Administração Pública.
+A Corte estadual decidiu a controvérsia nos seguintes termos (fl. 393, e-STJ; grifos próprios):
+ ..
+O ente público defende que, no caso, ocorreu a prescrição, mencionando que não houve requerimento em tempo oportuno pela parte recorrida.
+No entanto, não ocorre prescrição de fundo de direito se inexistente manifestação negativa da Administração, a marcar no tempo a extinção do direito do servidor.
+No caso dos autos, não houve negativa do direito, mas tão somente omissão de seu implemento, de modo a atrair a regra da Súmula 443 STF:
+A prescrição das prestações anteriores ao período previsto em lei não ocorre, quando não tiver sido negado, antes daquele prazo, o próprio direito reclamado, ou a situação jurídica de que ele resulta.
+No mesmo compasso, o Superior Tribunal de Justiça tem entendido que, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, senão vejamos:
+ ..
+Ocorre que, como já mencionado na decisão ora recorrida, o Superior Tribunal de Justiça tem entendimento consolidado no sentido de que, nas ações em que se discute progressão funcional de servidor, quando não houver recusa formal da Administração para a implementação do direito postulado, a relação é de trato sucessivo; portanto, a prescrição atingirá somente as parcelas vencidas anteriores ao quinquênio que antecede o ajuizamento da ação.
+Assim, conforme se observa do trecho acima transcrito, verifica-se que o Tribunal a quo decidiu em conformidade com o posicionamento desta Corte Superior ao consignar que, em razão de não ter havido recusa expressa do direito por parte da Administração Pública, não restou configurada a prescrição alegada, visto que referida prescrição não atinge o fundo de direito; trata-se, pois, de relação de trato sucessivo. Incide, ao caso, o teor da Súmula 83/STJ.
+No mesmo sentido (grifos próprios):
+PROCESSUAL CIVIL. POLICIAL MILITAR. PROMOÇÃO. RECURSO ESPECIAL NÃO CONHECIDO. CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem policial militar ajuizou, contra Estado de Tocantins, ação objetivando o reconhecimento de promoção na graduação de 1º sargento retroativo ao ano de 2012, além de duas promoções imediatas (subtenente e 2º tenente). Na sentença o pedido foi julgado improcedente. No Tribunal de origem, a sentença foi reformada para julgar procedentes os pedidos. No Superior Tribunal de Justiça, trata-se de agravo interno interposto pelo Estado contra decisão que não conheceu do recurso especial.
+II - Nas ações em que se discute progressão funcional, se inexistente recusa formal da administração na implementação do direito, tem-se relação de trato sucessivo. Assim, a prescrição atingirá apenas as parcelas vencidas antes do quinquênio que antecede o ajuizamento. Nesse sentido: AgInt no AgInt nos EDcl no AREsp n. 2.055.792/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023. AgInt no REsp n. 2.090.529/TO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023. AgRg no AREsp n. 753.519/MG, relator Ministro Humberto Martins, Segunda Turma, julgado em 22/9/2015, DJe de 30/9/2015. Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ. Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+III - Agravo interno improvido.
+(AgInt no REsp n. 2.159.577/TO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2024, DJEN de 4/12/2024).
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 283/STF.
+Ocorre que o recurso especial não apresentou argumentação contra a fundamentação do acórdão recorrido acima reproduzida - sobretudo no que se refere à existência de ato omissivo da Administração.
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
