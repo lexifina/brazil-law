@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA PARA CUSTEIO DE PROCEDIMENTO MÉDICO JÁ INCLUÍDO NO ROL DA ANS. REQUISITOS PREVISTOS NAS DIRETRIZES DE UTILIZAÇÃO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF, POR ANALOGIA. DANO MORAL CONFIGURADO. ATO ILÍTICO. REFORMA DO JULGADO. NECESSIDADE DE REEXAME DA PROVA. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A matéria atinente à necessidade de observância prévia das diretrizes de utilização para a cobertura do implante transcateter de prótese valvar aórtica não foi discutida pelo Tribunal paulista, esbarrando o presente recurso no óbice da Súmula n. 282 do STF, aplicada por analogia.
+2. No caso, o Tribunal bandeirante, soberano na análise fático-probatória, concluiu que o tratamento pleiteado pelo beneficiário está incluído no rol da ANS, como de observância obrigatória pelos planos de saúde. Desse modo, qualquer outra análise acerca dos critérios para o custeio do procedimento médico indicado na inicial, da forma como trazida no apelo nobre, seria inviável em virtude da imprescindível necessidade de reexame da prova, aqui obstada por força da Súmula n. 7 do STJ.
+3. Qualquer outra análise acerca da configuração do dano moral, da forma como trazida no apelo nobre, esbarraria, necessariamente, no óbice da Súmula n. 7 do STJ.
+4. Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por UNIMED DE MARILIA COOPERATIVA DE TRABALHO MEDICO (UNIMED) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado:
+Apelação Cível. Obrigação de fazer. Plano de saúde.
+Negativa de cobertura, sob alegação de não constar no rol da ANS. Reapreciação da matéria diante do então entendimento do C. STJ de ser o rol da ANS taxativo. A ANS editou a RN n. 465, de 24/02/2021 que assinalou em seu Anexo que deve haver cobertura do procedimento de "implante transcateter de prótese valvar aórtica TAVI".
+Tendo em vista a recente regulamentação da matéria pela ANS, verifica-se que o procedimento requerido pela autora foi incluído como de observância obrigatória pelos planos de saúde pela referida resolução normativa. A questão da taxatividade do referido rol restou superada com o advento da Lei 14.454/22, que alterou a Lei de Planos de Saúde, para consignar expressamente que o Rol da ANS não é taxativo, constituindo apenas "referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados". Apelo desprovido (e-STJ, fl. 662).
+Nas razões do recurso especial manejado com fundamento no art. 105, III, alínea a, da CF, UNIMED alegou a violação dos arts. 10, § 4º, da Lei n. 9.656/98; 3º e 4º, III, ambos da Lei n. 9.961/2000; e 186 e 927, ambos do CC/02, ao sustentar, em síntese, que (1) não está obrigada a custear o tratamento que não consta do rol taxativo da ANS e que não foram observadas as Diretrizes de Utilização; e (2) deve ser afastada a condenação por dano moral, em virtude da ausência da prática de ato ilícito e dano (e-STJ, fls. 668/687).
+As contrarrazões foram apresentadas (e-STJ, fls. 692/703).
+Inadmitido o apelo nobre, UNIMED manejou o presente agravo, sustentando o desacerto da decisão que não admitiu o seu recurso especial.
+A contraminuta não foi apresentada.
+É o relatório.
+EMENTA
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA PARA CUSTEIO DE PROCEDIMENTO MÉDICO JÁ INCLUÍDO NO ROL DA ANS. REQUISITOS PREVISTOS NAS DIRETRIZES DE UTILIZAÇÃO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF, POR ANALOGIA. DANO MORAL CONFIGURADO. ATO ILÍTICO. REFORMA DO JULGADO. NECESSIDADE DE REEXAME DA PROVA. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A matéria atinente à necessidade de observância prévia das diretrizes de utilização para a cobertura do implante transcateter de prótese valvar aórtica não foi discutida pelo Tribunal paulista, esbarrando o presente recurso no óbice da Súmula n. 282 do STF, aplicada por analogia.
+2. No caso, o Tribunal bandeirante, soberano na análise fático-probatória, concluiu que o tratamento pleiteado pelo beneficiário está incluído no rol da ANS, como de observância obrigatória pelos planos de saúde. Desse modo, qualquer outra análise acerca dos critérios para o custeio do procedimento médico indicado na inicial, da forma como trazida no apelo nobre, seria inviável em virtude da imprescindível necessidade de reexame da prova, aqui obstada por força da Súmula n. 7 do STJ.
+3. Qualquer outra análise acerca da configuração do dano moral, da forma como trazida no apelo nobre, esbarraria, necessariamente, no óbice da Súmula n. 7 do STJ.
+4. Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Do dever de cobertura
+Na espécie, o Tribunal bandeirante consignou que
+ ..  Em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção do C. STJ entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista.
+Contudo, o colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+O autor mantém relação jurídica com a ré desde 1994.
+Alega, todavia, que embora tenha solicitado, a requerida não autorizou a realização de procedimento cirúrgico para "Implante Percutâneo de Bioprótese Aórtica (TAVI)", sob argumento de não ter procedimento cobertura contratual, uma vez que fora do rol de cobertura da ANS. Alega, ainda, que referido procedimento foi prescrito por médico cooperado, Pedro Beraldo de Andrade, especialista na área cardiologista intervencionista. Alega que a negativa do procedimento é ilegal e abusiva, além de desrespeitosa com o consumidor.
+Na hipótese dos autos, a autora demonstrou ser portadora de estenose aórtica degenerativa senil importante, em insuficiência cardíaca de classe funcional II, conforme consta da declaração médica de fls. 31, devidamente assinada por profissional da medicina, com prescrição para submissão ao procedimento cirúrgico descrito na peça inaugural, qual seja, "implante percutâneo de bioprótese aórtica (TAVI)".
+A AgênciA Nacional de Saúde na RN n. 465, de 24/02/2021 que assinalou em seu Anexo que deve haver cobertura do procedimento de "implante transcateter de prótese valvar aórtica TAVI".
+Tendo em vista a recente regulamentação da matéria pela ANS, verifica-se que o procedimento requerido pela autora foi incluído como de observância obrigatória pelos planos de saúde pela referida resolução normativa.
+Todavia, ainda que se considere que o tratamento não estava incluído no Rol de Procedimentos da ANS à época em que formulado o pedido, deve-se ressaltar que a questão da taxatividade do referido rol restou superada com o advento da Lei 14.454/22, que alterou a Lei de Planos de Saúde, para consignar expressamente que o Rol da ANS não é taxativo, constituindo apenas "referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados".
+Dessa forma, não se autoriza que a ré afaste a cobertura do tratamento recomendado por médico assistente por não haver previsão de cobertura para o tratamento recomendado no rol de procedimentos da ANS à data da solicitação e, com mais razão, por não atender às diretrizes de tratamento lá estipuladas.
+Assim, em atendimento à determinação do Superior Tribunal de Justiça, mantenho o meu posicionamento, destacando que a negativa de cobertura do tratamento prescrito pelo médico assistente à autora é abusiva, posto que o procedimento requerido consta expressamente do Rol de Procedimentos da ANS e, ainda que não o fosse, a questão da taxatividade do referido rol já restou superada, como demonstrado.
+Nos moldes acima, decisão proferida na apelação cível n. 1015184-62.2020.8.26.0071, na Relatoria da Des. Márcia Dalla Déa Barone:
+"Ação de obrigação de fazer Plano de Saúde Autora que possui indicação para cirurgia de troca valvar pela técnica transcateter (TAVI) Sentença de procedência Insurgência da requerida Alegação de que o tratamento não estava especificado no rol de cobertura obrigatória da ANS à época do pedido Inclusão do procedimento requerido como de observância obrigatória pela RN 465/21 Taxatividade do rol da ANS afastada pelo advento da Lei 14.454/22 Aplicação do Código de Defesa do Consumidor e da Súmula 102 do E. TJSP Necessidade de cobertura integral pela requerida do procedimento indicado por médico assistente Exclusão contratual que coloca em risco o objeto do contrato Prevalência do princípio ao acesso à saúde Justa expectativa do aderente no que tange à cobertura de tratamento para doenças com cobertura Sentença mantida Recurso não provido. Nega-se provimento ao recurso, mantida a sentença apelada por seus próprios termos."
+Do exposto, nega-se provimento ao recurso de apelação (e-STJ, fls. 661/666 - sem destaques no original).
+De plano, do acórdão acima transcrito, verifica-se que a matéria atinente à necessidade de observância prévia das diretrizes de utilização para a cobertura do implante transcateter de prótese valvar aórtica não foi discutida pelo Tribunal paulista, esbarrando o presente recurso no óbice da Súmula n. 282 do STF, aplicada por analogia.
+Ainda que assim não fosse, no caso, o Tribunal bandeirante, soberano na análise fático-probatória, concluiu que o tratamento pleiteado pelo beneficiário está incluído no rol da ANS, como de observância obrigatória pelos planos de saúde.
+Desse modo, qualquer outra análise acerca dos critérios para o custeio do procedimento médico indicado na inicial, da forma como trazida no apelo nobre, seria inviável em virtude da imprescindível necessidade de reexame da prova, aqui obstada por força da Súmula n. 7 do STJ.
+(2) Da configuração do dano moral
+No que se refere ao ponto, cumpre destacar que a Corte bandeirante, soberana na análise fático-probatória, consignou que
+ ..  Quanto aos danos morais, deve ser mantida, inclusive com relação ao valor arbitrado.
+Em regra este Relator não reconhecido da configuração do dano moral em hipóteses semelhantes, quando a resistência da operadora se prende ao cumprimento das cláusulas contratuais, ainda que a cláusula possa ser afastada por decisão judicial.
+Deste modo tem se decidido de forma reiterada que a mera discussão quanto à interpretação de cláusula contratual de plano de saúde não gera dano moral sujeito à indenização.
+ ..
+No entanto, na hipótese dos autos justifica a exceção pois se cuida de pessoa idosa, com vários problemas de saúde. A recusa da opera(dora) só foi resolvida depois de decisão judicial.
+Mas não é caso de aumentar o valor da indenização. Depois da decisão judicial que antecipou os efeitos da tutela não consta descumprimento da decisão.
+Diante do exposto é de rigor negar provimento ao recurso principal e adesivo, mantendo-se a sentença.
+Recursos improvidos. Mantém-se a sucumbência fixada na sentença (e-STJ, fls. 514/520 - sem destaques no original).
+Desse modo, tendo o TJSP concluído pela existência de dano moral indenizável em razão da injusta negativa do tratamento médico, inafastável a aplicação da Súmula n. 7 do STJ, pois concluir de forma diversa sobre a existência de danos indenizáveis demandaria a análise dos elementos de prova, o que é vedado em recurso especial.
+Nesse aspecto, confiram-se os recentes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE DE AUTOGESTÃO. DEMORA NA AUTORIZAÇÃO DO PROCEDIMENTO. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL POR MEIO DE RECURSO ESPECIAL. ATO ILÍCITO CONFIGURADO. DANOS MORAIS. POSSIBILIDADE. ALTERAÇÃO. REVISÃO. SÚMULA N. 7 DO STJ.
+1.  ..
+2. O Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu pela responsabilidade da recorrente pela falha na prestação de serviço médico. A alteração do entendimento demandaria a análise do acervo fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.312.233/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023 - sem destaque no original)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA ILÍCITA DE COBERTURA. DANOS MORAIS DEMONSTRADOS NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO NCPC. NÃO APLICAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, o Tribunal estadual consignou que, diante da recusa da operadora do plano de saúde em custear o tratamento requerido, houve agravamento da situação de aflição psicológica e de angústia experimentada pela parte recorrida. Nesse contexto, a alteração das conclusões adotadas pela Corte estadual demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula n.º 7 do STJ.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.356.383/CE, de minha relatoria, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023 - sem destaque no original)
+Assim, está claro que o apelo nobre não ultrapassa a barreira do conhecimento.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+Inaplicável ao caso a majoração de honorários advocatícios.
+É o voto.
+Advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, e 1.026, § 2º, ambos do CPC).
