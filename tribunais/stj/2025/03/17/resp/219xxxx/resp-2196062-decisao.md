@@ -1,0 +1,67 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DE GOIAS contra acórdão prolatado, por unanimidade, pela 3ª Câmara Cível da Segunda Turma do Tribunal de Justiça do Estado de Goiás no julgamento de Agravo de Instrumento, assim ementado (fl. 88e):
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. RECURSO SECUNDUM EVENTUM LITIS. UGOPOCI. REESTRUTURAÇÃO DA CARREIRA DO SERVIDOR. COISA JULGADA E PRECLUSÃO RECONHECIDAS NO ATO JUDICIAL. MERAS ALEGAÇÕES DO AGRAVANTE. DECISÃO MANTIDA.
+1. Estando o agravo de instrumento pronto para o julgamento de mérito, deve ser julgado prejudicado o agravo interno manejado contra a decisão preliminar que não concedeu o efeito suspensivo neste instrumental.
+2. O agravo de instrumento é recurso secundum eventum litis e as suas razões adstringem-se aos lindes da decisão agravada, sob pena de supressão de instância.
+3. Tendo em vista o trânsito em julgado do decisum, que deu azo ao cumprimento de sentença coletiva, encontra-se vedada nova discussão sobre a lide ou mesmo modificar a sentença que a julgou, nos termos do artigo 509, § 4º, do Código de Processo Civil.
+4. In casu, impõe-se a rejeição do pleito recursal, porquanto o agravante não se contrapôs a contento em relação aos fundamentos do ato decisório, já que trouxe a lume apenas questão já abarcada pela preclusão.
+5. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+Opostos embargos de declaração, foram rejeitados (fls. 408/415 e 451/458e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Art. 502 do Código de Processo Civil - " ..  o Tribunal local compreendeu que o momento processual adequado para ser discutida a reestruturação remuneratória da carreira seria na fase de conhecimento e, como o Estado NÃO tratou dela na contestação, a questão não poderia apreciada na fase de liquidação da sentença.  ..  Destarte, à luz da jurisprudência do STJ, a questão da reestruturação NÃO REPRESENTA MATÉRIA DE DEFESA DE MÉRITO, mas de cálculos em liquidação de sentença, necessários para apurar se a reformulação da carreira supriu, por completo, eventual defasagem decorrente da conversão salarial em URV." (fls. 470/473e); e
+(ii) Art. 489, §1º, V, do Código de Processo Civil - não se aplicam os temas nºs 475 e 476 do STJ. "Primeiro porque o Estado jamais postulou a COMPENSAÇÃO da diferença remuneratória com reajustes concedidos aos servidores - como o caso paradigma julgado pelo STJ  ..  Com efeito, não se trata de compensação com aumentos anteriormente concedidos, mas de completa reestruturação remuneratória, notadamente pela implementação do regime do subsídio, que põe fim ao direito à incorporação do percentual relativo à conversão em URV. Além disso, o julgamento qualificado do STJ trata de matéria de defesa na fase de cumprimento do título executivo. Situação distinta dos presentes autos, que se encontram em fase de liquidação da sentença." (fls. 474/475e)
+Sem contrarrazões (fl. 488e), o recurso foi inadmitido (fls. 496/498e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 550e)
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Primeiramente, sobre a alegada ofensa ao art. 489, §1º, V, do CPC, observo que o Recorrente não demonstrou, de forma clara e objetiva, que o acórdão recorrido teria adotado como fundamento, expressamente, o entendimento firmado nos Temas nºs 475 e 476 desta Corte.
+Verifica-se, assim, a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial.
+Desse modo, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a orientação contida na Súmula 284 do Colendo Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+No que se refere à alegação de que a reestruturação remuneratória da carreira não está acobertada pelo manto da coisa julgada e, por isso, pode ser alegada em liquidação de sentença, observo que a tese não encontra amparo no dispositivo apontado (art. 502 do CPC).
+Com efeito, incide na espécie, por analogia, o óbice contido também na Súmula 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+(..)
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PEDIDO. DIREÇÃO CONTRA SENTENÇA. EXISTÊNCIA DE ACÓRDÃO POSTERIOR QUE A SUBSTITUIU. PEDIDO. IMPOSSIBILIDADE JURÍDICA. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. ARTS. 485, V, E 512 DO CPC. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+(..)
+2. Há deficiência argumentativa quando o preceito legal apontado como violado (arts. 485, V, e 512 do CPC) não é suficiente para amparar a tese defendida no recurso especial. Precedentes.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.369.630/BA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/10/2013, DJe 20/11/2013).
+No mais, rever a conclusão alcançada pela origem, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 11,98%. CONVERSÃO DO CRUZEIRO REAL EM URV. REESTRUTURAÇÃO DA CARREIRA. TERMO INICIAL. FUNDAMENTO EM LEI LOCAL. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DAS SÚMULAS 280/STF E 7/STJ. PROVIMENTO NEGADO.
+1. O STJ possui entendimento no sentido de que "a reestruturação da carreira dos Servidores é o marco inicial da contagem do prazo prescricional para a cobrança dos possíveis prejuízos decorrentes da errônea conversão de vencimentos em URV, que atinge todo o direito reclamado após o prazo de cinco anos" (AgInt no AgInt no REsp n. 1.662.353/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 28/8/2017).
+2. Da leitura do acórdão recorrido, constata-se que o mérito recursal foi decidido à luz da interpretação da Lei estadual 6.528/1994. A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial. Desse modo, é aplicável à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+3. Na presente hipótese, o acolhimento da tese recursal implica o reexame do conjunto probatório dos autos, pois somente com a liquidação do quantum debeatur em cada caso particular é que é possível verificar a real existência de recomposição salarial advinda da reestruturação da carreira, o que é inviável ante o óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.741.075/MT, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+PROCESSULA CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. SERVIDOR PÚBLICO. REAJUSTE DE 11,98% (URV). LIMITAÇÃO TEMPORAL. LEI QUE IMPÕE REESTRUTURAÇÃO DA CARREIRA POSTERIOR AO TRÂNSITO EM JULGADO. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ E APLICAÇÃO DAS SÚMULAS 7/STJ E 280/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Afasta-se a alegação de ofensa ao art. 1.022 do CPC/2015 porque não foi demonstrada omissão capaz de comprometer o embasamento do acórdão recorrido ou de constituir empecilho ao conhecimento do Recurso Especial.
+2. A ausência de manifestação sobre determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há contrariedade ao art. 489 do CPC/2015 quando o Tribunal a quo decide de modo claro e fundamentado, como ocorreu na hipótese.
+3. A Corte local considerou que houve reestruturação da carreira da recorrente pela Lei Estadual 9.664/2012, bem como que ela aderiu ao Plano Geral de Carreiras do Estado - PGCE. Ademais, o trânsito em julgado da Ação Coletiva que concedeu o reajuste da diferença da URV ocorreu em 2008, fato admitido pela própria parte.
+4. Com efeito, o Superior Tribunal de Justiça entende que, em que pese o trânsito em julgado anterior à reestruturação, a lei posterior que reestrutura a carreira do servidor implica limitador temporal da incorporação dos 11,98% (URV). Incide na espécie o princípio estabelecido na Súmula 83/STJ.
+5. Ademais, para modificar o entendimento firmado no decisum combatido é imprescindível exceder as razões nele colacionadas, o que exige incursão em direito local e no acervo fático-probatório dos autos, providência vedada na via eleita pelas Súmulas 280/STF ("Por ofensa a direito local não cabe Recurso Extraordinário") e 7/STJ ("A pretensão de simples reexame de prova não enseja Recurso Especial").
+6. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.422.609/MA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/4/2024, DJe de 7/5/2024 - destaque meu.)
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
