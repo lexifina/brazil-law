@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº293, de 27.10.2022 (D.O 27.10.2022)
+ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL N.o 6, DE 28 DE ABRIL DE 1997.
+A GOVERNADORA DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
