@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos pela UNIÃO, ao acórdão de fls. 442/443e, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica aos fundamentos da decisão de inadmissão do recurso especial impõe o não conhecimento do agravo. Observância dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+3. Agravo interno desprovido.
+Alega a parte embargante, em resumo, haver omissão no acórdão, pois segundo alega, "o recurso interposto pela União foi desprovido com base nas mesmas razões de decidir exaradas na decisão monocrática agravada (..) a União demonstrou que não se aplica à hipótese a súmula07/STJ. Tendo em vista que a matéria fática está delineada no acórdão de origem, cumpre apenas a análise acercada violação ao art. 1.056 do CPC/2015, resultante da análise comparativa entre o artigo 791, inciso III, do CPC/1973 e o regime estabelecido pelo artigo 921, inciso III, §1º, do CPC/2015, em discordância com o posicionamento jurisprudencial consolidado por esta Corte sobre o assunto. O recurso também destacou que, às fls. 400 do e-STJ, a União impugnou de forma específica a parte da decisão que aplicou a Súmula 7/STJ" (fls. 455/456e).
+Assevera que demonstrou, categoricamente, "que não está buscando reexame de fatos, mas sim o correto enquadramento jurídico e a correta interpretação dada aos dispositivos legais, em especial ao art. 1056, do CPC, ressaltando que a moldura fática está precisamente delineada pelas instâncias ordinárias e não está em debate no apelo extremo. Assim, a União enfrentou o óbice à luz do caso concreto explicando o porquê não é necessária a análise de provas para reverter o acórdão regional. No entanto, o acórdão embargado foi omisso acerca da alegação da União de inaplicabilidade da súmula 07/STJ" (fl. 456e).
+Requer, assim, o acolhimento dos embargos de declaração, "para que, emprestando-lhes efeito modificativo, sejam supridas as omissões ora apontadas quanto aos fundamentos apresentados no Agravo Interno, dando-se provimento ao recurso interposto" (fl. 456e).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, quanto à manutenção do óbice da Súmula 182/STJ, o julgamento embargado está assim fundamentado (fls. 445/446e):
+A decisão ora agravada não conheceu do agravo em recurso especial, ao fundamento de que, "além da manifestação do inconformismo, inerente ao ato de irresignação, impõe- se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade. No caso dos autos, o recurso especial restou inadmitido por não configurada violação aos arts. 489 e 1.022 do CPC/2015 e pela incidência da Súmula 7/STJ, consoante os precedentes transcritos na decisão agravada. Ocorre que a parte agravante não impugnou todos os fundamentos da decisão agravada, especialmente quanto à incidência da
+Súmula 7/STJ, circunstância que impede o conhecimento do agravo" (fl. 417e).
+A decisão não merece reforma, pois em relação ao óbice da Súmula 7/STJ, é necessário que a parte desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático- probatório dos autos, seja porque a questão é meramente de interpretação jurídica e aí deve comprovar tal circunstância, não apenas alega-la, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+Em face do exposto, nego provimento ao agravo interno.
+Verifica-se, assim, não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, ao passo que os embargos de declaração não tem por finalidade o reexame de questões já analisadas, apenas para oportunizar novo julgamento por inconformismo da parte, com a conclusão adotada.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
