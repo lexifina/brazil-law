@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos por CONDOMÍNIO RESIDENCIAL HELBOR VICTORIA HOME CLUB contra acórdão desta colenda Quarta Turma, assim ementado:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS CUMULADA COM PEDIDO DE PERDAS E DANOS. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS PREVISTO EM CONVENÇÃO. INVIABILIDADE. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. A jurisprudência do STJ orienta que " o s honorários advocatícios contratuais são de responsabilidade da parte contratante, cabendo à parte contrária apenas os honorários sucumbenciais. "A Corte Especial e a Segunda Seção do STJ já se pronunciaram no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora. (..)" (AgInt no AREsp 1.332.170/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 07/02/2019, DJe de 14/02/2019)" (AgInt nos EDcl no REsp 1.675.516/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe de 18/12/2020).
+2. Não é possível o conhecimento do recurso especial em que se alega ofensa a disposição de convenção de condomínio, por não se tratar de ato normativo que se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/1988.
+3. Agravo interno a que se nega provimento." (e-STJ, fl. 344)
+Em suas razões, o embargante pretende a concessão de efeitos modificativos, aduzindo ter havido omissão no acórdão embargado, pois em momento algum, seja em sede de recurso especial ou mesmo de agravo interno, aventou a violação de norma interna condominial, mas sim afronta direta a norma infraconstitucional vigente, mais precisamente o disposto no art. 1.333 do Código Civil.
+Defende que a expressa violação do artigo 1.333 do Código Civil aventada em sede de especiais e em agravo interno merece acurada análise desta nobre Corte de Justiça, sob pena de se negar vigência a regramento basilar do Código Civil e que o decisum embargado, em momento algum, faz menção quanto à negativa de vigência do referido dispositivo legal, operando-se, com isso, omissão no julgado.
+Requer o provimento dos embargos de declaração, com efeitos infringentes.
+Devidamente intimada, a parte embargada não apresentou impugnação, conforme certidão à fl. 363 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não prospera.
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Com efeito, a col. Quarta Turma, nos termos do voto desta Relatoria, negou provimento ao agravo interno, mantendo a decisão agravada, nos termos da seguinte fundamentação:
+"Conforme constou na decisão agravada, a Corte de origem, ao se manifestar sobre a possibilidade de ressarcimento dos honorários contratuais estipulados na convenção condominial em ação de cobrança de despesas condominiais, assim decidiu:
+"Todavia, embora existente a previsão de honorários de advogados nas indenizações por perdas e danos, o Superior Tribunal de Justiça já decidiu que a interpretação da norma deve excluir a atuação em juízo (AgInt no AREsp n. 2.029.736/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+Nesse passo, a sentença está em sintonia com a reiterada posição da Corte da Cidadania, no sentido de que "os custos provenientes da contratação de advogado para ajuizamento de ação, por si só, não constitui ilícito capaz de gerar dano material passível de indenização" (AgInt na PET no AREsp 834691/DF, rel. Min. Marco Campbell Marques, Segunda Turma, j. 7-2- 2019).
+(..) Não se descuida da existência de precedentes mais recentes, inaugurados pela Quinta Câmara de Direito Civil (Apelação Cível de n. 0305154- 07.2016.8.24.0038) em demandas semelhantes envolvendo a verba contratual advocatícia.
+Contudo, permaneço alinhado à sentença, na medida em que não se está a tratar aqui de perdas e danos, mas sim de ação de cobrança de dívida de valor.
+Nesse caso, portanto, tenho como aplicável a norma específíca do art. 1.336, I e §1º, do Código Civil, in verbis:
+Art. 1.336. São deveres do condômino:
+I - contribuir para as despesas do condomínio na proporção das suas frações ideais, salvo disposição em contrário na convenção;
+ ..
+§ 1 o O condômino que não pagar a sua contribuição  cará sujeito aos juros moratórios convencionados ou, não sendo previstos, os de um por cento ao mês e multa de até dois por cento sobre o débito.
+Conforme se observe do texto da legislação civil, ao tratar de forma expressa as consequências da mora e do inadimplemento do condômino em relação as taxas condominiais, previu o legislador apenas a incidência de juros e multa sobre o débito, nada referindo sobre o devedor também suportar honorários contratuais.
+Por conseguinte, na inexistência de obrigação legal a abrigar a pretensão do condomínio, resulta mesmo abusiva a previsão inserida na convenção condominial sobre a adição da verba honorária do causídico contratado no cômputo das taxas inadimplidas." (e-STJ, fls. 178/179)
+O entendimento acima encontra-se de acordo com a jurisprudência do STJ, consoante os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/2015). AÇÃO DE DESPEJO. ALEGADO ERRO MATERIAL NA CONDENAÇÃO. NÃO OCORRÊNCIA. INCLUSÃO DE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE DE COBRANÇA EM CASO DE ATUAÇÃO EM JUÍZO. PRECEDENTES. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A orientação jurisprudencial da Segunda Seção do Superior Tribunal de Justiça, sedimentada por ocasião do julgamento dos EREsp 1.155.527/MG, (Rel. Ministro Sidnei Beneti, DJe 28/6/2012), é no sentido de que apenas os honorários contratuais pagos para a adoção de providências extrajudiciais decorrentes do inadimplemento são compreendidos pelo termo "honorários de advogado" previsto pelos arts. 389, 395 e 404 do Código Civil, excluindo- se os honorários contratados para a atuação judicial.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.482.522/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DESTITUIÇÃO IRREGULAR DO CARGO DE SÍNDICO. INEXISTÊNCIA DE DANOS MATERIAIS OU MORAIS. MEROS DISSABORES. SÚMULA 7 DO STJ. VIOLAÇÃO AO ART. 1.022 DO CPC NÃO CARACTERIZADA. RELEVÂNCIA DA OMISSÃO. HONORÁRIOS CONTRATUAIS DA PARTE VENCEDORA. ÔNUS QUE NÃO PODE SER IMPOSTO AO SUCUMBENTE. SÚMULA 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. In casu, a Corte de origem afastou a legitimidade passiva dos condôminos para responder pela destituição irregular do agravante do cargo de síndico, atestou a inexistência danos materiais ou morais, bem como determinou que o agravante arque com as despesas condominiais no período em que não exerceu a função de síndico, sob pena de enriquecimento sem causa, ao passo que alterar tais conclusões encontra óbice na Súmula 7 do STJ.
+2. A incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional.
+3. Inexiste violação ao art. 1.022, II do CPC quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+4. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo, como almeja a parte recorrente.
+5. É necessária a relevância da omissão e a utilidade e necessidade para que se determine, em sede de recurso especial, a realização de novo julgamento dos embargos de declaração pelo tribunal de origem, o que não se verifica no caso em tela.
+6. A Corte Especial e a Segunda Seção do STJ já se pronunciaram no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora. Precedentes: EREsp. 1.507.864/RS, Relatora Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 20/4/2016, DJe 11/5/2016 e EREsp 1.155.527/MG, Rel. Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, julgado em 13/6/2012, DJe 28/6/2012).
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.254.623/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/6/2019, DJe de 28/6/2019.)
+No mesmo sentido, em casos análogos, envolvendo a cobrança de débitos condominiais, em que havia a previsão da cobrança de honorários contratuais na convenção do condomínio, confiram-se os seguintes julgados: REsp n. 2.051.295/DF, relator Ministro MARCO AURÉLIO BELLIZZE, DJe de 1º/3/2023; REsp n. 2.031.091/DF, relator Ministro MARCO BUZZI, DJe de 1º/3/2023; AREsp n. 2.090.876/SP, relator Ministro RAUL ARAÚJO, DJe de 20/9/2022; e AgInt no AREsp n. 1.768.721/SC, relatora Ministra MARIA ISABEL GALLOTTI, DJe de 16/3/2021." (e-STJ, fls. 347/349)
+Como visto, constou expressamente no acórdão embargado que é abusiva a previsão inserida na convenção condominial sobre a adição da verba honorária do causídico contratado no cômputo das taxas inadimplidas.
+Nesse contexto, não existe omissão, contradição, obscuridade ou erro material a ser sanado na espécie.
+É firme a jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, notadamente nas hipóteses de mero descontentamento da parte com o resultado do julgamento, por não se configurar negativa de prestação jurisdicional.
+Ademais, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOCUMENTO QUE JÁ ENCONTRAVA NOS AUTOS. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. ANÁLISE DE OFENSA A MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. "É vedado à parte recorrente, em sede de embargos de declaração e agravo regimental, suscitar matéria que não foi suscitada anteriormente, em virtude da ocorrência da preclusão consumativa" (AgRg no RE nos EDcl no AgRg no AREsp n. 744.187/DF, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/11/2018, DJe de 28/11/2018).
+2. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+3. Com efeito, "não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt nos EREsp 1.544.786/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020).
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.407.679/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/4/2024, DJe de 2/5/2024)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. INDÍCE DE CORREÇÃO MONETÁRIA. VIOLAÇÃO DA COISA JULGADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, entendeu que a Corte de origem, amparado no conjunto fático-probatório dos autos, assentou que os cálculos ficaram adstritos ao que ficou assentado no título executivo. A revisão do acórdão recorrido para verificar eventual inobservância da coisa julgada demanda o reexame das provas dos autos, o que encontra óbice na Súmula n. 7/STJ.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+4. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento.
+Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 1.921.816/DF, Relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado 18/12/2023, DJe de 20/12/2023)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO RECURSAL DA PARTE RÉ.
+1. Aclaratórios opostos por parte que não figura na autuação deste processo, não possuindo legitimidade recursal. Precedentes.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+3. Embargos de declaração não conhecidos."
+(EDcl no AgInt na PET no AREsp n. 1.922.382/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2023, DJe de 15/12/2023)
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Segundo a jurisprudência do STJ, o erro material passível de ser corrigido de ofício e retificável a qualquer tempo é aquele derivado de inexatidão perceptível à primeira vista - primo ictu oculi -, cuja correção não altera o conteúdo da decisão. Precedentes.
+3. Embargos de declaração rejeitados."
+(EDcl nos EDcl no AgInt no AREsp n. 1.817.565/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/11/2023, DJe de 30/11/2023)
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. CARÁTER PROTELATÓRIO. MULTA. APLICAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. A reiteração de argumentos, nos segundos embargos de declaração, já repelidos no acórdão anteriormente proferido, por meio de fundamentos claros e coerentes, destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do CPC de 2015.
+3. Embargos de declaração rejeitados, com aplicação de multa."
+(EDcl nos EDcl no AgInt nos EAREsp n. 1.621.423/PR, Relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 10/10/2023, DJe de 18/10/2023)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
