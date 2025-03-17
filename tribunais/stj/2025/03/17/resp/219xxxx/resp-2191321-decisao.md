@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, recurso especial interposto por JENILDE FREITAS DA SILVA SENA, com fulcro no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - REITERAÇÃO DE PEDIDO DE REALIZAÇÃO DE PENHORA ON LINE COM USO DA FERRAMENTA "TEIMOSINHA" - PRINCÍPIO DA RAZOABILIDADE - INOBSERVÂNCIA NO CASO - DECISÃO MANTIDA - RECURSO CONHECIDO E DESPROVIDO. O Superior Tribunal de Justiça vem admitindo a reiteração do pedido de constrição de ativos financeiros em nome do devedor, desde que observado o princípio da razoabilidade. No caso, observa-se que a consulta junto ao Sisbajud fora efetivada recentemente, sendo que após ser intimada para se manifestar sobre a ausência de valores a serem bloqueados, a Agravante manifestou-se nos autos e reiterou o pedido formulado anteriormente para realização de penhora on line através do sistema Sisbajud, na modalidade "Teimosinha". Logo, correta a decisão que indeferiu a súplica de reiteração de solicitação de bloqueio, até porque não há evidência segura de que tenha havido significativa modificação da situação financeira da parte devedora. Recurso conhecido e desprovido. (fl. 14).
+Nas razões recursais, o recorrente sustenta, em síntese, violação ao art. 139, IV, do CPC/2015, alegando a possibilidade de utilização da ferramenta "teimosinha" disponibilizada via SISBAJUD, esclarecendo que a medida de aperfeiçoamento da execução/cumprimento de sentença foi negada pelo Tribunal de origem, negando vigência ao art. 139, IV, do CPC.
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+Na origem, trata-se de agravo de instrumento interposto contra decisão que indeferiu o pedido de utilização da penhora online via SISBAJUD, na modalidade "Teimosinha", ocasião em que a Corte Estadual manteve decisão do magistrado de piso, sob fundamento de ausência de razoabilidade e ausência de modificação significativa da situação financeira do devedor.
+"Esta Corte Superior possui entendimento consolidado segundo o qual é possível a reiteração automática de ordens de bloqueio de bens, conhecida como "Teimosinha", mediante utilização do Sistema de Busca de Ativos do Poder Judiciário (SisbaJud), desde que a medida seja adequada à situação examinada, conforme os elementos concretos apresentados pelos litigantes. Precedentes."(AgInt no REsp n. 2.153.854/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024).
+"A orientação jurisprudencial desta Corte Superior de Justiça se firmou no sentido de que " a  modalidade "teimosinha" tenciona aumentar a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional, notadamente no âmbito das execuções, e não é revestida, por si só, de ilegalidade, devendo a aplicação de tal medida ser avaliada em cada caso concreto" (AgInt no REsp n. 2.149.714/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 2/9/2024, DJe de 5/9/2024) (AgInt no REsp n. 2.164.545/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+Com efeito, o aresto combatido, ao entender que inexiste razão para autorizar a renovação da penhora online através da ferramenta teimosinha por ausência de prova de mudança da situação financeira do recorrido, vai na contramão do postulado da efetividade das decisões judiciais.
+Neste sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA ONLINE. USO DA FERRAMENTA DENOMINADA "TEIMOSINHA". POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1. Deve ser reformado o acórdão que indefere o uso da ferramenta denominada "teimosinha" para pesquisa e bloqueio de bens do devedor, porquanto seu uso confere maior celeridade na busca de ativos financeiros e efetividade na demanda executória.
+2. Recurso especial provido.
+(REsp n. 2.121.333/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/6/2024, DJe de 14/6/2024).
+ADMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO. USO DA FERRAMENTA DENOM INADA "TEIMOSINHA". POSSIBILIDADE. RECURSO ESPECIAL PROVIDO. 1.
+Reforma-se o acórdão que indefere o uso da ferramenta denominada "teimosinha" para pesquisa e bloqueio de bens do devedor, porquanto seu uso confere maior celeridade na busca de ativos financeiros e efetividade na demanda executória.
+2. Recurso especial provido.
+(REsp n. 2.114.263/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 21/5/2024, DJe de 27/5/2024)
+Isso posto, dou provimento ao recurso especial para determinar o uso da ferramenta "Teimosinha".
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso e special origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
