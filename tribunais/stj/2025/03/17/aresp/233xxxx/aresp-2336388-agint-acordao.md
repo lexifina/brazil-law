@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. FAIXA DE DOMÍNIO FERROVIÁRIO. DIMEN SÃO DA FAIXA DE DOMÍNIO NO LOCAL DO ESBULHO. ESBULHO COMPROVADO. SÚMULA 7/STJ. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 959):
+DIREITO ADMINSITRATIVO. DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. FAIXA DE DOMÍNIO FERROVIÁRIO. DIMENSÃO DA FAIXA DE DOMÍNIO NO LOCAL DO ESBULHO. ESBULHO COMPROVADO. SÚMULA 7/STJ. SÚMULA 83/STJ. AGRAVO CONHECIDO E NÃO PROVIDO.
+A agravante sustenta que houve violação dos seguintes dispositivos legais: (a) art. 489, §1º, IV, e 1022, II, do CPC (afirma que o tribunal de origem deixou de enfrentar argumentos relevantes que poderiam mudar a conclusão adotada, caracterizando omissão e falta de fundamentação adequada ); (b) arts. 560 e 561 do CPC (defende que o acórdão recorrido não demonstrou que a agravada exerceu previamente a posse da área e que não foram atendidos os requisitos necessários para a reintegração de posse ; (c) art. 1º, § 2º, do Decreto nº 7.929/13 (a agravante sustenta que a aplicação desse dispositivo para reintegração de posse é indevida, pois a faixa de domínio de 15 metros foi estabelecida apenas em 2013 e a agravada jamais exerceu posse sobre essa área ); e (d) art. 343, § 3º do CPC.
+A parte agravante afirma, ainda, que "não pretende discutir as conclusões a que chegou o Tribunal a quo sobre os fatos e provas coligidos aos autos. O que se pretende é apenas o reconhecimento de que o v. acórdão atacado violou aqueles artigos de lei", razão pela qual considera inexistência de óbice da Súmula 7/STJ e, por fim, pretende afastar a aplicação da Súmula 83/STJ, repisando o argumento de que o tribunal de origem não enfrentou a matéria, pois "em nenhum momento se pronunciou sobre existência de posse anterior da referida área exercida pela agravada e nem tampouco sobre o suposto esbulho praticado pela aqui agravante".
+Dessa forma pugna pelo conhecimento e provimento do recurso especial interposto.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. FAIXA DE DOMÍNIO FERROVIÁRIO. DIMEN SÃO DA FAIXA DE DOMÍNIO NO LOCAL DO ESBULHO. ESBULHO COMPROVADO. SÚMULA 7/STJ. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Afasta-se a alegada ofensa aos arts. 489, §1º, IV, e 1022, II, do CPC, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido.
+A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Ademais, "não configura omissão o simples fato de o julgador não se manifestar sobre todos os argumentos levantados pela parte, uma vez que está obrigado apenas a resolver a questão que lhe foi submetida com base no seu livre convencimento (art. 131, CPC)." (EDcl nos EDcl no Resp 637.836/DF, Rel. Ministro Felix Fischer, Quinta Turma, DJ 22/5/06)" (EDcl no AgInt no AREsp 1232995 / PI, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 26/6/2018).
+A decisão ora agravada, com base no art. 253, parágrafo único, II, "b", do RISTJ, conheceu do agravo para negar provimento ao recurso especial, vez que a modificação do julgado, nos moldes pretendidos, "não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ" (fl. 962) e incidência, in casu, do princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Neste agravo interno, a agravante insiste na negativa de prestação jurisdicional, replicando os argumentos apresentados às fls. 906-917, em suas razões de agravo em recurso especial.
+Ressalta-se que, para afastar a aplicação da Súmula 7/STJ, não basta a mera afirmação de não cabimento desse óbice sumular, devendo a parte apresentar argumentos suficientes a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da demanda.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
