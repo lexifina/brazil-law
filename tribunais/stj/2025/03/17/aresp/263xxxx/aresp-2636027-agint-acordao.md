@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. ALEGAÇÃO DE OFENSA A RESOLUÇÕES DO BANCO CENTRAL. ATOS NORMATIVOS INFRALEGAIS. RECURSO INCABÍVEL. ART. 105, III, "A", DA CONSTITUIÇÃO. RESPONSABILIDADE SOLIDÁRIA. FORNECEDOR QUE PARTICIPOU DA CADEIA DE CONSUMO. AGRAVO INTERNO IMPROVIDO.
+1. "Incabível a indicação de ofensa a dispositivo inserto em portaria ou resolução, porquanto tais regramentos não se caracterizam como "lei federal", a teor do disposto do art. 105, III, da Constituição Federal" (AgInt no REsp 2.051.285/PB, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+2. De acordo com o entendimento do STJ, " t odos os integrantes da cadeia de consumo respondem, de forma solidária, pelos danos causados ao consumidor" (AgInt no AREsp 2.602.061/GO, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+3. Agravo interno improvido.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (RELATOR):
+Trata-se de agravo interno interposto por INVEST CORRETORA DE CÂMBIO LTDA em face de decisão desta relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+A agravante diz que não pode ser responsabilizada pelos danos causados ao consumidor, porque não integrou a cadeia de fornecedores que operaram o contrato de câmbio com entrega futura, ajustado exclusivamente com a J&B Viagens e Turismo Ltda. Aponta, nesse sentido, que "a operação de câmbio com entrega futura de moeda estrangeira foi realizada pela IEX em seu próprio nome, sem a notificação da corretora ou do BACEN, extrapolando os poderes do mandato outorgado pela agravante".
+Reitera que o contrato de câmbio com entrega futura é nulo, porque: (i) as corretoras de câmbio não podem operar contratos de entrega futura de moeda estrangeira; (ii) a operação não foi registrada no Sistema de Informações do Banco Central (Sisbacen), conforme artigo 9º da Resolução 3.568/2008; (iii) não houve a emissão, pela corretora, do comprovante detalhado da operação, com a identificação das partes, taxa de câmbio, valores e o Valor Efetivo Total (VET); e (iv) a operação ultrapassou o limite de valor previsto pelo BACEN.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado competente (fls. 1.156/1.159).
+Impugnação às fls. 1.163/1.175.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. ALEGAÇÃO DE OFENSA A RESOLUÇÕES DO BANCO CENTRAL. ATOS NORMATIVOS INFRALEGAIS. RECURSO INCABÍVEL. ART. 105, III, "A", DA CONSTITUIÇÃO. RESPONSABILIDADE SOLIDÁRIA. FORNECEDOR QUE PARTICIPOU DA CADEIA DE CONSUMO. AGRAVO INTERNO IMPROVIDO.
+1. "Incabível a indicação de ofensa a dispositivo inserto em portaria ou resolução, porquanto tais regramentos não se caracterizam como "lei federal", a teor do disposto do art. 105, III, da Constituição Federal" (AgInt no REsp 2.051.285/PB, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+2. De acordo com o entendimento do STJ, " t odos os integrantes da cadeia de consumo respondem, de forma solidária, pelos danos causados ao consumidor" (AgInt no AREsp 2.602.061/GO, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+3. Agravo interno improvido.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A decisão agravada não merece reparos.
+O eg. TJDFT rejeitou a alegação de nulidade do contrato de câmbio, anotando que era dever das contratadas informar ao consumidor a respeito de limitações regulatórias aplicáveis à espécie - dever não observado, no caso. Cita-se do aresto:
+"Importa notar, no caso concreto, que a apelada atuou na cadeia de prestação de serviços fornecidos aos apelantes, incumbindo-lhe, portanto, o dever de informação adequada quanto aos limites impostos pelo Banco Central do Brasil ao serviço oferecido.
+O Princípio da Informação, insculpido no inciso III do artigo 6º do Código de Defesa do Consumidor, outorga aos prestadores de serviço o dever de prestar ao consumidor de forma transparente, clara, correta e precisa todas as informações pertinentes aos serviços contratados ou produto comercializado.
+Entretanto, além de descumprir o seu dever de informação, a apelada ofertou a comercialização da moeda estrangeira com promessa de entrega futura. Diversas outras ações hoje em curso revelam que no período de vigência do Contrato de Convênio de Correspondente Cambial a mesma prática continuou ocorrendo, mesmo sob supervisão direta da apelada União Alternativa.
+A apelada União Alternativa não se exime do vínculo contratual ora em análise, pois as rés IEX e J&B não podem atuar no mercado cambial em nome próprio, operando, portanto, como suas correspondentes.
+Em face da responsabilidade objetiva de todos os fornecedores (artigo 14 do Código de Defesa do Consumidor), não pode a agravada alegar vício no negócio jurídico, sem qualquer indício de má-fé por parte dos consumidores contratantes. Tampouco pode sustentar culpa exclusiva dos consumidores, sem qualquer comprovação de má-fé." (fl. 924)
+A Corte também rejeitou a alegação de excesso de poderes da correspondente cambiária, indicando que cabia à ora recorrente a fiscalização das atividades empreendidas por IEX Agência de Viagens e Turismo LTDA. Veja-se:
+"A toda evidência, não é possível afastar eventual responsabilidade da instituição financeira, a qual tem a obrigação de checar a idoneidade da contratada, inclusive mediante adoção de medidas preventivas. A propósito, colha-se redação do artigo 4º da Resolução BACEN nº 3.954, de 24.02.2011, in verbis:
+(..) Como decorrência da mencionada Resolução, bem como em decorrência da cláusula 7 do Contrato de Convênio de Correspondente Cambiário (ID 45770672), é certo que a apelada União Alternativa possuía amplos poderes fiscalizatórios sobre as atividades da sociedade empresária IEX Agência de Viagens e Turismo LTDA, de modo que obteve ou poderia ter obtido acesso a todos os compromissos assumidos anteriormente pela correspondente e que seriam adimplidos no curso do convênio.
+Oportuno observar que, por decorrência da teoria do risco-proveito do negócio jurídico, adotado pelo Código de Defesa do Consumidor, a responsabilidade de todos os integrantes da cadeia de fornecimento é objetiva e solidária, nos termos dos artigos 7º, parágrafo único, 20 e 25, do mesmo Código." (fl. 920)
+O acórdão foi corretamente mantido.
+Não se pode conhecer da alegação de nulidade do negócio jurídico, porque a reforma do acórdão recorrido, nesse capítulo, demandaria nova interpretação de resoluções do Banco Central do Brasil, atos normativos que não estão abrangidos pela locução "lei federal", prevista no art. 105, III, "a", da Constituição Federal.
+Cita-se precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRECATÓRIO. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. RESOLUÇÃO DO CNJ. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. PROVIMENTO NEGADO.
+1. Verifica-se que inexiste a alegada violação do art. 489 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia.
+Ressalta-se que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+2. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça (STJ).
+3. Consoante orientação do Superior Tribunal de Justiça, "a interpretação das pretensões levadas a juízo demanda análise lógico-sistêmica das manifestações das partes. A identificação pelo julgador de pedidos, ainda que implícitos, nas petições não enseja violação ao princípio da adstrição ou congruência" (AREsp 1.945.714/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/5/2022, DJe de 20/6/2022).
+4. "Incabível a indicação de ofensa a dispositivo inserto em portaria ou resolução, porquanto tais regramentos não se caracterizam como "lei federal", a teor do disposto do art. 105, III, da Constituição Federal" (AgInt no REsp 2.051.285/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.896.528/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+Por fim, deve-se manter a solidariedade passiva da empresa ora recorrente. Como, ao tempo do contrato de câmbio objeto dos autos, vigia ajuste de correspondente bancário, entre agência de turismo e corretora de câmbio, devem ambas serem responsabilizadas pelos danos causados ao consumidor, pois atuaram, em conjunto, na cadeia de fornecimento. Nesse sentido: " t odos os integrantes da cadeia de consumo respondem, de forma solidária, pelos danos causados ao consumidor" (AgInt no AREsp 2.602.061/GO, R elator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
