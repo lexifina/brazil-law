@@ -1,0 +1,13 @@
+DECISÃO
+CARLOS ALBERTO DE AMORIM JUNIOR, preso preventivamente desde 11/4/2024, por suspeita de duplo homicídio qualificado, alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de origem, que indeferiu os pedidos de revogação ou substituição de sua prisão preventiva, os quais reitera a esta Corte, por considerar que a medida não tem fundamentação idônea e não estão caracterizados seus requisitos ensejadores, máxime quando a atuação policial foi legítima e todas as testemunhas declararam que não foram ameaçadas nem se sentiram intimidadas.
+Para a parte, a afirmação de que é pessoa é "fria e violenta" revela uma incoerência, considerando que ser policial militar lotado no BOPE, cujos processos seletivos são extremamente rigorosos, demonstra habilidades e características muito além de tais adjetivos. Ademais, as provas técnicas são favoráveis à tese da defesa, de atuação policial legítima.
+O recorrente afirma que não há necessidade da medida de coação após as testemunhas afirmarem que não foram constrangidas" (fl. 134) e que o acórdão errou ao sustentar que os acusados respondem e outros processos.
+Requer, por isso, a concessão de alvará de soltura.
+Decido.
+O recurso ordinário não foi instruído com a cópia do decreto de prisão preventiva, nem com a decisão que manteve a medida cautelar após a inquirição das testemunhas. Não é possível, ainda, verificar o atual andamento do feito, à falta do andamento processual.
+Nesse contexto, não há elementos suficientes para o julgamento da controvérsia. A parte deve apresentar o recurso acompanhado de todas as peças necessárias para o seu adequado exame. No presente caso, a instrução deficiente impede que esta Corte realize a avaliação correta do caso. Faltam documentos essenciais para a decisão do pedido.
+Deveras, é "ônus do impetrante instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+É importante ressaltar, ainda, que esta Corte, em outras impetrações, reconheceu a legalidade da prisão preventiva decretada em primeiro grau, haja vista a periculosidade concreta dos acusados, caracterizada pelo modo de execução supostamente empregado, bem como pela condição de servidores públicos da área de segurança (policiais militares), que deveriam resguardar a ordem pública e, não, a agredir.
+À vista do exposto, não conheço do recuso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
