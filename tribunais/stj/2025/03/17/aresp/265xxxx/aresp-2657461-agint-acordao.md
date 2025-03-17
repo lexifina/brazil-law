@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Constatada a existência de omissões no aresto recorrido, não sanadas mesmo após a interposição de embargos de declaração, reconhece-se a existência de violação ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ÂNGELO CALMON DE SÁ, em face da decisão de fls. 1623-1626, e-STJ, da lavra deste signatário, que deu provimento ao recurso especial manejado pela ora agravada.
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 919-932, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRINCÍPIO DA EFETIVIDADE DA EXECUÇÃO. GARANTIA DO DIREITO FUNDAMENTAL À TUTELA EXECUTIVA. MAGISTRADO DEVE GARANTIR MEIOS EXECUTIVOS PARA O CUMPRIMENTO DA OBRIGAÇÃO PELA QUAL O DEVEDOR SE OBRIGOU. TEMA JULGADO EM RECURSO ESPECIAL REPETITIVO. EXECUÇÃO ORIGINÁRIA DELONGA DURAÇÃO. AUSÊNCIA DE GARANTIA DO JUÍZO AO MENOS NO VALOR INCONTROVERSO DECLARADO EM DECISÃO JUDICIAL.
+EFEITO SUSPENSIVO DE RECURSO ESPECIAL NÃO IMPEDE A ADOÇÃO DE MEDIDAS URGENTES PARA EVITAR DANO IRREPARÁVEL. DISPOSIÇÃO CONTIDA NO ART. 314 DO CPC/2015. AGRAVO DE INSTRUMENTO CONHECIDO. NEGADO PROVIMENTO.
+Opostos embargos de declaração (fls. 1439-1454, e-STJ), esses foram rejeitados (fls. 1478-1494, e-STJ).
+Nas razões do recurso especial (fls. 1168-1185, e-STJ), a recorrente aponta violação aos artigos:
+(i) 1022 e 489 do CPC/2015, na medida em que o acórdão recorrido seria omisso em relação às seguintes questões: a) existência de integral garantia da execução, haja vista as penhoras já deferidas; b) inexistência de valor considerado incontroverso nos autos; c) os dividendos penhorados são essenciais à subsistência dos executados, os quais atualmente se encontram aposentados; d) desnecessidade de ampliação da penhora;
+(ii) 874, II, e 851, CPC/15, pois a execução se encontra plenamente garantida. Destaca que tal medida não foi precedida de avaliação dos valores constritos;
+(ii) 805 e 833, IV, do CPC/2015, sob o fundamento de que a medida é excessivamente gravosa, tendo em vista que os dividendos penhorados são essenciais à subsistência dos executados;
+Contrarrazões às fls. 1499-1521, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que deu ensejo a agravo.
+Às fls. 1623-1626, e-STJ, deu-se provimento ao reclamo, ante a existência de negativa de prestação jurisdicional.
+Irresignado, o sucumbente maneja o presente agravo interno (fls. 1630-1634, e-STJ), no qual sustenta, em suma, a ausência de violação aos artigos 489 e 1022 do CPC/2015.
+Impugnação às fls. 1642-1650, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Constatada a existência de omissões no aresto recorrido, não sanadas mesmo após a interposição de embargos de declaração, reconhece-se a existência de violação ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. Distintamente do que aduz o ora agravante, verifica-se que o Tribunal local não enfrentou satisfatoriamente questões relevantes ao julgamento da lide.
+Como disposto na decisão agravada, a leitura do referido aresto revela que a Corte de origem concluiu ser necessária a ampliação da penhora até então existente, sob o fundamento de que não garantiria sequer o valor considerado incontroverso na presente execução. Destacou que tal medida atenderia à proporcionalidade, bem como à efetividade e menor onerosidade da execução. Veja-se (fl. 942, e-STJ):
+Desse modo, conjugando-se os princípios da menor onerosidade, efetividade da execução e do resultado, conclui-se que o Magistrado deve atender à proporcionalidade nas decisões, de modo a garantir a execução.
+No caso concreto, a execução vem se arrastando por longos anos, uma vez que o processou executório iniciou no ano de 2007, havendo diversos pedidos frustrados de ampliação da penhora, formulados pelo Exequente, sem que a sua pretensão tenha sido garantida minimamente no valor incontroverso, que soma o montante de R$21.063.256,33 (vinte e um milhões, sessenta e três mil, duzentos e cinquenta e seis reais e trinta e três centavos), conforme declarado na decisão de ID 237796558.
+Assim, considerando que o feito se prolonga por anos a fio e não se encontra garantido sequer na parcela incontroversa, com probabilidade de esvaziamento patrimonial e consequente perda do objeto da execução, viável o pedido pretendido pelo Exequente.
+Registre-se que tal medida é dotada de proporcionalidade, uma vez que conjuga os princípios da efetividade da execução, ao satisfazer o credor na garantia da parcela incontroversa, bem como da menor onerosidade da execução, uma vez que a penhora será efetivada até o limite da parcela incontroversa, o que não causa prejuízos às partes, tendo em vista que o bloqueio do numerário tem natureza acautelatória, ficando à disposição do Juízo.
+Deveras, encontra-se pendente de julgamento Agravo Interno no Recurso Especial n.º 1827083/BA, interposto contra decisão proferida no Agravo de Instrumento n.º 0025453-89.2017.8.05.0000, porém, embora tenha sido recebido com efeito suspensivo, isso não impede que o Magistrado determine a realização de atos urgentes a fim de evitar dano irreparável, conforme dispõe o art. 314 do CPC/2015.
+(..)
+Depreende-se, assim, que a decisão que deferiu a antecipação da tutela recursal pretendida pelo Recorrente não afronta a autoridade das decisões do STJ.
+Demais disto, depreende-se dos documentos colacionados aos autos que as ações daCompanhia de Participações Aliança da Bahia foram transferidas no ano de 2012 e, portanto, no curso da presente execução, pelos executados a pessoa jurídica HGT Construção Reforma eManutenção de Imóveis Ltda, cujos únicos sócios são os próprios executados, de acordo com o contrato social e certidão da JUCEB (ID 11859324).
+Registre-se que a pretensão de extensão da penhora às ações da Companhia deParticipações Aliança da Bahia vem sendo perseguida há muito tempo pelo exequente, antes mesmo da venda a pessoa jurídica HGT Ltda, contudo sem a apreciação pelo juízo (doc. ID11859470; 11859473.
+Aliado a tal circunstância, a insolvência dos Agravados também resta demonstrada nos autos, através das diversas petições e documentos produzidos pelos próprios executados, ora agravados, que comprovam as suas dificuldades financeiras e débitos, chegando a tomarem préstimos em bancos para prover a sua subsistência.
+Contra tal acórdão foram opostos aclaratórios, nos quais os ora recorrentes suscitaram omissões relativas aos seguintes temas: a) existência de penhora suficiente à garantia da execução, na medida em que, segundo parecer contábil acostado aos autos, a constrição atual estaria avaliada em valor superior a R$ 63 milhões de reais. Ressalta, ademais, que o juízo de primeiro grau reputou suficiente tal garantia ao conferir efeito suspensivo aos embargos à execução. Aponta, ainda, que as ações hoje penhoradas eram previstas como garantia no próprio contrato executado, a denotar sua suficiência para o caucionamento da dívida; b) inexistência de valor incontroverso, já que toda a dívida é atualmente questionada em juízo; c) oferecimento, à época da alienação das ações, de bem imóvel avaliado em R$ 5.000.000,00 em substituição à penhora, o que afastaria a existência de fraude à execução; d) não realização de avaliação prévia do acervo penhorado, a denotar o excesso de penhora; e) impenhorabilidade dos valores, uma vez que os dividendos são essenciais à subsistência dos devedores, atualmente aposentados; f) não ocorrência de fraude à execução, diante da garantia do juízo e da ausência de má-fé; g) subsistênica de decisão extra petita, diante da inexistência de pedido de penhora de ações, mas apenas de retenção de valores a serem pagos aos Embargantes e à empresa H.G.T. CONSTRUÇÃO, REFORMA E MANUTENÇÃO DE IMÓVEIS LTDA.
+Não obstante, no aresto de fls. 1478-1494, e-STJ, a Corte local limitou-se a assentar a inexistência de omissões no julgado embargado.
+Nota-se, portanto, que o Tribunal local não apreciou, com a adequada profundidade, as alegações vertidas pelos ora agravados, que denotariam a suficiência da penhora, em especial o parecer contábil que revelaria a existência, atual, de constrição no valor de R$ 63.000.000,00 - montante superior ao apontado como incontroverso.
+De igual modo, não se abordou a tese de inexistência de valor considerado incontroverso, tampouco se enfrentou a alegada natureza essencial à subsistência dos devedore s de parte dos valores constritos, bem como a alegada ocorrência de decisão extra petita. Ademais, não houve enfrentamento adequado das circunstâncias de fato suscitadas pela parte para afastar a alegada má-fé no negócio jurídico realizado em suposta fraude à execução.
+Nesse diapasão, distintamente do que defende o ora agravante, constata-se a ocorrência de negativa de prestação jurisdicional, na medida em que subsistem omissões acerca de questões relevantes ao julgamento da lide, não sanadas mesmo após o manejo de embargos de declaração. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR DE RESCISÃO CONTRATUAL. ART. 535 DO CPC/1973. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal local, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do Código de Processo Civil de 1973, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt no AREsp 889.277/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO DE ADIMPLEMENTO CONTRATUAL. MODALIDADE. PCT. OMISSÃO DO ACÓRDÃO RECORRIDO. OCORRÊNCIA. AGRAVO INTERNO PROVIDO.
+1. Há violação do art. 535 do CPC/73 quando, apesar do requerimento da parte, a Corte de origem se recusa a se manifestar sobre as questões federais que lhe foram apresentadas por ocasião dos embargos de declaração, relevantes ao deslinde da controvérsia.
+2. Agravo interno provido para dar parcial provimento ao recurso especial, com determinação do retorno dos autos ao Tribunal de origem para que sane as omissões verificadas.
+(AgInt no AREsp 843.220/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/06/2018, DJe 19/06/2018)
+Logo, de rigor a manutenção da decisão agravada, por seus próprios fundamentos.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
