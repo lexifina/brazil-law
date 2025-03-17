@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL . DIVERGÊNCIA JURISPRUDENCIAL. PREJUÍZO.
+1. Havendo fundamentos suficientes para a manutenção do aresto recorrido, não impugnados nas razões do especial, incide, à espécie, por analogia, a Súmula 283 do STF, a qual dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Não se conhece do recurso especial, quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF.
+3. A análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AUTO POSTO BIRITIBA USSU LTDA. contra decisão da Presidência do STJ, proferida às e-STJ fls. 611/616, que conheceu do agravo para não conhecer do recurso especial, por incidência, por analogia, dos óbices das Súmulas 283 e 284 do STF e ausência de identidade jurídica entre os acórdãos confrontados.
+A parte agravante sustenta que demonstrou que "os julgados colacionados na decisão do Nobre Desembargador Relator não guardam relação direta com o discutido na presente demanda, sendo certo que impugnou todos os argumentos da decisão recorrida, não havendo que se falar em violação ao princípio da dialeticidade e a Súmula 283 do STF" (e-STJ fl. 628).
+Argumenta que "a declinação dos motivos pelo qual se reputou malferido os dispositivos normativos lá elencados, por si só demonstra a interposição do recurso para sanar violação à Lei Federal, bem como a correlação dos dispositivos com a controvérsia recursal" (e-STJ fl. 629). Defende ser inaplicável o óbice da Súmula 284 do STF. Alega ter havido ofensa aos arts. 1º, § 1º, da Leis ns. 10.637/2002 e 10.833/2003 e 12 do Decreto-lei n. 1.598/1977 e 110 do CTN.
+Sem impugnação (certidão de e-STJ fl. 647).
+O Ministério Público Federal opina pelo não provimento do agravo interno (e-STJ fls. 661/664).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL . DIVERGÊNCIA JURISPRUDENCIAL. PREJUÍZO.
+1. Havendo fundamentos suficientes para a manutenção do aresto recorrido, não impugnados nas razões do especial, incide, à espécie, por analogia, a Súmula 283 do STF, a qual dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Não se conhece do recurso especial, quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF.
+3. A análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+4. Agravo interno desprovido.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, a decisão agravada merece ser mantida.
+O Tribunal Regional Federal da 3ª Região manteve a sentença que denegou a ordem em mandado de segurança, no qual busca a ora agravante ver reconhecido o direito de exclusão dos valores de ICMS-ST das bases de cálculo da Contribuição para o PIS e da COFINS, além do reconhecimento do direito à compensação ou restituição dos valores arcados nos 05 (cinco) anos anteriores à impetração do mandamus.
+Eis a ementa do acórdão (e-STJ fls. 429/430):
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS-ST. PIS. COFINS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA - ARTIGO 4º DA LEI N. 9.718/98. SUPRESSÃO DO REGIME. MP N. 1.991-15/00, LEI N. 9.990/00. COMÉRCIO VAREJISTA DE COMBUSTÍVEL. ILEGITIMIDADE ATIVA DA IMPETRANTE. APELAÇÃO NÃO PROVIDA.
+1. Afastada a alegação da impetrante de nulidade da sentença, uma vez que a decisão proferida em primeira instância foi devidamente fundamentada, se atendo aos principais argumentos lançados pela ora recorrente em sua exordial. O magistrado não fica obrigado a analisar todas as normas jurídicas apontadas pelas partes quando já encontrou fundamento suficiente para suas razões de decidir, em obediência ao princípio do livre convencimento motivado.
+2. Observo, ainda, que o tema 1125, apontada pela impetrante, não aborda especificamente a situação do comércio varejista de combustíveis. Ainda que assim não fosse, a afetação da matéria no bojo dos REsps nº 1.896.678/RS e nº 1.958.265/SP (tema 1125) não justifica a suspensão das demandas que tratam da controvérsia nesta fase processual, porquanto inexiste determinação do STJ nesse sentido. Anote-se, de outro lado, que inexiste tese firmada ou entendimento consolidado no âmbito do referido tema, de forma a alterar a jurisprudência sedimentada desta Turma.
+3. A impetrante atua no mercado varejista de combustíveis para veículos automotores. Nesse contexto, a antiga redação do art. 4º da Lei nº 9.718/98 atribuía às refinarias a responsabilidade de recolher as contribuições ao PIS/COFINS, devidas pelas distribuidoras e varejistas de combustíveis, por meio da sistemática da substituição tributária. Desse modo, o valor recolhido de forma antecipada pelas refinarias era embutido no preço do produto e, vendido ao distribuidor, este o repassava quando da venda ao varejista que, por sua vez, repassava-o ao consumidor final.
+4. Contudo, com a nova redação dada à Lei nº 9.718/98 pelas Leis nº 9.990, de 21 de julho de 2000, e nº 10.865, de 30 de abril de 2004, bem como pela MP nº 2.158-35, de 24 de agosto de 2001, a sistemática de recolhimento das contribuições ao PIS/COFINS em relação aos combustíveis derivados de petróleo foi alterada, devendo o recolhimento do tributo ocorrer de forma monofásica, incidindo sobre a receita bruta auferida pelas refinarias de petróleo, restando desonerados do pagamento das citadas exações os distribuidores e comerciantes varejistas, cujas receitas decorrentes de suas vendas foram submetidas à incidência de alíquota zero.
+5. Assim, tendo em vista in casu que as referidas contribuições incidirão apenas sobre a receita auferida pela refinaria, somente essa tem legitimidade para pleitear a restituição ou compensação de tais exações por ela devidas, inclusive do ICMS. Portanto, não havendo mais o regime de substituição tributária progressiva a partir da Lei nº 9.990/00, não há que se falar em legitimidade ativa dos distribuidores e varejistas de combustíveis.
+6. Outrossim, o fato de suportar os ônus financeiros decorrentes da incidência da aludida contribuição, embutida no preço do combustível comercializado, não confere legitimidade ativa à ora apelante, posto que essa depende de previsão legal, não se aplicando ao caso dos autos porquanto o regime em discussão não contempla qualquer espécie de substituição tributária, nem efetiva nem disfarçada.
+7. Desse modo, carece a impetrante de legitimidade ativa para seu pleito, sendo de rigor o reconhecimento de ofício da ilegitimidade . Impõe-se, assim, aad causam reforma parcial da sentença, mantendo-se, entretanto, a denegação da ordem, porém por fundamento diverso.
+8. Apelação não provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 477/491).
+O Tribunal de origem assentou, em essência, que a ora agravante, que atua no ramo de varejista de combustíveis, é desprovida de legitimidade ativa para pleitear a exclusão do ICMS-ST da base de cálculo da Contribuição para o PIS e da COFINS, pois submetida ao regime monofásico de tributação.
+A recorrente não impugnou esse fundamento basilar que ampara o acórdão recorrido.
+Assim, o recurso especial esbarra no obstáculo da Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: EDcl no AgInt no AREsp n. 2.149.968/MS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024; e AgInt no REsp n. 2.139.348/ES, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/9/2024, DJe de 3/10/2024.
+Constata-se claramente que a parte recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, limitando-se a alegar ofensa a dispositivos cujos conteúdos normativos apresentam-se incapazes de conferir suporte à tese veiculada nas razões de recurso especial e determinar a reforma do acórdão recorrido, circunstância que atrai a aplicação, por analogia, da Súmula 284 do STF.
+De fato, os artigos de lei federal apontados como violados - arts. 1º, § 1º, da Leis n. 10.637/2002 e 10.833/2003 e 12 do Decreto-Lei n. 1.598/1977 e 110 do CTN - são desprovidos de conteúdo normativo capaz de amparar a tese deduzida nas razões recursais, de modo que o recurso especial não reúne condições de ser conhecido, no ponto, por incidência do óbice da Súmula 284/STF, aplicável por analogia.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSO CIVIL. VIOLAÇÃO A PRINCÍPIO CONSTITUCIONAL. APRECIAÇÃO EM APELO ESPECIAL. DESCABIMENTO. ARTS. 269 e 272 DO CPC. AUSÊNCIA DE COMANDO NORMATIVO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. INTIMAÇÃO. SÚMULA 7/STJ. REAVALIAÇÃO DO CONTEÚDO DE PROVAS. ART. 5º DA LEI 8.009/90. AUSÊNCIA DE COMANDO NORMATIVO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. ÔNUS PROBATÓRIO. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. MESMO MOTIVO. COMPROVAÇÃO. MERA TRANSCRIÇÃO DE EMENTAS. INSUFICIÊNCIA.
+ ..
+2. Os arts. 269 e 272 do CPC não contêm comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido de que ocorreu a ciência do ato processual (decisão de indisponibilidade dos seus bens), de maneira que se impõe ao caso concreto a incidência do óbice sumular 284/STF, por deficiência de fundamentação do recurso.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.994.808/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RECLAMAÇÃO. INDEFERIMENTO DA PETIÇÃO INICIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. ACÓRDÃO ANTERIOR À RECLAMAÇÃO. ART. 988 DO CPC. NÃO CABIMENTO. DEFICIÊNCIA RECURSAL. APLICAÇÃO DA SÚMULA N. 284/STF.
+ ..
+VII - Incide o óbice da Súmula n. 284/STF, quando o artigo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido: (AgInt no REsp n. 1.685.486/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 21/2/2019.)
+VIII - Agravo interno desprovido.
+(AgInt no REsp n. 2.155.428/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+Esta Corte Superior entende que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada não é conhecida relativamente ao exame do recurso especial pela alínea "a" do permissivo constitucional.
+Nesse sentido, refiro-me aos seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIÇOS DE SUPORTE TÉCNICO E PROCESSAMENTO DE DADOS. ISS. ANÁLISE DE CONTRATOS NA PRESTAÇÃO DE SERVIÇOS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. PROCEDIMENTO ADMINISTRATIVO FISCAL. LEI COMPLEMENTAR MUNICIPAL 14.107/2005. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+ ..
+3. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.139.382/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONFIGURAÇÃO DE ATO ILÍCITO E VALOR DA INDENIZAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO DESPROVIDO.
+ ..
+3. Em relação ao dissenso pretoriano, cabe ressaltar que, segundo entendimento desta Corte Superior, a existência de óbice processual impendido conhecimento de questão suscitada pela alínea a, da previsão constitucional, prejudica a análise da divergência jurisprudencial acerca do tema.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.232.818/SC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/12/2024, DJe de 23/12/2024.)
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
