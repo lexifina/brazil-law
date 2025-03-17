@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial interposto por EDGARD BARON e OUTROS contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 88):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA . HONORÁRIOS SUCUMBENCIAIS E UHD. CUMULAÇÃO CONTRA A FAZENDA PÚBLICA. IMPOSSIBILIDADE. HONORÁRIOS DATIVOS. FIXAÇÃO COM BASE NA PORTARIA Nº 293/2003 DA PGE. I. Não é cabível a cumulação de honorários sucumbenciais com honorários dativos em favor do curador especial nomeado pelo juízo para patrocinar causa contra réu revel, os quais serão fixados com base em Unidades de Honorários Dativo - UHD, com fulcro na tabela inserta na Portaria nº 293/03 da Procuradoria-Geral do Estado. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos às fls. 100-114 foram rejeitados (fls. 120-128).
+Nas razões recursais, os recorrentes sustentam, em síntese, violação ao art. 85, §§ 3º, 4º e 5º, do CPC. Segundo argumentam, em síntese, os honorários sucumbenciais devem ser calculados sobre o proveito econômico, conforme estabelecido pelo art. 85 do CPC.
+Não foram apresentadas contrarrazões ao recurso (fl. 153).
+É o relatório.
+Passo a decidir.
+O recurso não reúne condições de admissibilidade.
+No que tange à matéria versada nos autos, o Tribunal de origem assim se manifestou (fls. 90-91):
+O art. 8º da Lei Estadual nº 9.785/1985, que regulamenta a prestação dos serviços de assistência judiciária e de defensoria dativa no Estado de Goiás, estabelece:
+ ..
+No mesmo sentido, o art. 3º, d, da Portaria n.º 293/2003, editada pela Procuradoria-Geral do Estado de Goiás. Outrossim, a jurisprudência do Superior Tribunal de Justiça orienta que "são devidos honorários de advogado ao curador especial, devendo ser custeado pelo Estado, haja vista que o advogado dativo não pode ser compelido a trabalhar gratuitamente em face da carência ou ausência de Defensoria Pública na região". (AgRg no REsp 1.451.034/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, D Je de 19/8/2014) Esse o quadro, são devidos honorários em ações dessa natureza, contudo, a despeito da irresignação recursal, quando a parte for representada por curador especial, a verba honorária será calculada com base em Unidades de Honorários Dativo - UHD.
+Assim, nomeado pelo juízo curador especial para patrocinar causa contra réu revel citado por edital (mov. 35), o subscritor da peça recursal faz jus ao recebimento dos respectivos honorários, os quais devem ser pagos pelos cofres públicos e fixados com base em Unidades de Honorários Dativo - UHD, com fulcro na tabela inserta na Portaria n.º 293/2003, Procuradoria-Geral do Estado de Goiás.
+ ..
+Assim, nos termos da tabela prevista na Portaria n.º 293/2003, da PGE, correto o arbitramento da verba em 3 UHD "S, conforme decidido na decisão agravada, não merecendo reforma o ato.
+Verifica-se, portanto, que a Corte de origem decidiu a controvérsia dos autos com base, essencialmente, nos termos da legislação estadual (art. 8º da Lei Estadual 9.785/85 e Portaria 293/03 da PGE/GO). Desse modo, considerando que a fundamentação utilizada pela origem não diz respeito à legislação federal, torna-se inviável o conhecimento do recurso especial. Incide, assim, por analogia, o óbice da Súmula 280 do STF, a qual preceitua que "por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL, INTERPOSTO CONTRA DECISÃO SINGULAR PROFERIDA POR MINISTRO DO STJ. POSSIBILIDADE DE IMPUGNAÇÃO PARCIAL DE CAPÍTULOS AUTÔNOMOS. ART. 1.002 DO CPC/2015. PRECEDENTES DA CORTE ESPECIAL DO STJ. ERESP 1.424.404/SP E ERESP 1.738.541/RJ. ITCMD. CRITÉRIOS PARA APURAÇÃO DA BASE DE CÁLCULO. NECESSIDADE DE EXAME DE NORMA INFRALEGAL, INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. ALEGADA VIOLAÇÃO AO ART. 148 DO CTN. AUSÊNCIA DE COMANDO NORMATIVO CAPAZ DE INFIRMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação de norma local (Lei estadual 8.821/89 e Decreto estadual 33.156/89). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgInt no AREsp 1.945.904/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/03/2022; AgInt no AREsp 1.931.165/TO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/03/2022; AgInt no AREsp 1.742.714/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2021; REsp 1.635.382/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016.
+ ..
+VI. Agravo interno improvido (AgInt nos EDcl no AREsp n. 1.882.044/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/3/2023, DJe de 21/3/2023).
+Confiram-se, ainda, as seguintes decisões monocráticas em casos semelhantes: REsp n. 2.184.960, Ministro Sérgio Kukina, DJEN de DJEN 14/02/2025; REsp n. 2.165.904, Ministro Benedito Gonçalves, DJEN de DJe 05/11/2024; REsp n. 2.163.931, Ministro Teodoro Silva Santos, DJEN de DJe 03/09/2024; REsp n. 2.145.962, Ministro Herman Benjamin, DJEN de DJe 24/06/2024.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
