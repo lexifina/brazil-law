@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÕES DE COBRANÇA RECIPROCAMENTE AJUIZADAS PELAS PARTES DE CONTRATO DE REPRESENTAÇÃO COMERCIAL. CONEXÃO EXISTENTE. RISCO DE DECISÕES CONFLITANTES NÃO VERIFICADO. DESNECESSÁRIA A REUNIÃO DOS FEITOS. COMPENSAÇÃO DE CRÉDITOS INVIABILIZADA. AUSÊNCIA DE CRÉDITOS LÍQUIDOS CERTOS E EXIGÍVEIS. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal estadual afirmou que as ações de cobrança reciprocamente ajuizadas pelas partes do contrato de representação comercial não precisavam ser reunidas porque, malgrado a conexão, não havia risco de decisões conflitantes.
+2. Constitui uma faculdade do julgador analisar a necessidade de reunir processos conexos para julgamento conjunto em razão da conexão, tendo em vista a conveniência dessa medida em cada hipótese. Precedentes.
+3. Impossível, assim, afirmar que os feitos deveriam ser necessariamente reunidos sem revolver fatos e provas, o que veda a Súmula n. 7 do STJ.
+4. Na linha dos precedentes do STJ e consoante se extrai dos arts. 368 e 369 do C C, a compensação somente é possível quando se tratar de créditos certos, líquidos e exigíveis.
+5. Tendo o acórdão estadual recorrido afirmado que os créditos em análise não reuniam essas qualidades não é possível afirmar o contrário, a fim de autorizar a compensação, sem esbarrar na Súmula n. 7 do STJ.
+6. Agravo interno não provido.
+RELATÓRIO
+SERENA SOFTWARE INC. (SERENA) promoveu ação de cobrança contra SCI TECNOLOGIA DA INFORMAÇÃO S.A. (SCI) com base em relação jurídica comercial que durou de 1º/1/1999 a 31/1/2009. Alegou que, durante esse período, firmaram diversos contratos por meio dos quais desenvolveu programas de computação para que a SCI os revendesse a seus clientes. Afirmou que, em virtude da aquisição desses softwares, lhe seria devido o pagamento de um valor remanescente equivalente a U$ 701.205,64 (e-STJ, fl. 2/8).
+Em contestação, a SCI afirmou, preliminarmente, que haveria conexão entre a presente demanda e uma outra, ajuizada por ela contra SERENA para cobrar indenizações decorrentes do rompimento imotivado do contrato de representação contratual havido entre as partes. No mérito, pediu a compensação do valor reclamado com o valor que lhe seria devido em razão desse mencionado rompimento imotivado.
+O juiz de primeiro grau entendeu que não seria preciso reunir os feitos e julgou procedente o pedido deduzido no presente processo para condenar a SCI ao pagamento do valor reclamado, convertido em moeda nacional pelo índice oficial do BACEN a partir do vencimento da dívida, acrescido de correção monetária e juros (e-STJ, fls. 1.852/1.857 e 1.863).
+O Tribunal de Justiça de São Paulo deu parcial provimento ao recurso de apelação interposto por SCI, apenas para assinalar que a conversão da moeda estrangeira dar-se-á por ocasião do pagamento.
+Referido acórdão, da relatoria do Des. SEBASTIÃO FLÁVIO, assim ementado:
+PROCESSO CIVIL - Conexão - Ações entre as partes com base no mesmo fundamento jurídico - Pretensão manifestada na contestação de uma das ações que, porém, busca apenas a compensação de dívidas - Dívida dessa pretendente que, no entanto, é ilíquida e, assim, não permite a aplicação daquele instituto-Impossibilidade de decisões contraditórias, em tais circunstâncias - Desnecessidade de julgamento simultâneo, se a necessidade disso decorre do perigo de decisões conflitantes acerca de um mesmo tema - Ausência de nulidade do processo pela não reunião dos processos. Tese que também se torna prejudicada, uma vez que também estão sendo na mesma ocasião julgada a outra demanda - Preliminar afastada. PROCESSO CIVIL - Alegação de cerceamento de defesa em razão do julgamento antecipado do mérito - Inexistência - Ré que admite sua obrigação de pagamento - Discussão na outra ação sobre a natureza jurídica da relação contratual havida tida como de representação comercial e não de distribuição que, de qualquer modo, não afasta a obrigação de pagamento de "royalty", esta admitida como devida - Pretensão da parte queixosa que era apenas para compensar dívidas -Desnecessidade de julgamento conjunto que afasta automaticamente a alegação de cerceamento de defesa - Preliminar rejeitada.
+CONTRATO DE DISTRIBUIÇÃO - Dívida admitida pela distribuidora - Pretensão à compensação desta comas verbas rescisórias que busca o reconhecimento em juízo, por entender tratar-se na realidade de contrato de representação comercial - Impossibilidade, por ora da aludida compensação, uma vez que o direito da fornecedora é líquido e certo, por confissão da distribuidora, enquanto o desta não passa de mera expectativa de direito - Procedência da ação de cobrança de "royalty". Reforma da conclusão de primeiro grau apenas para dispor que a conversão da moeda estrangeira dar-se-á por ocasião do pagamento."
+APELAÇÃO PROVIDA PARCIALMENTE PARA OFIM POR ÚLTIMO MENCIONADO. (e-STJ, fl. 2.281/2.282)
+Os embargos de declaração apresentados foram rejeitados (e-STJ, fls. 2.355/2.374).
+Irresignada, SCI interpôs recurso especial com fundamento no art. 105, III, a, da CF, alegando ofensa aos arts. (1) 55 e 57 do CPC, pois não reconhecida a conexão entre o presente feito e a ação indenizatória proposta contra a SERENA com base na mesma relação jurídica; (2) 370 e 371 do CPC e 368 do CC, pois não autorizada a realização de prova pericial para apuração dos créditos recíprocos das partes com vistas à compensação.
+Apresentadas contrarrazões, o apelo nobre não foi provido por decisão monocrática de minha lavra assim resumida:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE DISTRIBUIÇÃO. INADIMPLÊNCIA. REUNIÃO DE FEITOS POR CONEXÃO. RISCO DE DECISÕES CONFLITANTES NÃO CONFIGURADO. FACULDADE DO JULGADOR. COMPENSAÇÃO DE DÍVIDAS INVIABILIZADA DIANTE DA AUSÊNCIA DE CERTEZA, LIQUIDEZ E EXIGIBILIDADE DO CRÉDITO ALEGADO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 2.680).
+Nas razões do presente agravo interno SCI alegou que (1) seria necessário reunir os feitos tendo em vista o risco de decisões conflitantes; e (2) não haveria obstáculo à compensação de créditos, pois eles seriam líquidos, certos e exigíveis.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÕES DE COBRANÇA RECIPROCAMENTE AJUIZADAS PELAS PARTES DE CONTRATO DE REPRESENTAÇÃO COMERCIAL. CONEXÃO EXISTENTE. RISCO DE DECISÕES CONFLITANTES NÃO VERIFICADO. DESNECESSÁRIA A REUNIÃO DOS FEITOS. COMPENSAÇÃO DE CRÉDITOS INVIABILIZADA. AUSÊNCIA DE CRÉDITOS LÍQUIDOS CERTOS E EXIGÍVEIS. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal estadual afirmou que as ações de cobrança reciprocamente ajuizadas pelas partes do contrato de representação comercial não precisavam ser reunidas porque, malgrado a conexão, não havia risco de decisões conflitantes.
+2. Constitui uma faculdade do julgador analisar a necessidade de reunir processos conexos para julgamento conjunto em razão da conexão, tendo em vista a conveniência dessa medida em cada hipótese. Precedentes.
+3. Impossível, assim, afirmar que os feitos deveriam ser necessariamente reunidos sem revolver fatos e provas, o que veda a Súmula n. 7 do STJ.
+4. Na linha dos precedentes do STJ e consoante se extrai dos arts. 368 e 369 do C C, a compensação somente é possível quando se tratar de créditos certos, líquidos e exigíveis.
+5. Tendo o acórdão estadual recorrido afirmado que os créditos em análise não reuniam essas qualidades não é possível afirmar o contrário, a fim de autorizar a compensação, sem esbarrar na Súmula n. 7 do STJ.
+6. Agravo interno não provido.
+VOTO
+A irresignação não colhe êxito.
+(1) Conexão
+Nas razões de seu recurso especial, e novamente em agravo interno, SCI alegou que a ação de indenização proposta por ela contra SERENA buscou a compensação pela resolução imotivada do contrato de representação comercial e que, portanto, referida demanda seria conexa com a presente lide em que SERENA pretende obter quantias devidas em razão dessa mesma relação jurídica.
+A respeito da conexão entre os feitos é preciso destacar que o TJSP nunca negou que houvesse referida circunstância. Afirmou apenas que, a despeito dessa conexão, não se impunha a reunião dos feitos, porque ausente risco de decisões conflitantes.
+Anote-se:
+Não se desconhece o caráter liberal da jurisprudência a respeito da conexão de ações e, portanto, sem exigir perfeita identidade entre elas, bastando um liame que torne possível uma decisão conjunta no intuito sempre é evitar decisões conflitantes (REspn.1.226.016,Min. NANCY ANDRIGUI, DJ de 25.3.2011), e, portanto, sem a necessidade de se apegar a um rigor técnico absoluto. Enfim, a reunião de processos pode e deve ocorrer não somente quando é caso de conexão ou continência, mas sempre que haja possibilidade de decisões contraditórias (RSTJ 112/169 e RT491/133).
+(..)
+Vê-se assim que é dado ao juiz exercer um controle acerca de duas ações que tenham o mesmo fundamento de direito, sem, pois, que o julgamento conjunto seja uma regra inarredável a que esteja o juiz vinculado, de modo que, ausente o risco de decisões conflitantes, nada impede que seja decidida a presente demanda, embora penda outra entre as partes a respeito do mesmo fundamento de direito. (e-STJ, fls. 2.303/2.304)
+O posicionamento em testilha encontra acolhida na jurisprudência desta Corte Superior, como se verifica a partir dos seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. CONEXÃO. FACULDADE DO JULGADOR. SÚMULA N. 235/STJ. SENTENÇA PROFERIDA EM UMA D AS DEMANDAS. AGRAVO INTERNO DESPROVIDO.
+1. O juiz tem a faculdade, e não a obrigação, de reconhecer a conexão entre duas ou mais demandas à luz da matéria controvertida e a fim de evitar a prolação de decisões conflitantes em litígios semelhantes, o que afasta a obrigatoriedade do julgamento simultâneo dos feitos.
+2. Não se determina a reunião de processos por conexão se um deles já foi julgado. Incidência da Súmula n. 235/STJ.
+3 . Agravo interno desprovido.
+(AgInt no AREsp n. 2.086.826/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+CIVIL E PROCESSUAL CIVIL. AÇÃO REIVINDICATÓRIA. OCUPAÇÃO COLETIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE OMISSÃO. CONTRADIÇÃO. CONFIGURAÇÃO. NULIDADE PREJUDICADA. CELERIDADE, ECONOMIA PROCESSUAL, EFETIVIDADE E PRIMAZIA DO JULGAMENTO DE MÉRITO. REUNIÃO DE AÇÕES PARA JULGAMENTO CONJUNTO. RISCO DE DECISÕES CONFLITANTES. DISCRICIONARIEDADE DO JULGADOR. REEXAME DE FATOS E PROVAS. INAMISSIBILIDADE. SÚMULA 7/STJ. ARTS. 554, §§ 1º A 3º, E 565 DO CPC/2015. PROCEDIMENTO ESPECIAL DE LITÍGIOS POSSESSÓRIOS COLETIVOS. APLICAÇÃO ÀS AÇÕES PETITÓRIAS. POSSIBILIDADE.
+ ..
+5. Trata-se de uma faculdade do julgador a análise da necessidade de os processos serem reunidos para julgamento conjunto, porquanto cabe a ele avaliar a conveniência da medida em cada hipótese.
+Precedentes. Para o acolhimento da tese de imprescindibilidade da reunião das ações por risco de decisões conflitantes, seria imprescindível promover o revolvimento do acervo fático-probatório dos autos, providência inviável em sede de recurso especial ante a incidência da Súmula 7/STJ.
+(REsp n. 1.992.184/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 10/5/2022, DJe de 3/6/2022)
+(2) Compensação
+Na linha dos precedentes do STJ e consoante se extrai dos arts. 368 e 369 do CC, a compensação somente é possível quando se tratar de créditos certos, líquidos e exigíveis.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DA AÇÃO EXECUTIVA. INVIABILIDADE DE COMPENSAÇÃO DOS CRÉDITOS POR AUSÊNCIA DOS REQUISITOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme preceitua o Código Civil, será admitida a compensação quando duas pessoas forem, ao mesmo tempo, credora e devedora uma da outra, em dívidas líquidas e vencidas, recaindo a referida compensação sobre coisas fungíveis. Exige-se, portanto, a reciprocidade dos créditos e a homogeneidade entre as prestações.
+2. As instâncias ordinárias concluíram que o pedido de suspensão do feito dos atos executórios, com base na alegada existência de crédito passível de compensação, carece de amparo legal, uma vez que as partes não são, ao mesmo tempo, credora e devedora uma da outra e não houve a constituição de dívida líquida, certa e exigível em favor da ora recorrente, circunstâncias que impossibilitam a compensação. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.084.535/DF, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022)
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO E CONTRADIÇÃO INEXISTENTES. REFORMA DO JULGADO. IMPOSSIBILIDADE. NOTAS PROMISSÓRIAS VINCULADAS A CONTRATO DE EMPREITADA PARA A CONSTRUÇÃO DE USINA TERMELÉTRICA. COMPENSAÇÃO DE CRÉDITOS. MATÉRIA DEPENDENTE DE PROVA EM AÇÃO ORDINÁRIA. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS NºS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA NÃO DEMONSTRADOS. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não há que se falar em ofensa ao art. 535 do CPC se foram analisadas as questões controvertidas objeto do recurso pelo Tribunal de origem.
+2. O art. 369 do CC fixa os requisitos da compensação, que só se perfaz entre dívidas líquidas, vencidas e de coisas fungíveis.
+3. Dívida ilíquida. Devedor de nota promissória que pretende se utilizar da compensação com base em seu crédito futuro que vier a ser apurado em ação ordinária de indenização por perdas e danos, por ele ajuizada. Não se compensa dívida líquida e exigível com créditos que nem sequer foram constituídos.
+(REsp n. 1.446.315/MG, de minha relatoria, Terceira Turma, julgado em 25/8/2015, DJe de 11/9/2015)
+Na hipótese, o TJSP foi bastante claro ao destacar que SCI não detinha um crédito líquido e exigível em face de SERENA, porque a ação de cobrança movida contra aquela empresa ainda representava uma mera expectativa de direito.
+Confira-se.
+Pela natureza é necessário que duas pessoas sejam ao mesmo tempo devedora e credora uma da outra (art. 368 do Código Civil), o que deve ser entendido que não mais se questiona, quanto à sua existência, liquidez e exigibilidade os débitos e créditos compensáveis.
+Não tem essa aptidão a mera expectativa de direito que possa vir a ser reconhecido em juízo, em decisão futura (e-STJ, fls. 2.290/2.291)
+ ..
+Logo, se é ainda dependente da certificação do direito, a dívida é ilíquida no sentido da incerteza de sua existência e, assim, de sua imprestabilidade para o exercício da compensação, isto é, de extinção de obrigações recíprocas, até porque não se pode extinguir o que ainda não existe. (e-STJ, fl. 2.294)
+Impossível, assim, afirmar o contrário sem reexaminar fatos e provas, o que veda a Súmula n. 7 do STJ.
+Nessas circunstâncias, NEGO PROVIMENTO ao agravo interno.
+É o voto.
