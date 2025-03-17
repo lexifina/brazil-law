@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de WANDERSON CHAVES DA SILVA e MATHEUS CHAVES DE ALMEIDA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Apelação n. 0166066-18.2017.8.09.0011).
+Depreende-se  dos  autos  que  o  Conselho de Sentença do Tribunal do Júri  absolveu o paciente  Wanderson e condenou o paciente Matheus, pela prática do crime de homicídio, na forma tentada, capitulado no art. 121, § 2º, incisos II e IV, c/c o art. 14, inciso II, ambos do Código Penal  (e-STJ  fls.  55/61).
+Acusação e defesa interpuseram apelação. O  Tribunal  de  origem  deu provimento ao 1º apelo e parcial provimento ao 2º apelo, para cassar a decisão do Conselho de Sentença e determinar que os pacientes e o corréu fossem submetidos a novo julgamento,  conforme  a  seguinte  ementa  (e-STJ  fl.  68):
+DUPLA APELAÇÃO CRIMINAL. TENTATIVA DE HOMICÍDIO QUALIFICADO POR MOTIVO FÚTIL E RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA. TRIBUNAL DO JÚRI. DECISÃO DOS JURADOS MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. OCORRÊNCIA. ANULAÇÃO DO VEREDICTO. NOVO JULGAMENTO. A soberania do Júri Popular não é absoluta, podendo ser revista pela instância revisora nas hipóteses tratadas no artigo 593, inciso III do Código de Processo Penal. No tocante à alínea "d" do citado inciso, a realização de um novo julgamento condiciona-se à ocorrência de visível afronta, completa incoerência e manifesta contrariedade à prova dos autos. 1º APELO CONHECIDO E PROVIDO. 2ª APELO CONHECIDO E PARCIALMENTE PROVIDO. ACUSADOS SUJEITOS A NOVO JULGAMENTO PELO TRIBUNAL DO JÚRI.
+No  writ,  aduz a defesa que "o entendimento de que a superveniência da sentença penal condenatória pelo Tribunal do Júri, embora se trate de novo título, não impede o exame do trancamento da ação penal, sobretudo quando a pronúncia é prolatada fora dos parâmetros legais e constitucionais, como, por exemplo, quando se embasa unicamente em elementos indiciários, como é exatamente o presente caso, em que não houve a oitiva de sequer uma testemunha e nem mesmo da vítima sobrevivente, mas apenas os interrogatórios"  (e-STJ  fl.  6).
+Salienta que "a possibilidade de manejo de habeas corpus trancativo da ação penal, quando não houver elementos mínimos de materialidade e autoria. No âmbito do Tribunal do Júri, inclusive, há diversas decisões favoráveis ao paciente, em especial nos casos como o presente, em que os únicos elementos indiciários produzidos foram somente ao longo do inquérito policial" (e-STJ fl. 8).
+Acrescenta que "é vedada a pronúncia com base unicamente nas evidências disponíveis em inquérito policial, posto que são colhidas em fase extrajudicial e não são submetidas ao contraditório judicial" (e-STJ fl. 9).
+Aduz que "que não foram judicializadas quaisquer provas para amparar a decisão de pronúncia e a condenação dos Pacientes, o que ocasionou, inclusive, a anulação do julgamento, posto que tais atos eivam-se de ilegalidade, de modo que o trancamento desta ação penal remediará a injustiça praticada, a priori, pelo ilustre magistrado e, a posteriori, pelo Egrégio Conselho de Sentença" (e-STJ fl. 18).
+Requereu,  liminarmente, "a suspensão da sessão plenária já designada para o dia 11/03/2025" (e-STJ fl. 19).
+No  mérito,  "a despronúncia dos Pacientes por ausência de provas judicializadas de autoria" (e-STJ fl. 19).
+É o relatório.
+Decido.
+Em consulta ao site do Tribunal de Justiça do Estado de Goiás, verifica-se que o paciente MATHEUS CHAVES DE ALMEIDA, juntamente com outro, foi submetido a julgamento perante o Conselho de Sentença do Tribunal do Júri, no dia 11/3/2025, ocasião em que foi absolvido de todas as imputações.
+Consta ainda que o paciente WANDERSON CHAVES DA SILVA veio a óbito.
+Assim, fica sem objeto este writ.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
