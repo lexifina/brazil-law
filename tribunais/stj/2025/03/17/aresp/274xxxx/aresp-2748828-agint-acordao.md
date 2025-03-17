@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA APTOS, POR SI SÓ, À MANUTENÇÃO DO JULGADO, NÃO COMBATIDOS. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. NÃO CONHECIMENTO.
+1. O agravo interno não infirmou as razões aptos à manutenção da decisão agravada, deixando de observar o disposto no art. 1.021, § 1º, do CPC.
+2. A ausência de impugnação aos fundamentos da decisão agravada, suficientes à conservação do decidido, atrai a aplicação da Súmula n. 182 do STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por HALFON ADMINISTRAÇÃO DE BENS PRÓPRIOS LTDA. (HSA) contra decisão monocrática de minha relatoria, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. EFEITO SUSPENSIVO AO ESPECIAL. NECESSIDADE. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. LITISPENDÊNCIA. CERCEAMENTO DE DEFESA. DECISÃO SURPRESA. NÃO OCORRÊNCIA. POSSIBILIDADE DE CONTRADITÓRIO DIFERIDO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MATÉRIA DE ORDEM PÚBLICA QUE PODE SER RECONHECIDA DE OFÍCIO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO. (e-STJ, fl. 982)
+Em suas razões, HSA combate a incidência das Súmulas n. 284 do STF e 7 do STJ alegando que (1) não houve qualquer possibilidade de contraditório para as partes do processo, fato totalmente necessário em se tratando de matéria suscitada pela primeira vez nos autos processuais (e-STJ, fl. 1.005); (2) é necessária a concessão do requerido efeito suspensivo.
+Foi apresentada impugnação requerendo a aplicação da multa (e-STJ, fls. 1.015/1.026).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA APTOS, POR SI SÓ, À MANUTENÇÃO DO JULGADO, NÃO COMBATIDOS. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. NÃO CONHECIMENTO.
+1. O agravo interno não infirmou as razões aptos à manutenção da decisão agravada, deixando de observar o disposto no art. 1.021, § 1º, do CPC.
+2. A ausência de impugnação aos fundamentos da decisão agravada, suficientes à conservação do decidido, atrai a aplicação da Súmula n. 182 do STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno não conhecido.
+VOTO
+O presente agravo interno não merece conhecimento.
+Da atenta análise da decisão agravada, observa-se que as razões de decidir tiveram como amparo a incidência das Súmulas n. 7 e 568 do STJ e 284 do STF. Confira-se:
+(1) efeito suspensivo ao recurso especial
+Inicialmente esclareça-se que, nos termos da jurisprudência desta Corte, a concessão de efeito suspensivo ao recurso especial condiciona-se à demonstração da presença do periculum in mora e do fumus boni iuris. Confira-se:
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. RECUPERAÇÃO JUDICIAL CONVOLADA EM FALÊNCIA. INCOMPETÊNCIA ABSOLUTA. SEGUNDA ARGUIÇÃO DE NULIDADE. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE PENDENTE NA ORIGEM. MEDIDA EXCEPCIONAL. TUTELA DE URGÊNCIA. REQUISITOS NÃO CONFIGURADOS. PEDIDO INDEFERIDO.
+1. A competência do Superior Tribunal de Justiça para a apreciação de pleito objetivando a concessão de efeito suspensivo a recurso especial instaura-se após ultrapassado o juízo de admissibilidade a cargo do tribunal de origem (art. 1.029, § 5º, I, II e III, do CPC/2015).
+2. A atribuição, em caráter excepcional, de efeito suspensivo a recurso especial pendente de juízo de admissibilidade depende da presença cumulativa dos requisitos do periculum in mora e do fumus boni juris, aliados à teratologia ou manifesta ilegalidade da decisão.
+3. No caso dos autos, em um exame perfunctório, não se constata a presença dos requisitos autorizadores da concessão da tutela de urgência.
+4. Agravo interno não provido.
+(AgInt no TP n. 3.539/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/3/2022, DJe de 31/3/2022)
+Da atenta leitura do especial verifica-se que não houve comprovação de razões efetivas que justificassem a necessidade de atribuição de efeito suspensivo ao recurso especial. Dessa forma, ante a deficiente fundamentação do recurso, incide a Súmula nº 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Nessa direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2. DEVER DE INDENIZAÇÃO. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 3. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. DESCABIMENTO. SÚMULA 7/STJ. 4. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULA 54/STJ. 5. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp 1.526.287/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/3/2020, DJe 20/3/2020)
+(2) cerceamento de defesa e violação do princípio da não-surpresa por reconhecimento de litispendência
+Quanto aos pontos, o Tribunal de origem afastou as referidas alegações ao assim se pronunciar:
+ ..  importante consignar que não há falar em nulidade da decisão proferida nestes autos por cerceamento de defesa ou violação ao princípio da não surpresa.
+Como se sabe, há cerceamento de defesa nas hipóteses em que negada a produção de prova indispensável para o julgamento da matéria controvertida posta aos autos, não se configurando, todavia, quando a resolução da questão não depender de dilação probatória, por ser eminentemente de direito, ou quando as provas já produzidas se mostrem suficientes para a solução da controvérsia.
+ ..
+In casu, as provas requeridas, bem como a ausência de fundamentos concretos para seu deferimento, revelam sua desnecessidade.
+Mais especificamente, a oitiva das partes e prova testemunhal não se mostram necessárias, na medida em que os documentos apresentados são suficientes para o julgamento do feito da parte embargante não aponta concretamente o que as partes poderiam esclarecer que não constam dos documentos já apresentados.
+A prova pericial, igualmente, não se justifica, na medida em que os documentos apresentados pelo exequente são praticamente os mesmos apresentados pelo embargante, não havendo qualquer alegação de fraude ou de inveracidade das informações contidas em tais documentos, razão pela qual completamente dispensável a prova pericial pleiteada.
+A juntada de novos documentos também não é justificada, na medida em que ambas as partes apresentaram farta documentação, que elucidam suficientemente a questão.
+Importante registrar, ainda, que diferentemente do que fez crer a parte recorrente, a decisão proferida por este Eg, Tribunal no recurso interposto contra a decisão que deferiu a realização de provas em nenhum momento afirma a necessidade de sua produção. A decisão é clara quanto a decretar a nulidade da decisão por ausência de fundamentação.
+ ..
+Não há falar, tampouco, em violação ao disposto nos artigos 7º, 9º e 10º do Código de Processo Civil e o Princípio da Não Surpresa e a Garantia Constitucional da Ampla Defesa, do Contraditório e do Devido Processo Legal.
+Primeiro porque, a litispendência, como sabido, é matéria de ordem pública, podendo ser conhecida a qualquer tempo e grau de jurisdição, até mesmo de ofício. A propósito:
+ ..
+Segundo porque, ao embargante foi oportunizado se manifestar sobre a litispendência, ainda que no âmbito recursal, garantindo-lhe o contraditório e ampla defesa, e observada, também, a celeridade da prestação jurisdicional.
+A esse respeito, a jurisprudência tem se manifestado pela possibilidade de realização do chamado contraditório diferido, ocasião em que, ainda que não tenha havido prévia manifestação da parte acerca do tema, a mesma pode, em grau recursal, apresentar argumentos capazes de desconstituir aquela causa extintiva do processo. (e-STJ, fls. 726/728)
+A conclusão adotada na origem, em relação à possibilidade de ingresso com contraditório diferido, teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ. Na mesma direção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático- probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela necessidade de aplicação do contraditório diferido, bem como pela impossibilidade de relativização da impenhorabilidade prevista no art. 833, IV, do CPC/2015. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da similitude fática entre os acórdãos confrontados.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.815.425/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022)
+Acrescente-se que o entendimento do TJPR se encontra em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que a litispendência é matéria de ordem pública que pode ser reconhecida a qualquer tempo, inclusive, de ofício. No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE RENDA. FÉRIAS NÃO GOZADAS. LICENÇA-PRÊMIO CONVERTIDA EM PECÚNIA. PRESCRIÇÃO. APLICAÇÃO TAXA SELIC E JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. LITISPENDÊNCIA. OMISSÃO. QUESTÃO DE ORDEM PÚBLICA. VIOLAÇÃO DOS ARTIGOS 535 E 458 DO CPC CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Conquanto não esteja o magistrado obrigado a enfrentar todos os questionamentos das partes, ele não pode deixar de se manifestar sobre questão relevante para o deslinde da controvérsia.
+2. Hipótese em que a recorrente opôs embargos de declaração nos quais alegou a ocorrência de litispendência com relação a alguns autores da presente demanda, requerendo a extinção do feito, com fundamento no artigo 267, V e VI do CPC.
+3. Acórdão recorrido que se limitou a assentar que a decisão colegiada embargada havia apreciado todas as questões essenciais ao julgamento da lide, concluindo serem inexistentes os vícios ali apontados.
+4. A litispendência e a coisa julgada constituem questões de ordem pública que podem ser alegadas, nas instâncias ordinárias, a qualquer tempo, podendo ser inclusive reconhecidas ex officio. Precedentes.
+5. O Tribunal local, a despeito da oposição de embargos de declaração, deixou de apreciar a questão neles aventada, razão pela qual está configurada a infringência aos artigos 535 e 458 do CPC.
+6. Recurso especial parcialmente conhecido e, nesta parte, provido, para determinar a anulação do julgamento, com o retorno dos autos à instância de origem, a fim de que seja sanada a omissão. Prejudicada a análise das demais questões discutidas no recurso especial. (REsp n. 1.111.976/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/8/2009, DJe de 19/8/2009)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE CONSECTÁRIOS DA MORA. CONTRATO ADMINISTRATIVO. MEDIÇÃO E PAGAMENTOS REALIZADOS A DESTEMPO. RECURSO INTERNO CONTRA DECISÃO QUE ACOLHEU PARCIALMENTE O APELO RARO, PARA MAJORAR A VERBA HONORÁRIA E, APÓS ACLARATÓRIOS, REDEFINIR O TERMO INICIAL DOS JUROS DE MORA. ALEGAÇÃO QUE INSISTE NA NECESSIDADE DE SE REFORMAR INTEGRALMENTE O ACÓRDÃO AFASTANDO A EXCLUSÃO DE DOIS CONTRATOS ADMINISTRATIVOS DA PRESENTE DEMANDA, POR LITISPENDÊNCIA. QUESTÃO RECONHECIDA PELA CORTE LOCAL, AINDA QUE ALEGADA A DESTEMPO, POR SE TRATAR DE MATÉRIA DE ORDEM PÚBLICA, COGNOSCÍVEL ATÉ MESMO DE OFÍCIO. FUNDAMENTO NÃO INCLUÍDO NO APELO RARO. ALÉM DISSO PARA SE REFORMAR A DECLARAÇÃO DE LITISPENDÊNCIA, É IMPRESCINDÍVEL A REANÁLISE FÁTICO-PROBATÓRIA DOS AUTOS E, TAMBÉM, DA OUTRA LIDE, ONDE O ACÓRDÃO IDENTIFICOU UM TERMO DE ACORDO, NÃO SE PODENDO, À VISTA DO ÓBICE DA SÚMULA 5/STJ, REVER SUAS CLÁUSULAS. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Por ocasião do julgamento do recurso de Apelação é lícito à Corte local, por se tratar de matéria de ordem pública, reconhecer a litispendência, independentemente da maneira como fora noticiada nos autos, porquanto, poderia ser declarada ex officio. Todavia, o argumento apto a rebater tal possibilidade não constou do Recurso Especial, o impede sua veiculação agora, em sede de Agravo Interno.
+2. Para afastar a litispendência declarada, este STJ teria que revolver o aspecto fático-probatório dos autos e, neste caso, inclusive do termo de acordo firmado na lide originária, bem como as cláusulas dos contratos administrativos objetos desta demanda, providência vedadas, em princípio, nesta seara recursal especial, pelas Súmulas 5 e 7/STJ.
+3. Agravo Interno da Empresa a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.447.432/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 1/6/2020, DJe de 4/6/2020)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, incidente o óbice da Súmula nº 568/STJ.
+Nessas condições, CONHEÇO o agravo para CONHECER EM PARTE o recurso especial e NEGAR-LHE PROVIMENTO. (e-STJ, fls. 983/988)
+O agravo interno não impugnou a aplicação da Súmula n. 568 do STJ, assim como as razões de sua incidência, fundamentos aptos, por si sós, a manutenção do decidido no especial.
+Vale pontuar que o art. 1.021, § 1º, do CPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula n. 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ: À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008).
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula n. 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973, quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida.
+Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016)
+Assim, porque os argumentos do agravo interno não atacaram os fundamentos da decisão agravada, suficientes à conservação do decidido, fica prejudicada a análise do presente agravo interno em virtude da não admissão do recurso pela incidência da Súmula n. 182 desta Corte.
+Nessas condições, NÃO CONHEÇO do agravo interno.
+É o voto.
