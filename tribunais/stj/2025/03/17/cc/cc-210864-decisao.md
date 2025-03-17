@@ -1,0 +1,14 @@
+DECISÃO
+O JUÍZO FEDERAL DA 1ª VARA DE CAMPINAS - SJ/SP suscita conflito de competência, em procedimento investigativo, diante do JUÍZO FEDERAL DA 2ª VARA CRIMINAL DO RIO DE JANEIRO - SJ/RJ.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de eventual medida judicial em inquérito policial instaurado para apurar suposto contrabando/descaminho, consubstanciado na apreensão, pela Alfândega do Aeroporto Internacional de Viracopos, de substância química que demanda autorização especial da ANVISA, cujo destinatário seria pessoa domiciliada no Rio de Janeiro.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 2ª Vara Criminal do Rio de Janeiro, ora suscitado (fls. 142-145).
+Decido.
+Não descuro do entendimento estabelecido no enunciado da Súmula n. 151 do STJ. Entretanto, na espécie, estou de acordo com o parecer ministerial.
+Com efeito, em recente julgamento de caso similar, pela Terceira Seção (CC n. 172.392/SP, relator Ministro Joel Ilan Paciornik, DJe 29/06/2020), ficou estabelecido que, em algumas hipóteses, é possível que seja mitigado o referido entendimento sumular, em nome da "facilidade para a coleta de provas e para a instrução do processo, tendo em conta os princípios que atendem à finalidade maior do processo que é a busca da verdade real" (CC n. 151.836/GO, relator Min. Reynaldo Soares da Fonseca, DJe 26/6/2017).
+No caso, o envio da mercadoria era para local e remetente conhecidos (Rio de Janeiro - RJ) e, a sua apreensão, ocorrida em trânsito na cidade de São Paulo - SP, que não guarda nenhuma relação com os atos praticados - situação que dificulta a investigação e o pleno esclarecimento dos fatos, caso adotado como competente o local de apreensão - , devem ser sopesados.
+É de se estabelecer, na espécie, a competência do Juízo suscitado, porquanto este seria o local de domicílio do suposto destinatário e, portanto, onde haverá maior facilidade de colheita de provas, bem como do exercício da ampla defesa, tal como decidiu recentemente este Superior Tribunal, no CC n. 172.392/SP, de modo a mitigar a aplicação da Súmula n. 151 do STJ. Acertadas, portanto, as ponderações do Ministério Público Federal, nestes termos (fl. 81):
+ ..
+Não se desconhece que, nos termos da Súmula 151/STJ, a competência para processar e julgar crimes de contrabando e descaminho é definida pelo lugar da apreensão do bens. Ocorre que, considerando as circunstâncias do caso concreto, mostra-se mais conveniente para a defesa da ré e para melhor instrução da causa a definição da competência do juízo de domicílio da destinatária, no caso a Justiça Federal do Rio de Janeiro.
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 2ª Vara Criminal do Rio de Janeiro, ora suscitado.
+Publique-se. Dê-se ciência ao Juízos suscitante e suscitado.
+EMENTA
