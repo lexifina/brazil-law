@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Lorival Marcilio Ferraz dos Santos, apontando-se como autoridade coatora o Desembargador do Tribunal de Justiça de São Paulo que indeferiu o pedido liminar nos autos da Revisão Criminal n. 2047412-19.2025.8.26.0000 (fls. 11/12).
+O paciente foi condenado pela prática de roubo majorado às penas de 6 anos e 8 meses de reclusão, e 16 dias-multa (Processo n. 0000073-91.2021.8.26.0565, da 2ª Vara Criminal e de Crimes contra a Vida da comarca de São Caetano do Sul/SP).
+Aqui, a defesa pede, em liminar e no mérito, a concessão da ordem para suspender o cumprimento da pena até o trânsito em julgado da revisão criminal.
+Para tanto, sustenta, em breve síntese, que a revisão criminal é cabível quando a sentença condenatória for contrária ao texto expresso da lei ou à evidência dos autos. No caso, o paciente demonstrou que o reconhecimento pessoal foi realizado com vícios (art. 226 do CPP) e que há provas documentais e testemunhais que podem comprovar sua inocência (fl. 8).
+É o relatório.
+Não tem cabimento o presente writ.
+De início, anoto que, consoante reiterado pronunciamento desta Corte Superior de Justiça, o ajuizamento da revisão criminal não obsta a execução da sentença condenatória, tendo em vista a ausência de efeito suspensivo (AgRg no HC n. 391.687/PR, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/4/2017, DJe 26/4/2017) - (AgRg no HC n. 715.677/GO, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 21/3/2022).
+Também de acordo com nossa jurisprudência, é incabível a impetração de habeas corpus, no Superior Tribunal de Justiça, contra o indeferimento de pedido liminar em revisão criminal. Aplicação, por analogia, do óbice contido na Súmula 691/STF (AgRg no HC n. 841.489/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/8/2023).
+Em outras palavras, em regra, não se admite habeas corpus contra decisão indeferitória de liminar proferida em revisão criminal em trâmite na instância de origem, salvo nas hipóteses em que se evidenciar situação desprovida de razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências constitucionais). Precedentes (AgRg o HC n. 725.380/RS, Ministra Laurita Vaz, Sexta Turma, DJe 8/4/2022).
+Na hipótese dos autos, não há evidência de nenhuma excepcionalidade. O Relator do feito na origem, ao indeferir o pedido de urgên cia, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. Na oportunidade, afirmou que a quebra da coisa julgada, calcada na alegação de contrariedade à evidência dos autos, só se admite quando há absoluta dissociação da condenação com a prova produzida, o que aqui não ocorre (fl. 12).
+Com essas considerações, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publiqu e-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO TRANSITADA EM JULGADO. INSURGÊNCIA CONTRA A DECISÃO DE INDEFERIMENTO DO PLEITO LIMINAR EM REVISÃO CRIMINAL AJUIZADA NA ORIGEM. DESCABIMENTO DO WRIT. SÚMULA 691/STF. APLICAÇÃO POR ANALOGIA. AUSÊNCIA DE EFEITO SUSPENSIVO DA AÇÃO REVISIONAL. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
