@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DOUGLAS ANTONIO SOBRINHO contra decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul que inadmitiu o recurso especial fundamentado na alínea "a" do permissivo constitucional.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 831/832, in verbis:
+1. Tratam os autos de agravo em recurso especial interposto por DOUGLAS ANTONIO SOBRINHO contra decisão que não admitiu o recurso especial interposto em face de acórdãos proferidos pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, nos seguintes termos:
+EMENTA - APELAÇÃO CRIMINAL DEFENSIVA - PROEMIAL DA PROCURADORIA-GERAL DE JUSTIÇA DE PARCIAL CONHECIMENTO DO RECURSO - ACOLHIDA - PEDIDO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS OU DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ARTIGO 28 DA LEI Nº 11.343/06 - IMPOSSIBILIDADE - REDUÇÃO DA PENA- BASE - INVIABILIDADE - CONFISSÃO ESPONTÂNEA - NÃO CONFIGURADA - RECURSO DEFENSIVO, PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+I - O recurso defensivo deve ser parcialmente conhecido, ante a falta de interesse recursal quanto ao pedido de afastamento da agravante de reincidência, pois tal matéria não foi reconhecida na sentença.
+II - Improcede o pleito de absolvição por insuficiência de provas, se o conjunto probatório revela-se suficiente e harmônico no sentido de que o réu exercia o tráfico de drogas. Pelos mesmos motivos, incabível o pedido de desclassificação para o delito previsto no art. 28, da Lei nº 11.343/06 (consumo pessoal).
+III - O julgador dispõe de certo grau de discricionariedade na análise das circunstâncias judiciais, de modo que, se a fundamentação exposta é idônea e a exasperação adequada ao alcance das finalidades da pena, sem que se observe eventual abuso ou arbitrariedade, deve a pena-base ser mantida no patamar estabelecido na sentença.
+IV - No caso em tela, o réu em nenhum momento confessou a prática delitiva, apenas admitido a posse das drogas, tendo a sentença se baseado nas circunstâncias do caso concreto e demais elementos probatórios colhidos na fase da instrução, de modo que ele não faz jus à atenuante da confissão espontânea.
+V - Com o parecer, conheço parcialmente do recurso defensivo e, na parte conhecida, nego-lhe provimento (fls. 336).
+EMENTA - EMBARGOS DECLARATÓRIOS EM APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ALEGADA CONTRADIÇÃO NO ACÓRDÃO - RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA - INOPERADO - EMBARGOS REJEITADOS.
+I - Impossível o reconhecimento da atenuante da confissão espontânea, haja vista que o réu não admitiu o cometimento do crime em questão.
+II - Embargos declaratórios rejeitados, com o parecer (fls. 734).
+2. Nas razões do apelo especial, o recorrente alegou, em síntese, ofensa ao art. 28 da Lei nº 11.343/2006, e a necessidade de desclassificação de sua conduta, de tráfico para posse de drogas para consumo próprio (fls. 750-760).
+3. Negado seguimento ao recurso, por incidência da Súmula 7/STJ (e-STJ, fls. 367-368).
+4. Foi interposto o agravo (e-STJ, fls. 783-793) e apresentada a contraminuta (e- STJ, fls. 800-809).
+5. Vieram, então, os autos com vista ao Ministério Público Federal.
+O Parquet opinou pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo seu não provimento (e-STJ fls. 831/835).
+Acrescento que, no julgamento do Habeas Corpus n. 952.176/MS, impetrado em favor do ora recorrente, concedi a ordem liminarmente para reconhecer a incidência da atenuante da confissão espontânea, ocorrida extrajudicialmente, ainda que retratada em juízo. Por conseguinte, a pena foi reduzida para 5 anos de reclusão.
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+O recurso não merece prosperar.
+Relativamente ao pleito de desclassificação do delito, a Corte originária reconheceu a existência de elementos de prova suficientes para embasar o decreto condenatório, em desfavor do ora recorrente, pela prática do crime de tráfico ilícito de entorpecentes nos seguintes termos (e-STJ fls. 339/342):
+A Defesa requer a absolvição da prática do crime previsto no art. 33, caput, da Lei nº 11.343/2006, pela ausência de provas, ou, ainda, seja operada a desclassificação para o delito do art. 28, da Lei nº 11.343/2006 (consumo pessoal).
+Não lhe assiste razão.
+In casu, a materialidade vem demonstrada pelo auto de prisão em flagrante (p. 16-23), boletins de ocorrência (p. 45-50), termo de exibição e apreensão (p. 52-53), auto de exame de constatação de drogas (p. 54-57), relatório final de inquérito policial (p. 65-70), laudos de exames toxicológicos (f. 233-240), bem como pelos depoimentos colhidos em ambas as fases (extrajudicial e judicial).
+A autoria, da mesma forma, restou suficientemente demonstrada.
+Isso porque, apesar da alegação de que o réu é apenas usuário de drogas, segundo os depoimentos colhidos e demais elementos probatórios arrolados aos autos, há comprovação da prática do delito previsto no art. 33, caput, da Lei nº 11.343/06 (tráfico de drogas).
+Acerca disso, para evitar desnecessárias tautologias, transcrevo o bem lavrado parecer da Procuradoria-Geral de Justiça no ponto em que reuniu a prova oral colhida extrajudicialmente e em juízo (p. 318-3):
+De proêmio, destaco o teor dos depoimentos extrajudiciais dos Policiais Militares Magdiel Altini (fls. 29-30) e Gabriel Moreira de Azevedo (fls. 32-33), uníssonos em afirmar que estavam em rondas pela região, quando visualizaram 2 indivíduos na frente de uma residência, sendo um deles o acusado, enquanto o outro estava em cima de uma motocicleta, o qual se evadiu em alta velocidade quando a equipe se aproximou.
+Informaram que puderam observar que Douglas passava um pacote para o motoqueiro, que foi jogado ao solo, e posteriormente se verificou que eram "paradinhas" de pasta- base de cocaína.
+Relataram que em entrevista, o recorrente explicou que residia no imóvel, e franqueou a entrada dos castrenses no local. Confirmaram que dentro da casa, foi encontrado um prato com uma pedra do aludido entorpecente e mais 3 embalagens já prontas para o comércio, além de uma faca para cortar a droga, plástico filme, tesoura e uma porção de maconha.
+Ressaltaram que, inicialmente, Douglas asseverou que os estupefacientes seriam para consumo próprio, mas com ele foi localizado também o valor de R$1.265,00 em notas fracionadas, as quais ele acabou confessando ter obtido com a mercancia de narcóticos.
+Perante a autoridade judicial (fls. 183-184), Gabriel reiterou a narrativa prestada em sede de inquérito, tendo acrescentado que Douglas assinou um termo autorizando a entrada dos castrenses em sua residência.
+Já Magdiel, em audiência (fls. 183-184), reafirmou que Douglas, na abordagem, confirmou que estava traficando, e que o valor apreendido era oriundo do ilícito.
+Na delegacia, prestou depoimento também o informante Rafael de Souza Vitor (fls. 24-25), o qual contou que mora na mesma casa onde os fatos se deram.
+Asseverou que o entorpecente seria de propriedade de Douglas, confirmando que ele é traficante, tendo explicado o modus operandi do denunciado: "a pessoa para na frente da casa e Douglas entrega a droga" (sic).
+Já na AIJ de fls. 183-184, Rafael acrescentou que estava dormindo na ocasião do flagrante, e alterou sua versão dos fatos, dizendo que Douglas seria apenas usuário.
+Sustentou que o insurgente foi agredido pelos militares no momento da abordagem, e que não foi autorizada a entrada deles no imóvel, mas sim que teriam invadido o local.
+Alegou que o dinheiro apreendido advinha do seguro-desemprego que o réu estaria recebendo.
+Quando questionado pelo Parquet sobre a veracidade de seu depoimento, o informante disse: "eles me deram um monte de papel pra mim assinar e eu assinei tudo sob pressão porque estava nervoso e com medo" (sic).
+Por fim, negou ter visto pessoas com moto passando para retirar ou buscar substâncias no local.
+Na mesma audiência (fls. 183-184), foi interrogada a testemunha Pamela Fernandes Vicente, que reside ao lado do apelante, a qual contou que estava lavando a louça no momento do flagrante, quando escutou barulhos.
+Disse que a polícia teria chegado falando "perdeu, perdeu, mãos ao alto" (sic), mas ressaltou que não conseguiu ver exatamente tudo o que ocorreu.
+Quando questionada, afirmou saber que Douglas é usuário de maconha, e negou ter visto pessoas adquirindo entorpecentes no local.
+Em juízo (fls. 183-184), o informante Paulo Pereira de Araújo, também vizinho do insurgente, declarou que, na ocasião, estava sentado em seu quintal, fumando um cigarro, quando avistou a viatura da PM estacionando na frente da casa de Douglas.
+Mencionou que estavam todos dormindo na residência quando os castrenses estouraram a cerca e entraram no imóvel.
+Por fim, disse que Douglas já fez diárias como pedreiro com ele, não sabendo especificar se o insurgente era usuário tampouco traficante de drogas.
+Por sua vez, o acusado, extrajudicialmente (fls. 34-35), relatou que estava sem trabalhar na ocasião, e que gastou R$500,00, oriundos de seguro-desemprego, para adquirir substâncias.
+Expôs que comprou 25g de pasta-base de cocaína de um sujeito conhecido como "Nego", na rodoviária da comarca, mas não especificou maiores informações acerca de tal pessoa.
+Revelou que parte do entorpecente seria para consumo próprio e parte para revenda, a qual custava um valor de acordo com o tamanho da porção distribuída.
+Comunicou que, no dia dos fatos, estava dormindo em sua residência quando foi abordado por policiais militares, os quais localizaram o estupefaciente em um prato que estava em cima de um banquinho no quarto.
+Quanto ao dinheiro apreendido, explicou estava guardando há algum tempo, mas que uma fração era oriunda da venda do narcótico. Sob o crivo do contraditório e da ampla defesa (fls. 183-184), alegou que os policiais entraram sem autorização na casa.
+De mais a mais, sustentou que as notas apreendidas se referiam ao seu seguro-desemprego e repetiu que os entorpecentes eram para consumo próprio, e que foram fracionados pelos castrenses.
+Revelou que seu "dichavador" e um cachimbo foram jogados fora na delegacia, e que ele e Rafael foram conduzidos juntos e algemados.
+Sustentou que adquiriu a droga na rodoviária desta Capital, e não em Ribas do Rio Pardo/MS.
+Em relação à narrativa extrajudicial, declarou que apenas assinou o depoimento sem ler o que estava escrito, tendo feito isso em troca da liberação de Rafael.
+Como se vê, os depoimentos dos agentes policiais são coesos e harmônicos no sentido de confirmar a prática delitiva. Ainda, é imperioso ressaltar que os relatos dos funcionários públicos gozam de presunção juris tantum de veracidade, sobretudo quando se encontram em harmonia com os demais elementos dos autos, de modo que o réu teria que carrear provas convincentes para elidi-los e, por consequência, comprovar as asserções sustentadas em suas razões, sendo certo que a ausência de elementos tendentes a refutar tais depoimentos faz com que a versão apresentada permaneça válida.
+Além disso, foi comprovado pelos laudos periciais que as substâncias apreendidas se tratavam de cocaína (10,18g) e maconha (8,94g), sendo que estavam fracionadas em 6 e 1 embrulhos plásticos, respectivamente, bem como a exibição e apreensão na residência do réu de R$ 1.265,00 divididas em 41 notas e petrechos para comercialização de drogas, como 1 prato, 2 rolos de plástico, 1 tesoura e 1 faca, sendo que tais circunstâncias, quando associadas aos depoimentos colhidos e demais elementos amealhados aos autos, evidenciam a destinação das drogas à traficância e não ao consumo próprio, como alega o réu.
+Ademais, o réu confessou extrajudicialmente a prática delitiva (p. 34-35), e no mesmo sentido o depoimento de Rafael de Souza Vítor, na delegacia de polícia (p. 24-25).
+Ainda, o tipo penal previsto no art. 33, caput, da Lei nº 11.343/06, dispõe que incorre em tráfico de drogas quem: Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar. Dessa forma, trata-se de tipo penal alternativo misto, de modo que praticando o réu em qualquer dos verbos do tipo resta configurado o delito, o que representa o caso dos autos.
+Portanto, não há que se falar em absolvição em razão da alegada insuficiência de provas, tampouco em desclassificação para o delito previsto no art. 28 da Lei nº 11.343/06.
+Assim, tenho que a mudança da conclusão alcançada no acórdão impugnado, de modo a desclassificar a conduta, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 381, III, DO CÓDIGO DE PROCESSO PENAL. FUNDAMENTAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Decisão impugnada suficientemente fundamentada, concluindo pela condenação do recorrente. Para rever esse entendimento, demandaria, necessariamente, o revolvimento do acervo fático-probatório, o que encontra óbice na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+2. Agravo regimental não provido. (AgRg no AREsp 540.924/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/3/2017, DJe 27/3/2017.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO. PROVAS COLHIDAS DURANTE O INQUÉRITO POLICIAL E JUDICIALMENTE. LEGALIDADE. REVERSÃO DO JULGADO PELO TRIBUNAL DE ORIGEM. REEXAME. SÚMULA 7/STJ. INCIDÊNCIA. CONDENAÇÃO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. NATUREZA E QUANTIDADE DE DROGA APREENDIDA. LIDERANÇA NA ASSOCIAÇÃO CRIMINOSA. FUNDAMENTAÇÃO CONCRETA IDÔNEA. AGRAVO REGIMENTAL PROVIDO.
+ ..
+2. Cabe às instâncias ordinárias fazer um exame do conteúdo fático e probatório a fim de aferir a existência de fundamentos aptos a embasar a condenação. Sendo assim, para rever a conclusão do julgado combatido seria necessária incursão na seara probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7 desta Corte.
+3. Conforme entendimento do Superior Tribunal de Justiça, tendo a condenação se amparado em provas outras, além das colhidas na fase inquisitorial, não há falar em violação do artigo 155 do Código de Processo Penal (AgRg no AREsp 679.993/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/05/2015, DJe 29/05/2015).
+ ..
+5. Agravo regimental provido para conhecer do agravo em recurso especial e negar-lhe provimento. (AgRg no AREsp 610.236/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2016, DJe 2/2/2017.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA USO. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A pretensão do agravante de modificar o entendimento firmado pelas instâncias ordinárias - no sentido de que não há provas acerca da prática do delito em questão, da desclassificação do delito de tráfico para o uso e da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06 - demandaria reexame de provas, o que é inviável na via do recurso especial, segundo dispõe o enunciado n. 7 da Súmula do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial").
+2. Agravo regimental não provido. (AgRg no AREsp 900.716/BA, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/8/2016, DJe 26/8/2016.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
