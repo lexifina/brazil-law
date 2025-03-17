@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por EGIDIO SPERANDIO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do HC n.0099817-32.2023.8.19.0000.
+Consta dos autos que o Conselho Especial da Justiça Militar do Rio Grande do Sul, Auditoria de Santa Maria, ao ensejo de sentenciar outros crimes conexos, declinou em favor da Justiça Comum Estadual a competência para julgar o fato I da denúncia, qual seja, porte de arma de fogo, de uso permitido, sem autorização, fato ocorrido no dia 10/06/2018 (e-STJ fls. 639/652).
+Recebidos os autos na Vara da Comarca de Campina das Missões, o Ministério Público ratificou a denúncia quanto ao fato I (e-STJ fl. 760.
+Em 24/03/2023, invocando precedente desta Corte (APn 295/RR, Corte Especial, julgado em 17/12/2014), a juíza recebeu a denúncia.
+Proferida decisão de afastamento de absolvição sumária e prosseguimento da instrução (e-STJ fl. 783), a defesa interpôs embargos de declaração para que fosse apreciado pedido de nulidade do novo recebimento da denúncia (e-STJ. 825), mas o tema não foi enfrentado.
+Irresignada, a Defesa interpôs habeas corpus na origem para que fosse declarada a nulidade da decisão que convalidou o recebimento da denúncia, diante da incompetência relativa da Justiça Castrense.
+O Tribunal de origem denegou a ordem, conforme acórdão assim ementado (e-STJ fls. 42/43):
+"HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. ART. 14, DA LEI 10.826/03. COMPETÊNCIA ABSOLUTA. JUSTIÇA MILITAR. ATOS PROCESSUAIS. RECEBIMENTO DE DENÚNCIA. RATIFICAÇÃO. PRESCRIÇÃO. MARCO INTERRUPTIVO. AUSENTE CONSTRANGIMENTO ILEGAL. A denúncia e seu recebimento emanado de autoridade absolutamente incompetente - caso dos autos -, são ratificavéis no juízo competente. Desse modo, não existe a mera trasposição dos atos decisórios, mas a prática de novos atos processuais válidos, pelo Ministério Público, ao ratificar os termos da denúncia com relação ao crime de competência da Justiça Comum, assim como pelo magistrado, ao ratificar os atos processuais viciados, proferidos no Juízo Militar. Por essa razão, "o ato de recebimento da denúncia praticado pelo juízo absolutamente incompetente, ainda que venha a ser posteriormente ratificado, não interrompe o curso do prazo prescricional." Precedentes. ORDEM DENEGADA.
+O recorrente alega que não se trata de incompetência absoluta e, assim, deve ser considerado o primeiro recebimento da denúncia como marco interruptivo da prescrição. Cita o julgamento do RHC 40.514/MG e requer seja declarada a nulidade da decisão que convalidou o recebimento da denúncia.
+O Ministério Público Federal  MPF opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+O recorrente pretende desconstituir o ato de recebimento da denúncia pela Justiça Estadual em 24/03/2023, de modo que permaneça válido, para fins de interrupção da prescrição, o recebimento da denúncia pela Justiça Militar no dia 14/11/2019 (e-STJ fls. 641).
+Considerando que a prescrição regulada pela pena aplicada não corre entre as datas do fato e do recebimento da denúncia (art. 110, §1º do Código Penal CP), a pretensão do impetrante justifica-se pelo interesse de que, em caso de condenação, aumente-se a chance de consumação da prescrição em concreto entre os marcos interruptivos do recebimento da denúncia e sentença e/ou acórdão condenatório (art. 117, I e IV, do CP).
+O Tribunal de origem decidiu de forma escorreita, ao assim expor (e-STJ fl. 39):
+Com efeito, a denúncia e seu recebimento emanado de autoridade absolutamente incompetente - caso dos autos -, são ratificavéis no juízo competente. Desse modo, não existe a mera transposição dos atos decisórios, mas a prática de novos atos processuais válidos, pelo Ministério Público, ao ratificar os termos da denúncia com relação ao crime de competência da Justiça Comum, assim como pelo magistrado, ao ratificar os atos processuais viciados, proferidos no Juízo Militar.
+Por essa razão, "o ato de recebimento da denúncia praticado pelo juízo absolutamente incompetente, ainda que venha a ser posteriormente ratificado, não interrompe o curso do prazo prescricional (art. 117, inciso I, do CP)".
+Uma vez que houve declinação pela Justiça Especializada Militar em prol da Justiça Comum Estadual, em razão da matéria submetida a julgamento, a hipótese era de incompetência absoluta. Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. CRIME PRATICADO POR CIVIL CONTRA POLICIAL MILITAR. ART. 9º, II, DO CÓDIGO PENAL MILITAR. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA MILITAR ESTADUAL (ART. 125, § 4º, CONSTITUIÇÃO FEDERAL - CF). COMPETÊNCIA DO JUSTIÇA COMUM ESTADUAL.
+1. Não compete à Justiça Militar Estadual processar e julgar crimes comuns praticados por civil contra policial militar.
+2. A competência da Justiça Castrense Estadual, determinada pela Constituição Federal, se restringe a processar e julgar os crimes de natureza militar praticados apenas pelos integrantes da Polícia Militar e do Corpo de Bombeiros dos Estados.
+Conflito de competência conhecido para declarar competente o Juízo de Direito do Juizado Especial Criminal de Barbacena/MG, o suscitado.
+(CC n. 136.815/MG, minha relatoria, Terceira Seção, julgado em 13/4/2016, DJe de 20/4/2016.)
+PROCESSUAL PENAL. COMPETÊNCIA. POLICIAL MILITAR. JULGAMENTO PELA AUDITORIA MILITAR ESTADUAL. RECURSO.
+- Proferida a sentença pela Auditoria Militar Estadual, o recurso dela interposto deve ser julgado pelo Tribunal de Justiça Militar ao qual se encontra vinculado o juízo sentenciante, mesmo que seja para anular o decisum em razão da incompetência absoluta.
+- Conflito de competência conhecido. Competência do Tribunal suscitado.
+(CC n. 20.986/MG, relator Ministro Vicente Leal, Terceira Seção, julgado em 14/4/1999, DJ de 24/5/1999, p. 91.)
+Portanto, o recebimento da denúncia, em 2019, por juiz absolutamente incompetente, não produz efeito interruptivo da prescrição. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO TENTADO. PRESCRIÇÃO. ART. 109, III, DO CP. SÚMULA 497/STF. NÃO OCORRÊNCIA. MARCO INTERRUPTIVO. DESLOCAMENTO DE COMPETÊNCIA. RECEBIMENTO DA DENÚNCIA NO JUÍZO COMPETENTE. LAPSO PRESCRICIONAL NÃO SUPERADO. AGRAVO IMPROVIDO.
+1. Conforme a jurisprudência desta Corte, o recebimento da denúncia, quando emanado de autoridade incompetente, é ato absolutamente nulo. Tendo havido o deslocamento da competência da Justiça Militar para a Justiça comum, deve ser considerado como marco interruptivo da prescrição o recebimento da denúncia pelo Juízo competente. O ato emanado de autoridade incompetente, absolutamente nulo, não produz efeito como marco interruptivo da prescrição.
+ ..
+3. Agravo regimental improvido.
+(AgRg no RHC n. 138.064/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 3/8/2021, DJe de 9/8/2021.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXPLORAÇÃO DE JOGO DE AZAR (ARTIGO 50, § 1º, DO DECRETO-LEI 3.688/1941). TRANCAMENTO DA AÇÃO PENAL NO TOCANTE AO DELITO DE QUADRILHA. COMPETÊNCIA DO JUIZADO ESPECIAL PARA PROCESSAR E JULGAR A CONTRAVENÇÃO PENAL. NULIDADE DOS ATOS DECISÓRIOS. EXTINÇÃO DA PUNIBILIDADE. OCORRÊNCIA. PROVIMENTO DO RECURSO.
+1. Reconhecida a inépcia da inicial quanto ao ilícito disposto no artigo 288 do Código Penal, e não havendo dúvidas de que o Juízo Comum era absolutamente incompetente para deliberar sobre a contravenção penal prevista no artigo 50, § 1º, do Decreto-lei 3.688/1941, imperiosa a anulação dos atos decisórios praticados, notadamente o recebimento da vestibular, os quais deverão ser renovados ou ratificados perante o do Juizado Especial Criminal, competente para processar e julgar a exploração de jogos de azar. Precedente.
+2. Doutrina e jurisprudência são uniformes no sentido de que o recebimento da denúncia por magistrado absolutamente incompetente não interrompe o curso do prazo prescricional.
+3. Tomando-se por base a pena máxima em abstrato cominada à contravenção penal imputada aos recorrentes, 1 (um) ano e 4 (quatro) meses, entre a data dos fatos (18.5.2006) até o presente momento já transcorreu período de tempo superior a 4 (quatro) anos (artigo 109, inciso V, do Estatuto Repressivo), razão pela qual deve ser reconhecida a prescrição da pretensão punitiva em sua modalidade retroativa (artigo 110, §§ 1º e 2º, do Código Penal, na redação anterior à Lei 12.034/2010).
+4. Recurso provido para, reconhecendo a nulidade do recebimento da denúncia por magistrado absolutamente incompetente, declarar extinta a punibilidade dos recorrentes em razão da prescrição da pretensão punitiva estatal.
+(RHC n. 29.599/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 11/6/2013, DJe de 20/6/2013.)
+Isso posto, com fulcro no art. 34, CC, c/c art. 202 e art. 246 do Regimento Interno do STJ, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
