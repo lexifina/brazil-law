@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LEONARDO ALVES PACHECO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que denegou o HC n. 2045870-63.2025.8.26.0000 (fl. 8):
+Habeas Corpus. Tráfico. Apreensão de pouco menos de meio quilo de estupefacientes. Réu reincidente. Prisão preventiva bem fundamentada. Ordem denegada.
+Consta dos autos que o paciente foi preso em flagrante, em 14/2/2025, após abordagem policial em região conhecida como ponto de venda de drogas, em que foram encontrados entorpecentes no veículo e posteriormente em sua residência (451 g de maconha e 5,3 g de cocaína)
+Alega a defesa que foi mantida a custódia cautelar do paciente em decisão que viola a jurisprudência consolidada do STJ e STF, especialmente quanto à ilegalidade da abordagem policial sem fundada suspeita e à violação de domicílio sem mandado judicial (fls. 4/5).
+Sustenta que a simples fuga ao notar a presença policial não justifica abordagem sem qualquer elemento concreto de suspeita, conforme entendimento do STF no Tema 280 da Repercussão Geral (fl. 4).
+Afirma que a busca pessoal e domiciliar foi realizada com base em testemunhos dos policiais, sem elementos concretos de suspeitas fundadas, configurando abuso de autoridade e nulidade da prova obtida (fls. 4/5).
+Destaca que a entrada dos policiais na residência do paciente sem mandado judicial afronta diretamente o art. 5º, inciso XI, da Constituição Federal e jurisprudência do STJ (fl. 5).
+Requer, em liminar, a revogação da prisão preventiva e, no mérito, a concessão definitiva da ordem, reconhecendo a ilegalidade da abordagem e da invasão domiciliar.
+É o relatório.
+Não visualizo a presença de aludida ilegalidade, considero que o contexto em que ocorrida a apreensão demonstra a justa causa para a abordagem, em situação de fuga e perseguição, e consequente ingresso em domicílio, no qual foram localizados mais entorpecentes (fl. 9):
+ ..  a abordagem policial teria acontecido, segundo o relato de dois policiais militares, porque ele dirigia o veículo em região que era patrulhada justamente por ser ponto de venda de entorpecente, procurou evadir-se dos policiais, justamente para evitar ser abordado, tal comportamento gerou suspeita e motivou a perseguição e, na sequência, a busca no interior do veículo onde encontraram entorpecentes. Além disso, a abordagem em si só teria acontecido defronte da residência do réu na qual os policiais penetraram em virtude da fundada suspeita decorrente dos fatos até então verificados, ou seja, a fuga e apreensão de entorpecente no interior do imóvel, como dito, foi encontrado mais droga. Diante de toda essa situação entendo que prematura boa análise perfunctória acerca da diligência policial que se vislumbra regular.  ..  (fls. 55/56 da origem).
+Com efeito, tem decidido esta Corte que a fuga do paciente ao avistar a equipe policial constitui elemento suficiente para configurar fundada suspeita, justificando a abordagem e a realização de busca pessoal, conforme jurisprudência consolidada desta Corte Superior (RHC n. 158.580/BA e AgRg no HC n. 913.025/SP) - (HC n. 809.094/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Com relação à prisão preventiva está devidamente justificada, considerando tratar-se de paciente reincidente, com condenação definitiva por roubo majorado tentado e corrupção de menores, estando, ao que parece, ainda em pleno cumprimento de pena (vide certidão a fls. 49/51 da origem) - fl. 10.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA. EXISTÊNCIA. FUGA AO AVISTAR OS POLICIAIS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. REINCIDENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ indeferido liminarmente.
