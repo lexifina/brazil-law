@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se embargos de declaração opostos por TECNOCASA LTDA contra acórdão que negpu provimento ao agravo interno, nos termos da seguinte ementa (e-STJ, fls. 1081):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.
+1. Ação rescisória.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. 3. Agravo interno não provido.
+Nas razões do presente recurso, a parte embargante afirma que o acórdão embargado não enfrentou as teses suscitadas no agravo interno, que apontaram a existência de omissões relevantes no acórdão proferido pelo Tribunal de origem. Outrossim, reitera as omissões apontadas e a existência de violação do art. 1.022 do CPC.
+Requer, assim, o acolhimento dos embargos de declaração, com efeitos infringentes, para que sejam sanadas as omissões e dado provimento ao recurso especial.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Verifica-se, nessa linha, que a questão apontada pela parte embargante, resume-se a pedido de reanálise das suas razões apresentadas no agravo interno, não se constituindo, portanto, em pontos omissos, contraditórios ou obscuros do julgado, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+De fato, o acórdão foi claro ao negar provimento ao agravo interno para manter a decisão monocrática que afastou a tese de violação do art. 1.022, II, do CPC.
+Conforme abordado tanto na decisão monocrática quanto no julgamento do agravo interno, o Tribunal de origem tratou devidamente dos pontos alegadamente omissos, inexistindo omissão a ser reconhecida por esta Corte Superior.
+Assim, revela-se nítida a pretensão da parte embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso.
+Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto erro de julgamento, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Desse modo, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Por fim, advirto a parte de que a futura interposição de recursos ou medidas protelatórias ensejará a aplicação de multa.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
