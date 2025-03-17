@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de RICARDO SOUZA COSTA contra acórdão assim ementado (fl. 10):
+HABEAS CORPUS. ESTELIONATO (ARTIGO 171, CAPUT, DO CÓDIGO PENAL). PLEITO DE TRANCAMENTO DE AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA DA AÇÃO PENAL. TRANCAMENTO DA DEMANDA. CASOS EXCEPCIONAIS. PRECEDENTES DAS CORTES SUPERIORES. ALEGAÇÕES QUE DEMANDAM AMPLA DILAÇÃO PROBATÓRIA E REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA, INCABÍVEL NA VIA ESTREITA DO WRIT. PRECEDENTES JURISPRUDENCIAIS. INDÍCIOS QUE DÃO SUSTENTAÇÃO AO DESENVOLVIMENTO REGULAR DA AÇÃO PENAL. MAGISTRADO DE PISO QUE ESTÁ MAIS PRÓXIMO DA PROVA PRODUZIDA, PODENDO ANALISAR COM MAIOR ACURÁCIA O ARCABOUÇO FÁTICO DOS AUTOS E AS ALEGAÇÕES DE INCONGRUÊNCIA DE DEPOIMENTOS, IMPOSSIBILIDADES MATERIAIS DE OCORRÊNCIA DO FATO, ET COETERA. ENXOVIA QUE SE ENCONTRA SUFICIENTEMENTE FUNDAMENTADA. PRESENÇA DE FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS. PACIENTES, COMO CITADO NA PRÓPRIA INICIAL, QUE POSSUEM OUTRAS ANOTAÇÕES POR DELITOS SIMILARES, O QUE CONSTITUI INCONTESTÁVEL AMEAÇA À ORDEM SOCIAL. PRECEDENTES JURISPRUDENCIAIS. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. DESIGNAÇÃO DE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO PARA 25/02/2025 QUE SE MOSTRA DESARRAZOADA, POR SE TRATAR DE RÉUS PRESOS. "PRIVILÉGIO DE PAUTA" QUE DEVE SER IMPLEMENTADO. ORDEM CONHECIDA E DENEGADA, COM DETERMINAÇÃO À AUTORIDADE DITA COATORA.
+O paciente foi denunciado e preso preventivamente por estelionato (art. 171, caput, c/c art. 69, ambos do Código Penal).
+Sustenta a defesa que a prisão preventiva foi mantida sob fundamentação genérica, violando o art. 312 do Código de Processo Penal, e que o paciente é tecnicamente primário, possui residência fixa e atividade laborativa lícita, além de ser responsável pela filha menor de 12 anos.
+Alega que a prisão preventiva viola os princípios da proporcionalidade e da homogeneidade, pois o delito imputado não envolve violência ou grave ameaça, sendo desproporcional à eventual pena a ser aplicada em caso de condenação.
+Afirma que a manutenção da prisão preventiva configura excesso desproporcional, especialmente diante da possibilidade de aplicação de medidas cautelares alternativas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, com aplicação de medidas cautelares diversas da prisão.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verifica-se que o presente writ é mera reiteração do RHC 204.343/RJ, conexo a este, tendo sido negado provimento ao recurso por decisão publicada em 18/9/2024.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
