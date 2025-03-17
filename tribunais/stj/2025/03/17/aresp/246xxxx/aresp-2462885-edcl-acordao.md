@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+Impedido o Sr. Ministro Marco Buzzi.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LIRIO GIONGO e OUTROS contra o v. acórdão, proferido pela eg. Quarta Turma, assim ementado (e-STJ, fls. 4367-4368):
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEFICÁCIA DE ACORDO JUDICIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPOSSIBILIDADE DE DECLARAR INEFICÁCIA DO ACORDO. OFENSA À COISA JULGADA. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, não houve violação do art. 1.022 do CPC/2015, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada.
+2. A alegação de fraude à execução apreciada em processo distinto não foi objeto de debate nas instâncias ordinárias, uma vez que somente foi suscitada nas razões do agravo em recurso especial, resultando em inovação recursal e manifesta ausência de prequestionamento, situação que inviabiliza a apreciação por esta Corte Superior, nos termos da Súmula 211 do STJ.
+3. O Tribunal de Justiça, analisando as circunstâncias do caso, consignou que a pretensão de se ver declarada a ineficácia do acordo judicial encontra óbice nos limites da sentença proferida nos Embargos de Terceiro, uma vez que a análise do pedido implica violação reflexa da coisa julgada. Nesse contexto, a pretensão de modificar o entendimento firmado, no tocante à violação da coisa julgada, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento."
+Nas razões dos aclaratórios (e-STJ, fls. 4380-4392), a parte embargante afirma que houve omissão no julgado, afirmando que: a) não foi analisada a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015; b) não houve manifestação acerca da ofensa à coisa julgada; c) não incide a Súmula 211/STJ em relação às questões de ordem pública; d) não se manifestou acerca da violação dos arts. 674, 677 e 681 do CPC/2015; e e) não incide o óbice da Súmula 7/STJ.
+Impugnação apresentada às fls. 4397-4408, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, a parte embargante aponta omissão no acórdão proferido por esta Quarta Turma, afirmando que: a) não foi analisada a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015; b) não houve manifestação acerca da ofensa à coisa julgada; c) não incide a Súmula 211/STJ em relação às questões de ordem pública; d) não se manifestou acerca da violação dos arts. 674, 677 e 681 do CPC/2015; e e) não incide o óbice da Súmula 7/STJ.
+Com efeito, no julgamento do agravo interno, assim ficou assentado no acórdão embargado (e-STJ, fls. 4370-4375):
+"A irresignação não comporta provimento.
+Historiam os autos que LIRIO GIONGO, VERA LUCIA GIONGO e RAFAELA GIONGO FREITAS ajuizaram ação declaratória de ineficácia de acordo judicial homologado em relação aos autores e seu patrimônio, cumulada com desconstituição de penhora, em face de STELA MARA DO VALLE VIEIRA MACHADO, WLAMIR RESENDE MELLO e ESPÓLIO DE LEOCADIA DE CARVALHO MELLO, afirmando que, em síntese, " por não terem participado do acordo homologado na ação ordinária de cobrança n.
+9801624795, bem como em razão do reconhecimento da prescrição na ação anulatória de ato jurídico, o referido acordo, na visão dos autores, não seria oponível a eles, bem como não alcança o imóvel que adquiriram em 1999" (fl. 3675).
+O il. Magistrado de piso, por sua vez, julgou extinto o processo, sem resolução do mérito, nos termos do art. 485, V, do Código de Processo Civil de 2015, pois, "na verdade, o que os autores pretendem discutir já foi decidido na ação de embargos de terceiro n. 201104048277, oportunidade em que houve julgamento, com resolução de mérito, portanto, criando coisa julgada material, com a finalidade de julgar improcedentes todos os pedidos formulados pelos autores naquele feito, os quais são os mesmos autores da presente demanda, bem como há similitude entre os pedidos, conforme abordado acima" (fl. 3676).
+Irresignados, LIRIO GIONGO, VERA LUCIA GIONGO e RAFAELA GIONGO FREITAS apresentaram apelação, tendo o eg. Tribunal de Justiça do Estado de Goiás negado provimento ao recurso, em acórdão assim ementado (fl. 3906):
+(..)
+Logo após, foram opostos embargos de declaração, os quais foram rejeitados, vide acórdão de fls. 3968-3974.
+Inconformados, LIRIO GIONGO, VERA LUCIA GIONGO e RAFAELA GIONGO FREITAS interpuseram recurso especial, com arrimo na alínea "a" do permissivo constitucional, apontando violação dos arts. 1.022, II, 485, V, 502, 504, 505, 506, 507, 508, 674, 677, 681 e 790, V, do CPC/2015:
+i) o acórdão estadual padece de omissão em relação a pontos importantes para o deslinde da controvérsia;
+ii) não há que se falar em ofensa à coisa julgada, pois, no caso, a ação se presta à declaração de ineficácia/nulidade do acordo judicial e a decisão transitada em julgado se limitou à possibilidade de constrição patrimonial; e iii) a questão referente à simulação estava protegida pelo manto da coisa julgada, haja vista o trânsito em julgado do AgInt. no REsp 1.468.433/GO, que não pode ser ultrapassado;
+e iv) "ao desconsiderar a inexistência de coisa julgada, o eg. Tribunal de origem avançou na discussão relativa à possibilidade de atingimento do patrimônio dos Recorrentes pela medida constritiva, sem se atentar para o fato de que, na verdade, o acordo judicial resta eivado de ilegalidade e que a pretensão de afetação do patrimônio dos Recorrentes por suposto reconhecimento de simulação do negócio jurídica era direito já fulminado pela prescrição/decadência, reconhecida no REsp n. 1.468.433/GO, com trânsito em julgado reconhecido" (fl. 4021).
+Sobreveio decisão inadmitindo o recurso especial, sendo interposto, em sequência, agravo em recurso especial, que fora conhecido para negar provimento ao recurso especial, por decisão desta Relatoria, às fls. 4296-4300, impugnada pelo presente agravo interno.
+De início, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. Tribunal de Justiça do Estado de Goiás analisou os pontos essenciais ao deslinde da controvérsia dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do agravante. Nesse sentido, destaca-se recente julgado:
+(..)
+Com efeito, o v. acórdão recorrido encontra-se assim fundamentado (e-STJ, fls. 3.901-3.902):
+(..)
+Do trecho acima transcrito, extrai-se que o Tribunal de Justiça reconheceu a inutilidade do provimento jurisdicional pretendido, uma vez que houve o reconhecimento de fraude à execução a inquinar de ineficaz o negócio jurídico de compra e venda havido entre os ora agravantes e a Sra. Leocádia de Carvalho Mello em 2000.
+Essa decisão que reconheceu a fraude à execução não é alcançada pela pretensão veiculada na presente demanda, de modo que a alegada invalidade ou ineficácia do acordo homologado, por si só, não asseguraria o resultado pretendido, faltando-lhe o interesse processual na modalidade utilidade.
+Desse modo, não se cogita de vícios de fundamentação, tampouco omissão, uma vez que os fundamentos indicados pelo acórdão, de forma clara e coerente, são suficientes a amparar sua conclusão, ainda que não tenham sido enfrentadas individualmente todas as teses expostas pelos ora agravantes.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Assim, é de rigor o afastamento da alegação de violação do art. 1.022 do CPC/2015.
+Ultrapassada essa preliminar, verifica-se ainda que o recurso especial está calcado no argumento de que a ação declaratória teria o condão de demonstrar que o acordo impugnado fora pactuado com o intuito de contornar outra decisão judicial, que havia reconhecido a prescrição da pretensão de anulação de compra e venda por fraude ou simulação, a qual também transitou em julgado, porém posteriormente aos próprios embargos de terceiros. Trata-se do REsp 1.468.433/GO, já apreciado pela col. Quarta Turma, nos termos da seguinte ementa:
+(..)
+Todavia, denota-se que o referido acórdão da Quarta Turma não apreciou a questão de eventual fraude à execução, a qual foi reconhecida em outra demanda. A propósito, deve-se esclarecer que o recurso especial julgado em 2017 foi tirado de uma terceira demanda, proposta pelos ora agravados com o objetivo de anular o próprio contrato de compra e venda da propriedade imóvel. Logo, não se analisou a questão de eventual fraude à execução, mas tão somente fraude contra credores, institutos que não se confundem.
+Além disso, esse argumento trazido em agravo em recurso especial não foi objeto de manifestação pelo acórdão de origem, tampouco foi oportunamente apontado entre as omissões indicadas em embargos de declaração, o que também afasta a possibilidade de conhecimento do recurso especial, em razão da ausência de prequestionamento (Súmula 211/STJ).
+Em conclusão, o Tribunal de origem, quanto à coisa julgada em relação à possibilidade de penhora da Fazenda Ariranha, assim se manifestou:
+(..)
+Da leitura do excerto acima transcrito, verifica-se que o Tribunal de origem consignou que "a pretensão dos apelantes de ver declarada a "ineficácia do acordo em relação ao patrimônio destes recorrentes", encontra óbice nos limites da sentença proferida nos Embargos de Terceiro, vez que a análise do pedido implica em violação reflexa da coisa julgada, justamente porque naqueles autos restou decidido que a Fazenda Ariranha, ainda que de propriedade dos apelantes, responderá ao débito como efeito inafastável do reconhecimento da fraude à execução" (fl. 3904).
+Assim, a pretensão de modificar o entendimento firmado, no tocante à violação da coisa julgada, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+(..)
+Desse modo, de fato, o recurso especial não merecia provimento, razão pela qual deve ser mantida a decisão agravada por seus próprios fundamentos.
+Com esses fundamentos, nego provimento ao agravo interno.
+É como voto." (grifou-se)
+Evidencia-se, pois, que os embargos de declaração em apreço representam mera tentativa de rediscutir temas devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+Como dito, os aclaratórios constituem recurso de estritos limites processuais cujo cabimento requer estejam presentes os pressupostos legais insertos no art. 1.022 do CPC/2015.
+Tal recurso, portanto, é incompatível com a pretensão de se obter efeitos infringentes.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
