@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/03/2025 a 17/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fls. 794/795):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA SUCUMBENTE. ACÓRDÃO QUE REGISTROU A OBSERVÂNCIA DOS CRITÉRIOS LEGAIS DE FIXAÇÃO DA VERBA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A alegação genérica de violação do art. 535 do CPC/1973, sem demonstração de qual questão de direito não foi abordada ou estaria deficientemente fundamentada no acórdão proferido em sede de embargos de declaração e sua efetiva relevância para fins de novo julgamento pela Corte de origem é situação que não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. A Primeira Seção desta Corte, no julgamento do R Esp 1.155.125/MG, submetido ao rito previsto no artigo 543-C do CPC/1973, firmou a compreensão de que "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade".
+4. Em regra, não é admitida a revisão de honorários advocatícios na via especial ante o óbice contido na Súmula 7/STJ, salvo se o valor fixado for exorbitante ou irrisório, excepcionalidade essa não configurada nos presentes autos.
+5. Agravo interno não provido.
+Os embargantes alegam, em suma, que o julgado embargado deixou de considerar a demonstração, feita no agravo interno, de que (i) o Recurso Especial efetivamente apontou a omissão que buscava suprir, de forma que deveria ter sido afastada a aplicação da súmula 284 do STF, e (ii) que, para rever o quantum fixado a titulo de honorários advocatícios, no caso, não é necessária a revisão do acervo fático-probatório.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Registra-se, inicialmente, que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2015.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, verifica-se que o acórdão embargado decidiu a controvérsia de forma clara e fundamentada, ao assentar que (fls. 800/801):
+No que diz com a alegação de violação do art. 535 do CPC/1973, a recorrente deixou de demonstrar qual questão de direito não foi abordada ou estaria deficientemente fundamentada no acórdão proferido e qual sua efetiva relevância para fins de novo julgamento pela Corte de origem. Assevera apenas, as fls. 294/295, ter oposto Embargos de Declaração, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito.
+Adiante, no pertinente à fixação da verba honorária, o Tribunal de origem, após ampla análise do conjunto fático-probatório, firmou a seguinte compreensão (fls. 245/246):
+Primeiramente, quanto ao recurso dos executados-agravantes, não há que se falar em omissão, pois a verba honorária fixada em cinco mil reais atende ao comando do § 4º do artigo 20 do CPC, que remete ao § 3º do mesmo dispositivo legal. Contudo, nada nos autos justifica a condenação em verba honorária próxima a duzentos mil reais, em 1998. Analisando todas as diretrizes do artigo 20 do Código de Processo Civil, relativas ao grau de zelo do profissional, lugar da prestação do serviço, natureza e importância da causa, trabalho realizado e tempo exigido, além da equidade, o que se afigura correto é a condenação tal como fixada, mais do que suficiente para a remuneração adequada do patrono da causa, sem aviltar o sentido da sucumbência ou impor ônus excessivo ao vencido.
+Como assentado no decisum, na forma da jurisprudência do STJ, vencida a Fazenda Pública, para a fixação do quantum dos honorários advocatícios, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, §§3º e 4º, do CPC/1973, utilizando-se do juízo de equidade e podendo adotar como base de cálculo o valor da causa, o valor da condenação ou mesmo arbitrar valor fixo, não ficando adstrito aos percentuais legalmente previstos. Tal posicionamento já foi firmado, inclusive, sob o rito do art. 543-C do CPC/1973 (REsp 1.155.125/MG, Rel. Ministro Castro Meira, Primeira Seção, D Je 6/4/2010).
+Outrossim, é cediço que, no STJ, prevalece a orientação segundo a qual a fixação da verba honorária envolve a apreciação de matéria de ordem fática, de sorte que não se admite seu reexame na via especial, ante o óbice da Súmula 7 desta Corte Superior. Apenas excepcionalmente permite-se que o valor da verba honorária seja revisto no âmbito do recurso especial, desde que o montante fixado seja irrisório ou exorbitante, o que não é o caso dos autos.
+Ora, a mera discordância com a solução jurídica empregada no bojo do decisum embargado não dá ensejo à oposição de embargos de declaração, na medida em que tal modalidade recursal apenas ostenta efeito integrativo.
+As alegações do embargante não dizem respeito a vícios de integração constantes da decisão embargada, razão pela qual a sua não concordância com as teses nela sufragas deve ser manifestada na via recursal adequada.
+Isso posto, rejeito os embargos de declaração, considerando a inexistência dos vícios previstos no artigo 1.022 do CPC/2015.
+É como voto.
