@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ELIELSON ANDREY JOSE DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão e denegou a ordem, em acórdão de fls. 127-132.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da a segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+O Ministério Público Federal em parecer, às fls. 171-172, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista a suposta participação do recorrente em organização criminosa denominada Comando Vermelho" - fl. 130.
+Ora, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso.
+A propósito:
+"No caso, a prisão preventiva foi adequadamente motivada, tendo sido demonstrada pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta. O acusado tem, em tese, envolvimento com a organização criminosa "Comando Vermelho", cujas atividades nas Comarcas de Juiz de Fora e de Além do Paraíba se desenvolvem há mais de dois anos, ou seja, de forma habitual e por considerável tempo. Outrossim, sublinhou-se ser integrante ativo na facção, com papel relevante, responsável pelo depósito da cocaína comercializada, além de ter sido, em tese, o responsável por retirar as drogas da casa de outro integrante da facção, quando de sua prisão, em tentativa de auxiliar e evitar sua responsabilização por maior quantidade de entorpecentes.
+Tais circunstâncias autorizam a decretação da prisão preventiva pois, conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009).
+A prisão processual está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação"(AgRg no RHC n. 202.510/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 24/2/2025.)
+Nesse mesmo sentido, confiram-se alguns precedentes: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
