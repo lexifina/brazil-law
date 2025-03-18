@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. RAZÕES DE RECURSO QUE NÃO IMPUGNAM ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 182 DO STJ. NÃO CONHECIMENTO DO AGRAVO. ILEGALIDADE FLAGRANTE, CAPAZ DE ENSEJAR CONCESSÃO, DE OFÍCIO, DE HABEAS CORPUS. NÃO CONSTATAÇÃO.
+1. O agravo regimental pressupõe ataque individualizado a todos os fundamentos que deram base à decisão monocrática agravada. A ausência dessa impugnação específica atrai a aplicação da Súmula nº 182 do STJ, com o consequente não conhecimento do recurso
+2. Conforme previsão do art. 647-A, caput e parágrafo único, do Código de Processo Penal, a concessão de habeas corpus de ofício é de iniciativa do julgador. A atuação pressupõe a identificação de razão suficiente a isso ou, em outras palavras, de ilegalidade flagrante. Não se presta como subterfúgio para contornar deficiência de que se reveste a medida processual adotada pelo defensor e, assim, viabilizar, em qualquer hipótese, mesmo naquelas manifestamente inadmissíveis, a análise do mérito.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CÁSSIO ALEANO ALVES SARMENTO contra decisão que não conheceu de recurso ordinário em habeas corpus.
+Narrou o agravante que, embora tenha arrolado testemunha em resposta à acusação, uma delas não foi ouvida em audiência, apesar da insistência do defensor, registrada em ata.
+Apontou que, impetrado habeas corpus, sob a alegação de cerceamento de defesa, o Tribunal de Justiça de Minas gerais dele não conheceu (fls. 371/378).
+Nas razões do recurso em habeas corpus (fls. 386/410), discorreu sobre o cabimento de habeas corpus para questionar nulidades, mesmo que se trate de acusado que responde solto à ação penal. Reiterou que a testemunha constou do rol veiculado junto à resposta à acusação, argumentando que se trata de depoimento importante à elucidação do fato. Pediu o provimento do recurso para que lhe seja assegurado o direito de produzir a prova respectiva.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 448/452).
+Em decisão monocrática, não conheci do recurso (fls. 455/457).
+Em agravo regimental, o agravante reiterou as razões de recurso em habeas corpus (fls. 462/486).
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. RAZÕES DE RECURSO QUE NÃO IMPUGNAM ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 182 DO STJ. NÃO CONHECIMENTO DO AGRAVO. ILEGALIDADE FLAGRANTE, CAPAZ DE ENSEJAR CONCESSÃO, DE OFÍCIO, DE HABEAS CORPUS. NÃO CONSTATAÇÃO.
+1. O agravo regimental pressupõe ataque individualizado a todos os fundamentos que deram base à decisão monocrática agravada. A ausência dessa impugnação específica atrai a aplicação da Súmula nº 182 do STJ, com o consequente não conhecimento do recurso
+2. Conforme previsão do art. 647-A, caput e parágrafo único, do Código de Processo Penal, a concessão de habeas corpus de ofício é de iniciativa do julgador. A atuação pressupõe a identificação de razão suficiente a isso ou, em outras palavras, de ilegalidade flagrante. Não se presta como subterfúgio para contornar deficiência de que se reveste a medida processual adotada pelo defensor e, assim, viabilizar, em qualquer hipótese, mesmo naquelas manifestamente inadmissíveis, a análise do mérito.
+Agravo regimental não conhecido.
+VOTO
+A decisão que não conheceu do recurso em habeas corpus concluiu que o recurso somente é cabível quando o habeas corpus, na origem, é conhecido e denegado, hipótese não configurada neste caso.
+O agravo regimental, por sua vez, limita-se a negar esse fundamento.
+No mérito, ademais, a decisão monocrática rejeitou a alegação de ilegalidade flagrante, porque: i) a parte não indicou o endereço da testemunha por ocasião da resposta à acusação e, assim, a preclusão impediu a sua inquirição; ii) mesmo que houvesse endereço nos autos, o ônus de indica-lo na resposta à acusação persiste à parte, tarefa que não pode ser atribuída ao Judiciário; iii) não havia endereço certo nos autos, à vista das informações divergentes; iv) depois que a Secretaria certificou a ausência de endereço, a defesa peticionou nos autos, mas nada referiu quanto a esse ponto, de modo que se aperfeiçoou a preclusão; v) em ata de audiência, não constou a presença da testemunha; vi) o habeas corpus não se presta a revolver fatos e provas e, logo, não há como discutir - em descompasso com a ata - se a testemunha esteve ou não presente, bem como se, no contexto dos autos, sua oitiva era ou não imprescindível.
+O agravo regimental não impugnou, individualmente, todos esses pontos, mas apenas reiterou que o endereço poderia ser encontrado nos autos e que a testemunha estava presente na audiência.
+Essa deficiência de argumentação, seja porque se limitou a afirmar a possibilidade de recurso ordinário quando não conhecido o habeas corpus, quer porque, no mérito, apenas parte dos fundamentos da decisão monocrática foi atacado, atrai a aplicação da Súmula nº 182 do Superior Tribunal de Justiça, com o consequente não conhecimento do agravo regimental.
+Além disso, conforme previsão do art. 647-A, caput e parágrafo único, do Código de Processo Penal, a concessão de habeas corpus de ofício é de iniciativa do julgador. A atuação pressupõe a identificação de razão suficiente ou, em outras palavras, de ilegalidade flagrante. Não se presta como subterfúgio para contornar deficiência de que se reveste a medida processual adotada pelo defensor e, assim, viabilizar, em qualquer hipótese, mesmo naquelas manifestamente inadmissíveis, a análise do mérito.
+Confira-se:
+" ..  a concessão do writ, de ofício, isto é, por iniciativa dos juízes e Tribunais, deve ocorrer quando detectada, no curso do processo, ilegalidade flagrante, na forma do art. 654, § 2º, do CPP - o que não ocorreu, na espécie, em relação à matéria suscitada no recurso especial -, não se admitindo a sua invocação pela defesa como mecanismo para tentar driblar a não admissão do recurso interposto e, assim, se obter o pronunciamento judicial acerca do mérito recursal. Precedentes" (EDcl no AgRg no AREsp n. 2.696.799/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024 ).
+No caso, conforme exposto na decisão agravada, não se visualizou ilegalidade flagrante capaz de impor análise do mérito e, de ofício, concessão de ordem.
+Ante o exposto, não conheço do recurso.
+É o voto.
