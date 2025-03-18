@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, ofício encaminhado pela Secretaria Judiciária do Supremo Tribunal Federal, encaminhando decisão do Ministro Edson Fachin, nos autos do RExt 1.522.704/RJ, originado deste recurso especial.
+Aponta o Ministro que "importa ressaltar que este Supremo Tribunal Federal já teve a oportunidade de assentar que a morte do único advogado constituído nos autos impossibilita a devida intimação do acórdão, violando o contraditório e a ampla defesa" (fl. 566).
+Conclui, ainda, que "considerando eventual nulidade dos atos praticados no Superior Tribunal de Justiça e do trânsito em julgado da decisão, no que tange ao recurso especial, em decorrência do falecimento do representante do Embargante, ocorrido em 15.06.2023, faz-se necessário, antes do julgamento do apelo extremo, o reenvio dos presentes autos ao STJ para decidir a respeito" (fl. 567).
+O juízo oficiante determinou a remessa dos autos a este Superior Tribunal de Justiça para apreciação de eventual nulidade.
+É o relatório.
+Passo a decidir.
+Com efeito, nos termos da jurisprudência colacionada na decisão acima referida, o STJ também firmou entendimento no sentido de que a morte do único advogado constituído nos autos impossibilita a devida intimação da decisão proferida no recurso especial (fls. 511-515).
+Nesse diapasão, destaco os seguintes precedentes, in verbis:
+PROCESSO CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO COM TRÂNSITO EM JULGADO. PETIÇÃO INCIDENTAL. FALECIMENTO ANTERIOR AO JULGAMENTO DO ÚNICO ADVOGADO CONSTITUÍDO PELO AGRAVANTE. DOCUMENTAÇÃO COMPROBATÓRIA APRESENTADA PELOS NOVOS PATRONOS. DESCONSTITUIÇÃO DO TRÂNSITO EM JULGADO E RECONHECIMENTO DA NULIDADE DO ARESTO PROFERIDO. NOVO JULGAMENTO DO RECURSO. QUESTÃO DE ORDEM ACOLHIDA (QO no AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 5/11/2024, DJe de 11/11/2024).
+QUESTÃO DE ORDEM
+O EXMO. SR. MINISTRO HERMAN BENJAMIN: Eminente Ministro Presidente, eminentes pares, apresento esta Questão de Ordem em razão do que foi informado na Petição de fls. 724-725, e-STJ.
+Nela, o patrono substabelecido informa que, antes do julgamento do Agravo Interno no Agravo em Recurso Especial 1.783.528/SP, faleceu o advogado da parte agravante, seu empregador.
+O óbito do patrono da causa ocorreu em 4/5/2021 (certidão de óbito à fl. 736, e-STJ), e o acórdão desta Segunda Turma foi publicado em 3/8/2021. Apesar do substabelecimento do mandato para outros advogados, houve, no Agravo Interno, pedido expresso para que as intimações fossem realizadas em nome do advogado que faleceu, o Sr. Wilson Miguel (fl. 697, e-STJ).
+É entendimento firme desta Corte Superior que o falecimento do advogado da parte importa na imediata suspensão do processo e na invalidação de todos os atos processuais posteriormente praticados.
+A propósito: AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. MORTE DO ADVOGADO DA PARTE EXECUTADA. DESCONHECIMENTO DO FATO PELA OUTORGANTE E PELO JUÍZO. NULIDADE DOS ATOS POSTERIORMENTE PRATICADOS.
+1.Constitui efeito do falecimento do advogado da parte a suspensão do processo, revelando-se nulos os atos praticados em desfavor da outorgante, pois sobre eles não pode exercer qualquer direito de defesa.
+2. Caso concreto em que não se tem indícios de ciência acerca do falecimento do profissional pela parte por ele representada judicialmente, não se podendo presumir a omissão intencional desse fato, ou seja, a deslealdade processual da executada.
+3. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp n. 1.606.777/GO, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe de 16/5/2017) PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PEDIDO DE DEVOLUÇÃO DE PRAZO RECURSAL. FALECIMENTO DE ADVOGADO. COMUNICAÇÃO AO JUÍZO. NECESSIDADE DE RENOVAÇÃO DA INTIMAÇÃO. NULIDADE RECONHECIDA. AGRAVO INTERNO DESPROVIDO.
+1. Pleiteou-se no recurso especial a reforma do acórdão recorrido de modo a assegurar a devolução do prazo requerida pelo recorrente, orbitando a controvérsia em saber se, na espécie, justificava-se ou não a devolução do prazo recursal à parte insurgente tendo em vista o falecimento de seu patrono.
+2. A fundamentação da decisão ora agravada está balizada na jurisprudência desta Corte Superior consoante a qual a intimação realizada em nome exclusivo de advogado falecido, ainda que a parte seja representada por outros procuradores, prejudica a presunção de conhecimento do ato judicial e acarreta nítido prejuízo à defesa, o qual determina a declaração de nulidade do processo a partir desse ato (AgInt no REsp 1.536.420/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe 30/05/2017).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.386.696/SP, Rel. Min. Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, DJe de 21/9/2022) PROCESSUAL CIVIL. RECURSO ESPECIAL. MORTE DO ADVOGADO. SUSPENSÃO DO PROCESSO. NULIDADE DOS ATOS POSTERIORMENTE PRATICADOS. INTIMAÇÃO DE SENTENÇA. NOME DE ADVOGADO FALECIDO. NULIDADE. DEVER DE COMUNICAÇÃO SOBRE O FALECIMENTO DO PATRONO. INTERPRETAÇÃO RAZOÁVEL. RECURSO PROVIDO.
+1. A morte do advogado da parte impõe a imediata suspensão do processo, desde a ocorrência do fato, sendo nulos os atos processuais posteriormente praticados, ressalvadas as medidas de urgência determinadas pelo juiz (CPC, art. 265, I, c.c. art. 266).
+2. É nula a intimação da sentença realizada durante a suspensão do processo, sobretudo quando no ato processual consta apenas o nome de advogado falecido, sendo irrelevante o fato de que outros profissionais representavam a mesma parte, se os dados dos demais procuradores não constou da respectiva publicação. Precedentes.
+3. O ônus da parte em comunicar o falecimento de seu patrono deve ser interpretado cum grano salis, só se mostrando razoável sua exigência na hipótese em que inequívoca a ciência do falecimento do procurador, do que não cabe presunção.
+4. Recurso especial provido.
+(REsp n. 769.935/SC, Rel. Min. Raul Araújo, Rel. para acórdão Min. Antonio Carlos Ferreira, Quarta Turma, DJe de 25/11/2014) Por isso, proponho a invalidação do acórdão antes proferido por este colegiado, para que haja novo julgamento do Recurso com a representação processual da parte devidamente regularizada.
+É como voto (PET no AREsp n. 1.783.528/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2023, DJe de 24/1/2024).
+Diante do exposto, anulo a decisão de fls. 511-515 e determino: a) intimação dos novos advogados para apresentarem atual instrumento de mandato; e b) o retorno dos autos a este gabinete para nova análise do recurso especial interposto às fls. 343-394.
+Publique-se.
+Intimem-se.
+EMENTA
