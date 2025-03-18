@@ -1,0 +1,91 @@
+DECISÃO
+
+RECLAMAÇÃO. CONSTITUCIONAL. VINCULAÇÃO DE REAJUSTE À RECEITA MUNICIPAL. OFENSA AO INCISO IV DO ART. 167 DA CONSTITUIÇÃO DA REPÚBLICA. ALEGADA CONTRARIEDADE À SÚMULA VINCULANTE N. 42 DESTE SUPREMO TRIBUNAL: AUSÊNCIA DE IDENTIDADE MATERIAL. IMPOSSIBILIDADE DE UTILIZAÇÃO DE RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL: PRECEDENTES. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Reclamação ajuizada por Luiz André dos Santos, em 11.3.2025, contra o seguinte acórdão proferido pelo Tribunal de Justiça do Mato Grosso do Sul no Processo n. 0800773-18.2023.8.12.0027, pelo qual teria sido desrespeitada a Súmula Vinculante n. 42 do Supremo Tribunal Federal:
+
+    “RECURSO INOMINADO – PRELIMINARES – AUSÊNCIA DE FUNDAMENTAÇÃO – PRESCRIÇÃO – INCOMPETÊNCIA DO JUÍZO - VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - TODAS REJEITADAS – MÉRITO - AÇÃO DE COBRANÇA – SERVIDOR PÚBLICO MUNICIPAL – REAJUSTE FIXADO EM LEI MUNICIPAL – IMPOSSIBILIDADE DE VINCULAÇÃO À RECEITA MUNICIPAL – VIOLAÇÃO AO ARTIGO 167, IV DA CONSTITUIÇÃO FEDERAL – NECESSIDADE DE DOTAÇÃO ORÇAMENTÁRIA – LEI DE RESPONSABILIDADE FISCAL – SENTENÇA REFORMADA – RECURSO PROVIDO” (fl. 1, e-doc. 23).
+
+    Consta do sítio do Tribunal de Justiça do Mato Grosso do Sul que os embargos de declaração opostos contra essa decisão pendem de julgamento.
+
+    2. O reclamante sustenta que “o julgamento proferido pela Turma Recursal desrespeita a súmula vinculante n. 42-STF, além de não observar os preceitos analisados na reclamação n. 24.417-SP” (fl. 7).
+
+    Argumenta que, “com o objetivo de esquivar-se da súmula vinculante n. 42-STF, os requeridos aplicaram equivocadamente o art. 167, IV, da Constituição da República Federativa do Brasil. Em resumo, de forma tácita, reconhecem a validade e constitucionalidade do art. 92, § único, da Lei Complementar Municipal n. 20/2012, porém, se negam em aplicar dizendo que inexiste dotação orçamentária ou receita” (fl. 12).
+
+    Alega que “o que mais impressiona no acórdão é o erro grotesco em dizer que a lei municipal age corretamente em vincular a recomposição salarial dos servidores municipais no INPC, um índice FEDERAL. TAL AFIRMATIVA, PASMEM SENHORES MINISTROS, VIOLA DE FORMA LITERAL A SÚMULA VINCULANTE 42, DO STF, E NÃO VAI DE ENCONTRO AO QUE É DITO POR COERENTEMENTE PELO REQUERENTE, JÁ QUE O REAJUSTE PRETENDIDO TEM COMO BASE UM ÍNDICE MUNICIPAL” (fl. 12).
+
+    Insiste que “o Município não concedeu o reajuste correto ao requerente porque simplesmente não quis, e pasmem, posteriormente revogou tal preceito dizendo que o parágrafo único do art. 92, da Lei Complementar n. 20/2012, seria inconstitucional por estar violando a SV 42-STF, mesmo ciente de que o índice de incremento real municipal é um índice municipal, e não federal” (fl. 12).
+
+    Acrescenta ter havido “um equívoco grave no acórdão ao interpretar o art. 167, IV, da Constituição da República Federativa do Brasil, em benefício do Município de Batayporã – MS, e em prejuízo do requerente, bem como dos preceitos fixados na súmula vinculante 42-STF, pois a concessão do índice municipal não fica proibido pela vedação prevista no art. 167, IV, da CF, pois nesta vedação constitucional prevê ser defeso a vinculação do imposto a órgão, fundo ou despesas, ressalvadas as obrigações constitucionais, como, por exemplo, com o repasse do Fundo de Participação dos Municípios – FPM os Município tem o dever constitucional de reter 15% para a educação e 15% para a saúde, remanescendo 70% do imposto para o Município gerir como bem quiser” (fl. 14).
+
+    Requer seja deferida “tutela de urgência, determinando a suspensão da ação n. 0800773-18.2023.8.12.0027, em trâmite na 1ª Turma Recursal Mista dos Juizados Especiais do Egrégio Tribunal de Justiça do Estado de Mato Grosso do Sul, até o trânsito em julgado da decisão de mérito a ser proferida no presente caso” (fl. 24).
+
+    Pede “seja julgado procedente o pedido da presente reclamação para cassar os efeitos do acórdão proferido pela 1ª Turma Recursal Mista dos Juizados Especiais do Egrégio Tribunal de Justiça do Estado de Mato Grosso do Sul, na ação n. 0800773-18.2023.8.12.0027, que contraria totalmente o entendimento firmado na súmula vinculante n. 42, do Supremo Tribunal Federal, determinando ainda que seja proferida nova decisão determinando reconhecendo em favor do requerente o direito ao reajuste do salário mediante a aplicação do incremento real da arrecadação municipal – Receita Corrente Líquida, nos moldes da sentença proferida em primeira instância na ação judicial n. 0800773- 18.2023.8.12.0027” (fl. 1).
+
+    Pede, ainda, “em sendo acolhido o pedido supracitado, ainda com base no art. 992 e 993, do Código de Processo Civil, seja determinando a 1ª Turma Recursal Mista dos Juizados Especiais do Egrégio Tribunal de Justiça do Estado de Mato Grosso do Sul o desprovimento do recurso interposto pelo requerido Município de Batayporã – MS, face a inexistência de violação a súmula vinculante n. 42, do Supremo Tribunal Federal, bem como do equívoco na interpretação do art. 167, IV, da Constituição da República Federativa do Brasil” (fl. 24).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    3. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como ocorre na espécie.
+
+    4. Põe-se em foco nesta reclamação se, ao dar provimento a recurso interposto pelo Município de Batayporã/MS para assentar que o art. 92 da Lei Municipal n. 20/2012 descumpre o inc. IV do art. 167 da Constituição da República, o Tribunal de Justiça do Mato Grosso do Sul teria desrespeitado o enunciado da Súmula Vinculante n. 42 deste Supremo Tribunal.
+
+    5. O instituto da súmula vinculante inaugurou hipótese de cabimento de reclamação para o Supremo Tribunal Federal, conforme disposto no § 3º do art. 103-A da Constituição da República.
+
+    A contrariedade a determinada súmula ou a sua aplicação indevida por decisão judicial ou ato administrativo possibilita a atuação do Supremo Tribunal Federal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar outra seja proferida, com ou sem a aplicação da súmula, conforme o caso.
+
+    Na Súmula Vinculante n. 42 do Supremo Tribunal Federal, dispõe-se ser “inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária".
+
+    6. Na espécie vertente, a autoridade reclamada deu provimento ao recurso interposto pelo Município de Batayporã/MS para reformar a sentença sob o argumento de que o art. 92 da Lei Municipal n. 20/2012 configuraria vinculação automática da recomposição salarial dos servidores à receita corrente líquida do Município em ofensa ao inc. IV do art. 167 da Constituição da República:
+
+    “Assim, superadas as preliminares, passo a análise do mérito. Dispõe a Lei Complementar Municipal 020/2012: Art. 92. A política salarial para os servidores da Prefeitura Municipal de Batayporã terá como objetivo a recomposição da remuneração, em razão das perdas decorrentes da desvalorização da moeda, e a revisão de vencimentos fundamentado nos incisos X, XI e XII do art. 37 e no §1º do art. 39, ambos da Constituição Federal. Parágrafo Único - A recomposição e a revisão salarial que trata o caput deste art. serão realizadas anualmente, de acordo com o índice oficial de atualização monetária o INPC mais o índice de incremento real da arrecadação municipal – Receita Corrente Liquida, fixando como data base o mês de março de cada ano.
+
+    O autor pretende, portanto, o pagamento da diferença do reajuste a menor, pois não incluído no cálculo o índice de incremento real da arrecadação municipal – Receita Corrente Líquida.
+
+    A Lei Municipal acertadamente prevê o índice de recomposição salarial anualmente pelo INPC, conforme autoriza o art. 37, X, da Constituição Federal. Sucede que o legislador extrapolou os limites constitucionais de recomposição ao acrescer o índice de incremento real da arrecadação municipal - Receita Corrente Líquida, vulnerando o artigo 167, IV, da Constituição Federal: (...).
+
+    A vinculação automática da recomposição salarial dos servidores ao índice de incremento real da arrecadação municipal – Receita Corrente Liquida - viola a autonomia do Município ao vincular a receita com a despesa, ao passo que não se enquadra em nenhuma das ressalvas constitucionalmente previstas (saúde, educação e atividades da administração tributária). (...)
+
+    A doutrina em evidência deixa patente que a vinculação de receitas deve observar o modelo da Constituição Federal. Portanto, houve, no caso em julgamento, a extrapolação dessas vinculações. Logo, ocorre a inconstitucionalidade da norma municipal nesse aspecto. O Supremo Tribunal Federal, em caso similar, decidiu que ‘o reajuste automático de vencimentos dos servidores do Estado-membro, vinculado ao incremento da arrecadação do ICMS e a índice de correção monetária ofende ao disposto nos arts. 37, XIII; 96, II, b, e 167, IV, da Constituição do Brasil.’ (RE 218.874, rel. min. Eros Grau, j. 7-11-2007, P, DJ de 1º-2-2008.)’ Ante o exposto: A) rejeito as preliminares aventadas por ambas as partes; B) conheço do recurso interposto e, no mérito, dou-lhe provimento para julgar improcedentes os pedidos iniciais” (fls. 4-5, e-doc. 23, grifos nossos).
+
+    7. A decisão reclamada analisou a questão segundo o que dispõe o art. 167, inc. IV, da Constituição da República, assentando a inconstitucionalidade do art. 92 da Lei Municipal n. 20/2012 que vinculava o reajuste de vencimentos dos servidores municipais ao aumento da arrecadação municipal.
+
+    A Súmula Vinculante n. 42 deste Supremo Tribunal Federal não tem por objeto a vinculação de recomposição salarial de servidores à receita corrente líquida do Município.
+
+    Evidencia-se a ausência de identidade material entre o ato reclamado e o paradigma de descumprimento invocado, pelo que desatendidos os requisitos constitucionais da reclamação (al. l do inc. I do art. 102 e § 3º do 103-A da Constituição da República). Assim, por exemplo:
+
+    “EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 42. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE DE TEMAS ENTRE O ATO RECLAMADO E O PARADIGMA DESTA CORTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Os embargos de declaração opostos objetivando a reforma da decisão do relator, com caráter infringente, devem ser convertidos em agravo regimental, que é o recurso cabível, por força do princípio da fungibilidade. (Precedentes: Pet 4.837-ED, rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJ 14.3.2011; Rcl 11.022-ED, rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJ 7.4.2011; AI 547.827-ED, rel. Min. DIAS TOFFOLI, 1ª Turma, DJ 9.3.2011; RE 546.525-ED, rel. Min. ELLEN GRACIE, 2ª Turma, DJ 5.4.2011). 2. A ausência de identidade de temas entre o ato reclamado e o paradigma desta Corte conduz à inadmissão da Reclamação. 3. In casu: a) a decisão reclamada
+limitou-se a determinar a aplicação da legislação anterior à lei declarada inconstitucional; b) A Súmula Vinculante 42 dispõe ser inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária. Não há, pois, identidade material entre o ato reclamado e o paradigma desta Corte. 4. Agravo regimental desprovido” (Rcl n. 23.122-ED/SP, Relator o Ministro Luiz Fux, Primeira Turma, DJe 27.4.2016).
+
+    “Agravo regimental na reclamação. Súmula Vinculante nº 42. Ausência de aderência estrita entre o ato reclamado e o paradigma da Corte. Agravo regimental não provido. 1. A aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmas é requisito de admissibilidade da reclamação constitucional. 2. Os argumentos expedidos no agravo não são aptos a infirmar os fundamentos da decisão agravada. 3. Agravo regimental não provido” (Rcl n. 21.704/SP, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 20.3.2018).
+
+    “AGRAVO INTERNO NA RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE Nº 42. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE DE TEMAS ENTRE O ATO RECLAMADO E O PARADIGMA DESTA CORTE. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. NEGATIVA DE SEGUIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. A Súmula Vinculante nº 42 enuncia que ‘É inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária’. 2. Esta Corte assentou que constitui pressuposto de cabimento da reclamação a identidade material entre a decisão reclamada e o julgado tido como paradigma. (Rcl 6.534-AgR, Rel. Min. Celso de Mello, Plenário, DJe 17.10.2008, e Rcl 8.780-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe 11.12.2009). 2. In casu, o agravante alega que houve aplicação indevida da SV 42 no acórdão reclamado, que julgou procedentes embargos à execução, tendo em vista o trânsito em julgado do acórdão executado em data anterior à edição da referida súmula. 3. O enunciado sumular nada diz a respeito dos parâmetros temporais de sua aplicação ou intangibilidade da coisa julgada, revelando, assim, a inexistência de aderência estrita entre o ato reclamado e o verbete em apreço. 4. A reclamação não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade se revela estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedente: Rcl 4.381-AgR, Rel. Min. Celso de Mello, Plenário, DJe de 5/8/2011. 5. Agravo interno a que se nega provimento” (Rcl n. 24.126-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 2.12.2016).
+
+    8. O reclamante argumenta que, “com o objetivo de esquivar-se da súmula vinculante n. 42-STF, os requeridos aplicaram equivocadamente o art. 167, IV, da Constituição da República Federativa do Brasil. Em resumo, de forma tácita, reconhecem a validade e constitucionalidade do art. 92, § único, da Lei Complementar Municipal n. 20/2012, porém, se negam em aplicar dizendo que inexiste dotação orçamentária ou receita” (fl. 12).
+
+    Dos confusos argumentos trazidos pelo reclamante na petição inicial extrai-se que o que pretende é usar a reclamação como sucedâneo recursal. O objetivo da reclamação é a preservação da competência e a garantia da autoridade das decisões proferidas pelo Supremo Tribunal Federal, não se qualificando como sucedâneo recursal nem configurando instrumento processual viabilizador do reexame do conteúdo do ato reclamado. Assim, por exemplo:
+
+    “O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. – A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, l, da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes” (Rcl n. 4.381-AgR, Relator o Ministro Celso de Mello, Plenário, DJe 5.8.2011).
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. DIREITO ADMINISTRATIVO. AUSÊNCIA DE INDICAÇÃO DO PARADIGMA VINCULANTE OU DA USURPAÇÃO DE COMPETÊNCIA DO STF. PRETENSÃO DE REVISÃO DO MÉRITO DO ATO RECLAMADO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A Reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, I, l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal. 2. In casu, o Tribunal reclamado, no exercício de suas competências, deixou de conhecer agravo interno, ao argumento de que deveria ter sido manejado o agravo em recurso extraordinário. Não há que se falar, diante da circunstância narrada, em usurpação da competência desta Corte. Precedente: Rcl 28070 AgR, Relator Min. Alexandre de Moraes, Primeira Turma, DJe de 14/12/2017.3. A reclamação ‘não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual’
+(Rcl 4.381-AgR, Rel. Min. Celso de Mello, Tribunal Pleno, Dje de 05/08/2011). 4. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedente: Rcl 22.048-ED, Tribunal Pleno, DJe de 23/08/2016.5. Agravo regimental desprovido” (Rcl n. 31.239-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 8.11.2018).
+
+    “Agravo regimental em reclamação. 2. Direito Civil e Processual Civil. 3. Alegado descumprimento de decisão proferida por esta Corte. 4. Não ocorrência de nenhuma das hipóteses de cabimento previstas no art. 102, I, ‘l’, da Constituição Federal. 5. Reclamação como sucedâneo recursal. 6. Agravo regimental a que se nega provimento” (Rcl n. 28.917-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 9.4.2018).
+
+    Ausentes, na espécie, os requisitos processuais viabilizadores do regular trâmite desta reclamação.
+
+    9. Pelo exposto, nego seguimento à presente reclamação (§ 1º do art. 21 e parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal).
+
+    A negativa de seguimento à presente reclamação impediu a triangulação da relação processual, pelo que incabível a intimação eletrônica do beneficiário da decisão reclamada.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 18 de março de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
