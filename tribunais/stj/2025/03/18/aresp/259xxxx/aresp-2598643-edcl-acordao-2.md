@@ -1,0 +1,120 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO DO AGRAVADO PARA CONTRARRAZÕES E SOBRE INCLUSÃO EM PAUTA. DESNECESSIDADE. NULIDADE INEXISTENTE. OMISSÃO. VÍCIOS NÃO VERIFICADOS. REJEIÇÃO DOS EMBARGOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que deu provimento ao agravo regimental do Ministério Público Estadual, sob alegação de nulidade do julgamento e vícios de omissão.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar, inicialmente, se há nulidade procedimental a justificar a invalidação do julgamento do agravo regimental.
+3. Discute-se, no mérito, se há vício integrativo no acórdão que deu provimento ao agravo regimental interposto pelo Ministério Público Estadual, reformando a decisão monocrática que havia, de ofício, concedido ordem de habeas corpus para impronunciar os réus.
+III. Razões de decidir
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o julgamento do agravo regimental não depende de prévia intimação do agravado, ainda que o órgão colegiado reforme a decisão monocrática impugnada.
+5. A Terceira Seção desta Corte consolidou o entendimento de que o agravo regimental em matéria penal dispensa prévia inclusão em pauta e, por consequência, a necessidade de intimação da parte acerca da data de julgamento do recurso (EDcl no AgRg no AgRg no AREsp n. 2.421.452/SC, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+6. Os embargos de declaração visam suprir omissão, contradição, ambiguidade ou obscuridade, não se prestando para revisão do julgado por mero inconformismo.
+7. O acórdão embargado declinou claramente as razões para dar provimento ao agravo regimental interposto pelo Ministério Público, concluindo pela existência de relevante distinção a justificar a adaptação da jurisprudência do Superior Tribunal de Justiça a respeito do standard probatório exigido para fundamentar sentença de pronúncia.
+IV. Dispositivo e tese
+8. Embargos de declaração rejeitados.
+Teses de julgamento: 1. O julgamento do agravo regimental não depende de prévia intimação do agravado para oferecer contrarrazões; 2. Embargos de declaração não se prestam para revisão do julgado por mero inconformismo.
+Dispositivos relevantes citados: CPP, art. 619
+Jurisprudência relevante citada: STJ, AgRg no HC n. 663.881/SP, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, julgado em 18/5/2021.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARCOS ALMEIDA ARAUJO, contra acórdão desta Quinta Turma que deu provimento ao agravo regimental do Ministério Público do Estado de Minas Gerais, assim ementado (fls. 20994-20995):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SENTENÇA DE PRONÚNCIA. DECLARAÇÕES DE COLABORADOR PREMIADO E TESTEMUNHOS INDIRETOS. GRUPO DE EXTERMÍNIO. TEMOR DA COMUNIDADE LOCAL. DISTINGUISHING. AGRAVO REGIMENTAL PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão monocrática que concedeu habeas corpus de ofício para impronunciar os agravados, por ausência de suficientes indícios de autoria, e revogou as prisões preventivas decretadas no âmbito da ação penal.
+2. A decisão monocrática considerou que a sentença de pronúncia se apoiou apenas no relato de colaborador premiado e testemunhos de ouvir dizer, sem provas claras e convincentes para corroborar a hipótese de acusação.
+3. Defende o agravante que as particularidades do caso, que envolve atuação de grupo de extermínio com forte influência sobre comunidade local, justificam a realização de distinguishing, de modo a autorizar a pronúncia dos agravados com base em informações de colaborador premiado e testemunhos indiretos.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se, diante das especificidades do caso, é possível a pronúncia dos réus com base em testemunhos indiretos e relatos de colaborador premiado, considerando a atuação de uma organização criminosa que intimida a comunidade local e dificulta a obtenção de outras provas.
+III. Razões de decidir
+5. A jurisprudência desta Corte Superior é no sentido de que a prolação de sentença de pronúncia pressupõe, quanto à autoria, existência de provas claras e convincentes (clear and convincing evidence), capazes de corroborar, com elevada probabilidade, a hipótese acusatória, pelo que, em regra, não são suficientes os testemunhos indiretos.
+6. No caso há relevante distinção a justificar a adaptação da jurisprudência desta Corte Superior, uma vez que existem concretas circunstâncias fáticas indicando que os crimes em apuração foram praticados por organização criminosa temida pela comunidade local, que atua em atividade típica de grupo de extermínio, e que tem buscado interferir em apurações de forma a assegurar a impunidade de seus integrantes.
+7. Segundo precedente da 6ª Turma: "Apesar da jurisprudência desta Corte entender pela insuficiência do testemunho indireto para consubstanciar a decisão de pronúncia, entendo, excepcionalmente, que o presente caso, em razão de sua especificidade, merece distinguishing, pois extrai-se dos autos que a comunidade tem pavor dos denunciados, tendo em vista que eles constituem um grupo de extermínio com atuação habitual no local, razão pela qual não se prestaram a depor perante as autoridades policial e judicial." (AgRg no HC n. 810.692/RJ, relator Min. Sebastião Reis Júnior, Sexta Turma, DJe: 14/9/2023).
+8. Hipótese em que, a despeito da dificuldade de obtenção de provas, por envolver grupo de extermínio com forte influência sobre a comunidade local, foram os réus pronunciados com base em indícios de autoria que demonstram a idoneidade da tese acusatória, cabendo destacar a minuciosa declaração ofertada por colaborador premiado (ouvido extrajudicialmente e em juízo), declarações extrajudiciais do próprio filho de um dos réus e testemunhos indiretos sobre a motivação dos homicídios e atuação da organização criminosa.
+IV. Dispositivo e tese
+9. Provimento do agravo regimental do Ministério Público, para restabelecer a sentença de pronúncia e prisões preventivas nela amparadas.
+Tese de julgamento: "Particularidades do contexto fático, indicando que o crime de homicídio foi praticado por organização criminosa que atua em atividade típica de grupo de extermínio, provocando relevante temor na comunidade local, justifica o distinguishing em relação à jurisprudência consolidada da Corte, de modo a autorizar a pronúncia dos réus com apoio em testemunhos indiretos".
+Em suas razões (fls. 21137-21150), a parte embargante sustenta, preliminarmente, a nulidade do julgamento do agravo regimental, ante a ausência de prévia intimação da defesa para oferecimento de contrarrazões, assim como para ter ciência da data de realização da respectiva sessão de julgamento.
+Quanto ao mérito, defende que o acórdão é omisso no que toca aos seguintes pontos: a) ausência de apreciação da tese defensiva de atipicidade dos fatos, o que decorreria da circunstância de inexistir informações de sua participação na organização criminosa em período posterior à vigência da Lei n. 12.850/2013; b) não demonstração dos pressupostos legais que justificariam o restabelecimento da prisão preventiva.
+Contrarrazões do Ministério Público do Estado de Minas Gerais às fls. 21181-21183.
+Pede o embargante, ao final, o acolhimento dos aclaratórios, para sanar os supostos vícios apontados, de modo a anular o julgamento do agravo regimental, restabelecendo a decisão monocrática concessiva de habeas corpus de ofício.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO DO AGRAVADO PARA CONTRARRAZÕES E SOBRE INCLUSÃO EM PAUTA. DESNECESSIDADE. NULIDADE INEXISTENTE. OMISSÃO. VÍCIOS NÃO VERIFICADOS. REJEIÇÃO DOS EMBARGOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que deu provimento ao agravo regimental do Ministério Público Estadual, sob alegação de nulidade do julgamento e vícios de omissão.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar, inicialmente, se há nulidade procedimental a justificar a invalidação do julgamento do agravo regimental.
+3. Discute-se, no mérito, se há vício integrativo no acórdão que deu provimento ao agravo regimental interposto pelo Ministério Público Estadual, reformando a decisão monocrática que havia, de ofício, concedido ordem de habeas corpus para impronunciar os réus.
+III. Razões de decidir
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o julgamento do agravo regimental não depende de prévia intimação do agravado, ainda que o órgão colegiado reforme a decisão monocrática impugnada.
+5. A Terceira Seção desta Corte consolidou o entendimento de que o agravo regimental em matéria penal dispensa prévia inclusão em pauta e, por consequência, a necessidade de intimação da parte acerca da data de julgamento do recurso (EDcl no AgRg no AgRg no AREsp n. 2.421.452/SC, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+6. Os embargos de declaração visam suprir omissão, contradição, ambiguidade ou obscuridade, não se prestando para revisão do julgado por mero inconformismo.
+7. O acórdão embargado declinou claramente as razões para dar provimento ao agravo regimental interposto pelo Ministério Público, concluindo pela existência de relevante distinção a justificar a adaptação da jurisprudência do Superior Tribunal de Justiça a respeito do standard probatório exigido para fundamentar sentença de pronúncia.
+IV. Dispositivo e tese
+8. Embargos de declaração rejeitados.
+Teses de julgamento: 1. O julgamento do agravo regimental não depende de prévia intimação do agravado para oferecer contrarrazões; 2. Embargos de declaração não se prestam para revisão do julgado por mero inconformismo.
+Dispositivos relevantes citados: CPP, art. 619
+Jurisprudência relevante citada: STJ, AgRg no HC n. 663.881/SP, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, julgado em 18/5/2021.
+VOTO
+Apesar das alegações da parte embargante, razão não lhe assiste.
+De início, deve ser rejeitada a tese de nulidade do julgamento do agravo regimental por ausência de prévia intimação da defesa para oferecimento de contrarrazões.
+Isso porque a jurisprudência do Superior Tribunal de Justiça é no sentido de que o julgamento do agravo regimental não depende de prévia intimação do agravado, ainda que o órgão colegiado venha a reformar a decisão monocrática impugnada.
+Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO 11.302/2022. NULIDADE DA DECISÃO AGRAVADA PELA AUSÊNCIA DE INTIMAÇÃO PRÉVIA DO ORA AGRAVANTE. INEXISTÊNCIA. NOVO ENTENDIMENTO EXARADO POR OCASIÃO DO JULGAMENTO DO HC N. 890.929/SE. IMPOSSIBILIDADE DE CONCESSÃO DE INDULTO.
+1."A jurisprudência desta Corte já consolidou entendimento no sentido da desnecessidade de intimação da parte contrária para apresentar contrarrazões ao agravo interno/regimental, seja no caso de reconsideração da decisão agravada pelo próprio relator, seja no caso de reforma da decisão pelo órgão colegiado (EDcl no AgRg no AREsp 73.857/PA, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 20/8/2013)" (AgRg nos EDcl no HC n. 548.165/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe de 13/8/2020).
+ ..
+4 . Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 915.193/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2024, DJe de 5/9/2024, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME TIPIFICADO NO ART. 33, CAPUT, DA LEI N. 11.343/2006. NULIDADE. ARGUIÇÃO DE CONTRADITA DE TESTEMUNHA. ART. 214 DO CPP. PRECLUSÃO. DOSIMETRIA DA PENA. MAUS ANTECEDENTES. AÇÕES PENAIS DEFINITIVAS ALCANÇADAS PELO PERÍODO DEPURADOR DO ART. 64, I, DO CÓDIGO PENAL. POSSIBILIDADE. REINCIDÊNCIA. BIS IN IDEM. INOCORRÊNCIA. CONDENAÇÕES DISTINTAS EM CADA FASE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte já consolidou entendimento no sentido da desnecessidade de intimação da parte contrária para apresentar contrarrazões ao agravo regimental, que não depende de pauta nem prevê prévia intimação ou sustentação oral. É apresentado em mesa na primeira oportunidade. Inteligência da Lei 8.038/90 e do Regimento Interno do STJ (arts. 258 e 159. Precedentes: AgRg nos EDcl no HC 548.165/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/08/2020, DJe 13/08/2020; AgRg no AgRg no REsp 1832011/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/09/2020, DJe 22/09/2020; AgRg no RHC 140.756/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021 e AgRg nos EDcl no AgRg no AREsp 1740769/RN, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/02/2021, DJe 17/02/2021. Pedido de retirada de pauta inacolhido.
+ ..
+7. Agravo regimental improvido.
+(AgRg no HC n. 663.881/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/5/2021, DJe de 24/5/2021, grifei)
+Do mesmo modo, não há que se falar em nulidade decorrente da ausência de intimação da parte a respeito da data designada para realização da sessão de julgamento do agravo regimental, já que "A Terceira Seção desta Corte Superior consolidou o entendimento de que o agravo regimental em matéria penal deverá ser apresentado em mesa, dispensando, assim, a prévia inclusão em pauta e, consequentemente, a necessidade de intimação da parte acerca da data do julgamento do recurso" (EDcl no AgRg no AgRg no AREsp n. 2.421.452/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+As alegações de mérito tampouco permitem a modificação do acórdão embargado.
+Consoante o art. 619 do CPP, os embargos de declaração são cabíveis nas seguintes hipóteses:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão".
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Observa-se que o acórdão embargado declinou, claramente, as razões para dar provimento ao agravo regimental interposto pelo Ministério Público, concluindo pela existência de relevante distinção a justificar a adaptação da jurisprudência do Superior Tribunal de Justiça a respeito do standard probatório exigido para fundamentar sentença de pronúncia.
+A questão foi assim enfrentada por este órgão colegiado (fls. 21003-21011):
+" ..
+Com razão o agravante.
+Nada obstante, regra geral, testemunhos indiretos não sejam suficientes para amparar sentença de pronúncia, conforme firme entendimento desta Corte Superior, o caso apresenta particularidades que justificam conclusão diversa, de modo a autorizar o julgamento do mérito das imputações pelo Tribunal do Júri.
+Isso porque, de acordo com as instâncias ordinárias, os agravados integram perigosa organização criminosa, conhecida como "Irmandade" ou "Família", atuante no Município de Conselheiro Pena/MG, composta por fazendeiros, empresários, políticos, policiais militares e civis, que praticam crimes diversos, como extorsão, corrupção ativa e passiva e homicídios por encomenda, causando relevante temor na comunidade local, a ponto de impedir a produção de outras provas.
+Segundo consta do acórdão prolatado pelo Tribunal de origem, o grupo criminoso, cuja estrutura é dividida entre mandantes, agenciadores, apoiadores, fornecedores de armas, facilitadores (de evasão e de obstrução das investigações) e executores, sendo os dois últimos núcleos integrados (em regra) por agentes de segurança pública (policiais militares e civis, e agentes penitenciários), desempenharia típica atividade de grupo de extermínio, executando as vítimas que eram consideradas "inconvenientes".
+ ..
+O acórdão destaca, ainda, que há evidências de que um dos agravados (Marcos Antônio) chegou a tentar influenciar o julgamento, pelo Conselho de Sentença, de outros integrantes do grupo criminoso, denunciados em ação penal diversa.
+ ..
+Portanto, segundo aferido pelas instâncias ordinárias, não bastasse o temor que o grupo criminoso causava perante a comunidade local (nos termos das declarações prestadas em audiência por agentes policiais), haveria, ainda, concretas evidências no sentido de que a organização agiu para influenciar o resultado do julgamento de alguns de seus integrantes, ao ponto de ser anulado o julgamento e acolhido o pedido de desaforamento para comarca diversa.
+Nesse sentido, com razão o agravante ao argumentar a necessidade de se dar ao caso tratamento distinto quanto à exigência probatória para proferir sentença de pronúncia, sob pena de permitir que bem estruturada e perigosa organização criminosa atue de modo a impedir julgamento de crimes gravíssimos pelo órgão jurisdicional competente, que, na hipótese, é o Tribunal do Júri.
+ ..
+No caso, conforme defende o agravante, há, como visto, relevante distinção a justificar a adaptação da jurisprudência desta Corte Superior quanto à inviabilidade de pronúncia com base em testemunhos considerados "indiretos", já que existem circunstâncias fáticas concretamente demonstradas indicando que os crimes em apuração foram praticados por organização criminosa temida pela comunidade local, que atua em atividade típica de grupo de extermínio, e que tem buscado interferir nas apurações de forma a assegurar a impunidade de seus integrantes.
+ ..
+Destaque-se que não se está sugerindo, de forma alguma, qualquer tipo de retrocesso na linha jurisprudencial adotada por esta Corte, com a qual estou inteiramente de acordo (conforme assinalado na decisão ora agravada), no sentido de que a prolação de sentença de pronúncia pressupõe, quanto à autoria, existência de provas claras e convincentes (clear and convincing evidence), capazes de corroborar, com elevada probabilidade, a hipótese de acusação.
+Ocorre que este entendimento não pode desconsiderar realidade fática que revela a impossibilidade prática de obtenção de outras provas, para além de testemunhos indiretos (ou, como no caso, de informações de colaborador premiado), em razão da atuação de perigoso grupo criminoso que, de acordo com as informações colhidas na instrução, provocam pavor na comunidade local.
+ ..
+Percebe-se, assim, que, a despeito da natural dificuldade de obtenção de provas em contexto que envolve a noticiada existência de grupo de extermínio, foram os réus pronunciados com base em indícios de autoria que demonstram a idoneidade da tese acusatória, cabendo destacar, dentre aqueles acima listados, a existência de minuciosa declaração ofertada pelo colaborador premiado (que teria íntimo contato com os réus), que tudo confirmou ao ser ouvido em juízo, sob contraditório, declarações extrajudiciais do próprio filho de um dos réus, e testemunhos indiretos sobre a motivação do crime e atuação da organização criminosa." (grifei)
+Os argumentos da parte embargante (no sentido de que inexistiriam provas suficientes de sua participação na organização criminosa em período posterior à vigência da Lei n. 12.850/2013, a ensejar a atipicidade dos fatos que lhe são atribuídos) demonstram, apenas, sua discordância com a solução jurídica então encontrada, pretensão incabível na estreita via dos aclaratórios.
+Quanto ao ponto suscitado pelo embargante, acrescentou o acórdão ora impugnado (fls. 21010-21011):
+" ..
+Registro, por fim, que inexistem suficientes elementos nos autos para acolher a tese suscitada pelo Ministério Público Federal, ao oferecer parecer (fls. 20912-20936), de desclassificação do crime de organização criminosa para associação criminosa.
+Isso porque, em que pese a denúncia tenha por objeto homicídios praticados no ano de 2011 (antes, portanto, da edição da Lei n. 12.850/2013, que tipificou o crime de organização criminosa), o acórdão recorrido indica que o grupo criminoso continuou em atuação em período posterior à vigência da nova lei, o que justificou o aditamento, no ano de 2018, da denúncia originalmente ofertada.
+ ..
+Deste modo, tendo por base o contexto fático-probatório avaliado pelas instâncias ordinárias, e não sendo o recurso especial via adequada para aprofundada incursão probatória, considero inviável acolher a tese de desclassificação do crime de organização criminosa para associação criminosa, já que inexistente ilegalidade manifesta a ser reconhecida." (grifei)
+Ademais, cabe recordar que a decisão monocrática, reformada pelo agravo regimental interposto pelo Ministério Público Estadual, não conheceu dos agravos em recurso especial interpostos pelas defesas, diante dos seguintes fundamentos (fl. 20954):
+" ..
+Ocorre que os recorrentes ou não fazem qualquer impugnação aos motivos que levaram à inadmissão dos respectivos recursos, ou o fazem de modo genérico, descumprindo o ônus processual que lhes cabia para permitir o processamento dos apelos especiais.
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal. Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Acrescenta-se que, no julgamento do EAR Esp 746.775 (D Je 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Deste modo, nos termos da Súmula n. 182/STJ, os agravos não podem ser conhecidos." (grifei)
+Por óbvio, não tendo sido conhecidos os agravos em recurso especial, nos termos do entendimento consolidado na Súmula n. 182/STJ, não caberia ao órgão colegiado, por ocasião do julgamento do agravo regimental, que tinha por objeto exclusivamente a concessão de ofício da ordem de habeas corpus, adentrar no exame das teses veiculadas por meio dos recursos especiais inadmitidos.
+O embargante argumenta, ainda, que o acórdão teria sido omisso ao não se manifestar sobre os pressupostos legais que justificariam o restabelecimento da prisão preventiva, cuja implementação afrontaria os princípios da proporcionalidade e da homogeneidade, bem como a regra da contemporaneidade.
+Nesse ponto, importa destacar que o acórdão embargado não decretou a prisão preventiva do embargante, limitando-se a cessar os efeitos da decisão que havia concedido a ordem de habeas corpus de ofício; revertida a decisão, com a restauração da sentença de pronúncia, restou autorizado, naturalmente, o restabelecimento das prisões preventivas que dela decorriam.
+O contexto processual descrit o não exigia aprofundado exame das razões que ensejaram a decretação da prisão preventiva pelas instâncias ordinárias, razões estas que sequer foram alvo de debate no recurso especial interposto pela parte, cuja inadmissão foi confirmada nesta Corte.
+Constata-se, portanto, que não há vício a ser reparado, buscando o embargante, por via inadequada, a rediscussão dos fundamentos invocados pelo órgão colegiado para dar provimento ao agravo regimental interposto pelo Parquet.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
