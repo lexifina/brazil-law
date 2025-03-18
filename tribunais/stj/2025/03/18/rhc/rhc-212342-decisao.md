@@ -1,0 +1,26 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por LUCIMARE SEGATTO PIRES e ROBERTO CHAVES JUNIOR - denunciados pela prática, em tese, do crime de tráfico de drogas entre estados da Federação (Ação Penal n. 0008989-76.2024.8.13.0693) - contra o acórdão do TRIBUNAL DE JUSTIÇA DE MINAS GERAIS (Habeas Corpus n. 1.0000.24.514002-5/000), não comporta provimento.
+Com efeito, busca o recorrente o trancamento da ação penal com a rejeição da denúncia em razão da falta de justa causa, uma vez que ausente os indícios mínimos de autoria e materialidade delitiva, sendo, ainda, as quantidades de drogas encontradas compatíveis com o consumo pessoa l.
+Aduz que a decisão combatida não demonstra qualquer elemento ou mero indício, que vincule os pacientes à posse dos entorpecentes para fins de tráfico, não aponta a denúncia do Ministério Público, muito menos a decisão de primeiro grau, bem como a da própria decisão do Tribunal de Justiça, onde está configurada os meros indícios de mercancia (fl. 580).
+Pois bem. Do atento exame dos autos verifica-se que acórdão exarado pelo Tribunal a quo está de acordo com a jurisprudência do Superior Tribunal de Justiça no ponto ora impugnado.
+Quanto ao tema, o Tribunal de origem, ao denegar a ordem, concluiu (fls. 560/562 - grifo nosso):
+ ..
+Observa-se da documentação juntada que, no dia 1º de maio de 2024, Policiais Militares realizavam patrulhamento, momento em que deram ordem de parada ao veículo Honda Civic, cor preta, placa OOS-3B88, o qual estava sendo ocupado pelos presentes pacientes. Dessa forma, ao perceberem que Roberto apresentava certo nervosismo, os militares solicitaram que ambos desembarcassem do automóvel, sendo realizada a vistoria.
+Colhe-se dos autos que foram encontrados diversos entorpecentes no veículo, tais como cristais de maconha, 15 micro-pontos de LSD, tabletes de maconha, além de R$ 1.859,00 (mil oitocentos e cinquenta e nove reais).
+Em que pesem as relevantes argumentações do impetrante, observo que, em análise aos autos e documentações anexadas ao processo, verifica-se que há indícios suficientes de autoria e materialidade por parte de ambos os pacientes, e para que seja implementada a ação penal em seu desfavor, a lei processual contenta-se com esses indícios.
+ ..
+Ademais, alega, ainda, a impetração, que não há o mínimo indício de materialidade e autoria para que sejam os pacientes processados criminalmente, ou seja, induz, portanto, a ausência de autoria por parte dos pacientes, contudo, sabe-se os argumentos fáticos de negativa de autoria e, não podem ser analisados no estreitos limites do Habeas Corpus, por demandarem aprofundado exame de provas, configurando mérito da própria ação penal. Desta feita, também não é adequada a apreciação de tal matéria nesta via.
+Além disso verifico que, em análise a quantidade de entorpecente encontrado, além do dinheiro apreendido, a conduta se enquadra de forma clara no tráfico de entorpecentes.
+Noutro norte, em consonância com entendimento jurisprudencial e doutrinário, o trancamento da ação penal, em sede de habeas corpus, é medida excepcional, somente sendo admitido quando restar demonstrada, prima facie, sem necessidade de análise acurada das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade ou a ausência de justa causa (prova de materialidade e indícios de autoria).
+ ..
+Portanto, não é adequada a apreciação de tais matérias nesta via, em razão de ser uma ação de rito célere, que não admite dilação probatória e onde devem vir todas as provas do aduzido constrangimento, de forma pré-constituída. Além disso, tais análises, repita-se não são matérias condizentes com a desta medida judicial, conforme disposto em artigo 647 do Código de Processo Penal:
+ ..
+O trancamento de ação penal por meio da via eleita é medida excepcional, aplicável apenas quando estiver inequivocamente demonstrada a atipicidade da conduta, a presença de causa extintiva da punibilidade ou a inexistência de indícios de autoria ou de prova da materialidade do delito, o que não se verifica no presente caso.
+E conforme verifica-se dos autos, a denúncia não é genérica e preenche os requisitos do art. 41 do Código de Processo Penal, descrevendo o fato típico e adequando a conduta dos recorrentes ao crime de tráfico de drogas.
+Ademais, é inadmissível o enfrentamento da alegação acerca de negativa da autoria delitiva ou fragilidade probatória ante a necessária incursão probatória, incompatível com a via estreita do habeas corpus (AgRg no HC n. 897.031/ES, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN 24/2/2025).
+Assim, cabe ao juízo natural, na ação penal de conhecimento, sob o contraditório judicial, melhor examinar as teses defensivas ao longo da instrução processual, revelando-se prematuro o trancamento da ação penal neste momento.
+Em face do exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS ENTRE ESTADOS DA FEDERAÇÃO. APREENSÃO DE 15 MICRO-PONTOS DE LSD, 61,15 G DE MASSA BRUTA DE MACONHA E A QUANTIA DE R$ 1.859,00 EM NOTAS DIVERSAS. TRANCAMENTO DE AÇÃO PENAL. ALEGAÇÃO DE AUSÊNCIA DE JUSTA CAUSA. NÃO CONFIGURAÇÃO. INDÍCIOS MÍNIMOS DE MATERIALIDADE E AUTORIA. NECESSIDADE DE REEXAME PROBATÓRIO. INVIABILIDADE . CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
