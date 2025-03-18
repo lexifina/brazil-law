@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por ERBE INCORPORADORA 037 S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO nos autos da ação de indenização por danos decorrentes de vícios construtivos em imóvel residencial do "Programa Minha Casa Minha Vida" movida contra ela pela parte agravada.
+O julgado não conheceu do agravo de instrumento interposto pela agravante contra a decisão que reconsiderou a sentença extintiva da demanda, por não se enquadrar nas hipóteses de cabimento previstas no art. 1.015 do CPC e por não vislumbrar urgência no julgamento da matéria que justificasse a mitigação da norma.
+Sem embargos de declaração.
+No recurso especial, alega violação do art. 1.015 do CPC, um vez que a consequência lógica da manutenção dos efeitos da decisão agravada - risco de dispêndio financeiro desarrazoado para custeio de honorários periciais determinados em centenas de processos análogos ao em comento - caracteriza a urgência necessária para que a questão seja prontamente analisada.
+Postula, preliminarmente, a suspensão do do processo, em razão da afetação do REsp 2.021.665/MS (Tema 1.198/STJ), e o provimento do recurso.
+Foram oferecidas contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem, o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, a discussão objeto do presente recurso está centrada na inépcia da inicial, em virtude da ausência de especificação dos pedidos formulados, e à falta de interesse de agir, por ausência de prévio pedido administrativo.
+Dessa forma, não prospera o pedido de suspensão do feito em virtude da afetação do REsp 2.021.665/MS (Tema 1.198/STJ), que diz respeito, exclusivamente, à litigância predatória, questão não analisada no acórdão recorrido.
+Em relação à alegação de violação do art. 1.015 do CPC, a Corte Especial do Superior Tribunal de Justiça, na sessão realizada no dia 5/12/2018, decidiu, por maioria, no julgamento dos Recursos Especiais n. 1.696.396/MT e 1.704.520/MT, da relatoria da Ministra Nancy Andrighi, entendeu que o rol do referido dispositivo legal é de taxatividade mitigada; por isso, admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação (Tema 988/STJ).
+No caso em análise, acerca da demonstração da urgência, o Tribunal de origem assim se pronunciou:
+Portanto, resta claro que a legislação vigente não permite que se utilize o agravo de instrumento contra decisão que reconsidera a sentença que extinguiu o processo sem resolução de mérito.
+(..)
+Assim, com o advento da tese firmada pelo STJ, mostra-se imperioso verificar a urgência da matéria.
+No presente caso, não vislumbro a possibilidade de manejo do agravo de instrumento por ser excepcional a mitigação do art. 1.015 do CPC, razão pela qual não verifico a urgência decorrente da inutilidade do julgamento em recurso de apelação.
+A revisão desse entendimento, para acolher a tese recursal de que ficou demonstrada a urgência, demanda a análise do conteúdo fático-probatório dos autos, inviável nesta sede em razão da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULATÓRIA DE DÉBITO FISCAL. 1. INDEFERIMENTO DE PEDIDO DE UTILIZAÇÃO DE PROVA EMPRESTADA. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO NA ORIGEM. TEMA 988/STJ. APLICAÇÃO. UTILIDADE DO JULGAMENTO DA QUESTÃO POR OCASIÃO DO EVENTUAL RECURSO DE APELAÇÃO, A AFASTAR A URGÊNCIA APTA A FLEXIBILIZAR A TAXATIVIDADE DO ROL DO ART. 1.015 DO CPC. VERIFICAÇÃO. COMPREENSÃO UNÍSSONA NA ORIGEM. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. 2. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 372 E 373 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. VERIFICAÇÃO. 3. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com a tese firmada no Tema 988/STJ, "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação. Ao contrário do que alegada a parte insurgente - e esta circunstância restou bem definida na origem -, o julgamento da questão atinente à utilização de prova emprestada, caso remanesça o interesse da parte na sua produção, encontra-se absolutamente hígido, em eventual recurso de apelação. É dizer: poderá a parte infirmar, na via recursal própria, o fundamento adotado pelo Juízo de origem, a fim de demonstrar que o laudo pericial confeccionado por um contabilista (objeto da prova emprestada) seria idôneo a comprovar a natureza das atividades por ela desenvolvida (aferindo-se se abarcaria - ou não - atividade de industrialização, com comercialização dos produtos por ela produzidos em uma cadeia produtiva subsequente, e destinados a usuários não finais, na medida em que se integrariam a produtos destinados a terceiros que não os seus clientes, como alega da Fazenda Pública de SP), ainda que a prova pericial feita por um engenheiro seja realizada, inclusive para, eventualmente, cotejar as respectivas conclusões e impugnar esta última, em sendo o caso.
+1.1 Justamente sob este enfoque, as instâncias ordinárias, de modo uníssono, reconheceram a ausência de urgência, bem como a inexistência de risco de perda de objeto, a considerar a possibilidade de a matéria vir a ser devolvida por ocasião de eventual recurso de apelação. Na linha dos julgados desta Corte de Justiça, em especial das Turmas integrantes da Primeira Seção do STJ, a revisão de tal conclusão não se afigura possível na presente via especial, nos termos do enunciado n. 7 da Súmula STJ.
+(..)
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.686.302/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. CABIMENTO. TAXATIVIDADE MITIGADA. TEMA REPETITIVO N. 988. URGÊNCIA DA MATÉRIA. REVISÃO. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa da prestação jurisdicional.
+2. O Superior Tribunal de Justiça firmou a tese de que o "rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (Tema Repetitivo n. 988).
+3. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame dos elementos fático-probatórios dos autos.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.574.636/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/10/2024, DJe de 16/10/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021)
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. PROGRAMA MINHA CASA, MINHA VIDA. VÍCIOS CONSTRUTIVOS. SOBRESTAMENTO DO FEITO EM RAZÃO DO TEMA N. 1.198/STJ. IMPOSSIBILIDADE. AGRAVO DE INSTRUMENTO. CABIMENTO. TAXATIVIDADE MITIGADA. TEMA N. 988/STJ. URGÊNCIA NÃO VERIFICADA. REVISÃO. SÚMULA N. 7/STJ. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
