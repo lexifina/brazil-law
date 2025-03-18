@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DE SÃO PAULO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 489):
+TRIBUTÁRIO. IPTU. SENTENÇA QUE JULGA PROCEDENTE AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICO-TRIBUTÁRIA. ENTIDADE CIVIL SEM FINS LUCRATIVOS. REQUISITOS DA IMUNIDADE PREENCHIDOS. PRECEDENTES. APELO DO MUNICÍPIO IMPROVIDO, COM MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS.
+Os embargos de declaração opostos foram rejeitados (fl. 505).
+Nas razões de seu recurso especial, a parte recorrente alega que houve violação dos arts. 485, VI, e 492, parágrafo único, do Código de Processo Civil (CPC), além do art. 14 do Código Tributário Nacional (CTN), sustentando a falta de interesse processual e a necessidade de comprovação dos requisitos para imunidade tributária.
+A parte adversa não apresentou contrarrazões (fl. 509).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O Tribunal de origem, ao julgar a apelação interposta pelo Município de São Paulo, decidiu manter a sentença que reconheceu a imunidade tributária da Fundação Escola Nacional de Seguros - FUNENSEG em relação ao IPTU de 2018, declarando a inexistência de relação jurídico-tributária e anulando os lançamentos fiscais correspondentes. O acórdão destacou que a autora é uma entidade civil sem fins lucrativos que preenche os requisitos para a imunidade tributária, conforme o art. 150, inciso VI, alínea c, da Constituição Federal, e o art. 14 do Código Tributário Nacional.
+O cotejo entre a decisão do Tribunal de origem e as alegações da parte recorrente evidencia que há necessidade de reexame de fatos e provas, especialmente no que tange à comprovação dos requisitos para a imunidade tributária e à análise da presunção de legitimidade dos atos administrativos. O Tribunal de origem baseou sua decisão em elementos fáticos, como a análise dos estatutos da autora e a perícia judicial, que atestaram o cumprimento dos requisitos legais para a imunidade. A parte recorrente, por sua vez, contesta esses elementos, alegando insuficiência de provas e a necessidade de comprovação adicional, o que demanda reavaliação do conjunto probatório.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
