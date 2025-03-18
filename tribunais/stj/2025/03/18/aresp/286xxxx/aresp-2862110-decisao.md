@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por IRANI FILOMENA TEODORO contra decisão oriunda do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que negou seguimento ao recurso especial.
+Depreende-se dos autos que a agravante foi condenada, como incursa no art. 313-A do Código Penal, à pena de 4 anos de reclusão no regime fechado.
+O Tribunal de origem negou provimento ao recurso de apelação da defesa, mas concedeu a ordem de habeas corpus de ofício para reduzir a pena e alterar o regime prisional, em acórdão assim ementado (e-STJ fls. 1.821/1.822):
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ART. 313-A DO CÓDIGO PENAL. INSERÇÃO DE DADOS FALSOS NO SISTEMA INFORMATIZADO DO INSS.OBTENÇÃO INDEVIDA DE BENEFÍCIO PREVIDENCIÁRIO. INIMPUTABILIDADE. AUSÊNCIA DE COMPROVAÇÃO. MATERIALIDADE. AUTORIA. DOLO. DOSIMETRIA DA PENA. REGIME INICIAL DE CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE. SUBSTITUIÇÃO. PENAS RESTRITIVAS DE DIREITOS.
+1. Ainda que, eventualmente, se pudesse cogitar que a apelante não tinha plenas condições de se autodeterminar em razão da dependência de álcool, o exame pericial realizado nos autos do incidente de insanidade mental foi conclusivo no sentido da sua higidez mental, inclusive na época em que se submeteu ao exame (setembro de 2020). Além disso, a imputabilidade penal deve ser avaliada em conjunto com outros elementos probatórios, os quais não conduzem ao reconhecimento dessa condição. Rejeitado o pedido de reconhecimento da inimputabilidade da apelante por não estar caracterizada essa excludente de culpabilidade. Consequentemente, fica prejudicado o pedido subsidiário da defesa para imposição de medida de segurança (CP, art. 97) ou de suspensão do processo (CPP, art. 152).
+2. Materialidade, autoria e dolo comprovados. O crime do art. 313-A do Código Penal, por ser formal, não exige a comprovação de resultado para a sua consumação, de modo que é irrelevante a demonstração da efetiva obtenção de vantagem indevida.
+3. Dosimetria da pena. Pena-base reduzida de ofício, porém mantida acima do mínimo legal.
+4. Alterado, de ofício, para o regime aberto o início do cumprimento da pena privativa de liberdade, que é substituída por duas penas restritivas de direitos.
+5. Apelação não provida.
+Foi então interposto o recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, no qual se apontou a violação aos arts. 26 e 97 do Código Penal e ao art. 152 do Código de Processo Penal. Sustenta a defesa, para tanto, que a recorrente é inimputável, conforme reconheceu laudo pericial elaborado durante a instrução probatória.
+O MPF, às e-STJ fls. 1.921/1.928, manifestou-se pelo desprovimento do recurso.
+É o relatório. Decido.
+A Corte de origem, taxativamente, ao julgar o recurso de apelação, afastou a tese da inimputabilidade da recorrente, valendo-se dos seguintes fundamentos (e-STJ fls. 1.816/1.817):
+Sem razão, porém. A Junta Médica Oficial no PAD nº 35664.000106/2017-31, que resultou na cassação da aposentadoria da apelante, concluiu que, entre os anos de 2008 e 2017, ela tinha plena capacidade para entender a licitude ou a ilicitude dos fatos. Do relatório final desse PAD, destaco o seguinte trecho
+(..)
+Ainda que, eventualmente, se pudesse cogitar que a apelante não tinha plenas condições de se autodeterminar em razão da dependência de álcool (cf. laudo dos autos nº 5002105-57.2019.4.03.6181), a imputabilidade penal deve ser avaliada em conjunto com outros elementos probatórios, os quais, no caso, não autorizam a pretensão da defesa. Além disso, o exame pericial realizado no autos do Incidente de Insanidade nº 5003093-44.2020.403.6181, relacionado aos fatos aqui tratados (cf. decisão ID 270526295), foi conclusivo no sentido da higidez mental da apelante, inclusive na época em que se submeteu ao exame (setembro de 2020). A propósito, destaco o seguinte trecho da sentença (ID 262186599) e do laudo elaborado pelo médico perito (ID 41144010 - autos 5003093-44.2020.403.6181 - PJe 1º Grau):
+Portanto, a pretendida desconstituição da conclusão alcançada pela instância ordinária reclamaria ampla incursão nos elementos probatórios, o que não se coaduna com os limites de cognição do recurso especial, a teor do que prescreve a Súmula n. 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
