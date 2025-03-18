@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado pelo MUNICÍPIO DE GUARACIAMA/MG contra decisão que inadmitiu recurso especial, interposto com apoio no permissivo constitucional, o qual desafia acórdão proferido pelo TJ/MG assim ementado (e-STJ fl. 993):
+EMENTA: DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL TOTAL: TOTAL: -PROCESSOS PROCESSOS APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - MUNICÍPIO DE GUARACIAMA - RESSARCIMENTO AO ERÁRIO - EX-PREFEITO - REPASSE DE VERBAS DESTINADAS À REALIZAÇÃO DE OBRAS PERTINENTES A CONVÊNIOS FIRMADOS ENTRE O MUNICÍPIO E O ESTADO DE MINAS GERAIS -OCULTAÇÃO DE IRREGULARIDADES NA PRESTAÇÃO DE CONTAS - INEXISTÊNCIA - PREJUÍZO AOS COFRES PÚBLICOS - NÃO VERIFICAÇÃO - PUNIÇÃO DO AGENTE PÚBLICO COM BASE NOS ARTIGOS 10 E 11 DA LEI FEDERAL N.º 8.429/1992 - DESCABIMENTO -ABOLIÇÃO DA TIPIFICAÇÃO CULPOSA DA PRÁTICA DE IMPROBIDADE - ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL - RECURSO EXTRAORDINÁRIO COM AGRAVO N.º 843.989/PR (TEMA N.º 1.199) - APELO PROVIDO - SENTENÇA REFORMADA.
+- A Lei Federal n.º 14.230/2021, ao reformar o regime processual da ação por atos de improbidade administrativa, previu, expressamente, a aplicação dos princípios constitucionais do Direito Administrativo Sancionador, dentre os quais atraiu a incidência do princípio da retroatividade da lei penal mais benéfica, de acordo com o entendimento do Superior Tribunal de Justiça.
+- Para os fins da caracterização da improbidade administrativa prevista no artigo 10 da Lei Federal n.º 8.429/1992, deve estar demonstrado nos autos o efetivo prejuízo decorrente da conduta dolosa reputada ímproba.
+- A prática de atos de improbidade previstos na nova redação do artigo 11, inciso VI, da Lei Federal n.º 8.429/1992, exige a comprovação de ação dolosa do agente público que, ferindo os deveres de honestidade, de imparcialidade e de legalidade, deixa de prestar contas quando esteja obrigado a fazê-lo, desde que disponha das condições para isso, com vistas a ocultar irregularidades.
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 1046).
+No especial obstaculizado, a ora agravante apontou violação dos arts. 489 e 1.022, II, do Código de Processo Civil/2015.
+Alegou que houve negativa de prestação jurisdicional, pois o Tribunal não se manifestou sobre "a atuação desidiosa e dolosa do recorrido no trato com a coisa pública, ensejando em dano ao erário " (e-STJ fl. 1066).
+Após contrarrazões, o apelo nobre foi inadmitido, o que foi infirmado pelo agravante.
+Contraminuta apresentada.
+Passo a decidir.
+Inicialmente, em relação à alegada ofensa aos arts. 489 e 1.022, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No caso dos autos, a Corte de origem refutou expressamente a prática do ato ímprobo, diante da inexistência de dano ao erário e do elemento subjetivo, conforme verifico às e-STJ fls. 1002/1004.
+Vale ressaltar que, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1671609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017)
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
