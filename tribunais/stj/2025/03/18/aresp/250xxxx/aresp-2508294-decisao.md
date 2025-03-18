@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo ESTADO DO AMAZONAS contra decisão que inadmitiu o recurso especial contra decisão que inadmitiu o recurso especial anteriormente manejado, sob o fundamento de inexistência de violação aos arts. 489 e 1.022 do CPC, pois o acórdão de origem teria examinado as questões essenciais ao deslinde da controvérsia, afastando a suposta omissão na prestação jurisdicional e deficiência na fundamentação do recurso, dado que a parte recorrente não indicou, de modo específico, quais pontos do acórdão foram omissos ou contraditórios.
+O agravante sustenta que o Tribunal de origem violou os arts. 489 e 1.022 do CPC, ao não suprir as supostas omissões e contradições apontadas em embargos de declaração, reiterando que a fundamentação do acórdão recorrido teria sido insuficiente para analisar a totalidade das teses deduzidas. Postula, em essência, a reforma da decisão de inadmissibilidade, para que seja conhecido e provido o recurso especial.
+Contraminuta apresentada nas fls. 812/816.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+A parte agravante assevera que não houve enfrentamento adequado de seus argumentos e que, portanto, se configura negativa de prestação jurisdicional. Contudo, verifica-se que a matéria foi suficientemente apreciada.
+O Tribunal local expressamente afastou a alegada ausência de pronunciamento sobre o princípio pas de nullité sans grief e outras teses do recorrente, concluindo que não havia ponto omisso, contraditório ou obscuro a ser sanado. O acórdão embargado já havia apreciado os principais fundamentos levantados pelo Estado do Amazonas, de modo que não se verificaram falhas na prestação jurisdicional que justificassem o acolhimento dos embargos.
+No acórdão de apelação, a Corte de origem externou ampla fundamentação a respeito das supostas nulidades ocorridas no procedimento administrativo disciplinar, analisando detalhadamente a substituição de membros da comissão processante e a ausência de notificação do agravado para a oitiva de testemunhas. Em atenção a essas circunstâncias, concluiu que a exclusão do militar foi maculada por vício de legalidade, violando o devido processo legal.
+Dessarte, não se constata a omissão alegada: o Tribunal a quo avaliou as teses essenciais e adotou fundamentação suficiente para formar seu convencimento, pontuando, com nitidez, a motivação sobre a nulidade do ato administrativo. O simples descontentamento do agravante quanto ao desfecho não caracteriza omissão ou contradição. Nesse sentido, é pacífico o entendimento do Superior Tribunal de Justiça de que o mero inconformismo da parte com o resultado não viabiliza a anulação do julgado por negativa de prestação jurisdicional.
+A recorrente sustenta que houve violação aos arts. 489 e 1.022 do CPC, sob a alegação de que o Tribunal de origem não enfrentou adequadamente os embargos de declaração. No entanto, observa-se que o acórdão recorrido enfrentou todas as questões essenciais ao deslinde da controvérsia, expondo de forma clara os fundamentos que embasaram a conclusão adotada. O mero descontentamento da parte com a decisão não configura omissão, obscuridade ou contradição passível de reforma em sede de recurso especial. Assim, não há que se falar em violação aos referidos dispositivos processuais.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. FORNECIMENTO DE ÁGUA. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO.
+FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF. SÚMULA 126/STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REEXAME. IMPOSSIBILID ADE. SÚMULA 735/STF.
+REQUISITOS PARA O DEFERIMENTO DE LIMINAR. MULTA COMINATÓRIA.
+PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL, POR EXIGIR REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO INTERNO IMPROVIDO.
+ ..
+IX. A fundamentação do acórdão recorrido, no sentido de que, "considerando que a relação estabelecida entre a concessionária e os usuários mencionados pelo Ministério Público é, evidentemente, de consumo, cabia à ré a prova de que o fornecimento de água àquela região não apresenta irregularidades, o que já deveria ter acontecido, por decorrido tempo suficiente para tanto" restou incólume, nas razões do Recurso Especial. Portanto, é de ser aplicado o óbice da Súmula 283/STF, por analogia. Precedentes do STJ.
+ ..
+XI. Agravo interno improvido (AgInt no AREsp 1.927.254/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/12/2023, DJe de 11/12/2023).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. SISTEMA DE CONTROLE DE PRODUÇÃO DE BEBIDAS - SICOBE. RESSARCIMENTO DO CUSTO DO SISTEMA À CASA DA MOEDA.
+NATUREZA TRIBUTÁRIA. TAXA. ENRIQUECIMENTO SEM CAUSA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. FALTA DE PREQUESTIONAMENTO DO ART. 205 DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA N. 211/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido (AgInt no REsp 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Ademais, para acatar a pretensão recursal e modificar o entendimento adotado, seria imprescindível o reexame de matéria fática. Contudo, tal procedimento é inadmissível em recurso especial, conforme estabelecido pela Súmula 7/STJ: "A pretensão de mero reexame probatório não autoriza a interposição de recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Por fim, registro que o recorrente, ao sustentar violação aos arts. 489 e 1.022 do CPC, não apontou objetivamente quais seriam as omissões ou trechos nos acórdãos que estariam obscuros ou contraditórios. Essa lacuna caracteriza a chamada "deficiência na instrução do apelo especial", a justificar o não conhecimento do recurso.
+Em situações similares , o STJ tem aplicado, por analogia, a Súmula 283/STF, quando remanesce incólume um fundamento autônomo da decisão recorrida, e a Súmula 284/STF, em casos de deficiência na fundamentação do recurso, notadamente quando há alegação genérica de omissão ou contradição, sem a devida particularização dos pontos controvertidos.
+Assim, tendo o Tribunal local asseverado, de modo expresso, que não havia falha no acórdão recorrido, e restando intacto o fundamento de que o recorrente não demonstrou, de forma precisa, as supostas omissões, mostra-se correta a conclusão de que recurso especial não merecia trânsito.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+ EMENTA
