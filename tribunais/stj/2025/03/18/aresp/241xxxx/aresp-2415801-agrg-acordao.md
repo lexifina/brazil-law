@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. RAZÕES QUE TRAZEM TESES DE MÉRITO SEM REBATER ESPECIFICAMENTE OS FUNDMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Inexistente insurgência concreta contra os fundamentos da decisão agravada, incide a Súmula 182/STJ.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Angelica Afonso de Freitas e Caique Fernandes Rodrigues contra a decisão monocrática, de minha lavra, assim ementada (fl. 569):
+AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS. INÉPCIA DA DENÚNCIA. TESE FULMINADA DIANTE DO ADVENTO DA SENTENÇA CONDENATÓRIA. PLEITO DE NULIDADE POR INVASÃO DOMICILIAR. AUSÊNCIA DE INDICAÇÃO CLARA E PRECISA DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. FUNDAMENTO SUBSIDIÁRIO. ACÓRDÃO IMPUGNADO CALCADO EM FUNDAMENTO CONSTITUCIONAL. FALTA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. OFENSA AO ART. 40, III, DA LEI N. 11.343/2006. RAZÕES DISSOCIADAS DA REALIDADE ESTAMPADA NO ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. PEDIDO DE PRISÃO DOMICILIAR E USO DE TORNOZELEIRA ELETRÔNICA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS SUPOSTAMENTE OFENDIDOS. IMPOSSIBILIDADE DE COMPREENSÃO DA CONTROVÉRSIA.
+Agravo conhecido para não conhecer do recurso especial.
+Em suas razões, a defesa afirma, em suma, que a decisão contraria princípios constitucionais fundamentais, notadamente no que tange à proteção dos direitos do acusado e à ilegalidade da prova obtida, que deve ser considerada em sua totalidade, conforme já argumentado de forma robusta pela defesa (fl. 585).
+Destaca que a tese central do recurso está pautada na flagrante ilegalidade da diligência policial, que, à luz do princípio constitucional da inviolabilidade do domicílio (art. 5º, XI, da CF), não poderia ser considerada válida (fl. 585), argumentando que a prova obtida por meio do ingresso ilícito no domicílio do acusado configura flagrante violação aos direitos fundamentais e deve ser declarada nula, em consonância com o que preceitua o art. 157 do Código de Processo Penal (idem).
+Entende que o parecer do MPF deveria ser levado em consideração, na medida em que reforça ainda mais a aplicação da teoria dos frutos da árvore envenenada, tornando ilícitas as provas derivadas da violação do domicílio (fl. 585).
+Salienta que não há nos autos qualquer prova de que a substância entorpecente teria sido destinada à comercialização nas proximidades da unidade prisional, tampouco que a circulação de drogas teria ocorrido no local (fl. 587), entendendo que a aplicação dessa causa de aumento de pena, sem qualquer prova concreta, fere o princípio da proporcionalidade e da razoabilidade, impondo uma punição desproporcional à real gravidade do delito praticado (idem).
+Defende que a manutenção da prisão domiciliar, com monitoramento eletrônico, permitiria a convivência familiar e a proteção da infância, sem prejuízo à ordem pública (fl. 588).
+Pugna, assim, pela reforma da decisão agravada, garantindo a nulidade das provas obtidas de forma ilícita e, subsidiariamente, a revisão da aplicação da causa de aumento de pena, além da concessão da prisão domiciliar para a agravante Angélica Afonso de Freitas, diante das circunstâncias humanitárias que envolvem a situação da filha menor (fl. 588).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. RAZÕES QUE TRAZEM TESES DE MÉRITO SEM REBATER ESPECIFICAMENTE OS FUNDMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Inexistente insurgência concreta contra os fundamentos da decisão agravada, incide a Súmula 182/STJ.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo regimental não comporta conhecimento.
+Inicialmente, esclareço que o art. 1.021, § 1º, do Código de Processo Civil, aplicável no âmbito criminal em razão do comando normativo contido no art. 3º do Código de Processo Penal, em harmonia com o princípio da dialeticidade, estabelece que,  n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Na espécie, o recurso especial interposto pelos agravantes não foi conhecido com base no seguintes fundamentos: 1) impossibilidade de reconhecimento da inépcia da denúncia diante do advento da sentença condenatória; 2) ausência de indicação clara e precisa do dispositivo legal tido por violado quanto à alegação de nulidade por invasão de domicílio - Súmula 284/STF - e incidência da Súmula 126/STJ, em fundamento subsidiário; 3) deficiência de fundamentação no tocante à causa de aumento prevista no art. 40, III, da Lei n. 11.343/2006; e 4) ausência de indicação dos dispositivos supostamente ofendidos em relação ao pedido de prisão domiciliar e uso de tornozeleira eletrônica (fls. 569/574).
+Nas razões do presente agravo regimental, entretanto, observo que a defesa dos agravantes não impugnou, de modo direto e eficiente, os referidos fundamentos, limitando-se a discorrer sobre questões ligadas ao mérito da controvérsia, numa tentativa de reverter a conclusão alcançada na decisão agravada sem, entretanto, rebatê-la de modo específico.
+Dessa forma, é inarredável aplicar ao presente recurso, o Verbete Sumular 182/STJ, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especif icamente os fundamentos da decisão agravada.
+Nesse sentido: AgRg no AREsp n. 2.384.030/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/9/2023; e AgRg no AREsp n. 2.152.990/RS, Ministra Laurita Vaz, Sexta Turma, DJe 22/8/2023.
+Ante o exposto, não conheço do agravo regimental.
