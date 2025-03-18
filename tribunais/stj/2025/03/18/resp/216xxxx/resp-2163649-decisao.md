@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado (f. 322):
+PREVIDENCIÁRIO. APELAÇÃO. PENSÃO POR MORTE. FILHOS. QUALIDADE DE SEGURADO DO INSTITUIDOR COMPROVADA. BENEFÍCIO CONCEDIDO.
+1. A sentença negou provimento ao pedido para condenar o INSS a pagar aos autores a pensão por morte de seu genitor.
+2. O requerimento administrativo dos autores foi indeferido sob o fundamento de perda da qualidade de segurado do instituidor; todavia, as provas nos autos demonstram que o falecido manteve preservada a qualidade de segurado ao tempo do óbito.
+3. Os valores atrasados, desde a data do óbito, serão acrescidos de correção monetária (desde quando devida cada parcela) e juros de mora (a partir da citação) conforme o Manual de Cálculos da Justiça Federal, constantemente atualizado para dar o perfeito cumprimento à Constituição e às decisões dos Tribunais superiores.
+4. Os honorários advocatícios são devidos aos autores, em percentual a ser definido na fase da liquidação do julgado, nos moldes do art. 85, § 3º c/c § 4º, II, do CPC/2015, observados os termos da Súmula 111 do STJ.
+5. Apelação provida.
+Embargos de declaração rejeitados.
+A parte recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, "não apreciando a questão jurídica levantada pela autarquia previdenciária acerca da impossibilidade de prorrogação da qualidade de segurado, nos termos do art. 15, §2º da Lei nº 8.213/91, quando ausente prova da condição de desemprego, não sendo suficiente, para tanto, a inexistência de registros na CTPS e/ou CNIS" (fl. 394).
+Quanto às questões de fundo, sustenta a ofensa do artigo 15, § 2º, da Lei n. 8.213/91, sob o fundamento de ausência de prova da condição de desemprego involuntário a justificar a prorrogação da qualidade de segurado.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 408.
+É o relatório. Passo a decidir.
+Tendo o recurso sido interposto contra julgado publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De pronto, afasta-se a alegada violação do artigo 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que se refere ao mérito, verifica-se que o Tribunal a quo analisou a demanda sob os seguintes fundamentos (e-STJ, fls. 320-321):
+A pensão por morte é um benefício previdenciário de prestação continuada, cujo intuito é suprir a falta de quem provia as necessidades econômicas do beneficiário, concedida aos dependentes do segurado que vier a falecer, sendo aposentado ou não, nos moldes do artigo 16 da Lei n.º 8.213/91.
+Segundo o inciso I do artigo 16 c/c §§ 3º e 4º da Lei n.º 8.213/91, os filhos são beneficiários do Regime Geral da Previdência Social, na condição de dependentes do segurado, possuindo dependência econômica presumida.
+Analisando detidamente as provas nos autos, observo que os autores lograram exito em demonstrar a qualidade de segurado de seu genitor.
+Forte no entendimento jurisprudencial consolidado no sentido de que não se constitui em ofensa ao artigo 93, IX, da CRFB, o julgador acolher como razões de decidir os fundamentos da sentença ou do parecer ministerial - motivação "per relationem", desde que comportem a análise de toda a matéria objeto do recurso, adoto os fundamentos postos no evento 6, PARECER1, verbis:
+" ..
+Compulsando os autos, verifica-se que o genitor dos Apelantes veio a óbito em 1º de maio de 2018, ocasião em que não se encontrava com vínculo empregatício ou realizando contribuições de forma autônoma à Previdência, tendo sido o seu último recolhimento válido relativo à competência de fevereiro de 2017.
+Verifica-se, pela análise dos autos, que após essa data, não foi comprovado o recolhimento de qualquer contribuição por parte do genitor para a manutenção da sua qualidade de segurado. Desta forma, observando a competência do último recolhimento (fevereiro de 2017) realizado por ele, tem-se que o período de graça constante no inciso II, do artigo 15, combinado com o § 4º Lei n.º 8.213/91, findou em 15 de abril de 2018, data anterior ao óbito.
+Contudo, deve incidir na no caso a prorrogação de prazo prevista no § 2º do mesmo dispositivo legal.
+O § 2º do artigo 15 da Lei n.º 8.213/91 assim preceitua:
+"§ 2º Os prazos do inciso II ou do § 1º serão acrescidos de 12 (doze) meses para o segurado desempregado, desde que comprovada essa situação pelo registro no órgão próprio do Ministério do Trabalho e da Previdência Social". (Negrito inserido).
+No presente caso, diante do conjunto probatório apresentado, restou evidenciado que o genitor dos Apelantes encontrava-se desempregado desde fevereiro de 2017, data da extinção do seu contrato de trabalho e da sua última contribuição.
+Logo, aplicável a extensão do prazo acima referida, razão pela qual, no momento do óbito, o genitor dos Apelantes ainda ostentava a condição de segurado da previdência social."(..)"
+Desse modo, o pensionamento é devido aos apelantes, assim como os atrasados, desde a data do óbito do instituidor, acrescidos de correção monetária (desde quando devida cada parcela) e juros de mora (a partir da citação) conforme o Manual de Cálculos da Justiça Federal, constantemente atualizado para dar o perfeito cumprimento à Constituição e às decisões dos Tribunais superiores.
+Ademais, em sede de acórdão integrativo, o Tribunal de Origem elucidou que (e-STJ, fl. 376):
+Embora inexistam vícios no julgado, ressalto que, em relação à confirmação do desemprego apenas por meio do registro no Ministério do Trabalho e da Previdência Social, o Superior Tribunal de Justiça firmou entendimento no sentido de que esse registro não deve ser o único meio hábil à comprovação da situação de desemprego, notadamente porque, no âmbito judicial, prevalece o livre convencimento motivado do juiz e não o sistema de tarifação legal de provas. (Grifei).
+O entendimento firmado no acórdão recorrido foi no sentido de que o registro no Ministério do Trabalho não deve ser tido como o único meio de prova da condição de desempregado do segurado, especialmente considerando que, em âmbito judicial, prevalece o livre convencimento motivado do Juiz e não o sistema de tarifação legal de provas. Dito de outro modo, que o registro perante o Ministério do Trabalho e da Previdência Social poderá ser suprido quando for comprovada tal situação por outras provas constantes dos autos, inclusive a testemunhal.
+Todavia, do confronto dos excertos supra, verifica-se que a parte recorrente, nas razões do recurso especial deixou de impugnar especificamente tal fundamento.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula n. 283/STF.
+Somado a isso, para se rever a conclusão a que chegou o Tribunal de origem no sentido de que "analisando detidamente as provas nos autos, observo que os autores lograram êxito em demonstrar a qualidade de segurado de seu genitor", mister o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. PENSÃO POR MORTE. QUALIDADE DE SEGURADO DO INSTITUIDOR DO BENEFÍCIO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ELEMENTOS PROBATÓRIOS DA SITUAÇÃO DE DESEMPREGO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283/STF. QUALIDADE DE SEGURADO. REQUISITOS PREENCHIDOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
