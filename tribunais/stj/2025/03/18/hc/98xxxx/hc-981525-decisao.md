@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CARLOS MARCELO ZAMPIRAO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento da Apelação Criminal n. 0057580-2024.8.16.0000, cujo acórdão ficou assim ementado (e-STJ fl. 16):
+HABEAS CORPUS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DE EQU VOCO EM DOSIMETRIA DA PENA. DECORRENTE REMÉDIO CONSTITUCIONAL UTILIZADO COMO SUBSTITUTO DO RECURSO CABÍVEL. VIA INADEQUADA. AUSÊNCIA DE A SER DECLARADA DE OFÍCIO. ILEGALIDADE MANIFESTA ORDEM . NÃO CONHECIDO.
+No presente writ, a defesa alega e requer, em síntese, que (e-STJ fls. 14/15):
+No caso sob exame, o constrangimento ilegal é manifesto, diante da decisão do juiz de 1º grau, bem como a não analise do tribunal de justiça sobre a matéria, QUE AUMENTOU A PENA DO IMPETRANTE POR UMA POSSIVEL EXISTÊNCIA DE EXECUÇÃO DE PENA, A QUAL NÃO CONDIZ COM O IMPETRANTE, SENDO ASSIM TORNANDO-SE A PENA TOTALMENTE EXORBITANTE, necessário então assim, concessão da liminar, opara que seja de oficio, analisado a sentença realizada, objetivando assim que seja analisado a nulidade existente nos autos, como qualquer outra medida cautelar pessoal, não pode e não deve ter um caráter de satisfatividade.
+Ora Excelência, o réu poderá ser colocado em cárcere sem qualquer requisito existente, uma vez a nulidade absoluta da sentença realizada pelo juízo a quo, por erro objetivando o aumento de pena.
+Assim sendo, estando caracterizados os requisitos do fumus boni iuris e do periculum in mora, diante da determinação de um possível cumprimento da prisão em caráter definitivo, o qual o presente processo não transitou em julgado sem obediência aos ditames legais, e já mencionada na sentença.
+Mister se faz a expedição liminar de salvo conduto em favor do impetrante, a fim de que possa ser afastada qualquer ameaça de prisão, antes do trânsito em julgado da decisão condenatória.
+DOS PEDIDOS:
+Que seja recebido o presente, conforme fundamentação e jurisprudência colacionadas determinando seu processamento de estilo.
+Diante do exposto, requer seja concedida a ordem impetrada, com fundamento no art. 648, I, do Código de Processo Penal, para, requerendo a análise de oficio em sede liminar, a fim de sanar a nulidade existente nos autos, consequente que seja realizada a readequação do regime ora imposto, uma vez a utilização de reincidência que não condiz com o réu, por medida de justiça, REVOGADA a prisão, substituindo-a por medidas cautelares diversas da prisão, notadamente o monitoramento eletrônico (tornozeleira), a qual vem se demonstrando eficaz no monitoramento e de na garantia da ordem pública e no asseguramento da aplicação da lei penal.
+Alternativamente reconhecida a nulidade, sejam os autos devolvidos ao juiz "a quo" para prolação de nova sentença, excluindo tais nulidade, reconhecido inclusive a primariedade do réu.
+É, em síntese, o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Outrossim, verifico que o Tribunal de origem, no exame do recurso de apelação defensiva, não tratou especificamente da matéria relativa à prisão preventiva do paciente. Diante desse cenário, ante a falta de manifestação do colegiado local no acórdão ora juntado acerca da matéria objeto deste habeas corpus, evidente a incompetência desta Corte Superior para o processamento e julgamento deste remédio constitucional.
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.  ..
+(HC 278.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
