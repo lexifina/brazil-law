@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FABRÍCIO DE SOUZA REIS, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE.
+Consta dos autos que o paciente foi preso em flagrante no dia 7/2/2025, com a concessão de liberdade provisória mediante o pagamento de fiança, pela suposta prática dos crimes previstos nos arts. 305, 347 e 288 do CP. A fiança não foi adimplida até o momento, razão pela qual o paciente continua preso.
+No presente writ, sustenta a defesa a impossibilidade de pagamento da fiança, arbitrada em R$ 500.000,00 (quinhentos mil reais). Afirma que o paciente só estava de passagem pelo apartamento do amigo, que lhe cedeu por alguns dias, não havendo que se falar nas imputações mencionadas. Salienta a a gravidade abstrata da imputação e as boas condições pessoais.
+Requer, liminarmente e no mérito, que seja revogada a prisão preventiva.
+A competência deste Superior Tribunal de Justiça está expressamente prevista no art. 105 e incisos da Constituição Federal, exigindo, para conhecimento da matéria trazida em caso de habeas corpus, a existência de ato coator de Tribunal sujeito à sua jurisdição ou de quaisquer das outras autoridades elencadas no inciso I, alíneas "b" e "c", da CF/88, o que não se vislumbra ocorrer na hipótese, pois as alegações deduzidas na inicial sequer foram alvo de deliberação pelo Tribunal de origem, a indicar a atuação deste Sodalício em indevida supressão de instância.
+A propósito, confiram-se:
+PROCESSO PENAL. HABEAS CORPUS. AGRAVO REGIMENTAL. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INEXISTÊNCIA. ATO COATOR. JUNTADA TARDIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. CARGO PÚBLICO. SUSPENSÃO. MEDIDA CAUTELAR. CORRUPÇÃO PASSIVA E ORGANIZA ÇÃO CRIMINOSA. PRÁTICA NO EXERCÍCIO E EM RAZÃO DA FUNÇÃO. PRAZO DEFINIDO. INEXIGÊNCIA. RAZOABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão recorrida, não merece ser conhecido o agravo regimental, o que enseja a manutenção da conclusão combatida em sua totalidade quando tais fundamentos são suficientes por si sós para isso.
+2. É ônus do impetrante instruir o habeas corpus com cópia do alegado ato coator emanado de Tribunal de segundo grau, diante da exigência de prova pré-constituída das suas afirmações, especialmente do suposto constrangimento ilegal, sem que haja possibilidade de ser sanado o vício, sobretudo quando a relação processual está completamente formada, encontrando-se o processo pronto para julgamento.
+3. Não é possível ao recorrente trazer ao Superior Tribunal de Justiça teses que não foram suscitadas e decididas pelos órgãos jurisdicionais de origem, sob pena de indevida supressão de instância.
+4. Necessária é a medida de suspensão da função pública quando há suspeita de envolvimento do imputado com organização criminosa e corrupção passiva praticadas durante o referido exercício e em razão dele, além de existirem elementos concretos que indicam um risco de reiteração da conduta em caso de continuação do trabalho na mesma localidade, em contato com as mesmas pessoas.
+5. A imposição da medida cautelar de suspensão do exercício de função pública não está sujeita a prazo definido, obedecendo aos princípios da proporcionalidade e razoabilidade, o que acontece quando ela dura aproximadamente um ano e foi decretada no âmbito de complexa ação penal que visa apurar suposta organização criminosa, composta de vários grupos diferentes, abrangendo em torno de 30 pessoas que supostamente cometiam corrupção ativa e passiva, além de peculato e lavagem de dinheiro.
+6. Agravo regimental não conhecido.
+(AgRg no HC n. 671.529/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
