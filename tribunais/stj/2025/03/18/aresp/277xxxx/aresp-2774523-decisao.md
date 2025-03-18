@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por SAMI ASSISTÊNCIA MÉDICA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 561):
+APELAÇÃO. PLANO DE SAÚDE. Negativa de cobertura em razão de cláusula de carência (urgência e emergência - doença pré-existente). Recursos de ambas as partes. Alegações de legalidade das cláusulas de coberturas previstas contratualmente, não se tratando de urgência/emergência, havendo ciência do requerente quanto à carência. Prontuário médico afirmativo da necessidade emergencial de tratamento. Limitação contratual inaplicável às situações de urgência e emergência. Abusividade reconhecida por colocar o beneficiário em manifesta desvantagem. Jurisprudência desta Corte (Súmula 103 TJSP). Alegações do autor de necessidade de considerar como base de cálculo dos honorários o proveito econômico do tratamento médico auferível. Cabimento. Custeio de tratamento médico por parte das operadoras de planos de saúde que pode ser economicamente aferido, utilizando-se como parâmetro o valor da cobertura indevidamente negada. Honorários advocatícios sucumbenciais que incidem sobre as condenações ao pagamento de quantia certa e à obrigação de fazer (art. 85, § 2º, do CPC/2015), devendo ser auferidos em posterior liquidação de sentença. Precedentes do C. STJ. Sentença parcialmente reformada. Adoção parcial do art. 252 do RITJ. RECURSO da recorrente- requerida DESPROVIDO e RECURSO do recorrente- requerente PROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos art. 11 da Lei n. 9.656/98; e 1º, 2º, 5º da RN 558/22 (tratamento de urgência).
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 681-696).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 697-699), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 732-740).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida.
+Verifica-se que em relação à apontada ofensa art. 11 da Lei 9.656/98, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbices na 83 do Superior Tribunal de Justiça, ("Não se conhece do especial quando a conclusão do acórdão recorrido é no mesmo sentido da orientação do Superior Tribunal de Justiça.")
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, quanto a considerar abusiva a negativa de cobertura em atendimento de urgência ou emergência, mesmo que esteja em curso período de carência ou cobertura parcial temporária, o que atrai a incidência da Súmula n. 83 desta Corte, aplicável ao recurso especial interposto tanto pela alínea "a" como pela alínea "c" do inciso III do art. 105 da CF/1988.
+A propósito, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. NÃO CUMPRIMENTO DO PRAZO DE CARÊNCIA PARA ATENDIMENTO EMERGENCIAL. CARÁTER ABUSIVO. NEGATIVA INDEVIDA. OBRIGATORIEDADE DE ATENDIMENTO. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. URGÊNCIA. CIRCUNSTÂNCIAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 DO STF E 211 DO STJ. REEMBOLSO DE DESPESAS FORA DA REDE CREDENCIADA. ART. 12, VI, DA LEI N. 9.656/1998. RECUSA INDEVIDA. AGRAVAMENTO DO QUADRO CLÍNICO. DANOS MORAIS. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. QUANTUM INDENIZATÓRIO. PROPORCIONALIDADE. REVISÃO. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Não é abusiva a cláusula contratual que prevê prazo de carência para os serviços prestados pelo plano de saúde. No entanto, configura abusividade a negativa de fornecimento de assistência médica em casos de urgência ou emergência durante o período de carência, sendo injusta a recusa da operadora.
+2. Nos casos de cobertura parcial temporária de doenças ou lesões preexistentes, o prazo de carência estabelecido em contrato de plano de saúde não prevalece em situações de urgência ou de emergência.
+3. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos de declaração, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+4. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial relativa à urgência do atendimento reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+5. O reembolso das despesas efetuadas pelo beneficiário com assistência à saúde é admitido nos limites das obrigações contratuais e nos casos de urgência ou de emergência em que não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras (art. 12, VI, da Lei n. 9.656/1998).
+6. Evidenciadas a urgência do tratamento e a recusa abusiva da operadora do plano de saúde, inviabilizando o atendimento na rede credenciada, é devido o reembolso das despesas feitas pelo segurado.
+7. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial relativa aos danos morais reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+8. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade.
+9. A incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+10. Agravo interno desprovido.
+(AgInt no AREsp n. 2.589.825/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 23/9/2024, DJe de 25/9/2024.) (grifos acrescentados)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PLANO DE SAÚDE. DOENÇA PREEXISTENTE. ATENDIMENTO DE URGÊNCIA. CARÊNCIA NÃO APLICÁVEL. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil de 2015.
+2. O prazo de carência estabelecido em contrato de plano de saúde, nos casos de doenças ou lesões preexistentes, não prevalece nos casos de urgência ou emergência.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.078.366/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.) (grifos acrescentados)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 20% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. DOENÇA PREEXISTENTE. CIRURGIA DE URGÊNCIA. COBERTURA OBRIGATÓRIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO IMPROVIDO
