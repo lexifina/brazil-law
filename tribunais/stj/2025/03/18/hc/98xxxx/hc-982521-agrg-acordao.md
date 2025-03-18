@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Falta de fundamentação concreta. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu habeas corpus para substituir a prisão preventiva dos agravados por medidas cautelares diversas, conforme art. 319 do Código de Processo Penal.
+2. Os pacientes tiveram a prisão cautelar de cretada pela suposta prática do delito de tráfico de drogas. A defesa impetrou habeas corpus perante a Corte local, que foi denegado, entendendo que a prisão estava justificada pela gravidade da conduta imputada.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que decretou a prisão preventiva dos agravados está fundamentada em elementos concretos que justifiquem a medida extrema, ou se a substituição por medidas cautelares diversas é suficiente para resguardar a ordem pública e garantir a aplicação da lei penal.
+III. Razões de decidir
+4. A decisão que decretou a prisão preventiva carece de fundamentação concreta, não apresentando elementos que indiquem efetivo periculum libertatis, como a gravidade concreta do delito ou a reiteração de condutas delituosas.
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que a prisão preventiva não pode ser fundamentada apenas na gravidade abstrata do delito ou em elementos inerentes ao tipo penal, sendo necessário demonstrar a periculosidade concreta do agente.
+6. Considerando as peculiaridades do caso, é possível resguardar a ordem pública e garantir a aplicação da lei penal por meio de medidas cautelares diversas da prisão, conforme previsto no art. 319 do Código de Processo Penal.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A prisão preventiva deve ser fundamentada em elementos concretos que indiquem periculosidade do agente e não apenas na gravidade abstrata do delito. 2. Medidas cautelares diversas da prisão podem ser suficientes para resguardar a ordem pública e garantir a aplicação da lei penal".
+Dispositivos relevantes citados: CPP, arts. 310, 312, 313, 319.
+Jurisprudência relevante citada: STJ, AgRg no HC 825.393/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/9/2023; STJ, AgRg no HC 842.943/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/9/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls. 67-70, interposto pelo MINISTÉRIO PÚBLICO FEDERAL, a qual concedi o habeas corpus para substituir a prisão preventiva imposta aos agravados por medidas cautelares diversas previstas no art. 319 do CPP, a serem estabelecidas pelo Juízo a quo.
+Depreende-se dos autos que os Pacientes tiveram a prisão cautelar decretada, pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante a Corte local. A ordem foi denegada pelo Tribunal de origem, entendendo que a prisão se encontrava justificada, diante da gravidade da conduta imputada aos pacientes,conforme acórdão de fls. 38-58.
+Nas razões do recurso, o agravante alega que:
+"convém salientar que a jurisprudência dessa Corte Superior de Justiça tem-na aceitado como uma das hipóteses que autorizam a prisão ante tempus, desde que demonstrada a gravidade concreta da imputação, a periculosidade do segregado e/ou a possibilidade de reiteração delitiva" (fl. 78).
+Requer, ao final, a reconsideração da decisão objurgada, ou, em caso de entendimento diverso, a submissão ao colegiado.
+Por manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Falta de fundamentação concreta. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu habeas corpus para substituir a prisão preventiva dos agravados por medidas cautelares diversas, conforme art. 319 do Código de Processo Penal.
+2. Os pacientes tiveram a prisão cautelar de cretada pela suposta prática do delito de tráfico de drogas. A defesa impetrou habeas corpus perante a Corte local, que foi denegado, entendendo que a prisão estava justificada pela gravidade da conduta imputada.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que decretou a prisão preventiva dos agravados está fundamentada em elementos concretos que justifiquem a medida extrema, ou se a substituição por medidas cautelares diversas é suficiente para resguardar a ordem pública e garantir a aplicação da lei penal.
+III. Razões de decidir
+4. A decisão que decretou a prisão preventiva carece de fundamentação concreta, não apresentando elementos que indiquem efetivo periculum libertatis, como a gravidade concreta do delito ou a reiteração de condutas delituosas.
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que a prisão preventiva não pode ser fundamentada apenas na gravidade abstrata do delito ou em elementos inerentes ao tipo penal, sendo necessário demonstrar a periculosidade concreta do agente.
+6. Considerando as peculiaridades do caso, é possível resguardar a ordem pública e garantir a aplicação da lei penal por meio de medidas cautelares diversas da prisão, conforme previsto no art. 319 do Código de Processo Penal.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A prisão preventiva deve ser fundamentada em elementos concretos que indiquem periculosidade do agente e não apenas na gravidade abstrata do delito. 2. Medidas cautelares diversas da prisão podem ser suficientes para resguardar a ordem pública e garantir a aplicação da lei penal".
+Dispositivos relevantes citados: CPP, arts. 310, 312, 313, 319.
+Jurisprudência relevante citada: STJ, AgRg no HC 825.393/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/9/2023; STJ, AgRg no HC 842.943/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/9/2023.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+No mérito, entretanto o recurso não merece subsistir.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+Na hipótese, da leitura da motivação da decisão que decretou a segregação cautelares não há mínimos elementos concretos indicativos de efetivo e concreto periculum libertatis a justificar in casu de modo formal e devidamente fundamentado sua segregação social antecipada pois não indica a gravidade concreta que extrapole as elementares do tipo penal infringido e não apresenta evidência de efetiva reiteração de condutas delituosas pelos agravados, o que demonstra carência de motivação concreta para a prisao preventiva.
+No ponto, trago trecho da decisão que decretou a segregação cautelar:
+""No mais, o flagrante está formal e materialmente em ordem, razão pela qual o HOMOLOGO. O laudo acostado às fls. 46 e 47 - relativo a exame cautelar a que foram submetidos os custodiados - não revelou qualquer abuso ou excesso cometido pelos agentes que efetivaram a medida, o que foi corroborado no momento das oitivas. A hipótese autoriza a decretação da prisão preventiva, pois trata-se de infração equiparada a delito hediondo, cuja pena máxima abstratamente cominada supera 04 (quatro) anos, preenchido o requisito do art. 313, inciso I, do CPP. Além de haver indícios suficientes de autoria e materialidade, conforme laudo de constatação preliminar (fls. 39/43), auto de exibição e apreensão (fls. 25/27) e depoimentos (fls. 07/10), a medida foi efetivada em razão de cumprimento de mandado de busca e apreensão oriundo do feito nº 1510435-57.2024.8.26.0344 (fls. 02/03). No mais, a prisão preventiva se faz necessária para o resguardo da ordem pública. Importante consignar que os custodiados respondem por crime que traz desassossego à comunidade e fomenta a prática de outros delitos, notadamente contra o patrimônio, provocando temeridade social. Neste aspecto, presentes os motivos autorizadores da prisão preventiva, há de prevalecer a tranquilidade e a segurança do corpo social, já assentado o entendimento de que a prisão cautelar, quando amparada em seus requisitos autorizadores, não viola o princípio da presunção de inocência, pois não importa em juízo de culpabilidade antecipado, visando, apenas, acautelar a atividade estatal:  ..  Nesta linha, a cautelar máxima também se faz necessária para a instrução processual e aplicação da lei penal, haja vista a necessidade de aprofundamento das investigações ante a existência de anotações relativas, em tese, à traficância exercida pelos custodiados e apreensão de celulares. Ademais, o delito em tese imputado aos custodiados é incompatível com a liberdade provisória, ainda que cumulada com qualquer outra medida cautelar diversa da prisão. Importante consignar, por fim, que muito embora os custodiados sejam primários (fls. 75/82), as circunstâncias pessoais favoráveis, ainda que comprovadas, são insuficientes à concessão de liberdade provisória se presentes os requisitos autorizadores da custódia ..  Há, portanto, demonstração concreta de perigo gerado pelo estado de liberdade dos custodiados, razão pela qual CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA de KAROLAYNE FERREIRA ALVES VICENTE e ANDERSON APARECIDO CARDOSO SAMPAIO com fundamento nos artigos 310, 312 e 313, todos do Código de Processo Penal cautelar: "
+A propósito, jurisprudência deste Superior Tribunal de Justiça:
+"Na hipótese, o decreto preventivo está fundamentado apenas na gravidade abstrata do delito e em elementos inerentes ao próprio tipo penal. Ademais, nem mesmo a quantidade de droga apreendida (85 porções de cocaína), aliada às circunstâncias do delito (apreensão de dinheiro), autorizaria o encarceramento cautelar, sobretudo quando considerada a primariedade da agente" (AgRg no HC n. 825.393/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/9/2023).
+"No caso, em que pese a reprovabilidade da conduta, a fundamentação declinada não demonstra a imprescindibilidade da medida extrema. Isso porque, embora o decreto mencione elementos materialidade (apreensão de 100g de haxixe) não descreve um contexto indicativo de efetiva periculosidade, excepcional, além dos elementos característicos dos crimes imputado. Ressalte-se que nem mesmo a quantidade de droga aprendida, somente, justificaria a decretação da prisão, notadamente no caso em exame, em que o paciente é absolutamente primário, como atesta sua folha de antecedentes. Constrangimento ilegal evidenciado. Julgados do STJ" (AgRg no HC n. 842.943/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/9/2023).
+Diante disso, considerando as peculiaridades do caso, entendo possível o resguardo da ordem pública e a garantia da aplicação da lei penal por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Nesse sentido:
+"É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos" (AgRg no AREsp n. 2.173.224/RN, Sexta turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 30/6/2023).
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
