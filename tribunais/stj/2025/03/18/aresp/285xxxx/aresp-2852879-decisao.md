@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo interposto por BRUNO LUIS ALVES DE LIMA BENETTI, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de BRUNO LUIS ALVES DE LIMA BENETTI, verifica-se que a petição de Recurso Especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento juntado aos autos não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barras.
+Este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, Rel.Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12.5.2020.) Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020; AgInt no REsp 1807942/RO, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 11.5.2020; e AgInt no AREsp 1572490/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20.3.2020.
+Ademais, percebido, no TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, haver essa irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o vício. Porém, apesar de sua manifestação, o preparo ainda restou irregular, tendo em vista um equívoco na fundamentação do despacho de regularização.
+Na verdade, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o Tribunal a quo deveria ter intimado a parte para efetuar o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+Sendo assim, foi percebido esse equívoco no STJ, que determinou nova intimação da parte nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de cinco dias, o vício apontado, complementando o recolhimento das custas. Porém, a parte não regularizou, limitando-se a trazer às fls. 359 o mesmo comprovante de pagamento sem código de barras, e também sem realizar a complementação do preparo, que era devido em dobro, nos termos do art. 1.007, § 4º do CPC.
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do Recurso Especial, ou mesmo dentro do prazo concedido para regularização do vício. A questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO RECURSAL. AUSÊNCIA DO NÚMERO DE CÓDIGO DE BARRAS NO COMPROVANTE DE PAGAMENTO BANCÁRIO. REGULARIZAÇÃO QUE DEPENDE DO RECOLHIMENTO EM DOBRO NO PRAZO ESTIPULADO. DUPLO JUÍZO DE ADMISSIBILIDADE. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que "a ausência de regular comprovação do preparo, no ato de interposição do recurso, implica a incidência do § 4º do art. 1.007 do CPC/2015. Quem não prova o pagamento a tempo e modo, sem o amparo de justa causa (§ 6º), nem efetua o recolhimento em dobro quando intimado (§§ 4º e 5º), sofre a pena da deserção (Súmula 187/STJ)" - (AgInt no REsp n. 1.856.622/RS, Relator o Ministro Og Fernandes, Segunda Turma, julgado em 15/6/2020, DJe de 24/6/2020).
+2. A ausência do número de código de barras no comprovante de pagamento bancário caracteriza irregularidade no preparo do recurso especial, tornando-o deserto. Precedentes.
+3. A posterior comprovação de pagamento só afasta a deserção se recolhido em dobro e dentro do prazo estipulado.
+4. Cumpre ressaltar que "o recurso especial sujeita-se a um duplo controle de admissibilidade, não vinculando esta Corte - a quem compete o juízo definitivo de admissibilidade do apelo nobre - a prévia decisão emanada pelo Tribunal de segundo grau" (AgInt no REsp n. 2.089.611/SP, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+5.  ..
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.145.179/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/10/2024, DJe de 5/11/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO DO RECURSO ESPECIAL. AUSÊNCIA. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. PAGAMENTO SIMPLES. NOVO PAGAMENTO A DESTEMPO. DESERÇÃO RECONHECIDA. SÚMULA N. 187 DO STJ. PRINCÍPIO DA PRIMAZIA DO JULGAMENTO DE MÉRITO. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Na forma da jurisprudência do STJ, é "dever da parte, quando da interposição do recurso especial, juntar as guias de recolhimento devidamente preenchidas, acompanhadas dos respectivos comprovantes de pagamento, sob pena de deserção" (AgInt no REsp n. 1.908.052/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+2. A não comprovação do pagamento em dobro do preparo recursal a tempo, mesmo após a intimação para tanto, inviabiliza o conhecimento do recurso, nos termos da Súmula n. 187 do STJ.
+3. Não é cabível a aplicação do princípio da primazia do julgamento de mérito na hipótese, pois a parte agravante, a despeito de intimada para a regularização de vício no preparo recursal, não efetuou a sua correção no prazo indicado.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.610.768/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+No caso, como a parte não comprovou o recolhimento, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Dessa forma, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+ EMENTA
