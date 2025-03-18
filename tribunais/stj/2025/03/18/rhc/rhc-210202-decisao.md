@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por FRANCISCO AVELINO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO PIAUÍ.
+O recorrente foi condenado a 7 anos e 6 meses de reclusão, nos termos do art. 33, caput, da Lei n. 11.343/2006, e a 1 ano de detenção, como incurso no art. 12 da Lei n. 10.826/2003, em regime inicial semiaberto, sendo-lhe denegado o direito de apelar em liberdade.
+Em suas razões, sustenta, em suma, a ocorrência de constrangimento ilegal, porquanto "a motivação encontrada para a manutenção da segregação cautelar é que o Recorrente, em tese, apresenta risco a ordem pública e a aplicação da lei penal (risco de fuga). Ocorre que o decisum não apresenta qualquer elemento que possa caracterizar o suposto risco, sendo assim, uma motivação GENÉRICA, ABSTRATA E APTA A FUNDAMENTAR QUALQUER DECISÃO, O QUE É VEDADO PELA LEGISLAÇÃO" (e-STJ, fl. 386).
+Aduz, ainda, que "a fixação do regime semiaberto é INCOMPATÍVEL COM A PRISÃO PREVENTIVA" (e-STJ, fl. 393), requerendo, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo desprovimento recursal, em parecer cuja ementa é a seguinte: "RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA A MANUTENÇÃO DA PRISÃO PREVENTIVA. MATÉRIA NÃO APRECIADA PELO TJPI. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. COMPATIBILIDADE COM O REGIME PRISIONAL SEMIABERTO. PRECEDENTES DESSE STJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO NÃO CONHECIMENTO OU DESPROVIMENTO DO RECURSO".
+É o relatório.
+De início, o Tribunal local, no acórdão trazido aos autos (e-STJ, fls. 355-359), não se manifestou acerca da presença dos requisitos do art. 312 do CPP, inviabilizando esta Corte de adentrar no tema, sob pena de indevida supressão de instância.
+No mais, entende este Tribunal que " a  fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória" (AgRg no RHC n. 200.685/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+"A manutenção da prisão preventiva é compatível com o regime semiaberto, conforme jurisprudência do STJ, que permite a computação do tempo de custódia provisória para progressão de regime." (HC n. 888.809/PA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 16/12/2024).
+Ante o exposto, nego provimento ao recurso em habeas corpus .
+Publique-se.
+Intimem-se.
+EMENTA
