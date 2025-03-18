@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PREVIDENCIÁRIO PENSÃO POR MORTE VÍNCULO EMPREGATÍCIO URBANO PERDA DA QUALIDADE DE SEGURADO INOCORRÊNCIA CÔNJUGE E FILHO MENOR DE 21 ANOS DEPENDÊNCIA ECONÔMICA PRESUMIDA CONCESSÃO DIREITO
+Os embargos de declaração foram parcialmente acolhidos, nos seguintes termos:
+PREVIDENCIARIO. EXISTÊNCIA DE ERRO MATERIAL. OBSERVANCIADA SÚMULA 111 DO STJ.
+I. Embargos de declaração interpostos contra acórdão que concedeu o beneficio de pensão por morte.
+II. Verificada a omissão, na ementa do acórdão embargado, em relação à aplicação da súmula 111 do STJ.
+III. Embargos de declaração providos, a fim de que seja lido o acórdão no sentido de que foi dado parcial provimento à apelação com observância da súmula 111 do STJ.
+Nas razões recursais, o recorrente aduz, em síntese, violação ao art. 535 do CPC/73, alegando negativa de prestação jurisdicional, bem como afronta ao art. 1º-F da Lei 9.494/97, inconformada com os índices adotados para correção dos valores em atraso.
+Homologado acordo (fl. 289) no que tange à correção dos valores em atraso, sobreveio o recurso para análise da matéria remanescente.
+É o relatório.
+Passo a decidir.
+A jurisprudência do STJ orienta-se no sentido de que há violação ao art. 535 do CPC/1973 quando o Tribunal de origem, a despeito da oposição de embargos de declaração, não se manifesta sobre questão relevante ao deslinde da controvérsia.
+Da análise dos autos, verifica-se que a parte ora recorrente, em sede de embargos de declaração, questionou a existência de erro de premissa na análise da documentação apresentada, sob os seguintes fundamentos, em síntese:
+ERRO POR FALSA PREMISSA. DOCUMENTO PÚBLICO. PERDA DA QUALIDADE DE SEGURADO. ARTS. 463, 1 DO CPC; 15 E 102 DA LEI N. 8.213/91 2. Assim decidiu o v. acórdão ora embargado (fl. 163):
+"Analisando os documentos acostados aos autos, verifica-se que o último vínculo empregatício de Carlos Roberto Pereira Sales teve início em 02/01/2005 e término por volta de janeiro/20 12, totalizando um período de 07 (sete) anos e 29 (vinte e nove) dias (fl. 4 5)" (g. n.)
+Verifica-se que a ilustre relatoria incorreu em erro por falsa premissa, uma vez que não há no documento referido no acórdão indicação de que o vínculo cessou em janeiro/201. Esta presunção decorreu de equívoco, uma vez que o termo inicial não se deu em 2005. A declaração de tempo de contribuição expedida pela Prefeitura Municipal de Solânea e devidamente assinada por servidor público (fl. 27) demonstra claramente que o falecido teve vários vínculos empregatícios tendo sido o primeiro ingresso em 30/07/2001 e o último iniciado em 02/08/2005 cessado em 30.11.2008. 0 último afastamento, inclusive, está expressamente indicado em 2008. Portanto, demonstra-se o erro contido no acórdão, pois o documento de fl. 45, que não contém sequer assinatura, indica término do contrato em janeiro/2012, como fez constar o relator, apenas indica o tempo de serviço no órgão de 7 anos e 29 dias e obviamente que o tempo de serviço no órgão abrange todo o período em que exerceu atividade no órgão e não apenas o ultimo contrato iniciado em 2005. A Declaração Oficial do órgão Público contida à fl. 27 bem delimita a data de entrada e afastamento de cada um dos períodos de trabalho do falecido perante à Prefeitura Municipal de Solânea.
+Ademais, as fichas funcionais de fis. 56/63 (referentes aos anos de 2001 a 2008) ratificam- a Declaração da Prefeitura de Solanea de fI. 27 que indica o término do contrato de trabalho em 2008.
+5. O documento público devidamente assinado de f . 27 tem fé pública e presunção de legitimidade, portanto, é suficiente para demonstrar- a perda da qualidade de segurado, considerando o que dispõe o art. 15, 11 da Lei n. 8.213/91.
+ ..
+No caso concreto, porém, compulsando a Declaração Oficial de tempo de Contribuição emitida pela Prefeitura Municipal de Solanea colacionado aos autos (11.27), verifica-se que o último vínculo empregatício cessou em 30/11/2008, tendo a condição de segurado da Previdência Social do autor se estendido até 30/11/09, conforme regra insculpida no art. 15, II, da Lei n0 8.213/91.
+Ocorre que o óbito apenas ocorreu em 22/01/2012 (11. 28), portanto, quando o falecido já não mais detinha a qualidade de segurado. Desta feita, não há subsistência jurídica o pleito da parte autora de obtenção de pensão por morte quando de cujus não mais detinha a qualidade de segurado.
+A qualidade de segurado é uma exigência para concessão de todos os benefícios da previdência social, que não se confunde com assistência social, cujos benefícios são concedidos independentemente de contribuição.
+Consoante art. 102 da Lei n. 8.213/91 a perda da qualidade de segurado implica na caducidade dos direitos inerentes a essa qualidade. Portanto, em razão da perda da qualidade de segurado, devidamente comprovada através da Declaração de tempo de contribuição emitida pelo ó rgão Público (Prefeitura Municipal de Solânea), fi. 27, não há direito aos autores a concessão da pensão por morte.
+Portanto, facilmente constatável, a premissa falsa em que se baseou o acórdão na sua argumentação. Configurado, portanto, claro erro material, corrigível a qualquer momento, inclusive de ofício"
+Não obstante, o Tribunal de origem os rejeitou, no ponto, sem o enfrentamento das questões cujo conhecimento havia-lhe sido devolvido nos embargos opostos.
+Nesse contexto, sendo constatado que o Tribunal de origem deixou de enfrentar a argumentação supra, mostra-se impositivo reconhecer a ocorrência de violação ao art. 535 do CPC/1973, porquanto a análise da matéria mostra-se relevante para o deslinde da controvérsia.
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de que sejam enfrentadas as questões suscitadas.
+Intimem-se.
+ EMENTA
