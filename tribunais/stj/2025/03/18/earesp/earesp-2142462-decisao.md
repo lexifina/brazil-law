@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por PATRIMONY ADMINISTRADORA DE BENS S. A. (PATRIMONY), na demanda em que contende com o CONDOMÍNIO RESIDENCIAL CIDADE JARDIM (CONDOMÍNIO), contra o acórdão prolatado pela Quarta Turma do STJ, da relatoria da Ministra MARIA ISABEL GALLOTTI, assim ementado:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. DÍVIDA CONDOMINIAL. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE DO ATUAL PROPRIETÁRIO PARA RESPONDER PELA DÍVIDA. MENÇÃO NO TÍTULO EXECUTIVO. DESNECESSIDADE. OBRIGAÇÃO "PROPTER REM". SUBSTITUIÇÃO PROCESSUAL. PRECEDENTES. DESPROVIDO.
+1. A jurisprudência do STJ é no sentido de que a obrigação condominial está vinculada à própria coisa, de modo que o próprio imóvel gerador das despesas constitui garantia de pagamento da dívida. Desse modo, nada impede que se penhore o imóvel do proprietário atual na fase de cumprimento de sentença, mesmo não tendo participado do feito na fase de conhecimento. Precedentes.
+2. Agravo interno a que se nega provimento (e-STJ, fl. 836).
+Opostos embargos de declaração, foram eles rejeitados (e-STJ, fls. 785/795).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a dissenso na interpretação do art. 1.314, parágrafo único, do Código Civil quanto a possibilidade de penhora do imóvel do proprietário atual na fase de cumprimento de sentença, quando não participou do feito na fase de conhecimento, nos casos de obrigação propter rem (dívida de condomínio).
+O embargante citou como paradigma o acórdão da Terceira Turma prolatado no AgInt no REsp nº 1.368.254/RJ, Relator Ministro MOURA RIBEIRO, Terceira Turma, j. 28/3/2017, DJe de 17/4/2017 (e-STJ, fls. 801/831).
+É o relatório.
+DECIDO.
+Os embargos de divergência jurisprudencial não se revelam cognoscíveis.
+A controvérsia submetida à análise da Segunda Seção visa dirimir suposto dissenso quanto a interpretação do art. 1.314, parágrafo único, do Código Civil, no que diz respeito a possibilidade de penhora do imóvel do proprietário atual na fase de cumprimento de sentença, quando não participou do feito na fase de conhecimento, nos casos de obrigação propter rem (dívida de condomínio).
+O acórdão embargado está em consonância com a jurisprudência atual da Segunda Seção do STJ que no sentido de que em se tratando a dívida de condomínio de obrigação propter rem, em razão do que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, ainda que não tenha participado da fase de conhecimento.
+A propósito, confiram-se os precedentes sobre o tema:
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DÉBITOS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. IMÓVEL. ARREMATAÇÃO EM HASTA PÚBLICA. DÉBITOS CONDOMINIAIS. EDITAL. PREVISÃO. ADVERTÊNCIA. RESPONSABILIDADE DO ARREMATANTE. CARÁTER "PROPTER REM" DA OBRIGAÇÃO. SUCESSÃO PROCESSUAL. POSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 DO CPC. NÃO OCORRÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284/STF. COISA JULGADA. VIOLAÇÃO. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Resume-se a controvérsia recursal a saber (i) se o acórdão recorrido padece de vício de nulidade por negativa de prestação jurisdicional (art. 1.022, inciso II, do CPC), (ii) se o acórdão recorrido, ao decidir pela inclusão do arrematante no polo passivo da execução, teria ofendido a coisa julgada formada na Justiça Trabalhista (arts. 203, § 2º, 337, § 4º, e 507 do CPC) e (iii) se a obrigação do arrematante pelas despesas condominiais nasce somente com a imissão na posse do bem (arts. 1.336, inciso I, do CCB e 12 da Lei nº 4.591/1964).
+2. Na origem, cuida-se de ação de cobrança de débitos condominiais, em fase de cumprimento de sentença, na qual o condomínio exequente requereu a inclusão do arrematante do bem imóvel no polo passivo da execução.
+3. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+4. Se o artigo apontado como violado não apresenta conteúdo normativo suficiente para fundamentar a tese desenvolvida no recurso especial, incide, por analogia, a Súmula nº 284/STF.
+5. Segundo a jurisprudência do Superior Tribunal de Justiça, (i) tendo o imóvel sido alienado em hasta pública com informação no edital acerca da existência de débitos condominiais, responde o arrematante por dívidas condominiais anteriores à arrematação, devido ao caráter propter rem da obrigação e (ii) é possível a sucessão processual do executado originário pelo arrematante do imóvel quando constante do edital de leilão a existência do débito.
+6. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+7. Inadmissível recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem.
+8. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+9. Recurso especial não provido.
+(REsp n. 2.042.756/SP, relator Ministro MOURA RIBEIRO, relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 12/11/2024, DJEN de 29/11/2024)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC/1973. NÃO OCORRÊNCIA. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. TAXAS CONDOMINIAIS. PENHORA SOBRE O IMÓVEL GERADOR DAS DESPESAS. RESPONSABILIDADE. NATUREZA PROPTER REM DA OBRIGAÇÃO. AUSÊNCIA DE VIOLAÇÃO DA COISA JULGADA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 458, II, e 535, I e II, do CPC de 1973 quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. A dívida de condomínio é uma obrigação de natureza propter rem, sendo, pois, o imóvel gerador das despesas a própria garantia ao pagamento da dívida.
+3. O que define a responsabilidade pelo pagamento das obrigações condominiais é a relação jurídica material com o imóvel, podendo essa responsabilidade recair tanto sobre o promissário comprador quanto sobre o promitente vendedor, ou sobre ambos.
+4. Em regra, o promitente comprador do imóvel é responsável pelos débitos de condomínio contemporâneos à sua posse. Entretanto, tendo sido constatada a retomada do domínio do imóvel pelo promitente vendedor, este responde pelas despesas condominiais, ressalvado o direito de regresso.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.560.117/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, j. 16/9/2024, DJe de 18/9/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. "Em se tratando a dívida de condomínio de obrigação propter rem, em razão do que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, ainda que não tenha participado da fase de conhecimento" (AgInt no REsp 1851742/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/6/2020, DJe 1/7/2020).
+Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.819.441/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024)
+Desse modo, considerando que o acórdão embargado se baseou em entendimento pacificado por esta Corte Superior, incide no caso o óbice da Súmula nº 168 do STJ, segundo a qual não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Em suma, é o caso de rejeitar liminarmente o recurso porque não se verificou dissenso entre os julgados das Turmas integrantes da Segunda Seção do STJ.
+Nessas condições nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DÍVIDA CONDOMINIAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO "PROPTER REM". ACÓRDÃO EMBARGADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA Nº 168 DO STJ. EMBARGOS REJEITADOS LIMINARMENTE.
