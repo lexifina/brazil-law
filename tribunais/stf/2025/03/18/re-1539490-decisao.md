@@ -1,0 +1,87 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Sétima Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 7, pp. 4-5):
+
+    “DIREITO ADMINISTRATIVO. REMESSA NECESSÁRIA. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. MILITAR. TAIFEIRO. LEI 12.158/2009. SUPERPOSIÇÃO DE GRAUS HIERÁRQUICOS. APLICAÇÃO EQUIVOCADA DA LEGISLAÇÃO. DECADÊNCIA ADMINISTRATIVA. INOCORRÊNCIA. AUTOEXECUTORIEDADE DA ADMINSTRAÇÃO PARA CORREÇÃO DO PAGAMENTO INDEVIDO.
+
+    1. O impetrante, com base na decadência do direito da Administração de alterar ato administrativo (art. 54 da Lei 9.784/99), obteve a segurança contra ato do Diretor de Intendência da Aeronáutica, para ver restabelecido o valor de seus proventos, pagos há mais de cinco anos com base no soldo de segundo-tenente, grau atingido pela aplicação cumulativa da MP nº 2215-10/2001 e da Lei nº 12.158/2009, que asseguraram, respectivamente, o acesso à graduação de terceiro sargento e ao posto de suboficial, com proventos de segundo tenente. Todavia, foi surpreendido com uma carta da autoridade coatora, informando que foi constatada ilegalidade na concessão da melhoria de sua reforma, em função do caráter alternativo das melhorias referidas, o que ensejará redução significativa de sua remuneração.
+
+    2. A sentença, vislumbrando a ocorrência da decadência (art. 54 da Lei 9.784/99), determinou que o Diretor de Intendência da Aeronáutica se abstivesse de praticar qualquer ato de redução dos proventos do impetrante.
+
+     3. A decadência (art. 54 da Lei 9.784/99): (i) não pode amparar a perpetuação de pagamento indevido em decorrência de atos administrativos praticados em desacordo com a lei, não consistindo em limitação à autotutela da Administração (súmula 473, do STF); (ii) “refere-se a atos passíveis de anulação, não alcançando atos nulos, porquanto estes não geram quaisquer efeitos. De fato, o ato ilícito não gera o direito adquirido”; (iii) “aplica-se aos pagamentos pretéritos, nada existindo que possa impedir a administração de regularizar a situação, de modo prospectivo, para o futuro” (Embargos Infringentes na AC 00009854820104025101, Rel: Des Fed Reis Friede – 3ª Seção Esp., Pbl 12/04/2013); (iv) o prazo “não se aplica aos casos em que o TCU ainda não examinou ou está examinando a legalidade do ato de concessão do benefício” pois tais atos “têm natureza complexa, porquanto apenas se formam com a conjugação, ou integração, das vontades de órgãos diversos - da Administração (que defere o pedido) e do Tribunal de Contas (que controla a legalidade do mesmo e o confirma). Desse modo, somente a partir do momento em que o ato concessório (inicial ou de melhorias) se perfectibiliza - com o registro pela Corte de Contas -, é que o prazo decadencial começa a correr”(AC 2016.51.01.125293-0, Rel: Des FedSergio Schwaitzer – 7ª T. Esp., Pbl. 06/12/2018).
+
+     4. Mesmo a irretroatividade de que são dotadas as novas interpretações da lei adotadas pela Administração Pública referem-se apenas aos efeitos futuros das relações de trato continuado, não se podendo invocar direito adquirido no que se refere a ato concessório ainda passível de revisão, à luz do comentado prazo decadencial.
+
+     5. O recorrido foi transferido para a reserva remunerada em 18/11/94, como taifeiro-mor, recebendo proventos de terceiro sargento, conforme a MP 2.215-10/2001, art. 34 (“Fica assegurado ao militar que, até 29 de dezembro de 2000, tenha completado os requisitos para se transferir para a inatividade o direito à percepção de remuneração correspondente ao grau hierárquico superior ou melhoria dessa remuneração.”). Posteriormente, com a edição da Lei nº 12.158/2009 e do Decreto 7.188/2010, o autor foi promovido à graduação de Suboficial, com proventos correspondentes ao soldo de Segundo-Tenente.
+
+    6.  Não é juridicamente possível que a patente de Suboficial, somente alcançada na inatividade, em decorrência da aplicação da Lei nº 12.158/2009, seja considerada como base de cálculo para os benefícios de reforma remunerada da Lei nº 6.880/80, uma vez que o referido diploma legal exige, para o cálculo de tal provento, que se leve em consideração o grau hierárquico imediato ao que o militar possuía quando estava na ativa (TRF2 - AI nº 2016.00.00.009131-4. Relator: Desembargador Federal Aluísio Gonçalves de Castro Mendes, 5ª T. Esp., E-DJF2R 21/02/2017).
+
+    7. Conforme assentou o MPF, “a aplicação da Lei nº 12.158/2009 fora feita de forma equivocada, porque permitiu aos militares enquadrados na referida situação legal, dentre os quais o recorrido, uma sobreposição indevida de melhoria por ocasião da reforma, pulando dois níveis na escala hierárquica castrense, já que ele já havia sido contemplado pela Medida Provisória anterior, permitindo, na hipótese concreta em testilha, alcançar o posto de oficial, quando, na verdade, a lei de 2009 só permitia a promoção até graduação de suboficial (vide art. 98, alíneas “b” e “c”, Lei nº 6.880/80)”.
+
+     8. Correta a Administração Militar ao exarar o Parecer nº 418/2012/COJAER/CGU/AGU, explicitando que deve ser realizada a aplicação alternativa e não cumulativa, dos referidos diplomas, assegurando-se a opção pelo benefício mais vantajoso ao militar.
+
+     9. Remessa necessária e Apelação providas.”
+
+    No recurso extraordinário interposto com fundamento no artigo 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 37, XV, e 142 §3°, da Constituição Federal.
+
+    Nas razões recursais, sustenta-se que (eDOC 7, p. 36):
+
+    “(...) o ato administrativo de redução de proventos fere diretamente o principio constitucional de irredutibilidade de vencimentos e ainda da ampla defesa e contraditório, visto que passado o quinquênio de recebimento de proventos de inatividade e a aposentadoria não fora homologado pelo Tribunal de Contas da União. Diante deste lapso temporal em que a aposentadoria não foi devidamente homologada, há que se oferecer ampla defesa e contraditório para redução de proventos, por se tratar de ato complexo, para que não haja ausência de comprovação da adoção por instrumento jurídico inadequado, visto que ninguém pode ser privado de sua liberdade, de seus bens ou de seus direitos sem o devido processo legal.”
+
+    O Tribunal de origem inadmitiu o recurso extraordinário ante a incidência da súmula 279 do STF (eDOC 9, pp. 12-16).
+
+    Em 1º.07.2020, a Presidência desta Corte determinou a remessa dos autos ao Tribunal de origem para eventual juízo de retração à luz do Tema 445 da sistemática da repercussão geral (eDOC 12).
+
+    Recebidos os autos na origem, a Sétima Turma do Especializada do TRF da 2ª Região concluiu pela ausência de identidade entre o Tema 445 e a matéria tratada no processo e determinou a devolução dos autos a esta Corte. O acórdão recebeu a seguinte ementa (eDOC 46):
+
+    “PROCESSO CIVIL. RECURSO EXTRAORDINÁRIO. JUÍZO DE RETRATAÇÃO. MILITAR. REVISÃO DE MELHORIA DE PROVENTOS. DECADÊNCIA. ART. 54, DA LEI 9.784/99. TERMO FINAL. TEMA 445 DO STF. ACÓRDÃO MANTIDO. 1. A Vice-Presidência da Corte, em 7.8.2020, devolveu os autos a esta Turma Especializada para eventual juízo de retratação em acórdão que, em 15.5.2019, deu provimento à remessa necessária e à apelação da União para reformar a sentença e denegar a sentença, forte em que “a decadência (art. 54 da Lei 9.784/99), não pode amparar a perpetuação de pagamento indevido em decorrência de atos administrativos praticados em desacordo com a lei. [...] Há que ser afastada, em casos como o presente, a decadência, pois a superposição de graus hierárquicos, resultante das promoções cumulativas com base no art. 50, II, §1º, letra c, da Lei nº 6.880/80 e também na Lei 12.158/09, revela aplicação equivocada da lei.”. 2. A reconsideração deve levar em conta o tema 445 (RE 636553, em 19.2.2020): “Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas”. 3. O precedente vinculativo diz respeito apenas ao controle de legalidade efetivado pelo TCU, nada dizendo sobre o controle de legalidade efetivado pelo próprio órgão concessório do benefício, tal como o levado a efeito pela Administração Militar, a partir do entendimento exarado no Parecer nº 418/2012/COJAER/CGU/AGU. 4. Como se extrai do voto condutor do Ministro GILMAR MENDES, a Suprema Corte não fixou termo final a partir do qual a revisão por motivos de legalidade não poderia mais ser feita, mas tão somente delimitou o momento até o qual o controle específico do TCU poderia ser feito independentemente da notificação do interessado para o devido contraditório, e do momento a partir do qual a notificação passa a ser necessária. 5. Na espécie, tanto pelo fato de não se tratar do controle de legalidade exercido pelo TCU, quanto pelo fato de ter sido presumivelmente garantido o contraditório ao impetrante pela Administração Militar, o precedente revela-se inaplicável. 6. Ainda que assim não fosse, no aspecto factual específico do presente caso, o prazo decadencial, caso aplicável da forma projetada pelo impetrante, não restou desatendido, pois a Administração, em 27.6.2016, comunicou o impetrante da decisão administrativa de reduzir os proventos. A ação foi ajuizada em 5.10.2016. O impetrante, reformado em 18.11.94, afirmou na inicial que há 6 anos vinha recebendo a melhoria da reforma (desde 1.8.2010). Já a autoridade informou que, antes de transcorridos cinco anos do primeiro pagamento da melhoria da reforma, ou seja, antes de 1.8.2015, foi expedida a Portaria COMGEP 1.471-T/AGU, de 25/6/2015, publicada no Boletim 121 da Aeronáutica, de 1/7/2015, com ciência a todos os interessados. 7. Acórdão mantido”.
+
+    Em nova análise de admissibilidade, o recurso foi admitido (eDOC 48).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    O Tribunal a quo, quando do julgamento da apelação e da remessa necesária, assim asseverou (eDOC 6, pp. 25-29):
+
+    “A sentença que reformo para denegar a segurança relata que VALENTIM ALCIDES MARINHO DA CRUZ impetrou mandado de segurança contra ato do DIRETOR DE INTENDÊNCIA DA AERONÁUTICA para, com base na decadência do direito da Administração de alterar ato administrativo (art. 54 da Lei 9.784/99), ver restabelecido o valor de seus proventos, pagos há mais de cinco anos com base no soldo de segundo-tenente. Alegou que é militar reformado, pertencente ao quadro de taifeiros e, ao passar para a reserva, começou a receber soldo correspondente ao grau hierárquico superior, ou seja, terceiro-sargento, conforme determinava a MP nº 2215-10/2001. Posteriormente, adveio a Lei nº 12.158/2009, que assegurou aos taifeiros da Aeronáutica na inatividade o acesso a graduações superiores, passando a ocupar o posto de suboficial, com proventos de segundo tenente. Todavia, foi surpreendido com uma carta da autoridade coatora, informando que foi constatada ilegalidade na concessão da melhoria de sua reforma, o que ensejará redução significativa de sua remuneração.
+
+    (...)
+
+    Quanto à decadência (art. 54 da Lei 9.784/99), não pode amparar a perpetuação de pagamento indevido em decorrência de atos administrativos praticados em desacordo com a lei. Assim tem decidido este Tribunal:
+
+     [...] Em sendo assim, a autoridade administrativa, acatando recomendação constante do Acórdão nº 2.534/2007-TCU, corretamente suspendeu o pagamento da pensão por morte recebida pela Autora, na forma da Súmula 473 do Pretório Excelso, segundo a qual “a Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos (...)”. - Destaca-se, por oportuno, que a decadência a que se refere o art. 54 da Lei 9784/99 refere-se a atos passíveis de anulação, não alcançando atos nulos, porquanto estes não geram quaisquer efeitos. De fato, o ato ilícito não gera o direito adquirido. Se, na origem, a vantagem percebida é ilícita, não se pode falar, jamais, em direito adquirido à continuação do benefício. O administrador pode e deve confrontar a verba paga com os requisitos pertinentes, cancelando-a, se ilegal. O prazo de decadência para a administração anular os seus atos, referido no mencionado art. 54 da Lei 9.784, aplica-se aos pagamentos pretéritos, nada existindo que possa impedir a administração de regularizar a situação, de modo prospectivo, para o futuro. [...] (Embargos Infringentes na AC 00009854820104025101, Rel: Des Fed Reis Friede – 3ª Seção Esp., Pbl 12/04/2013)”
+
+    (...)
+
+    Há que ser afastada, em casos como o presente, a decadência, pois a superposição de graus hierárquicos, resultante das promoções cumulativas com base no art. 50, inciso II, §1º, letra c, da Lei nº 6.880/80 e também na Lei 12.158/09, revela aplicação equivocada da lei”.
+
+    Depreende-se dos fundamentos que constam no acórdão recorrido, que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional aplicável à espécie. Dessa forma, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+
+    EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. REVISÃO DO ATO DE APOSENTADORIA. DECADÊNCIA ADMINISTRATIVA. INCIDÊNCIA DO ART. 54 DA LEI N. 9.784/1999. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 928029 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 01-03-2016)
+
+    EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO DE REVISÃO DE PROVENTOS DE APOSENTADORIA. REESTRUTURAÇÃO DO QUADRO DE PESSOAL. APLICAÇÃO DA PARIDADE AOS PROVENTOS. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional local, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmulas 279 e 280 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita. (ARE 1344736 AgR, Rel. Min. Luiz Fux, Tribunal Pleno,DJe 24-11-2021)
+
+    Além disso, em relação ao Tema 445 da RG, cujo recurso paradigma é o RE 636.553-RG, de relatoria do Ministro Gilmar Mendes, DJe 26.05.2020, o Plenário Virtual reconheceu a existência de repercussão geral da questão constitucional suscitada, cuja ementa restou assim redigida:
+
+    “Recurso extraordinário. Repercussão geral. 2. Aposentadoria. Ato complexo. Necessária a conjugação das vontades do órgão de origem e do Tribunal de Contas. Inaplicabilidade do art. 54 da Lei 9.784/1999 antes da perfectibilização do ato de aposentadoria, reforma ou pensão. Manutenção da jurisprudência quanto a este ponto. 3. Princípios da segurança jurídica e da confiança legítima. Necessidade da estabilização das relações jurídicas. Fixação do prazo de 5 anos para que o TCU proceda ao registro dos atos de concessão inicial de aposentadoria, reforma ou pensão, após o qual se considerarão definitivamente registrados. 4. Termo inicial do prazo. Chegada do processo ao Tribunal de Contas. 5. Discussão acerca do contraditório e da ampla defesa prejudicada. 6. TESE: "Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas". 7. Caso concreto. Ato inicial da concessão de aposentadoria ocorrido em 1995. Chegada do processo ao TCU em 1996. Negativa do registro pela Corte de Contas em 2003. Transcurso de mais de 5 anos. 8. Negado provimento ao recurso”.
+
+    A Tese do Tema 445 da Repercussão Geral ficou assim definida:
+
+    “Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas.”
+
+    Diferente é a hipótese dos autos, na qual se discute a legalidade de revisão de benefício previdenciário feita pela Administração Militar, e o paradigma trata de prazo de revisão feita pelo Tribunal de Contas.
+
+    Assim, a aplicação do Tema 445 da repercussão geral se torna inviável por tratar de matéria diversa da discutida nos autos.
+
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do CPC e art. 21, §1º, RISTF.
+
+    Sem honorários, por se tratar de mandado de segurança na origem (Súmula 512/STF e art. 25 da Lei 12.016/2009).
+
+    Publique-se.
+
+    Brasília, 18 de março de 2025.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
