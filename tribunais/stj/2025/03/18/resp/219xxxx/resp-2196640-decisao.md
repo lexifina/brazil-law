@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fl. 195):
+APELAÇÃO CÍVEL. PERÍCIA JUDICIAL QUE CONCLUIU PELA INCAPACIDADE TOTAL E PERMANENTE DO AUTOR COM ORIGEM EM ACIDENTE LABORAL. COMPROVADA A QUALIDADE DE SEGURADO EMPREGADO NA DATA DO INFORTÚNIO. SENTENÇA DE PROCEDÊNCIA MANTIDA.
+1. Quando questionado se a moléstia ou lesão decorre do trabalho exercido, ou de acidente de trabalho, a resposta do Perito judicial foi afirmativa, justificando-a como "queda no trabalho", tal vem corroborado por diversos documentos acostados, portanto não há dúvida acerca da natureza acidentária do benefício postulado.
+2. O conjunto probatório posto nos autos é suficiente a corroborar o exercício, pelo autor, da atividade de extração de basalto na data da alegada queda sofrida no ambiente de trabalho e que originou a incapacidade laborativa constatada pela perícia judicial. Além disso, o indeferimento administrativo do benefício de auxílio-doença foi motivado pela "não constatação da incapacidade laborativa", e não pela falta da qualidade de segurado.
+APELAÇÃO DESPROVIDA.
+Os subsequentes embargos de declaração foram rejeitados.
+Nas razões do recurso especial, fundamentado na alínea a do permissivo constitucional, o INSS sustenta ofensa aos arts. 489, II e § 1º, IV; e 1.022, II e parágrafo único, II, do Código de Processo Civil, alegando negativa de prestação jurisdicional.
+Aduz, em suma, que, "Em suas razões recursais, o INSS demonstrou a ausência dos requisitos legais para acolhimento da pretensão da parte autora, uma vez que a parte autora era segurada CONTRIBUINTE INDIVIDUAL da data do acidente, categoria de segurado que NÃO faz jus a benefícios acidentários, mas tão somente os segurados empregados, domésticos e segurados especiais" (fl. 238), e que o Tribunal a quo não enfrentou referido argumento.
+Sem contrarrazões, o recurso especial foi admitido na origem.
+É o relatório.
+Decido.
+A irresignação não procede.
+Depreende-se dos autos que o Juízo de primeira instância concedeu à parte ora ora recorrida o benefício de auxílio-doença e, comprovada a incapacidade, o benefício de aposentadoria por invalidez, bem como os respectivos consectários legais (fls. 119-121).
+O INSS interpôs recurso de apelação, aduzindo não ser devido qualquer benefício acidentário para os segurado s contribuintes individuais (fl. 146).
+O Tribunal de origem manteve a sentença, ensejando a oposição de embargos de declaração pelo ora recorrente.
+No julgamento do recurso integrativo, o Tribunal a quo rechaçou a alegação de que a condição de contribuinte individual afastaria o direito ao benefício acidentário, deixando assente que o autor, à época do infortúnio, era segurado empregado.
+Confira-se (fls. 226-227; sem grifos no original):
+Nas razões, alegou que a decisão embargada restou omissa, pois o recurso não impugnou a qualidade de segurado do autor, mas afirmou que ele era segurado contribuinte individual da data do acidente, categoria que não faz jus a benefícios acidentários, portanto, não foi comprovada a existência de um acidente de trabalho no caso concreto. Requereu o acolhimento dos aclaratórios para que seja sanada a omissão apontada, com análise da questão jurídica veiculada no recurso da autarquia, ainda que apenas para efeito de prequestionamento.
+ ..
+Inexiste omissão no decisum, mas mera divergência de interpretação, posto que a tese defendida pelo embargante é contrária àquela acolhida pelo colegiado e amparada pela prova documental, no caso, de que efetivamente se trata de infortúnio laboral sofrido pelo autor/embargado na época em que era segurado empregado.
+Como se percebe, não houve ofensa aos arts. 489 e 1.022 do Código de Processo Civil, pois o Tribunal a quo enfrentou devidamente a controvérsia que lhe foi submetida, apresentando fundamentação concreta e suficiente para dar suporte à sua conclusão. Ressalte-se que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+A propósito, conforme o entendimento desta Corte, " o  julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola os arts. 489 e 1.022 do CPC/2015" (AgInt no REsp n. 2.044.805/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DO ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. AUSÊNCIA DE PROVAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.  ..
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.030.272/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. SUPOSTA OFENSA AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. ALEGAÇÃO DE EXERCÍCIO DE ATIVIDADE RURAL EM REGIME DE ECONOMIA FAMILIAR. INÍCIO DE PROVA MATERIAL NÃO CORROBORADO POR PROVA PROVA TESTEMUNHAL, CONFORME CONSTATADO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Em relação à alegada ofensa ao art. 1.022 do Código de Processo Civil, verifica-se que o Tribunal a quo não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.384.906/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 23/4/2024, DJe de 25/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 83/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+ ..
+5. Agravo Interno não provido. (AgInt no AREsp n. 2.544.386/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+Registre-se, ainda, que "não se presta a via declaratória para obrigar o Tribunal a reapreciar provas, sob o ponto de vista da parte recorrente (STJ, AgRg no Ag 117.463/RJ, Rel. Ministro Waldemar Zveiter, Terceira Turma, DJU de 27/10/97)" (AgInt nos EDcl no REsp n. 1. 941.173/AL, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/8/2023, DJe d e 31/8/2023).
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO OU DEFICIÊNCIA NA FUNDAMENTAÇÃO DO ACÓRDÃO. RECURSO ESPECIAL DESPROVIDO.
