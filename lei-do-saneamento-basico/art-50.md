@@ -25,3 +25,4 @@ II - comunidades tradicionais, incluídas áreas quilombolas; e
 III - terras indígenas.
 § 11. A União poderá criar cursos de capacitação técnica dos gestores públicos municipais, em consórcio ou não com os Estados, para a elaboração e implementação dos planos de saneamento básico.
 § 12. (VETADO).
+§ 13. As condicionantes para alocação de recursos de que tratam os incisos I a IX do caput deste artigo não se aplicam ao componente de drenagem e manejo de águas pluviais urbanas quando destinados a Municípios em situação de emergência ou estado de calamidade pública reconhecidos pelo Poder Executivo federal ou suscetíveis a eventos de enxurradas e inundações, conforme cadastro publicado pelo Poder Executivo, nos termos do regulamento.
