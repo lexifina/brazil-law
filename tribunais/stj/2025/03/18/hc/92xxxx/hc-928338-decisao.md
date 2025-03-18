@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSE AIRTON MAGALHAES FERREIRA FILHO e TALES VALENSUELA GONCALVES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Os pacientes foram condenados, respectivamente, às pena a 5 (cinco) anos e 3 (três) meses de reclusão, pena de multa de 80 dias-multa, regime semi-aberto e 5 (cinco) anos e 3 (três) meses de reclusão, com detração do tempo custodiado, foi modificado o regime inicial para o aberto, ambos pela prática do delito do art. 2o, §2º, da Lei 12.850/13. O recurso de apelação foi denegado pelo Tribunal de origem.
+Requer o impetrante o afastamento de supostas ilegalidades no que diz respeito: i) valoração negativa das circunstâncias do delito do art. 2º da Lei 12.850/2013 em razão de os Pacientes serem integrantes da facção criminosa PCC (Primeiro Comando da Capital); ii) inadequação da aplicação da majorante tipificada no art. 2º, § 2o, da Lei 12.850/2013, que majora as penas em relação a organizações criminosas que atuam com o emprego de armas de fogo.
+As informações foram prestadas ( fls.228/232, 252/262 ).
+O Ministério Público Federal ofereceu parecer ( fls.245/249 ).
+RELATADO. DECIDO.
+O Superior Tribunal de Justiça, alinhando-se à jurisprudência mais recente do Supremo Tribunal Federal, passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC n. 792.645/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, D Je de 13/2/2023).
+As alegações suscitadas no presente writ, com relação aos critérios de fixação da pena dos pacientes, já foram examinadas e rejeitadas pelo Tribunal de origem, por ocasião do julgamento do recurso de apelação interposto pela defesa. Eis os seguintes trechos da ementa do acórdão com relação ao tema ( fl.194 ) :
+De acordo com as provas constantes do caderno processual, há a comprovação da materialidade do crime de organização criminosa, no núcleo do tipo integrar, bem como da organização estrutura, permanente, estável e com divisão de tarefas, independentemente da prática efetiva de qualquer ilícito pelos agentes reunidos na societas delinquentium.
+Pedido de excesso de pena privativa de liberdade em razão da valorização negativa, na primeira fase da dosimetria da pena, das circunstâncias do crime rejeitada. Precedente do Superior Tribunal de Justiça.
+Rejeição do pedido de impropriedade da incidência da causa de aumento prevista no §2º do art. 2º da Lei nº 12.850/2013. Majorante que se aplica com a comprovação do emprego de arma de fogo na atuação da organização criminosa, independentemente de apreensão de arma e perícia, comunicando- se a todos os coautores, por se tratar de uma circunstância objetiva. Precedente do Superior Tribunal de Justiça.
+Portanto, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
