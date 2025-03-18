@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARLI BARANOWSKI VENDLER, fundamentado no art. 105, inciso III, alínea a e c, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO na Apelação Cível n. 5001275-48.2023.4.04.7208/SC. Confira-se a ementa (fl. 381):
+MEDICAMENTOS. ÓBITO. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. HONORÁRIOS ADVOCATÍCIOS.
+1. Nas ações versando sobre fornecimento de medicamentos e tratamentos de saúde, diante do caráter personalíssimo do pedido, o óbito do autor acarreta a perda superveniente do objeto da ação e, por consequência, sua extinção sem julgamento do mérito. 2. Na dicção do artigo 85, §10, do Código de Processo Civil, nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo. 3. A imposição do ônus sucumbencial resta desautorizada quando o óbito da parte autora precede a própria formação da relação jurídica processual.
+Não se opuseram embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente alega violação ao art. 85, §§ 6º e 10º, do CPC. Sustenta que os honorários de sucumbência são devidos pela parte que deu causa à demanda, independentemente da perda superveniente do objeto ou da ausência de resolução de mérito (fls. 395-399).
+Requer o provimento do recurso especial para reformar a decisão recorrida e manter a sentença de primeiro grau que condenou os recorridos ao pagamento dos honorários de sucumbência.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido, razão por que foi interposto o agravo ora examinado.
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade, passo ao exame do recurso especial.
+O Tribunal de origem, ao julgar a apelação, decidiu pela extinção do processo sem resolução do mérito devido à perda superveniente do objeto, causada pelo óbito da parte autora. O acórdão determinou que, nesses casos, os honorários advocatícios não são devidos quando o óbito precede a formação da relação jurídica processual (fl. 381).
+A parte recorrente, Marli Baranowski Vendler, alega que o acórdão violou o art. 85, §§ 6º e 10º, do CPC, que prevê que os honorários de sucumbência são devidos por quem deu causa ao processo, mesmo em casos de sentença sem resolução de mérito por perda de objeto. A recorrente sustenta que a responsabilidade pelo ônus da sucumbência deve ser atribuída aos recorridos, que deram causa ao processo ao não fornecerem os medicamentos solicitados na via administrativa (fls. 395-399).
+O cotejo entre a decisão do Tribunal de origem e as alegações da parte recorrente revela que a pretensão da recorrente implica o reexame do contexto fático-probatório dos autos, especialmente no que se refere à determinação de quem deu causa ao processo e à aplicação do princípio da causalidade. A recorrente busca a revisão da interpretação dada pelo Tribunal de origem ao art. 85, §§ 6º e 10º, do CPC, o que, conforme a decisão de inadmissibilidade do recurso especial, implicaria a formação de novo juízo acerca dos fatos e das provas, e não apenas a valoração dos critérios jurídicos.
+Dessa forma, incide no presente caso a Súmula n. 7 do Superior Tribunal de Justiça (STJ), que impede o conhecimento do recurso especial quanto ao ponto, pois a pretensão de simples reexame de prova não enseja recurso especial (fls. 448-449).
+Nessa senda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. EMBARGOS À EXECUÇÃO. NATUREZA JURÍDICA DE AÇÃO DE CONHECIMENTO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. FIXAÇÃO DE HONORÁRIOS. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. INVIABILIDADE DA FIXAÇÃO POR EQUIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, o princípio da causalidade orienta que a sucumbência ficará a cargo daquele que deu causa à instauração da demanda ou do incidente. Precedentes.
+2. No âmbito dos embargos à execução, por possuírem natureza jurídica de ação de conhecimento, os honorários advocatícios sucumbenciais devem ser fixados tendo em mira os princípios da sucumbência e da causalidade.
+3. Na hipótese dos autos, o Tribunal de origem, com base nas provas dos autos, entendeu que quem teria dado causa à execução de forma indevida foi a ora embargada-agravante, fixando honorários advocatícios em favor da parte contrária.
+4. Assim, modificar os critérios que levaram o Tribunal de origem a reduzir o montante fixado em honorários advocatícios, ou até mesmo afastar esses valores, para verificar o trabalho efetivamente realizado pelo advogado, demandaria reexame de matéria fático-probatória, vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.227.694/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Conforme jurisprudência desta Corte Superior, a existência de óbice processual, impedindo o conhecimento de questão suscitada com base na alínea a do permissivo constitucional, prejudica a análise da alegada divergência jurisprudencial acerca do mesmo tema. Com igual entendimento: AgInt no AREsp n. 2.370.268/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023; AgInt no REsp n. 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da part e ora recorrida, nas instâncias ordinárias.
+Diante do óbito da parte autora MARLI BARANOWSKI VENDLER e, tendo em vista que a advogada litiga tão-somente em relação aos honorários advocatícios, modifique-se a autuação, para que passe a figurar, como recorrente, MARILENA BARANOWSKI, atuando em causa própria.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MEDICAMENTOS. ÓBITO. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. FIXAÇÃO DE HONORÁRIOS. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL .
