@@ -1,0 +1,101 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. PARTICIPAÇÃO DE MEMBRO DO MINISTÉRIO PÚBLICO EM CONSELHO DA POLÍCIA CIVIL. IMPOSSIBILIDADE. PRECEDENTES DO PLENÁRIO. ACÓRDÃO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO PROVIDO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base nas als. a e d do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+
+    “APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DOS AUTORES. PRETENSÃO DE NULIDADE DO PROCESSO ADMINISTRATIVO DISCIPLINAR QUE CULMINOU NA CASSAÇÃO DA APOSENTADORIA DOS AUTORES, CONSIDERANDO A PARTICIPAÇÃO DE MEMBROS DO MINISTÉRIO PÚBLICO E DA PROCURADORIA GERAL DO ESTADO NO CONSELHO DA POLÍCIA CIVIL. ÓRGÃO ESPECIAL DESTA CORTE QUE DECLAROU INCIDENTALMENTE A INCONSTITUCIONALIDADE DO INCISO IV DO ART. 6º, DA LEI COMPLEMENTAR ESTADUAL N. 14/82. MODULAÇÃO DOS EFEITOS AFASTADA PELAS CORTES SUPERIORES. CASO CONCRETO, NO ENTANTO, EM QUE A PARTICIPAÇÃO DE MEMBRO DO MINISTÉRIO PÚBLICO OCORREU APENAS NA FASE DE INSTAURAÇÃO DO PAD. DELIBERAÇÃO DO CONSELHO DA POLÍCIA CIVIL PELA CASSAÇÃO DA APOSENTADORIA DOS SERVIDORES INATIVOS, EM RAZÃO DE PRÁTICA DE FATO DELITUOSO, QUE NÃO CONTOU COM A PARTICIPAÇÃO DE MEMBRO DO MINISTÉRIO PÚBLICO. INSTAURAÇÃO DO PAD, ADEMAIS, QUE SE CONSTITUI ATO VINCULADO, DIANTE DO INDICIAMENTO DOS SERVIDORES POLICIAIS CIVIS EM INQUÉRITO POLICIAL, CONFORME PREVISÃO NO ESTATUTO DA POLÍCIA CIVIL. PRECEDENTES DESTA CORTE E DO STJ. PARTICIPAÇÃO DE PROCURADOR DO ESTADO NO CONSELHO QUE NÃO CONFIGURA ILEGALIDADE. QUESTÃO PACIFICADA PELO STF NA ADI N. 2926. AUSÊNCIA DE CAUSA A ENSEJAR A NULIDADE DO PROCESSO ADMINISTRATIVO DISCIPLINAR QUE CULMINOU NA CASSAÇÃO DA APOSENTADORIA DOS AUTORES. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. MAJORAÇÃO DOS HONORÁRIOS CABÍVEL. RECURSO CONHECIDO E DESPROVIDO” (fls. 4-5, e-doc. 178).
+
+    2. No recurso extraordinário, os agravantes alegam ter o Tribunal de origem contrariado a al. d do inc. II do § 5º do art. 128, o inc. VII do art. 129 e o § 4º do art. 144 da Constituição da República.
+
+    Esclarecem ter interposto “ação judicial com o intuito de reconhecer a nulidade do ato demissional, porquanto derivado de Processo Administrativo Disciplinar no qual se verificam uma série de ilegalidades e inconstitucionalidades, essencialmente quanto à presença de membros do Ministério Público e da Procuradoria do Estado no Conselho da Polícia Civil do Paraná” (fl. 4, vol. 233).
+
+    Afirmam que “a quaestio iuris reside na possibilidade de ser ou não CONSTITUCIONAL a participação de membros do Ministério Público e da Procuradoria Geral do Estado no julgamento do Colendo CONSELHO DA POLÍCIA CIVIL, prevalecendo o entendimento de que é fato não recepcionado pela Constituição Federal de 1988, independentemente do julgamento do MS nº 975.675-6 do TJPR, que ocorreu em 18/04/2013” (fl. 6, e-doc. 233).
+
+    Asseveram ser certo que “o Acórdão recorrido reconhece a inconstitucionalidade da participação remunerada dos membros do Ministério Público e da Procuradoria Geral do Estado na instauração e no julgamento do Processo Administrativo Disciplinar guerreado, porém, somente após a decisão proferida no Mandado de Segurança nº 975.675-6/OE-TJPR, que ocorreu em 18/04/2013 (registre-se, somente 2 (dois) dias após a publicação do Decreto demissório)” (fl. 7, e-doc. 233).
+
+    Sustentam que “o SUPREMO TRIBUNAL FEDERAL já assentou entendimento sobre à matéria (impondo ressaltar a perfeita similitude fática em cotejo ao caso à espécie, reiterando os precedentes favoráveis à tese inicial)”, e que “restou unânime entre os Ministros votantes, que a participação do Parquet em órgão colegiado, mediante remuneração e voto é INCONSTITUCIONAL” (fls. 8-9, e-doc. 233).
+
+    Salientam que “o entendimento pacífico do Superior Tribunal de Justiça e do Supremo Tribunal Federal (diversas decisões monocráticas com fundamento no art. 557 do CPC) é no sentido de que é INCONSTITUCIONAL o artigo 6º, incisos IV e VII da LEI COMPLEMENTAR ESTADUAL 98/2003, pela VEDAÇÃO CONSTITUCIONAL determinada no art. 128, § 5º, inciso II, letra ‘d’ da Carta Magna, bem como pelo afrontamento expresso ao art. 44, inciso I e IV da Lei Federal nº 8.625/93, essencialmente em face da percepção de jeton, gratificação paga por cada sessão no Conselho da Polícia Civil, em especial para os membros da Procuradoria do Estado e do Ministério Público, SEM QUALQUER MODULAÇÃO DOS EFEITOS DA DECISÃO (não reconhece o efeito ex nunc)” (fl. 11, e-doc. 233).
+
+    Pedem o provimento do presente recurso “para o fim específico de que seja reconhecido e declarado a NULIDADE DO PROCESSO ADMINISTRATIVO DISCIPLINAR que determinou a demissão do Recorrente, essencialmente pela INCONSTITUCIONALIDADE do artigo 6º, incisos IV e VII da Lei Complementar Estadual 98/2003, pela violação direta ao artigo 128, § 5º, inc. II, letra ‘d’ da CF/88 e artigo 129, inc. VII e artigo 144, § 4º da Constituição Federal” (fl. 16, e-doc. 233).
+
+    3. O recurso extraordinário foi inadmitido pela incidência das Súmulas ns. 279 e 280 do Supremo Tribunal Federal (e-doc. 261).
+
+    4. Neste agravo, os agravantes afirmam a ocorrência de ofensa direta à Constituição da República e reiteram as razões do recurso extraordinário.
+
+    Pedem “se digne essa Colenda Turma em conhecer do presente recurso de Agravo em Recurso Extraordinário, para reformando a Decisão que negou seguimento as razões no Tribunal de origem, seja admitido o Recurso Extraordinário” (fl. 11, e-doc. 189).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    5. Inicialmente, cumpre afastar os fundamentos da decisão agravada sobre a incidência das Súmulas ns. 279 e 280 deste Supremo Tribunal, pois a análise da controvérsia trazida nos autos independe do reexame de provas ou de legislação infraconstitucional local. A matéria em debate é de natureza constitucional e sobre ela há julgados deste Supremo Tribunal que conferem razão jurídica aos agravantes.
+
+    6. O Tribunal de origem decidiu a controvérsia relativa à participação de membro do Ministério Público e da Procuradoria-Geral estadual no Conselho da Polícia Civil com os seguintes fundamentos:
+
+    “Através do mandado de segurança em questão, o Órgão Especial deste Tribunal declarou inconstitucional incidentalmente o art. 6º, inc. IV, da Lei Complementar Estadual n. 14 /82, com efeitos ‘ex nunc’, sendo modulado os efeitos para a partir de 18/04/2013. Ocorre que a modulação foi revista pelos Tribunais Superiores, conforme RMS 47154/PR, no STJ, e RE 1101950, no STF.
+
+    Com isso, a interpretação sobre a questão converge no sentido do reconhecimento da inconstitucionalidade da participação remunerada de membros do Ministério Público em colegiados de outras instituições, por violar os princípios da autonomia institucional e da independência funcional. Neste aspecto, a Suprema Corte é firme em relação à questão: (...)
+
+    Todavia, a questão passou a ser tratada com base na prejudicialidade da atuação ministerial nos feitos administrativos, devendo ser avaliado o grau de prejuízo da participação dos membros do Ministério Público, bem como eventual repercussão negativa no processo administrativo eventualmente questionado.
+
+    A esse respeito, colaciona-se entendimento adotado pelo Órgão Especial desta Corte: (...)
+
+    A mesma hipótese se verifica no presente caso. A análise detida do Processo Administrativo Disciplinar revela que a participação do Promotor de Justiça Dr. Pedro Carvalho Santos Assinger se deu apenas na deliberação do Conselho da Polícia Civil acerca da instauração do Processo Administrativo Disciplinar (Deliberação n. 1024/2009 – mov. 1.8), sendo que o Promotor de Justiça Dr. Francisco Zanicotti sequer participou no feito, diferentemente do que alegam os apelantes.
+
+    Convém destacar, ademais, que a instauração de Processo Administrativo Disciplinar é ato vinculado nas hipóteses em que o servidor policial civil for indiciado em inquérito policial pela prática de crimes previstos no art. 230 do Estatuto da Polícia Civil[2] (incisos II e XII, no caso específico – vide Deliberação n. 352/2019), conforme expressamente disposto no § 3º do art. 243 e art. 257, caput, também constantes no referido Estatuto: (...)
+
+    Vê-se, portanto, que a deliberação a despeito da instauração de PAD contra os servidores, ora apelantes, não se deu por manifestação livre dos membros do Conselho, mas, sim, por ato de natureza vinculada, por expressa previsão legal, após indiciamento dos acusados por prática delituosa.
+
+    Não houve a participação de nenhum dos Promotores de Justiça na ocasião da deliberação acerca da penalidade disciplinar a ser aplicada aos servidores, consistente na cassação da aposentadoria, conforme Deliberação n. 352/2019 (mov. 1.11), razão pela qual não resta evidenciado prejuízo a ensejar a nulidade do PAD que culminou na cassação da aposentadoria dos apelantes.
+
+    Ademais, convém esclarecer que a participação de Procuradores do Estado é totalmente legal e não conduz a nulidade do Processo Administrativo Disciplinar, uma vez que não foge à finalidade institucional da Procuradoria Geral do Estado a participação como membro de Conselho integrante do Poder Executivo, ao qual também se vincula” (fls. 10-14, e-doc. 178).
+
+    No julgamento do Recurso Extraordinário n. 742.055, no qual se apresentou situação idêntica à presente, o Relator, Ministro Celso de Mello, concluiu ser “impossível, aos integrantes do ‘Parquet’, a investidura em atividades funcionais estranhas às atribuições inerentes ao cargo de representante do Ministério Público ou, ainda, a participação em organismos que não estejam posicionados na esfera do próprio ‘Parquet’” (DJe 14.6.2013).
+
+    No julgado acima mencionado, o Ministro Relator adotou os fundamentos do parecer da Subprocuradoria-Geral da República, nestes termos:
+
+    “RECURSO EXTRAORDINÁRIO. PARTICIPAÇÃO DE MEMBROS DO MINISTÉRIO PÚBLICO NO CONSELHO DA POLÍCIA CIVIL DO ESTADO DO PARANÁ: IMPOSSIBILIDADE AINDA QUE SE TRATE DE ÓRGÃO MERAMENTE CONSULTIVO OU DELIBERATIVO. CF, ART. 128, § 5º, II, D, C/C ART. 129, VII E IX. COMPROMETIMENTO DA AUTONOMIA E INDEPENDÊNCIA FUNCIONAL DO MINISTÉRIO PÚBLICO.
+
+    1. As vedações constitucionais incidentes sobre as atividades dos Membros do Ministério Público constituem verdadeiros mandamentos ético-jurídicos, destinados a tornar efetivos os princípios da autonomia e da independência funcional do órgão ministerial.
+
+    2. É vedado ao Membro do Ministério Público o exercício de qualquer outra função pública que não a de magistério ou cargo e função afetos à própria administração superior do Ministério Público. Precedentes. É admissível a participação em colegiados, desde que compatíveis com a finalidade institucional do ‘parquet’.
+
+    3. A participação de Membros do Ministério Público em órgão integrante da estrutura administrativa da Polícia Civil, ainda que meramente consultivo e deliberativo, além de comprometer a autonomia e independência funcional do ‘Parquet’, atinge-lhe a incumbência do controle externo da atividade policial.
+
+    4. Parecer pelo conhecimento e provimento do recurso extraordinário”.
+
+    No julgamento da Ação Direta de Inconstitucionalidade n. 2.926/PR, cujo objetivo consistia, entre outros, na declaração de inconstitucionalidade da “Lei Complementar n. 98/2003, que alterou a de n. 14/1982 (Estatuto da Polícia Civil)”, este Supremo Tribunal assentou:
+
+    “ESTATUTO DA POLÍCIA CIVIL DO ESTADO DO PARANÁ. ALTERAÇÃO SUBSTANCIAL. PREJUÍZO PARCIAL. ORGANIZAÇÃO E FUNCIONAMENTO DOS ÓRGÃOS EXCLUSIVOS DO ESTADO. EXIGÊNCIA DE LEI COMPLEMENTAR. DESCOMPASSO COM O ART. 144, § 7º, DA CONSTITUIÇÃO FEDERAL. SUBSISTÊNCIA DAS LEIS COMPLEMENTARES ESTADUAIS N. 89/2011 E 98/2003, REPUTADAS COMO ORDINÁRIAS. PRECEDENTES. PRESENÇA DE REPRESENTANTE DA PROCURADORIA-GERAL DO ESTADO NO CONSELHO DA POLÍCIA CIVIL. POSSIBILIDADE. AFASTAMENTO CAUTELAR DO SERVIDOR EM SEDE DE SINDICÂNCIA. CONSTITUCIONALIDADE. APLICAÇÃO SUBSIDIÁRIA DO CÓDIGO DE PROCESSO PENAL NO PROCESSO DISCIPLINAR. HIGIDEZ CONSTITUCIONAL. AFASTAMENTO TEMPORÁRIO DO EXERCÍCIO DO CARGO OU DAS FUNÇÕES, COM SUPRESSÃO DAS VANTAGENS, DO SERVIDOR PROCESSADO CRIMINALMENTE. CLÁUSULAS DO DEVIDO PROCESSO LEGAL E DA PRESUNÇÃO DE NÃO CULPABILIDADE (CF, ART. 5º, LIV E LVII). INCOMPATIBILIDADE. PROCEDÊNCIA PARCIAL DO PEDIDO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de a alteração substancial de norma implicar o prejuízo do pedido. 2. A exigência de lei complementar para disciplinar a organização, as atribuições e o estatuto das carreiras exclusivas do Estado não encontra paralelo na Constituição Federal, em especial em relação à carreira policial (CF, art. 144, § 7º). Precedentes. 3. A votação e aprovação de lei complementar em contexto a exigir apenas o rito de lei ordinária não configura vício formal, porquanto é satisfeito, e suplantado, o requisito da maioria simples. A lei complementar inexigível deve ser tratada como lei ordinária. 4. A Constituição Federal não impede que Procuradores do Estado participem de conselho dentro da estrutura do Executivo. 5. Em abstrato, não destoa do Texto Constitucional norma que prevê a possibilidade de afastamento cautelar do servidor indiciado em sindicância, devendo ser observadas as garantias constitucionais do contraditório e da ampla defesa (art. 5º, LV). 6. A previsão de aplicação subsidiária do Código de Processo Penal ao processo disciplinar é meramente expletiva em relação à regência do ordenamento jurídico federal, não tendo o Estado-membro legislado sobre direito processual. 7. Por violar as cláusulas do devido processo legal e da não culpabilidade (CF, art. 5º, LIV e LIV), é inconstitucional o afastamento temporário do exercício do cargo ou das funções, com supressão das vantagens, do servidor processado criminalmente. 8. Ação conhecida em parte, e, nessa extensão, pedido julgado parcialmente procedente” (Relator o Ministro Nunes Marques, Plenário, DJe 22.5.2023).
+
+    Confiram-se, ainda, no mesmo sentido, os julgados:
+
+    “EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E CONSTITUCIONAL. PROCESSO ADMINISTRATIVO DISCIPLINAR – PAD. PARTICIPAÇÃO DE MEMBRO DO MINISTÉRIO PÚBLICO EM CONSELHO DA POLÍCIA CIVIL. CONVALIDAÇÃO DOS ATOS PRATICADOS. IMPOSSIBILIDADE. PRECEDENTES: DIVERGÊNCIA CONFIGURADA. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS PARA DAR PROVIMENTO AO RECURSO EXTRAORDINÁRIO DO EMBARGANTE” (RE n. 1.070.319-ED-AgR-EDv, de minha relatoria, Plenário, DJe 23.3.2021).
+
+    “AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PARTICIPAÇÃO DE MEMBRO DO MINISTÉRIO PÚBLICO NO CONSELHO DA POLÍCIA CIVIL DO ESTADO. VEDAÇÃO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. DIVERGÊNCIA NÃO DEMONSTRADA. PEDIDO DE SOBRESTAMENTO ATÉ JULGAMENTO DEFINITIVO DA ADI 2.926. IMPROCEDENTE. ADPF 388. CONVALIDAÇÃO DOS ATOS PRATICADOS. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO” (RE n. 1.131.227-AgR-EDv-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 3.2.2020).
+
+    “Agravo regimental nos embargos de divergência no agravo regimental em recurso extraordinário. 2. Direito Administrativo. Processo Administrativo Disciplinar. Nulidade. 3. Participação de membro do Ministério Público no Conselho da Polícia Civil. Vedação. 4. ADPF 388. Convalidação de atos praticados até 20 dias após a sua publicação. Não se deve conceder sanatória ampla e irrestrita quanto aos atos praticados em desrespeito ao texto constitucional, notadamente no campo de procedimento sancionador. 5. Ausência de argumentos suficientes a infirmar a decisão recorrida. 6. Negativa de provimento ao agravo regimental” (RE n. 1.057.757-AgR-EDv-AgR, Relator o Ministro Gilmar Mendes, Plenário, DJe 19.2.2019).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 29.03.2019. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSO DISCIPLINAR. PARTICIPAÇÃO DE MEMBRO DO MINISTÉRIO PÚBLICO ESTADUAL NO CONSELHO DA POLÍCIA CIVIL DO PARANÁ. IMPOSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA DA CORTE. PLEITO DE SOBRESTAMENTO DO FEITO. PENDÊNCIA DE JULGAMENTO DE MÉRITO DA ADI 2.926. DESNECESSIDADE. PRECEDENTES. 1. O Supremo Tribunal Federal tem entendimento firmado acerca da impossibilidade da participação de membro do Ministério Público em cargo comissionado fora da própria instituição. 2. A existência de ação de controle objetivo pendente de julgamento não infirma a formação de jurisprudência dominante para os fins do art. 21, § 1º, do RISTF, com esteio tão somente na expectativa de mudança jurisprudencial. Embora seja possível em posterior julgamento a alteração da compreensão jurisprudencial, vige no direito brasileiro o postulado de que lei formal goza de presunção de constitucionalidade até declaração em sentido contrário. Art. 525, §§ 12, 14 e 15 do CPC/15. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, § 4º, do CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC” (RE n. 1.156.622-AgR, Relator o Ministro Edson Fachin, Primeira Turma, DJe 13.9.2019).
+
+    “MINISTÉRIO PÚBLICO – PARTICIPAÇÃO EM CONSELHO SUPERIOR DE POLÍCIA – ARTIGOS 128, § 5º, ALÍNEA ‘B’, E 129, INCISOS VII E IX – IMPOSSIBILIDADE – PRECEDENTE. Mostra-se harmônico com a Constituição Federal pronunciamento no sentido de estar vedada a membro do Ministério Público a participação em conselho superior de polícia – considerações. Precedente: Ação Direta de Inconstitucionalidade nº 3.298/ES” (AI n. 768.852-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 19.8.2011).
+
+    O acórdão recorrido afasta-se da jurisprudência do Supremo Tribunal Federal, ao afirmar que, em casos como o presente, deveria “ser avaliado o grau de prejuízo da participação dos membros do Ministério Público, bem como eventual repercussão negativa no processo administrativo eventualmente questionado”, e que não teria havido prejuízo pelo fato de “a participação do Promotor de Justiça Dr. Pedro Carvalho Santos Assinger [ter se dado] apenas na deliberação do Conselho da Polícia Civil acerca da instauração do Processo Administrativo Disciplinar” (fls. 11 e 12, e-doc. 178).
+
+    Ressalte-se, ademais, importar pouco, no caso, “o grau de prejuízo da participação dos membros do Ministério Público”, pois a participação de membro do Ministério Público no Conselho da Polícia Civil do Paraná gera a nulidade.
+
+    7. Quanto à presença de Procurador de Estado no Conselho da Polícia Civil, a jurisprudência do Supremo Tribunal Federal assentou que “A Constituição Federal não impede que Procuradores do Estado participem de conselho dentro da estrutura do Executivo” (ADI n. 2.926, Relator o Ministro Nunes Marques, Plenário, DJe 22.5.2023).
+
+    8. Incabível o recurso extraordinário interposto com fundamento na al. d do inc. III da Constituição da República, pois este Supremo Tribunal Federal assentou que “a hipótese de cabimento inscrita no permissivo do art. 102, III, d, da Constituição da República exige a demonstração, pela parte recorrente, de que o Tribunal de origem ofendeu o sistema de repartição de competências legislativas no condomínio federativo brasileiro, ao julgar válida lei local contestada em face de lei federal” (ARE n. 1.351.079-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 20.4.2022), o que não se deu na espécie.
+
+    9. Pelo exposto, dou provimento ao recurso extraordinário com agravo interposto com fundamento na al. a do inc. III do art. 102 da Constituição da República (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal), para anular o julgado recorrido e determinar a remessa dos autos ao Tribunal de origem para decidir como de direito, observando-se as normas constitucionais vigentes e a jurisprudência consolidada sobre a matéria.
+
+    Publique-se.
+
+    Brasília, 18 de março de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
