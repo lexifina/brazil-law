@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SEARA ALIMENTOS LTDA. contra a decisão, constante às e-STJ fls. 768/776, em que conheci do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. Na oportunidade, consignei a suficiência da fundamentação do acórdão recorrido, a natureza constitucional da discussão pertinente à pretensão de recolhimento do ICMS mediante alíquota reduzida e a incidência dos óbices descritos nas Súmulas 283 e 284 do STF.
+A embargante alega omissão no julgado com respeito à possibilidade de o Poder Judiciário atuar como legislador negativo e à jurisprudência em torno da matéria, especialmente o julgamento proferido na ADI n. 5.363, que entende aplicável à espécie. Aduz que (e-STJ fl. 787):
+Portanto, em caso que se discute matéria idêntica à do presente feito, tem-se o nítido reconhecimento da inconstitucionalidade de parte do dispositivo legal que impõe o tratando tributário diferenciado, em razão da origem da mercadoria.
+E, na mesma diapasão, a afirmação concludente que tal reconhecimento não importa em extensão de benefício fiscal, mas sim de extirpar do ordenamento jurídico parte da norma inconsistente com o texto constitucional, inexistindo ofensa ao princípio da separação dos poderes uma vez que faz parte da técnica de controle de legalidade reconhecer a retirada de restrições ilegais.
+Argumenta que o benefício fiscal concedido pelo art. 16, I, "c", da Lei estadual n. 7.014/1996 não é ilegal na sua totalidade, mas apenas na parte em que atribui tratamento diferenciado aos contribuintes.
+Indica, ainda, ter havido contradição, dizendo que os Tribunais e juízes não devem ignorar os precedentes, notadamente os proferidos pelo Supremo Tribunal Federal em controle de constitucionalidade. Nesse sentido, repisa a solução estabelecida na ADI n. 5.363 e afirma ser esse também o entendimento de outros tribunais.
+Sem impugnação da parte contrária.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, vícios esses inexistentes na espécie.
+Isso porque, na decisão embargada, expus claramente ter o Tribunal de origem solucionado integralmente a controvérsia e, no ponto pertinente à pretensão de recolhimento do ICMS pela alíquota reduzida, amparou-se na interpretação de precedentes proferidos pelo Supremo Tribunal Federal, o que tornou constitucional a natureza da prestação jurisdicional oferecida.
+Ademais, quanto à tese fundada no art. 926 do CPC, fiz o registro de que esse dispositivo de lei não tem conteúdo normativo para sustentar o propósito de ajustamento do acórdão recorrido à alegada orientação da Corte Maior, motivo pelo qual era deficiente a fundamentação e justificava-se a aplicação da Súmula 284 do STF.
+Anotei, ainda, não ter sido combatido o fundamento do acórdão recorrido segundo o qual, na hipótese, tinha-se apenas uma superação de posicionamento anterior adotado no mesmo feito, razão pela qual fiz incidir no caso o teor da Súmula 283 do STF.
+Constata-se, assim, que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à insatisfação com o julgamento que lhe foi desfavorável. A pretensão, de caráter meramente infringente, é de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
