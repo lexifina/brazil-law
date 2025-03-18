@@ -1,0 +1,23 @@
+DECISÃO
+ROSINEI BRAZ alega sofrer constrangimento ilegal diante de acórdão do Tribunal de Justiça do Estado do Paraná na Apelação Criminal n. 29063-83.2018.8.16.001.
+O paciente foi condenado, pela prática do crime previsto no art. 305 do Código Penal Militar, a 2 anos de reclusão, em regime aberto, e sua pena privativa de liberdade foi substituída por duas restritivas de direitos, o que foi mantido em grau recursal.
+A defesa requer a absolvição do réu, sob o argumento de insuficiência de provas para sua condenação.
+O Ministério Público Federal, na pessoa do Subprocurador-Geral da República Ronaldo Meira de Vasconcellos Albo , manifestou-se pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 103-106).
+Decido.
+Este writ é substitutivo de revisão criminal, pois, de acordo com as informações prestadas, no presente caso, já se operou o trânsito em julgado do acórdão condenatório, em 30/9/2020, e a guia de execução definitiva da pena foi expedida em 9/10/2020 (fls. 87-88).
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal e se posicionou no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte.
+É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico. Os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada e, em primeiro lugar, os direcionar à autoridade que tem atribuição para decidir sobre a questão.
+No caso em apreço, não há evidências de que a defesa haja solicitado ao Tribunal de Justiça a revisão da condenação. Sem existir acórdão sobre essa matéria, é incabível eventual constatação de manifesta ilegalidade em seu conteúdo. Assim, não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP).
+Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  .. .
+(AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO TRIPLAMENTE MAJORADO. AUSÊNCIA DE AJUIZAMENTO DE RECURSO ESPECIAL E/OU DE REVISÃO CRIMINAL NA ORIGEM. IMPOSSIBILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Este habeas corpus foi impetrado em 14/6/2022 e se insurge contra acórdão de apelação proferido em 25/5/2009, portanto mais de 13 anos antes. A decisão transitou em julgado, com a baixa definitiva dos autos em 17/9/2009; e, em consulta processual realizada na página eletrônica do TJSP, não se verifica o ajuizamento de revisão criminal.
+2. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+3. No caso, a defesa, além de não haver interposto recurso especial, deixou de solicitar ao Tribunal de Justiça a revisão de condenação. Assim, não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP), circunstância que obsta o conhecimento do habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 749.695/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 15/8/2024)
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
