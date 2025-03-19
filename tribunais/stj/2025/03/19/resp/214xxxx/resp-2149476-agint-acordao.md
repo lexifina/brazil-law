@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. MULTA POR INFRAÇÃO AMBIENTAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. ACÓRDÃO PROFERIDO EM EMBARGOS À EXECUÇÃO QUE DETERMINOU A EXTINÇÃO PARCIAL DA AÇÃO EXECUTIVA. PROSSEGUIMENTO DA EXECUÇÃO QUANTO A MULTA IMPOSTA PELA MANUTENÇÃO DOS PÁSSAROS AZULÃO E GRAÚNA EM CATIVEIRO. AUSÊNCIA DE EFEITO SUSPENSIVO DO RECURSO ESPECIAL INTERPOSTO. FUNDAMENT O DO ACÓRDÃO NÃO REFUTADO. ARGUMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. "É deficiente a fundamentação de recurso especial em que a alegação de ofensa ao art. 1022 do CPC/2015 se faz de forma genérica, sem a demonstração exata do ponto omisso, contraditório ou obscuro constante do acórdão recorrido, incidindo, por analogia, o óbice da Súmula n. 284/STF" (REsp n. 2.035.645/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/8/2024, DJe de 15/8/2024).
+2. O recorrente deixou de contestar especificamente a argumentação expendida pelo Tribunal a quo, que afirmou que o acórdão proferido nos embargos à execução determinou apenas a extinção parcial da execução fiscal, que deve prosseguir para a cobrança da multa decorrente da manutenção em cativeiro dos animais azulão e graúna, uma vez que não foi atribuído efeito suspensivo ao recurso especial interposto. Incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por FRANCISCO ARNALDO FERREIRA MARTINS contra decisão do então relator, Ministro Herman Benjamin, que não conheceu do recurso especial, nos seguintes termos (fl. 648):
+Inicialmente, o recorrente sustenta que o art. 1.022 do CPC/2015 foi ofendido, mas não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração, sem indicar as matérias sobre as quais deveria pronunciar-se o Tribunal a quo nem demonstrar a relevância delas para o julgamento do feito.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto ante o óbice da Súmula 284/STF.
+Consignou-se no aresto combatido (fls. 535-538):
+(..)
+É possível concluir que a Corte regional baseou seu entendimento nas provas carreadas aos autos. Portanto, acolher as teses defendidas pelo recorrente, a fim de modificar o julgado, somente seria possível mediante novo exame do acervo fático- probatório, o que é obstado pela Súmula 7/STJ.
+Por fim, observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos de lei federal indicados como infringidos. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por malferidos não foram apreciados na origem, ainda que se trate de matéria de ordem pública, como a prescrição, e a despeito da oposição de Embargos Declaratórios, por não ter havido prequestionamento. Incide na espécie a Súmula 211/STJ.
+Diante do exposto, não conheço do Recurso Especial.
+O agravante alega que deve ser afastado o óbice do enunciado n. 284 da Súmula do STF, porquanto o dispositivo de lei violado foi claramente indicado, além de ter sido demonstrada a sua relevância para o desfecho da demanda.
+Afirma que a análise do contexto fático dos autos não interfere no deslinde da causa quando analisada sob o ponto de vista do artigo 156, inciso X, do CTN, uma vez que demonstrado que a execução carece de certeza, liquidez e exigibilidade, porquanto pautada em título nulo, havendo acórdão do TRF da 5º Região que anulou parte da multa que embasa a execução fiscal.
+Por fim, defende que também deve ser afastado o óbice previsto no enunciado n. 211 da Súmula do STJ, considerando a oposição de embargos de declaração para que o Tribunal de origem se manifestasse sobre os fundamentos essenciais para o deslinde da demanda.
+Requer a reconsideração da decisão agravada ou o provimento do agravo para que seja dado provimento ao recurso especial.
+As contrarrazões não foram apresentadas (fl. 668).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. MULTA POR INFRAÇÃO AMBIENTAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. ACÓRDÃO PROFERIDO EM EMBARGOS À EXECUÇÃO QUE DETERMINOU A EXTINÇÃO PARCIAL DA AÇÃO EXECUTIVA. PROSSEGUIMENTO DA EXECUÇÃO QUANTO A MULTA IMPOSTA PELA MANUTENÇÃO DOS PÁSSAROS AZULÃO E GRAÚNA EM CATIVEIRO. AUSÊNCIA DE EFEITO SUSPENSIVO DO RECURSO ESPECIAL INTERPOSTO. FUNDAMENT O DO ACÓRDÃO NÃO REFUTADO. ARGUMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. "É deficiente a fundamentação de recurso especial em que a alegação de ofensa ao art. 1022 do CPC/2015 se faz de forma genérica, sem a demonstração exata do ponto omisso, contraditório ou obscuro constante do acórdão recorrido, incidindo, por analogia, o óbice da Súmula n. 284/STF" (REsp n. 2.035.645/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/8/2024, DJe de 15/8/2024).
+2. O recorrente deixou de contestar especificamente a argumentação expendida pelo Tribunal a quo, que afirmou que o acórdão proferido nos embargos à execução determinou apenas a extinção parcial da execução fiscal, que deve prosseguir para a cobrança da multa decorrente da manutenção em cativeiro dos animais azulão e graúna, uma vez que não foi atribuído efeito suspensivo ao recurso especial interposto. Incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Não obstante as razões do agravo interno, denota-se que a decisão monocrática deve ser mantida, embora por fundamentos parcialmente distintos.
+Em relação à alegada violação aos artigos 489, § 1º, inciso IV e 1.022, ambos do CPC, verifica-se a deficiência da fundamentação, porquanto apresentada de forma genérica no recurso especial, não tendo sido demonstrados exatamente os pontos cujo acórdão se fez omisso, o que justifica a incidência da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já decidiu que "é deficiente a fundamentação de recurso especial em que a alegação de ofensa ao art. 1022 do CPC/2015 se faz de forma genérica, sem a demonstração exata do ponto omisso, contraditório ou obscuro constante do acórdão recorrido, incidindo, por analogia, o óbice da Súmula n. 284/STF" (REsp n. 2.035.645/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/8/2024, DJe de 15/8/2024).
+Quanto ao mérito, verifica-se que a Corte local destacou que o acórdão que julgou em embargos à execução determinou o prosseguimento da execução fiscal em relação à multa imposta pela manutenção em cativeiro dos pássaros azulão e graúna e que ao recurso especial interposto contra esta decisão não foi atribuído efeito suspensivo, razão pela qual determinou o restabelecimento da tramitação da execução fiscal para a cobrança da citada multa (fl. 537) .
+No entanto, em sede de recurso especial, a recorrente não contesta especificamente a argumentação expendida pelo Tribunal a quo, atraindo à espécie, por analogia, a exegese do enunciado 284 da Súmula do STF, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Com efeito, na linha do entendimento deste Tribunal Superior, "incide, de forma analógica, o óbice da Súmula n. 284 do STF quando o recurso especial não impugna efetivamente o fundamento do acórdão recorrido, inviabilizando a compreensão da controvérsia" (AgInt no AREsp n. 2.353.790/SP, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 15/8/2024).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. DECADÊNCIA. AFASTADA PELA CORTE DE ORIGEM COM BASE EM FUNDAMENTO NÃO IMPUGNADO. RAZÕES RECURSAIS DIVERSAS. SÚMULA N. 283 E 284 DO STF. CONTRIBUIÇÃO AO FGTS. INCIDÊNCIA SOBRE AJUDA DE CUSTO E ADICIONAL DE TRANSFERÊNCIA. LEGITIMIDADE. MULTA PREVISTA NO ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+III - O fundamento que sustenta o acórdão recorrido para afastar a decadência não está refutado nas razões do recurso especial, que apresentam argumentação diversa. É deficiente o recurso quando a parte recorrente deixa de impugnar fundamento suficiente para manter o julgado impugnado, apresentando razões recursais dissociadas. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(..)
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.123.785/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO CONTRA FAZENDA PÚBLICA. EXECUÇÃO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO CIVIL PÚBLICA AJUIZADA POR SINDICATO. ÓBITO DO SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. LEGITIMIDADE ATIVA DOS PENSIONISTAS PARA EXECUTAR O TÍTULO COLETIVO. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DAS SÚMULAS N. 283 e 284/STF. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que indeferiu o requerimento de reconhecimento da ilegitimidade e inexigibilidade do título executivo em relação aos sucessores dos servidores falecidos antes do ajuizamento da ação de conhecimento.
+No Tribunal a quo, negou-se provimento ao recurso.
+II - O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da preclusão para arguir a ilegitimidade da parte, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no recurso, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+(..)
+VIII - Agravo interno improvido.
+(AgInt no REsp n. 2.102.257/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Ante o ex posto, nego provimento ao agravo interno.
+É como voto.
