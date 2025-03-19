@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem concluiu pela existência de elementos probatórios suficientes para a caracterização do crime da associação para o tráfico, tendo explicitado que o réu mantinha forte liame associativo com alguns dos acusados, gerenciava as atividades do grupo, realizava as encomendas e repasses de quantias, padronizava preços, concentrava demandas, estipulava margem de lucro e descontos progressivos para maximizar a pulverização do material.
+2. O pedido, portanto, envolve a revisitação das premissas fático-processuais cristalizadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial nesta instância, nos termos da Súmula n. 7 do STJ.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RODRIGO DOS SANTOS FRAGA contra a decisão monocrática que conheceu do agravo para não conhecer do recurso especial, ante o óbice referido na Súmula n. 7 do STJ.
+A parte recorrente argumenta sobre a inaplicabilidade da Súmula n.7 do STJ ao caso em apreço, alegando que o recurso busca apenas a revaloração dos critérios jurídicos das provas e sem implicar o reexame probatório.
+De acordo com o agravante (fl. 3.166):
+Após minuciosa e perfeccionista análise do cotejo probatório, a irresignação consiste em interpretar se a negociação de venda e compra de drogas em conversas, no aplicativo whatsapp, pura e simples caracteriza o dolo na conduta do agente de modo a caracterizar a associação para o tráfico ilícito de entorpecentes, a que alude a artigo 35, da Lei Federal nº 11.343/2006.
+Ora, Colenda Turma, é importante a análise do dolo da conduta do agente, ora Recorrente, uma vez que para a caracterização do crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) é imprescindível o dolo de se associar com estabilidade e permanência.
+Busca, portanto, a reforma da decisão agravada ao fundamento de que não estaria presente o dolo para a caracterização do crime de associação para tráfico de drogas.
+Parecer do Ministério Público Federal apresentado no sentido do não provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem concluiu pela existência de elementos probatórios suficientes para a caracterização do crime da associação para o tráfico, tendo explicitado que o réu mantinha forte liame associativo com alguns dos acusados, gerenciava as atividades do grupo, realizava as encomendas e repasses de quantias, padronizava preços, concentrava demandas, estipulava margem de lucro e descontos progressivos para maximizar a pulverização do material.
+2. O pedido, portanto, envolve a revisitação das premissas fático-processuais cristalizadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial nesta instância, nos termos da Súmula n. 7 do STJ.
+3. Agravo regimental improvido.
+VOTO
+O conhecimento da matéria que se pretende devolver em recurso especial ao Superior Tribunal de Justiça exige que a manifestação desta Corte Superior se restrinja à aplicação do direito em tese, observadas as premissas fático-processuais cristalizadas pelas instâncias ordinárias.
+Essa é a razão de ser da Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial", uma vez que a competência outorgada pela Constituição Federal ao Superior Tribunal de Justiça referente à análise do recurso especial se restringe à apreciação de questões de direito, inviabilizando a reavaliação dos fatos e das provas apurados no processo.
+O recurso especial, assim, tem por finalidade garantir a uniformidade da interpretação da lei federal, limitando-se à verificação abstrata de sua aplicação ou interpretação pelos tribunais de origem, medida inviável quando a pretensão recursal demandar, ainda que de modo sutil, a análise das conclusões fático-processuais emprestadas pelas instâncias ordinárias, soberanas na apreciação das provas.
+No caso dos autos, a parte recorrente sustenta que as provas colhidas nos autos não seriam suficientes para demonstrar o dolo na prática do crime de associação para tráfico, especialmente quanto ao intuito de realizar o vínculo associativo com estabilidade e permanência.
+O Tribunal de origem, por outro lado, concluiu pela existência de elementos probatórios suficientes para a caracterização do crime de associação para o tráfico, consoante se verifica na seguinte transcrição (fl. 2.490):
+Com o acesso ao celular do réu Rodrigo (3º apelante), obtido mediante autorização judicial, descobriu-se a existência de um grupo de aplicativo WhatsApp denominado "PSG (só jogador caro)", composto pelos réus Rodrigo, Edilberto, Iven Daniel, Igor Pereira, Marcos Henrique, e um terceiro não denunciado, onde se discutia abertamente sobre preço a ser negociado, a quantidade de droga sintética vendida e as novidades do mercado ilícito.
+As provas produzidas nos autos mostram-se mais que suficientes para comprovar a prática do delito de associação para o tráfico por Rodrigo, vez que ficou claro que ele mantinha forte liame associativo com alguns dos acusados, gerenciando as atividades do grupo, realizando as encomendas e repasses de quantias, padronizando preços, concentrando demandas, estipulando margem de lucro e descontos progressivos para maximizar a pulverização do material.
+Assim, o acolhimento do pleito demandaria reanálise probatória e afastamento das premissas fáticas fixadas pelas instâncias ordinárias, não sendo tal intento possível por meio de recurso especial em razão da Súmula n. 7 do STJ.
+A pretensão do recurso especial, portanto, esbarra no óbice mencionado, tornando-se inviável sua apreciação nesta instância, por demandar novo juízo de valor sobre o contexto probatório, nos termos da pacífica jurisprudência deste Tribunal Superior. A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA ARMADA. INSUFICÊNCIA DA PROVA DA AUTORIA DELITIVA. VERIFICAÇÃO. SÚMULA N. 7 DO STJ. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. INCOMPETÊNCIA DO JUÍZO. MATÉRIA NÃO PREQUESTIONADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão absolutória, baseada em alegações de insuficiência da prova judicializada da autoria delitiva, implicaria a necessidade de reexame de fatos e de provas, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.467.045/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2024, DJe de 18/9/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVA. ÓBICE NA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. INCOMPATIBILIDADE COM A CONDENAÇÃO POR ASSOCIAÇÃO PARA O NARCOTRÁFICO. DEDICAÇÃO À ATIVIDADES CRIMINOSAS. HABEAS CORPUS DE OFÍCIO. INICIATIVA DO JULGADOR. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo as instâncias ordinárias demonstrado a existência de provas acerca da autoria e materialidade dos delitos de tráfico de drogas e associação para o narcotráfico, é certo que para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+2. Conforme sedimentado na jurisprudência desta Corte Superior, a causa de diminuição prevista no art. 33, §4º, da Lei n. 11.343/2006 é incompatível com a condenação pela prática do crime de associação para o narcotráfico, pois evidenciada a dedicação a atividades criminosas.
+3. Com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.565.957/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE FURTO. DESCLASSIFICAÇÃO DA CONDUTA. AUSÊNCIA DE VIOLÊNCIA E/OU GRAVE AMEAÇA. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O crime tipificado no art. 157 do Código Penal diverge do descrito no art. 155 do Código Penal em razão do emprego de violência, física ou moral, dirigida contra o detentor da coisa, ou seja, contra pessoa.
+2. Na ação delitiva, as instâncias de origem, ao reconhecerem o crime de furto, concluíram que a violência foi direcionada exclusivamente contra a res.
+3. Rever o entendimento externado pela instância ordinária para reconhecer as elementares do crime de roubo implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula 7 desta Corte. Precedentes (AgRg no AREsp n. 332.612/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 6/12/2016).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.515.441/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024.)
+No mesmo sentido: AgRg no AREsp n. 1.842.117/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/10/2023, DJe de 18/10/2023; AgRg nos EDcl no AgRg no AREsp n. 2.556.734/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/8/2024, DJe de 30/8/2024; e AgRg no AREsp n. 1.828.230/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/6/2024, DJe de 20/6/2024.
+O acolhimento da tese recursal, em suma, demandaria o revolvimento do acervo fático-probatório dos autos, assim como a alteração das premissas estabelecidas pelo acórdão recorrido, o que é inviável no recurso especial, conforme esclarecido na Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
