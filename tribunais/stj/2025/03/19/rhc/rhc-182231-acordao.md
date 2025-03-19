@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+Direito processual penal. Recurso em habeas corpus. Acesso a dados de celulares. NECESSIDADE DA Investigação criminal. Recurso não provido.
+I. Caso em exame
+1. Recurso em habeas corpus interposto contra o acórdão do Tribunal Regional Federal da 1ª Região que ratificou a legalidade da autorização judicial de acesso aos dados armazenados nos aparelhos celulares dos recorrentes, no contexto de investigação criminal.
+2. Fato relevante. Os recorrentes foram abordados em companhia de indivíduo com mandado de prisão em aberto, utilizando documento falso, e admitiram estar auxiliando na fuga do mesmo. A prisão em flagrante dos recorrentes foi relaxada, mas a investigação prosseguiu para apurar a extensão de sua participação nos fatos.
+3. As decisões anteriores. A decisão judicial que autorizou o acesso aos dados dos celulares fundamentou a medida como necessária e pertinente para a investigação, destacando que o direito à intimidade não é absoluto e pode ser restringido em casos de investigação criminal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a decisão que autorizou o acesso aos dados dos celulares dos recorrentes foi devidamente fundamentada e se a medida é legítima no contexto da investigação criminal em curso.
+III. Razões de decidir
+5. A decisão judicial apresentou fundamentação adequada, demonstrando a necessidade e pertinência da medida para a investigação criminal, considerando o contexto fático concreto e os indícios de participação dos recorrentes nos fatos investigados.
+6. O direito à intimidade, embora constitucionalmente protegido, não é absoluto e pode ser restringido quando necessário para a investigação de práticas criminosas, como no caso em análise.
+7. A medida de acesso aos dados dos celulares é proporcional e adequada para o aprofundamento das investigações, não configurando "pescaria probatória" ou investigação especulativa.
+IV. Dispositivo e tese
+8. Recurso não provido.
+Tese de julgamento: "1. A decisão que autoriza o acesso a dados de celulares deve ser fundamentada, demonstrando a necessidade e pertinência da medida para a investigação criminal. 2. O direito à intimidade pode ser restringido em casos de investigação criminal, desde que a medida seja proporcional e adequada. 3. A fundamentação concisa, mas adequada, legitima a medida cautelar de acesso a dados de celulares no contexto de investigação criminal".
+Dispositivos relevantes citados: CF/1988, art. 5º, X; Código Penal, art. 304.
+Jurisprudência relevante citada: Não há jurisprudência relevante citada.
+RELATÓRIO
+Trata-se de recurso interposto por Alex Junior Santos de Alencar e Tayrone Junior Fernandes de Souza contra o acórdão proferido pelo Tribunal Regional Federal da 1ª Região no HC n. 1037312-56.2022.4.01.0000.
+Os fatos podem ser assim sintetizados (fls. 238/239):
+ ..  No caso em apreço, no dia 02.10.2022, nas proximidades do Km 13 da Rodovia BR-070, em Barra do Garças-MT, uma equipe de policiais rodoviários federais, em patrulhamento de rotina, abordou um veículo que se encontrava parado em local proibido, às margens da rodovia federal. Na ocasião, os três ocupantes do veículo (Paulo Witer Farias Paelo e os pacientes ALEX JUNIOR SANTOS DE ALENCAR e TAYRONE JUNIOR FERNANDES DE SOUZA) afirmaram que estavam sem combustível e apresentaram seus documentos pessoais aos policiais. Segundo consta, um dos ocupantes do veículo, Paulo (que se apresentou como Jonathan), apresentou nervosismo e contradições quanto aos seus dados básicos pessoais, o que levantou suspeitas dos policiais. Diante disso, foi realizada busca no veículo e localizados R$ 30.026,00 (trinta mil e vinte e seis reais) em espécie, distribuídos entre os três abordados e o veículo. Diante da apreensão, os policiais conduziram os três abordados até o Posto da PRF, onde Jonathan admitiu que o documento de identidade apresentado era falso e informou seu nome verdadeiro, Paulo Witer Farias Paelo, com mandado de prisão em aberto expedido pelo Juízo da Comarca de Chapada dos Guimarães-MT. Acrescenta-se que os pacientes, ALEX e TAYRONE, teriam admitido aos policiais que estavam auxiliando PAULO a fugir para o Estado de Goiás. Em virtude dos fatos, foi lavrado o auto de prisão em flagrante e decretada a prisão preventiva apenas de Paulo Witer Farias Paelo. No âmbito dos mesmos autos, foi afastado o sigilo dos dados armazenados nos aparelhos celulares apreendidos em poder dos pacientes, considerando que estes foram indiciados pela Polícia Federal, pela prática do crime previsto no artigo 304 do Código Penal, na condição de partícipes, eis que estariam auxiliando PAULO a se furtar da aplicação da lei penal. Cumpre destacar que os indiciamentos foram ratificados no relatório final produzido pela autoridade policial nos autos do IPL n. 1002087-24.2022.4.0.1.3605.  ..
+Daí o presente recurso, em que a defesa alega que os recorrentes tiveram seus celulares apreendidos e foi determinado o afastamento do sigilo dos dados telefônicos, contudo, sem ao menos determinar o que se pretende encontrar na referida busca, revelando verdadeira "fishing expeditions ou pescaria probatória", tática expiatória vedada pelo direito nacional.
+Afirma que o constrangimento ilegal suportado pelos recorrentes é flagrante, pois não há nenhum fato criminoso imputado aos mesmos, como exige a regra do art. 2º, I, da Lei n. 9.294/1996, nem foi "descrita com clareza a situação objeto da investigação" ou a necessidade da busca exploratória e seus meios empregados, conforme regra do parágrafo único, do art. 1º, c/c o arts 4º e 5º, todos da Lei n. 9.294/1996), nem sequer há decisão judicial devidamente fundamentada (fl. 294).
+Por fim, traz pedido nos seguintes termos (fl. 298):
+ ..  Diante do exposto, requer se digne Vossa Excelência, conceder a presente ordem IN LIMINE, para que cesse a arbitrariedade/abuso de poder aqui apontado e SUSPENDA A PERÍCIA EXPLORATÓRIA NOS APARELHOS CELULARES dos pacientes, até o julgamento de mérito deste Habeas Corpus e, no MÉRITO, conceder a presente ordem mandamental para ANULAR/CASSAR A R. DECISÃO QUE AUTORIZOU A PERÍCIA EXPLORATÓRIA nos aparelhos celulares dos recorrentes e, em caso de já realizada a busca, seja determinada a INUTILIZAÇÃO DO CONTEÚDO EXTRAÍDO, bem como a imediata restituição dos aparelhos celulares aos recorrentes.  ..
+Em 12/6/2023, foi indeferido o pedido liminar (fls. 308/310).
+Prestadas as informações (fl. 314), o Ministério Público Federal, às fls. 317/319, opinou pelo não provimento do recurso.
+É o relatório.
+EMENTA
+Direito processual penal. Recurso em habeas corpus. Acesso a dados de celulares. NECESSIDADE DA Investigação criminal. Recurso não provido.
+I. Caso em exame
+1. Recurso em habeas corpus interposto contra o acórdão do Tribunal Regional Federal da 1ª Região que ratificou a legalidade da autorização judicial de acesso aos dados armazenados nos aparelhos celulares dos recorrentes, no contexto de investigação criminal.
+2. Fato relevante. Os recorrentes foram abordados em companhia de indivíduo com mandado de prisão em aberto, utilizando documento falso, e admitiram estar auxiliando na fuga do mesmo. A prisão em flagrante dos recorrentes foi relaxada, mas a investigação prosseguiu para apurar a extensão de sua participação nos fatos.
+3. As decisões anteriores. A decisão judicial que autorizou o acesso aos dados dos celulares fundamentou a medida como necessária e pertinente para a investigação, destacando que o direito à intimidade não é absoluto e pode ser restringido em casos de investigação criminal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a decisão que autorizou o acesso aos dados dos celulares dos recorrentes foi devidamente fundamentada e se a medida é legítima no contexto da investigação criminal em curso.
+III. Razões de decidir
+5. A decisão judicial apresentou fundamentação adequada, demonstrando a necessidade e pertinência da medida para a investigação criminal, considerando o contexto fático concreto e os indícios de participação dos recorrentes nos fatos investigados.
+6. O direito à intimidade, embora constitucionalmente protegido, não é absoluto e pode ser restringido quando necessário para a investigação de práticas criminosas, como no caso em análise.
+7. A medida de acesso aos dados dos celulares é proporcional e adequada para o aprofundamento das investigações, não configurando "pescaria probatória" ou investigação especulativa.
+IV. Dispositivo e tese
+8. Recurso não provido.
+Tese de julgamento: "1. A decisão que autoriza o acesso a dados de celulares deve ser fundamentada, demonstrando a necessidade e pertinência da medida para a investigação criminal. 2. O direito à intimidade pode ser restringido em casos de investigação criminal, desde que a medida seja proporcional e adequada. 3. A fundamentação concisa, mas adequada, legitima a medida cautelar de acesso a dados de celulares no contexto de investigação criminal".
+Dispositivos relevantes citados: CF/1988, art. 5º, X; Código Penal, art. 304.
+Jurisprudência relevante citada: Não há jurisprudência relevante citada.
+VOTO
+O recurso não comporta provimento.
+O cerne da questão está em analisar se houve ilegalidade na decisão que determinou o acesso aos dados armazenados nos aparelhos celulares dos recorrentes.
+Da análise dos autos verifica-se que a decisão que autorizou o acesso aos dados telefônicos apresentou fundamentação adequada, ainda que concisa, demonstrando a necessidade e pertinência da medida para a investigação criminal em curso.
+Com efeito, consta dos autos que os recorrentes foram abordados em companhia de Paulo Witer Farias Paelo, que utilizava documento falso e possuía mandado de prisão em aberto, tendo eles mesmos admitido aos policiais que estavam auxiliando Paulo a fugir para o Estado de Goiás.
+Nesse contexto, muito embora tenha sido relaxada a prisão em flagrante dos recorrentes por não terem sido eles próprios a fazer uso do documento falso, há elementos aptos a justificar a necessidade de aprofundamento das investigações para esclarecer a real extensão da participação deles nos fatos criminosos, especialmente considerando a admissão de que auxiliavam na fuga de pessoa com mandado de prisão em aberto.
+A decisão judicial atacada fundamentou adequadamente que, embora o direito à intimidade seja constitucionalmente protegido, não se reveste de caráter absoluto, podendo ser restringido quando necessário para investigação de práticas criminosas, como no caso em análise (fls. 20/22).
+Ademais, o Magistrado ressaltou a pertinência e adequação da medida como diligência investigativa necessária e imprescindível para aprofundamento das investigações. A fundamentação, ainda que sucinta, demonstrou de forma satisfatória a necessidade da medida excepcional.
+Não procede, portanto, a alegação de que se trata de pescaria probatória ou investigação especulativa. Há um contexto fático concreto e definido a ser investigado - o auxílio prestado a pessoa foragida que fazia uso de documento falso - bem como indícios suficientes da participação dos recorrentes nesses fatos, o que legitima a medida cautelar deferida.
+O mero fato de ter sido relaxada a prisão em flagrante não afasta a necessidade e legitimidade da investigação quanto à real extensão do envolvimento dos recorrentes nos fatos criminosos apurados, sendo o acesso aos dados dos aparelhos celulares meio proporcional e adequado para esse fim.
+Assim, conforme salientado pelas instâncias ordinárias, não se vislumbra ilegalidade no acesso aos dados armazenados nos aparelhos celulares dos recorrentes, tendo sido demonstrada a necessidade da medida e sua vinculação a fatos concretos sob investigação, com fundamentação adequada, ainda que concisa.
+Por essas razões, nego provimento ao recurso.
