@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por Sandra Maria Lopes de Moura contra a decisão de fls. 263-265 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi inadmitido o recurso especial.
+O recurso especial foi deduzido em desafio ao acórdão de fls. 215-229 (e-STJ), prolatado pelo Tribunal de Justiça do Estado de Alagoas, assim ementado:
+DIREITO ADMINISTRATIVO E CIVIL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA PELA PARCIAL PROCEDÊNCIA DA INICIAL. APELAÇÃO CÍVEL. CONHECIMENTO EM PARTE. PEDIDO DE JUSTIÇA GRATUITA. AUSÊNCIA DE INTERESSE. BENESSE JÁ CONCEDIDA PELO JUÍZO A QUO. MÉRITO. INADIMPLEMENTO DA ADMINISTRAÇÃO PÚBLICA. PAGAMENTO PELA PRESTAÇÃO DE SERVIÇO NÃO EFETIVADO. SENTENÇA QUE CONDENOU O ENTE PÚBLICO AO PAGAMENTO DO VALOR COMPROVADAMENTE DEVIDO PELO SERVIÇO PRESTADO PELA AUTORA. PLEITO RECURSAL DE CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE DEMORA EXCESSIVA NO CUMPRIMENTO DA OBRIGAÇÃO. DANO QUE NÃO POSSUI NATUREZA IN RE IPSA. AUSÊNCIA DE PROVA DO DANO APTA A CARACTERIZAR O DEVER DE INDENIZAR. DANO MORAL NÃO DEMONSTRADO. TESE NÃO ACOLHIDA. RETIFICAÇÃO, DE OFÍCIO, DOS JUROS DE MORA E DA CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS RETIFICADOS, DE OFÍCIO, E MAJORADOS. EXIGIBILIDADE SUSPENSA PARA A AUTORA, NOS TERMOS DO ART. 98, §3º, DO CPC. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO. DECISÃO UNÂNIME.
+Nas razões do recurso especial (e-STJ, fls. 242-253), apontou a insurgente a existência de violação dos arts. 186 e 927 do CCB. Sustentou, em síntese, a existência de dano moral indenizável.
+Contrarrazões às fls. 260-261 (e-STJ).
+A Corte de origem deixou de admitir o recurso ao argumento de incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual a insurgente contesta a aplicação do óbice.
+Contraminuta às fls. 280-283 (e-STJ).
+Brevemente relatado, decido.
+Trata-se de ação de indenização por danos materiais e morais.
+A ação foi julgada parcialmente procedente em primeira instância, reconhecendo-se apenas o direito da recorrente ao valor cobrado, afastado o pleiteada indenização por danos morais.
+A insurgente apelou da decisão, buscando o reconhecimento da ocorrência de danos morais indenizáveis.
+O Tribunal estadual confirmou a decisão de primeiro grau, rejeitando o pleito de reconhecimento do dano moral, ao argumento de não demonstração do dano extrapatrimonial.
+Veja-se às fls. 220-223 (e-STJ):
+Consoante o quanto exposto, afere-se que a pretensão recursal deduzida pela Apelante se encontra adstrita à necessidade de condenação do Estado de Alagoas ao pagamento de indenização pelos danos morais que lhes foram causados em decorrência da demora excessiva no cumprimento da obrigação. Pois bem. Do atento exame dos autos, verifica-se que a parte Autora/Apelante não se desincumbiu do ônus de comprovar o suposto dano moral decorrente do não pagamento da prestação do serviço realizada, nos termos do art. 373, I, do CPC, que assim dispõe: Art. 373. O ônus da prova incumbe: I - ao autor, quanto ao fato constitutivo de seu direito; II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor. Observa-se que, contrariamente ao alegado, o caso em tela não denota o chamado dano in re ipsa, em que o prejuízo decorre simplesmente do fato. Em outras palavras, para a configuração do dever de indenizar, nos exatos moldes do art. 927, do Código Civil, faz-se necessária a comprovação do dano causado, pois o prejuízo não decorre simplesmente do fato (in re ipsa). Desse modo, mostra-se indispensável a demonstração da existência do dano sofrido, desencadeado pela conduta do Ente Estatal, bem como da agressão à direito da personalidade da Autora, de forma a lhe causar grande abalo emocional, e não mero dissabor. Da análise das provas documentais carreadas aos autos, não se afere a ocorrência do prejuízo moral, já que a parte Autora/Apelante não comprovou a ocorrência de consequências danosas decorrentes do inadimplemento, a exemplo da impossibilidade de arcar com o pagamento de suas contas, da inclusão de seu nome em cadastros restritivos ao crédito ou de dano à imagem.
+ ..
+Sendo assim, constata-se que não merece prosperar o pleito recursal, devendo ser mantida a Sentença, por seu próprios termos.
+Na presente insurgência, defende a recorrente a existência do dano moral, sustenta violação dos arts. 186 e 927 do CCB.
+Ora, o acolhimento da tese recursal de que houve dano moral indenizável, com a consequente revisão da conclusão a que chegou o Tribunal estadual, esbarra no óbice da Súmula 7/STJ, porquanto demandaria nova incursão no conjunto probatório dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARTEIRA DE PREVIDÊNCIA DOS ADVOGADOS DE SÃO PAULO. RESTITUIÇÃO DE VALORES. DIREITO LOCAL. SÚMULA N. 280 DO STF. PLEITO DE INDENIZAÇÃO PELA PERDA DE UMA CHANCE E POR DANOS MORAIS. INVERSÃO DO JULGADO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido decidiu a matéria a partir da interpretação de dispositivos de legislação estadual, o que interdita o exame do recurso especial. Com efeito, nos termos da Súmula n. 280 do STF, aplicável ao caso por analogia: " p or ofensa a direito local não cabe recurso extraordinário."
+2. Rever a conclusão do acórdão recorrido sobre o cabimento de indenização em razão da alegada perda de uma chance e pela ocorrência de dano moral, demandaria o revolvimento do material fático-probatório dos autos, providência vedada em sede de recurso especial diante do óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.370.811/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 29/4/2024, DJe de 7/5/2024.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 20% (vinte por cento) sobre o montante já arbitrado, devendo ser observada a gratuidade de justiça deferida à recorrente.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MORAIS. NÃO COMPROVAÇÃO DO DANO MORAL. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
