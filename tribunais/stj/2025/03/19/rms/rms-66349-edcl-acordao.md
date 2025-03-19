@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte, conforme ocorre no caso dos autos.
+3. A reiteração de alegações, já expressamente enfrentadas, demonstra o caráter protelatório dos embargos de declaração, autorizando a aplicação de multa ao embargante, nos termos do art. 1.026, § 2º, do CPC/2015.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por SERGIO ANTONIO MARQUES DOS SANTOS contra acórdão da Segunda Turma deste STJ, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (fl. 564).
+A parte embargante sustenta, em síntese, que "NÃO se trata de inconformismo da parte, mas sim de omissão na apreciação da - pedra de toque - do processo administrativo "INCOMPETÊNCIA DA AUTORIDADE ADMINISTRATIVA" em sobrestar o PAD, a qual não foi analisada na decisão embargada" e que "o tema é de violação de MATÉRIA DE ORDEM PÚBLICA - COMPETÊNCIA, logo a arguição de "decadência" não se sustenta, tampouco afasta do Poder Judiciário o poder-dever de revisar o mérito do PAD, já que este violou as leis mencionadas acima" (fls. 578-579).
+Reitera que "a Autoridade que sobrestou o PAD por várias vezes - Corregedor Geral da Justiça - durante anos, não estava autorizado por Lei a praticar esse ato" (fl. 580). Ainda, que "existe no caso em tela, flagrante violação à Lei 8.112/90 quanto a não observância do prazo prescricional por sanção para conclusão do PAD" (fl. 581).
+Requer o acolhimento dos aclaratórios, com a decretação de ofício da alegada nulidade no PAD.
+Decorreu o prazo sem manifestação da parte embargada (fl. 607).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte, conforme ocorre no caso dos autos.
+3. A reiteração de alegações, já expressamente enfrentadas, demonstra o caráter protelatório dos embargos de declaração, autorizando a aplicação de multa ao embargante, nos termos do art. 1.026, § 2º, do CPC/2015.
+4. Embargos de declaração rejeitados.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+Conforme esclarecido no acórdão recorrido, bem como na decisão que o antecedera, a ausência de enfrentamento do mérito, no caso, não configura omissão. Isso porque, reconhecida a decadência para impetração do mandado de segurança, a análise de seu mérito fica prejudicada.
+Por esse motivo, o seu recurso em mandado de segurança nem sequer foi conhecido, uma vez que reit erou as razões da inicial, sem combater o fundamento do acórdão recorrido, que se limitou ao reconhecimento da decadência.
+O acórdão do agravo interno foi assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. RECONHECIMENTO DE DECADÊNCIA DO MANDAMUS. NÃO CONHECIMENTO DO RECURSO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Reconhecida, na origem, a decadência para impetração do mandado de segurança, impassível de conhecimento o recurso que não impugna, especificamente, o fundamento do acórdão, mas devolve o mérito sequer alcançado pelo Tribunal.
+2. A decadência para impetração de mandado de segurança (art. 23 da Lei 12.016/2009), que extingue o direito de postular por aquela via, distingue-se do instituto da prescrição, que fulmina a pretensão (art. 189 do Código Civil).
+3. Agravo interno desprovido. (fl. 538)
+Insiste a parte embargante em argumentar que a matéria é de ordem pública, o que justificaria sua apreciação a qualquer tempo, até mesmo de ofício.
+No entanto, quer, de fato, o enfrentamento do mérito do writ, em relação à competência de autoridade para determinar suspensão de procedimento administrativo. Embora possível a revisão de ato administrativo pelo Poder Judiciário, o embargante escolheu a estreita via do mandado de segurança para veicular sua pretensão. Assim, devem ser observados os procedimentos previstos na Lei 12.016/09 e, reconhecida a decadência, o mérito não é alcançado.
+O acórdão ora recorrido ainda registrou que aqueles embargos serviram apenas para demonstrar o inconformismo da parte com a solução dada à lide, o que mais uma vez se verifica, embora seja de sabença que essa intenção não autoriza o acolhimento dos embargos de declaração.
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Por fim, a reiteração de alegações, já expressamente enfrentadas, demonstra o caráter protelatórios destes segundos embargos de declaração a ensejar a imposição de multa ao embargante, que fixo em 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC. Nesse sentido: EDcl nos EDcl nos EDcl no AgInt no AREsp n. 1.709.115/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Isso posto, rejeito os embargos de declaração e, com fundamento no art. 1.026, § 2º, do CPC, condeno a parte embargante ao pagamento de multa no valor de 1% (um ponto percentual) do valor atualizado da causa.
