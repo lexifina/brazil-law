@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CONSIDERAÇÃO DA QUANTIDADE DE ENTORPECENTE PARA AFASTAR A MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. PENA REDIMENSIONDA. REGIME PRISIONAL READEQUADO. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se proveu recurso em habeas corpus para redimensionar a pena imposta ao agravado, reconhecendo a incidência da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), uma vez que evidenciado constrangimento ilegal manifesto, capaz de justificar a superação do óbice decorrente da utilização do writ para revisar a condenação imposta e mantida pelas instâncias ordinárias.
+2. Hipótese em que foi demonstrado constrangimento ilegal, pois a causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) foi afastada, unicamente, em razão da quantidade de entorpecente apreendido.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  (Petição n. 12.392/2025),  tempestivo, interposto  pelo MINISTÉRIO PÚBLICO DO CEARÁ contra a decisão de lavra deste Relator que deu provimento do recurso em habeas corpus (fls. 435/437), a seguir ementada:
+PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CONSIDERAÇÃO DA QUANTIDADE DE ENTORPECENTE PARA AFASTAR A MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. PENA REDIMENSIONDA. REGIME PRISIONAL READEQUADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido nos termos do dispositivo.
+Pretende o agravante, em síntese, o restabelecimento do acórdão hostilizado na impetração (fls. 24/33), aos seguintes argumentos:
+a) inexistência de juntada da decisão do tribunal de justiça cearense que desproveu o recurso de apelação formulado pela defesa mas que, ainda assim, revisou a dosimetria da pena e manteve o afastamento do tráfico privilegiado no caso concreto (fl. 81);
+b) vultuosa quantidade de entorpecente apreendido: o agravado fora flagrado na posse de 2.500G (OU SEJA, 2,5KG) de maconha prensada, além de 4 pedras de crack, 1 cachimbo, 6 dólares de maconha e uma sacola contendo embalagens para acondicionamento da droga (fl. 83); e
+c) a impossibilidade de utilização do writ como substitutivo de revisão criminal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CONSIDERAÇÃO DA QUANTIDADE DE ENTORPECENTE PARA AFASTAR A MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. PENA REDIMENSIONDA. REGIME PRISIONAL READEQUADO. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se proveu recurso em habeas corpus para redimensionar a pena imposta ao agravado, reconhecendo a incidência da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), uma vez que evidenciado constrangimento ilegal manifesto, capaz de justificar a superação do óbice decorrente da utilização do writ para revisar a condenação imposta e mantida pelas instâncias ordinárias.
+2. Hipótese em que foi demonstrado constrangimento ilegal, pois a causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) foi afastada, unicamente, em razão da quantidade de entorpecente apreendido.
+3. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que deu provimento a recurso em habeas corpus para redimensionar a pena imposta ao agravado para 3 anos e 4 meses de reclusão, e 333 dias-multa, reconhecendo a incidência da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), referente à condenação proferia na Ação Penal n. 0000667-50.2008.8.06.0070 (da Vara Única Criminal da comarca de Crateús/CE) - não comporta reparos.
+Primeiro, porque, a despeito se tratar de impetração substitutiva de revisão criminal (condenação transitada em julgado em 20/3/2019 - conforme informações do endereço eletrônico do Tribunal estadual), tem-se que, no caso, há constrangimento ilegal na dosimetria da pena apto subsidiar concessão da ordem, uma vez que a causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) foi afastada, unicamente, em razão da quantidade de entorpecente apreendido - confirmado histórico de ilícito ao envolvido, sendo o tráfico o meio de vida do réu que estava em patamar avançado no tráfico, comprovado pela quantidade e diversidade da droga (fl. 37) -, em desacordo com o entendimento desta Corte Superior.
+Ademais, a despeito de recurso em habeas corpus ter sido impetrado em face de writ que questionava a dosimetria pena (acórdão de fls. 24/33), tem-se que a fundamentação do acórdão da apelação, quanto ao indeferimento do tráfico privilegiado, não é diversa do sentença: a quantidade significativa de droga, a variedade, os petrechos destinados à comercialização do entorpecente e o depoimento coeso das testemunhas de que o ora recorrente era conhecido no meio policial como traficante indicam a sua dedicação à atividade criminosa (fl. 115).
+Em razão disso, nego provimento ao agravo regimental.
