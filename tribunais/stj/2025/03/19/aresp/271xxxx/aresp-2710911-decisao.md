@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por Cleomar Batista Muller contra a decisão do Tribunal de Justiça do Paraná que inadmitiu recurso especial (fundado no art. 105, III, a, da Constituição Federal) dirigido contra o acórdão prolatado nos autos da Revisão Criminal n. 0091593-89.2023.8.16.0000 (fls. 42/51).
+Nas razões do recurso especial, a Defensoria Pública aponta violação dos arts. 33 da Lei de Drogas, 621 do Código de Processo Penal e 59 do Código Penal (fls. 59/60).
+A defesa argumenta que a exasperação da pena-base, fundamentada na circunstância judicial da culpabilidade, foi inadequada, pois a premeditação é inerente ao tipo penal de "guardar" substâncias entorpecentes, não podendo ser utilizada para aumentar a pena (fls. 60/62).
+Argumenta, ainda, que o Tribunal de Justiça do Paraná deveria ter analisado o mérito da revisão, conforme precedentes do STJ que permitem o retorno dos autos à origem para exame do mérito em casos de constrangimento ilegal (fls. 60/61).
+Assim, requer o retorno do feito à origem para manifestação sobre o mérito ou, alternativamente, a concessão de habeas corpus para redimensionar a pena, excluindo a exasperação da culpabilidade (fl. 63).
+A Corte de origem inadmitiu o recurso com suporte 83/STJ e 283/STF (fls. 71/73).
+Contra a decisão a defesa interpôs o presente agravo (fls. 79/83).
+O Ministério Público Federal manifesta-se pelo conhecimento do agravo para não conhecer do recurso especial (fls. 104/108).
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+De outra parte, no que se refere ao recurso especial em si, a insurgência é manifestamente inadmissível.
+Na hipótese, o Tribunal a quo foi categórico em afirmar que a insurgência era incognoscível, considerando o seguinte (fl. 83):
+ ..
+Nota-se que os integrantes da 5ª Câmara Criminal entenderam por bem em manter a exasperação da basilar em virtude da culpabilidade do requerente, posto que ficou evidenciado que o apelante forneceu drogas a dois usuários na sua própria residência por cerca de quatro dias, local em que se encontravam sua esposa e sua filha, cujo cenário, inequivocamente, intensifica a gravidade da ação, já que expõe um menor de idade à atividade criminosa.
+Ciente disso, em sede de Revisão Criminal não se admite o reexame de questões já debatidas e julgadas pelas vias pertinentes, não se podendo admitir o manejo da revisão criminal como uma espécie de apelação do acórdão condenatório, a teor do artigo 622 , parágrafo único, do Código de Processo Penal, mesmo porque não 1  veio fundado em novas provas.
+ ..
+Conforme disposto na decisão ora agravada, o Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP (HC n. 206.847/SP, relator Ministro NEFI ORDEIRO, Sexta Turma, DJe 25/2/2016).  ..  O STJ também firmou entendimento no sentido de que," e m relação à dosimetria da pena, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Destarte, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário" (AgRg no REsp n. 1.805.996/SP, relator Ministro RIBEIRO DANTAS, 5ª Turma., DJe 29/3/2021) - (AgRg no HC n. 719.399/BA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 20/6/2022 - grifo nosso).
+A propósito, colhe-se da Terceira Seção:
+AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. AUSÊNCIA DE APONTAMENTO DE NOVOS ELEMENTOS PROBATÓRIOS OU VIOLAÇÃO DE TEXTO DE LEI. REEXAME DE FATOS E PROVAS. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É assente neste STJ que o recurso de revisão criminal não pode ser utilizado como nova apelação, com vistas ao mero reexame de fatos e provas, assim como que, quando voltado ao questionamento da dosimetria da pena, tem cabimento restrito, restrito à descoberta de novas provas, violação do texto expresso da lei ou desproporcionalidade manifesta na fixação da pena.
+2. A pretensão de ver afastada a majorante da arma de fogo prevista no art. 157, §2º-A, I, do CP já foi alvo de análise minuciosa no acórdão recorrido, mostrando-se inviável sua rediscussão em sede revisional.
+3. A argumentação relativa à ausência de fundamentação na aplicação dos parâmetros do cálculo da pena também não encontra respaldo nos autos, na medida em que a decisão que se pretende revisar anunciou, de maneira expressa, que se restabeleceu "tal como feito na sentença, a incidência cumulativa das frações de aumento de 2/5, relativa ao concurso de agentes e à restrição da liberdade das vítimas, e de 2/3, decorrente do emprego de arma de fogo" (e-STJ Fl. 16/17).
+4. A análise das razões recursais indica a apresentação de novas teses que não podem, contudo, ser conhecidas, na medida em que representam indevida inovação recursal.
+5. Agravo regimental não provido.
+(AgRg na RvCr n. 6.061/MG, Ministra Daniela Teixeira, Terceira Seção, DJe de 14/5/2024 - grifo nosso).
+Relembro, ainda, que esta Corte tem entendimento consolidado no sentido de que por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos (AgRg no HC n. 873.376/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/3/2024).
+Em reforço: AgRg no HC n. 880.725/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/3/2024).
+Seja como for, com relação à culpabilidade, o fundamento empregado - crime premeditado, tendo em vista que o réu atraiu até sua residência um usuário de drogas e vendeu-lhe substâncias entorpecentes continuamente; o usuário teria gastado cerca de R$ 800,00 (oitocentos reais) - (fl. 46 - grifo nosso) - revela que a premeditação não foi o único elemento considerado pela instância ordinária, mas também outros elementos, extraídos do contexto fático, que autorizam, ao menos nos limites da cognição permitida nesta via, a majoração aplicada.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. MODIFICAÇÃO DA DOSIMETRIA DA PENA APENAS AUTORIZADA EM HIPÓTESES EXCEPCIONAIS. AUSÊNCIA DE NOVAS PROVAS OU DE MANIFESTA ILEGALIDADE. INVIABILIDADE. PRECEDENTES DESTA CORTE.
+Agravo conhecido para não conhecer do recurso especial.
