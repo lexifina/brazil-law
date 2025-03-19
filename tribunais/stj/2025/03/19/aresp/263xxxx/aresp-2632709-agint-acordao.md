@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ECO 101 CONCESSIONÁRIA DE RODOVIAS S.A. contra decisão monocrática de fls. 655-658 (e-STJ), assim ementada:
+PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. POSSE INDIRETA. PROVA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões recursais, a agravante reitera a alegação de negativa de prestação jurisdicional pelo Tribunal de origem, passível de demonstrar a ofensa aos arts. 489 e 1.022 do CPC/2015.
+Afirma que o Tribunal originário não apreciou os argumentos acerca do fato de que "a jurisprudência é mais do que absolutamente pacífica no sentido de reconhecer que a faixa de domínio da BR 101 é da União, a qual não precisa provar que se imitiu na posse ou realizou formalmente processo de desapropriação" (e-STJ, fl. 668).
+Sendo assim, requer a reconsideração da decisão agravada.
+Não foi apresentada impugnação (e-STJ, fl. 671).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+De início, é preciso frisar que, de acordo com os Enunciados Administrativos n. 2 e 3/STJ, os requisitos de admissibilidade a serem observados pelos recursos interpostos neste Tribunal Superior são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+No caso em exame, tem aplicação a dinâmica processual estabelecida pelo Código de Processo Civil de 2015, uma vez que, à época da publicação da decisão que culminou na interposição do recurso especial, já estava em vigência o novo regramento processual.
+Consta dos autos que a recorrente interpôs recurso especial (e-STJ, fls. 593-607), com base na alínea a do permissivo constitucional, alegando afronta aos arts. 489, § 1º, IV, 926, 927 e 1.022, II, do CPC/2015.
+O Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 619-620), situação que ensejou a interposição do agravo (e-STJ, fls. 629-639), do qual, em decisão monocrática de fls. 655-658 (e-STJ), se conheceu para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Irresignada, a agravante interpõe o presente agravo interno. Todavia, o inconformismo não merece prosperar.
+No recurso especial, a insurgente defendeu a existência de omissão e deficiência na fundamentação do aresto recorrido quanto à falta de manifestação pelo acórdão proferido na origem acerca da efetiva posse indireta da União na faixa de domínio da área utilizada para construção da BR-101.
+Nos fundamentos expostos na decisão agravada, ficou constatada a ausência de violação aos arts. 489 e 1.022 do CPC/2015.
+Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto.
+A esse respeito:
+EMBARGOS DE DECLARAÇÃO. ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO. UFPE. 28,86%. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. ART. 1.022 DO CPC. OMISSÃO CONFIGURADA. CÁLCULOS ELABORADOS PELA CONTADORIA JUDICIAL. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. ERRO MATERIAL. NECESSIDADE DE CORREÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+I - Nos termos do art. 1.022, do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além de corrigir erro material, não permitindo a rediscussão da matéria.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não configura julgamento ultra petita o acolhimento dos cálculos elaborados pela Contadoria Judicial, conforme os parâmetros definidos no título judicial, ainda que superiores aos apresentados pela parte exequente.
+III - Quanto ao apontado erro material, observa-se que, consoante alegado pelo embargante, mostra-se desnecessária a inversão da sucumbência, uma vez que, nos termos do constante no acórdão do julgamento dos embargos de declaração pelo TRF da 5ª Região, a ora Embargante já se mostrava como destinatária da verba sucumbencial, sendo equivocada nova inversão, dado o provimento de seu recurso nesta via especial.
+IV - Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgInt no REsp n. 1.962.650/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2024, DJe de 9/12/2024.)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REDISCUSSÃO DA CONCLUSÃO JURÍDICA FIRMADA NO ACÓRDÃO. AUSÊNCIA DE OMISSÃO.
+I - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, estando ausente pressuposto que justifique a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+II - A simples divergência de posicionamento entre os órgãos fracionários não é capaz de provocar submissão do feito à Primeira Seção, à vista da ausência de previsão legal.
+III - Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no REsp n. 1.764.459/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. IMPROBIDADE ADMINISTRATIVA. SUPERVENIÊNCIA DA LEI 14.230/2021. CONDENAÇÃO FUNDAMENTADA NO ART. 11, CAPUT, DA LEI 8.429/1992. CONTINUIDADE TÍPICO-NORMATIVA. DOLO RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. AFASTAMENTO DAS SANÇÕES DE SUSPENSÃO DE DIREITOS POLÍTICOS E PERDA DO CARGO PÚBLICO DO ROL PREVISTO NO ART. 12, III, DA LEI 8.429/1992. RETROAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. No caso dos autos, levando em consideração a legislação vigente à época da prolação do acórdão embargado e a jurisprudência então dominante, não se constata o alegado vício de omissão, tendo em vista que foram expostos, de forma fundamentada, os motivos que levaram ao não conhecimento do recurso especial, com base na incidência da Súmula 7/STJ.
+3. Ocorre que, posteriormente à oposição dos presentes embargos de declaração, sobreveio a Lei 14.230/2021, que implementou significativas alterações na Lei 8.429/1992. Após o julgamento do Tema 1.199 da Repercussão Geral, este Superior Tribunal vem decidindo que a "abolição da hipótese de responsabilização por violação genérica aos princípios administrativos prevista no art. 11, caput, da Lei de Improbidade Administrativa (LIA) pela Lei 14.230/2021" é irrelevante "quando, entre os novéis incisos inseridos pela Lei 14.230/2021, remanescer típica a conduta considerada no acórdão como violadora dos princípios administrativos, evidenciando verdadeira continuidade típico-normativa" (AgInt no AREsp n. 1.578.059/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/8/2024, DJe de 19/8/2024).
+4. No caso, em que pese a conduta do embargante tenha sido "enquadrada no art. 11, "caput" da LF nº 8.429/92", nos termos em que descrita no acórdão recorrido, remanesce típica, conforme o disposto no art. 11, V, da Lei 8.429/92. Além disso, o Tribunal de origem, com base no acervo probatório dos autos, concluiu que "a conduta é dolosa; após advertido pelo Ministério Público e pelo Tribunal de Contas da ilegalidade da situação existente, o réu promoveu uma reforma administrativa que aprofundou, ao invés de corrigir, a ilegalidade". Assim, inviável o acolhimento do pedido para que seja julgada extinta a ação.
+5. Tendo em vista a nova redação dada ao art. 12, III, da Lei 8.429/92, inviável a manutenção das sanções de perda da função pública e de suspensão dos direitos políticos, impostas ao embargante, pois deixaram de ser previstas para a conduta apurada.
+Nesse sentido: AgInt no AREsp n. 1.578.059/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/8/2024, DJe de 19/8/2024.
+6. Embargos de declaração acolhidos, com efeitos infringentes, para o fim de afastar as sanções de perda da função pública e de suspensão dos direitos políticos que haviam sido impostas ao embargante pelo Tribunal de origem.
+(EDcl nos EDcl no AgInt no AREsp n. 1.676.918/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 14/10/2024, DJe de 17/10/2024.)
+Conforme bem assentado no julgado impugnado, o Tribunal de origem foi claro e assertivo quando constatou a inexistência de elementos probatórios nos autos que indique a efetiva posse indireta do Poder Públic o na citada faixa de domínio.
+Essa informação pode ser extraída de trecho do aresto recorrido mencionado na decisão agravada à fl. 657 (e-STJ).
+Portanto, apresentando a Corte originária os fundamentos necessários ao deslinde da controvérsia, não há falar em afronta aos arts. 489 e 1.022 do CPC/2015.
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
