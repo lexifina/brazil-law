@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO DE FREITAS MACHADO JUNIOR contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE MINAS GERAIS que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos dos Embargos Infringentes n. 1.0701.20.004859-6/002, com a seguinte ementa (fls. 355/361):
+EMENTA: EMBARGOS INFRINGENTES E DE NULIDADE EM APELAÇÃO CRIMINAL - ROUBO MAJORADO - ABSOLVIÇÃO - IMPOSSIBILIDADE - DELAÇÃO DE CORRÉU, RECONHECIMENTO PELA VÍTIMA E AUTORIA CORROBORADA PELO TESTEMUNHO POLICIAL - MANUTENÇÃO DO VOTO CONDUTOR - RECURSO CONHECIDO E NÃO PROVIDO. A manutenção da condenação do embargante é medida que se impõe, eis que suficientemente comprovadas a autoria e a materialidade delitivas. V. v.: ROUBO MAJORADO - ABSOLVIÇÃO - POSSIBILIDADE - IN DUBIO PRO REO. Se a prova produzida pela acusação não é capaz de sobrepor a dúvida que se interpreta a favor do acusado, a absolvição se impõe.
+Foram opostos embargos de declaração (fls. 366/369), rejeitados às fls. 372/378.
+No recurso especial (fls. 382/407), a defesa requereu, em síntese, a absolvição do réu, em razão da insuficiência de provas.
+Inadmitido o recurso na origem (fls. 424/428), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 431/452).
+O Ministério Público Federal opinou pelo desprovimento do agravo, em parecer com a seguinte ementa (fls. 477/481):
+Processo penal. Agravo. Decisão que não admitiu REsp da defesa. Crime de roubo majorado. Do agravo: 1. Pretensão recursal que demanda reexame de provas. 2. Pelo improvimento. Do REsp: 1. Nos autos ficou comprovado a autoria do crime imputado ao recorrente. 2. Pelo improvimento.
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar os fundamentos para inadmissão do especial.
+Todavia, o recurso especial não comporta conhecimento.
+O recorrente argumenta com a insuficiência do conjunto probatório. Todavia, o acolhimento dos argumentos com a reversão do entendimento a que chegou a instância ordinária implica necessário revolvimento do acervo fático-probatório, vedado pela Súmula 7/STJ.
+Nesse sentido, confira-se:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. PLEITO DE ABSOLVIÇÃO. AUSÊNCIA DE DOLO NA CONDUTA. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NÃO DEMONSTRAÇÃO DO DESCONHECIMENTO DA ORIGEM ILÍCITA DO BEM. PRECEDENTES QUE AMPARAM A DECISÃO MONOCRÁTICA. EVENTUAL VÍCIO SANÁVEL PELO JULGAMENTO DO AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO. 1. O Tribunal de origem afastou a possibilidade de absolvição, entendendo que o agravante não colacionou aos autos provas de que não possuía conhecimento acerca da ilicitude do bem. Com isso, concluiu, devido às circunstâncias fáticas apresentadas nos autos, que ele tinha conhecimento sobre a origem ilícita do celular que adquiriu. Assim, para entender de outra forma, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do STJ. 2. A decisão monocrática agravada amparou-se em entendimento dominante, consoante preconizado na Súmula n. 568 e no Regimento Interno, ambos desta Corte. De todo modo, o julgamento do presente agravo regimental pela Turma sana eventual vício. 3. "Em se tratando de crime de receptação, ao qual o acusado foi flagrado na posse do bem, a ele competiria demonstrar o desconhecimento da sua origem ilícita, o que, no caso, não ocorreu" (AgRg no RHC n. 153.972/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 29/3/2022, DJe de 4/4/2022). 4. Agravo regimental desprovido.
+(AgRg no AR Esp n. 2.217.713/DF, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/6/2023, DJe 23/6/2023).
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. PRETENSÃO QUE DEMANDA REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
