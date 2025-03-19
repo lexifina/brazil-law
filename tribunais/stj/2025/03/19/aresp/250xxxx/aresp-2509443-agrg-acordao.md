@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada, mesmo sentido da Súmula n. 182 do STJ.
+2. A decisão de conhecimento do agravo para negar provimento ao recurso especial teve por fundamento que o dispositivo de lei federal apontado como violado (art. 381, III, do CPP) não possui comando normativo suficiente para fundamentar a tese defensiva.
+3. Nas razões do presente recurso, a parte agravante não enfrentou de maneira suficiente as questões que impediram o provimento do recurso especial, o que inviabiliza o conhecimento do agravo regimental, por falta de dialeticidade recursal.
+4. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FLAVIO BOSCOLO RODRIGUES PRATA contra decisão que conheceu do agravo para negar provimento ao recurso especial, sob o fundamento de que o dispositivo de lei federal apontado como violado não possui comando normativo suficiente para fundamentar a tese defensiva.
+A defesa aborda nas razões do agravo regimental, apenas questões relativas ao mérito da causa, pertinentes à aplicação do direito material, reiterando alegações formuladas no recurso especial.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Parecer do Ministério Público Federal opinando pelo improvimento do agravo regimental (fls. 956-957).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada, mesmo sentido da Súmula n. 182 do STJ.
+2. A decisão de conhecimento do agravo para negar provimento ao recurso especial teve por fundamento que o dispositivo de lei federal apontado como violado (art. 381, III, do CPP) não possui comando normativo suficiente para fundamentar a tese defensiva.
+3. Nas razões do presente recurso, a parte agravante não enfrentou de maneira suficiente as questões que impediram o provimento do recurso especial, o que inviabiliza o conhecimento do agravo regimental, por falta de dialeticidade recursal.
+4. Agravo regimental não conhecido.
+VOTO
+A decisão que conheceu do agravo para negar provimento ao recurso especial foi assim fundamentada (fls. 928 e 929):
+No recurso especial, sustenta a defesa violação do art. 381, III, do CPP.
+Alega que "o laudo do perito do IML não pode ser considerado como prova de embriaguez, pois vai contra o que preconiza a medicina, ou seja, seria impossível o Recorrente apresentar os sinais apontados no laudo mais de 05 horas após o acidente".
+Ressalta que "A suposta embriaguez foi rechaçada por todas as testemunhas, tanto que os policiais que foram os primeiros a falar com o Recorrente dizem que ele não aparentava sinais de embriaguez".
+Afirma ter havido error in judicando, "uma vez que a perícia não provou a velocidade dos veículos no momento da colisão, os depoimentos das testemunhas de acusação devem ser recebidos com ressalvas, e a embriaguez foi rechaçada pelo ilustre parecer do Douto Perito Dr. José Cláudio Sartoreli".
+ ..
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Verifica-se que o dispositivo de lei federal apontado como violado (art. 381, III, do CPP - A sentença conterá:  ..  III - a indicação dos motivos de fato e de direito em que se fundar a decisão) não possui comando normativo suficiente para fundamentar a tese defensiva.
+Com efeito, "a indicação de preceito legal federal que não consigna em seu texto comando normativo apto a sustentar a tese recursal e a reformar o acórdão impugnado padece de fundamentação adequada, a ensejar o impeditivo da Súmula 284/STF" (REsp n. 1.715.869/SP, Ministro Mauro Campbell Marques, Segunda Turma, DJe 7/3/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "b", do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+Como se observa, houve um único fundamento para o improvimento do recurso especial, qual seja, que o dispositivo de lei federal apontado como violado (art. 381, III, do Código de Processo Penal) não possui comando normativo suficiente para fundamentar a tese defensiva.
+Contudo, as razões do agravo regimental, como relatado, não se voltaram de maneira suficiente ao enfrentamento dos fundamentos da decisão anterior, de improvimento do recurso especial, limitando-se a questões alheias ao mencionado óbice, reiterando o que havia aventado em recurso anterior.
+A não impugnação dos fundamentos da decisão recorrida impede o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e, por analogia, de acordo com a conclusão sedimentada na Súmula n. 182 do STJ.
+A propósito (destaque acrescido):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APREENSÃO DE MAIS DE 7 KG DE COCAÍNA. CONDENAÇÃO. ESPECIAL INADMITIDO. RAZÕES GENÉRICAS QUE REAFIRMAM QUESTÕES DE MÉRITO SEM IMPUGNAR DE MODO ESPECÍFICO OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA 182/STJ TAMBÉM AO REGIMENTAL.
+1. O agravante não rebateu, de modo eficiente, o fundamento utilizado na decisão agravada, atraindo, novamente, a incidência da Súmula 182/STJ ao presente regimental.
+2. Como tem reiteradamente decidido esta Corte Superior, em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp n. 1.262.653/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, Dje 30/5/2018).
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.266.496/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/4/2023, DJe de 2/5/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. VIOLAÇÃO DE DISPOSITIVO E DE PRINCÍPIO CONTIDO NA CONSTITUIÇÃO FEDERAL. INVIABILIDADE. HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL OU DE FLAGRANTE ILEGALIDADE. AGRAVO NÃO CONHECIDO.
+1. A ausência de impugnação específica a todos os fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte. Precedentes.
+2. Ademais, "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos de admissibilidade foram preenchidos. Incidência da Súmula n. 182, STJ" (AgRg no AREsp n. 2.364.703/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023).
+3. Nos termos da jurisprudência deste Superior Tribunal, "É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal." (EDcl no AgRg no AREsp n. 2.395.707/PR, relator Ministro Teodoro Silva, julgado em 20/2/2024, DJe de 27/2/2024, grifei.) 4. Como cediço, "Descabe postular HC de ofício, em sede de regimental, como forma de tentar burlar a inadmissão do recurso especial. O deferimento ocorre por iniciativa do próprio órgão jurisdicional, quando constatada a existência de ilegalidade flagrante ao direito de locomoção, inexistente na hipótese" (AgRg nos EDcl no AREsp n. 2.415.816/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.405.739/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada conheceu do agravo para não conhecer do recurso especial interposto pelo recorrente, apontando o óbice da Súmula 182 do STJ.
+2. Não obstante, neste agravo regimental, a parte agravante limita-se a afirmar, de modo genérico, que impugnou todos os fundamentos da decisão de admissibilidade, deixando, novamente, de atacar os fundamentos da decisão agravada.
+3. Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP, o que é o caso.
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.513.329/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2024, DJe de 10/4/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ÓBICE NÃO ATACADO NO REGIMENTAL. NOVA INCIDÊNCIA DA SÚMULA N. 182 DO STJ. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A impugnação específica dos fundamentos da decisão agravada é requisito para o conhecimento do agravo regimental.
+2. No caso em tela, o agravo em recurso especial deixou de impugnar efetiva e concretamente todos os fundamentos de inadmissibilidade, carecendo da devida refutação a Súmula n. 83 do Superior Tribunal de Justiça. Assim, a Presidência desta Corte não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182 do STJ.
+3. No presente regimental, a defesa afirma que o recurso especial teria apontado de forma clara a interpretação diversa dada aos dispositivos apontados como violados, comprovando a divergência existente entre a decisão proferida no caso com a orientação dos Tribunais. Alega, ainda, que não teria entrado em rediscussão probatória.
+4. A argumentação dispensada pela parte não dialoga com as razões de decidir da Presidência desta Corte. Registre-se que a decisão agravada não conheceu do agravo em recurso especial e a parte versa sobre o recurso especial.
+5. Nestas condições, a defesa não impugnou especificamente o óbice aplicado (Súmula n. 182 do STJ), de maneira que o recurso apresentado é incapaz de demonstrar o equívoco da decisão contra a qual se insurge, mantendo-a incólume. Incidência, novamente, da Súmula n. 182 do STJ.
+6. No tocante ao pleito de habeas corpus de ofício, salienta-se que esta Corte Superior entende, com lastro nos arts. 647-A e 654, § 2º, ambos do Código de Processo Penal - CPP, que a concessão de ordem ocorre por iniciativa do julgador quando constatada flagrante ilegalidade, não vislumbrada, de plano, na hipótese. Precedentes.
+7. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.497.395/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/8/2024, DJe de 19/8/2024.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
