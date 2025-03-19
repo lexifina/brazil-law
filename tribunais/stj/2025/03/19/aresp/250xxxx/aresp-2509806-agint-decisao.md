@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo BANCO SANTANDER (BRASIL) S.A. da decisão da Presidência do Superior Tribunal de Justiça de fls. 566/569.
+Nas razões recursais, a parte agravante afirma que "não há necessidade de particularização do inciso do mencionado artigo 202 CTN e dos incisos do § 5º, do artigo 2º da Lei nº 6.830/80, porque a nulidade da CDA se trata de nulidade congênita à sua própria formação" (fl. 577), não sendo o caso da incidência do óbice da Súmula 284 do Supremo Tribunal Federal (STF).
+Aduz que também não é o caso de incidência do óbice da Súmula 7 do Superior Tribunal de Justiça (STJ), uma vez que "a questão a ser dirimida no recurso especial reside na mera verificação da nulidade da CDA em decorrência da nulidade do próprio lançamento fiscal" (fl. 579).
+Requer a reforma da decisão agravada.
+A parte adversa apresentou impugnação (fls. 587/589).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+O recurso especial foi interposto, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 461):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ISS. SERVIÇOS BANCÁRIOS. CERTIDÃO DE DÍVIDA ATIVA E AUTO DE INFRAÇÃO. AUSÊNCIA DE NULIDADE. REQUISITOS LEGAIS PREENCHIDOS. OBSERVÂNCIA AOS ARTS. 142 E 202 DO CÓDIGO TRIBUTÁRIO NACIONAL E ART. 2º DA LEI Nº 6.830 /80. ENQUADRAMENTO LEGAL REALIZADO DE ACORDO COM A LEGISLAÇÃO TRIBUTÁRIA. PRECEDENTES DESTE TRIBUNAL. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 479/486).
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação aos arts. 142 e 202 do Código Tributário Nacional (CTN), assim como ao art. 2º, § 5º, da Lei 6.830/1980, sustentando, em síntese, que a certidão de dívida ativa (CDA) em execução padece de nulidade.
+Isso em razão do vício existente no lançamento fiscal, tendo em vista que "não há descrição de quais dos diversos serviços previstos na legislação corresponderiam às Contas Cosifs constantes dos Demonstrativos de Receita Tributável que acompanharam a autuação" (fl. 494).
+Pondera que, "independente de ter havido ou não prejuízo ao direito de defesa, certo é que não houve, no Auto de Infração, a indicação do item específico da Lista ou o serviço que daria embasamento à exigência do ISSQN" (fl. 497).
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 525/5434).
+Quanto ao cerne recursal, a Corte local concluiu que a CDA exequenda preencheria todos os requisitos legais e que inexistira prejuízo ao direito de defesa do contribuinte, nesses exatos termos (fls. 463/466):
+Depreende-se, da leitura da Certidão de Dívida Ativa nº 3.614 /2008 (mov. 1.1 dos autos de execução fiscal) e do auto de infração nº 155.540 (pág. 02-pdf, mov. 35.8 dos autos de execução fiscal), que os requisitos previstos nos arts. 142 e 202, §§ 5º e 6º, todos do Código Tributário Nacional, e 2º art. da Lei nº 6.830/80 fazem-se presentes. Noutras palavras, nos referidos documentos constam todas as informações necessárias para que o devedor tenha conhecimento da cobrança e exerça seu direito de defesa.
+ ..
+Da leitura da certidão de dívida ativa, verifica-se que nele consta o nome do sujeito passivo e seu endereço - Antigo Banco Sudameris Brasil, incorporado ao Grupo Santander, localizado na Rua João Bettega, nº 61, Curitiba/PR -, o valor originário da dívida, com a forma de cálculo dos juros de mora e demais encargos - R$ 2.534,65, sobre o qual incidem juros de mora de 1% ao mês, atualização monetária conforme Leis Municipais nº 6.202/80 e 7.396/89 e Lei Complementar nº 12/95, e multa conforme Lei Municipal nº 6.202/60 e Leis Complementares Municipais nº 17/97 e 40/200 -, a origem e natureza do crédito - ISQN-AUTON, Lei Comp. nº 40/2001, ano de 2006 -, a indicação de que a dívida está sujeita à atualização monetária, com o respectivo fundamento legal e termo inicial, e, por fim, o número do auto de infração (AI nº 155.540).
+Os elementos que necessariamente devem constar do termo de inscrição de dívida ativa e no auto de infração - eles, no caso, fazem-se presentes -, tem por finalidade garantir ao contribuinte o exercício do contraditório e da ampla defesa. E, no caso, o banco embargante pôde exercer o contraditório e a ampla defesa, já que o lançamento do tributo deu-se por auto de infração (pág. 02-pdf, mov. 35.8 dos autos de execução fiscal) - PAF nº 01-036623/2007 -, o qual está acompanhado da relação dos serviços sobre os quais não houve recolhimento de ISS, com a indicação, inclusive, do valor de cada um deles (pág. 03-pdf, mov. 35.8 dos autos de execução fiscal).
+Além disso, conforme bem esclareceu o ilustre magistrado de primeiro grau de jurisdição, o auto de infração que deu origem à CDA e que instruiu a execução contém todos os requisitos do art. 21 da Lei Complementar 40/2001.
+E mesmo que no auto de infração fosse constatado eventual omissão, tal irregularidade, por si só, não teria o condão de torná-lo nulo. Primeiro porque o devedor pôde exercer seu amplo direito de defesa - apresentou exceção de pré-executividade na qual defendeu a não ocorrência do fato gerador do ISS em execução -, segundo porque, nos termos do parágrafo único do art. 21, da LCM 40/2001, "as omissões ou incorreções do auto não acarretarão nulidades, quando nele constarem elementos suficientes para a determinação da infração".
+Dessa forma, estando presentes os requisitos previstos nos arts. 142, 202, §§ 5º e 6º, do Código Tributário Nacional, e 2º da Lei nº 6.830/80, e ausente qualquer prejuízo ao contribuinte, o qual, insista-se, pôde apresentar nos presentes embargos as razões pelas quais entende que os serviços sobre os quais incidiu o ISS não constituem fato gerado de tal tributo. Ao lado disso, cumpre frisar, mais uma vez, que o devedor, no pleno exercício do seu direito de defesa, no curso da ação de execução, apresentou exceção de pré-executividade, a qual foi não foi acolhida.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CERTIDÃO DA DÍVIDA ATIVA (CDA). REQUISITOS. REEXAME DE PROVAS. JUROS DE MORA. NORMAS LEGAIS. MENÇÃO NO TÍTULO. VALIDADE.
+1. A verificação acerca do preenchimento dos requisitos de validade da Certidão de Dívida Ativa (CDA) pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+ ..
+3. Agravo interno provido para não conhecer do recurso especial do particular.
+(AgInt no REsp n. 1.604.831/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/2/2024, DJe de 23/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA. REQUISITOS DE VALIDADE DA CDA. OMISSÃO DE RENDIMENTOS. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+2. O Tribunal de origem reconheceu que a certidão de dívida ativa (CDA) reunia todos os requisitos de validade. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que impede o conhecimento do recurso especial. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.717.838/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ITCMD. JUNTADA DE CÓPIA DO PROCESSO ADMINISTRATIVO. DESNECESSIDADE. ÔNUS DE ILIDIR A PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA QUE COMPETE AO CONTRIBUINTE. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AFERIÇÃO DOS REQUISITOS DE VALIDADE DA CDA. NECESSIDAD E DE DILAÇÃO PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DESCABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRECEDENTE EM SEDE DE RECURSO ESPECIAL REPETITIVO.
+ ..
+2. O Tribunal de origem foi claro ao assentar que a CDA ora atacada preenche todos os requisitos legais. Nesse contexto, a revisão do acórdão recorrido, para a verificação de eventuais vícios nos requisitos de validade da certidão de dívida ativa, pressupõe reexame de matéria fática, inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ. A propósito: AgRg no AREsp 832.015/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 19/04/2016, DJe 27/05/2016.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.330.938/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, reconsiderando a decisão recorrida, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
