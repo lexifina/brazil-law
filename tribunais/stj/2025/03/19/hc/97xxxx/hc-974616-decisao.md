@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de CASSIO SCHNEIDER DA SILVEIRA contra acórdão prolatado pelo Tribunal Regional Federal da 3.ª Região.
+Consta dos autos que o paciente foi condenado à pena de 2 anos, 9 meses e 10 dias de reclusão, em regime inicial aberto, sendo substituída por duas penas restritivas de direitos, e ao pagamento de 277 dias-multa, como incurso no art. 33, caput, c.c. o art. 40, inciso I, ambos da Lei n. 11.343/2006.
+O Tribunal a quo deu provimento ao apelo ministerial para "elevar a pena-base, para que, na terceira fase da dosimetria da reprimenda penal, as causas de aumento e diminuição de pena sejam aplicadas sucessivamente, bem como para reduzir o patamar das causas de diminuição previstas nos artigos 33, § 4º, e 46, ambas da Lei n.º 11.343/06, resultando na pena definitiva de 05 anos, 01 mês e 18 dias e 377 dias-multa para o réu CASSIO SCHNEIDER DA SILVEIRA, bem como para fixar o regime inicial fechado de cumprimento de pena" (e-STJ, fl. 27).
+Neste writ, alega a defesa, em suma, a nulidade das provas, sob o argumento de que "não havia fundadas razões para a revista veicular, de modo que o procedimento não seguiu os ditames do artigo 244 do Código de Processo Penal, não havendo informações prévias, investigação ou situação, como tentativa de fuga do motorista, por exemplo, que justificasse a revista veicular, mas foi amparada em mera desconfiança policial: "a equipe desconfiou da história contada pelo motorista". (e-STJ, fl. 7)
+Assevera que o paciente faz jus ao redutor do tráfico privilegiado na fração máxima, uma vez que "a natureza da droga e a quantidade já foram fatores utilizadas na exasperação da primeira fase dosimétrica, razão pela qual não poderiam ser novamente sopesados para afastamento ou, no caso concreto, modulação da benesse, sob pena de bis in idem." (e-STJ, fl. 10)
+Aponta ser necessária a readequação do regime inicial de cumprimento da pena, tendo em vista que o paciente é primário, com bons antecedentes, sem envolvimento em facções criminosas.
+Requer seja "reconhecida a nulidade da revista pessoal e veicular sem fundadas razões, ensejando a absolvição do paciente. Subsidiariamente, pede a concessão a redutora do tráfico privilegiado em seu grau máximo e a adequação do regime de cumprimento de pena, inclusive, com eventual hipótese de substituição da PPL por PRD." (e-STJ, fl. 13)
+Liminar indeferida (e-STJ, fls. 595-596).
+Foram prestadas informações (e-STJ, fls. 600-610 e 623-628).
+O Ministério Público Federal opinou "pelo não conhecimento do habeas corpus. Caso conhecido, pela denegação da ordem." (e-STJ, fls. 630-634).
+É o relatório.
+Decido.
+Em consulta na base de dados desta Corte, verifica-se que os pedidos de fixação do redutor do tráfico privilegiado em seu grau máximo e a adequação do regime de cumprimento de pena já foram objeto de análise no julgamento do HC n. 968.773/SP. Logo, no ponto, este habeas corpus trata-se de mera reiteração de outro feito, razão pela qual não merece conhecimento. Confira-se:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. QUADRILHA ARMADA. PRISÃO PREVENTIVA. SUBSTITUIÇÃO DA SEGREGAÇÃO POR CAUTELA RES DIVERSAS. AFASTAMENTO DE CARGO. VEREADOR. ALEGADO EXCESSO DE PRAZO NA DURAÇÃO DA MEDIDA. QUESTÃO VEICULADA EM WRIT ANTERIORMENTE IMPETRADO. MERA REITERAÇÃO DE PEDIDO. NEGATIVA DE SEGUIMENTO AO MANDAMUS. DECISÃO ACERTADA. REGIMENTAL IMPROVIDO.
+1. Não há como dar-se seguimento a impetração quando a questão aqui levantada já foi deduzida e será examinada no mandamus anterior.
+2. Nos termos da jurisprudência desta Corte Superior de Justiça, a impetração de habeas corpus com objeto idêntico ao de writ anteriormente ajuizado caracteriza indevida reiteração de pedido, o que obstaculiza o seu conhecimento.
+3. Agravo regimental improvido." (AgRg no HC 290.203/RJ, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 1/8/2014)
+Quantos ao pedido de reconhecimento da nulidade das provas, assim como já ressaltado na decisão proferida no HC 968.773/SP, "verifico que os fatos narrados ocorreram em 2012, tendo sido verificado o trânsito em julgado da questão em 2016, conforme consulta ao site do Tribunal Regional, de modo que, ante a longa passagem de tempo entre a data dos fatos e a presente impetração, forçoso o reconhecimento da preclusão da pretensão ora manifestada, tendo o pleito nítidas características revisionais, o que se reconhece em homenagem ao princípio da segurança jurídica. "
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
