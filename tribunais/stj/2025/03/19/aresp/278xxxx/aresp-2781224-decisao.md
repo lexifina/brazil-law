@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO BRADESCO S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 477):
+APELAÇÃO CÍVEL. Ação de Obrigação de fazer c. c. pedido de tutela provisória antecipada de urgência. Sentença de Procedência. Incidência dos artigos 3º, § 2º e 6º, inciso VIII, do Código de Defesa do Consumidor e Súmula n. 297 do Egrégio Superior Tribunal de Justiça. Bloqueio de valores em conta referente a comissões recebidas. Insurgência do Banco Réu quanto a liberação dos valores. Não acolhimento. Conjunto probatório comprova a contratação do Autor para a prestação dos serviços indicados na Inicial, e fazem menção ao nome do Autor, aos valores e aos serviços prestados, e também indicam a contratação das pessoas físicas. Parte Autora comprovou o envio dos documentos à Ré/Apelante, inclusive procedeu com a tradução do Contrato em Língua Estrangeira, para confirmação do pagamento das comissões. Parte Ré que não logrou êxito em demonstrar a licitude do bloqueio, restando clara a falha na prestação do serviço, assim, de rigor a liberação dos valores retidos ao Autor conforme já determinado no Decisum. Sentença mantida. RECURSO NÃO PROVIDO, majorando-se a verba honorária em sede recursal em favor do Autor para 12% (doze por cento) do valor atualizado da condenação.
+Rejeitados os embargos de declaração opostos (fl. 497).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 11, 489, §1º, inciso VI, e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, especialmente sobre a ausência de falha na prestação de serviço e sobre a iliquidez do julgado.
+Aduz, no mérito, que não houve falha na prestação do serviço, pois agiu conforme os arts. 1º e 8º da Resolução n. 3.568 do Banco Central do Brasil e o art. 18 da Circular n. 3.691/2013.
+Alega, por fim, violação do art. 509, inciso I, do CPC, aduzindo que o julgado não é líquido e que foram equivocados os índices de correção aplicados.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 616-618), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 11, 489, § 1º, inciso VI, e 1.022 do CPC, uma vez que o Tribunal de origem ao negar provimento à apelação deixou claro que (fls. 480-481)
+Pelo conjunto probatório acostados aos Autos, restou comprovada a contratação do Autor para a prestação dos serviços indicados na Inicial, fazem menção ao nome do Autor, aos valores e aos serviços prestados, e também indicam a contratação das pessoas físicas.
+Neste particular, o Autor/Apelado alega que de acordo com a farta documentação, verifica-se que entrou em contato com o setor de câmbio da Apelante via e-mail (fls. 50/101), tendo enviado os Contratos que comprovam seu vínculo com a Empresa "Taizhou Origin Power Technology Co., Ltda", além de cartas de declaração da própria Empresa informando ter contratado "Miss Fan Meiling e Mr. Chen Hongying" para o envio dos valores devidos a título de comissão.
+Desta maneira, vislumbra-se que o Autor/Apelado comprovou o envio dos documentos ao Réu/Apelante, inclusive procedeu com a tradução do Contrato em Língua Estrangeira (fl. 176/357), conforme determinado pelo Juiz a quo a fl. 170.
+Contudo, o Apelante insistiu em não autorizar as operações de cambio realizadas, referentes a 06 transferências no total de US$ 66.438,80, exigindo que o mesmo apresente documentos que comprovem seu vínculo com os remetentes dos valores, "Miss Fan Meiling e Mr. Chen Hongying", para a liberação do cambio contratado, ou, como solução, o retorno dos valores às contas de Origem.
+Neste caso, é certo ser ônus do Réu esclarecer os motivos pelos quais procedeu ao bloqueio do saldo existente na conta do Autor, uma vez que é o único detentor de possíveis informações que possam esclarecer a motivação de restrição.
+Neste ponto, o Requerido arguiu que a sua conduta foi pautada exclusivamente nos comandos legais que norteiam o Mercado de Câmbio, tendo a negativa em proceder com tal operação resultado da ausência de comprovação, pelo Apelado, da efetiva origem da quantia que pretendia fazer ingressar no Brasil, sendo esta a única razão pela qual não houve a liberação da remessa de valores, nos termos pleiteados.
+Ainda aduz que não houve qualquer ato ilícito praticado, na medida em que sua conduta não viola qualquer Legislação ou Norma regulamentar.
+Entretanto, o exercício de tal direito deve ser justificado, e neste ponto, o Requerido não demonstrou que o bloqueio ocorreu de forma ilegítima e fora das Normas estabelecidas em Lei ou Contrato, sequer apresentou qualquer documento a embasar fundada suspeita.
+A respeito da alegada ausência de liquidez, em embargos de declaração, o Tribunal de origem consignou que (fls. 498-499):
+Ora, não há que se falar em iliquidez da r. sentença, nem em necessidade de nomeação de Perito.
+O conjunto probatório dos Autos é no sentido de que houve a contratação do Autor para a prestação dos serviços, fazendo menção ao nome do Autor, bem como aos valores e aos serviços prestados, e também indicam a contratação das pessoas físicas.
+O V. Acórdão evidencia a liquidez do crédito, sendo que a manifestação do Banco Embargante é de insatisfação com os cálculos, contudo, não demonstrando qualquer equívoco nestes.
+(..)
+Nesta senda, resta claro que o Banco Embargante busca, tão somente, neste expediente processual, a reanálise da matéria exposta em suas razões recursais, porque inconformado com o resultado do julgamento, e insistir nos Embargos pode beirar a má-fé.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Quanto à alegada ausência de falha no serviço, em razão de que teriam sido observadas as normas regulamentares aplicáveis ao caso, a recorrente deixou de estabelecer qual o dispositivo de lei federal que considera violado para sustentar sua irresignação pela alínea "a" do permissivo constitucional.
+Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido não preenche o requisito formal de admissibilidade recursal.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado.
+Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Por fim, quanto à alegada violação do art. 509, inciso I, do CPC, o Tribunal consignou que a sentença é liquida e que a recorrente não demonstrou os supostos erros de cálculo, como acima registrado.
+Desse modo, alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 11, 489, §1º, INCISO VI, E 1.022 DO CPC. NÃO OCORRÊNCIA. FALHA NA PRESTAÇÃO DE SERVIÇO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. LIQUIDEZ DA SENTENÇA. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
