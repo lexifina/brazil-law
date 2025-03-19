@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por PATRICK SOARES SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A defesa impetrou habeas corpus perante o TJMG, que manteve a prisão do recorrente e denegou a ordem.
+A sentença julgou procedente a pretensão punitiva estatal para submeter o acusado Patrick Soares Silva, qualificado, como incurso nas penas do artigo 33 da Lei nº 11.343/06, ar t. 12da Lei 10.826/03 e art. 311, §2º, III do Código Penal, na forma do art. 69, todos do Código Penal.
+Liminar parcialmente concedida, às fls. 441-442, para compatibilizar a prisão preventiva do recorrente com o regime semiaberto até o julgamento do mérito deste habeas corpus.
+Informações, às fls. 453-455.
+O Ministério Público Federal ofereceu parecer pelo não conhecimento do recurso ordinário e pela concessão da ordem de ofício para readequar a prisão preventiva ao regime semiaberto, às fls. 569-574.
+RELATADO. DECIDO.
+O recurso não merece ser provido:
+A Defesa no presente recurso alega, em suma, constrangimento ilegal devido à incompatibilidade entre a fixação do regime inicial semiaberto na sentença condenatória e a manutenção da prisão preventiva em desfavor do recorrente.
+Alega ainda que as provas obtidas são ilícitas dado que não havia justa causa para realização de busca no interior do domicílio do recorrente. Requer, no mérito, a liberdade provisória mediante imposição de medidas cautelares diversas da prisão e, no mérito, a concessão definitiva da ordem e o trancamento da ação penal.
+O acórdão restou assim ementado (fl. 406):
+EMENTA: HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DO FLAGRANTE E DA AÇÃO PENAL. VIA INADEQUADA. ANÁLISE QUE É INCABÍVEL NA VIA ESTREIT DO WRIT. CONDENAÇÃO ATACADA POR MEIO DE APELAÇÃO E HABEAS CORPUS. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
+- A estreita via dos habeas corpus não é própria para o exame de matéria exclusiva de recurso de apelação, mormente se já foi proferida sentença condenatória, estando os autos em grau de recurso.
+- Pelo princípio da unirrecorribilidade das decisões judiciais, afirma-se que cada ato deve ser impugnado somente com um recurso previsto no ordenamento, não podendo o habeas corpus servir a essa finalidade.
+- Não cabe a este Tribunal, em sede de habeas corpus, a análise de matéria que será devidamente analisada em momento oportuno e em recurso adequado.
+- Ordem denegada.
+Contudo, como bem pontuou o Parquet às fls. 569-574, "O Tribunal estadual não se pronunciou sobre as matérias postas pela Defesa, ao fundamento de já existir apelação interposta com as mesmas razões, bem como já ter se pronunciado sobre a alegada nulidade da busca domiciliar no HC 1.0000.23.129064-4/000. Assim, não se mostra cabível o exame de mérito da presente impetração, sob pena de consubstanciar-se indevida supressão de instância, consoante a pacífica jurisprudência desse eg. STJ", por unanimidade, não conheceu da impetração".
+Assim, ausente manifestação do Tribunal de origem sobre a questão ora vindicada, incabível a análise do presente recurso em habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+"Como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que:
+"o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ressalto, ainda, que o pleito pelo trancamento da ação penal perdeu objeto, eis que sobreveio sentença condenatória contra o recorrente.
+No que tange aos demais pleitos de eventual nulidade de busca, não vislumbro patente ilegalidade na ação policial em exame, visto que é impende registrar que maiores incursões acerca de eventual ilicitude de provas, de autoria e materialidade delitivas demandam, a toda evidência, aprofundada imersão no acervo fático-probatório dos autos, providência inadmissível em sede de habeas corpus e de seu rito estreito que não autoriza dilação probatória.
+Não obstante, em relação ao pedido de liberdade provisória, verifico que há de fato flagrante constrangimento ilegal na incompatibilidade entre o regime fixado (semiaberto) no qual ora se encontra o recorrente e a impossibilidade de aguardar o recurso em liberdade.
+Inclusive, o parecer do Ministério Público Federal de fls. 569-574 é no sentido da concessão da ordem de oficio apenas para readequar o regime no qual o Recorrente encontra-se preso cautelarmente, uma vez que o mesmo foi condenado ao cumprimento de pena privativa de liberdade em regime semiaberto.
+No caso, a segregação cautelar imposta em regime semiaberto submete o Recorrente a regime mais gravoso do que o imposto na condenação.
+Nesta esteira, cito o seguintes julgado desta Corte:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. CONDENAÇÃO PELO CRIME DE TRÁFICO PRIVILEGIADO. PRISÃO PREVENTIVA. CONCESSÃO DE REGIME SEMIABERTO. AUSÊNCIA DE FUNDAMENTO IDÔNEO PARA A MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. A QUANTIDADE DA DROGA, POR SI SÓ, NÃO JUSTIFICA A MEDIDA DE EXCEÇÃO. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo interposto pelo Ministério Público do Estado de Minas Gerais contra decisão que deu provimento ao recurso ordinário em habeas corpus, garantindo ao recorrente o direito de recorrer em liberdade, salvo se por outro motivo estivesse preso.
+2. O agravante foi condenado pela prática do crime de tráfico de drogas na modalidade privilegiada, sendo primário, e a quantidade de drogas apreendida, embora expressiva, não autoriza a segregação cautelar, considerando o regime prisional semiaberto fixado.
+II. Questão em discussão3. A questão em discussão consiste em saber se a fixação do regime semiaberto é compatível com a manutenção da prisão preventiva, considerando o entendimento do Supremo Tribunal Federal de que a fixação do regime semiaberto afasta a prisão preventiva, salvo em casos excepcionais.
+III. Razões de decidir4. O Supremo Tribunal Federal firmou entendimento de que a fixação do regime semiaberto afasta a prisão preventiva, pois a tentativa de compatibilizar a prisão cautelar com o regime de cumprimento da pena imposta na condenação implica cumprimento antecipado da pena.
+5. A manutenção da prisão preventiva é possível em casos excepcionais, desde que haja fundamentação demonstrando a imprescindibilidade da medida, o que não se verifica no caso em análise.
+6. A quantidade de drogas apreendida, embora expressiva, não justifica a manutenção da prisão preventiva, considerando o regime semiaberto fixado e a primariedade do agravante.
+IV. Dispositivo e tese7. Agravo desprovido.
+Tese de julgamento: "1. A fixação do regime semiaberto afasta a prisão preventiva, salvo em casos excepcionais devidamente fundamentados. 2. A quantidade de drogas apreendida, por si só, não justifica a manutenção da prisão preventiva quando fixado o regime semiaberto e o réu é primário".
+Dispositivos relevantes citados: CPP, art. 312.Jurisprudência relevante citada: STF, AgRg no HC 197797, Rel. Min. Roberto Barroso, Rel. p/ acórdão Min. Marco Aurélio, Primeira Turma, DJe 15/6/2021; STF, AgRg no HC 221936, Rel. Min. Nunes Marques, Rel. p/ Acórdão Min. André Mendonça, Segunda Turma, DJe 20/4/2023.
+Diante do precedente acima citado em contradição à manutenção da prisão do Recorrente por ter sido condenado em crime cometido sem violência e grave ameaça contra pessoa , a ordem merece ser concedida apenas para sanar tal ilegalidade e possibilitar ao acusado recorrer em liberdade.
+Desse modo mantenho a liminar deferida, às fls. 441-442, pelos seus próprios fundamentos para que "a prisão preventiva do recorrente seja compatibilizada com o regime semiaberto até o julgamento do mérito deste habeas corpus, salvo se por outro motivo estiver preso".
+Ante o exposto, não conheço do recurso em habeas corpus. Concedo a ordem de habeas corpus de ofício apenas para compatibilizar o regime de cumprimento da prisão preventiva com o regime semiaberto, ao qual o recorrente foi condenado, mantendo-se os demais termos da condenação, tudo com o fito de possibilitar aguardar o recurso em liberdade.
+Oficie-se o juízo natural, com urgência, para ciência e providências.
+Publique-se. Intimem-se.
+EMENTA
