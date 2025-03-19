@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de THIAGO JOSE DE MATOS AMARAL em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, em virtude do julgamento da apelação criminal n. 0004293-66.2018.8.07.0016.
+Consta dos autos que o paciente foi condenado à pena de 04 anos de reclusão, em regime inicial aberto, pela prática do crime tipificado no art. 315 do Código Penal Militar, por duas vezes.
+O impetrante alega, em síntese, que é equivocado o entendimento do Tribunal de origem no sentido de que os atestados médicos apresentados possuem natureza de documento público em razão de terem sido emitidos por hospital público, o que repercutiu no acréscimo ilegal da pena.
+Requer, no mérito, seja o documento tratado como particular e, por conseguinte, reduzida a reprimenda.
+Acórdão impetrado às fls. 17/29.
+Decisão que indeferiu a liminar requerida às fls. 41/42.
+Informações prestadas pelo Tribunal impetrado às fls. 48/52.
+Parecer do Ministério Público Federal às 61/63, onde se posiciona pelo não conhecimento do writ.
+É o relatório. Decido.
+De início, observo que a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Cinge-se a controvérsia acerca da natureza pública ou privada dos documentos indicados como falsificados pelo paciente, o que possui repercussão na pena aplicada por força do preceito secundário previsto pelo art. 311 do CPPM.
+Do acórdão impetrado, colho as seguintes considerações:
+"É aplicável ao caso a pena da primeira parte do art. 311 do CPM. Diversamente do que argumenta a Defesa, os atestados apresentados pelo réu não são considerados documentos particulares. Os atestados falsos foram emitidos em formulário próprio da Secretaria de Saúde do Distrito Federal, em nome de médico vinculado ao Sistema único de Saúde e apresentado perante órgão público. Nesses termos, reconhece a jurisprudência como documento público falso os atestados médicos com timbre da rede pública de saúde, ainda que assinado por médico não integrante do serviço público e apresentado à empresa privada: (..) Portanto, é inequívoca a natureza pública dos atestados médicos utilizados pelo réu perante o CBMDF, pois, além de ter sido preenchido em documento com timbre da rede pública de saúde do DF, também consta identificada assinatura falsa em nome de médico integrante do quadro da Secretaria de Saúde. Passo a análise da dosimetria da pena."
+A decisão deve ser mantida, eis que alinhada com o entendimento de ambas as Turmas deste Sodalício, conforme se vê pelos seguintes arestos:
+RECURSO ESPECIAL. ART. 304 C/C 297, AMBOS DO CP. FALSIFICAÇÃO DE ATESTADO MÉDICO. DOCUMENTO COM O TIMBRE DA SECRETARIA DE SAÚDE DO DISTRITO FEDERAL. ASSINATURA DE MÉDICO NÃO PERTENCENTE AO SUS. DOCUMENTO PARTICULAR. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+1. A conduta de apresentar à empresa privada atestado médico com o timbre da rede pública de saúde, ainda que conste a identificação de médico não pertencente ao serviço público, configura o delito de uso de documento público falso.
+2. Recurso especial improvido. (REsp 1757386/DF, Rel. Ministro, Nefi Cordeiro, Sexta Turma, julgado em 07/05/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES CONTRA A FÉ PÚBLICA. PLEITO DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCOMPATÍVEL COM A VIA MANDAMENTAL DO WRIT. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No presente caso, verifica-se que a condenação do agravante à pena de 2 anos de reclusão, em regime inicial aberto, e ao pagamento de 10 dias-multa, no valor unitário mínimo, por infração ao art. 304, c/c o art. 297, ambos do Código Penal, resulta da minuciosa análise dos fatos e circunstâncias em que o ilícito foi cometido, a partir do legítimo exercício, pelos julgadores das instâncias ordinárias, do livre convencimento motivado.
+III - Assente nesta Corte que "(..) o acolhimento da pretensão, como exposto nas razões da impetração, demanda reexame de provas, medida interditada na via estreita do habeas corpus. Precedentes" (HC n. 538.211/SP, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, DJe de 26/11/2019).
+IV - Ainda, no que tange à situação específica dos autos, destaco que o entendimento desta eg. Corte Superior de Justiça, é no sentido de que :"A conduta de apresentar à empresa privada atestado médico com o timbre da rede pública de saúde, ainda que conste a identificação de médico não pertencente ao serviço público, configura o delito de uso de documento público falso" (REsp n. 1.757.386/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 14/05/2019).
+V - No mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido. (AgRg no HC 628557/SP, Rel. Ministro Felix Fishcer, Quinta Turma, julgado em 23/02/2021)
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
