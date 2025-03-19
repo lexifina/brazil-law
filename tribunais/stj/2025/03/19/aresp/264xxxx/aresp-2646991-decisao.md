@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo de RICARDO ALVES DOS SANTOS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1501984-44.2019.8.26.0562.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 155, caput, c/c o art. 14, II, do Código Penal - CP (furto tentado), às penas de 6 meses de reclusão, em regime inicial aberto, e 5 dias-multa, à razão mínima. A pena privativa de liberdade foi substituída por restritiva de direitos, consistente em prestação de serviços à comunidade ou a entidades públicas por igual prazo (fl. 183).
+Recurso de apelação interposto pela defesa foi desprovido com determinação para que o juízo de origem alterasse a prestação de serviços à comunidade por outra restritiva de direitos, em obediência à regra do art. 46 do CP (fls. 244/245). O acórdão ficou assim ementado:
+"Apelação Criminal FURTO - 155, caput, c/c art. 14, II, ambos do CP.
+Princípio da insignificância Inaplicabilidade Inexistência de previsão legal.
+Crime impossível não configurado.
+Penas que merecem pequeno reparo, de ofício.
+Recurso desprovido, com determinação que o Juízo de origem altere a substituição da pena privativa de liberdade por prestação de serviços à comunidade por outra restritiva de direito, em obediência à regra do artigo 46, do Código Penal." (fl. 238)
+Em recurso especial (fls. 254/277), a defesa apontou violação aos 1º, 13, 17 e 155, todos do CP, e ao 386, III, do Código de Processo Penal - CPP, porque o Tribunal de Justiça - TJ teria deixado de reconhecer a incidência do princípio da insignificância e a situação de crime impossível. Aduziu ausência de lesividade penal, tendo em vista o valor da res furtiva (R$ 194,00) e o fato de o recorrente ter tentado subtrair duas peças de bacalhau, que foram total e rapidamente recuperadas. Aduziu, ainda, ocorrência de crime impossível por utilização de meio absolutamente ineficaz para a consumação do delito. Argumentou que o recorrente teria sido a todo instante observado pelo funcionário do estabelecimento comercial e que, por ser considerado suspeito por outras subtrações, foi armada uma "emboscada" com a exposição de produtos de maior valor.
+Requereu a aplicação do princípio da insignificância ou o reconhecimento da ocorrência de crime impossível.
+Contrarrazões do Ministério Público do Estado de São Paulo (fls. 284/289).
+O recurso especial teve negado seguimento, com base no art. 1.030, I, "b", do Código de Processo Civil, por aplicação do Tema Repetitivo n. 924/STJ.
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 292/293).
+Em agravo em recurso especial (fls. 298/305), a defesa aduziu, em síntese, que as teses jurídicas do recurso especial não demandavam revaloração do conjunto probatório.
+Contraminuta do Ministério Público (fls. 309/312).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento ou pelo desprovimento do agravo em recurso especial (fls. 325/330).
+É o relatório.
+Decido.
+O agravo em recurso especial não merece ser conhecido.
+Na hipótese dos autos, verifica-se que a defesa não atacou efetivamente o fundamento da decisão de inadmissibilidade proferida pelo Tribunal de origem, consistente no óbice da Súmula n. 7/STJ. Isso porque a defesa cingiu-se a sustentar de forma genérica e abstrata a inaplicabilidade do referido óbice.
+Em seus termos:
+"Ademais, NÃO SE PRESTA O RECURSO ESPECIAL AO REEXAME DE PROVAS, isto é, não tem ele a pretensão de requerer à Superior Instância que reveja todo conjunto probatório e faça um balanço preciso do que há em favor do recorrente. Ao contrário, partindo-se de teses jurídicas precisas, que não demandam revaloração profunda daquilo que está nos autos, pede-se, exclusivamente, que se interprete o caso aqui posto, de maneira a que se suavize a sanção penal imposta contra o recorrente. Insta ressaltar, ainda, que não se pode confundir a revaloração da prova com o reexame de prova em recurso especial, posto que aquela é amplamente permitida.
+Colhe-se, assim, o brilhante voto proferido pelo E. Ministro FELIX FISCHER, nos autos do Recurso Especial nº 979.639/MG, que explica a necessária diferenciação entre os dois:  .. " (fl. 301)
+Nessas condições, a parte não impugnou concretamente o óbice aplicado, de maneira que o recurso apresentado é incapaz de demonstrar o equívoco da decisão contra a qual se insurge, mantendo-a incólume.
+Cabia à parte demonstrar de que maneira, no caso concreto, não seria necessário rever a situação fática e as provas que embasaram o julgado para avaliar suas alegações e acolher sua pretensão recursal (reconhecimento de atipicidade material da conduta ou de crime impossível), o que não foi feito.
+Registre-se que, para impugnação do óbice da Súmula n. 7 do STJ, é firme o entendimento desta Corte no sentido de que " s ão insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023).
+Dessarte, aplicável, por analogia, a Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Igualmente, os arts. 932, III, do Código de Processo Civil - CPC e 253, parágrafo único, I, do Regimento Interno desta Corte dispõem que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182/STJ. ÓBICES DAS SÚMULAS N. 7 E 83/STJ E 282/STJ NÃO INFIRMADOS PELO AGRAVANTE. DECISÃO MANTIDA.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015; art. 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. Para impugnar a incidência da Súmula n. 83 desta Corte, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+3. Para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.231.715/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/4/2023, DJe de 14/4/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. APELO NOBRE. PLEITO ABSOLUTÓRIO. NÃO CONHECIMENTO. SÚMULA N. 7 DESTA CORTE SUPERIOR. RECURSO INTERNO. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O art. 932, inciso III, do Código de Processo Civil, positivou o princípio da dialeticidade recursal, sendo aplicável por força do art. 3.º do Código de Processo Penal. Assim cabe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+2. Nas razões do agravo regimental, o Agravante sustentou, genericamente, que o exame do apelo nobre não exigiria reexame probatório, devendo ser afastada a aplicação da Súmula n. 7 desta Corte Superior. Porém , não demonstrou, concretamente, como, a partir dos fatos incontroversos constantes do acórdão proferido na apelação, sem a necessidade de amplo reexame das provas que compõem o caderno processual, seria possível analisar a tese de que não estaria comprovada a prática do crime de tráfico de drogas.
+Aplicação da Súmula n. 182 do Superior Tribunal de Justiça.
+3. Nos termos da jurisprudência desta Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (Ag Rg no AREsp 1.750.146/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 09/03/2021, DJe 12/03/2021).
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.145.683/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ.
+AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente em relação à Súmula 83/STJ e à divergência não comprovada. Por conta disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+3. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois, convém frisar, não é admitida a impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, embora autônomos, impede o conhecimento do respectivo agravo consoante preceituam os arts.253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ, aplicável por analogia.
+5. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência na espécie do enunciado da Súmula 182 do STJ.
+6. Inadmitido o recurso especial com base na incidência da Súmula 83 do STJ, deve a parte recorrente apresentar acórdãos deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal a quo ou que não se encontra pacificada.
+Pode ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.272.690/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023.)
+Desse modo, o presente agravo em recurso especial não ultrapassa o juízo de admissibilidade.
+Ante o exposto, com base nos arts. 932, III, do CPC e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
