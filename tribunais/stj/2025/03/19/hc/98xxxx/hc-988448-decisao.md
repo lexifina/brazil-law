@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JULIMAR DE ALMEIDA MOREIRA, no qual se aponta como órgão coator o Tribunal de Justiça do Estado de Mato Grosso (HC n. 1033583-39.2024.8.11.0000 - fls. 20/27), por manter a prisão preventiva decretada pelo Juízo da 7ª Vara Criminal da comarca de Cuiabá/MT, nos Autos n. 1003470-73.2024.8.11.0042, em razão da suposta prática dos crimes de associação para o tráfico de drogas e organização criminosa (fls. 101/112).
+A defesa alega ausência de fundamentação idônea no decreto prisional, que teria sido baseado apenas na gravidade abstrata do crime, bem como que não estariam cumpridos os requisitos previstos no art. 312 do Código de Processo Penal.
+Assim, pretende, no âmbito liminar e no mérito, a revogação da custódia, ainda que com a aplicação de medidas cautelares alternativas, pois possui condições pessoais favoráveis (primariedade, bons antecedentes e residência fixa).
+É o relatório.
+De pronto, verifico que não há constrangimento ilegal a ser sanado.
+Com efeito, o Juízo de primeiro grau decretou a custódia, principalmente, com base nos seguintes fundamentos (Processo n. 1003470-73.2024.8.11.0042 - fls. 104/108 - grifo nosso):
+ ..
+Na espécie, a materialidade do fato imputado ao suspeito encontra-se evidenciada pelos documentos carreados no presente feito.
+Nesse sentido, embora os corpos das vítimas ainda não foram localizados, há nos autos elementos que demonstram que as vítimas foram sequestradas, torturadas, assassinadas e seus corpos foram ocultados por membros da facção criminosa denominada Comando Vermelho.
+Desse modo, no curso das investigações através de depoimentos de testemunhas e documentos extraídos do celular da investigada Tattiely como fotos das vítimas no interior do veículo pertencente aos investigados, e foto da vítima Said ao solo, em região de mata, amarrado e ensanguentado, possivelmente morto, é possível constatar que o duplo homicídio foi consumado.
+No que tange ao periculum libertatis, no caso em comento, verifico a presença de um dos fundamentos ensejadores da custódia processual, qual seja: a garantia da ordem pública, tendo em vista a gravidade concreta do fato e a periculosidade dos agentes.
+No caso, o cenário fático revela, a priori, que as vítimas foram brutalmente assassinadas após terem sido sequestradas e torturadas por membros da facção criminosa Comando Vermelho.
+Registre-se que até o presente momento os corpos das vítimas não foram encontrados, provavelmente na tentativa dos agentes em dificultar a persecução criminal.
+Sendo assim, passo a individualizar as condutas dos suspeitos:
+ ..
+d) Do representado Julimar de Almeida Moreira
+Conforme também relatado pela autoridade policial, há diversas informações que motoristas de aplicativos, também denominado "ubers", prestam serviços para os traficantes locais do Comando Vermelho em busca de dinheiro fácil.
+Essa prática é bastante comum, considerando que a atividade é segura para os traficantes, uma vez que dificulta a fiscalização por parte das autoridades de segurança pública.
+Nesse sentido, há indícios suficientes que o representado é participe do duplo homicídio, pois colaborava com a facção no transporte de drogas e de agentes faccionados quando necessário.
+Desse modo, a testemunha sem rosto narrou com riquezas de detalhes que o representado transportou Tavares até o local do crime e permaneceu até o momento da consumação dos crimes de Homicídio Qualificado e Ocultação de Cadáver.
+ ..
+O Tribunal de origem, por sua vez, manteve a segregação, entendendo-a idoneamente fundamentada, nestes termos (HC n. 1033583-39.2024.8.11.0000 - fl. 26 - grifo nosso):
+ ..
+A prisão preventiva está devidamente fundamentada na garantia da ordem pública, consubstanciada nos indicativos de envolvimento do paciente em organização criminosa ligada à facção do "Comando Vermelho", composta por, ao menos, 8 (oito) denunciados e voltada à prática de crimes graves, especialmente tráfico de drogas na região de Arenápolis/MT, bem como na reiteração delitiva, visto que responde outra ação penal por associação criminosa (PJe N.U 1001394-61.2023.8.11.0026).
+De fato, o paciente seria integrante do referido grupo criminoso e responsável pelo transporte de drogas, armas e de agentes faccionados, além de prestar auxílio intelectual e material para outros membros praticarem crimes patrimoniais no município.
+O possível envolvimento do paciente com a facção do "Comando Vermelho", cujo grupo criminoso, sabidamente, possui atuação intensa neste Estado  Mato Grosso , autoriza a custódia cautelar para garantia da ordem pública, por evidenciar efetivo risco ao meio social (STJ, AgRg no RHC 163839/MT - Relator: Min. Olindo Menezes  Des. Convocado do TRF- 1  - 15.8.2022; TJMT, HC N.U 1000416-31.2024.8.11.0000 - Relator: Des. Marcos Machado - Primeira Câmara Criminal - 11.3.2024).
+Não bastasse, a reiteração delitiva também justifica a constrição provisória, conforme pacífica posição jurisprudencial do c. STJ e deste e. Tribunal (STJ, AgRg no HC 946643/RS - Relator: Min. Og Fernandes - 7.11.2024; TJMT, Enunciado Criminal 6).
+ ..
+Como se vê, a custódia cautelar está idoneamente fundamentada no modus operandi e na gravidade concreta dos crimes de associação para o tráfico de drogas e de organização criminosa, constituída para prática de crimes graves, especialmente tráfico de drogas, ligada á facção criminosa "Comando Vermelho", além da reiteração delitiva do paciente, que responde a outra ação penal por associação criminosa.
+Ora, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023 - grifo nosso).
+Ressalto que a jurisprudência desta Corte de Justiça é firme em assinalar que "se justifica a decretação da prisão de membros de organização criminosa, como forma de interromper as atividades do grupo" (RHC n. 70.101/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/10/2016 - grifo nosso).
+Ademais, em casos que envolvem facções voltadas à reiterada prática de delitos, este Tribunal Superior acentua a idoneidade da preservação do cárcere preventivo dos investigados, mesmo quando não há indicação detalhada da atividade por eles desempenhada em tal associação, mas apenas menção à existência de sinais de que integram o grupo criminoso (HC n. 603.338/CE, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/10/2020 - grifo nosso).
+A propósito:
+HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE HOMICÍDIO QUALIFICADO, CONSUMADO E TENTADO. PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS DOS CRIMES. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONTEMPORANEIDADE. TESE NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1. A prisão preventiva foi suficientemente fundamentada, nos termos do art. 312 do Código de Processo Penal, destacando-se a necessidade da custódia para garantia da ordem pública, em razão da especial gravidade dos fatos delituosos.
+2. No caso, verifica-se dos autos que o Paciente, em concurso de pessoas, teria envolvimento em dois assassinatos e uma tentativa de homicídio, todos os crimes qualificados por motivo fútil, constando, ainda, que os executores, encapuzados, portavam pistola e fuzis, faziam alusão à organização criminosa Comando Vermelho, tendo efetuado mais de 40 (quarenta) disparos para o alto, como forma de atemorizar e conferir viés de exemplaridade à comunidade local, durante e após os atos.
+3. O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017).
+ ..  5. Ordem de habeas corpus parcialmente conhecida e, nessa extensão, denegada.
+(HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018 - grifo nosso).
+Por fim, conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019).
+Ante o exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI EMPREGADO. PERICULOSIDADE SOCIAL DO AGENTE. REITERAÇÃO DELITIVA. RESGUARDO DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
