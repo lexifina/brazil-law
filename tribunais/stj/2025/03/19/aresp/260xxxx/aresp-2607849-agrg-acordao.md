@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. PROGRESSÃO DE REGIME. PREENCHIMENTO DO REQUISITO SUBJETIVO. REEXAM E DE FATOS E PROVAS. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem, analisando o histórico de cumprimento da pena do reeducando, concluiu pelo preenchimento dos requisitos subjetivos para obter benefício da execução penal.
+2. "Não é possível, em sede de recurso especial, a análise relativa ao preenchimento do requisito subjetivo para concessão de progressão de regime prisional ou livramento condicional, tendo em vista que depende do exame aprofundado do conjunto fático-probatório relativo à execução da pena. Óbice da Súmula n. 7/STJ". Precedente.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental manejado pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra a decisão de fls. 137-139 que conheceu do agravo para negar provimento ao recurso especial em razão do óbice da Súmula n. 7 do STJ.
+A parte agravante defende que o recurso especial não pretende revolver fatos e provas, "pois a causa de pedir recursal parte das premissas fáticas consignadas no v. acórdão, para então comprovar a inadequação subsuntiva levada a efeito pela instância a quo".
+Requer o provimento do agravo regimental, com o consequente provimento do agravo em recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. PROGRESSÃO DE REGIME. PREENCHIMENTO DO REQUISITO SUBJETIVO. REEXAM E DE FATOS E PROVAS. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem, analisando o histórico de cumprimento da pena do reeducando, concluiu pelo preenchimento dos requisitos subjetivos para obter benefício da execução penal.
+2. "Não é possível, em sede de recurso especial, a análise relativa ao preenchimento do requisito subjetivo para concessão de progressão de regime prisional ou livramento condicional, tendo em vista que depende do exame aprofundado do conjunto fático-probatório relativo à execução da pena. Óbice da Súmula n. 7/STJ". Precedente.
+3. Agravo regimental improvido.
+VOTO
+A pretensão recursal não pode ser acolhida, pois os argumentos trazidos no agravo regimental não demonstram desacerto da decisão que conheceu do agravo para negar provimento ao recurso especial.
+A decisão agravada tem a seguinte fundamentação (fls. 137-139 - destaques originais):
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido (fls. 52-55):
+Inicialmente, destaco que para progressão de regime é necessário que o agravante preencha os requisitos previstos nos art. 112 da Lei de Execução Penal.
+Quanto ao requisito objetivo, constata-se que o agravante cumpriu o lapso temporal exigido para a concessão da progressão de regime.
+No tocante ao requisito subjetivo, para fins de alcance do aludido benefício, exige-se, como condição legalmente estabelecida e imprescindível, a constatação de um comportamento satisfatório que, diante da ausência de previsão de limitação temporal pelo legislador, deve ser verificado durante toda a execução, a fim de se averiguar o mérito do apenado.
+Em consulta ao SEEU, o apenado cometeu apenas uma falta média decorrente de 05 violações do monitoramento eletrônico, tendo como sanção a suspensão das saídas externas desvigiadas por cinco dias, bem como 05 dias de pena não cumprida, não havendo informações quanto ao cometimento de faltas graves.
+Havendo notícias de que o reeducando não cometeu outras faltas médias no decorrer de toda a sua execução penal, e inexistindo faltas graves praticadas, compreendo que a mencionada falta média, por si só, não é suficiente para macular o comportamento do apenado quando avaliado de forma ampla.
+Sobre o tema, colaciono jurisprudência do STJ: "5. A existência de uma falta disciplinar de natureza média não é capaz, por si só, de justificar o não adimplemento do requisito subjetivo" (AgRg no HC n. 658.486/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/5/2021, DJe de7/6/2021).
+Ademais, conforme se extrai do atestado de conduta carcerária emitido pelo estabelecimento prisional responsável pela custódia do agravante (evento 62.1 do SEEU), seu comportamento fora classificado como REGULAR, "tendo em vista que o apenado NÃO possui mais de 05 (cinco) violações".
+Desse modo, entendo que o apenado preenche o requisito de "bom comportamento durante a execução da pena", previsto no art. 112, § 1º, da LEP.
+Além disso, embora não se desconheça a existência de outra ação penal em curso por crime cometido com violência ou grave ameaça à pessoa, tenho que tal justificativa não conforma argumentos aptos a obstar a progressão de regime pleiteada pelo agravante, uma vez que os fatos que originaram a ação 0100125-37.2020.8.20.0100 supostamente ocorreram em 14/08/2018, enquanto os fatos que ensejaram o processo 0111099-76.2019.8.20.0001, relativo à presente execução penal, se deram em 11/12/2019.
+Sob essa ótica, é certo que crimes cometidos no curso da execução penal demonstram que o apenado não possui condições de se adaptar a um regime mais brando, eis que prejudicam o preenchimento do requisito subjetivo. Todavia, no caso em tela, verificou-se que apesar da existência de condenação em segunda instância, não houve o trânsito em julgado da nova ação em desfavor do agravante, que ainda é tecnicamente primário.
+Logo, o fato do processo 0100125-37.2020.8.20.0100 ter tramitado em ritmo diverso não pode ser utilizado para indicar comportamento desabonador durante a execução, tampouco para obstar a progressão de regime.
+ ..
+Inexistem, pois, elementos concretos extraídos da própria execução aptos à impedir a progressão. Ressalto que não se prestam, para fins da análise sub examine e denegação da progressão de regime, a situação processual indefinida do réu, o qual, sendo condenado, terá as penas unificadas e o regime readequado.
+Portanto, de direito o provimento do presente agravo, para reformar a decisão fustigada e conceder ao agravante a progressão ao regime aberto.
+Ante o exposto, em dissonância com a 1.ª Procuradoria de Justiça, conheço do presente agravo em execução para dar-lhe provimento, nos termos da fundamentação supra.
+Dessume-se que o Tribunal de origem concedeu ao agravado a progressão ao regime aberto ao entendimento de que a falta média praticada, "por si só, não é suficiente para macular o comportamento do apenado quando avaliado de forma ampla", considerando, ainda, que, conforme o atestado de conduta carcerária emitido pelo estabelecimento prisional responsável pela custódia do agravante, seu comportamento fora classificado como REGULAR. Além disso, destacou-se que, "apesar da existência de condenação em segunda instância, não houve o trânsito em julgado da nova ação em desfavor do agravante, que ainda é tecnicamente primário".
+Concluindo a Corte local, soberana na análise das provas dos autos, que o requisito subjetivo, necessário ao deferimento da progressão de regime, foi devidamente preenchido pelo apenado, a inversão da premissa demandaria amplo revolvimento fático-probatório, incabível na via do recurso especial, conforme dispõe a Súmula 7/STJ.
+A esse respeito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO PREENCHIDO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA.
+1. "Não é possível, em sede de recurso especial, a análise relativa ao preenchimento do requisito subjetivo para concessão de progressão de regime prisional ou livramento condicional, tendo em vista que depende do exame aprofundado do conjunto fático-probatório relativo à execução da pena. Óbice da Súmula n. 7/STJ" (AgRg no REsp n. 1.989.973/RS, Relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 12/5/2022.) 2. Agravo regimental improvido.
+(AgRg no REsp n. 1.970.972/RO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "b", do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+Conforme constou na decisão agravada, as instâncias ordinárias avaliaram o histórico de cumprimento da pena do recorrido e concluíram que preenche os requisitos subjetivos para obter o benefício da execução penal, sendo que a modificação da conclusão demandaria reexame de fatos e provas.
+A propósito:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. ATESTADO DE BOM COMPORTAMENTO CARCERÁRIO E DEMAIS ELEMENTOS CONCRETOS PREENCHEDORES DO REQUISITO SUBJETIVO PARA A PROGRESSÃO DE REGIME. FALTA GRAVE (USO DE APARELHO CELULAR) QUE DEVE APURADA POR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. REQUISITO QUE NÃO PODE SER ANALISADO EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, diante do atestado carcerário e das peculiaridades do caso concreto, entendeu que o reeducando preenche o requisito subjetivo para a progressão de regime, ressaltando, corretamente, que "o cometimento de eventuais faltas graves praticadas durante o cumprimento da pena acarreta a instauração de Procedimento Administrativo Disciplinar, que pode inclusive conduzir à regressão de regime em face da falta e ter a conduta carcerária rebaixada, que hoje, repito, é plenamente satisfatória. Tais faltas, todavia, não podem constituir óbice à concessão da progressão de regime".
+2. Não é possível, em sede de recurso especial, a análise relativa ao preenchimento do requisito subjetivo para concessão de progressão de regime prisional ou livramento condicional, tendo em vista que depende do exame aprofundado do conjunto fático-probatório relativo à execução da pena. Óbice da Súmula n. 7/STJ.
+3.Agravo regimental desprovido.
+(AgRg no REsp n. 1.989.973/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/5/2022, DJe de 12/5/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
