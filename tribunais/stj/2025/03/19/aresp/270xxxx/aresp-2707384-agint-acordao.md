@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. REPARAÇÃO CIVIL. CHOQUE ELÉTRICO. CULPA CONCORRENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por EDP SÃO PAULO DISTRIBUIÇÃO DE ENERGIA S.A.  contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, em razão da inexistência de violação ao art. 1.022  do  CPC/2015 e da aplicação da Súmula 7 do STJ.
+Argumenta  a  parte agravante,  em  síntese,  que:
+Os aclaratórios da Agravante apontaram evidentes vícios naquele julgado, quais sejam, (i) a omissão na análise da tese de nulidade da sentença, diante do cerceamento de defesa devido ao indeferimento do seu pedido de produção de prova técnica de engenharia elétrica, imprescindível para desincumbir-se do ônus que lhe recai à luz do artigo 373, II, do Código de Processo Civil, restando inobservados princípios do contraditório e da ampla defesa consagrados no artigo 5º, LV, da Constituição Federal, em violação frontal artigo 7º do Código de Processo Civil; e (ii) a contradição interna, pois os trechos dos depoimentos das testemunhas consignados naquele julgado, apontam para a culpa exclusiva do Agravado e seus genitores na produção do evento danoso, afastando a responsabilidade civil da EDP, mesmo na sua forma objetiva, dada a ausência de nexo de causal entre sua conduta e o dano, em violação ao artigo14, § 3º, II, do Código de Defesa do Consumidor.
+Todavia, na decisão integrativa, ao invés de sanar tais vícios, o Colegiado julgador entendeu por perpetuá-los, sob o fundamento de inexistência de omissão ou contradição no julgado, e que a pretensão da Agravante era exclusivamente de "reapreciação da prova" já discutida amplamente nos autos (fl. 994).
+Defende "a possibilidade de redução da verba indenizatória, sem que isso acarrete em inobservância à Súmula 7 deste Col. Tribunal da Cidadania, quando se tratar de valor exorbitante" (fl. 996).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. REPARAÇÃO CIVIL. CHOQUE ELÉTRICO. CULPA CONCORRENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação ao art. 1.022 do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+Conforme jurisprudência, "não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016 " (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+No mais, a alteração da conclusão do Tribunal a quo, acerca do valor fixado a título de dano moral, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "Em regra, não é cabível na via especial a revisão do montante estipulado pelas instâncias ordinárias a título de indenização, ante a impossibilidade de reanálise de fatos e provas, conforme a referida Súmula 7/STJ" (AgInt no AREsp n. 2.511.934 /ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/6/2024).
+Isso posto, nego provimento ao recurso.
