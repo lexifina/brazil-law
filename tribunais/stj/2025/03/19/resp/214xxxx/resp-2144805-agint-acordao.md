@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA PREVENTIVO. ART. 23 DA LEI N. 12.016/2009. DECADÊNCIA. INAPLICABILIDADE. MATÉRIA DE TRATO SUCESSSIVO. ICMS-DIFAL. AGRAVO INTERNO DESPROVIDO.
+1. A decisão agravada assentou que não há prazo decadencial para a impetração de mandado de segurança preventivo, pois se trata de ação ajuizada antes da modulação dos efeitos do Tema 1093 do STF. A parte agravante, contudo, não apresenta argumentação capaz de afastar o entendimento, restringindo-se a insistir na tese de que a publicação da lei estadual constitui o termo inicial do prazo decadencial, sem considerar a distinção entre segurança preventiva e repressiva.
+2. A cobrança do DIFAL possui natureza periódica e sucessiva, pois incide a cada operação interestadual realizada com o consumidor final não contribuinte.
+3. O Superior Tribunal de Justiça já se manifestou reiteradamente no sentido de que a cobrança contínua de tributo não pode ser enquadrada como ato único, pois a cada nova incidência há renovação da relação jurídica entre Fisco e contribuinte. Precedentes.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO PARANÁ contra decisão monocrática de minha relatoria, que não conheceu do recurso especial, com a seguinte ementa (fl. 419):
+RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA PREVENTIVO. ART. 23 DA LEI 12.016/2009. DECADÊNCIA. INAPLICABILIDADE. ICMS-DIFAL. ORIENTAÇÃO JURISPRUDENCIAL PACÍFICA. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões do agravo interno, a parte recorrente se insurge contra a referida decisão. Alega que "a impetração inicial volta-se contra a cobrança do DIFAL, instituída pela Lei Estadual Paranaense nº 18.573/2015 (mediante alteração no artigo 2º da Lei Estadual nº11580/1996 também do Paraná), com base em autorização do Convênio ICMS nº 93/2015." (fl. 430). Defende que, em razão disso, "o mandado de segurança possui clara e preponderante natureza repressiva." (fl. 430).
+Sustenta que "é a partir da publicação da norma que surge a pretensão mandamental da proteção do suposto direito líquido e certo. Foi a partir da norma que a recorrida passou a se submeter à cobrança tributária." (fl. 431).
+Alega, ainda, que "não foi observado o prazo de 120 dias previsto no art. 23 da Lei 12016/2019, que teve início muito antes com a edição da Lei Estadual 18.573/2015." (fl. 435)
+Impugnação apresentada (fls. 440-442).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA PREVENTIVO. ART. 23 DA LEI N. 12.016/2009. DECADÊNCIA. INAPLICABILIDADE. MATÉRIA DE TRATO SUCESSSIVO. ICMS-DIFAL. AGRAVO INTERNO DESPROVIDO.
+1. A decisão agravada assentou que não há prazo decadencial para a impetração de mandado de segurança preventivo, pois se trata de ação ajuizada antes da modulação dos efeitos do Tema 1093 do STF. A parte agravante, contudo, não apresenta argumentação capaz de afastar o entendimento, restringindo-se a insistir na tese de que a publicação da lei estadual constitui o termo inicial do prazo decadencial, sem considerar a distinção entre segurança preventiva e repressiva.
+2. A cobrança do DIFAL possui natureza periódica e sucessiva, pois incide a cada operação interestadual realizada com o consumidor final não contribuinte.
+3. O Superior Tribunal de Justiça já se manifestou reiteradamente no sentido de que a cobrança contínua de tributo não pode ser enquadrada como ato único, pois a cada nova incidência há renovação da relação jurídica entre Fisco e contribuinte. Precedentes.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não prospera, tendo em vista que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao colegiado para serem confirmados (fls. 420-423):
+A Lei estadual n. 18.573/2015 surte efeitos concretos e contínuos, incidentes sobre o patrimônio do impetrante, não se aplicando o prazo decadencial do art. 23 da Lei n. 12.016/2019, pois trata-se de evidente relação de trato sucessivo, que se renova periodicamente.
+No caso, verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual não há prazo decadencial para a impetração de mandado de segurança preventivo. Considerada a natureza preventiva da impetração, o não conhecimento do recurso especial é medida que se impõe, pois é firme na jurisprudência desta Corte de Justiça a não incidência do prazo decadencial no caso de mandado de segurança preventivo.
+Confira-se, a propósito (sem grifos no original):
+ ..
+Ademais, o acórdão recorrido salientou que o mandado de segurança objeto de análise foi impetrado em 16/11/2020 e se amolda ao julgamento proferido pelo Tema n. 1.093 do STF, in verbis (fls. 329-331, sem grifos no original):
+Relativamente ao mérito, tem-se que o objeto de discussão nestes autos diz respeito ao Tema 1093 do Supremo Tribunal Federal (RE nº 1.287.019/DF), julgado em 24/02/2021, em regime de repercussão geral, no qual restou definido que a cobrança da diferença de alíquotas de ICMS -DIFAL, incidente sobre operações de vendas de mercadorias a consumidores finais não contribuintes, pressupõe edição de lei complementar para disciplinar a matéria.
+A Suprema Corte fixou a seguinte tese, cuja data de julgamento foi 24/02/2021:
+"ICMS - DIFERENCIAL DE ALÍQUOTA - EMENDA CONSTITUCIONAL Nº 87/2015 - ARTIGO 155, §2º, INCISOS VII e VIII, DA CONSTITUIÇÃO FEDERAL - REGULAMENTAÇÃO - LEI COMPLEMENTAR - PEDRA DE TOQUE. A cobrança da Diferença de Alíquotas do ICMS - Difal, considerada operação interestadual envolvendo consumidor final não contribuinte, pressupõe edição de lei complementar disciplinando a matéria." (STF, ADI 5469, Relator: Dias Toffoli, Julgamento: 24/02/2021, Publicação: 03/03/2021. DJE nº 39).
+Contudo, ao modular os efeitos da referida tese, restou deliberado que a decisão produzirá efeitos a partir do exercício financeiro seguinte à conclusão do julgamento, isto é, 2022, ressalvadas as ações já em curso.
+ ..
+A Suprema Corte, quando do julgamento dos embargos de declaração opostos em face do acórdão que assentou a tese referente ao Tema 1093, expressamente reconheceu que o marco para a ressalva da modulação dos efeitos é a data do julgamento do tema.
+ ..
+Dessa forma, o Mandado de Segurança a que se refere o presente recurso foi impetrado em 16 de novembro de 2020, e, considerando a data de julgamento do Tema 1093 (24/02/2021), se amolda à acepção de "ação judicial em curso", estando à salvo da modulação determinadas naquele julgado.
+Ante o exposto, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+No caso, embora se reconheça o esforço argumentativo apresentado no agravo interno, a decisão impugnada deve ser mantida. Conforme acima exposto, a decisão agravada assentou que não há prazo decadencial para a impetração de mandado de segurança preventivo, pois se trata de ação ajuizada antes da modulação dos efeitos do Tema 1093 do STF. A parte agravante, contudo, não apresenta argumentação capaz de afastar esse entendimento, restringindo-se a insistir na tese de que a publicação da lei estadual constitui o termo inicial do prazo decadencial, sem considerar a distinção entre segurança preventiva e repressiva.
+A jurisprudência desta Corte é firme ao estabelecer que o mandado de segurança preventivo não se submete ao prazo decadencial do art. 23 da Lei n. 12.016/2009.
+Além disso, o próprio acórdão recorrido enfatizou que a modulação dos efeitos determinada no Tema 1093 do STF protege as ações ajuizadas até 24/02/2021, data do julgamento do referido precedente qualificado. Como a impetração ocorreu em 16/11/2020, resta evidente sua tempestividade, tornando insubsistente a tese recursal.
+Ademais, a cobrança do DIFAL possui natureza periódica e sucessiva, pois incide a cada operação interestadual realizada com consumidor final não contribuinte. Esse aspecto afasta a configuração de um ato único de efeitos concretos, tese defendida pela parte agravante.
+O Superior Tribunal de Justiça já se manifestou reiteradamente no sentido de que a cobrança contínua de tributo não pode ser enquadrada como ato único, pois a cada nova incidência há renovação da relação jurídica entre fisco e contribuinte. Assim, inaplicável a tese de que a publicação da lei estadual seria o único marco para a contagem do prazo decadencial.
+Nesse sentido: AgInt no REsp n. 2.085.752/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023; sem grifo no original; (AgInt no RMS n. 57.828/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/4/2019, DJe de 29/4/2019; sem grifo no original; AgInt no REsp n. 1.200.535/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 28/3/2017, DJe de 6/4/2017; AgRg no REsp n. 1.128.892/MT, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/10/2010, DJe de 14/10/2010; REsp n. 777.097/MG, relatora Ministra Denise Arruda, Primeira Turma, julgado em 10/6/2008, DJe de 25/6/2008.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
