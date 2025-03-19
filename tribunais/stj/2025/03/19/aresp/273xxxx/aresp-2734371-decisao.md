@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GILSON ENIO LUMINATO DA SILVA contra decisão que não admitiu o seu recurso especial por entender aplicáveis as Súmulas n. 7 e n. 83 do STJ.
+O recurso especial foi interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, em face do acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo que negou provimento ao seu recurso de apelação, mantendo sua condenação pela prática do crime descrito no art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003 (porte de arma de fogo com numeração raspada), à pena de 3 (três) anos de reclusão, em regime aberto, além de 10 (dez) dias-multa.
+Em suas razões de recurso especial, o recorrente alega, em síntese, violação aos arts. 155, 414 e 415, inciso II, do Código de Processo Penal, sustentando a ausência de provas a embasar a sua condenação, bem como a existência de erro de tipo. Pleiteia absolvição ou, alternativamente, a desclassificação para os crimes previstos nos arts. 12 ou 14 da Lei n. 10.826/2003.
+No presente agravo, o recorrente insiste na tese de que não há necessidade de reexame de provas, mas apenas de sua revaloração. Reitera as alegações de violação aos arts. 155, 414 e 415, inciso II, do CPP.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+É o relatório.
+DECIDO.
+O agravo não merece provimento.
+A insurgência recursal busca a absolvição do recorrente sob o argumento de fragilidade probatória, bem como a desclassificação da conduta para os delitos previstos nos arts. 12 ou 14 da Lei n. 10.826/2003, alegando erro de tipo.
+Relativamente ao pleito absolutório, o recorrente sustenta a existência de contradição nos depoimentos dos policiais quanto à apreensão em sua posse da arma de fogo com numeração raspada, defendendo a ocorrência de dúvida razoável que deveria conduzir à absolvição.
+Ocorre que, como bem destacado na decisão agravada, a verificação da procedência de tais alegações demandaria o necessário reexame do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula n. 7 do STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+O Tribunal de origem, ao analisar as provas produzidas nos autos, concluiu pela presença de elementos suficientes a embasar a condenação do recorrente pelo crime de porte de arma de fogo com numeração raspada. Conforme se extrai do acórdão recorrido (fls. 463-475), tanto o laudo pericial quanto os depoimentos policiais confirmaram que o recorrente portava arma de fogo com a numeração suprimida/raspada.
+Para afastar essas conclusões e acolher a tese defensiva, seria imprescindível o revolvimento do acervo fático-probatório, providência vedada na via estreita do recurso especial, conforme entendimento sumular.
+Ademais, com relação ao pedido de desclassificação para os crimes previstos nos arts. 12 ou 14 da Lei n. 10.826/2003, o entendimento firmado no acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça.
+Segundo a orientação pacificada nessa Corte Superior, o porte de arma de fogo com numeração raspada se adequa ao crime do artigo 16, parágrafo único, IV, da Lei n. 10.826/03, pouco importando seja a arma de uso permitido, restrito ou proib ido (AgRg no HC n. 900.034/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2024, DJe de 12/6/2024). No mesmo sentido: AgRg no AREsp n. 2.610.845/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024.
+O Tribunal de origem, portanto, decidiu em conformidade com a jurisprudência do STJ, atraindo a incidência da Súmula n. 83/STJ, segundo a qual não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Por fim, quanto à alegação de erro de tipo, além de sua análise também demandar o reexame probatório, o Tribunal de origem bem pontuou que a pessoa que tem consigo posse de arma deve ter ciência de suas características, afinal trata-se de bem regulamentado, com especificações legais rigorosas. Não há como se acolher a ignorância em relação a algo que se pode ver a olho nu e que a lei não admite escusa (fl. 469).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
