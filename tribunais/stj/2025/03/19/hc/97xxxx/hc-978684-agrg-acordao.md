@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus, mantendo a prisão preventiva do agravante.
+2. A decisão agravada considerou que as medidas cautelares diversas da prisão seriam insuficientes para assegurar a aplicação da lei penal e impedir a reiteração criminal.
+3. A prisão preventiva foi considerada necessária pelo Juízo de origem para assegurar a aplicação da lei penal e impedir a reiteração criminal, dado que o agravante não reside no distrito da culpa e possui outras condenações antecedentes.
+4. Nesse contexto, o Superior Tribunal de Justiça tem, reiteradamente, decidido, por ambas as Turmas que compõem a Terceira Seção, que "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+5. A existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar.
+6. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WELLINGTON DIAS contra a decisão de fls. 50-52 que denegou a ordem de habeas corpus.
+Nas razões deste recurso, a defesa revista a tese de que a quantidade de droga apreendida seria ínfima e que o paciente não apresenta indícios de habitualidade ou vínculo com organização criminosa, além de possuir residência fixa no distrito da culpa.
+Novamente, destaca que a prisão preventiva carece de fundamentação idônea, uma vez que se baseia na gravidade abstrata do delito e na alegada ausência de endereço fixo, o que não seria suficiente para justificar a medida extrema.
+Assevera que o histórico criminal do paciente não seria indicativo que voltará a delinquir caso seja posto em liberdade.
+Busca a reconsideração da decisão para que seja revogada a prisão preventiva da parte agravante ou a submissão do recurso ao colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus, mantendo a prisão preventiva do agravante.
+2. A decisão agravada considerou que as medidas cautelares diversas da prisão seriam insuficientes para assegurar a aplicação da lei penal e impedir a reiteração criminal.
+3. A prisão preventiva foi considerada necessária pelo Juízo de origem para assegurar a aplicação da lei penal e impedir a reiteração criminal, dado que o agravante não reside no distrito da culpa e possui outras condenações antecedentes.
+4. Nesse contexto, o Superior Tribunal de Justiça tem, reiteradamente, decidido, por ambas as Turmas que compõem a Terceira Seção, que "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+5. A existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar.
+6. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam qualquer equívoco na decisão recorrida.
+Como consta da decisão agravada, a prisão cautelar foi assim fundamentada (fls. 46-47, grifei):
+Ressalte-se que a gravidade referida não se verifica apenas pela natureza legal do delito praticado, mas sim pelas circunstâncias concretas do caso, tendo em vista a elevada potencialidade lesiva da droga apreendida (crack). Além disso, o investigado deixou de informar endereço fixo nesta cidade, afirmando que reside há poucos dias e que é natural do Estado de Minas Gerais, mas estava residindo em Presidente Prudente, observando-se que na Delegacia o investigado informou que reside em uma pensão (fl. 05). Assim, a prisão cautelar se revela necessária para assegurar a aplicação da lei penal e impedir a reiteração criminal, tendo em vista que o investigado não reside no distrito da culpa e possui histórico criminal (condenações anteriores - fls. 40/41) (art. 312 do CPP).
+Por fim, as medidas cautelares diversas da prisão (art. 319 do CPP) não parecem adequadas no caso dos autos, tendo em vista que não seriam suficientes para assegurar a aplicação da lei penal e impedir a reiteração criminal, mormente do crime de tráfico de drogas supostamente praticado pelo investigado (art. 282, § 6º do CPP).
+A leitura do decreto prisional e das demais peças revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos 14 porções de cocaína em uma motocicleta.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024 - grifei.)
+Ademais, segundo consignado pelo Juízo de primeiro grau, há o risco concreto de reiteração delitiva, uma vez que o investigado possui condenações anteriores.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça de que a periculosidade do acusado, evidenciada pela reiteração de condutas delitivas, constitui fundamento idôneo para a decretação da prisão cautelar, visando à garantia da ordem pública, como ocorre no caso em questão. Nesse sentido: AgRg no HC n. 837.919/TO, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; e AgRg no HC n. 856.044/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+Ademais, da análise da certidão de antecedentes, utilizada como fundamento pelo decreto prisional, constata-se que o agravante possui anteriores condenações nos processos n. 0022002-62.2010.8.26.0050 (art. 157, § 2 º, II, do Código Penal) e n. 0074873-30.2014.8.26.0050 (arts. 171, caput, duas vezes; e 70, caput, ambos do Código Penal, em concurso formal).
+Nesse contexto, esta Corte Superior de Justiça tem, reiteradamente, decidido, por ambas as Turmas que compõem a Terceira Seção, que "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
