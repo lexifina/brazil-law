@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROBSON TORRES contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 282 do STF.
+No agravo em recurso especial , a parte agravante refuta os fundamentos de inadmissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal do Estado de Goiás (Apelação Cível n. 5103701-56.2021.8.09.0024) assim ementado (fl. 536):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA JUDICIAL DE CONTRIBUIÇÕES CONDOMINIAIS. INCORPORADORA DESTITUÍDA. EMPREENDIMENTO ASSUMIDO PELOS CONDÔMINOS. CUSTOS DO TÉRMINO DA OBRA APROVADOS EM ASSEMBLEIA. COBRANÇA DEVIDA DAS DESPESAS COMUNS. HONORÁRIOS ADVOCATÍCIOS DEVIDOS. I - Destituída a incorporadora e assumido o empreendimento pelos condôminos, é devida a cobrança do condômino inadimplente das contribuições destinadas às taxas condominiais, custeio da aquisição e montagem dos elevadores e da obra, a fim de propiciar a finalização do condomínio, uma vez aprovadas por assembleia condominial. Não desabona tal cobrança o fato do condômino ter quitado o seu imóvel previamente, haja vista que as despesas concorrerão para a utilidade da sua unidade habitacional. II - Firmado contrato de prestação de serviços pelo condomínio com profissional especializado, em que há previsão expressa de que as despesas com honorários advocatícios serão suportados pelos inadimplentes, afigura-se legítima a inclusão do respectivo valor na planilha de débito. APELAÇÃO CONHECIDA, MAS DESPROVIDA.
+No recurso especial, a parte recorrente aponta violação do art. 1.342 do Código Civil.
+Alega a parte o não cumprimento do quórum necessário para a aprovação da taxa de obra em assembleia geral, violando, assim, o prazo estabelecido no art. 1.342 CC, desse modo, requerendo a nulidade da assembleia geral.
+É o relatório. Decido.
+No que se refere à contrariedade ao art. 1.342 do Código Civil, sob o argumento de que não houve o cumprimento do quórum necessário para a aprovação da taxa de obra em assembleia geral, verifica-se que o referido dispositivo legal não foi objeto de análise pelo Tribunal a quo sob o viés pretendido, de modo que não houve o indispensável prequestionamento.
+Caso, pois, de aplicação das Súmulas n. 282 e 356 do STF.
+De acordo com a orientação desta Corte, "para que se tenha por prequestionada determinada matéria, faz-se necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, o qual deverá emitir juízo de valor acerca dos dispositivos legais, ao decidir pela sua aplicação ou seu afastamento em relação a cada caso concreto" (AgInt nos EDcl no AREsp n. 1.801.606/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022).
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
+EMENTA
