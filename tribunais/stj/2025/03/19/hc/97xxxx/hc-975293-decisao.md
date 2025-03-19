@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido liminar, impetrado em favor de ADRIANO DE JESUS SANTOS, alegando constrangimento ilegal por parte do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE na revisão criminal n. 202400158005, com acórdão assim ementado:
+REVISÃO CRIMINAL . HOMICÍDIO NA FORMA TENTADA. VALORAÇÃO DAS PROVAS E DOSIMETRIA. NOVA ANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS QUE IMPLICARIA NA UTILIZAÇÃO DA REVISÃO CRIMINAL COMO SUCEDÂNEO RECURSAL. AÇÃO IMPROCEDENTE. DECISÃO UNÂNIME.
+Consta nos autos que no dia 30 de maio do decorrente ano do corrente ano, por volta de 01h e 30 min, encontravam-se os acionados na companhia de Katiane de Oliveira e de Maria José Santos, na residência desta, ingerindo bebida alcoólicas, quando numa determinada ocasião, o primeiro acionado e esta se deslocaram até o quarto da casa ( Adriano e Maria José). Então, afirmam que Adriano disparou acertando letalmente Maria José. A acusação afirma que Érivan contribui para afastar Katiane da sua amiga, com o fito de Adriano consegui estar a sós com ela e consumar o ato delituoso. Nesse sentido, a acusação afirma que eles incursionaram no art 121 § 2º, I, II e IV do Código Penal em combinação com o art. 29, 61, II, alínea "1" (fl. 2)
+Neste writ, pretende o impetrante a revisão da dosimetria da pena, especialmente na segunda fase, para aplicação da atenuante da confissão espontânea.
+Por fim, pede:
+a) Pelas razões expostas, requer seja julgado procedente o pedido contido neste habeas corpus, de forma a absolver o paciente, desconstituindo assim a condenação já transitada em julgado.
+b) A defesa entende que subsidiariamente ao primeiro pedido, caso não entenda pela absolvição que aprecie e conceda o redimensionamento da pena tendo como minorante três anos e três meses, haja vista que a sentença contraria o entendimento de um Tribunal Superior, que possui decisão favorável ao réu no caso em epígrafe.
+O Juízo de primeiro grau apresentou informações (fls. 718-720).
+O Tribunal local também apresentou informações às fls. 722-723.
+Ao final, o Ministério Público Federal se manifestou pelo não conhecimento do writ, pois as pretensões elencadas na inicial além de confusas, não guardam relação com os fatos analisados no acórdão impugnado, razão pela qual resta prejudicada a análise do habeas corpus, sendo forçoso o seu não conhecimento (fl. 736).
+É o relatório.
+DECIDO.
+Trata-se de habeas corpus contra julgamento de revisão criminal, pugnando a revisão da condenação e da dosimetria da pena, que pode influir diretamente na liberdade do paciente, razão pela qual passarei a analisar as razões do writ.
+De acordo com a inicial (fl. 2):
+Consta nos autos que no dia 30 de maio do decorrente ano do corrente ano, por volta de 01h e 30 min, encontravam-se os acionados na companhia de Katiane de Oliveira e de Maria José Santos, na residência desta, ingerindo bebida alcoolicas, quando numa determinada ocasião, o primeiro acionado e esta se deslocaram até o quarto da casa ( Adriano e Maria José). Então, afirmam que Adriano disparou acertando letalmente Maria José. A acusação afirma que Érivan contribui para afastar Katiane da sua amiga, com o fito de Adriano consegui estar a sós com ela e consumar o ato delituoso. Nesse sentido, a acusação afirma que eles incursionaram no art 121 § 2º, I, II e IV do Código Penal em combinação com o art. 29, 61, II, alínea "1".
+A petição inicial narra um crime praticado recentemente (no corrente ano), porém as peças processuais juntadas aos autos se referem a uma tentativa de homicídio praticada no ano de 2005, sem relação com a causa narrada na inicial.
+A denúncia juntada nas fls. 33-35 imputa ao paciente a seguinte conduta:
+Contam-nos os autos de Inquérito Policial, que o indiciado, no dia 21 de maio de 2005, por volta das 23:30 horas, em frente ao "Bar de Cadinhos", localizado no Bairro Mutirão, nesta Urbe, tentou ceifar a vida da vítima TIAGO FERREIRA DE ARAÚJO, contra quem efetuou vários disparos de arma de fogo, alvejando-o com quatro, conforme patentealiza o incluso Laudo de Exame Pericial de folhas 47/ 49 dos autos.
+Minutos antes de ocorrer o evento delitógeno, encontravam-se TIAGO FERREIRA DE ARAÚJO e GILTON MESSIAS CORREIA em frente ao "Bar de Cadinhos", próximo a um orelhão, conversando, quando surgiu, repentinamente, com duas armas de fogo tipo revólver em punho, usando uma máscara, com as quais passou a mirar a cabeça dos ofendidos, ordenando que os mesmos chamassem o proprietário do estabelecimento comercial, "CARLINHOS", para que abrisse as portas.
+Depois de muito apelo por parte das vítimas para que o dono abrisse as portas do bar, e, percebendo que êxito não iria obter, o indiciado começou a gritar que fria matar as pessoas que estavam sob sua mira.
+Depois de incutir grande pavor nas vítimas, GILTON MESSIAS, aproveitando um desleixo do agente, conseguiu correr e fugir da mira dos revólveres.
+Furioso com a evasão daquele ofendido, o sujeito ativo do crime em baila efetuou vários disparos em direção a TIAGO, acertando-o com quatro projéteis.
+Vale ressaltar que a vítima, ferida e desesperada, conseguiu empreender fuga, tendo ADRIANO saído em seu encalço, não conseguindo obter êxito no homicídio pretendido, graças à presença de outras pessoas que impediram a consumação do homicídio.
+Registre-se, também, que o acriminado estava sob o efeito do álcool, que disparou por duas vezes na porta do bar supramencionado e que já cometeu incontáveis homicídios nesta cidade, sendo, por este motivo, indivíduo de alta periculosidade.
+Ademais, conquanto o impetrante tenha formulado pedido de absolvição, não se vislumbra na petição inicial fundamentação que tenha relação com o pedido, especialmente porque na fundamentação o impetrante se limita a expor seu inconformismo com a pena aplicada ao paciente.
+Assim, diante da falta de relação da petição inicial com os demais documentos juntados nos autos, na mesma linha do parecer ministerial, não é possível conhecer do pedido, nem sequer apreciar a ordem de ofício.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
