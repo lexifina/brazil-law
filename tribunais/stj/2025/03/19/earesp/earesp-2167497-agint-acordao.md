@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. TEMA N. 181 DO STF.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, sob a justificativa de que a matéria discutida envolvia pressupostos de admissibilidade de recurso de competência do STJ.
+1.2. A parte agravante argumentou que o recurso extraordinário apontava violação a dispositivos da Constituição Federal, afirmando a inaplicabilidade do Tema n. 181 do STF ao caso concreto.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A aplicabilidade do Tema n. 181 do STF quando há necessidade de discussão ou superação de óbices de admissibilidade que resultaram no não conhecimento de recurso de competência do STJ.
+III. RAZÕES DE DECIDIR
+3.1. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.2. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.3. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+RELATÓRIO
+1. Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 1.749):
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE.
+DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que o recurso extraordinário não questionaria ou ensejaria a rediscussão dos requisitos de admissibilidade do recurso especial, razão pela qual o Tema n. 181/STF não seria aplicável ao caso.
+Afirma que o mérito da demanda teria sido enfrentado e que a repercussão geral da matéria tratada teria sido reconhecida no Tema n. 494/STF.
+Assevera que o Superior Tribunal de Justiça já teria decidido que, quando o recurso especial não é admitido com base na Súmula n. 83/STJ, haveria enfrentamento da matéria recursal.
+Argumenta que, ainda que o acórdão recorrido não seja de mérito, teria adentrado a controvérsia ao colacionar trechos de mérito do julgado proferido pela Corte Estadual.
+Reitera a ocorrência de violação do art. 5º, XXXVI, da Constituição Federal, pois a coisa julgada firmada na fase cognitiva da lide não teria sido respeitada.
+Aduz que o acórdão estadual teria modificado o título exequendo em sede de cumprimento provisório de sentença, atribuindo descabido efeito substitutivo e acarretando indevida reformatio in pejus.
+Pontua que esta Corte Superior de Justiça possuiria julgados no sentido da impossibilidade de alteração do critério de atualização de cálculo estabelecido na decisão transitada em julgado.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.786-1.796.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. TEMA N. 181 DO STF.
+I. CASO EM EXAME
+1.1. Agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário, sob a justificativa de que a matéria discutida envolvia pressupostos de admissibilidade de recurso de competência do STJ.
+1.2. A parte agravante argumentou que o recurso extraordinário apontava violação a dispositivos da Constituição Federal, afirmando a inaplicabilidade do Tema n. 181 do STF ao caso concreto.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A aplicabilidade do Tema n. 181 do STF quando há necessidade de discussão ou superação de óbices de admissibilidade que resultaram no não conhecimento de recurso de competência do STJ.
+III. RAZÕES DE DECIDIR
+3.1. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.2. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.3. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo interno a que se nega provimento.
+VOTO
+2. Como demonstrado na decisão agravada, não se conheceu de recurso anterior, de competência do Superior Tribunal de Justiça, porque não preenchidos todos os pressupostos de admissibilidade.
+Com efeito, não obstante os argumentos da parte recorrente, verifica-se que o recurso especial somente foi apreciado quanto à alegação de nulidade do julgamento ocorrido no Tribunal de origem, em virtude da participação de desembargador que se declarou suspeito, aplicando-se, no ponto, a Súmula n. 83/STJ (fls. 1.235-1.237).
+No tocante à tese de que teria havido modificação da sentença, o recurso especial não foi conhecido em razão da incidência das Súmulas n. 7/STJ e 211/STF, consoante se extrai das seguintes passagens (fls. 1.237-1.241):
+Ademais, o Tribunal estadual, ao julgar o agravo de instrumento, assim concluiu (e-STJ, fls. 828-830, sem grifo no original):
+Com relação ao mérito, urge salientar que o agravo de instrumento limita-se à análise do acerto ou desacerto do que restou decidido pelo juízo a quo, não podendo extrapolar o seu âmbito para matéria estranha ao ato judicial guerreado, sob pena de suprimir um grau de jurisdição. Pois bem, consta dos autos principais que a ação ordinária, com pedido de rescisão contratual e restituição de valores pagos, foi julgada parcialmente procedente, a fim de condenar o recorrido ao pagamento das parcelas reclamadas, acrescidas de correção monetária, juros de mora e compensatórios, cujo ato judicial foi alvo de vários recursos tanto neste Sodalício, como na Corte Superior. Apesar de não transitado em julgado, o sucumbente, ora agravante interpôs cumprimento provisório de sentença, o qual foi registrado sob o nº 5562604- 40.2018.8.09.0051, visando o recebimento dos valores líquidos, certos e exigíveis, atualizados monetariamente pelo índice INPC/IBGE até 31/outubro/2018, acrescidos de juros remuneratórios desde o desembolso e juros de mora a partir da citação. Após a tramitação legal, com apresentação de impugnação aos cálculos da execução provisória e réplica, foi proferido o despacho do evento nº 24, que determinou a realização de perícia contábil ante a divergência dos cálculos apresentados pelas partes litigantes.
+Inconformados com o decisum, ambas as partes opuseram embargos de declaração, os quais foram decididos no arquivo nº 47, acima transcrito e, novamente irresignados, apresentaram embargos de declaração, tendo sido rejeitados os aclaratórios do recorrente (evento 58) e, parcialmente acolhidos os do recorrido (arquivo 67), decisão aqui censurada e, igualmente transcrita acima. Com efeito, verifica-se que houve a inserção no cálculo apresentado pelo recorrente dos juros remuneratórios, capitalizados, a título de indenização suplementar, a qual foi rechaçada por este Sodalício, como se infere do julgamento do recurso apelatório. Veja-se:
+( ) Em relação à indenização suplementar contida no parágrafo único do art. 404, do Código Civil, saliente-se que tal verba é devida quando "provado que os juros de mora não cobrem o prejuízo, e não havendo pena convencional". Da leitura do dispositivo acima transcrito ressai evidente o fato de que o ônus quanto à demonstração de ocorrência desse prejuízo incumbe ao lesado, a quem compete provar que os juros moratórios mostram-se insuficientes para fazer frente aos danos experimentados.
+( ) Na espécie em comento, o requerente não se desincumbiu desse mister, limitando-se a afirmar que os encargos fixados na sentença "não serão suficientes para o resgate dos prejuízos do autor" sem acostar qualquer elemento apto a corroborar tal alegação. Portanto, impõe-se o indeferimento da súplica indenizatória.
+Igualmente, ocorreu com o julgamento dos recursos especiais pelo colendo Superior Tribunal de Justiça que, ao analisar as postulações de ambos os litigantes, adentrou ao tema relativo aos juros remuneratórios, entendendo ser despicienda maiores digressões sobre a questão, visto que já havia sido retirada a sua incidência da condenação imposta ao recorrido.
+( ) No julgamento das apelações, procedendo a uma minuciosa análise dos documentos comprobatórios dos desembolsos efetuados, a Corte local acrescentou ao comando da sentença o valor correspondente ao item "c" e dele retirou a condenação alusiva ao item "i". Afastou, ainda, o direito ao recebimento de indenização suplementar, por considerar que o autor não se desincumbiu do ônus de provar que os demais encargos fixados na sentença não seriam suficientes para cobrir os prejuízos.
+Nos subsequentes embargos de declaração, acolhidos com efeitos infringentes, foram mais uma vez analisados, um a um, os diversos desembolsos relacionados na inicial à luz da documentação apresentada, tendo o órgão julgador concluído, por maioria, que somente seriam devidas as seguintes quantias:
+"( ) US$ 126.800,72 (primeira (juitação analisada no corpo do voto, reduzida de R$ 20.000,00 em razão do cheque emitido por Amar Participações e Empreendimentos Ltda não ter relação direta com o negócio subjacente e inexistir prova de sub-rogação); US$ 304.272,11 (quarto pagamento descrito no corpo do voto); US$ 47.875,22 (quinto pagamento descrito no corpo do voto); US$ 45.000,00 (décimo primeiro pagamento descrito no voto); US$ 35.000,00 (décimo segundo pagamento descrito no corpo do voto)" (e-STJ fls. 1.241- 1.242). Verificou-se, finalmente, o provimento dos embargos infringentes para que fosse mantida a compreensão firmada no julgamento das apelações, de modo que eventual conclusão em sentido contrário à orientação adotada pelas instâncias ordinárias, seja no tocante aos pagamentos passíveis de restituição, seja quanto ao pleito de indenização suplementar e à natureza da obrigação pactuada entre as partes, dependeria, inexoravelmente, do reexame do contexto fático-probatório dos autos, o que não se admite em recurso especial, consoante o disposto na Súmula nº7/STJ.
+( ) A alegação de que está prescrita a pretensão ao recebimento de juros remuneratórios, além de não ter sido prequestionada, não tem o menor propósito, haja vista o afastamento da indenização suplementar concedida com fundamento no art. 404, parágrafo único, do Código Civil no julgamento das apelações.
+Desta forma, verifica-se que restou sedimentado o afastamento dos juros remuneratórios e sua capitalização, ante o indeferimento da súplica indenizatória suplementar, sendo vedada a modificação de tais julgados, por afrontar os dispositivos legais pertinentes ao tema, razão pela qual não há falar em sua incidência nos cálculos do cumprimento de sentença.
+Nesse contexto, apesar dos argumentos deduzidos pelo insurgente, reverter a conclusão do Tribunal local para acolher a pretensão recursal, no que se refere à ocorrência de modificação da sentença e, portanto, violação à questão que se encontra preclusa, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ademais, aponta o recorrente suposta violação ao art. 10 do CPC/2015.
+Todavia, da acurada análise do presente recurso, constata-se que do acórdão recorrido não se extrai manifestação da Corte estadual sobre referido artigo, mesmo após a interposição de embargos declaratórios, razão pela qual incide na espécie a Súmula 211 do STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+ ..
+Importante assinalar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte insurgente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+Da mesma forma, a apontada violação da coisa julgada não foi analisada nos embargos de divergência opostos pela parte ora agravante, que foram liminarmente indeferidos com base na Súmula n. 315/STJ.
+Por isso, qualquer alegação do recurso extraordinário demandaria, inicialmente, a reapreciação dos fundamentos do não conhecimento de recurso que não é da competência do Supremo Tribunal Federal.
+Contudo, a Corte Suprema definiu que a discussão veiculada em recurso extraordinário a envolver o conhecimento de recurso anterior não possui repercussão geral, fixando a seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Essa conclusão, adotada sob o regime da repercussão geral e de aplicação obrigatória, nos termos do disposto no art. 1.030, I, a, do Código de Processo Civil, impõe a negativa de seguimento ao recurso extraordinário.
+Assim, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao STF, como exemplifica o julgado a seguir:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA  .. . PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021.)
+Tal desfecho não se modifica quando as razões do extraordinário se relacionam à matéria de fundo do recurso do qual não se conheceu. Confira-se:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DO RECURSO NÃO ANALISADO NO TSE. RECURSO ESPECIAL ELEITORAL NÃO ADMITIDO POR AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL POR ALEGADA INOBSERVÂNCIA LEGAL. OFENSA REFLEXA. DESCABIMENTO DO EXTRAORDINÁRIO.
+1. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181 - RE 598.365).
+ ..
+3. Agravo regimental a que se nega provimento.
+(ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.)
+Também nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República, o recurso não comporta seguimento (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+A decisão agravada, portanto, não merece reforma.
+3. Ante o exposto, nego provimento ao agravo interno.
+Advirto que a oposição de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
