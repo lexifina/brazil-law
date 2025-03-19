@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado por INSTITUTO ESTADUAL DE FLORESTAS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE PRESTAÇÃO DE CONTAS - EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO POR AUSÊNCIA DE INTERESSE PROCESSUAL - VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA - REJEIÇÃO - DESCABIDA A CASSAÇÃO DA SENTENÇA POR VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA, QUANDO OPORTUNIZADA À PARTE A MANIFESTAÇÃO ACERCA DOS FATOS QUE FUNDAMENTARAM A SENTENÇA. - PRELIMINAR REJEITADA. V. V. P. - AINDA QUE SE TRATE DE MATÉRIA DE ORDEM PÚBLICA, COGNOSCÍVEL DE OFÍCIO, INDISPENSÁVEL QUE AS PARTES TENHAM OPORTUNIDADE DE SE MANIFESTAR A RESPEITO DE FUNDAMENTOS SOBRE OS QUAIS A DECISÃO JUDICIAL SERÁ EMBASADA, PENA DE VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA E DA COOPERAÇÃO PROCESSUAL. - VEDAÇÃO IMPOSTA PELO REGRAMENTO PROCESSUAL CIVIL DAS DENOMINADAS DECISÕES-SURPRESA. - DESCABE PROSSEGUIR NO JULGAMENTO, PELO PRINCÍPIO DA CAUSA MADURA, PORQUANTO HAVERIA SUPRESSÃO DE INSTÂNCIA E TORNARIA INÓCUA A NORMA QUE VEDA A DECISÃO-SURPRESA, ALÉM DE INCORRER, ESTA INSTÂNCIA REVISORA, NA MESMA VIOLAÇÃO AO ART. 10 DO CPC, POIS NÃO FORA O ESTADO INTIMADO PARA MANIFESTAR ACERCA DA PETIÇÃO E JUNTADA DO ACÓRDÃO PROFERIDO PELO TRIBUNAL DE CONTAS. - PRELIMINAR ACOLHIDA. MÉRITO - TOMADA DE CONTAS ESPECIAL - TRIBUNAL DE CONTAS ESTADUAL - JULGAMENTO - REGULARIDADE DAS CONTAS - IMPROCEDÊNCIA DO PEDIDO INICIAL - RECURSO NÃO PROVIDO. - DECIDINDO O TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS PELA REGULARIDADE DAS CONTAS, IMPERATIVA A IMPROCEDÊNCIA DO PEDIDO INICIAL. - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 9º e 10 do CPC, no que concerne à configuração de decisão surpresa em face da extinção de ação de prestação de contas sem análise de mérito, com fundamento em perda de objeto, uma vez que o TCE teria apreciado processo supostamente idêntico; contudo, o recorrente não teve oportunidade de manifestação na ação de tomada de contas extrajudicial, o que prejudicou o direito ao contraditório. Argumenta:
+Trata-se de demanda proposta pelo Instituto Estadual de Florestas objetivando a condenação dos Recorridos à prestação de contas relativa ao convênio nº 2101010401509, celebrado em 17/08/2008.
+ ..
+O d. Juízo a quo julgou extinto o feito, sem resolução do mérito, sob o argumento de que "tramitou processo de mérito idêntico ao ora em pauta no Tribunal de Contas de Minas Gerais, sob o número 954965, conforme atesta o Acórdão juntado no ID 9559716687". Segundo a sentença, o feito extrajudicial já foi sentenciado e transitou em julgado, conferindo a ausência do objeto material da presente ação judicial.
+ ..
+Interposta apelação pelo IEF, o TJMG manteve a sentença, por maioria.
+Acontece que o acórdão nega vigência e afronta lei federal (art.9º e 10º do Código de Processo Civil), já que se baseou em decisão do Tribunal de Contas que não foi submetida ao contraditório, não dando oportunidade ao Recorrente de manifestar e influenciar a decisão.
+ ..
+O cerne da questão é verificar a ocorrência de decisão surpresa, não submetida ao contraditório substancial, já que uma das partes não foi previamente ouvida sobre o julgamento do Tribunal de Contas Estadual.
+ ..
+No caso em tela, o IEF ajuizou demanda para que a Associação pelo Meio Ambiente de Juiz de Fora - AMAJF e seus responsáveis fossem compelidos a realizar a prestação de contas após recebimento de verba pública, ante a inércia dos demandados.
+Durante o curso processual, sobreveio decisão do Tribunal de Contas Estadual que, segundo a sentença, se tratava de processo idêntico ao tratado nos autos judiciais. Assim, extinguiu o feito por perda do objeto.
+Acontece que a parte contrária juntou a decisão do TCE e não foi aberta vista ao IEF, momento que poderia ser demonstrado:
+ ..
+Contudo, foi aberta divergência pela Desa. Áurea Brasil para afastar a violação aos art. 9º e 10º do CPC/15.
+Segundo o voto vencedor, a parte contrária suscitou preliminar de falta de interesse processual em contestação, ao argumento de que a ação extrajudicial de tomada de contas foi ajuizada em 09.06.2015, cerca de um mês antes do ajuizamento da ação judicial, sendo prestadas as contas no aludido procedimento, aguardando-se a apreciação pelo TCE, não havendo interesse na propositura de ação judicial para a busca de idêntico objetivo.
+ ..
+Quando da apresentação da contestação, só havia ação extrajudicial de tomada de contas, sem qualquer decisão de mérito. Tanto é assim que a contestação foi apresentada em 26.11.2019 o acórdão do TCE é datado em 20.10.2020.
+Dessa forma, a abertura de vista para o Recorrente manifestar sobre a contestação não supre o vício da decisão surpresa, tendo em vista que o fundamento da sentença é o acórdão do TCE, proferido após a defesa da Associação (fls. 477-483).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Observa-se que os fatos que ensejaram a extinção do feito já haviam sido arguidos em contestação, sendo oportunizado ao IEF manifestar-se sobre a preliminar e documentos juntados ao feito, transcorrido in albis o prazo assinalado para tanto.
+Nesse contexto, oportunizada ao IEF a manifestação acerca dos fatos que fundamentaram a sentença, não vislumbro violação aos princípios da não surpresa e do contraditório, a ensejar a cassação do decisum, sendo plenamente possível a análise de mérito do recurso pelo colegiado (fls. 459-460).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
