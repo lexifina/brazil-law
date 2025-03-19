@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face de decisão monocrática, sustentando omissão da decisão embargada por não ter fixado honorários recursais, na forma do §11 do art. 85 do CPC.
+Requer, ao final, acolhimento dos embargos para sanar a omissão apontada com a fixação da verba mencionada.
+Devidamente intimada, a parte embargada não ofereceu impugnação.
+É o relatório. Decido.
+Com efeito, a decisão embargada não se manifestou sobre os honorários de sucumbência recursal, razão pela qual conheço dos embargos para sanar o vício apontado.
+Nos termos do art. 85, § 11, do CPC/2015, a majoração dos honorários está vinculada ao trabalho desenvolvido em cada grau recursal, e não em cada recurso, interposto no mesmo grau; "os honorários recursais previstos no § 11 do art. 85 do CPC/2015 somente têm aplicação quando houver a instauração de novo grau recursal, e não a cada recurso interposto no mesmo grau de jurisdição (Enunciado n. 16 da ENFAM: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição")": Corte Especial, no AgInt nos EAREsp 802.877/RS, Rel. Min. João Otávio de Noronha, DJe de 9/5/2017.
+Consoante decidido no EARESP n. 762.075/MT, "com a interposição de embargos de divergência em recurso especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento" (AgInt nos EAREsp n. 762.075/MT, relator Ministro Felix Fischer, relator p/ acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe 7/3/2019).
+O recurso objeto de julgamento foi interposto na vigência do novo Código de Processo Civil, de modo que, nos termos do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do CPC/15.
+No grau recursal anterior (fls. 768-769) os honorários advocatícios foram majorados "em 10% sobre o valor já arbitrado nas instâncias de origem". A decisão objeto dos presentes declaratórios indeferiu liminarmente os embargos de divergência.
+Ante o exposto, considerando o trabalho adicional realizado e os critérios previstos nos parágrafos 2º à 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em mais 10% sobre o valor já arbitrado no grau recursal anterior, observados os termos do art. 98, §3º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
