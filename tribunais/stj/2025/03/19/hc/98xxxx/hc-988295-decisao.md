@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de DANILO ARTUR DA SILVA - condenado por roubo majorado a 8 anos, 10 meses e 20 dias de reclusão e a 21 dias-multa -, atacando-se o acórdão proferido pelo Tribunal de Justiça de Pernambuco (fls. 12/24), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta - na condenação proferida na Ação Penal n. 0000151-76.2023.8.17.5250 (fls. 49/55, da Vara Única da Comarca de Toritama/PE), alterada em grau de apelação -, ao argumento de ilegalidade na incidência cumulativa de causas de aumento sem fundamentação concreta que justifique a aplicação cumulada das majorantes (fls. 6/7).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta contribui para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN 17/12/2024; e AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a Corte estadual, no acórdão hostilizado, apresentou fundamentação específica para aplicação cumulativa das causas de aumento de pena do concurso de pessoas (art. 157, § 2º, II, do CP) e emprego de arma (art. 157, § 2º-A, I, do CP): o fato de a vítima ser menor de idade e de terem sido utilizadas duas armas de fogo (quando apenas uma já seria suficiente para o aumento da pena) são circunstâncias concretas que demandam maior reprovação penal, justificando, assim, o duplo aumento da pena (fl. 19).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS . ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
