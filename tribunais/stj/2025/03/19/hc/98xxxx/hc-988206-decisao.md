@@ -1,0 +1,28 @@
+DECISÃO
+O presente writ, impetrado em benefício de DENYS REUBER DE NEGREIROS PINHEIRO e WELSON SABOIA DE BARROS - condenados como incursos nos crimes de roubos majorados (duas vezes) e associação criminosa -, em que se aponta como autoridade coatora o Tribunal de Justiça do Ceará (Apelação Criminal n. 0027178-10.2022.8.06.0001), comporta acolhimento.
+Busca a impetração a revisão da condenação imposta pelo Juízo de Direito da Vara de Delitos e Organizações Criminosas, ao argumento ilegalidade na fixação da pena-base, tendo em vista que a vetorial referente às circunstâncias judiciais foi negativada com fundamentos em elementos inerentes ao tipo penal, configurado, assim, bis in idem.
+Ocorre que é inviável a utilização da via eleita para revisar a condenação imposta e mantida pelas instâncias ordinária. No entanto, de fato, verifico a ocorrência de constrangimento ilegal na valoração negativa das circunstâncias dos crimes, justificada em assertivas genéricas. Confira-se (fl. 74): além dos danos patrimoniais causados a terceiros, a atuação especializada da associação criminosa no roubo de lojas de eletrônicos acarreta prejuízos difusos para toda a coletividade, transtornando o empreendedorismo local e gerando custos adicionais para o comércio que terminam por serem absorvidos pelo cidadão comum e consumidor final.
+Nesse contexto, passo ao redimensionamento das penas impostas:
+a) Welson Saboia de Barros:
+a.1) Crime de associação criminosa armada:
+Afastada a única vetorial negativada, a pena-base deve ser fixada no mínimo legal, ou seja, 1 ano de reclusão e pagamento de 10 dias-multa. Na segunda fase, apesar de incidir a atenuante da menoridade, a pena permanece inalterada, a teor do enunciado da Súmula 231/STJ. Na terceira fase, incide a causa de aumento de pena prevista no parágrafo único do art. 288 do Código Penal na fração de 1/6, tornando-se definitiva em 1 anos e 2 meses de reclusão, e pagamento de 11 dias-multa.
+a.2) Crime de roubo majorado (Fato 1):
+Afastada a única vetorial negativada, a pena-base deve ser fixada no mínimo legal, ou seja, 4 anos de reclusão e pagamento de 10 dias-multa. Na segunda fase, apesar de incidir as atenuantes da menoridade e da confissão espontânea, a pena permanece inalterada, a teor do enunciado da Súmula 231/STJ. Na terceira fase, incide a causa de aumento de pena prevista no inciso II do § 2º do art. 157 do Código Penal na fração de 1/3, tornando-se definitiva em 5 anos e 4 meses de reclusão, e pagamento de 13 dias-multa.
+a.3) Crime de roubo majorado (Fato 2):
+Afastada a única vetorial negativada, a pena-base deve ser fixada no mínimo legal, ou seja, 4 anos de reclusão e pagamento de 10 dias-multa. Na segunda fase, apesar de incidir as atenuantes da menoridade e da confissão espontânea, a pena permanece inalterada, a teor do enunciado da Súmula 231/STJ. Na terceira fase, incide a causa de aumento de pena prevista § 2º-A do art. 157 do Código Penal na fração de 2/3, tornando-se definitiva em 6 anos e 8 meses de reclusão, e pagamento de 16 dias-multa.
+Reconhecido o concurso material entre os delitos perpetrados, somam-se as penas, totalizando 13 anos e 2 meses de reclusão, e pagamento de 40 dias-multa.
+b) Denys Reuber de Negreiros Pinheiro
+b.1) Crime de associação criminosa armada:
+Afastada a única vetorial negativada, a pena-base deve ser fixada no mínimo legal, ou seja, 1 ano de reclusão e pagamento de 10 dias-multa. Na segunda fase, ausentes agravantes ou atenuantes. Na terceira fase, incide a causa de aumento de pena prevista no parágrafo único do art. 288 do Código Penal na fração de 1/6, tornando-se definitiva em 1 anos e 2 meses de reclusão, e pagamento de 11 dias-multa.
+b.2) Crime de roubo majorado (vítima Tico Sat)
+Afastada a única vetorial negativada, a pena-base deve ser fixada no mínimo legal, ou seja, 4 anos de reclusão e pagamento de 10 dias-multa. Na segunda fase, apesar de incidir a atenuante da confissão espontânea, a pena permanece inalterada, a teor do enunciado da Súmula 231/STJ. Na terceira fase, incide a causa de aumento de pena prevista no § 2º-A do art. 157 do Código Penal na fração de 2/3, tornando-se definitiva em 6 anos e 8 meses de reclusão, e pagamento de 16 dias-multa.
+b.3) Crime de roubo majorado (vítima Antônio Saldanha):
+Afastada a única vetorial negativada, a pena-base deve ser fixada no mínimo legal, ou seja, 4 anos de reclusão e pagamento de 10 dias-multa. Na segunda fase, ausentes agravantes ou atenuantes. Na terceira fase, incide a causa de aumento de pena prevista § 2º-A do art. 157 do Código Penal na fração de 2/3, tornando-se definitiva em 6 anos e 8 meses de reclusão, e pagamento de 16 dias-multa.
+Reconhecido o concurso material entre os delitos perpetrados, somam-se as penas, totalizando 14 anos e 6 meses de reclusão, e pagamento de 43 dias-multa.
+Em face do exposto, concedo liminarmente a ordem impetrada para afastar a valoração negativa das circunstâncias do crime, resultando a pena definitiva de Welson Saboia de Barros, em 13 anos e 2 meses de reclusão, e pagamento de 40 dias-multa; e a de Denys Reuber de Negreiros Pinheiro, em 14 anos e 6 meses de reclusão, e pagamento de 43 dias-multa.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA E ROUBOS MAJORADOS (DUAS VEZES), EM CONCURSO MATERIAL. PRETENSÃO DE REVISAR CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. CONSTRANGIMENTO ILEGAL MANIFESTO. EXISTÊNCIA. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO GENÉRICA. REDIMENSIONAMENTO DA PENA QUE SE IMPÕE.
+Ordem concedida liminarmente.
