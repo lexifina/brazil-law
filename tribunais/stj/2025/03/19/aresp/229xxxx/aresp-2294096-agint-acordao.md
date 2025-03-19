@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por BERNARDO FERREIRA MOREIRA contra  a  decisão  que  conheceu do agravo para negar provimento ao recurso especial, em razão da inexistência de violação ao art. 1.022  do  CPC.
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  há no caso em análise nítida contradição, eis que, como poderia um sócio se retirar de uma sociedade em 1998, sendo que a referida empresa havia sido extinta em 1982  Ou, como poderia ter sido realizado um ato de alteração contratual (18ª alteração da Viação Santa Sofia - evento 150 anexo 2) em 1998, que havia sido extinta em 1982  Premissas inconciliáveis (fl. 326).
+Defende, ainda, que:
+ ..  o acordão de fls. 86/87 e-stj, quedou-se ainda em omissão ao deixar de considerar fato extremamente relevante para o deslinde do feito e que foi exaustivamente destacado pelo Agravante em seu recurso de agravo e posteriormente nos aclaratórios, a saber: a informação de incorporação ocorrida em 1982 foi afetada pela cisão realizada em 1983, conforme se extrai da documentação anexada ao evento 186 do processo originário. (fl. 327)
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação ao art. 1.022 do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+Na oportunidade, assim manifestou-se o tribunal de origem:
+Como explicitado na decisão recorrida, o ora embargante, antes de se retirar da sociedade executada (maio de 1998), ingressou no quadro societário da empresa Viação Campo Grande S. A., a qual incorporou o ativo e passivo da devedora originária extinta em 1982 (Evento 156, anexo 2). Também no Relatório da JUCERJA (Evento 156, anexo 4), como bem delineado pelo Juízo de origem, é possível constatar que o embargante passou a exercer a função de diretor da empresa incorporadora (VIAÇÃO CAMPO GRANDE) ao tempo dos fatos geradores das obrigações tributárias em cobrança (12/2001 a 13/2005). Pelo princípio da causalidade, há que se perquirir quem deu causa à ação para que seja a este imputada a responsabilidade pelo pagamento dos ônus da sucumbência. A ideia fundamental por trás do princípio é de que o processo não deve redundar em prejuízo da parte que tenha razão. Nesse sentido, dessume-se da análise dos autos originários que não foi objeto de comunicação à Secretaria da Receita Federal do Brasil a extinção da empresa originariamente executada, em razão da sua incorporação pela empresa Viação Campo Grande S/A, da qual figurava na condição de sócio diretor à época dos fatos geradores em cobrança o ora agravante.
+Sendo assim, como trata-se de obrigação dos gestores das empresas manter atualizados os respectivos cadastros nos órgãos competentes e o agravante silenciou acerca da extinção da empresa e de sua incorporação pela empresa Viação Campo Grande S/A, da qual faz parte, na condição de sócio diretor, como dito, no período dos fatos geradores do débito, a ele deve ser atribuída a causalidade ( fl. 125, grifo nosso).
+Conforme jurisprudência:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Isso posto, nego provimento ao recurso.
