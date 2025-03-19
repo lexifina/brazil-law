@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO VINCULADA. VÍCIOS ELENCADOS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+2. No caso concreto, não se constatam os vícios alegados pelo embargante, uma vez que a decisão embargada apreciou de forma clara e fundamentada todas as questões suscitadas.
+3. O recurso especial interposto foi corretamente considerado intempestivo, pois foi apresentado fora do prazo legal de 15 (quinze) dias corridos, conforme dispõem os artigos 994, VI, 1.003, § 5º, e 1.029 do Código de Processo Civil, bem como o artigo 798 do Código de Processo Penal. Ademais, o acórdão embargado consignou, devidamente, a impossibilidade de reabertura do prazo recursal para novo defensor quando já ultrapassado o prazo originalmente concedido ao advogado constituído.
+4. O embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JONATHAN DA SILVA contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno interposto contra decisão monocrática que não conheceu do recurso especial por intempestividade, assim ementado (e-STJ fls. 715/716):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 15 DIAS CORRIDOS. INTEMPESTIVIDADE DO RECURSO ESPECIAL. ADVOGADO CONSTITUÍDO NOS AUTOS DEVIDAMENTE INTIMADO. IMPOSSIBILIDADE DE DEVOLUÇÃO DO PRAZO RECURSAL A OUTRO DEFENSOR QUANDO JÁ ULTRAPASSADO O PRAZO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O recurso especial é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c.c. os arts. 1.003, § 5.º, e 1.029, todos do CPC, bem como do art. 798 do CPP.
+2. Havendo regular intimação do Advogado que então promovia a defesa do acusado, é descabida a pretensão, formulada pelo novo Defensor, no sentido de que lhe seja devolvido o prazo recursal, uma vez que este recebe o processo no estado em que se encontra.
+3. No presente caso, constata-se, ainda, que foi realizado substabelecimento ao novo advogado, quando já esgotado o prazo recursal, razão pela qual não há se falar em restituição do prazo recursal.
+4. Agravo regimental não provido.
+Nas razões recursais do agravo interno, o embargante sustentou que o acesso aos autos pelo advogado substabelecido somente foi disponibilizado em 14/05/2024, mesma data em que foi interposto o recurso especial. Alegou que a indisponibilidade dos autos para o advogado não cadastrado impediu a interposição tempestiva do recurso, argumento que também foi reiterado nos presentes embargos.
+A decisão agravada considerou que o recurso especial foi interposto fora do prazo de 15 (quinze) dias corridos, conforme os artigos 994, VI, 1.003, § 5º, e 1.029 do Código de Processo Civil, bem como o artigo 798 do Código de Processo Penal. Ressaltou, ainda, que a substituição de advogados não interrompe a fluência dos prazos recursais, e que o substabelecimento ocorreu após o encerramento do prazo para interposição do recurso especial.
+Nos embargos de declaração ora analisados, o embargante alega a existência de omissão no acórdão embargado, reiterando a tese de que o prazo recursal deveria ter sido contado a partir da data da liberação do acesso ao advogado substabelecido. Sustenta que, em razão do caráter penal da demanda, deve-se priorizar a ampla defesa, com o reconhecimento da tempestividade do recurso especial.
+Requer, assim, o acolhimento dos embargos de declaração, com efeitos infringentes, para reconhecer a tempestividade do recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO VINCULADA. VÍCIOS ELENCADOS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+2. No caso concreto, não se constatam os vícios alegados pelo embargante, uma vez que a decisão embargada apreciou de forma clara e fundamentada todas as questões suscitadas.
+3. O recurso especial interposto foi corretamente considerado intempestivo, pois foi apresentado fora do prazo legal de 15 (quinze) dias corridos, conforme dispõem os artigos 994, VI, 1.003, § 5º, e 1.029 do Código de Processo Civil, bem como o artigo 798 do Código de Processo Penal. Ademais, o acórdão embargado consignou, devidamente, a impossibilidade de reabertura do prazo recursal para novo defensor quando já ultrapassado o prazo originalmente concedido ao advogado constituído.
+4. O embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+Conforme delineado no acórdão embargado, o recurso especial interposto pelo ora embargante foi corretamente considerado intempestivo, uma vez que foi apresentado fora do prazo legal de 15 (quinze) dias corridos, nos termos dos artigos 994, VI, 1.003, § 5º, e 1.029 do Código de Processo Civil, bem como do artigo 798 do Código de Processo Penal.
+O embargante sustenta a existência de omissão no julgado, sob o argumento de que o prazo recursal deveria ser computado a partir da data em que o acesso aos autos foi disponibilizado ao advogado substabelecido. Contudo, tal tese foi devidamente analisada e afastada no acórdão embargado, que consignou expressamente a impossibilidade de reabertura de prazo recursal para novo defensor quando já ultrapassado o prazo anteriormente concedido ao advogado regularmente constituído.
+Verifica-se, portanto, que o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargo s.
+Intimem-se.
