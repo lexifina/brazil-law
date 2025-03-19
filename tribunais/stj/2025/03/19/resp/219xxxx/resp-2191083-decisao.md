@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por DORIVAL ANTONIO ROSSETO e Outros contra acórdão prolatado, por unanimidade, pela 13ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de Agravo de Instrumento, assim ementado (fl. 39e):
+AGRAVO DE INSTRUMENTO interposto em face de decisão que, em incidente de cumprimento de sentença, ausente impugnação, não fixou honorários advocatícios. Cumprimento da sentença pela Fazenda Pública não se efetiva automaticamente, dando-se o pagamento de acordo com o trâmite a ser observado para expedição de precatório ou requisição de pequeno valor - Instauração do incidente de cumprimento de sentença, por si só, não autoriza a fixação de honorários advocatícios. Decisão de 1º grau mantida. AGRAVO DESPROVIDO.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Art. 85, §§ 1º e 7º, do Código de Processo Civil - " ..  ausência de condenação da Fazenda Estadual no pagamento da verba honorária na execução onde se apurou créditos considerados de pequeno valor, viola o artigo 85, § 1º e § 7º do atual Código de Processo Civil, o que acabou contrariando jurisprudência do E. Superior Tribunal de Justiça." (fl. 50e)
+Acrescentam os Recorrentes que " ..  pela exegese do artigo 85, § 1º e § 7º do Código de Processo Civil, são devidos honorários no Cumprimento de Sentença contra a Fazenda Pública, independentemente se Impugnada à Execução, em relação aos créditos de pequeno valor, em homenagem ao Princípio da Causalidade. " (fl. 57e)
+Com contrarrazões (fls. 846/853e) os autos retornaram para eventual juízo de retratação, considerando o Tema nº 1.190 do STJ.
+O juízo de retratação foi negativo (fl. 863e):
+REVISÃO DE JULGADO. Acórdão que negou provimento ao recurso de agravo de instrumento, mantendo a decisão de 1º grau que, diante da ausência de impugnação em cumprimento de sentença, não fixou honorários advocatícios. Acórdão em conformidade com a tese fixada pelo STJ, sob o Tema nº 1.190. ACÓRDÃO MANTIDO.
+O recurso especial foi admitido (fls. 878/879e).
+Feito breve relato, decido.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Em relação à suscitada violação ao art. 85, §§ 1º e 7º, do CPC, o acórdão entendeu serem incabíveis honorários advocatícios (fls. 40/42e):
+Assim, independentemente do valor do crédito, se sujeito a precatório no sentido estrito do termo ou de requisição de pequeno valor, não há que se falar em pagamento espontâneo por parte da Fazenda Pública.
+Ainda que sujeito ao regime específico da requisição de pequeno valor, a instauração do incidente de cumprimento de sentença é de rigor que, mesmo não impugnado, requer a expedição da ordem de pagamento pelo juízo, dirigida à autoridade responsável, nos termos do art. 535, § 3º, inciso II, do CPC.
+Nessas circunstâncias, a instauração do incidente de cumprimento de sentença, por si só, não autoriza a fixação de honorários advocatícios, independentemente do valor do crédito exequendo, cuja apuração, aliás, exige liquidação.
+ ..
+Assim, ausente impugnação, com expressa concordância do Estado de São Paulo quanto ao valor exequendo, não há que se falar em arbitramento de verba honorária em favor dos exequentes. (Destaques meus)
+Sobre o tema, cumpre mencionar a tese fixada no julgamento do Recurso Especial, representativo da controvérsia, nº 2.029.636/SP -Tema nº 1190, publicado em DJe de 1/7/2024:
+Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV.
+Na ocasião, houve modulação de efeitos no seguinte sentido:
+20. Os pressupostos para a modulação estão presentes, uma vez que a jurisprudência desta Corte havia se firmado no sentido de que, nas hipóteses em que o pagamento da obrigação é feito mediante Requisição de Pequeno Valor, seria cabível a fixação de honorários advocatícios nos cumprimentos de sentença contra o Estado, ainda que não impugnados.
+21. Por isso, a tese repetitiva deve ser aplicada apenas nos cumprimentos de sentença iniciados após a publicação deste acórdão. (Destaques meus)
+Assim sendo, verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual a tese repetitiva (Tema 1.190/STJ) deve ser "aplicada apenas nos cumprimentos de sentença iniciados após a publicação do acórdão", ou seja, para os os cumprimentos de sentença já iniciados, como o caso em análise, são cabíveis os honorários advocatícios sucumbenciais.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos ao tribunal de origem para que sejam fixados os honorários sucumbenciais.
+Publique-se e intimem-se.
+EMENTA
