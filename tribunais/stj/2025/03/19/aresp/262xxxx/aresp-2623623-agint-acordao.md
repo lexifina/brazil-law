@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS. LEVANTAMENTO. IMPOSSIBILIDADE. BASE DE CÁLCULO. INDEFINIÇÃO. SÚMULA 5/STJ. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. A insurgência é acolhida quanto ao interesse recursal da parte. O recurso visa obter o levantamento dos honorários de sucumbência tidos como devidos a um dos patronos, que foi impedido pela Justiça Federal na pendência de ação própria na Justiça Estadual.
+2. Ao contrário do defendido pela parte, não se trata de execução perante o juízo federal de sentença da justiça estadual. O magistrado federal impediu o levantamento da verba por inexistir definição quanto à base de cálculo da parcela devida, nos termos do contrato firmado entre os advogados.
+3. O acolhimento da pretensão da parte depende da admissão de sua assertiva quanto a ter direito aos 5% (cinco por cento) do total da sucumbência, matéria controvertida cuja compreensão aqui defendida foi afastada pela origem à luz da interpretação do ajuste entre os diversos patronos. O recurso especial é inviabilizado pela Súmula 5/STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Em  análise,  agravo  interno  interposto  por  DIOMAR BEZERRA LIMA  contra  decisão  que  conheceu do agravo para não conhecer do recurso especial por ausência de interesse recursal.
+Argumenta  a  parte agravante,  em  síntese,  que a pretensão quanto à incompetência do magistrado federal para impedir o levantamento dos valores de honorários de sucumbência resultaria na autorização para a medida, pelo que permaneceria seu interesse.
+Reitera os argumentos recursais, no sentido de que a existência de disputa pelas parcelas dos honorários sucumbenciais entre os advogados, na Justiça Estadual, não permite à Justiça Federal sustar o levantamento da verba devida aos patronos da ação principal.
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS. LEVANTAMENTO. IMPOSSIBILIDADE. BASE DE CÁLCULO. INDEFINIÇÃO. SÚMULA 5/STJ. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. A insurgência é acolhida quanto ao interesse recursal da parte. O recurso visa obter o levantamento dos honorários de sucumbência tidos como devidos a um dos patronos, que foi impedido pela Justiça Federal na pendência de ação própria na Justiça Estadual.
+2. Ao contrário do defendido pela parte, não se trata de execução perante o juízo federal de sentença da justiça estadual. O magistrado federal impediu o levantamento da verba por inexistir definição quanto à base de cálculo da parcela devida, nos termos do contrato firmado entre os advogados.
+3. O acolhimento da pretensão da parte depende da admissão de sua assertiva quanto a ter direito aos 5% (cinco por cento) do total da sucumbência, matéria controvertida cuja compreensão aqui defendida foi afastada pela origem à luz da interpretação do ajuste entre os diversos patronos. O recurso especial é inviabilizado pela Súmula 5/STJ.
+4. Agravo interno desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  O caso versa sobre a possibilidade de levantamento dos honorários de sucumbência devidos aos advogados em ação expropriatória federal, na pendência de disputa no juízo estadual acerca da divisão da verba entre eles. O Tribunal Regional Federal da 1ª Região impediu o levantamento até a definição da proporção devida a cada um na ação em trâmite na Justiça Estadual.
+A parte tem razão acerca da permanência do interesse, de modo que a insurgência é acolhida no ponto.
+Ocorre que o acórdão recorrido impediu o levantamento da verba sucumbencial ante a ausência de base de cálculo concreta sobre o percentual devido ao aqui agravante.
+Conforme a origem, interpretando os contratos, o valor devido ao recorrente é, inequivocamente, 5% (cinco por cento) daquele devido ao advogado Ivaldo. O que não se sabe é qual a base de cálculo desse percentual, porquanto não há ainda definição de qual a parcela devida a esse patrono. Transcrevo o acórdão (fls. 158-161, grifo nosso):
+Defende o agravante que, contratualmente, o advogado Diomar Bezerra Lima teria direito a 5% (cinco por cento) do total dos honorários de sucumbência incluído no Precatório nº 0180358-16.2018.4.01.9198/MA. Como tais verbas têm natureza alimentar, elas têm privilégio geral em concurso de credores, equiparando-se ao crédito trabalhista. O agravante tem 74 anos, é portador de doença grave (hepatopatia crônica), logo, "tem preferência sobre os demais até o valor equivalente ao triplo fixado em lei para os pagamentos das obrigações definidas pela União como de pequeno valor, conforme o § 2º do art. 100 da Constituição Federal, com a redação dada pela EC nº 94, de 2016" (fl. 11).
+O agravante, considerando que o advogado Victório de Oliveira Ricci pede, nos autos originários, o pagamento de 50% (cinquenta por cento) dos honorários de sucumbência, requereu lhe fosse concedida a antecipação da tutela recursal (art. 1.019, I, do NCPC) "para o fim de ser determinado ao MM. Juiz Federal da 8ª Vara da Seção Judiciária do Estado do Maranhão que, a título de tutela antecipada, determine a imediata liberação dos 5% (cinco por cento) sobre os 50% (cinquenta por cento) do "valor total" dos honorários de sucumbência representados pelo Precatório nº 0180358-16.2018.4.01.9198/MA, expedido em nome de Ivaldo de Oliveira Ricci, "a cujo pagamento fora condenado o Órgão Estatal expropriante"" (fl. 12).
+Pediu, ao final, que seja determinado o levantamento dos 5% (cinco por cento) da verba honorária sucumbencial do recorrente, calculada sobre o "valor total" do Precatório nº 0180358-16.2018.4.01.9198/MA, independente do arbitramento do quantum a que têm direito o advogado Victório de Oliveira Ricci.
+ ..
+A decisão agravada, sobre o ponto atacado no presente recurso, estabeleceu:
+ ..
+No que se refere ao pedido (fls. 2.276/2.281), por tratar-se de matéria relativa ao pagamento dos honorários de sucumbência, não poderá ser deferido, nessa fase processual, uma vez que os advogados credores dessa verba ainda não informaram como será feita a divisão dos valores entre eles. Releva notar, a esse respeito, que o percentual pretendido pelo advogado Diomar Bezerra Lima (requerente) deverá incidir sobre o montante que irá receber o advogado Ivaldo de Oliveira Ricci; montante esse ainda pendente de apuração, conforme mencionado no parágrafo anterior (fls. 669/672)" (fls. 35/37 e 40).
+A decisão merece prestígio. Com efeito, o agravante firmou contrato de honorários com o advogado que atuava na ação de desapropriação IVALDO DE OLIVEIRA RICCI, para fins de acompanhamento. O contrato foi firmado nestes termos:
+ ..
+Como se vê, o percentual devido a título de honorários ao agravante corresponde a 5% (cinco por cento) dos valores devidos a IVALDO DE OLIVEIRA RICCI, o advogado substabelecente.
+A interpretação que lhe seria mais favorável, da incidência de 5% sobre o total devido a título de honorários, não consta do texto do contrato juntado aos autos. Trata-se de uma interpretação extensiva que não pode ser acolhida.
+Ocorre, como bem entendeu o Juízo a quo, que o advogado VICTORIO DE OLIVEIRA RICCI, irmão do substabelecente, também atuou na fase de conhecimento da demanda, assim como JORGE LUIZ TINOCO SOUZA.
+Logo, como não pode o magistrado realizar a divisão dos honorários, por não ser competente para tanto, a decisão agravada está correta ao protelar o deferimento do levantamento de valores dos créditos, ainda que haja decisão em outros processos afastando o direito do irmão do advogado substabelecente de receber parcela dos honorários.
+Faltam informações mais precisas para deferir-se o levantamento, ainda que em percentual menor.
+Constato que os valores são altos e a autorização prematura de pagamento de quantias elevadas poderá criar outros embaraços à finalização das controvérsias relacionadas ao rateio dos honorários sucumbenciais.
+Portanto, o debate não diz respeito à execução perante a Justiça Federal de sentença da Justiç a Estadual alusiva a indenização de honorários, mas à própria base de cálculo dessa verba, ainda inexistente porquanto indefinidos os valores devidos aos vários patronos envolvidos.
+A pretensão do recorrente depende de que seja reconhecido como correta sua interpretação do contrato, no sentido de que lhe seriam devidos 5% (cinco por cento) do valor total da sucumbência, diferentemente do que foi entendido pela origem. A providência é inviável em recurso especial, à luz da Súmula 5/STJ. Assim, o recurso não é mesmo admissível.
+Isso posto, nego provimento ao agravo interno.
