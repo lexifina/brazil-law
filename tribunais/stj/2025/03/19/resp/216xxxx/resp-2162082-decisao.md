@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALFONSO PIRAJÃO FILHO contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, "a", da Constituição Federal, que proveu parcialmente a apelação da acusação para determinar que o cálculo da prescrição da pena de multa observe o art. 114, II do Código Penal e as causas suspensivas e interruptivas observem as normas relativas à dívida ativa da Fazenda Pública.
+Nas razões recursais, o recorrente afirma que nada obstante a natureza penal da pena de multa, quanto ao prazo prescricional, para fins do art. 51 do CP, este é de 5 anos, nos termos do Decreto-Lei 20.910/1932.
+Com efeito, aduz que a interrupção da prescrição ocorre apenas uma única vez, com o despacho que ordena a citação (art. 8º, da Lei 6.830/80); e a suspensão da prescrição também ocorre uma única vez, nos casos em que não se encontram bens para penhora, ou no caso de o executado não ser encontrado para ser citado (art. 40, Lei 6.830/80), pontuando, ainda, que a suspensão seria limitada a 1 ano.
+Contrarrazões apresentadas às fls. 93/95.
+O Ministério Público Federal manifesta-se pelo não conhecimento do recurso especial (fls. 108/110).
+É o relatório.
+DECIDO.
+O recurso não comporta conhecimento.
+A Corte de origem decidiu a matéria questionada em sede de especial nos termos da jurisprudência firmada nesta Corte Superior.
+Dessa forma, incide no caso a Súmula 83, conforme a assente a jurisprudência do Superior Tribunal de Justiça,
+incumbe à parte apontar julgados, deste Superior Tribunal, contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte Superior é diversa da do Tribunal a quo ou que não se encontra pacificada, ou mesmo demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie (AgRg no AREsp n. 2.253.769/PR, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Na espécie, contudo, a parte agravante não se desincumbiu de demonstrar o equívoco da decisão de inadmissão, uma vez que não buscou comprovar que os julgados indicados na decisão agravada são inaplicáveis à hipótese dos autos ou, ainda, que o atual entendimento jurisprudencial desta eg. Corte Superior não mais se harmoniza com os precedentes nela indicados.
+Nesse sentido:
+DIREITO PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E USO DE ARMA DE FOGO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NULIDADE DE RECONHECIMENTO PESSOAL E PARTICIPAÇÃO DE MENOR IMPORTÂNCIA NÃO DEBATIDAS PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E N. 356, AMBAS DO STF. ALEGADA INSUFICIÊNCIA DE PROVAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONDENAÇÃO DEVIDAMENTE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONDENAÇÃO POR ROUBO MAJORADO. INVIABILIDADE DE EXCLUSÃO DA CAUSA DE AUMENTO POR AUSÊNCIA DE APREENSÃO DA ARMA QUANDO DEMONSTRADA SUA UTILIZAÇÃO POR OUTRAS PROVAS. SÚMULA N. 83/STJ. PRECEDENTES. AGRAVO NÃO CONHECIDO.
+ ..
+II - A transposição da Súmula n. 83, STJ, por sua vez, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar a modificação do julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos.
+III - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia.
+Agravo em recurso especial não conhecido. (AREsp 2015514/TO, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024 - grifamos)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. APROPRIAÇÃO INDÉBITA. DOSIMETRIA DA PENA. CONFISSÃO. SÚMULA N. 231/STJ. IMPOSSIBILIDADE DE MITIGAÇÃO. ARREPENDIMENTO POSTERIOR. NÃO OCORRÊNCIA. A REPARAÇÃO DO DANO DEVE OCORRER ATÉ O RECEBIMENTO DA DENÚNCIA. GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO DA SITUAÇÃO FINANCEIRA. SÚMULA N. 7/STJ.
+ ..
+4. Para impugnar a incidência da Súmula n. 83/STJ, a parte deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve apresentar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ, o que não ocorreu.
+5. Não comprovada a situação financeira do recorrente perante o Tribunal de origem e ausente qualquer comprovação desta condição no recurso especial, não há como desconstituir as premissas fáticas do julgado para a concessão da gratuidade de justiça, consoante o óbice da Súmula n. 7/STJ.
+6. Agravo regimental desprovido. (AgRg no AREsp 2330646/RS, Rel. Desembargador Convocado Jesuíno Rissato, Sexta Turma, julgado em 27/2/2024, DJe de 4/3/2024 - grifamos)
+Cumpre acrescentar, com amparo na jurisprudência de ambas as Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça, "que a incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea c do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" ( AgRg no AREsp 2407873/SE. Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023).
+Nesse mesmo sentido: AgRg no REsp 2017219/PB, Rel. Desembargador Convocado Jesuíno Rissato, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023; AgRg no AREsp 1802457/SP, Rel. Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.
+Conclui-se, portanto, que o recurso não preenche os requisitos de admissibilidade, uma vez que não se conhece do recurso especial pela divergência quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida, como no caso em apreço.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
