@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+Direito processual penal. Habeas corpus. Acordo de não persecução penal. Discricionariedade REGRADA do Ministério Público. Ordem denegada.
+I. Caso em exame
+1. Habeas corpus impetrado contra o acórdão do Tribunal de Justiça do Rio de Janeiro que negou provimento ao recurso de apelação, mantendo a condenação do paciente pela prática do delito previsto no art. 14 da Lei n. 10.826/2003, à pena de 2 anos de reclusão, em regime semiaberto, substituída por duas penas restritivas de direitos.
+2. O Tribunal estadual consignou que o Ministério Público, de forma fundamentada, não ofereceu proposta de Acordo de Não Persecução Penal (ANPP) ao denunciado, em razão da gravidade concreta da conduta, que envolveu disparos de arma de fogo contra policiais em via pública.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a negativa do Ministério Público em oferecer o Acordo de Não Persecução Penal, com base na gravidade concreta da conduta e na ausência de requisitos subjetivos, configura constrangimento ilegal.
+III. Razões de decidir
+4. A aplicação do Acordo de Não Persecução Penal é discricionária e cabe ao Ministério Público verificar a presença dos requisitos legais previstos no art. 28-A do Código de Processo Penal.
+5. A negativa de oferecimento do ANPP foi fundamentada na gravidade concreta da conduta, que envolveu violência, tornando inviável a aplicação do instituto, independentemente da absolvição pelo crime de resistência.
+6. Não há comprovação de erro ou arbitrariedade na negativa ministerial, não se justificando a remessa dos autos ao Procurador-Geral de Justiça.
+IV. Dispositivo e tese
+7. Ordem denegada.
+Tese de julgamento: "1. A aplicação do Acordo de Não Persecução Penal é discricionária e cabe ao Ministério Público verificar a presença dos requisitos legais. 2. A negativa fundamentada na gravidade concreta da conduta não configura constrangimento ilegal".
+Dispositivos relevantes citados: CPP, art. 28-A.
+Jurisprudência relevante citada: STJ, HC 612.449/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/9/2020, DJe 28/9/2020.
+RELATÓRIO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de WANDERSON CARDOSO DA COSTA contra acórdão do Tribunal de Justiça do Rio de Janeiro, que negou provimento ao recurso de apelação, mantendo a condenação do paciente pela prática do delito previsto no art. 14 da Lei n. 10.826/2003, à pena de 2 anos de reclusão, em regime semiaberto, e 10 dias-multa, substituída por duas penas restritivas de direitos. Eis a ementa (fl. 34):
+APELAÇÃO CRIMINAL. Art. 14, da Lei nº 10.826/03. Apelante condenado à pena total de 02 (dois) anos de reclusão, em regime semiaberto, e pagamento de 10 (dez) dias-multa, cada um no valor mínimo legal. Ao final, a pena privativa de liberdade foi substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária. Manutenção da condenação. Materialidade se comprova pelos Laudos de Exame em Arma de Fogo e de Exame em Arma de Fogo e Munições. Autoria indelével diante da prova oral coligida aos autos. Verbete nº 70, da Súmula de Jurisprudência do TJRJ. Intimação do Ministério Público para que ofereça o acordo de não persecução penal. Impossibilidade. O acordo de não persecução penal - ANPP previsto no art. 28-A, do Código de Processo Penal, introduzido pela Lei nº 13.964/19, é um negócio jurídico de natureza extrajudicial, celebrado entre o Ministério Público e o investigado, e posteriormente homologado pelo Juiz, sendo uma alternativa à propositura de ação penal. O Parquet expôs, de forma fundamentada, as razões do não oferecimento do ANPP. Em seu interrogatório o Apelante negou sua participação na dinâmica delitiva. Não havendo confissão - um dos requisitos para a celebração, não há como oferecer o pretendido acordo de não persecução penal. Regime semiaberto para o cumprimento da pena mantido. Diante das circunstâncias do caso concreto, onde houve disparos de arma de fogo efetuados contra policiais em patrulhamento, com a apreensão de um fuzil Imbel e uma pistola calibre 9 mm, além de munições, o regime semiaberto imposto na sentença mostra-se proporcional. Prequestionamento não conhecido. Não houve qualquer tipo de violação à norma constitucional ou infraconstitucional. Descumprimento do requisito da impugnação específica e localizada. DESPROVIMENTO DO RECURSO DEFENSIVO. Manutenção da sentença.
+Alega a impetrante que o paciente preenche os requisitos previstos no art. 28-A do CPP para o oferecimento do Acordo de Não Persecução Penal (ANPP), não podendo a recusa ministerial fundamentar-se na ausência de confissão prévia ou na presença de violência, uma vez que o paciente foi absolvido do delito de resistência.
+Requer a concessão da ordem de habeas corpus para que seja anulado o processo e determinada a intimação do Ministério Público a fim de que se manifeste acerca de eventual interesse na propositura de Acordo de Não Persecução Penal, nos termos do art. 28-A do Código de Processo Penal (fls. 11/12).
+Prestadas as informações (fls. 50/53 e 54/60), o Ministério Público Federal manifestou-se pela inadmissibilidade da impetração ou, se conhecida, pela denegação da ordem (fls. 64/69).
+É o relatório.
+EMENTA
+Direito processual penal. Habeas corpus. Acordo de não persecução penal. Discricionariedade REGRADA do Ministério Público. Ordem denegada.
+I. Caso em exame
+1. Habeas corpus impetrado contra o acórdão do Tribunal de Justiça do Rio de Janeiro que negou provimento ao recurso de apelação, mantendo a condenação do paciente pela prática do delito previsto no art. 14 da Lei n. 10.826/2003, à pena de 2 anos de reclusão, em regime semiaberto, substituída por duas penas restritivas de direitos.
+2. O Tribunal estadual consignou que o Ministério Público, de forma fundamentada, não ofereceu proposta de Acordo de Não Persecução Penal (ANPP) ao denunciado, em razão da gravidade concreta da conduta, que envolveu disparos de arma de fogo contra policiais em via pública.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a negativa do Ministério Público em oferecer o Acordo de Não Persecução Penal, com base na gravidade concreta da conduta e na ausência de requisitos subjetivos, configura constrangimento ilegal.
+III. Razões de decidir
+4. A aplicação do Acordo de Não Persecução Penal é discricionária e cabe ao Ministério Público verificar a presença dos requisitos legais previstos no art. 28-A do Código de Processo Penal.
+5. A negativa de oferecimento do ANPP foi fundamentada na gravidade concreta da conduta, que envolveu violência, tornando inviável a aplicação do instituto, independentemente da absolvição pelo crime de resistência.
+6. Não há comprovação de erro ou arbitrariedade na negativa ministerial, não se justificando a remessa dos autos ao Procurador-Geral de Justiça.
+IV. Dispositivo e tese
+7. Ordem denegada.
+Tese de julgamento: "1. A aplicação do Acordo de Não Persecução Penal é discricionária e cabe ao Ministério Público verificar a presença dos requisitos legais. 2. A negativa fundamentada na gravidade concreta da conduta não configura constrangimento ilegal".
+Dispositivos relevantes citados: CPP, art. 28-A.
+Jurisprudência relevante citada: STJ, HC 612.449/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/9/2020, DJe 28/9/2020.
+VOTO
+O habeas corpus não comporta acolhimento.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a aplicação do instituto do Acordo de Não Persecução Penal é discricionária e regrada, cabendo ao Ministério Público, titular da ação penal, verificar a presença dos requisitos legais previstos no art. 28-A do Código de Processo Penal.
+Na espécie, o Tribunal estadual consignou que o Parquet expôs, de forma fundamentada, as razões do não oferecimento do ANPP (indexador nº 3 - fl. 03): "Deixa o Ministério Público de oferecer proposta de Acordo de Não Persecução Penal, eis que o denunciado não preenche os requisitos previstos no art. 28-A do CPP. In casu, o denunciado estava em via pública e efetuou disparos em face da guarnição policial, impondo ameaça à segurança pública, já que colocara em risco a vida não apenas de policiais militares, mas de diversas pessoas que passavam pelo local. Assim, fixados tais contornos, oportuno salientar que a contundente gravidade intrínseca dos fatos ventilados, por si só, já deixa entrever a insuficiência da medida como forma de prevenção genérica do crime, razão pela qual não se deve cogitar a incidência da citada medida consensual" (fls. 38/39).
+Diferente do que alega a impetrante, a negativa de oferecimento do ANPP não se fundamentou na ausência de confissão do acusado, mas sim na gravidade concreta da conduta perpetrada, materializada nos disparos de arma de fogo contra policiais em via pública, circunstância que evidencia a presença de violência e torna inviável a aplicação do instituto, nos termos do art. 28-A do CPP, independentemente da absolvição pelo crime de resistência.
+A pretensão de imposição ao Parquet de oferecimento do ANPP encontra óbice na ausência de comprovação de erro ou arbitrariedade na negativa ministerial. Nos termos da jurisprudência consolidada, a remessa dos autos ao Procurador-Geral de Justiça, na forma do art. 28-A, § 14, do Código de Processo Penal, somente se justifica diante de motivação inidônea, hipótese não configurada.
+Com efeito, inexiste nulidade na recusa do oferecimento de proposta de acordo de não persecução penal quando o representante do Ministério Público, de forma fundamentada, constata a ausência dos requisitos subjetivos legais necessários à elaboração do acordo, de modo que este não atenderia aos critérios de necessidade e suficiência em face do caso concreto (HC n. 612.449/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/9/2020, DJe 28/9/2020).
+Ausente, pois, constrangimento ilegal a ser reparado.
+Ante o exposto, denego a ordem.
