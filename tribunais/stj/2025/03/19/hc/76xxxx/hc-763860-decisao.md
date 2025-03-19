@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RODRIGO COSTA SILVA em face de acórdão do Tribunal de Justiça do estado de Minas Gerais.
+O paciente encontra-se denunciado pelos crimes de homicídio triplamente qualificado e associação criminosa nos Autos nº 0313.21.008372-8, distribuídos à Vara de Execuções Penais, Cartas Precatórias Criminais e do Tribunal do Júri da Comarca de Ipatinga/MG, e também pelos crimes de associação para o tráfico de entorpecentes e de receptação nos Autos nº 5018231-52.2021.8.13.0313, distribuídos à 1ª Vara Criminal da Comarca de Ipatinga/MG.
+Alega a existência de conexão e sustenta a competência da Vara do Tribunal do Júri, "pois a imputação relativa ao crime previsto na Lei de Tóxicos, objeto deste processo, mantém estreita vinculação com a acusação de homicídio qualificado, movida pelo Ministério Público em desfavor do paciente, ainda em trâmite na primeira etapa do procedimento do Tribunal do Júri sob o n. 0083728-98.2021.8.13.0313 e n. 5008454- 09.2022.8.13.0313".
+Requer seja reconhecida a coação ilegal, declarando-se a incompetência da autoridade coatora para instrução e julgamento da infração penal conexa ao crime doloso contra a vida, determinando-se remessa ao Tribunal do Júri.
+As informações foram prestadas ( fls.1651/1655, 1656/1681).
+O Ministério Público Federal ofereceu parecer (fls. 1681/1688).
+RELATADO. DECIDO.
+Inicialmente cumpre ressaltar que o habeas corpus não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configura a competência originária desta Corte.
+O Superior Tribunal de Justiça, alinhando-se à jurisprudência mais recente do Supremo Tribunal Federal, passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC n. 792.645/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, D Je de 13/2/2023).
+O Tribunal de origem denegou a ordem de habeas corpus e prolatou a seguinte decisão a respeito da competência para processo e julgamento dos feitos ( fls.1622 ).
+EMENTA: HABEAS CORPUS - ASSOCIAÇÃO PARA O TRÁFICO - CONEXÃO DO FEITO - REJEIÇÃO - FATOS AUTÔNOMOS - PREJUÍZO NÃO DEMONSTRADO - APLICAÇÃO DO PRINCÍPIO PAS DE NULLITÉ SANS GRIEF - CONSTRANGIMENTO ILEGAL NÃO CONSTATADO - ORDEM DENEGADA. - Ausentes as hipóteses do artigo 76 do Código de Processo Penal, não há que se falar em conexão dos feitos. - No processo penal só se declara nulidade se houver efetivo prejuízo à parte, conforme dispõe o art. 563 do Código de Processo Penal, que materializa a máxima francesa pas de nulitté sans grief.
+Ressaltou, ainda, o Ministério Público Federal o disposto no artigo 80 do CPP: "Será facultativa a separação dos processos quando as infrações tiverem sido praticadas em circunstâncias de tempo ou de lugar diferentes, ou, quando pelo excessivo número de acusados e para não Ihes prolongar a prisão provisória, ou por outro motivo relevante, o juiz reputar conveniente a separação."
+Não verifico flagrante ilegalidade ou teratologia na decisão apontada que possa embasar a concessão de ordem de ofício.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
