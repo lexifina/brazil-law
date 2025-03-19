@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE FERROVIÁRIO. CULPA CONCORRENTE. DANO MORAL. PRETENDIDA MAJORAÇÃO DO QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  No acórdão objeto do recurso especial, o Tribunal de origem manteve o quantum fixado na sentença a título de danos morais, R$ 52.500,00 (cinquenta e dois mil e quinhentos reais), por compreender que o valor atende aos princípios da razoabilidade e da proporcionalidade, e se mostra adequado às circunstâncias do caso concreto, em que houve culpa concorrente.
+2. Segundo a jurisprudência desta Corte, somente em casos excepcionais, quando irrisório ou exorbitante o valor da indenização, é possível o afastamento do óbice da Súmula 7/STJ para possibilitar sua revisão. No caso, o valor arbitrado na origem não se mostra irrisório, não ensejando a intervenção desta Corte.
+3.  Agravo  interno  improvido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por M DE O DA S A contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial, pela aplicação da Súmula 7/STJ.
+Argumenta  a  parte agravante,  em  síntese,  a desnecessidade de revolvimento fático-probatório, in verbis:
+ ..  o que se pretende é a aplicação do direito violado à espécie, não havendo qualquer necessidade de se incursionar na seara fático-probatória, até mesmo porque o valor da indenização por danos morais, R$ 52.500,00 (cinquenta e dois mil e quinhentos reais), fixado para o filho da vítima do evento danoso descrito na exordial, é ínfimo e irrisório, não observando os critérios da razoabilidade e proporcionalidade, a extensão do dano, o caráter pedagógico e punitivo e a concorrência de causas, negando vigência ao disposto nos artigos 944 e 945, ambos do Código Civil.
+ ..
+O recurso especial também merece ser admitido no tocante à existência de dissídio jurisprudencial, uma vez que foi realizado o devido confronto analítico entre os v. acórdãos paradigmas e o ora atacado, os quais versam sobre as mesmas situações fáticas, encontrando, no entanto, diferentes fundamentos jurídicos, além de ter sido adunados aos autos os paradigmas na sua integralidade, inclusive com certidão de julgamento (fls. 851-852).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE FERROVIÁRIO. CULPA CONCORRENTE. DANO MORAL. PRETENDIDA MAJORAÇÃO DO QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  No acórdão objeto do recurso especial, o Tribunal de origem manteve o quantum fixado na sentença a título de danos morais, R$ 52.500,00 (cinquenta e dois mil e quinhentos reais), por compreender que o valor atende aos princípios da razoabilidade e da proporcionalidade, e se mostra adequado às circunstâncias do caso concreto, em que houve culpa concorrente.
+2. Segundo a jurisprudência desta Corte, somente em casos excepcionais, quando irrisório ou exorbitante o valor da indenização, é possível o afastamento do óbice da Súmula 7/STJ para possibilitar sua revisão. No caso, o valor arbitrado na origem não se mostra irrisório, não ensejando a intervenção desta Corte.
+3.  Agravo  interno  improvido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Na origem, o recorrente, menor impúbere, representado por sua tutora, ajuizou ação indenizatória contra a COMPANHIA ESTADUAL DE ENGENHARIA DE TRANSPORTES E LOGÍSTICA (CENTRAL), alegando que seu pai faleceu após colidir com um trem da companhia ré, em cruzamento sem a sinalização adequada.
+Em 1º Grau, a ação foi julgada parcialmente procedente, para condenar a ré ao pagamento de indenização por danos morais no valor de R$ 52.500,00 (cinquenta e dois mil e quinhentos reais), acrescido da correção monetária a contar da data da sentença e dos juros de mora a contar do ilícito, nos termos da Súmula 54/STJ. Condenou, ainda, ao pagamento de pensão mensal ao autor, no valor de 1/3 (um terço) do salário mínimo nacional vigente, desde a data do seu nascimento (13/2/2011), até que atinja a maioridade civil com 18 (dezoito) anos ou até que complete 24 (vinte e quatro) anos, se comprovar matrícula e frequência em curso superior.
+O Tribunal de origem negou provimento ao recurso da ré e de u parcial provimento ao recurso do autor, "apenas para determinar a constituição de capital garantidor" (fl. 706).
+Sobre o quantum indenizatório, confira-se o seguinte trecho do acórdão recorrido:
+ ..  o juízo, adequadamente, assim motivou a quantificação da verba compensatória, atento à orientação qualificada do Superior Tribunal de Justiça (Tema n.º 518/RR) e ao critério bifásico (fls. 423):
+Partindo do valor médio, isto é, R$ 75.000,00 (setenta e cinco mil reais), o qual deve ser reduzido à metade, considerando a concorrência de culpa. Por seu turno, tendo em vista a existência de circunstâncias agravantes, quais sejam, o conhecimento da existência da passagem clandestina e a omissão na sua obstrução, aumento o valor da indenização em R$ 10.000,00 (dez mil reais), e, finalmente, aumento em mais R$ 5.000,00 (cinco mil reais) pela inexistência de sinalização que alertasse quanto ao perigo de utilização da passagem clandestina.
+Por todas as considerações e aplicando o método bifásico, fixo a indenização por danos morais devida ao autor em R$ 52.500,00 (cinquenta e dois mil e quinhentos reais).
+Logo, a importância estabelecida a título de compensação por danos morais não só se insere no intervalo concebido pela jurisprudência em hipóteses congêneres como atende aos princípios da razoabilidade e da proporcionalidade, de modo que adequada às circunstâncias do caso concreto, levando-se em conta os elementos do processo e as condições específicas das partes, notadamente o bem jurídico tutelado (fl. 704 - grifo nosso).
+Com efeito, a pretensão da parte recorrente de majorar o valor do dano moral encontra óbice na Súmula 7/STJ.
+Segundo a jurisprudência desta Corte, somente em casos excepcionais, quando irrisório ou exorbitante o valor da indenização, é possível o afastamento do óbice da Súmula 7/ STJ para possibilitar sua revisão.
+No caso, o valor arbitrado na origem (R$ 52.500,00) não se mostra irrisório, não ensejando a intervenção desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. VALOR DO DANO MORAL. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso dos autos, conforme se extrai do acórdão recorrido, cuida-se de ação de indenização por danos materiais e morais, em decorrência de acidente ferroviário, consistente no atropelamento por composição férrea, que vitimou a mãe dos autores. Em primeira instância, os pedidos foram julgados parcialmente procedentes e, interpostas apelações, o Tribunal local deu parcial provimento aos recurso, para reconhecer a culpa concorrente da vítima e reduzir o valor da condenação à título de dano moral para R$30.000,00 (trinta mil reais) para cada autor.
+2. Não é possível acolher a pretensão recursal no sentido de que o valor arbitrado a título de danos morais se revela desproporcional e desarrazoado. Frise-se que o Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie.
+3 . Agravo interno não provido (AgInt no AREsp n. 1.948.942/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/2/2022, DJe de 17/2/2022 - grifo nosso).
+Isso posto, nego provimento ao recurso.
