@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, i mpetrado em benefício de MARCOS FELIPE DOS SANTOS SILVA RAMOS, em que se aponta como autoridade coatora o Tribunal de Justiça de Alagoas, que denegou o Habeas Corpus criminal n. 0800229-22.2025.8.02.0000, mantendo a prisão preventiva imposta ao paciente pela Central de Audiência de Custódia da comarca de Maceió/AL, pela suposta prática do crime de tráfico de drogas.
+Neste writ, a defesa argumenta que a prisão preventiva foi decretada sem pedido expresso do Ministério Público, contrariando a Lei n. 13.964/2019, que impede a decretação de prisão de ofício pelo juiz.
+Alega que a decisão que decretou a preventiva é carente de fundamentação e que a prisão em questão é desproporcional.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva, com a expedição do respectivo alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão por medidas cautelares diversas.
+É o relatório.
+Infere-se dos autos que o Juízo singular homologou o flagrante e converteu a prisão em flagrante em prisão preventiva, com fundamento na garantia da ordem pública, evidenciada pela quantidade de drogas apreendidas (470 g de maconha e 30 g de cocaína). Apesar do parecer do Ministério Público, que, na audiência de custódia, manifestou-se favoravelmente à substituição da prisão preventiva por medidas cautelares diversas, o Juízo singular manteve a prisão preventiva.
+Pois bem, a jurisprudência desta Corte é no sentido de que é possível ao magistrado decretar medida cautelar diversa daquela requerida pelo Ministério Público, no caso, a cautelar máxima de prisão preventiva, o que não representa atuação ex officio, inexistindo, portanto, flagrante constrangimento ilegal.
+Nesse sentido: AgRg no RHC n. 195.540/PA, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/6/2024, DJe 14/6/2024; e AgRg no RHC n. 194.94 4/BA, Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe 23/5/2024.
+De outra banda, verifico ser desproporcional a imposição de prisão preventiva, considerando a primariedade do paciente (réu beneficiado com o ANPP em 2021), que o crime foi cometido sem violência e o fato de a quantidade de droga apreendida não se mostrar expressiva - 470 g de maconha e 30 g de cocaína -, a justificar a medida mais gravosa. Portanto, a gravidade da infração deve ser avaliada com base na quantidade e no contexto das drogas apreendidas.
+A prisão preventiva deve ser a ultima ratio, ou seja, aplicada somente quando outras medidas cautelares não forem adequadas para garantir a ordem pública, a aplicação da lei penal ou a conveniência da instrução criminal. A decisão de manter a prisão preventiva deve ser fundamentada na necessidade, adequação e proporcionalidade da medida em relação aos fatos e circunstâncias do caso.
+Ante o exposto, concedo liminarmente a ordem, apenas, para cassar o acórdão impugnado e substituir a prisão preventiva imposta ao ora paciente por medidas cautelares, a serem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto, nos termos desta decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DECRETAÇÃO DE OFÍCIO. NÃO OCORRÊNCIA. PRIMARIEDADE E QUANTIDADE DE DROGAS NÃO EXORBITANTES. 470 G DE MACONHA E 30 G DE COCAÍNA. SUBSTITUIÇÃO POR CAUTELARES. POSSIBILIDADE E ADEQUAÇÃO.
+Ordem concedida liminarmente nos termos do dispositivo.
