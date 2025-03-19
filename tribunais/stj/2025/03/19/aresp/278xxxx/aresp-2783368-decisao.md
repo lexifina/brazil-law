@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interposto por KERGINALDO VIEIRA DA SILVA e ARIE HALPERN contra decisão que obstou a subida de recurso especial.
+Extrai-se dos au to s que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 913):
+RECURSO - APELAÇÃO CÍVEL - ACIDENTE DE TRANSITO - COLISÃO ENTRE VEICULO AUTOMOTOR E MOTOCICLO - DECESSO DO CONDUTOR DO MOTOCICLO EM RAZÃO DAS SEQUELAS RESULTANTES DO EMBATE - REPARAÇÃO DE DANOS MATERIAIS E MORAIS PENSÃO MENSAL - AÇÃO DE COBRANÇA. Acidente causado pelo requerido, que não tomou os cuidados necessários na direção de seu automóvel. Culpa devidamente reconhecida, eis que não tomou as cautelas devidas, causando os danos materiais em motociclo. Indenização por danos materiais. Possibilidade. Pensão mensal devidamente fixada. Ausência de impugnação específica pelos requeridos. Valor fixado que deve prevalecer. Ausência de prova em contrário. Dano moral. Indenização que deve ter conteúdo didático de modo a coibir a reincidência do causador do dano sem, contudo, enriquecer a vítima. Decisão que arbitrou a indenização em conformidade com os critérios de proporcionalidade e razoabilidade observadas ainda as peculiaridades do caso concreto. Procedência parcial na origem. Sentença mantida. Recurso de apelação dos requeridos não provido, majorada a verba sucumbencial com base no parágrafo 11 do artigo 85 do Código de Processo Civil.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega divergência jurisprudencial quanto ao valor fixado em sede de danos morais, o qual reputa exorbitante.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 949-961).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 984-986), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1011-1018).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Quanto ao pedido de minoração do quantum indenizatório, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 14% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR ACIDENTE DE TRÂNSITO. PEDIDO DE MINORAÇÃO DO QUANTUM INDENIZATÓRIO. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS TIDOS POR VIOLADOS. SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
