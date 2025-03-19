@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de JAILSON DE BARROS CORREIA, em que se aponta como autoridade coatora a 2ª Turma do TRF-5ª Região (HC n. 0813176-94.2024.4.05.0000).
+Na peça, a Defesa informa que o paciente está submetido a constrangimento ilegal em razão do acórdão que deixou de reconhecer o excesso de prazo do inquérito policial ePol n. 2020.0076185-SR/PF/PE, instaurado em 27 de julho de 2020, para apurar supostas irregularidades em dispensa licitatória para contratação do Instituto Humanize, que prestou serviços de gestão de hospital de campanha durante a pandemia de Covid-19.
+Alega que a investigação perdura por mais de 04 anos e 04 meses sem formação de culpa, com sucessivas dilações de prazo e poucas diligências efetivas, configurando patente excesso de prazo.
+Afirma que o paciente não contribuiu para o prolongamento das investigações e que o inquérito policial se alastra sem o oferecimento de denúncia válida.
+Sustenta que a ausência de trancamento imediato e a fixação de prazo alargado para conclusão do inquérito (6 meses) mantêm o constrangimento ilegal contra o paciente.
+Argumenta que a investigação não é complexa e que o prolongamento indevido das investigações pode representar ofensa à lei de Abuso de Autoridade.
+No mérito, requer o imediato trancamento do inquérito policial, ante o transcurso de mais de 04 anos e 04 meses de duração, sem formação da culpa.
+Prestadas as informações solicitadas (e-STJ fls. 134/144), opinou o Ministério Público Federal "pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem." (e-STJ fls. 147/152).
+É o relatório. Decido.
+Conforme relatado, a defesa se insurge, em síntese, contra o excesso de prazo para conclusão do inquérito policial. Pugna, assim, pelo trancamento da investigação.
+Com efeito, o Supremo Tribunal Federal e o Superior Tribunal de Justiça entendem que "o trancamento de inquérito policial ou de ação penal em sede de habeas corpus é medida excepcional, só admitida quando restar provada, inequivocamente, sem a necessidade de exame valorativo do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade, ou, ainda, a ausência de indícios de autoria ou de prova da materialidade do delito" (RHC n. 43.659/SP, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 4/12/2014, DJe 15/12/2014).
+Quanto ao apontado excesso de prazo na conclusão das investigações, é preciso ter presente que o tempo para a conclusão do inquérito policial ou procedimento investigatório criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se necessário raciocinar com o juízo de razoabilidade, não se ponderando a mera soma aritmética de tempo para os atos de investigação.
+Desse modo, "o trancamento do procedimento de investigação criminal evidencia a solução que melhor equaciona os interesses dos órgãos de persecução penal com os direitos e garantias fundamentais do cidadão de não ser submetido a investigações destituídas de objeto determinado e por período desarrazoado". (AgRg no HC n. 844.564/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/11/2023, DJe de 30/11/2023.).
+Na hipótese dos autos, as investigações já ultrapassaram 4 anos, e o próprio Tribunal Regional Federal da 5ª Região já fixou, dentro da discricionariedade do julgador, o prazo de 6 meses para a conclusão do inquérito policial (e-STJ fl. 35), sendo prudente aguardar a finalização deste prazo, que ocorrerá em breve.
+Desse modo, não há como reconhecer o apontado constrangimento ilegal.
+Ante o exposto, não conheço do mandamus. Recomendo ao Juízo de primeiro grau a observância do prazo para a conclusão do inquérito policial dado pelo Tribunal Regional Federal da 5ª Região.
+Publique-se.
+EMENTA
